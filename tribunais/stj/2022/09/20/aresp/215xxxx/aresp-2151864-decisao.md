@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se deagravo interposto por TRANSPORTADORA BRASILEIRA GASODUTO BOLIVIA-BRASIL S/A, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e n. 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de TRANSPORTADORA BRASILEIRA GASODUTO BOLIVIA-BRASIL S/A, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes aosubscritordo agravo e do recurso especial, Dr. José Carlos Busatto.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício,opôs embargos de declaração contra certidão para saneamento de óbices.
+Registre-se que a certidão de saneamento não possui conteúdo decisório, razão pela qual é irrecorrível. No caso, incide por analogia o disposto no art. 1.001 do CPC, in verbis, "dos despachos não cabe recurso". Nesse sentido: AgInt nos EDcl na PET nos EAREsp 1209653/SP, Rel. Ministro Benedito Gonçalves, Corte Especial, DJe de 11/11/2019; AgInt na PET na PET no AgInt nos EDcl no RE nos EDcl nos EDcl no MS 20.443/DF, Rel. Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/10/2019.
+Portanto, não conheço da irresignação, uma vez que manifestamente incabível.
+Esclareça que o recurso manifestamente incabível não interrompe o prazo para a regularização do vício apontado.
+Assim, a procuração eos substabelecimentos de fl. 220/225não podem ser conhecidos para os fins a que se destinam, uma vez que protocolizados fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.Dessa forma, tendo o prazo escoado, sem cumprimento da diligência, o recurso não foi devida e oportunamente regularizado.
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo, na espécie, o disposto na Súmula n. 115/STJ.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça,não conheço do recurso.
+Publique-se. Intimem-se.
