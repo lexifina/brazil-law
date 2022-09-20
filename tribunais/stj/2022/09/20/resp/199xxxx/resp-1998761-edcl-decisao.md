@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BRADESCO AUTO/RE COMPANHIA DE SEGUROSà decisão proferida por esta relatoria nos termos da seguinte ementa (e-STJ, fl. 660):
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO DECORRENTE DE ACIDENTE DE TRÂNSITO. DANO ESTÉTICO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DANO MORAL. MAJORAÇÃO. POSSIBILIDADE. RECURSO CONHECIDO EM PARTE PARA, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
+Em suas razões, a embargante sustentahaver omissão na decisão embargada, no tocante à sua responsabilidade decorrente da majoração da indenização por danos morais pleiteada por RIVALDINO DAVID DOS SANTOS.
+Para tanto, sustenta que não foi mencionada a responsabilidade da seguradora quanto ao pagamento da condenação, tampouco aos limites da apólice de seguro. Aduz, ainda, que inexiste responsabilidade no que diz respeito ao pagamento da majoração da condenação, uma vez que já realizou o depósito da quantia integral da importância segurada, esgotando o valor dos danos morais.
+Por fim, pugna pelo acolhimento dos embargos, a fim de que seja sanada a omissão.
+Impugnação apresentada (e-STJ, fls. 687-691).
+Brevemente relatado, decido.
+Os embargos de declaração constituem meio de impugnação à decisão judicial de fundamentação vinculada, cabíveis apenas nas hipóteses estabelecidas no art. 1.022 do Código de Processo Civil de 2015, quais sejam, omissão, obscuridade e contradição, bem como para sanar erro material.
+Tal recurso objetiva o aprimoramento das decisões judiciais, com o propósito de prestar a tutela jurisdicional de forma clara e completa, sem, contudo, revisar ou anular decisões. Apenas excepcionalmente, ante o aclaramento de obscuridade, desfazimento de contradição ou supressão de omissões, prestam-se os declaratórios a modificar o julgado.
+Ilustrativamente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.2. Ainda que para fins de prequestionamento, mostra-se incabível a apreciação de matéria constitucional na via eleita, sob pena de usurpação da competência do eg. Supremo Tribunal Federal, nos termos do que dispõe o art. 102, III, da Magna Carta.3. Embargos de declaração rejeitados (EDcl no AgInt no AREsp 1.475.227/RS,Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020).
+No caso vertente, a embargante pretende que seja sanada a omissão quanto à sua responsabilidade ante a majoração dos danos morais. Nesse ponto, com razão a insurgente em relação à questão suscitada. Dessa forma, passa-se à análise de questão.
+Quando do julgamento em primeira instância, o magistrado singular assim se pronunciou sobre a responsabilidade da ora embargante.
+Veja-se (e-STJ, fls. 401-402):
+Há relação jurídica entre o requerido e a denunciada, o período de vigência da apólice abrange a data da ocorrência do sinistro.
+Aliás, tais fatos são reconhecidos pela seguradora. Imposto ao réu a obrigação de indenizar a autora, deve a denunciada ressarcir os valores despendidos, por força do contrato pactuado entre elas, nos limites da apólice e de acordo com os riscos cobertos.
+Do excerto acima, depreende-se, conforme assentado na origem,que a obrigação da seguradora denunciada ficaria adstrita ao limite da apólice contratada.
+Destarte, é de se reconhecer que a deliberação unipessoal (e-STJ, fls. 660-663) incorreu em omissão ao deixar de consignar, em seu dispositivo, que a responsabilidade da parte embargante estaria limitada ao valor estabelecido na apólice e, caso játenha havido o pagamento de algum valor, tal fato deverá ser verificado na instância originária, no momento oportuno,cabendo à interessada demonstrar a sua ocorrência.
+Ante o exposto, acolho os embargos de declaração, a fim de sanar a omissão nos termos delineados acima, sem efeitos modificativos, deixando expressamente consignado que a responsabilidade da seguradora está limitada aos limites da apólice.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INDENIZAÇÃO DECORRENTE DE ACIDENTE DE TRÂNSITO. MAJORAÇÃO DE DANO MORAL. RESPONSABILIDADE DA SEGURADORA DENUNCIADA. OMISSÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
