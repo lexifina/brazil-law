@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto pelo Ministério Público Federalcontra a decisão, de minha lavra, em que concedi a ordemde ofício, de forma parcial, em favor de Vitor Alves Lima.Eis a ementa (fl. 1253):
+HABEAS CORPUS. TRÁFICO DE DROGAS. 1,21 KG DE MACONHA.WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO.SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. INADMISSIBILIDADE. ILEGALIDADE FLAGRANTE. QUANTIDADE DE ENTORPECENTE APREENDIDO COMO FUNDAMENTO PARA MAJORAR A PENA-BASE E PARA MODULAR A FRAÇÃO DE APLICAÇÃO DO REDUTOR DO TRÁFICO PRIVILEGIADO.BIS IN IDEM. REDIMENSIONAMENTO DA REPRIMENDA.
+Writ não conhecido. Habeas corpus concedido de ofícionos termos do dispositivo.
+Sustenta o agravante, em suma, que não há falar em bis in idem, poisa quantidade de drogas não foi utilizada, diretamente, para nortear a fração aplicada na terceira fase dosimétrica, mas simpara chegar-se à conclusão de que o agravado dedica-se à atividade criminosa ou integra organização criminosa e, consequentemente, sequer, fazia jus ao tráfico privilegiado. Não obstante, diante da inércia do Parquet Estadual, o que impossibilitou o afastamento da minorante, a Corte de origem reputou adequada a sua aplicação no patamar mínimo (1/6) (fl. 1.264).
+Ressalta que,em recentes julgados, esse Egrégio Tribunal tem afastado a possibilidade da natureza e da quantidade de droga, isoladamente, sem a somatória de outras circunstâncias concretas, afastarem a incidência do tráfico privilegiado. No presente feito, a quantidade de substância entorpecente apreendida foi citada na derradeira etapa da dosimetria apenas para ressalvar que o agravado sequer fazia jus à benesse, mas, como não poderia piorar sua situação, que fosse mantida a fração mínima (fl. 1.264).
+Conclui, assim, que, por terem sido usados fundamentos diferentes nas primeira e terceira fases dosimétricas, indevido o reconhecimentode bis in idem.
+Requer, assim, a reconsideração da decisão agravada ou a submissão do agravo ao colegiado, a fim de restabelecer o acórdão estadual.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 1,21 KG DE MACONHA. DOSIMETRIA.QUANTIDADE DE ENTORPECENTE APREENDIDO COMO FUNDAMENTO PARA MAJORAR A PENA-BASE E PARA MODULAR A FRAÇÃO DE APLICAÇÃO DO REDUTOR DO TRÁFICO PRIVILEGIADO (ART. 33, § 4º, DA LEI N. 11.343/2006).BIS IN IDEM. REDIMENSIONAMENTO DA REPRIMENDA DEVIDO.
+Agravo regimental improvido.
+VOTO
+Apesar das alegações do agravante, o entendimento firmado na decisão agravada não comporta alteração.
+No caso dos autos,a impetração buscava, dentre outros,a aplicação da causa de diminuiçãodo tráfico de drogas privilegiado em sua fração máxima.
+Sobre o tema, o Tribunal a quo teceu o seguinte fundamento (fls. 538/539 - grifo nosso):
+ ..
+A pena-base foi acertadamente fixada em 1/6 acima do mínimo legal, em 05 anos e 10 meses de reclusão e 583 dias-multa em seu mínimo unitário com fundamento na significativa quantidade de droga apreendida, quatro "tijolos" de maconha com peso líquido superior a um quilo.
+Na segunda fase da dosimetria, a pena se manteve inalterada, ante a inexistência de circunstâncias agravantes ou atenuantes.
+Na terceira etapa, por entender presentes os requisitos previstos no artigo 33, § 4º, da Lei nº 11.343/2006, a Magistrada reduziu a pena do acusado em 1/6.
+Observo que, a meu sentir, nem mesmo era o caso de algum redutor, eis que embora o réu tenha alegado trabalhar como pescador e guia de pesca, não comprovou o recebimento de rendimentos suficientes à aquisição daquela significativa quantidade de entorpecentes, tudo a indicar a sua ligação a outros indivíduos versados na mesma criminalidade, ou ao menos que já atuasse há bom tempo no comércio ilegal de entorpecentes.
+Por óbvio, os requisitos previstos pelo legislador no artigo 33, § 4º, da Lei nº.11.343/2006 devem ser analisados separadamente.
+Do contrário, bastaria que a norma exigisse o preenchimento do requisito da primariedade para que o agente fosse agraciado com a redução da pena.
+Entretanto, diante da não interposição de recurso pelo representante do Ministério Público, mantenho o redutor na fração de 1/6, o que resultou na pena definitiva de 04 anos, 10 meses e 10 dias de reclusão e 485 dias-multa em seu mínimo unitário.
+E não obstante o meu convencimento quanto à propriedade do regime prisional mais rigoroso, fica mantido o regime prisional semiaberto para o início do cumprimento da pena privativa de liberdade, nos termos da recente decisão prolatada pela 6ª Turma do Egrégio Superior Tribunal de Justiça no HC nº 596.603, de observância obrigatória.
+O mencionado precedente não determina a concessão automática do regime inicial aberto aos indivíduos condenados pela prática do crime de tráfico de drogas privilegiado, quando as circunstâncias judiciais recomendarem a imposição do regime intermediário.
+A quantidade, a variedade e a natureza das drogas apreendidasensejaram a exasperação da pena-base e obstaram a diminuição máxima da pena quando da incidência do redutor, bem como autorizam a fixação do regime inicial semiaberto.
+Vale consignar que o acusado possuía quatro "tijolos" de maconha em sua residência, com peso líquido superior a um quilo, a mais justificar a imposição do regime intermediário.
+ ..
+Quanto ao critério de escolha dafraçãoredutora, aquantidade,a natureza e a variedade das drogas constituem fundamento idôneo para justificar a fixação da minorante do § 4º do art. 33 da Lei n. 11.343/2006, em patamar inferior ao máximo legal;contudo, tal critérionão pode ser utilizado, também, na primeira fase dosimétrica, sob pena de configurar indevidobis in idem.
+Como se vê, o Tribunal manteve a fração mínimapela incidência da minorante do tráfico privilegiado por terentendido que oréu não é iniciante na prática do tráfico de drogas, com base, apenas,na quantidade de droga apreendida. Nesse toar, apesar da quantidade de droga não ter sido utilizada diretamentepara nortear a fração aplicada, ela foi o único fator concreto citado pelo Tribunal, razão pela qual persiste a ilegalidade.
+Em outras palavras, incasu, afastou-se a aplicação de maior fração com base na presunção de que o agente se dedicava aatividade criminosa,em virtude da elevadaquantidadede substância entorpecente,configurando-se, destarte, o constrangimento ilegal, já que a quantidade de droga já foi utilizada como fundamento para robustecer a pena-base.
+Destaca-se, mais uma vez, que a posição da Sexta Turma deste Tribunal Superior e também do Plenário do Supremo Tribunal Federal é no sentido de que configura bis in idem a utilização da quantidade de drogas tanto na fixação da pena-base como na escolha da fração de redução da reprimenda, pela causa de diminuição mencionada no parágrafo anterior (REsp n. 1.225.059/MG, de minha relatoria, Sexta Turma, DJe 10/4/2014).
+Menciono, ainda, precedente do Plenário do Supremo Tribunal Federal, proferido em repercussão geral em recurso extraordinário: Recurso extraordinário com agravo. Repercussão geral. 2. Tráfico de Drogas. 3. Valoração da natureza e da quantidade da droga apreendida em apenas uma das fases do cálculo da pena.Vedação ao bis in idem. Precedentes. 4. Agravo conhecido e recurso extraordinário provido para determinar ao Juízo da 3ª VECUTE da Comarca de Manaus/AM que proceda a nova dosimetria da pena. 5. Reafirmação da jurisprudência. (ARE n. 666.334 RG/AM, Ministro Gilmar Mendes, DJe 6/5/2014).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. DECISÃO MONOCRÁTICA IN LIMINE. LEGALIDADE. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL COM BASE NA QUANTIDADE E VARIEDADE DAS DROGAS APREENDIDAS. LEGALIDADE. ART. 59 DO CÓDIGO PENAL, C.C. O ART. 42 DA LEI DE DROGAS. QUANTUM DE AUMENTO. OFENSA AO PRINCÍPIO DA PROPORCIONALIDADE. NECESSIDADE DE READEQUAÇÃO. CAUSA DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N. 11.343/2006. QUANTIDADE DE DROGA APREENDIDA. AUSÊNCIA DE COMPROVAÇÃO DE TRABALHO LÍCITO. CIRCUNSTÂNCIAS QUE, POR SI SÓS, NÃO PERMITEM AFERIR A DEDICAÇÃO DO ACUSADO À ATIVIDADE CRIMINOSA. AUSÊNCIA DE CONTEMPORANEIDADE DOS ATOS INFRACIONAIS PRETÉRITOS. FUNDAMENTAÇÃO APRESENTADA PELA CORTE DE ORIGEM QUE DIVERGE DO ENTENDIMENTO DA TERCEIRA SEÇÃO DESTA CORTE SUPERIOR NO JULGAMENTO DO ERESP N. 1.916.596/SP. AGRAVO DESPROVIDO.
+ ..
+5. Na hipótese, a pena-base já foi majorada em razão da quantidade de entorpecente, de sorte que a modulação da fração com o mesmo fundamento importaria em bis in idem, conforme entendimento do Supremo Tribunal Federal consolidado no julgamento do Recurso Extraordinário n. 666.334/AM, submetido ao regime de repercussão geral (Tese de Repercussão Geral n. 712).
+ ..
+10. Agravo regimental desprovido.
+(AgRg no HC n. 744.924/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS. RECURSO DO MINISTÉRIO PÚBLICO. DOSIMETRIA. ART. 33, § 4º, DA LEI N. 11.343/2006. MODULAÇÃO DA FRAÇÃO DE REDUÇÃO DA MINORANTE. QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. UTILIZAÇÃO NA PRIMEIRA E NA TERCEIRA FASES DA DOSIMETRIA. IMPOSSIBILIDADE. BIS IN IDEM. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. No julgamento do RE n. 666.334/AM, submetido ao regime de repercussão geral (Tese n. 712), o STF fixou o entendimento de que a natureza e a quantidade de entorpecentes não podem ser utilizadas em duas fases da dosimetria da pena.
+2. A tese firmada no REsp n. 1.887.511/SP foi flexibilizada para admitir a modulação da fração de redução do § 4º do art. 33 da Lei n. 11.343/2006 na terceira fase da dosimetria, com base na quantidade e natureza das drogas apreendidas, desde que não tenham sido consideradas na fixação da pena-base (HC n. 725.534, Terceira Seção do STJ).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 704.275/PA, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 16/8/2022, DJe de 19/8/2022 - grifo nosso)
+Necessário, assim, aplicar a minorante aopaciente, nos termos da decisão
+agravada.
+Ante o exposto,nego provimentoao agravo regimental.
