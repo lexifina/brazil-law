@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto porSORANA COMERCIAL E IMPORTADORA LTDA contra decisão de fls. 495/497, que inadmitiu seu recurso especial, exarada pelo il. Presidente da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP).
+Por sua vez, o apelo nobre (fls. 400/410), com fulcro na alínea "a" do permissivo constitucional, foi manejado contra v. acórdão proferido pela 35ª Câmara da Seção de Direito Privado do eg. TJ-SP que negou provimento às apelações de ambas as partes, nos autos de ação de indenização por danos materiais e morais ajuizada pela ora agravante, nos termos da seguinte ementa:
+"BEM MÓVEL - COMPRA E VENDA - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - Cerceamento de defesa - Inocorrência-Apreensão do veículo - Culpa da revendedora - Não demonstrada - Causa não determinante - Pendência de gravames - Clonagem e bloqueio judicial -Ação improcedente - Recursos desprovidos." (fl. 361)
+Os embargos de declaração opostosforam rejeitados(fls. 380/383).
+Nas razões do recurso especial, arecorrente aponta ofensa aoart. 20, § 3º,125, inciso I, 131, 332, 333, 458e 535, incisos Ie II, do CPC/73,sustentando, em síntese, que os honorários de sucumbência fixados são irrisórios, pois incompatíveis com o valor e a complexidade da causa, razão pela qual devem sermajorados.
+O agravado apresentou contrarrazões ao recurso especial às fls. 476/480.
+É o relatório. Decido.
+Incialmente, quanto à alegada violação aos arts. 125, inciso I, 131, 332, 333, 458 e 535, incisos I e II, do CPC/73, a parte recorrente somente faz alegação genérica de sua violação, sem a indicação, de forma clara e precisa, de que modo o aresto o teria contrariado, o que atrai a incidência da Súmula 284 do STF, aplicada a esta Corte por analogia. A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. DISPOSITIVOS DE LEI FEDERAL ALEGADAMENTE VIOLADOS. AUSÊNCIA DE INDICAÇÃO CLARA E PRECISA DA VIOLAÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INCIDÊNCIA.
+1. A mera citação de dispositivos de lei federal tidos por violados, desacompanhada de fundamentação clara e objetiva acerca de como teria ocorrido a violação pelo acórdão recorrido, evidencia a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do Supremo Tribunal Federal. Precedentes.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.512.936/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 5/12/2019, DJe de 13/12/2019, g.n.)
+No quetange aos honorários de sucumbência, a tese invocada no apelo nobre não foi apreciado pelo Tribunal a quo, ainda que tenham sido opostos embargos de declaração para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice da Súmula 211 do STJ.
+Ressalte-se que não existe contradição, na hipótese, em afirmar que os dispositivos não estão prequestionados e não conhecer do recurso especial quanto à alegada violação ao art. 535 do CPC/73, posto que a fundamentação recursal deficiente inviabilizou o conhecimento do apelo nobre nesse ponto. Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AÇÃO CAUTELAR DE SEQUESTRO. ARGUIÇÃO DE VIOLAÇÃO AOS ARTS. 458, II, E 535, II, DO CPC/73. ALEGAÇÃO GENÉRICA DE OMISSÃO E DE AUSÊNCIA DE MOTIVAÇÃO. APLICAÇÃO DA SÚMULA 284/STF. ALEGADA OFENSA AO ART. 499 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA 211/STJ. AGRAVO DESPROVIDO.
+1. A apresentação de alegações genéricas, além da deficiente fundamentação recursal, inviabiliza o conhecimento do apelo nobre quanto aos arts. 458, II, e 535, II, do CPC/73, atraindo a incidência da Súmula 284/STF, por analogia.
+2. O conteúdo normativo do art. 499, caput, do CPC/73 não foi apreciado pelo Tribunal a quo, apesar de a parte ter oposto embargos de declaração. Incidência da Súmula 211/STJ. Precedentes.
+3. "A incidência do teor da Súmula 284/STF no art. 535 do CPC implica entender que não foi possível analisar a apontada violação, e, portanto, inexiste impedimento para a aplicação do óbice da Súmula 211/STJ, diante da caracterização de falta de prequestionamento de artigos relacionados" (AgRg no Ag 1.381.367/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/11/2015, DJe de 25/11/2015).
+4. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 335.436/AM, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 14/8/2018, DJe de 20/8/2018.)
+Ante o exposto, nos termos do art. 253, parágrafo único, inciso II, alínea "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
