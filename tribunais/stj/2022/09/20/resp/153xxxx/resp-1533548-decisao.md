@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por ROBSON MALESCHIK SOBRINHO, com fundamento no art. 105, inciso III, letrasa e c,da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (fl. 235):
+ADMINISTRATIVO. FINANCIAMENTO AQUISIÇÃO DE IMÓVEL. CEF. LEGITIMIDADE.
+Considerando que a participação da CEF, na relação jurídica sub judice, ocorreu exclusivamente na qualidade de agente operador do financiamento para fim de aquisição do imóvel, não há conferir-lhe responsabilidade pela qualidade da edificação, tampouco pelos reparos apontados pelo autor impondo-se o reconhecimento de sua ilegitimidade passiva, bem como da incompetência do Juízo Federal para processar e julgar a demanda.
+Opostos embargos de declaração, foram rejeitados (fl. 257):
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DEDECLARAÇÃO. REDISCUSSÃO DO MÉRITO. PREQUESTIONAMENTO.
+1. A retificação de acórdão só tem cabimento nas hipóteses de inexatidões materiais, erros de cálculo, omissão, contradição ou obscuridade.
+2. Os embargos declaratórios não servem ao objetivo de rediscutir o mérito da causa.
+3. Se o acórdão decidiu contrariamente às pretensões da parte, não será na via dos embargos declaratórios que buscará reformar o decisum, sob pena de se lhes atribuir efeitos infringentes, hipótese só admitida excepcionalmente.
+4. Para efeito de recurso especial ou extraordinário, mostra-se dispensável que o acórdão se manifeste expressamente a respeito de todos os dispositivos legais e constitucionais invocados, sendo suficiente, para tal fim, o exame da matéria pertinente.
+Afirmao recorrente que há, além de dissídio com julgado desta Corte, violação dos arts. 423 e 427, ambos do Código Civil, bem como do art. 3º, do CPC/1973, argumentando que a Caixa Econômica Federal é parte legítima na demanda, pois participa do contrato, assumindo a função de fiscalizar a correta aplicação dos recursos.
+Foram apresentadas contrarrazões (fls. 297-304).
+O recurso foi admitido na origem (fls. 309).
+É  o  relatório.  Decido.
+Consta do acórdão recorrido o seguinte (fl. 231):
+No caso presente, não há qualquer prova de que a Caixa Econômica Federal tenha participado do empreendimento no sentido de fiscalizar a realização das obras ou como agente executor de políticas federais para a promoção de moradia para pessoas de baixa ou baixíssima renda.
+Agiu ela apenas como agente financeiro que emprestou o dinheiro ao autor para a aquisição da moradia.
+Ao assim decidir, encontra-se o julgado de acordo com o entendimento desta Corte, atraindo a Súmula 83/STJ.Confiram-se, exemplificativamente, as seguintes ementas de ambas as Turmas que compõem a Segunda Seção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE VÍCIOS CONSTRUTIVOS CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SFH. PROGRAMA MINHA CASA MINHA VIDA. ILEGITIMIDADE DA CEF. ATUAÇÃO COMO AGENTE FINANCEIRO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. IMPOSSIBILIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME PROBATÓRIO. SÚMULAS 5/STJ E 7/STJ. DISSÍDIO NÃO CONFIGURADO. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a jurisprudência desta Corte, a Caixa Econômica Federal "somente tem legitimidade passiva para responder por vícios, atraso ou outras questões relativas à construção de imóveis objeto do Programa Habitacional Minha Casa Minha Vida se, à luz da legislação, do contrato e da atividade por ela desenvolvida, atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda, sendo parte ilegítima se atuar somente como agente financeiro (..)" (AgInt no REsp 1.646.130/PE, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 4/9/2018).
+2. O eg. Tribunal de origem consignou que a CEF participou do contrato apenas na qualidade de agente financeiro, tomando o imóvel como garantia fiduciária do valor mutuado, de modo que as responsabilidades contratuais assumidas dizem respeito apenas à atividade financeira, sem nenhuma vinculação com outras responsabilidades referentes à concepção do empreendimento ou à negociação do imóvel.
+3. A modificação do entendimento lançado no v. acórdão recorrido, neste aspecto, demandaria interpretação de cláusulas contratuais e revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as súmulas 5 e 7 deste Pretório.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.708.217/PR, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/5/2022, DJe de 17/6/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL. PROGRAMA MINHA CASA MINHA VIDA. DESFAZIMENTO CONTRATUAL MOTIVADO PELA MORA DOS VENDEDORES. INCLUSÃO DO AGENTE FINANCEIRO NO POLO PASSIVO DA DEMANDA. QUESTÃO SOLUCIONADA COM BASE NA INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL E NO EXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Consoante o entendimento desta Corte, a eventual legitimidade passiva da CEF está relacionada à natureza da sua atuação no contrato firmado: é responsável se atuar como agente executor de políticas federais para a promoção de moradia para pessoas de baixa renda, quando tiver escolhido a construtora ou tiver qualquer responsabilidade relativa ao projeto; não o é se atuar meramente como agente financeiro. Precedentes.
+3. No caso em apreço, o Tribunal estadual concluiu que a empresa pública agiu apenas como agente financeiro do empreendimento imobiliário, ou seja, como mera credora fiduciária, no contrato de financiamento para a realização da obra firmado com o ora recorrente. Desse modo, a revisão do julgado encontra óbice nas Súmulas nºs 5 e 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.000.984/RJ, relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/8/2022, DJe de 17/8/2022)
+Ante o exposto, não conheço do recurso especial.
+Publique-se.
