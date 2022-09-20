@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interpostopor ELIZABETH CAROLIS E MARILENE DE CAROLIS, com arrimo na alínea "a" do permissivo constitucional,contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio de janeiro, assim ementado:
+"DIREITO EMPRESARIAL - FALÊNCIA - QUEBRA DECRETADA EM 2002 - PRESCRIÇÃO - INOCORRÊNCIA - SUBSTITUIÇÃO DO SÍNDICO NO TRANSCURSO DO PROCESSO FALIMENTAR - NOTÍCIA DE DESVIO DE VULTOSA QUANTIA PELO ANTIGO GESTOR DA MASSA FALIDA - POSSIBILIDADE DE PROCESSAMENTO DA FALÊNCIA EM PRAZO SUPERIOR AO LEGAL - CASO DE FORÇA MAIOR - EX VI LEGIS ART.132, § 1º DO DECRETO LEI 7.661/45 - SUBSTITUIÇÃO DO SÍNDICO - ALEGAÇÃO DE NULIDADE - INOCORRÊNCIA - AGRAVANTES NÃO SE DESINCUMBIRAM DO ÔNUS DE COMPROVAR MÁCULAS AO ATO PROCESSUAL - CONTRADITÓRIO E AMPLA DEFESA ASSEGURADA ÀS PARTES QUE INTEGRAVAM A RELAÇÃO JURÍDICA NA REALIAZAÇÃO DO ATO - COMPARECIMENTO VOLUNTÁRIO E POSTERIOR DAS SÓCIAS NOS AUTOS, QUE RECEBEM OS AUTOS NO ESTADO EM QUE SE ENCONTRAM - PRECLUSÃO DO ATO PROCESSUAL AGRAVADO - NEGA-SE PROVIMENTO AO AGRAVO DE INSTRUMENTO." (fl. 974)
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 1.007/1.013).
+Irresignadas, as recorrentes manejaram o apelo nobre, apontando ofensa aos arts. 60 e 132, § 1º, do Decreto-lei 7.661/1945, argumentando, em resumo, que (a) "o Síndico deve ser escolhido pelo Juízo entre os maiores credores do falido, residente ou domiciliado no foro da falência, de reconhecida idoneidade moral e financeira, fato este que não ocorre no caso em tela. Estabelece ainda o parágrafo § 2º , deste mesmo artigo que se os credores, sucessivamente nomeados, não aceitarem o cargo, o juiz, após a terceira recusa, poderá nomear pessoa estranha, idônea e deboa fama, de preferência comerciante, fato este que não ocorreu no caso em tela, sendo nomeada uma sociedade de advogados que nada tem a ver com o caso com sede no Rio de Janeiro a revelia dos credores e das falidas" (e-STJ fl. 1.024); e (b) "por determinação expressa nos termos do Parágrafo 1º, do artigo 132, do Decreto-Lei 7661/45, a falência deve ser encerrada, após haver decorrido o biênio, ou seja, no dia 11/03/2004" (e-STJ fl. 1.034).
+Às fls. 1.442/1529, as recorrentes peticionaram almejando a concessão de efeito suspensivo ao recurso especial, o que foi indeferido por esta relatoria, nos termos da decisão e fls. 1531/1534 (e-STJ), motivando a interposição de agravo interno.
+É o relatório. Passo a fundamentar.
+Inicialmente, no tocante à alegada ofensa ao art.60, § 2º, do Decreto-lei 7661/45, em razão de afirmada inobservância da ordem por ele instituída, trata-se de matéria não prequestionada, uma vez que não debatida pelo eg. Tribunal de Justiça, mesmo depois da oposição de embargos de declaração, tampouco foi apontada ofensa ao art. 535 do CPC/73, a atrair o óbice sumular n. 211 do STJ.
+De outro lado, o prazo extintivo de 5 (cinco) anos das obrigações falido, previsto no art. 135, III, do Decreto-lei 7661/1945, conta-se da sentença do encerramento da falência, e não ao final do biênio previsto no § 1º do art. 132, para duração do procedimento falimentar.
+Nesse sentido:
+Falência. Extinção das obrigações. Legitimidade e interesse para recorrer. Prescrição. Precedentes da Corte.
+1.Havendo manifestação de oposição, mesmo que não regularmente processada pelo Juiz, tem a parte legitimidade e interesse em recorrer quando a decisão causa-lhe prejuízo, como ocorre no presente feito, afastada pela decisão recorrida a aplicação do art. 191 do Código Tributário Nacional, mas deferida a extinção das obrigações da falida, embora ressalvando que as execuções fiscais correm em separado do processo falimentar.
+2.A prescrição depende da sentença de encerramento da falência, como assentado em precedentes da Corte.
+3.Recurso especial não conhecido.
+(REsp n. 134.536/RS, relator Ministro Carlos Alberto Menezes Direito, Terceira Turma, julgado em 2/5/2000, DJ de 26/6/2000, p. 154)
+"AGRAVO REGIMENTAL NO RESP. FALÊNCIA. EXTINÇÃO DAS OBRIGAÇÕES. TERMO A QUO. PRECEDENTES.
+- O prazo extintivo das obrigações do falido inicia-se com a sentença de encerramento da falência."
+(AgRg no REsp 442.523/SP, Rel. Ministro HUMBERTO GOMES DEBARROS, TERCEIRA TURMA, julgado em 14/06/2005, DJ 01/07/2005, p.510)
+"FALÊNCIA. EXTINÇÃO DAS OBRIGAÇÕES. TERMO INICIAL DO PRAZO DE CINCO ANOS (ART. 135, III, DA LEI FALIMENTAR).
+- Sem o encerramento da falência, por sentença, não flui o prazo extintivo das obrigações do falido. Precedentes do STF e do STJ.Recurso especial não conhecido."
+(REsp 217.784/SP, Rel. Ministro BARROS MONTEIRO, QUARTA TURMA, julgado em 21/09/2000, DJ 30/10/2000, p. 161)
+"FALÊNCIA. SEM A SENTENÇA DE ENCERRAMENTO DA FALENCIA NÃO HA FALAR EM DECURSO DO PRAZO EXTINTIVO DAS OBRIGAÇÕES DO FALIDO.RECURSO ESPECIAL NÃO CONHECIDO. UNANIME."
+(REsp 50.702/RJ, Rel. Ministro FONTES DE ALENCAR, QUARTA TURMA, julgado em 12/09/1994, DJ 10/10/1994, p. 27178)
+Ante o exposto, com base no art. 255, § 4º, inciso II, do RISTJ, nega-se provimento ao recurso especial.
+Publique-se.
