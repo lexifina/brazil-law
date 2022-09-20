@@ -1,0 +1,67 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    EMENTA: APELAÇÃO. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO. QUADRO DA POLÍCIA/BOMBEIRO MILITAR DO ESTADO. REVISÃO GERAL ANUAL. DATA BASE. PERCENTUAL DE 4,68 % IMPLEMENTADO PELA LEI Nº 2.426/2011 EM CONFORMIDADE COM AS TABELAS CONTIDAS NA MEDIDA PROVISÓRIA Nº 33/2015, CONVERTIDA NA LEI Nº 2.984/2015. SUSPENSÃO DO PROCESSO. INVIABILIDADE. VERBAS RETROATIVAS. REPOSIÇÃO SALARIAL. PRINCÍPIO DA LEGALIDADE. DIREITO RECONHECIDO. PRESCRIÇÃO. INOCORRÊNCIA. ALEGAÇÃO DE AUSÊNCIA DE DOTAÇÃO ORÇAMENTÁRIA. DESCABIMENETO. LEI EM PLENA VIGÊNCIA. LIMITE PRUDENCIAL DA LRF. AUSÊNCIA DE MOTIVAÇÃO FUNDAMENTADA. COMPENSAÇÃO COM REAJUSTES ANTERIORES. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. SENTENÇA REFORMADA. APELAÇÃO PROVIDA.
+
+    1- No presente caso, inexiste falar em suspensão do processo, nos termos do Tema 1.075 do STJ. Haja vista tratar-se de ação que visa cobrar verbas retroativas, oriundas da implementação tardia de reposição salarial (data base) aos integrantes da PM do Tocantins, no índice de 4,68%, cujos valores foram parcelados em 16 vezes, sem o devido cumprimento da obrigação por parte da Fazenda Pública Estadual.
+
+    2- Por força do disposto no art. 37, caput, da Constituição Federal, a Administração Pública tem suas ações pautadas pelo princípio da legalidade, base de todos os demais princípios que instrui, limita e vincula as atividades administrativas, sendo que a Administração só pode atuar nos estritos ditames legais.
+
+    3- Dos autos denota-se que o direito alegado pelo autor, ora reconhecido, não é negado pelo Estado apelado. Trata-se de questão incontroversa o direito do servidor a perceber a data base e reflexos, bem como a progressão funcional.
+
+    4- Considerando-se que a ação foi proposta dentro do prazo prescricional de 5 anos, contagem esta que teve início em setembro de 2016 (quitação daúltima das 16 parcelas), sendo protocolada a presente ação em 08/04/2020, não há como dizer que ocorrera prescrição.
+
+    5- Incontroverso nos autos que a implementação do alusivo reajuste anual aos Bombeiros e Policiais Militares do Estado do Tocantins se deu de forma tardia (em total desacordo com a citada Lei 2.426/2011, vale ressaltar), com a entrada em vigor da MP nº 33 de 10/jun/2015, posteriormente convertida na Lei nº 2.984, de 9/jul/2015, que trouxe novas tabelas de subsídios à estas categorias, após realizado o cálculo do saldo passivo da revisão geral anual no percentual de 4,68%, considerando o interstício de 01/jul/2011 a 30/abr/2015.
+
+    6- Consoante a jurisprudência do STJ a alegação de fragilidade nas finanças públicas, com base na Lei de Responsabilidade Fiscal somente pode ser utilizada, com motivação fundamentada, e não apenas alegações sem justificativa idônea.
+
+    7- Não cabe em defesa do não pagamento proveniente de lei alegar o excesso de despesas com pessoal (art. 169, da CF). Com efeito, os reajustes anuais e as progressões oriundas de leis de há muito editadas (Leis Estaduais nº 3.174/16 e nº 2985/2015), geram presunção de reserva de valores, o que afasta a invocação da lei de responsabilidade fiscal.
+
+    8- Devida a reposição salarial pelo Ente Público, estando a administração em atraso e não havendo prova robusta acerca da fragilidade das finanças públicas, não há a atração da exceção que escusaria o pagamento vindicado pelo servidor demandante, logo, não se aplica ao caso as normas insculpidas nos artigos 15, 17, 19 e 20, da LC 101/00 – Lei de Responsabilidade Fiscal, restando também respeitado o princípio da separação dos Poderes contido no artigo 2º da Carta Magna.
+
+    9- Veja-se que também não é o caso de uma compensação de valores entre a revisão geral anual referente ao ano de 2010 e posterior alteração de salários, decorrente de eventual reestruturação na carreira do servidor, pois seria necessário que a nova lei que rege a remuneração dos militares previsse expressamente essa condição, fato esse não comprovado pelo Estado do Tocantins. Eis que a conclusão pela ocorrência de absorção da revisão anual pelo reajuste escalonado dimana da averiguação pontual sobre a existência de previsão expressa na lei a respeito da questão, sob pena de ofensa ao princípio da irredutibilidade da remuneração, previsto no art. 7º, VI, da Constituição Federal.
+
+    10- Não se verifica da leitura da Lei nº 2.426/2011, tampouco das leis editadas posteriormente à concessão da data-base no percentual de 4,68% (MP 33/2015, convertida na Lei 2.984/2015), qualquer menção expressa sobre o pagamento da revisão anual, quiçá sobre uma eventual dedução da revisão geral de vencimentos com aumento concedido posteriormente à classe.
+
+    11- Pelo princípio da autotutela (corolário do princípio da legalidade) a administração pública exerce controle sobre seus próprios atos, tendo a possibilidade de anular os ilegais ou de revogar os inoportunos. Súmula 473 do STJ. Eventual suspensão do pagamento acordado administrativamente sob alegado equívoco deve ser precedida de providências para rever determinado ato ou conduta (ou anulando ato com vício de legalidade, ou revogando ato ou conduta válidos, porém não mais convenientes ou oportunos), o que não ocorreu na espécie. Ressaltado que, ainda que a administração resolvesse agir para corrigir o suposto equívoco, é cediço que o poder-dever da administração de rever de ofício a ilegalidade, no exercício de sua autotutela,não é irrestrito, devendo respeitar o direito adquirido, o princípio do devido processo legal e, sobretudo, o prazo para exercê-lo.
+
+    12- Verifico, ainda, ser necessária a liquidação da sentença para mensurar com precisão a quantia devida ao credor na espécie, aplicando-se devidamente os consectários legais de acordo com os índices e legislação de regência.
+
+    13- Provimento do recurso para determinar com o fim de reformar a sentença de primeiro grau, reconhecendo o direito do autor/apelante ao recebimento dos valores não adimplidos decorrentes da reposição salarial concedida aos integrantes da Polícia Militar do Estado do Tocantins, cuja importância total apurada em liquidação de sentença deverá ser acrescida de CORREÇÃO MONETÁRIA pelo Índice de Preços ao Consumidor Amplo Especial (IPCA-E), nos termos do (RE) 870947, a partir de quando eram devidos os pagamentos, e JUROS DE MORA calculados com base no índice oficial de remuneração básica e juros aplicados à caderneta de poupança, nos termos da regra do art. 1º-F da Lei 9.494/97, com redação da Lei 11.960/09, a contar da citação válida.
+
+    14- Em razão da inversão do ônus da sucumbência condeno o Estado do Tocantins a reembolsar as custas e despesas processuais eventualmente adiantadas pela parte autora, assim como ao pagamento dos honorários advocatícios que serão fixados quando da liquidação da sentença, com fundamento no artigo art. 85, §4º, inciso II do CPC, observados os tetos previstos nos incisos do § 3º, do artigo 85, do CPC. Não há os pressupostos para a majoração da verba honorária prevista no art. 85, § 11, do CPC.
+
+    15- Apelo conhecido e provido.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 2º, caput; 37, caput; 42, caput ; e 142, § 3º, inciso X, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos,
+
+    verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/3/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 20 de setembro de 2022.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
