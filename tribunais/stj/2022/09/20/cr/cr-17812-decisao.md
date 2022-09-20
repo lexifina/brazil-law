@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Lisboa Norte - Juízo Local Criminal de Loures - Juiz 3)solicitaa notificação de JOSÉ DEYVISON AYRES DE SOUZA para tomar ciência de seu direito de recorrer dasentença condenatória, proferida no processo n.11/19.2PTLRS,na qual foi aplicada a pena de multa pelo cometimento decrime de condução de veículo em estado de embriaguez.
+A intimação prévia foi recebida pelointeressadoque apresentou resposta.Pugna pelaconcessão do benefício da gratuidade da Justiça, bem como manifestaconcordânciacom a penalidade aplicada. Pugna, entretanto, à Justiça portuguesa queo valor de 500 (quinhentos euros), relativo à multa, seja divididoem parcelas de 50 (cinquenta euros), viabilizando, assim, o cumprimentoda penalidade(fls. 26/32).
+O Ministério Público Federal opinou pela concessão do exequatur, com a devolução à Justiça rogante, ante o comparecimento espontâneo da parte (fls. 34/35).
+É o relatório.
+Decido.
+De início, defiro o pedido de gratuidade de justiça. O pedido de parcelamento (fls. 26/32), por sua vez, é dirigido à Justiça rogante.
+Anoto que o objeto da presente carta rogatória não atenta contra a soberania nacional ou mesmo contra a ordem pública.Tampouco foram impugnados os aspectos formais da carta rogatória e dos documentos que a instruem.Assim, com fundamento no art. 216- O, combinado com o art. 216-P do RISTJ, concedo o exequatur.
+Diante da manifestação da parte interessada, por meio de petição encartada às fls. 26/32, considero consumado o objeto da comissão, sendo desnecessária a remessa dos autos à Justiça Federal. Nesse sentido, convergem os precedentes deste Egrégio Tribunal:
+CARTA ROGATÓRIA. AGRAVO REGIMENTAL. CITAÇÃO. AÇÃO POR INADIMPLÊNCIA DE CONTRATO DE EMPRÉSTIMO. CONCESSÃO DE EXEQUATUR. VIOLAÇÃO DA ORDEM PÚBLICA. NÃO OCORRÊNCIA. QUESTÕES DE MÉRITO. COMPETÊNCIA DA JUSTIÇA ROGANTE. PRAZO PARA CONTESTAÇÃO. COMPARECIMENTO ESPONTÂNEO DA PARTE INTERESSADA. DEVOLUÇÃO DOS AUTOS À JUSTIÇA ROGANTE ANTE O CUMPRIMENTO DA DILIGÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A citação da parte interessada acerca de ação em curso na Justiça rogante não constitui ofensa à ordem pública, pois é ato de comunicação processual.
+2. Os documentos que instruem a rogatória enviada pela via diplomática são considerados autênticos, sendo dispensadas a chancela consular e a tradução por profissional juramentado no Brasil.
+3. Cabe ao Superior Tribunal de Justiça emitir juízo meramente de delibação acerca da concessão do exequatur nas cartas rogatórias, sendo competência da Justiça rogante a análise de alegações relacionadas ao mérito da causa.
+4. O prazo para contestação, em regra, começa a fluir da juntada do mandado citatório devidamente cumprido aos autos em curso na Justiça rogante, o que, por si só, dá aos interessados prazo suficiente para constituição de advogado para representar seus interesses na Justiça rogante.
+5. A manifestação espontânea da parte interessada consuma o objeto da comissão, caso em que os autos são devolvidos à Justiça rogante por 6. Agravo regimental desprovido. (AgInt nos EDcl na CR n. 14.431/EX, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 22/10/2019, DJe de 25/10/2019.)
+Ante o exposto, com amparo no art. 216-X do RISTJ, determino a devolução da comissão à Justiça rogante por intermédio da autoridade central competente.
+Publique-se. Intimem-se.
