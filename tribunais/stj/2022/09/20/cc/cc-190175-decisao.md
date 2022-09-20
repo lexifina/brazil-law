@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA VARA DE EXECUÇÃO PENAL MEIO ABERTO E MEDIDAS ALTERNATIVAS DE VALPARAÍSO DE GOIÁS - GO, suscitante, e o JUÍZO DE DIREITO DA VARA DE EXECUÇÕES DAS PENAS EM REGIME ABERTO DO DISTRITO FEDERAL - DF, suscitado.
+Sustenta o Juízo suscitado que "A documentação presente nos autos evidencia o vínculo social do apenado com a Comarca de Valparaíso. É direito do apenado e interesse da sociedade o cumprimento da pena na localidade em que de Goiás/GO melhor possa se desenvolver o processo de reintegração social perseguido pela execução penal".
+O Juízo suscitante entende que "a competência para execução da pena é do Juízo da condenação e não do local do domicílio do sentenciado, de modo que a simples mudança de residência do apenado, por vontade própria, não autoriza o deslocamento automático da competência do Juízo da Execução Penal".
+As informações foram prestadas.
+Manifestação do Ministério Público Federal pela competência do Juízo suscitante.
+Conheço do conflito de competência, por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, I, "d", da Constituição.
+O domicílio do reeducando, ainda que diverso do Juízo da condenação, não desloca a competência do Juízo da execução penal, devendo ser deprecada ao Juízo de domicílio do apenado a supervisão e acompanhamento do cumprimento da pena, consoante entendimento firme desta Corte.
+Sobre a controvérsia, é firme o entendimento de que "O simples fato de o condenado ter sido preso em Comarca diversa em cumprimento de mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória não constitui causa legal de deslocamento da competência originária para a execução da pena" (CC 156.747/BA, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 25/04/2018, DJe 11/05/2018).
+No mesmo sentido, " o  simples fato de o condenado ou sua família morar em comarca diversa daquela em que se encontra preso, ou ter mudado de residência, por vontade própria, não constitui causa legal de deslocamento da competência originária para a execução da pena" (CC 169.679/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 11/12/2019, DJe 17/12/2019).
+Ademais, "o cumprimento da execução penal deve levar em conta não apenas as conveniências pessoais e familiares do preso, mas também os da Administração Pública, sendo condicionada à transferência legal, com prévia consulta de existência de vagas e anuência do Juízo consultado" (CC 167.064/SC, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 28/08/2019, DJe 06/09/2019).
+Nesse contexto, os autos devem retornar ao Juízo da condenação, em razão de que, nos termos do art. 65 da LEP, a competência para a execução é do Juízo da condenação, sendo certo que a supervisão e acompanhamento do cumprimento da pena podem ser deprecados ao Juízo do domicílio do apenado.
+Ante o exposto, conheço do conflito para declarar a competência doJUÍZO DE DIREITO DA VARA DE EXECUÇÕES DAS PENAS EM REGIME ABERTO DO DISTRITO FEDERAL - DF, suscitado.
+Publique-se.
+Intimem-se.
