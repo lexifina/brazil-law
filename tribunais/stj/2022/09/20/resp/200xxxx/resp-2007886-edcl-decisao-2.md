@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANÍBAL PÁDUA LEMOS contra decisão deu parcial provimento ao recurso especial interposto pelo embargado, a fim de excluir a condenação do recorrente a título de danos morais (fls. 325/328).
+Nas razões de embargos de declaração, sustenta a embargante que "há omissão quanto ao fato de que, embora tenha o v. acórdão recorrido mencionado a presunção da ofensa, concluiu que restou provado efetivamente o dano moral sofrido pelo autor" - (fl. 332).
+A parte recorrida apresentou impugnação às fls. 343/346.
+É o relatório. Passo a decidir.
+A parte embargante entende que a decisão embargada é omissa, pois houve a manifestação no acórdão de que o dano moral não seria presumido, mas oriundo do agravamento da aflição psicológica do paciente.
+A decisão embargada afirmou que o Tribunal a quo, ao considerar que "o autor, já fragilizado pela grave doença que lhe acomete, passou também a temer pela demora no tratamento, aumentando o medo de que não ocorresse o atendimento pontual e eficiente contratualmente prometido, sendo possível concluir-se dessa situação o dano moral, representado não pela piora do estado de saúde, mas pela presumida intensificação do sofrimento espiritual do hominis enfermo, além de ser idoso, necessitou de ajuda dos familiares para pagamento do exame" - (fl. 235) está dissonante da jurisprudência do Superior Tribunal de Justiça, a qual exige que, para que haja a reparação a título de danos morais nos casos de recusa indevida a tratamento de saúde por parte do plano de saúde, é necessária a demonstração efetiva de ofensa a direito da personalidade, o que não foi o caso dos autos.
+Isso porque, houve a mera alegação genérica de que houve sofrimento psíquico ao segurado, sem prova de que tal situação extrapolou o inadimplemento contratual.
+Sobre o tema, a propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSÃO. NÃO VERIFICADA. DISPENSA DA PRODUÇÃO DE PROVA PERICIAL. SISTEMA DA LIVRE PERSUASÃO RACIONAL DO MAGISTRADO. REEXAME DE PROVAS. SÚMULA N.º 7 DO STJ. HOME CARE. DEVER DE COBERTURA. SITUAÇÃO EXCEPCIONAL. INVIABILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DANOS MORAIS DEMONSTRADOS NAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE REEXAME. QUANTUM INDENIZATÓRIO QUE NÃO SE REVELA EXCESSIVO. APLICAÇÃO DA SÚMULA N.º 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em omissão, falta de fundamentação ou negativa de prestação jurisdicional, na medida em que o Tribunal estadual dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando a controvérsia posta nos autos.
+3. Nos termos da jurisprudência desta Corte, cabe ao Juiz, como destinatário final da prova, respeitando os limites adotados pelo CPC, decidir pela produção probatória necessária à formação do seu convencimento. O Tribunal estadual assentou que não era necessária a produção de prova pericial. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta a Súmula n.º 7 do STJ.
+4. O Colegiado estadual julgou a lide de acordo com a convicção formada pelos elementos fáticos existentes nos autos, concluindo pela injusta negativa de cobertura ao tratamento médico solicitado, uma vez que o tratamento de saúde foi apurado tecnicamente como imprescindível e urgente. Portanto, qualquer alteração nesse quadro demandaria o reexame de todo o conjunto pro batório, o que é vedado a esta Corte ante o óbice da Súmula n.º 7 do S TJ.
+5. Existência de entendimento pacífico desta Corte Superior no sentido de que, nos casos em que a recusa indevida de cobertura de tratamento médico-hospitalar impõe ao usuário de plano de saúde um grau de sofrimento físico/psíquico que extrapola aquele decorrente do mero inadimplemento contratual, atingindo direito da personalidade, fica demonstrada a ocorrência de danos morais e caracterizado o direito à reparação.
+6. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula n.º 7 do STJ, impedindo o conhecimento do recurso.
+7. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+8. Agravo interno não provido.
+(AgInt no REsp n. 1.980.863/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. DEMORA NA AUTORIZAÇÃO PARA O PROCEDIMENTO CIRÚRGICO DE URGÊNCIA. RISCO DE MORTE. DANO MORAL CONFIGURADO. VALOR INDENIZATÓRIO. REVISÃO DO ENTENDIMENTO DA CORTE ESTADUAL. SÚMULA 7 DO STJ.
+1. Existência de entendimento pacífico desta Corte Superior no sentido de que a recusa indevida de cobertura de procedimento médico urgente impõe ao usuário de plano de saúde um grau de sofrimento físico/psíquico que extrapola aquele decorrente do mero inadimplemento contratual, atingido direito da personalidade, e dando ensejo a indenização por danos morais.
+2. Consolidou-se no Superior Tribunal de Justiça o entendimento de que, em âmbito de recurso especial, os valores fixados a título de indenização por danos morais, porque arbitrados com fundamento nas peculiaridades fáticas de cada caso concreto, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, situação inexistente no caso concreto, de modo que a sua revisão encontra óbice na Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 2.003.150/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Logo, não há obscuridade na decisão embargada.
+Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. Portanto, inexistentes as hipóteses do art. 1.022, II, do CPC/2015, não merecem acolhimento os presentes embargos de declaração que têm nítido caráter infringente. A propósito, colacionam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COMPLEMENTAÇÃO DE PENSÃO POR MORTE. ENTIDADE DE PREVIDÊNCIA PRIVADA FECHADA.
+REGULARIDADE NA CONCESSÃO DO BENEFÍCIO. ANÁLISE DAS CLÁUSULAS DO REGULAMENTO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7, AMBAS DO STJ. FONTE DE CUSTEIO. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 282 DO STF. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC.
+INTEGRATIVO REJEITADO.
+ ..  3. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente.
+4. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+ ..  6. Diante da manifesta improcedência dos embargos, que buscaram, tão somente, o reexame dos argumentos anteriormente formulados e devidamente analisados por esta eg. Terceira Turma, está caraterizado o caráter manifestamente procrastinatório do recurso integrativo, razão pela qual se aplica aos embargantes a multa do art. 1.026, § 2º, do NCPC, fixada em 2% sobre o valor atualizado da causa.
+7. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl no AgInt no REsp 1694356/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/3/2021, DJe de 25/3/2021, g.n)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE QUALQUER DOS VÍCIOS ELENCADOS NO ART. 1.022 DO CPC/2015.
+MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca rediscutir matérias devidamente examinadas e rejeitadas na decisão embargada, o que é incabível nos embargos declaratórios.
+3. A contradição que dá ensejo à oposição de embargos declaratórios deve ser interna, entre as proposições do próprio julgado impugnado.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1729157/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 1º/3/2021, DJe de 3/3/2021, g.n)
+Deveras, os embargos de declaração não são recurso apropriado para tentar rediscutir a controvérsia diante do inconformismo da parte com decisão contrária à sua pretensão recursal.
+Dessa forma, não se mostram presentes quaisquer dos vícios elencados no art. 1022 do CPC/2015.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
