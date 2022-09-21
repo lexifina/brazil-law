@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deANA PAULA PEREIRA BOCCAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Correição Parcial n. 0017743-47.1022.8.21.7000).
+Depreende-se dos autos que apaciente formulou pedido de prisão domiciliar ao Juízo das execuções com fulcro no art. 117, III, da LEP, sendo determinada pelo Juízo de piso a realização de estudo social para demonstrar a excepcionalidade alegada pela defesa a justificar a concessão do benefício pretendido (e-STJ fl. 28).
+Irresignada, a defesa ajuizou correição parcial no Tribunal de origem, sendo a medida de urgência indeferida "por não  se  vislumbrar probabilidade de prejuízo em caso de retardamento, como exige, para a concessão de tal medida, o art. 195, § 6º, "a", do COJE" (e-STJ fl. 225).
+Daí o presente writ, no qual sustenta a defesa que, "apesar do artigo 117 da Lei de Execução Penal  estabelecer como requisito para o deferimento da prisão domiciliar o cumprimento da pena no modo aberto, a jurisprudência do Superior Tribunal de Justiça entende que é possível a extensão de tal benefício aos sentenciados recolhidos no regime fechado ou semiaberto quando a peculiaridade concreta do caso demonstrar sua imprescindibilidade" (e-STJ fl. 6).
+Aduz, assim, que a "presunção de necessidade da mãe aos cuidados do filho é reforçada quando o infante é portador de deficiência física ou mental, como é o caso dos autos, em que  B  possui 1 ano de idade e é portador de retardo mental" (e-STJ fl. 7).
+Requer, ao final, a concessão da ordem para suspender a exigência do estudo determinada pelo Juízo de primeira instância.
+É o relatório.
+Decido.
+O habeas corpus não comporta conhecimento.
+De fato, esta Corte,analisando os pedidos de prisão domiciliar no curso de execuções definitivas, firmou entendimento de que "a melhor exegese do art. 117 da Lei n. 7.210/1984, extraída dos recentes precedentes da Suprema Corte, é na direção da possibilidade da prisão domiciliar em qualquer momento do cumprimento da pena, ainda que em regime fechado, desde que a realidade concreta assim o imponha" (HC n. 366.517/DF, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/10/2016, DJe 27/10/2016).
+Nessa linha, ao menos neste juízo perfunctório dos autos, não me parece inquinada de vício a decisão do Magistrado de piso que, no intuito de perquirir a imprescindibilidade da paciente aos cuidados do filho menor portador de deficiência, determina a realização de estudo social para esclarecer a situação fática apresentada.
+Ademais, mutatis mutandis, incide à hipótese o teor da Súmula n. 691 do Supremo Tribunal Federal, devendo-se asseverar que aquestão em exame necessita de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação contida na correição ajuizada no momento adequado, sendo que, sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
