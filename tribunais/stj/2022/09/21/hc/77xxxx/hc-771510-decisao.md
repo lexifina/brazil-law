@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de EDMILSON SOUSA TORALem que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Maranhão(Habeas Corpus n. 0812990-05.2021.8.10.0000).
+Opaciente foi pronunciado, pela suposta prática dos delitos descritos no art. 121, § 2º,I, III e IV, do Código Penal, e no art. 2º, § 2º e § 3º, da Lei n. 12.850/2013, c/c art. 69, do Código Penal.
+Impetrado writ originário, a ordem não foi conhecida.
+O Tribunal de origem verificou que o writ originário é uma reiteração com os mesmos pedidos e os mesmos fundamentos dos Habeas Corpus n.0815366-95.2020.8.10.0000 e 080799-78.2019.8.10.0000, já julgados em 14/4/2021 e 9/12/2020, respectivamente, onde a matéria da ação já foi totalmente apreciada.
+A defesa sustenta a existência de constrangimento ilegal consubstanciado no reconhecimento fotográfico do paciente, não corroborado por outras provas e nemem juízo, sem observância do art. 226do Código de Processo Penal, que é a condição mínima de credibilidade e validade da prova de reconhecimento.
+Assevera que as testemunhas deram relatos extremamente divergentes sobre a aparência do paciente, suposto líder, e nenhum depoimento foi confirmado em juízo, assim, todas as provas estão ancoradas no reconhecimento fotográfico em que a autoridade policial mostrou a foto do paciente no método show up, de maneira que há induzimento ao resultado buscado pela polícia.
+Aduz que todos os reconhecimento "em cadeia" são um desdobramento do primeiro reconhecimento fotográfico e que estão todos em desacordo com o art. 226do Código de Processo Penal.
+Afirma que a autoria delitiva e a decretação de prisão preventiva foram baseadas somente no reconhecimento fotográfico ilegal e em filmagens nas quais o paciente não aparece, e a descrição do líder é uma de aparência profundamente diferente do paciente, tanto que, as testemunhas e os outros acusados prestaram depoimento afirmando que não haviam visto o paciente na localidade do crime. A única testemunha ocular que depôs em juízo não foi capaz de apontar com certeza que o paciente era o líder.
+Pondera que pronunciar o paciente na dúvida, na falta de provas, seguindo a ideia do in dubio pro societate, é inconstitucional. Ademais, o paciente está preso preventivamente há mais de 3 anos sem que nada novo tenha sido produzido nos autos.
+Requer, liminarmente e no mérito, a cassação da sentença de pronúncia, a expedição do alvará de soltura do paciente, a impronúncia do paciente por ausência de provas suficientes e válidas para condenação, a declaração de nulidade do reconhecimento fotográfico com a anulação de todas as fases subsequentes dele derivadas e a consequente expedição do alvará de soltura e, subsidiariamente, a concessão de ofício da ordem.
+É o relatório. Decido.
+Asquestões aduzidas nas razões da presente impetração não foramenfrentadaspela instância de origem, tendo em vista o não conhecimento dowritoriginário por se tratar de reiteração dehabeas corpusanteriormente impetrados.Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
