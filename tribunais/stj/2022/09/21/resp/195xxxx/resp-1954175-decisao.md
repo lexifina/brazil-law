@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interpostopor Airton Cantizani contra decisão da Corte de origem que não admitiu o recurso especial.
+É o relatório. Decido.
+Inicialmente, consigna-se que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas após 17 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nos termos do que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+No caso dos autos, a decisão de não admissão do recurso especial contém o seguinte fundamento: (a) Não há como se conferir trânsito ao recurso por violação aos artigos do CPC, sob alegação de ocorrência de cerceamento de defesa, haja vista que não cabe à instância superior revisitar a conclusão da instância ordinária quanto à suficiência das provas amealhadas ao processo, providência esta que encontra empeço no entendimento consolidado na Súmula n.7/STJ, in verbis: A pretensão de simples reexame de prova não enseja recurso especial.
+Nopresente agravo internoo insurgente não impugnou, especificamente, tal fundamento, limitou-se a sustentar de forma genérica a inaplicabilidade da Súmula 7/STJ, deixando de atender a dialeticidade recursal.
+Nesse sentido: "a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada. Ao revés, deve a parte agravante refutar o citado óbice mediante a exposição da tese jurídica desenvolvida no recurso especial e a demonstração da adoção dos fatos tais quais postos nas instâncias ordinárias." (AGInt no ARESp n. 1.490.629/SP, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 25/8/2021)
+Com efeito, esta Corte Superior possui entendimento pacífico segundo o qual incumbe ao agravante infirmar, especificamente, os fundamentos da decisão que não admitiu o processamento do recurso especial, o que, como visto, não ocorreu no caso, acarretando o não conhecimento do agravo.
+Nesse sentido: AgInt no AREsp 1.276.237/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/12/2018; AgInt no AREsp 718.118/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/12/2018; AgInt no AREsp 1.345.064/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 13/12/2018.
+Ante o exposto, não conheço do agravo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
