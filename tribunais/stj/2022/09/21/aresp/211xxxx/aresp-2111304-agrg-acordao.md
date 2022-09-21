@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MATEUS DE SANTANA RIBEIRO agrava da decisão de fls. 544-548, na qual conheci do agravo para negar provimento ao recurso especial.
+A defesa afirma que houve "cerceamento na defesa do agravante, visto que lhe fora decretada a revelia processual e não colhido seu interrogatório sem que o mesmo tivesse sido intimado pessoalmente da data da audiência destinada para tanto" (fl. 552).
+Requer, dessa forma, a reconsideração do decisum agravado ou a submissão do feito ao órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É inviável o agravo regimental que deixa de atacar especificamente os fundamentos da decisão impugnada. Incidência, por analogia, da Súmula n. 182 do STJ.
+2. O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso.
+3. Agravo regimental não conhecido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+A falta de impugnação específica dos fundamentos usados na decisão agravada atrai a incidência, por analogia, da Súmula n. 182 deste Superior Tribunal.
+O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso.
+Constou no ato judicial (fls. 544-548, grifos no original):
+A Corte estadual rechaçou a tese de cerceamento de defesa nos seguintes termos (fls. 457-458, grifei):
+Após regular trâmite processual, o juízoa quo, em sentença de fls. 328/334, julgou procedente o pedido contido na peça acusatória para condenar o réu como incurso nas sanções do art. 14 da Lei 10.826/03, fixando-lhe a pena definitiva em 02 (dois) anos de reclusão, em regime inicial aberto, e 10 (dez) dias multa, substituindo a pena privativa de liberdade por duas restritivas de direitos nas modalidades de prestação pecuniária e prestação de serviços à comunidade.
+Irresignado, o réu Mateus de Santana Ribeiro interpôs o presente recurso de apelação e, em suas razões (fls. 376/385), busca a nulidade da sentença por ausência de interrogatório do réu, com o chamamento do feito à ordem para realização do interrogatório e reabertura de prazo dos atos processuais subsequentes. Para tanto, argumenta que houve cerceamento de defesa, considerando que fora decretada a revelia processual sem que o réu tivesse sido intimado pessoalmente para a audiência destinada ao seu interrogatório. Sustenta que, mesmo diante da mudança de endereço do réu não poderia ser decretada a revelia antes de esgotados os meios para a sua localização, até porque na certidão do oficial consta a informação de que o genitor do apelante forneceu o endereço correto do seu filho, ora apelante.
+ ..
+Trata-se de Apelação Criminal interposta MATEUS DE SANTANA RIBEIRO inconformado com a sentença proferida pelo Juízo de Direitoda Vara Criminal da Comarca de São Cristóvão, que o incursionou nas sanções do art. 14 da Lei 10.826/03.
+Busca a defesa a nulidade do processo origem por ausência de interrogatório do réu, argumentando que houve cerceamento de defesa ao serdecretada a revelia processual sem que o réu tivesse sido intimado pessoalmente para a audiência destinada ao seu interrogatório. Acrescenta que, mesmo diante da mudança de endereço do réu, a revelia não poderia ser decretada antes de esgotados os meios para a sua localização.
+Com lastro nesse raciocínio, requer o chamamento do feito à ordem para realização do interrogatório e reabertura de prazo dos atos processuais subsequentes.
+Analisando o processo origem, observa-se que o réu foi flagrado e, ao ser interrogado perante a autoridade policial, forneceu o endereço constante à fl. 18, qual seja, Estrada da cabrita, Condomínio Portal das Flores, Bloco 03, apto. 604 - bairro Santa Lúcia, São Cristóvão/SE.
+Homologado o flagrante, foi concedido ao paciente o benefício da liberdade provisória mediante pagamento de fiança, ficando advertido acerca das causas de quebra de fiança, incluindo a mudança de endereço sem comunicação ao juízo (fls. 52/55). Em 27/03/2019 foi posto em liberdade mediante a dispensa de fiança, através de nº 201900308180, onde foi cientificado, mais uma vez, acerca da obrigatoriedade do habeas corpus fiel cumprimento das medidas cautelares aplicadas pelo magistrado a quo, sob pena de revogação.
+Após o oferecimento da denúncia, foi devidamente citado no endereço residencial que havia indicado desde seu interrogatório extrajudicial, sendo certificado no mandado de fl. 217 que:
+"Citada, apôs o ciente, aceitando a contrafé e manifestando interesse de ser assistido pela Defensoria Pública.
+O réu encontra-se atualmente residindo com a sua mãe, na Rua Laís Granjeiro de Queiroz, nº 295, casa 5, bairro Inácio Barbosa, Aracaju/SE."
+No curso do processo, expediu-se mandado de intimação para audiência de instrução e julgamento, no primeiro endereço apresentado pelo réu, constando na certidão emitida pelo oficial de justiça em 07/10/2019 (fl. 293), a seguinte informação:
+"CERTIFICO QUE CUMPRI O PRESENTE MANDADO, NÃO ATINGINDO SEU OBJETIVO. JUSTIFICATIVA: O réu não reside no endereço indicado, mas sim na Rua Laís Granjeiro de Queiroz, nº295, casa 5, bairro Inácio Barbosa, Aracaju/SE. Seu pai recebeu o mandado, assinou a contrafé, e comprometeu-se a avisar ao seu filho."
+Como visto, o mandado foi expedido para o endereço informado na fase inicial e, em que pese tenha o apelante informado novo endereço ao oficial de justiça quando da sua citação, o seu genitor se comprometeu a dar ciência acerca do ato. Todavia, o réu não compareceu à audiência.
+Necessário destacar que o apelante, conforme informações extraídas dos autos, não estava residindo em nenhum dos endereços informados nos autos à época da intimação, vez que se encontrava no Estado de Minas Gerais, onde foi e teve a sua prisão preso em flagrante em 02/10/2019 convertida em preventiva pelo magistrado da Comarca de Congonhas/MG (processo 0030171-81.2019.8.13.0459).
+Nessa medida, conclui-se não haver irregularidade na conclusão da instrução criminal sem a realização do interrogatório judicial, diante da comprovação de que o réu não se encontrava mais nos endereços informados, não cabendo à justiça providenciar diligências a fim de localizá-lo enquanto o processo o aguarda sem andamento.
+Vale ressaltar que o apelante foi devidamente assistido pela Defensoria Pública, de modo que a decretação da revelia em nada prejudicou o exercício da defesa técnica, sendo apresentadas regularmente as alegações finais - sem alegação de qualquer prejuízo ao réu - e posterior recurso de apelação.
+A jurisprudência do STJ orienta que:
+"O interrogatório é o ato processual por meio do qual o réu tem a faculdade de expor a sua versão dos fatos narrados na exordial acusatória, nos termos do art. 185 e seguintes do Código de Processo Penal. Todavia, não há que se falar em violação do contraditório e da ampla defesa, pela não realização do referido ato processual, se o próprio investigado - ciente da acusação - empreendeu fuga do distrito da culpa, estava foragido por ocasião do interrogatório e só apontou a ocorrência de nulidade nas alegações finais, logo após a sua captura, quando já encerrada a instrução criminal e apresentadas as razões finais do Ministério Público estadual" (STJ, AgRg no HC 428036)."
+Nesse toar, ao contrário do que pretende convencer a defesa, não há que se falar em nulidade do processo, já que, a despeito da ausência do acusado, que se encontrava fora do distrito da culpa, o processo seguiu seu trâmite regular, sempre com a presença de defensor, inexistindo ofensa aos princípios da ampla defesa, do contraditório e do devido processo legal.
+O acórdão apontou que foi expedido mandado de intimação para audiência de instrução e julgamento no primeiro endereço apresentado pelo réu e, em que pese o acusado ter informado o novo endereço ao oficial de justiça no momento da sua citação, o seu genitor o recebeu e se comprometeu a dar ciência acerca do ato ao filho.
+Ainda, evidenciou que o recorrente não residia em nenhum dos endereços informados nos autos à época da intimação e que ele foi devidamente assistido pela Defensoria Pública, de modo que a decretação da revelia em nada prejudicou o exercício da defesa técnica.
+Ressalto que, conforme posicionamento jurisprudencial desta Corte Superior, em homenagem ao art. 563 do CPP, não se declara a nulidade de ato processual se a irregularidade: a) não foi suscitada em prazo oportuno e b) não vier acompanhada da prova do efetivo prejuízo para a parte, situação ocorrida nos autos.
+Com efeito, não se pode olvidar que, para a declaração de nulidade de determinado ato processual, deve haver a demonstração de eventual prejuízo concreto suportado pela parte. Não é suficiente a mera alegação da ausência de alguma formalidade, mormente quando se alcança a finalidade que lhe é intrínseca.
+Nesse sentido, prevalece na jurisprudência a conclusão de que, "Em matéria de nulidade, rege o princípio pas de nullité sans grief, segundo o qual não há nulidade sem que o ato tenha gerado prejuízo para a acusação ou para a defesa. Não se prestigia, portanto, a forma pela forma, mas o fim atingido pelo ato.
+A propósito:
+ ..
+3. "Não se declara nulidade no processo se não resta comprovado o efetivo prejuízo, em obséquio ao princípio pas de nullité sans grief positivado no artigo 563 do Código de Processo Penal e consolidado no enunciado nº 523 da Súmula do Supremo Tribunal Federal" (AgRg no REsp n. 1.726.134/SP, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 22/5/2018, DJe 4/6/2018, grifei).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 552.243/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 7/12/2020)
+ ..
+2. A jurisprudência deste Superior Tribunal de Justiça, em respeito à segurança jurídica e a lealdade processual, tem se orientado no sentido de que mesmo as nulidades denominadas absolutas também devem ser arguidas em momento oportuno, sujeitando-se à preclusão temporal. (AgRg no HC 527.449/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 27/8/2019, DJe 5/9/2019).
+3. Agravo regimental improvido.
+(AgRg no HC n. 573.794/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/9/2020)
+A defesa deixou de indicar, de modo objetivo, o erro das razões lançadas no decisum atacado. Ela se limitou a aduzir que "a intimação para a audiência onde seria colhido o interrogatório do réu deveria ter sido feita de forma pessoal e direta ao acusado através de mandado judicial" (fl. 553).
+Incide no caso, por analogia, a Súmula n. 182 do Superior Tribunal de Justiça, ante a inobservância do princípio da dialeticidade.
+À vista do exposto, não conheço do agravo regimental.
