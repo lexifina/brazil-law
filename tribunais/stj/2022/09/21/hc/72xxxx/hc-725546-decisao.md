@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de EDUARDO DOMINGUES PEREIRA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2301729-22.2021.8.26.0000).
+Colhe-se dos autos que o paciente foi condenado à pena de 4 anos, 9 meses e 18 dias de reclusão, em regime inicialmente fechado, pela prática do delito previsto no art. 180, § 2º, do Código Penal. O Tribunal de origem, por ocasião do julgamento do recurso de apelação, deu parcial provimento ao recurso para fixar o regime inicial semiaberto (e-STJ fls. 134/144).
+Posteriormente, a defesa requereu a suspensão da expedição do mandado de prisão e aplicação da detração, sendo o pedido indeferido. Irresignada, a defesa impetrou prévio writ no Tribunal de origem, sendo a ordem denegada em acórdão cuja ementa foi assim definida (e-STJ fl. 40) :
+HABEAS CORPUS. Pedido de expedição de guia de recolhimento em favor de paciente solto, a fim de pleitear a concessão de benefícios da execução penal. Condenação transitada em julgado. Inexistência de expedição de guia de recolhimento definitiva que se justifica pela pendência do cumprimento do mandado de prisão. Inteligência do artigo 105, da Lei de Execução Penal. Precedentes do STJ. Ordem denegada.
+Daí o presente writ, no qual sustentou a defesa que, com a aplicação da detração, o paciente faria jus ao regime inicial aberto, razão pela qual deveria ser expedida guia de execução para o devido cálculo previamente ao seu recolhimento.
+Requereu, assim, a concessão da ordem para que seja expedida guia de execução definitiva antes do recolhimento do paciente.
+Liminar indeferida (e-STJ fls. 48/49).
+Informações prestadas (e-STJ fls. 53/128 e 131/170).
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (e-STJ fls. 172/178).
+É o relatório.
+Decido.
+O habeas corpus não merece prosperar.
+Isso, porque, tendo em vista a existência de circunstância judicial desfavorável (maus antecedentes e culpabilidade - e-STJ fl. 142), tem-se que eventual detração do período em que o paciente ficou preso provisoriamente não teria o condão de alterar o regime prisional fixado.
+No mesmo sentido, destaco o seguinte julgado:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ESTELIONATO. ASSOCIAÇÃO CRIMINOSA. REGIME PRISIONAL FECHADO. MOTIVAÇÃO IDÔNEA. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. GRAVIDADE CONCRETA DO DELITO. DETRAÇÃO PENAL. TEMPO DE PRISÃO PROVISÓRIA. DESCONTO QUE NÃO REPERCUTE NO REGIME PRISIONAL FIXADO. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades. Assim, o reexame das circunstâncias judiciais e dos critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, por exigirem revolvimento probatório, salvo flagrante ilegalidade, como evidenciado na hipótese dos autos.
+2. Na hipótese, as instâncias ordinárias fixaram devidamente o regime mais gravoso, considerando a quantidade de pena imposta - entre 4 e 8 anos de reclusão -, bem como o fato de se tratar de réu com circunstâncias judiciais desfavoráveis, e em razão da gravidade concreta do delito, não havendo que se falar em fixação do regime prisional semiaberto, por não restarem preenchidos os requisitos do art. 33, § 2º, "b", c/c § 3º, do Código Penal.
+3. Com o advento da Lei 12.736/12, o Juiz processante, ao proferir sentença condenatória, deverá detrair o período de custódia cautelar para fins de fixação do regime prisional. Forçoso reconhecer que o § 2º do art. 387 do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado.
+4. Considerando que a pena do paciente foi fixada em 4 anos e 8 meses de reclusão, mesmo descontando os cerca de 8 meses e 9 dias de prisão provisória, a aplicação da detração não repercute no regime prisional, especialmente em razão do agravamento do regime ter se dado com base na existência de circunstâncias judiciais desfavoráveis e na gravidade concreta das condutas praticadas, que justificam, ainda que a pena seja reduzida a patamar inferior a 4 anos, o regime prisional mais gravoso.
+5. Agravo regimental não provido.
+(AgRg no HC n. 719.106/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 5/4/2022, DJe de 8/4/2022, grifei.)
+Nesse contexto, não há nenhuma ilegalidade no acórdão ora impugnado que indeferiu o pleito da defesa de suspensão do mandado de prisão já expedido, não revelando a presente hipótese situação excepcional que justifique o afastamento da norma segundo a qual a expedição da guia de execução definitiva está condicionada ao cumprimento de mandado de prisão decorrente do trânsito em julgado da condenação.
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
