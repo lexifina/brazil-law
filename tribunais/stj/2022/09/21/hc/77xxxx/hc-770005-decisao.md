@@ -1,0 +1,14 @@
+DECISÃO
+LUCAS GODINHO DOS SANTOSalega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul(Apelação Criminal n. 5000366-43.2021.8.21.0135/RS).
+Consta dos autos que opaciente foi condenado, em primeiro grau, a 8 anosde reclusão, em regime inicial semiaberto, mais multa, pela prática dos crimes previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006.
+O Tribunal de origem deu parcial provimento ao recurso da defesa a fim de absolver o réu do crime de associação para o tráfico e redimensionar a reprimenda para 5 anos de reclusão, em regime semiaberto, mais multa.
+Pleiteia a defesa, neste writ, a aplicação da minoranteprevistano art. 33, § 4º, da Lei n. 11.343/2006 e consectários decorrentes da redução da pena.
+Indeferida a liminar e dispensadasas informações, oMinistério Público Federal opinou pela denegação da ordem.
+Decido.
+Para a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, as instâncias ordinárias - dentro do seu livre convencimento motivado - apontaramelementos concretos dos autos a evidenciar que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades delituosas, notadamente ao tráfico de drogas. Para tanto, a Corte de origem destacou a apreensão de balança de precisão, bem como "os diálogos no aparelho celular do apelante,  que  comprovam que ele não é pequeno e eventual traficante, mas indivíduo que se dedica a atividades criminosas" (fl. 32).
+Assim, não há como se olvidar que, para entender de modo diverso, afastando-se a conclusão de que opacientese dedicaria a atividades criminosas e/ou não integraria organização criminosa, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada na via estreita do habeas corpus.
+Portanto, fica afastado o apontado constrangimento ilegal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
