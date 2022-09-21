@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Juliana da Silva Ferreira, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina, quenegou provimento ao agravo em execução, mantendo a decisão do Juízo da Vara de Execuções Penais, que, nos autos do processo de Execução Criminal n. 0001506-25.2016.8.24.0125, reconheceu a falta grave edeterminou a regressão da paciente ao regime fechado, fixou nova data-base e determinou a perda de dias remidos.
+Neste writ, sustenta-se constrangimento ilegal na homologação da falta grave sem fundamentação idônea.
+Em apertada síntese, diz-seque,conforme se depreende da justificativa da Paciente, esta não teve como retornar ao ergástulo, na medida em que havia 5 crianças sob a sua custódia, já que a mãe estava isolada por haver contraído Covid. Não era de se esperar que, a apenada abandonasse os menores em casa, sem qualquer cuidado e amparo. Portanto, vê-se que não se trata de uma fuga qualquer, mas de uma ausência de retorno de saída temporária totalmente compreensível. Importante considerar que a apenada permaneceu em sua residência, não se ausentou do endereço fornecido ao ergástulo, ou seja, não empreendeu qualquer fuga, tanto é que quando recapturada, foi encontrada em sua casa cuidando das crianças. Ademais, não houve pratica de novo crime (fl. 9).
+Busca-se a anulação da falta grave, restabelecendo-se todos os direitos da Paciente afetados pela referida decisão ilegal (fl. 10).
+É o relatório.
+Da análise dos autostem-se que o Juízo da execução penal homologou falta grave atribuída à paciente e determinou a regressão de regime, nos seguintes termos (fl. 1.228):
+ ..
+O bojo de sua justificativa pauta-se na desassistência dos menores em razão de internação hospitalar de sua cunhada, pois entubada em decorrência do COVID e o isolamento de sua mãe, também em razão do contágio pela doença.
+Com efeito, em primeiro lugar deve-se ter em mente que as crianças não seriam levadas pelo Conselho Tutelar. Isso porque não estavam sozinhas em casa, contavam com a presença do avô, de 60 anos. Atualmente, tal idade não pode ser considerada avançada, porquanto a expectativa de vida cresceu muito nas últimas décadas.
+Além disso, dois dos infantes não eram tão pequenos, um com 11 e outro com 13 anos, com capacidade para auxiliar nas atividades.
+Frise-se que ao usufruir do benefício da saída temporária, a situação de hospitalização de sua cunhada já se apresentava, lembrando-se que sua mãe, embora com Covid, estava se recuperando na própria residência.
+Ainda, a apenada manteve-se foragida pelo período de quase 4 meses. Ou seja, além de não haver qualquer comprovação nos autos acerca do tempo de internação hospitalar de sua cunhada, o lapso temporal decorrido é muito superior ao necessário para que sua mãe saísse do isolamento residencial, lembrando-se que retornou à Unidade Prisional somente em razão do cumprimento do mandado de prisão. Do contrário, ainda estaria foragida.
+Deste feito, a justificativa trazida não tem o condão de modificar o que restou apurado até então, pois a lei não contempla hipótese em que possa o apenado deixar de retornar da saída temporária, da mesma forma que não o autoriza a sair do ergástulo para tratar de imprevistos familiares.
+Logo, o da prática de falta grave erigida no art. 50, II, da RECONHECIMENTO LEP, é medida impositiva
+A seu turno, a Corte local manteve a decisão de primeiro grauaos seguintes fundamentos (fl. 1.359):
+Registro que os arts. 47 e 48 da LEP estabelecem que, no âmbito da execução penal, a apuração da conduta faltosa, a sua consequente subsunção à norma legal, é atribuição exclusiva do diretor do estabelecimento prisional.
+O Juízo da execução exerce tão somente competência suplementar, ou seja, na aplicação das sanções cominadas à falta grave sujeitas à reserva de jurisdição, além do controle de legalidade dos atos e decisões proferidas no PAD.
+Portanto, inexistindo qualquer mácula no PAD, sua homologação é medida que se impõe, reconhecendo o cometimento da falta grave nos termos do art. 118, I, da LEP.
+Como se pode observar, o procedimento administrativo disciplinar foi absolutamente hígido e a autoridade administrativa, competente para discutir o mérito do incidente, concluiu pelo reconhecimento da falta grave. Ademais, sendo certa a impossibilidade de a togada singular adentrar no mérito da decisão administrativa proferida no procedimento disciplinar instaurado, conforme já mencionado, não se constata qualquer ilegalidade na decisão impugnada.
+Assim, nos limites cabíveis à manifestação judicial, não antevejo ilegalidade manifesta quanto ao reconhecimento da falta grave, nos termos do inc. II do art. 50 da LEP
+Então, sem razão a impetração acerca da não homologação da falta disciplinar, isso porquea via do habeas corpus é imprópria para a análise das teses de insuficiência probatória, responsabilização disciplinar coletiva, atipicidade da conduta ou desclassificação da conduta, dada a necessidade de incursão na seara fático-probatória, incabível nesta sede (AgRg no HC n. 328.288/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/3/2017).
+Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL.PRETENSÃO DE NÃO HOMOLOGAÇÃO DA FALTA GRAVE. IMPOSSIBILIDADE. VIA IMPRÓPRIA. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. PRECEDENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Writ indeferido liminarmente.
