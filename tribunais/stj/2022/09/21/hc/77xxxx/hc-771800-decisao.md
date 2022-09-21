@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de JoséAvelino - cumprindo pena privativa de liberdadede 8 anos, 2 meses e 25 dias de reclusão (crime comum) e 17 anos e 6 meses de reclusão (crime hediondo),PEC n. 1014815-88.2020.8.26.0032- contra ato coator do Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0003916-77.2022.8.26.0032), não comporta concessão.
+Com efeito, busca a impetração seja considerada a data-base para fins de progressão ao regime aberto o dia em que o sentenciado preencheu o requisito objetivo para progressão ao regime semiaberto, e não a data em que foi deferida a progressão ou até mesmo data em que foi concluído o exame criminológico(fl. 15).
+Ocorre que o Tribunal de origem decidiuem consonância com oentendimento deste Superior Tribunal, no sentido de quea data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112da Lei n. 7.210/1984, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo, não havendo falarem constrangimento ilegal em razão da consideração do adimplemento do requisito subjetivo somente com a realização do exame criminológico, conforme, verifica-se que, in casu,houve realização de exame criminológico para progressão ao regime intermediário, cujo parecer conjunto é datado de 26 de agosto de 2021 (fl. 15) sendo este, pois, o marco inicial para o novo período de resgate para fins de avanço de regime prisional, como bem deliberado pelo d. Juízo a quo (fl. 22).
+A propósito:AgRg no HC n. 718.175/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 31/5/2022; eAgRg no HC n. 739.943/SP, da minha relatoria, Sexta Turma,DJe de 17/6/2022.
+Em face do exposto, denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS.PROGRESSÃO DE REGIME. DATA-BASE PARA A PROGRESSÃO AO REGIME ABERTO. REALIZAÇÃO DEEXAME CRIMINOLÓGICO. CONSTATAÇÃO DO REQUISITO SUBJETIVO.INEXISTÊNCIA DE ILEGALIDADE. PRECEDENTES DESTA CORTE.
+Ordem denegada (art. 34, XX, do RISTJ).
