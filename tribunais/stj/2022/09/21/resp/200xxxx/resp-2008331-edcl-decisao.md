@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JEFERSON BASSO contra decisão monocráticaassim ementada(e-STJ Fl.629):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL.APLICABILIDADE DO CPC/2015. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CONCESSÃO. TEMPO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REAFIRMAÇÃO DA DER.INCIDÊNCIA DE HONORÁRIOS DE SUCUMBÊNCIA. ACÓRDÃO RECORRIDO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. RECURSOS ESPECIAIS REPETITIVOS 1.727.064/SP, 1.727.063/SP, 1.727.069/SP. TEMA 995/STJ. RECURSO CONHECIDO E DADO PARCIAL PROVIMENTO.
+Em suas razões, oembargante sustenta que o acórdão contém ovício da omissão, afirmando que "No tocante a fixação dos honorários de sucumbência a decisão embargada padece de OMISSÃO evidente quanto a resistência do INSS ao pedido de reafirmação da DER"(e-STJ Fl.634).
+Argumenta ainda que "O autor formulou o pedido de reafirmação da DER no dia 02/02/2018 (documento n. º 129 e 130 - fls. 44 a 49). Dada vistas ao INSS, apresentou em 08/02/2018 impugnação ao pedido de reafirmação da DER (documento 137 - fls. 456 a 457"(e-STJ Fl.634).
+Sem impugnação.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisão embargada decidiu, observando a orientação firmada pelaPrimeira Seção desta Corte Superior de Justiça, no julgamento do REsp 1.727.063/SP - Tema 995/STJ, que"No tocante aos honorários de advogado sucumbenciais, descabe sua fixação, quando o INSS reconhecer a procedência do pedido à luz do fato novo".
+Impende ressaltar, como já claramente afirmado na monocrática embargaquenão se verifica tenha a Autarquia, em sua defesa, resistido quanto àreafirmação da DER, motivo pelo qual mostra-se indevida a sua condenação na verba honorária de sucumbência.
+Convém salientar que na petição apontada pela parte embargante em que o INSS supostamente teria impugnado o pedido de reafirmação da DER, tal argumento não merece prosperar, uma vez que não se extrai da referida petição qualquer pretensão contra dita reafirmação. Na verdade, o que a Autarquia pontuou foi que "que eventual reafirmação da DER deve ser analisada juntamente com os demais pontos recorridos, devendo, no caso concreto, restar prejudicado o pedido em decorrência do provimento da apelação do INSS"(e-STJ Fl.456). Ou seja, o Instituto apenas esclareceu que a reafirmação deve ser analisada juntamente com os demais pedidos e, como houve o provimento da apelação do INSS, o pedido resta prejudicado.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intime
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
