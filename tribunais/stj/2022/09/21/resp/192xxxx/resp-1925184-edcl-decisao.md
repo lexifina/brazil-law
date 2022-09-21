@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela SABESP, pedindo integração quanto ao termo inicial da restituição a ser implementada.
+A embargante sustenta, em síntese (fls. 1258/1260):
+Cumpre-nos ressaltar, por oportuno, que o autor na exordial requereu a restituição a partir de novembro de 1987. Não havendo que se falar, em decorrência do princípio da estabilização da lide, em restituição pretérita a novembro de 1987. De outro lado, a delimitação pelo E. TJSP para janeiro de 2003 relaciona-se a aplicação da retroatividade da prescrição decenal a partir da vigência do atual Código Civil. Frise-se que referida definição/delimitação, inclusive, é necessária para que possa ser realizada aliquidação de sentença onde, efetivamente, ocorrerá a apuração do quantum devido. Considerando-se que a ora embargante figura como integrante da Administração Pública Indireta objetivando, assim, assegurar os interesses do Erário e a posterior efetivação/liquidação do título judicial requer que seja suprida a omissão para que seja consignado, expressamente, o termo inicial da restituição devida.
+Sem impugnação pelas partes embargadas (fls. 1264/1265).
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, conquanto beire a inépcia a petição recursal, deve-se pontuar não havervício a ensejar esclarecimento, complemento ou eventual integração do que fora decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+Isso porque a decisão embargada tratou da violação dos arts. 503 e 505 do CPC/2015 e se referiu ao direito à restituição até o ano de 1996, tal como decidido no primeiro acórdão; vide:
+No contexto, porque as parcelas alcançadas pelo juízo de procedência não foram afetadas pelo segundo acórdão, não se verifica reformatio in pejus; porém, houve violação dos arts. 503 e 505 do CPC/2015, na medida em que o órgão julgador a quo alterou o fundamento segundo o qual seria devida a restituição até 1996, sem acrescer qualquer elemento de distinção válido entre os respectivos períodos (antes e após 1993).
+Assim, o recurso deve ser provido; e, consideradas as premissas normativas firmadas pelo Tribunal de Justiça, deve-se ser reconhecido o direito à restituição até o ano de 1996, cujo quantum deve ser apurado em liquidação, tal como decidido no primeiro acórdão, ante o não conhecimento do recurso especial da SABESP, no AREsp 230624/SP.
+Ante o exposto, dou provimento ao recurso especial de RAPHAEL MANSUR e RUTH KALILI MANSUR para, reformando em parte o acórdão recorrido, estender o direito à restituição até dezembro de 1996, mantidos os honorários advocatícios de sucumbência em 10% do valor a restituir.
+Ante o exposto, rejeito os embargos de declaração rejeitados.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
