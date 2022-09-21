@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LEONEIDE DE FRANCA JESUScontra decisão que inadmitiu recurso especial com fundamento naSúmulan. 7 do STJ.
+Alega aagravanteque os pressupostos de admissibilidade do recurso especial foram atendidos.
+Nas razões do recurso especial (fls. 151-157), aagravanteapontaofensa ao art. 395, III, do Código de Processo Penal, aduzindo ausência de justa causa para a ação penal por inépcia da denúncia, pois, "pela narrativa trazida pela inicial acusatória, foram supostamente encontradas com o recorrente "moedas", além destes terem supostamente consumido bebidas alcoólicas/separado bebidas alcoólicas para serem subtraídas, de modo que não se mostra proporcional a incidência do direito penal no presente caso" (fl. 155).
+Sustentaaindaque o fato de o acusado possuir antecedentes criminais não impede a aplicação do princípio da insignificância.
+Requer o provimento do recurso paraque sejarestabelecida a sentença, que não receberaa denúncia.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Extrai-se dos autos que a agravante foi denunciada porque, "em comunidade de desígnios com um casal não identificado, subtraiu do referido estabelecimento comercial 01 CD trilha sonora TITANIC ANNIVERSARY EDITION e 01 BOX, contendo 05 CD"s, obra completa do artista Renato Russo, após retirar os lacres de segurança destes objetos, conforme se depreende das fotos de fls. 10 e 11" (fl. 140).
+O juiz de primeiro grau absolveu aagravanteda imputação do crime de furto, por incidência do princípio da insignificância,sem sequer determinarsua citação para apresentar defesa prévia.
+Ocorre que os argumentos trazidos no recurso especial tratam de suposta rejeição da denúncia por inépcia e de furto de bebidas alcoólicas,hipótesefáticadistinta da do caso dos autos. Verifica-se, pois que as razões recursais estãodissociadas da fundamentaçãodo acórdão recorrido, o que atrai a incidência da Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ademais, o Tribunal de origem reformou a sentença absolutória com base em dois fundamentos: a) a absolvição antesda citação para apresentar defesa prévia viola o devido processo legal; b) não se aplica o princípio da insignificância ao caso, pois o valor dos bens furtados (R$ 154,80)equivalia, à época dos fatos, a cerca de 18% do salário mínimo vigente e a acusada responde a outras ações penais e já foi presa, três vezes, pelo crime de furto.
+Entretanto, no apelo especial, a agravante limitou-se a argumentar que o fato de possuir antecedentes criminais não obsta a incidência do princípio da bagatela, deixando incólume os outros fundamentos. Incide, portanto, na espécie a Súmula n. 283 do STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ante o exposto, negoprovimento ao agravo.
+Publique-se. Intimem-se.
