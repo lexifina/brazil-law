@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra a decisão de fls. 593/594, da Presidência desta Corte, que não conheceu do agravo em recurso especial, porquanto intempestivo.
+O agravante sustenta a tempestividade do recurso, alegando que (..)O próprio Regimento Interno do Egrégio Tribunal de Justiça Paulista, através do art. 116, § 2ºé claro ao dispor que os prazos ficam suspensos até o dia 20/01/2022.É um documento idôneo para comprovar feriado local e que foi anexado quando da interposição do agravo (fl. 598).
+O Ministério Público Federal opinou pelo desprovimento do agravo regimental (fls. 610/613).
+É o relatório. Decido.
+O agravo regimental merece provimento.
+Esta Corte entende que "cabe à parte comprovar a ocorrência de suspensão dos prazos processuais em decorrência de feriados, recesso forense e ponto facultativo locais, dentre outros motivos, a fim de demonstrar a tempestividade recursal" (EDcl no AgRg no AREsp 874.826/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 7/11/2017, DJe 14/11/2017) (AgRg no AREsp n. 2.060.519/RN, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 31/5/2022).
+No caso dos autos, verifica-se que o agravante comprovou a suspensão dos prazos processuais no ato de interposição do agravo em recurso especial, conforme documento de fls. 456/567. Portanto, havendo suspensão dos prazos processuais até o dia 20/01, conforme determina art. 116, § 3º, do Regimento Interno do TJSP (fl. 516), o agravo em recurso especial interposto em 17/01/2022 revela-se tempestivo.
+Atendidos os pressupostos de admissibilidade do agravo em recurso especial, passa-se à análise do recurso especial.
+A defesa aponta ofensa ao disposto no art. 120 do Código de Processo Penal e arts. 60 e 63, ambos da Lei Federal n. 11.343/06. Sustenta, em síntese, a restituição dos veículos apreendidos, porquanto (..)está demonstrada a propriedade dos veículos apreendidos, cujo os proprietários são terceiros de boa-fé, bem como os veículos não eram utilizados com habitualidade para a prática de crime, e ainda, os veículos não são proveitos do crime (fl. 420).
+A irresignação não merece prosperar.
+Acerca da pretensão recursal, o Tribunal de origem consignou o seguinte (fl. 407):
+Para concluir, inquestionável o perdimento dos veículos e valores apreendidos, porquanto provenientes da vil mercancia ou utilizados pelos traficantes na prática do crime hediondo, algo confirmado informalmente pelos próprios apelantes ao admitirem o uso das coisas para levar drogas a outra cidade, consoante artigo 63 da Lei nº. 11.343/06, nada infirmando a origem ilícita das coisas.
+Aliás, no caso da Lei de Drogas, "há uma inversão do ônus da prova no § 2º do art. 60. Caberá ao acusado demonstrar a origem lícita dos bens e não à acusação a origem ilícita, que fica presumida pelos indícios suficientes" (FILHO, Vicente Greco, "Lei de Drogas Anotada, Lei n. 11.343/2006", 2ª edição, 2008, fls. 209).
+Outra não foi a solução dada por este Egrégio Tribunal de Justiça diante de caso semelhante, litteris: "Tráfico de entorpecentes. Ré que foi surpreendida por policiais militares transportando, em sua motocicleta, uma pedra de crack, com peso aproximado de 860 gramas. Confissão, em juízo, em sintonia com os depoimentos dos policiais militares. Prova oral hábil. Condenação bem decretada. Penas mantidas. Redução pela aplicação do artigo 33, § 4º,da Lei nº 11.343/06 não impugnada e que já beneficiou a acusada. Regime fechado adequado. Perdimento da motocicleta em favor da União bem decretado. Apelo improvido" (TJSP, Apelação Criminal nº 0000019-63.2016.8.26.0610, Relator Desembargador PINHEIROFRANCO, julgado 09-2-2017, grifei).
+Não se pode ignorar que a devolução de veículo nitidamente usado no transporte de considerável quantidade de substância entorpecente tornaria o artigo 63 da Lei de Tóxico letra morta, devendo o proprietário ou possuidor da coisa responder pela desídia.
+O pleito referente à restituição dos veículos apreendidos, em razão de não serem proveitos de crime, assim como oproprietário ser terceiro de boa-fé,não foi objeto de debate e discussão na instância ordinária. Assim, a pretensão carece do adequado e indispensável prequestionamento, motivo pelo qual incidentes, por analogia, as Súmulas n. 282 e 356, ambas do STF.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. PENA-BASE. EXASPERAÇÃO. FUNDAMENTOS IDÔNEOS. RECURSO IMPROVIDO.
+1. Nos termos das Súmulas 282 e 356, STF, aplicáveis por analogia, não se conhece de recurso especial quando ausente prequestionamento da matéria recursal no acórdão recorrido.
+(..)
+3. Agravo regimental improvido.
+(AgRg no AREsp 1047485/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 27/03/2018).
+Quanto ao pedido de restituição, por não haver utilização dos veículos com habitualidade delitiva, arevisão do entendimento firmado pelas instâncias ordinárias demanda, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 07 do STJ.
+Nesse sentido:
+REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESTITUIÇÃO DE COISA APREENDIDA. FALTA DE COMPROVAÇÃO DA LEGITIMA PROPRIEDADE. AUSÊNCIA DE DEMONSTRAÇÃO DA ORIGEM LÍCITA DO RECURSO FINANCEIRO PARA A AQUISIÇÃO DO BEM. COMPROMETIMENTO COM A ATIVIDADE CRIMINOSA. REEXAME DE PROVAS. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA. INCIDÊNCIA DA SÚMULA N. 83/STJ. INSURGÊNCIA DESPROVIDA.
+1. O Tribunal a quo, reexaminando o conjunto fático-probatório, desacolheu o pedido de restituição do bem apreendido por entender que persistia o interesse na custódia da coisa para o processo e que a suplicante não demonstrou ser proprietária legitima nem qual a origem do recurso financeiro que possibilitou a aquisição do automóvel, até porque o bem pode ter sido o instrumento do crime pelo qual responde seu companheiro.
+2. No apelo nobre para se chegar a conclusão em sentido diverso, como pretendido na insurgência, é necessário uma nova incursão sobre as provas produzidas, o que é vedado na via eleita, pelo Enunciado n.º 7 da Súmula deste Corte.
+3. O Superior Tribunal de Justiça ao interpretar o art. 118 do CPP, firmou compreensão de que as coisas apreendidas na persecução criminal não podem ser devolvidas enquanto interessarem ao processo.
+4. Encontrando-se o acórdão recorrido em consonância com a jurisprudência firmada nesta Corte Superior de Justiça, a pretensão recursal esbarra no óbice previsto na Súmula nº 83/STJ, também aplicável aos recursos interpostos com fundamento na alínea "a" do permissivo constitucional.
+5. Agravo a que se nega provimento.
+(AgRg no AREsp 1049364/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 27/03/2017).
+Ante o exposto, dou provimento ao agravo regimental para conhecer do recurso especial e, nos termos da Súmula n. 568/STJ, negar-lhe provimento.
+Publique-se. Intimem-se.
