@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Agravo Interno interposto pela Santa Casa Anna Cintra contra a decisão proferida pelo então Presidente desta Corte, o eminente Ministro Humberto Martins, deferindo o pedido "para sustar os efeitos da decisão que concedeu efeito suspensivo ao Agravo de Instrumento n. 2247469-92.2021.8.26.0000, em trâmite no Tribunal de Justiça do Estado de São Paulo" (fl. 1.601).
+Alega a agravante que "na espécie, não há falar em ação movida contra o Poder Público. Ao reverso, o que se verifica é que a ação originária foi ajuizada pelo próprio Município. Destarte, manifesta é a inadequação da via eleita, não reunindo condições de processamento" (fl. 1.615).
+Sustenta, também, que a pretensão tem nítido caráter recursal, não tendo sido demonstrada, de forma inequívoca, a grave lesão aos bens tutelados pela legislação de regência.
+Argumenta, ainda,que "o r. decisum agravado comporta reforma na parte em que assenta que a gestão da suplicante estaria maculada com irregularidades. A um, pois tal fato, por si só, não demonstra de forma cabal o perigo iminente de dano ao Poder Público. A dois, pois os documentos tomados como base para tomar referida conclusão nãoguardam relação com o período em que a recorrente esteve na gestão da Santa Casa" (fl. 1.627).
+Aduz, por fim, que, "ao reverso do que tenta fazer crer a parte contrária, não há falar em terra arrasada durante a gestão da recorrente. Ao reverso, as informações extraídas do caderno processual vão em sentido diametralmente oposto, vale dizer, na ocasião em que a Santa Casa era mantida pelo Poder Público o que sucedeu foi um crescente descontrole das contas da instituição e irregularidades apontadas pelos órgãos de censura" (fl. 1.631).
+Requer, pois, seja reconhecido o não cabimento do Pedido de Suspensão de Liminar e de Sentença na espécie, seja em razão da inadequação da via eleita, seja em razão do impossível caráter recursal do incidente".
+Contrarrazões às fls. 1.680-1.707.
+Intimada a parte requerentepara se manifestar sobre a alegação de perda de objeto da demanda, pleiteou o Município de Amparo a manutenção da decisão que deferiu o pedido de suspensão até o trânsito em julgado da Ação Civil Pública.
+É o relatório.
+Tem razão a agravante.
+Com efeito, nos termos do art. 4º da Lei 8.437/1992, "compete ao presidente do tribunal, ao qual couber o conhecimento do respectivo recurso, suspender, em despacho fundamentado, a execução da liminar nas ações movidas contra o Poder Público ou seus agentes, a requerimento do Ministério Público ou da pessoa jurídica de direito público interessada, em caso de manifesto interesse público ou de flagrante ilegitimidade, e para evitar grave lesão à ordem, à saúde, à segurança e à economia públicas".
+A propósito do tema, colhe-se na doutrina o seguinte:
+Tal instituto foi criado como meio processual para que o Poder Público, na condição de réu, possa dele valer-se para impedir que uma decisão judicial, provisoriamente executada, tenha eficácia que cause risco de lesão a determinado interesse público. Por isso, a finalidade do instituto é amordaçar a eficácia executiva de uma decisão proferida contra o Poder Público, para que se mantenha de pé e intacta uma situação jurídica anterior ao processo.
+Exatamente por isso é que se exige que o Poder Público só possa lançar mão do instituto quando figure na posição de réu numa demanda contra si proposta, e, nesta condição, tenha contra si um título provisório com eficácia imediata que poderá causar grave lesão a interesses maiores da sociedade.
+Aliás, tanto o texto do art. 15, caput, da Lei 12.016/2009, quanto o art. 4º da Lei 8.437/92 são claríssimos ao evidenciar que o instituto tem razão de ser nas situações em que o Poder Público, na condição de sujeito passivo da demanda, corre o risco de sofrer grave prejuízo em razão da execução de uma decisão judicial mandamental. O art. 4º, caput, da Lei 8.437/92 é claro neste sentido, pois, de forma expressa, fala em "ações movidas contra o Poder Público".
+Por sua vez, conquanto o art. 15 da Lei 12.016/2009 não contenha dita expressão, a única exegese que se pode extrair é a de que a liminar ou sentença concessiva da segurança em favor do impetrado pode ter a sua execução impedida pelo pedido de suspensão de segurança, requerido pelo sujeito que ocupa o polo passivo da demanda, qual seja, a pessoa jurídica de direito público.
+Apenas na condição de impetrado, réu, requerido etc. que a pessoa jurídica de direito público poderá lançar mão da suspensão de segurança nas hipóteses previstas em lei. Por isso, qualquer tentativa de valer-se da suspensão de segurança, quando o Poder Público ocupe o polo ativo de uma demanda, é desvirtuamento escancarado e inidôneo de burlar o sistema processual e aquilo que prevê a lei.
+(Rodrigues, Marcelo Abelha. Suspensão de Segurança: suspensão da execução de decisão judicial contra o Poder Público, 5ª ed., Indaiatuba, SP. Editora Foco, 2022, pg 127)
+Vale dizer, o instituto da Suspensão de Segurança visa a obstar a execução de medidas liminares que possam causar grave prejuízo ao Poder Público, preservando-se a situação jurídica anterior ao processo.
+No caso em exame, a Ação Civil Pública em trâmite no Juízo de origem não foi proposta contra o poder público, mas, sim, por ele próprio, isto é, pelo Município de Amparo, parte requerente da suspensão de que aqui se cuida.
+Desse modo, evidente o não cabimento do Pedido de Suspensão.
+Nesse sentido, veja-se oprecedente:
+AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. AÇÃO MOVIDA PELO PRÓPRIO PODER PÚBLICO. NÃO CABIMENTO DO PEDIDO DE SUSPENSÃO. VIA INADEQUADA PARA A ANÁLISE DO MÉRITO DA CONTROVÉRSIA.
+1. O incidente suspensivo, via excepcional de defesa do interesse público, depende da existência de ação principal em curso proposta contra o Poder Público requerente, como dispõem os §§ 1º e 9º do art. 4º da Lei n. 8.437/1992.
+2. O incidente da suspensão de liminar e de sentença, por não ser sucedâneo recursal, é inadequado para a apreciação do mérito da controvérsia.
+3. Agravo interno desprovido.
+(AgInt na SLS 2385/MA - Relator Ministro JOÃO OTÁVIO DE NORONHA, Corte Especial, DJ 13/11/2018, DJe 20/11/2018)
+Peloexposto, dou provimento ao agravo interno para, reconsiderando a decisão de fls. 1.598-1.602 , não conhecer do pedido de suspensão.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO INTERNO NASUSPENSÃO DE LIMINAR E DE SENTENÇA. AÇÃO AJUIZADA PELO PODER PÚBLICO. PEDIDO DE SUSPENSÃO. NÃO CABIMENTO. DECISÃO RECONSIDERADA. PEDIDO DE SUSPENSÃO NÃO CONHECIDO.
