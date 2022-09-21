@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de reclamação, com pedido liminar, ajuizada por AGRÍCOLA PROVISÃO LTDA E OUTROScontra decisão proferida pelo r. Juízo da 13ª Vara de Relações de Consumo de Salvador/BA, nos autos da execução de título extrajudicial n.º 0033809-22.2007.8.05.0001, movida por ANGELO CALMON DE SÁ.
+Alegam os reclamantes, em resumo, que: i)"(..) nos autos de execução de título extrajudicial n. 0033809-22.2007.8.05.0001, o d. magistrado da 13ª Vara de Relações de Consumo da Comarca de Salvador/BA, descumpriu a ordem de suspensão, concedida em sede de tutela recursal por esse E. STJ nos autos do REsp n. 1.827.083, pelo i. ministro Marco Buzzi." (grifos nossos); ii)"(..) Ignorando totalmente a determinação desse E. STJ, o Reclamado deu seguimento à execução em 1º grau requerendo nova penhora, sob o frágil argumento de que a execução não estaria garantida e que teriam os Reclamantes incorrido em fraude à execução ao alienar ações (não penhoradas) à empresa terceira Companhia de Participações Aliança da Bahia."; iii) "(..) o cenário na origem pode ser resumido da seguinte forma: o Reclamado, irresignado com a suspensão do processo executivo - pois deve aguardar o julgamento do recurso especial por esse E. STJ (e dos demais ora em curso) - apresentou a teratológica tese da fraude à execução, visando a atingir o patrimônio pessoal dos Reclamantes Mário Ângelo e Cláudia Fernandez e da suaempresa, muito embora já garantida integralmente a execução. O d. Juízo de 1º grau, repita-se, não acatou a tese da fraude à execução, mas ampliou a penhora da execução, para atingir bens de terceiro. Ocorre que, não havia elementos objetivos para expandir os atos expropriatórios, sobretudo porque os bens penhorados (valor em depósito - aproximadamente 7 milhões de reais e ações da Companhia de Seguros Aliança da Bahia) garantem o juízo."
+Pediram, assim, a concessão de medida liminar a fim de "(..) determinar o cumprimento imediato da decisão prolatada pelo i. ministro relator Marco Buzzi no REsp n. 1.827.083/BA, declarando-se de plano a ineficácia da decisão que deu seguimento a execução de título executivo extrajudicial n. 0033809-22.2007.8.05.0001, determinou o bloqueio de alienação das ações da Companhia de Participações Aliança da Bahia de propriedade da empresa HGT Construção, Reforma e Manutenção de Imóveis Ltda e a sua intimação para apresentação de embargos de terceiro, bem como seja restabelecida a ordem de suspensão do processo executivo para todos os fins."
+No mérito, requereram a procedência da presente reclamação para cassar a decisão ora reclamada. (fls. 3/17)
+Às fls. 150/151, este signatário indeferiu o pedido liminar, oportunidade em que solicitou informações à autoridade reclamada.
+Contestação juntada às fls. 175/188.
+Opostos embargos de declaração (fls. 160/172), esses foram rejeitados às fls. 199/201.
+O pedido de tutela provisória de urgência (fls. 225/278), foi indeferido às fls. 279/281.
+Prestadas as informações (fls. 221/223), o MPF ofertou parecer pelo não conhecimento da insurgência. (fls. 292/295)
+Às fls. 297/300, este signatário julgou improcedente a presente reclamação.
+Os embargos de declaração de fls. 304/308, foram acolhidos às fls. 335/336.
+O agravo interno de fls. 317/326, aguardam exame.
+É o relatório.
+Decisão.
+A presente reclamação está prejudicada ante a perda superveniente de objeto decorrente do julgamento do REsp 1.827.083/BA.
+1. Como visto, a insurgência foi manejada tendo como objeto oREsp 1.827.083/BA, o qual foi desprovido por deliberação exarada por este signatário e publicada no DJe de 8/9/2022, motivo pelo qual fica prejudicado o exame do incidente, em razão da perda superveniente de objeto.
+2. Do exposto, com fundamento no art. 34, I, do RISTJ, julga-se prejudicada a presente reclamação, bem como o agravo interno de fls. 317/326.
+Publique-se. Intimem-se. Após, arquivem-se.
