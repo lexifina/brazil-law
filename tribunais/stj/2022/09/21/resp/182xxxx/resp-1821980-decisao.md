@@ -1,0 +1,19 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO FEDERALinterpõe recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região(Apelação Criminal n.5002292-27.2015.4.04.7103).
+Nas razões do recurso especial, o Ministério Público aponta divergência jurisprudencial e violação doart.40, V, da Lei n. 11.343/2006, sob o argumento de que "o fator que define a incidência da majorante em apreço é a constatação de que o destino final da droga é estado da federação diverso daquele que o crime teve início ou em que ocorreu a apreensão daquela substância" (fl. 3.500).
+Requer o provimento do recurso, para que seja reconhecida a aplicação da referida causa especial de aumento de pena.
+O Ministério Público Federal manifestou-se peloprovimento do recurso.
+Decido.
+No tocante à apontada violação do inciso V do art. 40 da Lei de Drogas, constato que a Corte estadual considerou indevida a aplicação dessa majorante, com base nos seguintes argumentos (fls. 3.281-3.282):
+Quanto à interestadualidade, a situação é diversa.
+Pontuo que, para caracterização da causa de aumento em questão - inciso V do art. 40 da Lei 11.343/06, conforme doutrina e jurisprudência, necessário comprovar que a droga provém de outro Estado ou que se trata de tráfico entre Estado e Distrito Federal, não bastando simplesmente que o agente transponha ou pretenda transpor os limites de um Estado.
+Isso não restou suficientemente comprovado no caso específico.
+Com efeito, não apurada a prática de tráfico entre Estados e, sim, apenas que a droga tinha como destino o Estado de São Paulo, o que não basta para configuração da majorante relacionada.
+Assim, demonstrada a participação de todos os apelantes no tráfico de drogas, deve ser mantida sua condenação, conforme a sentença, com exclusão, porém, da causa de aumento descrita no inciso V do art. 40 da Lei 11.343/06 para todos  .. .
+Certo é que este Superior Tribunal possui o entendimento de que, para a incidência da causa especial de aumento de pena prevista no inciso V do art. 40 da Lei de Drogas, é irrelevante que haja a efetiva transposição da divisa interestadual pelo agente, sendo suficiente, para a configuração da interestadualidade do delito, que haja a comprovação de que a substância tinha como destino localidade em outro Estado da Federação.
+Confira-se, a propósito, o disposto na Súmula n. 587 desta Corte Superior: "Para a incidência da majorante prevista no artigo 40, V, da Lei 11.343/06, é desnecessária a efetiva transposição de fronteiras entre estados da federação, sendo suficiente a demonstração inequívoca da intenção de realizar o tráfico interestadual".
+Entretanto, no caso, já incidiu a causa de aumento de transnacionalidade e, conforme orientação do Superior Tribunal de Justiça, "É cabível aaplicação cumulativa das causas de aumento relativas à transnacionalidadee à interestadualidade do delito, previstas nos incisos I e V da Lei deDrogas, quando evidenciado que a droga proveniente do exterior se destinaa mais de um estado da federação, sendo o intuito dos agentes distribuir oentorpecente estrangeiro por mais de uma localidade do país" (AgRg no REspn. 1.744.207/TO, Rel. Ministro Felix Fischer, 5ª T., DJe de 1/8/2018).
+Pela leitura do acórdão, o que se percebe é que a droga tinha como destino o Estado de São Paulo e sua passagem pelo Estado do Rio Grande do Sul se deu apenas como etapa para a conclusão do tráfico transnacional, apenas por questões de ordem geográfica.
+Diante de tais considerações, não identifico a apontada violação do art. 40, V, da Lei n. 11.343/2006 e, por isso mesmo, mantenho o afastamento da majorante em questão.
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 3º do CPP, e no art. 34, XVIII, "b", parte final, do RISTJ, nego provimento ao recurso especial.
+Publique-se e intimem-se.
