@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Reginaldo Miranda Quadros, em que se aponta como autoridade coatora o Terceiro Grupo de Câmaras Criminais do Tribunal de Justiça de Minas Gerais, naRevisão Criminal n. 10000.21.114529-7/000.
+Consta dos autos (n. 0024.15.119.886-4) que o paciente foi condenado como incurso nos arts. 33 e 35, c/c o art.40, V, todos da Lei de Drogas, àpenade 17 anos e 6 meses de reclusão, em regime fechado, e2.216 dias-multa, em face da comercialização de2 toneladas de maconha, em associação com outros 15 corréus (fls. 39/226).
+Em sede de apelação, a Primeira Câmara Criminal do Tribunal de Justiça de MinasGeraisdeu provimento ao recursopara redimensionar a pena do pacientepara 16 anos e 11 meses de reclusão, em regime fechado, e 2.157 dias-multa (fls. 11/38).
+Em sede de revisão criminal,o Terceiro Grupo de Câmaras Criminais do Tribunal de Justiça de Minas Gerais julgou improcedente o pedido (fls. 6/10).
+No presente writ, a defesa requer o reconhecimento daatenuante da confissão espontânea (fls. 6/10).
+Despacho deste Relator, aceitando a prevenção, em face da conexão com o HC n. 637.605/MG, no qual foi proferida decisão concedendo a ordem de habeas corpus em 29/4/2021,no âmbito da Ação Penal n. 0024.15.119.888-4 (fls. 233/234).
+Parecer ministerialopinando pelo não conhecimento do writ ou pela denegação da ordem (fls. 245/250).
+É o relatório.
+Verifica-se dos autos que, em decisão de minha relatoria, no HC n. 637.605/MG, datada de 29/4/2021, apena final do paciente, em concurso material, foi redimensionada para 12 anos e 6 dias de reclusão, em regime fechado, e 2.066 dias-multa. Nessa decisão, foi dito expressamente que, na segunda fase da dosimetria da pena, não houve o reconhecimento de nenhuma atenuante.
+Ademais, em relação ao pedido de reconhecimento da atenuante de confissão espontânea, constou do julgamento da revisão criminal (fl. 8):
+No caso, é possível extrair dos documentos acostados aos autos, que o peticionário, em nenhuma das oportunidades em que foi ouvido, confessou a prática delitiva, razão pela qual deixou de ser reconhecida referida atenuante em seu favor.
+Ora, além do recuo judicial do acusado, que alegou ter sido preso, sem motivo, pela polícia civil, em um posto, em sede policial, ele sustentou que vigiava cargas de cigarros, tendo sido contratado para escoltar uma carga até Belo Horizonte, alegando que não sabia que se tratava de drogas, pois pensava que eram cigarros.
+Embora o tema - por se tratar de questão de entendimento esteja fora do espectro da Revisional - peço vênia para registrar que também eu entendo não ficou configurada a pretendida atenuante. Aquela outrora tida como rainha das provas somente poderia trazer algum benefício ao peticionário acaso viesse a se consubstanciar em certeza e conforto moral ao Órgão responsável pela jurisdição, o que definitivamente não ocorreu. Ademais - sigo apenas para efeito de registro -vejo que a condenação do peticionário vem alicerçada em outros elementos contidos nos autos independentes das versões por ele apresentada. Enfim, a Revisão não se presta ao papel de 2ª apelação ou de substituto de recurso raro a que não se manejou o obteve êxito.
+Nesses termos, o pedido da defesa requer aprofundada análise das provas, o que se mostra inviável,pois,em habeas corpus, é incabível reanalisar a pena na segunda fase dadosimetria,se as instâncias ordinárias, com base na análise das provas e de modo fundamentado, reconheceram não ter ocorrido aconfissão espontânea(AgRg no HC n. 740.762/SP, Ministro João Otáviode Noronha, Quinta Turma,DJe 24/6/2022).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. 2 TONELADAS DE MACONHA. PEDIDO DE RECONHECIMENTODA ATENUANTE DE CONFISSÃO ESPONTÂNEA. DECISÃO PROFERIDA NO HC N. 637.605/MG, QUE REDIMENSIONOU A PENA FINAL DO PACIENTE. NÃO RECONHECIMENTO DA ATENUANTE. REVISÃO CRIMINAL. ENTENDIMENTO DE SER INCABÍVEL. REEXAME FÁTICO. AUSÊNCIA DE ILEGALIDADE.
+Ordemdenegada.
