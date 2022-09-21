@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto porWAGNER CARDEAL OGANAUSKAS, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná - HC Criminal 0040550-50.2022.8.16.0000.
+Extrai-se dos autos que o recorrente foi preso, preventivamente, na data de 25/6/2021, pela suposta prática do crime previsto no art. 121, § 2º, I, IV, VI, § 2º-A, I, na forma do art. 29 (feminicídio), todos doCódigo Penal. Sobreveio a prolação de sentença de pronúncia, mantida a segregação cautelar do acusado.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que não conheceu da impetração, conforme a seguinte ementa:
+"HABEAS CORPUS CRIMINAL. FEMINICÍDIO. PRISÃO PREVENTIVA. ALEGADA AUSÊNCIA DOS REQUISITOS NECESSÁRIOS À MANUTENÇÃO DA MEDIDA CAUTELAR IMPOSTA. INEXISTÊNCIA DE RISCO DE REITERAÇÃO DELITIVA PELO ACUSADO. PLEITO DE REVOGAÇÃO DA MEDIDA EXTREMA. MERA REITERAÇÃO DOS PEDIDOS, JÁ ANALISADOS EMWRIT ANTERIOR. NÃO INEXISTÊNCIA DE ALTERAÇÃO QUE AUTORIZE CONHECIMENTO. A CONCESSÃO DE OFÍCIO. ORDEM NÃO CONHECIDA" (e-STJ, fl. 1.339).
+Nesta sede, o recorrente alega, em suma, carência de fundamentação válida da manutenção da prisão preventiva na pronúncia, "por suposta gravidade concreta do delito"(e-STJ, fl. 1.363),uma vez que, " u ltrapassados mais de 12 meses da prisão preventiva, os motivos ensejadores não se revelam mais necessários para resguardo da ordem pública por meio da medida extrema de constrição da liberdade, uma vez que inexiste risco de reiteração de ações delituosas por parte do acusado, caso permaneça em liberdade", asseverando que o"Paciente é primário, não possui registros infracionais e inexistem indícios concretos de que sua vida seja voltada exclusivamente à criminalidade" (e-STJ, fls. 1.365-1.366).
+Aduz que, durante a instrução processual, nota-se que "o Paciente não tinha qualquer motivação para, supostamente, ordenar a prática do crime" (e-STJ, fl. 1.366).
+Defende que" é  direito do acusadocomparecer perante o Tribunal do Júri por livre e espontânea vontade, sem que que seja conduzido pela Polícia ou que entre algemado e de uniforme", motivo pelo qual, "inexistindo fundamentos, é direito da parte responder o pleito em liberdade" (e-STJ, fl. 1.366).
+Requer, liminarmente e no mérito,o provimento recursal, inclusive liminarmente, para que seja revogada a custódia cautelar, com a determinação de monitoramento eletrônico ou outras medidas cautelares diversas da prisão.
+É o relatório.
+Decido.
+Desde logo, convém anotar que, embora a defesa sustente as teses de inidoneidade e ausência de contemporaneidade da manutenção do decreto prisional e ausência de motivação para a prática do suposto crime, observa-se que nenhuma das questõesfoi objeto de análise pelo acórdão recorrido, na medida em que já tinha sido analisado em outro writ anteriormente impetrado, razão pela qual éinviável seu enfrentamento por este Superior Tribunal de Justiça, sob pena de se incorrer em indevida supressão de instância.
+Ilustrativamente, esse é o entendimento das Turmas que compõem a Terceira Seção desta Corte:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. INTELIGÊNCIA DO ARTIGO 34, INCISO XX, DO REGIMENTO INTERNO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA.  ..  SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA. MANDADO DE PRISÃO AINDA NÃO CUMPRIDO. NECESSIDADE DE PRESERVAÇÃO DA MEDIDA CONSTRITIVA. PROVIDÊNCIAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. EXCESSO DE PRAZO PARA O OFERECIMENTO DA DENÚNCIA E NEGATIVA DE AUTORIA. MATÉRIA NÃO EXAMINADA NO ARESTO IMPETRADO. SUPRESSÃO DE INSTÂNCIA. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..  5. Vedada a apreciação, diretamente por esta Corte Superior de Justiça, sob pena de se incidir em indevida supressão de instância, das teses que não foram analisadas pelo Tribunal de origem no aresto combatido.
+6. Agravo regimental improvido."
+(AgRg no HC 432.177/PE, rel. Ministro JORGE MUSSI, QUINTA TURMA, j. 13/12/2018, DJe 4/2/2019, grifou-se).
+"HABEAS CORPUS.  ..  PRISÃO DOMICILIAR. PLEITO NÃO SUBMETIDO À INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE EXAME POR ESTA CORTE. ORDEM PARCIALMENTE CONCEDIDA.
+1. Não debatida a matéria na instância ordinária, não cabe a este Superior Tribunal de Justiça inaugurar o enfrentamento da tese, sob pena de indevida supressão de instância. .. .
+(HC 400.229/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018, grifou-se).
+Demais disso, a questão da prisão preventiva já foi analisada no RHC 157511, em decisão que negou provimento ao recurso emhabeas corpus.
+Ante o exposto, com fundamento nos art. 210 e 246 do RISTJ, indefiro liminarmente o presente recurso emhabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
