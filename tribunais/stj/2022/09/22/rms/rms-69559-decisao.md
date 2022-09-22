@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso ordinário em mandado de segurança interposto por Caio Melo Souza contra o acórdão de fls. 584/599, proferido à unanimidade pela Seção Cível de Direito Público do Tribunal de Justiça do Estado de São Paulo, resumido pela seguinte ementa:
+MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO E CONSTITUCIONAL. CONCURSO GUARDA CIVIL MUNICIPAL DE SALVADOR. EDITAL. EDITAL N.º 001/2019. PRELIMINAR DE ILEGITIMIDADE PASSIVA DO PREFEITO. REJEITADA. PRELIMINAR DE LITISCONSORTE PASSIVO NECESSÁRIO. REJEITADA. PEDIDO DE ANULAÇÃO DAS QUESTÕES 33, 35, 36, 37 e 40. IMPOSSIBILIDADE. ERRO QUE NÃO COMPROMETEU A COMPREENSÃO DAS QUESTÕES. PRECEDENTE DO TJ/BA E DO STJ. SEGURANÇADENEGADA.
+1. Rejeitada a preliminar de ilegitimidade passiva do Prefeito, uma vez que por ser chefe do executivo, por força da Lei Orgânica do Município, tem atribuição para prover cargos públicos.
+2. Rejeitada também a preliminar de litisconsórcio passivo necessário, uma vez que torna-se desnecessária a participação do demais candidatos do certame.
+3. O erro apontado nas questões, não foram suficientes para comprometer a compreensão do candidato.
+4. Precedente deste Tribunal de Justiça e do STJ. Preliminares Rejeitadas. Segurança Denegada. (fl. 586).
+Segundo se extrai da petição vestibular, fls. 4/15, o Autor buscou a concessão da ordem para, mediante anulação das questões 35 e 36 do concurso para Guarda Municipal, receber a pontuação correspondente e, caso reclassificado entre os 640 primeiros colocados, prosseguir no certame. Para esse fim, argumentou que "o enunciado apresentou um erro material em relação ao ano em que foi editado o referido diploma normativo, o que ocorreu em 1991, não em 1999, como indicado" (fl. 9), o que teria comprometido a compreensão do comando da questão, prejudicando seu desempenho.
+Nas razões recursais, fls. 620/621, basicamente as mesmas alegações são reprisadas, com o acréscimo de que o Tribunal estadual não teria considerado que as bancas de concurso se socorrem de artifícios para induzir os candidatos a erro, pelo que "passam a treinar exatamente a forma de ultrapassar este tipo de artifício, gerando uma completa confusão quando se comete um erro material em diversas questões, levando o candidato a crer que a banca poderia estar tratando de outra legislação" (fl. 626).
+Recurso sem contrarrazões.
+O Ministério Público Federal, pelo Subprocurador-Geral da República Edson Oliveira de Almeida, manifestou-se pelo não provimento do recurso ordinário, firme em que "descabe ao Judiciário revisar o conteúdo das questões, avaliar parâmetros científicos utilizados na formulação de itens ou reexaminar critérios de correção de provas, se não sobejar demonstrada flagrante ilegalidade. Na verdade, só se admite o juízo da compatibilidade dos critérios adotados pela banca examinadora com a previsão do edital" (fl. 652) e que "nesse sentido, posicionou-se a Ministra Regina Helena Costa, em caso similar (RMS 66.184/BA), via decisão monocrática (DJe de 23.04.2021), que versava sobre a nulidade das questões 34, 35 e 37 (mesmo concurso e mesmo cargo) " (fl. 653).
+Recurso tempestivo, bem como regular representação (fl. 16).
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O êxito do recurso ordinário interposto contra acórdão que denega a segurança vai condicionado à demonstração, pelos recorrentes, da existência de erro - de procedimento ou na aplicação do direito - verificado durante a prolação do aresto impugnado.
+Na presente hipótese, requer-se a reforma do anterior julgado por alegado erro na aplicação do direito, mormente ao argumento de que, ao contrário do afirmado pela Corte Estadual, o erro material quanto ao ano de edição da norma local teria comprometido o desempenho do candidato.
+O argumento, todavia, não merece acolhimento.
+Em primeiro lugar porque, consoante pacífica jurisprudência desta Corte Superior, não cabe ao Poder Judiciário, em controle de legalidade, ir além do mero exame de compatibilidade do conteúdo das questões com a previsão editalícia. Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÕES. PREVISÃO NO EDITAL. IMPOSSIBILIDADE DE O PODER JUDICIÁRIO ANALISAR CRITÉRIO DE CORREÇÃO DE PROVA.
+ ..
+2. O aresto vergastado deve ser mantido, porque decidiu de acordo com a jurisprudência pacífica do Supremo Tribunal Federal e do Superior Tribunal de Justiça, segundo a qual não cabe ao Poder Judiciário, no controle de legalidade, substituir banca examinadora para avaliar respostas dadas pelos candidatos e notas a elas atribuídas, salvo excepcional juízo de compatibilidade do conteúdo das questões com o previsto no edital do certame, o que não ocorre no caso dos autos.
+3. Agravo Interno não provido.
+(AgInt no RMS n. 65.181/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1/7/2021.)
+DIREITO ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PROVA OBJETIVA. ANULAÇÃO DE QUESTÕES.
+CONTEÚDO PROGRAMÁTICO. COMPATIBILIDADE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no RMS n. 60.893/SC, relator para acórdão Ministro Benedito Gonçalves, Primeira Turma, DJe de 20/11/2019.)
+Em segundo lugar, a aferição do argumento de que o registro equivocado do ano de publicação da norma, inserido no comando da questão, seria, só por si, suficiente para induzir candidatos a erro demandaria, no mínimo, dilação probatória, sabidamente incompatível com a via eleita.
+Em terceiro lugar, tal como apontou o Parquet federal em seu parecer, esta Corte, por sua Primeira Turma, já se debruçou sobre esta mesma alegação e a rejeitou, como se pode aferir da ementa seguinte:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CONCURSO PÚBLICO. ANULAÇÃO DE QUESTÃO. ERRO MATERIAL QUE NÃO COMPROMETE A COMPREENSÃO DA QUESTÃO. COMPATIBILIDADE DO CONTEÚDO DAS QUESTÕES COM O PREVISTO NO EDITAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O Supremo Tribunal Federal firmou, em julgamento submetido à sistemática da repercussão geral, tese segundo a qual os critérios adotados pela banca examinadora não podem ser revistos pelo Poder Judiciário, ressalvando-se o juízo de sua compatibilidade com a previsão do edital.
+III - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no RMS n. 66.184/BA, relatora MinistraRegina Helena Costa, Primeira Turma, DJe de 18/08/2021.)
+Não há, portanto, nenhuma razão juridicamente forte para dar ao presente caso desfecho diverso.
+Dessarte, considerando, isolada ou conjuntamente, todas estas razões, não vislumbro, no aresto contestado, nenhum erro de aplicação do direito, a justificar a sua reforma.
+ANTE O EXPOSTO, em harmonia com o parecer ministerial e com fundamento no art. 34, XVII, "b" do RISTJ, nego provimento ao presente recurso ordinário, mantendo íntegro, e pela sua própria fundamentação, o acórdão recorrido.
+Publique-se.
