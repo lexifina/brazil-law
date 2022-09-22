@@ -1,0 +1,117 @@
+Trata-se de pedido de extensão formulado por Paulo Bernardo Silva, no qual requer a extensão dos efeitos da decisão que declarou a imprestabilidade, quanto ao reclamante, dos elementos de prova obtidos a partir dos sistemas Drousys e My Web Day B, utilizados no acordo de Acordo de Leniência celebrado pela Odebrecht. Pleiteia que a sua eficácia se estenda à Ação Penal 5039571-46.2021.4.04.7100, na qual o peticionante foi denunciado pela suposta prática dos delitos previstos nos arts. 317, § 1º, e art. 327, § 2º, ambos do Código Penal, em trâmite na 22ª Vara Federal Criminal de Porto Alegre/RS.
+
+    O requerente afirma, inicialmente, que
+
+    “A Ação Penal 5039571-46.2021.4.04.7100, na qual o Peticionário integra o polo passivo, se baseia exclusivamente na declaração de colaboradores e de provas produzidas a partir da manipulação dos sistemas Drousys e My Web Day B.
+
+    Em 08.07.2022, o MM. Juízo da 22ª Vara Federal de Porto Alegre recebeu denúncia apresentada contra o Peticionário. Nessa oportunidade, o magistrado deixou de aplicar a decisão exarada nos presentes autos, alegando que ‘a decisão proferida pelo Exmo. Ministro Ricardo Lewandowski na Reclamação 43.007/DF teve por escopo declarar a imprestabilidade dos elementos de prova obtidos a partir do acordo de leniência 5020175-34.2017.404.7000 tão somente em relação ao ex-presidente Luís Inácio Lula da Silva’ (Doc. 02). Com isso, o Juízo da 22ª Vara Federal de Porto Alegre afronta a autoridade das decisões do Supremo Tribunal Federal proferidas nos presentes autos, até porque referidos arestos se deram também em relação a WALTER FARIA, que sequer fora denunciado junto com LUÍS INÁCIO LULA DA SILVA.
+
+    [...]
+
+    Há anos atentava-se para a possibilidade de violação à cadeia de custódia do referido ‘material’, justamente porque as declarações dos próprios colaboradores premiados do ‘pacote ODEBRECHT’ atraíam atenção para o tema. O que a defesa não poderia imaginar, tamanha a ilegalidade, é que esses sistemas foram carregados ‘em sacolas de supermercado’, a partir de tratativas internacionais que se deram ‘à margem da legislação vigente’ (!!). E que ainda, em ironia kafkaniana, os ilustres procuradores zombariam da Justiça ao afirmarem, sobre essa forma (inusitada) de transporte: ‘tá aí a cadeia de custódia’.
+
+    Logo, a presente serve para demonstrar que tal declaração de imprestabilidade por decisão proferida pelo Eminente Ministro RICARDO LEWANDOWSKI deve ser estendida à Ação Penal nº 5039571- 46.2021.4.04.7100, em trâmite perante a 22ª Vara da Subseção Judiciária de Porto Alegre, na medida em que tratam de circunstâncias objetivas da acusação: esses sistemas que foram obtidos clandestinamente à margem da legislação vigente e carregados em sacolas de supermercado são os mesmos sistemas ‘Drousys’ e ‘My Web Day B’ que serviram de base para a elaboração dos laudos e perícias que sustentam a Ação Penal em comento.
+
+    Sistemas estes que, em sua origem, estão invariavelmente maculados pelos vícios identificados no bojo desta Reclamação, comprometendo, assim, integralmente a higidez e autenticidade dos registros fornecidos pela empreiteira naquele feito.” (doc. eletrônico 1.092, fls. 2-6, grifos no original)
+
+    Na sequência, aduz que,
+
+    “Especificamente em relação a PAULO BERNARDO SILVA, a Denúncia baseia-se unicamente nas palavras de colaboradores e nos sistemas da ODEBRECHT declarados imprestáveis nesses autos, os quais foram utilizados como únicos elementos de corroboração das narrativas:
+
+    [...]
+
+    A partir do acesso aos sistemas da ODEBRECHT, foram produzidos o Laudo Pericial Criminal 335/201812, o Laudo Técnico n. 1928/202013, ambos pela Polícia Federal do Paraná, bem como o Parecer Técnico 003/201814, elaborado pela Procuradoria Geral da República, todos estes mencionados na denúncia como supostamente garantidores da autenticidade/integridade dos dados lá contidos. Conforme exposto pela denúncia, o Laudo 335/2018 foi elaborado para supostamente garantir autenticidade ao material extraído dos sistemas Drousys e My Web Day B. Sua análise teria atestado ‘o procedimento pericial tomado desde a recepção dos sistemas eletrônicos em 28/03/2017 à PGR’ e garantiria ‘a preservação da cadeia de custódia’, além da ‘autenticidade e a integridade dos dados’.
+
+    Ao contrário do que possa parecer, contudo, tal documento sequer foi elaborado no bojo da Ação Penal instaurada contra o Peticionário. A sua produção, pasme, se deu no interesse da Ação Penal n. 5063130-17.2016.4.04.7000 (justamente conhecida como ‘Sede do Instituto Lula’), ‘a fim de atender à solicitação do Exmo. Sr. Juiz Federal Sérgio Fernando Moro’
+
+    [...]
+
+    Por sua vez, em relação ao Parecer Técnico 3/2018, produzido pela Procuradoria Geral da República, trata-se de conteúdo que, nos termos da exordial acusatória, ‘atestou que as evidências relacionadas aos sistemas Drousys e MyWebDay apresentadas pelo Ministério Público Federal e examinadas pelos peritos da PF são autênticas e íntegras’. Sua elaboração se deu com base no mesmo Laudo 335/2018, também fazendo referência ao caso ‘Sede do Instituto Lula’:
+
+    [...]
+
+    Isso significa que o Laudo 335/2018, utilizado como base para fins de elaboração do Parecer Técnico 3/2018 e Laudo Técnico n. 1928/2020, é elemento de prova eivado de nulidade, não podendo ser utilizado para subsidiar qualquer acusação que seja. A nulidade dos atos presididos pelo ex-juiz, inclusive os atos pré-processuais (como a própria determinação de produção do Laudo 335/2018) tem natureza absoluta, contagiando todos os atos subsequentes. Dessa forma, todos os laudos periciais e análises técnicas que derivam ou se apoiam nas conclusões do Laudo 335/2018 padecem de nulidade por derivação, tampouco devendo ser aceitos como prova.
+
+    [...]
+
+    PAULO BERNARDO SILVA está submetido à condição de réu em Ação Penal que se apoia exclusivamente na palavra de colaboradores premiados e em elementos obtidos através extraídos dos sistemas Drousys e My Web Day B, obtidos através do Acordo de Leniência nº 5020175- 34.2017.404.7000. Como é sabido, as palavras de colaboradores premiados não são suficientes para justificar a abertura de ação penal (art. 4º, §16 da Lei 12.850/2013). Dessa forma, com o reconhecimento da imprestabilidade dos sistemas Drousys e My Web Day B, salta aos olhos o constrangimento ilegal sofrido pelo Peticionário, submetido a Ação Penal manifestamente carente de justa causa.” (doc. eletrônico 1.092, fls. 8-12, grifos no original)
+
+    Ao final, o requerente formula os seguintes pedidos:
+
+    “Dado o conjunto fático-processual delineado na presente petição, percebe-se que é plenamente viável a extensão dos efeitos da decisão que declarou imprestáveis os elementos de prova derivados dos sistemas Drousys e My Web Day B, tomada na presente Reclamação, ao Peticionário. Isso porque PAULO BERNARDO SILVA, à semelhança de Luiz Inácio Lula da Silva e Walter Faria, foi alvo das mesmas provas ilícitas, colhidas de forma inacreditavelmente ilegal, com frontal desrespeito à higidez probatória.
+
+    Tais ilegalidades inclusive ensejaram o trancamento de ação penal na qual ambos figuravam como corréus. Tais semelhanças bastariam, na visão desta Defesa, para ensejar a extensão dos efeitos da decisão proferida nestes autos para declarar imprestáveis os elementos de provas obtidos a partir dos sistemas Drousys e My Web Day B.
+
+    No entanto, caso Vossa Excelência adote entendimento diverso, no sentido da impossibilidade da extensão dos efeitos da supramencionada decisão, afigura-se indispensável a concessão de ofício de ordem de Habeas Corpus ao Peticionário, que nitidamente encontra-se submetido a coação ilegal resultante do uso indiscriminado de provas já consideradas imprestáveis nestes autos20. Dessa forma, requer-se, subsidiariamente, a concessão de ofício de ordem de Habeas Corpus, nos termos do art. 654, § 2º, do CPP e art. 193, II do RISTF, para trancar a Ação Penal nº 5039571- 46.2021.4.04.7100, em trâmite perante a 22ª Vara Federal Criminal da Subseção Judiciária de Porto Alegre/RS, diante da manifesta utilização, como base da acusação, de elementos de prova imprestáveis, obtidos a partir dos sistemas Drousys e My Web Day B.” (doc. eletrônico 1.092, fls. 19-20)
+
+    É o relatório. Decido.
+
+    Bem examinados os pleitos formulados, relembro que, em decisão de minha lavra em favor de Walter Carvalho Marzola Faria, determinei, em juízo cautelar, a suspensão das Ações Penais (i) 5005363-41.2020.4.04.7000 (Petrópolis x Odebrecht), em trâmite perante a 6ª Vara Federal de São Paulo/SP, e (ii) 5046672- 17.2019.4.04.7000 (Navios-sonda), em tramitação na 13ª Vara Federal de Curitiba/PR, a qual transitou em julgado sem que houvesse interposição de qualquer recurso (certidão eletrônica 977).
+
+    Quanto ao comando definitivo, anoto a perda superveniente de seu objeto, inclusive, com a aquiescência da Procuradoria-Geral da República, face ao trancamento das referidas ações penais por decisão do Ministro Gilmar Mendes nos autos da Pet. 8.193/DF (doc. eletrônico 1.085).
+
+    Em relação ao pedido sob análise, reproduzo abaixo, para fins de confronto, trechos da decisão proferida nos autos desta reclamação, na qual declarei a imprestabilidade, quanto ao reclamante, dos elementos de prova obtidos a partir do Acordo de Leniência 5020175-34.2017.4.04.7000, celebrado pela Odebrecht, bem como de todos os demais que dele decorrem, relativamente à Ação Penal 5063130-17.2016.4.04.7000, verbis:
+
+    “Com a juntada do material aos presentes autos, documentado em 13 relatórios técnicos elaborados por perito indicado pela defesa, foi possível constatar que, efetivamente, ocorreram inúmeras tratativas com autoridades, entidades e pessoas estrangeiras a respeito da documentação pleiteada pela defesa, tudo indicando que passaram ao largo dos canais formais, quer dizer, que teriam acontecido à margem da legislação pertinente à matéria.
+
+    Verificou-se, ademais, que a própria cadeia de custódia e a higidez técnica dos elementos probatórios obtidos pela acusação por meio dessas tratativas internacionais encontrava-se inapelavelmente comprometida, conforme é possível deduzir de exaustiva documentação encartada nos autos desta reclamação. A título de exemplo, transcrevo abaixo trecho de uma das mensagens, de 15/2/2018, obtidas ao longo da Operação Spoofing, no qual consta que parte do material destinado à perícia - cujo acesso vem sendo reivindicado pela defesa - teria sido transportado em sacolas de supermercado, sem qualquer cuidado quanto à sua adequada preservação. Confira-se:
+
+    [...]
+
+    Salta à vista que, quando o Supremo Tribunal Federal declarou a incompetência do ex-juiz Sérgio Moro para o julgamento de Luiz Inácio Lula da Silva, reconheceu também, implicitamente, a incompetência dos integrantes da força-tarefa Lava Jato responsáveis pelas investigações e, ao final, pela apresentação da denúncia. De qualquer modo, rememoro que a própria Corregedora-Geral do MPF decidiu instaurar sindicância para apurar a regularidade e a legitimidade da produção e utilização dos elementos probatórios discutidos nesta reclamação, o que retira deles qualquer credibilidade para embasar a acusação manejada contra o reclamante.
+
+    Vale ressaltar, por oportuno, a lição de Paulo Sérgio Leite Fernandes quanto às consequências jurídicas dos vícios insanáveis acima tratados: ‘As nulidades absolutas não se curam. Matam o ato processual, contagiando todos os atos subsequentes’ (Nulidades no Processo Penal. 3 ed. São Paulo: Revista dos Tribunais, 1987, p. 27-28, grifos meus).” (doc. eletrônico 987, grifos no original)
+
+    No que toca à nulidade das investigações conduzidas pela extinta força-tarefa, recordo que a Segunda Turma do STF, em julgamento datado de 18/2/2022, ratificou a supracitada decisão. Confira-se a ementa de tal julgado:
+
+    “RECLAMAÇÃO CONSTITUCIONAL. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. POSSIBILIDADE. PRECEDENTES DO SUPREMO TRIBUNAL FEDERAL. ACESSO A ELEMENTOS DE PROVA, JÁ COLIGIDOS, DENEGADO AO RECLAMANTE. OFENSA DIRETA AO POSTULADO CONSTITUCIONAL DA AMPLA DEFESA. INOBSERVÂNCIA, DE RESTO, DA SÚMULA VINCULANTE 14. IMPRESTABILIDADE DO ACORDO DE LENIÊNCIA COMO MEIO DE PROVA CONTRA O RECLAMANTE, DIANTE DOS VÍCIOS INSANÁVEIS QUE CONTAMINAM ELEMENTOS DE CONVICÇÃO DELE RESULTANTES. EXISTÊNCIA, ADEMAIS, DE DECISÕES DA SUPREMA CORTE QUE ANULARAM ATOS DECISÓRIOS PROLATADOS PELA 13ª VARA FEDERAL DE CURITIBA. EVIDENCIADA A ILEGALIDADE MANIFESTA, IMPÕE-SE A CONCESSÃO DO WRIT. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+
+    I - A concessão da ordem de habeas corpus de ofício encontra abrigo em reiterados precedentes do Supremo Tribunal Federal que autorizam – e até exigem – a implementação dessa medida quando constatado ato flagrantemente ilegal ou abusivo, inclusive no bojo de ações reclamatórias.
+
+    II - Improcede a alegação de alargamento indevido dos limites objetivos e subjetivos da presente ação, porquanto há mais de 4 anos o reclamante busca, sem sucesso, acesso à íntegra do material que serviu de base às acusações que lhe foram irrogadas, especialmente no tocante ao Acordo de Leniência da Odebrecht, bem como aos documentos a ele relacionados, o que é - e sempre foi - objeto desta reclamação.
+
+    III- Na hipótese, mostra-se evidente, ademais, a imprestabilidade da prova aqui contestada, quando mais não seja diante do decidido no HC 193.726-ED/PR e HC 164.493-AgR/PR, ambos de relatoria do Ministro Edson Fachin, redator para acórdão o Ministro Gilmar Mendes, nos quais foram anulados os atos decisórios proferidos em ações penais ajuizadas contra o reclamante, dentre elas a discutida nos autos desta reclamação.
+
+    IV- A decisão recorrida minudenciou, em ordem cronológica e de forma pormenorizada, todos os elementos de convicção que levavam à conclusão da imprestabilidade do uso do Acordo de Leniência celebrado pela Odebrecht, bem assim de seus anexos, como prova de acusação contra o reclamante.
+
+    V- Salta à vista a absoluta plausibilidade do direito invocado, apto a levar à declaração de inviabilidade do uso de tais provas, contaminadas, dentre outros vícios, pela quebra da cadeia de custódia das perícias e por sua manipulação indevida.
+
+    VI - Presente o risco iminente da instauração de nova persecução penal ou mesmo da imposição de medidas cautelares contra o reclamante, utilizando-se, como fundamento, o Acordo de Leniência da Odebrecht e elementos de prova oriundos de tal pacto de cooperação, os quais, reitere-se, sempre foram contestadas nesta ação reclamatória.
+
+    VII – Continuam inabalados os pressupostos que autorizaram a tutela judicial implementada, nos termos do art. 654, § 2º, do CPP, para declarar a imprestabilidade, quanto ao reclamante, dos elementos de convicção obtidos a partir das referidas provas, no que toca à Ação Penal 5063130-17.2016.4.04.7000 (caso ‘Sede do Instituto Lula’), até então, em trâmite na Justiça Federal do Paraná.
+
+    VIII- Agravo regimental ao qual se nega provimento.”
+
+    Este julgado também transitou em julgado, como certificado pelo doc. Eletrônico 1.025.
+
+    Pois bem. No caso sob exame, Paulo Bernardo Silva requer seja estendida a ele a declaração de imprestabilidade dos elementos de prova utilizados na Ação Penal 5039571-46.2021.4.04.7100, em trâmite na 22ª Vara Federal Criminal de Porto Alegre/RS, obtidos a partir dos sistemas Drousys e My Web Day B, que, como afirmado alhures, integram o Acordo de Leniência celebrado pela Odebrecht.
+
+    Como tenho afirmado em diversas oportunidades nestes autos, para tornar possível o deferimento de qualquer pedido de extensão na reclamação constitucional perante o STF, “os atos questionados [...] nos casos em que se sustenta desrespeito à autoridade de decisão do Supremo Tribunal Federal hão de se ajustar, com exatidão e pertinência, aos julgamentos desta Suprema Corte invocados como paradigmas de confronto, em ordem a permitir, pela análise comparativa, a verificação da conformidade, ou não, da deliberação estatal impugnada em relação ao parâmetro de controle emanado deste Tribunal” (Rcl 6.534/MA-AgR, de relatoria do Ministro Celso de Mello).
+
+    Da mesma forma, como também já assentei em pedidos similares ao presente, o deferimento da supracitada extensão decorre substancialmente do disposto no art. 580 do Código de Processo Penal, litteris:
+
+    “Art. 580. No caso de concurso de agentes, a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros.” (grifei)
+
+    No caso, a existência de elementos de convicção aptos a indicar a imprestabilidade da prova aqui debatida foi atestada no julgado da Segunda Turma do STF acima referido – transitado em julgado, repita-se -, em razão da já comprovada contaminação probatória do material arrecadado pelo Juízo Federal de Curitiba, no qual tais feitos até então tramitavam, seja por incompetência, seja por suspeição, seja, ainda, por sua manipulação inadequada.
+
+    Passando ao pleito aqui formulado, vejo que o peticionante foi denunciado nos autos da supracitada ação penal pela suposta prática dos delitos previstos nos arts. 317, § 1º, e art. 327, § 2º, ambos do Código Penal, em peça subscrita pela Procuradora da República Jerusa Burmann Viecili (doc. eletrônico 1.094), integrante, à época, da extinta força-tarefa de Curitiba. A ela é atribuída, dentre outras, a afirmação já destacada por mim nestes autos de que os membros da força-tarefa teriam levado “o [sistema] Drousys numa sacola de supermercado mesmo para Brasília” (doc. eletrônico 264, fl. 46).
+
+    Observa-se, ao menos em juízo preliminar, que a peça acusatória da Ação Penal 5039571-46.2021.4.04.7100 também possui lastro nas colaborações premiadas celebradas por ex-executivos da Odebrecht e nas planilhas e dados extraídos diretamente dos sistemas Drousys e MyWebDay B, os quais eram utilizados pelo chamado “Setor de Operações Estruturadas”, em tese, responsável pelos pagamentos de propinas da empreiteira. No total, a exordial contém 37 referências aos mencionados sistemas ao longo das suas 51 páginas (doc. eletrônico 1.094). O mesmo se vê na decisão que admitiu o processamento da denúncia, ao consagrar, como elementos cruciais de convicção, os sistemas da Odebrecht obtidos através do Acordo de Leniência 5020175-34.2017.4.04.7000 (doc. eletrônico 1095).
+
+    Vale ressaltar, por oportuno, a lição de Paulo Sérgio Leite Fernandes quanto às consequências jurídicas dos vícios insanáveis acima tratados: “As nulidades absolutas não se curam. Matam o ato processual, contagiando todos os atos subsequentes” (Nulidades no Processo Penal. 3 ed. São Paulo: Revista dos Tribunais, 1987, p. 27-28).
+
+    Cuida-se, como tenho destacado em outras ocasiões, do fenômeno da “contaminação” ou da “contagiosidade”, bastante conhecido no âmbito da técnica processual, o qual significa, segundo Paulo Rangel, “a possibilidade de o defeito na prática do ato estender-se aos atos que lhe são subsequentes, e que dele dependam”, conforme dispõe o art. 573, §1º, do CPP (Direito Processual Penal. 24. ed. São Paulo: Atlas, 2016, p. 952).
+
+    Nessa linha de raciocínio, observo, então, que estão presentes não apenas a plausibilidade do direito invocado pelo requerente, como também o perigo de dano ao seu status libertatis, hipóteses que autorizam a tutela de urgência requerida na inicial, inclusive no bojo de ações reclamatórias, segundo autorizam reiterados precedentes desta Suprema Corte.
+
+    Em face do exposto, determino, cautelarmente, a suspensão da Ação Penal 5039571-46.2021.4.04.7100, em trâmite na 22ª Vara Federal Criminal de Porto Alegre/RS, com relação ao réu Paulo Bernardo Silva, até ulterior deliberação sobre o pleito por este formulado.
+
+    Solicitem-se informações aos juízos reclamados, voltando a seguir os autos conclusos.
+
+    Publique-se.
+
+    Brasília, 22 de setembro de 2022.
+
+Ministro Ricardo Lewandowski
+
+Relator
