@@ -1,0 +1,1 @@
+Art. 20-A. Os serviços nacionais sociais terão autonomia para criar unidades de ensino para a oferta de educação profissional técnica de nível médio e educação de jovens e adultos integrada à educação profissional, desde que em articulação direta com os serviços nacionais de aprendizagem, observada a competência de supervisão e avaliação dos Estados.
