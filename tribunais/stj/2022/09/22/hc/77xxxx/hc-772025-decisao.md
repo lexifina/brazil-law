@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Samir Abdo, autuado em flagrante delito em 29/6/2022, pela prática, em tese, do crime de receptação simples (veículo Fiat Uno, ano 1993 - fl. 146).
+Ataca-se acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n. 2193818-14.2022.8.26.0000 (fls. 239/250), que manteve a prisão preventiva do paciente decretada nos Autos n. 1501502-26.2022.8.26.0616, da 1ª Vara Criminal da comarca de Mogi das Cruzes/SP.
+Alega-se constrangimento ilegal consistente em deficiência de fundamentação do decreto preventivo e requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que o paciente seja posto em liberdade.
+É o relatório.
+No caso, quanto ao fundamento utilizado para o decreto de prisão, tem-se que, a despeito de apontar prova da existência do delito e indício suficiente de autoria (fl. 128) e a contemporaneidade da necessidade da medida - pois se trata de acautelamento provisório decretado a partir de prisão em flagrante delito -, o decreto preventivo (fl. 128) não evidenciou o receio de perigo gerado pelo estado de liberdade do imputado à ordem pública, à conveniência da instrução criminal ou futura aplicação da lei penal - somente assentando que o contexto fático apresentado evidencia a vinculação do réu ao mundo do crime, o que, como é cediço, causa preocupação geral, na medida em que consubstancia a ante-sala de crimes mais graves. Há que se considerar a vida pregressa do réu (fl. 128) -, carecendo, assim, de fundamento apto a consubstanciar a prisão.
+Isso porque, apesar da existência de antecedentes criminais (fl. 248), tal histórico criminal, embora reprovável, não possui o condão, por si só, de justificar a custódia, tendo em vista que a conduta imputada - receptação de bicicleta, que foi restituída à vítima - não apresenta gravidade que extrapole o tipo penal abstratamente previsto (RHC n. 137.873/DF, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/12/2020, DJe 14/12/2020).
+Em razão disso, concedo liminarmente a ordem impetrada para revogar a prisão preventiva imposta ao paciente nos Autos n. 1501502-26.2022.8.26.0616, da 1ª Vara Criminal da comarca de Mogi das Cruzes/SP, facultando-se ao Magistrado singular determinar o cumprimento de medidas cautelares alternativas à prisão, fundamentadamente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. RECEPTAÇÃO SIMPLES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO. RISCO DE ESTADO DE LIBERDADE DO PACIENTE PARA A ORDEM PÚBLICA. REINCIDÊNCIA. MEDIDA DESPROPORCIONAL. PREVENTIVA REVOGADA.
+Ordem liminarmente concedida nos termos do dispositivo.
