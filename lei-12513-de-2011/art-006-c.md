@@ -1,0 +1,4 @@
+Art. 6º-C. A denúncia do termo de adesão de que trata o inciso I do § 1º do art. 6º-A não implicará ônus para o poder público nem prejuízo para o estudante beneficiário da Bolsa-Formação Estudante, que gozará do benefício concedido até a conclusão do curso.
+Parágrafo único. O descumprimento das obrigações assumidas no termo de adesão ao Pronatec sujeita as instituições privadas de ensino superior e de educação profissional técnica de nível médio às seguintes penalidades:
+I - impossibilidade de nova adesão por até 3 (três) anos e, no caso de reincidência, impossibilidade permanente de adesão, sem prejuízo para os estudantes já beneficiados; e
+II - ressarcimento à União do valor corrigido das Bolsas-Formação Estudante concedidas indevidamente, retroativamente à data da infração, sem prejuízo do previsto no inciso I.
