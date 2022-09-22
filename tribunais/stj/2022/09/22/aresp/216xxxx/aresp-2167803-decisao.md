@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por ALANA ALVES MORAES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+APELAÇÃO CÍVEL - AÇÃO DE BUSCA E APREENSÃO. PROCEDÊNCIA. INSURGÊNCIA DEFENSIVA. REQUISITOS. SATISFAÇÃO. CONSOLIDAÇÃO DO BEM EM MÃOS DO AUTOR. DECRETO-LEI 911/69. SENTENÇA MANTIDA. DESPROVIMENTO.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 10 do CPC, no que concerne à necessidade de realização da prova pericial contábil, imprescindível para o deslinde da lide, trazendo o(s) seguinte(s) argumento(s):
+Como se depreende acima, o Douto Julgado a quo entende que as provas que foram trazidas a baila nos presentes autos foram suficientes para o deslinde da lide, cessando todas as dúvidas existentes.
+Ocorre, Exa., que a demanda não estava madura o suficiente para tanto, uma vez que não houve a realização de prova imprescindível a apreciação do objeto do presente litígio - prova pericial contábil - sob o fundamento de sua desnecessidade.
+Tal irregularidade deixou prejudicado o direito da Ré, uma vez que em sede de Sentença o MM. Juiz de 1º grau decidiu:
+ ..
+Deste modo, não havendo, a devida prestação de contas, fica a Ré prejudicada, sem tomar consciência do real valor ao qual o foi vendido o veículo, portanto sem ter como saber se de fato ainda resta débito a ser quitado, ou se lhe é devido algum saldo remanescente da venda do bem.
+Ademais o MM. Julgado de 2º grau entendeu que diante da revelia da recorrente, não haveria a necessidade de produção de outras provas, bem como tornou-se completamente cabível o julgamento antecipado da lide.
+No entanto, cabe ressaltar que, de fato foi revel, mas não de forma absoluta, conforme consta na petição de ID. 8609830, onde apresentou sua manifestação.
+Ainda é válido frisar que, o fato da recorrente ser revel não implica na verdade absoluta. Consoante a este pensamento, o Tribunal de Justiça de São Paulo decidiu:
+ ..
+Diante do exposto, restou-se mitigado o Princípio do Contraditório Substancial previsto no Art. 10, do CPC/15, quando em Sentença negou o direito de prova, ficando caracterizado o Error in Procedendo.
+ ..
+No caso em tela, o direito da parte de Ré foi prejudicado, primeiramente devido a conduta equivocada do Sr. Oficial de Justiça, ao deixar de arbitrar o valor do veículo, e também restou prejudicado ao MM. Julgador a quo entender que a lide já estaria suficientemente madura, sem haver a necessidade de produzir outras provas, mesmo a recorrente demonstrando interesse em requerer outras documentações.
+Nesse sentido, requer-se a anulação das decisões de 1º e 2º grau, e o consequente retorno dos autos para o Juízo a quo, de modo que possa ser garantida a realização da prova pericial contábil, que é imprescindível para o deslinde da lide (fls. 157/158).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Registre-se inicialmente que a alegação de error in procedendo , em face do julgamento antecipado da lide não prospera.
+Isso porque, diante da revelia que lhe fora decretada (ID 8609827) e a desnecessidade de produção de outras provas, o julgamento antecipado da lide, nos moldes do art. 355, I e II , do CPC era mesmo de rigor.
+Feito o necessário registro, saliente-se que, em Ação de Busca e Apreensão, proposta em decorrência de inadimplência de contrato de alienação fiduciária, é mister que estejam comprovados nos autos a avença, por meio do competente contrato, a inadimplência, bem como a notificação da constituição da mora do devedor, com a entrega da notificação no endereço do réu, vindo aos autos a comprovação do ato.
+Conforme se verifica dos autos, consta dos documentos (ID 8609651), o contrato existente entre as partes, a planilha dos valores devidos (extrato de financiamento - ID 8609652), bem como a certificação da notificação da requerida (ID 8609653), pelo que o ato atingiu os efeitos legais exigidos pelas disposições do Decreto-Lei 911/69, autorizada, restando, portanto, a procedência da ação, nos termos da sentença, observada a inércia da ré, que não se valeu de qualquer das hipóteses previstas no artigo 3º do aludido Decreto-Lei (fl. 139, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
