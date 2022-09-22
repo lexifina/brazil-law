@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Edson Cassimiro de Brito contra a decisão monocrática, de minha lavra, assim ementada (fl. 144):
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE LIVRAMENTO CONDICIONAL. SUPERVENIENTE REGRESSÃO DO APENADO AO REGIME FECHADO. PRÁTICA DE FALTA GRAVE. ALTERAÇÃO DA SITUAÇÃO FÁTICO-PROCESSUAL. PREJUDICIALIDADE. ALEGAÇÃO DE FATO NOVO. TEMA NÃO APRECIADO PELO TRIBUNAL DE ORIGEM.SUPRESSÃO DE INSTÂNCIA.
+Writ prejudicado.
+Nas razões, a defesa do agravante insiste que o fato novo noticiado nos autos (falta grave -anteriormente, declarada prescrita e restabelecida pelo Tribunal local -que deu ensejo àregressão ao regime) não constitui óbice à apreciação da impetração.
+Argumenta quenão  há  que se falar em fato novo ou indevida supressão de instância, sob esse aspecto a defesa prepara cautelosamente pedido de habeas corpus contra a decisão proferida no agravo em execução nº 001486-84.2021.8.26.0996, em razão do evidente constrangimento ilegal.
+Sustenta queo reeducando não ostenta registro de falta grave, consistente em apreensão de aparelho celular e acessórias (fls. 915/927 dos autos origem, fl. 102, pois tal decisão está sub judice, conforme acórdão nº 0012428-90.2020.8.26.0041, que inclusive a defesa recebeu intimação, dizendo que tal feito está sendo remetido para o STJ por força de recurso(fl. 166).
+Conclui defendendo que há equívoco na decisão monocrática ora recorrida e requer seja o agravo submetido à apreciação da Sexta Turma, a fim de que seja provido.
+É relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT QUE ALMEJA CONCESSÃO DE LIVRAMENTO CONDICIONAL OU PROGRESSÃO DE REGIME. SUPERVENIENTE REGRESSÃO DO APENADO AO REGIME FECHADO. PRÁTICA DE FALTA GRAVE. ALTERAÇÃO DA SITUAÇÃO FÁTICO-PROCESSUAL. PREJUDICIALIDADE. ALEGAÇÃO DE FATO NOVO. TEMA NÃO APRECIADO PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DECISÃO AGRAVADA MANTIDA.
+Agravo regimental improvido.
+VOTO
+Cumpre rememorar que, na inicial dohabeas corpus, a defesa do agravante trouxe a tese de queo pedido de livramento condicional é de todo procedente, motivo pelo qual deve ser acolhido. Enfatize-se que não há necessidade de primeiro vivenciar um tempo no regime intermediário, uma vez que a jurisprudência do Superior Tribunal de Justiça há muito e, de forma torrencial, consolidou o entendimento no sentido de que não há obrigatoriedade de o paciente passar por regime semiaberto para que obtenha o benefício do livramento condicional, à vista da inexistência de previsão legal no artigo 83 do Código Penal (fl. 10).
+Também enfatizou queo paciente já cumpriu, ou seja, descontou parcela bem superior ao tempo legalmente exigido, tem bom comportamento carcerário devidamente atestado e laudo criminológico que concluiu que o paciente deve ser inserido no seio da família, o que permite tal benesse. Enfatize-se, exame criminológico, este último, assim concluiu, pela inserção do sentenciado no seio da família (fl. 13).
+Pugnou pela concessão do livramento condicional ou progressão ao regime aberto. O pedido urgente foi indeferido pela Presidência desta Casa. Prestadas informações e emitido parecer pelo Ministério Público Federal,sobreveio petição da defesa pugnando pela reconsideração do pleito liminar às 147/156.
+Em decisão monocrática, datada de 23/8/2022, julguei prejudicado owrit, conforme estes fundamentos (fls. 15/159):
+ ..
+O Juízo de primeiro grau, nos Autos n. 0020693-52.2018.8.26.0041, diante do reconhecimento da prática de falta grave (não retorno após a saída temporária), determinou, em 8/6/2022, a regressão do paciente ao regime fechado.
+Ressalte-se que a alegação da defesa, no pedido de reconsideração às fls.147/149, relativamente à ocorrência de bis in idem no reconhecimento da sobredita falta grave, não foi apreciada pela Corte estadual. A propósito, encontra-se em processamento no Juízo de origem o Agravo em Execução n. 0010997- 95.2022.8.26.0996.
+Nesse passo, fica prejudicada a análise da matéria em discussão na petição inicial, sobretudo porque, embora o cometimento de falta grave no curso da execução não interrompa o lapso temporal aquisitivo do livramento condicional, conforme previsto na Súmula n. 441 do STJ, a penalidade pode impedir a concessão do benefício por ausência de implementação do requisito subjetivo, com amparo no art. 83, III, do Código Penal (AgRg no HC n. 739.618/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 24/6/2022).
+Além disso, fato novo não deve ser submetido diretamente ao Superior Tribunal de Justiça, sob pena de indevida supressão de instância (HC n. 599.388/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020).
+De mais a mais, acerca da pretensão inicialmente trazida aos autos, não enxergo flagrante ilegalidade a ser sanada, pois, como bem analisou o Subprocurador- Geral da República Paulo Eduardo Bueno, há fundamentação idônea a justificar a necessidade de o paciente passar pelo regime intermediário, para em um futuro próximo auferir mérito para a concessão do livramento condicional (fl. 145). Isso porque, segundo o acórdão, o reeducando, quando daquele julgamento, já ostentavaregistro de falta grave, consistente em apreensão de aparelho celular e acessórios (fls.925/927 dos autos de origem) - fl. 102.
+Pelo exposto, ante a modificação da situação fático-processual, julgo prejudicado o habeas corpus.
+Publique-se.
+ ..
+Embora o agravante insista que a impetração não ficou prejudicada, entendo que a insurgência não merece acolhida, pois, ao contrário do que aqui se alega, diante da significativa alteração da situação fático-processual -inclusive, discutida em outros feitos perante o Tribunal local (conforme a própria defesa reconhece nas razões de agravo) -, a questão inicialmente trazida ficou esvaziada.
+Ora, se, com base na determinação do Tribunala quo em outros autos,houve a regressão de regime pelo reconhecimento de falta grave e posterior ajuizamento de feitos na Corte localem que há discussão acerca da efetiva existência dessas faltas disciplinares, não se faz possível,neste writ, analisarodecisum apontado como ato coatorque não tratou da matéria.
+Reitero, portanto, que fato novo não deve ser submetido diretamente ao Superior Tribunal de Justiça, sob pena de indevida supressão de instância (HC n. 599.388/SP, Ministra Laurita Vaz, Sexta Turma, DJe 2/12/2020).
+Além disso, temasnão trazidos na impetração originalconstituem-se em inovaçãorecursal, inviável em agravo regimental.
+Ante o exposto, nego provimento ao agravo regimental.
