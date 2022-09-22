@@ -1,0 +1,91 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+3ª Turma Cível
+Processo N.EMBARGOS DE DECLARAÇÃO CÍVEL 0738833-45.2021.8.07.0000EMBARGANTE(S)DURVAL BRITO DE SOUSA,REINALDO DIAS AMORIM JUNIOR,MARCIO FERREIRA DA SILVA,MARCELO DA SILVA ARAUJO,JOAO DA CUNHA REGO BERTOLINI,HISLANIA RENI MARTINS MONTEIRO DOS SANTOS,FLAVIO LIMA BARCELLOS,ENIO ANTONIO DA SILVA,EDUARDO SILVA BALSTER,ECLESIASTES ALVES e DISTRITO FEDERALEMBARGADO(S)DISTRITO FEDERAL,DURVAL BRITO DE SOUSA,ECLESIASTES ALVES,EDUARDO SILVA BALSTER,ENIO ANTONIO DA SILVA,FLAVIO LIMA BARCELLOS,HISLANIA RENI MARTINS MONTEIRO DOS SANTOS,JOAO DA CUNHA REGO BERTOLINI,MARCELO DA SILVA ARAUJO,MARCIO FERREIRA DA SILVA e REINALDO DIAS AMORIM JUNIORRelatoraDesembargadora MARIA DE LOURDES ABREU Acórdão Nº1621518
+
+EMENTA
+
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. AUSÊNCIA. FUNDAMENTAÇÃO SUFICIENTE. REDISCUSSÃO DA MATÉRIA. MERO INCONFORMISMO. IMPOSSIBILIDADE. VIA IMPRÓPRIA.
+
+1. A via dos embargos de declaração destina-se a corrigir falha do comando judicial que comprometa seu entendimento, quando decorrente de contradição, omissão, obscuridade ou correção de erro material (artigo 1.022 do Código de Processo Civil).
+
+2. Para efeito do manejo dos embargos de declaração, ocorre a ‘omissão’, na acepção do dispositivo supracitado, quando não há o enfrentamento de ponto ou questão relevante sobre o qual devia se pronunciar o juiz, de ofício ou a requerimento.
+
+3. O órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado, não existindo há obrigação de responder a todas as questões suscitadas pelas partes quando tenha encontrado fundamentos suficientes para proferir a decisão, desde que firme sua convicção em decisão devidamente motivada. Precedentes STJ.
+
+4. A falta de ocorrência dos supostos vícios apontados pelas partes embargantes demonstra o interesse velado em rediscutir as matérias já enfrentadas pelo Colegiado quando do julgamento do recurso de agravo de instrumento, providência incompatível com o manejo dos embargos de declaração.
+
+5. Ausente vício catalogado pelo artigo 1.022 do Código de Processo Civil, o caso não se amolda à previsão legal, o que torna imprópria a via recursal manejada para o fim desejado, destinada exclusivamente à correção de falha do julgado, não um meio de substituição de provimentos judiciais, fim para o qual assiste à parte os remédios processuais específicos.
+
+6. Embargos de declaração conhecidos e desprovidos.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 3ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, MARIA DE LOURDES ABREU - Relatora, ROBERTO FREITAS FILHO - 1º Vogal e LUÍS GUSTAVO B. DE OLIVEIRA - 2º Vogal, sob a Presidência do Senhor Desembargador LUÍS GUSTAVO B. DE OLIVEIRA, em proferir a seguinte decisão: CONHECER DE AMBOS OS EMBARGOS DE DECLARAÇÃO E NEGAR-LHES PROVIMENTO, UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 30 de Setembro de 2022
+
+Desembargadora MARIA DE LOURDES ABREURelatora
+
+RELATÓRIO
+
+Trata-se de embargos de declaração opostos pelo DISTRITO FEDERAL (agravante/embargante) e por EDUARDO SILVA BAISTER, REINALDO DIAS AMORIM JUNIOR, MARCIO FERREIRA DA SILVA, MARCELO DA SILVA ARAUJO, JOÃO DA CUNHA REGO BERTOLINI, HISLANIA RENI MARTINS MONTEIRO DOS SANTOS, FLAVIO LIMA BARCELLOS, ENIO ANTONIO DA SILVA e ECLESIASTES ALVES (agravados/embargantes) em face do acórdão de ID 35303680, prolatado por ocasião do julgamento de agravo de instrumento, cuja ementa recebeu a seguinte redação:
+
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. DÉBITO TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. ENCARGOS MORATÓRIOS. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. LEI COMPLEMENTARES DISTRITAIS 435/2001 E 943/2018. INPC E JUROS DE 1% AO MÊS. ARGUIÇÃO DE INCONSTITUCIONALIDADE TJDFT. REGULARIDADE DA INCIDÊNCIA. LEI POSTERIOR. IRRETROATIVIDADE. TEMPUS REGIT ACTUM. LEI COMPLEMENTAR 943/2018. APLICAÇÃO DA SELIC A PARTIR DA VIGÊNCIA DA LEI. EXCESSO DE EXECUÇÃO. CONFIGURADO. HONORÁRIOS ADVOCATÍCIOS. REQUISIÇÕES DE PEQUENO VALOR. DESTACAMENTO. POSSIBILIDADE. 1. Com relação ao tema de fundo atinente ao excesso de execução pela controvérsia existente acerca dos índices adotados para os encargos moratórios devidos, o entendimento sedimentado na jurisprudência é o de que os entes federados dispõem de certa margem de liberdade para estabelecer o índice de correção monetária e de juros remuneratórios, desde que se observe a devida isonomia quanto à sua incidência tanto em favor da Fazenda Pública quando da cobrança dos tributos inadimplidos, como em favor do contribuinte por ocasião da repetição de indébitos. Enunciado 523 da Súmula do STJ. 2. O Conselho Especial desta Egrégia Corte de Justiça, ao julgar a Arguição Incidental de Inconstitucionalidade n.º 2016.00.2.031555-3, cujo objeto se referia ao exame da constitucionalidade do artigo 2º da Lei Complementar Distrital n.º 435/2001, esclarece no seu inteiro teor que (...) “não se retira a validade da incidência do INPC como parâmetro de correção monetária para os créditos fiscais do DF, tampouco da aplicação de juros de mora de 1% ao mês, ambas estabelecidas pela Lei Complementar distrital 435/2001. Entretanto, o somatório desses índices não deve superar aquele adotado pela União para fins idênticos”, ocasião em que julgou conhecida e parcialmente acolhida a referida arguição, pela técnica da declaração de inconstitucionalidade parcial sem redução do texto, para declarar o artigo 2º da Lei Complementar distrital 435/2001 incompatível com a Constituição Federal (art. 24, I), sempre que os fatores de atualização monetária nele adotados excedam o valor do índice de correção dos tributos federais (Acórdão 1001884, 20160020315553AIL, Relator: WALDIR LEÔNCIO LOPES JÚNIOR, CONSELHO ESPECIAL, data de julgamento: 14/2/2017, publicado no DJE: 15/3/2017). 3. No intuito de alinhar ao entendimento sufragado na arguição de inconstitucionalidade, publica-se a Lei Complementar Distrital n.º 943/2018 (que altera as leis complementares distritais n.º 435/2001, 833/2011 e 52/1997), cujo artigo 2º, §2º, dispõe que “[s]obre o montante a que se refere o caput incidem juros de mora equivalentes à taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, para títulos federais, acumulada mensalmente, calculados a partir do primeiro dia do mês subsequente ao vencimento do prazo até o último dia do mês anterior ao do pagamento, e juros de 1% no mês do pagamento”. 4. Diante dessa dinâmica, a Lei Complementar Distrital n.º 943/2018 não pode retroagir de forma absoluta para alcançar todo o período anterior disposto entre o trânsito em julgado e asua efetiva vigência. Em outras palavras, demonstra-se correta a sistemática defendida pelo ente distrital para a metodologia do cálculo incidente sobre os encargos moratórios, devendo os valores serem corrigidos pelo coeficiente do INPC com a incidência de juros de 1% simples ao mês desde a data de cada pagamento até 31/5/2018 e, a partir desta data em diante, pela correção via Taxa SELIC (artigo 5º da Lei Complementar Distrital). Precedentes TJDFT. 5. No que se refere ao destaque dos honorários advocatícios no caso, não identifico razões para modificação da decisão agravada neste ponto, tendo em vista que todos os valores serão pagos pela via das Requisições de Pequeno Valor em favor de todos os credores na espécie e que o pedido de destacamento encontra assento no artigo 22, §4º, da Lei n.º 8.906/94. 6. Recurso conhecido e parcialmente provido.
+
+Alega o ente distrital embargante/agravante, em síntese, que o acórdão incorre em omissão quanto aos parâmetros de aplicação inicial dos juros de mora, asseverando que devem incidir somente a partir do trânsito em julgado da sentença, bem como que deve ser indicada na decisão colegiada a reserva de aplicação exclusiva da taxa Selic de junho/2018 e que os valores anteriores a esta data devem ser corrigidos pela variação mensal do INPC a partir da data do pagamento indevido. Sustenta que não houve pronunciamento a respeito da necessidade de intimação prévia das partes para confirmar acerca da inexistência de pagamento.
+
+Requer o conhecimento e provimento dos embargos de declaração para que sejam reconhecidas as omissões apontadas e, por consequência, concedida infringência para dar provimento ao agravo de instrumento, a fim de que seja corrigido o parâmetro de atualização do débito, bem como a expedição de RPV com a oitiva prévia dos exequentes.
+
+Contrarrazões no ID37198486.
+
+De outro lado, também opõe os embargos de declaração a parte agravada (ID 35719541) defendendo que o acórdão é omisso por não ter se manifestado acerca da aplicação analógica do enunciado 280 da Súmula do Supremo Tribunal Federal, concluindo que deve ser aplicada a Lei Distrital n.º 943/18 para seja aplicada a Taxa Selic a todo período de repetição do indébito.
+
+Contrarrazões no ID 37172359.
+
+É o relatório.
+
+Desembargadora MARIA DE LOURDES ABREU
+
+Relatora
+
+VOTOS
+
+A Senhora Desembargadora MARIA DE LOURDES ABREU - Relatora
+
+Presentes os pressupostos de admissibilidade, conheço dos embargos de declaração.
+
+Conforme relatado, cuida-se de embargos de declaração opostos pelas partes agravantes e agravada em face do acórdão de ID 35303680, cuja ementa recebeu a seguinte redação:
+
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. DÉBITO TRIBUTÁRIO. REPETIÇÃO DE INDÉBITO. ENCARGOS MORATÓRIOS. CORREÇÃO MONETÁRIA E JUROS MORATÓRIOS. LEI COMPLEMENTARES DISTRITAIS 435/2001 E 943/2018. INPC E JUROS DE 1% AO MÊS. ARGUIÇÃO DE INCONSTITUCIONALIDADE TJDFT. REGULARIDADE DA INCIDÊNCIA. LEI POSTERIOR. IRRETROATIVIDADE. TEMPUS REGIT ACTUM. LEI COMPLEMENTAR 943/2018. APLICAÇÃO DA SELIC A PARTIR DA VIGÊNCIA DA LEI. EXCESSO DE EXECUÇÃO. CONFIGURADO. HONORÁRIOS ADVOCATÍCIOS. REQUISIÇÕES DE PEQUENO VALOR. DESTACAMENTO. POSSIBILIDADE. 1. Com relação ao tema de fundo atinente ao excesso de execução pela controvérsia existente acerca dos índices adotados para os encargos moratórios devidos, o entendimento sedimentado na jurisprudência é o de que os entes federados dispõem de certa margem de liberdade para estabelecer o índice de correção monetária e de juros remuneratórios, desde que se observe a devida isonomia quanto à sua incidência tanto em favor da Fazenda Pública quando da cobrança dos tributos inadimplidos, como em favor do contribuinte por ocasião da repetição de indébitos. Enunciado 523 da Súmula do STJ. 2. O Conselho Especial desta Egrégia Corte de Justiça, ao julgar a Arguição Incidental de Inconstitucionalidade n.º 2016.00.2.031555-3, cujo objeto se referia ao exame da constitucionalidade do artigo 2º da Lei Complementar Distrital n.º 435/2001, esclarece no seu inteiro teor que (...) “não se retira a validade da incidência do INPC como parâmetro de correção monetária para os créditos fiscais do DF, tampouco da aplicação de juros de mora de 1% ao mês, ambas estabelecidas pela Lei Complementar distrital 435/2001. Entretanto, o somatório desses índices não deve superar aquele adotado pela União para fins idênticos”, ocasião em que julgou conhecida e parcialmente acolhida a referida arguição, pela técnica da declaração de inconstitucionalidade parcial sem redução do texto, para declarar o artigo 2º da Lei Complementar distrital 435/2001 incompatível com a Constituição Federal (art. 24, I), sempre que os fatores de atualização monetária nele adotados excedam o valor do índice de correção dos tributos federais (Acórdão 1001884, 20160020315553AIL, Relator: WALDIR LEÔNCIO LOPES JÚNIOR, CONSELHO ESPECIAL, data de julgamento: 14/2/2017, publicado no DJE: 15/3/2017). 3. No intuito de alinhar ao entendimento sufragado na arguição de inconstitucionalidade, publica-se a Lei Complementar Distrital n.º 943/2018 (que altera as leis complementares distritais n.º 435/2001, 833/2011 e 52/1997), cujo artigo 2º, §2º, dispõe que “[s]obre o montante a que se refere o caput incidem juros de mora equivalentes à taxa referencial do Sistema Especial de Liquidação e Custódia - SELIC, para títulos federais, acumulada mensalmente, calculados a partir do primeiro dia do mês subsequente ao vencimento do prazo até o último dia do mês anterior ao do pagamento, e juros de 1% no mês do pagamento”. 4. Diante dessa dinâmica, a Lei Complementar Distrital n.º 943/2018 não pode retroagir de forma absoluta para alcançar todo o período anterior disposto entre o trânsito em julgado e asua efetiva vigência. Em outras palavras, demonstra-se correta a sistemática defendida pelo ente distrital para a metodologia do cálculo incidente sobre os encargos moratórios, devendo os valores serem corrigidos pelo coeficiente do INPC com a incidência de juros de 1% simples ao mês desde a data de cada pagamento até 31/5/2018 e, a partir desta data em diante, pela correção via Taxa SELIC (artigo 5º da Lei Complementar Distrital). Precedentes TJDFT. 5. No que se refere ao destaque dos honorários advocatícios no caso, não identifico razões para modificação da decisão agravada neste ponto, tendo em vista que todos os valores serão pagos pela via das Requisições de Pequeno Valor em favor de todos os credores na espécie e que o pedido de destacamento encontra assento no artigo 22, §4º, da Lei n.º 8.906/94. 6. Recurso conhecido e parcialmente provido.
+
+Alega o ente distrital embargante/agravante, em síntese, que o acórdão incorre em omissão quanto aos parâmetros de aplicação inicial dos juros de mora, asseverando que devem incidir somente a partir do trânsito em julgado da sentença, bem como que deve ser indicada na decisão colegiada a reserva de aplicação exclusiva da taxa Selic de junho/2018 e que os valores anteriores a esta data devem ser corrigidos pela variação mensal do INPC a partir da data do pagamento indevido. Sustenta que não houve pronunciamento a respeito da necessidade de intimação prévia das partes para confirmar acerca da inexistência de pagamento.
+
+De outro lado, também opõe os embargos de declaração a parte agravada (ID 35719541) defendendo que o acórdão é omisso por não ter se manifestado acerca da aplicação analógica do enunciado 280 da Súmula do Supremo Tribunal Federal, concluindo que deve ser aplicada a Lei Distrital n.º 943/18 para seja aplicada a Taxa Selic a todo período de repetição do indébito.
+
+Sem razão os embargantes.
+
+A teor do artigo 1.022, incisos I a III do Código de Processo Civil, os embargos de declaração somente têm cabimento na hipótese de a decisão judicial apresentar erro material, obscuridade, contradição ou omissão acerca de ponto sobre o qual devia pronunciar-se o juiz ou o tribunal.
+
+Para efeito de manejo dos embargos de declaração, ocorre omissão, na acepção do dispositivo supracitado, na falta de enfrentamento de ponto ou questão relevante sobre o qual devia se pronunciar o juiz, de ofício ou a requerimento. Destaque-se que a omissão, para efeito de provimento dos aclaratórios, ocorre somente quando o julgado “(...) se omite sobre ponto que se deveria pronunciar para resolver a questão. (...). De si só, o fato de haver fundamento da parte não expressamente examinado pela decisão não significa que haja omissão apta a ensejar provimento de embargos de declaração” (in Processo Civil: Fundamentos do Procedimento Ordinário, Mario Machado Vieira Netto, Ed. Guerra, Brasília/2011).
+
+O exame do acórdão em confronto com a leitura dos aclaratórios da parte agravante/embargante denota o enfrentamento da amplitude das questões necessárias ao deslinde da controvérsia estabelecida em seu recurso de agravo de instrumento, notadamente quando se refere, em deliberação colegiada e unânime, à metodologia do cálculo incidente sobre os encargos moratórios com a conclusão de que (...) “a Lei Complementar Distrital n.º 943/2018 não pode retroagir de forma absoluta para alcançar todo o período anterior disposto entre o trânsito em julgado e a sua efetiva vigência. Em outras palavras, demonstra-se correta a sistemática defendida pelo ente distrital para a metodologia do cálculo incidente sobre os encargos moratórios, devendo os valores serem corrigidos pelo coeficiente do INPC com a incidência de juros de 1% simples ao mês desde a data de cada pagamento até 31/5/2018 e, a partir desta data em diante, pela correção via Taxa SELIC (artigo 5º da Lei Complementar Distrital) ” (ID 33146499 – pág. 8 e 9).
+
+Do outro lado, por contraposição lógica às conclusões extraídas com base nos mesmos documentos fundantes da correlação fática existente nos autos com a aplicação da legislação entendida como aplicável ao caso, com amparo nos precedentes citados no acórdão. Impende anotar que “[o] órgão julgador não está obrigado a responder a questionamentos das partes, mas tão só a declinar as razões de seu convencimento motivado (...)” e que “não há obrigação de responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão, desde que firme sua convicção em decisão devidamente fundamentada (por todos: STJ. 3ª Turma. AgInt no REsp 1920967/SP, Rel. Min. Marco Aurélio Belizze, julgado em 03/05/2021; e STJ. 4ª Turma. AgInt no AREsp 1382885/SP, Rel. Min. Francisco Falcão, julgado em 26/04/2021).
+
+Denota-se com os aclaratórios de ambas as partes o interesse de rediscutir as matérias já enfrentadas pelo Egrégio Colegiado quando do julgamento do recurso, providência incompatível com o manejo dos embargos de declaração.
+
+Vale consignar, ainda, que para fins de prequestionamento da matéria é suficiente que a questão seja efetivamente debatida nas instâncias originárias, sem que se faça necessário juízo de valor expresso ou menção específica a determinados dispositivos legais.
+
+ Ausente vício catalogado pelo artigo 1.022 do Código de Processo Civil, o caso não se amolda à previsão legal, o que torna imprópria a via manejada para o fim desejado pelas partes, destinada exclusivamente à correção de falha do julgado, e não meio de substituição de provimentos judiciais.
+
+Ante o exposto, CONHEÇO e NEGO PROVIMENTO aos embargos de declaração.
+
+É como voto.
+
+O Senhor Desembargador ROBERTO FREITAS FILHO - 1º Vogal Com o relatorO Senhor Desembargador LUÍS GUSTAVO B. DE OLIVEIRA - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DE AMBOS OS EMBARGOS DE DECLARAÇÃO E NEGAR-LHES PROVIMENTO, UNÂNIME
