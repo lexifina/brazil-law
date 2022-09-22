@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por SINDICATO NACIONAL DOS DOCENTES DAS INSTITUIÇÕES DE ENSINO SUPERIOR, contra decisão de minha lavra, publicada em 03/08/2022, em que conheço em parte doRecurso Especial, para negar-lhe provimento.
+Inconformada, sustenta a parte embargante que:
+"Desse modo, os embargos de declaração foram efetivamente fundamentados nas hipóteses do art. 1.022, considerando prequestionadas todas as matérias ventiladas, ainda que o Tribunal não se debruce especificamente sobre os dispositivos legais prequestionados, conforme inteligência do art. 1.025 do CPC:
+(..)
+Ao fazer tal previsão o legislador pensou justamente na hipótese de, uma vez que o Tribunal de origem não se manifeste especificamente sobre os fundamentos invocados, sejam consideradas as matérias recursais balizadas na peça, de modo que não haja óbice à interposição de outros recursos, já que a deficiência da fundamentação da decisão é imputável aos julgadores e não às partes.
+(..)
+Desse modo, o acórdão da Corte Regional embora não tenha citado os artigos tidos por violados, dirimiu a questão posta nos autos e manifestou seu entendimento, tendo o recorrente oposto embargos de declaração justamente para suprir o requisito do prequestionamento, pelo que incabível a aplicação da súmula 211 no presente caso.
+(..)
+A r. decisão de não conhecimento , concessiva vênia, é omissa quanto à análise do caderno processual e da legislação invocada, especificamente a aplicabilidade do art. 22, §§ 6º e 7º, inseridos pela Lei 13.725, DE 4 DE OUTUBRO DE 2018.
+Neste ponto, convém trazer à baila os termos da lei 13.725/2018, que alterou a Lei nº 8.906, de 4 de julho de 1994, onde dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil (OAB):
+(..)
+O que deve ser levado em conta é que, com o advento de tal alteração, a advocacia obteve uma significativa conquista, sobretudo no que concerne à advocacia sindical, pelo que oportunamente convém destacar a importância constitucional dada às entidades sindicais, não tendo este D. Ministro se manifestado sobre tal inovação legislativa e sua aplicação ao caso concreto, pelo que requer seja sanada a omissão para que haja manifestação sobre a aplicabilidade do art. 22, §§ 6º e 7º, inseridos pela Lei 13.725, DE4 DE OUTUBRO DE 2018.
+(..)
+Em virtude das decisões desfavoráveis e reiteradas das Cortes de Vértice, os advogados sindicais, diante das dificuldades na obtenção dos honorários contratuais, onde exigia-se contratos de honorários individuais dos substituídos, para só então, ser possível a retenção da verba, passaram a suportar transtornos desmedidos e uma burocracia desnecessária e prejudicial e, até, a perda da verba honorária decorrente do trabalho realizado.
+As alterações trazidas pela Lei 13.725/2018 tem o condão de atuar como facilitadoras para o reconhecimento das verbas a título de honorários contratuais, fortalecendo, inclusive, as entidades sindicais na busca dos direitos dos seus filiados, bem como dando efetividade aos direitos dos advogados.
+(..)
+A jurisprudência é unânime ao considerar válida a cláusula que estipula honorários, ainda que inserida na procuração, sendo possível, inclusive, a sua retenção, uma vez que se equipara ao contrato de honorários propriamente dito.
+O Superior Tribunal de Justiça -STJ, inclusive, vem decidindo sobre a possibilidade de o contrato de honorários, desde que escrito, assumir diferentes formas de apresentação, porque não há, na Lei n.8.906/1994 (EOAB), forma prescrita ou defesa, nem exigência de requisitos específicos.
+(..)
+Nessa trilha, NESTES AUTOS DEVE SER TIDA POR VÁLIDA A AUTORIZAÇÃO DO DESCONTO FEITA EM ATA DA ASEMBLEIA GERAL DE FORMA UNÂNIMEE AUTORIZADO EM LEI. Resta clara a necessidade de acolhimento do pedido do requerente" (fls. 3933/3942e).
+Por fim, requer o acolhimento dos Embargos Declaratórios.
+Não houve razões de impugnação.
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está, de fato, suficientemente fundamentada, no sentido que: a) a suposta ofensaao art. 1.022 do CPC/2015 não restou demonstrada pela parte recorrente, o que enseja a aplicação da Súmula 284 do STF; b) o acórdão recorrido está em consonância com a orientação firmada pelo STJ, no sentido de que "a legitimação extraordinária com a dispensa de assinatura de todos os substituídos alcança a liquidação e a execução de créditos. Contudo, a retenção sobre o montante da condenação do que lhe cabe por força de honorários contratuais só é permitida com a apresentação do contrato celebrado com cada um dos filiados nos termos do art. 22, § 4º, da Lei 8.906/1994", pois, "o contrato pactuado exclusivamente entre o Sindicato e o advogado não vincula os filiados substituídos, em face da ausência da relação jurídica contratual entre estes e o advogado" (STJ, REsp 1.799.616/AL, Rel Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 28/05/2019).
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE DO AGRAVO INTERNO. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material. Não se verifica, no caso concreto, a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. Com efeito, decidiu-se que o agravo interno não tinha condições de conhecimento, porquanto a parte agravante deixou de refutar todos os fundamentos da decisão agravada, o que fez atrair o óbice da Súmula 182/STJ.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Em razão de sua natureza substancial, a falta de impugnação integral dos fundamentos da decisão recorrida não admite posterior saneamento, a ela não se aplicando o disposto no parágrafo único do artigo 932 do CPC.
+5. Embargos de declaração rejeitados"(STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA,DJe de 02/04/2020).
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
