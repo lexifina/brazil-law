@@ -1,0 +1,47 @@
+DECISÃO:
+
+    Vistos.
+
+    Ronaldo Borges interpõe recurso extraordinário com fundamento nas alíneas “a” e “c” do permissivo constitucional, contra acórdão da 4ª Turma Recursal dos Juizados Especiais do Tribunal de Justiça do Estado do Paraná, assim ementado:
+
+    “RECURSO INOMINADO. PRELIMINAR DE NULIDADE DA SENTENÇA, POR AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. SERVIDOR PÚBLICO MUNICIPAL. MUNICÍPIO DE ROLÂNDIA. REAJUSTE. MENOR VENCIMENTO CORRESPONDENTE A 105% DO SALÁRIO MÍNIMO. REFLEXOS NAS DEMAIS CATEGORIAS. IMPOSSIBILIDADE. AFRONTA À ISONOMIA. VEDAÇÃO DE INTROMISSÃO DO JUDICIÁRIO. SÚMULA VINCULANTE 37. PRECEDENTES DESTA TURMA RECURSAL. SENTENÇA MANTIDA PELOS SEUS PRÓPRIOS FUNDAMENTOS. RECURSO CONHECIDO E NÃO PROVIDO”.
+
+    Opostos embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se contrariedade ao artigo 37, incisos X e XV, da Constituição Federal.
+
+    Decido.
+
+    A irresignação não merece prosperar, uma vez que o Plenário deste Supremo Tribunal Federal, no julgamento do RE nº 592.317/RJ, da relatoria do Ministro Gilmar Mendes, cuja repercussão geral da matéria suscitada no recurso já havia sido reconhecida por esta Corte, reafirmou a orientação fixada na Súmula nº 339 desta Corte no sentido de que não cabe ao Poder Judiciário, que não tem a função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia. A conclusão desse julgamento foi assim noticiada no informativo de jurisprudência do STF:
+
+    “Não cabe ao Poder Judiciário, que não tem a função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia. Com base nesse entendimento, o Plenário, por maioria, reafirmou o Enunciado 339 da Súmula do STF e deu provimento a recurso extraordinário para reformar acórdão que estendera gratificação com base no princípio da isonomia. O Tribunal afirmou que a jurisprudência do STF seria pacífica no sentido de que o aumento de vencimentos de servidores dependeria de lei e não poderia ser efetuado apenas com base no princípio da isonomia. Salientou que tampouco seria possível a equiparação salarial, a pretexto de resguardar a isonomia entre servidores de mesmo cargo, quando o paradigma emanasse de decisão judicial transitada em julgado. Observou que, nos termos da Lei 2.377/1995 do Município do Rio de Janeiro, a gratificação de gestão de sistemas administrativos seria específica para os servidores em exercício na Secretaria Municipal de Administração - SMA. Frisou que o recorrido, apesar de ocupante de cargo efetivo da SMA, estaria em exercício em secretaria diversa. Dessa forma, não cumpriria os requisitos legais para o recebimento e a incorporação da referida gratificação. Vencidos os Ministros Marco Aurélio e Rosa Weber, quanto ao conhecimento do recurso. Pontuavam que o conflito de interesse teria solução final no âmbito do Poder Judiciário estadual, já que a controvérsia envolveria interpretação conferida à lei municipal e ao decreto que a regulamentara. Além disso, seria necessário revolver os elementos probatórios para assentar premissas diversas das constantes do acórdão recorrido. Vencido também no mérito o Ministro Marco Aurélio, que negava provimento ao recurso extraordinário”.
+
+    Essa orientação foi consolidada com a edição da Súmula Vinculante nº 37 com o seguinte teor, in verbis:
+
+    “Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob o fundamento de isonomia”.
+
+    Ademais, para acolher a pretensão do agravante e chegar à conclusão diversa do acórdão recorrido, seria necessário o reexame da legislação local pertinente e do conjunto fático-probatório, o que é inviável em sede de recurso extraordinário. Incidência das Súmulas nºs 280 e 279/STF. A propósito, destacam-se:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Servidor público. Reenquadramento e equiparação. Padrão inicial de vencimento. Irredutibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.190.688/SP-AgR, Tribunal Pleno, de minha relatoria, DJe de 11/6/19).
+
+    “Agravo regimental no recurso extraordinário com agravo. 2. Direito Administrativo. 3. Servidor público. Ampliação da carga horária semanal. Cessão. Afastamento. 4. Controvérsia que se restringe ao âmbito da legislação local. Lei Complementar 840/2011 do Distrito Federal. Súmula 280 do SFT. 5. Agravo regimental a que se nega provimento” (ARE nº 928.680/DF-AgR, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 11/2/16).
+
+    No mais, destacam-se as decisões monocráticas em casos análogos ao dos autos: ARE nº 1.293.289/PR, Relator o Ministro Luiz Fux, Presidente, DJe de 22/10/20; ARE nº 1.292.790/PR, Relator o Ministro Luiz Fux, Presidente, DJe de 22/10/20; e ARE nº 1.289.755/PR, Relator o Ministro Luiz Fux, Presidente, DJe de 22/10/20.
+
+    Por fim, inviável o conhecimento do recurso extraordinário interposto com base na alínea “c” do inc. III do art. 102 da Constituição quando o Tribunal de origem não julgou válida lei ou ato de governo local contestado em face da Constituição Federal. Nesse sentido, anote-se:
+
+    “Embargos de declaração em agravo de instrumento. 2. Decisão monocrática. Embargos de declaração recebidos como agravo regimental. 3. Deficiência da fundamentação do recurso extraordinário. Não demonstração da contrariedade à Constituição Federal. Incidência da Súmula 284. 4. O Tribunal de origem não julgou válida lei ou ato de governo local, contestado em face da Constituição Federal. Descabida a invocação do art. 102, III, c, da CF/88. 5. Agravo regimental a que se nega provimento.” (AI nº 792.968/SP, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 2/4/12).
+
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 22 de setembro de 2022.
+
+Ministro DIAS TOFFOLI
+
+Relator
+
+Documento assinado digitalmente
