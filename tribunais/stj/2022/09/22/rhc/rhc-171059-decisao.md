@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido de liminar, interposto por DANIEL MARTINS DA SILVA, contra acórdão do Tribunal de Justiça do Estado de Goiás.
+Colhe-se dos autos que orecorrentetevea prisão em flagrante convertida em preventiva pela suposta prática dodelitotipificadonoart. 33 da Lei n. 11.343/2006.
+Neste recurso, a defesa sustenta ausência de fundamento concreto para a prisão cautelar. Destaca que a gravidade abstrata do delitonão é suficientepara justificar o decreto prisional além da pequena quantidade de drogas apreendido.
+Aponta que medidas cautelares diversas são suficientes para resguardar a ordem pública e garantir a aplicação da lei penal.
+Destaca outras circunstânciasfavoráveis do recorrente que corroboram com a soltura, além de ser acusadode delitos cometidos sem violência ou grave ameaça e não haver condenação transitada em julgado em seu desfavor.
+Pleiteia a revogação da prisão preventiva ou sua substituição por medidas cautelares diversas.
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+O Tribunal de origem manteve a prisão preventiva nos seguintes termos:
+" ..
+Desta feita, analisando os trechos transcritos, resta claro que depois de averiguada a presença dos pressupostos legais (materialidade do fato, indícios de autoria e crime cuja pena ultrapassa quatro anos), a decretação da segregação do paciente foi justificada, principalmente , na gravidade do delito e na sua periculosidade,sendo o primeiro pela quantidade e variedade de drogas apreendidas (10g de maconha e 208,2g de crack), bem como na apreensão de apetrechos para o preparo da droga, além de 6 (seis) celulares, 1 (uma) máquina de cartão e a quantia de R$ 38,00 (trinta e oito reais) em espécie, em notas miúdas.
+No segundo momento, em que pese não constar dos autos originais a Certidão de Antecedentes Criminais do paciente, sendo que tal omissão não foi suprida pela defesa, extrai-se da aludida decisão, que o Magistrado a quo apontou que ele é investigado por outro crime da mesma natureza, portanto, sua periculosidade resta cristalina quanto à reiteração delitiva.
+Além disso, em que pese a quantidade de drogas encontradas com o paciente não ser demasiada, como já mencionado no Habeas Corpus do corréu Sidney Cândido de Oliveira (5470901-45.2022.8.09.0000), a polícia chegou até o paciente, em razão da prisão em flagrante do corréu, que transportava/possuía em depósito 1,083kg de maconha, 1,236kg de cocaína e 3,441kg de crack, afirmando que as drogas seriam trocadas por 1 (uma) arma de fogo fornecida por João Vitor Moreira Gonçalves, o qual repassaria a droga para o paciente, para quitar uma dívida com o tráfico.
+Tais fatos, denotam que a decisão segregatória se apresenta adequadamente fundamentada, não aplicando-se ao caso medidas cautelares diversas da prisão.
+Confira-se, julgado recente desta 3ª Câmara Criminal:
+ ..
+Quanto aos apontados bons predicados pessoais, ainda que tivessem sido comprovados em sua totalidade, só eles não lhe garantiriam o direito à liberdade provisória com medidas cautelares, quando vedado o favor legal e evidenciadas condições autorizativas do recolhimento preventivo, elencadas pelo artigo 312 do Código de Processo Penal, notadamente, como já dito alhures, a necessidade de resguardar a ordem pública diante da gravidade do crime e reiteração delitiva.
+Ademais, há presunção de que o paciente encontra-se foragido, já que, no dia dos fatos (19/7/2022), ele não foi encontrado em sua residência quando o corréu o indicou como o destinatário da droga, sendo que sua esposa foi quem franqueou a entrada dos policiais e, mesmo antes do decreto preventivo (15/8/2022), não se apresentou à polícia, restando o mandado de prisão cautelar em aberto, até presente momento.
+Nesse sentido, julgado recente deste Tribunal de Justiça:
+ ..
+Nessa esteira de considerações, em conformidade aos entendimentos acima explicitados, não se vislumbra qualquer gravame ou constrangimento ilegal a ser reparado pela via mandamental.
+Ante o exposto, desacolhendo o parecer Ministerial de Cúpula, conheço do pedido e denego a ordem impetrada" (e-STJ, fls. 226-226).
+A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, segundo se infere, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta e o risco de reiteração delitiva doagente.
+Isto porque, o recorrente responde outro processo por tráfico em liberdade e voltou a delinquir.
+Além disso, houve a apreensãodequantidade considerávelde entorpecentes.
+Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO.
+DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de droga apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, visto que, cerca de trinta dias após haver sido beneficiado com a concessão de liberdade provisória, o acusado foi novamente preso em flagrante, pela suposta prática de delito de mesma natureza, e já registra condenação criminal na ação penal relativa a tais fatos, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Denegada a ordem." (HC 511.692/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019).
+Ademais, esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..  2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..  Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Consigne-se, ainda, que é inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura dos recorrentes. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Além disso, o fato de o paciente possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte: RHC 95.544/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/3/2018, DJe 2/4/2018; e RHC 68.971/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/9/2017, DJe 9/10/2017.
+Ante o exposto, nego provimentoao recurso emhabeas corpus.
+Publique-se. Intimem-se.
