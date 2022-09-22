@@ -1,0 +1,2 @@
+Estabelece critérios para autorizar a prorrogação do direito de uso de radiofrequência associado à exploração do Serviço Especial de Televisão por Assinatura (TVA), criado pelo Decreto nº 95.744, de 23 de fevereiro de 1988, e ao Serviço de Acesso Condicionado (SeAC); e altera a Lei nº 12.485, de 12 de setembro de 2011.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
