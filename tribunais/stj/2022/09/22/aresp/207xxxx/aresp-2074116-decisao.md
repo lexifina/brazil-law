@@ -1,0 +1,54 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por S.A.L. AGROPECUARIA S/A, USINA SANTA ROSA LTDA, contra inadmissão, na origem, de recurso especial fundamentado naalínea"a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO INTERNO AÇÃO ANULATÓRIAALIENAÇÃO FIDUCIÁRIA BEM IMÓVEL Insurgência contra a decisão monocrática que indeferiu os benefícios da justiça gratuita. Pessoa Jurídica Possibilidade de concessão do benefício em situações excepcionais, desde que demonstrada a hipossuficiência financeira O fato de a empresa estar em recuperação judicial não é, per si, motivo para o diferimento. Ausência de provas que demonstrem real necessidade Manutenção do indeferimento. Concessão de novo prazo de cinco dias para o recolhimento das custas pertinentes ao preparo do recurso de apelação, a ser contado da data da publicação do presente acórdão Negado provimento, com determinação. (e-STJ, fl. 613)
+Em suas razões do especial, os recorrentes refutam o indeferimento do pleito relativo ao benefício da assistência judiciária, requerendo sua concessão com suporte noart.99, § 2º, do Código de Processo Civil.
+Defendem que "por força de lei, é obrigado a abrir prazo e fundamentar sua decisão, propiciando a Recorrente que esta preencha eventuais lacunas que o julgador entenda existentes para a concessão dos benefícios, e não indeferir a assistência judiciária monocraticamente e sem a "abertura" da possibilidade legal estampada no artigo de lei em comento" (e-STJ Fls. 637).
+Alegam que "aRecorrente que já se encontra em sérias dificuldades financeiras e está buscando o benefício da assistência judiciária, não pode ver tolhido o seu direito em provar, além dos documentos já juntados aos autos, que se encontra impossibilitada de complementar o depósito recursal de valor vultoso, ao menos neste momento, não podendo ter seu pedido analisado por infração" (e-STJ, fl. 640).
+As contrarrazões foram apresentadas (e-STJ, fls. 673/683).
+É o relatório.
+Decido.
+Inicialmente, no tocante à justiça gratuita, encontra-se consolidado o entendimento desta Corte de que as pessoas jurídicas fazem jus ao benefício, desde que comprovem a insuficiência de recursos para arcar com as despesas processuais, independentemente de possuírem ou não finalidade lucrativa.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA DE FUNDAMENTAÇÃO DO JULGADO. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DECISÃO MANTIDA.
+1. Ação rescisória c/c pedido de antecipação de tutela e gratuidade de justiça.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. Nos termos da Súmula 481/STJ, a concessão dos benefícios da assistência judiciária gratuita às pessoas jurídicas, com ou sem fins lucrativos, requer a demonstração da impossibilidade de arcarem com os encargos processuais.
+5. Alterar o decidido no acórdão impugnado, no que se refere à não concessão do pedido de justiça gratuita, ante à não comprovação da hipossuficiência do agravante, e dos requisitos para a concessão da tutela de urgência, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.964.914/DF, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022 - grifou-se)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA NÃO CONCEDIDA. INTIMAÇÃO PARA REGULARIZAÇÃO. INÉRCIA. DESERÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a pessoa jurídica deverá comprovar a necessidade que justifique a concessão da assistência judiciária gratuita.
+2. Indeferido o benefício e intimada à regularização, a inércia da parte solicitante acarreta o não conhecimento do recurso especial pela deserção.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.915.449/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022 - grifou-se)
+Ademais, o benefício do art. 2º da Lei 1.060/50 visa garantir o direito constitucional de ação e acesso ao Poder Judiciário para todos os cidadãos, isentando do pagamento das custas processuais aos que não podem arcar com essas despesas, sem prejuízo de seu próprio sustento ou de sua família. Contudo, tal benefício é voltado àqueles que materialmente não podem arcar com as despesas processuais.
+Sobre o tema, compartilho o entendimento de que a necessidade de prova da situação de hipossuficiência econômica emana da própria Constituição Federal, nos termos do art. 5º, inciso LXXIV, que assim dispõe: "o Estado prestará assistência judiciária integral e gratuita aos que comprovarem insuficiência de recursos".
+A assistência judiciária não se reveste do caráter de benevolência, mas se apresenta como meio necessário à viabilização do acesso igualitário a todos os que buscam a prestação jurisdicional. Por conseguinte, por não se tratar de um ato de caridade, deve restar criteriosamente concedido.
+Assim, o Tribunal de origem proferiu a sua decisão de acordo com o atual entendimento do Superior Tribunal de Justiça no sentido de que as pessoas jurídicas fazem jus ao benefício, desde que comprovem a insuficiência de recursos para arcar com as despesas processuais.
+Na espécie, não restou comprovado o estado de miserabilidade jurídica dos recorrentes que justificasse a concessão da gratuidade de justiça. O Tribunal de origem registrou que não foram apresentados documentos capazes de demonstrar a efetiva indisponibilidade financeira dos recorrentes para arcar com as despesas processuais. Vejamos:
+Conforme constou na decisão agravada, a empresa apelante pleiteou a gratuidade durante o trâmite do processo, mas o pedido foi indeferido pelo Juízo de Origem (fl. 389), tendo sido recolhidas as custas iniciais sem a interposição do recurso de agravo de instrumento cabível(fls. 400/404).
+Em sua apelação, não desenvolveu um parágrafo sequer acerca da necessidade do benefício da gratuidade e recolheu as custas de preparo no valor de R$ 4.000,00. Apenas após ser intimada em Segundo Grau a complementar o recolhimento do preparo recursal, sob pena de deserção (fl. 451), justificou a necessidade de concessão do benefício em razão do deferimento de sua recuperação judicial e de sua incapacidade dearcar com as custas do processo (fls. 454/595).
+Verifica-se, portanto, que seria preciso demonstrar não haver condições de pagamento das custas, o que não ocorreu. A documentação de fls. 457/595 apenas demonstram que está em trâmite a recuperação judicial da apelante e que foi apresentado plano de recuperação judicial naqueles autos, inexistindo qualquer documento comprobatório da impossibilidade do recolhimento das custas de preparo.
+Não se nega a existência de dívidas, tampouco da dificuldade financeira, todavia verifica-se do plano de recuperação judicial queo grupo econômico do qual faz parte a apelante encontra-se em plena atividade e com projeções otimistas de receita para os próximos anos (fl. 558),além de possuir patrimônio vultoso (fl. 586).
+Frise-se que as dificuldades financeiras já ocorriam durante a tramitação da ação, tanto que houve pedido de concessão da gratuidade antes mesmo do pedido de recuperação judicial, todavia elas não impediram o recolhimento das custas iniciais e de preparo e tampouco motivou pedido de concessão da gratuidade em sede de apelação.
+Inexistindo prova de mudança na situação financeira da recorrente, tampouco da absoluta impossibilidade de recolhimento das custas, não há como acolher o pedido da apelante. E não há que se falar em falta de oportunidade de comprovação da situação de penúria financeira, tendo em vista que apresentou a documentação que entendia suficiente às fls. 457/595, que foi detidamente analisada pela decisão que concluiu pelo indeferimento da gratuidade. Não se verifica, portanto, qualquer violação à previsão do art. 99, § 2º do CPC. (e-STJ, fls. 615/618 - grifou-se)
+Dessa forma, convém esclarecer que o Tribunal de origem examinou detidamente a documentação juntada pelos recorrentes, concluindo pela ausência real de motivos que justifiquem a concessão da justiça gratuita. Sendo que não há que se falar em falta de oportunidade de comprovação da situação de dificuldade financeira.
+Portanto, elidir as conclusões do aresto impugnado quanto às convicções formadas pelo Tribunal de origem acerca da hipossuficiência das partes recorrentes demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula nº 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. CARACTERIZAÇÃO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal de origem, apreciando as peculiaridades fáticas da causa, indeferiu o benefício da assistência judiciária gratuita. A modificação de tal entendimento lançado no v. acórdão recorrido, como ora perseguida, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 486.303/SP. Quarta Turma, Rel. Ministro Raul Araújo. DJe 13/05/2014 - grifou-se)
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. CONDIÇÃO DE HIPOSSUFICIÊNCIA. VERIFICAÇÃO. SÚMULA N. 7/STJ. INCIDÊNCIA.
+1. Incide a Súmula n. 7 do STJ na hipótese em que a tese versada no recurso especial reclama a análise dos elementos probatórios produzidos ao longo da demanda.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 319.696/PE. Terceira Turma, Rel. Ministro João Otávio de Noronha. DJe 28/06/2013)
+Ante o exposto, conheço do agravo para, desde logo, não conhecer o recurso especial.
+Por fim, com fundamento no art. 85, § 11, do CPC,majoroo percentual dos honorários sucumbenciais a que condenado a recorrente na origem em 5%, totalizando 15% sobre o valor atualizado da causa, observada a eventual e anterior concessão da gratuidade judiciária.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. JUSTIÇA GRATUITA. PEDIDO NEGADO PELA CORTE DE ORIGEM. ALEGADA EXISTÊNCIA DE HIPOSSUFICIÊNCIA. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL.
