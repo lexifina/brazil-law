@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por Ministério Público do Paraná, com fundamento na alínea ado permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça do Paraná no Habeas Corpus n. 1.482.731-1, assim ementado (fls. 45/53):
+HABEAS CORPUS - PACIENTE DENUNCIADA PELA PRÁTICA DOS CRIMES DE DIFAMAÇÃO, CALÚNIA E FURTO DE COISA COMUM -SUSPENSÃO CONDICIONAL DO PROCESSO PREVISTA NO ARTIGO 89, DA LEINº9.099/95 - FIXAÇÃO DE PRESTAÇÃOPECUNIÁRIA COMO UMA DAS CONDIÇÕES -IMPOSSIBILIDADE - PENA RESTRITIVA DE DIREITO - NATUREZA AUTÔNOMA E SUBSTITUTIVA - AUSÊNCIA DE PREVISÃO NA LEI 9.099/1995 - VIOLAÇÃO AO PRINCIPIO DA LEGALIDADE CONSTRANGIMENTO ILEGAL EVIDENCIADO - LIMINAR CONFIRMADA - ORDEM CONCEDIDA.
+Os embargos de declaração opostos pela acusação foram rejeitados (fls. 67/71):
+EMBARGOS DE DECLARAÇÃO CRIME - ALEGAÇÃOMINISTERIAL DE EXISTÊNCIA DE VÍCIOS NO ACÓRDÃO-SUPOSTA CONTRADIÇÃO E OBSCURIDADE NO PRONUNCIAMENTO NÃO EVIDENCIADO - HABEAS CORPUS JULGADO NO SENTIDO DE CONCEDER A ORDEM PARA EXCLUIR A PRESTAÇÃO PECUNIÁRIA COMO CONDIÇÃO PARA A SUSPENSÃO CONDICIONAL DO PROCESSO - INOCORRÊNCIA DOS VÍCIOSAVENTADOS -EMBARGOS REJEITADOS.
+Os segundos embargos de declaração opostos pela acusação também foram rejeitados (fls. 99/104):
+EMBARGOS DE DECLARAÇÃO CRIME - ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO - INOCORRÊNCIA - ALEGAÇÃO DE PREQUESTIONAMENTO DA MATÉRIA - INOOCORRÊNCIADO VÍCIO AVENTADO -PRONUNCIAMENTO JUDICIAL DEVIDAMENTE FUNDAMENTADO E SUFICIENTE AO DESLINDE DADEMANDA - INCONFORMISMO DA PARTE - PRETENSÃO DE REDISCUSSÃO DA MATÉRIA - QUESTÃO EXPRESSAMENTE ENFRENTADA - EMBARGOS REJEITADOS.
+Os embargos de declaração não constituem o meio processual adequado para reexame da matéria decidida no julgamento do recurso.
+No recurso especial, a acusação aponta violação dos arts. 647 e 648 do Código de Processo Penal, sob o argumento de que o Tribunal de origem concedeu ordem de habeas corpus em caso em que não existia constrangimento ilegal a ser sanado.
+Ato contínuo, aponta violação doart. 89 da Lei n. 9.099/1995, sob o argumento de que a pena de prestação pecuniária pode ser proposta como condição facultativa para a suspensão condicional do processo.
+Ao final da peça recursal, requer o provimento da insurgência para que a condição relativa ao pagamento de prestação pecuniária seja restabelecida.
+Oferecidas contrarrazões (fl. 130/141), os autos foram remetidos a nova apreciação da câmarajulgadora do Tribunal de origem para exercício do juízo de retratação, tendo em vista a decisão prolatada por esta Corte Superior, sob a sistemática dos recursos repetitivos, no REsp n. 1.498.034/RS(fls. 143/145).
+Identificado que a Câmara julgadora deixou de exercer o juízo de retratação, o recurso especial foi admitido (fl. 163).
+O Ministério Público Federal opina pelo provimento da insurgência (fls. 177/181):
+RECURSO ESPECIAL. CRIMES DE DIFAMAÇÃO, CALÚNIA E FURTO DE COISA COMUM. SUSPENSÃO CONDICIONAL DO PROCESSO. FIXAÇÃO DE PRESTAÇÃO PECUNIÁRIA COMO UMA DAS CONDIÇÕES. REVISÃO. IMPOSSIBILIDADE. SALVO SE MANIFESTAMENTE ILEGAIS OU ABUSIVAS. INOCORRÊNCIA. CONHECIMENTO E PROVIMENTO DO RECURSO ESPECIAL.
+- A Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.498.034/RS, sob o rito do art. 543-C do CPC c/c 3º do CPP, consolidou entendimento no sentido de que "não há óbice a que se estabeleçam, no prudente uso da faculdade judicial disposta no art.89, § 2º, da Lei n. 9.099/1995, obrigações equivalentes, do ponto de vista prático, a sanções penais (tais como a prestação de serviços comunitários ou a prestação pecuniária), mas que, para os fins do sursis processual, se apresentam tão somente como condições para sua incidência" (Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 2/12/2015).
+- Revela-se descabida a concessão da ordem para extirpar a prestação pecuniária do rol de condições da suspensão condicional do processo, pois, na ocasião, a Paciente aceitou todas as condições a ela impostas, não tendo demonstrado qualquer circunstância que a impedisse de honrar o acordo estabelecido.
+- Parecer pelo conhecimento e provimento do recurso especial.
+É o relatório.
+O recurso especial encontra-se prejudicado.
+Embora a decisão de fl. 63 afirme que a Câmara julgadora não exerceu o juízo de retratação para adequação do seu entendimento ao decidido por esta Corte Superior, sob a sistemática de recursos repetitivos, noREsp n. 1.498.034/RS, não é o que se observada leitura da decisão de fls. 150/158, cuja ementa é a seguinte:
+HABEAS CORPUS - PACIENTE DENUNCIADA PELAPRÁTICA DOS CRIMES DE DIFAMAÇÃO, CALÚNIA E FURTO DE COISA COMUM - SUSPENSÃO CONDICIONAL DO PROCESSO - FIXAÇÃO DE PRESTAÇÃO PECUNIÁRIA"" COMO UMA DAS CONDIÇÕES - POSSIBILIDADE - FACULDADE JUDICIAL CONFERIDA PELO §2ºDO ARTIGO 89 DA LEI Nº 9.099/95 - JUIZO DE CONFORMIDADE COM DECISÃO PROFERIDA EM SEDE DE RECURSO REPETITIVO - NECESSIDADE DE READEQUAÇÃO - WRIT REEXAMINADO NA FORMA PRECEITUADA NO ARTIGO 543-C, §72, II, DO CPC - ORDEM DENEGADA.
+Considerando que o Tribunal de origem conformou sua decisão ao entendimento fixado no referido recurso repetitivo, revogando a concessão da ordem de habeas corpus anteriormente concedida, que excluía a prestação pecuniária das condições facultativas para a suspensão condicional do processo, constata-se que o recurso especial perdeu seu objeto.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, julgo prejudicado o recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO PENAL. VIOLAÇÃO DOS ARTS. 647 E 648 DO CPP; E 89 DA LEI N. 9.099/1995. RECURSO PREJUDICADO. JUÍZO DE RETRATAÇÃO REALIZADO PELO TRIBUNAL DE ORIGEM. PERDA DO OBJETO.
+Recurso especial prejudicado.
