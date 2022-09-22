@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de recurso especial interposto por 5 À SEC DO BRASIL FRANCHISING LTDA., fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 16/08/2021.
+Concluso ao gabinete em: 10/09/2022.
+Ação: declaratória de resolução contratual cumulada com indenização por perdas e danos, ajuizada por TMI TRATAMENTO TÊXTIL LTDA. ME em face de 5 À SEC DO BRASIL FRANCHISING LTDA.
+Sentença: julgou parcialmente procedentes os pedidos iniciais para (I) declarar a rescisão contratual e (II) condenar a parte recorrente/ré ao pagamento de indenização no montante de R$ 1.238.561,00.
+Acórdão: por maioria de votos, deram provimento à apelação interposta pelarecorrente, julgando improcedentes os pedidos iniciais.
+Recurso especial: interposto pelo recorrido, foi conhecido e provido para reformar o acórdão e determinar o reestabelecimento da sentença.
+Embargos de declaração: opostos pela recorrente, foram parcialmente acolhidos para determinar o retorno dos autos ao Tribunal para o julgamentodaapelação da recorrenteno que tange à tese subsidiária de inconsistências relativas ao valor indenizatório.
+Acórdão: de maneira unânime, deu parcial procedência à apelação da recorrente, nos termos da seguinte ementa:
+Franquia - Rescisão do contrato - Ação declaratória e indenizatória - Decreto de parcial procedência - Julgamento anterior proferido por esta Câmara Reservada em que, por maioria de votos, foi dado provimento à apelação interposta pela requerida, dando por prejudicado recurso adesivo ajuizado pela autora - Recurso Especial interposto pela autora, ao qual foi dado provimento, por maioria de votos, no âmbito do STJ, restabelecendo o veredicto pronunciado em primeira instância - Embargos de Declaração opostos pela requerida em face do acórdão proferido no recurso especial parcialmente acolhidos, determinado o retorno dos autos a esta Corte, para prosseguimento do julgamento da apelação da requerida no tocante à alegação de inconsistências relativas ao valor da indenização por danos materiais - Novo julgamento agora proferido em que se adota, no tocante à fixação da indenização por danos materiais, o quanto proposto em voto anteriormente proferido pelo Desembargador Azuma Nishi - Determinação da realização de liquidação, com o fim de evitar potencial duplicidade ou inconsistência nas verbas - Apelo da requerida parcialmente provido. (e-STJ fls. 2351-2363)
+Recurso especial: alega violação ao art. 942 do CPC/2015.Sustenta que o segundo julgamento foi proferido em continuação ao primeiro e que, portanto, também deveria ter sido utilizada a técnica de julgamento ampliado para a fixação do quantum indenizatório.Alega ser incabível a aplicação do art. 942 do CPC/15 de forma parcial.Pugna pela anulação do acórdão recorrido e o retorno dos autos ao Tribunal de origem para novo julgamento pelo colegiado ampliado.
+Contrarrazões: requer a aplicação das penas de litigância de má-fé à recorrente.
+Juízo prévio de admissibilidade: o TJ/SP inadmitiu o recurso, dando azo à interposição do AREsp 2117439/SP, provido para determinar a conversão em recurso especial (e-STJ fl. 2.515).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de interesse recursal
+Insurge-se a recorrenteem relação à ausência de aplicação da técnica de ampliação do colegiado, prevista no art. 942 do CPC/15, quando do novojulgamento daapelação, anteo reestabelecimento da sentença em sede derecurso especial.
+No entanto, a questão meritória sequer pode seranalisada, pois ausente requisito de admissibilidade, qual seja, o interesse recursal (art. 17 do CPC/15).
+Conforme retratado nos autos (e-STJ fls. 2069-2072), a recorrente, em suas contrarrazões ao recurso especial e na sua apelação, requereu subsidiariamente que, mantida a sentença ou provido o recurso especial, fossem adotados os parâmetros indenizatórios fixados pelo voto divergente proferido no Tribunal de origem(e-STJ fl. 1919).
+Não obstante a interposição do presente recurso especial, tem-se que esse pedido foi acolhido pelo Tribunal de origem quando do novo julgamento da apelação.
+Na hipótese, recorda-se que a sentença condenou a recorrente (5 A SEC DO BRASIL FRANCHISING LTDA) a ressarcir a recorrida (TMI TRATAMENTO TÊXTIL LTDA) o montante de R$ 1.238.561,00.
+O Tribunal de origem reformou a sentença, por maioria, para julgar integralmente improcedentes os pedidos autorais, acolhendo a matéria prejudicial suscitada na apelação da ora recorrente e deixando, assim, de examinar os pedidos subsidiários veiculados no referido apelo.
+Interposto o REsp 2117439/SP pela recorrida, esta Corte decidiu pela reforma do acórdão e pelo reestabelecimento da sentença de procedência do pedido.
+Posteriormente, acolheram-se parcialmente os aclaratórios, com efeitos infringentes, para determinar o retorno do processo ao Tribunal de origem para o julgamento depedido subsidiário daapelação interposta pelarecorrente,que devolvia ao órgão julgador tão somentea discussão a respeitodoquantum indenizatório.
+Assim, em novo julgamento, realizado pelo colegiado originário, decidiu-se, por unanimidade, acolher os parâmetros indenizatórios fixados no voto divergente proferidono julgamento reformado, dando-se parcial provimento ao apelo da recorrente,nos seguintes termos:
+"Tendo em vista a declaração da resolução do contrato por culpa da franqueadora, o ressarcimento dos dispêndios é uma consequência lógica, cabendo seja feita sua quantificação, nos termos do contido no apelo da requerida e nos moldes do quanto decidido pela instância superior.(..)
+Ficam, então, no tocante aos danos materiais, acolhidas como razões de decidir o quanto estabelecido no voto proferido pelo Desembargador Azuma Nishi, nos termos acima reproduzidos, respeitado, no mais, o quanto decidido no acórdão proferido pela Colenda 3ª Turma do E. Superior Tribunal de Justiça."(e-STJ fl. 2363 efls. 1.757-1.758)
+Veja-se que o pedido subsidiário, ventilado na apelação da recorrente, e que motivou os aclaratórios nesta Corte, foi acolhido pelo Tribunal de origem.
+Logo, o cabimento ou nãoda técnica de ampliação do colegiado no novo julgamento da apelaçãonão pode ser analisado, pois ausente utilidade, para arecorrente, na prestação jurisdicional.
+Nesse sentido, corroboraa doutrina ser ônus da parte recorrente "demonstrar que o provimento jurisdicional pretendido será capaz de lhe proporcionar uma melhora em sua situação fática, o que será suficiente para justificar o tempo, a energia e o dinheiro que serão gastos pelo Poder Judiciário na resolução da demanda" (NEVES, Daniel Amorim Assumpção. Código de Processo Civil Comentado.7. ed. São Paulo: Juspodivm, 2022. p. 64).
+Por fim, em relação ao pleiteado em contrarrazões, tem-se ser descabida a incidência da multa por litigância de má-fé à recorrente, pois ausente intento protelatório no recurso.
+Forte nessas razões,NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, §11º, do CPC/2015, considerando o trabalho adicional imposto aos advogados da recorrida, em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 18% sobre o valor atualizado da condenação (e-STJ fl. 1.598) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESOLUÇÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR PERDAS E DANOS. INTERESSE RECURSAL. AUSENTE. UTILIDADE DO PROVIMENTO. INEXISTENTE. PREJUDICADA A ANÁLISE DO CABIMENTO DA TÉCNICA DEAMPLIAÇÃO DO COLEGIADO (ART. 942 DO CPC/15).
+1. Ação declaratória de resolução contratual cumulada com indenização por perdas e danos.
+2. Não háinteresse recursal quando evidenciada a inutilidade no provimento jurisdicional.
+3. Na hipótese, o acórdão recorridoacolheu o pedido da recorrente em relação à adoção doparâmetroindenizatório fixado no voto divergente.Logo, o cabimento ou não da técnica de ampliação do colegiado no novo julgamento da apelação não pode ser analisado, pois ausente utilidade, para a recorrente, na prestação jurisdicional.
+4. Recurso especial não conhecido.
