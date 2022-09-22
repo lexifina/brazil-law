@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre oJuízo Federal da 1ª Vara de Vitória da Conquista- SJ/BA,o suscitante, e oJuízo Federal da 2ª Vara Criminal de Ribeirão Preto - SJ/SP,o suscitado.
+Versam os autos sobre a execução da pena imposta a Leônidas Almeida Nunes, condenado peloJuízo Federal da 2ª Vara Criminal de Ribeirão Preto - SJ/SPao cumprimento da pena de1 anode reclusão, em regime aberto, a qualfoi substituída por pena restritivade direitos (Processo n. 0003046-72.2018.4.03.6102).
+Considerando que o apenado já possui execução de pena mais antiga em andamento, sob o n. 0000737-59.2010.4.01.330, na 1ª Vara Federal de Vitória da Conquista - SJ/BA, o Juízo Federal da 2ª Vara Criminal de Ribeirão Preto - SJ/SP remeteu os autos àquele Juízo para unificação das penas(fl. 78).
+Recebidos os autos, o Juízo Federal da 1ª Varade Vitória da Conquista - SJ/BAsuscitou o conflito, sobseguinte fundamento (fls. 3/5):
+ ..
+A competência para o processo e julgamento da execução penal encontra-se disciplinada na Lei nº 7.210/1984, nos seguintes termos:
+ ..
+A Resolução nº 280/2019, editada pelo CNJ, uniformizou o processamento das execuções penais, mediante o estabelecimento de diretrizes e parâmetros específicos, e instituiu o Sistema Eletrônico de Execução Unificado - SEEU.
+Contudo, a referida Resolução não alterou a competência para o processamento das referidas execuções. Primeiro, porque a Resolução não tratou da fixação da competência; em segundo lugar, compete à União legislar sobre direito processual. Nesse ponto, vale destacar que, embora haja certa controvérsia sobre a natureza jurídica da execução penal, prevalece a atividade jurisdicional, que se relaciona ao direitoprocessual, razão pela qual a competência para legislar pertence à União, nos termos do art. 22, I, da CRFB.
+Portanto, a instituição do Sistema Eletrônico de Execução Unificado - SEEU ou o domicílio do Reeducando ou execução anterior não são critérios para fixação ou alteração da competência para o processamento da execução penal. Nesse sentido, já decidiu o Tribunal Regional Federal da Primeira Região:
+ ..
+Considerando, portanto, que o Juízo da Execução Penal originário declarou-se incompetente, com base na Resolução nº 280/2019 do CNJ, no domicílio do Reeducando e na instituição do Sistema Eletrônico de Execução Unificado - SEEU, bem como na existência de execução penal mais antiga, ficou caracterizado o conflito negativo de competência, nos termos do art. 114, I, do CPP.
+ ..
+Instado a se manifestar, o Ministério Público Federal opinou pela declaração de competência do Juízo suscitado, conforme a seguinte ementa (fls. 98/108):
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃOPENAL. COMPETÊNCIA DO JUÍZO DA CONDENAÇÃO.
+1. À luz do art. 65 da Lei 7.210/1984, a Terceira Seção dessa Corte Superior possui entendimento firmado no sentido de que a execução penal compete ao juízo da condenação. Precedentes. Ademais, " o  cumprimento da execução penal deve levar em conta não apenas as conveniências pessoais e familiares do preso, mas também os da Administração Pública, sendo condicionada à transferência legal, com prévia consulta de existência de vagas e anuência do Juízo consultado" (CC167.064/SC, Rel. Ministro JOEL ILAN PACIORNIK,TERCEIRA SEÇÃO, julgado em 28/08/2019, DJe06/09/2019).
+2. Parecer pela fixação da competência Juízo Federal da 2ªVara Criminal de Ribeirão Preto - SJ/SP, suscitado, para a execução da pena do condenado.
+É o relatório.
+Inicialmente, cumpre esclarecer que o conflito cinge-se à competência para unificação das penas restritivas de direitos impostas ao reeducandopor juízos diversos e não à declinação de competência em razão de seu domicílio.
+Pois bem. Sobrevindo nova condenação no Juízo Federal, ainda que para o cumprimento de pena substitutiva, é de rigor a submissão dessa execução ao Juízo em que iniciada a primeira execução, a fim de que ele avalie a possibilidade de cumprimento cumulativo das penas ou da necessidade de unificação.
+No caso, a primeira execução foi iniciada no Juízo Federal da 1ª Varade Vitória da Conquista - SJ/BA, circunstância que firma sua competência para o processamento de ambas.
+Nesse sentido, confiram-se:
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO E UNIFICAÇÃO DE PENAS ORIUNDAS DE JUÍZOS DE ENTES FEDERATIVOS DIFERENTES. COMPETÊNCIA DO JUÍZO DO LOCAL ONDE O REEDUCANDO INICIOU O CUMPRIMENTO DA PENA.
+1. O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal - CF.
+2. O caso em análise não trata de mero cumprimento de mandado de prisão expedido por Juízo de Comarca diversa, mas sim de reeducando que possui mais de uma condenação impostas por Juízos de diferentes entes federativos.
+3. Na espécie, o reeducando foi condenado primeiramente na comarca do Novo Gama/GO, por sentença prolatada no dia 30/3/2015, pela prática de tentativa de roubo majorado, contudo não chegou a iniciar o cumprimento da pena por não ter sido localizado. Após mais de dois anos, foi condenado, por sentença exarada em 2/8/2017 pelo Juízo de Direito da Vara Criminal e Tribunal do Júri de Recanto das Emas pela prática de dois roubos majorados em continuidade delitiva. O magistrado prolator da segunda sentença condenatória manteve a prisão preventiva para a garantia da ordem pública, recomendando o acusado na prisão em que se encontrava. Assim, o apenado deu início ao cumprimento da pena no Distrito Federal, onde inclusive progrediu de regime.
+4. O núcleo da controvérsia consiste em identificar o Juízo competente para a execução e unificação das penas. Se o juízo da primeira condenação, o qual sequer deu início à execução penal em razão da fuga do réu, ou juízo do local em que ocorreram outras duas condenações e o onde o réu efetivamente iniciou o cumprimento de pena.
+5. O Superior Tribunal de Justiça já se pronunciou no sentido de que, no caso de reeducando condenado em diversas unidades judiciárias, o juízo competente para o conhecimento, fiscalização e acompanhamento da execução é o do local onde o apenado cumpre pena.
+"Competente é o Juízo da execução em que o reeducando cumpre a reprimenda, para conhecer das demais execuções e apreciar eventuais incidentes referentes ao procedimento de execução penal" (CC 151.849/GO, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, DJe 22/6/2017).
+6. Ademais, "a jurisprudência desta Corte firmou a compreensão de que a transferência da execução da pena não pode ser determinada de maneira unilateral: é necessária a prévia consulta ao juízo para o qual o sentenciado pretende ser transferido, notadamente a fim de se verificar a disponibilidade de vagas ou de condições adequadas para o cumprimento da reprimenda no sistema prisional local" (AgRg no CC 150.563/CE, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 2/10/2018).
+7. Conflito conhecido para declarar competente o Juízo de Direito da Vara de Execuções Penais do Distrito Federal.
+(CC n. 176.339/GO,Ministro Joel Ilan Paciornik, Terceira Seção,DJe de 5/4/2021)
+PROCESSUAL PENAL. EXECUÇÃO PENAL. CONFLITO DE COMPETÊNCIA. REEDUCANDO CONDENADO EM DIVERSAS UNIDADES JUDICIÁRIAS. JUÍZO COMPETENTE PARA CONHECIMENTO, FISCALIZAÇÃO E ACOMPANHAMENTO DA EXECUÇÃO PENAL. JUÍZO EM QUE O APENADO CUMPRE A REPRIMENDA.
+I - Execução penal que não teve sua gênese no Juízo suscitado, estando o apenado cumprindo pena em ambos os juízos, ora conflitantes, em virtude de sentença penal condenatória.
+II - Competente é o Juízo da execução em que o reeducando cumpre a reprimenda, para conhecer das demais execuções e apreciar eventuais incidentes referentes ao procedimento de execução penal.
+Conflito de competência negativo conhecido para declarar competente o Juízo de Direito da Vara Criminal de Novo Gama/GO.
+(CC n. 151.849/GO, Ministro Felix Fischer, Terceira Seção, DJe de 22/6/2017)
+Ante o exposto, conheço do conflito para declarar competente o Juízo Federal da 1ª Varade Vitória da Conquista - SJ/BA, o suscitante, para executar as penas impostas ao apenado Leônidas Almeida Nunes, inclusive para decidir sobre eventual unificação.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENAS RESTRITIVAS DE DIREITOS.EXECUÇÃO INICIADA NA JUSTIÇA FEDERAL DE VITÓRIA DA CONQUISTA - SJ/BA. SUPERVENIÊNCIA DE NOVA CONDENAÇÃO NA JUSTIÇA FEDERAL DE RIBEIRÃO PRETO - SJ/SP. COMPETÊNCIA PARA AVALIAR A NECESSIDADE DE UNIFICAÇÃO ESTABELECIDA EM FAVOR DO JUÍZO NO QUAL TEVE INÍCIO A PRIMEIRA EXECUÇÃO PENAL. PRECEDENTES DO STJ.
+Conflito conhecido para declarar a competência do Juízo Federal da 1ª Vara de Vitória da Conquista - SJ/BA, o suscitante,para executar as penas impostas ao apenado Leônidas Almeida Nunes, inclusive para decidir sobre eventual unificação.
