@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto por SWAMI VIVECKANANDA DA SILVA MORAES contra a decisão do Tribunal de Justiça do Estado de Pernambuco, que negou seguimento ao recurso especial, fundamentado no art. 105, inciso III, alínea a, da Constituição da República, manifestado contra o acórdão prolatado na Revisão Criminal n.530893-4.
+Consta dos autos que o Agravante foi condenado pelas sanções previstas no art. 121, § 2.º, incisos I e IV, do Código Penal, às penas de 17(dezessete) anos de reclusão, a ser cumprida em regime inicial fechado.
+Irresignada, houve a interposição de pedido revisional pela Defesa, a fim de que fosse cassada a decisão condenatória e, consequentemente, absolvido o Acusadoe, subsidiariamente, a designação de nova sessão de julgamento, com a expedição de alvará de soltura.
+O Tribunal de origem conheceu parcialmente o pedido e, neste ponto, indeferiu a revisão criminal. O acórdão recorrido ficou assim ementado (fl. 40):
+"PENAL E PROCESSUAL PENAL. REVISÃO CRIMINAL. ART. 621, I E III, DO CPP. AUSÊNCIA DE INDICAÇÃO DE QUALQUER NOVA PROVA OU DE CIRCUNSTÂNCIA QUE ENSEJE A DIMINUIÇÃO ESPECIAL DA PENA. REVISIONAL NÃO CONHECIDA QUANTO AO INCISO III DO ART. 621, DO CPP. PEDIDO DE CASSAÇÃO DO PROVIMENTO CONDENATÓRIO. CONDENAÇÃO BASEADA APENAS EM TESTEMUNHOS INDIRETOS. INOCORRÊNCIA. REITERAÇÃO DOS ARGUMENTOS DA APELAÇÃO. PEDIDO DE REVISÃO PARCIALMENTE CONHECIDO E, NESTE PONTO, INDEFERIDO. DECISÃO UNÂNIME.
+1. A ausência de indicação da descoberta, após a sentença, de qualquer nova prova de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena, impede que a revisional seja conhecida pelo inciso III do art. 621 do CPP;
+2. A decisão rescindenda não se ampara somente em testemunhos de "ouvir dizer", consoante se depreende dos excertos do julgamento da apelação do processo originário, transcritos pelo próprio requerente;
+3. Havendo segmento de prova que ampare a condenação, não há que se cogitar em decisão contrária à evidência dos autos. A revisão criminal não tem natureza de segunda apelação, não se prestando ao mero reexame de provas. Eventual fragilidade das provas produzidas não autoriza o deferimento da revisão criminal;
+4. A mera reiteração de argumentos, à míngua da manifesta contrariedade às provas dos autos, não enseja o deferimento do pedido revisional;
+5. Pedido de revisão parcialmente conhecido e, neste ponto, indeferido. Decisão unânime."
+Opostos embargos de declaração, os quais não foram acolhidos (fls. 77-89).
+Nas razões do recurso especial, aduz a Defesa, em síntese, o malferimento aos arts. 7.º, 8.º e 11do Código de Processo Civil, e aos arts. 381, incisoIII,386, incisos V e VII e 617 do Código de Processo Penal, em que se pleiteia a absolvição do Agravante.
+A esse respeito, assevera queo julgamento do Conselho de Sentença é manifestamente contrário à prova dos autos, na medida em que a decisão dos jurados acerca da autoria se baseou em testemunho indireto ou de "ouvi falar".
+Oferecidas contrarrazões (fls. 115-128). Negado o seguimento do recurso especial (fls. 131-133), adveio o presente agravo (fls. 138-144), contraminutado às fls. 148-161.
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 176-183).
+É o relatório.
+Decido.
+Evidenciada a viabilidade do agravo, prossegue-se na análise do recurso especial.
+O debate em questão tem origem em revisão criminal, ajuizada com base no art. 621, incisos I e III, do Código de Processo Penal (fl. 2).
+Como cediço, a Revisão Criminal é ação penal autônoma, de caráter desconstitutivo, de titularidade exclusiva da defesa, possuindo fundamentação vinculada, ou seja, somente pode ser proposta nos estritos casos autorizados pela lei e sem perder de vista o seu caráter excepcional, já que implica na desconstituição da coisa julgada, garantia assegurada por norma de caráter constitucional.
+Deste modo, tal recurso "não deve ser utilizada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade e cinge-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, a dispensar a interpretação ou a análise subjetiva das provas produzidas"(HC 500.655/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ Acórdão Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/09/2019, DJe 11/10/2019).
+Entretanto, da leitura das razões do recurso especial, verifica-se que o Agravante não indicou, de forma clara,específica e direta, a afronta ao art. 621, do Código de Processo Penal, evidenciando o nítido caráter de rejulgamento da presente causa, o que consubstancia óbice à análise do apelo nobre por deficiência na fundamentação, incidindo, na hipótese, o disposto no enunciado n.284 da Súmula do Supremo Tribunal Federal.
+Nesse sentido, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO EM RECURSO ESPECIAL. PENAL. PROCESSO PENAL. REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO DO ART. 621 DO CPP. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+1. Não há como abrigar agravo regimental que não logra de fundamento da decisão atacada.
+2. Agravo regimental improvido." (AgRg no AREsp n. 1.917.920/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 15/3/2022 - grifo nosso.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO - ART. 621 E INCISOS DO CÓDIGO DE PROCESSO PENAL. SÚM. 284/STF. FUNDAMENTO INATACADO. SÚM. 182/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. VIA INADEQUADA. PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR DUAS RESTRITIVAS DE DIREITOS DE IGUAL DURAÇÃO. LEGALIDADE. RECURSO DESPROVIDO.
+1. As razões do especial não trazem nenhuma argumentação referente aos fundamentos (requisitos) da revisão criminal elencados no art. 621 do Código de Processo Penal, mostrando-se deficientemente fundamentado (Súmula 284/STF).
+2. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+3. Inviável a apreciação de matéria constitucional por esta Corte Superior, porquanto, por expressa disposição da própria Constituição Federal (art. 102, inciso III), se trata de competência reservada ao Supremo Tribunal Federal.
+4. As penas restritivas de direito devem ser impostas no prazo previsto para a pena privativa de liberdade, não havendo ilegalidade na fixação de cada prestação de serviços à comunidade pelo tempo previsto para a pena privativa de liberdade, devendo, cada qual, observar o parâmetro do art. 46, § 3º, do Código Penal.
+5. Agravo regimental a que se nega provimento." (AgRg no AREsp n. 1.947.310/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/10/2021 - grifo nosso.)
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. REVISÃO CRIMINAL. VIOLAÇÃO DE PRECEITO CONSTITUCIONAL, DESCABIMENTO. VIOLAÇÃO DO ART. 386, VII, DO CPP. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. DISPOSITIVO QUE NÃO OSTENTA COMANDO NORMATIVO SUFICIENTE PARA RESPALDAR A TESE RECURSAL (ILEGALIDADE NO INDEFERIMENTO DO PLEITO REVISIONAL). AUSÊNCIA DE INDICAÇÃO, CLARA E ESPECÍFICA, DE VIOLAÇÃO DO ART. 621 DO CPP.
+Agravo regimental improvido." (AgRg no AREsp n. 1926664/MG, Rel. Ministro SEBASTIÃO REI JÚNIOR, SEXTA TURMA, DJe 22/10/2021 - grifo nosso.)
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. REVISÃO CRIMINAL. AUSÊNCIA DE INDICAÇÃOCLARA,ESPECÍFICA E DIRETA DA AFRONTA AO ART. 621 DO CPP. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
