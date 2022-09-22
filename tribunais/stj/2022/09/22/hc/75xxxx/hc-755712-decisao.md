@@ -1,0 +1,15 @@
+DECISÃO
+RENAN AGRASSAR PINHEIRO alega sofrer coação ilegal em face de acórdão do Tribunal a quo (HC n.0040870-19.2022.8.19.0000).
+A defesa busca o relaxamento da custódia, por excesso de prazo, sob asalegaçõesde que o réu está preso desde 12/3/2021 e que, ao longo de1 ano e 4 meses de segregação, não foi realizada nenhuma audiência de instrução e julgamento.
+Requer, em liminar e no mérito, a expedição de alvará de soltura.
+A liminar foi indeferida e as informações foram prestadas.
+O Ministério Público Federal opinou pelo não conhecimento do mandamus ou, caso conhecido, pela denegação da ordem.
+Decido.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Quanto ao tema,"uníssona é a jurisprudência no sentido de que ailegalidade da prisão por excesso de prazo só pode ser reconhecida quandoa demora for injustificada, impondo-se adoção de critérios derazoabilidade no exame da ocorrência indevida coação" (AgRg no HC n.711.679/SP, Rel. MinistroOlindo Menezes-Desembargador convocado do TRF1ª Região -, 6ª T., DJe 11/3/2022).
+O paciente foi acusado por suposta incursão no art. 121, § 2º, IV, na forma do art. 14, II (por duas vezes), ambos do Código Penal. O Juiz recebeu a denúncia, em 17/7/2018, e determinou a prisão preventiva do réu, cumprida no dia 12/3/2021. Designou-se a audiência de instrução e julgamento para o dia 15/12/2021, a qual foi redesignada para a data de 30/5/2022, porque os autos estavam em processo de digitalização. A audiênciamarcada para 30/5/2022 não aconteceuporque o acusado não foi apresentado, mas, em pesquisa no sistema eletrônico da Corte de origem, constatou-se que, em 31/8/2022, o Magistrado de primeiro grau ouviuuma testemunha e designou o dia 28/9/2022 para realização de audiência de instrução e julgamento.
+Portanto, não é absurdo o prazo da custódia cautelar, que perdura desde 12/3/2021. Ademais, a se considerar que já foi realizada audiência de instrução, percebe-se que está próxima a data de finalização do judicium accusatione e não se verifica a demora injustificada para a conclusão da instrução criminal.
+Aplica-se ao caso o entendimento de que "Eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional" (AgRg no HC n. 717.921/SP, Rel. Ministro Reynaldo Soares Da Fonseca, 5ª T., DJe 25/3/2022).
+Assim,não constato, por ora, ofensa aos princípios da razoabilidade e daproporcionalidade a fim de malferir o caráter deprovisoriedade da prisão,porquanto razoável o lapso temporal decorrido em virtude das peculiaridades do caso concreto, o que afasta a supostaalegação de incúria na prestação jurisdicional.
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
