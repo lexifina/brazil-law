@@ -1,0 +1,8 @@
+DECISÃO
+SUPERVIA CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S/A - EM RECUPERAÇÃO JUDICIALreitera, às fls. 414/430, pedido já formulado às fls. 291/403, para que seja suspensa a demanda em razão da celebração de dois Termos de Ajustamento de Condutacelebrados com oParquetfluminense, a fim de executar as obras de acessibilidade nos trens e estações do Município do Rio de Janeiro, bem como até que seja proferida decisão definitiva, no REsp 2.002.661/RJ, acerca da prejudicialidade entre ação coletiva e as ações individuais.
+É o breve relato.
+Da leitura dos autos, verifica-se que o presente recurso decorre de agravo de instrumento interposto perante o Tribunal de Justiça do Estado do Rio de Janeiro contra decisãodo Juízo de primeiro grau que deferiu tutela provisória de urgência, em que se determinou à Supervia que promova as adequações necessárias impostas pela lei de Acessibilidade e pelo Estatuto da Pessoa com Deficiência,com a instalação de elevador, esteira, plataforma ou similar, que possibilite o embarque e desembarque da Agravada na estação de Nilópolis.
+Em consulta realizada no sítio eletrônico do Tribunala quo, nota-se que o Juízo de piso determinou a suspensão do feito, em virtude da existência da celebração de Termo de Ajustamento de Conduta.
+Nesse panorama, resta evidente que, em razão de fato superveniente, o provimento jurisdicional almejado pela parte que interpôs o presente recurso tornou-se inútil, pois esvaziadoo interesse recursal que visava demonstrar a inexistência dos requisitos necessários à antecipação dos efeitos da tutela vindicada.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
