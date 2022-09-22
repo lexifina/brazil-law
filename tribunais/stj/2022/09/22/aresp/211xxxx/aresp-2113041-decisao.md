@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO contra decisão proferida pelo Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu o seu recurso especial.
+Consta dos autos que oagravado foi condenadocomo incursonos arts. 33, caput, c/c art. 40, IV, da Lei n. 11.343/2006, àpenade 7 anos, 5 meses e 25 dias de reclusão noregime inicial fechado.
+Interposta apelação pela defesa, a insurgência findou provida e apenaredimensionadapara 2 anos e 5 meses de reclusão no regime inicial aberto, substituindo-se a pena corporal por restritivas de direito.
+Contra essa decisão o Parquetestadual manejourecurso especial com fulcro na alínea a do permissivo constitucional, inadmitido diante da ausência de prequestionamento, aplicando-se os óbices das Súmulas 282 e 356/STF, e 211/STJ.
+Neste recurso alega o agravante a inaplicabilidade dos impedimentos sumulares evocados, e que deveser reconhecida a reincidência,inobstante não haja pedido nesse sentido na denúncia, notadamente diante do ilegalidade de seu afastamento da dosimetria.
+O MPF manifestou-se pelo conhecimento do agravo para dar provimento ao recurso especial(e-STJ fls. 608/614).
+É o relatório.
+Devidamente impugnada a decisão combatida, merece exame o inconformismo.
+Nas razões do recurso especial, alega-se a violação dos arts. 61, I, do Código Penal, e 385do Código de Processo Penal, sob o argumento de que o reconhecimento e a aplicação da agravante pela reincidência independe de prévio requerimento na exordial acusatória.
+Alega que a reiteração findou inconteste nos autos, tendo sido, inclusive, reconhecida pelo Tribunal a quo, porém ilegalmente afastada.
+Ao final, pugna pelo provimento do recurso especial para o fim de reconhecera reincidência, com o restabelecimento integral da r. sentença condenatória.
+Apreciadas as razões do agravo em recurso especial e a par dos fundamentos declinados pelo Tribunal de origem por ocasião do juízo de admissibilidade ali realizado, constata-se que o recurso especial interposto, de fato, não merece conhecimento.
+No que diz respeito àagravanteda reincidência, o Tribunal local assim se manifestou (e-STJ fls. 465):
+ .. na etapa intermediária de calibragem sancionatória, porquanto deve ser descartada a agravante da reincidência suscitada, com base na anotação nº 02 da F. A. C. (fls. 279), juntada antes d a prolação da Sentença, ao arrepio do Contraditório e do respeito ao devido processo legal, porque sem que se oportunizasse, como era processual e constitucionalmente devido, a prévia ciência às partes sobre tal teor, de modo a respeitar não só aqueles primados, como também o da amplitude do exercício do direito de defesa, os quais, tendo sido assim maculados, provocaram o seu não aproveitamento, e o que igualmente importou no malferimento do disposto no art. 10 do novo C.P.C., aqui aplicável mercê da sua combinação com o art. 3º, do C.P.P ..
+Desse modo, conclui-se quetese de violação dos arts. 61, I, do CP, e 385, do CPPnão foi objeto de debate pela instância a quo, não tendo sido sequer opostos embargos de declaração para suscitar o tema, inviabilizada assim sua análise nessa via, por falta de prequestionamento, atraindo os óbices das Súmulas ns. 282 e 356 do STF.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OPERAÇÃO ANDRÔMINA. CRIMES CONTRA A ORDEM TRIBUTÁRIA. SEQUESTRO DE BENS. ALEGADA INSUFICIÊNCIA PROBATÓRIA. SÚMULA 7/STJ. NULIDADE PELA FALTA DE INDIVIDUALIZAÇÃO. SÚMULAS 282 E 356/STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. O acórdão recorrido apresentou vasta fundamentação para concluir pela existência de indícios de que os bens bloqueados não pertenciam, na realidade, à ora recorrente, a qual era utilizada como intermediária ("laranja") para ocultar a propriedade do patrimônio de seu marido e, assim, dificultar a responsabilização criminal deste. Logo, a Súmula 7/STJ obsta o conhecimento do recurso especial no ponto.
+2. O indeferimento do pedido da PGFN por falta de provas em sede de execução fiscal, para a inclusão da ora agravante no polo passivo daquela lide, não vincula o juízo penal no momento de decretação do sequestro.
+3. Carece de prequestionamento a alegada nulidade do aresto pela falta de individualização dos bens bloqueados, já que não foi objeto de análise pelo TRF. Tampouco foram opostos embargos de declaração para buscar o pronunciamento da Corte de origem sobre o tema, já que os aclaratórios de fls. 4.523-4.525 (e-STJ) veicularam assuntos diversos. Incidência das Súmulas 282 e 356/STF.
+4. A transcrição de trecho da decisão que inadmitiu o recurso extraordinário na origem (e que, ademais, sequer emitiu juízo de valor sobre o tema) não serve para a comprovação do prequestionamento, que deve constar no acórdão recorrido.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.085.158/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/6/2022, DJe de 14/6/2022.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE FURTO PRIVILEGIADO. SUBSTITUIÇÃO DA PENA DE RECLUSÃO POR DETENÇÃO. ALEGAÇÃO DE DESRESPEITO À SÚMULA 444/STJ E OCORRÊNCIA DE BIS IN IDEM. PREQUESTIONAMENTO. AUSÊNCIA. ÓBICE DA SÚMULA 518/STJ.
+1. No tocante às alegações de que "a existência de processos em curso não se presta a incrementar a pena imposta ao réu" (e-STJ fl. 260) e de que haveria bis in idem em relação à análise desfavorável da qualificadora do concurso de pessoas, as teses não foram debatidas de forma específica na origem sob o viés pretendido pela parte recorrente e não houve a oportuna provocação de seus exames por meio de embargos de declaração, inexistindo o requisito do prequestionamento. Incidência das Súmulas n. 282 e 356/STF.
+2. Não é possível arguir violação de enunciado sumular, mediante substituição do paradigma legal, conforme dispõe a própria Súmula 518/STJ.
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.937.456/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 8/3/2022, DJe de 14/3/2022.)
+Por tais razões, conheço doagravo para nãoconhecer dorecurso especial, nos termos do art. 34, VII, c/c o art. 253, parágrafo único, II, a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se.Intimem-se.
