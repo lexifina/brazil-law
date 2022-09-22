@@ -1,0 +1,40 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por BANCO DO ESTADO DO RIO GRANDE DO SUL SAem face de acórdão do TJRS que, nos autos de açãorevisional de contrato de mútuo bancário,deu parcial provimento ao agravo interposto por ROSA MARIA DE PAULA LEITE DOS SANTOS para determinar à recorrente que junte aos autos cópia de todos os contatos firmados entre as partes, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS.
+Uma vez tempestivo o agravo de instrumento, não merece acolhimento a preliminar que cogita ter sido protocolado a destempo o recurso.
+A decisão que delibera sobre o deferimento de prova pericial, em litígio que está na fase de acertamento do direito, não é passível de insurgência via agravo de instrumento, porquanto não se insere em nenhuma das hipóteses do art. 1015 do atual CPC.
+Eem ação de revisão de contrato bancário mostra-se é viável a determinação judicial compelindo à instituição bancária a apresentar documentos, militando em favor da parte autora o princípio da facilitação da defesa do consumidor, que permite a inversão do ônus da prova (art. 6º, VIII, do CDC) e, por consequência, impõe à parte adversa o dever de demonstrar que as alegações do requerente não correspondem à verdade, incidindo, ainda, o Princípio da Carga Dinâmica da Prova.
+Quanto à incidência do artigo 400 do CPC, na eventual hipótese de obrigação não ser atendida, caberá ao juiz, na sentença, valorar este fato, com aplicação ou não do teor do citado artigo de lei.
+AGRAVO DE INSTRUMENTO PARCIALMENTE CONHECIDO E PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, interposto com fundamento nas alíneasaecdo permissivo constitucional, a recorrente apontou, além do dissídio jurisprudencial, ofensa aos seguintes dispositivos: (i) art. 489, § 1º, IV,do CPC, em razão da omissão do acórdão recorrido em apreciar as razões dos embargos de declaração, notadamente a ocorrência de preclusão lógica, em decorrência da prática de ato incompatível com a vontade de agravar; (ii) art. 507 do CPC, alegando que ocorReu, na espécie, a preclusão lógica, com a interposição do agravo junto ao órgão jurisdicional incorreto.
+Contrarrazões ao recurso especial às fls. 98/100.
+É o relatório.
+Passo a decidir.
+A recorrente aponta omissão relevante no acórdão exarado pelo Tribunal deorigem, e consequentemente negativa de prestação jurisdicional, dada a ausência de manifestação da citada Corte sobre matériaque constou dos embargos de declaração opostos em face do acórdãoproferido pelo Tribunal a quo.
+Come efeito, a parte recorrente referiu, em contrarrazões ao agravo deinstrumento interposto pela recorrida, que o agravo não mereceria ser conhecido em razão da ocorrência de preclusão lógica, decorrente da anterior prática de ato contrário ao interesse em recorrer.
+Verifica-se, de fato, que o acórdão recorrido é omisso no que tange à citadapreclusão lógica, haja vista que se limitou a referir que "a parte recorrente foi intimada da decisão recorrida no Evento 52 do processo, findando o prazo recursal em 05/04/2021, sendo protocolada a petição em 23/03/2021" (e-STJ, fl.52), tendo, ainda, rejeitado os embargos de declaração ao fundamento de que "a pretensão posta, nesse sentido, caracteriza-se como rediscussão da matéria, o que é inviável em sede de embargos de declaração" (e-STJ, fl. 74).
+Neste contexto, constata-se que a Corte de origem deixou de sepronunciar sobre ponto relevante ao deslinde da controvérsia, qual seja, ainvocada preclusão lógica do agravo pela prática de anterior ato incompatível com o interesse de recorrer.
+Havendo omissão relevante, e diante da necessidade de se aferir a efetivaocorrência da preclusão suscitada pela parte recorrente,sob pena de ausência de prestação jurisdicional e supressão de instância,é caso de reconhecer a nulidade da decisão, determinando-se o retorno dosautos à origem, para que outra seja proferida, com devido enfrentamento doponto controvertido e suscitado.
+Nesse sentido, mutatis mutandis (sem grifo no original):
+AGRAVO INTERNO NO RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO EMAGRAVO REGIMENTAL. POSSIBILIDADE. CPC/1973. TEMPESTIVIDADE. INDENIZAÇÃOPOR DANO MORAL. MATÉRIA JORNALÍSTICA. PROCEDÊNCIA DO PEDIDO. APELAÇÃO DEAMBAS ASPARTES. FALECIMENTO DO AUTOR. SUBSTITUIÇÃO PROCESSUAL. AUSÊNCIADE HABILITAÇÃO DO ESPÓLIO. NÃO CONHECIMENTO DAS APELAÇÕES. EMBARGOSDE DECLARAÇÃO REJEITADOS. OMISSÃO CONFIGURADA. VIOLAÇÃO DO ART. 535DO CPC/73. AGRAVO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Possibilidade de comprovação da tempestividade recursal por ocasiãoda interposição do agravo interno nos casos de recurso manejado sob aégide do Código de Processo Civil de 1973. Reconsideração.
+2. A ausência de manifestação sobre questão relevante para o julgamentoda causa, mesmo após a oposição de embargos de declaração, constituinegativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015,art. 1.022, II), impondo-se a anulação do acórdão dos embargos dedeclaração e o retorno dos autos ao Tribunal de origem para quese manifeste sobre o ponto omisso.
+3. Hipótese em que o Tribunal de origem, reconhecendo a ausência depressuposto válido para o prosseguimento da ação, em razão da mortedo autor e da ausência de habilitação do espólio, limitou-se a nãoconhecer das apelações interpostas pelas partes, deixando de se pronunciaracerca da eventual extinção do processo e demais questões arguidas emembargos de declaração. Existência de omissão relevante.
+4. Agravo interno provido para dar provimento ao recurso especial.
+(AgInt no REsp 1431860/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA,julgado em 10/08/2020, DJe 26/08/2020)
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUALCIVIL. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOSSUCUMBENCIAIS. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO. OFENSA AOS ARTS. 489 E1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. CONFIGURAÇÃO. RETORNO DOSAUTOS.
+1. Recurso especial interposto contra acórdão publicado na vigênciado Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+2. Configurada a ofensa aos arts. 489 e 1.022 do Código de ProcessoCivil de 2015, tem-se correto o parcial provimento do recursoespecial interposto pela agravada em virtude da necessidade de que otribunal de origem se manifeste acerca das questões suscitadas nosembargos de declaração ante a relevância da omissão apontada.
+3. Agravo interno não provido.
+(AgInt no AgInt no REsp 1829014/SP,Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em20/04/2020, DJe 27/04/2020).
+Portanto, sendo potencialmente relevante a questão,impõe-se a acolhida do recurso especial para se reconhecer a omissãodo julgado quanto ao referido ponto e determinar a devolução dos autosà origem para a apreciação do tema omitido. Tratando-se de matéria queenvolve elementos fáticos-probatórios, insuscetível de ser objetode prequestionamento ficto, nos moldes do art. 1.025 do CPC/2015, e,portanto, de ser, desde logo, julgada por esta CorteSuperior. Prejudicada a análise dos demais tópicos suscitados no recursoespecial.
+Ante o exposto, com base no art. 932, V, do CPC/2015 c/ca Súmula 568/STJ, CONHEÇO EDOU provimento ao recurso especial da parte autora, para determinar oretorno dos autos ao Tribunal de origem para que seja sanada a omissãoindividualizada na fundamentação da presente decisão.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃOREVISIONAL DE CONTRATO DE MÚTUO BANCÁRIO. ALEGAÇÃO DE OFENSA AOART. 489 DO CPC/15.CONFIGURAÇÃO DE OMISSÃO RELEVANTE. .
+1. A decisão recorrida que não se manifesta acerca de tema relevante aodeslinde da controvérsia e com potencial de alteração do resultado -preclusão lógica do direito de recorrer- é omissa,acarretando negativa de prestação jurisdicional. Art. 489, §1º, IV, do CPC.
+2. Nulidade que se reconhece,determinando-se o retorno dos autos à origem, para rejulgamento.
+3. RECURSO ESPECIAL PROVIDO.
