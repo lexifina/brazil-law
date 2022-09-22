@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de CLAUDIO HENRIQUE BUENO, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo, no julgamento do HC n.2216991-67.2022.8.26.0000.
+Consta dos autos que o paciente foi preso em flagrante e teve a custódia convertida em preventiva, sendo denunciado pela suposta prática dos crimes tipificados no art. 304, c/c o art. 297, caput, e no art. 171, caput, c/c o art. 14, II, todos do Código Penal, em concurso formal próprio.
+Posteriormente,a Corte estadual deferiu a liminar para revogar a prisão preventiva, mediante a aplicação de medidas cautelares alternativas.
+Nesta via, os impetrantes sustentam a ocorrência de nulidade absoluta, tendo em vista a "ausência de citação pessoal do paciente para ver-se processar e, assim, exercer diversos direitos, entre eles a autodefesa" (e-STJ fl. 5), impondo-se a concessão da ordem de ofício.
+Aduzem que o oficial de justiça não teria conseguido citar pessoalmente o paciente no presídio, pois já havia sido libertado, e em seguida o Juiz de primeiro grau o teria dado por citado, mandando intimar a defesa técnica para apresentar resposta à acusação.
+Alegam que o réu teria contratado advogados quando de sua prisão em flagrante, mas que a atuação dos causídicos "antes da denúncia não supre a ausência de citação, pois não denota, de maneira inequívoca, que o paciente tomou conhecimento da acusação e, voluntariamente, renunciou à autodefesa" (e-STJ fl. 7).
+Requerem, liminarmente e no mérito, a concessão da ordem para que seja determinadaa citação pessoal do paciente.
+É o relatório. Decido.
+A jurisprudência deste Superior Tribunal de Justiça firmou-se no sentido de que, "ausente teratologia ou evidente ilegalidade na decisão impugnada capaz de justificar o processamento da presente ordem, pela mitigação da Súmula 691 do STF, deve-se resguardar a competência do Tribunal Estadual para análise do tema e evitar a indevida supressão de instância" (AgRg no HC 544.768/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 11/02/2020, DJe 14/02/2020).
+E, da análise da documentação acostada, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular, tendo em vista que a decisão objurgada não se mostrou teratológica, estando fundamentada a negativa do pleito liminar.
+Com efeito, a autoridade impetrada consignou que "amedida liminar em habeas corpus é cabível quando o constrangimento ilegal é manifesto e detectado de imediato. No presente caso, se faz necessária análise cuidadosa dos fatos e documentos, adequada à ampla cognição da Col. 12ª Câmara Criminal" (e-STJ fl. 33).
+Acrescentou que "é impossível admitir pela via provisória da decisão liminar a pronta solução da questão de fundo. A medida não se presta a antecipar a tutela jurisdicional" (e-STJ fl. 33).
+Dessa forma, não se constata qualquer vício na negativa do pleito liminar formulado nomandamusoriginário, sendo certo que o revolvimento das questões nele aventadas e aqui reiteradas certamente acarretaria a indevida supressão de instância, pois serão alvo de exame oportuno na Corte de Justiça indicada como coatora quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no art.210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.Intime-se.
+Cientifique-se o Ministério Público Federal.
