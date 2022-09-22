@@ -1,0 +1,27 @@
+DECISÃO
+Na origem, trata-se de cumprimento provisório de sentença, originária de ação popular ajuizada por particulares, na qual foi acolhido o pedido autoral, determinando a nulidade do contrato de concessão realizado entre o Município do Rio de Janeiro e EBTE Engenharia Ltda e BR Marinas Glória S.A., por desvirtuamento da utilização da respectiva área pública da Marina da Glória.
+O feito foi extinto, sem resolução de mérito, à consideração de que não teria havido ainda o necessário trânsito em julgado, não sendo possível o cumprimento da sentença da ação popular (fls. 259-265).
+Em grau recursal, o Tribunal Regional Federal da 2ª Região reformou a decisão, determinando o retorno dos autos à origem para prosseguimento do executório, nos termos assim ementados (fl. 552):
+APELAÇÃO CIVIL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA CONDENATÓRIA PROFERIDA EM AÇÃO POPULAR E CONFIRMADA EM SEGUNDA INSTÂNCIA. ART. 16 DA LEI 4.717/65. APELAÇÃO CONHECIDA E PROVIDA.
+1. Trata-se de autos suplementares onde é requerido o cumprimento provisório da sentença condenatória proferida em sede de Ação Popular, confirmada em decisão colegiada de Segunda Instância.
+2. O art. 16 da Lei 4.717/65 (Lei da Ação Popular) é claro ao impor que a sentença deverá ser executada, em prazo determinado, após a decisão condenatória proferida em Segunda Instância, sem qualquer menção a necessidade de trânsito em julgado para tanto.
+3. In casu, nos autos da Ação Popular nº 059982-10.1999.4.02.5101, o Acórdão da 8ª Turma deste Egrégio Tribunal, publicado em 23/02/2018, ao julgar a Remessa Necessária, bem como os Apelos interpostos na época, confirmou a Sentença procedente de Primeira Instância e determinou a reversão do espaço público Marina da Glória ao Município do Rio de Janeiro, desconstituindo o Contrato de Concessão de Uso nº 1.713/96. Destarte, superada esta fase, inexiste qualquer impedimento para a execução provisória, em consonância com a pretensão deduzida nestes autos.
+4. Outrossim, em pese terem sido interpostos Recursos Especial e Extraordinário naquela demanda, aos mesmos não foi concedido efeito suspensivo e, desse modo, não podem obstar o cumprimento do decisum prolatado.
+5. Apelação conhecida e provida.
+Os embargos de declaração opostos foram rejeitados (fls. 582-590).
+EBTE interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando a violação dos arts. 9º, 10º, 238 e 485, VI, do CPC/2015, em razão da ausência de citação da atual Concessionária Marina da Glória (principal destinatária da execução) para integrar o feito, situação que acarreta grave e insanável violação ao contraditório e à ampla defesa.
+Alega que BR Marinas, ao contrário do que decidido no juízo ordinário, não é terceira prejudicada, mas verdadeira parte passiva, sendo a principal afetada pelo eventual deferimento da execução provisória.
+Pugnou pelo deferimento do efeito suspensivo ao recurso.
+O Município do Rio de Janeiro também interpôs o especial, fundamentado no mesmo permissivo constitucional, alegando a violação do art. 16 da Lei n. 4.717/1965, pretendendo o restabelecimento da monocrática relativamente ao descabimento da execução provisória em razão da ausência do trânsito em julgado do referido acórdão.
+Contrarrazões ofertadas às fls. 725-739 e 770-784.
+O Tribunal de origem inadmitiu os recursos (fls. 804-808 e 809-813), tendo sido interpostos os presentes agravos.
+Os autos foram inicialmente distribuídos ao Ministro Mauro Campbell Marques (fl. 909), vindo conclusos à minha relatoria posteriormente, em razão da prevenção com o REsp n. 1.792.618/RJ, referente ao processo originário de conhecimento (fls. 921-922 e 928).
+O Ministério Público Federal opinou pelo conhecimento dos agravos e desprovimento dos recursos especiais (fls. 911-919).
+É o relatório. Decido.
+Considerando que os agravantes impugnaram a fundamentação apresentada nas decisões agravadas, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame dos respectivos recursos especiais.
+Conforme relatado, os presentes autos têm origem na ação popular ajuizada por particulares contra a União, o Município do Rio de Janeiro e EBTE Engenharia Ltda e BR Marinas Glória S.A.
+Os requerentes pretendem o cumprimento provisório da respectiva sentença que, confirmada em grau recursal pelo Tribunal Regional Federal da 2ª Região, determinou a nulidade do contrato de concessão realizado entre o Município do Rio de Janeiro e EBTE Engenharia Ltda e BR Marinas Glória S.A., por desvirtuamento da utilização da respectiva área pública da Marina da Glória.
+Ocorre que os autos originários também ascenderam a esta Corte, por meio de recursos especiais interpostos pelas partes contrárias: REsp n. 1.792.618/RJ.
+Nele foram acolhidos os 3 recursos interpostos, em razão da caracterização da violação do art. 1.022 do CPC/2015 decorrente da rejeição dos declaratórios sem o necessário enfrentamento das questões neles articuladas, tendo sido anulado o respectivo acórdão e determinado o retorno dos autos ao Tribunal a quo para rejulgamento dos embargos.
+Diante de tal situação excepcional, caracterizada como causa superveniente, que faz com que seja renovado o julgamento em segunda instância, com fundamento no art. 253, parágrafo único, II,c, do RISTJ,conheço dos agravos para dar provimento aos recursos especiais, de forma a suspender o cumprimento provisório da sentença proferida na ação popular, ao menos até o respectivo rejulgamento pelo Tribunal Regional Federal da 2ª Região.
+Publique-se. Intimem-se.
