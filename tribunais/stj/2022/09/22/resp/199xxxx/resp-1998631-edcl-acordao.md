@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Embargos de declaração opostos por Dalício Rodrigues Porto ao acórdão da Sexta Turma, assim ementado (fl. 1.781):
+RECURSO ESPECIAL. USURPAÇÃO DE RECURSO MINERAL DA UNIÃO. EXCLUSÃO DA MAJORANTE REFERENTE À CONTINUIDADE DELITIVA EM SEDE DE JULGAMENTO DE APELAÇÃO. PLEITO DE RESTABELECIMENTO DA CAUSA DE AUMENTO. DISSÍDIO JURISPRUDENCIAL ACERCA DO CARÁTER PERMANENTE OU INSTÂNTANEO DO CRIME SOB EXAME (MODALIDADE USURPAÇÃO POR EXPLORAÇÃO). DELITO QUE ENVOLVE A PRÁTICA DE MÚLTIPLAS CONDUTAS, ALÉM DA EXTRAÇÃO EM SI. CIRCUNSTÂNCIAS FÁTICAS QUE INDICAM QUE A CONSUMAÇÃO SE PROLONGOU NO TEMPO.
+1. O crime tipificado no art. 2º da Lei n. 8.176/1991, na modalidade de usurpação de matérias-primas pertencentes à União (por exploração), envolve a prática de múltiplas condutas que vão além da extração em si, sendo possível cogitar de prolongamento da consumação mesmo que diante da extração interrompida, mas com manutenção de maquinário e de estrutura visando o transporte, beneficiamento e retomada futura da atividade extrativa em curto prazo.
+2. Com efeito, enquanto verificada essa exploração, ou seja, a prática de múltiplas condutas visando a extração do bem mineral, sem evidência de que o agente ativo intencionalmente cessou a atividade extrativa, não há como deixar de reconhecer o caráter permanente do crime.
+3. No caso, a moldura fática delineada nas instâncias ordinárias indica que a consumação do crime (exploração) transcorreu por longo período de tempo, notadamente levando em conta a área atingida e os períodos em que a fiscalização se deparou com a atividade ilícita, sem evidência de encerramento da atividade extrativa por iniciativa do réu, circunstância que autoriza a conclusão de que o crime ostenta as características de permanente.
+4. Recurso especial improvido.
+Nas razões, alegou que acórdão padece de omissão, pois não sanou o dissídio jurisprudencial suscitado.
+Asseverou que, no caso concreto,ocorreram 03 (três) cessações da exploração ilegal de areia precisamente: a) Laudo Pericial elaborado pelo DNPM (f. 28/36), que constatou lavra clandestina de areia na Fazenda Canteiro, no período indicado na denúncia (2004), culminando com a lavratura do Auto de Paralisação nº 26/2014; b) auto de averiguação lavrado por Oficial de Justiça da Justiça Estadual, nos autos da Ação de Manutenção de Posse nº 12.938/2004, o qual asseverou ter havido extração ilegal em 29.08.2005 e finalmente c) Laudo da Policia Federal constatado nova extração em março de 2006, com evidências de atividade recente, fica demonstrado que o acusado praticou o delito de extração mineral ilegal por diversas vezes, em continuidade delitiva, todos afirmados na sentença condenatória, o que por consequência exasperaria a pena ao menos em fração de 1/5 em conformidade com julgados deste STJ (AgRg no REsp 1695872/PE; REsp 1.699.051/RS)- fl. 1.815.
+Aduziu, ainda, que o acórdão também padece de contradição, pois adotou o entendimento que conduta delitiva se protrairia no tempo só cessando por vontade do agente sendo que apontando no acórdão a paralisação da exploração ilegal de areia pelo auto de paralisação do DNPM em 2004; pelo auto de averiguação lavrado por Oficial de Justiça da Justiça Estadual, nos autos da Ação de Manutenção de Posse nº 12.938/2004 em 2005 e pelo Laudo da Policia Federal em 2006, existindo assim a cessação intencional da atividade, mesmo que por circunstancias alheias a sua vontade(fl. 1.816).
+Asseverou, ainda, que,em momento algum da marcha processual, fora evidenciado manutenção de maquinário e de estrutura no local por tempo ininterrupto visto que a Fazenda Recanto em Feira de Santana está localizadapróxima ao aeroporto do munícipio com acesso por estradas de asfalto e de barro a áreas urbanas o que por evidência indica que toda a operacionalização da extração mineral ilegal de areia ocorria em período diurno sendo que as máquinas e equipamentos eram estacionados/guardados em local próximo diverso do local de exploração do bem mineral(fls. 1.816/1.817).
+E que aprolongação do tempo caracterizou assim a reiteração da conduta visto que ocorreram inúmeros ciclos de exploração ilegal com crimes instantâneos com posterior ciclos de cessação com ampla autonomia do condenado e sem existência de perpetuidade com condutas plúrimas com ampla logística operacional com homens, retroescavadeiras e caminhões (mais de uma ação nas mesmas condições de tempo, lugar e maneira de execução com desígnio autônomo de vontade sendo os crimes subsequentes continuações dos anteriores com aproveitamento de relações e oportunidades preexistentes agindo o condenado como se dono fosse do imóvel rural em consonância com o art. 71 do código penal e em especial pela teoria objetiva-subjetiva ou hibrida a qual e adepta tanto por este Egrégio STJ como pelo STF)- fl. 1.817.
+Alegou, ainda, que há contradição na utilização do conceito de lavra como fundamento no acórdão, poisinexistente o beneficiamento da areia visto que a exploração clandestina apenas materializada com homens e máquinas com posterior revenda para os distribuidores de materiais de construção da cidade de Feira de Santana/Bahia(fl. 1.818).
+Pugnou, assim, pelo saneamento dos vícios apontados, inclusive com a atribuição de efeitos infringentes ao julgado.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS PRECONIZADOS NO ART. 619 DO CPP. MANIFESTA IMPROCEDÊNCIA. REDISCUSSÃO. DESCABIMENTO.
+Embargos de declaração rejeitados.
+VOTO
+O acórdão não padece de nenhum dos vícios preconizados no art. 619 do Código de Processo Penal.
+A contradição que dá ensejo à oposição de embargos de declaração éinternaao julgado, ou seja, entre aspremissas e as conclusõesda própria decisão.
+Nesse sentido, confiram-se:
+ .. .
+2. De acordo com a jurisprudência desta Corte, a contradição remediável por embargos de declaração é a interna ao julgado embargado, devida à desarmonia entre a fundamentação e as conclusões da própria decisão, e não aquela externa entre o julgado impugnado e o entendimento da parte, ou entre este e outras decisões deste Tribunal.
+ ..
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.460.489/SP, Ministro Moura Ribeiro, Terceira Turma, DJe 19/2/2020)
+ ..
+2. A contradição impugnável por meio dos embargos de declaração é aquela interna ao julgado, que demonstra incoerência entre as premissas e a conclusão da decisão, e não a discordância de entendimento entre a Turma julgadora e a parte acerca dos dispositivos legais aplicáveis. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp n. 1.541.402/RS, Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 20/2/2020)
+ ..
+3. A contradição que macula a decisão judicial é a interna, na qual ocorre um descompasso lógico entre a fundamentação e a conclusão adotada, circunstância não evidenciada no decisum embargado.
+ ..
+(EDcl no AgRg no AREsp n. 1.524.332/RN, Ministra Laurita Vaz, Sexta Turma, DJe 3/2/2020)
+No caso, não há contradição no aresto embargado; ao contrário, as premissas e conclusões guardam perfeita coerência entre si.
+Ressalto, nesse particular, que não procede o argumento defensivo de que o acórdão teria concluído no sentido da manutenção de maquinário no local ou mesmo de beneficiamento daareia extraída.
+O acórdão embargado aludiu a esses circunstâncias abstratamente,a fim de estabelecer o raciocínio jurídico que culminounaconclusão de que a exploraçãomineral, referenciada no tipo penal, envolvea prática de múltiplas condutas que vão além da extração em si, de modo que, enquanto não verificada a cessação intencional de qualquer atividade visando a extração mineral, inclusive futura, não se cogita de encerramento da consumação, que se protrai no tempo por vontade do agente.
+A conclusão de que o crime, no caso, ostenta características de crime permanente, foi estabelecida a partir damoldura fática delineada nas instâncias ordinárias, apta aindicarque a consumação do crime (exploração) transcorreu por longo período de tempo, notadamente levando em conta a área atingida e os períodos em que a fiscalização se deparou com a atividade ilícita(fl. 1.790).
+Com efeito, ao contrário do que sugere oembargante,não ocorreu inovação ou reexame dos parâmetros fáticos originalmente estabelecidos,tendo sido adotados aqueles circunstanciados pelaprópria instância ordinária.
+Aassertiva do embargante, no sentido de que há elementos probatórios que comprovariam a cessação intencional da atividade por três vezes, não foi acolhida no acórdão da apelação (fl. 1.257 - grifo nosso):
+ ..
+No caso presente, inexistiu renovação de delitos de forma sucessiva.
+O retorno dos fiscais ao local da extração da areia não caracterizou nova conduta típica por parte do réu, se não o mero exaurimento do estado de permanência da conduta inicial. Isso porque a prática criminosa não foi interrompida depois da lavratura do auto de paralisação nº 26/04 (fl. 37), uma vez que José Carlos da Silva Carneiro Junior alegou dispor de autorização para retirar  a areia e continuou a atividade.
+Na verdade, dispunha do Registro de Licença DNPM nº 012, de 09/05/2005, e da Licença para Extração Mineral nº 003/2004, expedida em 03/01/05 (fl. 123), pela prefeitura municipal de Feira de Santana/BA. Os documentos, como se vê, são posteriores ao início das atividades ilegais, em 2004.
+O estado de permanência se comprova pelo auto de averiguação, lavrado por oficial de justiça da Justiça Estadual da Bahia nos autos da ação de manutenção de posse nº 12.938/04, atestando a extração ilegal em 29/08/05 (fl.244), e pelo laudo de exame de meio ambiente  extração mineral -, acostado às fls. 93/101, por meio do qual os peritos federais relataram a visita à área explorada, no dia 16/03/06, sete meses após a lavratura do auto de paralisação, quando concluíram:
+ ..
+Logo, nesse aspecto, há nítido propósito de reexame de prova, o que é vedado em sede de recurso especial (Súmula 7/STJ).
+Tampouco se verificaomissão no aresto embargado; ao contrário,o acórdão ostenta fundamentação concreta e suficiente para solução do dissídio jurisprudencial.
+A esse respeito, cumpre destacar a orientação do Supremo Tribunal Federal, firmada em julgado comrepercussão geral, no sentido de queas decisões judiciais não precisam ser necessariamente analíticas, bastando que contenham fundamentos suficientes para justificar suas conclusões (QO no AI n. 791.292, julgado sob a relatoria do Ministro Gilmar Mendes),circunstância verificada no caso, eis a ementa do julgado:
+ ..  Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral . Em face do exposto, rejeito os embargos de declaração.  ..
+Aliás, o que se verifica das razões dos embargos é a tentativa doembargantede,por via oblíqua,rediscutiras conclusõesdo acórdão embargado, providência descabida na via eleita.
+A propósito:
+ ..
+1. Os Embargos de Declaração, segundo o disposto no art. 619 do CPP, se prestam a afastar a existência, no julgado, de ambiguidade, omissão, contradição e obscuridade, sendo-lhe impróprio o manejo para o fim de se rediscutir a matéria decidida.
+ ..
+(EDcl no HC n. 335.663/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 11/3/2016)
+Ante o exposto,rejeitoos embargos de declaração.
