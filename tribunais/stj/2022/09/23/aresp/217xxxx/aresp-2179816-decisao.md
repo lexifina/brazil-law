@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) contra acórdãocuja ementa é a seguinte:
+CUMPRIMENTO PROVISÓRIO DE SENTENÇA - Acolhimento da impugnação, com a extinção da execução - Verbas de sucumbência não arbitradas e indeferimento do pedido de condenação da exequente na penalidade por litigância de má-fé - Recurso da executada - Acolhimento - Honorários advocatícios cabíveis na hipótese de acolhimento da impugnação ao cumprimento de sentença, em favor da executada - Art. 85, § 1º, do CPC - Tese fixada no REsp 1.134.186/RS, julgado por meio de recurso repetitivo - Litigância de má-fé bem evidenciada - Exequente que prosseguiu com o cumprimento de sentença mesmo após o recebimento da apelação interposta pela executada nos autos principais, no efeito suspensivo - Executada, ademais, que não foi intimada para pagamento do débito, ingressando nos autos apenas após o bloqueio judicial de ativos financeiros - Exequente que procedeu de modo temerário, dando prosseguimento ao incidente, mesmo tendo sido suspensa a eficácia da sentença, incorrendo na hipótese do art. 80, inciso V, do CPC - Sentença reformada apenas para condenar a ré a pagar 1% do valor da execução em favor da ré, nos termos do art. 81, caput, do CPC, arcando, ainda, com as custas processuais e com os honorários advocatícios de 10% sobre o valor da condenação - RECURSO PROVIDO.
+Os Embargos de Declaração foram rejeitados (fls. 210-212, e-STJ).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 2º,80,V, e 85, § 8º, 522 e 523 do CPC/2015.
+Excelências, a recorrente com o manejo deste extraordinário não visa contestar a fixação dos honorários de sucumbência, mas, sim, aplicar sobe o critério da equidade a fixação dos honorários sucumbenciais, com fulcro no artigo 85, § 8º do CPC, considerando o direito perseguido pela recorrente, a água, o atual cenário socioeconômico vivenciado por todos os moradores daqueles bairros, principalmente considerando os efeitos da pandemia, somado a total desigualdade de armas entre a recorrente e a recorrida, assim suplica pela readequação da fixação do valor dos honorários sucumbenciais frente a realidade fática dos autos. O v. acórdão fixou o percentual de 10% de honorários sucumbenciais sobre o valor pretendido de multa, apesar de ser a forma determinada por lei, n ão retrata no presente caso a melhor forma de aplicação do direito, pois o valor se mostra totalmente exorbitante a realidade dos vários moradores que compõem a associação, o que fere os princípios da boa-fé processual e da isonomia entre as partes.
+(..)
+Dessa forma, por medida da mais lidima justiça, requer a aplicação do artigo 85, § 8º do CPC, readequando o valor dos honorários sucumbenciais a realidade dos moradores que compõem a recorrente.
+(..)
+Isto, posto, desde já espera e requer o provimento do presente Recurso Especial, reconhecendo-se a violação aos dispositivos de Lei Federal acima invocados, determinando-se, por conseguinte, a reforma do acórdão recorrido, para afastar a incidência da multa por litigância de má-fé, bem como readeaquar a fixação de honorários sucumbenciais a realidade do caso.
+Contraminuta apresentada às fls. 326-338, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 5.9.2022.
+A irresignação não merece prosperar.
+Em relação à alegada violação do art. 85, § 8º, do CPC/2015, verifica-seo Tribunal a quo não se pronunciou a respeito dele.
+Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. TEORIA DA PERDA DE UMA CHANCE. REVISÃO DO VALOR DOS DANOS MORAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. HONORÁRIOS CONTRATUAIS. DANO MATERIAL. JUROS DE MORA. CITAÇÃO. DANOS CONTRATUAIS. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art. 1022 do Código de Processo Civil de 2015.
+2. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados, entretanto, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso. Incidência das Súmulas 282 e 356/STF.
+(..)
+9. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1455532/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, , DJe 10/2/2020)
+Ressalte-se ainda, que a matéria deveria ter sido suscitada em Embargos de Declaração, o que não ocorreu, inviabilizando o prequestionamento.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 489 DO CPC/2015. INEXISTÊNCIA. IMPROBIDADE ADMINISTRATIVA. PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR. PNAE/FNDE. MALVERSAÇÃO DE VERBAS FEDERAIS REPASSADAS PELA UNIÃO. LEGITIMIDADE DO MINISTÉRIO PÚBLICO FEDERAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. INDISPONIBILIDADE DE BENS. FORTES INDÍCIOS DA PRÁTICA DE ATO ÍMPROBO. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.
+(..)
+5. A alegação de violação dos arts. 300 e 437, § 1º, do CPC/2015 e a tese a eles relacionada não foram analisadas pelo Tribunal de origem, nem sequer constaram das razões do embargos de declaração opostos contra o acórdão de origem. Dessa forma, impõe-se o não conhecimento do recurso especial por ausência de prequestionamento, entendido como o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal com base no art. 105, III, "a", da Constituição. Incidência das Súmulas 282 e 356 do STF.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1236657/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 26/3/2019)
+Quanto à litigância de má-fé, assim consignou a Corte local:
+No que tange à aplicação da multa pela litigância de má-fé, assiste razão à apelante. Veja-se que o juízo a quo recebeu a apelação interposta pela SABESP, apenas no efeito devolutivo.
+Não houve interposição de recurso contra essa decisão naquela oportunidade. Apenas quando subiram os autos à Segunda Instância, o d. Relator concedeu o duplo efeito à apelação.
+No entanto, após a concessão do efeito suspensivo, a exequente deu prosseguimento ao incidente, não comunicando ao juízo a quo da decisão de segundo grau. Não bastasse, a SABESP sequer foi intimada para pagamento do débito (fl. 74), nem pela imprensa oficial nem pessoalmente, vindo aos autos somente após o bloqueio judicial do valor de R$ 320.000,00.
+E tal bloqueio só foi determinado quando já suspensa a eficácia da sentença, o que era de conhecimento da exequente. Incorreu a Associação apelada, então, na hipótese do art. 80, inciso V, do CPC, impondo-se a penalidade correspondente.
+Assim, é evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
