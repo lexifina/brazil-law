@@ -1,0 +1,81 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    EMBARGOS DECLARATÓRIOS. PRIMEIRA TURMA RECURSAL DA FAZENDA PÚBLICA. OMISSÃO VERIFICADA. REANÁLISE DO RECURSO INOMINADO. POSSIBILIDADE NO CASO CONCRETO. SENTENÇA DE ORIGEM MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. EMBARGOS ACOLHIDOS. EFEITOS INFRINGENTES CONCEDIDOS. RECURSO DO ESTADO DESPROVIDO.
+
+    Opostos os embargos de declaração, foram acolhidos, com efeitos infringentes
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 1º, 2º, 5º, caput, 25, 37, I, e 39, 8 2º, e 96, II, "b", da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, no que tange à alegação de violação do(s) art(s). 5º; e 37, I, da Constituição, verifica-se que a decisão de inadmissão do recurso extraordinário está amparada em aplicação de precedente firmado com base na sistemática da repercussão geral.
+
+    Todavia, o art. 1.042 do Código de Processo Civil é expresso sobre o não cabimento de agravo dirigido ao STF nas hipóteses em que a negativa de seguimento do recurso extraordinário tiver-se dado exclusivamente com base na sistemática da repercussão geral, sendo essa decisão passível de impugnação somente por agravo interno (art. 1.030, § 2º, do CPC/2015). Sobre o tema, destaque-se:
+
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CONVERSÃO EM AGRAVO REGIMENTAL. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE nº 1.109.295/RS-ED-ED, Tribunal Pleno, Rel. Min. Cármen Lúcia (Presidente), DJe de 25/9/18).
+
+    Assim, não conheço do recurso quanto ao(s) capítulo(s) acima referenciado(s).
+
+    Ademais, verifica-se que o Plenário da Corte, nos autos do ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes (Tema 660), reafirmou o entendimento de que a afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional que dependa, para ser reconhecida como tal, da análise de normas infraconstitucionais configura apenas ofensa indireta ou reflexa à Constituição Federal, o que não enseja reexame da questão em recurso extraordinário. Nesse sentido:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Militar. Cerceamento de defesa. Indeferimento de provas. Repercussão geral. Ausência. Proventos com remuneração correspondente ao grau hierárquico superior. Legislação infraconstitucional. Ofensa reflexa. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. A afronta aos princípios da legalidade, do devido processo legal, da ampla defesa, do contraditório, dos limites da coisa julgada ou da prestação jurisdicional, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição Federal. 2. Esse entendimento foi reafirmado em sede de repercussão geral. Vide: i) ARE nº 748.371/MT, Relator o Ministro Gilmar Mendes, DJe de 1º/8/13 - Tema 660 e ii) ARE nº 639.228/RJ, Relator o Ministro Cezar Peluso, DJe de 31/8/11 - Tema 424. 3. Inviável, em recurso extraordinário, o reexame dos fatos e das provas dos autos e a análise da legislação infraconstitucional. Incidência das Súmulas nºs 279 e 636/STF. 4. Agravo regimental não provido, com imposição de multa de 1% do valor atualizado da causa (art. 1.021, § 4º, do CPC). 5. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.143.354-AgR, Rel. Min. Dias Toffoli, DJe de 1º/2/19).
+
+    Além disso, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+
+    Preliminarmente, afasto a alegação de nulidade no julgamento dos embargos antes opostos, uma vez que, ao que se verifica dos autos, o Boletim de promoção do Desembargador Niwton Carpes foi disponibilizado no dia 26 de setembro de 2017, considerado publicado no dia 27 de novembro do mesmo ano - dia do julgamento dos embargos de declaração -, e somente passou a produzir efeitos, assim, a contar do dia 28 de novembro, de forma que, quando do julgamento, ainda integrava o Douto Magistrado o primeiro grau de jurisdição.
+
+    Porém, verifico que a fundamentação do acórdão vergastado, ao transcrever laudo estranho aos autos, pode não haver prestado a definição jurisdicional mais adequada, pelo que passo a reanalisá-lo. Com efeito, a voto que acabou por determinar o julgamento louvou-se em laudo pericial lançado em feito similar e onde a conclusão foi pela respectiva inaptidão. Essa circunstância de ordem fática, ainda que não se preste, de forma absoluta, a afastar as razões de direito que o voto embargado magistralmente ostenta, permite que se reexamine a questão à luz da perícia correta, ou seja, aquela levada a efeito pelo serviço de psicologia do Departamento Médico do Tribunal de Justiça do Estado e que consta a fls. 444/450, onde a conclusão foi pela aptidão do embargante ao exercício do cargo pretendido.
+
+    Ademais, mostra-se pertinente ressaltar que os laudos provenientes dos órgãos em questão revelam, por algumas vezes, precariedades que o DM] supre, de forma mais técnica e detida, trazendo ao julgador elementos que permitem que a regra do certame seja quebrada, ainda que, vale destacar, não seja opção mais adequada e viole entendimento que a signatária adotou por anos a fio, mudando diante de evidências claras de que o exame dos candidatos não se fazem com a proficiência exigida.
+
+    No que diz, então, com o recurso do Estado do Rio Grande do Sul, por sua vez, havendo a sentença prolatada na origem solvido corretamente a questão, vai mantida, na Íntegra, por seus próprios fundamentos, conforme preleciona o artigo 46 da Lei 9.099/95:
+
+    " A exigência de aprovação em exame psicotécnico para ingresso na carreira superior da Brigada Militar é expressamente prevista na Lei Complementar n. 10.990/91, bem como no item 3.14 do Edital de abertura do certame:Art. 10 - São requisitos para o ingresso na Brigada Militar:(...)VII - obter aprovação nos exames médico, físico, psicológico e intelectual, exigidos para inclusáo, nomeagáo ou matrícula.3 REQUISITOS PARA INGRESSO/INCLUSÁO NA BRIGADA MILITAR(..)3.14 Ter obtido aprovação na 1º Fase — Exame Intelectual, ter sido considerado APTO nas 2º 3* e 4º Fases (saúde, capacitação física e psicológica) eaprovado na 6º Fase — Prova Oral e atender a todos os requisitos da Sindicância da Vida Pregressa do Candidato;
+
+    Apesar de legítima a exigência de aprovação em exame psicotécnico para ingresso na carreira superior da Brigada Militar, o edital de abertura do certame deve, obrigatoriamente, fixar critérios técnicos e objetivos de avaliação, sob pena de afronta aos princípios da isonomia entre os candidatos, do contraditório, da ampla defesa, da legalidade e da motivação.
+
+      Neste sentido prevê o art. 14 do Decreto nº 6.944/2009, que dispõe sobre normas gerais relativas a concursos públicos:
+
+    Art. 14. A realização de avaliação psicológica está condicionada à existência de previsão legal específica e deverá estar prevista no edital.
+
+    § 1º Para os fins deste Decreto, considera-se avaliação psicológica o emprego de procedimentos científicos destinados a aferir a compatibilidade das características psicológicas do candidato com as atribuições do cargo.
+
+    § 2º A avaliação psicológica será realizada após a aplicação das provas escritas, orais e de aptidão física, quando houver.
+
+    §3º Os requisitos psicológicos para o desempenho no cargo deverão ser estabelecidos previamente, por meio de estudo científico das atribuições e responsabilidades dos cargos, descrição detalhada das atividades e tarefas, identificação dos conhecimentos, habilidades e características pessoais necessários para sua execução e identificação de características restritivas ou impeditivas para o cargo.
+
+    §4º A avaliação psicológica deverá ser realizada mediante o uso de instrumentos de avaliação psicológica, capazes de aferir, de forma objetiva e padronizada, os requisitos psicológicos do candidato para o desempenho das atribuições inerentes ao cargo.
+
+    §5º O edital especificará os requisitos psicológicos que serão aferidos na avaliação.
+
+    A fixação de um sistema objetivo de avaliação é indispensável para permitir que o candidato conheça previamente os parâmetros de avaliação, bem como exerça sua defesa quanto à sua inaptidão, se contrapondo aos seus termos.
+
+    No caso dos autos, no entanto, o edital de abertura do certame é por demais sucinto, determinando que o candidato será avaliado nos seguintes aspectos (item 8.4.3 — fl. 55):
+
+    (...)
+
+    Percebe-se claramente que o edital em análise apresentou critérios de avaliação extremamente subjetivos, discriminando conceitos vagos e, com isso, criando claros obstáculos à defesa do autor, notadamente diante da ausência de segurança quanto aos fundamentos que motivaram a avaliação de aptidão ou inaptidão dos candidatos.
+
+    O autor foi submetido a perícia no Departamento Médico Judiciário (fls. 444/450), na qual foram realizados entrevista, Método Rorshach, Teste Palográfico, Técnica Projetiva de Desenho HTP e Teste Não-Verbal de Inteligência G38. A perícia realizada concluiu que o demandante “reúne as características de personalidade e critérios elencados pelo Perfil Psicológico para o posto de Capitão (fl. 439), não verificando elementos que possam contraindicar o seu ingresso no Quadro de Oficiais do Estado Maior (QOEM)”. Além disso, foi realizada avaliação pelo Departamento de Saúde da Brigada Militar na qual, igualmente, o autor foi considerado apto ao serviço de Capitão da Brigada Militar, inclusive com menção honrosa pelo respectivo Comandante.
+
+    Desse modo, verifica-se que para dissentir do que decidido pelo Tribunal a quo, necessária seria a análise das cláusulas contratuais, bem como o reexame do conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas 279 e 454 desta Corte, as quais dispõem: “Para simples reexame de prova não cabe recurso extraordinário” e “Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário”.Nesse sentido, ARE 715.689, Rel. Min. Roberto Barroso, DJede 6/2/2014, AI 768.630, Rel. Min. Gilmar Mendes, DJede 25/6/2011, e ARE 1.277.514-AgR, Rel. Min. Alexandre de Moraes, Primeira Turma, DJede 28/9/2020, esse último, assim ementado:
+
+    “CONSTITUCIONAL REFLEXA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULAS 279 E 454 DO STF. EXAME DE DIREITO LOCAL. SÚMULA 280/STF. 1. Os Recursos Extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o SUPREMO TRIBUNAL FEDERAL, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares. 2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo. 3. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão de Recurso Extraordinário, que supõe matéria constitucional prequestionada explicitamente. 4. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas e das cláusulas contratuais. Incidem, portanto, os óbices da Súmula 279 (Para simples reexame de prova não cabe recurso extraordinário) e 454 (Simples interpretação de cláusulas contratuais não dá lugar a recurso extraordinário), ambas desta Corte. 5. A solução da controvérsia depende da análise da legislação local, o que é incabível em sede de recurso extraordinário, conforme consubstanciado na Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário)”.
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 23 de setembro de 2022.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
