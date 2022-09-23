@@ -1,0 +1,7 @@
+DECISÃO
+SUPERVIA CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S/A - EM RECUPERAÇÃOJUDICIALreitera, às fls. 384/364, pedido já formulado às fls. 258/347,para que seja suspensa a demanda, pelos seguintes motivos: (I) celebração de dois Termos deAjustamento de Condutacelebrados com oParquetfluminense, a fim deexecutar as obras de acessibilidade nos trens e estações do Município doRio de Janeiro; e (II)até que seja proferida decisão definitiva, noREsp 2.002.661/RJ, acerca da prejudicialidade entre ação coletiva e asações individuais.
+É o breve relato.
+De início, cumpre frisar que, o e. Ministro Presidente da Comissão Gestora de Precedentes acolheu parecer do MPF, no sentido de que "o recurso em comento é inadmissível para tramitação nesta Corte como representativo da controvérsia". Por conseguinte, foram retiradas as marcações da indicação dosrecursos selecionados como representativos da controvérsia.
+Por outro lado, infere-se da petição inicial que a pretensão formulada pela parte autora não visa apenas àcondenação de fazer, consistentena implantação de adaptações da estação ferroviária às condições de acessibilidade, mas, também, à indenização pelos alegados danos morais decorrentes da suposta má prestação do serviço público concedido. Assim, verifica-se que a celebração dos ditos Termos de Ajustamento de Conduta não tem o condão suspender o processamento do feito em tela.
+ANTE O EXPOSTO, indefiro o pedido.
+Publique-se.
