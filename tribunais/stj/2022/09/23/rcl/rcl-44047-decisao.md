@@ -1,0 +1,31 @@
+DECISÃO
+Vistos.
+Trata-se de Reclamação proposta por CALIXTO MARTINS DE ARAÚJOcom fundamento nos arts. 105, I, f, da Constituição da República e 988, I, do CPC/2015, contra decisão do Presidente da Turma Nacional de Uniformização que negou seguimento ao Pedido de Uniformização de Interpretação deLei.
+Sustenta a Reclamante, em síntese, que o posicionamento daTNU vai na contramão do posicionamento do Superior Tribunal de Justiça, firmando no REsp. 1.348.633/SP, afirmando possível o reconhecimento do tempo de serviço rural anterior ao documento mais antigo ou posterior ao documento mais recente juntado aos autos como início de prova material.
+Aduz, ainda, ser o rol de documentos do art. 106 da Lei 8.213/1991 meramente exemplificativo, admitindo-se outros meios de prova.
+Acompanham a inicial os documentos de fls. 10/96e.
+É o relatório. Decido.
+A Reclamação, prevista no art. 105, I, f, da Constituição da República, bem como no art. 988 do Código de Processo Civil de 2015 (redação da Lei n. 13.256/2016), constitui expediente destinado à preservação de sua competência (inciso I), a garantir a autoridade das decisões do Superior Tribunal de Justiça (inciso II) e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º).
+Conforme salientado, a Reclamante afirma que o acórdão impugnado teria desrespeitado o decidido em recurso repetitivodesse c. Superior Tribunal de Justiça.
+Contudo, tal situação não se enquadra nas hipóteses de cabimento da Reclamação.
+Isso porque a Reclamação (art. 105, I, f, da Constituição da República) destina-se a tornar efetivas as decisões proferidas, no próprio caso concreto, em que o Reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte ou, ainda, como sucedâneo recursal.
+A Corte Especial deste Superior Tribunal, na assentada de 05.02.2020, ao concluir o julgamento da Rcl n. 36.476/SP, de relatoria da Sra. Ministra Nancy Andrighi, firmou a compreensão segundo a qual não cabe o ajuizamento de reclamação para discutir eventual equívoco na aplicação de tese firmada em recursorepetitivoao caso concreto pelas instâncias ordinárias.
+Nesse sentido:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NA RECLAMAÇÃO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. RECLAMAÇÃO COMO SUCEDÂNEO RECURSAL. RECLAMAÇÃO CONTRA DECISÃO DA PRESIDÊNCIA DA TURMA NACIONAL DE UNIFORMIZAÇÃO. NÃO CABIMENTO. DISCUSSÃO ACERCA DE EQUÍVOCO NA APLICAÇÃO DE TESE FIRMADA EM RECURSO REPETITIVO. IMPOSSIBILIDADE. ANÁLISE PREJUDICADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A reclamação, prevista no art. 105, I, f, da Constituição da República, destina-se a tornar efetivas as decisões proferidas, no próprio caso concreto, em que o reclamante tenha figurado como parte, não servindo para a preservação da jurisprudência desta Corte Superior ou, ainda, como sucedâneo recursal.
+III - Segundo entendimento consagrado nesta Corte Superior, incabível o ajuizamento de reclamação para discutir eventual equívoco na aplicação de tese firmada em recurso repetitivo ao caso concreto pelas instâncias ordinárias.
+IV - No âmbito do Juizado Especial Federal não é cabível o ajuizamento da Reclamação, porquanto a Lei n. 11.259/2001 prevê procedimento específico.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt na Rcl n. 41.580/RS, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 12/4/2022, DJe de 22/4/2022.)
+PROCESSUAL CIVIL. RECLAMAÇÃO COM PEDIDO LIMINAR. A RECLAMAÇÃO PREVISTA NO ART. 105, I, f DA CF NÃO SE DESTINA À PRESERVAÇÃO DA JURISPRUDÊNCIA DO STJ, NEM SERVE COMO SUCEDÂNEO RECURSAL, VISA, SIM, A TORNAR EFETIVAS AS DECISÕES TOMADAS NO PRÓPRIO CASO CONCRETO. IMPOSSIBILIDADE DE MANEJO DE RECLAMAÇÃO POR VIOLAÇÃO A RECURSO ESPECIAL REPETITIVO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. A Reclamação constitucional, prevista no art. 105, I, f da Constituição Federal, bem como no art. 988 do Código Fux, constitui ação destinada a preservar a competência do Superior Tribunal de Justiça ou a garantir a autoridade de suas decisões.
+2. Em razão de sua natureza excepcional, destina-se à preservação da competência e à garantia da autoridade dos julgados somente quando objetivamente violados, não podendo servir como mecanismo para discutir o teor do ato hostilizado.
+3. Verifica-seque o autor se volta contra decisão exarada por Turma do Juizado Especial Federal. Ocorre que o entendimento jurisprudencial do STJ afirma o não cabimento de Reclamação contra decisões proferidas em demandas que tramitam no Juizado Especial da Fazenda Pública (Lei 10.253/2009) ou nos Juizados Especiais Federais (Lei 10.259/2001), vez que o recurso cabível, nesses hipóteses, seria o Pedido de Uniformização Nacional.
+4. A inadmissão do Pedido de Uniformização dirigido à TNU, por não preencher o Recurso os requisitos de admissibilidade, não pode ser solvida por meio da presente Reclamação.
+5. A Corte Especial do STJ, no julgamento da RCL 36.476/SP, estabeleceu inadmissível o uso da Reclamação o exame da correta aplicação de entendimento firmado em sede de Recurso Especial repetitivo, consignando que o art. 988, IV, do CPC/2015, ainda no período da vacatio legis, foi alterado pela Lei 13.256/2016, para excluir a previsão de cabimento de reclamação em tal hipótese.
+6. Agravo Interno do Particular a que se nega provimento.
+(AgInt na Rcl n. 35.829/PR, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 14/10/2020, DJe de 20/10/2020.)
+Posto isso, nos termos do art. 34, XVIII, a, do RISTJ, NÃO CONHEÇO da Reclamação. Prejudicada a análise do pedido liminar.
+Publique-se e intimem-se.
