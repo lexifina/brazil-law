@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Setúbal - Juízo Local Criminal de Setúbal - Juiz 2) solicita que se proceda ànotificação pessoal de JOSÉ CARLOS DE SOUZA FILHO, relativamente ao processo n.132106. 1 PTSTB, para, no prazo máximo de 30 (trinta) diasa contar da notificação, realizar opagamento da multa penal,no montante de  300,00e/ou, exercer o contraditório, bem como, em igual prazo, invocar as razões para o não pagamento, comprovando-as, sob pena de conversão da multa em 40 dias de prisão subsidiária(fls. 4/5).
+O exequatur foi concedido (fls. 35/36).
+Entretanto, adiligênciade notificação da parte interessada no endereço indicado foifrustrada, bem como não foram identificados outros logradouros, consoante certidões de fls. 95 e 99.
+Pelo exposto, a despeito do empenho das autoridades brasileiras para localização da parte interessada, verifica-se que as providências não lograram êxito, razão ela qual determino a devolução da comissão sem cumprimento ao Juízo rogante, por intermédio da autoridade central.
