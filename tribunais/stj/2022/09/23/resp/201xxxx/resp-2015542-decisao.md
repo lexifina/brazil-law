@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo TJMGassim ementado (e-STJ fl. 796):
+EMENTA: AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. REQUISITOS. ARTIGO 919, § 1º DO CPC. NÃO CONFIGURAÇÃO. 1. Para a concessão do efeito suspensivo aos embargos à execução, os requisitos elencados no §1º do art. 919 do CPC, devem ser demonstrados de maneira cumulativa. 2. Ausente qualquer dos requisitos legais, não é possível conceder aos embargos efeito suspensivo.
+Os embargos de declaração foram rejeitados(e-STJ fls. 823/831).
+Nas razões recursais (e-STJ fls. 835/881), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente alega, além de divergência jurisprudencial, ofensa aoart. 937, VIII, do CPC/2015, sustentando cerceamentode defesa por inobservância de requerimento de sustentação oral. Defende o direito de petição, nos termos do art. 5º, XXXIV, da CF.
+Aponta ainda afronta ao art. 1.026, § 2º, do CPC/2015, afirmando que os aclaratórios opostos não teriam caráter protelatório.
+Opõe-se ao julgamento virtual do agravo,"REQUERENDO a inscrição de seu procurador para sustentação oral em seção ordinária em que será apreciado o presente recurso, bem como rogando seja deferida a modalidade de sustentação por meio de videoconferência" (e-STJ fl. 879).
+Juízo positivo de admissibilidade (e-STJ fls. 934/936).
+É o relatório.
+Decido
+Incialmente, quanto à oposição ao julgamento virtual do presente recurso,a jurisprudência desta Corte reconhece avalidade das decisões monocráticas proferidas pelo relator, sem a necessidade de levar o processo para o órgão colegiado, o que obviamente afasta a possibilidade de sustentação oral e o alegado prejuízo para a defesa, como defendido pela parteora agravante.
+Nesse  sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. EMPRESARIAL. RECUPERAÇÃO JUDICIAL. CRÉDITO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA. SALDO RESIDUAL. DÍVIDA PESSOAL. JUÍZO UNIVERSAL. SUBMISSÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que houver jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (artigo 932, III e IV, do Código de Processo Civil de 2015).
+3. A possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade. Precedente.
+4. Os credores fiduciários estão excluídos dos efeitos da recuperação judicial somente em relação ao montante alcançado pelos bens alienados em garantia.
+5. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.906.248/BA, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/6/2022, DJe de 30/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SEPARAÇÃO LITIGIOSA. REGIME CONVENCIONADO PELAS PARTES. SEPARAÇÃO TOTAL. ANÁLISE MONOCRÁTICA. POSSIBILIDADE. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. SEPARAÇÃO CONVENCIONAL DE BENS. MEAÇÃO. ESFORÇO COMUM DO CASAL. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. "A jurisprudência deste Tribunal Superior orienta-se no sentido de que o art. 932 do CPC/2015 e a Súmula 568/STJ admitem que o Relator julgue monocraticamente recurso inadmissível ou aplique jurisprudência consolidada nesta Corte. Reconhece ainda que, nestas hipóteses, o julgamento singular não ofende o princípio da colegialidade, tendo em vista a possibilidade de interposição de recurso ao órgão colegiado" (AgInt nos EDcl no AREsp n. 1.312.910/PE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/2/2019, REPDJe 26/2/2019, DJe 25/2/2019).
+2. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir pela existência de direito à divisão de bens. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.765.007/SP, de minha relatoria, QUARTA TURMA, julgado em 29/3/2021, DJe de 5/4/2021.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. JULGAMENTO MONOCRÁTICO DA IMPETRAÇÃO. SUPOSTA OFENSA AOS PRINCÍPIOS DA COLEGIALIDADE E DA AMPLA DEFESA. NÃO OCORRÊNCIA. PEDIDO DE SUSTENTAÇÃO ORAL. INADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, o pronunciamento judicial unilateral do Relator não caracteriza cerceamento de defesa diante da inviabilidade de atendimento ao pleito de sustentação oral, tampouco fere o princípio da colegialidade.
+2. É incabível o pedido de sustentação oral, bem como o de inclusão do processo em pauta para intimação das partes, no julgamento de agravo regimental na esfera penal, pois, nos termos dos arts. 159, inciso IV, e 258 do Regimento Interno do Superior Tribunal de Justiça, o agravo regimental em matéria penal deve ser trazido para julgamento em mesa.
+3. O princípio da dialeticidade impõe ao Agravante o ônus de demonstrar o desacerto da decisão agravada. No caso, nas razões do agravo regimental, não foram rebatidos, especificamente, os fundamentos da decisão recorrida, que denegou o pretendido trancamento da ação penal.
+4. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 581.762/SP, Relatora Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/4/2022, DJe de 25/4/2022.)
+No que se refere ao art. 5º, XXXIV, da CF, compete ao STJ velar pela aplicação uniforme da legislação infraconstitucional, não se conhecendo, portanto, do recurso especial que sustente ofensa à Constituição, sob pena de usurpação da competência do STF (art. 102, III, da CF).
+No que respeita à alegação de nulidade de julgamento no Tribunal de origem pela ausência de oportunidade de a parterecorrente fazer sua sustentação oral, observa-se que a matéria não foi tratada especificamente pelo TJMG.
+Ressalta-se que a Corte local apenas discutiu a possibilidade de julgamento virtual, não fazendo referência específica à nulidade quanto à inobservância dospedidos de sustentação orale violação do art. 937 do CPC/2015.
+Com relação à multa imposta à parte recorrente, constata-se que a oposição dos embargos declaratórios, na Corte de origem, decorreu do legítimo exercício do direito de recorrer da parte, que se valeu do referido recurso para tentar combater decisão que lhe era desfavorável.
+Verifica-se, inclusive, que o TJMG reconheceu que a alegação de existência de diversas execuções envolvendo as mesmas partes e objeto foi apresentada, tão somente, como forma de demonstrar a probabilidade do direito defendido, como requisito autorizativo da concessão do efeito suspensivo aos embargos à execução, conforme se verifica do seguinte excerto(e-STJ fl. 827):
+Compulsando novamente as razões recursais apresentadas no agravo de instrumento, vislumbro que a alegação de existência de diversas execuções envolvendo as mesmas partes e objeto foi apresentada, tão somente, como forma de demonstrar a probabilidade do direito defendido, como requisito autorizativo da concessão do efeito suspensivo aos embargos à execução.
+(..)
+Desse modo, ausente qualquer pedido em relação à conexão, não incorre em omissão o acórdão ao não decidir sobre questão não postulada no recurso. Ademais, ainda que o pedido tivesse sido formulado no bojo do agravo de instrumento, tenho que a questão não poderia sequer ser conhecida por essa Turma Julgadora, vez que não foi objeto da decisão agravada e sequer foi analisada pelo magistrado singular.
+Portanto, os embargos de declaração foram opostos com o nítido caráter prequestionador, motivo pelo qual deve ser afastada a sanção prevista no art. 1.026, § 2º, do CPC/2015, nos termos da Súmula n. 98/STJ.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial, a fim de afastar a multa do art. 1.026, § 2º, do CPC/2015.
+Publique-se e intimem-se.
