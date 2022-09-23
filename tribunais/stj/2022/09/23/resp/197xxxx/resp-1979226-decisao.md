@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de recurso especial interposto por MACHADO, MEYER, SENDACZ, OPICE E ROMANO - ADVOGADOS, fundamentado exclusivamente na alínea "a" do permissivo constitucional, contra acórdão proferido pelo TJ/RR.
+Ação: de cobrança, ajuizada pela PETROBRÁS DISTRIBUIDORA S/A (cliente do ora recorrente/ora interessada), em face de RORAIMA ENERGIA S.A., por meio da qual objetiva a condenação desta ao pagamento de débitos decorrentes do fornecimento de produtos derivados de petróleo.
+Sentença: tendo em vista suposto acordo celebrado entre as partes, julgou extinto o processo, com resolução do mérito, nos termos do art. 487, III, "b", do CPC/2015, deixando de fixar honorários de sucumbência.
+Acórdão: negou provimento à apelação interposta pelo recorrente, nos termos da seguinte ementa:
+DIREITO CIVIL E PROCESSUAL CIVIL - APELAÇÃO CÍVEL EM AÇÃO DE COBRANÇA - TESE DE INEXISTÊNCIA DE RENÚNCIA AO PRAZO RECURSAL - JUÍZO DE ADMISSIBILIDADE SUPERADO - PREJUDICIALIDADE RECONHECIDA.SENTENÇA QUE APLICOU DISPOSITIVO RELATIVO À GRATUIDADE JUDICIÁRIA - INTEGRALIZAÇÃO EM POSTERIOR DECLARATÓRIOS - MODIFICAÇÃO DA FUNDAMENTAÇÃO - AUSÊNCIA DE INTERESSE RECURSAL. MÉRITO - CELEBRAÇÃO DE INSTRUMENTO PARTICULAR DE CONFISSÃO DE DÍVIDA - SENTENÇA HOMOLOGATÓRIA DE TRANSAÇÃO - TESE DE RECONHECIMENTO DO PEDIDO - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS DO ART. ART.840 E SS. DO CCB - HIPÓTESE QUE SE AMOLDA AO INSTITUTO DA TRANSAÇÃO - PLEITO DE CONDENAÇÃO EM HONORÁRIOS DE SUCUMBÊNCIA - AUSÊNCIA DE PREVISÃO NA AVENÇA - IMPOSSIBILIDADE - RECURSO DESPROVIDO.
+1. Nos termos da jurisprudência do colendo Superior Tribunal de Justiça "a transação é instituto em que há "reciprocidade de concessões, pois será necessário que ambos os transigentes concedam alguma coisa ou abram mão de alguns direitos em troca da segurança oferecida pela transação. Daí o caráter oneroso desse instituto, já que cada parte procura tirar uma vantagem do acordo, sem que as concessões mútuas devam implicar equivalência ou proporcionalidade das prestações ou correspondência das vantagens e sacrifícios" (Maria Helena Diniz, Curso de Direito Civil brasileiro, 23ª ed. São Paulo: Saraiva, 2007,p. 594)" (STJ, REsp 1530328/MG, Segunda Turma, Relator: Min. Herman Benjamin - p.: 30/06/2015).
+2. Conforme entendimento do mesmo STJ, "efetuada transação pelas partes sem anuência do advogado e antes de pronunciamento judicial fixando os honorários, tem o patrono direito à verba contratual, mas não a sucumbencial, pois essa ainda encontrava-se na esfera da expectativa de direito", de modo que "após o provimento judicial estabelecendo honorários, tendo as partes transacionado sem nada disporem sobre os honorários, independentemente da participação de seus advogados, cabe aos causídicos valerem-se das vias ordinárias, desimportando eventual trânsito em julgado" (STJ, AgInt nos EDcl no REsp 1750858/PR, Quarta Turma, Relator:Min. Luis Felipe Salomão - p.: 15/10/2019).
+3. No caso, revelando-se dos autos a demonstração inequívoca do ânimo de transigir, correta a sentença que entendeu pela ocorrência de acordo entre as partes, inexistindo possibilidade de condenação em honorários de sucumbência se não previsto na avença, que devem ser perquiridos em ação própria, tornando impossível o sucesso do reclame (e-STJ fls. 376-377).
+Embargos de declaração: opostos pelo recorrente, foram acolhidos, sem efeitos modificativos.
+Recurso especial: aponta a violação dos arts. 85,capute § 14, 90, 489, § 1º, IV, e 1.022, II, do CPC/2015; 840 e 842do CC/02; 23 e 24, § 4º, da Lei 8.906/94. Além de negativa de prestação jurisdicional, sustenta que:
+a)as partes, diferentemente do que afirmou o Tribunal de origem, não firmaram transação, mas sim Instrumento Particular de Confissão de Dívida ("CCD"), no qual a recorrida, na condição de devedora da obrigação principal, reconheceu/confessou a dívida cobrada pelaPETROBRÁS DISTRIBUIDORA S/A e comprometeu-se a efetuar o pagamento do débito confessado de forma parcelada;
+b)não estão presentes os requisitos para a configuração da transação, pois ausentes, na espécie, concessões mútuas de caráter oneroso, bem como interesse de pôr fim ao litígio, até mesmo porque as partes requereram a suspensão do processo até o final pagamento integral da dívida;
+c)toda transação gera novação, o que não ocorreu na hipótese dos autos, pois, com o "CCD", a dívida permaneceu a mesma - apenas possibilitou-se o pagamento parcelado;
+d)o "CCD" sequer observou a forma prescrita em lei - escritura pública ou por termo nos autos - para ser considerado um instrumento de transação;
+e)por meio do "CCD", houve apenas o reconhecimento jurídico do pedido, atraindo a aplicação do princípio da causalidade e a necessária fixação de honorários advocatícios; e
+f)tratando-se de direito autônomo e verba alimentar do advogado, não é possível que os honorários advocatícios sejam objeto de qualquer transação entre as partes.
+Distribuídos os autos, o Exmo. Min. Francisco Falcão abriu prazo para a manifestação do Ministério Público Federal.
+Parecer do MPF:de lavra dai. Subprocuradora-Geral da República, Dra. Maria Iraneide Olinda Santoro Facchini, opinou pela redistribuição dos autos da uma das Turmas que compõem a Segunda Seção deste STJ.
+Decisão monocrática:determinou a redistribuição dos autos a um dos Ministros que compõem a Segunda Seção desta Corte Superior.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+Inicialmente, convém ressaltar que o presente processo foi distribuído a um dos Ministros que compõem a Primeira Seção deste STJ.
+Ocorre que a controvérsia versada no presente recurso especial refere-se à natureza jurídica do instrumento firmado entre as partes - se de transação extrajudicial ou de confissão de dívida - para fins de definição da possibilidade de fixação de honorários de sucumbência no caso concreto.
+De fato, constata-se que a competência para o processamento do recurso é mesmo da Segunda Seção, nos termos do que disposto no art. 9º, § 2º, do RISTJ, pelo que passo à sua análise.
+- Da violação do art. 489, § 1º,IV, do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, IV, do CPC/2015.
+- Da violação do art. 1.022, II, do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da presença dos requisitos necessários à configuração da transação, de maneira que os embargos de declaração opostos pela parte recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca dos argumentos invocados pelo recorrente em seu recurso especial quanto aos arts. 842 do CC/02; 90 do CPC/2015; 23 e 24, § 4º, da Lei 8.906/94, o que inviabiliza o seu julgamento. Aplica-se, neste caso, a Súmula 211/STJ.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à natureza do instrumento firmado entre as partes - se transação ou apenas confissão de dívida/reconhecimento jurídico do pedido -, exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE COBRANÇA.VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC/2015. INOCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de cobrança, em virtude de débitos decorrentes do fornecimento de produtos derivados de petróleo.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489, § 1º, IV, do CPC/2015.
+3. Ausentes os vícios do art. 1.022, II, do CPC/2015, rejeitam-se os embargos de declaração.
+4. Aausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+5.O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6.Recurso especial parcialmente conhecido e, nesta extensão, não provido.
