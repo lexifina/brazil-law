@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de CARLOS HERIBERTO MARECO contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (Apelação Criminal n.0033497-30.2019.8.16.0030).
+Consta nos autos que o paciente foi condenado, em primeira instância,pela prática dos crimes detráfico ilícito de entorpecente e posse irregular de arma de fogo, a pena privativa de liberdade de06 (seis) anos, composta de 05 (cinco) anos de reclusão e 01 (um) ano de detenção, e a pena de 510 (quinhentos e dez) dias-multa, fixado o valor do dia multa no mínimo legal (e-STJ fls. 61/69).
+Inconformados, a defesa e o Ministério Público interpuseram apelações perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao apelo defensivo e proveu o recurso ministerial para alterar a pena do crime de tráfico,passando de 5 anos de reclusão e 500 dias-multa para6 anos de reclusão e 625 dias-multa, mantendo-se o regime inicial fechado imposto em sentença, em v. acórdão assim ementado (e-STJ fls. 31/39):
+APELAÇÃO CRIME. TRÁFICO DE DROGAS E POSSE DE ARMA DE FOGO. ART. 33, DA LEI 11.343/2006 E ART. 12 DA LEI Nº 10.826/03.SENTENÇA CONDENATÓRIA. INSURGÊNCIA. DOSIMETRIA DA PENA.
+1. APELAÇÃO DO MP. CRIME DE TRÁFICO DE DROGAS.MAJORAÇÃO DA PENA BASE EM RAZÃO DA QUANTIDADE E NATUREZA DA DROGAE AFASTAMENTO DA MINORANTE PREVISTA NO §4º DO ART. 33, DA LEI. 11.343/2006. ACOLHIMENTO.QUANTIDADE DE DROGAS, 240,6 KG DE MACONHA. AFASTAMENTO DA CAUSA DE DIMINUIÇÃO PREVISTA NO §4º DO ART. 33, QUE SE IMPÕE. REQUISITOS PARA A CONCESSÃO DA BENESSE NÃO PREENCHIDOS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS.
+2. APELAÇÃO DA DEFESA. CRIME DE TRÁFICO DE DROGAS.PEDIDO DE FIXAÇÃO DA PENA NO MÍNIMO LEGAL. NÃO ACOLHIMENTO. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. CULPABILIDADE E QUANTIDADE E NATUREZA DA DROGA. FIXAÇÃO DO REGIME INICIAL SEMIABERTO.DESCABIMENTO. MANUTENÇÃO DO REGIME FECHADO. AINDA QUE A PENA IMPOSTA NÃO SEJA SUPERIOR A OITO ANOS DE RECLUSÃO, HÁ MOTIVAÇÃO CONCRETA PARAIMPOSIÇÃO DO REGIME MAIS GRAVOSO, COM FUNDAMENTO NA GRAVIDADE CONCRETA DO CRIME, DEMONSTRADA PELA QUANTIDADE DE DROGA APREENDIDA (240,6 KG DE MACONHA) E PELO ENVOLVIMENTO DO FILHO ADOLESCENTE DO RÉU NO FATO.3. PENA REDIMENSIONADA EM FACE DO ACOLHIMENTO DO APELO DO MP.RECURSO DO RÉU CONHECIDO E NÃO PROVIDO. RECURSO DO MINISTÉRIO PÚBLICO CONHECIDO E PROVIDO
+Nopresente writ(e-STJ fls. 3/30), a impetrante alega, em síntese, a ocorrência de constrangimento ilegal, em razão da negativa de reconhecimento da causa especial de diminuição do § 4º do art. 33 da Lei de droga, em seu grau máximo, bem com na fixação do regime mais gravoso.
+Afirma que os requisitos necessários para a aplicação da benesse foram atendidos, uma vez que o paciente é primário, não ostenta maus antecedentes, não se dedica às atividades criminosas e não integra organização criminosa. Alega, ainda, que a quantidade de drogas apreendidas não pode levar a conclusão de que o acusado se dedica às atividades criminosas.
+Em razão da aplicação da redutora e do redimensionamento da pena, aponta que o paciente faz jus ao regime inicial mais brando e a substituição da pena privativa de liberdade por restritivas de direitos.
+Dessa forma, requer, na liminar e no mérito, a aplicação da minorante na fração de 2/3, a fixação do regime inicial mais brando e a substituição da pena privativa de liberdade por restritivas de direitos.
+É o relatório.Decido.
+A insurgência manifestada no presente habeas corpus tem por objeto a mesma irresignação manifestada no HC n. 624.702/SP, já analisado e não conhecido por esta Corte Superior.
+Assim, trata-se de mera reiteração de insurgência, que já foi submetida à apreciação desta Corte, revelando-se incabível. Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. TRANCAMENTO DA AÇÃO PENAL. PRETENSÃO JÁ ANALISADA EM WRIT ANTERIOR. MERA REITERAÇÃO. AGRAVO IMPROVIDO.
+1. Hipótese em que a a presente impetração constitui mera reiteração do pedido formulado no HC 429.842/SP, e isto porque há identidade de partes e da causa de pedir, impugnando os dois feitos a mesma decisão, o que constitui óbice ao seu conhecimento.
+2. Ainda que o habeas corpus anterior não tenha sido conhecido, caso analisada a pretensão para fins de análise de eventual flagrante ilegalidade, subsiste a reiteração entre os feitos.
+3. Agravo regimental improvido.
+(AgRg no RHC 94.212/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/04/2020, DJe 15/04/2020)
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO EM HABEAS CORPUS RECEBIDOS COMO AGRAVO REGIMENTAL. FUNGIBILIDADE RECURSAL. REITERAÇÃO DE PEDIDO E CAUSA DE PEDIR DO RECURSO EM RELAÇÃO AO INTERPOSTO ANTERIORMENTE. FUNDAMENTOS JURÍDICOS SIMILARES. ILEGALIDADE. INEXISTÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Em homenagem aos princípios da fungilidade recursal e da celeridade e economia processuais há que se receber os embargos de declaração como agravo regimental.
+2. Tratando-se de recurso em habeas corpus que possui o mesmo paciente, causa de pedir (decretação de prisão preventiva em sentença condenatória) e pedido (aguardar em liberdade o julgamento da apelação em liberdade), ainda que se tenham utilizados fundamentos diversos, mas que guardam similitude com os enfrentados em recurso anterior, fica caracterizada a reiteração suscetível de não conhecimento da presente impugnação.
+3.Embargos de declaração recebidos como agravo regimental, ao qual se negou provimento.
+(EDcl no RHC 76.162/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 25/10/2016, DJe 17/11/2016)
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO ANTERIOR. AGRAVO NÃO CONHECIDO.
+1. Não se conhece do recurso ordinário em habeas corpus quando a questão nele levantada já foi analisada em outro mandamus, por caracterizar reiteração de pedido.
+2. No caso, deixou-se de analisar o recurso ordinário em habeas corpus, por se tratar de mera reiteração de pedido formulado no RHC n. 58.051/MT.
+3. Agravo regimental não conhecido.
+(AgRg no RHC 60.885/MT, Rel. Ministro ERICSON MARANHO, Sexta Turma, DJe 15/12/2015).
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O NARCOTRÁFICO. CONDENAÇÃO. INDEFERIMENTO DO RECURSO EM LIBERDADE. PRETENDIDA REVOGAÇÃO DA PRISÃO PREVENTIVA. QUESTÃO JÁ DEDUZIDA EM PRÉVIO WRIT. MERA REITERAÇÃO DE PEDIDO. ALEGADO EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. PRINCÍPIO DA RAZOABILIDADE. ELEVADA QUANTIDADE DE PENA APLICADA. AUSÊNCIA DE OFENSA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. ORDEM DENEGADA.
+1. Tendo a tese da ilegalidade da prisão preventiva sido levantada em prévio recurso ordinário em habeas corpus interposto perante esta Corte Superior e, constatando-se que já houve o seu exame, tendo sido improvido, não merece conhecimento o writ nesse ponto, por se tratar de mera reiteração de reclamo anteriormente ajuizado.
+ ..
+4. Habeas corpus parcialmente conhecido, nesta extensão, denegada a ordem.
+(HC 318.357/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 28/5/2015).
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
