@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpussubstitutivo de recurso próprio, com pedido liminar, impetrado em benefício de FRANCISCO JACKSON PERIGOSO DE OLIVEIRA, contra decisão deDesembargador doTRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, proferidono julgamento do Habeas Corpusn. 0635299-78.2022.8.06.0000.
+Consta dos autos que o pacientefoi denunciado pela prática dos delitos previstos nos arts. 138 c/c 141, incisos II e III, c/c art. 71, do Código Penal (calúnia).
+No decorrer do processo, a defesa impetrou Habeas Corpus buscando a rejeição da denúncia, o que foi negado pelo Tribunal Estadual conforme decisão de fls. 345/348.
+No presente writ, a defesa busca que as declarações dadas pelo paciente em sede policial sejam consideradas nulas, alegando que "primeiro, em razão de não ter sido garantido os seus direitos constitucionais e, seguida, por não ter a autoridade policial classificado a declaração do depoente, se seria TESTEMUNHA ou INVESTIGADO. Tanto é, que consta apenas TERMO DE DECLARAÇÃO E NÃO INTERROGATÓRIO. Assim, não teria como saber se seria investigado ou testemunha, pois a autoridade não informou ou classificou." (fl. 7)
+Busca também a rejeição a denúncia, alegando que a mesma não possui justa causa.
+Alega que os fatos relatados pelo paciente são apenas de cunho jornalístico e não foram feitos na intenção de desmoralizar a pessoa da vítima. Demonstrouque as informações colhidas são verdadeiras e foram pegas de fontes confiáveis como o diário oficial da união e de denúncia apresentada ao ministério público contra a vítima.
+Subsidiariamente, caso não seja determinado o trancamento da ação penal, busca a defesa que seja aplicado o acordo de não persecução penal.
+Deste modo, requer, a superação do óbice da Súmula nº 691 do Supremo Tribunal Federal para que"seja CONCEDIDA MEDIDA LIMINAR DE OFÍCIO para suspender ação penal de 0070083-70.2019.8.06.0151, em tramitação na 1ª Vara Criminal da Comarca de Quixadá-CE., até o julgamento do Tribunal de Justiça do Estado do Ceará e relatora do Habeas Corpus nº 0635299-78.2022.8.06.0000."
+No mérito: "a concessão da ordem em definitivo para confirmar a medida liminar e ao fim de que seja cassado o ato ilegal para TRANCAR A AÇÃO PENAL de nº. 0070083-70.2019.8.06.0151, em tramitação na 1ª Vara Criminal da Comarca de Quixadá-CE." (fl. 38)
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer demandamusimpetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum, o que não ocorre no presente caso.
+Nesse sentido, destaco o seguinte precedente:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE OFENSA. DECISÃO PROFERIDA COM OBSERVÂNCIA DO RISTJ E DO CPC. ATO COATOR: DECISÃO SINGULAR DE DESEMBARGADOR DA INSTÂNCIA DEORIGEM. INDEFERIMENTO DA LIMINAR. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE MANIFESTA QUE AUTORIZE A RELATIVIZAÇÃO DA DIRETRIZ DA SÚMULA 691 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prolação de decisão monocrática pelo ministro relator, ou mesmo pela Presidência no período de férias forenses, está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+2. A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem.
+3. Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado (HC n. 318.415/SP, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/15, DJe 12/8/15).
+4. No caso destes autos, não há ilegalidade flagrante, abuso de poder ou teratologia a autorizar a superação do obstáculo contido na Súmula 691/STF.5. Agravo regimental não provido." (AgRg no HC 556.937/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 02/03/2020)
+Na hipótese não vislumbro a possibilidade de superação do mencionado enunciado sumular. Note-se que o indeferimento da tutela de urgência, pautou-se em fundamentação idônea, tendo o relator assim asseverado (fl. 345/346):
+"Após análise detida dos autos, em especial, da detalha exordial, bem como dos documentos acostados, reputo inadequado o deferimento imediato da ordem, como requer a parte, para trancamento da ação penal ou suspensão do andamento do feito, vez que o enfrentamento das matérias veiculadas reclamam exame acurado, algo inviável através da cognição perfunctória empreendida neste momento.
+Desse modo, considero fundamental ouvir a autoridade coatora para arregimentar elementos que viabilizem decisão revestida de maior segurança jurídica.
+Isso posto, sem prejuízo de exame mais detido quando do julgamento de mérito, indefiro o pedido liminar.
+Requisitem-se os informes à autoridade indicada como coatora.
+Recebidas as informações, encaminhe-se o feito à Procuradoria-Geral de Justiça."
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a superação do enunciado sumular.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presentehabeas corpus.
+Publique-se.
