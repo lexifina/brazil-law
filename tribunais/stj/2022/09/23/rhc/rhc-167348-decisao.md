@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por ALEXANDRE SANTOS DE SOUZA contra acórdão do Tribunal de Justiça do Estado do Espírito Santo(HC n.5000314-90.2022.8.08.0000).
+O recorrente teve sua prisão preventiva decretada em razão da suposta prática do delito previsto nos arts. 121, § 2º,I, III, IV e VI, c/c §2ª-A do Código Penal.
+Sustenta ausência de motivação idônea paranão substituir a prisão por medidas cautelares, destaca quea prisão do recorrente foi decretada e cumprida no dia 26/8/2017, ou seja, eleestá preso há cerca de 5 anos, sem previsão de inclusão do processo em pauta para julgamento, assim,incontroverso e irrefutável o excesso de prazo na formação da culpa.
+Pondera que o Juízo a quo, em 11/2/2022, marcousessão de Julgamento pelo Tribunal Popular do Júri para o dia 14/4/2022, porém, em17/2/2022, em razão de feriado previsto no calendário do Tribunal de Justiça, retirou o feito de pauta, desde então, semnova data para julgamento.
+Dispõe que a manutenção do recorrente custodiado por tantos anosimplica verdadeira antecipação de pena.
+Aduz ausência de fundamentação idônea no acórdão, visto que o recorrente é primário, com bons antecedentes e residência fixa, ostentando todos os requisitos pessoais para a concessão de medidas cautelares diversas da prisão.
+Requer a concessão da ordem a fim de revogar a prisão imposta ao recorrente, por excesso de prazo, mediante imposição de medidas cautelaresdiversas da prisão.
+Foram solicitadas informações ao Tribunal de origem, as quais foram prestadas às fls. 207-244.
+O Ministério Público Federal manifestou-se pelo provimento do recurso ordinário (fls. 207-244 e 254-256).
+É o relatório. Decido.
+O recurso não merece prosperar.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o recorrente foi pronunciado em 14/2/2018 econforme informações prestadas pela origem, embora o processo tenha entrado em pauta de julgamento para odia 14/4/2022, este foi retirado de pauta, tendo em vistaque a data mencionada era feriado previsto no calendário do Tribunal de Justiça. Observa-se ainda, que, foi informado que durante o primeirosemestre seria submetido à Sessão do Júri.A propósito, assim se manifestou o Tribunal a quo (fl. 113):
+E o andamento atual dos autos da ação originária demostra que o paciente seria submetido ao Conselho de Sentença no dia 14/04/2022, porém o feito foi retirado de pauta porque o cartório cometeu equívoco em escolher data de feriado previsto no calendário do Tribunal de Justiça. E, ainda neste semestre será submetido à Sessão do Juri, conforme informação obtida por minha assessoria em contato telefônico com o cartório da 3ª Vara Criminal de Serra/ES. Diferente da decisão paradigma que não havia previsão para submeter os réus ao Conselho de Sentença, caso o Recurso em Sentido Estrito fosse julgado improcedente.
+Ainda, em consulta ao andamento processual no Tribunal de origem, observa-se que a Sessão de Julgamento que estava designada para o dia 28/11/2022 foi antecipada para o dia 19/10/2022, tendo sido inclusive indeferido o pedido de adiamento da defesa.
+Assim, tem entendido o STJ que, por motivo de força maior, não há falar em excesso de prazo para formação da culpa, especialmente em função do referido contexto pandêmico aliado ao procedimento diferenciado dos processos submetidos ao pleno do tribunal do júri - no qual indispensável a participação popular -, quando não evidenciado flagrante constrangimento ilegal (HC n. 634. 665/AC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe 10/5/2021).
+Por fim, não havendo notícia de ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o julgamento pelo Tribunal do Júri, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
