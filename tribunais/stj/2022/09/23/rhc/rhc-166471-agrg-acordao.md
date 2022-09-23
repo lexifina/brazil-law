@@ -1,0 +1,21 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. INOCORRÊNCIA.
+1. Aos prazos consignados na lei processual deve atentar o julgador às peculiaridades de cada ação criminal. A ilegalidade da prisão por excesso de prazo somente pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de indevida coação.
+2. Segundo consta dos autos, a prisão preventiva foi decretada em 3/1/2020 e reavaliada em 12/8/2021 e 23/11/2021. A instrução processual iniciou-se em 28/4/2022 e continuou em 4/5/2022, encontrando-se suspensa no momento.
+3. Não evidenciada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de desídia do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Trata-se de agravo regimental interposto contra decisão que negou provimento ao recurso em habeas corpus.
+A defesa reitera as razões do recurso, alegando que a instrução processual encontra-se indevidamente atrasada em razão da dificuldade de inquirição de testemunhas arroladas pelo Ministério Público e pelo atraso injustificável na realização do interrogatório do paciente, que se encontra preso.
+Com base nesses argumentos, requer a concessão da ordem para a revogação da prisão preventiva.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - A defesa alega a existência de constrangimento ilegal na manutenção da prisão preventiva do paciente por mais de 2 anos sem que tenha havido o término da instrução processual.
+Mas não lhe assiste razão. Aos prazos consignados na lei processual deve-se atentar o julgador às peculiaridades de cada ação criminal. Uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo somente pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de indevida coação.
+Como dito na decisão agravada, a prisão preventiva foi decretada em 03/01/2020 e reavaliada em 12/08/2021 e 23/11/2021. A instrução processual começou em 28/04/2022 e, segundo consulta ao andamento processual na origem, continuou em 04/05/2022 e no momento encontra-se suspensa.
+Além disso, no Termo de Assentada juntado pelo recorrente consta que o interrogatório do réu por videoconferência havia sido agendado e confirmado pelo "Simav", no qual constava que o acusado estaria no presídio da capital, mas "pela equipe responsável pela vídeo conferência foi informado que não foi localizado nenhum réu com o nome e os dados deste, oportunidade em que compulsando os autos verificou-se que o mesmo encontra-se segregado no Presídio Tinoco da Fonseca- Campos dos Goytacazes-RJ, conforme juntada de carta precatória de fls.109/113, motivo pelo qual restou impossibilitado de participar da presente audiência" (fl. 230).
+Desse modo, a dificuldade na continuação da audiência de instrução decorre da necessidade de expedição de vários mandados e cartas precatórias, os quais demandam certo tempo para serem cumpridos, especialmente no caso de o acusado se encontrar preso em outro Estado.
+Dessa forma, não evidenciada mora estatal na persecução criminal, em que a sucessão de atos processuais infirma a ideia de paralisação indevida da própria investigação, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida, contexto no qual nego provimento ao agravo regimental.
+É o voto.
