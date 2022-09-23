@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se  de  agravo de ATHBRASIL ISOLANTES TERMICOS E REFRATÁRIOS LTDA. eOUTRO, em que objetivaadmissão  de  recurso especial interposto  contra  acórdão  do TJMG assim ementado:
+EMENTA: AGRAVO DE INSTRUMENTO -REPETIÇÃO DE INDÉBITO TRIBUTÁRIO -PEDIDO ADMINISTRATIVO -INDEFERIMENTO -PRAZO PRESCRICIONAL BIENAL .- Após o indeferimento do pedido de repetição do indébito tributário na via administrativa, a pretensão de desconstituição da decisão administrativa e repetição pela via judicial se sujeita ao prazo prescricional de dois anos (art. 169 do CTN). - A ação de repetição de indébito pressupõe a revisão da decisão administrativa que indeferiu o pedido de repetição de indébito anteriormente, se sujeitando ao prazo prescricional de dois anos.
+No  especial,  a  parte  alega  violação  dos  arts. 165 e 168 do CTN,  bem  como  a  ocorrência  de  divergência  jurisprudencial.
+ Sustenta,  em  síntese, que, contrariamente ao que ficou firmado no acórdão do Tribunala quo,o prazo prescricional que deve ser utilizado para a presente ação de repetição de indébito é o quinquenal do art. 168 do CTN, sendo inaplicável o prazo bienal na espécie por não tratar de pedido anulatório de decisão administrativa.
+Por esta razão, sustenta que o prazo prescricional para a repetição de indébito não teria se esgotado, tendo em vista a propositura anterior de ação repetitória que teria interrompido o prazo prescricional antes do seu decurso.
+Contrarrazões pelo ESTADO DE MINAS GERAIS apontado para os óbices das Súmulas 7 do STJ e 284 do STF ao conhecimento do recurso.
+O recurso especial foi inadmitido por aplicação do óbice da Súmula 283 do STF, fundamento atacado no agravo.
+Contraminuta  foi  apresentada  pela  parte  agravada.
+Passo  a  decidir.
+O recurso especial se origina de agravo de instrumento interposto pelo ESTADO contra decisão em ação repetitória de indébito tributário que afastou as preliminares de litisconsórcio eilegitimidade da autora, bem como a alegação de prescrição do direito à anulação de decisão administrativa que negou a repetição de indébito.
+O ESTADO DE MINAS GERAIS agravou de instrumento pleiteando a revisão da decisão para reconhecer a ilegitimidade ativa do autor e a ocorrência da prescrição bienal do art.169 do CTN para anular decisões administrativas que tratam de repetição de indébito.
+O Tribunal mineiro deu parcial provimento ao agravo de instrumento.
+Na ocasião, apesar de afastaras demais preliminares e reconhecer (e-STJ fl. 1.542) que a pretensão judicial de repetição de indébito não faz nenhuma referência à anulação da decisão administrativa,acolheua alegação de prescrição, aplicando à espécie o prazo do art. 169 do CTN e reconhecendo que, quando da propositura da primeira ação (extinta sem resolução de mérito por abandono), o prazo para a anulação da decisão administrativa já havia escoado.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+O recurso especial merece acolhimento.
+Apreciando atentamente a questão do prazo prescricional para a repetição de indébito e diferenciando-o do prazo bienal para a anulatória da decisão administrativa, esta Corte superior tem orientado que "oprazo de dois anos previsto no art.169 do CTN é aplicável às ações anulatórias de ato administrativo que denega a restituição, que não se confundem com as demandas em que se postula restituição do indébito, cuja prescrição é regida pelo art. 168 do CTN"(REsp 799.564/PE, relator Ministro Teori Albino Zavascki, Primeira Turma, julgado em 18/10/2007, DJ de 5/11/2007, p. 225.).
+Nesse sentido:
+TRIBUTÁRIO. ART. 169 DO CTN. FALTA DE PREQUESTIONAMENTO. INAPLICABILIDADE ÀS AÇÕES DE REPETIÇÃO DE INDÉBITO. PRESCRIÇÃO CONFIGURADA.
+1. Quando os embargos declaratórios são utilizados na pretensão de revolver todo o julgado, com nítido caráter modificativo, podem ser conhecidos como agravo regimental, em razão da instrumentalidade e celeridade processual.
+2. O Tribunal a quo, embora tenha abordado a questão prescricional, não emitiu juízo de valor sobre a tese contida no art. 169 do CTN, que trata da ação anulatória de decisão administrativa.
+3. Observa-se que a recorrente ajuizou "Ação de Repetição de Indébito" em vez de ação anulatória da decisão administrativa que denega a restituição, o que afasta a incidência do disposto no art. 169 do CTN para fazer incidir a prescrição do art. 168 do mesmo codex. EDcl no REsp 1.219.078/SC, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 1º/10/2013, DJe 7/10/2013.
+4. A ausência de manifestação quanto ao art. 169 do CTN, portanto, é decorrência lógica da utilização da ação inadequada, o que afasta a necessidade do Tribunal de origem em pronunciar-se sobre tal normativo, porquanto inaplicável à hipótese.
+5. Proposta a ação de repetição de indébito em 8/6/2005, a prescrição do direito de pleitear a restituição ou compensação ocorre após expirado o prazo de cinco anos, contados do fato gerador, acrescido de mais cinco anos a partir da homologação tácita (tese dos "cinco  cinco"), o que conduz à prescrição dos valores anteriores a 8.6.1995.
+6. Os valores objeto da restituição tributária são referentes ao período de abril de 1991 a setembro de 1993, estando todos abarcados pelo instituto da prescrição.
+Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no REsp n. 1.422.756/SC, relator Ministro Humberto Martins, Segunda Turma, julgado em 19/3/2015, DJe de 25/3/2015.).
+TRIBUTÁRIO. AÇÃO ANULATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO. PRAZO PRESCRICIONAL. CASO CONCRETO. CINCO ANOS.
+1. "O prazo de dois anos previsto no artigo 169 do CTN é aplicável às ações anulatórias de ato administrativo que denega a restituição, que não se confundem com as demandas em que se postula restituição do indébito, cuja prescrição é regida pelo art. 168 do CTN" (REsp 799.564/PE, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJ 05/11/2007).
+2. Hipótese em que, em razão de confusão procedimental administrativa, a parte pretende não só a anulação das decisões administrativas mas também a repetição do indébito, razão pela qual a pretensão está submetida ao prazo quinquenal do art. 168, I, do CTN.
+3. Recurso especial provido.
+(REsp n. 1.489.436/RN, relator Ministro Sérgio Kukina, relator para acórdão Ministro Gurgel de Faria, Primeira Turma, julgado em 6/8/2019, DJe de 5/9/2019.).
+Na hipótese dos autos, como relatado, o Tribunal mineiro deixou claro, ao decidir que a pretensão judicial de repetição de indébito feita pelo autor não faz nenhuma referência à anulação da decisão administrativa que indeferiu o pedido de repetição de indébito e que, mesmo assim, deveria ser aplicada a regra do art. 169 do CTN à espécie (e-STJ fl. 1.542):
+Ainda que a pretensão judicial de repetição de indébito não mencione expressamente a anulação da decisão administrativa, a pretensão da repetição do indébito se sujeita ao prazo prescricional de dois anos, pois a repetição pressupõe a desconstituição da decisão administrativa, conforme adverte Paulsen ao comentar o art. 169 do CTN:
+ ..
+Assim, a ação de repetição de indébito pressupõe a revisão da decisão administrativa que indeferiu o pedido de repetição de indébito anteriormente, se sujeitando ao prazo prescricional de dois anos, conforme regra especial contida no art. 169 do CTN.
+Do acima relatado, vê-se que a conclusão adotada pela Corte estadualnão encontra amparo na orientação da jurisprudência desta Corte superior, devendo ser oportunizado ao Tribunala quoque dê novo julgamento ao agravo de instrumento, observando a orientação jurisprudencial.
+Ante  o  exposto,  com  base  no  art.  253,  parágrafo  único,  II,  "c",  do  RISTJ,  CONHEÇO  do  agravo  para  DAR  PROVIMENTO  ao  recurso especial e DETERMINAR que o Tribunal a quo realizenovo julgamento ao agravo de instrumento, aplicando o prazo quinquenal do art. 168 do CTN à contagem da prescrição, passando à análise dos demais pontos tecidos no primeiro grau, em especialquanto à possibilidade de interrupção do prazo prescricionalquando da propositura da ação repetitória anterior.
+Publique-se. Intimem-se.
