@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela FAZENDA NACIONAL, pedindo integração quanto à alegação recursal de violação do art. 1.026, § 2º, do CPC/2015.
+Sem impugnação pela parte recorrida.
+É o relatório. Decido.
+Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso, necessária a integração pedida, uma vez não ter sido objeto de análise a tese recursal referente à multa do § 2º do art. 1.026.
+Então, vejamos.
+Ao tratar da oposição dos embargos de declaração, o CPC/2015, no § 2º do art. 1.026, determinou: "quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor atualizado da causa". Assim, não tendo por finalidade verdadeira sanar nenhum vício de integração, forçoso reconhecer que a oposição dos embargos de declaração protela, desnecessariamente, o fim do litígio, autorizando, portanto, a imposição da multa.
+A respeito, dentre outros:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. QUINQUÊNIOS E SEXTA PARTE. FUNDAMENTO QUE AMPARA O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA 283/STF. AFASTAMENTO DA MULTA DO ART. 1.026, § 2º, DO CPC/2015. EMBARGOS DECLARATÓRIOS COM NÍTIDO CARÁTER PROTELATÓRIO. IMPOSSIBILIDADE.
+1. No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, o de que "a ação rescisória foi extinta sem resolução do mérito, como já mencionado, não havendo que se falar, por óbvio, em omissão acerca das teses de mérito apontadas pela embargante" (fl. 186), esbarrando, pois, no obstáculo da Súmula 283/STF.
+2. Ademais, não há como afastar a multa imposta pelo art. 1.026, § 2º, do CPC/2015, tendo em vista o caráter manifestamente protelatório dos embargos de declaração. Registre-se que a jurisprudência desta Corte firmou a compreensão de que os embargos de declaração são cabíveis apenas para corrigir eventuais equívocos existentes no acórdão, de forma que a conduta que se distancia do propósito legal de sanar omissão porventura existente, ou mesmo de prequestionar a matéria, enseja a aplicação da multa.
+3. Agravo interno não provido.
+(AgInt no AREsp 1458210/SP, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/09/2019, DJe 26/09/2019)
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. INOVAÇÃO DE TESE RECURSAL. IMPOSSIBILIDADE. CARÁTER INFRINGENTE E PROTELATÓRIO. APLICAÇÃO DA MULTA PREVISTA NO ARTIGO 1.026, § 2º, DO CPC/2015.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Os embargos de declaração não se prestam ao exame de questões inéditas não suscitadas oportunamente pela parte embargante, restando caracterizada a existência de inovação recursal. Precedentes: AgInt no AREsp 995.381/BA, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 2/5/2017; EDcl no REsp 1.643.250/RS, Relator Ministro Herman Benjamin, Segunda Turma, DJe 16/10/2017.
+4. Tendo em vista que os presentes aclaratórios desafiam acórdão que aplicou firme entendimento jurisprudencial de ambas as Turmas que compõem a Primeira Seção, é de se reconhecer o caráter manifestamente protelatório do recurso, o que enseja a aplicação da multa do art. 1.026, § 2º, do CPC/2015.
+5. Embargos de declaração da Fazenda Nacional rejeitados, com imposição de multa.
+(EDcl no AgInt no REsp 1690612/PR, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/08/2018, DJe 08/08/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ENUNCIADO ADMINISTRATIVO 3/STJ. HIPÓTESE DE CABIMENTO. CONTRADIÇÃO. DESCARACTERIZAÇÃO. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. OBSERVÂNCIA DE PRECEDENTE FIRMADO EM REGIME DE REPERCUSSÃO GERAL. CARÁTER PROTELATÓRIO.
+1. Os embargos de declaração constituem recurso de fundamentação vinculada ao saneamento de vícios de omissão, contradição, obscuridade e erro material, não servindo ao propósito de mero rejulgamento da causa.
+2. A oposição de embargos de declaração contra acórdão fundado na aplicação ao caso concreto de precedente firmado pelo Supremo Tribunal Federal sob o regime de repercussão geral, sem a devida demonstração da sua inaplicabilidade à controvérsia, evidencia propósito de protelação recursal a exigir a devida reprimenda pecuniária.
+3. Embargos de declaração rejeitados, com o reconhecimento do caráter protelatório e a cominação de multa arbitrada em dois por cento sobre o valor atualizado da causa.
+(EDcl no RMS 54.191/DF, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/09/2017, DJe 15/09/2017)
+É fato, contudo, que embargos de declaração opostos com o fim de prequestionar a matéria recursal não caracterizam intenção protelatória da parte, à luz das Súmulas 98 do STJ e 356 do STF (v.g.: EDcl no AgInt na AR 4.865/SC, Relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 23/10/2019, DJe 04/11/2019; AgInt no AREsp 1370201/PR, Relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 03/06/2019, DJe 05/06/2019; EDcl no AgInt no REsp 1831805/SC, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe 26/03/2020).
+No caso dos autos, conquanto a fundamentação adotada pelo órgão julgador tenha tornado desnecessária a integração pedida nos aclaratórios, observa-se a intenção da Fazenda de prequestionar a matéria constitucional, o que torna inaplicável a multa do § 2º do art. 1.026 do CPC/2015.
+Ante o exposto, acolho os embargos de declaração para, integrando a decisão embargada, dar provimento ao recurso especial tão somente para excluir a multa aplicada por ocasião do julgamento dos embargos de declaração.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. EMBARGOS ACOLHIDOS.
