@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a", da CF) interposto de acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. EXECEÇÃO DE PRÉ-EXECUTIVIDADE. ALEGAÇÃO DE NULIDADE DO TÍTULO EXECUTIVO POR SUPOSTA UTILIZAÇÃO UFIR EM VEZ DE INSCRIÇÃO EM MOEDA CORRENTE NACIONAL. AUSÊNCIA DE PROVA INEQUÍVOCA A AFASTAR A PRESUNÇÃO DE CERTEZA E LIQUIDEZ DA CDA. RECURSO IMPROVIDO.
+1. A exceção de pré-executividade, criação jurisprudencial, é providência processual de natureza restritíssima, viável apenas diante de situação jurídica clara e demonstrável de plano (Súmula 393/STJ).
+2. A Certidão de Dívida Ativa goza de presunção de certeza e liquidez juris tantum que só pode ser elidida mediante a cargo do devedor, nos prova inequívoca termos do artigo 3º da Lei nº 6.830/80. Meras alegações genéricas de irregularidades ou de incerteza do título executivo, sem prova capaz de comprovar o alegado, não retiram da CDA a certeza e a liquidez de que goza por presunção expressa em lei.
+3. Dos elementos constantes dos autos é possível verificar qualquer não desde logo nulidade no título executivo, o qual veicula com precisão a discriminação do débito, origem, natureza da dívida e fundamentação legal, além do número do respectivo processo administrativo que ensejou culminou na inscrição em dívida ativa. A este respeito, a decisão agravada assim dispôs: "..diferentemente do alegado, nas CDA"s que instruem a inicial constam os devidos valores em moeda corrente atual (real), inexistindo vício de constituição. Se o executado pretende discutir critérios de transformação ou correção do valor, a via estreita da exceção de pré-executividade não presta para tanto, por demandar dilação probatória.
+4. A utilização da UFIR, criada em janeiro de 1992 com a edição da Lei nº 8.383/91, art. 57, em nada compromete a liquidez e certeza do título executivo; legalmente tratava-se de índice de atualização de créditos, não majorava os tributos e nem modificava a sua base de cálculo. A partir de 1/01/96 passou a ter validade a Taxa Selic, sendo que a UFIR desde então, não está sendo usada como fator de correção mas somente como expressão numérica dos valores exigidos, o que facilita a apuração do devido, indo ao encontro das exigências do artigo quantum 202 do CTN e o art. 6º, da Lei 6.830/80.
+5. Recurso improvido.
+A recorrente alega violação dos arts. 202, II, e 203, caput, do CTN;e do art. 29, §§ 1º a 3º, da MP de 973-67. Sustentaque as CDAs que embasam o processo executivo fiscal são nulas, por serem créditos constituídos em UFIRs, que desatendem ao requisito de inscrição em moeda corrente nacional.
+Contrarrazões às fls. 248-252, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13.9.2022.
+Consignou-se no acórdão recorrido:
+Dos elementos constantes dos autos não é possível verificar desde logo qualquer nulidade no título executivo, o qual veicula com precisão a discriminação do débito, origem, natureza da dívida e fundamentação legal, além do número do respectivo processo administrativo que ensejou culminou na inscrição em dívida ativa.
+A este respeito, a decisão agravada assim dispôs: "..diferentemente do alegado, nas CDA"s que instruem a inicial constam os devidos valores em moeda corrente atual (real), inexistindo vício de constituição. Se o executado pretende discutir critérios de transformação ou correção do valor, a via estreita da exceção de pré-executividade não presta para tanto, por demandar dilação probatória."
+Anoto que a utilização da UFIR, criada em janeiro de 1992 com a edição da Lei nº 8.383/91, art. 57, em nada compromete a liquidez e certeza do título executivo; legalmente tratava-se de índice de atualização de créditos, não majorava os tributos e nem modificava a sua base de cálculo. A partir de 1/01/96 passou a ter validade a Taxa Selic, sendo que a UFIR desde então, não está sendo usada como fator de correção mas somente como expressão numérica dos valores exigidos, o que facilita a apuração do devido, indo ao encontro das exigências do artigo 202 do CTN e o art. 6º, quantum da Lei 6.830/80.
+Logo, o direito da devedora é NENHUM, à vista do que ela alega. (fl. 241, e-STJ, grifos acrescidos)
+Em detida análise das peculiaridades do caso concreto, o Tribunal a quo julgou que as CDAs preenchem os requisitos do art. 202 do CTN, repetidos na LEF.
+Verifica-se que o Recurso não pretende aferir a interpretação das normas legais, mas reapreciar o conjunto fático-probatório dos autos.
+Assim, rever o entendimento do aresto impugnado no que tange à higidez ou não das CDAs que aparelham a Execução Fiscal, com o objetivo de acolher a pretensão recursal, demanda revolvimento de matéria fática, o que é inviável em Recurso Especialante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
