@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de ANA PAULA FERREIRA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇADE SÃO PAULO (Processo n. 0006727-43.2022.8.26.0506).
+A paciente foi denunciada como incursa nos arts. 2º, capute § 3º, da Lei 12.850/2013, e 1º, capute §§ 1º e 4º, da Lei n. 9.613/1998, tendo o Juízo de origem decretado a sua prisão domiciliar.
+Aduz a parte impetrante a ocorrência de constrangimento ilegal decorrente do acórdão que proveu recurso em sentido estrito interposto pelo órgão ministerial, para decretar a prisão preventiva da paciente.
+Alega, em síntese, que a paciente possui filhos menores de 12 anos de idade, sendo recomendado no interesse dos menores a substituição da prisão preventiva por medidas cautelares menos gravosas, consoante entendimento explicitado pelo Juízo de origem.
+Requer a concessão da ordem, liminarmente, para que a paciente sejacolocada em liberdade, ainda que mediante a fixação de medidas cautelares diversas da prisão.
+O pedido de liminar foi indeferido pela Presidência desteSuperior Tribunal (fls. 188/190).
+Ofertados pedidos de reconsideração (fls. 194/207 e 213/225), ambos indeferidos (fls. 209/210 e 346/347).
+Prestadas as informações (fls. 227/345), o Ministério Público Federal manifestou-se pela substituição da prisão por medida cautelar diversa ou conceder a prisão domiciliar (fl. 378).
+É o relatório.
+Inicialmente,com o advento da Lei n. 13.257/2016, o art. 318 do Código de Processo Penal passou a permitir ao juiz a substituição da prisão cautelar pela domiciliar quando o agente for mulher com filho de até 12 (doze) anos de idade incompletos(AgRg no RHC n. 163.226/RJ, Ministro Ribeiro Dantas, Quinta Turma,DJe 15/9/2022)
+Estabelecida essa premissa, pelos percucientes fundamentos, aos quais nada tenho a acrescentar, adoto como razões de decidir o parecer exarado pelaSubprocuradoria-Geral da República (fls. 373/378):
+ ..
+Temos que o habeas corpus deve ser concedido parcialmente, substituindo-se a prisão preventiva por medida cautelar diversa.
+De acordo com os autos, Ana Paula Ferreira foi presa preventivamente, em17/3/2022, em razão de ter, juntamente com outros oitos denunciados, integrado organização criminosa responsável por formalizar contratos fraudulentos de empréstimos consignados para pensionistas e aposentados do INSS, induzindo-os a erro, resultando no prejuízo de mais de 13 milhões de reais em apenas ano.
+Com efeito, a paciente foi denunciada pela prática dos crimes de lavagem de dinheiro e de organização criminosa (art. 2º, caput e § 3º, da Lei nº 12.850/13, art. 1º, caput e §§ 1º e 4º, da Lei nº 9.613/98, na forma do art. 69 do Código Penal).
+Em 25/3/2022, o juízo substituiu a prisão preventiva por prisão domiciliar, coma seguinte fundamentação:
+ ..
+Ocorre que, no dia 25/3/2022, o Ministério Público do Estado de São Paulo interpôs Recurso em Sentido Estrito, o qual foi provido pela 9ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, para reestabelecer a prisão preventiva da paciente, nos seguintes termos:
+ ..
+Inicialmente, a materialidade e os indícios de autoria delitiva (fumus commissi delicti), bem como os elementos que indicam a necessidade de imposição de medida cautelar (periculum libertatis), estão suficientemente demostrados, conforme se vê da decisão que decretou a prisão preventiva (e-STJ fls. 22/46) e do acórdão que reestabeleceu a segregação cautelar (e-STJ fls. 66/75).
+Mas isso não significa, necessariamente, a decretação e manutenção da prisão preventiva, a mais grave das medidas cautelares previstas no ordenamento jurídico, que somente deve ser admitida em casos de extrema necessidade e de impossibilidade de substituição por medida cautelar diversa (CPP, art. 319).
+Afinal, com o advento da reforma da Lei nº 12.403/2011, a prisão, que já era uma exceção, tornou-se uma exceção da exceção, que só pode ser admitida e mantida em casos de absoluta necessidade, seja pela gravidade concreta do delito, seja pela provável reiteração no cometimento de crimes graves.
+No caso dos autos, a prisão é perfeitamente substituível por alguma ou algumas das medidas cautelares de que trata o art. 319 do Código de Processo Penal, nos termos do art. 282, § 6º, do CPP, com a redação dada pela Lei nº 12.403/2011, visto que: a) a paciente ainda não foi sentenciada; b) a gravidade do crime é uma condição necessária, mas não suficiente para a decretação e manutenção da prisão; c) a paciente, ao que tudo indica, é primária e possui bons antecedentes; d) não há provas de um eventual risco de fuga ou obstrução da investigação; e) constituiu advogado e forneceu o endereço onde poderá ser encontrada; f) no caso de descumprimento das restrições impostas, a prisão poderá ser novamente decretada em desfavor da paciente (CPP, art. 282, §6º).
+Assim, temos que a prisão preventiva pode e deve ser substituída por medidas cautelares diversas da prisão, dada a suficiência e adequação destas para assegurar a ordem pública.
+É certo, ainda, que, de todas as medidas cautelares pessoais, a prisão preventiva é a mais violenta forma de intervenção sobre a liberdade, razão pela qual a sua decretação - e manutenção - só poderá ocorrer em ultima ratio, isto é, quando forem insuficientes, e enquanto o forem, outras medidas de coação menos lesivas e mais adequadas. A prisão temporária/preventiva será abusiva, portanto, sempre que for substituível por medida cautelar diversa.
+Como há muito se reconhece, o problema da prisão é a própria prisão, ambiente artificial, hostilíssimo e nocivo sob todos os aspectos, onde se dão violações sistemáticas de direitos humanos básicos, instituição que não é nem sequer capaz de assegurar(no Brasil) o direito à vida e à integridade física, tantos são os motins, as rebeliões e as guerras entre facções rivais, por exemplo. A prisão tampouco reeduca, mas corrompe e embrutece, não ressocializa, mas dessocializa, nem impede o cometimento de novos crimes, mas os potencializa. Logo, não é (frequentemente) um meio de prevenir delitos, em carátergeral ou especial, mas um estímulo à reincidência mesma.
+Daí dizer Ferrajoli que a prisão é uma contradição institucional, que pode e deve ser radicalmente reduzida:
+ ..
+É certo que situações excepcionalíssimas podem impedir a prisão domiciliar para mães de menores de 12 anos mesmo após a entrada em vigor da Lei 13.769/2018, que alterou o Código de Processo Penal; porém, não é o caso. Assim, se é possível a substituição da prisão preventiva por medida cautelar diversa, por que não caberia a prisão domiciliar, que é uma prisão preventiva cumprida em condições especiais, e, pois, mais gravosa que as cautelares diversas
+É certo que, se o cabe mais, há de caber o menos. Assim, no caso, também épossível a concessão de prisão domiciliar à paciente.
+É justo, pois, conceder a ordem, para: a) substituir a prisão preventiva por algumas das medidas cautelares de que trata o art. 319 do Código de Processo Penal nos termos do art. 282, § 6º, do CPP, com a redação dada pela Lei nº 12.403/2011, especialmente: a) monitoração eletrônica; b) comparecimento periódico em juízo no prazo e nas condições fixadas pelo juiz para informar e justificar atividades; c) proibição de nova mudança de domicílio sem prévia autorização judicial; b) conceder prisão domiciliar, alternativamente.
+Por tais razões, o Ministério Público Federal requer a concessão da ordem de habeas corpus para substituir a prisão por medida cautelar diversa ou conceder a prisão domiciliar.
+ ..
+Em face do exposto, concedo parcialmente a ordem impetrada para assegurar à paciente o cumprimento da pena em prisão domiciliar, devendo o Juízo da execução oficiar ao Conselho Tutelar e determinar à Assistência Social para que promovam o adequado acompanhamento do caso, de modo a verificar a ocorrência de omissão ou abuso da ré em relação aos cuidados com os filhos.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. ORGANIZAÇÃO CRIMINOSA E LAVAGEM DE DINHEIRO. PRISÃO DOMICILIAR. GENITORA DE CRIANÇAS MENORES DE 12 ANOS. CRIME COMETIDO SEM VIOLÊNCIA OU GRAVE AMEAÇA. AUSÊNCIA DE PERICULOSIDADE DA PACIENTE PARA OS INFANTES. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PARECER ACOLHIDO.
+Ordem parcialmente concedida nos termos do dispositivo.
