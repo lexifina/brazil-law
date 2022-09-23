@@ -1,0 +1,65 @@
+DECISÃO
+Estes autos foram a mim redistribuídos por prevenção do processo HC n. 523.751/MG (fl. 3.060).
+Trata-se de agravo interposto por Luiz Felipe Dias Silva contra a decisão do Tribunal de Justiça de Minas Gerais, que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele apresentado, impugnando os acórdãos prolatados na Apelação Criminal n. 1.0472.17.001939-3/001, nos Embargos de Declaração n. 1.0472.17.001939-3/002 e nos Embargos de Declaração n. 1.0472.17.001939-3/004 (fls. 2.455/2.549 e 2.624/2.636).
+Nas razões do especial, apontou a defesa contrariedade aos arts. 29 e 71, parágrafo único, do Código Penal; 283 e 564, IV, do Código de Processo Penal; 4º, §§ 2º, 6º e 7º da Lei n. 12.850/2013. Sustentou, em suma, a nulidade do procedimento de colaboração premiada, dada a ausência de validade do termo de colaboração realizada pela autoridade policial; pela falta de descrição expressa das benesses às quais o recorrente fazia jus, pelo uso indevido das provas obtidas em seu desfavor, e pela inexistência de homologação da rescisão da colaboração premiada; não participação do recorrente na prática do crime de roubo; a não observância da continuidade delitiva simples; a indevida expedição da guia provisória sem o esgotamento de todas as instâncias, requerendo, ao final, a reforma do acórdão impugnado(fls. 2.818/2.854).
+Apresentadas contrarrazões (fls. 2.908/2.912), o recurso foi inadmitido na origem, por incidência da Súmulas 7 e 211/STJ (fls. 2.937/2.945).
+Contra essa decisão a defesa interpõe agravo (fls. 2.956/2.998). Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo, nos seguintes termos (fl. 3.062):
+PROCESSO PENAL. AGRAVOS INTEMPESTIVOS.
+1. "Em matéria criminal, é extemporâneo o agravo de instrumento interposto fora do prazo de 5 dias previsto no art. 28 da Lei 8.038/90." 2. A Terceira Seção do Superior Tribunal de Justiça pacificou o entendimento de que não se aplicam as regras introduzidas pelo Novo Código de Processo Civil, referentes à contagem dos prazos em dias úteis e ao prazo de 15 dias, ao agravo que impugna decisão monocrática em matéria penal e processual penal nos Tribunais Superiores.
+- Parecer pelo não conhecimento dos agravos em recurso especial.
+É o relatório.
+Conquanto tempestivo, o agravo é inadmissível.
+A teor do disposto no art. 932, III, do Código de Processo Civil, compete à parte agravante infirmar especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre, sejam eles autônomos ou não, mostrando-se inadmissível o agravo que não se insurge contra todos eles (AgRg no AREsp n. 534.288/RR, Ministro Jorge Mussi, Quinta Turma, DJe 10/10/2018).
+Isso porque a decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+Nesse sentido, destaco os seguintes precedentes: AgRg no AREsp n. 1.808.765/SP, de minha relatoria, Sexta Turma, DJe 26/5/2021; AgRg nos EDcl no AREsp n. 1.785.474/SC, Ministra Laurita Vaz Sexta Turma, DJe 3/5/2021; e EAREsp n. 701.404/SC, Relator p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+No caso dos autos, verifica-se, de plano, que o agravante não refutou os fundamentos adotados pela Corte de origem, de incidência das Súmulas 7 e 211/STJ (fls. 2.942/2.945).
+No agravo de fls. 2.956/2.998, a defesa apenas repete os argumentos referentes ao mérito da controvérsia.
+Tal o contexto, verifica-se que não foi observada a regra disposta nos arts. 932, III, do Código de Processo Civil, e 253, parágrafo único, I, do RISTJ, atraindo, com isso, a incidência da Súmula 182/STJ, por analogia.
+Sobre o tema, destaco:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DE USO DE DOCUMENTO PÚBLICO FALSO. AUTORIA E MATERIALIDADE DO DELITO. ALEGAÇÃO DE CRIME IMPOSSÍVEL. SÚMULA N. 7 DO STJ. VALORAÇÃO NEGATIVA DA CULPABILIDADE. FIXAÇÃO DO REGIME INICIAL. SLÚMULA N. 83 DO STJ. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Os recursos devem impugnar especificamente os fundamentos da decisão cuja reforma é pretendida, não sendo suficientes alegações genéricas nem a reiteração dos argumentos referentes ao mérito da controvérsia.
+2. Incide a Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+3. Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa.
+4. De modo a impugnar a incidência da Súmula n. 83 do STJ, deve-se demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+5. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.951.585/PR, Ministro João Otávio de Noronha, Quinta Turma, DJe 10/6/2022)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. ANÁLISE DO MÉRITO DO APELO NOBRE QUANDO DO EXAME DE ADMISSIBILIDADE PELA CORTE DE ORIGEM. POSSIBILIDADE. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE O FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há usurpação da competência do Superior Tribunal de Justiça pela Corte Estadual, ao argumento de que houve o ingresso indevido no mérito do recurso especial por ocasião do juízo de admissibilidade, uma vez que constitui atribuição do Tribunal a quo o exame dos pressupostos específicos do apelo nobre relacionados ao mérito da controvérsia, nos termos da Súmula n. 123 desta Corte Superior de Justiça.
+2. Nas razões do agravo em recurso especial, não foi rebatido, especificamente, o fundamento relativo à ausência de nulidade decorrente da falta de procuração em primeira instância (Súmula n. 115/STJ, a contrario sensu). Incidência da Súmula n. 182/STJ.
+3. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade
+4. Diante da ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.032.402/SP, Ministra Laurita Vaz, Sexta Turma, DJe 6/5/2022)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ECA. FUNDAMENTO DO ACÓRDÃO INATACADO. SÚMULA N. 182 DO STJ. INCIDÊNCIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inadmitido o apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu na espécie.
+2. O entendimento desta Corte Superior é o de que "a incidência da Súmula n. 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional" (AgRg no AREsp n. 679.421/RJ, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/3/2016, DJe 31/3/2016).
+3. " ..  a parte não pode forçar o órgão jurisdicional a se manifestar sobre o art. 654, § 2º, do CPP para, por vias transversas, alcançar a análise de suas teses. O "habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante. Não se presta como meio para que a defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade" (EDcl nos EDcl no AgRg no AREsp n. 1777820/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 15/4/2021)" - AgRg no AREsp n. 1.450.671/MG, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/5/2021, DJe 14/5/2021.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.972.277/ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/12/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. APELO RARO. INADMISSÃO. FUNDAMENTOS. IMPUGNAÇÃO CONCRETA. AUSÊNCIA. INEXISTÊNCIA DE CAPÍTULOS AUTÔNOMOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. O princípio da dialeticidade, positivado no art. 932, inciso III, do Código de Processo Civil, aplicável por força do art. 3.º do Código de Processo Penal, impõe ao recorrente o ônus de demonstrar o desacerto da decisão agravada, impugnando todos os fundamentos nela lançados para obstar sua pretensão.
+2. Ausente a impugnação a todos os fundamentos da decisão que inadmitiu o apelo nobre, correta a decisão que não conheceu do agravo em recurso especial.
+3. A aplicação da Súmula n. 83 do Superior Tribunal de Justiça não requer a existência de recurso especial repetitivo acerca do tema, bem assim que sua incidência abrange também os recursos interpostos pela alínea a da previsão constitucional.
+4. A Corte Especial do Superior Tribunal de Justiça sedimentou a compreensão de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade. No caso, como visto, nenhum dos fundamentos da inadmissão foi adequadamente impugnado.
+5. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.784.300/PR, Ministra Laurita Vaz, Sexta Turma, DJe 11/3/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO PROFERIDA PELO PRESIDENTE DO STJ. PRINCÍPIO DA COLEGIALIDADE. AUSÊNCIA DE VIOLAÇÃO. AGRAVO QUE NÃO COMBATEU OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. APLICABILIDADE DA SÚMULA N. 182 DO STJ. HABEAS CORPUS DE OFÍCIO. AUSÊNCIA DE CONSTRANGIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão proferida pelo Presidente do Superior Tribunal de Justiça, de não conhecer do agravo em recurso especial que não haja refutado especificamente todos os fundamentos da decisão recorrida, não viola o princípio da colegialidade.
+2. Não se conhece de agravo em recurso especial que deixa de atacar, especificamente, todos os argumentos utilizados pelo Tribunal de origem para negar o processamento do apelo especial (art. 253, parágrafo único, I, do RISTJ).
+3. Na espécie, o agravante deixou de combater os fundamentos da decisão agravada, daí a aplicação do enunciado sumular n. 182 desta Corte Superior.
+ ..
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 1.914.484/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 22/10/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DA SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. A ausência de impugnação a todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art.
+932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Quando o acórdão recorrido está em consonância com a jurisprudência desta Corte, a aplicabilidade da Súmula n. 83 do STJ não fica limitada aos recursos especiais fundamentados na alínea "c" do permissivo constitucional. Precedentes.
+ ..
+5. Agravo regimental improvido.
+(AgRg no AREsp n. 1.770.895/RJ, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/2/2021)
+Logo, o agravo é inadmissível, pois não impugnou, de forma específica e suficiente, a íntegra da fundamentação lançada na respectiva decisão agravada.
+Em face do exposto, não conheço do agravo de Luiz Felipe Dias Silva (arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ).
+Publique-se.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL DE LUIZ FELIPE DIAS SILVA. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO OBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. INCIDÊNCIA DA SÚMULA 182/STJ.
+Agravo não conhecido.
