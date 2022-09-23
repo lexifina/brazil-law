@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de petição(e-STJ fls. 3/6)com pedido de concessão de efeito suspensivo ao recurso especial interposto contra o seguinte acórdão (e-STJ fl. 12):
+Gratuidade processual. Hipótese que autoriza o deferimento do benefício ante a verossimilhança da declaração de hipossuficiência firmada. Provadocumental que corrobora a ausência de patrimônio e/ou salários ou vencimentos de tal monta a militar desfavoravelmente ao pleito de gratuidade. Evidências de disponibilidade financeira a justificar o indeferimento ausente. Assistência por advogado particular que não impede a concessão da gratuidade da justiça (art. 99, § 4º, do CPC). Benesse, ademais, que somente pode ser negada se há concretos elementos probantes reveladores da respectiva possibilidade financeira, ausentes na espécie.
+Agravo de instrumento. Ação de prestação de contas proposta por condomínio em face de ex-síndica. Decisão interlocutória impugnada que determinara a prestação de contas pertinente à administração das receitas e despesas do agravado dentro da vigência do mandato (agosto de 2019 a novembro de 2020). Inconformismo. Desacolhimento. Possui obrigação de prestar contas o responsável por administração ou gestão de bens, interesses ou negócios alheios. Primeira fase da demanda voltada à constatação da existência do direito de exigir contas, presente na espécie. Decisão mantida, eis que consentânea com a melhor técnica de aplicação das normas de regência. Agravo desprovido.
+Arequerente alega violação dos arts. 485, IV e VI, 489, II e III, e§ 1º, IV, e 550 do CPC/2015.
+Aduz que, "diante da iminência de cumprimento da ordem exarada no cumprimento de sentença sob o nº 0001454-19.2022.8.26.0010, no qual deveras ser apresentada novamente às contas referente ao período de agosto/2019 a novembro/2020 até dia 29/08/2022, bem como a probabilidade de provimento do apelo, mister se faz o apreço do presente pedido autônomo, antes da distribuição do recurso especial perante este C. Tribunal Superior urgência da medida para se evitar grave dano de difícil reparação" (e-STJ fl. 4).
+Requerque se "ATRIBUA EFEITO SUSPENSIVO AO RECURSO ESPECIAL E AO CUMPRIMENTO DE SENTENÇA nº 0001454-19.2022.8.26.0010, para que não se preste novamente as contas no período de agosto/2019 a novembro/2020 - posto que já satisfeita esta obrigação integralmente - requeridas até o julgamento final desta Colenda Corte" (e-STJ fl. 5).
+É o relatório.
+Decido.
+Compete ao Superior Tribunal de Justiça apreciar tutela provisória de urgência apenas para atribuir efeito suspensivo ou, eventualmente, antecipar a tutela em recursos ou ações de competência origináriadesta Corte, desde que preenchidos os requisitos dofumus boni iuris, consubstanciado na elevada probabilidade de êxito do recurso interposto ou da ação, e dopericulum in mora, que configura o perigo de lesão grave e de difícil reparação ao direito da parte.
+No caso dos autos, entretanto, esta Corte não dispõe de competência para antecipar a tutela de recurso especial que sequer teve o juízo de admissibilidade realizado pelo TJSP.
+Essa é aorientação do inciso III do § 5º do art. 1.029 do CPC/2015, na redação conferida pela Lei n. 13.256/2016, que assim dispõe:
+Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+(..).
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+Logo, ausente a decisão de admissibilidade,inexiste a competência do Superior Tribunal de Justiça para conhecerda presente tutela de urgência.
+Mesmo que superado o referido óbice, é caso de indeferimento do pedido.
+A concessão do efeito suspensivo ao recurso especial exige a demonstração cumulativa da plausibilidade do direito invocado e do risco de dano irreparável.
+As teses de inadequação da via eleita e ausência de interesse processual não foram apreciadas pelo Tribunal de origem. Destaca-se que sequer foram opostos embargos de declaração para provocar a manifestação da Corte local. Portanto, incide a Súmula n. 282/STF.
+Diante do exposto,NÃO CONHEÇO do pedido nos termos do art. 34, XVIII, "a", do RISTJ.
+Publique-se e intimem-se.
