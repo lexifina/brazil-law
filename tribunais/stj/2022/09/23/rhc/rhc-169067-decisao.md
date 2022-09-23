@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recurso em habeas corpus por meio do qual se pretende, emsíntese, o relaxamento e/ou a revogação da segregação cautelar decretada em desfavor deVALTER PEREIRA DOS SANTOS.
+Entretanto, consoante verifica-se das informações juntadas aos autos (e-STJ fls. 2.318-2.398), na data de 16/08/2022,foi prolatada sentença nos autos da ação penal n.0004565-50.2021.8.13.0093, condenandoo ora recorrente como incurso nos artigos 33, caput, 35, caput, ambos c/c art. 40, incisos IV e VII, todos da Lei n.º 11.343/06, às sanções de 23 anos, 09 meses e 25 dias de reclusão, em regime inicial fechado, além de 2917 dias-multa, oportunidade em que lhe foi negado o direito deapelar em liberdade.
+Na hipótese, está prejudicado o presente recurso voltado a abordar a ilegalidade da prisão provisória aplicada ao recorrente, visto que o Juízosentenciante agregou novos fundamentos ao decreto constritivo origináriopara justificar o indeferimento do apelo em liberdade, isto é, o éditocondenatório corresponde à decisão diferente da questionada na presenteimpetração, sendo, portanto, novo título a embasar a custódia cujalegalidade ainda não foi examinada pelo Tribunal originário.
+Ante o exposto, julgoprejudicado o recurso em habeas corpus, comfulcro no art. 34, inciso XI, do Regimento Interno do Superior Tribunal deJustiça.
+Publique-se e intimem-se.
