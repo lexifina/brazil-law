@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CONSÓRCIO NOVA VIA, fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 07/10/2021.
+Concluso ao gabinete em: 25/08/2022.
+Ação: embargos à execução de título extrajudicial, ajuizadospor CONSÓRCIO NOVA VIA em face de OPORTUNI COMERCIALIZAÇÃO E MONITORAMENTO DE SISTEMA DE ALARME LTDA.
+Sentença: o Juízo de primeiro grau julgou procedentes os pedidos iniciais e julgou extinto o processo de execução nº 019/1.14.0009783-2, em razão do adimplemento do débito (e-STJ fls. 323-329)
+Acórdão: o Tribunal de origemnegou provimento à apelação interposta pela recorrente e deu parcial provimento ao recurso de apelação interposto pela recorrida, nos termos da seguinte ementa:
+APELAÇÕES CÍVEIS. DIREITO PRIVADO NÃO ESPECIFICADO. EMBARGOS À EXECUÇÃO FUNDADA EM TÍTULO EXECUTIVO EXTRAJUDICIAL. CONTRATO PARTICULAR DE PRESTAÇÃO DE SERVIÇOS DE PORTARIA E ZELADORIA PATRIMONIAL. RETENÇÃO DE 5% DO VALOR BRUTO DE CADA FATURA A TÍTULO DE CAUÇÃO. DEVOLUÇÃO DOS VALORES PELO CONTRATANTE EM PRAZO SUPERIOR AO CONTRATUALMENTE PREVISTO. RECIBO DE QUITAÇÃO DA CONTRATADA CORRESPONDENTE À LIBERAÇÃO DO VALOR TOTAL DA CAUÇÃO RETIDA. DISCUSSÃO A RESPEITO DE JUROS DE MORA E CORREÇÃO MONETÁRIA QUE NÃO PROCEDE.
+Não obstante a devolução do valor da caução tenha ocorrido posteriormente ao prazo contratual acordado, nada mais há a reclamar, seja a título de juros de mora seja a título de correção monetária, pois o recibo de quitação concedido pela embargada-contratada Oportuni Comercialização e Monitoramento de Sistemas de Alarme Ltda em favor do embargante -contratante Consórcio Nova Via corresponde à liberação do valor total da caução que fora retida.
+CONDENAÇÃO AO PAGAMENTO DE DESPESAS PROCESSUAIS E DE HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DOS PRINCÍPIOS DA SUCUMBÊNCIA E DA CAUSALIDADE.
+O Consórcio Nova Via, em não tendo procedido à devolução do valor da caução retida dentro do prazo contratualmente previsto, de 90 dias após o término do ajuste, deu causa à propositura da execução.
+A Oportuni Comercialização e Monitoramento de Sistemas de Alarme Ltda, por sua vez, não tendo informado ao juízo da execução acerca do recibo de quitação que concedeu ao Consórcio Nova Via antes mesmo da citação deste no processo da execução, deu causa à oposição dos embargos à execução.
+Assim, em observância ao princípio da causalidade, cada litigante responderá pelas despesas por metade, sendo devidos também honorários advocatícios pelo embargante em favor do advogado da embargada no mesmo patamar em que fixados na sentença em favor de seu patrono. Inteligência, mutatis mutandis, do disposto nos artigos 85, § 14, e 86, ambos do CPC.
+VERBA HONORÁRIA ARBITRADA NA SENTENÇA EM OBSERVÂNCIA AOS VETORES PREVISTOS NOS PARÁGRAFOS 2º E 8º DO ARTIGO 85 DO CPC. MAJORAÇÃO. IMPOSSIBILIDADE. No que tange à pretensão de majoração da verba honorária, sem razão o apelante, eis que fixada corretamente, na forma do artigo 85, §2º e §8º, do CPC.
+APELO DO EMBARGANTE DESPROVIDO E DA EMBARGADA PARCIALMENTE PROVIDO. (e-STJ fls. 393-394)
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 5º,6º,80,81,82, §2º,85, capute §§2ºe 10º, 90 e 1.022, I e II, do CPC/2015.Sustenta que a recorrida deu causa à execução e aosembargos à execução, motivo pelo qual deve ser a única a suportar os ônus sucumbenciais.Pugna pela reforma do acórdão ou, subsidiariamente, pela sua anulação com a remessa dos autos à origem para novo julgamento. Por fim, requer oredimensionamento dos honoráriospara o percentual de 10% sobre o valor da execução.
+Juízo prévio de admissibilidade: o TJ/RS inadmitiu o recurso, dando azo à interposição do AREsp 2120365/RS, provido para determinar a conversão em recurso especial (e-STJ fls. 488-500).
+RELATADO O PROCESSO, DECIDE-SE.
+-Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt no REsp 1.726.592/MT, 3ª Turma, DJe de 31/08/2020; e AgInt no AREsp 1.518.178/MG, 4ª Turma, DJe de 16/03/2020.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca da fixação da verba sucumbencial, de maneira que os embargos de declaração opostos pela recorrente, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts.5º,6º, 80, 81, 82, §2º, e 90do CPC/15, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da aplicação da Súmula 568/STJ
+Com efeito, consoante a jurisprudência desta Corte, extinto o processo, sem resolução do mérito, ante a superveniente perda do interesse processual, a condenação em honorários de sucumbência há de ser avaliada sob a ótica do princípio da causalidade, nos termos do art. 85, §10º, do CPC/15, de modo queo pagamento dos honorários advocatícios deve ser suportado por quem deu causa à instauração do processo.
+Nesse sentido: AgRg no REsp n. 1.001.516/RJ, Quarta Turma, DJe de 6/2/2015; REsp 1.601.539/RJ, Terceira Turma, DJe 25/11/2019; AgInt nos EDcl no AREsp 1.291.573/SP, Terceira Turma, DJe 21/3/2019; AgInt nos EDcl no AREsp 1.618.138/SP, Terceira Turma, DJe 20/5/2021.
+Na hipótese, consignou a Corte local que:
+"No caso ora analisado, o Consorcio Nova Via, em não tendo procedido à devolução do valor da caução retida no prazo contratualmente previsto de 90 dias após o término do ajuste - o contrato teve vigência até 01-10-2013, e a liberação do valor total da caução retida ocorreu apenas em 16-11-2015, nos termos suprarreferidos -, deu causa à propositura da execução em 25-7-2014.
+Oportuni Comercialização e Monitoramento de Sistemas de Alarme Ltda, por sua vez, não tendo informado ao juízo nos autos do processo da execução acerca do recibo de quitação de fl. 40, por meio do qual concedeu ao Consórcio Nova Via, em 16-11-2015, a liberação do valor total da caução retida, antes mesmo da citação da executada Consórcio Nova Via, ocorrida em 03-3-2016, deu causa à oposição dos presentes embargos à execução pelo Consórcio Nova Via em 20-6-2016." (e-STJ fl. 401).
+Logo, em atenção à observância dos parâmetros legais e jurisprudenciais, impõe-sea manutenção do acórdãoimpugnado por seus próprios fundamentos. Aplica-se, portanto, aSúmula 568/STJ.
+- Da existência de fundamento não impugnado
+O agravante não impugnou o fundamento utilizado pelo TJ/RS, em relação à impossibilidade de fixação dos honorários advocatícios sobre o valor do proveito econômico obtido ante o aviltamento da verba alimentar, razão pela qual deve ser mantido o acórdão recorrido.Na hipótese, ainda, insta salientar que não houve condenação nos autos.Aplica-se, portanto, a Súmula 283/STF.
+Forte nessas razões, CONHEÇO PARCIALMENTE dorecurso especial,com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, §11º, do CPC/15, considerando o trabalho adicional imposto ao advogado darecorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$1.500,00(e-STJ fl. 356) para R$2.000,00,observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. VERBAS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE. ART. 85, §10º, DO CPC/15. ACÓRDÃO RECORRIDO EM CONFORMIDADE COMA JURISPRUDÊNCIA DOMINANTE DESTA CORTE.
+1. Embargos à execução de título extrajudicial.
+2.A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Consoante a jurisprudência desta Corte, extinto o processosem resolução do mérito, ante a superveniente perda do interesse processual, a condenação em honorários de sucumbência há de ser avaliada sob a ótica do princípio da causalidade, nos termos do art. 85, §10º, do CPC/15, de modo queo pagamento dos honorários advocatícios deve ser suportado por quem deu causa à instauração do processo. Precedentes.
+4.A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Recurso especial parcialmente conhecido e, nessa extensão, desprovido.
