@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto porJAMYE ALVES RIBEIRO contra acórdão do Tribunal de Justiça do Estado do Paraná (HC n. 0017274-87.2022.8.16.0000).
+Orecorrente teve sua prisão em flagrante convertida em preventivamediante requerimento do Ministério Público, tendo sido posteriormente denunciado pela prática, em tese, dos delitos de tráfico de drogas e associação para o tráfico.
+Impetrado writ na origem, a ordem foi parcialmente conhecida e denegada.
+Daí o presente recurso ordinário, no qualo recorrente aponta que estaria sofrendo constrangimento ilegal em razão da ausência de fundamentação idônea da decisão que determinou sua segregação cautelar. Pondera que a prisão preventiva foi decretada pela gravidade em abstrato da conduta supostamente praticada, bem como que possui condições pessoais favoráveis.
+Assevera que não foi encontrada nenhuma droga em sua posse, razão pela qual entende ausentes os indícios mínimos de autoria e materialidade.
+Aduzaindaque sofre constrangimento ilegal, consubstanciado no excesso de prazo na formação da culpa, pois até o presente momento sequer fora designada audiência de instrução.
+Requer, liminarmente e no mérito, a revogação ou o relaxamento daprisão preventivaou, subsidiariamente, sua substituição por medidas cautelares diversas, dentre aquelas previstas no art. 319do Código de Processo Penal.
+O Ministério Público Federal manifestou-se pelo não conhecimentodo recurso, nos termos de parecer de fls. 113-115.
+É o relatório. Decido.
+O recurso não merece conhecimento.
+No que diz respeito à alegação de ausência de fundamentação, da existência de condições pessoais favoráveis e da possibilidade de substituição da prisão cautelar por medidas diversas do art. 319 do Código de Processo Penal, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação tendo em vista a reiteração de pedido já apreciado em impetração anterior, consoante o seguinte excerto do v. acórdão objurgado (fls. 62-63):
+ ..  entendo que o presenteHabeas Corpusnão comporta integral conhecimento, uma vez que o pedido de revogação da prisão preventiva, a alegação de existência de condições pessoais favoráveis e o requerimento de aplicação de medidas cautelares diversas da prisão dispostas no art. 319 do Código de Processo Penal foram formulados previamente nos autos de Habeas Corpusnº 0005747-41.2022.8.16.0000, cujopedido liminar foi indeferido pelo Exmo. Desembargador Gamaliel Seme Scaff em 09.02.2022.
+ ..
+Assim, tenho como configurada a reiteração em parte do pedido de , com objeto habeas corpus idêntico ao que já está sendo analisado perante esta Corte, circunstância que enseja o não conhecimento da ação constitucional em sua integralidade em observância ao princípio da segurança jurídica.
+Assim, o exame dareferidas questõespelo Superior Tribunal de Justiça ensejaria indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus, definida no art. 105, I, c, da Constituição Federal (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+No que se refere ao alegado excesso de prazo,verifica-se que a questão não foi apreciada pelas instâncias ordinárias, porquanto o debate nem sequer foi provocado. Sobre o tema, o Tribunal limitou-se a relatar, de forma genérica, que a audiência de instrução e julgamento foi designada para o dia 15/7/2022, sem adentrar na discussão da matéria. Logo, o exame desta questão pelo Superior Tribunal de Justiça também ensejaria indevida supressão de instância.
+Portanto, neste ponto, o recurso não merece conhecimento.
+No mais, ressalte-se quea alteração da decisão que decretou a preventiva no que se refere à existência de indícios de autoria e de prova da materialidade do delitodemanda dilação probatória, procedimentoincompatível com a estreita via dohabeas corpus e de seu recurso ordinário,devendo a questão ser dirimida notrâmite da instrução criminal. Nesse sentido: HC n.504.546/SP, relatorMinistroJorgeMussi, Quinta Turma,DJede 4/10/2019;eRHC n. 123.822/DF, relator MinistroTeoriZavascki, Segunda Turma,DJede 20/10/2014.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço do recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
