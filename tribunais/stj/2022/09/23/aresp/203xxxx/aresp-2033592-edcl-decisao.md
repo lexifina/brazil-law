@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ROGÉRIA BERENSTEIN DA SILVAcontra decisão de minha lavra, às e-STJ fls. 1.310/1.314, em que conheci do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+A embargante repisa os argumentos do recurso especial e alega que a decisão embargada padece de equívoco e omissão, diante dainequívoca violação dos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015pelo acórdão a quoe da inaplicabilidade in casu do óbice daSúmula 7 do STJ.
+Requer sejam dadosefeitos infringentes aos presentes embargos para que seja provido o recurso especial.
+Impugnação apresentada às e-STJ fls. 1.593/1.597.
+Passo a decidir.
+O art. 1.024, § 2º, do CPC/2015 prescreve que os embargos de declaração opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal serão decididos monocraticamente pelo órgão prolator da decisão embargada e, nos termos do art. 1.022 do mesmo diploma, serão admitidos quando houver obscuridade, contradição, omissão ou erro material na decisão.
+Após nova análise processual, provocada pela oposição dos embargos declaratórios, observo nãohaver vício de integração a ser sanado.
+Verifica-se que a decisão embargada posicionou-se de formaclara,adequada e suficiente acerca dos temas controvertidos.
+Quantoà alegada omissãopelo Tribunal de origem, no que se refere ao argumento de que "não há que se falar em prescrição das parcelas inadimplidas decorrentes do caráter mandamental do julgado, haja vista a iliquidez das parcelas e o caráter mandamental das parcelas" (e-STJ fls. 1355/1356), a decisão embargada consignou não ter havido negativa de prestação jurisdicional, na medida em que o acórdão a quo asseverou ter ocorrido a "prescrição intercorrente da cobrança do valor apontado (que possui natureza mandamental), referente ao período posterior ao trânsito em julgado e já aforada a lide executiva" (e-STJ fl. 474), tendo em vista que já era"possível à parte credora apurar o saldo por executar" (e-STJ fl. 475) desde novembro/1999, mas quedou inerte. (Grifos acrescidos).
+O embargante alega, ainda, equívoco no julgamento do recurso especial,na aplicação da Súmula 7 do STJ.
+Todavia, orecurso de embargos de declaração não é via adequada para corrigir suposto erro de julgamento, ainda que demonstrado, não lhesendo atribuível eficácia infringente se ausentes os vícios elencados no art. 1.022 do CPC/2015.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp 1.315.507/SP, rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/08/2014.
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam aoposição dos aclaratórios (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, REJEITO os embargos de declaração e advirto a recorrente de que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Publique-se. Intimem-se.
