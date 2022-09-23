@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de embargos de declaração opostos à decisão desta relatoria que não conheceu do recurso especial (e-STJ fls. 296/299).
+Em suas razões (e-STJ fls. 301/308), a embargante alega contradição na decisão embargada, pois o entendimento explicitado "se coaduna com o provimento do recurso especial" (e-STJ fl. 301).
+Segundo sustenta (e-STJ fls. 301/302):
+4. A. r. decisão embargada não conheceu do recurso especial da ora embargante, pois entendeu que " No caso, tratando-se da dobra acionária, o termo a quo para contagem do prazo prescricional é a data da cisão da extinta CRT, ocorrida em 1999, devendo-se, consequentemente, aplicar o prazo decenal, nostermos dos artigos 205 e 2.028 do Código Civil de 2002 ". Assim, o recurso não merecia conhecimento por óbice na Súmula 83 desse e. STJ.
+5. Ou seja, pelo entendimento do e. STJ, como elucidado no caso, o prazo prescricional para postular os direitos da emissão a menor de ações de telefonia móvel é de 10 anos (art. 205, CC) a contar da data da cisão da antiga CRT, que aconteceu no ano de 1999. Ou seja, o autor teria até o ano de 2009 para pleitear tal direito.
+6. Ocorre que a embargante discute no recurso a prescrição do direito referente à dobra acionária, ou das ações da telefonia celular e, se aplicado o entendimento explicitado pelo e. STJ, certo é que a ação foi proposta fora do prazo prescricional.
+7. Certo é que, se considerando a data da cisão, o embargado poderia ter entrado com a ação até 10 anos depois de 1999, ou seja, o prazo prescricional se encerrou no ano de 2009. No entanto, como o próprio Tribunal a quo consignou, "a ação foi ajuizada em 09/01/2013 ", ou seja, passados 4 anos do prazo descrito no art. 205 do Código Civil de 2002. E isso foi pacificado pelo Julgamento do tema Repetitivo, representado pelo REsp n. 1.033.241/RS, assim como outros julgados proferidos por esta e. Corte, como se vê:
+(..)
+Considera omisso ojulgado, pois concluiu pelafalta de prequestionamento da tese principal defendida no especial, sendo queo Tribunal de origem teria se manifestado expressamente sobre a matéria.
+O embargadonão apresentou impugnação (e-STJ fl. 317).
+É o relatório.
+Decido.
+Não há nenhum vício no julgamento de fls. 296/299 (e-STJ).
+Com efeito, os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Os aclaratórios, em regra, não permitem rejulgamento da causa, sendo certo que o efeito modificativo apenas é possível em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado.
+Sob esse enfoque, confiram-se os seguintes precedentes da Corte Especial:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. DECISÃO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. EMBARGOS REJEITADOS.
+I - Os embargos de declaração devem atender aos seus requisitos, quais sejam, suprir omissão, contradição ou obscuridade. Não havendo qualquer um desses pressupostos, rejeita-se o recurso integrativo.
+II - Consoante jurisprudência firmada por esta Corte Superior, a tempestividade dos recursos é aferida quando do protocolo na secretaria do Tribunal e não da entrada na agência dos correios.
+III - Ademais, embora o embargante tenha juntado comprovante da entrega em Brasília, no dia 14/01/2013, não há comprovação de que tenha sido, na mesma data, entregue na secretaria deste Tribunal. Não tendo sido, inclusive, juntado até o presente momento os originais do recurso interposto.
+IV - Embargos rejeitados.
+(EDcl no AgRg no ARE no AgRg nos EDcl no RE no Ag n. 1.423.681/BA, Relator Ministro GILSON DIPP, CORTE ESPECIAL, julgado em 16/9/2013, DJe 25/9/2013.)
+SEGUNDOS EMBARGOS DECLARATÓRIOS. EMBARGOS DE DIVERGÊNCIA. TELEFONIA. APLICAÇÃO DA SÚMULA 182. AUSÊNCIA DE ATAQUE AOS FUNDAMENTOS DA DECISÃO. PEDIDO DE EFEITOS INFRINGENTES. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO.
+À mingua dos vícios previstos no art. 535 do CPC e não sendo a via escolhida meio de resposta a questionamentos da partes, é de se ter como inviável a oposição, alertando ao embargante para a aplicação de multa processual caso persista o intuito de adiar a conclusão da causa.
+Embargos rejeitados.
+(EDcl nos EDcl no AgRg nos EAREsp n. 220.572/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 1º/7/2013, DJe 1º/8/2013.)
+No caso concreto, sob o pretexto de que a decisão embargada incorreu em omissão e contradição, pleiteiaa embargante, na verdade,a reforma do julgado.
+Conforme constou da decisão embargada, o acórdão recorrido não tratou da tese defendida no especial de que "o pedido relacionado à dobra acionária, nos presentes autos, não se constitui em pedido autônomo,  mas  depende do reconhecimento da subscrição a menor" (e-STJ fl. 220), razão pela qual as Súmulas n. 282 e 356 do STF obstaramo conhecimento do recurso.
+Além disso, não é contraditória a decisão ao considerar correta a aplicação do prazo prescricional de 10 anose a data da cisão (29/1/1999), como o termo inicial original para sua contagem, nos termos da jurisprudência desta Corte para casos semelhantes, concluindo pela inexistência de prescrição, no caso concreto, em que a ação foi proposta em 9/1/2013, pois, conforme a orientação pacífica desta Corte, "A contrário senso do que dispõe o art. 2.028 do CC/2002, quando reduzidos os prazos de prescrição pelo CC/2002 e, na data da sua entrada em vigor, houver transcorrido menos da metade do prazo previsto no CC/1916, aplica-se o prazo previsto na lei nova, tendo o STJ decidido que, nessa hipótese, o marco inicial de contagem é o dia 11/01/2003, data de entrada em vigor do novo Código, e não a data do fato gerador do direito"(REsp n. 2.001.617/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 2/8/2022, DJe de 5/8/2022).
+Nesse sentido (negritei):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA DA REQUERIDA.
+1. Conforme pacífica jurisprudência deste Superior Tribunal de Justiça, a pretensão de cobrança de dívida subjacente a contrato de abertura de crédito que, no Código Civil revogado, inseria-se dentro do prazo prescricional geral de vinte anos passou a ter, com a entrada em vigor do Código Civil de 2002, sua prescrição regrada pelo art. 206, § 5º, I, do CC de 2002, que prevê prazo quinquenal para a cobrança de dívidas líquidas constantes de instrumento público ou particular. Precedentes. 1.1. O termo inicial dos prazos prescricionais sujeitos à regra de transição prevista no art. 2.028 do Código Civil de 2002 devem corresponder à data da entrada em vigor desse diploma (11/1/2003). Precedentes. 1.2. No caso em tela é aplicável o prazo prescricional vintenário durante a vigência do Código Civil de 1.916 e o prazo quinquenal depois da entrada em vigor desse, haja vista a aplicação da regra de transição, de forma que se mantém o afastamento da prescrição.
+2. "A relação existente entre distribuidores e revendedores de combustíveis, em regra, não é de consumo, sendo indevida a aplicação de dispositivos do Código de Defesa do Consumidor, especialmente para admitir a postergação do pagamento de mercadorias" (REsp 782.852/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/04/2011, DJe 29/04/2011). Incidência da Súmula 83/STJ.
+3. No sistema de persuasão racional adotado pela legislação pátria e positivado nos artigos 130 e 131 do CPC/1973, em regra, não cabe compelir o magistrado a autorizar a produção desta ou daquela prova, se por outros meios estiver convencido da verdade dos fatos, tendo em vista que o juiz é o destinatário final da prova, a quem cabe a análise da conveniência e necessidade da sua produção. Precedentes.
+Incidência da Súmula 83/STJ e da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no Ag n. 1.350.235/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/12/2017, DJe de 14/12/2017.)
+Anote-se ainda que a contradição que dá ensejo à oposição de embargos declaratórios deve ser interna, entre as proposições do próprio julgado impugnado, e não entre sua fundamentação e o argumento das partes.
+Não se constata, portanto, nenhuma das hipóteses de cabimento dos embargos de declaração. Ao contrário, verifica-se a mera pretensão de reexame do mérito dos recursos anteriores.
+Ante o exposto, REJEITO os embargos declaratórios.
+Publique-se e intimem-se.
