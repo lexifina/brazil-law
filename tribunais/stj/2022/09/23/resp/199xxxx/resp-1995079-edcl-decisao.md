@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão monocrática assim ementada (fl. 241):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ARGUMENTAÇÃO RECURSAL GENÉRICA E DEFICIENTE. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+O embarganteaduz, em síntese, a ocorrência de obscuridade e omissão, uma vez que "necessário se faz no caso vertente, esclarecer que conforme, devidamente, registrado e fundamentado nos autos, através dos Aclaratórios interpostos pelo sindicato substituto dentro da sua competência constitucional (artigo 8º, inciso III da CF), demonstrava e demonstra claramente que a decisão proferida nos autos, do presente processo pelo Egrégio TRF5, era conflitante e destoa ainda do o entendimento jurisprudencial predominante nesta Colenda Corte de Justiça, ao longo dos anos"(fl. 252).
+Sem impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nesse passo, registra-se que, nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, a irresignação não merece obter êxito.
+Do que se observa, a decisão embargada resolveu a controvérsia ao assentar: (a) a inexistência de violação doartigo1.022 do CPC/2015;(b) incidência da Súmula284/STF, uma vez que "o recurso especial contém alegações genéricas, vagas e imprecisas no que diz respeito a suposta violação dos artigos 265, I, 791,II e 1.055, 1.056, 1.060, I, do CPC/1973" (fl. 242); e (c)não comprovação do dissídiojurisprudencial.
+Nessa senda, frisa-se, por oportuno, que a resolução do conflito de interesses, por meio da aplicação do direito que o colegiado entendeu adequado à hipótese, ainda que a solução jurídica seja diversa da pretendida por um dos litigantes, não traduz negativa ou ausência de prestação jurisdicional.
+Cumpre salientar, ainda, que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+Assevera-se, por fim,que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já julgado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
