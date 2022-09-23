@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOSÉ EMÍLIO MACHADO - ESPÓLIO e LIA ELIETE VIEIRACESAR (ESPÓLIO e outro) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul,assim ementado:
+APELAÇÕES CÍVEIS. SEGUROS. AÇÃO CONDENATÓRIA. PLANO DE SAÚDE. BENEFICIÁRIO PORTADOR DE SEQUELAS DECORRENTES DE AVCS. CONFIGURADA A NECESSIDADE DE TRATAMENTO HOME CARE. DANO MORAL NÃO CONFIGURADO. 1) A despeito de o tratamento recomendado pelo médico assistente na modalidade de home care não estar contemplado na forma prevista nas Diretrizes 102 e 103 do Rol de Procedimentos e Eventos em Saúde, previsto no Anexo II da Resolução nº Normativa nº 428/2017, da Agência Nacional de Saúde Suplementar (ANS), revela-se, de fato, abusiva a cláusula contratual que exclui a respectiva cobertura contratual.
+2) O serviço de home care é, a priori, prestado no domicílio do paciente, pois se apresenta como substituto à internação, de forma similar ao utilizado no hospital, com estrutura adaptada à necessidade do paciente, hipótese há necessidade de custeio de materiais e profissionais necessários para o atendimento do paciente, porém sem despesas relacionadas a hospedagem, obviamente presentes em clínicas particulares. Não se pode confundir a necessidade de atendimento de pessoa enferma por algum familiar e, na ausência desse, por algum cuidador, vez que o tratamento Home Care implica em necessidade de cuidados de caráter técnico.
+3) Caso dos autos em que foi suficientemente demonstrado que o autor necessitava do serviço de internação domiciliar em substituição à hospitalar, uma vez que não havia possibilidade técnica de os familiares atenderem suas necessidades de saúde no ambiente familiar, assim como a internação não se recomendava pelo alto risco de infecções inerentes ao ambiente hospitalar.
+4) A recusa injustificada, que configura comportamento abusivo, capaz de ensejar a obrigação de reparar danos de ordem moral, consiste naquela negativa de cobertura de tratamento legal, a que a operadora do plano de saúde está contratualmente obrigada a garantir.
+5) No caso em tela não se pode considerar indevida, injustificada ou imotivada a negativa de cobertura da operadora do plano de saúde, porquanto apenas agiu com base no disposto no contrato e na legislação de regência, de modo que a indenização arbitrada na origem a título de danos morais merece ser afastada.
+6) O recurso da parte autora, que visava o arbitramento de uma indenização em separado para o curadora do autor, assim como a majoração da verba indenizatória fixada na origem, resta prejudicado. DERAM PARCIAL PROVIMENTO À APELAÇÃO DA PARTE RÉ E JULGARAM PREJUDICADO O RECURSO DA PARTE AUTORA(e-STJ, fls. 402/403)
+Os embargos de declaração opostos pela UNIMED e pelo ESPÓLIO e outro nãoforam acolhidos (e-STJ, fls. 440/445).
+Inconformados, ESPÓLIO e outromanejaramrecurso especial com fundamento no art. 105, III, a, da CF, alegando violação aos arts. 489,§ 1º, IV,1.022, II, do NCPC e 6, 47 e 51 do CDC,sustentandoemsíntese, que (1) acórdão foicontraditório ao reconhecer que o atendimento domiciliar home care é devido, porém deixoude condenar em danos morais a UNIMED; e (2)a recusa de cobertura do tratamento home care por parte do plano de saúde foi injustificada, acarretando danos moraisa serem devidamente indenizados.
+O recurso não foi admitido pelo TJRS(e-STJ, fls. 512/520).
+Nas razões do presente agravo, ESPÓLIO e outro alegaramque seu recurso merece seguimento, uma vez que, devem serafastados os óbices sumulares aplicados.
+Foi apresentada contraminuta (e-STJ, fls. 539/543).
+É o relatório.
+DECIDO.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que merece prosperar.
+(1)Da alegada violação dos arts. 489, § 1º, IV, e 1.022, II, do NCPC.
+ESPÓLIO e outro sustentaram que o acórdão foi contraditório ao reconhecer que o atendimento domiciliar home care é devido, porém deixa de condenar em danos morais a UNIMED.
+Nos termos da jurisprudência desta Egrégio Corte Superior, a contradição que autoriza a oposição dos aclaratórios deve ser interna à decisão, verificada entre a fundamentação do julgado e a sua conclusão, e não entre os termos da decisão e o entendimento que a parte reputa correto, o que não se verifica no caso em apreço, pois, no julgamentoo TJRSassim consignou:
+No caso concreto de que tratam os autos, verifica-se, a partir do documento de folha 34, que a operadora do plano de saúde indeferiu a cobertura do tratamento Home Care em razão da ausência de previsão contratual para a modalidade.
+A parte demandada, nesta oportunidade, informou o beneficiário a base legal que sustentou sua negativa, ressaltando que a lei não impõe o dever de cobertura do tratamento postulado.
+Desse modo, impossível considerar indevida, injustificada ou imotivada a negativa de cobertura da operadora do plano de saúde, porquanto apenas agiu com base no disposto no contrato e na legislação de regência, de modo que a indenização arbitrada na origem a título de danos morais merece ser afastada (e-STJ, fls. 412/413, sem destaque no original)
+Nos embargos de declaração o TJRS assim se manifestou:
+No que respeita ao recurso da parte autora, que se insurge contra o afastamento dos danos morais arbitrados na origem, ressalto inexistir qualquer contradição, porquanto o reconhecimento do dever de cobertura do tratamento postulado não implica, necessariamente, na configuração do dano moral, na medida em que a negativa do plano de saúde apresentou justificativa motivada no contrato e na legislação aplicável. (e-STJ, fl. 444, sem destaque no original)
+Assim, o Tribunal entendeu que embora devido otratamento de home care, a recusa da UNIMED estava baseada no contratoe na legislação aplicável, não cabendo assim a indenização por danos morais.
+Nessa ordem de decidir, os seguintes precedentes:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. CONTRADIÇÃO. NÃO OCORRÊNCIA. ERRO DE PREMISSA FÁTICA. NECESSIDADE DE ESCLARECIMENTO. MULTA DO ART. 475-J DO CPC. INTIMAÇÃO DO ADVOGADO. VALIDADE. DEPÓSITO EFETUADO NO PRAZO LEGAL. PENALIDADE AFASTADA. DECISÃO CONFIRMADA POR FUNDAMENTO DIVERSO.
+1. Admitem-se como agravo regimental embargos de declaração opostos a decisão monocrática. Princípios da economia processual e da fungibilidade.
+2. A contradição que autoriza a oposição dos embargos declaratórios é aquela existente entre a fundamentação da decisão e seu respectivo dispositivo.
+ ..
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento
+(EDcl no REsp nº 1.323.960/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado aos 3/12/2015, DJe de 14/12/2015).
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. APELAÇÃO DECIDIDA MONOCRATICAMENTE E EMBARGOS DE DECLARAÇÃO DECIDIDOS PELO COLEGIADO. FALTA DE INTERPOSIÇÃO DO AGRAVO INTERNO. INCIDÊNCIA DA SÚMULA 281 DO STF. ALEGAÇÃO DE CONTRADIÇÃO DO JULGADO. PARÂMETRO EXTERNO. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, do CPC de 2015, que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, erro material ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, § 1º, do referido diploma legal, que configurariam a carência de fundamentação válida.
+2. A contradição que autoriza os embargos declaratórios é a interna, entre as proposições da própria decisão, ou seja, é aquela existente entre a fundamentação e o dispositivo, relatório e fundamentação, dispositivo e ementa ou ainda entre seus tópicos internos, e não aquela supostamente verificada entre seus fundamentos e os documentos constantes nos autos.
+3. Ademais, na espécie, o aresto integrativo proferido pelo Tribunal de origem, não obstante se reporte aos fundamentos da decisão unipessoal embargada, não apreciou o mérito da demanda, porquanto concluiu pela impossibilidade de reexame da causa na via dos embargos de declaração.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp nº 1.057.752/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado aos 10/10/2017, DJe de 16/10/2017).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRADIÇÕES INEXISTENTES. IMPOSSIBILIDADE DE ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+1. Não há contradição a ser esclarecida quando a conclusão do julgado - conversão do negócio jurídico - decorre, logicamente, das proposições nele contidas - presença dos pressupostos exigidos pelo art. 170 do CC/02.
+2. As questões suscitadas pelo embargante não constituem pontos contraditórios, mas mero inconformismo com os fundamentos adotados pelo acórdão embargado.
+3. Ausentes os vícios do art. 535 do CPC, não há falar em atribuição de efeitos infringentes para a alteração do julgado.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp nº 1.225.861/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos 10/6/2014, DJe de 24/6/2014).
+Assim, inexiste os vícios elencados nos arts.1.022, II, do NCPC, quais sejam, omissão, contradição ou obscuridade, é forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já havia sido analisada pela Corte local.
+(2) Dano Moral.
+ESPÓLIO e outro alegaram quea recusa de cobertura do tratamento home care por parte do plano de saúde foi injustificada, acarretando danos morais a serem devidamente indenizados.
+Observa-se, em relação ao dano moral,não foi feita a indicação clara e precisa do dispositivo de lei federal que foi violado, o que evidencia a deficiência na fundamentação do recurso, a atrair o óbice da Súmula nº 284 do STF:É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nessas condições, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO CONDENATÓRIA. PLANO DE SAÚDE. BENEFICIÁRIO PORTADOR DE SEQUELAS DECORRENTES DE AVCS. CONFIGURADA A NECESSIDADE DE TRATAMENTOHOME CARE. VIOLAÇÃO DOART. 489, § 1º, IV, 1.022, II,DO NCPC.CONTRADIÇÃO. INOCORRÊNCIA. DISPOSITIVO EM HARMONIA COM A FUNDAMENTAÇÃO. DANO MORAL.AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL E INCOMPREENSÃO DA CONTROVÉRSIA. SÚMULA Nº 284 DO STF, POR ANALOGIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
