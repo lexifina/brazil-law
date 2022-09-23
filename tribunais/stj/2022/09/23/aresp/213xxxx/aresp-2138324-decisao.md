@@ -1,0 +1,23 @@
+DECISÃO
+Em face das razões apresentadas no recurso de fls. 495/509 (e-STJ), torno sem efeito a decisão de fls. 491/493 (e-STJ), e passo a novo exame do agravo em recurso especial interposto porELISÂNGELA MARIA DA SILVA,contra decisão que negou seguimento a recurso especial fundamentado, nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 13/04/2022.
+Concluso ao gabinete em: 09/09/2022.
+Ação:de obrigação de fazer c/c danos morais ajuizada pela agravante em face de SAMEDH ASSISTÊNCIA MÉDICA HOSPITALAR LTDA visando a cobertura de cirurgias reparadoras após cirurgia bariátrica.
+Sentença:julgou parcialmente procedente a demanda para determinar o custeio das cirurgias prescritas.
+Acórdão:negou provimento à apelação da agravante, nos termos da seguinte ementa:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/CINDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. TRATAMENTO DEOBESIDADE MÓRBIDA. REALIZAÇÃO DE CIRURGIA BARIÁTRICA. INDICAÇÃO DE CIRURGIA PLÁSTICA REPARADORA. RECUSA INDEVIDA. PROCEDIMENTO NECESSÁRIO E COMPLEMENTAR AO TRATAMENTO. DANO MORAL INEXISTENTE. I- É incontroverso nos autos, posto que não há insurgência quanto a esta parte da sentença: a existência da obrigação da operadora do plano de saúde em arcar com as despesas dos procedimentos cirúrgicos destinados à remoção de excesso de pele acumulada no corpo da paciente em razão da grande perda de peso decorrente de cirurgia bariátrica anteriormente realizada; o ponto em que se considera inadmissível a recusa da operadora recorrida em assumir os gastos com a cirurgia solicitada pelo médico que acompanha a apelante ao argumento de deter caráter meramente estético ou porque não incidentes as comorbidades previstas no rol da Agência Nacional de Saúde. II- Para a reparação do dano moral nos termos pretendidos é necessária a constatação da recusa ilegítima do plano de saúde, especialmente em situações emergenciais, não sendo este o caso dos autos, até porque não restou caracterizado o inadimplemento desmotivado. RECURSO CONHECIDO E DESPROVIDO.
+Recurso especial: alega violação dos arts. 186 e 927 do CC e 6º, VI, do CDC, bem como dissídio jurisprudencial. Sustenta que a negativa indevida de coberturadas cirurgias reparadoras causou danos morais à agravante, que já sofria com problemas físicos e psicológicos agravados com a recusa.
+RELATADO O PROCESSO, DECIDE-SE.
+- Dos danos morais. Súmula 568/STJ
+As duas Turmas de Direito Privado do STJ entendem que a negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Nesse sentido: AgInt no AREsp n. 1.934.049/MG, 3ª Turma, DJe de 8/9/2022 eAgInt no REsp n. 1.979.051/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/20224ª Turma, DJe de 29/6/2022.
+Na hipótese, a Corte de origem decidiu que os danos morais não eram cabíveis, haja vista não terem sido demonstradas cicrunstâncias excepcionais que que afastassem o pleito do mero descumprimento contratual, que, nos termos da jurisprudência dessa Corte Superior de Justiça, não configuram dano moral.
+Desse modo, nos termos da Súmula 568/STJ, o acórdão recorrido deve ser mantido.
+Forte nessas razões, torno sem efeito a decisão de fls. 491/493 (e-STJ) ECONHEÇO do agravo para, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHECER do recurso especial e NEGAR-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa (e-STJ fls. 360) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CIRURGIAS REPARADORAS. NEGATIVA INDEVIDA. DANOS MORAIS CONFIGURADOS. SÚMULA 568/STJ
+1. Ação de obrigação de fazer c/c danos morais visando a cobertura de cirurgias reparatórias pós cirurgia bariátrica.
+2. A negativa administrativa ilegítima de cobertura para procedimento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente. Precedentes.
+3. Torno sem efeito a decisão de fls. 491 (e-STJ). Agravo conhecido. Recurso especial conhecido e desprovido.
