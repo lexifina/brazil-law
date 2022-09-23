@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo interposto por RODRIGO FERREIRA DE BRITOem adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo que negou provimento ao recurso da defesa.
+Nas razões do recurso especial (e-STJfls. 1307/1338), fundado nas alíneas "a" e "c" do permissivo constitucional, pretende a parte recorrente o reconhecimento de nulidade da quebra do sigilo telefônico, com o devido desentranhamento do laudo pericial dos autos e suas consequências; a aplicação da pena no mínimo legal e demais consequências, e a absolviçãodos fatos a ele imputados por falta de provas.
+Apresentadas contrarrazões, o Tribunal a quo não admitiu o recurso especial, ensejando a interposição do presente agravo (e-STJfls. 1625/1632). O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (e-STJ, fls. 1705/1711).
+É o relatório. Decido.
+A decisão agravada inadmitiu o recurso especial pela incidência do art. 1029 do CPC e da Súmula 7 do STJ (e-STJfls. 1590/1591).
+Não obstante, nas razões do agravo (e-STJfls.1625/1632 ), a parte agravante não apresentou impugnação específica aos referidos fundamentos, limitando-sea apontar violação a dispositivos constitucionais. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial, tampouco a insistência no mérito da controvérsia ou a indicação de dispositivos constitucionais violados.
+Nesses casos, a ausência de efetiva impugnação aos fundamentos da decisão que inadmitiu o recurso especial, ônus da parte recorrente, obsta o conhecimento do agravo, nos termos dos arts. 932, III, do CPC, e 253, parágrafo único, I, do RISTJ, e da Súmula 182 do STJ, aplicável por analogia.
+Não fora isso, as teses deduzidas no recurso especial já foram submetidas à esta Corte, nos autos do HC n. 691.051, o qual não foi conhecido, sendo improvido o agravo regimental, em 23/8/2022, razão por que a pretensão ora deduzida constitui indevida reiteração de pedido.
+Ante o exposto,não conheço do agravo em recurso especial.
+Intimem-se.
