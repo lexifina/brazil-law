@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar,impetrado em benefício de Jonatas Honório dos Santos, em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, quedeu provimento à apelação defensiva para readequar a pena do paciente a 10 anos de reclusão, em regime fechado, e1.000 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006 (Apelação Criminal n. 1501397-86.2020.8.26.0400).
+Em suas razões recursais, pugna-se pelaabsolvição do paciente por insuficiência probatória; pela redução da pena-base ao mínimo legal; e pela compensação entre a agravante da reincidência com a atenuante da confissão espontânea.
+É o relatório.
+Quanto à primeira insurgência, extrai-se do acórdão ora impugnado à fl. 14:
+ ..  De fato, a materialidade está patenteada no auto de prisão em flagrante (fls. 1/2), boletim de ocorrência (fls. 12/15), auto de exibição e apreensão (fls.19/20), laudo de constatação provisória (fls. 23/25), exame químico-toxicológico (fls.192/193), laudos realizados nos aparelhos celulares apreendidos (fls. 275/281 e fls.282/310), bem como pela prova oral.
+Inequívoca também a autoria.
+Os policiais militares Daniel M. S. e Daniel M. P. relataram, em uníssono, que receberam informações de que o apelante e sua companheira Letícia (corré absolvida) estariam traficando em sua residência. Uma vez no imóvel, sua entrada foi franqueada por Letícia, ocasião em que notaram o apelante tentando se evadir pelos fundos.
+Os milicianos localizaram, escondidas no sofá da sala, as porções de entorpecentes, além de embalagens que seriam utilizadas para o acondicionamento de drogas e esclareceram que já haviam abordado vários usuários que lhes apontaram o casal como seus fornecedores de substâncias ilícitas.
+Cumpre ressaltar que a defesa não logrou êxito em demonstrar qualquer motivo para que os milicianos imputassem falsamente os fatos ao réu, cabendo destacar que a jurisprudência das Cortes Superiores é pacífica quanto à credibilidade dispensada à prova testemunhal de policiais que tenham participado das diligências, os quais prestam compromisso de dizer a verdade, como qualquer testemunha, sob o crivo do contraditório.
+ ..
+É certo que Jonatas negou a autoria que lhe foi imputada, todavia sua versão mostrou-se fantasiosa e não encontrou respaldo sequer na narrativa de Letícia, que confirmou judicialmente que os policiais encontraram as porções de drogas escondidas no sofá da sala, as quais pertenciam ao recorrente.
+Acrescento que a conversa transcrita às fls. 280, retirada do aparelho celular do réu, atesta, de maneira inequívoca, que ele vendia drogas. Portanto, concatenadas as provas colhidas, a condenação do recorrente era mesmo de rigor.
+A alegação de ausência de provas para a condenação é incabível, nos termos formulados, tendo em vista a vedação à incursão no acervo fático-probatório em sede de habeas corpus, uma vez que o acórdão hostilizado apresentou concretos fundamentos a respeito do tráfico e da divisão de tarefas e do conluio entre os corréus na empreitada criminosa.
+No tocante à atenuante da confissão, pontuo que não houve manifestação pela Corte estadual acerca da insurgência apresentada, incorrendo, aqui e agora, em indevida supressão de instância.
+Quanto à exasperação da pena-base não vislumbro ilegalidade flagrante a justificar a readequação da reprimenda.
+O Tribunal local chancelou a dosimetria da pena aos seguintes fundamentos(fls. 16/17):
+ ..  A pena-base foi acrescida de 5/6, em razão da culpabilidade, natureza e quantidade de entorpecentes, maus antecedentes do réu, bem como pelas circunstâncias do delito.
+A culpabilidade foi amplamente justificada pelo d. magistrado, que relatou ser o município de Olímpia uma estância turística, que possui o parque aquático mais visitado da América Latina, a demonstrar a maior reprovabilidade da conduta do réu, diante da condição atrativa do local, considerando o alto fluxo de pessoas. Sopesou, ainda, a quantidade e natureza das drogas (22 porções de cocaína e 35 porções de "crack", além de 12 saquinhos plásticos vazios para o acondicionamento de entorpecentes).
+Quanto aos maus antecedentes, Jonatas ostenta duas condenações definitivas (cf. quadro de fls. 643), sendo uma delas utilizada como circunstância judicial desfavorável. E as circunstâncias do delito foram fundamentadas pelo fato de o apelante fazer uso de redes sociais e aplicativos de conversa em seu aparelho celular para a prática da traficância, o que facilita, agiliza e dissemina a mercancia ilícita.
+Reputo, portanto, que o MM. Juiz "a quo" justificou extensamente o aumento da reprimenda na primeira fase da dosimetria, e o fez amparado no art. 59 do Código Penal e art. 42 da Lei 11.343/06, nenhuma ilegalidade se verificando.
+Porém, o acréscimo se apresenta excessivo e deve ser alterado, mostrando-se o patamar de  suficiente e adequado a externar a repressão estatal no caso em tela, perfazendo 7 anos e 6 meses de reclusão e pagamento de 750 dias-multa.
+Na fase seguinte, reconhecidas as agravantes da prática delitiva durante período de calamidade pública e a reincidência específica, houve acréscimo de  , igualmente excessivo, o qual altero a 1/3, totalizando 10 anos de reclusão e pagamento de 1.000 dias-multa, no piso.
+Impossível a aplicação do privilégio, porquanto Jonatas não preenche os requisitos do art. 33, § 4º, da Lei 11.343/06, diante da reincidência específica e maus antecedentes.
+O regime fechado é o único cabível no caso em tela, nos termos do art. 33, § 2º, "a", CP, e a substituição penal é inaplicável, por força da pena fixada.
+A jurisprudência desta Corte admite a utilização dos patamares de 1/6, 1/8 ou do termo médio, ou até mesmo exasperação superior, desde que devidamente fundamentada, não havendo paradigma legal rígido sobre os critérios de fixação da pena-base.
+No caso, adotado o termo médio, não há falar em constrangimento ilegal a ser sanado (AgRg no HC n. 740.930/RJ, Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 9/8/2022).
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. PEDIDO DE ABSOLVIÇÃO. REEXAME DE MATÉRIA PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. REVISÃO DA DOSIMETRIA. ARTS. 59 E 68 DO CP.EXASPERAÇÃO DA PENA-BASE. DISCRICIONARIEDADE VINCULADA DO MAGISTRADO. CRITÉRIOS DE 1/6, 1/8 OU TERMO MÉDIO. POSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
