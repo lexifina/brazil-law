@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RICARDO HENRIQUE DE OLIVEIRA PINHEIROem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.22.087510-8/000).
+O paciente foi condenado à pena de 5anos e4 meses de reclusão noregimesemiaberto.
+O Juízo de origem expediumandado de prisão, em 7/2/2020, para dar início à execução da pena privativa de liberdadeapós ocorrido o trânsito em julgado da ação penal.
+Impetrado writ originário, o Tribunal denegou a ordem dehabeas corpus pela inadequaçãoda via eleita.No que se refere à possibilidade da concessão da ordem de ofício, não verificou flagrante ilegalidade na decisão impugnada. Oacórdão foiassim ementado (fl. 20):
+"HABEAS CORPUS" - VIA INADEQUADA PARA QUESTIONAMENTO DE EXECUÇÃO DE PENA - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - ORDEM DENEGADA.
+O impetrante aponta constrangimento ilegal decorrente do indeferimento da expedição da guia de recolhimento para execução e a remessa dos autos à Vara de Execuções Penais da Comarca de Belo Horizonte (MG), sem o prévio recolhimento do condenado à prisão.
+Menciona ter o paciente ficadopreso provisoriamente por 8 meses e 5 dias. Assim, em virtude da aplicação da detração penal, terá direito à progressão para o regime aberto e à prisão domiciliar emrazão da pandemia decovid-19.
+Aduz que o paciente exerceatividade laboral lícita com registro em Carteira de Trabalho e Previdência Social.
+Acrescenta que a decisão é desproporcional e que o tempo de detração deve ser considerado.
+Requerseja determinadaà Vara de Execuções Penais da Comarca de Belo Horizontea expedição antecipada da guia para a execução, sem o cumprimentodo mandado de prisão.
+É o relatório. Decido.
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+Acerca da questão, o Tribunal de origem decidiu nestes termos (fls. 22-23):
+É sabido que o Habeas Corpus não é o meio adequado para requerer o reconhecimento de matéria de execução penal, pois é necessária análise de prova, incabível em via de cognição sumária, desafiando recurso próprio -Agravo em Execução.
+Outro não é o entendimento deste egrégio TJMG:
+ ..
+Saliente-se que, o colendo STF, por maioria dos votos, no julgamento do HC n.º 109.956/PR, noticiado no Informativo nº 674 do STF, consolidou o entendimento de inadmissibilidade do Habeas Corpus quando cabível recurso próprio:
+ ..
+Ainda, conforme bem salientado pelo i. Procurador Geral de Justiça, "(..) a prisão é resultado natural da condenação à pena privativa da liberdade e o início da execução pressupõe a expedição e o cumprimento do mandado de prisão para que se inicie o cumprimento da reprimenda, razão pela qual não se vislumbra nenhuma ilegalidade no ato emanado do Juiz a quo que a determinou ou na decisão de fl. 27. (..) Em assim sendo, cabe ao paciente, após a expedição da guia, pleitear ao Juízo de Execução Penal a concessão desse e dos demais benefícios mencionados na inicial (..)"
+À evidente ausência de constrangimento ilegal, DENEGA-SE A ORDEM.
+No tocante à expedição de guia de recolhimento para a execução, os arts. 105 da Lei de Execução Penal e 674 do Código de Processo Penal dispõem que, transitando em julgado a sentença que aplicar pena privativa de liberdade, se o réu estiver ou vier a ser preso, o juiz ordenará a expedição de guia de recolhimento para a execução.
+Portanto, a expedição da guia de recolhimento demanda prévia prisão do réu.
+Registre-se, todavia, que há julgados do Superior Tribunal de Justiça que admitem a expedição da guia de execução antes do cumprimento do mandado prisional em casos específicos e excepcionais, nos quais as circunstâncias fáticas e concretas indiquem que a prisão do sentenciado possa vir a ser excessivamente gravosa.
+A propósito, confiram-se precedentes: AgRg no HC n. 583.027/SP, Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 27/11/2020; HC n. 599.475/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 29/9/2020; RHC n. 114.208/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 30/8/2019; e HC n. 366.616/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 5/5/2017.
+Entretanto, no presente caso,não se verifica qualquer situação excepcional, a justificar aexpedição daguiadeexecuçãoantes do cumprimento do mandado prisional.
+Assim, não se constata a existência de flagrante ilegalidadeque autorize a atuação ex officio.
+Acerca da questão, observem-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÂNSITO EM JULGADO DA CONDENAÇÃO. EXPEDIÇÃO DA GUIA DE RECOLHIMENTO DEFINITIVA. PRÉVIO CUMPRIMENTO DO MANDADO DE PRISÃO. ILEGALIDADE NÃO CONFIGURADA. AGRAVO NÃO PROVIDO.
+1. O posicionamento atual desta Corte Superior a respeito do tema é de ausência de ilegalidade em se condicionar a expedição da guia de execução definitiva ao cumprimento de mandado de prisão decorrente do trânsito em julgado da condenação. Essa regra é relativizada quando fica demonstrado que o réu teria direito a benefícios que tornariam sua execução mais branda, como progressão de regime ou prisão domiciliar.
+2. Na hipótese, embora a defesa afirme que o réu está atualmente em livramento condicional, em decorrência da execução provisória da reprimenda imposta, não instruiu o feito com nenhum documento que comprove o alegado, circunstância que impossibilita o acolhimento do pleito.
+3. Agravo não provido.(AgRg no HC n. 730.188/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 12/4/2022.)
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO. PORTE DE ARMA DE FOGO DE USO PROIBIDO. EXPEDIÇÃO DE GUIA DE EXECUÇÃO DEFINITIVA. IMPOSSIBILIDADE. MANDADO PRISIONAL NÃO CUMPRIDO. ART. 105 DA LEP E ART. 675 DO CPP. NECESSIDADE DE RECOLHIMENTO PRÉVIO DO SENTENCIADO À PRISÃO. EXCEPCIONALIDADE NÃO CONFIGURADA. DETRAÇÃO PENAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. TEMPO DE PRISÃO PROVISÓRIA QUE NÃO ALTERA O REGIME PRISIONAL. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 105 da Lei de Execução Penal e art. 675 do Código de Processo Penal, o início do cumprimento da pena privativa de liberdade se dá com o recolhimento do sentenciado à prisão e a expedição da respectiva guia de execução.
+2. Segundo entendimento reiterado deste Superior Tribunal de Justiça, em regra, o exame dos pedidos de progressão prisional (art.66, III, "b" e 112 da LEP) e de detração (art. 66, "c", III, da LEP), ou de qualquer outro benefício, estão condicionados ao cumprimento do mandado de prisão e, consequentemente, à expedição da guia definitiva pelo Juízo da Execução.
+3. Esta Corte Superior tem excepcionado tal entendimento a casos específicos em que a condição do prévio recolhimento ao cárcere possa ser excessivamente gravosa, a depender das particularidades das situações de cada sentenciado, o que, contudo, não restou demonstrado na hipótese dos autos.
+4. Com advento da Lei 12.736/2012, o Juiz processante, ao proferir sentença condenatória, deverá detrair o período de custódia cautelar para fins de fixação do regime prisional. Forçoso reconhecer que o § 2º do art. 387 do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas, sim, acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado.
+5. Na hipótese, a existência de circunstância judicial desfavorável ao paciente justifica o agravamento do regime prisional. Desse modo, ainda que o tempo de prisão provisória cumprido conduza a pena restante à patamar inferior a 4 anos, é cabível o regime semiaberto, em atenção ao disposto no art. 33, § 2º, "c", c/c § 3º, do Código Penal.
+6. Agravo regimental não provido.(AgRg no HC n. 670.319/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 9/8/2021.)
+Ademais, para adotar orientação diversa do Tribunal a quo e acolher a tese defendida pela defesa, seria imprescindível o revolvimento do contexto fático-probatório dos autos, providência inviável na estreita via do writ.
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ, não conheço do presentehabeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
