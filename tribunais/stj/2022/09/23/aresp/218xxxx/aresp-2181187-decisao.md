@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por LÉSSIO DOS SANTOS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+CIVIL. PROCESSO CIVIL. MILITAR. ACIDENTE EM SERVIÇO. DANOS MORAIS NÃO CONFIGURADOS. APELAÇÃO NEGADA.
+Quanto à controvérsia recursal, alega violação dos arts. 186 e 927 do CC, no que concerne à necessidade de condenação por danos morais tendo em vista o ocasionamento de trombose decorrente de colocação de uma tala de forma errada após lesão sofrida durante execução de teste físico, quando ocupava os quadros do 9º Batalhão do Comando Militar do Oeste , trazendo o(s) seguinte(s) argumento(s):
+O recorrente ingressou com o Ação de Reparação de Danos Materiais Morais e Estéticos, em decorrência de lesão sofrida durante a execução de teste físico, quando ainda ocupava os quadros do Comando Militar do Oeste  9º Batalhão.
+No local da lesão fora necessário a colocação de uma tala, contudo ocorreu de forma errônea o qual ocasionou em trombose, sendo necessário ser submetido a tratamento cirúrgico (fls. 454).
+Tendo sofrido danos morais em decorrência da dor ocasionada pela lesão, em consequência abalo emocional dada a situação.
+ ..
+Verifica-se que o direito à reparação dos danos causados, conferido pela lei federal em comento, não foi observado e concretizado pelos julgadores, apesar da farta prova presente nos autos, aliás como muito bem exarado na decisão recorrida restou incontroversa existência da lesão, não sendo lógico o entendimento de inexistência de dano moral. O acórdão não decorre de lógica, tendo em vista que como seria possível uma pessoa que sofre lesão, trombose em nada lhe afetar, não lhe causar dano moral (fls. 455).
+Ressalta-se que quando da ocorrência da trombose, como no caso resultante do erro médico, resulta em sequelas, sendo estes enfrentados pelo recorrente.
+Ademais o nexo causal restou comprovado, haja vista que o recorrente jamais teria sofrido a lesão, se todas as precauções tivessem disso observadas, referia lesão resulta em redução para práticas de determinadas atividades, as quais qualquer pessoa que não tenha sofrido referida lesão conseguiria executar, o que não é caso do recorrente (fls. 456).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+É fato incontroverso que o autor sofreu acidente em serviço que lhe causou lesão no joelho esquerdo.
+Contudo, o autor não comprovou a ocorrência de dano de natureza moral, até mesmo porque não há incapacidade nem houve exposição a riscos acima do esperado para as atividades por ele desenvolvidas.
+Conforme se depreende do laudo pericial, o Sr. Perito Judicial concluiu que o autor apresentou trombose venosa profunda em membro inferior esquerdo, foi operado e encontra-se sem sequelas. Apresenta também sinais de lesão meniscal e ligamentar do joelho esquerdo (ID nº 205992075).
+No mais, ao contrário do quanto alegado pelo autor, concluiu que a lesão foi tratada e resolvida no período do trauma, sendo que não houve falhas no tratamento dispensado pelo Exército (ID nº 205992072) - fl. 143.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
