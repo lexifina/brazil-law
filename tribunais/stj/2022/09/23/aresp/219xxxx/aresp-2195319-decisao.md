@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por impossibilidade de alegar violação de norma constitucional, ausência de demonstração de ofensa aos artigos arroladose incidência das Súmulas n. 5 e 7 do STJ (e-STJ fls. 1.740/1.743).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.569):
+APELAÇÃO - EMBARGOS À EXECUÇÃO - Contrato deprestação de serviços advocatícios - Inexigibilidade -Revogação do mandato judicial - Requisitos essenciais aotítulo executivo não configurados - Ausência de causadebendi - Gratuidade judiciária - Revogação - Hipótese emque prevalece a presunção de hipossuficiência - Ausenteselementos que infirmem as assertivas -Sentença deprocedência em primeiro grau - Apelo desprovido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.609/1.612).
+Nas razões do recurso especial (e-STJ fls. 1.663/1.698), interposto com fundamento no art. 105, III, "a", da CF, orecorrente apontou ofensa aos arts. 93, IX, da CF e 11 e 489 do CPC/2015. Argumentouquehaveria "patente omissão/contradição em relaçãoàs teses de revogação da assistência judiciária gratuita e fielpresença dos requisitos necessários à execução.Denota-se, ainda, silêncio absoluto no quetange à inexistência de nulidade, vício ou excesso de execução eregular prestação de serviços jurídicos, com dever de pagamento dedívida líquida certa e exigível, inclusive na hipótese de revogação domandato.Por fim, inexiste manifestação judicial acercada legalidade da aplicação de cláusula penal e demais consectários" (e-STJ fl. 1.665).
+Alegou quea recorrida não preencheria os requisitos legais para ter direito à assistência judiciária gratuita, infringindo a regra contida no art. 98 do CPC/2015.
+Aduziu que a dívida é liquida, certa e exigível, possuindo o contrato escrito de honorários força de título executivo, nos termos do art. 24 daLei n. 8.906/1994. Afirmou que também foi apresentada a memória detalhada e minuciosa do cálculo. Sustentou terem sido cumpridos os requisitos dos arts. 783 e 798 do CPC/2015.
+Destacou ter sido contratado para defender os interesses da recorrida no cumprimento de sentença, e não para a propositura de ação de conhecimento, de forma que teria cumprido integralmente sua parte na contratação. A seu ver, a "não vitória na causa não afasta oshonorários contratados por preço certo/determinado" (e-STJ fl. 1.678). Além disso, a rescisão unilateral do contrato por culpa da recorrida ensejaria o pagamento da integralidade dos honorários contratados, consoante oart. 22 e seguintes da Lei n. 8.906/1994, não se tratando, outrossim, de honorários ad exitum.
+Ressaltou que faz jus ao que perdeu- o ajustado no contrato- e ao que deixou de ganhar- eventuais verbas de sucumbência.
+Assinalou que deve prevalecer o pactuado, não existindo nenhumacausa jurídica para suaanulação. Apontou violação dos arts. 22 e 24, § 4º, do CPC/2015 e 422 do CC/2002.
+Defendeu que a "inadimplência absoluta ensejou o vencimento antecipado de todas a prestações (vencimento antecipado em 20/06/2018), bem como a incidência de multa de 30% (trinta por cento) sobre a dívida, correção monetária, juros de 1% ao mês e honorários advocatícios de 20% (vinte por cento), conforme expressamente convencionado entre os sujeitos processuais no aludido título executivo extrajudicial" (e-STJ fl. 1.695).
+Alegou que os valores cobrados são os devidos no contrato, não havendo falar em excesso de execução.
+Contrarrazões às fls. 1.724/1.735(e-STJ).
+No agravo (e-STJ fls. 1.748/1.766), declara a presença de todos os requisitos de admissibilidade do especial e requer a concessãode efeitosuspensivo ao recurso.
+Foi apresentada contraminuta (e-STJ fls. 1.837/1.838).
+É o relatório.
+Decido.
+Inicialmente, destaco não ser viável apreciar, em recurso especial, a tese de violação de dispositivo constitucional, sob pena de usurpação de competência do STF, motivo pelo qual não se deve conhecer da alegação de ofensa ao art. 93, IX, da CF.
+Não verifico violação aos arts. 11 e 489 do CPC/2015.ACorte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem assim decidiu a controvérsia (e-STJ fls. 1.572/1.574):
+Na hipótese, não se vislumbra prova efetiva de que a prestação dos serviços ocorreu satisfatoriamente para ambas as partes. Além disso, no que concerne à liquidez, destaca-se a impossibilidade de aferir a valoração a respeito do quantum devido.
+Limitou-se a parte apelante a sustentar que é direito receber os honorários advocatícios na integralidade, eis que o trabalho foi prestado com empenho, técnica e profissionalismo e que a ruptura do contrato de prestação de serviços foi unilateral e por culpa exclusiva da apelada. Ademais, a revogação dos poderes não retira do advogado o direito aos honorários contratuais na íntegra.
+Ora, o apelante foi destituído do cargo. Nessa toada, resta incerteza quanto à obrigação e liquidez em relação ao contrato firmado, e a prova colacionada é insuficiente para indicar a efetiva responsabilização da apelada em eventual cobrança na forma pretendida.
+Sob esse prisma, não há que se falar em exequibilidade do título em comento.
+Quanto à revogação do benefício a gratuidade judiciária concedida à embargante, não assiste razão a insurgência.
+Ocorre que a revogação tem cabimento mediante prova de que a afirmação de ausência de condição financeira é inverídica.
+Logo, mantida a presunção de hipossuficiência, uma que vez que a parte insurgente não logrou êxito em infirmar a alegada condição, não se vislumbrando se tratar a embargante de pessoa que ostente considerável poder econômico.
+Os elementos dos autos permitem à apelada fazer jus ao benefício, e, por ora, não há nada nos autos a comprovar o contrário.
+Logo, não comprovada está a certeza, liquidez e exigibilidade dos valores lançados como devidos.
+É o caso de ser proposta ação de conhecimento em que fique reconhecida a responsabilidade da devedora.
+Não se pode permitir a execução no modo pretendido pelo apelante sem se permitir os meios de defesas típicos do processo de conhecimento.
+Ausentes os elementos aptos a constituir o título executivo pela certeza, liquidez e exigibilidade da obrigação necessários ao desenvolvimento do processo executivo, prestigia-se a sentença de primeiro grau.
+O TJSPpronunciou-seexpressamente sobre as questões apresentadas, ainda que não da forma como pretendia o recorrente. Entretanto, o fato de a decisãorecorrida ser contrária a seus interesses não configura vício de fundamentação.
+No mais, o agravante elenca uma série de dispositivos legais sem, contudo,apontar, de formaespecífica, quais entende violados ede que formateria ocorrido a referida contrariedade.
+Com efeito, "o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente" (AgInt no AREsp n. 1.411.032/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/9/2019, DJe 30/9/2019).
+Além disso, nos termos da jurisprudência do STJ, "no recurso especial, não basta a simples menção dos artigos que se reputam violados, as alegações devem ser fundamentadas, havendo uma concatenação lógica, demonstrando de plano como o aresto hostilizado teria malferido os dispositivos indicados" (AgRg no REsp 262.120/SP, Rel. Min. Francisco Falcão, Primeira Turma, DJ 03/10/2005).
+Assim, por carênciade fundamentação, incide aSúmula n. 284/STF.
+Ainda que assim não fosse, tendo o Tribunal de origem concluído pela inexequibilidade do título e pela ausência de provas de que a recorrida não fariajus à justiça gratuita, decidir de modo contrário implicaria reexame do contexto fático-probatório dos autos, inclusive das cláusulas contratuais, o que encontra óbice nas Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. JULGO PREJUDICADOo pedido de efeito suspensivo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão da justiça gratuita.
+Publique-se e intimem-se.
