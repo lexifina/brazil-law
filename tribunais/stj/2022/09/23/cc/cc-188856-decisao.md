@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo Juízo de Direito da 5ª Vara Cível da Comarca de Aracajú/SEem desfavor do Juízo Federal da1ª Vara da Subseção Judiciária de Aracajú/SE, no autos de demanda contenciosa proposta contra a União e o Banco do Brasil, por meio da qual a parte autora objetiva a condenação dos réus a restituir os valores desfalcados de sua conta vinculadaao PIS/PASEP.
+O Juízo Federal declarou a ilegitimidade passiva ad causam daUnião, razão pela qual determinou a remessa dos autos ao Juízo Estadual.
+O Juízo Estadual, por seu turno, consignou que "O § 6º, do art. 7º, do Decreto 4.751/2003, estabelece que a representação ativa e passiva do PIS-PASEP compete ao Conselho Diretor, que deverá ser representado em juízo por Procurador da Fazenda Nacional, devendo assim a União Federal neste caso, figurar no polo passivo da ação" (e-STJ fl. 6). Diante disso, suscitou o presente incidente perante esta Corte.
+O Ministério Público Federal opinou pela fixação da competência no Juízo Estadual (e-STJ fls. 299-302).
+É o breve relatório. Decido.
+Razão assiste ao Juízo suscitado. Isso porque a Primeira Seção do Superior Tribunal de Justiça firmou o entendimento de que compete à Justiça Estadual processar e julgar os feitos cíveis relativos ao PIS/PASEP, cujo gestor é o Banco do Brasil, uma vez que, por se tratar de sociedade de economia mista federal, não se inclui na relação prevista no art. 109, I, da Constituição da República, de modo a excluir a competência da Justiça Federal, nos termos da Súmula 42/STJ.
+A propósito, confiram-se:
+CONFLITO DE COMPETÊNCIA. PASEP. SAQUES INDEVIDOS. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. BANCO DO BRASIL. INSTITUIÇÃO GESTORA. SOCIEDADE DE ECONOMIA MISTA. SÚMULA 42/STJ. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO DA 12a. VARA CÍVEL DE RECIFE -PE.
+1. A Primeira Seção desta Corte tem entendimento predominante de que compete à Justiça Estadual processar e julgar os feitos cíveis relativos ao PASEP, cujo gestor é o Banco do Brasil (sociedade de economia mista federal).
+2. Incide, à espécie, a Súmula 42/STJ : Compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento.
+3. Conflito de Competência conhecido para declarar competente o Juízo de Direito da 12a. Vara Cível de Recife -PE(CC 161.590/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 13/02/2019, DJe 20/02/2019).
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO ORDINÁRIA AJUIZADA CONTRA O BANCO DO BRASIL. SOCIEDADE DE ECONOMIA MISTA. COMPETÊNCIA DA JUSTIÇA ESTADUAL. SÚMULA 42/STJ.
+1. A ação ajuizada contra o Banco do Brasil S/A, objetivando o cálculo da correção monetária do saldo da conta vinculada ao PASEP e a incidência de juros, impõe a aplicação das regras de fixação de competência concernentes às sociedades de economia, uma vez que o conflito de competência não é instrumento processual servil à discussão versando sobre a legitimidade ad causam.
+2. Destarte, sendo o Banco do Brasil uma Sociedade de Economia Mista, não se inclui na relação prevista no art. 109, I, da Constituição da República, de modo a excluir a competência da Justiça Federal, a teor do que preceitua a Súmula n.º 42 desta Corte: "Compete à Justiça Comum Estadual processar e julgar as causas cíveis em que é parte sociedade de economia mista e os crimes praticados em seu detrimento".
+3. Conflito conhecido para declarar competente o Juízo Estadual(CC 43.891/RS, Rel. Ministro JOSÉ DELGADO, Rel. p/ Acórdão Ministro LUIZ FUX, PRIMEIRA SEÇÃO, julgado em 13/12/2004, DJ 06/06/2005, p. 173).
+Ante o exposto, conheço do conflitopara declarar a competência do Juízo de Direito da 5ª Vara Cível da Comarca de Aracajú/SE.
+Publique. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIAINSTAURADO ENTRE JUÍZOS ESTADUAL E FEDERAL. PIS/PASEP. RESTITUIÇÃO DE VALORES DESFALCADOS DA CONTA. BANCO DO BRASIL. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. SÚMULA 42/STJ. CONFLITO DE COMPETÊNCIA CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO DE DIREITO.
