@@ -1,0 +1,41 @@
+DECISÃO:
+
+Ementa: Penal e processual penal. Habeas corpus.  Tráfico e associação para o tráfico de drogas, comércio ilegal de arma de fogo e associação criminosa. Prisão preventiva. Inadequação da via eleita.
+
+ 1.	Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu liminarmente o HC 767.586, do Superior Tribunal de Justiça (STJ).
+
+ 2.	Extrai-se dos autos que, em 11.08.2022, o Juízo da Vara Criminal da Comarca de Biguaçu/SC decretou a prisão preventiva do paciente, em razão da suposta prática dos crimes de tráfico e associação para o tráfico de drogas, comércio ilegal de armas de fogo e associação criminosa.
+
+3.	Inconformada com a prisão, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de Santa Catarina (TJ/SC). Indeferida a liminar, sobreveio a impetração de HC no STJ. A Ministra Maria Thereza de Assis Moura, no exercício da Presidência do Tribunal, indeferiu liminarmente o writ.
+
+4.	Neste habeas corpus, a parte impetrante alega ausência de fundamentação idônea para a decretação da custódia preventiva, destacando que, no caso, “há uma clara confusão entre os institutos da prisão preventiva e prisão temporária os quais são totalmente diversos”. Além disso, sustenta que:
+
+“Há ainda teratologia patente da decisão de primeiro grau que ressaltou a necessidade da segregação do paciente, uma vez que possui registros criminais em seu desfavor, sendo um por tráfico de drogas e outro por delito contra a vida.
+Todavia, quanto ao crime contra a saúde pública (tráfico de drogas) a pena foi extinta em 01/02/2016 devido ao cumprimento integral da reprimenda, ou seja, a 06 (seis) anos 06 (seis) meses e 25 (vinte e cinco) dias.
+Quanto ao crime contra a vida, este ocorreu de forma culposa no volante, conforme art. 302 do Código de Trânsito Brasileiro, não havendo demonstração que o paciente se dedique ao submundo do crime.”
+
+5.	A defesa requer a concessão da ordem a fim de revogar a prisão processual do acionante. Subsidiariamente, pleiteia a substituição da custódia por outra medida cautelar.
+
+6.	Decido.
+
+ 7.	Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+
+8.	Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+III – Agravo regimental a que se nega provimento.
+
+9.	Ainda do ponto de vista processual, ressalto que as alegações da defesa não foram sequer analisadas pelas instâncias de origem (TJ/SC e STJ). Fato que impede o imediato exame da matéria pelo STF, sob pena de dupla supressão de instâncias.
+
+10.	Por fim, pontuo que as peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a concessão da ordem de ofício. Até porque a hipótese é de paciente que integra “uma verdadeira associação criminosa voltada para o comércio ilícito de drogas e outros crimes na região da Grande Florianópolis, sob o comando do representado (...), para promoção de intensa distribuição de drogas e de armas de fogo na região da Grande Florianópolis, com ênfase no Município de Biguaçu”.
+
+11.	Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+
+Publique-se.
+
+	Brasília, 23 de setembro de 2022.
+
+Ministro LUÍS ROBERTO BARROSO
+                				Relator
