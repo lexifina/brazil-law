@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL interpostos por SPE BOM PASTOR - EMPREENDIMENTO IMOBILIARIO S/A com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com o AgInt no REsp n. 1.767.876/RJ, proferido pela 4ª Turma que foi assim ementado, (fls. 1140):
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 1.022 CPC/15. INEXISTÊNCIA. ATRASO NA ENTREGA DAS CHAVES. MORA DO PROMITENTE VENDEDOR. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 5 E 7/STJ. RESTITUIÇÃO INTEGRAL. LUCROS CESSANTES. PREJUÍZO PRESUMIDO. DANO MORAL NÃO CONFIGURADO. INEXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. AGRAVO INTERNO PROVIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+1. Não prospera a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015, tendo em vista que o v. acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado, apenas porque decidido em desconformidade com os interesses da parte. Precedentes.
+2. De acordo com o entendimento sumulado desta Corte, "na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor" (Súmula 543/STJ).
+3. O atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente-vendedor, sendo presumido o prejuízo do promitente-comprador.
+Precedentes.
+4. O simples inadimplemento contratual, em razão do atraso na entrega do imóvel, não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar a lesão extrapatrimonial, o que não ocorreu no caso dos autos 5. Agravo interno provido para dar parcial provimento ao recurso especial, a fim de afastar o pagamento de indenização por danos morais.
+Aduz que (fls. 1074):
+No processo paradigma - JULGADO PELA 4ª Turma AgInt no REsp n. 1.767.876/RJ, o STJ reconheceu que o inadimplemento contratual se trata de mero aborrecimento, de modo que não causa danos morais, uma vez que não há nenhuma situação que possa ser caracterizada como humilhante, vexatória ou a ponto de lhes causar algum dano à reputação das partes.
+Requer, desse modo, o provimento dos embargos de divergência.
+É, no essencial, o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da ausência de impugnação aos fundamentos da decisão agravada. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Não se verifica, no caso, abuso no direito de recorrer a autorizar a imposição de multa por litigância de má-fé.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDv nos EREsp 1615774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020.)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados desta Corte: EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência.
+Determino a majoração dos honorários recursais em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, no importe de 15% sobre o valor já arbitrado de honorários sucumbenciais, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, ressalvada a eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
