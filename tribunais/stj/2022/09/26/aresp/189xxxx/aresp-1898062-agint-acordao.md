@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Cuida-se de agravo interno, interposto por RICARDO BRANDT NASCHENWENG e OUTRO, contra a decisão monocrática de fls. 658/660(e-STJ), da lavra deste signatário, que não conheceu do agravo (art. 1.042, do CPC/15) porquanto intempestivo.
+Inconformada, a parte insurgente interpõeo presente agravo interno (fls. 663/673, e-STJ), no qual sustenta, em síntese, a tempestividade do recurso.
+Sem impugnação (certidão defl. 684e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO REVISIONAL DE CONTRATOS- DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO RECLAMO ANTE A SUA INTEMPESTIVIDADE.
+INSURGÊNCIA DA PARTE AUTORA.
+1. É intempestivo o agravo em recurso especial interposto após o prazo de 15 (quinze) dias úteis previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+2. Esta Corte Superior entende que o único recurso cabível contra a decisão de admissibilidade do apelo nobre é o agravo previsto no art. 1.042 do CPC/15. A interposição de embargos declaratórios não interrompe o prazo para a apresentação do referido reclamo, por serem manifestamente incabíveis. 2.1"A interposição de recurso manifestamente inadmissível não interrompe nem suspende o prazo para a interposição de outros recursos." (AgInt no AREsp 1744924/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 02/03/2021).
+3. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar, porquanto os argumentos expendidos pela parte agravante não são capazes de infirmar os fundamentos do decisum impugnado.
+1.Em que pese a argumentação deduzida no presente agravo interno, a regra prevista no art. 5º, §3º, da Lei 11.419/06 seria aplicável caso a parte recorrente não tivesse realizado consulta eletrônica do teor da intimação da decisão de inadmissibilidade do apelo nobre - hipótese de intimação eletrônica ficta.
+Todavia, nos termos do consignado no§ 1º do referido diploma legal,"considerar-se-á realizada a intimação no dia em que o intimando efetivar a consulta eletrônica ao teor da intimação, certificando-se nos autos a sua realização".
+Depreende da certidão de fls. 546/547 (e-STJ), que a parte recorrente teve ciência da decisão de inadmissibilidade do recurso especial no dia04/06/2020 (quinta-feira), às 13h18min08s, momento em que efetivou consulta eletrônica do teor daquela decisão, conforme registrado.
+Assim, o prazo de 15 dias úteis para interposição do recurso de agravo (art. 1.042, do CPC/15), teve início no dia05/06/2020(sexta-feira), encerando-se, por conseguinte, no dia25/06/2020(quinta-feira)
+Contudo, o recurso de agravo em recurso especial somente foi interposto em06/07/2020(segunda-feira), conforme se extrai da certidão acostada à fl. 575(e-STJ).
+Desta forma, afigura-se inadmissível a irresignação, porquanto intempestiva, na medida em que fora interposta além do prazo previsto no artigo 1.003, § 5º, do NCPC.
+2. Destaca-se, por oportuno, ser assente nesta Colenda Corte a orientação jurisprudencial no sentido de que o agravo (art. 1.042, do CPC/15) é o único recurso cabível contra decisão que nega seguimento a recurso especial. Assim,a oposição de embargos de declaração, como no presente caso, porquanto manifestamente incabível, não suspende ou interrompe o prazo para a interposição do recurso adequado.
+Nesse sentido, precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. DECISÃO DE ADMISSIBILIDADE. RECURSO INCABÍVEL. PRAZO RECURSAL. NÃO INTERRUPÇÃO. AGRAVO INTEMPESTIVO. MATÉRIA CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).2. O agravo é o único recurso cabível contra decisão que inadmite o recurso especial. Desse modo, a oposição de declaratórios não interrompe o prazo para a interposição de agravo em recurso especial. Intempestivo, portanto, o recurso apresentado.3. Não cabe a esta Corte, em recurso especial, a análise de ofensa a dispositivos constitucionais, cuja competência é do Supremo Tribunal Federal, consoante o disposto no art. 102 da Constituição da República. 4. Agravo interno não provido. (AgInt no AREsp 1496919/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/02/2020, DJe 20/02/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO RECURSAL. INTEMPESTIVIDADE. RECURSO MANIFESTAMENTE INCABÍVEL. 1. Ação civil pública decorrente de expurgos inflacionários das cadernetas de poupança.2. A interposição de recurso manifestamente incabível, como nas hipóteses de pedido de reconsideração ou embargos de declaração opostos à decisão de admissibilidade do recurso especial, não interrompe ou suspende o prazo para a interposição do recurso próprio.3. Agravo interno no recuso especial não conhecido. (AgInt na PET no REsp 1793076/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 02/12/2019, DJe 05/12/2019)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO CONTRA PRIMEIRO JUÍZO DE ADMISSIBILIDADE. DESCABIMENTO. NÃO INTERRUPÇÃO DO PRAZO. PRECEDENTE.1. Consolidada orientação do STF e deste Tribunal no sentido de que o único recurso cabível contra decisão que não admite recurso especial é o agravo de instrumento (ou nos próprios autos a partir da edição da Lei 12.322/2010), os embargos de declaração, no caso, são manifestamente incabíveis, motivo pelo qual não interromperam o prazo para a interposição do agravo de instrumento, que, portanto, é intempestivo.2. Agravo interno a que se nega provimento. (AgInt no AREsp 610.443/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/06/2019, DJe 14/06/2019)
+De rigor, portanto, a manutenção da decisão agravada.
+Advirta-se, por derradeiro, que eventual interposição de recursomanifestamente inadmissível ou protelatório poderá ensejar, conforme ocaso, a aplicação de multa calculada sobre o valor atualizado da causa(arts. 1.021, § 4º e 1.026, § 2º, CPC/2015).
+3. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
