@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL E PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NOTA PROMISSÓRIA. EXCEÇÃO DE PRE-EXECUTIVIDADE. PRESCRIÇÃO INTERCORRENTE. TRÊS ANOS. ARTIGO 70, DO DECRETO 57.663/1966. PARALISAÇÃO ININTERRUPTA NÃO VERIFICADA NO PROCESSO. INOCORRÊNCIA DE PRESCRIÇÃO INTERCORRENTE.
+Tendo havido o diligenciamento do credor na busca de bens do devedor, sem a ocorrência de suspensão do processo por período ininterrupto superior a três anos, deve ser confirmada, no caso concreto, a decisão que afastou a alegação de prescrição intercorrente.
+RECURSO NÃO PROVIDO.
+Alegou-se, no especial, violação dos artigos 202, V, do Código Civil e 921, § 2º, do Código de Processo Civil. Cuidando-se, assim, de nota promissória e transcorrido mais de três anos apósa citação, tem-se por ocorrida a prescrição.
+Assim delimitada a controvérsia, passo a decidir.
+Esta Corte Superior tem entendimento no sentido de que a prescrição intercorrente tem seu curso após um anode suspensão do processo e depende, de qualquer modo, de ausência de diligência da parte, ou seja, de desídia do credor no prosseguimento do processo.
+Vejam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DOS EXECUTADOS.
+1. Segundo a reiterada jurisprudência deste Superior Tribunal de Justiça, não há que se confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+2. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de que o reconhecimento da prescrição intercorrente exige a comprovação da inércia e desídia do exequente.
+3. Avaliar se houve desídia do exequente capaz de permitir a ocorrência de prescrição intercorrente demanda o revolvimento de matéria fático-probatória, providência vedada pela Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.053.664/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA DE DESÍDIA POR PARTE DO EXEQUENTE. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. "Somente a inércia injustificada do credor caracteriza a prescrição intercorrente" (REsp 1.698.249/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 14/08/2018, DJe de 17/08/2018).
+2. No caso dos autos, a Corte de origem expressamente consignou que "um dos requisitos para que ocorra a prescrição intercorrente é a inércia do Credor/Exequente; mas não há falar em inércia do Exequente quando ocorrer a suspensão da execução por falta de bens penhoráveis dos Executados, como é o caso, visto que apesar de a Executada/Recorrente alegar existir a época da suspensão bens passíveis de penhora, pude verificar que o Exequente já havia diligenciado para efetivar a penhora dos imóveis por ela indicados, conforme se abstrai dos documentos colacionados (arquivo 39 do evento de nº. 03 -f. 66). Entretanto, naquela oportunidade, a alienação judicial restou frustrada (arquivo 59 do evento de nº. 03 -f. 105). Assim, o reconhecimento da prescrição intercorrente não se configura pelo simples decurso do lapso temporal descrito na norma, sendo também necessária a caracterização da desídia da parte interessada em impulsionar a demanda. (..) Deste modo, conclui-se pela ausência de prescrição intercorrente no caso "sub examine"", porquanto não houve inércia por desídia do Exequente, haja vista que desde o ajuizamento da ação, o mesmo se mostrou diligente em cumprir os atos processuais determinados pelo juiz".
+3. Avaliar se houve desídia do exequente capaz de permitir a ocorrência de prescrição intercorrente demanda o revolvimento de matéria fático-probatória.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.894.534/GO, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/4/2022, DJe de 23/5/2022.)
+O Tribunal local concluiu que "o título que embasa a ação é uma nota promissória, cujo prazo prescricional para avia executiva é o trienal, conforme dispõe o artigo 70 da Lei Uniforme de Genebra. Daí a prescrição que se está aqui a discutir é a intercorrente, há que se aferir se o processo permaneceu paralisado pelo período trienal de modo ininterrupto.
+Esse é o foco para se avaliar a ocorrência ou não da perda do direito de cobrar o título pela via executiva.
+Nesse contexto, emerge evidente, do simples cotejo do o período compreendido entre 14/11/2018 (data da propositura do primeiro incidente) a 16/12/2020 (data da oposição do segundo incidente) é que se tem um prazo de dois anos.
+E nesse período, conforme análise feita do trâmite da execução, verifica-se que o credor impulsionou o feito em mov. 55, na data de 14/05/2019 (alegação de falha de intimação), sendo o feito arquivado provisoriamente por dois breves períodos (de 19/06/2019 a 09/09/2019 - movs. 60 a 63 - e de 30.09.2020 a 08.01.2021 - movs. 64 e 67, podendo-se assegurar que não houve a paralisação da execução por prazo superior a três anos, de modo que deve ser afastada a ocorrência do fenômeno da prescrição intercorrente nos autos" (e-STJ, fl. 66).
+É inequívoco, diante de tais conclusões, que o reexame da causa esbarra nas disposições dos verbetes n. 7 e 83 da Súmula desta Casa.
+Diante do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
