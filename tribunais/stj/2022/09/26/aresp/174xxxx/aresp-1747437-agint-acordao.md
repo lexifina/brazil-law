@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+CHANDRA DUARTE DE OLIVEIRA (CHANDRA) ajuizou ação de obrigação de fazer c/c indenização por danos morais contra UNIMED GOIÂNIA COOPERATIVA DE TRABALHO MÉDICO (UNIMED GOIÂNIA) pretendendo o restabelecimento do plano de saúde celebrado entre as partes, tendo em vista o cancelamento sem prévia notificação.
+Em primeira instância, o pedido foi julgado improcedente, condenando-se a autora CHANDRA ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor da causa (e-STJ, fls. 301/308).
+O Tribunal de Justiça de Goiás deu parcial provimento ao recurso de apelação interposto por CHANDRA para determinar a manutenção do contrato de plano de saúde firmado entre as partes, invertendo-se os ônus sucumbenciais, em acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. 1. JULGAMENTO ANTECIPADO DA LIDE. O julgamento antecipado da lide, quando existentes provas suficientes à formação do convencimento do Juiz, destinatário da prova, não caracteriza cerceamento de defesa, não incorrendo em ofensa aos princípios do contraditório e da ampla defesa. 2. PLANO DE SAÚDE, NOTIFICAÇÃO INVÁLIDA. A carta de notificação enviada ao consumidor, que fala da existência da dívida vencida, mencionando a possibilidade de suspensão ou rescisão, sem especificar em que hipótese o contrato estaria suspenso e, em qual, seria rescindido, levando a consumidora de boa-fé a adimplir a dívida, crendo na continuidade do serviço, é inválida, por falta de clareza e inobservância ao dever de informação. 3. DANOS MORAIS. Relação contratual, sem prova de conduta de má-fé, no caso, os dissabores, desconfortos, ou aborrecimentos são insuficientes para caracterizar dano moral indenizável. 4. LITIGÂNCIA DE MÁ-FÉ. Quando a parte se utiliza dos meios disponíveis no CPC, na busca de direitos que entende ser titular, não incorre em litigãncia de má-fé, sobretudo porque essa não se presume, exigindo a presença de prova robusta das situações dispostas no CPC. 5. ONUS SUCUMBENCIAIS. Provido o recurso, tendo a Apelante decaído em parte mínima do pedido da inicial, mister a inversão dos ônus sucumbenciais, fixando-se em 10% (dez por cento) sobre o valor atualizado da causa, conf. arts. 85, § 2º, e 86, parágrafo único, do CPC; sem fixação de honorários recursais, pois incabíveis. APELAÇÃO CÍVEL CONHECIDA E, EM PARTE, PROVIDA. SENTENÇA REFORMADA, EM PARTE (e-STJ, fl. 467).
+Inconformada, UNIMED GOIÂNIA interpôs recurso especial com fulcro no art. 105, III, a, da Constituição Federal apontando violação dos arts. 7º, 9º, 10e 141 do NCPC, ao sustentar, em síntese, que os fundamentos do aresto impugnado extrapolaram a discussão travada nos autos, constituindo-se decisão surpresa, ferindo-se os princípios do contraditório e da ampla defesa, bem como violação do princípio da adstrição.
+Em juízo de admissibilidade, a presidência do TJGO inadmitiu o apelo nobre com fundamento na incidência da Súmula n.º 7do STJ (e-STJ, fls. 529/530).
+Seguiu-se o agravo em recurso especial interposto por UNIMED GOIÂNIA que, em decisão monocrática de minha lavra, dele conhecipara não conhecer do recurso especial com fundamento na incidência daSúmula n.º 7do STJ. A decisão ficou assim ementada:
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. CANCELAMENTO DE PLANO DE SAÚDE POR INADIMPLÊNCIA. AUSÊNCIA DE NOTIFICAÇÃO VÁLIDA. RESTABELECIMENTO DO PLANO.RECURSO ESPECIAL. INTERPOSTO NA VIGÊNCIA DO NCPC.REEXAME DO CONJUNTO PROBATÓRIO. IMPOSSIBILIDADE.INCIDÊNCIA DA SÚMULA Nº, DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL (e-STJ, fls. 559).
+Irresignada, UNIMED GOIÂNIAinterpôs o presente agravo interno alegando, em síntese (1) desnecessidade de incursão no arcabouço fático-probatório, não incidindo aSúmula n.º 7do STJ; e (2) que foi exposto no recurso especialque o motivo pelo qual o Tribunala quo entendeu pelo restabelecimento do contrato não foi discutido no processo, nem sequercogitado pelas partes, constituindo-se decisão surpresa, ocorrência de malferimento à ampla defesa e ao contraditório, bem como violação do princípio da adstrição(e-STJ, fls. 564/567).
+Não foi apresentada impugnação (certidão e-STJ, fl. 254).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE.NOTIFICAÇÃO INVÁLIDA. ALTERAÇÃO. IMPOSSIBILIDADE. CERCEAMENTO DE DEFESA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DECISÃO SURPRESA E VIOLAÇÃO DO PRINCÍPIO DA ADSTRIÇÃO. TEMAS NÃO DEBATIDOS PELAS INSTÂNCIAS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA N.º282 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.O Tribunal a quoconcluiu pela invalidade da notificaçãoacerca da possibilidade de cancelamento do contrato de plano de saúde firmado entre as partes. Alterar referida conclusão, necessariamente demandaria o reexame do conjunto probatório dos autos, vedado, como se sabe, pela incidência da Súmula n.º 7do STJ.
+3. OTribunal estadual concluiu que não se caracterizou o cerceamento de defesa, não ocorrendo ofensa aos princípios do contraditório e da ampla defesa.Nesse contexto, a revisão dos fundamentos que levaram a tal entendimento demandariam uma nova apreciação do conjunto probatório, o que é vedado em recurso especial, a teor da Súmula nº 7, STJ.
+4.Quanto aafirmação de que teria havido decisão surpresa, bem como violação do princípio da adstrição, verifica-se que referidos temas não foram apreciados pelo v. acórdão recorrido, tampouco foram opostos embargos de declaração.Ausente, portanto, o devido prequestionamento nos termos da Súmula n.º 282 do STF, aplicável por analogia.
+5.Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+A agravante UNIMED GOIÂNIAdefendeua desnecessidade de incursão no arcabouço fático-probatório, não incidindo a Súmula n.º 7do STJ, bem como alegouque foi exposto no recurso especial que o motivo pelo qual o Tribunal a quo entendeu pelo restabelecimento do contrato não foi discutido no processo, nem sequer cogitado pelas partes, constituindo-se decisão surpresa, ocorrência de malferimento à ampla defesa e ao contraditório, bem como violação do princípio da adstrição.
+OTribunal de Justiça de Goiás, analisando o conjunto fático-probatório dos autos,concluiu pelainvalidade da notificaçãoenviada à agravada CHANDRA acerca da possibilidade de cancelamento do contrato de plano de saúde firmado entre as partes.
+Confira-se trecho do acórdão recorrido:
+No caso, em análise, a Apelante confessa o inadimplemento e defende a inexistência de notificação válida, sendo levada a crer que com o pagamento do débito em atraso, teria o serviço disponibilizado em decorrência da manutenção do contrato.
+Os documentos apresentados pela Apelada, no i. Juízo de 1º grau, corrobora com os fatos alegados pela Apelante/A., vez que juntou cópia de documento enviado ao endereço da consumidora, inadequada para o fim de atender ao requisito legal de notificar-lhe acerca da rescisão unilateral do contrato; pois, na referida carta, constou a existência da dívida vencida e a possibilidade de suspensão ou rescisão, sem especificar em que hipótese o contrato estaria suspenso e em qual resultaria em rescisão.
+Assim, incorreu a Apelada/R. em irregularidade, quanto ao dever de informação, de clareza do documento, gerando dúvida razoável;
+agindo de boa-fé a consumidora que adimpliu as obrigações vencidas, acreditando na continuidade da relação contratual.
+(..).
+No caso, ausente notificação válida, mister a reforma da sentença, para determinar a manutenção do contrato (e-STJ, fls. 463/464 - sem destaque no original).
+Assim, alterar a conclusão do TJGO, necessariamente, demandaria o reexame do conjunto probatório dos autos, vedado, como se sabe, pela incidência da Súmula n.º 7do STJ.
+A propósito:
+CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO NCPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284 DO STF. RESCISÃO UNILATERAL DO PLANO DE SAÚDE POR INADIMPLEMENTO. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS PELO NÃO PROVIMENTO DO AGRAVO INTERNO. ART. 85, § 11, DO NCPC. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1.  .. .
+2.  .. .
+3. Para rever a conclusão do Tribunal local quanto a falta de notificação válida da consumidora seria necessário o reexame do conjunto fático- probatório dos autos, o que é vedado nesta via excepcional em razão do óbice da Súmula nº 7 do STJ.
+4. A jurisprudência do STJ orienta que a interposição de agravo interno não inaugura instância, razão pela qual se mostra indevida a majoração dos honorários advocatícios prevista no art. 85, § 11, do CPC/2015.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.758.395/SP, de mina relatoria, Terceira Turma, julgado em 16/8/2021, DJe de 19/8/2021)
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. CANCELAMENTO. AUSÊNCIA DE PRÉVIA NOTIFICAÇÃO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. O Tribunal de origem entendeu que seria nula a rescisão contratual, pois não teria sido demonstrada a devida notificação prévia da parte beneficiária. Alterar esse entendimento, no presente caso, demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+3. "O cancelamento do plano de saúde motivado por inadimplência do beneficiário exige sua prévia notificação, nos termos da jurisprudência do Superior Tribunal de Justiça" (Aglnt no AREsp 1.460.199/RJ, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/11/2020, DJe 27/11/2020).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.822.407/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022)
+Ademais, o Tribunal de Justiça de Goiás concluiu que não se caracterizou o cerceamento de defesa, não ocorrendo ofensa aos princípios do contraditório e da ampla defesa.
+Nesse contexto, a revisão dos fundamentos que levaram a tal entendimento demandariam uma nova apreciação do conjunto probatório, o que é vedado em recurso especial, a teor da Súmula n.º 7STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. OFENSA AO ART. 1.022 DO CPC/2015. NÃO CONFIGURADA. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. FALTA DE INTIMAÇÃO DO ASSISTENTE TÉCNICO PARA ACOMPANHAR OS TRABALHOS PERICIAIS. VIGÊNCIA DO CÓDIGO DE PROCESSO CIVIL/1973. AUSÊNCIA DE PREJUÍZO. SÚMULA 83/STJ. 4. CERCEAMENTO DE DEFESA. AFASTAMENTO. REVISÃO. SÚMULA 7/STJ. 5. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 6. AGRAVO INTERNO DESPROVIDO.
+1.  .. .
+2.  .. .
+3.  .. .
+4. Modificar o entendimento do Tribunal local (acerca da não ocorrência de cerceamento de defesa quanto às alegações de julgamento antecipado da lide; da falta de comprovação de que o valor de R$ 300.000,00 (trezentos mil reais) estava incluído nos valores alegadamente quitados, além dos apontados vícios relacionados à realização da perícia contábil e da distribuição do ônus da prova) não prescindiria do reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula 7/STJ, não sendo o caso, também, de revaloração da prova.
+5. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.104.838/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 15/8/2022, DJe de 18/8/2022 - sem destaque no original)
+Por fim, quanto aafirmação de que teria havidodecisão surpresa, bem como violação do princípio da adstrição, verifica-se que referidos temasnão foram apreciados pelo v. acórdão recorrido, tampouco foram opostos embargos de declaração.
+Não houve, portanto, o indispensável debate prévio, condição sem a qual fica obstaculizada a via de acesso ao apelo excepcional.
+Inafastável, assim, a incidência da Súmula n.º282 do STF, por analogia,inverbis:É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+A propósito, vejam-se os acórdãos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF.
+1.  .. .
+2. Ausente o prequestionamento, até mesmo de modo implícito, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.578.006/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 9/3/2020, DJe 13/3/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. OMISSÃO NO ACÓRDÃO DE ORIGEM. NÃO OCORRÊNCIA. NEGATIVA INDEVIDA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. DANO MORAL. VALOR. AUSÊNCIA DE INDICAÇÃO NO RECURSO ESPECIAL DE DISPOSITIVO TIDO COMO VIOLADO. SÚMULA 284/STF. COBERTURA. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO PROVIMENTO.
+1.  .. .
+4. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.811.358/PA, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. em 10/3/2020, DJe 17/3/2020)
+Desse modo, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, mantém-se o julgado, por não haver motivos para a sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
