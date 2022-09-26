@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por RODRIGO COSTA HENRIQUES em face da decisão, de minha lavra, que negou provimento ao agravo recurso especial em virtude do óbice das Súmulas 5 e 7 do STJ e da Súmula 735 do STF (e-STJ, fls. 435/438).
+Nas razões do presente agravo, o agravante sustenta a não incidência das Súmulas 5 e 7 do STJ porque se trata de questão jurídica relacionada à inviabilidade de concessão da tutela de urgência para a suspensão de execução promovida pelo endossatário do título extrajudicial.
+Afirma que a execução foi ajuizada em face da pessoa física que não faz parte da recuperação judicial.
+Aduz que não incide ao caso as Súmulas 283, 284 e 735 do STF e que há violação do art. 1.022 do Código de Processo Civil/2015 em virtude da omissão do Tribunal de origem sobre o tema recorrido.
+Alega a negativa de vigência dos arts. 17, 485, VI, 783, 784, § 1º, 921, todos do CPC/2015; dos arts. 905, 915, 916 e 917, todos do Código Civil; do art. 49 do Decreto 2.044/08; e dos arts. 17 e 75 da Lei Uniforme de Genebra.
+Requer a reconsideração da decisão agravada ou o julgamento do agravo interno pela Turma.
+Intimada, a parte agravada apresentou impugnação (e-STJ, fls. 1.607/1.615).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA. CONCESSÃO DA TUTELA PROVISÓRIA. SUSPENSÃO DAS EXECUÇÕES DE TÍTULO EXTRAJUDICIAL. TUTELA DE URGÊNCIA. REEXAME. IMPOSSIBILIDADE. SÚMULA 735 DO STF. AGRAVO NÃO PROVIDO.
+1. Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O presente recurso não merece prosperar.
+Cumpre reproduzir a decisão agravada, que segue mantida por seus próprios fundamentos:
+Trata-se de agravo interposto por RODRIGO COSTA HENRIQUES contra decisão que negou seguimento a recurso especial manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 121):
+AGRAVO DE INSTRUMENTO. AÇÃO ANULATÓRIA. CONCESSÃO DA TUTELA PROVISÓRIA. SUSPENSÃO DAS EXECUÇÕES DE TÍTULO EXTRAJUDICIAL. LEGITIMIDADE PASSIVA DO EXEQUENTE. PRESENÇA DOS REQUISITOS AUTORIZADORES À CONCESSÃO DA MEDIDA DE ANTECIPAÇÃO DA TUTELA. MANUTENÇÃO DA R. DECISÃO.
+1. Legitimidade passiva que se afere in status assertionis, a partir das alegações feitas pelos autores na petição inicial. Exequente legitimado a figurar como réu na ação que visa desconstituir a causa debendi dos títulos excutidos.
+2. Possibilidade de propositura de ação anulatória do negócio jurídico, não obstante subsistir execução calcada em notas promissórias emitidas em razão do referido negócio, especialmente quando não tenha havido a interposição de embargos. Precedentes do C. STJ.
+3. Probabilidade do direito deduzido, ante a existência de relevante controvérsia quanto à exigibilidade/liquidez dos títulos exequendos.
+4. Risco de dano e ao resultado útil do processo, ante a condição de recuperanda da sociedade empresária, situação que aconselha, pelo menos até a apuração dos fatos, a preservação de seus ativos e a autonomia patrimonial dos sócios.
+5. Presença dos requisitos autorizadores à concessão da tutela provisória. Manutenção da R. Decisão.
+6. Negativa de provimento ao recurso
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, o recorrente aponta a violação do art. 1.022 do Código de Processo Civil/2015 em virtude da omissão do Tribunal de origem em relação à aplicação dos arts. 17, 300, 485, 783, 784, I, § 1º e 921, todos do CPC/2015, dos arts. 905, 906, 915, 916 e 917, todos do Código Civil; dos arts. 17, 75 e 77, da Lei Uniforme de Genebra; dos arts. 49 e 54 do Decreto 2.044/1908; e do art. 52, III, da Lei 11.101/2005.
+Sustenta a negativa de vigência dos arts. 17 e 485, VI, do CPC/2015, uma vez que o recorrente é endossatário das notas promissórias e não firmou contrato com o recorrido, sendo devida a sua exclusão no processo.
+Afirma, a par de dissídio jurisprudencial, a violação dos arts. 784, § 1º, 921, do CPC/2015, sustentando que a ação de execução é autônoma e, sem a oposição de embargos à execução, não é possível a conexão entre essa e a ação ordinária.
+Alega a violação dos arts. 783 e 784, I, do CPC/2015, 905, 915, 916 e 917, todos do CC, dos arts. 17 e 75, da Lei Uniforme de Genebra e do art. 49 do Decreto 2.044/1908 em virtude da existência de título executivo extrajudicial e dos requisitos para a propositura da execução pelo endossatário.
+E, por fim, aduz que a nota promissória só estará vinculada ao contrato se estiver expressamente previsto no título, nos termos do art. 783 do CPC/2015, art. 54 do Decreto 2.044/1908 e art. 75 da LUG.
+O recurso especial não foi admitido em virtude da ausência de violação do art. 1.022 do CPC/2015 e do óbice da Súmula 7 do STJ.
+Nas razões deste agravo em recurso especial, o agravante afirma a não incidência da Súmula 7 do STJ e a manifesta violação do art. 1.022 do CPC/2015.
+Contraminuta não apresentada.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que esse não merece provimento, senão vejamos.
+Nas razões do seu recurso, o agravante alegou a violação do art. 1.022 do CPC/2015 em virtude da omissão do Tribunal de origem sobre os artigos indicados no recurso especial.
+Não houve, contudo, a indicação das teses omitidas, em evidente alegação genérica de contrariedade ao referido dispositivo.
+Nesses casos, ante a deficiente fundamentação do recurso, incide a Súmula 284 do STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia
+No mérito, o agravante aponta violação dos arts. 17, 300, 485, 783, 784, I, § 1º e 921, todos do CPC/2015; dos arts. 905, 906, 915, 916 e 917, todos do Código Civil; dos arts. 17, 75 e 77, da Lei Uniforme de Genebra; dos arts. 49 e 54 do Decreto 2.044/1908; e do art. 52, III, da Lei 11.101/2005, afirmando a impossibilidade de suspensão da execução.
+Sobre o tema, o pacífico entendimento desta Corte, em sintonia com o disposto na Súmula nº 735 do STF, segue no sentido de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela".
+Ainda que assim não fosse, o Tribunal de origem no julgamento do agravo de instrumento, apenas analisou os requisitos para a concessão da tutela do urgência, nos termos do art. 300, caput e § 3º, do CPC/2015, reconhecendo o preenchimento dos requisitos necessários para a manutenção da liminar de suspensão da execução. Confira-se:
+O exame dos requisitos para a concessão da tutela de urgência, nos termos do artigo 300, §3º, do Código de Processo Civil, é ato de livre convencimento do juiz da causa, cuja proximidade com a realidade fática da demanda lhe permite valorar os elementos, de modo a formar sua convicção.
+Assim, o Tribunal só pode reformar uma decisão antecipatória, quando estiver diante de manifesta ilegalidade, teratologia ou, ainda, quando demonstrado que foi proferida em manifesta contrariedade às provas dos autos, notadamente no que diz respeito à probabilidade do direito invocado, consoante disposto no Enunciado nº 59 da Súmula desta Corte.
+ ..
+A probabilidade do direito, no caso, é aferida pela existência de relevante controvérsia quanto à exigibilidade/liquidez dos títulos exequendos, tendo em vista os fatos apresentados na exceção de contrato não cumprido, inclusive cláusulas contratuais que preveem o fim específico da utilização dos ativos transacionados, em procedimento de dação em pagamento de débitos tributários.
+Vale registar que a matéria está sendo apreciada, ainda, no âmbito do juízo superficial da verossimilhança, cuja análise mais aprofundada será efetuada após a instrução do processo, por ocasião da formação do juízo de cognição exauriente.
+O perigo de dano e risco ao resultado útil do processo é manifesto ante a condição de recuperanda das sociedades empresárias executadas-fato maliciosamente omitido pelo exequente, que deixou de mencionar os vínculos das promissórias às pessoas jurídicas em questão - situação que, como um todo, aconselha, pelo menos até a apuração dos fatos, a preservação dos ativos das sociedades envolvidas, bem como a autonomia patrimonial dos sócios quanto às obrigações assumidas pela pessoa jurídica.
+Assim, presentes os pressupostos legais para a concessão da tutela provisória de urgência, ante a preenchimento dos pressupostos legais não merece reprimenda a R. Decisão que a deferiu  ..  (sem destaque no original).
+Dessa forma, rever as conclusões adotadas pelo Tribunal de origem quanto ao não preenchimento dos requisitos para a concessão da tutela antecipada, demandaria, necessariamente, o reexame do contrato e do conjunto fático-probatório dos autos, o que é vedado em razão da incidência das Súmulas 5 e 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. DECISÃO QUE CONCEDE OU NEGA A TUTELA ANTECIPADA. ÓBICE DA SÚMULA N. 735/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. EMBARGOS DE DECLARAÇÃO. PRETENSÃO DE PREQUESTIONAMENTO. AUSÊNCIA DE INTUITO PROTELATÓRIO. AFASTAMENTO DA MULTA.  ..
+3. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+4. A análise do preenchimento dos requisitos autorizadores da antecipação dos efeitos da tutela jurisdicional demanda a reapreciação do contexto fático-probatório dos autos, providência inviável em sede de recurso especial, ante o óbice da Súmula 7/STJ.  ..
+6. Agravo interno parcialmente provido para dar parcial provimento ao recurso especial. (AgInt no AREsp 1552259/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/09/2021, DJe 27/09/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. ANTECIPAÇÃO DE TUTELA. REQUISITOS DO ARTIGO 300 DO NCPC DEMONSTRADOS. MODIFICAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS Nº 735/STF E 7/STJ. AGRAVO DESPROVIDO. (AgInt no AREsp 1757264/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 19/04/2021, DJe 22/04/2021)
+Em face do exposto, nego provimento ao agravo.
+Depreende-se dos autos que o Tribunal de origem indeferiu o pedido de suspensão da tutela antecipada concedida pelo Juiz de primeira instância em virtude da "existência de relevante controvérsia quanto à exigibilidade/liquidez dos títulos exequendos, tendo em vista os fatos apresentados na exceção de contrato não cumprido, inclusive cláusulas contratuais que preveem o fim específico da utilização dos ativos transacionados, em procedimento de dação em pagamento de débitos tributários" (e-STJ, fl. 127).
+A jurisprudência deste STJ, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa.
+Com isso, não é possível a análise das violações dos arts. 17, 485, VI, 783, 784, § 1º, 921, todos do CPC/2015; dos arts. 905, 915, 916 e 917, todos do Código Civil; do art. 49 do Decreto 2.044/08; e dos arts. 17 e 75 da Lei Uniforme de Genebra, uma vez que se referem ao mérito da execução.
+Nesse sentido, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE DESFAZIMENTO CONTRATUAL C/C INDENIZATÓRIA. PEDIDO DE TUTELA ANTECIPADA. REQUISITOS. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. INOCORRÊNCIA. TEMPESTIVIDADE AFERIDA EM FATOS E PROVAS. REQUISITOS DA LIMINAR. REFORMA DO JULGADO. IMPOSSIBILIDADE DE ANÁLISE DA MEDIDA EM RECURSO ESPECIAL. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DESTA CORTE. INVIABILIDADE. APRECIAÇÃO DE QUESTÃO DE DECISÃO LIMINAR OU DE TUTELA ANTECIPADA. SÚMULA Nº 735 DO STF. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+3. O exame pormenorizado dos requisitos necessários à antecipação dos efeitos da tutela envolve inevitável revolvimento do conjunto fático-probatório dos autos, procedimento sabidamente inviável na instância especial, com respaldo na Súmula nº 7 do STJ.
+4. A teor do que dispõe a Súmula nº 735 do STF, não cabe recurso extraordinário contra acórdão que defere medida liminar. Desse modo, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela.
+5. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.698.885/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 21/2/2022, DJe 23/2/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. RECUPERAÇÃO JUDICIAL. CRÉDITOS. SUSPENSÃO. PREQUESTIONAMENTO. AUSÊNCIA. MEDIDA LIMINAR. SÚMULA N. 735/STF. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+ ..
+2. É "incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária" (AgRg no AREsp n. 504.073/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/5/2017, DJe 23/5/2017).
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1.925.233/ES, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 22/11/2021, DJe 26/11/2021)
+Quanto ao mais, não é possível o afastamento do óbice da Súmula 284 do STF em virtude da existência de alegação genérica de contrariedade ao art. 1.022 do CPC/2015.
+Assim, não trazendo a parte agravante nenhum fundamento capaz de desconstituir a decisão ora agravada, deve ela ser mantida por seus próprios fundamentos.
+Em face no exposto, nego provimento ao agravo interno.
+É como voto.
