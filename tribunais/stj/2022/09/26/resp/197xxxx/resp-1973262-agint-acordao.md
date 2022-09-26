@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por SILVIA REGINA BRAGAMONTE MORAIScontra decisão de minha lavra em que conheci, em parte, do recurso especial e, nessa extensão, neguei-lhe provimento, em razão da aplicação daSúmula7 do STJ e por não vislumbrar ausência de prestação jurisdicional no caso concreto(e-STJfls. 718/722).
+A agravante insiste na ofensa aos arts. 489 e 1.022 do CPC/2022 por entender que o Tribunal deixou de apreciar a equivocada distribuição da verba honorária e sua base de cálculo.
+No mérito, aduz que "a discussão devolvida a essa Eg. Corte não demanda revolvimento do conteúdo fático probatório, uma vez que se restringe ao reconhecimento de que os honorários devem ser calculados a partir do proveito econômico, nos termos do artigo 85, § 2º, do CPC. Ademais, busca-se, ainda, ver reconhecido o direito da parte à verba honorária diante do provimento econômico efetivamente havido" (e-STJ fl. 728).
+Sem impugnação (e-STJ fl. 735).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1.Não há violação dos arts. 489 e 1.022do CPC/2015quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+2. É assente o entendimento jurisprudencial de que não cabe a esta Corte Superior rever a conclusão adotada pelo Tribunal de origem, quanto ao princípio da causalidade e à distribuição da sucumbência, por implicar o revolvimento do contexto fático-probatório, medida inviável na instância especial à luz da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+VOTO
+Observo que a decisão combatida deve ser mantida.
+Cuidam os autos, naorigem, de embargos à execução apresentados pela FAZENDA NACIONAL,defendendo o excesso de execução, os quais foram julgados parcialmente procedentes para reduzir o valor exequendo. A verba honorária foi fixada em 10% da diferença entre o valor executado e o reconhecido na sentença, nos termos do art. 85, § 3º, I, do CPC/2015.
+Interposta apelação pela particular exequente em relação à distribuição da sucumbência, o Tribunal Regional Federal da 4ª Região negou-lhe provimento,como se depreende da ementa do acórdão (e-STJ fl. 650):
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO. EXCESSO DE EXECUÇÃO.
+OCORRÊNCIA. HONORÁRIOS SUCUMBENCIAIS. PRINCÍPIO DA CAUSALIDADE.
+1. Tendo a embargada dado causa ao ajuizamento dos embargos à execução, é ela quem deve suportar o pagamento dos honorários de sucumbência.
+2. Reconhecido excesso de execução, os honorários advocatícios de sucumbência devem ser sobre ele fixados, uma vez que o valor extirpado corresponde ao benefício econômico obtido pela propositura da presente ação incidental.
+3. Apelo improvido.
+Vejamos, no que interessa, os fundamentos adotados no voto condutor(e-STJ fls. 648/649):
+Nos termos do § 2º do art. 82 e da cabeça do art. 85 do CPC, o vencido será condenado a pagar ao vencedor as despesas que antecipou e honorários de advogado. É sucumbente a parte que deu causa à instauração de uma relação processual que resultou contra ela decidida.
+Neste caso, considerando a redução do quantum debeatur proposto pela recorrente, sucumbiu ela, o que impõe lhe sejam carregados os ônus respectivos.
+No que respeita ao valor dos honorários de advogado de sucumbência, quando a Fazenda Pública for parte, a base de cálculo da verba honorária será o valor da condenação ou do proveito econômico (§ 2º do art.85 do CPC), estabelecida certa gradação decrescente conforme o aumento do valor da causa (§ 3º do art. 85 do CPC).
+Embora não haja condenação neste caso, o proveito econômico está diretamente relacionado ao valor expurgado da execução. Sobre tal valor devem incidir os honorários de advogado de sucumbência, observado o percentual mínimo de cada faixa prevista no § 3º do art. 85 do CPC, pois não há excepcionalidades a justificar a majoração.
+Assim, o recurso não comporta provimento.
+Pois bem.
+Como registradono julgado ora combatido, quanto à alegadanegativa de prestação jurisdicional,é firme a orientação jurisprudencial desta Corte acerca da inexistência de violação dos arts. 489 e 1.022 do CPC/2015, quando o julgado, "apesar de rejeitar os embargos de declaração, enfrenta a matéria suscitada, emitindo pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente" (AgRg no AREsp 731.392/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 27/11/2015).
+A esse respeito: AgRg no REsp 1.254.212/RS, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 12/11/2015, e AgRg no AREsp 692.264/SP, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 16/06/2015.
+Na hipótese,o Tribunal de origem, provocadopelos embargos de declaração, longe de se omitir, emitiu pronunciamento acerca da omissão suscitada, destacando o específico trecho do julgado embargado em que as questõesreferentes ao princípio da causalidade e àdistribuição da sucumbênciaforamenfrentadas, de modo que descabe falar em afronta àqueles preceitos.
+No mais, rever a conclusão adotada no acórdão regional quanto ao princípio da causalidade ou à sucumbência recíproca implicao revolvimento do contexto fático-probatório, medida inviável na instância especial à luz da Súmula 7 deste Superior Tribunal.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. AUSÊNCIA DO DEVIDO COTEJO ANALÍTICO. DECISÃO DE ADMISSIBILIDADE DA CORTE DE ORIGEM NÃO VINCULA O STJ.
+1. A Corte a quo, após exame dos elementos fáticos contidos nos autos, consignou que a empresa recorrente deu causa à demanda, devendo arcar com o ônus da sucumbência, à luz do princípio da causalidade. Rever esse entendimento implica o reexame de matéria probatória. Precedentes.
+2. O indigitado dissídio pretoriano não foi comprovado nos moldes exigidos nos arts. 1.029, § 1º, do CPC/2015 (correspondente ao art.541, parágrafo único, do CPC/1973) e 255, § 1º, do Regimento Interno do STJ, uma vez que a parte recorrente apenas transcreveu a ementa do julgado que entendeu favorável à sua tese, sem realizar o necessário cotejo analítico entre a fundamentação contida no precedente invocado como paradigma e no aresto impugnado.
+3. O STJ possui o entendimento firmado no sentido de que "a decisão de admissibilidade proferida pelo Tribunal local ou ainda a certidão de tempestividade expedida por servidor na instância de origem Superior Tribunal de Justiça não vincula esta Corte Superior, na medida em que tal juízo está sujeito ao duplo controle, ou seja, aportados os autos neste Sodalício, é imprescindível nova análise dos pressupostos recursais" (EDcl no AgInt no REsp 1.702.212/ES, Rel. Min. Felix Fischer, DJe de 21/3/2018).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.738.802/ES, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 01/06/2021, DJe 14/06/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ANÁLISE DA CAUSALIDADE. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. ROGANDO VÊNIA AO RELATOR MINISTRO NAPOLEÃO NUNES MAIA FILHO, DOU PROVIMENTO AO AGRAVO INTERNO PARA, CONHECENDO DO AGRAVO EM RECURSO ESPECIAL, NÃO CONHECER DO RECURSO ESPECIAL. (AgInt nos EDcl no AREsp 1.111.580/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 17/11/2020, DJe 30/11/2020).
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. DOCUMENTOS FISCAIS OBRIGATÓRIOS.AUSÊNCIA. ARBITRAMENTO. GRAU DE SUCUMBÊNCIA. REVOLVIMENTO DE PROVAS. IMPOSSIBILIDADE.
+FUNDAMENTO IMPUGNAÇÃO. AUSÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado n. 3 do Plenário do STJ).
+2. Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+3. Não é possível, em sede de recurso especial, o reexame de matéria fático- probatória, o que enseja a incidência da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial." 4. A ausência de documentação que reflita, de maneira idônea, a realidade dos fatos, autoriza a autoridade fiscal a proceder à aferição indireta das contribuições sociais devidas, desde que observados os princípios da finalidade da lei, da razoabilidade, da proporcionalidade e da capacidade contribuinte, sendo certo, ainda, que a expedição de Ordens de Serviço a fim de regular o procedimento de arbitramento da base de cálculo, autorizada pela lei ordinária, não caracteriza ofensa ao princípio da legalidade tributária estrita (REsp 719.350/SC, Rel. Ministro Luiz Fux, Primeira Turma, DJe 21/02/2011).
+5. É assente, no Superior Tribunal de Justiça, o entendimento de que não cabe a esta Corte Superior de Justiça rever a conclusão adotada pelo Tribunal de origem, quanto ao princípio da causalidade ou à sucumbência recíproca, por implicar o revolvimento do contexto fático-probatório, inviável na instância especial à luz da Súmula 7 do STJ.
+6. Havendo fundamentos suficientes para a manutenção do aresto recorrido, não impugnados nas razões do especial, incide na espécie a Súmula 283 do STF, a qual dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles." 7. Agravo interno desprovido.
+(AgInt no AREsp 1.640.235/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 21/06/2021, DJe 29/06/2021).
+Conferir, ainda:AgInt no AREsp 1701020/DF, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 23/11/2020, DJe 27/11/2020;AgInt no AREsp 1.672.377/SP;rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 13/10/2020, DJe 28/10/2020;eAgInt no AREsp 1.660.923/SP, rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 26/10/2020, DJe 12/11/2020.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
