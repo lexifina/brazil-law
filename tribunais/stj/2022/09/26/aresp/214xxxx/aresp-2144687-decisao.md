@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AÇÃO REVISIONAL DE CONTRATO E DE CONDENAÇÃO À RESTITUIÇÃO EM DOBRO DE VALORES. Cédula de crédito bancário para aquisição de veículo automotor. Improcedência. Insurgência do autor. Juros remuneratórios. Taxa que não revela onerosidade excessiva. Limitação. Inaplicabilidade. Súmula 596 do STF. Capitalização de juros. Previsão contratual de sua incidência. Legalidade. Súmulas 539 e 541 do STJ. Tarifa de cadastro. Legitimidade da exigência. REsp repetitivos 1.251.331 e 1.255.573 e Súmula 566 do STJ. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Alegou-se, no especial, violação do artigo 6º, III, IV e VIII, do Código de Defesa do Consumidor, sob o argumento de que "não se nega, aqui,a impossibilidade da incidência de juros remuneratórios em financiamento de veículos, tampouco a legalidade da cobrança de tarifa de cadastro. Porém, é certo que, na forma com está disposta no contrato da parte recorrente, ou seja, acima da média de mercado, é ilícita  sic  as estipulações lançadas no instrumento contratual firmado entre as partes" (e-STJ, fl. 143).
+Assim delimitada a controvérsia, passo a decidir.
+Os dispositivos legais invocados pelo recorrente não têm, de início, força normativa para abarcar a tese suscitada nas razões do recurso especial.
+Não foram eles, além disso, objeto de debate pelo Tribunal de origem, o que lhes retira o necessário prequestionamento.
+Ressalte-se que a simples cobrança da taxa de juros acima da média de mercado não lhe atribui a pecha de abusiva, sendo necessária a demonstração de que a taxa contratada desgarra desarrazoadamente da média de mercado, a qual nem sequer foi consignada pelo acórdão local, que apenas afirmou ser a taxa contratada de 3,90% (três inteiros e noventa centésimos percentuais) ao mês.
+Inafastável, pois, a incidência dos verbetes n. 282, 284 e 356 da Súmula do Supremo Tribunal Federal e 7 do Superior Tribunal de Justiça.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
