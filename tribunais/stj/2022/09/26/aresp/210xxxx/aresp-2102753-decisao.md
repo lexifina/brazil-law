@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por EMERSON JOSÉ MARTINS DOS SANTOS contra a decisão que inadmitiu o recurso especial em razão da incidência das Súmulas n. 282 e 356 do STF.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Apelação Criminal n. 0034704-97.2021.8.21.7000) assim ementado (fl. 185):
+APELAÇÃO. CRIMES CONTRA O PATRIMÔNIO. APROPRIAÇÃO INDÉBITA.
+MATERIALIDADE E AUTORIA COMPROVADAS NAS PROVAS. ELEMENTO SUBJETIVO DO TIPO PENAL DEMONSTRADO. CONDENAÇÃO DO RÉU QUE SE MANTÉM.
+A configuração do crime de apropriação indébita exige o dolo (elemento subjetivo) de apropriar-se, o qual só é verificável em momento posterior ao recebimento lícito e legítimo da coisa.
+No caso em tela, não prevalece a afirmação de insuficiência de provas no que toca à configuração do crime de apropriação indébita, tendo em vista a prova revelou que o réu se apropriou da bicicleta da vítima Luís, que teria lhe emprestado o objeto, e passou a agir como se dono dela fosse a fim de obter vantagem ilícita em prejuízo alheio, o que releva o dolo (Animus rem sibi habendi) no agir do apelante.
+DOSIMETRIA DA PENA. MANUTENÇÃO.
+Mantido o apenamento aplicado ao acusado na sentença, pois evidenciado que está em sintonia com os critérios de necessidade e suficiência para a reprovação e prevenção do crime.
+RECURSO A QUE SE NEGA PROVIMENTO.
+Nas razões do recurso especial, o recorrente aponta dissídio jurisprudencial e violação do art. 59, caput, do Código Penal, argumentando que "o patamar utilizado para exasperar a pena-base aplicada não se encontra de acordo com a melhor técnica utilizada, estando, em verdade, muito além daquilo que o caso concreto indica" (fl. 208).
+Alega que, "embora o quantum de aumento constitua discricionariedade do julgador, tal afirmação não significa a inexistência de parâmetros e tampouco autoriza a plena liberdade do mesmo, especialmente porque a fundamentação das decisões configura direito imanente ao regime democrático de direito vigente, bem como assume contornos de cláusula pétrea, ao passo que não pode ser afastado pelo julgador e pressupõe, sempre, idônea e consistente argumentação para que seja a decisão admitida como hígida" (fl. 208).
+Defende que se deve"respeitar o aumento de 1/6 sobre a pena-base na apreciação das circunstâncias judiciais do artigo 59 do CP" (fl. 208).
+Requer o conhecimento e provimento do recurso.
+As contrarrazões foram apresentadas às fls. 216-219.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (fls. 258-266).
+É o relatório. Decido.
+O recurso não merece prosperar.
+Para a interposição de recurso especial fundado na alíneacdo permissivo constitucional, é necessário o atendimento dos requisitos essenciais à comprovação do dissídio, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Isso porque não basta a simples transcrição da ementa dos paradigmas indicados, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que publicados, deve a parte proceder ao devido confronto analítico com o acórdão recorrido, demonstrando a similitude fática entre os julgados, o que não foi observado no presente caso.
+Portanto, inviável o conhecimento do recurso quanto à divergência jurisprudencial.
+Acerca da questão arguida, verifica-se que referida matéria não foi objeto de análise pelo Tribunal de origem, já que não foi suscitada nas razões de apelação, de modo que não houve o indispensável prequestionamento. Caso, pois, de aplicação das Súmulas n. 282 e 356 do STF.
+Nos termos da reiterada jurisprudência do STJ, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate à luz da legislação federal indicada, com a imprescindível manifestação pelo tribunal de origem, que deverá emitir juízo de valor acerca dos dispositivos legais ao decidir por sua aplicação ou afastamento no caso concreto, o que não ocorreu na espécie.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E RESISTÊNCIA. OMISSÃO. RECURSO CABÍVEL. EMBARGOS DE DECLARAÇÃO. NÃO OPOSIÇÃO. INVIABILIDADE. VIOLAÇÃO DO ART. 619 DO CPP. INOCORRÊNCIA. DOSIMETRIA. QUANTIDADE DE DROGA . AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO REGIMENTAL DESPROVIDO.
+I - O recurso cabível para suscitar eventual ambiguidade, obscuridade, contradição, omissão ou erro material são os embargos de declaração, a teor do art. 619, do CPP e do art. 1022, inciso III, do CPC. Sendo assim, mostra-se inviável a apreciação de omissão da decisão agravada em sede de agravo regimental, como na hipótese vertente.
+II - Em verdade, com os aclaratórios opostos na origem, o recorrente pretendeu, como bem reconheceu a eg. Corte estadual, veicular mero inconformismo. A jurisprudência deste Superior Tribunal, entretanto, é firme no sentido que essa não é a via adequada para nova impugnação do mérito.
+III - Da análise do acórdão reprochado, verifica-se que a tese referente ao incremento da pena-base do delito de tráfico com fundamento na desconsideração da circunstância preponderante - natureza da droga -, não foi alvo de debate no Tribunal de origem.
+Desta feita, o recorrente não atuou de forma a viabilizar o conhecimento do recurso especial, acarretando a incidência dos óbices contidos nas das Súmulas 282 e 356 do Supremo Tribunal Federal Agravo regimental desprovido. (AgRg no AgRg no AREsp n. 2.063.560/GO, relator Ministro Jesuíno Rissato, Quinta Turma, julgado em 2/8/2022, DJe de 15/8/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. AUSÊNCIA DE PREQUESTIONAMENTO. PENA-BASE ACIMA DO MÍNIMO LEGAL. MAUS ANTECEDENTES E REINCIDÊNCIA. MEDIDA SOCIALMENTE NÃO RECOMENDÁVEL.
+1. O desrespeito ao disposto no art. 44, inciso III e § 3º, do Código Penal não foi objeto de análise do Tribunal de origem, pelo que carece a dita questão do devido prequestionamento. Incide, in casu, a vedação constante das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+2. De mais a mais, não prospera a ilegalidade arguida. Embora preenchido o requisito objetivo necessário à substituição da pena privativa de liberdade por restritivas de direitos, o benefício não se revela adequado à espécie, pois reconhecida circunstância judicial desfavorável, qual seja, os maus antecedentes (anterior condenação pelo delito de roubo), situação bastante a afastar o requisito subjetivo descrito no art. 44, III, do Código Penal.
+3. Além disso, o magistrado sentenciante considerou que a medida não era socialmente recomendável, diante da reincidência e dos maus antecedentes. Com efeito, "considerando que o réu não é reincidente específico, mas ostenta condenação anterior pela prática de crime grave e cometido com grave ameaça à pessoa (roubo), não se mostra socialmente recomendável a substituição da pena privativa de liberdade" (AgRg no HC n. 618.438/SC, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 23/10/2020).
+4. Agravo regimental desprovido. (AgRg no AREsp n. 1.949.332/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 22/3/2022, DJe de 25/3/2022.)
+Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
