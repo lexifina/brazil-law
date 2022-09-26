@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno, interposto por DELTA CONSTRUCOES S.A, contra decisão monocrática, de lavra deste signatário, acostada às fls. 572/576 (e-STJ), que negou provimento ao recurso especial.
+Consoante se depreende dos autos, o apelo nobre foi interposto pela agravante, com fundamento no art. 105, inc. III, alínea "a", da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Estado São Paulo, assim ementado (fl. 457, e-STJ):
+PRESCRIÇÃO - Cobrança de valores retidos a título de caução nas notas fiscais relativas a serviços de pintura prestados pela apelada - Hipótese em que não se aplica o prazo trienal previsto no art. 206, § 3º, IV, do Código Civil, pois não se trata enriquecimento sem causa - Prazo decenal art. 205 do Código Civil - Alegação de prescrição afastada Recurso improvido.
+CONTRATO - Prestação de serviços - Subempreitada - Pintura realizada na obra de expansão do terminal do aeroporto de Guarulhos - Hipótese em que a apelante não apontou qualquer vício ou defeito na obra - Direito da apelada à restituição dos valores retidos nas notas fiscais a título de caução - Recurso improvido.
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, a recorrente apontou ofensa aos artigos 206, § 3º, IV, do CC/02; 373, I, do CPC/15; 49 e 59 da Lei n.º 11.101/05.
+Sustentou, em síntese: (a) ocorrência de prescrição trienal; (b) o recorrido "não se desimcumbiu do ônus probatório quanto à comprovação do seu direito" (fl. 504, e-STJ); e (c) a natureza concursal do crédito, que deve, portanto,ser submetido ao plano de recuperação judicial.
+Contrarrazões (fls. 515/527, e-STJ).
+Em juízo prévio de admissibilidade, a Corte de origem negou o processamento do recurso especial, pelos seguintes fundamentos: (i) não houve demonstração das vulnerações legais suscitadas; e (ii) incidência da Súmula 7/STJ.
+Daí o agravo (art. 1042 do CPC/15).
+Contraminuta às fls. 550/562 (e-STJ).
+Por decisão monocrática (fls. 572/576, e-STJ), este signatário negou provimento ao recurso especial, sob o fundamento de incidência das Súmulas 7 e 83 do STJ, e 283 do STF.
+Na presente oportunidade, a insurgente, em suas razões de fls. 595/605 (e-STJ), repisa os fundamentos expostos no apelo nobre, e pretende o afastamento da incidência dos óbices aplicados na decisão ora agravada.
+Impugnação às fls. 611/614 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO HIPOTECÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA EXECUTADA.
+1. Nos termos do entendimento firmado pela Corte Especial (EREsp 1281594/SP), é decenal (artigo 205 do CC/02) o prazo de prescrição aplicável à pretensão fundada em responsabilidade civil contratual.
+2. Esta Corte possui o entendimento segundo o qual, a análise das razões quanto à inversão do ônus da prova, no sentido da aferição do êxito da parte em comprovar as suas alegações, vale dizer, se cumpriu ou não o ônus probatório que lhe competia, demandaria necessariamente o reexame do conjunto probatório dos autos, incidindo o óbice da Súmula 7/STJ.
+3. A ausência de impugnação a fundamento do acórdão recorrido atrai o óbice da Súmula 283/STF, aplicável por analogia. 3.1. Ademais, em demandas como a presente, cuja obrigação advém de fato preexistente à data de deferimento do pedido de recuperação judicial, deve a ação de conhecimento prosseguir perante o juízo na qual foi proposta, após o que, com a determinação do valor devido, deverá o respectivo crédito ser habilitado no quadro geral de credores da empresa em recuperação judicial, nos termos do art. 6º, § 1º, combinado com o art. 49, da Lei n. 11.101/2005. Incidência da Súmula 83/STJ (AgInt no AREsp 1357957/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/06/2019, DJe 28/06/2019).
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O presente recurso não merece prosperar.
+1. Na hipótese, a Corte de origem, ao negar provimento ao recurso de apelação da insurgente, adotou os seguintes fundamentos (fls. 458/459, e-STJ):
+Trata-se de ação de restituição de valores retidos pela apelante (5%), a título de caução, em notas fiscais de serviços de pintura prestados pela apelada em obra de expansão do terminal do aeroporto de Guarulhos.
+A r. sentença que julgou procedente a ação deve ser mantida.
+Em primeiro lugar, deve ser afastada a alegação da apelante de que a prescrição é trienal, nos termos do art. 206, § 3º, IV, do Código Civil, pois não há que se falar em enriquecimento sem causa.
+"In casu", aplica-se o prazo de dez anos que é a regra geral prevista no art. 205 do Código Civil.
+Assim, como o término do serviço ocorreu em 10/02/2012 e a ação foi proposta no dia 11/03/2016, não houve escoamento do prazo prescricional, mesmo com a suspensão ocorrida em virtude do deferimento do pedido de processamento da recuperação judicial da apelante.
+Ademais, a falta de apontamento de qualquer vício ou defeito na obra enseja a presunção de que este foi regularmente prestado.
+Portanto, restou evidente nos autos o direito da apelada à restituição dos valores retidos.
+Em relação à nota fiscal de nº 117 juntada às fls. 50, verifica-se que não foi retido tão somente o valor do ISS, como alega a apelante, mas também aquele relativo à garantia ora em questão.
+Ademais, inadmissível a habilitação de crédito que sequer foi constituído no Plano de Recuperação Judicial, pois estabelece o art. 49 da Lei nº 11.101/2 005 que "estão sujeitos a recuperação judicial todos os créditos existentes na data do pedido, ainda que não vencidos."
+Veja ainda, o seguinte excerto retirado do acórdão que julgou os embargos de declaração (fls. 493/494, e-STJ):
+"In casu", não houve contradição, mas evidente inconformismo da embargante em relação ao decidido no julgado no sentido de que é inadmissível a habilitação de crédito que sequer foi constituído no Plano de Recuperação Judicial.
+Ainda que se considerasse a data do término da prestação dos serviços como a da constituição do crédito, o pedido da embargante não poderia ter sido acolhido.
+Verifica-se, pelo existente nos autos, que a notificação da embargante para restituir os valores retidos ao embargado, ocorreu em fevereiro de 2016, ou seja, posteriormente ao pedido de recuperação judicial efetuado aos 04/06/2012 No tocante ao ajuizamento da ação, também não devem ser acolhidas as alegações da embargante.
+A ação foi proposta no dia 11/03/2016, também posteriormente ao indigitado pedido.
+Quanto à prescrição, a agravante alega que a devolução de valores pretendidos pela agravada configura "enriquecimento sem causa" (fl. 503, e-STJ), e, portanto, deve ser aplicado o prazo "de 3 (anos) previsto no art. 206, § 3º, inc. IV do Código Civil que a rigor teria início em 10.02.2012" (fl. 504, e-STJ).
+Convém colacionar, ainda, o trecho da r. sentença recorrida no ponto (fl. 410, e-STJ):
+Não há que se falar em prescrição. Conforme já decidiu o Superior Tribunal de Justiça, o prazo de prescrição para reparação civil contratual é de dez anos (EREsp 1.281.594-SP, Min. Rel. Benedito Gonçalves (voto vencido), Rel. p. Acórdão, Félix Fischer (voto vencedor) DJe. 17/05/2019).
+Aos fatos: é incontroverso que houve a celebração do contrato, bem como é incontroverso que a autora concluiu a obra em 10/02/2012. Por fim, também é incontestável que a ré reteve os pagamentos.
+A única controvérsia fática suscitada está no argumento da ré de que a autora não comprovou ter entregado a obra em boas condições.
+Dessa forma, reexaminar o entendimento da instância inferior, conforme busca o ora agravante, demandaria revolvimento de matéria fático-probatória, inadmissível no apelo especial, por óbice da Súmula 7/STJ.
+Soma-se a isso, a cognição sedimentada da Corte Especial deste Tribunal Superior, nos autos dos EREsp n. 1.281.594/SP (DJe de 23/5/2019), no qual se definiu ser decenal o prazo prescricional incidente sobre a pretensão reparatória fundada em responsabilidade civil contratual (AgInt nos EREsp 1854195/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 06/12/2021, DJe 09/12/2021).
+A propósito:
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. ENRIQUECIMENTO ILÍCITO FUNDADO EM DESCUMPRIMENTO DE CONTRATO. PRESCRIÇÃO DECENAL. CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE SUPERIOR. SÚMULA 83/STJ. RECURSO DESPROVIDO. 1. "A Segunda Seção do STJ, por ocasião do julgamento dos EREsp 1.280.825/RJ, estabeleceu o entendimento de que o prazo prescricional para as ações fundadas no inadimplemento contratual, incluindo o da reparação de perdas e danos, é de 10 anos"(AgInt no AREsp 1.277.430/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/03/2019, DJe de 15/03/2019). 2. A Corte de origem decidiu em consonância com o entendimento desta Corte Superior. Incidência da Súmula 83/STJ. 3.Agravo interno desprovido. (AgInt no AREsp 1858681/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/11/2021, DJe 02/12/2021)
+2. Outrossim, para acolhimento do apelo extremo, no sentido de que "não se desimcumbiu do ônus probatório quanto à comprovação do seu direito" (fl. 504, e-STJ), seria imprescindível derruir a afirmação contida no decisum atacado e o revolvimento das provas juntadas aos autos, o que, forçosamente, ensejaria rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. DIREITOS AUTORAIS. DUBLAGEM. EXIBIÇÃO. LONGA METRAGEM. AUSÊNCIA DE CRÉDITOS. DANO MORAL. CONFIGURAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. DOCUMENTO NOVO. FATO ANTIGO. PRECLUSÃO. (..) 4. Na hipótese, a partir da análise das provas constantes dos autos, cuja revisão esbarra no óbice da Súmula nº 7/STJ, o tribunal local concluiu pela existência do fato constitutivo do direito do autor e rechaçou a apresentação de documento novo por entender que se operou a preclusão. Inteligência do art. 435 do CPC/2015 (art. 396 do CPC/1973). Precedentes. 5. Agravo interno não provido. (AgInt no AREsp 1179893/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/10/2018, DJe 26/10/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DA ADSTRIÇÃO. ANÁLISE. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ. VALORAÇÃO INADEQUADA DAS PROVAS NA ORIGEM. VERIFICAÇÃO. ÓBICE SÚMULA 7/STJ. DISTRIBUIÇÃO DA SUCUMBÊNCIA. INVIABILIDADE DE ALTERAÇÃO DAS CONCLUSÕES ALCANÇADAS NA INSTÂNCIA A QUO. SÚMULA 7/STJ. (..) 4. Conforme jurisprudência do STJ, "não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1.665.411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/9/2017, DJe 13/9/2017). (..) 6. Agravo Interno não provido. (AgInt no AREsp 1234472/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/06/2018, DJe 13/06/2018)
+3. Por fim, quanto à apontada ofensa aos artigos49 e 59 da Lei n.º 11.101/05,com relação à fundamentação delineada pela Corte de origem acerca do fato de que o crédito sequer foi constituído, não houve impugnação nas razões do recurso especial.
+Desse modo, a subsistência de fundamentos inatacados aptos a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula 283/STF ("É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles").
+Ademais, em demandas como a presente, cuja obrigação advém de fato preexistente à data de deferimento do pedido de recuperação judicial, deve a ação de conhecimento prosseguir perante o juízo na qual foi proposta, após o que, com a determinação do valor devido, deverá o respectivo crédito ser habilitado no quadro geral de credores da empresa em recuperação judicial, nos termos do art. 6º, § 1º, combinado com o art. 49, da Lei n. 11.101/2005. Incidência da Súmula 83/STJ (AgInt no AREsp 1357957/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/06/2019, DJe 28/06/2019).
+De rigor, portanto, a manutenção da decisão ora agravada.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
