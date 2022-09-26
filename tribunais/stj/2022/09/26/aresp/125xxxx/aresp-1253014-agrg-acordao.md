@@ -1,0 +1,54 @@
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 89 DA LEI N. 8.666/1993. ALEGAÇÃO DE VIOLAÇÃO AO ART. 381, III, DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE DOLO ESPECÍFICO. INOVAÇÕES RECURSAIS.
+1. As teses declinadas neste agravo regimental, de que o acórdão, assim como a sentença, seria igualmente nulo, e de que os agravantes não agiram com dolo específico, constituem indevidas inovações recursais, uma vez que não foram tratadas no recurso especial, mas somente neste agravo regimental.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por VERCELI DE OLIVEIRA e MARCOS FERNANDES ZENE CARDOSO contra decisão de minha lavra que deu provimento parcial ao recurso especial para reduzir as penas aplicadas.
+Depreende-se dos autos que os agravantes foram condenados, em primeiro grau, como incursos no art. 89 da Lei n. 8.666/1993 e no art. 317, § 1º, do Código Penal, às respectivas penas de 4 anos, 10 meses e 15 dias de detenção e 3 anos de reclusão, no regime inicial semiaberto.
+O Tribunal de origem negou provimento aos recursos de apelação de ambas as partes e declarou extinta a punibilidade dos agravantes em relação ao crime descrito no art. 317 do Código Penal. O acórdão está assim ementado (e-STJ fl. 6.010):
+APELAÇÃO-CRIME. CRIMES LICITATÓRIOS E CORRUPÇÃO PASSIVA. RECURSOS DEFENSIVOS PARCIALMENTE PREJUDICADO. EXTINÇÃO DA PUNIBILIDADE DE MARCOS FERNANDES ZENE CARDOSO E VERCELI DE OLIVEIRA PELA PRESCRIÇÃO RETROATIVA OPERADA QUANTO AO ILÍCITO DE CORRUPÇÃO PASSIVA, ESTENDENDO-SE A MEDIDA AO NÃO -APELANTE JOSÉ ALVES DE ALMEIDA JÚNIOR. O CONTEXTO PROBATÓRIO COMPROVA QUE OS RÉUS TINHAM CIÊNCIA DO PROCEDIMENTO QUE DEVERIA SER ADOTADO PELA SECRETARIA MUNICIPAL DE SERVIÇOS URBANOS, NA QUAL OCUPAVAM OS CARGOS DE SECRETÁRIO E DIRETOR, NA AQUISIÇÃO DE MERCADORIAS. MESMO CIENTES DISSO, AS ADQUIRIAM FORMA ARBITRARIA, E SEM QUALQUER PLANEJAMENTO OU PROCEDIMENTO LICITATORIO, CAUSANDO PREJUÍZO AO ERÁRIO. AUTORIA E MATERIALIDADE DEMONSTRADAS SOMENTE EM RELAÇÃO AO DELITO DE DISPENSA DE LICITAÇÃO. QUANTO AOS DEMAIS ILÍCITOS, A RESPONSABILIDADE NÃO PODE RECAIR SOBRE OS RÉUS, VISTO QUE AS CONTRATAÇÕES, PAGAMENTOS E EXECUÇÃO DOS CONTRATOS ERAM REALIZADOS POR OUTRO DEPARTAMENTO. APELO MINISTERIAL DESPROVIDO. RECURSOS DEFENSIVOS PARCIALMENTE PREJUDICADOS, DIANTE DO RECONHECIMENTO DA PRESCRIÇÃO QUANTO AO ILÍCITO DE CORRUPÇÃO PASSIVA, E, NO RESTANTE, IMPROVIDOS.
+Os embargos de declaração opostos, na sequência, pela defesa foram parcialmente acolhidos (e-STJ fls. 6.106/6.116).
+Foi então interposto o recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, no qual se alegou a violação aos arts. 21, 59 e 71 do Código Penal; ao art. 381, III, do Código de Processo Penal; e ao art. 89 da Lei n. 8.666/1993.
+Aduziu a defesa que teria sido "claramente violado o art. 381, III, do CPP, que é objeto do presente Recurso Especial, pois a sentença penal condenatória, apesar de extensa, não se desincumbiu do dever de fundamentação, sendo inválida a transcrição das conclusões da esfera civil para lastrear um decreto condenatório" (e- STJ fl. 6.125).
+Asseverou a violação ao art. 89 da Lei n. 8.666/1993, ao argumento de que "todos os elementos de prova demonstram que a escolha dos fornecedores de materiais e bens de consumo para uso das mais diversas atribuições da Secretaria Municipal de Serviços Urbanos não decorreu de escolha dos ora manifestantes" (e-STJ fl. 6.135). Acrescentou que não houve dano ao erário.
+Com relação à fixação da pena-base, afirmou que "os motivos e as consequências do crime, considerados negativamente pela sentença hostilizada, nenhuma peculiaridade apresentam no caso concreto, não havendo justificativa plausível para a elevação da pena-base, a qual deve ser mantida no mínimo legal" (e- STJ fl. 6.127). Insurgiu-se, também, contra a exasperação da pena na terceira fase, em razão da continuidade delitiva.
+Contrarrazões às e-STJ fls. 6.152/6.164.
+O MPF manifestou-se pelo desprovimento do recurso (e-STJ fls. 6.224/6.227).
+Alega a defesa, no presente agravo regimental, que houve dupla violação ao art. 381, III, do Código de Processo Penal, pois tanto a sentença como o acórdão valeram-se da fundamentação contida na sentença que apreciou ação civil pública.
+Além disso, insiste ter sido malferido o art. 89 da Lei n. 8.666/1993, por não ter agido o agravante com o dolo específico e por não ter havido dano ao erário.
+É, em síntese, o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Ao enfrentar a alegação de violação ao art. 381, III, do Código de Processo Penal, repeli a tese da defesa invocando os seguintes fundamentos (e-STJ fl. 6.231):
+O acórdão recorrido, ao manter a sentença, além de incorporar parte de sua fundamentação, fez uma pormenorizada análise da prova testemunhal produzida. Além disso, foram também examinados dados colhidos na ação civil pública movida contra os agravantes, e o parecer do Tribunal de Contas favorável à aprovação das contas apresentadas.
+Vale ressaltar que, a despeito de o acórdão ter enfrentado as teses defensivas ao apreciar o recurso de apelação, a defesa insiste no vício da sentença, a qual, a toda evidência, foi substituída pelo acórdão vergastado.
+Assim, não há que se falar em nulidade do ato decisório que manteve a sentença.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. RECURSO ESPECIAL. PECULATO. ALEGAÇÃO DE NULIDADE DA SENTENÇA CONDENATÓRIA. SUPOSTA INOBSERVÂNCIA DOS REQUISITOS LEGAIS DO ART. 381 DO CPP. NÃO-CARACTERIZAÇÃO. DISSÍDIO JURISPRUDENCIAL NÃO REALIZADO. DOSIMETRIA DA PENA. ART. 59 DO CP. FUNDAMENTAÇÃO SUFICIENTE.
+I - Nos termos do artigo 255 do RISTJ, para a demonstração de similitude fática entre a hipótese dos autos e o v. acórdão apontado como paradigma, deve haver o devido cotejo analítico, não sendo suficiente a mera transcrição de ementas. (Precedentes).
+II - Não merece reparo o reprochado acórdão no ponto em que confirmou a validade da sentença condenatória tendo em vista a ausência de alegações concretas que evidenciem sua nulidade. Portanto, a mera afirmação de sua insubsistência destituída de qualquer fundamentação plausível não autoriza sua anulação.
+(..) Recurso especial desprovido.
+(REsp n. 946.982/RO, relator Ministro Felix Fischer, Quinta Turma, julgado em 7/8/2008, DJe de 10/11/2008.)
+Portanto, vê-se que, enquanto, no recurso especial, a defesa se insurgiu exclusivamente contra a sentença, no presente agravo regimental, amplia-se o espectro de alegação para se impugnar também o acórdão recorrido, consistindo, a toda evidência, indevida inovação recursal, o que não se admite:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HABEAS CORPUS IMPETRADO CONTRA DECISÃO MONOCRÁTICA. AGRAVO INTERNO PENDENTE DE JULGAMENTO. AUSÊNCIA DE EXAURIMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INDEFERIMENTO LIMINAR DO WRIT. INOVAÇÃO RECURSAL. NÃO CABIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO
+ ..
+2. Configura inadmissível inovação recursal a apresentação de tese jurídica somente por ocasião do agravo regimental.
+3. É acertada a decisão da Presidência do STJ, que indeferiu liminarmente o habeas corpus, uma vez que a defesa se insurge contra decisão monocrática proferida por juiz federal convocado para atuar em segundo grau. Embora a parte haja interposto agravo interno contra o decisum, o recurso está pendente de análise pelo órgão colegiado. Não houve, portanto, o exaurimento das instâncias ordinárias, a autorizar a impetração de ordem perante esta Corte Superior. Ademais, não é cabível examinar eventual excesso de prazo para o julgamento do agravo interno, por se tratar de tema trazido apenas por ocasião deste regimental.
+4. Agravo regimental não provido. (AgRg no HC n. 757.253/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/8/2022, DJe de 23/8/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. PRISÃO PREVENTIVA REVOGADA NA SENTENÇA E RESTABELECIDA NO ACÓRDÃO QUE JULGOU A APELAÇÃO MINISTERIAL. GRAVIDADE CONCRETA DA CONDUTA E RISCO EFETIVO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NA HIPÓTESE. SUPOSTO SUSTENTO DOS FAMILIARES PELO ACUSADO. INOVAÇÃO RECURSAL E SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+5. A alegação de que o Agravante é o responsável pelo sustento de seus familiares, além de configurar inovação recursal, não foi debatida no aresto impugnado, o que impede a apreciação dessa questão originariamente por esta Corte Superior, sob pena de indevida supressão de instância.
+6. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido. (AgRg no HC n. 752.857/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. ABSOLVIÇÃO DO TRÁFICO DE DROGAS. IMPOSSIBILIDADE. REVOLVIMENTO DE PROVAS. AUSÊNCIA DE PROVAS SUFICIENTES DA ASSOCIAÇÃO. PRESUNÇÃO DE ESTABILIDADE E PERMANÊNCIA. IMPOSSIBILIDADE. INEXISTÊNCIA DE DEMONSTRAÇÃO CONCRETA DO VÍNCULO E ESTABILIDADE. ABSOLVIÇÃO QUE SE IMPÕE. APLICAÇÃO DA MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI DE DROGAS. INOVAÇÃO RECURSAL.
+ ..
+5. O pleito de aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 foi trazido somente por ocasião do agravo regimental. Dessa forma, por constituir essa matéria inovação recursal, não se pode dela conhecer.
+6. Agravo regimental parcialmente conhecido e, nessa extensão, parcialmente provido para absolver o agravante tão somente do crime de associação para o tráfico de drogas, estendendo-se os efeitos do julgado ao corréu JOÃO PAULO DE CARVALHO GARCIA. (AgRg no HC n. 703.836/SP, de minha relatoria, Sexta Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+De igual modo, a afirmação de que os agravantes agiram destituídos de dolo específico também constituí inovação recursal, uma vez que, nas razões do recurso especial, limitou-se a defesa a afirmar que eles não seriam os responsáveis pelas contratações e que não teria havido dano.
+Com relação à essa última tese, decidi que o Tribunal de origem concluiu, diversamente, que haveria. Assim, rever essa conclusão implicaria o vedado reexame de provas (Súmula n. 7/STJ).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
