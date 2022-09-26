@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Rosângela da Motta Freirecontra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 661):
+RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE COMPRA E VENDA. ALIENAÇÃO FIDUCIÁRIA. 1. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 2.DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 3. RECURSO NÃO CONHECIDO.
+Em suas razões, a agravante pretende a reforma da decisão agravada. Para tal, disserta sobre a falta de fundamentação (art. 489, § 1º, I a IV, do CPC/2015 e 93, IX, da CF/1988), além de afirmar que não descumpriu nenhum requisito de admissibilidade, tanto que o recurso especial foi admitido pela Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro.
+Dessa maneira, entende que, levando em consideração os princípios da inafastabilidade, da primazia do julgamento de mérito, do direito à tutela jurisdicional efetiva e do princípio do colegiado, devem ser oportunizadas à agravante as causas do não conhecimento do apelo especial.
+Sustenta ainda ainaplicabilidade da Súmula 283/STF, porquanto os fundamentos do acórdão foram objeto de impugnação específica, motivo pelo qual requer o conhecimento do recurso especial.
+Ao final, pleiteia pela reconsideração do decisum para modificar a sentença de primeiro grau para o fim de revisar os débitos e, assim, alongar o prazo de liquidação dos financiamentos, bem comoque esses débitos estejam dentro do limite de 30% dos rendimentos auferidos pela recorrente.
+Impugnação apresentada às fls. 689-698 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO DE COMPRA E VENDA. ALIENAÇÃO FIDUCIÁRIA.1. FALTA DE FUNDAMENTAÇÃO NÃO EVIDENCIADA. 2.DECISÃO DE ADMISSIBILIDADE DA CORTE DE ORIGEM NÃOVINCULA O SUPERIOR TRIBUNAL DE JUSTIÇA.3.PRINCÍPIOS DA INAFASTABILIDADE, DA PRIMAZIA DA RESOLUÇÃO DO MÉRITO E DA TUTELA JURISDICIONAL EFETIVA.INAPLICABILIDADE.4. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 5.DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 6. AGRAVO INTERNO DESPROVIDO.
+1. Não há falar em violação ao art. 489 do CPC/2015. O simples inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2.O juízo de admissibilidade do recurso especial feito pelo Tribunal de origem é provisório, sujeito a controle bifásico e não vincula esta Corte Superior, que tem competência plena para exercer o juízo definitivo de admissibilidade do recurso.
+3. Ademais, não cabe falar em aplicação, entre outros, do princípio da primazia da resolução do mérito, a fim de sobrepujar a não observância dos requisitos de admissibilidade recursal, sobretudo quando se tratar de defeito grave e insanável.
+4. Considerando que os fundamentos do acórdão recorrido, de fato, não foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+5. A ausência de impugnação a fundamentoconstantedo acórdãoestadualimpedeo conhecimento recursal por ambas as alíneas do permissivo constitucional. Precedente.
+6. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento.
+De início, não háfalar em negativa de vigência ao art. 489 do CPC/2015. Isso porqueadecisão agravada foi enfática emaplicar, no tocante ao tema, o óbice sumular, de forma clara e fundamentada.
+Nesse contexto, o Superior Tribunal de Justiça já assentou que "a fundamentação sucinta, mas suficiente, não pode ser confundida com ausência de motivação" (AgInt no AgInt no AREsp 1.647.183/GO, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 26/4/2021, DJe 28/4/2021).
+Ademais, segundo o entendimento jurisprudencial desta Corte, "a decisão de admissibilidade oriunda do Tribunal local não vincula o STJ, tendo em vista que o juízo de admissibilidade do recurso especial está submetido a duplo controle, cabendo a esta Corte nova apreciação dos pressupostos do recurso a ela remetido" (AgInt no REsp 1.629.962/AM, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 18/5/2020, DJe 25/5/2020).
+Além disso, não cabe falar em aplicação dos princípios da inafastabilidade, da primazia do julgamento de mérito e do direito à tutela jurisdicional efetivada, a fim de sobrepujar a não observância dos requisitos de admissibilidade recursal, sobretudo quando se tratar de defeito grave e insanável.
+Ilustrativamente:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE USUCAPIÃO. VÍCIO INSANÁVEL.IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA PRIMAZIA DO JULGAMENTO DO MÉRITO. PRECEDENTES. PRAZO REDUZIDO DO ART. 1.238 DO CC/02. FALTA DE PREQUESTIONAMENTO. REQUISITOS NÃO ANALISADOS PELO TRIBUNAL ESTADUAL. ARTIGO SEM CONTEÚDO NORMATIVO. SÚMULAS NºS 282 E 284 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Consoante orientação desta Corte, em se tratando de vício insanável, não há que se falar em aplicação do princípio da primazia de julgamento de mérito. Precedentes.
+ ..
+6. Agravo interno não provido. (AgInt nos EDcl no REsp 1.683.623/MG, Rel.Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 11/5/2021, DJe 13/5/2021)
+Em que pese às alegações deduzidas pela agravante, conforme devidamente esclarecido na decisão de fls. 661-665 (e-STJ), observa-se, na hipótese, que o acórdão recorrido decidiu pela manutenção da decisão unipessoal, com base nos seguintes fundamentos (e-STJ, fls. 406-411,sem grifos no original):
+A celeuma envolve a análise da viabilidade da revisão de contrato de financiamento imobiliário, seja através do expurgo de parcelas que se reputam abusivas (CET e PES), seja em função de fato superveniente (doença e falecimento do esposo da autora), além da limitação da parcela a 30% dos rendimentos líquidos da demandante.
+(..)
+O demonstrativo de evolução de débito bem ilustra que o financiamento em questão não está atrelado ao Sistema Financeiro de Habitação, mas ao Sistema Financeiro Imobiliário, pois contempla a alienação fiduciária imobiliária, na forma da Lei nº 9.514/97.
+Logo, não subsiste a aplicação do Plano de Equivalência Salarial (PES) instituído pelo Decreto-Lei nº 2.164/84 como ferramenta para o reajuste das prestações de contratos firmados no âmbito do SFH.
+Art. 9º As prestações mensais dos contratos de financiamento firmados no âmbito do SFH, vinculados ao Plano de Equivalência Salarial por Categoria Profissional (PES/CP) serão reajustadas no mês seguinte ao em que ocorrer a data-base da categoria profissional do mutuário utilizando-se a variação do Índice de Preços ao Consumidor (IPC) apurada nas respectivas datas-base. (Redação dada pela Lei nº 8.004, de 1990)
+(..)
+Outrossim, não se justifica a revisão do contrato com a consequente redução do valor da prestação em função da alegação de fato superveniente traduzido na redução de renda diante do falecimento do esposo da demandante.
+Isso porque, a uma, não se comprova a abusividade na incidência dos encargos contratuais; a duas, não aplica ao caso o Decreto-Lei nº 2.164/84 (art. 9º, §§5º e 6º), pois o contrato não foi firmado no âmbito do SFH e, por isso, está submetido a menor dirigismo; a três, a revisão contratual (art. 6º, V do CDC e 478 do CC) requer fato imprevisível ou extraordinário, que realmente tornasse excessivamente oneroso o contrato, o que não se confunde com a hipótese de desemprego ou redução de renda; e a quatro, porque a renda da autora certamente não se resume aos dois salários mínimos pagos a título de pensão por morte (fls. 34 - index 28), pois possui renda própria como empresária.
+Por fim, registre-se que também é descabida a pretensão de limitação do valor da prestação a 30% dos ganhos líquidos da demandante,na medida em que, como frisado, não se restringem ao benefício previdenciário, motivo pelo qual não incide a limitação prevista no Decreto nº 8.690/2016.
+De fato, atentando-se aos argumentos trazidos pela insurgente e aos fundamentos (acima destacados) adotados pela Corte estadual, verifica-se que estes não foram objeto de impugnação específica nas razões do recurso especial. Assim, a manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Insta registrar que, consoante iterativa jurisprudência desta Corte Superior, a falta de prequestionamento impede o conhecimento do recurso lastreado, também, na alíneacdo permissivo constitucional.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. A ausência de enfrentamento, pelo Tribunal de origem, da tese de que o dano moral seriain re ipsaimpede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 282 e 356 do STF, aplicável por analogia.
+4. Os óbices das Súmulas 282/STF e 283/STF aplicam-se indistintamente aos recursos especiais apresentados com fundamento na alínea "a" e na alínea "c" do permissivo constitucional, restando prejudicada a análise do dissídio jurisprudencial alegado.
+5. Agravo interno desprovido.(AgInt no REsp 1.970.022/SP, Rel. MinistroMARCO BUZZI, QUARTA TURMA, julgado em 2/5/2022, DJe 6/5/2022 - sem grifo no original)
+Desse modo, tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
