@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Sul América Companhia deSeguroSaúdecontra decisão monocrática desta relatoria, proferida nos seguintes termos (e-STJ, fls. 250-254):
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS DE SUCUMBÊNCIA. BASE DE CÁLCULO. VALOR DOS DANOS MORAIS MAIS O MONTANTE ECONÔMICO DO CUSTEIO DAS DESPESAS MÉDICAS REALIZADAS. PRECEDENTES DO STJ. RECURSO ESPECIAL PROVIDO.
+Nas razões recursais, a agravante alega que o cerne da controvérsiaensejaria o reexame do conjunto fático-probatório, bem como análise de cláusulas contratuais, de modo a incidir as Súmulas 5 e 7/STJ, motivo pelo qual esta Corte Superior não poderia ter analisado o mérito recursal.
+Sendo assim, requer a reconsideração da decisão agravada.
+Foram apresentadas contrarrazões (e-STJ, fls. 267-278).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS DE SUCUMBÊNCIA. BASE DE CÁLCULO. VALOR DOS DANOS MORAIS MAIS O MONTANTE ECONÔMICO DO CUSTEIO DAS DESPESAS MÉDICAS REALIZADAS. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 7/STJ AFASTADA. DESNECESSIDADE DE REVISÃO DE FATOS E PROVAS. AGRAVO INTERNO DESPROVIDO.
+1.A jurisprudência do Superior Tribunal de Justiça "manifesta-se no sentido de que a condenação na obrigação de fazer ostenta benefício econômico, que se consubstancia no valor da cobertura indevidamente negada, e, portanto, deve ser incluída na base de cálculo da verba honorária fixada em percentual sobre a condenação" (AgInt no REsp n. 1.949.138/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022).
+2.Ademanda ostenta caráter condenatório, tendo a operadora de plano de saúde sido condenada à obrigação de custeio do tratamento médico e à reparação de danos morais, de modo que os honorários sucumbenciais devem ser fixados sobre o total da condenação. Desnecessidade de reexame de fatos e provas. Óbice da Súmula 7/STJ afastado.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+No apelo especial, a controvérsia residia em analisar a base de cálculo a ser utilizadano arbitramento dos honorários sucumbenciais, sustentando as ora agravadas que deveria ser observado o proveito econômico obtido, incluída nesse montante a obrigação de fazer à qual foi condenada a empresa de saúde.
+O Tribunal de origem, ao dirimir a questão, assim fundamentou (e-STJ, fls. 19-195):
+No mérito, consta dos autos que, por força de decisão judicial transitada em julgado, a ré está obrigada a: (i) custear integralmente os tratamentos de quetaminaterapia e eletroconvulsoterapia da autora, (ii) pagar indenização no valor de R$ 12.780,00 (doze mil e setecentos e oitenta reais), (iii) reembolsar, nos limites previstos em contrato, os honorários médicos de R$ 500,00 (quinhentos reais) e (iv) arcar com as custas, despesas processuais e honorários advocatícios arbitrados em 20% do valor da condenação.
+Diante disso, as exequentes deram início à fase de cumprimento de sentença, tendo a executada apresentado impugnação, defendendo que os honorários advocatícios não devem ser calculados sobre o valor dos tratamentos, já que a condenação a esse título representa uma obrigação de fazer, sem cunho pecuniário.
+Com efeito, não há dúvidas de que o "custeio integral dos tratamentos de quetaminaterapia e eletroconvulsoterapia (ECT)" corresponde a uma condenação em obrigação de fazer, e não de pagar quantia certa.
+Não se nega a existência de proveito econômico da exequente decorrente da obrigação de fazer imposta em face da executada.
+Ocorre que, para que os honorários advocatícios fossem calculados sobre o proveito econômico propriamente dito, o título executivo deveria ser expresso neste sentido, qual não é o caso.
+Ao determinar que os honorários sejam fixados sobre o valor da condenação ou do proveito econômico obtido, o artigo 85, §2º do Código de Processo Civil deixa clara a diferença entre eles. Ou seja, em que pese o respeito pelo entendimento do douto magistradoa quo, e ao contrário do que alegam as exequentes, o valor da condenação não corresponde ao proveito econômico.
+E, tendo em vista que, no presente caso, os honorários advocatícios foram fixados com base no valor da condenação, não há que se exigir da executada o pagamento com base no valor do proveito econômico.
+(..)
+Neste sentido, os honorários advocatícios devem incidir apenas sobre a parte líquida da condenação, qual seja, o valor de R$ 12.780,00 (doze mil e setecentos e oitenta reais) referente à indenização.
+Apenas tal obrigação é de pagar quantia certa.
+Desta forma, a sentença deve ser reformada, para que a impugnação ao cumprimento de sentença seja acolhida, determinando-se o cálculo dos honorários advocatícios sobre o valor da condenação a título de indenização: R$ 12.780,00 (doze mil e setecentos e oitenta reais), acrescidos de correção monetária desde a data do desembolso e de juros de mora a contar da citação.
+Entretanto, a solução adotada pelo Tribunal de origem não está ajustada ao entendimento da jurisprudência do Superior Tribunal de Justiça referente à matéria, motivo pelo qual o aresto recorrido mereciareforma.
+Com efeito, as Turmas que integram a Segunda Seção desta Corte já firmaram entendimento, em casos análogos, no sentido de que a condenação à obrigação de fazer ostenta benefício econômico, o qual se consubstancia no valor da cobertura indevidamente negada, e, portanto, deve ser incluídona base de cálculo da verba honorária fixada em percentual sobre a condenação.
+Confiram-se, a propósito, os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE TRATAMENTO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO COM BASE NO VALOR DA CONDENAÇÃO (CPC, ART. 85, § 2º). AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do STJ manifesta-se no sentido de que a condenação na obrigação de fazer ostenta benefício econômico, que se consubstancia no valor da cobertura indevidamente negada, e, portanto, deve ser incluída na base de cálculo da verba honorária fixada em percentual sobre a condenação.
+2. Na espécie, a demanda ostenta caráter condenatório, pois a operadora de plano de saúde foi condenada ao custeio do procedimento médico e ao pagamento de compensação por danos morais. Dessa forma, os honorários advocatícios sucumbenciais devem ser fixados sobre o valor total da condenação, consoante a regra do art. 85, § 2º, do CPC/2015.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.949.138/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA CALCULADOS SOBRE O VALOR DA CONDENAÇÃO.
+BASE DE CÁLCULO. OBRIGAÇÃO DE FAZER E DE PAGAR. AGRAVO NÃO PROVIDO.
+1. Nas lides em que se discute a extensão da cobertura assistencial por parte dos planos de saúde, a obrigação de fazer determinada na sentença possui natureza condenatória e pode ser economicamente aferida, por meio do valor da cobertura indevidamente negada.
+2.A decisão judicial transitada em julgado com a procedência dos pedidos de cumprimento da obrigação de fazer (fornecimento de cobertura de procedimento médico-hospitalar) e da obrigação de pagar quantia certa (compensação por danos morais) deve ter a sucumbência calculada sobre ambas as condenações impostas à operadora de plano de saúde.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1896523/CE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 03/05/2021, DJe 11/05/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. FIXAÇÃO COM BASE NO VALOR DA CONDENAÇÃO. ORDEM DE PREFERÊNCIA DA BASE DE CÁLCULO OBEDECIDA PELA DECISÃO AGRAVADA, CONFORME ART. 85, § 2º DO CPC/2015, E, RESP 1.746.072/PR. PROVEITO ECONÔMICO QUE ENGLOBA A INDENIZAÇÃO POR DANOS MORAIS E OS CUSTOS DO PROCEDIMENTO MÉDICO. ADEQUAÇÃO DA DECISÃO AGRAVADA.
+1. Nos termos da jurisprudência firmada na Segunda Seção do Superior Tribunal de Justiça, os honorários devem ser fixados segundo a "seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)". (REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/2/2019, DJe 29/3/2019)
+2.Esta Corte de Justiça tem entendimento no sentido de que "O título judicial que transita em julgado com a procedência dos pedidos de natureza cominatória (fornecer a cobertura pleiteada) e de pagar quantia certa (valor arbitrado na compensação dos danos morais) deve ter a sucumbência calculada sobre ambas condenações. Nessas hipóteses, o montante econômico da obrigação de fazer se expressa pelo valor da cobertura indevidamente negada" (REsp 1738737/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 08/10/2019, DJe 11/10/2019)
+3. Agravo interno não provido.
+(AgInt no REsp 1891571/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 29/03/2021, DJe 06/04/2021)
+Por conseguinte, a demanda ostenta caráter condenatório, tendo a operadora de plano de saúde sido condenada à obrigação de custeio do tratamento médico e à reparação de danos morais, de modo que os honorários sucumbenciais devem ser fixados sobre o total da condenação.
+Ademais, para a análise da referida tese, não fora necessário o reexame do conjunto fático-probatório, de forma que era possível extrair do acórdão toda a controvérsia recursal. Assim, não há falar em incidência das Súmulas 5 e 7/STJ.
+Desse modo, tendo em vista que as alegações feitas no agravo interno não são capazes de alterar o convencimento manifestado no aresto impugnado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
