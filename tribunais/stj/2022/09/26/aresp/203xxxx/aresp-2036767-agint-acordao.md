@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão monocrática (fls. 792-794, e-STJ) que conheceu do Agravo e não conheceu do Recurso Especial.
+A parte agravante alega:
+Todavia, a despeito de os referidos DOIS PONTOS FUNDAMENTAIS DA DEFESA DA PARTE EXEQUENTE terem sido agitados na APELAÇÃO e reiterados nos EMBARGOS DE DECLARAÇÃO, a Corte Local não deliberou sobre o art. 1º da Lei n. 8.393/91, tampouco sobre os fundamentos aduzidos para a redução da verba sucumbencial (argumento de que o Executado alterou as planilhas de cálculo no curso da incidental), o que demonstra que a prestação jurisdicional foi prestada de forma INCOMPLETA.
+(..)
+Portanto, na medida em que a Corte Local acolheu a aplicação da UFIR como indexador de salários, acabou por enfrentar a matéria de que trata o art. 1º, da Lei n. 8.393/91, satisfazendo o PREQUESTIONAMENTO IMPLÍCITO.
+(..)
+Ou seja, a redução do "quantum" decorreu da alteração dos elementos de cálculo promovida pela parte Executada no curso da incidental, de forma que a parte exequente não poderia ter sido condenada em honorários sucumbenciais sobre um excesso a que não deu causa.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. ART. 1º DA LEI 8.393/1991. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. VIOLAÇÃO AO ART. 1.022 DO CPC NÃO CONFIGURADA. HONORÁRIOS DE SUCUMBÊNCIA. SÚMULA 7/STJ.
+1. Observa-se que o Tribunal a quo não emitiu juízo de valor sobre a suposta violação ao art. 1º da lei 8.393/1991, da forma como a parte recorrente expõe nas razões do seu Recurso Especial. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando as supostas violações não foram apreciadas pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. A parte recorrente sustenta que o art. 1.022 do CPC/2015 foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito, o que atrai a incidência da Súmula 284/STF.
+3. Qualquer juízo sobre a adequada aplicação, pelo acórdão recorrido, dos critérios utilizados para determinação dos honorários sucumbenciais, impõe exame dos fatos e da prova dos autos, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 17.8.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+O Tribunal de origem decidiu conforme a seguinte ementa:
+ADMINISTRATIVO. CORREÇÃO MONETÁRIA. TEMA 810.
+Com relação aos juros moratórios e correção monetária de débitos não tributários incidentes sobre as condenações judiciais impostas à Fazenda Pública, segundo critérios previstos no art. 1º- F da Lei nº 9.497/97, com redação conferida pela Lei nº 11.960/09, o STF, apreciando o tema 810 da Repercussão Geral (RE 870.947), fixou as seguintes teses: a) quanto às condenações oriundas de relação jurídica não-tributária, a fixação dos juros moratórios segundo o índice de remuneração da caderneta de poupança é constitucional, permanecendo hígido, nesta extensão, o disposto no art. 1º-F da Lei nº 9.494/97 com a redação dada pela Lei nº 11.960/09; e b) O art. 1º-F da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança, revela-se inconstitucional ao impor restrição desproporcional ao direito de propriedade (CRFB, art. 5º, XXII), uma vez que não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os  ns a que se destina.
+Dessa forma, descabe a aplicação da TR como índice de atualização monetária sobre as condenações judiciais da Fazenda Pública, determinando-se a incidência do IPCA-E, por ser o índice que melhor reflete a inflação acumulada no período.
+Inicialmente, observo que o Tribunal a quo não emitiu juízo de valor sobre a suposta violação ao art. 1º da Lei 8.393/1991, da forma como a parte recorrente expõe nas razões do seu Recurso Especial.
+O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando as supostas violações não foram apreciadas pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+Ademais, conforme decisão agravada, a parte recorrente sustenta que o art. 1.022 do CPC/2015 foi violado, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o julgamento do feito, o que atrai a incidência da Súmula 284/STF.
+Por fim, a jurisprudência do Superior Tribunal de Justiça, "sensível a situações em que salta aos olhos a inobservância dos critérios legais para o arbitramento do valor justo, passou a admitir a revisão em sede especial quando se tratar de honorários notoriamente ínfimos ou exagerados, o que se faz considerado cada caso em particular. Assim, saber se os honorários são irrisórios ou exorbitantes requer, necessariamente, a apreciação das peculiaridades de cada caso concreto" (STJ, AgRg nos EAREsp 28.898/SP, Rel. Ministra Laurita Vaz, Corte Especial, DJe de 06/02/2014).
+Dessa forma, qualquer juízo sobre a adequada aplicação, pelo acórdão recorrido, dos critérios utilizados impõe exame dos fatos e da prova dos autos, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Logo, ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo.
+É o voto.
