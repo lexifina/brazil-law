@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto de decisão que inadmitiu o recurso especial ante a incidência da Súmula 7/STJ.
+Sustentaorecorrenteviolação dosarts. 129, §2º, IV,61, II, "e",155, 156e 386, VII, do CPP,tendo em vista a ausência dos requisitos legais para a aplicação da excludente de ilicitude da legítima defesa.
+Contrarrazoado e inadmitido na origem, manifestou-se oMinistério Público Federal pelo não provimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passa-se, assim, ao exame do mérito recursal.
+Consta dos autos que os recorrentes foramabsolvidos em 1º Grau, decisão mantida pelo Tribunal de origem,em acórdão assimfundamentado (fl. 343):
+Compulsando os autos, tenho que as provas colhidas não dão suporte à condenação do denunciado/apelado pela prática do delito de lesão corporal grave, conforme descrito na denúncia.
+A vítima Alear Antônio Rodrigues, em juízo, relatou que estava trabalhando no local dos fatos, e que o acusado chegou provocando e agredindo com uma mordida, o que gerou a perda de parte da orelha, conforme laudo pericial acostado aos autos originários.
+A testemunha Geílson da Silva Souza, mencionado pelo Parquet, não foi ouvida judicialmente.
+Os informantes ouvidos em juízos relataram que tanto o acusado quanto a vítima saíram da briga com marcas de mordidas.
+Por outro lado, o acusado, em juízo, afirmou que foi mordido primeiro, o que o levou a morder a vítima, versão esta, inclusive narrada na denúncia crime.
+O informante Gerrisley, em juízo, confirmou a discussão entre autor e vítima, mencionando que esta correu para pegar algum objeto, e que as mordidas ocorreram posteriormente.
+Diante do contexto apresentado nos autos, tenho que a tese da excludente de ilicitude deve prevalecer.
+É inegável que o réu, ora apelado foi ao local procurar a vítima, mas as provas colhidas apontam que as agressões físicas iniciais partiram desta última, tendo o acusado revidado da mesma forma, não dispondo de modos diversos de agir.
+Como bem ressaltou o douto sentenciante: "(..) Logo, impende reconhecer que as provas produzidas em juízo comprovam que o acusado lesionou a vítima com o objetivo de fazer cessar uma contenda corporal injusta, motivo pelo qual entendo que ele agiu em legítima defesa (..) Portanto, infere- se do citado dispositivo, que age em legítima defesa quem, usando dos meios necessários, com moderação, reage à injusta agressão, atual ou iminente, a direito seu ou de terceiro, como é o caso dos autos, pois está demonstrado que a vítima se apoderou de um pedaço de madeira para agredir o acusado, e posteriormente ainda lhe mordeu no peito, fato que levou o acusado a retribuir a mordida, sendo naquele momento, o meio disponível e eficaz para cessar a agressão, como de fato ocorreu (..)." Sendo assim, a prova judicial colhida é demasiadamente frágil, e, por isso, insuficiente a embasar tal condenação.
+Ex positis, voto no sentido de conhecer do recurso por próprio e tempestivo, contudo, NEGO-LHE PROVIMENTO para manter a absolvição do réu determinada na sentença de primeira instância.
+Como se vê, a conclusão do Tribunal no que diz respeito à configuração da legítima defesa decorreudaanálise do conjunto probatório, em especial da prova oral colhida nos autos, no sentido de que "tanto o acusado quanto a vítima saíram da briga com marcas de mordidas", considerando ser"inegável que o réu, ora apelado foi ao local procurar a vítima, mas as provas colhidas apontam que as agressões físicas iniciais partiram desta última, tendo o acusado revidado da mesma forma, não dispondo de modos diversos de agir", concluindo que"o acusado lesionou a vítima com o objetivo de fazer cessar uma contenda corporal injusta", agindo, assim,em legítima defesa, daí porque a pretendida revisão do julgado, para fins de condenação, encontra óbice na Súmula 7/STJ, por demandar reexame do material cognitivo produzido nos autos. A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO ART. 621, I, DO CPP. NÃO OCORRÊNCIA. CABIMENTO DE REVISÃO CRIMINAL. CRIME DO ARTIGO 28 DA LEI 11.343/06. PLEITO DE CONDENAÇÃO DO AGRAVADO PELO DELITO DE TRÁFICO DE DROGAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Na análise do acórdão impugnado, verifica-se que a Corte de origem não contrariou o supracitado dispositivo do Código de Processo Penal, porquanto adequou a situação dos autos aos requisitos da ação revisional, uma vez que a sentença condenatória foi contrária ao artigo 386, VII, do Código de Processo Penal.
+2. O Tribunal de origem pontuou que "mesmo sendo duvidoso que a aquisição do entorpecente, por meio da corré, tinha como objetivo a mercancia, há evidências suficientes, de que se destinava ao consumo próprio, como resultou confessado". Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e decidir pela condenação do recorrido pelo crime de tráfico de drogas, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp n. 1.031.140/GO, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/10/2018, DJe de 11/10/2018.)
+Anteo exposto, nego provimento ao recurso.
+Comunique-se.
+Publique-se.
+Intimem-se.
