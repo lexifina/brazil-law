@@ -1,0 +1,54 @@
+DECISÃO
+Mauro Mano Sanchesopõeembargos de declaração contraadecisão, de fls.460/464, na qual neguei provimento ao agravo emrecursoespecial, nosseguintes termos:
+Mauro Mano Sanches interpõe agravo interno contra a decisão de fls. 423/425, na qual neguei provimento ao agravo em recurso especial.
+Sustenta o agravante que o dissídio jurisprudencial suscitado no recurso especial não foi apreciado na decisão recorrida.
+Afirma que "o dissídio jurisprudencial suscitado incide pontualmente sobre a questão jurídica relativa à possibilidade de execução de sentença por terceiro que não participou da fase de conhecimento a partir da qual foi formado o título executivo judicial" (fl. 433).
+Argumenta que não pretende o reexame fático dos autos, de modo que não incide o óbice da Súmula n. 7 do STJ.
+Alega que ocorreu o prequestionamento ficto, no presente caso, bem como assevera que "o prequestionamento ficto incide apenas sobre a questão jurídica relativa à preclusão da rejeição do ingresso da agravada na lide como terceira interessada (CPC, arts. 119 e 507), dado que a questão relativa à ilegitimidade ativa para o cumprimento de sentença de quem não participou da fase de conhecimento (CPC, arts. 17, 506 e 513, § 5º) foi devidamente prequestionada pelo Tribunal a quo, como reconhecido pela própria decisão ora agravada" (fl. 439).
+Acrescenta que a decisão agravada não foi devidamente fundamentada, e, por fim, requer seja declarada a ilegitimidade ativa da parte agravada para instaurar o cumprimento de sentença sem ter participado da fase de conhecimento que formou o título executivo judicial.
+Intimada para se manifestar, a parte contrária apresentou impugnação às fls. 449/458.
+Diante dos fundamentos expostos nas razões do agravo interno, reconsidero a decisão ora agravada e passo à análise do recurso.
+Trata-se de agravo manifestado por Mauro Mano Sanches contra a decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 17, 489, § 1º, IV, 506, 513, § 1º, e 1.022, II, do Código de Processo Civil, além de dissídio jurisprudencial. O acórdão recorrido está retratado na seguinte ementa (fl. 284):
+ACIDENTE DE TRÂNSITO - DANOS MATERIAIS E MORAIS - CUMPRIMENTO DE JULGADO - Decisão faz coisa julgada às partes entre as quais é dada (Exequente Francine e Executado Mauro), não beneficiando, nem prejudicando terceiros (nos termos do artigo 506 do Código de Processo Civil) - Descabida a execução do título executivo judicial por terceiro que não integrou a lide - SENTENÇADE EXTINÇÃO, com fulcro no artigo 485, inciso VI (ilegitimidade processual), do Código de Processo Civil - Título executivo judicial que condenou o Requerido Mauro ao pagamento das despesas médico-hospitalares decorrentes do acidente e eventuais débitos em aberto "diretamente junto ao prestador de serviço credor" - Necessária a observância do estipulado no título executivo - Cabível o prosseguimento do cumprimento de julgado pela Terceira Interessada (credora do Requerido Mauro) - RECURSO DA TERCEIRA INTERESSADA PROVIDO, PARA AFASTAR A SENTENÇA, COMO PROSSEGUIMENTO DA EXECUÇÃO (NA VARA DE ORIGEM)
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 309):
+EMBARGOS DE DECLARAÇÃO OPOSTOS PELO EXECUTADO - PRETENSÃO DE OBTER EFEITOS INFRINGENTES - Acórdão devidamente fundamentado, sem omissão e contradição - Embargos de declaração não são adequados para promover a reforma do que decidido - EMBARGOS NÃO ACOLHIDOS
+Sustenta o agravante que "para a propositura do cumprimento de sentença, é necessário que a parte tenha legitimidade, o que é auferido pela sua participação na fase de conhecimento, uma vez que a sentença faz coisa julgada às partes entre as quais é dada, não prejudicando terceiros" (fl. 325).
+Afirma que "durante a fase de conhecimento, o ingresso da Associação Congregação de Santa Catarina, foi inadmitido e desta decisão não foi interposto qualquer recurso, de tal modo o que se está discutindo agora, já foi decidido anteriormente" (fl. 333).
+Alega, dessa forma, que o terceiro que não fez parte do processo de conhecimento não pode integrar a fase executiva.
+Assim posta a questão, passo a decidir.
+Inicialmente,com relação à suposta ofensa aos arts. 489 e 1.022 do CPC/2015, verifico que não existe omissão ou ausência de fundamentação na apreciação das questões suscitadas.
+Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seuconvencimento.O pronunciamento acerca dos fatos controvertidos, a que está o magistrado obrigado,encontra-se objetivamente fixado nas razões do acórdão recorrido.
+Observo, por outro lado, que o Tribunal de origem entendeu ser cabível o prosseguimento do cumprimento de sentença pela terceira interessada, ora agravada, conforme se extrai dos seguintes trechos (fls. 285/286):
+(..)
+Ajuizada a "ação de obrigação de fazer c/c danos materiais e morais" pela Autora Francine contra o Requerido Mauro (cópias de fls. 05/37), a sentença (proferida em 23 de setembro de 20161) confirmou a tutela antecipada (que condenou o Requerido ao pagamento das despesas médico-hospitalares concernentes à internação em Unidade de Terapia Intensiva no Hospital Santa Catarina e das despesas médicas futuras, sob pena de multa diária no valor de R$ 1.000,00), e condenou o Requerido ao pagamento das despesas médico-hospitalares decorrentes do acidente e eventuais débitos em aberto "diretamente junto ao prestador de serviço credor", deduzidos os valores já pagos (apurados em liquidação de sentença), e ao pagamento de indenização por danos materiais no valor de R$ 520,00, por danos morais no valor de R$ 30.000,00, e por danos estéticos no valor de R$ 30.000,00.
+Por outro lado, o acórdão (cópias de fls. 204/207) deu parcial provimento ao recurso de apelação interposto pelo Requerido, para afastar a incidência da multa cominatória (desde a sentença), mas manteve a condenação do Requerido ao pagamento das despesas médico-hospitalares decorrentes do acidente e eventuais débitos em aberto "diretamente junto ao prestador de serviço credor".
+Logo, de rigor a observância do estipulado no título executivojudicial (que condenou o Requerido ao pagamento dos débitos em aberto "diretamente junto ao prestador de serviço credor"), o que torna cabível o prosseguimento do cumprimento de julgado pela Terceira Interessada (Associação Congregação de Santa Catarina), pois é titular do crédito pleiteado (conforme consta dos documentos de fls. 60/198).
+Por outro lado, apresentada impugnação ao cumprimento de julgado pelo Requerido Mauro (fls. 221/231), em que alega que "as despesas do Hospital Santa Catarina foram pagas pelo plano de saúde da Autora", e que "não há informações sobre os custos médico-hospitalares decorrentes da internação da Autora", o que torna necessária a apuração do débito exequendo pelo Juízo a quo.
+Destarte, de rigor o provimento do recurso.
+Ante o exposto, dou provimento ao recurso, para afastar a sentença, com o prosseguimento da execução (na Vara de origem), para a apuração do valor do débito exequendo.
+(..)
+Com efeito, destaco que o acórdão recorrido está em dissonância com a jurisprudência do STJ, que firmou o entendimento de que é indevida a inclusão de terceiro, que não participou do processo de conhecimento o qual constituiu o título executivo judicial, na fase cumprimento de sentença. A propósito, confiram-se:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. COTAS CONDOMINIAIS. AÇÃO DE COBRANÇA.INCLUSÃO DO ARREMATANTE. IMÓVEL. HASTA PÚBLICA. CUMPRIMENTO DE SENTENÇA. IMPOSSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. ART. 20, § 4º, DO CÓDIGO DE PROCESSO CIVIL.
+1.Indevida a inclusão de arrematante de bem imóvel em ação de cobrança de cotas condominiais na fase cumprimento de sentença, tendo em vista que não participou do processo de conhecimento que constituiu o título executivo judicial que lhe pretendem imputar.Precedentes.
+2.A verba honorária foi fixada de forma proporcional.
+3.Agravo regimental não provido.
+(AgRg nos EDcl no AgRg OF no AREsp 373.066/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8.3/2016, DJe de 15.3.2016)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE DESPEJO. INVIABILIDADE DE INCLUSÃO NO POLO PASSIVO DO EX-CÔNJUGE DA EXECUTADA, QUE NÃO PARTICIPOU DA FASE DE CONHECIMENTO. INCIDÊNCIA DA SÚMULA N º 568 DO STJ. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO VERIFICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É assente nesta Corte Superior o entendimento segundo o qual não é possível o direcionamento dos atos executórios contra aquele que não participou do processo de conhecimento e não integrou o título executivo judicial. Precedentes.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1.022 do NCPC.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.533.705/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30.3.2020, DJe de 1º.4.2020)
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para reconhecer a ilegitimidade da recorrida para promover o cumprimento de sentença. Mantidos os ônus de sucumbência conforme fixados na sentença (fl. 253).
+Intimem-se.
+Sustenta que a decisão embargada padeceu de omissão, uma vez que não se manifestou acerca da majoração dos honorários advocatícios, na forma do art. 85, § 11, do Código de Processo Civil.
+A parte contrária apresentou impugnação às fls. 495/498.
+Assim posta a questão, passo a decidir.
+Inicialmente, não identifico na decisão embargada nenhum dos vícios necessários ao conhecimento dos embargos de declaração, a teordoart.1.022 do CPC/2015, adstrito à correção de omissão, obscuridade,contradição ou erro material.
+Com efeito, destaco que não é cabível a majoração dos honorários advocatícios, na forma do § 11 do art. 85 do CPC/15,na hipótese de provimento do recurso, caso dos autos. A propósito, confira-se:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. MAJORAÇÃO. NÃO CABIMENTO.
+1. Não é cabível a majoração da verba honorária em grau recursal na hipótese de provimento do recurso.
+2. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS.
+(EDcl no REsp 1.787.026/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14.2.2022, DJe de 16.2.2022)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
