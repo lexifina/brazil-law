@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por APARECIDA BRASERO DA COSTA contra decisão que negou provimento ao agravo em recurso especial, em face da incidência da Súmula 7/STJ, na medida em queverificar sehouve o agravamento, ou não, da moléstia ouincapacidadeantes dafiliação ao RGPSdemandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial.
+Alega a agravante a não incidência da Súmula 7/STJ, tendo em vista que "O Recurso Especial interposto pela parte autora comporta seguimento, pois, com a devida vênia, a sua análise prescinde à uma reanálise das provas e dos fatos relacionados ao caso dos autos" (fl. 320).
+Defende que "Nota-se, pelo v. acórdão recorrido, que os fatos e as provas foram bem delineados, de forma a ser possível a revaloração probatória." (fl. 324).
+Afirma que, "No caso destes autos, o n. perito indicado pelo juízo de primeira instância analisou a documentação médica da parte autora e chegou à conclusão de que a incapacidade, efetivamente, havia aflorado no ano de 2015" (fl. 326)
+Aduz que"o que se persegue, através do recurso excepcional, é tão somente a valoração do laudo médico pericial que constatou a incapacidade a partir de 2015(quando ostentava a qualidade de segurada perante à Previdência Social), em comparação ao prontuário médico da parte autora que não é explícito quanto a existência ou não de incapacidade laborativa no ano de 2009e 2011, mas apenas aponta a existência de enfermidade à época" (fl.327) .
+Sem impugnação, conforme certidão de fl.334.
+É O RELATÓRIO.
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. CONDIÇÃO DE SEGURADOPARA FINS DECONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO. DOENÇA PREEXISTENTE AO INGRESSO NORGPS. AGRAVAMENTO DA MOLÉSTIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Para refutar as conclusões adotadas pelo Tribunal de origem eacolhera tese de que a doença incapacitante ou o seu agravamento sãoposteriores à filiação ao RegimeGeral da Previdência Social, seria imprescindível o reexame do conjuntoprobatório dos autos, o que é vedado na estreita via do recurso especial,a teor do óbice previsto na Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator) A irresignação não merece prosperar.
+Como antes consignado, o Tribunal a quo, ao examinar os requisitos para a concessão da aposentadoria por invalidez, concluiu que a moléstia incapacitante é preexistente à filiação ao RGPS.
+Foram esses os fundamentos adotados do acórdão recorrido (fls. 191/194):
+Quanto à qualidade de segurado(a) e cumprimento do período de carência, conforme o extrato do CNIS (fis. 18), a parte autora manteve vínculo empregatício no período de 02/08/1976 a 20/10/1977. Permaneceu por mais de 22 (vinte e dois) anos sem contribuir ou exercer atividade vinculada ao Regime Geral de Previdência Social. Voltou a manter vínculos empregatícios de 01/03/2000 a 04/10/2000 e de 01/11/2001 a 31/01/2002. Novamente, perdeu a qualidade de segurado(a), permanecendo por mais de 9 (nove) anos sem contribuir. Passou a verter recolhimentos na condição de contribuinte facultativo(a) a partir da competência de 07/2011 a 03/2012 e 11/2012. Após verteu recolhimentos como contribuinte individual, para as competências de 03/2013 a 02/2015.
+A data de início da incapacidade é a questão controvertida nos autos.
+De acordo com o laudo pericial, datado de 25/05/2016 (fis. 47/52), o(a) autor(a), nascido(a) em 01/05/1957, é portador(a) de hipertensão arterial sistêmica, transtorno ansioso e depressivo, insuficiência renal crônica grau IV, cervicobraquialgia, hérnia de disco cervical, lombociatalgia, hérnia de discolombar, abaulamentos discais de coluna torácica e artrose.
+Asseverou que a parte autora relata o início das dores na coluna há 4 (quatro) anos. Fixou a data de início da incapacidade em meados de 2015, baseado na documentação médica apresentada e informações da parte autora. A conclusão do juízo não está vinculada ao laudo pericial, porque o princípio do livre convencimento motivado permite a análise conjunta das provas.
+No caso, o Juízo a quo determinou a expedição de oficio ao AME -Ambulatório Médico de Especialidades, tendo sido juntado aos autos relatórios médicos da parte autora, comprovando o início de tratamento de hemodiálise em 08/06/2011 (fis.107), bem como dor lombar há dois anos em 01/11/2011, o que remonta há 01/11/2009 (fis.106).
+Assim, a parte autora se reinscreveu no RGPS em 07/2011, quando já totalmente incapacitado(a) em razão de início de tratamento de hemodiálise. Destarte, a parte autora descobriu estar acometida de grave problema renal, passando a verter recolhimentos para lograr beneficio indevido, tanto que requereu auxílio -doença em 23/11/2011.
+Trata-se de refiliação tardia. Destarte, o sinistro abrangido pela cobertura de auxílio -doença ou aposentadoria por invalidez deve ser aleatório e, na hipótese, a parte autora somente voltou a contribuir após descobrir que necessitava se submeter a tratamento de hemodiálise, com o fito de lograr beneficio indevido. Destaque-se, ainda, que não há como se aderir à tese de agravamento da doença somente após a refiliação em razão de problemas de coluna. Isso porque constou do relatório médico de fls.106 que as dores de coluna se iniciaram em 01/11/2009. Ademais, tais males são crônicos e degenerativos e não surgem de uma hora para outra.
+Com base no princípio do livre convencimento motivado, previsto no art. 436 do CPC, entendo que a incapacidade é anterior aos recolhimentos feitos pelo(a) autor(a).
+(..). Sendo assim, no faz jus aos benefícios pleiteados.
+Conforme afirmado na decisão agravada, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de se verificar se houve agravamento da moléstia ou surgimento da incapacidade somente após à filiação ao Regime Geral da Previdência Social - RGPS, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, ante o óbice previsto na Súmula 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL - DIREITO PREVIDENCIÁRIO - APOSENTADORIA POR INVALIDEZ - ART. 42, § 2º, DA LEI Nº 8.213/99 - ANÁLISE DE DOENÇA PREEXISTENTE OU NÃO À FILIAÇÃO AO REGIME GERAL DE PREVIDÊNCIA SOCIAL - REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA 7/STJ - PRECEDENTES.
+1. A análise da preexistência ou não da moléstia à época da filiação ao RGPS, bem como acerca da progressão ou agravamento dessa em momento posterior à perda da condição de segurado, implica, necessariamente, o revolvimento do conteúdo fático-probatório dos autos, medida vedada em sede de recurso especial, nos termos da Súmula 7/STJ. Precedentes.
+2. Agravo regimental não provido.
+(AgRg no AREsp 237.139/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 17/09/2013, DJe 24/09/2013).
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
