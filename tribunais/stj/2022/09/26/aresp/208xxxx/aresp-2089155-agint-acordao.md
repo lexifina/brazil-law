@@ -1,0 +1,86 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por JBS AVES LTDA em face de decisão monocrática da lavra deste signatário que negou provimento ao agravo em recurso especial.
+O aludido apelo extremo, fundado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 177):
+AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO. DIREITO DEVIZINHANÇA. PARTE AUTORA REQUER CESSAÇÃO DE EMISSÃO DEPOLUENTES E INDENIZAÇÃO POR DANOS MORAIS RELACIONADOS COM ALEGADAS IRREGULARIDADES AMBIENTAIS COMETIDASPELA RÉ. INCIDÊNCIA DO CDC. CONSUMIDOR POR EQUIPARAÇÃO. INVERSÃO DO ÔNUS DA PROVA CABÍVEL, NO CASO. AFASTADA AALEGAÇÃO DE CARÊNCIA DE INTERESSE PROCESSUAL. AGRAVO DE INSTRUMENTO DESPROVIDO.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 205-209).
+Nas razões do especial (e-STJ, fls. 222-267), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) art. 17 do Código de Defesa do Consumidor, sustentando a inexistência de relação de consumo e a inaplicabilidade do CDC ao presente caso, pois as alegações da parte Recorrida não se amoldam ao conceito de acidente de consumo;
+b) arts. 6º, VIII, do CDC, e 373, parágrafos, do CPC/15, aduzindo ter sido indevida a inversão do ônus da prova.
+Apontou, ainda, divergência jurisprudencial.
+Oferecidas as contrarrazões às fls. 317-328 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 332-341, e-STJ), o que ensejou o manejo do agravo (fls. 350-372, e-STJ), buscando destrancar o processamento daquela insurgência.
+Em decisão monocrática (e-STJ, fls. 388-394), este signatário negou provimento ao recurso especial em razão da incidência das Súmulas 7/STJ e 83/STJ.
+No presente agravo interno (e-STJ, fls. 397-423), a ora agravante combate o óbice supracitado e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Segundo a jurisprudência deste Superior Tribunal de Justiça, encontram-se sob a proteção dos ditames do Código de Defesa do Consumidor aqueles que, embora não tenham participado diretamente da relação de consumo, sejam vítimas de evento danoso decorrente dessa relação, como consumidores por equiparação. Incidência da Súmula 83 do STJ.
+1.1. Para derruir a conclusão do Tribunal local, quanto a condição de consumidor por equiparação, na hipótese, seria necessário o revolvimento de matéria probatória, providência vedada na presente instância recursal, por força da Súmula 7/STJ.
+2. Rever o entendimento da corte de origem no sentido de verificar se estão presentes, ou não, os requisitos da verossimilhança das alegações e hipossuficiência da parte autora para a inversão do ônus da prova, forçosamente ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ. Precedentes.
+3. A incidência do referido óbice impede o conhecimento do recurso lastreado na alínea "c" do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática. Precedentes.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. A recorrente reitera os argumentos relativos à apontada violação ao art. 17 do CPC, defendendo a inexistência de relação de consumo e a inaplicabilidade do CDC ao presente caso, que versa sobre indenização por danos morais.
+Razão não lhe assiste, todavia. Consoante asseverado na decisão singular, o Tribunal de origem aplicou o art. 17 do CDC, considerando que todos os residentes na área circunstante às instalações da empresa ora recorrente são consumidores, porquanto são vítimas do evento danoso, qual seja, o odor exalado em virtude de falha no tratamento de resíduos.
+Confira-se (fls. 173-174, e-STJ):
+No que condiz à incidência das regras do direito consumerista, no caso, é importante ressaltar que, em se tratando de reparação por evento danoso provocado no exercício (regular ou não) das atividades empresariais de um dado fornecedor, nos termos do art. 17 do CDC, equiparam-se aos consumidores todas as vítimas do evento. De fato, o CDC estendeu a proteção concedida ao destinatário final dos produtos e serviços, em favor de qualquer sujeito de direito, inclusive aquele que, ordinariamente, não seja consumidor na relação de consumo a partir da qual ocorreu o prejuízo 1. No caso, em se tratando de dano provocado a membro da comunidade circunstante às instalações da empresa autora, relativo à odor exalado em virtude de falha no tratamento de resíduos emitidos pela empresa ré, tem-se que todos os residentes na área, como a parte autora, são sim, equiparados a consumidores.
+Como se vê, o acórdão recorrido amolda-se ao entendimento desta Corte segundo o qual o art. 17 do Código de Defesa do Consumidor prevê a figura do consumidor por equiparação, sujeitando à proteção desse dispositivo legal todos aqueles que, embora não tendo participado diretamente da relação de consumo, sejam vítimas de evento danoso resultante dessa relação.
+No mesmo sentido, confira-se:
+AGRAVOS REGIMENTAIS NO RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL. DANO AMBIENTAL. PRAZO PRESCRICIONAL. TERMO INICIAL. INCIDÊNCIA DO CDC.
+1. Contaminação do solo e do lençol freático, ocasionado por produtos químicos utilizados no tratamento de madeira destinada à fabricação de postes de luz, na região metropolitana, nas proximidades da cidade de Triunfo, no Estado do Rio Grande do Sul.
+2. Por não haver como se presumir da notificação pública ocorrida (2005) os efeitos nocivos à saúde da população local em decorrência do acidente ambiental, o termo inicial conta-se da ciência inequívoca dos efeitos decorrentes do ato lesivo (REsp n. 346489/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/06/2013, DJe 26/08/2013).
+3. Entendimento pessoal no sentido da incidência do regime jurídico do CDC com aplicação do prazo prescricional de 5 anos, previsto no artigo 27 do CDC, por se tratar de acidente de consumo que se enquadra, simultaneamente, nos artigos 12 (fato do produto) e 14 (fato do serviço) do CDC.
+4. A regra do art. 17 do CDC, ampliando o conceito básico de consumidor do art. 2º, determina a aplicação do microssistema normativo do consumidor a todas as vítimas do evento danoso, protegendo os chamados "bystandars", que são as vítimas inocentes de acidentes de consumo.
+5. AGRAVOS REGIMENTAIS DESPROVIDOS.
+(AgRg no REsp 1365277/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/02/2014, DJe 10/03/2014)
+CONFLITO DE COMPETÊNCIA. AÇÃO DE REPARAÇÃO DE DANOS. DERRAMAMENTO DE ÓLEO. PESCADORES ARTESANAIS PREJUDICADOS. ACIDENTE DE CONSUMO.CONSUMIDOR POR EQUIPARAÇÃO. FORO. DOMICÍLIO DOS AUTORES.
+1. Trata-se de ação ordinária ajuizada por pescadores artesanais visando a reparação de danos materiais e morais decorrentes de dano ambiental.
+2. Os autores foram vítimas de acidente de consumo, visto que suas atividades pesqueiras foram supostamente prejudicadas pelo derramamento de óleo ocorrido no Estado do Rio de Janeiro. Aplica-se à espécie o disposto no art. 17 do Código de Defesa do Consumidor.
+3. As regras consumeristas contidas no artigo 101, I, da Lei nº 8.078/1990 devem incidir no caso, sendo facultada ao consumidor a propositura da ação no foro do seu domicílio.
+4. Conflito conhecido para declarar competente o Juízo de Direito da Vara Cível de Marataízes/ES, o suscitado. (CC 143.204/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 13/04/2016, DJe 18/04/2016)  grifou-se
+DIREITO CIVIL. RESPONSABILIDADE CIVIL. RECURSO ESPECIAL. INDENIZAÇÃO EM VIRTUDE DE DANOS MATERIAIS E MORAIS ORIUNDOS DE CONTAMINAÇÃO AMBIENTAL. PRESCRIÇÃO. TERMO INICIAL. NÃO OCORRÊNCIA DA PRESCRIÇÃO.
+1. Alegado dano ambiental consubstanciado na contaminação do solo e das águas subterrâneas na localidade onde o recorrido residia, em decorrência dos produtos tóxicos utilizados no tratamento dos postes de luz destinados à distribuição de energia elétrica aos consumidores, o que foi noticiado no ano de 2005 pela mídia e pela própria AES Florestal.
+2. Na responsabilidade contratual, em regra, o termo inicial da contagem dos prazos de prescrição encontra-se na lesão ao direito, da qual decorre o nascimento da pretensão, que traz em seu bojo a possibilidade de exigência do direito subjetivo violado, nos termos do disposto no art. 189 do Código Civil, consagrando a tese da actio nata no ordenamento jurídico pátrio.
+3. Contudo, na responsabilidade extracontratual, a aludida regra assume viés mais humanizado e voltado aos interesses sociais, admitindo-se como marco inicial não mais o momento da ocorrência da violação do direito, mas a data do conhecimento do ato ou fato do qual decorre o direito de agir, sob pena de se punir a vítima por uma negligência que não houve, olvidando-se o fato de que a aparente inércia pode ter decorrido da absoluta falta de conhecimento do dano. Inteligência da Súmula 278 do STJ.
+4. Constata-se aqui a subsunção da situação fática à norma constante do art. 17 do Código de Defesa do Consumidor, uma vez que o recorrido alega que foi vítima de contaminação ambiental decorrente dos produtos venenosos utilizados no tratamento dos postes de luz destinados à distribuição de energia elétrica aos consumidores.
+Incidência do prazo prescricional quinquenal (art. 27 do Código de Defesa do Consumidor), iniciando-se sua contagem a partir do conhecimento do dano e de sua autoria.
+5. No caso, tendo o recorrido tomado ciência da contaminação do solo e do lençol freático de sua localidade - momento em que lhe foi possível dessumir a desvalorização imobiliária (dano material) - no ano de 2005, ressoa inequívoca a não ocorrência da prescrição, haja vista que a demanda foi ajuizada em 2009.
+6. Quanto aos danos morais, é certo que, da mera publicização do acidente ambiental, não ocorreu imediatamente o prejuízo à saúde, fazendo-se mister, para o nascimento da pretensão, fosse primeiro diagnosticada a doença e constatado que ela se desenvolvera em decorrência da poluição da área atingida. Assim, parece certa a não ocorrência da prescrição, porquanto não transcorrido o prazo de 5 anos nem mesmo da notícia do acidente ambiental, sendo óbvio que o diagnóstico da doença e sua causa somente se deram em momento posterior.
+7. Recurso especial não provido.
+(REsp 1354348/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/08/2014, DJe 16/09/2014)  grifou-se
+Dessa forma, verifica-se que a Corte de origem decidiu de acordo com o entendimento do Superior Tribunal de Justiça, o que atrai a incidência do enunciado da Súmula n. 83 do STJ, aplicável aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ademais, entende-se que, para derruir a conclusão disposta pelo Tribunal local, quanto à condição de consumidor por equiparação, na hipótese, seria necessário o revolvimento de matéria probatória, providência vedada na presente instância recursal, por força da Súmula 7/STJ.
+2. No que tange à aventada violação aos arts. 373, parágrafos, do CPC, e 6º, VIII, do CDC, a recorrente apontou o não preenchimento dos requisitos para a inversão do ônus da prova.
+Sobre o tema, a Corte de origem asseverou o seguinte (e-STJ) (fl. 175, e-STJ):
+Destarte, é cabível a inversão do ônus da prova pois, no caso concreto, há verossimilhança das alegações da parte autora (demonstrada com a apresentação de inquérito civil e autuação da empresa demandada por vazamento de amônia - evento 1, Outros 7) e hipossuficiência técnica e econômica da parte autora para demonstrar a violação de regras ambientais. Acrescento que, ao contrário do alegado pela parte ré/agravante, não houve arquivamento do inquérito civil. Embora inicialmente tenha havido orientação inicial no sentido de arquivamento das denúncias (evento 1, Outros 7, pg.17), o levantamento de novas informações naquele feito administrativo levou à instauração de inquérito (evento 1, Outros 7, p. 28):
+Como se vê, o Tribunal de origem, diante das peculiaridades do caso concreto e a partir da análise do conteúdo fático-probatório dos autos, concluiu pela inversão do ônus da prova, pois constatou a presença os requisitos deverossimilhança das alegações e da hipossuficiênciatécnica e econômicada parte autora.
+Derruir as conclusões contidas no decisum e acolher a pretensão recursal ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE AUTORA.
+1. "A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações do consumidor.". (AgInt no AREsp 1328873/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/11/2019, DJe 18/12/2019). Incidência da Súmula 83 do STJ.
+1.1. A conclusão a que chegou o Tribunal de origem, relativa ao não cabimento da inversão do ônus da prova, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+3. É firme a orientação do STJ de que a impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula 284 do STF. Precedentes.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.674.838/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 28/9/2020, DJe de 1/10/2020.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONSUMIDOR. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO. ALEGADA NÃO CONTRATAÇÃO. INVERSÃO DO ONUS DA PROVA. NÃO AUTOMÁTICO. DOCUMENTOS INDISPENSÁVEIS A PROPOSITURA DA AÇÃO. COMPROVAÇÃO DOS PRESSUPOSTOS PROCESSUAIS. EXTRATO BANCÁRIO. ALEGAÇÃO DE EMPRÉSTIMO NÃO CONTRATADO.
+(..)
+4. É firme a jurisprudência desta Corte Superior no sentido de que a inversão do ônus da prova fica a critério do juiz, cabendo-lhe apreciar a verossimilhança das alegações do consumidor e/ou a sua hipossuficiência, aspectos que, por serem intrinsicamente ligados ao conjunto fático-probatório do processo, não podem ser revistos em recurso especial, em razão do que dispõe a Súmula 7/STJ.
+(..)
+10. Recurso especial provido.
+(REsp n. 1.991.550/MS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/8/2022, DJe de 25/8/2022.)
+Inafastável, no ponto, o óbice da Súmula 7/STJ.
+3. Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE DESPEJO. ALEGAÇÃO DE EXISTÊNCIA DE CONTRATO VERBAL DE LOCAÇÃO. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO IMPROVIDO. (..) 2. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. Precedentes. 3. Agravo regimental improvido. (AgRg no AREsp 834.644/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/03/2016, DJe 12/04/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. SÚMULA 7 DO STJ. 1. Ação de indenização por danos materiais e morais. 2. O reexame de fatos e provas não é possível na via especial, devido ao óbice da Súmula 7 desta Corte. 3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. 4. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp 1423333/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 29/04/2019, DJe 02/05/2019)
+De rigor, portanto, a manutenção da decisão agravada.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
