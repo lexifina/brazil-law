@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno manejado por ARJONA & CARVALHO COMERCIAL LTDA contra decisão de minha lavra, proferida às e-STJ fls. 698/701, em que conhecido agravo para não conhecer do recurso especial, sob os seguintes fundamentos: i) falta de prequestionamento da tese suscitada; e ii) inadmissível inovação recursal em recurso especial.
+No presente agravo, a parte afirma que a matéria veiculada no apelo éde ordem pública, qual seja, a ocorrência de julgamento extra petita, não se sujeitando às exigências da jurisprudência, para fins de configuração do prequestionamento fícto de que trata oo art. 1.025 do CPC/2015.
+No mais, reitera que o Tribunal de origem incorreu em julgamento fora do pedido, devendo, portanto, ser anulado.
+Impugnação àse-STJ fls. 725/733.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Segundo o entendimento desta Corte de Justiça, para se reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se a invocação e o reconhecimento de contrariedade ao art. 1.022 do CPC/2015, o que não ocorreu, ainda que se trate de matérias de ordem pública.
+2. Agravo interno desprovido.
+VOTO
+Conforme asseverado na decisão agravada, o Tribunal de origem não emitiu juízo de valor sobre a tese de que os órgãos fiscalizadores instauraram o processo administrativo contra a fabricante, elegendo-o como responsável,mas, por equívoco, enviaram a multa à comerciante, ora recorrente, tampouco acerca do suposto julgamentoextra petita, apesar de opostos embargos de declaração.
+Nessa quadra, forçoso convir que o recurso especial carecedo necessário prequestionamento, incidindo, in casu, o óbice contido na Súmula 211 do STJ.
+É verdade que o art. 1.025 do Código de Processo Civil de 2015 consagrou o "prequestionamento ficto", o qual prescreve, in verbis: "art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade."
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação e demonstração de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderádar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1.067.275/RS, rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 03/10/2017, DJe 13/10/2017e AgInt no REsp 1.631.358/RN, rel. Ministro OG FERNANDES, Segunda Turma, julgado em 27/06/2017, DJe 30/06/2017), o que não ocorreuin casu.
+Desse modo, não tendo sido apreciadas as alegações suscitadas, mesmo após a oposição de embargos declaratórios, no Tribunal de origem, a parte recorrente deveria ter apontado, no recurso especial, ofensa ao art.1.022do CPC/2015, em vez de insistir na tese recursal, tal como ocorreu na hipótese.
+Cumpre registrar que, o apelo especial não prescinde do necessário enfrentamento pela Corte de origem para que seja conhecido,ainda que a matéria veiculadasejade ordem pública.
+Nesse sentido, destaco:
+PROCESSUAL CIVIL. ADMINISTRATIVO. IMPROBIDADE ADMINISTRATIVA. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE TUTELA PROVISÓRIA.POSSIBILIDADE DE ÊXITO DO RECURSO NÃO DEMONSTRADA. INOVAÇÃO DE TESE RECURSAL. IMPOSSIBILIDADE.
+1. Para concessão da tutela provisória, faz-se necessária a demonstração da possibilidade de êxito do recurso a que se pretende dar efeito suspensivo e, ainda, o perigo da demora. Nesse sentido, mutatis mutandis: TP 438/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 22/6/2017.
+2. Caso concreto em que não se vislumbra a possibilidade de êxito do agravo em recurso especial interposto pela parte ora agravante, na medida em que, ao menos em exame não exauriente, não se verifica a existência de ofensa aos dispositivos de lei federal indicados no apelo nobre.
+3. Na forma da jurisprudência desta Corte, é "incabível o exame de tese não exposta no especial e invocada apenas em recurso posterior, pois configura indevida inovação recursal" (AgInt no AREsp 1.407.141/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 20/5/2019).
+4. Também é pacificado neste Superior Tribunal o entendimento segundo o qual "mesmo as matérias de ordem pública exigem o prequestionamento" (REsp 1.860.269/PE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 9/12/2020).
+5. Agravo interno não provido. (AgInt nos EDcl no TP 2.902/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 01/03/2021, DJe 04/03/2021, Grifos acrescidos).
+PROCESSUAL CIVIL E CIVIL. PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. OBRIGAÇÃO DE FAZER. OMISSÃO. INEXISTÊNCIA. VERIFICAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Na hipótese dos autos, não se constata violação ao art. 1022 do CPC, uma vez que o Tribunal de origem julgou a controvérsia em conformidade com o que lhe foi apresentado, manifestando-se de forma clara no sentido de que a parte recorrente não cumpriu os requisitos previstos em contrato firmado com a instituição de ensino.
+2. Extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente do contrato estabelecido entre as partes, o que atrai o disposto na Súmula 5/STJ. Outrossim, também seria necessário averiguar se a parte recorrente cumpriu os requisitos previstos na referida avença, incidindo in casu o óbice da Súmula 7/STJ.
+3. Ademais, com relação ao tópico recursal lastreado na violação dos artigos do CDC, os mencionados dispositivos legais e as respectivas teses recursais não foram ventilados no aresto atacado nem foram opostos Embargos de Declaração para prequestionamento da matéria. De fato, o órgão julgador não emitiu juízo de valor sobre os temas. Falta, portanto, prequestionamento, requisito para acesso às instâncias excepcionais, ainda que se trate de matéria de ordem pública. Incide, na hipótese, o verbete sumular 211/STJ.
+4. Agravo Interno não provido. (AgInt no AREsp 1.711.404/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/02/2021, DJe 01/03/2021, Grifos acrescidos).
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
