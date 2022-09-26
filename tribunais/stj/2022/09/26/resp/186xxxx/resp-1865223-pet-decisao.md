@@ -1,0 +1,9 @@
+DECISÃO
+PROCESSUAL  CIVIL .  PEDIDO  DE  INGRESSO  NA  LIDE  COMO  AMICUS  CURIAE.  HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO EM GRAU RECURSAL. PEDIDO  DEFERIDO.
+1. Àsfls. 466/483, o CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO BRASILatravessa petição requerendo a sua admissão comoamicus curiaena presente demanda, sustentando, em síntese, que a questão posta em julgamento interessa não apenas às partes, mas também a todos os advogados do País.
+2. Consoante o art. 138 do CPC/2015, a admissão do amicus  curiae  no  processo  deve  levar  em  consideração  a  relevância  da  matéria,  a  especificidade  do  tema  ou  a  repercussão  social  da  controvérsia  como  elementos  de  convicção  do  julgador,  de  modo  que  seu  ingresso  na  lide  se  dá  em  benefício  da  jurisdição  e  não  em  interesse  de  qualquer  uma das  partes.
+3. Na hipótese, a controvérsia posta refere-se à majoração, em grau recursal, da verba honorária estabelecida na instância recorrida, quando o recurso for provido total ou parcialmente, ainda que em relação apenas aos consectários da condenação.
+4. Cifrada a questão, e tendo em vista que o Conselho Federal da OAB é entidade que representa a Advocacia, não há dúvidas de que, diante da especificidade do tema, poderá trazer importantes subsídios aos Julgadores para a mais equilibrada solução da demanda.
+5. Considerando a relevância institucional da matéria em exame para a classe dos advogados, defiro o pedido do Conselho Federal da OAB de ingresso no feito como amicus curiae, podendo formular requerimentos nos autos, ser intimada dos atos processuais e realizar sustentação oral (art. 138, § 2º do CPC/2015).
+6.  Nos termos do art. 256-J do Regimento Interno do STJ, assino prazo de 15 (quinze) dias úteis para manifestação nos autos pelo amigo da Corte, em contribuição ao tema a ser debatido no recurso repetitivo.
+7. Publique-se.  Intimações  necessárias.
