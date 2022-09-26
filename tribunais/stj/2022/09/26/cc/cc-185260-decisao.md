@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito de competência suscitado pelo Juízo de Direito da 4ª Vara Criminal de Brasília (DF) em face do Juízo de Direito da 1ª Vara Criminal de Criciúma (SC), nos autos de inquérito que apura a prática de crimes de estelionatocometido por associações e empresas nacionais que realizavam descontos indevidos nos benefícios previdenciários percebidos pelas vítimas.
+OJuízo de Direito da 1ª Vara Criminal de Criciúma, por entender que a consumação dá-se com a obtenção da vantagem ilícita, declinou dacompetência e determinou a remessa dos autos à Comarca deAraranguá, haja vista queuma das empresas, no caso, a Huanae do Brasil Intermediação de Serviços Ltda., possuía sede naquela localidade.
+Por sua vez, oJuízo da 2ª Vara Criminal da Comarca de Araranguá (SC), acolhendo manifestação ministerial, determinou o arquivamento do inquérito policial em relação à investigada Huanae do Brasil Intermediação de Serviços Ltda.e, em relação aos demais investigados, de acordo com o art. 70, caput, do CPP,declinou da competência e determinou a remessa dos autos às Comarcas de São Paulo (SP), Porto Alegre (RS), Belo Horizonte (MG), Curitiba (PR), São Bernardo do Campo (SP), Campo Grande (MS), Rio de Janeiro (RJ) e Brasília (DF).
+Recebidos os autos, oJuízo de Direito da 4ª Vara Criminal de Brasília (DF) declarou-se incompetente e suscitou o presente conflito de competência sustentando que, na hipótese de pluralidade de vítimas, a competência firmar-se-á pela prevençãodo Juízode Direito da 1ª Vara Criminal de Criciúma (SC), nos termos doo § 4º do art. 70 do CPP.
+O Ministério Público Federal se manifestou pelo reconhecimento da competência do Juízo suscitado, por força de sua prevenção para o conhecimento e julgamento do processo.
+É o relatório. Decido.
+O conflito merece conhecimento, uma vez que os Juízos que suscitam a incompetência estão vinculados a Tribunais diversos, sujeitando-se, portanto, à jurisdição do STJ, nos termos do disposto no art. 105,I, d, da Constituição Federal.
+Com razão o MPF, já que a pluralidade de vítimas de estelionato faz com que a competência se firme pela prevenção em favor do primeiro juízo (entre aqueles de residência das vítimas) que tomou conhecimento dos fatos e instaurou o inquérito, de acordo com interpretação sistemática dos dispositivos legais pertinentes (art.70, §§ 3º e 4º, c/c o art. 71, todos do CPP). E, na hipótese, o Juízo de Direito da 1ª Vara Criminal de Criciúma (SC) tornou-se prevento para apuração das condutas delituosas investigadas.
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da 1ª Vara Criminal de Criciúma (SC), o suscitado, para a condução do inquérito e, se for o caso, da subsequente ação penal.
+Comunique-se os Juízos suscitante e suscitado.
+Nada mais havendo a decidir, arquivem-se os autos.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUÍZOS VINCULADOS A TRIBUNAIS DIVERSOS. COMPETÊNCIA DO STJ.ESTELIONATO COM MULTIPLICIDADE DE VÍTIMAS. ARTS. 70, §§3º E 4º, E 71 DO CÓDIGO DE PROCESSO PENAL.CONHECIMENTO INICIAL DO INQUÉRITO. PREVENÇÃO DO JUÍZO.
+1.O Superior Tribunal de Justiça é competente para o julgamento de conflito entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal.
+2. Conforme a nova redação do § 4º do art. 70 do Código de Processo Penal, inserido pela Lei n. 14.155/2021, nos crimes de estelionato, a competência será definida pelo local do domicílio da vítima.
+3. A multiplicidade de vítimasfaz com que a competência se defina pela prevenção, de acordo com o juízo que primeiro tomou conhecimento da prática delituosa, salvo disposição diversa constante nas leis de organização judiciária local, no que diz respeito à natureza da infração (art. 74 do CPP).
+4. Conflito conhecido com o reconhecimento da competência do Juízo de Direito da 1ª Vara Criminal de Criciúma (SC) para o processamento do inquérito e da subsequente ação penal.
