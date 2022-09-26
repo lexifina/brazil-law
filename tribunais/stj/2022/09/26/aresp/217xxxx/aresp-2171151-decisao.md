@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 59, e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. DECISÃO INTERLOCUTÓRIA QUE REJEITOU A IMPUGNAÇÃO APRESENTADA PELA AGRAVANTE E HOMOLOGOU OS CÁLCULOS DA CONTADORIA JUDICIAL. ALEGAÇÃO DE QUE OS CÁLCULOS DA CONTADORIA ESTÃO EM DESACORDO COM A DECISÃO JUDICIAL E IMPLICAM EXCESSO DE EXECUÇÃO. INSUBSISTÊNCIA. JUROS DE MORA SOBRE O VALOR DOS DANOS MATERIAIS, REFERENTES ÀS DESPESAS MÉDICAS E CIRÚRGICAS, QUE, DE ACORDO COM O ACÓRDÃO, DEVERÃO INCIDIR DESDE A DATA DO EVENTO DANOSO, O QUE FOI RESPEITADO PELO CONTADOR. PENSÃO MENSAL QUE TEM COMO BASE O SALÁRIO MÍNIMO E, COM RELAÇÃO ÀS PRESTAÇÕES VENCIDAS, É DEVIDA A CORREÇÃO COM BASE NO ÍNDICE ADOTADO PELA CGJ/SC, A PARTIR DO VENCIMENTO, EXATAMENTE COMO DETERMINADO PELO JUÍZO A QUO, POIS SOBRE O PENSIONAMENTO NÃO HOUVE REFORMA DA SENTENÇA. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+Nas razões do recurso especial, a parte ora agravante alega, além de divergência jurisprudencial, violação ao art. 504, I do Código de Processo Civil de 2015.
+Pede, em síntese, a retificação dos parâmetros da atualização monetária e juros moratórios, para que sejam computados apenas a partir da citação. Assinala que o cumprimento de sentença deve se orientar pelo seu dispositivo, e não pela fundamentação.
+Foram apresentadas contrarrazões às fls. 144/146, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Para melhor compreensão da controvérsia, transcrevo excertos do acórdão proferido pela Corte local (fls. 61/64, e-STJ):
+O recurso atende aos requisitos de admissibilidade e dele conheço.
+Trata-se de agravo de instrumento tendente a atacar decisão interlocutória que, em cumprimento de sentença, rejeitou a impugnação feita pela agravante e homologou os cálculos apresentados pela contadoria judicial.
+Afirma a agravante que a decisão que homologou os cálculos da contadoria causa-lhe prejuízos, pois está em desacordo com o que foi fixado na decisão judicial e implica em excesso de execução.
+Destaco que, mesmo a partir de um exame mais acurado dos elementos coligidos ao caderno processual, não há como chegar a conclusões distintas daquelas já consignadas na decisão monocrática, que denegou a pretendida concessão de efeito suspensivo ao recurso (evento 10). Assim, até mesmo para evitar desnecessária tautologia, reporto-me preponderantemente aos fundamentos declinados naquela ocasião para subsidiar o voto que segue.
+Adianto, portanto, que o recurso não comporta acolhimento.
+Isso porque os cálculos apresentados pela contadoria estão de acordo com o acórdão proferido na ação de conhecimento, por esta Terceira Câmara. Vejamos:
+"Assim, deve a empresa apelante ressarcir a quantia desembolsada pela autora no valor total de 24.650,00 (vinte e quatro mil seiscentos e cinquenta reais), referente às despesas médicas e cirúrgicas, tudo decorrente do sinistro ocorrido, corrigidas a partir do desembolso (Súmula nº 43 do STJ) e acrescidas de juros a contar do evento (Súmula nº 54 do STJ)" (evento 1, Acor 7, p. 12;).
+E conforme informações da contadoria judicial, o cálculo do valor devido foi assim realizado:
+"1) o valor de R$ 4.150,00, referente a reconstrução dentária deve ser corrigido a partir do desembolso ( 10.03.1999), doc, EV.73, Doc. 2, e acrescidas de juros a contar do evento danoso ( 06.02.1999). Decisão do acordão.
+1.1. no mesmo sentido, segue a correção e juros referente a plásticas das cicatrizes R$ 20.500,00, cuja data do desembolso, foi 02/01/2000, documento EV.73, doc.3, já os juros, conforme acordão, segue a data do evento danoso. Como esclareceu a Dra. Juíza no despacho EV.53, dec. 83" (evento 80, inf 4).
+Diante do trecho extraído do acórdão e das informações da contadoria judicial observa-se, de pronto, que não procede a afirmação da agravante de que os juros de mora devem incidir sobre o valor dos danos materiais (relativos às despesas médicas e cirúrgicas) desde a data da citação, pois a decisão colegiada é clara no sentido de que os encargos moratórios deverão ser fixados desde a data do evento danoso, o que foi respeitado pelo contador na realização dos cálculos.
+Nenhuma incorreção no ponto, portanto.
+Com relação ao pensionamento, a decisão colegiada assim dispôs:
+"V. Pensão em decorrência da redução de capacidade laboral  ..  Diante destas considerações, devida a pensão mensal conforme estabeleceu o magistrado, porém vitalícia e com base no salário mínimo integral.
+As prestações vencidas e vincendas serão reajustadas com base na variação do salário mínimo e aquelas acrescidas de juros de mora de 1% a contar de cada vencimento, caso ocorra mora, até a data do pagamento".
+VI. Pensão em decorrência da morte do companheiro
+ ..  Friso, no ponto, que o valor é estabelecido em 1/3 porque, conforme consignado na sentença (fl. 423)  .. " (evento 1, (evento 1, Acor 7, p. 13-14).
+Como não houve reforma da forma de atualização das pensões devidas, elas permanecem como estabelecidas pelo juízo a quo, nos seguintes termos:
+"O valor da pensão, que deverá ser pago todo dia 10 (dez) de cada mês, corresponde ao salário mínimo vigente à época do acidente, devendo ser atualizado de acordo com as correções do salário mínimo promovidas pelo Governo Federal ao longo dos anos;
+As parcelas vencidas devem ser corrigidas monetariamente pelo índice adotado pela CGJ/SC desde cada vencimento  .. " (evento 1, Acor 6, p. 2).
+Como se observa o valor da pensão mensal relativa à redução da capacidade laborativa da parte agravante foi fixado em um salário mínimo, e a pensão mensal relativa à morte do companheiro, em 1/3 do salário mínimo. Sobre as parcelas vencidas de ambos os pensionamentos foi determinada a incidência de correção monetária pelo índice adotado pela CGJ/SC, desde cada vencimento.
+E de acordo com as informações apresentadas pela contadoria judicial, os cálculos relativos ao pensionamento foram realizados da seguinte maneira:
+"2. CALCULO SOBRE A PENSÃO MENSAL: (Neste ponto, tem-se dois cálculos) a) pensão vitalícia pela perda da capacidade/laborativa, e b) a pensão por morte do companheiro, cada uma tem calculo diverso, que deve ser respeitado, sendo:
+2.1. A pensão vitalícia - O acordão n. 2015.070519-9, trouxe mudança significativa neste pensionamento, que assim estabeleceu: "a pensão vitalícia deve ser integral, no valor de 1 (um) salário mínimo mensal, a contar do evento danoso (06/02/1999) até o dia 10 de cada mês, reajustadas com base na variação do salario mínimo, sendo que as vencidas serão acrescidas de juros de mora de 1% a contar de cada vencimento, até a data do pagamento".
+2.2. Pensão por morte - Com relação a pensão por morte, que tem por base 1/3 do salário mínimo, é desde a data do óbito ( 06/02/1999), até a data em que o de cujus completaria 70 anos de idade, conforme consignado no acordão (37) incidindo juros de 1% a contar da citação 10/05/2005), e correção monetária, a contar de cada vencimento, nos termos da sentença (fl.22)" (evento 80, inf 4).
+Portanto, como se observa não há falar em duplicidade de correção do pensionamento, pois o valor devido tem como base o salário mínimo e com relação às prestações vencidas é devida a correção com base no índice adotado pela CGJ/SC, a partir do vencimento.
+Logo, tendo havido o cálculo de acordo com os termos da decisão proferida, não procede a alegação da agravante no sentido de que sofrerá prejuízos diante do excesso de execução.
+Diante do exposto, tenho que a agravante não logrou evidenciar o desacerto da decisão proferida na origem, razão por que, inviável a reforma almejada.
+Ante o exposto, voto no sentido de conhecer do recurso e negar-lhe provimento.
+Verifico, da leitura dos excertos transcritos, que não houve o prequestionamento do dispositivo de lei federal tido como violado - art. 504, I, do Código de Processo Civil de 2015- tampouco foram opostos embargos de declaração para que o colegiado se manifestasse sobre a matéria.
+Incidentes, no ponto, os óbices das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido:
+AGRAVO INTERNO. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE CONTRATUAL COM PEDIDO DE REPETIÇÃO DO INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. FRAUDE NÃO CONSTATADA. EXAME DE MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. NÃO PROVIMENTO.
+1. Não compete a esta Corte Superior a análise de violação a dispositivos constitucionais, sob pena de usurpação da competência atribuída exclusivamente ao STF.
+(..)
+3. Ausente o prequestionamento, exigido inclusive para as matérias de ordem pública, incidem os óbices dos enunciados 282 e 356 da Súmula do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1849689/CE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/8/2020, DJe 14/8/2020)
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. REINTEGRA. VENDAS EFETUADAS NAS ÁREAS DE LIVRE COMÉRCIO-ALC. IMPOSSIBILIDADE DE EXTENSÃO AUTOMÁTICA DO BENEFÍCIO FISCAL. NECESSIDADE DE EXAME DA LEGISLAÇÃO ESPECÍFICA DE CADA ÁREA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Os arts. 356 e 374 do CPC/2015 não foram apreciados pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. Falta, portanto, prequestionamento, indispensável ao acesso às instâncias extraordinárias, ainda que se trate de matéria de ordem pública. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+2. Não obstante o entendimento segundo o qual o benefício do REINTEGRA aplica-se às empresas situadas na Zona Franca de Manaus, esta Corte Superior de Justiça já se manifestou no sentido de que tal benefício não pode ser estendido de forma automática às vendas destinadas a toda e qualquer Área de Livre Comércio-ALC, isso porque cada área possui regulamento próprio.
+3. Assim, ao analisar a legislação específica de cada ALC, o STJ concluiu que apenas as vendas de mercadorias destinadas às empresas situadas nas áreas de Boa Vista/RR e Bonfim/RR são equivalentes a uma exportação; desse modo, o benefício em questão não alcança as mercadorias destinadas às cidades de Guajará-Mirim-RO, Brasiléia-AC, Epitaciolândia-AC e Cruzeiro do Sul-AC. Precedentes: AgInt no REsp 1.898.953/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 26/04/2021, DJe 29/04/2021; e REsp 1.861.806/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 15/09/2020, DJe 21/09/2020.
+4. Agravo interno da contribuinte a que se nega provimento.
+(AgInt no REsp n. 1.867.720/PR, relator Ministro Manoel Erhardt (desembargador Convocado do Trf5), Primeira Turma, DJe de 18/5/2022.)
+Fica prejudicada a análise da divergência jurisprudencial, ante a incidência dos referidos óbices sumulares.
+Assim:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. VIOLAÇÃO AO ART. 1.021, § 4º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALÍNEA "C" PREJUDICADA.
+1. O debate proposto no Recurso Especial não ocorreu no Tribunal de origem. Assim, perquirir, nesta via estreita, ofensa à norma mencionada nas razões recursais, sem explicitação da tese jurídica ora controvertida, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. No ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". No mesmo sentido, os enunciados das Súmulas 211 do STJ e 356 do STF. É assente no STJ o entendimento de que é condição sine qua non para que se conheça do Recurso Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como afrontados.
+2. Fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 1.896.144/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022.)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
