@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de recurso especial, interposto por DELPHI CONSTRUÇÕES S/A, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 22/09/2021.
+Concluso ao gabinete em: 05/07/2022.
+Ação: de indenização por danos materiais e compensação por danos morais movida por CATARINA DA FONSECA ISSA, contra a recorrente, por atraso na entrega de imóvel.
+Sentença: julgou parcialmente procedentes os pedidos da inicial.
+Acórdão: deu parcial provimento à apelação da recorrida e negou provimento à apelação da recorrente, nos termos da ementa:
+"EMENTA:CIVIL, CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS EMORAIS C/C PERDAS E DANOS E LUCROS CESSANTES. SENTENÇA PARCIALMENTE PROCEDENTE. APELAÇÃO INAPLICABILIDADECÍVEL DA DELPHI ENGENHARIA:DO CDC. DESCABIMENTO. ATRASO DECORRENTE DECASO FORTUITO E FORÇA MAIOR. NÃOCONFIGURAÇÃO. INEXISTÊNCIA DE PROVAS NESSESENTIDO. LUCROS CESSANTES NÃO COMPROVADOS. DESCABIMENTO. DANO MATERIAL CONFIGURADO. MODIFICAÇÃO DO INDEXADOR DA CORREÇÃOMONETÁRIA PARA SELIC. IMPOSSIBILIDADE. INEXISTÊNCIA DE SUCUMBÊNCIA RECÍPROCA. PEDIDODE SOBRESTAMENTO DO FEITO. NÃO CABIMENTO. APELAÇÃO DE CATARINA DA FONSECA ISSA:APLICAÇÃO DE MULTA MORATÓRIA. IMPOSSIBILIDADE DE SUA CUMULAÇÃO COM OSLUCROS CESSANTES. PRECEDENTES DO STJ. INDENIZAÇÃO POR DANOS MORAIS. POSSIBILIDADE. PREJUÍZO QUE TRANSCENDE O MEROABORRECIMENTO. PRECEDENTES. APELOSCONHECIDOS, SENDO PROVIDO, PARCIALMENTE,APENAS O INTERPOSTO POR CATARINA DA FONSECAISSA PARA IMPOR CONDENAÇÃO À CONSTRUTORA AOPAGAMENTO DE DANO MORAL NO MONTANTE DE R$6.000,00 (SEIS MIL REAIS). MAJORAÇÃO DOSHONORÁRIOS DE 10% (DEZ POR CENTO) PARA 12%(DOZE POR CENTO) NOS TERMOS DO ARTIGO 85, §11,DO CPC."(e-STJ fl. 305/306)
+Recurso especial: alega violação dos arts. 186, 393, 396, 402, 403, 406, 927 do CC, bem como dissídio jurisprudencial. Sustenta que não deve ser condenada ao pagamento de danos materiais em razão da ocorrência de caso fortuito ou força maior.Alega que a parte contrária não juntou qualquer documento que comprove a realidade do valor do aluguel frente ao mercado imobiliário. Aduz que os documentos juntados pela Recorrida em sua inicial, nem de longe servem para comprovar suas alegações.Defende ser incabível a condenação ao pagamento de compensação por danos morais uma vez que o mero inadimplemento contratual não enseja seu pagamento.Pleiteia a aplicação da Taxa SELIC para os juros moratórios não estipulados entre as partes.Sustenta que, em havendo juros moratórios não convencionados, mas arbitrados pelo Juízo, deve ser aplicada a taxa SELIC, a qual engloba os juros de mora e correção monetária.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou oart. 393 do CPC/2015 (alegação de ocorrência de caso fortuito ou força maior)o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas
+Para acolher a alegação do recorrente no sentido deque a parte contrária não juntou qualquer documento que comprove a realidade do valor do aluguel frente ao mercado imobiliário e que os documentos juntados pela Recorrida em sua inicial, nem de longe servem para comprovar suas alegaçõesexige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Do inadimplemento contratual e do dano moral
+O entendimento do STJ é no sentido de que, embora possa ensejar reparação por danos materiais, o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais, devendo haver consequências fáticas capazes de ensejar o dano moral.
+Nesse sentido: AgInt no REsp 1715930/RO, Terceira Turma, Dje de 01/07/2019 e AgInt no AREsp 1430928/SP, Quarta Turma, Dje de 28/06/2019.
+No entanto, na hipótese dos autos, ficou consignado no acórdão recorrido acerca do extenso atraso de 23 meses na entrega do imóvel, situação que extrapola o mero aborrecimento decorrente do atraso na entrega do imóvel.
+Logo, o recurso deve ser mantido no ponto, com fundamento na Súmula 568/STJ.
+- Da jurisprudência do STJ (Taxa Selic)
+A jurisprudência vigente no Superior Tribunal de Justiça se posiciona no sentido de que a taxa de juros de mora disciplinada no art. 406 do CC/02 refere-se à SELIC, a qual deve ser aplicada nas atualizações das condenações impostas pelas decisões judiciais.
+Nesse sentido: REsp 1.111.118/PR, Corte Especial, DJe 02/09/2010
+Portanto, o acórdão recorrido deve ser modificado nesse ponto, para determinar a incidência da Taxa Selic como juros de mora e índice de correção monetária, que devem incidir a partir da citação, para as condenaçõesde indenização por danomaterial e compensação por dano moral, com fundamento na Súmula 568/STJ.
+- Da divergência jurisprudencial
+Quanto à insurgência recursal veiculada pela alínea "c" do permissivo constitucional, verifica-se que a parte agravante, na petição do recurso especial, limitou-se a colacionar ementas de julgados que entendeu divergentes, sem demonstrar, de maneira analítica, a similitude fática entre os arestos, a reclamar unidade de julgamento.
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO, para determinar a incidência da Taxa Selic como juros de mora e índice de correção monetária, que devem incidir a partir da citação, para as condenações de indenização por dano material e compensação por dano moral.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.INADIMPLEMENTO CONTRATUAL. DANO MORAL CONFIGURADO. HIPÓTESE EXCEPCIONAL. COMEPENSAÇÃO DEVIDA.ART. 406 DO CC/02. JUROS DE MORA. CORREÇÃO MONETÁRIA. TAXA SELIC.
+1. Ação de indenização por danos materiais e compensação por danos morais por atraso na entrega de unidade habitacional.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Modificar a conclusão do Tribunal de origem implica reexame de fatos e provas.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A jurisprudência desta Corte Superior é no sentido de que "o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais, salvo se as circunstâncias do caso concreto demonstrarem a efetiva lesão extrapatrimonial" (AgInt no REsp 1.719.311/SP, Terceira Turma, DJe de 28/05/2018).
+6. A jurisprudência vigente no Superior Tribunal de Justiça se posiciona no sentido de que a taxa de juros de mora, disciplinada no art. 406 do CC/02, refere-se à SELIC, a qual deve ser aplicada nas atualizações das condenações impostas pelas decisões judiciais.
+7. Recurso parcialmente conhecido e, nesta extensão, parcialmente provido.
