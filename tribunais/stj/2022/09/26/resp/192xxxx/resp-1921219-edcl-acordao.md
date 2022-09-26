@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de embargos de declaração opostos por Gisele Orlandi Introni contra acórdão prolatado pela Eg. Primeira Turma, assim ementado (fl. 624):
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. ADICIONAL DE INSALUBRIDADE. TERMO INICIAL. DATA DO LAUDO PERICIAL. PRECEDENTES.
+1. Ressalte-se que ""o pagamento de adicional de insalubridade ou periculosidade está condicionado ao laudo que prova efetivamente as condições insalubres ou perigosas a que estão submetidos os servidores, de modo que não cabe seu pagamento pelo período que antecedeu a perícia e a formalização do laudo comprobatório, devendo ser afastada a possibilidade de presumir insalubridade em épocas passadas, emprestando-se efeitos retroativos a laudo pericial atual". Nesse sentido, assim decidiu recentemente a Primeira Seção do STJ, no julgamento do PUIL 413/RS (Rel. Min.Bendito Gonçalves, DJe de 18/4/2018) (Grifei). Dessa forma, é de se esclarecer que o termo a quo do adicional de insalubridade ou periculosidade é da data do laudo em que o perito efetivamente reconhece que o embargante exerceu atividades periculosas." ( EDcl no REsp 1755087/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/8/2019, DJe 5/9/2019).
+2. Agravo interno não provido.
+Em suas razões, a parte embargante sustenta que "Há pequena obscuridade na decisão, eis que desconsidera que a negativa da insalubridade da autora na via administrativa não foi por ausência da exposição, mas por considerar que a exposição não era suficiente a ensejar o pagamento do adicional, conforme PROCADM13, evento 1. Inclusive, para essa conclusão deve ter sido elaborado laudo, que jamais foi juntado pela UFCSPA.A decisão acabou por julgar uma controvérsia inexistente, pois não se pretende nenhum efeito retroativo ao laudo pericial produzido nos autos, Excelências, mas apenas que o reconhecimento da insalubridade pela Universidade surta os devidos efeitos pecuniários, sem restrições de tempo. Ora, o debate é sobre a duração da exposição a agentes insalubres e não sobre a exposição em si. Ou seja, se a exposição é incontroversa desde 05/2012 (e é), deve ocorrer o pagamento dos atrasados desde então." (fls. 633/634).
+Defende que, "se a ré reconhece a exposição desde 05/2012 e o laudo produzido nos autos (2014) atesta essa insalubridade, seria adequado permitir que a mora intencional da Universidade na produção de um laudo seja um ônus da servidora Note-se que o laudo pericial só foi produzido porque a autora ingressou com a ação e requereu a produção de prova pericial, havendo nítida ofensa ao art. 69 da Lei 8.112/90." (fl. 634).
+Assevera, ainda, que, "mesmo que se entenda que a UFCSPA não reconheceu a insalubridade em 05/2012, o recurso especial interposto deve ser acolhido para reconhecer o direito da autora ao recebimento da insalubridade ao menos desde 04/2014, eis que incontroverso que a exposição restou atestadanesta data pelo laudo produzido nos autos (já que até hoje a Universidade não se deu ao trabalho de elaborar um laudo, reiteradamente negando vigência ao art. 69 da Lei 8.112/90)." (fls. 635/636).
+Alega, por fim, que "a sucumbência deve ser mantida em seu favor, eis que se não fosse pela ação judicial a UFCSPA seguiria sem elaborar laudo (jamais juntou algum desde o ajuizamento da demanda em 2013) e a autora jamais receberia a insalubridade - que por sinal segue sem receber, mesmo diante do laudo judicial." (fl. 636).
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS.IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios emquestão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou devidamente consignadono aresto hostilizado o provimento do recurso especial manejado pela parte ora embargada, uma vezque o acórdão recorrido diverge da jurisprudência desta Corte, firme no sentido de quepagamento do adicional de insalubridade tem como termo inicial o laudo que comprova efetivamente as condições insalubres ou perigosas a que estão submetidos os servidores.
+A propósito, confiram-se os seguintes trechos do acórdão embargado (fls. 573/574):
+Com efeito, extrai-se do aresto recorrido a seguinte fundamentação (fls.342/346):
+Quanto ao mérito, a controvérsia a ser solvida cinge-se a averiguar acerca da
+possibilidade de pagamento à parte autora do adicional de insalubridade em grau máximo.
+A questão fora bem solvida pela sentença de e. julgadora a quo, assim que, a fim de evitar a tautologia, peço vênia para agregar sua fundamentação às minhas razões de decidir, in verbis:
+(..)
+Com efeito, a sentença está de acordo com o laudo pericial que confirmou, no caso concreto, a exposição habitual da parte autora a agentes químicos e biológicos, passíveis de serem suas atividades enquadradas nos termos da portaria nº 3214/78 do Ministério do Trabalho, na NR-15, anexo 13 e 14, fazendo jus, portanto, à insalubridade em grau máximo.
+Logo, em que pesem os argumentos expendidos pela Fundação em suas razões de apelação, é imperativa a concessão do adicional de insalubridade, em grau máximo, durante o lapso pretendido, uma vez que no momento temporal almejado a servidora já estava sujeita a condições adversas que propiciavam a percepção da vantagem, pois desenvolve as mesmas atividades desde a sua admissão (em maio de 2012).
+Trilhando semelhante sentido:
+(..)
+Friso que se deve distinguir, de um lado a existência do direito do servidor público e, de outro, a prova do direito. Isso porque, se, ao requerer o benefício, o servidor já havia cumprido os requisitos necessários ao recebimento, nada mais está a trilhar do que o exercício de um direito do qual já era titular.
+Portanto, ainda que a ré sustente que a habitualidade não atinge a situação de servidores que se expõem a agentes insalubres em tempo inferior à metade da jornada de trabalho, a perícia, realizada sob o crivo do contraditório, demonstrou a exposição em 25 horas semanais, de maneira intermitente, sendo a procedência do pedido medida impositiva.
+A propósito:
+(..)
+Destarte, verifica-se que o entendimento adotado pelo Tribunal de origem diverge da jurisprudência desta Corte, firme no sentido de que ""o pagamento de adicional de insalubridade ou periculosidade está condicionado ao laudo que prova efetivamente as condições insalubres ou perigosas a que estão submetidos os servidores, de modo que não cabe seu pagamento pelo período que antecedeu a perícia e a formalização do laudo comprobatório, devendo ser afastada a possibilidade de presumir insalubridade em épocas passadas, emprestando-se efeitos retroativos a laudo pericial atual". Nesse sentido, assim decidiu recentemente a Primeira Seção do STJ, no julgamento do PUIL 413/RS (Rel. Min. Bendito Gonçalves, DJe de 18/4/2018) (Grifei). Dessa forma, é de se esclarecer que o termo a quo do adicional de insalubridade ou periculosidade é da data do laudo em que o perito efetivamente reconhece que o embargante exerceu atividades periculosas." (EDcl no REsp 1755087/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/08/2019, DJe 05/09/2019).
+Em reforço:
+(..)
+ANTE O EXPOSTO, dou provimento ao recurso especial, nos termos da fundamentação. Ônus sucumbenciais invertidos.
+No mais, a verificação da arguição de que "o recurso especial interposto deve ser acolhido para reconhecer o direito da autora ao recebimento da insalubridade ao menos desde 04/2014, eis que incontroverso que a exposição restou atestada nesta data pelo laudo produzido nos autos (já que até hoje a Universidade não se deu ao trabalho de elaborar um laudo, reiteradamente negando vigência ao art. 69 da Lei 8.112/90),"demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessáriamanifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo nomesmo julgado, gerando ilogicidade ao texto. Mas desse problema não seressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES,PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
