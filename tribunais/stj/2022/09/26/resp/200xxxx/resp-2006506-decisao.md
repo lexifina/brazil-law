@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão assim ementado (e-STJ, fl. 273):
+EMENTA: APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO.CÉDULA DE CRÉDITO RURAL. JUROS REMUNERATÓRIOS.AUSÊNCIA DE VIOLAÇÃO AO DEVER DE INFORMAÇÃO.INSTRUMENTO CONTRATUAL CLARO. INEXISTÊNCIA DE CLÁUSULAS NULAS POR ABUSIVIDADE. EXCESSO DE EXECUÇÃO NÃO DEMONSTRADO. SENTENÇA MANTIDA.RECURSO CONHECIDO E IMPROVIDO.
+1. O pacto firmado pelas partes contém todos os encargos previamente definidos, constituindo-se em título executivo extrajudicial, dotado de exigibilidade e liquidez, não havendo que se falar em violação ao dever de informação.
+2. Inexistindo comprovação de abusividade da taxa de juros remuneratórios, estes devem ser mantidos conforme contratado.
+3. Nos contratos bancários firmados após a entrada em vigor da Medida Provisória n. 1.963-17/2000 (reeditada sob o n. 2.170- 36/2001), a jurisprudência unânime do Superior Tribunal de Justiça só vem admitindo esse encargo em periodicidade inferior à anual, se expressamente pactuado (STJ, REsp. n. 817530/RS).
+4. Não se vislumbra excesso de execução quando nos cálculos elaborados pelo recorrente, este deixa de levar em consideração os encargos previstos no contrato.
+5. Recurso conhecido e improvido. Sentença mantida.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte recorrente aponta violação aos arts.1.022, II,489, § 1º, IV, e1.013 e incisos, do Código de Processo Civil; aos arts. 4º, I, 46, 47, 39, inciso I, 51, I, II, III, do Código de Defesa do Consumidor;bem como divergência jurisprudencial.
+Sustenta que houve negativa de prestação jurisdicional, porquanto"ao negar provimento à Apelação do Recorrente, o Tribunal acabou por infringir os artigos acima colacionados, pois não se manifestou em relação aos argumentos apresentados no apelo dos mesmos, deixando ainda de aprecia-los, os quais poderiam, de fato, infirmar a conclusão adotada pelo julgador" (e-STJ, fl. 341).
+Aduz que houve violação ao dever de informação, pois a recorrente nem sequer conhece os valores indicados e cobrados desde o início da relação comercial.
+Afirma que "acobrança das tarifas sem a ciência e anuência da contratante, viola frontalmente o disposto nos artigos 39, 51, 46 e 47, ambos do Código de defesa do Consumidor, pois deixou de observar que no contrato de adesão possui cláusulas relativas ao fornecimento de produtos e serviços" (e-STJ, fl. 341).
+Defende a restituição em dobro em razão da cobrançaindevida da tarifa de cadastro e registro de contrato.
+Alega que não há previsão de capitalização mensal de jurose que houve venda casada de seguro.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Com relação à ofensa aos arts. 1.022, II, e 489, § 1º, do CPC, verifico que não é omisso, nem carece de fundamentação a decisão judicial que, embora decida em sentido contrário aos interesses da parte, examina suficientemente as questões que lhe foram propostas, adotando entendimento que ao órgão julgador parecia adequado à solução da controvérsia. Assim:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. REGULAR PRESTAÇÃO JURISDICIONAL. INÉPCIA DA INICIAL. HONORÁRIOS. COMPENSAÇÃO.
+1. Ausência de violação dos artigos 489 e 1.022 do Código de Processo Civil, pois, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada.
+2. Inviabilidade de acolher a alegação de inépcia da inicial, pois a convicção formada pela Corte local decorreu dos elementos existentes nos autos, os quais não são possíveis de ser reexaminados nesta via especial. Incidência da Súmula 7/STJ.
+3. Fixada a compensação de honorários na vigência do CPC/1973, deve ser mantida já que acolhida até então pelo ordenamento jurídico, conforme elucidado no enunciado da Súmula n. 306/STJ, tendo em vista que a sucumbência é regida pela lei vigente à data da deliberação que a impõe ou modifica.
+4. Agravo interno não provido.
+(AgInt no AREsp 1131853/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/2/2018, DJe 16/2/2018)
+No caso, o Tribunal local, ao analisar o instrumento contratual, reconheceu que todas as informações estavam devidamente esclarecidas, e consignou ainda que a capitalização mensal de juros foi pactuada e queinexiste abusividade dos encargos contratuais, porquanto nos cálculos elaborados pelo exequente não foram levados em conta os encargos previstos no contrato. Assim se manifestou o acórdão recorrido (e-STJ, fls. 265/267):
+A parte recorrente defendeu a ocorrência de violação ao dever de informação no contrato celebrado. Entretanto, analisando detidamente, o instrumento pactual, tenho que todas as informações e condições estão devidamente esclarecidas, estando discriminado o valor do crédito concedido, a taxa de juros, a periodicidade da capitalização, o custo efetivo total, a data de vencimento da primeira e da última parcela.
+Noutra esfera, mostra-se indiscutível, in casu, a aplicação do Código de Defesa do Consumidor, conforme entendimento cristalizado na Súmula nº297 do Superior Tribunal de Justiça: "O Código de Defesa do Consumidor é aplicável às instituições financeiras."
+Em que pese a recorrente alegue ausência de liquidez do título executivo, por não constar o valor da taxa de remuneração, sabe-se que o valor da taxa é divulgado no site do recorrido, conforme consta no contrato, sendo que tal previsão se justifica porque só será devido em caso de inadimplemento.
+Quanto ao excesso de execução, inexiste abusividade dos encargos contratuais, mormente porque verifica-se que nos cálculos elaborados pela recorrente e constante na planilha da inicial, não fora levando em conta os encargos previstos no contrato, tendo aplicado juros legais, os quais são inaplicáveis ao caso.
+As instituições financeiras não se sujeitam à limitação dos juros prevista na Lei de Usura (Súmula 596/STF), bem como à previsão de juros remuneratórios não superiores a 12% (doze por cento) ao ano, do que se conclui que tal ocorrência por si só, não implica no reconhecimento de abusividade, conforme Súmula nº 382 do C. Superior Tribunal de Justiça: "A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade" e julgamento proferido em sede de Recurso Repetitivo -Resp 1061530.
+Neste sentido o C. Superior Tribunal de Justiça decidiu em sede de julgamento do Recurso Especial Repetitivo:
+(..)
+No tocante à ilegalidade da capitalização mensal de juros, cumpre registrar que nos contratos bancários firmados após a entrada em vigor da Medida Provisória n. 1.963-17/2000 (reeditada sob o n. 2.170-36/2001), a jurisprudência unânime do Superior Tribunal de Justiça só vem admitindo esse encargo em periodicidade inferior à anual, se expressamente pactuado (STJ,REsp. n. 817530/RS).
+No caso dos autos, o contrato foi firmado após a entrada em vigor da Medida Provisória n. 1.963-17/2000; e, ainda, vejo que há previsão expressa de capitalização no item 9, na parte que trata sobre os juros, não havendo, então, o que se falar em ilegalidade.
+Portanto, a manutenção da sentença é medida que se impõe.
+Verifico que alterar a conclusão do acórdão recorrido, para reconhecer o excesso de execução, demandaria o reexame do conjunto fático probatório, bem como a interpretação das cláusulas contratuais, oque encontra óbice no enunciado das Súmulas n. 5 e7 do STJ. Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pela parte recorrente quanto à confissão confissão de dívida, à novação e à consequente inexistência de excesso de execução demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.039.310/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022.)
+Em face do exposto, nego provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
