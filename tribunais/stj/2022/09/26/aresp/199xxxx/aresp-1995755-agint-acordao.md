@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto pelaEDP SÃO PAULO DISTRIBUIÇÂO DE ENERGIA S.A.contra decisão de e-STJ fls. 170/172, que conhecido agravo para não conhecerdorecurso especial, considerando a incidência das Súmulas 284 e 735 do STF, além do verbete da Súmula7 do STJ.
+Sustenta a parte recorrenteque o objeto do recurso especial não requer reexame de fatos e provas, de modo que não há incidência do enunciado da Súmula 7 desta Corte, "poisas consequências jurídicas decorrem da qualificação de fatos incontroversos." (e-STJ fl. 178).
+Defende, também, que não há ensejo para aplicação da Súmula 735 do STF, sob o argumento de que "a liminar deferida nos autos de origem e discutida no apelo especial afronta diretamente o recente entendimento pacificado desta Col. Corte, por meiodo Tema699, que trata do: "Fornecimento de energia elétrica.Débitos do consumidor. Fraude no medidor de consumo. Corte administrativo do serviço. Possibilidade. Critérios." (e-STJ fls. 179/180).
+No mais, reitera as razões de mérito do apelo raro.
+Impugnação apresentada àe-STJ fl. 184.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. TUTELA DE URGÊNCIA.NATUREZA PRECÁRIA E PROVISÓRIA. REAVALIAÇÃO. INADMISSIBILIDADE.
+1. É firme a orientação jurisprudencial desta Corte acerca da impossibilidade de se rever, em recurso especial, a existência dos requisitos suficientes para a concessão de medida urgente, em razão do óbice da Súmula 7 do STJ, bem assim da Súmula 735 do STF.
+2.A natureza precária e provisória do juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal:"causas decididas em única ou última instância."
+3.Agravo interno desprovido.
+VOTO
+Nada obstante o arrazoado da peça recursal, adecisão recorrida não merece reparos.
+De fato, como ali anotado,o acórdão impugnado foi prolatado em sede de tutela provisória, de modo que, nos termos da pacífica jurisprudência desta Corte Superior, há impossibilidade de reexame da presença dos pressupostos para a concessão ou negativa da tutela antecipada no âmbito do recurso especial, seja em face da necessária incursão na seara fática da causa, seja em razão da natureza perfunctória do provimento, que não representa manifestação definitiva da Corte de origem sobre o mérito da questão, o que atrai a incidência analógica da Súmula 735 do STF e o óbice da Súmula 7 do STJ
+Isso porque a natureza precária e provisória do juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal:"causas decididas em única ou última instância."
+Acerca do tema, conferir os seguintes julgados:REsp 1.706.944/SP, rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 12/12/2017, DJe 19/12/2017; AgRg no REsp 1.530.120/SC, rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, DJe 1º/03/2016; AgRg no AREsp 235.239/RJ, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 05/02/2016;AgInt no REsp 1.554.028/PE, rel.Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 14/06/2016, DJe 24/06/2016;e AgRg no AREsp 714.049/MG, rel. Ministro HUMBERTO MARTINS, Segunda Turma, julgado em 05/04/2016, DJe 13/04/2016.
+É certo que esta Corte de Justiça admite a mitigação do Enunciado 735 do STF, especificamente nas hipóteses em que a própria medida limitar importe em ofensa direta à lei federal que disciplina a tutela provisória (art. 273 do CPC/1973 ou art. 300 do CPC/2015), por exemplo, quando houver norma proibitiva da sua concessão.
+Vale dizer: "apenas a violação direta do dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa" (AgInt no REsp 1.179.223/RJ, rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 15/03/2017).
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
