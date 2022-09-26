@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por TG RIO DE JANEIRO EMPREENDIMENTOS IMOBILIÁRIOS S.A.. contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (e-STJ, fls. 431/432):
+Apelação cível. Ação de rescisão contratual c/c repetição de indébito e indenizatória. Promessa de compra e venda. Alegação de atraso na entrega dos imóveis. Sentença de procedência que rescinde os contratos, condenando a ré a devolver todos os valores ao autor, bem como a pagar multa contratual, a ser apurada no período de janeiro de 2015 até 30 de junho de 2016, e danos morais, fixados em R$ 8.000,00. Apelo da ré. Atraso que restou incontroverso, contudo, o acervo probatório demonstra que o pedido de rescisão tem por fundamento o desinteresse do autor em manter o negócio jurídico. Notificação extrajudicial enviada um mês e meio após a concessão do habite-se que objetiva negociar o preço para quitar o imóvel, ao argumento de suposta desvalorização causada pelo atraso. Demanda ajuizada depois de finda a mora da construtora. Aplicação da súmula nº 543 do STJ. Devolução parcial das quantias pagas. Cláusula contratual que dispõe sobre a retenção de 60%. Percentual que não condiz com os patamares indicados pela jurisprudência do STJ. Devolução que deve compreender 80% do valor pago e ser realizada em parcela única. Termo inicial dos juros que compreende a data do trânsito em julgado da decisão. REsp nº 1.740.911/DF, apreciado pela sistemática dos repetitivos. Aplicação da multa contratual que se afasta. Danos morais não configurados. Sentença que se reforma. Recurso parcialmente provido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a recorrente afirma, a par de dissídio jurisprudencial,a necessidade de majoração do percentual de retenção, nos termos da Súmula 543 do STJ, uma vez que a resilição do contrato se deu por culpa da recorrida.
+As contrarrazões foram apresentadas.
+O recurso especial não foi admitido em virtude do óbice da Súmula 284 do STF.
+Neste agravo, a agravante afirma que não incide o óbice da Súmula 284 do STF, sustentando que os artigos violados foram analisados em sede de apelação e de embargos de declaração.
+Assim delimitada, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse não merece provimento, senão vejamos.
+É assente no Superior Tribunal de Justiça que a interposição do recurso especial, requer a indicação de quais dispositivos de lei federal entende-se por violados, que dão suporte ao dissídio jurisprudencial, de modo a permitir o conhecimento do recurso especial com espeque na alínea "a" do inciso III do artigo 105 da Constituição Federal.
+A pretensão de reconhecimento de julgamento contrário à jurisprudência do STJ, no que se refere à retenção do valor pago em caso de rescisão do contrato por culpa do comprador, portanto, não pode ser conhecida, uma vez que não foram especificados quais artigos teriam sido violados e não supre esse requisito a mera alegação, nas razões do agravo, de que toda a lei foi violada.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DE SERVIÇO MÉDICO. DANO MORAL. NEXO CAUSAL. SÚMULA 7 DO STJ. VALOR DO QUANTUM INDENIZATÓRIO. SÚMULAS 284 DO STF E 7 DO STJ. MULTA DO ART. 1.021, §4º, DO CPC. NÃO INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o reexame de provas, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+2. A ausência de indicação de dispositivo de lei federal violado ou a que se tenha dado interpretação divergente pelo acórdão recorrido caracteriza a deficiência de fundamentação a inviabilizar a abertura da instância especial. Aplicação da Súmula 284/STF.
+ ..
+(AgInt no REsp 1762192/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/11/2021, DJe 25/11/2021)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
