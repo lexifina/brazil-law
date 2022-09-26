@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo Interno interposto pelo ESTADO DO RIO GRANDE DO SULcontra decisão que deu parcial provimento ao seu recurso especial(fls. 358/363e).
+Sustenta oAgravante, em síntese, que "a decisão unipessoal deixou de ordenar a devida inversão dos ônus sucumbenciais, apenas nesse ponto merecendo ser reconsiderada ou reformada" (fl. 368e).
+Sem impugnação (fl. 372e).
+Feito o breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O Agravo Interno não pode ser conhecido, porquanto nítida a intenção de utilizá-lo como embargos de declaração para sanareventual omissão, uma vez que, segundo o Agravante,"a decisão unipessoal deixou de ordenar a devida inversão dos ônus sucumbenciais" (fl. 368e).
+Nesse aspecto, "oagravo interno não é o recurso cabível para apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015" (1ª Seção, AgInt na ExeMS 20.774/DF, Rel. Min. Sérgio Kukina, j. 15.03.2022, DJe 21.03.2022).
+A aplicação do princípio da fungibilidade depende do preenchimento dos seguintes requisitos, não cumpridos, no caso concreto: i) dúvida objetiva quanto ao recurso a ser interposto; ii) inexistência de erro grosseiro; e iii) o recurso interposto erroneamente apresentado no prazo daquele que seria o correto.
+Não existe dúvida objetiva quanto ao recurso a ser interposto, configurando-se erro grosseiro do Agravante a tentativa de sanar obscuridadevia agravo interno.
+Outrossim, considerando que oRecorrente foi intimado da decisão monocrática em 13.6.2022 (fl. 365e) e o agravo interno protocolado apenas em 24.8.2022 (fl. 367e), conclui-se ser inviável receber tal impugnação como embargos de declaração, tendo em vista a ausência de preenchimento do requisito da tempestividade.
+Na mesma linha:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. AUSÊNCIA DE IMPUGNAÇÃO DA DECISÃO AGRAVADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ART.1021, § 1º, DO CPC/2015 E ART. 259, § 2º, DO RISTJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão ora agravada conheceu parcialmente do recurso especial e, nessa extensão, deu-lhe provimento para afastar a VPE, a GCEF e a GRV, instituídas pelas Leis nº 11.134/2005 e nº 12.086/2009, aos militares inativos e pensionistas do antigo Distrito Federal.
+2. Nas razões do presente agravo interno, contudo, a agravante limitou-se a afirmar que não houve a inversão da sucumbência e nem a fixação de honorários advocatícios, os quais deveriam ser arbitrados de acordo com as regras previstas no art. 85 do CPC/2015. Nota-se que a agravante não impugnou os fundamentos da decisão ora agravada, sendo inviável, pois, o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015 e do art. 259, § 2º, do RISTJ, ante o descumprimento do ônus da dialeticidade.
+3. A agravante pretende, por meio de agravo interno, que seja sanada suposta omissão do decisum, procedimento inviável na via eleita. Ademais, importante destacar que não é possível a aplicação do princípio da fungibilidade recursal para receber o agravo interno como embargos de declaração, tendo em vista que a União foi intimada em 08/10/2018 (e-STJ fl. 487) e o agravo interno foi interposto somente em 16/11/2018 (e-STJ fl.
+490), ou seja, quando já esgotado o prazo para a oposição dos embargos de declaração, que se encerrou em 23/10/2018.
+4. Agravo interno não conhecido.
+(AgInt no AREsp 1357016/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 12/02/2019, DJe 19/02/2019).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APONTADA OMISSÃO NA DECISÃO AGRAVADA. FALTA DE ADEQUAÇÃO RECURSAL. FALTA DE PREQUESTIONAMENTO DOS ARTS. 154, 264, 614, I, E 618, I, DO CPC. SÚMULA 211/STJ. ALEGADA QUESTÃO DE ORDEM PÚBLICA. NECESSIDADE DE PREQUESTIONAMENTO. PROVIMENTO NEGADO.
+1. A alegação de que não teriam sido apreciados temas devidamente trazidos nas razões do recurso especial não merece ser conhecida. Tal insurgência deveria ter sido objeto da oposição de embargos de declaração (art. 535 do CPC), não cabendo sua veiculação em sede de agravo regimental, em obediência ao princípio da adequação recursal.
+2. A jurisprudência desta Corte é firme no sentido de que, na instância especial, é vedado o exame de questão não debatida na origem, ainda que se trate de matéria de ordem pública.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 644.851/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/10/2015, DJe 25/11/2015, destaquei).
+Posto isso,com fundamento no art. 932, III, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, NÃO CONHEÇO do Agravo Interno.
+Publique-se. Intime-se.
