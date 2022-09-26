@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Os autos noticiam que GAFISA S.A. (GAFISA) interpôs agravo de instrumento contra decisão proferida nos autos da execução por título extrajudicial proposta por EBT FUNDO DE INVESTIMENTO IMOBILIÁRIO (EBT) e o FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII BTG PACTUAL CORPORATE OFFICE FUND (BTG), que lhe aplicou multa por ato atentatório àjustiça e permitiu a busca de bens de suas subsidiárias.
+O Tribunal de Justiça de São Paulo negou provimento ao recurso, em acórdão proferido pelo Desembargador MARIO A. SILVEIRA, assim ementado:
+AGRAVO DE INSTRUMENTO - Interposição contra decisão que aplicou multa por ato atentatório à justiça à agravante e admitiu a realização de pesquisas para a localização de bens de suas empresas subsidiárias. Possibilidade de pesquisa de ativos financeiros das subsidiárias da agravante. Empresas de propósito específico, com capital social, majoritariamente, composto pela agravante executada. Ato atentatório à dignidade da justiça. Multa bem aplicada. Decisão mantida. Agravo de instrumento não provido. (e-STJ, fl. 1.012)
+Opostos embargos de declaração, foram rejeitados.
+Contra esses julgados a GAFISA manejou recurso especial fundamentado na alínea a do permissivo constitucional, alegando (1) violação do art. 774, IV, do NCPC, por não ter praticado nenhum ato tendente a ocultação do patrimônio, razão pela qual não lhe pode ser imposta multa por ato atentatório àdignidade da justiça; e(2) ofensa aos arts. 133 e 506, ambos do NCPC, 31-A da Lei n.º 4.591/64 e 50, caput § 4º, do CC/02, diante da impossibilidade de suas subsidiárias responderem pelo débito sem antes se proceder àdesconsideração da personalidade jurídica.
+Foram apresentadas contrarrazões.
+Inadmitido pelo juízo prévio de admissibilidade, foi apresentado o correspondente agravo.
+Contraminutado, os autos vieram para este Superior Tribunal.
+Na petição de, e-STJ, fls. 1.170/1.183, a GAFISA postulou a concessão de efeito suspensivo ao seu apelo nobre.
+Monocraticamente, não vislumbrando a prática de atos atentatórios à dignidade da justiça para a aplicação da multa, assim como a impossibilidade de bloqueio de bens de terceiro sem o correspondente contraditório ou o procedimento da desconsideração da personalidade jurídica da empresa executada, deferi o pedido de concessão de efeito suspensivo ao apelo nobre e, para melhor análise da controvérsia, determinei a conversão do agravo em recurso especial.
+Daí a interposição deste agravo interno pelo BTG, em que defende a inexistência de periculum in mora e do fumus boni iuris para o deferimento do efeito suspensivo, uma vez que a GAFISA, após perder o prazo para a oposição dos embargos de devedor, opôs exceção de pré-executividade alegando questões de mérito, alheios ao cabimento do incidente, além de, apesar de reconhecer parte considerável do débito, deixade cumprir as determinações judiciais de pagamento ou oferece garantia do juízo, oculta seus bens dos credores e do Judiciário e ressalta que a multa não ocorreu de forma automática, mas decorrente dos atos por ela praticados objetivando esquivar-se das ordens judiciais. Enfatiza que a GAFISA é detentora da totalidade das ações das subsidiárias, razão pela qual não pode ser alegado que patrimônio de terceiro estaria sendo bloqueado sem o devido processo legal.
+Requer, ao final, a reconsideração da decisão agravadaou o provimento do recursopara que sejam mantidos atos executórios de origem em relação às empresas subsidiárias e seja mantida a multa por ato atentatório à dignidade da justiça em razão da conduta acintosa da Agravada (e-STJ, fl. 1.218).
+Impugnação às, e-STJ, fls. 1.231/1.246.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA PROVISÓRIA. EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. MULTA POR ATO ATENTATÓRIO DA JUSTIÇA. AUSÊNCIA DE DOLO E PRÁTICA DE ATOS PROCESSUAIS LEGALMENTE PREVISTOS. BUSCA DE BENS EM NOME DE TERCEIROS VINCULADOS AO EXECUTADO. NECESSIDADE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA E DO CONTRADITÓRIO. FUMUS BONI IURIS E PERICULUM IN MORA. RECONHECIMENTO. EFEITO SUSPENSIVO CONCEDIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Admite-se a concessão de efeito suspensivo ao recurso especial quando demonstrada a presença do fumus boni iuris e do periculum in mora.
+3. A multa por ato atentatório àdignidade da justiça pressupõe a presença de conduta dolosa ou culposa do agente. Além disso, a interposição de recursos cabíveis não implica litigância de má-fé nem ato atentatório à dignidade da justiça.
+4. A busca de bens de terceiros vinculados a pessoa jurídica executada exige que seja previamente realizada a desconsideração da sua personalidade jurídica, a teor do art. 50 do CC/02.
+5. O prosseguimento da execução, com atos de constrição, tem o condão de causar dano de difícil reparação aos terceiros não integrantes da lide.
+6. Agravo interno não provido.
+VOTO
+O recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A pretensão recursal está no reconhecimento de que não houve a demonstração do periculum in mora e do fumus boni iuris necessários para a concessão do efeito suspensivo ao recurso especial.
+No apelo nobre, a GAFISA se insurge contra a aplicação da multa por ato atentatório à dignidade da justiça e da determinação de busca de bens penhoráveis de suas subsidiárias.
+A multa por ato atentatório àdignidade da justiça pressupõe a presença de conduta dolosa ou culposa do agente (REsp n.º 1.823.926/MG, relatora Ministra NANCY ANDRIGHI, Terceira Turma, DJe de 16/9/2020 e AgInt no AREsp n.º 1.550.744/RJ, relator Ministro RAUL ARAÚJO, Quarta Turma, DJe de 15/9/2020).
+Além disso, a interposição de recursos cabíveis não implicam litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo (AgInt no AREsp 1.852.271/AL, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 9/9/2021).
+No ponto, a penalidade foi arbitrada porque a GAFISA, executada, teria oposto exceção de pré-executividade para discussão do débito, além de não ter, apesar de intimada, se manifestado quanto a indicação de bens penhoráveis.
+Ao analisar o pedido de concessão de efeito suspensivo ao recurso especial da GAFISA, em uma análise perfunctória, me pareceu que os atos imputados não seriam aptos para a caracterização da multa, vislumbrando que a executada fez uso dos meios jurídicos legalmente previstos para sua defesa.
+No que toca a busca de bens de terceiros, vinculados a pessoa jurídica executada, exige-se que seja previamente realizada a desconsideração da sua personalidade jurídica, a teor do art. 50 do CC/02.
+Ademais, não se pode negar o prejuízo que o bloqueio de bens ou de numerário poderá causar a pessoa estranha a lide, sem sua prévia oitiva, ainda que vinculada a pessoa jurídica executada.
+Portanto, ao meu sentir, encontram-se presentes o periculum in mora e o fumus boni iuris para a concessão do efeito suspensivo ao recurso especial da GAFISA.
+Nessas condições, NEGO PROVIMENTO ao agravo interno do BTG.
+É como voto.
