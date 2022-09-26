@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por OSMAR PAZ DA SILVA contra decisão monocrática desta relatoria que deu parcial provimento ao recurso do BANCO DO BRASIL S.A. nos termos da seguinte ementa (e-STJ, fl. 301):
+RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. AGRAVO DE INSTRUMENTO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA LIQUIDAÇÃO. COMPETÊNCIA. JUSTIÇA ESTADUAL. LITISCONSÓRCIO PASSIVO NECESSÁRIO. INEXISTÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 339-341).
+Em suas razões (e-STJ, fls. 343-348), oagravante sustenta a possibilidade dese realizar o cumprimento da sentença por simplescálculos aritméticos ante a individualização do crédito, valendo-se dos comandos inseridos no título executivo e dos elementos constantes nas cédulas de crédito rural.
+Foi apresentada impugnação ao recurso às fls. 354-357 (e-STJ), na qual a parte agravada postula a aplicação da multa do art. 1.021, § 4º, do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA.. EXPURGOS INFLACIONÁRIOS.PRÉVIA LIQUIDAÇÃO. NECESSIDADE. PRECEDENTE DA SEGUNDA SEÇÃO DESTA CORTE SUPERIOR. MULTA. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. A Segunda Seção desta Corte Superior firmou entendimento de que o cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum (EREsp n. 1.705.018/DF, Rel. p/ acórdão Ministro Luis Felipe Salomão, Segunda Seção, julgado em 9/12/2020, REPDJe 5/4/2021, DJe de 10/2/2021).
+2. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+3. Agravo interno desprovido.
+VOTO
+Da leitura das razões recursais, constata-se que orecorrentenão trouxenenhuma argumentação capaz de modificar a conclusão da decisão agravada, a qual deve ser mantida por seus próprios fundamentos.
+Consoante assinalado anteriormente, o atual entendimento da Segunda Seção desta Corte Superior, firmado por ocasião do julgamento dos EREsp 1.705.018/DF, em 9/12/2020, há de ser necessária a prévia liquidação da sentença genérica oriunda de ação civil pública que condena a instituição bancária ao pagamento de expurgos inflacionários em caderneta de poupança, a fim de determinar o sujeito ativo da relação de direito material e o valor da prestação mediante a garantia da ampla defesa e do contraditório pleno à parte executada.
+Eis a ementa do referido precedente:
+EMBARGOS DE DIVERGÊNCIA. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. NECESSIDADE DE PRÉVIA
+LIQUIDAÇÃO.
+1. A condenação oriunda da sentença coletiva é certa e precisa - haja vista que a certeza é condição essencial do julgamento e o comando da sentença estabelece claramente os direitos e as obrigações que possibilitam a sua execução -, porém não se reveste da liquidez necessária ao cumprimento espontâneo da decisão, devendo ainda ser apurados em liquidação os destinatários (cui debeatur) e a extensão da reparação (quantum debeatur). Somente nesse momento é que se dará, portanto, a individualização da parcela que tocará ao exequente segundo o comando sentencial proferido na ação coletiva.
+2. O cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado.
+3. Embargos de divergência providos. (EREsp n. 1.705.018/DF, Relatora a Ministra Nancy Andrighi, Relator p/ Acórdão o Ministro Luis Felipe Salomão, Segunda Seção, julgado em 9/12/2020, DJe 10/2/2021)
+No mesmo sentido, confiram-se os seguintes acórdãos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRÉVIA LIQUIDAÇÃO. NECESSIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O cumprimento de sentença coletiva que condena ao pagamento de expurgos em caderneta de poupança demanda fase prévia de liquidação, nos termos da jurisprudência do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.733.861/CE, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 30/8/2021, DJe 3/9/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. PRÉVIA LIQUIDAÇÃO DA SENTENÇA. NECESSIDADE. PRECEDENTE DA SEGUNDA SEÇÃO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A Segunda Seção do STJ pacificou o entendimento jurisprudencial de que "o cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado" (EREsp 1.705.018/DF, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 09/12/2020, REPDJe 05/04/2021, DJe de 10/02/2021).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.722.676/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/5/2021, DJe 30/6/2021)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CONSUMIDOR. AÇÃO COLETIVA DE CONSUMO. EXPURGOS INFLACIONÁRIOS. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EFICÁCIA DA COISA JULGADA. LIMITES GEOGRÁFICOS. VALIDADE. TERRITÓRIO NACIONAL. TEMA 1.075/STF. CONDENAÇÃO NA FASE DE CONHECIMENTO. EXPURGOS INFLACIONÁRIOS. LIQUIDAÇÃO. INDISPENSABILIDADE. ENTENDIMENTO PESSOAL. RESSALVA.
+1. Ação de cumprimento individual de sentença coletiva na qual se visa executar a sentença de procedência do pedido da ação coletiva de consumo ajuizada pelo IDEC, relativa ao Plano Verão (jan./89), em face do Banco Nossa Caixa S/A (incorporado pelo recorrente).
+2. Recurso especial interposto em: 15/01/2016; conclusos ao gabinete em: 15/09/2017; aplicação do CPC/73.
+3. O propósito recursal consiste em determinar: a) se os efeitos erga omnes da sentença proferida em ação coletiva de consumo estão limitados pela competência territorial do juiz prolator; b) se a sentença coletiva relacionada a expurgos inflacionários demanda, necessariamente, a passagem pela fase de liquidação; c) qual o termo inicial da fluência dos juros moratórios na obrigação fixada em ação coletiva de consumo; d) se houve violação aos limites da coisa julgada ao se prever a incidência de juros remuneratórios de 0,5% ao mês até o efetivo pagamento; e e) se são devidos honorários advocatícios no cumprimento individual de sentença coletiva.
+4. Os efeitos e a eficácia da sentença coletiva não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, razão pela qual a presente sentença coletiva tem validade em todo o território nacional. Tese repetitiva. Tema 1.075/STF.
+5. Com a ressalva de meu entendimento pessoal de que a exigência de prévia passagem pela fase de liquidação prejudicará a efetividade da justiça e a celeridade processual, adoto a orientação da Segunda Seção, que decidiu que o cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida.
+Precedente da Segunda Seção.
+6. Recurso especial PARCIALMENTE PROVIDO.
+(REsp n. 1.693.885/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 27/4/2021, DJe 1º/7/2021)
+Desse modo, estando o acórdão estadual - o qual concluiu ser desnecessária a prévia liquidação da sentença coletiva que condenou o banco ao pagamento de expurgos inflacionários em caderneta de poupança - em desconformidade com o atual entendimento da Segunda Seção desta Corte, deve ser provido o recurso especial da instituição financeira, ora agravada.
+Quanto ao pedido da parte agravada para aplicação de multa, esta Corte Superior tem entendido que o mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da sanção prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso.
+Veja-se:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO NCPC. DECISÃO PUBLICADA A PARTIR DE 18/MAR/16. ENUNCIADO ADMINISTRATIVO Nº 7/STJ. NÃO CABIMENTO. RECURSO INTERNO. NÃO CONHECIMENTO OU IMPROCEDÊNCIA. MULTA DO ART. 1.021, § 4º, DO NCPC. ANÁLISE CASUÍSTICA. INOCORRÊNCIA, NA ESPÉCIE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Nos termos do Enunciado Administrativo nº 7/STJ, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso, sob pena de afronta ao próprio direito de petição, estabelecido no art. 5º, XXXIV, da CF.
+3. Embargos de declaração acolhidos para sanar omissão, sem efeitos infringentes. (EDcl no AgInt no REsp n. 1.480.859/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/4/2017, DJe 3/5/2017)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimentodo feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
