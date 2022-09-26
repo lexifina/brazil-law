@@ -1,0 +1,80 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 314/334) interposto contra decisão desta relatoria que não conheceudo recurso especial (e-STJ fls. 305/309).
+A agravante sustenta não ser aplicável a Súmula n. 284/STF, visto que "a Agravante não somente impugnou especificamente os fundamentos do Acórdão, como também discorreu de modo claro e objetivo, sem deixar dúvidas quanto a violação do art. 674, § 2º, I, do CPC e da divergência jurisprudencial, demonstrando de forma segura as razões da reforma" (e-STJ fl. 323).
+Destaca que (e-STJ fl. 324):
+(..) quando se tratar de conta corrente conjunta e o cotitular (in casu, a Agravante) não integrar o polo passivo da execução (em que foi determinada a constrição judicial), a penhora não pode recair sobre a totalidade do valor depositado, ao passo que cada titular é detentor de metade da quantia tida em depósito.
+Deste modo, a determinação de bloqueio judicial sobre todo o importe depositado em conta conjunta, por dívida contraída por um dos correntistas com terceiro, não se mostra correta e adequada, eis que a constrição deve recair somente em relação à parte pertencente ao devedor/executado.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Contrarrazões apresentadas e requerida a multa do art. 1.021, § 4º, do CPC/2015 (e-STJ fls. 337/342).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF.DECISÃO MANTIDA.
+1.Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursalque alega violação de dispositivo legal cujo conteúdo jurídico é insuficiente para fundamentar a tese defendida no recurso especial.
+2.Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator):A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 305/309):
+Trata-se de recurso especial interposto contra acórdãoassim ementado (e-STJ fl. 186):
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIROS - PENHORA ONLINE - BACENJUD - SALDO DE CONTA INVESTIMENTO CONJUNTA - POSSIBILIDADE- PRECEDENTE DO STJ - RECURSO CONHECIDO E DESPROVIDO.
+O Superior Tribunal de Justiça firmou entendimento no sentido de que é possível a penhora da totalidade dos valores depositados em conta conjunta, aindaque um dos titulares não seja responsável pela dívida, pois a natureza da conta conjunta revela, em regra, a intenção dos titulares de abdicar da exclusividade dos valores nela existentes, podendo cada correntista dispor da integralidade do saldo depositado sem que isso importe em lesão ao patrimônio do co-titular.
+Nas razões do recurso especial (e-STJ fls. 203/217), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alega divergência jurisprudencial e violação do art. 674, § 2º, I, do CPC/2015, visto que, tratando-sede conta conjunta (e-STJ fl. 209):
+(..) é plenamente cabível a suspensão do bloqueio judicial, visto que a penhora deve afetar apenas a parcela pertencente ao devedor, caso não seja possível determinar a proporção pertencente a cada parte, deve ser penhorada apenas a metade do saldo disponível, pois se trata de dois titulares da conta.
+Com efeito, a premissa elencada no Acordão, ora recorrido, não traduz a real circunstância empírico-jurídica constante dos autos, daí, porque, o art. 674, § 2º, inciso I, do Código Processo Civil prevê que o companheiro que não figura no polo passivo na ação de execução poderá requerer seu desfazimento, cabendo a oposição de Embargos de Terceiro para resguardar seu direito de meação, vejamos o elencado no referido dispositivo legal, ipsis litteris:
+Contrarrazões apresentadas, requerendo a majoração dos honorários sucumbenciais (e-STJ fls. 261/269).
+A requerente peticionou às fls. 282/304 (e-STJ), solicitandoa concessão de efeito suspensivo ao recurso especial.
+É o relatório.
+Decido.
+Na sentença que julgou improcedentes os embargos de terceiro, consignou-se que (e-STJ fls. 153/156):
+(..) tratando-se de valores depositados em conta-corrente conjunta, os valores podem ser integralmente penhorados em ação de execução, mesmo que somente um dos correntistas seja responsável pelo pagamento da dívida. É que, a própria natureza da conta-corrente conjunta evidencia, em regra, a intenção dos titulares de abdicar da exclusividade dos valores depositados, os quais são movimentados em conjunto. Cada um dos co-correntistas tem o direito de dispor do valor total depositado na conta conjunta, sem que isso implique em ofensa ao patrimônio do co-titular.
+Logo, não se trata de presunção de solidariedade passiva entre os co-correntistas e terceiros. Neste caso, presume-se a ausência de exclusividade na disponibilidade do saldo, incumbindo aos titulares da conta a demonstração da existência de exclusividade na movimentação de valores  art. 373, inciso I do Código de ProcessoCivil .
+(..)
+Assim, tratando-se de embargos de terceiro em que o cônjuge embargante pretende a liberação de valores bloqueados em conta conjunta com o cônjuge executado, incumbe ao embargante o ônus de demonstrar a exclusividade na movimentação dos valores ou que a dívida que originou a penhora não tenha sido constituída em benefício da família.
+(..)
+Pois bem. Compulsando os autos, verifica-se que em 18 de dezembro de2019, através de ordem judicial proferida nos autos da demanda executiva, foi determinada a penhora online de valores existentes em contas bancárias em nome dos executados, sendo bloqueado o valor de R$ 50.371,00 (cinquenta mil, trezentos e setenta e um reais) da conta conjunta do executado Ernane Fabio Klein com sua convivente/embargante (ID n.º 27659495, pág. 2 dos autos da demanda executiva e ID n.º32530801, pág. 4 dos presente feito).
+Ocorre que a embargante não logrou êxito em demonstrar a exclusividade na movimentação dos valores da conta conjunta ou, ainda, que a dívida determinante da penhora não tenha sido constituída em benefício da família, presumindo-se, neste caso, a abdicação da exclusividade dos valores depositados na conta conjunta e, como corolário, a regularidade da penhora realizada nos autos da demanda executiva.
+Ante o exposto, JULGO IMPROCEDENTE o pedido formulado na petição inicial da ação de embargos de terceiro, por Pania da Penha Silva contra Wallace Francisco Pereira Greatti e, como corolário, Declaro encerrada a atividade cognitiva, resolvendo-se o mérito do feito, com supedâneo no art. 487, inciso I do Código deProcesso Civil.
+OTJMT, ao julgar a apelação,decidiu que (e-STJ fls. 189/193):
+(..) a questão discutida nos presentes nos autos cinge-se à possibilidade de penhora da integralidade do valor existente em conta bancária mantida pela recorrente, em conjunto com o seu companheiro que é réu em ação de execução.
+Diversamente do que quer fazer crer a recorrente, a partir dos extratos apresentados (id. 98839038) não é possível concluir pela titularidade exclusiva do valor constrito na conta investimento, pois o que se verifica é que cada um dos cônjuges cuidou de emitir o extrato de uma conta.
+A esse respeito o Superior Tribunal de Justiça tem entendimento no sentido de queÉ possível a penhora da totalidade dos valores depositados em conta conjunta, ainda que um dos titulares não seja responsável pela dívida.
+Isto porque, a natureza da conta conjunta revela, em regra, a intenção dos titulares de abdicar da exclusividade dos valores nela existentes, podendo cada correntista dispor da integralidade do saldo depositado sem que isso importe em lesão ao patrimônio do co-titular.
+Confira-se:
+(..)
+A par desse entendimento, elucidativa é a exposição do articulista, advogado e consultor Alexandre Assaf Filho, no sítio eletrônico Mega Jurídico (https://www.megajuridico.com/a-penhora-de-dinheiro-depositado-em-conta-corrente-conjunta-sob-a-perspectiva-da-boa-fe-objetiva/), a qual peço vênia par reproduzir:
+A interpretação do artigo 265 do Código Civil sob a perspectiva da boa-fé
+Não obstante, e com respeito ao posicionamento atual sobre esta problemática, ousamos divergir, em favor da defesa da garantia no processo executivo, como substrato da sua própria efetividade, bem como, em defesa da boa-fé objetiva,que deve permear os contratos.
+O Processo não é um fim em sim mesmo, acima de tudo é um instrumento ético, voltado especificamente para realizar o direito tutelado.
+Defendemos, neste mister, a constrição da totalidade do valor encontrado na conta corrente conjunta, ainda que um dos titulares não fosse devedor do terceiro credor, pois nesse tipo de conta cada um dos correntistas é credor de todo o saldo depositado, de forma solidária.
+Denota-se a solidariedade passiva para com terceiros credores pelofato da conta corrente conjunta, alvo de bloqueio judicial, ter sido constituída porlivre consentimento dos seus titulares, motivados por esforços, anseios ecolaborações mútuas.
+A solidariedade, nesse caso, se estabelece pela própria vontade daspartes no instante em que optam por essa modalidade de depósito bancário.
+Deste modo, observa-se que, cada um dos correntistas é credor de todo o saldo depositado, de forma solidária. Há a perda da propriedade exclusiva sobre o numerário depositado.
+Na sequência, em face desta perda de exclusividade sobre o numerário depositado, o terceiro espoliado, estranho a dívida executada, que mantém dinheiroem conta corrente conjunta, alvo de constrição, admite tacitamente que tal importância responda por débitos contraídos pelo seu consorte bancário.
+Assim sendo, se mantém dinheiro em conta conjunta, cada titular admite deforma tácita que tal importância responde pelas obrigações do outro correntista, desde que, seja na modalidade solidária e não indivisível, conforme explicado no tópico acima.
+Por fim, cabe reforçar que, no caso, não se trata de valores referentes a vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios, uma vez que a constrição se deu numa conta investimento.
+O Tribunal de origem entendeu que, na conta conjunta,é intenção dos titulares abdicar da exclusividade dos valores existentes nela, e, não tendo a recorrente comprovadoa titularidade exclusiva do valor constrito, é devida a penhora da integralidade da quantia constante na referida conta.
+A recorrente sustentou violação do art. 674, § 2º, I, do CPC/2015, que trata do conceito de terceiro para ajuizamento dos embargos de terceiros. Tal dispositivo não é suficiente para fundamentar a tese de que, no caso de conta conjunta, a execução deve recair sobre a parcela pertencente à parte devedora, sendo respeitada a menção àrecorrente.Portanto, aplicável a Súmula n. 284/STF.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. DISPOSITIVO DE LEI FE DERAL INDICADO COMO VIOLADO INSUFICIENTE PARA EMBASAR A TESE RECURSAL. APLICAÇÃO DA SÚMULA Nº 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se admite o recurso especial, por fundamentação deficiente, quando o conteúdo normativo dos dispositivos legais apontados como violados não são a ptos a lastrear a tese vertida no apelo.Incidência da Súmula nº 284 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.908.144/PE, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 21/2/2022, DJe de 23/2/2022.)
+Diante do exposto, NÃO CONHEÇO do recurso especial. PREJUDICADO o pedido de efeito suspensivo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Nas razões do recurso especial, a agravante sustenta a tese deque, no caso de conta conjunta, a execução deve recair sobre a parcela pertencente à parte devedora, sendo respeitada a cota-parte dos demais correntistas.
+Para fundamentar a referida alegação, a agravante sustentou violação do art.674, § 2º, I, do CPC/2015, que assim dispõe:
+Art. 674. Quem, não sendo parte no processo, sofrer constrição ou ameaça de constrição sobre bens que possua ou sobre os quais tenha direito incompatível com o ato constritivo, poderá requerer seu desfazimento ou sua inibição por meio de embargos de terceiro.
+(..)
+§ 2º Considera-se terceiro, para ajuizamento dos embargos:
+I - o cônjuge ou companheiro, quando defende a posse de bens próprios ou de sua meação, ressalvado o disposto no art. 843;
+O dispositivo legal indica quem é considerado terceiro para ajuizamento dos embargos de terceiros, sendo insuficiente para fundamentara tese apresentada no recurso especial. Portanto, inafastável a Súmula n. 284/STF.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Indefiro o pedido da parte agravada, de aplicação da multa, porque não evidenciada, até o momento, conduta maliciosa ou temerária a justificar tal sanção.
+É como voto.
