@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto por LUCIENE PINHEIRO BARROScontra decisão monocrática, de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 03/STJ. AUSÊNCIA DE INDICAÇÃO DE ARTIGO DE LEI FEDERAL VIOLADO. SÚMULA Nº 284/STF. AGRAVO EM RECURSO ESPECIAL NÃO PROVIDO.
+No presente recurso, sustenta-se:
+Os trechos da decisão  ..  salientam que o recurso interposto pela Agravante não apontou qual dispositivo da Lei Federal havia sido violado no acórdão recorrido. Ocorre que o primeiro parágrafo do Tópico "F) DAS RAZÕES RECURSAIS E DO DISSENSO PRETORIANO" destaca de forma clara o dispositivo lesionado, senão vejamos:
+O intuito da presente demanda visa verificar a forma em que a Lei Federal n.º 11.419/2006 foi aplicada, haja vista que, em razão da especialidade da norma que não foi corretamente empregada, foi negado o pedido de que seja considerada justa causa o fato que impediu a Requerente de praticar o ato devido tempestivamente, conforme dispõe o artigo 223 do CPC, já que, conforme dispõe o §2º do artigo 4º do referido meio legal, "A publicação eletrônica na forma deste artigo substitui qualquer outro meio e publicação oficial, para quaisquer efeitos legais, à exceção dos casos que, por lei, exigem intimação ou vista pessoal." . Recurso Especial, ID n.º 15057546  (Grifos acrescentados)
+Assim, o recurso inadmitido evidenciou que a falha no cumprimento dos prazos ocorreu em razão do erro do Poder Judiciário na disponibilização dos mesmos, haja vista que gerou prazo dobrado para a referida intimação, não sendo cabível penalização à Agravante, em virtude de que a Lei n.º 11.419/2006 tornou oficiais as informações disponibilizadas através do portal de processo eletrônico.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF.
+1. Exige-se para a admissão do apelo clareza na indicação dos artigos de lei federal alegadamente violados, bem como a explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal. Incidente a Súmula nº 284/STF.
+2. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+O recurso especial da parte não foi conhecido por falta declareza na indicação dos artigos de lei federal alegadamente violados, bem como pela ausência da explanação coerente, clara e precisa da medida em que o aresto objurgado teria afrontado cada um desses dispositivos, ou a eles tenha dado interpretação divergente da adotada por este ou por outro Tribunal.
+O recurso especial não serve para a pretensão da parte, qual seja, "verificar a forma em que a Lei Federal n.º 11.419/2006 foi aplicada". Ainda que tenha, en passant, colacionado oartigo 4º,§ 2º, dessa norma, isso não é considerado suficiente para conhecer do seuapelo, nos termos da jurisprudência desta Corte Superior.
+De comum sabença,não se conhece do recurso especial em que haja (a) "citação genérica de dispositivo de lei tido como violado" (AgInt no REsp n. 1.308.906/SP, Rel. Min. OG FERNANDES, SEGUNDA TURMA, DJe de 30/6/2022), no qual (b) impossível identificar se os dispositivos foram ou não colacionados meramente a título argumentativo (cf. AgInt no REsp. 1.615.830/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/06/2018; AgInt no AREsp n. 1.890.951/SP, rel. Min. MANOEL ERHARDT (Desembargador Convocado do Trf5), PRIMEIRA TURMA, DJe de 23/6/2022). De forma correlata, (c) "a mera citação de precedentes nas razões recursais não caracteriza dissídio jurisprudencial" (AgInt no AREsp n. 2.024.013/MS, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 17/6/2022).
+Destaco:
+A mera citação genérica de dispositivo de lei tido como violado desarticulada de fundamentação vinculada à norma não enseja o cabimento de recurso especial. Nos termos da jurisprudência, o recurso especial não constitui um menu ou cardápio em que a parte apresenta um rol de artigos para que o julgador escolha sobre quais laborar. A hipótese configura vício construtivo da peça, a atrair a incidência da Súmula n. 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia). (AgInt no REsp n. 1.308.906/SP, relator Ministro Og Fernandes, Segunda Turma,DJe de 30/6/2022).
+ ..  a mera citação de passagem de dispositivos legais no corpo das razões recursais não satisfaz tal requisito, já que é impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do Recurso Especial interposto (AgInt no REsp. 1.615.830/RS, Rel. Min. MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 11/06/2018).(AgInt no AREsp n. 1.890.951/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 20/6/2022, DJe de 23/6/2022.).
+Impositiva, por consectário, a aplicação da Súmula nº 284/STF - "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
