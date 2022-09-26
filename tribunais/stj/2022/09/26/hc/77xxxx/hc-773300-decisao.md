@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de habeas corpussubstitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de LEONARDO MARCELINO BARBOSA, contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento da Apelação Criminal n. 1508625-75.2022.8.26.0228.
+Infere-se dos autos que o paciente foi condenadoàs penas de 2 anos e 4 meses de reclusão, em regime inicial fechado, e ao pagamento de 11 dias-multa,como incurso no art. 155, §4º, inciso III, do Código Penal.
+Irresignada, adefesa interpôs recurso de apelação, o qualdesprovido pelo Tribunal a quo, nos termos de acórdão que recebeu a seguinte ementa:
+Art. 155, par. 4º, III, do CP - Materialidade delitiva e autoria demonstradas. Réu que se utilizou de um "módulo", para ligar a ignição e subtrair o veículo. Prova Palavras da vítima e de servidores públicos, prestadas sob o crivo do contraditório Legitimidade. Penas e regime prisional corretamente fixados Recurso não provido.(fl. 38).
+No presente writ, alega a Defensoria Pública estadual, em síntese, que o pacientepreenche os dois requisitos legais para o início do cumprimento da pena em regime semiaberto, pois, apesar de reincidente, sua pena foi inferior a quatro anos, bem como a pena-base foi fixada no mínimo legal. Invoca o enunciado sumular n. 269 do STJ.
+Requer, em liminar e no mérito, a concessão da ordem a fim de que seja estabelecidoo regime semiaberto para o início do cumprimento da reprimenda corporal.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, entendo razoável o processamento do feito apenas para verificar a eventual existência de flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Conforme relatado, busca-se na presente impetração, a fixação do regime inicial semiaberto.
+O magistrado singular fixou as penas nos seguintes termos:
+"A condenação é de rigor. Passo à dosagem das penas que serão impostas ao acusado. Ao delito descrito pelo artigo 155, parágrafo 4º, do Código Penal são cumulativamente cominadas as penas de reclusão e multa.
+Consideradas as circunstâncias elencadas pelo artigo 59 do Código Penal, as quais não chegam a ser de todo desfavoráveis ao acusado, fixo a pena-base no mínimo legal de 2 (dois) anos de reclusão e 10 (dez) dias-multa.
+O réu é reincidente, como comprova a certidão de fls. 27/29combinada com a FA de fls. 30/37, caracterizada a agravante genérica prevista pelo artigo61, inciso I, do Código Penal, que motiva aumento de um sexto na base, que vai a 2 (dois)anos e 4 (quatro) meses de reclusão e 11 (onze) dias-multa.
+Torno definitivas as penas fixadas, nada mais havendo a considerar. Para início do cumprimento da pena privativa de liberdade imposta fixo o regime fechado, único adequado à consecução das finalidades da sanção penal, considerada a reincidência do réu, a qual, a par de obstar a adoção de regime mais brando, impede substituição ou suspensão condicional da pena corporal, medidas que, não se afigurando socialmente recomendáveis (art. 44, § 3º, CP), não se afiguram capazes de propiciar o escopo da punição.
+ ..
+Diante do exposto e do mais que dos autos consta, JULGO PROCEDENTE a denúncia, para o fim de condenar o réu LEONARDO MARCELINOBARBOSA, qualificado a fls. 10, por infração ao artigo 155, parágrafo 4º, inciso III do Código Penal, às penas de 2 (dois) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, e 11 (onze) dias-multa, no valor unitário mínimo." (fls. 27/28)
+Por sua vez, o acórdão impugnado entendeu que "a reincidência (fls. 30/37) justifica o regime inicial fechado, nos termos do art. 33, par. 3º, do Código Penal." (fl. 41).
+Ocorre que, nos termos da Súmula n. 269 deste Superior Tribunal de Justiça, "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais",como no caso dos autos.
+Ilustrativamente, confiram-se demais julgados desta Corte Superior:
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. PLEITO DE FIXAÇÃO DO REGIME SEMIABERTO. INCIDÊNCIA DA SÚMULA N. 269/STJ. POSSIBILIDADE.
+I - Conforme o teor da Súmula n. 269/STJ, o réu reincidente condenado a pena igual ou inferior à 4 (quatro) anos, com circunstâncias judiciais totalmente favoráveis, poderá iniciar o cumprimento da reprimenda em regime semiaberto.
+II - No caso dos autos, apesar da multireincidência específica do réu destacada pela instância de origem, é possível a fixação do regime inicial semiaberto, pois a pena-base foi fixada em seu mínimo legal, diante da ausência de circunstâncias judiciais negativas.
+Agravo regimental desprovido.
+(AgRg no REsp n. 1.995.789/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 26/8/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO. ACUSADO DUPLAMENTE REINCIDENTE. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA APLICADA INFERIOR A QUATRO ANOS. REGIME INICIAL SEMIABERTO. SÚMULA N. 269 DESTA CORTE SUPERIOR DE JUSTIÇA. HABEAS CORPUS CONCEDIDO, DE OFÍCIO.
+1. O Tribunal de origem não admitiu o apelo nobre com esteio na incidência das Súmulas n. 283 do Supremo Tribunal Federal e 7 do Superior Tribunal de Justiça.
+2. No entanto, nas razões do agravo em recurso especial, não foi rebatido, especificamente, o fundamento relativo à aplicação, à hipótese, da Súmula 283 do Pretório Excelso. Incide, portanto, o óbice do Enunciado n. 182 da Súmula desta Corte Superior.
+3. O estabelecimento de regime mais gravoso deve ser feito com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal. Nesse sentido, são os enunciados das Súmulas n. 440/STJ e 718 e 719/STF.
+4. O art. 33, § 2.º, alínea c, do Código Penal dispõe que "o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto".
+5. No caso, o Réu foi condenado à pena de 4 (quatro) meses de reclusão e, a despeito de ser duplamente reincidente, nenhuma vetorial do art. 59 do Código Penal foi valorada negativamente na fixação da pena-base, que foi estabelecida no mínimo legal. Assim, incide, na espécie, o disposto no Enunciado n. 269 da Súmula desta Corte, in verbis: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+6. Agravo regimental desprovido. Habeas Corpus concedido, de ofício.
+(AgRg no AREsp n. 1.874.269/SP, relatora Ministra Laurita Vaz, Sexta Turma,DJe de 21/6/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT INDEFERIDO LIMINARMENTE. PEDIDO CONTRÁRIO À JURISPRUDÊNCIA CONSOLIDADA. RECEPTAÇÃO QUALIFICADA. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PENA-BASE NO MÍNIMO LEGAL. REINCIDÊNCIA. REGIME PRISIONAL MAIS SEVERO. SÚMULA N. 269 DO STJ. REPRIMENDAS RESTRITIVAS DE DIREITO. REQUISITOS DO ART. 44, II, DO CP. AUSÊNCIA. AGRAVO NÃO PROVIDO.
+1. O réu reincidente, condenado a pena igual ou inferior a 4 anos, que ostente circunstâncias judiciais favoráveis, poderá iniciar o cumprimento da sanção no regime semiaberto, aos ditames do enunciado n. 269 da Súmula desta Corte Superior, assim estabelecido: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+2. Não há falar em aplicação do art. 43 do Código Penal ao agravante, com a substituição da reprimenda corporal por penas restritivas de direitos, à luz do disposto no inciso II do art. 44 da mesma norma, in verbis: "Art. 44. As penas restritivas de direitos são autônomas e substituem as privativas de liberdade, quando:  ..  II - o réu não for reincidente em crime doloso".
+3. Agravo não provido.
+(AgRg no HC n. 634.731/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 15/4/2021.)
+Ante o exposto, não conheço dohabeas corpus,mas concedo liminarmente a ordem de ofício parafixar o regime semiaberto para o início do cumprimento de pena do paciente.
+Publique-se.
+Intimações necessárias.
