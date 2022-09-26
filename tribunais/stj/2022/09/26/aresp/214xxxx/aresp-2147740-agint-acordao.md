@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 236/239) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a parte agravante aponta omissões do acórdão e afirma que haveria ofensa ao art. 1.022 do CPC/2015. Ressalta que "o primeiro ponto que a parte agravante apontou omissão foi em relação ao fato de que está sofrendo descontos de R$ 79,90 (setenta e nove reais e noventa centavos) desde o ano de 2018, sendo que é idosa e pessoa pobre", e que "apontou também a absoluta impossibilidade de resolução do problema na via administrativa e a necessidade de contratação de advogado particular para a propositura de demanda" (e-STJ fl. 237).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foiaberta vistapara impugnação, uma vez que a parte agravada estásem representação nos autos(e-STJ fl. 240).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE AFRONTA AO ART.1.022, I, DO CPC/2015. DECISÃO MANTIDA.
+1. Inexiste afronta aos art. 1.022, I,do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 230/233):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência da Súmula n. 7/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 150):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. ASSINATURA DE PERIÓDICO JAMAIS ENTREGUE. COBRANÇAS INDEVIDAS. DIREITO À RESCISÃO DO CONTRATO, COM O RESPECTIVO CANCELAMENTO DAS COBRANÇAS E DEVOLUÇÃO DOS VALORES PAGOS, EM DOBRO. SITUAÇÃO, ENTRETANTO, QUE NÃO GERA DANOS MORAIS PASSÍVEIS DE INDENIZAÇÃO. HONORÁRIOS ADVOCATÍCIOS DEVIDOS AO PROCURADOR DA PARTE AUTORA MAJORADOS. ATENDIMENTOAO DISPOSTO NO ART. 85, § 8º, DO CPC/2015. RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração foramrejeitados (e-STJ fls. 172/175).
+Nas razões do recurso especial (e-STJ fls. 180/187), interposto com base no art. 105, III, "a", da CF, a recorrente apontou violação doart. 1.022, I, do CPC/2015, alegando deficiência na prestação jurisdicional e pleiteando seja declarada omissão do acórdão quanto às matérias ventiladas nos embargos de declaração, tendo em vista que "o acórdão negou a indenização por danos morais buscada pela recorrente, por entender que a situação experimentada por ela não é capaz de atingir seus direitos da personalidade" (e-STJ fl. 184).
+Em suma, são estes os pedidos recursais (e-STJ fl. 187):
+1) A imediata análise do recurso especial, sob pena de inutilidade da prestação jurisdicional;
+2) Seja recebido e conhecido o presente recurso especial, com fundamento no art. 105, III, "a", da CF/88, presentes os pressupostos objetivos e subjetivos de admissibilidade;
+3) Seja intimada a recorrida para apresentar contrarrazões, querendo, na forma do art. 1.030 do CPC;
+4) Seja dado integral PROVIMENTO ao recurso especial, a fim de, reconhecendo o malferimento ao art. 1.022 I, do CPC, decretara nulidade do acórdão que julgou os embargos declaratórios opostos, por violação ao art. 1.022, I, do CPC, conforme demonstração dos vícios realizada em tópico específico no presente recurso, determinando o rejulgamento pela 16ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul.
+No agravo (e-STJ fls. 214/221), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Quanto à apontada violação do art. 1.022 do Código de Processo Civil, cumpre ressaltar que, além de o Tribunal ter enfrentado toda a matéria pertinente à controvérsia, a pretensão deduzida nos embargos de declaração opostos pela recorrente, longe de demonstrar qualquer omissão, contradição ou obscuridade, objetivava, na verdade, apenas rediscutir a causa devidamente solucionada, hipótese inviável em razão dos específicos fins desse tipo de recurso.
+Não há falar em ofensa ao art. 1.022 do CPC/2015, pois o Tribunala quopronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 153/155):
+Narrou a autora, na petição inicial, que na data de 19/10/2018, no Aeroporto Salgado Filho, foi interpelada por um funcionário da ré, que lhe ofereceu opções de assinatura de revistas, pelo período de um ano. Disse ter contratado o periódico, pelo valor mensal de R$ 79,90, cujo valor é debitado mensalmente. Entretanto, jamais recebeu o produto, vindo a postular cancelamento da assinatura, o que não foi atendido. Diante disso, ajuizou apresente ação, postulando a rescisão do contrato, a repetição de indébito, em dobro, e indenização por danos morais.
+(..)
+Na espécie, não se desconhece os transtornos vivenciados pela consumidora, ao assinar contrato de periódico, que jamais lhe foi entregue. Contudo, não verifico situação hábil a ensejar a indenização pretendida. Veja-se, pois, que o fato narrado na inicial não pode ser caracterizado como lesão extrapatrimonial haja vista não retratar lesão intangível à personalidade do autor, tratando-se, na realidade, de hipótese de simples descumprimento contratual a que estão sujeitas as pessoas nas suas relações e atividades do cotidiano, não ultrapassando a seara do mero dissabor.
+Somente se configurariam danos morais a exposição do consumidor a situação humilhante, bem como ofensa a atributo da sua honra, imagem ou qualquer dos direitos personalíssimos tutelados no artigo 5º, incisos V e X, da CF/88, o que não ocorreu no caso em comento.
+Por sua vez, quanto aos honorários advocatícios sucumbenciais, tenho que comportam majoração, visto que a fixação em R$ 900,00 se revela, de fato, baixa.
+São critérios balizadores para o arbitramento dos honorários advocatícios, apenas para exemplificar, o tempo de duração do processo, a complexidade da causa, o proveito econômicoalcançado com êxito da demanda, o trabalho desenvolvido pelo causídico, a necessidade de dilação probatória ou prática de atos em outras comarcas.
+Diante disso, entendo justa a elevação dos honorários devidos aos procuradores da parte autora para R$ 1.300,00, com base no § 8º do artigo 85 do CPC/2015, único ponto em que merece provimento o recurso do autor. Ressalto que esse valor atende aos parâmetros deste órgão colegiado.
+Ainda, em relação à petição anexada no evento 5, noticiando que a ré continua a efetuar cobranças indevidas, consigno que a sentença já determinou que os valores cobrados até a data do cancelamento definitivo, serão devolvidos, em dobro o que deverá ser apurado em sede de cumprimento de sentença, com base nas faturas anexadas. Entretanto, para fins de tornar efetiva a sentença que rescindiu o contrato e tornou definitiva a liminar que proibiu as cobranças, fixo multa mensal de R$ 500,00 por cobrança indevida.
+Ainda, devidamente fundamentada a decisão nas razões de direito e de fato vinculadas ao caso concreto, não há necessidade de análise específica de todos os dispositivos mencionados pelas partes. Contudo, para fins de evitar a oposição de embargos de declaração com intenção única de prequestionamento, consideram-se prequestionados todos os dispositivos normativos suscitados pelas partes."
+No julgamento dos embargos de declaração, foram ainda prestados os seguintes esclarecimentos (e-STJ fl. 174/175):
+Em suas razões, aponta a embargante que o acórdão atacado (evento 9) apresenta omissão. Aduz que ao negar provimento ao pleito de indenização por danos morais, não foi observado que a recorrente tem descontados da sua fatura do cartão de crédito, desde 2018, o valor de R$ 79,90 por mês por algo que contratou mas nunca recebeu. Ainda, afirma que em junho/2019 passou a ter novos descontos de R$ 59,80 por algo que não contratou. Disse que se trata de dano moralin re ipsa, e que o pedido não restou apreciado. Requer o acolhimento dos embargos e o prequestionamento dos artigos 4º,caput,, 6º, VI, e 18,caput, do Código de Defesa do Consumidor, e 186, 927 e 944 do Código Civil.
+(..)
+Não se verifica qualquer omissão e contradição no julgado, com manifestação expressa na decisão de que não se verifica, no caso, situação hábil a ensejar a indenização pretendida, porquanto não violados os direitos personalíssimos tutelados no artigo 5º, incisos V e X, da CF/88.
+Não se enquadra o caso concreto, portanto, em nenhuma das hipóteses previstas no artigo supramencionado. O que busca a parte embargante, na realidade, é a rediscussão da matéria, não se prestando para tal fim os embargos de declaração.
+Desse modo, não assiste razão à recorrente, visto que o Tribunala quodecidiu a matéria debatida nos autos, ainda que contrariamente aos interesses da parte, não incorrendo em nenhum dos vícios previstos no art. 1.022, I do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+O recurso não merece acolhida. Isso porque, conforme destacado na decisão recorrida, não há falar em violação doart. 1.022 do CPC/2015, haja vista que a ofensa somente ocorre quando o acórdão deixa de se pronunciar sobre questão jurídica ou fato relevante para o julgamento da causa. A finalidade dos embargos de declaração é complementar o acórdão quando nele identificada omissão, ou ainda aclará-lo, dissipando obscuridade, contradição ou erro material.
+A Câmara julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. Portanto, não há falar em negativa de prestação jurisdicional. Destaco que, se a decisão combatida não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. INDENIZAÇÃO POR BENFEITORIAS. IMÓVEL RURAL. 1. VIOLAÇÃO DO ART. 535 DO CPC/1973 (1.022 do CPC/2015). INEXISTÊNCIA. 2. CONCLUSÃO DO ACÓRDÃO RECORRIDO DE QUE O RECORRENTE ERA POSSUIDOR DE MÁ-FÉ. BENFEITORIAS ÚTEIS E NÃO NECESSÁRIAS NÃO INDENIZÁVEIS. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.
+1. De acordo com o entendimento jurisprudencial pacífico desta Corte Superior, não há violação do art. 1.022 do CPC/2015 nos casos em que o acórdão recorrido resolve com coerência e clareza os pontos controvertidos que foram postos à apreciação da Corte de origem examinando as questões cruciais ao resultado do julgamento.
+ ..
+3. Agravo interno a que se nega provimento. (AgInt no REsp 1608804/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/10/2016, DJe 27/10/2016.)
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
