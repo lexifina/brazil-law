@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 416):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+Nos presentes aclaratórios,alega-se quereferido acórdão incorreu em erro material pois "o Paragrafo 3º do Artigo 224 da Lei 13.105 de 2015 assevera que o prazo tem início no primeiro dia útil que se seguir à publicação (20/09/2016), desta forma o termo inicial do prazo de 15 dias coincide com 21/09/2016 e termina em 11/10/2016" (fl. 423).
+Semimpugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Tendo o recurso sido interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Dito isso, anota-se que a discordância com o julgamento não configura motivo para a interposição de embargos declaratórios.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. PROCESSUAL CIVIL. REPETIÇÃO DE FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE OMISSÕES. EFEITOS INFRINGENTES. INVIABILIDADE. REJEIÇÃO DOS EMBARGOS DECLARATÓRIOS.
+1. A atribuição de efeitos infringentes, em sede de embargos de declaração, somente é admitida em casos excepcionais, os quais exigem, necessariamente, a ocorrência de qualquer dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados (EDcl no AgInt nos EAREsp 324.542/SP, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 21/3/2017).
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL IMPROVIDO. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos em 28/03/2016, a acórdão prolatado pela Primeira Seção do Superior Tribunal de Justiça, publicado em 15/03/2016, na vigência do CPC/73.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo Regimental, em face da impossibilidade de conhecimento de Embargos de Divergência em que os acórdãos confrontados foram proferidos em juízo de cognição distintos.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material - seja à luz do art. 535 do CPC/73 ou do art. 1.022 do CPC vigente -, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados (EDcl no AgRg nos EAREsp 667.287/RS, Rel. Ministra Assusete Magalhães, Primeira Seção, DJe 2/6/2016).
+No caso, o acórdão julgador dos primeiros aclaratórios observou que mesmoconsiderandoa validade de publicação do acórdão a quo como sendo o dia 19/9/2016, a contagem do prazo recursal teria início no dia20/9/2016 (primeiro dia útil seguinte à publicação) e término em 10/10/2016, sendo intempestivo o recurso especial postado somente em 11/10/2016, porquanto ultrapassado o prazo de 15 (quinze) dias legalmente estabelecido.. Confira-se(fl. 419):
+Na espécie, o acórdão embargado negou provimento ao agravo interno consignando, para tanto, que "a parte insurgente não logrou êxito em comprovar a efetiva suspensão dos prazos recursais, uma vez que o feriado municipal da Comarca de Viçosa/MG (fls. 279-281), não é considerado feriado forense no âmbito do Tribunal de origem" (fl. 393), razão pela qual "considerando que não houve comprovação de eventual ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense no Tribunal de origem no ato de interposição do recurso especial, resta ele intempestivo, nos termos do art. 1.003, § 6º, do CPC/2015" (fls. 393-394).
+Anote-se, por oportuno, que mesmo considerando que a validade de publicação do acórdão a quo se deu no dia 19/9/2016, como defende o embargante, tal fato não tem o condão de afastar a intempestividade recursal reconhecida no caso em apreço.
+Com efeito, iniciando a contagem do prazo recursal em 20/9/2016 o seu termo final ocorreria em 10/10/2016. Como registrado, no entanto, o recurso especial "somente foi postado na agência dos correios em 11/10/2016 (fl. 245), quando já ultrapassado o prazo de 15 (quinze) dias úteis legalmente estabelecido, o que conduz ao reconhecimento da sua intempestividade" (fl. 393).
+A leitura atenta das razões dos presentes embargos de declaração, no entanto, evidencia que a pretensão do ora embargante ao apontar suposto erro material no julgado é, tão somente, uma vez mais, manifestar discordância e pedir o rejulgamento de questão já decidida, o que, como visto, não é cabível na via dos aclaratórios.
+Ora, vê-se que a insurgência contra as premissas postas no acórdão embargado não autoriza a interposição de embargos de declaração, revelando que a parte embargante procura, por via reflexa, o mero rejulgamentoda causa, o que não é aceitável, consoante jurisprudência do Superior Tribunal de Justiça. No mesmo sentido: EDcl na SEC 7.296/EX, Rel. Ministro Og Fernandes, Corte Especial, DJe 23/5/2017; EDcl nos EREsp 1.316.410/PR, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 30/5/2017, dentre outros julgados.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
