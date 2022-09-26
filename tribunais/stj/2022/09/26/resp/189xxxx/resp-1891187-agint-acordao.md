@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto em face de decisão monocrática, de minha relatoria, cuja ementa é a seguinte:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A parte agravante alega, em síntese, que o Tribunal regional declarou expressamente o prequestionamento do artigo 192, II, da Lei 8.112/90. Assim, em seu recurso especial, a parte alegou a violação do artigo 1.022 do CPC/2015 e a aplicação do critério adequado para percepção das vantagens contidas no artigo 192, II, da Lei 8.112/90. Aduz que houve a manifestação do recorrente quanto à necessidade de manifestação sobre os critérios de pagamento da vantagem.
+Requer a reconsideração da decisão agravada ou seja o feito submetido à julgamento no órgão colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. SERVIDOR PÚBLICO. VANTAGEM DO ARTIGO 192 DA LEI 8.112/90. CRITÉRIOS PARA CONCESSÃO. DATA DO PREENCHIMENTO DOS REQUISITOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1.O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, sobre a qual nem sequer foram apresentados embargos de declaração, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+2. Agravo interno não provido.
+VOTO
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+O recurso especial apresentado pela parte se fundamenta na alínea "c" do permissivo constitucional e aponta violação dos artigos 1.022 do CPC/2015 e 192 da Lei 8.112/90 e artigo 13 da MP 1.522-1/96 e Lei 9.527/97, sob os argumentos de que "ad cautelam, caso este Egrégio Colegiado eventualmente venha a entender não ter sido satisfeito o prequestionamento da matéria abordada no recurso especial, requer o Recorrente seja declarada a anulação do acórdão recorrido por infringência ao art. 1.022doNovoCPC." e que "para aferimento da existência do direito ao recebimento da determinada vantagem  ..  o Julgador deve utilizar como critério a verificação da data que foram satisfeitas as condições previstas em lei para fazer jus ao benefício (e não na data da concessão da aposentadoria)".
+Contudo, observa-se que o Tribunal de origem não se pronunciou quanto a tese sobre " .. a satisfação ou não dos requisitos necessários para o recebimento do benefício em data anterior à data da revogação da referida vantagem", e eventual omissão nem sequer foi suscitada por meio de embargos de declaração, e tampouco naapontada violação ao artigo 1.022 do CPC/2015, razão pela qual é inviável o conhecimento da questão, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356/STF, por analogia).
+Ilustrativamente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DEFICIÊNCIA NA ALEGAÇÃO DE CONTRARIEDADE AO ART. 535 DO CPC/1973. INCIDÊNCIA DA SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. (..)2. As matérias referentes aos dispositivos tidos por contrariados não foram objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, consoante o que preceituam as Súmulas 282 e 356 do Supremo Tribunal Federal. (..)4. Recurso especial não conhecido.(REsp 1673756/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/02/2018, DJe 16/02/2018) (grifou-se)
+Vale ressaltar, ainda, que somente se configura o prequestionamento ficto (art. 1.025 do CPC/2015) quando a não apreciação da matéria federal for reconhecida pelo STJ como verdadeira - o que não é o caso dos autos - e há recusa do Tribunal "a quo" em apreciá-la. Precedentes: AgRg no AREsp 1.041.180/SE, Rel. Min. Felix Fischer, Quinta Turma, DJe 14.3.2018; AgInt no AREsp 1.215.641/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 25.4.2018; AgInt no AREsp 1.168.630/RJ, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 13.3.2018; AgInt no AREsp 844.804/MG, Rel. Min. Humberto Martins, Segunda Turma, DJe 7.4.2016.
+Acrescente-se que este Superior Tribunal de Justiça possui orientação no sentido de que "não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao art. 1.022 do CPC/15, uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado" (AgRg no AREsp 524.768/SP, Relator o Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 07/08/2014, DJe 15/08/2014).
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
