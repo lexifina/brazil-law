@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial, interposto porMANOEL MARIANO PASCOA, com amparo nas alíneas"a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fl. 57, e-STJ):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO DE DESPEJO C/C COBRANÇA. PEDIDO DE PENHORA DE PERCENTUAL DE RENDIMENTOS DA PARTE DEVEDORA. VEDAÇÃO LEGAL. ARTIGO 833, INCISO IV DO CÓDIGO DE PROCESSO CIVIL. RECURSO CONHECIDO E NÃO PROVIDO.
+1. "A regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvando-se eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família. Precedentes. ( )" (AgInt no AgInt no AREsp 1426341/PR, Rel.Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 13/12/2021, DJe 15/12/2021).
+2. Recurso conhecido e não provido.
+Em suas razões de recurso especial (fls. 95-112, e-STJ), o recorrente aponta, além de divergência jurisprudencial, violaçãoao artigo 833, IV, do NCPC,ao argumento de que a regra geral da impenhorabilidade "pode ser mitigada para atingir percentual da remuneração hábil para quitar a dívida, sem prejudicar a subsistência digna da devedora." (fl. 96, e-STJ).
+Sem contrarrazões.
+Admitido o recurso especial na origem (fls. 145-146, e-STJ), ascenderam os autos a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismomerece prosperar.
+1.A parte insurgente defende a possibilidade de mitigação da regra da impenhorabilidade do salário com base nos princípios da efetividade e da razoabilidade, como é o caso dos autos, no qual a penhora de 30% da aludida verba não afronta a dignidade ou a subsistência do devedor e de sua família.
+O Tribunala quo, por maioria,entendeu que a impenhorabilidade em apreço é absoluta, só podendo ser afastada nas hipóteses restritas.
+É o que se extrai do seguinte trecho do aresto recorrido (fls. 80-81, e-STJ):
+O caráter alimentar das verbas de natureza salarial impede a penhora ainda que incidente apenas em um percentual do salário do devedor, excetuadas somente as hipóteses admitidas pela jurisprudência do Superior Tribunal de Justiça, que define ser possível penhora de verbas de natureza salarial quando forpara o pagamento de prestação alimentícia de qualquer origem, independentemente do valor da verbaremuneratória recebida; e para o pagamento de qualquer outra dívida não alimentar quando os valoresrecebidos pelo executado forem superiores a 50 salários mínimos mensais.
+ ..
+Na hipótese, não se verifica qualquer das hipóteses de exceção a impenhorabilidade: cumprimento de sentença proferida em Ação de Despejo c/c Cobrança e agravada que aufere renda bruta mensal de R$ 8.619,10 (oito mil, seiscentos e dezenove reais e dez centavos) - ID 32576962, rendimento inferior a 50 salários mínimos mensais.  grifou-se
+Por outro lado, oDesembargador Fábio Eduardo Marques - 1ª Vogal, em seu voto vencido, decidiu pela possibilidade de "mitigar a regra de impenhorabilidade, mediante análise das circunstâncias de cada caso, resguardada a dignidade do devedor," (fl. 82, e-STJ), permitindo a penhora de 10% da remuneração líquida mensal da parte ora recorrida.
+Sucede que a Corte Especial do STJ, no julgamento do EREsp 1.518.169/DF, firmou o entendimento segundo o qual a impenhorabilidade da verba salarial pode ser excepcionada a fim de satisfazer crédito de natureza não alimentar, desde que preservado o suficiente para garantir a subsistência digna do devedor e de sua família.
+O aludido julgado restou assim ementado:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PENHORA DE PERCENTUAL DE SALÁRIO. DÍVIDA DE CARÁTER NÃO ALIMENTAR. RELATIVIZAÇÃO DA REGRA DE IMPENHORABILIDADE. POSSIBILIDADE.
+1. Ação de execução de título executivo extrajudicial - nota promissória.
+2. Ação ajuizada em 13/10/1994. Recurso especial interposto em 29/10/2009. Embargos de divergência opostos em 23/10/2017. Julgamento: CPC/2015.
+3. O propósito recursal é definir sobre a possibilidade de penhora de vencimentos do devedor para o pagamento de dívida de natureza não alimentar.
+4. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família. Precedentes.
+5. Na espécie, a moldura fática delineada nos autos - e inviável de ser analisada por esta Corte ante a incidência da Súmula 7/STJ - conduz à inevitável conclusão de que a constrição de percentual de salário da embargante não comprometeria a sua subsistência digna.
+6. Embargos de divergência não providos.
+(EREsp 1518169/DF, Rel. Ministro HUMBERTO MARTINS, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 03/10/2018, DJe 27/02/2019)
+Ainda nesse sentido: EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, REPDJe 19/03/2019, DJe 16/10/2018; AgInt no AgInt no REsp 1851040/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 31/08/2020, DJe 08/09/2020; AgInt no REsp 1847503/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 30/03/2020, DJe 06/04/2020; AgInt no AREsp 1541492/SE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/03/2020, DJe 07/04/2020.
+Assim, ao não admitirema mitigação da regra da impenhorabilidade do art. 833, IV, do CPC, as instâncias ordinárias contrariaram o referido entendimento, motivo pelo qual merece provimento a pretensão recursal.
+Portanto, admitida, em casos excepcionais, a mitigação da impenhorabilidade dos vencimentos da parte devedora e diante da vedação contida no enunciado da Súmula 7/STJ, devem os autos retornarem ao Tribunal de origem para que seja examinada a viabilidade do pedido da parte credora, observada a necessidade de preservação da subsistência do devedor e/ou de sua família.
+2.Do exposto,dou provimentoao recurso especial, nos termos da fundamentação supra.
+Publique-se.
+Intimem-se.
