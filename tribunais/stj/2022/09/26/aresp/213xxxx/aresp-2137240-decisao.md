@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo, nos próprios autos, de MAPFRE SEGUROS GERAIS S/A, objetivando a reforma da decisão de inadmissão do recurso interposto perante o Tribunal de Justiça do Estado de Goiás, em face de acórdão assim ementado (e-STJ fl. 278):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DO SEGURO DPVAT. ÔNUS SUCUMBENCIAL. NÃO APLICAÇÃO DO PARÁGRAFO ÚNICO, DO ARTIGO 86, DO CPC. SÚMULA Nº 51 DO TJGO. HONORÁRIOS ADVOCATÍCIOS. VALOR ÍNFIMO. AFRONTA À DIGNIDADE DO ADVOGADO. FIXAÇÃO EQUITATIVA. ARTIGO 85, §§ 2º E 8º, DO CPC. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS RECURSAIS. SENTENÇA MANTIDA. 1. A fixação do valor da indenização securitária-DPVAT em quantia inferior ao reclamado na peça exordial não configura sucumbência da parte autora, de modo que se deixa de aplicar o parágrafo único, do artigo 86 do CPC (Súmula nº 51 do TJGO). 2. Não é cabível na espécie a aplicação pura do artigo 85, § 2º do Código de Processo Civil, uma vez que, considerando o valor da condenação os honorários advocatícios sucumbenciais seriam ínfimos, se aplicados os percentuais de 10% a 20% sobre tal valor (artigo 85, § 2º do CPC), o que afrontaria a premissa relativa à dignidade da remuneração do causídico vencedor. Assim correta a sentença que arbitrou os honorários advocatícios sucumbenciais por apreciação equitativa, com base no artigo 85, § 8º do CPC. 3. Majora-se os honorários recursais com base no art. 85, §§ 2º e 11, do CPC. 4. RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 299/307).
+Sustenta estarem presentes os pressupostos de admissibilidade do recurso especial (e-STJ fls. 447/451).
+Sem contraminuta (e-STJ fl. 456), os autos foram encaminhados a esta Corte.
+No recurso especial, fundado no artigo 105, III, "a" e "c", da Constituição Federal, além de divergência jurisprudencial, a parte recorrente aponta violação ao artigo 85, § 2º, do Código de Processo Civil de 2015 (e-STJ fls. 311/319).
+Alega, em síntese, que o " ..  TJ/GO violou flagrantemente a norma contida no § 2.º do art. art. 85 do C.P.C. quando desproveu o recurso de apelação e majorou os honorários da sentença de 1.º grau e estabeleceu valor de honorários em desacordo com o valor da condenação  .. " (e-STJ fl. 316).
+Com contrarrazões (e-STJ fls. 428/435).
+Assim delimitada a controvérsia, passo a decidir.
+Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, no presente caso, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão à parte agravante.
+De início, o Colegiado local, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, no que diz respeito à fixação dos honorários, assim entendeu (e-STJ fls. 274/276):
+ ..
+Como cediço, segundo o § 2º do artigo 85 do Código de Processo Civil, os honorários advocatícios de sucumbência, em regra, serão fixados entre o mínimo de 10% (dez por cento) e o máximo de 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa  ..
+Na hipótese dos autos, em razão do baixo proveito econômico obtido pelo vencedor e do módico valor dado a causa, os honorários advocatícios foram fixados na sentença, por apreciação equitativa, em R$ 1.200,00 (mil e duzentos reais), nos termos do artigo 85, § 8º, do Código de Processo Civil.
+ ..
+Com efeito, em observância à premissa da dignidade da remuneração do causídico vencedor, nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz deverá fixar o valor dos honorários por apreciação equitativa, de acordo com o disposto no § 8º, do artigo 85 do Código de Processo Civil, além do grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para o seu serviço (§ 2º).
+ ..
+Neste contexto, em atenção ao disposto no artigo 85, §§ 2º e 8º, do Código de Processo Civil, notadamente à baixa complexidade da causa, merece ser mantida a sentença que fixou os honorários advocatícios de sucumbência, devidos ao patrono do apelado, por apreciação equitativa, no importe de R$ 1.200,00.
+ ..
+Dessa forma, afastar a conclusão do acórdão recorrido, que entendeu devidos os honorários advocatícios, neste caso, requer reexame de matéria fática, o que, conforme a Súmula n. 7 do Superior Tribunal de Justiça, não é cabível em recurso especial. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. MAJORAÇÃO DO VALOR ARBITRADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS NA SENTENÇA SOB A ÉGIDE DO CPC/1973. IMPOSSIBILIDADE. IRRISORIEDADE NÃO CARACTERIZADA. INCIDÊNCIA DA SÚMULA 7 DO STJ. 2. HONORÁRIOS RECURSAIS. MAJORAÇÃO EM AGRAVO INTERNO. NÃO CABIMENTO. 3. AGRAVO IMPROVIDO.
+1. O redimensionamento de verba honorária exige o revolvimento de fatos e provas dos autos, providência esta vedada no especial, em virtude do óbice do enunciado n. 7 da Súmula do STJ, compreensão relativizada apenas quando o valor fixado se mostrar irrisório ou exorbitante, o que não se verifica na hipótese dos autos.
+2. Com efeito, a jurisprudência do STJ se firmou no sentido de que não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou improvido.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.250.073/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 8/5/2018, DJe 18/5/2018).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA EMBARGADA.
+1. Este Superior Tribunal possui entendimento firmado no sentido de que rever a proporção de vitória/derrota das partes na demanda, para aferir a sucumbência recíproca ou mínima, bem como a impossibilidade de condenação em custas e honorários advocatícios de sucumbência, ante o princípio da causalidade, implica em revisão de matéria fática e probatória, providência inviável de ser adotada, em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+ ..
+3. Em relação ao pedido formulado pela parte agravada em sua impugnação, registra-se que a Segunda Seção dessa Corte, por ocasião do julgamento do AgInt nos EREsp n. 1539725/DF, firmou entendimento de que a majoração da verba honorária, na forma do art. 85, § 11, do CPC/15, somente é devida quando, dentre outros requisitos, houver condenação desde a origem no feito em que interposto o recurso - o que não ocorre no caso, visto que não foram anteriormente fixados honorários de advogado, em face da sucumbência recíproca.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.351.087/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/5/2019, DJe 3/6/2019).
+Por fim, a incidência daSúmulan. 7do Superior Tribunal de Justiça impede a análise do dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, dada a situação fática do caso, com base na qual o Tribunal de origem deu solução à causa. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CANCELAMENTO DE PLANO DE SAÚDE. INADIMPLEMENTO CONTRATUAL. DANO MORAL. NECESSIDADE DE COMPROVAÇÃO. SÚMULA 83/STJ. LESÃO EXTRAPATRIMONIAL. AUSÊNCIA DE PROVAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. CONHECIMENTO INVIABILIZADO PELA INCIDÊNCIA DAS SÚMULAS 7 E 83 DO STJ. AGRAVO DESPROVIDO.
+1. Esta Corte Superior entende que a lesão extrapatrimonial não decorre de simples inadimplemento contratual, sendo necessária a demonstração de ofensa a direitos da personalidade. Incidência do enunciado n. 83 da Súmula do STJ.
+2. Tendo o Tribunal de origem concluído que não houve a comprovação de prejuízo extrapatrimonial, a desconstituição do acórdão estadual demandaria o revolvimento fático-probatório, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do STJ.
+3. A incidência dos enunciados n. 7 e 83 da Súmula do STJ impede o conhecimento do recurso interposto tanto pela alínea a quanto pela alínea c do permissivo constitucional.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.304.018/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/4/2019, DJe 23/4/2019 - sem destaques no original).
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. PROMESSA DE COMPRA E VENDA. RESCISÃO. PARCELAS PAGAS. RETENÇÃO. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. PERCENTUAL. REEXAME DO CONTRATO E DOS DEMAIS ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. INOVAÇÃO RECURSAL. INVIABILIDADE. DECISÃO MANTIDA.
+ ..
+2. O recurso especial não comporta exame de questões que impliquem reexame do contrato e dos demais elementos fático-probatórios dos autos (Súmulas n. 5 e 7 do STJ).
+3. No caso concreto, alterar o percentual de retenção demandaria nova análise do conjunto probatório do feito, vedado em recurso especial.
+4. A incidência das Súmulas n. 5, 7 e 83 do STJ obsta o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, consoante a jurisprudência desta Corte.
+5. Incabível o exame de tese não exposta no recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.387.976/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/5/2019, DJe 20/5/2019 - sem destaques no original).
+Em face do exposto, nego provimento ao agravo e, ainda,nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
