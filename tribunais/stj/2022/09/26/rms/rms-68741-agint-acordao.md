@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de Agravo Interno interposto porSÃO BRAZ S.A. INDÚSTRIA E COMÉRCIO DE ALIMENTOScontra a decisão monocrática de minha lavra que não conheceudo Recurso Especial, fundamentada na incidência, por analogia, da Súmula n. 283, do Supremo Tribunal Federal.
+SustentaaAgravante, em síntese, o seguinte (fls. 217/218e):
+Portanto, despiciendo tratar do tema inerente aos requisitos - circunstâncias ou complexidade dos serviços de fiscalização - que autorizariam a prorrogação do prazo de 60 dias, eis que esses requisitos apenas serviam para justificar a prorrogação por uma vez. Isto é, a norma continha prazo determinante que, no caso, já se encontrava flagrantemente vencido.
+E tal como defendido nas razões do recurso ordinário, a interpretação da norma em questão - § 3º do art. 642, do RICMS/PB - deve ser feita literalmente, nos termos do art. 111, do CTN, haja vista aquele § 3º, nesse caso, se vincula à suspensão do crédito tributário prevista no art. 128, I, "a" c/c art. 133, ambos da Lei 10.094/13 do Estado da Paraíba.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 223/225e.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF.MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II -A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+III- Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Outrossim, extrai-se dos autos que o impetrante requisitou a consulta fiscal dos processos fiscais ns. 1162052017-6, 1162072017-5, 1162092017-4 e 1162112017-1 com o intuito de obstar a administração tributária de iniciar a fiscalização ou de impor o cumprimento de obrigação tributária.
+Contudo, a segurança foi denegada por não comprovar o impetrante a espontaneidade necessária, porquanto já havia ciência do termo de início de fiscalização, não sendo possível conferir o efeito paralisante previsto no art. 133 da Lei Estadual n. 10.094/2013. Ademais, a Corte de origem enfatizou a possibilidade de um prazo mais dilatado diante da complexidade e do grande volume de dados a serem examinados pelo Fisco , conforme extrai-se dos seguintes excertos do acórdão recorrido (fl. 138e):
+Consultando-se os autos virtuais, percebe-se que as consultas ns. 1162052017-6, 1162072017-5, 1162092017-4 e 1162112017-1 foram rejeitadas justamente porque o contribuinte, ora impetrante, já havia sido cientificado da expedição de termo de início de fiscalização, estando demonstrada a hipótese do art. 128, II, "a", da Lei n. 10.094/13 (ID1682831, 1682832, 1682836, 1682837, 1682840).
+A alegação de que já se esvaíra o prazo para a conclusão doprocedimento fiscalizatório, em que pese os bem alinhavados argumentos declinados na peça de ingresso, não assume maior relevo na medida em que é possível à administração tributária, como ela própria enuncia em suas informações, prorrogar o termo final para a sua conclusão, nos moldes do 642, §3º, do RICMS, sobretudo diante da noticiada complexidade e do grande volume de dados a serem analisados pelo ente tributante.
+Essa particular circunstância, aliada à ausência de espontaneidade, permite a formação de um juízo prefacial no sentido de que a ciência do termo de início de fiscalização, não obstante o alegado, constitui fator impeditivo para a admissão das consultas.
+Inexiste, portanto, direito líquido e certo a amparar a pretensão do impetrante.
+(destaquei)
+Nas razões do Recurso Ordinário, a Recorrente nada se referiu acerca da noticiada complexidade e do grande volume de dados a serem analisados pelo ente tributante, repercutindo na inadmissibilidade do recurso, visto que esta Corte tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Colendo Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. INOBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 932, III, DO CPC. IMPOSSIBILIDADE DE RETIFICAÇÃO. ART. 932, PARÁGRAFO ÚNICO CPC. NÃO INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A viabilidade do recurso ordinário pressupõe a demonstração de erro na concatenação dos juízos expostos na fundamentação do acórdão recorrido, não se mostrando suficiente a mera insurgência contra o comando contido no dispositivo, como no caso, a denegação da ordem.
+2. Nas hipóteses em que as razões do recurso não infirmam a totalidade dos fundamentos do acórdão recorrido, é dever, e não faculdade do Relator, não conhecer do recurso. Inteligência do art. 932, III, do CPC. Precedentes.
+3. Na hipótese ora examinada, apesar das alegações que agora faz a agravante, certo é que, nas razões do recurso ordinário, não apresentou, como seria de rigor, integral e específica impugnação aos fundamentos do acórdão recorrido. Daí a apontada violação ao princípio da dialeticidade.
+4. O entendimento desta Corte é no sentido de que o disposto no parágrafo único do art. 932 do CPC só se aplica à regularização de vícios meramente formais, não se prestando a suprir ou complementar fundamentação de recurso já interposto. Precedentes: AgInt no AREsp 1847578/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 07/10/2021) e AgInt no AREsp 1553836/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 19/02/2020.
+5. Agravo interno não provido.
+(AgInt no RMS n. 68.237/RJ, relator Ministro Sérgio Kukina, Primeira Turma,julgado em 23/5/2022, DJe de 27/5/2022.)
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. SÚMULAS 283 E 284 DO STF. APLICAÇÃO.
+1. É pacífica a jurisprudência desta Corte no sentido de que as Súmulas 283 e 284 do STF prestigiam o princípio da dialeticidade, por isso não se limitam ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido.
+2. Na espécie, os fundamentos do acórdão da origem não foram devidamente infirmados no recurso ordinário.
+3. Agravo interno não provido.
+(AgInt no RMS n. 65.394/AC, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno
