@@ -1,0 +1,140 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por IRMANDADE DA SANTA CASA DA MISERICÓRDIA DE SANTOS em face de decisão monocrática da lavra deste signatário que negou provimento ao recurso especial.
+O aludido apelo extremo, fundado na alínea "a" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 490):
+Apelação. Cobrança. Fornecimento de produtos. Inadimplemento. Procedência. Cerceamento de defesa. Inocorrência. Ilegitimidade ativa rechaçada. Inépcia da inicial afastada. Impugnação à gratuidade concedida Exordial corretamente instruída com as notas fiscais inadimplidas e a planilha do débito perseguido. Impugnação à gratuidade concedida à autora. Desacolhimento. Hipossuficiência demonstrada. Apontado defeito dos produtos fornecidos. Ausência de indício acerca de tal fato. Abatimento pretendido do preço desprovido de qualquer lastro probatório, a tornar genérica a alegação. Juros de mora. Termo inicial. Mora "ex re". Art. 397, "caput", do CPC. Observado que os juros moratórios incidem desde o vencimento da obrigação, bem como, que o valor indicado na planilha acostada aos autos já alberga seu cômputo até a propositura da demanda, devem estes, por conseguinte, fluir em continuação, a partir do ajuizamento da ação, na sequência ao já computado desde o inadimplemento. Pedido reconvencional. Desacolhimento. Ausência de estipulação de sanção na hipótese de demora para retira dos "dispensers" mantidos sob comodato da ré. Honorários de sucumbência. Redução. Possibilidade. Art. 85, §2º do CPC. Causa de baixa complexidade, cujo trâmite foi célere (qautro meses, com julgamento antecipado. Verba reduzida para o correspondente a 10% do valor atualizado do débito. Recurso parcialmente provido.
+Opostos embargos de declaração, esses foram parcialmente acolhidos sem efeitos modificativos (e-STJ, fls. 542):
+Embargos de declaração. Monitória. Correção monetária. Termo inicial. Omissão apontada. Suprimento. Prequestionamento. Desnecessidade de referência expressa aos dispositivos legais enfrentados, um a um. Enfrentamento da matéria controvertida. Reconhecimento do prequestionamento implícito. Embargos parcialmente acolhidos, sem efeito modificativo.
+Em suas razões recursais (e-STJ, fls. 499-523), sustenta a parte recorrente a existência de violação aos seguintes dispositivos:
+a) arts. 369, 370 e 371 do CPC/15, alegando a ocorrência de cerceamento de defesa por não ter produzido as provas requeridas;
+b) arts. 330, II, e 485, do CPC/15, a apontando a ilegitimidade ativa da recorrida, pois a empresa já encerrou suas atividades;
+c) arts. 330, I, §1º, III e 485, I, do CPC/15 defendendo a inépcia da petição inicial, porquanto a recorrida não demonstrou como concluiu pelo valor que alega devido;
+d) arts. 2º, 3º, 6º, VIII, 12 e 18 do CDC, e artigo 476 do Código Civil, aduzindo a aplicabilidade da legislação consumerista e a inexigibilidadedo débito cobrado ante a constatação de vícios e defeitos nos produtos fornecidos pela recorrida;
+e) arts. 405 do Código Civil e 1º da Lei 6.899/81, sustentando que a correção monetária deve incidir a partir do ajuizamento da ação e os juros a partir da citação válida;
+f) art. 628, parágrafo único, do Código Civil, alegando fazer jus ao recebimento de remuneração pela guarda e depósito dos equipamentos (dispensers) desde a rescisão do contrato de comodato até a doação.
+Contrarrazões apresentadas às fls. 550-562 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 563 (e-STJ), ascenderam os autos a esta Corte.
+Em decisão monocrática (e-STJ, fls. 571-580), este signatário negou provimento ao recurso especial em razão da incidência das Súmulas 5/STJ, 7/STJ, 83/STJ, 283/STF e 211/STJ.
+No presente agravo interno (e-STJ, fls. 613-638), a ora agravante combate o óbice supracitado e reitera os mesmos argumentos lançados nas razões do apelo extremo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Inexiste nulidade quando o julgamento antecipado da lide decorre, justamente, do entendimento do Juízo a quo de que o feito está devidamente instruído com os documentos trazidos pelas partes. Precedentes.
+2. O acolhimento do inconformismo recursal, no sentido de aferir a suficiência das provas constantes dos autos, bem como analisar a existência do apontado cerceamento de defesa implicaria no revolvimento de todo o contexto fático-probatório, providência que esbarra no óbice da Súmula 7/STJ.
+3. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual. Incidência da Súmula 283/STJ.
+4. Para rever o entendimento do Tribunal de origem quanto à tese de inépcia da inicial, na forma como posta, seria imprescindível o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial pelo óbice da Súmula 7/STJ. Precedentes.
+5. A ausência de enfrentamento das teses de incidência da legislação consumerista e da exceção de contrato não cumprido, pelo Tribunal de origem, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211/STJ.
+6. Consoante entendimento pacífico nesta Corte Superior, nas hipóteses em que a dívida é líquida e com vencimento certo, os juros de mora e a correção monetária devem incidir desde o vencimento da obrigação. Incidência da Súmula 83/STJ.
+7. A Corte de origem, após apreciar o contrato pactuado pelas partes e os contornos fáticos da lide, concluiu que inexistia previsão contratual de multa à autora caso os equipamentos não fossem retirados no prazo de dez dias a partir da rescisão, razão pela qual o depósito desse período presume-se gratuito, não havendo se falar em ofensa ao art. 628 do Código Civil. Derruir tal conclusão é inviável em sede de recurso especial, ante a incidência das Súmulas 5 e 7 do STJ.
+8. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Em relação à alegada ofensa aos arts. 369, 370 e 371, do CPC/15, a decisão agravada merece ser mantida.
+No ponto, a agravante reitera os argumentos no sentido de que houve cerceamento de defesa, pois não teve a oportunidade de produzir prova pericial e testemunhal.
+Entretanto, a Corte estadual afastou o alegado cerceamento de defesa nos seguintes termos (e-STJ, fls. 491-492):
+A prova carreada aos autos é bastante e suficiente para a adequada dirimência da lide. O magistrado possui poder discricionário de decidir acerca da necessidade de produzir instrução probatória para formar seu convencimento, devendo indeferir as diligências havidas por inúteis ou meramente protelatórias (art. 370, CPC). A prova que a ré pretendia realizar para demonstrar suas alegações não seria útil para o processo porque toda a matéria sobre a qual repousa a controvérsia encerra questão de ordem documental, ficando inviável reconhecer-se cerceamento de defesa pela não realização de uma prova que não teria o condão de alterar o resultado da lide (RT 795/289). O julgamento do processo deu-se corretamente à época para excluir a necessidade de outras provas além daquelas já constantes dos autos, que, se fossem ordenadas, apenas encareceriam e retardariam a rápida solução da divergência em descompasso com a sua instrumentalidade e à economia dos atos processuais, inexistente, dessa forma, qualquer comprovação da real necessidade da realização de perícia contábil. Prova desnecessária e inútil não se realiza no processo, que é instrumento de razão destinado à solução da controvérsia havida entre as partes, cuja solução deve ser obtida dentro de sua razoável duração, tal qual passou a enfatizar a Emenda Constitucional de número 45, de 2.004, ao introduzir a redação do art. 5º, inciso LXXVIII, e com isso reconhecer, aí, a existência de um direito subjetivo da parte relativamente ao Estado, que tem a obrigação de expedir a tutela jurisdicional adequadamente, com utilidade e proveito. O juiz como destinatário da prova processo tem a faculdade de examinar a sua necessidade, utilidade, e o dever de indeferi-la, no exercício dos seus poderes instrutórios (art. 371, do Código de Processo Civil), sempre que se revelar o inverso, tal qual se verificou na ocasião, pois nenhuma influência exerceria no desate do litígio, que é simples.
+Como se vê, o Tribunal estadual, soberano no exame do conjunto fático-probatório dos autos, asseverou que não houve cerceamento de defesa, porquanto não havia necessidade de produzir outras provas além dos documentos já constavam nos autos.
+Sobre o tema, cumpre ressaltar que os princípios da livre admissibilidade da prova e da persuasão racional, nos termos dos arts. 370 e 371 do atual Código de Processo Civil, autorizam o julgador a determinar as provas que entende necessárias à solução da controvérsia, como ocorreu no presente caso.
+Com efeito, não configura o aludido cerceamento quando o Julgador, entendendo substancialmente instruído o feito, motiva a sua decisão na existência de elementos suficientes para formação da sua convicção. No caso, o indeferimento das provas requeridas inseriu-se no âmbito do livre convencimento motivado do julgador. Corroboram este entendimento os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL C/C REPARAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. REALIZAÇÃO DE NOVA PERÍCIA INDEFERIDA. NECESSIDADE DA DILIGÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. 1. Segundo entendimento desta Corte, cabe ao juiz, como destinatário final das provas, avaliar e deferir a produção probatória que considerar necessária à formação do seu convencimento, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias sem que implique em cerceamento de defesa. 2. O reexame de fatos e provas em recurso especial é inadmissível. 3. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp 949.561/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 05/12/2017, DJe 12/12/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS PATRIMONIAIS E MORAIS. CERCEAMENTO DE DEFESA. NOVA PERÍCIA. LIVRE CONVENCIMENTO. PROPRIEDADE DO IMÓVEL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. HONORÁRIOS. CAUSA COM CONDENAÇÃO. OBSERVÂNCIA DOS LIMITES LEGAIS. CPC/1973. AUSÊNCIA DE COMPROVAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. DECISÃO MANTIDA. 1. "O Juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 130 do CPC/73" (AgRg no AREsp n. 501.483/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/4/2020, DJe 27/4/2020). (..) 5. Agravo interno a que se nega provimento. (AgInt no AREsp 820.427/MA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/06/2020, DJe 15/06/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. OFENSA À HONRA E À IMAGEM. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DANO MORAL. NÃO CARACTERIZAÇÃO. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO. 1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. (..) 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1500131/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/06/2020, DJe 15/06/2020)
+Assim, denota-se que a Corte de origem decidiu de acordo com o entendimento do Superior Tribunal de Justiça, o que atrai a incidência do enunciado da Súmula n. 83 do STJ, aplicável aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+2. Ademais, verifica-se que o Tribunal concluiu pela desnecessidade de produção de outras provas além das que já constavam nos autos. Desse modo, reanalisar a suficiência das provas que instruem os autos demandaria revolvimento fático-probatório, providência incompatível com o apelo especial, conforme Súmula 7/STJ.
+Corroboram essa conclusão os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO REDIBITÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. NECESSIDADE DE PRODUÇÃO DE PROVAS. CERCEAMENTO DE DEFESA. REEXAME DE FATOS. SÚMULA Nº 7/STJ. HONORÁRIOS RECURSAIS. CONDENAÇÃO. DESCABIMENTO. AUSÊNCIA DE FIXAÇÃO NA ORIGEM.
+(..)
+4. A modificação do entendimento adotado pelo tribunal de origem quanto à necessidade ou não de se produzir outras provas, além daquelas já produzidas, demandaria o reexame do contexto fático-probatório dos autos, providência vedada em recurso especial, haja vista o óbice da Súmula nº 7/STJ.
+(..)
+6. Agravo interno parcialmente provido.
+(AgInt no AREsp 1222525/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 28/08/2018, DJe 05/09/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. VIOLAÇÃO AOS ARTS. 131, 332, 334, I, DO CPC/73. NÃO OCORRÊNCIA. JUIZ É DESTINATÁRIO FINAL DAS PROVAS. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. SUFICIÊNCIA DAS PROVAS. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. DESCABIMENTO. ACÓRDÃO RECORRIDO PUBLICADO NA VIGÊNCIA DO CPC/73. REFORMA DA DECISÃO AGRAVADA PARA AFASTAR OS HONORÁRIOS RECURSAIS FIXADOS. AGRAVO PROVIDO PARCIALMENTE.
+(..)
+3. Para se concluir que a prova cuja produção fora requerida pela parte é ou não indispensável à solução da controvérsia, seria necessário se proceder ao reexame do conjunto fático-probatório, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7/STJ.
+(..)
+(AgInt no AREsp 1116396/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 26/06/2018, DJe 01/08/2018)
+3. Acerca da suposta violação aos arts. 330, II, e 485, do CPC/15, a decisão agravada também não merece reforma.
+Em suas razões, a parte repisou a tese de ilegitimidade ativa da recorrida, ao argumento de que a empresa já encerrou suas atividades.
+Todavia, no ponto, o Tribunal afastou a referida tese com base no seguinte fundamento (e-STJ, fl. 493):
+De igual modo, não há que se falar em ilegitimidade ativa. Como bem declinado pelo MM. Juízo "a quo", a inatividade da pessoa jurídica não se constitui em seu encerramento, de sorte que absolutamente possível que figure no polo ativo da ação de cobrança.
+Contudo, malgrado o esforço argumentativo, a parte recorrente não logrou infirmar nas razões do especial o referido fundamento, de modo que a pretensão reformatória encontra obstáculo na Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. CESSÃO DE CRÉDITO. ARRESTO DE DUPLICATAS. TRANSAÇÃO NÃO CAMBIAL. NECESSIDADE DE REGISTRO EM CARTÓRIO. ACÓRDÃOS. FUNDAMENTOS NÃO IMPUGNADOS. NECESSIDADE DE REEXAME DE PROVAS E CLÁUSULAS CONTRATUAIS. SÚMULAS 283/STF E 5 E 7/STJ.
+1. É inadmissível o apelo especial que não impugna motivação do acórdão recorrido apta, por si só, a manter a conclusão a que chegou a Corte estadual (enunciado 283 da Súmula do STF).
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1318705/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/02/2019, DJe 12/02/2019)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. LOCAÇÃO NÃO RESIDENCIAL. AÇÃO RENOVATÓRIA. JULGAMENTO ULTRA PETITA. FUNDAMENTO DO ACÓRDÃO RECORRIDO INATACADO. INCIDÊNCIA DA SÚMULA Nº 283 DO STF. ENTREGA DO IMÓVEL. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO POR PERDA DO OBJETO. CONDENAÇÃO DA AUTORA/LOCATÁRIA AO DE PAGAMENTO DOS ALUGUEIS DEVIDOS NO PERÍODO. NECESSIDADE. RECURSO A QUE SE NEGA PROVIMENTO.
+(..)
+2. A ausência de impugnação ao fundamento adotado pelo acórdão recorrido que, por si só, é capaz de manter o entendimento então firmado, atrai a incidência, por analogia, da Súmula nº 283 do STF.
+(..)
+5. Recurso especial a que se nega provimento. (REsp 1528931/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 13/11/2018, DJe 20/11/2018)
+4. No que tange à alegada ofensa aos arts. 330, I, §1º, III e 485, I, do CPC/15, a decisão agravada também merece ser mantida.
+No ponto, a parte defendendo a ocorrência de inépcia da petição inicial, uma vez que a recorrida não demonstrou como concluiu pelo valor que alega devido.
+Contudo, a Corte estadual afastou a referida tese com base nos seguintes termos (e-STJ, fl. 493):
+Também não se vislumbra inépcia da inicial. A exordial foi regularmente instruída com as notas fiscais emitidas e inadimplidas pela ré, acompanhadas de planilha de cálculos com os valores discriminados, bem como, encargos moratórios (fls. 14/54 e 55/57).
+Dessa forma, tendo o Tribunal a quo consignado a inexistência de inépcia da inicial, a reforma do acórdão, neste aspecto, demanda reexame de matéria fático-probatória, providência inviável de ser adotada em sede de recurso especial, ante a incidência da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. Para rever o entendimento do Tribunal de origem quanto às teses de ilegitimidade passiva ad causam e de inépcia da inicial, na forma como posta, seria imprescindível o reexame do conjunto fático-probatório dos autos, providência vedada em sede de recurso especial pelo óbice da Súmula 7 do STJ. Precedentes.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 1266491/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/10/2020, DJe 16/11/2020)
+5. Em que pese a irresignação da parte agravante, o exame dos autos revela que a matéria contida nos arts. 2º, 3º, 6º, VIII, 12 e 18 do CDC, e artigo 476 do Código Civil, apontados como violados, é estranha ao acórdão recorrido, faltando-lhes o indispensável prequestionamento, do qual não estão isentas nem mesmo as questões de ordem pública, por força do próprio comando constitucional que prevê o recurso especial.
+Com efeito, as teses referentes à incidência da legislação consumerista e da exceção de contrato não cumprido não foram objeto de apreciação pelo Tribunal de origem.
+Cabe destacar que o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, constitui exigência contida na própria previsão constitucional, ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+Dessa forma, não basta à parte discorrer sobre o dispositivo legal que entende afrontado. Não examinada pela instância ordinária a matéria objeto do especial, inafastável a compreensão de que não houve prequestionamento a respeito de referidas teses jurídicas, atraindo a aplicação da Sumula 211/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. TRANSPORTE COLETIVO. 1. APRESENTAÇÃO DE MEMORIAIS. FACULDADE DO MAGISTRADO. AUSÊNCIA DE NULIDADE. SÚMULA 83/STJ. 2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 3. ATIVIDADE LABORATIVA PREJUDICADA. PENSIONAMENTO. CABIMENTO. PRECEDENTES. 4. INCAPACIDADE PERMANENTE. PENSÃO VITALÍCIA. SÚMULA N. 83/STJ. 5. REDUÇÃO DO QUANTUM INDENIZATÓRIO. NÃO DEMONSTRADA A ABUSIVIDADE NO VALOR FIXADO NAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 7/STJ. 6. JUROS DE MORA. TERMO INICIAL A PARTIR DA CITAÇÃO. PRECEDENTES. 7. VALOR DO SALÁRIO MÍNIMO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 8. AGRAVO INTERNO DESPROVIDO.
+(..)
+7. A ausência de prequestionamento se evidencia quando o conteúdo normativo contido nos dispositivos supostamente violados não foi objeto de debate pelo Tribunal de origem. Hipótese em que incide o rigor da Súmula n. 211/STJ.
+8. Agravo interno desprovido.
+(AgInt no REsp 1764771/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/02/2019, DJe 14/02/2019)
+PROCESSUAL CIVIL E AMBIENTAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. EXTRAÇÃO DE AREIA. LICENCIAMENTO AMBIENTAL. SIGNIFICATIVO IMPACTO. DEFINIÇÃO. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. RESOLUÇÃO DO CONAMA. LEI FEDERAL. NÃO ENQUADRAMENTO.
+(..)
+3. Há manifesta ausência de prequestionamento, a atrair a aplicação da Súmula 211 do STJ, quando os conteúdos dos preceitos de lei federal suscitados na peça recursal não são examinados na origem, mesmo após opostos embargos de declaração.
+(..)
+7. Agravo interno desprovido.
+(AgInt no REsp 1387696/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 13/12/2018, DJe 13/02/2019)
+6. Também não merece reparos a decisão agravada que aplicou o óbice da Súmula 83/STJ à pretensão recursal relativa aos arts. 405 do Código Civil e 1º da Lei 6.899/81.
+Nesse ponto, a parte sustenta que a correção monetária deve incidir a partir do ajuizamento da ação e os juros a partir da citação válida.
+Sobre o tema, a Corte de origem entendeu o seguinte (e-STJ, fl. 545):
+O débito perseguido se refere a notas fiscais com vencimento certo e valor conhecido cumprindo rememorar que restou incontroverso, à míngua de impugnação específica, que o pagamento se daria 28 dias após a emissão do título , de forma que a simples ausência de pagamento já é capaz de configurar a mora do devedor. E, tratando-se de mora "ex re", impõe-se a aplicação da regra estabelecida no "caput" do artigo 397 do Código Civil, segundo o qual em se tratando de obrigação líquida e com prazo certo de vencimento, a mora se dá automaticamente a partir da data em que a obrigação deveria ter sido cumprida.
+Conforme asseverado na decisão singular, o referido entendimento encontra-se em harmonia com a jurisprudência desta Corte Superior.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTENRO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de cobrança.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Nas situações em que a dívida é líquida e com vencimento certo, os juros de mora e a correção monetária devem incidir desde o vencimento da obrigação, mesmo nos casos de responsabilidade contratual. Súmula 568/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1977438/RS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2022, DJe 06/04/2022)
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TERMO INICIAL DOS JUROS DE MORA. OBRIGAÇÃO LÍQUIDA E CERTA. DATA DO VENCIMENTO DA OBRIGAÇÃO. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. Nos casos em que a dívida é líquida e com vencimento certo, os juros de mora e a correção monetária devem incidir desde o vencimento da obrigação. Incidência da Súmula 83/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1951601/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/02/2022, DJe 24/02/2022)
+Logo, uma vez que o entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, impõe-se o óbice da Súmula n. 83 do STJ.
+7. Por fim, no que diz respeito à violação ao art. 628, parágrafo único, do Código Civil, a agravante alegou fazer jus ao recebimento de remuneração pela guarda e depósito dos equipamentos (dispensers) desde a rescisão do contrato de comodato até a doação.
+Todavia, a Corte de origem, após apreciar o contrato pactuado pelas partes e os contornos fáticos da lide, concluiu que inexistia previsão contratual de multa à autora caso os equipamentos não fossem retirados no prazo de dez dias a partir da rescisão, razão pela qual o depósito desse período presumiu-se gratuito, não havendo se falar em ofensa ao art. 628 do Código Civil.
+Confira-se (e-STJ, fl. 494):
+Como bem declinado pelo magistrado de piso "O contrato de comodato não prevê nenhuma penalidade à autora caso os equipamentos não fossem retirados no prazo de dez dias a partir da rescisão. Assim, por força do artigo 628 do Código Civil, o depósito desse período presume-se gratuito" fl. 365. Ademais, não há, novamente, qualquer indício de prejuízo pelo eventual armazenamento dos "dispensers", isso se não foram utilizados até que os produtos fornecidos pela autora esgotassem, insuficientes à pretensão da apelante as fotos acostadas às fls. 335/338, que apenas retratam caixas de papelão cujo o conteúdo é desconhecido.
+Nesse contexto, os argumentos utilizados para fundamentar a pretensa violação legal somente poderiam ter sua procedência verificada mediante o reexame das cláusulas pactuadas entre as partes e das circunstâncias de fato pertinentes ao caso, o que não se admite em recurso especial, diante da aplicação das Súmulas 5 e 7 desta Corte.
+Nesse sentido:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESILIÇÃO CONTRATUAL. CONTRATO DE COMPRA E VENDA. RESOLUÇÃO. RESTITUIÇÕES RECÍPROCAS DO BEM PELO COMPRADOR, DO PREÇO PELO VENDEDOR. DESCONTO DO VALOR DE CLÁUSULA PENAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284/STF. INCIDÊNCIA. PREQUESTIONAMENTO AUSENTE. SÚMULA 211 DO STJ. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. REINTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão e a reinterpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos dos enunciados das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1611171/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/06/2020, DJe 04/06/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1739068/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 08/11/2018, DJe 16/11/2018)
+De rigor, portanto, a manutenção da decisão agravada.
+8. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
