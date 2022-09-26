@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício deARMANDERSON DOS ANJOS ROCHA contra acórdão da 1ª Câmara Criminal do Tribunal de Justiça do Estado do Maranhão (HC n.0813122-28.2022.8.10.0000).
+Extrai-se dos autos que o paciente foi preso preventivamente em 14/6/2022 pela suposta prática dos delitos tipificados nos arts. 171 e 288 do Código Penal, e 7º, inciso VII da Lei n. 8.137/1990.
+Contra a decisão, a defesa impetrou a ordem originária, que foi denegada pelo Tribunala quo, em acórdão assim ementado (e-STJ fls. 92/102):
+PENAL. PROCESSO PENAL. HABEAS CORPUS. ESTELIONATO. ASSOCIAÇÃO CRIMINOSA. CRIME CONTRA AS RELAÇÕES DE CONSUMO. CONCURSO MATERIAL. GRAVIDADE CONCRETA DAS CONDUTAS E VÁRIOS REGISTROS CRIMINAIS PELOS MESMOS FATOS. INDICADORES DE PERICULOSIDADE. REQUISITOS E FUNDAMENTOS DA PREVENTIVA PRESERVAÇÃO DA ORDEM ECONÔMICA. POSSIBILIDADE DE REITERAÇÃO CRIMINOSA.
+1. Segundo as informações, a acusação relatou que o paciente em concurso de agentes, supostamente, induzia as vítimas a acreditarem que estavam a firmar contrato de financiamento, de maneira que somente depois se davam conta que, na realidade, aderiram a um consórcio, razão porque buscaram os órgãos de defesa do consumidor para comunicarem a lesão perpetrada.
+2. Requisitos e fundamentos da preventiva presentes. Necessidade de preservação da ordem econômica e ordem pública. Paciente que ostenta diversos registros pelo mesmo fato, envolvendo possível indução a erro de várias pessoas humildes com baixo poder aquisitivo, com obtenção de vantagem econômica. Possibilidade de reiteração delitiva com danos concretos.
+3. De outro lado a gravidade concreta da conduta também é motivo para manutenção da custódia, mormente tendo em vista o bem-estar social, razão porque a soltura do acusado não se mostra recomendável por conta do comprometimento da ordem pública, ordem econômica e periculosidade concreta da conduta.
+4. HABEAS CORPUS conhecido e denegado.
+No presente recurso, a defesa alega, em síntese,que o pacienteé primário, empresário de bons antecedentes, com residência fixa, e que os crimes não envolvem violência ou grave ameaça.Aponta a ausência dos requisitos do art. 312 do CPP, comfundamentos idôneos e contemporâneos para a prisão. Aduz que a instrução criminal encerrou em 19/8/2022.Defende que não foi demonstrada a insuficiência da aplicação de medidas cautelares alternativas.
+Requer, assim, a revogação da prisão, com ou sem aplicação de medidas cautelares alternativas.
+Processo distribuído a esta relatoria por prevenção do RHC n. 171.234/MA, vinculado ao mesmo ato coator e ao mesmo paciente.
+É o relatório. Decido.
+O presente mandamus não será conhecido.
+Primeiro por inadequação da via eleita.De acordo com a nossa sistemática recursal, o recurso cabível contra acórdão do Tribunal de origem que denega a ordem no habeas corpus é o recurso ordinário, consoante dispõe o art. 105, II, "a", da Constituição Federal. Do mesmo modo, o recurso adequado contra acórdão que julga apelação ou recurso em sentido estrito é o recurso especial, nos termos do art. 105, III, da Constituição Federal.
+Acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, a jurisprudência desta Corte Superior firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+Nesse sentido, encontram-se, por exemplo, estes julgados: HC n. 313.318/RS, Quinta Turma, RelatorMinistroFELIX FISCHER, julgamento em 7/5/2015, DJ de 21/5/2015; HC n. 321.436/SP, Sexta Turma, RelatoraMinistraMARIA THEREZA DE ASSIS MOURA, julgado em 19/5/2015, DJ de 27/5/2015.
+No entanto, nada impediria que, de ofício, este Tribunal Superior constatassea existência de ilegalidade flagrante.
+Ocorre que tal perquirição não poderá ser feita porque, em segundo lugar, opresentehabeas corpusrepresentareiteração do RHCn.171.234/MA(mesmo acórdão impugnado), o qual foi interposto por primeiro (em 21/9/2022) e é a via adequada para a impugnação do writ originário.
+Portanto, tratando-se de mera reiteração de recurso anterior, incabível o conhecimento do pedido.
+É de se considerar que "é pacífico o entendimento firmado nesta Corte de que não se conhece dehabeas corpuscuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, RelatorMinistro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019).
+Ante o exposto, com amparo no art. 34, inciso XX do Regimento Interno do Superior Tribunal de Justiça,não conheçodohabeas corpus.
+Intimem-se.
