@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+JOSÉ RICARDO DA SILVEIRA (JOSÉ RICARDO) ajuizou ação cominatória contra AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. (AMIL), alegando que foi diagnosticado com insuficiência cardíaca, que lhe foi prescrito o tratamento percutâneo com implante de Mitraclip e que AMIL recusou-se a custear o tratamento indicado, autorizando apenas o custeio de tratamento diverso (valvoplastia percutânea por via transeptal); que, em razão da urgência, foi submetido à cirurgia para implantação do dispositivo, mediante assinatura de termo de responsabilidade pelo pagamento de despesas não cobertas no valor de R$ 212.175,25 (duzentos e doze mil, cento e setenta e cinco reais e vinte e cinco centavos).
+Em primeira instância, o pedido foi julgado procedente para condenar AMIL ao custeio do tratamento (tratamento percutâneo, com implante de Mitraclip), e de todos os materiais utilizados no tratamento (fl.36), de acordo com a prescrição médica (e-STJ, fls. 276.279).
+A apelação interposta por AMIL não foi provida pelo Tribunal de Justiça de São Paulo, nos termos do acórdão relatado pelo Des. J. B. PAULA LIMA, assim ementado:
+PLANO DE SAÚDE. NEGATIVA DE COBERTURA. INDICAÇÃO DE TRATAMENTO PERICUTÂNEO COM IMPLANTE DE "MITRACLIP".AUTOR IDOSO DIAGNOSTICADO COMO HIPERTENSO, DIABÉTICO E CORONARIOPATA, COM ANGIOPLASTIA PRÉVIA DE ARTÉRIAS. IMPOSSIBILIDADE. CONTRATO ANTERIOR À VIGENCIA DA LEI 9.656/98 E A ELA NÃO ADAPTADO.INAPLICABILIDADE DA LEI DOS PLANOS DE SAÚDE EM OBSERVÂNCIA AO JULGAMENTO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº 1.931, EM FEVEREIRO DE 2018, PELO COLENDO SUPREMO TRIBUNAL FEDERAL. RÉ QUE NÃO COMPROVOU A EXCLUSÃO DE COBERTURA CONTRATUAL.OFENSA AO CÓDIGO DE DEFESA DO CONSUMIDOR.JURISPRUDÊNCIA DESTE E. TRIBUNAL DE JUSTIÇA. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Plano de Saúde. Autor idoso e diagnosticado como "hipertenso, diabético e coronariopata, com angioplastia prévia de artérias.
+Indicação de tratamento percutâneo, com implante de Mitraclip.
+Negativa de cobertura de operadora. Contrato antigo, não adaptado.
+Inaplicabilidade da Lei nº 9.656/98 diante do julgamento da Ação Direta de Inconstitucionalidade nº 1.931, em fevereiro de 2018, em que o Colendo Supremo Tribunal Federal decidiu que a Lei nº 9.656/98 não tem aplicação aos contratos celebrados antes de sua vigência. Ré que não comprovou a exclusão de cobertura contratual. Incidência do Código de Defesa do Consumidor. Questão sumulada por este E.Tribunal de Justiça.Jurisprudência desta Corte. Sentença mantida.
+Recurso não provido (e-STJ, fl. 377).
+Os embargos de declaração opostos por AMIL foram rejeitados (e-STJ, fls.404/414).
+Inconformada, AMIL manejou recurso especial com fulcro no art. 105, III, a, da Constituição Federal, alegando violação dos arts. (1) 1.022 do NCPC, aduzindo que não foi apreciada a questão da inexistência de cobertura para os materiais requeridos, pois o contrato foi firmado antes do advento da Lei n.º 9.656/98; e (2) 35 da Lei n.º 9656/98, destacando que o acórdão impugnado não poderia ter aplicado as Leis n.ºs 8.078/90 e 9.656/98 à hipótese vertente, tendo em vista que o contrato celebrado foi firmado antes da entrada em vigor da Lei dos Planos de Saúde.
+O recurso especial não foi admitido na origem, ante a ausência de negativa de prestação jurisdicional e ausência de interesse recursal (e-STJ, fls. 424/426).
+AMIL interpôs agravo em recurso especial, refutando os óbices de prelibação (e-STJ, fls. 429/435).
+Nesta Corte, conheci do agravopara conhecerem partedo apelo nobre e, nessa extensão, negar-lhe provimento, nos termos da decisão monocrática de minha relatoria, assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO COMINATÓRIA. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISPRUDENCIAL. NÃO OCORRÊNCIA.CONTRATO FIRMADO ANTERIORMENTE À LEI Nº 9.656/98.POSSIBILIDADE. CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DESTA CORTE SUPERIOR. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO (e-STJ, fl. 453).
+Nas razões do presente agravo interno, AMIL pugnou pela inaplicabilidade da Súmula n.º 568 do STJ, sob o entendimento de quea projeção retroativa da lei nova, mesmo tratando-se de retroatividade mínima, ainda que para aceitar a incidência do CDC ao contrato anterior àLei n.º 9.656/98, incide na vedação constitucional que protege a incolumidade do ato jurídico perfeito, igualmente respaldado pelo art6º, caput, e § 1º, da LINDB.
+Foi apresentada impugnação (e-STJ, fls. 479/483).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO E INEXISTÊNCIA DE DÉBITO. PLANO DE SAÚDE.AÇÃO COMINATÓRIA.CONTRATO FIRMADO ANTERIORMENTE À LEI N.º9.656/98.POSSIBILIDADE. APLICAÇÃO. CDC. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2."É inviável o conhecimento do Recurso Especial por violação do art. 6º da LICC, uma vez que os princípios contidos na Lei de Introdução ao Código Civil - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988)" (AgRg no REsp n.º 1.402.259/RJ, Rel. Ministro SIDNEI BENETI, DJe 12/6/2014).
+3.Agravo interno não provido.
+VOTO
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Da impossibilidade de análise de violação do art. 6º da LINDB
+Nas razões da presente insurgência recursal, AMILpugnou pela inaplicabilidade da Súmula n.º 568 do STJ, sob o entendimento de que a projeção retroativa da lei nova, mesmo tratando-se de retroatividade mínima, ainda que para aceitar a incidência do CDC ao contrato anterior àLei n.º 9.656/98, incide na vedação constitucional que protege a incolumidade do ato jurídico perfeito, igualmente respaldado pelo art 6º, caput, e § 1º, da LINDB.
+Sobre o tema, consoante a jurisprudência desta Corte, é inviável o conhecimento do recurso especial por violação do art. 6º da LINDB, uma vez que os princípios nele contidos - ato jurídico perfeito, direito adquirido e a coisa julgada -, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA.  .. . 1. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS E DE VIOLAÇÃO AO ART. 6º DA LINDB. IMPOSSIBILIDADE. COMPETÊNCIA DO STF.  ..  6. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte, é "inviável o conhecimento do Recurso Especial por violação do art. 6º da LICC, uma vez que os princípios contidos na Lei de Introdução ao Código Civil - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988)" - (AgRg no REsp n. 1.402.259/RJ, Relator o Ministro Sidnei Beneti, DJe 12/6/2014).
+ ..  6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.577.650/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 6/4/2020)
+AGRAVO IN TERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+ ..  2. Conforme a jurisprudência desta Corte, a matéria contida no art. 6º da LINDB possui cunho eminentemente constitucional, pois consiste em mera reprodução do art. 5º, XXXVI, da CF/88, o que inviabiliza o conhecimento do apelo nobre nesse ponto, sob pena de usurpação de competência do Supremo Tribunal Federal. Precedentes.
+ ..  4. Agravo interno desprovido.
+(AgInt no AREsp 1.241.285/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, DJe 28/5/2020)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
