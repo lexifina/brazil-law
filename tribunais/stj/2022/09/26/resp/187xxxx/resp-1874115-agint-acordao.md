@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+CHINA CONSTRUCTION BANK (BRASIL) BANCO MÚLTIPLO S.A. (BANCO), atual denominação de BANCO INDUSTRIAL E COMERCIAL S.A., ajuizou ação de execução por quantia certa contra devedor solvente em desfavor de VIDRALLE VIDROS DE SEGURANÇA LTDA. (VIDRALLE), WM COMÉRCIO E INDÚSTRIA DE VIDROS LTDA. (WM), JOSÉ ALLE HAIDAR FILHO (JOSÉ),FRANCISCO WINISTON TEIXEIRA (FRANCISCO) e RENATO MAIA PUPO (RENATO), pleiteando o recebimento de R$ 1.108.935,44 (um milhão, cento e oito mil, novecentos e trinta e cinco reais e quarenta e quatro reais) em razão de cédulas de crédito não pagas (e-STJ, fls. 57/62).
+WM eRENATO opuseram embargos à execução, alegando inépcia da inicial por falta de apresentação dos títulos originais, nulidade do aval prestado por falta de outorga uxória e irregularidade na qualificação do garante, ilegalidade na tarifa de cadastro, capitalização indevida de juros e, ainda, ilegalidade na cláusula que previa o vencimento antecipado da dívida.
+A sentença julgouparcialmente procedentes os pedidos formulados nessesembargos, apenas paradeclarar a inexigibilidade da dívida em relação a RENATO, por falta de outorga uxória(e-STJ, fls. 313/317).
+Os embargos de declaração opostos por BANCO foram rejeitados, enquanto os aclaratórios manejados por WM foram acolhidos para sanar omissão referente ao pedido de revisão de alguns encargos bancários, sem alteração do julgamento(e-STJ, fls. 358/361).
+O Tribunal de Justiça do Distrito Federal e dos Territórios negou provimento ao recurso de apelação manejado por BANCO e deu parcial provimento àquele interposto por WM, para afastar a cobrança da Tarifa de Abertura de Crédito.
+Referido acórdão ficou assim ementado:
+APELAÇÃO CÍVEL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. CAPITALIZAÇÃO DE JUROS. VALIDADE. TAC. EXCLUSÃO. POSSIBILIDADE. FIANÇA. INVALIDADE. NECESSIDADE DE OUTORGA DO CÔNJUGE. RECURSO DA EMBARGANTE PARCIALMENTE PROVIDO. RECURSO DA EMBARGADA DESPROVIDO.
+1. Cabe ao Juiz dispensar as provas desnecessárias ou inúteis ao julgamento da contenda. A bem da verdade, nesse seu mister, nada mais fez do que rejeitar as diligências que considerava inúteis ou protelatórias, as quais acabariam por prorrogar ainda mais a entrega da tutela jurisdicional por parte do Estado. Preliminar rejeitada.
+2. Não se aplica o Código de Defesa do Consumidor à pessoa jurídica adquirente de produtos ou serviços bancários. Não obstante, a empresa pode ser equiparada à condição de consumidor, caso apresente frente ao fornecedor alguma vulnerabilidade (técnica, jurídica ou fática). Trata-se da aplicação mitigada da teoria finalista frente às pessoas jurídicas, segundo a qual somente pode ser equiparado a consumidor, para fins de tutela pela Lei Federal 8.078/90, aquele que exaure a função econômica do bem ou serviço, excluindo-o de forma definitiva do mercado de consumo.
+Precedentes deste Tribunal: (TJDFT, Acórdão 951226, 20150110859522APC, Relator: MARIA IVATÔNIA 5ª TURMA CÍVEL, Data de Julgamento: 29/06/2016, Publicado no DJE: 05/07/2016. Pág.: 776/798).
+3. É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP 1.963-17/00, reeditada como MP 2.170-36/01), desde que expressamente pactuada. (Enunciado de Súmula 539 do STJ)
+4. A partir da edição da Resolução CMN 3.518/2007, de 30.4.2008, é indevida a cobrança da Tarifa de Abertura de Crédito (TAC).
+5. A fiança prestada sem autorização de um dos cônjuges implica a ineficácia total da garantia, conforme preconiza a Súmula 332 do Superior Tribunal de Justiça.
+6. Recurso da embargante conhecido e parcialmente provido. Recurso da embargada conhecido e desprovido.(e-STJ, fls. 438/439)
+Os embargos de declaração opostos por BANCOforam rejeitados (e-STJ, fls. 785/789).
+Inconformado, BANCO interpôs recurso especial com fundamento nas alíneasaecdo permissivo constitucional, apontando a violação dos arts.(1)1.022, II, do NCPC, por reputar omisso e contraditório o acórdão recorrido quanto atese de que a fiança e a responsabilidade solidária constituiriam institutos de natureza distintas; e(2)1.647,caput,III, do CC/02, sob o argumento de que (2.1) RENATO não teria figurado no título comoavalista, mas sim comodevedor solidárioe de que (2.2) mesmo admitindo-se tratar-se de aval,não haveria necessidade de outorga uxória para validade da garantia.Por fim, apontou dissenso pretoriano, tendo por paradigma precedente desta Corte Superior.
+Apresentadas contrarrazões (e-STJ, fls. 860/867), o recurso especial foi admitido na origem (e-STJ, fls. 868/870) e, em seguida, parcialmente provido por decisão monocrática de minha lavra que reconheceu a validade do aval prestado por RENATO, assim resumida:
+PROCESSUAL CIVIL E COMERCIAL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. AÇÃO DE EXECUÇÃO POR QUANTIA CERTA CONTRA DEVEDOR SOLVENTE.(1) DEFICIÊNCIA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. HIGIDEZ DO ACÓRDÃO RECORRIDO. (2) AVAL PRESTADO SEM A RESPECTIVA OUTORGA UXÓRIA. SÚMULA 332 DO STJ. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO DE CRÉDITO NOMINADO, REGIDO POR LEGISLAÇÃO ESPECÍFICA. AFASTAMENTO DO ENUNCIADO. PRECEDENTES DE AMBAS AS TURMAS COMPETENTES PARA JULGAR ACERCA DE DIREITO PRIVADO. RECURSO ESPECIAL PROVIDO EM PARTE.(e-STJ, fl. 878).
+No presente agravo interno, RENATO e WM alegaram que a tese jurídica acolhida pela decisão agravada, de que o aval seria legítimo independentemente da outorga uxória por se aplicar legislação específica, não estaria devidamente prequestionada.
+Foi apresentada impugnação (e-STJ, fls. 907/922).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL E COMERCIAL. RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. AÇÃO DE EXECUÇÃO POR QUANTIA CERTA CONTRA DEVEDOR SOLVENTE. DEFICIÊNCIA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. AVAL PRESTADO SEM A RESPECTIVA OUTORGA UXÓRIA. CÉDULA DE CRÉDITO BANCÁRIO. TÍTULO DE CRÉDITO NOMINADO, REGIDO POR LEGISLAÇÃO ESPECÍFICA. AFASTAMENTO DO ENUNCIADO. TEMA DEVIDAMENTE PREQUESTIONADO.AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A decisão agravada afirmou que o aval prestado por RENATO seria válido, mesmo sem aoutorga do seu cônjuge, tendo em vistaa incidência da legislação específica dos títulos de crédito.
+Confira-se:
+Entretanto, a controvérsia ora examinada guarda a particularidade de se cuidar de título de crédito expressamente regulado por legislação específica, no caso a Cédula de Crédito Bancário, disciplinada pela Lei nº 10.931/2004, incidindo, na espécie, a ressalva do art. 903 do vigente Código Civil:Art. 903. Salvo disposição diversa em lei especial, regem-se os títulos de crédito pelo disposto neste Código.
+É precisamente com esteio na conjugação de ambos os dispositivos legais que se firmou a interpretação jurisprudencial que, considerando a livre circulação dos títulos de crédito, a maior segurança jurídica e o incentivo ao financiamento, dentre outros aspectos, trilhou a orientação de que é válida a fiança prestada sem a respectiva outorga uxória ou marital quando os títulos forem nominados regidos por legislação especial.
+No presente agravo interno, RENATO e WM alegaram que essa tese jurídica adotada pela decisão agravadanão estaria devidamente prequestionada.
+Examinando o acórdão recorrido, no entanto, é possível observar que o TJDFT examinou devidamente a alegação de nulidade do aval por falta de outorga uxória.
+Anote-se:
+O ponto nodal do recurso diz respeito à validade ou não daresponsabilidade assumida pelo garantidor, mas que não contou com a outorga uxória.
+Nessa dogmática, convém assinalar ensinamento da doutrina especializada, que assim preconiza:
+ ..
+A propósito, reveja-se o enunciado da Súmula n.º 332 do Superior Tribunal de Justiça:
+"A fiança prestada sem autorização de um dos cônjuges implica a ineficácia total da garantia".
+Os argumentos alinhados, aliás, encontram conforto na jurisprudência desta e. Corte de Justiça, in verbis(e-STJ, fls. 459/460).
+Impossível afirmar, assim, que o tema não estava devidamente prequestionado ou que esta Corte Superior, apreciando a questão, estivesse impedida de aplicar o direito à espécie.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
