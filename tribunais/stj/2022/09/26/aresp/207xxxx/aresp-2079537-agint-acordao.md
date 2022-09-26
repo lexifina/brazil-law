@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocráticaque decidiu recurso especialinterposto pelo Distrito Federal,com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 113):
+DIREITO CIVIL E PROCESSO CIVIL. APELAÇÃO CÍVEL. PRELIMINAR DE ILEGITIMIDADE PASSIVA. ENTE DISTRITAL. REJEITADA. PRESCRIÇÃO. INOCORRÊNCIA. SERVIDOR PÚBLICO. PENSÃO POR MORTE. JORNADA DE TRABALHO. 40 HORAS. RECONHECIDA. SENTENÇA MANTIDA.
+1. O Distrito Federal é garantidor das obrigações do IPREV/DF, devendo responder subsidiariamente pelo custeio dos benefícios previdenciários, sendo patente sua legitimidade passiva em demanda que discuta revisão de benefício previdenciário, tal como o caso dos autos.
+2. No caso em apreço, a análise da pretensão apresentada pela apelada demonstra que sua impugnação não se volta ao ato de aposentadoria, mas sim aos proventos percebidos em razão da carga horária desempenhada à época da aposentadoria. 2.1 Assim, observa-se que não há impugnação ao fundo de direito em si, ou seja, a aposentadoria, cuidando-se, em verdade de relação de trato sucessivo, não abarcada pela prescrição.
+3. O servidor aposentado, antes da EC 41/03,ocupante de cargo efetivo, que exercia cargo comissionado à época de sua aposentação, faz jus à percepção dos efeitos patrimoniais advindos do recálculo de seus proventos com base no regime de trabalho de 40 horas semanais, em face da paridade entre ativos e inativos, assegurada pela EC n. 41/2003.
+4. Recurso conhecido e desprovido. Preliminar rejeitada. Prejudicial de mérito rejeitada. Sentença mantida.
+Na origem, trata-se de ação ajuizada por Amélia dos Passos Lima da Silva contra o Instituto de Previdência dos Servidores do Distrito Federal - Iprev/DF e oDistrito Federal objetivando a revisão do valor dapensão para incluir nos cálculos a jornada de 40 horas semanais com seus reflexos.
+Na sentença, julgaram-seprocedentes os pedidos.No Tribunal a quo, a sentença foi mantida. Esta Corte conheceu do agravo para não conhecer dorecurso especial.
+No recurso especial, o Distrito Federal aponta violação dos arts. 1º e 3ºdo DL n. 20.910/32, sustentando-se, em síntese, a ocorrência da prescrição.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, resumidos nesses termos (fl. 246):
+.. a decisão do TJDFT está fulcrada no DL nº 20.910/32, o que afasta o fundamento acolhido no despacho ora agravado e a incidência da súmula 280-STF. (..)
+Como demonstrado nos autos, houve evidente violação aos arts. 1º e 3º do DL nº 20.910/32, eis que se passaram muito mais de 5 (cinco) anos entre a data da propositura desta ação e o ato de aposentadoria da parte recorrida.
+E, como demonstrado nas petições e recursos do Distrito Federal, a violação praticada contrariou flagrantemente a jurisprudência pacífica e específica do STJ, que já definiu que a modificação do regime de aposentadoria atrai a prescrição do próprio fundo do direito.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. PENSÃO POR MORTE. REVISÃO DO VALOR DO BENEFÍCIO. JORNADA DE 40 HORAS SEMANAIS. PROCEDÊNCIA DO PEDIDO. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. APLICAÇÃO DA SÚMULA N. 280 DO STF.
+I -Na origem, trata-se de ação ajuizadacontra o Instituto de Previdência dos Servidores do Distrito Federal- Iprev/DF e o Distrito Federalobjetivando a revisão do valor da pensão para incluir nos cálculos a jornada de 40 horas semanais com seus reflexos.
+II - Na sentença, julgaram-se procedentes os pedidos. No Tribunal a quo, a sentença foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - Ajurisprudência do Superior Tribunal de Justiça é firme no sentido de que é defeso a esta Corte Superior o exame de lei local em recurso especial.
+IV - O voto condutor do acórdão recorrido manifestou nestes termos (fl. 120): "Observo dos autos que o cônjuge da apelada aposentou-se, no cargo de Analista de Políticas Públicas e Gestão Governamental, exercendo cargo de confiança de Diretor da Divisão de Oficinas da Coordenação do Sistema de Transportes Internos, Código DAS101.2, em 21/09/1989 (Id. 80255370 dos autos de origem). No caso em tela, a aposentadoria em questão ocorreu na vigência da Lei Distrital 34/89, que previa, em seu art. 2º, que os ocupantes de cargos em comissão deveriam cumprir jornada de 40 horas semanais, cite-se: "Art. 2º Os ocupantes de cargos em comissão e funções de confiança integrantes do Grupo Direção e Assessoramento Superiores, de funções do Grupo Direção e Assistência Intermediárias e de Funções de Assessoramento Superiores, bem como os servidores a quem for atribuída Gratificação por Encargo em Gabinete, são sujeitos ao regime de quarenta horas semanais de trabalho."
+V -OTribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Distrital n. 34/89 e a Lei Complementar Distrital n. 769/2008, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: Por ofensa a direito local não cabe recurso extraordinário.Nesse diapasão, confiram-se:(AgInt no REsp n. 1.690.029/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 8/9/2020, DJe 16/9/2020 eAgInt no AREsp n. 1304409/DF, relatorMinistro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020).
+VI- Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A decisão deve ser mantida pelos seus próprios fundamentos, pois aplicou a jurisprudência do Superior Tribunal de Justiçafirme no sentido de queé defeso a esta Corte Superior o exame de lei local em sede de recurso especial.
+O voto condutor do acórdão recorrido manifestou nestes termos (fl. 120):
+Observo dos autos que o cônjuge da apelada aposentou-se, no cargo de Analista de Políticas Públicas e Gestão Governamental, exercendo cargo de confiança de Diretor da Divisão de Oficinas da Coordenação do Sistema de Transportes Internos, Código DAS 101.2, em 21/09/1989 (Id. 80255370 dos autos de origem). No caso em tela, a aposentadoria em questão ocorreu na vigência da Lei Distrital 34/89, que previa, em seu art. 2º, que os ocupantes de cargos em comissão deveriam cumprir jornada de 40 horas semanais, cite-se: "Art. 2º Os ocupantes de cargos em comissão e funções de confiança integrantes do Grupo Direção e Assessoramento Superiores, de funções do Grupo Direção e Assistência Intermediárias e de Funções de Assessoramento Superiores, bem como os servidores a quem for atribuída Gratificação por Encargo em Gabinete, são sujeitos ao regime de quarenta horas semanais de trabalho"
+Verifica-se que oTribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei Distrital n. 34/89 e a Lei Complementar Distrital n. 769/2008, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do Enunciado n. 280 da Súmula do STF, que assim dispõe: Por ofensa a direito local não cabe recurso extraordinário.
+Nesse diapasão, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. LEGISLAÇÃO LOCAL. DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. VIOLAÇÃO. ANÁLISE. INVIABILIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ART. 85 DO CPC/2015. VIOLAÇÃO. ARGUIÇÃO GENÉRICA. DIVERGÊNCIA JURISPRUDENCIAL. REQUISITOS. INEXISTÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3).
+2. Nos termos da Súmula 280 do STF, é defeso o exame de lei local em sede de recurso especial.
+3. O recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+4. Infirmar as razões do apelo nobre, a fim de acolher a tese de ofensa do art 2º da Lei 9.784/1999, encontra óbice na Súmula 7 do STJ.
+5. É deficiente de fundamentação alegação de tese recursal genérica e deficiente. Incidência da Súmula 284 do STF.
+6. Esta Corte tem o entendimento de que é inadmissível o recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de atender os requisitos necessários para sua comprovação.
+7. Agravo interno desprovido.
+(AgInt no REsp 1690029/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 8/9/2020, DJe 16/9/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO AO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489, § 1º, INCISOS IV E VI, E 1.022, INCISOS I E III, TODOS DO CPC/2015. IPTU. BASE DE CÁLCULO. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI ESTADUAL. LEI LOCAL. SÚMULA 280/STF.
+1. Deveras, não há falar, na hipótese, em violação aos arts. 489, § 1º, IV e VI, e 1.022, I e II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo c oerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+2. Ademais, verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local (Lei Complementar n. 2.572/2012), Assim, o exame da matéria demanda análise de Direito local, razão por que incide, por analogia, a Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.304.409/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
