@@ -1,0 +1,12 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INADMISSÃO DO AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA.VÍCIOS DESCRITOS NO ART. 1.022 DO CPC/2015. NÃO CONFIGURAÇÃO. MERO INCONFORMISMO DA PARTE.EMBARGOS DE DECLARAÇÃOREJEITADOS.
+1. Trata-se de embargos de declaração opostos por AURICCHIO SUZANO COMERCIO DE METAIS LTDA. contra decisão de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.(fl. 1.528).
+2. Apontacontradição na decisão embargada, nos termos do art. 1.022 do CPC, alegando que o agravo em recurso especial impugnou todos os fundamentos da decisão agravada.
+3.É o relatório.
+4. O art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos embargos de declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição, omissão ou erro material.
+5. Destarte, infere-se que, não obstante pacífica a orientação acerca da natureza recursal dos declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum em casos justamente nos quais eivado de obscuridade, contradição ou omissão; não têm, pois, de regra, caráter substitutivo ou modificativo, é dizer, o condão de alterar, livre e substancialmente, o decisório em seu dispositivo, mas aclaratório ou integrativo, daí não sendo seu processamento norteado pelos princípios do contraditório e da igualdade.
+6. Com efeito, os embargos de declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em fase processual inadequada, a desconstituição de ato judicial regularmente proferido.
+7.Na vertente hipótese, verifico não estarem presentes os vícios descritos no art. 1022 do CPC/2015 porquanto ficou expressamente consignado na decisão ora embargada que não houve impugnação a todos os fundamentos da decisão que inadmitirao recurso especial, razão pela qual aplicou-se o entendimento da Súmula 182/STJ.
+8. Diante do exposto, rejeitam-se os embargos declaratórios opostos por AURICCHIO SUZANO COMERCIO DE METAIS LTDA.
+9 . Publique-se. Intimações necessárias.
