@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por ANTONIO MARCOS MARTINS e OUTROS com fundamento no art. 105, III, a, da Constituição Federal, para impugnar acórdão assim ementado (e-STJ, fl. 62):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ILIQUIDEZ DO TÍTULO. AJG. PESSOA JURÍDICA. INDEFERIMENTO DE PLANO. ADITAMENTO À INICIAL. APÓS A CITAÇÃO.
+1. Antes de indeferir o pedido de assistência judiciária gratuita, os requerentes devem ser intimados para instruir o pedido com os documentos necessários à verificação da alegada hipossuficiência econômica (art. 99, § 2º,do CPC).
+2. Após a citação, é defeso o aditamento à inicial sem o consentimento do réu.
+3. Iliquidez do título não verificada, uma vez que "além da inicial trazer os contratos - nos quais foi previsto de maneira bastante clara os juros e encargos devidos no período de normalidade contratual e em caso de impontualidade, foram trazidas as planilhas de evolução dos contratos no período da normalidade".
+Nas razões do recurso especial (e-STJ, fls. 78-86), os ora agravantes alegaram violação dos arts. 28, § 2º, I e II, da Lei 10.931/2004 e 783 do CPC/25015, sustentando, em síntese, que a cédula de crédito bancária padece de certeza e liquidez, requisitos necessários para execução do título.
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Tribunal estadual, ao utilizar-se dos fundamentos do magistrado de primeiro grau, manteve a decisão que rejeitou a exceção de pré-executividade, sob o seguinte fundamento (e-STJ, fl. 65, sem grifos no original):
+Como é cediço na doutrina e na jurisprudência, a exceção de pré-executividade tem utilização restrita a casos excepcionais. Deveras, somente é cabível para alegar as matérias relativas às condições da ação e pressupostos processuais, cognoscíveis de ofício pelo juízo, e causas extintivas do crédito que não demandem dilação probatória.
+É admissível a exceção de pré-executividade, portanto, para trazer à apreciação judicial matérias que podem ser conhecidas de ofício pelo julgador ou que sejam relativas à nulidade do título executivo, desde que comprovadas de plano e sem a necessidade de dilação probatória.
+No caso concreto, a parte excipiente alega a a ausência de liquidez e certeza dos títulos, afirmando, para tanto, que a cédula de crédito bancário é título liquido apenas quando estiver acompanhada de planilha na qual esteja demonstrada, de forma clara, a evolução do débito, possibilitando conhecer o valor exato da obrigação e do salvo devedor.
+Afasto a alegação, pois além da inicial trazer os contratos - nos quais foi previsto de maneira bastante clara os juros e encargos devidos no período de normalidade contratual e em caso de impontualidade, foram trazidas as planilhas de evolução dos contratos no período da normalidade (evento 1,PLAN6, PLAN7, PLAN8, PLAN9, PLAN10, PLAN11 e PLAN12.
+Constou, ainda, a data em que o crédito foi considerado em atraso (C. A) com diferentes datas iniciais, constando nos documentos CALC3, CALC4 e CALC5. A partir de tais datas, incidem os juros e encargos previstos no contrato, não havendo que se falar em ausência de liquidez por não ter sido juntada planilha de evolução do crédito no período de impontualidade.
+Afasto, pois, a alegação, por entender que os títulos que embasam a execução contém os requisitos de liquidez e certeza exigidos para instruírem ação de execução extrajudicial.
+Ante o exposto, rejeito a exceção de pré-executividade.
+Dessa forma, a partir dos pressupostos analisados pelo acórdão recorrido, a questão foi resolvida com base nas cláusulas contratuais e nos elementos fáticos que permearam a demanda. Assim, rever os fundamentos que ensejaram a conclusão alcançada pelo Colegiado local (acerca da presença dos requisitos do título necessários para a execução) implicaria na análise de cláusulas contratuais e no reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 deste Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. TÍTULO EXECUTIVO. CERTEZA E LIQUIDEZ. REQUISITOS PRESENTES. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
