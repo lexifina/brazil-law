@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por GILSON SCARCELLI, DANIEL SCARCELLI, em face de decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/2015). AÇÃO RESCISÓRIA.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.CONTRATO DE ARRENDAMENTO COM OPÇÃO DE COMPRA. DEPÓSITO DO VALOR REFERENTE À INTENÇÃO DE AQUISIÇÃO EM JUÍZO.PRETENSÃO DE DESCONSTITUIR OS JULGADOS QUE CONCLUÍRAM PELA VALIDADE DA COBRANÇA DOS ALUGUERES. IMPOSSIBILIDADE. DECISÃO DE CARÁTER CONSTITUTIVO QUE NÃO COMPROMETIA A EXIGIBILIDADE DAS PRESTAÇÕES.REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO, COM MAJORAÇÃO DE HONORÁRIOS.
+Nas razões do agravo, a parte agravante alega necessidade de revaloração das provas, repisando as alegações da peça inicial de negativa de prestação jurisdicional e de que teriaocorrido prática de ato ilícito ou de conduta dolosa para obstar a prática de condição resolutiva, tendo havido, assim, violação aos princípios da boa-fé objetiva, da vedação ao enriquecimento ilícito e da responsabilidade pelo abuso de direito,haja vista que o hotel descumpriua obrigação de venda que obstou a implementação da condição resolutiva da locação.
+É o relatório.
+EMENTA
+AGRAVO INTYERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/2015). AÇÃO RESCISÓRIA.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.CONTRATO DE ARRENDAMENTO COM OPÇÃO DE COMPRA. DEPÓSITO DO VALOR REFERENTE À INTENÇÃO DE AQUISIÇÃO EM JUÍZO.PRETENSÃO DE DESCONSTITUIR OS JULGADOS QUE CONCLUÍRAM PELA VALIDADE DA COBRANÇA DOS ALUGUERES. IMPOSSIBILIDADE. DECISÃO DE CARÁTER CONSTITUTIVO QUE NÃO COMPROMETIA A EXIGIBILIDADE DAS PRESTAÇÕES.REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+AGRAVO DESPROVIDO.
+VOTO
+Eminentes colegas, a irresignação recursal não merece acolhida.
+Com efeito, percebe-se que as razões trazidas no agravo interno, de necessidade de revaloração das provas, repisando as alegações da peça inicial de negativa de prestação jurisdicional e de que teria ocorrido prática de ato ilícito ou de conduta dolosa para obstar a prática de condição resolutiva, tendo havido, assim, violação aos princípios da boa-fé objetiva, da vedação ao enriquecimento ilícito e da responsabilidade pelo abuso de direito, haja vista que o hotel descumpriu a obrigação de venda que obstou a implementação da condição resolutiva da locação, não são aptas a desconstituir a decisão recorrida, cujos fundamentos passo aqui a reiterar.
+Ora, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia. O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação, assim consignando, em sede de embargos de declaração:
+Esta Turma julgadora avaliou o tema e entendeu, após uma análise detida do caso, que os valores eram devidos, pois a propriedade apenas seria efetivamente consolidada com o registro do imóvel, não bastando, para tanto, a sentença de procedência na ação de obrigação de fazer.
+Tal circunstância mostrou-se suficiente para afastar as teses dos autores.
+Com efeito, constata-se, de maneira evidente, que os embargantes não se conformam com o decidido. Trata-se de sentimento compreensível, mas que não torna a decisão omissa.
+Ressalva-se que a despeito de não mencionar expressamente todos os artigos indicados invocados pelos recorrentes, seus conteúdos podem ser extraídos com clareza do acórdão. Isso porque entendeu-se que não houve a prática de ato ilícito ou de conduta dolosa para obstar a prática de condição resolutiva, nem mesmo enriquecimento sem causa apto a justificar a medida rescisória pleiteada.
+Da mesma forma, não era caso de mencionar os artigos 8º e 9º da Lei do Inquilinato ou o instituto da inversitio possessionis, pois, para o período pleiteado pelos autores, considerou-se válido o contrato de arrendamento mercantil, já que a aquisição do bem apenas ocorreu com o trânsito em julgado da ação de obrigação de fazer.
+Com efeito, lembro que a adoção de tese a indicar os motivos que levam o Magistrado a decidir em torno de uma vertente dispensa a análise, em forma de questionário, dos demais argumentos.(e-STJ fl. 5598).
+Destarte, não justifica a alegação de violação aos artigos 489 e 1022 do CPC, uma vez que ocorreu pronunciamento efetivo e claro sobre as questões postas. Ademais, o juiz não está obrigado a responder um a um os argumentos levantados pelas partes.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno não provido. (AgInt no AREsp 1157866/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/03/2018, DJe 15/03/2018).
+Na verdade, a parte recorrente pretendeu rediscutir em sede de aclaratórios matérias já apreciadas pelo Tribunal a quo, providência vedada nesta espécie recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE. CERCEAMENTO DE DEFESA. AUSÊNCIA DO PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. VALORAÇÃO DA PROVA. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC. Além disso, os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito. (grifou-se)
+2. Em relação ao cerceamento de defesa, a irresignação não merece prosperar, uma vez que a Corte local não emitiu juízo de valor sobre a matéria alegada. É necessária a efetiva discussão do tema pelo Tribunal a quo, ainda que em Embargos de Declaração. Incidência da Súmula 211/STJ.
+3. Ademais, é evidente que, para modificar o entendimento firmado no acórdão impugnado, reconhecendo-se o cerceamento do direito de defesa da parte recorrente, ou a insuficiência das provas, seria necessário exceder as razões colacionadas no acórdão vergastado, o que demanda incursão no contexto fático-probatório dos autos, vedada em Recurso Especial. Súmula 7/STJ.
+4. Agravo Regimental não provido. (AgRg no AREsp 216.688/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/03/2014, DJe 19/03/2014).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.
+1. Não se viabiliza o recurso especial pela indicada violação do artigo 535 do Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, ainda que em sentido contrário à pretensão da parte recorrente. (grifou-se)
+2. A reapreciação do suporte fático-probatório dos autos é vedada nesta Corte, pelo óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo regimental não provido." (AgRg no AREsp 373.162/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/10/2014, DJe 14/10/2014).
+Quantoàs alegações de que teria ocorrido prática de ato ilícito ou de conduta dolosa para obstar a prática de condição resolutiva, tendo havido, assim, violação aos princípios da boa-fé objetiva, da vedação ao enriquecimento ilícito e da responsabilidade pelo abuso de direito, o Tribunal de origem assim se manifestou acerca da questão:
+Apesar do parecer do nobre jurista Álvaro Villaça Azevedo de fls.5.367/5.384, não vislumbro propriamente um contrato de compra e venda, mas apenas um contrato de arrendamento com promessa de venda e compra, desde que atendidas determinadas condições.
+Uma promessa de compra e venda "pura" envolveria apenas o objeto e o preço sem outras condições. As diversas cláusulas previstas no contrato de arrendamento afastam, do meu ponto de vista, a aplicação da disposição contida no art. 482 do Código Civil.
+O art. 108 do Código Civil considera a escritura pública essencial à validade dos negócios jurídicos que visem à constituição, transferência, modificação ou renúncia de direitos reais sobre imóveis de valor superior a trinta vezes o maior salário mínimo vigente no País.
+O art. 1.227, por sua vez, estabelece que os direitos reais sobre imóveis transmitidos por atos entre vivos só se adquirem com o registro no Cartório de Registro de Imóveis.
+Ainda que a promessa de compra e venda seja considerada um direito real (art. 1.225, inciso VII), para que o promitente comprador obtenha a adjudicação do imóvelé preciso que requeira ao juiz, nos precisos termos do que dispõe o art. 1.418 do Código Civil.
+Em suma, para que os autores pudessem passar a atuar como proprietários, ainda era necessária a efetiva transmissão da propriedade, o que não havia ocorrido com o mero depósito nos autos do processo, cuja decisão final ainda estava pendente deconfirmação.
+A ação ajuizada pelos autores não era de cunho declaratório. Era de caráter condenatório, para obrigar os réus a cumprirem a promessa de venda, e constitutivo, para que, somente após o cumprimento da obrigação de fazer, a propriedade fosse efetivamente transferida.
+ ..
+Quando os autores optaram por não mais pagar os alugueres, possuíam apenas uma sentença condenatória que havia sido desafiada por recurso com efeito suspensivo.
+Os arrendadores, por outro lado, ajuizaram ações de despejo. Inicialmente, por denúncia vazia e, posteriormente, por falta de pagamento.
+Em tais circunstâncias, não há que se falar na invalidade das decisões que autorizaram o pedido de despejo por falta de pagamento, motivo pelo qual a presente demanda rescisória não pode ser bem sucedida.
+O efeito da sentença que obrigaria os arrendantes a transferir a propriedade somente se daria após o trânsito em julgado, ou seja, com efeitos ex nunc.
+Assim, ainda que se possa cogitar de um suposto enriquecimento decorrente da percepção simultânea dos alugueres e do valor referente à aquisição da propriedade que os arrendantes prometeram transferir, não se justifica o pedido de rescisão das decisões que confirmaram a obrigação de pagar os aluguéis.Se os autores entendem que possuem direito de indenização por tais danos, poderão postulá-los por meio de ação própria. A rescisão dos julgados não se justifica.(e-STJ fls. 5582/5584).
+Desse modo, para acolher as alegações dos recorrentesde ocorrênciade ato ilícito ou de conduta dolosa para obstar a prática de condição resolutiva por parte da recorrida, com o fim de afastar acobrança dos aluguéis, seria necessário revolver o arcabouço fático-probatório dos autos, o que se mostra inviável na via especial, a teor do preconizado pela Súmula nº 7/STJ.
+Destarte, a pretensão recursal não merece prosperar.
+Ante o exposto, nego provimento ao agravo.
+É o voto.
