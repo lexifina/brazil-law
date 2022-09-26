@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ASSOCIAÇÃO DOS ADQUIRENTES DE UNIDADES NO EMPREENDIMENTO SÃO PAULO II, com fundamento no art. 1.022 do novo CPC, à decisão monocrática desta relatoria de fls. 484-488 (e-STJ), que negou provimento ao recurso especial.
+Defende a ocorrência de contradição e omissão no julgado. Frisa que trouxe aos autos todas as evidênciasnecessárias para a comprovação dos fatos, tendo demonstrado de maneira cabal os benefícios trazidos pela insurgente ao condomínio,bem como o cumprimento dos requisitos legais para tal pretensão, inclusive no período de que ora se pretende a cobrança.
+Aponta julgados recentes que imporiam a condenação do condômino não integrante de associação ao pagamento das taxas de manutenção do loteamento.Reforça a ofensa aos dispositivos declinados na petição inicial do recurso especial e pugna pelo acolhimento destes embargos de declaração (e-STJ, fls.491-533).
+Contraminuta não apresentada (e-STJ, fl. 536).
+Brevemente relatado, decido.
+Não há nenhuma omissão ou mesmo contradição a serem sanadas no julgado ora embargado, portanto inexistentes os requisitos para cabimento destes embargos declaratórios, nos termos do art. 1.022 do novo CPC.
+A decisão desta relatoria dirimiu a controvérsia com base em fundamentação sólida, tendo apenas resolvido a celeuma em sentido contrário ao postulado pelos insurgentes. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas tão somente a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Estão claras as circunstâncias que ensejaram a inviabilidade de provimento ao recurso especial. É mister assinalar que "aaplicação do direito ao caso, ainda que por meio de solução jurídica diversa da requerida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional. Outrossim, a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado"(AgInt no REsp n. 2.001.539/SC, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1/9/2022.).
+In casu, o decisum apresenta harmonia entre seus fundamentos e aconclusão adotada, afastando-se a alegação de que seria contraditório. No mais, o julgado ostenta justificativas para afastar a condenação ao pagamento das taxas vindicadas, haja vista a ausência de anuência coma cobrança detaxa de manutenção e carência dedemonstração de que o instrumento de aquisição juntado nos autos teria previsão de retribuição aos ora demandados para esse tipo pagamento. Nesse contexto, aplicou-se o teor das Súmulas 5 e 7/STJ.
+Também foi evidenciada a carência de prequestionamento de tese recursal e a premissa de que o acórdão estariaem harmonia com a jurisprudência desta Corte Superior, a ensejar os óbices sumulares n. 83 e 211/STJ.
+Por fim, demonstrou-se não ter havido cerceamento de defesa (Súmula 7/STJ) e inviabilidade de apreciação de dispositivo constitucional em recurso especial, tudo amplamente fundamentado.
+Destarte, como o julgado está devidamente fundamentado, não é caso de cabimento destes embargos de declaração. Fica nítido que se busca, em verdade, a concessão de efeitos infringentes, sem os vícios a ampará-los.
+Veja-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no CC 182.614/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 12/04/2022, DJe 19/04/2022)
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. OMISSÃO OU CONTRADIÇÃO NÃO VERIFICADAS. DECISÃO EMBARGADA DEVIDAMENTE FUNDAMENTADA. CONCLUSÃO AMPARADA NAS SÚMULAS 5,7, 83 E 211/STJ. INVIABILIDADE DE CABIMENTO DO RECURSO DO ART. 1.022 DO NOVO CPC. EMBARGOS DE DECLARAÇÃO REJEITADOS.
