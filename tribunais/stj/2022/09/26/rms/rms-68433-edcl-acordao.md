@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa:
+RECURSO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO E PROCESSUAL CIVIL. LICITAÇÃO. PREENCHIMENTO DE REQUISITOS DO EDITAL. PARECER TÉCNICO CONSTANTE DO PROCESSO ADMINISTRATIVO QUE ATESTA A CONFORMIDADE DOS EQUIPAMENTOS COM O EDITAL. INVIABILIDADE DE DILAÇÃO PROBATÓRIA. ALEGAÇÃO DE VÍCIO NA REPRESENTAÇÃO DA PESSOA INDICADA PELO FABRICANTE DOS PRODUTOS LICITADOS. INEXISTÊNCIA DE COMPROVAÇÃO CABAL DO ALEGADO VÍCIO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Trata-se, na origem, de Mandado de Segurança impetrado por Interativa Soluções em Impressão Ltda. contra alegado ato coator do Secretário de Estado da Secretaria de Estado da Administração e da Previdência do Estado do Paraná - SEAP/PR, consubstanciado na declaração da empresa Tecprinters Tecnologia de Impressão Ltda. como vencedora da licitação na modalidade pregão, para registro de preço por período de 12 meses de serviços de reprografia. O valor adjudicado foi de R$ 15.673.764,48 (quinze milhões, seiscentos e setenta e três mil, setecentos e sessenta e quatro reais e quarenta e oito centavos), válidos para agosto de 2018.
+2. A segurança foi denegada.
+3. A parte impetrante questiona a habilitação da empresa Tecprinters com base em dois argumentos: a) a declaração utilizada pela autoridade coatora para tomar sua decisão não possuiria validade no plano jurídico, porque subscrita por pessoa sem poderes para tanto; b) o Parecer Técnico 986.745 da Celepar apontaria o descumprimento do instrumento convocatório pela empresa vencedora, Tecprinters.
+4. O argumento de que o Sr. Pedro Luiz Gross não teria poderes para prestar declaração acerca da capacidade e das especificações técnicas dos equipamentos deve ser rejeitado.
+5. Verifica-se que os diretores da Ricoh Brasil S/A, empresa fabricante dos equipamentos em debate, Luiz Guilherme Bairão Carmagani e João Luiz Cavalcante dos Santos, outorgaram amplos poderes para representação da pessoa jurídica em qualquer espécie de licitação, conforme consta da procuração de fl. 258.
+6. O instrumento outorgou amplos poderes ao funcionário para representar a empresa fabricante em qualquer processo licitatório, abrangendo a prestação dos
+esclarecimentos solicitados pela Administração Pública quanto aos equipamentos multifucionais. Referido documento não vedou, em nenhum momento, a emissão de declaração que beneficie terceiros.
+7. Além disso, foram carreados aos autos documentos que comprovam que os outorgantes eram, efetivamente, diretores da Ricoh Brasil S/A à época em que conferida a procuração questionada, inexistindo, ademais, indícios de fraude, ilegalidade ou de ato praticado além dos poderes outorgados (fls. 824, 835-836).
+A parte recorrente não demonstrou cabalmente a invalidade da declaração do fabricante pela suposta inexistência de poderes de representação.
+8. O Parecer Técnico 986746 da Celepar limitou-se a anotar que a documentação técnica do protocolo 15.301.067-6 não permitiu aos técnicos da Celepar aferir, em um primeiro momento, o detalhamento das características comuns e obrigatórias da totalidade dos equipamentos. Diferentemente do alegado pela parte ora agravante, em momento algum foi atestada a desconformidade dos equipamentos multifuncionais elencados pela Tecprinters com as especificações técnicas editalícias.
+9. O aludido parecer técnico (fls. 267-270) limita-se a registar que "não foi encontrada na documentação técnica do equipamento referência à capacidade..", o que é totalmente distinto de consignar que houve o descumprimento das especificações do edital.
+10. Após apresentados esclarecimentos pelo fabricante (fls. 155-266), análises de recursos administrativos (fls. 382-417) e confecção do Parecer administrativo 996.212 (fls. 373-381), do órgão técnico, Celepar, o Diretor-Geral da Secretaria de Estado da Administração e da Previdência concluiu pela conformidade dos equipamentos com as normas editalícias.
+11. Os documentos apresentados pela parte recorrente não servem para desconstituir cabalmente os esclarecimentos prestados pelo fabricante, corroborados pelo parecer técnico administrativo e pela decisão da pregoeira, que gozam de presunção de veracidade e legitimidade. Além disso, tal pretensão demandaria análise técnica, mediante dilação probatória, o que não é compatível com o rito do Mandado de Segurança.
+12. Recurso Ordinário não provido.
+Em síntese, o embargante alega:
+Contudo, o v. Acórdão de fls. 4439/4451 é omisso na apreciação deste vício na procuração outorgada pela empresa RICOH, o que torna nulo todos os atos que foram tomados, com fundamento nesta procuração.
+Como se viu e que essencialmente deve ser analisado por este STJ, na data da procuração, estava vigente a eleição da diretoria realizada em 23/05/2017, onde se reelegeu ao cargo de diretor-presidente e tomou posse o Sr. José Alejandro Tomas de Souza, para o período de gestão 2017/2018:
+Houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURA. INVIABILIDADE DE DILAÇÃO PROBATÓRIA. ALEGAÇÃO DE VÍCIO NA REPRESENTAÇÃO DA PESSOA INDICADA PELO FABRICANTE DOS PRODUTOS LICITADOS. INEXISTÊNCIA DE COMPROVAÇÃO CABAL DO ALEGADO VÍCIO REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+2. Na hipótese dos autos, o acórdão embargado consignou: "Além disso, foram carreados aos autos documentos que comprovam que os outorgantes eram, efetivamente, diretores da Ricoh Brasil S/A à época em que conferida a procuração questionada, inexistindo ademais, indícios de fraude, ilegalidade ou de ato praticado além dos poderes outorgados (fls. 824, 835-836) . Portanto, a parte recorrente não demonstrou cabalmente a invalidade da declaração do fabricante pela suposta inexistência de poderes de representação. (..) Ademais, como ressaltado nas contrarrazões, a própria parte recorrente apresentou na proposta de cotação de preços a mesma impressora ofertada pela empresa vencedora da licitação, além do que não foram exigidos como requisito de habilitação no procedimento licitatório manual folders, catálogos, declaração ou qualquer outro tipo de documento".
+3. Ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. e suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+4. Embargos de Declaração rejeitados
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC.
+Os Embargos de Declaração constituem Recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na hipótese dos autos, o acórdão embargado consignou:
+O argumento de que o o Sr. Pedro Luiz Gross não teria poderes para prestar declaração acerca da capacidade e das especificações técnicas dos equipamentos deve ser rejeitado.
+(..)
+Conforme visto, portanto, o instrumento outorgou amplos poderes ao funcionário para representar a empresa fabricante em qualquer processo licitatório, abrangendo a prestação dos esclarecimentos solicitados pela Administração Pública quanto aos equipamentos multifucionais. Referido documento não vedou, em nenhum momento, a emissão de declaração que beneficie terceiros.
+Além disso, foram carreados aos autos documentos que comprovam que os outorgantes eram, efetivamente, diretores da Ricoh Brasil S/A à época em que conferida a procuração questionada, inexistindo ademais, indícios de fraude, ilegalidade ou de ato praticado além dos poderes outorgados (fls. 824, 835-836) .
+Portanto, a parte recorrente não demonstrou cabalmente a invalidade da declaração do fabricante pela suposta inexistência de poderes de representação.
+(..)
+Ademais, como ressaltado nas contrarrazões, a própria parte recorrente apresentou na proposta de cotação de preços a mesma impressora ofertada pela empresa vencedora da licitação, além do que não foram exigidos como requisito de habilitação no procedimento licitatório manual folders, catálogos, declaração ou qualquer outro tipo de documento.
+Pelas razões acima expostas, o argumento de suposto vício na procuração diante da eleição da diretoria realizada em 23.5.2017, em nada socorre ao embargante.
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais. Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados. (EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/09/2008, DJe 14/10/2008)
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito a multa prevista no Código de Processo Civil.
+É como voto.
