@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSUAL CIVIL. APELAÇÃO. PEDIDO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA HIPOSSUFICIÊNCIA. INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. REVISÃO DA CONCLUSÃO ALCANÇADA NA ORIGEM. IMPOSSIBILIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Súmula 481/STJ.
+2. O Tribunal de origem, com base no acervo fático-probatório dos autos, considerou inexistente a comprovação da hipossuficiência financeira alegada para a concessão da gratuidade de justiça. A revisão dessa conclusão demandaria o reexame de fatos e provas, providência proibida nesta instância, nos termos da Súmula 7/STJ.
+3. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno (fls. 641-645) interposto por CANAL 88 COMÉRCIO INTERNACIONAL EIRELI - MICROEMPRESA contra decisão (fls. 634-638), desta relatoria, que conheceu de seu agravo para conhecer em parte do recurso especial e, nessa extensão, negou-lhe provimento, sob os seguintes fundamentos:
+a) não ocorrência de ofensa aos arts. 11, 489, § 1º, IV, e 1.022 do CPC/2015, uma vez que o eg. Tribunal de Justiça analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação;
+b) quanto à suposta ofensa aos arts. 98 e 99 do CPC/2015, "(..) a jurisprudência firmada no âmbito desta eg. Corte de Justiça delineia que o benefício da assistência judiciária pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica"; e
+c) tendo o Tribunal a quo indeferido o pedido de gratuidade de justiça, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula 7/STJ.
+Nas razões recursais, CANAL 88 COMÉRCIO INTERNACIONAL EIRELI - MICROEMPRESA reitera a ofensa aos arts. 11, 489 e 1.022 do CPC/2015, afirmando que o Tribunal a quo não examinou os temas essenciais ao deslinde da controvérsia.
+Assevera, também, que o apelo não encontra óbice na Súmula 7/STJ, pois o "(..) que se almeja com o é que esta C. Corte Superior avalie se a consequência jurídica das provas já constantes nos autos deve efetivamente ser o indeferimento do pedido de assistência judiciária gratuita, ainda mais quando estamos a falar de um vultoso preparo de aproximadamente 12 mil reais" (fl. 642 - destaques no original).
+Ao final, pleiteia a reconsideração da decisão agravava ou, se mantida, seja o recurso levado a julgamento perante a eg. Quarta Turma.
+Intimada, RANUR AGENCIAMENTO DE CARGAS E TRANSPORTES LTDA ofereceu impugnação (fls. 648-652), pelo desprovimento do recurso.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. PEDIDO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA HIPOSSUFICIÊNCIA. INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. REVISÃO DA CONCLUSÃO ALCANÇADA NA ORIGEM. IMPOSSIBILIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Súmula 481/STJ.
+2. O Tribunal de origem, com base no acervo fático-probatório dos autos, considerou inexistente a comprovação da hipossuficiência financeira alegada para a concessão da gratuidade de justiça. A revisão dessa conclusão demandaria o reexame de fatos e provas, providência proibida nesta instância, nos termos da Súmula 7/STJ.
+3. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+VOTO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+O recurso em apreço não merece prosperar, na medida em que não foram apresentados argumentos jurídicos aptos a ensejar a alteração da decisão vergastada.
+Conforme asseverado no decisum impugnado, deve ser rejeitada a alegada violação aos arts. 11, 489 e 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste deficiência de fundamentação, omissão, obscuridade ou contradição no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgInt no AREsp 1.837.993/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp 2.062.520/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/6/2022, DJe de 29/6/2022; e AgInt no AREsp 1.730.420/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 8/8/2022, DJe de 10/8/2022.
+No mérito, constata-se que o Tribunal de origem, com base no conjunto fático-probatório dos autos, concluiu que era de rigor confirmar a decisão monocrática do em. Desembargador Relator, o qual indeferiu o pedido de gratuidade de justiça formulado na apelação interposta pela ora agravante, nos termos da seguinte fundamentação:
+"No mérito propriamente dito, conclui-se com segurança a capacidade econômica da sociedade empresarial agravante para arcar com os ônus processuais.
+Com o advento do Código de Processo Civil de 2 015 houve uma ampliação dos sujeitos que podem ser beneficiados pela concessão da assistência judiciária.
+O benefício às pessoas jurídicas deixou de ser uma realidade jurisprudencial para figurar expressamente na principal lei adjetiva brasileira, conforme art. 98, "caput":
+(..)
+Contudo, diferentemente da pessoa natural, a pessoa jurídica precisa demonstrar a sua situação de vulnerabilidade, conforme Súmula 481 do STJ e art. 99, §3º do Código de Processo Civil de 2015:
+(..)
+A presunção de vulnerabilidade não existe em relação a pessoa jurídica, que tem o ônus de demonstrar a sua precária situação econômica por intermédio de balanços contábeis, declaração do IR, extratos bancários, relatórios dos órgãos de proteção ao crédito e outros elementos.
+"In casu", reexaminando os documentos que acompanham o apelo, verifica-se que não houve a juntada do balanço contábil atualizado e da Declaração do Imposto de Renda, elementos de prova estes, substanciais e de grande importância para a análise da saúde financeira da sociedade empresarial.
+Somente uma análise histórica e precisa dos documentos autorizaria a concessão da gratuidade.
+Os relatórios de fls. 355/357 são parciais e insuficientes para atestar a vulnerabilidade contemporânea ou, ainda, a redução da capacidade econômica desde a primeira manifestação da agravante em primeiro grau.
+Os extratos de fls. 358/361 somente teriam valor para a confirmação do que a parte alega se tivessem acompanhados dos balanços.
+Isso porque, a pessoa jurídica pode ter diversas contas bancárias e, de forma dolosa, pode anexar no processo somente os extratos daqueles que há saldo negativo. Outrossim, é importante ressaltar que os efeitos da pandemia não atingiram negativamente todos os ramos da economia, o que afasta a verossimilhança das afirmações lançadas na preliminar do apelo, uma vez que demasiadamente genéricos.
+Ademais, os argumentos lançados pela agravante, sintetizados no relatório supra e elencados a fl. 02 não convencem o juízo, pois conforme mencionado acima, os principais elementos de prova que deveriam ter sido trazidos pela parte interessada não estão no feito.
+Enfim, os elementos de prova trazidos pela agravante são insuficientes para atestar a crise financeira existente, estando escorreita da decisão monocrática.
+Logo, de rigor o indeferimento da gratuidade." (e-STJ, fls. 486-488 - g. n.)
+Quanto à questão central, segundo a jurisprudência consolidada desta Corte, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais" (Súmula 481, CORTE ESPECIAL, julgado em 28/06/2012, DJe de 1º/08/2012). Tal comprovação é exigida inclusive no caso em que a pessoa jurídica esteja em regime de liquidação extrajudicial ou de falência (v.g. AgInt no REsp 1.619.682/RO, Rel. MINISTRO RAUL ARAÚJO, QUARTA TURMA, julgado em 15/12/2016, DJe de 7/2/2017).
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. PESSOA FÍSICA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO JURIS TANTUM. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+1. A concessão do benefício da gratuidade de justiça à pessoa jurídica está condicionada à prova da hipossuficiência, conforme o preceito da Súmula 481 do Superior Tribunal de Justiça.
+2. No caso, as instâncias ordinárias concluíram que não ficou demonstrada a impossibilidade de a agravante pessoa jurídica arcar com os encargos processuais.
+3. Para a concessão do benefício da justiça gratuita à pessoa física basta a declaração, feita pelo interessado, de não reunir situação econômica que permita vir a juízo, sem prejuízo do próprio sustento e de sua família.
+4. A declaração de hipossuficiência firma em favor da pessoa física a presunção juris tantum de necessidade, a qual só poderá ser elidida diante de prova em contrário, o que na hipótese não ocorreu.
+5. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial."
+(AgInt no AREsp n. 1.675.896/SP, relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/8/2022, DJe de 26/8/2022 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. GRATUIDADE DE JUSTIÇA. PEDIDO FORMULADO POR PESSOA JURÍDICA. INDEFERIMENTO NA ORIGEM. NECESSIDADE DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. APLICAÇÃO DA SÚMULA 7/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. A alegada ofensa aos arts. 489 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da recorrente.
+2. Segundo o disposto na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais."
+2.1. Tendo a Corte local entendido que a parte agravante não teria comprovado a sua hipossuficiência, a revisão da convicção formada demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+3. Agravo interno improvido."
+(AgInt no AREsp n. 1.975.716/BA, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/4/2022, DJe de 25/4/2022 - g.n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DA JUSTIÇA. PESSOA JURÍDICA. NECESSIDADE DE COMPROVAÇÃO DA MISERABILIDADE JURÍDICA. SÚMULA N. 481/STJ. HIPOSSUFICIÊNCIA NÃO COMPROVADA. REVISÃO. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL. FALTA DE COTEJO ANALÍTICO. DECISÃO DA PRESIDÊNCIA MANTIDA. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte entende que é possível a concessão do benefício da gratuidade da justiça à pessoa jurídica somente quando comprovada a precariedade de sua situação financeira, não havendo falar em presunção de miserabilidade. Súmula 481 do STJ.
+2. No caso, o Tribunal de origem, com base nas provas coligidas aos autos, concluiu por manter a decisão monocrática que indeferiu o benefício da gratuidade de justiça. Alterar tal conclusão e acolher a pretensão recursal demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. O dissídio jurisprudencial não foi devidamente demonstrado à míngua do indispensável cotejo analítico.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 1.976.408/SP, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 22/2/2022, DJe de 7/3/2022 - g. n.)
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA. PESSOA JURÍDICA. AUSÊNCIA DE COMPROVAÇÃO. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. ART. 1.022 DO CPC/2015. AUSÊNCIA DE OMISSÕES. EFEITO INFRINGENTE. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A pessoa jurídica pode obter o benefício da justiça gratuita se provar que não tem condições de arcar com as despesas do processo. Precedente.
+3. É inviável a revisão do entendimento exarado pelo tribunal de origem acerca da comprovação da hipossuficiência, pois demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inadmissível em recurso especial ante o óbice da Súmula nº 7/STJ.
+4. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+5. Agravo interno não provido."
+(AgInt no AgInt no AREsp 1582379/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 31/08/2020, DJe 03/09/2020)
+Na hipótese dos autos, a agravante optou por não recolher o preparo da apelação e, por conseguinte, postular a concessão dos benefícios da gratuidade de justiça, sem, contudo, demonstrar o estado de insuficiência. Ou seja, deixou de apresentar documento que comprove sua condição de hipossuficiente, o que justificou o indeferimento da benesse.
+A alegação de insuficiência por parte de pessoa jurídica, para fins de obtenção do benefício da gratuidade de justiça, deve ser amplamente demonstrada, estando condicionada à prova robusta da hipossuficiência, conforme o preceito da Súmula 481 deste Superior Tribunal, in verbis: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais."
+Desse modo, com respaldo na jurisprudência acima destacada, conclui-se que o acórdão recorrido está em sintonia com a jurisprudência do Superior Tribunal de Justiça, atraindo a incidência da Súmula 83 do STJ, aplicável a ambas as alíneas do permissivo constitucional.
+Ademais, ao contrário do que afirma a parte agravante, a alteração do entendimento lançado no v. acórdão recorrido, acerca da ausência de comprovação da condição de hipossuficiência da pessoa jurídica, demandaria inevitavelmente o revolvimento do suporte fático-probatório dos autos, pretensão incompatível na via do recurso especial, atraindo a incidência da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
