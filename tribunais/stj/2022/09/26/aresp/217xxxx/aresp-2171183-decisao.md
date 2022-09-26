@@ -1,0 +1,16 @@
+DECISÃO
+1Trata-se de agravo interposto por MARCOS WANDERILO PONTES ALMEIDA contra decisão que negou seguimento a recurso especial manejado em face de acórdão proferido pelo Tribunal de origem, assim ementado (e-STJ, fl. 368):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. DECISÃO. TUTELA. ANTECIPAÇÃO. NEGATIVA. RECURSO INSTRUMENTAL. FUNDAMENTOS EM RELAÇÃO À DECISÃO HOSTILIZADA. DISSOCIAÇÃO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. DIALETICIDADE. PRINCÍPIO. VIOLAÇÃO. AGRAVO. NÃO CONHECIMENTO.
+Nas razões do recurso especial, o recorrente aponta a violação dos arts. 369, 373, I, 380, do Código de Processo Civil/2015, sustentando a necessidade de concessão da tutela antecipada para levantamento do saldo da sua previdência privada, em virtude da impenhorabilidade da verba alimentar.
+Contrarrazões não apresentadas.
+O recurso especial não foi admitido em virtude do óbice das Súmulas 282, 284e 356 do STF.
+Nas razões deste agravo, o agravante afirma que houve o prequestionamento do tema recorrido e a indicação dos artigos violados.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, passo ao julgamento do recurso especial.
+Nas razões do presente recurso, o recorrente pretende a concessão da tutela antecipada relativa ao levantamento do valor disponível em sua previdência privada, uma vez que se trata de verba de natureza alimentar.
+Da acurada análise do acórdão recorrido, verifico que oTribunal de origem não tratou do tema, uma vez que consignou que a tese apresentada, nas razões do agravo de instrumento, estavam dissociadas do fundamento da decisão agravada, não conhecendo o recurso. Confira-se:
+Assim sendo, observa-se que em seu recurso o agravante expõe tese dissociada dos argumentos trazidos pela decisão censurada, esta, negatória da antecipação de tutela apenas com base no § 3º, do art.300, do CPC, vertido no sentido de que "A tutela de urgência de natureza antecipada não será concedida" e sem qualquer alusão aos temas quando houver perigo de irreversibilidade dos efeitos da decisão meritórios da ação principal proposta, não tendo o recorrente dedicado sequer uma linha para combater os fundamentos utilizados pelo Juiz de primeiro grau, em clara afronta ao art. 1.010, do CPC, por não incluir no recurso a exposição do direito com a qual pretendeu revidar os argumentos contidos na decisão monocrática censurada, quando, de sua parte, tem o dever de indicar, com precisão, os pontos de inconformidade com a ordem judicial, vindo, assim, de descumprir com a regularidade formal, requisito extrínseco de admissibilidade do instrumental  ..  (e-STJ, fl. 371).
+Por esse motivo, forçoso reconhecer que o tema relativo à impossibilidade de penhora do saldo da previdência privada não foi tratado no acórdão e não foram opostos embargos de declaração, estando, portanto, ausente o prequestionamento.
+Incide, quanto ao tema, o óbice da Súmula 282 do STF por analogia.
+Quanto ao mais, opacíficoentendimento desta Corte, em sintonia com o disposto na Súmula nº 735 do STF, segue no sentido de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela".
+Em face do exposto, conheço do agravo e não conheço do recurso especial.
+Intimem-se.
