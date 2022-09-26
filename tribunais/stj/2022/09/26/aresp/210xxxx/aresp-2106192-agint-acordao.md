@@ -1,0 +1,94 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL CUMULADA COM COBRANÇA E INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO EVIDENCIADA. INDENIZAÇÃO SECURITÁRIA NÃO CONCEDIDA. LIMITAÇÃO CONTRATUAL. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS/PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. O Tribunal de origem, analisando as circunstâncias do caso concreto, concluiu que a segurada não faz jus à indenização pleiteada, tendo em vista o caso não se enquadrar no conceito de "Doenças Graves", nos termos contratados.
+3. No caso, a modificação do entendimento firmado demandaria o revolvimento do acervo fático-probatório dos autos, além da necessidade de interpretação de cláusula contratual, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7/STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno (fls. 528-535) interposto por JANETE ANDRIGHETTI RECH contra decisão (fls. 523-525), proferida pela Presidência do STJ, que não conheceu do agravo em recurso especial, sob estes fundamentos:
+"Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência/erro de indicação do permissivo constitucional autorizador do recurso - Súmula 284/STF, ausência de afronta ao art. 1.022 do CPC, Súmula 5/STJ e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+(..)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ."
+Nas razões do agravo interno, alega-se, em síntese, que a decisão de admissibilidade foi devidamente impugnada nas razões do agravo em recurso especial.
+Ao final, pleiteia-se a reconsideração da decisão agravada ou, se mantida, seja o presente feito levado a julgamento perante a eg. Quarta Turma.
+Impugnação apresentada às fls. 538-542.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULA CONTRATUAL CUMULADA COM COBRANÇA E INDENIZAÇÃO POR DANOS MORAIS. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015 NÃO EVIDENCIADA. INDENIZAÇÃO SECURITÁRIA NÃO CONCEDIDA. LIMITAÇÃO CONTRATUAL. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS/PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. O Tribunal de origem, analisando as circunstâncias do caso concreto, concluiu que a segurada não faz jus à indenização pleiteada, tendo em vista o caso não se enquadrar no conceito de "Doenças Graves", nos termos contratados.
+3. No caso, a modificação do entendimento firmado demandaria o revolvimento do acervo fático-probatório dos autos, além da necessidade de interpretação de cláusula contratual, o que é inviável em sede de recurso especial, nos termos das Súmulas 5 e 7/STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+À vista das razões apresentadas no agravo interno, reconsidero a decisão da Presidência desta Corte, tendo em vista a impugnação de todos os óbices atestados na decisão de admissibilidade proferida pelo eg. TJ-RS.
+Passa-se, assim, a novo exame do feito.
+Trata-se de agravo de JANETE ANDRIGHETTI RECH contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul (TJ-RS), assim ementado (fl. 353):
+"APELAÇÃO INDENIZAÇÃO. SECURITÁRIA. CÍVEL. SEGUROS. AÇÃO DE NEGATIVA DOENÇAS DE COBERTURA GRAVES. NÃO ENQUADRAMENTO DO ESTÁGIO DA DOENÇA NOS CRITÉRIOS INDEVIDA. DE COBERTURA. INDENIZAÇÃO
+1) Trata-se de ação de cobrança, na qual o autor objetiva indenização securitária, relativamente ao contrato de seguro de vida, sob alegação de ser portador de doença grave, julgada improcedente na origem.
+2) A liturgia do "caput" do artigo 757 do Código Civil estabelece que a seguradora obrigar-se - á apenas pelos riscos predeterminados, ou então, riscos assumidos, de sorte que sua interpretação possibilita a eleição de riscos sobre os quais recairá a cobertura securitária, bem como a exclusão daqueles que não pretende garantir 3) Desta forma, considerando o estágio da doença que acomete a parte autora, vislumbra-se que a mesma não está inserida no rol de cobertura securitária e não havendo cobertura para o evento precitado, descabe a condenação da ré, ante a ausência de cobertura. Precedentes do egrégio ST  e deste WRS.
+4) Destarte, mostra-se legítima a recusa da seguradora em pagar a indenização referente a risco excluído do pacto.
+Precedentes desta Corte.
+APELAÇÃO DESPROVIDA"
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 431-440.
+Nas razões do recurso especial, a recorrente alegou violação aos arts. 1.022 do Código de Processo Civil de 2015 e 47, 51, IV, e 54, § 4º, do Código de Defesa do Consumidor. Sustentou, em síntese, que: a) o acórdão estadual está omisso; e b) a cláusula que limitou o direito à indenização securitária deve ser afastada, uma vez que coloca o consumidor em desvantagem excessiva.
+Decido.
+Na leitura das razões do apelo nobre, observa-se que a agravante defende a violação do art. 1.022 do CPC/2015, sob o argumento de que o acórdão recorrido foi omisso.
+Com efeito, na leitura minudente do v. acórdão estadual, verifica-se que o eg. Tribunal estadual manifestou-se acerca dos temas pretendidos pela parte agravante, concluindo que a segurada, ora agravante, não faz jus à indenização pleiteada, haja vista a existência de cláusula limitativa, da qual foi dado conhecimento (informação) pela seguradora, sendo lícita a exclusão do direito requerido.
+Dessa forma, verifica-se que o Tribunal de origem abordou todos os pontos necessários à composição da lide, ofereceu conclusão conforme à prestação jurisdicional solicitada, encontra-se alicerçado em premissas que se apresentam harmônicas com o entendimento adotado e desprovido de obscuridades ou contradições.
+Salienta-se que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Nesse sentido, colhem-se estes precedentes:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA RECURSAL DO AUTOR.
+(..)
+2. Não constatada a alegada violação aos artigos 489, § 1º, inc. IV, e 1.022, inc. II, do CPC/15, porquanto todas as questões submetidas a julgamento foram apreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente, ainda que em sentido contrário a pretensão recursal.
+(..)
+4. Agravo interno desprovido."
+(AgInt no AREsp 1.378.786/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/03/2019, DJe de 15/03/2019 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DOIS RECURSOS INTERPOSTOS CONTRA A MESMA DECISÃO. PRECLUSÃO. UNIRRECORRIBILIDADE. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. REEXAME DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO DE PRECEITO LEGAL. DISSÍDIO JURISPRUDENCIAL NÃO VERIFICADO.
+(..)
+2. Não se viabiliza o recurso especial pela indicada violação dos artigos 489 e 1.022 do Código de Processo Civil quando a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, ainda que em sentido contrário à pretensão da parte recorrente.
+(..)
+7. Agravo interno de fls. 720-730 não conhecido. Agravo interno de fls. 707-717 não provido."
+(AgInt no AREsp 1.270.355/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/03/2019, DJe de 19/03/2019 - g. n.)
+Avançando, a parte agravante, apontando ofensa aos arts. 47, 51, IV, e 54, § 4º, do CDC, defende que a cláusula limitativa ofende a boa-fé contratual, uma vez que se traduz em desvantagem exagerada ao consumidor, de forma que, interpretando a relação contratual de forma mais favorável, tal disposição deve ser afastada, gerando o direito à percepção da indenização securitária.
+Por outro lado, rejeitando a referida tese, o Tribunal de Justiça do Rio Grande do Sul, analisando as circunstâncias do caso concreto, assim dirimiu a controvérsia (fls. 357-366):
+"Mister destacar que a vexata quaestio diz com o pedido da parte autora de indenização securitária de decorrente de doença grave, na importância de R$41.815,18(..), uma vez que este foi diagnosticado com "Câncer Superficial de Bexiga" (CID C67).
+Restou incontroverso que a autora é beneficiária de seguro de vida administrado pela ré desde 07/03/2002 que prevê a cobertura para Doenças Crônicas Graves (DCG), consoante apólice da fl. 22, bem como, restou demonstrado no atestado da fl. 32 que a autora foi diagnosticada com câncer superficial de bexiga (CIO C67), tendo sido submetida a cirurgia para ressecção transuretral total do tumor (fl. 45).
+No entanto, a negativa de cobertura securitária pela ré funda-se na alegação de que o seguro de vida contratado pela autora prevê cobertura apenas para doenças graves em estágio avançado, conforme expressamente consignado no contrato.
+Dadas às premissas iniciais, passo ao exame da vexata quaestio devolvida a esta egrégia Corte, que diz com a negativa de cobertura securitária por parte da ré com base em risco excluído do contrato ante ausência de doença grave apresentada pela parte autora.
+Antes de adentrar na análise do mérito recursal, mister destacar o princípio da boa-fé contratual, haja vista que, em se tratando de contrato de seguro, é imperiosa sua aplicação. A norma em questão, que estava retratada no artigo 1.443 do Código Civil de 1916  "o segurado e o segurador são obrigados a guardar no contrato a mais estrita boa-fé e veracidade..", veio expressa no artigo 765 do Código Civil de 2002 com a seguinte redação: "O segurado e o segurador são obrigados a guardar na conclusão e na execução do contrato, a mais estrita boa-fé e veracidade, tanto a respeito do objeto como das circunstâncias e declarações a ele concernentes." Nesse diapasão, segue a doutrina de SÉRGIO CAVALIERI FILHO, que assim valora o princípio da boa-fé nas relações securitárias l , ipsis litteris
+(..)
+É inocultável a incidência e regulação do Código de Defesa do Consumidor, em vista de que se trata de típico contrato de adesão, de forma que possível a revisão, ante a manifesta fragilização da pacta sund servanda, uma vez que o contrato, embora bilateral, resultou em margem mínima de discutibilidade por parte do aderente, utente do crédito e, nessa condição, inferiorizado contratualmente.
+In casu, a pretensão da parte autora consiste no recebimento da indenização securitária prevista no contrato de seguro de vida em grupo firmado com a seguradora requerida, em decorrência do diagnóstico de "Câncer Superficial de Bexiga" . Alude a segurada que, considerando a existência de cobertura para "Doenças Graves", faria jus à indenização securitária prevista, em virtude da negativa infundada da cobertura.
+Todavia, nas condições gerais da apólice contratada - Cláusulas 2 e 6.1 do contrato, para efeito de cobertura securitária são considerados portadores de Neoplasia Maligna, apenas aqueles que apresentarem "mau prognóstico a curto prazo e forem considerados como inválidos para todo e qualquer trabalho em consequência do tratamento.
+Consoante a cláusula n. 2 do contrato firmado entre as partes (fl. 22), há a seguinte disposição contratual in verbis:
+(..)
+Ademais, destaca-se que não há que se falar em nulidade da referida cláusula contratual, eis que foi observado o dever de informação ao consumidor, estando claras as condições para concessão da cobertura, inexistindo qualquer vício na referida previsão contratual, uma vez que é admissivel que o seguro de vida cubra apenas as doenças que, em razão do grau de gravidade e da limitação da capacidade física da segurada, dificulte-lhe a capacidade laborativa e, acarrete gastos excessivos.
+Nos termos da cláusula contratual n. 6.1 (fl. 143v), para que uma neoplasia maligna fosse considerada "câncer de mau prognóstico a curto prazo", era necessário o "acometimento, tanto pela neoplasia quanto pelas metástases, de funções e de órgão de importância vital e gravidade com risco de vida, o que não se vislumbra no caso em concreto, pois não restou demonstrado nos autos que efetivamente havia metástases da doença e o prognóstico a curto prazo foi considerado "bom", tanto pelo perito da seguradora (fls. 119v), quanto pelo perito judicial (fl. 230, quesito 2, reforçado na conclusão da fl. 233), conforme corretamente analisado na r. sentença de origem.
+Cumpre ressaltar que o contrato de adesão é claro ao consumidor, haja vista que todo ele é redigido da mesma forma e a limitação contratual encontra-se disposta no segundo e quarto item do contrato celebrado entre as partes. Ademais, tal cláusula está expressa, estando o segurado consciente da abrangência da cláusula contratual, considerando que tal contrato foi acostado aos autos pela própria autora na exordial.
+(..)
+Portanto, não há razão para condenar a seguradora ré a indenizar risco excluído do contrato em tela, de sorte que o decisum de origem merece manutenção."
+Na leitura o excerto ora transcrito, verifica-se que o Tribunal de origem concluiu que a segurada não faz jus à indenização pleiteada, haja vista o caso não se enquadrar no conceito de "Doenças Graves", nos termos contratados. Assentou, ainda que "o contrato de adesão é claro ao consumidor, haja vista que todo ele é redigido da mesma forma e a limitação contratual encontra-se disposta no segundo e quarto item do contrato celebrado entre as partes. Ademais, tal cláusula está expressa, estando o segurado consciente da abrangência da cláusula contratual, considerando que tal contrato foi acostado aos autos pela própria autora na exordial" (fls. 360-361).
+Nesse contexto, a pretensão de modificar o entendimento firmado demandaria o revolvimento do acervo fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. SEGURO DE VIDA EM GRUPO. OMISSÃO E/OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADAS. LIMITES DA APÓLICE. REDAÇÃO CLARA E DESTACADA. REFORMA DO JULGADO. INCIDÊNCIA DAS SÚMULAS N.os 5 E 7, AMBAS DO STJ. ADICIONAL DE COBERTURA POR INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA  IFPD. INCAPACIDADE PARA A PROFISSÃO. INVALIDEZ FUNCIONAL. DEFINIÇÃO PRÓPRIA. LEGALIDADE. ATIVIDADES AUTONÔMICAS DA VIDA DIÁRIA. DECLARAÇÃO MÉDICA. NECESSIDADE. INDENIZAÇÃO SECURITÁRIA INDEVIDA. TEMA N.º 1.068. SÚMULA N.º 568 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. É inviável a alteração da conclusão a que chegou o TJES quanto a legalidade das cláusulas excludentes ou limitativas ao recebimento da indenização securitária, pois, para tanto, seria necessário reexaminar fatos e provas, providência vedada a esta Corte, de acordo com as Súmulas n.ºs 5 e 7, ambas do STJ.
+(..)
+7. Agravo interno não provido."
+(AgInt nos EDcl no AREsp n. 2.040.631/ES, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022. - g. n.)
+"PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DE INVALIDEZ. INCAPACIDADE POR DOENÇA. AUSÊNCIA DE COBERTURA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou nova interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+2. O Tribunal de origem entendeu que a parte autora não tem direito à indenização securitária, pois teria ficado inválido em função de doença, sinistro não coberto pelo contrato. Alterar esse entendimento, a fim de entender que a invalidez da parte segurada decorreria de acidente, demandaria o reexame das provas produzidas nos autos e dos termos pactuados, o que é vedado em recurso especial.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 2.095.166/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022. - g. n.)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Diante do exposto, dou provimento ao agravo interno para, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+É como voto.
