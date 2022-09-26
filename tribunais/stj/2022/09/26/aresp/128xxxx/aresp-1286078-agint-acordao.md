@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão de minha lavra, em que não conheci do recurso especial (e-STJ fls. 7.951/7.954).
+Sustenta a parte recorrente, em apertado resumo, que:
+a) o Superior Tribunal de Justiça já firmou o entendimento de que o percentual dos juros moratórios no período de 11/06/97 a 13/09/2001 deve ser de 6% ao ano, em conformidade com o decido pelo STF na ADI 2.332;
+b) nesse mesmo sentido, einclusiveadmitindo a revisão do percentual da taxa de juros em fase de cumprimento de sentença, foi o entendimento desta Corte no acórdão paradigma (REsp 812764/SP);
+c) promoveu cotejo analítico que justificasse o conhecimento do recurso por divergência, inclusive tendo indicado o dispositivo sobre o qual houve o dissídio;
+d) não há como aplicar a Súmula 7 do STJ em relação a critério de juros compensatórios.
+Impugnação ao recurso (e-STJ fls. 7.970/7.979 e 7.987/8.191).
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO.DESAPROPRIAÇÃO. JUROS COMPENSATÓRIOS. RESPEITO AO TÍTULO EXECUTIVO. DISSÍDIO. REQUISITOS. AUSÊNCIA.
+1. Prevalecenesta Corteo entendimento de que é inviável a pretensão de, em impugnação ao cumprimento de sentença, alterar o percentual e a base de cálculo dos juros compensatórios estabelecidos no título exequendo, transitado em julgado. Precedentes.
+2.Hipótese em que a controvérsia não consistiria emsaberqual o critério correto para fixação de juros compensatórios em dado período de tempo, mas se a definição desses parâmetros deveria ser aplicada ao casoem detrimento dotrânsito em julgado, tendo-se concluído negativamente.
+3. Na espécie, a situação jurídica enfrentada também não era de aplicação de legislação superveniente (à formação do título), pelo que inaplicável o acórdão paradigma indicado pela União (REsp 812764/SP).
+4. A jurisprudência do STJ é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais.
+5. Agravo interno não provido.
+VOTO
+Adianto que o agravo não merece acolhimento.
+Independentemente da posição adotada por esta Corte ou pelo STF sobre os juros compensatórios em relação à desapropriação, entendeu-se que, no particular, deveria prevalecer o parâmetro sobre o qual recaem os efeitos da coisa julgada.
+Isto é, a controvérsia não consistiria em saber qual o critério correto para fixação de juros compensatórios em dado período de tempo, mas saber se a definição desses parâmetros deveria ser aplicada ao caso em detrimento da preclusão máxima (trânsito em julgado), tendo-se concluído negativamente.
+A propósito, a situação jurídica enfrentada também não era de hipótese de aplicação de legislação superveniente (à formação do título), pelo que inaplicável o acórdão paradigma indicado pela União (REsp 812764/SP).
+Sobre a alegação de que não há como aplicar a Súmula 7 do STJ em relação a critério de juros compensatórios, nada a prover, já que em nenhum momento a decisão monocrática determinou a incidência do supracitado verbete sumular nesse particular aspecto.
+No tocante ao dissídio jurisprudencial, o ente federal deixou de apontar, no apelo especial, o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais. Na verdade, o julgamento do caso tido como paradigma nem sequer enfrentou a interpretação sobre o art. 3º da MP n. 1.577/1997.
+Portanto, reitero os fundamentos da decisão monocrática:
+No que concerne aos juros compensatórios, a decisão agravada está em consonância com o entendimento desta Corte no sentido de que inviável a pretensão de, "em impugnação ao cumprimento de sentença, alterar o percentual e a base de cálculo dos juros compensatórios estabelecidos no título exequendo, transitado em julgado" (REsp 1.975.455/PR, Rel. Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 05/04/2022, DJe 07/04/2022).
+Nesse sentido: AgInt no REsp 1.900.946/SP, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 14/02/2022, DJe 17/02/2022; REsp 1.896.374/RJ, Rel. Ministro FRANCISCO FALCÃO, Segunda Turma, DJe de 23/11/2020; AgInt no AREsp 929.166/GO, Rel. Ministro GURGEL DE FARIA, Primeira Turma, DJe de 09/08/2019.
+Portanto, aplica-se ao caso a Súmula 83 do STJ.
+Por sua vez, a eventual a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional) mostra-se inviável quando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado e c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, a parte recorrente deixou de realizar o cotejo analítico, na medida em que se limitou a mencionar julgados tido como paradigmas em sentido contrário ao do acórdão recorrido, sem especificar as nuances que envolveriam o caso concreto, não atendendo, portanto, aos pressupostos específicos necessários à configuração do dissenso jurisprudencial, preconizados pelo art. 541, parágrafo único, do Código de Processo Civil e pelo art. 255, §§ 1º e 2º, do RISTJ.
+Além disso, ressalvado o meu entendimento pessoal, a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp. 1.346.588/DF, relator Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Na espécie, a parte recorrente não se desincumbiu de indicar o dispositivo de lei federal supostamente violado em razão do dissídio. Assim, em respeito à orientação firmada pela Corte Especial deste Tribunal, ajusta-se à hipótese a aplicação do contido na Súmula 284 do STF.
+Ainda que assim não fosse, esta Corte Superior entende que a aplicação da Súmula 7 em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial (AgInt no AgInt no AREsp 1.618.014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 09/08/2021, DJe 17/08/2021).
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
