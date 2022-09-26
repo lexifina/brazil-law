@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por APOLONIO FLORENCIO DE MELO contra decisão da Presidência deste Superior Tribunal de Justiça que não conheceu do recurso especial em razãodo óbice doenunciadodaSúmula7/STJe do não cabimento do recurso especial para exame de matéria constitucional.
+Nas razões recursais, aparteagravantealega que (e-STJ, fl. 879/880):
+Ocorre que, data maxima venia, ao contrário do que constou na r. decisão ora guerreada, não há que se falar em rever as premissas fáticas, trata-se, tão somente, de analisar a correta aplicação das disposições do artigo 335, inciso I e 369, do CPC.
+Frise-se que a matéria ventilada no presente recurso é puramente de direito, o que se busca é a correta aplicação da legislação que dispõe sobre o direito das partes na produção de provas sedimentado pelo CPC, sob pena de cerceamento de defesa.
+ ..
+Ademais, comprovando a ausência de violação a Sumula 7/STJ, o agravante apresentou cotejo analítico dos arestos paradigmas, demonstrando que, em casos análogos, esta C. Corte Superior reconheceu o cerceamento de defesa quando a lide é julgada antecipadamente improcedente por ausência de provas oportunamente requeridas.
+ ..
+Noutro vértice, data maxima venia, o agravante não busca, tão somente, o reconhecimento da violação de normas constitucionais, o que se daria, indiscutivelmente por meio de recurso extraordinário. No presente caso, em razão da flagrante violação aos artigos 335, inciso I e 369, do CPC, também houve, por via reflexa, violação aos princípios do contraditório e ampla defesa, previsto em normas constitucionais, que pode ser apreciada, indubitavelmente no Especial, não há óbice ao STJ em decretar inconstitucional o ato praticado pelo juízo de piso, quando cerceou o direito de defesa do ora agravante em produzir prova prévia e tempestivamente requerida
+Por tais razões, verifica-se, data maxima venia, a plausibilidade da indicada ofensa ao artigo 335 e 369, do CPC e, pela via reflexa, artigo 5º, LV, da CF, sendo inaplicável in casu as disposições da sumula 7 do STJ, devendo o presente recurso ser recebido e julgado por esta C. Corte Superior.
+Impugnação às fls. 884/888 e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. PREJUDICADA. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pelaparteagravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Dessa forma, o entendimento firmado na decisão monocrática recorrida deve ser mantido.
+Conforme se observa da leitura do aresto impugnado, a Corte local, com base na análise do conjunto probatório carreado aos autos, concluiu que (e-STJ, fls. 588/590):
+Alega o apelante que, a despeito de ter requerido produção de prova testemunhal, houve o julgamento antecipado da lide com fundamento no art. 355, inciso I, do Código de Processo Civil, o que gera a nulidade por cerceamento de defesa.
+ ..
+No caso sob exame, sustenta o autor que a prova testemunhal se revela necessária a fim de comprovar que, por ocasião da citação por hora certa, estava em outro Estado, afastando a tese de que estaria se esquivando de ser citado.
+Ocorre, porém, que o apelante não apresentou qualquer indício documental acerca da suposta viagem, e sequer especificou quem seria a testemunha a ser ouvida em juízo a fim de comprovar a alegação, de modo que não há como se verificar se a produção da prova seria, de fato, útil ao deslinde do feito e/ou teria a capacidade de alterar a conclusão adotada pela sentença. Até porque, em que pese a decisão singular tenha reconhecido a validade da citação por observância aos requisitos legais exigidos, também destacou que o comparecimento espontâneo do ora autor à audiência supriria qualquer nulidade, na forma do art. 214, §1º,CPC/73, o que indica que a confirmação de sua viagem por testemunha não implicaria, necessariamente, em reforma da sentença.
+ ..
+Rejeita-se, portanto, a arguição de nulidade.(grifei)
+Com efeito,quanto à apontada violação ao art. 369 do CPC, no que concerne à alegação de cerceamento de defesa, verifica-se que, conforme consignado na decisão da Presidência deste STJ, a modificação do entendimento lançado pelo Tribunal de origeminvariavelmentedemanda o reexame das premissas firmadas diante docontexto fático-probatório constante dos autos, hipótese vedada por força da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO C/C INDENIZAÇÃO POR DANOS MORAIS. 1. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. OFENSA AO ART. 1.014 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 3. DEMORA INJUSTIFICADA DO PAGAMENTO DA INDENIZAÇÃO. FALHA NA PRESTAÇÃO DE SERVIÇO. EXERCÍCIO REGULAR DE SEU DIREITO NÃO RECONHECIDO. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DESTA CORTE. 4. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal estadual concluiu pela ausência de cerceamento de defesa. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2. Em relação ao art. 1.014 do CPC/2015 tido como violado, verifica-se que seu conteúdo normativo não foi objeto de apreciação pelo Tribunal de origem. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada. Incidem, ao caso, as Súmulas 282 e 356 do Supremo Tribunal Federal.
+3. O Tribunal de origem, analisando os termos do contrato e as provas constantes dos autos, entendeu que houve falha na prestação de serviço, consistente na demora injustificada do pagamento da indenização securitária, e não mero exercício regular do direito.Não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda à análise dos termos contratuais e ao reexame do conjunto fático-probatório, o que é vedado pelas Súmulas n. 5 e 7 deste Tribunal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.923.699/MT, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 2/5/2022, DJe de 11/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. VIOLAÇÃO DO ART. 489 DO CPC/15. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 370 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSENTE.
+1. Ação monitória.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 370 do CPC/15. Precedentes.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Alterar o decidido no acórdão impugnado, no que se refere à ausência de cerceamento de defesa na hipótese, exige o reexame de fatos e provas, o que é vedado pela Súmula 7/STJ.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.977.374/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 21/3/2022, DJe de 23/3/2022, grifei.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS.
+1. Não se constata a alegada violação aos artigos 489 e 1.022, do NCPC, porquanto todos os argumentos expostos pela parte, na petição dos embargos de declaração, foram apreciados, com fundamentação clara, coerente e suficiente.
+2. O Tribunal a quo, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, afastou o alegado cerceamento de defesa, consignando a desnecessidade da produção da prova testemunhal. O acolhimento da pretensão recursal, no ponto, demandaria revolvimento do acervo fático-probatório dos autos, providência vedada pela Súmula 7/STJ. Precedentes.
+3. Com relação à alegada necessidade de "aplicação de multa diária ao Facebook Serviços Online do Brasil Ltda", a Corte de origem expressamente consignou que "a ordem expedida em relação àquela empresa restou cumprida", para fins de afastamento da penalidade.
+3.1. Com efeito, "a determinação de multa diária como meio de garantir o cumprimento da decisão judicial tem nítida feição liminar, o que permite ao magistrado, no uso de sua discricionariedade, aferir sua oportunidade e razoabilidade, majorando-a, reduzindo-a, ou até mesmo suprimindo-a" (STJ, REsp 1.685.400/SC, Rel. Min. Herman Benjamin, Segunda Turma, DJe 16/10/2017).
+3.2. Para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida no decisum atacado e o revolvimento das provas juntadas aos autos, o que, forçosamente, ensejaria rediscussão de matéria fática, incidindo, na espécie, o óbice da Súmula 7/STJ.
+4. O aresto recorrido está em consonância com a orientação desta Corte, no sentido de que, embora o art. 56, § 1º, da Lei 9.279/1996, preveja a possibilidade de se alegar, em matéria de defesa, a nulidade da patente, a melhor interpretação a ser dada ao aludido dispositivo legal é no sentido de que essa alegação deve se dar em ação autônoma a ser ajuizada perante a Justiça Federal.
+4.1. Nos termos da jurisprudência do STJ, "a paralisação do processo em virtude de prejudicialidade externa não possui caráter obrigatório, cabendo ao juízo local aferir a plausibilidade da suspensão consoante as circunstâncias do caso concreto" (AgInt no AREsp 846.717/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 30/11/2017).
+4.2. O Tribunal de piso, examinando as circunstâncias da causa, concluiu pela inexistência de prejudicialidade externa. A alteração de tais premissas demandaria o reexame do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, a teor da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.374.195/DF, relator Ministro Marco Buzzi, Quarta Turma, julgado em 18/5/2020, DJe de 25/5/2020, grifei.)
+Quanto à apontada divergência jurisprudencial, consoante aludido na decisão agravada, verifica-seque a jurisprudência desta Corte Superior é firme no sentido de que "aanálise do dissídio jurisprudencial fica prejudicada em razão da aplicação do enunciado da Súmula n. 7/STJ, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, mas sim de fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo." (AgInt no AgInt no AREsp n. 1.963.884/SC, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/5/2022, DJe de 25/5/2022.).
+Destaca-se, por derradeiro, que, conforme consignado na decisão agravada,"nos termos do art. 105, III, da Constituição Federal, não compete ao Superior Tribunal de Justiça o exame de dispositivos constitucionais, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal."(AgInt no AREsp n. 1.914.947/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/6/2022, DJe de 24/6/2022.).
+Assim, em que pesem as razões desenvolvidas pelaparteno presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto válidos os argumentos que a sustentam.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de MULTA por conduta processual indevida (art. 1.026, § 2º, do CPC/2015).
+É o voto.
