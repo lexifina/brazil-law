@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma assim ementado (fls. 482-489, e-STJ):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. EMBARGOS À EXECUÇÃO FISCAL. REMISSÃO. RENÚNCIA A AÇÃO AJUIZADA. NORMA MUNICIPAL. SÚMULA 280/STF. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ. PRINCÍPIO DA CAUSALIDADE. INADIMPLÊNCIA POR DÉBITO DE IPTU. AJUIZAMENTO DE EXECUÇÃO FISCAL. DEVER-PODER DA FAZENDA. PRECEDENTES DO STJ.
+1. O Agravo Interno não procede. A tese recursal é de que que "as partes celebraram verdadeiro acordo para que o então embargante aderisse ao programa de benefício de remissão, sendo certo que o Município impôs como condição a renúncia do contribuinte sobre qualquer ação judicial existente que versasse sobre o débito em tela" (fl. 319, e-STJ).
+2. Assim, pugna a parte por "afastar a condenação do recorrente ao pagamento de honorários advocatícios, em razão da remissão do crédito tributário, concedida através da Lei Municipal nº 5.965 de 22 de setembro de 2015, de acordo com o art. 90, §2 2 do Diploma Processual Civil (..)" (fl. 322, e-STJ).
+3. Corretamente decidiu a Presidência do STJ, haja vista que a tese demanda avaliação da norma local, sendo aplicável, por analogia, o óbice da Súmula 280/STF.
+4. Ademais, seria também necessário verificar os termos concretos entabulados. De igual forma, far-se-ia preciso revolver os autos para contrariar a constatação do acórdão de que "o Embargante deu causa ao ajuizamento da demanda", pois a demanda original buscava cobrar IPTU inadimplido que somente foi pago após o ajuizamento da ação (fl. 292, e-STJ), o que violaria a Súmula 7/STJ.
+5. Ainda que tais óbices inexistissem, a ratio aplicável ao presente caso seria a mesma constante no entendimento firme do STJ de que "o ônus da sucumbência deve ser suportado por quem deu causa ao ajuizamento da ação; (..) o reconhecimento da ocorrência de prescrição intercorrente não enseja, em regra, a condenação da Fazenda Pública nos ônus de sucumbência, tendo em vista que, nessa hipótese, não foi a Fazenda exequente a responsável pelo ajuizamento da ação nem pela não localização do devedor ou de seus bens" (AgInt no REsp 1.845.936/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 2.6.2021, grifou-se). Estando, portanto, inadimplente o contribuinte, é dever-poder da Fazenda ajuizar Execução Fiscal para alcançar o tributo devido, sendo evidente, portanto, que a causalidade pesa sobre o particular em mora.
+6. Nesse sentido, é certo afirmar que "a Corte regional, com base no princípio da causalidade, decidiu que o ente fazendário não deve ser condenado ao pagamento de honorários advocatícios, porque o exequente não deu causa ao processo e não se pode beneficiar o devedor pelo não cumprimento de sua obrigação. A análise da pretensão recursal implicaria o reexame das provas dos autos a fim de aferir se a Fazenda Pública eventualmente deu causa à demanda, o que é vedado a esta Corte Superior devido ao óbice da Súmula 7/STJ". (AgInt no AREsp 1.532.496/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27.2.2020).
+7. "Na esteira do entendimento firmado nesta Corte, em regra, a desistência da Ação Anulatória ou dos Embargos à Execução, decorrente da adesão do contribuinte ao Programa de Parcelamento, não implica o afastamento da condenação aos honorários advocatícios. Nesse sentido: STJ, AgRg no REsp 1.156.874/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 02/02/2010; AgRg no REsp 1.055.910/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 21/11/2008." (AgRg no AREsp 776.171/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe de 15.12.2015).
+8. "A desistência de ação ordinária ou a renúncia do direito nela vindicado para fins de adesão a programa de ajuste fiscal (remissão) não dispensa a parte desistente do pagamento da verba honorária, salvo se houver lei específica dispondo de forma diversa, o que não é o caso do autos. Precedentes: REsp 1.353.826/SP, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 17/10/2013, julgado pelo rito do art. 543-C do CPC; AgRg no AREsp 385.795/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 24/10/2013; (..)." (AgRg no AREsp 103.275/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18.8.2014).
+9. Agravo Interno não provido.
+A parte alega omissão quanto à majoração de seus honorários (fls. 493-495, e-STJ). Contrarrazões presentes (fls. 498-501, e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. NOVA MAJORAÇÃO DE HONORÁRIOS SUCUMBENCIAIS. IMPOSSIBILIDADE. AUSÊNCIA DE OMISSÃO.
+1. Os Aclaratórios não procedem.
+2. O Embargante sustenta, em suma, omissão quanto à majoração dos honorários sucumbenciais no julgamento do Agravo Interno, haja vista que "o ora embargado foi sucumbente no objeto do recurso interposto e merece ser condenado em honorários recursais" (fl. 493, e-STJ).
+3. Ocorre que a decisão da Presidência já majorou os honorários "em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem" (fl. 442, e-STJ).
+4. "Consoante orientação firmada pela Segunda Seção do STJ, "não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração" (EDcl no AgInt no AREsp 1.677.575/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 01/03/2021, DJe 04/03/2021)." (AgInt no AREsp 2.089.581/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18.8.2022.)
+5. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos retornaram ao Gabinete em 16.8.2022.
+Os Aclaratórios não procedem.
+O Embargante sustenta, em suma, omissão quanto à majoração dos honorários sucumbenciais no julgamento do Agravo Interno, haja vista que "o ora embargado foi sucumbente no objeto do recurso interposto e merece ser condenado em honorários recursais" (fl. 493, e-STJ).
+Ocorre que a decisão da Presidência já majorou os honorários "em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem" (fl. 442, e-STJ).
+E, nesses casos, descabe nova majoração.
+Observem-se os precedentes, com grifos inclusos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NULIDADE DA TAXA DE INTERVENIÊNCIA. SÚMULAS 5 E 7 DO STJ. RATEIO DE LIGAÇÃOES DE SERVIÇOS PÚBLICOS. ILEGITIMIDADE DOS AGRAVADOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. AGRAVO INTERNO. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+(..) 4. Conforme entendimento desta Corte: "a aplicação das multas por litigância de má-fé ou por interposição de recurso manifestamente inadmissível não é automática, pois não se trata de mera decorrência lógica da rejeição do recurso. No caso concreto, a parte recorrente interpôs os recursos legalmente previstos no ordenamento jurídico, sem abusar do direito de recorrer" (AgInt no AREsp 1.163.437/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 04/05/2020, DJe 07/05/2020).
+5. Consoante orientação firmada pela Segunda Seção do STJ, "não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração" (EDcl no AgInt no AREsp 1.677.575/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 01/03/2021, DJe 04/03/2021).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.089.581/RJ, rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 18/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. FALHA. PRODUTO. MARCA-PASSO. TROCA. RECUSA ABUSIVA. OMISSÃO. INEXISTÊNCIA. DANO MORAL. CONFIGURAÇÃO. VALOR. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REDUÇÃO. REEXAME DE PROVAS.
+(..) 6. A jurisprudência do Superior Tribunal de Justiça possui entendimento no sentido de ser possível a revisão da indenização por danos morais nas hipóteses em que o valor fixado se mostrar exorbitante ou irrisório, o que não ocorreu no caso em exame. Na hipótese, o montante de R$ 15.000,00 (quinze mil reais) não é excessivo nem desproporcional aos danos sofridos.
+7. Não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração. Precedentes.
+8. Agravo interno não provido.
+(AgInt no AREsp n. 2.024.873/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+Diante do exposto, rejeito os Embargos de Declaração.
+Por derradeiro, convém advertir que ajuizar recurso protelatório ensejará reconhecimento de litigância de má-fé e aplicação das multas previstas no art. 81 e no art. 1.026, § 2º e § 3º, do CPC/2015.
+É como voto.
