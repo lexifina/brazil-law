@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CAIO EDUARDO BENTO MAEKAWA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HCn. 2024845-96.2022.8.26.0000).
+O Juízo de primeiro grau recebeu a denúncia oferecida contra o paciente. A peça acusatória imputou ao paciente a prática do delito descrito no art. 121, § 2º, III, do CP.
+Impetrado habeas corpus pela defesa, a Corte estadual denegou a ordem em acórdão assim ementado (fl. 17):
+HABEAS CORPUS. Paciente denunciado como incurso no artigo 121, §2º, inciso III, do Código Penal. Homicídio na condução de veículo automotor. Pedido de desclassificação do delito. Alegação de inexistência de dolo eventual. Comprovação do dolo do agente que ainda será objeto de dilação probatória. Existência de indícios de dolo eventual. Embriaguez, alta velocidade e desrespeito à sinalização. Ordem denegada.
+No presente writ, a defesa aponta constrangimento ilegal, pois, na espécie, está presente a culpa consciente, e não o dolo eventual.
+Afirma que o paciente jamais possuiu o animus de causar a morte de outrem.
+Requer a concessão da ordem para que seja desclassificada a condutada para o crime de homicídio culposo.
+Informações às fls. 27-50 e 53-61.
+O Ministério Público Federal manifestou-se pela denegação da ordem (fls. 63-70).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o Superior Tribunal de Justiça considera passível de correção de ofício o flagrante constrangimento ilegal.
+Como relatado, o processo ainda está em sua fase inicial, pois apenas houve o recebimento da denúncia, com a capitulação do delito que a acusação, com base nas provas até então colhidas, entendeu correta.
+Neste momento processual, para se operar a buscada desclassificação do delito, teria deser manifesta a inexistência do elemento subjetivo (dolo eventual), o que não se pode afirmarde plano.
+Sobre a controvérsia dos autos, a Corte de origem assim se pronunciou (fls. 18-19, destaquei):
+Contudo, consta da denúncia que o paciente conduzia seu veículo automotor em "estado de embriaguez (teste de etilômetro 1,08 mg/l2) e em alta velocidade quando ultrapassou o sinal semafórico vermelho e colidiu violentamente seu veículo com a motocicleta" conduzida pela vítima. Com a colisão, a vítima foi lançada a uma distância de cerca de 11 metros e não resistiu aos ferimentos sofridos, vindo a óbito no local (fls. 232 processo digital principal).
+É certo que tais circunstâncias ainda serão objeto de no transcurso da instrução criminal. Contudo, há indícios de que, ao menos em tese, o paciente atingiu a vítima quando estava conduzindo veículo automotor embriagado, em alta velocidade e com desrespeito à sinalização semafórica. Assim, a imputação na denúncia de crime de homicídio doloso em face do dolo eventual não se revela manifestamente ilegal.
+Desta forma, diante de indícios de que o paciente assumiu o risco de produzir o resultado morte, inviável a desclassificação pretendida neste habeas corpus.
+Com efeito, infere-se que o Tribunal de Justiça do Estado de São Paulo entendeu ser prematura qualquer consideração acerca da presença (ou não) do elemento objetivo, não se mostrando ilegal a capitulação feita na denúncia.
+De fato,"o Superior Tribunal de Justiça vem entendendo que o dolo eventual não é extraído da "mente do agente", mas das circunstâncias do fato, de forma que a ocorrência de uma morte e de uma lesão corporal faz parte do resultado assumido pelo agente, que sob a influência de álcool, em alta velocidade e desrespeitando as regras de trânsito, foi o responsável pelo fatídico acidente. Tais elementos, bem delineados na denúncia, demonstram a antevisão do acusado a respeito do resultado assumido, justificando a imputação" (AgRg no AREsp n. 1.166.037/PB, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 17/12/2019, DJe de 19/12/2019, destaquei).
+Nessa ordem de ideias, a pretensão defensiva não pode ser acolhida nesta estreita via. Primeiro, porque nem sequer houve a instrução criminal, de modo que não se pode falar em prova cabal da ausência de dolo eventual. Segundo, há indícios de sua ocorrência e, nos termos da jurisprudência desta Corte, não se pode falar em ilegalidade manifesta na imputação feita ao acusado. Terceiro,enquadrar a conduta do paciente como caracterizadora do dolo eventual ou da culpa consciente demanda dilação probatória, medida vedada na via do habeas corpus.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.Intimem-se.
