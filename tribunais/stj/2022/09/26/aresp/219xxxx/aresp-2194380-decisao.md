@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porJUSSARA BEATRIZ DE GODOY SCHULZBACHER,contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na(s) alínea(s) "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 25/07/2022.
+Concluso ao gabinete em: 15/09/2022.
+Ação:revisão de contrato de financiamento de veículo com garantia de alienação fiduciária com pedido de devolução de valores, ajuizada pela agravante, em face de BANCO PAN S.A.
+Sentença:julgou improcedente o pedido.
+Acórdão:negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL. PRELIMINAR DE RAZÕES DISSOCIADAS. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR E REVISÃO JUDICIAL. JUROS REMUNERATÓRIOS.SEGURO PRESTAMISTA. TARIFA DE CADASTRO. CARACTERIZAÇÃO DA MORA. TUTELA ANTECIPADA. COMPENSAÇÃO DE VALORES E REPETIÇÃO DE INDÉBITO.
+DA PRELIMINAR CONTRARRECURSAL DE INÉPCIA DA APELAÇÃO.
+Tendo a parte apelante declinado os fundamentos pelos quais pretende a reforma da sentença, não há falar em ofensa ao Princípio da Dialeticidade. Preliminar rejeitada.
+da aplicação do código de defesa do consumidor E DA revisão JUDICIAL.Reconhecida na origem a incidência do Código de Defesa do Consumidor, bem como a possibilidade de revisão do contrato, inexiste interesse recursal. Apelação não conhecida nos pontos.
+DOS JUROS REMUNERATÓRIOS. Estando a taxa pactuada pelas partes dentro dos limites previstos na média de mercado apurada pelo BACEN, a pactuação deve ser preservada.
+DA TARIFA DE CADASTRO. É válida a cobrança da Tarifa de Cadastro expressamente convencionada, a qual somente pode ser cobrada no início do relacionamento entre o contratante e a instituição financeira. Tese Paradigma.Recurso Especial nº 1.251.331/RS e nº 1.255.573/RS. Súmula 566 do STJ.
+DO SEGURO PRESTAMISTA. Não contém abusividade a cláusula que, em contrato celebrado a partir de 30.04.2008, permite ao consumidor optar, com nítida autonomia da vontade, pela contratação de seguro com a instituição financeira. Tese fixada nos Recursos Especiais Repetitivos ns. 1.639.320/SP e 1.639.259/SP - TEMA 972.
+DA CARACTERIZAÇÃO DA MORA. Mantida a avença no período da normalidade contratual, resta caracterizada a mora da parte autora, nos termos do REsp. nº 1.061.530/RS.
+DA TUTELA ANTECIPADA. Inalteradas as cláusulas avençadas para o período da normalidade contratual e configurada a mora em caso de inadimplência,admite-se a inscrição da parte devedora nos cadastros restritivos de crédito.
+DA COMPENSAÇÃO DE VALORES E DA REPETIÇÃO DO INDÉBITO. Não constatada abusividade nas cláusulas pactuadas pelas partes, não há falar em compensação de valores e/ou a repetição do indébito.
+DA SUCUMBÊNCIA. Sucumbência confirmada. Majorados os honorários advocatícios, diante do trabalho adicional à demandada em grau recursal, nos termos do art. 85, § 11, do Código de Processo Civil.
+APELAÇÃO CONHECIDA EM PARTE E DESPROVIDA.
+Recurso especial: alega a existência dedissídio jurisprudencial. Sustenta que: i)havendo abusividade dos juros remuneratórios, a adequação da taxa à média de mercado é medida impositiva; ii) o contrato debatido possui taxa de juros remuneratórios superior à taxa média de mercado; iii) ainda que a discrepância da taxa de juros contratada não seja de grande vulto, a aplicação da taxa média de juros ao contrato deverá ocorrer; iv) o reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual (juros remuneratórios e capitalização) descaracteriza a mora.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à ausência de abusividade na cobrança de juros remuneratórios, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da harmonia entre o acórdão recorrido e a jurisprudência do STJ
+O TJ/RS, ao concluir acerca dos juros remuneratórios e da caracterização da mora, alinhou-se aos entendimentos do STJ, firmados sob o rito dos recursos repetitivos, no sentido de que: i) a taxa de juros remuneratórios, verificada sua abusividade, deve ser limitada à taxa média de mercado, divulgada pelo Banco Central do Brasil (REsp 1.061.530/RS, 2ª Seção, DJe de 10/3/2009); e ii) afastada a abusividade nos encargos exigidos no período da normalidade contratual, caracteriza-se a mora (REsp 1.061.530/RS, 2ª Seção, DJe de 10/3/2009).
+Além disso, o acórdão recorrido aplicou corretamente a jurisprudência do STJ no sentido de que, para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso, à luz do caso concreto (AgInt no AREsp n. 1.942.512/RS, 4ª Turma, DJe de 10/3/2022; AgInt no AREsp n. 1.823.166/RS, 4ª Turma, DJe de 24/2/2022; AgInt no REsp n. 1.930.618/RS, 3ª Turma, DJe de 27/4/2022; e AgInt no AREsp n. 1.643.166/SP, 3ª Turma, DJe de 27/11/2020).
+Na hipótese dos autos, o Tribunal de origem relatouque, na cédula de crédito acostada, firmada pelas partes em 10.01.2020,ficou pactuada taxa de juros remuneratórios de 1,57% ao mês e de 20,49% ao ano sobre o valor financiado e que, por meio do site do Banco Central do Brasil, é possível constatar que, quando daassinatura do contrato, a média de mercado estava apurada em 19,730% ao ano. Por fim, sopesando todas as circunstâncias, concluiu que a taxa de juros remuneratórios pactuada não é abusiva.
+Logo, o recurso especial não merece provimento.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor atualizado da causa(e-STJ fl. 211) para 20%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO COM PEDIDO DE DEVOLUÇÃO DE VALORES. FINANCIAMENTO DE VEÍCULO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA.REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. JUROS REMUNERATÓRIOS. AUSÊNCIA DE ABUSIVIDADE. CARACTERIZAÇÃO DA MORA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de revisão de contrato de financiamento de veículo com garantia de alienação fiduciária com pedido de devolução de valores.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Os juros remuneratórios incidem à taxa média de mercado em operações da espécie, apurados pelo Banco Central do Brasil, quando verificada pelo Tribunal de origem a abusividade do percentual contratado. Precedente Repetitivo da 2ª Seção.
+4. Para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso, à luz do caso concreto. Precedentes.
+5. Afastada a abusividade nos encargos exigidos no período da normalidade contratual, caracteriza-se a mora. Precedente Repetitivo da 2ª Seção.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
