@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo interno interposto por Jordano Klippel Hoffmann contra decisãomonocrática da Presidência desta Corte que não conheceu do agravo em recurso especial em razão da ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial (e-STJ, fls. 214-215).
+Nas razões do agravo interno, o insurgente defende que impugnou especificamente todos os pontos abordados na decisão agravada (e-STJ, fls. 217-221).
+Sem impugnação (e-STJ, fl. 225).
+Tendo por plausíveis as alegações trazidas pelo insurgente em seu agravo interno, reconsidero a decisão monocrática de fls. 214-215 (e-STJ) e passo a novo exame do recurso especial.
+O Tribunal de Justiça do Estado do Rio Grande do Sul não conheceu da apelação interposta nos termos da seguinte ementa (e-STJ, fl. 185):
+RECURSO ESPECIAL EM APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. FASE DE CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO REJEITADA. CABIMENTO DE AGRAVO DE INSTRUMENTO. ART. 1.015, PARÁGRAFO ÚNICO, DO CPC. RECURSO DE APELAÇÃO NÃO CONHECIDO. RECURSO CABÍVEL CONTRA A DECISÃO QUE JULGA A IMPUGNAÇÃO E NÃO EXTINGUE CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICÁVEL. ENTENDIMENTO DO ÓRGÃO JULGADOR EM SINTONIA COM A JURISPRUDÊNCIA DA CORTE SUPERIOR. SÚMULA 83 DO STJ. RECURSO NÃO ADMITIDO.
+Nas razões do recurso especial, o recorrente alegou ofensa aos arts. 203 e 487, do CPC/2015.
+Alegouque houve resolução de mérito, sendo cabível o recurso interposto. Requereu, alternativamente, a aplicação do princípio da fungibilidade, afirmando a ausência de erro grosseiro. (e-STJ, fl. 185).
+O Tribunal estadual fundamentou sua decisão deixando assente que (e-STJ, fls. 160-163):
+Isto porque a decisão recorrida não se enquadra no conceito de sentença previsto no art. 203, § 1º, do CPC: "Os pronunciamentos do juiz consistirão em sentenças, decisões interlocutórias e despachos. § 1º - Ressalvadas as disposições expressas dos procedimentos especiais, sentença é o pronunciamento por meio do qual o juiz, com fundamento nos arts. 485 e487, põe fim à fase cognitiva do procedimento comum, bem como extingue a execução".
+Cuida-se, na verdade, de provimento jurisdicional de natureza interlocutória, uma vezque a rejeição da impugnação não acarretou a extinção da fase de cumprimento de sentença, mas tão somente a extinção da impugnação apresentada pelo apelante.
+Tanto que determinado o prosseguimento da fase de cumprimento de sentença.
+Ocorre que o parágrafo único do art. 1.015 do CPC dispõe que a decisão que julga a impugnação à fase de cumprimento de sentença é recorrível por meio de agravo de instrumento quando não ensejar a extinção da execução, como ocorreu no caso.
+Portanto, a interposição de apelação da decisão que não extinguiu a execução configura erro grosseiro que impossibilita a aplicação do princípio da fungibilidade recursal, até porque inexiste divergência jurisprudencial a respeito do recurso cabível.
+É cediço que a aplicação do princípio da fungibilidade recursal requer a observância do prazo do recurso considerado correto e a existência de dúvida objetiva acerca da impugnação cabível, que afaste o mero erro grosseiro.
+No caso em análise, verifica-se que o referido entendimento guarda consonância com a jurisprudência do STJ, no sentido de que o recurso cabível contra a decisão que julga impugnação ao cumprimento de sentença sem extinção do processo de execução é o agravo de instrumento.
+Com efeito, "a decisão que julga impugnação ao cumprimento de sentença sem extinguir a fase executiva desafia agravo de instrumento, sendo impossível conhecer a apelação interposta com fundamento no princípio da fungibilidade recursal, tendo em vista a existência de erro grosseiro" (AgInt no AREsp 1.380.373/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 20/05/2019, DJe 22/05/2019).
+Na mesma linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA.DECISÃO QUE NÃO ACOLHE A IMPUGNAÇÃO DO CUMPRIMENTO DE SENTENÇA SEM PÔR FIM AO PROCESSO EXECUTIVO. DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. FUNGIBILIDADE RECURSAL.IMPOSSIBILIDADE. SÚMULA 83/STJ. AGRAVO CONHECIDO PARA DESPROVER O RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que a parte recorrente juntou a cadeia de substabelecimentos e a respectiva procuração originária. Novo exame do feito.
+2. A jurisprudência desta Corte é no sentido de que a decisão que resolve a impugnação sem pôr fim à execução desafia o recurso de agravo de instrumento, caracterizando erro inescusável a interposição de apelação.
+3. O entendimento adotado no acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para desprover o recurso especial (AgInt no AREsp 1.671.596/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 20/09/2021, DJe 15/10/2021).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART.1.022 DO CPC/2015. AUSÊNCIA DE OMISSÕES. LIQUIDAÇÃO DE SENTENÇA.LIQUIDAÇÃO. EXTINÇÃO DE FASE. AUSÊNCIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. APELAÇÃO. NÃO CONHECIMENTO. FUNGIBILIDADE. NÃO CABIMENTO. ERRO GROSSEIRO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequada mente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. No caso em apreço, a decisão não extinguiu a liquidação de sentença, visto que determinou o prosseguimento em relação aos lucros cessantes, com a intimação do exequente para apresentar memória de cálculo discriminada.
+4. O Superior Tribunal de Justiça entende que as decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva, têm natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado. Precedentes.
+5. O recurso de apelação somente é cabível quando ocorre a extinção da execução, o que não houve na presente hipótese.
+6. Não é possível a aplicação do princípio da fungibilidade em casos de interposição do recurso incabível em liquidação de sentença em virtude da ausência de dúvida objetiva, caracterizando erro grosseiro. Precedentes.
+7. Agravo interno não provido (AgInt no AREsp 1.611.874/MT, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 10/05/2021, DJe 18/05/2021).
+Dessa forma, encontrando-se o acórdão recorrido em harmonia com a jurisprudência desta Corte, inarredável a aplicação da Súmula 83/STJ a obstar a análise do reclamo.
+Diante do exposto, conheço do agravo, em juízo de retratação, para negar provimento ao recursoespecial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FASE DE CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO REJEITADA. DECISÃO INTERLOCUTÓRIA. RECURSO CABÍVEL. AGRAVO DE INSTRUMENTO. FUNGIBILIDADE RECURSAL.IMPOSSIBILIDADE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ.AGRAVO CONHECIDO, EM JUÍZO DE RETRATAÇÃO. PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
