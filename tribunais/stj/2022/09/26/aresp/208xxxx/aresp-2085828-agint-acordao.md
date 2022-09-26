@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S. A., em face de decisão monocrática deste signatário (fls. 365/367, e-STJ), que negou provimento ao recurso da ora agravante.
+O apelo nobre (art. 105, III, alínea "a", CF) desafiou acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 280, e-STJ):
+PLANO DE SAÚDE - Cancelamento de contrato- Insurgência do contratante- Procedência decretada - Alegação da ré de que lícito o cancelamento do contrato ante o inadimplemento do autor e expressa cláusula contratual, bem como notificação prévia do beneficiário - Descabimento -Abusividade da conduta da ré reconhecida - Ausência de cumprimento dos requisitos do artigo 13, inciso II, da Lei 9.656/98 (notificação do consumidor até o quinquagésimo dia de inadimplência) - Notificação, ademais, que foi entregue após o prazo para quitação das mensalidades e não cancelamento do contrato - Obrigação da ré de restabelecer o contrato firmado com o autor - Recurso desprovido.
+Nas razões de recurso especial (fls. 285/289, e-STJ), a agravante apontouofensa ao artigo13, parágrafo único, inciso II, da Lei 9.656/98, afirmando quediversas notificações foram encaminhadas para o endereço do autor, tendo havido sua comunicação com relação à denúncia unilateral do contrato de plano de saúde em razão de inadimplemento.
+Contrarrazões às fls. 301/308, e-STJ.
+Em juízo de admissibilidade, o Tribunal de origem negou seguimento ao reclamo (fls. 309/310, e-STJ), dando ensejo ao agravo (fls. 313/318, e-STJ), por meio do qual a agravante pretendeu a reforma da decisão impugnada e o processamento do apelo.
+Contraminuta às fls. 325/332, e-STJ.
+Em decisão monocrática (fls. 337/339, e-STJ), a Presidência do STJ não conheceu do recurso, em razão da ausência de impugnação a todos os fundamentos.
+Interposto agravo interno (fls. 342/348, e-STJ), a decisão anteriormente proferida foi reconsiderada (fls. 365/367, e-STJ), para negar provimento ao recurso,em razão da incidência da Súmula 283 do STF.
+Daí o presente agravo interno (fls. 370/376, e-STJ), no qual a agravante se insurge contra os fundamentos da decisão impugnada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER - DECISÃO MONOCRÁTICA QUE, APÓS RECONSIDERAR DELIBERAÇÃO ANTERIOR, NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA DEMANDADA.
+1.Asubsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, in verbis: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão objurgada.
+1. Conforme constou da decisão agravada,a Corte local entendeu pela irregularidade dasnotificações endereçadas ao autor, já que recebidas após as datas previstas para quitação das mensalidades em aberto,in verbis(fls. 281/282, e-STJ):
+Ocorre que, não obstante todas as alegações da ré de que o autor foi notificado regularmente paraquitação das mensalidades em aberto, fato é que, consoante bemanotado pelo julgador monocrático, "apesar a ré encaminhar a notificação postal ao endereço do autor contido no contrato, nota-se que a missiva foi recebida tão somente em 11/08/2020 ou 17/08/2020, portanto, num prazo superior ao quinquagésimo dia de inadimplência, cujo termo inicial deu-se em 04/06/2020" (fl.207).
+Além disso, do que se verifica do documento juntado à fl. 142, a notificação encaminhada ao autor informando a possibilidade de cancelamento do contrato por atraso no pagamento das mensalidades mencionava que: "o seu contrato poderá ser automaticamente cancelado, caso não seja(m) realizado(s) até o dia 03/08/2020 o(s) pagamento(s) que consta(m) em atraso", tendo esta sido recebida apenas no dia 11.08.2020 ou 17.08.2020 (números escritos de forma ilegível no documento fl. 143), dias após o prazo concedido ao autor para aquitação e não cancelamento do contrato.
+Por essas razões, não poderia o contratoter sido cancelado, sendo corolário lógico, como bem anotado no decisum, o restabelecimento do plano de saúde do autor firmado com a ré, nas mesmas condições contratuais existentesanteriormente ao cancelamento.
+Contudo, oreferido fundamento -irregularidade das notificaçõesrecebidas após as datas previstas para quitação das mensalidades em aberto-, não foiimpugnadonas razões recursais, de forma que a subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF,in verbis: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+Precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ATRASO NA ENTREGA DO IMÓVEL. LUCROS CESSANTES. FUNDAMENTO INATACADO. MORA DO COMPRADOR. SÚMULA 283 E 284 DO STF. MATÉRIA QUE DEMANDA REEXAME. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A Documento: 110895220 Página 2 de 6 Superior Tribunal de Justiça subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".  ..  3. Agravo interno não provido. (AgInt nos EDcl no AREsp 874.193/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/09/2016, Dje 08/09/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  ..  EXISTÊNCIA DE FUNDAMENTO NÃO ATACADO NO ACÓRDÃO RECORRIDO. APLICAÇÃO DA SÚMULA Nº 283 DO STF.  ..  5. A existência de fundamento inatacado no julgado, suficiente para manter a decisão, atrai o óbice contido na Súmula nº 283 do STJ, aplicável por analogia. 6. Agravo regimental não provido. (AgRg no AREsp 719.286/SC, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 14/06/2016, Dje 21/06/2016)
+Inafastável, no ponto, o teor da Súmula 283 do STF, cuja incidência prejudica a análise do apontado dissídio jurisprudencial.
+De rigor, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
