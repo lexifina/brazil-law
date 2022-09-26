@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, impetrado em benefício de ANAILTON MIRANDA DO AMARAL contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento daApelação Criminal n. 0000756-09.2016.8.26.0338.
+Extrai-se dos autos que o paciente foi condenado como incurso noart.157, § 2º, incisos I, II e III, por três vezes, na forma do art. 70 do Código Penal, à pena de 12 anos, 2 meses e 26 dias de reclusão, em regime inicial fechado, além do pagamento de 30 dias-multa (fls. 19/47).
+Em sede deapelação, o Tribunal de origem negouprovimento ao recurso defensivo. O acórdão ficou assim ementado:
+"Apelação - Roubo majorado pelo concurso de pessoas, emprego de arma de fogo e restrição de liberdade das vítimas - Condenação - Recursos defensivos. Provas suficientes para justificar o édito condenatório. Vítimas que reconheceram os apelantes - Concurso de agentes, a utilização de arma de fogo e a restrição da liberdade que restaram cabalmente demonstradas pela prova oral.
+Dosimetria:
+Apelantes Anderson Militão de Lima, Anailton Miranda do Amaral, Roberto Sales da Silva, Fernando de Aguiar e Oscar Silva Neto Circunstâncias judiciais amplamente desfavoráveis que justificam a majoração da pena-base (maus antecedentes, culpabilidade acima da média, uso de violência física e psicológica, ambiente residencial).
+Aumento da pena em 1/5 pela agravante da reincidência específica. Majoração da pena em 5/12 decorrente das causas de aumento (emprego de arma de fogo, concurso de agentes e restrição de liberdade).
+Corretamente reconhecido o concurso formal.
+Apelante Gustavo Rodrigues Xavier Pena-base fixada acima do patamar mínimo legal corretamente fundamentada nas circunstâncias judiciais amplamente desfavoráveis. Redução da pena em 1/6 diante da atenuante da menoridade relativa. Majoração da reprimenda em 5/12 diante da tripla causa de aumento.
+Corretamente reconhecido o concurso formal.
+Regime inicial fechado se mostrou adequado.
+Impossível a substituição da pena privativa de liberdade por restritiva de direitos Recursos improvidos." (fl. 49).
+No presente mandamus, aDefesa sustenta que o acórdão impugnadoaplicou aopaciente aumento de pena em 5/12 (cinco doze avos), na terceira fase da dosimetria da pena, sem fundamentação idônea, mas exclusivamente em razão do número de causas de aumento de pena, tornando-se, portanto, ilegal.
+Requer aconcessão da ordem de habeas corpus para reduzir o percentual de aumento da pena em razão das causas de aumento, porquanto o número de majorantes não é fundamento idôneo para exasperar a reprimenda.
+Informações prestadas (fls. 68/85).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus(fl. 89).
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+O TJSP manteve apena aplicada ao ora paciente, nos seguintes termos:
+"Com relação aos réus Anailton, Roberto, Anderson, Fernando e Oscar Na primeira fase, diante das circunstâncias judiciais amplamente desfavoráveis aos réus (ostentam maus antecedentes - fls. 538, 617, 680, 673 e 595, respectivamente, além da culpabilidade na espécie estar acima da média, pelo uso da violência física e psicológica contra as vítimas, vez que foram amarradas e ameaçadas verbalmente, sob a mira de armas de fogo, dentro do ambiente residencial), a pena-base foi corretamente aumentada acima do mínimo legal, ou seja, em 06 (seis) anos de reclusão e pagamento de 15 (quinze) dias-multa.
+Na segunda fase, considerando a agravanteda reincidência específica (fls. 512, 686, 690, 540 e 597, respectivamente), a pena foi majorada em 1/5 (um quinto), sendo fixada em 07 (sete) anos, 02 (dois) meses, 12 (doze) dias de reclusão e pagamento de 18 (dezoito) dias-multa
+Na terceira fase, presentes as causas de aumento de pena previstas nos incisos I, II e V do § 2º do art. 157 do Código Penal (emprego de arma de fogo, concurso de agentes e restrição de liberdade), a pena restou corretamente aumentada em 5/12 (cinco doze avos), sendo fixada em 10 (dez) anos, 02 (dois) meses e 12 (doze) dias de reclusão, mais o pagamento de 25 (vinte e cinco) dias-multa, no valor mínimo legal.
+ ..
+Corretamente reconhecido o concurso formal, a pena foi adequadamente aumentada em 1/5 (um quinto), tornando definitiva em 12 (doze) anos, 02 (dois) meses e 26 (vinte e seis) dias de reclusão e pagamento de 30 (trinta) dias-multa, no valor mínimo legal."(fls.56/58)
+Sobre a dosagem da pena oordenamento jurídico não estabelece um critério objetivo ou matemático para a dosimetria, sendo admissível certa discricionariedade do órgão julgador, desde que baseado em circunstâncias concretas do fato criminoso, de modo que a motivação do édito condenatório ofereça garantia contra os excessos e eventuais erros na aplicação da resposta penal.
+Com efeito, adosimetria da pena deve ser feita seguindo o critério trifásico descrito no art. 68, c/c o art. 59, ambos do Código Penal - CP, cabendo ao Magistrado aumentar a pena de forma sempre fundamentada e apenas quando identificar dados que extrapolem as circunstâncias elementares do tipo penal básico.
+Sendo assim, é certo que o refazimento da dosimetria da pena em habeas corpus tem caráter excepcional, somente sendo admitido quando se verificar de plano e sem a necessidade de incursão probatória, a existência de manifesta ilegalidade ou abuso de poder.
+No que se refere à majoração da pena do crime de roubo, na terceira etapa da dosimetria, esta Corte consagrou o entendimento de que o recrudescimento da pena na terceira fase da dosimetria alusiva ao delito de roubo majorado, em fração mais elevada que 1/3, demanda fundamentação concreta, não se afigurando idônea a simples menção ao número de majorantes.
+Nesse diapasão, a Súmula n. 443/STJ:
+O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes.
+No caso dos autos,da leitura dos trechos acima transcritos, verifico que a hipótese dos autos atrai a incidência do Enunciado n. 443 da Súmula do STJ, uma vez que as instâncias ordinárias, na terceira fase da dosimetria da pena cominada aopaciente, limitaram-se a assinalar que, constatadas três causas de aumento -emprego de arma de fogo, concurso de agentes e restrição de liberdade -, cabível a majoração no patamar de 5/12, fração superior ao mínimo legal previsto no § 2º do art. 157 do Código Penal, que é de 1/3 (um terço).
+Assim, verificam-se ausentes elementos concretos a autorizar a exasperação da pena para o delito de roubo, na terceira fase da dosimetria, em patamar superior ao mínimo legal de 1/3 (um terço).
+Desse modo, impõe-se, no caso vertente, o refazimento da dosimetria da pena parareduzir a fração de aumento, na terceira etapa da dosimetria, para o mínimo legal - 1/3 (um terço).
+Passo, portanto, à dosimetria da pena.
+Na primeira fase, a pena-base foi fixada acima do mínimo legal, em 06 anos de reclusão e pagamento de 15 dias-multa.
+Na segunda fase, considerando a agravante da reincidência específica, apena foi majorada em 1/5 (um quinto), tendo sido fixada em 7 (sete) anos, 2 (dois) meses e12 (doze) dias de reclusão e pagamento de 18 (dezoito) dias-multa.
+Na terceira fase da dosimetria, elevo a pena no patamar mínimo de 1/3 em razão do reconhecimento das causas de aumento do emprego de arma, concurso de agentes e restrição da liberdade, ficando a reprimenda estabelecida em 9 anos, 7 meses e 6 dias de reclusão e pagamento de 24dias-multa. Reconhecido o concurso formal de crimes, a pena foi aumentada na fração de 1/5 (um quinto), tornando-se definitiva em 11 anos, 6 meses e 7 dias de reclusão e pagamento de 28 dias-multa.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para reduzir a pena do pacientepara 11anos, 6meses e 7 dias de reclusão e pagamento de 28 dias-multa, mantido o regime inicial fechado.
+Publique-se. Intimem-se.
