@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto pela Defensoria Pública em favor de MATHEUS SABINO SIMPLICIO contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.22.007320-9/0000).
+Segundo se extrai dos autos, o paciente foi preso preventivamente em 17/1/2022, pela suposta prática do delito tipificado no art. 157, caput, do Código Penal.
+Contra a decisão, a defesa impetrou habeas corpus na Corte estadual, alegando, naquela oportunidade, a nulidade da decisão por afronta ao que dispõe o artigo 311 do CPP, bem como a falta de fundamentos para o decreto preventivo. O Tribunal, contudo, denegou a ordem em acórdão assim ementado (e-STJ fl. 211):
+EMENTA: HABEAS CORPUS - ROUBO - PRISÃO PREVENTIVA DECRETADA DE OFÍCIO PELO JUÍZO - POSSIBILIDADE QUANDO DA COMUNICAÇÃO DO FLAGRANTE - EXPRESSA PREVISÃO LEGAL - AUSENCIA DE ILEGALIDADE - REVOGAÇÃO DA CONSTRIÇÃO - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS AUTORIZADORES - GRAVIDADE CONCRETA - GARANTIA DA ORDEM PÚBLICA - CARACTERÍSTICAS PESSOAIS ABONADORAS QUE, POR SI SÓS, NÃO ENSEJAM A SOLTURA - COVID-19 - AUSENCIA DE DEMONSTRAÇÃO DE QUE O PACIENTE PERTENCE A GRUPO DE RISCO DE CONTÁGIO OU DA IMPOSSIBILIDADE DE SUA MANUTENÇÃO EM CÁRCERE - ORDEM DENEGADA.
+V.V.: EMENTA: HABEAS CORPUS - ROUBO SIMPLES - FLAGRANTE CONVERTIDO EM PRISÃO PREVENTIVA EX OFFICIO - IMPOSSIBILIDADE - CONSTRANGIMENTO ILEGAL VERIFICADO. A Lei nº 13.964/19 suprimiu a expressão "de ofício" do art. 311 do Código de Processo Penal (CPP), impedindo a conversão ou decretação da prisão preventiva sem prévio requerimento do Ministério Público, do assistente de acusação, querelante, ou mesmo representação da autoridade policial, com o intuito de preservar a independência funcional do juiz e o sistema penal acusatório, ofertando ampla separação entre os entes que atuam no processo.
+Portanto, é nula a decisão que decreta, de ofício, a prisão preventiva, por se tratar de hipótese de segregação cautelar ilegal.
+No presente recurso, a defesa impugna a conversão da prisão em flagrante em preventiva de ofício pelo magistrado, bem como afirma que não foram apresentados fundamentos concretos.
+Requer, assim, a revogação da prisão, com a aplicação das medidas cautelares previstas no artigo 319 do CPP.
+A liminar foi indeferida (e-STJ fls. 262/265). As informações foram prestadas (e-STJ fls. 269/294) e o Ministério Público Federal, previamente ouvido, manifestou-se pela prejudicialidade do recurso em habeas corpus (e-STJ fl. 303).
+É o relatório. Decido.
+Com razão o parecer ministerial, o qual adoto como razão para decidir (e-STJ fl. 303):
+O Ministério Público Federal vem, nos autos do processo em epígrafe, manifestar-se pela prejudicialidade do presente recurso ordinário, em que se pretendia fosse revogada a prisão preventiva do recorrente, uma vez que, conforme informações prestadas nos autos, verificou-se ter sido relaxada a prisão preventiva, com expedição de alvará de soltura.
+Assim, fica sem objeto o pedido contido no presente Recurso em habeas corpus.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Intimem-se.
