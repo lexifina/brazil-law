@@ -1,0 +1,43 @@
+EMENTA
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. CONTRADIÇÃO NÃO CONFIGURADA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, não sendo cabível para rediscutir matéria já suficientemente decidida.
+2. No presente caso, diverso do alegado pelo embargante, o habeas corpus não foi denegado pela necessidade de revolvimento fático-probatório. Concluiu-se que "a decisão dos jurados encontra amparo nas provas produzidas ao longo da instrução processual. Observa-se que o Conselho de sentença acolheu uma das teses apresentadas durante o julgamento, o que não caracteriza a decisão contrária à prova dos autos".
+3. De mais a mais, destaca-se que "a contradição impugnável por meio dos embargos de declaração é aquela interna ao julgado, que demonstra incoerência entre as premissas e a conclusão da decisão, e não a existente entre o julgado impugnado e parâmetro externo" (EDcl no AgRg no RMS n. 67.803/SC, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+4. Percebe-se uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada, o que não pode ser admitido.
+5. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de embargos de declaração opostos por FABIO TOMIO UENO em face de acórdão assim ementado (e-STJ fls. 241/242):
+PENAL. PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. QUALIFICADORAS. MOTIVO FÚTIL E DISSIMULAÇÃO. RECONHECIMENTO DAS QUALIFICADORAS MANIFESTAMENTE CONTRÁRIAS À PROVA DOS AUTOS. NÃO VERIFICADO. ESCOLHA POR UMA DAS TESES APRESENTADAS EM PLENÁRIO. ORDEM DENEGADA.
+1. Nos termos da orientação desta Casa, a "anulação do julgamento proferido pelo Conselho de Sentença pelo Tribunal de origem nos termos do artigo 593, III, d, do CPP, somente é possível quando tenha sido aquele manifestamente contrário às provas dos autos. E decisão manifestamente contrária às provas dos autos é aquela que não encontra amparo nas provas produzidas, destoando, desse modo, inquestionavelmente, de todo o acervo probatório. Havendo duas versões a respeito do fato, ambas amparadas pelo conjunto probatório produzido nos autos, deve ser preservada a decisão dos jurados, em respeito ao princípio constitucional da soberania dos veredictos" (HC n. 538.702/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 7/11/2019, DJe 22/11/2019).
+2. No caso, as qualificadoras do motivo fútil e da dissimulação foram reconhecidas pelo Conselho de sentença com esteio nas versões apresentadas no Tribunal do Júri.
+3. Com relação à motivação fútil, o Tribunal de origem consignou que "a tese acolhida pelos jurados foi a da acusação, firme no fato de que há evidente desproporção da atitude do réu que jamais poderia ter adentrado na residência da vítima, querendo se vingar, matando-a, o que qualifica a sua atitude". E, no tocante à dissimulação, destacou que "houve sim dissimulação do réu que fez parecer que se tratava de uma conversa e estava com arma escondida dentro do casaco (este ponto é admitido pelo réu em seu interrogatório) e, na oportunidade correta, sacou a arma e atirou". Assim, ausente qualquer ilegalidade no reconhecimento das qualificadoras.
+4. Ordem denegada.
+Alega o embargante a ocorrência de contradição, destacando que, "no presente caso, recusou-se revalorar a prova conforme o fez na decisão acima mencionada, a qual versa sobre situação análoga à presente, sendo que bastava a leitura da denúncia, da decisão de pronúncia e da decisão confirmatória da pronúncia, para se deparar com o absurdo que é a manutenção das qualificadoras irrogadas" (e-STJ fl. 256).
+Argumenta que "a própria acusação afasta a torpeza da agressão, uma vez que a defesa de um familiar que já havia sido vítima de duas outras tentativas de homicídio por Flávio Gil Zanon, inclusive tendo sido jogado de uma escada, ocasião em que quebrou o braço, e outra vez que apanhou tanto que ficou com a face desfigurada, NÃO PODE SER INTEPRETADO COMO IGNÓBIL, REPUGNANTE, VIL" (e-STJ fl. 256).
+Destaca que "não há necessidade de mergulho na prova dos autos. Basta revalorar o que já existe na inicial acusatória e nas decisões posteriores, da mesma forma que esta Colenda Sexta Turma apreciou em casos análogos" (e-STJ 259).
+Requer, assim, o acolhimento dos embargos, para que seja reconhecida a contradição.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Os embargos de declaração, nos termos do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, que não se fazem presentes no caso em análise.
+Essa é a vocação legal do recurso, sempre enfatizada nos precedentes desta Corte, como se depreende do aresto a seguir:
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO.  ..  ART. 619 DO CPP. AMBIGUIDADE, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração são cabíveis nas hipóteses de haver ambigüidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal).
+2. No caso, percebe-se claramente a oposição do recurso tão somente para rediscutir o mérito do que fora decidido. Sob o pretexto da alegação de omissão ou inexatidão, pretende o embargante apenas renovar a discussão com os mesmos argumentos com os quais a Corte Especial do Superior Tribunal de Justiça não concordou.
+ ..
+5. As Cortes Superiores já pacificaram que os efeitos infringentes nos embargos de declaração dependem da premissa de que haja algum dos vícios a serem sanados (omissão, contradição ou obscuridade) e, por decorrência, a conclusão deve se dar no sentido oposto ao que inicialmente proferido. Precedentes.
+6. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+7. Embargos de declaração rejeitados.
+(EDcl na APn n. 613/SP, relator Ministro OG FERNANDES, CORTE ESPECIAL, DJe 3/2/2016.)
+No presente caso, ao contrário do alegado pelo embargante, o habeas corpus não foi denegado pela necessidade de revolvimento fático-probatório. Entendeu-se que "não havia ilegalidade no reconhecimento das qualificadoras, destacando que "a tese acolhida pelos jurados foi a da acusação, firme no fato de que há evidente desproporção da atitude do réu que jamais poderia ter adentrado na residência da vítima, querendo se vingar, matando-a, o que qualifica a sua atitude", além de mencionar, com relação à dissimulação, que "a vítima permitiu que o réu entrasse na sua residência, obviamente não esperando que fosse levar um tiro. Houve ,sim, dissimulação do réu, que fez parecer que se tratava de uma conversa e estava com arma escondida dentro do casaco (este ponto é admitido pelo réu em seu interrogatório) e, na oportunidade correta, sacou a arma e atirou"" (e-STJ fl. 248).
+Concluiu-se, assim, que "a decisão dos jurados encontra amparo nas provas produzidas ao longo da instrução processual. Observa-se que o Conselho de sentença acolheu uma das teses apresentadas durante o julgamento, o que não caracteriza a decisão contrária à prova dos autos" (e-STJ fl. 248).
+Ausente, portanto, qualquer contradição arguida.
+De mais a mais, destaco que "a contradição impugnável por meio dos embargos de declaração é aquela interna ao julgado, que demonstra incoerência entre as premissas e a conclusão da decisão, e não a existente entre o julgado impugnado e parâmetro externo" (EDcl no AgRg no RMS n. 67.803/SC, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 29/3/2022, DJe de 31/3/2022).
+Inexiste, portanto, omissão ou contradição a ser sanada. Pretende-se apenas a rediscussão da matéria, visando alterar a conclusão que resultou desfavorável, o que é incabível na via eleita.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
