@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+PLÁCIDO PEREIRA BLUME JÚNIOR e outros (PLÁCIDO e outros) ajuizaram ação de obrigação de fazer contra LEONARDO VICENTE CUÓFANO e outros (LEONARDO e outros), objetivando que os réus sejam compelidos a desocuparem e desobstruírem as áreas comuns do edifício, removendo seus objetos particulares, inclusive porta de rolar instalada na garagem e o muro erguido na lateral do condomínio, e que se abstenham de utilizar o jardim como vaga de garagem e de ingressarem com ação de usucapião.
+O Magistrado de 1º Grau julgou parcialmente procedente o pedido para condenar os réus LEONARDO e TALYTA a (1) absterem-se de ocupar a área de despejo localizada no subsolo, desobstruindo-a e deixando-a livre de pessoas e coisas, bem como reconstituindo as formas originais no prazo de 90 dias contados do trânsito em julgado; (2) desobstruir o box de garagem confinante com a unidade 188, removendo a porta frontal ali instalada no prazo de 90 dias contados do trânsito em julgado; e condenar a ré MARIA a demolir o muro lateral erigido no recuo frontal do edifício, no prazo de 90 dias contados do trânsito em julgado. Em razão da sucumbência recíproca, condenou cada polo a arcar com metade das custas e despesas processuais. PLÁCIDO e outros foram condenados ao pagamento de honorários advocatícios do representante dos réus, e os réus arcarão com os honorários do advogado representante dos autores, fixando-se a verba honorária em R$ 3.000,00 para o advogado de cada polo (e-STJ, fls. 405/413).
+Ambas as partes apelaram.
+O Tribunal de Justiça de São Paulo deu parcial provimento ao apelo de PLÁCIDO e outros e negaram provimento ao recurso de LEONARDO e outros, em acórdão da relatoria do Des. AIRTON PINHEIRO DE CASTRO assim ementado:
+APELAÇÃO. CONDOMÍNIO EDILÍCIO. OBRIGAÇÃO DE FAZER. APROPRIAÇÃO DE ÁREAS COMUNS AO CONDOMÍNIO. Sentença de parcial procedência. Insurgência do autor ao argumento de que todas as áreas ocupadas pelos réus são comuns, devendo ser desocupadas e obstado o direto de ação aos réus de eventualmente ajuizarem ação de usucapião. Réus que se insurgem alegando que as áreas foram ocupadas de longa data e por acordo com antigos proprietários. Acordo entre os proprietários que não derroga a Convenção do Condomínio acerca do uso e posse das áreas comuns. Posse de áreas comuns incontroversa. Obrigação dos réus de desocupação e demolição de obras bem delineada pela r. sentença. Espaço denominado de "área de luz" que, malgrado integrado a uma das unidades autônomas de propriedade dos réus, o foi em desvirtuamento de sua natureza de área comum. Procedência da pretensão deduzida a ser estendida à "área de luz". Impossibilidade de condenação consistente em tolher o direito de ação da parte. Hipótese de sucumbência mínima dos autores a determinar a integral imputação dos ônus sucumbenciais aos réus. Sentença parcialmente reformada. Recurso dos réus desprovido, provido em parte o apelo dos autores (e-STJ, fl. 512).
+Os embargos de declaração opostos por LEONARDO e outros foram rejeitados (e-STJ, fls. 527/530).
+LEONARDO e outros, então, manejaram recurso especial calcado no art. 105, III, a, da CF, alegando ofensa ao art. 86 do NCPC (e-STJ, fls. 533/538).
+O recurso foi inadmitido pelo TJSP por não ter sido demonstrada a ofensa ao dispositivo legal indicado e pela incidência da Súmula nº 7 do STJ (e-STJ, fls. 553/554).
+Seguiu-se o agravo em recurso especial que, em decisão monocrática da relatoria do Ministro Presidente do STJ, não foi conhecido, com amparo no art. 21-E, V, c/c o art. 253, parágrafo único, I, do RISTJ, porque não foram atacados todos os fundamentos da decisão agravada (e-STJ, fls. 575/577).
+Irresignados, LEONARDO e outrosmanejaram agravo interno, que não foi provido pela Terceira Turma desta Corte, nos termos do acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA A TODOS OS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-seo NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 do STJ).
+3. Agravo interno não provido(e-STJ, fl. 604).
+Nas razões dos presentes embargos de declaração, LEONARDO e outros alegaram omissão no julgado acerca da alegação de que, desde o recurso especial, sustentaram a não aplicação da Súmula nº 7 do STJ, bem como que apontaram que foram cumpridos todos os requisitos de admissibilidade do recurso especial, com a demonstração da afronta ao dispositivo de lei federal e do cotejo analítico de forma pormenorizada.
+Houve impugnação ao recurso (e-STJ, fls. 622/624).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que negou provimento ao agravo interno.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+A propósito, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016)
+Há que se destacar que o acórdão embargado não foi obscuro, omisso, contraditório e tampouco apresentou erro material, tendo concluído que o agravo em recurso especial não impugnou, especificamente, o óbice da Súmula nº 7 do STJ, razão pela qual não poderia ele ser conhecido.
+Por relevante, transcreve-se o seguinte trecho do voto proferido no julgamento do agravo interno:
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Da análise do presente inconformismo se verifica que, conforme consignado na decisão impugnada, o agravo em recurso especial não se dirigiu especificamente contra todos os fundamentos da decisão que negou seguimento ao apelo nobre, pois LEONARDO e outros, na ocasião, não refutaram, de forma arrazoada, o óbice da Súmula nº 7 do STJ.
+E isso não fizeram porque, nas razões do seu agravo em recurso especial, alegaram ter demonstrado a clara infração ao art. 86 do NCPC, reiterando, no mais, as razões do recurso especial.
+Assim, não houve a demonstração do adequado enfrentamento do fundamento da decisão agravada no que tange a incidência da Súmula nº 7 do STJ.
+Cumpre registrar que, na hipótese em que se pretende impugnar, em agravo no recurso especial, a incidência da Súmula nº 7 do STJ, deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Desse modo, observa-se que o agravo em recurso especial não impugnou adequadamente o óbice anteriormente mencionado, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Por isso, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (544, § 4º, I, do CPC/1973), devendo ser mantida a decisão agravada.
+ ..
+Assim, como LEONARDO e outros não demonstraram o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial, já que não é admissível a impugnação de seus fundamentos somente no âmbito do agravo interno, em virtude da preclusão(e-STJ, fls. 1.202/1.206).
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração.
