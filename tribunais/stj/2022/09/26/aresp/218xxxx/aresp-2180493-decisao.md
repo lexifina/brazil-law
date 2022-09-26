@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo, interposto com fundamento no art. 1.042, §2º do Código de Processo Civil contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 528):
+Ação de usucapião constitucional. Ausência de preenchimento dos requisitos. Posse precária. Atos de mera permissão e tolerância. Em se tratando de usucapião especial urbana, prevista no artigo 183 da Constituição Federal, devem ser atendidos, concomitantemente os requisitos da posse, pacífica e Ininterrupta sobre o imóvel usucapiendo, com animo de dono, por cinco anos, para fins de moradia própria ou de sua família, desde que não seja proprietário de outro bem. Ausente, na hipótese, posse com animus domini, uma vez que os autores tinham ciência de que o terreno onde moravam pertence ao Centro Espírita Amor Divino e decorria de comodato firmado com a finada Nair Gandriann, concluindo-se que sua posse resultava de atos de mera tolerância e permissão, não autorizando aquisição do domínio. Aplicação do disposto no artigo 252 do Regimento Interno do Tribunal de Justiça.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 551/555).
+Em razões de recurso especial (e-STJ, fls.), com fundamento no art. 105, III, "a", da Constituição Federal, a parte agravante alega violação ao art. 1.240 do Código Civil.
+Contrarrazões apresentadas (e-STJ, fl. 598)
+O Tribunal de origem não admitiu o recurso especial (e-STJ, fls. 599/602), tendo em vista que a alegação de ofensa aos dispositivos violados esbarraria na fundamentação suficiente do acórdão recorrido, na vedação de reexame de provas (Súmula 7/STJ) e na exigência de demonstração analítica da divergência jurisprudencial.
+Nas razões do agravo em recurso especial (e-STJ, fls. 608/626), reitera o argumento de que haveria violação ao art. 1.240 do Código Civil e pugna pela superação dos óbices.
+Assim delimitada a controvérsia, passo a decidir
+No caso dos autos, observo que o Tribunal local, com base nos fatos, provas e conteúdo contratual dos autos, concluiu pela inexistência de "animus domini" da parte recorrente sobre a posse do bem cuja usucapião pretende, conforme se depreende dos seguintes excertos (e-STJ, fls. 537/538):
+Em que pese às alegações dos apelantes reputo correta a improcedência do pedido de usucapião, especialmente, à luz das provas documentais acostadas aos autos, indicativa de que a posse por eles exercida decorria de tolerância e permissão da proprietária do direito de propriedade, o que inviabiliza concluir pela presença de "animus domini".
+(..)
+Saliente-se que a prova pericial acostada às fls. 247/274 reforça que não houve abandono do proprietário registrai e, sim, mera tolerância, permitindo que os apelantes continuassem a residir no local, mesmo após a morte da 4 comodatária principal Nair Gardriann.
+Ao fazê-lo, o Tribunal local reiterou as conclusões do magistrado em primeiro grau, que considerou não haver "animus domini" na hipótese também com base nas provas produzidas, como se destaca do trecho (e-STJ, fls. 496): "Pelo contrário, segundo informações colhidas pela perícia, a vizinhança atesta que o imóvel não pertence aos autores, mas sim, ao requerido Núcleo Assistencial."
+Anoto, portanto, que a desconstituição da conclusão do acórdão recorrido, na forma pretendida, demandaria o reexame do acervo fático-probatório dos autos, procedimento que, em sede de especial, encontra óbice na Súmula 7/STJ.
+Nesse sentido, confira-se:
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. ART. 75, VII, do CPC. NULIDADE. LEGITIMIDADE. PREJUÍZO NÃO COMPROVADO. AUSÊNCIA DE COMBATE A ARGUMENTO SUFICIENTE PARA MANTER A CONCLUSÃO.
+ENUNCIADOS 283 e 284/STF. ART. 1203 do CC. CARÁTER PRECÁRIO DA POSSE. PRESSUPOSTO ADMITIDO PELA ORIGEM. REVISÃO. ENUNCIADO 7/STJ. INVIABILIDADE. INVERSÃO DO ÔNUS DA PROVA. CONTROVÉRSIA DECIDIDA COM BASE NA PROVA DIRETA. ARGUMENTO INSUFICIENTE. ENUNCIADOS 283 E 284/STF. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. OBSERVÂNCIA QUANTO A EVENTUAL ASSISTÊNCIA JUDICIÁRIA GRATUITA. VÍCIO SUPRIDO. AGRAVO INTERNO PROVIDO EM PARTE.
+1. 1. O argumento desenvolvido pelos recorrentes, no sentido de que o depoimento pessoal da parte seria mais efetivo, por forçar a confissão da parte adversária, não infirma a tese de que o efeito vislumbrado poderia ser conseguido também como informante, tal como pressuposto na origem A ausência de combate a argumento suficiente para manter a conclusão do acórdão recorrido atrai o óbice dos enunciados 283 e 284/STF.
+2. No caso, o Tribunal de origem concluiu pela posse precária e sem animus domini sobre o bem usucapiendo. Tais conclusões não se desfazem sem o reexame de provas, o que é vedado ante a incidência da Súmula n. 7 do Superior Tribunal de Justiça.
+3. O equívoco quanto à suposta distribuição do ônus da prova é incompatível com o pressuposto adotado pela Corte local, que resolveu a controvérsia com base no exame direto da prova.
+Incidência dos enunciados 283 e 284/STF.
+4. A majoração dos honorários recursais, nos termos do § 11 do art. 85 do CPC, foi efetuada sem menção a eventual benefício de assistência gratuita na origem, o que deve ser retificado, considerada a repercussão do benefício na exigibilidade do direito, a teor do que previsto no art. 98, § 3º, do CPC.
+5. Agravo interno provido em parte.
+(AgInt no REsp n. 1.871.863/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/6/2021, DJe de 21/6/2021.) (grifou-se).
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
