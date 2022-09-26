@@ -1,0 +1,76 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por FAZENDA NACIONAL, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, publicado na vigência do CPC/73 e que se encontraassim ementado:
+"TRIBUTARIO. PPE - PARCELA DE PREÇO ESPECIFICA. PORTARIA 56/2000, ART. 8º, § 1º - ANP. DISTRIBUIDORAS. REPETIÇÃO. COMPENSAÇÃO. LEGITIMIDADE.
+1 - A Apelante, na condição de contribuinte de fato, eis que substituída pelas refinarias apenas no tocante ao repasse das quantias arrecadadas aos cofres públicos, tem legitimidade ad causam para promover a presente ação.
+2 - Recurso parcialmente provido. Sentença anulada" (fl. 819e).
+O acórdão em questão foi objeto de Embargos Infringentes (fls. 836/840e). Porém, o Tribunal de origem manteve o indeferimento liminar de tais Embargos Infringentes, por considerá-los incabíveis, mediante acórdão assim ementado:
+"PROCESSUAL CIVIL - EMBARGOS DE DECLARAÇÃO RECEBIDO COMO AGRAVO INTERNO - PRINCÍPIO DA FUNGIBILIDADE - EMBARGOS INFRINGENTES - NÃO CABIMENTO - ACÓRDÃO ANULA SENTENÇA E DETERMIINA OUTRO JULGAMENTO.
+1) Em atenção ao princípio da fungibilidade, os embargos de declaração da União devem ser recebidos como Agravo Interno.
+2) Os embargos infringentes, consoante a novel redação do art. 530 do CPC, dada pela Lei 10.352/2001, são cabíveis quando o acórdão não unânime, houver reformado, em grau de apelação, a sentença de mérito, ou, houver julgado procedente ação rescisória.
+3) O Voto condutor do Acórdão embargado restou bem claro no sentido de dar parcial provimento ao recurso de apelação para anular a sentença e determinar a remessa dos autos ao Juízo a quo para prosseguimento do feito com exame do mérito.
+4) Agravo interno não provido" (fl. 944e).
+No Recurso Especial a UNIÃO apontouviolação aos arts. 458, II, 530 e 535, II, do CPC/73 e 123 e 166 do CTN, sustentando a nulidade do acórdão recorrido, por ausência de fundamentação e omissão, bem como o cabimento dos Embargos Infringentes, e ainda, a ilegitimidade do varejista para promoveração de restituição de valores recolhidos a título de Parcela de Preço Específico - PPE, consoante as razões recursais a seguir:
+"VIOLAÇÃO DO ART. 535, INCISO II, E DO ART. 458, INCISO II, DO CPC
+Embora interpostos embargos declaratórios a omissão persistiu, no ponto em que faltante fundamentação, é dizer, no que pertine à motivação da decisão recorrida, para negar aplicação aos comandos legais referidos - como já adiantado, houve omissão quanto a fatos entregues ao conhecimento da Corte ex vi do recurso interposto.
+A egrégia Turma a quo, ao se recusar a enfrentar a questão em embargos aduzida, violou, além do art. 535, inciso II, também o art. 458, inciso II, do CPC, preceito enuncia o princípio da fundamentação das decisões judiciais, in verbis:
+(..)
+Inquestionável portanto a omissão da decisão recorrida.
+Por esses fundamentos o acórdão merece ser anulado, restituindo-se os autos ao Tribunal de origem para efetiva entrega da prestação jurisdicional, via de novo julgamento dos embargos declaratórios, no qual reste fundamentada a decisão proferida, e especificamente enfrentadas as questões postas, inclusive e especialmente quanto aos pontos abaixo explicitados.
+VIOLAÇÃO DOS ARTIGOS 123 E 166 DO CTN
+O v. acórdão manteve a decisão que reconheceu a legitimidade de varejista para promover a ação de restituição de parcela de preço específico.
+Ocorre, todavia, que ao assim decidir a Col. Turma, data venia, incorreu em violação aos referidos artigos, conforme se passa a demonstrar.
+A lide versa sobre a restituição ou compensação de valores supostamente recolhidos a título de Parcela de Preço Específica - PPE, quando da aquisição de combustível das refinarias de petróleo.
+Com efeito, ainda que se considere a PPE um tributo, não pode ela ser questionada por terceiros que, se suportam o ônus, fizeram-no não por força legal, mas por razoes outras.
+De acordo com os arts. 1º, 2º, I e III e 3º da Portaria da ANP 119/2001, a obrigação de recolhimento da PPE cabia às Centrais de Matéria-Prima Petroquímica (CPQ) - unidade de processamento do condensado.
+Sendo a autora empresa exercente de atividade de comércio varejista de derivados de refino e petróleo e combustíveis diversos, não possui legitimidade para requerer compensação de ônus que não foi suportado por ela.
+Somente entre as Centrais de Matéria-Prima Petroquímica (CPQ) e a refinaria há repercussão jurídica (art. 166 do CTN) da operação e recolhimento da verba; jamais em relação ao comércio varejista e aos consumidores finais, para os quais há que se falar em mera repercussão financeira, ou melhor, em mero interesse econômico.
+A repercussão financeira embutida no custo do produto ou serviço, se não prevista em lei, é fenômeno meramente econômico, não-jurídico, que não interfere na relação do fisco com o contribuinte de direito. A legitimidade ad causam no processo judicial tributário, consoante orientação jurisprudencial, está adstrita aos sujeitos envolvidos na relação material tributária, pouco importando que haja responsabilidade ou interesse econômico de terceiro, ainda que decorrente de contrato, o que, aliás, encontra-se expressamente previsto no art. 123 do CTN. Em suma: a repercussão jurídica somente advém de lei expressa.
+Nesse sentido a jurisprudência dos Tribunais:
+(..)
+Sendo assim, não é demasia salientar que a interpretação dos dispositivos infraconstitucionais ventilados só será consentânea com a Lei Maior se resultar no reconhecimento da ilegitimidade ativa ad causam do autor. Exegese diversa - com todas as vênias, a par de equivocada - se daria em tentativa ou esforço de interpretação conforme a Constituição - quiçá ao argumento de prestígio dos valores decorrentes do art. 146, inciso III, alínea b, da CF. Ora, a interpretação conforme não prescinde da observância do art. 97 da CF - assim, eventual desacordo com a tese ora propugnada demandaria prévia observância, por essa e. Corte, da Cláusula de Reserva de Plenário. Sobre tal aspecto - assim como os demais referidos supra - a União requer expressa manifestação desse r. Órgão Colegiado.
+VIOLAÇÃO DO ARTIGO 530 DO CPC
+Evidente, da leitura dos autos, que a matéria objeto da divergência é absolutamente coincidente com aquela atacada pela via dos embargos infringentes. Basta a leitura da arrazoado para chegar a tal conclusão.
+Com efeito, ao discutir e decidir sobre a RESTITUIÇÃO DE PARCELA DE PREÇO ESPECÍFICO/PPE, ILEGITIMIDADE ATIVA, o decisum firma interpretação e delineia decisivamente a relação jurídico-tributária impositiva, sobre a sujeição passiva nesta, afastando o art. 123 do CTN, motivo pelo qual labora, a toda evidência, no meritum causae, em que pese, talvez, aparentar (apenas aparentar) o contrário, ex vi da referência a invalidade da sentença.
+Assim, com a devida vênia, equivocada decisão que afaste o cabimento dos embargos infringentes, pois violadora do art. 530 do CPC, posto que sua atual redação admite expressamente tal recurso contra decisão reformadora que adentra no mérito, motivo pelo qual pugna a União pelo conhecimento do recurso.
+Não é demasia salientar que a interpretação do dispositivo infraconstitucional ventilado só será consentânea com a Lei Maior se resultar no reconhecimento do cabimento dos embargos infringente). Exegese diversa - com todas as vênias, a par de equivocada - se daria em tentativa ou esforço de interpretação conforme a Constituição - quiçá ao argumento de prestigio dos valores decorrentes do art. 5º inciso LIV da CF. Ora, a interpretação conforme não prescinde da observância do art. 97 da CF - assim, eventual desacordo com a tese ora propugnada demandaria prévia observância, por essa e. Corte, da Cláusula de Reserva de Plenário. Sobre tal aspecto - assim como os demais referidos supra - a União requer expressa manifestação desse r. Órgão Colegiado"(fls. 966/970e).
+Ao final, requereuseja conhecido e provido o Recurso Especial, "para que seja declarada a nulidade do acórdão prolatado pela egrégia Turma Especializada do Tribunal Regional Federal da 2ª Região, com o retorno dos autos àquela instância, para que o preclaro Colegiado que o proferiu venha a externar os motivos da sua decisão, assim superando a violação aos dispositivos do CPC mencionados, ou, se indeferido tal pleito, seja reformada a decisão recorrida, de modo a adequá-la aos parâmetros dos artigos 123 e 166 do CTN e artigo 530 do CPC, e assim, conhecendo e provendo os embargos infringentes da União, reformar o decisum do Tribunal inferior e, por conseguinte, restabelecer a sentença do Juízo de piso"(fls. 971e).
+Contrarrazões apresentadas (fls. 994/1.002e).
+O Recurso Especial foi admitido na origem (fls. 1.004/1.005e).
+A irresignação não merece conhecimento.
+Na origem, trata-se de Ação de Repetição de Indébito,ajuizadapela parte ora recorrida, visando a restituição, em espécie e/ou por compensação, de valores cobrados a título de Parcela de Preço Específico - PPE.
+Julgado extinto o processo, sem resolução do mérito, por ilegitimidade ativa ad causam, recorreu aparte autora, tendo sido anulada a sentença, pelo Tribunal de origem, mediante acórdão não unânime.
+Opostos Embargos Infringentes, como antes anotado,o Tribunal de origem manteve o indeferimento liminar de tais Embargos Infringentes, por considerá-los incabíveis.
+Daí a interposição do presente Recurso Especial, que, no entanto, não deve ser conhecido, por intempestividade.
+Com efeito, consoante assentado pela Corte Especial do STJ, "éconsolidada a jurisprudência no sentido de inexistir interrupção de prazo quando declarados incabíveis osembargos infringentes" (STJ, AgInt nos EAREsp 921.483/SP, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, DJe de 03/05/2017).
+No mesmo sentido:
+"PROCESSUAL CIVIL. EMBARGOS INFRINGENTES. CPC/1973. HIPÓTESE. NÃO CABIMENTO. CAPÍTULO DA SENTENÇA MANTIDO PELO ACÓRDÃO MAJORITÁRIO DA APELAÇÃO. INTERRUPÇÃO DO PRAZO RECURSAL. INOCORRÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+2. A admissibilidade dos embargos infringentes então disciplinados pelo art. 530 do CPC/1973 estava condicionada à reforma da sentença de mérito, por maioria de votos, em relação ao capítulo impugnado. Precedentes.
+3. A conformidade do acórdão recorrido com a jurisprudência desta Corte Superior enseja a aplicação do óbice de conhecimento estampado na Súmula 83 do STJ.
+4. Hipótese em que a impugnação contida nos embargos infringentes refere-se à parte não unânime do acórdão da apelação que manteve a sentença, o que evidencia a flagrante inadmissibilidade do recurso.
+5. A interposição de embargos infringentes manifestamente incabíveis não interrompe o prazo recursal, de modo que deve ser reconhecida a intempestividade do recurso especial em apreço.
+6. Agravo interno não provido" (STJ, AgInt no AREsp 653.112/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 09/04/2019).
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. EMBARGOS INFRINGENTES INCABÍVEIS. NÃO INTERRUPÇÃO DO PRAZO. RECURSO ESPECIAL INTEMPESTIVO. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF.
+1. A jurisprudência desta Corte é uníssona no sentido de que a interposição de embargos infringentes incabíveis não tem o condão de suspender ou interromper o prazo para interposição do recurso especial.
+(..)
+3. Agravo regimental não provido" (STJ, AgRg no AREsp 648.216/MT, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 18/05/2015).
+"PROCESSUAL CIVIL. EMBARGOS INFRINGENTES. DESCABIMENTO. RECURSO ESPECIAL. INTEMPESTIVIDADE.
+1. O Tribunal de origem considerou manifestamente incabíveis os Embargos Infringentes, porque o embargante estaria a defender o voto minoritário, o qual, no caso concreto, se prevalecesse, implicaria julgamento integralmente desfavorável a si.
+2. Em outras palavras, há ausência de interesse processual para a parte interpor Embargos Infringentes visando ao julgamento de improcedência de pedido por ela deduzido na demanda originária.
+3. De acordo com a jurisprudência do STJ, sendo manifestamente incabíveis os Embargos Infringentes, não há sobrestamento do prazo para interposição de Recurso Especial.
+4. Agravo Regimental não provido" (STJ, AgRg no AREsp 602.144/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/03/2015).
+"TRIBUTÁRIO. AGRAVO REGIMENTAL. RECURSO ESPECIAL INTEMPESTIVO. JULGAMENTO DE REEXAME NECESSÁRIO. PROTOCOLO DE EMBARGOS INFRINGENTES. RECURSO MANIFESTAMENTE INCABÍVEL. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO DO APELO RARO.
+1. "Nas decisões por maioria, em reexame necessário, não se admitem embargos infringentes." (Súmula 390/STJ)
+2. A interposição de recurso manifestamente incabível não interrompe o prazo para o manejo do recurso especial.
+3. Agravo regimental não provido" (STJ, AgRg no REsp 1.402.804/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/03/2014).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. JULGAMENTO DE REEXAME NECESSÁRIO. EMBARGOS INFRINGENTES MANIFESTAMENTE INCABÍVEIS. AUSÊNCIA DE INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO RECURSO ESPECIAL.
+(..)
+2. A interposição de recurso manifestamente incabível não interrompe o prazo para o manejo do recurso especial.
+3. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.396.078/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/11/2014).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.EMBARGOS INFRINGENTESCONSIDERADOS INCABÍVEIS, PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE SOBRESTAMENTO DO PRAZO, PARA INTERPOSIÇÃO DE RECURSO ESPECIAL.INTEMPESTIVIDADE.PRECEDENTES DO STJ. AGRAVO REGIMENTAL IMPROVIDO
+I. A jurisprudência desta Corte encontra-se consolidada no sentido de que osEmbargos Infringentes,considerados incabíveis, nãointerrompemnemsuspendemo prazo para interposição do Recurso Especial. Nesse sentido, os seguintes precedentes: STJ, AgRg no AREsp 602.144/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/03/2015; AgRg no REsp 1.402.804/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/03/2014; AgRg no REsp 1.396.078/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 20/11/2014.
+II. Agravo Regimental improvido" (STJ, AgRg no AREsp 724.720/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA,DJe de 19/10/2015).
+Nos termos do art. 530 do CPC/73, vigente à época da prolação do acórdão da Apelação, "cabem embargos infringentes quando o acórdão não unânime houver reformado, em grau de apelação, a sentença de mérito, ou houver julgado procedente ação rescisória. Se o desacordo for parcial, os embargos serão restritos à matéria objeto da divergência".
+Na hipótese em exame, não há se falar em cabimento de Embargos Infringentes, uma vez que o Tribunal, ao julgar a Apelação, anulou a sentença de extinção do processo, sem resolução do mérito, ainda que por maioria. Logo, considerando a interposição de Embargos Infringentes incabíveis, impõe-se o reconhecimento da intempestividade do Recurso Especial.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
