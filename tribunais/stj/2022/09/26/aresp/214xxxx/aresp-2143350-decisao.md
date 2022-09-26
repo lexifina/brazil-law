@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por FLÁVIO LÚCIO RIBEIRO DE SÁ contra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (fl. 906):
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL COM REINTEGRAÇÃO DE POSSE. CESSÃO DE DIREITOS POSSESSÓRIOS. POSSIBILIDADE. MULTA CONTRATUAL. REDUÇÃO. RAZOABILIDADE E PROPORCIONALIDADE. REINTEGRAÇÃO DE POSSE. RETORNO AO STATUS QUO ANTE. LITIGÂNCIA DE MÁ-FÉ. NÃO CONFIGURAÇÃO. SUCUMBÊNCIA MÍNIMA.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça e deste Sodalício Goiano, dada a autonomia existente entre o direito de propriedade e o direito possessório, a existência de expressão econômica do direito possessório, torna-se plenamente possível que seja realizado negócio jurídico que tenha por objeto os direitos possessórios exercidos sobre bem imóvel. Dessa forma, não que se falar em impossibilidade do objeto contratual na situação sub examine.
+2. À medida do grau de interesse das partes em comprovar seus fundamentos fáticos, o Código de Processo Civil dividiu o ônus probatório: toca ao autor o ônus de provar o fato constitutivo de seu direito; ao réu, os fatos impeditivos, modificativos e extintivos.
+3. In casu, há efetiva comprovação de que os autores/apelantes transferiram a posse do bem imóvel ao réu/apelado, ao passo em que este não cumpriu com a contraprestação pecuniária estabelecido no contrato, o que demonstra que a rescisão contratual se deu por culpa do réu/apelado, e a ele deve ser estabelecida a responsabilidade pelo pagamento da multa contratual.
+4. A rescisão contratual efetivada nos autos impõe o retorno ao status quo ante, sendo de rigor o deferimento do pedido de reintegração dos autores/apelantes na posse do bem objeto da demanda.
+5. Afigura-se como razoável a redução da multa contratual para 10% (dez por cento) do valor do contrato, porquanto tal percentual guarda observância aos princípios da proporcionalidade e da razoabilidade.
+6. Não configuradas as hipóteses legais, não há que se falar na condenação por litigância de má-fé.
+7. Havendo inequívoca sucumbência mínima da parte apelante após a reforma da sentença no julgamento do apelo, deve ser invertida a responsabilidade pelo pagamento dos ônus sucumbenciais.
+8. APELAÇÃO CÍVEL CONHECIDA E PARCIALMENTE PROVIDA
+Nas razões do recurso especial, orecorrenteaponta, a par de dissídio jurisprudencial, aviolação dos arts. 408, 422, 476, 1.245, § 1º, todosdo Código Civil; sustentando a justa causa para a suspensão dos pagamentos e a culpa exclusiva dos recorridos na resilição do contrato, uma vez que nãoconstavam como proprietários do imóvel.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude da falta de prequestionamento e do óbice da Súmula 7 do STJ.
+Neste agravo, o agravante impugna os fundamentos adotados pelo decisão agravada.
+Assim delimitada a controvérsia e ultrapassado o limite do conhecimento e provimento do presente agravo, passo ao julgamento do recurso especial.
+No caso dos autos, o Tribunal de origem consignou (i) ocontrato firmado entre as partes tratou sobre direitos possessórios exercidos sobre o imóvel; (ii) hácláusula contratual mencionando expressamente a existência de ação de usucapião que tem por objeto o imóvel ora discutido; (iii)a posse foi transmitida ao recorrente e (iv)a conclusão cristalina é a de que o recorrente descumpriu as obrigações contratuais, tomando posse do bem imóvel objeto da avença, sem promover a contraprestação pecuniária estabelecida. Confira-se:
+Assim, cumpre analisar a relação contratual firmada entre as partes litigantes a fim de delimitar o objeto da avença e, desde já, ressalto ser inequívoco que o contrato firmado entre ELIAS JACOB CURY e MARTHA MACHADO GONÇALVES CURY e FLÁVIO LÚCIO RIBEIRO SÁ tratou sobre direitos possessórios exercidos sobre o imóvel:
+Transcrevo, oportunamente, cláusulas contratuais das quais extrai-se tal conclusão:
+Cláusula 6ª. A entrega do imóvel ao Comprador se dará na data de 02/02/2015, com uma tolerância de mais 30 (trinta) dias. A escritura de posse do imóvel é deferida ao comprador a partir do pagamento da última parcela, ou seja, 01/05/2017.
+(..)
+Cláusula 10ª. Fica a cargo do vendedor o pagamento dos honorários advocatícios relativo ao processo de Usucapião do imóvel rural objeto deste contrato (..).
+É oportuno salientar que a argumentação expendida pelo recorrido de que a expressão "legítimo senhor" expressa que os autores/apelantes seriam proprietários do bem imóvel não merece prosperar.
+A uma, porque são expressões diversas que possuem sentidos diversos e, sobremaneira, não se confundem.
+A duas, porque a propriedade de bem imóvel é comprovada tão somente com a certidão de matrícula do bem, e não com cláusula contratual.
+Ademais, in casu, o contrato trata sobre direitos possessórios, conforme já salientado, de forma que a interpretação defendida pelo recorrido não encontra respaldo na situação fática ou nas cláusulas da avença firmada.
+Essa conclusão se evidencia ainda mais quando se nota que, na cláusula 10ª acima transcrita, menciona-se expressamente a existência de ação de usucapião que tem por objeto o imóvel ora discutido.
+Assim, considerando a possibilidade de expressão econômica dos direitos possessórios, bem como de que eles sejam objeto de cessão onerosa, não há que se falar da impossibilidade do objeto contratual, sendo plenamente legítimo o negócio jurídico estabelecido.
+Há que se analisar, portanto, se a posse foi transmitida ao réu/apelado FLÁVIO LÚCIO RIBEIRO SÁ e deve-se salientar que o lastro probatório colhido nos autos demonstra que, de fato, houve a referida transmissão.
+ ..
+Na situação sub examine, concluo que a prova testemunhal colhida em audiência demonstra que houve a efetiva transmissão da posse dos autores ao réu, de forma que não há que se falar em mora contratual dos autores ou na possibilidade de acolhimento da exceção do contrato não cumprido. Nesse sentido:
+ ..
+Nesse ponto, tenho por bem salientar que, em audiência a testemunha Domingos José de Brito declarou expressamente que a posse do bem imóvel foi transferida ao réu/apelado FLÁVIO LÚCIO RIBEIRO DE SÁ (a partir de 17min38s da gravação audiovisual no evento n 04).
+Por sua vez, a testemunha Paulo Rodrigues de Moura ressaltou que é comum na região a compra e venda de direitos possessórios, bem como que o réu/apelado FLÁVIO LÚCIO RIBEIRO DE SÁ é confrontante com o imóvel objeto da presente demanda. Ademais, a referida testemunha salientou que a posse do bem imóvel foi transferida ao réu/apelado (a partir de 28min50s da gravação audiovisual no evento nº 04). No mesmo sentido, afirmou Leonardo Gonçalves Cury (a partir de 42min53s da gravação audiovisual no evento n 04).
+É importante ressaltar que em sede contestatória, o réu/apelado FLÁVIO LÚCIO RIBEIRO DE SÁ não nega que a ele foi transmitida a posse do bem imóvel e, em sua contra notificação (evento nº 03, p. 230/235), manifesta seu interesse no retorno ao status quo ante.
+Dessa forma, a conclusão cristalina é a de que o réu/apelado FLÁVIO LÚCIO RIBEIRO DE SÁ descumpriu as obrigações contratuais, tomando posse do bem imóvel objeto da avença, sem promover a contraprestação pecuniária estabelecida. Assim, não há outro caminho senão a procedência do pedido de rescisão contratual, de condenação do réu/apelado nos consectários contratuais e, ainda, de retorno ao status quo ante, com a reintegração da posse do bem imóvel aos autores ELIAS JACOB CURY e MARTHA MACHADO GONÇALVES CURY, nos termos da jurisprudência desta Corte:  ..  (fls. 899/903 - sem grifos no original)
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo pela expressa negociação dos direitos possessórios e da transmissão da posse ao recorrente, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do contrato e do conjunto fático-probatório dos autos, providência que esbarra no óbice das Súmulas 5 e 7 do STJ.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REENTEGRAÇÃO DE POSSE - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDANTE.
+1. Não se constata a alegada violação ao artigo 489 do CPC/15, porquanto os argumentos expostos pela parte foram apreciados, com fundamentação clara, coerente e suficiente pelo órgão julgador.
+2. Incide, por analogia, o óbice da Súmula 284 do STF à hipótese em que o dispositivo de lei apontado como violado possui comando legal dissociado das razões recursais a ele relacionado, impossibilitando a compreensão da controvérsia.
+3. Nos termos do entendimento desta Corte, os recursos interpostos tanto pela alínea "a" quanto pela alínea "c", do permissivo constitucional exigem a indicação do dispositivo legal vulnerado ou ao qual foi atribuída interpretação divergente. Aplicação do óbice da Súmula 284/STF. Precedentes.
+4. Alterar as conclusões do Tribunal de origem quanto à validade do contrato que legitima a posse do agravado e ilegitimidade passiva exigiria nova incursão nas provas dos autos, o que encontra óbice na Súmula 7 do STJ.
+5. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211/STJ.
+6. Agravo interno desprovido.
+(AgInt no AgInt nos EDcl no AREsp n. 1.771.425/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/2/2022, DJe de 21/2/2022.)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
