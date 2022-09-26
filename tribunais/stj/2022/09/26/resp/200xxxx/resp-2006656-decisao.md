@@ -1,0 +1,104 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. ADIMPLEMENTO CONTRATUAL.ILEGITIMIDADE ATIVA AFASTADA. PRESCRIÇÃO V1NTENÁRIA APLICADA AO CASO. COMPROVAÇÃO DE FATO CONSTITUTIVO. LEGISLAÇÃO CONSUMERISTA. CRITÉRIO DE CONVERSÃO EM INDENIZAÇÃO. TERMO INICIAL DE JUROS DE MORA.CITAÇÃO. GRUPAMENTO DE AÇÕES. AGRAVO RETIDO CONHECIDO E PARCIALMENTE PROVIDO.RECURSO DE APELAÇÃO CONHECIDO E NÃO PROVIDO.
+Rejeitaram-se os embargos de declaração opostos a esse acórdão.
+Manifestando-se novamente sobre o critério a ser adotado para a conversão da obrigação (de subscrição complementar de ações) em perdas e danos (indenização), o colegiado originário proferiu acórdão assim ementado:
+DIREITO PROCESSUAL CIVIL. TELEFONIA. JUÍZO DE RETRATAÇÃO - CONVERSÃO DA OBRIGAÇÃO DE SUBSCREVER AÇÕES (E DIREITOS DAÍ DECORRENTES) EM PERDAS E DANOS - MULTIPLICAÇÃO DO NÚMERO DE AÇÕES DEVIDAS PELA COTAÇÃO DESTAS NO FECHAMENTO DO PREGÃO DA BOLSA DE VALORES NO DIA DO TRÂNSITO EM JULGADO DA CONDENAÇÃO - ACÓRDÃO PROFERIDO POR ESTA CORTE EM DISSONÂNCIA COM O ENTENDIMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA EM SEDE DE RECURSO REPETITIVO - RESP 1.301.989/RS - ADEQUAÇÃO DO JULGAMENTO ANTERIORMENTE REALIZADO. JUÍZO DE RETRATAÇÃO POSITIVO.
+A parte recorrente alega que o acórdão recorrido contrariou:
+a) o artigo 535 da Lei 5.869/1973 (Código de Processo Civil - CPCde 1973), porque os vícios apontados nos embargos de declaração não foram sanados;
+b) o artigo 100 da Lei 6.404/1976 (Lei das Sociedades por Ações - LSA), porque deixou de reconhecer a suficiência da radiografia do contrato de participação financeira;
+c) o artigo 100 da LSA e o artigo 267 do CPC de 1973, porque a parte autora não tem interesse em postular judicialmente a exibição de documentos, considerando-se que não comprovou que os requereu previamente na via administrativa;
+d) oartigo 267 do CPC de 1973, porque não reconheceu a ilegitimidade passiva; e
+e) o artigo 402 da Lei 10.406/2002 (Código Civil - CC), porque a apuração do valor da indenização deve tomar por base a cotação da ação na bolsa de valores (valor de mercado), praticada na data do trânsito em julgado do título condenatório.
+Aponta divergência jurisprudencial.
+Inicialmente, anoto que o Tribunal de origem, adotando a providência prevista no artigo 1.030 da Lei 13.105/2015 - Código de Processo Civil - CPC de 2015(juízo de retratação), determinou que a conversão da obrigação deve ser realizada com base no valor da ação, apurado na bolsa de valores, na data do trânsito em julgado da decisão condenatória. Desse modo, o recurso especial está prejudicado, no ponto.
+Avançando, esclareço que os embargos de declaração, ainda que opostos para prequestionamento de normas jurídicas, são cabíveis quando a decisão padece de omissão (em relação a ponto relevante, necessário, útil e efetivamente influente para o julgamento da causa), contradição, obscuridade ou erro material. É legítimo o manejo de embargos de declaração para suprir omissão de tema sobre o qual devia se pronunciar o julgador, o qual não está obrigado, entretanto, a enfrentar todos os argumentos das partes, mas deve, ao emitir juízo (com base em seu livre convencimento) acerca das questões que considerar suficientes e relevantes para fundamentar sua decisão, enfrentar os argumentos que, em tese, poderiam infirmar a conclusão adotada. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. INEXISTÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. DANO MORAL. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1226329/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/6/2018, DJe 29/6/2018)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015. REJEIÇÃO.
+1. De acordo com o previsto no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do acórdão atacado ou para corrigir erro material.
+2. Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do Novo CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+3. "Não configura omissão o simples fato de o julgador não se manifestar sobre todos os argumentos levantados pela parte, uma vez que está obrigado apenas a resolver a questão que lhe foi submetida com base no seu livre convencimento (art. 131, CPC)." (EDcl nos EDcl no Resp 637.836/DF, Rel. Ministro Felix Fischer, Quinta Turma, DJ 22/5/2006).
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1232995/PI, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/6/2018, DJe 26/6/2018)
+No caso, o acórdão recorrido não se ressente de falta de clareza, nem padece de obscuridade, tampouco apresenta erros materiais, lacunas ou contradições.
+Nos embargos de declaração foi alegada omissão quanto àilegitimidade passiva, àprescrição e aointeresse processual (de agir), matérias que a Corte de origem enfrentou expressamente. Veja-se:
+DA FALTA DE INTERESSE DE AGIR
+É entendimento consolidado neste Tribunal de justiça do Paraná, em especial na 7ª Câmara Cível, assim como no Egrégio Superior Tribunalde justiça, que afronta o artigo 5º, inciso XXXV da CF/88 a exigência de prévio esgotamento das instâncias administrativas para a busca da tutela de interesses perante o Judiciário.
+Neste ponto, importante mencionar que qualquer tentativa da parte autora de buscar obter a documentação extrajudicialmente, como carta enviada com aviso de recebimento ou qualquer outro tipo de protocolo, já demonstra interesse de agir.
+Ademais, ainda que não haja a negativa por parte da apelante para a apresentação dos documentos solicitados, há interesse de agir da parte apelada em razão da garantia assegurada de livre acesso ao judiciário, prevista na Constituição Federal.
+ ..
+Neste aspecto, aspecto, resta afastada a alegada falta de interesse de agir, assim como a aplicação da Súmula 389 do Superior Tribunal de Justiça, em virtude da posição jurisprudencial e por força da garantia assegurada na Constituição Federal de 1988.
+Destarte, dou parcial provimento ao agravo retido.
+ ..
+DA ILEGITIMIDADE PASSIVA DA BRASIL TELECOM S.A.
+Conforme já amplamente decidido pelo Superior Tribunal de Justiça, a simples circunstância de a apelante ter sucedido a TELEBRÁS importa em inequívoca assunção dos efeitos obrigacionais dos contratos por ela celebrados.
+ ..
+Assim, afasta-se qualquer eventual preliminar de ilegitimidade passiva da apelante.
+DA PRESCRIÇÃO
+A pretensão se trata de inadimplemento de obrigação contratual, pelo que não se pode acolher a aplicação da prescrição prevista no artigo 206, §3 2 , inciso V do Código Civil, porquanto já é entendimento pacificado no Superior Tribunal de justiça que é aplicável a regra geral de prescrição do Código Civil.
+ ..
+Deste modo, e seguindo as orientações jurisprudenciais, a prescrição aplicável ao caso é a regra geral prevista no Código Civil, qual seja, 20 (vinte) anos - Código Civil de 1916 ou 10 (dez) anos - Código Civil de 2002, contados da data da subscrição a menor das ações, conforme a aplicação da regra de transição constante no artigo 2028 do Código Civil.
+In casu, considerando que o contrato juntado traz a data da capitalização das ações em ocorrida em 30/06/1989, e considerando que a parte autora não permaneceu inerte no período, pois ajuizou em 2009 medida cautelar de exibição de documentos, antes de consumada a prescrição, não há que se falar em prescrição.
+ ..
+DA DOBRA ACIONÁRIA
+É entendimento consolidado no Superior Tribunal de Justiça a legitimidade da apelante quanto à dobra acionária, que apresentou o seguinte posicionamento em caso análogo:
+ ..
+O Protocolo de Cisão Parcial com Incorporação pela Telepar Celular S.A, aprovada em 30/01/1998, informa que:
+ ..
+Sendo este o caso, cumpre reconhecer o direito da parte apelada na participação da Telepar Celular S/A, fazendo jus ao mesmo número de ações que detinha na Telepar S/A.
+Como se nota, as matérias foram motivadamente enfrentadas pelo Tribunal de origem. Não me parece ter ocorrido, delineado esse quadro, ilegalidade na rejeição dos embargos de declaração.
+O Tribunal de origem manifestou-se de forma clara sobre as questões e os pontos a respeito dos quais devia emitir pronunciamento. Nenhum aspecto relevante para a solução da controvérsia deixou de ser examinado. A rejeição dos embargos de declaração, vale repetir, não representou, por si só, recusa de prestação da tutela jurisdicional adequada ao caso concreto, na medida em que a matéria ventilada em tais embargos foi devidamente enfrentada. Estão bem delimitadas, no acórdão recorrido, as premissas fáticas sobre as quais apoiada a convicção jurídica formada e foram feitos os esclarecimentos que, segundo os julgadores, pareceram necessários, tudo isso de modo fundamentado.
+Não há falar, portanto, em negativa de prestação jurisdicional, senão em discordância e insatisfação da parte récom o teor do julgamento.
+O acórdão recorrido apresenta fundamentos coerentes e ideias concatenadas. Não contém afirmações (premissas) que se rechaçam ou proposições inconciliáveis (incompatíveis). Existe, em suma, harmonia entre a motivação e a conclusão.
+Não constituem motivos para o reconhecimento de deficiência da prestação jurisdicional: (i) a recusa do julgador a enfrentar novamente matéria já decidida; (ii) a circunstância de o entendimento adotado no acórdão recorrido não ser o esperado/pretendido pela parte; (iii) a ausência de menção expressa às normas jurídicas suscitadas pela parte; (iv) e a falta de manifestação sobre aspectos que as partes consideram importantes (em geral, benéficos às suas teses), se na decisão houverem sido enfrentadas, ainda que mediante fundamentação concisa, as questões cuja resolução influencia a solução da causa; e (v) haver o julgador se negado a sanar contradição que não seja interna.
+A finalidade dos embargos de declaração não é obter a revisão da decisão judicial ou a rediscussão da matéria nela abordada, mas aperfeiçoar a prestação jurisdicional, a fim de que seja clara e completa. A finalidade da jurisdição, de sua vez, é alcançar a composição da lide, não discutir teses jurídicas nos moldes expostos pelas partes.
+Importante ressaltar que, "se os fundamentos do acórdão não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (Agravo Regimental no Agravo de Instrumento 56.745/SP, Relator Ministro Cesar Asfor Rocha, Primeira Turma, DJ 12/12/1994).
+Assim, não vejo razão para anular o julgado estadual.
+Prosseguindo, destaco que, para ser reconhecido ointeresse em pleitear exibição de documentos, deve a parteautora demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; e b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no artigo 100, § 1º, da Lei 6.404/1976. Nesse sentido:
+PROCESSUAL CIVIL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTO. RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. FORNECIMENTO DE DOCUMENTOS COM DADOS SOCIETÁRIOS. RECUSA. RECURSO À COMISSÃO DE VALORES MOBILIÁRIOS. LEI N. 6.404/1976, ART. 100, § 1º. AUSÊNCIA DO COMPROVANTE DE RECOLHIMENTO DA "TAXA DE SERVIÇO". RECURSO ESPECIAL REPETITIVO. LEI N. 11.672/2008. RESOLUÇÃO/STJ N. 8, DE 07.08.2008. APLICAÇÃO.
+I. Falta ao autor interesse de agir para a ação em que postula a obtenção de documentos com dados societários, se não logra demonstrar: a) haver apresentado requerimento formal à ré nesse sentido; b) o pagamento pelo custo do serviço respectivo, quando a empresa lhe exigir, legitimamente respaldada no art. 100, parágrafo, 1º da Lei 6.404/1976.
+II. Julgamento afetado à 2a. Seção com base no Procedimento da Lei n. 11.672/2008 e Resolução/STJ n. 8/2008 (Lei de Recursos Repetitivos).
+III. Recurso especial não conhecido.
+(REsp n. 982.133/RS, relator Ministro Aldir Passarinho Junior, Segunda Seção, julgado em 10/9/2008, DJe de 22/9/2008.)
+A propósito do assunto, a Súmula 389 do Superior Tribunal de Justiça (STJ) dispõe:
+A comprovação do pagamento do "custo do serviço"referente ao fornecimento de certidão de assentamentos constantes dos livros da companhia é requisito de procedibilidade da ação de exibição de documentos ajuizada em face da sociedade anônima.
+Essa Súmula aplica-se também ao pedido acessório (incidental) de exibição de documentos, formulado em demanda ordinária cujo pedido principal é a complementação de subscrição acionária, fundada em contrato celebrado para aquisição de linha telefônica, com cláusula de participação financeira (AgInt no AREsp 812.092/PR, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/5/2016, DJe 27/5/2016). Para exame:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. CONTRATOS DE PRESTAÇÃO DE SERVIÇOS DE TELEFONIA COM CLÁUSULA DE PARTICIPAÇÃO FINANCEIRA. AUSÊNCIA DE PRÉVIO REQUERIMENTO ADMINISTRATIVO. AUSÊNCIA DE PAGAMENTO DO CUSTO DO SERVIÇO. FALTA DE INTERESSE DE AGIR. SÚMULA Nº 389/STJ. INCIDÊNCIA. ÔNUS PROBATÓRIO. ART. 333, INCISO I, DO CPC/1973.
+1. É firme na jurisprudência de ambas as Turmas integrantes da Segunda Seção o entendimento de que a Súmula nº 389/STJ é aplicável aos pedidos de exibição incidental dos chamados contratos de prestação de telefonia com cláusula de participação financeira.
+2. A não comprovação da prévia existência de requerimento formal apresentado pelo autor da demanda visando obter os contratos de prestação de serviços de telefonia com cláusula de participação financeira revela sua falta de interesse de agir, impondo a extinção do feito sem resolução meritória. A determinação de exibição incidental desses documentos nessa hipótese (de não comprovação da apresentação do imprescindível requerimento prévio) constitui verdadeira ofensa ao art. 333, inciso I, do CPC/1973. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1.331.352/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 1º/12/2016)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPLEMENTAÇÃO DE AÇÕES. PEDIDO INCIDENTAL DE EXIBIÇÃO DE DOCUMENTOS. INTERESSE DE AGIR. SÚMULA 389 DO STJ. APLICABILIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. "O entendimento da Súmula 389 do STJ aplica-se aos pedidos de exibição incidental dos chamados contratos de prestação de serviços de telefonia com cláusula de participação financeira. Precedentes." (AgInt no AREsp 812.092/PR, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/05/2016, DJe 27/05/2016).
+2. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 934.742/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 1º/12/2016)
+No caso, a parte autora pleiteia indenização correspondente a títulos/valores mobiliários (ações) associados a contrato de participação financeira celebrado para aquisição de linha telefônica, sendo que, com a petição inicial, foi apresentada a radiografia de tal contrato,demonstrando, assim, a existência derelação jurídica entre as partes.
+A propósito, o acórdão recorrido considerou suficiente a exibição da radiografia contratual (já existente no processo, repita-se!) e, quanto ao ponto, reformou a decisão de primeira instância para, " ..  neste momento processual  .. ", reconhecer apenas a obrigação de exibição da radiografia.
+Assim, apesar de o acórdão recorrido haver assentado que o interesse de agir subsiste, " ..  ainda que não haja a negativa por parte da apelante para a apresentação dos documentos solicitados,  .. ", entendimento que não encontrarespaldo na jurisprudência firmada peloSTJacerca da matéria, não há falar, neste caso concreto, em falta de interesse processual da parte autora.
+O recurso especial é incognoscível, por ausência de interesse, quando o acórdão recorrido decide a matéria controvertida no mesmo sentido defendido pela parte recorrente. Confira-se:
+PROCESSO CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS EM CUMPRIMENTO DE SENTENÇA. DECISÃO QUE DETERMINOU A ALIENAÇÃO PARTICULAR DO IMÓVEL LITIGIOSO. INSURGÊNCIA RECURSAL NO SENTIDO DE QUE A ALIENAÇÃO RECAIRÁ SOBRE A TOTALIDADE DO BEM. EQUIVOCADA INTERPRETAÇÃO. RESGUARDO DA PROPRIEDADE DO AGRAVANTE. AUTO DE PENHORA NESSE SENTIDO, CONFORME ACÓRDÃO DE ORIGEM. AUSÊNCIA DE INTERESSE EM RECORRER. AGRAVO INTERNO NÃO PROVIDO.
+1. "A decisão cuja parte dispositiva é favorável ao recorrente denota a ausência de interesse em recorrer" (REsp 914062/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/09/2011, DJe 29/09/2011).
+2. Na hipótese, apesar de a Corte local não ter conhecido o recurso de agravo de instrumento por falta de dialeticidade, acabou entrando no mérito da demanda para afirmar, textualmente, ser "evidente que a penhora do imóvel não recairá sobre sua totalidade, como leva a crer o agravante, mas apenas sobre a porção de terras correspondente a 46,69 alqueires paulistas".
+3. Agravo interno não provido.
+(AgInt no AREsp 1858898/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/08/2021, DJe 24/08/2021)
+No caso, como alhures assinalado, o acórdão recorrido reconheceu a suficiência da radiografia do contrato de participação financeira - documento existente nos autos - para o julgamento da demanda.Com relação a esse ponto, portanto, evidencia-se ausência de interesse em recorrer.
+A parte ré, na qualidade de sucessora de Telecomunicações do Paraná S.A. (Telepar), responde pelas obrigações decorrentes do contrato de participação financeira (diferença acionária). Nessa direção:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ADIMPLEMENTO CONTRATUAL.
+1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA.
+2. PRESCRIÇÃO. NÃO CONSUMAÇÃO. IMPOSSIBILIDADE DE SE EXTRAIR O TERMO INICIAL DO CONJUNTO DE FATOS E PROVAS COLACIONADOS AOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+3. DOBRA ACIONÁRIA. PRETENSÃO AFASTADA. NECESSIDADE DE VERIFICAR A DATA DE INTEGRALIZAÇÃO DAS AÇÕES. INAFASTÁVEL, MAIS UMA VEZ, A INCIDÊNCIA DA SÚMULA 7/STJ.
+4. ILEGITIMIDADE PASSIVA AD CAUSAM DA RECORRENTE. TESE RECHAÇADA NA ORIGEM. RESPONSABILIDADE DA SUCESSORA PELAS AÇÕES NÃO SUBSCRITAS PELA EMPRESA INCORPORADA. ADEMAIS, NÃO HÁ COMO VERIFICAR QUE A TELEPAR FOI INCORPORADA PELO GRUPO TIM, E NÃO PELA OI S.A. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ.
+5. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo se falar em negativa de prestação jurisdicional.
+2. A alteração do entendimento firmado no aresto impugnado - acerca do termo inicial da prescrição e da sua consequente consumação - só seria possível mediante o revolvimento do acervo fático-probatório do respectivo processo, providência vedada nesta instância extraordinária em decorrência do disposto na Súmula 7 do STJ, não sendo o caso de revaloração da prova.
+3. A Súmula 7/STJ constitui óbice, mais uma vez, ao conhecimento do apelo nobre, em relação à dobra acionária, haja vista que o acolhimento da tese recursal, no ponto, exige que se adentre a seara fático-probatória deste processo para verificar a data de integralização das ações.
+4. A temática acerca da suposta ilegitimidade passiva da insurgente para responder pela dobra acionária foi solucionada pelo acórdão recorrido em consonância com a orientação jurisprudencial desta Corte Superior, no sentido de que a Brasil Telecom (atual Oi S.A.) sucedeu, por incorporação, a Telepar - Telecomunicações do Paraná, cabendo-lhe responder pelas ações não subscritas pela empresa incorporada. Precedentes. Outrossim, a análise da alegação recursal de ilegitimidade passiva, ao argumento de que a Telepar foi incorporada pelo Grupo TIM, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e a interpretação de cláusulas contratuais, os quais encontram óbice nas Súmulas 5 e 7 desta Corte.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1024038/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 13/06/2017, DJe 22/06/2017)
+Incide, no ponto, a Súmula 83 do STJ.
+Em face do exposto, nego provimento ao recurso.
+Intimem-se.
