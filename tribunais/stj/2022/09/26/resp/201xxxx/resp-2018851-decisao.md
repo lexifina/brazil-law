@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+RECURSO DE APELAÇÃO EM AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA E REPETIÇÃO DE INDÉBITO COM INDENIZAÇÃO POR DANOS MORAIS - ALEGAÇÃO DE LEGALIDADE DA RELAÇÃO JURÍDICA - COMPROVAÇÃO DA FALSIFICAÇÃO DA ASSINATURA - ILEGALIDADE CONTRATUAL - DEVOLUÇÃO DOS VALORES DESCONTADOS ILEGALMENTE COM A COMPENSAÇÃO DO DEPÓSITO EFETUADO PELO APELADO - REDUÇÃO DO VALOR INDENIZATÓRIO DOS DANOS MORAIS - JUROS DE MORA APLICADOS A CONTAR DO ARBITRAMENTO DOS DANOS MORAIS - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, a parte recorrente aponta violação do artigo 398 do Código Civil e divergência jurisprudencial.
+Merece reforma o acórdão recorrido, que, embora reconhecendo tratar-se o caso dos autos de responsabilidade extracontratual, deu parcial provimento ao recurso de apelação do ora recorrido para alterar o termo inicial dos juros de mora - fixados na sentença a partir do evento danoso (fl. 352/e-STJ). Confira-se (fls. 406-407/e-STJ):
+Tenho seja o caso de parcial provimento recursal.
+Dos documentos acostados aos autos, mormente o laudo pericial grafotécnico, de f.326/336, que conclui pela divergência de assinatura entre o contrato apresentado pelo apelante e o exame em questão, conforme f.331.
+(..)
+Inexistem elementos que evidenciem que o contrato apresentado pela instituição contém assinatura da parte autora, ora apelada.
+O laudo pericial ainda menciona que "a assinatura do documento questionado apresenta aparente correção ou rasura, geralmente presente em falsificações de assinaturas.." (f.331)
+Diante de tais parâmetros tendo seja o caso de manter a ilegalidade contratual. Ressalto, todavia, que a devolução dos valores descontados indevidamente deve ser feita compensando o valor que o apelante depositou em prol da autora, em conformidade ao documento comprobatório de f.124.
+No que concerne ao valor indenizatório, tenho pelo seu provimento.
+Por certo que é verdadeiro que a condenação tem um caráter punitivo e pedagógico visando prevenir reincidências. Assim, em um segundo plano a condenação serve como desestímulo a prática da mesma conduta realizada anteriormente. Contudo, não se pode olvidar que a função primária é servir de amparo a dor experimentada pela parte lesada/sofrida. Funcionando como uma "compensação" pelo dano sofrido. E é sempre nesse aspecto que deve ser pautado em primeiro lugar. Desta feita, considero razoável arbitrar a títulos de danos morais o valor de R$5.000,00 (cinco mil reais), dada as condições da Apelante e apelado que é mais do que suficiente para compensar o dano experimentado.
+No que se refere aos juros de mora da indenização, tenho por seu provimento. Em verdade, os juros de mora devem ser computados a contar de seu arbitramento eis que a contar desse momento é que pode o devedor, no caso o apelante, tomar ciência de que é condenado a algum pagamento. (grifei)
+Ocorre que o entendimento do Tribunal de origem não está em consonância com o deste Superior Tribunal de Justiça, segundo a qual, nas hipóteses de responsabilidade extracontratual, os juros de mora incidem desde a data do evento danoso, nos termos da Súmula 54 desta Corte. Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. JUROS DE MORA. TERMO INICIAL. SÚMULA 54/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ. DECISÃO MANTIDA. NÃO PROVIMENTO.
+1. Os juros moratórios incidentes sobre os danos morais decorrentes de responsabilidade extracontratual fluem a partir do evento danoso, nos termos da Súmula 54 do STJ.
+2. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.852.914/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 11/4/2022, DJe de 18/4/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PROTESTO INDEVIDO. RESPONSABILIDADE EXTRACONTRATUAL. JUROS DE MORA. TERMO INICIAL. EVENTO DANOSO. AGRAVO INTERNO NÃO PROVIDO.
+1. Os juros moratórios incidentes sobre os danos morais decorrentes de responsabilidade extracontratual fluem a partir do evento danoso, nos termos da Súmula 54 do STJ. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.921.373/TO, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/6/2021, DJe de 9/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL DE 2015. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO, COMBINADO COM PEDIDO DE DANOS MORAIS. ACÓRDÃO RECORRIDO. ALEGADA AFRONTA AO ART. 1022 DO NCPC. NÃO DEMONSTRADA. PELO PRINCÍPIO DA PERSUASÃO RACIONAL, FRANQUEIA-SE AO JUIZ A LIVRE ANÁLISE DO CONJUNTO PROBATÓRIO CARREADO AOS AUTOS PARA FORMAR SUA CONVICÇÃO E INADMITIR PROVAS INÚTEIS, SEM QUE SE CONFIGURE O CERCEAMENTO DE DEFESA. PROTESTO INDEVIDO DE DUPLICATAS. AUSÊNCIA DA HIGIDEZ DOS TÍTULOS. DANOS MORAIS RECONHECIDOS. ENTENDIMENTO DIVERSO. INADMISSIBILIDADE. APLICAÇÃO DO ÓBICE DA SÚMULA 7/STJ. TERMO INICIAL DOS JUROS DE MORA. RELAÇÃO EXTRACONTRATUAL. SÚMULA 54/STJ. QUANTUM INDENIZATÓRIO FIXADO. REEXAME. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.417.169/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 8/6/2020, DJe de 12/6/2020.)
+Em face do exposto, dou provimento ao recurso especial para determinar que os juros de mora incidam desde a data do evento danoso, nos termos da Súmula 54/STJ.
+Intimem-se.
