@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de THALLES FELIX DA SILVA, contra acórdão do Tribunal de Justiça do Estado de Goiás (HC n. 5395158-93.2022.8.09.0011).
+O paciente encontra-se preso preventivamente, em razão da suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+A defesa alega ausência dos requisitos ensejadores do decreto preventivo, bem como falta de fundamentação idônea para sua manutenção.
+Assevera que o paciente ostenta condições pessoais favoráveis, a saber, é tecnicamente primário, tem residência fixa, trabalho lícito e família constituída.
+Pondera que possui 6 filhos eum deles é um bebê, que nasceu com problemas graves de saúde, razão pela qualo paciente precisa dar continuidade a seu tratamento, que é realizado na capital. Ademais,o paciente éo único provedor de renda da família.
+Nega a autoria delitiva, destacando que o paciente não teve participação no referido crime e que não háfundamentos contemporâneos para determinar que há risco à ordem pública.
+Aduz que a imposição de medidas cautelares diversas da prisão mostra-se suficientee quea manutenção da custódia preventiva seria o cumprimento antecipado da pena.
+Requer a concessão da ordem para se revogar a prisão preventiva, fixando-se medidas cautelares alternativas.
+O pedido de liminar foi indeferido às fls. 145-146.
+O Ministério Público Federal manifestou-se pela concessão da ordem de ofício(fls. 166-170).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+No caso, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção dapreventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fls. 33-34):
+Extrai-se que o paciente foi preso em flagrante em 01/07/2022, por ter sido surpreendido trazendo consigo e mantendo em depósito 03 porções de cocaína, com massa bruta aproximada de 101,7g.
+Após requerimento ministerial, a prisão foi convertida em preventiva.
+Feitas tais considerações, tem-se que o ato judicial está escorado na prova da existência do crime e nos indícios suficientes da autoria. Portanto, presente o fumus comissi delicti.
+Na decisão de 03/07/2022, proferida em audiência de custódia, ajuíza ressaltou que "o auto de prisão em flagrante, notadamente os termos de declarações dos policiais, o auto de exibição e apreensão e o laudo preliminar de constatação da droga, demonstra a ocorrência da materialidade do delito, bem revela indícios suficientes de que a autoria recai sobre o autuado."
+Justificou, ainda, que a prisão preventiva está amparada na garantia da ordem pública, considerada a gravidade concretado crime e a reiteração delitiva, e na necessidade de garantir a instrução criminal (periculum libertatis).
+Destacou que "a prisão preventiva se afigura necessária para garantia da ordem pública, notadamente em razão da reiteração delitiva pelo autuado. Com efeito, para além de uma execução mais antiga (que isolada não seria sopesada), o autuado possui uma condenação por roubo (pendente de apreciação pelo Tribunal, é verdade) e terminou recentemente de cumprir pena por posse irregular de arma de fogo) -enredo que evidencia sua inclinação à prática de crimes."
+Acrescentou que "não se pode ignorar a gravidade concreta da conduta do autuado, notadamente diante da natureza (cocaína "escama de peixe") e relevante valor econômico do entorpecente apreendido (R$ 5.000,00)."
+Nesse contexto, a decretação da prisão preventiva está fundamentada, uma vez que as circunstâncias concretas do delito podem servir para evidenciar o efetivo risco à ordem pública, caso o paciente permaneça em liberdade, de consequência, o perigo gerado pelo estado de liberdade do imputado.
+No caso, a gravidade da conduta está demonstrada pela natureza altamente nociva da droga apreendida com o paciente:101,7 g de cocaína.
+De igual modo, a certidão de antecedentes criminais evidencia a reiteração delitiva do paciente, de consequência, o perigo gerado pelo seu estado de liberdade.
+Observa-se que Thalles Felix da Silvaterminou de cumprir pena por posse irregular de arma de fogo em 28/05/2019, conforme consulta realizada aos autos daexecução penal no SEEU (autos n. 0017468-54.2018.8.09.0087).
+Portanto, o acusado é reincidente, na medida em que a execução penal findou-se em lapso temporal ainda não alcançado pelo período depurador de cinco anos.
+Tendo a necessidade deprisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidascautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+Note-se que, no presente caso, a quantidade de entorpecente apreendida (101,7gcocaína), o risco de reiteração delitiva, o valor econômico do entorpecente (cerca de R$ 5.000,00) e os maus antecedentes do paciente foram considerados pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimentoestá em consonância com a jurisprudência da QuintaTurma de que a quantidade,avariedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva(AgRgno RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma,DJede 30/9/2020; eAgRgno HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Conforme orientação jurisprudencial do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Ademais, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes:AgRgno HC n. 585.571/GO, relator Ministro Joel IlanPaciornik, Quinta Turma,DJede 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma,DJede 2/9/2020.
+No que diz respeito à alegação de ser pai de filhos menores de 12 anos, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma,DJede 14/9/2018).
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ,não conheço do presentehabeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
