@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto com fundamento no art. 1.042, §2º, do Código de Processo Civil, contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 836):
+EMENTA: APELAÇÃO CÍVEL  OBRIGAÇÃO DE FAZER  Necessidade de projeto de empreendimento se adequar à legislação atual que regulariza a ocupação do solo - Inteligência do entendimento do C. STJ - Recurso parcialmente provido.
+Opostos embargos de declaração, foram eles rejeitados (e-STJ, fls. 960).
+Opostos novos embargos da decisão de rejeição dos embargos de declaração, foram eles parcialmente acolhidos (e-STJ, fls. 975/980).
+Em razões de recurso especial (e-STJ, fls. 983/994), com fundamento no art. 105, III, "a", da Constituição Federal, a parte agravante alega violação aos arts. 489, §1º e 1.022, § único, inciso II, do Código de Processo Civil.
+Contrarrazões apresentadas (e-STJ, fls. 1002/1011).
+O Tribunal de origem não admitiu o recurso especial (e-STJ, fls. 1013/1015), por considerar inexistente omissão na decisão recorrida.
+Nas razões do agravo em recurso especial (e-STJ, fls.), reitera o argumento de que haveria violação aos arts. 489, §1º, e 1.022, § único, inciso II, do Código de Processo Civil e pugna pelo processamento do recurso especial.
+Decisão da Presidência do STJ não admitindo, por intempestividade, o agravo em recurso especial (e-STJ, fls. 1101/1102).
+Opostos embargos de declaração, foram eles acolhidos com efeitos infringentes para tornar sem efeito a decisão da inadmissão do agravo (e-STJ, fls. 1116/1117).
+Assim delimitada a controvérsia, passo a decidir
+Alega a parteagravante que houve violaçãoaos arts. 489, §1º, e 1.022, § único, inciso II, do CPC, pois o Tribunal local teria deixado de enfrentar a tese de que já teria sido cumprida a obrigação consistente em apresentar à Prefeitura de São Paulo um dos projetos de reforma para o empreendimento discutido nos autos, estando, no momento, pendente expedição de alvará.
+Apesar dos argumentos levantados pela parte agravante, não merece prosperar o recurso.
+O Tribunal local, ao se manifestar sobre a controvérsia, o fez sob os seguintes fundamentos (e-STJ, fls. 840/844):
+13. Quanto à controvérsia do caso sub judice, esta gira em torno da necessidade da apelantese adequar à norma ambiental e executar a obra pendente.
+14. É cediço que o requerimento da renovação da licença de empreendimento, deve ser efetuada com antecedência mínima de 120 (cento e vinte) dias da expiração de seu prazo de validade e, caso não seja respeitado este prazo, a empresa terá que reiniciar, o processo de licenciamento,tendo em vista a aplicação imediata das normas ambientais (art. 18, parágrafo 40 da Resolução CONAMA 273/97 e art. 14, parágrafo 40 da Lei complementar 140/11).
+15. No presente caso, restou evidente nos autos a inércia das requeridas, seja para não se manifestar no prazo anteriormente citado para a renovação, seja por ter requerido licença em 2015, sem apresentar os projetos acostados aos autos (fls. 288/297) com as modificações necessárias, exigidas pelas normas ambientais e de acessibilidade.
+16. Como bem analisou ó perito no laudo de fls. 391/424:
+Constatou-se, assim, quer as requeridas estão, no momento, pleiteando junto à prefeitura a Revalidação do antigo Alvará. Ou seja, por ora, o que se buscaéa permissão para construir a edificação tal como aprovada em 1998 pelos Alvarás n. 6600039981 1 (Aprovação do Projeto) e nº 720002598 (Execução da Obra). Vide folhas 273/279 dos autos.
+(..)
+É fato que para viabilizar a construção do Centro Comercial, exige-se aprovação dos órgãos municipaiscompetentes, todavia não foi informado" pelas Requeridas os motivos técnicos que ,levaram á buscar essa aprovação (ou a revalidação do antigo Alvará) somente no ano e de 2015.
+(..)
+Entretanto, o que se constatou é que, a priori, os dispositivosrestritivos à construção próximo ao córrego canalizado que constam descritos no Código de Obras ede Edificações  COE, não alteram a situação do projeto já aprovado, haja vista a distância entre a edificação e o córrego ser de 15,00 metros.
+(..)
+Esse projeto executivo, porém, foi emitido inicialmenteem janeiro de 2011, havendo posterioresrevisõessomente em fevereiro de2013, sem a emissão de sua versão final com o aval de liberação para execução.
+(..)
+Assim, considerando-se a data em que foi emitida a última revisão do Projeto de Acessibilidade, em fevereiro de 2013 e a data de entrega da obra em julho de 2013, associado ao histórico narrado pelas partes nos autos, depreende-se que" após a finalização da construção idas "lobrás" já entregues, as Rés não deram "andamento as adequações e renovações de documentos necessários para a construção do Centro. Comercial, até maio de 2015, quando as Rés ingressaram com o Processo Administrativo peticionado, aRevalidação do Alvará para Execução doCentro Comercial.
+17. Portanto, as apelantes devem-se adequar a legislação atual no que tange a área não edificável, diante do longo tempo decorrido sem o devido licenciamento. E, caso não venha a seguir os trâmites necessários para realizar o empreendimento, deverá pagar indenização à parte apelada a título de perdas e danos, que terá seu valor apurado em liquidação de sentença.
+(..)
+19. Assim, determino que as apelantes se adequem à legislação vigente, a fim de promover a construção, e caso, não o façam, que seja convertido em perdas e danos em favor da apelada. Registre-se que as obras devem ser feitas através de projetos a "serem avaliados pelos órgãos competentes, os quais deverão ser apresentados a eles no prazo de 60 (sessenta dias), contados desta decisão, e cujo início de sua efetiva realização deve ocorrer no prazo de 15 (quinze) dias após a aprovação por tais órgãos. Fica estabelecida multa diária de RS 1.000,00 (mil reais), limitada a RS 300.00.00 (trezentos"mil reais) para a hipótese de descumprimento desta ordem judicial, a qual se mostra razoável e proporcional. sem prejuízo das perdas e danos.
+Diante das razões expostas, não vislumbro omissão no acórdão recorrido.
+O Tribunal local apreciou o recurso interposto decidindo que a obrigação deverá ser convertida em perdas em danos se a parte não apresentar todos os documentos necessários para a construção no prazo de 60 dias - que podem ser outros que não aqueles que, conforme insiste aagravante, já foram por ela apresentados à Prefeitura -, e se, após a aprovação da documentação pelos órgãos competentes, as obras não tiverem início dentro do prazo de 15 dias.
+Observo, portanto, que a decisão não padece de omissão, já que o colegiado apreciou o recurso com suficiente motivação. Como já asseverou este Tribunal, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte (STJ - AgInt no REsp1584831/CE, Rel. Ministro HUMBERTO MARTINS, espécie." SEGUNDA TURMA, julgado em 14/6/2016, DJe 21/6/201). Afasto, assim, a alegação de violação aos arts.489, §1º, e 1.022, § único, inciso II, do CPC.
+Anoto, ainda, que ao decidir a controvérsia, o Tribunal local o fez em benefício da parte ora agravante, já que não convolou imediatamente, como postulava a parte agravada (e-STJ, fls. 730), a obrigação em perdas e danos, razão pela qual a parte carece de interesse processual para a propositura do recurso especial.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
