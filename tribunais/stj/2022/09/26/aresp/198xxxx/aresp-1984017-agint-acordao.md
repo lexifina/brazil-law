@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado pela Fazenda Nacionalcontra decisão de fls. 206/208, quedeu provimento ao recurso especial da parteex adversa, por violação ao art. 1.022 do CPC, determinando novo julgamento dos aclaratórios.
+Sustenta a agravante, em resumo, que inexiste omissão ao argumento de que, "conforme assentado na sentença, houve por parte da Fazenda Nacional impugnação específica a esse argumento (fls. 74 e ss), de modo que não há qualquer fato incontroverso. Ou seja, a recorrente tenta tornar incontroverso argumento que diz respeito ao mérito do processo e que restou afastado pela admissão na corte de origem do argumento desenvolvido pela Fazenda Nacional no sentido de que não restou comprovada a existência dos pressupostos que autorizariam o reconhecimento de eventual isenção" (fl. 213).
+Requer a reconsideração da decisão agravada ou a submissão da insurgência ao órgão colegiado.
+Aberta vista à parte agravada, apresentou impugnação às fls. 217/220, postulando o desacolhimento do recurso.
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. QUESTÃO RELEVANTE. OMISSÃO DO TRIBUNALA QUO. VIOLAÇÃO AO ART. 1.022 DO CPC. CONFIGURAÇÃO.
+1. Há violação ao art. 1.022 do CPC quando, a despeito dos embargos de declaração, o Tribunal de origem remanesce omisso acerca das questões apresentadas.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA:A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados (fls. 206/208):
+Trata-se de agravo manejado porS.A. Viação Aerea Rio-Grandense - falida, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III,a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 128):
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. IMPOSTO DE IMPORTAÇÃO. EXTRAVIO E AVARIA EM MERCADORIAS DESTINADAS À ZONA FRANCA DE MANAUS. RESPONSABILIDADE TRANSPORTADOR. ISENÇÃO NÃO COMPROVADA.
+1 - "1. O Decreto-Lei 37, de 18/11/1966, no art. 60, parágrafo único, estabelece que, no caso de avaria ou extravio, o tributo incidente na operação passa a ser devido pelo responsável pelo dano, avaria ou extravio.
+2. Na hipótese em que a mercadoria importada está sujeita ao regime de isenção tributária, entende-se que o seu extravio ou avaria não configura prejuízo para o fisco, na medida em que não haveria recolhimento de quaisquer valores a título de tributos por conta da isenção em comento. 3. Nos termos do Decreto-Lei 288/1967, não é o simples fato de se importar uma mercadoria para a Zona Franca de Manaus que fará com que ela se tome isenta do imposto
+de importação. A isenção de que trata tal decreto é relativa a determinado produto e condicionada, por vezes, à destinação que ele assume após entrar no território nacional. 4. In casu, não há documentos que comprovem se as mercadrias sobre as quais estão sendo cobrados os impostos e as multas estão ou não sujeitas ao regime de isenção, nos termos do art. 3o, § 1º do Decreto-Lei 288/1967, e se foram utilizadas no consumo interno da Zona Franca de Manaus". (REO 0074785-65.2000.4.01.0000/AM, TRF 1aRegião, Oitava Turma, Relatora Desembargadora Federal MARIA DO CARMO CARDOSO, e-DJF1 p.2216 de 17/12/2010)
+2 - Remessa oficial e apelação providas.
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 535 do CPC, 60 do Decreto 37/60 e3º, §1º, do Decreto Lei 288/67. Sustenta que: (I) a despeito dos embargos de declaração, o Tribunal de origem remanesceu omisso acerca da alegação de que não ocorreu impugnação da recorridaquanto à tese de isenção do imposto de importação dos produtos extraviados; (II) "não tendo sido impugnado pela Fazenda Nacional a circunstância de que as mercadorias estavam e estão submetidas ao regime de isenção  tanto mais por esse fato incontroverso ter sido reconhecido na r. sentença d. v., não poderia o TRF ter dado provimento à remessa oficial e ao apelo da Fazenda Nacional, para negar o direito da recorrente, sob o fundamento de que não haveria provas quanto a submissão das mercadorias ao regime de isenção" (fl. 155).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n.2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A pretensão recursal merece acolhida pelo art. 535 do CPC.
+Nas razões dos embargos de declaração, a ora agravante, referindo haver omissão no acórdão embargado, pugnou pelo pronunciamento da Corte de origem, nestes termos (fls. 136/137):
+1. Esta eg. Turma deu provimento á remessa necessária e à apelação da Fazenda Nacional sob o fundamento de que a isenção em relação os produtos negociados na zona franca de Manaus tem de estar provada nos autos, não se
+podendo presumi-la em caso de extravio.
+2. Omitiu-se esta eg. Turma quanto à circunstância processual de que a incidência da isenção sob os respectivos produtos extraviados, no caso, não foi objeto de impugnação pela Fazenda Nacional em sua manifestação de impugnação aos embargos, constante às fls. 47/51.
+3. A incidência da isenção sobre a mercadoria extraviada no caso concreto, portanto, passou a ser fato incontroverso, a teor do art. 334, III, do CPC, o que foi expressamente reconhecido na r. sentença à fl. 66:
+"No caso sob judice, creio assistir razão à embargante, no que pertine à ausência prejuízo ao Fisco, uma vez que, tratando-se, tratando-se de mercadorias importadas sob o beneficio de isenção do Imposto de Importação, fato este não contestadopela embargada, exclui-se a responsabilidade do transportador quanto ao pagamento do tributo, pois, neste caso, não há qualquer prejuízo a ser reparado à Fazenda Nacional"
+4. Porém, ainda que assim não fosse, não seria possível cogitar deresponsabilidade tributária do transportador na espécie, a teor do art. 60, do Decreto Lei 37/66, nos termos da reiterada jurisprudência do eg. STJ, materializada nos precedentes abaixo transcritos, dentre tantos outros:
+Contudo, o Tribunal de origem quedou-se silente sobre a tese aventada de que não houve impugnação da Fazenda Nacional quanto à isenção do imposto de importação, sendo esse fato considerado incontroverso, rejeitando os pertinentes aclaratórios da ora agravante, em franca violação ao art. 535 do CPC, porquanto não prestada a jurisdição de forma integral (cf. fls. 145/149).
+ANTE O EXPOSTO,conheço do agravo para dar provimento ao recurso especial por violação do art. 535 do CPC, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aludidos embargos dedeclaração.
+Publique-se.
+Na hipótese, o Tribunal Regional deu provimento à remessa e à apelação da Fazenda Nacional, assinalando que (fls. 124/126):
+ ..
+Assim, na hipótese em que a mercadoria importada está sujeita ao regime de isenção tributária, entende-se que o seu extravio ou avaria não confígura prejuízo para o fisco, na medida em que não haveria recolhimento de nenhum valor a título de tributo por conta da isenção em comento, o que não ocorreu no caso em tela.
+ ..
+Assim, diante da inexistência de prova de eventual vício capaz de afastar a presunção de certeza e liquidez inerente ao título executivo, mantém-se a exequibilidade do título".
+Da mesma forma, nos presentes autos, não há comprovação no sentido de que as mercadorias tributadas e multadas estariam isentas e nos termos do art. 3o, § 1o, do Decreto-Lei 288/67, razão pela qual dou provimento ã remessa e à apelação para julgar improcedentes os embargos.
+Foram, então, opostos embargos de declaração (fls. 239/241), nos quais o agravadoaduziu que (fl. 136):
+Omitiu-se esta eg. Turma quanto à circunstância processual de que aincidência da isenção sob os respectivos produtos extraviados, no caso, não foi objeto de impugnação pela Fazenda Nacional em sua manifestação de impugnação aos embargos, constante às fls. 47/51.
+O Tribunal de origem, todavia, rejeitou os aclaratórios do agravado, ao entendimento de que, "Em que pesem os argumentos lançados pela parte embargante, inexiste, no acórdão vergastado, qualquer obscuridade, omissão ou contradição, sendo que as matérias relevantes para a solução da lide (e passíveis de aferição, em sede recursal) foram satisfatoriamente analisadas por esta Corte Revisora" (fl. 145).
+Assim, observa-se que apretensão recursal merece acolhida peloart. 535 do CPC/73, pois a parte agravada, nas razões dos embargos de declaração e do recurso especial, alegou que não houve impugnação da Fazenda Nacional quanto à isenção do imposto de importação.O Tribunal de origem, contudo, quedou silente sobre tal argumentação e rejeitou os pertinentes aclaratórios do ora agravante, em franca violação aoart. 535do CPC, porquanto não prestada a jurisdição de forma integral.
+Não há, portanto, reparos a fazer nodecisumalvejado.
+ANTE O EXPOSTO,nega-se provimento ao agravo interno.
+É o voto.
