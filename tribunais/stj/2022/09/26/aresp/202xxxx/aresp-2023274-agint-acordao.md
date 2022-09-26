@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por BRASCAN SPE RJ-5 LTDA. (outro nome: ERBE INCORPORADORA 016 LTDA.) e OUTRA contra a decisão que conheceu do agravopara não conhecer do recurso especial por incidência da Súmula nº 7/STJ.
+Nas presentes razões (fls. 713/730, e-STJ), as agravantes alegam que não pretendem o reexame das provas dos autos, motivo pelo qual não há falar em aplicação da Súmula nº 7/STJ.
+Afirmam que a indenização por dano moral não dispensa prova do dano. No caso, o aresto atacado não indicou a ocorrência de nenhuma circunstância excepcional capaz de configurar o dano extrapatrimonial.
+Ao final, requerem a reforma da decisão combatida.
+Devidamente intimada, a parte contrária ofereceu impugnação (fls. 731/745, e-STJ) pleiteando a aplicação da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 e a majoração dos honorários recursais.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMÓVEL. ENTREGA. ATRASO. FALHA NA PRESTAÇÃO DE SERVIÇO. DANO MORAL. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. FUNDAMENTO NÃO IMPUGNADO. SÚMULA Nº 283/STF. MULTA. ART. 1.021, § 4º, DO CPC/2015. NÃO AUTOMÁTICA. MAJORAÇÃO. HONORÁRIOS RECURSAIS. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdãopublicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, o tribunal local firmou a sua conclusão, com base nas circunstâncias fáticas dos autos, de que o acolhimento da pretensão recursal esbarra na Súmula nº 7/STJ.
+3. A falta de impugnação de fundamento do aresto atacadoatrai a incidência da Súmula nº 283/STF, por analogia.
+4.A Segunda Seção do Superior Tribunal de Justiça já decidiu que a aplicação da multa por litigância de má-fé não é automática, visto não se tratar de mera decorrência lógica da rejeição do agravo interno.
+5. A jurisprudência do Superior Tribunal de Justiça firmou o entendimento de ser incabível a majoração dos honorários recursais no julgamento do agravo interno e dos embargos de declaração oferecidos pela parte que teve seu recurso integralmente não conhecido ou não provido.
+6. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Trata-se, na origem, de ação deindenização por dano moral interposta contra a parte ora agravante em virtude do atraso na entrega de imóvel objeto de contrato de compra e venda.
+No recurso especial (fls. 483/492, e-STJ), a parte recorrente busca o afastamento da condenação atribuída aos danos morais, sob a assertiva de que não foram demonstrados. Aponta negativa de vigência dos arts. 186, 884 e 944 do Código Civil.
+Ao dirimir a controvérsia, o aresto atacado firmou a sua conclusão após detida análise das circunstâncias fático-probatórias dosautos, consoante se extrai do seguinte trecho, ora colacionado, no que interessa:
+"(..) DA CARACTERIZAÇÃO DO DANO MORAL
+Por outro lado, não há como negar que a situação apresentada, em que as economias dos consumidores foram destinadas à aquisição do imóvel, sendo compelidos a aguardarem indefinidamente para ver o seu objetivo concretizado.
+Portanto, diante da demora na entrega da unidade acima mencionada, somada às circunstâncias acima mencionadas, resta incontroversa a falha na prestação do serviço das apelantes-rés, o que impõe o dever de indenizar" (fl. 424, e-STJ - grifou-se).
+Com efeito, o acolhimento da pretensão recursal esbarra no óbice da Súmula nº 7/STJ, que veda o reexame das provas dos autos na instância especial.
+Além disso, verifica-se que a indenização está fundamentada no Código de Defesa do Consumidor, não tendo a parte recorrente se insurgido contra tal fundamentação, o que atrai a incidência da Súmula nº 283/STF, por analogia.
+Relativamente à multa prevista no art. 1.021, § 4º, do CPC/2015, a Segunda Seção decidiu que a aplicação da referida penalidade não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido" (EREsp 1.120.356/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 24/8/2016, DJe 29/8/2016 - grifou-se).
+No caso concreto, não se vislumbra intenção abusiva ou protelatória na interposição de recurso previsto em lei, necessário, inclusive, para esgotar esta instância, requisito indispensável à interposição de eventual recurso extraordinário.
+Por fim, cumpre destacar que a jurisprudência do Superior Tribunal de Justiça firmou o entendimento de ser incabível a majoração dos honorários recursais no julgamento do agravo interno e dos embargos de declaração oferecidos pela parte que teve seu recurso integralmente não conhecido ou não provido.
+Confiram-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE RECUPERAÇÃO DE CRÉDITOS. HONORÁRIOS CONTRATUAIS. PAGAMENTO DEPENDENTE DO ÊXITO DA DEMANDA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. AGRAVO DESPROVIDO. 1. A desconstituição da convicção do acórdão de origem formada, para concluir pela desnecessidade de êxito da demanda para que a parte faça jus aos honorários contratuais, demandaria a interpretação de cláusulas contratuais e o reexame fático-probatório dos autos, providências que se encontram obstadas pelos enunciados 5 e 7 da Súmula do Superior Tribunal de Justiça. 2. A jurisprudência desta Corte Superior não admite a majoração de honorários de sucumbência por ocasião do julgamento de agravo interno. 3. Agravo interno desprovido" (AgInt no AREsp 1.878.461/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/9/2021, DJe 23/9/2021).
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO. EXISTÊNCIA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. JULGAMENTO DO AGRAVO INTERNO OU DOS ACLARATÓRIOS. INADMISSIBILIDADE. EMBARGOS ACOLHIDOS. 1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC. 2. Existentes as hipóteses do art. 1.022 do NCPC, merecem acolhimento os embargos de declaração. 3. Consoante o entendimento firmado pela Segunda Seção do STJ, não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração. 4. Embargos de declaração acolhidos, sem efeitos infringentes" (EDcl no AgInt no AREsp 1.859.834/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/8/2021, DJe 19/8/2021).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
