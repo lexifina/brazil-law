@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido liminar, impetrado em favor de MARCELO QUIRINO DOS SANTOScontra ato do Tribunal de Justiça do Estado de Sergipe.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 8 anos e 9 meses de reclusão, em regime inicialfechado, e 875 dias-multa, pela prática docrimes previstos nos arts.33, caput, da Lei 11.343/2006 (e-STJ fls. 29/44).
+Em sua petição inicial, a impetrante informa que a defesa do paciente interpôs recurso de apelação, o qual foi desprovido e, de ofício, reformada a sentença para redimensionar as penas do paciente para 6 anos e 3 meses de reclusão e 625 dias-multa, mantido o regime inicial fechado(e-STJ fl. 4).
+No presente mandamus (e-STJ fls. 3/15), aimpetrantesustentaque o acórdão impugnado constrangimento ilegal ao paciente, pois manteve o desvalor da vetorial conduta socialno exame das circunstâncias judiciais. Aduz que a apontada periculosidade do paciente para negativar referida vetorial feriu o princípio da presunção de inocência.
+Além disso, impugna a não aplicação doredutor previsto no § 4º do art. 33 da Lei 11.343/2006, pois o paciente preenche os requisitos legais para a incidência do benefício. No ponto, assevera que a quantidade dos entorpecentes apreendidos, além de ser inexpressiva,não é critério idôneo e suficiente para concluir pela dedicação do agente a atividades criminosas.
+Em consequência do reconhecimento da minorante, entende ser possível o estabelecimento do regime inicial aberto.
+Ao final, formula pedido liminar para que o paciente possa aguardarem liberdade ou em regime aberto o julgamento definitivo deste writ, e no mérito, pedea concessão da ordem para que a pena-base seja reduzida e a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, com o consequente estabelecimento do regime aberto.
+É o relatório. Decido.
+Não obstante as razões constantes da petição inicial, a impetrante não instruiuo habeas corpuscomcópia do acórdão impugnado, documento imprescindível para o exame das aventadas ilegalidades.
+Ressalta-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado,devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente. Nesse sentido, segue a jurisprudência desta Corte:
+PROCESSO PENAL. HABEAS CORPUS. SENTENÇA CONDENATÓRIA E NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. INOCORRÊNCIA. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA E DEFICIÊNCIA NA INSTRUÇÃO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+ ..
+4. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. Na espécie, o processo não foi instruído com a sentença condenatória, peça processual imprescindível para exame da aventada ilegalidade da prisão preventiva.
+5. Ordem parcialmente conhecida e, nessa extensão, denegada, com recomendação. (HC 521.587/RS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 20/8/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+2. Não instruída a impetração com documento essencial ao deslinde da controvérsia, mostra-se inviável o exame do sustentado constrangimento ilegal. 3. Agravo regimental não provido. (AgRg no HC 456.701/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 25/10/2018)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
