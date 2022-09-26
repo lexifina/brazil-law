@@ -1,0 +1,37 @@
+DECISÃO:
+
+    1. Trata-se de reclamação, com pedido liminar, ajuizada pelo Banco Cifra S/A e pelo Banco BMG S/A em face de decisão do Tribunal Superior do Trabalho (TST), proferida nos autos nº 0010971-55.2016.5.03.0105, que negou provimento a agravo em agravo de instrumento em recurso de revista com fundamento no art. 896, § 1º-A, da CLT, por serem os trechos indicados insuficientes para o exame da controvérsia. A parte ora reclamante objetivava impugnar acórdão do TRT da 3ª Região que manteve a declaração de ilicitude da terceirização da mão de obra e de nulidade do contrato de trabalho firmado entre o empregado e a empresa prestadora de serviço, reconhecendo a relação de emprego diretamente com os tomadores de serviço e a responsabilidade solidária.
+
+    2. A parte reclamante sustenta que o TST deixou de apreciar a matéria de fundo com argumento no descumprimento dos pressupostos de admissibilidade do recurso, não obstante o reconhecimento da repercussão geral da matéria no RE 958.25, paradigma do Tema 725-RG, julgado pelo qual o STF afirmou a constitucionalidade da terceirização de qualquer atividade empresarial, meio ou fim — e, no mesmo sentido, a tese firmada na ADPF 324, da minha relatoria. Defende, ademais,  violação à Súmula Vinculante 10 e ao art. 97 da Constituição, ao argumento de que o acórdão reclamado teria negado qualquer eficácia ao disposto nos arts. 5º, caput; 7º, incs. XXX e XXXII, da CF; 461 e 511, § 2º, da CLT, sem justificar sua não aplicação com fundamento em lei hierarquicamente superior e sem declarar inconstitucional o dispositivo de lei federal por julgamento de seu Órgão Pleno.
+
+    3.  É o relatório. Decido o pedido liminar.
+
+    4. O Plenário do Supremo Tribunal Federal (STF) realizou o julgamento conjunto da ADPF 324, da minha relatoria, e do RE 958.252, Rel. Min. Luiz Fux, paradigma do Tema 725 da repercussão geral, feitos cujo objeto comum era a discussão acerca da constitucionalidade da terceirização de mão de obra no Brasil. Prevaleceu a tese segundo a qual “1. É lícita a terceirização de toda e qualquer atividade, meio ou fim, não se configurando relação de emprego entre a contratante e o empregado da contratada. 2. Na terceirização, compete à contratante: i) verificar a idoneidade e a capacidade econômica da terceirizada; e ii) responder subsidiariamente pelo descumprimento das normas trabalhistas, bem como por obrigações previdenciárias, na forma do art. 31 da Lei 8.212/1993”.
+
+    5. Na sequência, o STF julgou o ARE 791.932, paradigma do Tema 739 da repercussão geral, Rel. Min. Alexandre de Moraes, feito cujo objeto era a discussão da possibilidade de recusa de aplicação do art. 94, II, da Lei 9.472/1997. Prevaleceu a tese segundo a qual “é nula a decisão de órgão fracionário que se recusa a aplicar o art. 94, II, da Lei 9.472/1997, sem observar a cláusula de reserva de Plenário (CF, art. 97), observado o art. 949 do Código de Processo Civil”.
+
+    6. Ainda, em sessão virtual de 19.3.2021 a 26.3.2021, o STF finalizou o julgamento do RE 635.546, paradigma do Tema 383 da repercussão geral, fixando a seguinte tese: a “equiparação de remuneração entre empregados da empresa tomadora de serviços e empregados da empresa contratada (terceirizada) fere o princípio da livre iniciativa, por se tratarem de agentes econômicos distintos, que não podem estar sujeitos a decisões empresariais que não são suas”.
+
+    7.  No caso dos autos, faço breve análise da tramitação processual anterior à decisão reclamada. Em sede de recurso ordinário, o Tribunal Regional do Trabalho da 3ª Região confirmou a sentença que declarou a ilicitude da terceirização de mão de obra firmada entre a prestadora e tomadora, pois os serviços desenvolvidos pela autora se inseriam na atividade-fim. Confira-se:
+
+    TERCEIRIZAÇÃO ILÍCITA - ATENDIMENTO A CLIENTES E COMERCIALIZAÇÃO DE PRODUTOS DO BANCO - ATIVIDADE BANCÁRIA FINALÍSTlCA - VÍNCULO DIRETO COM TOMADOR DE SERVIÇOS. A Autora, no desempenho de atividades relacionadas ao atendimento a clientes e comercialização de produtos do Banco, atuava em segmento bancário finalístico, atinente à consecução dos interesses econômicos do empreendimento. Afigura-se, pois, ilícita a terceirização havida, o que atrai a formação do vínculo de emprego com a instituição financeira, pois somente são passíveis de terceirização as atividades-meio, acessórias, que não estejam diretamente ligadas ao produto final do empreendimento (art. 9º da CLT e itens I e III da Súmula n. 331 do TST).
+
+    8. Na sequência, após recurso de revista e agravo de instrumento, o TST negou provimento ao agravo em agravo de instrumento em recurso se revista, com base no art. 896, § 1º-A, I e III, da CLT, constituindo esta a decisão reclamada. Portanto, foi mantida, ao final, a conclusão do recurso ordinário acerca da ilicitude da terceirização de atividade-fim.
+
+    9. A posição adotada pelo órgão reclamado impede a aplicação das teses firmadas nos Temas 383, 725 e 739, frustrando a autoridade de precedentes desta Corte e usurpando, por via transversa, sua competência. No julgamento da Rcl 36.391 (Red. p/o acordão o Min Dias Toffoli), a Primeira Turma, por maioria, deu provimento ao agravo e julgou procedente a reclamação, cassando a decisão mediante a qual o Tribunal Superior do Trabalho negou admissibilidade ao recurso extraordinário com fundamento no Tema 181 da Repercussão Geral e determinando a observância do que foi decidido pelo Supremo Tribunal Federal no Tema 383 da Repercussão Geral.
+
+    10. Prevaleceu o voto do Ministro Dias Toffoli, no qual se assentou, quanto ao cabimento da reclamação, que, “nos processos em que se debata temática submetida à sistemática da repercussão geral pelo STF, o formalismo do art. 896, § 1º-A, I, da CLT deve ser afastado, tendo o TST o dever de se manifestar fundamentadamente sobre a aplicação da tese de repercussão geral firmada pelo Supremo Tribunal Federal, sob pena de ser caracterizado, ipso facto, desrespeito à autoridade do STF”. No mérito, reconheceu-se a afronta à tese fixada no Tema 383-RG, tendo em conta que, no processo de origem, houve “a decretação da ilicitude da terceirização do serviço e a condenação solidária das empresas prestadora e tomadora de serviços, equiparando as verbas trabalhistas devidas aos empregados da primeira àquelas pagas aos empregados da segunda”. Na ocasião, acompanhei a divergência e salientei que “essa é uma questão especialmente cara à Justiça do Trabalho — e, muitas vezes, há uma certa resistência, por compreensíveis motivos, em implementá-la —, mas o fato é que há uma posição firmada pelo Plenário do Supremo Tribunal Federal”.
+
+    11. Nesse cenário, entendo que há plausibilidade nas alegações da parte reclamante, de modo que estão presentes os requisitos para concessão da medida cautelar pleiteada. Reputo igualmente presente o perigo de dano, em face da possibilidade de execução provisória do acórdão do TRT.
+
+    12. Diante do exposto, defiro o pedido liminar, para suspender os efeitos da decisão reclamada e o trâmite dos Autos nº 0010971-55.2016.5.03.0105, até o julgamento da presente reclamação.
+
+    13. Notifique-se a autoridade reclamada para (i) prestar as informações e (ii) intimar a parte beneficiária do ato reclamado acerca da presente decisão, para que, querendo, impugne o pedido, nos autos da presente reclamação.
+
+    Publique-se. Comunique-se.
+
+          Brasília, 26 de setembro de 2022.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
