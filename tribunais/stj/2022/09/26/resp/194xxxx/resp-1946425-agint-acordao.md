@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Gurgel de Faria.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado pelo SINDICATO DOS SERVIDORES DO MINISTERIO PUBLICO DO ESTADO DO MARANHAO contra a decisão, de e-STJ fls. 557/560, em que não conheci do recurso especial, com os seguintes fundamentos: a) quanto ao capítulo relacionado à legitimidade, a impossibilidade de análise de matéria constitucional em sede de recurso especial e a ausência de prequestionamento dos arts. 18 do CPC/2015 e 3º da Lei n. 8.073/1990 ; b) em relação à negativa de prestação jurisdicional, a aplicação da Súmula 284 do STF; c) quanto à violação dos arts. 319, 320, 534 e 1.001 do CPC/2015, aplicação das Súmulas 284 do STF (por ser genérica a argumentação recursal) e 7 do STJ.
+Sustenta a parte agravante, em síntese, que não incide a Súmula 284 do STF quanto à negativa de prestação jurisdicional, que a questão relacionada aos arts. 18 do CPC/2015 e 3º da Lei n. 8.073/1990 foi devidamente prequestionada, ainda que implicitamente, bem como que é desnecessária a análise de matéria fática para a verificação da violação dos arts. 18 do CPC/2015, 3º da Lei n. 8.073/1990 e 8º, III, da CF/1988.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. OMISSÃO. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. A alegação genérica de negativa de prestação jurisdicional, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (Rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (quer dizer, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos, e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno merece ser conhecido em parte.
+Com efeito, no decisum ora recorrido, o especial não foi conhecido foi conhecido, havendo os seguintes capítulos autônomos: a) quanto à legitimidade, a impossibilidade de análise de matéria constitucional em sede de recurso especial e a ausência de prequestionamento dos arts. 18 do CPC/2015 e 3º da Lei n. 8.073/1990 ; b) em relação à negativa de prestação jurisdicional, a aplicação da Súmula 284 do STF; c) quanto à violação dos arts. 319, 320, 534 e 1.001 do CPC/2015, aplicação das Súmulas 284 do STF (por ser genérica a argumentação recursal) e 7 do STJ.
+Contudo, da leitura das razões do agravo interno, observa-se que a parte agravante deixou de atacar devidamente um dos fundamentos do item "a" acima indicado, relacionado à impossibilidade de análise de matéria constitucional em sede de recurso especial. Ainda, não impugnou nenhum dos dois fundamentos relacionados ao item "c", sendo certo que as suas alegações relacionadas à não aplicação da Súmula 7 do STJ não guardam pertinência com o tema da decisão em que tal óbice foi aplicado.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, § 1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Quanto à matéria remanescente (negativa de prestação jurisdicional), o agravo não merece prosperar.
+Conforme assinalado na decisão ora agravada, esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a parte recorrente limita-se a afirmar que a Corte a quo não teria apreciado as questões ventiladas nos embargos de declaração, sem indicar em que aspectos residiriam as omissões. Tal circunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes AgInt no AREsp 1245152/PE, rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 08/10/2018; REsp 1627076/SP, rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 14/08/2018; AgInt no AREsp 1134984/MG, rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 06/03/2018; e AgInt no REsp 1720264/MG, rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 21/09/2018.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, CONHEÇO EM PARTE do agravo interno e, nessa extensão, NEGO-LHE PROVIMENTO.
+É como voto.
