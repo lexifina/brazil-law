@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Nércio Habeck contra decisão desta relatoria, assim ementada (e-STJ, fl. 445):
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PAGAMENTO PARCIAL DA DÍVIDA CONSTANTE DOS TÍTULOS. PROVA DA QUITAÇÃO INEXISTENTE. SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, o agravante repisa a ocorrência de omissões no acórdão do Tribunal de Justiça, relevantes ao julgamento da lide, no que se referem aos valores pagos por meio de depósitos na conta-corrente do agravado; e ao prequestionamento dos arts. 352, 368 e 940 do Código Civil.
+Sustenta a inaplicabilidade da Súmula n. 7/STJ, sob a alegação de que não há necessidade de revolvimento de matéria fático-probatória, e sim de nova qualificação jurídica das provas constantes dos autos.
+Impugnação às fls. 460-461 (e-STJ), com pedido de aplicação de multa, dado o caráter manifestamente protelatório do recurso, e majoração dos honorários recursais.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. APLICAÇÃO DE MULTA. NÃO CABIMENTO. RECURSO QUE NÃO SE MOSTROU MANIFESTAMENTE PROTELATÓRIO OU ABUSIVO. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. AGRAVO INTERNO. NÃO CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+2. A alteração das conclusões adotadas pela Corte de origem - quanto à falta de comprovação da quitação da dívida objeto da demanda - demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Superior Tribunal.
+3. Não houve, neste agravo interno, impugnação ao fundamento da decisão monocrática, de não prequestionamento dos demais dispositivos objeto do recurso especial, razão pela qual permanece hígido o entendimento adotado.
+4. A condenação do agravante ao pagamento da multa requerida pressupõe que o agravo interno se mostre manifestamente inadmissível ou sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, circunstâncias não demonstradas na espécie.
+5. Consoante orientação firmada pela Segunda Seção do Superior Tribunal de Justiça, "não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração" (EDcl no AgInt no AREsp 1.677.575/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 01/03/2021, DJe 04/03/2021).
+6. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+De fato, conforme asseverado na decisão agravada, a jurisprudência desta Corte é pacífica ao proclamar que, se as razões do julgado bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa forma, cabe registrar que a matéria em exame foi devidamente enfrentada pelo colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão do recorrente.
+Na mesma linha de cognição:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Violação aos artigos 489 e 1022 do CPC/15, não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tenha encontrado motivação satisfatória para dirimir o litígio. Precedentes.
+2. A conclusão a que chegou o Tribunal de origem, relativa à ocorrência de inadimplemento contratual, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência das Súmulas 5 e 7 do STJ.
+3. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.519.420/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/08/2021, DJe 02/09/2021)
+Outrossim, verifica-se que o acórdão recorrido enfrentou, de forma embasada, as questões necessárias ao deslinde da lide, tratando-se, na verdade, de pretensão de novo julgamento da matéria, conforme se observa do trecho transcrito a seguir (e-STJ, fls. 323-325):
+Os cheques exibidos pelo apelado constituem títulos executivos extrajudiciais (artigo 784 do Código de Processo Civil de 2015), revestindo-se eles das características de liquidez, certeza e exigibilidade (artigo 783 do Código de Processo Civil de 2015), o que torna viável a cobrança pela via executiva (artigo 798 do Código de Processo Civil de 2015).
+Nas razões do recurso, o apelante insiste que: a) realizou depósitos na conta corrente do apelado para pagamento dos cheques dados em garantia do negócio firmado entre as partes; b) foi ajuizada a ação de locupletamento ilícito n. 5000487- 57.2020.8.24.0027 para a cobrança de "dívidas anteriores" e; c) deve ser reconhecido o pagamento do valor de R$ 79.198,00 (setenta e nove mil, cento e noventa e oito reais), aplicando-se o disposto nos artigos 368 e 940 do Código Civil.
+Contudo, tais argumentos vieram destituídos de credibilidade e de um mínimo de prova. Afinal, os depósitos realizados na conta corrente do apelado não fazem referência aos cheques, nem mesmo correspondem às datas e aos valores constantes dos títulos (evento 1, comprovantes 5). Ademais, o apelado demonstrou que as partes matinham uma relação comercial, tendo o apelante assinado diversos documentos dando conta da aquisição de mercadorias e do pagamento por meio de cheques, o que indica a existência de outras dívidas (evento 11). E, ao contrário do que foi alegado pelo apelante, a ação de locupletamento ilícito n. 5000487- 57.2020.8.24.0027 está suportada em 3 (três) cheques diversos dos que instruem a presente demanda.
+A prova de pagamento de dívida - parcial ou total - faz-se com a inserção adequada no corpo do título que a representa, com a sua entrega ao devedor ou, ainda, excepcionalmente, com a exibição de recibo que contenha todos os requisitos do artigo 320, "caput", do Código Civil: designação do valor e da espécie da dívida quitada, do nome do devedor ou quem por este pagou, o tempo e o lugar do pagamento, com a assinatura do credor ou do seu representante.
+(..)
+Portanto, como o apelante não trouxe prova de quitação ou qualquer documento hábil do pagamento do valor constante dos cheques que instruem a presente ação, mostra-se viável a cobrança da dívida representada por títulos formalmente perfeitos. E, se houve pagamento, assim se fez ao arrepio dos artigos 320 e 901 do Código Civil de 2002.
+Nesse contexto, examinando as razões do aresto recorrido, depreende-se que as instâncias estaduais delinearam a controvérsia dentro do conjunto probatório dos autos.
+Sendo assim, para rever tal premissa, ao contrário do afirmado pelo agravante, seria imprescindível o reexame de fatos e provas dos autos, providência vedada no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+Além disso, observa-se que, neste agravo interno, o insurgente defende apenas a não incidência da Súmula 7/STJ. Logo, permanece hígida a decisão no tocante à ausência de prequestionamento, que obstou o conhecimento do recurso especial com relação aos demais dispositivos tidos por ofendidos.
+No que diz respeito à aplicação da multa ao agravante, não merece ser acolhido o pedido, porquanto o agravo interno não se mostra manifestamente inadmissível ou sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória.
+Por fim, em relação à possibilidade de majoração da verba honorária recursal, cumpre registrar que esta Corte Superior possui entendimento jurisprudencial firmado no sentido de considerar indevida a fixação de verba honorária recursal quando do julgamento de agravo interno ou de embargos de declaração.
+Confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. OMISSÃO QUANTO A IMPOSIÇÃO DE MULTA E A MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS CONFIGURADA. INAPLICABILIDADE DA MULTA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. JULGAMENTO DO AGRAVO INTERNO OU DOS ACLARATÓRIOS. INADMISSIBILIDADE. EMBARGOS ACOLHIDOS.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado combatido, bem como corrigir erro material.
+3. A imposição da multa, prevista no art. 1.021, § 4º, do diploma processual civil, não é automática e depende da análise do caso concreto.
+4. Consoante o entendimento firmado pela Segunda Seção do STJ, não é cabível a majoração dos honorários recursais no julgamento de agravo interno ou de embargos de declaração.
+5 . Embargos de declaração acolhidos, para sanar omissão, sem atribuição de efeitos infringentes.
+(EDcl no AgInt no AREsp 1.677.575/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/03/2021, DJe 04/03/2021).
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
