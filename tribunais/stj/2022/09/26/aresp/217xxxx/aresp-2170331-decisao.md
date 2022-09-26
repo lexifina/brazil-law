@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que, com fundamento na Súmula 7/STJ, inadmitiu o recurso especial.
+Alega a defesa que o recurso reúne condições de admissibilidade, não demandando a matéria discutida revolvimento fático-probatório, requerendo o provimento do agravo para dar provimento ao recurso especial.
+Oferecida contraminuta, o Ministério Público Federal manifestou-se pelo provimento do recurso especial.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada, devendo ser conhecido, entretanto, não comporta provimento.
+Nas razões do recurso especial, alega a defesa violação ao art. 42 da Lei 11.343/2006, pleiteando o aumento da pena-base em apenas 1/6.
+O recorrente foi condenado como incurso no art.33, caput, c/c 40, inciso VI, da Lei 11.343/2006, a 9 anos e 4 meses de reclusão, em regime fechado, mais 600 dias-multa. A condenação transitou em julgado.Interposta revisão criminal, o Tribunal de julgou o pleito improcedente.
+Entende esta Corte que, " s obre a dosimetria da reprimenda, a revisão criminal tem cabimento restrito, apenas admitida quando, após a sentença, forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante, ou na ocorrência de flagrante ilegalidade. Destarte, a revisão não pode ser utilizada como se apelação (ou recurso especial) fosse, para rediscutir, minuciosamente e à luz dos mesmos elementos probatórios, as circunstâncias que já foram valoradas no processo originário" (AgRg no REsp n. 1.977.909/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022).
+Ademais, " c om base no princípio do livre convencimento motivado, ainda que valorado um único vetor, considerada sua preponderância, o julgador poderá concluir pela necessidade de exasperação da pena-base em fração superior se considerar expressiva a quantidade da droga, sua diversidade e/ou natureza (art. 42 da Lei n. 11.343/2006)"(AgRg no HC n. 735.043/RS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 14/6/2022, DJe de 17/6/2022).
+No caso, em que pese a natureza menos gravosa da maconha,a apreensão de uma carga de 11kg (onze quilos)de maconha,autoriza a fixação da pena-base acima da fração de 1/6, no caso, pouco superior a 2/5 (2 anos e 6 meses). Além disso, consta do acórdão que "narra a denúncia, a apreensão de, aproximadamente, 172,98 g (cento e setenta e dois vírgula noventa e oito gramas) de crack, substância de natureza lesiva e alto poder viciante, circunstâncias que justificam a exasperação da pena-base" (fl. 62).
+Inexistindoeventual equívoco do juízo sentenciante ou a ocorrência de flagrante ilegalidade na dosimetria da pena, correta a conclusão do Tribunal de origem pela improcedência do pleito revisional.
+Incide, assim, a Súmula 83 do STJ, segundo a qual não se conhece do recurso especial, quando a orientação do Tribunal firmou-se no mesmo sentido da decisão recorrida.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
