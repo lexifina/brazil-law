@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática (fls. 447-450, e-STJ) que negou seguimento ao Recurso Especial, com base nas Súmulas 7 e 83 do STJ.
+O agravante sustenta, em suma (fl. 454, e-STJ):
+(..) inaplicável a Súmula 7 do STJ - o que possibilita o pleno conhecimento da matéria trazida nas razões do Agravo e do Recurso Especial.
+Nessa linha de raciocínio, importa ressaltar que não há que se falar em revolvimento de matéria fático-probatória. O que se pretendeu foi tão somente a análise da questão jurídica.
+Ademais, tanto o Recurso Especial, quanto o Agravo aforado nos autos, impugnaram especificamente todos os fundamentos utilizados pelo TJAL, de modo que se entende que não é o caso de aplicação da Súmula 284 do STF; assim como também não deve incidir a Súmula 283 do STF, nem a Súmula 182 do STJ.
+Quanto ao prequestionamento, importante considerar que o TJAL se debruçou explicitamente (ou, ao menos, implicitamente) sobre a questão ora colocada em debate perante esta egrégia Corte. Assim, também inaplicável a Súmula 282 e 356 do STF e a Súmula 211 do STJ, por estar devidamente analisada a matéria no âmbito local, muito embora de forma contrária ao pretendido pelo ente público.
+Nesse sentido, tendo o Estado de Alagoas demonstrado tais argumentos em sede de Agravo e em Recurso Especial, cumpriu adequadamente os requisitos para o seu conhecimento.
+Pleiteia a reconsideração do decisum agravado ou a submissão do Recurso à Turma julgadora.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. PROMOÇÃO POR TEMPO DE SERVIÇO. MILITAR COM MAIS DE 30 ANOS DE SERVIÇOS PRESTADOS. ART. 17 DA LEI 6.514/2004 DO ESTADO DE ALAGOAS. LEI LOCAL. SÚMULA 280/STF. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A deficiência na fundamentação de Recurso Especial que impeça a exata compreensão da controvérsia atrai, por analogia, a incidência da Súmula 284/STF.
+2. O Tribunal de Justiça do Estado de Alagoas decidiu a demanda com base no art. Art. 17 da Lei Estadual 6.514/2004 . O manejo do Recurso Especial reclama violação ao texto infraconstitucional federal, sendo defeso ao Superior Tribunal de Justiça reexaminar a aplicação de legislação local, consoante verbete Sumular 280/STF.
+3. Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Afasta-se a ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático-probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 24 de agosto de 2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+A via estreita do Recurso Especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular 284 do STF. Nessa esteira:
+AGRAVO REGIMENTAL. PROCESSO CIVIL. TAXA DE EXPEDIÇÃO. IMPORTAÇÃO. INCONSTITUCIONALIDADE DA LEI N. 2.145/33. COMPENSAÇÃO. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À PROPOSITURA DA AÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS NODAIS DO ARESTO RECORRIDO. SÚMULAS 283 E 284 DO STF. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+(..)
+3. Incide a Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), acarretando a inadmissibilidade do recurso especial, quando os motivos que embasaram a alegação de violação não guardam pertinência com o disposto no dispositivo legal indicado (Precedentes: REsp 441.800/CE, 5ª T., Rel. Min. Jorge Scartezzini, DJ 06/05/2004; AGREsp 363.511/PE, 2ª T., Rel. Min. Paulo Medina, DJ 04/11/2002).
+(..)
+7. Agravo Regimental desprovido.
+(AgRg no REsp 947.901/PR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 23/06/2009, DJe 06/08/2009).
+PROCESSO CIVIL. TRIBUTÁRIO. IR E CSSL. ART. 535 DO CPC. VIOLAÇÃO. NÃO-OCORRÊNCIA. PREJUÍZOS FISCAIS. COMPENSAÇÃO. LIMITES. LEI N. 8.981/95. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. NÃO-COMPROVAÇÃO. SÚMULA N. 83/STJ.
+1. Alegação genérica de ofensa a lei federal não é suficiente para delimitar a controvérsia, sendo necessária a especificação do dispositivo legal considerado violado (Súmula n. 284 do STF).
+(..)
+5. Recurso especial parcialmente conhecido e, nessa parte, não-provido.
+(REsp 462.204/RN, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA TURMA, julgado em 03/08/2006, DJ 18/08/2006 p. 366).
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fls. 350-352):
+A matéria devolvida a esta Corte por meio do presente recurso cinge-se à promoção de militar por tempo de serviço, com mais de 30 (trinta) anos de serviços prestados à Corporação, à patente de 1º Tenente, que já se encontra na reserva remunerada desde 16.05.2011 (BGO n.º 091 fl. 153), cuja última promoção se deu por força de decisão judicial que reconhecera a retroatividade de sua promoção ao posto de 2º Tenente em 24.12.2008, conforme Decreto n.º 22.295, de 31.08.2012 (fl. 107).
+(..)
+Sustenta o apelante, em suas razões, a improcedência da promoção requerida, pois o apelado já se encontra na reserva remunerada; a inconstitucionalidade do § 1º do art. 17 da Lei Estadual n.º 6.514/2004; e, ainda, a ausência de vagas para a promoção almejada.
+Importante observar que a norma estadual, apontada pelo ente público como violadora da norma federal, acerca dos critérios e das condições que asseguram aos oficiais e praças da ativa da Polícia Militar e do Corpo de Bombeiros Militar do Estado de Alagoas, assim preceitua:
+Art. 17. A promoção por tempo de serviço é aquela que tem por base o tempo de serviço e o tempo de permanência do militar no posto ou na graduação, obedecidas as condições previstas neste artigo.
+§ 1º O militar que conte ou venha contar 25 (vinte e cinco) ou mais anos de serviço, se do sexo feminino, e 30 (trinta) OU mais anos de serviço, se do sexo masculino, computado o tempo de efetivo serviço prestado na sua Corporação mais o tempo averbado, poderá requerer a sua promoção ao posto ou graduação imediata, independentemente de calendário de promoções e não ocupará vaga.
+§ 2º No caso de o militar ter sido promovido nas condições do parágrafo anterior, o mesmo será automaticamente agregado, ficando à disposição do órgão de pessoal da instituição a que pertence.
+§ 3º O oficial ou praça agregado nas condições do parágrafo anterior, findo o prazo de 30 (trinta) dias, será transferido ex-officio para a reserva remunerada, caso não a tenha requerido.
+§ 4º A transferência para a reserva remunerada, de que trata o §3º deste artigo, será efetivada com o mesmo subsídio do posto ou graduação do militar quando na ativa. Os inativos que estiverem enquadrados nas condições do parágrafo 1º deste artigo, que recebem subsídio equivalente ao posto ou graduação imediatamente superior, serão promovidos automaticamente, independente de requerimento.
+§ 5º (..) § 6º (..) § 7º O militar para gozar do benefício da promoção por tempo de serviço não precisará estar relacionado em Quadro de Acesso, mas deverá contar no mínimo com 2 (dois) anos no posto ou graduação e não estar respondendo a Conselho de Disciplina ou Conselho de Justificação. (Original sem grifos)
+(..)
+No caso dos autos, observa-se, na fl. 105, que o militar ingressou na corporação em 1982, sendo promovido por merecimento à patente de 2º Tenente somente em 2012, por força de decisão judicial, a qual reconheceu a retroatividade de sua promoção a 24.12.2008, conforme Decreto n.º 22.295, de 31.08.2012 (fl. 107).
+Necessário consignar, ab initio, que não há que se falar em prescrição/decadência, pois de acordo com os documentos constantes nos autos o apelado fora transferido para reserva remunerada em 16.05.2011 (BGO n.º 091 fl. 153) e a ação fora ajuizada em 14.02.2013, não havendo o transcurso de 5 (cinco) anos, o que culminaria na prescrição de fundo de direito.
+O cerne da controvérsia resume-se, assim, em apreciar se o recorrido possui direito à promoção por tempo de serviço à graduação de 1º Tenente, nos termos preconizados no art. 17, § 1º, da Lei Estadual n.º 6.514/04, o qual transcrevo mais uma vez:
+Art. 17. A promoção por tempo de serviço é aquela que tem por base o tempo de serviço e o tempo de permanência do militar no posto ou na graduação, obedecidas as condições previstas neste artigo.
+§ 1º O militar que conte ou venha contar 25 (vinte e cinco) ou mais anos de serviço, se do sexo feminino, e 30 (trinta) OU mais anos de serviço, se do sexo masculino, computado o tempo de efetivo serviço prestado na sua Corporação mais o tempo averbado, poderá requerer a sua promoção ao posto ou graduação imediata, independentemente de calendário de promoções e não ocupará vaga.
+§ 2º No caso de o militar ter sido promovido nas condições do parágrafo anterior, o mesmo será automaticamente agregado, ficando à disposição do órgão de pessoal da instituição a que pertence.
+§ 3º O oficial ou praça agregado nas condições do parágrafo anterior, findo o prazo de 30 (trinta) dias, será transferido ex-officio para a reserva remunerada, caso não a tenha requerido.
+§ 4º A transferência para a reserva remunerada, de que trata o §3º deste artigo, será efetivada com o mesmo subsídio do posto ou graduação do militar quando na ativa. Os inativos que estiverem enquadrados nas condições do parágrafo 1º deste artigo, que recebem subsídio equivalente ao posto ou graduação imediatamente superior, serão promovidos automaticamente, independente de requerimento.
+§ 5º (..) § 6º (..) § 7º O militar para gozar do benefício da promoção por tempo de serviço não precisará estar relacionado em Quadro de Acesso, mas deverá contar no mínimo com 2 (dois) anos no posto ou graduação e não estar respondendo a Conselho de Disciplina ou Conselho de Justificação.
+Da leitura do preceptivo legal acima colacionado, extrai-se que, para a obtenção da promoção requerida, faz-se necessária a reunião de diversos requisitos pelo militar, entre eles o interstício temporal de 2 (dois) anos no posto ou graduação, o que, no caso, resta deveras comprovado, já que a sua última promoção se deu por força judicial, com reconhecimento de retroatividade (o que neste momento não comporta mais discussão) a 24.12.2008, tendo o militar sido transferido para a reserva remunerada em 16.05.2011, razão pela qual se conclui pela possibilidade de promoção.
+Interpretando o § 1º do art. 17 da Lei n.º 6.514/04 de forma sistemática, em função dos demais parágrafos do mesmo artigo, vê-se que a promoção por tempo de serviço, que foi a concedida por meio da sentença recorrida, não tem a natureza de uma promoção comum, onde se busca estritamente a ascensão na hierarquia, mas, sim, de uma gratificação pessoal em razão da consequente transferência para a reserva remunerada, o que corresponde à aposentadoria para o servidor civil.
+Interpretando o §1º, do art. 17, da Lei nº 6.514/04 de forma sistemática, em função dos demais parágrafos do mesmo artigo, vê-se que a promoção por tempo de serviço, que foi a concedida por meio da sentença recorrida, não tem a natureza de uma promoção comum, onde se busca estritamente a ascensão na hierarquia, mas sim de uma gratificação pessoal em razão da consequente transferência para a reserva remunerada, o que corresponde à aposentadoria para o servidor civil.
+Nesse ponto, destaco que não é permitido ao administrador público fazer uso da discricionariedade do ato administrativo, mormente quanto ao mérito, como carta branca para a prática de atos que prejudiquem a esfera individual do administrado, sobretudo com o condão de interferir em direito garantido por lei e que repercute diretamente na previdência do militar, causando afronta direta aos princípios da moralidade e da razoabilidade.
+Em situações como essas, pode o Poder Judiciário ingressar no mérito do ato administrativo e analisar a observância aos princípios mencionados.
+Nota-se que a instância de origem decidiu a questão com base no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Afasta-se a ideia de simples valoração da prova, concluindo tratar-se de pura análise do conteúdo fático-probatório dos autos, o que, como é cediço, é vedado na estreita via do Recurso Especial, por força da Súmula 7 do STJ, conforme já acima mencionado.
+Com relação à alegada violação da legislação estadual, registre-se que a sua análise é obstada em Recurso Especial, por analogia, nos termos da Súmula 280/STF: "Por ofensa a direito local não cabe Recurso Extraordinário."
+Nesse sentido:
+PROCESSUAL CIVIL. PREQUESTIONAMENTO. AUSÊNCIA. APLICAÇÃO DAS SÚMULAS 282 E 356/STF. OFENSA AO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO MANIFESTA. AUSÊNCIA. CONCLUSÃO LÓGICO-SISTEMÁTICA DO DECISUM. PRECEDENTES. INADEQUAÇÃO DA VIA ELEITA. LEI LOCAL. SÚMULA 280/STF. AGRAVO INTERNO DESPROVIDO.
+(..)
+IV - O manejo do recurso especial reclama violação ao texto infraconstitucional federal, sendo defeso ao Superior Tribunal de Justiça reexaminar a aplicação de legislação local, a teor do verbete Sumular 280/STF.
+V- Agravo interno desprovido.
+(AgRg no Ag 715.367/SP, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 21/02/2006, DJ 13/03/2006 p. 361).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
