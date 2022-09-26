@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de conflito negativo de competência estabelecido entre o Juízo Federal da 2ª Vara Cível e Criminal de Patos de Minas (SJMG) e o Juízo de Direito da Vara de Execuções Penais e Inquéritos Policiais de Patrocínio (MG), nos autos de inquérito policial instaurado para apurar a suposta prática do crime de roubo qualificado ocorrido em prejuízo à Agência dos Correios no Município de Guimarânia (MG).
+O Juízo estadual declinou a competência ao Juízo Federal por entender que, não obstante o baixo valor do possível prejuízo à Empresa Brasileira dos Correios e Telégrafos (ECT),compete à Justiça Federal decidir sobre a competência para processo e julgamento do feito, nos termos das Súmulas n. 122 e 150do STJ.
+O Juízo Federal, discordando, suscitou o conflitoao fundamento de que o delito praticado resultou emdano ínfimo aos Correios e de que a maior parte do prejuízo foi causadaà sociedade de economia mista, Banco do Brasil, não justificando a mantença do feito noJuízo Federal.
+O Ministério Público Federal opinou pelo conhecimento do conflito com a declaração de competência da Justiça estadual.
+É o relatório.Decido.
+O presente conflito negativo de competência comporta conhecimento, pois refere-se a incidente estabelecido entre Juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal, razão pela qual passo a seu exame.
+O Superior Tribunal de Justiça tem o entendimento de que em crimes praticados contra agências dos Correios, a competência federal é fixada quando existente efetivo prejuízo à empresa pública.
+No caso dos autos, o dano aos correios (R$ 198,72) é ínfimo diante doprejuízo do Banco do Brasil (R$ 64.266,60), em razão da atividade de banco postal operacionalizada na agência.
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL EM CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERAL E JUSTIÇA ESTADUAL. AÇÃO PENAL. ROUBO PERPETRADO CONTRA AGÊNCIA DOS CORREIOS. PREJUÍZO DA EMPRESA PÚBLICA ÍNFIMO PERANTE O DO CORRESPONDENTE BANCÁRIO (BANCO POSTAL), DE RESPONSABILIDADE DO BANCO DO BRASIL S/A (SOCIEDADE DE ECONOMIA MISTA). COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES DA TERCEIRA SEÇÃO.
+1. Em crimes perpetrados em detrimento de agência dos Correios, a circunstância determinante, para fins de fixação da competência federal, é a existência de prejuízo efetivo à empresa pública federal.
+2. No caso do autos, há informação de que o dano suportado pela empresa pública federal (Correios) foi ínfimo perante o prejuízo do Banco do Brasil S/A (sociedade de economia mista), em razão da atividade (banco postal) operacionalizada naquela agência, circunstância que rechaça a competência da Justiça Federal.
+3. Agravo regimental improvido.(AgRg no CC n. 164.656/MG, relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 29/4/2019.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. ROUBO MAJORADO PRATICADO EM AGÊNCIAS DOS CORREIOS. BANCO POSTAL. INEXISTÊNCIA DE PREJUÍZO À EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS. COMPETÊNCIA DA JUSTIÇA ESTADUAL. COMPETENTE O JUÍZO SUSCITADO.
+1. Firmou-se o entendimento nesta Corte Superior de Justiça que, nos casos de delitos praticados em detrimento da Empresa Brasileira dos Correios e Telégrafos-EBCT, a competência será estadual quando o crime for perpetrado contra agência franqueada e houver ocasionado efetivo prejuízo unicamente a bens jurídicos privados. Por outro lado, incidirá o art. 109, IV, da Constituição Federal, nos casos em que a ofensa for direta à EBCT, ou seja, ao serviço-fim dos correios, os serviços postais, atraindo, pois, a competência federal. No caso em apreço, o dano causado à Empresa Brasileira de Correios e Telégrafos fora estimado em R$ 1,15 e R$ 32,04, sendo que o prejuízo sofrido pelo Banco do Brasil fora estimado em R$ 9.000,00. Dessa forma, diante do prejuízo ínfimo à empresa pública federal (EBCT), com dano quase que exclusivo ao Banco do Brasil, bem como em razão desta instituição financeira se obrigar, por contrato (Banco Postal), a ressarcir os valores subtraídos da agência do correio, que se enquadra como agência franqueada, é de se reconhecer a competência da Justiça Estadual para o julgamento do feito.
+2. Conflito de competência conhecido para declarar competente o Juízo de Direito da 1ª Vara de Tóxicos de Belo Horizonte/MG, o suscitado.(CC n. 155.448/MG, relator Ministro Joel Ilan Paciornik, Terceira Seção, DJe de 2/3/2018.)
+Ante o exposto, conheço do conflito para declarar a competência do Juízo de Direito da Vara de Execuções Penais e Inquéritos Policiais de Patrocínio (MG).
+Dê-se ciência aos Juízos suscitante e suscitado.
+Nada mais havendo a decidir, arquivem-se os autos.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. JUÍZOS VINCULADOS A TRIBUNAIS DIVERSOS. AUSÊNCIA DE LESÃO A BENS, SERVIÇOS OU INTERESSE DA UNIÃO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL.
+1. O Superior Tribunal de Justiça é competente para o julgamento de conflito entre juízos vinculados a tribunais diversos, nos termos do art. 105, I, d, da Constituição Federal.
+2. Nos crimespraticados contra agências daEmpresa Brasileira dos Correios e Telégrafos (ECT), a competência federal é fixada quando existente efetivo prejuízo para aempresa pública.
+3. Conflito conhecidocom reconhecimento da competência do Juízo de Direito da Vara de Execuções Penais e Inquéritos Policiais de Patrocínio (MG).
