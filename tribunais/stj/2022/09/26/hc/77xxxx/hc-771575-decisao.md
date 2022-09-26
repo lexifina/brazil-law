@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra decisão que indeferiu a liminar no writ de origem.
+Narram os autos que o paciente foi preso em flagrante, em 12/9/2022, pela supostaprática dodelitoprevistonoartigo180, caput,do Código Penal. Durante a audiência de custódia, considerando-se a existência de vários procedimentos penais pretéritos contra o flagrado, foi concedida a liberdade provisória, mediantefiança fixada em R$ 6.060,00.
+Alega o impetrante que o paciente, em razão de sua pobreza, não possui condições financeiras para arcar com o pagamento do valor da fiança,sendo caso de aplicação do disposto no art. 350 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus, para que seja posto o paciente em liberdade provisória com a dispensa do recolhimento da fiança, expedindo-se de imediato o alvará de soltura.
+Nos termos da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+Posto isso, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A liminar do writ impetrado na origem foi indeferida pelos seguintes fundamentos (fl. 40):
+A liminar em habeas corpus não possui previsão legal, tratando-se de criação jurisprudencial que visa minorar os efeitos de eventual ilegalidade que se revele de pronto na impetração.
+Em um juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência, ou seja, in casu, ao menos em juízo perfunctório, não é possível identificar de plano o constrangimento ilegal aventado ou, ainda, a presença do fumus boni iuris e do periculum in mora, elementos autorizadores para a concessão da liminar pretendida.
+Assim, não obstante os fundamentos apresentados pela defesa, mostra-se imprescindível uma análise mais aprofundada dos elementos de convicção constantes dos autos, sem o que não há como se verificar o alegado constrangimento ilegal, uma vez que a análise da questão excede os limites cognitivos do pedido liminar, pois demanda incursão no mérito do writ e possuiu natureza satisfativa, devendo ser realizada em momento oportuno, após a verificação mais detalhada dos dados constantes do processo.
+Ex positis, INDEFIRO a liminar pleiteada.
+Requisite-se informações da autoridade coatora, em especial sobre a alegação de ausência de condições financeiras do indiciado para pagamento da fiança.
+Durante a audiência de custódia, foi concedida a liberdade provisória ao paciente, mediante as seguintes condições(fl. 37):
+E embora não vislumbre nulidades no auto de prisão em flagrante, e observando a existência de vários procedimentos penais pretéritos em face do flagrado, abaixo declinados, registro razoável a fiança arbitrada pela autoridade policial, que fica desde já ratificada.
+ ..
+Assim, concedo a liberdade provisória do flagrado, mediante o pagamento da fiança arbitrada pela autoridade policial.
+Ficará ele ainda obrigado a comparecer perante a autoridade, todas as vezes que for intimado para atos do inquérito e da instrução criminal e para o julgamento, sob pena de a fiança ser havida como quebrada (art. 327 do Código de Processo Penal, bem como não poderá, sob pena de quebramento da fiança, mudar de residência, sem prévia permissão da autoridade processante, ou ausentar-se por mais de 8 (oito) dias de sua residência, sem comunicar àquela autoridade o lugar onde será encontrado (art. 328).
+Havendo comprovação do recolhimento da fiança, e independente de novo despacho, expeça-se com urgência alvará de soltura.
+Como se vê, o Juízo de primeiro grau reconheceunão estarempresentes os requisitos autorizadores da prisão preventiva, concedendo ao ora pacientea liberdade provisória medianteo pagamento de R$ 6.060,00 (seis mil e sessenta reais) atítulo de fiança, quantia não paga até omomento.
+No caso, não se vislumbra, neste momento inicial, a alegada impossibilidade de dar efetividade à determinação de recolhimento da fiança, uma vez que o paciente foi preso em flagrante em 12/9/22, período curto para a presunção de impossibilidade de pagamento da fiança. A propósito do tema, confiram-se os seguintes precedentes: HC 349233/SP , Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, DJe 01/09/2016; HC 385337/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, DJe 11/05/2017; HC 370812/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, DJe 16/03/2017.
+Deste modo, não se verificailegalidade flagrante a justificar a mitigação do enunciado da Súmula n. 691 do STF, devendo a matéria melhor ser apreciada no julgamento de mérito do writ impetrado na origem.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intime-se.
