@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/09/2022 a 26/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por THAIS ANDREA DIB DE OLIVEIRA CABRAL DE VASCONCELLOS, contra decisão monocrática que conheceu do agravo para conhecer parcialmente deseurecurso especial e, nessa extensão, negar-lhe provimento.
+Ação:indenizatória ajuizada por THAIS ANDREA DIB DE OLIVEIRA CABRAL DE VASCONCELLOS em face de AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A, FELIVEL-DISTRIBUIDORA DE VEICULOS LTDA, MARCIA REGINA FRATI na qual requer compensação por danos morais advindos de fraude realizada no contrato de financiamento operada por terceiros.
+Sentença:julgou procedente o pedido.
+Acórdão:deu provimento à apelação interpostapor THAIS ANDREA DIB DE OLIVEIRA CABRAL DE VASCONCELLOS e deu parcial provimento à apelação interposta por AYMORÉ - CRÉDITO, FINANCIAMENTO E INVESTIMENTO S/A e FELIVEL DISTRIBUIDORA DE VEÍCULOS LTDA, nos termos da seguinte ementa:
+"APELAÇÕES AÇÃO INDENIZATÓRIA Compra e venda de bem móvel Autora que teve seu nome usado pela ré pessoa física para aquisição de veículo junto às corrés (compra mediante financiamento) Sentença de procedência Relação de consumo verificada Rés apelantes fornecedoras e autora consumidor por equiparação Art. 17 do CDC FALHA NA PRESTAÇÃO DE SERVIÇO É dever do fornecedor zelar pelo bom funcionamento dos serviços que disponibiliza ao mercado, adotando todas as medidas cabíveis para impedir falhas ou condutas lesivas que possam acarretar danos ao consumidor, primando pelos princípios da segurança e boa-fé que regem as relações de consumo Incumbia às fornecedoras agir com a diligência necessária para evitar fraudes Risco típico da atividade desempenhada Loja vendedora e financeira que integraram a cadeia de fornecimento do produto Contratos coligados, firmados no mesmo contexto negocial, o que implica responsabilidade solidária dos agentes integrantes da cadeia de consumo DANOS MORAIS Configuração Falha nos serviços d as rés que fez com que a autora fosse indevidamente vinculada a veículo e a dívida de financiamento relativa à sua aquisição, acarretando-lhe inscrição no cadastro de inadimplentes e demanda de busca e apreensão pelo inadimplemento do financiamento feito em seu nome "QUANTUM" INDENIZATÓRIO Redução Indenização razoável e adequada à compensação dos danos suportados de forma justa e moderada, atendendo às particularidades do caso concreto sem que sepossa falar em enriquecimento ilícito da parte TERMO INICIAL DE INCIDÊNCIA DOS JUROS DE MORA Em se tratando de responsabilidade extracontratual, os juros de mora devem incidir a partir do evento danoso Inteligência do art. 398 do Código Civil e da Súmula 54 do STJ Recurso da autora provido e parcialmente providos os das rés." (fl. 550/551, e-STJ).
+Decisão monocrática:conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, com base nos seguintes fundamentos:
+i)incidência daSúmula 7do STJ relativamente ao pedido de revisão do valor da compensação por danos morais; e
+ii) aplicação da Súmula 568/STJ no tocanteao cabimento da majoração da verba honorária desde que fixada na origem do feito em que interposto o recurso.
+Agravo interno:alega, em síntese, apossibilidade de aumento do valor arbitradoa título de danos morais, bem como da majoração doshonorários sucumbenciais, a ensejar a inaplicabilidade das Súmulas 7/STJ e a 568/STJ.
+Pugna, por fim, pelo conhecimento e provimento do agravo interno e pela reforma da decisão agravada.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO INDENIZATÓRIA.ALTERAÇÃO DO VALOR FIXADO. MAJORAÇÃO.DANO MORAL. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. MAJORAÇÃO DA VERBA HONORÁRIA SUCUMBENCIAL. DESCABIMENTO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Açãoindenizatória.
+2. A revisão da compensação por danos morais só é viável em recursoespecial quando o valor fixado for exorbitante ou ínfimo. Salvo essashipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+3.É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso. Precedente da 2ª Seção.
+4.Agravo internono agravo em recurso especial não provido.
+VOTO
+A decisão agravadaconheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, com base nos seguintes fundamentos:i) incidência da Súmula 7 do STJ relativamente ao pedido de revisão do valor da compensação por danos morais; eii) aplicação da Súmula 568/STJ no tocante ao cabimento da majoração da verba honorária desde que fixada na origem do feito em que interposto o recurso.
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+- Julgamento:aplicação do CPC/2015.
+1. Do pedido de revisão do valor da compensação por danosmorais
+Da renovada análise dos autos, constata-se queo valor da compensação por danosmorais foifixadana sentença em R$ 30.000,00 e reduzida em 2º grau de jurisdição em R$ 12.000,00, emobservância ao binômio reparação/sanção,de tal modo que possa servir dealívio aos dessabores sofridos pelos ofendidos e de reprimenda ao agir doofensor, com base no acervo fático-probatório dos autos.
+Alterar o decidido no acórdão impugnado quanto à irrisoriedade do valorfixado a título de compensação por danos morais, exige o reexame de fatose provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+2. Da Súmula 568/STJ
+Confirma-se a assertiva no sentido de queo TJ/SP aplicou corretamente a jurisprudência do STJ ao concluir pelo não cabimento da majoração da verba honorária, porquanto é assenteque édevida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso (AgInt nos EREsp 1.539.725/DF, 2ª Seção, DJe de 19/10/2017).
+Nesse sentido, o recurso especial não merece provimento, com base na Súmula 568/STJ.
+Logo, a decisão agravada não merece reforma.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
