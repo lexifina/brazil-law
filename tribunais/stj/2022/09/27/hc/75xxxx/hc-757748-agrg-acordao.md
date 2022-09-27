@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI (RELATOR):
+JONAS DE FRANÇA GIL agrava da decisão de fls. 1.079-1.082,em que deneguei a ordem e, por conseguinte, mantive inalterada a reprimenda de17 anos, 10 meses e 22 dias de reclusão, em regime inicial fechado, mais multa, como incurso nos arts. 33, caput, e §1º, c/c o art. 40, I, ambos da Lei n. 11.343/2006, em concurso formal e 297 do Código Penal, em concurso material com os demais delitos.
+O agravante reitera sua compreensão de que o aumento da pena-base operado foi desproporcional.
+Requer a reconsideração da decisão agravada, para que seja concedida a ordem e reduzida a pena-base.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. EXASPERAÇÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O aumento da pena-base operado não é desproporcional, pois foi idoneamente motivado, em especial pela quantidade de drogas apreendidas- 107,85 kg de maconha-e leva em conta, inclusive, o máximo e o mínimo cominados para o crime de tráfico de drogas - 5 a 15 anos.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI (RELATOR):
+Em que pesem os argumentos aduzidos pela defesa, a decisão recorrida deve ser mantida por seus próprios fundamentos.
+No caso, a instância ordinária majorou a reprimenda do réu em 3 anos e 6 meses por considerar desfavoráveis os antecedentes, a conduta social, a personalidade e a quantidade de drogas apreendidas.
+Este Tribunal Superior é firme em garantir a discricionariedade do julgador, sem a fixação de critério aritmético, na escolha da sanção a ser estabelecida na primeira etapa da dosimetria. Assim, o magistrado, dentro do seu livre convencimento motivado e de acordo com as peculiaridades do caso concreto,decidirá o quantum de exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+Nesse sentido: "embora não haja vinculação a critérios puramente matemáticos - como, por exemplo, os de 1/8 (um oitavo) ou 1/6 (um sexto) por vezes sugeridos pela doutrina -, os princípios da individualização da pena, da proporcionalidade, do dever de motivação das decisões judiciais, da prestação de contas (accountability) e da isonomia exigem que o Julgador, a fim de balizar os limites de sua discricionariedade, realize um juízo de coerência entre (a) o número de circunstâncias judiciais concretamente avaliadas como negativas; (b) o intervalo de pena abstratamente previsto para o crime; e (c) o quantum de pena que costuma ser aplicado pela jurisprudência em casos parecidos" (AgRg no HC n. 529.765/SP, Rel. Ministro Antonio Saldanha Palheiro, Rel. p/ Acórdão Ministra Laurita Vaz, 6ª T., DJe 2/9/2020, grifei).
+Além disso, destaco que, segundo entendimento consolidado no Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015), situação que, no entanto, não ficou caracterizada nos autos.
+Portanto, uma vez que a dosimetria da pena configura matéria restrita ao âmbito de certa discricionariedade do magistrado e é regulada pelos critérios da razoabilidade e da proporcionalidade, entendo que deve ser mantida inalterada a pena-base aplicada ao paciente, sobretudo porque não houve desproporcionalidade no aumento procedido na primeira fase da dosimetria, cujo preceito secundário prevê uma reprimenda de 5 a 15 anos de reclusão, em razão das peculiaridades do caso concreto, ainda que considerado, conforme esclareceu a Corte estadual, oaumento de 6 meses para a personalidade e a conduta social e o restante para os maus antecedentes e a quantidade de drogas. Esclareço que em poder do paciente foram apreendidos 107,85 kg de maconha.
+Nesse sentido:
+ .. .
+1. "A individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade" (RHC 135.298/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/04/2021, DJe 26/04/2021). .. 5. Agravo regimental improvido.
+(AgRg no AREsp n. 1.885.196/TO, Rel. Ministro Olindo Menezes - Desembargador Convocado do TRF 1ª Região, 6ª T., DJe 17/12/2021)
+Assim, verifico que não há elementos capazes de modificar o posicionamento firmado na decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
