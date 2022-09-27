@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão, assim ementada (fl.714):
+PROCESSUAL CIVIL E ADMINISTRATIVO. PRESCRIÇÃO. REPETIÇÃO DE INDÉBITO. FORNECIMENTO DE ÁGUA. PRAZO DECENAL. PRECEDENTE. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. RECURSO PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+A agravante alega, de início, a afetação da matéria à sistemática dos recursos repetitivos (REsp1.937.887/RJ eREsp 1.937.891/RJ)
+Comimpugnação (fls. 733 a 737).
+É o relatório.Passo a decidir.
+Verifico que o deslinde da presente controvérsia diz com a discussão detema afetado ao rito dos recursos especiais repetitivos, relativo à análise da Tema 414 desta Corte, afetada ao rito dos recursos especiais repetitivos, em sessão da Primeira Seção de 16.11.2021, da relatoria do Ministro Convocado Manoel Erhardt, com determinação da suspensão dos recursos especiais ou agravos em recursos especiais em segunda instância e/ou nesta Corte Superior:
+ADMINISTRATIVO. RECURSO ESPECIAL. REPRESENTATIVO DE CONTROVÉRSIA.DEFINIÇÃO DA FORMA DE CÁLCULO DA TARIFA PROGRESSIVA DE FORNECIMENTO DE ÁGUA E DE ESGOTO NAS UNIDADES COMPOSTAS POR VÁRIAS ECONOMIAS E HIDRÔMETRO ÚNICO. DEFINIÇÃO DA JURIDICIDADE DO CRITÉRIO HÍBRIDO.REVISÃO DO TEMA 414/STJ. ATO DE AFETAÇÃO AO RITO DOS REPETITIVOS PELO COLEGIADO DA PRIMEIRA SEÇÃO DO STJ. OBSERVÂNCIA DO ART. 1.036, § 5º, DO CPC/2015 E DOS ARTS. 256-E, II, E 256-I DO RISTJ. SUSPENSÃO DOS FEITOS EM SEGUNDO GRAU DE JURISDIÇÃO.
+1. Delimitação da tese: definir a forma de cálculo da tarifa progressiva dos serviços de fornecimento de água e de esgoto sanitário em unidades compostas por várias economias e hidrômetro único, após a aferição do consumo.
+2. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (arts. 256-E, II, e 256-I do RISTJ).
+(ProAfR no REsp 1937891/RJ, Rel. Min. MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA SEÇÃO,DJe 29/11/2021).
+Assim, a afetação de recurso especial como representativo da controvérsia demanda ao Tribunal de origem a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem acerca da questão delimitada e tramitem no território nacional. Publicado o acórdão do recurso especial repetitivo, os recursos suspensos devem ser analisados na forma prevista no art. 1.040 do Código de Processo Civil.
+Nesse contexto, esta Corte adota a orientação no sentido de se determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia, em observância ao princípio da economia processual e à própria finalidade da sistemática dos repetitivos, consoante acórdão assim ementado:
+PROCESSUAL CIVIL. ATUALIZAÇÃO MONETÁRIA DAS CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA. ARTIGO 1o-F DA LEI 9.494/1997. LEI 11.960/2009. MATÉRIA AFETADA À PRIMEIRA SEÇÃO DO STJ PELO RITO DO ARTIGO 543-C CPC. SOBRESTAMENTO. NECESSIDADE.
+1. Recurso especial que contém discussão a respeito da forma de atualização monetária das condenações impostas à Fazenda Pública, nos termos do artigo 1o-F da Lei 9.494/1997, com as alterações previstas na Lei 11.960/2009.
+2. Ocorre que a matéria foi afetada à Primeira Seção do STJ pelo rito do artigo 543-C do CPC/73 (REsp 1.495.144/RS, 1.495.146/MG e 1.492.221/PR, Rel. Ministro Mauro Campbell Marques, DJe 11/11/2014), bem assim é objeto do RE 870.947/SE, Rel. Ministro Luiz Fux, no qual foi reconhecida a existência de repercussão geral.
+3. Assim, mostra-se conveniente, em observância ao princípio da economia processual e à própria finalidade da Lei 11.672/2008, determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão a ser proferido nos autos do recurso representativo da controvérsia.
+3. Embargos de declaração acolhidos, com efeitos modificativos.
+(EDcl nos EDcl no AREsp 575.964/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/06/2016, DJe 24/06/2016).
+Ante o exposto, dou parcial provimento ao agravo interno e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA DISCUTIDA NOS AUTOSSUBMETIDAÀ SISTEMÁTICA DOS RECURSOS REPETITIVOS. REVISÃO DO TEMA 414/STJ. DEVOLUÇÃO E SOBRESTAMENTO NA ORIGEM.
