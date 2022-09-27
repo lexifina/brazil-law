@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 21/09/2022 a 27/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+EMENTA
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CONSTITUCIONAL. ATO COATOR. DECISÃO JUDICIAL. CABIMENTO RESTRITO. NENHUMA EXCEPCIONALIDADE. DECISÃO QUE NEGA SEGUIMENTO A RECURSO EXTRAORDINÁRIO INTERPOSTO DE DECISÃO MONOCRÁTICA DO STJ. SÚMULA 281/STF. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA. AGRAVO DESPROVIDO.
+1. Salvo hipóteses excepcionais, é incabível mandado de segurança contra ato judicial passível de recurso ou correição (Súmula 267/STF).
+2. Não há, no caso, excepcionalidade apta a ensejar o cabimento de mandado de segurança, uma vez que o ato judicial impugnado, que negou seguimento a recurso extraordinário interposto de decisão monocrática do STJ, encontra-se devidamente fundamentado e embasado em normas processuais vigentes e na jurisprudência desta Corte.
+3. Agravo interno desprovido.
+RELATÓRIO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Cuida-se de agravo interno interposto contra a decisão de fls. 148/152, desta relatoria, que indeferiu liminarmente o mandado de segurança da parte.
+Em suas razões, o agravante alega que "não há que se falar que não foi esgotada a instância recursal para conhecimento e provimento da ação mandamental conquanto nos autos principais foram ajuizados embargos de declaração com pedido de efeito modificativo o que pelo princípio da fungibilidade faz as vezes de agravo interno conforme julgado ut citado" (e-STJ, fl. 165).
+Argumenta, outrossim, que "o fundamento legal de que o recorrente de Extraordinário e Especial não apontou a existência de feriado no ato de interposição do recurso; trata-se de r. decisão absolutamente contrária à prova dos autos ou de qualquer forma, não guarda relação e é inaplicável na espécie, uma vez que o Presidente do e. Tribunal recorrido "a quo" após o exame de admissibilidade recursal aos Tribunais Superiores prolatou despacho de "subam os autos" (e-STJ, fl. 166).
+Relativamente à decisão impugnada, afirma "que não se trata de esgotamento de instância recursal; mas sim, era o caso de aplicação do princípio da fungibilidade recursal uma vez que este agravante esgotou a instância recursal. Quem não aplicou a fungibilidade recursal foi a própria autoridade coatora com o fim deliberado de impedir o acesso à justiça sob o erro de direito de incidir no caso a Súmula 281" (e-STJ, fl. 172).
+Nesses termos, "requer, liminarmente, a concessão da tutela para que seja conhecido e provido o presente AGRAVO INTERNO EM MANDADO DE SEGURANÇA, determinando ou a suspensão do feito - PET no RE nos EDcl no a do AREsp imediata processo 1991123(2021/0307632-4-17/05/2022) e ou remessa ao Supremo Tribunal Federal após serem tomas as devidas providências de praxe intimando as partes do recurso ora interposto." (e-STJ, fl. 175).
+Não foram apresentadas contrarrazões (e-STJ, fl. 181).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CONSTITUCIONAL. ATO COATOR. DECISÃO JUDICIAL. CABIMENTO RESTRITO. NENHUMA EXCEPCIONALIDADE. DECISÃO QUE NEGA SEGUIMENTO A RECURSO EXTRAORDINÁRIO INTERPOSTO DE DECISÃO MONOCRÁTICA DO STJ. SÚMULA 281/STF. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE OU TERATOLOGIA. AGRAVO DESPROVIDO.
+1. Salvo hipóteses excepcionais, é incabível mandado de segurança contra ato judicial passível de recurso ou correição (Súmula 267/STF).
+2. Não há, no caso, excepcionalidade apta a ensejar o cabimento de mandado de segurança, uma vez que o ato judicial impugnado, que negou seguimento a recurso extraordinário interposto de decisão monocrática do STJ, encontra-se devidamente fundamentado e embasado em normas processuais vigentes e na jurisprudência desta Corte.
+3. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Em que pesem os esforços empreendidos pelo agravante, não há, nas razões recursais, argumentação capaz de modificar a decisão agravada.
+O recorrente impetrou mandado de segurança em que apontou como ato coator decisão do eminente Vice-Presidente desta Corte, que não admitiu recurso extraordinário interposto de decisão monocrática proferida no AREsp 1.991.123/SP.
+Alegou, em síntese, que o ato coator seria teratológico, "uma vez que vai contra a Súmula 727 que diz: Não pode o magistrado deixar de encaminhar ao supremo tribunal federal o agravo de instrumento interposto da decisão que não admite recurso extraordinário, ainda que referente a causa instaurada no âmbito dos juizados especiais." (e-STJ, fl. 4), sustentando a existência de direito líquido e certo ao processamento do recurso extraordinário.
+Argumentou, outrossim, ser "inaplicável a Súmula 281 porque além de ser impeditiva de recurso e acesso a Justiça, recurso ordinário é próprio da justiça criminal ou em recurso ordinário constitucional o que não coaduna com a causa aqui em discussão, sendo decisão absolutamente contrária a prova dos autos" (e-STJ, fl. 4).
+Não lhe assiste razão, contudo.
+O mandado de segurança é ação constitucional voltada para a proteção de direito líquido e certo próprio do impetrante contra ato abusivo ou ilegal de autoridade pública ou de agente de pessoa jurídica no exercício de atribuições do Poder Público (CF, art. 5º, LXIX), não podendo, em regra, ser utilizado como sucedâneo recursal.
+Por essa razão, o art. 5º, II, da antiga Lei do Mandado de Segurança (Lei 1.533/51) dispunha que "não se dará mandado de segurança quando se tratar de despacho ou decisão judicial, quando haja recurso previsto nas leis processuais ou possa ser modificado por via de correição".
+Também a atual Lei do Mandado de Segurança (Lei 12.016/2009), em seu art. 5º, II, disciplina que "não se concederá mandado de segurança quando se tratar de decisão judicial da qual caiba recurso com efeito suspensivo". Além disso, a Súmula 267/STF estabelece que "não cabe mandado de segurança contra ato judicial passível de recurso ou correição".
+Fora das circunstâncias normais, entretanto, a doutrina e a jurisprudência majoritárias admitem o manejo do mandado de segurança contra ato judicial, pelo menos em relação às seguintes hipóteses excepcionais: a) decisão judicial manifestamente ilegal ou teratológica; b) decisão judicial contra a qual não caiba recurso; c) para imprimir efeito suspensivo a recurso desprovido de tal efeito; e d) quando impetrado por terceiro prejudicado por decisão judicial.
+No caso dos autos, contudo, tal como afirmado na decisão ora agravada, verifica-se que o ato judicial impugnado, consubstanciado na decisão que não admitiu recurso extraordinário interposto de decisão monocrática desta Corte, não se enquadra em nenhuma das hipóteses elencadas, sobretudo porque embasada em normas processuais e regimentais vigentes e em jurisprudência desta Corte Superior.
+Efetivamente, a decisão impugnada está fundamentada nos seguintes termos:
+"(..) Nos termos do art. 102, III, a, da Constituição Federal, compete ao Supremo Tribunal Federal o julgamento, mediante recurso extraordinário, das causas decididas em única ou última instância.
+No caso dos autos, verifica-se que o recurso extraordinário foi interposto em face de decisão monocrática proferida por integrante deste Superior Tribunal de Justiça, contra a qual seria cabível agravo interno.
+Dessa forma, ante a ausência de exaurimento das vias recursais nesta instância especial, deve ser aplicado o enunciado n. 281 da Súmula do Supremo Tribunal Federal, in verbis:
+É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.
+(..)
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não se admite o recurso extraordinário."
+Tal decisum, como se vê, não ostenta nenhuma ilegalidade ou teratologia. Ao reverso, encontra-se devidamente fundamentado e em consonância com a jurisprudência do Superior Tribunal de Justiça e do egrégio Supremo Tribunal Federal, no sentido de ser incabível recurso extraordinário contra decisão monocrática de relator, porque não esgotada a respectiva instância.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. MATÉRIA RESTRITA AO EXAME DE LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. JUÍZO DE ADMISSIBILIDADE NÃO ULTRAPASSADO. IMPOSSIBILIDADE DE APRECIAÇÃO DO MÉRITO DO RECURSO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. APELO EXTREMO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. NÃO CABIMENTO. AUSÊNCIA DE ESGOTAMENTO DE INSTÂNCIA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O acórdão recorrido restringiu-se a tratar de questão relativa a critério de admissibilidade de recurso apreciado por esta Corte Superior, a saber, a ausência de impugnação específica dos fundamentos da decisão agravada, o que atraiu a incidência da Súmula n.º 182/STJ.
+2. A questão alusiva a pressupostos de admissibilidade de recursos não possui repercussão geral, pois a matéria está restrita ao exame de legislação infraconstitucional, conforme entendimento firmado pela Suprema Corte, no RE 598.365/MG-RG, Relator Ministro Ayres Brito, DJe 26/03/2010.3. A matéria de fundo ventilada pela parte Agravante não pode ser analisada se não ultrapassado o juízo de admissibilidade da via de impugnação, o que, evidentemente, não significa negativa de prestação jurisdicional (Precedente citado: STF, AI 454.357-AgR, Relator Ministro JOAQUIM BARBOSA, Segunda Turma, DJe 02/08/2007).
+4. O recurso extraordinário foi interposto contra decisão monocrática, sem que fosse apresentado agravo regimental para promover o esgotamento da instância ordinária, sendo incabível, nesses casos, o apelo extremo, o qual é destinado ao julgamento das causas decididas em única ou última instância, a teor do art. 102, inciso III, alínea a, da Constituição da República.
+5. Agravo interno a que se nega provimento.
+(AgInt no RE no AREsp 799.486/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/08/2016, DJe 20/09/2016)
+Ademais, cuida-se de decisão recorrível, nos termos do art. 1.030, §§ 1º e 2º, do CPC/2015, não autorizando, em princípio, o manejo da ação mandamental.
+Efetivamente, tratando-se de decisão judicial passível de recurso próprio, fica evidente a utilização do mandamus como sucedâneo recursal, circunstância que, na esteira da jurisprudência desta Corte, implica a carência da ação mandamental, já que, na espécie, não há que se falar em excepcionalidade que justifica a utilização do writ. A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA - IMPETRAÇÃO CONTRA DECISÃO JUDICIAL - INEXISTÊNCIA DE TERATOLOGIA - INCIDÊNCIA DA SÚMULA 267/STF - INIDONEIDADE DA VIA MANDAMENTAL.
+1. O mandado de segurança não pode ser utilizado como sucedâneo do recurso legalmente cabível, sendo medida excepcional e extrema, admissível somente em casos de ilegalidade ou abuso de poder, por parte do prolator do ato processual impugnado.
+2. Agravo regimental não provido."
+(AgRg no RMS 47.766/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe de 1/2/2016)
+"PROCESSO CIVIL. MANDADO DE SEGURANÇA CONTRA ATO JUDICIAL PASSÍVEL DE RECURSO. AUSÊNCIA DE TERATOLOGIA NA DECISÃO IMPUGNADA. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL.
+1. Não cabe mandado de segurança contra ato judicial passível de recurso, nos termos da Súmula 267 do STF. Precedentes.
+2. Ademais, a fundamentação do Tribunal de origem mostra-se bastante razoável, não padecendo de teratologia, o que tem o condão de evidenciar a ausência dos pressupostos específicos de cabimento do mandado de segurança contra ato judicial, vislumbrando-se, ao revés, a pretensão de utilização do mandamus como sucedâneo recursal.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento."
+(EDcl no MS 22.046/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe de 20/10/2015).
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
