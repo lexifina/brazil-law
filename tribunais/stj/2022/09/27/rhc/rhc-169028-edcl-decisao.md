@@ -1,0 +1,21 @@
+DECISÃO
+DENISE NEVES opõe embargos de declaração ao decisum que não conheceu do recurso ordinário em habeas corpus (fls. 259-260).
+Em suas razões, a embargante sustenta que o acórdão embargado padece de erro material e de contradição, o que justifica o acolhimento dos presentes embargos.
+Aponta erro material quanto à capitulação dos crimes pelos quais foi denunciada, sendo, em verdade, lavagem de dinheiro e organização criminosa.
+Asseveraaindaque o fundamento utilizado para se não conhecer do recurso (supressão de instância) constitui exatamente o objeto da insurgência, uma vez que o Tribunal deixou de conhecer do habeas corpus ao equivocado entendimento de reiteração de pedido, embora, no writ originário, tenha deduzido matéria diversa da discutida no habeas corpus anteriormente enfrentado pela Corte de origem.
+Requer, portanto, o acolhimento dos embargos para que sejam enfrentadas tais questões.
+Contrarrazões apresentadas às fls. 275-279.
+É o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a desfazer ambiguidade, aclarar obscuridade, eliminar contradição ou suprir omissão existentes no julgado, o que não se verifica na hipótese.
+De início, acerca do apontado erro material, com razão aembargante, porquanto a persecutio criminis versa sobre lavagem de dinheiro e organização criminosa.
+No mais, não procedem as alegações de contradição do decisum ora embargado.
+Cumpre observar que o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhe sirvam de convicção, tenha encontrado motivação suficiente para dirimir a controvérsia. Confira-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA AÇÃO RESCISÓRIA. ALEGAÇÃO DE OMISSÃO. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. EMBARGOS REJEITADOS.
+1. Nos termos do art. 1.022 do CPC/2015 (vigente na data da publicação do acórdão embargado), são cabíveis embargos de declaração com fundamento na existência de obscuridade, contradição, omissão ou erro material no julgado embargado. Não constituem, portanto, instrumento adequado para demonstração de inconformismos da parte com o resultado do julgado e/ou para formulação de pretensões de modificações do entendimento aplicado, salvo quando, excepcionalmente, cabíveis os efeitos infringentes, o que, contudo, não configura a hipótese dos autos.
+2. O acórdão embargado não padece de nenhum dos vícios que autorizam a oposição dos embargos de declaração, uma vez que foi claro e expresso ao consignar que, tendo havido pronunciamento judicial no processo originário acerca dos fatos apontados como tendo sido erroneamente examinados (nem que seja no sentido de que não seria possível a análise deles nos embargos à execução), está descaracterizada a alegação de vício com o fito de rescindir o julgado.
+3. O magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte quando os fundamentos utilizados tenham sido suficientes para embasar a decisão.
+4. Embargos de declaração rejeitados. (EDcl na AR n. 4.158/RN, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 9/3/2022, DJe de 14/3/2022.)
+Consoante destacado, a matéria não foi apreciada por supressão de instância, por ser reiteração de pedido anteriormente apreciado. Embora defendida a distinção entre as insurgências apresentadas perante a Corte de origem, denota-se a repetição da aventada inidoneidade do decreto prisional, já afastado pelo Tribunal local, o que reforça a higidez do decisum ora embargado e a mera insatisfação da defesa com o resultado proferido.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação do STJ foi analisada, não padecendo o acórdão embargado dos vícios que autorizariam sua oposição.
+Ante o exposto, acolhoem parte os embargos declaratórios sem efeitos modificativos, reconhecendo tão somente o erro material no relatório do decisum de fls. 259-260, uma vez que deve constar que"arecorrente encontra-se presa preventivamente, desde 4/4/2022, a pedido do Ministério Público, em razão da prática dos delitos previstos nos arts.2º, caput, da Lei n. 12.850/2013 e 1º da Lei n.9.613/1998".
+Publique-se. Intimem-se.
