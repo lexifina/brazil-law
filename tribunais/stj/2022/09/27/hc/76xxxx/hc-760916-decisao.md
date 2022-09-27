@@ -1,0 +1,25 @@
+DECISÃO
+DAVID DE VARGAS DA SILVAalega sofrer constrangimento ilegal diante de acórdão proferido peloTribunal de Justiça do Estado do Rio Grande do Sulno HC n. 5109011-97.2022.8.21.7000.
+Nesta Corte, a defesa postula aconcessão de liberdade provisória ao paciente, por considerar insuficientes os motivos exarados para convolar sua prisão em flagrante, pela suposta prática do crime de tráfico de drogas, em custódia preventiva.
+Decido.
+A conversão do flagrante em prisão cautelar foi assim justificada (fls. 33-35, grifei):
+No caso em tela, a existência dos crimes e a suficiência de indícios referentes à autoria quanto aos flagrados vertem, ao menos inicialmente, dos documentos e depoimentos acostados ao expediente policial, em especial do auto de apreensão e do laudo provisório de constatação da natureza da substância apreendida - 50 unidades de cocaína, totalizando 41,07 gramas -, além da vultosa quantia em dinheiro, consistente em R$ 2.000,00, tudo a indicar a traficância pelos flagrados, em associação para o tráfico, sendo que inclusive a Autoridade Policial informou que a Brigada Militar já possuía informações de que o casal fazia a entrega de drogas a mando de uma facção, observando-se, portanto, a existência de divisão de tarefas possivelmente até quanto a um grupo maior de pessoas ligadas à traficância, fatos, assim, gravíssimos e que, como bem sustentado pela Delegada de Polícia, justificam a prisão preventiva dos flagrados.
+Dessa forma, em exame perfunctório, bem delineada a traficância pelos flagrados, como já dito, pela apreensão de grande quantidade de drogas e elevado valor em dinheiro, em notas variadas, tendo a suspeita de traficância sido corroborada com a abordagem do casal, em virtude de informações de populares.
+ ..
+Nesse contexto, não há dúvida quanto à razoabilidade e à essencialidade da prisão preventiva, ainda que medida excepcional, já que fundamentada em receio de perigo e na existência concreta de fatos que justificam sua aplicação, tendo em conta que se trata de hipótese de tráfico de drogas desenvolvido mediante associação para o tráfico, inclusive com possível ligação à facção criminosa, restando evidente o risco decorrente do estado de liberdade dos flagrados, que, em liberdade, voltariam à traficância, requisito essencial para a segregação cautelar, representando eles concreta ameaça à ordem pública.
+Aliás, não se pode olvidar que DAVID já ostenta envolvimento anterior e recente com o tráfico de drogas e associação ao tráfico, mais um indicativo de que, em liberdade, voltaria à atividade ilícita, como se observa neste feito.
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313, 315 e 282, I e II, do Código de Processo Penal, com as alterações dispostas pela Lei n. 13.964/2019.
+Na hipótese, embora a defesa afirme que não se trata de quantidade relevante de drogas, vejo que o decreto preventivo faz menção à existência de registro anterior pela suposta prática de delito de mesma natureza e aos indíciosdo envolvimento do paciente e da coacusada com organização criminosa voltada ao tráfico de drogas.
+Assim, conquanto haja o Ministério Público Federal oficiado pela substituição da medida extrema por cautelares menos gravosas, consideroidôneos os elementos descritos para convolar o flagrante em prisão cautelar, pois denotam o risco de reiteração delitiva, com a referência a circunstâncias consideradas suficientes, pela jurisprudência desta Corte Superior, para justificar a prisão provisória. A propósito:
+ ..
+4. Na espécie, o agravante havia sido colocado em liberdade em outro processo criminal há menos de dois meses quando foi flagrado com 102 g de maconha, 40,9 g de cocaína e petrechos comumente usados no tráfico de drogas (balança de precisão e faca de cozinha, ambos com resquícios de entorpecentes). Além disso, o Magistrado de primeira instância consignou haver indícios de que o acusado integrasse organização criminosa, com dedicação habitual ao comércio de drogas.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC n. 688.069/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/12/2021, destaquei)
+ ..
+3. Segundo reiteradas manifestações deste Superior Tribunal, a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar. Precedentes do STJ.
+ ..
+7. Recurso ordinário desprovido.
+(RHC n. 106.326/MG, Rel. Ministra Laurita Vaz, 6ª T., DJe 24/4/2019, grifei)
+À vista do exposto,denego o habeas corpus.
+Publique-se e intimem-se.
