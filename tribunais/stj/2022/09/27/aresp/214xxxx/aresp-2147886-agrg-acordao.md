@@ -1,0 +1,52 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. TRÁFICO. HABEAS CORPUS. REGIME SEMIABERTO. AGRAVO REGIMENTAL NÃO CONHECIDO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Quanto ao regime de cumprimento da pena, verifica-se a ocorrência de flagrante ilegalidade, sendo necessária a concessão de ofício de habeas corpus.
+3. No tocante ao regime de cumprimento de pena, é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais elencadas no art. 59 do CP ou em outra situação que demonstre a gravidade concreta do crime.
+4. Ademais, a jurisprudência desta Corte Superior de Justiça é no sentido de que a quantidade, a qualidade e a variedade das drogas apreendidas podem ser utilizadas como fundamento para a determinação da fração de redução da pena com base no art. 33, § 4.º, da Lei n.º 11.343/2006, a fixação do regime mais gravoso e a vedação à substituição da sanção privativa de liberdade por restritiva de direitos.
+5. No presente caso, estabelecida a pena definitiva em 5 anos de reclusão, sendo favoráveis as circunstâncias do art. 59 do CP, primário o recorrente e sem antecedentes, e considerada a quantidade total dos entorpecentes apreendidos (0,52g de crack e 9,65g de cocaína), apesar da natureza altamente deletéria, o regime semiaberto é o adequado à prevenção e reparação do delito.
+6. Agravo regimental não conhecido. Habeas corpus concedido para fixar o regime semiaberto para o cumprimento da pena.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental, contudo, conceder a ordem de habeas corpus, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, João Otávio de Noronha e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por KAIO HENRIQUE DA SILVA DE SOUZA (e-STJ fls. 550/559) contra decisão monocrática da lavra do Ministro Presidente que não conheceu do agravo por ausência de impugnação de todos os fundamentos da decisão de admissibilidade (e-STJ fls. 546/547).
+A parte agravante alega a incidência do benefício do tráfico privilegiado.
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo regimental e, se conhecido, pelo seu não provimento (e-STJ fls. 569/577).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece ser conhecido.
+A decisão agravada não conheceu do agravo em recurso especial, em razão da incidência da Súmula n. 182/STJ.
+Ocorre que o agravante, nas razões do regimental, não infirmou tal fundamento, limitando-se a sustentar a incidência do benefício do tráfico privilegiado.
+Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou à insistência no mérito da controvérsia.
+Nesses casos, é inafastável a incidência do verbete sumular n. 182/STJ, que assim dispõe:
+É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido, os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - "Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte" (RHC n. 81.284/DF, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 30/8/2017).
+III - In casu, a d. Defesa limitou-se a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido. (AgRg no HC 562.476/ES, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 10/03/2020, DJe 18/03/2020)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO ESPECIFICAMENTE. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Consoante reiterada jurisprudência deste Superior Tribunal de Justiça, as razões do agravo regimental devem se limitar a atacar especificamente os fundamentos da decisão agravada, sob pena de atração, por analogia, da incidência da Súmula n. 182/STJ.
+2. In casu, o agravante deixou de impugnar o principal fundamento da decisão agravada, qual seja, a aplicação da Súmula 182 do STJ.
+3. Tendo em vista a ausência de prejudicialidade do Agravo em Recurso Extraordinário, após o trânsito em julgado, remetam-se os autos ao Supremo Tribunal Federal, conforme determina o art. 1.031, § 1º, do Código de Processo Civil.
+4. Agravo regimental não conhecido. (AgRg no AREsp 1605293/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/02/2020, DJe 28/02/2020)
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RECURSO ORDINÁRIO DO QUAL NÃO SE CONHECEU POR INTEMPESTIVIDADE. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ÓBICE DO VERBETE SUMULAR N. 182/STJ. RECURSO DO QUAL NÃO SE CONHECE.
+1. A decisão impugnada deixou consignado que o recurso não atende os requisitos do art. 1.042 do Código de Processo Civil e que dele não pode conhecer como agravo regimental por não ser cabível contra decisão de órgão colegiado. Esses fundamentos, contudo, não foram impugnados pela parte agravante, que, nas razões deste regimental, apenas reiterou os argumentos antes aduzidos no mandado de segurança.
+2. Deixando a parte agravante de impugnar especificamente os fundamentos da decisão agravada, é de se aplicar o enunciado 182 da Súmula do Superior Tribunal de Justiça, que afirma ser "inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Agravo regimental do qual não se conhece. (AgRg no AgRg no AgRg no RMS 60.949/MT, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/02/2020, DJe 19/02/2020)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+2. Agravo regimental não conhecido. (AgRg no AREsp 1594176/CE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/2/2020, DJe 17/2/2020)
+No entanto, quanto ao regime de cumprimento da pena, verifica-se a ocorrência de flagrante ilegalidade, sendo necessária a concessão de ofício de habeas corpus.
+Em relação ao regime de cumprimento de pena, a jurisprudência desta Corte firmou-se no sentido de que é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal ou na reincidência.
+Foi elaborado, então, o enunciado n. 440 da Súmula deste Tribunal, segundo o qual, fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Portanto, é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais elencadas no art. 59 do CP ou em outra situação que demonstre a gravidade concreta do crime. Precedentes: HC n. 325.756/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; HC n. 312.264/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/5/2016, DJe 31/5/2016; HC n. 344.395/SP, Relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 8/3/2016, DJe 15/3/2016.
+Ademais, a jurisprudência desta Corte Superior de Justiça é no sentido de que a quantidade, a qualidade e a variedade das drogas apreendidas podem ser utilizadas como fundamento para a determinação da fração de redução da pena com base no art. 33, § 4.º, da Lei n. 11.343/2006, a fixação do regime mais gravoso e a vedação à substituição da sanção privativa de liberdade por restritiva de direitos. Precedentes: AgRg no AREsp n. 867.211/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; AgRg no AREsp n. 643.452/MG, Relator Ministro JORGE MUSSI, Quinta Turma, julgado em 16/6/2016, DJe 22/6/2016; AgRg no AREsp n. 602.153/MS, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 26/4/2016, DJe 6/5/2016.
+No presente caso, estabelecida a pena definitiva em 5 anos de reclusão, sendo favoráveis as circunstâncias do art. 59 do CP, primário o recorrente e sem antecedentes, e considerada a quantidade total dos entorpecentes apreendidos (0,52g de crack e 9,65g de cocaína), apesar da natureza altamente deletéria, o regime semiaberto é o adequado à prevenção e reparação do delito.
+Ante o exposto, não conheço do agravo regimental. Concedo a ordem de habeas corpus, para fixar o regime semiaberto para o cumprimento da pena.
+É como voto.
