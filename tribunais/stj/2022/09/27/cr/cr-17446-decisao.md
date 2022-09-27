@@ -1,0 +1,3 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Tribunal Judicial da Comarca de Lisboa - Juízo Local de Pequena Criminalidade de Lisboa - Juiz 5) solicita que se proceda ànotificação pessoal de CESAR GOMES DA COSTA, quanto aoProcesso Abreviado 81/11.1SPLSB, no qual o interessado foi condenadopelocrime de condução de veículo em estado de embriaguez, nos termos das disposições conjugadas dos arts. 69º n.1, al. a) e 292º n.1, ambos do Código Penal português.
+Tendo em vista que a diligência foi cumprida (certidão de fl. 128), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
