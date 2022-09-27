@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração interpostos contra decisão que não conheceu do agravo em recurso especial por intempestividade.
+Sustenta o embargante queválida e idônea a intimação constante do e-STJ Fl.972 que indicou como início do prazo a data de 21/1/2021 e, contados 15 (quinze) dias desta data, seu termo final seria 4/2/2021, tendo o recurso sido interposto, tempestivamente, no dia 27/1/2021 (e-STJ fl. 1036).
+Apresentada impugnação (e-STJ fls. 1050-1053).
+É o relatório.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+No caso, o embargante pretende, na realidade, rediscutir matéria já decidida e que foi contrária à sua pretensão, sem demonstrar, todavia, ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do CPP.
+Como ressaltado na decisão embargada,inadmitido o recurso especial (e-STJ fls. 964/970), por decisão disponibilizada no Diário de Justiça Eletrônico - DJe em 14/12/2020 (segunda-feira), considerando-se publicado em 15/12/2020 (terça-feira), o agravo em recurso especial foi interposto somente em 27/1/2021, isto é, quando já ultrapassado o prazo recursal de 15 dias corridos (art. 994, inciso VIII, c/c os arts. 1.003, § 5º e 1.042, todos do CPC, e art. 798, do CPP), sem comprovação, no momento da interposição, de suspensão do expediente forense no âmbito do Tribunal de origem.
+Ademais, Para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois oagravoe o recursoespecialinterpostos são endereçados ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local (AgRg no AREsp n. 2.075.782/SP, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 6/9/2022, DJe de 13/9/2022).Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada a ocorrência de nenhuma das hipóteses do art. 619 do Código de Processo Penal.
+Ante do exposto, rejeito os presentes embargos.
+Intimem-se.
