@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de GIOVANE SACRAMENTO BERTHOLINI, em que aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que apaciente foi acusadode possível cometimento de tráfico de drogas, tendo sido decretada sua prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus junto à Corte local, que denegou a ordem.
+Neste writ, aimpetrante alega, em suma, ausência de fundamentação para a decretação da prisão preventiva.
+Sustenta que apaciente preenche todas as condições impostas pela lei para que responda ao processo em liberdade.
+Destaca as condições pessoais favoráveis como primariedade, a pequena quantidade de entorpecentes apreendida.
+Aponta a possibilidade de substituição da segregação preventiva por medidas cautelares alternativas, requerendo a revogação da prisão.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min.Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Quanto ao tema, o acórdão impugnado dispôs:
+" ..
+É possível, portanto, extrair dos autos prova da materialidade do delito, demonstrada pelo auto de prisão em flagrante delito (fls. 23/28, ordem 02), pelo auto de apreensão (fl. 44, ordem 02) e pelos laudos toxicológicos preliminares (fls. 08/11 e 29, ordem 02), que atestaram a presença de 12,0 gramas de maconha, 0,10 gramas de crack e 13,20 gramas de cocaína.
+Além disso, também há indícios suficientes da autoria do paciente, pois com ele foram apreendidos os aludidos entorpecentes, bem como, no interrogatório perante a autoridade policial, o segregado confessou a suposta prática delitiva.
+Pois bem.
+É inegável que a prisão cautelar deve ser medida de exceção.
+Prevalece o princípio constitucional da presunção de inocência e a regra é a liberdade (artigo 5º, LVII e LXVI, da CF), pelo que é necessário que, ao decretar a prisão do indivíduo antes do trânsito em julgado da sentença condenatória, a magistrada verifique a existência de um dos requisitos de admissibilidade da medida extrema (artigo 313 do CPP) e fundamente a segregação cautelar em motivos que a tornem indispensável, dentre os elencados no artigo 312 do Código de Processo Penal.
+Mas, ao contrário do que alega a impetrante, não se verifica, neste momento, nenhum constrangimento ilegal. Da simples leitura da decisão que converteu a prisão em flagrante em prisão preventiva, constata-se que a magistrada cumpriu as exigências previstas no artigo 93, IX, da CF e nos artigos 282, § 6º, e 315 do CPP, com a redação dada pela Lei 13.964/2019. Vejamos o trecho da decisão que decretou a segregação cautelar do paciente:
+(..) No caso, tais requisitos estão presentes e vislumbra-se a necessidade de manutenção da prisão cautelar para garantia da ordem pública, diante das circunstâncias fáticas narradas nos autos, em que pese o crime não tenha sido praticado com violência ou grave ameaça.
+Registre-se, ainda que, embora o autuado seja primário e sem antecedentes, confessou que estava comercializando a droga apreendida e observa-se que tentou evadir-se no momento da aproximação da viatura policial, no intuito de eximir-se da responsabilidade penal.
+Além disso, a quantidade de droga apreendida, ou seja, 01 (uma) pedra de crack e 19 (dezenove) pinos contendo cocaína e o dinheiro apreendido indicam a destinação mercantil da droga.
+Acrescente-se, ainda, que apesar de primário, responde a processo pelo mesmo crime na 1.ª Vara de Tóxicos.
+Portanto, o autuado representa sério risco à comunidade caso seja colocado em liberdade, sendo necessária a manutenção da prisão para garantia da ordem pública. (..). (sic, fl. 03 da ordem 08).
+Tal qual o juízo a quo, entendo que a segregação do paciente é necessária, por ora, para a garantia da ordem pública, vulnerabilizada pela gravidade concreta da conduta supostamente cometida e pelo risco de reiteração delitiva. Ressalte-se que foi apreendida ampla variedade de drogas: 12,0 gramas de maconha, 0,10 gramas de crack e 13,20 gramas de cocaína, além de dinheiro (cinquenta e cinco reais e quarenta centavos).
+Ademais, da leitura da CAC juntada na ordem 06, verifica-se que o paciente responde por outro processo por tráfico de drogas e porte ilegal de arma de fogo.
+Essas informações revelam, portanto, que as medidas cautelares diversas da prisão não são suficientes para garantir a ordem pública diante do risco de reiteração delitiva do segregado.
+Não há que se falar, pois, em inidoneidade de fundamentação, uma vez que a jurisprudência do STJ considera a gravidade concreta do crime em tese cometido e o risco de reiteração delitiva como fundamentos aptos a amparar a decretação da custódia cautelar para garantia da ordem pública, nos termos dos seguintes acórdãos:
+ .. " (e-STJ, fls. 118-120).
+A prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, segundo se infere, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública e garantia da aplicação penal, haja vista o risco de reiteração delitiva do agente.
+Isto porque, o pacienteresponde aoutros processos e voltou a delinquir.
+Assis, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO.
+DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de droga apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, visto que, cerca de trinta dias após haver sido beneficiado com a concessão de liberdade provisória, o acusado foi novamente preso em flagrante, pela suposta prática de delito de mesma natureza, e já registra condenação criminal na ação penal relativa a tais fatos, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Denegada a ordem." (HC 511.692/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019).
+Consigne-se, ainda, que é inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Além disso, o fato de o paciente possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte:RHC 95.544/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/3/2018, DJe 2/4/2018; e RHC 68.971/MG, Rel. Ministro SEBASTIÃO REISJÚNIOR, SEXTA TURMA, julgado em 26/9/2017, DJe 9/10/2017.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
