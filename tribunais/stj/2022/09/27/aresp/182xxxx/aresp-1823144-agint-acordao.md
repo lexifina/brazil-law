@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator.
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Humberto Martins.
+RELATÓRIO
+Trata-se de agravo interno apresentado contra decisão monocrática sintetizada na seguinte ementa (fl. 1095e-STJ):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. SENTENÇA CITRA PETITA. QUESTÕES ENFRENTADAS. INEXIGIBILIDADE DO TÍTULO. ARGUMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AUSÊNCIA DE INDICAÇÃO CLARA DO DISPOSITIVO VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECU RSO ESPECIAL.
+Nas razões de agravo interno, o agravante sustenta que"Ocorre, que não há subsunção das referidas Súmulas do STF ao presente caso. Isso porque o Agravante apontou sim as violações a Lei Federal (artigos 11, 489, 491 e 506 do CPC), que para serem demonstradas, basta mera subsunção de fato à norma, sendo desnecessário revisitar arcabouço fático-probatório. Além disso, o fez de forma fundamentada, conforme se expõe." (fl. 1105e-STJ)
+Requer a reconsideração da decisão agravada ou seja o feito submetido à julgamento no órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL.SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. INEXIGIBILIDADE DE TÍTULO.EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO DE MODO ADEQUADO NAS RAZÕES RECURSAIS.ÓBICEDASÚMULA283/STF. AUSÊNCIA DE INDICAÇÃO CLARA DO DISPOSITIVO VIOLADO. FUNDAMETAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora gravada torna incólume o entendimento nela firmado.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3.A admissibilidade do recurso especial exige a clareza na indicação dosartigos de lei federal supostamente violados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses dispositivos ou a eles tenha dado interpretação divergente da adotada por outro Tribunal, sob pena de incidência da Súmula 284 do STF.
+4. Agravo interno não provido.
+VOTO
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora gravada torna incólume o entendimento nela firmado.
+O caso dos autos decorrem de embargos à execução promovida pelo Município de Camacho. O ora agravante arguiu nulidade da execução por falta de demonstração de título judicial exequível. A sentença foi de parcial procedência e o acórdão impugnado pelo recurso especial manteve a sentença.
+Com efeito, no recurso especial, o ora agravante defendeuausência de certeza e iliquidez do título judicial, porque a ordem de reintegração foi acompanhada de ordem genérica de pagamento de todos os direitos e vantagens. Suscitou, também, violação dos arts. 491 e 506 do CPC/2015 ao afirmar que deveria ter sido indicado os índices de correção e de juros.
+Considero inexistente de tese jurídica no recurso especial capaz de ser sustentada pelo comando normativo do art. 506 do CPC/2015. Além disso, o Tribunal de origem ressaltou a exequibilidadedo título judicial tendo em vista que os termos da condenação não dificulta a defesa da entidade municipal. Além disso, ressaltou que todas as questões preliminares defendidas pela Administração foram analisadas pela sentença. A propósito, confira-se o seguinte trecho do acórdão a quo:
+Contudo, na nova sentença de f. 431/433v., todas as questões preliminares suscitadas pelo embargante, ora apelante, foram devidamente enfrentadas às f. 432/432v., motivo por que não há falar em decisão "citra petita".
+ ..
+Porém, na espécie, verifica-se que a intenção dos impetrantes, ora exequentes, era a de serem reintegrados em seus cargos, com o retorno ao "status quo ante" das demissões e exonerações indevidas. Assim, a condenação de reintegração, com "todos os direitos e vantagens", embora se revele ampla, não é inespecífica, pois não impõe ao impetrado uma obrigação incerta, mas, sim, passível de apuração, como foi feito na perícia judicial de f. 363 e ss.
+Isto porque era decorrência lógica do pedido formulado pelos impetrantes o retorno da situação fática e jurídica anterior, o que engloba as parcelas que eles deixaram de receber, seja a título de vencimento ou de vantagem. Assim, fica afastado o fundamento de inexigibilidade do título (ad. 741, inc. II, CPC/73).
+Ademais, tem-se que a forma da condenação não dificultou ou impediu a elaboração de defesa pelo apelante, que o fez no sentido apenas de que os vencimentos não eram devidos em virtude do exercício de outras atividades laborativas pelos servidores no período, o que configuraria enriquecimento sem causa.
+A propósito, não há qualquer impertinência na fundamentação da sentença que firmou entendimento no sentido de que o título transitado em julgado já havia determinado o pagamento dos salários, o que não poderia, portanto, ser rediscutido em sede de execução.
+Não obstante, tais fundamentosnão foramimpugnadosde modo adequado no presente recurso. Aplica-se, por analogia, o disposto nas Súmulas 283 ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.") e 284 ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), ambas do STF.
+Vale destacar que o princípio da dialeticidade recursal impõe ao recorrente o ônus de evidenciar os motivos de fato e de direito suficientes à reforma do acórdão recorrido, trazendo à baila novas argumentações capazes de infirmar todos os fundamentos do decisum que se pretende modificar, sob pena de vê-lo mantido por seus próprios fundamentos.
+No mesmo sentido, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ART. 535 DO CPC. NÃO OCORRÊNCIA. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. SÚMULA 393/STJ. DISCUSSÃO SOBRE A NECESSIDADE DE DILAÇÃO PROBATÓRIA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO E EXCLUSÃO DE PROGRAMA DE PARCELAMENTO. FUNDAMENTO AUTÔNOMO NÃO ATACADO. SÚMULA 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade ou contradição, não fica caracterizada ofensa ao art. 535 do CPC.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente a fundamentação recursal (Súmula 283 e 284 do STF, por analogia).
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo interno não provido. (AgInt no REsp 1677689/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 08/02/2018, DJe 21/02/2018)
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO. FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Conforme estabelecido pelo Plenário do STJ "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3/STJ).
+2. Pelo princípio da dialeticidade, impõe-se à parte recorrente o ônus de motivar seu recurso, expondo as razões hábeis a ensejar a reforma da decisão, sendo inconsistente o recurso que não ataca concretamente os fundamentos utilizados no acórdão recorrido.
+3. Incidem as Súmulas 283 e 284 do STF, em aplicação analógica, quando não impugnado fundamento autônomo e suficiente à manutenção do aresto recorrido, sendo considerada deficiente a fundamentação do recurso.
+4. Agravo desprovido. (AgInt no RMS 58.200/BA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 28/11/2018)
+Por outro lado,aadmissibilidade do recurso especial exige a clareza na indicação dos artigos de lei federal supostamente violados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses dispositivos ou a eles tenha dado interpretação divergente da adotada por outro Tribunal, sob pena de incidência da Súmula 284 do STF.
+Épacífico o entendimento desta Corte Superior no sentido de que a simples alegação de violação genérica de preceitos infraconstitucionais, desprovida de fundamentação que demonstre de que maneira houve a negativa de vigência dos dispositivos legais pelo Tribunal de origem, não é suficiente para fundar recurso especial, atraindo a incidência da Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. IRRESIGNAÇÃO DEFICIENTE. DISPOSITIVOS DE LEI FEDERAL.VIOLAÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. ACÓRDÃO. FUNDAMENTAÇÃO CONSTITUCIONAL. EXAME. INVIABILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+2. A alegação genérica de ofensa ao art. 535 do CPC/1973, desacompanhada de causa de pedir suficiente à compreensão da controvérsia e sem a indicação precisa dos vícios de que padeceria o acórdão impugnado, atrai a aplicação da Súmula 284 do STF.
+3. A questão relativa à validade da cobrança complementar de ICMS/ST em razão de dilatação volumétrica do combustível, a despeito da oposição de embargos de declaração, não foi analisada pela instância ordinária à luz dos dispositivos de lei federal ora suscitados pelo recorrente. Incidência da Súmula 211 do STJ.
+4. O recurso especial não se presta para revisar acórdão fundado em interpretação de dispositivo constitucional.
+5. O procedimento previsto no art. 1.032 do CPC/2015, que prevê a abertura de prazo para fins de manifestação sobre a questão constitucional identificada pelo relator, somente deve ser aplicado para os recursos especiais interpostos já na vigência do novo estatuto processual civil, o que não é o caso dos autos.
+Precedentes.
+6. Agravo interno desprovido.
+(AgInt no REsp 1689343/PB, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 31/08/2020, DJe 17/09/2020)
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
