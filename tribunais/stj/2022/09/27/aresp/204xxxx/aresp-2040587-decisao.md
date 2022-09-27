@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se  de  agravo  (art.  1.042  do  CPC),  interposto  por  BANCO DO BRASIL SA,  contra  decisão  que  não  admitiu  recurso  especial.
+O  apelo  extremo,  fundamentado  na  alínea  "c"  do  permissivo  constitucional,  desafiou  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do Paraná,  assim  ementado  (fl.  170,  e-STJ):
+Embargos de terceiro. Sentença que julga procedente a lide condenando o embargante ao pagamento da sucumbência. Ausência de registro da alienação e cessão do imóvel penhorado. Pretensão resistida pela parte embargada. Insistência na manutenção da penhora do bem mesmo após a comprovação da prévia transmissão do imóvel. Inaplicabilidade da Súmula nº 303 do STJ. Responsabilidade pelo pagamento da sucumbência a cargo da parte embargada. Precedentes. Majoração dos honorários advocatícios de sucumbência. Inviabilidade. Fixação em percentual que não destoa dos parâmetros definidos pelos incisos do § 2º Reforma parcial. do art. 85 do CPC. Apelação conhecida e provida em parte.
+Os embargos de declaração foram rejeitados (fls. 210-214, e-STJ).
+Em  suas  razões  de  recurso  especial,  o  recorrente  aponta dissídio jurisprudencial, indicando interpretação divergente acerca da Súmula 303 do STJ.
+Sustenta,  em  síntese, a impossibilidade de condenação do recorrente em honorários nos embargos de terceiro, em razão de não ter dado causa à constrição.
+Em  juízo  de  admissibilidade,  negou-se  o  processamento  do  recurso  especial,  dando  ensejo  ao  presente  agravo  (fls.  291-298,  e-STJ).  Contraminuta  às  fls.  308-314, e-STJ.
+Em decisão monocrática (fls. 342-343, e-STJ), de início, a Presidência desta Corte negou provimento ao agravo, mantendo a deserção do recurso especial.
+Posteriormente, em decisão de fls. 360-361, e-STJ, foram concedidos efeitos infringentes aos embargos de declaração da parte agravantepara tornar sem efeito a decisão embargada e determinar a distribuição dos autos.
+Opostos embargos de declaração pela parte agravada, foram eles rejeitados (fls. 387-390, e-STJ).
+É  o  relatório.
+Decido.
+A  irresignação  não  merece  prosperar.
+1. Alega a recorrente a existência de dissídio jurisprudencial, indicando interpretação divergente acerca da Súmula 303/STJ, ao sustentara impossibilidade de condenação do recorrente em honorários nos embargos de terceiro, em razão de não ter dado causa à constrição.
+No entanto, aparte recorrente deixou de indicar precisamente, em suas razões de recurso especial, os dispositivos legais que teriam sido objeto de interpretação divergente, caracterizando a deficiência na fundamentação e, consequentemente, a aplicação do disposto no enunciado da Súmula 284/STF.
+O recurso especial é um meio impugnativo processual de fundamentação vinculada, no qual o efeito devolutivo se opera nos termos do que foi impugnado. A ausência de indicação expressa de dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional foi ou não malferida.
+Com efeito, em prejuízo da compreensão da controvérsia, não foi demonstrada com clareza e precisão a necessidade de reforma da decisão, incidindo no óbice previsto na Súmula 284 do STF, in verbis:
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Nos termos do entendimento desta Corte, tanto os recursos interpostos pela alínea "a" quanto pela alínea "c" do permissivo constitucional exigem a indicação do dispositivo legal que teria sido violado ou ao qual fora atribuída interpretação divergente, sob pena de incidência da Súmula 284/STF, por analogia. Precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO.  ..  DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AUSÊNCIA DE COTEJO ANALÍTICO. DISSÍDIO NÃO CONFIGURADO.
+ ..
+4. A ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea "c" do inciso III do art. 105 da Constituição Federal (Súmula 284 do STF). Necessário, ainda, o cotejo analítico com a demonstração de similitude fática entre o acórdão recorrido e os paradigmas confrontados.
+5. Agravo interno a que se nega provimento. (AgInt no REsp 1337221/ES, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/10/2016, DJe 04/11/2016)  grifou-se
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO CPC/73. ..  DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO A QUE O ACÓRDÃO TERIA DADO INTERPRETAÇÃO DIVERGENTE. INCIDÊNCIA DA SÚMULA Nº 284 DO STF.  ..
+4. Inviável análise de recurso especial interposto pela alínea c do permissivo constitucional que não indica, com clareza e precisão, os dispositivos de lei federal em relação aos quais haveria dissídio jurisprudencial. Incidência da Súmula nº 284 do STF. Precedente.
+5. Agravo regimental não provido. (AgRg no AREsp 733.193/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/10/2016, DJe 08/11/2016)  grifou-se
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. EMPRESA DE TELEFONIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE REALIZAÇÃO DO NECESSÁRIO COTEJO ANALÍTICO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de que a não individualização e indicação do dispositivo supostamente violado não enseja a abertura da via especial, aplicando-se, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+2. Para a demonstração da divergência, nos moldes preconizados pelo art. 255, § 2º, do RISTJ, c/c o art. 541, parágrafo único, do CPC, é necessária a re a lização do cotejo analítico entre os arestos confrontados, de modo a evidenciar o alegado dissenso das teses jurídicas adotadas, alegadamente, em situações de evidente similitude fática. 3. Agravo regimental não provido. (AgRg no AREsp 572.796/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/03/2015, DJe 23/04/2015)  grifou-se
+Ademais, não cabe a este Tribunal apreciar a alegação de violação ou interpretação divergente ao enunciado sumular 303/STJ,por se tratar de verbete que não se enquadra no conceito de lei federal a sofrer o controle de legalidade desta Corte, nos termos da Súmula 518/STJ. Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL DA MERCEDES-BENZ. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. APLICABILIDADE DO CDC. ALEGAÇÃO DE SE TRATAR DE ENTIDADE DE AUTOGESTÃO. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. ALEGAÇÃO DE VIOLAÇÃO DE ENUNCIADO SUMULAR. NÃO CABIMENTO. FALTA DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL. TRATAMENTO. DEVER DE COBERTURA. FALTA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO. ..
+3. Não cabe ao STJ apreciar a violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante dispõe a Súmula nº 518 desta Corte.
+4. A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula nº 284 do STF.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.969.023/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 16/5/2022, DJe de 19/5/2022.)  grifou-se
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. EXORBITÂNCIA. NÃO OCORRÊNCIA. REEXAME. SÚMULAS N. 5 E 7/STJ. CONTRATAÇÃO. ALEGAÇÃO DE AUSÊNCIA. SÚMULA N. 530/STJ. VIOLAÇÃO. SÚMULA N. 518/STJ. TAXA FLUTUANTE. LEGALIDADE. PREQUESTIONAMENTO E IMPUGNAÇÃO. AUSÊNCIA. SÚMULAS N. 282, 283, 284 E 356/STF. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula (Súmula 518).
+3. Constando no acórdão local que houve contratação de juros a taxas flutuantes, a ausência de impugnação a esse fundamento e de debate quanto à sua legalidade atrai a incidência dos enunciados n. 282, 283, 284 e 356 da Súmula do Supremo Tribunal Federal, na medida em que o especial é recurso de fundamentação vinculada.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.941.728/PR, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/4/2022, DJe de 7/4/2022.)  grifou-se
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXPURGOS INFLACIONÁRIOS. EXECUÇÃO DE SENTEÇA COLETIVA. TERMO INICIAL DOS JUROS REMUNERATÓRIOS. SÚMULA N. 596/STJ. VIOLAÇÃO. IMOSSIBILIDADE. SÚMULA N. 518/STJ. AUSÊNCIA DE ALCANCE NORMATIVO DO ARTIGO INDICADO. SÚMULA N. 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. INEXISTÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. DECISÃO MANTIDA.
+1. A tese de violação da Súmula n. 596/STJ não comporta análise no recurso. Nesse sentido: "para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula 518/STJ). ..
+3. Divergência jurisprudencial não comprovada, ante a incidência da Súmula n. 284/STF. Além disso, "o dissídio jurisprudencial com súmula não autoriza a interposição do recurso especial fundado na letra "c" do permissivo constitucional" (AgRg no Ag n. 1.135.323/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/6/2010, DJe 18/6/2010).
+4. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.932.569/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)  grifou-se
+Inafastável, na hipótese, a incidência da Súmula 284 do STF.
+2. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
