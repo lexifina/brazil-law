@@ -1,0 +1,69 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DESCAMINHO. CONDENAÇÃO COM BASE EM DOCUMENTOS PRODUZIDOS NO INQUÉRITO. VIOLAÇÃO AO ART. 155 DO CPP. AUSENTE. CONTRADITÓRIO DIFERIDO. POSSIBILIDADE. RECURSO IMPROVIDO.
+1. Esta Corte superior admite que "a documentação proveniente de procedimento fiscal seja utilizada para embasar a condenação, porquanto durante a instrução penal ocorre o contraditório diferido" (AgRg no AREsp n. 1.190.401/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/10/2018, DJe de 7/11/2018).
+2. No presente caso, ainda que a condenação tenha sido fundamentada apenas nos elementos colhidos na fase fiscal, não se vislumbra violação ao art. 155 do CPP, uma vez que foi oportunizada à defesa, em juízo, a impugnação de tais documentos (contraditório diferido).
+3. De mais a mais, a ré foi devidamente intimada para o interrogatório, deixando, contudo, de comparecer à audiência.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Des. Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por SIMONE CARREIRAO ALVES contra decisão de minha relatoria que negou provimento ao recurso especial.
+Consta dos autos que a recorrente foi condenada à pena de 1 ano de reclusão, em regime inicial aberto, substituída por restritiva de direitos, pela prática do delito previsto no art. 334, § 1º, IV, c/c o art. 71, ambos do Código Penal.
+A defesa interpôs recurso de apelação perante a Corte de origem, a qual lhe negou provimento, em acórdão assim ementado (e-STJ fl. 561):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. DELITO DO ART. 334, § 1º, "B", DO CÓDIGO PENAL (NA REDAÇÃO ANTERIOR AO ADVENTO DA LEI 13.008/2014). MATERIALIDADE, AUTORIA E DOLO. COMPROVAÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. CONCESSÃO DA JUSTIÇA GRATUITA. NÃO CABIMENTO NESTA INSTÂNCIA. DESPROVIMENTO DO RECURSO.
+1. Nos delitos de descaminho e de contrabando, a materialidade e a autoria são comprovadas, em regra, com os documentos elaborados e lavrados pela autoridade fiscal competente e responsável pela diligência por ocasião da apreensão das mercadorias, revelando-se suficiente para a sua comprovação.
+Entendimento pacificado nas Turmas Criminais desta Corte.
+2. Nos crimes de contrabando e descaminho o dolo é o genérico, consistente na vontade livre e consciente de realizar a conduta descrita no tipo.
+3. No crime de contrabando o bem jurídico tutelado não é de cunho exclusivamente patrimonial, não sendo o bem protegido apenas o erário, mas outros igualmente importantes como, por exemplo, a saúde pública.
+4. A Quarta Seção desta Corte firmou o entendimento de que é aplicável a insignificância penal quando a quantidade de cigarros contrabandeados for inferior a 500 maços - por considerar que tal quantidade torna irrelevante o fato - e, ainda, quando não estiver caracterizada sua destinação comercial.
+5. O exame do pedido de concessão da Assistência Judiciária Gratuita não guarda ensejo nesta quadra, cabendo ao Juízo da Execução Penal analisar a situação econômica do réu e decidir sobre a pretensão.
+A defesa opôs, ainda, embargos de declaração, os quais foram rejeitados. Eis a ementa dos aclaratórios (e-STJ fl. 590):
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. ART. 619 DO CPP. REQUISITOS. OMISSÃO. INEXISTÊNCIA.
+1. A via declaratória tem o objetivo específico de provocar novo pronunciamento judicial de caráter integrativo e/ou interpretativo nas hipóteses de ambiguidade, omissão, contradição ou obscuridade, a teor do artigo 619 do Código de Processo Penal, ou então, por construção pretoriana integrativa, quando constatado erro material no julgado, sendo, portanto, o recurso aclaratório de vocação estrita.
+2. Não prospera o desiderato voltado à obtenção do reexame da questão decidida. A isso não se presta o recurso da espécie.
+3. Não merece acolhida a pretensão defensiva quando nenhuma das causas ensejadoras dos aclaratórios se configura na espécie.
+4. A simples insurgência da parte contra os fundamentos invocados e que levaram o órgão julgador a decidir não abre espaço para o manejo dos embargos de declaração, devendo ser buscada a modificação pretendida na via recursal apropriada.
+No recurso especial, alegou violação ao art. 155 do Código de Processo Penal. Destacou que a condenação foi fundamentada apenas em elementos colhidos na fase de investigação.
+Aduziu que "não há um depoimento de uma testemunha sequer. Da mesma forma, não houve interrogatório judicial. Tudo é provindo da fase no inquérito, extrajudicial, inquisitiva, prestável à opinião sobre o delito e oferecimento da peça acusatória; imprestável para fins condenação" (e-STJ fl. 602).
+Requereu, assim, o provimento do recurso especial para que a recorrente fosse absolvida.
+O recurso especial foi improvido.
+No presente agravo regimental, alega que "a oitiva de testemunhas em juízo não se revela como prova irrepetível que justifique a condenação da agravante baseado apenas no procedimento administrativo. Embora o Parquet Federal tenha deixado de arrolar as testemunhas com o fundamento de que são "os servidores públicos que materializaram suas impressões em atos administrativos", a oitiva dessas testemunhas não se enquadra nas exceções do artigo 155 do Código de Processo Penal" (e-STJ fl. 657).
+Afirma que "o testemunho dos agentes administrativos que supostamente apreenderam a mercadoria era indispensável para confirmar os fatos do procedimento fiscal, sendo que tais narrativas, mesmo que para chancelar o conteúdo das suas declarações, em especial a ratificação judicial da autoria delitiva, poderiam ser contraditados pela defesa, e por isso a importância dos referidos testemunhos" (e-STJ fl. 658).
+Destaca que "não há nos autos o depoimento de uma testemunha sequer. Da mesma forma, não houve interrogatório judicial. Tudo é provindo da fase no inquérito, extrajudicial, inquisitiva, prestável apenas à opinião sobre o delito e oferecimento da peça acusatória, mas imprestável para fins de condenação" (e-STJ fl. 658).
+Aduz que, "mesmo que se considere diferido o contraditório, a ausência de oitiva da agravante que não compareceu ao seu interrogatório em juízo, não pode ser considerado como questão fática prejudicial para embasar a condenação. Trata-se de mero exercício de uma prerrogativa assegurada ao acusado, o direito da ampla defesa (CRFB/88, art. 5º, LV)" (e-STJ fl. 661).
+Requer, assim, o provimento do agravo para que a recorrente seja absolvida.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A decisão monocrática deve ser mantida pelos seus próprios fundamentos.
+Isso porque, a Corte de origem, ao manter a condenação da agravante, destacou que (e-STJ fls. 585/587):
+A parte embargante maneja os presentes aclaratórios à alegação de que não houve fundamentação suficiente e adequada à deflagração do decreto condenatório" sustentada pela ausência de provas produzidas no âmbito judicial".
+Quanto ao ponto, impõe-se destacar que assente nesta Corte o entendimento de que não há óbice à utilização de provas produzidas na fase inquisitorial como fundamento para a condenação, desde que submetidas ao contraditório na fase judicial, o que, no caso vertente, efetivamente aconteceu.
+Veja-se, a propósito, o recente julgado:
+ ..
+No caso em tela, conforme consignado no voto condutor do acórdão embargado, os documentos vinculados ao Inquérito Policial 5078305-22.2014.4.04.7000, sobretudo a Representação Fiscal para Fins Penais, o Auto de Infração e Apreensão, o Termo de Guarda de Mercadorias e o Demonstrativo de Créditos Tributários Evadidos (Evento 1 - DESP2, do IPL) para além de evidenciar a materialidade, são aptos a comprovar a autoria do fato-crime em questão.
+Ademais, referidos documentos, mormente em cotejo com o flagrante ocorrido e com o depoimento da apelante, em sede policial, oportunidade em que admitiu os fatos narrados com verdadeiros, afirmando que as mercadorias eram provenientes do Paraguai e que seriam revendidas no varejo (Evento 6, DESP1, fl. 12, do IPL e Evento 19, REL_ FINAL_IPL1)) são válidos para embasar o decreto condenatório.
+Ressalto que todos os documentos foram produzidos na esfera administrativa por servidores públicos, no exercício de suas funções, que neles atestaram a sua fé pública. Assim sendo, gozam de presunção de veracidade e legitimidade, próprios dos atos administrativos, portanto, considerados provas irrepetíveis a teor das exceções previstas no artigo 155 do CPP. E conforme entendimento pacificado nas Turmas Criminais desta Corte, a materialidade e a autoria são comprovadas, em regra, com os documentos elaborados e lavrados pela autoridade fiscal competente e responsável pela diligência por ocasião da apreensão das mercadorias, revelando-se suficiente para a comprovação da prática do crime previsto no artigo 334 do Código Penal. Vejamos os recentes julgado:
+ ..
+A propósito, não há falar em violação ao artigo 155 do Código de Processo Penal, cujo desígnio é garantir que a condenação criminal não seja baseada puramente em elementos extrajudiciais, ressalvando, contudo, as provas cautelares, irrepetíveis e antecipadas, sendo ônus da defesa comprovar qualquer vício em sua constituição, o que não se observou no caso dos autos.
+Impende registrar que, devidamente intimada (Evento 112, CERT1 e MAND2, da Ação Penal), SIMONE CARREIRAO ALVES deixou de comparecer à audiência designada para o seu interrogatório (Evento 113, TERMOAUD1, da Ação Penal), sendo declarada sua revelia (evento 113), optando, desse modo, por não contrapor as provas já existentes nos autos.
+Assim, ao tempo em que foram oportunizados à defesa, na fase judicial, o contraditório e a ampla defesa, com a devida intimação da ora embargante para prestar sua versão dos fatos em juízo, não foram apontados pela defesa, em nenhum momento, fundamentos capazes de desconstituir as provas até então produzidas.
+Com efeito, ausente qualquer impugnação às provas produzidas na fase pré-processual, não há falar em ausência de prova apta a autorizar o juízo condenatório.
+Vale enfatizar que a questão sobre a qual a defesa reclama agora saneamento não foi objeto de irresignação pela defesa em primeiro grau e, sequer, proposta em sede de apelação, constituindo verdadeira inovação recursal, o que é rejeitado pelas Turmas Criminais desta Corte, consoante se verifica nos recentes julgados:
+ ..
+Consignei, na decisão monocrática, que esta Corte superior admite que "a documentação proveniente de procedimento fiscal seja utilizada para embasar a condenação, porquanto durante a instrução penal ocorre o contraditório diferido" (AgRg no AREsp n. 1.190.401/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 18/10/2018, DJe de 7/11/2018).
+No presente caso, a Corte de origem consignou que foi oportunizada à defesa a impugnação dos documentos produzidos na fase fiscal, e além disso, a agravante foi intimada para o interrogatório, deixando, contudo, de comparecer à audiência.
+Dessa forma, apesar de a condenação estar fundamentada em elementos produzidos na fase fiscal, era possível a impugnação dos documentos na fase judicial.
+Assim, não há falar em violação ao art. 155 do Código de Processo Penal, no presente caso.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 334, CAPUT, DO CÓDIGO PENAL. DESCAMINHO. MATERIALIDADE E AUTORIA COMPROVADOS. OFENSA AO ART. 155 DO CPP. INEXISTÊNCIA. CONTRADITÓRIO DIFERIDO.
+1. O delito de descaminho consuma-se não com a conduta de atravessar a fronteira do país, mas com a omissão do pagamento dos impostos devidos por essa internalização. Iludir (enganar ou frustrar) é a conduta, cujo objeto é o pagamento de direito ou imposto.
+2. De acordo com a denúncia, o recorrente, dolosamente e ciente da ilicitude e da reprovabilidade de sua conduta, importou e transportou diversas mercadorias estrangeiras (eletrônicos, games, celulares e receptores de satélite), sem a regular documentação de importação, em infração às medidas de controle fiscal, iludindo o pagamento de tributos federais (II e IPI) no montante de RS 4.393,05 (quatro mil, trezentos e noventa e três reais e cinco centavos).
+3. Embora o art. 155 do CPP admita que o magistrado forme a sua convicção com base em provas cautelares, não repetíveis e antecipadas que tenham sido formadas no curso do inquérito policial, isso não significa concluir que tais elementos probatórios não poderão ser submetidos a contraditório durante a instrução processual, oportunidade em que a legalidade de sua obtenção, seja pelos meios, seja pelos fins que a motivou, deverá ser apreciada pelo magistrado. Nesse hipótese tem-se o contraditório diferido, postergado ou adiado - o contraditório sobre a prova -, de modo que, em nenhum caso, deixa de haver controle judicial. (AgRg no HC 537.179/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 01/09/2020, DJe 09/09/2020)
+4. E, nos termos da jurisprudência desta Corte Superior, admite-se que a documentação proveniente de procedimento fiscal seja utilizada para embasar a condenação, porquanto durante a instrução penal ocorre o contraditório diferido.
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp n. 2.019.031/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/4/2022, DJe de 25/4/2022.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
