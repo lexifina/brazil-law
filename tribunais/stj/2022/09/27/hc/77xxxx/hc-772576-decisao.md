@@ -1,0 +1,22 @@
+DECISÃO
+JILÁRIO LEMOS QUARESMA SILVAalega sofrerconstrangimento ilegal decorrente de acórdão prolatado pelo Tribunal de Justiça do Estado de Minas Gerais (Habeas Corpus n.1.0000.22.187520-6/000)
+A defesa se insurge contra a determinação feita pelo Juízo das Execuções, de remessa dos autos ao Conselho Penitenciário para emissão de parecercomo condição para a análise do pedido de indulto lastreado no art.1º, XV, do Decreto n. 8.615/2015. Assinala quese trata de exigência não prevista em norma legal.
+Decido.
+Não verifico a inauguração da competência desta Corte para processar e julgar o habeas corpus, à míngua deexame prévio da controvérsia por Tribunal regional ou estadual, nos termos do art.105 da CF.
+Deveras:"matéria não analisada pelo Tribunal de origem não pode ser diretamente enfrentada neste momento, sob pena de supressão de instância" (RHC n. 98.130/MG, Rel. MinistroNefi Cordeiro, 6ª T., DJe 16/10/2018).
+Entretanto,a defesa suscitou a teseno habeas corpus originário, não examinadafundamento de que não é possível autilização doremédio constitucionalem substituição aoagravo em execução. Este posicionamento não tem o condão de subtrair do órgão julgador a verificação quanto à existência de patente ilegalidadena decisãodo Juiz da VEC.
+A controvérsia -exigência de parecer do Conselho Penitenciário para exame de pedido de indulto - está relacionada a direito de locomoção.Se não há registro de correição parcial ou deagravo em execução,o remédio constitucionalé o único instrumento de que dispõe o apenado para apontareventual ilegalidade ou abuso de poder.
+Assim,reconheço a negativa de prestação jurisdicional.Com efeito:
+ ..
+2. O Tribunal de Justiça indeferiu liminarmente owrit, deixando de apreciar o pleito formulado na impetração, ao fundamento de que "a via eleita não se presta a funcionar como substitutivo do agravo em execução, recurso cabível para o reexame da matéria ora ventilada".
+Entretanto, esta Corte Superior de Justiça consolidou o entendimento de que "é bem verdade que o STJ não mais tem admitido a impetração de habeas corpus, quando substitutivo de recursos próprios. Todavia,tal posicionamento não tem o condão subtrair do magistrado a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder habeas corpus de ofício. Inteligência do art. 654, § 2º, do CPP" (HC n. 301.883/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2014, DJe 10/11/2014).
+3. Agravo a que se nega provimento. Ordem concedida de ofício, tão somente para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do habeas corpus originário como entender de direito.
+(AgRg no HC 561.747/SP, Rel. MinistroAntonio Saldanha Palheiro, 6ª T., DJe 4/8/2020).
+ ..
+1. O pedido de cassação da decisão proferida pelo Juízo das Execuções, que determinou a realização de exame criminológico para a análise do pedido de progressão, não foi apreciado pelo Tribunal a quo, que indeferiu liminarmente à ordem originária por entender que era inviável a análise da matéria, na via do habeas corpus, por haver previsão de recurso específico para impugnar ato do Juiz das Execuções Penais.
+2. Como a matéria arguida não foi analisada pelo Tribunal a quo, não pode ser originariamente examinada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.
+3. A existência de recurso específico não inviabiliza a impetração de ordem de habeas corpus para a aferição de eventual ilegalidade na fase de execução da pena, quando a análise recai sobre questão pacificada e meramente de direito, consubstanciada na tese a respeito da prévia realização do exame criminológico para fins de progressão de regime. A recusa em analisar o tema, pelo Tribunal de origem, constitui ilegalidade flagrante.
+4. Agravo regimental desprovido. Ordem de habeas corpus concedida, de ofício, para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do HC n.º 2165621-88.2018.8.26.0000, como entender de direito.
+(AgRg no HC 465.318/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 10/4/2019).
+À vista do exposto,não conheço do habeas corpus, haja vista a indevida supressão de instância. Contudo, de ofício,determinoao Tribunal de Justiçaa quoque aprecie, como entender de direito, uma vezverificada a não interposição (ou o julgamento) de correição parcial ou agravo em execução,a controvérsia deduzida nohabeas corpus originário.
+Publique-se e intimem-se.
