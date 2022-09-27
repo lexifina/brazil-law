@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TEODORO & VASCONCELOS LTDA à decisão de fls. 726/727, que não conheceu do recurso.
+Sustenta a parte embargante que:
+No caso, o Recurso Especial originário do presente Agravo foi interposto exclusivamente com base no permissivo constante da letra "c" do inciso III do artigo 105 da CF/88, mediante a completa análise comparativa da semelhança entre a situação posta no acórdão recorrido, e os julgados paradigmas transcritos, e juntados em inteiro teor, retirados do site oficial desta Corte Superior (www.stj.jus.br) (fl. 730).
+ ..
+Dessa forma, tendo o REsp como fundamento exclusivo a divergência jurisprudencial, e, sendo a mesma devidamente demonstrada, na forma dos artigos 1.029, § 1º do CPC, e 255, §1º do RISTJ, com o devido cotejo analítico da semelhança entre os casos, não há que se falar em incidência da Súmula 284 do STF, pela qual "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" |(fl. 734).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou com interpretação divergente.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Ademais, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
