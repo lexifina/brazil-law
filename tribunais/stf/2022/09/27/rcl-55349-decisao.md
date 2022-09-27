@@ -1,0 +1,71 @@
+Decisão: Trata-se de reclamação constitucional, proposta pelo Município de São Leopoldo, em face de decisão proferida pelo Juízo da 4ª Vara do Trabalho de São Leopoldo, nos autos do Processo 0020285-14.2021.5.04.0334.
+
+    Na petição inicial, o reclamante alega, em síntese, que a decisão reclamada, ao reconhecer a responsabilidade subsidiária do ente público pelo adimplemento de verbas trabalhistas, teria ofendido a autoridade de decisão proferida por esta Corte no julgamento da ADC 16, bem como o enunciado da Súmula Vinculante 10.
+
+    Requer, assim, a procedência da presente reclamação, a fim de que seja cassada a decisão impugnada.
+
+    Citada, a beneficiária, Renata Alves, apresentou contestação (eDOC 10)
+
+    Deixei de requisitar informações e de enviar o feito à Procuradoria-Geral da República por entender que o processo reúne condições de julgamento (arts. 52, parágrafo único, e 161, parágrafo único, ambos do RISTF).
+
+    É o relatório.
+
+    Decido.
+
+    A reclamação, tal como prevista no art. 102, I, l, da Constituição e regulada nos artigos 988 a 993 do Código de Processo Civil e 156 a 162 do Regimento Interno do Supremo Tribunal Federal, tem cabimento para preservar a competência do tribunal ou garantir a autoridade de suas decisões, bem como contra ato administrativo ou decisão judicial que contrarie súmula vinculante (CF/88, art. 103-A, § 3º).
+
+    Com efeito, quanto ao tema de fundo, observa-se que este Supremo Tribunal Federal, no julgamento da ADC 16 (Rel. Min. Cezar Peluso, Tribunal Pleno, DJe 9.9.2011), declarou a constitucionalidade do art. 71, § 1º, da Lei 8.666/1993, que dispõe sobre a impossibilidade jurídica de transferência de responsabilidade à Administração Pública de encargos decorrentes do não cumprimento, pelo contratado, de obrigações trabalhistas, fiscais ou comerciais.
+
+    Posteriormente a esse julgamento, o Tribunal Superior do Trabalho deu nova redação à Súmula 331 daquela Corte, para fazer constar que o inadimplemento das obrigações trabalhistas, por parte do empregador, implica a responsabilidade subsidiária dos entes integrantes da Administração Pública direta e indireta em determinados casos.
+
+    Constata-se, de igual modo, que esta Suprema Corte reconheceu a existência de repercussão geral dessa matéria, nos autos do RE-RG 760.931 (tema 246), que substituiu o RE-RG 603.397, Rel. Min. Rosa Weber. Eis a ementa do julgado:
+
+    “ADMINISTRATIVO. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO PÚBLICA POR ENCARGOS TRABALHISTAS EM FACE DO INADIMPLEMENTO DE EMPRESA PRESTADORA DE SERVIÇO. EXAME DA CONSTITUCIONALIDADE DO ART. 71, § 1º, DA LEI 8.666/1993. EXISTÊNCIA DE REPERCUSSÃO GERAL”.
+
+    Por ocasião do julgamento do mérito do citado paradigma, a Corte deu parcial provimento ao recurso da União e confirmou o entendimento adotado na ADC 16, no sentido de proibir a responsabilização automática da Administração Pública, só cabendo condenação se houver prova inequívoca de sua conduta omissiva ou comissiva na fiscalização dos contratos.
+
+    Nesses termos, para que haja a responsabilização do ente público é necessário que se comprove cabalmente nos autos o comportamento reiteradamente negligente da Administração, bem como o nexo causal entre a conduta comissiva ou omissiva do Poder Público e o dano sofrido pelo trabalhador.
+
+    Além disso, é imprescindível que se comprove o conhecimento, pela Administração Pública, da situação de ilegalidade e sua inércia em adotar providências para saná-la.
+
+    Nesse sentido, cito os seguintes julgados:
+
+    “DIREITO DO TRABALHO E ADMINISTRATIVO. AGRAVO INTERNO EM RECLAMAÇÃO. ART. 71, § 1º, DA LEI Nº 8.666/1993. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO POR DÍVIDAS TRABALHISTAS EM CASO DE TERCEIRIZAÇÃO. 1. O Supremo Tribunal Federal firmou, no julgamento do RE 760.931, Red. p/o acórdão o Min. Luiz Fux, a seguinte tese: ‘O inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93’. 2. Nesse contexto, a responsabilização do ente público depende da demonstração de que ele possuía conhecimento da situação de ilegalidade e que, apesar disso, deixou de adotar as medidas necessárias para combatê-la. 3. A responsabilidade subsidiária do ente público encontra-se embasada exclusivamente na ausência de prova da fiscalização do contrato de terceirização. De modo que foi violada a tese jurídica firmada na ADC 16, Rel. Min. Cezar Peluso, à luz da interpretação que lhe foi dada no RE 760.931, Red. p/o acórdão o Min. Luiz Fux. 4. Inaplicável, na espécie, a exigência de esgotamento das instâncias ordinárias, prevista art. 988, §5º, II, do CPC/2015, por se tratar de reclamação ajuizada por afronta à ADC 16 e anterior à conclusão do julgamento do tema 246 da repercussão geral. Precedentes. 5. Agravo interno desprovido”. (Rcl 26.819 AgR, Relator Roberto Barroso, Primeira Turma, DJe 23.6.2020; grifei)
+
+    “AGRAVO INTERNO NA RECLAMAÇÃO. CONSTITUCIONAL. TRABALHISTA. RESPONSABILIDADE SUBSIDIÁRIA DA ADMINISTRAÇÃO. AFRONTA AO QUE DECIDIDO NO JULGAMENTO DA AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE 16. IMPOSSIBILIDADE DE RESPONSABILIZAÇÃO AUTOMÁTICA DA ADMINISTRAÇÃO PELO INADIMPLEMENTO DE OBRIGAÇÕES TRABALHISTAS POR PARTE DA EMPRESA CONTRATADA. ARTIGO 71, PARÁGRAFO 1º, DA LEI 8.666 /1993. PRECEDENTES. AGRAVO A QUE SE DÁ PROVIMENTO. 1. No julgamento do Recurso Extraordinário 760.931, Tema 246 da Repercussão Geral, que interpretou o julgamento desta Corte na ADC 16, o STF assentou tese segundo a qual ‘o inadimplemento dos encargos trabalhistas dos empregados do contratado não transfere automaticamente ao Poder Público contratante a responsabilidade pelo seu pagamento, seja em caráter solidário ou subsidiário, nos termos do art. 71, § 1º, da Lei nº 8.666/93’. 2. Consequentemente, a responsabilização subsidiária da Administração Pública, embora possível, é excepcional e condicionada à respectiva culpa, devidamente comprovada nos autos. 3. In casu, a decisão reclamada atribuiu à União a responsabilidade subsidiária omissiva pelos encargos trabalhistas decorrentes da contratação de serviços por intermédio de empresa terceirizada, conquanto inexistente prova taxativa de culpa in vigilando. 4. Neste contexto, é insuficiente a mera afirmação genérica de culpa in vigilando ou a presunção de culpa embasada exclusivamente na ausência de prova da fiscalização do contrato de terceirização. Precedentes. 5. Agravo a que se dá provimento a fim de cassar a decisão reclamada, na parte em que atribui responsabilidade subsidiária ao ente administrativo”. (Rcl 16.777 AgR, Rel. Rosa Weber, Relator para acórdão: Luiz Fux, Primeira Turma, DJe 22.6.2020; grifei)
+
+    Na hipótese dos autos, verifico que a autoridade reclamada entendeu que o reclamante deveria ser responsabilizado subsidiariamente pelas obrigações trabalhistas, em razão da insuficiência de fiscalização contratual. Reputou, ainda, que a ineficiência da fiscalização estaria comprovada pelo simples inadimplemento de direitos trabalhistas por parte da empresa contratada. Nesse sentido, transcrevo trecho do acórdão reclamado:
+
+    “(...)
+
+    Resta incontroverso nos autos ser o segundo reclamado o beneficiário direto dos serviços prestados pela reclamante, atinentes à limpeza e conservação de ambiente pertencente à municipalidade, em decorrência de contrato de prestação de serviços firmado entre os reclamados.
+
+    A documentação juntada com a defesa do segundo reclamado somente revela fiscalização do contrato celebrado com a primeira ré, nada havendo no sentido da efetiva garantia do cumprimento das obrigações trabalhistas pelos prestador de serviços, o que se impunha. Mesmo na farta documentação acostada, não se verifica a eficácia da fiscalização para o pagamento correto das parcelas salariais ou mesmo retenção de valores para fins de satisfação dessas parcelas aos empregados da primeira reclamada, em que pese noticiada a rescisão do contrato de prestação de serviços entre as reclamadas. No caso, a fiscalização a ser realizada pelo ente público deve ser eficaz, como forma de garantir efetivo cumprimento das obrigações trabalhistas pelo empregador, não se prestando para afastar sua responsabilidade a mera aplicação de penalidades à empresa contratada ou mesmo a rescisão do contrato de prestação de serviços. No caso em exame, como já constatado em diversas outras demandas envolvendo matéria similar, houve rescisão do contrato mantido entre os reclamados, sem que o Município fiscalizasse o cumprimento dos haveres rescisórios, o que se impunha, em especial considerando que muitos dos trabalhadores envolvidos, o que era o caso da reclamante, continuaram prestando serviços em favor do Município (para outra empresa que tem relação com a primeira reclamada, como constatado pelo Tribunal de Contas do Estado), o que evidencia que houve a rescisão do contrato de trabalho dos trabalhadores que prestaram serviços em favor do Município. Impõe-se reconhecer, por consequência, culpa da administração pública, por omissão na fiscalização do cumprimento das obrigações trabalhistas no inadimplemento por parte do empregador.
+
+    Nesses termos, conclui-se pela culpa direta do segundo reclamado no inadimplemento das verbas pelo empregador.
+
+    Gize-se que as disposições da Lei 8.666/93, invocadas na contestação do segundo reclamado, não servem para afastar a aplicação da legislação trabalhista, na espécie, assim como do entendimento jurisprudencial contido no item V da Súmula 331 do TST:
+
+    (...)
+
+    Oportuno referir, a respeito da decisão do Supremo Tribunal Federal, na ADC 16, que a constitucionalidade do artigo 71, § 1º, da Lei 8.666/93, não afasta a possibilidade da Justiça do Trabalho, analisando o caso concreto, reconhecer a conduta culposa da administração pública, como ocorre no caso.
+
+    Reconhece-se, pelo exposto, a responsabilidade subsidiária do segundo reclamado pelos créditos decorrentes da presente demanda. Essa responsabilidade alcança a totalidade dos créditos devidos pela empregadora, inclusive multas e acréscimos decorrentes do inadimplemento oportuno dos valores devidos”. (eDOC 4, pp. 1-2) (Grifei)
+
+    Ora, verifica-se que o Juízo reclamado incorreu na figura da responsabilização automática do ente público, entendimento que, como demonstrado, está em desacordo com a jurisprudência desta Suprema Corte sobre o tema.
+
+    Corroborando essa afirmação, cito, ainda, o seguinte julgado:
+
+    “CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO. RECLAMAÇÃO CONTRA DECISÃO QUE ATRIBUIU RESPONSABILIDADE SUBSIDIÁRIA À RECLAMANTE SEM A DEMONSTRAÇÃO DE COMPORTAMENTO SISTEMATICAMENTE NEGLIGENTE OU DE NEXO DE CAUSALIDADE ENTRE A CONDUTA DO PODER PÚBLICO E O DANO SOFRIDO PELO TRABALHADOR. ALEGADA VIOLAÇÃO AO QUE DECIDIDO NA ADC 16 E NO RE 760.931. OCORRÊNCIA. RECURSO PROVIDO. 1. Por ocasião do julgamento do RE 760.931, sob a sistemática da Repercussão Geral, o Plenário desta SUPREMA CORTE afirmou que inexiste responsabilidade do Estado por débitos trabalhistas de terceiros, alavancada pela premissa da inversão do ônus da prova em favor do trabalhador. 2. No caso sob exame, não houve a comprovação real de um comportamento sistematicamente negligente da agravante, tampouco há prova do nexo de causalidade entre a conduta comissiva ou omissiva do Poder Público e o dano sofrido pelo trabalhador, a revelar presunção de responsabilidade da reclamante, conclusão não admitida por esta CORTE quando do julgamento da ADC 16. 3. Recurso de agravo ao qual se dá provimento”. (Rcl 37.320 AgR, Rel. Min. Rosa Weber, Redator do acórdão Min. Alexandre de Moraes, Primeira Turma, DJe 18.6.2020; grifei).
+
+    Ante o exposto, julgo procedente a reclamação, para cassar o ato reclamado, no ponto em que reconheceu a responsabilidade subsidiária do Município de São Leopoldo, determinando que outro seja proferido, nos termos da jurisprudência desta Corte (art. 21, § 1º, do RISTF).
+
+    Publique-se.
+
+    Brasília, 27 de setembro de 2022.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
