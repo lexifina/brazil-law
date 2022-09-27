@@ -1,0 +1,18 @@
+DECISÃO
+ADRION PINHEIRO RODRIGUESalega sofrer coação ilegal, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sulna Apelação Criminal n. 5000554-27.2020.8.21.0117.
+Depreende-se dos autos que opaciente foi condenado à pena de4 anos e 2meses de reclusão, no regime inicial semiaberto,mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Nas razões deste writ, busca a defesa seja aplicada a minorante prevista no § 4º do art. 33 da Lei de Drogas no patamar máximo.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+Decido.
+Segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa."
+Observa-se, assim, que o dispositivo legal estabelece apenas os requisitos necessários para a aplicação da minorante nele previsto, deixando, contudo, de estabelecer os parâmetros para a fixação do quantum de diminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal e, especialmente, o disposto no art. 42 da Lei de Drogas. A propósito, confira-se o seguinte julgado: AgRg no REsp n. 1.429.866/MT, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/6/2015.
+Nos autos em exame, a Corte de origem, ao manter a condenaçãooréu, dosou sua pena nos termos seguintes (fls. 28-29, grifei):
+Já no tocante à aplicação da minorante prevista no parágrafo 4º do artigo 33 da Lei 11.343/06, adianto que merece proceder o pleito defensivo. Isso porque o acusado é primário, não ostenta antecedentes e não há demonstração de que integre organização criminosa ou que se dedique às atividades criminosas.
+ ..
+Presente a minorante do § 4º do artigo 33 da Lei 11.343/06, considerando a natureza e quantidade de droga apreendida, reduzo a pena em 1/6, redimensionando a pena para 04 (quatro) anos e 02 (dois) meses e (02) de reclusão, a qual torno definitiva.
+Veja-se, portanto, que a instância de origemfundamentouconcretamente a aplicação do privilégio previsto no § 4º do art. 33 da Lei de Drogas na fração de 1/6e salientou, para tanto, condições entre as estabelecidas no art. 42 da Lei de Drogas, qualseja, a natureza e a quantidadede drogas apreendidas (2.381 kg de maconha, 421 g de crack e 348 g de cocaína).
+Ainda, destaco que, segundo entendimento consolidado no Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015), situação que reputo devidamente caracterizada nos autos.
+Assim, não identifico a contrariedade ao § 4º do art. 33 da Lei n. 11.343/2006.
+À vista do exposto, denegoo habeas corpus.
+Publique-se e intimem-se.
