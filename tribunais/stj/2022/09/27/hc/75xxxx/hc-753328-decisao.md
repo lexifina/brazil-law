@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PHELIPPE DOUGLAS ALVES apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação Criminal n. 0002395-07.2018.8.26.0269 e HC n. 0004651-12.2022.8.26.0000).
+Depreende-se dos autos ter sido o paciente condenado à pena de 34 anos, 7 meses e 10 dias de reclusão, em regime fechado, e de 10 meses e 14 dias de detenção, em regime semiaberto, "por infração ao artigo 121, § 2º, incisos II, III, IV e VI, c.c. § 2º-A, inciso I, § 7º, inciso II, § 4º, última parte, c.c. art. 61, inciso II, alínea "e", ambos do Código Penal, artigo 1º, inciso II, c.c. § 4º, inciso II, da Lei nº 9.455/97, artigo 148, § 1º, incisos I e IV e artigo 347, parágrafo único, ambos do Código Penal, em concurso material de crimes" (e-STJ fl. 26).
+Irresignados, defesa e Ministério Público Estadual ingressaram com recursos, e os desembargadores, "rejeitadas as preliminares, negaram provimento ao recurso defensivo, e deram parcial provimento ao apelo ministerial, para elevar a pena-base do delito de homicídio e elevar a fração empregada para o crime continuado com relação ao delito de tortura, para ambos os réus, totalizando a reprimenda final de 41 anos e 02 meses de reclusão, 10 meses e 14 dias de detenção, e pagamento de 34 dias-multa, no valor unitário mínimo, para o réu PHELIPPE DOUGLAS ALVES; e 28 anos, 05 meses e 18 dias de reclusão, 06 meses de detenção e pagamento de 20 dias-multa, no valor unitário mínimo para a ré DEBORA ROLIM DA SILVA, mantida, no mais, a r. sentença recorrida. V.U.", de conformidade com o voto do Relator, que integra este acórdão" (e-STJ fl. 25). Eis a ementa do aludido julgado (e-STJ fl. 26):
+Apelação criminal Homicídio qualificado, tortura, cárcere privado e fraude processual.
+PRELIMINARES REJEITADAS.
+MÉRITO Autoria e materialidade demonstradas Decisão dos jurados em consonância com as provas dos autos.
+Penas ADEQUAÇÃO apenas para elevar a pena- base do crime de homicídio, bem como para aplicar a fração de  para o crime continuado com relação à tortura.
+Rejeitadas as preliminares, recurso ministerial parcialmente provido e desprovido o apelo defensivo.
+Daí o presente writ, no qual sustenta a defesa, inicialmente, que "a matéria arguida nessa seara "CONFISSÃO", conforme declinado, não foi discutida no tribunal de origem, a qual foi objeto de HC nº 0004651.12.2022.8.26.0000, sendo afinal denegado imotivadamente sem apreciação do mérito, o que dá azo para impetração da presente ordem de habeas corpus nesta Corte" (e-STJ fl. 6).
+No mais, afirma ser caso de reconhecimento da atenuante da confissão, invocando, ainda, o enunciado n. 545 da Súmula desta Casa.
+Busca, inclusive liminarmente, "o deferimento de tosos os pedidos ora elencados na exordial (reconhecimento atenuante da confissão), redimensionando a pena para 34 anos e 02 meses de reclusão e 9 meses e 10 dias de detenção, concedendo a ordem de ofício, ante a ilegalidade e o constrangimento ilegal por ser medida de Justiça" (e-STJ fl. 14).
+O pedido liminar foi indeferido.
+Informações prestadas.
+Parecer ministerial"pelo nãoconhecimento do writ com concessão da Ordem de ofício para que o Tribunal de origem julgue o mérito do HC nº. 0004651-12-22.8.26.0000 como entender de direito"(e-STJ fl. 118).
+É, em síntese, o relatório.
+Decido.
+De início, verifico que o Tribunal de origem, no exame do recurso de apelação defensiva, não tratou especificamente da matéria relativa à incidência da atenuante da confissão. Diante desse cenário, ante a falta de manifestação do colegiado local no acórdão ora juntado acerca das matéria objeto deste mandamus, evidente a incompetência desta Corte Superior para o processamento e julgamento deste remédio constitucional.
+Nesse mesmo caminhar:
+HABEAS CORPUS. ROUBO MAJORADO. WRIT SUBSTITUTIVO DE RECURSO PRÓPRIO.  ..  SUPRESSÃO DE INSTÂNCIA. ORDEM CONCEDIDA DE OFÍCIO.
+ ..  10. O direito de recorrer em liberdade não foi objeto de discussão pela Corte de origem, motivo pelo qual se evidencia a incompetência deste Superior Tribunal de Justiça para apreciar o aludido tema posto no writ e a consequente supressão de instância.  ..
+(HC 278.542/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4/8/2015, DJe 18/8/2015.)
+Contudo, o Superior Tribunal de Justiça consolidou o entendimento de que "é bem verdade que o STJ não mais tem admitido a impetração de habeas corpus, quando substitutivo de recursos próprios. Todavia, tal posicionamento não tem o condão subtrair do magistrado a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder habeas corpus de ofício. Inteligência do art. 654, § 2º, do CPP" (HC301.883/SP, relatorMinistro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2014, DJe 10/11/2014).
+Tem-se, assim, que a ausência de manifestação do Tribunal acerca do pedido formulado na impetração originária configura indevida negativa de prestação jurisdicional, principalmente considerando que a análise do aventado constrangimento ilegal não necessita de revolvimento de matéria probatória, envolvendo apenas questão de direito.
+Diante dessas considerações, indefiro liminarmente o presente habeas corpus. Determino, todavia, que o Tribunal de Justiça do Estado de São Paulo analise o mérito do habeas corpus originário como entender de direito.
+Publique-se. Intimem-se.
