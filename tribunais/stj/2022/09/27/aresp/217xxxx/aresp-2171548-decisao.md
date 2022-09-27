@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo, interposto por FLÁVIO FRANCISCO FLACH, BERNADETE MARIA KLEIN FLACH, contra decisão que não admitiu recurso especial.
+O apelo nobre, a seu turno, com amparo na alínea "a" do permissivo constitucional, foi manejado no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO DE CONTRATO, DECOBRANÇA E DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RECONVENÇÃO OBJETIVANDO A CONDENAÇÃO DOSRECONVINDOS AO RESSARCIMENTO DE DANOS MATERIAIS EMORAIS. SENTENÇA DE PARCIAL PROCEDÊNCIA DA PRETENSÃOPRINCIPAL E DE IMPROCEDÊNCIA DA RECONVENÇÃO. DECLARAÇÃO DE RESCISÃO DA AVENÇA E CONDENAÇÃO DOSRÉUS À DEVOLUÇÃO DO DOBRO DAS ARRAS E À REPARAÇÃO DOSPREJUÍZOS PATRIMONIAIS DOS AUTORES. REJEIÇÃO DO PLEITOINDENIZATÓRIO POR ABALO ANÍMICO. INSURGÊNCIA DOS DEMANDADOS/RECONVINTES. PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DEDEFESA EM RAZÃO DO JULGAMENTO ANTECIPADO DO FEITO. CONTROVÉRSIA ACERCA DA DATA DE IMISSÃO DOS DEMANDANTESNA POSSE DO IMÓVEL OBJETO DO CONTRATO DE CESSÃO DEDIREITOS E OBRIGAÇÕES ENTRE AS PARTES. TESE DE EXISTÊNCIADE ADITIVO VERBAL. ACOLHIMENTO DA PREFACIAL. APLICAÇÃO AOCASO DA REGRA PROCESSUAL VIGENTE DO CÓDIGO DE 1973. INCIDÊNCIA DO PRINCÍPIO TEMPUS REGIT ACTUM. INTIMAÇÃO DASPARTES PARA A ESPECIFICAÇÃO DE PROVAS. AUSÊNCIA DEDETERMINAÇÃO PARA A APRESENTAÇÃO DO ROL DETESTEMUNHAS OU DE DESPACHO DE DESIGNAÇÃO DE AUDIÊNCIAINSTRUTÓRIA. NÃO OCORRÊNCIA DE PRECLUSÃO. INTELIGÊNCIADO ART. 407, CAPUT, DO CPC/1973. PRETENSÃO DE PRODUÇÃO DEPROVA QUE NÃO PODE SER OBSTADA. JULGAMENTO QUE SEREVELA PREMATURO. SENTENÇA CASSADA. REMESSA DOS AUTOSÀ ORIGEM PARA O REGULAR PROSSEGUIMENTO E INSTRUÇÃO DOFEITO. RECURSO CONHECIDO E PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões de recurso especial, o Recorrente aponta ofensa aos artigos30 e 407 do CPC 1973 e355, I e 370 do CPC 2015.Sustenta, em síntese,que não ocorreu qualquer cerceamento de defesa no caso em apreço.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1.Sustenta a insurgente o inocorrência de cerceamento de defesa, ao argumento depreclusão da prova pretendida eque o que o juiz deve julgar por seu livre convencimento e valorar as provas dos autos, suficientes para o deslinde da controvérsia.
+O Tribunal local, sobre o tema, assim concluiu:
+No caso em apreço, denota-se que o Juízo de origem formou seu convencimento com base no reconhecimento de que os recorrentes não comprovaram atese de pactuação de aditivo verbal ao contrato escrito, por meio do qual se postergou a data inicialmente prevista para a imissão dos apelados na posse do imóvel negociado, assim como a efetiva transferência da posse aos recorridos.
+Do cotejo dos autos, verifica-se que os apelantes apresentaram título de cobrança do IPTU (evento 141, OUT151) que demonstra que o imóvel estava cadastrado em nome do apelado Flávio Francisco Flach em 29-11-2010.
+Porém, a alteração da titularidade do cadastro imobiliário, isoladamente, não pode ser utilizada como prova inequívoca da transferência do poder fático sobre o bem negociado à parte recorrida, circunstância em que a obrigação que cabia aos recorrentes teria sido cumprida. Além de não guardar relação com a tese de que as partes pactuaram verbalmente o adiamento da imissão dos apelados na casa objeto do contrato, trata-se, em relação ao efetivo exercício da posse, de elemento indiciário, até porque inerente ao domínio.
+ ..
+Ademais, o mesmo raciocínio se aplica aos comprovantes de que houve o desembolso de quantias referentes ao ITBI e à FRJ (evento 141, COMP44-45),destinados à transferência apenas da propriedade do bem, de modo que não há como concluir que os documentos existentes nos autos sejam suficientes ao esclarecimento dos fatos controvertidos.
+ ..
+Com relação ao requerimento de produção probatória, assim fundamentou oMagistrado sentenciante (evento 141, SENT299-301):
+ ..
+Com efeito, do cotejo dos autos, verifica-se que o Juízo a quo se pautou empremissa fática equivocada ao reconhecer a inércia na apresentação do rol detestemunhas.
+Isso porque o despacho que determinou a intimação das partes para aespecificação das provas (evento 141, DESP248), apesar de ter se reportado ao atoordinatório proferido na página anterior (evento 141, CERTIDÃO247), não fez referência àapresentação do rol de testemunhas. Também não consta no citado ato ordinatóriomenção à qualificação das pessoas que as partes pretendiam ouvir.
+Portanto, a manifestação subsequente dos apelantes (evento 141, PET251),em que requereram a produção de prova oral, com a ressalva de que as testemunhas"serão arroladas no prazo legal", não pode gerar os efeitos da preclusão pela nãoapresentação do respectivo rol.
+Aliás, considerando que, ao tempo dos atos processuais em referência,estava vigente o CPC/1973, verifica-se que em momento algum foi proferido despachodesignando a audiência a que se refere o art. 407, caput, da citada Lei, quando teria inícioa contagem do prazo para a apresentação do rol de testemunhas pelas partes:
+ ..
+No caso concreto, a única audiência realizada no curso do processo sedestinou à tentativa de composição amigável entre os litigantes (evento 141, TERMO259 -documento chamado pela sentença como sendo o "termo de audiência de fl. 212"), demodo que o despacho que a designou (evento 141, DESP255-256) ou a data para a qualo ato foi aprazado (28-11-2012) não podem ser considerados como referências para ocômputo do prazo à apresentação do rol de testemunhas pelas partes.
+Nesse contexto, o julgamento antecipado do feito revela-se prematuro, vistoque impediu a dilação probatória acerca das teses de descumprimento da obrigação detransferência da posse do imóvel negociado e da ocorrência de acordo verbal através doqual os contratantes teriam alterado a data.
+De fato, a comprovação de que não teria havido violação contratual ou deque as partes, de fato, adiaram a data de transferência da posse alteraria o resultado dojulgamento poderá, em tese, ser alcançada por prova a ser produzida, razão por que apreliminar de nulidade da sentença merece ser reconhecida para permitir a produção denovas provas em audiência, devendo ser reaberto o prazo para a apresentação do rol detestemunhas.
+Em conclusão, o provimento do recurso é medida que se impõe, ficandoprejudicados os demais tópicos do apelo.
+Ante o exposto, voto no sentido deconhecer do recurso e dar-lhe provimento,para cassar a sentença e determinar o retorno dos autos à origem para regularprocessamento, conforme fundamentação.
+Com efeito, oTribunal local, após esmiuçadaanálise do conjunto probatório constante dos autos e da cronologia dos autos, considerou que houve cerceamento de defesa. Rever tal entendimento para o caso dos autos demandaria o reexame do contexto fático-probatório, o que é vedado pela Súmula 7 do STJ.
+Neste sentido, precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS MONITÓRIOS - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EMBARGANTE.
+1. Cabe ao juiz, como destinatário da prova, indeferir as que entender impertinentes, sem que tal implique cerceamento de defesa.
+Rever as conclusões do órgão julgador quanto à suficiência das provas apresentadas demanda o reexame do acervo fático-probatório dos autos, providência vedada pela Súmula 7 do STJ.
+2. Consoante a jurisprudência desta Corte, o Código de Defesa do Consumidor não se aplica no caso em que o produto ou serviço é contratado para a implementação de atividade econômica, já que não estaria configurado o destinatário final da relação de consumo (teoria finalista ou subjetiva). Tribunal de origem que afirma ter o financiamento sido obtido para o fomento da atividade produtiva, não se enquadrando essa como consumidora para efeito da incidência do diploma consumerista. Incidência do óbice da súmula 7/STJ.
+3. Conforme reiterada jurisprudência desta Corte, não há de se falar em descaracterização da mora se os encargos pactuados para incidir durante a normalidade contratual foram cobrados de forma regular.
+(AgInt no AREsp 721.211/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/11/2020, DJe 07/12/2020) 4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.973.833/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESTAÇÃO DE SERVIÇOS. AÇÃO MONITÓRIA. CERCEAMENTO DE DEFESA. RECONHECIMENTO DE DÍVIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A subsistência de fundamento não atacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF.
+2. Rever o entendimento do acórdão recorrido em relação à inexistência de cerceamento de defesa, e não ocorrência da prescrição, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento do conjunto fático-probatório dos autos, o que é vedado na via especial, ante o óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.919.629/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/6/2022, DJe de 24/6/2022.)
+Dessa forma, não se conhece do apelo especial, no ponto, diante da incidência da Súmula 7/STJ.
+2.Do exposto, com fulcro no art. 932 do NCPC c/c Súmula 568/STJ, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
