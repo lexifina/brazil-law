@@ -1,0 +1,10 @@
+DECISÃO
+Vistos etc.
+Trata-se de petição nº 784.722/2022 (e-STJ fls. 76/82) apresentada pelasuscitanteem que noticiater o Juízo do Trabalho Suscitado determinado a liberação dos depósitos judiciais existentesda execução trabalhista nº 0010101-05.2021.5.03.0050, sem prévia autorização do Juízo Universal, situação que confronta diretamente a decisão exarada às fls. 62/68 (e-STJ), na qual conheci do conflito"(..) para declarar a competência do Juízo da 1ª Vara Empresarial da Comarca de Belo Horizonte -MG para quaisquer exames relativos a pagamento de débitos da suscitante e constrição do seu patrimônio, relativos à execução trabalhista nº 0010101-05.2021.5.03.0050, movida por Cláudio Roberto Dias de Oliveira, inclusive com relação aos valores constritos pelo Juízo Suscitado, que deverão ser colocados à disposição do juízo universal, a quem competirá analisar eventual pedido de levantamento"(e-STJ, fl. 76).
+Nessa linha, requer asuscitante"(..)seja expedido, com urgência, novo ofício ao Juízo da Vara do Trabalho de Bom Despacho -MG para que se abstenha de transferir os depósitos judiciais existentes no processo de n.º 0010101-05.2021.5.03.0050ao Autor sem a prévia autorização pelo Juízo Universal, nos termos da decisão proferida nos autos do Conflito de Competência em epígrafe"(e-STJ, fl. 77).
+Instado a se manifestar, o Juízo do Trabalhoapresentou os esclarecimentos às fls. 89/115(e-STJ).
+É o breve relatório.
+Decido.
+Considerando (a) o encerramento da jurisdição no âmbito do presente conflito com o trânsito em julgado (e-STJ, fl. 74)da decisão de fls. 62/688 (e-STJ), na qual se objetivou apenas por termo à dúvida acerca da competência para o exercício de atividade jurisdicional, (b) a existência, na legislação processual, de meios impugnativos adequados para controlar suposto descumprimento de decisão judicial, notadamente a reclamação (CPC/2015, art. 988 e seguintes), não pode ser analisado neste incidente o pedido formulado.
+Ante o exposto, indefiro o pedido formulado na petição de fls. 76/82 (e-STJ).
+Intimem-se.
