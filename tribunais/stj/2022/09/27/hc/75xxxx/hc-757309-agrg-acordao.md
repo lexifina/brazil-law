@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JEFFERSON APARECIDO PRAXEDES DA LUZinterpõe agravo regimental contra decisum de fls. 98-100, em que deneguei a ordem para manter a segregação cautelar do paciente.
+Nas razões do regimental, o agravante requer, em síntese, a"revogação da prisão preventiva pela ocorrência do excesso de prazo, ou a concessão da liberdade provisória pela Colenda Turma Julgadora" (fl. 106).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS.PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO NÃO VERIFICADO.AGRAVO REGIMENTAL NÃO PROVIDO.
+1.Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+2. Na hipótese, a sentença de pronúncia foi prolatada cerca de quatro meses depois do recebimento da denúnciae o plenário não foi designado até o momento em virtude dos requerimentos formulados pelas partes na fase do art. 422 do Código de Processo Penal. Nesse contexto, registre-se que a defesa indicou assistente técnico e postulou a realização de perícia grafotécnica, o que foi deferido pelo Juízoa quo.
+3. Agravo regimental não provido.
+VOTO
+I. Contextualização
+O recorrente está preso, desde 14/9/2019, pela suposta prática do crime previsto nosarts. 121, § 2º, IV e V, do Código Penale 35 da Lei n. 11.343/2006.
+A defesa impetrou habeas corpus perante a Corte estadual, que denegou a ordem sob a seguinte motivação (fls. 13-14, grifei):
+Com efeito, insta aqui ressaltar que, a denúncia foi recebida em 10/09/19, mesma data em que decretada a prisão preventiva do acusado (fls. 173/177); o réu foi preso em 14/09/19; a sentença de pronúncia foi proferida em 17/12/19 (fls. 368/379), com trânsito em julgado em 09/01/20 para o Ministério Público e em 27/01/20 para a defesa, após desistência desta do recurso que interpôs (fls. 335); as partes, então, apresentaram requerimentos na fase do art. 422, do CPP, apreciados em, 06/03/20 (fls. 435/436, 442/443 e 468/470), tendo sido coligido o laudo pericial grafotécnico apenas em 18/07/21 (fls. 738/740), embora reiterados os ofícios pelo juízo a quo (fls. 734/735). Intimadas as partes do trabalho pericial coligido aos autos, a Defesa do paciente indicou assistente técnico, admitido pelo juízo (fls. 787/788), que, após realização de perícia, apresentou o laudo pericial de fls. 821/846. De se ater, ademais, que a diligência mencionada pelo impetrante, pleiteada pelo Ministério Público para que a perita oficial respondesse a quesitos formulados pelo CAEX (fls. 850 e 899), foi deferida pelo juízo a quo, em nome do princípio da igualdade processual, já que admitido, como já dito, pedido feito pela defesa somente em 02/08/21, para que seu assistente técnico periciasse os cadernos apreendidos (fls.750), cuja providência realizou-se em 03/02/22 (fls. 821/846).
+Assim, não é o caso de excesso de prazo na formação da culpa, tendo havido prazo razoável na primeira fase do júri, não tendo o juízo ou a acusação contribuído para demora desproporcional, considerando-se a gravidade e complexidade do caso. Vale ter em conta, ainda, que somente não houve designação de julgamento pelo Tribunal do Júri, em razão da diligência pleiteada pela própria defesa como já aqui descrito.
+De outra parte, ante as circunstâncias do caso, ainda, tendo em vista a gravidade concreta do crime (tentativa de homicídio duplamente qualificado e associação para o tráfico) e se tratar de crime cuja pena privativa de liberdade máxima é superior a 4 anos, não há que se falar em liberdade provisória neste momento, mostrando-se cabível a custódia cautelar. Ante o exposto, denega-se a ordem.
+Em seguida, foi distribuído o presente writ.
+A liminar foi indeferida e oMinistério Público Federal opinou pela denegação da ordem.
+Em decisão monocrática, neguei provimento ao apelo; inconformada, porém, a defesainterpôs o presente agravo regimental.
+II. Idoneidade da prisão preventiva
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Quanto ao tema, é "uníssona é a jurisprudência no sentido de quea ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de constrangimento ilegal" (AgRg no HC n. 711.679/SP, Rel. Ministro Olindo Menezes- Desembargador convocado do TRF 1ª Região, DJe 11/3/2022).
+Na hipótese, é possível verificar que o judicium accusationis findou-se de forma breve, cerca de quatro meses depois do recebimento da denúncia, e que o plenário não foi designado até o momento em virtude dos requerimentos formulados pelas partes na fase do art. 422 do Código de Processo Penal.
+Nesse contexto, observo que o Poder Judiciário vem envidando esforços a fim de concluir as diligências requeridas.
+Consta do andamento processual que o Juiz de primeiro grau expediu ofício, em 24/8/2022, ao Instituto de Criminalística, solicitando as respostas aos quesitos complementares elaborados pelo Ministério Público - pedido este que só ocorreu, como apontado pelo acórdão impugnado, após a indicação de assistente técnico pelo agravante, "em nome do princípio da igualdade processual" (fl. 14).
+Diante do exposto, não constato, por ora, ofensa aos princípios da razoabilidade e da proporcionalidade a fim de malferir o caráter de provisoriedade da prisão, porquanto razoável o lapso temporal decorrido em razão das peculiaridades do caso concreto, o que afasta a suposta alegação de incúria na prestação jurisdicional.
+III. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
