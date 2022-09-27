@@ -1,0 +1,28 @@
+DECISÃO
+DAVIDSON THIAGO MARCONDES, ANA CLAUDIA OLIVEIRA DO AMARAL e CLEBER RIBEIRO DOS REISrequerem a reconsideração da decisão de fls. 64-65, por meio da qual indeferi liminarmente owrit, diante da insuficiência na instrução.
+Juntada a peça faltante (fl. 77), reconsidero o referidodecisume passo ao exame do pedido.
+Os pacientes alegam sofrer coação ilegal diante de decisão proferida por Desembargador doTribunal de Justiça do Estado de São Paulo, que indeferiu a liminar no HC n. 2203334-58.2022.8.26.0000.
+Nesta Corte, a defesa postula a nulidade do ato do juiz de primeiro grau, consistente no "apensamento tardio aos autos, dias antes da AIDJ, de interceptação telefônica que foram constituídas e finalizadas antes da defesa preliminar" (fl. 4).
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade,salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores:
+ ..
+1. Não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de Habeas Corpus impetrado contra decisão proferida por relator que indefere o pedido de liminar em Habeas Corpus requerido a tribunal superior, sob pena de indevida supressão de instância (Súmula 691 do STF).
+2.Inexistência de teratologia ou caso excepcional que caracterizem flagrante constrangimento ilegal.
+3. Agravo regimental a que se nega provimento.
+(HC n. 179.896 AgR, Rel. MinistroAlexandre de Moraes, 1ª T., DJe 2/4/2020, grifei)
+ ..
+2. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF. Referido entendimento aplica-se na hipótese em que owritde origem é conhecido como substitutivo de revisão criminal. Precedentes.
+3. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, pois a fundamentação adotada pelas instâncias ordinárias para fixar o regime inicial semiaberto está em harmonia com a jurisprudência da Suprema Corte e desta Corte Superior no sentido de que não há constrangimento ilegal na fixação de regime mais gravoso de cumprimento de pena caso a pena-base tenha sido fixada acima do mínimo legal por conta do reconhecimento de circunstâncias judiciais desfavoráveis dada a interpretação conjunta dos arts. 59 e 33, §§ 2º e 3.º, ambos do Código Penal. De fato, a imposição do regime prisional não está condicionada somente ao quantum da pena. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 548.761/PE, Rel. MinistraLaurita Vaz, 6ª T., DJe 4/2/2020)
+Na espécie, o Desembargador relator destacounão haver identificado, de plano, a ilegalidade suscitada, tampouco o perigo advindo de se aguardar o exame do mérito da impetração. Confira-se:
+Ao que consta, Ana Cláudia e Davidson foram denunciados como incursos nos artigos 33 e 35 c/c artigo 40, VI, da lei 11.343/2006 e artigo 2º, caput e § 4º, I, da Lei 12.850/13, em concurso material de crimes; ao passo que Cleber foi denunciado como incurso no artigo 35 c/c artigo 40, VI, da lei 11.343/2006 e artigo 2º, caput e § 4º, I, da Lei 12.850/13, em concurso material de crimes (fls. 43/54).
+Ora, as circunstâncias de fato e de direito trazidas à colação não evidenciam atendimento dos pressupostos cumulados típicos das cautelares. De fato, à medida que o juízo de cognição na presente fase revela-se extremamente restrito, a antecipação do mérito do habeas corpus exige que a ilegalidade do ato impugnado seja flagrante, de modo a justificar a imediata suspensão de seus efeitos, o que, a meu ver, não ocorre no presente caso. Ademais, a decisão hostilizada encontra-se suficientemente fundamentada, inexistindo nela manifesta ilegalidade ou teratologia perceptíveis neste juízo perfunctório. Indefiro, pois, a liminar, deixando à Colenda Turma Julgadora a solução da questão em toda a sua extensão (fl. 77).
+De fato, a um primeiro olhar,não há que se falar na nulidade da decisão proferida pelo Juízo de primeiro grau, mormente porque, ao determinar a juntada das referidas interceptações, o Juiz de primeiro grau mencionou não haver prejuízo à defesa. Ainda, ponderou que "não se encerrou a oportunidade de apresentação da defesa dos acusados, que poderão deduzir os argumentos em seu favor em sede de alegações finais, após o encerramento da instrução"(fls. 9-10).
+Tais elementosafastam, em juízo prelibatório, a plausibilidade do direito tido por violado.
+Assim,não identifico ilegalidade manifesta no ato, fazendo a ressalva de que não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada já a partir da decisão colegiada do tribunal competente.
+À vista do exposto,indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
