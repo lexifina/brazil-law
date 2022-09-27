@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CIVIL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO PESSOAL CONSIGNADO. PRELIMINAR DE AUSÊNCIA DE INTERESSE DE AGIR AFASTADA. POSSIBILIDADE DE REVISÃO DE CONTRATO QUITADO. INTERPRETAÇÃO POR ANALOGIA DA SÚMULA Nº 286 DO STJ. PRESCRIÇÃO INOCORRENTE. ABUSIVIDADE DOS JUROS REMUNERATÓRIOS RECONHECIDA. MORA AFASTADA. COMPENSAÇÃO/REPETIÇÃO DO INDÉBITO DE FORMA SIMPLES. CABIMENTO.
+Da preliminar recursal de ausência de interesse de agir. O fato de o contrato ter sido extinto pelo pagamento não impede o exercício do direito de revisão da contratação, ante a alegação de ilegalidades praticadas na relação jurídica. Inadmitir o ajuizamento de ação por estar o contrato findo seria beneficiar o inadimplente em detrimento daquele que cumpre as suas obrigações em dia.
+Da prejudicial de prescrição. Tratando-se de ação revisional de contrato de empréstimo, sob o fundamento de presença de cláusulas abusivas no instrumento, é aplicável o prazo prescricional decenal previsto no artigo 205 do Código Civil, que se inicia na data de vencimento do instrumento contratual ou do último pagamento realizado. No caso dos autos, verifica-se que não se operou a prescrição da pretensão deduzida na demanda.
+Dos juros remuneratórios. Conforme entendimento preconizado pelo STJ, e que vem sendo adotado por esta Colenda Câmara, é possível a limitação dos juros remuneratórios às taxas médias de mercado, definidas pelo BACEN, quando presente abusividade, nos termos do Código de Defesa do Consumidor. Caso concreto em que a taxa de juros remuneratórios da operação sub judice é significativamente superior à praticada pelo mercado financeiro, justificando a limitação imposta na sentença.
+Da caracterização da mora. Hipótese em que que a interposição de recurso para fins de manutenção da mora, no caso concreto, não se revela útil e adequado, eis que o debate firmado refere-se a avença já quitada e tal questão sequer foi objeto de análise da sentença. Assim, não merece ser conhecido o recurso nesse tópico Da compensação/restituição simples. Viável a compensação/repetição de valores na forma simples, eis que consectário da pretensão revisional e da imprescindibilidade de ajuste da relação débito-crédito, diante da vedação ao enriquecimento sem causa.
+RECURSO NÃO CONHECIDO EM PARTE E, NA PARTE CONHECIDA, DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, a parte ora agravante alega divergência de interpretação quanto ao artigo 51, IV e § 1º, III, do Código de Defesa do Consumidor.
+Não merece reforma a decisão agravada.
+Com efeito, consignou o Tribunal de origem (fls. 208-211/e-STJ):
+(..)
+Os contratos, como acordo de vontades que são, estão regidos pelo princípio da autonomia privada, imperando, em geral, a chamada liberdade contratual (que abrange sujeitos, objeto e normas que compõem o respectivo instrumento), incidente também na avença sub judice.
+Especificamente no que tange aos juros remuneratórios, o advento da Lei 4.595/1964 suplantou a incidência da Lei de Usura (Decreto nº. 22.626/33) 3 - que limitava a cobrança de juros ao dobro da taxa legal, ou seja, 12% ao ano em operações realizadas por instituições financeiras, e que substituía, portanto, a vontade das partes no ponto. A partir daí, o poder normativo dirigido à limitação da taxa de juros ficou delegado, como regra, ao Conselho Monetário Nacional.
+Com o julgamento do REsp nº 1.061.530/RS, restou pacificado na jurisprudência que a aludida limitação da taxa de juros remuneratórios em 12% ao ano, imposta pela Lei de Usura, não era aplicável às instituições financeiras.
+(..)
+Referido posicionamento, inclusive, ensejou a edição da Súmula 382 do STJ, in verbis: "A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade."
+Ocorre que, malgrado não devam ser consideradas abusivas as taxas contratualmente previstas pelo simples fato de a sua estipulação ultrapassar 12% ao ano, os contratos entabulados com as instituições financeiras - conforme já referido -estão sujeitos ao CDC, de modo que a revisão da taxa de juros remuneratórios estipulada nas avenças será permitida; isto, todavia, desde que reste evidenciado que o percentual cobrado para a hipótese não se encontra em consonância com a taxa média de mercado.
+Tal entendimento foi proclamado pela Segunda Seção do Superior Tribunal de Justiça, restando fixada a premissa de que impera a liberdade remuneratória, somente sendo possível a alteração da taxa de juros pactuada se demonstrada a sua abusividade, em relação à taxa média do mercado financeiro para a operação.
+(..)
+No caso em tela, realizado o cotejo entre a taxa de juros contratada e a média disponibilizada pelo BACEN em seu site 5 , verifica-se, quanto ao contrato objeto da demanda (Contrato 8, Evento 1), que foram pactuadas as taxas de juros remuneratórios de 6% ao mês e 101,22% ao ano, enquanto que as taxas exibidas pelo Banco Central para contratações do mesmo período são de 1,89% ao mês e 25,12% ao ano.
+Portanto, há na avença em debate cobrança de taxas flagrantemente superiores àquelas previstas pelo BACEN em relação à operação de mesma natureza na data em que firmado o ajuste sub judice, sendo forçoso concluir pela existência de abusividade em relação ao contrato objeto de revisão, razão pela qual possível a limitação dos juros remuneratórios à taxa média de mercado.
+(..)
+Nesse viés, constatada a abusividade no caso concreto, de rigor a limitação da taxa de juros à média de mercado divulgada pelo BACEN, seguindo orientação do STJ, como bem determinado na sentença.
+Assim, não merece guarida, no ponto, a pretensão recursal.
+Da leitura do transcrito anoto que apenas com o reexame do conjunto fático-probatório dos autos seria possível infirmar as conclusões do acórdão recorrido quanto à abusividade na cobrança dos juros remuneratórios, o que encontra óbice nas Súmulas 5 e 7/STJ.
+Anoto, do mesmo modo, que o Tribunal gaúcho decidiu com base na jurisprudência consolidada desta Corte Superior, donde a incidência da Súmula 83/STJ. Confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. LIMITAÇÃO. TAXA MÉDIA DO MERCADO. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DOS ENUNCIADOS N.º 5 E 7/STJ.
+1. Conforme o posicionamento da Terceira Turma do Superior Tribunal de Justiça, os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares.
+2. Na hipótese dos autos, inviável rever a conclusão do Tribunal estadual de que os juros remuneratórios são abusivos quando comparados à taxa média de mercado, pois demandaria reexame de provas e interpretação de cláusula contratual, providências vedadas em recurso especial.
+3. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+4. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 1.930.618/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 25/4/2022, DJe de 27/4/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares, como foi o caso dos autos, não merecendo reforma o aresto recorrido quanto ao ponto.
+1.1. Hipótese em que os juros em debate são superiores ao dobro da média praticada em operações financeiras similares.
+2. Para afastar a afirmação contida no acórdão atacado no sentido de que a taxa de juros remuneratórios da avença é abusiva, seria necessário promover o reexame do acervo fático-probatório dos autos e a interpretar as cláusulas contratuais, providências vedadas na via eleita, por força das Súmulas 5 e 7/STJ.
+3. Conforme entendimento jurisprudencial consolidado por este Superior Tribunal de Justiça, o reconhecimento da abusividade dos encargos cobrados no período da normalidade contratual traz, como consectário lógico, a descaracterização da mora do devedor.
+Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.405.350/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 21/6/2021, DJe de 1/7/2021.)
+Em face do exposto, nego provimento ao agravo. Nos termos do artigo 85, § 11, do Código de Processo Civil, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
