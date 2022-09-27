@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 21/09/2022 a 27/09/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de Agravo Interno interposto contra decisão monocrática assim ementada (fl. 1666):
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PARADIGMA DA PRIMEIRA TURMA. PRECLUSÃO PRO JUDICATO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS. PARADIGMA DA CORTE ESPECIAL. COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA 168/STJ RECURSO INDEFERIDO LIMINARMENTE.
+A agravante sustenta, em síntese, que há similitude fática entre o caso concreto e o caso paradigma, relativamente à preclusão pro judicato em relação a matéria de ordem pública.
+Assevera que trata "tanto o Acórdão Recorrido quanto o Acórdão Paradigma de hipóteses de expresso enfrentamento da existência ou não de preclusão pro judicato para matérias de ordem pública, não há dúvida quanto à existência de suficiente equivalência de premissas, autorizando-se a constatação da divergência e a interposição dos Embargos de Divergência. Por certo, demandas distintas sempre terão suas particularidades e a interposição de Embargos de Divergência não pressupõe a verificação de absoluta identidade entre paradigma e acórdão recorrido, mas equivalência jurídica de premissas. O que, repita-se, está presente à medida em que ambos os casos versam sobre a existência de preclusão pro judicatoem matéria de ordem pública" (fl. 1679).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. FÁTICA E JURÍDICA ENTRE OS ACÓRDÃOS COMPARADOS.
+1.Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2.Caso em que não há similitude fática entre o acórdão embargado e o acórdãoparadigma.
+3. Noacórdão embargado firmou-se o entendimento de que não ocorre preclusão pro judicato para a análise de matéria de ordem pública, no caso a tempestividade do recurso, se estabelecido o devido contraditório e não ocorrido o trânsito em julgado.
+4. O acórdão paradigma da Terceira Turma, por sua vez, cuidou de matéria concernente àdecadência do direito de a Administração rever seu ato, ficandoassentado que mesmo as matérias de ordem pública estão sujeitas à preclusão pro judicato, não podendo ser revisitadas se já tiverem sido objeto de anterior manifestação jurisdicional.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Trata-se agravo interno contra decisão que indeferiu liminarmente os embargos de divergência por falta de similitude fática entre o caso dos presentes autos e aquele tratado peloparadigma apontadopela recorrente oriundoda PrimeiraTurma.
+Observa-se que oacórdão embargado firmouentendimento de que não ocorre preclusão pro judicato para a análise de matéria de ordem pública, no caso a tempestividade, se estabelecido o devido contraditório e não ocorrido o trânsito em julgado. Já no acórdão paradigma da Primeira Turma, a discussão diz respeito ádecadência do direito de a Administração rever seu ato, ficando assentado que mesmo as matérias de ordem pública estão sujeitas à preclusão pro judicato, não podendo ser revisitadas se já tiverem sido objeto de anterior manifestação jurisdicional.
+Como se nota, não se antevê similitude fático-jurídica entre as hipóteses cotejadas, nos termos do que dispõem os artigos 1.043, § 4º, do CPC e 266, § 4º, do RI/STJ, visto que a matéria objeto de discussão no acórdão embargado está relacionada à preclusão por judicato em relação aos requisitos de admissibilidade do recurso especial, enquanto no acórdão paradigma diz respeito à decadência do direito de a Administração rever seu ato.
+Nessa linha de entendimento, os seguintes julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ARESTOS CONFRONTADOS.
+1. A admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios.
+2. Desse modo, uma vez não constatada a existência de similitude fático-jurídica entre os julgados confrontados, sobressai a impossibilidade de conhecimento dos embargos de divergência, cujo escopo é tão somente a uniformização da jurisprudência interna corporis e não a análise acerca do acerto ou desacerto da decisão embargada.
+3. Agravo interno não provido.
+(AgInt nos EREsp n. 1.890.615/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 21/6/2022, DJe de 1/7/2022.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. REQUISITOS DE ADMISSIBILIDADE DO RECURSO. DISSÍDIO ENTRE O ART. 619 DO CPP E O ART. 1.022 DO CPC/2015. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA JURISPRUDÊNCIA DO STJ. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A finalidade do embargos de divergência no âmbito do Superior Tribunal de Justiça é dirimir eventual entendimento jurisprudencial conflitante sobre teses de mérito adotado por julgados desta Corte Superior em recurso especial. Entretanto, é indispensável haver identidade ou similitude fática e jurídica entre o acórdão embargado e o aresto paradigma, cabendo ao embargante demonstrar que houve interpretação divergente acerca de situações semelhantes por meio de cotejo analítico entre os julgados confrontados, 2. No caso examinado, a embargante não comprovou a divergência jurisprudencial nos termos regimentais, pois não realizou o cotejo analítico entre os arestos confrontados, a fim de comprovar a similitude fática e jurídica, mas tão somente transcreveu as ementas e trechos do julgado apontado como paradigma.
+3. A Corte Especial deste Tribunal Superior no sentido da inadequação de confrontar em embargos de divergência julgados que interpretem o art. 1.022 do CPC/2015 (art. 535 do CPC/1973) e o art. 619 do Código de Processo Penal, pois inexistente a necessária similitude fática e jurídica das teses confrontadas.
+4. Nesse sentido:AgInt nos EDcl nos EREsp 1831775/RS, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 24/08/2021, DJe 01/09/2021;
+AgInt nos EAREsp 865.770/MA, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 13/08/2019, DJe 22/08/2019; AgInt nos EAREsp 98.905/SC, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 15/08/2018, DJe 28/08/2018; AgRg nos EAREsp 540.925/PR, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 15/03/2017, DJe 21/03/2017.
+5. Agravo regimental não provido.
+(AgRg nos EAREsp n. 1.685.360/SC, relator Ministro Mauro Campbell Marques, Corte Especial, julgado em 10/5/2022, DJe de 12/5/2022.)
+Ausente a necessária similitude fática, inviável o conhecimento dos presentes Embargos de Divergência.
+Com efeito, os embargos de divergência, a teor da disciplina recebida pelos arts. 1.043 e 1.044 do CPC/2015, têm por finalidade a uniformização da interpretação e aplicação da lei pelo Tribunal, havendo de se cotejar casos necessariamente similares para que então se examine se a ambos é aplicável a mesma solução jurídica.
+Não havendo sido confrontados casos similares, inviável o ingresso no mérito dos Embargos de Divergência.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
