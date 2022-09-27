@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo apresentado por COMPANHIA DE GERACAO E TRANSMISSAO DE ENERGIA ELETRICA DO SUL DO BRASIL - ELETROBRAS CGT ELETROSUL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. SERVIDÃO ADMINISTRATIVA. LINHA DE TRANSMISSÃO DE ENERGIA ELÉTRICA. INDENIZAÇÃO. CRITÉRIO. JUROS COMPENSATÓRIOS.
+Quanto à controvérsia recursal, pela alínea "a" do permissivo constitucional, alega violação do art. 15-A, § 1º, do Decreto-Lei n. 3.365/1941, no que concerne à impossibilidade de condenação da parte recorrente ao pagamento de juros compensatórios por instituição de servidão de eletroduto, uma vez que não houve implemento da condição legal exigida para tanto, qual seja, a perda de renda da parte recorrida, trazendo os seguintes argumentos:
+Veja excelência que expressamente se postulou no órgão  a quo , qual o fundamento probatório para deferir os juros compensatórios, uma vez que os recorridos, se limitaram a juntar seus proventos de aposentadoria para obter o benefício de AJG, e não fizeram qualquer tipo de prova de que tiveram redução de sua receita, pela passagem da linha de transmissão. Pelo contrário, em momento algum fizeram qualquer citação que tiveram perda de receita!
+ ..
+Assim sendo, o TJRS neste julgado, admite que basta o exercício de atividade econômica na área de servidão, inobstante a NORMA FEDERAL EXIGIR QUE O PROPRIETÁRIO FAÇA PROVA DE PERDA DE RECEITA.
+Resta evidente que o exposto no julgado em debate, contraria norma federal, que traz regra clara para definir os juros compensatórios.
+PELO EXPOSTO, requer seja conhecido o presente Recurso Especial para no mérito ser excluída a condenação em juros compensatórios, face a observância do que dispõem o Art.15-A, § 1º do decreto-lei 3365-41 (fls. 767-768).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia alegada, na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentido de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
