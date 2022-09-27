@@ -1,0 +1,25 @@
+DECISÃO
+ROSEMBERG DA SILVA LIMA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação Criminal n. 200.2010.037985-4/002.
+Nesta Corte, a defesa pretende a incidência da fração de 1/6, na diminuição da pena pela confissão espontânea do réu e a redução do patamar de aumento das majorantes do roubo.
+O Ministério Público Federal se manifestou pela concessão da ordem (fls. 58-60).
+Decido.
+Extrai-se dos autos que o paciente foi condenado, em primeiro grau, à pena de 12 anos e 2 meses de reclusão, mais multa, em regime fechado, pela prática dos delitos previstos nos arts. 157, § 2º, I, II, do Código Penal e 16 da Lei n. 10.826/2006. O Tribunal de origem deu parcial provimento ao recurso defensivo, a fim de reduzir a reprimenda do réu para 10 anos, 11 meses e 18 dias de reclusão mais 33 dias-multa.
+Na segunda etapa da dosimetria, as instâncias antecedentes, sem tecerem qualquer consideração, reduziram a pena em 6 meses de reclusão, pela atenuante da confissão.
+No tocante à diminuição, o Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente. Na verdade, o art. 61 limitou-se a prever as circunstâncias que sempre agravam a pena, embora não tenha mencionado qualquer valor de aumento. O mesmo ocorre com o disposto no art. 65, que estipula as circunstâncias que sempre atenuam a pena, sem, contudo, fazer nenhuma menção ao quantum de redução.
+A doutrina e a jurisprudência têm entendido que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade.
+Assim, nos termos da jurisprudência deste Superior Tribunal, a aplicação de fração inferior a 1/6 exige motivação concreta e idônea, situação que não identifico nos autos, uma vez que a redução de 6 meses foi realizada sem nenhuma justificativa.
+Ilustrativamente:
+ ..
+2. De acordo com a jurisprudência do Superior Tribunal de Justiça, "deve ser adotada a fração paradigma de 1/6 (um sexto) para aumento ou diminuição da pena pela incidência das agravantes ou atenuantes genéricas, ante a ausência de critérios para a definição do patamar pelo legislador ordinário, devendo o aumento superior ou a redução inferior à fração paradigma estar devidamente fundamentado" (AgRg no HC 370.184/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/05/2017, DJe 22/05/2017).
+3. Entretanto, a redução levada a efeito pelo reconhecimento da citada atenuante foi realizada em patamar inferior a 1/6 (um sexto), sem que, para tanto, tenha sido declinada fundamentação concreta e específica.
+4. Agravo regimental desprovido. Concedido Habeas Corpus, de ofício.
+(AgRg no AREsp n. 1.833.969/TO, Rel. Ministra Laurita Vaz, 6ª T., DJe 28/5/2021)
+Quanto ao aumento de pena pelas majorantes do roubo, o Juiz de primeiro grau, no que foi corroborado pela Corte estadual, aumentou a sanção em 2/5, "por incidência dos incs. I e II do § 2º do art. 157 do CP" (fl. 33).
+No caso, verifico que o aumento da reprimenda, na terceira fase da dosimetria, foi justificado apenas com base no número de causas de aumento incidentes no caso, sem apresentar elementos dos autos (modus operandi, por exemplo) que, efetivamente, evidenciassem a real necessidade de exasperação da pena no patamar estabelecido.
+A conclusão do acórdão está em desconformidade com o entendimento sumulado desta Corte, em seu enunciado n. 443, verbis: "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Reconhecida, portanto, as ilegalidades suscitadas, passo à readequação da reprimenda.
+A pena-base do crime de roubo majorado foi fixada em 5 anos e 10 meses de reclusão mais 18 dias-multa. Na segunda fase, reduzo a sanção em 1/6, pela confissão espontânea, o que a torna estabelecida em 4 anos, 10 meses e 10 dias de reclusão, mais 15 dias-multa. Na terceira etapa, aplico a fração de 1/3 para o aumento das majorantes, o que resulta em 6 anos, 5 meses e 23 dias de reclusão mais 20 dias-multa.
+Em relação à posse ilegal de arma de fogo de uso restrito, verifico que a pena-base foi fixada em 4 anos de reclusão mais 15 dias-multa. Na segunda fase, reduzo a sanção em 1/6, pela confissão espontânea, o que a torna estabelecida em 3 anos e 4 meses de reclusão mais 13 dias-multa. Por não haver causas de aumento ou de diminuição da pena, ela se torna definitiva nesse patamar.
+Considerando o concurso material de crimes, a reprimenda fica definitivamente estabelecida em 9 anos, 9 meses e 23 dias de reclusão mais 33 dias-multa.
+À vista do exposto, concedo a ordem, a fim de aplicar o patamar de 1/6 pela confissão espontânea e reduzir a fração de aumento pelas majorantes, redimensionando a sanção para 9 anos, 9 meses e 23 dias de reclusão mais 33 dias-multa.
+Publique-se e intimem-se.
