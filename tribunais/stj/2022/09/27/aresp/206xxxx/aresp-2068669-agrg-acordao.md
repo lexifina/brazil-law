@@ -1,0 +1,26 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE. TRÁFICO PRIVILEGIADO. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. MODULAÇÃO DA FRAÇÃO DE REDUÇÃO. QUANTIDADE DE DROGAS. IMPOSSIBILIDADE. FUNDAMENTO UTILIZADO PARA EXASPERAÇÃO DA PENA-BASE.
+1. A existência de ações penais em curso, por si só, não constitui fundamento idôneo para afastar a causa de diminuição do tráfico, prevista no art. 33, § 4º, da Lei 11.343/06, tendo ressaltado o Juízo de origem a primariedade e bons antecedentes do réu.
+2. Embora a quantidade e a natureza do entorpecente permitam a modulação da fração de redução de pena, tais elementos foram valoradas na origem para aumentar a pena-base, afigurando-se imprópria a utilização concomitante para alterar o patamar estabelecido pela causa de diminuição, sob pena de "bis in idem".
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que deu provimento parcial ao agravo em recurso especial.
+Busca o recorrente o afastamento da minorante do tráfico de drogas, sob o fundamento de que há elementos probatórios que indicam a dedicação à atividade criminosa.
+Alega a alteração da fração de redução, com base na quantidade de droga apreendida, e requer a reconsideração da decisão agravada ou a apreciação do recurso pela Sexta Turma. Impugnação apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  A decisão agravada está assim fundamentada:
+No caso, verifica-se que o réu é primário, sem valoração negativa dos antecedentes criminais, de modo que a existência de ações penais em curso, por si só, não configura motivação válida para a negativa da minorante do tráfico, prevista no art.
+33, § 4º, da Lei 11.343/2006.
+O acordão impugnado encontra-se em dissonância com a jurisprudência desta Corte, no sentido de que a existência de ações penais em curso, por si só, não constitui fundamento idôneo para afastar a causa de diminuição do tráfico, prevista no art. 33, § 4º, da Lei 11.343/06.
+Conforme destacado na decisão agravada, de acordo com o entendimento desta Corte, para afastar a causa de diminuição de pena do art. 33, §4º, da Lei 11.343/2006, com fundamento na dedicação a atividades criminosas, é preciso elementos concretos suficientes o bastante que permitam a conclusão de que o agente se dedica a atividades criminosas e/ou integra organização criminosa, não bastando ilações e/ou suposições sem suporte fático válido.
+Inquéritos policiais, ações penais em curso e condenações não definitivas, sem a indicação de outros elementos a evidenciar a dedicação o tráfico de drogas, não constituem motivação idônea ao indeferimento da minorante do tráfico privilegiado, sob pena de violação do princípio da não culpabilidade .
+Por sua vez, não se presta o recurso especial à revisão da dosimetria da pena estabelecida pelas instâncias ordinárias. Admite-se, contudo, o reexame quando configurada manifesta violação dos critérios dos arts. 59 e 68, do CP, sob o aspecto da legalidade, nas hipóteses de falta ou evidente deficiência de fundamentação ou ainda de erro de técnica.
+Em relação à dosimetria, compete ao julgador, a quem a lei confere certo grau de discricionariedade, sopesar cada circunstância à luz da proporcionalidade, consoante seu prudente arbítrio, tal como ocorreu no presente caso.
+Desse modo, optando as instâncias ordinárias pela valoração da quantidade e natureza da droga na primeira fase, incabível a modificação do fundamento para a terceira fase, porquanto não se verifica ilegalidade na exasperação da pena-base, consoante art. 42 da Lei 11.343/2006.
+Nos termos da jurisprudência desta Corte, "a tese firmada no REsp n. 1.887.511/SP foi flexibilizada para admitir a modulação da fração de redução do § 4º do art. 33 da Lei n. 11.343/2006 na terceira fase da dosimetria, com base na quantidade e natureza das drogas apreendidas, desde que não tenham sido consideradas na fixação da pena-base (HC n. 725.534, Terceira Seção do STJ)" (AgRg no HC n. 704.275/PA, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 16/8/2022, DJe de 19/8/2022.)
+Nesse contexto, a fim de realinhar a hipótese ao entendimento da Terceira Seção, constata-se que a natureza e a quantidade de droga não podem ser consideradas na terceira fase da dosimetria, por se tratar de circunstâncias judiciais preponderantes já valoradas na primeira fase, o que resultaria em "bis in idem".
+A parte agravante, portanto, não trouxe fundamentos capazes de reformar a decisão agravada, que se mantém por seus próprios fundamentos, contexto no qual nego provimento ao agravo regimental.
+É o voto.
