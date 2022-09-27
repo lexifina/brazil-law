@@ -1,0 +1,11 @@
+DECISÃO
+Tratam-se de Embargos de Declaração opostos por Associação Nacional dos Coantribuintes de Tributos, contra a decisão monocrática proferida às fls. 1.113/1.115 (e-STJ), cuja ementa assim estabelece,in verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ASSOCIAÇÃO NACIONAL DOS CONTRIBUINTES DE TRIBUTOS. LEGITIMIDADE PARA A IMPETRAÇÃO. ACÓRDÃO A QUO, PELA INEXISTÊNCIA. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS.RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões recursais, o embargante argumenta que afalta de demonstração do interesse de seus filiados não é pré-requisito para o Mandado de Segurança Coletivo, pois inexiste tal condição para o processamento domandamus. O embargante afirma queo art. 21, da Lei 12.016/09, expressamente, legisla as circunstâncias e, ainda, quem pode impetrar mandado de segurança coletivo e quais são os requisitos para referida impetração, não sendo necessário a juntada de lista de filiados em Mandado de Segurança Coletivo.
+Não houve a apresentação de impugnação aos aclaratórios.
+É o relatório. Passo a decidir.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese. Registre-se que "não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 927.216/RS, Segunda Turma, Relatora Ministra Eliana Calmon, DJ de 13.8.2007; e REsp 855.073/SC, Primeira Turma, Relator Ministro Teori Albino Zavascki, DJ de 28.6.2007". (EDcl nos EDcl no REsp 1642531/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/4/2019.)
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
