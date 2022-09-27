@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por NEREU DARUI, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (e-STJ, fls. 228-236):
+"APELAÇÃO. CRIMES DE TRÂNSITO. CONDENAÇÃO MANTIDA. ART. 306 DO CTB.
+PRELIMINAR RECURSAL. Não há falar em nulidade do teste do etilômetro decorrente da ausência de advertência ao cidadão, do direito de não produzir prova contra si (nemo tenetur se detegere), porque inexiste qualquer indicativo nos autos, de que o acusado tenha sido coagido a realizar o teste. Precedentes desta Corte. EMBRIAGUEZ AO VOLANTE. ART. 306 DO CTB. SUFICIÊNCIA PROBATÓRIA.
+As testemunhas arroladas pela acusação presenciaram os fatos narrados na denúncia e realizaram a prisão em flagrante do réu, não havendo qualquer impedimento de que seus depoimentos sejam utilizados como prova judicial, quando corrobora todo o inquérito policial. Ademais, o depoimento de policiais é plenamente válido, quando não se verifica nenhuma tentativa de prejudicar o acusado. Não há dúvida de que era o réu que estava na condução do veículo quando causou um acidente de trânsito e estava com sinais de embriaguez. Ademais, o teste do etilômetro aliado aos depoimentos pessoais dos Policiais Militares que atenderam a ocorrência de trânsito e a confissão judicial do acusado, são provas contundentes para atestar o estado de embriaguez do condutor do veículo, observados os termos do art. 306, § 2º do CTB, com a redação dada pela Lei nº 12.760/2012.
+APENAMENTO. Penas carcerárias, de multa e suspensão do direito de dirigir estabelecidas no mínimo legal.
+SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE.
+O caso dos autos comporta a substituição da pena privativa de liberdade por uma restritiva de direitos. No entanto, considerando que a pena imposta não é superior a seis meses, observados os termos do art. 46 do CP, inviável substituir por prestação de serviços à comunidade, razão pela qual a solução mais adequada é a substituição pela limitação aos finais de semana. Precedentes desta Corte.
+PRELIMINAR RECURSAL AFASTADA. APELO DEFENSIVO PARCIALMENTE PROVIDO".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 44, 45 e 48 do Código Penal. Aduz para tanto, em síntese, que a Corte Estadual "fixou, sem qualquer fundamentação idônea, a mais grave das penas restritivas de direito, qual seja, a limitação de final de semana, a qual impõe a restrição da liberdade do reeducando, ainda mais que o recorrente é PRIMÁRIO" (e-STJ, fl. 251). Afirma que "não havendo fundamentos para demonstrar a necessidade de fixação da pena mais grave, necessária a reforma do acórdão, fixando-se restritiva de direitos mais branda, como prestação pecuniária" (e-STJ, fl. 251).
+Com contrarrazões (e-STJ, fls. 260-263), o recurso especial foi inadmitido na origem (e-STJ, fls. 267-268), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não provimento do recurso (e-STJ, fls. 298-301).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Depreende-se dos autos que o Tribunal a quo substituiu a prestação de serviço à comunidade pela limitação de fim de semana, com a seguinte fundamentação:
+"No caso, embora se trata de condenação inferior a um ano, comportando, em tese, a substituição da pena carcerária por uma pena restritiva de direitos, o art. 46 do CP é claro ao dispor que: "A prestação de serviços à comunidade ou a entidades públicas é aplicável às condenações superiores a seis meses de privação da liberdade.".
+ .. .
+Logo, considerando que o réu foi condenado à pena carcerária de 6 meses, ou seja, não superior a 6 meses, a fixação de prestação de serviços à comunidade como pena substitutiva não mostra-se aplicável.
+Deste modo, afasto a condição, substituindo a prestação de serviços à comunidade, pela limitação de final de semana, pelo período da pena imposta ao acusado, nos termos do art. 48 do CP" (e-STJ, fl. 235).
+In casu, a Corte Estadual justificou, diante das peculiaridades do caso concreto, que a prestação de serviços à comunidade não cabe no caso destes autos e, portanto, substituiu pela limitação de final de semana por achar a mais adequada à espécie.
+Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e modificar a pena restritiva de direitos, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+De mais a mais, cumpre registrar que as penas restritivas de direitos arbitradas em substituição as privativa de liberdade devem ser escolhidas pelo juiz, observado seu poder discricionário, não cabendo ao réu optar por aquela que julgar mais benéfica.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ,conheçodo agravo paranão conhecerdo recurso especial.
+Publique-se. Intimem-se.
