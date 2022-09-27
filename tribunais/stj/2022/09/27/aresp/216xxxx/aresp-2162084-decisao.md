@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo, interposto por SPE RIO 2014 INCORPORADORA E CONSTRUTORA LTDA e CONSTRUTORA SANTA CECÍLIA DO RIO DE JANEIRO LTDA, em face de decisão que não admitiu recurso especial.
+O apelo nobre, a seu turno, amparado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. EMPREENDIMENTO IMOBILIÁRIO. INADIMPLEMENTO. UNIDADE IMOBILIÁRIA NÃO ENTREGUE NA DATA APRAZADA. LUCROS CESSANTES DEVIDOS. POSSIBILIDADE DE SUBSTITUIÇÃO DO INDICE DO SALDO DEVDEDOR. DANOS MORAIS CONFIGURADOS DIANTE DO SIGNIFICATIVO ATRASO.1. Pedidode mero congelamento do saldo devedor que não merece prosperar.Índice contratual de correção do saldo devedor que podesersubstituído para impedira ocorrência de prejuízos tanto ao consumidor como à parte ré. Saldo devedor a ser corrigido com base no IPCA, salvo se esse índice for mais gravoso aos consumidores, devendo a parte ré restituir eventuais quantiascobradas a maior.2. Lucros cessantes. Sentença citra petita. Possibilidade de imediato julgamento. Ausência de impugnação específica dos réus na contestaçãoquanto a tal pleito autoral. Jurisprudência que se orienta no sentido de considerar que a inexecução do contrato de compra e venda, consubstanciada na ausência de entrega do imóvel na data acordada, acarreta o pagamento de indenização por lucros cessantes, sendo presumido o prejuízo do promitente comprador. Precedentes da 2ª Seção e das Turmasdo STJ.3. Dano moral configurado. Atraso excessivo e injustificado, não sendo sequer suprido com a readequação contratual. Note-se que, em petição datada de março/2018, os autores relataram a suspensão das obras e a inexistência de qualquerprevisão para a entrega da unidade, mesmo játendo decorrido mais de 2(dois)anos da data pactuada, o que não foi em nenhum momentorefutado pelas rés.4. Verba indenizatória arbitrada em valor compatível com a extensão do dano.5. Sucumbência mínima da parte autora, o que impõe a aplicação do art. 86, parágrafo único, do CPC.6. Negado provimento ao recurso dos réus e parcial provimento do recurso dos autores.
+Embargos de declaração opostos pelo autor parcialmente acolhidos e rejeitados os opostos pelos réus, conforme fls. 557/566, e-STJ.
+Nas razões do especial (fls. 568/585, e-STJ), a insurgente aponta"VIOLAÇÃO aos 1.022, p.ú., II c/c 489, § 1º,VI,ambos do CPC, além do DISSÍDIO JURISPRUDENCIAL existente sobre a ausência de configuração de dano moral, ocasionando a violação ao art. 884 do Código Civil".
+O Tribunal local inadmitiu o recurso especial, razão pela qual foi manejado o agravo de fls. 658/667, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1.De início, em relação à violação aos arts. 489 e 1.022 do CPC, ante a negativa de prestação jurisdicional, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+Dessa forma, não há que se falar em negativa de prestação jurisdicional pelo Tribunal local, que apreciou todas as questões que lhe foram postas de forma suficiente, embora não tenha acolhido o pedido da parte insurgente em sede de embargos de declaração.
+A propósito, é entendimento pacífico deste Superior Tribunal que o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE QUITAÇÃO INTEGRAL DO PREÇO. PREVISÃO CONTRATUAL. OBSCURIDADE. ERRO MATERIAL. INEXISTÊNCIA. RESPONSABILIDADE. DISCUSSÃO. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DAS SÚMULAS DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1348076/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/04/2019, DJe 12/04/2019)
+2.Outrossim, na hipótese dos autos, o Tribunal de origem, com base nos elementos fático-probatórios acostados aos autos, asseverou que houve a demonstração da ocorrência de danos morais indenizáveis.
+Confira-se excertos do acórdão recorrido:
+É cediço que o mero atraso na entrega da unidade não gera dano moral in re ipsa. Contudo, verifica-se no caso dos autos um atraso excessivo e injustificado, não sendo sequer suprido com a readequação contratual. Note-se que, em petição datada de março/2018(indexador 251), os autores relataram a suspensão das obras e a inexistência de qualquer previsão para a entrega da unidade, mesmo já tendo decorrido mais de 2(dois)anos da data pactuada, o que não foi em nenhum momento refutado pelas rés.
+Diante do cenário acima narrado e do inequívoco inadimplemento das demandadas, resta claro que os autores se desincumbiram satisfatoriamente de demonstrar a falha alegada capaz de embasar sua pretensão indenizatória. Por outro lado, não logrou a apelante ré em comprovar qualquer fato impeditivo, modificativo ou extintivo do direito pleiteado, conforme lhe impõe alei processual civil.
+Sendo assim, para acolhimento do apelo extremo, seria imprescindível derruir a afirmação contida nodecisumatacado, no sentido da demonstração dos danos morais, o que, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, incidindo, na espécie, o óbice da Súmula 7 deste Superior Tribunal de Justiça, sendo manifesto o descabimento do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO EM EMBARGOS DECLARATÓRIOS EM AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. IMÓVEL. ATRASO NA ENTREGA. INDENIZAÇÃO. DANO MORAL E MATERIAL. AFASTAMENTO NA ORIGEM. DILAÇÃO DO PRAZO PERMITIDA. CLÁUSULA CONTRATUAL. REVISÃO. IMPOSSIBILIDADE.
+SÚMULAS 5 E 7/STJ. NÃO PROVIMENTO DO RECURSO.
+1.Inviável a análise do recurso quando dependente de reexame de matéria fática da lide, inclusive o contrato celebrado entre as partes (Súmulas n. 5 e 7 do STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 626.895/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE BEM IMÓVEL. ATRASO NA ENTREGA DO IMÓVEL AOS PROMITENTES COMPRADORES. ART. 535, II, DO CPC. INEXISTÊNCIA DE OMISSÕES. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REVISÃO DO QUANTUM INDENIZATÓRIO. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela alegada violação art. 535, I e II, do CPC/73 (correspondente ao art. 1.022, I e II, do Novo CPC). Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+O acolhimento da pretensão recursal, a fim de afastar as conclusões do aresto estadual no tocante aos danos morais sofridos pela parte agravada, demandaria reexame de todo âmbito da relação contratual estabelecida e incontornável incursão no conjunto fático-probatório dos autos, o que esbarra nas Súmula n. 7 do STJ.
+2. A revisão da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 976.888/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/12/2016, DJe 09/12/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DE IMÓVEL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+ ..
+(AgRg no AREsp 746.188/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/03/2016, DJe 15/03/2016)
+3.Do exposto, com fundamento no art. 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao reclamo.
+Publique-se.
+Intimem-se.
