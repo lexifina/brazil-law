@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por JOCIVAL SANTOS DE SOUZA contra decisão do Tribunal de Justiça do Estado da Bahia, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a", da Constituição da República, em oposição a acórdão assim ementado:
+"APELAÇÃO CRIME. TRÁFICO DE SUBSTÂNCIA ENTORPECENTE. INCONFORMIDADE DEFENSIVA. ABSOLVIÇÃO. IMPOSSIBILIDADE. PROVA DA MATERIALIDADE E AUTORIA. DESCLASSIFICAÇÃO. INVIABILIDADE. PENA APLICADA EM PATAMAR JUSTO. MANUTENÇÃO DA CONDENAÇÃO. APELO IMPROVIDO." (e-STJ, fl. 210).
+A defesa aponta que houve ofensa ao art. 386, VII, do Código de Processo Penal, alegando, inicialmente, que as provas colhidas não são suficientes para embasar o decreto condenatório (e-STJ, fl. 227).
+Caso assim não se entenda, pugna pela desclassificação do crime previsto no art. 33 da Lei de Drogas para aquele do art. 28 da referida legislação, uma vez que não foi visualizada a mercancia de drogas, sendo que a quantidade de substância entorpecente era pequena, qual seja, 41,5 gramas de cocaína, sendo perfeitamente possível que fosse para uso (e-STJ, fl. 227).
+Requer, assim, seja conhecido e provido o presente Recurso Especial, reformando-se o v. Acórdão ora vergastado, para proceder a absolvição do Recorrente em face da fragilidade probatória, sucessivamente, requer a desclassificação do delito de tráfico de drogas, para aquele previsto no art. 28 da Lei n.11.343/06 (e-STJ, fl. 228).
+Foram apresentadas as contrarrazões (e-STJ, fls. 250-257).
+O recurso foi inadmitido (e-STJ, fls. 258-260). Daí este agravo (e-STJ, fls. 265-2670).
+O Ministério Público Federal manifestou-se pelo não provimento do agravo em recurso especial (e-STJ, fls. 293-299).
+É o relatório.
+Decido.
+A irresignação não merece acolhimento.
+Consoante se verifica dos autos, o réu foi condenado à pena de 6 anos, 6 meses e 22 dias de reclusão, em regime inicial semiaberto, além do pagamento de 655 dias-multa, como incurso no art. 33, caput, da Lei n.11.343/2006.
+O Tribunal de origem, ao examinar a controvérsia, assim se manifestou:
+"A materialidade do fato tido como delituoso restou consubstanciada pelo Auto de Prisão em Flagrante (fls. 05/11); pelo Auto de Apreensão (fl. 13), pelo Laudo de Constatação (fl. 15) e pelo Laudo Pericial Definitivo (fl. 62) positivo para Benzoilmetilecgonina, o qual se encontra relacionado na Lista F-2 (Substâncias Psicotrópicas de uso proscrito no Brasil) da Portaria 344/98, da Secretaria de Vigilância Sanitária/Ministério da Saúde, ora em vigor.
+A autoria, por outro lado, também é inconteste, apesar da negativa do apelante, aduzindo que estava em uma Praça juntamente com um adolescente fumando, quando foi enquadrado pelos policiais. Que foi encontrado um pino de droga no seu bolso.
+Que não conhecia os policiais. Que já foi preso anteriormente por tráfico de drogas. Que o fato aconteceu próximo do meio-dia. Que o adolescente foi liberado. Que os policiais encontraram as drogas no chão. Que não leu seu depoimento na Delegacia. (mídia - 09).
+Tal versão resta isolada nos autos, frente à congruência das declarações dos policiais, demonstrando a vinculação da droga ao acusado, bem como que esta seria destinada à distribuição para terceiros tendo em vista a forma como estava acondicionada, bem como a existência de denúncias sobre o cometimento do crime de tráfico de drogas.
+Informou o SD PM, TIAGO TAVARES LEAL, por meio de gravação audiovisual. Às perguntas do MP respondeu que reconhece o acusado presente à audiência. Que estava em ronda de rotina na localidade dos Barreiros, Boca do Rio, local de intenso tráfico de drogas, inclusive com guerras de facções, quando se deparou com o acusado que ficou nervoso com a presença da guarnição policial. Que procedida a abordagem e revista pessoal foi encontrada uma quantidade de substância branca, semelhante a cocaína e estava em seu bolso. Que pela experiência do depoente, a forma como estava disposta a substância era destinada ao tráfico. Que viu o momento em que seu colega de farda fez a revista pessoal no acusado e encontrou a droga. Que não conhecia o acusado anteriormente.
+Relata o SD PM, ANDRÉ LUIS SANTOS SOARES, por meio de gravação audiovisual. Às perguntas do MP respondeu que reconhece o acusado nesta audiência. Que estava em incursão na localidade, quando perto a um beco, o acusado visualizou a guarnição e tentou fugir, contudo foi contido. Que o depoente foi quem realizou a revista pessoal no acusado encontrado a cocaína em seu bolso, já fracionada.
+Que o acusado disse que vendia e comprava a droga no Brongo, em Brotas.
+Dos elementos probatórios colhidos, diversamente do alegado pela Defesa, entendo que a autoria por parte do acusado restou demonstrada.
+Ressalto que os testemunhos policiais são válidos para embasar eventual decreto condenatório. Sobre o tema, relembro que o policial é um profissional selecionado, com o objetivo de prevenir e reprimir ações delituosas. O estado, ao atribuir-lhe tal mister, não pode, simplesmente, no momento em que irá relatar seu comportamento na execução de seus atos de oficio, negar veracidade, sem um fundamento concreto, aos depoimentos prestados, afastando o valor probatório.
+(..)
+Além da quantidade de substância entorpecente apreendida, a maneira como estava acondicionada, associada aos depoimentos dos policiais, atestam a atividade de tráfico, sendo inviável eventual desclassificação do fato para o crime do art. 28, da Lei 11.343/06.
+À vista da prova produzida, enfim, restou perfeitamente configurado o tráfico de entorpecentes, resultado da conjugação entre os depoimentos dos policiais e a natureza, quantidade e modo de acondicionamento, a evidenciar a fragilidade da versão defensiva, tornando inviável a pretendida absolvição, também não havendo que se falar em desclassificação para a figura do artigo 28 da Lei nº 11.343/06. Portanto, todas as provas produzidas confirmam o acerto da condenação do réu pelo delito de tráfico.
+Na espécie, mais do que comprovado que o apelante praticou o crime tipificado no art. 33 da Lei 11.346/06, não sendo necessária a prova da mercancia, especialmente porque se trata, o crime de tráfico de drogas, de multinuclear, razão pela qual o verbo "trazer consigo" descrito na denúncia é suficiente para caracterizar a prática infrativa.
+(..)
+Portanto, os elementos probatórios trazidos aos autos são robustos no sentido da prática do delito de tráfico de substância entorpecente pelo réu, sendo a condenação o corolário lógico-jurídico.
+Na situação dos autos, reafirmo, considerando a forma como a droga foi encontrada; bem como o relato dos agentes públicos sob o crivo do contraditório, tais dados conferem força e credibilidade à acusação.
+Logo, não existindo dados a infirmar a certeza trazida pelos agentes, sobre a apreensão em poder do réu de substância entorpecente que trazia consigo - o que permite a subsunção precisa de sua conduta à descrição correspondente prevista no art. 33 da Lei 11343/06, a condenação é o corolário lógico.
+Ora, pouco há que acrescentar, existindo suficiente contexto probatório à condenação proferida. Portanto, tenho que não persistem as teses defensivas de absolvição ou desclassificação para uso, sendo incontornável a condenação do recorrente.
+Nesses termos, deve ser mantido o édito condenatório." (e-STJ, fls. 213-215).
+Como se vê, a instância ordinária concluiu, a partir do acurado exame das provas colhidas nos autos, especialmente a quantidade de substância entorpecente apreendida, a maneira como estava acondicionada e, ainda, as declarações dos policiais ouvidos sob o crivo do contraditório, que o réu praticou o crime do art. 33, caput,da Lei n. 11.343/2006.
+Nesse contexto, a alteração do acórdão, o qual se encontra devida e suficientemente fundamentado, a fim de absolver o réu por insuficiência de provas ou, ainda, desclassificar a conduta para aquela prevista no art. 28 da Lei 11.343/2006, demandaria nova análise do acervo fático e probatório dos autos, o que não é possível nesta via especial, nos termos da Súmula 7/STJ.
+Nesse sentido:
+" ..
+1. As instâncias de origem reconheceram a existência de elementos de prova suficientes para embasar o decreto condenatório, pela prática do crime de tráfico de drogas. Assim, a mudança da conclusão alcançada no acórdão impugnado, de modo a absolver ou desclassificar a conduta para o art. 28 da Lei n. 11.343/2006, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+Omissis.
+6. Agravo regimental desprovido."
+(AgRg no AgRg no AREsp n. 2.026.736/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/5/2022, DJe de 27/5/2022.)
+" ..
+1. O pedido de desclassificação de consumo pessoal de entorpecentes para tráfico de drogas implica, inevitavelmente, incursão no arcabouço probatório, o que é inadmissível na via eleita, nos termos do que se depreende da leitura da Súmula 7/STJ.
+2. Nos moldes delineados na insurgência recursal, almeja a parte que o Superior Tribunal de Justiça substitua as instâncias ordinárias, para emitir novo pronunciamento jurisdicional acerca da subsunção do fato ao tipo penal, e, por fim, altere indevidamente a capitulação realizada pelo acórdão local, soberano no exame das circunstâncias fáticas dispostas nos autos.
+3. O agravo regimental não merece prosperar, porquanto as razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada.
+4. Agravo regimental improvido."
+(AgRg no REsp n. 1.252.048/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 4/2/2014, DJe de 20/2/2014.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
