@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos peloESTADO DO PARANÁ, contra decisão de minha lavra, publicada em 23/08/2022, que, em juízo de retratação, por força de Agravo interno aviado pela impetrante do Mandado de Segurança,negouprovimento ao Recurso Especial.
+Inconformado, o ente público sustenta que:
+"Por força do Agravo interno interposto pela contraparte, Vossa Excelência reconsiderou sua decisão anterior (proferida nas fls. e-STJ 909/911), que provera parcialmente a insurgência fazendária para determinar ao TJPR que analisasse o atendimento dos requisitos exigidos pelo art. 166 do CTN.
+Vejam os termos do decisum embargado:
+"(..)"
+Em que pese a fundamentação exposta, entende-se haver omissão na r. decisão.
+É que o Agravo interno interposto pela contraparte (fls. e-STJ 918/929) não poderia ter sido conhecido.
+Ele não impugnou, de forma concreta e específica, a r. decisão singular, que havia determinado atenção ao art. 166 do CTN, como condição para restituição/creditamento, "na hipótese de realização de fato gerador efetivo em valor inferior ao presumido"(e-STJ 910).
+O Agravo interno limitou-se a defender a ocorrência da venda final por preço menor do que a previamente estimada, sem refutar, todavia, a incidência do art. 166 do CTN.
+Isso foi expressamente alertado na resposta oferecida ao Agravo interno(e-STJ 935):
+(..)
+Apesar da relevância dos argumentos, que conduziriam ao não conhecimento do agravo interno, eles não foram objeto de consideração pela r. decisão recorrida.
+Emerge no ponto a omissão que autoriza o presente recurso.
+Lado outro, a r. decisão asseverou que houve mudança de entendimento, uma vez que "em 09/08/2022, a Segunda Turma do STJ, ao concluir o julgamento do REsp 525.625/RS (Rel. Ministro FRANCISCO FALCÃO), em juízo de retratação, por força do art. 1.040 do CPC/2015, revendo sua jurisprudência, firmou o entendimento no sentido da inaplicabilidade do art. 166 do CTN, na espécie".
+Ocorre que, a citada decisão ainda não transitou em julgado.
+Sequer houve sua publicação.
+Diante desse quadro, colhe-se precoce, com a devida permissão, sua aplicação ao caso dos autos.
+Percebam, o recorrente, justamente por não ter acesso à decisão, não pode sequer avaliar sua correta aplicação ao caso, fato que impede o exercício pleno da ampla defesa e do contraditório.
+A relevância da argumentação apresentada reclama manifestação judicial, sendo que, também por essa perspectiva, omissa a decisão, d.v.
+Em suma: visto que a decisão utilizada como modelo ainda não é definitiva, e, tampouco foi publicada, ela não pode ser utilizada como paradigma para o presente caso" (fls. 952/955e).
+Por fim, requer"sejam os presentes Embargos de Declaração conhecidos e, no mérito, providos, para, sanando-se as omissões apontadas, não conhecer o Agravo interno interposto pela contraparte, ou, ainda, não encampar o entendimento adotado no julgamento do REsp 525.625/RS, seja pela falta definitividade da decisão, seja em razão da falta de publicação" (fl. 955e).
+A irresignação não merece acolhida.
+Nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Infere-se, portanto, que, não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+Quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão ora embargada estásuficientemente fundamentada, no sentido quea Segunda Turma do STJ, ao concluir o julgamento do REsp 525.625/RS (Rel.Ministro FRANCISCO FALCÃO), em juízo de retratação, por força do art. 1.040 do CPC/2015, revendo sua jurisprudência, firmou o entendimento no sentido da inaplicabilidade do art. 166 do CTN, na espécie, porquanto esse dispositivo do CTN está inserido na seção relativa ao "pagamento indevido", cujas hipóteses estão previstas no art. 165 do CTN. Em nenhum dos incisos do art. 165 do CTN se encontra a hipótese de que trata o Recurso Especial. O montante pago a título de substituição tributária não era indevido quando da realização da operação anterior. Ao contrário, aquele valor era devido e poderia ser, inclusive, exigido pela Administração tributária. Ocorre que, realizada a operação que se presumiu, a base de cálculo se revelou inferior à presumida. Esse fato superveniente é que faz nascer o direito do contribuinte. Não se trata, portanto, de repetição de indébito, nos moldes do art. 165 do CTN, mas de mero ressarcimento, que encontra fundamento no art. 10 da Lei Complementar 87/96.
+No mais, no que diz respeito à suposta inadmissibilidade do Agravo interno de fls. 916/929e,aviado pela impetrante, razão não assiste ao ente público, pois, no mencionado Agravo interno,a impetrante impugnara, concreta e especificamente, a decisão de fls. 909/911e, na qual, ao dar provimento ao Recurso Especial, fora determinado,ao Tribunal de origem, o enfrentamento da questão fática acerca do efetivo atendimento, ou não, do art. 166 do CTN.
+Com efeito, nas razões do Agravo interno de fls. 919/929e, a impetrante do Mandado de Segurança impugnara, concreta e especificamente, a decisão de fls. 909/911e, na medida em que defendera ser inoportuna a invocação, pelo ente público, somente em fase recursal, do disposto no art. 166 do CTN, e argumentara, ainda, que a prova do art. 166 do CTN ficaria adstrita à posterior fase de liquidação do crédito, na esfera administrativa ou porventura, na judicial, em eventual ação de repetição de indébito de que trata o art. 165 do CTN.
+De outro lado, na forma da jurisprudência do STJ, "não caracteriza cerceamento de defesa acitaçãode julgado aindanão publicado na imprensa oficial. Precedentesdo STF e do STJ" (STJ, AgRg no Ag 1.091.785/RS, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, DJe de 17/08/2009). Em igual sentido:
+"PROCESSUAL CIVIL E TRIBUTÁRIO - AGRAVO REGIMENTAL - COFINS - IMÓVEIS - INCIDÊNCIA - CERCEAMENTO DE DEFESA - INEXISTÊNCIA.
+1. Inexistência decerceamento de defesaapoiar-se a decisão monocrática emprecedente da Primeira Seção ainda não publicado,eis que constam da decisão agravada as razões de decidir, que podem ser impugnadas através de agravo.
+2. Incidência da COFINS sobre a venda de imóveis.
+3. Agravo regimental improvido" (STJ, AgRg nos EREsp 149.022/PB, Rel. Ministra ELIANA CALMON, PRIMEIRA SEÇÃO, DJUde 29/10/2001).
+Deve-se ressaltar que, à luz do CPC vigente, os Embargos de Declaração não constituem veículo próprio para o exame das razões atinentes ao inconformismo da parte, tampouco meio de revisão, rediscussão e reforma de matéria já decidida.
+Nesse sentido:
+"ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE. FUNDAMENTAÇÃO DEFICIENTE DO AGRAVO INTERNO. INAPLICABILIDADE DO ART. 932, PARÁGRAFO ÚNICO, DO CPC.
+1. De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado, ou para corrigir-lhe erro material. Não se verifica, no caso concreto, a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+2. Com efeito, decidiu-se que o agravo interno não tinha condições de conhecimento, porquanto a parte agravante deixou de refutar todos os fundamentos da decisão agravada, o que fez atrair o óbice da Súmula 182/STJ.
+3. Não podem ser acolhidos embargos declaratórios que, a pretexto dos alegados vícios do acórdão embargado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Em razão de sua natureza substancial, a falta de impugnação integral dos fundamentos da decisão recorrida não admite posterior saneamento, a ela não se aplicando o disposto no parágrafo único do artigo 932 do CPC.
+5. Embargos de declaração rejeitados"(STJ, EDcl no AgInt no AREsp 1.544.182/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA,DJe de 02/04/2020).
+Ante o exposto, à míngua de vícios, com fundamento no § 1º do art. 264 do RISTJ, rejeito os Embargos Declaratórios.
+I.
