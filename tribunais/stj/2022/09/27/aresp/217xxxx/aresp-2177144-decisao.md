@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial fundado naalínea"a"do permissivo constitucional interposto contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. AÇÃO DE COBRANÇA. SERVIDOR PÚBLICO. Município de Barra Mansa. Pretensão de incorporação da gratificação por exercício de cargo comissionado, bem como o pagamento das diferenças vencidas e vincendas, dos reflexos em FGTS, férias, décimo terceiro salário e horas extras eventualmente prestadas durante o período da supressão. Alegação autoral de que desde 06/09/2009 , após sucessivas nomeações permaneceu até 31/12/2016, exercendo cargos em comissão, quando foi exonerada através da Portaria nº 4160/SMA. Cargo comissionado que é de livre nomeação e exoneração , nos termos do artigo 37, inciso II da Constituição Federal, não necessitando o ato de motivação para a sua prática. Emenda Constitucional n.19/1998, que alterou o inciso XIV do artigo 37 da Constituição Federal, restringindo a incorporação de novas vantagens oriundas do exercício de cargo em comissão e funções gratificadas na remuneração dos servidores estaduais e municipais. Sentença de improcedência que se mantém. RECURSO AO QUA L SE NEGA PROVIMENTO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a parte recorrente alega violação dosarts. 3º, 11 e 1.025, todos do CPC, alegando que ".. não houve o enfrentamento do ponto principal da lide, qual seja, se os cincos períodos de férias não gozadas contabilizam o tempo de prestação de serviço público, visto a ausência de impugnação específica na contestação, tornando -se incontroverso não ter a Recorrente gozado tais períodos de férias, o que importará no cumprimento ao período de 8 (oito) anos para incorporação da gratificação previst a no art. 37 da Lei Municipal nº 1718/83 (fls. 30/64), em razão da Recorrente ter exercido cargo comissionado por 7 (sete) anos, 9 (nove) meses e 25 (vinte e cinco) dias ininterruptos, restando apenas 2 (meses) meses e 5 (cinco) dias para a incorporação da gratificação quando houve a dispensa da função gratificada, bem como manteve -se omisso o acórdão sobre a questão da dispensa obstativa pelo Governo Municipal." (fls. 337-338 e-STJ)
+Houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade fundada na incidência da Súmula 280/STF.
+Insurge a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Foi ofertada contraminuta.
+É o relatório. Passo a decidir.
+Conheço do agravo, porquanto refutada a motivação utilizada no juízo de admissibilidade.
+A irresignação não merece conhecimento.
+O Tribunal de origem, ao analisar a controvérsia, assentou que:
+Por certo, o cargo comissionado é de livre nomeação e exoneração , nos termos do artigo 37, inciso II da Constituição Federal, não necessitando o ato de motivação para a sua prática.
+A Emenda Constitucional n.19/1998, alterou o inciso XIV do artigo 37 da Constituição Federal, restringindo a incorporação de novas vantagens oriundas do exercício de cargo em comissão e funções gratificadas na remuneração dos servidores estaduais e municipais.
+ ..
+Como se pode observar vedou -se também com a referida EC, que os acréscimos pecuniários recebidos por servidor público fossem computados ou acumulados para fins de concessão de acréscimos ulteriores, não havendo que se falar em incorporação do adicional pleiteado na inicial.
+Ademais, a fixação e majoração da remuneração de servidores públicos estão sujeitas ao campo da conformação legislativa, do que resulta o óbice à concessão de aumento remuneratório pelo Poder Judiciário, por importar em ofensa ao princípio da separação e harmonia dos poderes, nos termos do verbete nº 339, da Súmula do STF, não merecendo qualquer reparo a sentença apelada.
+A simples leitura da ementa do acórdão recorrido permite verificar que o Tribunal regional trouxe como fundamentos dispositivos constitucionais,nesse sentido, torna-se inviável a análise da pretensão em sede de recurso especial, uma vez que a adoção pela instância ordinária de fundamento eminentemente constitucional na solução da lide, inviabiliza o conhecimento do recurso especial.
+Nesse sentido:
+ADMINISTRATIVO. CREA/SP. FUNCIONÁRIOS QUE SE SUBMETEM AO DISPOSTO NA LEI 8.112/1990. ESTABILIDADE. ART. 19 ADCT. MATÉRIA CONSTITUCIONAL.
+1. O acórdão do Tribunal de origem, invocando as disposições contidas no art. 19 do ADCT, concluiu que "O recorrente, empregado de conselho profissional (Conselho Regional de Engenharia, Arquitetura e Agronomia do Estado de São Paulo), foi admitido em 30 de abril de 1.984 e demitido, sem justa causa, em 2 de fevereiro de 1.994, ocasião em que se encontrava albergado pela estabilidade prevista no artigo 19 do AD)CT de 1.988." (fl. 384, e-STJ)
+2. Logo, a controvérsia relacionada ao reconhecimento do vínculo entre o recorrido e o CREA/SP foi dirimida pelo Tribunal de origem sob enfoque eminentemente constitucional competindo ao Supremo Tribunal Federal a eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal. Dessa forma, é inviável o exame da insurgência, tal como posta, em Recurso Especial, que se restringe à uniformização da legislação infraconstitucional.
+3. Agravo Interno não provido.
+(AgInt nos EDcl nos EDcl no AREsp 887.863/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/04/2017, DJe 25/04/2017)
+PROCESSUAL CIVIL. ADMINISTRATIVO. QUESTÃO RESOLVIDA NA ORIGEM COM FUNDAMENTO NOS ARTS 33 E 78 DO ADCT. NATUREZA JURÍDICA DE TEXTO CONSTITUCIONAL. INVASÃO DE COMPETÊNCIA DO STF.
+1. Depreende-se que a controvérsia foi decidida com fundamento eminentemente constitucional (arts. 33 e 78 do ADCT), sendo a sua apreciação de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+2. Agravo interno não provido.
+(AgInt no REsp 1459159/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 21/02/2017, DJe 06/03/2017)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. INCORPORAÇÃO DE GRATIFICAÇÃO. CARGO COMISSIONADO. ART. 37 DA CONSTITUIÇÃO FEDERAL. EMENDA CONSTITUCIONAL N. 19/1998. SÚMULA 339/STF.FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
