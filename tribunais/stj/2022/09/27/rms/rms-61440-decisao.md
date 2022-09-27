@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por SENAIDE GONÇALVES MONTEIRO MORESE, com fundamento no art. 105, II, "b", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado da Bahia assim ementado (e-STJ fl. 138):
+MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO. PROCESSO ADMINISTRATIVO. RESSARCIMENTO AO ERÁRIO.AUSÊNCIA DE IRREGULARIDADE NO PROCESSO ADMINISTRATIVO. DEVER DE APURAÇÃO. ATO VINCULADO. PRINCÍPIO DA LEGALIDADE.INEXISTÊNCIA DE VIOLAÇÃO A DIREITO LÍQUIDO E CERTO. SEGURANÇA DENEGADA.
+Processo Administrativo instaurado para averiguar irregularidade no recebimento de verba pecuniária de gratificação por substituição após encerramento do exercício da função.
+Ausência de ilegalidade ou vício na tramitação do processo administrativo. Princípio do contraditório e ampla defesa respeitados.
+Dever de apuração da autoridade pública que tiver ciência de irregularidade no serviço público.
+Objeto do mandado de segurança é a correção de ato ou omissão de autoridade que seja ilegal e ofensivo a direito líquido e certo do Impetrante.
+Não comprovação de plano de violação a direito líquido e certo.
+A recorrente alega, em síntese, que "sofrer o ônus de devolver valores já percebidos, uma vez que tais parcelas não foram recebidas por meios ilícitos, nem por culpa sua, pelo contrário, de fato que não configuram, ilícito administrativo a ensejar a adoção de qualquer medida punitiva" (e-STJ fl. 148).
+Destaca que os valores recebidos têm caráter alimentar, sendo, portanto, irrepetíveis.
+O Ministério Público Federal opinou pelo não conhecimentodo recurso.
+Passo a decidir.
+Não obstante os argumentos expendidos pelo recorrente, o recurso não merece prosperar.
+Com efeito, o Tribunal de origem assim consignou (e-STJ fls. 140/141):
+(..)
+Da análise dos autos, constata-se que a Impetrante busca com o presente mandamus a extinção, sem julgamento de mérito, de processo administrativo, que tem como objeto a apuração de percepção indevida de parcelas referentes à "gratificação por substituição", prevista no art 204 da Lei de Organização e Divisão Judiciária do Estado da Bahia, requerendo concessão de liminar para suspensão do curso do referido processo.
+Conforme afirmado anteriormente na oportunidade em que fora analisado o pedido liminar, o processo administrativo é poder dever da Administração Pública na busca da verdade real, visando garantir não só o direito fundamental à boa administração pública, como também, a proteção dos interesses dos particulares. Nesta senda, tendo a Administração Pública ciência de fato que deva ser apurado, deve obrigatoriamente instaurar o processo administrativo, garantindo aos acusados o direito ao contraditório e à ampla defesa.
+Observa-se que a Impetrante em nenhum momento aponta qualquer ilegalidade ou vício na tramitação do processo administrativo, nem mesmo violação aocontraditório e ampla defesa. O que pretende, mediante o mandado de segurança, é que o Judiciário, por via indireta, ao pleitear a extinção do processo administrativo, analise os fatos existentes, inclusive a sua boa -fé para eximir-se de ressarcir o erário de valores supostamente recebidos indevidamente por longo período pela servidora.
+Destaca-se ainda que o objeto do mandado de segurança é a correção de ato ou omissão de autoridade que seja ilegal e ofensivo a direito líquido e certo do Impetrante, o que, no caso sob análise, não ficou comprovado de plano, ao contrário, a instauração do processo administrativo para averiguar os fatos relatados pelo setor de pagamento é dever da Administração e a omissão sim é que ensejaria ilegalidade.
+Expressamente determina o art. 204 do Estatuto do Servidor Público do Estado da Bahia (Lei n. 6.677/94) que "A autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua imediata apuração, mediante sindicância ou processo disciplinar". Trata-se, portanto, de ato vinculado que não comporta escolha por parte da autoridade competente que estiver diante de uma irregularidade, ou seja, mesmo que não se trate de ilegalidade, mas a mera irregularidade é suficiente para que, atendendo ao princípio da legalidade, sejam os fatos devidamente apurados.
+E assim o fez a autoridade impetrada ao se deparar com a situação irregular da servidora quanto ao recebimento de valores inerentes ao exercício de função pública mesmo depois de ter deixado de exercê-la, conforme demonstrado nos autos - instaurou processo administrativo, não ficando em nenhum momento demonstrada qualquer ilegalidade ensejadora da intervenção do Poder Judiciário através do remédio constitucional mandado de segurança.
+Assim, verificando-se a regularidade do processo administrativo disciplinar objeto do presente mandamus, ante a ausência de qualquer ilegalidade, impõe- se a denegação da segurança pretendida.
+Nas razões do presente recurso, contudo, a parte recorrente não impugnou especificamente todos os fundamentos, limitando-se a defender a impossibilidade de devolução dos valores recebidos,o que denota violação do princípio da dialeticidade e permite a aplicação das Súmulas 283 e 284 do STF, por analogia. Nesse sentido:
+RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE DIALETICIDADE. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF.
+1. A Corte Regional, ao julgar o Mandado de Segurança, denegou a ordem por entender que não há necessidade que justifique a impetração do mandamus quando já alcançado, administrativamente, o objeto da pretensão.
+2. Não obstante as razões explicitadas pela instância a quo, ao interpor o recurso, a recorrente não impugnou o fundamento acima mencionado no tocante à desnecessária impetração do Mandado de Segurança tendo em vista que a sua pretensão já havia sido alcançada pela via administrativa.
+3. Ao proceder dessa forma, não observou a recorrente as diretrizes fixadas pelo princípio da dialeticidade, dentre as quais se destacar a indispensável pertinência temática entre as razões de decidir e os fundamentos fornecidos pelo recurso para justificar o pedido de reforma ou de nulidade do julgado. Incidência, por analogia, das Súmulas 283 e 284 do STF.
+4. Recurso em Mandado de Segurança não conhecido. (RMS 54.537/MG, Rel.
+Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 18/10/2017).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. AUSÊNCIA DE COMBATE AFUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+III - Na forma da jurisprudência desta Corte, a Súmula n. 283/STF é aplicável aos recurso ordinários.
+IV - O Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+V - Agravo Interno improvido. (AgInt no RMS 50.097/PB, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 21/02/2017).
+Ante o exposto, com fulcro no art. 34, XVIII, "a", do RISTJ, NÃO CONHEÇO do recurso.
+Publique-se. Intimem-se.
