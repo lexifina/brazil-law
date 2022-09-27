@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por WALID ANONI MUQBIL, com fundamento no art. 105, inciso III, alínea "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 4ªRegião assim ementado (e-STJ fl. 78):
+EXECUÇÃO FISCAL. PRESCRIÇÃO. INTERCORRENTE. INOCORRÊNCIA.
+Não há falar em prescrição intercorrente quando, entre o termo inicial da contagem do prazo e a sentença que extinguiu a execução fiscal, não houve inércia por parte da exequente, que buscou a todo momento a satisfação de seu crédito.
+No especial, a parte alega, em síntese, violação do art. 174, I, do CTN, ao argumento de que deve ser reconhecida a prescrição da execução fiscal, porquanto houve o decurso de mais de cinco anos entre a data da constituição do crédito tributário e o ajuizamento da execução fiscal, in verbis (e-STJ fl. 98):
+In casu, a Fazenda Nacional, ora Recorrida, ajuizou a execução fiscal em 09/03/2007, tendo sido proferido despacho para ordenar a citação da executada, ora Recorrente, em 13/03/2007. Parte dos débitos foi constituída em 2002. Portanto, verifica-se que o instituto da prescrição está presente, uma vez que entre a data da constituição do débito e o despacho que ordenou a citação da Recorrente, ultrapassou-se o período de 05 anos. Ou seja, as CDA"s n. 002 06 010676-60, 00 6 06 035053-88 e 00 6 06 035054-69 estão prescritas!
+Contrarrazões apresentadas às e-STJ fls. 108/111.
+O recurso especial foi admitido na origem (e-STJ fl. 146).
+Passo a decidir.
+Importa mencionar que o recurso especial se origina de execução fiscal movida pela FAZENDA NACIONAL contra WALID ANONI MUQBIL.
+No primeiro grau de jurisdição, a execução fiscal foi extinta em razão do reconhecimento da prescrição intercorrente.
+Irresignada, a FAZENDA NACIONAL interpôs recurso de apelação, provido pelo Tribunal de origem para afastar a prescrição.Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 75/77):
+De início, conheço da apelação, por ser recurso próprio, formalmente regular e tempestivo. A remessa oficial, por sua vez, não deve ser admitida, nos termos do art. 475, § 2º, do CPC.
+Pois bem. A contagem do prazo de prescriçlão intercorrente deve ser feita na forma do artigo 40 da Lei nº 6.830, de 1980, com a conformação dada ao dispositivo na Arguição de Inconstitucionalidade nº 0004671-46,2003.404.7200. Nesse incidente, a Corte Especial deste Tribunal deu aoartigo 40 da Lei nº 6.830, de 1980, interpretação conforme a Constituição, entendendo ser o termo inicial do prazo de prescrição intercorrente contado da decisão que determina a suspensão do processo de execução fiscal, nos seguintes termos:
+ ..
+Compulsando os autos, observa-se que não houve sequer pedido de arquivamento do processo com base no art. 40 da LEF. O despacho que determinou a citação do executado foi proferido em 13-03-2007 (fl. 25), interrompendo a prescrição. Após, a União requereu a suspensão do feito para busca de bens do executado junto ao Cartório de Registro de Imóveis e ao Centro de Registro de Veículos Automotores (fl. 28), o que foi deferido (fl. 34).
+Então, em 20-02-2008, foi determinado o apensamento destes autos à execução fiscal de nº 063/1.03.0005405-9 (reautuada neste Tribunal sob o nº 0007266-11.2013.404.9999), na qual foi concentrada a realização dos atos processuais de ambos os feitos. Constata-se que, naqueles autos, houve a realização de diversas diligências por parte da União na busca por bens passíveis de penhora, o que demonstra que a exequente buscou a todo tempo o adimplemento de seu crédito, não se monstrando inerte durante o processo.
+É oportuno que diga que a inércia por parte da Fazenda Pública é elemento essencial para a configuração da prescrição intercorrente, de tal sorte que, não tendo o feito ficado paralisado por cinco anos ou mais, a contar da citação do executado, mostra-se inviável sua extinção.
+Impõe-se, pois, reformar a sentença, afastando a prescrição intercorrente, a fim de que se tenha prosseguimento a execução fiscal.
+Ante o exposto, voto por não conhecer da remessa oficial e dar provimento à apelação.
+Os embargos de declaração apresentados foram rejeitados.
+Pois bem.
+Da leitura do excerto supra, observa-se claramente que a instância ordinária não analisou a prescrição para o ajuizamento da execução fiscal  art. 174, I, do CTN , mas tão somente a prescrição intercorrente, institutos jurídicos distintos. Apesar disso, não foram opostos embargos de declaração pela parte insurgentepara fins de prequestionamento da tese apresentada.
+Assim, o presente apelo nobre carece, no ponto, do requisito constitucional do prequestionamento, circunstância que atrai a aplicação analógica da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARTS. 97 E 144 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 282/STF. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. RAZÕES RECURSAIS DISSOCIADAS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DAS SÚMULAS N. 283 E 284/STF. ITCMD. CONTAGEM DO PRAZO DECADENCIAL. CONSOLIDAÇÃO DA RELAÇÃO JURÍDICA. TRÂNSITO EM JULGADO DA DECISÃO PROFERIDA NOS AUTOS DE INVENTÁRIO.DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Tribunal Federal.
+III - A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem.
+Incidência, por analogia, das Súmulas n. 283 e 284/STF.
+IV - A contagem do prazo decadencial para a Entidade tributante lançar o crédito tributário inicia-se com a consolidação da relação jurídica do ITCD que, no caso, se dá com o trânsito em julgado da decisão proferida nos autos do Inventário, visto que, durante a pendência da discussão judicial acerca da alíquota aplicável, não poderia o Estado lavrar o auto de lançamento para constituir o crédito tributário. Precedentes.
+V - É entendimento pacífico dessa Corte que a parte deve proceder ao cotejo analítico entre os arestos confrontados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementas.
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno desprovido.
+(AgInt nos EDcl no REsp n. 1.995.298/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/9/2022, DJe de 15/9/2022).
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
