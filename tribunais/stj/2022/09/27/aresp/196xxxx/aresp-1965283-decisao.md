@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por Lidiane Miranda Mansaneradesafiando acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sulassim ementado (e-STJ, fl. 327):
+ADMINISTRATIVO E CIVIL. RESCISÃO CONTRATUAL E REINTEGRAÇÃO DE POSSE. PROGRAMA MINHA CASA MINHA VIDA. RECURSOS DO PAR. OCUPAÇÃO DE IMÓVEL POR TERCEIRO. ESBULHO COMPROVADO. 1. O Programa Minha Casa Minha Vida foi instituído no âmbito da Lei nº 11.977/2009, e tem por objeto o financiamento para compra de bens imóveis adquiridos com finalidade residencial. Pelo fato de visar ao atendimento exclusivo da necessidade de moradia da população de baixa renda, são cobradas taxas reduzidas de juros. 2. No contrato celebrado entre a CEF e o beneficiário originário consta expressamente que o imóvel objeto do contrato é destinado à moradia própria do contratante e de sua família, e que o desvio desta finalidade importará no vencimento antecipado da dívida. 3. Ocupado irregularmente o bem por terceiro alheio à relação contratual, o que é vedado pela legislação de regência (art. 6º-A, parágrafos 5º, inciso III, e 6º, da Lei nº 11.977/2009), procede o pedido de reintegração da posse.
+Nas razões do recurso especial (e-STJ, fls. 342-350), fundado no art. 105, III, a, da Constituição Federal, arecorrente alegou violação aos arts. 1º, § 1º, I, da Lei 11.977/2009 e 561 do CPC/2015, sustentando, em síntese, ter comprovado os requisitos necessário para ingresso no programa de habitação popular.
+Contrarrazões não apresentadas (e-STJ, fl. 354).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da incidência daSúmulan. 7/STJ (e-STJ, fls. 357-360).
+Foi interposto agravo em recurso especial às fls. 368-376(e-STJ), e não apresentada contraminuta, conforme certificadoàfl. 379 (e-STJ).
+Brevemente relatado, decido.
+O Tribunal de Justiça, ao julgar a apelação, assim concluiu (e-STJ, fls. 331-334):
+O Programa Minha Casa Minha Vida foi instituído no âmbito da Lei nº 11.977/2009, e tem por objeto o financiamento para compra de bens imóveis adquiridos com finalidade residencial. Pelo fato de visar ao atendimento exclusivo da necessidade de moradia da população de baixa renda, são cobradas taxas reduzidas de juros.
+A Lei nº 11.977/2009, em seu artigo 7º, prestigia a observância precisa da finalidade social dos arrendamentos imobiliários, nos seguintes termos:
+ ..
+Do exame dos autos, verifica-se que o Fundo de Arrendamento Residencial (FAR), representado pela Caixa Econômica Federal, é proprietário fiduciário do imóvel (ev. 1,CONTR4), o que o coloca na posição de possuidor indireto, estando cumprido, portanto, o primeiro requisito exigido pelo art. 561 do CPC.
+No caso, restou comprovado nos autos que o imóvel adquirido pelo programa de habitação do governo federal não está sendo destinado para residência da beneficiária e de sua família, tendo sido cedido por esta aos ocupantes, conforme certidão do Oficial de Justiça Avaliador (ev. 68, CERT1).
+Assim dispõe a Cláusula Décima Segunda do Contrato n. 171000436726 (ev. 1 - CONTR4):
+ ..
+Ora, a inexistência de vínculo do ocupante do imóvel com a CEF dentro do do Programa Minha Casa Minha Vida configura burla ao sistema, ensejando, de per si, o acolhimento da pretensão autoral.
+Portanto, o esbulho está configurado em razão ocupação irregular do bem, o que é vedado pela legislação de regência (art. 6º-A, parágrafos 5º, inciso III, e 6º, da Lei nº 11.977/2009).
+ ..
+Cumpre destacar que, porquanto é pública a necessidade de prévio cadastramento para participar em programa de habitação, e o direito à moradia não autoriza o descumprimento da lei em prejuízo dos demais cadastrados nos programas sociais, não se pode falar em boa-fé e necessidade por parte da apelante que está ocupando o imóvel de forma indevida. Não há que se falar, portanto, em substituição contratual.
+Por fim, ressalta-se que o direito social à moradia é justamente o objeto visado pelas políticas públicas de moradia legalmente estabelecidas, tais como o Programa Minha Casa Minha Vida e o Programa de Arrendamento Residencial - Leis n.ºs 11.977/2009 e 10.188/2001. Contudo, seu exercício deve se dar nos estritos limites e finalidades legais fixados, sob pena de se privilegiar a especulação imobiliária, desvirtuando a aplicação de recursos públicos para situações estranhas aos objetivos legais. Deve-se privilegiar a validade dos negócios jurídicos firmados e a segurança jurídica dos contratos, de modo a não macular o próprio objetivo dos programas sociais e, reflexamente, o direito à moradia dos demais cidadãos que aguardam para serem contemplados nos programas habitacionais.
+Esses argumentos (acima destacados), contudo, não foram rebatidos de modo específico no recurso especial, tendo a insurgente restringido suas razões recursais no sentido de cumpriu os requisitos exigidos pela lei, o que atrai a aplicação dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULAS N. 283 E 284 DO STF. SALÁRIO. PENHORABILIDADE. ART. 833, IV, DO CPC/2015.ERESP N. 1.582.475/MG. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor das Súmulas n. 283 e 284 do STF.
+3. Segundo a jurisprudência desta Corte, "a regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art.
+649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família" (EREsp 1582475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, DJe 16/10/2018).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1866064/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/12/2021, DJe 16/12/2021)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C PEDIDO DE REINTEGRAÇÃO DE POSSE. VIOLAÇÃO AOS ARTS. 561 DO CPC/2015 E 1º, § 1º, I, DA LEI 11.977/2009. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DAS SÚMULAS 283 E 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
