@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ISMAEL NUNES PEREIRA contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, III, ae c,da Constituição Federal.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Em primeiro grau, o agravante foi condenado àpenade 20 anos de reclusão no regime inicial fechado, pela prática dos crimes descritos nos arts. 121, § 2º, II e IV, c/c § 4º, do CP, em desfavor da vitima maior de 60anos, no art.121, § 2º, II e IV, c/c art.14, II, todos do CP, em desfavor da segunda vitima (fls. 315-327).
+O Tribunal de origem negou provimento ao recurso de apelação criminal da defesa (fls. 453-473).
+Opostos embargos de declaração, foram rejeitados (fls. 508-524).
+Apresentadas contrarrazões (fls. 591-613), o apelo extremo foi inadmitido na origem em razão daimpossibilidade de alegar em recurso especial violação de dispositivo constitucional, a incidência da Súmula n. 7 do STJ e a analise do recurso pela alínea c foi considerada prejudicada diante da aplicação do verbete sumular 7 do STJ.
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (fls. 670-676).
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando a impossibilidade de alegar em recurso especial violação de dispositivo constitucional,a incidência da Súmula n. 7 do STJ e a analise do recurso pela alínea c foi considerada prejudicada diante da aplicação do verbete sumular 7 do STJ.
+Entretanto, a parte agravante deixou de impugnar todos os fundamentos da decisão agravada, limitando-se a reiterar as razões do recurso especial.
+Como é cediço, não se conhece do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A propósito, confira-se este julgado:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. EXECUÇÃO PROVISÓRIA DA PENA. IMPOSSIBILIDADE. CONCESSÃO DE SUSPENSÃO CONDICIONAL DA PENA PELO TRIBUNAL DE ORIGEM. AGRAVO REGIMENTAL IMPROVIDO.
+1. A ausência de impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial obsta o conhecimento do agravo, nos termos do art. 932, III, CPC de 2015, art. 253, parágrafo único, I, do RISTJ e da Súmula 182 do STJ, aplicável por analogia.
+2. Incabível a execução provisória da pena imposta a réu ao qual concedida a suspensão condicional da pena. Precedentes.
+3. Agravo regimental improvido e indeferido o pedido de execução provisória da pena. (AgRg no AREsp n. 1.193.328/GO, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 11/5/2018.) Nesse sentido, vejam-se ainda os seguintes precedentes: AgInt no AREsp n. 880.709/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/6/2016; AgRg no AREsp n.575.696/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 13/5/2016; AgRg no AREsp n. 825.588/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/4/2016; AgRg no AREsp n. 809.829/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/6/2016; e AgRg no AREsp n. 905.869/ES, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 14/6/2016.
+Nesse sentido, vejam-se ainda os seguintes precedentes: AgInt no AREsp n. 880.709/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/6/2016; AgRg no AREsp n.575.696/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 13/5/2016; AgRg no AREsp n. 825.588/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/4/2016; AgRg no AREsp n. 809.829/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 29/6/2016; e AgRg no AREsp n. 905.869/ES, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 14/6/2016.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
