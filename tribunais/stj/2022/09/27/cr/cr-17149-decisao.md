@@ -1,0 +1,3 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça argentina solicita que se proceda à obtenção de informações da BOLSA DE VALORES DE SÃO PAULO - BOVESPA acerca da cotação de ações da NATURA COSMÉTICOS S. A., dia por dia, durante os meses de maio a julho de 2018, a fim de instruir ação trabalhista em trâmite no Tribunal Trabalhista N 3 de San Isidro da Província de Buenos Aires (fls. 118-222 e 6-9).
+Tendo em vista que a diligência foi cumprida (petição de fl. 277/287), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
