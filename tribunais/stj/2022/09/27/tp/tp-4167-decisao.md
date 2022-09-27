@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de pedido de tutela provisória de urgência (e-STJ fls. 3/14), objetivando a concessão de efeito suspensivo ao recurso especial interposto contra acórdão do TJDFT assim ementado (e-STJ fls. 362/363):
+APELAÇÃO CÍVEL. PROCESSO CIVIL. CIVIL. PLANO DE SAÚDE INDIVIDUAL OU FAMILIAR. INCIDÊNCIA DAS NORMAS DO CÓDIGO DE DEFESA DO CONSUMIDOR. PEDIDO DE CANCELAMENTO PELO TITULAR. RESCISÃO IMEDIATA DO CONTRATO. MANUTENÇÃO DO DEPENDENTE. IMPOSSIBILIDADE.
+1. Conforme consolidado pelo Superior Tribunal de Justiça no enunciado de Súmula n. 608, em se tratando de plano de saúde, salvo os administrados por entidades de autogestão, incide o Código de Defesa do Consumidor (Lei n. 8.078/90).
+2. Por definição, há uma diferenciação entre o beneficiário titular do plano privado de assistência à saúde, "cujo contrato se caracteriza como detentor principal do vínculo contratual com uma operadora", e o beneficiário dependente "cujo vínculo contratual com a operadora depende da existência de relação de dependência ou de agregado a um beneficiário titular" - Resolução Normativa ANS n. 295/2012, artigo 2º, I, "a" e "b".
+3. Como dependente de plano individual ou familiar, a posição ocupada pela autora frente ao plano de saúde está vinculada à relação que o titular possui com o plano. Essa é a regra.
+4. Segundo a Resolução Normativa ANS n. 412/2016, o cancelamento se caracteriza pela rescisão do contrato, enquanto a exclusão do beneficiário se configura com a saída daquele com a continuidade da vigência do contrato em relação aos demais. E, estas duas situações, recebem tratamentos diversos, consoante artigo 15, II e V da Resolução Normativa ANS n. 412/2016.
+5. No caso, por ser hipótese de cancelamento do contrato pelo titular, e não pedido de sua exclusão, houve a imediata rescisão do contrato, não sendo possível o acolhimento do pleito de continuidade de permanência da autora, como bem pontuado na r. sentença.
+6. Apelo conhecido e desprovido.
+Arequerente alega violação dos arts. 3º, § 1º, da Resolução Normativa n. 195/2009 da ANS, 4º, 6º e 49 do CDC e 422 do CC/2002.
+Aduz queo"periculum in mora, por sua vez, observa no caso em questão, é representada pelo fato de que a Requerente está em pleno processo de tratamento médico e, caso o efeito suspensivo não seja concedido, tal circunstância poderá acarretar não apenas em grave prejuízo ao patrimônio da Requerente, como também na IMEDIATA suspensão do prosseguimento de seu tratamento médico" (e-STJ fl. 13).
+Requer(e-STJ fl. 14):
+(..) a) a concessão da gratuidade de justiça, tendo em que vista ser hipossuficiente e não poder arcar com as despesas do processo; b) com a urgência que o caso demanda, a concessão da Tutela de Urgência para determinar liminarmente o efeito suspensivo ao Recurso Especial, aplicando-se o § 5º do art. 1.029, bem como o parágrafo único do art. 995, ambos do CPC, para admitir a suspensão do andamento do processo em primeira instância, especialmente nointeresse de se evitar a suspensão/cancelamento do plano de saúde da Requerente, até o julgamento final do Recurso Especial, o qual fatalmente será admitido e provido por este Colendo Superior Tribunal, diante da urgência e relevância da matéria tratada nestes autos.
+É o relatório.
+Decido.
+Compete ao Superior Tribunal de Justiça apreciar tutela provisória de urgência apenas para atribuir efeito suspensivo ou, eventualmente, antecipar a tutela em recursos ou ações de competência origináriadesta Corte, desde que preenchidos os requisitos dofumus boni iuris, consubstanciado na elevada probabilidade de êxito do recurso interposto ou da ação, e dopericulum in mora, que configura o perigo de lesão grave e de difícil reparação ao direito da parte.
+No caso dos autos, entretanto, esta Corte não dispõe de competência para antecipar a tutela de recurso especial que sequer teve o juízo de admissibilidade realizado pelo TJDFT.
+Essa é aorientação do inciso III do § 5º do art. 1.029 do CPC/2015, na redação conferida pela Lei n. 13.256/2016, que assim dispõe:
+Art. 1.029. O recurso extraordinário e o recurso especial, nos casos previstos na Constituição Federal, serão interpostos perante o presidente ou o vice-presidente do tribunal recorrido, em petições distintas que conterão:
+(..).
+§ 5º O pedido de concessão de efeito suspensivo a recurso extraordinário ou a recurso especial poderá ser formulado por requerimento dirigido:
+III - ao presidente ou ao vice-presidente do tribunal recorrido, no período compreendido entre a interposição do recurso e a publicação da decisão de admissão do recurso, assim como no caso de o recurso ter sido sobrestado, nos termos do art. 1.037.
+Logo, ausente a decisão de admissibilidade,inexiste a competência do Superior Tribunal de Justiça para conhecerda presente tutela de urgência.
+Mesmo que superado o referido óbice, é caso de indeferimento do pedido.
+A concessão do efeito suspensivo ao recurso especial exige a demonstração cumulativa da plausibilidade do direito invocado e do risco de dano irreparável.
+O Tribunal de origem consignou que (e-STJ fl. 367):
+No que concerne ao argumento de que o Código de Defesa do Consumidor tutela o direito de arrependimento, o direito à informação e o princípio da boa-fé, importa ressaltar que o direito de arrependimento, se fosse o caso, deveria ser exercido pelo titular e não pela dependente, ora apelante/autora. O mesmo se diz acerca do direito à informação, uma vez que o vínculo principal do contratual era estabelecido entre a titular e a operadora.
+Em relação à apelante/autora, não há nenhum indício de que haja tratamentos em andamento que justificassem a possibilidade de se aventar a manutenção temporária do plano de saúde, visando-se assegurar a boa-fé e a função social do contrato.
+Diante dessas considerações, tenho que a r. sentença apresenta-se escorreita, não merecendo reparos, motivo pelo qual o recurso deve ser desprovido.
+O TJDFT entendeu que o direito de arrependimento e de informação só poderiaser exercido pelo titular do plano de saúde, mas tal fundamento não foi impugnado pela parte requerente, incidindo a Súmula n. 283/STF.
+Além disso, a Corte local entendeu que não foi comprovado que a dependente estaria em tratamento de saúde para justificar a manutenção temporária do plano de saúde. Para reformar o acórdão, a fim de reconhecer a existência do tratamento, seria necessário o exame das provas dos autos, procedimento vedado pela Súmula n. 7/STJ.
+Por fim, os arts. 4º, III, 6º, III, e 49, parágrafo único, do CDC e 422 do CC/2002não são suficientes para fundamentara tese de ter a dependente direito à manutenção do plano de saúde quando o titular solicita o cancelamento docontrato, aplicando-se a Súmula n. 284/STF.
+Diante do exposto,NÃO CONHEÇO do pedido nos termos do art. 34, XVIII, "a", do RISTJ.
+Publique-se e intimem-se.
