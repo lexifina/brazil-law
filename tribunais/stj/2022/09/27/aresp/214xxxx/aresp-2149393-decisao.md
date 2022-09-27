@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por CONSTRUTORA LINCOLN VELOSO LTDA e OUTRAem face da decisão que, em juízo prévio de admissibilidade, inadmitiu o recurso especial.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fls. 468, e-STJ):
+AGRAVO DE INSTRUMENTO -AÇÃODE OBRIGAÇÃO DE FAZERE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS -OBRIGAÇÃO DE CUSTEAR IMÓVEL -HABITAÇÃO EM CONDIÇÕES INADEQUADAS -TUTELA DE URGÊNCIA-REQUISTOS PREENCHIDOS -DECOTE OU REDUÇÃO DA MULTA DIÁRIA COMINADA -IMPOSSIBILIDADE. O deferimento da tutela de urgência está condicionado à demonstração simultânea da probabilidade do direito pleiteado, do perigo de dano ou risco ao resultado útil do processo, bem como da reversibilidade dos efeitos da decisão (art. 300, do CPC/15). No caso concreto, presentes tais requisitos, deve ser mantida a decisão que deferiu a antecipação de tutela, consistente no fornecimento de habitação. Nos termos do art. 537, do CPC/2015, o magistrado pode aplicaras astreintes como instrumento de coerção ao cumprimento de decisões judiciais que imponham obrigação de fazer ou não fazer. O valor arbitrado como multa coercitiva deve ser compatível com a obrigação imposta, considerando, ainda, os princípios da proporcionalidade e razoabilidade no caso concreto. Estando prazo fixado para cumprimento da obrigação imposta fora dos limites da razoabilidade e proporcionalidade, revela-se pertinente a ampliação do mesmo.
+Opostos embargos declaratórios, restaram desacolhidos na origem (fls. 513-517,e-STJ).
+Nas razões de recurso especial (fls. 521-553e-STJ), alegaramasinsurgentes que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i)art. 300, §3º, do CPC/15, sustentando, em síntese, a irreversibilidade da tutela concedida; (ii) art. 537,§1º do CPC/15, argumentando, em suma, a exorbitância do valor fixado a titulo de astreintes.Aduziu, ainda, a existência de dissídio jurisprudencial.
+Contrarrazões às fls. 708-747,e-STJ.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobrepor aplicação do teor daSúmula 7/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 760-767,e-STJ, por meio do qual pretende ver admitido o recurso especial.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. De início, no que se refere à violação ao art. 300, §3º do CPC/15, argumentam as recorrentes que a obrigação de fazer imposta pelo Tribunal de piso em sede de tutela de urgência seria irreversível.
+No particular, decidiu a Corte estadual:
+A agravante ainda formulou, alternativamente, pedidos de conversão da obrigação de fazer, dilação do prazo para cumprimento desta e redução ou afastamento da multa.
+A conversão da obrigação de fazer em perdas e danos é disciplinada pelo artigo 499 do Código de Processo Civil e tem lugar quando requerida pelo autor ou quando for impossível a execução da tutela específica. Todavia, nenhuma das duas hipóteses se enquadra no caso dos autos, porquanto não vislumbro a impossibilidade de entregar à autora imóvel habitável, inexistindo comprovação objetiva da inviabilidade e/ou irreversibilidade da medida.
+Com efeito, a jurisprudência pacífica do STJ é no sentido de ser incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar.").
+Além disso, para derruir as premissas em que se apoiou o Tribunal a quo, e concluir terem sido preenchidos os pressupostos necessários para a antecipação dos efeitos da tutela, revelar-se-ia necessária uma incursão no acervo fático-probatório, e a interpretação das cláusulas contratuais, o que não é permitido nesta instância especial, nos termos das Súmulas 5 e 7 do STJ.
+Ilustrativamente:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. TUTELA DE URGÊNCIA. MEDIDA LIMINAR. SÚMULA N. 735/STF. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO EXTRAPETITA. NÃO OCORRÊNCIA. PEDIDO EXPRESSO DA PARTE. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Segundo a jurisprudência pacífica do STJ, é "incabível, via de regra, o recurso especial que postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplicação analógica da Súmula 735/STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar.")" (AgRg no AREsp n. 504.073/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/5/2017, DJe 23/5/2017).
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. Não há falar em decisão extra petita diante da concessão de expresso pedido da parte agravante.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.931.782/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/6/2022, DJe de 27/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL. TUTELA DE URGÊNCIA ANTECIPADA. INDEFERIMENTO. NATUREZA PRECÁRIA DA DECISÃO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. FALTA DE PREENCHIMENTO DOS REQUISITOS ENSEJADORES DA CONCESSÃO DA TUTELA REQUERIDA. SÚMULAS 7/STJ E 735/STF. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, é inviável, em regra, a interposição de recurso especial postulando o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, pois esta possui natureza precária e provisória do juízo de mérito, cuja reversão é possível a qualquer momento pela instância originária.
+2. No caso, a análise do preenchimento, ou não, dos requisitos necessários à concessão da providência liminar pleiteada demandaria o reexame do acervo fático-probatório dos autos, o que vedado, no âmbito do recurso especial, pela Súmula 7/STJ.
+3. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica no caso concreto.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.086.985/ES, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022.)
+Inafastáveis, também, os óbices das Súmulas 5 e 7 do STJ.
+2.O recorrente indica, ainda, a afronta aoart. 537, §1º do CPC/15, defendendo que as astreintesforam fixadas em valor exacerbado.
+A Corte estadual entendeu adequada a multa cominatória efetuada pelo magistrado primevo, de R$ 1.000,00 (mil reais por dia) até o limite de R$ 50.000,00 (cinquenta mil reais), adotando a seguinte fundamentação:
+Na hipótese dos autos, como visto, o juízo singular fixou multa diária de R$1.000,00, até o limite de R$50.000,00, montante que em meu entendimento encontra-se arbitrado de maneira proporcional e razoável aos objetivos a que se destina, não havendo que se falar em enriquecimento sem causa da parte agravada.
+Ressalta-se, que apenas em hipóteses excepcionais é autorizada pela via do recurso especial a redução do valor da multa cominatória arbitrada pelo Tribunal de piso, de modo que, somente quando evidenciado que o montante estabelecido foge dos parâmetros de proporcionalidade e razoabilidade é possível sua redução.
+Dessa forma, não verificada a desproporcionalidade alegada, a redução da multa diária mantida pela Corte estadualcom base nas peculiaridades do caso, demandaria o reexame de fatos e provas, prática vedada pela Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C REPARAÇÃO DE DANOS. 1. TESES SOBRE ILEGITIMIDADE PASSIVA E AUSÊNCIA DE CULPA DAS RECORRENTES. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME INVIÁVEL. SÚMULA N. 7/STJ. 2. ASTREINTES. REDUÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. 3. ALEGAÇÃO DE DISSÍDIO JURISPRUDENCIAL. TESE NÃO INVOCADA NAS RAZÕES DO APELO ESPECIAL. INOVAÇÃO RECURSAL. 4. MULTAS. LITIGÂNCIA DE MÁ-FÉ E RECURSO PROTELATÓRIO. INAPLICABILIDADE . 5. HONORÁRIOS RECURSAIS. AGRAVO INTERNO. NÃO CABIMENTO. 6. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Quanto às astreintes, em regra, é vedado rediscutir-se, no âmbito do recurso especial, o valor fixado a título de tal sanção processual em caso de descumprimento de determinação judicial, haja vista o óbice da Súmula 7/STJ. A jurisprudência do Superior Tribunal de Justiça é no sentido de que o pedido de redução do valor da multa diária aplicada como meio coercitivo para o cumprimento da ordem judicial só pode ser examinado nesta Corte nos casos em que se mostrar irrisório ou exorbitante.
+ ..
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 1.957.955/AL, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 11/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VALOR DAS "ASTREINTES". REDUÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INOVAÇÃO RECURSAL. HONORÁRIOS RECURSAIS. REVISÃO. DESCABIMENTO. DECISÃO MANTIDA.
+1. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor das "astreintes", a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ. No caso, os montantes estabelecidos pela Corte local não se mostram excessivos, a justificar sua reavaliação.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.864.125/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 8/4/2022.)
+Inafastável, no ponto, o óbice da Súmula 7 desta Casa.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nega-se provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
