@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ALCIONEI REZIN VICENTE, contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TRIBUNAL DE JUSTIÇA DE SANTA CATARINA, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE IMISSÃO DE POSSE CUMULADA COM PERDAS E DANOS. AQUISIÇÃO DE TERRENO PELO AUTOR. ALEGADA POSSE INJUSTA DE TERCEIRO NÃO PROPRIETÁRIO. SENTENÇA DE PROCEDÊNCIA. RECURSO DO RÉU. CONTRARRAZÕES. SUSTENTADA A AUSÊNCIA DE DIALETICIDADE RECURSAL. TESE PARCIALMENTE ACOLHIDA. QUESTIONADA NO APELO A VALIDADE DO TÍTULO QUE EMBASA O PEDIDO INICIAL. RAZÕES RECURSAIS DISSOCIADAS DA SENTENÇA A QUALCONSIDEROU INVIÁVEL A RENOVACAO DE DEBATE SOBRE O TEMA. MATÉRIA ANALISADA EM DECISÃO PROFERIDA EM AÇÃO DE NULIDADE DE ATO JURÍDICO. COISA JULGADA NÃO ATACADA NO RECURSO. PREFACIAL ACOLHIDA EM PARTE. PEDIDO DE IMISSÃO DE POSSE LASTREADO NO ART. 1.228 DO CÓDIGO CIVIL. REQUISITOS PREENCHIDOS NA ESPÉCIE. TERRENO ADQUIRIDO PELO AUTOR. REGISTRO DA ESCRITURA PÚBLICA NO CARTÓRIO COMPETENTE. ANTERIOR ALIENAÇÃO AO DEMANDADO, POR MEIO DE CONTRATO PARTICULAR DE COMPROMISSO DE COMPRA E VENDA, SEM A DEVIDA AVERBAÇÃO DA TRANSAÇÃO NA MATRÍCULA DO IMÓVEL. VENDA EM DUPLICIDADE. PROPRIEDADE DE BEM IMÓVEL QUE SEPERFECTIBILIZA APÓS O REGISTRO DO TÍTULO TRANSLATIVO. EXEGESE DOS ARTS. 1.227 E 1.245 DO CÓDIGO CIVIL. PROPRIEDADE GARANTIDA AO DEMANDANTE, EM FACE DOREGISTRO DA ESCRITURA DE COMPRA E VENDA NO ÁLBUMIMOBILIÁRIO. INSTRUMENTO PARTICULAR CELEBRADO ENTRE ORÉU E O VENDEDOR QUE NÃO PODE SE SOBREPOR AO DIREITO REAL. POSSUIDOR DIRETO DO IMÓVEL QUE NÃO DETÉM O TÍTULO DOMINIAL. USUCAPIÃO SUSCITADA EM DEFESA INACOLHIDA. AUSÊNCIA DE POSSE MANSA E PACÍFICA. RÉU CITADO EM AÇÃO DE DESPEJO. POSSE INJUSTA CONFIGURADA. PERDAS E DANOSFIXADAS NA FORMA DE ALUGUEL. POSSIBILIDADE. PRECEDENTES. SENTENÇA MANTIDA.
+RECLAMO CONHECIDO EM PARTE E DESPROVIDO.
+Irresignado, ALCIONEI REZIN VICENTEinterpôsrecurso especial com base no art. 105, III,a ec, da CF, apontando a violação doart. 1.238 do CC, ao argumento de que tem direito aadquirir a propriedade do imóvel objeto do litígio por usucapião, tendo em vista que decorrido tempo de posse suficiente para tanto. Com relação à sua citação na ação de despejointerromper a prescrição aquisitiva, aduz que ela teria apenas cunho pessoal e não possessória, considerando que a referida ação visava apenas o recebimento de alugueis atrasados, não a imissão na posse do bem.
+O recurso não foi admitido pelo Tribunal de Justiça de Santa Catarina, por incidir, no caso, o teor da Súmula 7do STJ(e-STJ, fls. 1.106/1.107).
+Nas razões do presente agravo, ALCIONEI REZIN VICENTErefutaoreferidoóbicede prelibação (e-STJ, fls. 1.116/1.129).
+Foiapresentada contraminuta (e-STJ, fls. 1.133/1.139).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial.
+Da prescrição aquisitiva
+ALCIONEI REZIN VICENTE afirmou a violação doart. 1.238 do CC, ao argumento de que tem direito aadquirir a propriedade do imóvel objeto do litígio por usucapião, tendo em vista que decorrido tempo de posse suficiente para tanto. Com relação à sua citação na ação de despejo interromper a prescrição aquisitiva, aduz que ela teria apenas cunho pessoal e não possessória, considerando que a referida ação visavaapenas o recebimento de alugueis atrasados, não a imissão na posse do bem.
+Sobre o tema proposto, concluiu o TJSC que:
+Com relação à usucapião suscitada em defesa, também não merece amparo a alegação de que "a Ação de Despejo promovida pelo apelado em face do apelante não possuiu o condão de macular a qualidade da posse exercida por este último, na medida em que o seu objeto recaiu exclusivamente na cobrança de aluguéis decorrentes de um suposto contrato de locação verbal, ou seja, exclusivamente com base no direito contratual de cunho eminentemente obrigacional e, portanto, não possessório, cujo pedido foi julgado improcedente por absoluta ausência de provas".
+Isso porque, não obstante à improcedência do pedido de despejo e da natureza obrigacional de um suposto contrato de locação, o fato é que o autor manifestou, naquela demanda (ainda que equivocada), sua intenção de tomar a posse sobre o bem adquirido.
+O exercício da posse pelo requerido, portanto, deixou de ser mansa e pacífica a partir da sua citação na ação de despejo (11-12-2002 - informação 4, fl. 17),não havendo falar em prescrição aquisitiva (e-STJ Fl.1037).
+Assim, rever as conclusões do acórdão recorrido quanto à hipótese de prescrição aquisitiva alegada, bem como a interrupção ocorrida, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO NCPC. NÃO CONFIGURADA. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7/STJ. AGRAVO INTERNO NÃO PROVIDO. MANUTENÇÃO DA SENTENÇA RECORRIDA.
+(..)
+2. Na hipótese dos autos, o Tribunal estadual, com base nos elementos fáticos-probatórios constantes dos autos, concluiu que o recorrido apresentou título idôneo, apto a comprovar a propriedade do bem, bem como consignou não estarem presentes os requisitos necessários à configuração da usucapião em favor dos recorrentes.
+Alterar tais conclusões demandaria o reexame de fatos e provas, inviável em recurso especial, a teor do disposto na Súmula nº 7/STJ.
+(..)
+4. Agravo interno negado provimento.
+(AgInt no AREsp n. 1.862.247/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+Por tais razões, o recurso não merece que dele se conheça.
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor do recorrido, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE IMISSÃO DE POSSE. AQUISIÇÃO DA PROPRIEDADE POR USUCAPIÃO. AFASTAMENTO. AÇÃO DE DESPEJO. INTERRUPÇÃO DA PRESCRIÇÃO AQUISITIVA. ARGUMENTO EM CONTRÁRIO. ACATAMENTO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. VEDAÇÃO. SÚMULA 7 DO STJ.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
