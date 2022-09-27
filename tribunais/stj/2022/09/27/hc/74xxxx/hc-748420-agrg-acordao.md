@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto por RAFAELA NOGUEIRA DOS SANTOS contra a decisão de fls. 31-34que não conheceu do habeas corpus, apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2084446-33.2022.8.26.0000).
+A agravanteteve a prisão em flagrante convertida em preventiva a pedido do MinistérioPúblico pela suposta prática do delito descrito no art. 33,caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na quantidade e variedade dos entorpecentes apreendidos -99 porções de crack, pesando aproximadamente 20g;212 porções de cocaína, pesando 217,99g;e 2 porçõesde maconha, pesando 2,96g -, bem comona ausência de vínculo com o distrito da culpa, aspectos que justificariama segregação cautelar para a garantia da ordem pública e da conveniência da instrução criminal.
+Neste recurso, a agravante reafirma as teses lançadas na inicialno sentido de que não há fundamentação idônea para a manutenção da prisão cautelar, bem como que estão ausentes os requisitos ensejadores da prisão preventiva.
+Sustenta que suas condições pessoais lhe são favoráveis.
+Pondera que as medidas cautelares diversas da prisão são suficientes ao caso.
+Requer a reconsideração da decisão ou a submissão do recurso a julgamento para que seja provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. RECURSO DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas.
+3.Eventuais condições subjetivas favoráveis do agente, como residência fixa e trabalho licito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ.
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo(fls. 12-14, destaquei):
+É dos autos que a Paciente foi presa em flagrante, em 12/04/2022, porquanto, após denúnciaanônima recebida por telefone, policias civis teriam a observado, no local indicado, realizando atosde tráfico e encontrado com ela. assim como acerca de dez metros de distâncias dela. ao todo, 99porções de crack (com aproximadamente 20 gramas), 212 porções de cocaína(217,99 gramas),2porções de maconha (2,96 granias)(f1s. 07/40), tendo, então, a prisão sido convertido empreventiva, pelo que estaria a Paciente sofrendo constrangimento ilegal.
+Contudo, na análise dos autos, ao contrário do que afirma a impetrante, verifica-se que adecisão da autoridade apontada como coatora (fls.72"75) foi bem fundamentada, visto que ressaltou apresença de prova da materialidade e indícios de autoria, assim como a gravidade concreta dodelito, diante da grande quantidade e da variedade de drogas apreendidas, a demonstrarelevado potencial de atingir inúmeras pessoas e. com isso. causar grande prejuízo à saúdepública.
+ ..
+Não fosse isso, eventual soltura da Paciente, neste momento processual, quando ainda não foinem mesmo citada, pode prejudicar a instrução criminal e frustrar eventual aplicação da lei penal,pois informou a autoridade policial que é solteira e está desempregada (fls.08), bem como nãocomprovou residência fixa, nada a prendendo, pois, ao distrito da culpa e, por isso, acaso emliberdade, poderá tomar rumo incerto e indeterminado.
+E,estando os autos ainda em sua fase inicial, não é possível estimar os limites mínimos emáximos da futura reprimenda a ser imposta, para saber se a Paciente terá direito a benefícios legais,tal como aplicação de regime prisional diverso do fechado, pois. para tanto, c necessária umaanálise minuciosa do conjunto probatório, com a verificação de requisitos e critérios objetivos esubjetivos previstos na legislação penal, impossível de ser feita nos limites estreitos do habeascorpus.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+A exigência acima, em princípio, foi cumprida no acórdão impugnado, motivo pelo qual não há razão para o acolhimento dos pedidos.
+Observa-se que a quantidade e variedade dos entorpecentes apreendidos - 99 porções decrack, pesando aproximadamente 20g, 212 porções de cocaína, pesando 2I7,99g, e 2 porções demaconha, pesando 2,96g - bem comoa ausência de vínculo com o distrito da culpa foram consideradas peloJuízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está cm consonância com a jurisprudência da Quinta Turma de que aquantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação daprisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas,Quinta Turma,DJe de30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca,QuintaTurma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta docrime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressivaquantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia daordem pública" (HC n. 130.708/SP,relatora Ministra Cármen Lúcia,Segunda Turma,DJe de 6/4/2016).
+Assim, ao contrário das razões defendidas pela defesa, a prisão preventiva daagravante encontra-se devidamente fundamentada, porquanto decorre dos elementos colacionados aosautos e de circunstâncias que foram bem explicitadas pelo Juízo deprimeiro grau, de modo que não háfalar em violação ao disposto no art. 315, caput, do CPP.
+Por fim, eventuais condições subjetivas favoráveis da agravante, como residência fixa etrabalho licito, não impedem a prisão preventiva quando preenchidos os requisitos legais para suadecretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintesprecedentes: AgRg no HC n. 585.57l/GO,relator Ministro Joel Ilan Paciornik,Quinta Turma,DJe de8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Inviáveis, portanto, as teses recursais suscitadas.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
