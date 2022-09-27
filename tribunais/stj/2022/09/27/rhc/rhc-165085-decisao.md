@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpuscom pedido liminar interposto por YURI FABRICIO OLIVEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Habeas Corpusn. 1.0000.22.069584-5/000).
+Os autos dão conta de que o ora recorrente foi preso em flagrante pela suposta prática do crime previsto no art. 157, § 2º, II, do Código Penal.
+Após a realização da audiência de custódia, o Juízo da Vara Central de Recepção de Flagrantes da Comarca de Belo Horizonte/MG converteu a prisão em flagrante em preventiva (e-STJ fls. 139/145).
+Irresignada, a defesa impetrouhabeas corpusno Tribunal de origem, que denegou a ordem, nos termos do acórdão assim ementado (e-STJ fl. 171):
+EMENTA: HABEAS CORPUS - ROUBO - ARMA BRANCA - ART. 157, § 2º, INCISO II DO CÓDIGO PENAL - PRIMÁRIO - GRAVIDADECONCRETA DO CRIME - PRISÃO PREVENTIVA - DECISÃO FUNDAMENTADA - PRESENTES OS REQUISITOS DOS ART. 312 E 313 DO CPP - INSUFICIÊNCIA DE OUTRAS MEDIDAS CAUTELARES NÃO PRISIONAIS - ART. 319, CPP - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - ORDEM DENEGADA.
+-Evidenciado elementos aptos a demonstrar o fumus comissi delicti e o periculum libertatis, a segregação preventiva mostra-se necessária, mormente para garantia da ordem pública.
+-Embora o paciente seja primário, vê-se que os fatos imputados a ele são graves, tratando-se de crime praticado com arma branca mediante grave ameaça, com restrição da vítima, e em concurso de pessoas, evidenciando, assim, sua periculosidade e risco social.
+-De acordo com posicionamento firmado pelo STJ, "as condições subjetivas favoráveis do recorrente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva".
+-Ordem denegada.
+Nas razões do presente recurso, a Defensoria Pública do Estado de Minas Gerais alega que a prisão preventiva foi decretada de ofício, destacando que, no caso dos autos,o membro do Ministério Público manifestou-se pela concessão da liberdade provisória, de forma que "a decisão que decretou a prisão preventiva de ofício, é NULA por infringir diretamente os princípios da imparcialidade e da legalidade (arts. 282, §2º e 311/CPP) e, igualmente, o art. 129, I, da Constituição da República, de modo que a liberdade do recorrente deve ser restabelecida"(e-STJ fl. 203).
+Sustenta que, "no caso dos autos, verifica-se que decisão que converteu a prisão em flagrante em prisão preventiva, não foi devidamente fundamentada, vez que somente fez referência à necessidade da garantia da ordem pública, de forma genérica, sem, contudo, especificar a aplicação de tal argumento no caso concreto, afrontando o §1º do art. 315 do CPP"(e-STJ fl. 204).
+Alega que, "ausentes os requisitos legais previstos no art. 312 do CPP, revela-se inadequada a segregação cautelar do Recorrente, razão pela qual deve ser reformada a decisão impugnada"(e-STJ fl. 205).
+Assevera que, "na decisão que converteu a prisão em flagrante e no acórdão combatido, foi utilizado o fundamento de que a prisão preventiva era a medida adequada para garantia da ordem pública.Ocorre que o Recorrente é primário, ou seja, não possui em seu desfavor sentença condenatória transitada em julgado. .. Sendo assim, tendo em vista que o recorrente é primário, não há que se falar em propensão à prática delitiva como justificativa à manutenção da segregação cautelar"(e-STJ fl. 205).
+Por isso, requer, liminarmente, a permissão para que o recorrente responda em liberdade a eventual ação penal e, no mérito, "a concessão da ordem, para revogar o decreto de prisão cautelar, para permitir que o recorrente se defenda solto até o trânsito em julgado de eventual sentença condenatória, com a substituição da prisão preventiva por medidas cautelares diversas, nos termos do art. 319 do CPP"(e-STJ fl. 207).
+Liminar indeferida.
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso, em parecer assim ementado (e-STJ fl. 1074):
+RECURSO EM HABEAS CORPUS. PROCESSO PENAL. CRIME DE ROUBO MAJORADO (ARTIGO 157, §2º,II, DO CÓDIGO PENAL). PRISÃO PREVENTIVA. PRETENSÃO DE REVOGAÇÃO. DESCABIMENTO. SENTENÇA CONDENATÓRIA PROLATADA EM 10/08/2022. RÉU CONDENADO ÀS PENAS DE 05(CINCO) ANOS, 04 (QUATRO) MESES DE RECLUSÃO E MULTA DE 13 (TREZE) DIAS-MULTA. FIXAÇÃO DE REGIME SEMIABERTO. PERDA DE OBJETO ANTE A SUPERVENIÊNCIA DE NOVO TÍTULO JUDICIAL. NECESSIDADE DE COMPATIBILIZAÇÃO DA CUSTÓDIA CAUTELAR COM O REGIME FIXADO NA SENTENÇA. PARECER NO SENTIDO DE QUE SE JULGUE PREJUDICADO O PRESENTE RECURSO EM HABEAS CORPUS, COM RECOMENDAÇÃO DE COMPATIBILIZAÇÃO DA CUSTÓDIA CAUTELAR COM O REGIME APLICADO NA SENTENÇA.
+Éo relatório.
+Decido.
+O presente recurso está prejudicado.
+Isso, porque, consoante informações prestadas pela instância ordinária (e-STJ fl. 1.066), sobreveio a prolação de sentença condenatória. Na ocasião, o Magistrado de piso negou a possibilidade de recurso em liberdade.
+Logo, fica sem objeto este pleito, em razão da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+A propósito:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE MANTENHA A CUSTÓDIA CAUTELAR. NOVO TÍTULO. PREJUDICIALIDADE DO RECURSO EM HABEAS CORPUS. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cediço que não cabe a interposição de embargos de declaração contra decisão monocrática que julga prejudicado recurso, mas, em consonância ao
+princípio da fungibilidade recursal, há que se receber esta irresignação como agravo regimental.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no RHC n. 78.448/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/3/2017, DJe 23/3/2017.)
+Assim, patente que o presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Por fim, observa-se da sentença (e-STJ fl. 1064)que o juízo processante não procedeu à devida compatibilização do início do cumprimento da pena ao regime prisional fixado na sentença, qual seja, o semiaberto, motivo pelo qual deve ser compatibilizada a prisão cautelar com o modo de execução determinado no decreto condenatório.
+Diante do exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso.De ofício, dou provimento ao recurso apenas para determinar a compatibilização da custódia com o regime prisional fixado na sentença condenatória, qual seja, osemiaberto.
+Publique-se. Intimem-se.
