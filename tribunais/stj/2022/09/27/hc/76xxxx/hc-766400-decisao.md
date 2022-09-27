@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de MARIO LUCIO VIEIRA DA FONSECA, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.22.187544-6/000).
+O paciente foi condenado às penas de 6 anos e 8 meses de reclusão em regime semiaberto e de 35 dias-multa, pela prática do crime descrito no art. 157, § 2º, I e II, do Código Penal. A sentença decretou a prisão preventiva.
+Impetrado writ originário, a ordem foi parcialmente provida para recomendar a fixação de medidas alternativas.
+Nas razões do presente writ, a defesa aponta a existência de constrangimento ilegal em razão da ausência de fundamentação no decreto da prisão preventiva e da ausência de dados concretos que justificassem a imposição de medidas cautelares no acórdão recorrido.
+Aduz que, após 8 anos em que o paciente respondeao processo sem medidas cautelares, não se justifica a prisão para depois a aplicação das medidas alternativas.
+Requer, liminarmente e no mérito, a soltura do pacientesem medidas cautelares.
+O pedido de liminar foi indeferido às fls. 113-114.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus (fls. 175-179).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+No caso, o Tribunal de Justiça substituiu a prisão preventiva por medidas cautelares alternativas. A propósito, assim se manifestou o Tribunal a quo (fls. 12-15):
+De acordo com o disposto no art. 387, §1º, do CPP, o Juiz, ao proferir a sentença, tem o dever de decidir fundamentadamente sobre a manutenção, revogação, ou substituição da prisão preventiva por outras medidas cautelares,  ..
+ ..
+No caso em comento, o d. Magistrado "a quo" deixou de motivar de forma concreta o porquê da prisão do paciente, manifestando-se da seguinte forma:
+"(..) Diante da sentença de fl. 189/203 em que condenou o réu em 06 ANOS E 08 MESES DE RECLUSÃO e 35 DIAS-MULTA, em regime SEMIABERTO, determino a expedição de mandado de prisão com prazo de validade até 11/08/2036" (anexo n.º 14).
+Percebe-se do conteúdo da aludida decisão que a dita Autoridade Coatora fundamentou o decreto da prisão apontando unicamente o fato de o paciente ter sido condenado.
+Como cediço, a sentença condenatória prolatada em Primeira Instância, não transitada em julgado, não possui o condão de, por si só, conduzir o sentenciado ao cárcere. Faz-se mister a comprovação do risco que a soltura do paciente trará.
+Com efeito, embora tenha sido aplicada pena privativa de liberdade superior a quatro anos em crime doloso, o que preenche o requisito objetivo do cárcere cautelar (CPP, art. 313), não há elementos de modo a evidenciar de forma efetiva o periculum libertatisque justifique a decretação da medida extrema.
+Isso porque, conforme a FAC (anexo n.º 11), o paciente respondeu ao processo em liberdade, dado que não houve prisão à época dos fatos, tampouco durante a persecução criminal. A propósito, o Inquérito Policial foi instaurado por Portaria (anexo n.º 03), sendo que, desde a ocorrência do crime, em janeiro de 2014 (anexo n.º 02), até a prolação da sentença (anexo n.º 13), transcorreu lapso superior a 08 (oito) anos, sem a ocorrência de fato novo que proporcionasse a decretação do cárcere (embora tenham ocorrido outros delitos alheios ao caso em comento - CAC, anexo n.º 10).
+Não obstante, saliento que não me passa despercebido a natureza do crime imputado (roubo majorado) e, tampouco, o histórico criminal do paciente. Todavia, em que pesem tais circunstâncias, o fato criminoso deu-se em data longínqua, vez que ocorrido há mais de oito anos, além de não ter ensejado a prisão cautelar do paciente durante a persecução criminal.
+Convém destacar que não incumbe a este Tribunal de Justiça, em sede de Habeas Corpus, a tarefa de adequar ou aditar as decisões proferidas em Primeira Instância, senão a função de averiguar a estrita legalidade das mesmas. Em assim sendo, é de se lamentar o fato de a decisão proferida pelo d. Juízo a quo não fazer menção a elementos concretos para a prisão do paciente. Bem por isso, imperiosa se faz a concessão da ordem.
+ ..
+Lado outro, dada a natureza grave da infração e, com escopo no art. 282, §6º, do Código de Processo Penal, recomenda-se a fixação, pelo d. Magistrado a quo, de medidas cautelares diversas da prisão, previstas no art. 319 do CPP.
+Quanto à guia de execução expedida pelo Juízo na sentença, embora possível o cumprimento provisório de pena, ainda que pendente recurso de apelação (súmula nº 716 do STF), no caso em tela, como já dito, foi assegurado ao paciente o direito de recorrer em liberdade, uma vez que ausentes os requisitos previstos no artigo 312 do CPP. Logo, a expedição de guia de execução provisória referente ao processo configura nítido constrangimento ilegal.
+No caso, estão justificadas as medidas alternativas, pois, não obstante a ausência de fundamentação para o decretodeprisão preventiva, ficou demonstrado o risco de reiteração delitivaem razão do histórico criminal do paciente, que registra outros delitos alheios ao caso em comento, não sendo recomendável o afastamentodas medidas cautelares.
+Sendo apresentada fundamentação concreta para a substituição da custódia preventiva por medidas cautelares diversas da prisão,sua manutenção é medida que se impõe.
+Por fim, afastar as conclusões das instâncias ordinárias, soberanas nas análises dos fatos e provas, a fim de acolher a tese da defesademandaria inevitável dilação probatória, providência inviável na via estreita do habeas corpus (AgRg no AREsp n. 2.104.748/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 16/8/2022).
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
