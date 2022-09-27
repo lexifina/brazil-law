@@ -1,0 +1,23 @@
+DECISÃO
+ANGELA CRISTIANE MACHADOalega sofrer constrangimento ilegal pelo Tribunal de Justiça do Estado de Santa Catarina(Habeas Corpus n. 5039999-94.2021.8.24.0000).
+Sustenta a defesa, em síntese, que "a denúncia formulada omite ou deixa de indicar diversas informações e circunstâncias que são relevantes, pois apesar de se ter formulado acusação envolvendo o crime nenhum momento o parquetnarra sequer a paciente conversando com os outros réus para combinar lugar ou algo parecido ou até mesmo sobre valores dos referidos documentos e placas usados para clonagem dos carros" (fl. 5).
+Afirma, ainda, que "inexiste interesse de agir, e por consequência, carece de justa causa a presente ação, ao menos no que tange àdenúncia pelo suposto delito de organização criminosa, pois após longa investigação na esfera da polícia judiciária, a própria autoridade policial não conseguiu uma só conversa entre os acusados e a paciente" (fl. 7).
+Requer, ao final, a concessão do habeas corpus, para determinar o trancamento do processo.
+OMinistério Público Federal opinou pelo não conhecimento dowritou, caso conhecido, pela denegação da ordem(fls. 134-136).
+Decido.
+A jurisprudência desta Corte Superior é firme em assinalar que a denúncia não é inepta quando descreve, satisfatoriamente, a conduta imputada e o fato delituoso com suas circunstâncias, o que permite ao acusado o exercício do seu direito à ampla defesa.
+Ilustrativamente:
+ i nexiste o alegado defeito da peça acusatória, na medida em que atende aos requisitos legais do art. 41 do Código de Processo Penal, pois descreve, com todos os elementos indispensáveis, a existência de crime em tese, bem como a respectiva autoria, de forma suficiente para a deflagração da ação penal, bem como para o pleno exercício do direito de defesa do Acusado
+(AgRg nos EDcl no AREsp n. 324.067/DF, Rel. Ministra Laurita Vaz, 5ª T., DJe 30/4/2014).
+Ademais, consoante a jurisprudência deste Tribunal Superior, " o  trancamento do processo em habeas corpus somente é cabível quando ficarem demonstradas, de plano, a atipicidade da conduta, a absoluta falta de provas da materialidade do crime e de indícios de autoria ou a existência de causa extintiva da punibilidade" (RHC n. 80.144/ES, Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/10/2017).
+No caso dos autos, o Tribunal a quo consignou a seguinte conclusão a respeito da denúncia, se não vejamos (fls. 39-40, grifei):
+Extrai-se dos autos na origem que a paciente foi denunciada por, em tese, integrar organização criminosa, que tem por objetivo a prática de diversos crimes graves,em especial, o tráfico de drogas. Segundo o órgão ministerial, Ângela teria a função de fornecer placas clonadas e documentos falsos para os veículos roubados pelo grupo, a saber:
+A denunciada Ângela Cristiane Machado, vulgo "Baixinha", promove e integra a organização criminosa liderada por Aldonei Paim, sendo a principal responsável por fornecer as placas clonadas e documentos falsos para os veículos roubados pela organização criminosa. No decorrer da investigação, foi presa pela equipe de furtos e roubos de veículos da DEIC por envolvimento em um esquema de adulteração de veículo e documentos. (Evento 483, p. 939, 952, 963, 1011. Relatório de Investigação 008/2019, evento 15. Relatório de Investigação 011/2019, Evento 33). (ev. 1 dos atos na origem, p. 19)
+Com efeito, verifica-se que a inicial é objetiva, restando evidentes os fundamentos pelos quais a paciente foi denunciada, fornecendo-lhe elementos aptos a permitir o pleno exercício da ampla defesa e do contraditório, como inclusive assim procedeu, por ocasião da resposta à acusação. (ev. 187 dos autos na origem).
+Ademais, importante registrar que nos crimes de autoria coletiva, como no caso vertente, não é necessário que a denúncia descreva minuciosamente a conduta de cada um dos acusados, bastando que demonstre um liame entre o agir dos agentes e a suposta prática delituosa imputada aos mesmos, estabelecendo a plausibilidade da narração fática.
+Destaque-se que o liame subjetivo da paciente com o grupo criminoso será objeto da instrução processual, não cabendo a esta Corte, na atual conjuntura e pela via eleita, a apreciação dessa questão.
+ .. .
+É de se concluir, portanto, que a inicial acusatória preenche os requisitos do art. 41 do Código de Processo Penal, inexistindo qualquer constrangimento ilegal a ser sanado neste writ.
+Assim, ao menos para os limites de cognição possíveis nesta via estreita e para o standard probatório exigido para a etapa de oferecimento da denúncia, está preenchida a justa causa para o exercício da ação penal.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
