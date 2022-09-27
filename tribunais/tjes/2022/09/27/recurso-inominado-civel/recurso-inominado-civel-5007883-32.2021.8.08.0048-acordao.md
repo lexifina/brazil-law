@@ -1,0 +1,38 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5007883-32.2021.8.08.0048
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: SIMONI ADRIANA DE FREITAS
+RECORRIDO: BANCO TOYOTA DO BRASIL S.A.
+RELATOR(A
+):LEONARDO MANNARINO TEIXEIRA LOPES
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+RECURSO INOMINADO Nº 5007883-32.2021.8.08.0048
+
+RECTE.: SIMONI ADRIANA DE FREITAS
+
+RECDO.: BANCO TOYOTA DO BRASIL S/A
+
+RELATOR: O SR. JUIZ DE DIREITO LEONARDO MANNARINO TEIXEIRA LOPES
+
+JUIZ SENTENCIANTE: DR. DEJAIRO XAVIER CORDEIRO
+
+EMENTA. RECURSO INOMINADO. DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. CELEBRAÇÃO DE CONTRATO DE FINANCIAMENTO. COBRANÇA TARIFAS. RECONHECIMENTO DA ABUSIVIDADE DA COBRANÇA DA TARIFA DE REGISTRO. DANOS MORAIS AFASTADOS. SENTENÇA PARCIALMENTE REFORMADA. 1. Tese da parte autora: A parte autora ajuizou Ação Ordinária informando ter pactuado a CDC nº 2052406/20 junto ao requerido, sendo cobrada, de forma ilegal, seguro, tarifa de registro do bem, tarifa de cadastro e IOF. Alega, ainda, a necessidade de revisão dos juros remuneratórios fixados em contrato. Requer, assim, a devolução em dobro dos valores, além de danos morais. Em sede recursal, busca pela reforma in totum da sentença. 2. Tese da parte requerida: Informa que a cobrança das tarifas é válida, não havendo qualquer ilegalidade. Apresentou contrarrazões no id. 13009278. 3. Sentença: “Posto isso, JULGO IMPROCEDENTE a pretensão autoral pelas razões já explicitadas acima, e via de consequência, dou por extinto o processo com resolução do mérito, nos termos do artigo 487, inciso I do Código de Processo Civil”. 4. Fundamentação: Conheço do recurso interposto, eis que preenchidos os requisitos de admissibilidade, recebendo-o, apenas, em seu efeito devolutivo. Concedo à recorrente os benefícios da assistência judiciária gratuita, por ser verossímil sua alegação, diante dos custos discutidos no processo. A relação jurídica de direito material vertida nos autos é nitidamente de consumo, nos termos dos artigos 2º e 3º do Código de Defesa do Consumidor. Analisando os argumentos apresentados em sede recursal conjuntamente ao acervo fático-probatório dos autos, entendo ser o caso de reforma parcial da sentença. No tocante à tarifa de cadastro deve ser reputada legal, afastando a sua restituição. Isso porque sequer supera o valor médio estipulado pelo mercado, o qual não pode ser utilizado como teto para fixação dos valores, sob pena de violar a autonomia privada e o livre mercado. Embora válida sua utilização como parâmetro de comparação para averiguação de abusividade em concreto, não entendo que esta tenha ocorrido, dado que o valor médio, conforme pesquisa no sítio eletrônico https://www.bcb.gov.br/fis/tarifas/htms/tarifdwl.asp?frame=1 foi de R$ 582,67 (quinhentos e oitenta e dois reais e sessenta e sete centavos) e o efetivamente cobrado foi de R$ 500,00 (quinhentos reais). Não havendo sequer chegado à média praticada no mercado, correta a sentença que afastou o pedido de restituição. No que se refere ao registro do contrato, seja no gravame do DETRAN ou no eletrônico, tal tarifa não pode ser mantida. Aponte-se que a mera juntada de análise superficial não se prestaria a comprovar serviço prestado, posto que não indica e explica o serviço em favor do consumidor, ao contrário se tratando de restrição em benefício e garantia da instituição, devendo, no mínimo, ser demonstrado pela instituição financeira o gasto suportado para justificar a referida tarifa, e, portanto, impassível de transferência ao consumidor independente de contraprestação. Por sua vez, quanto ao seguro, analisando o contrato, verifico que o mesmo fora celebrado em apartado (id. 9869875), diferente da contratação do financiamento originário, não podendo ser reputado como venda casada. Dessa forma, como consta do contrato a ciência do consumidor de todos os seus termos, tendo este assinado o ajuste, deve ser reputado como legal, na ausência de outros elementos de prova de que a vontade do consumidor estava viciada quando concordou com os seus termos. No que se refere ao IOF (Imposto Sobre Operações Financeiras), trata-se de um imposto previsto no art. 153, V, da CF/88. Vale registrar que os bancos não tem a faculdade de cobrá-lo, mas sim a obrigação de assim proceder, sob pena de receber penalidades. O consumidor, por sua vez, tem a opção de pagá-lo com recursos próprios ou inclui-lo no financiamento, o que é bastante comum, por estar descapitalizado. No caso, a instituição ré apenas procedeu sua cobrança para posterior recolhimento ao erário, não havendo, assim, qualquer ilegalidade. Assim, a única tarifa declarada ilegal (registro do contrato) deve ser restituída à autora na forma dobrada, pois o banco busca enriquecer ilicitamente em desfavor do consumidor, ao estabelecer, em contrato unilateral, taxas que apesar de ilícitas, apresentam valores abusivos. O fato de ser uma pessoa jurídica dá uma aparência de impessoalidade à negociação, mascarando o intuito doloso do enriquecimento ilícito do agente financeiro, o que não deve ser admitido, impondo-se a devolução dos valores em dobro. Quanto ao questionamento acerca dos juros, o fato da instituição financeira informar ao Banco Central um percentual e contratar outro não configura abusividade, devendo prevalecer o estipulado entre as partes, haja vista que o contrato tem força de lei. Somente com a demonstração em concreto da abusividade dos juros contratados é que passível a sua revisão, o que inocorre no caso em comento. Por fim, no que tange aos danos morais, entendo que não deve haver reforma, eis que não resta configurado. Ainda que se fale na função pedagógica, é necessário se analisar a extensão do dano causado na seara extrapatrimonial do indivíduo, de forma a não incorrer em enriquecimento ilícito. No presente caso, não verifico qualquer abalo psicológico que tenha transcendido o mero aborrecimento cotidiano, posto que o consumidor não vivenciou qualquer situação humilhante, vexatória, ou que de qualquer forma possa abalar sua autoestima e honra. Trata-se de mero pagamento indevido, sem comprovação de constrição patrimonial significante para o consumidor, que pode ser adequadamente compensável pela restituição de valores, não havendo repercussão social irreparável que atraia a função pedagógico-punitiva, que deve ser considerada com extrema parcimônia para não alimentar a chamada “indústria do dano moral”. Ainda mais considerando o objeto do ajuste, onde o consumidor está adquirindo um veículo com o financiamento, e, por mais que existam vicissitudes contratuais, estas não superam a alegria com a aquisição de um bem de elevado valor econômico e de grande utilidade como meio de transporte. Assim, afasto tal pedido. 5. Dispositivo: Ante o exposto, CONHEÇO DO RECURSO interposto pela requerida e DOU-LHE PROVIMENTO PARCIAL, condenando o requerido a promover a restituição, em dobro, do valor cobrado a título de tarifa de registro, atualizado com juros de mora a contar da citação e correção monetária do efetivo desembolso. Quanto ao mais, mantenho a sentença intocada. Sem custas e honorários, face ao provimento parcial do recurso. É como voto.
+
+LEONARDO MANNARINO TEIXEIRA LOPES
+
+Relator
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
