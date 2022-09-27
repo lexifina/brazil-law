@@ -1,0 +1,91 @@
+HABEAS CORPUS. EXECUÇÃO PENAL. CRIME DOLOSO COMETIDO NO CURSO DA EXECUÇÃO PENAL. DATA-BASE PARA CONCESSÃO DE FUTUROS BENEFÍCIOS. FALTA GRAVE COMPROVADA EM PROCESSO CRIMINAL NO QUAL SE ASSEGUROU O DEVIDO PROCESSO LEGAL. TEMAS 758 E 941 DA REPERCUSSÃO GERAL. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA.
+
+- Seguimento negado, com esteio no artigo 21, § 1º, do RISTF.
+
+    Decisão: Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça no recurso especial nº 1.984.418 ementado nos seguintes termos:
+
+    AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. HOMOLOGAÇÃO DE FALTA GRAVE. PRÁTICA DE NOVO CRIME. CONDENAÇÃO. INEXISTÊNCIA DE PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. RE 972.598/RS. REPERCUSSÃO GERAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO. 1. A Corte Constitucional, no julgamento do RE n. 972.598 RG/RS, sob a sistemática da repercussão geral, firmou o entendimento de que a oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena (Tema 941/STF). 2. No caso em análise, o agravante cometeu falta de natureza grave, consubstanciada na prática de novo crime, tendo sido condenado em ação penal, não havendo, assim, necessidade de instauração de PAD.3. Nos termos da Súmula n. 526/STJ, o reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato (Terceira Seção, julgado em 13/5/2015, DJe 18/5/2015). 4. Agravo regimental não provido.
+
+    Colhe-se dos autos que, no curso da execução penal do Paciente - condenação de 44 (quarenta e quatro) anos, 01 (um) mês e 09 (nove) dias de reclusão, pela prática de crimes de roubo circunstanciado, organização criminosa, furto qualificado, porte ilegal de arma de fogo e receptação -, o magistrado de primeiro grau - considerando a prática de falta disciplinar de natureza grave definido como crime doloso no cumprimento da pena homologou o cálculo para para fins de benefícios executórios considerando como data-base o momento da última prisão em flagrante.
+
+    Em sede recursal perante a corte de origem, a defesa não logrou êxito.
+
+    O recurso especial interposto foi julgado segundo a ementa supratranscrita.
+
+    No presente writ, a defesa se insurge contra a mudança do termo inicial para a concessão de benefícios executórios dado o cometimento de falta grave no curso na execução penal. Pontua “que o cálculo foi elaborado de forma equivocada” e “que a data base que deve ser considerada para fins de progressão ao regime semiaberto é 09/09/2015 e não a data da prisão em flagrante do novo PEC”. Ressalta que “o paciente não teve contra si tal imputação e, mesmo se nesta feita houvesse o processamento da mencionada falta, a prescrição da pretensão punitiva estatal restaria alcançada”. Requer a concessão da ordem de habeas corpus, para cassação do constrangimento ilegal apontado.
+
+    A Procuradoria-Geral da República se manifestou pela denegação da ordem nos seguintes termos:
+
+    “Execução Penal. Data base para progressão de regime. Falta grave. Insurgência contra a homologação do cálculo para progressão de regime. Agravo em execução não provido. Recurso especial não provido. Agravo Regimental não provido. Fundamento adotado pela Corte de Origem que está em consonância com a orientação jurisprudencial do STF: “o reconhecimento de falta grave consistente na prática de fato definido como crime doloso no curso da execução penal dispensa o trânsito em julgado da condenação criminal no juízo do conhecimento, desde que a apuração do ilícito disciplinar ocorra com observância do devido processo legal, do contraditório e da ampla defesa, podendo a instrução em sede executiva ser suprida por sentença criminal condenatória que verse sobre a materialidade, a autoria e as circunstâncias do crime correspondente à falta grave”. Sobrevindo nova condenação no curso da execução, deverá o Juízo da execução realizar a unificação das penas impostas ao sentenciado e fixar nova data base. Constrangimento ilegal não verificado com a fixação da data da última prisão. Entendimento do STF: “a data do trânsito em julgado da nova condenação é o termo inicial de contagem para concessão de benefícios, que passa a ser calculado a partir do somatório das penas que restam a ser cumpridas”. Parecer pela denegação da ordem.”
+
+    É o relatório, DECIDO.
+
+    In casu, inexiste situação que permita a concessão da ordem de ofício ante a ausência de teratologia na decisão atacada, flagrante ilegalidade ou abuso de poder. Por oportuno, transcrevo a fundamentação da decisão do Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+
+    “Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+
+    Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+
+    No presente caso, o recorrido apresentou Agravo em Execução contra decisão que homologou o cálculo para fins de benefícios utilizando como data-base para nova progressão de regime a data da última prisão em flagrante do sentenciado.
+
+      O Tribunal local manteve o referido entendimento.
+
+    A Corte Constitucional, no julgamento do RE n. 972.598 RG/RS, sob a sistemática da repercussão geral, firmou o entendimento de que a oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena (Tema 941/STF).
+
+    [...]
+
+    Superada a orientação firmada no recurso representativo de controvérsia (Resp 1.378.557/RS), bem como na Súmula n. 533 do STJ.
+
+    No caso em análise, o agravante cometeu falta de natureza grave, consubstanciada na prática de novo crime, tendo sido condenado em ação penal, não havendo, assim, necessidade de instauração de PAD.
+
+    Assim, nos termos da Súmula n. 526/STJ, o reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato (Terceira Seção, julgado em 13/5/2015, DJe 18/5/2015).
+
+    Dessa forma, considerando que o acusado praticou o último crime doloso caracterizador da falta grave em 15/02/2018, esta deve ser a data-base para a concessão de futuros benefícios, como corretamente decidido pelas instâncias ordinárias. Sendo assim, o inconformismo não merece prosperar.
+
+    Com efeito, o decisum objurgado não diverge da orientação sufragada por este Supremo Tribunal Federal no sentido de que o cometimento de crime doloso no curso da execução criminal se consubstancia em falta grave, ex vi do artigo 52 da Lei 7.210/84. Nesse sentido:
+
+    “Agravo regimental em habeas corpus. Alegação de nulidade da homologação da falta grave sem prévia audiência. Inovação de argumentos no agravo regimental. Inadmissibilidade. Precedentes. Execução penal. Porte de drogas para uso próprio (art. 28 da Lei nº 11.343/06). Configuração de falta grave. Regimental não provido.” (HC 139.071-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 05/09/2018)
+
+    Outrossim, cumpre destacar o entendimento no sentido de que a prática de falta grave no curso da execução penal se consubstancia em causa interruptiva da contagem do prazo para o gozo de benefícios concedidos na execução. Nessa linha:
+
+    AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. AGRAVO EM EXECUÇÃO. FIXAÇÃO DA DATA-BASE PARA PROGRESSÃO DE REGIME DE CUMPRIMENTO DA PENA. PRECLUSÃO. NÃO OCORRÊNCIA. 1. Não ocorrência da alegada preclusão da matéria, porquanto, ao modificar a data-base definida em decisões anteriores e conceder a progressão de regime ao reeducando, alterando, assim, o cenário jurídico-processual da execução penal, o Juízo da Execução editou novo título judicial passível de impugnação pelo Ministério Público. 2. A jurisprudência consolidada desta Suprema Corte é no sentido de que a prática de falta grave no decorrer da execução penal interrompe o prazo para concessão de progressão de regime, reiniciando-se, a partir do cometimento da infração disciplinar grave, a contagem do prazo para que o condenado possa pleitear novamente o referido benefício executório (HC 136.376, Rel. Min. Ricardo Lewandowski, DJe 02.5.2017). Precedentes. 3. Agravo regimental conhecido e não provido. (RHC 201000-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 06/08/2021)
+
+    Noutro giro, quando ao argumento de que “inexiste decisão judicial no PEC, regida pelo devido processo legal, que reconhece o cometimento de falta disciplinar de natureza grave”, o Superior Tribunal de Justiça assinalou que “o agravante cometeu falta de natureza grave, consubstanciada na prática de novo crime, tendo sido condenado em ação penal, não havendo, assim, necessidade de instauração de PAD”.
+
+    A propósito, o Supremo Tribunal Federal, em sua composição plena, ao julgar o RE 776823, Rel. Min. Edson Fachin, DJe de 23/02/2021, sob o rito da repercussão geral, tema 758, fixou a seguinte tese: “o reconhecimento de falta grave consistente na prática de fato definido como crime doloso no curso da execução penal dispensa o trânsito em julgado da condenação criminal no juízo do conhecimento, desde que a apuração do ilícito disciplinar ocorra com observância do devido processo legal, do contraditório e da ampla defesa, podendo a instrução em sede executiva ser suprida por sentença criminal condenatória que verse sobre a materialidade, a autoria e as circunstâncias do crime correspondente à falta grave”. Trago à colação a ementa do acórdão:
+
+    RECURSO EXTRAORDINÁRIO. PROCESSO PENAL. REPERCUSSÃO GERAL. TEMA DE REPERCUSSÃO GERAL 758: NECESSIDADE DE CONDENAÇÃO COM TRÂNSITO EM JULGADO PARA SE CONSIDERAR COMO FALTA GRAVE, NO ÂMBITO ADMINISTRATIVO CARCERÁRIO, A PRÁTICA DE FATO DEFINIDO COMO CRIME DOLOSO. ARTS. 52, CAPUT, E 118, I, DA LEI DE EXECUÇÃO PENAL. CLÁUSULA DE RESERVA DE PLENÁRIO (ART. 97 DA CF). PRESUNÇÃO DE INOCÊNCIA (ART. 5º, LVII, DA CF). PRECEDENTES DO STF. RECURSO EXTRAORDINÁRIO A QUE SE DÁ PROVIMENTO. 1. Os arts. 52, caput, e 118, inciso I, da Lei de Execução Penal, por regerem esfera distinta da formação de culpa no processo penal de conhecimento, não são incompatíveis com a norma inscrita no art. 5º, inciso LVII, da Constituição Federal. Dessa forma, descabe condicionar o reconhecimento da sanção administrativo-disciplinar de falta grave consistente na prática de fato definido como crime doloso pelo Juízo da Execução Penal ao trânsito em julgado da condenação oriunda do Juízo de Conhecimento. Independência das esferas de apuração e sancionamento de atos ilícitos. Juízes com competências diversas. Precedentes do Supremo Tribunal Federal. 2. A apuração da falta grave, todavia, deve observar os postulados constitucionais do devido processo legal, do contraditório e da ampla defesa, assegurado ao sentenciado defesa técnica e possibilidade de produção de provas. Tema de repercussão geral 941. Regras de Nelson Mandela das Nações Unidas. 3. Não se reconhece violação à cláusula de reserva de plenário quando o órgão fracionário do Tribunal de origem deixa de aplicar dispositivo infraconstitucional sem que o tenha declarado, expressa ou implicitamente, a inconstitucionalidade. 4. Recurso extraordinário a que se dá provimento, com a fixação da seguinte tese: o reconhecimento de falta grave consistente na prática de fato definido como crime doloso no curso da execução penal dispensa o trânsito em julgado da condenação criminal no juízo do conhecimento, desde que a apuração do ilícito disciplinar ocorra com observância do devido processo legal, do contraditório e da ampla defesa, podendo a instrução em sede executiva ser suprida por sentença criminal condenatória que verse sobre a materialidade, a autoria e as circunstâncias do crime correspondente à falta grave.
+
+    Além disso, o Plenário desta Suprema Corte, na oportunidade do julgamento do RE 972598, Rel. Min. Roberto Barroso, julgado sob o rito da repercussão geral, tema 941, DJe de 06/08/2020, fixou a seguinte tese: “A oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena”. Por oportuno, confira-se a ementa do acórdão:
+
+    Processual penal. Recurso extraordinário. Execução penal. Prévio procedimento administrativo disciplinar para o reconhecimento de falta grave. Desnecessidade. Audiência em juízo na qual assegurados o contraditório e a ampla defesa. Provimento do Recurso. 1. O Supremo Tribunal Federal tem entendido que a oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena. 2. No sistema de jurisdição una, o procedimento judicial conta com mais e maiores garantias que o procedimento administrativo, razão pela qual o segundo pode ser revisto judicialmente, prevalecendo a decisão judicial sobre a administrativa. 3. Por outro lado, em um sistema congestionado como o da Execução Penal, qualquer atividade redundante ou puramente formal significa desvio de recursos humanos da atividade principal do Juízo, inclusive e notadamente a de assegurar os benefícios legais para que ninguém permaneça no cárcere por período superior à condenação. 4. Desse modo, a apuração de falta grave em procedimento judicial, com as garantias a ele inerentes, perante o juízo da Execução Penal não só é compatível com os princípios do contraditório e da ampla defesa (art. 5º, LIV e LV, da CF) como torna desnecessário o prévio procedimento administrativo, o que atende, por igual, ao princípio da eficiência de que cuida o art. 37 da Constituição Federal. 5. Provimento do Recurso com a afirmação da seguinte tese: “A oitiva do condenado pelo Juízo da Execução Penal, em audiência de justificação realizada na presença do defensor e do Ministério Público, afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática de falta grave durante o cumprimento da pena”.
+
+    Ademais, a divergência da conclusões a que chegaram as instâncias de origem para atender à pretensão defensiva demanda uma indevida incursão no conjunto fático-probatório dos autos. Desta sorte, impende consignar que o habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático probatório engendrado nos autos. Destarte, não se revela cognoscível a insurgência que não se amolda à estreita via eleita. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE HOMICÍDIO DUPLAMENTE QUALIFICADO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO EXTRAORDINÁRIO. INADMISSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA JULGAR HABEAS CORPUS: CRFB/88, ART. 102, I, D E I. HIPÓTESE QUE NÃO SE AMOLDA AO ROL TAXATIVO DE COMPETÊNCIA DESTA SUPREMA CORTE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE NA VIA ELEITA. INÉPCIA DA DENÚNCIA. NÃO CARACTERIZADA. CUSTÓDIA PREVENTIVA DEVIDAMENTE FUNDAMENTADA. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. ALEGADO EXCESSO DE PRAZO. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.” (HC 130.439, Rel. Min. Luiz Fux, Primeira Turma, DJe de 12/5/2016)
+
+    Por fim, ante a pertinência de suas alegações, transcrevo trecho do parecer elaborado pela Procuradoria-Geral da República, in verbis:
+
+    [...]
+
+    Essa Suprema Corte pacificou o entendimento de que a condenação com trânsito em julgado não é condição si ne qua non para se considerar como falta grave a prática de fato definido como crime doloso no curso da execução penal.
+
+    No caso dos autos, o Recorrente foi condenado pela prática de crime doloso, o que é suficiente para configurar a falta grave, independentemente da realização de audiência ou instauração de processo administrativo para sua homologação.
+
+    [...]
+
+    A superveniência de uma nova condenação, hipótese dos autos, determina a unificação das penas e, consequentemente, o reinício da contagem dos prazos para progressão de regime, conforme estabelecem os artigos 111 e 118 da Lei 7.210/1984. Dessa forma, não há falar em constrangimento ilegal em razão da fixação do novo termo a quo para a progressão ao regime semiaberto, a partir da última prisão do apenado.
+
+    Essa Suprema Corte já se posicionou no sentido de que “a data do trânsito em julgado da nova condenação é o termo inicial de contagem para concessão de benefícios, que passa a ser calculado a partir do somatório das penas que restam a ser cumpridas” (HC 101.023, Primeira Turma, Rel. Min. Ricardo Lewandowski, DJe de 26/3/2010).
+
+    Ex positis, NEGO SEGUIMENTO ao recurso ordinário, com fundamento no artigo 21, § 1º, do RISTF.
+
+    Publique-se. Int..
+
+    Brasília, 27 de setembro de 2022.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
