@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 21/09/2022 a 27/09/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. DECISÃO DA PRESIDÊNCIA. INDEFERIMENTO LIMINAR. SÚMULA 315/STJ. AUSÊNCIA DE COMPROVAÇÃO DE DIVERGÊNCIA. NÃO PROVIMENTO DO AGRAVO INTERNO.
+1. Trata-se de Agravo Interno interposto contra decisum da Presidência do STJ que indeferiu liminarmente os Embargos de Divergência.
+2. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+3. Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do Recurso Especial em razão da ausência de impugnação específica dos fundamentos da decisão agravada. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de Embargos de Divergência na hipótese de não ter sido analisado o mérito do Recurso Especial, conforme a Súmula 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+4. Os Embargos de Divergência não são cabíveis para a análise de regras técnicas de admissibilidade do Recurso Especial, como ocorreu no caso em comento. O recurso não foi apreciado no mérito, haja vista que seu escopo é uniformizar teses jurídicas divergentes em relação à matéria de mérito, de modo que, se este não for apreciado, afasta o cabimento da espécie recursal. (AgInt nos EREsp 1.539.626/DF, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 28/2/2018, DJe 6/3/2018; AgInt nos EREsp 1.492.765/PR, Rel. Ministro Gurgel de Faria, Primeira Seção, julgado em 13/12/2017, DJe 22/2/2018 e AgInt nos EAREsp 722.987/RS, Rel. Ministro Og Fernandes, Primeira Seção, julgado em 13/12/2017, DJe 1/2/2018).
+5. Mediante análise dos autos, verifica-se que a parte, no momento da interposição do recurso, limitou-se a transcrever trechos dos julgados paradigmas, deixando de trazer a certidão de julgamento dos acórdãos. Assim, diante da ausência de juntada do inteiro teor dos acórdãos paradigmas, os embargantes deixaram de cumprir regra técnica do presente recurso, o que constitui vício substancial insanável. Inadmissível o recurso de Embargos de Divergência quando o recorrente não comprova a divergência nos termos do art. 1.043, § 4º do Código de Processo Civil de 2015 e do art. 266, § 4º do Regimento Interno do Superior Tribunal de Justiça.
+6. Agravo Interno não provido.
+A embargante afirma que o art. 1.043 do CPC autoriza a interposição de Embargos de Divergência quando um dos acórdãos for de mérito, e o outro não. Acrescenta que igualemente é cabível esta via recursal para discutir controvérsia sobre a exegese de norma processual, sendo este o caso dos autos, pois a pretensão tem por objeto a definição a respeito do princípio da dialeticidade.
+Foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1022 do CPC.
+2. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+3. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 12 de julho de 2022.
+Não procede a irresignação da parte embargante.
+Os Embargos de Declaração constituem Recurso de contorno rígido, destinado a viabilizar a complementação do julgado viciado pela ausência de valoração de ponto relevante para a solução da lide e que constitua matéria de ordem pública ou que tenha sido previamente submetido à apreciação judicial (omissão), pela falta objetiva de clareza no provimento jurisdicional (obscuridade) ou pela de incompatibilidade lógica entre os elementos do ato judicial, notadamente a fundamentação e o dispositivo (contradição).
+Na hipótese dos autos, a argumentação da empresa é suficiente para demonstrar que a intenção é rediscutir o conteúdo da decisão embargada, que claramente invocou a Súmula 315/STJ para justificar a inadmissibilidade dos Embargos de Divergência. Análise mais aprofundada evidencia, é de se reconhecer, que o Recurso é inadmissível até porque a hipótese não foi de não conhecimento do Recurso Especial, mas de não conhecimento do Agravo do art. 1.042 do CPC. Dito de outro modo, até com mais razão o Recurso em tela se mostra absolutamente incabível.
+Diante da manifesta inadequação dos Embargos de Divergência (interpostos pela empresa com a finalidade de rediscutir o acórdão proferido no julgamento do Agravo Interno, como se a Seção de Direito Público constituísse uma segunda oportunidade para rediscutir a decisão monocrática e a decisão turmária), assim como da clareza na exposição dos fundamentos adotados no acórdão embargado e da inviabilidade dos Aclaratórios para perseguir a modificação no julgamento, sem a demonstração dos vícios do art. 1.022 do CPC, rechaça-se a pretensão da embargante.
+Com essas considerações, rejeito os Embargos de Declaração.
+É como voto.
