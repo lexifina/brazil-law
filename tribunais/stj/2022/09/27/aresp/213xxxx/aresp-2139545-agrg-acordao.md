@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA. PENA-BASE. QUANTIDADE DE DROGAS E ANTECEDENTES. AUMENTO DE 1/8 PARA CADA CIRCUNSTÂNCIA. PROPORCIONALIDADE. CONFISSÃO. AUSÊNCIA. SÚMULA N. 7/STJ. REINCIDÊNCIA E CONCURSO DE PESSOAS. AUMENTO DE 1/6 PARA CADA AGRAVANTE. ADEQUAÇÃO. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que, na primeira fase da dosimetria, a adoção do critério de aumento de 1/8 (um oitavo) sobre o intervalo das penas mínima e máxima previstas no tipo penal, para cada vetorial desabonadora, revela-se proporcional e adequado (ut, AgRg no AREsp n. 2.073.621/DF, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe de 22/8/2022).
+2. Consta do acórdão recorrido à e-STJ fl. 228 que o réu não confessou o delito, negando ser o proprietário e responsável pela droga. A alteração dessa conclusão não prescinde do conteúdo fático-probatório dos autos. Incidência da Súmula n. 7/STJ.
+3. "Esta Corte Superior orienta que seja aplicado o índice de 1/6 para agravantes e atenuantes, em atenção ao princípio da proporcionalidade, salvo se houver motivação concreta e expressa que justifique a adoção de fração diversa"(AgRg no HC n. 539.585/MT, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe de 10/12/2020), como no caso dos autos.
+4. Recurso não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, João Otávio de Noronha e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto contra decisão de e-STJ fls. 357/359 e 374/376, de minha Relatoria, em que conheci do agravo para não conhecer do recurso especial pelo óbice das Súmulas 7 e 211 do STJ, bem como por não vislumbrar qualquer irregularidade na dosimetria da pena.
+A defesa alega que "não é necessário nenhum reexame de provas, para que fique COMPROVADO que o Agravante CONFESSOU, que era o responsável pelo monitoramento da droga" (e-STJ fl. 389). Sustenta a inaplicabilidade da súmula n. 211/STJ à tese relacionada à confissão. (e-STJ fl. 393). Insurge-se, mais uma vez, contra os aumentos operados na primeira e segunda fases da dosimetria.
+Objetiva, assim, reconsideração da decisão agravada ou a remessa do feito à apreciação da Turma, a fim de que o agravo seja provido.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Não há ilegalidade no aumento da pena-base em razão da quantidade da droga e dos maus antecedentes.
+Nesse ponto, importa observar que a pena para o crime de tráficovaria entre 5 e 15 anos, de forma que o aumento em 2 anos e 6 meses pela duas circunstâncias corresponde à fração de 1/8 para cada, o que está em harmonia com osparâmetrosadmitidos nesta Corte. Confira-se:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBRIAGUEZ AO VOLANTE. DOSIMETRIA. CRITÉRIO DE AUMENTO DA PENA-BASE. ADOÇÃO DE UM OITAVO DO INTERVALO DAS PENAS MÍNIMA E MÁXIMA DO TIPO PENAL. AUMENTO PROPORCIONAL E ADEQUADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que, na primeira fase da dosimetria, a adoção do critério de aumento de 1/8 (um oitavo) sobre o intervalo das penas mínima e máxima previstas no tipo penal, para cada vetorial desabonadora, revela-se proporcional e adequado.
+2. "Não há direito subjetivo do réu à aplicação do quantum de aumento de 1/6 sobre a pena mínima, na primeira fase da dosimetria da pena, para cada circunstância judicial valorada negativamente" (AgRg no AREsp n. 2.063.942/RS, relator Ministro RIBEIRO DANTAS, Quinta Turma, DJe de 14/6/2022).
+3. Agravo regimental desprovido(AgRg no AREsp n. 2.073.621/DF, relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe de 22/8/2022).
+Na segunda fase, também não se verificou nenhuma irregularidade, considerando que o aumento em 1/3 pela existência de duas agravantes(reincidênciae concurso de pessoas), também obedece aos critériosfixados neste Tribunal. A propósito:
+PENAL E PROCESSUAL PENA. AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO TENTADO. ATENUANTE. CONFISSÃO ESPONTÂNEA. REDUÇÃO. QUANTUM. JUSTIFICAÇÃO CONCRETA. RECURSO EXCLUSIVO DA DEFESA. CAUSA DE AUMENTO DE PENA. AFASTAMENTO. VALORAÇÃO COMO CIRCUNSTÂNCIA JUDICIAL NEGATIVA. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA NA HIPÓTESE.
+1. "Esta Corte Superior orienta que seja aplicado o índice de 1/6 para agravantes e atenuantes, em atenção ao princípio da proporcionalidade, salvo se houver motivação concreta e expressa que justifique a adoção de fração diversa"(AgRg no HC n. 539.585/MT, relator Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 1º/12/2020, DJe de 10/12/2020), como no caso dos autos. Precedente.
+2. Consolidou-se que "o efeito devolutivo da apelação autoriza o Tribunal local, quando instado a se manifestar sobre a dosimetria da pena, a realizar nova ponderação dos fatos e circunstâncias em que se deu a conduta criminosa, mesmo em se tratando de recurso exclusivamente defensivo, sem que se incorra em reformatio in pejus, desde que não seja agravada a situação final do réu, vale dizer, que não seja elevada a sua reprimenda ou recrudescido o seu regime de cumprimento" (AgRg no HC n. 738.509/RS, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 7/6/2022, DJe de 13/6/2022). Precedente.
+3. Na hipótese, não se vislumbra reformatio in pejus na valoração como circunstância judicial negativa do "emprego de arma de fogo, com realização de dois disparos, e concurso de agentes" após o afastamento das majorantes previstas no § 2º, inciso II, e § 2º-A, inciso I, ambos do artigo 157, do Código Penal, em recurso exclusivo da defesa.
+4. Agravo regimental desprovido(AgRg no HC n. 670.955/SP, relator Ministro ANTÔNIOSALDANHA PALHEIRO, Sexta Turma, DJe de 19/8/2022 - Grifo nosso).
+PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL DE NATUREZA GRAVE. DOSIMETRIA. ALEGAÇÃO DE VIOLAÇÃO DO ART. 61, II, A E C, E ART. 68, TODOS DO CP. PLEITO DE AFASTAMENTO DAS AGRAVANTES. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. PERCENTUAL DE AUMENTO. REDUÇÃO. DESCABIMENTO. FUNDAMENTAÇÃO IDÔNEA. ENTENDIMENTO QUE GUARDA CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE.
+1. Escorreita a aplicação do óbice constante da Súmula 7 desta Corte, pois para rever os fundamentos que motivaram as instâncias ordinárias a incidirem as agravantes previstas no art. 62, II, a e b, do Código Penal, seria necessária a análise de fatos e provas, medida essa vedada na via estreita do recurso especial.
+2. Consoante a jurisprudência desta Corte Superior, o aumento da pena em razão das agravantes genéricas em patamar superior a 1/6 demanda fundamentação concreta e específica, o que foi observado pelas instâncias ordinárias na hipótese em apreço. In casu, não há falar em excesso no aumento em 1/3 da pena, já que foi reconhecida a incidência de duas circunstâncias agravantes (motivo fútil e recurso que dificultou a defesa da vítima). Precedentes.
+3. Agravo regimental improvido(AgRg no AREsp n. 1.791.462/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe de 21/6/2021 - Grifo nosso).
+Por fim, anota-se que ao contrário do alegado, consta do acórdão recorrido à e-STJ fl. 228 que o réu não confessou o delito, negando ser o proprietário e responsável pela droga.
+A alteração dessa conclusão não prescinde do revolvimento do conteúdo fático-probatório dos autos. Incidência da Súmula 7/STJ. A propósito: AgRg no AREsp n. 2.027.101/SP, DESTA RELATORIA, DJe de 31/3/2022.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
