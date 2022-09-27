@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de Ricardo Gonçalves, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, proferido no julgamento da Apelação n. 0000499- 78.2018.8.24.0011, assim ementado:
+"APELAÇÃO CRIMINAL. PORTE ILEGAL DE MUNIÇÕES DE USO PERMITIDO (ART. 14, CAPUT, DA LEI N. 10.826/03). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.
+PRETENSA ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. INVIABILIDADE.MATERIALIDADE E AUTORIA DELITIVAS DEVIDAMENTE DEMONSTRADAS PELOS RELATOS DE TESTEMUNHAS E DOS POLICIAIS QUE ATUARAM NA ABORDAGEM, BEM COMO PELA APREENSÃO DOS ARTEFATOS BÉLICOS. LAUDO PERICIAL QUE ATESTOU A EFICIÊNCIA DE CARTUCHOS INTACTOS. CONJUNTO PROBATÓRIO ROBUSTO. CONDENAÇÃO MANTIDA.
+Evidenciado pelo farto conjunto probatório que o acusado portava munições sem autorização e em desacordo com determinação legal, cabível a manutenção do édito condenatório pela prática da conduta descrita no art. 14, caput, da Lei n. 10.826/03.
+ATIPICIDADE DA CONDUTA. PRINCIPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE POTENCIALIDADE LESIVA DAS MUNIÇÕES. NÃO CABIMENTO. CRIME DE PERIGO ABSTRATO E DE MERA CONDUTA. PRESCINDIBILIDADE DE APREENSÃO DA ARMA DE FOGO OU DA OCORRÊNCIA DE QUALQUER RESULTADO NATURALISTICO. APREENSÃO DE 6 (SEIS) MUNIÇÕES DE USO PERMITIDO INTACTAS. QUANTIDADE QUE NÃO PODE SER REPUTADA ÍNFIMA.
+ADEMAIS, CIRCUNSTÂNCIAS FÁTICAS QUE DENOTAM QUE O ATO VIOLOU O BEM JURÍDICO TUTELADO. MÍNIMA OFENSIVIDADE NÃO CONFIGURADA.CONDENAÇÃO MANTIDA.
+1 No que concerne ao delito de porte de munição de uso permitido, sabe-se que a aplicação do princípio da insignificância somente é possível em hipóteses singulares, uma vez que os crimes previstos no Estatuto do Desarmamento possuem natureza de infrações penais de perigo abstrato.
+2 Se as circunstâncias da prisão em flagrante revelarem a alta reprovabilidade e periculosidade social da ação, descabida a discussão sobre a atipicidade material da conduta.
+RECURSO CONHECIDO E NÃO PROVIDO."
+O paciente foi condenado incurso no art.14, caput, da Lei n.10.826/2003, à pena de02 (dois) anos de reclusão, em regime inicial aberto, substituída por duas restritivas de direito,e pagamento de 10 (dez) dias-multa.
+No presente writ, a impetrante busca a absolvição do paciente do crime de posse ilegal de munição de uso permitido, por aplicação do princípio da insignificância, pois estava na posse somente de doze munições.
+A liminar foi indeferida por decisão de fls. 375/376. O Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+A jurisprudência do Superior Tribunal de Justiça inadmite a utilização do habeas corpus como substituto de recurso próprio, como ocorre na espécie. Entretanto, passo ao exame do writ apenas para aferição de eventual ilegalidade flagrante que admitiria a concessão da ordem de ofício.
+O acórdão impugnado assim tratou sobre o tema:
+"Por sua vez, o apelante pretende o reconhecimento da atipicidade material da conduta, invocando a aplicação do princípio da insignificância. Para tanto, sustenta a ausência de potencialidade lesiva da conduta, uma vez que as munições foram apreendidas sem a arma de fogo.
+Como visto alhures, estando devidamente configurado o delito em exame - porte ilegal de munições de uso permitido -, não há que se falar na ausência de lesão ao bem jurídico tutelado.
+A aplicação do princípio da insignificância, em relação aos delitos previstos no Estatuto do Desarmamento, ante a natureza de crime de perigo abstrato, é possível apenas em hipóteses singulares, não sendo justificável, contudo, no caso em apreço.
+Também denominado de criminalidade de bagatela, o princípio da insignificância, que constitui vetor interpretativo, insere-se no âmbito do direito penal mínimo, orientado pelos princípios da fragmentariedade e subsidiariedade, justificando-se por razões de política criminal, atuando de forma a restringir a intervenção penal na sociedade.
+ ..
+Avulta salientar, ainda, que o Supremo Tribunal Federal consolidou entendimento de que, para a incidência do instituto, devem estar presentes, de forma cumulativa, as seguintes condições, de ordem objetiva: (a) mínima ofensividade da conduta do agente; (b) nenhuma periculosidade social da ação; (c) grau reduzido de reprovabilidade do comportamento; e, (d) inexpressividade da lesão jurídica provocada (STF, Agravo Regimental no Habeas Corpus n.129.813/MS, rel. Min. Luiz Fux, j. em 31/5/2016).
+ ..
+De plano, tem-se que a quantidade de munições intactas apreendidas - seis cartuchos, CBC, calibre .22 - não pode ser considerada ínfima (Evento 26, LAUDO / 59, autos originários). Nesse sentido: STJ, AgRg no HC 691.728/SC, rel. Min. Jesuíno Rissato, Quinta Turma, j. em 9/11/2021, DJe de 17/11/2021.
+Observa-se que não se trata de uma apreensão de munições em contexto isolado, mas sim da abordagem do apelante em razão de atitude suspeita, porquanto, junto do adolescente, rondava veículos estacionados no clube e simulou estar armado, situação que chamou a atenção dos seguranças do local, que acionaram a polícia militar.
+Além disso, não passa despercebido que o acusado, antes da abordagem policial, encontrava-se em um sítio, na companhia do adolescente e de outras pessoas, efetuando disparos de arma de fogo, fato que, embora não tenha sido apurado nestes autos, reforça a alta reprovabilidade e periculosidade social da ação.
+Vê-se, portanto, que há evidências concretas a indicar que a conduta do acusado efetivamente lesou a incolumidade pública.
+ ..
+Logo, devidamente comprovado nos autos que o apelante portava as munições apreendidas, sem autorização e em desacordo com determinação legal ou regulamentar, a condenação como incurso nas sanções do art. 14, caput, da Lei n. 10.826/03 deve ser mantida."
+Esta Corte acompanhou a nova diretriz jurisprudencial do Supremo Tribunal Federal que passou a admitir a incidência do princípio da insignificância na hipótese da posse de pequena quantidade de munição, desacompanhada de armamento hábil a deflagrá-la. Saliente-se, contudo, que, para que exista, de fato, a possibilidade de incidência do princípio da insignificância, deve-se examinar o caso concreto, afastando-se o critério meramente matemático (AgRg no HC 554.858/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 12/5/2020, DJe de 18/5/2020) (HC 613.195/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 07/12/2020).
+No caso dos autos, inobstante o porte de apenas 12(dez) munições de uso permitido (seis intactas e seis deflagradas), as circunstâncias do caso concreto não autorizam a aplicaçãodo princípio da insignificância, pois apontam que houve vulneração ao bem jurídico tutelado, a incolumidade pública, uma vez que o paciente, antes de ser abordado pelos policiais, efetuou disparos de armas de fogo em um sítio, na companhia de um adolescente e de outras pessoas. Dessa forma, vê-se o maior grau de reprovabilidade da conduta do paciente.
+Por tais razões, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
