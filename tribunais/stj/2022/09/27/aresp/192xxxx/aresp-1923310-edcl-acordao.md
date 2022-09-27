@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+LUIZ ANTÔNIO CAUS opõe embargos de declaração contra o acórdão de fls. 4.453-4.457, em que a Sexta Turma desta Corte Superior não conheceu do agravo regimental interposto.
+Aduz: "a insurgência por dissídio jurisprudencial era apenas uma das teses do recurso especial. Ao não se insurgir contra a decisão que, neste particular não conheceu do Recurso, não abriu mão a parte das demais teses, sendo certo ter sido este Egrégio Tribunal omisso ao não se manifestar sobre o tema" (fl. 4.461).
+Aponta haver contradição entre o decisum embargado e o precedente firmado no AgInt no AREsp n. 2.047.207/AL.
+Requer sejam sanados os vícios apontados, a fim de conferir a estes embargos efeitos infringentes, com o recebimento e o provimento do recurso especial.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO CONHECIMENTO DO AGRAVO REGIMENTAL. SÚMULA N. 182 DO STJ. CONTRADIÇÃO. OBSCURIDADE. AUSÊNCIA. MERO INCONFORMISMO. CONTRADIÇÃO ENTRE DOIS JULGADOS. IMPOSSIBILIDADE DE ANÁLISE NOS ACLARATÓRIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+2. Na espécie, o acórdão embargado não foi omisso, porquanto analisou, de maneira clara e devidamente fundamentada, os motivos pelos quais o agravo regimental não poderia ser conhecido, em virtude da incidência da Súmula n. 182 do STJ.
+3. A contradição sanável pelo recurso integrativo é aquela interna ao julgado impugnado, à vista da desarmonia entre a fundamentação e as conclusões da própria decisão. Portanto, não há como acolher esse vício indicado pela defesa, porquanto foi apontada suposta contradição entre o acórdão embargado e outro prolatado pela Corte Especial do STJ.
+4. Rejeito os embargos de declaração.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no decisum embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese, observo que os embargos não comportam acolhimento, por não haver omissão, contradição ou erro material no decisum. Foram analisados, de maneira clara e devidamente fundamentada, os motivos pelos quais o agravo regimental não poderia ser conhecido, haja vista a incidência da Súmula n. 182 do STJ.
+Com efeito, foi consignado que a parte não infirmou todos os fundamentos da decisão agravada e, portanto, não observou o princípio da dialeticidade. Veja-se (fls. 4.455-4.457, grifos no original):
+A impugnação não foi admitida na origem pela incidência das Súmulas n. 7, 83 e 211 do STJ e 282 do STF, o que ensejou a interposição de agravo em recurso especial.
+Às fls. 4.433-4.435, o agravo interposto não foi conhecido, haja vista a ausência de impugnação específica do óbice mencionado pela Corte estadual. Veja-se (fls. 4.434-4.435, destaques no original):
+O agravo é tempestivo, mas não infirmou adequadamente as motivações lançadas na decisão de inadmissibilidade do recurso especial, razão pela qual não merece conhecimento.
+No presente caso, a Corte local não admitiu o recurso pelos seguintes motivos (fls. 4.337-4.340, grifei):
+De pronto, verifica-se que a discussão sobre a suposta ocorrência de bis in idem  o fato de o recorrente ter supostamente coordenado o delito ter sido considerado em dois momentos distintos, "quando da culpabilidade valorada de forma negativa, assim como quando da aplicação da agravante"  , não foi objeto de deliberação pelo Colegiado estadual, estando ausentes os indispensáveis debate e decisão prévios.
+Por essa razão, inexistente o prequestionamento, mostra-se, pois, inviável a pretendida análise na via especial, incidindo o teor das Súmulas 282 do Supremo Tribunal Federal, aplicada por analogia a recursos especiais, e 211 do Superior Tribunal de Justiça.
+ ..
+Quanto á alegação de nulidade do julgamento, sob o fundamento de que o Promotor de Justiça, durante os debates, mencionou que o ora recorrente, em juízo, permaneceu em silêncio, acarretando-lhe inegável prejuízo, manifestou-se a Turma Julgadora:
+ ..
+Assim sendo, verifico que, a par de eventual reforma do acórdão recorrido implicar reexame dos elementos informativos dos autos, o que é defeso nesta fase recursal (Súmula 7 do Superior Tribunal de Justiça), está a decisão Colegiada em consonância com o entendimento adotado pelo Superior Tribunal de Justiça, incidindo o teor da Súmula 83 do Tribunal de destino.
+ ..  No tocante às demais teses recursais, verifica-se que eventual reforma do acórdão demandaria, necessariamente, o reexame do contexto probatório dos autos, providência que não se amolda aos estreitos limites do recurso especial, a teor, uma vez mais, da orientação contida no enunciado nº 7 da Súmula do Superior Tribunal de Justiça, a saber: "A pretensão de simples reexame de prova não enseja recurso especial".
+A defesa, contudo, não rebateu todos os fundamentos da inadmissão do especial. Com efeito, a parte limitou-se a infirmar a incidência das Súmulas n. 7 e 211 do STJ e 282 do STF e nada mencionou acerca da não aplicação do enunciado sumular n. 83 desta Corte Superior.
+Deveras, a parte não se desincumbiu do ônus de expor integral, específica e detalhadamente os motivos de fato e de direito por que entende incorreta a decisão agravada, a atrair, à espécie, a Súmula n. 182 do STJ, segundo a qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+Nesse mesmo sentido foi o parecer do Ministério Público Federal (fl. 4.430):
+In casu, o agravante não rechaçou o tópico da decisão impugnada que aborda a incidência da Súmula 83/STJ (cf. fl. 4.337) quanto à inocorrência de nulidade quando há mera menção ao silêncio do acusado durante a sessão plenária do Tribunal do Júri. O próprio insurgente equivocadamente afirma que a decisão que inadmitiu o recurso especial teria se baseado em apenas duas premissas (fls. 4.356-4.357) - ausência de prequestionamento e reexame fático-probatório -, olvidando assim a invocação da Súmula 83/STJ pela decisão agravada.
+Saliento que o AREsp tem como objetivo atacar os óbices apontados pelo Tribunal a quo ao negar seguimento ao REsp. No agravo regimental no AREsp, por sua vez, a parte deve refutar as razões de decidir do agravo em recurso especial.
+Na hipótese, como mencionado, o agravo em recurso especial não foi conhecido em virtude da ausência de dialeticidade. Neste regimental, a defesa deveria haver demonstrado que infirmou a aplicação da Súmula n. 83 do STJ na petição de agravo em recurso especial. Todavia, a parte limitou-se a afirmar que o óbice sumular se referia a apenas uma das teses suscitadas no recurso especial.
+O princípio da dialeticidade, contudo, impõe à parte o dever de impugnar detalhadamente a decisão recorrida, o que não foi feito na espécie. Assim, a defesa, novamente, não se desincumbiu do ônus de expor integral, específica e detalhadamente as razões de fato e de direito por que entendeu incorreta a decisão agravada, a atrair, à espécie, o verbete sumular n. 182 do STJ, segundo o qual "É inviável o agravo do art. 1.021, § 1º, do novo CPC que deixa de atacar especificamente todos os fundamentos da decisão agravada".
+Assim, o que se percebe é que a defesa pretende, na verdade, o conhecimento do agravo regimental, a despeito do óbice da Súmula n. 182 do STJ, o que, por óbvio, não se coaduna com a via dos embargos de declaração.
+De acordo com orientação pacífica desta Corte, a contradição sanável pelo recurso integrativo é aquela interna ao julgado impugnado, à vista da desarmonia entre a fundamentação e as conclusões da própria decisão. Portanto, não há como acolher esse vício apontado pela defesa, porquanto foi apontada suposta contradição entre o acórdão embargado e outro prolatado pela Corte Especial do STJ.
+Nessa perspectiva:
+ ..
+1. Não há contradição a ser sanada. Trata-se de mero inconformismo da parte.
+2. A contradição que dá ensejo à oposição de embargos de declaração é interna ao julgado, ou seja, entre as premissas e as conclusões da própria decisão, sendo absolutamente descabido suscitar o vício com base em algum parâmetro externo ao julgado embargado. No caso, não há contradição no aresto embargado; ao contrário, as premissas e conclusões guardam perfeita coerência entre si. Objetivam os declaratórios, na verdade, a rediscussão dos fundamentos do acórdão embargado, finalidade essa imprópria para essa via recursal.
+ ..
+(EDcl no AgRg no AREsp n. 1.687.861/RO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 4/6/2021, destaquei)
+À vista do exposto, rejeito os embargos de declaração.
