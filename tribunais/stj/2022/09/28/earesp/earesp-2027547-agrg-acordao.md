@@ -1,0 +1,52 @@
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE FEZ INCIDIR O ÓBICE DA SÚMULA N. 182 DO STJ. AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO DO RECURSO ESPECIAL. RECURSO MANIFESTAMENTE INCABÍVEL. INCIDÊNCIA DA SÚMULA N. 315 DO STJ. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Mostra-se evidente que, no acórdão embargado, não houve enfrentamento do mérito do recurso especial, em razão da aplicação do óbice da Súmula n. 182 do STJ, a atrair a incidência da Súmula n. 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial." Precedentes.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros João Otávio de Noronha, Jorge Mussi, Sebastião Reis Júnior, Rogerio Schietti Cruz, Ribeiro Dantas, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por EMERSON JULIO RIBEIRO, ELITON JULIO RIBEIRO, EVERTON JULIO RIBEIRO e JEFERSON JULIO RIBEIRO contra decisão da Presidência desta Corte que indeferiu liminarmente os embargos de divergência nestes termos (fls. 1945-1946):
+"Cuida-se de EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL interpostos por EMERSON JULIO RIBEIRO e OUTROS com fulcro no art. 1.043 do Código de Processo Civil.
+A parte embargante insurge-se contra o acórdão embargado em razão da divergência com o AgRg no AREsp n. 1.917.615/SP, proferido pela Sexta Turma, nos termos do qual "tendo sido a conduta apresentada de maneira incontroversa pelas instâncias ordinárias, não há falar em incidência da Súmula 7/STJ, tendo em conta que a análise do pleito recursal exige para tanto a revaloração jurídica da prova e não o reexame fático" (fls. 1921).
+Requer, desse modo, o provimento dos embargos de divergência.
+É, no essencial, o relatório. Decido.
+Os embargos não reúnem condições de serem processados.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da ausência de impugnação específica e adequada dos fundamentos da decisão que inadmitiu o recurso. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE. MULTA POR LITIGÂNCIA DE MÁ-FÉ. INAPLICABILIDADE. RECURSO NÃO PROVIDO.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Não se verifica, no caso, abuso no direito de recorrer a autorizar a imposição de multa por litigância de má-fé.
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDv nos EREsp 1615774/MG, relatora Ministra Maria Thereza de Assis Moura, Corte Especial, DJe de 28/8/2020.)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados desta Corte: EDcl no AgInt nos EAREsp 1.315.422/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 12/11/2020; AgInt nos EREsp 1.768.953/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 10/9/2020; AgInt nos EAREsp 682.226/PR, relator Ministro Marco Aurélio Bellizze, Segunda Seção, DJe de 8/5/2020.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência."
+Alegam os Embargantes que se "mostra inaplicável a Súmula n.º 182/STJ e, ademais, a divergência versa sobre debate de questão processual (pois, no acórdão paradigma da 6.ª Turma, os dignos Ministros concluíram que a decisão que se limita a revalorar as situações fáticas já reconhecidas no acórdão não violam a Súmula n. 07/STJ), afastando a Súmula n. 315/STJ" (fl. 1954). Requer, pois, o provimento do agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE FEZ INCIDIR O ÓBICE DA SÚMULA N. 182 DO STJ. AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO DO RECURSO ESPECIAL. RECURSO MANIFESTAMENTE INCABÍVEL. INCIDÊNCIA DA SÚMULA N. 315 DO STJ. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Mostra-se evidente que, no acórdão embargado, não houve enfrentamento do mérito do recurso especial, em razão da aplicação do óbice da Súmula n. 182 do STJ, a atrair a incidência da Súmula n. 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial." Precedentes.
+2. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+No caso em apreço, o acórdão embargado da QUINTA TURMA entendeu que, "a ausência de impugnação específica e adequada dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial."
+A decisão ora agravada indeferiu liminarmente os embargos de divergência, consignando que "o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da ausência de impugnação específica e adequada dos fundamentos da decisão que inadmitiu o recurso. Tal situação impede, por si só, o conhecimento desta via de impugnação, pois não se admite a interposição de embargos de divergência na hipótese de não ter sido analisado o mérito do recurso especial, a teor da Súmula n. 315 desta Corte Superior: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial"".
+Não há o que reparar na decisão agravada.
+Mostra-se evidente que, no acórdão embargado, não houve enfrentamento do mérito do recurso especial, em razão da aplicação do óbice da Súmula n. 182 do STJ, a atrair a incidência da Súmula n. 315 do STJ.
+Nesse sentido, ilustrativamente:
+"AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. SÚMULA N. 315 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO. SÚMULA N. 158 DO STJ. APLICAÇÃO. RECURSOS. CPC DE 2015. AGRAVO INTERNO DESPROVIDO.
+1. Os embargos de divergência ostentam característica de recurso de fundamentação vinculada, a teor do que dispõem os arts. 1.043 e 1.044 do CPC, os quais exigem, como pressuposto indispensável, a demonstração de divergência jurisprudencial entre os órgãos fracionários.
+2. No caso posto, não houve análise do mérito do recurso especial, tendo em vista a ausência de impugnação específica dos fundamentos adotados pelo Tribunal de origem, o que atrai a incidência da Súmula n. 315 do STJ, segundo a qual "não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+3. Na esteira da jurisprudência desta Corte, a aplicação da Súmula n. 158 do STJ permanece hígida e tem inteira aplicação aos recursos interpostos sob a égide do CPC de 2015.
+4. O recurso uniformizador tem por finalidade precípua dirimir dissídio decorrente da interpretação da legislação federal existente entre julgados proferidos nesta Corte Superior, não servindo para nova discussão acerca da utilização ou não de regra técnica de admissibilidade ou conhecimento do recurso especial, ocorrida no caso concreto e devidamente chancelada pelo respectivo órgão fracionário.
+5. Agravo interno desprovido." (AgInt nos EAREsp 1.380.659/DF, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 13/10/2020, DJe 27/10/2020; sem grifo no original.)
+"PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA CONTRA ACÓRDÃO QUE NÃO EXAMINOU O MÉRITO DA CONTROVÉRSIA. INCIDÊNCIA DA SÚMULA 315/STJ. AUSÊNCIA DE SIMILITUDE FÁTICA. INVIABILIDADE.
+1. Embora o agravante sustente que a Súmula 315/STJ deve ser afastada, verifica-se que o acórdão embargado não avançou sobre o mérito, não conhecendo do Agravo Interno, por ausência de impugnação específica, com fundamento "nos arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça" (fl. 1.771, e-STJ).
+2. Consoante a jurisprudência sedimentada no Superior Tribunal de Justiça, não se admite a oposição dos Embargos de Divergência contra acórdão que não versou sobre o mérito da controvérsia, tendo em vista o que dispõe o enunciado da Súmula 315 do Superior Tribunal de Justiça: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". Nesse sentido: AgInt nos EREsp n. 1.345.680/SC, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe 19.4.2017; AgInt nos EAREsp n. 315.046/SP, Rel. Ministro Herman Benjamin, Corte Especial, DJe 25.4.2017; AgInt nos EAg n. 1.357.322/DF, Rel. Ministro Felix Fischer, Corte Especial, DJe 15.12.2016; EAREsp n. 559.766/DF, Rel. Ministro Raul Araújo, Corte Especial, DJe 22.11.2016; AgInt nos EDv nos EAREsp n. 697.798/RS, Rel. Ministro Francisco Falcão, Primeira Seção, DJe 19.8.2019.
+ ..
+5. Agravo Interno não provido." (AgInt nos EAREsp 1.269.645/RS, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 25/08/2020, DJe 10/09/2020; sem grifo no original.)
+De fato, mesmo sob a égide do Novo Código de Processo Civil (art. 1.043, incisos I e III), "o não cabimento dos embargos de divergência no caso concreto é bastante claro, em virtude de não ter sido analisado o mérito do recurso especial no acórdão embargado, atraindo a incidência da Súmula 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial"" (AgInt nos EAREsp 1.441.916/SC, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 19/08/2020, DJe 26/08/2020).
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
