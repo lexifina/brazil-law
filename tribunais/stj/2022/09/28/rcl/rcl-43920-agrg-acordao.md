@@ -1,0 +1,61 @@
+EMENTA
+AGRAVO REGIMENTAL EM RECLAMAÇÃO. ALEGAÇÃO DE USURPAÇÃO DE COMPETÊNCIA DO STJ. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL COM INDICAÇÃO ERRADA DE NÚMERO DE PROCESSO E DE NOME DA PARTE. EQUÍVOCO ESSENCIAL. PETIÇÃO DESENTRANHADA DOS AUTOS POR SERVENTUÁRIO DA JUSTIÇA. AUSÊNCIA DE USURPAÇÃO DA COMPETÊNCIA DESTA CORTE PARA DELIBERAR SOBRE A ADMISSIBILIDADE DO ARESP. AGRAVO REGIMENTAL DESPROVIDO.
+1. A identificação do nome das partes e a identificação do número da ação penal na petição de agravo ao recurso especial não podem ser considerados elementos acidentais, pois são eles que determinam a existência do feito, não podendo ser aplicado à espécie o princípio da instrumentalidade das formas. Sendo assim, inexiste constrangimento ilegal no ato do serventuário da justiça que constatou que a petição inserta nos autos não pertenceria à ação penal vinculada e, posteriormente, certificou o trânsito em julgado da ação penal.
+2. Por fim, não se aplica ao caso o entendimento expresso no enunciado sumular 727/STF (não pode o magistrado deixar de encaminhar ao Supremo Tribunal Federal o agravo de instrumento interposto da decisão que não admite recurso extraordinário, ainda que referente a causa instaurada no âmbito dos juizados especiais), uma vez que a Corte de origem não retirou a competência deste Superior Tribunal de Justiça para examinar o agravo em recurso especial supostamente interposto, mas, tão-somente, determinou o desentranhamento de petição protocolada erroneamente nos autos digitais, por equívoco na identificação. Não se trata, portanto, de usurpação de competência desta Corte Superior.
+3. De se salientar que idêntico pedido foi veiculado no Habeas Corpus n. 765.346/GO, cujo agravo regimental foi julgado pela Quinta Turma desta Corte em sessão de 13/09/2022, DJe de 19/09/2022.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Joel Ilan Paciornik, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, João Otávio de Noronha, Jorge Mussi, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Cuida-se de agravo regimental interposto por JOSÉ OSVALDO FERRÃO ALVES contra decisão monocrática de minha lavra que não conheceu da reclamação por ele ajuizada a cassação da certidão de trânsito em julgado da condenação que lhe foi imposta na ação penal n. 0217769-98.2014.8.09.0170 por delito de homicídio culposo no trânsito.
+No presente recurso, a defesa repisa argumentos postos na petição inicial no sentido de que, contra o acórdão do Tribunal de Justiça que, em sede de apelação criminal, manteve a condenação, o ora reclamante interpôs, tempestivamente, agravo em recurso especial que, muito embora tenha indicado um número de autos equivocado e o nome de outra parte que não figurava na relação processual, apresentou razões de recorrer em tudo relacionadas ao caso concreto do reclamante. Nessa linha, defende que, a despeito do equívoco cometido, seria viável o conhecimento do agravo em recurso especial, em atenção ao princípio da instrumentalidade das formas.
+Aduz que o não conhecimento do agravo em recurso especial pelo Tribunal de Justiça ofende a competência desta Corte para a admissão do recurso especial, na forma descrita no § 4º do art. 1.042 do CPC e na Súmula 727/STF.
+Pede, assim, o provimento do regimental, "para determinar o processamento do AResp, com prevalência da competência deste c. STJ, visando a análise das razões devidamente vinculadas ao feito, e assim, atingindo seu objetivo" (e-STJ fl. 590).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental é tempestivo.
+Em que pesem os argumentos postos no agravo regimental, tenho que não tiveram o condão de abalar os fundamentos da decisão de minha lavra que não conheceu da reclamação, nos seguintes termos:
+Nos termos do art. 105, I, f, da CF/88, c/c o art. 187 do RISTJ, cabe Reclamação da parte interessada ou do Ministério Público, para preservar a competência do Superior Tribunal de Justiça ou para garantir a autoridade das suas decisões.
+Por sua vez, o novo CPC legislou exaustivamente sobre o tema nos arts. 988 a 993, definindo, como hipóteses do cabimento da Reclamação, aquelas descritas no art. 988, dentre as quais as que preveem especificamente a Reclamação dirigida ao Superior Tribunal de Justiça são as seguintes:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+(..)
+§ 5º É inadmissível a reclamação: (Redação dada pela Lei nº 13.256, de 2016)
+I - proposta após o trânsito em julgado da decisão reclamada; (Incluído pela Lei nº 13.256, de 2016)
+II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+A hipótese dos autos se enquadraria, em tese, no art. 988, I, do CPC. Entretanto, não visualizo a usurpação de competência apontada.
+Com efeito, dos documentos juntados aos autos, é possível depreender que, contra o acórdão proferido pela 2ª Câmara Criminal do Tribunal de Justiça de Goiás na Apelação Criminal n. 217769-98.2014.8.09.0170, em sessão de julgamento de 07/11/2019 (DJe de 28/11/2019 cf. certidão à e-STJ fl. 399), o ora reclamante interpôs, concomitantemente, no dia 13/12/2019:
+- recurso especial (e-STJ fls. 404/408), com fundamento no art. 105, III, "a", da CF, apontando violação aos arts. 155 e 386, V e VII, do CPP, assim como contrariedade aos termos dos arts. 57 e 90 da Lei 9.503/97; e
+- recurso extraordinário (e-STJ fls. 409/412), com amparo no art. 102, II, "a", CF, apontando violação aos arts. 5º, II e LV, e 93, IX, da CF.
+Em decisão de 06/03/2021, o REsp foi inadmitido, por encontrar óbice na súmula 7/STJ (e-STJ fls. 459/460). No dia seguinte, o RE foi inadmitido (e-STJ fls. 461/463).
+Contra a decisão que inadmitiu o Recurso extraordinário, o ora reclamante interpôs agravo regimental em 22/03/2021 (e-STJ fls. 469/472) que veio a ser desprovido, em sessão de julgamento de 21/02/2022 (e-STJ fls. 516/523), DJe de 04/03/2022 (e-STJ fl. 528).
+Na mesma data, foi interposto agravo em recurso especial (e-STJ fls. 473/476) indicando como recorrente RAFAEL SOUSA DA SILVA e o número do processo 184482-19.2017.
+Também foi interposto agravo em recurso extraordinário em nome de ANDREIA MARIA BORGES, indicando como referência o número do processo 68331-13.2018.
+Após o transcurso do prazo subsequente ao julgamento do Agravo regimental no RE, sobreveio certidão (e-STJ fl. 533) com o seguinte teor:
+Certifico e dou fé que, a decisão retro, proferida pelo Excelentíssimo Senhor Vice-Presidente do Tribunal de Justiça, que não admitiu o Recurso Extraordinário interposto pelo recorrente TRANSITOU EM JULGADO em 22/03/2022, uma vez que como certificado na mov. 36, as petições insertas nas mov. 31 e 32 não pertencem aos presentes autos, e a decisão que negou seguimento ao recurso especial interposto transitou em julgado, conforme a certidão inserta na mov. 39.
+Vê-se, assim, que não foi interposto agravo em recurso especial em nome do ora reclamante.
+Saliento que a defesa do ora reclamante impetrou também perante esta Corte, em 22/08/2022, o Habeas Corpus n. 765.346/GO no qual veicula exatamente a mesma irresignação posta na presente reclamação.
+No referido habeas corpus proferi a seguinte decisão, que transcrevo no que interessa:
+Na espécie, a Corte de origem inadmitiu o recurso especial interposto pelo ora paciente (e-STJ fls. 461/462). Ao interpor agravo contra a decisão, a defesa apontou, equivocadamente, outro recorrente e outro número de origem (e-STJ fls. 475/479).
+Da análise dos documentos colacionados aos autos, nota-se que o equívoco da defesa na interposição do agravo em recurso especial foi tamanha que impediu a identificação do processo vinculado às petições. Inclusive o Ministério Público do Estado de Goiás manifestou nos seguintes termos (e-STJ fl. 493):
+Do compulso dos autos, bem como diante da certidão inserida no evento nº 36, é possível constatar que o agravo em recurso especial em favor de Rafael Sousa da Silva foi juntado erroneamente nos presentes autos digitais. Com efeito, verifica-se que RAFAEL SOUSA DA SILVA, não é parte processual do feito, bem como os autos indicados na petição de agravo (Processo nº184482-19.2017) não corresponde aos autos digitais em questão, razão pela qual são estes autos devolvidos sem as contrarrazões correspondentes.
+Em razão do equívoco, foi certificado pela Assessoria para Assuntos de Recursos Constitucionais que a petição de agravo não pertenceria aos autos e, posteriormente, foi certificado o trânsito em julgado (e-STJ fls. 535).
+Ora, a identificação do nome das partes e a identificação do número da ação penal não podem ser considerados elementos acidentais, pois são eles que determinam a identificação do feito.
+Sendo assim, inexiste constrangimento ilegal no ato do serventuário da justiça que constatou que a petição inserta nos autos não pertenceria à ação penal vinculada e, posteriormente, certificou o trânsito em julgado da ação penal.
+Ante o exposto, denego o habeas corpus.
+(DJe de 25/08/2022 - negritei)
+Contra minha decisão foi interposto agravo regimental, incluído em mesa para julgamento na sessão de 06/09/2022.
+Tudo isso posto e por congruência com decisão por mim já proferida no Habeas Corpus n. 765.346/GO, não vislumbro nenhum indício, no caso concreto, de usurpação de competência do Superior Tribunal de Justiça.
+Ante o exposto, não conheço da presente reclamação e a extingo sem resolução de mérito, com fundamento no art. 34, inciso XVIII, alínea "a", do Regimento Interno do Superior Tribunal de Justiça, na redação que lhe foi dada pela Emenda Regimental n. 22, de 16/03/2016.
+Observo, por pertinente, que o Agravo Regimental no Habeas Corpus n. 765.346/GO foi julgado pela Quinta Turma desta Corte em sessão de 13/09/2022, na qual o patrono do ora reclamante realizou sustentação oral. Eis a ementa do acórdão:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ERRO NA INTERPOSIÇÃO DO AGRAVO EM RECURSO ESPECIAL. NOME DA PARTE E NÚMERO DA AÇÃO PENAL. EQUÍVOCO ESSENCIAL. PETIÇÃO DESENTRANHADA DOS AUTOS POR SERVENTUÁRIO DA JUSTIÇA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL IMPROVIDO.
+1. A identificação do nome das partes e a identificação do número da ação penal na petição de agravo ao recurso especial não podem ser considerados elementos acidentais, pois são eles que determinam a existência do feito, não podendo ser aplicado à espécie o princípio da instrumentalidade das formas. Sendo assim, inexiste constrangimento ilegal no ato do serventuário da justiça que constatou que a petição inserta nos autos não pertenceria à ação penal vinculada e, posteriormente, certificou o trânsito em julgado da ação penal.
+2. Por fim, não se aplica ao caso o entendimento expresso no enunciado sumular 727/STF (não pode o magistrado deixar de encaminhar ao Supremo Tribunal Federal o agravo de instrumento interposto da decisão que não admite recurso extraordinário, ainda que referente a causa instaurada no âmbito dos juizados especiais), uma vez que a Corte de origem não retirou a competência deste Superior Tribunal de Justiça para examinar o agravo em recurso especial supostamente interposto, mas, tão-somente, determinou o desentranhamento de petição protocolada erroneamente nos autos digitais, por equívoco na identificação. Não se trata, portanto, de usurpação de competência desta Corte Superior.
+3. Agravo regimental improvido.
+(Agravo regimental no Habeas Corpus n. 765.346/GO, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma do STJ, unânime, julgado em 13/09/2022, DJe de 19/09/2022)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
