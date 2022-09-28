@@ -1,0 +1,113 @@
+Trata-se de recurso extraordinário interposto contra acórdão cuja ementa segue transcrita:
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI DO MUNICÍPIO DE LAGOA DA PRATA. CONTRATAÇÃO TEMPORÁRIA. REVOGAÇÃO PARCIAL. PERDA OBJETO. AUSÊNCIA DE EXCEPCIONALIDADE. 1. Não há interesse de agir quanto ao pronunciamento de eventual inconstitucionalidade em relação a dispositivos legais que não mais estão em vigor com a mesma redação ou que tenham sido revogados, ocasionando a perda superveniente de objeto da Ação Direta de Inconstitucionalidade, com a sua consequente extinção parcial. 2. A regra geral de ingresso na carreira pública é por meio do concurso público para provimentos dos seus respectivos cargos. Admite-se, excepcionalmente, a possibilidade de ingresso no serviço público por meio de contratação temporária, caso presentes os dois requisitos constantes do próprio texto legal: excepcionalidade e necessidade temporária. 3. Considerando que as hipóteses legais não representam qualquer excepcionalidade capaz justificar a exceção ao concurso público, a inconstitucionalidade há de ser pronunciada.” (pág. 93 do documento eletrônico 1).
+
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, ofensa ao art. 37, IX, da mesma Carta.
+
+    Antes da remessa dos autos a esta Corte, a Primeira Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais – TJMG, com base no julgamento do RE 658.026-RG/MG (Tema 612 da Repercussão Geral) pelo Supremo Tribunal Federal, devolveu o processo ao órgão prolator do acórdão impugnado para o juízo de adequação, nos termos do art. 1.030, II, do Código de Processo Civil/2015. Todavia, o referido órgão manteve o seu entendimento em acórdão assim ementado:
+
+    “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI DO MUNICÍPIO DE LAGOA DA PRATA. CONTRATAÇÃO TEMPORÁRIA. REPOSICIONAMENTO. ACÓRDÃO PARADIGMA RE 658.026. AUSÊNCIA DE EXCEPCIONALIDADE. - A regra geral de ingresso na carreira pública é por meio do concurso público para provimentos dos seus respectivos cargos. Admite-se, excepcionalmente, a possibilidade de ingresso no serviço público por meio de contratação temporária, caso presentes os dois requisitos constantes do próprio texto legal: excepcionalidade e necessidade temporária. - Considerando que as hipóteses legais não representam qualquer excepcionalidade capaz justificar a exceção ao concurso público, a inconstitucionalidade há de ser pronunciada.” (pág. 290 do documento eletrônico 1).
+
+    Assim, como o órgão julgador se recusou a retratar-se, o recurso extraordinário foi admitido e remetido a este Tribunal, consoante o art. 1.030, V, c, do CPC/2015 (págs. 328-329 do documento eletrônico 1).
+
+    Em 19/12/2018, a Presidência do STF determinou a devolução destes autos ao Tribunal de origem para que fosse observado o disposto nos incisos I e II do art. 1.030 do Código de Processo Civil/2015, ante a repercussão geral reconhecida no RE 658.026-RG/MG – Tema 612 (documento eletrônico 3).
+
+    Posteriormente, a Primeira Vice-Presidência do TJMG remeteu novamente o presente processo ao Supremo Tribunal Federal, sob os seguintes argumentos:
+
+    “Ocorre que estes autos já foram encaminhados ao Órgão Julgador para o exercício do juízo de retratação, conforme dispõem os artigos 1.030, II, e 1.040, II, do Código de Processo Civil, tendo em vista o julgamento do mencionado Tema n° 612 (fls. 283-287), tendo o Órgão Especial deste Tribunal apreciado a matéria, contudo, por maioria, mantendo o resultado do julgamento anterior (fls. 298-309).
+
+    Assim é que, somente depois do encaminhamento dos autos ao Órgão Julgador para o exercício do juízo de retratação e o posterior retorno, foi admitido o presente recurso extraordinário (artigo 1.030, V, ‘c’, CPC) [...].
+
+    Do exposto, uma vez já observados os procedimentos previstos no artigo 1.030, I e II, do Código de Processo Civil e posteriormente admitido o recurso, determino a devolução dos autos ao Supremo Tribunal Federal, nos termos do que estabelece o artigo 1.030, V, ‘c’, CPC.
+
+    Cumpridas as formalidades legais, remetam-se os autos ao Supremo Tribunal Federal.“ (págs. 1-2 do documento eletrônico 6).
+
+    Em 10/9/2019, a Presidência desta Corte determinou a distribuição deste processo na forma regimental. Em seguida, este recurso foi distribuído para a minha relatoria em 18/9/2019 (documentos eletrônicos 8 e 9).
+
+    Em 6/5/2020, determinei a vista dos autos à Procuradoria-Geral da República (documento eletrônico 11). O Ministério Público Federal opinou “[...] no sentido de que seja negado seguimento ao recurso extraordinário (pág. 12 do documento eletrônico 13). Confira-se, a propósito, a ementa do parecer ministerial:
+
+    “RECURSO EXTRAORDINÁRIO EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA PROCEDENTE PELO TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE DEMONSTRAÇÃO SUFICIENTE DE REPERCUSSÃO GERAL. CONCURSO PÚBLICO. CONTRATAÇÃO TEMPORÁRIA POR TEMPO DETERMINADO. PREVISÃO EM LEI MUNICIPAL DE ATIVIDADES ORDINÁRIAS E REGULARES DA ADMINISTRAÇÃO PÚBLICA. AUSÊNCIA DO REQUISITO DA EXCEPCIONALIDADE EXIGIDO PELA CARTA MAGNA. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO DO STF MANIFESTADO NO JULGAMENTO DO RE 658.026/MG - TEMA 612. PARECER NO SENTIDO DE QUE SEJA NEGADO SEGUIMENTO AO RECURSO EXTRAORDINÁRIO.” (pág. 1 do documento eletrônico 13).
+
+    É o relatório necessário. Decido.
+
+    A pretensão recursal não merece acolhida.
+
+    Isso porque o recorrente, apesar de afirmar a existência de repercussão geral no recurso extraordinário, não demonstrou as razões pelas quais entende que a questão constitucional aqui versada seria relevante, sob o ponto de vista econômico, político, social ou jurídico, e que ultrapassaria os interesses subjetivos da causa.
+
+    De fato, nas razões do apelo extremo, houve apenas o desenvolvimento de argumentos genéricos sobre a repercussão geral e a indicação de julgado desta Corte submetido ao regime da repercussão geral (RE 658.026-RG/MG – Tema 612), sem a devida demonstração do modo pelo qual a matéria em exame seria relevante e transcenderia o interesse das partes.
+
+    Assim, a mera alegação de existência do requisito, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2°, do Código de Processo Civil/1973, introduzido pela Lei 11.418/2006, e no art. 327, § 1°, do Regimento Interno do Supremo Tribunal Federal. Nesse sentido, transcrevo ementas de julgados de ambas as Turmas desta Corte:
+
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. IMPROBIDADE. ADMINISTRATIVO. AUSÊNCIA DE PRELIMINAR FUNDAMENTADA DE REPERCUSSÃO GERAL DA MATÉRIA CONSTITUCIONAL. EXIGÊNCIA DE DEMONSTRAÇÃO. LEGISLAÇÃO INFRACONSTITUCIONAL. SÚMULA 279/STF.
+
+    1. A parte recorrente não apresentou mínima fundamentação quanto à repercussão geral das questões constitucionais discutidas, limitando-se a fazer observações genéricas sobre o tema. A peça de recurso, portanto, não atende ao disposto no art. 543-A, § 2º, do CPC. Precedente.
+
+    2. A solução da controvérsia demanda a análise da legislação infraconstitucional pertinente e uma nova reapreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), o que é inviável nesta fase recursal.
+
+    3. Agravo regimental a que se nega provimento.” (AI 814.690-AgR/RS, Rel. Min. Roberto Barroso, Primeira Turma – grifei).
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. REAPRECIAÇÃO DE PROVAS. INADMISSIBILIDADE. SÚMULA 279 DO STF.
+
+    1. Os recursos extraordinários somente serão conhecidos e julgados, quando essenciais e relevantes as questões constitucionais a serem analisadas, sendo imprescindível ao recorrente, em sua petição de interposição de recurso, a apresentação formal e motivada da repercussão geral, que demonstre, perante o Supremo Tribunal Federal, a existência de acentuado interesse geral na solução das questões constitucionais discutidas no processo, que transcenda a defesa puramente de interesses subjetivos e particulares.
+
+    2. A obrigação do recorrente em apresentar formal e motivadamente a preliminar de repercussão geral, que demonstre sob o ponto de vista econômico, político, social ou jurídico, a relevância da questão constitucional debatida que ultrapasse os interesses subjetivos da causa, conforme exigência constitucional e legal (art. 102, § 3º, da CF/88, c/c art. 1.035, § 2º, do CPC/2015), não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do Supremo Tribunal Federal é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo.
+
+    3. A argumentação do recurso extraordinário traz versão dos fatos diversa da exposta no acórdão, de modo que seu acolhimento passa necessariamente pela revisão das provas. Incide, portanto, o óbice da Súmula 279 desta Corte (Para simples reexame de prova não cabe recurso extraordinário).
+
+    4. Agravo interno a que se nega provimento.” (ARE 1.009.564-AgR/ES, Rel. Min. Alexandre de Moraes, Primeira Turma – grifei).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE FUNDAMENTAÇÃO DA PRELIMINAR DE REPERCUSSÃO GERAL DAS QUESTÕES CONSTITUCIONAIS SUSCITADAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ADMINISTRATIVO. EXERCÍCIO DE FUNÇÃO PÚBLICA. REGULARIDADE DO VÍNCULO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 279 DESTA CORTE. AGRAVO A QUE SE NEGA PROVIMENTO.
+
+    I – A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 543-A, § 2º, do CPC, introduzido pela Lei 11.418/2006, e no art. 327, § 1º, do RISTF.
+
+    II – Ausência de prequestionamento das questões constitucionais suscitadas. Incidência da Súmula 282 do STF. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356 do STF.
+
+    III – Inviável em recurso extraordinário o reexame do conjunto fático-probatório constante dos autos. Incidência da Súmula 279 do STF.
+
+    IV – Agravo regimental a que se nega provimento.” (ARE 820.902-AgR/RO, de minha relatoria, Segunda Turma – grifei).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO EM 6.4.2017. RECURSO EXTRAORDINÁRIO. PRELIMINAR DE REPERCUSSÃO GERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO.
+
+    1. Nos termos da orientação firmada nesta Corte, cabe à parte recorrente demonstrar fundamentadamente a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, mediante o desenvolvimento de argumentação que, de maneira explícita e clara, revele o ponto em que a matéria veiculada no recurso transcende os limites subjetivos do caso concreto do ponto de vista econômico, político, social ou jurídico.
+
+    2. Revela-se deficiente a fundamentação da existência de repercussão geral de recurso extraordinário que se restringe a alegar de forma genérica que a questão em debate tem repercussão geral.
+
+    3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Inaplicável o artigo 85, § 11, CPC, em virtude da não fixação de honorários advocatícios nas decisões anteriores.” (RE 993.775-AgR/AM, Rel. Min. Edson Fachin, Segunda Turma – grifei).
+
+    É certo, ainda, que a demonstração fundamentada da existência de repercussão geral das questões constitucionais discutidas também é indispensável nas hipóteses de repercussão geral presumida ou já reconhecida pelo Supremo Tribunal Federal em outro recurso. Com esse entendimento, indico precedentes de ambas as Turmas deste Tribunal cujas ementas seguem transcritas:
+
+    “DIREITO TRIBUTÁRIO. IPI. CORREÇÃO MONETÁRIA. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. ALEGAÇÃO DE OFENSA AOS ARTS. 5º, CAPUT, E 37, CAPUT, DA CONSTITUIÇÃO DA REPÚBLICA. DEFICIÊNCIA NA DEMONSTRAÇÃO DA REPERCUSSÃO GERAL. INOBSERVÂNCIA DO ART. 543-A, § 2º, DO CPC. REPERCUSSÃO GERAL PRESUMIDA OU RECONHECIDA EM OUTRO RECURSO NÃO VIABILIZA APELO SEM A PRELIMINAR FUNDAMENTADA DA REPERCUSSÃO GERAL. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA.
+
+    1. Deficiência na fundamentação da preliminar formal de repercussão geral, no recurso extraordinário interposto sob a égide do Código de Processo Civil de 1973. Inobservância do art. 543-A, § 2º, do CPC/1973, c/c art. 327, § 1º, do RISTF. O preenchimento desse requisito demanda a demonstração, no caso concreto, da existência de questões relevantes do ponto de vista econômico, político, social ou jurídico, que ultrapassem os interesses subjetivos da causa (art. 543-A, § 2º, do CPC/1973). A afirmação genérica da existência de repercussão geral ou a simples indicação de tema ou precedente desta Suprema Corte são insuficientes para o atendimento do pressuposto.
+
+    2. A controvérsia, conforme já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a análise da legislação infraconstitucional encampada na decisão da Corte de origem, bem como a reelaboração da moldura fática, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ‘a’, da Lei Maior, nos termos da jurisprudência desta Suprema Corte.
+
+    3. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, principalmente no que se refere à ausência de ofensa a preceito da Constituição da República.
+
+    4. Agravo interno conhecido e não provido.” (ARE 1.288.061-AgR-segundo/SP, Rel. Min. Rosa Weber, Primeira Turma – grifei).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DEMONSTRAÇÃO DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO DEFICIENTE. ARGUMENTAÇÃO GENÉRICA. NECESSIDADE DE DEMONSTRAÇÃO FUNDAMENTADA DA EXISTÊNCIA DE REPERCUSSÃO GERAL MESMO NAS HIPÓTESES DE REPERCUSSÃO GERAL PRESUMIDA OU JÁ RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL EM OUTRO RECURSO. MAJORAÇÃO DE HONORÁRIOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+
+    I – A mera alegação, nas razões do recurso extraordinário, de existência de repercussão geral das questões constitucionais discutidas, desprovida de fundamentação adequada que demonstre seu efetivo preenchimento, não satisfaz a exigência prevista no art. 1.035, § 2°, do Código de Processo Civil/2015.
+
+    II – A demonstração fundamentada da existência de repercussão geral das questões constitucionais discutidas também é indispensável nas hipóteses de repercussão geral presumida ou já reconhecida pelo Supremo Tribunal Federal em outro recurso.
+
+    III – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do Código de Processo Civil/2015, observados os limites legais.
+
+    IV – Agravo regimental a que se nega provimento.” (ARE 1.320.147-AgR/RS, de minha relatoria, Segunda Turma – grifei).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 13.4.2018. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE. PRELIMINAR DE REPERCUSSÃO GERAL. AUSÊNCIA.
+
+    1. Nos termos da orientação firmada nesta Corte, cabe ao recorrente demonstrar de maneira formal e fundamentada a existência de repercussão geral da matéria constitucional em debate no recurso extraordinário, o que não ocorreu no caso em exame. Mesmo em caso de repercussão geral presumida ou reconhecida em outro recurso, é ônus do recorrente a demonstração da existência desse requisito.
+
+    2. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC.” (ARE 1.102.846-AgR/SC, Rel. Min. Edson Fachin, Segunda Turma – grifei).
+
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+
+    Publique-se.
+
+    Brasília, 28 de setembro de 2022.
+
+Ministro Ricardo Lewandowski
+
+Relator
