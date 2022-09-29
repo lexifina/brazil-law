@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JONYMAR VASCONCELOS contra decisão que inadmitiu o recurso especial.
+Consta dos autos que o agravante foi condenado à pena de 18 anos de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 121, § 2º, I e IV, do Código Penal.
+A defesa apresentou revisão criminal perante a Corte de origem, a qual lhe indeferiu o pedido, em acórdão assim ementado (e-STJ fls. 72/73):
+EMENTA - CONSTITUCIONAL - PENAL - PROCESSO PENAL - TRIBUNAL DO JÚRI - HOICIDIO QUALIFICADO - CONDENAÇÃO - REVISÃO CRIMINAL - PROVA - DECISÃO CONTRÁRIA À EVIDÊNCIA DOS AUTOS - CONCEITO - NOVA PROVA - VALORAÇÃO - PEDIDO INDEFERIDO
+01 - Tratando-se de remédio jurídico que visa à reparação de erro consagrado em decisão condenatória transitada em julgado, a revisão criminal está sujeita às condições e pressupostos ditados na lei processual penal, não podendo ser transformada em nova apelação, com reexame de questões já analisadas na decisão que se pretende rever, somente se justificando a renovação da matéria jurídica através da via revisional, quando teratológica a conclusão anterior ou inteiramente em desacordo com o conjunto probatório.
+02 - Da mesma forma, ainda que se mostre viável a revisão com o surgimento de novas provas e que se dê interpretação ampla ao seu conceito, inclusive a admitindo para suscitar a dúvida a autorizar a desconstituição da condenação anterior, o seu valor probatório reclama a sua produção em primeiro grau através da cautelar de justificação, não sendo suficiente, para tal fim, simples declarações unilaterais de pretensas testemunhas que não foram ouvidas no curso da instrução originária. Apesar de o requerente ter atendido a essa forma própria, os depoimentos colhidosnão se mostram suficientes a descaracterizar aqueles obtidos no curso da instrução originária, principalmente por se tratar de condenação proferida pelo Tribunal do Júri cuja soberania é constitucionalmente reconhecida, sequer havendo fundamentação concreta no convencimento respectivo, sendo desconhecida a prova direta que levou o júri a condenar o acusado, apenas se exigindo que a decisão encontre arrimo em uma das vertentes dos autos, o que efetivamente ocorreu na hipótese presente. Na verdade, o irmão da vítima disse ter visto o requerente no local do fato, enquanto as novas testemunhas disseram que ele não estava no local, o que, por si só, não descredencia aquele depoimento obtido inicialmente, porque a testemunha disse que estava indo para o trabalho e viu o requerente esperando do lado de fora em uma das motos, não dizendo que se encontrava no interior ou no quintal da casa na qual o crime foi praticado, sem desconsiderar outros elementos de prova carreados aos autos, mesmo que de caráter indiciário, como o depoimento da esposa da vítima.
+03 - Pedido indeferido.
+No recurso especial, interposto com fundamento no art. 105, III,a, da Constituição Federal, alegou violação ao art. 381, III, do Código de Processo Penal, ao argumento de que o acórdão proferido pelo Tribunal de origem não analisou toda a tese defensiva (e-STJ fl. 132).
+Afirmouque "a jurisprudência predominante deste Egrégio Superior Tribunal de Justiça, como também do Supremo Tribunal Federal é no sentido do livre exercício, tanto de juízo rescisório quanto do juízo rescindente" (e-STJ fl. 133).
+Requereu, assim, a anulação do julgamento pelo Tribunal do Júri, com determinação de realização de novo julgamento.
+O recurso especial não foi admitido (e-STJ fls. 175/179).
+Daí o presente agravo regimental, no qual alega que não serem aplicáveisas Súmulas n. 284/STF, 83 e 7, ambas do Superior Tribunal de Justiça.
+Contraminuta apresentada (e-STJ fls. 216/218).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, em parecer assim ementado (e-STJ fl. 242):
+PENAL. PROCESSO PENAL. HOMICÍDIO. RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. FALTA DE IDENTIFICAÇÃO DE DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS. DEFICIÊNCIA ARGUMENTATIVA. SÚMULA 284/STF. PARECER POR NÃO CONHECIMENTO DO AGRAVO E, SE CONHECIDO, POR SEU DESPROVIMENTO.
+Requer, assim, o conhecimento do agravo e provimento do recurso especial.
+É o relatório.
+Decido.
+Rebatidos os fundamentos da decisão agravada, passo à análise do recurso especial.
+Do recurso especial não se deve conhecer.
+Isso porquea defesa alega omissão do Tribunal de origem na análise das teses defensivas, contudoaponta violação ao art. 381, III, do Código de Processo Penal.
+Atese de omissão na análise dos argumentos ventilados na revisão criminal não se relaciona com o dispositivo de legislação federal apontado.Dessa maneira, verifico deficiência na fundamentação, atraindo a incidência da Súmula n. 284/STF.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MANUTENÇÃO DA DECISÃO AGRAVADA POR OUTROS FUNDAMENTOS. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA N. 126 DO STJ. DISSOCIAÇÃO DOS ARTIGOS APONTADOS COMO VIOLADOS COM A TESE RECURSAL. SÚMULA N. 284 DO STF. NÃO CONHECIMENTO DO ESPECIAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Deve ser mantida, ainda que por outros fundamentos, a decisão da Presidência do STJ que conhece do agravo para não conhecer do recurso especial, por este não preencher todos os requisitos de admissibilidade.
+2. Não compete ao Superior Tribunal de Justiça analisar eventuais violações da Constituição Federal, e sim ao STF.
+3. Na espécie, o acórdão recorrido fundamentou-se no art. 593, III, "d", do CPP - cuja infringência nem sequer foi suscitada nas razões do especial - e também em dispositivo constitucional - qual seja, o art. 5º, XXXVIII, "c", da Constituição Federal -, cada qual suficiente, por si só, para a manutenção do decisum, e a parte interpôs, tão somente, recurso especial. Incidência da Súmula n. 126 do STJ.
+4. Incide também a Súmula n. 284 do STF no caso em exame, uma vez que os recorrentes indicaram artigo dissociado das razões recursais - arts. 482 e 483 do CPP, os quais tratam da quesitação - e não apontaram, de forma clara e precisa, dispositivo legal violado com força normativa capaz de alterar o aresto atacado.
+5. Agravo regimental não provido.(AgRg no AREsp n. 1.870.835/AM, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/8/2022, DJe de 9/8/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
