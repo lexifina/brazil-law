@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de OSCAR SIMON no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2237586-58.2020.8.26.0000).
+Consta dos autos que o paciente foi denunciado pela suposta prática do crime previsto no art. 317, caput, do Código Penal.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça pugnando pelo trancamento da ação penal. No entanto, a ordem foi denegada, nos termos da ementa ora transcrita (e-STJ fl. 516):
+Habeas Corpus. Art. 317, do CP. Crimes praticados por funcionários públicos. Nulidade alegada não verificada.
+Inexistência de inépcia da denúncia. Análise de questão de prova incabível no estreito espaço do habeas corpus.
+Ordem denegada.
+Nohabeas corpus,alega ausência de fundamentação na decisão que recebeu a denúncia, destacando omissões pela não apreciação de matéria defensiva pelo Juízo de primeiro grau.
+Aduz que, "nos procedimentos especiais de crime de responsabilidade do funcionário público, oferecida a defesa preliminar (art. 514 do CPP) e sendo recebida a denúncia, passa-se à citação dos acusados na forma do Capítulo I, do CPP, com a aplicação do procedimento comum" (e-STJ fl. 13).
+Afirma, ainda, violação ao princípio do juiz natural, uma vez que as interceptações telefônicas tramitaram em Juízo diverso do que está tramitando a ação penal.
+Alega nulidade por cerceamento de defesa, uma vez que não foi juntada a decisão que deu início à medida cautelar de interceptação telefônica (e-STJ fl. 56).
+Por fim, aponta inépcia da denúncia e ausência de justa causa.
+Requer (e-STJ fls. 97/98):
+1º. Determinar-se a observância ao procedimento processual do Rito Comum Ordinário, com a possibilidade de oferecimento da peça indispensável da Resposta à Acusação (artigo 396 e ss, CPP), pois veicula, primo icto oculi, a ofensa às Garantias Constitucionais da Ampla Defesa e do Contraditório.
+2º. Declarar a nulidade da decisão proferida pelo Juízo de Origem, cassando-a e determinando que nova, válida e fundamentada decisão seja proferida, analisando-se as teses expostas pela defesa do paciente, conforme determinado pelo art. 93, IX, da CF;
+3º. Declarar a nulidade por violação ao princípio do juiz natural, diante da inobservância da prevenção pelo Juízo da 1g Vara Judicial de Peruibe/51 3 , com a declaração de nulidade de todos os atos decisórios praticados pelo Juízo de Origem (na forma do artigo 564, I, primeira figura, do CPP), e a determinação de remessa dos autos ao Juízo da 1g Vara Judicial de Peruibe/SP;
+4º. Declaração de nulidade em razão do cerceamento de defesa e do contraditório e violação ao devido processo legal, por não conceder o Juízo de Origem acesso ao conteúdo probatório existente na medida cautelar de interceptação telefônica, sobretudo pelo fato de que a denúncia está inteiramente fundamentada nesta medida judicial, com a determinação de que cópias da medida cautelar sejam apensadas à ação penal (na forma do art.82 , da Lei 9.296/1996) e seja assegurado acesso à defesa do paciente;
+5º. Declaração de inépcia da denúncia oferecida pelo MP em desfavor do paciente, por irregularidade formal;
+6º. E, derradeiramente, o trancamento da ação penal instaurada, por absoluta falta de justa causa para o seu oferecimento, determinando-se a baixa e cancelamento de sua distribuição, por ser medida de JUSTIÇA!
+O pedido liminar foi indeferido.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+É, em síntese, o relatório.
+Decido.
+Em consulta ao sítio processual do Tribunal de Justiça do Estado de São Paulo, constato que foi proferida sentença absolutória em 22/6/2021, nos seguintes termos:
+Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação penal para CONDENAR o acusado W.G.S., como incurso nas penas do artigo 332, parágrafo único, do Código Penal, à pena de 3 (três) anos, 7 (sete) meses e 6 (seis) dias de reclusão e 18 (dezoito) dias-multa. Presentes os requisitos legais, substituo a pena privativa de liberdade aplicada ao acusado pela prestação de serviços à comunidade, pelo mesmo prazo da pena corporal, em condições a serem estabelecidas no juízo da execução e prestação pecuniária no importe de 20 (vinte) salários mínimos vigentes à época dos fatos, tendo em vista a gravidade do delito praticado, bem como as condições econômicas do agente que exerce atividade laborativa na advocacia, foi defendido por meio de advogada constituída e ainda a existência de menção nas interceptações telefônicas renda de R$80.000,00 em determinada negociação seja ela de origem espúria ou não. Em caso de revogação do benefício, deverá iniciar o cumprimento da pena em regime inicial semiaberto, em razão das circunstâncias judiciais desfavoráveis do agente.Ademais, do exposto, com fulcro no artigo 386, inciso V, do Código de Processo Penal, JULGO IMPROCEDENTE o pedido formulado pelo Ministério Público e ABSOLVO os réus O.S., L.C.S., R.M.N., das imputações contidas nos artigos art.317, caput,, do Código Penal. Faculto o apelo em liberdade por estarem ausentes requisitos para imposição de custódia cautelar. Condeno o acusado W.G.S. ao pagamento das custas processuais na forma da lei. Após o trânsito em julgado, oficie-se ao IIRGD e ao E. Tribunal Regional Eleitoral para suspensão dos direitos políticos, nos termos do artigo 15, inciso III da Constituição Federal. Publique-se. Intimem-se. Cumpra-se. Advogados(s): Juliana Nobile Furlan (OAB 213227/SP), Thais Perico Gomes (OAB 235238/SP), Helio Marcos Pereira Junior (OAB 240132/SP), Davi Teles Marçal (OAB 272852/SP), Luiz Gustavo Guazzelli Braga de Siqueira (OAB 290801/SP), Kareen Christina Gomes da Costa (OAB 340741/SP), Bruna Lima dos Santos (OAB 365688/SP). (Grifei.)
+Dessa forma, o presentehabeas corpusencontra-se prejudicado.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intimem-se.
