@@ -1,0 +1,9 @@
+DECISÃO
+OMINISTÉRIO PÚBLICO DO ESTADO DO PARANÁagrava de decisão proferida pelo Tribunal de Justiça daquele Estado, que inadmitiu seu recurso especial, interposto com fundamento na alínea "c" do permissivo constitucional, contra acórdão prolatado nos Embargos de Declaração no Habeas Corpus n. 0015354-20.2018.8.16.0000.
+Busca oParquet, no recurso especial, seja afastada a conclusão da Corte de origem pelo trancamento do processo por ausência de justa causa para a persecução penal ou, de modo subsidiário, anulado o acórdão combatido por deficiência de fundamentação.
+Em consulta ao sistema informatizado desta Corte Superior, observo que, em outros feitos vinculados à Operação Publicano foi comunicada pelo Juízo singular a intimação das defesas e do Ministério Público para que, diante da concessão da ordem, pelo Supremo Federal, nos HCs n. 142.205 e 143.427, se indicassem "quais provas, a seu ver, são ilícitas, pela declaração direta ou por derivação", para posterior análise sobre a possibilidade de continuidade do feito.
+Além disso, a Corte estadual ordenou a suspensão do trâmite das ações penais vinculadas à referida investigação "até a publicação do acórdão definitivo pelo STF a fim de se conhecer com precisão os exatos efeitos da decisão retro mencionada e seus reflexos em todas as ações penais na denominada Operação Publicano".
+Os dados descritos evidenciam a superveniente perda do interesse recursal neste feito, uma vez que será realizada nova análise a respeito da justa causa para a persecução penal pelas instâncias ordinárias, em substituição ao ato aqui apontado como coator.
+À vista do exposto,não conheço do agravo em recurso especial.
+Em tempo, corrija-se a autuação do feito, visto que o agravante é o Ministério Público do Estado do Paraná.
+Publique-se e intimem-se.
