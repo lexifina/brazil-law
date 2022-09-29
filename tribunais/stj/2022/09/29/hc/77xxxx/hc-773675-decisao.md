@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido liminar, impetrado em favor de JEFFERSON MARQUES DE ASSIS contraacórdãoproferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAISnojulgamento daApelação Criminal n. 1.0145.11.014391-7/001.
+Consta nos autos que, em primeiro grau, o Paciente foi condenado às penas de 20 (vinte anos) anos e 9 (nove) meses de reclusão, em regime inicial fechado, e 138 (cento e trinta e oito) dias-multa, pela prática dos crimes previstos nos arts. 288, parágrafo único, 155, § 4.º, inciso IV, 157, § 3.º, e 250,caput, todos do Código Penal, na forma do art. 69 do mesmo diploma legal.
+Nestewrit, alega-se que a pena-base teria sido exasperada mediante a utilização de fundamentação inadequada. No mais, assevera-se que "não há razão a justificar o estabelecimento do regime fechado" (fl. 6).
+Requer, liminarmente e no mérito, o redimensionamento da pena e o abrandamento do regime inicial para desconto da reprimenda.
+É  o  relato  do  necessário.  Decido.
+O  writ  não  merece  trânsito,  ante  a  caracterização  de  litispendência.
+Conforme  relatei,  no  presente  writ  a  Defesa  impugna  o  acórdão  condenatório  proferido  na  Apelação  n.  1.0145.11.014391-7/001 -  assim  como  na  impetração  anterior,  qual  seja,  o  HC  768.675/MG,  Rel.  Ministra  LAURITA  VAZ ,  em que  há  identidade  de  partes  e  de  causa  de  pedir.
+Ocorre  que  não  podem  ser  analisados  habeas  corpus  nos  quais  se  verifica  litispendência,  constatada  exatamente  quando  há  igualdade  de  partes,  de  objeto  e  de  causa  petendi  -mormente no caso, em que a decisão proferida na impetração anterior já transitou em julgado.
+Assim,  concluo  ser  inadmissível  este  feito,  porquanto  "não  pode  ser  conhecida  a  impetração  que  veicula  mera  reiteração  de  pedido  já  formulado  em  writ  anteriormente  impetrado  nesta  Corte"  (AgRg  no  HC  286.354/AC,  Rel.  Ministra  LAURITA  VAZ,  QUINTA  TURMA,  julgado  em  15/05/2014,  DJe  23/05/2014).  No  mesmo  sentido,  v.g.:  HC  519.170/RS,  Rel.  Ministro  ROGERIO  SCHIETTI  CRUZ,  SEXTA  TURMA,  julgado  em  15/10/2019,  DJe  21/10/2019;  EDcl  no  AgRg  no  HC  532.973/RS,  Rel.  Ministro  RIBEIRO  DANTAS,  QUINTA  TURMA,  julgado  em  10/10/2019,  DJe  15/10/2019.
+No  mais,  vale  ainda  re  ssaltar  a  finalidade  do  referido  instituto  de  assegurar  visa  precipuamente  à  economia  processual  e  o  "propósito  de  evitar  a  ocorrência  de  decisões  contraditórias"  (STJ,  REsp  88.354/SP,  Rel.  Ministro  HUMBERTO  GOMES  DE  BARROS,  PRIMEIRA  TURMA,  DJ  02/09/1996).
+Ante  o  exposto,  INDEFIRO  LIMINARMENTE  a  petição  inicial,  com  fundamento  no  art.  34,  inciso  XX,  c.c.  o  art.  210,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça  .
+Publique-se.  Intimem-se.
+EMENTA
+ HABEAS  CORPUS.  REITERAÇÃO  DE  TESE.  IDENTIDADE  DE  PARTES,  DE  OBJETO  E  DE  CAUSA  PETENDI.  PRETENSÃO  DEFENSIVA  JÁ  VENTILADA  EM  WRIT  ANTERIORMENTE  IMPETRADO  NESTA  CORTE.  LITISPENDÊNCIA  CONFIGURADA.  PETIÇÃO  INICIAL  INDEFERIDA  LIMINARMENTE.
