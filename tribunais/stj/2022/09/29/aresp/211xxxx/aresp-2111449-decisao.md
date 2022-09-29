@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravoem recurso especial apresentadopelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULOcontra decisão que inadmitiu apelo nobre, interposto com fundamento no art. 105, inciso III, da Constituição Federalpara desafiar acórdão assim ementado (e-STJ fl. 2.404):
+APELAÇÃO - Ação Civil Pública - Improbidade Administrativa - Município de Limeira - Contratações diretas - Ausência de regularidade formal no procedimento de dispensa de licitação - Serviços que foram efetivamente prestados - Ilegalidade vislumbrada, todavia, não configurado o ato ímprobo - Ausência de má-fé, dolo, culpa grave ou desvirtuamento moral - Ausência de elemento subjetivo necessário à caracterização de ato ímprobo - Dano ao erário, ademais, inexistente - Sentença de improcedência mantida - RECURSO VOLUNTÁRIO E REEXAME NECESSÁRIO NÃO PROVIDOS.
+Orecorrentesustentaofensa aosarts. 10 e11da Lei n. 8.429/1992.
+Contrarrazões.
+Manifestação ministerial pelo desprovimento do recurso (e-STJ fls. 2.600/2.611).
+Passo a decidir.
+De logo, cumpre ressaltarque o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo quefalar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 17/03/2015, DJe 24/03/2015; AgInt no AREsp 933.131/SP, rel. Ministro OG FERNANDES, Segunda Turma, julgado em 25/10/2016, DJe 27/10/2016.
+Mediante análise dos autos, verifico que a inadmissão do recursodeu-se com base na incidência da Súmula 7 do STJ.
+Embora tenhaoagravanteimpugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, à vista da necessidade do exame das provas que repousam nos autos.
+É que, tendo o Tribunal de origem reconhecido que o conjunto probatório não foi hábil a demonstrar a configuração do ato ímprobo pelorecorridos, consubstanciado na suposta dispensa indevida de licitação, à míngua do elemento do subjetivo (dolo), a reforma desse julgado demandaria o reexame fático-probatório dos autos, o que é inviável em sede de recurso especial.
+Registro, por oportuno, que o marco inicial de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido, a qual, no presente caso, foi realizada sob a égide do atual Codex Processual. Assim, nos termos do Enunciado Administrativo n. 3 do STJ, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO doagravopara NÃO CONHECER dorecursoespecial.
+Publique-se. Intimem-se.
