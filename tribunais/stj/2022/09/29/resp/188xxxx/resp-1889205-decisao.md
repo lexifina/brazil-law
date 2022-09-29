@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUCIANA SOUZA DA SILVA, com respaldonas alíneas "a" e "c"do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃOassim ementado, no que interessa (e-STJ fls. 228/229):
+ASSISTÊNCIA SOCIAL. BENEFÍCIO DE PRESTAÇÃO CONTINUADA. PESSOA DEFICIENTE. ART. 20, § 3º, DA LEI Nº 8.742/93. REQUISITOS LEGAIS SATISFEITOS. TERMO INICIAL. CORREÇÃO MONETÁRIA.
+ ..
+- Para a concessão do benefício de assistência social faz-se necessário o preenchimento dos seguintes requisitos: 1) ser pessoa :portadora de deficiência ou idoso com 65 (sessenta e cinco) anos ou mais (art. 34 do Estatuto do Idoso - Lei n.10.741 de 01.10.2003); 2) não possuir meios de subsistência próprios ou de tê-la provida por sua família. A concessão do benefício assistencial requer o preenchimento concomitante do requisito de deficiência ou etário e de miserabilidade. In casu, restaram comprovados os quesitos incapacidade e hipossuficiência familiar.
+- O termo inicial do benefício merece ser mantido na data da citação, uma vez que o requerimento fora apresentado em 2006 e o ajuizamento da ação em 2014, não restando demonstrada a incapacidade total e definitiva neste período.
+- Com relação à correção monetária e aos juros de mora, incidirão nos termos do Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal em vigor, por ocasião da execução do julgado.
+- Preliminar rejeitada. Apelo do INSS parcialmente provido. Apelo da parte autora improvido.
+Embargos de declaração rejeitados (e-STJ fls. 277/283).
+Em suas razões, a parte recorrente aponta,além de dissídio jurisprudencial,violação doart. 3º, II, 198, I, do CC/2002,103 da Lei n. 8.213/1991 e 20, caput e § 3º, da Lei n. 8.742/1993, sustentando e o termo inicial do benefício de prestação continuada deve ser fixada a partir do requerimento administrativo, visto que não há falar em prescrição/decadência contra incapaz.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 326/327.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+Como é cediço, o direito ao benefício previdenciário/assistencial - dada a sua natureza de direito fundamental - não se submete, de fato, à prescrição de fundo.
+Nesse sentido, de ambas as Turmas da Primeira Seção:
+PREVIDENCIÁRIO. BENEFÍCIO NEGADO NA VIA ADMINISTRATIVA. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA. SÚMULA 85/STJ. INAPLICABILIDADE.
+1. A jurisprudência desta Corte é firme no sentido de que, mesmo na hipótese de negativa de concessão de benefício previdenciário e/ou assistencial pelo INSS, não há falar em prescrição do próprio fundo de direito, porquanto o direito fundamental a benefício previdenciário não pode ser fulminado sob tal perspectiva.
+2. Em outras palavras, o direito à obtenção de benefício previdenciário é imprescritível, apenas se sujeitando ao efeito aniquilador decorrente do decurso do lapso prescricional as parcelas não reclamadas em momento oportuno.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 506.885/SE, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/05/2014, DJe 02/06/2014).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. LEI 8.742/1993 E LEI 10.741/2003. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+1. O Superior Tribunal de Justiça tem se manifestado recentemente no sentido de afastar a prescrição do fundo de direito quando em discussão direito fundamental a benefício de amparo social.
+Precedentes: REsp 1.349.296/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28.2.2014).
+2. A garantia à cobertura pelo sistema previdenciário traduz inequívoca proteção à manutenção da vida digna. Conforme precedente do STF (RE 626.489/SE), julgado em repercussão geral, o direito fundamental ao benefício previdenciário pode ser exercido a qualquer tempo, sem que se atribua consequência negativa à inércia do beneficiário.
+3. A pretensão ao benefício previdenciário e/ou assistencial em si não prescreve, mas tão somente as prestações não reclamadas em certo tempo, que podem ser buscadas a qualquer momento. Precedentes: AgRg no AREsp 506.885/SE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2.6.2014.4. Recurso Especial do INSS não provido. (REsp 1503295/PB, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 26/05/2015, DJe 10/08/2015).
+In casu, extrai-se dos autos que a parte autora ajuizou a presente ação em 2014, postulando a concessão de benefício assistencial indeferido administrativamente em 02/10/2006(e-STJ fls. 2/13 E 228).
+O apelo nobre da parte autoraalmeja ver modificado o termo inicial do benefício para a data do requerimento administrativo, ao argumento de quecontra incapaz não corre prescrição.
+Impende registrar que o reconhecimento da prescrição de rever o ato administrativo, por si só, não afasta a possibilidade de nova postulação de benefício por incapacidade e assistencial, ou ainda previdenciário, tendo em vista a natureza dos direitos sociais e eventuais alterações no estado de fato ou de direito do segurado ou seu beneficiário, ex vi do art. 505, I, do CPC (art. 471, CPC/1973).
+Isso porque, "relativamente à ocorrência ou não da prescrição do fundo de direito, parte-se da definição de que os benefícios previdenciários estão ligados ao próprio direito à vida e são direitos sociais que compõem o quadro dos direitos fundamentais" (REsp 1.349.296/CE, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 20/02/2014, DJe 28/02/2014).
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. REQUERIMENTO. INDEFERIMENTO. PRESCRIÇÃO. REGRAS. ALTERAÇÃO NO ESTADO DE FATO OU DE DIREITO. POSSIBILIDADE. VANTAGEM. TERMO INICIAL. CITAÇÃO.
+1. Apesar de o direito ao benefício assistencial ou previdenciário não se submeter à prescrição de fundo, por estar inserido nos direitos fundamentais, a ocorrência de indeferimento do pedido administrativo faz nascer o interesse de agir, por se tratar de ato específico, o qual não se renova mês a mês. Inteligência da Súmula 85 do STJ.
+2. O reconhecimento da prescrição do fundo de direito, por si só, não afasta a possibilidade de nova postulação de benefício por incapacidade, ou assistencial, tendo em vista a natureza dos direitos sociais e eventuais alterações no estado de fato ou de direito do segurado, de seu beneficiário ou do requerente de que trata a LOAS (Lei Orgânica da Assistência Social), ex vi do art. 505, I, do CPC/2015 (art. 471, CPC/1973).
+3. Caso em que a parte autora pode postular a concessão de benefício a qualquer tempo, sendo certo que, decorridos mais de cinco anos desde o indeferimento administrativo e havendo alteração no estado de fato ou de direito do segurado, este fará jus ao benefício, atendidos os requisitos legais, mas a contar da nova demanda judicial.
+4. Agravo interno desprovido. (AgInt no REsp 1.663.972/PB, de minha relatoria, Primeira Turma, sessão virtual de 29/09/2020 a 05/10/2020, DJe de 16/10/2020).
+Na espécie, correto o aresto regional ao fixar o termo inicial do benefício assistencial a partir da citação, sob o seguinte fundamento (e-STJ fl. 227):
+O termo inicial do beneficio merece ser mantido na data da citação, uma vez que o requerimento fora apresentado em 2006 e ajuizamento da ação em 2014, não restando demonstrada a incapacidade total e definitiva neste período.
+Dessa forma, verifica-se que o Tribunal de origem decidiu a questão ora ventilada com base na realidade delineada à luz do suporte fático-probatório dos autos, cuja revisão é inviável no âmbito do recurso especial diante do óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. PRINCÍPIO DA EFETIVIDADE. VIOLAÇÃO. NÃO OCORRÊNCIA. INCAPACIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. ANÁLISE. PREJUÍZO.
+1. Não há violação Do princípio da efetividade quando o Tribunal a quo aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal.
+2. Hipótese em que o Tribunal de origem, pautado no conjunto probatório dos autos, considerou indevida a concessão de benefício assistencial, tendo em vista a falta de comprovação da incapacidade, cuja inversão do julgado demandaria o reexame de prova, inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. A análise do dissídio jurisprudencial resta prejudicada quando não é possível o conhecimento do recurso diante do óbice processual referido.
+4. Agravo interno desprovido.(AgInt no AREsp n. 1.512.053/MS, de minha relatoria, Primeira Turma, julgado em 8/9/2021, DJe de 14/9/2021.).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL DE PRESTAÇÃO CONTINUADA. INCAPACIDADE PARA A VIDA INDEPENDENTE. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Cuida-se de pedido de concessão do benefício assistencial de prestação continuada por ser portador de Lupus Eritematoso Disseminado, doença crônica e autoimune.
+2. Para efeito de concessão do benefício de prestação continuada, considera-se pessoa com deficiência aquela que tem impedimento de longo prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.
+3. In casu, o Tribunal a quo entendeu que o menor, diante do conteúdo probatório dos autos, não padece, ao menos por ora, de deficiência.
+4. É inviável analisar, diante do óbice da Súmula 7/STJ, a tese defendida no Recurso Especial no sentido de que o menor "possui doença autoimune de caráter definitivo, requerendo tratamento contínuo (no sentido de amenizar os sintomas e recidivas), com acompanhamento médico e medicamentoso, e a limitação do desempenho de atividade escolar revelada pelos professores da instituição de ensino". Isso porque, para afastar a conclusão adotada pela Corte de origem, no sentido de que não foi comprovado o direito ao benefício assistencial na data do requerimento administrativo, seria indispensável novo exame do acervo fático-probatório dos autos.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.943.854/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/10/2021, DJe de 4/11/2021.).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
