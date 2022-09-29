@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado por EUREKA INDÚSTRIA E COMÉRCIO LTDA.contra decisão que negou seguimento ao recurso especial, nos termos do art. 1.030, I, "b", do CPC, por entender que o acórdão recorrido decidiu a questão da atribuição de efeito suspensivo aos embargos à execução fiscal em conformidade com precedente obrigatório formado no julgamento do Recurso Especial repetitivo 1.272.827/PE (Tema 526), assentando, ainda, a inadmissibilidade do apelo nobre, pelo óbice da Súmula 7 do STJ, na parte em que se discute se foram preenchidos os requisitos legais para aplicação do efeito suspensivo.
+Passo a decidir.
+Do que se observa, o fundamento condutor adotado na decisão agravada é o de que o acórdão recorrido está em sintonia com o precedente obrigatório desta Corte Superior, REsp 1.272.827/PE - Tema 529,segundo o qual a atribuição de efeito suspensivo aos embargos do devedor fica condicionada ao cumprimento dos requisitos para a concessão da tutela provisória,sendo certo que a menção da aplicação da Súmula 7 do STJ também se refere a essa mesma questão.
+Ocorre que, de acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos. Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo ou de repercussão geral, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+Cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do apelo nobre, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo quefalar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Ante o exposto, com base no art. art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Sem honorários recursais (art. 85,§ 11, do CPC/2015)por ser o recurso oriundo de acórdão proferido em agravo de instrumento.
+Publique-se. Intimem-se.
