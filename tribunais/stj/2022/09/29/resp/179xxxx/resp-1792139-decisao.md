@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por MICRO EMPREENDIMENTOS IMOBILIÁRIOS LTDA. contra acórdão do Tribunal de Justiça de Santa Catarina, assim ementado (e-STJ fl. 697):
+AÇÃO DE REPARAÇÃO DE DANOS PROPOSTA EM FACE DO MUNICÍPIO DE BRUSQUE. CONSTRUÇÃO DE PONTE ESTAIADA QUE DESVALORIZOU A LOCAÇÃO DO POSTO DA AUTORA. PLEITO DE LUCROS CESSANTES ACOLHIDO. RECURSO DO MUNICÍPIO. PRESCRIÇÃO QUINQUENAL. AJUIZAMENTO DE AÇÃO ANTERIOR COM CAUSA DE PEDIR DIVERSA. PRAZO NÃO INTERROMPIDO. PREJUDICIAL EVIDENCIADA. APELO PROVIDO. PREJUDICADO O DA AUTORA.
+ ..
+INVERSÃO DOS ÔNUS SUCUMBENCIAIS. NÃO FIXAÇÃO DE HONORÁRIOS RECURSAIS. ENUNCIADO ADMINISTRATIVO 7 DO STJ.
+Defende o particular, preliminarmente, violação do art. 1.022, II, e 489, § 1º, IV, do CPC. No mérito, sustenta ofensa ao art. 202 do CC.
+Contrarrazões (e-STJ fls. 802/807).
+É o que importava relatar.
+Em primeiro lugar, registro que não há violação dos arts. 1.022, II, e 489, § 1º, IV, do CPC quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado, como no caso dos autos.
+O acórdão regional expressamente dispôs sobre o porquê de ter entendido não ser o caso de considerar a interrupção da prescrição com o ajuizamento anterior. Argumentou que o primeiro feito externava causa de pedir divergente, e, portanto, não figuraria como marco interruptivo do lustro.
+Ou seja, a decisão recorrida enfrentou diretamente a controvérsia dos autos, pelo que queria a parte embargante, quando da oposição dos aclaratórios, tão somente rediscutir os fundamentos do acórdão no trechoque lhe foi desfavorável, não se prestando aquele recurso a essa função.
+Nesse mesmo sentido: EDcl no AgInt no AREsp 1265177/SP, Rel. Ministro MANOEL ERHARDT, DESEMBARGADOR CONVOCADO DO TRF5, PRIMEIRA TURMA, julgado em 28/03/2022, DJe 30/03/2022; EDcl no AgInt no REsp 1896032/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/09/2021, DJe 10/09/2021; EDcl no AgInt no RE nos EDcl no REsp 1823284/SP, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 08/09/2021, DJe 13/09/2021.
+Aliás, consoante a jurisprudência pacífica do Superior Tribunal de Justiça, o julgador não está obrigado a abordar ou a rebater, um a um, todos os argumentos ou todos os dispositivos de lei invocados pelas partes quando, por outros meios que lhesirvam de convicção, tenha encontrado motivação suficiente para dirimir a controvérsia,devendo, assim, enfrentar as questões relevantes imprescindíveis à resolução do caso (AgInt no AREsp n. 2.002.905/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/06/2022, DJe de 22/06/2022).
+Portanto, não verifico a alegada violação dos arts. 1.022, II, e 489, § 1º, IV, do CPC.
+No mérito propriamente dito, entendo que o recurso não pode ser conhecido.
+No caso, levando em consideração as premissas fáticas adotadas no acórdão recorrido, de fato, as causas de pedir das ações eram divergentes: na primeira ação os lucros cessantes foram reclamados sob a alegação de que houve queda no movimento de automóveis; nesta, ao fundamento de que houve decréscimo do valor dos aluguéis.
+Com isso, observo que o Tribunal de origem resolveu a lide em consonância com a jurisprudência consolidada nesta Corte, orientada no sentido de que, não constatada a identidade de partes e causas de pedir entre as ações, hábeis a caracterizar a ausência de inércia do titular do direito, não há como entender interrompida a prescrição.
+Confiram-se os seguintes julgados com esse teor: REsp n. 1.893.497/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/08/2021, DJe de 19/08/2021; AgInt no AREsp n. 1.674.649/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 30/08/2021, DJe de 08/09/2021; AgInt no AgInt no AREsp n. 1.936.605/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 21/03/2022, DJe de 24/03/2022.
+Portanto, aplicável ao caso o óbice da Súmula 83 do STJ.
+Além disso, concluir que não há diversidade de objetos entre as demandas, com pedidos e causa de pedir idênticos, ou que ambas as ações estariam relacionadas a um único fato (interrupção da avenida em que localizada o posto), como declinado na peça recursal, demanda imperiosa incursão nos elementos fáticos delineadas em cada uma das lides em cotejo, medida que atrai à hipótese o óbice inserto na Súmula 7 do STJ.
+Ante o exposto, CONHECER EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
