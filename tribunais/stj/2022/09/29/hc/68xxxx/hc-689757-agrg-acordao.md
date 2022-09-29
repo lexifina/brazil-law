@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. AGRAVO INTERPOSTO APÓS O PRAZO DE CINCO DIAS, PREVISTO NO ART. 39 DA LEI N. 8.038/1990 E NO ART. 258, CAPUT, DO RISTJ. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É intempestivo o agravo regimental interposto fora do prazo de 5 (cinco) dias corridos, nos termos dos arts. 39 da Lei n. 8.038/1990, 258, caput, do Regimento Interno do Superior Tribunal de Justiça, e 798, caput e § 3.º, do Código de Processo Penal.
+2. O entendimento do Superior Tribunal de Justiça está fixado no sentido de que, " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2017, DJe 22/02/2017).
+3. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por JOSE LUIS RICARDO contra decisão de minha lavra ementada nos seguintes termos (fl. 91):
+"HABEAS CORPUS. PROCESSUAL PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. TESE DE NÃO OBSERVÂNCIA DO PRAZO MÍNIMO DE 48 (QUARENTA E OITO) HORAS ENTRE A CIENTIFICAÇÃO E A DATA DE JULGAMENTO DO RECURSO. PLEITO DE NULIDADE DO JULGAMENTO DA APELAÇÃO. PRECLUSÃO. NÃO IMPUGNAÇÃO NA PRIMEIRA OPORTUNIDADE. ORDEM DE HABEAS CORPUS DENEGADA."
+Colhe-se nos autos que o Paciente, ora Agravante, foi condenado como incurso no art. 2.º, inciso II, da Lei n. 8.137/1990, por trinta e oito vezes, na forma do art. 71 do Código Penal, e no art. 1.º, incisos II e V, da mesma Lei, por duas vezes, na forma do art. 71 do Código Penal, às penas de 3 (três) anos e 10 (dez) meses de reclusão, em regime aberto, e 31 (trinta e um) dias-multa.
+Irresignada, a Defesa interpôs recurso de apelação, tendo o Tribunal de origem decidido nos seguintes termos (fl. 29):
+"julga-se extinta a punibilidade de José Luis Ricardo, de ofício, pela ocorrência da prescrição da pretensão punitiva estatal com relação ao crime do art. 2º, inc. II, da Lei 8.137/90, nos termos do art. 107, inc. IV, 1ª figura, art. 109, inc. VI, art. 110, § 1º, e art. 114, inc. II, todos do Código Penal, prejudicada a análise do mérito do recurso interposto no que tange a este delito. E, ainda, dá-se parcial provimento ao apelo interposto pelo réu, para alterar a reprimenda a ele imposta a 2 anos e 4 meses de reclusão e pagamento de 11 dias-multa, no piso, mantida, no mais, a r. sentença recorrida, por seus próprios e jurídicos fundamentos."
+Nas razões do writ, os Impetrantes afirmaram que a Corte de origem publicou em 18/08/2021 a inclusão da apelação interposta pela Defesa em pauta, para a realização do julgamento no dia seguinte (19/08/2021).
+Sustentaram que, segundo o entendimento dos Tribunais Superiores, deve ser observado o lapso temporal de 48 (quarenta e oito) horas de antecedência entre a publicação da pauta e a sessão de julgamento do recurso, segundo o previsto no art. 552, § 1.º, do Código de Processo Civil, c.c. o art. 3.º do Código de Processo Penal.
+Pugnaram pela concessão da ordem "para declarar nula a sessão de julgamento diante da inobservância do prazo entre a publicação da pauta e a sessão de julgamento, para que nova oportunidade seja concedida" (fl. 8).
+Na decisão de fls. 91-94, deneguei a ordem.
+Daí o presente regimental, no qual o Agravante reitera as razões da impetração e requer "seja provido o agravo para reforma da decisão e concessão da ordem reconhecendo de ofício a nulidade" (fl. 104).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. AGRAVO INTERPOSTO APÓS O PRAZO DE CINCO DIAS, PREVISTO NO ART. 39 DA LEI N. 8.038/1990 E NO ART. 258, CAPUT, DO RISTJ. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É intempestivo o agravo regimental interposto fora do prazo de 5 (cinco) dias corridos, nos termos dos arts. 39 da Lei n. 8.038/1990, 258, caput, do Regimento Interno do Superior Tribunal de Justiça, e 798, caput e § 3.º, do Código de Processo Penal.
+2. O entendimento do Superior Tribunal de Justiça está fixado no sentido de que, " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2017, DJe 22/02/2017).
+3. Agravo regimental não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O recurso não deve ser conhecido.
+Conforme a jurisprudência desta Corte Superior de Justiça, a entrada em vigor do novo Código de Processo Civil não alterou o prazo para a interposição de agravo contra decisão monocrática de relator em matéria penal. Portanto, nessa hipótese, está vigente o comando normativo contido no art. 39 da Lei n. 8.038/1990, ou seja, o prazo para a apresentação do aludido recurso é de 5 (cinco) dias corridos.
+Ademais, " ..  em ações que tratam de matéria penal ou processual penal, não incidem as novas regras do Código de Processo Civil - CPC, referentes à contagem dos prazos em dias úteis (art. 219 da Lei 13.105/2015), ante a existência de norma específica a regular a contagem do prazo (art. 798 do CPP), uma vez que o CPC é aplicado somente de forma suplementar ao processo penal" (AgRg no AREsp 981.030/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/02/2017, DJe 22/02/2017).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PETIÇÃO APRESENTADA APÓS O PRAZO DE CINCO DIAS. INTEMPESTIVIDADE. ARTIGOS 258 DO RISTJ E 39 DA LEI N. 8.038/90. INSURGÊNCIA NÃO CONHECIDA.
+1. É intempestivo o agravo regimental interposto após o decurso do prazo de cinco dias previsto no art. 258 do Regimento Interno do STJ.
+2. A entrada em vigor do Novo Código de Processo Civil não modificou o prazo para interposição de agravo das decisões do Relator em matéria penal, estando mantida a disposição contida no art. 39 da Lei n. 8.038/90.
+3. Na espécie, a Defensoria Pública foi pessoalmente intimada da decisão agravada em 15.03.2017, tendo o período recursal - 5 dias, contados em dobro - se exaurido aos 27.03.2017, ao passo que o presente regimental foi interposto apenas em 28.03.2017, ou seja, após o decurso do prazo regimental.
+4. Insurgência não conhecida." (AgRg no REsp 1.643.107/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/05/2018, REPDJe 28/05/2018, DJe 23/05/2018.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO EM DOBRO. INOCORRÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos, nos termos dos arts. 39 da Lei 8.038/90 e 258, caput, do RISTJ.
+2. A Terceira Seção desta Corte Superior firmou orientação no sentido de que "O agravo contra decisão monocrática de Relator, em controvérsias que versam sobre matéria penal ou processual penal, nos tribunais superiores, não obedece às regras no novo CPC, referentes à contagem dos prazos em dias úteis (art. 219, Lei 13.105/2015) e ao estabelecimento de prazo de 15 (quinze) dias para todos os recursos, com exceção dos embargos de declaração (art. 1.003, § 5º, Lei 13.105/2015)" (AgRg na Rcl 30.714/PB, Rel. Ministro Reynaldo Soares da Fonseca, Terceira Seção, julgado em 27/04/2016, DJe de 04/05/2016).
+3. No âmbito penal, não se aplica o prazo em dobro previsto no art. 183 do CPC/2015, cuja prerrogativa é conferida apenas à Defensoria Pública.
+4. Agravo regimental não conhecido." (AgRg no REsp 1.523.182/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/08/2018, DJe 17/08/2018.)
+No caso, a decisão recorrida foi publicada em 02/09/2022 (fl. 95), e o presente recurso foi interposto em 11/09/2022 (fl. 97), quando já havia escoado o prazo para a sua interposição.
+Dessa forma, o recurso é manifestamente intempestivo, uma vez que interposto fora do prazo de 5 (cinco) dias corridos, nos termos dos arts. 39 da Lei n. 8.038/1990, 258, caput, do Regimento Interno do Superior Tribunal de Justiça, e 798, caput e § 3.º, do Código de Processo Penal.
+Ante o exposto, NÃO CONHEÇO do agravo regimental.
+É como voto.
