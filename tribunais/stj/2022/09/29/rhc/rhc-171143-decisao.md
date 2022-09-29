@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por SACARIAS MELGAR SALVATIERRAcontra acórdão do Tribunal Regional Federal da 1ª Região(HC n.1019436-88.2022.4.01.0000).
+O recorrente teve sua prisão preventiva decretada em razão da suposta prática do crime previsto noart. 33, c/c o 40,I, da Lei n. 11.343/2006.
+Sustenta ausência de fundamentação idônea para a manutenção da prisão preventiva.
+Aponta a ilegalidade da prisão preventiva, pois afronta oprincípioda presunção de inocência.
+Aduz quea simples condição de estrangeironão pode ensejar ou justificar a decretação da prisão preventiva.
+Assevera que, nocaso, poderiam ser impostas medidas cautelares diversas da prisão.
+Requer a concessão da ordem para queseja determinada a revogação da prisão preventiva. Subsidiariamente, postula a aplicação de medida cautelar alternativa, nos termos do art. 319 do Código de Processo Penal.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso ordinário (fls. 628-632).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção dapreventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 563):
+2. A prisão preventiva do paciente está suficientemente motivada, em razão da gravidade concreta do crime, em que foi preso, com outros agentes, com 109 kg de substância análoga a cloridrato de cocaína e 123 kg de substância análoga à pasta base de cocaína, na condição de estrangeiro, oriundo da Bolívia, sem nenhuma ocupação lícita no distrito de culpa.
+Os julgados da Quarta Turma deste Tribunal, em consonância com a jurisprudência do Superior Tribunal de Justiça, entendem que a presença de um dos requisitos do art. 312 do CPP (assegurar a aplicação da lei penal), na prisão preventiva de estrangeiro, sem vínculo com o Brasil, é suficiente para motivar a prisão preventiva.  ..
+ ..
+3. É, ainda, legítima a segregação cautelar, com a finalidade de garantia da ordem pública, quando se constata a participação de agente, preso em flagrante, com elevada quantidadede droga, como se deu na hipótese, com a apreensão de 109 kg de substância análoga a cloridrato de cocaína e 123 kg de substância análoga à pasta base de cocaína, numa situação fática, segundo a decisão impetrada, mas dependente de certificação na instrução, que demonstra a gravidade da conduta investigada.  ..
+ ..
+Não há juntada nos autos de comprovante de residência e prova de ocupação lícita e residência fixa do acusado no distrito de culpa, não constando também certidões criminais negativas de sua vida pregressa.
+4. Os autos revelam a presença dos pressupostos para a manutenção do decreto de prisão preventiva, previstos nos artigos 282, I e II, § 6º e 312, do CPP. Por outro lado, o enredo fático e as condições pessoais do paciente não se enquadram na hipótese de imposição das medidas cautelares diversas da custódia combatida (art. 319/CPP).
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Note-seque a prisão cautelar foi decretada com fundamentação idônea, para garantia da ordem pública, haja vista a gravidade concreta do fato delitivo e a expressiva quantidade de droga apreendida, a saber,109kg decocaína e 123kg depasta-base de cocaína.
+Registre-se que "não há juntada nos autos de comprovante de residência e prova de ocupação lícita e residência fixa do acusado no distrito de culpa, não constando também certidões criminais negativas de sua vida pregressa" (fl. 566). Assim,a manutenção da custódia preventiva mostra-se necessária, não sendo suficiente a concessão de liberdade provisória ou de outra medida cautelar.
+A quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+O STJtem mantido a prisão preventiva de estrangeirosem vínculo com o Brasil, por tráfico internacional de drogas, pelo risco de evasão, por ser motivação suficiente a embasar a manutenção da custódia cautelar, ordenada também para garantir ainstrução criminal e a aplicação da lei penal (RHC n. 122.159/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 12/3/2020).
+Ademais, a prisão provisória não fere o princípio constitucional do estado de inocência, pois, por vezes, a restrição cautelar do indivíduo é necessária com o fim de resguardar o interesse da coletividade.
+Quanto à alegação de nulidade, a jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a tese de irregularidades na prisão em flagrante fica superada com a superveniência de novo título que justifica a segregação, a saber, o decreto de prisão preventiva (HC n. 498.555/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 19/8/2019).
+Inviáveis, portanto, as teses recursais suscitadas.
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
