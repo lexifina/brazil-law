@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido de liminar, interposto contra acórdão assim ementado (fl. 479):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. VIOLAÇÃO DE DOMICÍLIO POR OCASIÃO DO FLAGRANTE. SENTENÇA JÁ PROFERIDA. APELAÇÃO CRIMINAL JÁ INTERPOSTA. AMPLITUDE DA ANÁLISE DA MATÉRIA. INVIABILIDADE DE EXAME EM SEDE DE WRIT. Deve ser mantida a decisão monocrática que não conheceu do writ, em vista de que a matéria suscitada, demandando exame de provas e fatos, deve ser analisada em apelação, já interposta em proveito da paciente na ação penal. O writ não pode ser utilizado como substituição de recurso próprio. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO.
+Consta dos autos que o recorrente foi preso preventivamente, tendo sido acusado da prática do crime de tráfico de drogas. Ao final restou condenado, pelo mesmo crime, à pena de 5 anos de reclusão, em regime fechado, mais o pagamento de 500 dias-multa.
+Sustenta a defesa, em suma, ilegalidade na condenação do réu, posto que baseada em provas colhidas em indevido ingresso policial em sua residência, apontando que esta não se deuem situação de flagrância, em cumprimento de mandado judicial ouautorizada pelo sentenciado.
+Requer, liminarmente e no mérito, o reconhecimento da inconstitucionalidade da entrada policial na residência do recorrente, com a anulação da provas colhidas no contexto.
+A liminar foi indeferida. As informações foram prestadas e o Ministério Público Federal ofertou parecer, manifestando-se pelo não conhecimento dowrit.
+Conforme observado pelo Ministério Público Federal em seu parecer, a matéria posta nos presentes autos não foi conhecida pelo Tribunala quo, conforme cópia do acórdão às fls. 474-482,de forma que o exame desta perante o Superior Tribunalde Justiça resta inviabilizado, sob pena de ocorrência de indevida supressão de instância.
+Além disso, em análise ao acórdão recorrido verifica-se que a defesainterpôs apelação na origem, a qual se encontra pendente de julgamento, sendo prematura, dessa forma, a apreciação da questão por esta Corte neste momento, em sede de recurso emhabeas corpus. A esse respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. INDEFERIMENTO DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTO VÁLIDO. REITERAÇÃO DELITIVA E FUGA. DEMAIS MATÉRIAS NÃO EXAMINADAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. PENDÊNCIA DE JULGAMENTO DE APELAÇÃO INTERPOSTA. AGRAVO IMPROVIDO.
+1. O direito de recorrer em liberdade foi indeferido com respaldo nas circunstâncias do caso, extraindo-se da pena-base que o paciente ostenta maus antecedentes, bem como que permaneceu foragido ao longo da ação penal, inexistindo ilegalidade a ser sanada.
+2. Teses não apreciadas pelo Tribunal de origem não podem ser conhecidas diretamente por esta Corte Superior, sob pena de indevida supressão de instância. No mais, constata-se a interposição de apelação, recurso próprio à análise das aludidas alegações, as quais dependem de análise fático-probatória, a ser realizada pela instância ordinária.
+3. Agravo regimental improvido.(AgRg no HC n. 648.502/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 17/8/2021, DJe de 20/8/2021.)
+Ante o exposto, não conheço do recurso emhabeas corpus.
+Publique-se.
+Intimem-se.
