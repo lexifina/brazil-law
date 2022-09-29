@@ -1,0 +1,79 @@
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. ATO JUDICIAL PREVISTO NO ARTIGO 328, PARÁGRAFO ÚNICO, DO RISTF. IRRECORRIBILIDADE. AGRAVO INTERNO NÃO CONHECIDO. DEVOLUÇÃO DO FEITO À ORIGEM.
+
+    Decisão: Trata-se de agravo interno interposto pelo Ministério Público Federal em face de decisão da eminente Ministra Rosa Weber, minha antecessora na relatoria do presente feito, que, com fundamento no artigo 328, parágrafo único, do RISTF (na redação da Emenda Regimental 21/2007), determinou a devolução do feito para aplicação do Tema 998 (ARE 959.620/RG, Rel. Min. Edson Fachin).
+
+    Requer, em síntese, seja esclarecido que suspenso o presente recurso até julgamento final do Tema 998, também o seja o prazo prescricional, na forma do art. 116, I, do Código de Processo Penal.
+
+    É o relatório. DECIDO.
+
+    Ab initio, pontuo que a parte agravante se insurge quanto a decisão que determinou a devolução do feito para aplicação do Tema 998 (ARE 959.620/RG, Rel. Min. Edson Fachin) da repercussão geral.
+
+    A rigor, portanto, o presente recurso não merece conhecimento.
+
+    Com efeito, o ato judicial previsto no artigo 328, parágrafo único, do RISTF (na redação da Emenda regimental 21/2007), constitui mero procedimento, sem cunho decisório, contra o qual não cabe recurso. Destarte, além da ausência de previsão legal nesse sentido, o referido ato não se enquadra nas hipóteses de ato decisório ou sentencial previstas no artigo 203, § 1º e § 2º, do CPC/2015, in verbis:
+
+    “Art. 203. Os pronunciamentos do juiz consistirão em sentenças, decisões interlocutórias e despachos.
+
+    § 1º Ressalvadas as disposições expressas dos procedimentos especiais, sentença é o pronunciamento por meio do qual o juiz, com fundamento nos arts. 485 e 487, põe fim à fase cognitiva do procedimento comum, bem como extingue a execução.
+
+    § 2º Decisão interlocutória é todo pronunciamento judicial de natureza decisória que não se enquadre no § 1º.
+
+    § 3º São despachos todos os demais pronunciamentos do juiz praticados no processo, de ofício ou a requerimento da parte.
+
+    § 4º Os atos meramente ordinatórios, como a juntada e a vista obrigatória, independem de despacho, devendo ser praticados de ofício pelo servidor e revistos pelo juiz quando necessário.”
+
+    É firme a jurisprudência desta Suprema Corte no sentido da irrecorribilidade dos despachos que determinam a devolução dos autos à origem para a observância da sistemática da repercussão geral. Confiram-se, à guisa de exemplo, os seguintes julgados:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. REPERCUSSÃO GERAL RECONHECIDA. DESISTÊNCIA DO RECURSO PARADIGMA. FUTURA SUBSTITUIÇÃO. DECISÃO QUE DETERMINA A DEVOLUÇÃO DOS AUTOS À ORIGEM PARA OBSERVÂNCIA DO ART. 543-B DO CÓDIGO DE PROCESSO CIVIL. IDENTIDADE MATERIAL: IRRECORRIBILIDADE. PRECEDENTE. AGRAVO REGIMENTAL NÃO CONHECIDO.” (RE 784.034-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 24/6/2014)
+
+    “ATO DO RELATOR QUE, ADMITINDO O RECURSO EXTRAORDINÁRIO, DETERMINA A DEVOLUÇÃO DOS AUTOS RESPECTIVOS AO TRIBUNAL DE ORIGEM PARA QUE, NESTE, SEJA OBSERVADO O QUE DISPÕE O ART. 543-B DO CPC - ATO JUDICIAL QUE NÃO POSSUI CONTEÚDO DECISÓRIO NEM SE REVESTE DE LESIVIDADE – IRRECORRIBILIDADE - CONSEQÜENTE NÃO - CONHECIMENTO DO PRIMEIRO RECURSO DE AGRAVO - INCONFORMISMO DA PARTE INTERESSADA QUE DEDUZIU NOVO RECURSO DE AGRAVO (AGRAVO INTERNO), DESTA VEZ CONTRA A DECISÃO QUE NÃO CONHECEU DO PRIMEIRO RECURSO DE AGRAVO - IMPROVIMENTO DESSE NOVO RECURSO, COM DETERMINAÇÃO DE DEVOLUÇÃO IMEDIATA DOS AUTOS AO TRIBUNAL DE ORIGEM, INDEPENDENTEMENTE DA PUBLICAÇÃO DO ACÓRDÃO REFERENTE AO PRESENTE JULGAMENTO.” (AI 503.064-AgR-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 26/3/2010, grifei)
+
+    Noutro giro, destaco que no julgamento da Questão de Ordem suscitada no RE 966.177, o Plenário desta Corte concluiu, especificamente quanto à cogência do mandamento disposto no artigo 1.035, § 5º, do CPC/2015, que “a suspensão de processamento prevista no § 5º do art. 1.035 do CPC não consiste em consequência automática e necessária do reconhecimento da repercussão geral realizada com fulcro no caput do mesmo dispositivo, sendo da discricionariedade do relator do recurso extraordinário paradigma determiná-la ou modulá-la”.
+
+    Com efeito, como aduzi no voto que proferi na ocasião do julgamento, é imperioso que caiba ao relator dispor, discricionariamente, acerca da possibilidade de sobrestamento, sob pena de se sobrepor a aplicação do instituto a valores outros que também possuem fundamento constitucional. Quanto à suspensão do prazo prescricional, consignei o seguinte:
+
+    “É de se reconhecer, contudo, por exclusão, que não há, no ordenamento jurídico nacional, previsão expressa para a suspensão do prazo prescricional incidente nas ações penais que, por decisão do relator do recurso extraordinário paradigma, tiverem sido sobrestadas em virtude da sistemática da repercussão geral constitucional. Neste contexto, é preciso que esta Corte explicite os limites aos quais esse mecanismo, criado para a propagação da celeridade processual e uniformização das decisões judiciais, será submetido, sob pena de violação de outros princípios de igual estatura constitucional, o que afrontaria os postulados da unidade e da concordância prática das normas constitucionais (CANOTILHO, José Joaquim Gomes. Direito constitucional e teoria da Constituição. Coimbra: Almedina, 7ª Edição, 2003, p. 1.183-1.186). O que se propõe, para tanto, diante da sobredita ausência de previsão expressa quanto à suspensão do prazo prescricional no âmbito dos processos criminais sobrestados, é que se aplique a técnica hermenêutica da interpretação conforme a Constituição para que se proceda a uma interpretação da hipótese fático-processual trazida pelo art. 116, I, do CP – justamente uma das causas de suspensão da prescrição já reconhecidas pelo legislador pátrio – que se afigure como compatível com as demais normas consagradas na Constituição Federal no que pertine ao exercício do poder punitivo estatal, viabilizando a compreensão de que a hipótese cogitada já se encontra compreendida no âmbito de incidência da regra já expressa. Ou seja, em suma, não se trata de criar nova hipótese de suspensão de prazo prescricional até então não prevista em lei, mas sim de compreender, a partir de um legítimo exercício de hermenêutica constitucional, que a hipótese de suspensão de prazo prescricional ora cogitada já se encontra prevista no ordenamento.
+
+    […]
+
+    À guisa de conclusão, faz-se necessário que se interprete o art. 116, I, do CP conforme a Constituição, para o fim de se entender que a suspensão do prazo prescricional para resolução de questão externa prejudicial ao reconhecimento do crime abrange a hipótese de suspensão do prazo prescricional nos processos criminais com repercussão geral reconhecida, considerando que a resolução da questão concernente à repercussão geral é, também, prejudicial ao reconhecimento do crime cogitado na ação penal sobrestada.”
+
+    No debate que se seguiu à prolação do meu voto, esclareceu-se o alcance da conclusão supracitada, in verbis:
+
+    “O SENHOR MINISTRO RICARDO LEWANDOWSKI - E quanto à prescrição, como é que Vossa Excelência se manifesta?
+
+    O SENHOR MINISTRO LUIZ FUX (RELATOR) – Suspensa a prescrição... Suspenso o processo, fica suspensa a prescrição.
+
+    O SENHOR MINISTRO CELSO DE MELLO: Ordenada a suspensão processual, produz-se, ‘ipso facto’, a suspensão do lapso prescricional.
+
+    O SENHOR MINISTRO LUIZ FUX (RELATOR) - Fica sobrestado no momento em que os processos são suspensos.
+
+    O SENHOR MINISTRO CELSO DE MELLO: Pois não...
+
+    O SENHOR MINISTRO LUIZ FUX (RELATOR) - E sobrestados os processos.
+
+    O SENHOR MINISTRO CELSO DE MELLO: Determinada, pois, a suspensão do processo, sustar-se-á, desde então, a fluência do lapso prescricional.
+
+    O SENHOR MINISTRO LUIZ FUX (RELATOR) - É esta a tese.
+
+    O SENHOR MINISTRO CELSO DE MELLO: Tais consequências projetam-se sobre todos os procedimentos penais, inclusive sobre aqueles que objetivam a persecução de simples ilícitos contravencionais.
+
+    O SENHOR MINISTRO LUIZ FUX (RELATOR) - Isso.”
+
+    Como se vê, o Plenário desta Suprema Corte decidiu que a suspensão do prazo prescricional somente se opera quando o relator do recurso paradigma suspender, nos termos do § 5º do art. 1.035 do CPC, todos os processos sobre a mesma controvérsia. Nesse cenário, operar-se-ia automaticamente a suspensão da prescrição da pretensão punitiva relativa aos crimes que forem objeto das ações penais sobrestadas.
+
+    É de se dizer, ademais, que a medida de sobrestamento prevista no § 5º do art. 1.035 do CPC não se confunde com a medida de devolução dos autos à origem prevista no art. 328, parágrafo único, do Regimento Interno do STF (com referência ao art. 543-B do CPC de 1973, atual artigo 1.036 do CPC de 2015), a qual tão somente obsta a subida de recurso extraordinário ao STF na hipótese de haver múltiplos recursos com fundamento em idêntica controvérsia, mas não acarreta a suspensão do prazo prescricional das ações, nas quais a subida foi obstada, e nem impede a regular tramitação de ações que não tenham superado as instâncias ordinárias.
+
+    Diante desse quadro, em suma, é do relator do recurso extraordinário paradigma, e não deste relator, a competência para conhecer do pedido de suspensão do prazo prescricional formulado pelo ora agravante.
+
+    Ex positis, NÃO CONHEÇO do presente agravo e determino a DEVOLUÇÃO do feito à origem.
+
+    Publique-se.
+
+    Brasília, 29 de setembro de 2022.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
