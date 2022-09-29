@@ -1,0 +1,59 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por JOEL KAPPem face de acórdão do TJTO que negou provimento a sua apelação, mantendo a sentença que julgou improcedentes os pedidos de embargos à execução de título executivo extrajudicial, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS A EXECUÇÃO. TÍTULO DE CRÉDITO VÁLIDO. DESNECESSIDADE DE DILAÇÃO DA INSTRUÇÃO PROCESSUAL. PROVAS CONSTANTES NOS AUTOS SUFICIENTE AO CONVENCIMENTO DO MAGISTRADO.SENTENÇA MANTIDA.
+1- Conforme precedentes do STJ, Constantes dos autos elementos de prova documental su cientes para formar o convencimento do julgador, inocorre cerceamento de defesa se julgada antecipadamente a controvérsia.
+2- Ausência de nulidade da sentença.
+3- Como se sabe, a nota promissória é documento que formaliza a promessa de pagamento de dívidas. Estando preenchida corretamente e assinada, como é o caso dos autos, tem valor judicial, sendo legítima.
+4- Ausência de vícios.
+5- Recurso conhecido e não provido.
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, interposto com fundamento nas alíneasaecdo permissivo constitucional, a recorrente apontou, além do dissídio jurisprudencial, ofensa aos seguintes dispositivos: (i) arts. 489, § 1º, IV, e 1.022 do CPC, em razão da omissão do acórdão recorrido em apreciar as razões dos embargos de declaração; (ii) art. 406 do CC, pois impugnou os cálculos do recorrido que incluíram o cômputo de juros de 3% ao mês e após 1%; (iii)art. 294 do CC, alegando que a nota promissória não tem respaldo em negócio jurídico válido, o que poderia ser oposto ao cessionário do referido título de crédito; (iv) art. 290 do CC, sustentando que não foi informado da cessão de crédito, o que a tornaria inválida,e que, quando tomou conhecimento, noticiou ao cessionário a existência de vício que resultou na emissão da nota promissória; (v) art. 373, Ie § 1º, do CPC, argumentando que é necessária a inversão do ônus da prova, a fim de que o recorrido demonstre a origem da dívida, com a juntada de comprovantes da realização do negócio jurídico e a entrega da mercadoria; (vi) art. 355. I, do CPC, alegando que o julgamento antecipado da lide é exceção, e não regra; (vii) arts. 332 e 369 do CPC, afirmando que tinha direito de provar suas alegações de inexistência de causa subjacente à emissão da nota promissória por qualquer meio admitido em direito.
+Requer, ao final, o provimento do seu recurso especial para que seja anulado o acórdão, para o fim de possibilitar a inversão do ônus da prova, ou o imediato julgamento de nulidade da execução por ausência de causa subjacente à nota promissória, ou ainda, subsidiariamente, o reconhecimento da incidência indevida de juros.
+Contrarrazões ao recurso especial às fls. 272/278.
+É o relatório.
+Passo a decidir.
+O presente recurso merece ser parcialmente conhecido e, nessa extensão, desprovido.
+Quanto à apontada violação aos arts. 489, § 1º, IV, e 1.022 do CPC, nãohá nulidade por omissão, tampouco negativa de prestação jurisdicional, noacórdão que decide de modo integral e com fundamentação suficiente acontrovérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígiode forma suficientemente ampla e fundamentada, consignando que (a) o juízo do primeiro grau, no exercício de seu livre convencimento motivado, entendeu pela desnecessidade de produção de outras provas e pela possibilidade do julgamento antecipado;(b) o fato de a nota promissória ter sido emitida como caução não impede sua execução; e (c) eventual divergência sobre o real credor do valor descrito no título de crédito deveria ser questionada em outra via processual, mas não nos presentes embargos à execução.
+Como se vê, a negativa de prestação jurisdicional não restou configurada, pois omero inconformismo da parte com o julgamento contrário à pretensão daparte não caracteriza falta de prestação jurisdicional.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador nãoestá obrigado a se pronunciar acerca de todo e qualquer ponto suscitadopela parte, mas apenas sobre aqueles capazes de, em tese, infirmar aconclusão adotada pelo órgão julgador.
+Assim, inexiste violação aos arts. 489, § 1º, IV, e 1.022 do CPC.
+Por sua vez, a irresignação da parte recorrente quanto ao julgamento antecipado dos seus embargos à execução e o indeferimento do pedidode produção de outras provas nãomerece conhecimento, uma vez que elidir as conclusões do aresto impugnado, mormentequanto ao fato de que as provas constantes dos autos eram suficientes parao deslinde da questão, o que justifica o julgamento antecipado da lide,demandaria o revolvimento do conjunto fático-probatório dos autos, o queé vedado nesta sede especial a teor da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃODECLARATÓRIA E CONDENATÓRIA C/C REVISIONAL. CERCEAMENTO DE DEFESA.INEXISTÊNCIA. SUFICIÊNCIA PROBATÓRIA. SÚMULA 7/STJ. RAZÕES DISSOCIADAS DOSFUNDAMENTOS DO ACÓRDÃO. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS EINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ.INADMISSIBILIDADE. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA NÃO DEMONSTRADA. DECISÃOMANTIDA.
+ ..
+2. A jurisprudência do STJ é no sentido de que, sendo o juiz odestinatário da prova, à luz dos princípios da livre apreciação da prova edo livre convencimento motivado, o entendimento pelo julgamento antecipadoda lide não acarreta cerceamento de defesa.
+3. Alterar o decidido no acórdão recorrido, acerca da ausência decerceamento de defesa, por ter sido indeferida prova pericial, demandariao reexame de fatos e provas, o que não é permitido ante o óbice da Súmula7 desta Corte.
+ ..
+(AgInt no AREsp n. 2.021.821/SC, rel.Min. Nancy Andrighi,Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO POR DANO MORAL. INTERDIÇÃO (INTERRUPÇÃO) DO FORNECIMENTO DE GÁS EM RESIDÊNCIA. OCORRÊNCIA DE DANO, DE PRECLUSÃO E DE CERCEAMENTO DE DEFESA. REEXAME DE PROVAS. SÚMULA N. 7/STJ. PRESTAÇÃO JURISDICIONAL DEFICIENTE. NÃO OCORRÊNCIA.
+ ..
+4. O magistrado, se entender suficientes as provas existentes no processo e reputar dispensável a produção de outras provas, pode julgar antecipadamente o pedido, sem que isso implique cerceamento de defesa. Precedentes.
+ ..
+(AgInt no AREsp n. 1.743.654/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+De igual maneira, a alegação de necessidade de inversão do ônus probatório não merece conhecimento por também demandar o reexame dos fatos e provas dos autos, vedado pela Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVADA.
+ ..
+3. Rever o entendimento do Tribunal local, no sentido de verificar se o acervo probatório foi ou não suficiente para embasar o decisum atacado, se a parte autora trouxe ou não aos autos provas para demonstrar o fato constitutivo do direito alegado, e se estão presentes ou não os requisitos necessários para a inversão do ônus da prova, forçosamente ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ. Precedentes.
+ ..
+(AgInt no AREsp n. 2.098.730/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. NEGÓCIO JURÍDICO. FRAUDE MEDIANTE TRANSAÇÃO BANCÁRIA. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INVERSÃO DO ÔNUS DA PROVA. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+2. Reverter a conclusão do Colegiado estadual quanto à decisão de inversão do ônus da prova, para acolher a pretensão recursal, demandaria necessariamente o reexame do acervo fático-probatório dos autos, providência vedada no âmbito do recurso especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+ ..
+(AgInt no AREsp n. 1.877.476/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 20/9/2021, DJe de 23/9/2021.)
+No que importa às apontadas violações aos arts. 290 e 294 do CC, os dispositivos apontados como violados não contêmcomando normativo capaz de infirmar os fundamentos do acórdão recorrido a respeito da integridade da nota promissória que instrui a execução.
+De fato, referidos dispositivosnãoversam sobre títulos de crédito, como o é a nota promissória, que, via de regra,circulam por endosso e que têm a característica da autonomia e da abstração,e sim sobre a necessidade de notificação do devedore a oponibilidade de exceções pessoais na cessão de crédito.
+Desse modo, não é possível compreender de que forma o Tribunal de origemteria violado os dispositivos legais apontados, atraindo, por analogia, oóbice da Súmula 284/STF ("É inadmissível o recurso extraordinário, quandoa deficiência na sua fundamentação não permitir a exata compreensão dacontrovérsia").
+Igualmente, a parte recorrente não evidencia como teria sido violado o art. 406 do CC, limitando-se, a alegar,genericamente, que os cálculos apresentados pelo exequente foram impugnados e que teria havido o cômputo de juros de 3% ao mês e, após, 1% ao mês.
+Assim, a respeito dos juros moratórios, não demonstra como a citada previsão legal teria sido desrespeitada pelo acórdão recorrido, o que atraia aplicação da Súmula 284 do Supremo Tribunal Federal,pois prejudicada a compreensão da controvérsia suscitada em razão dadeficiência da fundamentação recursal.
+De fato, nos termos da jurisprudência desta Corte, "nas hipóteses em queas razões do recurso especial não veiculam a demonstração de como a normainfraconstitucional foi violada no caso concreto, incide o enunciado n.284 da Súmula do STF" (EDcl no AgRg no AREsp n. 592.788/TO, rel. MinistroMARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/9/2015, DJe de13/10/2015) e "onão atendimento quanto à argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Isso porque a controvérsia a ser tratada no recurso especial, sob a baliza da alínea "a" do art. 105, inc. III, da CFRB, respeita solver discussão quanto à contrariedade ou negativa de vigência perpetrada pelo tribunal a quo à legislação ou tratado federal em sua aplicação ao caso concreto" (AgInt no REsp n. 1.494.351/DF, rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/8/2020, DJe de 26/8/2020).
+Ante o exposto, CONHEÇO PARCIALMENTE e, nessa extensão, NEGO PROVIMENTO ao recurso especial.
+Com fundamento noart. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 5%, totalizando 17% sobre o valor da causa atualizado, observada a eventuale anterior concessão da gratuidade judiciária.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITOCIVIL E PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. TÍTULO EXTRAJUDICIAL. NOTA PROMISSÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÕES INEXISTENTES. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. JULGAMENTO ANTECIPADO DA LIDE. PRODUÇÃO DE OUTRAS PROVAS. INVERSÃO DO ÔNUS PROBATÓRIO. REEXAME DE FATOS. SÚMULA 7/STJ. ARTS. 290 E 294 DO CCC. CESSÃO DE CRÉDITO. RAZÕES RECURSAIS. COMANDO NORMATIVO DISSOCIADO. ART. 406 DO CC. ALEGAÇÕES GENÉRICAS. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
