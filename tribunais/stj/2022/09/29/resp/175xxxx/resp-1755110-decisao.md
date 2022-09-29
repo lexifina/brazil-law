@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo OMAR RACHID FATUC E OUTROS, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 30/11/2017.
+Concluso ao gabinete em: 27/09/2022.
+Ação: civil pública ajuizada pelo Instituto Brasileiro de Defesa do Consumidor - IDEC em face da instituição financeira, julgada procedente para condenar a instituição bancária a pagar as diferenças de percentual dos rendimentos da caderneta de poupança, atualmente na fase de cumprimento individual da sentença coletiva.
+Sentença:rejeitou a impugnação apresentada.
+Acórdão: reconheceu a ilegitimidade ativa e julgou extinto o cumprimento de sentença, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA MOVIDA PELO IDEC NO ESTADO DE SÃO PAULO CONTRA O BANCO HSBC S/A(BAMERINDUS). EFICÁCIA DA COISA JULGADA. LIMITE TERRITORIAL. ÓRGÃO PROLATOR DA SENTENÇA COLETIVA. ART. 16 DA LEI Nº 7.347/1985. ILEGITIMIDADE ATIVA DOS POUPADORES DOMICILIADOS NO PARANÁ. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. ART. 485, VI, DO CPC/15. FIXAÇÃO DA SUCUMBÊNCIA EMFAVOR DO BANCO. CIRCUNSTÂNCIA AUTORIZADORA DE PROVIDÊNCIA DE OFÍCIO POR ESTE COLEGIADO. RECURSO PREJUDICADO.
+1. A orientação fixada na jurisprudência do Superior Tribunal de Justiça está no sentido de que a decisão proferida no julgamento de Ação Civil Pública faz coisa julgada nos limites da competência territorial do órgão que prolatou. (AgRg no REsp 755.429/PR)
+2. Reconhecida a ilegitimidade ativa, impõe-se a extinção do processo, sem resolução de mérito, nos termos do art.485, VI, do Código de Processo Civil de 2015, com a condenação da parte autora ao pagamento dos encargos sucumbenciais.
+Recurso especial: alega violação dos arts. 543-C e 1.022 do CPC, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta, em síntese, a legitimidade ativa, em razão da competência territorial para julgamento da ação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568 do STJ
+A jurisprudência da Segunda Seção, no julgamento dos REsps n. 1.243.887/PR e 1.391.198/RS, submetidos à sistemática dos recursos repetitivos (art. 543-C do CPC/1973), consolidou o entendimento de que a sentença proferida na ação civil pública, a qual condenou determinado banco ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança, é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança daquela instituição financeira, independentemente de sua residência ou domicílio no órgão prolator, consignou, também, que os poupadores ou seus sucessores detêm legitimidade ativa - independentemente de fazerem parte ou não dos quadros associativos, no caso, do IDEC - de ajuizarem o cumprimento individual daquela sentença coletiva no órgão prolator ou em foro diverso deste.
+Dessa forma, o TJ/PR não se alinhou ao entendimento desta Corte. Aplica-se, portanto, a Súmula 568 do STJ
+Forte nessas razões e com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para cassar o acórdão recorrido e determinar o retorno dos autos ao Tribunal de origem, a fim que esse realize o julgamento do recurso, consoante a jurisprudência do STJ, restando prejudicada a análise das demais matérias.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. FORO COMPETENTE. ALCANCE OBJETIVO E SUBJETIVO DOS EFEITOS DA SENTENÇA COLETIVA. LIMITAÇÃO TERRITORIAL. IMPROPRIEDADE. REVISÃO JURISPRUDENCIAL. LIMITAÇÃO AOS ASSOCIADOS. INVIABILIDADE. OFENSA À COISA JULGADA.
+1. Ação civil pública decorrente de expurgos inflacionários das cadernetas de poupança.
+2. A sentença proferida na ação civil pública, a qual condenou determinado banco ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança, é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança daquela instituição financeira, independentemente de sua residência ou domicílio no órgão prolator, consignou, também, que os poupadores ou seus sucessores detêm legitimidade ativa - independentemente de fazerem parte ou não dos quadros associativos, no caso, do IDEC - de ajuizarem o cumprimento individual daquela sentença coletiva no órgão prolator ou em foro diverso deste. Precedentes.
+3. Recurso especial conhecido e provido.
