@@ -1,0 +1,12 @@
+DECISÃO
+ANTONIO DECIO DA CRUZ JUNIOR alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n.1500154-29.2019.8.26.0599.
+Consta dos autos que opacientefoi condenadoprática dos crimes previstos nos arts. 33, caput, e 35, caput, ambos c/c o art. 40, VI, todos da Lei n.11.343/2006.
+A defesa pretende, em síntese, a absolvição do paciente, tal como ocorreu com os demais acusados por ocasião do julgamento do HC n. 706.292 por esta Corte Superior de Justiça.
+Decido.
+Por ocasião do julgamento do HC n. 706.292 - impetrado nesta Corte em favor dos corréusWellington Jardim Costa, João Paulo Coelho da Silva, João Magno dos Santos Ferreira, Lucas Moreira e Edvando Gomes Santos -,concedi a ordem de habeas corpus, para, "considerando que não houve fundadas razões, tampouco comprovação de consentimento válido para o ingresso no domicílio dos pacientes, reconhecer a ilicitude das provas por tal meio obtidas, bem como de todas as que delas decorreram, e, consequentemente, absolvê-los em relação à prática dos crimes previstos nos arts. 33, caput, e 35, caput, ambos c/c o art. 40, VI, todos da Lei n. 11.343/2006, com fulcro no art. 386, II, do CPP (Processo n. 1500154- 29.2019.8.26.0599)".
+Com efeito, constato que o ora pacienteencontra-se em situação fático-processual idêntica à dos referidos corréus, porque, também em relação a ele, as duas únicas razões para o ingresso dos policiais no domicílio foram: a) existência de denúncia anônima acerca da possível prática de tráfico de drogas no local; b) fato de o crime de tráfico de drogas ser de caráter permanente, cujo flagrante se protrai no tempo.
+Assim, uma vez que, também em relação ao ora paciente, não houve fundadas razões, tampouco comprovação de consentimento válido para o ingresso no domicílio, deve ser reconhecida a ilicitude das provas por tal meio obtidas, bem como de todas as que dela decorreram.
+À vista do exposto, concedo a ordem, in limine,para absolver o paciente em relação à prática dos crimes previstos nos arts. 33, caput, e 35, caput, ambos c/c o art. 40, VI, todos da Lei n. 11.343/2006, com fulcro no art. 386, II, do CPP (Processo n. 1500154-29.2019.8.26.0599).
+Determino, por conseguinte, a expedição de alvará de soltura em favor do requerente, se por outro motivo não estiver ou não houver a necessidade de ser preso.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
