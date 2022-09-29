@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE SERRA REDONDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+APELAÇÃO CÍVEL DO MUNICÍPIO. INOBSERVÂNCIA DO PRAZO PARA RECORRER. INTEMPESTIVIDADE CONFIGURADA. RECURSO NÃO CONHECIDO.
+Quanto à controvérsia recursal, alega violação do art. 183 do CPC, no que concerne ao reconhecimento da tempestividade do recurso de apelação interposto pela parte recorrente, de modo que o acórdão recorrido deve ser reformado para que a apelação seja conhecida pelo Tribunal de origem, trazendo os seguintes argumentos:
+O Acórdão recorrido, data máxima vênia, incorre em grave equívoco ao determinar intempestiva a apelação interposta pelo município de Serra Redonda, pois o referido recurso foi interposto tempestivamente, tendo em vista que o sistema tomou ciência da Sentença apenas em 19/10/2021, e como no caso em comento a edilidade conta com prazo em dobro, o termo ad quem foi no dia 02/12/2020, dia em que a apelação foi de fato protocolada. Assim, a apelação apresentada, em verdade, encontra-se tempestiva (fl. 314, grifo meu).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia recursal, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Verifica-se, ao compulsar os autos, que o Município de Serra Redonda foi intimado da Sentença em 14.08.2020, com prazo findo em 29.09.2020.
+É cediço que o lapso temporal para o manejo do Recurso Apelatório, para a Fazenda Pública, conta-se em dobro. Portanto, seriam 30 dias úteis para a interposição da respectiva peça de insurreição.
+Contudo o protocolo de Apelação está datado no dia 02.12.2020, ou seja, após a expiração do lapso temporal (fl. 292, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
