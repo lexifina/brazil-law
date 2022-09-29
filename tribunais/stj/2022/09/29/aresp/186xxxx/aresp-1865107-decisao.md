@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial, em razão daincidência das Súmulas211 do STJ,282 e356 do STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fls. 399-400):
+DIREITO ADMINISTRATIVO E CIVIL. ACIDENTE DE TRÂNSITO. DNIT. ASSOCIAÇÃO DE PROPRIETÁRIOS DE VEÍCULOS. ILEGITIMIDADE ATIVA AD CAUSAM. ATIVIDADE SIMILAR A DE SEGURADORA. AUSÊNCIA DE AUTORIZAÇÃO. OBJETO ILÍCITO.
+Embargos de declaração rejeitados.
+No recurso especial, o recorrente alega ofensados seguintes dispositivos:artigo 5º, incisos XVII e XVIII da CF/88,778, inciso IV do CPC e 346, inciso III do Código Civil.
+O recorrente ressalta quea atividade da associação consiste na proteção veicular não sendo vedada por lei, conforme Enunciado n. 185 da III Jornada de Direito Civil do Conselho da Justiça Federal: "A disciplina dos seguros do Código Civil e as normas da previdência privada que impõem a contratação exclusivamente por meio de entidades legalmente autorizadas não impedem a formação de grupos restritos de ajuda mútua, caracterizados pela autogestão."
+Com contrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Em suma, a Corte de origem reconheceu a ilegitimidade ativa da ora recorrente, reputando como ilícita a relação existente entre o associado, dono do veículo acidentado, e a referida Associação, razão pela qual compreendeu não haver sub-rogação desta nos direitos reparatórios do associado, o que gerou, por via de consequência, o reconhecimento da ilegitimidade ativa ad causam da associação para figurar no polo ativo da ação.
+Insta destacar em relação ao artigo 5º, incisos XVII e XVIII da CF/88,não cabe ao Superior Tribunal de Justiça o exame de eventual ofensa a dispositivos da Constituição Federal de 1988, por meio do recurso especial,sob pena de usurpação da competência reservada ao Supremo Tribunal Federal.
+A pretensão do ora agravante mostra-se inadmissível, pois o recorrente não impugnou o fundamento do acórdão recorrido, consubstanciado na aplicação do artigo 757, parágrafo único, do Código Civil, segundo o qual, ao disciplinar o contrato de seguro, é expresso em exigir a autorização legal para que pessoa possa figurar como seguradora (fl. 410). Essa situação enseja a aplicação da Súmula 283/STF.
+A referida fundamentação, por si só, mantém o resultado do julgamento e a sua não impugnação implica inadmissão do recurso especial.
+Por fim, no tocante ao alegado dissídio jurisprudencial, ressalta-se que, segundo entendimento desta Corte, a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Nesse sentido:
+AGRAVO INTERNO. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. SEGURO DE VEÍCULO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADA. ILEGITIMIDADE PASSIVA. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO. SÚMULAS 283 E 284/STF. RESPONSABILIDADE INDENIZATÓRIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Não configura violação ao art. 1022 do CPC/2015 a decisão que examina, de forma fundamentada, todas as questões submetidas à apreciação judicial, circunstância que afasta a negativa de prestação jurisdicional..
+2. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.629.090/SP, Rel.Min.Maria Isabel Gallotti, Quarta Turma, julgado em 31/8/2020, DJe de 4/9/2020.)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO CIVIL PÚBLICA. SEGURO FACULTATIVO. VEÍCULO. DISPOSITIVOS TIDOS POR VIOLADOS. TEMAS NÃO DEBATIDOS NA ORIGEM. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS NºS 282 E 356 DO STF. AUSÊNCIA DE INDICAÇÃO DO ART. 535 DO CPC/73. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA Nº 283 DO STF. PUBLICAÇÃO DA SENTENÇA POR MEIO DE JORNAIS DE GRANDE CIRCULAÇÃO E DA INTERNET. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O requisito do prequestionamento estará atendido se a Corte de origem, conquanto não faça menção expressa aos dispositivos legais tidos por contrariados, tiver se manifestado acerca da questão jurídica apresentada no recurso especial.
+3. Existindo argumento capaz de manter o acórdão impugnado por suas próprias pernas, não havendo o ataque específico a tal ponto, colhe-se a incidência, por analogia, da Súmula nº 283 do STF.
+4. O NCPC estabeleceu a publicação de editais pela rede mundial de computadores como regra, constituindo-se na atualidade o meio mais eficaz da informação atingir um grande número de pessoas, mais eficiente do que a publicação em jornais impressos. Precedente.
+5. Em virtude do não provimento do presente recurso, e da anterior advertência quanto a aplicação do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp n. 1.342.981/SP, Rel.Min.Moura Ribeiro, Terceira Turma, julgado em 1/4/2019, DJe de 3/4/2019.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. DNIT. VIOLAÇÃO DE NORMA CONSTITUCIONAL. NÃO CABIMENTO. USURPAÇÃO DE COMPETÊNCIA DO STF. ASSOCIAÇÃO DE PROPRIETÁRIOS DE VEÍCULOS. ILEGITIMIDADE ATIVA AD CAUSAM. REVISÃO. IMPOSSIBILIDADE.FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
