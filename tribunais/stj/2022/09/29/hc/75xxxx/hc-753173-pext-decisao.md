@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de pedido de extensão protocolado por MARCEL MARTONI MICHETTI e THIAGO HENRIQUE DE MIRANDA MEDEIROSdos efeitos dadecisão proferida no presente recurso emhabeas corpusem favor de LUCIANO GOMES VIEIRA neste writ.
+Afirma o requerente que ostenta situação fática (jurídico-processual)absolutamente idêntica a do corréu beneficiado e pugna pela aplicação doart. 515do Código de Processo Penal Militar, a fim de rever os critérios da dosimetria da pena, relacionados ao duplo aumento pela desvaloração do vetor da personalidade.
+É o relatório.
+Decido.
+Nos termos do art. 515do Código de Processo Penal Militar, devem ser estendidosaos demais corréus os efeitos de decisão que beneficia um dos acusados,desde que demonstrada a similitude fática e processual.
+In casu, verifica-se que a dosimetria da pena dos requerentes observou os mesmos critérios empregados na dosimetria da pena do corréu beneficiado.
+Constatou-sena decisão concessiva da ordem emfavor de LUCIANO GOMES VIEIRA que ovetor personalidadefoi desvalorado em razão de o crime ter sido cometido de forma covarde e fria e, ainda, em função do grau hierárquico do paciente na Polícia Militar, fundamentos que não se relacionam com aspectos psicológicos e morais, que norteiam a personalidade,evidenciando-se a existência de similitude fática,apta a justificar a aplicação do disposto no art. 515do CPPM.
+No caso do requerente MARCEL MARTONI MICHETTI, em que a pena fixada foi exatamente a mesma, considerando que os mesmos possuem o mesmo grau hierárquico,deve ser decotado o acréscimo de 16 meses na pena base, a qual vai aplicada em 2 anos e 8 meses. Sem causas a serem valoradas na fase intermediária, a pena vai aumentada em 1/6, em razão da incidência da causa de aumento de pena prevista no inciso I do § 4º do artigo 1º da Lei nº 9.455/97, restando finalizada em 3 anos, 1 mês e 10 dias de reclusão, em regime aberto.
+No caso do requerente THIAGO HENRIQUE DE MIRANDA MEDEIROS, verifico que a pena foi fixada em 5 anos, 10 meses e 20 dias de reclusão,deve ser decotado o acréscimo de 32meses na pena base, a qual vai aplicada em 3anos, 2meses e 20 dias. Sem causas a serem valoradas na fase intermediária, a pena vai aumentada em 1/6, em razão da incidência da causa de aumento de pena prevista no inciso I do § 4º do artigo 1º da Lei nº 9.455/97, restando finalizada em 3 anos, 9mesese 3dias de reclusão, em regime aberto.
+Verifica-se, ainda, que o sargento Cézar Rodimar Roque encontra-se na mesma situação processual que o ora requerente sargento Thiago, motivo pelo qual deve ser a ele, também, aproveitar a presente decisão.
+Diante do exposto,defiro o pedido de extensãopara readequar as penas e regimes prisionais, nos termos da fundamentação.
+Publique-se. Intime-se.
