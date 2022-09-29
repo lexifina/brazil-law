@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de terceiros embargos de declaração opostos por LUCAS DONIZETTI REIS à decisão de fls.434/437, que rejeitou os segundos embargos tendo em vista seu caráter manifestamente protelatório, com aplicação de multa.
+Sustenta a parte embargante que:
+No caso, no momento de interposição do seu recurso, o embargante comprovou os feriados locais através de um print do próprio site do Tribunal de Justiça do Estado de São Paulo, que é gerido por funcionários públicos, possuindo presunção de veracidade, sendo assim idôneo e apto a comprovar o feriado.
+VI Por outro lado, não há que se falar em multa por reiteração do presente recurso por protelação. Ironicamente, o embargante que ingressou com o Recurso Especial em decorrência de violação às normas infraconstitucionais está novamente assistindo novas regras ordinárias serem transgredidas, desta vez pelo próprio tribunal que caberia respeitar e fazer respeitar as disposições constantes do ordenamento jurídico pátrio (fl. 440).
+ ..
+Ainda mais. Quando houve o primeiro despacho, o teor era de que não havia comprovação da ocorrência de feriados. Com a apresentação dos embargos de declaração, houve mudança, quando foi inserido que o recurso seria serôdio, uma vez que não teria havido comprovação através de documentos idôneos.
+Não resta dúvida que, se houve juntada de documentos fornecidos pelo E. Tribunal de Justiça do Estado de São Paulo, são eles idôneos e eficazes, lembrando que a lei apenas exige a comprovação, não importando a qualidade do meio empregado.
+Evidente, portanto, que não há que se falar em protelação, o recurso especial foi apresentado tempestivamente, houve comprovação, com base na lei, de que no judiciário do Estado de São Paulo, ocorreram feriados e a documentação acompanhou a solicitação, não havendo assim motivo para obstar o prosseguimento do pedido (fl. 441).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O ora embargante, mais uma vez, repisa todos os argumentos antes utilizados, insistindo na mesma tese e se utilizando, basicamente, das mesmas palavras, frases e conclusões apresentadas nos aclaratórios anteriores.
+Veja-se, como bem salientado na decisão de fls. 418/421, o STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Nesse sentido, AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+No caso, por não ter apresentado documento idôneo (fl. 225), no ato da interposição do recurso, é que não restou comprovada a suspensão do prazo recursal. Portanto, não houve modificação no fundamento, o recurso é intempestivo. Os embargos apenas explicaram que como não foi juntado documento idôneo, ele não foi considerado para a comprovação das suspensão do prazo recursal. Logo, não houve comprovação.
+A propósito, confira-se os recentes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE. RECURSO ESPECIAL. CALENDÁRIO DO JUDICIÁRIO. DOCUMENTO HÁBIL. NÃO CARACTERIZAÇÃO. EXPEDIENTE FORENSE. SUSPENSÃO. COMPROVAÇÃO. AUSÊNCIA. INDISPONIBILIDADE DO SISTEMA. ART. 224, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. PRAZO. PRORROGAÇÃO. HIPÓTESE. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. É intempestivo o recurso especial protocolizado após o prazo de 15 (quinze) dias, de acordo com o art. 1.003, § 5º, c/c art. 219, do Código de Processo Civil de 2015
+3. Eventual documento idôneo apto a comprovar a ocorrência de feriado local ou a suspensão do expediente forense deve ser colacionado aos autos no momento de sua interposição, para fins de aferição da tempestividade do recurso.
+4. A jurisprudência desta Corte Superior entende que a cópia de calendário editado pelo tribunal de origem não é hábil a ensejar a comprovação da existência de feriado local, visto ser necessária a juntada de cópia de lei ou de ato administrativo exarado pela Corte de origem comprovando a ausência de expediente forense na data em questão.
+5.  ..
+7. Agravo interno não provido.
+(AgInt no AREsp n. 1.884.599/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. FERIADO LOCAL OU SUSPENSÃO DE EXPEDIENTE FORENSE. COMPROVAÇÃO EXTEMPORÂNEA. IMPOSSIBILIDADE (ART. 1.003, § 6º, DO CPC/2015). CALENDÁRIO DO TRIBUNAL LOCAL. DOCUMENTO NÃO IDÔNEO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A Corte Especial do Superior Tribunal de Justiça, no julgamento do AREsp 957.821/MS, firmou o entendimento de que a comprovação da existência de feriado local deve ocorrer no ato de interposição do respectivo recurso, não se admitindo a comprovação posterior. Ficou consignado, ainda, que o entendimento construído à luz do CPC/1973 não subsiste ao CPC/2015 (AgInt no AREsp 957.821/MS, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, DJe 19.12.2017).
+2. ..
+5. A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que a comprovação da tempestividade do recurso deve ser realizada por meio de documentação idônea (cópia da lei, ato normativo ou certidão oficial do órgão de origem), não sendo suficiente a juntada de notícia ou calendário extraídos do sítio eletrônico do Tribunal ou a mera alegação de suspensão de prazo nas razões do recurso. Precedentes.
+6. Ademais, o juízo de admissibilidade do recurso especial é bifásico. O exame de admissibilidade realizado pela Corte local não vincula o STJ, que possui competência para verificar novamente a existência dos pressupostos dos recursos a ele dirigidos (AgInt no AREsp 1.973.028/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 17.6.2022).
+7.  ..
+8. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 2.071.823/AM, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 5/9/2022, DJe de 9/9/2022.)
+Assim, correta a decisão embargada, que rejeitou os segundos embargos de declaração, aplicando multa.
+Ainda, considerando tratar-se de terceiros aclaratórios em que se repete toda a argumentação já rejeitada anteriormente, evidente o seu manifesto caráter protelatório, razão pela qual a multa deve ser majorada para 10% sobre o valor da causa, na forma do art. 1.026, § 3º, do Código de Processo Civil, ficando a interposição de qualquer outro recurso condicionada ao seu prévio recolhimento.
+Diante do exposto, rejeito os embargos de declaração com majoração da multa.
+Publique-se. Intimem-se.
