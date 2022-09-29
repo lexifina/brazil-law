@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de incidente de distinção, nos termos do art. 1.037,§§ 9º e 10, do CPC/2015,apresentado por Rosa Maris Emer e outras em face da decisão monocrática às e-STJ fls. 972/976 que determinou a remessa dos autos à origem.
+As requerentes afirmam que o caso dos autos não deve retornar ao Tribunal de origem, porque no caso dos autos se discute a fixação do termo final de juros moratórios até o efetivo pagamento da dívida em face de determinação expressa do título exequendo. Asseveram que o Tema n. 810/STF, por sua vez, versa sobre a inconstitucionalidade do art. 1º-Fda Lei n. 9.494/1997 na parte que disciplina o índice dos juros moratórios e correção monetária aplicáveis a condenações da Fazenda Pública.
+É o relatório. Passo a decidir.
+A pretensão não merece acolhida.
+Reconhece-se a ocorrência de erro material na decisão às e-STJ fls. 972/976. Fez-se menção que o paradigma determinado no RE 870.947 (Tema 810 de Repercussão Geral) determina o retorno dos autos à origem. Porém, o precedente a ser decidido pelo STF em repercussão geral é, na verdade o Tema n. 1.170, que será definido nos autos do RE n. 1.317.982.
+Quanto ao pedido de distinção, em si considerado, oretorno dos autos não é consequente da controvérsia acerca da inconstitucionalidade do art. 1º-F da Lei n. 9.494/1997. Com efeito, o STF e o STJ jádeclararam quais são os índices devidos pela Fazenda Pública a título de correção monetária e de juros moratórios incidentes nas condenações a que lhe foram impostas.
+Como declarado pela parte requerente, o que se busca é a viabilidade da adoção dos critérios fixados em título judicial contra a Fazenda Pública. Ora, o STF, recentemente, reconheceu que essa matéria possui repercussão geral. Por essa razão, haverá exame de como os juros moratórios devem ser calculados quando o título judicial exequendo fixou índices diversos dos que deveriam ser aplicados. (TEMA 1.170, RE n. 1.317.982)
+Por essa razão, com razão a decisão que determinou o retorno dos autos à origem, pois julgado o tema e publicado o acórdão paradigma, o Tribunal de origem deverá negar seguimento aos recursos se o acórdão recorrido coincidir coma orientação do Tribunal Superior, ou então reexaminar o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a tese firmada em sede de repercussão geral ou recurso repetitivo, nos termos do art. 1040 do CPC/2015.
+Ante o exposto, indefiro o pedido de distinção.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE DISTINÇÃO. JUROS MORATÓRIOS. ÍNDICE A SER APLICADO NO CASO DOS AUTOS. TEMA DE REPERCUSSÃO GERAL RECONHECIDA. DEVOLUÇÃO DOS AUTOS À ORIGEM. PEDIDO INDEFERIDO.
