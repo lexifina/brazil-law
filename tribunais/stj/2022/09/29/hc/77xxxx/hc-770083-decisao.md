@@ -1,0 +1,23 @@
+DECISÃO
+Neste writ, no qual se aponta como órgão coator o Tribunal de Justiça de São Paulo (HC n. 2180276-26.2022.8.26.0000 - fls. 68/73), pretende-se, inclusive no âmbito liminar, a imediata revogação da prisão preventiva de Vitor Hugo Siqueira dos Santos no Processo n. 1517316-78.2022.8.26.0228 (fls. 43/45), em razão da suposta prática do crime de roubo simples, aos argumentos, em suma, de inexistência de fundamentação idônea no decreto prisional, de ausência dos requisitos legais autorizadores da custódia cautelar e de possibilidade da aplicação de medidas cautelares alternativas (art. 319 do Código de Processo Penal).
+Liminar indeferida (fls. 81/82), informações prestadas (fls. 87/88e 90/112), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 117/122).
+Sentença judicial acostada às fls. 105/107.
+É o relatório.
+A ordem merece ser concedida, contudo, não na moldura aqui pretendida. Explico.
+Colhe-se das informações prestadas pelas instâncias ordinárias que o Juízo de Direito da 3ª Vara Criminal da comarca de São Paulo/SP condenou o ora paciente, em 15/9/2022,como incurso no art.157, caput, do Código Penal, à pena de 4 anos de reclusão em regime inicial semiaberto, e 10 dias-multa, estes no mínimo legal, sendo descabidos o sursis ou a substituição da pena. Sendo determinada a expedição de ofício de recomendação, determinando sua imediata colocação no regime da condenação(fl. 87).
+Naquela oportunidade, o Magistrado singular consignou o seguinte (fls. 106/107 - grifo nosso):
+Isto posto, julgo a presente ação PROCEDENTE, para condenar Vitor Hugo Siqueira dos Santos, qualificado(a)(s) nos autos, como incurso(a)(s) no artigo 157, caput, do Código Penal, à pena de 4 anos de reclusão em regime inicial semiaberto, e 10 dias-multa, estes no mínimo legal, sendo descabidos o sursis ou a substituição da pena.
+Expeça-se ofício de recomendação, determinando sua imediata colocação no regime da condenação, prejudicada a alegação da defesa quanto à forma de prisão doravante.
+Custas pelo(a)(s) condenado(a)(s), na forma do artigo 4º, § 9º,a, da Lei nº 11.608/03, observando que a gratuidade decorrente da atuação da Defensoria Pública não exclui a responsabilidade final, nos termos do art. 98, §§ 2º e 3º da Lei n. 13.105/15, que modificou a Leinº 1.060/50, e que só se efetiva, por ser executada como dívida de valor, sobre o patrimônio do devedor, não implicando em nenhum risco à sua subsistência, podendo ser cobrada se demonstrada alteração de situação econômica.
+Pois bem. Do que restou exarado na sentença condenatória, vê-se que o Juízo de primeiro grau não se manifestou sobre amanutenção da prisão preventiva, em flagrante afronta à regra estabelecida no art. 387, § 1º, do Código de Processo Penal, in verbis (grifo nosso):
+Art. 387. O juiz, ao proferir sentença condenatória:
+ ..
+§ 1º. O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta.
+Nos casos de omissão, quando da prolação de sentença condenatória, a respeito da manutenção da segregação cautelar do sentenciado, a jurisprudência de ambas as Turmas que compõem a Terceira Seção desta Corte se alinhou no sentido de que a decisão deve ser mantida com a determinação de que o Juiz de piso supra a falha e manifeste-se expressamente sobre a questão, devendo proferir nova decisão sobre a necessidade da constrição cautelar, de modo a satisfazer os ditames constitucionais e legais. A propósito: HC n. 408.843/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 20/3/2018; HC n. 382.106/SP, Ministro Felix Fischer, Quinta Turma, DJe 12/6/2017; RHC n. 78.030/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 29/3/2017; HC n. 378.807/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/2/2017; e HC n. 337.962/ES, Ministro Nefi Cordeiro, Sexta Turma, DJe 11/3/2016.
+Ante o exposto, concedo a ordem dehabeas corpus para determinar que o Juízo de origem se manifeste fundamentadamente, no prazo máximo de 5 dias, sobre a necessidade da manutenção da segregação cautelar do sentenciado Vitor Hugo Siqueira dos Santos (ref. Ação Penal n. 1517316-78.2022.8.26.0228), nos termos do art. 387, § 1º, do Código de Processo Penal.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO SIMPLES. PRISÃO PREVENTIVA. TESE DE FUNDAMENTAÇÃO INIDÔNEA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. OMISSÃO SOBRE A MANUTENÇÃO DA CUSTÓDIA CAUTELAR. OFENSA À REGRA DISPOSTA NO ART. 387, § 1º, DO CPP.NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM. PRECEDENTES DESTA CORTE SUPERIOR.CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida nos termos do dispositivo.
