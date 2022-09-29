@@ -1,0 +1,20 @@
+DECISÃO
+TIAGO DE LIMA MENDES agrava da decisão que inadmitiu seu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Mato Grosso do Sul (Apelação Criminal n. 0017304-19.2011.8.12.0001).
+Nas razões do especial, a defesa apontou violação doart. 33, § 4º, da Lei n. 11.343/2006, sob o argumento de que "os autos são fartos em provar que TIAGO DE LIMA MENDES é primário e possuidor de bons antecedentes (cf. destacado em sentença), inexistindo qualquer prova de que o recorrente integra organização criminosa, ou que se dedica a atividades criminosas.Desse modo, está provado nos autos que o Recorrente preenche os requisitos do art. 33, § 4º, da Lei n. 11.343/2006 para manter, em sua dosimetria, a dita privilegiadora, no patamar fixado em sentença (1/3)" (fl. 333).
+Requer, ao final, o provimento do recurso, para que seja aplicado o redutor no patamar de 1/3, conforme feito na sentença.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fl. 426).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, motivos pelos quais passo à análise do recurso especial.
+No tocante ao patamar de redução de pena efetivada em decorrência daminorante prevista no § 4º do art. 33 da Lei n. 11.343/2006, constato queo Tribunal de origem entendeu devida a aplicação do redutor, mas modificou afração de sua incidência para1/5. Confira (fls. 315-316, destaquei):
+Feitas tais considerações, observo que inviável, no caso concreto, o afastamento do reconhecimento do tráfico privilegiado com base na própria conduta do agente, que é primário, a indicar atividade dedicação atividade criminosa com o transporte de 18 quilos e 240 gramas de maconha, considerando o volume de apreensão de droga no Estado.
+ .. .
+Embora a pena-base tenha sido fixada no mínimo legal, a quantidade de droga apreendida é suficiente para mais de mil e quinhentas porções individuais, sendo que é mais adequado ao caso proceder à redução da pena em 1/5.
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei de Drogas, "Nosdelitos definidos nocapute no § 1º deste artigo, as penas poderão serreduzidas de um sexto a dois terços, vedada a conversão em penasrestritivas de direitos, desde que o agente seja primário, de bonsantecedentes, não se dedique às atividades criminosas nem integreorganização criminosa".
+Assim, observa-se que o dispositivo legal estabelece apenas os requisitosnecessários para a aplicação da minorante nela prevista, deixando,contudo, de estabelecer os parâmetros para a fixação doquantumdediminuição de pena.
+Nesse sentido, tanto a Quinta quanto a Sexta Turmas deste SuperiorTribunal firmaram o entendimento de que, considerando que o legislador nãoestabeleceu especificamente os parâmetros para a escolha da fração deredução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devemser consideradas, para orientar o cálculo da minorante, as circunstânciasjudiciais previstas no art. 59 do Código Penal, especialmente o dispostono art. 42 da Lei de Drogas.
+Assim, uma vez que, no caso, ainstâncias de origem-dentro do seu livre
+convencimento motivado- fundamentou, com base em argumentosidôneos eespecíficos dos autos,o porquê da redução de pena no patamar de 1/5(quantidade de drogas apreendidas, que nem sequer foi sopesada na primeirafase da dosimetria, para fins de exasperação da pena-base), não identificoo apontado constrangimento ilegal de que estaria sendo vítima o paciente.
+Relembro, por oportuno, que o juiz, ao reconhecer a presença dos quatrorequisitos necessários ao reconhecimento da benesse em questão, não estáobrigado a aplicar o patamar máximo de redução de pena, já que possuiplena discricionariedade para, à luz das peculiaridades do caso concreto,efetivar a diminuição no quantum que entenda suficiente e necessário paraa prevenção e a repressão do delito perpetrado,tal como ocorreu no caso.
+Fica, então, mantida inalterada a reprimenda aplicada ao réu.
+À vista do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se e intimem-se.
