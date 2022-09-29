@@ -1,0 +1,18 @@
+DECISÃO
+RODRIGO CARDOSO VIANAalegasofrer coação ilegalem decorrência de acórdãos proferidos pelo Tribunal de Justiça do Estado da Bahiano Habeas Corpusn.8044949-26.2021.8.05.0000.
+A defesa busca, por meio deste writ, a concessão da ordem a fim de reconhecer "a omissão e determinar o célere julgamento, pela autoridade coatora, das teses apontadas nos embargos de declaração" (fl. 9).
+A liminar foi indeferida.
+O impetrante interpôs agravo regimental, o qual não foi conhecido por esta Turma em face de seu descabimento.
+O Ministério Público opinou pelo não conhecimento dowrit,mas pela concessão da ordem de ofício "tão somente para determinar que a Corte de origem se manifeste expressamente acerca dada temática posta" (fl. 85).
+Decido.
+No HC n. 739.554/BA, adefesa apontou ausência de motivação idônea para a manutenção da prisão preventiva na decisão de pronúncia, bem como excesso de prazo para o julgamento do feito pelo Tribunal do Júri.
+Naquela oportunidade, indeferi liminarmente owrit, em síntese, porquea tese defensiva relativa à ausência de motivação válida para a manutenção da cautela máxima na decisão de pronúncia não foi objeto de análise pelo Tribunal estadual, circunstância que impede a sua apreciação por esta Corte Superior, sob pena de atuar em indevida supressão de instância.
+Em seguida, a defesa opôs embargos de declaração perante o Tribunal estadual "por entender que a decisão foi omissa quanto à ausência de fundamentação, na decisão de pronúncia, quanto à manutenção da prisão preventiva" (fls. 5-6).
+Em 13/6/2022, a autoridade apontada como coatora "conheceu e rejeitou os novos embargos de declaração opostos pela defesa" (fl. 7), sem apreciar a tese suscitada.
+Assiste razão à defesaquanto ao alegado constrangimento ilegal, na medida em que esta Corte Superior só poderá analisar a tese relacionada à ausência de fundamentação da prisão preventiva na decisão de pronúncia após a expressa manifestação pelo Tribunal estadual, sob pena de supressão de instância.
+No mesmo sentido, opinou o Ministério Público (fls. 84-85, grifei):
+A despeito das conclusões da instância de origem, constata-se que, de fato, não houve pronunciamento acerca da alegada necessidade de revisão da prisão preventiva a cada noventa dias, nos termos do art. 316 do CPP.
+Esquadrinhando-se, notadamente, o acórdão de julgamento do habeas corpus propriamente dito, verifica-se que houve pronunciamento acerca do alegado excesso de prazo quanto ao julgamento do recurso em sentido estrito, bem como quanto à realização do julgamento pelo tribunal do júri (e-STJ, fls. 28-30), não havendo, assim, o enfrentamento da questão relativa à aplicação do art. 316, parágrafo único, do CPP.
+Embora não se vislumbre prejuízo ao paciente, uma vez que, na esteira de precedentes dessa Corte Superior, o prazo previsto no dispositivo referido não é peremptório,mostra-se cabível a concessão da ordem, no caso, tão somente para determinar que a Corte de origem se manifeste expressamente acerca da temática em questão. Por fim, registre-se também que, conquanto não seja necessário o pronunciamento do órgão julgador acerca de todas as teses defensivas, observa-se que, no caso, trata-se de alegação diretamente relacionada à liberdade de locomoção, o que demanda pronunciamento expresso, especialmente em observância ao direito à prestação jurisdicional.
+À vista do exposto, concedoa ordem para determinaraoTribunal estadual que se manifeste, expressa e concretamente,com urgência,sobre todas as teses esposadas pela defesa nos embargos de declaração opostos no habeas corpus originário.
+Publique-se e intimem-se.
