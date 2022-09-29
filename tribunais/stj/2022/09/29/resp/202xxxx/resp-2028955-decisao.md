@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso interposto por CEL-LEP Ensino de Idiomas S.A com base no art. 105, III, a, da CF,contra o acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 353):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA. DESCANSO SEMANAL REMUNERADO. INCIDÊNCIA.RECURSO NÃO PROVIDO.
+1. A definição do caráter salarial ou indenizatório das verbas pagas aos empregados não pode ser livremente atribuída ao empregador, o que impõe a análise acerca da natureza jurídica de cada uma delas, de modo a permitir ou não sua exclusão da base de cálculo da contribuição social em causa.
+2. Nem toda verba paga em razão do contrato de trabalho corresponde à efetiva prestação de serviços, sendo por vezes devida em razão de expressa disposição legal, e em decorrência do contrato de trabalho, como é o caso do descanso semanal remunerado, previsto no artigo 67 da CLT. Tal verba integra a remuneração, e não têm natureza indenizatória. Precedentes.
+3. Apelação não provida.
+Nas razões do recurso especial, a parte ora recorrente alega violação aos arts. 22, I, da Lei n. 8.212/91 e 67 da CLT. Aduz que não incide contribuição previdenciária sobre as verbas pagas a título de descanso semanal remunerado, tendo em vista que "a verba em questão é imposta por meio de determinação legal, a qual obriga o empregador à concessão de período de descanso ao trabalhador ("DSR"), com a sua devida indenização." (fl. 381) e "não há alternativa, portanto, senão classificar as importâncias pagas ou creditadas em contraprestação ao DSR como não-incidentes, haja vista que o seu pagamento não se submete à hipótese de incidência prevista no art.22 da Lei nº 8.212/91, ou seja, na categoria das verbas remuneratórias." (fl. 385).
+Ao final, requer que "o Recurso Especial seja admitido, conhecido e provido para reconhecer a inconstitucionalidade da exigência de contribuição previdenciária sobre os valores pagos ou creditados pela Recorrente a título de descanso semanal remunerado, reformar o acórdão recorrido de forma a conceder a segurança à Recorrente, determinando que a Fazenda Nacional se abstenha de exigir contribuição previdenciária patronal sobre a mencionada rubrica e autorizando a compensação dos valores indevidamente recolhidos a maior nos últimos cinco anos." (fl. 385).
+Recurso extraordinário interposto às fls. 357/371.
+Contrarrazões às fls. 406/413.
+Às fls. 484/486, foi determinada a devolução dos autos ao Tribunal de origem, a fim de que seja observado o disposto no Tema 20 do STF(art. 1.040, I e II, do CPC).
+Refutado o juízo de retratação (fls. 515/520), subiram os autos, então, ao Superior Tribunal de Justiça.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão não comporta guarida.
+É firme o entendimento desta Corte no sentido de que incide contribuição previdenciária sobre repouso semanal remunerado. Nesse sentido:
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉCIMO TERCEIRO.DÉCIMO TERCEIRO PROPORCIONAL AO AVISO PRÉVIO INDENIZADO.ADICIONAIS. NOTURNO, PERICULOSIDADE E INSALUBRIDADE.DESCANSO SEMANAL REMUNERADO. INCIDÊNCIA.
+1. O STJ, em sede de julgamento de recursos repetitivos, consolidou o entendimento de que a contribuição previdenciária incide sobre os adicionais noturno, de periculosidade e de insalubridade, bem como sobre o décimo- terceiro salário.
+2. As Turmas que integram a Primeira Seção do STJ sedimentaram a orientação de que incide contribuição previdenciária patronal sobre o décimo terceiro salário proporcional ao aviso prévio indenizado e sobre o descanso semanal remunerado. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.475.415/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19/10/2020)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. MANDADO DE SEGURANÇA.CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL AO AVISO PRÉVIO. INCIDÊNCIA. SÚMULA 83/STJ.
+1. "No julgamento dos Recursos Especiais repetitivos 1.230.957/RS e 1.358.281/SP, a Primeira Seção firmou a compreensão de que incide contribuição previdenciária patronal sobre as seguintes verbas: salário- maternidade, salário-paternidade, horas-extras, adicional de periculosidade e adicional noturno. No que tange às demais verbas (repouso semanal remunerado, adicional de insalubridade, férias gozadas e décimo terceiro proporcional ao aviso prévio indenizado), também é pacífico o entendimento do STJ quanto à incidência da contribuição previdenciária patronal.Precedentes:AgInt nos EDcl no REsp 1.693.428/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11.5.2018; AgInt no REsp 1.661.525/CE, Rel.Min. Regina Helena Costa, Primeira Turma, DJe 26.4.2018; REsp 1.719.970/AM, Rel. Min. Og Fernandes, Segunda Turma, DJe 21.3.2018; AgInt no REsp 1.643.425/RS, Rel. Min. Francisco Falcão, Segunda Turma, DJe 17.8.2017; AgInt nos EDcl no REsp 1.572.102/PR, Rel. Min. Og Fernandes, Segunda Turma, DJe 15.5.2017; AgRg no REsp 1.530.494/SC, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 29.3.2016; REsp 1.531.122/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 29.2.2016; AgRg nos EDcl no REsp 1.489.671/PR, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 13.11.2015;
+REsp 1.444.203/SC, Rel. Min. Humberto Martins, Segunda Turma, DJe 24.6.2014." (REsp 1.775.065/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2018).
+2. Agravo Interno não provido.
+(AgInt no REsp 1.921.297/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 01/07/2021)
+Encontrando-se o acórdão recorrido em consonância com a jurisprudência desta Corte, não prospera o presente recurso.
+ANTE O EXPOSTO, nego provimento ao recurso.
+Publique-se.
