@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso especial interposto por NOTRE DAME INTERMEDICA SAUDE S.A, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em:28/09/2021.
+Concluso ao gabinete em: 31/08/2022.
+Ação: cominatória, ajuizada por KATI REGINA FANTAUZZI BARBIERI, em face da recorrente, em razão de negativa de custeio de medicamento necessário para o tratamento da beneficiária.A autora afirma que é beneficiária do plano de saúde oferecido pela ré e foi diagnosticada com leucemia mieloide aguda, tendo realizado transplante de medula óssea em setembro de 2020. Em janeiro de 2021, apresentou reativação de citomegalovírus, tendo sido prescrito para tratamento o medicamento Valganciclovir. Em decorrência da pandemia de COVID-19, o tratamento foi prescrito para ser realizado em casa, o que foi negado pela ré, sob a alegação de que a medicação não está prevista no rol de procedimentos da ANS. Requer, em tutela antecipada, com posterior confirmação em sentença, que a ré preste cobertura integral ao tratamento da autora, garantindo o fornecimento do medicamento Valganciclovir e os demais prescritos pela equipe médica até a alta médica.
+Sentença: julgou procedentes os pedidos.
+Acórdão: negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+EMENTA: APELAÇÃO CÍVEL PLANO DE SAÚDE Negativa da seguradora em fornecer medicamento sob alegação de não constar no Rol da ANS Escolha de tratamento que cabe ao médico assistente e não à seguradora Exclusão de cobertura do fornecimento de medicamentos que não se aplica a procedimentos acolhidos pelo plano Inteligência da Súmula 102 deste E. TJSP Danos materiais corretamente reparados - Sentença mantida Recurso desprovido. (e-STJ, fls. 556)
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 10, I, e 12, II, da Lei 9.656/98, bem como dissídio jurisprudencial. Sustenta que não pode ser obrigada a custear medicamento expressamente excluído pelo contrato e não constante do Rol da ANS.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+Consoante previsão do art. 12, I, "c", da Lei 9.656/98, há a obrigatoriedade de cobertura de tratamentos antineoplásicos domiciliares de uso oral, incluindo medicamentos para o controle de efeitos adversos relacionados ao tratamento e adjuvantes.
+Na hipótese, a beneficiária foi diagnosticada com câncer (Leucemia Mieloide Aguda), tendo realizado transplante de medula óssea em setembro de 2020. Após o transplante seguiu em internação quando, em razão de imunossupressão intensa, apresentou reativação de citomegalovírus, sendo prescrito o tratamento com o medicamento Valganciclovir que, emdecorrência da pandemia de COVID-19, o foi prescrito para ser realizado em casa,sob pela de agravar seu quadro de saúde e ameaçar sua vida, tendo as instâncias ordinárias sido uníssonas ao determinar o custeio do medicamento.
+Dessa forma, o acórdão recorrido não destoa da jurisprudênciano âmbito da Segunda Seção do STJ,de que há obrigatoriedade de fornecimento de medicamento antineoplásico oral,incluindo medicamentos para o controle de efeitos adversos relacionados ao tratamentoe adjuvantes, como na hipótese dos autos. Precedentes: REsp 1.883.654/SP, 4ª Turma, DJe 02/08/2021; REsp 1.692.938/SP, 3ª Turma, DJe 04/05/2021; AgInt no REsp 1.911.407/SP, 3ª Turma, DJe 24/05/2021; AgInt no REsp 1.889.213/SP, 3ª Turma, DJe 29/10/2020. Ressalte-se, ainda, as decisões monocráticas recentes:AREsp 2144290/RJ, Ministra MARIA ISABEL GALLOTTI, DJe 26/09/2022;REsp 1938206/PR,Ministro ANTONIO CARLOS FERREIRA, DJe23/09/2022; e REsp 2018723/SP,Ministro LUIS FELIPE SALOMÃO,30/08/2022,AREsp 2135535/SC,Ministro MARCO BUZZI , DJe05/08/2022 .
+Forte nessas razões, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO COMINATÓRIA. CONTRATO DE PLANO DE SAÚDE. BENEFICIÁRIA EM TRATAMENTO PARA O CÂNCER. MEDICAMENTO ORAL. RECUSA INDEVIDA DE CUSTEIO.
+1. Ação cominatória ajuizada em razão de negativa de custeio de medicamento necessário para o tratamento da beneficiária (leucemia mieloide aguda).
+2. Consoante jurisprudência desta Cortehá obrigatoriedade de fornecimento de medicamento antineoplásico oral, incluindo medicamentos para o controle de efeitos adversos relacionados ao tratamentoe adjuvantes, como na hipótese dos autos. Precedentes.
+3. Recurso especial não provido.
