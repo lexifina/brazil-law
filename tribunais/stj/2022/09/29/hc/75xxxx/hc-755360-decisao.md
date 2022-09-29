@@ -1,0 +1,12 @@
+DECISÃO
+JAIMILSSON SIBALDO DA SILVA alega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado de São Paulo. O condenado aponta ser cabível o uso do habeas corpus para sanar excesso de prazo para análise do pleito de progressão de regime, formulado desde 11/1/2022. Requer a concessão da ordem, de modo a determinar-se a prestação jurisdicional pelo Juiz da VEC.
+Decido.
+Dar-se-á habeas corpus sempre que alguém sofrer ou se achar na iminência de sofrer violência ilegal na sua liberdade de ir e vir. O excesso de prazo para a resolução de incidentes que impactam o direito de locomoção pode ser sanado por meio do remédio constitucional, pois o condenado também tem o direito de receber a prestação jurisdicional dentro de um período razoável.
+No caso sob exame, é de rigor a concessão da ordem.
+A defesa peticionou ao Juiz das Execuções, em 11/1/2022, para requerer a progressão ao regime aberto. Conforme o Tribunal de origem, ainda não houve conclusão para a apreciação do pedido porque a Vara em questão "segue uma ordem cronológica para fins de apreciação dos pedidos" (fl. 30).
+Consoante informações prestadas pelo Juízo singular, em 9/8/2022, foi "determinada a atualização do cálculo" de penas do paciente "em 01/06/2022" e "com a elaboração do cálculo os autos serão remetidos ao Ministério Público para oferecimento de parecer" (fl. 59).
+Todavia, em consulta ao sítio eletrônico da Corte de origem, verifico que, no dia 28/5/2022, o Ministério Público apresentou manifestação e até o momento o feito não foi concluso para decisão. A situação de paralisação perdura.
+As Turmas que compõem a Terceira Seção são uníssonas em assinalar que o reconhecimento do excesso deve pautar-se sempre pelos critérios da razoabilidade e da proporcionalidade. Conforme a garantia prevista no art. 5º, LXXVIII, da CF/1988, a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+No caso, o sentenciado aguarda há quase 11 meses a análise do seu pedido de progressão de regime e não tem sequer previsão de exame pelo juízo competente, o que configura o constrangimento ilegal por excesso de prazo.
+À vista do exposto, concedo a ordem, para determinar ao Juízo da Vara de Execuções Criminais que proceda, com urgência, à apreciação do benefício pleiteado pela defesa, como entender de direito.
+Publique-se e intimem-se.
