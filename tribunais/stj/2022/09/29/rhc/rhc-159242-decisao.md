@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido de liminar, interposto por MARCIO WARLEY DE ALCANTARAcontra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferidono julgamento do HC n. 1.0000.21.259131-7/000.
+Consta nos autos que oRecorrentefoi presoem flagrante, em 08/09/2021, pela suposta prática do delito disposto no art. 33,caput, da Lei n. 11.343/2006, pois foi surpreendidocom "25,49g (vinte e cinco gramas e quarenta e nove centigramas) de cocaína e 2,10g (dois gramas e dez centigramas) de maconha" (fl. 267). O flagrante foi convertido em prisão preventiva no dia 10/09/2021, tendo o Magistrado singular destacado o risco concreto de reiteração delitiva doIncrepado, que já seencontravaem cumprimento de pena quando foi novamente preso (fl. 185).
+Irresignada, a Defesa impetrouhabeas corpusperante o Tribunal de origem, que denegou a ordem (fls. 265-272).
+Em suas razões, alegaoRecorrente, em suma,que, " e mbora presentes indícios de materialidade e também indícios oblíquos de autoria aptos à instauração do Inquérito Policial, não havia circunstâncias concretas de cautelaridade autorizadoras do cárcere preventivo, conforme especificado adiante"(fl. 283).
+Aduz carência de fundamentação da decisão que decretou a prisão preventiva, por ausência de demonstração dopericulum libertatise do risco à ordem pública.
+Requer, liminarmente e no mérito, o provimento do recurso para que seja revogada a prisão preventiva e, subsidiariamente, sejam aplicadasmedidas cautelares alternativas à prisão.
+O pedido liminar foi indeferido às fls. 298-299.
+As informações solicitadas foram prestadas às fls. 287-295 e 296-299.
+O Ministério Público Federal manifestou-se às fls. 302-308, opinando pelo desprovimento do recurso.
+É o relatório. Decido.
+Em consulta ao endereço eletrônico do Tribunal de origem, constatei que, no dia 1.º/09/2022, foi proferida sentença nos autos da ação penal em epígrafe, na qual oRecorrentefoi condenadocomo incursono art. 33,caput, da Lei de Drogas, às penas de 7 (sete) anos e 6 (seis) mesesde reclusão, em regime inicial fechado, e 749 (setecentos e quarenta e nove) dias-multa.
+O Juízo sentenciante negou aoApenadoo direito de recorrerem liberdade nos seguintes termos:
+"À vista das circunstâncias acima analisadas, considerando que o acusado, Márcio, permaneceu preso durante toda a instrução, ausente fato novo que concorra para a sua liberdade, ao contrário, a condenação recomenda ainda mais o seu acautelamento, destacando-se, inclusive, que o denunciado é reincidente em crimes dolosos, dentre eles o delito de tráfico de drogas, bem como que estava em cumprimento de pena, quando do cometimento do crime ora apurado, demonstrando, assim, o risco atual de sua liberdade para a sociedade e a possibilidade de que, solto, volte a delinquir, constata-se que permanecem presentes os motivos ensejadores da prisão do réu, nos moldes do art. 312, do Código de Processo Penal, restando indeferido, ao condenado, o direito de eventual recurso em liberdade"(sem grifos no original.)
+Assim, há novo título a respaldar a custódia cautelar doRecorrente, porque as razões anteriormente consignadas para legitimar a segregação, idôneas ou não, foramcomplementadaspelo superveniente fundamento, que ainda não foi objeto de análise pelo Tribunal impetrado.
+Explicite-se: a custódia cautelar, agora, decorre da decisão condenatória de primeiro grau, na qual o Juízo sentenciante deve se pronunciar sobre a necessidade da prisão preventiva, consoante a regra prevista no art. 387, parágrafo único, do Código de Processo Penal,in verbis: "Parágrafo único. O juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta".
+A verificação de eventual constrangimento ilegal, pelo desatendimento ao texto legal citado, por se tratar de novo título, em que foi agregada nova fundamentação, deve ser postulada perante a Corte competente. Não pode este Tribunal Superior se adiantar em tal análise, sob pena de indevida supressão de instância (Constituição da República, art. 105, inciso II, alíneaa).
+Nesse sentido,mutatis mutandis:
+" ..
+1.A partir da sentença, a prisão cautelar, se mantida, decorre de novo título judicial. Assim, é em face desse novo contexto que se deve indagar sobre os requisitos da segregação cautelar.
+2. Prevalece no âmbito da Sexta Turma desta Corte o entendimento no sentido de que constitui novo título a expedição de sentença condenatória que mantenha a custódia preventiva, mesmo que não lance mão de novos fundamentos para a manutenção daquela. Precedentes. (EDcl no RHC n. 78.448/MG, Sexta Turma, DJe 23/3/2017).
+3. Agravo regimental improvido." (AgRg no RHC 94.324/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/03/2018, DJe 03/04/2018; sem grifos no original.)
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA.SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA QUE AGREGA FUNDAMENTO AO DECRETO PRISIONAL PRIMITIVO. PREJUDICIALIDADE. .. . AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO, NESTA EXTENSÃO, DESPROVIDO.
+ ..
+2.In casu, da leitura dasentença condenatória, verifica-se que foram agregados novos fundamentosao decreto prisional primitivo, tendo em vista que mantida a segregação cautelar também em observação ao reconhecimento da responsabilidade criminal edevido ao fato do agravante ter permanecido preso durante toda a instrução processual.Os novos fundamentos devem ser submetidos perante ao Tribunal a quo antes de serem aqui analisados,sob pena de se incidir em indevida supressão de instância.
+ ..
+6. Agravo regimental parcialmente conhecido e, nesta extensão, desprovido."(AgRg no HC 604.548/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/12/2020, DJe 03/12/2020; sem grifos no original.)
+Ante o exposto, com fundamento no art. 34, inciso XX, do RISTJ, JULGO PREJUDICADO o pedido recursal.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE ENTORPECENTES. INSURGÊNCIA CONTRA A PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. MANUTENÇÃO DA SEGREGAÇÃO PROVISÓRIA. NOVO FUNDAMENTO NÃO EXAMINADO PELO TRIBUNAL IMPETRADO. IMPOSSIBILIDADE DE APRECIAÇÃO. PEDIDO RECURSALPREJUDICADO.
