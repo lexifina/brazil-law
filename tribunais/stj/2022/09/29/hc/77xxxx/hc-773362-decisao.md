@@ -1,0 +1,9 @@
+DECISÃO
+ALLAN DOMINGOS CARDOSO alega sofre coação ilegal em face de acórdão do Tribunal a quo.
+A impetrante se insurge contra a fraçãoutilizada para a progressão de regime doreincidentenão específicoem crime equiparado a hediondo e pede a retificação dos cálculos penais.
+Decido.
+No caso em exame, "trata-se de sentenciado reincidente não-específico em crime hediondo/equiparado"(fl. 41).
+Owritcomporta pronta solução, por decisão monocrática do relator, pois aTerceira Seção, em julgamento sob o rito dos recursos repetitivos (Tema n. 1.084), definiua tese de que é reconhecida aretroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019àqueles apenados que, embora tenham cometido crime hediondo ou equiparado, sem resultado morte, não sejam reincidentes em delito de natureza semelhante.
+Após reconhecer a repercussão geral da matéria, o Supremo Tribunal Federal, ao julgar oAgravo em Recurso Extraordinário n. 1.327.963/SP, também fixou o entendimento de que, "tendo em vista a legalidade e a taxatividade da norma penal (artigo 5º, XXXIX, CF), a alteração promovida pela Lei 13.964/2019 no artigo 112 da LEP não autoriza a incidência do percentual de 60% (inciso VII) aos condenados reincidentes não específicos para o fim de progressão de regime. Diante da omissão legislativa,impõe-se a analogiain bonam partem, para aplicação, inclusive retroativa, do inciso V do artigo 112 da LEP(lapso temporal de 40%) ao condenado por crime hediondo ou equiparado sem resultado morte reincidente não específico".
+À vista do exposto,concedoo habeas corpus,in limine, de modo a cassar o acórdão recorrido e estabelecer como percentual necessário para aprogressão de regimeem relação ao crime hediondo ou a outro, a ele equiparado, sem resultado morte,a exigência do cumprimento de 40% da pena, se não caracterizada a reincidência específica do paciente,devendo o Juiz da VEC retificar os cálculos penais.
+Publique-se e intimem-se.
