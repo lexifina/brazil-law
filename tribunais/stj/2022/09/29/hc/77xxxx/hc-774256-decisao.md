@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de HALLERRANDRA KELRY LANOUNIER RODOVALHO contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiásno RESE n.5308759-72.2021.8.09.0051.
+Extrai-se dos autos que aPaciente foi presaem flagrante em 21/06/2021, sendo convertida em prisão preventiva no dia seguinte,pela prática, em tese, do delito previsto no art. 121, § 2.º, incisos I,III e IV,c.c. o art. 29, doCódigo Penal. Segundo a denúncia, a Paciente, apesar de ser casada com a Vítima,passou a se relacionar amorosamente com um dosfuncionários do supermercado do casal, em razão disso a Acusada, juntamente com Corréu, resolveram por fim à vida da Vítima, que foi morta com violentas agressões, tentativa de sufocamento e diversos golpes de faca no pescoço do Ofendido (fls. 722-723).
+A denúncia foi recebida em 06/07/2021, sendoprolatada a sentença de pronúncia em 02/12/2021.
+A Defesa interpôs recurso em sentido estrito perante o Tribunal de origem,que negou provimento ao recurso em acórdão assim ementado(fl. 1592):
+"RECURSO EM SENTIDO ESTRITO. HOMICÍDIO. QUALIFICADO.NULIDADE. INTERROGATÓRIO. CERCEAMENTO DEFESA E VIOLAÇÃO CONTRADITÓRIO. NULIDADE. DECISÃO. PRONÚNCIA. PROVIMENTO.PRISÃO PREVENTIVA. NECESSIDADE. DEMONSTRADA. 1 - O interrogatório, como meio de defesa, implica a possibilidade de responder a todas, nenhuma ou a apenas algumas perguntas direcionadas ao acusado, que tem direito de poder escolher a estratégia que melhor lhe aprouver à sua defesa. 2 - Declara-se a nulidade do interrogatório quando o magistrado encerra a audiência prematuramente, sem oportunizar a formulação de perguntas pela defesa constituída, privando-o do direito de respondê-las, o que enseja violação ao exercício da defesa técnica e à autodefesa princípios do devido processo penal. 3 - Deve a decisão ser anulada para realização de novo interrogatório, prejudicada a análise dos méritos recursais. 3 - Devidamente fundamentado o decreto preventivo com arrimo em elementos concretos, conforme disposto no artigo 312 do Código de Processo Penal e não demonstrado nenhum fato novo, inviável a revogação da prisão.Recursos parcialmente providos."
+Nas razões do writ, o Impetrante alega a ocorrência deexcesso de prazo na formação da culpa, porque aPacienteestá presahá mais de 450 (quatrocentos e cinquenta) dias, sem previsão de encerramento do feito.
+Requer, em liminar e no mérito, a revogação da prisão da prisão preventiva e a expedição de alvará de soltura em favor da Paciente.
+É o relatório. Decido o pedido urgente.
+Quanto à tese de ocorrência de excesso de prazo na formação da culpa, observo que a questão suscitada não foi apreciada pelo Tribunal a quo, de modo que não pode ser conhecida originariamente por esteSuperior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. MODUS OPERANDI E PERICULOSIDADE DO AGENTE. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+4. A alegada ausência de contemporaneidade não foi apreciada pelo Tribunal de origem, de modo que o debate diretamente por esta Corte superior incorreria em indevida supressão de instância, inexistindo, desse modo, omissão a ser sanada.
+5. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento." (EDcl no HC 542.121/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. TESE DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA.PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
