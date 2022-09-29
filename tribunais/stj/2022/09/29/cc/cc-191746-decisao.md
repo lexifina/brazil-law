@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de conflito de competência em que é suscitante o Juízo de Direito da Vara Única de Ascurra/SC e suscitado o Juízo Federal da 1ª Vara de Itajaí/SC.
+Consta dos autos queperante o Juízo suscitante tramita inquérito instaurado para apurar condutasreferentes aos crimes,em tese, de usura, associação criminosa, sonegação fiscal e lavagem de dinheiro. Após diligências, surgiam indícios da prática de possíveis crimes contra a ordem tributária federal previstos na Lei n. 8.137/90.
+Nesse contexto, os autos foram encaminhados ao Juízo Federal ora suscitado, o qual, por sua vez, também afirmara sua incompetência, sob argumento de que,após ter acolhidomanifestação apresentada na origem pelo Ministério Público Federal, deferira o pedido de arquivamento em relação aos fatos que configuram crimes contra a ordem tributária em detrimento da administração federal.
+Recebidos os autos no Juízo Estadual, este reafirmousua incompetência, adotando as seguintes razões (e-STJ fl. 815):
+Com o devido respeito ao posicionamento exarado pela juíza federal da 1º Vara Federal de Itajaí/SC, entendo que a Justiça Federal é competente para investigar e apreciar em sua integralidade os fatos ora investigados, motivo pelo qual suscito o presente conflito negativo de competência.
+Isso porque não há que se falar em cisão processual quando presente evidente conexão objetiva probatória ou instrumental (art. 76 do Código de Processo Penal), caso dos autos, já que os delitos declinados, como a prática da usura, associação criminosa e lavagem de dinheiro, foram justamente o meio e a fonte utilizada para obtenção de valores ilícitos e que resultaram na necessidade de atuar de forma a realizar a sonegação tributária federal.
+Em regular trâmite, o Ministério Público Federal manifestou-se no sentido da competência do Juízo suscitado (e-STJ fls. 826-830).
+É o relatório. Decido.
+De início, conheço do presente conflito de competência, por tratar-se de incidente instaurado entre Juízos vinculados a Tribunais distintos, nos termos do art. 105, I, d, da Constituição da República.
+De acordo com o que consta dos autos, o declínio de competênciapor parte do Juízo Estadual ocorreu sob entendimento de que não seria caso de cisão processual, uma vez presente a conexão objetiva entre as condutas, a atrair a competência do Juízo Federal.
+Vê-se dos autos, entretanto, que não houve cisão processual, mas efetivo arquivamento da apuração acerca das condutas que atraem a competência da Justiça Federal. Para exata compreensão das circunstâncias em análise, convém a transcrição de trecho da decisão proferida em 2/8/2022 pelo Juízo suscitado (e-STJ fl. 800):
+01. incorporando as alegações do Ministério Público Federal à fundamentação da presente decisão, acolho o pedido de arquivamento em relação aos fatos que configurariam, em tese, crimes contra a ordem tributária em detrimento da administração federal, com a ressalva do disposto no art. 18 do Código de Processo Penal, notadamente se houver futura constituição de crédito tributário em face da determinação constante do tópico 02;
+É entendimento assente desta Corte Superior, conforme ressaltou o Ministério Público Federal em parecer ofertadonestes autos, que, uma vez arquivado o inquérito em relação ao crime a ser processado perante aJustiça Federal, os demais delitos eventualmente remanescentes devem ter curso na Justiça dos Estados.
+Confira-se:
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CRIMES CONTRA A ORDEM ECONÔMICA E TRIBUTÁRIA E LAVAGEM DE DINHEIRO. FRAUDES NO MERCADO DE COMBUSTÍVEIS. DECISÃO MONOCRÁTICA. OFENSA À COLEGIALIDADE. NÃO OCORRÊNCIA. CRIME DE DUPLICATA SIMULADA DE COMPETÊNCIA FEDERAL ARQUIVADO. COMPETÊNCIA ESTADUAL DOS DELITOS REMANESCENTES. NOVA DENÚNCIA. CONEXÃO. MATÉRIA ALHEIA AO FEITO. AGRAVO IMPROVIDO.
+1. A alegação de ofensa ao princípio da colegialidade fica superada pela submissão da matéria ao colegiado por meio do agravo regimental. Precedentes.
+2. Segundo o entendimento desta Corte, "arquivado o inquérito policial em relação ao delito de competência da Justiça Federal, não se justifica a manutenção da investigação na seara federal dos demais delitos conexos se os crimes remanescentes são de competência da Justiça Estadual" (CC 149.111/PR, relator Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 8/2/2017, DJe 13/2/2017).
+3. A propositura de nova ação penal que teria, em tese, em razão da conexão, o condão de deslocar a competência do feito a que se referem este autos para a Justiça Federal é matéria alheia ao presente conflito, não podendo ser, aqui, apreciada.
+4. Esta Corte não é competente para o julgamento de conflitos de competência entre juízos submetidos ao mesmo tribunal, nos termos do art. 105, I, d, da Constituição Federal, devendo qualquer controvérsia nesse sentido ser apresentada à Corte local.
+5. Agravo regimental improvido.
+(AgRg no CC n. 160.281/MG, relator Ministro Antonio Saldanha Palheiro, Terceira Seção, julgado em 13/3/2019, DJe de 25/3/2019.)
+Encontrando-se a questão ora em análise já solucionada pela Terceira Seção desta Corte Superior, é caso de fixar desde logo a competência do Juízo de Direito da Vara Única de Ascurra/SC para processamento e julgamento do feito.
+Ante o exposto,conheço do conflito e declaro competente o Juízo de Direito da Vara Única de Ascurra/SC, ora suscitante.
+Publique-se.
+Dê-se ciência aos juízos em conflito.
+Cientifique-se o Ministério Público Federal.
