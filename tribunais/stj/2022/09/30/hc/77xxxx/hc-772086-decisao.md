@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de ALEXANDRE MADALENA RODRIGUES contra decisão indeferitória de provimento urgente proferida pelo Desembargador Relator do HC n. 1.0000.22.208631-6/000, que tramita no Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o Paciente foi preso em flagrante delito no dia 08/07/2022, com posterior conversão em prisão preventiva (fls. 194-195), em razão da suposta prática do crime previsto no art. 37 da Lei n. 11.343/2006, pelo qual foi denunciado (fls. 28-31), pois, "ao perceber a aproximação da guarnição policial, gritou "sopa" para alertar os denunciados ÍTALO e BERNARDO sobre a presença policial, exercendo a função de olheiro do tráfico" (fl. 30).
+Objetivando a revogação da custódia, a Defesa impetrou prévio writ perante a Corte local. O Desembargador Relator do feito indeferiu a liminar no dia 02/09/2022 (fls. 13-15).
+Neste writ, a Parte Impetrante alega a ausência dos requisitos autorizadores da prisão preventiva.
+Assevera também que o Paciente é dependente químico, motivo pelo qual alega a necessidade de prisão domiciliar para a internação em clínica de reabilitação. Nesse ponto, ressalta que o Ministério Público estadual opinou favoravelmente ao pleito, de modo que a manutenção da prisão em estabelecimento prisional pelo Juízo de primeiro grau configura indevida atuação ex officio (fl. 253).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a imposição de medidas cautelares alternativas, ou a concessão de prisão domiciliar.
+É o relatório. Decido.
+Na hipótese, depreende-se dos autos que o presente habeas corpus foi impetrado nesta Corte, em 16/09/2022, com distribuição à minha relatoria em 19/09/2022 (fl. 297), insurgindo-se contra a decisão do Desembargador Relatorque indeferiu o pedido liminar formulado no HC n.1.0000.22.208631-6/000.
+Entretanto, de acordo com consulta ao site do Tribunal de origem, no dia 20/09/2022, foi proferida decisão de mérito nos autos do aludido habeas corpus originário, cuja ordem foi denegada pela Corte a quo, fato que demonstra a perda superveniente do objeto da presente impetração.
+Nesse sentido: " s e a decisão liminar de Desembargador, originariamente impugnada nestes autos, já foi substituída por decisão terminativa de segundo grau, é forçoso reconhecer a perda superveniente de objeto do habeas corpus e do agravo regimental que buscavam a superação da Súmula n. 691 do STF" (AgRg no HC 447.377/RJ, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe 28/08/2018).
+No mesmo sentido, v.g.: AgRg no HC n. 741.479/SC, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/05/2022, DJe 26/05/2022; AgRg no HC n. 677.543/PR, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 09/11/2021, DJe16/11/2021; AgRg no HC n. 569.783/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 16/06/2020, DJe 23/06/2020.
+Ante o exposto, JULGO PREJUDICADO o pedido.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU O PEDIDO LIMINAR NA ORIGEM. SUPERVENIENTE JULGAMENTO DE MÉRITO DO WRIT ORIGINÁRIO PELO TRIBUNAL A QUO. PERDA DO OBJETO. ORDEM PREJUDICADA.
