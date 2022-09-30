@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por OI S.A. - em recuperação judicial,contra decisão unipessoal que não conheceu dorecurso especial que interpusera.
+Em suas razões recursais, a embargantealegaomissão no decisum, por ter desconsiderado o fato de que obteve provimento em recurso anterior,cujo julgamento compeliu o Tribunal de origem a tratar dailiquidez do crédito eda ausência de requisitos necessários para levantamento pelo ora embargado, o que afasta a incidência do óbice da Súmula 211/STJ.
+Afirma que, "se o art.59 da Lei 11.101/05 preconiza que o plano de recuperação judicial implica em novação dos créditos anteriores, sem prejuízo das garantias, e o tribunal entende que a embargante não poderia levantar essa mesma garantia, em detrimento do levantamento pelo autor, por óbvio violou o dispositivo de Lei Federal" (e-STJ, fl. 2.180).
+Pleiteia, assim, que seja sanado o vício e "reconhecido que os acórdãos recorridos se manifestaram acerca da matéria posta em debate" (e-STJ, fl. 2.180), com o conhecimento do recurso e análise do seu mérito.
+É O BREVE RELATÓRIO.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja obscuridade, contradição, omissão ou erro material no julgado impugnado, situações que não ocorrem no caso.
+Com efeito, o anterior recurso interposto pela parte embargante,consoante se extrai da decisão proferida no REsp 1.911.628/DF, por esta Corte, logrou êxito na alegação de negativa de prestação jurisdicional, tendo sido determinado, na ocasião, queo Tribunal de origem se manifestasse sobre a existência de trânsito em julgado da sentença de embargos à execução ou de preclusão da decisão de resolução da impugnação ao cumprimento de sentença, a fim de complementar o julgado.
+Assim, o julgamento daquele apelo extremo não avançou na análise das demais questões suscitadas, mas apenas reconheceu a existência de negativa de prestação jurisdicional quanto ao referido ponto, o qual, frise-se, não tem relação com o conteúdo normativo dos dispositivos indicados como violados no presente recurso especial - arts.6º, § 2º, 47, 49, 59 e 61 da Lei 11.101/05 - e, por isso mesmo, não foram objeto de análise pelo novo julgamento realizadonoTribunal de origem.
+Tais dispositivos dizem respeito às consequências e ao objetivo do deferimento da recuperação judicial;à sujeição dos créditos existentes na data do pedido de recuperação judicial aos seus efeitos; a novação dos créditos anteriores ao pedido de recuperação e a possibilidade de o juiz determinar a manutenção do devedor em recuperação judicial até que sejam cumpridas todas as obrigações previstas no plano que vencerem até, no máximo, 2 anos depois da concessão da recuperação judicial.
+Deveras, pelo que se depreende do novo acórdão proferido pela Corte localnão houve o enfrentamento de tais questões, de modo que era mesmo de rigor o não conhecimento do recurso interposto quanto à alegação de violação dos arts. 6º, § 2º, 47, 49, 59 e 61 da Lei 11.101/05, por falta de prequestionamento, sem que isso importe em vício no julgado.
+Dissociadoo pleito, portanto, de qualquer um dos pressupostos de oposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a sua rejeição.
+Forte nessas razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. IMPOSSIBILIDADE.
+1. Rejeitam-se os embargos de declaração quando ausentes omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração no recurso especial rejeitados.
