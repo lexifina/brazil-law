@@ -1,0 +1,34 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO MONITÓRIA. MULTA POR RESCISÃO DE CONTRATO.ATO NORMATIVO INFRALEGAL. ANÁLISE. INVIABILIDADE. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de recurso especial interposto por OPERADOR NACIONAL DO SISTEMA ELETRICO - ONS, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurgecontra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+DIREITO PROCESSUAL CIVIL. DIREITO DAS OBRIGAÇÕES. MONITÓRIA. RESOLUÇÃO NORMATIVA DA ANEEL. APLICABILIDADE. CLÁUSULA PENAL. HONORÁRIOS. PERCENTUAL.
+1. Embora se submeta às disposições normativas editadas pela ANEEL posteriormente à assinatura do contrato, a contratada não está obrigada a observar a cláusula penal regida em regulação posterior que não tenha sido incorporada ao contrato por meio de aditamento.
+2. O percentual de honorários sucumbenciais não precisa obedecer a exata proporção do proveito econômico auferido pelas partes, mormente se os pedidos não se equivalem quanto à pertinência para o ajuizamento da ação.
+3. Apelo conhecido e desprovido(fls. 263/269).
+2. Nas razões do seu recurso especial (fls. 276/290), aparte recorrente sustentaviolaçãodo art. 3º, X, da Lei 9.427/1996,argumentando, para tanto, fazer jus ao recebimento da multa pela rescisão do contrato CUST 69/2012, não havendo que se falar em afronta ao ato jurídico perfeito e ao direito adquirido, uma vez que o contrato previa tal disposição em sua cláusula 30ª.
+3. Devidamente intimada, aparte recorrida apresentouas contrarrazões recursais (fls. 298/309). O recurso especial foi admitido na origem (fls. 310/311).
+4.Éo relatório.
+5. A irresignação não merece prosperar.
+6.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qualaos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+7.No mérito recursal, embora se tenha indicado nas razões do recurso especial violação de dispositivos de lei federal, é incabível o recurso em razão de a controvérsia ter sido dirimida pela Corte de origem com base em ato normativo infralegal, qual seja, a Resolução Normativa 666/2015/ANEEL, cuja análise é imprescindível ao deslinde da causa, mas defesa na via especial.
+8. Vejamos como se manifestou o Tribunal de origem sobre o tema:
+Cinge a controvérsia recursal a respeito da aplicabilidade da multa prevista na Resolução Normativa n. 666/2015 da ANEEL em Contrato de Uso do Sistema de Transmissão (CUST) firmado em 2012(069/2012), que determina, para o caso de inadimplemento, a cobrança dos Encargos de Uso e Transmissão (EUST) dos 3 anos subsequentes à data da rescisão.
+Trata-se, portanto, de cláusula penal a que se roga aplicabilidade imediata, nos termos da Cláusula 30ª do CUST 069/2012, que alcança, no presente caso, o montante de R$ 122.712,20 (cento e vinte e dois mil setecentos e dezesseis reais e vinte centavos). No entanto, a natureza de cláusula penal da Resolução em referência dá conotação especial para a sua aplicabilidade no tempo.
+Com efeito, já existe previsão contratual a reger situação de inadimplemento voluntário ou rescisão e é certo que tais previsões diferem substancialmente das regulações relativas à execução do contrato. De fato, não existiria óbice para que de um momento a outro venha a ser determinada alteração superficial na forma de execução da obrigação, o que poderia se dar por simples Resolução da agência reguladora respectiva. No entanto, a cláusula penal nele prevista teria força, se comparável a uma Constituição, de cláusula pétrea, uma vez que igualmente consubstancia uma das vigas mestras ou esqueleto do contrato, de tal sorte que a sua aplicabilidade ao contrato necessariamente requereria aditamento deste.
+Como bem desenvolveu o nobre magistrado singular, uma vez que já havia previsão de multa no contrato entabulado entre partes, a aplicação da Resolução Normativa n. 666/2015 da ANEEL, sem que esta se incorporasse a regulação intra partes por meio de aditamento, significaria cobrança em duplicidade.
+Embora a empresa contratada se submeta à regência dos atos normativos editados pela ANEEL, o regramento que atine ao objeto específico do contrato deve ingressar neste por meio de aditamento, o que foi realizado no caso trazido à apreciação em primeiro grau, cuja sentença fora inteiramente favorável à apelante (ID 5825547, p. 4) - fl. 267.
+9. Registro que, consoante pacífica jurisprudência desta Corte Superior, o conceito de tratado ou lei federal, constante no art. 105, inciso III, alíneaa, da CF/1988, deve ser considerado em seu sentido estrito, sendo inadmissível o recurso especial manejado por violação a atos normativos, como portarias, resoluções e instruções normativas, ou cuja apreciação dependa da análise dessas espécies normativas.
+10. Colaciono a ementa dearestos doSTJ, no que interessa:
+PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. FILHA DE MILITAR. REINCLUSÃO EM FUNDO DE SAÚDE DA AERONÁUTICA. REVISÃO DAS CONCLUSÕES DO TRIBUNAL A QUO. NECESSIDADE DE INTERPRETAÇÃO DE NORMAS INFRALEGAIS. IMPOSSIBILIDADE. PRECEDENTES.
+(..)
+III - Conforme entende a jurisprudência do Superior Tribunal de Justiça, o conceito de tratado ou lei federal, previsto no art. 105, inciso III, a, da Constituição da República, deve ser considerado em seu sentido estrito, não compreendendo súmulas, atos administrativos normativos e instruções normativas.
+(..)
+V - Agravo interno improvido(AgInt no REsp 1.865.474/CE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 8/2/2021, DJe 12/2/2021).
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. PREQUESTIONAMENTO.AUSÊNCIA. INSTRUÇÃO NORMATIVA. ANÁLISE. INVIABILIDADE. IMPOSTO DE RENDA RETIDO NA FONTE (IRRF). NEGOCIAÇÃO DE ORTN"S ANTES DO VENCIMENTO. DISCIPLINA DE INCIDÊNCIA. INAPLICABILIDADE.
+(..)
+3. A via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal.
+(..)
+6. Recurso especial conhecido em parte e, nessa extensão, provido, a fim de restabelecer os efeitos da sentença(REsp 1.404.038/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 2/6/2020, DJe 29/6/2020).
+11. Ante o exposto, nego provimento ao recurso especial deONS.
+12.Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+13. Publique-se. Intimações necessárias.
