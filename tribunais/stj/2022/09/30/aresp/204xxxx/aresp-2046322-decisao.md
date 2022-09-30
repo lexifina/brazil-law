@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravos interpostos por ELETROPAULO METROPOLITANA ELETRICIDADE DE SÃO PAULO S.A. eCOMPANHIA DE ENGENHARIA DE TRÁFEGOcontra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl. 75):
+Agravo de instrumento. Ação de cobrança. Prescrição parcial.Reconhecimento. Propositura de ação judicial que, por si só, é incapaz de determinar a suspensão de exigibilidade de dívidas já vencidas e, com isso, a suspensão do prazo prescricional.Suspensão do prazo que flui apenas entre a distribuição da ação até a sentença e entre a prolação do acórdão e sua suspensão por decisão monocrática do STF. Prescrição parcial reconhecida.
+Recurso provido.
+Embargos de declaração rejeitados (e-STJ fls. 663/666 e 689/692).
+No recurso especial obstaculizado, a COMPANHIA DE ENGENHARIA DE TRÁFEGOapontouviolação dos arts.202, I e VI,202 parágrafoúnico, e205, todos do Código Civil e do art. 240do CPC de 2015,argumentando que o termo inicial para contagem do prazo prescricional é a data do trânsito em julgado do mandado de segurança impetrado pela ré, ora recorrida, de modo que não haveria prescrição a ser pronunciadano caso concreto.
+Ao final, apontou dissídio pretoriano, defendendo o entendimento de que a impetração do Mandado de Segurança interrompe a fluência do prazo prescricional, de modo que somente após o trânsito em julgado da decisão nele proferida é que voltará a fluir a prescrição(e-STJ fls. 81/98).
+JáELETROPAULO METROPOLITANA ELETRICIDADE SÃO PAULO S.A., por sua vez, apontou dissídio jurisprudencial e contrariedade aos arts.85, § 2º, 86 e 356 do CPC/2015, sob o argumento de quedeve haver o arbitramento de honorários parciais de sucumbência em caso de decisão parcial do mérito(e-STJ fls. 695/713).
+Sem contrarrazões.
+Os apelos nobres receberamjuízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados nos presentes recursos.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação ao recurso da COMPANHIA DE ENGENHARIA DE TRÁFEGO,observa-se que o Tribunal a quo não emitiu juízo de valor sobre os dispositivos tidos por contrariados, embora suscitados nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento. Incidena espécieo óbice da Súmula 211 do STJ.
+Deve-se esclarecer que o art. 1.025 do CPC/2015, já vigente à época da oposição dos embargos de declaração, dispõe que "se consideram incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade".
+Contudo, em razão de o recurso especial não veicular alegação de violação do art. 1.022 do CPC/2015, este Tribunal não pode decidir, de ofício, pela existência de omissão no acórdão recorrido, desorte que não há como dar por prequestionados os dispositivos supracitados.
+Convém registrar que "resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (AgRg no AREsp 278.133/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 24/09/2014).
+No que tange ao apelo raro daELETROPAULO, o Tribunal paulista disse que a ausência de definitividade do pronunciamento jurisdicional afastava, no momento, a percepção de arbitramento de honorários sucumbenciais(e-STJ fls. 691/692):
+No caso dos autos não se vislumbra a omissão apontada, pois inexiste óbice para que os honorários sejam arbitrados ao final, considerando-se a integralidade do caso sob julgamento e, ainda, todos os recursos interpostos. Será por ocasião da sentença que o juiz poderá avaliar, à luz dos critérios do § 2º do art. 85 do CPC, a atuação dos procuradores em cada fase do processo, sem olvidar que, segundo a norma do art. 86 do CPC, poderá haver ou não distribuição proporcional das despesas e das verbashonorárias. Assim, incabível, por ora, o arbitramento de honorários proporcionais, tanto em razão da ausência de definitividade relativamente ao desfecho da demanda, bem como quanto à ausência de certeza quanto ao proveito econômico de cada uma das partes.
+No ponto, observo que o apelo nobre apresenta razões dissociadas do que foi decidido pelo acórdão recorrido.
+Enquanto o recorrente parte do pressuposto de que foi proferida sentença parcial de mérito a justificar o arbitramento da verba honorária, a Corte estadual assentou que era "incabível, por ora, o arbitramento de honorários proporcionais, tanto em razão da ausência de definitividade relativamente ao desfecho da demanda, bem como quanto à ausência de certeza quanto ao proveito econômico de cada uma das partes"(e-STJ fls. 691/692).
+A deficiência na fundamentação do recurso constituicircunstância atrativa do óbice contido na Súmula 284 do STF.
+Nesse sentido:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF.
+(..)
+3. Nas razões do Recurso Especial, a parte deixou de atacar os fundamentos adotados pela Corte regional para decidir a controvérsia no que tange ao arbitramento de honorários advocatícios, limitando-se a sustentar que este deveria ser aplicado sobre o valor da causa, e não sobre o da condenação. Nesse contexto, tendo a parte recorrente se limitado a manifestar seu inconformismo com o resultado que lhe foi desfavorável, apresentando fundamento deficiente, com razões recursais dissociadas da fundamentação do acórdão objurgado, têm incidência, na espécie, por analogia, as Súmulas 283 e 284 do STF.
+4. Agravo Interno não provido.
+(AgInt no REsp 1860013/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/06/2020, DJe 21/08/2020)
+Por fim, quanto ao recurso especial interposto com base na alínea "c" do permissivo constitucional, a análise do dissídio jurisprudencial está prejudicada em razão da aplicação da Súmula acima citada.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO dos agravos para NÃO CONHECER dos recursos especiais.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
