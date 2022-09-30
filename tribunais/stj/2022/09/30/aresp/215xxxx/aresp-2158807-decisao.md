@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por LEVI ALVES DE ALMEIDA, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/06/2022.
+Concluso ao gabinete em: 01/08/2022.
+Ação: embargos à execução, opostos por LEVI ALVES DE ALMEIDA, em face de COCARI -COOPERATIVA AGROPECUÁRIA E INDUSTRIAL, fundados na nulidade do título executivo, em relação à garantia prestada, e no excesso de execução.
+Sentença: julgou improcedente o pedido e determinou o prosseguimento da execução.Condenou o agravante ao pagamento das custas processuais e honorários advocatícios fixados em 10% sobre o valor atualizado da causa.
+Acórdão: negou provimento à apelação interposta pelo agravante, nos termos da seguinte ementa:
+EMENTA: APELAÇÃO. EMBARGOS A EXECUÇÃO. CÉDULA DE CRÉDITO RURAL. AVAL. AUSÊNCIA DE OUTORGA UXÓRIA. NULIDADE. INOCORRÊNCIA. TÍTULO NÃO CAUSAL. AUSÊNCIA DE CIRCULAÇÃO. DISCUSSÃO DO NEGÓCIO SUBJACENTE. POSSIBILIDADE. CUMPRIMENTO DA OBRIGAÇÃO A CARGO DO EXEQUENTE. COMPROVAÇÃO. DIREITO AO RECEBIMENTO DA CONTRAPRESTAÇÃO RESPECTIVA. ENCARGOS MORATÓRIOS. MULTA. JUROS MORATÓRIOS LEGAIS E COMPENSATÓRIOS. LEGALIDADE. Em título de crédito típico não se exige a outorga uxória para validade do aval, requisito aplicável, apenas, aos títulos atípicos (inominados). A Cédula de Crédito rural trata de título de crédito não causal, todavia, se não houve sua circulação, pode o negócio subjacente ser discutido. Comprovado o adimplemento pelo exequente da obrigação a seu cargo, assiste-lhe o direito de exigir o adimplemento da contraprestação respectiva. Verificada a mora do tomador do empréstimo, pode o credor de valor originário de Cédula de Crédito Rural cobrar multa, juros moratórios legais e juros compensatórios pactuados.
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+O Tribunal de origem consignou o seguinte (e-STJ, fls. 492/493):
+Consigno que a questão afeta a admissão da prova oral sem indícios do adimplemento da obrigação a cargo da parte embargada o que ensejaria ofensa aos artigos 227, parágrafo único, e 320 do CC, bem como ao art. 444 do CPC, não procedente, pois, da análise da situação em concreto, há tais indícios, seja pela efetivação do plantio, o qual é fato incontroverso, já que se trata a obrigação da parte embargada de fornecimento dos insumos necessários para tanto, do que se infere de maneira inafastável o atendimento da obrigação em comento, pois esta se revela como pressuposto daquela, associada a inexistência de qualquer tipo de reclamação ou questionamento da parte ora embargante, à época do plantio, quanto ao seu fornecimento.
+Esses dois elementos revelam-se como indícios do adimplemento, o que restou confirmado pela prova oral produzida, logo autorizada a utilização da prova oral exclusivamente oral, no caso em estudo, como prova do cumprimento da obrigação.
+De maneira reflexa, a parte embargante desonerou-se do ônus da prova que o CPC lhe imputa.
+Assim, não há que se falar em ofensa aos artigos apontados neste recurso, sob qualquer prisma.
+No que toca ao erro de julgamento, em verdade, basta a simples audição a audiência de instrução e julgamento para se concluir de maneira diametral ao aduzido pela parte ora embargante, fato acrescido circunstancia de que se trata o embargante de proprietário do armazém, do qual não entra ou sai mercadoria se não for por determinação que seja de sua responsabilidade, enfim, com sua aquiescência. Deve atentar para o fato de que a prova oral deve ser considerada como um todo e não de maneira compartimentada. Logo, inexiste o erro de julgamento eriçado.
+Friso que essas questões foram declinadas de maneira expressa no acórdão.
+Recurso especial: alega violação dos arts. 373, I, 444, 787, 489, §1º, IV, 917, V, e 1.022, II, do CPC/15 e dos arts. 227, parágrafo único, 320, 476 e 491, do CC/02.
+Afirma que o Tribunal de origem não teria se manifestado e valorado a prova testemunhal, a qualcomprovaria que teria se manifestado contrariamente à entrega, ao devedor principal, da soja depositada.
+Sustenta que o Tribunal de origem não poderia se valer exclusivamente de prova testemunhal para dirimir a questão relativa à prova da contraprestação contratual da agravada. Assim, caberia a agravada comprovar fato constitutivo de seu direito e o cumprimento da sua contrapartida mediante prova documental.
+É O RELATÓRIO. DECIDO.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca das provas do adimplemento da obrigação por parte da agravada e do pagamento parcial, destacando, inclusive, as provas relativas à sua concordou com o levantamento, pelo devedor, da soja depositada (e-STJ fl. 445/455), de maneira que os embargos de declaração opostos pelo agravante de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/15
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+- Da fundamentação deficiente
+Os argumentos invocados pelo agravante não demonstram como o acórdão recorrido violou o art. 917, V, do CPC/15, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca do conteúdo normativo do art. 917, V, do CPC/15, indicado como violado, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da existência de fundamento não impugnado
+O agravante não impugnou o fundamento utilizado pelo TJ/MG acerca da admissão da prova oral, diante da existência de indícios do adimplemento da obrigação pela agravada, tanto pela efetivação do plantio, já que a obrigação da agravada seria de fornecimento dos insumos necessários para tanto, quanto pela inexistência de qualquer reclamação ou questionamento doagravante à época do plantio, em relação ao seu fornecimento, bem como diante da circunstância de ser o agravante proprietário do armazém onde foi depositada a soja, o que evidenciaria a sua concordância com o levantamento da mercadoria pelo devedor (e-STJ, fls. 452/453 492/493).
+Não impugnou também o seguinte fundamento utilizado pelo TJ/MG, após concluir pelo cumprimento da obrigação pela agravada: "Apenas para fins de registo, a Cédula de Crédito Rural trata de título não causal, ou seja, não está atrelado ao negócio subjacente, pelo que para sua validade não há necessidade de que haja a comprovação do mesmo e, tampouco, adimplemento da obrigação a cargo do exequente para que se possa exigir o valor nela estampado" (e-STJ, fl. 448).
+Como esses fundamentos não foram impugnados, deve-se manter o acórdão recorrido.Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere às provas do adimplemento da obrigação por parte da agravada, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor atualizado da causa (e-STJ, fls. 370 e 458) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Embargos à execução, fundados na nulidade do título executivo, em relação à garantia prestada, e no excesso de execução.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+7. O reexame de fatos e provas em recurso especial é inadmissível.
+8. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido, com majoração de honorários.
