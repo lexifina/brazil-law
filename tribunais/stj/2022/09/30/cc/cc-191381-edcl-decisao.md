@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EDUARDO EIDT LETTIcontra decisão monocrática proferida por este signatário, acostada às fls. 302/303, que conheceu do presente conflito e, por conseguinte, declarou a competência do r. juízo da 1ª Vara Empresarial do Rio de Janeiro/RJ.
+Em suas razões, o embargante aponta que "(..)em razão da vigência do contrato de trabalho do Autor posteriormente à arrematação da UPV(de 20/07/2006 a 01/06/2007), no presente, a VRG (atualmente GOL) não foi excluída da lide, tendo havido apenas o afastamento de sua responsabilidade relativamente ao período que antecedeu a arrematação da UPV." Acrescenta que "(..) em liquidação de sentença (cálculo anexo), foram apurados de forma destacada os valores devidos pela GOL, justamente porque, repita-se, a decisão proferida pelo Eg. TST afastou sua responsabilidade apenas em relação ao período laborado para a Varig." Entende, assim, que não se encontram presentes os requisitos para manejo do presente conflito de competência. (fls. 307/389)
+Impugnação juntada às fls. 392/399.
+É o relatório.
+Decisão.
+Os presentes embargos de declaração não merecem acolhimento.
+1. Nos estreitos lindes do artigo 1.022 do NCPC (art. 535 do CPC/1973), o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussãodo julgado, como pretende a embargante.
+Nesse sentido, registram-se os seguintes julgados: EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015.
+Consoante asseverado no r. decisum embargado, esta Corte Superior assentou entendimento segundo o qual o Juízo universal é o competente para a execução dos créditos apurados nas ações trabalhistas propostas em face da Varig S/A e da VRG Linhas Aéreas S/A (arrematante da UPV), sobretudo porque, no que se refere à arrematação judicial da UPV, ficou consignado em edital, nos termos da Lei 11.101/05, que sua transmissão não acarretaria a assunção de seu passivo.
+A propósito, para corroborar essa compreensão, foram citados os seguintes precedentes: AgRg no CC 112.638/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 10/08/2011, DJe 19/08/2011; AgInt no CC 121.276/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 14/12/2016, DJe 08/02/2017.
+Com efeito, não havendo notícia de alteração na situação fática, não há razão para modificar a decisão impugnada, bem como por inexistir nenhuma das máculas prevista no art. 1.022 do Código de Processo Civil.
+2. Do exposto, com fundamento no art. 1.022, do CPC/15,rejeita-se os presentes embargos declaratórios.
+Publique-se. Intimem-se.
