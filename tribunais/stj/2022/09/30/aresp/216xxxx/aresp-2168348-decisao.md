@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidênciada Súmula n. 7/STJ (e-STJ fls. 1.294/1.295).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.197):
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER. IMÓVEIS ENCRAVADOS.INEXISTÊNCIA DE ACESSO ÀS VIAS PÚBLICAS. DIREITO À PASSAGEM FORÇADA CONSTATADO. INDENIZAÇÃO. CABIMENTO. ART. 1.285 DO CÓDIGO CIVIL. HONORÁRIOS DE SUCUMBÊNCIA. REDIMENSIONAMENTO. EQUIDADE. SENTENÇA PARCIALMENTE REFORMADA.
+1. Com fulcro no art. 1.285 do Código Civil, é cabível a declaração do direito dos Autores à passagem forçada pela estrada de terra localizada dentro do imóvel do Réu, pois, do cotejo das provas trazidas aos autos, depreende-se que os imóveis dos Autores se encontram encravados, não possuindo outros acessos à via pública.
+2. Cabível, também, o pagamento da indenização cabal, expressamente prevista no art. 1.285 do Código Civil, em contrapartida ao direito à passagem forçada declarado na r. sentença.
+3. Diante da condenação em obrigação de fazer, os honorários sucumbenciais devem ser fixados por equidade, nos termos do art. 85, § 8º, do CPC/15, pois o proveito econômico alcançado pelos Autores com a passagem forçada pelo imóvel do Réu não pode ser precificado, não se vislumbrando benefício patrimonial imediato, em decorrência da condenação.
+4. Apelações conhecidas, parcialmente provida a dos Autores e não provida a do Réu.
+Nas razões do recurso especial (e-STJ fls. 1.229/1.242), interposto com fundamentono art. 105, III, "a", da CF, orecorrente apontou ofensa aosarts. 5º, XXII, da CF e1.285 do CC/2002.
+Sustentou que "os imóveis dos Recorridos NÃO SE ENCONTRAM ENCRAVADOS, sendo possível acessá-los por outras vias, como, de fato, vêm fazendo todos aqueles que frequentam a vizinhança cotidianamente" (e-STJ fl. 1.237). Afirmou que o fato de os recorridos considerarema passagem por sua propriedade como a melhor condição de acesso à via públicanão configura o instituto da passagem forçada. Alegou que o direito fundamental de propriedade somente pode se relativizado em razão do interesse público e do exercício da função social, o que não se observa, porque os imóveis não estão encravados.
+Contrarrazões às fls. 1.287/1.291(e-STJ).
+No agravo (e-STJ fls. 1.298/1.302), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.308/1.314).
+É o relatório.
+Decido.
+Inicialmente, destaco não ser viável apreciar, em recurso especial, a tese de violação de dispositivo constitucional, sob pena de usurpação de competência do STF, motivo pelo qual não se deve conhecer da alegação de ofensa ao art. 5º, XXII, da CF.
+No mais, o Tribunal de origem assim decidiu a controvérsia (e-STJ fls.1.202/1.203):
+Do cotejo entre as provas trazidas aos autos, depreende-se que os imóveis dos Autores se encontram encravados, não possuindo acesso à via pública, sendo a estrada que passa dentro da propriedade do Réu a via natural para acessá-los, utilizada pelos Autores há décadas.
+O presente feito foi instruído com levantamento georreferenciado que demonstra a localização da estrada de acesso objeto do pleito de passagem forçada (que passa dentro da propriedade do Réu), e que liga os imóveis dos Autores à Rodovia Vicinal EVC - 371, a qual, por sua vez, faz a ligação entre a BR 040 e a DF - 290 (ID 31968609).
+O imóvel do Réu/Apelante faz divisa com a faixa de domínio da rodovia EVC-371 e o desenho demonstra que as propriedades dos Autores estão encravadas, pois o acesso à EVC - 371 ocorre, apenas, pela estrada que passa dentro da propriedade do Réu (ID 31968609).
+A imagem de ID 31968611 - pág. 1 demonstra que os imóveis dos Autores se encontram encravados, não dispondo de outro acesso a qualquer via pública.
+Já as imagens de ID 31968611 - pág. 4/6 comprovam que a estrada de acesso objeto do pleito de passagem forçada, existe, ao menos, desde o ano de 2002.
+Ademais, na descrição da gleba de terras adquirida pelo Autor Jerônimo Ligoski, objeto da matrícula nº 95.769 do 3º Ofício do Registro de Imóveis do DF, datada de 7/1/1985, consta, expressamente, menção à existência da estrada de acesso no local (ID 31968612 - pág. 2).
+Dessa forma, não se sustenta a alegação do Réu/Apelante, no sentido de que tal via permaneceu aberta aos Autores por, apenas, um curto período de tempo, tratando-se, na realidade, do acesso natural, utilizado há muitos anos pelos adquirentes das glebas de terras desmembradas da Fazenda Santa Maria, que não fazem divisa com a via pública.
+Consta dos autos certidão do Oficial de Justiça que compareceu ao local, na qual informa que "há acesso à BR-040 pela entrada da Suécia Veículos, percorrendo uma estrada de terra que dá nos fundos da Missão Kolbe (Seminário Franciscano). CONTUDO, há de se verificar quem são os proprietários da área que percorre os fundos do imóvel do Autor, pois há uma estrutura grande de metal, estilo esqueletode galpão, que fica adjacente ao caminho de terra que leva à chácara citada" (ID 31968621 - pág. 4).
+Note-se que tal constatação do Oficial de Justiça não corrobora a alegação do Réu/Apelante, no sentido de que os imóveis dos Autores não se encontram encravados, possuindo outros acessos às vias públicas.
+Isso porque, da leitura da própria certidão depreende-se que, além da estrada de acesso objeto do pleito de passagem forçada, os imóveis dos Autores somente podem ser acessados passando por outras propriedades particulares.
+Visando a comprovar a alegação de ausência de encravamento dos imóveis dos Autores em outra demanda (Proc. nº 0706305-48.2018.8.07.0004), o Réu/Apelante instruiu a contestação com a imagem de ID 31968624 - pág. 71, a qual, todavia, demonstra apenas que os imóveis do Autores podem seracessados por vias que passam dentro de outras propriedades, não havendo nos autos, portanto, prova de que possuam acessos diretos à via pública.
+Ademais, o fato de os imóveis se encontrarem encravados é atestado, também, pela prova emprestada trazida aos autos, consubstanciada no depoimento das testemunhas ouvidas no Proc. nº 0706305-48.2018.8.07.0004, no qual se pleiteou a constituição de serventia (CC, art. 1.379) e cuja improcedência do pedido fundamentou-se, exclusivamente, na inexistência de serventia (ID 31968623 - pág. 3). Portanto, não há coisa julgada em relação ao pleito diverso aduzido nos presentes autos, de reconhecimento do direito de passagem forçada, previsto no art. 1.285 do Código Civil.
+No depoimento da testemunha Jaime Antônio Ligoski (ID 31968622 - pág. 4), esse informou que:
+ ..
+No depoimento da testemunha Cleber Guimarães (ID 31968622 - pág. 5), consta que:
+ ..
+Demonstrado, portanto, que os imóveis dos Autores se encontram encravados, não possuem acesso à via pública, sendo a estrada que passa dentro da propriedade do Réu a via natural de acesso a eles, utilizada pelos Autores há décadas, resta configurado o cabimento da declaração do direito à passagem forçada, nos termos do art. 1.285 do Código Civil.
+Verifica-se que, para concluir que os imóveis dos autores se encontram encravados, sem acesso à via pública, sendo a estradaque passa dentro da propriedade do réu a via natural de acesso, utilizada há décadas, o TJDFT analisou detidamente o conjunto fático-probatório dos autos.
+Dessa forma, decidir de modo contrário, acolhendo a alegação de que os imóveis não estão encravados,implicaria necessário reexame de elementos fáticos, o que é incabível no especial, por força da Súmulan. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
