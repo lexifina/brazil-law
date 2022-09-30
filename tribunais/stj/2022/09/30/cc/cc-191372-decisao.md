@@ -1,0 +1,25 @@
+DECISÃO
+CONFLITO  NEGATIVO  DE  COMPETÊNCIA.  RESTABELECIMENTO DE AUXÍLIO-DOENÇA. COMPETÊNCIA  DA  JUSTIÇA  FEDERAL.  NATUREZA  PREVIDENCIÁRIA DO  BENEFÍCIO.  CONFLITO  CONHECIDO  PARA  DECLARAR  A  COMPETÊNCIA  DO  TRIBUNAL REGIONALFEDERAL DA 4ª REGIÃO.
+1.  Trata-se  de  conflito  de  competência  que tem como suscitante o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SULe como suscitado o TRIBUNAL REGIONAL FEDERAL DA 4A REGIÃO.
+2.  O  TRF4 declarou-se incompetente para processar e julgar o presente feito por entender que o litígio decorriade acidente do trabalho(fls. 502/504).
+3.  Os autos foram remetidos ao TJRS, que suscitou o presente conflitonos seguintes termos:
+APELAÇÃO. AÇÃO PREVIDENCIÁRIA. INSS. PEDIDO DE RESTABELECIMENTO DE AUXÍLIO-DOENÇA. PETIÇÃO INICIAL QUENÃO CITA ACIDENTE DE TRABALHO OU MOLÉSTIA DE ORIGEMFUNCIONAL. BENEFÍCIO DE NATUREZA NÃO ACIDENTÁRIA. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1 . HIPÓTESE EM QUE A PARTE AUTORA BUSCA O RESTABELECIMENTO DE AUXÍLIO-DOENÇA, NARRANDO TER SOFRIDO ACIDENTE DE TRÂNSITO QUE CAUSOU RUPTURA DO TENDÃO DO QUADRÍCEPS. NÃO HÁ QUALQUER REFERÊNCIA NO SENTIDO DE QUE O INFORTÚNIO TERIA OCORRIDO NO TRAJETO PARA O TRABALHO.
+2. NÃO HAVENDO QUALQUER DISCUSSÃO ACERCA DE ACIDENTE DETRABALHO OU DOENÇA OCUPACIONAL NO PRESENTE CASO, RESTAAFASTADA A COMPETÊNCIA DA JUSTIÇA COMUM DO ESTADO PARAAPRECIAR O RECURSO INTERPOSTO, POR FORÇA DO DISPOSTONO ART. 109, §§ 3º E 4º, C/C O ART. 108, II, AMBOS DA CARTA FEDERAL.
+3. SUSCITAÇÃO DE CONFLITO NEGATIVO QUE, DIANTE DE TALCONTEXTO, É MEDIDA IMPOSITIVA, CONSIDERANDO QUE HOUVEPRÉVIA REMESSA DOS AUTOS PELO TRIBUNAL AO QUAL SE ATRIBUIA COMPETÊNCIA.
+CONFLITO NEGATIVO DE COMPETÊNCIA SUSCITADO PERANTEO SUPERIOR TRIBUNAL DE JUSTIÇA (fl. 555).
+4.  É  o  relatório.
+5.  Conheço  do  conflito  porque  se  trata  de  controvérsia  instaurada  entre  juízos  vinculados  a  tribunais  distintos,  conforme  preceitua  o  art.  105,  I,  d,  da  Constituição  Federal  de  1988.
+6.  Segundo  o  pacífico  entendimento  desta  Corte  Superior  de  Justiça,  o  teor  da  petição  inicial  é  elemento  essencial  ao  deslinde  do  conflito,  visto  que  a  definição  da  competência  decorre  de  verificação  da  causa  de  pedir  e  do  pedido  apresentados  na  peça  vestibular.
+7.  No  caso  dos  autos,  extrai-se  da  petição  inicial  que  a  parte  autora  pleiteia  o restabelecimento de auxílio-doença, narrando ter sofrido acidente de trânsito(fls. 4/61).
+8.  Assim,  considerando  que  o  demandante  requer  a  concessão  de  benefício  de  natureza  previdenciária, não tendo feito nenhuma alusão a acidente de trabalho,a competência para processar e julgar a demanda é da Justiça Federal.Nesse  sentido:
+CONFLITO DE COMPETÊNCIA. PREVIDENCIÁRIO. BENEFICIÁRIO PREVIDENCIÁRIO. COMPETÊNCIA JUSTIÇA FEDERAL COMUM. PEDIDO E CAUSA DE PEDIR.
+I - A Justiça estadual é competente para processar e julgar as demandas relativas a acidente de trabalho, mas também aquelas que discutem as relações daí decorrentes (restabelecimento, reajuste e cumulação), porquanto art. 109, I, da Constituição Federal não fez qualquer ressalva a respeito.
+II - A competência para processar e julgar a ação que discute a concessão de benefício previdenciário decorrente de acidente de trabalho deve ser determinada em função do pedido e da causa de pedir, constantes da petição inicial.
+III - A partir da análise da petição inicial (fls. 4-9), é possível verificar que o pedido principal consiste na concessão de auxílio-doença e/ou aposentadoria por invalidez, já a causa de pedir não indica qualquer relação com a atividade laboral. Conclui-se que tanto o pedido quanto a causa de pedir da ação possuem natureza previdenciária, razão pela qual compete à Justiça Federal processá-la e julgá-la.
+IV - Conflito de competência conhecido para declarar competente para a causa o Juízo federal da 1ª Unidade Avançada de Atendimento em Ivaiporã/PR.(CC n. 187.898/PR, relator Ministro Francisco Falcão, Primeira Seção, julgado em 25/5/2022, DJe de 30/5/2022.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. PROCESSUAL CIVIL. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA PREVIDENCIÁRIO. TRIBUNAL REGIONAL FEDERAL E TRIBUNAL DE JUSTIÇA. JULGAMENTO DA APELAÇÃO. MATÉRIA DE NATUREZA NÃO-ACIDENTÁRIA.
+Faculta-se ao segurado ou beneficiário da Previdência Social propor a ação previdenciária no Juízo Estadual de seu domicílio, sempre que a comarca não for sede de Juízo Federal. (Art. 109, § 3º, da Constituição) Tratando-se de ação em que se busca o restabelecimento de auxílio-doença previdenciário compete ao Tribunal Regional Federal o processamento e julgamento do recurso de apelação, eis que a moléstia é de origem degenerativa e não guarda relação de causalidade com o trabalho.
+Conflito conhecido e provido para declarar a competência do Tribunal Regional Federal da 4ª Região.(CC n. 58.071/RS, rel. Min. , Terceira Seção, julgado em 12/9/2007, DJ de 1/10/2007, p. 209.)
+9.  Ante  o  exposto,  conheço  do  presente  conflito  para  declarar  a  competência  do TRIBUNAL REGIONAL FEDERAL DA 4A REGIÃOpara  processo  e  julgamento  do  feito.
+10.  Publique-se.  Intimações  necessárias.
