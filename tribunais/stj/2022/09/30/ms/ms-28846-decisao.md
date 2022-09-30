@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de Mandado de Segurança impetrado por Jeová Costa Santiago em face de ato omissivo supostamente ilegal cometido pelo Ministro da Justiça, em virtude de este não ter procedido à intimação do espólio do senhor José Braz Santiago Pereira de Lima no procedimento que resultou na anulação da sua anistia. O impetrante afirma ser herdeiro do Sr. José Braz.
+A parte aduz que a Portaria 1.389, de 23 de agosto de 2006, declarou como anistiado político o senhor José Braz Santiago Pereira de Lima, o qual veio a falecer em 11 de agosto de 2007, com inventário aberto em 25 de fevereiro de 2010. Alega o impetrante que a Portaria 1.449, de 5 de abril de 2013 anulou a Portaria anterior que havia declarado o ex-cabo como anistiado político. Entretanto, no processo administrativo que resultou na anulação da condição de anistiado político, não houve intimação do espólio do senhor José Braz, de modo que foi ilegal a Portaria 1.449/2013.
+Sustenta ainda que, por se tratar de omissão, não há que se falar em decadência, pois o prazo para a impetração se renova mês a mês.
+Pede a declaração da nulidade do processo administrativo que resultou na Portaria 1.449, de 5 de abril de 2013, restabelecendo os termos da Portaria 1.389, de 23 de agosto de 2006.
+A liminar foi indeferida às fls. 766-767, e-STJ.
+Informações prestadas às fls. 773-783, e-STJ.
+Parecer do Ministério Público Federal às fls. 788-795, e-STJ, no qual opina pela extinção da segurança e, caso apreciado o mérito, pela sua denegação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21 de setembro de 2022.
+O ato apontado como coator é a Portaria 1.449, de 5 de abril de 2013, a qual teria anulado a Portaria 1.389, de 23 de agosto de 2006. Cuida-se de ato administrativo concreto, o qual deveria ser impugnado dentro do prazo de 120 (cento e vinte) dias contados da sua publicação, que ocorreu em 8.4.2013. Entretanto, o Mandado de Segurança foi impetrado em 17.8.2022. Dessa forma, configurou-se a decadência. Nesse sentido:
+DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM MANDADO DE SEGURANÇA. ANISTIA. MILITAR. DECADÊNCIA PARA IMPETRAÇÃO NÃO CONFIGURADA. NULIDADE DO PROCEDIMENTO REVISIONAL, POR VÍCIO DE FORMA. AGRAVO INTERNO DA UNIÃO NÃO PROVIDO.
+1. Segundo orientação desta Corte Superior, o marco inicial para a contagem do prazo decadencial para impetrar mandado segurança contra a cassação da portaria de anistia é a data da publicação do ato no Diário Oficial, momento no qual o ato coator está apto a produzir seus efeitos, gerando lesão à esfera jurídica do interessado. Precedente: AgInt no MS 26.391/DF, Rel. Ministro SÉRGIO KUKINA, Primeira Seção, DJe 1º.10.2021.
+( )
+5. Agravo interno da União não provido.
+(AgInt no MS n. 25.903/DF, Rel. Min. Manoel Erhardt - Desembargador Convocado do TRF5, Primeira Seção, DJe de 10/3/2022.)
+ADMINISTRATIVO. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. PROCESSO DE REVISÃO DA PORTARIA CONCESSIVA DE ANISTIA A MILITAR, EX-CABO DA AERONÁUTICA. PORTARIA 1.104/GM-3/1964. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL, FIRMADO SOB O REGIME DE REPERCUSSÃO GERAL. TEMA 839. RE 817.338/DF. APLICAÇÃO IMEDIATA. DESNECESSIDADE DE PUBLICAÇÃO. PORTARIA 3.076/2019. DECADÊNCIA DA IMPETRAÇÃO AFASTADA. ALEGAÇÃO DE NOTIFICAÇÃO GENÉRICA DO ANISTIADO PARA APRESENTAÇÃO DE DEFESA. VÍCIO DE FORMA. OFENSA AO EXERCÍCIO DO CONTRADITÓRIO E DA AMPLA DEFESA. NULIDADE RECONHECIDA. PRECEDENTES DA PRIMEIRA SEÇÃO. ORDEM CONCEDIDA. AGRAVO INTERNO IMPROVIDO.
+( )
+III. No caso, a impetração volta-se, tão somente, contra o próprio ato de notificação e, na forma da jurisprudência da Primeira Seção do STJ, o termo inicial do prazo decadencial para impetração de mandado de segurança contra a cassação da anistia do impetrante é a data da publicação, no Diário Oficial, da portaria que cassou a anistia, oportunidade em que o ato se torna apto a gerar efeitos lesivos à esfera jurídica do interessado (STJ, AgInt no MS 27.458/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 22/09/2021; AgInt no MS 26.391/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe de 01/10/2021; AgInt no MS 27.721/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 08/10/2021 AgInt no MS 27.561/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe de 17/09/2021).
+(..) VIII. Agravo interno improvido.
+(AgInt no MS n. 25.996/DF, relatora Ministra Assusete Magalhães, Primeira Seção, julgado em 15/2/2022, DJe de 17/2/2022.)
+Verifica-se, também, que o impetrante não possui legitimidade ativa para o presente writ. Jeová Costa Santiago impetrou o Mandado de Segurança alegando a sua condição de herdeiro do Sr. José Braz. Contudo, consta nos autos partilha amigável entre o impetrante e a viúva, Zélia Santiago Costa de Lima (fls. 53-54, e-STJ), homologada pelo Juízo local (fls. 100-101, e-STJ).
+Desse modo, após a partilha dos bens, todos os sucessores são partes legítimas para reivindicar em Juízo direitos ligados ao de cujus, sem ter sido juntado aos autos qualquer documento da viúva, Zélia Santiago Costa de Lima, autorizando que o impetrante, exclusivamente, ingressasse com o presente mandamus.
+Observa-se que a indenização do anistiado político foi concedida exclusivamente para Zélia Santiago Costa de Lima, nos termos do alvará de fl. 32, e-STJ,pelo reconhecimento de única dependente econômica do falecido ex-militar, Senhor José Braz Santiago Pereira de Lima.
+Consta também na decisão que autorizou apenas Zélia Santiago a levantar os valores: "Com relação aos requerentes JEOVÁ COSTA SANTIAGO (..) estes não conseguiram comprovar nos autos que são legitimado a requererem em juízo o levantamento dos valores indicados." (fl. 34, e-STJ).
+Por fim, está ausente a prova pré-constituída, pois, nas palavras da procuradora Regional da República (fl. 794, e-STJ):
+Também consta na peça inicial que o ex-militar, Senhor José Braz Santiago Pereira de Lima, faleceu no dia 11.8.2007, já na condição de anistiado por força da Portaria n.º 1389, de 23 de agosto de 2006 (e-STJ fl. 7).
+Ao compulsar os autos, verifica-se que a intimação do Senhor José Braz Santiago Pereira de Lima, acerca da instauração do processo de anulação da portaria anistiadora, deu-se em 4.4.2012 (e-STJ fl. 21).
+Embora tenha sido juntada a intimação, não consta no caderno processual o seu termo de recebimento, essencial para confirmar a alegação de que o impetrante, na condição de inventariante, não foi notificado sobre o referido processo de anulação.
+De acordo com os marcos temporais assinalados, o ex-militar já teria falecido quando da abertura do processo de anulação de sua anistia, razão pela qual a intimação se concretizou com o seu recebimento por pessoa diversa, não identificada nos autos em vista da instrução deficiente.
+Nessa linha de entendimento, a ausência de prova pré-constituída sobre o alegado direito líquido e certo do impetrante está comprovada com base na instrução deficiente da ação mandamental, que inadmite dilação probatória.
+Por todo o exposto, julgo extinto o Mandado de Segurança sem julgamento de mérito.
+Publique-se.
+Intimem-se.
