@@ -1,0 +1,7 @@
+DECISÃO
+Por meio de decisão de fls. 606/607determinei o retorno dos autos ao Tribunal de origem para que fosse observado o disposto nos arts.1.040 e seguintesdo CPC/2015, uma vez que a questão tratada nos autos teve sua Repercussão Geral admitida pelo Supremo Tribunal Federal, nos autos do RE 677.725/RS, Tema n. 554.
+Contudo,não foi observado o ritoacima mencionado, visto quea Vice-Presidênciado Tribunal de origem proferiu decisão de admitindo os recursos especiais interpostos pelas partesao invés de observar o procedimento previsto no CPC/2015.
+Com efeito, nos termos da jurisprudência desta Corte, " na sistemática introduzida pelos artigos 543-B e 543-C do CPC/73, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação/conformação do caso concreto ao precedente formado em repetitivo ourepercussãogeral, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008" (AgInt no REsp 1669263/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/04/2018, DJe 04/05/2018)
+Nesse contexto, não tendo sido cumprido o que determinado na decisão de fls. 606/607, os autos devem retornar ao Tribunal de origem.
+Ante o exposto, determino novo retorno dos autos Ao Tribunal de origem para que seja realizado o juízo de conformação pelo Órgão fracionário, à luz do que foi decidido pelo Supremo Tribunal Federal no recurso extraordinário com repercussão geralacima mencionado.
+Publique-se. Intimem-se. Cumpra-se.
