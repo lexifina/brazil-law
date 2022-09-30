@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por LUÍS FERNANDO BORGES (LUÍS)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal Mineiro, assim ementado:
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - PROCESSO SUSPENSO POR FALTA DE BENS A PENHORAR - PRESCRIÇÃO INTERCORRENTE - OCORRÊNCIA - - INTIMAÇÃO PESSOAL PARA DAR ANDAMENTO AO FEITO DESNECESSÁRIA - INTIMAÇÃO PARA FINS DE CONTRADITÓRIO - JULGADO PARADIGMA - RESP. Nº 160441 2/SC. Considerando o julgado paradigma, REsp. nº 16044121SC, mesmo sem bens a penhorar, o processo fica suspenso pelo prazo de um ano se o juiz não fixar prazo nenhum, contando a partir de então o prazo prescricional da pretensão executiva. Ultrapassado este prazo sem manifestação da parte exequente, dá-se a prescrição intercorrente. A intimação pessoal para dar andamento ao feito é desnecessária, bastando a intimação para fins do contraditório, uma vez que a parte pode alegar alguma causa que impeça, suspenda ou interrompa a contagem do prazo prescricional(e-STJ, fl. 565).
+Os embargos de declaração opostos por LUÍSforamrejeitados(e-STJ, fls. 598/605).
+Irresignado, LUÍS interpôsrecurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação aos arts. 314, 921, III, 923, 1.056do NCPC, 199 do CC, bem como dissídio jurisprudencial,ao sustentarque(1)a prescrição intercorrente apenas pode ser contada a partir da intimação do credor; e (2) o prazo de prescrição intercorrente tem início a partir da vigência do NCPC, pois o CPC/73 não previa tal modalidade prescritiva(e-STJ, fls. 608/644).
+O recurso não foi admitido pelo Tribunal Mineiro (e-STJ, fls. 671/672).
+Nas razões do presente agravo, LUÍS alegouque não incidem os óbices apontados na decisão de inadmissibilidade (e-STJ, fls. 675/701).
+Foi apresentada contraminuta (e-STJ, fls. 704/708).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) e (2)Da prescrição intercorrente
+Nas razões do presente recurso, LUÍS afirmou a violação dos arts. 314, 921, III, 923, 1.056 do NCPC, 199 do CC, bem como dissídio jurisprudencial, ao sustentar que (1) a prescrição intercorrente apenas pode ser contada a partir da intimação do credor; e (2) o prazo de prescrição intercorrente tem início a partir da vigência do NCPC, pois o CPC/73 não previa tal modalidade prescritiva.
+No caso dos autos, JÚLIO CÉSAR DE OLIVEIRA interpusera recurso especial anteriormente, ao qual dei provimento, reconhecendoa aplicabilidade da prescrição intercorrente, nos termos do entendimento firmado em incidente de assunção de competência, determinando o retorno dos autos ao TJ/MG para que procedesse à intimação de LUÍS para que se manifestasse acerca de eventual fato impeditivo da incidência da prescrição.
+Diante disso, o Tribunal estadual, em novo julgamento, dando cumprimento à determinação do STJ, reconheceu a ocorrência de prescrição intercorrente.
+Portanto, já foram objeto de apreciação por esta Corte as matérias atinentes (i) à necessidade de intimação do exequente para dar início ao prazo prescricional; (ii) ao termo inicial do prazo de prescrição intercorrente; e (iii) à possibilidade de fluência do prazo prescricional sob a égide do CPC/73.
+Veja-se o excerto da decisão que deu parcial provimento ao recurso especial:
+Todavia, a Segunda Seção, no julgamento do REsp nº 1.604/412/SC de relatoria do Ministro MARCO AURÉLIO BELLIZZE, sob o rito do incidente de assunção de competência, fixou as seguintes teses: 1.1 Incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do CC/02. 1.2 O termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de 1 (um) ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980). 1.3. O termo inicial do art. 1.056 do CPC/2015 tem incidência apenas nas hipóteses em que o processo se encontrava suspenso na data da entrada em vigor da novel lei processual, uma vez que não se pode extrair interpretação que viabilize o reinício ou a reabertura de prazo prescricional ocorridos na vigência do revogado CPC/1973 (aplicação irretroativa da norma processual). 1.4 O contraditório é princípio que deve ser respeitado em todas as manifestações do Poder Judiciário, que deve zelar pela sua observância, inclusive nas hipóteses de declaração de ofício da prescrição intercorrente, devendo o credor ser previamente intimado para opor algum fato impeditivo à incidência da prescrição (e-STJ, fl. 486).
+Nesse norte, as alegações trazidas no recurso especial encontram-se acobertadas pela preclusão, não podendo ser reinauguradas nesse estágio processual.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. MULTA. VALOR. REVISÃO. SÚMULA Nº 7/STJ. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO CONSUMATIVA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. No caso, não subsiste a alegada ofensa ao art. 1.022 do CPC/2015, pois o tribunal de origem enfrentou as questões postas, não havendo no aresto recorrido omissão, contradição, obscuridade ou erro material.
+3. Na hipótese, rever o entendimento da Corte de origem quanto à inviabilidade de rediscussão acerca do valor da multa cominatória, tendo em vista que já foi objeto de discussão em recurso anterior, demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, consoante o disposto na Súmula nº 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça preleciona que as questões de ordem pública também estão sujeitas à preclusão se já tiverem sido objeto de anterior manifestação jurisdicional e se ausente insurgência da questão no momento oportuno.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.766.665/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 19/9/2022, DJe de 23/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RENOVATÓRIA DE LOCAÇÃO COMERCIAL EM FASE DE CUMPRIMENTO DE SENTENÇA. HONORÁRIOS DE SUCUMBÊNCIA NÃO FIXADOS NA SENTENÇA. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. MATÉRIA DE ORDEM PÚBLICA. PRECLUSÃO. IMPOSSIBILIDADE DE REVISÃO NA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. PRECEDENTES. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça tem entendimento no sentido de que as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já foram objeto de anterior manifestação jurisdicional.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.858.498/RJ, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 27/6/2022, DJe de 29/6/2022.)
+Assim, o recurso especial não merece conhecimento.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER dorecurso especial.
+MAJORO em 2% o valor dos honorários advocatícios anteriormente fixados em favor de JÚLIO CÉSAR DE OLIVEIRA,nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. REDISCUSSÃO. IMPOSSIBILIDADE. PRECLUSÃO.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
