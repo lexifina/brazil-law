@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em benefício deLineker Sebastiao Moura Neto, apontando-se como autoridade coatora o Tribunal de Justiça de Minas Gerais, que denegou o HC n.1.0000.21.234849-4/000(fls. 34/40).
+Consta dos autos que o paciente está preso preventivamente pela prática, em tese, do delito previsto no art. 33,caput, da Lei n. 11.343/2006.
+Sustenta-se, inicialmente, a inexistência de indícios de autoria, argumentando-se que o paciente é apenas usuário de drogas e que a substância entorpecente encontrada pertence a outra pessoa.Aponta-se, ainda, a faltade justa causa para a ação penal.
+Alega-se a ausência de fundamentação idônea para a prisão preventiva, destacando-se que o paciente tem residência fixa e ocupação lícita.
+Requer-se, em liminar e no mérito, o relaxamento da prisão preventiva ou, subsidiariamente, a substituição da constrição por medidas cautelares alternativas (art. 319 do CPP).
+A liminar foi indeferida (fls. 43/44).
+As informações foram prestadas às fls. 51/61.
+O Ministério Público Federal opinou pelonão conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem (fl. 71).
+É o relatório.
+O writ está prejudicado.
+Isso porque, diante das informações colhidas na página eletrônica do Tribunal local, nota-se que,em 19/8/2022,foi proferida sentença condenando o ora paciente, mantendo a suaprisão e, por conseguinte, vedando-lhe o direito de recorrer em liberdade.
+A sentença condenatória constitui novo título judicial a motivar a custódia cautelar, razão pela qual prosseguir na análise deste feito implicaria inadmissível supressão de instância. Afinal, o novo decreto não foi ainda submetido à análise da instância originária.
+Consoante precedentes desta Corte,havendo sido prolatada sentença condenatória em desfavor de um dos acusados, ainda que lhe tenha sido vedado o direito de apelar em liberdade, é de se julgar prejudicado o exame do habeas corpus quanto à higidez dos fundamentos invocados originariamente pelo Juízo de primeiro grau para imposição de sua custódia preventiva, para não incorrer em supressão de instância(HC n. 423.213/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/6/2018).
+Igualmente, nos termos do enunciado da Súmula 648 do STJ, a superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus.
+Ainda que assim não fosse, não há ilegalidade manifesta a ser sanada nos autos.
+Com razão o nobre Subprocurador-Geral da RepúblicaJosé Adonis Callou de Araújo Sá, cujo parecer adoto como razão de decidir (fls. 65/70 - grifo nosso):
+Não há ilegalidade a ser reconhecida.
+O Supremo Tribunal Federal, no julgamento do RE 603.616,com repercussão geral (Tema 280), firmou o entendimento de que a entrada forçada em domicílio sem mandado judicial só é lícita, mesmo em período noturno, quando amparada em fundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa há situação de flagrante delito. O acórdão recebeu a seguinte ementa:
+ ..
+O Superior Tribunal de Justiça, seguindo a orientação firmada pelo STF em recurso representativo de controvérsia, firmou jurisprudência no sentido de que para o ingresso no imóvel devem haver fundadas razões da prática de crime permanente, não bastando a existência de notícia anônima, desacompanhada de outros elementos preliminares indicativos de crime, ou mesmo a suspeita em razão da fuga do investigado (AgRg no HC 645.519/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em20/04/2021, DJe 26/04/2021). Destaco outras recentes decisões do STJ sobre o tema;HC 632.748/MS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTATURMA, julgado em 04/05/2021, DJe 07/05/2021; AgRg no RHC 132.343/RN,Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/04/2021,DJe 30/04/2021.
+Em recente decisão (HC 598.051/SP - DJe de 15/03/2021), a Sexta Turma do STJ propôs nova e criteriosa abordagem sobre o controle do alegado consentimento do morador para o ingresso em seu domicílio por agentes estatais, das quais podemos citar: a) a existência de fundadas razões (justa causa), aferidas de modo objetivo e devidamente justificadas, de maneira a indicar que dentro da casa ocorre situação de flagrante delito; b) O consentimento do morador, para validar o ingresso de agentes estatais em sua casa e a busca e apreensão de objetos relacionados ao crime, precisa ser voluntário e livre de qualquer tipo de constrangimento ou coação; e c) A prova da legalidade e da voluntariedade do consentimento para o ingresso na residência do suspeito incumbe, em caso de dúvida, ao Estado, e deve ser feita com declaração assinada pela pessoa que autorizou o ingresso domiciliar, indicando-se, sempre que possível, testemunhas do ato. A operação deve ser registrada em áudio-vídeo e preservada tal prova enquanto durar o processo. Foi estabelecido o prazo de um ano para permitir o aparelhamento das polícias, treinamento e demais providências necessárias para a adaptação às diretrizes da referida decisão, de modo a, sem prejuízo do exame singular de casos futuros, evitar situações de ilicitude que possam, entre outros efeitos, implicar responsabilidade administrativa, civil e/ou penal do agente estatal. O processo encontra-se no STF, para julgamento de recurso extraordinário(HC 598.051/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em02/03/2021, DJe 15/03/2021).
+Segundo apontam os autos, os policiais foram até a residência de Lineker Sebastião Moura Neto para fiscalizar a sua prisão domiciliar. Ao chegarem no local, bateram à porta e se identificaram, tendo sido atendidos pelo paciente. Notaram que havia cigarros de maconha no recinto. Por essa razão, resolveram, fazer uma busca no imóvel e lá encontraram também 18 pedras de crack, na sala, R$ 90,00 em uma cômoda, além de R$ 350,00 e 1 simulacro de arma de fogo, no guarda-roupa. Ao darem voz de prisão aos réus, o corréu propôs apresentar um menor de idade para assumir a propriedade da droga e, caso a proposta fosse aceita, esconder um revólver em algum local a ser revelado para ser apreendido com o adolescente (fls. 31/33).
+O delito de tráfico de drogas possui natureza permanente, cuja consumação se prolonga no tempo, razão pela qual, na hipótese de fortes indícios de sua ocorrência, a prisão em flagrante sem o devido mandado judicial não constitui violação de domicílio nem contamina as provas colhidas.
+De toda forma, o exame do alegado comprometimento do conjunto probatório produzido mediante apreensão domiciliar ultrapassa os limites do habeas corpus, que não comporta debate e desate de matéria controversa sobre prova, nos termos da jurisprudência desse STJ (RHC 145676AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em24/08/2018, PROCESSO ELETRÔNICO DJe-187 DIVULG 05/09/2018 PUBLIC06/09/2018).
+ ..
+Prisão preventiva.
+No caso dos autos, as instâncias ordinárias demonstraram a existência dos pressupostos e da necessidade da prisão cautelar.
+Ao paciente é atribuída a prática do crime de tráfico de drogas, que admite a prisão preventiva (CPP, art. 313, I).
+O Juízo de 1º grau converteu a prisão em flagrante em preventiva, com os seguintes fundamentos (fls. 31/32):
+ ..
+O Tribunal de origem manteve a prisão preventiva do paciente, pelos fundamentos a seguir transcritos (fls. 39):
+Estão presentes e demonstrados, na decisão questionada, motivos suficientes para a manutenção da prisão do recorrente, visando à garantia da ordem pública. Cabe lembrar que a garantia da ordem pública significa preservação da própria segurança pública.
+As circunstâncias do caso justificam a manutenção da prisão preventiva e tornam inócua a sua substituição por cautelares diversas da prisão, em razão do risco concreto de reiteração delitiva.
+Conforme já assinalado, Lineker foi preso em flagrante, durante fiscalização da sua prisão domiciliar. Na ocasião, em poder do acusado, os policiais apreenderam drogas, dinheiro e um simulacro de arma de fogo.
+Ainda que o volume de drogas apreendidas seja pequeno, a existência de outros elementos aptos a demonstrar a habitualidade da conduta delitiva e a periculosidade do agente justifica a custódia cautelar. A propósito, segue o precedente:
+ ..
+Pelo exposto,julgo prejudicadoo presentehabeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. FALTA DE JUSTA CAUSA PARA A AÇÃO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. PERDA DO OBJETO.
+Writ prejudicado.
