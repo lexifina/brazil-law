@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de Agravo Interno interposto contra decisão da Presidência do STJ que não conheceu do Agravo em Recurso Especial.
+A parte agravante afirma:
+Segundo o i. Relator, a União teria deixado de impugnar especificamente fundamento adotado na decisão agravada motivo pelo qual atraiu o óbice da súmula 182/STJ.
+Contudo, a hipótese não é de incidência do mencionado óbice. Observa-se claramente que a União indica quer os acórdãos COLACIONADOS NÃO SE ADEQUAM AO CASO CONCRETO, TENDO EM VISTA QUE A MULTA APLICADA SE DEU DE FORMA ILEGAL, POIS OS SEGUNDOS ACLARATÓRIOS SUSCITAVA FATO NOVO (SUSPENSÃO DO PROCESSO ATÉ JULGAMENTO FINAL DO RE 870.947).
+Pleiteia a reconsideração do decisum agravado ou a submissão do Recurso à Turma.
+Impugnação não apresentada.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.9.2022.
+De início, esclareço que assiste razão à parte agravante quando alega que enfrentou todos os argumentos expendidos pelo Tribunal a quo constantes da decisão que inadmitiu seu Recurso Especial, razão pela qual reconsidero a decisão agravada, passando, desde logo, à nova análise da pretensão recursal.
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO. APLICABILIDADE IMEDIATA DAS TESES EM REPERCUSSÃO GERAL. CAUSA JULGADA EM DATA ANTERIOR À CONCESSÃO DE EFEITO SUSPENSIVO AOS EMBARGOS DE DECLARAÇÃO OPOSTOS NO RE 870.947/SE. INEXISTÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. REDISCUSSÃO DA CAUSA. IMPOSSIBILIDADE.
+A parte agravante, nas razões do Recurso Especial, sustenta:
+Verifica-se que o v. acórdão recorrido determinou a aplicação de multa de 1% sobre o valor atualizado da causa, pois entendeu que os embargos de declaração apresentados teriam caráter protelatório.
+Ao assim proceder, violou o disposto no art. 1.026, §2º, do CPC, uma vez que, sob nenhuma hipótese, os embargos de declaração da União são manifestamente protelatórios, conforme exige o supracitado dispositivo.
+Contrarrazões não apresentadas.
+Houve juízo de admissibilidade negativo na instância de origem, o que deu ensejo à interposição do presente Agravo.
+Passoà nova fundamentação.No enfrentamento da matéria, o Colegiado regional apresentouos seguintes fundamentos:
+Além do mais, os aclaratórios tem por escopo eliminar eventual obscuridade, contradição, omissão ou erro material existente no corpo do julgado embargado  que, na espécie, seria o acórdão proferido nos primeiros embargos de declaração  , de modo que os novos embargos de declaração devem limitar-se ao objeto de aclaramento do acórdão que julgou os embargos anteriormente opostos, não sendo admissível pretender, por meio deles, o rejulgamento da causa e a alteração do quanto decidido por ocasião do julgamento do recurso de apelação, visando a prevalência da tese que defende em relação à correção monetária aplicável.
+Como se não bastasse, houve expressa manifestação no acórdão que julgara o recurso voluntário quanto à aplicabilidade do RE 870.947/SE à espécie, em julgamento ocorrido antes da decisão que deferiu efeito suspensivo aos embargos de declaração opostos no RE 870.947/SE (em 24/09/2018), não sendo possível a este órgão julgador prever sua concessão e, portanto, houve o adequado esgotamento da prestação jurisdicional por ocasião daquele julgamento, sem qualquer mácula englobada nas hipóteses de cabimento do art. 1.022 do CPC.
+Evidente, pois, o descabimento dos embargos declaratórios sob exame, por falta de previsão legal, pois seus fundamentos não se enquadram nas hipóteses do art. 1.022 do CPC.
+Posto isso, rejeito os embargos declaratórios, tenho-os por protelatórios e aplico à embargante a multa de 1% sobre o valor atualizado da causa (CPC, art. 1.026, § 2º c/c parágrafo único, 1º parte, do art. 306, §1º, do RIfTRF-1º Região).
+O pedido de exclusão da multa aplicada pela Cortea quo com lastro no art. 1.026, § 2º, do CPC/2015, não merece provimento.
+Da leitura dos Embargos de Declaração (fls. 236-230, e-STJ), constata-se que os Aclaratórios não foram manifestados com o intento de prequestionar a matéria a ser enfocada no âmbito do Apelo Especial, não se aplicando ao caso a previsão constante da Súmula 98 desta Corte, in verbis: "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDORA PÚBLICA. CONTRATAÇÃO SEM CONCURSO PÚBLICO. FGTS. COBRANÇA DE VALORES NÃO PAGOS. OBSERVÂNCIA AO ARE 709.212/DF. PARA OS CASOS EM QUE O PRAZO PRESCRICIONAL JÁ ESTEJA EM CURSO, APLICA-SE O QUE OCORRER PRIMEIRO: 30 ANOS, CONTADOS DO TERMO INICIAL, OU 5 ANOS, A PARTIR DESTA DECISÃO. ACÓRDÃO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ E DO STF. EMBARGOS DE DECLARAÇÃO OPOSTOS COM PROPÓSITO PREQUESTIONADOR. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2º, DO CPC/15. AFASTAMENTO. SÚMULA 98/STJ.
+(..)
+6. A multa imposta com base no art. 1.026, § 2º do CPC/15 deve ser afastada quando os Embargos de Declaração tenham sido opostos com visível propósito de prequestionamento, de modo a elidir seu caráter protelatório, como assentado na Súmula 98 do STJ e na jurisprudência consolidada do STJ.
+7. Recurso Especial parcialmente provido, apenas para afastar a multa do artigo 1.026, § 2º, do CPC/2015.
+(REsp 1.895.949/PI, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/4/2021.)
+Outrossim, a alteração da conclusão quanto ao caráter protelatório dos Embargos opostos na origem também esbarra no óbice da Súmula 7/STJ. Vejam-se os precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÕES. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE PREQUESTONAMENTO. SÚMULA 282/STF. SERVIDOR PÚBLICO. CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. ÍNDICES DE CORREÇÃO MONETÁRIA. ART. 1º-F DA LEI N. 9.494/1997. RECURSO ESPECIAL REPETITIVO N. 1.495.146/MG. EMBARGOS DE DECLARAÇÃO. MULTA. SÚMULA 7/STJ.
+(..)
+5. A análise do art. 1.026, § 2º, do CPC/2015, que trata da penalidade por oposição de embargos de declaração protelatórios, demanda reexame do acervo fático-probatório dos autos. Incidência da Súmula 7/STJ.
+6. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1.931.702/SP, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/8/2021.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 1.022, II E III, DO CPC/2015 NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF. DEFICIÊNCIA DA FUNDAMENTAÇÃO. FUNDAMENTOS NÃO ATACADOS. INCIDÊNCIA DAS SÚMULAS 283/STF E 284/STF. NECESSIDADE DE REVISÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. APLICAÇÃO DE MULTA. REEXAME DOS FATOS. SÚMULA 7/STJ.
+(..)
+13. A alteração da conclusão quanto ao caráter protelatório dos Aclaratórios opostos na instância de origem também esbarra no óbice da Súmula 7/STJ. Precedentes: AgInt no REsp 1.352.245/MS, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 26.10.2018; AgInt no REsp 1.670.007/MG, Rel. Min. Og Fernandes, Segunda Turma, DJe 9.5.2018; AgInt no AREsp 1.167.883/DF, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 5.3.2018.
+14. Recurso Especial parcialmente conhecido, somente em relação à preliminar de violação ao art. 1.022 do CPC/2015 e, nessa parte, não provido.
+(REsp 1.801.128/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2019.)
+ADMINISTRATIVO. SERVIDÃO ADMINISTRATIVA. JUROS MORATÓRIOS. ALEGAÇÃO DE VIOLAÇÃO AO ART. 538 DO CPC/1973. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7/STJ.
+I - A respeito da alegada violação do art. 538 do CPC/1973, o acórdão recorrido, com base nos elementos fáticos da lide, assim firmou sua convicção (fls. 464-465): "Finalmente, no que tange ao propósito de prequestionamento dos presentes Embargos de Declaração, também não merece guarida a pretensão dos embargantes, pois, consoante firme orientação jurisprudencial do Superior Tribunal de Justiça, mesmo para fins de prequestionamento deve a parte demonstrar a ocorrência dos vícios enumerados no art. 535 do Código de Processo Civil, ou seja, omissão, contradição ou obscuridade, o que não ocorreu no presente feito".  ..  "Diante das considerações acima feitas, nota-se que os presentes embargos são manifestamente protelatórios, na medida em que objetivam o reexame de matéria já decidida, com o consequente retardamento da prestação jurisdicional e, por tais razões, há que se condenar os embargantes no pagamento, à embargada, de multa no importe de 1% (um por cento) sobre o valor da causa, nos termos do art. 538, parágrafo único do CPC"  ..  Por todo o exposto, REJEITO os presentes embargos, mas condenando os embargantes no pagamento, à embargada, da multa de 1% (um por cento) sobre o valor da causa, em face do caráter protelatório do presente recurso.
+II - Desse modo, verifica-se que, afastar as conclusões do acórdão recorrido, que reconheceu o propósito protelatório dos aclaratórios, demandaria o reexame do conjunto fático-probatório dos autos, inviável em sede de recurso especial, sob pena de ofensa ao disposto na Súmula n. 7/STJ.
+III - Agravo interno improvido.
+(AgInt no REsp 1.626.259/MG, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/5/2018.)
+Por tudo isso, conheço do Agravo Interno para, em juízo de retratação, reconsiderar a decisão de fls. 269-271, e-STJ, a fim de conhecer do Agravoe, nessa extensão, negar provimento ao Recurso Especial. Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
