@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo manejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão que não admitiu recursoespecial, este interposto com fundamento no art. 105, III, a, da CF,desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl.166):
+PREVIDENCIÁRIO. EXECUÇÃO. EXCESSO EXISTÊNCIA. CÁLCULO DO CONTADORJUDICIAL. APELAÇÃO PROVIDA EM PARTE.
+1. Trata-se execução, nos quais a exequente requer a homologação de seus cálculos.
+2. Sendo a contadoria o órgão de auxílio do Juízo e sem qualquer interesse na lide, os cálculos por ela operados devem prevalecer, até prova em contrário. Não concordando, ao devedor-executado cabe, em embargos à execução, comprovar o alegado excesso, não bastando a mera referência aos valores que julgar corretos.
+3. A Seção de Cálculos Judiciais do TRF3ª Região apresentou novos cálculos, que foram homologados.
+4. Apelação provida em parte.
+Opostos embargos de declaração, foram acolhidos, sem alteração do resultado do julgamento (fl.216)
+Aponta o recorrente, nas razões do recurso especial, violação aos arts. 11, 141, 489, II e § 1º, IV, 492 e 1.022, I e II, do CPC, sustentando, além de negativa de prestação jurisdicional, a ocorrência de julgamento ultra petita, na medida em que "da análise do título judicial exsurge a inexistência de condenação da autarquia à implantação de pensão por morte. Fora concedido apenas o benefício de auxílio-doença ao autor originário. Não é possível, em fase de execução, a inclusão de parcelas relativas a benefício estranho à lide" (fl. 227).
+Aduz que, não é "devida a inclusão das parcelas relativas ao benefício de pensão por morte. Reconheça-se, inclusive, que nem poderia ser possível tal inclusão, em atenção aos exatos limites dos pedidos veiculados na petição inicial e das enfáticas disposições insertas nos artigos 141 e 492 da lei civil adjetiva, os quais consagram o princípio da adstrição da sentença ao pedido" (fl. 227).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 234/238.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+A irresignação comporta acolhida.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489 e 1.022do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente,as questões que lhe foram submetidas e apreciou integralmente a controvérsiaposta nos autos; não se pode, ademais, confundir julgamento desfavorável aointeresse da parte com negativa ou ausência de prestação jurisdicional.
+Quanto à questão de fundo, consigna-se queesta Corte firmou o entendimento de que "nãoocorre julgamento ultra petita se o Tribunal local decide questão que éreflexo do pedido na exordial. O pleito inicial deve ser interpretado emconsonância com a pretensão deduzida na exordial como um todo, sendo certoque o acolhimento da pretensão extraído da interpretaçãológico-sistemática da peça inicial não implica julgamento extra petita"(AgRg no AREsp 322.510/BA, Rel. Ministro Herman Benjamin, Segunda Turma,julgado em 11/06/2013, DJe 25/06/2013).
+No mesmo sentido, confiram-se os precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. ART. 293 DOCPC. VIOLAÇÃO NÃO CONFIGURADA. JULGAMENTO EXTRA PETITA. INOCORRÊNCIA.
+1. Infere-se dos autos que a petição inicial trouxe pedido expresso deimposição de condenação pecuniária em desfavor do ente público, e que asentença decidiu a lide nos limites em que foi proposta, não havendo quese falar em violação do art. 293 do Código de Processo Civil.
+2. Consoante entendimento sedimentado nesta Corte Superior, "não ocorrejulgamento extra petita se o tribunal de origem decide questão que éreflexo do pedido na exordial" (AgRg no Ag n. 520.958/RJ, rel. Min. PauloFurtado, DJ de 27/5/2009), hipótese na qual se encaixa o inconformismo oramanifestado.
+3. Recurso especial não provido.
+(REsp 1.244.329/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA,julgado em 02/06/2011, DJe 10/06/2011)
+PROCESSUAL CIVIL - PEDIDO - LIMITES - INTERPRETAÇÃO LÓGICO-SISTEMÁTICA QUESE FAZ NECESSÁRIA.
+1. "Não viola os arts. 128, 293 e 460 do CPC o acórdão que interpreta deforma ampla o pedido formulado na petição inicial, pois o pedido é o quese pretende com a instauração da demanda e extrai-se da interpretaçãológico-sistemática da petição inicial" (AgRg no Ag 567.773/RJ, Rel.Ministra DENISE ARRUDA, PRIMEIRA TURMA, julgado em 19/08/2004, DJ20/09/2004, p. 192).
+2. Recurso especial não conhecido.
+(REsp 1.284.927/PR, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgadoem07/05/2013, DJe 15/05/2013)
+Ademais,a jurisprudência desta Corte está consolidada no sentido de que,diante da relevância social e alimentar dos benefícios previdenciários,pode o magistrado, constatando que foram cumpridos os requisitosnecessários, conceder benefício diversodo benefício ao requerido nainicial.Assim, pode o julgador, desde que preenchidos os requisitoslegais, apreciar os fatos, de ofício, e adequar a hipótese ao benefíciocabível.
+Nesse sentido, destacam-se os seguintes precedentes:
+PREVIDENCIÁRIO. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973.APLICABILIDADE. AUXÍLIO-ACIDENTE. MANUTENÇÃO DA QUALIDADE DE SEGURADO.ART. 15, I E § 3º, DA LEI N. 8.213/1991. ART. 137 DA INSS/PRES n. 77/2015(E ALTERAÇÕES). APOSENTADORIA POR INVALIDEZ. NÃOPREENCHIMENTO DOSREQUISITOS. INCAPACIDADE PARCIAL E PERMANENTE PARA ATIVIDADE HABITUAL.CONCESSÃO DE AUXÍLIO-DOENÇA ATÉ QUE SEJA REALIZADA A REABILITAÇÃOPROFISSIONAL. INTELIGÊNCIA DOS ARTS. 59 E 62 DA LEI N. 8.213/91.INOCORRÊNCIA DE JULGAMENTO EXTRA OU ULTRA PETITA. RECURSO ESPECIALPARCIALMENTE PROVIDO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em09.03.2016, o regime recursal será determinado pela data da publicação doprovimento jurisdicional impugnado. In casu, aplica-se o Código deProcesso Civil de 1973. II - Mantém a qualidade de segurado, independentede contribuições e sem limite de prazo, aquele que está em gozo debenefício previdenciário, inclusive auxílio-acidente, nos termos dos arts.15, I e § 3º, da Lei n. 8.213/1991 e 137 da INSS/PRES n. 77/2015 (e suasalterações).
+III - Comprovada a incapacidade parcial e permanente para a atividadehabitual, o segurado faz jus ao recebimento do auxílio-doença, até queseja reabilitado para o exercício de outra atividade compatível com alimitação laboral, nos termos dos arts.59 e 62 da Lei n. 8.213/1991, restando afastada a concessão de
+aposentadoria por invalidez, cujos requisitos sãoincapacidade total epermanente, insuscetível de reabilitação para o exercício de atividadelaborativa.
+IV - É firme a orientação desta Corte de que não incorre em julgamentoextra ou ultra petita a decisão que considera de forma ampla o pedidoconstante da petição inicial, para efeito de concessão de benefícioprevidenciário.
+V - Recurso especial do segurado parcialmente provido, para conceder obenefício de auxílio-doença a contar da data do requerimentoadministrativo, até que seja realizada a reabilitação profissional.
+(REsp 1.584.771/RS, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA,julgado em 28/05/2019, DJe 30/05/2019)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. CONVERSÃO DEAPOSENTADORIA ESPECIAL EM PENSÃO POR MORTE. ATO DE CONVERSÃO DEFERIDO NOPROCESSO DE EXECUÇÃO. ÓBITO DO SEGURADO APÓS PROLAÇÃO DA SENTENÇA DEPROCEDÊNCIA. JULGAMENTO EXTRA OU ULTRA PETITA. NÃO CONFIGURAÇÃO.PRECEDENTES DO STJ. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+1. O STJ tem entendimento consolidado de que, em matéria previdenciária,deve flexibilizar-se a análise do pedido contido na petição inicial, nãoentendendo como julgamento extra ou ultra petita a concessão de benefíciodiverso do requerido na inicial, desde que o autor preencha os requisitoslegais do benefício deferido.
+2. Reconhecido o direito à aposentadoria especial ao segurado do INSS, quevem a falecer no curso do processo, mostra-se viável a conversão dobenefício em pensão por morte, a ser paga a dependentedo de cujus, nafase de cumprimento de sentença. Assim, não está caracterizada a violaçãodos artigos 128 e 468 do CPC.
+3. Recurso especial conhecido e não provido.
+(REsp 1.426.034/AL, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA,julgado em 05/06/2014, DJe 11/06/2014)
+Portanto, o acórdão recorrido está em harmonia com a jurisprudência deste Tribunal,que nãoconsidera julgamento ultra ou extra petita adecisão queinterpreta sistematicamente e de forma ampla o pedido formulado pelaspartes.
+ANTE O EXPOSTO, nego provimento ao presente agravo.
+Publique-se.
