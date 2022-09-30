@@ -1,0 +1,14 @@
+DECISÃO
+PROCESSUAL  CIVIL.  AGRAVO EM  RECURSO  ESPECIAL.  INCIDÊNCIA  DA  CONTRIBUIÇÃO  PREVIDENCIÁRIA  SOBRE  O  TERÇO  CONSTITUCIONAL  DE  FÉRIAS.  ENTENDIMENTO  FIRMADO  NO  TEMA  985/STF.  APLICAÇÃO  IMEDIATA.  AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agrava-se dadecisão que inadmitiu o recurso especial interposto porBAVARIA S.A. ao argumento de que "o Supremo Tribunal Federal, no julgamento do RE nº 1.072.485/PR, vinculado ao tema nº 985 de Repercussão Geral, reconheceu o caráterconstitucional dacontrovérsia relativa à incidência de contribuição previdenciária sobre os valores pagos a título de terço constitucional de férias" (fl. 771).
+2. Em suas razões recursais (fls. 843/861), a parte agravante requer, em síntese, o sobrestamento do presente feito até o julgamento final dos embargos de declaração opostos no RE 1.072.085/PR - Tema 985.
+3. É o breve relatório.
+4. Da leitura da petição de agravo, constata-se que a recorrente pretende apenas que seja determinada a suspensão do processo até o julgamento final do Tema 985 pelo STF.
+5. Todavia, no que diz respeito ao pedido formulado, é cediço nesta Corteo  entendimento  de  que  a  pendência  de  julgamento  de  embargos  de  declaração  no  recurso  paradigma  de  repercussão  geral  ou  repetitivo  não  impede  a  aplicação  imediata  da  tese  firmada  (EDcl  no  AgRg  no  REsp  n.  1.471.440/RS,  relator  Ministro  Og  Fernandes,  Segunda  Turma,  julgado  em  6/3/2018,  DJe  de  13/3/2018). No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESSARCIMENTO AO SUS. PRESCRIÇÃO APLICÁVEL. QUINQUENAL. DECRETO 20.910/32. SOBRESTAMENTO. AGUARDO DO TRÂNSITO EM JULGADO DA REPERCUSSÃO GERAL NO STF. DESNECESSIDADE.TABELA TUNEP. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Não há falar em sobrestamento do processo, pois o fato de o acórdão proferido pelo Supremo Tribunal Federal no julgamento do RE 597.064/RJ não ter transitado em julgado, em virtude da pendência de julgamento de embargos de declaração, não impede a imediata aplicação do novo entendimento e nem impõe o sobrestamento do presente processo.
+4. Aferir se os valores cobrados a título de ressarcimento, previstos na Tabela TUNEP, superam ou não os que são efetivamente praticados pelas operadoras de plano de saúde, como pretende a recorrente, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7/STJ.
+5. Agravo interno não provido.(AgInt no AREsp n. 1.657.145/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe de 9/9/2020 - grifei.)
+6. Ante o exposto, conheço do agravo de BAVARIA S.A para negar provimento a seu recurso especial.
+7. Publique-se. Intimem-se.
