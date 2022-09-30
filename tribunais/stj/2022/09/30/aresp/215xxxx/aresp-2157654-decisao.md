@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONALS.A. (AMIL) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado de São Paulo, da relatoria do desembargador RUI CASCALDI, assim ementado:
+PLANO DE SAÚDE Cominatória c/c indenizatória Autora que teve rescindido seu contrato de plano de saúde sem que efetivamente comprovada a notificação para purgação da mora e sem o envio de boletos posteriores à data em que se operou a suposta rescisão Infringência ao disposto no art. 13, parágrafo único, I, da Lei nº 9.656/98 De rigor o restabelecimento do contrato, mediante o adimplemento dos valores tidos inadimplentes até o cancelamento Dano moral Ocorrência Quantum indenizatório, de R$5 mil, é até mesmo inferior ao concedido pela Câmara em casos semelhantes Decisum mantido por seus próprios e jurídicos fundamentos, nos termos do art. 252 do Regimento Interno do TJSP - Apelo não provido, com observação (e-STJ, fl. 510).
+Os embargos de declaração opostos pela AMIL foram rejeitados (e-STJ, fls. 535/537).
+Inconformada, AMIL interpôs recurso especial com base no art. 105, III, alíneaa, da CF, apontando violação aoart. 13, parágrafo único,II, da Lei nº9.656/98, ao sustentar, em síntese, que a AMILpodepromover o cancelamento do contrato, uma vez que,o recorrente se encontrava com seu débito vencido e sem pagamento, agindo a AMILno exercício regular de um direito reconhecido.Aduz que encaminhou anotificação ao endereço do consumidor.
+O recurso não foi admitido pelo TJSP (e-STJ, fls. 548/549).
+Nas razões do presente agravo, AMILalegouque não incideoóbiceapontadona decisão de inadmissibilidade.
+Foi apresentada contraminuta (e-STJ, fls. 770/777).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Da alegada violação doart. 13, parágrafo único, II, da Lei nº 9.656/98.
+AMIL alegouque pode promover o cancelamento do contrato, uma vez que, o recorrente se encontrava com seu débito vencido e sem pagamento, agindo a AMIL no exercício regular de um direito reconhecido. Aduz que encaminhou a notificação ao endereço do consumidor.
+O TJSPassim se manifestou sobre a questão:
+Isto porque a ré não ofereceu argumento algum capaz de alterar os fundamentos da decisão recorrida, da lavra da Juíza Patrícia Martins Conceição, da 37ª Vara Cível do Foro Central da Capital, razão pela qual são adotados como razão de decidir, nos seus exatos termos:
+"(..) Não restam dúvidas de que a relação jurídica estabelecida entre autor e ré seja consumerista, pois preenchidos os requisitos dos artigos 2º e 3º do Código de Defesa do Consumidor, atraindo a incidência desta lei. Dessa forma, a sua responsabilidade, por força do Código de Defesa do Consumidor, é objetiva, baseada no risco, em que se mostra despicienda qualquer discussão sobre a culpa, sendo necessária apenas a demonstração da conduta do autor do fato, dos prejuízos e do liame causal entre estes danos e o fornecimento de serviços viciado. Também cabível a inversão do ônus da prova, a teor do artigo 6º, inciso VIII, da Lei 8.078/90, desde que seja hipossuficiente o autor e sejam verossimilhantes as suas alegações. No caso em tela, ambos os requisitos estão presentes, pois o autor está em patente desvantagem econômica e de acesso a informações sobre os serviços frente à ré, sendo, inclusive, impossível a produção de prova negativa. Ainda, se mostram plausíveis os seus argumentos, de que não vem recebendo os boletos para pagamento das mensalidades e ainda assim teve o plano cancelado.
+Seria simples, ademais, à ré demonstrar que encaminhou a autora os boletos a partir do mês de referência de dezembro de 2018. No entanto, não o fez, limitando-se a afirmar que teria juntado os boletos no bojo da ação revisional entre as partes, o que, a princípio, já se mostraria totalmente inadequado já que não é o meio correto para encaminhamento de cobrança do prêmio mensal ao cliente. Não bastasse isso, o suposto boleto apresentado nos autos da ação judicial em questão (fl. 348) diz respeito ao mês de maio de 2019, sendo que, segundo a própria ré, o cancelamento do plano da autora decorreu do não pagamento da parcela de dezembro de 2018.
+Assim, não demonstrou a ré ter encaminhado adequadamente à autora os boletos de cobrança dos prêmios mensais desde dezembro de 2018, não sendo admissível a cessação da prestação dos serviços pelo inadimplemento, sob pena de se prestigiar comportamento contraditório da autora, em violação aos conceitos de "venire contra factum proprium" e "tu quoque".
+Ademais, também não demonstrou a ré ter promovido a efetiva notificação da parte autora quanto ao inadimplemento do boleto e advertência de cancelamento, de que trata o artigo 13, parágrafo único, I, da Lei 9.656/98. Apesar do documento acostado à fl. 407, não há mínima demonstração de que efetivamente encaminhada a referida notificação ao endereço físico ou eletrônico da autora.
+Não há, portanto, prova do cumprimento do disposto na Súmula 94, do TJSP, que pacificou esta questão, validando o cancelamento quando provada a prévia notificação do devedor com prazo mínimo de dez dias para purga da mora(e-STJ, fls. 51199/512).
+Da análise das razões do presente recurso verifica-se que os referidos fundamentos não foramimpugnados, o que atrai a incidência da Súmula nº283 do STF, por analogia.
+Confira-se o seguinte precedente:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DOAÇÃO. ARROLAMENTO. REEXAME DO CONTRATO E DE PROVAS.INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ.FUNDAMENTO NÃO ATACADO. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, a análise da pretensão do recorrente, que alega que a doação não poderia ser cindida e que teria havido aceitação tácita por parte de uma das doadoras, exigiria o reexame das provas, sobretudo do contrato firmado entre as partes, o que não se admite em recurso especial.
+3. As razões recursais que não impugnam fundamento do acórdão recorrido suficiente para mantê-lo não devem ser admitidas, a teor da Súmula n. 283/STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.626.816/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 23/9/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM DEVOLUÇÃO DE QUANTIAS PAGAS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Ação de rescisão contratual cumulada com devolução de quantias pagas e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente (Súmula 284/STF).
+5. A existência de fundamento do acórdão recorrido não impugnado  quando suficiente para a manutenção de suas conclusões  impede a apreciação do recurso especial (Súmula 283/STF).
+6. A incidência das Súmulas 283 e 284 do STF prejudicam a análise do dissídio jurisprudencial pretendido.
+7. Agravo interno não provido.
+(AgInt na PET no REsp 1.930.298/AM, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 22/9/2021)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor da AMIL, limitados a 20%, nos termos do art. 85, § 11, do NCPC, devendo ser observada a concessão da justiça gratuita.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. INDENIZAÇÃO POR DANOS MORAIS. RESCISÃO DO CONTRATO DE PLANO DE SAÚDE. ENVIO DA NOTIFICAÇÃO. NÃO COMPROVAÇÃO.FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA Nº 283 DO STF, POR ANALOGIA.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
