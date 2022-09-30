@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por impossibilidade de apreciação de ofensa a dispositivos constitucionais, inexistência de violação de lei federal,incidência da Súmula n. 7/STJ e ausência de demonstração do dissídio jurisprudencial.
+O acórdão recorrido está assim ementado (e-STJ fl. 214):
+PRESTAÇÃO DE SERVIÇOS FORNECIMENTO DE GÁS - REGISTRO DE INADIMPLÊNCIA - DANOS MORAIS -Comprovado o adimplemento das parcelas do acordo pela Autora Indevido registro de inadimplência Caracterizado o dano moral - SENTENÇA DE PARCIAL PROCEDÊNCIA -, para condenar ao pagamento de indenização por danos morais no valor de R$ 2.000,00 Diminuto o valor da indenização por danos morais -RECURSO DA AUTORA PROVIDO, PARA CONDENAR AO PAGAMENTO DE INDENIZAÇÃO POR DANOS MORAIS NO VALOR DE R$ 11.000,00
+Os embargos de declaração foram rejeitados (e-STJ fls. 223/225).
+Nas razões do recurso especial (e-STJ fls. 227/244), interposto com base no art. 105, III, "a", da CF, a recorrente apontou violação dos arts. 186,393, 927, 944 do CC/2002 e 14, § 3º, II, da Lei n. 8.078/1990 e 5º, II e V, da CF, além de dissídio jurisprudencial,alegando a ausência de reponsabilidade civil extracontratual, tendo em vista que estaria caracterizada a excessiva desproporçãoentre a gravidade da culpa e o dano, "na medida em que restou incontroverso a ausência de culpa da recorrente, não sendo possível que à Recorrente seja condenada ao pagamento dos prejuízos supostamente suportados, uma vez autos qualquer prova de que os danos suportados teriam decorrido de qualquer excludente de responsabilidade" (e-STJ fl. 234).
+Em suma, são estes os pedidos recursais (e-STJ fl. 244):
+Ante todo o exposto, a recorrente requer seja o presente apelo conhecido e TOTALMENTE PROVIDO para que seja reformado o v. acórdão regional nos limites do quanto aludido linhas acima.
+Foram oferecidas contrarrazões, requerendo o arbitramento de honorários recursais (e-STJ fls. 249/253).
+No agravo (e-STJ fls. 259/276), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 278).
+É o relatório.
+Decido.
+Primeiramente, não cabe falar em afronta ao5º, II e V, da CFF, pois é inviável a análise de ofensa a dispositivo constitucional em recurso especial, sob pena de usurpação da competência do STF.
+O Tribunal de origem, ao analisar as provas, entendeu seria "incontroverso o registro indevido de inadimplência em nome da autora, por solicitação da requerida (..), o que resultou na restrição ao crédito, com lesão à personalidade". Confira-se o seguinte excerto (e-STJ fl. 215):
+(..)(valores de R$ 50,20, R$ 47,57 e R$ 67,25 fls.164), o que resultou na restrição ao crédito, com lesão à personalidade, daí o dever de indenizar salientando-se que pacífico o entendimento de que a indevida inserção de dados em cadastro de proteção ao crédito gera, ao ofendido, dano moral "in re ipsa", isto é, de maneira presumida, conforme jurisprudência do Superior Tribunal de Justiça (AgRg no AREsp 308.136/SP, Rel. Ministro Raul Araújo, 4ª Turma, julgado em 10/05/2016, DJe 30/05/2016).
+Razoável a fixação do valor da indenização por danos morais em R$ 11.000,00, para a adequada penalização da Requerida (para que evite a repetição do atentado), sem resultar no enriquecimento sem causa da Autora. O valor é acrescido de correção monetária desde hoje e de juros moratórios de 1% ao mês desde a citação (05 de agosto de 2020 fls.42), nos termos da Súmula 362 do Superior Tribunal de Justiça e do artigo 405 do Código Civil.
+Dessa forma, a Corte local concluiu ser razoávela fixação do valor da indenização por danos morais, não resultando no enriquecimento sem causa. A alteração do que decidido pelo colegiado implicaria inadequada reavaliação do suporte fático-probatório constante dos autos, atraindo a incidência da Súmula n. 7/STJ.
+A necessidade de reexame fático-probatório dos autos impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
