@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS à decisão de fls. 129-132, mediante a qual concedi a ordem para assegurar ao embargado o direito de aguardar em liberdade o trânsito em julgado de condenação que lhe foi imposta em julgamento realizado pelo Tribunal do Júri.
+Referido decisum foi assim ementado (fl. 129):
+"HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. CONDENAÇÃO PELO TRIBUNAL DO JÚRI. RÉU SOLTO. EXECUÇÃO PROVISÓRIA DA PENA. AUSÊNCIA DO TRÂNSITO EM JULGADO. IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL CONFIGURADO. PRECEDENTES DAS QUINTA E SEXTA TURMAS DESTA CORTE. ORDEM CONCEDIDA. LIMINAR CONFIRMADA."
+O Parquet estadual alega que, "embora aceite e compreenda como legítima a fundamentação exarada pelo decisum, vem interpor os presentes embargos de declaração a fim de se debater, expressa e pormenorizadamente, sobre questões constitucionais essenciais ao debate do tema decidido, a fim de que haja o seu necessário prequestionamento para posterior interposição de recurso extraordinário" (fl. 141; grifos no original).
+Sustenta a compatibilidade da nova redação do art. 492, inciso I, alínea "e", do Código de Processo Penal, trazida pela Lei n.13.964/2019, com a soberania dos veredictos, expressa na alínea c do inciso XXXVIII do art. 5.º da Constituição.
+Assinala que o Embargado foi condenado pelo Tribunal do Júri a uma pena definitiva fixada em 20 (vinte) anos de reclusão, e que o atual panorama legal que disciplina a situação em análise não apenas autoriza como determina a execução imediata dessa condenação.
+Aduz que, em respeito à presunção da constitucionalidade das leis, "devida e constitucional é a prisão do ora agravado conforme determinado na sentença" (fl. 144).
+Assevera que o presente recurso deve ser provido "sob pena de violação aos artigos 5º, XXXVIII, alínea "c"; art. 97, ambos da Constituição da República; Súmula Vinculante 10 do Supremo Tribunal Federal; art. 3º c/c art. 315, §2º, II, ambos do CPP; art. 619 CPP c/c art. 1.022, II, c/c art. 489, §2º, VI, ambos do CPC e art. 492, I, e, do Código de Processo Penal" (fl. 146).
+Requer, ao final, o acolhimento dos presentes embargos de declaração para que a questão seja "debatida em toda sua extensão constitucional, em especial em relação à invocação de ofensa à soberania dos veredictos (artigo XXXVIII, "c" da CR) e art. 97, da Constituição da República" (fl. 148).
+É o relatório.
+Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado, o que não ocorre na espécie.
+Conforme relatado, o Embargante afirma que opõe os presentes embargos de declaração objetivando a manifestação desta Corte sobre matéria constitucional, de modo a viabilizar posterior interposição de recurso extraordinário.
+Ocorre que nãoincumbe ao Superior Tribunal de Justiça, nem mesmo para fins de prequestionamento, examinar supostas ofensas a dispositivos constitucionais, sob pena de usurpação da competência atribuída pelo texto constitucional ao Supremo Tribunal Federal.
+Nesse sentido:
+" .. 3. Não cabe ao STJ a análise de ofensa de dispositivos constitucionais, ainda que com o objetivo de prequestionamento, visando à interposição do apelo extraordinário, sob pena de haver a usurpação de competência do Supremo Tribunal Federal. Precedentes. ..
+5. Embargo de declaração rejeitados"(EDcl no AgRg no AREsp n. 2.013.024/PA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 05/04/2022, DJe 11/04/2022; sem grifos no original.)
+" .. 4. A motivação apresentada no acórdão embargado se mostra suficiente para respaldar as conclusões ali lançadas, não sendo necessária a incursão na seara constitucional. Dessa forma, o pedido do embargante desborda da missão constitucional do Superior Tribunal de Justiça, que tem competência para análise de matéria infraconstitucional, não estando obrigado a se manifestar sobre tema constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada pela Carta Magna ao Supremo Tribunal Federal (EDcl no AgRg no HC n. 618.406/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 17/12/2020).
+5. Embargos de declaração rejeitados"(EDcl no AgRg no HC n. 708.920/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 13/09/2022, DJe 16/09/2022; sem grifos no original.)
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOHABEAS CORPUS. PROCESSUAL PENAL. AUSÊNCIA DE VÍCIOS NA DECISÃO IMPUGNADA. PLEITO DE APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS PARA FINS DE PREQUESTIONAMENTO. DESCABIMENTO.PRECEDENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
