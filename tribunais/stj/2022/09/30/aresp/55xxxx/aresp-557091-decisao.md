@@ -1,0 +1,47 @@
+DECISÃO
+Francisco Murilo de Abreu ajuizouação contra Everton Murilo de Abreu e outros,pleiteando, em suma, indenização por dano moral decorrente de falsa denúncia a respeito de seu currículo como professor da Universidade Federal Rural do Rio de Janeiro.
+A sentença julgou opedidoprocedente, condenando os réus ao pagamento de R$ 20.000,00 (vinte mil reais) cada um(fls. 431-440).
+OTribunal de Justiça do Estado do Rio de Janeiromanteve a sentença, nos termos assim ementados (fl. 614):
+FATOS INVERÍDICOS COMUNICADOS. DANO MORAL.
+Conquanto se perceba que o imbróglio narrado nos autos tem sustentação na disputa política interna da Universidade, não se pode negar que a conduta dos apelantes foi leviana, fruto de um denuncismo desmerecido, até porque não tinham estes o dever legal de informar os fatos aos órgãos superiores.
+Mas não fosse isto, permanece leviana a denúncia e desprovida de base demonstrativa de ilicitude por parte do apelado.
+A conduta dos réus trouxe para o autor intensa perturbação de ordem subjetiva na esfera da psique. Para o homem probo, professor doutor, no exercício do alto mister da sua função acadêmica, dizer que inseriu dados inverídicos no seu currículo lates, gera vergonha, constrangimento e maledicência daqueles que o invejam.
+E mais, a denúncia foi oferecida com "o propósito de preservar a credibilidade de nosso departamento, ..", ou seja, visava, realmente descredenciar o autor no meio acadêmico. Por isto, a condenação por dano moral foi bem vinda, inclusive, quanto ao valor, equilibrado e em atenção aos princípios da razoabilidade e proporcionalidade, não havendo motivo para alterá-lo.
+Recursos desprovidos, nos termos do voto do desembargador relator."
+Os embargos de declaração opostos foram rejeitados (fls. 642-644).
+Everton Murilo de Abreu e outrosinterpuseramrecurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação dos arts. 186, 187, 403, 927e 932 do CC/2002, e dos arts. 116, 117, 121, 122, 124, 126-A e 132, XIII, da Lei n. 8.112/1990, porquanto, além de não terem exorbitado quaisquer limites funcionais, os recorrentes agiram conforme poder-dever de comunicar as irregularidades que tiveram ciência às autoridades de ensino.
+Pontuaram que não houve divulgação ou disponibilização do ato de comunicação das irregularidades,a conclusão do procedimento administrativo foi nomesmo sentido do denunciado pelos recorrentes, confirmando as irregularidades, e não há nos autos comprovação do alegado dano suportado pelo autor.
+Subsidiariamente, alegaram ofensa ao art. 535, I e II, do CPC/1973, caso se entendesse por ausência de prequestionamento dos citados dispositivos tidos por violados e, ainda, caso se mantenha a condenação, seja reduzido o valor arbitrado, em atenção aos princípios da razoabilidade e da proporcionalidade.
+Foram apresentadas contrarrazões (fls. 736-745) e o Tribunal de origeminadmitiu o recurso especial (fls. 757-762), tendo sido interposto o presente agravo.
+Às fls. 924-991, os agravantes vieram aos autos relatar novos fatos (ação indenizatória similar a essa julgada improcedente, e ato administrativo de demissão do recorrido).
+É o relatório. Decido.
+Considerando que a parteagravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A despeito de assistir razão aos recorrentes quanto ao argumento de se tratar de poder-dever do servidor público a comunicação a superiores de eventual ilegalidade conhecida no âmbito do serviço público, tal argumentaçãovai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, concluiu que não se tratou de mera comunicação de ilegalidade a superiores, mas de denúncia leviana com o intuito de descredenciar o autor da ação do meio acadêmico. Confira-se seus termos (fls. 616-617):
+Conquanto se perceba que o imbróglio narrado nos autos tem sustentação na disputa política interna da Universidade, não se pode negar que a conduta dos apelantes foi leviana, fruto de um denuncismo desmerecido, até porque não tinham estes o dever legal de informar os fatos aos órgãos superiores.
+Mas não fosse isto, permanece leviana a denúncia e desprovida de base demonstrativa de ilicitude por parte do apelado.
+ ..
+O fato é que a conduta dos réus trouxe para o autor intensa perturbação de ordem subjetiva na esfera da psique. Para o homem probo, professor doutor, no exercício do alto mister da sua função acadêmica, dizer que inseriu dados inverídicos no seu currículo lates (pasta 00009), gera vergonha, constrangimento e maledicência daqueles que o invejam.
+E mais, a denúncia foi oferecida com "o propósito de preservar a credibilidade de nosso departamento, ..", ou seja, visava, realmente descredenciar o autor no meio acadêmico. Por isto, a condenação por dano moral foi bem vinda, inclusive, quanto ao valor, equilibrado e em atenção aos princípios da razoabilidade e proporcionalidade, não havendo motivo para alterá-lo.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, especialmente o teor da comunicação apresentada pelos agravantes aos seus superiores,o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+No que diz respeito à pretensão de redução do valor arbitradoa título de indenização por danos morais, cumpre salientar que realmente esta Corte de Justiça procede à revisão de verbas indenizatórias em situações bastante excepcionais: quando a verba tenha sido fixada em valor irrisório ou exorbitante, o que não é o caso dos autos, em que o valor fixado foi de R$ 20.000,00 (vinte mil reais) cada condenação.
+Incidência, portanto, da Súmula 7/STJ. Confiram-se alguns julgados no sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO DE DANOS. MORAIS E MATERIAIS. ACIDENTE EM RODOVIA. COLISÃO. ÓBITO. LESÃO PELA PERDA DE UM FILHO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. DANO MORAL. VALOR ARBITRADO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. Não viola o art. 535 do Código de Processo Civil de 1973 o acórdão que rejeita os embargos declaratórios por inexistir omissão, contradição ou obscuridade no acórdão embargado.
+2. Tendo o tribunal de origem decidido a causa com base na análise dos elementos fático-probatórios dos autos, alterar sua decisão atrai a incidência da Súmula nº 7 do Superior Tribunal de Justiça.
+3. O valor fixado a título de indenização por danos morais baseia-se nas peculiaridades da causa. Assim, afastando-se a incidência da Súmula nº 7/STJ, somente comporta revisão por este Tribunal quando irrisório ou exorbitante, o que não ocorreu na hipótese dos autos, em que arbitrado em 250 (duzentos e cinquenta) salários mínimos.
+4. Agravo interno não provido.
+(AgInt no AREsp 904.302/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 6/4/2017, DJe 11/4/2017, g.n..)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. QUANTUM INDENIZATÓRIO. REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno interposto contra decisão monocrática publicada em 05/08/2016, que, por sua vez, julgara recurso interposto contra decisum publicado na vigência do CPC/73.
+ ..
+IV. Ressalte-se que a jurisprudência deste Tribunal permite o afastamento do óbice, previsto na Súmula 7/STJ, apenas na hipótese de fixação em valor irrisório ou abusivo, circunstância inocorrente, no presente caso. Nesse contexto, não sendo o caso de valor exorbitante, não há como afastar, no ponto, a incidência da Súmula 7/STJ. Precedentes do STJ.
+V. Agravo interno improvido.
+(AgInt no AREsp 873.844/TO, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/3/2017, DJe 27/3/2017, g.n..)
+Em relação à alegada ofensa ao art. 535, II, do CPC/1973, observa-se que em suas razões de apelo nobre, a recorrente limitou-se a suscitar a ocorrência de omissão caso se entendesse pela ausência de prequestionamento a respeito de algum dispositivo, sem, contudo, especificar qual teria sido a matéria suscitada em embargos de declaração e não apreciada pelo acórdão integrativo, bem como deixou de argumentar a sua relevância para alteração do entendimento firmado no acórdão recorrido, o que inviabiliza a exata compreensão da controvérsia por deficiência na argumentação recursal, a teor da Súmula 284/STF. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. SAT/FAP. ALÍQUOTA. ALTERAÇÃO. CONSTITUCIONALIDADE. MATÉRIA CONSTITUCIONAL. OFENSA AO ART. 373 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. Não se conhece da alegada violação do art. 1.022 do CPC/2015, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1867569/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/11/2020, DJe 02/12/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
