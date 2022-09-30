@@ -1,0 +1,39 @@
+RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO TRIBUTÁRIO. IMPOSTO DE RENDA PESSOA JURÍDICA - IRPJ E CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. INCIDÊNCIA. TAXA SELIC. LEVANTAMENTO DE DEPÓSITOS JUDICIAIS. MATÉRIA QUE NÃO INTEGRA O PEDIDO DA PARTE ADVERSA NEM O DISPOSITIVO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE INTERESSE RECURSAL. MANDADO DE SEGURANÇA. INAPLICABILIDADE DO ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.
+
+    DECISÃO: Trata-se de agravo nos próprios autos objetivando a reforma de decisão que inadmitiu recurso extraordinário manejado, com arrimo na alínea “b” do permissivo constitucional, contra acórdão que assentou:
+
+    “TRIBUTÁRIO. IRPJ E CSLL. JUROS PELA TAXA SELIC NA RESTITUIÇÃO DE INDÉBITO. EXCLUSÃO DA BASE DE CÁLCULO.
+
+    Os juros pela taxa SELIC auferidos na restituição - judicial ou administrativa - de indébitos tributários devem ser excluídos da base de cálculo do IRPJ/CSL (TRF4 - IAI 5025380-97.2014.404.0000).”
+
+    Nas razões do apelo extremo, a parte recorrente apresenta preliminar de repercussão geral e, no mérito, sustenta a constitucionalidade da incidência do Imposto de Renda Pessoa Jurídica - IRPJ e da Contribuição Social Sobre o Lucro Líquido - CSLL sobre valores relativos à taxa SELIC incidente na repetição de indébitos tributários e no levantamento de depósitos judiciais.
+
+    A parte recorrida apresentou contrarrazões ao recurso extraordinário.
+
+    O Tribunal a quo julgou prejudicado o recurso extraordinário em relação ao Tema 962 de Repercussão Geral (Incidência do Imposto de renda Pessoa Jurídica - IRPJ e da Contribuição Social sobre o Lucro Líquido - CSLL sobre a taxa SELIC (juros de mora e correção monetária) recebida pelo contribuinte na repetição do indébito) e negou-lhe seguimento quanto à matéria remanescente (incidência do IRPJ e da CSLL sobre a taxa SELIC relativa a depósitos judiciais), por entender que a matéria seria infraconstitucional.
+
+    O presente agravo se insurge apenas quanto à inadmissão do recurso extraordinário relativamente à questão da incidência do IRPJ e da CSLL sobre a taxa SELIC de depósitos judiciais.
+
+    É o relatório. DECIDO.
+
+    O agravo não merece prosperar.
+
+    Analisados os autos, verifica-se que a matéria relativa à incidência do IRPJ e da CSLL sobre a taxa SELIC de depósitos judiciais não integra o pedido da autora nem o dispositivo do acórdão recorrido. Destarte, a ausência de sucumbência quanto ao ponto implica a carência de interesse recursal da parte ora recorrente, por ausência de utilidade. Nesse sentido:
+
+    “DIREITO PENAL E PROCESSUAL PENAL. PECULATO. ILEGITIMIDADE PARA RECORRER DE DECISÃO QUE NEGA SEGUIMENTO A RECURSO EXTRAORDINÁRIO MANEJADO POR PARTE DIVERSA. AUSÊNCIA DE SUCUMBÊNCIA DA PARTE AGRAVANTE. FALTA DE INTERESSE RECURSAL. AGRAVO INTERNO NÃO CONHECIDO. 1. Carece de legitimidade para interpor agravo interno parte diversa daquela que manejou o recurso cujo seguimento fora negado. Não se conhece do agravo que impugna decisão que nega seguimento a recurso extraordinário com agravo manejado por parte diversa. 2. Ausência de sucumbência da parte que interpôs o agravo regimental, a descaracterizar o interesse recursal. Desatendimento do requisito de regularidade formal expresso no art. 317 do Regimento Interno do Supremo Tribunal Federal. 3. Agravo interno não conhecido.” (ARE 981.912-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 6/4/2022, grifos nossos)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE INTERESSE EM RECORRER. INOVAÇÃO RECURSAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO A QUE SE NEGA PROVIMENTO. MULTA APLICADA. I - A não sucumbência em ponto combatido pelo agravo regimental implica na ausência de interesse recursal, por ausência de utilidade. II - O agravo regimental traz alegações que constituem inadmissível inovação recursal, por não terem sido suscitadas oportunamente no recurso extraordinário. III - Nos termos do art. 1.021, § 1º, do CPC e do art. 317, § 1º, do RISTF, é requisito de admissibilidade do agravo regimental a impugnação específica de todos os fundamentos nos quais se baseou a decisão agravada, sob pena de incidência do óbice previsto nas Súmulas 284 e 287/STF. IV - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4º, do CPC).” (ARE 1.238.558-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 13/2/2020, grifos nossos)
+
+    Por fim, observo que o presente agravo foi interposto sob a égide da nova lei processual. Nada obstante, por se tratar de mandado de segurança, não há falar em majoração de honorários advocatícios (Súmula 512 do STF).
+
+    Ex positis, DESPROVEJO o agravo, com fundamento no artigo 932, VIII, do Código de Processo Civil de 2015 c/c o artigo 21, § 1º, do Regimento Interno do STF.
+
+    Publique-se.
+
+    Brasília, 30 de setembro de 2022.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
