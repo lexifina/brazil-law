@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal e incidência das Súmulas n. 5 e 7 do STJ(e-STJ fls.275/277).
+O acórdão recorrido está assim ementado (e-STJ fl. 205):
+Agravo de instrumento. Parceria agrícola. Ação de exigir contas. Reconhecimento do dever de prestar contas. Manutenção. Ainda que posteriormente rescindido o contrato, estão os requeridos obrigados a prestar contas de valores eventualmente recebidos antes da rescisão. Recurso improvido.
+Os embargos de declaração foram rejeitados(e-STJ fls. 228/231).
+No recurso especial (e-STJ fls. 233/254), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegaofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015 por negativa de prestação jurisdicional, argumentando que o acórdão impugnado teria sido omisso quanto às seguintes alegações(e-STJ fls. 247/248):
+(i) O contrato celebrado com a Usina foi aditado, oportunidade na qual as partes convencionaram que o preço só seria pago ao final da colheita, o que não ocorreu, porque as Notas Promissórias Rurais foram canceladas pela própria Usina, conforme reconhecido pelo v. acórdão recorrido; e
+(ii) Tendo emvista que nenhum valor foi recebido, e que os Recorrentes realizavam diversos aportes financeiros, com seu próprio patrimônio, de acordo com o que era solicitado pelos Recorridos, verdadeiros administradores do plantio e executores do contrato, de quem as contas devem ser exigidas única e exclusivamente.
+Indica afronta ao art. 550, § 5º, doCPC/2015, sustentando, em síntese, que "não podem ser condenados à prestação de contas de valores que sequer receberam, tendo em vista a rescisão contratual e cancelamento, pela Usina, das Notas Promissórias Rurais, antes de que fosse finalizado o contrato, fato esse incontroverso"(e-STJ fl. 251).
+Acrescenta que, "apesar de os vv. acórdãos recorridos terem reconhecido a necessidade de prestação de contas também pelos Recorridos, na medida em que administravam os recursos particulares dos Recorrentes a eles repassados para a manutenção do plantio, a condenação dos Recorrentes foi indevidamente mantida, ocorrendo, pois, a violação ao referido dispositivo de Lei Federal" (e-STJ fl. 251).
+No agravo (e-STJfls. 279/302), afirma a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta(e-STJ fl. 308).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No caso, o TJSP concluiu pelo dever deprestação de contas, decidindo com base nos seguintes fundamentos(e-STJ fl. 207):
+Considerando que o contrato de parceria foi celebrado em 01.02.2016, aditado em maio de 2017, e rescindido em outubro de 2019, com previsão de repasse de valores pelos requeridos aos autores (cláusulas 7ª e 8ª), bem como a natureza sucessiva da obrigação, impunha-se mesmo a condenação daqueles à obrigação de prestar contas.
+Como bem observado pelo MM. magistrado singular, "diante da redação de tais cláusulas, tem-se que os requeridos, realmente, tem de apresentar a relação discriminada das importâncias recebidas com a vendada safra e aquelas despendidas com a compra de insumos, adubos e produtos necessários para o plantio da cana de açúcar, a fim de que se possa apurar qual fora o lucro líquido obtido e se houve o repasse da quantia correta aos outorgados" (fl. 214).
+Caso comprovado, na fase subsequente da ação, a alegada ausência de recebimento de quaisquer valores provenientes da Usina, para o que poderá ser oficiada, tal circunstância deverá ser incluída nas contas.
+De outro lado, considerando a dinâmica da relação entre as partes, e a alegação de aportes financeiros por parte dos requeridos para aquisição de insumos pelos autores, tais circunstâncias também deverão ser incluídas na prestação de contas, a fim de se apurar a existência de saldo em favor de qualquer das partes.
+E ainda(e-STJ fl. 230):
+Nesse contexto, a decisão embargada dirimiu, deforma clara e coerente, as questões suscitadas pela parte em suas razões recursais, fundamentando suas conclusões. Esclareceu as peculiaridades do caso concreto que desautorizavam a improcedência da demanda, observando que a natureza sucessiva da obrigação sustenta o pedido de contas, mesmo à vista do aditamento indicado pelos requeridos.
+Para alterar tais fundamentos e afastar o dever de prestação de contas, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
