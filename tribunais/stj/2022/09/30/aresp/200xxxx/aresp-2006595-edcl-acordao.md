@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros João Otávio de Noronha, Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por ODAIR CORNELIANI MILHOSSI em face de acórdão que negou provimento ao seu agravo regimental, mantendo a decisão agravada que conheceu do seu agravo em recurso especial para conhecer em parte o recurso especial e negar-lhe provimento.O acórdão embargado ficou assim ementado:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APROPRIAÇÃO DE VERBAS PÚBLICAS. VIOLAÇÃO AOS ARTS. 229 E 230 DO CÓDIGO DE PROCESSO PENAL - CPP. INDEFERIMENTO DA ACAREAÇÃO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PROVA DESNECESSÁRIA. DECISÃO FUNDAMENTADA. VIOLAÇÃO AO ART. 564, IV E V, DO CPP. PRESENÇA DO DOLO. OMISSÃO INEXISTENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É facultado ao magistrado indeferir o pedido de produção de provas que considerar irrelevantes, protelatórias ou impertinentes, desde que o faça de forma fundamentada.
+1.1. No caso concreto, o pedido de acareação foi indeferido de forma fundamentada, uma vez que o Juízo singular a considerou desnecessária diante das provas documentais existentes nos autos.
+2. Não há que se falar em violação ao art. 564, IV e V, do CPP quando as instâncias ordinárias se manifestam claramente a respeito de elemento essencial para o deslinde da causa.
+2.1. No caso, o acórdão recorrido aponta a existência de dolo na conduta do réu, notadamente por não ter realizado orçamentos em outras empresas que garantissem o melhor preço pela aquisição dos bancos e, ainda, por ter feito a aquisição de bancos de fornecedor que sequer foi localizado.
+3. Agravo regimental desprovido." (fl. 523)
+O embargante repete as razões do agravo regimental de folhas 504/515. Aqui, como lá,a Defesa reitera a ocorrência de cerceamento de defesa em razão do indeferimento da realização de acareação, ressaltando que a medida é imprescindível para o deslinde da causa, já que existe manifesta contradição entre os depoimentos testemunhais. Observa que todos os requisitos previstos nos arts. 229 e 230 do Código de Processo Penal - CPP estão presentes, motivo pelo qual a acareação deve ser procedida. Em único ponto distinto, assevera que "11. Dessa forma, com o devido respeito, em matéria penal não se trata, apenas e tão somente, de determinação da vontade ou mesmo da livre disposição do DD. Julgador, mas da imperiosa necessidade e obrigatoriedade da proteção aos princípios constitucionais da ampla defesa, do contraditório e do devido processo penal, mesmo porque manifesto o prejuízo à liberdade do Embargante" (fl. 535).
+Ato contínuo, a Defesa insiste na existência de omissão do Tribunal de origem quanto à análise do elemento subjetivo por parte do agravante. Observa que todos os depoimentos prestados pelo réu demonstram que não agiu com dolo, porquanto não se extrai de sua conduta intenção de causar lesão ao erário municipal.
+Requereu sejam sanados os vícios, com prequestionamento.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO INEXISTENTE. REDISCUSSÃO DE MATÉRIA. PREQUESTIONAMENTO DE PRINCÍPIOS E DISPOSITIVOS CONSTITUCIONAIS. NÃO CABIMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, a teor do art. 619 do Código de Processo Penal - CPP, e erro material, conforme art. 1022, III, do Código de Processo Civil - CPC.
+2. Sem a demonstração das hipóteses de cabimento, a rejeição dos embargos de declaração é medida que se impõe, notadamente quando o embargante pretende a rediscussão da questão controvertida para modificar o provimento anterior.
+3. "Não compete a este eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento. (Precedentes)" (EDcl no AgRg no REsp 1478259/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA,DJe 27/4/2018).
+4. Embargos declaratórios rejeitados.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+No caso, não se vislumbra as omissõesapontadas, eis que o acórdão embargado já dirimiu as mesmas alegações. Tem-se é uma verdadeira repetição dos fundamentos já apresentados no agravo regimental sem qualquer ponderação específica ao que constou no acórdão embargado.
+O embargante pretende a modificação do provimento anterior, com a rediscussão da questão, o que não se coaduna com a medida integrativa, mesmo que para fins de prequestionamento.
+No mesmo sentido, citam-se precedentes (grifos nossos):
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO. ALEGADA OMISSÃO NO EXAME DE PONTOS TRAZIDOS PELA DEFESA EM RESPOSTA PRELIMINAR. NÃO OCORRÊNCIA. REDISCUSSÃO DO MÉRITO. IMPOSSIBILIDADE. INVIABILIDADE DE INTEGRAÇÃO DO JULGADO PARA INSERÇÃO DE FUNDAMENTOS, QUANDO AUSENTES VÍCIOS QUE AUTORIZEM O MANEJO DO MEIO IMPUGNATIVO ELEITO. ..  6. Os Embargos não constituem via própria para fazer prevalecer tese jurídica diferente da que foi acolhida no Acórdão quando, em sua essência e finalidade, não se dirigem à omissão ou outro vício, mas à nova declaração de efeito infringente. Os argumentos de que não foram dissecadas todas as variantes e possibilidades cogitadas pela defesa trazem como consequência a certeza de que pretendem os Embargos a declaração inversa do fundamento jurídico da decisão, o que impede à Corte renovar o julgamento para declarar o que constituiria nova manifestação de mérito em sentido contrário.
+ ..
+14. Aclaratórios que pretendem, em realidade, a modificação do julgado proferido, com nítido conteúdo infringente.
+15. Ausentes os requisitos autorizadores da via integrativa (omissão, contradição, ambiguidade ou obscuridade), a simples pretensão de reexame de provas não tem o condão de viabilizar os Embargos Declaratórios, motivo pelo qual são rejeitados.
+(EDcl na APn 843/DF, Rel. Ministro HERMAN BENJAMIN, CORTE ESPECIAL, DJe 23/4/2018).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECEPTAÇÃO QUALIFICADA, SONEGAÇÃO FISCAL E LAVAGEM DE DINHEIRO. PRELIMINAR DE NULIDADE.IMPOSSIBILIDADE DE REALIZAR SUSTENTAÇÃO ORAL. AGRAVO REGIMENTAL EM MATÉRIA PENAL APRESENTADO EM MESA. POSSIBILIDADE.DISPOSITIVO CONSTITUCIONAL.PREQUESTIONAMENTO. IMPOSSIBILIDADE.ATIPICIDADE DA CONDUTA DE LAVAGEM DE DINHEIRO. VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL. PREJUÍZO NÃO DEMONSTRADO. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. REEXAME DA CAUSA. INVIABILIDADE.
+ ..
+II - Não compete a este eg. STJ se manifestar explicitamente sobre dispositivos constitucionais, ainda que para fins de prequestionamento. (Precedentes).
+III - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão). Na espécie, à conta de omissão e contradição no v.acórdão embargado, pretende o embargante a rediscussão da matéria já apreciada.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1478259/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 19/4/2018, DJe 27/4/2018).
+Ante o exposto, voto no sentido de rejeitar os presentes aclaratórios.
