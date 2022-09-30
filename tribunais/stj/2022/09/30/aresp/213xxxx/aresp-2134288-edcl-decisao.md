@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos à decisão monocrática dasfls. 400-407, e-STJ, que conheceudo Agravo para conhecer parcialmente do Recurso Especial e negar-lhe provimento na parte conhecida.
+A embargante alega que houve omissão. Aduz, em suma (fls. 410-413, e-STJ):
+Ocorre que a r. decisão incorreu em omissões, merecendo integração pelo acolhimento dos presentes aclaratórios.
+A primeira omissão decorre da constatação de que a r. decisão embargada entendeu pela aplicação dos óbices das Súmulas 07 deste C. STJ e 735 do C. STF, sem que se tenha realizado a efetiva confrontação do conteúdo discutido em sede recursal com os parâmetros estabelecidos pela jurisprudência para aplicação das súmulas suscitadas, o que denota omissão nos termos do artigo1.022, inc. II c/c 489, p. 1º, inc. V do CPC/2015.
+No que se refere à afirmação de que "não há como alterar as conclusões da instância originária a respeito da excepcionalidade da medida adotada, pois resultaram de vasta análise do conjunto fático-probatório", tem-se que tal entendimento prescindiu da devida confrontação com o objeto do recurso, qual seja a demonstração de que a indisponibilidade de bens, tal como se deu sem acitação prévia da Embargante, representa ofensa aos arts.185-A do CTN, 7º, 8º, 9º e 10 da Lei nº 6.830/1980, uma vez que ignora as garantias concedidas aos executados nas execuções fiscais tributárias.
+(..)
+Em momento algum a ilegalidade demonstrada em sede de Recurso Especial e que leva à reforma do v. acórdão regional recorrido visou afastar o entendimento de que haveria grupo econômico de fato.
+Pelo contrário, justamente por se tratar de matéria atinente à defesa formal levada a cabo em sede de Embargos à Execução é que a mesma não foi deduzida em sede de Agravo por Instrumento, mas única e tão somente a ofensa do V. Acórdão aos arts.185-A do CTN, 7º, 8º, 9º e 10 da Lei nº 6.830/1980por haver determinação expressa de indisponibilização do patrimônio da Embargante sem sua integração à lide executiva!
+Veja-se, assim, que a solução da demanda não passa pela valoração da matéria fática que teria levado à formação de convicção por parte do D. Colegiado de origem, mas sim por verificar se o v. acórdão recorrido observou ou não os parâmetros estabelecidos pela legislação para entender pela legitimidade e legalidade da indisponibilidade de bens da Embargante antes da sua citação, principalmente o preenchimento dos requisitos trazidos pelo art. 185-A do CTN.
+(..)
+Inclusive, impõe destacar que as supostas circunstâncias fáticas apontadas pelo acórdão regional como obstáculo à aplicação do entendimento deste C. STJ, de afastamento do entendimento firmado no Tema 714 Recursos Repetitivos, só se aplicariam em demandas de natureza não tributária.
+(..)
+Dito isto, evidencia-se a segunda omissão incorrida pela r. decisão embargada, qual seja, a afirmação genérica de descabimento de Recurso Especial contra acórdão que defere medida liminar e cautelar, nos termos do quanto prescritona Súmula 735 do STF, sem que se tenha sido devidamente analisado o objeto da presente demanda.
+Isto porque, conforme reconhecido pela jurisprudência deste C. STJ, não se pode afastar a aptidão do Recurso Especial para controlar a legitimidade das medidas liminares e cautelares nos casos em que o seu deferimento ou indeferimento importa ofensa direta às normas legais que disciplinam tais medidas.
+(..)
+A ressalva posta é evidentemente aplicável ao presente caso, não havendo que se falar no óbice da Súmula 735 do STF, uma vez que, o que se pretende demonstrar é que, por se tratar de dívida tributária, é aplicável o quanto prescreve o art. 185-A do CTN relativamente aos requisitos para a indisponibilização de bens, o qual evidentemente restou desatendido in casu, havendo assim violação direta ao dispositivo legal que disciplina o deferimento da medida.
+Inclusive, deve-se destacar que, conforme já explicitado acima, este C. STJ já analisou o requisito previsto dispositivo em tela sob a sistemática de Recursos Repetitivos (Tema 714), estabelecendo na oportunidade condições objetivamente verificáveis para o seu atendimento, motivo pelo qual também se faz necessária a integração da decisão nesse tocante.
+Caso não se entenda pela caracterização da omissão acima exposta, a r. decisão mostra-se ainda assim omissa por mais uma vez, na medida em que dela não consta explicitação da razão pela qual teria havido nítida distinção quanto à aplicação do entendimento normativo aplicável ao presente caso, em relação ao julgado paradigmático acima invocado.
+Mostra do acerto e necessidade de saneamento dos vícios aqui apontados é a decisão proferida nos autos AREsp n.º 1.970.685/RJ, cuja tramitação se deu de forma idêntica ao presente feito, decidindo-se no citado recurso pela adequada elegítima devolução dos autos ao E. Tribunal a quo, a fim de que seja observado o rito previsto no art. 1.030, I, b, e II, do CPC/2015 (..)
+Não foi apresentada impugnação.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22 de setembro de 2022.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais e exigem, para sua acolhida, os pressupostos legais de cabimento.
+A decisão embargada concluiu, entre outros pontos (fls. 402-407, e-STJ):
+Ao analisar o mérito da controvérsia, a Corte regional consignou (fls. 198-204, e-STJ):
+(..)
+A circunstância de que lucros milionários eram distribuídos entre as cinco pessoas acima indicadas sem que isso fosse, sequer, objeto de prévia deliberação, bastando a posterior ratificação do ato já materialmente realizado, torna ainda mais evidente que eram eles a exercer, de fato, o comando e gestão das empresas formadoras do grupo econômico. Destaca-se, ainda, que a dita ratificação do ato de distribuição de lucros anteriormente realizado não constituiu expediente isolado, mas prática corriqueira dos sócios do grupo econômico em questão, reforçando ainda mais o entendimento de que se trata dos gestores de fato das empresas analisadas.
+Em conclusão, constatada a unidade gerencial, laboral e patrimonial das pessoas jurídicas investigadas, assim como as coincidências de endereços, verifica-se a formação de grupo econômico de fato e o uso dessa estrutura como instrumento de burla ao cumprimento das obrigações tributárias da executada original, através da concentração nesta das dívidas e da transferência dos ativos patrimoniais às demais pessoas jurídicas integrantes do grupo econômico, sendo o caso, assim, de reconhecer a responsabilidade tributária direta das pessoas jurídicas analisadas, com fulcro nos arts. 124, I e 135, do CTN."
+(..)
+De resto, considerando que as referidas pessoas jurídicas são geridas conjuntamente, na realidade dos fatos, por MILTON SOLDANI AFONSO, PAULO CESAR CARVALHO DA SILVA AFONSO, CARLOS CARVALHO DA SILVA AFONSO, NEIDE CARVALHO DA SILVA AFONSO e CELSO CARVALHO DA SILVA AFONSO., - seja na condição de sócios, administradores, ou ainda diretores de associações integrantes das empresas - estes devem ser considerados, a princípio, os responsáveis pela constituição do grupo econômico de fato e, portanto, a eles também deve ser estendida a responsabilidade solidária pelos débitos do INSTITUTO SEMEAR (antiga AIS -ASSOCIACAO PARA INVESTIMENTO SOCIAL), com fundamento no artigo 135, III, do Código Tributário Nacional, em razão da prática de atos contrários ao direito, porque fraudulentos e praticados com a finalidade de lesar os credores fiscais da executada.
+(..)
+No caso concreto, o magistrado originário se deparou com robustas evidências de conduta metódica para blindagem patrimonial de pessoas físicas e jurídicas suficientes para indicar a constituição de grupo econômico de fato, com fortes indícios de estrutura empresarial sendo utilizada para dificultar o cumprimento das obrigações tributárias da devedora original, motivo pelo qual determinou o arresto provisório com as medidas que entendeu necessárias e suficientes para evitar o esvaziamento patrimonial e a ocultação de bens por parte dos executados.
+(..)
+Não há como alterar as conclusões da instância originária a respeito da excepcionalidade da medida adotada, pois resultaram de vasta análise do conjunto fático-probatório, cujo reexame não é possível na via do Recurso Especial ante o óbice da Súmula 7/STJ.
+(..)
+Ademais, a jurisprudência do STJ determina ser incabível, em Recurso Especial, a reapreciação do deferimento ou indeferimento de medida acautelatória ou antecipatória ante a natureza precária e provisória do juízo de mérito desenvolvido em tutela antecipada. É possível revertê-la a qualquer tempo no âmbito da jurisdição ordinária, o que configura ausência do pressuposto constitucional relativo ao esgotamento de instância, imprescindível ao trânsito da insurgência extraordinária. Aplica-se, por analogia, a Súmula 735/STF.
+Como se vê, a controvérsia foi correta e integralmente solucionada à luz do entendimento do STJ e das Súmulas 7/STJ e 735/STF, com fundamento suficiente e sem os vícios apontados pela embargante, pelo que não se configura omissão, contradição, obscuridade ou erro material.
+A propósito:
+(..) EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÃO.
+(..)
+II - Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+(..)
+VI - A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido: EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017; EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.
+(..)
+IX - Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 2.032.253/DF, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 15/6/2022)
+Cabe destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos Declaratórios, que servem ao aprimoramento do decisum, mas não à sua reforma, só muito excepcionalmente admitida.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito a multa.
+Publique-se.
+Intimem-se.
