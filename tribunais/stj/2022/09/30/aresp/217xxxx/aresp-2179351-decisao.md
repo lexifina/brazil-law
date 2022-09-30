@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 83/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 83):
+APELAÇÃO. LOCAÇÃO. EMBARGOS À EXECUÇÃO. EXTINÇÃO DA EXECUÇÃO. DEMONSTRATIVO DE DÉBITO QUE NÃO CONFERE ILIQUIDEZ DO TÍTULO. EMENDA DA INICIAL NÃO OPORTUNIZADA. ARTIGO 801 DO CPC. DESCONSTITUIÇÃO DA SENTENÇA.
+A ausência de um dos elementos indispensáveis para o ajuizamento da execução não enseja a imediata extinção do feito executivo. Isto porque, na forma do artigo 801 do CPC, deve ser oportunizada a emenda da inicial. Situação que não restou observada nos autos.
+RECURSO DE APELAÇÃO PROVIDO. SENTENÇA DESCONSTITUÍDA.
+Os embargos de declaração foram rejeitados (e-STJ fls. 103/108).
+Nas razões do recurso especial (e-STJ fls. 111/123), interposto com base no art. 105, III, "a", da CF, arecorrente apontou violação dos arts. 803, I, e 917do CPC/2015, alegando que "não pretende discutir matéria de fato, que seria o reconhecimento ou não do contrato de locação como titulo executivo extrajudicial, mas sim, discutir matéria de direito que é a interpretação e a aplicação do artigo 803, inciso I e artigo 917 do CPC ao caso em comento" e que "o acórdão vergastado revela incorreção quando laborou na subsunção dos fatos à norma aplicada. Com efeito, nessas circunstâncias, emerge inescusável necessidade de revaloração do fato comprovado"(e-STJ fl. 118).
+Sustentou ainda que "é incontroverso que o título executivo extrajudicial não é líquido, como mesmo afirma o Tribunal a quo, que reconhece que os autos devem retornar a origem para haver a formulação do cálculo" (e-STJ fl. 120).
+Em suma, são estes os pedidos recursais (e-STJ fl. 123):
+DIANTE DO EXPOSTO, e confiando, ainda, nos doutos suprimentos de Vossas Excelências, espera o Recorrente seja admitido o recurso, sendo o mesmo provido para o efeito de reformar o acórdão, com base na afronta ao artigo 803, inciso III e artigo 917 do Código de Processo Civil, nos termos das razões expostas, determinando o redimensionamento dos ônus sucumbenciais como medida de JUSTIÇA!
+Não foram oferecidas contrarrazões (e-STJ fl. 126).
+No agravo (e-STJ fls. 138/148), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta não apresentada (e-STJ fl. 190).
+É o relatório.
+Decido.
+A Corte local decidiu que "a ausência de um dos elementos indispensáveis para o ajuizamento da execução não enseja a imediata extinção do feito executivo" conforme assentou(e-STJ fls. 85/87):
+No caso, a sentença reconheceu a iliquidez do título, pois o demonstrativo de débito (fl. 31 do apenso), apesar de conter os requisitos elencados no artigo 798 do CPC, não discrimina as parcelas devidas, já que inseriu uma única parcela do cálculo, a qual contém valores de aluguéis, multa, condomínio e contas de energia elétrica, sem quaisquer indicações de valores relativos a cada rubrica, bem como termos iniciais e finais de correção monetária de tais valores de forma individualizada.
+Ocorre que a ausência de um dos elementos indispensáveis para o ajuizamento da execução não enseja a imediata extinção do feito executivo. Isto porque, na forma do artigo 801 do CPC, deve ser oportunizada a emenda da inicial.
+(..)
+Desse modo, somente depois de oportunizada a emenda da inicial e, não sanada a irregularidade, é que a execução poderá ser extinta.
+Ademais, cumpre destacar que Superior Tribunal de justiça tem o entendimento de que a verificação dos pressupostos da execução deve ser realizada, preferencialmente, no primeiro contato que o juiz tiver com a petição inicial. Todavia, isto não impede que o suprimento de eventual irregularidade seja realizado em momentos posteriores.
+(..)
+Desse modo, considerando que não foi observado o disposto no artigo 801 do CPC, impõe -se a desconstituição da sentença para o fim de oportunizar à parte exequente a possibilidade de suprir a deficiência existente quanto à iliquidez do título, no prazo de quinze dias e, após, deverá ser reaberto o prazo para que os executados aditem ou ofereçam novos embargos à execução.
+A jurisprudência deste Tribunal pacificou o entendimento de que a ausência ou deficiência do demonstrativo de débito/planilha de cálculo não acarretam automaticamente o indeferimento da inicial da execução, devendo o juiz, antes de extinguir o feito, determinar que a parte corrija a inicial, juntando aos autos os documentos necessários, em atenção ao princípio da instrumentalidade do processo.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO RURAL. DEFICIÊNCIA DO DEMONSTRATIVO DE DÉBITO QUE INSTRUI A INICIAL. CERCEAMENTO DE DEFESA. RETORNO DOS AUTOS AO JUÍZO SINGULAR PARA SUPRESSÃO DO VÍCIO E POSTERIOR ADITAMENTO DA AÇÃO INCIDENTAL.
+1. Nos termos da jurisprudência desta Corte, "é suficiente para instruir a inicial de execução o demonstrativo que permite a exata compreensão da evolução do débito e informa os índices utilizados na atualização da dívida cobrada" (REsp 1.309.047/MT, Rel. Ministra Nancy Andrighi, Rel. p/ Acórdão Ministro João Otávio de Noronha, Terceira Turma, julgado em 27.08.2013, DJe 13.09.2013). Orientação jurisprudencial albergada pelo artigo 798 do Novo CPC.
+2. Nada obstante, também é cediço nesta Corte que, "encontrando-se a execução instruída com título executivo hábil, a falta da adequada demonstração da evolução da dívida ou a ausência do simples cálculo aritmético, não acarreta, por si só, a extinção automática do processo, devendo o magistrado oportunizar a emenda a inicial para correção do vício (artigo 616 do CPC)" (AgRg no AgRg no REsp 987.311/MS, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 12.04.2012, DJe 19.04.2012). No mesmo diapasão é o teor do artigo 801 do Novo CPC.
+3. Consequentemente, constatado o cerceamento de defesa do devedor em razão da deficiência do demonstrativo da evolução da dívida que instruiu a inicial da execução, afigura-se impositiva a cassação do acórdão estadual e da sentença, a fim de que seja oportunizada, ao exequente, a supressão do vício apontado no prazo assinalado e, posteriormente, o aditamento e rejulgamento dos embargos à execução.
+4. Agravo interno não provido.
+(AgInt no REsp 1.199.272/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/6/2016, DJe 1º/8/2016.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. EXECUÇÃO DE MULTA MORATÓRIA. INÉPCIA DA INICIAL DE EXECUÇÃO. DEMONSTRATIVO ANALÍTICO DO DÉBITO INCOMPLETO. NECESSIDADE DE OPORTUNIZAR AO CREDOR A EMENDA DA INICIAL. ARTS. 614, II, E 616 DO CPC/1973. SÚMULA 83 DO STJ. DECISÃO MONOCRÁTICA. POSSIBILIDADE. SÚMULA 568 DO STJ. INEXISTÊNCIA DE PREJUÍZO À DEFESA DO DEVEDOR. AGRAVO DESPROVIDO.
+1. A Súmula 568/STJ autoriza o relator a julgar monocraticamente, para dar ou negar provimento ao recurso, quando houver entendimento dominante acerca da matéria. Portanto, a decisão está de acordo com a Súmula do STJ, hipótese albergada na alínea a do inciso IV do art.
+932 do CPC/2015.
+2. A jurisprudência pacífica desta Corte é no sentido de que a insuficiência ou incompletude do extrato analítico do débito não implica, de imediato, a extinção do processo, uma vez que deve ser oportunizada ao credor a emenda da inicial a fim de corrigir o vício (CPC/1973, art. 616), ainda que já opostos os embargos do devedor, caso em que, regularizado o vício, deve ser permitido ao embargante o aditamento dos embargos (AgRg no REsp 848.025/MG, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 4/2/2013).
+3. A agravante não impugnou a contento a incidência da Súmula 83 do STJ ao presente caso, pois não trouxe nenhum precedente desta Corte em sentido contrário 4. A possibilidade de emenda da inicial pelo credor, em razão do princípio da instrumentalidade, não causa nenhum prejuízo à garantia do contraditório, ampla defesa ou ao devido processo legal, ainda que já opostos os embargos do devedor pois, neste caso, será permitido ao devedor, o aditamento dos embargos.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.374.988/ES, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 8/4/2019, DJe 10/4/2019.)
+Incide, portanto, a Súmula n. 83/STJ, como óbice ao recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
