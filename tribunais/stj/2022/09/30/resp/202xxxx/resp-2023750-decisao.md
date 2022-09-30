@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto de acórdão assim ementado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. ART. 40 DA LEI Nº 6.830/80. LAPSO PRESCRICIONAL DE 5 (CINCO) ANOS. CONSUMAÇÃO. DILIGÊNCIAS INFRUTÍFERAS. NÃO SATISFAÇÃO DO CRÉDITO TRIBUTÁRIO. IMPROVIMENTO DA APELAÇÃO.
+I. Apelação de sentença que pronunciou a prescrição intercorrente em face da inércia do IBAMA em dar efetividade ao crédito tributário, durante lustro superior a 5 (cinco) anos.
+II. Apela o IBAMA alegando que não houve a suspensão do curso da execução, nem tampouco o seu arquivamento, pelo que não pode ser pronunciada a prescrição intercorrente no caso. Pleiteia o provimento da apelação para que seja dado prosseguimento à execução.
+III. O art 40, § 4º, da Lei de Execuções Fiscais, possibilita ao juiz da execução a decretação de oficio da prescrição intercorrente, se consumado o lapso prescricional de 5 (cinco) anos, o que ocorre na espécie.
+IV. Compulsando os autos, verifica-se que o IBAMA ingressou com a presente execução fiscal em 03/08/2004. A empresa executada foi citada na pessoa de seu representante legal e foi penhorado imóvel pertencente à pessoa jurídica para fins de garantia do débito, conforme se percebe pelo auto de penhora datado de 2005 (fl. 08). Apenas em 2011 a exequente voltou a se pronunciar no processo, requerendo a utilização do BacenJud. Com a diligência resultando infrutífera, a exequente pleiteou a expedição do mandado de avaliação do bem imóvel penhorado. Foi então prolatada a sentença extintiva do feito, em setembro de 2012 (fl. 39).
+V. Já restou assentado por, este colegiado que a prescrição intercorrente resta caracterizada pela inércia do exequente durante o lustro quinquenal, sendo prescindível o despacho de suspensão ou arquivamento (Precedente: Segunda Turma, AC 575849/CE, Rel. Des. Federil Paulo Roberto de Oliveira Lima, unânime, DJE: 04/12/2014 - Página 129).
+VI. Este Colegiado também já se posicionou, em casos semelhantes, no sentido de que "É preciso reconhecer que a credora, ora apelante, tem o dever de, impulsionar o andamento dos seus processos relativos a execução fiscal, não sendo admissívelque só se manifeste quando o cartório lhe intime, independentemente do tempo em que a paralisação se verifica. É certo que a experiência mostra que as paralisações dos feitos, por falta de movimentação por parte dos cartórios, só ocorremnas comarcas do interior, o que não retira da apelante o dever de provocar o juízo do feito para o despacho devido, bem como o cartório para o seu efetivo cumprimento. Não é intentar e deixar lá, na comarca, a sua própria sorte, sabedora, de antemão, que ninguém vai dar impulso as execuções fiscais" (AC 579018/AL, Rel. Des. Federal Vladimir Carvalho).
+VII. A exequente não diligenciou com eficiência no sentido de, dentro do prazo que a lei lhe faculta, promover o cumprimento efetivo do crédito tributário. Por este motivo, visando a não perpetuação do processo e em respeito ao princípio da segurança jurídica, deparando-se com o transcurso de mais de 05 (cinco) anos sem que se seja dada efetividade ao crédito exequendo, deve ser extinto o processo nos termos do art. 40, § 4º, da Lei nº 6.830/80.
+VIII. Deixa-se de arbitrar honorários advocatícios em razão da executada não ter apresentado nenhuma peça de defesa, mesmo tendo ingressado no feito e constituído advogado, conforme se percebe às fls. 11/13.
+IX. Apelação improvida.
+Os Embargos de Declaração foram rejeitados.
+No juízo de retratação, foi mantido o acórdão que negou provimento à Apelação.
+O recorrente alega ofensa ao art. 1.022 do CPC e do art. 40 da LEF.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16.9.2022.
+O acórdão embargado incorreu em omissão quanto à análise da contrariedade ao art. 1.022 do CPC/2015, visto que os pontos suscitados como omitidos nos Embargos de Declaração eno Recurso Especialsão, em tese, relevantespara o julgamento da controvérsia.
+Cito trecho da petição do Recurso Especial na parte que fundamenta a infringência ao mencionado artigo:
+Na hipótese vertente, verifica-se claramente a incidência da Súmula 211 do STJ, porquanto o v. acórdão, que rejeitou os aclaratórios opostos pelo IBAMA, não enfrentou a omissão neles suscitada, tema essencial ao correto deslinde da vexata quaestio, senão vejamos:
+O art. 40 e § 4º , da Lei de Execuções Fiscais dispõe o seguinte:
+(..)
+Como se deflui, claramente, da leitura do dispositivo acima transcrito, passou-se a autorizar a decretação, de oficio, pelo juiz, da prescrição intercorrente, desde que atendidas as seguintes condições, a saber: 1) a execução fiscal tiver sido suspensa, por despacho, na forma do art. 40, § 1º , da LEF; 2) os autos judiciais tiverem sido arquivados, por despacho, nos termos do art. 40, §2º, da LEF; 3) ter transcorrido o prazo prescricional, a contar do despacho de arquivamento; 4) ter sido ouvida, previamente, a Fazenda Pública.
+Em toda as hipóteses supracitadas é indispensável a intimação da Fazenda Pública exeqüente, sob pena de nulidade do reconhecimento da prescrição "ex officio", por não obediência aos ditames legais.
+(..)
+Sendo assim, embora opostos os competentes aclaratórios, estes restaram rejeitados, persistindo, pois, a omissão ali aventada. Como não o fez, forçoso é concluir que o v. acórdão guerreado vulnerou, permissa venia, o disposto no art. 1022, II, do CPC, pois se negou o Tribunal a acolher os embargos de declaração quando eram nitidamente cabíveis.
+Considerando o rigoroso entendimento dessa Corte Superior sobre o prequestionamento, outra alternativa não resta ao IBAMA senão interpor o presente Recurso Especial, para que este Col. STJ, à vista da ofensa ao art. 1022 do CPC, anule o v. acórdão hostilizado do E. TRF da 5 Região, a fim de que outro seja proferido em seu lugar, desta feita apreciando o ponto omisso apontado nos aclaratórios.
+Não obstante, em atenção ao princípio da eventualidade, e considerando a hipótese de V Exas. entenderem que não houve omissão do aresto vergastado, tem-se que o feito NÃO ficou paralisado por 05 anos, consoante será demonstrado a seguir. (fls. 21-22, e-STJ)
+Observo que o Tribunal a quo, ao julgar os Embargos, manteve-se silente quanto ao ponto, apresentando decisão genérica em manifesto descumprimento do aludido dispositivo legal.
+A hipótese, portanto, é de acolhimento, em caráter prejudicial, da tese de violação do art. 1.022 do CPC/2015 suscitada no Recurso Especial, e os autos devem ser devolvidos à origem para queas questões acima indicadas sejam abordadas em novo julgamento dos aclaratórios.
+Diante do exposto, dou parcial provimento ao Recurso Especial, apenas quanto à afronta ao art. 1.022 do CPC/2015, e determino o retorno dos autos à Corte regionalpara novo julgamento dos Embargos de Declaração, de forma que sejam tratadas na integralidade as questões neles postas:
+a) indispensável a intimação da Fazenda Pública exequente, sob pena de nulidade do reconhecimento da prescrição ex officiopor não obediência aos ditames legais; e
+b) não houve, em nenhum momento, a suspensão do curso da presente execução, de oficio ou a pedido da exequente, o que deixa clara a inocorrência da prescrição intercorrente, que sequer teve seu curso iniciado.
+Publique-se.
+Intimem-se.
