@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que não conheceu do agravo em recurso especial, assim ementada (fl. 382):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO DA CORTE DE ORIGEM QUE: (1) NEGA SEGUIMENTO A RECURSO ESPECIAL FUNDAMENTADA EM REPETITIVO. APLICAÇÃO DO CPC/2015. INTERPOSIÇÃO DE AGRAVO EM RECURSO ESPECIAL. ERRO GROSSEIRO. PREVISÃO LEGAL EXPRESSA. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. (2) INADMITE RECURSO ESPECIAL:AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. RECURSO NÃO CONHECIDO.
+Em suas razões o embargante alega, em suma que "restou configurado pelo V. Acórdão a afronta direta aos artigos 23 e 86, §2º da Lei nº 8.231/91, bem como pela R. Decisão recorrida, que também afrontou o teor da Súmula 862 do STJ, impondo uma interpretação equivocada a normatização, assim devendo ser reformada" (fls. 385-387):
+Em sua defesa sustenta:
+O V. acórdão não conheceu do Agravo interposto contra decisão que negou seguimento ao Recurso Especial do agravante, sob o fundamento que a parte recorrente supostamente não teria impugnado especificamente todos os fundamentos da decisão recorrida.
+No entanto, claramente se verifica que o Agravo em Recurso Especial do obreiro, cinge-se na divergência instaurada pelo E. Tribunal de Justiça do Estado de São Paulo, ao reformar a sentença de 1º grau e determinar que a data de início do benefício seja fixada o dia da cessação da segunda alta médica.
+Tal decisão, conforme explicitado no Recurso Especial interposto, afronta a decisão que aplicou o Tema 862 do STJ de forma equivocada, deu interpretação pior para a normatização que rege a matéria.
+No Tema 862 do STJ, de 09.06.2021, publicado no DJe de 01.07.2021, o Col. Superior Tribunal de Justiça, fixou a seguinte tese: "O termo inicial do auxílio-acidente deve recair no dia seguinte ao da cessação do auxílio-doença que lhe deu origem, conforme determina o art. 86, § 2º, da Lei 8.213/91, observando-se a prescrição quinquenal da Súmula 85/STJ". O julgamento do tema seguiu de forma taxativa o entendimento pelo qual o início do auxílio-acidente deve corresponder a data fim do auxílio- doença que lhe deu causa.
+Portanto, essa disposição significa que, caso o auxílio-acidente seja decorrente da mesma moléstia que motivou a concessão do primeiro auxílio-doença recebido é, por óbvio, que este que deve ser considerado para se identificar a data de início da indenização acidentária!!
+ ..
+Desta forma, frente à falta de razões justas e motivadas para a negativa de seguimento e inadmissão ao recurso, haja vista as violações normativas apontadas, se mostra imperiosa a manifestação deste Superior Tribunal de Justiça, responsável pela análise e interpretação da legislação federal, pelo que, merece seguimento e admissão o recurso especial interposto, não estando o Tribunal local autorizado a criar obstáculos para que a recorrente obtenha a prestação jurisdicional de vida, eis que fora alegado afronta ao TEMA 862 deste E. STJ.
+Ante o exposto, requer o embargante, respeitosamente, que o d.Ministro acolha os Embargos Declaratórios opostos, suprindo a omissão apontada, nos termos do artigo 1022, II e § único, concedendo efeitos modificativos ao julgado.
+Sem impugnação (fl. 393).
+É o relatório. Passo a decidir.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Os Embargos de Declaração não merecem acolhimento.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, verifica-se que o embargante sequer fundamenta a sua peça de defesa na violação ao art. 1.022 do CPC, limitando-se à defesa de questões meritórias decididas pela Corte de origem, sem mencionar quaisquer dos vícios que justificam a oposição dos embargos de declaração, em desalinho com o que prevê o art. 1.023, caput, do CPC/2015, ao assim dispor: "Art. 1.023. Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo".
+A ausência de indicação do(s)vício (s) que justificaria a oposição dos Embargos de Declaração, além de inobservar a exigência do art. 1.023 do CPC/2015, impede a exata compreensão da controvérsia.
+Assim, a insurgência não merece ser conhecida, porquanto encontra óbice na Súmula 284/STF.
+Nesse sentido, é o entendimento da Corte Especial:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DE QUALQUER VÍCIO NO V. ACÓRDÃO. IMPOSSIBILIDADE DE CONHECIMENTO DOS EMBARGOS DE DECLARAÇÃO.
+I - Nos termos do art. 1.022 do Código de Processo Civil, somente são cabíveis embargos declaratórios para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre o qual deveria haver consideração de ofício ou a requerimento ou, ainda, para correção de erro material, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - No presente caso, não são apontados vícios no v. acórdão ora embargado, o que obsta o conhecimento desses aclaratórios.
+Embargos de declaração não conhecidos (EDcl no AgInt nos EDcl nos EDv nos EREsp n. 1.256.614/SP, Corte Especial, Rel. Min. Felix Fischer, DJe de 13/09/2018, grifei).
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. NÃO DEMONSTRAÇÃO DE NENHUM DOS VÍCIOS PREVISTOS NO ART. 1.022 DO NOVO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO CONHECIMENTO.
+1. A ausência de indicação, nas razões dos embargos declaratórios, da presença de quaisquer dos vícios enumerados no art. 1.022 do CPC/2015 implica o não conhecimento dos aclaratórios por descumprimento dos requisitos previstos no art. 1.023 do mesmo diploma legal, além de comprometer a exata compreensão da controvérsia trazida no recurso. Aplicação da Súmula n. 284 do STF.
+2. Embargos de declaração não conhecidos (EDcl no AgInt nos EAREsp n. 635.459/MG, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 15/3/2017, grifei).
+Ante o exposto, não conheço dos Embargos de Declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. DEMONSTRAÇÃO DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF, POR ANALOGIA. PRECEDENTES. RECURSO NÃO CONHECIDO.
