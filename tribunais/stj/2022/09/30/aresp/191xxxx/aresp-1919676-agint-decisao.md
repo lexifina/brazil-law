@@ -1,0 +1,64 @@
+DECISÃO
+JOCELAINE MOHR LOPES (JOCELAINE)ajuizou ação declaratória de inexistência/inexigibilidade de débito cumulada compensação de dano moral contraCLARO S.A. (CLARO)alegando,em síntese, a inexistência de relação jurídica com a parte ré que justifique a abertura de registro negativo de crédito em seu nome. Sustentou que a conduta da parte ré acarretou-lhe dano moral. Requereu o deferimento de tutela de urgência, cancelando-se o registro negativo de crédito e, ao final, a declaração de inexistência de débito e a condenação da parte ré ao pagamento de indenização por dano moral. Reclamou a concessão da gratuidade da justiça.
+Em primeira instância, os pedidos foram julgados procedentes paradeclarara inexigibilidade do débito controvertido na inicial - contrato nº 912931736, R$ 356,83, vencimento em 10.09.2012, em relação à parte ré; determinarsua exclusão definitiva da PLATAFORMA SERASA LIMPA NOME;condenara parte ré ao pagamento de R$ 5.000,00 a titulo de indenização por dano extrapatrimonial, corrigidos, pelo IGPM (admitida a deflação, porém preservado o valor nominal), a partir de hoje, e acrescidos de juros de mora, no patamar de 1% ao mês, vedada a capitalização, a contar da citação.
+A apelação interposta pela CLAROfoi provida pelo Tribunal estadual nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. DECLARAÇÃO DEINEXISTÊNCIA DO DÉBITO. CONTRATAÇÃO PROVADA. INSCRIÇÃONO "SERASA LIMPA NOME". FERRAMENTA DE RENEGOCIAÇÃO DEDÉBITOS SEM NATUREZA DE CADASTRO NEGATIVO. COBRANÇADE DÍVIDA PRESCRITA. DANOS MORAIS. NÃO CONFIGURADOS.
+1. VERIFICADA A EXISTÊNCIA DO DÉBITO, MEDIANTE AAPRESENTAÇÃO DO CONTRATO FIRMADO ENTRE AS PARTES,BEM COMO, DAS FATURAS TELEFÔNICAS DO SERVIÇO PRESTADO E NÃO ADIMPLIDO. IMPOSSIBILIDADE DE RECONHECER A INEXIGIBILIDADE DA DÍVIDA, QUE SE DEMONSTRA REGULAR A LUZ DA PROVA PRODUZIDA.
+2. VERIFICADO QUE INEXISTE INSCRIÇÃO PROPRIAMENTEDO NOME DA PARTE AUTORA EM CADASTRO RESTRITIVO DECRÉDITO, UMA VEZ QUE O SERVIÇO DENOMINADO DE "SERASA LIMPA NOME" TEM POR OBJETIVO SIMPLESMENTE A RENEGOCIAÇÃO DA DÍVIDA.
+3. ADEMAIS, O ACESSO AO "SERASA LIMPA NOME" SE DÁ MEDIANTE PRÉVIO CADASTRO EFETIVADO PELO PRÓPRIO CONSUMIDOR, RESTANDO DEMONSTRADO A INEXISTÊNCIA DE QUALQUER APONTAMENTO NEGATIVO DECORRENTE DA UTILIZAÇÃO DESSA NOVA PLATAFORMA A ENSEJAR A RESTRIÇÃO CREDITÍCIA DA PARTE AUTORA.
+4. A SIMPLES COBRANÇA DE UM DÉBITO, AINDA QUE INEXISTENTE E/OU PRESCRITO, SEM QUALQUER ELEMENTO COERCITIVO LESIVO DE RESTRIÇÃO DE CRÉDITO, NÃO CARACTERIZA DANO MORAL.
+RECURSO PROVIDO. (e-STJ, fl. 362)
+Os embargos de declaração opostos por JOCELAINE foram rejeitados.
+Inconformada, JOCELAINEmanejou recurso especial com fundamento no art. 105, III, a e c, da CF, apontando a violação aos arts. 1.022 e 1.025 do NCPC, 37, 43, §§ 1º e 5º, 46, 47 e 51 do CDC, 206, § 5º, I, do CC, ao sustentar que (1) omisso o acórdão em relação ao prazo de manutenção do nome do devedor no cadastro de inadimplentes, que seria de 5 anos; o prazo prescricional para a cobrança de dívidas ilíquidas é de 5 anos; falta de fundamentação; (2) prescrito o direito de cobrança de dívida após 5 anos, tempo após o qual nenhum dado negativo do consumidor poderia permanecer em base de dados, sendo o consumidor enganado para pagar dívidas prescritas.
+O apelo nobre não foi admitido pelo Tribunal estadual em virtude da incidência das Súmulas nºs 7 e 211 do STJ e 283 do STF.
+Seguiu-se o agravo em recurso especial interposto pela JOCILAINEque, em decisão proferida pelo Ministro Presidente desta Corte, não foi conhecido em virtude da incidência da Súmula nº 182 do STJ.
+Nas razões do presente agravo interno,sustentou a inaplicabilidade da Súmula nº 182 do STJ por entender que todos os óbices à admissão do apelo nobre foram devidamente impugnados.
+É o relatório.
+DECIDO.
+A irresignação merece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Nas razões do presente agravo interno, JOCILAINE sustentou a inaplicabilidade da Súmula nº 182 do STJ por entender que todos os óbices à admissão do apelo nobre foram devidamente impugnados.
+Deveras, razão assiste à agravante, motivo pelo qual reconsidero a decisão agravada e, em nova análise, conheço do agravo para, então, apreciar o recurso especial.
+(1) Da omissão
+Nas razões do seu recurso, JOCILAINE alegou que omisso o acórdão em relação ao prazo de manutenção do nome do devedor no cadastro de inadimplentes, que seria de 5 anos; o prazo prescricional para a cobrança de dívidas ilíquidas é de 5 anos; faltando fundamentação no acórdão.
+Contudo, verifica-se que o Tribunal estadual se pronunciou sobre os temas consignando que os serviços de telefonia foram efetivamente utilizados e inadimplidos pelaautora. Além disso, o acórdão foi claro ao consignarque a plataforma Serasa Limpa Nome não constitui um cadastro restritivo de crédito e sequer disponibilizaas dívidas inscritas no cadastro para a consulta de terceiros. Por tais motivos, a plataformapode registrar dívidas prescritas, sem a necessidade de notificação prévia, com a finalidade de favorecer a comunicação e negociação entre credores e devedores.
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. AUSÊNCIA DE EXERCÍCIO ABUSIVO DO DIREITO DE IMPRENSA. DEVER DE VERACIDADE. OBSERVÂNCIA. DANOS MORAIS.
+INOCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1.022 do CPC/2015.
+(..)
+8. Agravo interno no recurso especial desprovido.
+(AgInt no REsp 1912545/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/05/2021, DJe 14/05/2021)
+Afasta-se, portanto, a alegada violação.
+(2) Da cobrança indevida e dos danos morais
+JOCILAINEsustentou que seu nome foi mantido na plataforma Serasa Limpa Nomecom dados relativos adívidas prescritas, com o objetivo de constrangê-la ao pagamento mediante sua exposição como mápagadora. Requereu, portanto,a condenação da requerida ao pagamento de indenização por danos morais.
+Sobre o tema o TJRSconsignou que a referida plataforma nãoconstitui um cadastro restritivo de crédito e sequer disponibiliza as dívidas inscritas no cadastro para a consulta de terceiros.
+A propósito, confira-se:
+Com relação a prescrição da dívida e os danos morais, de início, cumpre esclarecerque o serviço denominado de "Serasa Limpa Nome" se trata de uma ferramenta nova, que permite a interação e negociação entre os credores e os seus devedores, cujas dívidas vencidas e não pagas tenham ou não sido incluídas no cadastro de inadimplentes.
+(..)
+Feitas estas considerações acerca da plataforma "Serasa Limpa Nome", com relação ao pedido de danos morais, inobstante a situação enfrentada pela parte autora possa ter lhe causado certo transtorno, não se denota que, daí, tenha advindo lesão aos seus direitos da personalidade. E isto porque, como tenho reiteradamente sustentado, a simples cobrança de um débito, ainda que inexistente e/ou prescrito, não induz à indenização por dano moral. Na realidade, tal situação constitui apenas adversidade do dia-a-dia, que não se identifica com aquelas situações capazes de gerar dano extrapatrimonial que atingem atributos da personalidade do lesado.
+Ao contrário do afirmado pelo autor, o serviço denominado "Serasa Limpa Nome "não possui o condão de restringir o crédito do consumidor, razão pela qual não há que se falar em danos morais.
+Assim, rever as conclusões quanto a tais pontosdemandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº7 do STJ.Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLATAFORMA "SERASA LIMPA NOME". ALEGAÇÃO DE INSCRIÇÃO INDEVIDA. INEXISTÊNCIA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA Nº 7/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/15. NÃO OCORRÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste a alegada violação do art. 1.022 do CPC/15, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O tribunal estadual apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+2. Ademais, a conclusão exarada pela instância ordinária, em relação à comprovação do débito e, ainda, ao fato de que a plataforma Serasa Limpa Nome "não se trata, propriamente, de um órgão de restrição de crédito, mas, sim, de uma plataforma com o fim de viabilizar a renegociação entre consumidor e credor", demandaria, necessariamente, a incursão na seara fático-probatória constante nos autos, situação que atrai o óbice da Súmula nº 7 do STJ.
+3. Ausentes alegações que infirmem os fundamentos da decisão atacada, permanecem incólumes os motivos expendidos pela decisão recorrida.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.952.666/RS, minha relatoria, julgado em 5/9/2022, DJe de 8/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLATAFORMA "SERASA LIMPA NOME". ALEGAÇÃO DE INSCRIÇÃO INDEVIDA. INEXISTÊNCIA. NECESSIDADE DE REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. PREQUESTIONAMENTO EXIGIDO. ART. 1025 DO CPC. PREQUESTIONAMENTO FICTO NÃO EVIDENCIADO.
+INCIDÊNCIA DA SÚMULA 211 DO STJ. Agravo interno a que se nega provimento.
+1. É entendimento pacífico desta Corte de que a ausência de enfrentamento expresso acerca da questão objeto da controvérsia pelo Tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211 do STJ.
+2. Na exegese do art. 1.025 do Código de Processo Civil de 2015, considera-se prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do mesmo estatuto, o que não se evidencia na hipótese. Precedentes.
+3. Ademais, a conclusão exarada pelas instâncias ordinárias em relação à comprovação do débito e, ainda, de que a plataforma Serasa Limpa Nome "não se trata, propriamente, de um órgão de restrição de crédito, mas, sim, de uma plataforma com o fim de viabilizar a renegociação entre consumidor e credor" demandaria, necessariamente, a incursão na seara fático-probatória constante nos autos, situação que atrai o óbice da Súmula nº 7 do STJ.
+4. Ausentes alegações que infirmem os fundamentos da decisão atacada, permanecem incólumes os motivos expendidos pela decisão recorrida.
+5. Agravo interno desprovido.
+(AgInt no AREsp n. 2.034.651/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe de 4/5/2022.)
+O recurso, portanto, não mereceser conhecido quanto ao ponto.
+Nessas condições, DOU PROVIMENTO ao agravo interno para RECONSIDERAR a decisão agravada e, em nova análise, CONHEÇOdo agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+MAJOROem 5% o valor dos honorários advocatícios anteriormente fixados em favor da CLARO, limitados a 20%, nos termos do art. 85, § 11, do NCPC, suspensa a cobrança em virtude da concessão do benefício da justiça gratuita.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+EMENTA
+PROCESSUAL CIVIL.AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC.AÇÃO DECLARATÓRIA DE INEXISTÊNCIA/INEXIGIBILIDADEDE DÉBITO CUMULADA COMINDENIZAÇÃO POR DANOS MORAIS.OMISSÃO. INEXISTÊNCIA. DECISÃO SUFICIENTEMENTE FUNDAMENTADA. COBRANÇA DE DÍVIDA PRESCRITA. INEXISTÊNCIA.REANÁLISE DE PROVAS. IMPOSSIBILIDADE. INCIDÊNCIA DASÚMULANº 7 DO STJ. AGRAVO INTERNO PROVIDO. DECISÃO RECONSIDERADA. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIALCONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
