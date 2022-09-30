@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos ao acórdão às fls. 132-139, e-STJ, assim ementado (grifei):
+TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA (CPRB) NA BASE DE CÁLCULO DO PIS E COFINS. INCIDÊNCIA. ART. 12 DO DECRETO-LEI 1.598/1977. A RECEITA BRUTA COMPREENDE OS TRIBUTOS SOBRE ELA INCIDENTES. TEMA 1.048 DO STF. RECURSO NÃO PROVIDO.
+1. Cuida-se de ação na qual a recorrente busca a exclusão da Contribuição Previdenciária sobre a Receita Bruta (CPRB) da base de cálculos das contribuições ao PIS e Cofins, por não perfazer faturamento ou receita da companhia, mesmo após as alterações trazidas pela Lei 12.973/2014, em respeito ao art. 110 do CTN, sob pena de afronta aos ditames constitucionais dispostos aos arts. 145, § 1º, 150, I, e 195, I, da CF.
+2. O Supremo Tribunal Federal, no resultado do julgamento do seu Tema 1.111, fixou a seguinte tese: "É infraconstitucional a ela se aplicando os efeitos da ausência de repercussão geral, a controvérsia relativa à inclusão da contribuição previdenciária substitutiva incidente sobre a receita bruta (CPRB) na base de cálculo da contribuição ao PIS e da COFINS".
+3. A discussão consiste em saber se viola o art. 110 do CTN o conceito de receita bruta dado pelo art. 12 do Decreto-Lei 1.598/1977, com a nova redação dada pela Lei 12.973/2014.
+4. O STF tratou do conceito de receita bruta ao julgar o RE 1.187.264 (Tema 1.048), com acórdão publicado em 20.5.2021, oportunidade em que fixou a seguinte tese: "É constitucional a inclusão do Imposto Sobre Circulação de Mercadorias e Serviços - ICMS na base de cálculo da Contribuição Previdenciária sobre a Receita Bruta - CPRB."
+5. Registre-se a similaridade com a presente demanda, uma vez que no RE 1.187.264 também se discutia o conceito de receita bruta e a empresa sustentava a impossibilidade de inclusão do ICMS na base de cálculo da CPRB, por não ser definitivo o ingresso dos valores no patrimônio da pessoa jurídica. Alegava, também, que deveria ser aplicada ao caso a mesma tese firmada no RE 574.706 (Tema 69 da Repercussão Geral), em que o Plenário declarou que o ICMS não deve compor a base de cálculo do PIS e da Cofins.
+6. No corpo do acórdão, debateu-se sobre o conceito de receita bruta trazido pelo art. 12 do Decreto-Lei 1.598/1977, com a nova redação dada pela Lei 12.973/2014, o que teve o seguinte desfecho: "(..) De acordo com a legislação vigente, se a receita líquida compreende a receita bruta, descontados, entre outros, os tributos incidentes, significa que, contrario sensu, a receita bruta compreende os tributos sobre ela incidentes".
+7. Como se observa, a Suprema Corte reafirmou a constitucionalidade e legalidade do conceito de receita bruta trazido pelo art. 12 do Decreto-Lei 1.598/1977, com a nova redação dada pela Lei 12.973/2014, não se aplicando as razões do Tema 69 do STF à presente discussão, nem havendo ofensa ao art. 110 do CTN.
+8. Assim, não tem o contribuinte o direito de excluir os valores atinentes à Contribuição Previdenciária sobre a Receita Bruta (CPRB) da base de cálculo das contribuições ao PIS e à Cofins.
+9. Agravo Interno não provido.
+A recorrente alega que houve violação ao art. 1.022, II, do CPC/2015, uma vez que a matéria em questão - exclusão dos valores relativos ao PIS e à COFINS da base de cálculo da Contribuição Previdenciária sobre a Receita Bruta (CPRB) - foi afetada pelo STF no RE 1.341.464, Tema 1.186, de modo que o presente recurso deveria aguardar o julgamento do Recurso Representativo da Controvérsia.
+Sem Contrarrazões, conforme certidão à fl. 447, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16 de setembro de 2022.
+A irresignação merece prosperar.
+Verifica-se que a questão jurídica objeto do presente Recurso - exclusão dos valores relativos ao PIS e à Cofins da base de cálculo da Contribuição Previdenciária sobre Receita Bruta (CPRB) - teve a Repercussão Geral reconhecida pelo Supremo Tribunal Federal nos autos do RE 1.341.464 (Tema 1.186/STF), consoante se verifica na seguinte ementa:
+RECURSO EXTRAORDINÁRIO. REPRESENTATIVO DA CONTROVÉRSIA. TRIBUTÁRIO. EXCLUSÃO DO PIS E DA COFINS DA BASE DE CÁLCULO DA CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA (CPRB). MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. PAPEL UNIFORMIZADOR DO SUPREMO TRIBUNAL FEDERAL. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL. (RE 1341464 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, julgado em 02/12/2021, PROCESSO ELETRÔNICO DJe-032 DIVULG 17-02-2022 PUBLIC 18-02-2022)
+Dessa forma, o presente feito deve ser sobrestado até o julgamento do Tema 1.186 do STF.
+Ante o exposto, acolho os Embargos de Declaração, para determinar o sobrestamento do presente feito, na Coordenadoria deste eg. STJ, para se aguardar o julgamento do Tema 1.186 do STF.
+Publique-se.
+Intimem-se.
