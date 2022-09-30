@@ -1,0 +1,20 @@
+DECISÃO
+Vistos.
+Trata-se de conflito negativo de competência, suscitado pelo JUÍZO DE DIREITO DO JUIZADO ESPECIAL CÍVEL E CRIMINAL DE PARAIBUNA - SP, em face do JUÍZO DA 1ª VARA DO TRABALHO DE TAUBATÉ, em Reclamação Trabalhista movida por empregado públicoem desfavor doMunicípio de Natividade da Serra - SP, objetivando o cumprimentode obrigações atinentes às férias.
+Dispensada a remessa ao Ministério Público Federal, nos termos do art. 951, parágrafo único, do Código de Processo Civil.
+É o relatório. Decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Outrossim, acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, d, da Magna Carta.
+O Supremo Tribunal Federal, ao julgar a ADI 3.395/DF, interpretando o inciso I do art. 114 da Constituição da República, alterado pela EC 45/2004, ao apreciar a expressão "relação de trabalho", afastou qualquer interpretação que atribuísse à Justiça do Trabalho competência para apreciar causas envolvendo a Administração Pública e seus servidores, vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Em sintonia com a jurisprudência do Supremo Tribunal Federal, a 1ª Seção desta Corte tem acolhido o entendimento segundo o qual "a competência para processar e julgar os litígios instaurados entre os agentes públicos e os entes estatais a que servem depende da natureza jurídica do vínculo entre as partes, cabendo à justiça trabalhista o exame das relações fundadas na CLT e à justiça comum, federal ou estadual, aquelas sujeitas a regime estatutário ou jurídico-administrativo" (CC 129.447/RN, 1ª S., Rel. Min. Sérgio Kukina, DJe de 30.09.2015).
+Na espécie, observoque o empregado encontra-seregido pela Consolidação das Leis do Trabalho - CLT, o que atrai a competência da Justiça Laboral, conforme orientação pacífica desta Corte:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUSTIÇA COMUM X JUSTIÇA DO TRABALHO. NATUREZA DO VÍNCULO DE TRABALHO ENTRE A ADMINISTRAÇÃO E SEUS AGENTES. MUNICÍPIO QUE ADOTOU EXCLUSIVAMENTE A CLT, INCLUSIVE PARA COMISSIONADOS. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. ART. 114, I e IX, DA CONSTITUIÇÃO FEDERAL.
+1. A jurisprudência, tanto desta Corte Superior quanto do STF, são harmônicas e orientadas no sentido de que a competência para processar e julgar os feitos com origem nas relações entre os entes públicos e seus agentes é fixada em razão do vínculo jurídico estabelecido entre as partes, salvo quanto aos contratos temporários fundados no art. 37, IX, da Constituição Federal, o que não é o caso aqui examinado. Precedentes.
+2. No caso do Município de São Joaquim da Barra, SP, a opção do legislador local foi a de submeter todo o quadro de pessoal, inclusive os comissionados, ao regime da CLT, como expressamente consta dos art. 6º e 10 da Lei Municipal n. 100, de 30 de dezembro de 1998.
+3. Se a lei local que regula as relações entre a edilidade e seus agentes sujeita estes ao regime celetista, a competência para processar e julgar as ações fundadas nessa relação é da Justiça do Trabalho, nos termos do que dispõe o art. 114, I e IX, da Constituição Federal, com a redação dada pela EC n. 45/2004.
+4. Agravo interno interposto pelo Município não provido.
+(AgInt no CC 155.556/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 09/05/2018, DJe 16/05/2018).
+Posto isso, nos termos do art. 955, parágrafo único, do Código de Processo Civil, combinado com art. 34, XVIII, do Regimento Interno desta Corte, conheço do conflito e declaro competente o JUÍZO DA 1ª VARA DO TRABALHO DE TAUBATÉ.
+Comunique-se, com urgência, ao Juízo Suscitante e ao Juízo Suscitado.
+Após as providências cabíveis, arquivem-se os autos.
+Publique-se. Intime-se.
