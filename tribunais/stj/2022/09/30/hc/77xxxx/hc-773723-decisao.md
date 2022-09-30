@@ -1,0 +1,10 @@
+DECISÃO
+EDUARDO TIAGO DE OLIVEIRAalega sofrerconstrangimento ilegal
+e aponta como autoridade coatora "Juiz da 1ª Vara Criminal de Frutal" (fl. 3)
+O impetrante explica que o paciente está preso preventivamente desde 25/1/2019 (fl. 4). Ao que parece, sobreveio sua condenação por latrocínio, mas, emapelação julgadano dia 26/11/2021,a conduta foi desclassificada para homicídio qualificado seguido de furto e os autosdevolvidos à primeira instância para o julgamento pelo Tribunal do Júri. O "processo já teve diversas remarcações de audiência", sem previsão para o julgamento(fl. 4), razão pela qual, em face do "excesso de prazo para formação da culpa" (fl. 10), requer-se o relaxamento da custódia cautelar do réu. Alternativamente, a defesa busca a aplicação do art. 319 do CPP e assinala não estar justificado o periculum libertatis.
+Decido.
+Ab initio: "falece competência ao Superior Tribunal de Justiça, a teor do art. 105, inciso I, c, da Constituição Federal, para julgar habeas corpus impetrado diretamente nesta Corte Superior contra ato de Juiz"(AgRg no HC n. 645.080/BA, Rel. MinistroFelix Fischer, 5ª T., DJe 19/3/2021).
+O impetrante não juntoucópia de acórdão prolatado por Tribunal estadual ou regional, denegatório da ordem, na qual conste o prévio exame de suas alegações. Assim, não se verificaa inauguração da competência desta Corte para processar e julgar o remédio constitucional, nos termos do art.105 da CF.
+Deveras:"matéria não analisada pelo Tribunal de origem não pode ser diretamente enfrentada neste momento, sob pena de supressão de instância" (RHC n. 98.130/MG, Rel. MinistroNefi Cordeiro, 6ª T., DJe 16/10/2018).
+A propósito: "constatado que a alegação deexcesso de prazoda prisão não foi enfrentada pelo Tribunal de origem, fica esta Corte impedida de se debruçar sobre a matéria, sob pena de incorrer em indevidasupressão de instância"(AgRg no RHC n. 156.182/PA, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/8/2022, DJe de 30/8/2022).
+À vista do exposto, indefiro liminarmente o processamento do habeas corpus.
