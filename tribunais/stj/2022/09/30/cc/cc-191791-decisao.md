@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Conflito negativo de Competência instaurado entre o Juízo da2ª Vara do Trabalho de São Carlos/SPe o Juízo de Direito da Vara de Ibaté/SP,nos autos de Reclamação Trabalhista ajuizada por Rosa Maria Alvescontra o Município de Ibaté/SP.
+Ao suscitar o Conflito,oJuízo do trabalho justificou que o regime de contratação da autora é estatutário, motivo pelo qual cabe à Justiça Comum o processamento do feito.
+Dispensei a manifestação do Ministério Público Federal por tratar-se de demanda conhecida no STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.9.2022.
+Conheço do Conflito por se tratar de controvérsia instaurada entre juízosvinculados a Tribunais distintos, nos termos do que preceitua o art. 105, I, "d", daConstituição da República.
+Ao julgar ADI 3.395/DF, oSupremo Tribunal Federal interpretou o inciso Ido art. 114 da Constituição Federal, alterado pela EC 45/2004, e excluiu da expressão "relação de trabalho" qualquer interpretação que atribuísse à Justiça do Trabalhocompetência para apreciar causas envolvendo a Administração Pública e seus servidores,vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo.
+Por outro lado, o STF consolidou a compreensão de que o entendimentofixado na ADI 3.395/DF não afasta a competência da Justiça do Trabalho se o objeto dalide pressupõe vínculo celetista com o Poder Público:
+CONFLITO DE COMPETÊNCIA - JUSTIÇA COMUM VERSUS JUSTIÇADO TRABALHO. A definição da competência decorre da ação ajuizada. Tendocomo causa de pedir relação jurídica regida pela Consolidação das Leis do Trabalhoe pleito de reconhecimento do direito a verbas nela previstas, cabe à Justiça doTrabalho julgá-la.
+(CC 7.950, Rel. Min. MARCO AURÉLIO, Tribunal Pleno, julgado em14/9/2016, ACÓRDÃO ELETRÔNICO DJe-168 DIVULG 31-7-2017 PUBLIC1-8-2017)
+COMPETÊNCIA - JUSTIÇA DO TRABALHO - AÇÃO DIRETA DEINCONSTITUCIONALIDADE Nº 3.395 - LIMINAR - ALCANCE-RECLAMAÇÃO. O Tribunal, ao examinar a Medida Cautelar na Ação Direta deInconstitucionalidade nº 3.395, não excluiu da Justiça Trabalhista a competênciapara apreciar relação jurídica entre o Poder Público e servidor regida pelaConsolidação das Leis do Trabalho.
+(Rcl 8.406 AgR-segundo, Rel. Min. MARCO AURÉLIO, PrimeiraTurma, julgado em 13/5/2014, ACÓRDÃO ELETRÔNICO DJe-102 DIVULG 28-5-2014 PUBLIC 29-5-2014)
+Destaco trecho do voto condutor do em.Ministro Marco Aurélio no julgamento do CC 7.950:
+No mais, está presente a articulação, como causa de pedir, da regênciado vínculo pela Consolidação das Leis do Trabalho. Se a causa de pedir é a relaçãode natureza celetista, visando-se parcelas trabalhistas, o deslinde da controvérsiaincumbe à Justiça do Trabalho e não à Justiça Comum.
+A caracterização, ou não, dacitada relação jurídica tem definição a cargo da jurisdição especializada referida.
+Aquela incumbe, inclusive, examinar possível carência da ação.
+Essa orientação acerca do critério balizador da definição da competência foimuito bem registrada em precedente da Primeira Seção do STJ em caso de relatoria dosaudoso Ministro Teori Zavascki:
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA FEDERALE JUSTIÇA ESTADUAL. DEMANDA DEDUZINDO PEDIDOS PARACONCESSÃO DE BENEFÍCIOS PREVIDENCIÁRIOS. COMPETÊNCIAESTABELECIDA LEVANDO-SE EM CONSIDERAÇÃO OS TERMOS DAPETIÇÃO INICIAL. COMPETÊNCIA DA JUSTIÇA FEDERAL.
+1. A definição da competência para a causa se estabelece levando emconsideração os termos da demanda (e não a sua procedência ou improcedência, oua legitimidade ou não das partes, ou qualquer outro juízo a respeito da própriademanda). O juízo sobre competência é, portanto, lógica e necessariamente, anteriora qualquer outro juízo sobre a causa. Sobre ela quem vai decidir é o juiz consideradocompetente (e não o Tribunal que aprecia o conflito). Não fosse assim, haveria umaindevida inversão na ordem natural das coisas: primeiro se julgaria (ou pré-julgaria)a causa e depois, dependendo desse julgamento, definir-se-ia o juiz competente (que,portanto, receberia uma causa já julgada, ou, pelo menos, pré-julgada). Precedentes:CC 51.181-SP, 1ª Seção, Min. Teori Albino Zavascki, DJ de 20.03.2006; AgRg noCC 75.100-RJ, 1ª Seção, Min. Teori Albino Zavascki, DJ de 19.11.2007; CC87.602-SP, 1ª Seção, Min. Teori Albino Zavascki, DJ de 22.10.2007.
+2. No caso, a autora ajuizou, em face do INSS, pedidos para concessãode benefícios previdenciários (e não de natureza acidentária). Nos termos comoproposta, a causa é da competência da Justiça Federal.
+3. Conflito conhecido e declarada a competência da Justiça Federal, asuscitada.
+(CC 121.013/SP, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, DJe 3/4/2012)
+A definição da competência em razão da matéria é, portanto, definida pelapretensão deduzida em juízo,sendo relevante, nas hipóteses de vínculo de trabalholatosensucom a Administração Pública, averiguar se o objeto da lide tem como causa depedir relação celetista -situação na qual, em regra, será competente a Justiça do Trabalho - ou se o vínculo é reconhecidamente regido (ou se pretende que sejareconhecido) sob regime jurídico-administrativo - caso em que a competência caberá àJustiça Comum.
+Dessa forma, o Supremo Tribunal Federal definiu comocompetente a Justiça do Trabalho para julgar ações em que se pretende o pagamento deprestações trabalhistas de natureza celetista para servidores que ingressaram semconcurso público antes da Constituição Federal:
+CONSTITUCIONAL. TRABALHISTA. COMPETÊNCIA.SERVIDOR PÚBLICO ADMITIDO SEM CONCURSO PÚBLICO, PELOREGIME DA CLT, ANTES DO ADVENTO DA CONSTITUIÇÃO DE 1988.DEMANDA VISANDO OBTER PRESTAÇÕES DECORRENTES DA RELAÇÃODE TRABALHO. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.REPERCUSSÃO GERAL CONFIGURADA. REAFIRMAÇÃO DEJURISPRUDÊNCIA.
+1. Em regime de repercussão geral, fica reafirmada a jurisprudência doSupremo Tribunal Federal no sentido de ser da competência da Justiça do Trabalhoprocessar e julgar demandas visando a obter prestações de natureza trabalhista,ajuizadas contra órgãos da Administração Pública por servidores que ingressaramem seus quadros, sem concurso público, antes do advento da CF/88, sob regime daConsolidação das Leis do Trabalho CLT. Inaplicabilidade, em casos tais, dosprecedentes formados na ADI 3.395-MC (Rel. Min. CEZAR PELUSO, DJ de10/11/2006) e no RE 573.202 (Rel. Min. RICARDO LEWANDOWSKI, Dje de5/12/2008, Tema 43).
+2. Agravo a que se conhece para negar seguimento ao recursoextraordinário.
+(STF, ARE 906.491/DF, Rel. Ministro TEORI ZAVASCKI,PLENÁRIO, DJe de 1º/10/2015)
+In casu, a petição inicial contém pedidos formulados com base na CLT. Além do mais, a própria Lei Municipal 2.193/2005, que rege os servidores do reclamado, não estabelece normas estatutárias, pois estabelece no art. 4º, caput, a CLT como regime dos servidores.
+Por todo o exposto, conheço do Conflito de Competência a fim de declarar como competente o Juízo da 2ª Vara do Trabalho de São Carlos/SP.
+Publique-se.
+Intimem-se.
