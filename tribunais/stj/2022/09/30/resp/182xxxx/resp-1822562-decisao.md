@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJAM, o qual recebeu a seguinte ementa (e-STJ fls. 536/537):
+APELAÇÃO CÍVEL. NULIDADES. INEXISTÊNCIA. LOTEAMENTO. PRETENSÃO DE TORNAR-SE CONDOMÍNIO. INFORMAÇÃO DO MUNICÍPIO DE MANAUS NO SENTIDO DE QUE NÃO HOUVE FORMALIZAÇÃO E APROVAÇÃO PELO PODER PÚBLICO DO PROCESSO DE ALTERAÇÃO DE LOTEAMENTO PARA CONDOMÍNIO. INOBSERVÂNCIA DO PROCEDIMENTO ESTABELECIDO NA LEI N.º 4.591/64. PARTE APELANTE QUE NÃO SE DESINCUMBIU DE COMPROVAR OS FATOS ALEGADOS POR SI E NEM DE DEMONSTRAR A EXISTÊNCIA DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO ALEGADO PELA PARTE AUTORA. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Entendendo o magistrado que os autos contêm elementos suficientes para a formação de seu convencimento, desnecessária a produção de outras provas, o que autoriza o conhecimento direto do pedido;
+2. O artigo 93, IX, da Constituição Federal, e o artigo 11, do CPC, exigem que a decisão seja fundamentada, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas (Repetitivos - Tema 339/STF);
+3. Parte apelante que não demonstrou a alteração deloteamento para condomínio, com a respectiva autorização do Poder Público para incorporação de área do bem comum, bemcomo não comprovou a existência de fato impeditivo, modificativo ou extintivo do direito alegado pela parte autora, ora apelada, ônus que lhe competia, de acordo com o artigo373, II, do CPC;
+4. Recurso conhecido e não provido.
+Os embargos de declaração foram parcialmente acolhidos (e-STJ fls. 560/567), para sanar omissão "acerca do pedido de reversão ou de restituição da multa imposta pelo juízo de origem formulado pela parte embargante, indeferindo-o"(e-STJ fl. 567).
+Os segundosembargos de declaraçãoforam rejeitados, com aplicação de multa (e-STJ fls. 586/593).
+No recurso especial (e-STJ fls. 597/610), fundamentado no art. 105, III, "a", da CF, orecorrente aponta violação dos arts. 6º, 9º, 10e 355, I, do CPC/2015, uma vez que o julgamento antecipado da lide sem a intimação das partes para produzir provas ofendeu os princípios da cooperação,docontraditório edavedação à decisão surpresa.
+Sustenta afronta aos arts. 11, 489, §§ 1º e 2º, e 1.022, II, do CPC/2015, argumentando que, desde a contestação, pugnou pela prevalência do princípio da força normativa dos fatos frente ao princípio da nulidade, contudo as instâncias ordinárias limitaram-se a mencionar que o loteamento não pode ser transformado em condomínio sem o atendimento à legislação de regência. Nesse contexto, afirma que (e-STJ fl. 605):
+ ..  o interesse social, envolto pela segurança jurídica, ampara a mitigação do principio da nulidade. Fundado nesse pensamento, e como argumento alternativo às demais questões de mérito, o recorrente, desde a contestação e em todos os meios de impugnação que interpôs, requereu a prevalência do principio da força normativa dos fatos frente o principio da nulidade e a consequente manutenção do registro da convenção condominial.
+Perante o E. Tribunal a quo, especificamente, o recorrente suscitou o debate por intermédio do recurso de apelação e, face o silêncio do acórdão com relação a tão precioso princípio, capaz, por si só, de infirmar a conclusão judicial adotada até então, interpôs dois embargos de declaração, que não foram suficientes para efetivar a necessária e requerida deliberação por parte da Corte.
+Alega ofensa à Súmula n. 98 do STJ, requerendo seja afastada a multa por embargos de declaração protelatórios.
+Busca, em suma, o provimento do recurso especial, a fim de que (e-STJ fl. 610):
+1. nulificar a decisão de primeiro grau, por conta da violação aos princípios da cooperação, da vedação à decisão-surpresa e do contraditório e determinar a remessa do feito ao Juizo primevo para regular processamento e julgamento;
+2. nulificar os acórdãos recorridos, face a negativa de prestação jurisdicional e a deficiência na fundamentação e remeter o caderno processual à Corte Estadual para novo julgamento;
+3. alternativamente aos pedidos anteriores, dar provimento ao inconformismo para reformar a decisão recorrida, julgar improcedente a ação anulatória e reverter os ônus sucumbenciais;
+4. em qualquer caso, seja determinada a restituição/reversão dos valores depositados à titulo de multa, posto que as respectivas imposições ofendem o que anuncia a Súmula n. 98, do STJ.
+Foram oferecidas contrarrazões (e-STJ fls. 617/625).
+É o relatório.
+Decido.
+No presente caso verifico que, mesmo mediante a oposição de dois embargos declaratórios, o Tribunal a quo manteve omissão a respeito de matériapertinente ao deslinde da causa, oportunamente suscitada pelorecorrente, qual seja, a prevalência do princípio da força normativa dos fatos, já que, numa ponderação de interesses, a boa-fé, a segurança jurídica e a confiança dos indivíduos merecem prioridade frente à legalidade.
+Assim,é necessário o retorno dos autos à instância originária, a fim de que a Corte local se pronuncie sobre referida questão.
+Cumpre anotar que o tema é de suma relevância, visto que, se acatado, poderia conferir efeitos infringentes ao julgamento da apelação. Evidente, assim, o prejuízo suportado pelo ora recorrente, pois, sem a manifestação expressa da instânciaa quosobre os exatos termos da matéria proposta nos embargos de declaração, é incabível a apreciação do tema nesteSuperior Tribunal, ante a ausência de prequestionamento da tese e a inviabilidade de se analisar fatos e provas nestavia recursal.
+Prejudicadas as demais questões.
+Ante o exposto, DOUPROVIMENTO ao recurso especial, a fim de anular os acórdãos dos embargos de declaração e determino o retorno dos autos ao Tribunal de origem para que supra a omissão apontada.
+Publique-se e intimem-se.
