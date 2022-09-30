@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL.CRÉDITOS DE PIS/COFINS. REGIME NÃO CUMULATIVO. PROVIMENTO DO RECURSO ESPECIAL PARA FIXAR O TERMO INICIAL DE INCIDÊNCIA DA CORREÇÃO MONETÁRIA. DIA SEGUINTE AO EXAURIMENTO DO PRAZO DE 360 DIAS A QUE ALUDE O ART. 24 DA LEI 11.457/2007. REDEFINIÇÃO DA VERBA HONORÁRIA. OMISSÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO DA FAZENDA NACIONAL ACOLHIDOS.
+1. Trata-se de embargos de declaração opostos pela FAZENDA NACIONAL contra decisão proferida pelo então relator, Ministro Napoleão Nunes Maia Filho, que deu provimento a seurecurso especial nos termos da ementa ora transcrita:
+TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO. CRÉDITOS DE PIS/COFINS. REGIME NÃO CUMULATIVO. TERMO INICIAL DE INCIDÊNCIA DA CORREÇÃO MONETÁRIA. DIA SEGUINTE AO EXAURIMENTO DO PRAZO DE 360 DIAS A QUE ALUDE O ART. 24 DA LEI 11.457/2007. ENTENDIMENTO FIRMADO EM SEDE DE RECURSO ESPECIAL REPETITIVO. RESP. 1.767.945/PR. TEMA 1.003/STJ. DECISÃO DE FLS. 287/290 RECONSIDERADA PARA DAR PROVIMENTO AO RECURSO ESPECIAL DA FAZENDA NACIONAL.
+2. Em suas razões (fls. 324/326), o ente fazendário discorre sobre a omissão do julgado quanto à inversão dos ônus de sucumbência em decorrência do provimento do recurso especial.
+3. Requer sejam acolhidos os presentes aclaratórios, a fim de se determinar a inversão, ainda que parcial, dos ônus de sucumbência.
+4. Às fls. 330/338, a parte embargada apresentou impugnação, postulando a manutenção do decisum.
+5. É o relatório.
+6. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+7. Os embargos declaratórios não apresentam vícios formais, foram opostos dentro do prazo e cogitam, objetivamente, de matéria própria dessa espécie recursal (arts. 1.022 e 1.023 do CPC/2015). Nada há, enfim, que impeça o seu conhecimento.
+8. No mérito, assiste razão à parte embargante quanto à omissão indicada.
+9. De fato,diante da modificação da solução jurídica conferida à lide para o fim deimplementar o termo inicial da correção monetária como sendo o prazo de 360 dias a contar do requerimento administrativo de ressarcimento, há necessidade dese redefinir a verba honorária fixada na origem, que representa corolário evidente da modificação do resultado do julgamento.
+10. Assim, para sanar a omissão apontada, cabe esclarecer quehouve sucumbência recíproca, de forma que se impõe a distribuição proporcional, entre os litigantes, das despesas processuais e dos honorários advocatícios, a ser aferida pelo Juízo da execução.
+11. Ante o exposto, acolho os embargos de declaração da Fazenda Nacional, a fim de redefinir a verba honorárianos termos da fundamentação supra.
+12. Publique-se. Intimações necessárias.
