@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento naalínea"a" do permissivo constitucional, contra acórdão do Tribunal de Justiça local, assim ementado(e-STJfl. 416):
+AGRAVO EM EXECUÇÃO PENAL - FALTA GRAVE - APURAÇÃO DE FALTA GRAVE SEM PRÉVIA OITIVA DO REEDUCANDO - AUSÊNCIA DE AUDIÊNCIA DE JUSTIFICAÇÃO - INVIABILIDADE.
+- É imprescindível a prévia oitiva do reeducando em juízo, garantindo-lhe o exercício do contraditório e da ampla defesa, para que seja reconhecida a falta grave no curso da execução penal.
+Opostos embargos de declaração, foramrejeitados (e-STJfls. 442/445).
+Nas razões do especial (e-STJ fls. 452/460), alega o representante do Parquetcontrariedade aosarts. 112 e 117, ambos da Lei Federal 7.210/84, 315, § 2º, IV, e 619, ambosdo Código de Processo Penal, bem como os arts. 489, § 1º,III e 1.022, ambos do CPC/2015.Afirma que,não obstante a ausência de designação de audiência de justificação, verifica-se que houve prévio Procedimento Administrativo Disciplinar, com observância do contraditório e da ampla defesa (e-STJ fl. 456).Cita, em prol da tese, precedentes do Superior Tribunal de Justiça.
+Apresentadas as contrarrazões (e-STJfls. 498/501) e admitido o recurso (e-STJfls. 505/507), manifestou-se o Ministério Público Federal, nesta instância, pelo provimento do recurso especial (e-STJ fls. 520/523).
+É o relatório.Decido.
+O recurso merece acolhida.
+No caso, colhe-sedo acórdão recorrido (e-STJfl. 418):
+Em continuidade, os fatos foram analisados pelo procedimento administrativo disciplinar (PAD), sendo a falta grave reconhecida pelo juízo a quo sem a realização da audiência de justificação.
+Verifica-se que a prévia oitiva do reeducando é imprescindível para a apuração da falta grave pelo Juízo da Execução, uma vez que, neste momento, terá o apenado a oportunidade de se justificar quanto à violação que lhe foi imputada, em observância ao princípio da ampla defesa e do contraditório.
+Portanto, diante da não realização da audiência de justificação, necessário o reconhecimento e declaração da nulidade da decisão agravada, porquanto comprovado o alegado prejuízo sofrido pelo agravante, que não teve oportunidade de se defender em Juízo.
+O Supremo Tribunal Federal, no julgamento do RE n. 972.598/RS (Tema 941 da repercussão geral), em sessão plenária virtual finalizada em 30/4/2020, fixou a seguinte tese: A oitiva do condenado pelo Juízo daExecuçãoPenal, emaudiênciade justificação realizada na presença do defensor e doMinistério Público,afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática defalta gravedurante o cumprimento da pena".
+Abaixo, ementa do referido julgado:
+Ementa: Processual penal. Recurso extraordinário.Execuçãopenal.Prévio procedimento administrativo disciplinar para o reconhecimento defalta grave.Desnecessidade.Audiênciaem juízo na qual assegurados o contraditório e a ampla defesa. Provimento do Recurso.
+1. O Supremo Tribunal Federal tem entendido que a oitiva do condenado pelo Juízo daExecuçãoPenal, emaudiênciade justificação realizada na presença do defensor e doMinistério Público,afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática defalta gravedurante o cumprimento da pena.
+2. No sistema de jurisdição una, o procedimento judicial conta com mais e maiores garantias que o procedimento administrativo, razão pela qual o segundo pode ser revisto judicialmente, prevalecendo a decisão judicial sobre a administrativa.
+3. Por outro lado, em um sistema congestionado como o daExecuçãoPenal, qualquer atividade redundante ou puramente formal significa desvio de recursos humanos da atividade principal do Juízo, inclusive e notadamente a de assegurar os benefícios legais para que ninguém permaneça no cárcere por período superior à condenação.
+4. Desse modo, a apuração defalta graveem procedimento judicial, com as garantias a ele inerentes, perante o juízo daExecuçãoPenal não só é compatível com os princípios do contraditório e da ampla defesa (art. 5º, LIV e LV, da CF) como torna desnecessário o prévio procedimento administrativo, o que atende, por igual, ao princípio da eficiência de que cuida o art. 37 da Constituição Federal.
+5. Provimento do Recurso com a afirmação da seguinte tese: "A oitiva do condenado pelo Juízo daExecuçãoPenal, emaudiênciade justificação realizada na presença do defensor e doMinistério Público,afasta a necessidade de prévio Procedimento Administrativo Disciplinar (PAD), assim como supre eventual ausência ou insuficiência de defesa técnica no PAD instaurado para apurar a prática defalta gravedurante o cumprimento da pena". (RE 972598, Relator(a): ROBERTO BARROSO, Tribunal Pleno, julgado em 04/05/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-196 DIVULG 05-08-2020 PUBLIC 06-08-2020)
+Na mesma linha, esta Superior Corte de Justiça consolidou entendimento no sentido de ser desnecessária a realização de audiência de justificação para homologação de falta grave, se ocorreu a apuração da falta disciplinar em regular procedimento administrativo, no qual foi assegurado, ao reeducando, o contraditório e ampla defesa, inclusive com a participação da defesa técnica(HC 333.233/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 6/11/2015).
+Ainda, no mesmo sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL INDEFERIDO LIMINARMENTE. FALTA DE CABIMENTO DO WRIT. EXECUÇÃO PENAL. FALTA GRAVE. HOMOLOGAÇÃO APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. PRÉVIA OITIVA JUDICIAL DO APENADO. PRESCINDIBILIDADE. ALEGAÇÃO DE CONDUTA INCOMPROVADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. REDUÇÃO DA PERDA DOS DIAS REMIDOS. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL. INADMISSÍVEL INOVAÇÃO.
+ ..
+2. É desnecessária nova oitiva do apenado em juízo antes da homologação da falta grave se a ele foi oportunizado, como na espécie, manifestar-se no âmbito do procedimento administrativo instaurado para apuração da infração disciplinar, devidamente acompanhado de defesa técnica. Precedentes.
+ ..
+5. Agravo regimental improvido.
+(AgRg no HC 332.346/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 29/09/2015).
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. FALTA GRAVE. HOMOLOGAÇÃO FUNDAMENTADA APÓS REGULAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR. PRÉVIA OITIVA JUDICIAL DO APENADO. PRESCINDIBILIDADE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+ ..
+2. Hipótese em que a falta grave foi fundamentadamente homologada mediante regular procedimento administrativo disciplinar - PAD, com rito próprio previsto na Lei de Execução Penal, sendo oportunizado à defesa o exercício do devido processo legal, do contraditório e da ampla defesa.
+3. Segundo jurisprudência desta Corte, é desnecessária nova oitiva do apenado em juízo antes da homologação da falta grave se a ele foi oportunizado manifestar-se no âmbito do procedimento administrativo instaurado para apuração da infração disciplinar, devidamente acompanhado de defesa técnica.
+4. Habeas corpus não conhecido.
+(HC 321.366/SP, Rel. Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 03/08/2015).
+Portanto, a ausência de audiência de justificação não torna nula a homologação da falta grave.
+Considerando que, nos presentes autos, foi instaurado o PAD, no qual foram observadosos princípios do contraditório e da ampla defesa, não há falar em necessidade de audiência de justificação.
+Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC, no art. 255, § 4º, inciso III, do RISTJ e da Súmula n. 568/STJ,dou provimentoao recurso especialpararestabelecer a decisão do juízo de execução.
+Intimem-se.
