@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se deagravocontra decisão que negou seguimento arecursoespecial interposto em face de acórdão assim ementado (e-STJ, fl. 846):
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CONTRATO. PLANO DE SAÚDE DE NATUREZA COLETIVA. CDC. REAJUSTE EM RAZÃO DA FAIXA ETÁRIA. ÍNDICES ABUSIVOS. CONTROVÉRSIA DIRIMIDA PELO C. STJ EM SEDE DE RECURSO REPETITIVO. REAPRECIAÇÃO.
+O c. Superior Tribunal de Justiça firmou, pela sistemática dos recursos repetitivos, a seguinte tese: "o reajuste de mensalidade de plano de saúde individual ou familiar fundado na mudança de faixa etária do beneficiário é válido desde que (i) haja previsão contratual, (ii) sejam observadas as normas expedidas pelos órgãos governamentais reguladores e (iii) não sejam aplicados percentuais desarrazoados ou aleatórios que, concretamente e sem base atuarial idônea, onerem excessivamente o consumidor ou (REsp nº 1.568.244/RJ, Rel. Min. Ricardo Villas Boas Cueva, DJe 19/12/2016). discriminem o idoso."
+Para os contratos firmados antes da edição da Lei nº 9.656/1998, deve-se seguir o que consta no contrato, respeitadas, quanto à abusividade dos percentuais de aumento, as normas da legislação consumerista e, quanto à validade formal da cláusula, as diretrizes da Súmula Normativa nº 3 de 2001 da ANS.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 887-910).
+Nas razões doespecial,apontou a agravante ofensa aos artigos 927, III, e 1.039do Código de Processo Civil,
+Argumenta que o percentual adequado e razoável paramajoração da mensalidade, em virtude da inserção do consumidor na faixa etária de risco, em contrato de plano de saúde, demandacálculoatuarial a ser realizadona fase decumprimento da sentença, sendo vedada a interferência judicial a respeito.
+As contrarrazões foram apresentadas (fls. 929-937).
+Assim delimitada a controvérsia, passo a decidir.
+De início, observoque arecorrente opôs embargos de declaração, paraque o Tribunal de origem se manifestasse acerca de como seria realizado o cálculo do reajuste da mensalidade em contrato de plano de saúde, tendo em vista ainserção do segurado em nova faixa de risco, e o reconhecimento da abusividade da cláusula.
+A propósito, extraio das razões recursais do recurso correspondente (e-STJ, fl. 871):
+"6. Como se vê, o acórdão embargado declarou a ilegalidade dos reajustes aplicados, restando evidente divergência entre o entendimento firmado no acórdão recorrido e o entendimento firmado no recurso repetitivo, uma vez que a tese firmada estabeleceu que caso seja configurada abusividade da cláusula de reajuste por faixa etária, deve-se calcular o percentual por meio de perícia atuaria na fase do cumprimento de sentença, sendo de mister a fiel observância à tese firmada pelo Colendo Superior Tribunal de Justiça em julgamento de recursos especiais pela sistemática de julgamentos repetitivos - Resp n.º 1.568.244/RJ -, como se depreende da exegese dos artigos 1.039 e 927,III, ambos do Código de Processo Civil."
+Os embargos de declaração, porém,foram rejeitados (fls. 887-910).
+Ao analisar o acórdão que julgou a apelação, verifica-se que o Tribunal de origem nada dispõe acerca da forma do cálculo do novo valor da mensalidade.Confira-se, a propósito, a parte dispositivado acórdão (e-STJ, fl. 861):
+Com efeito, os índices utilizados pela apelante para reajuste em razão da faixa etária, como forma de atualização da contraprestação, se mostram abusivos, consoante fundamentos já consignados anteriormente, nos termos da r. sentença e do v. acórdão que a manteve intacta.
+Diante desse contexto, o recurso especial não deve ser conhecido, por ausência de prequestionamento. Ao contrário do que sustenta o recorrente, a mera oposição dos embargos de declaração é insuficiente para que se cumpra o ônus do prequestionamento.
+Conforme pacificado no âmbito desta Corte, remanescendo omissão após a oposição dos embargos de declaração, caberia àrecorrente apontar, nas razões dorecurso especial,eventual violação do artigo1022do CPC/15; o que, porém,nãoocorreu na espécie,atraindo a aplicação do óbice da Súmula 211/STJ.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EMBARGADA.
+1. As questões trazidas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões ou contradições, portanto, inexiste a alegada violação ao artigo 1.022 do CPC/15.
+2. Para o acolhimento do apelo extremo, na forma como posta, seria imprescindível derruir as afirmações contidas no decisum atacado e o revolvimento das provas juntadas aos autos e a interpretação das cláusulas contratuais, o que não é permitido nesta instância especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Quanto à alegação de que os honorários advocatícios devem ser fixados por equidade (art. 85, § 8º, do CPC/15), observa-se que tal tese não foi analisada pelo Tribunal local, carecendo de prequestionamento. Ademais, deixou a insurgente de apontar, na petição do recurso especial, eventual violação do artigo 1022 do CPC/15, no ponto, razão pela qual incide, na espécie, as Súmulas 282 e 356 do STF; e 211 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.890.401/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/10/2021, DJe de 4/11/2021.) (grifo acrescido)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
