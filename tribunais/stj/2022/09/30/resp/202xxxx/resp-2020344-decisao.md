@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fulcro no art. 105, III, "a", da Constituição da República, contra acórdão proferido pelo Tribuna Regional Federal da 5ª Região cuja ementa é a seguinte:
+EMENTA. ADMINISTRATIVO. SEGURO-DESEMPREGO. INDEFERIMENTO.SÓCIO DE EMPRESA ATIVA. AUSÊNCIA DE COMPROVAÇÃO DE AUFERIMENTO DE RENDA. POSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO. REMESSA NECESSÁRIA E APELAÇÃO NÃO PROVIDAS.
+1. Remessa necessária e apelação interposta pela União em face de sentença que concedeu a segurança para determinar à autoridade impetrada (Superintendente Regional do Trabalho e Emprego em Pernambuco) que conceda ao impetrante o seguro-desemprego e pague as parcelas correspondentes, em único lote (art. 17, § 4º, da Resolução nº 467, de 21.12.2005), desde que preenchidos os demais requisitos legais.
+2. O impetrante busca com o presente writ a implantação imediata do seguro-desemprego, ou seja, a concessão originária do benefício, e não cobrança de parcelas atrasadas, de modo que não se sustenta o argumento da União de que o mandado de segurança estaria sendo utilizado como substituto de ação de cobrança.
+Preliminar de inadequação da via eleita rejeitada.
+3. Nos termos do artigo 1.008 do Código Civil, o exercício da empresa confere aos sócios da sociedade empresária o direito de participar dos resultados da atividade econômica, notadamente da distribuição de dividendos. No entanto, é certo que nem sempre há a percepção de renda decorrente da qualidade de sócio. Há casos em que a pessoa jurídica não aufere lucros ou até mesmo sofre prejuízo em determinado exercício financeiro.
+4. A mera condição de sócio de uma empresa não afasta, por si só, o direito ao seguro-desemprego, pois não há necessariamente o auferimento de renda oriunda da sociedade. Precedente desta Corte: TRF5, 1ª Turma, Processo 08005940220164058000, AC/AL, rel. Desembargador Federal Manoel Erhardt, Julgamento: 21/8/2016.
+5. Conforme destacou o Magistrado na sentença: "No caso, consoante se extrai do Documento de Arrecadação do Simples Nacional, a pessoa jurídica auferiu receita bruta acumulada no ano-calendário corrente no valor de R$ 220,00 (conforme dados relatados até junho de 2021), inexistindo elementos a infirmar tal declaração. Tal constatação afasta a tese de percepção de renda própria quando do requerimento formulado após a dispensa sem justa causa, ocorrida em abril de 2021, confirmando-se, portanto, a insubsistência do fundamento que embasou o indeferimento do benefício."
+6. Para a negativa de concessão do seguro-desemprego, é insuficiente o fato de o apelante ser sócio de pessoa jurídica, sendo que o ônus de comprovar o auferimento de renda suficiente à manutenção do requerente e de sua família compete aos órgãos públicos, dotados que são de inúmeros instrumentos de controle fiscal da vida dos contribuintes.
+7. Remessa necessária e apelação não providas.
+A recorrente afirma que houveofensa aos arts. 1.022 do CPC/2015 e2º, 3º e 6º da Lei 7.998/1990. Afirma:
+Da análise sistemática dos dispositivos mencionados, depreende-se que o seguro- desemprego é direito pessoal e inalienável, cabendo ao CODEFAT regulamentar os procedimentos para pagamento, devolução ou compensação do benefício.
+Ante o exposto, diante de tal relato, forçoso se faz concluir que o benefício do seguro- desemprego não foi concedido ao Impetrante, pelo fato do mesma ser sócio de empresa e não ter demonstrado através de recurso administrativo, pois não o fez, comprovação de que a empresa estava baixadaou que a mesma ficou inativa - sem efetuar qualquer atividade operacional, não operacional, patrimonial ou financeira.
+Desse modo, por desatender às regras estabelecidas para sua concessão, a Administração atuou inteiramente dentro dos preceitos legais nas quais se encontra obrigatoriamente submetida, não havendo que se falar, portanto, sobre a ocorrência de ato ilegal e abusivo praticado pela autoridade impetrada, conforme alega a Impetrante, devendo a presente ação ser julgada improcedente. (fls. 198-199, e-STJ)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 12.9.2022.
+De plano, afasto a apontada violação do art. 1.022 do CPC/2015, pois não se constata omissão, obscuridade, contradição ou erromaterial noacórdãoimpugnado capaz de torná-lonulo.A Corte regional apreciou a demanda de forma clara e precisa, deixando bem delineados os motivos e fundamentos que a embasaram.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+No mais, para melhor elucidação da controvérsia, cumpre transcrever, no que interessa, trecho do decisum:
+De acordo com o art. 3º da Lei nº 7.998, de 11 de janeiro de 1990, terá direito à percepção do seguro-desemprego o trabalhador dispensado sem justa causa que comprove, entre outros requisitos, não possuir, à época de sua demissão, renda suficiente para o sustento próprio e de sua família.
+Na hipótese dos autos, o seguro-desemprego foi indeferido por decisão administrativa em razão do impetrante ser sócio de empresa com CNPJ ativo.
+Tal fato supostamente violaria o disposto no inciso V do art. 3º da Lei nº 7.998/90, que dispõe acerca da necessidade de o trabalhador dispensado sem justa causa comprovar que não possui "renda própria de qualquer natureza suficiente à sua manutenção e de sua família" como um dos requisitos para a percepção do benefício.
+Nos termos do artigo 1.008 do Código Civil, o exercício da empresa confere aos sócios da sociedade empresária o direito de participar dos resultados da atividade econômica, notadamente da distribuição de dividendos. No entanto, é certo que nem sempre há a percepção de renda decorrente da qualidade de sócio. Há casos em que a pessoa jurídica não aufere lucros ou mesmo sofre prejuízo em determinado exercício financeiro.
+Desse modo, a mera condição de sócio de uma empresa não afasta, por si só, o direito ao seguro-desemprego, pois não há necessariamente o auferimento de renda oriunda da sociedade.
+(..)
+Desse modo, para a negativa de concessão do seguro-desemprego, é insuficiente o fato de o apelado ser sócio de pessoa jurídica, sendo que o ônus de comprovar o auferimento de renda suficiente à manutenção do requerente e de sua família compete aos órgãos públicos, dotados que são de inúmeros instrumentos de controle fiscal da vida dos contribuintes. (fls. 139-140, e-STJ)
+Não obstante as razões explicitadas pelo Tribunala quo, a recorrente não impugnou de forma suficienteos pontos acima mencionados -os quais são aptos, por si sós, para manter o aresto recorrido.Assim, não observou as diretrizes fixadas pelo princípio da dialeticidade, entre as quais a indispensável pertinência temática entre as razões de decidir e a fundamentação fornecida pelo Recurso para justificar o pedido de reforma ou de nulidade do julgado.
+Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplicam-se na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF.
+Nessa esteira:
+AGRAVO REGIMENTAL EM AGRAVO (ART. 544 DO CPC) - AÇÃO DE INDENIZAÇÃO - DECISÃO MONOCRÁTICA - SÚMULA N. 284 DO STF - AGRAVO REGIMENTAL DESPROVIDO.
+1. No presente caso, a parte aponta negativa de vigência ao art. 458 do CPC, porém, limita-se a atacar, em suas razões recursais, a excessividade do quantum fixado a título de dano moral. Assim, a deficiência da fundamentação do apelo extremo não permite a exata compreensão da controvérsia, estando escorreita sua inadmissibilidade.
+2. A ausência de indicação expressa do ponto do decisum que confronta os dispositivos legais tidos por vulnerados não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida.
+3. Agravo regimental desprovido.
+(AgRg no AREsp 41.941/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 29/5/2013)
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ART. 407 DO CÓDIGO CIVIL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. ART. 406 DO CÓDIGO CIVIL. JUROS MORATÓRIOS. TAXA LEGAL. FUNDAMENTO NÃO ATACADO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+3. Embargos de declaração acolhidos parcialmente para sanar omissão apontada, sem, entretanto, emprestar-lhes efeito modificativo.
+(EDcl no AgRg no Ag 1.089.538/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 9/9/2011)
+Ademais, a solução do tema não depende apenas de interpretação da legislação federal, mas efetivamente da análise da documentação contida nos autos, o que não se compatibiliza com a missão constitucional do STJem grau recursal.
+É evidente que alterar as conclusões adotadas pela instância origem, como defendido nas razões recursais, demanda novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especial ante o óbice previsto na Súmula 7/STJ.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
