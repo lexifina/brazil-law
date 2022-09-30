@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de violação do art. 489 do CPC/2015, falta de demonstração de ofensa aos demais artigos arrolados, e incidênciada Súmula n. 7/STJ(e-STJ fls. 800/802).
+O acórdão recorrido está assim ementado (e-STJ fl. 593):
+AGRAVO DE INSTRUMENTO. Ação de execução extrajudicial.Decisão que acolheu exceção de incompetência. Irresignação do exequente. Cabimento. Cláusula de eleição de foro válida.Inaplicabilidade do CDC. Contrato com finalidade de financiamento de capital de giro. Executados que não foram destinatários finais do serviço contratado. Cláusula de eleição de foro que autoriza o ajuizamento da ação no foro da Comarca de São Paulo/SP. Decisão reformada. Recurso provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 617/621).
+Nas razões do recurso especial (e-STJ fls. 666/737), interposto com fundamento no art. 105, III, "a" e "c", da CF, os recorrentes alegaram que o caso versa sobre relação de consumo, tendo de um lado a instituição financeira, prestadora de serviço e, de outro, a cooperativa que se utiliza do crédito para a manutenção de suas atividades, sendo ela, portanto, a destinatária final doreferido crédito.
+Sustentaram que o CDC adota a teoria finalista, entendendo como consumidor aquele que retira o produto do mercado, não o utilizando para auferir lucro, entretanto, existindo vulnerabilidade da parte, ainda que haja lucro, tambémhaverá relação de consumo ("teoria finalista aprofundada").
+Afirmaram que o CDC incide "nos contratos tipicamente bancários de concessão de crédito, financiamentos rural e empréstimos para capital de giro, que é o caso dos autos" (e-STJ fl. 688).
+Defenderam que, ainda que não fosse caso de aplicação do CDC, "o acórdão poderia se utilizar subsidiariamente do Código Civil para afastar a cláusula de adesão" (e-STJ fl. 688). Destacaram que, havendo no contrato "cláusulas ambíguas ou contraditórias, a interpretação que se dá é aquela mais favorável ao aderente" (e-STJ fl. 689). Asseveraram que na execução do contratodevem ser observados os princípios da probidade e da boa-fé, não sendo permitido o venire contra factum proprium.
+Apontaram ofensa ao art. 53, III, "d", do CPC/2015, aduzindo que o foro competente é o da Comarca de Uberlândia/MG, uma vez que a cédula de crédito foi lá emitida, com praça de pagamento também naquela comarca.
+Indicaram como ofendidos também os arts.11,489 do CPC/2015 (458 do CPC/1973) e 1.022 do CPC/2015, argumentando que, apesar de opostos embargosde declaração, o Tribunal de origem não teria analisado as questões apresentadas nas contrarrazões do agravode instrumento. Acrescentaramque não se considera fundamentada decisão que não enfrenta todos os argumentos deduzidos no processo.
+Trouxeram julgadosdo TJDFT e do TJMG,a fim de demonstrara divergênciade entendimentos quanto à aplicação da "teoria finalista aprofundada".
+Contrarrazões às fls. 770/781(e-STJ).
+No agravo (e-STJ fls. 806/839), declaram a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 875/885).
+É o relatório.
+Decido.
+Considera-se deficiente,a fundamentação do recurso especial que alega violação dos arts. 11, 489 e 1.022 do CPC/2015, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração.
+Segundo a jurisprudência desta Corte, "a mera assertiva de que o Tribunal local, mesmo após a oposição dos embargos de declaração, não se manifestou quanto às questões postas constitui alegação genérica de violação, caso em comento, configurando fundamentação deficiente a atrair a incidência do teor da Súmula 284/STF" (AgRg no AREsp n. 587.074/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/3/2016, DJe 6/4/2016).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZATÓRIA. IMPROCEDÊNCIA. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284/STF. CONTRATANTE ANALFABETO. NECESSIDADE DE INSTRUMENTO PÚBLICO. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do NCPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+ ..
+5. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1876651/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/02/2022, DJe 24/02/2022.)
+No caso, a parte agravante alega, de forma genérica, que o acórdão seria omisso em relação às teses deduzidas nas contrarrazões do agravo de instrumento, sem, contudo,especificar as questõesrelevantes ao julgamento da demanda que não teriam sido examinadas.
+Além disso, o recurso especial traz diversasalegações que não se fizeram acompanhar do suposto dispositivo legal violado, entre elas as de que (a)o caso trata de relação de consumo, (b) acláusula de eleição de foro pode ser afastada pela vulnerabilidade da parte e por se tratar de contrato de adesão, e (c) mesmo aplicando-se a legislação civilista, deve ser reconhecidocomo competenteo foro da Comarca de Uberlândia.
+Com efeito,"o especial é recurso de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente" (AgInt no AREsp n. 1.411.032/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/9/2019, DJe 30/9/2019).
+O art. 53, III, "d", do CPC/2015, por si só, não tem alcance normativo para amparar referidas alegações, uma vez quea discussão giraem torno do fato de que existe previsão contratual quanto ao foro competente.
+Por tudo isso, aplicável a Súmula n. 284/STF.
+Registre-se, por fim, que, segundo a jurisprudênciadesta Corte, "A empresa que celebra contrato de mútuo bancário com a finalidade de obtenção de capital de giro não se enquadra no conceito de consumidor final previsto no art. 2º do CDC. Precedente" (AgRg no AREsp 71.538/SP, de minha relatoria, QUARTA TURMA, DJe 4.6.2013).
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
