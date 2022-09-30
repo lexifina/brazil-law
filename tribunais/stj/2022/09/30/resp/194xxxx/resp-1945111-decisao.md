@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial, manejado por NEIRY GALVÃO DA SILVA, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 49):
+TRIBUTÁRIO. EXECUÇÃO FISCAL E EMBARGOS À EXECUÇÃO. HONORÁRIOS. CUMULAÇÃO. IMPOSSIBILIDADE. CONDENAÇÃO ÚNICA.
+1. A procedência dos embargos à execução, com a consequente extinção da execução é hipótese que excepciona o acima disposto nos artigos 85 e 827, ambos do CPC/2015.
+2. O proveito econômico do executado/embargante é único, quando,pela integral procedência de seus embargos, obtém a extinção da execução,circunstância esta que torna incabível a cumulação de honorários entre a execução e os embargos.
+3. A verba honorária deve ser fixada de forma única para a execução e para os embargos, englobando ambas as ações, no intuito de evitar dupla condenação da parte exequente/embargada pois os embargos são manejados justamente para extinguir a demanda executiva.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 77/81.
+A parte recorrente aponta violação aos arts. 85, § 1º, 489, § 1º, VI, 924, III, 925 e 1.022, II, parágrafo único, II, do CPC. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunal a quo remanesceu omisso acerca das questões neles suscitadas; (II) "o Código de Processo Civil exige que a extinção da execução decorra de sentença calcada em um dos fundamentos do art. 924 do CPC" (fl. 95); e (III) "o art. 85, § 1º do CPC não faz distinção alguma entre os processos de conhecimento e de execução, muito menos exime os honorários de sucumbência nas execuções fiscais extintas em decorrência do julgamento de embargos à execução" (fl. 97).
+Contrarrazõesapresentadas (fls. 109/114).
+A Vice-Presidência do Tribunal de origem determinou a devolução dos autos ao órgão julgador, para eventual juízo de retratação quanto à matéria referente ao Tema 587/STJ. Em juízo de retratação, o Tribunal de origem se manifestou nos termos da seguinte ementa (fl. 126):
+TRIBUTÁRIO. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. JUÍZO DE RETRATAÇÃO. TEMA 587 DO STJ. MATÉRIA DIVERSA. IMPOSSIBILIDADE DE JUÍZO DE RETRATAÇÃO.
+1. Proferido o julgamento colegiado, só cabe retratação caso o entendimento tenha claramente violado orientação do Tribunal Superior, daíporque deve haver perfeita correlação entre a hipótese julgada pela turma e aquela objeto do recurso repetitivo.
+2. Como o Tema STJ 587 tratou, exclusivamente, de Execução Contra a Fazenda Pública, esse entendimento não pode ser veiculado, em sede de juízo de retratação, à demanda que tem por objeto matéria diversa, como é o caso da Execução Fiscal.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na hipótese, verifica-se que o Tribunal de origem afastou a exigibilidade de sentença extintiva nos autos da execução fiscal e a aplicação dos honorários advocatícios com base na seguinte fundamentação (fls. 53/54):
+No caso dos autos, os embargos à execução foram julgados procedentes (nº 5052793-42.2011.404.7000), "para decretar: a) a nulidade da CDA 90.1.1100.0141-48; b) a extinção da execução fiscal que tramita nos autos eletrônicos nº 50087761820114047000".
+Outrossim, nos Embargos à Execução nº 5052793-42.2011.404.7000, a exequente/embargada já foi condenada nos honorários advocatícios de sucumbência, de R$ 50.000,00.
+Portanto, considerando que o benefício econômico obtido pela executada é único, e já tendo sido fixados honorários nos embargos, é incabível o arbitramento de honorários também na execução, sob pena de condenação dúplice do exequente.
+Por fim, registro que, salvo melhor juízo, não há falar na necessidade de ser prolatada nova sentença extintiva na execução fiscal, uma vez que, no julgamento dos respectivos embargos à execução, já foi proferida sentença extinguindo, expressamente, o executivo fiscal. Entendimento em sentido contrário caracterizaria um apego excessivo à forma, em detrimento do direito em sí, o qual já restou pronunciado nos Embargos à Execução Fiscal.
+Entretanto, o entendimento deste Superior Tribunal de Justiça é no sentido de que é possível a cumulação das condenações em honorários advocatícios fixados em execução fiscal e na ação conexa que se funda na desconstituição do crédito executado, por constituírem ações autônomas, em observância aos limites legalmente previstos.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXTINÇÃO. AÇÃO ANULATÓRIA DO CRÉDITO EXEQUENDO. ÔNUS SUCUMBENCIAIS. CUMULAÇÃO. POSSIBILIDADE. AÇÕES AUTÔNOMAS. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido de possibilitar a fixação cumulada da verba honorária em execução fiscal e na ação conexa que visa a desconstituição do crédito executado, ante a natureza autônoma das ações.
+2. Na hipótese, tendo sido a execução fiscal extinta em razão de decisão proferida em ação ordinária, onde reconheceu-se a inexigibilidade do crédito executado, não há impedimento para a fixação de honorários sucumbenciais em favor da parte executada, respeitados os limites legalmente previstos .
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.820.812/PR, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 29/11/2021, DJe 01/12/2021)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL E AÇÃO ANULATÓRIA DO CRÉDITO EXEQUENDO. HONORÁRIOS DE SUCUMBÊNCIA. CUMULAÇÃO. POSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça tem se orientado "pela possibilidade de arbitramento de honorários advocatícios de sucumbência, cumulativamente, na execução fiscal e na ação que visa desconstituir o crédito executado" (AgInt no REsp 1845746/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 12/4/2021, DJe 15/4/2021).
+2. No caso dos autos, não há qualquer impedimento a que sejam fixados honorários advocatícios na execução fiscal julgada extinta em decorrência de ação anulatória na qual fora igualmente arbitrada a verba sucumbencial. Isso porque, em se tratando de ações autônomas, não há falar na ocorrência de pagamento em duplicidade.
+3. Agravo interno não provido.
+(AgInt no REsp 1.900.435/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/06/2021, DJe 10/06/2021)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. DESISTÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA. CUMULAÇÃO. POSSIBILIDADE. LIMITES.
+1. O Superior Tribunal de Justiça, no julgamento do REsp 1.520.710/SC (repetitivo), firmou o entendimento pela possibilidade de cumulação da verba de honorários fixada em execução fiscal com aquela arbitrada em ação conexa (embargos à execução/ação anulatória), de forma relativamente autônoma, sendo vedada a sua compensação e desde que respeitados os limites percentuais e parâmetros previstos na legislação.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1.307.787/MS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 17/02/2021)
+Assim, também no caso dos autos, tendo sido extinta a execução fiscal em decorrência do provimento dos embargos, deve-se perquirir quem deu causa ao feito executivo, a fim de imputar-lhe o ônus de pagar os honorários, em face do princípio da causalidade. De mais a mais, em razão da autonomia das ações, necessário seja exarada sentença extintiva no executivo fiscal com a correspondente fixação de honorários.
+Dessa forma, por estar em dissonância com o entendimento deste Tribunal Superior, o acórdão recorrido merece reparos.
+ANTE O EXPOSTO, dou provimento ao recurso especial e determino o retorno dos autos ao Tribunal de origem, a fim de que proceda à extinção nos autos do feito executivo fiscal e ao arbitramento de honorários advocatícios, nos termos da fundamentação supra.
+Publique-se.
