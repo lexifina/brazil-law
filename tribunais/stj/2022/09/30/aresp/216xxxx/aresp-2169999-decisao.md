@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a",da Constituição Federal) interposto de acórdão assim ementado:
+TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. PENHORA. SISTEMA BACENJUD.
+1. A proteção prevista no art. 833, X, do CPC não se dirige apenas ao saldo imobilizado em caderneta de poupança, de modo que a impenhorabilidade até o valor de 40 salários mínimos não faz distinção entre poupança, conta-corrente, fundos de investimento, ou guardados em papel- moeda.
+2. Conforme determina a Súmula 108 desta Corte: "É impenhorável a quantia depositada até quarenta salários mínimos em caderneta de poupança (art. 833, X, NCPC), bem como a mantida em papel moeda, conta- corrente ou aplicada em CDB, RDB ou em fundo de investimentos, desde que seja a única reserva monetária, e ressalvado eventual abuso, má-fé, ou fraude".
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega violação dos arts. 835, I, 854, §§ 3º, I, e 5º, 789, 797 e 1.022, II, do CPC e 7º, II, 9º, 10 e 11, I, da Lei 6.830/1980.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.9.2022.
+O acórdão recorrido consignou:
+A questão apreciada na decisão recorrida tratou acerca da impenhorabilidade de valores inferiores a 40 salários-mínimos, prevista no artigo 833, X, do CPC.
+Eis o teor da decisão recorrida, verbis:
+Trata-se de agravo de instrumento interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão proferida em execução fiscal, a seguir transcrita:
+A parte exequente peticiona no evento 56 requerendo a conversão em renda dos valores bloqueados.
+Ocorre que, em razão da previsão do art. 833, X, do CPC, bem como da jurisprudência do TRF4 (Súmula 108), segundo a qual a impenhorabilidade do inciso X se estende aos valores encontrados em conta corrente ou em investimentos, este Juízo tem decidido que as ordens de bloqueio a serem realizadas em contas de pessoa física ficam condicionadas à consulta prévia do saldo em conta. Apenas se o saldo consolidado superar o montante de quarenta salários mínimos (quantia impenhorável), deve ser procedido ao bloqueio de valores depositados nas instituições financeiras, conforme determinado no item II, letra "b", do despacho que deferiu a consulta (E50).
+No caso em tela, o saldo consolidado da parte executada alcançou um montante de R$ 12.978,13 (E52, SISBAJUD1), valor que se encontra dentro da margem de impenhorabilidade nos termos da súmula referida no despacho e razão pela qual não houve a constrição via sistema SISBAJUD.
+Cumpre-se ressaltar que não está sendo negada a utilização do sistema SISBAJUD em razão do montante do crédito exigido. Não há nenhuma ordem nesse sentido.
+Pelo contrário, o que está sendo feito é o uso de uma das funcionalidades do próprio sistema: a consulta do saldo em conta quando da prática do bloqueio.
+Em síntese, o sistema SISBAJUD possibilita que, quando do protocolamento da ordem de bloqueio, seja verificado se o saldo disponível em conta é superior ou inferior ao montante tido pela legislação como absolutamente impenhorável (quarenta salários mínimos). Uma vez constatado pelo próprio sistema que o bloqueio a ser feito in continuum atingirá parcela impenhorável dos depósitos em instituições financeiras (já considerando todos os valores depositados em bancos, corretoras, cooperativas de crédito e todas as demais instituições abrangidas pelo SISBAJUD, seja em depósitos à vista, poupança, títulos públicos e privados, bem como investidos em ações, FIIs, ETFs), há a suspensão da ordem de bloqueio. Ou seja, atualmente, a ferramenta permite que a impenhorabilidade prevista em lei seja garantida dentro do próprio ambiente do SISBAJUD.
+Por oportuno, os quarenta salários mínimos impenhoráveis objetivam garantir uma reserva mínima ao executado. Dessa forma, a prática de bloqueios dentro de tal margem é conduta que deve ser evitada pelo juízo, considerando o transtorno ao sustento do executado e a violação - mesmo que temporária - de uma garantia legal.
+Justifica, ainda, o condicionamento do bloqueio aos casos em que já constatada, preliminarmente, a penhorabilidade dos valores a sucessão de atos processuais que devem ser praticados para desfazê-lo e devolver os valores ao executado, mormente quando a citação não foi pessoal, situação comum em sede de execução fiscal em que a LEF exige somente que a carta seja recebida no endereço do devedor (artigo 8º, II, Lei 6.830/1980). Ou seja, a consulta prévia ao saldo corresponde à medida de manifesta economia processual.
+Ademais, no tocante ao ônus da prova, a impenhorabilidade de quarenta salários mínimos prevista no inciso X do artigo 833 do CPC não depende de investigação acerca da natureza da quantia constrita. Trata-se, pois, de hipótese objetiva de impenhorabilidade, cuja constatação depende exclusivamente verificação do montante total mantido em depósito. Ou seja, basta verificar se o executado não dispõe de valores superiores a quarenta salário mínimos.
+Com base nisso, em se tratando de bloqueio parcial (ou seja, que não atinge a integralidade da ordem), a jurisprudência aceita o próprio extrato do SISBAJUD como elemento suficiente para revelar que o executado não detinha outros valores em conta, já que, se os tivesse, a ordem os teria bloqueado.
+(..)
+Em sintonia com o julgado acima, este Tribunal editou a súmula nº 108 que dispõe sobre a impenhorabilidade de quantia depositada até o valor de quarenta salários mínimos, mesmo que não seja em caderneta de poupança, isto é, mesmo que a quantia referida esteja depositada em aplicação financeira tipo CDB, RDB ou fundo de investimentos. Eis o teor da súmula:
+É impenhorável a quantia depositada até quarenta salários mínimos em caderneta de poupança (art. 833, X, NCPC), bem como a mantida em papel moeda, conta-corrente ou aplicada em CDB, RDB ou em fundo de investimentos, desde que seja a única reserva monetária, e ressalvado eventual abuso, má-fé, ou fraude.
+Ante o exposto, nego provimento ao agravo, com fulcro no artigo 932, inc. IV, letra "a" do CPC.
+Intimem-se. Após, dê-se baixa na distribuição.
+Assim, pelo exame dos autos e, dadas as peculiaridades do feito, não há motivos para alteração da decisão acima transcrita, razão pela qual a mantenho por seus próprios fundamentos. (fls. 76-82, e-STJ)
+Não há violação do art. 1.022 do CPC/2015. Não se constata omissão, obscuridade ou contradição no aresto recorrido capaz de torná-lo nulo, especialmente porque o Tribunal de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que o embasam.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução, o que ocorreu no caso dos autos.
+Ademais, não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A pretensão do agravante não envolve a aplicação do direito ao caso, o que se pretende é modificar as premissas fáticas estabelecidas no acórdão hostilizado, em sentido oposto ao lá estabelecido, o que é inconfundível com a revaloração das conclusões a partir delas extraídase é obstada em razão da Súmula 7/STJ.
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, somente com relação à preliminar de violação do art. 1.022 do CPC/2015, e, nessa parte, negar-lhe provimento.
+Publique-se.
+Intimem-se.
