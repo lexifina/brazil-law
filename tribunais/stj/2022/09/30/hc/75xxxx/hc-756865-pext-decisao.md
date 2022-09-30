@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de pedido de extensão formulado em benefício de ANDRE LUIS ALVES CAFASSO de decisão que concedeu de ofíciohabeas corpusimpetrado por KAIQUE RICARDO DOS SANTOScontra acórdão da 4ª Câmara Criminal do Tribunal de Justiça do Estado do Paraná (HC n. 34143-28.2022.8.16.0000).
+Extrai-se dos autos que o paciente e o requerente forampresos em flagrante pela suposta prática dos delitos tipificados nos arts. 33 da Lei n. 11.343/2006 e 12 da Lei n.10.826/2003. A custódia foi convertida em preventiva.
+A defesa impetrou a ordem originária, que foi denegada pelo Tribunala quo, nos termos do acórdão de e-STJ fls. 89/95.
+No presentehabeas corpus, a defesa pleiteou a revogação da prisão, inclusive mediante fixação de medidas cautelares diversas, sendo a ordem concedida de ofíciopela decisão de e-STJ fls. 97/106.
+No presente pedido de extensão, o requerente alega que "a decisão genérica que decretou a prisão preventiva do paciente Kaique é a mesma decisão que mantém, indevidamente, preso o Sr. André" (e-STJ fl. 111).
+Desse modo, requer extensão do benefício, na forma do art. 580 do Código de Processo Penal.
+O Ministério Público Federal opinou pelo deferimento do pedido (e-STJ fls. 124/130).
+É o relatório.Decido.
+Nos termos do art. 580 do CPP,no caso de concurso de agentes (Código Penal, art. 25), "a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Assim, "a extensão do julgado referente a um réu não se opera automaticamente aos demais. Urge reunir dois requisitos: objetivo (identidade fática) e subjetivo (circunstâncias pessoais)" (RHC n. 7.439/SP, Relator Ministro LUIZ VICENTE CERNICCHIARO, Sexta Turma, julgado em 18/8/1998).
+Em outras palavras, o deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado, a teor do artigo 580 do Código de Processo Penal.
+Na hipótese, a prisão preventiva do paciente e do recorrente foram decretada por meio da mesma decisão que homologou o flagrante, em 25/5/2022 (e-STJ fls. 33/42).
+Ao conceder a ordem ao paciente, destaquei o seguinte (e-STJ fls. 97/106):
+No caso, as decisões fazem referências insuficientes àgravidade abstrata do delito de tráfico ilícito de entorpecentes, bem como relativas ao mal social decorrente de sua prática. Além disso, embora refiram-se à quantidade de drogas encontradas, tal fundamento não condiz com a realidade dos autos, em que foi apreendida quantidade que não pode ser considerada expressiva, a ponto de sustentar a necessidade da segregação -25,5g de cocaína, cuja propriedade é imputada a 3 acusados.
+Ademais, o decreto preventivo limita-se a apontar fundamentos abstratos, ou mesmo mencionarelementos inócuos a comprovar a periculosidade do paciente- como o fato de que, além da "quantidade", a droga estava "dentro de uma cômoda", seguindo-se da conclusão de que tais elementos "bem revelam a periculosidade concreta dos três agentes" (e-STJ fl. 44).
+Lado outro, a existência de condenação por crime datado de mais de 5 anos, sem efetiva demonstração de reiteração nas práticas delitivas, se mostra insuficiente para, por si só, indicar a necessidade da prisão.
+Tendo em vista que a similitude fática entre os acusados, presos sob a mesma circunstância e sob o mesmo decreto preventivo, considero cabível a extensão do benefício.
+Mencione-se que, embora a referência à condenação prévia seja mais recente no caso do requerente, o crime a ele imputado - tráfico de drogas em 15/4/2019 - ao contrário daquele atribuído ao paciente - roubo, datado de 29/12/2015 - não envolve violência ou grave ameaça, de modo que as circunstâncias podem ser compensadas.
+Ademais, a suposta reiteração mais recente do requerentejustificaque sua liberdade, assim como feito em relação ao paciente,seja cumulada com a aplicação de medidas cautelares alternativas.
+No mesmo sentido, concluiu o Ministério Público Federal (e-STJ fls. 124/130):
+O art. 580 do Código de Processo Penalé aplicado nos casos de identidade de situações fático-processuais entre os corréus.
+No caso, está presente esta identidade fática. Ambos os réus são reincidentes, Kaique pela prática de roubo e André pela prática de tráfico de drogas. A prisão preventiva foi decretada com base na reincidência, justificativa que, afastada na decisão recorrida em relação ao corréu Kaique, também não deve prevalecer em relação ao corréu André.
+Não há na decisão que decretou a prisão preventiva outros fundamentos que possibilitem a manutenção de André no cárcere, a diferenciar sua situação em relação a Kaique. O que se tem é o fato de André ter confessado a propriedade das drogas e da arma de fogo, fundamento que, contudo, não é suficiente para mantê-lo segregado, a uma, porque a questão da autoria será apreciada no momento apropriado e, a duas, porque a quantidade de drogas não foi elevada. A confissão, portanto, não tem o condão de diferenciar a situação fática dos corréus.
+Diante do exposto,defiroo pedido para estender os efeitos da decisão de e-STJ fls. 97/106 ao orarequerente,revogando-lhea prisão preventiva, mediante imposição de medidas cautelares alternativas, a serem fixadas pelo magistrado local.
+Comunique-se. Intimem-se.
