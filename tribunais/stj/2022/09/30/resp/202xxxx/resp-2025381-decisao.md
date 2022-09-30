@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que negou provimento ao recurso de apelação da defesa.
+Como sumariado no parecer, "o réu interpôs o presente Recurso Especial, sob alegação de ofensa à norma do art. 33, § 4º, da Lei 11.343/2006, porquanto "o Recorrente a época do fato era tecnicamente primário e não há qualquer prova de que se dedique à atividades criminosas. Ademais, não integra organização criminosa e, portanto, possui direito ao reconhecimento da causa de diminuição de pena em seu favor" (fl. 318). Requer, assim, seja reformado o "acórdão para que seja reconhecida a aplicação da causa de diminuição §4º do art. 33 da Lei 11.343/2006" (fl. 321)" - fl. 343.
+Contra-arrazoado e admitido, o Ministério Público Federal manifestou-se pelo não conhecimento do recurso especial.
+O recorrente foi condenado como incurso no art. 33, caput, da Lei 11.343/2006, a 5 anos de reclusão, em regime semiaberto, e 500 dias-multa, o que foi mantido em apelação.
+Ao afastar a figura privilegiada do tráfico, destacou-se no acórdão que "consta dos autos que o réu responde à Ação Penal n.º 0510319-54.2020.8.05.0001, também pelo delito de tráfico de drogas no mesmo local, o que leva à conclusão que lhe falta um dos requisitos necessários para a aplicação do art. 33, § 4º, da Lei 11.343/2006, qual seja, a não dedicação à atividade criminosa" (fl. 289).
+A Sexta Turma desta Corte, alinhando-se ao Supremo Tribunal Federal, passou a adotar a orientação de que "inquéritos policiais e/ou ações penais ainda sem a certificação do trânsito em julgado não constituem fundamento idôneo a justificar o afastamento do redutor descrito no § 4º do art. 33 da Lei de Drogas, em observância ao princípio constitucional da presunção de não culpabilidade" (AgRg no HC 641.362/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/06/2021, DJe 30/06/2021).
+Assim, deve ser provido o recurso para estabelecer a minorante do tráfico privilegiado na fração máxima.
+Incide a causa de diminuição de pena do § 4º do art. 33 da Lei 11.343/06 em 2/3, sobre a pena provisória de 5 anos de reclusão e 500 dias-multa, resultando na pena definitiva de 1 ano e 8 meses de reclusão e 16 6 dias-multa.
+Cabível a fixação do regime inicial aberto e a substituição da pena privativa de liberdade por duas penas restritivas de direitos, a serem determinadas pelo Juízo das execuções, nos termos dos arts. 33 e 44 do CP.
+Ante o exposto, dou provimento ao recurso especial para (re) fixar a pena definitiva do recorrente em 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa, substituindo-se a pena privativa de liberdade por duas penas restritivas de direitos, a serem determinadas pelo Juízo das execuções.
+Publique-se.
+Intimem-se.
