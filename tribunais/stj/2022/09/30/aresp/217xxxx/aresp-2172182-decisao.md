@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS contra decisão que não inadmitiu o recurso especial manejado com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão prolatado pelo Tribunal de Justiça de Goiás, noHabeas Corpus n.5630503-43.2020.8.09.0000, assim ementado (fl. 631):
+HABEAS CORPUS. COLABORAÇÃO PREMIADA. ILICITUDE DA PROVA. NÃO CONHECIMENTO. DENÚNCIA. INÉPCIA. TRANCAMENTO DA AÇÃO PENAL. FALTA DE JUSTA CAUSA. POSSIBILIDADE.
+1. - Não se conhece de tese respeitante à ilicitude da colaboração premiada, matéria ampla que requer enfrentamento na ação de conhecimento.
+2 - Se a denúncia é genérica e não descreve condutas que se amoldam aos tipos penais incriminadores, somente atos praticados no exercício da advocacia, sem evidência de dolo, impositivo reconhecer a sua inépcia e consequente trancamento da ação penal por falta de justa causa.
+Ordem parcialmente conhecida e concedida.
+Opostos embargos de declaração, os quais foram rejeitados.
+Foi interposto recurso especial a fim de alegar contrariedadeaos arts. 41, 395, 619 e 648, I, do CPP, 32 e 34, VII, XVII e XXV, da Lei n. 8.906/94 e 9º, parágrafo único, XIV, da Lei n. 9.613/98.
+O Tribunal a quoinadmitiu o recurso especialcom fundamento na Súmula n. 7 do STJ, porque "aconclusão sobre o acerto ou desacerto do acórdão fustigado demandaria sensível incursão no acervo fático-probatório, para que se possa aferir, casuisticamente, a (im)pertinência do trancamento da ação penal"(fl. 1.316).
+Nas razões do agravo em recurso especial, o Ministério Público pretende o afastamento do óbice da Súmula n. 7 do STJ.Defende que (fl. 1.329):
+ ..  o pleito cinge-se, precipuamente, à correta interpretação dos artigos 395 e 648, inciso I, do Código de Processo Penal, de forma a se demonstrar que o trancamento de ação penal pela via do habeas corpus somente é autorizado na evidência de uma situação de excepcionalidade, vista como a inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria, ou de prova sobre a materialidade do delito.
+Pontua que "ovoto vencido descreve devidamente os indícios mínimos de autoria e materialidade dos fatos imputados ao paciente" (fl. 1.330).
+Assevera que (fl. 1.331):
+ ..  todo o contexto fático-probatório a ser considerado para o julgamento do recurso especial está descrito no acórdão, de modo que não se exige a incursão nos elementos probatórios alheios aos reconhecidos pelo Tribunal de Justiça do Estado de Goiás. Assim, basta a mera revaloração, e não o reexame.
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo e provimento do recurso especial(fls. 1.360-1.367).
+É o relatório. Decido.
+No caso, embora o Tribunal de Justiça de Goiástenha determinado o trancamento da ação penal em relação ao recorridoRodolfo Macedo Montenegro, por inépcia da denúncia, observa-se que deixou de examinar a questão relativa à licitude da colaboração premiada firmada pelo advogado Aluísio Flávio Veloso Grande.
+Contudo, em 27/9/2022, a Quinta Turma do STJ julgou o mérito do RHC n. 164.616/GO interposto pelo corréu Dejair Borges, para reconhecer a nulidade da colaboração premiada firmada pelo referido advogado, cujas declarações deram início à Operação Máfia das Falências. Por consequência, esta Corte Superior,reconheceu, por unanimidade, a nulidade de todas as provas derivadas da delação premiada e determinou o trancamento da ação penal, com extensão a todos os corréus.
+Esta a ementa do julgado:
+RECURSO EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL POR HABEAS CORPUS. EXCEPCIONALIDADE. LEI N. 12.850/2013. COLABORAÇÃO PREMIADA FEITA POR ADVOGADO. NATUREZA JURÍDICA DE MEIO DE OBTENÇÃO DE PROVA. POSSIBILIDADE DE ANULAÇÃO. VIOLAÇÃO DE SIGILO PROFISSIONAL. ART. 34, VII, DA LEI N. 8.906/1994. AUSÊNCIA DE JUSTA CAUSA. MÁ-FÉ CARACTERIZADA. NULIDADE DO ACORDO DE COLABORAÇÃO PREMIADA. PRECEDENTES DO STF. RECURSO PROVIDO.
+1. O trancamento da ação penal por habeas corpus é medida excepcional, admissível quando comprovada a atipicidade da conduta, a incidência de causas de extinção da punibilidade ou a falta de provas de materialidade e indícios de autoria.
+2. Nos termos da Lei n. 12.850/2013, o acordo de colaboração premiada é um meio de obtenção de provas, no qual o poder estatal compromete-se a conceder benefícios ao investigado/acusado sob condição de cooperar com a persecução penal, em especial, na colheita de provas contra os outros investigados/acusados.
+3. É possível a anulação e a declaração de ineficácia probatória de acordos de colaboração premiada firmados em desrespeito às normas legais e constitucionais.
+4. O dever de sigilo profissional imposto ao advogado e as prerrogativas profissionais a ele asseguradas não têm em vista assegurar privilégios pessoais, mas sim os direitos dos cidadãos e o sistema democrático.
+5. É ilícita a conduta do advogado que, sem justa causa, independentemente de provocação e na vigência de mandato, grava clandestinamente suas comunicações com seus clientes com objetivo de delatá-los, entregando às autoridades investigativas documentos de que dispõe em razão da profissão, em violação ao dever de sigilo profissional imposto no art. 34, VII, da Lei n. 8.906/1994.
+6. O sigilo profissional do advogado é premissa fundamental para exercício efetivo do direito de defesa e para a relação de confiança entre defensor técnico e cliente.
+7. O Poder Judiciário não deve reconhecer a validade de atos negociais firmados em desrespeito à lei e em ofensa ao princípio da boa-fé objetiva.
+8. A conduta do advogado que, sem justa causa e em má-fé, delata seu cliente, ocasiona a desconfiança sistêmica na advocacia, cuja indispensabilidade para administração da justiça é reconhecida no art. 133 da Constituição Federal.
+9. Ausente material probatório residual suficiente para embasar a ação penal, não contaminado pela ilicitude, inafastável o acolhimento do pedido de trancamento da ação penal.
+10. Recurso provido para determinar o trancamento da ação penal.
+Diante disso, embora o Tribunal a quo já tivesse excluído Rodolfo dopolo passivo da ação penal por inépcia da denúncia, julgado contra o qual insurge-seo Ministério Público, observa-se que o acórdão prolatado pela Quinta Turma, no RHC n. 164.616/GO, tem objeto mais amplo, determinando o integral trancamento da ação penal, circunstância que também beneficiou o recorrido.Inafastável, portanto, o reconhecimento da perda de objeto do presente recurso.
+Ante o exposto,considerando a alteração do quadro fático-processual, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
