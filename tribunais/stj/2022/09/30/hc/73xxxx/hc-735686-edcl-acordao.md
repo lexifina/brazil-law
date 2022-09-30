@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CESAR CARVALHO ORMUNDOopõe embargos de declaração contra o acórdão prolatado às fls. 447-454, pela Sexta Turma do STJ, no qual se negou provimento ao agravo regimental.
+Neste recurso, o embargante aponta omissão no decisum, porquanto esta Corte Superior não haveria se pronunciado sobre "peculiaridades e minúcias" do caso concreto(fl. 459).
+Aduz:
+Ainda, há de se observar que, para a formação do convencimento dessa C. Corte Superior de Justiça, quanto à demonstração de culpa exclusiva da vítima, o v. acórdão se exibe omisso ao deixar de analisar a documentação que instrui tanto a impetração, quanto àquela acostada em sede Regimental.
+A omissão, no ponto, é literal. Ao que interessa, não consta, do v. aresto, nenhum ponto atinente à imprudência incorrida pela vítima do acidente e como a referida ausência de zelo contribui para o desencadeamento da tragédia ocorrida.
+Requero acolhimento dos embargos, a fim de que o vício sejasanado.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. NÃO VERIFICAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. A oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+2. Não está caracterizado nenhum vício previsto no art. 619 do CPP se o órgão julgador dirimiu, de modo fundamentado, as questões que lhe foram submetidas. Tampouco existe omissão se ele deixa de se manifestar sobre um ou outro ponto secundário, alegado pelas partes, porquanto não está obrigado a se manifestar sobre todos.
+3. Na espécie, o acórdão embargado foi expresso nas razões de decidir e rejeitou o pedido de desclassificaçãodo crime de homicídio doloso para homicídio culposo no trânsito (por uma vez) e dos crimes de tentativa de homicídio (por três vezes) para lesão corporal. Conquanto a defesa entenda não estar caracterizado o dolo eventual, considerados os elementos de prova apontados pelas instânciasordinárias, a tarefa de reconhecer se o réu agiu com culpa consciente ou com dolo eventual é do Conselho de Sentença.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+Não constato omissão no decisum embargado, o qual apreciou e negou o pedido defensivo de desclassificação dos crimes de homicídio doloso consumado e tentado,de competência do Tribunal do Júri, para os delitos de homicídio culposo e lesão corporal.Confira-se trecho do acórdão impugnado(fls. 451-454, grifo no original):
+Nesta Corte, após analisar as razões da impetração e a documentação acostada, consignei a presença de indícios razoáveis de que o paciente tenha assumido o risco de produzir o resultado morte ao dirigir embriagado e acima de 120 km/h em via pública urbana, o que afasta a possibilidade de acolher o pleito desclassificatório, notadamente em habeas corpus, em que não é cabível o reexame fático-probatório dos autos (fl. 410).
+Embora a defesa alegue que não há comprovação da embriaguez do réu, a pronúncia transcreve ao menos três oitivas de testemunhas que sentiram o odor etílico ao se aproximar do réu logo após a colisão. Os depoimentos dos dois policiais militares que estiveram presentes no atendimento da ocorrência (conforme narrado nas fls. 56 e 57) somam-se à oitiva da testemunha André Pessoa na fl. 59.
+Além do mais, foi apreendida na posse do acusado uma comanda de um bar/restaurante com registro de consumo de 12 cervejas Heineken horas antes da colisão, o que, a princípio, corrobora os testemunhos acima referidos acerca do estado de embriaguez do réu.
+Com efeito, as instâncias ordinárias registraram também que o recorrente trafegava na via em altíssima velocidade (conforme declarado pelas vítimas sobreviventes), o que se coaduna com as informações do laudo pericial, que atestou que o acusado colidiu contra o veículo dos ofendidos em uma velocidade aproximada de 124 km/h - a velocidade máxima na via urbana era de 60 km/h.
+A afirmação da defesa de que o laudo pericial é inservível neste ponto e de que o réu trafegava a 60 km/h, ao menos a princípio, não é crível, ao se considerar que a força do impacto ocasionou o capotamento de um dos veículos (o das vítimas) e a morte instantânea de João Lucas Duarte Marques - em virtude de decapitação parcial e esmagamento de crânio e face (fl. 50).
+Portanto, ainda que o agravante entenda não estar caracterizado o dolo eventual e ser necessária a desclassificação dos delitos imputados para as formas culposas previstas no Código de Trânsito, deve prevalecer a compreensão de que, a se considerarem os elementos de prova apontados pelo acórdão - acima descritos - a tarefa de reconhecer se o insurgente agiu com culpa consciente ou com dolo eventual é do Conselho de Sentença.
+ ..
+Por fim, assevero que, diante do contexto probatório apresentado pelas instâncias de origem, entender de forma diversa, a ponto de afastar a possibilidade de haver o réu agido com dolo eventual, demandaria o revolvimento das provas dos autos, tarefa, como já dito, incabível em habeas corpus.
+A esse teor, não está caracterizado nenhum vício previsto no art. 619 do CPP se o órgão julgador dirimiu, de modo fundamentado, as questões que lhe foram submetidas. Tampouco existe omissão se ele deixa de se manifestar sobre um ou outro ponto secundário, alegado pelas partes, porquanto não está obrigado a se manifestar sobre todos.
+A omissão ocorre, no entanto, quando o acórdão deixa de se manifestar sobre ponto essencial para o julgamento da lide. Ilustrativamente:
+ ..
+1. Não há falar em violação do artigo 619 do Código de Processo Penal na hipótese em que esta Turma utilizou fundamentação suficiente para solucionar a controvérsia, sem incorrer em qualquer omissão, contradição, ambiguidade ou obscuridade.  ..  3. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp n. 1.252.860/GO, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 13/12/2013, grifo nosso)
+Por fim, destaco a "impossibilidade de se percorrer todo o acervo fático-probatório nestaviaestreita do writ, como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dosfatoseprovas,providência inviável de ser realizada dentro dos estreitos limites dohabeas corpus,que não admite dilação probatória e o aprofundado exame do acervo da ação penal" (AgRg no RHC n. 163.432/PA, Rel. Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), 5ª T., DJe 20/6/2022).
+À vista do exposto, rejeito os embargos de declaração.
