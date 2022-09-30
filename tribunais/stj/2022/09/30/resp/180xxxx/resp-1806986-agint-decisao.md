@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto, em 21/08/2018, pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERIAS, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+No acórdão objeto do Recurso Especial, o Tribunal de origem negou provimento a Agravo de Instrumento interposto, em 10/07/2017, pelo ESTADO DE MINAS GERAIS, contra decisão que deferiu a antecipação dos efeitos da tutela nos autos da Ação ordinária 0643.17.000292-4, ajuizada pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERIAS.
+Em consulta à página eletrônica do Tribunal de origem, constato que a ação que deu origem ao presente Recurso Especial teve o seu pedido julgado improcedente, em sentença publicada em 28/05/2021, transitada em julgado em 24/09/2021, tendo sido dada baixa definitiva aos autos em 28/09/2021. Nesse contexto, forçoso reconhecer a perda do objeto do presente Recurso Especial. Nesse sentido:STJ, EAREsp 488.188/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 19/11/2015; REsp 857.058/PR, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, DJe de 25/09/2006; REsp 1.383.406/ES, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 07/11/2017.
+Ante o exposto, reconsidero da decisão de fls. 242/246e. Com fundamento no art. 255, § 4º, I, não conheço do Recurso Especial.
+I.
