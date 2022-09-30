@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por RODRIGO BRAGA DE ANDRADE e THATIANA ROCHA AMORIM, com fundamento no art. 105, III, alíneas "a", da CF, contra acórdão do TJRJ assim ementado (e-STJ fls. 62/63):
+AGRAVO DE INSTRUMENTO. Impugnação ao cumprimento de sentença.Compra e venda. Desistência do promitente comprador. Rescisão do contrato. Restituição das parcelas pagas. Juros de mora. Correção monetária. Decisão inquinada acolheu parcialmente a impugnação, com o fim de determinar que a correção monetária do valor a ser restituído aos autores passe a incidir do trânsito em julgado do acórdão. Acórdão transitado em julgado confirmou a devolução da quantia a ser restituída em doze vezes, corresponde a 80% (oitenta por cento) dos valores pagos e determinou a atualização de tais valores, acrescidos de juros de mora partir do trânsito em julgado da sentença. Se o promitente comprador desiste do negócio jurídico, os juros de mora sobre a parcela a devolver incidem a partir do trânsito em julgado e a correção monetária a partir de cada desembolso. A atualização monetária do valor a ser restituído nada mais é do que um mecanismo de recomposição do poder aquisitivo da moeda frente ao decurso do tempo, sendo devida desde os desembolsos. Reforma da decisão que se impõe para determinar que a correção monetária do valor a ser restituído aos autores passe a incidir a partir de cada desembolso. RECURSO AO QUAL SE DÁ PROVIMENTO.
+Os primeiros embargos de declaraçãodos recorrentes foram acolhidos, nos termos da ementa a seguir (e-STJ fl. 132):
+EMBARGOS DE DECLARAÇÃO. Impugnação ao cumprimento de sentença.
+Compra e venda. Desistência do promitente comprador. Rescisão do contrato. Restituição das parcelas pagas. Juros de mora. Correção monetária fixada desde cada desembolso. Alegação de omissão quanto ao pedido de fixação de honorários. Ocorrência. Integração do julgado embargado para apreciar a matéria. PROVIMENTO DOS EMBARGOS.
+Os segundos aclaratórios da parte recorrente foram rejeitados (e-STJ fls. 152/156).
+Nas razões apresentadas (e-STJ fls. 158/170), os recorrentes apontam contrariedade ao art. 85, § 1º, do CPC/2015, argumentando que, ante a litigiosidade do procedimento de liquidação de sentença, seus advogados fariam jus ao arbitramento de verba honorária.
+Acrescentam que, "depois de avaliado o caminho percorrido pelo agravo de instrumento, é possível afirmar que o seu resultado reformou conclusões proferidas cm uma fase de liquidação de sentença que ostentou considerável litigiosidade Apesar dessa realidade, não furam fixados os honorários advocatícios em beneficio dos patronos dos recorrentes, pois o Tribunal dc origem, se baseando erroneamente na nomenclatura impugnação ao cumprimento dc sentença, considerou a verba inexigível" (e-STJ fl. 166).
+Foram apresentadas contrarrazões (e-STJ fls. 196/202).
+O recurso foi admitido na origem (e-STJ fls. 321/325).
+É o relatório.
+Decido.
+A Corte local não se manifestou quanto ao art. 85, § 1º, do CPC/2015 sob o enfoque pretendido pelos recorrentes. Dessa forma, sem ter sido objeto de debate na decisão recorrida, a despeito dos aclaratórios opostos, a matéria contida em tal dispositivo carece de prequestionamento e sofre, por conseguinte, o empecilho das Súmulas n. 282 do STF e 211 do STJ.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
