@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7 do STJ(e-STJ fls. 460/464).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 358):
+SFH. COBERTURA SECURITÁRIA. INVALIDEZ PERMANENTE. PRESCRIÇÃO. FATO GERADOR. OCORRÊNCIA.
+1. Nos termos do art. 206, § 1º, II, do CC/2002, a ação do segurado contra a seguradora prescreve em 1 (um) ano, contado a partir da data em que tiver conhecimento inequívoco da sua incapacidade laboral.
+2. Tendo o autor sido aposentada pelo INSS em 03/10/2016 e pleiteado a cobertura securitária para o sinistro ocorrido apenas em20/12/2017, o direito do autor à pretensão do capital segurado foi alcançado pela prescrição.
+3. No caso em tela, a ciência inequívoca da invalidez por parte do autor remonta à data da concessão do benefício previdenciário, pois desde então encontrava-se ele incapacitado total e definitivamente para o exercício da ocupação principal e de qualquer outra atividade laborativa, não se podendo cogitar que o termo inicial da invalidez seja o diagnóstico da Espondilite Anquilosante, que ocorreu posteriormente.
+4. O pedido do pagamento de indenização à seguradora suspende o prazo de prescrição até que o segurado tenha ciência da decisão (Súmula 229do STJ). No entanto, no caso dos autos, o requerimento administrativo ocorreu após o transcurso do prazo prescricional anual.
+5. Apelação improvida.
+Os embargos de declaração opostos pelo agravante foram parcialmente acolhidos (e-STJ fls. 383/388) e foram providos osaclaratórios apresentados pelas agravadas para sanar erro material e corrigir o dispositivo dos primeiros embargos (e-STJ fls. 408/413).
+Nas razões do recurso especial (e-STJ fls. 423/433),fundamentado no art. 105, III, "a" e "c", da CF, a parte alega, além de dissídio jurisprudencial, violação dos arts. 489, 1.022 do CPC/2015, 2º, 6º, 46 e 47 do CDC, 205 e 206, § 1º, II, e § 3º, IV, do CC/2002.
+Aponta negativa de prestação jurisdicional e afirma que é indevida a "aplicação da prescrição ânua no presente caso, pois o autor é beneficiário do contrato de seguro, e não segurado, conforme dispõe o art. 206, § 1º, II, do CC/2002, e sim, prazo prescricional trienal, de acordo com o art. 206, § 3º, IX, do CC, bem como apontando quanto a aplicação do CDC, e elencando os dispositivos para prequestionamento" (e-STJ fl. 426).
+Requer "o reconhecimento da violação dos dispositivos e o reconhecimento de aplicação do CDC, pois resta nítido que o recorrente é parte hipossuficiente, e não pode ser prejudicado por cláusulas contratuais não expressas quanto aos prazos prescricionais"(e-STJ fl. 429).
+No agravo (e-STJ fls. 475/480), afirmaa presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 487/500(e-STJ).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+Desse modo, não assiste razão à parte, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+De outro lado, extraem-se do acórdão recorrido as seguintes razões dedecidir em relação aoprazo prescricional (e-STJ fl. 361):
+No caso em exame, a ação foi proposta pelo mutuário contra a CEF e Seguradora, em razão da negativa de cobertura securitária pela suposta prescrição da pretensão do mutuário.
+Em 29/09/2016, após realizar perícia médica, o INSS aposentou o autor por invalidez devido à incapacidade permanente para o exercício de atividades laborais, com data de notificação em 03/10/2016. Em 20/12/2017, o autor pleiteou a cobertura securitária para o sinistro ocorrido, sobrevindo comunicado da Caixa informando a negativa de cobertura securitária pela decorrência do prazo prescricional.
+O Autor alega que após a concessão da aposentadoria por invalidez, mais precisamente em 15/09/2017, descobriu que era portador de doença grave - espondilite anquilosante.
+No caso em tela, a ciência inequívoca da invalidez por parte do autor remonta à data da concessão do benefício previdenciário, pois desde então encontrava-se ele incapacitado total e definitivamente para o exercício da ocupação principal e de qualquer outra atividade laborativa, não se podendo cogitar que o termo inicial da invalidez seja o diagnóstico da Espondilite Anquilosante, que ocorreu posteriormente.
+Nos termos do art. 206, § 1º, II, do CC/2002, a ação do segurado contra a seguradora prescreve em 1 (um) ano, contado a partir da data em que tiver conhecimento inequívoco da sua incapacidade laboral.
+A jurisprudência do Superior Tribunal de Justiça, inclusive com tese firmada em recurso especial representativo de controvérsia (REsp n.1.388.030/MG), ressalta o entendimento de que, "exceto nos casos de invalidez permanente notória, ou naqueles em que o conhecimento anterior resulte comprovado na fase de instrução, a ciência inequívoca do caráter permanente da invalidez depende de laudo médico" (AgRg no AREsp n. 546.911/SP, Relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 18/12/2014, DJe3/2/2015).
+O conhecimento inequívoco do fato gerador da pretensão de indenização atinente ao seguro por invalidez permanente, ocorre, em regra, com o laudo médico, indicada causa, natureza e extensão da lesão, podendo a ciência restar configurada a partir da concessão da aposentadoria por invalidez pelo INSS, como ocorre no caso dos autos.
+Tendo o autor sido aposentada pelo INSS em 03/10/2016 e pleiteado a cobertura securitária para o sinistro ocorrido apenas em 20/12/2017, o direito do autor à pretensão do capital segurado foi alcançado pela prescrição.
+Tal entendimento encontra-se em consonância com a jurisprudência do STJ,para a qual o cômputo do prazo ânuo de prescrição das pretensões dosegurado/mutuário, contra a seguradora, começa a correr da data em que osegurado teve ciência inequívoca da incapacidade laboral, podendo essadata ser considerada como a da concessão da aposentadoria. Sobre o tema:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SFH. INVALIDEZPERMANENTE. MUTUÁRIO.SEGURO. COBERTURA. PRESCRIÇÃO. PRAZO DE UM ANO. RECURSOPROVIDO.
+1. A questão da legitimidade passiva da Caixa Econômica Federal encontraóbice na Súmula 7/STJ.
+2. A Segunda Seção desta Corte decidiu que é de um ano o prazoprescricional das ações do segurado/mutuário contra a seguradora, nasquais se busca a cobertura de sinistro relacionado a contrato de mútuofirmado no âmbito do SFH (EREsp 1272518/SP, Rel. Ministro MARCO BUZZI,SEGUNDA SEÇÃO, julgado em 24/06/2015, DJe 30/06/2015).
+2. O cômputo do prazo ânuo começa a correr da data em que o segurado teveciência inequívoca da incapacidade laboral (Súmula nº 278/STJ),permanecendo suspenso entre a comunicação do sinistro e a data da recusado pagamento da indenização (Súmula nº 229/STJ)(AgRg nos EDcl no REsp1507380/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA,julgado em 08/09/2015, DJe 18/09/2015).
+3. No caso, decorrido mais de um ano entre a concessão da aposentadoria ea comunicação do sinistro, declara-se a prescrição.
+4. Agravo interno não provido.
+(AgInt no REsp 1367497/AL, Relator Ministro LUIS FELIPE SALOMÃO, QUARTATURMA, julgado em 28/3/2017, DJe 6/4/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DEHABITAÇÃO. SFH. SEGURO HABITACIONAL. PRETENSÃO DE COBERTURA SECURITÁRIADECORRENTE DE INVALIDEZ PERMANENTE. PRESCRIÇÃO ÂNUA. INCIDÊNCIA. ART. 178,§ 6º, DO CÓDIGO CIVIL DE 2002.
+1. "Aplica-se o prazo de prescrição anual do art. 178, § 6º, II do CódigoCivil de 1916 às ações do segurado/mutuário contra a seguradora, buscandoa cobertura de sinistro relacionado a contrato de mútuo habitacionalcelebrado no âmbito do Sistema Financeiro da Habitação" (REsp 871.983/RS,Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 25/4/2012,DJe 21/5/2012).
+2. No caso, como a aposentadoria por invalidez foiconcedida em 2007 e aação foi ajuizada somente em 2011, a pretensão securitária está fulminadapela prescrição.
+3. Agravo regimental provido. Extinção do processo com resolução demérito.
+(AgRg no AREsp 634.538/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTATURMA, julgado em 01/12/2016, DJe 02/02/2017.)
+Incide, portanto, a Súmula n. 83/STJ, que se aplica como óbice tanto aosrecursos interpostos com base na alínea "c", quanto àqueles fundamentadospela alínea "a" do permissivo constitucional.
+Ademais, para alterar as conclusões da Corte local acima transcritas, afim de concluir quea parte agravada teve ciência inequívoca da incapacidadelaboral em outra data, seria necessário o reexame do contextofático-probatório dos autos, o que é vedado pela Súmula n. 7/STJ. Apropósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO OBRIGATÓRIO.PRESCRIÇÃO. TERMOINICIAL DO PRAZO PRESCRICIONAL. DATA DA CIÊNCIA INEQUÍVOCA. INCAPACIDADELABORAL. APOSENTADORIA POR INVALIDEZ. REVISÃO. PRETENSÃORECURSAL QUEENVOLVE O REEXAME DE PROVAS. NECESSIDADE DE ANÁLISE DAS CLÁUSULASCONTRATUAIS INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃOPROVIDO.
+1. O termo inicial do prazo prescricional, de acordo coma orientaçãoconsolidada nesta Corte com a edição da Súmula 278/STJ, é "a data em que osegurado teve ciência inequívoca da incapacidade laboral".
+2. Na espécie, o Tribunal de origem, com base no contextofático-probatório dos autos e ante as cláusulas constantes da apólice deseguro contratada, reconheceu a invalidez funcionalpermanente dorecorrido, de modo a ensejar a indenização securitária pleiteada, bem comoconcluiu que a ciência inequívoca da incapacidade laboral, no caso emvoga, deu-se apenas quando da concessão da aposentadoria por invalidezpelo INSS.
+3. A reforma do julgado demandaria, necessariamente, o reexame do conjuntofático-probatório dos autos e a interpretação de cláusulas contratuais,providência incompatível com a via estreita do recurso especial, nostermos das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1349017/SC, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/4/2019, DJe 22/5/2019.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
