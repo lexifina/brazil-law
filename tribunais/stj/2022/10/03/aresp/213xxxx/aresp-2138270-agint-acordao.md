@@ -1,0 +1,75 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que L. B. GONÇALVES ESQUADRIAS (L.B. ESQUADRIAS) ingressou com ação de cobrança cumulada com indenização por danos morais contra FACCHINI, HERAKI E SALDANHA - FHS - HOTELARIA LTDA. (FACCHINI HOTELARIA), alegando descumprimento do contrato de prestação de serviços firmado entre as partes para a instalação de espelhose boxes personalizados.
+No curso da ação, na fase de cumprimento de sentença, o d. Juízo da causa rejeitou a impugnação apresentada por FACCHINI HOTELARIA, autorizando o prosseguimento dos atos executórios.
+Contra essa decisão interlocutória, FACCHINI HOTELARIA interpôs agravo de instrumento, alegando a) nulidade da citação; b) ilegitimidade passiva ad causam; e c) cumulação indevida de execuções.
+O agravo de instrumento não foi provido pelo Tribunal de Justiça de São Paulo, em acórdão da relatoria da Des.ªDAISE FAJARDO NOGUEIRA JACOT, assim ementado:
+AGRAVO DE INSTRUMENTO. Ação de Cobrança c.c. Indenização por Danos Morais. Contrato de prestação de serviços. Fase de cumprimento de sentença. DECISÃO que rejeitou a Impugnação. INCONFORMISMO da impugnante deduzido no Recurso. EXAME: carta de citação recebida no endereço informado pela própria Empresa demandada nos contatos com a exequente. Demandada que continuou em atividade no endereço constante na carta de citação. Recebimento da carta por funcionário da Portaria responsável pela recepção da correspondência, sem qualquer observação ou ressalva. Nulidade na citação não verificada. Aplicação do artigo 248, "caput" e §§ 2º e 4º, do Código de Processo Civil. Arguição de ilegitimidade passiva da executada que deve ser afastada. Deferimento do processamento da Recuperação Judicial do devedor principal que não impede o prosseguimento da Execução em relação aos demais devedores. Aplicação da Súmula 581 do C. Superior Tribunal de Justiça. Decisão mantida. RECURSO NÃO PROVIDO (e-STJ, fl. 62).
+Os embargos de declaração opostos por FACCHINI HOTELARIA foram rejeitados (e-STJ, fls. 84/86).
+Irresignada, FACCHINI HOTELARIA manejou recurso especial com base no art. 105, III, alínea a, da CF, apontando a violação dos arts. 248, § 2º, 525, II e V, e 917, III, do NCPC, ao sustentar (1) a cumulação indevida de execuções, pois a recorrida busca receber nestes autos o mesmo crédito submetido do processo de recuperação judicial da corré, HOTELARIA CARIOCA LTDA.; (2) sua ilegitimidade passiva ad causam, uma vez que o contrato inadimplido foi entabulado apenas com a empresa HOTELARIA CARIOCA LTDA., corré na presente ação, sendo que o imóvel penhorado não lhe pertence mais; e (3) a nulidade da citação efetuada em pessoa estranha à empresa, após o encerramento da sociedade e em endereço diverso do da recorrente.
+O apelo nobre não foi admitido em virtude (i) de estar o acórdão recorrido em consonância com a tese fixada no julgamento do REsp 1.333.349/SP, sob o rito dos recursos repetitivos (Tema n.º 885); (ii) não ter sido demonstrada a vulneração aos dispositivos arrolados no especial; e (iii) por incidência da Súmula n.º 7 do STJ (e-STJ, fls. 115/117).
+Na sequência, FACCHINI HOTELARIA interpôs agravo em recurso especial que, em decisão desta relatoria, conheceu em parte do apelo extremo, negando-lhe provimento, consoante a ementa a seguir:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. INADMISSÃO DO APELO NOBRE COM FUNDAMENTO NO ART. 1.030, I, b, DO NCPC (ART. 543-C, PARÁGRAFO 7º, INCISO I, DO CPC/73). AGRAVO INVIÁVEL EM HIPÓTESES DE INADMISSÃO COM FUNDAMENTO NA APLICAÇÃO DE ENTENDIMENTO FIRMADO EM JULGAMENTO DE RECURSOS REPETITIVOS (ART. 1.042 DO NCPC) POR SE TRATAR DE ERRO GROSSEIRO. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA E NULIDADE DA CITAÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. CITAÇÃO POSTAL. ENTREGA NO ENDEREÇO INFORMADO. PORTARIA. VALIDADE. PRECEDENTES. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. AGRAVO PARCIALMENTE CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+Nas razões do presente agravo interno, FACCHINI HOTELARIA reiterou a argumentação deduzida no especial, afirmando (1) que não detém legitimidade para integrar o polopassivo da demanda; e (2)a nulidade da citação, tendo asseverado que a solução destas questões independe do reexame de provas.
+Foi apresentada impugnação (e-STJ, fls. 187/196).
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA E NULIDADE DA CITAÇÃO. REEXAME DE PROVAS. SÚMULA N.º 7 DO STJ. CITAÇÃO POSTAL. ENTREGA NO ENDEREÇO INFORMADO. PORTARIA. VALIDADE. PRECEDENTES. INCIDÊNCIA DA SÚMULA N.º 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No caso, da forma como deduzida a pretensão recursal, o acolhimento das teses de ilegitimidade passiva e de nulidade da citação não prescindiria do reexame doacervo fático-probatório da causa, o que nãose admite nesta via excepcional, anteo óbice da Súmulan.º 7 do STJ.
+3.Ademais, observa-se que o acórdão recorrido está em conformidade com a jurisprudência desta Corte, no sentido de que é válida citação postal, com aviso de recebimento e entregue no endereço correto do réu ou executado, mesmo que recebida por terceiros. Precedentes. Incidência da Súmula n.º 83 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o recurso em análise foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Narram os autos que L.B. ESQUADRIASingressou com ação de cobrança cumulada com indenização por danos morais contra FACCHINI HOTELARIA, alegando descumprimento do contrato de prestação de serviços firmado entre as partes para a instalação de espelhose boxes personalizados.
+No curso da ação, na fase de cumprimento de sentença, a ora insurgente interpôs agravo de instrumento contra a decisão do Juízo singular que rejeitou a sua impugnação,autorizando o prosseguimento dos atos executórios, tendo sido o recurso desprovido pelo Tribunal de Justiça de São Paulo.
+(1) Da ilegitimidade passiva ad causam
+Inicialmente, FACCHINI HOTELARIA sustentou que não possui legitimidade para integrar o polo passivo da ação de cobrança, uma vez que o contrato de prestação de serviços inadimplido foi firmado apenas com a empresa HOTELARIA CARIOCA LTDA., corré na presente ação, sendo que o imóvel penhorado não lhe pertence mais.
+Sobre o tema, o TJSP assim se pronunciou:
+ .. , impõe-se afastar a arguição de ilegitimidade passiva. É que, a par da intermediação para a contratação da prestação de serviços de instalação de espelhos e box personalizados, a documentação constante dos autos revela a participação efetiva da executada nas tratativas envolvendo a autora e a corré Hotelaria Carioca Ltda., mormente considerando os "e-mails" encaminhados discutindo valores e forma de pagamento dos serviços contratados (v. fls. 28/38 e 43/45 dos autos da Ação de Cobrança), bem como a existência do "logo" da empresa agravante nas ordens de compra encaminhadas à autora (v. fls. 46/47 dos autos da Ação de Cobrança)  e-STJ, fls. 65/66 .
+Nesse contexto, a revisão da conclusão do julgado, com o consequente acolhimento da pretensão recursal, não prescindiria do reexame das circunstâncias fático-probatórias da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESTITUIÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO DEMANDADO.
+1. Não se constata a alegada violação ao artigo 1.022 do CPC/15, porquanto os argumentos expostos pela parte foram apreciados, com fundamentação clara, coerente e suficiente pelo órgão julgador.
+2. Para derruir as conclusões contidas no acórdão recorrido no que diz respeito à legitimidade passiva seria imprescindível o reexame de todo o acervo fático e probatório dos autos, inclusive das cláusulas do contrato entabulado entre as partes, providência inviável em sede de recurso especial, a teor do disposto nas Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 2.048.172/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 27/6/2022, DJe 30/6/2022)
+(2) Da nulidade da citação
+Por sua vez, a ora recorrentearguiu a nulidade da citação, porquanto efetuada em pessoa estranha à empresa, após o encerramento da sociedade e em endereço diverso do seu.
+A esse respeito, o Tribunal bandeirante assim consignou:
+No caso vertente, verifica-se que a carta de citação foi encaminhada para a Rua Henrique Schaumann, nº 286, Itaim Bibi, nesta Capital (v. fl. 72 dos autos principais), local onde está instalada a sede da Empresa ré.
+Embora a alegação da agravante no sentido de que desconhece o funcionário que assinou o Aviso de Recebimento e de que consta do Cadastro da Receita Federal que está localizada em endereço diverso e ainda que houve baixa da Empresa em março de 2014, o fato é que o endereço para o qual foi encaminhada a carta de citação constou expressamente no "e-mail" encaminhado pela própria agravante em junho de 2017 (v. fl. 25 dos autos da Ação de Cobrança), e também na contranotificação extrajudicial encaminhada pela agravante em outubro de 2016 (fls. 50/51 dos autos da Ação de Cobrança).
+Demais, verifica-se que a carta foi recebida por funcionário da Portaria no dia 24 de novembro de 2017, sem qualquer observação ou ressalva (fl. 72 dos autos principais), circunstância capaz de afastar a cogitada nulidade no ato citatório (e-STJ, fl. 65).
+Também sob esse prisma, para ultrapassar a conclusão da Corte local, a fim de acolher a tese recursal de nulidade da citação porque realizada em endereço diverso do da recorrente, seria necessária nova incursão nos elementos fáticos dos autos, o que é vedado nesta sede excepcional, consoante a Súmula n.º 7 do STJ.
+Ademais, observa-se que o acórdão recorrido está em conformidade com a jurisprudência desta Corte, no sentido de que é válida citação postal, com aviso de recebimento e entregue no endereço correto do réu ou executado, mesmo que recebida por terceiros. Precedente: AgRg no AREsp 253.709/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, Primeira Turma, j. 4/12/2012, DJe 13/12/2012.
+Com igual entendimento, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. CITAÇÃO POSTAL. ENTREGA NO ENDEREÇO INFORMADO, PORÉM À PESSOA ESTRANHA À LIDE. VALIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de reintegração de posse.
+2. É válida a citação postal encaminhada ao domicílio do devedor mesmo que recebida por terceiros. Precedentes.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.792.402/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 10/5/2021, DJe 12/5/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXAS DE CONDOMÍNIO. PROCEDÊNCIA. ART. 1.022 DO NCPC. OMISSÃO INEXISTENTE. VIOLAÇÃO DE DISPOSITIVO DE LEI FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211 DO STJ. CITAÇÃO POSTAL. ENTREGA NO ENDEREÇO INFORMADO, PORÉM A PESSOA ESTRANHA À LIDE. VALIDADE. PRECEDENTES. ACÓRDÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ.
+ .. .
+4. É válida a citação postal encaminhada ao domicílio do devedor, mesmo que recebida por terceiros. Precedentes. Incidência da Súmula nº 568 do STJ.
+ .. .
+7. Agravo interno não provido, com imposição de multa.
+(AgInt no REsp 1.700.601/SP, de minha relatoria, j. Terceira Turma, j. 3/12/2018, DJe 5/12/2018)
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSO CIVIL. CITAÇÃO POSTAL.
+VALIDADE. ENTREGA NO ENDEREÇO INFORMADO.
+1. É válida a citação postal encaminhada ao domicílio do devedor mesmo que recebida por terceiros. Precedentes.
+2. Inviabilidade de acolher as alegações da parte embargante no sentido de que a citação foi recebida mediante fraude, diante da necessidade de incursão na seara fático-probatória, atividade não realizável nesta via especial. Incidência do óbice da súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.635.685/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 16/5/2017, DJe 19/5/2017)
+Incidência da Súmula n.º 83 do STJ.
+Cumpre observar, outrossim, que o novo Código de Processo Civil, em seu art.248, § 4º, traz regra no sentido de admitir como válida a citação entregue a funcionário de portaria responsável pelo recebimento de correspondência, norma aplicável à hipótese dos autos. Precedente: Resp n.º 1.625.697/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA. Terceira Turma, j. 21/2/17, DJe 24/2/17).
+Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
+Por oportuno, previno as partes de que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do NCPC.
