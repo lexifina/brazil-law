@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 2.176/2.185) interposto contra decisão desta relatoria, que deu parcial provimentoao recurso, a fim de determinar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados(e-STJ fls.2.156/2.160).
+Em suas razões, a parte alega que "não há qualquer obscuridade no v. Acórdão objeto de Recurso Especial" (e-STJ fl. 2.182). Aduz que, "consta do v. aresto que os 20% fixados referem-se à porcentagem "que o autor levou consigo", pois foram levados em consideração os clientes que "teriam acompanhado o sócio retirante", restando a Decisão perfeitamente fundamentada" (e-STJ fl. 2.184).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 2.189/2.192).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.TEMARELEVANTEPARA O JULGAMENTO DA LIDE. AUSÊNCIA DE PRONUNCIAMENTO. VÍCIOS CONFIGURADOS. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 2.156/2.160):
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão de ausência de violação a dispositivo legal e incidência da Súmula n. 7/STJ(e-STJ fls. 2.042/2.043).
+O acórdão recorrido encontra-seassim ementado (e-STJ fls. 1.865/1.866):
+PERÍCIA- CERCEAMENTO DE DEFESA - DISSOLUÇÃO DE SOCIEDADE - APURAÇÃO DE HAVERES - SOCIEDADE EMPRESÁRIA - DISTRIBUIÇÃO DE LUCROS - HONORÁRIOS ADVOCATÍCIOS.
+Agravo retido não provido, apelação do autor parcialmente provida, não provida a dos réus.
+Os embargos de declaração foram parcialmente acolhidos (e-STJ fls. 1.946/1.953).
+Nas razões do recurso especial (e-STJ fls. 1.956/1.985), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte alegou, além de dissídio jurisprudencial, violação dos seguintes dispositivos legais:
+(i) arts. 145 e 146 do CPC/1973, tendo em vista ter sido nomeado como perito profissional que foi "preso em flagrante sob a acusação- de exigir vantagem indevida para direcionar a conclusão de um laudo. Logo em seguida, foi posto em liberdade provisória por força de liminar concedida em habeas corpus" (e-STJ fl. 1.966). Informa que "pouco tempo depois, no bojo da ação penal contra ele propostapassiva), com a qualificadora do § 1º (Proc. nº 583.50.2006.080047-7), o Sr. Cláudio veio a ser condenado por sentença transitada em julgado (cf. fls. 1.687/1.697) em razão da prática dos crimes ali descritos justamente enquanto no exercício de suas atribuições de auxiliar da justiça" (e-STj fls. 1.966/1.967),
+(ii) art. 1.031 do CC/2002, sob alegação de que "nas sociedades em que a figura do sócio tem mais força do que a da sociedade individualmente, não há mesmo que se falar, para fins do balanço previsto no art. 1.031 do CC, em fundo de comércio. Por conseguinte, uma vez que CPB se enquadra precisamente nesse tipo de sociedade, e na remota hipótese de o laudo pericial produzido não vir a ser anulado, é necessário que se proceda à reforma do v. acórdão recorrido diante da flagrante violação ao art. 1.031 do CC para que, do montante arbitrado em favor do Sr. Ademir para o pagamento de haveres, seja abatido o valor encontrado para o fundo de comércio" (e-STJ fl. 1.974),
+(iii) arts. 131, 334 e 535 do CPC/1973, pelos seguintes fundamentos (e-STJ fls. 1.974/1.976):
+ .. ao recurso de apelação interposto pela sociedade e pelos sócios - remanescentes, foi dado parcial provimento, apenas para reduzir do valor encontrado sob a rubrica de aviamento a percentagem de 20%, que supostamente corresponderia aovalor do fundo de comércio que se teria perdido com a saído do Sr. Ademir:
+ ..
+Entretanto, ao não especificar a origem do percentual referido, isto é, sobre qual elemento probatório ele se fundava, o v. acórdão recorrido incorreu em manifesta violação aos artigos 131 e 334 do CPC de 1973, dispositivos estes que impõem os limites ao livre convencimento no Juízo, ordenando que seja sempre motivado. Prescrevem, assim, que o livre convencimento deve sempre se pautar em fatos e nas provas coligidas aos autos, exceção feita, naturalmente, ao rol taxativo de hipóteses trazido pelo art. 334 do código Buzaid.
+Assim, malgrado tenha sido expressamente questionado a esse respeito, o nobre Juízoa quodeixou de esclarecer quais os subsídios constantes dos autos que guiaram a ilustre Turma Julgadora ao percentual de 20%, donde decorre também violação ao art. 535, 120 do Código de Processo Civil de 1.973.
+65. Por essas razões, na remota hipótese de as violações suscitadas nos capítulos precedentes não serem acolhidas, é imperioso que seja anulado o v. acórdão recorrido para que, sendo os autos remetidos de volta para a 10º Câmara de Direito Privado do TJ/SP, manifeste-se aquela revelando os critérios utilizados para fundamentar a redução de 20%, o que não pode ser feito diretamente por essa e. Corte.
+(iv) art. 406 do CC/2002, devendo ser fixada "a taxa SELIC, a qual, por embutir, em seu cálculo, tanto juros moratórios quanto correção monetária, não pode ser cumulada com qualquer outro índice de atualização, sob pena debis in ideme consequente enriquecimento sem causa do credor" (e-STJ fl. 1.979).
+No agravo (e-STJ fls. 2.046/2.062), afirma-sea presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 2.068/2.087 (e-STJ).
+É o relatório.
+Decido.
+Da preliminar de nulidade do laudo pericial
+Quanto à idoneidade do perito, o Tribunal de origem afirmou que "ofato de o perito ter sido mencionado em matéria jornalística no site do Tribunal de Justiça, matéria essa dando conta de que houvera sito preso em flagrante por extorsão, juntamente com outros peritos, e, posteriormente (no dia seguinte) posto em liberdade provisória, por liminar emhabeas corpus, igualmente não induz necessidade de substituição.  .. . Aliás, a impugnação deveria ter sido feita pelos réus logo após a nomeação ou na primeira oportunidade de manifestação nos autos, vez que os fatos já eram conhecidos. mas preferiram aguardar o término do trabalho pericial, para então arguir tal impedimento, certamente em virtude do desfecho a eles alegadamente desfavorável" (e-STJ fl. 1.871).
+Inicialmente, verifico que o TJSP não analisou a questão sob a ótica da condenação por sentença transitada em julgado.Caberia à parte alegar violação do art. 1.022 do Código de Processo Civil de 2015, o que não ocorreu. Dessa forma, à falta do indispensável prequestionamento, incide a Súmula n. 211 do Superior Tribunal de Justiça.
+Mesmo que afastada a falta de prequestionamento, a parte não rebateu o fundamento do Tribunala quode que a nulidadenão foi arguidano primeiro momento em que se manifestou nos autos.Verifica-se, portanto, que não houve impugnação de todos fundamentos do acórdão recorrido. Incidem, portanto, aSúmulan. 283 do STF.
+Da ausência de prestação jurisdicional
+O TJSP abateu o valor do fundo de comércio em 20%, sob alegação de que a perícia não levou em consideração o fato de que "a saída de qualquer sócio da empresa provo ca  a queda do faturamento, quer porque poderá ocorrer diminuição no número s, quer porque parte da clientela o acompanhará, como de fato ocorreu" (e-STJ fl. 1.877).
+Nas razões dos embargos de declaração, a parte alegou que, "ao estabelecer o percentual de 20% para a apuração dessa queda do faturamento, a r. decisão embargada acaba por incorrer, d.m.v., em inegável obscuridade, uma vez que o valor arbitrado para esse fim não encontra respaldo em qualquer das alegações declinadas pelas partes ou em qualquer das provas colacionada aos autos - incluindo-se, aí, o laudo produzido pelo i. expert -o que parece incompatível com a regra insculpida no art. 131do antigo CPC" (e-STJ fl. 1.897).
+No acórdão dos embargos de declaração, o Tribunal restringiu a afirmar que a "dedução imposta pelo aresto se deu porque reconhecido que parteda clientela acompanhou o sócio retirante, tendo sido estimada a perda em 20%. Na interpretação que fazem do acórdão, os embargantes sustentam, a pretexto de obscuridade, é não ter o aresto dito em que elementos dos autos se apoiou para estabelecer o percentual de 20% a que se refere. Mas as razões de imposição desse percentual estão lá, motivadamente, repito" (e-STJ fls. 1.950/1.951).
+Assim, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve a omissão/obscuridade a respeito de quais oscritérios foram utilizados para fundamentar a redução de 20% do valor do fundo de comércio.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Nesse sentido, a título de exemplificação, os seguintes precedentes:
+AGRAVO INTERNO EM RECURSO ESPECIAL. FUNDAMENTOS NÃO IMPUGNADOS. ARTIGO 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL/2015. AÇÃO DE RESOLUÇÃO DE COMPROMISSO DE COMPRA E VENDA. AÇÃO FUNDADA EM DIREITO PESSOAL. COMPETÊNCIA NÃO ANALISADA CORRETAMENTE. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022, II, DO CPC/15. OMISSÃO VERIFICADA.
+1. Nos termos do artigo 1.021, § 1º, do Código de Processo Civil/2015, é inviável o agravo interno que deixa de impugnar especificadamente os fundamentos da decisão agravada.
+2. Se a Corte de origem deixou de examinar alegação do agravado que pode alterar substancialmente o resultado do julgamento, evidencia-se a violação ao art. 1.022 do Código de Processo Civil, sendo necessário o retorno do autos para que o Tribunal estadual supra a omissão.
+3. Agravo interno a que se nega provimento.
+(AgInt no AgInt nos EDcl no AREsp 1512050/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 16/11/2020, DJe 20/11/2020.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA ANTERIOR. TEMA RELEVANTE PARA O JULGAMENTO DA LIDE. AUSÊNCIA DE PRONUNCIAMENTO. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. INOVAÇÃO RECURSAL. NÃO CABIMENTO. DECISÃO MANTIDA.
+1. Deixando a Corte local de se manifestar sobre questões relevantes, apontadas em embargos de declaração que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, tem-se por configurada a violação do art. 1.022 do CPC/2015, devendo ser provido o recurso especial, com determinação de retorno dos autos à origem, para que seja suprido o vício.
+2. Incabível o exame de tese não exposta nas contrarrazões do recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1818817/RS, de minha relatoria, QUARTA TURMA, julgado em 22/11/2021, DJe 26/11/2021.)
+Assim, constatado o vício, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso, a fim dedeterminar o retorno dos autos ao Tribunal de origem para exame daobscuridadeapontada.
+Publique-se e intimem-se.
+Com efeito, a Corte estadual, apesar de instada a se pronunciar em sede de embargos de declaração, manteve-se omissa quanto aoscritérios utilizados para fundamentar a redução de 20% no valor do fundo de comércio.
+O Tribunala quoapenas afirmou que os 20% correspondem à parte da clientela que acompanhou o sócio retirante, sem apontar quais as provas que o levaram a fixar esse percentual, ou os parâmetrosutilizados para chegar a tal conclusão.
+Constatado, portanto, ovíciodo Colegiado estadual, era imprescindível o provimento do especial, com retorno dos autos à origem, para que o Tribunal de origemse manifeste expressamente sobre opontoomitido.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
