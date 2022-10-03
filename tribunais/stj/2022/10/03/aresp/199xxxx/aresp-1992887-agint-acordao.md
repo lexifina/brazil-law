@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  IVANA  CHACON  contra  a decisão  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento.
+Em suas razões  (fls.  253/263,  e-STJ),  a  agravante  alega  que  não  pretende  o  reexame  de  provas,  visto  que  a  "(..)  questão  de  estrito  direito  tratada  no  acórdão  recorrido  é  identificada  pela  leitura  dos  seus  próprios  termos,  sem  a  necessidade  de  socorrer-se  de  qualquer  outro  elemento  dos  autos"  (fl.  257,  e-STJ).
+No  ponto,  sustenta  que  "(..)o Tribunal negou vigência aos artigos 934 e 937, I do CPC a pretexto de celeridade processual, da razoável duração do processo e da ausência de demonstração de utilidade da sustentação oral" (fl.  258,  e-STJ).
+Além  disso,  afirma  que  não  há  falar  em  incidência  da  Súmula  nº  83/STJ  porque,  além  de  o  recurso  não  estar  fundamentado  no  dissídio  interpretativo,  há  precedentes  recentes  no  sentido  de  que  "(..)  ausência  da  sustentação  oral,  nos  casos  taxativamente  previstos  em  lei  (como  é  o  da  apelação),  é  capaz  de  implicar,  por  si  só,  a  nulidade  do  julgamento,  por  ofensa  ao  artigo  937  do  CPC"  (fl.  259,  e-STJ).
+Ressalta  que  ,
+"(..)  no  caso  dos  autos,  o  acórdão  recorrido  reconheceu  que  se  tratava  do  julgamento  de  um  recurso  de  apelação;  que  a  apelante  se  opôs,  tempestivamente,  ao  julgamento  virtual,  mas  que,  mesmo  assim,  à  AGRAVANTE  não  foi  assegurada  a  aplicação  do  artigo  937,  I  do  CPC  pela  cláusula  geral  da  razoável  duração  do  processo"  (fl.  261,  e-STJ).
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Devidamente  intimada,  a  parte contrária  ofereceu  impugnação  (fls.  266/271,  e-STJ).
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. CERCEAMENTO  DE  DEFESA.  JULGAMENTO  VIRTUAL  COM  SUPRESSÃO  DA  SUSTENTAÇÃO  ORAL.  EFETIVO  PREJUÍZO.  DEMONSTRAÇÃO.  AUSÊNCIA. SÚMULA  Nº  83/STJ.  AMBAS  AS  ALÍNEAS.  REEXAME.  CIRCUNSTÂNCIAS  FÁTICAS.  SÚMULA  Nº  7/STJ.
+1.  Recurso  especial  interposto contra acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Na  hipótese,  não  há  como  afastar  a  aplicação  da  Súmula  nº  7/STJ,  tendo  em  vista  que  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita.
+3.  A  jurisprudência  do  Superior  Tribunal  de  Justiça  orienta-se  no  sentido  de  que  a  declaração  da  nulidade  do  ato  processual  está  condicionada  à  demonstração  de  efetivo  prejuízo  (pas  de  nullité  sans  grief).  Precedentes.
+4.  É  pacífico  o  entendimento  do  Superior  Tribunal  de  Justiça  de  que  a  Súmula  nº  83/STJ  se  aplica  a  ambas  as  alíneas  ("a"  e  "c")  do  permissivo  constitucional.  Precedentes.
+5.  Caso  em  que  as  peculiaridades  da  espécie  afastam  a  similitude  fática  entre  os  julgados  confrontados  e  os  precedentes  mencionados  no  agravo  não  autorizam  a  modificação  da  decisão  atacada.
+6.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+No  recurso  especial  (fls.  169/181,  e-STJ),  a  recorrente  alega  que  foram  violados  os  arts.  934  e  937,  I,  do  CPC/2015,  afirmando  que  o  julgamento  da  apelação  em  sessão  virtual,  mesmo  com  oposição  expressa,  impediu  o  direito  à  sustentação  oral  pelo  patrono  constituído.
+Acerca  da  matéria,  o  tribunal  de  origem  assim consignou:
+"(..)
+Primeiramente,  pontua-se  que  se  deve  garantir  a  entrega  da  jurisdição  com  a  devida  celeridade,  sob  pena  de  ofensa  à  garantia  constitucional  da  "razoável  duração  do  processo"  (artigo  5º,  inciso  LXXVIII,  da  Constituição  Federal,  e  artigo  4º  do  Código  de  Processo  Civil).
+Certamente,  a  tanto  este  Relator  se  dedica,  com  o  intuito  de  conferir  a  maior  celeridade  possível  aos  processos  que  lhe  são  distribuídos.
+Uma  vez  julgado  o  mérito  do  recurso  dentro  do  menor  prazo  possível,  não  pode  a  ora  embargante  alegar  nulidade  do  julgado  com  base  em  irregularidade  que  não  lhe  trouxe  qualquer  prejuízo.
+Registre-se  que  a  forma  em  que  realizado  o  julgamento  não  modifica  o  entendimento  exarado  pelos  componentes  da  Turma  Julgadora.
+Ressalte-se  que  não  se  vislumbra  fundamento  algum  a  justificar  a  oposição  do  julgamento  virtual  da  forma  como  feita,  principalmente  considerando  a  situação  excepcional  pelo  qual  passa  não  só  este  Tribunal,  mas  todo  o  planeta,  por  conta  da  crise  pandêmica  que  atravessamos.
+Assim  sendo,  a  oposição  apresentada  mostra-se  despropositada,  até  mesmo  porque  a  parte  não  foi  capaz  de  indicar  qualquer  prejuízo  que  o  julgamento  na  modalidade  virtual  possa  lhe  ter  trazido.
+Em  outras  palavras,  não  houve  demonstração  alguma  de  que  o  julgamento  pela  forma  virtual  trouxe  qualquer  prejuízo,  mesmo  que  em  potencial,  às  partes.
+Salienta-se  que  o  devido  contraditório  foi  respeitado,  tendo  a  parte  a  oportunidade  de  apresentar  suas  razões  em  juízo,  como  assim  o  fez  no  decorrer  de  todo  o  trâmite  processual,  estando  o  acórdão  plenamente  fundamentado  em  suas  razões.
+Até  porque,  não  se  vislumbra  fundamento  algum  a  justificar  a  oposição  do  julgamento  virtual  da  forma  como  feita.
+Com  efeito,  sem  ao  menos  indicar  pretensão  à  sustentação  oral,  não  se  vislumbra  fundamento  algum  a  justificar  a  oposição  condicionada  condicional  tal  como  feita  principalmente  considerando  a  situação  excepcional  pelo  qual  passa  todo  o  planeta.
+Certo  é  que  argumentos  ora  apresentados  pela  embargante  em  nada  refutam  a  conclusão  alcançada  por  este  Colegiado  e  se  encontram,  ademais,  resolvidos  na  fundamentação  lançada  no  acórdão  guerreado"  (fls.  200/201,  e-STJ  -  grifou-se).
+Consoante  se  pode  verificar,  o  aresto  atacado,  após  análise  minuciosa  das  circunstâncias  fáticas  dos  autos  ,  concluiu  que,  na  hipótese,  inexistem  fundamentos  que  justifiquem  a  oposição  ao  julgamento  virtual,  seja  porque  a  ora  agravante  não  indicou  sua  pretensão  de  realizar  sustentação  oral,  seja  porque  a  situação  pandêmica  (Covid-19)  autoriza  o  julgamento  tal  como  foi  feito,  tanto  mais  quando  não  demonstrado  prejuízo  algum  às  partes  e  respeitados  os  princípios  da  celeridade,  do  contraditório  e  da  ampla  defesa.
+Nesse  contexto,  não  há  como  afastar  a  aplicação  da  Súmula  nº  7/STJ,  tendo  em  vista  que,  na  hipótese,  o acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita.
+Ademais,  é  orientação  pacífica  nesta  Corte  que  a  decretação  de  nulidade  de  atos  processuais  depende  de  efetiva  demonstração  de  prejuízo  da  parte  interessada,  por  prevalência  do  princípio  da  instrumentalidade  das  formas  (pas  de  nullité  sans  grief).
+Nesse  sentido:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  AÇÃO  DE  RESCISÃO  CONTRATUAL  CUMULADA  COM  RESTITUIÇÃO  DE  QUANTIA  PAGA  E  COMPENSAÇÃO  POR  DANO  MORAL.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  211/STJ.  REEXAME  DE  FATOS  E  PROVAS.  INADMISSIBILIDADE.  DIREITO  DE  SUSTENTAÇÃO  ORAL  VIOLADO.  NÃO  DEMONSTRAÇÃO  DE  PREJUÍZO.  PAS  DE  NULLITÉSANS  GRIEF.  NULIDADE  NÃO  DECRETADA.  BENEFÍCIO  ECONÔMICO  DO  CLIENTE.  JUSTA  REMUNERAÇÃO  DO  ADVOGADO.
+(..)
+4.  Esta  Corte  Superior  tem  iterativamente  assentado  que  a  decretação  de  nulidade  de  atos  processuais  depende  de  efetiva  demonstração  de  prejuízo  da  parte  interessada,  por  prevalência  do  princípio  da  instrumentalidade  das  formas  (pas  de  nullité  sans  grief),  o  que  não  foi  demonstrado  no  caso.
+  (..)
+6.  Agravo  interno  no  recurso  especial  não  provido"  (AgInt  no  REsp  1.823.654/SP,  Rel.  Ministra  NANCY  ANDRIGHI,  TERCEIRA  TURMA,  julgado  em  10/8/2020,  DJe  14/8/2020  -  grifou-se).
+"CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  AÇÃO  INDENIZATÓRIA.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL  AFASTADA.  CERCEAMENTO  DE  DEFESA.  JULGAMENTO  VIRTUAL  COM  SUPRESSÃO  DA  SUSTENTAÇÃO  ORAL.  AUSÊNCIA  DE  DEMONSTRAÇÃO  DE  EFETIVO  PREJUÍZO.
+(..)
+2.  A  jurisprudência  desta  Corte  Superior  consagrou  o  entendimento  de  que  o  sistema  das  nulidades  processuais  deve  ser  regido  pela  máxima  pas  de  nullité  sans  grief,  segundo  a  qual  não  se  decreta  nulidade  sem  a  efetiva  demonstração  do  prejuízo.
+(..)
+8.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.527.339/MG,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  julgado  em  4/5/2020,  DJe  11/5/2020 -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA  DE  INEXISTÊNCIA  DE  DÉBITO.  DUPLICATA.  TÍTULO  SEM  ACEITE.  DIREITO  DE  SUSTENTAÇÃO  ORAL  VIOLADO.  NÃO  DEMONSTRAÇÃO  DE  PREJUÍZO.  PAS  DE  NULLITÉSANS  GRIEF.  NULIDADENÃO  DECRETADA.  AUSÊNCIA  DE  JULGAMENTO  ULTRA  PETITA.  INTERPRETAÇÃO  LÓGICO-SISTEMÁTICA  DOS  ARGUMENTOS.  SÚMULA  83/STJ.  MODIFICAÇÃO.  REVOLVIMENTO  DE  FATOS  E  PROVAS.  SÚMULA  7/STJ.  AGRAVO  IMPROVIDO.
+1.  No  que  concerne  à  alegada  preliminar  de  nulidade  por  cerceamento  de  defesa,  por  obstada  a  sustentação  oral,  verifica-se  que  a  parte  não  demonstrou  o  prejuízo  concreto  decorrente  da  suposta  violação  desse  direito.  Aplica-se  ao  tema  o  sistema  das  nulidades  processuais  regido  pela  máxima  pas  de  nullité  sans  grief,  segundo  a  qual  não  se  decreta  nulidade  sem  a  efetiva  demonstração  do  prejuízo.
+(..)
+4.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  1.240.070/SP,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  21/10/2019,  DJe  28/10/2019  -  grifou-se).
+Além disso,  quanto  ao  argumento  de  que  a  Súmula  nº  83/STJ  possui  aplicabilidade  restrita  aos  recursos  especiais  interpostos  com  base  em  suposto  dissídio  jurisprudencial,  ressalta-se  que  esta  Corte  Superior  possui  entendimento  pacífico  em  sentido  contrário  ao  alegado  pela  agravante,  admitindo  a  incidência  do  óbice  para  ambas  as  alíneas  do  permissivo  constitucional.
+A  propósito:
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  1.  SÚMULA  83/STJ.  APLICABILIDADE  PARA  AMBAS  AS  ALÍNEAS  (A  E  C)  DO  PERMISSIVO  CONSTITUCIONAL.  2.  FUNDAMENTOS  DA  DECISÃO  DE  INADMISSIBILIDADE  NÃO  ATACADOS.  ART.  544,  §  4º,  I,  DO  CÓDIGO  DE  PROCESSO  CIVIL.  3.  RECURSO  IMPROVIDO.
+1.  É  cediço  o  entendimento  do  Superior  Tribunal  de  Justiça  de  que  o  enunciado  n.  83  da  Súmula  desta  Corte  se  aplica  para  ambas  as  alíneas  (a  e  c)  do  permissivo  constitucional.  Precedentes.
+2.  É  dever  do  agravante  combater  especificamente  os  fundamentos  da  decisão  agravada,  demonstrando  o  desacerto  do  decisum  que  negou  seguimento  ao  recurso  especial,  nos  termos  do  que  preconiza  o  art.544,  §  4º,  I,  do  Código  de  Processo  Civil.
+3.  Agravo  regimental  a  que  se  nega  provimento"  (AgRg  no  AREsp  609.005/RS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  18/6/2015,  DJe  26/6/2015  -  grifou-se).
+"CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  COMPRA  E  VENDA  DE  IMÓVEL.  RESCISÃO.  TAXA  DE  OCUPAÇÃO  DO  BEM.  TERRENO  NÃO  EDIFICADO.  IMPOSSIBILIDADE.  SÚMULA  N.  83/STJ.  INCIDÊNCIA  DAS  SÚMULAS  N.  5  E  7  DO  STJ.  DECISÃO  MANTIDA.
+1.  Consoante  entendimento  desta  Corte,  não  há  enriquecimento  sem  causa  no  caso  de  terreno  não  edificado,  pois  o  comprador  não  pode  residir  no  imóvel,  devendo  ser  afastada  a  cobrança  da  taxa  de  ocupação  do  bem.  Precedente.
+2.  A  Súmula  n.  83  do  STJ  aplica-se  aos  recursos  especiais  interpostos  com  fundamento  tanto  na  alínea  "c"  quanto  na  alínea  "a"  do  permissivo  constitucional.
+3.  O  recurso  especial  não  comporta  exame  de  questões  que  impliquem  o  revolvimento  do  contexto  fático-probatório  dos  autos  e  a  interpretação  de  cláusulas  contratuais  (Súmulas  n.  5  e  7  do  STJ).
+4.  No  caso  concreto,  o  Tribunal  de  origem  analisou  a  prova  dos  autos,  especialmente  as  cláusulas  contratuais,  para  concluir  que  não  há  prova  da  ocupação  do  imóvel  e  para  afastar  a  cobrança  da  respectiva  taxa.  Alterar  tal  conclusão  é  inviável  em  recurso  especial.
+5.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  REsp  1.920.828/SP,  Rel.  Ministro  ANTONIO  CARLOS  FERREIRA,  QUARTA  TURMA,  julgado  em  28/3/2022,  DJe  31/3/2022  -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  AUSÊNCIA  DE  IMPUGNAÇÃO.  ARTIGO  932,  INCISO  III,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  JURISPRUDÊNCIA  CONSOLIDADA.  SÚMULA  Nº  83/STJ.  APLICABILIDADE.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não  pode  ser  conhecido  o  recurso  que  não  infirma  especificamente  os  fundamentos  da  decisão  agravada,  atraindo  o  disposto  no  art.  932,  inciso  III,  do  Código  de  Processo  Civil  de  2015.
+3.  É  pacífico  o  entendimento  do  Superior  Tribunal  de  Justiça  de  que  a  Súmula  nº  83/STJ  se  aplica  a  ambas  as  alíneas  ("a"  e  "c")  do  permissivo  constitucional.  Precedentes.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.517.429/RJ,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  28/9/2020,  DJe  1º/10/2020 -  grifou-se).
+Por  fim,  não  há  similitude  fática  entre  o  caso  em  análise  e  os  precedentes  apontados  no  presente  agravo  (REsps  nºs  1.931.097/SP  e  1.903.730/RS  e  o  RHC  nº  132.145/PR),  tendo  em  vista  que  as  peculiaridades  da  espécie  -  ausência  de  pedido  para  sustentação  oral  e  de  demonstração  de  prejuízo  -  não  foram  divisadas  nos  julgados  postos  a  confronto  neste  recurso,  ou  seja,  não  servem  para  infirmar  a  decisão  atacada.
+Portanto,  os  precedentes  citados  na  decisão  agravada  justificam  a  assertiva  de  que  a  conclusão  do  acórdão  recorrido  não  diverge  da  orientação  traçada  nesta  Corte.
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o voto.
