@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+MARIA JOSÉ SIMÕES (MARIA JOSÉ) apresentou cumprimento de sentença contra COMPANHIA EXCELSIOR DE SEGUROS (COMPANHIA EXCELSIOR), que foi extinta, em primeira instância, com a homologação do crédito no valor de R$ 82.068,35 (oitenta e dois mil, sessenta e oito reais e trinta e cinco centavos), apurado pela contadoria judicial.
+A apelação interposta pela COMPANHIA EXCELSIOR foi provida pelo Tribunal de Justiça de São Paulo, em acórdão relatado pelo Des. CARLOS ALBERTO DE SALLES, assim ementado:
+INDENIZAÇÃO. SEGURO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. MULTA DECENDIAL.
+Insurgência contra sentença de extinção do cumprimento provisório de sentença.
+Preliminares. Não-conhecimento e má fé. Não acolhimento. Fidelidade ao título judicial é questão de ordem pública, podendo ser decidida neste momento, ante a ausência de pronunciamento judicial específico deste Tribunal sobre a questão em cumprimento provisório de sentença. Mérito. Sentença reformada. Limitação da multa ao valor da obrigação principal consta do acórdão que julgou recurso de apelação, de sorte que deve ser observada. Recurso provido (e-STJ, fl. 868).
+Os embargos de declaração opostos por MARIA JOSÉ foram rejeitados (e-STJ, fls. 579/880).
+Na sequência, MARIA JOSÉ manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando violação dos arts. 322, § 1º, do CPC/15, e 389, 395, 404, 407, 412 e 772 do CC/02, pugnando pela incidência dos juros sobre a multa decendial.
+Foram oferecidas contrarrazões (e-STJ, fls. 884/899).
+O Tribunal bandeirante não admitiu o apelo nobre, ante a incidência da Súmula n.º 7 do STJ (e-STJ, fls. 900/902).
+Dessa decisão, MARIA JOSÉ manejou agravo em recurso especial, refutando o óbice de prelibação (e-STJ, fls. 905/907).
+A contraminuta foi apresentada (e-STJ, fls. 920/929).
+Nesta Corte, conheci do agravo para negar provimento ao apelo nobre, em decisão monocrática da minha lavra, assim indexada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. MULTA DECENDIAL. INCIDÊNCIA DE JUROS DE MORA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fls. 947).
+Inconformada, MARIA JOSÉ interpôs o presente agravo interno em agravo em recurso especial arguindo (1) relevância da questão suscitada no presente insurgimento para merecer afetação e suspensão pelo regime de recurso repetitivo (art. 1.036, § 5º, do NCPC); (2) não há identidade dos precedentes indicados a pretexto do julgamento unipessoal baseado na Súmula n.º 568 do STJ, pois aqui o que se discute é o inadimplemento da COMPANHIA EXCELSIOR como causa de aplicação do art. 781do Código Civil, que, em tese, permite a aplicação de juros em caso de mora.Nesse sentido, permanecendoviolados os arts 404, 407 e 781do Código Civil, bem como o art. 322, § 1º, do NCPC.
+Houve apresentação de contraminuta por COMPANHIA EXCELSIOR.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PEDIDO PARA AFETAÇÃO DO CASO AO REGIME DOS RECURSOS REPETITIVOS (art. 1.036, § 5º, do NCPC). DESCABIMENTO. NÃO VISLUMBRADA A NECESSIDADE EM DECORRÊNCIA DE MULTIPLICIDADE DE RECURSOS. MATÉRIA INVOCADA A ESSE PRETEXTO QUE, ALIÁS, NÃO FOI PREQUESTIONADA. SÚMULA N.º 211DO STJ. CUMPRIMENTO DE SENTENÇA. MULTA DECENDIAL. INCIDÊNCIA DE JUROS DE MORA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO CONHECIDO. RECURSO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Se não houve pelo relator e nem pelo órgão auxiliar da Corte Superior, referendado como medida de boa prática pela Resolução CNJ n.º 235/2016, o entendimento sobre a relevância e necessidade de afetação de determinado caso ao regime de recursos repetitivos, sem fundamento o pedido deduzido pela parte a pretexto de dar vazão ao disposto no art.1036, § 5º, do NCPC.
+3. A jurisprudência desta Corte Superior é firme no sentido de que a multa decendial está limitada ao valor da condenação principal, sem o acréscimo dos juros moratórios. Precedentes.
+4. Agravo interno não provido.
+VOTO
+De plano vale pontuar que as disposições do NCPC, no que se refere aosrequisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante ostermos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões adotadas pela decisão recorrida.
+(1) Da inocorrência, ainda, de hipótese de afetação de recurso em regime de repetitivo nos termos do art.1.036 do Código de Processo Civil/2015
+Alega MARIA JOSÉ que a questão objeto deste recurso, ou seja, "se incidem juros moratórios sobre quantia oriunda da mora contratual de seguradora - cláusula penal, à luz do art. 781, CC/02", estaria a merecer destaque em julgamento afetado ao regime de recursos repetitivos pela relevância e extensão de efeitos.
+Mas, por duas razões, o pleito não vinga.
+Em primeiro lugar, embora prevista a hipótese de seleção pelo Relator de dois ou mais recursos representativos da controvérsia para julgamento da questão de direito, independentemente da iniciativa do presidente ou vice-presidente do Tribunal de origem (art. 1.036, § 5º, do NCPC), o fato é que, na presente hipótese, não se vislumbra, por ora, a multiplicidade de recursos especiais com fundamento em idêntica questão jurídica ao ponto de condução do caso à afetação.
+A par disso, sobre o presente caso, também não consta alerta da Comissão Gestora de Precedentes e de Ações Coletivas (COGEPAC) formada por ministros do STJ, da qual, aliás, este Relator é membro suplente.
+Sendo assim,e considerada a criação do órgão mencionado como boa prática pela Resolução CNJ n.º 235/2016, verifica-se inexistência de fundamento hábil para a requerida providência.
+De qualquer modo, a questão da incidência dos juros moratórios sobre quantia oriunda da mora pela perspectiva do art.781 do Código Civil, nem sequer fora matéria prequestionada no Tribunal estadual, de modo que nesta instância aparece como fruto de inovação recursal, encontrando seu óbice também nos ditames da Súmula n.º 211 do STJ.
+(2) Da ausência de violação dos arts 404, 407 e 781do Código Civil, bem como o art. 322, § 1º, do NCPC
+A despeito da alegada violação dos dispositivos que tratam da composição dos juros no pagamento das obrigações em atraso, a Corte estadual deu fundamentação sobre o motivo da não incidência dos juros de mora sobre a base de cálculo que compõe a multa decendial previstas nos contratos de seguro habitacional.
+Nesse sentido, esclareceu:
+A limitação da multa ao valor da obrigação principal constou do acórdão que deu parcial provimento à apelação da ora apelante na fase de conhecimento: "há de se limitar a multa ao montante da obrigação principal, reconhecido pelo C. Superior Tribunal de Justiça, no julgamento do REsp 651.227-SP, sob a relatoria do Min. Humberto Gomes de Barros, que: É válida a multa decendial pactuada para o atraso do pagamento da indenização, limitada ao valor da obrigação principal" (p. 16).
+A questão, no caso, é o que se deve compreender por obrigação principal: se somente o valor da indenização atualizado ou se sobre ele devem incluir juros de mora. Quando a esse ponto, deve-se ter em vista que o v. acórdão, que julgou recurso de apelação interposto anteriormente pela apelante, deu parcial provimento ao apelo para "limitar o valor da multa decendial ao da obrigação principal, mantida no mais a r. sentença como lançada" (p. 18).
+Como já se adiantou, assiste razão à apelante: a multa é acessória à condenação, da mesma forma que os juros de mora, de sorte que descabida a incidência de um acessório sobre outro acessório, porque a multa não integrava o patrimônio do credor e somente passou a ser devida com a condenação (e-STJ, fls. 869).
+Assim, dando o acórdão recorrido o fundamento baseado na estrita observância do princípio da restitutioin integrum e estando o entendimento lastreado por jurisprudência vasta e atualizada desta Corte de precedentes, forçoso crer que a negativa de tráfego ao apelo nobre era mesmo insuperável, incidindo, ainda, na hipótese, a vedação da Súmula n.º 83 do STJ.
+Por oportuno, vale conferir, no mesmo sentido, o acórdão guerreado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. INDENIZAÇÃO SECURITÁRIA. CUMPRIMENTO DE SENTENÇA. INOCORRÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/15. ENTENDIMENTO DO TRIBUNAL LOCAL EM SINTONIA COM JURISPRUDÊNCIA DO STJ. SÚMULA N. 83/STJ. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação do art. 1.022 do CPC/2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. "Consoante entendimento desta Corte Superior, a multa decendial, prevista no contrato de seguro habitacional e devida em função do atraso no pagamento da indenização securitária, deve ser limitada ao valor da obrigação principal, sem o acréscimo de juros moratórios."
+(AgInt no AREsp 1439919/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/06/2020, DJe 01/07/2020).
+3. Estando o acórdão recorrido em consonância com a jurisprudência do eg. STJ, o apelo nobre encontra óbice na Súmula n. 83/STJ, aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.060.198/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 15/8/2022, DJe de 26/8/2022 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. SEGURO HABITACIONAL. IMPUGNAÇÃO AO CUMPRIMENTO PROVISÓRIO DE SENTENÇA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME PELO SUPERIOR TRIBUNAL DE JUSTIÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. MULTA DECENDIAL. JUROS DE MORA. DESCABIMENTO. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA 83/STJ. MULTA. ART. 1.021, § 4º, DO CPC/2015. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Inviável a análise de ofensa aos dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada à Corte Suprema.
+2. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+3. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Corte, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+4. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do CPC/2015, devendo ser analisado caso a caso.
+5. Razões recursais insuficientes para a revisão do julgado.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 2.024.750/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/5/2022, DJe de 25/5/2022 - sem destaque no original)
+Assim, como MARIA JOSÉ não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não provimento do recurso especial.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
