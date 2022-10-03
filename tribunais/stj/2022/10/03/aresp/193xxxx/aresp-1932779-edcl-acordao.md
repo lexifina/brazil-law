@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração, contra acórdão da Segunda Turma, proferido em agravo interno, cuja ementa é a seguinte:
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. COBRANÇA DE VENCIMENTOS INTEGRAIS. DESINCOMPATIBILIZAÇÃO ELEITORAL. NÃO CONHECIMENTO DO AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação ordinária em que se pleiteia o pagamento de vencimentos integrais durante período de desincompatibilização eleitoral. Na sentença, julgaram-se procedentes os pedidos. No Tribunal a quo, a sentença foi mantida. Mediante análise dos autos, verifica-se que a decisão inadmitiu o recurso especial com base na incidência da Súmula n. 83/STJ, da Súmula n. 284/STF e da Súmula n. 283/STF. Entretanto, a parte agravante deixou de impugnar especificamente o óbice referente à ocorrência da Súmula n. 284/STF.
+II - São insuficientes para considerar como impugnação aos fundamentos da decisão que inadmite o recurso especial na origem: meras alegações genéricas sobre as razões que levaram à negativa de seguimento, o combate genérico e não específico e a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do agravo em recurso especial.
+III - Incumbe à parte, no agravo em recurso especial, atacar os fundamentos da decisão que negou seguimento ao recurso na origem. Não ofazendo, é correta a decisão que não conhece do agravo nos próprios autos.
+IV - Agravo interno improvido.
+Nas razões dos aclaratórios, a parte sustenta, em síntese, os seguintes argumentos:
+ ..
+Diferentemente do alegado no acórdão ora embargado, a decisão monocrática não deixou de conhecer o agravo em recurso especial por ausência de impugnação específica. Aliás, conforme grifado acima o agravo foi conhecido para não conhecer do recurso especial por incidência da súmula 284/STF e por entender que não é cabível o recurso excepcional fundado em violação ou interpretação divergente de resolução.
+Nota-se, portanto, que os fundamentos do acórdão estão dissociados da decisão monocrática, bem como não enfrentou as razões postas no agravo interno (fls. 517 -529, e-STJ), consubstanciando, respectivamente, obscuridade e omissão.
+ ..
+Na origem, trata-se de ação ordinária em que se pleiteia o pagamento de vencimentos integrais durante período de desincompatibilização eleitoral. Na sentença, julgaram-se procedentes os pedidos. No Tribunal a quo, a sentença foi mantida. No STJ, em decisão monocrática da lavra do Min. Presidente desta Corte, conheceu-se do agravo para não conhecer do recurso especial, ante a incidência da Súmula n. 284/STF e por não ser cabível recurso especial contra interpretação de norma infralegal - Resolução.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO/OBSCURIDADE. VERIFICADA. ERRO MATERIAL. NOVA FUNDAMENTAÇÃO CONSENTÂNEA COM OS ARGUMENTOS TRAZIDOS NA PEÇA RECURSAL E NA DECISÃO AGRAVADA. EMBARGOS PARCIALMENTE ACOLHIDOS.
+I -Na origem, trata-se de ação ordinária em que se pleiteia o pagamento de vencimentos integrais durante período de desincompatibilização eleitoral. Na sentença, julgaram-se procedentes os pedidos. No Tribunal a quo, a sentença foi mantida. No STJ, em decisão monocrática da lavra do MinistroPresidente desta Corte, conheceu-se do agravo para não conhecer do recurso especial, ante a incidência da Súmula 284/STF e por não ser cabível recurso especial contra interpretação de norma infralegal - Resolução.
+II - Acompetência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, mas também a delimitação da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizando o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.Dessa forma, verificado que o recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+III - Verifica-se ser incabível a indicação de ofensa a dispositivo inserto em Resolução, porquanto tal regramento não se caracteriza como "lei federal", não se inserindo no disposto no art. 105, III, a, da Carta Magna.
+IV - Embargos de declaração parcialmente acolhidos, para negar provimento ao agravo interno, por outros fundamentos.
+VOTO
+Razão parcial assiste ao ora embargante. De fato há erro material na decisão embargada, devendo ser retificado para constar fundamentação a respeito do exame das razões do agravo interno.
+Nesse passo, cumpre asseverar que acompetência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal.
+Nesse contexto, impõe-se não apenas a correta indicação dos dispositivos legais federais supostamente contrariados pelo Tribunal a quo, mas também a delimitação da violação da matéria insculpida nos regramentos indicados, para que, assim, seja viabilizando o necessário confronto interpretativo e, consequentemente, o cumprimento da incumbência constitucional revelada com a uniformização do direito infraconstitucional sob exame.
+Dessa forma, verificado que o recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF". (AgRg no REsp n. 919.239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007.)
+2. O Tribunal de origem concluiu: "No mérito, trata-se de ação de obrigação de fazer cumulada com pleito indenizatório, através da qual objetivou a autora obstar cobrança pela ré em relação à tarifa de esgoto, serviço não prestado pela concessionária, bem como a repetição, em dobro, dos valores já pagos" (fl. 167, e-STJ).
+3. A agravante sustenta não haver na demanda pedido que objetive o cumprimento de obrigação de fazer/não fazer. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido, com o objetivo de rever o objeto do pedido deduzido na petição inicial, implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 983.543/RJ, Rel. Ministro Herman Benjamin, DJe 5/5/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SUPOSTO ERRO MATERIAL. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. SERVIDOR PÚBLICO. GDAR. TRANSFORMAÇÃO EM VPNI. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+I - Pretende o agravante o reconhecimento de que a gratificação GDAR, transformada em VPNI, não foi retirada do ordenamento jurídico pela Lei n. 11.784/08 e que sua supressão vai de encontro ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos.
+II - Considera-se deficiente a fundamentação do recurso que deixa de estabelecer, com a precisão necessária, quais os dispositivos de lei federal que considera violados, para sustentar sua irresignação pela alínea a do permissivo constitucional, o que atrai a incidência do enunciado n. 284 da Súmula STF.
+III - O Tribunal de origem não analisou o erro material mencionado nas razões recursais, não debateu a suposta afronta ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos, tampouco examinou a matéria recursal à luz do art. 29 da Lei n. 11.094/05.
+IV - Descumprido o necessário e indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, de maneira a atrair a incidência dos enunciados n. 282 e n. 356 da Súmula do STF, sobretudo ante a ausência de oposição dos cabíveis embargos declaratórios a fim de suprir os supostos erro material e a contradição do julgado.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.597.355/CE, Rel. Ministro Francisco Falcão, DJe 10/3/2017.)
+De outra parte, verifica-se ser incabível a indicação de ofensa a dispositivo inserto em Resolução, porquanto tal regramento não se caracteriza como "lei federal", não se inserindo no disposto no art. 105, III, a, da Carta Magna.
+Nesse sentido, confiram-se os seguintes precedentes, in verbis:
+ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA E INDENIZAÇÃO. DESPESAS COM OBRAS DE INFRAESTRUTURA PARA A IMPLANTAÇÃO DE REDE ELÉTRICA EM LOTEAMENTO PARTICULAR. RESPONSABILIDADE LEGAL DO LOTEADOR. DECISÃO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. É VEDADA A ANÁLISE DE MATÉRIA, CONSTANTE EM PORTARIA, EM SEDE DE RECURSO ESPECIAL. VIOLAÇÃO DO PRINCÍPIO DO TEMPUS REGIT ACTUM. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. AGRAVO INTERNO DA SOCIEDADE EMPRESÁRIA A QUE SE NEGA PROVIMENTO.
+(..)
+4. Este Superior Tribunal de Justiça já firmou entendimento de que Portarias, Circulares e Resoluções não se equiparam a Leis Federais para fins de interposição do Recurso Especial. Assim, a alegada violação dos arts. 136, 138 e 140 do Decreto 41.019/1957 pela Portaria 005/1990 do DNAEE tem a sua análise vedada no âmbito desta Corte Superior de Justiça.
+(..)
+6. Agravo Interno da Sociedade Empresária a que se nega provimento.
+(AgInt no AREsp 1034775/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 13/05/2019, DJe 20/05/2019.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IPTU. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ILEGITIMIDADE PASSIVA. FALECIMENTO DO PROPRIETÁRIO ANTES DA EXECUÇÃO FISCAL. ALÍNEA "C" DO ART. 105 DA CONSTITUIÇÃO. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA 284 DO STF.
+(..)
+3. Não cabe ao Superior Tribunal de Justiça, em recurso especial, examinar tal violação, na medida em que o ato normativo não é enquadrado no conceito de lei federal. Conforme o art. 105, III, alínea "a", da Constituição Federal, não se permite ampliar a competência desta Corte Superior para, em recurso especial, examinar eventual ofensa a súmulas, resoluções, regulamentos, portarias, circulares ou instruções normativas, por não estarem tais atos normativos compreendidos na expressão "lei federal".
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1645453/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/02/2019, DJe 28/02/2019.)
+Ante o exposto, acolho parcialmenteos embargos de declaração, para substituir a fundamentação da decisão embargada, negando provimento ao agravo interno, por outros fundamentos, nos termos acima expostos.
+É o voto.
