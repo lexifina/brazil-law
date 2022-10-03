@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se de ação declaratória de nulidade de débito fiscal. A sentença julgou parcialmente procedente a demanda.No Tribunal a quo, a sentença foi mantida, conforme a seguinte ementa do acórdão:
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA DE DÉBITO FISCAL - REMESSA DE OURO - PRESCRIÇÃO - INOCORRÊNCIA - DEMORA DA MÁQUINA JUDICIÁRIA - PROCEDIMENTO ADMINISIRATIVO E DOCUMENTOS FISCAIS HÁBEIS À AUTUAÇÃO - AUSÊNCIA DE DOCUMENTAÇÃO PARA CARAC IERIZAÇÃO COMO ATIVO FIXO - AUSÊNCIA DE NOTAS FISCAIS - INDICÊNCIA DO ICMS - PERÍODO NÃO COMPREENDIDO PELO BENEFÍCIO DA LEI 6.311/93 - APELO DESPROVIDO. Não houve anulação do auto ou do lançamento do débito mas tão somente da sentença que havia reduzido o valor da alíquota imposto, e não há como acolher a alegação de prescrição porquanto a demora se deve a morosidade da máquina judiciária em proferir nova sentença, não havendo computado o período em desfavor da Fazenda Estadual. A autuação decorreu de uma incursão lógica no contexto documental apresentado, não sendo apresentada impugnação idônea aos documentos. Para que o ouro seja considerado ativo financeiro, tem que estar devidamente caracterizado como tal na forma da Lei (federal) nº 7.766/89; devendo a instituição financeira compradora do metal estar credenciada pelo Banco Central do Brasil a efetuar este tipo de transação; além disso deve ser observada as regras de procedimentos estatuídas pela Receita Federal envolvendo o IOF e os documentos fiscais inerentes à operação. O Auto de Infração p. 15, diz respeito ao período fiscalizado de março a novembro de 1989, desta forma, não goza do beneficio de isenção conferido no artigo 2º, e como não houve pedido para limitação da alíquota para 1% nos termos do artigo 1º não é possível a sua redução. Apelo desprovido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente apontoucomo violados os arts. 1º e 4º da Lein 7.766/1989, sustentando, em síntese, que deve ser afastada a incidência de ICMS sobre a operação realizada pela recorrente, uma vez que o ouro teria sido utilizado não como "mercadoria", mas sim como ativo financeiro, sendo, portanto, tributado exclusivamente pelo IOF.
+Alegou ainda a ofensa ao art. 106, II, c, do CTN, ao argumento de que não há que se falar em julgamento extra petita, em relação ao pedido subsidiário de redução da alíquota aplicada de ICMS para o percentual de 1% (um por cento), uma vez que, por ser tratar de matéria de ordem pública, seria aplicável de ofício a qualquer tempo.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, foi interposto agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante trazargumentos contrários à decisão recorrida.
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. PROCEDIMENTO ADMINISTRATIVO E DOCUMENTOS FISCAIS HÁBEIS À AUTUAÇÃO. AUSÊNCIA DE DOCUMENTAÇÃO PARA CARACTERIZAÇÃO COMO ATIVO FIXO. AUSÊNCIA DE NOTAS FISCAIS.INDICÊNCIA DO ICMS. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação declaratória de nulidade de débito fiscal. A sentença julgou parcialmente procedente a demanda. No Tribunal a quo, a sentença foi mantida.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Sobre a alegada violação do art. art. 106, II, do CTN, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo do dispositivo legal apontado. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+ ..
+De acordo com dispositivo transcrito, para que o ouro seja considerado um ativo financeiro é necessário que seja vendido para instituição financeira integrante do Sistema Financeiro Nacional-SFN, devidamente credenciada e autorizada pelo Banco Central do Brasil a operar com tal metal e, por conseguinte, enquanto ativo financeiro, o ouro não está sujeito a incidência do ICMS, e sim apenas ao IOF.
+ ..  In casu, o procedimento administrativo instaurado p. 73/78 e 129/130, concluíram pela incidência do ICMS - imposto de Circulação de Mercadorias e Serviços, principalmente em razão de que os produtos transportados estavam desacompanhados de Notas Fiscais bem como não havia qualquer documento que atestasse o tipo de operação que estava sendo realizada.
+ ..
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+Sobre a alegada violação do art. art. 106, II, do CTN, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo do dispositivo legal apontado.Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
