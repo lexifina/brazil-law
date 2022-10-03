@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por BEIT CORRETORA E CONSULTORIA DE SEGUROS LTDA, contra decisão proferida pela Presidência deste Superior Tribunal de Justiça que não conheceu do recurso especial, ante o óbice doenunciadodaSúmula 7/STJ.
+Nas razões do agravo interno a parte agravante sustenta, em suma, que (e-STJ, fls. 345e 346):
+7. Como apontado no Agravo em Recurso Especial, o argumento trazido no Recurso Especial consiste exclusivamente na violação do art. 373, inciso II, do Código de Processo Civil, especificamente no que tange à valoração da prova anexada aos autos pela parte adversa, uma vez que, conforme suscitado no referido recurso, o agravado não se desincumbiu do ônus probatório previsto noinciso II do art. 373 do Código de Processo Civil, tendo fundamentado a existência de débito da agravante em uma planilha formatada Como apontado no Agravo em Recurso Especial, o argumento trazido no Recurso Especial consiste exclusivamente na violação do art. 373, inciso II, do Código de Processo Civil, especificamente no que tange à valoração da prova anexada aos autos pela parte adversa, uma vez que, conforme suscitado no referido recurso, o agravadonão se desincumbiu do ônus probatório previsto noinciso II do art. 373 do Código de Processo Civil, tendo fundamentado a existência de débito da agravante em uma planilha formatadaunilateralmente no Excel (fls. 167), sem força para comprovar fato impeditivo, modificativo ou extintivo da Beit.unilateralmente no Excel (fls. 167), sem força para comprovar fato impeditivo, modificativo ou extintivo da Beit.
+8. Nesse sentido, é incontestável que não há necessidade de reexame de fatosou de provas para apreciação do recurso interposto perante esteSuperior Tribunal de Justiça,visto que o argumento trazido no Recurso Especial consiste exclusivamente na corretavaloração jurídica da prova supracitada.8. Nesse sentido, é incontestável que não há necessidade de reexame de fatosou de provas para apreciação do recurso interposto perante esteSuperior Tribunal de Justiça,visto que o argumento trazido no Recurso Especial consiste exclusivamente na corretavaloração jurídica da prova supracitada.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO PARCIALMENTE PROVIDOS. DÉBITO EXEQUENDO QUE REMANESCE. ALEGAÇÃO DE QUE APARTEAGRAVADANÃO SE DESINCUMBIU DO ÔNUS PROBATÓRIO PREVISTO NOINCISO II DO ART. 373 DO CÓDIGO DE PROCESSO CIVIL.NECESSIDADE DEREEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido pela agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+A decisão recorridanão conheceu do recurso especial, em razão da incidência doóbicedasúmula7/STJ.
+Quanto à alegação de violação do artigo 373, inciso II, do CPC, no que concerne à tese deque o agravado não se desincumbiu do ônus probatório previsto no inciso II do art. 373 do Código de Processo Civil, tem-se que o Tribunal de origem, soberano na análise dos fatos e provas, e embasado nas provas carreadas aos autos, decidiu que (e-STJ, fls. 244/245):
+Pelo exame dos documentos juntados aos presentes autos pela embargante, não há comprovação de quitação da divida.
+Em análise detida, tem-se que, sem considerar os encargos moratórios,isto é, levando-se em contra somente os valores nominais das 24 parcelas pactuadas, ainda remanesce saldo devedor.
+ ..
+Desse modo, a sentença carece de reforma, eis que, como visto, não houve quitação integral do débito no valor nominal, e ainda deve se considerar incidentes os encargos moratórios previstos contratualmente, eis, que, de fato, alguns pagamentos se deram com atraso, aos quais se permite ao exequente cobrar os acréscimos legais e contratuais, não sendo possível neste momento ingressar nesse mérito, sob pena de incorrer em supressão de instância, ainda mais porque nova planilha atualizada, devido ao resultado deste julgamento, deverá ser apresentada pelo exequente, quando será oportunizado ao devedor questionar os cálculos.
+Nessa esteira, verifica-se que alterar o entendimento do acórdão recorrido no sentido de que "Pelo exame dos documentos juntados aos presentes autos pela embargante, não há comprovação de quitação da divida",demandaria necessariamente o reexame do contexto fático-probatório dos autos, providênciavedadanesta sede especial, a teor das Súmula 7/STJ.
+Assim, como registrado na decisão recorrida, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018.)
+Dessa forma, o entendimento firmado pela Presidência desta Casa deve ser mantido pelos seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de MULTA por conduta processual indevida (art. 1.026, § 2º, do CPC/2015).
+É o voto.
