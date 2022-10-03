@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de embargos de declaração opostos por FORD MOTOR COMPANY BRASIL LTDA. em face do acórdão de fl. 1.139, assim ementado:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. NÃO IMPUGNAÇÃO. EXIGÊNCIA DO ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. NÃO CUMPRIMENTO. SÚMULA 182/STJ.
+APLICAÇÃO ANALÓGICA. AGRAVO NÃO PROVIDO.
+1. Nos termos do art. 932, inciso III, do Código de Processo Civil de 2015, necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso. Aplicação analógica da Súmula 182/STJ.
+2. Agravo interno a que se nega provimento.
+A embargante combate o acórdão recorrido arguindo que "foi específica em impugnar, desde o seu recurso especial, a ofensa ao art. 1.022 do CPC" (fl. 1.153).
+Requer, outrossim, a retratação desta Relatora ou o provimento do recurso pelo órgão colegiado.
+Intimada à fl. 1.158, não houve impugnação da parte embargada (certidão de fl. 1.161).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. REJEIÇÃO.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. Embargos de declaração rejeitados.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A irresignação não merece acolhida.
+O acórdão embargado analisou detidamente as razões do recurso especial, nos seguintes termos. Confiram-se (fls. 1.144/1.148):
+O agravo interno não merece provimento.
+Os argumentos jurídicos trazidos nas razões do presente recurso não se prestam a modificar o posicionamento anteriormente adotado.
+A decisão ora agravada foi interposta contra acórdão assim ementado (fls. 988/989):
+Agência e distribuição. IPI na compra e venda de veículos novos.
+Base de cálculo do tributo com inclusão dos descontos incondicionais concedidos. Montadora que, com anuência de suas concessionárias, ingressou com ações judiciais para questionar a base de cálculo e solicitar crédito sobre o montante pago a maior. Impetração de três mandados de segurança com decisões favoráveis e transitadas em julgado. Montadora que não repassou o valor correspondente ao crédito da autora. Ajuizamento de ação de cobrança pela concessionária. Ação julgada procedente. Interesse processual.
+Ajuizamento de ação rescisória pela União Federal e que se encontra pendente do julgamento no Tribunal Federal. Irrelevância.
+Precedentes jurisprudenciais. Aforamento de execuções fiscais para cobrança de diferença de IPI no período, com posterior adesão da ré ao PERT. Ausência de demonstração de concorrência da autora à infração apurada.
+Lançamentos fiscais efetuados pela ré como fabricante e com perfeito controle dos descontos concedidos. Depósitos não integrais da dívida.
+Apuração em liquidação. Autora não constituída em mora na forma permitida pelo ordenamento. Sentença mantida. Recurso improvido, com observação.
+Há interesse processual da autora em reclamar pagamento do seu crédito. Os mandados de segurança impetrados pela ré, como montadora e fabricante dos veículos, em nome de suas concessionárias, restaram concedidos por decisões definitivas, sendo irrelevantes ações rescisórias movidas pela Fazenda Federal, na esteira, aliás, de jurisprudência pacífica desta Corte em relação ao tema e envolvendo negócios similares. Nem se mostra relevante o fato do ajuizamento de execução fiscal decorrente da conferência feita pelo fisco nos negócios realizados pela ré no período com suas concessionárias, pois os lançamentos do IPI são de responsabilidade da ré, como contribuinte, com perfeito controle dos preços e dos descontos, não a socorrendo argumento genérico envolvendo todas as concessionárias, reclamando, isto sim, demonstração específica da concorrência da autora na infração fiscal.
+Cabe à ré, como responsável e beneficiária direta das decisões que consideraram ilegais o cômputo dos descontos concedidos às concessionárias na base de cálculo do IPI, repassar a elas a parte que lhes cabe, calculando individualmente os valores finais pagos na origem por cada concessionária, devidamente atualizados na forma avençada no contrato e com juros do momento em que deveria ser pago o principal.
+A autora não restou constituída em mora e a convenção pelo jornal, feita de forma genérica, a tanto não se presta.
+A adesão ao PERT beneficia apenas a ré e seus efeitos, por ausência de demonstração de concorrência da autora, não podem ser estendidos neste processo.
+Os depósitos feitos não são integrais, embasados em cálculos unilaterais e questionados pela autora. Daí porque a apuração do saldo restou relegada para a fase de cumprimento de sentença.
+Da atenta leitura dos autos verifica-se que a parte ora agravante, nas razões do agravo em recurso especial, efetivamente, deixou de impugnar as razões para a conclusão de não configuração de afronta ao art. 1.022 do Código de Processo Civil/2015, o que devidamente confirmado nas próprias razões deste agravo.
+Nesse contexto, impende ressaltar que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, inciso III, do Código de Processo Civil de 2015, e pela aplicação analógica da Súmula 182/STJ. Nesse sentido, confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Nos termos do art. 1021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182/STJ.
+2. Agravo interno não conhecido. (AgInt no AREsp 968.815/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 10.2.2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 2 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, o não conhecimento do agravo em recurso especial por ter sido apresentado em desacordo com os requisitos do art. 544, § 4º, I, do CPC/73. Incidência da Súmula nº 182 do STJ e violação do art. 1021, § 1º, do NCPC.
+3. Agravo interno não conhecido. (AgInt no AREsp 878.403/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 23.6.2016)
+Imprescindível, portanto, para o conhecimento do recurso, que seja feita a impugnação específica de todos os seus motivos determinantes, explicitando-se, de forma articulada e argumentativa, as razões que justificariam a prolação de decisão em sentido diverso.
+A Corte Especial do STJ, em recente julgamento (EAREsp 746.775/PR), manteve o citado entendimento, sob pena de não conhecimento do agravo, ante a incidência da Súmula 182/STJ. Confira-se a ementa do aludido julgado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 30.11.2018)
+Nesse precedente, o Colegiado, por maioria, negou provimento aos embargos de divergência e manteve a decisão da Segunda Turma do STJ, que não conheceu do agravo, por aplicação da Súmula 182/STJ, visto que a parte agravante não atacou todos os pontos da decisão que não admitiu o recurso especial.
+Conforme o voto vencedor, tanto no Código de Processo Civil/1973 quanto no Código de Processo Civil/2015 há regra expressa que remete às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade da impugnação de todos os fundamentos da decisão que não admite recurso especial.
+Para o Ministro relator, não há possibilidade de impugnação parcial da decisão que deixa de admitir recurso especial, já que tal decisão é incindível e deve ser impugnada em sua integralidade. A não obediência a essa regra implicaria o exame indevido de questões (já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em se manifestou no momento oportuno), pois o conhecimento do agravo obriga o STJ a conhecer de todos os fundamentos do recurso especial.
+Em face do exposto, não havendo o que se reformar, nego provimento ao agravo interno.
+É como voto.
+No presente recurso, busca-se, em verdade, a modificação do julgado por via sabidamente inadequada, na medida em que os embargos de declaração são recursos de fundamentação vinculada, adstritos à correção dos vícios de omissão, contrariedade, obscuridade ou, ainda, erro material. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. REITERAÇÃO DE RECURSO PROTELATÓRIO.
+1. A parte reitera embargos de declaração manifestamente protelatórios, a ensejar a majoração da multa anteriormente aplicada, ficando a interposição de qualquer outro recurso condicionada ao depósito prévio de respectiva quantia, nos termos do art. 1.026, § 3º, do CPC/15, salvo eventual concessão da assistência judiciária gratuita, hipótese na qual o recolhimento deve ser feito ao final.
+2. Embargos de declaração rejeitados, com majoração da multa. (EDcl no AgInt nos EDcl no AREsp 1850273/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 1.12.2021)
+Em face do exposto, não configurado vício no julgado ora embargado, rejeito os embargos de declaração.
+É como voto.
