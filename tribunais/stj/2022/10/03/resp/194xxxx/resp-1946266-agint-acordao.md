@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto pela UNIÃO contra decisão proferida às e-STJ fls. 328/329, por meio da qual não conheci do recurso especial, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO AO ART. 20 DO CPC/73. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. MERA TRANSCRIÇÃO DAS EMENTAS DOS ACÓRDÃOS PARADIGMAS. FALTA DE INDICAÇÃO DO DISPOSITIVO COM INTERPRETAÇÃO DIVERGENTE. RECURSO ESPECIAL NÃO CONHECIDO.
+Nas razões de agravo interno, a agravante alega que "em que pese a afirmação de que a União apenas teria utilizado a violação ao art. 20 do CPC/73 para justificar o apelo extremo, observa-se que também houve o apontamento ao corresponde art. 85, §2º do CPC/15. Logo, deve ser afastada a aplicação da Súmula 211 do STJ" (e-STJ fl. 334).
+Sustenta que ultrapassado o óbice processual, deve ser aplicada a tese fixada no Tema nº 1076/STJ.
+Requer, assim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado, para que seja conhecido e provido o recurso especial.
+Contraminuta ao agravo interno apresentada às e-STJ fls. 340/347.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO AO ART. 20 DO CPC/73. HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo já consignado na decisão agravada, o Tribunal de origem não se manifestou sobre o art. 20 do CPC/1973, uma vez que a controvérsia foi decidida com base no art. 85, §§ 2º e 8º, do CPC/2015.
+2. O fato da agravante ter mencionado o art. 85 do CPC/2015 nas razões do recurso especial não significa que ele também foi apontado como violado, pois incumbe ao recorrente indicar de forma clara, específica e individualizada, o dispositivo violado pelo Tribunal de origem, não cabendo ao magistrado inferir qual teria sido o dispositivo malferido a partir das razões recursais.
+3. Agravo interno não provido.
+VOTO
+Razão não assiste à agravante.
+Segundo já consignado na decisão agravada, o Tribunal de origem não se manifestou sobre o art. 20 do CPC/1973, uma vez que a controvérsia foi decidida com base no art. 85, §§ 2º e 8º, do CPC/2015.
+Além disso, ao contrário do que sustenta a agravante, nas razões do recurso especial foi alegada apenas violação ao art. 20 do CPC/1973.
+Destaca-se o seguinte trecho das razões do recurso especial (e-STJ fl. 274, sem grifo no original):
+Desse modo, entende a União que o v. acórdão merece ser reformado, por ferir o artigo 20, do CPC/73 ou, ainda, por divergência jurisprudencial, na medida em que os julgados colacionados revelam que o arbitramento nestes autos implica em valor ínfimo a ensejar o recurso especial e a reforma do v. acórdão.
+Importante ressaltar ainda que a simples menção, indicação ou transcrição de artigo de lei nas razões do recurso especial não é suficiente para o conhecimento do recurso. Incumbe ao recorrente indicar de forma clara, específica e individualizada, o dispositivo violado pelo Tribunal de origem, não cabendo ao magistrado inferir qual teria sido o dispositivo malferido a partir das razões recursais.
+Nesse sentido os seguintes precedentes desta Corte:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESTABELECIMENTO DE AUXÍLIO DOENÇA/APOSENTADORIA POR INVALIDEZ. RECURSO INTERPOSTO PELA ALÍNEA "A". INDICAÇÃO ESPARSA DE DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS. SÚMULA 284/STF. ACÓRDÃO DO TRIBUNAL DE ORIGEM COM BASE NAS PROVAS DOS AUTOS E EM EXAME DO LAUDO PERICIAL. REALIZAÇÃO DE NOVA PERÍCIA. DESNECESSIDADE. SISTEMA DA PERSUASÃO RACIONAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. Trata-se de Agravo Interno contra decisão proferida pela Presidência do STJ que conheceu do Agravo para não conhecer do Recurso Especial, em face da incidência da Súmula 284/STF
+2. O Recurso Especial interposto pela alínea "a" do permissivo constitucional exige demonstração inequívoca de ofensa a dispositivo infraconstitucional, bem como sua particularização, a fim de possibilitar seu exame em conjunto com o decidido nos autos.
+3. Ressalto que a simples menção a normas infraconstitucionais, feita de maneira esparsa e assistemática no corpo das razões do Recurso Especial, não supre a exigência de fundamentação adequada do apelo especial. Incidência, por analogia da Súmula 284 do STF.
+4. Ainda que fosse superado tal óbice, a irresignação não mereceria prosperar, porquanto o STJ tem o entendimento de que compete ao magistrado, como destinatário final da prova, avaliar a pertinência das diligências que as partes pretendem realizar, segundo as normas processuais, e afastar o pedido de produção de provas, se estas forem inúteis ou meramente protelatórias, ou, ainda, se já tiver ele firmado sua convicção, nos termos dos arts. 370 e 371 do CPC/2015 (arts. 130 e 131 do CPC/1973).
+5. Desse modo, os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstradas a instrução do feito e a presença de dados suficientes à formação do convencimento.
+6. Assim, o exame da pretensão recursal de reforma do acórdão recorrido, exige revolvimento e alteração das premissas fático-probatórias estabelecidas pelo Tribunal a quo, o que é vedado em Recurso Especial, nos termos do enunciado da Súmula 7 do STJ.
+7. Agravo Interno não provido.
+(AgInt no AREsp 1928578/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/03/2022, DJe 28/03/2022)
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ARTIGOS DE LEI MENCIONADOS DE PASSAGEM NA PETIÇÃO DE RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. DISSÍDIO NÃO DEMONSTRADO. NECESSIDADE DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO.
+1. Impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto. Incide na espécie, por analogia, o enunciado n. 284, da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Precedente: REsp. n. 1.116.473 / RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 02.02.2012.
+2. Quanto ao dissídio, além de não ter sido adequadamente demonstrado (houve apenas colagem de ementas), de observar que a jurisprudência deste STJ firmou-se no sentido de que mesmo na interposição do especial pelo dissídio deve ser invocado o dispositivo de lei violado para fins de conhecimento do recurso especial pela alínea "c", do art. 105, III, da CF/88. Precedentes: AgRg no REsp 1395538 / PB, Segunda Turma, Rel. Min. Herman Benjamin, julgado em 19.09.2013; AgRg no REsp 1311820 / PB, Primeira Turma, Rel. Min. Sérgio Kukina, julgado em 20.06.2013; AgRg no REsp 1347090 / SP, Quinta Turma, Rel. Min. Jorge Mussi, julgado em 18.12.2012.
+3. O recurso de agravo interno não pode ser utilizado para corrigir, complementar ou esclarecer a petição do recurso especial.
+4. Agravo interno não provido.
+(AgInt no REsp 1958451/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/03/2022, DJe 25/03/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO INDICAÇÃO DE MANEIRA PRECISA DOS DISPOSITIVOS VIOLADOS. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Nas razões do recurso especial a parte recorrente não aponta, de maneira clara e fundamentada, quais os artigos de lei a que faz referência teriam sido violados, tampouco a forma pela qual teria se dado referida vulneração.
+2. O recurso especial não é um menu onde a parte recorrente coloca à disposição do julgador diversos dispositivos legais e diversas argumentações para que esse escolha, a seu juízo, qual deles tenha sofrido violação e, por esforço hermenêutico, extraia de que forma o direito foi maculado na espécie.
+3. É imprescindível que no recurso especial fundado na alínea "a" do permissivo constitucional sejam particularizados de forma inequívoca os normativos federais supostamente contrariados pelo Tribunal de origem, cuidando o recorrente de demonstrar, mediante argumentação lógico-jurídica competente à questão controversa apresentada, de que maneira o acórdão impugnado teria ofendido a legislação mencionada.
+4. Isso porquê o recurso especial é de fundamentação vinculada, não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado e como se deu referida vulneração a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente.
+5. O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, atrai a incidência da Súmula 284/STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 1621098/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 14/03/2022, DJe 18/03/2022)
+Assim sendo, o fato da agravante ter mencionado o art. 85 do CPC/2015 nas razões do recurso especial não significa que ele também foi apontado como violado.
+Logo, deve ser mantido o óbice previsto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ante o exposto, nego provimento agravo interno.
+É o voto.
