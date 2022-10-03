@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão da Presidência desta Corte, em que não se conheceu do recurso especial.
+O recurso especial foi interposto contra acórdão proferido no Tribunal Regional Federal da 1ª Região com o seguinte resumo da ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EXECUÇÃO FISCAL. MULTA DO IBAMA. CRÉDITO CONSTITUÍDO NO VENCIMENTO DA MULTA APLICADA NO AUTO DE INFRAÇÃO. CRÉDITO JÁ PRESCRITO ANTES DA INSCRIÇÃO EM DÍVIDA ATIVA (4).
+Interposto agravo interno contra a decisão da Presidência, alega a parte agravante, resumidamente:
+No específico caso, a decisão padece ainda de flagrante equívoco na medida em que não houve ausência de apontamento dos dispositivos violados. Ao contrário, todo apoio do REsp e do AREsp estão sobre os dispositivos mostrados como violados pelas decisões regionais. É de se crer que possivelmente ou provavelmente, houve confusão na fundamentação a partir de uma estrutural textual não condizente com o feito em debate e, bem por isso, a retratação se verifica necessária. Com efeito, num reporte à peça de agravo contra a inadmissão do Recurso Especial, a recorrente abriu específico tópico para rebater os fundamentos da decisão regional tratando exatamente do tema afirmado como não impugnado às fls e-STJ 118e seguintes. Vejamos:
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AMBIENTAL. EXECUÇÃO. PRESCRIÇÃO. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO ESPECIAL NÃO CONHECIDO EM DECISÃO DA PRESIDÊNCIA DESTA CORTE. MANUTENÇÃO DA DECISÃO. AGRAVO INTERNO IMPROVIDO.
+I - Na origem, trata-se de execução fiscal de multa ambiental. Na sentença, julgou-se extinto o processo, diante do reconhecimento da prescrição. No Tribunala quo,a sentença foi mantida.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Relativamente às demais alegações de violação(art. 22, § 3º e art. 32 da Lei n. 6.830/1980 e art. 22,I, da Lei n. 9.873/1999), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+Tratando-se de multa por infração ambiental, o executado foi notificado regularmente do lançamento do débito no próprio Auto de Infração (f. 74v), que já conta com a qualificação do notificado, valor da multa, data de vencimento. Ultrapassado o vencimento e não quitado nem impugnado o débito, ele estará definitivamente constituído. A notificação a que se refere o IBAMA se assemelha a mera cobrança de débito. É dizer: constituído definitivamente o crédito, nenhum ato  posterior tem o condão de constitui-lo novamente No caso dos autos, sem notícia de pagamento ou impugnação do valor cobrado no AI, é de se concluir que o crédito foi definitivamente constituído no seu vencimento em 22/05/2004 (f. 74v). Inafastável, portanto, que, antes mesmo da inscrição em dívida ativa em 26/04/2010 (f. 04), o crédito já tinha sido atingido pela prescrição.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação (art. 22, § 3ºe art. 32 da Lei n.6.830/1980 e art. 22,I, da Lei n.9.873/1999), esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
