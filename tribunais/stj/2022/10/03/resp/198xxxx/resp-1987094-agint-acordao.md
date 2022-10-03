@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por HOLOS ENGENHARIA SANITÁRIA E AMBIENTAL LTDA - EPP contra decisão que, com apoio na Súmula 7 do STJ, não conheceu de recurso especial em que discute a ocorrência de prescrição da pretensão da Fazenda Pública em cobrar o que fora pago a maior pela prestação de serviços, bem como inexistência de recebimento, em duplicidade, pelos serviços prestados; e negou-lhe provimento quanto à tese de violação do art. 489 do CPC/2015.
+A parte agravante não concorda com o referido óbice ao conhecimento do recurso, insiste na tese de nulidade do acórdão e sustenta, em síntese (fls. 583/612):
+Trata-se de ação proposta pelo Recorrido-Agravado a fim de que seja restituído o importe de R$ 203.920,37 alegadamente recebido a maior pelo Recorrente-Agravante no contrato firmado entre as partes.
+ ..
+Da leitura do Recurso Especial, denota-se que a falta de enfrentamento pelo Eg. Tribunal de Justiça de Minas Gerais do fundamento jurídico de defesa, mesmo instado via Embargos de Declaração, importa em nulidade por negativa de prestação jurisdicional, tornando nulo o r. decisum. Ademais, restou evidente a afronta ao Decreto Federal n. 20.910/1932 e ao artigo 333, II do CPC, conclusão essa que independe de revolvimento de matéria fática  ..  Não faz sentido que o reajuste pleiteado pelo consórcio no importe de R$ 192.714,43 em 2011 seja quitado com o pagamento de R$ 12.684,42, em 2012, e que o valor que sobeja este montante seja correspondente ao pagamento em dobro da última parcela  ..  Há expressiva diferença entre o valor pleiteado a título de reajuste (R$ 192.714,43, em 2011), e o valor que o valor que se alega ter sido pago a título de reajuste (R$ 12.684,42), pelo que não se sustenta a tese da exordial sob nenhuma hipótese  ..  Inacreditável que, 6 anos após, em função de uma Auditoria Internada qual o Consórcio não participou, nem foi chamado a esclarecer estes pontos, tenha o IGAM intentado tal aventura jurídica. E mais preocupante é que a aventura surtiu efeito, tendo sido o Recorrente-Agravante condenado a restituir valor que recebeu por força do reajuste do contrato, conforme reconhece o próprio IGAM  ..  Mesmo já tendo transcorrido quase 6 anos do pagamento quando do ajuizamento da ação, o que, por si só é capaz de fulminar a pretensão, pela ocorrência de prescrição, o Recorrente-Agravante demonstrou por meio dos documentos confeccionados pelo próprio Recorrido-Agravado que não é essa a hipótese discutida nos autos. O Consórcio HOLOS-FAHMA-DELGITEC nunca havia recebido em duplicidade a última parcela do contrato, conforme cabalmente comprovado documentalmente.
+ ..
+A falta de enfrentamento do fundamento jurídico é sinônimo de falta de motivação, tornando nulo o r. decisum. Assim, configurada a nulidade do Acórdão Regional, face à negativa de prestação jurisdicional, requereu o Agravante fosse declarado nulo o Acórdão, determinando o retorno dos autos ao Tribunal de origem, para a apreciação da questão posta a exame, ou seja, a existência de prova que o valor recebido não corresponde ao pagamento em duplicidade da última parcela.
+Impugnação apresentada pelo INSTITUTO MINEIRO DE GESTÃO DAS ÁGUAS - IGAM (fl. 619/629).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NULIDADE DO ACÓRDÃO RECORRIDO POR INSUFICIÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. PROVA DO PAGAMENTO EM DUPLICIDADE E PRESCRIÇÃO. QUESTÃO DEPENDENTES DO REEXAME DO ACERVO PROBATÓRIO. INADMISSIBILIDADE.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. Não háviolação do art. 489 do CPC/2015, quando o acórdão recorrido se apoia em fundamentação clara, coerente e suficiente para embasar sua conclusão.
+3. Quanto às teses de violação do art. 333 do CPC/2015 e do art. 1º do Decreto n. 20.910/1932, o conhecimento do recurso encontra óbice na Súmula 7 do STJ, porquanto o delineamento fático descrito no acórdão recorrido, por si só, não permite concluir por eventual ilegalidade em sua conclusão, no que se refere ao pagamento em duplicidade e à prescrição.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Após nova análise processual, verifica-se que a conclusão da decisão agravada deve mantida, pois insuperáveis os óbices ao conhecimento do recurso, ao tempo em que não se constatou violação do art. 489 do CPC/2015.
+Como registrado na monocrática, eis o voto condutor do acórdão recorrido, no que interessa (fls. 207/213):
+Portanto, a apelante tinha o prazo de cinco anos após verificada a contestada inconsistência na quitação para cobrar eventual crédito. Ora, a auditoria interna que verificou o pagamento questionado foi concluída em 26.12.2016 (arquivo eletrônico nº 11) e esta ação foi proposta em 08.02.2018, ou seja, antes de atingido o quinquênio legal. Assim, neste particular, a irresignação desafia rejeição.
+ ..
+Ao autor cabe o ônus de provar os fatos constitutivos do seu direito, enquanto o réu tem o onus probandi relativo aos fatos impeditivos ou modificativos do direito do autor.
+ ..
+Ora, os documentos digitalizados pelas partes, em especial o procedimento preliminar de correição constante no arquivo eletrônico nº 11 e o memorando constante no arquivo eletrônico nº 14, demonstram que o apelado quitou quantia indevida equivalente a R$ 203.920,37, uma vez que o reajuste contratual pretendido pela recorrente era bem inferior ao quitado pelo contratante, ora recorrido.
+Portanto, o valor quitado a maior deve mesmo ser devolvido pela recorrente sob pena de enriquecimento sem causa.
+Assim, também neste ponto, o inconformismo desafia rejeição. Com estes fundamentos, dou parcial provimento à apelação, reformo em parte a sentença e concedo os benefícios da gratuidade de justiça para a apelante.
+Por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls. 238/239).
+Pois bem.
+Como se pode extrair, não ocorreu violação do art. 489 do CPC/2015, pois o acórdão recorrido se apoia em fundamentação clara, coerente e suficiente para embasar sua conclusão.
+De outro lado, quanto às teses de violação do art. 333 do CPC/2015 e do art. 1º do Decreto n. 20.910/1932, o conhecimento do recurso encontra mesmo óbice na Súmula 7 do STJ, porquanto o delineamento fático descrito no acórdão recorrido, por si só, não permite concluir por eventual ilegalidade em sua conclusão, no que se refere ao pagamento em duplicidade e à prescrição.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
