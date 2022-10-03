@@ -1,0 +1,62 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):Trata-se de agravo interno, interposto por PAULO LEONARDO MESQUITA DE LIMA E OUTRA, em face de decisão monocrática que negou provimento ao agravo emrecurso especial.
+O apelo extremo, por sua vez, fundamentado nas alíneas "a" e "c" do permissivo constitucional, foi interposto desafiando acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+APELAÇÃO CÍVEL. PROCESSUAL CIVIL E CIVIL. AÇÃO DE DESPEJO CONEXA COM AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE NEGÓCIO JURÍDICO. COMPRA A VENDA DE IMÓVEL. SIMULAÇÃO. DECLARAÇÃO DE NULIDADE DO NEGÓCIO JURÍDICO. LOCAÇÃO. INEXISTÊNCIA. SENTENÇA MANTIDA.1. Na presente hipótese, nos autos do processo nº 0702934-91.2019.8.07.0020, o autor pretende obter o despejo do suposto locatário do imóvel, bem como a subsequente desconstituição do negócio jurídico celebrado entre as partes. 1.1. Nos autos do processo nº 0704129-14.2019.8.07.0020 os apelantes pretendem a reforma da sentença que reconheceu a ocorrência de simulação no contrato de compra e venda do mesmo imóvel, celebrado anteriormente ao aludido contrato de locação.2. As questões que envolvem a existência ou a validade do negócio jurídico consubstanciam temas que dizem respeito à conhecida "teoria do fato jurídico". 2.1. Com efeito, a) o plano da existência é informado pelo a.1) núcleo do suporte fático que, por sua vez, compõe-se dos seguintes elementos: a.1.1) cerne e a.1.2) completantes; b) o plano da validade é curialmente constituído pelos elementos complementares do suporte fático, como, por exemplo, os previstos no art. 104 do Código Civil (validade/nulidade), ou, por exceção, diante da ausência das figuras enumeradas no art. 171 do mesmo código (validade/anulabilidade); finalmente c) o plano daeficácia é formado pelos elementos integrativos do suporte fático.3. No caso em deslinde, em relação ao contrato de compra e venda do imóvel, os elementos do núcleo do suporte fático (cerne e completantes), que são os que denotam a subsistência do negócio jurídico em questão, ou seja, sua existência, se encontram presentes. 3.1. Com efeito, além (a) das declarações de vontade expedidas pelas partes negociantes, que são (b) sujeitos de direito, o negócio jurídico observou a (c) forma mínima para a existência do contrato, que é escrito e foi engendrado no idioma português. 3.2. Enfim, são incontroversas não só a policitação, que é a oferta alusiva à venda do bem, mas também a oblação, que consiste na vontade receptícia. 3.3. Aliás, é conveniente lembrar que essas declarações de vontade constituíram o negócio jurídico bilateral, sinalagmático e oneroso de compra e venda. 3.4. Assim, não pode haver dúvida de que o negócio jurídico em questão existiu.4. Verifica-se, em verdade, que o real intuito da suposta vendedora era o de contratação de mútuo com o alegado comprador, e não o de venda do imóvel em questão.5. Uma vez demonstrada a simulação ocorrida no contrato de contrato de compra e venda de imóvel celebrado entre as partes, deve ser declarada a nulidade do aludido negócio jurídico, com o retorno das partes ao estado anterior.6. Em relação ao contrato de locação, sequer ficou demonstrada nos autos a manifestação de vontade das partes em celebrar o pretenso negócio jurídico. 6.1. Assim, não é possível o reconhecimento da existência do alegado negócio jurídico de locação do imóvel.7. Recursos conhecidos e desprovidos.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do especial, os recorrentes apontam violação dos artigos(i) 489, §1º, inciso IV, e 1.022, inciso II, ambos do Código de Processo Civil, ante a negativa de prestação jurisdicional; (ii) 104, 167, §1º, inciso II, 171, inciso II, 481 e 482, todos do Código Civil, e 408, 410, 411, inciso I, e 447, §3º, inciso II, todos do Código de Processo Civil, asseverando a inexistência de simulação no caso concreto, consoante provas documental e testemunhal produzidas no processo. Defendem que os elementos probatórios carreados aos autos foram desconsiderados e houve a indevida inversão do ônus da prova, com a aplicação equivocada do artigo 3º da MP nº 2.172/2001.
+Contrarrazões às fls. 421/425, e-STJ.
+Em juízo provisório de admissibilidade, o recurso especial não foi admitido, razão pela qual foi manejado o agravo de fls. 433/463, e-STJ.
+Contraminuta às fls. 468/473, e-STJ.
+Em decisão monocrática, este relator negou provimento ao reclamo ante a ausência de negativa de prestação jurisdicional e a incidência das Súmulas 5 e 7 do STJ.
+Irresignado, orecorrente manejou o presente agravo interno, no qual busca combater os retrocitados óbices.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA- DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DO RÉU.
+1.Em relação à violação aos artigos489 e 1.022 do CPCnão assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+2.Quanto ao cabimento da inversão do ônus da prova e à ocorrência de simulação,para derruir as conclusões a que chegou o Tribunal de origem, seria necessário incursionar nos elementos fático-probatórios da demanda, bem como na análise do contrato entabulado entre as partes, o que é vedado em sede de recurso especial ante o disposto nas Súmulas 5 e 7 do STJ.
+3.Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): A irresignação não merece prosperar.
+1.De início, em relação à violação aos arts. 489 e 1.022 do CPC, ante a negativa de prestação jurisdicional, não assiste razão à recorrente,porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+Dessa forma, não há que se falar em negativa de prestação jurisdicional pelo Tribunal local, que apreciou todas as questões que lhe foram postas de forma suficiente, embora não tenha acolhido o pedido da parte insurgente em sede de embargos de declaração.
+A propósito, é entendimento pacífico deste Superior Tribunalque o magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente parafundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE QUITAÇÃO INTEGRAL DO PREÇO. PREVISÃO CONTRATUAL. OBSCURIDADE. ERRO MATERIAL. INEXISTÊNCIA. RESPONSABILIDADE. DISCUSSÃO. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DAS SÚMULAS DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1348076/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/04/2019, DJe 12/04/2019)
+2.Com efeito, quanto ao cabimento da inversão do ônus da prova e à ocorrência de simulação, restou consignado no acórdão recorrido:
+A esse respeito, convém notar que a regra prevista no art. 3º da Medida Provisória nº 2.172-32/2001 prevê que "incumbirá ao credor ou beneficiário do negócio o ônus de provar a regularidade jurídica das correspondentes obrigações, sempre que demonstrada pelo prejudicado, ou pelas circunstâncias do caso, a verossimilhança da alegação",o que, como já destacado, deve ser aplicado ao caso em exame.
+ ..
+A despeito do que tentam fazer crer os apelantes,nota-se a ocorrência de simulação na celebração do negócio jurídico de compra e venda relativo ao imóvel localizado no Lote 33, Chácara 242, Setor Habitacional Vicente Pires-DF, pois, em verdade, o real intuito de Eliane Sousa Araújo consistiu na contratação de mútuo com o apelante, e não da venda do imóvel.
+ ..
+Por fim, em relação à pretensa locação do mesmo imóvel convém destacar que Paulo Leonardo Mesquita de Lima, como suposto locador, sequer comprovou nos autos que o alegado locatário teria, de fato, declarado vontade com o intuito de celebrar referido contrato. Com efeito, mesmo diante da alegação de falsidade de assinatura, o ora recorrente dispensou a produção da prova pericial grafotécnica (Id. 17678170).
+Dessa forma, para derruir as conclusões a que chegou o Tribunal de origem, seria necessário incursionar nos elementos fático-probatórios da demanda,bem como na análise do contrato entabulado entre as partes, o que é vedado em sede de recurso especial ante o disposto nas Súmulas 5 e 7 do STJ.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CÉDULA DE PRODUTO RURAL. FINANCIAMENTO DE ATIVIDADE RURAL. AUSÊNCIA. NEGÓCIO SIMULADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TERMO INICIAL. PRESCRIÇÃO. VENCIMENTO DA DÍVIDA. CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO DA LIDE. PRINCÍPIO DA PERSUASÃO RACIONAL. PROPORCIONALIDADE. INDENIZAÇÃO. FALTA DE PREQUESTIONAMENTO. MÁ-FÉ. ATO ILÍCITO. RECONHECIMENTO. SÚMULAS N. 5 E 7 DO STJ. INOVAÇÃO RECURSAL. DECISÃO MANTIDA.
+ ..
+5. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+6. No caso concreto, o Tribunal de origem concluiu pela caracterização de má-fé e simulação de negócio jurídico. Entender de modo contrário demandaria nova análise do contrato e dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice das referidas súmulas.
+7. Incabível o exame de tese não exposta no recurso especial e invocada apenas em momento posterior, pois configura indevida inovação recursal.
+8. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp n. 887.487/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 25/2/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. OFENSA AO ART. 1.022 DO CPC/2015. SÚMULA N. 284/STF. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. REAVALIAÇÃO DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+ ..
+5. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual, ou incursão no contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+6. No caso concreto, o Tribunal de origem concluiu pela existência de simulação e pela prática de agiotagem, vícios que entendeu suficientes para tornar inexigível o valor descrito na confissão de dívida, a qual, por isso, deveria ser declarada nula. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.847.710/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 19/8/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE. SIMULAÇÃO COMPROVADA. NULIDADE DO NEGÓCIO JURÍDICO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. Na hipótese, rever o entendimento do Tribunal de origem em relação ao reconhecimento da existência de simulação do negócio jurídico, demandaria, necessariamente, o reexame da relação contratual estabelecida, e incontornável incursão no conjunto fático-probatório dos autos, o que atrai a incidência das Súmulas n. 5 e 7 do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.804.758/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/8/2021.)
+3.Do exposto, nego provimento ao agravo interno.
+É como voto.
