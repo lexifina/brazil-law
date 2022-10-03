@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, dar parcial provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno (fls. 667-669, e-STJ), interposto por CURY CONSTRUTORA E INCORPORADORA S/A, em face de decisão monocrática da Presidência desta Corte, que negou provimento ao reclamo da ora insurgente, ante a incidência da Súmula 7/STJ.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, objetivou reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 473, e-STJ):
+APELAÇÃO - COMPROMISSO DE COMPRA E VENDA  Ação de indenização por danos materiais e moral e lucros cessantes  Atraso na entrega do empreendimento  Sentença de parcial procedência  Insurgência das rés  Mora da ré configurada - Parcela final que seria paga mediante financiamento bancário  Ausência de notificação constituindo o autor em mora  Obtenção de financiamento, ademais, que seria possível somente após a emissão do habite-se - Inocorrência de julgamento extra petita - Lucros cessantes  Descabimento  Cláusula penal que não pode ser cumulada com lucros cessantes  Observância do tema 970 do STJ - Litigância de má-fé  Não configurada - A litigância de má-fé não se presume; exige prova robusta capaz de evidenciar a conduta processual irregular praticada pela parte - Descabida a pretensão concernente à condenação em litigância de má-fé quando não restar comprovado nos autos nenhum indício de que tenham agido de má-fé ou violado qualquer dever processual - Sucumbência recíproca - Sentença reformada em parte  Recurso provido em parte.
+Opostos embargos de declaração, esses foram rejeitados (fls. 501-507, e-STJ).
+Nas razões de recurso especial (fls. 486-492, e-STJ), a parte insurgente alega, violação aos arts. 141 e 492 do CC, sustentando, em síntese, a existência de julgamento extra-petita.
+Sem contrarrazões.
+O Tribunal local inadmitiu o recurso especial, razão pela qual foi manejado o agravo de fls. 517-523 (e- STJ).
+Em decisão singular (fls. 667-669, e-STJ), a Presidência desta Cortenegou provimento ao reclamo, ante incidência da Súmula 7 do STJ.
+No presente agravo interno (fls. 672-676, e-STJ), o agravante sustenta que a decisão monocrática merece reforma, pois a verificação de julgamento extra-petita não demanda o reexame de fatos e provas.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO AGRAVO.
+INSURGÊNCIA RECURSAL DA PARTE RÉ.
+1. Afasta-se a incidência da Súmula 7/STJ ante a desnecessidade de incursão no acervo fático-probatório.
+1.1. Asubsistência de fundamento inatacado, apto a manter as conclusões do aresto impugnado, impõe o reconhecimento da incidência da Súmula 283 STF, por analogia. Precedentes.
+2. Agravo interno parcialmente provido, mantido o desprovimento do agravo.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): A irresignação merece prosperar em parte, sem, contudo, alterar a conclusão adotada na decisão agravada.
+1. No que se refere ao pleito de afastamento do óbice da Súmula 7/STJ, razão assiste à parte ora agravante.
+De fato, verificar se houve ou não julgamento extra-petita não enseja a revisão de fatos e provas dos autos, não havendo razão para a incidência do referido enunciado sumular.
+No ponto, merece provimento o agravo interno para afastar o teor da Súmula
+7/STJ.
+2. Passa-se, portanto, a análise da apontada violação aos artigos 141 e 492 do CC, sob o fundamento de restar evidenciado o julgamento extra-petita pela condenação ao ressarcimento da cota condominial e IPTU, no entanto, a pretensão recursal esbarra no óbice da Súmula 283 do STF.
+No ponto, o Tribunal de piso decidiu(fls. 504-506, e-STJ):
+Consigne-se, que o V. acórdão concluiu que:
+"(..) Primeiramente, não há que se falar em sentença "extra petita". Confundem-se as recorrentes, com relação à afirmação de sentença "extra petita", pois as taxas condominiais e IPTU mencionadas na sentença, dizem respeito ao imóvel locado pelo autor diante da demora na entrega do imóvel. Todavia, ainda que assim não o fosse, a apreciação da controvérsia resta prejudicada ante o entendimento consolidado pelo C. Superior Tribunal de Justiça, no julgamento do REsp no 1.635.428/SC, como adiante se verá."
+E prossegue o V. Acórdão:
+"(..) Contudo, merece reforma a sentença no que toca à condenação das rés na indenização por lucros cessantes, devendo ser afastada a condenação nesse ponto.
+Importante destacar o entendimento consolidado pelo C. Superior Tribunal de Justiça, que, no julgamento do REsp no 1.635.428/SC, determinou que a cláusula penal tem natureza indenizatória, razão pela qual é incabível a sua cumulação com os lucros cessantes:
+"A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes.".
+Deste modo, uma vez que a sentença já condenara as rés ao pagamento da cláusula penal moratória, conforme pactuado no contrato, em sua cláusula 7.4, não subsiste qualquer razão para a manutenção da condenação ao pagamento dos lucros cessantes em desfavor da apelante, uma vez que ambas não poderão ser cumuladas e, havendo previsão de multa em favor do comprador para o caso de inadimplemento por parte das vendedoras, de rigor a aplicação da referida cláusula. (..)".
+Ou seja, a condenação das rés ao pagamento dos lucros cessantes, correspondente ao item "b" da parte dispositiva da sentença foi afastada da condenação, nos termos do entendimento consolidado pelo C. Superior Tribunal de Justiça, que, no julgamento do REsp no 1.635.428/SC, determinou que a cláusula penal tem natureza indenizatória, razão pela qual é incabível a sua cumulação com os lucros cessantes, não havendo, assim, que se falar em sentença extra petita.
+Contudo, a ora recorrente não se desimcubiu do ônus de impugnar o referido fundamento, como manda o princípio da dialeticidade, apenas cingindo-se a alegar a aplicabilidade da pena de confissão, incidindo, na espécie, por analogia, a Súmula 283 do STF.
+Em outras palavras, verifica-se que a parte recorrente deixou de infirmar fundamento do acórdão recorrido - suficiente para sua manutenção - incidindo, na espécie, por analogia, a Súmula 283 do STF, in verbis:
+Súmula 283 - É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMPRÉSTIMO CONSIGNADO. REPETIÇÃO INDÉBITO. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283 DO STF. CONFIGURAÇÃO DE DANO MORAL. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado. 2. O v. acórdão recorrido está assentado em mais de um fundamento suficiente para mantê-lo e o recorrente não cuidou de impugnar todos eles, como seria de rigor. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.". 3. A alteração da indenização por dano moral apenas é possível quando o quantum arbitrado nas instâncias originárias se revelar irrisório ou exorbitante. Não estando configurada uma dessas hipóteses, não cabe examinar a justiça do valor fixado na indenização, uma vez que tal análise demanda incursão à seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ. 4. Agravo interno não provido. (AgInt no AREsp 1286261/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/08/2018, DJe 24/08/2018).  grifou-se
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA DEMANDADA.
+ ..
+5. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no REsp 1656284/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/11/2019, DJe 19/11/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO. PRECARIEDADE NA COMPROVAÇÃO DO INADIMPLEMENTO. AUSÊNCIA DE COMPROVAÇÃO DA CONSTITUIÇÃO DO DÉBITO. NEGÓCIO REALIZADO EM 1999, COM AS PRIMEIRAS PROVIDÊNCIAS PARA COBRANÇA REALIZADAS APENAS EM 2013. INCIDÊNCIA DA SUPRESSIO. FUNDAMENTOS NÃO ATACADOS. SÚMULAS 283 E 284 DO STF. CONCLUSÃO ACERCA DA APLICAÇÃO DA SUPRESSIO. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Ao examinar o feito, o Tribunal local concluiu que, diante da precariedade de provas da constituição do débito, do longo decurso de tempo entre o suposto inadimplemento e a tomada de providências para cobrança dos réus, ocasionaram a incidência da "supressio". Todavia, tais fundamentos autônomos e suficientes para a manutenção do acórdão recorrido não foram rebatidos pelo recorrente em seu apelo especial. Desse modo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+ ..
+(AgInt no AREsp 1500950/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2019, DJe 12/11/2019)
+Desta forma, a existência de fundamento inatacado no acórdão recorrido faz incidir o teor da Súmula 283/STF, por analogia, cujo óbice impede o seguimento do recurso por ambas as alíneas do permissivo constitucional.
+3. Do exposto, dá-se parcial provimento ao agravo interno, para afastar o teor da Súmula 7/STJ, mantendo-se o desprovimento do agravo, por fundamentação diversa.
+É como voto.
