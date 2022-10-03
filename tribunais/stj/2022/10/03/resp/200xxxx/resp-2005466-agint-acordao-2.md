@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por WILLIAM SOARES DE OLIVEIRA MATTOS e OUTRA em face de decisão monocrática da lavra deste signatário que deu provimento ao recurso especial manejado pela ora agravada a fim de afastar a condenação por danos morais.
+O aludido apelo extremo, fundado nas alíneas a e c do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ, fl. 891):
+APELAÇÃO CÍVEL. RECURSO ESPECIAL. REANÁLISE DA QUESTÃO CONTROVERTIDA. - Controvérsia que gira em torno da existência, ou não, de dano moral por atraso na entrega de imóvel. - Situação descrita nos autos que não revela a existência de simples atraso na entrega de imóvel, mas de outras falhas das rés, dentre as quais se pode citar a prática de propaganda enganosa, haja vista a entrega das áreas comuns do empreendimento em flagrante discrepância com o anúncio anteriormente ofertado. - Questão controvertida que, portanto, se diferencia sensivelmente do caso julgado no REsp. nº 1.642.314/SE. - Responsabilidade civil por fato do serviço que impõe ao prestador do serviço o dever de comprovar a higidez de sua conduta, fato que não ocorreu na espécie. - Parte autora que, por sua vez, comprovou documentalmente suas alegações, cumprindo, mesmo sem necessidade (haja vista a inversão do ônus da prova ope legis), a norma disposta no artigo 373, inciso I, do CPC/15.
+- Questão controvertida que foi analisada de forma pormenorizada, tendo sido exarado julgamento prudente e adequado. MANUTENÇÃO DO JULGAMENTO ANTERIORMENTE PROFERIDO POR ESTE ÓRGÃO COLEGIADO.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 936-951).
+Em suas razões recursais (e-STJ, fls. 953-969), sustenta a parte recorrente a existência de violação aos seguintes dispositivos:
+a) art. 1022 do Código de Processo Civil de 2015, defendendo que a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado acerca da inexistência de danos morais pelo atraso na entrega do parque, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional;
+b) art. 186 do Código Civil, aduzindo que o mero descumprimento contratual não enseja danos morais
+c) art. 944 do Código Civil, alegando, subsidiariamente, ser excessivo o quantum arbitrado pelo Tribunal de origem;
+d) arts. 493, 933, 505 do CPC/15, apontando que a entrega do parque já foi realizada e aceita pelo condomínio.
+Apontou, ainda, divergência jurisprudencial.
+Contrarrazões apresentadas às fls. 994-1003 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 1006-1009 (e-STJ), ascenderam os autos a esta Corte.
+Em decisão monocrática (e-STJ, fls. 1025-1030), este signatário deu provimento ao recurso especial a fim de afastar a condenação ao pagamento de indenização pelo atraso na entrega do empreendimento.
+No presente agravo interno (e-STJ, fls. 1032-1049), os agravantes se insurgem em face da decisão monocrática e defendem o cabimento da indenização em razão do atraso excessivo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Impugnação às fls. 1066-1071 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. A jurisprudência desta Corte Superior é no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico.
+1.1. No caso concreto, o Tribunal de origem fundamentou a ocorrência do dano moral apenas no mero atraso na entrega da obra, aduzindo de forma genérica a ofensa à dignidade dos consumidores, sem demonstrar, de forma clara e específica, a ocorrência de sofrimento, angústia ou abalo psicológico ocasionado aos recorridos.
+1.2. A inexistência de circunstância especial que extrapole o mero aborrecimento, decorrente do atraso na entrega do imóvel, enseja a manutenção da decisão agravada que determinou o afastamento da indenização por danos morais. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida na íntegra, por seus próprios fundamentos.
+1.Cinge-se a irresignação no presente agravo interno acerca do afastamento da condenação ao pagamento dede danos morais.
+Não merece reparos a decisão agravada que deu provimento ao recurso especial para afastar a condenação por danos morais.
+No que tange à alegada afronta aos artigos 186 e 944 do Código Civil, a parte ora agravada sustentou improcedência do pedido de condenação ao pagamento de indenização por danos morais, ao argumento de que o mero atraso na entrega do imóvel não ocasionou aos recorridos nenhum dano passível de reparação.
+Acerca do tema, o Tribunal de origem consignou o seguinte (fl. 898 e 907, e-STJ):
+Agora, a parte ré aduz que teria havido violação ao entendimento do STJ, eis que teria sido condenada a pagar verba compensatória de danos morais apesar de ter havido simples e inofensivo atraso na entrega do imóvel. Entretanto, ao contrário do insistentemente alegado pela parte ré, a situação descrita nos autos não revela a existência de simplório atraso na entrega de imóvel. Pelo contrário, além do atraso, houve entrega das áreas comuns do imóvel em condições absolutamente incompatíveis com o próprio anúncio ofertado pelas rés, em evidente propaganda enganosa, conforme comprovam as fotografias juntadas pelos autores (fl. 165/195 - indexador 000171 a 000201) e, também, constatado pelo oficial de justiça do juízo encarregado de analisar o local (fl. 296/325 - indexador 000308 a 000337). Nesse sentido, convém reproduzir as fotografias do anúncio feito pela parte ré (fls. 171 - indexadores 000176 a 000177 e fl. 175 - indexador 000181).
+(..)
+Ressalte-se que, apesar de terem sido escamoteados pela ré em seus sucessivos recursos às cortes superiores (o que, diga-se, tangencia a má-fé), esse vilipendio à dignidade dos consumidores foi devidamente considerado durante a fundamentação do voto vencedor, conforme se pode contatar do trecho abaixo transcrito (fl. 606 - indexador 000603). Confira-se: "(..) Quanto à alegação de que deveria ser aplicado o enunciado nº. 75 deste Tribunal, convém salientar que tal enunciado permite a condenação ao pagamento de verba compensatória de danos morais nos casos em que o descumprimento contratual venha a vilipendiar a dignidade do contratante, tal como ocorreu na espécie. Assim, incabível tal argumento, sendo descabida também a modificação do julgado com base neste argumento. Desse modo, o inconformismo da embargante com o resultado do julgamento deverá ser manifestado por meio do recurso cabível junto às instâncias especiais e/ou extraordinárias, não sendo esta a finalidade dos embargos de declaração (..)". Grifos apostos.
+Da leitura do excerto acima colacionado, denota-se que o Tribunal de origem fundamentou a ocorrência do dano moral apenas no mero atraso na entrega da obra, aduzindo de forma genérica a ofensa à dignidade dos consumidores, sem demonstrar, de forma clara e específica, a ocorrência de sofrimento, angústia ou abalo psicológico ocasionado aos recorridos.
+Como se vê,ainda que o imóvel tenha sido entregue com atraso, a Corte estadual não apontou qualquer elemento que demonstrasse que o atraso teria afetado, de maneira excepcional, o direito da personalidade dos recorridos, não havendo que se falar, portanto, em abalo moral indenizável.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONSUMIDOR. CIVIL. AÇÃO DE RESCISÃO CONTRATUAL. MERO ATRASO NA ENTREGA DO IMÓVEL. DANOS MORAIS. DESCABIMENTO. RECURSO DESPROVIDO. 1. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária fundamentação complementar que demonstre a gravidade da circunstância fática, a ensejar a pretendida indenização. Precedentes. 2. No caso, a decisão agravada deu parcial provimento ao recurso especial da parte ré, para reformar o v. acórdão recorrido, porque este fundamentou a ocorrência do dano moral apenas no mero atraso na entrega da obra, sem apresentar fundamentação adicional a justificar a angústia ou abalo psicológico do autor da demanda. 3. Agravo interno a que se nega provimento. (AgInt no AREsp 1211877/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/08/2019, DJe 19/08/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MERO ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. INEXISTÊNCIA. DECISÃO MANTIDA. 1. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária uma consequência fática capaz de acarretar dor e sofrimento por sua gravidade. Precedentes. 2. Agravo interno a que se nega provimento. (AgInt no REsp 1835960/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/05/2020, DJe 28/05/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ATRASO NA ENTREGA DO IMÓVEL. DANOS MORAIS IN RE IPSA. NÃO CARACTERIZAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Conforme a jurisprudência desta Corte de Justiça, o simples atraso na entrega do imóvel não caracteriza dano moral in re ipsa, sendo necessária a presença de circunstâncias excepcionais que justifiquem a indenização, o que não ocorreu no caso.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 2.016.255/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022.)
+Portanto, o acórdão estadualmerece reforma, no ponto, para que seja afastada a condenação ao pagamento de indenização por danos morais.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
