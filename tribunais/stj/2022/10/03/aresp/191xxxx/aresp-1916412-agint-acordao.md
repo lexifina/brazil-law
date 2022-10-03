@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+Trata-se de agravo interno interposto por Odette Terezinha Tisio Minarelli contra decisão que conheceu do agravo para não conhecer dorecurso especial, assim resumida:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. INCLUSÃO DE DIFERENÇAS RELATIVAS AO BENEFÍCIO DE PENSÃO POR MORTE. MATÉRIA ESTRANHA AO PROCESSO DE CONHECIMENTO. COISA JULGADA. AGRAVO EM RECURSO ESPECIAL CONHECIDO. ESPECIAL NÃO CONHECIDO.
+Em razões, postula aagravante a reconsideração dadecisãoalegando que "a legitimidade da pensionista previdenciária não se restringe ao processo de conhecimento, devendo prosseguir a execução", e que "a possibilidade de serem executados os reflexos do Título Judicial pela pensionista previdenciária, ao contrário de ofender a coisa julgada, não extrapola os limites da ação de conhecimento, mas, simplesmente, promove o estrito cumprimento da lei".
+O prazo para impugnação transcorreu in albis.
+É o necessário relatar.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO EM AGRAVO EM RECURSOESPECIAL. EXECUÇÃO DE SENTENÇA. INCLUSÃO DE DIFERENÇAS RELATIVAS AO BENEFÍCIO DE PENSÃO POR MORTE. MATÉRIA ESTRANHA AO PROCESSO DE CONHECIMENTO. COISA JULGADA.SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acórdão recorridoconsignou queo título judicial exequendo não tratara dos reflexos da revisão no benefício de pensão por morte, razão pela qual não há que se falar em execução de diferenças posteriores à data do óbito do autor originário. Oacórdão recorrido está embasado no título judicial exequendo, não se podendo alterá-lo, de fato, em razão da existência de coisa julgada.
+2.A alteração da conclusão adotada pelo Tribunal de origem quanto ao alcance dotítulo exequendodemandaria, necessariamente, o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta instância. Súmula7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator):
+O agravo interno não comporta provimento.
+A decisão ora agravada conheceu do agravo para não conhecer do recurso especial consignando que: (i) não configurada a alegada violaçãoaos arts. 489, II, e §1º, IV, 1022, I e II, do atual Código de Processo Civil; (ii)não obstante ajurisprudência do STJ entender que de acordo com a norma inscrita no art. 112, da Lei 8.213/1991, o cônjuge pensionista é sim parte legítima para pleitear em juízo eventuais diferenças no benefício recebido, ainda que a correção dos valores incida na renda mensal inicial do benefício originário do de cujus,a controvérsia dos autos é distinta, tendo em vista que o presentefeito está em fase de cumprimento de sentença; (iii)a controvérsia residena possibilidade de serem executados os reflexos da revisão reconhecida tanto em relação ao benefício originário (aposentadoria por tempo de contribuição), quanto em relação ao benefício derivado (pensão por morte), o que extrapolaria os limites da ação de conhecimento, que, por sua vez, não tratou dos reflexos da revisão no benefício de pensão por morte. Dessa forma, a execução deve limitar-se aos termos do título que a suporta, não se admitindo modificá-los ou mesmo neles inovar, em respeito à coisa julgada.
+Verifica-se que o acórdão recorrido fundamentou-se nos termos firmados no título judicial exequendo, o qual não tratara "dos reflexos da revisão no benefício de pensão por morte, razão pela qual não há que se falar em execução de diferenças posteriores à data do óbito do autor originário, pois o direito do sucessor limita-se ao valor que a este seria devido" (e-STJ fls. 718/719).
+Consignou, ainda, que "não se trata de ação ordinária em que a pensionista está pleiteando a revisão do benefício do segurado falecido para que produza reflexos financeiros em seu benefício de pensão, mas em um processo em que se pleiteou a revisão da aposentadoria do segurado que faleceu no curso desta demanda, cabendo apenas a análise dos valores atrasados até o óbito do exequente", e que "em respeito à eficácia preclusiva da coisa julgada, o decisum vergastado entendeu descabida a pretensão de execução de diferenças referentes a benefício de pensão por morte deferido à sucessora do segurado falecido, que deve se valer da via administrativa ou judicial autônoma, caso enfrente resistência autárquica no atendimento de seu pleito"
+Desse modo, de fato, o acórdão recorrido está embasado no título judicial exequendo, não se podendo alterá-loem razão da existência de coisa julgada.
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENSÃO. RATEIO. FORMA DETERMINADA NO TÍTULO JUDICIAL. IMPOSSIBILIDADE DE ALTERAÇÃO NA EXECUÇÃO. COISA JULGADA. ACRÉSCIMO DE FUNDAMENTO À DECISÃO AGRAVADA. SÚMULA 7/STJ.
+1. Não é possível alterar os critérios de cálculo fixados no título exequendo por ocasião da execução, em razão do óbice da coisa julgada. Precedentes.
+2. Em acréscimo aos fundamentos da decisão ora agravada, é inviável rever os termos do título exequendo a fim de infirmar o acórdão recorrido, pois tal proceder encontra óbice no teor da Súmula 7/STJ.Precedentes.
+3. Agravo interno a que se nega provimento.(AgInt no AREsp n. 1.198.689/RJ, relator Ministro Og Fernandes, Segunda Turma, julgado em 19/4/2022, DJe de 5/5/2022.)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CUMULAÇÃO DE APOSENTADORIA E AUXÍLIO-ACIDENTE. TESE NÃO SUSCITADA NO PROCESSO DE CONHECIMENTO. PRECLUSÃO E COISA JULGADA. ACÓRDÃO EM CONSONÂNCIA COM A ORIENTAÇÃO DO STJ SOBRE O TEMA. AGRAVO INTERNO DA AUTARQUIA NÃO PROVIDO.
+1. O agravo interno não trouxe argumentos novos capazes de alterar o entendimento anteriormente firmado, limitando-se a reiterar as teses já veiculadas no especial.
+2. A Corte de origem rejeitou o alegado excesso de execução apontado pela autarquia federal, ao fundamento de que a tese não fora levantada no processo de conhecimento, o que, agora, inviabiliza sua alegação em embargos à execução, por implicar violação à coisa julgada.
+3. Com efeito, o entendimento veiculado no acórdão recorrido está alinhado à orientação jurisprudencial desta Corte sobre o tema, no sentido de que a execução do título executivo deve ser adstrita ao comando da decisão transitada em julgado, não sendo cabível, em embargos à execução, alegar matéria que não foi oportunamente suscitada e discutida no processo de conhecimento, em razão da preclusão e da coisa julgada.
+4. Agravo interno da autarquia não provido.(AgInt no AREsp n. 1.606.570/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 4/10/2021, DJe de 7/10/2021.)
+Outrossim, em acréscimo aos fundamentos da decisão ora agravada, consigne-se que é inviável rever o título exequendo a fim de infirmar o acórdão recorrido, pois tal pretensão encontra óbice do teor da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
