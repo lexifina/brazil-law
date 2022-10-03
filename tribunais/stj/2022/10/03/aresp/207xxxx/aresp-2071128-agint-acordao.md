@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto contra decisão monocrática que conheceu do Agravo para não conhecer do Recurso Especial (fls. 834-837, e-STJ).
+A parte agravante sustenta (fls. 850-851, e-STJ):
+Assim, inconteste que v. acórdão proferido pela Egrégia Corte a quo incorreu em violação das premissas legais, bem como se mostra totalmente dissonante com a jurisprudência dominante de outro tribunal e desta Egrégia Casa, razão pela qual se impõe sua reforma, sob pena de se cometer grave injustiça com o ora agravante.
+Note-se que foi realizado o devido cotejo analítico jurisprudencial e, também, foi adequadamente demonstrada a divergência jurisprudencial através dos acórdãos paradigmas colacionados ao processo e reproduzidos mais ao norte.
+Enfim, Excelências, notem que está claro que no presente recurso se está analisando exclusivamente matéria de direito e, dessa forma, não se pretende o reexame de provas (Súmula 07 do STJ) e, também que foi efetivamente demonstrada "a similitude fática entre a decisão impugnada e a divergência apontada" no acórdão atacado merecendo se acolhido e provido o presente agravo para que seja dado seguimento ao recurso especial, merecendo ser adequada a decisão recorrida à legislação infraconstitucional e aos parâmetros dos entendimentos expostos no referido recurso.
+Por isso tudo, merece ser revista a decisão ora agravada, com o prosseguimento do julgamento do Recurso Especial interposto pela parte autora, ora agravante.
+Requer a reconsideração do decisum ou a submissão do feito à Turma.
+Não houve impugnação, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CERCEAMENTO DE DEFESA NÃO AFASTADO PELO TRIBUNAL DE ORIGEM. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos: "No caso em questão, foram apresentados documentos que podem ser aproveitados para comprovação ou não da especialidade requerida, tais como o Perfil Profissiográfico Previdenciário (evento 7, PROCADM2, pgs. 48/49), devidamente preenchido e com indicação de responsável técnico e LTCAT, não havendo que se falar em necessidade de nova perícia. Dessa forma, entendo que o feito encontra-se suficientemente instruído para análise neste momento" (fl. 694, e-STJ).
+2. Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto esgrimido passa pela revisitação ao acervo probatório, vedada em Recurso Especial, consoante a Súmula 7 do Superior Tribunal de Justiça.
+3. O Superior Tribunal de Justiça tem entendido que "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 03/03/2017). Nesse sentido: STJ, AgInt no AgRg no AREsp 317.832/RJ, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 13/3/2018; AgInt no AREsp 830.888/SC, Rel. Min. Og Fernandes, Segunda Turma, DJe de 29/9/2017.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 9.9.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, na espécie, o Tribunal de origem afastou o alegado cerceamento de defesa nos seguintes termos (fls. 693-694, e-STJ, grifei):
+PRELIMINAR DO AUTOR - cerceamento de defesa
+A parte autora sustenta haver cerceamento de defesa, uma vez que havia solicitado a produção de prova pericial para a averiguação das suas reais condições laborais nos períodos laborados junto às empresas Teen Calçados Ltda..
+Sendo a prova dirigida ao Juízo, não se configurará cerceamento de defesa se este entender que o conjunto probatório trazido aos autos é suficiente à formação de seu convencimento, permitindo o julgamento da causa, nos termos do art. 355, I, do CPC.
+Importa destacar, outrossim, que o afastamento da alegação de cerceamento de defesa não pressupõe o automático reconhecimento da especialidade do período requerido. O retorno dos autos à origem somente se justifica na medida em que inexista nos autos documentação suficiente para esclarecer as condições de trabalho vivenciadas pela parte autora. Na verdade, existindo esta documentação, não há falar em cerceamento de defesa. Entretanto, se a documentação trazido a exame não corrobora o alegado pela parte autora, o que existe, na verdade, é contrariedade e inconformismo com o resultado alcançado e não cerceamento do direito de defesa.
+No caso em questão, foram apresentados documentos que podem ser aproveitados para comprovação ou não da especialidade requerida, tais como o Perfil Profissiográfico Previdenciário (evento 7, PROCADM2, pgs. 48/49), devidamente preenchido e com indicação de responsável técnico e LTCAT, não havendo que se falar em necessidade de nova perícia.
+Dessa forma, entendo que o feito encontra-se suficientemente instruído para análise neste momento.
+Assim, não acolho a preliminar.
+Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto esgrimido passa pela revisitação ao acervo probatório, vedada em Recurso Especial, consoante a Súmula 7 do Superior Tribunal de Justiça. A propósito:
+PREVIDENCIÁRIO. AÇÃO ACIDENTÁRIA. INTENÇÃO DE REALIZAÇÃO DE NOVA PERÍCIA MÉDICA. INADMISSIBILIDADE NO CASO CONCRETO. IMPOSSIBILIDADE DE ANÁLISE DO CONTEÚDO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ.
+(..)
+4. A autora argui, preliminarmente, cerceamento de defesa pela não designação de nova perícia para comprovar sua incapacidade no período entre agosto de 2008 e maio de 2009, de modo que o julgamento deveria ser convertido em diligência para tal finalidade. No mérito, pleiteia a alteração do termo inicial do benefício para a data da primeira alta médica ocorrida no ano de 2000.
+5. Improcede a assertiva de cerceamento de defesa, uma vez que o Superior Tribunal de Justiça, a propósito da existência de causa madura para prolação da sentença e da alegada necessidade da realização da prova, autoriza o livre convencimento motivado do magistrado.
+6. Assevera-se que a decisão pela necessidade ou não da produção de prova é faculdade do magistrado, a quem caberá decidir se há nos autos elementos e provas suficientes para formar convicção. O juiz, com base no livre convencimento motivado, pode deferir ou indeferir a produção de provas que julgar necessárias ou impertinentes, a depender da situação fática dos autos.
+7. Para corroborar a presente constatação, citam-se os fundamentos adotados no acórdão: "Verificado nos autos que a prova médica produzida traz subsídios suficientes para o deslinde da demanda, não se vislumbra configurado qualquer cerceamento de prova e tampouco razão a justificar eventual complementação e/ou repetição da perícia".
+8. Assim, incide na Súmula 7/STJ, a tentativa de alterar o quadro fático para demonstrar que era obrigatório que o juiz determinasse a realização de novas provas ou repetição de perícia.
+9. Agravo conhecido para não conhecer do Recurso Especial. (AREsp 1.588.759/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/5/2020).
+Por fim, o Superior Tribunal de Justiça tem entendido que "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 03/03/2017). Nesse sentido: STJ, AgInt no AgRg no AREsp 317.832/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/03/2018; AgInt no AREsp 830.888/SC, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 29/09/2017.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
