@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se de agravo de instrumento contra decisão que, nos autos da Ação de Inventário, indeferiu a cota do Estado de Pernambuco. No Tribunal a quo, a decisão foi mantida, conforme a seguinte ementa do acórdão:
+DIREITO PROCESSUAL CIVIL RECURSO DE AGRAVO DE INSTRUMENTO.SENTENÇA HOMOLOGATÓRIA DO CÁLCULO DE LIQUIDAÇÃO. SOLICITAÇÃO DA FAZENDA PÚBLICA DE REAVALIAÇÃO DOS BENS DO ESPOLIO. VIA RECURSAL INADEQUADA. PRECLUSÃO TEMPORAL RECONHECIDA. RECURSO IMPROVIDO.
+1. Cuida-se de agravo de instrumento, com pedido de efeito suspensivo, Interposto pelo Estado de Pernambuco em face de decisão interlocutória (fls. 207) proferida pelo MM.
+Juiz de Direito da 2º Vara de Sucessões e Registros Públicos da Comarca do Recife que, nos autos da Ação de Inventário (Procedimentos Especiais de Jurisdição Contenciosa) nº CO20792- 70.2013.8.17.0001, indeferiu a cota do Estado de Pernambuco às fls. 194/195 que discordou dos cálculos de atualização monetária do monte-mor, solicitando a atualização dos bens avaliados no laudo de fls. 144/147.
+2. O agravante alega que a não atualização dos cálculos do monte -mor pode ocasionar prejuízo de grandes proporções a Fazenda Pública Estadual, pois pode receber o ICD a menor, sem a possibilidade de reaver a diferença dos valores.
+3. Ademais, afirma que o pedido da Fazenda Pública já havia sido deferido pelaDouta Magistrada como constam as fls. 202. Defende ainda que a atualização pretendida pela Fazenda Pública Estadual é amparada pela Lei nº 10.654/91, Lei 11.320/95, pelo Decreto nº 14.876/91 e. por fim, pelo art. 97, § 2º, do CTN, para atender o princípio da atualização do valor tributável.
+4. Outrossim, o recorrente argumenta que o mero cálculo contábil é suficiente para compensar a desvalorização da moeda, não sendo necessária nova avaliação dos bens. Por fim, requer a atribuição de efeito suspensivo ao presente recurso, nos termos do art. 1019. I, do CPC para suspender a execução da decisão agravada.
+5. Essa relatoria em decisão interlocutória (fl. 215) em sede de cognição sumária deferiu o efeito suspensivo.
+6. A parte agravada, por sua vez, aduz em sede de contrarrazões (fls.223/224), que após a sentença que homologou os. cálculos, foram efetuados pagamentos de todas as custas de Impostos devidos através de gulas emitidas pelo próprio Estado de Pernambuco.
+7. Argumenta ainda que o fundamento legal trazido pela parte agravante não se aplica aos casos dos autos, uma vez que a legislação citada não determina em qualquer dos seus artigos a atualização dos impostos.Informa, por fim, que o óbito do inventariante ocorreu em 10/02/2013, época que vigia a alíquota Inferior ao perseguido pela Fazenda Estadual.
+8. Verso a presente lide sobre a atualização monetária do monte -mor, requerida pela Fazenda Estadual para a cobrança do ITCMD.
+9. Pois bem, após perlusfrar os autos, infiro que competiria à Fazenda Pública Estadual, enquanto intrigado acerca dos valores atuais correspondentes aos bens formadores do espólio do de cujas, ter atacado a sentença homologatória do partilha mediante os instrumentos de impugnação conferidos pelo ordenamento jurídico processual, quais sejam:embargos de declaração ou recurso de apelação.
+10. No entanto, não foi o que aconteceu, sendo oportuno realizar uma singela retrospectiva dos fatos para sacramentar o entendimento de que certamente a pretensão do Estado -recorrente fora atingida pelo instituto da preclusão temporal. Vejamos. Apresentado os cálculos de liquidação (fls. 192/193), o juiz indeferiu através de sentença homologatória o pleito da Fazendo Estadual para atualização monetária do monte -mor.
+11. Ora, na ótica deste Relator, não há de se admitir que cota (fls. 194/195) exarada nos autos tenha o condão de conduzir ao reexame dos bens, cujos cálculos já tinham sido homologados por sentença judicial, ainda que se trate de demando de inventário, ação de rito especial com numerosas regras sul generis.
+12. Deveras, a melhor interpretação das normas adjetivas aplicáveis à espécie nos levo a crer que o ente fazendário poderia ter objetado o ato sentenciai por meio de embargos declaratórios ou apelação (dês que respeitados os requisitos para cada recurso) levantando as questões Jurídicas que agora trata neste instrumento.
+13. Portanto, tendo optado o agravante por atravessar petição nos autos suscitando a necessidade de renovação da avaliação dos bens ao Invés de percorrer pela via recursal adequada, findou por incidir em manifesta hipótese de preclusão temporal, inteligência do art. 183 do CPC/73 (art. 223 do CPC de 2015). Neste sentido vê os seguintes julgados: (TJ- SP - AI 20640187420158260000 SP 2064018-74.2015.8.26.0000, Relator: Mala da Rocha, Data de Julgamento: 19/05/2015. 21º Câmara de Direito Privado, Data de Publicação:20/05/2015); (TJ-RS - AI: 70064089204 RS, Relator: Alberto Delgado Neto, Data de Julgamento: 22/05/2015, Vigésima Terceira Câmara Cível, Data de Publicação: Diário da Justiça do dia 27/05/2015).
+14. Por unanimidade, negou-se provimento ao presente agravo de instrumento.
+Parecer do MPF pelo desprovimento do recurso.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente indicou como violado os arts. 162, caput e seus sete parágrafos 1º e 2º, 513 e 522 do CPC/1973.
+Sustentou em síntese, que o agravo de instrumento é a via adequada para impugnar a decisão homologatória de cálculos no processo de inventário, em face de suanatureza interlocutória.
+Após decisum que inadmitiu o recurso especial foi interpostoagravo.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários à decisão recorrida.
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CIVIL. INVENTÁRIO.AGRAVO DE INSTRUMENTO. SENTENÇA HOMOLOGATÓRIA DO CÁLCULO DE LIQUIDAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. FUNDAMENTO UTILIZADO DE FORMA SUFICIENTE E AUTÔNOMA NÃO IMPUGNADO. SÚMULA N. 283/STF.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, nos autos da Ação de Inventário, indeferiu a cota do Estado de Pernambuco. No Tribunal a quo, a decisão foi mantida.
+II - O Tribunal a quo,ao deslindar a controvérsia, explicitou que se trata de sentença homologatória de partilha, incluído os cálculos já homologados na sentença judicial.
+III - Do acima transcrito em confronto com o arrazoado recursal, verifica-se que a matéria dos dispositivos legais, tidos como violados, não foram examinados pelo Tribunal a quo, não ocorrendo o fenômeno do prequestionamento.
+IV - Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+V - Por outro lado, o fundamento acima vertido, de que os cálculos foram homologados na sentença de partilha, não foi enfrentado no recurso especial. Consoante a jurisprudência desta Corte, é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Nesse sentido: AgInt no REsp n. 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 29/6/2020, DJe 3/8/2020; EDcl no AgInt no REsp n. 1.838.532/CE, relator Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020; AgInt no AREsp n. 1.623.926/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/8/2020, DJe 26/8/2020.
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O Tribunal a quo,ao deslindar a controvérsia, explicitou que se trata de sentença homologatória de partilha, incluído os cálculos já homologados na sentença judicial.
+No ponto se transcreve:
+ ..
+Versa a presente lide sobre a atualização monetária do monte -mor, requerida pela Fazenda Estadual para a cobrança do ITCMD.
+Pois bem, após perlustrar os autos, infiro que competiria à Fazenda Pública Estadual, enquanto intrigada acerca dos valores atuais correspondentes aos bens formadores do espólio do de cujus ter atacado a sentença homologotória da partilha mediante os instrumentos de Impugnação conferidos pelo ordenamento jurídico processual, quais sejam:
+embargos de declaração ou recurso de apelação.
+No entanto, não foi o que aconteceu, sendo oportuno realizar uma singela retrospectiva dos fatos para sacramentar o entendimento de que certamente a pretensão do Estado-recorrente fora atingida pelo instituto da preclusão temporal. Vejamos.
+Apresentado os cálculos de liquidação (fls. 192/193), o juiz Indeferiu através de sentença homologatória o pleito da Fazenda Estadual para atualização monetário do monte - mor.
+Ora, na ótica deste Relator, não há de se admitir que cota (fls. 194/195) exarado nos autos tenha o condão de conduzir ao reexame dos bens, cujos cálculos já tinham sido homologados por sentença judicial, ainda que se trate de demanda de inventário, ação de rito especial com numerosas regras sul generis.
+Deveras, a melhor interpretação das normas adjetivas aplicáveis à espécie nos levo a crer que o ente fazendário poderia ter objetado o ato sentencial por melo de embargos declaratórios ou apelação (dês que respeitados os requisitos para cada recurso) levantando as questões jurídicos que agora trata neste instrumento.
+Portanto, tendo optado o agravante por atravessar petição nos autos suscitando a necessidade de renovação da avaliação dos bens ao invés de percorrer pela via recursal adequada, findou por incidir em manifesta hipótese de preclusão temporal, inteligência do art. 183 do CPC/73 (art. 223 do CPC de 2015). Neste sentido vê os seguintes julgados:
+ ..
+Do acima transcrito em confronto com o arrazoado recursal, verifica-se que a matéria dos dispositivos legais, tidos como violados, não foram examinados pelo Tribunal a quo, não ocorrendo o fenômeno do prequestionamento.
+Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Por outro lado, o fundamento acima vertido, de que os cálculos foram homologados na sentença de partilha, não foi enfrentado no recurso especial.Consoante a jurisprudência desta Corte, é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Nesse sentido: AgInt no REsp n. 1.389.204/MG, relatorMinistro Og Fernandes, Segunda Turma, julgado em 29/6/2020, DJe 3/8/2020; EDcl no AgInt no REsp n. 1.838.532/CE, relator Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020; AgInt no AREsp n. 1.623.926/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/8/2020, DJe 26/8/2020.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
