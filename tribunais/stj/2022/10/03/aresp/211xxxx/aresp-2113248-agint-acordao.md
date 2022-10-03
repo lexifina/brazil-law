@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Trata-se de agravo interno apresentado porCelg Distribuição S/Acontra decisão daPresidência do STJ, que, com base no art. 21-E, V, do RISTJ, conheceu do agravo em recurso especial para não conhecer do próprio apelo nobre, em razão da incidência doóbicedaSúmula 7/STJ.
+A parte agravante sustenta, em resumo, que "o Recurso Especial interposto pautou-se apenas em questões eminentemente de direito" e que a "necessidade de se conhecer a lide é muito diferente da necessidade de reexame de provas" (fl. 571).
+Requer, ao final, o provimento doagravo interno.
+Transcorreu, in albis, o prazo para impugnação (fl. 577).
+É o relatório.
+EMENTA
+ADMINISTRATIVO EPROCESSUAL CIVIL. AGRAVO INTERNO. ENERGIA ELÉTRICA. IRREGULARIDADE NO MEDIDOR. COBRANÇA INDEVIDA. MODIFICAÇÃO DAS CONCLUSÕES DO JULGADO A QUO. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. ÓBICE DA SÚMULA 7/STJ.
+1. OTribunal a quo concluiu que o procedimento administrativo de verificação de irregularidade de medição não atendeu aos requisitos que são exigidos, o que torna indevida a cobrança do débito.
+2. Aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, de modo a asseverar a validade da cobrança perpetrada, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparo.
+Com efeito, conforme constou no decisum, éinadmissível o recurso especial cuja análise demanda o reexame de conteúdo fático-probatório dos autos.
+No caso, a questão trazida à discussão no apelo nobre, relativa à cobrança pelo fornecimento de energia elétrica,restou assim decidida pela instância recorrida(fls. 519/521):
+3.4 Com análise dos documentos colacionados nestes autos, verifica-se que a Apelante violou expressamente o art. 129 da Resolução Normativa n. 414/2010 da ANEEL, que leciona acerca do procedimento administrativo de verificação de Irregularidade de Medição, in verbis:  ..
+3.5 Da leitura dos dispositivos transcritos, verifica-se que a regra é clara, no ato da inspeção e da retirada do medidor, o procedimento deverá ser acompanhado pelo consumidor (§ 2º do art. 129 da RN 414) ou qualquer pessoa indicada no ato da inspeção, o que não ocorreu no presente caso, pois o TOI foi elaborado unilateralmente pela Apelante, contrariando os pressupostos constitucionais do contraditório e da ampla defesa.
+3.6 Nessa perspectiva, constatando-se que o procedimento de inspeção e faturamento efetuado pela ENEL (CELG DISTRIBUIÇÃO S/A), no presente caso, não observou o prescrito na Resolução nº 414/2010 da ANEEL, a sentença merece ser mantida, com relação à declaração de inexistência do débito em questão. De consequência, diante da invalidade da cobrança.
+Denota-se, pois, que o Tribunal a quo concluiu que o procedimento administrativo de verificação de irregularidade de medição não atendeu aos requisitos que são exigidos, o que torna indevida a cobrança do débito.
+Nesse contexto, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, de modo a asseverar a validade da cobrança perpetrada,demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE INEXISTÊNCIA DE DÉBITO COMBINADA COM INDENIZAÇÃO POR DANOS MORAIS. ENERGIA ELÉTRICA. INVERSÃO DO JULGADO. SÚMULA 7/STJ. ANÁLISE DE RESOLUÇÃO. INVIABILIDADE NA VIA ELEITA.
+1. O Tribunal a quo, ao decidir a controvérsia, consignou: "Em suas razões de apelo (evento nº 64), a empresa recorrente alega, de início, que o procedimento administrativo questionado observou as normas estabelecidas na Resolução Normativa 414/10 da ANEEL, afirmando que através de inspeção de rotina realizada, verificou-se indícios de irregularidades no medidor de consumo da parte autora e, após lavratura do termo de ocorrência e registro fotográfico das irregularidades, houve a regularização da medição. (..) No caso presente, o lançamento de débito tendo como parâmetro consumo anterior ao início da irregularidade alegada (anos de 2013 e 2014), revela-se ilegal, haja vista que em tal período o imóvel era ocupado por terceiro não identificado nestes autos e, novamente citando o entendimento contido na sentença,  não é cabível compelir o usuário a pagar débito pretérito, tendo como base consumo de terceira pessoa que não guarda relação com o montante consumido, de fato, pelo autor  (destaquei). (..) Vê-se, portanto, que inexistem razões para a reforma da sentença que, com muito acerto, concluiu pela ilegalidade da cobrança de débito referente ao período em que o imóvel não era ocupado pelo recorrido" (fls. 317-319, e-STJ).
+2. Ultrapassar a conclusão a que chegou o Tribunal a quo demanda nova incursão no arcabouço fático-probatório carreado aos autos, procedimento sabidamente inviável na instância especial, pois vedado pela Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+3. Não obstante a parte recorrente aponte ofensa a preceito de lei federal para respaldar seu inconformismo, o exame de sua irresignação, conforme se depreende das próprias razões recursais, exige apreciação da Resolução 414/2010, da ANEEL, cuja análise é inviável em Recurso Especial, porquanto não se insere no conceito de lei federal a que se refere o art. 105, III, "a"", da Constituição Federal.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 1.993.996/GO, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/4/2022, DJe de 23/6/2022)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO C/C RESTITUIÇÃO DO VALOR EM DOBRO E INDENIZAÇÃO POR DANOS MORAIS. ENERGIA ELÉTRICA. ANEEL. SISTEMA DE BANDEIRAS TARIFÁRIAS. COBRANÇA INDEVIDA. REPETIÇÃO DE INDÉBITO. POSSIBILIDADE. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DA CELG D A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem reconheceu, com base na análise das contas de energia juntadas aos autos, que ficou clara a cobrança indevida, afirmando ter a distribuidora agido com dolo ao não observar o regramento aplicável à espécie. A revisão, portanto, das premissas do acórdão mostra-se inviável por óbice na Súmula 7/STJ.
+2. Agravo Interno da CELG DISTRIBUIÇÃO S.A. - CELG D a que se nega provimento .
+(AgInt no AREsp n. 1.790.490/GO, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 25/10/2021, DJe de 27/10/2021)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
