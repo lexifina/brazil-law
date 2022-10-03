@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSO CIVIL. PREVIDÊNCIA PRIVADA. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO CESTA-ALIMENTAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO AGRAVADA.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente motivadas e fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Agravo interno provido para reconsiderar a decisão agravada, e, em nova análise, rejeitar os embargos de declaração.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno, interposto por CAIXA DE PREVIDÊNCIA DOS FUNCIONÁRIOS DO BANCO DO BRASIL - PREVI, contra decisão que acolheu os embargos de declaração para, atribuindo-lhes efeitos infringentes, reconsiderar a decisão de fls. 341-347 e negar provimento ao recurso especial.
+Em suas razões recursais, afirma que a decisão de fls. 366-370, que julgou os embargos de declaração opostos pela agravante, incorreu em reformatio in pejus, pois "somente a PREVI opôs Embargos de Declaração, devendo ser apreciado somente os aspectos levantados por essa, restando totalmente contraditória a decisão dos Embargos, ao passo que acolheu os embargos e no final negou provimento ao Recurso Especial interposto".
+Requer, ao final, o provimento do agravo interno para "reconhecer que o julgamento dos Embargos de Declaração feriu o princípio da reformatio in pejus e da coisa julgada, e consequentemente manter a decisão que deu provimento ao Recurso Especial, em conformidade com a jurisprudência proferida em recursos repetitivos, revogando-se, também, a decisão que antecipou os efeitos da tutela para julgar improcedente os pedidos iniciais, haja vista a dissonância da decisão recorrida com a jurisprudência pátria" (fls. 374-378).
+Devidamente intimada, a parte agravada não se manifestou, conforme certidão de fl. 381.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. PREVIDÊNCIA PRIVADA. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUXÍLIO CESTA-ALIMENTAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS. AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO AGRAVADA.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente motivadas e fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Agravo interno provido para reconsiderar a decisão agravada, e, em nova análise, rejeitar os embargos de declaração.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Assiste razão à ora agravante quanto à configuração de reformatio in pejus no julgamento dos embargos de declaração opostos pela ora agravante às fls. 351-353. Dessa forma, reconsidero a decisão de fls. 366-370.
+Passa-se a nova análise dos embargos de declaração.
+Aduz a embargante a existência de omissão na decisão quanto à "expressa revogação da tutela antecipada , autorizando a Previ a cobrar valores eventualmente pagos" e a revogação de "qualquer multa eventualmente imposta por força de eventual descumprimento da obrigação imposta na decisão então revogada" (fl. 353).
+As razões apresentadas nos embargos de declaração não evidenciam a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015; ao revés, todas as questões foram analisadas na decisão de fls. 341-347, ainda que contrariamente à pretensão da parte embargante, o que, por si só, inviabiliza o acolhimento dos declaratórios.
+Com efeito, quanto ao art. 273 do CPC/73 e à Súmula 500/STF, a decisão embargada consignou:
+"No tocante à antecipação de tutela, verifica-se que tal tese não foi objeto de debate e decisão na colenda Corte a quo tampouco foram opostos Embargos de Declaração.
+Desse modo, ante a falta de prequestionamento, incidem as súmulas 282 e 356 do Supremo Tribunal Federal. De fato, esta Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados no recurso especial, ainda que a violação a dispositivos infraconstitucionais surja no julgamento de recurso pelo Tribunal a quo. Nessa hipótese, mister se faz que a parte prejudicada por eventual ofensa perpetrada pela instância ordinária apresente embargos de declaração, buscando o exame do tema e viabilizando, assim, o acesso à instância especial. Na ausência de oposição de embargos declaratórios, a questão infraconstitucional não será examinada e, portanto, lhe faltará o necessário e indispensável prequestionamento, o que autorizará a aplicação das Súmulas 282 e 356/STF (AgRg no REsp 1.225.390/PR, Terceira Turma, Rel. Min. RICARDO VILLAS BÔAS CUEVA, DJe de 21/10/2011; AgRg no Ag 545.303/PR, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 15/12/2008).
+Noutro ponto, quanto à alegada negativa de vigência a Súmula 500 do STF, registre-se, que, "a análise de ofensa à Súmula é inviável porque está à margem das hipóteses de cabimento do Recurso Especial, previstas no art. 105, III, da Constituição Federal" (AgRg no Ag 1.236.658/MG, Ministro HERMAN BENJAMIN, DJe de 2/3/2010). Esta Corte, sobre o tema, editou recentemente a Súmula n. 518, que preleciona: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula."" (fls. 341-342)
+Dessa forma, verifica-se a inexistência da alegada omissão na decisão.
+Ademais, os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre a qual se devia pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como corrigir erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Nessas condições, rejeitam-se os aclaratórios.
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão de fls. 366-370 e, em nova análise, rejeitar os embargos de declaração opostos às fls. 351-353.
+É como voto.
