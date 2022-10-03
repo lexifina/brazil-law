@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Benedito Gonçalves.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Trata-se de agravo interno contra decisão assim ementada (fl. 1.092):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO AGRAVADA RECONSIDERADA. TEMA SUBMETIDO À SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO NA ORIGEM.
+A parte agravante sustenta, em síntese, queo agravo interno de fls. e-STJ 1056/ 1075 não poderia ter sido conhecido. Ele não impugnou, de forma concreta e específica, os fundamentos utilizados pela r. decisão monocrática agravada (fls. 1046/1050) que provera o recurso especial interposto pelo Estado do Paraná.(fl. 1.136)
+Pugna, ainda, pelo afastamento da multa, alegando quenão há como se vislumbrar protelatório o segundo recurso integrativo, que buscava sanar vício que surgiu no julgamento dos primeiros aclaratórios. (fl. 1.134)
+Impugnação às fls. 1.143-1.154.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. DECISÃO QUE DETERMINAA DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA REALIZAR O JUÍZO DE ADEQUAÇÃO DOS ARTS. 1.040 E 1.401 DO CPC/2015. AUSÊNCIA DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE.
+1.Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2.Consoante entendimento jurisprudencial desta Corte,a decisão que determina a devolução dos autos ao Tribunal de origem para que seja observada a sistemática dos recursos repetitivos, não possui caráter decisório e não causa prejuízo às partes.
+3.Mostra-se escorreita a aplicação da multaprevista no § 2º do art. 1.026 do CPC, tendo em vista que a parte opôs embargos declaratórios consecutivos, em que foram trazidos aspectos já examinados anteriormente, restando claro o seu caráter manifestamente protelatório.
+4. Agravo interno parcialmente conhecido e, nessa extensão, não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+A insurgência não merece prosperar.
+Com efeito, verifica-se que a decisão agravada determinou a devolução dos autos ao Tribunal de origem para realizar o juízo de adequaçãodo caso concreto ao decidido nosREsp "s 1.850.512/SP e 1.877.883/SP(Tema 1.076/STJ), consoante os termos dos arts. 1.040 e 1.041 do CPC/2015.
+Convém lembrar que a decisão que determina a devolução dos autos ao Tribunal de origem para que seja observada a sistemática dos recursos repetitivos, não possui caráter decisório e não causa prejuízo às partes.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. INCLUSÃO DA MULTA CIVIL NA MEDIDA. MATÉRIA AFETADA. TEMA 1.055/STJ. DECISÃO QUE DETERMINA DEVOLUÇÃO DOS AUTOS À ORIGEM. INEXISTÊNCIA DE CARÁTER DECISÓRIO E DE PREJUÍZO ÀS PARTES. IRRECORRIBILIDADE. ART. 256-L, I, DO RISTJ.AGRAVO NÃO CONHECIDO.
+1. A jurisprudência desta Corte é firme no sentido de não ser cabível agravo interno contra decisão que determina o retorno dos autos à origem a fim de que seja observada a sistemática do recurso especial repetitivo, por ausência de conteúdo decisório e de prejuízo às partes. Precedentes.
+2. Agravo interno não conhecido
+(AgInt no REsp 1.911.267/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 15/06/2021, DJe 21/06/2021).
+TRIBUTÁRIO. PROCESSUAL CIVIL. CPC/2015. RECURSOS ESPECIAIS DO CONTRIBUINTE E DA FAZENDA NACIONAL. TEMA AFETADO AO RITO DOS REPETITIVOS PELO STJ. DEVOLUÇÃO DO FEITO AO TRIBUNAL DE ORIGEM PARA A FEITURA DO JUÍZO DE CONFORMAÇÃO. ATO DE SOBRESTAMENTO DESTITUÍDO DE CARÁTER DECISÓRIO. IRRECORRIBILIDADE. PRECEDENTES. AUSÊNCIA DE INTERESSE RECURSAL DO CONTRIBUINTE. IMPOSSIBILIDADE DE CISÃO DOS JULGAMENTOS DOS RECURSOS ESPECIAIS DAS PARTES. NECESSIDADE DE ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA PARA FINS DE REGULAR TRAMITAÇÃO DO ESPECIAL APELO. IMPOSSIBILIDADE DE CISÃO DE JULGAMENTO.INEXISTÊNCIA DE PREVALÊNCIA DO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL SOBRE O NECESSÁRIO JUÍZO DE CONFORMAÇÃO A CARGO DA CORTE LOCAL. AGRAVO EM RECURSO ESPECIAL MANEJADO TEMPESTIVAMENTE PELA FAZENDA NACIONAL. LITIGÂNCIA DE MÁ-FÉ DA PARTE CONTRIBUINTE EVIDENCIADA. APLICAÇÃO DE MULTA.
+1. O agravo em recurso especial de fls. 1.010/1.018, da Fazenda Nacional, revela-se tempestivo: de fato, o órgão fazendário foi intimado da decisão presidencial local, que inadmitiu seu seu especial apelo, em 7.6.2013 (fl. 1.008), tendo protocolado o subsequente agravo em recurso especial em 18.6.2013 (fl. 1.010), ou seja, dentro do prazo de vinte dias previsto na combinada exegese dos arts. 188 e 544 do CPC/73.
+2. O ato judicial que determina o sobrestamento e o retorno dos autos à Corte de origem, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória, por isso que se trata de provimento irrecorrível. Precedentes: STJ - AgInt nos EDcl nos EREsp 1.126.385/MG, Rel. Ministro Og Fernandes, Primeira Seção, DJe 20/9/2017; STF - RE 630.719 AgR-segundo-AgR-AgR, Rel. Ministro Alexandre de Moraes, Primeira Turma, DJe 28/11/2017.
+3. Afora isso, emerge, no caso, a falta de interesse recursal da parte contribuinte, na medida em que se insurge contra a determinação de sobrestamento do recurso especial da parte adversa.
+4. Na espécie, a decisão agravada determinou a devolução dos autos ao Tribunal de origem, porquanto a questão trazida no recurso especial do contribuinte coincide com aquela já apreciada no âmbito do REsp 1.221.170/PR - Tema 780/STJ, em repetitivo, podendo, ademais, repercutir na solução do recurso fazendário.
+desenhados nos arts. 1.040 e 1.041 do CPC/2015.
+5. Em tal cenário, presente a necessidade do juízo de conformação (ressalvada a hipótese em que flagrante a intempestividade do recurso especial ou do agravo para o seu destrancamento), o feito deve retornar à respectiva instância recursal ordinária, quedando desinfluente a circunstância de já ter havido o provisório juízo de admissibilidade pela Corte local.
+6. Agravo interno não conhecido, com aplicação de multa por litigância de má-fé
+(AgInt nos EDcl no REsp 1.444.050/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 05/11/2019, DJe 22/11/2019).
+Por fim, mostra-se escorreita a aplicação da multa prevista no § 2º do art. 1.026 do CPC, tendo em vista que a parte opôs embargos declaratórios consecutivos, em que foram trazidos idênticos argumentos, restando claro o seu caráter manifestamente protelatório. Nessa linha de entendimento:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSOESPECIAL. JUROS DE MORA E CORREÇÃO MONETÁRIA. OBRIGAÇÕES DE TRATOSUCESSIVO. LEI NOVA. APLICAÇÃO IMEDIATA A TODOS OS PROCESSOS. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. EMBARGOS DECLARATÓRIOSPROTELATÓRIOS. MULTA. ART. 1.026, § 2º, DO CPC. INCIDÊNCIA.
+1. "A Primeira Seção do STJ, no julgamento do REsp 1.112.746/DF,afirmou que os juros de mora e a correção monetária são obrigaçõesde trato sucessivo, que se renovam mês a mês, devendo, portanto, seraplicada no mês de regência a legislação vigente. Por essa razão,fixou-se o entendimento de que a lei nova superveniente que altera oregime dos juros moratórios deve ser aplicada imediatamente a todosos processos, abarcando inclusive aqueles em que já houve o trânsitoem julgado e estejam em fase de execução. Não há, pois, nessescasos, que falar em violação da coisa julgada." (EDcl no AgRg noREsp 1.210.516/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRATURMA, julgado em 15/9/2015, DJe 25/9/2015.)
+2. Mostra-se escorreita a aplicação da multa prevista no § 2º doart. 1.026 do CPC, tendo em vista que a parte opôs embargosdeclaratórios consecutivos, em que foram trazidos aspectos jáexaminados anteriormente, restando claro o seu carátermanifestamente protelatório.
+3. Agravo interno não provido
+(AgInt nos EDcl nos EDcl no REsp 1574419/PR, Rel. Min. Sérgio Kukina, Primeira Turma, Julgado em 21/6/21, DJe 24/6/21)
+Ante o exposto,conheço parcialmente do agravo interno e, nessa extensão, nego-lhe provimento.
+É como voto.
