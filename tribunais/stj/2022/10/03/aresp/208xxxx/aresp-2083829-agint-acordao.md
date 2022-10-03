@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que deu provimento ao recurso especial fundado no art. 105, III,a, da Constituição Federal, que reformou acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+EXECUÇÃO FISCAL. DÍVIDA NÃO TRIBUTÁRIA. ANTT. MULTAADMINISTRATIVA. VEÍCULO TRANSFERIDO ANTERIORMENTE AOSFATOS. ART. 134 DO CTB. RESPONSABILIDADE SOLIDÁRIAMITIGADA.
+1. A transferência da propriedade de bem móvel, segundo o regramento vigente, ocorre com a simples tradição do bem, sendo que, no caso de veículos, a comunicação da transferência da propriedade do veículo ao órgão competente, no caso, o DETRAN, possui finalidade meramente administrativa. Assim, sua inobservância não acarreta, por si só, a responsabilidade solidária por infração cometida por terceiro.
+3. A jurisprudência do STJ tem mitigado a regra de responsabilidade solidária prevista no art. 134 do CTB quando comprovada a impossibilidade de imputar ao antigo proprietário as infrações cometidas, como ocorreu no caso dos autos.
+4. Assim, inexistindo dúvida de que as infrações foram cometidas após a transferência da propriedade do veículo, afigura-se ilegítima a aplicação de multa em face do antigo proprietário.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial para reconhecer a legitimidade passiva do executado."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Conforme se evidencia na decisão do TRF, no presente caso, inexiste qualquer dúvida acerca da responsabilidade pela multa, estando provado que o antigo proprietário não foi responsável pela infração, bem com que a transferência se deu em data anterior a esta, inclusive constando a data da transferência do veículo no cadastro administrativo do Detran.
+ ..
+Com efeito, modificar o entendimento acerca da matéria fática assentada na decisão do TRF, como se observa no trecho supratranscrito, esbarra no óbice da súmula 7/STJ. Assim, não há possibilidade de modificação do arcabouço fático-probatório em sede de recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EXECUÇÃO FISCAL. DÍVIDA ATIVA NÃO TRIBUTÁRIA. MULTA ADMINISTRATIVA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ILEGITIMIDADE PASSIVA. TRANSFERÊNCIA DE PROPRIEDADE DO VEÍCULO. NECESSIDADE DE COMUNICAÇÃO AO ÓRGÃO COMPETENTE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação de execução fiscal objetivando o recebimento de dívida não tributária. A parteexecutada apresentou exceção de pré-executividade alegando suailegitimidade passiva. Na sentença o pedido foi julgado procedente para reconhecer a ilegitimidade passiva ad causam,extinguindo, assim, o processo, sem resolução de mérito. No Tribunala quo, a sentença foi mantida.
+II - Sobre o reconhecimento da legitimidade do ex-proprietário do veículo para figurar no polo passivo de execução fiscal que visa a cobrança de multa administrativa imposta ao novo proprietário do automóvel, a jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que cabe à parte alienante comunicar a transferência de propriedade ao órgão competente, sob pena de responder solidariamente por eventuais infrações de trânsito, nos termos do art. 134 do Código de Trânsito Brasileiro. Nesse sentido:AgInt no AgInt no AREsp n. 1.793.208/MS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/4/2022;AgInt no PUIL n. 1.556/SP, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 17/6/2020.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+Sobre o reconhecimento da legitimidade do ex-proprietário do veículo para figurar no polo passivo de execução fiscal que visa a cobrança de multa administrativa imposta ao novo proprietário do automóvel, a jurisprudênciado Superior Tribunal de Justiça é pacífica ao afirmar que cabe à parte alienante comunicar a transferência de propriedade ao órgão competente, sob pena de responder solidariamente por eventuais infrações de trânsito, nos termos do art. 134 do Código de Trânsito Brasileiro. Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO. ALIENAÇÃO DE VEÍCULO. AUSÊNCIA DE COMUNICAÇÃO AO DETRAN PELO VENDEDOR. ART. 134 DO CTB. MULTAS DE TRÂNSITO. INFRAÇÕES OCORRIDAS EM MOMENTO POSTERIOR À VENDA DO VEÍCULO. RESPONSABILIDADE SOLIDÁRIA DO ANTIGO PROPRIETÁRIO. SÚMULA 585/STJ.
+1. Cabe à parte alienante comunicar a transferência de propriedade ao órgão competente, sob pela de responder solidariamente por eventuais infrações de trânsito, nos termos do art. 134 do Código de Trânsito Brasileiro.
+2. A mitigação da regra da responsabilidade solidária diz respeito, tão somente, aos débitos de natureza tributária, uma vez que é vedada a criação de responsabilidade tributária ao antigo proprietário quando esta não estiver prevista no Código Tributário Nacional ou em legislação estadual, circunstância não verificada no caso dos autos.
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.793.208/MS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/4/2022.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. PUIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. ALIENAÇÃO DE VEÍCULO. AUSÊNCIA DE COMUNICAÇÃO AO DETRAN PELO VENDEDOR. ART. 134 DO CTB. MULTAS DE TRÂNSITO. INFRAÇÕES OCORRIDAS EM MOMENTO POSTERIOR À VENDA DO VEÍCULO. RESPONSABILIDADE SOLIDÁRIA DO ANTIGO PROPRIETÁRIO. SÚMULA 585/STJ.
+1. Nos termos do art. 932, IV, a, do CPC/2015 c/c o art. 253, II, b, do RISTJ, é autorizado ao Relator negar provimento ao recurso contrário à Súmula ou à jurisprudência dominante deste Superior Tribunal de Justiça, hipótese dos presentes autos, sendo que a possibilidade de interposição de agravo interno ao órgão colegiado afasta a alegação de ofensa ao princípio da colegialidade. Nesse sentido: AgInt no MS 22.585/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe 9/4/2019.
+2. Na forma da jurisprudência desta Corte, "a parte alienante do veículo deve comunicar a transferência de propriedade ao órgão competente, sob pena de responder solidariamente em casos de eventuais infrações de trânsito, prevista no art. 134 do Código de Trânsito Brasileiro" (AgInt no AREsp 1.365.669/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 22/4/2019). Nesse mesmo sentido: AREsp 438.156/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 16/12/2019; AgInt no REsp 1.653.340/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 30/05/2019.
+3. A responsabilidade solidária do ex-proprietário, prevista no art. 134 do CTB, somente pode ser mitigada na hipótese da Súmula 585/STJ: "A responsabilidade solidária do ex-proprietário, prevista no art. 134 do Código de Trânsito Brasileiro CTB, não abrange o IPVA incidente sobre o veículo automotor, no que se refere ao período posterior à sua alienação".
+4. Agravo interno não provido.
+(AgInt no PUIL n. 1.556/SP, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 17/6/2020.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
