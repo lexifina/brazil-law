@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por SUL AMERICA COMPANHIA NACIONAL DE SEGUROS, em face da decisãoque,diante do reconhecimento de repercussão geral da questão constitucional debatida nos autos do RE n. 827.996/PR, não permitiu a suspensão do processo em razão do decidido pelo Plenário do STF no julgamento do Tema 1.011.
+Nas razões do agravo interno, a agravante alegaque "dar-se regularmente andamento ao cumprimento provisório de sentença, na pendência de análise da matéria referente ao RE 827.996/PR em sede de apelação, é medida capaz de gerar uma séria de consequências danosas para os jurisdicionados" (e-STJ, fl. 180).
+A impugnação foi apresentada, com requerimento de aplicação de multa, nos termos do art. 1.021, 4º, do CPC/15 (e-STJ, fls. 184/188).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO HABITACIONAL. SISTEMA FINANCEIRO DE HABITAÇÃO. TEMA Nº 1.011/STF. MÉRITO NÃO DEBATIDO NO ACÓRDÃO RECORRIDO. DISCUSSÃO UNICAMENTE SOBRE A SUSPENSÃO DOS AUTOS. SUPERADA. DECISÃO AGRAVADA MANTIDA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece provimento. Nada de novo traz a parte agravante capaz de modificar o entendimento exposto na decisão agravada.
+Efetivamente, o Supremo Tribunal Federal concluiu pela existência de repercussão geral da matéria constitucional no RE nº 827.996/PR, da relatoria do Ministro Gilmar Mendes, em que se debate, à luz dos arts. 5º, XXXV, e 109, I, da Constituição Federal, a "existência de interesse jurídico da Caixa Econômica Federal para ingressar omo parte ou terceira interessada nas ações envolvendo seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação" e, consequentemente, "a competência da Justiça Federal para o processamento e o julgamento das ações dessa natureza" (Tema 1.011).
+Ao julgar a questão, o Pleno do Supremo Tribunal Federal, em sessão virtual ocorrida em 29/6/2020, fixou as seguintes teses:
+(..)
+1) "Considerando que, a partir da MP 513/2010 (que originou a Lei 12.409/2011 e suas alterações posteriores, MP 633/2013 e Lei 13.000/2014), a CEF passou a ser administradora do FCVS, é aplicável o art. 1º da MP 513/2010 aos processos em trâmite na data de sua entrada em vigor (26.11.2010):
+1.1.) sem sentença de mérito (na fase de conhecimento), devendo os autos ser remetidos à Justiça Federal para análise do preenchimento dos requisitos legais acerca do interesse da CEF ou da União, caso haja provocação nesse sentido de quaisquer das partes ou intervenientes e respeitado o § 4º do art. 1º-A da Lei 12.409/2011; e
+1.2) com sentença de mérito (na fase de conhecimento), podendo a União e/ou a CEF intervir na causa na defesa do FCVS, de forma espontânea ou provocada, no estágio em que se encontre, em qualquer tempo e grau de jurisdição, nos termos do parágrafo único do art. 5º da Lei 9.469/1997, devendo o feito continuar tramitando na Justiça Comum Estadual até o exaurimento do cumprimento de sentença"; e
+2) "Após 26.11.2010, é da Justiça Federal a competência para o processamento e julgamento das causas em que se discute contrato de seguro vinculado à apólice pública, na qual a CEF atue em defesa do FCVS, devendo haver o deslocamento do feito para aquele ramo judiciário a partir do momento em que a referida empresa pública federal ou a União, de forma espontânea ou provocada, indique o interesse em intervir na causa, observado o § 4º do art. 64 do CPC e/ou o § 4º do art. 1º-A da Lei 12.409/2011.
+O acórdão, publicado em 20/8/2020, está assim ementado:
+Recurso extraordinário. Repercussão geral.
+2. Sistema Financeiro da Habitação (SFH). Contratos celebrados em que o instrumento estiver vinculado ao Fundo de Compensação de Variação Salarial (FCVS). Apólices públicas, ramo 66.
+3. Interesse jurídico da Caixa Econômica Federal (CEF) na condição de administradora do FCVS.
+4. Competência para processar e julgar demandas desse jaez após a MP 513/2010: em caso de solicitação de participação da CEF (ou da União), por quaisquer das partes ou intervenientes, após oitiva daquela indicando seu interesse, o feito deve ser remetido para análise do foro competente: Justiça Federal (art. 45 c/c art. 64 do CPC), observado o § 4º do art. 1º-A da Lei 12.409/2011. Jurisprudência pacífica.
+5. Questão intertemporal relativa aos processos em curso na entrada em vigor da MP 513/2010. Marco jurígeno. Sentença de mérito. Precedente.
+6. Deslocamento para a Justiça Federal das demandas que não possuíam sentença de mérito prolatada na entrada em vigor da MP 513/2010 e desde que houvesse pedido espontâneo ou provocado de intervenção da CEF, nesta última situação após manifestação de seu interesse.
+7. Manutenção da competência da Justiça Estadual para as demandas que possuam sentença de mérito proferida até a entrada em vigor da MP 513/2010.
+8. Intervenção da União e/ou da CEF (na defesa do FCVS) solicitada nessa última hipótese. Possibilidade, em qualquer tempo e grau de jurisdição, acolhendo o feito no estágio em que se encontra, na formado parágrafo único do art. 5º da Lei 9.469/1997.
+(RE 827.996, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 29/06/2020, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe - 208 DIVULG 20/8/2020 PUBLIC 21/8/2020).
+Desse modo, diante do julgamento da controvérsia em repercussão geral, o presente recurso especial não comporta solução no âmbito desta Corte Superior. Isso porque, o reconhecimento de repercussão geral orienta o sobrestamento dos feitos e autoriza o reexame da matéria pelos tribunais de origem, que poderão declarar os recursos prejudicados ou se retratar, conforme o caso, nos termos dos arts. 1.039 e 1.040 do Código de Processo Civil de 2015.
+Contudo, na hipótese dos autos, após decisão dedevolução dos autos à Corte de origem a fim de aplicação do juízo de conformidade e, eventualmente, de retratação, de matéria submetida ao rito da repercussão geral, oTribunal de origem devolveu os autos a esta Corte Superior, alegando que"in casu, cumpre observar que a matéria relativa à competênciapara apreciar demandas de seguro habitacional com cobertura do FCVS não teve seu mérito debatido no V. Acórdão recorrido, eis que somente discutido o não cabimento da suspensão do processo em razão da afetação do tema 1011 pelo E. Supremo Tribunal Federal. Tanto é assim que, após o julgamento dos embargos declaratórios, a agravante aduziu em seu recurso especial tão somente a ofensa aos artigos 313 e 1035 do CPC" (e-STJ, fl. 164).
+Dessa forma, considerando que a única questão debatida pela agravante nas razões do seu recurso especial (e-STJ, fls. 44/49) foi a suspensão do processo em razão do Tema 1.011/STF, e não o mérito da demanda em si, encontra-se superada sua discussão, em virtude do julgamento proferido no RE nº 827.996/PR.
+Consequentemente, não há razão para suspensão dos autos, para posterior exame de matéria, que sequer foi debatido no acórdão recorrido.
+Por fim, em regra, descabe a imposição da multa, prevista no art. 1.021,§ 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto às partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+É o voto.
