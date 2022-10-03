@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Gurgel de Faria.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado pela UNIÃOpara desafiar decisão proferida às e-STJ fls. 441/447, em que conhecido agravo para não conhecerdo recurso especial, considerando a ausência de violação ao art. 1.022 do CPC/2015, a ausência de interesse recursal e a incidência das Súmulas 7 e 83 do STJ.
+Sustenta a parte agravante, inicialmente, "que recorrerá apenas dos capítulos da decisão que afastou a violação ao artigo 1022 do CPC e aplicou os óbices das súmulas7 e 83 do STJ" (e-STJ fl. 455).
+Alega, ainda, que houve omissão quanto à possibilidade de encostamento do autor, uma vez que pode ser mantido na Organização Militar apenas para tratamento médico, não fazendo jus à percepção de vencimentos; que os fatos que pretende revalorar estão descritos no acórdão; e que não se aplica a Súmula 83 do STJ, tendo em vista que, "inexistindo incapacidade definitiva, o ato de licenciamento por conveniência do serviço, sem vencimentos, do militar não-estável, está dentro dos limites da discricionariedade da Administração" (e-STJ fl. 457).
+Impugnação às e-STJ fls. 461/467, em que a parte adversa pugna pelonão conhecimento do agravo e, subsidiariamente, pelo seu desprovimento, bem assim pela aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 e da multa por litigância de má-fé.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DE PROVAS. IMPOSSIBILIDADE.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3.Não há violação do art. 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de forma clara, coerente e fundamentada sobre as teses relevantes à solução do litígio.
+4.Infirmar o entendimento alcançado pela Corte de origem, a fim deacolher atese, suscitada pela recorrente,de que o autor estava completamenterecuperadoà época do licenciamento ex officio, demandaria o reexame doconjunto fático-probatório dos autos, inviável na via de recurso especial(Súmula 7 do STJ).
+5. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (quer dizer, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno merece ser conhecido em parte.
+Com efeito, no decisum ora recorrido, conheci do agravo para não conhecer do recurso especial, havendo os seguintes capítulos autônomos:
+a) ausência de violação ao art. 1.022 do CPC/2015;
+b) incidência da Súmula 7 do STJ, em relação à alegada violação dos arts. 34, § 4º, da Lei n. 4.375/1964; 50, IV, "e", e 121, II, § 3º, da Lei n. 6.880/1980 e 3º, 140 e 149 do Decreto n. 57.654/1966, relativa à tese de que "o fato de o autor ter sofrido um acidente enquanto estava no serviço militar não lhe garante o direito à reintegração pretendida, pois estava recuperado completamente à época do licenciamento ex officio" (e-STJ fl. 381); e
+c) aplicação da Súmula 83 do STJ, uma vez que o acórdão recorrido está de acordo com a jurisprudência do STJ, no sentido de que "o militar temporário, acometido de debilidade física ou mental não definitiva, não pode ser licenciado, fazendo jus à reintegração no quadro de origem para tratamento médico-hospitalar adequado à incapacidade temporária, como adido, dispensada a relação de causa e efeito da moléstia com o serviço prestado" (REsp 1778685/RS, rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 11/03/2019).
+Contudo, da leitura das razões do agravo interno, observa-se que a parte agravante deixou de atacar devidamente o fundamento do item "c" do parágrafo anterior.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Há de ser consignado não ser suficiente mera citação de precedente no sentido da pretensão do agravante para fins de rebatimento do referido enunciado, o qual dispõe que "não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida". Antes, deve o agravante contrapor frontalmente esse fundamento.
+Inadmitido o recurso especial com base na Súmula 83 do STJ, caberia à agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, § 1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Quanto às demais questões, opresente agravo não merece prosperar.
+Como assinalado na decisão ora agravada, em relação à alegada ofensa doart.1.022, II, do CPC/2015, por negativa de prestação jurisdicional quantoao instituto do encostamento, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, nos seguintes termos (e-STJ fls. 312/314,316/317 e 321):
+Da reintegração
+O Estatuto dos Militares (Lei nº 6.880, de 9 de dezembro de 1980) regula a situação, obrigações, deveres, direitos e prerrogativas dos membros das Forças Armadas. Cumpre ressaltar que a lei alcança não apenas os militares de carreira, mas também os "incorporados às Forças Armadas para prestação de serviço militar inicial, durante os prazos previstos na legislação que trata do serviço militar, ou durante as prorrogações daqueles prazos".
+O artigo 104 do referido Estatuto assim dispõe, quanto a reforma do militar na forma pretendida pelo autor:
+ ..
+A reformaex officiopoderá ser aplicada na hipótese de incapacidade definitiva, podendo ocorrer em consequência de acidente em serviço, consoante o disposto no artigo 108, inciso III, do Estatuto dos Militares.Ressalte-se que a lei não exige a incapacidade total e permanente para toda e qualquer atividade laboral para a obtenção da reforma fundada no inciso III, ao contrário da hipótese prevista no inciso VI, que tratada ausência de relação de causa e efeito entre a doença e o serviço militar, nos termos do artigo 111, inciso II, do diploma legal:
+ ..
+No caso dos autos, a União sustenta que o autor não era incapaz para qualquer atividade laborativa quando do seu licenciamento.
+De acordo com a jurisprudência do E. STJ, no julgamento dos embargos de divergência em recurso especial nº 1.123.371, ocorrido em 19/09/2018, restou decidido que os militares temporários somente terão direito à reformaex officiose forem considerados inválidos tanto para o serviço militar como para as demais atividades laborativas civis, quando a incapacidade decorrer de acidente ou doença, moléstia ou enfermidade, sem relação de causa ou efeito com o serviço militar.
+ ..
+No caso dos autos, o autor é militar temporário.
+Dos documentos juntados ao processo original, verifica-se que o autor sofreu acidente em 16/06/2008, lesionando o joelho esquerdo, que lhe causam dores.
+No laudo pericial, o Sr. Perito concluiu que o autor está incapaz parcial e temporariamente, com redução laborativa em 70%, mas com possibilidade de melhora por meio de cirurgia (ID nº 28529988).
+Ademais, como bem analisado na r. sentença recorrida:
+"Da análise das provas carreadas aos presentes autos, cheguei às seguintes conclusões: a) a lesão sofrida pelo autor iniciou-se quando ele estava prestando serviço militar; b) talvez por falta de tratamento adequado, com essa lesão, foi afetada, ainda que temporariamente (e, portanto, em situação de reversibilidade), a capacidade laborativa do mesmo; c) atualmente o autor não está apto ao serviço militar; e d) a lesão do autor não é permanente."
+É certo reconhecer, nesse passo, que não se encontrava o militar em condições de saúde iguais às verificadas no momento de sua admissão.
+Dessa forma, conclui-se que, para fazer jus a reforma, o autor deveria estar incapacitado de forma definitiva para o serviço militar, o que não foi constatado pelo perito, ou ter permanecido agregado por mais de 02 (dois) anos, conforme disposto no art. 106, III, da Lei nº 6.880/80.
+Entretanto, mesmo na hipótese de militar temporário e não se ignorando que o licenciamento é ato discricionário da Administração, não poderia o autor ter sido dispensado do serviço castrense, vez que no momento do seu licenciamento, encontrava-se incapacitado temporariamente para o serviço militar, sendo de rigor, portanto, a concessão da reintegração para continuação do tratamento.
+ ..
+A remuneração deverá ser baseada no soldo equivalente à graduação que o autor recebia quando estava na ativa, sendo devidos os soldos atrasados a partir do licenciamentoex officio, conforme jurisprudência do E. STJ, observado o prazo prescricional quinquenal:
+ ..
+Diante do exposto,nego provimento à apelação da União, para manter a sentença, nos termos da fundamentação acima. (Grifos acrescidos).
+Diante desses fundamentos, não há quefalar em ofensa aoart.1.022, II,do CPC/2015.
+No mérito, em relação à alegada violação dosarts.34, § 4º, da Lei n. 4.375/1964; 50, IV, "e", e 121, II, § 3º, da Lei n. 6.880/1980 e 3º, 140 e 149 do Decreto n. 57.654/1966, relativa à tese de que"o fato de o autor ter sofrido um acidente enquanto estava no serviço militar não lhe garante o direito à reintegração pretendida, pois estava recuperado completamente à época do licenciamentoex officio" (e-STJ fl. 381), verifica-sequea modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, de acordo com a Súmula 7 do STJ.
+Deixo de aplicar a multa por litigância de má-fé e a prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, CONHEÇO EM PARTE do agravo interno e, nessa extensão, NEGO-LHE PROVIMENTO.
+É como voto.
