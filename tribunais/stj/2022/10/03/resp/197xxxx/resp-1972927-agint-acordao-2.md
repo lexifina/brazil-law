@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por JOAO ALVES NUNES,em face das decisões,da lavra deste relator, acostadas às fls. 1174-1178 e-STJ, que deu provimento ao recurso especial manejado pelo BANCO DO BRASIL, eàs fls. 1179-1182 e-STJ, que negou provimento ao agravo (art. 1042 do CPC/15) manejado pelo ora insurgente.
+Em julgamento monocrático, acolheu-se a insurgência da casa bancária para extinguir a demanda sem julgamento de mérito em relação à instituição financeira, ante sua ilegitimidade passiva para figurar (como patrocinadora) na demanda de revisão de benefício previdenciário e a incompetência da Justiça Comum para aprecir o pedido de recomposição da reserva matemática (com empregadora).
+Em relação ao reclamo do ora agravante, afastou-se a tese de negativa de prestação jurisdicional e aplicou-se o óbice da Súmula 7/STJ à controvérsia relativa à distribuição da sucumbência.
+Inconformado, interpôs o presente agravo interno (fls. 1189-1282 e-STJ) alegando, em síntese, a legitimidade do BB e a competência da justiça comum. No mais, reitera suas teses recursais e aduz a inexistência de óbice da Súmula 7/STJ.
+Impugnação às fls. 1315-1331 e 1332-1339 e-STJ, com pedido de aplicação de multa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO DO ORA INSURGENTE E DEU PROVIMENTO AO APELO NOBRE INSTITUIÇÃO FINANCEIRA .
+INSURGÊNCIA DA PARTE AUTORA.
+1.1. A patrocinadora não possui legitimidade passiva para litígios que envolvam a revisão de benefício previdenciário complementar (Repetitivo/Tema 936/STJ).
+1.2. A Justiça Comum não é competente para apreciar o pedido direcionado ao ex-empregador de recolhimento da cota patronal para recomposição da reserva matemática (Repercussão Geral/Tema 1.166/STF).
+1.3. Recomposição (decorrente da modulação de efeitos no julgamento dos Repetitivos 955 e 1021/STJ) deve ocorrer na forma delineada no julgamento do EREsp 1557698/RS, pela Segunda Seção desta Corte.
+1.4. Entendimento reafirmado por esta Quarta Turma, no sentido da impossibilidade de participação do Banco Brasil em demandas similares, no julgamento do AgInt no RESP 1.525.337/DF.
+2. Rever as conclusões das instâncias ordinárias acerca do grau de sucumbência de cada parte encontra óbice na Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar as decisões agravadas, motivo pelo qual merecem ser mantida, por seus próprios fundamentos.
+1. Quanto à participação do BANCO DO BRASIL (patrocinador) na demanda originária, não assiste razão ao insurgente.
+Conforme tese firmada em recurso repetitivo por este STJ, "A patrocinadora não possui legitimidade passiva para litígios que envolvam participante/assistido e entidade fechada de previdência complementar, ligados estritamente ao plano previdenciário, como a concessão e a revisão de benefício ou o resgate da reserva de poupança, em virtude de sua personalidade jurídica autônoma" (Tema 936/STJ).
+Ademais, segundo entendimento fixado pela Suprema Corte, em repercussão geral, "compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para a entidade de previdência privada a ele vinculada" (Tema 1.166/STF).
+Assim, a recomposição da reserva matemática (decorrente da aplicação da modulação de efeitos no julgamento dos Repetitivo/Temas 955 e 1021/STJ) deverá ocorrer na forma delineada no julgamento do EREsp 1557698/RS, pela Segunda Seção desta Corte.
+Nesse sentido, em demanda similar à presente, foi o entendimento firmado pelo Colegiado desta Quarta Turma no AgInt no RESP 1.525.337/DF:
+AGRAVO INTERNO. PROCESSUAL CIVIL. AÇÃO AJUIZADA EM FACE DE ENTIDADE PREVIDÊNCIA PRIVADA E DO PATROCINADOR DO PLANO DE BENEFÍCIOS. PEDIDO FORMULADO EM FACE DO PATROCINADOR RELACIONADO AO VÍNCULO EMPREGATÍCIO. COMPETÊNCIA PARA JULGAMENTO DESSA CAUSA. JUSTIÇA DO TRABALHO. RECONHECIMENTO DE OFÍCIO. POSSIBILIDADE.
+1. O pedido formulado em face do Banco do Brasil é relacionando ao vínculo empregatício, devendo ser observado o acórdão vinculante do STF - superveniente à decisão monocrática agravada -, submetido ao rito da repercussão geral (Tema n. 1.166), RE n. 1.265.564/SC, Relator Ministro Luiz Fux, sufragando a seguinte tese: "Compete à Justiça do Trabalho processar e julgar causas ajuizadas contra o empregador nas quais se pretenda o reconhecimento de verbas de natureza trabalhista e os reflexos nas respectivas contribuições para entidade de previdência privada a ele vinculada".
+2. A Segunda Seção pacificou o entendimento de que, "tratando de competência prevista na própria Constituição Federal/88, nem mesmo o Superior Tribunal de Justiça detém jurisdição para prosseguir no julgamento do recurso especial quanto ao mérito, não lhe sendo dado incidir nas mesmas nulidades praticadas pelos demais órgãos da Justiça Comum (REsp n. 1.087.153/MG, Relator Ministro Luis Felipe Salomão).
+3. Na exordial, o agravado requereu exclusivamente do Banco do Brasil verbas referentes a: a) inclusão em seus salários de participação dos valores correspondentes às horas-extras reconhecidas em demanda antecedentes; b) recolhimento dos valores das correspondentes contribuições mensais, de modo a recompor a reserva matemática para revisão de seu benefício previdenciário. Com efeito, à luz da teoria da asserção, a causa de pedir dessa demanda gira em torno do afirmado ato ilícito perpetrado pelo empregador, e a Súmula 170/STJ esclarece que compete ao juízo onde primeiro for intentada a ação envolvendo cumulação de pedidos decidi-la nos limites da sua jurisdição, sem prejuízo do ajuizamento de nova causa, com o pedido remanescente, no juízo próprio.
+4. Agravo interno provido para reconhecimento de ofício da incompetência da Justiça Comum para o julgamento da demanda ajuizada pelo agravado em face do patrocinador do plano de benefícios, extinguindo, no tocante a esse réu, o processo, sem resolução do mérito.
+(AgInt nos EDcl no REsp n. 1.525.337/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 26/4/2022, DJe de 10/6/2022.)
+2. No mais, em relação ao agravo em recurso especial deJOAO ALVES NUNES, igualmente, a presente insurgência não comporta acolhimento.
+2.1.A alegação de negativa de prestação jurisdicional restou prejudicada pela decisão que provimento ao recurso especial do Banco do Brasil.
+Ademais, a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado.
+Em semelhante sentido: AgInt no AREsp 1657633/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 10/08/2020, DJe 14/08/2020; EDcl no AgInt no AgInt nos EDcl no AREsp 1450410/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/03/2020, DJe 01/04/2020; AgInt no AREsp 1599936/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 30/03/2020, DJe 06/04/2020.
+2.2.Por fim, em relação aos honorários, o recurso especial não comporta conhecimento.
+Nos termos da reiterada jurisprudência deste STJ, encontra óbice na Súmula 7/STJ a pretensão de rever a distribuição da sucumbência realizada pelas instâncias ordinárias.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. SUCUMBÊNCIA. AFERIÇÃO. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO.
+ ..
+3. Segundo entendimento jurisprudencial do STJ, "a apreciação, em recurso especial, do quantitativo em que o autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da incidência da Súmula 7 do STJ" (AgInt no AREsp n. 1.547.630/MG, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 12/4/2021, DJe 15/4/2021).
+ ..
+5. Agravo interno a que se dá provimento para afastar a majoração dos honorários advocatícios recursais.
+(AgInt no AREsp n. 1.924.137/SC, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+Logo, devem ser mantidas as decisões de fls. 1174-1178 e1179-1182 e-STJ.
+3. No que se refere ao pedido formulado pela parte agravada, a Segunda Seção desta Corte Superior firmou o entendimento de que a multa recursal prevista no art. 1.021, § 4º, do CPC/15 não decorre automaticamente do desprovimento do agravo interno, devendo ser verificado, em cada caso, o intuito protelatório.
+Confira-se, por oportuno, a ementa do julgado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016)
+No mesmo sentido, precedentes desta Corte: EDcl no AgInt no AREsp 647.276/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 20/10/2017; EDcl no AgInt nos EDcl no REsp 1327956/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 24/10/2017.
+No caso em tela, não se verifica o intuito meramente protelatório do presente agravo interno, não havendo justificativa para imposição da sanção prevista no artigo 1.021, § 4º, do CPC/15.
+Desde já, entretanto, advirta-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
