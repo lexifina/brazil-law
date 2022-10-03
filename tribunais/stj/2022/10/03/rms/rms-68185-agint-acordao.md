@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno no recurso em mandado de segurança interposto por MARIA GERALDA DAS NEVES FACCION contra decisão que negou provimento ao recurso em mandado de segurança que opusera.
+Mandado de segurança: impetrado pela ora agravante contra decisão proferida pelo MM. Juízo da 2ª Vara Cível do Foro Regional de Santo Amaro, da Comarca de São Paulo, em autos de cumprimento de sentença proposto contra ANTONIO FACCION NETO, marido da impetrante. Em breve síntese, a impetrante reclama da ausência de sua citação para a ação de conhecimento.
+Acórdão: indeferiu a petição inicial e denegou a segurança, nos termos da seguinte ementa:
+"MANDADO DE SEGURANÇA - Falta de condição da ação - Ausência de interesse - Existência de recurso próprio para impugnação do ato judicial - Aplicabilidade do artigo 5º da Lei nº 12.016/2009 e da Súmula 267 do C Supremo Tribunal Federal - Petição inicial indeferida. Denegada a segurança" (e-STJ fl. 53).
+Recurso em mandado de segurança: a recorrente sustenta que o acórdão recorrido viola os princípios do contraditório, da ampla defesa e da inafastabilidade da jurisdição, arguindo, inclusive, que houve manifestação extra petita.
+Parecer MPF: opina pelo não conhecimento do recurso.
+Decisão monocrática: negou provimento ao recurso em mandado de segurança.
+Agravo interno: repisa os argumentos de cabimento da via estreita do mandado de segurança, com vista a defender seu direito subjetivocontra ato judicial que não cuidou de promover sua citação em processo que discutia os direitos reais de imóvel de sua propriedade.
+EMENTA
+AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. ATO COATOR. DIREITO LÍQUIDO E CERTO. NÃO DEMONSTRADO DE PLANO.ILEGALIDADE, TERATOLOGIA OU ABUSO DE PODER. INOCORRÊNCIA.
+1. A viabilidade do mandado de segurança impetrado contra ato judicial depende da demonstração, de plano, da existência de teratologia ou de flagrante ilegalidade na decisão impugnada ou, ainda, da ocorrência de abuso de poder pelo órgão prolator da decisão, circunstâncias não verificadas na hipótese.
+2. Agravo interno não provido
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que aagravante não trouxe qualquer argumento novo apto a modificar as conclusões da decisão agravada.
+Como consignado na decisão agravada, a jurisprudência desta Corte firmou-se no sentido de que o mandado de segurança somente é cabível quando o direito líquido e certo for plenamente aferível no momento da impetração, devendo sua existência e delimitação serem comprovadas de plano, sem a necessidade de dilação probatória.
+No particular, verifica-se que aagravante se limitou a narrar os fatos, bem como em apresentar as razões do seu inconformismo com o ato impugnado, deixando de demonstrar a existência do direito líquido e certo a ser amparado, excepcionalmente, pelo mandado de segurança.
+Além disso, observa-se que o Tribunal de origem, ao analisar o mandado de segurança, concluiu que:
+A impetrante alega que não foi incluída no polo passivo da ação, existindo nulidade, e que embora tenha sido intimada da penhora do imóvel, não o foi em relação à penhora dos veículos automotores, emergindo a nulidade da execução. Afirma que a penhora é irregular, pois realizada sobre bens móveis e imóveis de valor desproporcionalmente maior do que o valor do crédito constante do título exequendo, sendo de rigor a liberação dos bens em obediência à gradação de seus respectivos valores.
+É cabível a interposição de agravo de instrumento das decisões proferidas no cumprimento de sentença e no processo de execução, conforme prescrição do artigo 1.015, parágrafo único, do Código de Processo Civil de 2.015: "também caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário". Recurso em que é possível a obtenção de efeito suspensivo, nos termos do prescrito pelo artigo 1.019, inciso I, do Código de Processo Civil de 2.015.
+Ainda que a impetrante não seja parte no processo, como noticia, eventualmente aplicável o art. 996 do Código de Processo Civil que faculta a interposição pelo terceiro prejudicado. Outrossim, faculta-se eventual apresentação de embargos de terceiro pelo terceiro prejudicado, com possibilidade de suspensão das medidas constritivas, nos termos do artigo 678 do Código de Processo Civil. (e-STJ fls. 55)
+Da leitura do trecho acima, verifica-se que o acórdão impugnado não apresenta teratologia ou flagrante ilegalidade.
+O mandado de segurança é instrumento excepcional, que apenas se configura cabível no caso de, além de ser demonstrada a existência de direito líquido e certo, inexistir recurso específico para a impugnação pretendida.
+Assim, considerando que não foi demonstrado, de plano, a existência de direito líquido e certo, porquanto não se verificou a existência de manifesta ilegalidade ou teratologia no ato judicial impugnado, tampouco evidente abuso de poder, o mandado de segurança realmente não se revela oportuno.
+Ademais, a despeito das alegações daagravante acerca do cabimento do mandado de segurança na hipótese, frise-se, todavia, que, conforme consignado pelo TJ/SP:evidente a existência de meio próprio para a impugnação da decisão judicial. Nos termos do inciso II, do artigo 5º, da Lei nº 12.016, de 07 de agosto de 2009: "não se concederá mandado de segurança quando se tratar: (..) II de decisão judicial da qual caiba recurso com efeito suspensivo". Ademais, o teor da Súmula nº 267 do Colendo Supremo Tribunal Federal que diz: "Não cabe mandado de segurança contra ato judicial passível de recurso ou correição". (e-STJ fls. 55-56)
+Logo, não merece reforma a decisão agravada.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
