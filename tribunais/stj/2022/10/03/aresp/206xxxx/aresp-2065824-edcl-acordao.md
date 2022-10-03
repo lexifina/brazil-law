@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+PEDRO MOREIRA DA SILVA NETO (PEDRO) promoveu ação de anulação de débito cumulada com restituição de indébito e indenização por dano moral contra PETROBRAS - PETRÓLEO BRASILEIRO S.A. (PETROBRAS) e a FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL - PETROS (PETROS e outra), requerendo a suspensão de desconto no benefício,a restituição do importe indevidamente cobrado e o pagamento pertinente à diferença do período de 2006 a 2010 que fora creditada pelo INSS a PETROBRÁS, a anulação dos descontos realizados, a declaração de prescrição da cobrança em agosto de 2006 de diferenças vencidas entre julho de 1998 e julho de 2006, bem como a confirmação da tutela provisória concedida e a indenização por danos morais.
+Em primeira instância, o pedido foi julgado parcialmente procedente para (1) anular os descontos realizados em relação aos meses de julho de 1998 a junho de 2001 na suplementação de benefício de aposentadoria ao autor, determinando a restituição apenas do valor atualizado de R$ 5.483,96 (cinco mil, quatrocentos e oitenta e três reais e noventa e seis centavos) a este título; e (2) condenar ao pagamento de eventual diferença repassada ao INSS pertinente a saldo positivo devido em virtude da revisão de benefício no período entre setembro de 2006 e setembro de 2010, a ser apurada a partir de novo demonstrativo que inclua os valores descontados do autor (e-STJ, fls. 326/335).
+A apelação interposta por PEDRO foi provida, mas o recurso da PETROBRAS e da PETROS não foi provido pelo Tribunal de Justiça do Rio Grande do Norte, nos termos do v. acórdão assim ementado:
+PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. APELAÇÕES CÍVEIS. AÇÃO ORDINÁRIA. SENTENÇA DE PROCEDÊNCIA PARCIAL. LEGITIMIDADE PASSIVA DA PETROBRÁS EM RELAÇÃO A UM DOS PLEITOS. REVISÃO DA APOSENTADORIA CONCEDIDA PELO INSS, COM EFEITOS RETROATIVOS. REVISÃO DA COMPLEMENTAÇÃO DE APOSENTADORIA. BENEFÍCIO CORRESPONDENTE À DIFERENÇA ENTRE A REMUNERAÇÃO PERCEBIDA EM ATIVIDADE E A APOSENTADORIA CONCEDIDA PELO INSS. DESCONTOS NO BENEFÍCIO DA APOSENTADORIA COMPLEMENTAR REFERENTES ÀS DIFERENÇAS PAGAS A MAIOR. LEGALIDADE. PETROBRÁS QUE DEVE ARCAR COM EVENTUAL DIFERENÇA DOS CRÉDITOS POR ELA RECEBIDOS DO INSS, APÓS APURADOS OS VALORES DEVIDOS À S PARTES. PREENCHIMENTO DOS REQUISITOS LEGAIS PARA O DEFERIMENTO DA GRATUIDADE JUDICIÁRIA NO CASO CONCRETO. ART. 98, DO CPC. SUCUMBÊNCIA MÍNIMA DO AUTOR. MAJORAÇÃO DA CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11º, DO CÓDIGO DE PROCESSO CIVIL. PRECEDENTES. RECURSOS CONHECIDOS E PROVIDO QUANTO AO APELO DO AUTOR E DESPROVIDOS OS INTERPOSTOS PELAS RÉS (e-STJ, fls. 495/496).
+Os embargos de declaração opostos por PEDRO foram acolhidos para sanar omissão, já os aclaratórios da PETROBRAS e da PETROS foram rejeitados (e-STJ, fls. 567/571).
+Inconformada, a PETROS interpôs recurso especialcom amparo no art. 105, III, a, da CF, sustentando violação dos arts. 17 e 21, § 1º, da Lei Complementar n.º 109/2001e 104 do CC/2002.
+O apelo nobre não foi admitido em razão da incidência da Súmula n.º 284 do STF.
+Seguiu-se o agravo em recurso especial que, em decisão monocrática da relatoria do Ministro Presidente do STJ, dele não conheceu, com amparo no art. 21-E, V, do RISTJ, porque não foram atacados especificamente os fundamentos da decisão agravada.
+Ainda inconformada, PETROS manejou agravo interno, que não foi conhecido pela Terceira Turma desta Corte, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA N.º 182 DO STJ. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada da incidência das Súmulas n.ºs 7 e 83 do STJ. Inobservância do art. 1.021, § 1º, do NCPC e incidência da Súmula n.º 182 do STJ.
+3. Agravo interno não conhecido (e-STJ, fls. 892/893 - com destaque no original).
+Nas razões dos presentes embargos de declaração, PETROS, repisando os argumentos trazidos nas razões do agravo interno, alegou que o valor foi devolvido pelo INSS, não sendo devido novo aporte de valores.
+Houve impugnação ao recurso (e-STJ, fls. 913/917).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. DECISÃO MANTIDA. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que não conheceu do agravo interno em virtude da incidência da Súmula nº 182 do STJ.
+4. Em virtude da rejeição dos presentes aclaratórios, e sendo evidenciado o seu caráter manifestamente protelatório, incide ao caso a multa prevista no art. 1.026, § 2º, do NCPC, no percentual de 2% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do NCPC.
+O acórdão recorrido não foi obscuro, omisso, contraditório nem tampouco apresentou erro material, tendo concluído que o agravo em recurso especial não impugnou o fundamento da incidência das Súmulas nºs 7 e 83 do STJ, incidindo da Súmula nº 182 do STJ.
+Ficou explicitado que, nas razões do agravo interno, PETROS, repisando os argumentos trazidos nas razões recursais, somente havia alegado a inaplicabilidade da Súmula nº 182 do STJ, pois havia impugnado todos os fundamentos da decisão de inadmissibilidade.
+Salientou-se, ainda, que não houve o adequado confronto do fundamento da decisão agravada no que tange ao óbice da incidência das Súmulas nºs 7 e 83 do STJ.
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Assim, evidenciado o caráter manifestamente protelatório dos aclaratórios, uma vez verificados o não conhecimento do agravo interno e a rejeição dos presentes aclaratórios com pretensão de efeito infringente, postergando a efetividade da prestação jurisdicional, condeno PETROSao pagamento da multa de 2% sobre o valor atualizado da causa, em favor de PEDRO, nos termos do art. 1.026, § 2º, do NCPC.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração, com imposição da multa.
