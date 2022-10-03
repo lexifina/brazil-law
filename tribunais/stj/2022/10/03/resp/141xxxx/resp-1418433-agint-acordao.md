@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Minas Empreendimentos de Engenharia Ltda. ajuizou ação contra o Departamento de Estradas de rodagem do Estado de São Paulo - DER objetivandoo pagamento relativo a contrato originado de procedimento licitatório, inerente à construção das estradas vicinais Taiaçu-Monte Alto e Campo Limpo-Furnas, afirmando sua execução parcial, sem a devida contraprestação financeira.
+A sentença reconheceu a prescrição da ação, nos termos do art. 1º do Decreto n. 20.910/1932 (fls. 233-239), decisão mantida pelo Tribunal de Justiça do Estado de São Paulo, em grau recursal, nos termos da seguinte ementa (fl. 329):
+AGRAVO RETIDO - DESNECESSÁRIA A REQUISIÇÃO DE NOVOS DOCUMENTOS, POIS OS JUNTADOS NOS AUTOS SÃO SUFICIENTES PARA O EXAME DA MATÉRIA POSTA EM DISCUSSÃO.AÇÃO DE COBRANÇA - CONTRATOS DE PRESTAÇÃO DE SERVIÇOS DE ENGENHARIA - PRESCRIÇÃO - OCORRÊNCIA - DECRETO 20.910/32 - TRANSCORRIDO O PRAZO DE CINCO ANOS ENTRE A DATA DO ATO NO QUAL SE ORIGINOU O DIREITO DA AUTORA E A PROPOSITURA DA AÇÃO - RENÚNCIA À PRESCRIÇÃO - INOCORRÊNCIA - VERBA HONORÁRIA MANTIDA - RECURSOS IMPROVIDOS.
+Os embargos de declaração opostos foram rejeitados (fls. 368-374).
+Departamento de Estradas de Rodagem do Estado de São Paulo interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação do art. 20, §3º, do CPC/1973, pois a verba honorária foi fixada em valor irrisório- R$ 2.000,00 (dois mil reais) - , considerando que a pretensão do autor era uma condenação de R$ 199.657,99 (cento e noventa e nove mil, seiscentos e cinquenta e sete reais e noventa e nove centavos).
+Minas Empreendimentos de Engenharia Ltda. também interpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, afirmando violação dos arts. 355, 356 e 399do CPC/1973, em razão de ter sido indeferida a juntada dos processos administrativos relacionados à contratação da recorrente pelo recorrido.
+Alegou, ainda, negativa de vigência aos arts. 1º e 4ºdo Decreto n.20.910/1932, pois, somente nafinalização do procedimento administrativo e da negativa de pagamento por parte do recorrido, poder-se-ia definir o termo a quo do prazo prescricional na hipótese dos autos.
+Afirmou violação do art. 191 do Código Civil, uma vez que o acórdão recorrido considerou um documento de 2005, pelo qual o recorrido confessa a existência de débito, mas entendeu que ele não poderia servir como comprovação de renúncia.
+Invocou divergência jurisprudencial.
+Contrarrazões apresentadas às fls. 437-443 e 445-457.
+O Ministério Público Federal devolveu os autos sem manifestação de mérito (fls. 526-529).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, §4º, I, do RISTJ, não conheço de ambos os recursos especiais."
+Interposto agravo interno, a parte agravante traz argumentos contrários à decisão recorrida.
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. CONTRATOS DE PRESTAÇÃO DE SERVIÇOS DE ENGENHARIA. PRESCRIÇÃO.DECRETO N.20.910/1932.RENÚNCIA À PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. REEXAME DE FATOS E PROVAS. SÚMULAN. 7/STJ. FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANTER O JULGADO NÃO FOIIMPUGNADO. SÚMULAS N. 283 E 284/STF. ANÁLISE DA DIVERGÊNCIA PREJUDICADA.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Trata-se de ação objetivando obter o pagamento relativo a contrato originado de procedimento licitatório, inerente à construção de estradas vicinais, afirmando sua execução parcial, sem a devida contraprestação financeira.A sentença reconheceu a prescrição da ação, nos termos do art. 1º do Decreto n. 20.910/1932, decisão mantida pelo Tribunal de Justiça do Estado de São Paulo, em grau recursal.
+II - No que diz respeito aos artigos do CPC/1973, invocados como afrontados pelo decisum, verifica-se que o acórdão recorrido nada deliberou sobre eles, não analisando seus conteúdos, pelo que carece o recurso do indispensável requisito do prequestionamento, fundamental para a interpretação normativa exigida, sendo importante considerar que a parte recorrente nem mesmo os invocou ao opor os embargos de declaração. Incide na hipótese o óbice constante da Súmula n. 282 do STF.
+III - Em relação aos arts. 1º e 4ºdo Decreto n. 20.910/1932, no que diz respeito ao prazo prescricional, verifica-se que a irresignação do recorrente, acerca da existência de processo administrativo como marco prescricional, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu não haver falar na existência de processos administrativos.
+IV - Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático- probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+V - Por fim, no que diz respeito à suposta renúncia, verifica-se que oreexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que a fundamentação apresentada no julgado, acerca da impossibilidade de renúncia prévia, assim como sobre a preponderância do interesse público, utilizada de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatida no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF.
+VI - Diante dos citados óbices, o recurso fundado em divergência jurisprudencialpelas mesmas razões também não merece ser conhecido.
+VII - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+No que diz respeito aos artigos do CPC/1973, invocados como afrontados pelo decisum, verifica-se que o acórdão recorrido nada deliberou sobre eles, não analisando seus conteúdos, pelo que carece o recurso do indispensável requisito do prequestionamento, fundamental para a interpretação normativa exigida, sendoimportante considerar que a parte recorrente nem mesmo os invocou ao opor os embargos de declaração.Incide na hipótese o óbice constante da Súmula n. 282 do STF.
+Em relação aos arts. 1º e 4º, do Decreto n. 20.910/1932, no que diz respeito ao prazo prescricional, o acórdão assim deliberou:
+ ..
+As rescisões unilaterais dos contratos nºs 9299-0 e 9300-4 (fls. 58 e 85) foram feitas com base, respectivamente, no artigo 78, incisos V e VII c.c. o artigo 79, inciso I ambos da Lei Federal nº 8.666/93; e artigo 79, inciso I da citada lei, datados de 13.4.1998 e 04.2.1999, publicados no D.O.E. em 15.5.1998 (fls. 59) e março de 1999.
+ ..
+Verifica-se que a irresignação do recorrente, acerca da existência de processo administrativo como marco prescricional, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu não haver falar na existência de processos administrativos.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático- probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Por fim, no que diz respeito à suposta renúncia, assim deliberou o acórdãorecorrido:
+ ..
+Afasta-se, ainda, a tese sustentada pela autora de que teria ocorrido a renúncia da prescrição prevista no art. 191 do Código Civil que dispõe:
+Art. 191. A renúncia da prescrição pode ser expressa ou tácita, e só valerá, sendo feita, sem prejuízo de terceiro, depois que a prescrição se consumar; tácita é a renúncia quando se presume de fatos do interessado, incompatíveis com a prescrição.
+Dessa forma, "Somente depois de consumada a prescrição, desde que não haja prejuízo de terceiro, é que poderá haver renúncia expressa, ou tácita, por parte do interessado. Como se vê, não se permite a renúncia prévia, ou antecipada, à prescrição, a fim de não destruir sua eficácia prática; caso contrário, todos os credores poderiam impô-la aos devedores; portanto, somente o titular poderá renunciar à prescrição após a consumação do lapso previsto em lei. Na renúncia expressa, o prescribente abre mão da prescrição de modo explícito, declarando que não a quer utilizar, e na tácita, pratica atos incompatíveis com a prescrição, p. ex., se pagar dívida prescrita; se efetivar transação extrajudicial; se constituir garantia após o prazo prescricional. Com a renúncia, o devedor abre mão da exceção (defesa) oriunda da prescrição de seu débito." (cf. Maria Helena Diniz, "Código Civil Anotado", 12" edição, pág. 227).
+Ademais, a renúncia deve ser interpretada restritivamente, nos termos do artigo 114, do Código Civil ("Art. 114. Os negócios jurídicos benéficos e a renúncia interpretam-se estritamente.") Tratando-se de ação contra autarquia, prepondera o interesse público, de forma que o documento de fls. 120 - o qual tão somente informa a posição financeira dos contratos objeto da lide - não implica em renúncia da prescrição, e nem pode ser entendido como tal.
+ ..
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que a fundamentação apresentada no julgado, acerca da impossibilidade de renúncia prévia, assim como sobre a preponderância do interesse público, utilizada de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatida no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF.
+Diante dos citados óbices, o recurso fundado em divergência jurisprudencialpelas mesmas razões também não merece ser conhecido.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
