@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de embargos de declaração opostos contra acórdão proferido por esta Quarta Turma, o qual negou provimento ao agravo interno interposto.
+Em seu recurso, a embargante sustenta a existência de omissões, alegando que não houve análise na Corte de origem das questões relativas à suspensão do processo administrativo de regulação de sinistro em face do ajuizamento de ação trabalhista, cujo indeferimento ocorreu em 5.2.2013; bem como à contagem do prazo prescricional ter início com a efetiva recusa indenizatória.
+Intimada, a parte agravada apresentou impugnação, manifestando-se pela manutenção da decisão atacada (fls. 1.487-1.496, e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. INVIABILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso, ainda que para fins de prequestionamento.
+2. Embargos de declaração rejeitados.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Não se verificam as omissões apontadas, devendo-se manter o acórdão recorrido por seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à sua oposição: omissão, obscuridade ou contradição.
+Com efeito, o julgado embargado é claro em suas premissas e objetivo em suas conclusões, inexistindo vício a ser sanado. Apenas, a solução prestigiada não corresponde à desejada pela embargante, circunstância que não eiva o acórdão de nulidade.
+A despeito da alegação de omissão no acórdão embargado, no tocante à ausência de debate na origem acerca da alegada suspensão da contagem e marco inicial prescricional, pontuou-se de forma clara que houve a análise das questões expostas na lide e que a embargante não apresentou argumentos capazes de derruir os fundamentos do Tribunal de origem.
+Outrossim, a Corte local, diante das peculiaridades do caso concreto, expôs a conclusão da ocorrência da prescrição quanto ao pleito do autor, assim como fundamentada a aplicação da Súmula 7/STJ, conforme se depreende da leitura dos seguintes trechos (fls. 1.466-1.468, e-STJ):
+"De início, anoto que o acórdão recorrido foi devidamente fundamentado, não havendo que se falar em violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 21/6/2016).
+De todo modo o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese acerca do marcos temporais prescritivos da pretensão do autor.
+Não há falar, portanto, em omissão apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+Examinem-se: AgRg no REsp 1.242.968/PB, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 3/9/2015, DJe 14/9/2015; AgRg no REsp 965.541/RS, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 17/5/2011, DJe 24/5/2011.
+Reexaminando as razões do agravante, no tocante à aventada actio nata e violação ao princípio da congruência ou adstrição, apontados no recurso especial, verifica-se que não houve debate na origem quanto aos pontos, fato que impede a análise de tal tema, mesmo que se trate de questão de ordem pública.
+Anoto que as razões do agravo interno não são convincentes, já que nele não está indicado trecho ou passagem do acórdão recorrido em que tenha havido a abordagem das matérias controvertidas, merecendo, assim, a aplicação das Súmulas 282 e 356 do Supremo Tribunal Federal.
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 211/STJ E 282/STF. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015.
+2. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+3. A ausência de prequestionamento inviabiliza o recurso especial (Súmulas 211/STJ e 282/STF).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1772487/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 24/6/2021)
+Quanto ao outro ponto, verifico que o TJPR concluiu que "tendo em vista que tanto em 25/06/2012 quanto em 07/12/2012 já havia se passado o prazo ânuo para o ajuizamento da demanda (que se deu em 10/01/2014), sem somar-se o período antecedente - da citação até a solicitação administrativa - visto que faltam dados no processo, a pretensão autoral encontra-se prescrita".
+Consta ainda no acórdão estadual que em relação ao "termo inicial de contagem do prazo prescricional, restou fundamentada a aplicabilidade da parte inicial do art. 206, § 1º, II, a, do Código Civil ao caso, considerando-se que não houve pagamento ao terceiro com anuência do segurador, hipótese em que o marco inicial da prescrição é a data da citação da segurada para responder à ação de indenização, conforme entendem a doutrina e a jurisprudência.(..) Do que se verifica, mesmo com os pedidos posteriores da embargante foi mantida a negativa de pagamento pela seguradora, ainda que se sustente a modificação do fundamento, de modo que desde a primeira recusa cessou a suspensão do prazo prescricional".
+Verifico que a fundamentação da origem está em ressonância com a jurisprudência desta Corte Superior, cuja orientação é de que o marco inicial de prescrição da pretensão do segurado contra o segurador, no caso de seguro de responsabilidade civil, é a data da citação na ação de indenização proposta pelo terceiro prejudicado, apenas contando da data do pagamento da indenização quando houver anuência do segurador (AgInt no AREsp 938.098/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 23/10/2018), bem como que o "Pedido de reconsideração apresentado na via administrativa não tem o condão de suspender a contagem do prazo prescricional" (AgInt no AREsp 338.354/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 13/2/2017) .
+Inviável a apreciação dos fatos e provas constantes dos autos, bem como a conclusão da origem acerca destes, a fim de verificar sobre os marcos prescricionais, por exigir o reexame fático e esbarrar no óbice da Súmula 7/STJ.
+Verifico, assim, que, a embargante pretende, sob o pretexto de existência de omissões, o rejulgamento da causa. Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio.
+Eles servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, de tal forma que, se existentes tais vícios, sua correção venha eventualmente a prequestionar os pontos levantados pela parte. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 1º/3/2016)
+Em face do exposto, rejeito os embargos de declaração.
+É o voto.
