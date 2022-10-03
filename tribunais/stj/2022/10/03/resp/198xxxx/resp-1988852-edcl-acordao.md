@@ -1,0 +1,102 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por JAY SERVICO E COMERCIO AUTOMOBILISTICO LTDA contra o acórdão que negou provimento ao agravo interno que interpusera, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA.
+PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de cobrança.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Alterar o decidido no acórdão impugnado, no que se refere à validade da citação da agravante na situação em comento, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. O credor munido de título de crédito sem executividade pode ajuizar, no prazo de 5 anos, ação monitória para a cobrança da dívida representada nesse título, entendimento este que se mostra perfeitamente aplicável à ação de conhecimento, cujo procedimento é mais favorável ao devedor.
+Súmula 568/STJ.
+7. Agravo interno não provido. (e-STJ, fl. 573)
+Nas razões do presente recurso, a parte embargante alega a existência de omissão do acórdão embargado em relação às alegações de violação dos arts. 489 e 1.022, ambos do CPC/15, bem como a violação de dispositivos constitucionais (e-STJ, fl. 584/594).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLRAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA.
+1. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+2. Embargos de declaração rejeitados.
+VOTO
+As questões suscitadas pela embargante não constituem ponto omisso, obscuro ou contraditório, mas mero inconformismo com os fundamentos adotados no acórdão embargado.
+Com efeito, o acórdão embargado, de forma clara, congruente e fundamentada, negou provimento ao agravo interno interposto contra a decisão que conheceu parcialmente do recurso especial e, nessa extensão, negou provimento, em razão da não demonstração de violação dos arts. 489 e 1.022, ambos do CPC/15, da ausência de prequestionamento (Súmula 211/STJ), da incidência da Súmula 7/STJ e da consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 568/STJ). Veja-se, in litteris (e-STJ, fls. 575/581):
+A decisão agravada conheceu parcialmente do recurso especial interposto pela parte agravante e, nessa extensão, negou provimento, em razão da:
+i) não demonstração de violação do art. 1.022 do CPC/15;
+ii) não demonstração de violação do art. 489 do CPC/15;
+iii) ausência de prequestionamento (Súmula 211/STJ);
+iv) incidência da Súmula 7/STJ; e v) consonância entre a conclusão do acórdão de origem e o entendimento jurisprudencial desta Corte Superior (Súmula 568/STJ).
+- Julgamento: CPC/15.
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir entendimento firmado na decisão ora agravada.
+1. Da ofensa do art. 1.022 do CPC/15
+Inicialmente, constata-se que o artigo 1022 do CPC/15 realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou da questão referente à validade da citação da agravante na hipótese, sob viés diverso daquele pretendido pela referida parte, fato que não dá ensejo à interposição de embargos de declaração.
+Por fim, observa-se que a parte agravante, na origem, se utilizou dos embargos de declaração com efeitos meramente infringenciais. Por essa razão, não se verifica, na hipótese, a pretensa ofensa ao art. 1.022 do CPC/15.
+2. Da violação do art. 489 do CPC/15
+Analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar, de fato, em violação do art. 489 do CPC/15, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+A lastrear o exposto, segue o teor de trecho do acórdão prolatado pela Corte de origem:
+Imperioso registrar que as alegações da embargante apresentadas no momento da Apelação foram cuidadosamente analisadas. De maneira que não há omissão no "decisum" recorrido, porquanto não está o Magistrado obrigado a refutar todas as alegações das partes, máxime quando tenha chegado a uma conclusão baseada em motivo suficiente para fundar de forma lógica e racional o seu posicionamento.
+De igual modo, sem razão a embargante quanto alegação de não ter sido regularmente analisado o argumento de que estão sendo descumpridos os artigos 4º, 6º e 319, II, do Código de Processo Civil, pois, a embargada estaria sendo beneficiada por não cumprir com o seu ônus processual.
+Destaco, portanto, ter sido o tema debatido, objeto de apreciação por este relator. Vejamos:
+"Melhor sorte não assiste à recorrente ao impugnar a atuação ex officio do Juiz a quo, o qual determinou a realização de pesquisas via sistemas disponíveis, em busca de possíveis endereços ainda não diligenciados (ID 27124667). Em verdade, não há impedimentos legais para a atuação do Juiz em realizar diligências aos sistemas disponíveis do Judiciário a fim de viabilizar a obtenção do endereço do requerido. Sobretudo, quando constatada a validade da Citação. Deste modo, infere-se que a requerida não ofereceu Contestação por razões pessoais. Logo, o fato do (sic) Juiz ter determinado de ofício as diligências para Citação, não trouxe quaisquer prejuízos ao contraditório da requerida, ao contrário impulsionou o processo e garantiu a tramitação de forma célere, sem violação das garantias legais asseguras à ré."
+Ao final, quanto ao argumento de prescrição da duplicata, não há omissão no julgado, visto que o tema foi devidamente examinado, in verbis:
+"Na origem, trata-se de Ação de Cobrança embasada em duplicatas sem força executiva. Logo, a presente pretensão não está submetida ao artigo 18, inciso I, da Lei 5.474/1968, a qual estabelece o prazo de prescrição para a execução da duplicata, contra o sacado, é de 3 (três) anos, contados a partir do vencimento do título. Ao seu turno, o artigo 887 do Código Civil dispõe sobre o título de crédito, documento necessário ao exercício do direito literal e autônomo nele contido, somente produz efeito quando preencha os requisitos da Lei. Em relação às duplicatas os requisitos estão previstos, no artigo 2º, parágrafo 1º, da Lei 5.474/1968.
+Não sendo o caso das presentes duplicatas, as quais não preenchem os requisitos ali estampados, sendo por essa razão, tratadas como duplicatas sem força executiva. De forma que, aplica-se a Ação de Cobrança, consubstanciada em duplicata sem força executiva, o disposto no artigo 206, parágrafo 5º, inciso I, do Código Civil, onde a prescrição da pretensão de cobrança de dívidas liquidas constantes em instrumento público ou particular, ocorre em cinco anos. Portanto, o prazo prescricional para o ajuizamento da ação de cobrança de duplicata sem força executiva é quinquenal. Neste sentido, há Jurisprudência deste Egrégio Tribunal de Justiça, vejamos: "CIVIL E PROCESSUAL CIVIL. AÇÃO MONITÓRIA. DUPLICATA. PREJUDICIAL DE PRESCRIÇÃO. DEMANDA PROPOSTA DENTRO DO PRAZO DE 5 (CINCO) ANOS CONTADOS DO VENCIMENTO DO TÍTULO. PRESCRIÇÃO AFASTADA. SENTENÇA CASSADA.
+MÉRITO. DUPLICATA SEM ACEITE ACOMPANHADA DA NOTA FISCAL CORRESPONDENTE E DO COMPROVANTE DO PROTESTO. PROVA ESCRITA APTA A APARELHAR A DEMANDA MONITÓRIA. CONSTITUIÇÃO DO TÍTULO EXECUTIVO JUDICIAL. 1. A Ação Monitória fundada em duplicata desprovida de força executiva encontra-se subordinada ao prazo prescricional de 5 (cinco) anos, previsto no artigo 206, § 5º, inciso I, do Código Civil, contados a partir do vencimento título. 2. Deve ser considerada prova escrita apta a embasar Ação Monitória a duplicata sem aceite, acompanhada da respectiva nota fiscal e do protesto do título. 3. Apelação Cível conhecida e provida. Sentença cassada.
+Pedido inicial julgado procedente." (Acórdão n.1089645, 20150610142639APC, Relator: NÍDIA CORRÊA LIMA 8ª TURMA CÍVEL, Data de Julgamento: 12/04/2018, Publicado no DJE: 19/04/2018. Pág.: 586/592) (grifei).
+A toda evidência, refletem os Embargos de Declaração mera irresignação, descontentamento da parte quanto ao desfecho da demanda. Nesse caso, a pretensão de reforma daí decorrente deve ser manifestada pela via processual adequada, não se prestando os Embargos de Declaração ao atendimento dessa finalidade. (e-STJ, fls. 448/449)
+3. Da ausência de prequestionamento
+Os arts. 239 e 927, ambos do CC/02, indicados como violados, não foram objeto de expresso prequestionamento pelo Tribunal de origem, apesar da interposição de embargos de declaração, o que importa na incidência do óbice da Súmula 211/STJ.
+Ressalta-se, por oportuno, que eventual alegação de ser de ordem pública os temas insertos nos dispositivos legais mencionados não torna indispensável o devido prequestionamento. Nesse sentir: AgInt no AREsp 1.021.641/MG (3ª Turma, DJe 19/05/2017) e AgInt no AREsp 613.606/PR (4ª Turma, DJe 17/05/2017).
+Além disso, não obstante a alegação de prequestionamento da matéria em razão do teor do art. 1.025 do CPC/15, cabe ressaltar que o dispositivo citado dispõe que serão incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Entretanto, na situação posta em análise, esta Corte não entendeu pela existência de erro, omissão, contradição ou obscuridade, o que impede a inclusão dos dispositivos mencionados nas razões do recurso especial no bojo do acórdão impugnado para fins de prequestionamento da matéria.
+4. Do reexame de fatos e provas
+A incidência da Súmula 7/STJ deve ser mantida, pois eventual alteração do entendimento do acórdão recorrido, no que se refere à validade da citação da agravante na situação em comento, demandaria desta Corte, inevitavelmente, a incursão na seara fático-probatória dos autos.
+A esse propósito, é o teor do acórdão recorrido:
+No caso em tela, a ré/apelante foi citada por Correio, aviso de recebimento no endereço: SRTVN QD 701 CONJ C ALA B SALA 734, NR 124 BAIRRO CENTRO EMPRESARIAL NORTE CEP 70719903 ASA NORTE BRASÍLIA/DF, conforme se verifica ao ID 27124679.
+Com efeito, o Código de Processo Civil considera válida a Citação de pessoa jurídica quando esta ocorrer na pessoa do seu representante legal ou, também, quando recebida por funcionário designado para o recebimento das correspondências. Confira-se:
+"Art. 248. Deferida a citação pelo correio, o escrivão ou o chefe de secretaria remeterá ao citando cópias da petição inicial e do despacho do juiz e comunicará o prazo para resposta, o endereço do juízo e o respectivo cartório.
+§ 1 A carta será registrada para entrega ao citando, exigindo-lhe o carteiro, ao fazer a entrega, que o assine o recibo.
+§ 2 Sendo o citando pessoa jurídica, será válida a entrega do mandado a pessoa com poderes de o (sic) gerência geral ou de administração ou, ainda, a funcionário responsável pelo recebimento de correspondências."
+Conforme consta nos autos, houve a diligência no endereço indicado em pelo menos três oportunidades.
+Inclusive, houve uma quarta diligência quando a apelante, representante legal da empresa, foi citada e não apresentou qualquer ressalva, opondo nome completo, número de identidade da ré/apelante e fazendo constar, até mesmo, a data da entrega do documento, qual seja: 16 de dezembro de 2020.
+O Aviso de Recebimento foi juntado aos autos em 15 de janeiro de 2021, e a data limite para contestação encerrou-se em 10 de fevereiro de 2021, deixando a ora recorrente transcorrer o prazo in albis.
+Neste ponto, cumpre esclarecer que o extrato de entrega do AR emitido pelos Correios (ID 27124679) é suficiente para confirmar a devida entrega da correspondência, devendo ser aceita a veracidade das informações prestadas pelos Correios acerca da efetiva citação da ré. Não cabendo a tentativa de invalidar a Citação por fantasiosa irregularidade de procedimento do servidor dos Correios como sugere a parte autora.
+Melhor sorte não assiste à recorrente ao impugnar a atuação ex officio do Juiz a quo, o qual determinou a realização de pesquisas via sistemas disponíveis, em busca de possíveis endereços ainda não diligenciados (ID 27124667).
+Em verdade, não há impedimentos legais para a atuação do Juiz em realizar diligências aos sistemas disponíveis do Judiciário a fim de viabilizar a obtenção do endereço do requerido. Sobretudo, quando constatada a validade da Citação.
+Deste modo, infere-se que a requerida não ofereceu Contestação por razões pessoais. Logo, o fato do (sic) Juiz ter determinado de ofício as diligências para Citação, não trouxe quaisquer prejuízos ao contraditório da requerida, ao contrário impulsionou o processo e garantiu a tramitação de forma célere, sem violação das garantias legais asseguras à ré. (e-STJ, fls. 407/408) (grifo nosso)
+5. Da Súmula 568/STJ
+Com efeito, não há qualquer equívoco na aplicação da Súmula 568/STJ.
+Consoante a jurisprudência do STJ, o credor munido de título de crédito sem executividade pode ajuizar, no prazo de 5 anos, ação monitória para a cobrança da dívida representada nesse título, entendimento este que se mostra perfeitamente aplicável à ação de conhecimento, cujo procedimento é mais favorável ao devedor.
+Nesse sentir, segue a ementa dos seguintes julgados:
+DIREITO CIVIL. AGRAVO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. FIANÇA. DUPLICATAS. PRESCRIÇÃO. PRAZO QUINQUENAL.
+1. Na linha dos precedentes desta Corte, o credor munido de título de crédito sem executividade pode ajuizar, no prazo de 5 (cinco) anos, ação monitória para a cobrança da dívida representada nesse título, entendimento este que se mostra perfeitamente aplicável à ação de conhecimento, cujo procedimento é mais favorável ao devedor.
+2. Agravo não provido. (AgRg no AREsp 460.914/RS, 3ª Turma, DJe de 24/3/2014.) (grifo nosso)
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. DESCABIMENTO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. NOTA DE CRÉDITO RURAL. PRESCRIÇÃO. COBRANÇA VIA AÇÃO DE CONHECIMENTO. PRAZO. CINCO ANOS. INÍCIO DA FLUÊNCIA:
+VENCIMENTO DA OBRIGAÇÃO. INCIDÊNCIA DA REGRA DE TRANSIÇÃO.
+ARTIGOS ANALISADOS: 189, 206, § 5º, I, e 2.028 DO CC/2002; 177 do CC/1916; E 10 DO DL 167/1967.
+1. Recurso especial, concluso ao Gabinete em 16/8/2013, no qual se discute o prazo prescricional da pretensão de cobrança de dívida estampada em Nota de Crédito Rural. Ação proposta em 12/1/2012.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. Ausentes os vícios do art. 535 do CPC, rejeitam-se os embargos de declaração.
+4. A obrigação constante em Nota de Crédito Rural possui liquidez, certeza e exigibilidade, conforme estabelecido de modo expresso pelo art. 10 do Decreto-Lei n. 167/1967.
+5. O prazo prescricional para exercício da pretensão de cobrança de débito constituído por cédula de crédito - deduzida mediante ação de conhecimento ou monitória - é de cinco anos (art. 206, § 5º, I, do CC/2002), começando a fluir do vencimento da obrigação inadimplida.
+6. Hipótese em que a obrigação venceu em 30/7/2002, a atrair a incidência da regra de transição do art. 2.028 do CC/2002. Prazo prescricional findo em 11/1/2008. Pretensão prescrita.
+7. Recurso especial não provido. (REsp 1.403.289/PE, 3ª Turma, DJe de 14/11/2013.) (grifo nosso)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CHEQUES. SÚMULAS 503 E 503 DO STJ. PRAZO DE CINCO ANOS. NÃO OCORRÊNCIA DA PRESCRIÇÃO.
+MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. ART.
+1.022 DO CPC/2015. AUSÊNCIA DE OMISSÕES. AGRAVO INTERNO NÃO PROVIDO.
+1. O prazo para ajuizamento de ação monitória em face do emitente de cheque sem força executiva é quinquenal, a contar do dia seguinte à data de emissão estampada na cártula. (Súmula 503, SEGUNDA SEÇÃO, julgado em 11/12/2013, DJe 10/02/2014).
+2. O prazo para ajuizamento de ação monitória em face do emitente de nota promissória sem força executiva é quinquenal, a contar do dia seguinte ao vencimento do título. (Súmula 504, SEGUNDA SEÇÃO, julgado em 11/12/2013, DJe 10/02/2014) 3. O acórdão estadual afastou a prescrição para a cobrança dos títulos representados pelos cheques, amparado no acerco fático-probatório dos autos. A revisão do julgado estadual demandaria a reapreciação do conjunto fático-probatório carreado aos autos, providência vedada em sede de recurso especial. Incidência da Súmula 7 do STJ.
+4. A decisão deste relator apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. Portanto, não há falar, no caso, em negativa de prestação jurisdicional. Destaco que se a decisão combatida não correspondeu à expectativa da parte, não deve por isso ser imputado vício ao julgado.
+5. Agravo interno não provido. (AgInt nos EDcl no AREsp 1.383.722/SP, 4ª Turma, DJe de 4/6/2019) (grifo nosso)
+Dessa forma, o Tribunal de origem, ao entender pela aplicação do prazo prescricional quinquenal para o ajuizamento de ação de cobrança de título de crédito sem força executiva, alinhou-se à jurisprudência desta Corte Superior.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
+Em relação às alegações de violações dos arts. 489 e 1.022, ambos do CPC/15, não há omissão, tendo em vista que o acórdão embargado analisou de forma adequada as os pleitos de negativa de prestação jurisdicional e de existência de fundamentação deficiente, nos termos da fundamentação transcrita.
+Ademais, urge frisar que a interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a", da CF/88.
+Imperioso frisar que os embargos de declaração se destinam a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa (EDcl no AgInt no REsp 1.809.346/AL, 3ª Turma, DJe 25/06/2020; EDcl no AgInt no REsp 1.303.182/DF, 4ª Turma, DJe 21/11/2019; EDcl no REsp 1.761.119/SP, Corte Especial, DJe 12/11/2019).
+Assim, dissociado os pleitos de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a rejeição dos embargos de declaração.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração, advertindo à parte embargante, desde já, que a insistência no manejo deste recurso ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/15.
