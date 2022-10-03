@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 27/09/2022 a 03/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face da decisão de fls. 653/656, e-STJ, por meio da qual neguei provimento ao agravo em recurso especial.
+A parte agravante, em suas razões, argumentou que, "sob a ótica do Código de Processo Civil de 2015, o mero provimento de baixa e arquivamento da execução, se afigura como caso de suspensão da execução (art. 921 e incisos do CPC/2015)" (fl. 662, e-STJ) e não atrai o cabimento da apelação.
+A parte agravada não apresentou contrarrazões, conforme certidão de fls. 698 a 701, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO EM FACE DE DECISÃO QUE DETERMINOU O ARQUIVAMENTO DO FEITO EXECUTIVO COM A RESPECTIVA BAIXA. NATUREZA TERMINATIVA. RECURSO CABÍVEL. APELAÇÃO. AGRAVO NÃO PROVIDO.
+1. Conforme jurisprudência do Superior Tribunal de Justiça, "o provimento que determina a baixa e arquivamento da execução, como a hipótese dos autos, tem natureza de sentença, pois põe termo ao processo e, portanto, deve ser atacada por apelação" (AgInt no REsp 1.572.856/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 11/6/2018).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+O Tribunal de Justiça do Estado do Rio Grande do Sul entendeu ser a apelação o recurso cabível no caso dos autos, expondo os seguintes argumentos (fls. 437/442, e-STJ):
+Como já acentuei na decisão monocrática, in casu, a insurgência apresentada por agravo de instrumento não ultrapassa o juízo de admissibilidade por representar espécie recursal manifestamente inadequada para a impugnação da decisão que se visa reformar.
+Ora, não há dúvida de que a decisão que determina o arquivamento dos autos da execução, com a devida baixa na distribuição, ostenta natureza de sentença, pois consubstancia pronunciamento por meio do qual o juiz encaminha a extinção da etapa executiva da demanda. A própria legislação adjetiva civil vigente esclarece que, ressalvadas as disposições próprias dos procedimentos especiais, sentença corresponde àquele pronunciamento judicial que, além de pôr fim à fase cognitiva do procedimento comum (com ou sem resolução de mérito), importa, também, na extinção da execução (artigo 203, § 1º, do Código em vigor).
+Conclui-se, em razão disso, que o recurso adequado para a impugnação do ato judicial impugnado na espécie é a apelação (artigo 1.009 do Código de Processo Civil de 2015). A utilização do agravo de instrumento, em casos tais, é tecnicamente grosseira, pois escancarada é a ausência de índole interlocutória do pronunciamento atacado. Isso porque a natureza sentencial do ato recorrido é fácil e objetivamente constatável mediante análise do resultado principal que ele acarreta para o processo (no caso, o desfecho da relação jurídica processual por expressa extinção da execução por meio de ordem de arquivamento dos autos com a devida baixa).
+Aliás, a jurisprudência do Superior Tribunal de Justiça não titubeia, em momento algum, a respeito do recurso apropriado para a impugnação de decisão que julga extinto o processo de execução mediante ordem de arquivamento dos autos com consequente baixa na distribuição, sinalizando, pacificamente, para a apelação como o meio recursal adequado.
+(..) E também consigno, na senda da elucidativa jurisprudência acima reproduzida, que não vejo como admitir aquele recurso sob o prisma da fungibilidade recursal.
+É que a aplicação do princípio da fungibilidade, como sabido, pressupõe rigorosa observância a três requisitos: i)dúvida objetiva sobre qual o recurso cabível;
+ii)inexistência de erro grosseiro; iii)que o recurso inadequado tenha sido interposto dentro do prazo daquele considerado correto (AgRg no AgRg no AgRg no AREsp 390.989/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 05/12/2013, DJe 11/12/2013).
+No caso presente, entretanto, o erro é grosseiro diante da flagrante natureza sentencial do provimento hostilizado, tornando a apelação, com isso, o recurso tecnicamente adequado para o contraste da decisão proferida, sem margem para o surgimento de qualquer dúvida razoável por parte dos sujeitos processuais. Disso decorre, portanto, que a dúvida porventura motivadora da interposição deste (inadequado) recurso não é objetiva, mas subjetiva, resultante de equivocada interpretação da norma legal pelo interessado ou da má análise da espécie de decisão que visou impugnar.
+Nesse panorama, não há que se falar em incidência de fungibilidade recursal no caso, pois descumpridos os dois primeiros pressupostos autorizadores de sua aplicação (dúvida objetiva e ausência de equívoco grosseiro).
+Verifica-se, assim, que o presente agravo não merece conhecimento por inobservância ao pressuposto do cabimento.
+A Corte local, assim, decidiu em conformidade com a jurisprudência do Superior Tribunal de Justiça, segundo a qual "o provimento que determina a baixa e arquivamento da execução, como a hipótese dos autos, tem natureza de sentença, pois põe termo ao processo e, portanto, deve ser atacada por apelação" (AgInt no REsp 1572856/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 5/6/2018, DJe 11/6/2018).
+Cito, também, o recente julgado oriundo desta Quarta Turma, por meio do qual se reafirmou esse entendimento:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. RECURSO EM FACE DE DECISÃO QUE DETERMINOU O ARQUIVAMENTO DO FEITO EXECUTIVO COM A RESPECTIVA BAIXA. NATUREZA TERMINATIVA. RECURSO CABÍVEL. APELAÇÃO. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO NÃO PROVIDO.
+1. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. "O entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte Superior, segundo a qual o provimento que determina a baixa e arquivamento da execução, como a hipótese dos autos, tem natureza de sentença, pois põe termo ao processo e, portanto, deve ser atacada por apelação" (AgInt no REsp 1.572.856/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe de 11/6/2018).
+3. Estando o acórdão estadual em consonância com a jurisprudência do STJ, o apelo nobre encontra óbice na Súmula 83/STJ, aplicável tanto ao recurso especial pela alínea a como pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.611.768/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/9/2021, DJe de 3/11/2021.)
+Inafastável, portanto, o óbice da Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
