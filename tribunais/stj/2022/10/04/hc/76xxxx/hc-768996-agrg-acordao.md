@@ -1,0 +1,48 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a liminar foi indeferida em razão da gravidade concreta do delito e do risco de reiteração delitiva, por responder a outra ação penal por tráfico de drogas. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+3. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, João Otávio de Noronha e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental no habeas corpus interposto por JOSÉ NEIVA MOURA LIMA contra decisão monocrática da Presidência que indeferiu liminarmente o writ nos termos da Súmula n. 691/STF (e-STJ fls. 206/208).
+Infere-se dos autos que o paciente foi preso em flagrante em 14/8/2022, tendo em vista suposta infração ao art. 121, § 2º, II e IV, do Código Penal. A prisão foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, argumentando a ausência de fundamentação idônea do decreto prisional. A liminar, contudo, foi indeferida (e-STJ fls. 117/120).
+Daí o presente mandamus que teve o seguimento negado pela Presidência, com fulcro na Súmula n. 691/STF.
+No presente agravo, a defesa sustenta ser ilegal a prisão do agravante "haja vista sua colaboração com a justiça. Entrementes, não fora noticiado nenhum embaraço as investigações ou cometimentos de novos delitos, tampouco a decisão fundou-se em elementos concretos que o recorrente iria se evadir da localidade ou que causaria riscos a ordem pública." (e-STJ fl. 216).
+Sublinha que não foram levadas em consideração as circunstâncias pessoais favoráveis.
+Diante disso, pede a reconsideração da decisão anterior, para que conceder a liminar para revogar a prisão preventiva do agravante e, caso assim não entenda, que o recurso seja levado a julgamento pelo Colegiado da Quinta Turma.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, sem adiantar qualquer juízo de valor sobre os fatos, destaco os termos expostos pelo Tribunal a quo ao indeferir o pleito liminar (e-STJ fls. 117/120):
+Como se sabe, a ação autônoma de impugnação de habeas corpus tem cabimento sempre que alguém estiver sofrendo ou na iminência de sofrer constrangimento ilegal na sua liberdade de locomoção (art. 5º, LXVIII, CF).
+Sabe-se, ainda, que a liminar não tem previsão legal específica, sendo admitida pela doutrina e jurisprudência nos casos em que exista urgência, necessidade e a relevância da medida se mostre evidenciada na impetração.
+Assim, vislumbra-se a necessidade de o impetrante demonstrar, prima facie, de forma transparente, a ilegalidade do ato judicial atacado, pois, existindo dúvida ou situações que mereçam exame mais acurado, o deferimento do pedido de liminar, em sede de cognição sumária, é sempre arriscado.
+De plano, convém afirmar que "A existência de condições pessoais favoráveis, tais como primariedade, bons antecedentes, ocupação lícita e residência fixa, não é apta a desconstituir a prisão processual, caso estejam presentes os requisitos que autorizem a decretação/manutenção da medida extrema  .. " (STJ - RHC: 133282 MS 2020/0214899-4, Relator: Ministra LAUTIRA VAZ, Data de Julgamento: 15/09/2020, T6 - SEXTA TURMA, Data de Publicação: DJe 29/09/2020)(g.n.) Logo, ainda que traga consigo histórico positivo, o paciente não necessariamente deve livrar-se solto, cabendo ao magistrado examinar se encontra presente alguma das hipóteses do artigo 312, do Código de Processo Penal.
+Da detida análise da decisão que decretou a prisão preventiva é possível observar que é bem fundamentada e se sustenta na necessidade de se assegurar a garantia da ordem pública e aplicação da lei penal.
+Apesar dos argumentos apresentados não se verifica, nesse momento de análise sumária, mudança fática capaz de autorizar a concessão de alvará de soltura ao paciente.
+Como bem colocado pelo magistrado a quo:
+Justifica ainda a necessidade da prisão preventiva para assegurar a garantia da ordem pública, conveniência da instrução processual penal e, em razão do crime ter abalado a comunidade local, na medida em que a utilização desproporcional dos meios (05 tiros) demonstrando a índole perniciosa do representado, assim como as testemunhas temem por sua integridade física, enquanto o investigado estiver solto, sendo o perfil do representado com potencial de cometer novos delitos e concreta possibilidade de fuga.
+Relata ainda, notória periculosidade in concreto do representado, pessoa de comportamento perigoso, que por sua conduta espalha medo na comunidade, com personalidade devotada ao crime respondendo outra ação penal por tráfico de drogas, alegando que diante da gravidade da infração penal e dos riscos da impunidade, o cerceamento da liberdade do indivíduo mostra-se adequado e proporcional, não sendo cabível nenhuma outra medida cautelar.
+Dessa maneira, em que pese o paciente negar a autoria do crime de homicídio, extrai-se dos depoimentos colhidos em sede policial que há elementos suficientes que apontam o réu como autor do crime contra a vida, sendo que em sede de instrução criminal ao paciente será facultado maior dilação probatória.
+ .. .
+Destarte, é entendimento assente nesta Corte de Justiça que estando o decreto fundamento em elementos que apontam o perigo concreto da conduta atribuída ao réu, resguardando, principalmente, à garantia da ordem pública, bem como possibilitando a aplicação da lei penal, não há que se falar em constrangimento ilegal apto a ensejar a liberdade do paciente.
+De toda sorte, uma análise mais profunda e criteriosa será realizada em momento oportuno.
+Desta forma, não vislumbro, neste momento de cognição sumária, qualquer constrangimento a que possa o Paciente encontrar-se submetido, razão pela qual, INDEFIRO a liminar pleiteada.
+Com efeito, o decisum impugnado encontra suporte na jurisprudência desta Corte, segundo a qual, a gravidade concreta dos fatos é fundamento idôneo para decretação da prisão preventiva. Nesse sentido:
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. TENTATIVA DE HOMICÍDIO. GARANTIA DA ORDEM PÚBLICA, CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA.
+(..).
+2. A segregação cautelar é medida excepcional, cabendo ao julgador interpretar restritivamente os pressupostos consignados na lei processual, fazendo-se mister a configuração dos referidos requisitos, sendo que razões outras desprovidas de cunho acautelatório não podem ser utilizadas para a imposição da medida constritiva.
+3. No caso, a custódia preventiva decorreu da necessidade de salvaguardar a ordem pública, diante da gravidade concreta do delito evidenciada pelo "modus operandi" e sua suposta motivação (tentativa de homicídio, em tese encomendada pelo recorrente, mediante cinco disparos de arma de fogo, motivada por ciúmes de ex-mulher), fatores que revelam a periculosidade social do agente.
+4. Ameaças de morte efetuadas pelo recorrente contra a vítima e seus familiares do mesmo modo são suficientes para a manutenção do decreto preventivo, haja vista a necessidade de garantir a conveniência da instrução criminal.
+5. Hipótese em que a prisão cautelar não foi efetuada até o momento em razão de o acusado estar em lugar incerto, o que demonstra o intuito de se furtar ao cumprimento da norma penal.
+6. Recurso ordinário em habeas corpus desprovido. (RHC n. 60.858/MT, Rel. Ministro GURGEL DE FARIA, DJe 01/10/2015)
+Além disso, a jurisprudência desta Corte é assente no sentido de que a custódia cautelar pode ser justificada "na necessidade da segregação cautelar para a garantia da ordem pública, a fim de evitar a reiteração delitiva" (HC n. 313.227/SP, Reator Ministro FELIX FISCHER, Quinta Turma, julgado em 12/5/2015, DJe 18/5/2015).
+Ademais, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado. Entendo, portanto, não ser o caso de superação do enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
