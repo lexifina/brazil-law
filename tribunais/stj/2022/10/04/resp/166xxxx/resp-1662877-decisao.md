@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de recurso especial interposto por NATALINA DE SOUZA, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão exarado pelo eg. Tribunal de Justiça do Estado do Paraná (TJ-PR).
+Historiam os autos que NATALINA DE SOUZA opôs embargos à arrematação em desfavor de EDSON PEREIRA PEQUENO, ora Recorrido, os quais foram extintos, sem exame de mérito,nos termos da r. sentença de fls. 83-87.
+Inconformada, NATALINA DE SOUZA recorreu, tendo o eg. TJ-PR negado provimentoà apelação, nos termos do v. acórdão, assim ementado (fls. 131-132):
+"APELAÇÃO CÍVEL - EMBARGOS À ARREMATAÇÃO - SENTENÇA DE EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO - EXECUÇÃO DE TITULO EXTRAJUDICIAL - INSURGÊNCIA DA EMBARGANTE -ALEGAÇÃO DE NULIDADE DO CONTRATO DE COMPRA E VENDA E ILEGITIMIDADE ATIVA DO EXEQUENTE - ART. 746 DO CPC/73-MATÉRIA DE ORDEM PÚBLICA- POSSIBILIDADE DE ALEGAÇÃO POR MEIO DOS EMBARGOS À ARREMATAÇÃO - LEGITIMIDADE DO EXEQUENTE PATENTEADA NO PRÓPRIO TITULO EXECUTIVO - ALEGAÇÃO DESCUMPRIMENTO DO CONTRATO PELO CREDOR QUE DEVERIA SER ALEGADA EM SEDE DE EMBARGOS À EXECUÇÃO E NÃO NESTA VIA ESTREITA DOS EMBARGOS À ARREMATAÇÃO- DOCUMENTOS ACOSTADOS AOS AUTOS QUE NÃO CONFEREM A MÍNIMA PLAUSIBILIDADE DO DIREITO INVOCADO - SENTENÇA MANTIDA. Recurso conhecido e desprovido."
+Irresignada, NATALINA DE SOUZA manejou recurso especial (fls. 145-156), no qual aponta, preliminarmente, violação aos arts. 165 e458, II, do CPC/73 e ao art.489, II, e §1º. do CPC/15, afirmando que o v. acórdão estadual carece de fundamentação.
+Indica, também, ofensa ao art. 284 do CPC/73, defendendo que uma"(..)atenta leitura da petição inicial não se vislumbra que exista uma "impossibilidade jurídica", mas apenas um entendimento do ilustre Magistrado de primeiro grau, de que "não fora abordada matéria pertinente ao que ocorrera no feito executório após a penhora", mas, tendo em vista a alteração legislativa levada a efeito, o termo "penhora"do artigo 746 do CPC/1973 deve-se ser entendido como "citação", mesmo porque para que a Executada fizesse uso dos Embargos à Execução não existe mais a necessidade de formalização de penhora, eis que o prazo se conta, em caso de Execução Extrajudicial da citação em diante e não da formalização da penhora. Não há mais necessidade de existir penhora para que a Executada faça uso dos primeiros Embargos" (fls. 152).
+No mérito, sustenta malferimento ao art. 746 do CPC/73, ao argumento, entre outros, de que "(..)a embargante, ora recorrente, deixou de discutir as "nulidades" em Embargos do Devedor, atualmente nada impede que o faça através dos presentes Embargos à Arrematação, mesmo porque o "termo penhora" inserido no artigo 746 do CPC/1973 não mais faz sentido em vista da alteração legislativa operada, sendo certo que as matérias objetos dos Embargos haverão de serem da CITAÇÃO em diante" (fls. 154).
+Admitido o apelo (decisão às fls. 163-164), ascenderam os autos a esta eg. Corte.
+É o relatório. Passo a decidir.
+Inicialmente, deve ser rejeitada a alegada ofensa aos arts. 165, 458, IIdo CPC/73 ao art. 489 do CPC/15, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia. Nesse sentido, destacam-se os seguintes julgados:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AUTORA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 165, 458, II, e 535, II, do CPC/73. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta.Precedentes.
+(..)
+6. Agravo interno desprovido."
+(AgInt no REsp n. 1.413.185/MG, relator MINISTRO MARCO BUZZI, Quarta Turma, julgado em 25/4/2022, DJe de 29/4/2022 - g. n.)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. EXCESSO DE EXECUÇÃO NÃO RECONHECIDO NO ACÓRDÃO RECORRIDO. ALEGAÇÃO INTEMPESTIVA. PRECLUSÃO. AUSÊNCIA DE VIOLAÇÃO AO ART. 489 DO CPC/2015. FUNDAMENTO SUFICIENTE PARA MANTER INCÓLUME O ACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente fundamentada, deve ser afastada a alegada violação ao art. 489 do Código de Processo Civil/2015.
+(..)
+5. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1746875/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/06/2021, DJe 17/06/2021 - g. n.)
+Avançando, o apelo não merece conhecimento quanto à alegada violação ao art. 284 do CPC/73.
+No caso, os conteúdos normativos dos referidos dispositivos legais não foram examinados pelo eg. TJ-PR configurando ausência de prequestionamento, tampouco foram opostos embargos para tal fim. Assim sendo, o apelo nobre encontra óbice nas Súmulas n. 282 e 356, ambas do col. Supremo Tribunal Federal. Nessa linha de intelecção, confiram-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. REAJUSTE. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. TESE DO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. DECISÃO MANTIDA.
+(..)
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, sob o enfoque dado pela parte, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.645.597/DF, relator MINISTRO ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022 - g. n.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AUDIÊNCIA DE CONCILIAÇÃO NÃO REALIZADA. NULIDADE RELATIVA. AUSÊNCIA DE PREJUÍZO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+2. A ausência de realização de audiência de conciliação não é causa de nulidade do processo.
+3. Agravo interno não provido."
+(AgInt no AREsp n. 1.915.027/SP, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022 - g. n.)
+Melhor sorte não socorre ao recurso no tocante ao art. 746 do CPC/73. Sobre tal norma, oportuna a transcrição do seguinte excerto do v. acórdão estadual (fls. 134-138):
+"3. No entanto, não merece provimento.
+Como se vê da petição inicial dos presentes embargos à arrematação (seq. 1.1), aponta a embargante, em síntese ,a nulidade da execução (n. 0001043-12.2012.8.16.0072), na medida em que o contrato executado é nulo, bem como o exequente não possui legitimidade para figurar no polo ativo da demanda.
+Ao analisar tais apontamentos (seq.24.1), o magistrado de primeiro graujulgou extinto o feito, com fulcro no art. 295, inciso III, do CPC/73, por entender que "o fundamento trazido pela embargante para anular a arrematação é a nulidade do contrato que embasou a execução, matéria esta que, por se anterior à penhora, somente poderia ter sido arguida em sede de embargos do devedor"".
+E, muito embora os argumentos aqui defendidos pela parte embargante, a decisão proferida em primeiro grau deve ser mantida.
+Quanto à possibilidade de oposição dos embargos à arrematação, o art. 746 do Código de Processo Civil de 1973 dispõe o seguinte:
+(..)
+Como se vê, em regra, não se admite a alegação, por meio dos embargos à arrematação, adjudicação ou alienação, das nulidades da execução ou causas extintivas da obrigação que tenham ocorrido posteriormente à penhora.
+(..)
+É evidente, no entanto, que tal norma não se aplica nas hipóteses de alegação de matéria de ordem pública, como a ilegitimidade ativa do exequente (embargado) aqui defendida, na medida em que pode ser alegada a qualquer tempo e grau de jurisdição e, inclusive, reconhecida de ofício pelo magistrado.
+(..)
+Nota-se, no entanto, que a legitimidade do embargante está patenteada pelo título executivo que acostou aos autos, ou seja, o compromisso de compra e venda realizado entre as partes e do qual constou a obrigação da embargante em pagar quantia certa.
+Se há algum defeito no contrato, ou seja, no título executivo, ele não diz respeito à ilegitimidade do exequente.
+Por outro lado e consoante se extrai da petição inicial(seq. 1.1), a embargante defende, em síntese, que por meio do contrato original, "fica comprovado que, por ocasião em que o Embargado COMPROMISSOU o imóvel arrematado para a Embargante, o mesmo" não possuía sobre o imóvel rural nenhum direito, eis que nunca o adquiriu", alienando "como se seu fosse, imóvel de terceiro, ou seja, de seu genitor"".
+Todavia, para comprovar tal fato, o embargante acostou aos autos tão somente o suposto Contrato Particular de Compromisso de Compra e Venda do imóvel executado(seq.1.5),celebrado entre Antônio Pietro Capelani, Neila Jesus Nigra Capelani e Antônio Pedro Pequeno, este último, segundo a embargante, filho do embargado.
+Contudo, tal documento, por si só, não se basta para comprovar a suposta nulidade do primitivo ajuste e muito menos a ilegitimidade alegada. Há a possibilidade, por exemplo, de existir um oumais contratos posteriores a este em que o embargante tenha eventualmente adquirido a propriedade do imóvel executado.
+Não há como simplesmente supor que, após 13 de outubro de 2009 (data da celebração do contrato de compra e venda(seq. 1.5)) até 19 de dezembro de 2001 (data da celebração do contrato de compra e venda entre a embargante e embargado (seq. 1.4)), não houve mais nenhuma operação envolvendo o imóvel objeto da execução.
+O que verdadeiramente pretende o embargante é justificar a existência de uma venda a "non domino", ou eventual descumprimento pelo embargado do ajuste, temas que já não comportam discussão nesta via estreia, até porque o contrato de compromisso de compra e venda foi firmado com a anuência daqueles que constavam como proprietários no registro de imóveis.
+Portanto, não pode prosperar a discussão ora posta, tendo o juízo de origem corretamente extinto o processo."
+(g. n.)
+Com efeito, não se vislumbra ofensa ao referido dispositivo legal, na medida em que o entendimento do eg. TJ-PR está em consonância com a jurisprudência desta eg. Corte, como se infere da leitura dos seguintes julgados:
+"RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VÍCIO NA AVALIAÇÃO. AUSÊNCIA DE OPORTUNA COMUNICAÇÃO AO JUÍZO (CPC, ART. 694). NULIDADE DA ARREMATAÇÃO. INOCORRÊNCIA. RECURSO PROVIDO.
+1. Na hipótese, a executada teve, pelo menos, duas anteriores oportunidades para alegar tempestivamente o vício no laudo de avaliação. A interpretação do art. 694, parágrafo único, I, do CPC, não pode conduzir ao resultado pretendido pela executada, pois o vício de nulidade a que alude o dispositivo diz respeito sobretudo à própria arrematação e não ao anterior laudo de avaliação, como sucede na espécie.
+2. O processo deve "caminhar para frente", amparado num sistema de preclusões. Não se pode retomar fase processual superada, máxime por motivo que poderia ter sido alegado pela executada no momento oportuno.
+3. Quanto aos embargos à arrematação, previstos no art. 746 do CPC (redação anterior à Lei n. 11.382/2006), também existem limites para as matérias a serem neles suscitadas, pois somente se pode arguir nulidade da execução, pagamento, novação, transação ou prescrição, desde que ocorridos após a penhora, isso porque os eventos anteriores a esta, não suscitados, ficam abrangidos pela preclusão, observando-se a finalidade do processo, a segurança jurídica e o princípio da razoável duração do processo (CF, art. 5º, inciso LXXVIII).
+4. Não há como se anular a arrematação, em face de um erro somente noticiado quando a arrematação já se tornara "perfeita, acabada e irretratável". A anulação prestigiaria a inércia do executado, tumultuando-se a execução, em detrimento não só do exequente como da própria prestação jurisdicional do Estado.
+5. Recurso especial provido para preservar a arrematação.
+(REsp n. 796.352/SC, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 11/3/2014, DJe de 17/3/2015 - g. n.)
+"RECLAMAÇÃO. ACÓRDÃO EM MANDADO DE SEGURANÇA. RESTABELECIMENTO DOS EFEITOS DE SENTENÇA PROFERIDA EM SEDE DE EMBARGOS À ARREMATAÇÃO. EXECUÇÃO ANULADA DESDE A ORIGEM POR SUPOSTOS VÍCIOS NOS PROCEDIMENTOS DE CITAÇÃO E PENHORA. DESCUMPRIMENTO DE ACÓRDÃO DO STJ.
+1. Acórdão do STJ transitado em julgado que atesta, expressamente, a lisura de procedimentos executivos de citação e penhora impugnados em sede de recurso especial deve ser, obrigatoriamente, observado pelas instâncias ordinárias.
+2. O cabimento dos embargos à arrematação está limitado às hipóteses de invalidade/ilegitimidade dos atos respectivos ou de nulidades supervenientes à penhora (art. 746 do CPC), não traduzindo, portanto, via apta a autorizar nova oportunidade ao executado para defender-se da execução 3. A sentença proferida durante o processamento do agravo de instrumento cede ao que for decidido neste. Precedentes.
+4. Reclamação procedente."
+(Rcl n. 6.749/TO, relator MINISTRO JOÃO OTÁVIO DE NORONHA, Segunda Seção, julgado em 8/5/2013, DJe de 31/5/2013 - g. n.)
+Nesse cenário,estando o v. acórdão recorrido em sintonia com a jurisprudência desta eg. Corte, o apelo nobre encontra óbice na Súmula n. 83/STJ, a qual é aplicável tanto pela alínea "a" como pela alínea "c" do permissivo constitucional. Nessa linha de intelecção, destacam-se os recentes precedentes:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVANTE.
+(..)
+3. Segundo a orientação firmada por esta Colenda Corte, a Súmula 83 do STJ é aplicável ao recurso especial tanto pela alínea "a" como pela alínea "c" do permissivo constitucional.
+4. Agravo interno desprovido."
+(AgInt no REsp 1923333/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021 - g. n.)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. PEDIDO DE CONCESSÃO DO BENEFÍCIO DA JUSTIÇA GRATUITA FORMULADO NAS RAZÕES DO RECURSO. DECLARAÇÃO DE HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. DETERMINAÇÃO PARA DEMONSTRAR A ALEGADA HIPOSSUFICIÊNCIA. INSUFICIÊNCIA DE RECURSOS NÃO DEMONSTRADA. BENEFÍCIO INDEFERIDO. POSSIBILIDADE. ACÓRDÃO EM HARMONIA COM ENTENDIMENTO DO STJ. VERIFICAÇÃO DE CONDIÇÃO ECONÔMICA EM RECURSO ESPECIAL. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+(..)
+5. Ao contrário do defendido pelo ora agravante, é possível a aplicação da Súmula 83 do STJ aos recursos especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional, de acordo com a jurisprudência do STJ.
+6. Agravo interno não provido."
+(AgInt no REsp 1788335/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/02/2021, DJe 03/03/2021 - g. n.)
+Ante o exposto, com arrimo no art. 255, § 4º, I e II, do RI-STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
