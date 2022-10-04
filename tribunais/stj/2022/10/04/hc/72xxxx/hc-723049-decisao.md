@@ -1,0 +1,18 @@
+DECISÃO
+MARCOS BRUNO SILVA DE OLIVEIRA alega sofrer constrangimento ilegal diante de acórdãos proferidos pelo Tribunal de Justiça do Estado do Maranhão na Revisão Criminal n. 0806416-63.2021.8.10.0000.
+A defesa aduzque, em prévio habeas corpus- HC n. 686.114/MA- impetrado nesta Corte Superior, o pleito de reconhecimento da atenuante da confissão espontânea não foi deferido "apenas por, na ocasião, não haver nos autos prova de que o Parquet usou a confissão do Paciente no plenário do júri" (fl. 5).
+Entende, então, que, neste mandamus, a ordem deve ser concedida, haja vista haver enviado a este Superior Tribunal as mídias do plenário do júri, nas quais está evidenciado que "o promotor usou a confissão do réu anteriormente feita na delegacia.  ..  a partirdos 00:45:20 o promotor lê o interrogatório da delegacia em voz alta, colocando para os jurados que o paciente assumiu a participação no crime" (fl. 5).
+Tal qual no writ anterior, assenta fazer o réu jus à atenuante almejada, pois eleconfessou o crime na fase inquisitorial, as suas palavras foram determinantes para o deslinde da ação penal e a questão foi posta perante os jurados com as demais provas dos autos.
+O Ministério Público Federal opinou pelo não conhecimento da impetração.
+Em petição acostada às fls. 117-118, o impetrante se manifesta em relação ao parecer do Parquet federal, ocasião em que assenta não haver que se falar em supressão de instância. Argumenta (fls. 117-118):
+Inicialmente, de se destacar que nos autos da revisão criminal ajuizada no Tribunal a quo, os Desembargadores não deixaram evidente que reconheceriam a atenuante pleiteada caso fosse juntada prova de que a confissão foi debatida em plenário. Ao contrário do que registrou VOSSA EXCELÊNCIA nos autos do AgRg no HC n.º 686114/MA, que deixou CLARO que a atenuante guerreada seria reconhecida caso o remédio heroico estivesse instruído com a prova do que foi alegado.
+Se fosse o caso de supressão de instância, como quer fazer crer o Parquet, tal argumento inequivocamente teria sido assentado por estes d. Ministros nos autos do writ supracitado, o que não ocorreu.
+ ..
+De mais a mais, sendo o presente caso um pleito em habeas corpus que versa sobre incontestável FLAGRANTE ILEGALIDADE, tem-se que a ordem pode - e deve - ser concedida ex officio.
+Se o presente pleito tiver que novamente ser apresentado no Tribunal a quo, EXCELÊNCIA, o que vai acontecer é que, simplesmente os Desembargadores não vão conhecer o pedido sob o argumento de que a matéria "já foi debatida por meio de revisão criminal". Ou seja, a tese ora digladiada vai ficar num impasse completamente desnecessário, pois, não é nenhuma novidade que as orientações jurisprudenciais dos Tribunais Estaduais não têm mínima harmonia com as deste TRIBUNAL SUPERIOR, e no final das contas, haverá necessidade da impetração de um novo mandamus nesta corte, o que vai contra a própria ideia de CELERIDADE e ECONOMIA PROCESSUAL.
+Decido.
+O mandamus não pode ser conhecido.
+A matéria já foi analisada por esta Corte no mencionado HC n. 686.114/MA e a ordem foi denegada no ponto ora em discussão, tendo em vista apremissa,estabelecidapelo Tribunal a quo no acórdão proferido na Revisão Criminal em comento, de que não haviaevidências de que a matéria houvesse sido debatida em plenário. A menção à falta de juntada da Ata de Julgamento constituiu apenas reforço ao argumento anterior.
+Além disso, lembro que, conforme já decidiu esta Corte Superior, "a pretensão de análise damídiaaudiovisual não se conforma com a via estreita dohabeascorpus, remédio que não admite dilação probatória" (EDcl no PExt no HC n. 592.832/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 14/4/2021).
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
