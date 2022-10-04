@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de Joamerson Rodrigues Neri, apontando-se como autoridade coatora o Tribunal de Justiça de Goiás, que negou provimento ao Agravo de Execução Penal n. 5592719-95.2021.8.09.0000.
+Extrai-se dos autos que o Juiz singularnegou o pedido de retificação da data-base para obtenção de benefícios da execução penal (PEC n. 7000192-91.2021.8.09.0051, com trâmite na 2ª Vara de Execução Criminal da comarca de Goiânia/GO).
+No presente writ, sustenta a impetrante, em suma, que éindevida a fixação da data-base para fins dos benefícios da execução penal, inclusive o livramento condicional, o dia 1º/2/2021, data em que o apenado iniciou o cumprimento definitivo da pena (fl. 4).
+Explica que, durante o trâmite processual, o apenado ficou preso cautelarmente de 15/9/2015 até 4/5/2016 e que, posteriormente, foi solto, sendo preso, novamente, apenas em 1º/2/2021, quando iniciou o cumprimento definitivo da pena.
+Defende que deve ser fixada, como data-base, o dia da primeira prisão, quando determinada a prisão provisória do apenado em 15/9/2015.
+Por fim, traz pedido nos seguintes termos (fls. 10/11):
+ ..
+Por todo o exposto, requer a Defensoria Pública, no exercício de suas funções institucionais, seja concedida a ordem liminarmente, para, determinar que se proceda à análise da possibilidade da progressão de regime e concessão do livramento condicional tendo como data-base o dia 14/9/2015 e, ao final, a concessão da ordem em definitivo para, reconhecendo o equívoco na fixação da data-base, determinar a retificação do cálculo para considerá-la como sendo o dia 14/9/2015, inclusive para o livramento condicional.
+ ..
+Indeferido o pedido de liminar (fls. 79/80) e prestadas as informações (fls. 88/93).
+Em sua manifestação, opinou o Ministério Público Federal pelo não conhecimento dowrit,nos termos do parecer assim resumido (fl. 95):
+HABEAS CORPUS SUBSTITUTIVO. NÃO CONHECIMENTO. EXECUÇÃO. DATA-BASE.BENEFÍCIOS. ÚLTIMA PRISÃO.
+- Habeas corpus substitutivo. Não conhecimento.
+- Como se extrai dos autos, o lapso temporal em que o paciente não cumpriu efetivamente a pena foi excluído do cálculo da detração, como corretamente indicado pelo Juízo da Vara de Execuções Penais, tendo sido, contudo, considerado, para efeitos de benefícios da execução penal, o tempo de efetiva prisão preventiva.
+- Ademais, a fixação como data-base da concessão de benefícios da execução penal como a data da última prisão está em consonância com o entendimento sufragado por esse C. STJ sobre o tema,
+- Parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+Como visto, pretende a defesa seja estabelecida como data-base para fins de benefícios prisionais,a data da primeira prisão cautelar do paciente,ocorrida no período de 15/9/2015 até 4/5/2016.
+A pretensão não comporta amparo.
+Ao indeferir o pedido de retificação da data-base, o Juízo da Vara de Execuções Criminais consignou (fls. 28/29 - grifo nosso):
+Conforme entendimento jurisprudencial seguindo nesta Vara, a data-base a progressão e livramento condicional quando o(a) apenado(a) é solto(a) no processo de conhecimento e, posteriormente, é preso para iniciar o cumprimento da pena, é o dia da prisão para efetivo início do cumprimento da pena, pois a(s) prisão(ões) anterior(es) pode(m) ser usada(s) como detração, mas não como parâmetro para fixação de data-base, "evitando-se duplo benefício pelo mesmo evento". (TJGO, Agravo de Execução Penal 5051794-51.2020.8.09.0000, Rel. LEANDRO CRISPIM, 2ª Câmara Criminal, julgado em 07/06/2020, DJe de 07/06/2020).
+Em suma, a fixação de data-base para benefícios pressupõe o início efetivo do cumprimento da pena, que ocorre com a prisão para esta finalidade.
+Obviamente, nos casos em que o(a) agente foi preso(a) em flagrante ou no curso da instrução processual, respondeu ao processo preso(a), sua prisão foi mantida na sentença e, em seguida, iniciou-se a execução da pena, provisória ou definitiva, a data-base será a data da primeira prisão, pois, nesse caso, não há causa interruptiva da prisão, ou seja, não houve soltura antes de iniciar o cumprimento da pena.
+No presente caso, conforme certidão carcerária que acompanha a guia de recolhimento e consta no Sistema GoiásPen, somente no dia 01/12/2021 o apenado foi preso pelo mandado de prisão expedido no processo n.º 0336606-70.2015.8.09.0011 - 2ª Vara Criminal de Aparecida de Goiânia/GO, relativo à guia de recolhimento que motivou a instauração desta execução, para iniciar o cumprimento da pena, sendo referida data, portanto,a data-base tanto para a progressão de regime quanto para o livramento condicional, ressaltando que, quanto ao livramento condicional, referida data não poderá ser modificada caso haja prática de falta grave no curso da execução, conforme Súmula 441 do STJ.
+A prisão pretendida pela Defensoria Pública, qual seja, o dia 14/09/2015, data da primeira prisão, foi interrompida com a soltura do apenado no dia 05/05/2016, conforme cópia do alvará de soltura anexado à guia de recolhimento e consta no Sistema GoiásPen, de forma que tal prisão não pode servir como parâmetro/data-base para os benefícios da execução, mas pode e já está sendo utilizada para fins de detração, conforme confere-se nos cálculos liquidatórios.
+Assim, rejeito a impugnação aos cálculos apresentada pela Defensoria Pública, não havendo reparos a serem feitos.
+O Tribunal de origem, por sua vez, consignou (fl. 70 - grifo nosso):
+No caso, o agravante foi preso em 15/09/2015 sido liberado em 05/05/2016, tendo retornando para cumprir a pena tão somente em 01/02/2021. Assim, a data-base a ser considerada para fins de benefícios executórios deve ser aquela em que iniciado o efetivo cumprimento da pena definitiva, no caso, a data da última prisão.
+O acórdão está em harmonia com a jurisprudência desta Corte, de acordo com a qual, seja no caso de unificação de penas, oude crime único, deve ser considerada para obtenção de futuros benefícios carcerários a data da última prisão, sob pena de se proclamar como pena efetivamente cumprida o período em que ele permaneceu em liberdade.
+Confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE. ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese dos autos, o apenado foi preso em flagrante no dia 9/12/2010, sendo concedida a liberdade provisória em 29/8/2012.Iniciado o cumprimento do decreto condenatório no dia 28/8/2020, a data-base que deve ser considerada para a progressão de regime é a data da última prisão efetuada, sendo que o período anterior à condenação em que o agente esteve preso será computado para fins de detração penal.
+2. Agravo regimental desprovido.
+(AgRg no HC n. 717.953/MS, Ministro Ribeiro Dantas, Quinta Turma, DJe 30/8/2022 - grifo nosso)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MARCO INICIAL PARA A CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. DATA DA PRISÃO EM FLAGRANTE. INVIABILIDADE. PRISÃO PROVISÓRIA. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1.No presente caso, não se trata de unificação de penas, mas de crime único em que o sentenciado foi preso em flagrante delito no dia 12/7/2014, mas foi solto em 9/1/2015, sendo preso novamente em 19/9/2015.
+2.Não é possível tomar como base a data da primeira prisão, já que o reeducando ficou solto por mais de 8 meses, devendo, nesse caso, ser considerada para obtenção de futuros benefícios carcerários, a data da última prisão, qual seja 19/09/2015, sob pena de se proclamar como pena efetivamente cumprida o período em ele permaneceu em liberdade. Por conseguinte, o dia da última prisão - e não da primeira -, deve, efetivamente, ser considerado como data-base para efeitos de concessão de benefícios relativos à execução penal.
+3. O acórdão impugnado está em consonância com a jurisprudência desta Corte ao estabelecer a data da última prisão como marco temporal para a obtenção de benefícios da execução. É que a Terceira Seção desta Corte,no julgamento do REsp n. 1.557.461/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, julgado em 22/02/2018, DJe 15/03/2018, alterou o anterior posicionamento jurisprudencial, passando a entender que a superveniência do trânsito em julgado da sentença condenatória não serve de novo parâmetro para fixação da data-base para concessão de benefícios à execução, não podendo, assim, ser desconsiderado o período de cumprimento de pena desde a última prisão ou desde a última infração disciplinar, seja por delito ocorrido antes do início da execução da pena, seja por crime praticado após e já apontado como falta grave.
+4. Agravo regimental não provido
+(AgRg no REsp n. 1.918.296/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/4/2021 - grifo nosso)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS ATACADOS. SÚM. N. 182/STJ. NÃO INCIDÊNCIA. INVASÃO DE MÉRITO. INOCORRÊNCIA. VIOLAÇÃO DO ART. 619 DO CPP QUE NÃO SE VERIFICA. MARCO INICIAL PARA A CONCESSÃO DE BENEFÍCIOS EXECUTÓRIOS. DATA DA PRISÃO EM FLAGRANTE. IMPOSSIBILIDADE. DATA DA ÚLTIMA PRISÃO. AGRAVO REGIMENTAL PROVIDO PARA, AFASTADA A INCIDÊNCIA DA SÚM. N. 182/STJ, CONHECER DO AGRAVO, NEGANDO, TODAVIA, PROVIMENTO AO RECURSO ESPECIAL.
+ ..
+5.No caso, não se trata de unificação de penas, mas de crime único em que o sentenciado ficou preso provisoriamenteno período compreendido entre 23.04.2014 a 24.09.2014,sendo colocado em liberdade posteriormente por meio de alvará de soltura. Após, foi preso aos 13.06.2019, quando deu início ao cumprimento da reprimenda definitiva, no importe de 14 (quatorze) anos e 06 (seis) meses, por infringência ao artigo 121, § 2o, inciso II, do Código Penal.
+6.Não é possível tomar como base a data da primeira prisão, já que o reeducando ficou solto por 5 meses,devendo, nesse caso, ser considerada, para obtenção de futuros benefícios carcerários, a data da última prisão, qual seja 13/06/2019,sob pena de se considerar como pena efetivamente cumprida o período em ele permaneceu em liberdade.
+7. Agravo regimental provido para, afastada a incidência da Súm. n. 182/STJ, conhecer do agravo, negando, todavia, provimento ao recurso especial
+(AgRg no AREsp n. 1.810.706/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 1º/6/2021 - grifo nosso)
+Não é outro o parecer da lavra da Subprocuradora-Geral da RepúblicaAna Borges Coêlho Santos, com o qual estou de acordo e que também adoto como razões de decidir (fls. 97/98 - grifo nosso):
+ ..
+Como se extrai dos autos, o lapso temporal em que o paciente não cumpriu efetivamente pena foi excluído do cálculo da detração, como corretamente indicado pelo Juízo da Vara de Execuções Penais, tendo sido, contudo, considerado, para efeitos de benefícios da execução penal, o tempo de efetiva prisão preventiva.
+Ademais, a fixação como data-base da concessão de benefícios da execução penal como a data da última prisão está em consonância com o entendimento sufragado por esse C. STJ sobre o tema, consoante ilustram os seguintes precedentes:  ..
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. BENEFÍCIOS. ALTERAÇÃO DA DATA-BASE. DIA DA PRIMEIRA PRISÃO. IMPOSSIBILIDADE. MARCO INICIAL. DATA DA ÚLTIMA PRISÃO. ACÓRDÃO IMPUGNADO CONSOANTE OS PRECEDENTES DESTA CORTE.INEXISTÊNCIA DE ILEGALIDADE. PARECER ACOLHIDO.
+Ordem denegada.
