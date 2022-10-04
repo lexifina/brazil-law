@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Agravo Interno interposto contra decisão da Presidência do STJ que não conheceu do Recurso Especial (fls. 519-520, e-STJ).
+O agravante afirma (fl. 525, e-STJ):
+Ocorre que, uma análise rápida da petição recursal revela que o recurso especial fora interposto por contrariedade à lei federal (alínea "a" do inciso III do art. 105 da Constituição Federal), sendo certo que por mero equívoco constou na peça recursal que seu fundamento seria o artigo 102, e não o art. 105 da Constituição Federal.
+Não houve impugnação.
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 22.9.2022.
+Assiste razão à parte agravante, porquanto demonstrou que o Recurso Especial é integralmente fundamentado na violação do art. 167, parágrafo único, do CTN. Assim, passo a nova análise do Recurso.
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdão cuja ementa é a seguinte:
+REEXAME NECESSÁRIO - JUÍZO DE RETRATAÇÃO - SUBMISSÃO DO ACÓRDÃO ANTERIORMENTE PROLATADO AO PROCEDIMENTO PREVISTO NO ARTIGO 1.030, II, DO CÓDIGO DE PROCESSO CIVIL DE 2015 - TEMA 905, DO STJ E TEMA 810, DO STF - ALÍQUOTA PROGRESSIVA DE CONTRIBUIÇÃO PREVIDENCIÁRIA - AÇÃO DE REPETIÇÃO DE INDÉBITO - NATUREZA TRIBUTÁRIA DAS CONTRIBUIÇÕES PREVIDENCIÁRIAS RECONHECIDA PELO STF - CONSECTÁRIOS LEGAIS - JUROS DE MORA E CORREÇÃO MONETÁRIA - INAPLICABILIDADE DO ARTIGO 1º-F DA LEI Nº 9.494/97, COM REDAÇÃO DADA PELA LEI Nº 11.960/09 PARA AS CONDENAÇÕES DE NATUREZA TRIBUTÁRIA IMPOSTAS À FAZENDA PÚBLICA - APLICAÇÃO DOS MESMOS ÍNDICES DE JUROS E CORREÇÃO MONETÁRIA UTILIZADOS PELA FAZENDA PÚBLICA PARA REMUNERAR SEUS PRÓPRIOS CRÉDITOS - INCIDÊNCIA, NO CASO, DA TAXA SELIC, POR SER ESTE O CRITÉRIO PREVISTO NA LEGISLAÇÃO ESTADUAL - JUÍZO DE RETRATAÇÃO EXERCIDO, COM A MODIFICAÇÃO DOS CONSECTÁRIOS LEGAIS.
+Os Embargos de Declaração foram rejeitados.
+O recorrente aponta violação do art. 167, parágrafo único, do CTN. Aduz:
+O texto do art. 167, parágrafo único do CTN é claro: A restituição vence juros não capitalizáveis, a partir do trânsito em julgado da decisão definitiva que a determinar.
+Como se pode extrair da norma, somente após o trânsito em julgado é que se pode falar em juros moratórios. Antes, só correção monetária isoladamente. É esta a intelecção que norteia o STJ até os dias de hoje, uma vez que ainda está em vigor a Súmula n. 188/STJ.
+Não se discute sobre a validade da taxa SELIC em si considerada. O que se objeta é o momento em que deve ser aplicada por conta de nela estarem embutidosjuros e correção monetária: a) antes do trânsito em julgado, ou b) só após o trânsito em julgado.
+Sem contrarrazões.
+Para melhor elucidação da matéria, cumpre transcrever, no que interessa, trechos do Voto condutor do acórdão impugnado:
+Na verdade, o que a embargante pretende é rediscutir o posicionamento adotado pelo colegiado, no sentido de que a taxa Selic deve incidir a partir do vencimento de cada parcela, restando afastada a aplicação da Súmula 188/STJ.
+(..)
+O artigo 38, da lei estadual nº 11.580/96, prevê a aplicação da Selic, desde de 1996, equiparando-se, portanto, ao sistema federal.
+(..)
+Logo, se no sistema federal a Selic deve ser aplicada desde a entrada em vigor da lei que a instituiu, afastando-se, por isso, a aplicação das Súmulas 162 e 188, bem como da norma prevista no artigo 167, parágrafo único do CTN, tal entendimento também deve ser aplicado para a esfera estadual, tanto que o STJ, no julgamento do Recurso Especial Representativo da Controvérsia nº 1.111.189/SP, , se posicionou no mesmo sentido para os casos de restituição de indébito citado no Acórdão embargado de tributos estaduais.
+(..)
+Some-se a tais argumentos o fato de que, ao determinar que nas relações jurídicas tributárias, os juros de mora a serem aplicados devem ser os mesmos que a Fazendo Pública utiliza para remunerar o seu crédito, o STF o fez com fundamento no princípio da isonomia.
+Logo, aplicar a taxa Selic somente a partir do trânsito em julgado, para a restituição de valores cobrados indevidamente a título de contribuição previdenciária (natureza tributária), significaria contrariar o princípio da isonomia e a decisão dos Tribunais Superiores, eis que o Estado, quando efetua a cobrança dos tributos em atraso dos contribuintes, aplica a Selic desde o vencimento de cada parcela.
+Portanto, não há que se falar em contradição, obscuridade ou omissão, mas tão somente em inconformismo da parte para com a solução dada ao caso, hipótese que não se enquadra naqueles de cabimento dos embargos de declaração.
+Nesse contexto, é importante ressaltar que a mera insurgência da parte, quanto ao posicionamento adotado na decisão, não justifica a atribuição de efeito infringente em sede de embargos de declaração, já que tal efeito somente se dá como consequência natural do reconhecimento de um dos vícios elencados na legislação processual civil - o que, como dito, não ocorre no presente caso.
+Verifica-se que o aresto recorrido está em conformidade com a orientação do STJ segundo a qual os valores a serem devolvidos a título de repetição de indébito tributário, em atenção ao princípio da isonomia,devem ser atualizados pelos mesmos índices de correção monetária e de juros de mora aplicados na cobrança de tributo em atraso.Assim, édevida a utilização da Taxa Selic desde o recolhimento indevido, inclusive na esfera estadual, a partir da vigência da lei local que a tenha estabelecido. Nessa linha, colaciono o precedente:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. CONTRIBUIÇÃO PREVIDENCIÁRIA. DÉBITO DE NATUREZA TRIBUTÁRIA. CONSECTÁRIOS LEGAIS DA CONDENAÇÃO. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS. RECURSOS ESPECIAIS 1.495.144/RS, 1.495.146/MG E 1.492.221/PR. TEMA 905/STJ. INTEPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO INTERNO DO ESTADO NÃO PROVIDO.
+1. O entendimento da Corte local está em consonância com a jurisprudência do STJ sobre o tema no sentido de que a correção monetária e a taxa de juros de mora incidentes na repetição de indébitos tributários devem corresponder às utilizadas na cobrança de tributo pago em atraso. Não havendo disposição legal específica, os juros de mora são calculados à taxa de 1% ao mês (art. 161, § 1º, do CTN). Observada a regra isonômica e havendo previsão na legislação da entidade tributante, é legítima a utilização da taxa Selic, sendo vedada sua cumulação com quaisquer outros índices.(REsp 1.492.221/PR, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/2/2018, DJe 20/3/2018).
+2. A relação jurídica discutida tem evidente natureza tributária pois o simples fato de a contribuição previdenciária destinar-se ao regime próprio de previdência estadual não transmuta a natureza da condenação, que tem origem na cobrança indevida de tributo estadual.(AgInt no REsp 1.912.911/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 3/8/2021).
+3. De outro modo, o recurso não merece prosperar ante o óbice da Súmula 280/STF, uma vez que a questão foi decidida pela Corte de origem mediante análise de legislação local, qual seja, Lei Estadual 11.580/1996.
+4. Agravo interno do Estado do Paraná não provido.
+(AgInt no REsp 1.941.773/PR, Rel. MinistroManoel Erhardt,DesembargadorConvocado do TRF 5, Primeira Turma, DJe 29/9/2021)
+No caso, há que se aplicar a Súmula 83 do STJ no sentido da inadmissibilidadedo Recurso Especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ, aplicável também ao Recursos Especiais fundados na alínea "a" do permissivo constitucional.
+Do mesmo modo, conforme consta no precedente acimae é aplicável ao caso em exame, a causa também foi decidida na Corte localmediante a análise da legislação local, qual seja, a Lei Estadual 11.580/1996, o que atrai a incidência daSúmula 280 do STF.
+Por tudo isso,diante das alegações trazidas no Agravo Interno, reconsidero a decisão de fls. 519-520, e-STJ, e, na sequência, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
