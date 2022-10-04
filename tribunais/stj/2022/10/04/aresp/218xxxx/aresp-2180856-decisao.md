@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdãocuja ementa é a seguinte:
+CONSTITUCIONAL. PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL CONTEMPORÂNEO AOS FATOS ALEGADOS PELO PERÍODO DE CARÊNCIA EXIGIDO EM LEI. ATIVIDADE RURAL NÃO DEMONSTRADA.SÚMULA 149 DO STJ. APLICABILIDADE. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO DE OFÍCIO. AUSÊNCIA DE PROVA DO TRABALHO RURAL. VERBAS DE SUCUMBÊNCIA. DEVER DE PAGAMENTO SUSPENSO. GRATUIDADE DA JUSTIÇA.APELAÇÃO DO INSS E RECURSO ADESIVO DA PARTE AUTORA PREJUDICADOS.
+1 - A aposentadoria por idade do trabalhador rural encontra previsão no art. 48, §§ 1º e 2º, da Lei nº 8.213/91.
+2 - Deve o autor comprovar o exercício do labor rural, em período imediatamente anterior ao implemento do requisito etário (2014) por, pelo menos, 180 (cento e oitenta) meses, conforme determinação contida no art. 142 da Lei nº 8.213/91.
+3 - Foram acostadas aos autos cópias de certidões de casamento do genitor, realizado em 1953, de nascimento de irmão do autor, ocorrido em 1966, e de óbito do genitor, ocorrido em 1979, nas quais o genitor foi qualificado como lavrador; e de ficha do Sindicato dos Trabalhadores Rurais de Mato Grosso, emitida em 1978, em nome do genitor do autor.
+4 - Os documentos apresentados são anteriores ao período de carência, logo, não podem ser aproveitados.
+5 - Extinção da demanda, sem resolução do mérito, a fim de possibilitar a propositura de nova ação, caso o requerente venha a conseguir documentos que comprovem o labor desenvolvido na qualidade de rurícola até o implemento do requisito etário. Entendimento consolidado do C. STJ, em julgado proferido sob a sistemática dos recursos repetitivos, conforme art. 543-C do CPC/1973: REsp 1.352.721/SP, Rel.Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 16/12/2015, DJe 28/04/2016.
+6 - Condenação da parte autora no pagamento das despesas processuais e dos honorários advocatícios, observados os benefícios da assistência judiciária gratuita (arts. 11, §2º, e 12, ambos da Lei 1.060/50, reproduzidos pelo §3º do art. 98 do CPC), já que deu causa à extinção do processo sem resolução do mérito.
+7 - A controvérsia acerca da eventual devolução dos valores recebidos por força de tutela provisória deferida neste feito, ora revogada, deverá ser apreciada pelo juízo da execução, de acordo com a futura deliberação do tema pelo E. STJ, por ser matéria inerente à liquidação e cumprimento do julgado, conforme disposição dos artigos 297, parágrafo único e 520, II, ambos do CPC. Observância da garantia constitucional da duração razoável do processo.
+8 - Extinção do processo sem resolução do mérito de ofício. Ausência de prova do trabalho rural. Verbas de sucumbência. Dever de pagamento suspenso. Gratuidade da justiça. Apelação do INSS e recurso adesivo da parte autora prejudicados.
+Os Embargos de Declaração foram rejeitados (fls. 234-235, e-STJ).
+A parte agravante, nas razões do Recurso Especial, sustenta que ocorreu, além de divergência jurisprudencial, violação dos arts. 489, 1.022 e 396 do CPC e55 da Lei 8.213/1991,sob o argumento:
+2.1. Isto porque, a T.N.U do J.E.F firmou o seguinte entendimento a respeito de tal questão:
+"6 - COMPROVAÇÃO DE CONDIÇÃO RURÍCULA - A certidão de casamento ou outro documento IDÔNEO que evidencie a condição de trabalhador rural do cônjuge constitui início razoável de prova material da atividade rurícula.
+(..)
+2.3. Ademais, ainda a respeito da prova material, além de ser possível o uso da certidão de casamento para o fim pretendido, também é pacifico o entendimento no sentido de que é possível o reconhecimento de tempo de labor rural, em período diverso do ano no qual tal documento foi confeccionado, segundo entendimento firmado no tema 638 por este pretório adiante destacado (..)
+Sem contraminuta.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26.9.2022.
+A Corte de origem afastou o direito ao benefício previdenciário, porquanto "os documentos apresentados são anteriores ao período de carência, logo, não podem ser aproveitados" (fl. 194, e-STJ):
+O autor pleiteia a concessão de aposentadoria por idade rural. Nasceu em 26 de abril de 1954, com implemento do requisito etário em 26 de abril de 20147. Deveria, portanto, comprovar nos autos o exercício do labor rural, em período imediatamente anterior a 2014, ao longo de, ao menos, 180 (cento e oitenta) meses, conforme determinação contida no art. 142 da Lei nº 8.213/91.
+Foram acostadas aos autos cópias de certidões de casamento do genitor, realizado em 1953, de nascimento de irmão do autor, ocorrido em 1966, e de óbito do genitor, ocorrido em 1979, nas quais o genitor foi qualificado como lavrador (ID 4862833, p. 12-14); e de ficha do Sindicato dos Trabalhadores Rurais de Mato Grosso, emitida em 1978, em nome do genitor do autor (ID 4862833, p. 16).
+Os documentos apresentados são anteriores ao período de carência, logo, não podem ser aproveitados.
+Isso porque o C. STJ estabeleceu, no julgamento do REsp autuado sob nº 1.354.908/SP, sob a sistemática dos recursos representativos de controvérsia repetitiva, a necessidade da demonstração do exercício da atividade campesina em período imediatamente anterior ao implemento do requisito etário, verbis:
+(..)
+Portanto, ainda que tenha sido produzida prova oral, tal, por si só, não tem o condão de comprovar o exercício de labor rural pelo período de carência exigido em lei.
+Com efeito, ausente o início de prova material, a prova testemunhal produzida não pode ser exclusivamente admitida para reconhecer o tempo de exercício de atividade rural.Contudo, o acórdão expressamente consignou que houve início de prova material, por meio dos documentos, citados no voto condutor, referentes aos anos de 1963 e 1978.Nessecaso, é imprescindível a análise da prova testemunhal, a fim de verificar se sua força probante seria suficiente a ampliar a prova material.
+Isso porque, nos termos da jurisprudência do STJ, firmada em Recurso Repetitivo (REsp1.348.633/SP,Primeira Seção), para efeito de reconhecimento do labor agrícola, é desnecessário que o início de prova material seja contemporâneo a todo o período de carência exigido, desde que a eficácia daquele seja ampliada por prova testemunhal idônea.A propósito:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.TRABALHADORA RURAL. INÍCIO DE PROVA MATERIAL. CONFIGURAÇÃO. NÃO INCIDÊNCIA DA S. 7/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+II - Este Superior Tribunal de Justiça orienta-se no sentido de que "(..) diante da dificuldade do segurado especial na obtenção de prova escrita do exercício de sua profissão, o rol de documentos hábeis à comprovação do exercício de atividade rural, inscrito no art. 106, parágrafo único, da Lei 8.213/1991, é meramente exemplificativo, e não taxativo, sendo admissíveis outros documentos além dos previstos no mencionado dispositivo, inclusive que estejam em nome de membros do grupo familiar ou ex-patrão." (REsp 1354908/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 09/09/2015, DJe 10/02/2016).
+III - Documentos em nome de terceiros, notadamente genitores, cônjuges e certidão de nascimento de filhos se prestam como início de prova material do labor rurícola, desde que sua força probante seja corroborada por robusta prova testemunhal.
+IV - A 1ª Turma desta Corte, recentemente, firmou entendimento no sentido da aceitação de declaração ou carteira de filiação de sindicato rural como início de prova material do exercício do labor rural desde que sua força probante seja ampliada por prova testemunhal.
+(..)
+VII - Agravo Interno improvido.
+(AgInt no REsp 1.928.406/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 8/9/2021, DJe 15/9/2021)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL.REEXAME DE PROVAS. IMPOSSIBILIDADE. AUXÍLIO-ACIDENTE. NATUREZA INDENIZATÓRIA. PERÍODO. CONTAGEM. INVIABILIDADE.
+1. Na esteira do REsp n. 1.348.633/SP, da Primeira Seção, para efeito de reconhecimento do labor agrícola, mostra-se desnecessário que o início de prova material seja contemporâneo a todo o período de carência exigido, desde que a eficácia daquele seja ampliada por prova testemunhal idônea.
+(..)4. Agravo interno desprovido.(AgInt no REsp 1.802.867/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 22/6/2020, DJe 26/6/2020)
+Dessa forma, por estar em dissonância do entendimento desta Corte Superior, deve ser reformado o aresto proferido na origem.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ e da Súmula 568/STJ, conheço do Agravo para dar provimento ao Recurso Especial e determinoo retorno dos autos à origempara que, nos termos da jurisprudência do STJ,prossiga no julgamento do feito, como entenderde direito.
+Publique-se.
+Intimem-se.
