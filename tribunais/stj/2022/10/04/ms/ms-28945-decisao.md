@@ -1,0 +1,18 @@
+DECISÃO
+Vistos etc.
+Trata-se de Mandado de Segurança, com pedido de liminar, impetrado por PEDRO HENRIQUE MOTTA SAMPAIOem face de acórdão proferido pela 2ª Turma do Superior Tribunal de Justiça que, no âmbito do AREsp 2.018.251/SP,ao negar provimento a agravo interno, manteve anterior decisão monocráticaque não conhecera do recurso especial, tendo em vista aausência de prequestionamento dos dispositivos tidos por violados.
+Aduz, em síntese, que a matéria discutida no recurso especial foi devidamente prequestionada, seja porque houve manifestação sobre o tema no Tribunal de origem, seja porque positivado o prequsetionamento ficto (CPC, art. 1.025) com a oposição dos embargos de declaração.Pleiteia, além da suspensão do cumprimento do acórdão da 2ª Turma no AREsp 2.018.251/SP, a concessão da ordem para se conhecer do mencionado recurso.
+É o breve relatório.
+Decido.
+Nos termos do art. 10 da Lei 12.016/09, a petição inicial deve ser liminarmente indeferida, tendo em vista a manifesta inadmissibilidade do mandado de segurança para a hipótese.
+Cumpre relembrar que a via mandamental, de acordo com o art. 5º, LXIX, da Constituição Federal e nos termos do art. 1º da Lei 12.016/2009, é destinada "a proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça".
+A utilização do writ pressupõe, portanto, a existência de ato, comissivo ou omissivo, imputado a autoridade que afronte direito passível de ser demonstrado de plano.
+Tratando-se, como no caso, de impetração direcionada a ato jurisdicional, o cabimento do mandado de segurança, consoante orientação jurisprudencial já sedimentada no STF e STJ (v.g., AgRg no MS 34.471, Min. DIAS TOFFOLI, SEGUNDA TURMA, DJe de 21/02/2017; AgRg no MS 27.216, Min. CELSO DE MELLO, TRIBUNAL PLENO, DJe de 23/10/2009; PET no MS 25.661/DF, Min. FRANCISCO FALCÃO, CORTE ESPECIAL, DJe de 18/12/2020; AgInt no MS 26.603/DF, Min. JORGE MUSSI, CORTE ESPECIAL, DJe de 07/12/2020) se restringe a excepcionalíssimas hipóteses, sendo admitido apenas quando se constatar, de imediato, que o provimento jurisdicional esteja eivado de ilegalidade, teratologia ou abuso de poder, desdeque contra essa decisãonão caiba recurso com efeito suspensivo (Lei 12.016/2009, art. 5º, II).
+No caso, não há comoreconhecer, à toda evidência, qualquer teratologia, manifestailegalidade ou abuso de poder amparável pela estreita via procedimental do mandado de segurança.
+O acórdão da Segunda Turma desta Corte, aonegarprovimento ao agravo interno interposto pelo ora impetrante,apresenta-se com motivaçãoadequada e suficiente, especialmente se observado que a questão discutida - e aqui reprisada - foi, bem ou mal, expressamente abordada pelo relator e obteve a adesão unânime dos demais integrantes do colegiado, inclusive com a ratificação dessaconclusão no julgamento dos embargos de declaração opostos.
+Nessa linha, não se vislumbraa ocorrência de qualquer prejuízo ao devido processo legal, tampouco ao princípio da ampla defesa.
+Ante o exposto, com base nos artigos 10da Lei n. 12.016/2009e 212do RISTJ, indefiro liminarmente a petição inicial do mandado de segurança.
+Intime-se.
+EMENTA
+MANDADO DE SEGURANÇA. DIREITO PROCESSUAL CIVIL. IMPETRAÇÃO CONTRA ACÓRDÃO PROFERIDO NOS AUTOS DO AGRAVO EM RECURSO ESPECIAL 2.018.251/SP.INEXISTÊNCIA DE ATO ABUSIVO OUILEGAL AMPARÁVEL POR MANDADO DESEGURANÇA. PRECEDENTES.
+PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
