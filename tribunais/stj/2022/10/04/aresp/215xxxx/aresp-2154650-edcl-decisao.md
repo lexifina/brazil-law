@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOSÉ CARLOS DE ARAUJO FILHOcontra decisão de minha lavra, por meio da qual o respectivo agravo regimental foi provido para, reconsiderando a decisão então agravada, não conhecer, por outros fundamentos, o agravo em recurso especial, nos termos da seguinte ementa (fl. 978):
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. SÚMULA N. 7/STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. AGRAVO REGIMENTAL PROVIDO PARA, POR OUTRO FUNDAMENTO, NÃO CONHECER DO AGRAVO EM RECURSO ESPECIAL."
+Sustenta a Defesa, nas razões do recurso integrativo, que há omissões no aresto embargado.
+Argumenta que o acórdão proferido pela Corte a quo contém afronta ao art. 212 do Código de Processo Penal e, portanto, é de ser reconhecidanulidade decorrente do fato de o Juiz de primeiro grau ter feito perguntas diretamente às testemunhas, sobretudo às de acusação, antes mesmo do Promotor de Justiça.
+Reitera a existência de contrariedade ao art.5.º, inciso LVI, da Carta Magna; bem como aos arts. 157 e386, inciso VII, do Código de Processo Penal. Para tanto, aduz que não havia fundadas razões ou autorização judicial que permitissem a entrada da autoridade policial na residência da Corré, sendo de rigor o reconhecimento da ilicitude das provas e consequente absolvição.
+Argumenta que a manutenção do acórdão embargado implica afronta ao art. 93, inciso IX, da Constituição Federal.
+É o relatório.
+Decido.
+Os embargos de declaração não devem ser acolhidos.
+Conforme dispõe o art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado, o que não se verifica na hipótese em comento.
+A decisão embargadasolucionou a quaestio juris de maneira clara e coerente, apresentando todas as questões que firmaram o seu convencimento, em perfeita consonância com a legislação aplicável à espécie e com a jurisprudência desta Corte.
+A bem da verdade, no provimento judicial embargadofoi expressamente consignado que o Embargante, nas razões do agravo em recurso especial, deixou de impugnar, de forma específica e concreta, os fundamentos da decisão do Tribunal de origem que: a)negara seguimento ao apelo nobre no que concerne à aplicação do Tema de Repercussão Geral n. 280/STF; e b) não o admitira com esteio na incidência das Súmulas n. 284/STF e 7/STJ. E, diante dessa conclusão, houve incidência do comando normativo contido na Súmula n. 182/STJ.
+Ademais, ante a aplicação do mencionado óbice processual ao conhecimento do agravo em recurso especial, não há falar em omissões quanto ao exame das questões de mérito veiculadas no apelo nobre, tal como pretende fazer crer o Embargante.
+É oportuno esclarecer que a pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+De outra parte, cumpre ressaltar que a esta Corte é vedada a análise de dispositivos constitucionais em recurso especial, ainda que para fins de prequestionamento de modo a viabilizar o acesso à instância extraordinária, sob pena de usurpação da competência do Supremo Tribunal Federal. Ilustrativamente: "Não cabe a esta Corte manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal" (EDcl nos EDcl no AgRg no AREsp 1.559.109/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 28/08/2020).
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÕES. INEXISTÊNCIA. OFENSA A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE EXAME. EMBARGOS REJEITADOS.
