@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de ALISSON HENRIQUE DUARTE DE OLIVEIRA, no qual aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais, que deu parcialprovimento ao agravo em execução defensivo, nos termos do acórdão assim ementado:
+"EMENTA: AGRAVO EM EXECUÇÃO - UNIFICAÇÃO PROVISÓRIA DAS PENAS - REGRESSÃO DE REGIME PRISIONAL E ALTERAÇÃO DO MARCO TEMPORAL - SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO - NOVA UNIFICAÇÃO - IMPOSSIBILIDADE - BIS IN IDEM - RECURSO PARCIALMENTE PROVIDO. - Considerando que a regressão do regime prisional do reeducando ocorreu sem qualquer notícia do descumprimento dos requisitos subjetivos ou da existência de fato novo, alterando o marco prisional para futuros benefícios tanto com a juntada da guia de execução provisória quanto com a juntada da guia de execução definitiva, o reconhecimento da nulidade da decisão é medida que se impõe" (e-STJ, fl. 175).
+Neste writ, aimpetrante alega constrangimento ilegal causado ao paciente, tendo em vista que a "LEP determina tão somente que sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime; sem exigências de quaisquer outros requisitos de ordem objetiva ou subjetiva".
+Assevera que "a persistir o entendimento do acórdão impugnado (manutenção do paciente no regime fechado) resta caracterizado o excesso de execução, tendo em vista o cumprimento de mais tempo nos regimes mais gravosos, para o alcance dos progressionais;em clara ofensa aos princípios da legalidade e da individualização da pena".
+Requer seja restabelecido o "regime compatível com o status quo ante, tendo em vista o reconhecimentoda nulidade da decisão singular".
+A liminar foi indeferida (e-STJ, fl. 184).
+O Ministério Público Federalopinou pela denegação do habeas corpus (e-STJ, fls. 190-192).
+É o relatório.
+Decido.
+Verifica-se que o acórdão impugnado deu parcial provimento ao recurso defensivo para "reconhecer a nulidade da decisão de sequencial 82.1 que, após a superveniência do trânsito em julgado da condenação, regrediu o regime prisional do paciente para o fechado e, via de consequência, alterou o marco prisional para futuros benefícios, devendo ser adotadas as providências necessárias".
+Esclareceu, ainda, que "o reconhecimento da nulidade da decisão combatida tem como consequência lógica o reestabelecimento da condição a quo do reeducando, todavia tais providências devem ser adotadas pelo Juízo da execução, que tem condições de aferir a atual situação do agravante ou mesmo se existe algum óbice para o seu retorno ao regime em que se encontrava",de modo que não mais subsiste o constrangimento ilegal apontado.
+Contudo, observa-se que anulada a decisão de primeira instância pelo Tribunal de origem, ainda não houve pronunciamento definitivo das instâncias ordinárias sobre o pedido da defesa, que deverá ser analisado quando proferida a nova decisão.
+Ante o exposto, nãoconheçodohabeas corpus.
+Publique-se. Intimem-se.
