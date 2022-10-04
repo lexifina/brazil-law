@@ -1,0 +1,33 @@
+DECISÃO
+ADRIANA PEREIRA DE AMORIM, paciente neste habeas corpus, alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulona Apelaçãon. 0008583-17.2011.8.26.0445.
+Depreende-se dos autos que a réfoi condenadaa 2 anos de reclusão, em regime semiaberto, mais 10 dias-multa, substituída por duas restritivas de direitos,pela prática do crime previsto no art. 155, § 4º, IV, do CP.
+O Tribunal de origem negou provimento à apelação e rejeitou os embargos infringentes e os de declaração, todosdefensivos.
+Neste habeas corpus, alega a impetrante que não foi reconhecida a bagatela, apesar do reduzido valor do bem subtraído, quefoi restituído à vítima.
+Sustenta que, caso não sejaabsolvido o réu, deve ser a ele concedida a benesse da privilegiadora do furto, haja vista o atendimento de todos os respectivos requisitos e a sua compatibilidade com a forma qualificada do delito.
+Aduz que foi imposto regime mais gravoso que o devido, mediante fundamentação inidônea.
+Pede seja concedida a ordem, "a fim de reformar o v. acórdão, com a consequente reconhecimento da atipicidade da conduta ou demais pedidos subsidiários" (fl. 10).
+Indeferida a liminar e apresentadas as informações, o Ministério Público Federal opinou pelo seu não conhecimento.
+Decido.
+No que tange à bagatela, o acórdão atacado asseriu o seguinte:
+Consta dos autos que, no dia 31 de agosto de 2011, por volta de 4h40min, Avenida Dr. Fortunato Moreira, Centro, Pindamonhangaba/SP, Adriana Pereira de Amorim agindo com identidade de propósito e unidade de desígnios com Luís Fernando Moraes do Nascimento (termo de renúncia ao direito de recorrer - fl. 124) e outra pessoa de prenome "Renato", subtraiu, para si, condimentos alimentícios, copos descartáveis, porta-canudo, produtos de limpeza, porta-guardanapo, dentre outros, bem como seis bancos e cinco capas para carro, objetos avaliados em aproximadamente R$ 80,00 (oitenta reais), pertencentes ao estabelecimento comercial "Leandro Espetinho", representado por Leandro Oliveira de Bastos.
+ ..
+A qualificadora também foi perfeitamente demonstrada pela prova oral colhida.
+Há que se destacar, ainda, contrariamente à alegação defensiva, que não ocorreu crime de bagatela, ou seja, é impossível a aplicaçãodo princípio da insignificância, pois a pequena quantia subtraída ou o pequeno valor da coisa furtada não tornam atípica a conduta.
+Podem ter reflexos de outra natureza, como, por exemplo, se presentes outros requisitos, dar origem ao reconhecimento do furto privilegiado, mas não autorizam a absolvição.
+(fls. 27-29, destaquei)
+Para que o fato seja considerado criminalmente relevante, não basta a mera subsunção formal a um tipo penal. Deve ser avaliado o desvalor representado pela conduta humana, bem como a extensão da lesão causada ao bem jurídico tutelado, com o intuito de aferir se há necessidade e merecimento da sanção, à luz dos princípios da fragmentariedade e da subsidiariedade.
+As hipóteses de aplicação do princípio da insignificância se revelam com mais clareza no exame da punibilidade concreta - possibilidade jurídica de incidência da pena -, que atribui conteúdo material e sentido social a um conceito integral de delito como fato típico, ilícito, culpável e punível, em contraste com a estrutura tripartite (formal) tradicionalmente adotada, conforme expus de maneira mais aprofundada no julgamento doREsp n. 1.864.600/MG, ocorrido em 15/9/2020.
+Por oportuno, ressalto que, por se tratar de categorias de conteúdo absoluto, a tipicidade e a ilicitude não comportam dimensionamento do grau de ofensa ao bem jurídico tutelado, compreendido a partir da apreciação dos contornos fáticos da conduta delitivae dos condicionamentos sociais em que se inserem o agente e a vítima.
+Nesse contexto, odiálogo entre a política criminal e a dogmática na jurisprudência sobre a bagatela deve também ser informado pelos elementos subjacentes ao crime, que se compõem do valor dos bens subtraídos e do comportamento social do acusado nos últimos anos.
+Assim, os registrosde vida pregressadevemser entendidos comoelementos objetivos, e não subjetivos. Isso porque não se avalia a pessoa do agente, mas, sim, o seu histórico penal-que podeser incompatível com a exclusão da punibilidade- e a perspectiva de recidiva do comportamento avesso ao direito.
+O exame desses dados alinha-se comoprincípio da isonomia, pois o indivíduo que furta uma vez não pode ser igualado ao que furta habitualmente, escorando-se este, conscientemente, na impunidade.
+Com efeito, o própriolegislador penal confere importância aos registros na folha de antecedentespara o cômputo da reprimenda, como ocorrena privilegiadora do furto, bem assim em vários outros crimes patrimoniais que preveem benesses paraagentes primários (v.g., 171, § 1º, 168, § 3º, 180, § 5º, e 337-A, § 2º) com a finalidade deindividualizar a pena.
+Na espécie, a ré foi condenada porhaver subtraído de estabelecimento comercial alimentos, utensílios e equipamentos de restaurante, avaliados em R$ 80,00 equivalentes a 14,67% do salário mínimo vigente na época dos fatos.
+Em que pese o valor relativamente reduzido dos bens furtados, constato a configuração da qualificadora concurso de agentes, o que evidencia maior reprovabilidade da conduta, de maneira a torná-la incompatível com a bagatela.
+Nesse ponto, destaco que,"a restituição dos bens subtraídos não conduz, necessariamente, à incidência do princípio da insignificância"(AgRg no HC n. 696.351/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 18/2/2022).
+Quanto à privilegiadora,a instância anterior considerou indevida a aplicação do benefício previsto no § 2º do art. 155 do Código Penal, com base no fato de o crime ter sido qualificado.
+Sobre a possibilidade de reconhecimento do privilégio, a Súmula n. 511 do STJdispõe que "É possível o reconhecimento do privilégio previsto no § 2º do art. 155 do CP nos casos de crimes de furto qualificado, se estiverem presentes a primariedade do agente, o pequeno valor da coisa e a qualificadora for de ordem objetiva".
+Neste processo, verifico a primariedade da agente e o pequeno valor dos bens subtraídos, razão por que deve ser concedida a referida benesse à agente, na forma mais benéfica- aplicação apenas da pena de multa-, haja vista a inexistência de elementos que indiquem ser necessária a imposição das alternativas.
+Assim, fica prejudicada a análise da tese relativa ao regime inicial.
+Diante do exposto, concedo parcialmente a ordem, com a finalidade de determinar o afastamento da pena reclusiva e a aplicação apenas da pena pecuniária, tal como definida pelo Juiz natural, mantidos os demais termos do acórdão atacado.
+Publique-se e intimem-se.
