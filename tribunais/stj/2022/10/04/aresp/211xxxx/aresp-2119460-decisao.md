@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por POLIMIX CONCRETO LTDA., em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado (fl. 507):
+DIREITO TRIBUTÁRIO. APELAÇÃO CÍVEL E APELO ADESIVO. POSSIBILIDADE DE CONHECIMENTO CONJUNTO DAS ESPÉCIES RECURSAIS. SIMILITUDE NOS TEMAS DE INTERESSE. MÉRITO: IMPOSTO SOBRE SERVIÇO DE QUALQUER NATUREZA  ISSQN. ATIVIDADE DE CONCRETAGEM. POSSIBILIDADE DE DEDUÇÃO DOS MATERIAIS E INSUMOS DA BASE DE CÁLCULO DO TRIBUTO. ENTENDIMENTO FIRMADO PELO SUPREMO TRIBUNAL FEDERAL NO JULGAMENTO DO RE N.º 603497/RS. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA CORTE NO MESMO SENTIDO. PRETENSÃO PARA REPETIÇÃO DO INDÉBITO. AUSÊNCIA DE QUALQUER PROVA A PERMITIR O DEFERIMENTO DA PRETENSÃO INICIAL NESTE SENTIDO. ÔNUS QUE COMPETE AO AUTOR. RECIPROCIDADE NA SUCUMBÊNCIA QUE SE RECONHECE. INCIDÊNCIA DA REGRA DO ARTIGO 21 DO CPC DE 1973. POSSIBILIDADE DE COMPENSAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. RECURSO DE APELAÇÃO CONHECIDO E DESPROVIMENTO.
+PROVIMENTO PARCIAL DO APELO ADESIVO.
+Embargos de declaração opostos e rejeitados (fl. 568).
+No recurso especial interposto por ambas as alíneas do permissivo constitucional, a recorrente aponta contrariedade aos arts. 7º, § 2º, I, da LC n. 116/2003, itens 7.02 e 7.05 da Lista de Serviços Anexa, e 373, I, do CPC/2015, sustentando que, uma vez declarada a dedução da base de cálculo do ISS dos valores dos materiais utilizados na concretagem, é possível acolher o pedido pela repetição de indébito, porquea efetiva comprovação do pagamento indevido em favor do município pode ocorrer em fase de liquidação de sentença, assim consignando (fl. 591):
+Assim, tendo em vista que a r. Sentença mantida no Egrégio Tribunal de Justiça do Estado do Rio Grande do Norte conferiu a procedência da demanda no que tange à ilegalidade da inclusão do montante dos materiais na base de cálculo do ISS sobre os serviços de concretagem, o deferimento do pedido de repetição do indébito é medida que se impõe, eis que deve ser oportunizada a produção de prova em sede de liquidação de sentença, sob pena de violação ao art. 7º, § 2º, inc. I, da LC nº 116/2003.
+Aponta dissídio jurisprudencial.
+Alega afronta ao art. 21, parágrafo único, do CPC/1973 para sustentar que decaiu de parte mínima do pedido.
+Contrarrazões a fls. 616-624.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Registra-se que os recursos interpostos com fulcro no CPC/2015 sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 3 do Plenário do STJ.
+Na espécie, a recorrente alega violação dos arts. 7º, § 2º, I, da LC n. 116/2003 e 373, I, do CPC/2015 para sustentar pretensão no sentido de que seja julgado procedente pedido de repetição de indébito, sem prova dos fatos nos autos, alegando a tese de que a produção da prova pode ocorrer em liquidação de sentença.
+Com efeito, os referidos dispositivos legais não contêm comando normativo apto a amparar a tese recursal, invalidando o entendimento expendido no acórdão. Configurada a deficiência da fundamentação recursal, incide a inteligência do óbice da Súmula 284/STF.
+Prejudicada a análise da divergência jurisprudencial, em razão da inadmissibilidade do recurso pela alínea "a" do permissivo constitucional, pela aplicação de óbice sumular à questão controversa.
+Quanto ao parágrafo único do art. 21 do CPC/1973, confere-se que, a despeito da oposição dos embargos de declaração, o tribunal a quo não emitiu juízo de valor sobre a questão vinculada alegada, de modo que, não cumprido o requisito do prequestionamento, não se conhece do recurso, a teor da súmula 211/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. AUSÊNCIA DE COMANDO NORMATIVO. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. HONORÁRIOS. SUCUMBÊNCIA MÍNIMA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CONHEÇO DO AGRAVO E NÃO CONHEÇO DO RECURSO ESPECIAL.
