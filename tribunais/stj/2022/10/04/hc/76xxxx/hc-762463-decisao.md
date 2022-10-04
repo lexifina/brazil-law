@@ -1,0 +1,52 @@
+DECISÃO
+EROS OLIVEIRA COZZA DE SOUZA alega sofrer constrangimento ilegal pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1500373-25.2019.8.26.0637).
+Sustenta a defesa que "Nos limites da denúncia, não houve no quadro probatório após a realização da instrução processual, a demonstração da conduta imputada ao Paciente, restando evidente a falta de qualquer prova segura idônea e séria a lastrear a peça acusatória, diante do que, a defesa aguarda serenamente que seja reformada a sentença para reconhecimento de sua improcedência, com a consequente absolvição do Paciente" (fl. 5).
+Afirma, ainda, que "não ficou configurado o animus associativo, o dolo, ou seja, a vontade de se associar, nem a estabilidade da associação" (fl. 11).
+Por fim, assevera que "No caso em tela, o Paciente é primário, portador de bons antecedentes e possui atividade lícita, qualificações que por si só, o diferenciam do hediondo para o privilegiado, pela condição ocasional" (fl. 19).
+Requer a concessão da ordem, para: a) absolver o paciente das imputações contidas na denúncia ou, caso assim não seja, a desclassificação da conduta eb)a incidência da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Após o indeferimento do pedido liminar (fls. 239-240), oMinistério Público Federal opinou pelo não conhecimento do writ ou, caso contrário, pela denegação da ordem (fls. 243-248).
+Decido.
+I. Absolvição do paciente ou a desclassificação de sua conduta
+O Juiz sentenciante, ao examinar as provas juntadas aos autos, consignou (fls. 126-145):
+O acusado ISRAEL GODOY FERNANDES era o elo entre os dois grupos, haja vista que emprestava seu veículo ou mesmo acompanhava tais indivíduos para buscar drogas, geralmente nas cidades de Marília/SP e Pompéia/SP, sendo que todos integravam uma associação criminosa, adquirindo drogas, guardando-as e mantendo-as em depósito, e repassando aos usuários através da venda, cada um com sua importância bem delineada nos presentes autos.
+No transcorrer das investigações, o acusado EROS OLIVEIRA COZZA DE SOUZA foi preso em flagrante delito por investigadores da DISE, durante cumprimento de mandados de busca e apreensão expedidos por este Juízo, enquanto em poder de "buchas de maconha". Os áudios captados demonstraram que ele era responsável pela guarda de parte da drogapertencente ao réu SIDNEI SALLES e seu grupo criminoso.
+ .. .
+Em virtude dos diálogos mantidos entre os acusados JHONATAN, SIDNEI, RENATA e adolescente Isabelle (nº 07 e 09 - acima transcritos) foi possível tomar conhecimento que SIDNEI estava deixando os entorpecentes sob a guarda de terceira pessoa que, no decorrer do monitoramento, foi identificada como sendo o acusado EROS OLIVEIRA COZZA DE SOUZA, morador na Rua Garça, nº 139, residência que fica bem defronte à residência do acusado SIDNEI.
+E por tal motivo foi solicitada a este Juízo ordem de busca e apreensão na residência do acusado EROS e, em cumprimento ao respectivo mandado, foi apreendido na residência um pote com várias porções de "buchas" que totalizaram 39,48 gramas de maconha, motivo pelo qual foi autuado em flagrante delito, conforme fls. 259/269.
+A prisão do acusado EROS corrobora efetivamente o conteúdo dos áudios captados, demonstrando que ele era o responsável pela guarda das drogas do acusado SIDNEI.
+ .. .
+Em que pese o fato de o acusado EROS ter negado perante este juízo qualquer contato criminoso com os demais acusados, na fase policial admitiu ter conhecimento do tráfico de drogas praticado pelos acusados SIDNEI, JONATHAN, RENATA e adolescente Isabelle (fls. 73/74). Desse modo, repito, pelo conjunto dos autos, patente que as declarações prestadas em juízo por EROS são mendazes, em nítido propósito de não prejudicar os réus SIDNEI,JONATHAN e RENATA e, simultaneamente, não comprometer criminalmente o bando.
+O Tribunal local, ao manter a sentença, reforçou os seguintes fundamentos (fls. 203-220):
+Segundo a testemunha, interceptações efetuadas no aparelho celular de ISRAEL revelaram que ele realmente era o elo entre dois grupos criminosos, um dos quais integrado por SIDNEI e sua família, constituída pela corré RENATA, a adolescente I.M.A.D. e JONATHAN, além de um vizinho, EROS, responsável pelo depósito. O segundo grupo era integrado por NERIC, DONATO, LENON, WAISLEN, CRISTIANE, a adolescente L.C.P. e JULIO CÉSAR, membro de conhecida organização criminosa.
+ .. .
+Em suma, restou demonstrado que SIDNEI é o chefe do grupo familiar criminoso, exercendo a liderança sobre RENATA, JONATHAN e EROS, além da enteada adolescente I. M. A. D., responsáveis pela comunicação, negociação, cautela e estabilidade do grupo. O genro JONATHAN era o comerciante da droga e o acusado EROS, vizinho de frente ao imóvel de SIDNEI se encarregava do depósito dos entorpecentes.
+ .. .
+Em suma, os depoimentos dos policiais participantes das investigações ratificaram a abundante prova documental, esclarecendo as diligências que levaram a efeito a prisão do grupo, discriminando as funções de cada qual na empreitada criminosa.
+ .. .
+Com efeito, a participação dos policiais foi efetiva na apuração da sociedade entre os apelantes voltada para o comércio ilícito, restando já em desenvolvimento o delito previsto no artigo 33, caput, da Lei n. 11.343/06, quando apreendidas as drogas.
+E a forma em que estavam acondicionadas, bemcomo a quantidade e variedade apreendida, junto com petrecho comumente utilizado para o preparo, como embalagens e balanças de precisão, não deixa dúvida pertencerem aos sentenciados e serem destinadas ao comércio ilícito; sem lastro, portanto, a tese relativa à posse dos entorpecentes para uso pessoal.
+ .. .
+E bem delineado nos autos o grau de organização dos sentenciados, comprovado entre eles o vínculo estável e dedicado à prática delitiva habitual, mormente diante dos diálogos representativos da dinâmica das operações.
+Evidente a conclusão da Corte estadual de que há provas suficientes da materialidade e da autoria do paciente para sustentar sua condenação nasinfrações penais ora imputadas.
+Com isso, torna-se inviável se falar em absolvição do acusado por insuficiência probatória, sobretudo porque no processo penal vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, contanto que o faça fundamentadamente, como verificado na hipótese.
+Aliás, no tocante à valoração dos depoimentos prestados pelos policiais, é de salutar importância registrar o entendimento desta Corte Superior de que "a eficácia probatória do testemunho da autoridade policial não pode ser desconsiderada tão somente pela sua condição profissional, sendo plenamente válida para fundamentar um juízo, inclusive, condenatório" (HC n. 485.765/TO, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 28/2/2019, grifei).
+Também nesse prisma, cabe ainda mencionar que o STJ não identifica violação do art. 155 do CPP quando a condenação se baseia também em interceptações telefônicas, como no caso, pois elas são irrepetíveis. Veja-se:
+ ..
+- "Não há falar em violação do art. 155, do CPP, quando o magistrado forma sua convicção com base nas provas produzidas tanto na fase inquisitorial quanto na judicial, sob o crivo do contraditório, considerando-se que as interceptações telefônicas e as fotografias não são sujeitas à repetição" (AgRg no AREsp n. 1.269.461/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 11/6/2019, DJe 25/6/2019).
+ ..
+Agravo regimental desprovido.
+(AgInt no HC n. 494.106/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 26/11/2019).
+Mostra-se, da mesma forma, inviável o pleito de desclassificação da conduta imputada ao réu. Registro, no particular, que, nos termos do art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal/conjunto ou ao tráfico de drogas, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+Desse modo, entendo que rever o posicionamento adotado pelas instancias ordinárias, como demonstrado acima, demanda imprescindível revolvimento do acervo fático-probatório delineado nos autos, o que é vedado na via estreita do habeas corpus.
+II. Minorante prevista no art. 33, § 4º, da Lei de Drogas
+Exige-se, para a aplicação da minorante em comento, além daprimariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal:
+A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06
+(AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T., DJe 14/4/2014).
+No caso dos autos, não há como reconhecer a incidência da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006,pois, o pacientefoi condenadotambém pela prática do crime de associação para o tráfico de drogas.
+A Terceira Seção deste Tribunal Superior, nesse contexto, possui o entendimento de que é inviável a aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, quando o agente foi condenado também pela prática do crime previsto no art. 35 da Lei de Drogas, por restar evidenciada a sua dedicação a atividades criminosas ou a sua participação em organização criminosa, no caso, especialmente voltada para o cometimento do narcotráfico.
+Exemplificativamente: HC n. 371.353/PI, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 16/12/2016; HC n. 422.709/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/12/2017.
+Portanto, fica afastado o apontado constrangimento ilegal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+III. Dispositivo
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
