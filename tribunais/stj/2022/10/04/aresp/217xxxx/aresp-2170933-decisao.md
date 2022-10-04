@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por JUVENAL LOPES DOS SANTOS contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. Tribunal de Justiça do Estado de Tocantins, assim ementado (fls. 69-70):
+"RECURSO EM SENTIDO ESTRITO. TENTATIVA DEHOMICÍDIO QUALIFICADO. PLEITO PELA ABSOLVIÇÃOSUMÁRIA OU DESCLASSIFICAÇÃO POR AUSÊNCIA DE ANIMUS NECANDI. IMPOSSIBILIDADE. CONTEXTO PROBATÓRIO SUFICIENTE PARA MANTER A PRONÚNCIA. APLICAÇÃO, NESTA FASE, DO IN DÚBIO PRO SOCIETATE.
+1. In casu, o acusado, utilizando-se de uma faca, desferiu golpes contra a vítima Railda Batista Alexandre, sua ex-companheira, causando-lhe graves lesões, sendo que o autor do fato criminoso só não conseguiu o intento de ceifar a vida da vítima por circunstâncias alheias à sua vontade, sendo que no momento da ação a vítima estava sentada amamentando seu filho.
+2. Em se tratando do procedimento do júri, a decisão de pronúncia dispensa provas certas e robustas da materialidade do fato. Isso porque não é necessário, nessa fase processual, um juízo de certeza, mas somente um juízo de probabilidade da participação do réu no fato, sendo competência do Tribunal do Júri o exame do mérito, por opção constitucional. EXCLUSÃO DAS QUALIFICADORAS REFERENTES AO MEIOCRUEL E SEM POSSIBILITAR MEIOS DE DEFESA. INDÍCIOSQUE NÃO EXCLUEM A POSSIBILIDADE DO CRIMEQUALIFICADO.
+3. Em se tratando do procedimento do júri, a exclusão das qualificadoras imputadas na denúncia somente se revela possível quando completamente dissociada do contexto probatório dos autos. Havendo indícios da ocorrência das qualificadoras, a matéria deve ser levada à apreciação do Conselho de Sentença.
+4. Recurso improvido".
+Consoante se extrai dos autos, o agravante foi pronunciado como incurso no art. 121, § 2º, III, IV, e VI, c/c art. 14, II, todos do Código Penal (fl. 53).
+Em segunda instância, o eg. Tribunal a quo, a apreciar o recuso em sentido estrito - n. º 0000604-16.2022.8.27.2700 -, negou provimento ao recurso, mantendo a decisão de piso, consoante se constata do voto de fls. 61-64.
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação dos 413, § 1º, e 419, ambos do Código de Processo Penal, pois não há animus necandi na conduta do acuado.
+Argumentou que, "para amparar a decisão pela pronúncia, seriam necessários elementos concretos de que o agente agiu com o dolo de matar, o que de fato não foi apurado em sede de instrução, devendo os indícios saírem do campo da subjetividade e, por derradeiro, não devendo ser admitida a aplicação, por menor que seja a dúvida, do in dúbio pro societate, que não possui nenhum amparo constitucional" (fl. 87).
+Defendeu a inaplicabilidade do princípio in dubio por societates na fase de pronúncia.
+Afirmou ser necessária a presença de prova inconteste da intenção de matar.
+Aduziu que "a jurisprudência é firme no entendimento de que cabe ao julgador pronunciante retirar da competência do Conselho de Sentença as qualificadoras manifestamente improcedentes, ou seja, aquelas que, à evidência, não encontram ressonância nos autos" (fl. 90).
+Ponderou inexistirem elementos aptos a justificar a incidência das qualificadoras.
+Por fim, a Defesa pleiteou a reforma do v. acórdão vergastado, para que seja a conduta desclassificada para lesão corporal e, subsidiariamente, excluída as qualificadoras da sentença de pronúncia.
+Contrarrazões às fls. 99-118.
+O juízo negativo de admissibilidade do apelo extremo está fundado na incidência da Súmula 7/STJ (fls. 124-126).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão.
+Contraminuta ao agravo em recurso especial às fls. 145-153.
+O Ministério Público Federal apresentou parecer pelo desprovimento do agravo em recurso especial (fls. 172-178).
+É o relatório.
+Decido.
+Tendo em vista os argumentos expendidos pela parte agravante para refutar os fundamentos da decisão de admissibilidade da origem, conheço do agravo e passo a examinar o recurso especial.
+A controvérsia posta no apelo extremo cinge-se a respeito da desclassificação da conduta para lesão corporal e, subsidiariamente, quanto à alegada necessidade de se afastar as qualificadoras da sentença de pronúncia.
+O eg. Tribunal a quo assim se pronunciou sobre os referidos pontos (fls. 62-63, grifei):
+"Ocorre que, em se tratando de processo de competência do Tribunal do Júri, para efeito de decisão de pronúncia, não há necessidade de profunda análise da prova. Por se tratar de mero juízo de admissibilidade da acusação, é suficiente que o julgador esteja convencido da existência da materialidade do fato e da presença de indícios de autoria ou participação, não sendo necessária a existência de prova incontestável, como ocorre no processo criminal comum de alçada do juiz singular.
+Do contrário, estar-se-ia até mesmo antecipando o veredicto acercado mérito, o qual é de competência exclusiva do Conselho de Sentença, devendo, destarte, preponderar o princípio in dubio pro societate, tal como pacificou a jurisprudência desta Corte, ao afirmar que:
+ ..
+Dessa forma, para que ocorra a desclassificação da imputação de homicídio para o crime de lesão corporal ou a reclassificação da acusação para homicídio simples, tal como pretende o recorrente, é preciso que a prova da inexistência do animus necandi esteja comprovada nos autos de forma insofismável, o que não ocorre neste feito.
+Com efeito, o cotejo das provas existente nos autos - decorrente da oitiva da vítima - , deixa clara a existência da tentativa de homicídio, com o intento de ceifar a vida da vítima.
+ ..
+Melhor sorte não merece a pretensão de retirada das qualificadoras previstas nos incisos II e IV do § 2 do artigo 121 do CP (meio cruel e sem possibilitar meios de defesa), bem como o acolhimento da tese de alcoólatra da defesa.
+Cabe destacar que a prova dos autos sugere que a vítima estava sentada amamentando seu filho quando o denunciado chegou dizendo "é aqui que você se esconde " e começou a agredi-la com golpes de faca, totalizando8 (oito) golpes, sem possibilitar meio algum de defesa à vítima, o que teria se originado em razão da separação do casal.
+Consta ainda que o delito só não se consumou em razão da intervenção da irmã da vítima.
+Assim, em respeito ao princípio do juiz natural, somente é cabível a exclusão das qualificadoras na sentença de pronúncia quando manifestamente improcedentes e descabidas, porquanto a decisão acerca da sua caracterização ou não deve ficar a cargo do Conselho de Sentença.
+ ..
+No caso dos autos, a tese das qualificadoras não está totalmente divorciada da prova colhida na instrução e, portanto, admite-se, por ora, as qualificadoras de tentativa de homicídio decorrente de motivo fútil e mediante a utilização de recurso que dificultou a defesa da vítima".
+Convém assinalar que a decisão de pronúncia encerra simples juízo de admissibilidade da acusação, satisfazendo-se, tão somente, pelo exame da ocorrência do crime e de indícios de sua autoria. A pronúncia não demanda juízo de certeza necessário à sentença condenatória, uma vez que as eventuais dúvidas, nessa fase processual, resolvem-se em favor da sociedade - in dubio pro societate.
+In casu, o Tribunal de origem atestou que há elementos indiciários da presença do animus necandi, destacando, ainda, a inexistência de prova que afaste de forma clara e definitiva a intenção de matar.
+Desse modo, o acolhimento do inconformismo, segundo as alegações vertidas nas razões do especial, demanda o revolvimento do acervo fático-probatório dos autos, situação vedada pela Súmula 7 do STJ. Confiram-se os seguintes julgados: REsp n. 1382883/MG, Quinta Turma, Rel. Min. Moura Ribeiro, DJe de 25/02/2014; AgRg no REsp n. 1373147/SC, Quinta Turma, Rel. Min. Newton Trisotto (DESEMBARGADOR CONVOCADO DO TJ/SC), DJe de 25/11/2014; AgRg no AREsp n. 920.656/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 07/04/2017; AgRg no AREsp n. 1.390.818/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 19/11/2019; e REsp n. 1.840.262/RS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 10/8/2020.
+Por outro lado, importa destacar que somente podem ser excluídas da sentença de pronúncia as circunstâncias qualificadoras manifestamente improcedentes ou sem qualquer amparo nos elementos dos autos, sob pena de usurpação da competência constitucional do Tribunal do Júri.
+Ademais, "não se pode afastar uma qualificadora por mera opção hermenêutica, de modo que o julgador somente pode retirar da pronúncia a qualificadora que, objetivamente, inexista, mas não a que, subjetivamente, julgar não existir. Em outros termos, não se pode subtrair da apreciação do Conselho de Sentença uma circunstância que, numa análise objetiva, mostra-se viável, ao menos em tese" (REsp 1.547.658/RS, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 07/12/2015).
+Nesse contexto, insofismavelmente, a acolhimento da tese defensiva, para além e caracterizar invasão na competência do Tribunal do Júri, demanda verticalização da prova, cognição não permitida no âmbito do recurso especial. Incide, portanto, a Súmula 7 do STJ.
+Ante o exposto, nos termos do art. 253, parágrafo único, inciso II, "a", do Regimento Interno do STJ, conheço do agravo para não conhecer do recurso especial.
+P. e I.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO TENTADO. RÉU PRONUNCIADO. PEDIDO DE DESCLASSIFICAÇÃO DA IMPUTAÇÃO PENAL. PLEITO DE EXCLUSÃO DAS QUALIFICADORAS. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
