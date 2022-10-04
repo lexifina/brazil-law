@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por ALEF JUAN EVALDT contra decisão do Tribunal de Justiça do Estado do Paraná que inadmitiu recurso especial fundamentado no art. 105, incisoIII, alíneasae c, da Constituição da República na Apelação Criminal n. 0002415-41.2016.8.16.0141.
+Consta dos autos que o Juízo de primeiro grau condenou o Agravante à pena de 3 (três) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, em regime aberto, mais o pagamento de 389 (trezentos e oitenta e nove) dias-multa, pela prática do crime previsto no art. 33,caput, c.c. o art. 40, inciso V, ambos da Lei n. 11.343/2006, pois transportava, no interior do veículo Renault Symbol,35,750 kg decrack. A pena privativa de liberdade foi substituída por duas restritivas de direitos.
+Contra a sentença a Acusação interpôs apelação, que foi provida para afastar a aplicação da minorante do tráfico privilegiado, redimensionando a pena do Recorrente para 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial semiaberto, mais o pagamento de 583 (quinhentos e oitenta e três) dias-multa (fls. 625-629).
+Nas razões do recurso especial, a Defesa sustenta, além de divergência jurisprudencial, ofensa ao art. 33, § 4.º, da Lei n. 11.343/2006.
+Afirma que não foi apresentada fundamentação idônea para negar a aplicação da minorante do tráfico privilegiado.
+Foram apresentadas contrarrazões (fls. 668-673). O recurso especial não foi admitido em razão da intempestividade (fls. 677-679). Foi interposto agravo (fls. 689-695).
+O Ministério Público Federal apresentou parecer, opinando pelo não provimento do agravo (fls. 726/727).
+É o relatório.
+Decido.
+O Tribunal de origem, ao realizar o exame de admissibilidade do recurso especial, assim se pronunciou (fls. 677-679; grifos diversos do original):
+"O recurso é intempestivo.
+O Decreto Judiciário nº 151/2021 -D.M de 13/03/2021, deste Tribunal, determinou a suspensão dos prazos processuais a contar do dia 13/03/2021 até o dia 19/03/2021, em razão da prevenção à pandemia da COVID-19:
+"Art. 1º. A suspensão dos prazos processuais durante a vigência do Decreto Judiciário n.º 150/2021, cujo termo final é o dia 19/03/2021..
+Ainda, o Decreto Judiciário nº 158/2021 -D.M de 18/03/2021, deste Tribunal, estabeleceu que:
+"Art. 1º. Os prazos judiciais dos processos que tramitem em meio eletrônico voltam a fluir a partir de 22 de março de 2021".
+Contudo, a comprovação da suspensão do expediente forense no Tribunal local é ônus que incumbe ao recorrente, sob pena de o recurso ser declarado intempestivo, conforme entendimento pacífico do Superior Tribunal de Justiça.
+ ..
+Assim, nota-se que o recorrente foi intimado da decisão impugnada em 15/03/2021, conforme mov. 34 da Apelação Criminal, de modo que o prazo recursal começou a fluir em 16/03/2021 e findou em 29/03/2021.Tem-se, portanto, o recurso como intempestivo, já que somente interposto em 05/04/2021 (mov. 1.1. Pet. 1).
+Diante do exposto, inadmito o Recurso Especial interposto por ALEF JUAN EVALDT."
+Nas razões do agravo em recurso especial, o Agravante aduz que não há falar em intempestividade do apelo nobre interposto em 05/04/2021, em virtude da suspensão dos prazos processuais.
+Sem razão o Agravante.
+Com efeito, o art. 1.003, § 6.º, do Código de Processo Civil determina que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", não havendo previsão de cumprimento posterior da referida exigência. O dispositivo é aplicável, nos feitos criminais, por força do disposto no art. 3.º do Código de Processo Penal, o qual não possui disposição específica sobre a questão.
+Nesse entendimento:
+" ..
+2. A Corte Especial pacificou orientação no sentido de que, no regime do CPC/2015, a intempestividade constitui vício insanável, de modo que a ocorrência de feriado local ou suspensão local dos prazos devem ser comprovadas no ato de interposição do recurso, não sendo possível a comprovação posterior. Assim, seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada (AgInt no AREsp n. 957.821/MS, Rel. p/ acórdão Ministra Nancy Andrighi, Corte Especial, DJe 19/12/2017).
+ ..
+4. Agravo regimental improvido. Prejudicada a análise das petições juntadas pelo agravante." (AgRg no AREsp 1.330.710/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020.)
+" ..
+1. No REsp 1813684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, julgado pela Corte Especial em 02/10/2019, DJe 18/11/2019, ficou consignado que, sob a vigência do CPC/2015, é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso. No âmbito do recurso especial apresentado, não houve a comprovação da suspensão do prazo recursal, decorrente de ausência de expediente ou de recesso forense, feriados locais, entre outros, no Tribunal de origem, devendo a intempestividade ser mantida.
+ ..
+3. Agravo regimental não provido." (AgRg no AREsp 1.734.306/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/10/2020, DJe 12/11/2020.)
+A propósito, nos termos da jurisprudência consolidada desta Corte Superior de Justiça, "em razão da pandemia de COVID-19, os prazos processuais foram suspensos, para os processos físicos, no período compreendido entre 19/03/2020 e 14/06/2020, conforme Resoluções do CNJ nº 313/2020 e 322/2020, bem como Portaria nº 79/2020 do CNJ, voltando a fluir o prazo, para os processos físicos, em 15/06/2020. A suspensão dos prazos, na Corte de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso especial  .. " (AgRg no AREsp n. 2.010.725/GO, Rel.Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), SEXTA TURMA, julgado em 22/03/2022, DJe 25/03/2022).
+Outrossim, se a suspensão dos prazos, em razão da Pandemia da Covid-19 não decorreu de orientação do Conselho Nacional de Justiça, mas tão-somente de ato do Tribunal local, é indispensável que seja comprovada no momento da interposição do recurso. Não pode ser considerada fato notório, apto a dispensar a comprovação. Isso porque, embora se tenha ciência de que prazos processuais foram suspensos, ao longo do ano de 2020, nos diversos Tribunais sob a jurisdição desta Corte Superior, não é evidente o conhecimento de quais Tribunais em que ocorreram e, muito menos, as respectivas datas. Sendo assim, é imprescindível sua comprovação, quando da interposição do recurso.
+Nesse sentido:
+" ..
+1. A suspensão dos prazos processuais na corte de origem deve ser comprovada no ato de interposição do recurso.
+2. "A suspensão automática dos prazos prevista no art. 2º da Resolução n. 318/2020 do CNJ, depende de que haja a superveniente imposição de medidas sanitárias restritivas à livre locomoção de pessoas por parte da autoridade estadual. Assim, deve a parte recorrente, no momento da interposição do recurso, comprovar que, dur ante o prazo recursal, foram impostas medidas dessa natureza pelo Poder Executivo estadual ou de que houve a suspensão dos prazos por ato do Tribunal local" (AREsp n. 1.801.141/CE).
+3. Agravo regimental desprovido." (AgRg no AREsp 1.823.616/BA, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 03/08/2021, DJe 06/08/2021.)
+" ..
+1. A suspensão dos prazos processuais por ato de Tribunal estadual em decorrência da pandemia da Covid-19 deve ser comprovada no ato de interposição do recurso.
+2. É acertado o não conhecimento do agravo em recurso especial interposto após o prazo de 15 dias corridos, sem que a parte haja comprovado, no ato de interposição, eventual suspensão dos processos em trâmite na Justiça local.
+3. Agravo regimental não provido." (AgRg no AREsp 1.774.897/PB, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/06/2021, DJe 28/06/2021.)
+No mais, quanto ao argumento defensivo de que o "prazo recursal para o Recorrente iniciou-se dia 22 de março de 2021, com término estipulado para o dia 05 de abril de 2021, conforme detalhamento no sistema processual do Tribunal de Justiça do Paraná" (fl. 693), registro que o printda tela do sistema Projudi - Processo Eletrônico do Judiciário do Paraná foi colacionado apenas nas razões do agravo em recurso especial.Desse modo, além de não ter sido demonstrado no momento da interposição do recurso especial, convém assinalar que, consoante precedentes desta Corte Superior,a "prova de feriado local ou da suspensão de prazos processuais no Tribunal local deve ser feita pela parte interessada por meio de documento idôneo. Print de tela de computador, imagem ou cópia de página extraída de internet não serve para tal finalidade.Precedentes"(AgInt no AREsp n. 2.052.572/RO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 06/06/2022, DJe de 08/06/2022; sem grifos no original).
+Com igual conclusão:
+" ..
+3. A prova de feriado local ou da suspensão de prazos processuais no Tribunal local deve ser feita pela parte interessada por meio de documento idôneo. Print de tela de computador, imagem ou cópia de página extraída de internet não serve para tal finalidade.Precedentes do STJ.
+4. Agravo Interno não provido."(AgInt no AREsp n. 2.053.679/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 08/08/2022, DJe15/08/2022; sem grifos no original.)
+" ..
+6. A ocorrência do feriado local ou a determinação de suspensão do prazo no Tribunal recorrido deve ser atestada por meio de documentação idônea (certidão específica do Tribunal de origem ou cópia do Diário Oficial - contendo o inteiro teor do ato da instância recorrida ou da lei que criou o feriado local). Não serve a tal propósito "print"(captura) de tela, imagem de página eletrônica extraída da "internet", mera menção no corpo da petição recursal ou apresentação de lista ou de calendário. Ademais, não se aplicam os feriados e as suspensões constantes em normas do Superior Tribunal de Justiça.
+7. Agravo interno a que se nega provimento."(AgInt no AREsp n. 1.941.411/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 13/06/2022, DJe 21/06/2022; sem grifos no original.)
+Dessa forma, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, inciso VI, c.c. o art. 1.003, § 5.º, todos do Código de Processo Civil, bem como o art. 798 do Código de Processo Penal.
+Ante o exposto, CONHEÇO do agravo para não CONHECER do recurso especial. Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. TRÁFICO DE DROGAS.SUSPENSÃO DOS PRAZOS. ATO DE TRIBUNAL LOCAL. COMPROVAÇÃO. NECESSIDADE. NO MOMENTO DE INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6.º, DO CPC, C.C. O ART. 3.º DO CPP. PANDEMIA COVID-19. SUSPENSÃO. DATAS E LOCAL. AUSÊNCIA DE NOTORIEDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
