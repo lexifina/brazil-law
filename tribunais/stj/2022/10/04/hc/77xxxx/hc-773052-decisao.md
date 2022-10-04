@@ -1,0 +1,16 @@
+DECISÃO
+MARCOS FERNANDO ARRUDA DA SILVAalega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1503363-26.2019.8.26.0269.
+Neste habeas corpus, a impetrante pretende, liminarmente e no mérito,o decote do emprego de arma, ante a ausência de laudo para a sua comprovação, bem como o reconhecimento de crime único e o abrandamento do regime.
+Decido.
+O writ comporta pronta solução, porquantoexiste entendimento do colegiado sobre as questõesjurídicas controvertidas.
+Consta dos autos que opaciente foi condenado, em primeira instância, pela prática dos delitos do art. 157, § 2º, II, e § 2º-A, I, por cinco vezes, na forma do art. 70, ambos do Código Penal, à pena de 16 anos de reclusão, em regime fechado, mais multa.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de identificar ilegalidades na dosimetria e redimensionar a pena para 8 anos, 10 meses e 20 dias de reclusão, mantido o regime fechado.
+Sobre a comprovação dacausa de aumento, o acórdão confirmou a "desnecessidade da apreensão e da realização de perícia da arma de fogo utilizada em crimes como o presente, quando comprovado seu emprego por outros meios idôneos de prova" (fl. 528).
+Ademais, registrouque "o apelante confessou em seu interrogatório o uso da arma de fogo, fato que, aliado ao remanescente da prova oral coligida, dá suficiente respaldo ao reconhecimento da majorante" (fl. 530).
+Faço lembrar que, nas hipóteses em que a arma não foi apreendida e periciada e, via de consequência, não foi comprovado o seu efetivo poder vulnerante, a Terceira Seção deste Superior Tribunal, no julgamento dos EREsp n. 961.863/RS, de relatoria do Ministro Celso Limongi (Desembargador convocado do TJ/SP), com relator para acórdão o Ministro Gilson Dipp, DJe 6/4/2011, assentou o entendimento de que, para a incidência da causa especial de aumento, mostram-se prescindíveis a apreensão e a realização de perícia na arma utilizada no crime de roubo, desde que seja comprovada a sua utilização por outros meios de prova, situação ocorrida nos autos.
+No caso, deve ser mantida a incidência do emprego de arma, comprovado pela prova oral produzida.
+Em relação ao reconhecimento de crime único, o Tribunal a quo ressaltou que "havendo pluralidade de patrimônios e vítimas atingidos, conclui-se que também foram cinco os roubos praticados mediante uma só ação e em um mesmo contexto fático" (fl. 530),conclusão que estáde acordo com a jurisprudência desta Corte Superior sobre o tema.
+Saliento ser "assente neste Tribunal Superior que, praticado o crime de roubo mediante uma só ação, contra vítimas diferentes, não há se falar em crime único, mas sim em concurso formal, visto que violados patrimônios distintos. Precedentes." (HC n. 275.122/SP, Rel. MinistraMaria Thereza de Assis Moura, 6ª T., DJe 4/8/2014).
+Por fim, o regime fechado fixado na sentença e mantido pelo Tribunal a quo-além de haver sido fundamentado pela reincidência do réu-é consectário legal da pena de 8 anos, 10meses e 20 dias de reclusão aplicada, razão pela qual não há ilegalidade a ser sanada nesse ponto da impetração.
+À vista do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
