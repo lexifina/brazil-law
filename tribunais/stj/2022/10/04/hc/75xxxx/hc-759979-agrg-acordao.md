@@ -1,0 +1,44 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. MAUS ANTECEDENTES CONSIDERADOS EM RAZÃO DE CONDENAÇÕES TRANSITADAS EM JULGADOS, JÁ ATINGIDAS PELO PERÍODO DEPURADOS. TESE DO "DIREITO AO ESQUECIMENTO" NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O incremento da pena base foi mantido sob o fundamento de que condenações transitadas em julgado, após ultrapassado o prazo depurador, podem ser consideradas como maus antecedentes.
+2. Tese do "direito ao esquecimento" que não foi examinada pelo Tribunal de origem.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, João Otávio de Noronha, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de agravo regimental interposto por FÁBIO AUGUSTO FERREIRA de decisão de fls. 44-46, e-STJ, que não conheceu do habeas corpus impetrado em seu favor.
+A defesa sustenta que, ao contrário do entendido pela decisão agravada, não se trata de supressão de instância, pois o Tribunal de origem decidiu por não afastar os maus antecedentes, ainda que ultrapassado o período depurador. Renova a tese de que deve ser reconhecido o direito ao esquecimento, reduzindo-se a pena-base no mínimo legal.
+Requer, assim, a redução da pena e adequação do regime prisional.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. MAUS ANTECEDENTES CONSIDERADOS EM RAZÃO DE CONDENAÇÕES TRANSITADAS EM JULGADOS, JÁ ATINGIDAS PELO PERÍODO DEPURADOS. TESE DO "DIREITO AO ESQUECIMENTO" NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O incremento da pena base foi mantido sob o fundamento de que condenações transitadas em julgado, após ultrapassado o prazo depurador, podem ser consideradas como maus antecedentes.
+2. Tese do "direito ao esquecimento" que não foi examinada pelo Tribunal de origem.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (RELATOR):
+Pretende o agravante seja reformada a decisão que não conheceu do habeas corpus, a fim de que seja reduzida a pena base ao mínimo legal, com a exclusão do aumento em razão dos maus antecedentes, considerados a partir de condenação transitada em julgado já atingida pelo período depurador.
+Contudo, a ele não assiste razão, pois, conforme se vê do acórdão proferido pelo Tribunal de origem, o incremento da pena base foi mantido sob o fundamento de que condenações transitadas em julgado, após ultrapassado o prazo depurador, podem ser consideradas como maus antecedentes. A questão do direito ao esquecimento não foi examinada, portanto.
+Assim, com efeito, a decisão agravada merece ser mantida por seus próprios e jurídicos fundamentos, a seguir reproduzidos:
+" ..
+Passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Acerca da dosimetria, a Corte de origem manteve o aumento da pena-base, com base nos seguintes fundamentos:
+"Quanto à reprimenda, verifico que a pena-base foi fixada acima do mínimo legal, ou seja, em 4 anos e 8 meses de reclusão, mais o pagamento de 11 dias-multa, no piso, e assim deve permanecer, porquanto o Juiz sentenciante explicitou as razões pelas quais resolveu estabelecê-la dessa maneira, em estrita obediência ao artigo 59, do Código Penal, ressaltando os maus antecedentes que o réu ostenta (fls. 92/93). De minha parte, por idênticas razões, ratifico esse entendimento. Aliás, ao revés do que alega FÁBIO, não há se falar em afastamento dos maus antecedentes em virtude do transcurso do período depurador, dado que, de acordo com a orientação do Superior Tribunal de Justiça, "a sentença condenatória transitada em julgado que, em virtude do período depurador de cinco anos estabelecido pelo art. 64, inciso I, do Código Penal, restou incapaz de constituir reincidência, considera-se como antecedente desfavorável, nos termos do art. 59 do Código Penal. Precedentes"(REsp nº 671.231/RS, 5ª Turma, julgado em 23/NOV/2004,Relatora Ministra LAURITA VAZ)." (fls. 38-39, e-STJ)
+De início, observa-se que a tese de direito ao esquecimento em relação aos maus antecedentes do paciente não foi objeto de exame pelo Tribunal de origem, o que impede o conhecimento do tema diretamente por este Tribunal Superior, sob pena de indevida supressão de instância. A respeito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO CRIMINAL. DOSIMETRIA. CAUSA DE AUMENTO DE PENA. SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. CAUSA DE REDUÇÃO DE PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE E NATUREZA DA DROGA. OUTRAS CIRCUNSTÂNCIAS. CONCLUSÃO QUANTO À DEDICAÇÃO A ATIVIDADE CRIMINOSA OU PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. POSSIBILIDADE DE AFASTAMENTO DO TRÁFICO PRIVILEGIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A impetração de habeas corpus após o trânsito em julgado da condenação e com a finalidade de reconhecimento de eventual ilegalidade na colheita de provas é indevida e tem feições de revisão criminal.
+2. Ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ no STJ, cuja competência prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+3. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+4. A aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, com o consequente reconhecimento do tráfico privilegiado, exige que o agente seja primário, tenha bons antecedentes, não se dedique a atividades criminosas e não integre organização criminosa.
+5. A tese firmada no REsp n. 1.887.511/SP foi flexibilizada para admitir a modulação da fração de redução do § 4º do art. 33 da Lei n. 11.343/2006 na terceira fase da dosimetria, com base na quantidade e natureza das drogas apreendidas, desde que não tenham sido consideradas na fixação da pena-base (HC n. 725.534/SP, Terceira Seção do STJ).
+6. A natureza e a quantidade das drogas apreendidas podem ser utilizadas, supletivamente, na terceira fase da dosimetria da pena, para afastamento da diminuição de pena do § 4º do art. 33 da Lei n. 11.343/2016, apenas quando esse vetor for conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou a integração a organização criminosa.
+7. Consideram-se como outros elementos para afastar a minorante o modus operandi, a apreensão de apetrechos relacionados à traficância, por exemplo, balança de precisão, embalagens, armas e munições, especialmente quando o tráfico foi praticado no contexto de delito de armas, ou quando ficar evidenciado, de modo fundamentado, o envolvimento do agente com organização criminosa.
+8. Agravo regimental desprovido.(AgRg no HC n. 738.264/MS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 21/6/2022, DJe de 24/6/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. MAUS ANTECEDENTES. ABSOLVIÇÃO. SUPRESSÃO DE INSTÂNCIA. REGIME FECHADO. QUANTIDADE, VARIEDADE E NATUREZA DA SUBSTÂNCIA ENTORPECENTE. A GRAVO REGIMENTAL DESPROVIDO.
+1. A irresignação específica da defesa, em relação à terceira fase da dosimetria da pena, não foi examinada pela Corte estadual, circunstância que impede o pronunciamento a respeito do tema, diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+2. A quantidade, variedade e a natureza da droga apreendida, aliadas aos outros elementos probatórios coligidos aos autos, demonstram a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena, nos termos do art. 42 da Lei n. 11.343/06.
+3. Agravo regimental desprovido.(AgRg no HC n. 733.386/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+Assim, não se vislumbra constrangimento ilegal flagrante a ser sanado pela via do habeas corpus." (e-STJ, fls. 44-46)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
