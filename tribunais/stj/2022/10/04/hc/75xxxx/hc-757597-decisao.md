@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se dehabeas corpus, compedido liminar, impetrado em favor de JOSE CARLOS ROQUE JUNIOR contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulono HCn. 2128939-95.2022.8.26.0000.
+Consta dos autos que o Paciente cumpre pena de 24 (vinte e quatro) anos, 9 (nove) meses e 2 (dois) dias de reclusão, atualmente em regime semiaberto, pela prática dos crimes dos arts. 136, 288 e 334, do Código Penal, e art. 12 da Lei n. 10.826/2003, com término previsto para 08/02/2039.
+Formulado pedido de progressão ao regime aberto, o Juízo doDepartamento Estadual de Execução Criminal - DEECRIM 9.ª RAJ - da Comarca de São José dos Campos/SP indeferiu o pleito, por ausência do requisito objetivo (fl. 47).
+Inconformada, aDefesa impetrou habeas corpus, que teve denegada a ordem pelo Tribunal de origem(fls. 76-82).
+Nestewrit, a Parte Impetrante sustenta que faria jus à progressão ao regime aberto desde 28/08/2021, porém foi beneficiado somente com o semiaberto em 19/11/2021. Defendeque seria ilegal considerar a data-base para a progressão de regime o dia em que teria preenchido o requisito subjetivo, porquanto configuraria excesso de execução penal ter aguardado em regime fechado a decisão sobre o semiaberto.
+Requer, liminarmente e no mérito, a concessão da ordem para que o Paciente seja promovido aoregime aberto.
+O pedido liminar foi indeferido (fls. 86-88).
+As informações foram prestadas às fls. 92-107.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, no mérito, pela denegação daordem de habeas corpus (fls. 118-122).
+É o relatório. Decido.
+O Colegiado de origem denegou a ordem originária impetrada pelo Apenadocom a seguinte fundamentação(fls. 80-82):
+"De toda forma, convém anotar que, consoante entendimento desta Colenda Câmara Criminal, o cômputo do prazo para futuro benefício deve se iniciar da data do efetivo ingresso do sentenciado no retiro de vigilância intermediária, considerada a necessidade de se averiguar a absorção da terapêutica penal durante o período de permanência no "novo"regime prisional (consoante clara redação do artigo 112 da Lei de Execução Penal).
+Não se ignora precedente do Pretório Excelso (HC115254/SP, DJe 26-02-2016) e Incidente de Resolução de Demanda Repetitiva nº. 2103746-20.2018.8.26.0000 deste Egrégio Tribunal de Justiça em sentido contrário, mas tais decisões não ensejam efeito vinculante.
+Além do mais, afigura-se inegável que o efetivo cumprimento da reprimenda em retiro semiaberto, pelo lapso temporal estipulado em lei, guarda coerência com a sistemática de paulatina reinserção do condenado à sociedade.
+Entendimento diverso possibilitaria a "progressão por salto", em afronta à Súmula 491 do Superior Tribunal de Justiça.
+Realce-se, também, que o reeducando conta com mera expectativa de direito, porquanto não basta o preenchimento do requisito temporal para a obtenção da benesse, devendo se demonstrar, ainda, a absorção da terapêutica penal (requisito subjetivo), daí a natureza constitutiva da decisão que defere a progressão de regime.
+Todavia, na hipótese, determinou o juiz da execução que o termo inicial do interstício necessário à progressão ao regime aberto corresponda à data em que o sentenciado preencheu o último requisito (no caso, a data da implementação do requisito subjetivo -correspondente ao dia de realização do exame criminológico), consoante Incidente de Resolução de Demanda Repetitiva nº.2103746-20.2018.8.26.0000, entendimento mais benéfico que o adotado por esta Câmara, vale dizer."
+A conclusão da Corte estadual está em consonância com o entendimento desta Corte Superior de Justiça, no sentido de quea data-base para a concessão de nova progressão de regime é o dia em que o último requisito (objetivo ou subjetivo)do art. 112 da Lei n. 7.210/1984estiver preenchido, tendo em vista que o dispositivo legal exige a concomitância de ambos para o deferimento do benefício.
+Desse modo, uma vezconstatada a necessidade de realização do exame criminológicopara aferir a presença do requisito subjetivo, como ocorreu no caso do Paciente, este somente pode ser considerado alcançadoquando apresentado resultado favorável na referida diligência pericial.
+Sobre o tema, cito os seguintes julgados:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NOHABEAS CORPUS.EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. TERMO INICIAL PREENCHIMENTO DOS REQUISITOS LEGAIS. ART. 112 DA LEP. REQUISITO SUBJETIVO. REALIZAÇÃO DO EXAME CRIMINOLÓGICO. IMPLEMENTAÇÃO APÓS LAPSO TEMPORAL NECESSÁRIO (REQUISITO OBJETIVO). AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Dessarte, em respeito ao princípio da individualização da pena, a fixação da data-base para futuras progressões dar-se-á caso a caso, quando implementado o último pressuposto pendente, seja ele o subjetivo - na hipótese de ter sido superado o lapso temporal necessário - ou o objetivo - se já preenchido o requisito subjetivo.
+4. Assim,"sendo determinada a realização de exame criminológico,reputa-se preenchido o requisito subjetivo no momento da realização do exame favorável ao paciente, razão pela qual deve ser considerado como data-base para nova progressão, mesmo estando o requisito objetivo preenchido em momento anterior. Caso dos autos. Precedente: HC 414.156/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/11/2017, DJe 29/11/2017"(AgRg no HC 620.573/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/12/2020, DJe 07/12/2020).
+5. Agravo regimental não provido." (AgRg no HC 635.901/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/03/2021, DJe 15/03/2021;sem grifos no original.)
+"PENAL. AGRAVO REGIMENTAL NOHABEAS CORPUS.EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DATA-BASE. REQUISITOS OBJETIVO E SUBJETIVO. PREENCHIMENTO.
+1. Consolidou-se o entendimento segundo o qual a data-base da progressão de regime é o dia do preenchimento dos requisitos objetivo e subjetivo do anterior benefício. Precedentes.
+2. Na hipótese, o Tribunal de origem estabeleceu como marco a data em que verificado o requisito subjetivo,quando apresentado exame criminológico favorável ao apenado.
+3. Agravo regimental desprovido." (AgRg no HC 613.998/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL EMHABEAS CORPUSSUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. PROGRESSÃO PARA O REGIME ABERTO. TERMO INICIAL EM QUE EFETIVAMENTE FORAM IMPLEMENTADOS OS REQUISITOS OBJETIVO E SUBJETIVO, E NÃO A DATA DA EFETIVA INSERÇÃO NO REGIME INTERMEDIÁRIO. CONSTRANGIMENTO ILEGAL INEXISTENTE . AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Sendo determinada a realização de exame criminológico,reputa-se preenchido o requisito subjetivo no momento da realização do exame favorável ao paciente, razão pela qual deve ser considerado como data-base para nova progressão, mesmo estando o requisito objetivo preenchido em momento anterior. Caso dos autos. Precedente: HC 414.156/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/11/2017, DJe 29/11/2017.
+4. Agravo regimental a que se nega provimento." (AgRg no HC 620.573/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 1º/12/2020, DJe 07/12/2020;sem grifos no original.)
+Portanto, o entendimento adotado no acórdão impugnado está em harmonia com a jurisprudência desta Corte, não havendo nenhum constrangimento ilegal, devendo ser mantida como data-base para a progressão de regime o dia em que realizado o exame criminológico com resultado favorável ao Paciente.
+Ante o exposto, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA PROGRESSÃO DE REGIME. PREENCHIMENTO DO ÚLTIMO DOS REQUISITOS LEGAIS. ART. 112 DA LEI N. 7.210/1984. CONCLUSÃO DO EXAME CRIMINOLÓGICO. NECESSIDADE PARA AFERIR O REQUISITO SUBJETIVO. JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ORDEM DEHABEAS CORPUSDENEGADA.
