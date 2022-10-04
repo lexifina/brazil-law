@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO. DESAPROPRIAÇÃO INDIRETA. DOAÇÃO INDEVIDA DE BEM PARTICULAR A TERCEIRO. PRESCRIÇÃO IMPLEMENTADA. VINTENÁRIA. ART. 177 DO CPC/1916. REGRA DE TRANSIÇÃO. TERMO INICIAL. DATA DO APOSSAMENTO ADMINISTRATIVO. SENTENÇA DE EXTINÇÃO MANTIDA.
+Os Embargos de Declaração foram acolhidos, sem efeito infringente.
+Os recorrentes apontam violação do art. 191 do Código Civil. Aduzem:
+O Tribunal recorrido não acolheu a tese de renúncia à prescrição trazida aos autos pelos recorrentes sob o argumento de que "ante a inexistência de previsão expressa em lei, não há que se falar em renúncia tácita à prescrição por reconhecimento do direito subjetivo da parte autora, em especial porque no regime de direito público os atos da administração devem se revestir de legalidade em sentido estrito, em conformidade com os princípios informadores deste ramo jurídico."
+Contudo, referida decisão não merece prosperar, primeiro pelo fato de que se o referido projeto de lei tivesse sido aprovado, é muito provável que não estar-se-ia discutindo a matéria judicialmente, e, segundo, pelo fato de que o ato legal efetuado pelo chefe do executivo municipal ao confeccionar e propor o projeto de lei à aprovação da câmara foi totalmente incompatível com a prescrição, como determina o art. 191, do CCB, evidenciando a renúncia ao instituto. Referido artigo traz a seguinte redação:
+(..)Temos, dessa forma, que se operada a prescrição vintenária em 2011, cf. consignou o tribunal a quo, a renúncia só poderia ser praticada após esse ano. E assim ocorreu quando o recorrido de forma inequívoca, repise-se, elaborou (manifestou sua vontade) e remeteu à câmara de vereadores o projeto de lei nº 46 em junho de 2018 com o objetivo de doar dois imóveis aos recorrentes com a finalidade de reparar o dano causado pela venda do imóvel destes a terceiros.
+Não obstante, analisando a atitude inequívoca do recorrido em reconhecer o direito e reparar o dano causado aos recorrentes, qual seja, o projeto de lei nº 48/2018, sob o prisma do ato administrativo, podemos concluir que o mesmo foi elaborado por autoridade competente e se revestiu de motivo, forma, objetivo e finalidade, isto é, atendeu aos requisitos de validade, consubstanciando-se, em um ato, em que pese legal e válido, totalmente incompatível com a prescrição, configurando, portanto, a renúncia à prescrição prevista no art. 191, do CCB.
+Neste sentido, o C. STJ já decidiu acerca da possibilidade de aplicação do art. 191, do CCB no âmbito da Fazenda Pública no que tange à renúncia da prescrição em decorrência da prática de um ato administrativo, inclusive em sede de julgamento de recursos repetitivos, vejamos:
+Contrarrazões não apresentadas.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 23.9.2022.
+Verifico que a matéria versada no Apelo foi submetida a julgamento no rito dos Recursos Repetitivos (REsp 1.925.192/RS, que cuida do tema: "Definição acerca da ocorrência, ou não, de renúncia tácita da prescrição, como prevista no art. 191 do Código Civil, quando a Administração Pública, no caso concreto, reconhece o direito pleiteado pelo interessado" - Tema 1.109/STJ).A propósito:
+DIREITO ADMINISTRATIVO. PROPOSTA DE AFETAÇÃO DE TEMA REPETITIVO. CONTROVÉRSIA 285. SERVIDOR PÚBLICO. ATO REVISIONAL DE APOSENTADORIA. RECONHECIMENTO ADMINISTRATIVO DO DIREITO APÓS O TRANSCURSO DO PRAZO PRESCRICIONAL. RENÚNCIA. POSSIBILIDADE DE SUA OCORRÊNCIA.
+1. Delimitação da controvérsia: "Definição acerca da ocorrência, ou não, de renúncia tácita da prescrição, como prevista no art. 191 do Código Civil, quando a Administração Pública, no caso concreto, reconhece o direito pleiteado pelo interessado."
+(ProAfR no REsp 1.925.192/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe 20/10/2021)
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma dos arts. 1.039 a 1.041 do CPC/2015.Nesse sentido, recentes decisões monocráticas: REsp 1.988.997/RS, relator Ministro Sérgio Kukina, DJe 1º/9/2022; AgInt no REsp 1.546.679/RS, relator Ministro Herman Benjamin, DJe 30/06/2022; REsp 1884966/RS, relator Ministro Francisco Falcão, DJe 22/2/2022.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo Recurso Excepcional Representativo da Controvérsia:
+a) denegue seguimento ao Recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou,
+b) proceda ao juízo de retratação na hipótese de o aresto vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
