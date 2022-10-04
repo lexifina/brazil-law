@@ -1,0 +1,36 @@
+DECISÃO
+MARCIO ANGELO DOS SANTOSalega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarinana Revisão Criminal n. 4035109-37.2018.8.24.0000.
+O paciente foi condenado, em definitivo, pelos crimes previstos nos arts. 14 e 16 da Lei n. 10.826/2003, à sanção de 3 anos e6 meses de reclusão, em regime inicial aberto.
+O impetrante aponta ilegalidade decorrente do não conhecimento do pedido de revisão criminal pela Corte antecedente. Aduzter ocorrido violação ao duplo grau de jurisdição em virtude de não haver sido analisado o mérito da apelação criminal interposta pela defesa.
+Assevera a ilicitude da prova no tocante às muniçõesapreendidas, cujo relatório estava rasurado no campo destinado aos projéteis,e afirma que os policiais tinham motivos para prejudicaro réu. Ainda, aponta a existência decontradição existente entre a perícia e a sentença - em razão demá interpretação do laudo.
+A defesa invoca a aplicação do princípio da insignificância, quanto ao crime descrito noart. 16 da Lei n. 10.826/2003, por se tratarapenas de uma única munição desprovida do artefato deflagrador.
+Requer a concessão da ordem, para: (a) determinar que a Corte de origem analise o mérito da revisão criminal ou (b) declarar a nulidade do processo no tocante àilicitude da prova (porte de munição de uso restrito) ou (c) determinar o julgamento de mérito da apelação criminal interposta ou (d) absolver o acusado do crime previsto no art. 16 da Lei n. 10.826/2003.
+O Ministério Público Federal, em parecer do Subprocurador-Geral da República Roberto Moreira de Almeida, manifestou-se, às fls. 368-371, pelo não conhecimento dohabeas corpus.
+Decido.
+I. Contextualização
+A Corte antecedenteassim se manifestou (fls. 314-315):
+ ..
+Compulsando os autos, observo nítido anseio do revisionando em ter suas teses reanalisadas, vez que não alcançou êxito no conhecimento do seu Recurso de Apelação por obter em Primeiro Grau decisão condenatória.
+In casu, primeiramente, vejo que ao tutelar retorno jurisdicional recursal, o Revisionando alcançou uma resposta negativa, ante a violação ao princípio da dialeticidade, o que por efeito, resultou no não conhecimento do reclamo por esta Nobre Câmara (Apelação Criminal n. 0130029-09.2013.8.24.0045, Relator Exmo. Sr. Dr. Des. Luiz César Schweitzer).
+Desta feita, anseia a defesa a cassação do referido acórdão, para que este Órgão analise as razões recursais.
+Em seguida, suplica o agente pela sua absolvição, por entender que as provas utilizadas para condenação não são capazes de sustentar tal medida.
+Todavia, consigno que as alegações revisionais do agente não estão elencadas nas hipóteses autorizadores desta via, porque não tratam-se de decisão manifestamente contrária ao texto expresso da lei penal ou à evidência dos autos; ou ainda, fundada em depoimentos, exames ou documentos comprovadamente falsos; ou por fim, a ocorrência de novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+Em verdade, fito decisões que vão de encontro com os interesses do Revisionando, e não sendo nenhuma das possibilidades retrocitadas, sob pena de estabelecer uma terceira instância, o presente reclamo não deve ser conhecido.
+Em situação análoga, já decidiu esta Corte:
+ ..
+Enfatizo por fim, que o revisionando não acostou aos autos, provas ou fatos suscetíveis de revisão.
+O Tribunal de origem consignou que a pretensão revisional não preencheu os requisitos previstos no art. 621 do Código de Processo Penal.
+Com efeito, embora não se verifique, em princípio, a presença das hipóteses autorizadoras da revisão criminal, o não conhecimento da apelação, interposta pela defesa, tão somente devido àreiteração das alegações finais, caracterizoucerceamento de defesa, em virtude deo vício indicado não ser inviabilizador da pretensão de reforma do édito condenatório em segunda instância.
+Quanto ao ponto, ressalto que, na instância ordinária, os reflexos do princípio da dialeticidade sãodiferentes daqueles advindosdos recursos especial e extraordinário, por serem estes de natureza vinculada. Assim, as razões expostas na apelação criminal, ainda que sejam mera reiteração das alegações finais, exprimem a vontade legítimade modificação do julgado edeveriam haver sido examinadas.
+Ilustrativamente:
+PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. NÃO CONHECIMENTO DO RECURSO DE APELAÇÃO. REITERAÇÃO DAS ALEGAÇÕES FINAIS. PRINCÍPIO DA DIALETICIDADE RECURSAL. REFLEXOS DISTINTOS. NÃO SOBREPOSIÇÃO DAS GARANTIAS INDIVIDUAIS. DEVIDO PROCESSO LEGAL. RAZÕES RECURSAIS COMPREENSÍVEIS. PRETENSÃO RECURSAL DE REFORMA DA SENTENÇA CONDENATÓRIA. ORDEM NÃO CONHECIDA. CONCESSÃO DE OFÍCIO. 1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo de revisão criminal e de recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado a justificar a concessão da ordem, de ofício.
+2. O princípio da dialeticidade recursal, utilizada como fundamento para o não conhecimento do apelo defensivo, tem reflexos distintos quanto ao recurso de apelação e quanto aos recursos especial e extraordinário. Embora voluntários todos os recursos, o de apelação é livre, enquanto os destinados às instâncias superiores são vinculados. 3. No âmbito dos recursos especial e extraordinário, o princípio da dialeticidade impõe ao recorrente a obrigatoriedade de rechaçar todos os fundamentos que esteiam o decisum que pretende reformar. 4. No âmbito ordinário, o princípio da dialeticidade atua como modelador do princípio devolutivo, que submete tão-somente as matérias abordadas nas razões recursais à análise do Tribunal de origem, assegurando o exercício do contraditório pela parte contrária, na defesa dos seus interesses, em observância ao devido processo legal. 5. A formalidade processual atua em razão do princípio da segurança e em favor do devido processo legal e não como limitador da garantia constitucional da ampla defesa.
+6. As razões expostas no recurso de apelação refletem o interesse de reforma da sentença condenatória e ensejam o conhecimento.
+7. Ordem não conhecida. Habeas corpus concedido de ofício para determinar a análise do mérito do recurso de apelação pelo Tribunal de origem, como entender de direito.
+(HC n. 396.238/SC, Rel. Ministro Ribeiro Dantas, 5ª T.,DJe 27/9/2017, destaquei)
+Portanto, constatadoo cerceamento de defesa, cumpre conceder a ordem de habeas corpus, a fim de desconstituiro trânsito em julgado da condenação edeterminarà Corte antecedente que examineo mérito da Apelação Criminal n. 0130029-09.2013.8.24.0045, coma suspensão imediata da execução da pena.
+III. Dispositivo
+À vista do exposto, concedo a ordem de habeas corpus, para desconstituir o trânsito em julgado da condenação imposta ao paciente edeterminar ao Tribunal de origem que examine o mérito da Apelação Criminal n. 0130029-09.2013.8.24.0045, com a suspensão imediata do cumprimento da pena.
+Oficie-se, com urgência, ao Tribunal de origem, bem como ao Juízo da
+execução, comunicando-lhes o teor desta decisão.
+Publique-se e intimem-se.
