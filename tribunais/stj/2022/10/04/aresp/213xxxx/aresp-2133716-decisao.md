@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interno(e-STJ fls. 461/467) interposto contra decisão do Ministro Presidente desta Corte que não conheceu do agravo em recurso especial.
+Em suas razões, a parte agravantealega ter impugnado todos os fundamentos da decisão de inadmissibilidade do recurso especial, não podendo o agravo ser rejeitado com base na Súmula n. 182/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou sua apreciação pelo Colegiado.
+Foram apresentadas contrarrazões(e-STJ fls. 471/484).
+É o relatório.
+Decido.
+Aparterecorrenteatacoutodos os fundamentos da decisão que não admitiu o recurso especial, não havendo falar em aplicação da Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial foi inadmitido por não ter ocorrido a alegada negativa de prestação jurisdicional(e-STJ fls. 418/419).
+O acórdão recorrido está assim ementado (e-STJ fl. 371):
+INVENTÁRIO Prestação de contas Objeto da lide consistente em prestação de contas da inventariança, sobretudo quanto ao período dos meses de janeiro a setembro de 2014 em que alugueres devidos pela empresa indicada nos autos ao espólio teriam, segundo notícia fornecida no inventário, sido recebidos inicial, direta e integralmente em conta do inventariante, mostrando a clara ligação dos fatos com os documentos solicitados, inclusive extratos bancários de titularidade do inventariante e da "de cujus" Indispensabilidade somada às informações de que, em tese, as despesas foram pagas em parte pelo recorrente e em outra com valores do espólio Inexistência de ofensa ao direito ao sigilo bancário por se tratar de ordem judicial necessária à instrução do processo Manifestação dos técnicos nomeados nos autos no sentido de indispensabilidade da documentação, incluindo os extratos bancários, para poderem cumprir seus encargos no processo Deliberação que se encontra dentro dos contornos da lide, sem caracterização de decisão "extra petita" - Recurso improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 391/394).
+Nas razões do especial (e-STJ fls. 377/385), fundamentado no art. 105, III, "a" e "c", da CF, orecorrenteapontou violação dos arts. 489 e 1.022, I, CPC/2015, sustentando, em síntese, negativa de prestação jurisdicional, pois a Corte local teria incorrido em "obscuridade e omissão, especialmente por não esclarecer como o extenso rol de documentação contemplado na r. decisão a quo poderá ser útil ao resultado do processo tão somente porque afirmado pelo contador, infirmando principalmente a ofensa aos artigos ART. 1.022, I, II e ART. 489, §1º, II e IV, CPC" (e-STJ fl. 381).
+Salientou que "sequer houve o enfrentamento da questão afeta a violação de direito e garantia fundamental, quais sejam, o sigilo bancário e fiscal de forma fundamentada e justificada para aconvalidação do ato recorrido"(e-STJ fls. 383/384).
+A insurgência não merece provimento.
+O Tribunala quodecidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses da parte agravante. Assim, não incorreu em omissão, contradição ou obscuridade.
+Com efeito, o Tribunal de origem explicitou a motivação necessária à manutenção da decisão que determinou a juntada dos documentos, destacando que, "diante do objeto da ação de prestação de contas em exame, a verificação técnica realmente depende da apresentação de todos os documentos entendidos por ela e pelo MM.º Juízo da causa como devidos, o que inclui os extratos de contas da "de cujus" e do próprio inventariante em razão de ele estar na administração dos bens e constar, segundo informações que surgiram nos autos do inventário, que de janeiro a setembro de 2014 os alugueis devidos pela empresa indicada teriam sido pagos direta e integralmente em conta do inventariante e posteriormente com divisão entre a sua conta e outra do herdeiro aqui agravado" (e-STJ fls. 372/373).
+Salientou ainda que "A ligação do tema da prestação de contas com tais documentos, portanto, é clara, inexistindo possibilidade, através de ordem judicial e nos termos da lei, de ofensa a direito de sigilo bancário, já que decorre de deliberação judicial necessária à instrução do pleito" (e-STJ fl. 373).
+Ressalte-se que a adoção de posicionamento contrário aos interesses da parte não se confunde com obscuridade, contradição, omissão ou negativa de prestação jurisdicional.
+Desse modo, quanto à alegada afrontaos arts. 489 e 1.022, I, CPC/2015, não assiste razão à parte recorrente.
+Ante o exposto, reconsidero a decisão da Presidência desta Corte (e-STJ fls. 456/458) para CONHECER do agravo nos próprios autos e NEGAR-LHE PROVIMENTO, mantida a majoração da verba honorária.
+Publique-se e intimem-se.
