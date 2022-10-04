@@ -1,0 +1,37 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE DESVIO DE RECURSO PÚBLICOS FEDERAIS ORIUNDOS DO PÚBLICOS FEDERAIS ORIUNDOS DO PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR - PNAE (ART. 1º, I, DO DECRETO-LEI 201/1967). COMPROVAÇÃO. ALTERAÇÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A Corte de origem constatou que ficou comprovado o desvio de recursos públicos pelo ora recorrente oriundos do Programa Nacional de Alimentação Escolar - PNAE. Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, João Otávio de Noronha, Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por JOSÉ EDIVAN FÉLIX contra decisão monocrática, com fundamento no art. 255, § 4º, I, do Regimento Interno do STJ, que não conheceu do recurso especial. (e-STJ, fls. 3.152-3.157).
+A parte agravante aduz, em síntese, não ser o caso da aplicação da Súmula 7 do STJ.
+Pede, ao final, o provimento do presente agravo, para prover o seu recurso especial.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE DESVIO DE RECURSO PÚBLICOS FEDERAIS ORIUNDOS DO PÚBLICOS FEDERAIS ORIUNDOS DO PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR - PNAE (ART. 1º, I, DO DECRETO-LEI 201/1967). COMPROVAÇÃO. ALTERAÇÃO DO JULGADO. INVIABILIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. A Corte de origem constatou que ficou comprovado o desvio de recursos públicos pelo ora recorrente oriundos do Programa Nacional de Alimentação Escolar - PNAE. Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Sobre a tese absolutória, a Corte de origem constatou que ficou comprovado o desvio de recursos públicos pelo ora recorrente oriundos do Programa Nacional de Alimentação Escolar - PNAE, como se colhe do acórdão recorrido (e-STJ, fls. 2.966-2.967):
+"Em relação ao sobrepreço, resta este demonstrado ao se comparar os preços dos itens oferecidos pela empresa que veio a ser declarada como vencedora da "Carta Convite nº 005/2007", seja em relação aos municípios vizinhos como também a outras empresas domiciliadas em Catingueira/PB, que inclusive poderiam ter sido "convidadas", se acaso não simulado o procedimento licitatório.
+E, a demonstrar o apontado desvio dos recursos públicos, faz-se contar nos autos cópias microfilmadas de cheques emitidos contra a conta-corrente específica do PNAE em que se mostra emitidos em favor da
+"Tesouraria", e sacado pelo secretário municipal direto do caixa, enquanto na documentação contábil da prefeitura se indica, por nominais, em favor da empresa "Marquesa Distribuidora de Alimentos Ltda.", em clara demonstração de uma tentativa de ocultar a verdadeira destinação daqueles recursos, no todo ou em parte, ao adulterar tais documentos que, originalmente, deveriam ser "cópias carbonadas dos cheques emitidos", unicamente no intuito de obter vantagens decorrentes do desvio de recursos públicos.
+Desta forma, resta sem mácula a condenação quanto ao crime de desvio de recursos públicos."
+Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta instância especial, nos termos da Súmula 7/STJ. A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE RESPONSABILIDADE. ART. 1º, I, DO DECRETO-LEI N. 201/1967. MATERIALIDADE E AUTORIA. REEXAME DE PROVAS. SÚMULA 7 DO STJ.
+1. O Tribunal de origem, após a análise dos elementos colhidos no curso da ação penal, concluiu que o caderno processual ostenta provas aptas para condenar o recorrente pelo crime de responsabilidade que lhe foi imputado pela denúncia, destacando que a materialidade e a autoria do denunciado ficaram demonstradas pelo depoimento do corréu e das demais provas dos autos. 2. Nesse aspecto, o recurso especial não se presta a desconstituir o julgado e a operar a absolvição do réu, dada a necessidade de revolvimento do material probante, procedimento de análise exclusiva das instâncias ordinárias e vedado ao Superior Tribunal de Justiça, a teor do óbice constante do enunciado 7 da Súmula desta Corte. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS DO CRIME. DESVALOR. FUNDAMENTAÇÃO IDÔNEA. EXASPERAÇÃO. EXCESSO. DESPROPORCIONALIDADE. AGRAVANTE DO ART. 62, I, DO CÓDIGO PENAL. LIDERANÇA. BIS IN IDEM. INOCORRENTE. REDIMENSIONAMENTO.
+1. A ponderação das circunstâncias judiciais do art. 59 do Código Penal é o momento em que o juiz, dentro dos limites abstratamente previstos pelo legislador, deve eleger, fundamentadamente, o quantum ideal da sanção a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito praticado.
+2. O desvalor atribuído às circunstâncias do crime se pautou por elementos concretos extraídos do acervo fático-probatório dos autos, que, com efeito, denotam maior reprovabilidade do fato. Na hipótese, a prática dos desvios e apropriação se deu com a relevante participação de terceiro, ao qual se prometia benefícios indevidos em contratações públicas futuras em troca da fabricação de documentos inidôneos utilizados para encobrir a atividade ilícita.
+3. Em que pese a aptidão dos motivos apresentados para negativar a referida vetorial, não se observa, por outro lado, fundamentação suficiente para justificar a robusta exasperação da pena-base, equivalente ao dobro da pena mínima abstratamente prevista no preceito secundário do tipo penal violado. 4. Consoante a jurisprudência desta Corte Superior, a atribuição de aumento superior a 1/6 (um sexto) para cada vetorial reprovada requer a exposição de motivos aptos a demonstrar especial juízo de censura, em proporção que realmente justifique recrudescer a resposta penal em maiores níveis. Precedentes.
+5. Sob esse prisma, considerado o desvalor sobre apenas uma circunstância judicial do art. 59 do CP, mostra-se adequado reduzir o incremento da pena-base para 1/6 (um sexto).
+6. Com relação ao reconhecimento da circunstância agravante prevista no art. 62, I, do CP, não há se falar em indevido bis in idem.
+Conforme assentado na decisão agravada, a liderança subjetiva exercida pelo réu na execução do desvio e apropriação de recursos públicos não constituiu aspecto considerado para a exasperação da pena-base.
+7. Agravo regimental parcialmente provido para redimensionar a pena corporal cominada em razão da prática do crime previsto no art. 1º, I, do Decreto-lei n. 201/1967, reduzindo-a para 2 (dois) anos, 8 (oito) meses e 20 (vinte) dias de reclusão, sob regime inicial aberto, substituída por duas restritivas de direitos.
+(AgRg no REsp n. 1.806.769/RN, relator Ministro Jorge Mussi, Quinta Turma, julgado em 3/9/2019, DJe de 17/9/2019.)"
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
