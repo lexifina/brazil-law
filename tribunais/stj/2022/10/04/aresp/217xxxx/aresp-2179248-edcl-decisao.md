@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARIA LÚCIA OLIVEIRA MOREIRA (MARIA), em face de JOSEF MORAIS KRAWCZYK E OUTRA (JOSEF), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Goiás (TJGO), assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER. CONTRATO DE CESSÃO DE DIREITO SOBRE SOBRADO PERTENCENTE A TERRENO NO QUAL TAMBÉM EXISTE EDIFICAÇÃO DE CASA PERTENCENTE A TERCEIRO, NÃO PARTICIPANTE DA AVENÇA. PRETENSÃO DE QUE OS ALIENANTES DO IMÓVEL DESMEMBREM O MESMO. OBRIGAÇÃO NÃO CONSTANTE DO INSTRUMENTO DE CESSÃO DE DIREITOS E NEM EM POSTERIORACORDO CELEBRADO ENTRE OS LITIGANTES. MANUTENÇÃO DA SENTENÇA POR MEIO DA QUAL FOI JULGADO IMPROCEDENTE O PEDIDO DA APELANTE.1- Deve ser mantida a sentença por meio da qual o ilustre dirigente do feito julgou improcedente o pedido da parte autora, de impingir obrigação de desmembramento de imóvel aos alienantes do bem, por não estipulada contratualmente e nem em acordo posteriormente celebrado pelas partes litigantes, referida obrigação.2- Celebrado contrato de cessão de direito de apenas umas das edificações pertencentes a um lote urbano, com a ciência de que existe outra casa ali edificada, pertencente a terceiros, a obrigação de desmembramento do imóvel pelos alienantes deve ser expressamente estipulada no contrato, para ser exigida dos vendedores.3- Os fundamentos expostos em anterior agravo de instrumento, relativos à matéria totalmente estranha ao mérito do recurso apelatório, não podem influenciar no julgado do apelo, uma vez que nos termos do art. 504 da lei processual civil, não fazem coisa os motivos ou fundamentações utilizadas para alcançar o dispositivo do julgado, mormente tendo sido esclarecido naquela oportunidade recursal que as questões que abrangiam o mérito não poderiam ser ali avaliadas. APELO DESPROVIDO. (e-STJ, fl. 163)
+Os embargos de declaração opostos por MARIA foram rejeitados (e-STJ, fls. 205/216).
+Irresignada, MARIA interpôs recurso especial, com base no art. 105, III, alínea a, da CF, apontando a violação dos arts. 422 e 490 do CC; e 502, 503, 505 e 507 do CPC, afirmando que (1) houve violação do princípio da boa-fé objetiva(2) JOSEF E OUTRA assumiram a responsabilidade de proceder a regularização qualquer obstáculo que pudesse obstar a outorga da escritura de compra e venda (3) houve afronta à coisa julgada ao se concluir que inexistente a obrigação de desmembramento do imóvel pela parte adquirente.
+Orecurso não foi admitido pelo TJGO (e-STJ, fls. 290/292).
+Foiconhecido o agravo para não conhecero recurso especial, por decisão monocrática de minha relatoria assim ementada:
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. CESSÃO DE DIREITOS. VIOLAÇÃO DO PRINCÍPIO DA BOA-FÉ OBJETIVA. NÃO CONFIGURAÇÃO. AFRONTA À COISA JULGADA. NÃO OCORRÊNCIA. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. OBRIGATORIEDADE PELO DESMEMBRAMENTO DO TERRENO. PARTE AUTORA. REVISÃO. INVIABILIDADE. REEXAME DE FATOS, PROVAS E CONTEÚDO CONTRATUAL. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO(e-STJ, fl. 329).
+Nas razões dos presentes embargos de declaração, MARIA afirmaque houve ofensa ao art. 1.022 do NCPC, poisa decisão foi omissa ao analisar que não está se defendendo o reexame de prova, mas sim saber se as razões de decidir e fundamentos exarados no agravo de instrumento são alcançados pela segurança jurídica e preclusão pro judicato, sendo o Tribunalexpresso ao registrar que a decisão proferida em agravo de instrumento não é alcançada pela coisa julgada, podendo o julgador refluir seu entendimento originário (e-STJ, fls. 1585/1587).
+Não foi apresentada impugnação(e-STJ, fls.348/349).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório,MARIA afirma que houve ofensa ao art. 1.022 do NCPC, pois a decisão foi omissa ao analisar que não está se defendendo o reexame de prova, mas sim saber se as razões de decidir e fundamentos exarados no agravo de instrumento são alcançados pela segurança jurídica e preclusão pro judicato, sendo o Tribunal expresso ao registrar que a decisão proferida em agravo de instrumento não é atingida pela coisa julgada, podendo o julgador refluir seu entendimento originário
+Contudo, sem razão.
+Constou expressamente na decisão embargada que:
+No que se refere à coisa julgada, a Corte estadual afirmou que não configurada sua afronta  ..
+A conclusão adotada na origem teve por base os fatos e provas constantes dos autos e sua revisão esbarraria, necessariamente, no óbice da Súmula nº 7 do STJ.
+ ..
+Em relação à coisa julgada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. TUTELA DE URGÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. NÃO OCORRÊNCIA. VIOLAÇÃO À LEGISLAÇÃO ESTADUAL. INVIABILIDADE. SÚMULA 280/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. ALEGAÇÃO GENÉRICA DE OFENSA À LEI. SÚMULA 284/STF. DECISÃO PRECÁRIA. SÚMULA 735/STF. REQUISITOS PARA O DEFERIMENTO DA LIMINAR. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. INADMISSIBILIDADE.
+ ..
+7. Alterar o decidido no acórdão impugnado, no que se refere ao preenchimento dos requisitos autorizadores da liminar pleiteada e violação à coisa julgada, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.8. Agravo interno não provido.(AgInt no AREsp n. 1.534.050/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022.)(e-STJ, fl. 335/336).
+Observa-se, dessa forma, que não foi demonstrado nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Sobre aomissão, anote-seo posicionamento desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. EX-EMPREGADOS APOSENTADOS. PERMANÊNCIA NO PLANO DE SAÚDE COLETIVO. ART. 31 DA LEI N. 9.656/1988. CONDIÇÕES ASSISTENCIAIS E DE CUSTEIO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca o simples rejulgamento da causa.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.818.487/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 14/4/2021, DJe 20/4/2021)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC.COISA JULGADA.ERRO MATERIAL, OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
