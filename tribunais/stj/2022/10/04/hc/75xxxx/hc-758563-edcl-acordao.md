@@ -1,0 +1,30 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. RECEPTAÇÃO. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. ALEGAÇÃO DE OMISSÕES NO ACÓRDÃO. VÍCIOS NÃO CONSTATADOS. TENTATIVA DE REDISCUSSÃO DAS MATÉRIAS JÁ JULGADAS. OFENSA A DISPOSITIVOS CONSTITUCIONAIS. VIA INADEQUADA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração prestam-se, tão somente, a sanar ambiguidade, contradição, obscuridade ou omissão do julgado, consoante dispõe o art. 619 do Código de Processo Penal, ou, então, retificar, quando constatado, erro material.
+2. Os alegados vícios indicados pelo embargante foram efetivamente decididos pelo acórdão impugnado. Ao que se tem, a intenção destes aclaratórios é a de rediscutir a matéria já julgada, já que o provimento judicial contrariou os interesses do embargante. Esse, porém, não é o propósito dos aclaratórios.
+3. Quanto à pretensão de pronunciamento acerca dos dispositivos constitucionais (arts. 5º, II, XXXV, LIV, LVII e LXXVIII e 144, caput), observo que a alegação desborda da missão constitucional do Superior Tribunal de Justiça, que tem competência para análise de matéria infraconstitucional, não estando obrigado a se manifestar a respeito de tema constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada pela Carta Magna ao Supremo Tribunal Federal.
+4. Embargos rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, João Otávio de Noronha e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+Trata-se de embargos de declaração opostos pelo Ministério Público Federal no qual aponta vícios no acórdão proferido pela Quinta Turma, negando provimento ao agravo regimental interposto contra a decisão que, de ofício, declarou extinta a punibilidade de Rafael Cassio de Jesus, nos autos da Ação Penal n. 0010172-31.2011.8.26.0223 - 1ª Vara Criminal do Guarujá/SP.
+Em suas razões, o embargante sustenta que o julgamento embargado "deixou, com renovadas vênias, de explicitar que a "avaliação da incidência dessa causa extintiva da punibilidade somente é possível quando há o trânsito em julgado para ambas as partes", consoante o atual entendimento da c. 3ª Seção dessa c. Corte Superior."
+Alega que a decisão deixou de enfrentar matérias constitucionais, para fins de prequestionamento, mais especificamente os arts. 5º, II, XXXV, LIV, LVII e LXXVIII e 144, caput, todos da CF.
+Ao final, requer o acolhimento desses embargos para sanar os vícios indicados.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Como preleciona o art. 619 do Código de Processo Penal, os embargos de declaração devem ser opostos sempre que houver ambiguidade, obscuridade, contradição ou omissão no julgado. Trata-se de um meio de correção destinado à retificar julgados em que se constatem os vícios listados , consistindo em meio de aperfeiçoamento da atividade jurisdicional.
+Portanto, os embargos não servem para a revisão do julgado em caso de mero inconformismo da parte com o conteúdo decisório, tal como se constata no caso ora sob exame.
+Nesse sentido, julgado desta Corte:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INJÚRIA RACIAL. SÚMULA 7/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS E TRATADOS INTERNACIONAIS QUE NÃO DIZEM RESPEITO À CONTROVÉRSIA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. SIMPLES PRETENSÃO DE REVISÃO DO JULGADO. EMBARGOS REJEITADOS.
+1. A ora embargante faz alusão a artigos da Constituição Federal e a tratados internacionais que não dizem respeito à controvérsia tratada nos autos, cuja análise refoge à competência desta Corte. Ademais, carecem do indispensável prequestionamento. ..  3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado no acórdão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios. 4. Embargos declaratórios rejeitados.(EDcl no AgRg no AREsp 669.505/RN, de minha relatoria, Quinta Turma, DJe 25/8/2015.)
+Neste caso, o acórdão embargado esclareceu que, no atual estado da jurisprudência do Superior Tribunal de Justiça, o marco inicial da prescrição da pretensão executória é o do trânsito em julgado para a acusação, nos termos do art. 112, inciso I, do Código Penal, ainda que exista posicionamento de órgão fracionário do Supremo Tribunal Federal em sentido diverso.
+Por outro lado, o precedente da 3ª Seção indicado dos aclaratórios que determina a avaliação da incidência da causa extintiva da punibilidade somente após o trânsito em julgado para ambas as partes aplica-se à hipótese dos autos, pois a reprimenda corporal não poderá ser mais alterada uma vez que já ocorreu o trânsito em julgado tanto para a acusação quanto para a defesa, o que impede a modificação do lapso prescricional.
+Por fim, quanto à pretensão de pronunciamento acerca dos dispositivos constitucionais (arts. 5º, II, XXXV, LIV, LVII e LXXVIII e 144, caput), observo que a alegação desborda da missão constitucional do Superior Tribunal de Justiça, que tem competência para análise de matéria infraconstitucional, não estando obrigado a se manifestar a respeito de tema constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada pela Carta Magna ao Supremo Tribunal Federal.
+Desse modo, não há que se falar em omissão, inexistindo o que ser reparado no acórdão embargado, devendo o inconformismo da parte ser manifestado no bojo do meio processual adequado.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
