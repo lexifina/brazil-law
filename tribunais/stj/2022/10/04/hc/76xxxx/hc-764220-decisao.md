@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus, com pedidoliminar, impetrado contraacórdão assim ementado (fl. 12):
+ROUBOS MAJORADOS EM CONCURSO FORMAL - Absolvições - Inadmissibilidade - Existência de prova segura da autoria e materialidade dos crimes - Condenações mantidas.
+REGIME FECHADO. Mantido. O regime fechado é o único compatível com os delitos ora analisados, pois a busca do lucro fácil e a qualquer preço manifestada pelo apelante exige do Estado a imposição a ele de pena individualizada, que o estimule a se comportar de acordo com os valores eleitos pelo sistema, respeitando os bens jurídicos tutelados pela norma, evitando que volte a delinquir.
+PENA. AFASTAMENTO DA AGRAVANTE (calamidade pública), com reflexo nas penas do réu JOÃO VICTOR EVARISTO DA SILVA.
+RECURSOS PARCIALMENTE PROVIDOS.
+Consta dos autos que o pacientefoi condenado como incurso noart. 157, § 2º, II, por três vezes, na forma do art. 70, do Código Penal, às penas de 6anos,4 meses e 24 dias de reclusão, em regime fechado, e 15 dias-multa.
+Aimpetrante sustenta que o regime mais gravoso que o autorizado em razão da pena aplicada baseou-se na gravidade abstrata do delito. Busca amparo nas Súmulas n. 440 do STJ e718 e 719 do STF.
+Requer, liminarmente e no mérito, seja fixado o regime inicial mais brando.
+A liminar foi indeferida. Prestadas as informações, o Ministério Público Federal se manifestou pela concessão da ordem.
+No presente caso, a sentença assim fixou o regime inicial fechado(fl. 53):
+1) Do réu Gabriel Sousa Santos:
+O réu é primário e não possui antecedentes criminais, de acordo com a certidão de fls. 73/74. Assim, lhe favorecem as circunstâncias judiciais previstas no art. 59, do Código Penal, devendo a sua pena base ser mantida no mínimo legal de 04 anos de reclusão, e 10 dias-multa. Na segunda fase, respeitadas as posições em contrário, para esta magistrada há que se reconhecer a agravante prevista no art. 61, inciso II, alínea "j", do Código Penal, já que o crime foi cometido em meio à pandemia da COVID 19, em época em que as restrições governamentais ainda estavam vigentes e de maneira mais severa. Com efeito, em que pese as alegações da defesa, o estado de calamidade pública acabou por facilitar a execução de crimes, ainda mais diante da necessidade de isolamento social a fim de retardar a propagação da doença, o que gerou a redução de pessoas e policiais nas ruas, defasando a vigilância estatal. Também presente no caso em concreto, a atenuante da confissão e assim sendo, a pena não deve ser alterada já que atenuante e agravante se compensam. Na terceira fase, a pena deve ser aumentada em mais 1/3, em virtude daqualificadora do concurso de pessoas, chegando-se a um total de 05 anos e 04 meses de reclusão, e 13 dias-multa. Considerando ainda, que foram cometidos três roubos mediantes a uma ação, já que três patrimônios distintos foram atingidos, é o caso ainda de se reconhecer o concurso formal de delitos, nos termos do que dispõe o art. 70, do Código Penal, e a pena deve ainda ser agravada em mais 1/5, perfazendo 06 anos, 04 meses e 24 dias de reclusão, e 15 dias-multa.
+ ..
+O regime de cumprimento de pena é o fechado, pois se ajusta e convém ao acusados pela manifesta periculosidade e insolente menoscabo das regras que disciplinam o convívio social, pois é inegável a periculosidade e ousadia de quem se põe a praticar assaltos.
+No caso em tela, os réus se uniram com terceira pessoa e mediante grave ameaça exercida com um simulacro de arma de fogo, conseguiram atemorizar mais de uma vítima e com isso subtrair seus pertences, o que demonstra a gravidade concreta da atuação.
+Se não bastasse isso, há que se considerar que um dos réus é reincidente específico e ao ser colocado em liberdade condicional foi novamente preso e condenado pelo mesmo crime de roubo, o que só reafirma a convicção desta magistrada no sentido de que à grande maioria dos roubadores somente o cárcere lhes convém.
+Não se pode esquecer que "O roubo é crime grave, que revela temibilidade do agente. É ele que vem gerando o clima de violência e de intranquilidade que aflige a sociedade brasileira atual, estando a exigir medidas eficazes para combatê-lo" (JUTACrim88/87).
+Este regime é, portanto, o único compatível com esse tipo de infração e com a frieza e desfaçatez de seu autor.
+O Tribunal de origem, por sua vez, assim dispôs (fls. 65-66):
+O regime fechado é o único compatível com o delito ora analisado, pois a busca do lucro fácil e a qualquer preço manifestada pelosapelantes exige do Estado a imposição a eles de pena individualizada, que os estimulem a se comportarem de acordo com os valores eleitos pelo sistema, respeitando os bens jurídicos tutelados pela norma, evitando que voltem a delinquir.
+Ao praticar o roubo em tela, os apelantes ensejaram enormes malefícios à Sociedade que se viu desorganizada, desassossegada e impotente para lidar com tal sorte de transgressão à normalidade e à lei.
+Não bastasse isto, ao investir contra o patrimônio alheio, os apelantes demonstraram seu desprezo pelas regras sociais básicas e seu desprezo pelo semelhante, além de demonstrarem sua opção pelo lucro fácil, divorciado de qualquer senso de moral, sobrepondo o patrimônio ao homem, o ter ao ser.
+Como se observa,o regime inicial fechadofoi fixado sob o fundamento de que "se ajusta e convém ao acusados pela manifesta periculosidade e insolente menoscabo das regras que disciplinam o convívio social" ou que é o "único compatível com o delito ora analisado".
+Dessa forma, valeram-se as instâncias ordinárias de argumentos baseados na gravidade abstrata do delito para a fixação de regime prisional mais severo, o que torna certa a ausência de fundamentos válidos para a imposição de regime mais gravoso, mormente porque fixada a pena-base no mínimo legal.
+Nesse contexto, o estabelecimento de regime prisional mais gravoso sem fundamento concreto, contraria o disposto nas Súmulas 440 do STJ, 718 e 719 do STF:
+Súmula 440/STJ: Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Súmula 718/STF: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+Súmula 719/STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Tratando-se de réuprimário, condenado à pena de 6anos, 4 meses e 24 dias de reclusão, não havendo circunstânciajudicialvaloradanegativamente, com a pena-base fixada no mínimo legal, cabível o regime semiabertonos termos do art. 33, § 2º, b, do CP, uma vez que não indicados fundamentos concretos para justificar o recrudescimento do regime.
+Ante o exposto, concedo o habeas corpus para fixar o regime inicial semiaberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
