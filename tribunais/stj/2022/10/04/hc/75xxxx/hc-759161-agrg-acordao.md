@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de agravo regimental interposto porAlan Silva Castrocontra a decisão monocrática, de minha lavra, assim ementada (fl. 140):
+HABEAS CORPUS. EXECUÇÃO PENAL. TRÁFICO DE DROGAS. NATUREZA DO DELITO. EQUIPARAÇÃO A CRIME HEDIONDO. ACÓRDÃO IMPUGNADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
+Aqui a defesa alega quea Carta Magna não institui o tráfico de drogas como crime hediondo de maneira expressa, pois, ao colocar estes tipos penais especificados ao lado do que chamou de "crimes hediondos", logicamente, o constituinte definiu que estes não são crimes hediondos (fl. 152).
+Afirma que,atualmente, no ordenamento jurídico brasileiro, inexiste menção expressa que estabeleça quais são os crimes equiparados a hediondos. Constituição Federal, Lei de Crimes Hediondos, Lei de Execução Penal, Lei de Drogas, todos os meios legais restaram omissos, de modo que não pode o Poder Judiciário fazer uma interpretação extensiva no ponto, sob pena de sucumbirmos princípios basilares da democracia como os princípios da legalidade e da anterioridade(fl. 155).
+Requer, assim queseja conhecido e provido o presente Agravo Regimental para que a decisão monocrática proferida nos autos seja reformada, de modo a aplicar ao ora agravante, a fração de 1/6 para progressão de regime como crime comum, tendo em vista a ilegalidade praticada em decisão contrária(fl. 159).
+É o relatório
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS.EXECUÇÃO PENAL. TRÁFICO DE DROGAS. NATUREZA DO DELITO. EQUIPARAÇÃO A CRIME HEDIONDO. ACÓRDÃO IMPUGNADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A decisão agravada deve ser mantida, posto queestá em perfeita harmonia com a orientação consolidada nesta Corte, no sentido de que a Lei n. 13.964/2019 não retirou o caráter hediondo do crime detráfico perpetrado fora da hipótese prevista no art. 33, § 4º, da Lei n. 11.343/2006, cuja equiparação encontra respaldo na própria norma constitucional.
+2. Agravo regimental improvido.
+VOTO
+A decisão agravada está em perfeita harmonia com entendimento firmadonesta Corte, devendo ser mantida por seus próprios fundamentos, que ora transcrevo (fl. 141):
+ ..
+Não há ilegalidade a ser sanada.
+Dizem os precedentes das duas Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça que, diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas (AgRg no HC n. 736.796/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Assim, a revogação do § 2º do art. 2º da Lei 8.072/90 pela Lei 13.964/2019 não tem o condão de retirar do tráfico de drogas sua caracterização como delito equiparado a hediondo, pois a classificação da narcotraficância como infração penal equiparada a hedionda decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal (AgRg no HC n. 729.332/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/4/2022).
+Ante o exposto, ausente qualquer constrangimento ilegal a ser sanado na presente via, denego a ordem.
+ ..
+Com efeito, a tese deduzida no regimental não encontraguarida na orientação jurisprudencial sedimentada das Turmas criminais que integram a Terceira Seção desta Corte, no sentido de que a Lei n. 13.964/2019 não retirou o caráter hediondo docrime de tráfico de drogas perpetrado fora da hipótese prevista no art. 33, § 4º, da Lei n. 11.343/2006, cuja equiparação encontra respaldo na própria norma constitucional.
+Ante o exposto,nego provimentoao agravo regimental.
