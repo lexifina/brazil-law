@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+PROCESSO CIVIL. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. AÇÃO DE COBRANÇA AJUIZADA EM DESFAVOR DO CONSUMIDOR EM FORO DIVERSO DAQUELE ESTABELECIDO NO CONTRATO. AVENÇA CELEBRADA COM PREVISÃO DE FORO DO CLIENTE. DECLÍNIO DE OFÍCIO DA COMPETÊNCIA PARA O FORO DO CONSUMIDOR.REPETIÇÃO DE CONFLITOS DE COMPETÊNCIA ENTRE MAGISTRADOS.ENTENDIMENTOS CONFLITANTES. RISCO À ISONOMIA E SEGURANÇA JURÍDICA.ADMISSIBILIDADE DO IRDR.
+1. A controvérsia cinge-se à análise acerca da possibilidade ou não de declínio de ofício da competência para o foro do domicílio do consumidor, nos casos em que esse figurar no polo passivo da demanda.
+2. O risco de ofensa à isonomia e à segurança jurídica restou demonstrado ante a adoção de entendimentos jurisprudenciais contrários, com a possibilidade de coexistência de decisões conflitantes acerca da mesma matéria.
+3. Tese a ser fixada: Admite-se ou não o declínio da competência de ofício pelo juiz para o foro do domicílio do consumidor, nos casos em que esse figurar no polo passivo da demanda.
+4. Incidente de resolução de demandas repetitivas admitido.
+A parte agravante sustenta, em resumo, que a competência não pode ser declinada, de ofício, para o foro do domicílio do consumidor.
+Assim delimitada a controvérsia, necessário consignar que esta Corte, em inúmeros precedentes, tem decidido que, nas ações propostas pelo fornecedor de bens ou serviçoscontra o consumidor,não prevalece o foro de eleição ou da prática do ato quando prejudicial à defesa, mas o do domicílio do réu. A propósito:
+CONFLITO DE COMPETÊNCIA. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO. EFEITOS MODIFICATIVOS. PREVIDÊNCIA PRIVADA. FUNCEF. ECONOMIÁRIAS APOSENTADAS. RELAÇÃO DE CONSUMO. AJUIZAMENTO DA AÇÃO, SEM JUSTIFICATIVA, EM COMARCA QUE NÃO É DOMICÍLIO DA RÉ, FORO CONTRATUAL, LOCAL DO CUMPRIMENTO DA OBRIGAÇÃO OU DOMICÍLIO DAS AUTORAS. IMPOSSIBILIDADE.
+1. Verificada a presença de contradição no julgamento, possível conferir efeitos infringentes aos embargos de declaração a fim de extirpar o vício.
+2. Segundo entendimento desta Corte, nas ações propostas contra o consumidor, a competência pode ser declinada de ofício para o seu domicílio, em face do disposto no art. 101, inciso I, do CDC e no parágrafo único, do art. 112, do CPC.
+3. Se a autoria do feito pertence ao consumidor, contudo, permite-se-lhe a escolha do foro de eleição contratual, considerando que a norma protetiva, concebida em seu benefício, não o obriga, quando optar por demandar fora do seu domicílio.
+4. Não se admite, todavia, sem justificativa plausível, a escolha aleatória de foro que não seja nem o do domicílio do consumidor, nem o do réu, nem o de eleição e nem o do local de cumprimento da obrigação.
+5. Embargos de declaração acolhidos com efeitos modificativos para conhecer do conflito, declarando competente a Justiça do Estado da Paraíba, anulada a sentença proferida pelo Juízo de Direito da 7ª Vara Cível do Foro Central de Porto Alegre, RS.
+(EDcl no AgRg nos EDcl no CC 116.009/PB, Rel. Ministro SIDNEI BENETI, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, Segunda Seção, julgado em 8/2/2012, DJe 20/4/2012)
+Ressalte-se, ainda, que a novel legislação processual acolheu o entendimento consagrado na jurisprudência, como se colhe do disposto noart. 63, § 3º, do Código de Processo Civil, segundo o qual "antes da citação, a cláusula de eleição de foro, se abusiva, pode ser reputada ineficaz deofíciopelo juiz, que determinará a remessa dos autos ao juízo do foro de domicílio do réu".
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
