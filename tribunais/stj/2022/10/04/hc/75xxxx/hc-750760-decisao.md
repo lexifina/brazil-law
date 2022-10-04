@@ -1,0 +1,42 @@
+DECISÃO
+CAIO PAULO ALENCAR SILVA alega sofrer coação ilegal em decorrência de decisão do Desembargador relator do writ originário, que, ao indeferirpedido liminar, manteve a sua prisão preventiva.
+Consta dos autos que o paciente foi preso em flagrante no dia 27/04/2022, em razão da suposta prática do delito previsto no art. 171, caput, e 171, caput, c/c o art. 14, II, todos do Código Penal. A prisão foi convertida em preventiva.
+A defesa pretende a soltura do paciente, sob o argumento de ausência do preenchimento dos requisitos da custódia processual.
+Deferida a liminar, o Parquet federal oficiou pelo não conhecimento do writ.
+I. Vedada supressão de instância
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Na hipótese, evidencia-se tal situação que autoriza a superação do óbice sumular do verbete nº 691 do STF.
+II.Writnão prejudicado
+O Parquet federal noticia a superveniência do julgamento do habeas corpus originárioem 28/7/2022, ocasião em que a Corte local denegou a ordem.
+Todavia, considerando-se que, em juízo prelibatório,reconheci ailegalidade do ato apontado como coator de plano, não é o caso de julgar-se prejudicado este feito.
+Nos termos da jurisprudência desta Corte Superior, "verificado que ohabeas corpus originário foi julgado, tendo sidodenegada a ordem,deve ser confirmada a liminar deferidapara assegurar ao paciente o direito de recorrer em liberdade,sob pena de restabelecimento do constrangimento ilegal"(HC n. 513.584/SP, Rel. MinistroSebastião Reis Júnior, 6ª T., DJe21/2/2020).
+Assim,in casu, asuperveniênciado julgamento derradeiro domandamusoriginário pela Cortelocal, com adenegação da ordem,não impedeo processamento e o exame definitivodesta impetração, mormente diante danecessidade de confirmação da tutela de urgência.
+III. Ato apontado como coator
+O Juiz de Direito, ao decretar a preventiva, a fundamentou nos seguintes termos:
+ ..
+Há indícios de autoria, eis que os elementos de informação colhidos até o presente momento dão conta que o imputado é autor do delito, mormente pelo depoimento das vítimas e das testemunhas ouvidas na Delegacia de Polícia local.
+Ademais, consta nos autos que o custodiado foi preso em flagrante no estado do Piauí pela prática dos delitos previstos no art. 147, 329 e 331, todos do CP, tendo sido a ele concedida liberdade provisória em 27 de março de 2022, sob condições, dentre as quais de não praticar qualquer outro crime (id.104124747).
+Assim sendo, a segregação cautelar do autuado representa verdadeira salvaguarda a ordem pública, sobretudo para evitar que o imputado, em liberdade, volte a cometer delitos desta ou de outra natureza, já que a circunstância que ensejou a prisão em flagrante evidencia que o mesmo vem cometendo reiteradamente o delito pelo qual foi apreendido.
+Deste modo, a concessão de liberdade, ainda que condicionada à aplicação de cautelares diversas, não teria o condão de impedir a sua reiteração de atos delituosos, pondo a credibilidade da Justiça em xeque. Nessa medida, a decretação da prisão preventiva do imputado é medida necessária e adequada(art. 282, I e II do CPP), cujos fundamentos foram acima explanados. ..  (fl. 125)
+Impetrado habeas corpus perante o Tribunal local, houve decisão monocrática do Desembargador-relator, vazada nos seguintes termos:
+ ..
+É o relatório. Passo a decidir.
+A concessão de liminar em habeas corpus somente se justifica em hipótese de flagrante ilegalidade ou constrangimento à liberdade de locomoção.
+Analisando os autos, tem-se que os elementos de convicção trazidos à colação não permitem um juízo conclusivo quanto à abusividade do decreto da preventiva.
+Razão pela qual, pelo menos nesse momento, não me parece razoável conceder a ordem liberatória.
+Ademais, em uma análise preliminar, não restou configurada a existência de nenhum tipo de constrangimento ilegal, principalmente no que concerne à ilegalidade da prisão preventiva.
+Assim, indefiro o pedido de concessão liminar. (fl. 141)
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+A seu turno, a custódia provisória somente se sustenta quando, presentes os requisitos constantes do art. 312 do CPP, se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão.
+Na espécie, verifico que o Magistrado de primeiro grau embasou sua decisão em elemento concreto e idôneo, ao salientar que "o custodiado foi preso em flagrante no estado do Piauí pela praticados delitos previstos no art. 147, 329 e 331, todos do CP, tendo sido a ele concedida liberdade provisória em 27 de março de 2022, sob condições, dentre as quais de não praticar qualquer outro crime".
+Conquanto as circunstâncias mencionadas pelo Juízo singular revelem a necessidade de algum acautelamento da ordem pública, entendo que não se mostram tais razões bastantes, em juízo de proporcionalidade, para manter a paciente sob o rigor da cautela pessoal mais extremada, mormente em razão de ser primário.
+Deveras, embora presentes motivos ou requisitos que tornariam cabível a custódia preventiva, é plenamente possível que a autoridade judiciária - à luz do princípio da proporcionalidade, das novas alternativas fornecidas pela Lei n. 12.403/2011 e do necessário enfrentamento da emergência atual de saúde pública - considere a opção por uma ou mais das providências indicadas no art. 319 do Código de Processo Penal o meio bastante e cabível para obter o mesmo resultado - a proteção do bem jurídico sob ameaça - de forma menos gravosa. A excepcionalidade momentânea impõe intervenções e atitudes mais ousadas das autoridades, inclusive do Poder Judiciário.
+Assim, reputo que, na atual situação, salvo necessidade inarredável da segregação preventiva - sobretudo casos de crimes cometidos com violência -, a envolver acusado de especial e evidente periculosidade ou que se comporte de modo a, claramente, denotar risco de fuga ou de destruição de provas e/ou ameaça a testemunhas, o exame da necessidade da manutenção da medida mais gravosa deve ser feito com outro olhar.
+A prisão ante tempus é o último recurso a ser utilizado neste momento de adversidade, com notícia de suspensão de visitas e isolamentos de internos, de forma a preservar a saúde de todos.
+Aliás, o Parquet estadual foi enfático em salientar que "a prisão, por excesso de prazo, deve ser substituída por medidas cautelares diversas, a exemplo das previstas no art. 319, do CPP, suficientes para assegurar a ordem pública" (fl. 25).
+Apoiado nessas premissas, constato ser suficiente e adequado, para atender às exigências cautelares do art. 282 do CPP, impor ao réu - independentemente de mais acurada avaliação do Juízo monocrático - as providências alternativas positivadas no art. 319, IV e V, do CPP.
+IV. Dispositivo
+À vista do exposto, confirmada aliminar,concedo a ordempara substituir a prisão preventiva do paciente pelas seguintes medidas cautelares, com fulcro no art. 319, IV e V, do CPP: a) proibição de se ausentar da comarca sem prévia autorização judicial; e b) recolhimento domiciliar no período noturno, cujos horários serão estabelecidos pelo Juiz, sem prejuízo de outras medidas que o prudente arbítrio do Juízo natural da causa indicar cabíveis e adequadas, bem como de nova decretação da constrição preventiva se efetivamente demonstrada sua concreta necessidade.
+Comunique-se a decisão, com urgência, à autoridade apontada como coatora e ao juízo de primeiro grau.
+Publique-se. Intimem-se.
