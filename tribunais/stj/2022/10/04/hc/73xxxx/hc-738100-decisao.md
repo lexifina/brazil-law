@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 389):
+APELAÇÃO CRIMINAL. CRIME DE EMBRIAGUEZ AO VOLANTE (ART. 306, DO CÓDIGO DE TRÂNSITO BRASILEIRO). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. REQUERIMENTO PARA APLICAÇÃO DE PENA EXCLUSIVA DE MULTA, EM VEZ DE SUBSTITUIÇÃO POR RESTRITIVA DE DIREITOS, NOS TERMOS DO ART. 44, § 2º, DO CÓDIGO PENAL. IMPROCEDÊNCIA. DISCRICIONARIEDADE DO MAGISTRADO. OPÇÃO, ADEMAIS, QUE SE JUSTIFICA NO CASO CONCRETO, PRETENSÃO DADA A NECESSIDADE DE PREVENIR E REPRIMIR O DELITO. RECURSAL QUE ENCONTRA ÓBICE, AINDA, NO ENUNCIADO N. 171, DA SÚMULA DO SUPERIOR TRIBUNAL DE JUSTIÇA. PRECEDENTES. RECURSO CONHECIDO E NÃO PROVIDO.
+O paciente foi condenado às penas de 6 meses de detenção, em regime aberto, e 10 dias-multa, além da suspensão de sua carteira nacional de habilitação pelo período de 2 meses, por ofensa ao art. 306 do Código de Trânsito Brasileiro, sendo substituída a pena corporal por uma restritiva de direitos.
+Argumenta a impetrante, em suma, que o juízo de origem ignorou a existência de previsão legal mais benéfica ao paciente quanto à substituição da pena privativa de liberdade por multa, aplicando-lhe, sem fundamentação, a solução mais gravosa.
+Alega, ainda, que,sendo a pena privativa de liberdade substituída exclusivamente por pena de multa, o prazo prescricional é de 2 anos, nos termos do art. 114, I, do Código Penal, pugnando, liminarmente e no mérito, pela readequação da reprimenda substitutiva e, por consequência, pela extinção da punibilidade em razão da prescrição da pretensão punitiva.
+Indeferida a liminar e prestadas informações, oMinistério Público Federal sugeriu o não conhecimento da ordem.
+A sentença foi assim entabulada(fl. 325):
+Como se trata de crime cometido sem violência ou grave ameaça à pessoa, e considerando-se que a pena imposta não é superior a 4 (quatro) anos, ainda que o réu seja reincidente, é o caso de aplicar a exceção prevista no art. 44, § 3º do CP, porque, em que pese condenação anterior, a medida é socialmente recomendável e a reincidência não se operou em virtude da prática do mesmo crime, razão pela qual, substituo a pena privativa de liberdade pelo pagamento de pena pecuniária de 1 (um) salário mínimo a favor do Conselho da Comunidade de Curitibanos.
+Acórdão (fls. 391-392):
+A Defesa pleiteia a substituição da pena corporal exclusivamente por multa, não por restritiva de direitos, conforme possibilita o art. 44, §2 º, do Código Penal, em razão da ausência de fundamentação da decisão de origem.
+No entanto, razão não lhe assiste.
+Dispõe o art. 43, §2º, do Código Penal:
+Art. 43. As penas restritivas de direitos são:
+(..)
+§ 2ºNa condenação igual ou inferior a um ano, a substituição pode ser feita por multa ou por uma pena restritiva de direitos; se superior a um ano, a pena privativa de liberdade pode ser substituída por uma pena restritiva de direitos e multa ou por duas restritivas de direitos.
+Pela leitura do dispositivo citado, verifica-se que a opção por uma ou outra benesse insere-se no âmbito de discricionariedade do Magistrado, cabendo a ele avaliar a pertinência da medida ao caso concreto.
+Conquanto, de fato, não tenham sido declinados os motivos pela opção na origem em detrimento das demais hipóteses legais, nem mesmo porque a substituição da pena privativa se deu por restritiva e não multa, denota-se que a escolha foi acertada.
+Isso porque, observando as circunstâncias e as consequências do delito de embriaguez ao volante, bem como a reincidência do Apelante, verifica-se que agiu com acerto a Magistrada a quo ao fixar a prestação pecuniária como medida alternativa da pena privativa de liberdade, uma vez que possui natureza mais educativa do que a aplicação exclusiva de multa.
+ ..
+Não sendo suficiente, tem-se que o Apelante foi condenado por delito previsto em lei especial, para o qual estão cominadas, cumulativamente, a pena privativa de liberdade e multa, o pleito defensivo encontra óbice no Enunciado de n. 171, da Súmula do Superior Tribunal de Justiça: "Cominadas cumulativamente, em lei especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa".
+No caso, o Tribunal de origem apresentou fundamentação idônea.Oacerto dasubstituição da pena corporal por pena restritiva de direitos foi destacado, apontando que "possui natureza mais educativa do que a aplicação exclusiva de multa", o que se mostra necessário dadas as consequências da embriaguez ao volante e a reincidência do paciente. Citou, ainda, o óbice contido na Súmula 171/STJ.
+Consoante a jurisprudência desta Corte, "inexiste direito subjetivo do réu em optar, na substituição da pena privativa de liberdade, se prefere duas penas restritivas de direitos ou uma restritiva de direitos e uma multa. E, se ao tipo penal é cominada pena de multa cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação" (AgRg no HC 650.841/SC, RelatorMinistro SebastiãoReisJúnior, SextaTurma,DJe 13/10/2021).
+Ainda, consolidou-se nesta Corte o entendimento de que, "Em se tratando de delito previsto em lei especial, constando do preceito secundário do tipo a cominação cumulativa de pena privativa de liberdade com pena pecuniária, inviável a substituição da pena corporal por multa.Inteligência da Súmula 171 do STJ" (AgRg no REsp n. 1.750.730/RS, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/8/2018, DJe 28/8/2018)" (AgRg no AgRg no HC 608.632/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 24/11/2020, DJe 30/11/2020).
+Prejudicada, por consequência, a pretensão de reconhecimento da prescrição.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
