@@ -1,0 +1,28 @@
+DECISÃO
+RODRIGO FILGUEIRA QUEIROZ alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+A defesa aduz sofrer constrangimento ilegal, ao argumento de que, oposta exceção de suspeição contra o Magistrado que proferiu a condenação, "este se recusou a responder a mencionada exceção, solicitando autorização ao Desembargador Relator do Recurso de Apelação para fazê-lo" (fl. 4).
+Esclarece que não há ressalvas no art. 100 do Código de Processo Penal que permita tal atitude do Juiz e enfatiza a necessidade da concessão da liminar para possibilitar a oitiva das testemunhas arroladas na exceção.
+Requer, portanto, a concessão da ordem, para:
+ ..  autorizar o Magistrado de primeiro grau excepto responder a exceção de suspeição, por dizer respeito a fato ocorrido antes da sentença, por ocasião da prisão preventiva decretada "ex officio" contra o agravante, com declaração de nulidade de todas as considerações deste Relator sobre o tema, tendo em vista que o incidente foi formado em apartado e se direciona ao magistrado excepto e não ao processo em andamento (fl. 74).
+O MPF opinou pelo não conhecimento do habeas corpus (fls. 87-92).
+Decido.
+Depreende-se dos autos que o paciente foi condenado pela prática do delito de calúnia, pendente o julgamento da apelação criminal.
+A defesa apresentou exceção de suspeição, no dia 29/6/2020, contra o Juízo sentenciante, por fatos ocorridos em 10/11/2019, ao argumento de que:
+ ..  esta" evidenciado que o excepto excedeu sua func a o jurisdicional com o fim de causar mal injusto, grave e desproporcional ao excipiente, uma vez que, ale"m de decretar sua prisa o preventiva em uma ac a o de calu"nia, independentemente do fundamento utilizado, agiu no sentido de violar a sua dignidade e as suas prerrogativas profissionais, determinando ao Delegado de Poli"cia que o removesse, sem motivac a o, da sala de Estado-Maior em que "iria permanecer custodiado", para ser jogado no sistema de celas comuns dos presi"dios paulistas.
+Na o existe raza o para um juiz ordenar a remoc a o imotivada de um advogado de uma sala de Estado-Maior, sena o o o"dio e a inimizade pessoal extremada (fls. 8-9).
+O Magistrado de primeiro grau não conheceu do pedido, tendo em vista que foi arguída a suspeição de juiz de direito com processo em trâmite perante o Tribunal de Justiça, ao seguinte fundamento:
+ ..
+O re"u apresentou nova (terceira) excec a o de suspeic a o, mas, dessa vez, o processo na o tramita perante o Jui"zo, de modo que na o ha" previsa o legal para deliberac a o nos autos.
+Embora o processo digital permita que o presente despacho seja realizado, o feito na o pode ser tratado de forma diversa da que seria se tramitasse em papel.
+A postulac a o e" ta o inusitada, fora dos moldes legais, que na o se pode ter certeza sobre a possibilidade de deliberac a o direta do excepto, que na o pode receber os autos formalmente (pela lei processual) para conclusa o.
+Para que na o haja deliberac a o fora das hipo"teses legais, com jurisdic a o exaurida e sem acesso formal aos autos, deixo, por ora, de conhecer a excec a o, ate" que o Exmo. Desembargador Relator da apelac a o pendente autorize a ana"lise da excec a o. Assim, com a devida licenc a da 6a Ca mara Criminal, determino que se encaminhe co"pia do presente despacho aos autos principais para que o Exmo. Relator possa deliberar e autorizar ou na o decisa o do magistrado subscritor sobre a excec a o (fl. 41, grifei).
+Irresignado, o réu interpôs agravo regimental contra a decisão monocrática nos autos da apelação criminal, não juntada aos autos, e o TJSP assim se manifestou:
+ ..
+Quanto ao mais, ao meu jui"zo, com a devida ve nia, mantenho a decisa o guerreada.
+Na o e" mesmo hipo"tese de autorizac a o para que o Nobre Juiz de Direito, Dr. Vinicius Castrequini Bufulin, excepto na excec a o de suspeic a o, arguida nos autos em apenso sob no 0002151-56.2020.8.26.0189, responda a mencionada excec a o, eis que a jurisdic a o do magistrado se encerrou e agora o processo tramita perante esta insta ncia, estando pendente de julgamento por esta Colenda 6a Ca mara Criminal do recurso defensivo de apelac a o interposto (fl. 75).
+Em síntese, busca o impetrante que o Juízo excepto responda à exceção de suspeição.
+No entanto, esta Corte Superior entende que "o habeas corpus não constitui o meio adequado à verificação de eventual suspeição de magistrado" (HC n. 152.113/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 21/9/2011, grifei) e que "somente se admite o remédio constitucional quando o indivíduo está a sofrer concreta ameaça ou efetivo constrangimento ao seu direito de locomoção, sendo vedada a sua utilização quando sequer há ato de poder a ameaçar a sua liberdade" (Ibid.).
+Ainda que assim não fosse, pelo que se pode inferir dos autos - considerando que as cópias são relativas tão somente ao incidente de suspeição -, os fatos que supostamente deram ensejo à tal alegação datam do momento em que houve a determinação da prisão preventiva do réu pelo Magistrado (10/11/2019) e, todavia, a defesa só se manifestou após a prolação da sentença condenatória.
+Nesse sentido, o entendimento deste Tribunal Superior é de que "a exceção de suspeição deve ser arguida na primeira oportunidade em que o réu se manifestar no processo, ou seja, logo após o interrogatório ou no momento da defesa prévia, sob pena de preclusão" (HC n. 451.528/SC, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 15/8/2018, destaquei), o que leva a crer que o pleito estaria precluso na hipótese.
+À vista do exposto, não conheço do habeas corpus.
+Publique-se e intimem-se.
