@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. AGRAVO EM EXECUÇÃO. SÚMULA 115/STJ. AUSÊNCIA DE PROCURAÇÃO. DEFESA INTIMADA PARA REGULARIZAÇÃO DO VÍCIO. INÉRCIA. PRECLUSÃO.
+1. Nos termos da jurisprudência desta Corte "a ausência da comprovação da regular representação processual, no prazo de cinco dias previsto no art. 932, parágrafo único do CPC/2015 acarreta o não conhecimento do recurso, não se admitindo regularização posterior, haja vista a ocorrência da preclusão." (AgInt nos EDcl no AREsp 1798891/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021).
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial.
+Alega que "quando a serventia do Tribunal de Justiça de São Paulo instruiu o Recurso Especial no Agravo em Execução penal, ao invés de acostar a procuração, o serventuário não digitalizou a procuração ao instruir os presentes autos e como já dito essa defensora, ora subscritora apresentou sim a procuração quando se habilitou nos autos da execução penal n.º 1006960-67.2021.8.26.0050".
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pela Sexta Turma. Impugnação apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  A decisão proferida pela Presidência desta Corte está assim fundamentada:
+Mediante análise do recurso de SALAHEDDINE KHEIREDDINE HAMMOUD, a parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes à subscritora do agravo e do recurso especial, Dra. Alessandra Martins Gonçalves Jirardi .
+É firme o entendimento do STJ de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso (Súmula n. 115/STJ).
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, quedou-se inerte. Dessa forma, o recurso não foi devida e oportunamente regularizado.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Diante da ausência de previsão legal do rito processual do agravo em execução, adota-se o procedimento do recurso em sentido estrito, previsto no art. 581 e seguintes do CPP.
+Desse modo, consoante art. 587 do CPP, "cabe à parte agravante indicar as peças a serem trasladadas para a instrução do agravo em execução, cumprindo ao escrivão a devida extração para a formação do instrumento" (HC n. 355.143/MG, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 24/5/2016, DJe de 13/6/2016).
+No caso, verifica-se que, no agravo em execução, a defesa não indicou as peças para traslado, em especial, a procuração. Remetidos os autos a esta Corte, por ocasião da interposição do agravo em recurso especial, foi constatada a irregularidade pela falta de comprovação da representação processual, conforme certidão (fl. 196).
+Intimada a parte para sanar o aludido vício, contudo, deixou de proceder a regularização do feito mediante a juntada do instrumento procuratório, o que resulta no não conhecimento do recurso, nos termos do art. 932, parágrafo único, do CPC, sendo inadmissível a juntada posterior, diante da preclusão. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA REGULAR REPRESENTAÇÃO PROCESSUAL. ENUNCIADO 115/STJ. PRÉVIA INTIMAÇÃO PARA REGULARIZAÇÃO DO VÍCIO. INÉRCIA DA PARTE. PRECLUSÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na decisão ora agravada, o Presidente desta Corte não conheceu do anterior agravo em razão da não regularização da representação processual. Incidência do Enunciado 115 desta Corte. Consignou expressamente que a "parte, embora regularmente intimada para sanar referido vício, quedou-se inerte".
+2. Ora, "a ausência da comprovação da regular representação processual, no prazo de cinco dias previsto no art. 932, parágrafo único do CPC/2015 acarreta o não conhecimento do recurso, não se admitindo regularização posterior, haja vista a ocorrência da preclusão." (AgInt nos EDcl no AREsp 1798891/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021).
+3. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.007.983/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM EXECUÇÃO. OBSERVÂNCIA DO RITO DO RECURSO EM SENTIDO ESTRITO. ART. 587 DO CPP. FORMAÇÃO DO INSTRUMENTO. AUSÊNCIA DE PROCURAÇÃO. INCIDÊNCIA DA SÚMULA 115/STJ. EMBARGOS REJEITADOS.
+1. A parte embargante requer o prequestionamento de matéria constitucional; entretanto, o Superior Tribunal de Justiça não tem a missão constitucional de interpretar dispositivos da Lei Maior, cabendo tal dever ao Supremo Tribunal Federal, motivo pelo qual não se pode conhecer da dita ofensa dos artigos 5º e 93, inciso IX, da Constituição Federal.
+2. A jurisprudência desta Corte Superior de Justiça é no sentido de que as disposições acerca do rito processual do recurso em sentido estrito se aplicam ao recurso de agravo em execução, previsto no art. 197 da Lei de Execução Penal, razão pela qual, indicadas as peças de que o agravante pretenda traslado, o recurso não pode deixar de ser apreciado.
+3. No presente caso, constata-se que o ora embargante não indicou, à e-STJ fl. 2, a necessidade de extração de cópia da procuração para ser encaminhada ao Tribunal local para fins de análise do recurso de agravo em execução. Assim, apesar de terem sido indicadas pela defesa algumas das peças necessárias ao exame do agravo em execução que julgou devidas, não apontou, dentre elas, o instrumento procuratório, estando correta a aplicação da Súmula 115/STJ.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 494.603/RN, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 20/10/2015, DJe de 26/10/2015.)
+A parte agravante, portanto, não trouxe fundamentos capazes de reformar a decisão agravada, que se mantém por seus próprios fundamentos, contexto no qual nego provimento ao agravo regimental.
+É o voto.
