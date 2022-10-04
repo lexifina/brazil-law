@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 28/09/2022 a 04/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CARLOS ALBERTO CAPELETTIcontra decisão unipessoal que indeferiu liminarmente os embargos de divergência que opusera.
+Ação: de obrigação de fazer cumulada com reparação de danos materiais, ajuizada por JOSEFINA NADIR FRANZEN ZANIN E ANTONIO ZANIN, em desfavor do agravante, em virtude de suposto inadimplemento de contrato de compra e venda de imóvel rural firmado entre as partes.
+Sentença: julgou procedentes os pedidos, para condenar o agravante a i) proceder a entrega dos documentos necessários à re-ratificação das matrículas, no tocante ao georreferenciamento; ii) proceder o levantamento de todas as hipotecas e ônus que incidem sobre os imóveis alienados; iii) proceder à regularização do dano ambiental e à quitação da multa imposta na ação civil pública nº 2772-18.2009.8.11.0040; iv) proceder o desmate, com as devidas licenças e autorizações, de 100% (cem por cento) da área obrigada, nos termos do instrumento contratual; v) abster-se de dar em garantia os imóveis objetos da compra e venda; vi) regularizar o domínio da matrícula nº 15.098, com o fito de permitir a transferência em favor dos agravados.
+Acórdão: negou provimento à apelação interposta pelo agravante; e deu parcial provimento à apelação interposta pelos agravados.
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Recurso especial: foi interposto pelo agravante, com fundamento nas alíneas "a" e "c" do permissivo constitucional. Apontou violação dos arts. 350, 357, 370, 489, § 1º, IV, e 492 do CPC/2015; e 501 do CC/02, bem como dissídio jurisprudencial.
+Juízo de admissibilidade: inadmitiu o recurso especial interposto pelo agravante.
+Decisão monocrática da Presidência: não conheceu do agravo em recurso especial interposto pelo agravante.
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Acórdão: deu provimento ao agravo interno interposto pelo agravante para tornar sem efeito as decisões de fls. 2.323-2.325 e 2.341-2343 (e-STJ) e, em novo julgamento, conheceu do agravo para negar provimento ao recurso especial que interpusera. O acórdão foi assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ÁREA MENOR DO QUE A PREVISTA NO CONTRATO. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. INVIABILIDADE DE EXAME. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. PRAZO DECADENCIAL. ART.501 DO CÓDIGO CIVIL. AGRAVO INTERNO PROVIDO PARA, EM NOVO EXAME, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de outras provas.Cabe ao juiz decidir, motivadamente, sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+2. O direito de abatimento no preço do imóvel, decorrente da diferença entre a área real do bem e a constante do contrato, decai em um ano, conforme art. 501 do Código Civil de 2002.Precedentes.
+3. Agravo interno provido para, em novo exame, conhecer do agravo e negar provimento ao recurso especial (e-STJ fl. 2.394).
+Embargos de declaração: opostos pelo agravante, foram rejeitados.
+Embargos de divergência: aponta dissonância entre o posicionamento adotado pela 4ª Turma do STJ e o entendimento adotado no REsp 1.874.259/SP, 3ª Turma, DJe 22/10/2021. Sustenta que há cerceamento de defesa quando o juiz indefere a realização de provas requeridas oportuna e justificadamente pela parte, mas profere julgamento que lhe é desfavorável com fundamento na ausência de provas.
+Decisão monocrática: indeferiu liminarmente os embargos de divergência opostos pelo agravante, ante a ausência de similitude fática entre os julgados comparados (e-STJ fls. 2.534-2.537).
+Agravo interno: sustenta que a decisão agravada partiu de premissa equivocada, pois adotou o pressuposto de que o acórdão recorrido estribou-se exclusivamente na suficiência das provas produzidas nos autos, menosprezando o fato de que o julgamento antecipado da causa deu-se com fundamento em ausência de provas da validade do aditivo contratual, da transferência de domínio e da possibilidade de cumprimento de todas as obrigações até o vencimento da última parcela. Reitera que, havendo requerimento expresso de produção de provas, e sobrevindo julgamento desfavorável com fundamento na ausência delas, é inafastável a conclusão de ocorrência de cerceamento de defesa.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO PARADIGMA E EMBARGADO. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de obrigação de fazer cumulada com reparação de danos materiais, em virtude de suposto inadimplemento de contrato de compra e venda de imóvel rural firmado entre as partes.
+2. Os embargos não podem ser conhecidos pela divergência se o embargante não providencia o devido cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, nos termos do disposto no artigo 266, § 4º, do RISTJ.
+3. Agravo interno não provido.
+VOTO
+- Julgamento: CPC/2015
+A decisão agravada indeferiu liminarmente os embargos de divergência ante a ausência de similitude fática entre os julgados comparados (e-STJ fls. 2.534-2.537).
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Com efeito, os acórdãos comparados não atendem ao requisito da similitude fática, exigido para a oposição dos embargos de divergência.
+Isso porque, como já anteriormente elucidado pela decisão agravada, o acórdão embargado reconheceu a suficiência das provas produzidas nos autos, senão veja-se:
+Pretendem os apelantes a nulidade da sentença ao argumento que o julgamento antecipado da lide semque pudessem cumprir a determinação anterior de apresentação do saldo devedor das dívidas sobre os imóveis, bem ainda diante da divergência dos valores apresentadosna inicial para pagamento, deveriater realizado instrução processual.
+Não merece ser acolhida tal pretensão. Não há se falar em cerceamento de defesa pela não produção da prova, pois a solução da matéria controvertida prescindia mesmo de dilação probatória. A leitura atenta dos fatosafirmados na petição inicial e a análise da documentação acostada aos autos bastavam à solução da lide.
+Correto pois o julgamento, não vislumbrando, no caso, o alegado cerceamento de defesa. O magistrado sentenciante, como presidente do feito, aplicou corretamente o prescrito no artigo 370 do Códigode Processo Civil - Caberá ao juiz, de ofício ou a requerimento da parte, determinar as provas necessárias ao julgamento domérito. Parágrafo único  O juiz indeferirá em decisão fundamentada, as diligências inúteis e desnecessárias ou meramente procrastinatórias.
+Toda prova é dirigida ao juiz, como presidente do feito, tendo ele o direito de formar amplamente sua convicção e, no caso em apreço, a questão pertinente a exceção de contrato não cumprido, deveria ser materializado por provas documentais que o embargante deveria produzir quando dos embargos interpostos.
+Não se pode olvidar que "Para aferir ou não a necessidade de provas outras além das já apresentadas nos autos o critério básico é a sua necessidade e utilidade. No caso em comento, qualquer acréscimo em termos de provas, seria um "plus" totalmente desnecessário para dirimir as dúvidas pertinentes a execução e contraposição da mesma pelos embargos interpostos (e-STJ fls. 1.998-1.999).
+Assim, inexistente similitude fática com o acórdão paradigma que retrata situação em que houve oindeferimento de provas requeridas pela parte e posterior julgamento desfavorável à parte com base, justamente, na ausência de provas.
+Assim, tendo em vista não haver a necessária similitude fática entre os julgados comparados, a decisão monocrática não merece reforma.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
