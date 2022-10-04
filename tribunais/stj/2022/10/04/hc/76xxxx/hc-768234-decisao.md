@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por THOMAS GOMES PAOLUCC, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim fundamentado (e-STJ, fl. 77):
+"De fato, não era mesmo caso de conhecimento do pedido de conversão da prisão condenatória em domiciliar, matéria afeita ao Juízo das Execuções Penais, a quem compete exclusivamente a análise do pedido ora formulado, bem como eventuais benefícios da execução penal, conforme artigo 66, incisos III e V, da Lei de Execução Penal, não havendo que se falar em constrangimento ilegal da r. decisão emanada.
+No mais, registre-se, por oportuno, que já foram adotadas medidas preventivas contra a propagação da infecção pelo novo coronavírus (Covid-19) no âmbito dos Sistemas de Justiça Penal e Socioeducativo por parte do poder público, como se depreende da Recomendação nº 62, emitida pelo Conselho Nacional de Justiça, e da Portaria Interministerial nº 7, publicada em 18/03/2020, pelos Ministérios da Justiça e da Saúde para o enfrentamento da situação emergencial.
+Ademais, cumpre ressaltar que, até o momento, não há relatos de disseminação do vírus no interior dos estabelecimentos prisionais. Ademais, não há prova nos autos de que as cautelas que a espécie necessita e os cuidados com eventual condição de saúde do paciente não serão adotados pela unidade prisional em que venha cumprir pena, caso seja preso."
+Neste writ, a defesa alega que o paciente é portador de câncer e cardiopatia grave, assim pede que a pena de 4 anos e 8 meses de reclusão, pela prática do crime de receptação, possa ser cumprida em regime domiciliar.
+Sustenta que uma vez recolhido ao sistema prisional não terá os tratamentos adequados.
+Requer a concessão da ordem para que cumpra a pena em prisão domiciliar enquanto perdurar a situação de saúde do paciente.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opina pela inadmissibilidade do habeas corpus.
+É o relatório.
+Decido.
+Conforme relatado, a matéria suscitada na presente impetração não foi analisada pelo acórdão impugnado, ao fundamento de que De fato, não era mesmo caso de conhecimento do pedido de conversão da prisão condenatória em domiciliar, matéria afeita ao Juízo das Execuções Penais, a quem compete exclusivamente a análise do pedido ora formulado".
+Ademais, a Corte de origem ressaltou ainda que não foi demonstrado qualquer situação de constrangimento ilegal, flagrante nulidade ou teratologia possibilitando a concessão da ordem de ofício.
+Assim, esta Corte fica impedida de conhecê-la, sob pena de indevida supressão de instância.
+Neste sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. DESCLASSIFICAÇÃO DA CONDUTA PARA A DESCRITA NO ART. 12 DA LEI N.º 10.826/2003. PEDIDO NÃO APRECIADO PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. Descabe a reforma da decisão que indeferiu liminarmente o habeas corpus, uma vez que o pedido de desclassificação da conduta delitiva do Agravante para a descrita no art. 12 da Lei n.º 10.826/2003 não foi apreciado pelo Tribunal de origem, motivo pelo qual o debate nesta Corte Superior implicaria indevida supressão de instância, com a explícita violação à competência originária para o julgamento de habeas corpus, definida no art. 105, inciso I, alínea c, da Constituição da República.
+2. "Na instância especial, ainda que se entenda se tratar de matéria de ordem pública, não há como se dispensar o necessário debate acerca das questões controvertidas, sob pena de incursão em indevida supressão de instância" (HC 470.704/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/12/2019, DJe de 11/12/2019).
+3. Em consequência da manutenção da conduta típica imputada ao Agravante, fica superada a análise da alegação de possibilidade de suspensão condicional do processo, em razão do não preenchimento do requisito objetivo, nos termos do art. 89 da Lei n.º 9.099/1995.
+4. Agravo regimental desprovido."
+(AgRg no HC 581.127/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/06/2020, DJe 29/06/2020)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA ARMADA. HOMICÍDIOS QUALIFICADOS CONSUMADO E TENTADO. PRISÃO PREVENTIVA. EXTEMPORANEIDADE DA MEDIDA EXTREMA. AUSÊNCIA DE CORRELAÇÃO ENTRE OS FATOS NOVOS E OS CRIMES APURADOS. POSSIBILIDADE DE SUBSTITUIÇÃO DA PRISÃO POR MEDIDAS CAUTELARES MAIS BRANDAS. TESES NÃO EXAMINADAS PELO TRIBUNAL DE ORIGEM NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO DA CUSTÓDIA. NÃO CONFIGURADO. COMPLEXIDADE E CIRCUNSTÂNCIAS DA CAUSA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE EXACERBADA DAS CONDUTAS. DELITOS PRATICADOS NO CONTEXTO DE ORGANIZAÇÃO CRIMINOSA. SEGREGAÇÃO JUSTIFICADA E NECESSÁRIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. RECURSO DESPROVIDO.
+1. Não há como se examinar a alegada extemporaneidade da prisão, a ausência de correlação dos fatos novos com as condutas investigadas e, ainda, a possibilidade de aplicação das medidas cautelares insculpidas no art. 319 do Código de Processo Penal, uma vez que tais teses não foram objeto de deliberação pelo Tribunal de origem no acórdão impugnado, configurando eventual atuação deste Sodalício em indevida supressão de instância. .. "
+(RHC 122.412/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 10/03/2020, DJe 30/06/2020)
+Ante o exposto, não conheçodo habeas corpus.
+Publique-se. Intimem-se.
