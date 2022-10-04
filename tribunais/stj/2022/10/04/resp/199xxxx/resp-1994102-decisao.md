@@ -1,0 +1,8 @@
+DECISÃO
+Consulta-me o i. Ministro Marco Buzzi sobre eventual prevenção para julgamento do presente recurso especial em razão da anterior distribuição do REsp 1.798.937/SP (e-STJ, fl. 7454-7455).
+De acordo com as informações prestadas pela Coordenadoria de Classificação e Distribuição de Processos, "em nova consulta ao SIAJ (Sistema Integrado de Atividade Judiciária) e utilizando critérios objetivos encontramos conexão, entre os presentes autos distribuídos em 12/04/2022, a Exma. Sra. Ministra Nancy Andrighi - Terceira Turma e o Ag 1.323.231/SP (2010/0111873-1) distribuído em 03/08/2010 ao Exmo. Sr. Ministro João Otávio de Noronha - Quarta Turma, em razão da identidade de partes e de número de origem" (e-STJ, fl. 1741).
+Conforme já sublinhado na decisão proferida às fls. 7411-741 (e-STJ), não se olvida que esta Relatora analisou o RESP 1.798.937/SP.
+No entanto, quando da distribuição do mencionado recurso a esta Relatora, já havia um recurso anterior interposto nos autos do mesmo processo julgado pelo STJ. Trata-se, justamente, do Ag 1.323.231/SP, o qual foi analisado pelo e. Ministro João Otávio de Noronha.
+Com efeito, nos termos do art. 71 do RISTJ, "a distribuição da ação, do recurso ou do incidente torna preventa a competência do relator para todos os feitos posteriores referentes ao mesmo processo ou a processo conexo, inclusive na fase de cumprimento de decisão".
+Assim, embora um dos recursos especiais interpostos nos autos (REsp 1.798.937) tenha sido apreciada por esta Relatora, o primeiro recurso julgado pelo STJ referente ao presente processo foi o mencionado Ag 1.323.231/SP, sendo este, portanto, o recurso determinante da prevenção.
+Desse modo, REJEITO a prevenção, devolvendo os autos ao Exmo. Min. Relator, com as homenagens de estilo.
