@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício de Luiz Davi Vieira Santiago, em que se aponta como autoridade coatora a Quinta Câmara Criminal do Tribunal de Justiça do Rio de Janeiro, que negou provimento à apelação defensiva, mantendo a condenação do paciente imposta pelo Juízo da 1ª Vara Criminal de Jacarepaguá pela suposta prática do crime do art. 157, § 2º, I e VII, na forma do art. 70, ambos do CP, com pena definitiva de 6 anos, 6 meses e 12 dias de reclusão e 28 dias-multa em regime semiaberto.
+Neste writ, busca abrandar o aumento pelas duas qualificadoras na terceira fase da metrificação (fl. 5).
+É o relatório.
+A insurgência aqui apresentada não foi analisada pela Corte estadual, incorrendosua análise, aqui e agora, em indevida supressão de instância.
+Contudo, vislumbro constrangimento ilegal a superar o referido óbice, no que se refere à fração aplicada às majorantes.
+A dosimetria do paciente foi chancelada aos seus fundamentos (fls. 35/36/37):
+ ..
+Considerando as circunstâncias judiciais do art. 59, caput, do CP, verifico que a pena base deve ser fixada no mínimo legal. A culpabilidade é normal ao tipo penal. O réu não tem maus antecedentes, diante da FAC de fls. 68/72. Não há nos autos informe seguro com relação à conduta social da ré e à sua personalidade, de modo que ambas não podem prejudicá-lo. As circunstâncias e as consequências dos crimes são ordinárias. O motivo dos crimes e o comportamento das vítimas não impõem o aumento da pena. Por isso, fixo a pena base em 4 anos de reclusão e 10dias-multa, no valor mínimo unitário, de acordo com o art. 60, caput, do CP, para cada um dos dois crimes.
+Deixo de considerar a circunstância atenuante prevista no art. 65, III, d, do CP, porque incapaz de levar a pena para patamar abaixo do mínimo legal. Assim, considerando a inexistência de circunstância atenuante e considerando a inexistência de circunstância agravante, mantenho a reprimenda. Por isso, fixo a pena intermediária em 4 anos de reclusão e 10dias-multa, no valor mínimo unitário, de acordo com o art. 60, caput, do CP, para cada um dos dois crimes.
+Considerando a ausência de causa de diminuição de pena e considerando a presença das causas de aumento de pena previstas no art. 157, § 2º, II e VII, do CP, aumento a pena em 2/5, considerando o número de causas de aumento. Assim, fixo a pena em 5 anos, 7 meses e 6 dias de reclusão e 14 dias-multa, no valor mínimo unitário, de acordo com o art. 60, caput, do CP, para cada um dos dois crimes.
+Considerando a continuidade delitiva, aplico uma das penas privativas de liberdade, acrescida de 1/6, diante do número de crimes, com base no art. 70, caput, do CP. No mais, aplico as penas de multa de forma cumulativa, com base no art. 72, caput, do CP. Assim, fixo a pena total em 6 anos, 6meses e 12 dias de reclusão e 28 dias-multa, no valor mínimo unitário, de acordo com o art. 60, caput, do CP.
+Ora, em se tratando de roubo com a presença de mais de uma causa de aumento, o acréscimo requer devida fundamentação, com referência às circunstâncias concretas que justifiquem um aumento mais expressivo, não sendo suficiente a simples menção ao número de majorantes presentes, nos termos da Súmula 443/STJ. In casu, a ilegalidade é flagrante.
+Note-se que o Magistrado de piso justificou a maior gravidade do roubo perpetrado em concurso e com o emprego de arma para concluir que o delito cometido com incidência de mais de uma majorante merece maior incremento de pena. Tal raciocínio não encontra respaldo na jurisprudência do Superior Tribunal de Justiça, razão pela qual deve incidir a fração, em seu mínimo de 1/3.
+Mantida a pena provisória em 4 anos, com a incidência do aumento de 1/3, passa a pena a 5 anos e 3 meses de reclusão, essa definitiva.
+Ante o exposto, não conheço do habeas corpus. Concedo a ordemde ofíciopara readequar a pena do pacientea 5 anos e 3 meses de reclusão, mantidos os demais termos da condenação.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ROUBO. DOSIMETRIA. MAJORANTES. MATÉRIA NÃO ANALISADA PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO A SUPERAR O REFERIDO ÓBICE. SÚMULA 443/STJ.
+Habeas corpus não conhecido. Ordem concedida de ofícionos termos do dispositivo.
