@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. DOSIMETRIA DAS PENAS. PENA-BASE. NATUREZA E QUANTIDADEDAS DROGAS. SEGUNDA FASE. CONFISSÃO NÃO RECONHECIDA. PRECEDENTES DESTE STJ. RECURSO CONHECIDO E DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte Superior, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Esta Corte Superior de Justiça, há muito, firmou a sua orientação no sentido de que, "De acordo com o art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado" (AgRg no REsp n. 1.898.916/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 27/9/2021).
+III - No presente recurso, ainda, não foi demonstrada nenhuma excepcionalidade para que pudesse ser aplicada a atenuante da confissão espontânea, mesmo que qualificada ou informal, simplesmente porque não ocorreu no caso concreto ou não foi mencionada na sentença.
+IV- Afastada, pois, qualquer flagrante ilegalidade, importante esclarecer a impossibilidade de se percorrer todo o acervo fático-probatório nesta via estreita do writ, como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos e provas, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória e o aprofundado exame do acervo da ação penal.
+V - No presente agravo regimental não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão agravada, devendo ser mantida por seus próprios fundamentos.
+Agravo regimental conhecido edesprovido.
+RELATÓRIO
+Trata-se de recurso de agravo regimental interposto por THIAGO MODESTO DE AGUIAR, contra decisão desta Corte Superior em habeas corpus, que não conheceu da impetração, nos seguintes termos (fls. 115-119):
+"(..) Na hipótese, verifica-se que o Tribunal de origem concluiu pela não configuração da confissão espontânea, porquanto o paciente não confessou a prática do crime, negando nas duas vezes em que formalmente ouvido a imputação. A propósito, confira-se trecho do acórdão (fl. 70):
+(..)
+A jurisprudência do STJ firmou-se no sentido de que, em habeas corpus, é inviável reanalisar a exasperação da pena na segunda fase da dosimetria, se as instâncias ordinárias, com base na análise das provas e de modo fundamentado, reconheceram não ter ocorrido a confissão espontânea. A propósito, confira-se o seguinte julgado:
+(..)
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus. "
+Neste recurso, o agravante busca a reconsideração da decisão anterior, com a aplicação da pena-base no mínimo legal, diante da pequena quantidade de drogas apreendida.
+Defende ainda o reconhecimento da confissão espontânea, porquanto a confissão informal teria sido utilizada para fundamentar o decreto condenatório, sendo utilizada, inclusive, para justificar a busca por outra sacola de drogas e a prisão do paciente.
+Requer o conhecimento e provimento do presente recurso, facultado o juízo de retratação, a fim de, ao final, ser reformada a decisão atacada e a ordem de impetração concedida.
+O d. Ministério Público Federal opinou pelo provimento em parte do recurso, em r. parecer sem ementa (fl. 137).
+Ao manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DIREITO PENAL. DOSIMETRIA DAS PENAS. PENA-BASE. NATUREZA E QUANTIDADEDAS DROGAS. SEGUNDA FASE. CONFISSÃO NÃO RECONHECIDA. PRECEDENTES DESTE STJ. RECURSO CONHECIDO E DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte Superior, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - Esta Corte Superior de Justiça, há muito, firmou a sua orientação no sentido de que, "De acordo com o art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado" (AgRg no REsp n. 1.898.916/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 27/9/2021).
+III - No presente recurso, ainda, não foi demonstrada nenhuma excepcionalidade para que pudesse ser aplicada a atenuante da confissão espontânea, mesmo que qualificada ou informal, simplesmente porque não ocorreu no caso concreto ou não foi mencionada na sentença.
+IV- Afastada, pois, qualquer flagrante ilegalidade, importante esclarecer a impossibilidade de se percorrer todo o acervo fático-probatório nesta via estreita do writ, como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos e provas, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória e o aprofundado exame do acervo da ação penal.
+V - No presente agravo regimental não se aduziu qualquer argumento novo e apto a ensejar a alteração da decisão agravada, devendo ser mantida por seus próprios fundamentos.
+Agravo regimental conhecido edesprovido.
+VOTO
+Presentes os requisitos legais, conheço do agravo regimental.
+No presente recurso, como dito, o agravante busca a concessão da ordem antes negada, nos termos já relatados.
+Pois bem.
+Conforme se apreende, contudo, todos os pontos apresentados foram devidamente analisados, não havendo falar em constrangimento ilegal.
+Em síntese, a d. Defesa requer a reforma da dosimetria das penas.
+Cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade.
+Vale dizer, o entendimento deste eg. Tribunal Superior firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Veja-se o v. acórdão (fls. 69-71):
+"7. As penas comportam majoração.
+7.1. Tráfico de drogas. A pena-base foi fixada no mínimo legal; no entanto, a quantidade, diversidade e natureza das drogas (94,7 gramas de maconha e 52,2 gramas de cocaína, considerando o elevado potencial da cocaína para a saúde pública), enquanto dados que incrementam o desvalor da conduta e que justificam uma reprimenda mais severa, nos termos do artigo 42, da Lei nº11.343/06 (STF, HC nº 132.600, rel. Min. Dias Tóffoli; HC nº 96.655, rel. Min. Cármen Lucia; HC nº 107.784, rel. Min. Ricardo Lewandowski; STJ, HC nº 237.837, rel. Min. Laurita Vaz; Hc nº235.524, rel. Min. Jorge Mussi; HC nº 223.447, rel. Min. Laurita Vaz, HC nº 179.086, rel. Min. Gilson Dipp, entre outros), postulam a fixação da pena-base em 1/6 acima do mínimo legal, ou seja, em 05 anos e 10 meses de reclusão, e 583 dias-multa.
+Na segunda etapa, não há que se falar em atenuante da confissão espontânea, tendo em vista que o acusado repeliu, nas duas vezes em que formalmente ouvido, a imputação.
+Além disso, conforme acima indicado, o acusado é reincidente pela prática dos crimes de tráfico de drogas e roubo circunstâncias que impõem nova exasperação das penas em 1/6,a perfazer reprimendas finais, à míngua de causas de aumento ou diminuição de pena, de 06 anos, 09 meses e 20 dias de reclusão, e pagamento de 680 dias-multa.
+7.2. Porte ilegal de arma de fogo com numeração suprimida. Não merece reparos a fixação da pena-base no mínimo legal.
+No entanto, na segunda etapa se impõe, conforme acima indicado, a exasperação das penas em 1/6 pela reincidência do acusado, chegando-se a 03 anos e 06 meses de reclusão e ao pagamento de 11 dias-multa.
+7.3. Concurso material de crimes. Somadas, penas que perfazem o montante total de 10 anos e 03meses de reclusão, e pagamento de 691 dias-multa. E o regime inicial, considerando-se o "quantum" de pena imposto, as circunstâncias concretas dos crimes (notadamente quantidade, diversidade e natureza das drogas) e a reincidência do acusado, só pode mesmo ser, na dicção do artigo 33 do Código Penal, o fechado."
+Acerca da pena-base, do contrário,manifestouo d. Ministério Público Federal (fl. 136):
+"Ocorre, entretanto, que o montante de entorpecente apreendido (94,7 gramas de maconha e 52,2 gramas de cocaína) não revela excepcionalidade a demonstrar maior censurabilidade que àquela necessária à própria tipificação do delito, de modo que a exasperação da pena na primeira fase dosimétrica deve ser decotada, em razão de sua evidente desproporcionalidade.
+Assim, deve a pena-base do delito de tráfico de drogas ser reduzida ao mínimo legal."
+Nesse passo, porém, entendo por bem valoradas as circunstâncias, no que tange aos aspectos concretamente apontados:94,7 g de maconha e 52,2 gde cocaína.
+Ora, por entender desfavorável a natureza e a quantidade da droga apreendida, o d. Juiz a quo elevou, fundamentadamente, a pena-base, a teor do art. 42 da Lei de Drogas ("Art. 42. O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente" - grifei) - fixando proporcionalmentea pena-base em razão disso.
+Trata-se de condição preponderante em relação ao próprio art. 59 do Código Penal, de forma a não se identificar qualquer desproporcionalidade ou mesmo dissonância com a jurisprudência desta Corte Superior.
+Com efeito, "De acordo com o art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado" (AgRg no REsp 1898916/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 27/9/2021).
+Sobre a atenuante da confissão espontânea, simplesmente não ocorreu no caso concreto.
+Explico.
+In casu, observa-se o d. Ministério Público Federal bem destacou (fl. 136):
+"Já em relação ao pleito de reconhecimento da atenuante da confissão, apontou o relator, na decisão impugnada, que o "Tribunal de origem concluiu pela não configuração da confissão espontânea, porquanto o paciente não confessou a prática do crime, negando nas duas vezes em que formalmente ouvido a imputação"(e-STJ fls. 117).
+E, de fato, registrou o acórdão que "o acusado, silente na fase policial (fls. 13), rechaçou em seu interrogatório judicial a imputação", sendo que "Negou a posse das drogas bem como da arma de fogo", não havendo que se falar, portanto, em aplicação da referida atenuante."
+Convém registrar que esta eg. Corte Superior possui entendimento de que "Nos moldes da Súmula 545/STJ, a atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, seja ela judicial ou extrajudicial, e mesmo que o réu venha a dela se retratar, quando a manifestação for utilizada para fundamentar a sua condenação (..)" (AgRg no HC n. 733.879/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe 31/5/2022, grifei).
+Aqui, a simples alegação de que "No caso em tela, a confissão informal foi utilizada para fundamentar o decreto condenatório, pois deu ao juiz a certeza da autoria" (fl. 125) não se sustenta, visto que a sentença de fls. 15-22 sequer menciona isso como fundamento próprio.
+Veja-se a redação da Súmula n. 545/STJ: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal."
+No presente recurso, ainda, não foi demonstrada nenhuma excepcionalidade para que pudesse ser aplicada a atenuante da confissão espontânea, mesmo que qualificada ou informal, simplesmente porque não ocorreu no caso concreto ou não foi mencionada na sentença.
+Portanto, nada a reparar.
+Afastada, pois, qualquer flagrante ilegalidade, importante esclarecer a impossibilidade de se percorrer todo o acervo fático-probatório nesta via estreita do writ, como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos e provas, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória e o aprofundado exame do acervo da ação penal.
+No mais, o presente agravo limitou-se a reiterar as teses do habeas corpus, deixando de refutar, ponto por ponto, os argumentos da r. decisão guerreada, caso em que tem aplicabilidade o disposto no enunciado n. 182 da Súmula desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Exemplificativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. A jurisprudência desta Corte é harmônica no sentido de que não ofende o princípio da colegialidade a prolação de decisão monocrática pelo relator, quando estiver em consonância com súmula ou jurisprudência dominante desta Corte e do Supremo Tribunal Federal.
+2. Conforme reiterados julgados dessa Corte, cumpria ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada a qual não conheceu do writ por se tratar de reiteração de pedido analisado por esta corte no Aresp n. 1.336.090 e inexistir requisitos a serem analisados da segregação cautelar por se tratar de execução provisória da pena. Limitou-se a defesa em argumentar sobre a possibilidade de superação da súmula 691/STF e ausência de requisitos autorizadores da prisão preventiva. Portanto, no caso, aplica-se a Súmula 182/STJ "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+3. Agravo regimental não conhecido" (AgRg no HC n. 429.525/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 13/11/2018, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PERDA DE 1/3 DOS DIAS REMIDOS. PREJUDICIALIDADE. FUNDAMENTO NÃO IMPUGNADO NO PRESENTE RECURSO. SÚMULA N.º 182/STJ. PRÁTICA DE FALTA GRAVE. ALEGAÇÃO DE NECESSIDADE DE PRÉVIA OITIVA DO APENADO. DESNECESSIDADE. PEDIDO DE AFASTAMENTO DA INFRAÇÃO OU DESCLASSIFICAÇÃO PARA FALTA MÉDIA OU LEVE. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. VIA INADEQUADA. AGRAVO PARCIALMENTE CONHECIDO E, NESSA PARTE, DESPROVIDO.
+1. O presente recurso não deve ser conhecido quanto à insurgência em torno da suposta revogação dos dias remidos, pois o agravante não impugnou especificamente o fundamento da decisão ora atacada, concernente à prejudicialidade do pleito defensivo sobre a questão. Assim, incide, na espécie, a Súmula n.º 182/STJ.
+2. Não prospera a alegação de nulidade da decisão que homologou a falta grave do Paciente, pois, no procedimento administrativo instaurado para a apuração de falta disciplinar, o sentenciado "foi ouvido na presença de Defensor, tendo este oportunidade de apresentação de defesa administrativa", conforme o Magistrado de primeira instância. A Lei de Execução Penal, no art. 118, exige a oitiva prévia do condenado apenas nas hipóteses de regressão de regime prisional, o que não é o caso.
+3. A suscitada necessidade de afastamento da infração ou de desclassificação da falta grave para falta média ou leve exigiria o revolvimento de fatos e provas, o que é incompatível com os limites cognitivos do habeas corpus. Precedentes.
+4. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido" (AgRg no HC n. 439.588/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 13/11/2018).
+Por fim, destaque-se que, no presente agravo regimental, não se aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, devendo ser mantida por seus próprios fundamentos.
+Acerca do tema, cito os seguintes precedentes desta eg. Corte:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. AUSÊNCIA DE DEBATE DA TESE PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. AUSÊNCIA DE INDIVIDUALIZAÇÃO DA SITUAÇÃO DE CADA CONDENADO. INEXISTÊNCIA DE NOVOS FUNDAMENTOS CAPAZES DE MODIFICAR A DECISÃO AGRAVADA. AGRAVO IMPROVIDO.
+1. Segundo o entendimento vigente neste Superior Tribunal de Justiça, a modificação de decisão por meio de agravo regimental requer a apresentação de argumentos capazes de alterar os fundamentos anteriormente firmados.
+(..)
+6. Assim, inexistindo novos fundamentos capazes de modificar o decisum impugnado, deve ser mantida a decisão.
+7. Agravo improvido" (AgRg no HC n. 384.871/SC, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 9/8/2017).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AUSÊNCIA DE ARGUMENTOS NOVOS PARA ATACAR A DECISÃO IMPUGNADA. MERO INCONFORMISMO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não viola o princípio da colegialidade a decisão monocrática do relator, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental.
+(..)
+3. O agravo regimental não traz argumentos novos capazes de alterar o entendimento anteriormente firmado, razão por que deve ser mantida a decisão monocrática proferida.
+4. Agravo regimental improvido" (AgRg no HC n. 369.103/MS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 31/8/2017).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
