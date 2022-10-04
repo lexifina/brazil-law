@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por NORBERTO BATISTA FEIL à decisão de fls. 1.726/1.727, que não conheceu do recurso.
+A parte embargante reitera as razões de seu recurso especial, discorrendo sobre o mérito do recurso especial. Além disso, no que se refere ao não conhecimento do recurso argumenta o seguinte:
+Dentre estas, descortina-se inconsistente a que aplica, por analogia, a Súmula 284/STF, para não conhecer recurso extraordinário ou especial, na hipótese de o recorrente deixar de apontar, de forma explícita, o permissivo constitucional em que lastreada a impugnação (v., p. ex. a recente decisão no Ag. em REsp. n. 390.160-SP: ".. Correta a decisão agravada, porquanto, verifica-se que, quando da interposição do recurso especial, não foi indicado o permissivo constitucional que embasa o recurso, de modo a esbarrar, por analogia, no óbice constante da Súmula 284/STF").
+Ressalte-se que esta orientação, como ocorre na generalidade das vezes nas quais vem aplicada a denominada jurisprudência defensiva, evidencia que o direito material do recorrente não tem a menor relevância para o tribunal.
+ ..
+Ademais, não há se confundir, por óbvio, fundamento legal com fundamentação jurídica dos arrazoados forenses, inclusive, por certo, das razões recursais.
+Vale aqui transcrever o enunciado da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Desse modo, dúvida não há de que a ausência de indicação da alínea em que lastreado o recurso (fundamento legal) não se confunde com a falta de alusão ao dispositivo reputado contrariado.
+Na primeira circunstância, mesmo perante o STJ, sem embargo da eventual clareza das razões recursais, incide o princípio iura novit curia, o qual não se aplica na ausência de indicação da norma federal tida como contrariada.
+Nesta segunda hipótese, o STJ tem jurisprudência consolidada, como se infere, por exemplo, do julgamento proferido no Recurso Especial 475.043-MG, de relatoria do ministro Hamilton Carvalhido, no qual o respectivo acórdão invoca corretamente a Súmula 284/STF, textual: "Não se conhece de recurso especial pela alínea "a" do permissivo constitucional quando o recorrente restringe-se em afirmar que o acórdão teria violado lei federal, sem indicar, especificamente, qual o artigo da lei federal tido como violado".
+ ..
+Aqui, portanto, a restrição de se admitir o recurso especial, em razão da natureza peculiar do recurso extremo; razão por que do enunciado da Súmula/STJ n. 7, que dispõe: a pretensão de simples reexame de prova não enseja recurso especial.
+ ..
+O douto Ministro negou seguimento ao recurso, informando que não fora utilizado todos os recursos cabíveis perante o tribunal de origem antes de buscar a instância superior, conforme súmula 281 do STF.
+Ocorre que tal súmula é inaplicável, haja vista que ferre os princípios da ampla defesa, do contraditório e do devido processo legal (fls. 1732/1737).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Em um primeiro momento a parte limita-se a repetir as alegações do apelo nobre, o que se mostra inviável em sede de embargos de declaração. Esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do recurso, que obstou a abertura desta instância superior e, portanto, a produção do efeito translativo.
+Noutro ponto, com relação a admissibilidade recursal, extrai-se das razões dos embargos que a parte impugna a ausência de indicação de permissivo constitucional, e a Súmula 284 do STF.
+Entretanto, conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, pelo fato da parte recorrente ter deixado de indicar precisamente os dispositivos legais federais que teriam sido violados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Por fim, saliente-se que em nenhum momento o não conhecimento do recurso foi fundamentado em razão da incidência da Súmula 07 do STJ ou da Sumula 281 do STF, como esclarecido nas presentes razões o recurso não ultrapassou a admissibilidade, repita-se, pela ausência de indicação expressa de dispositivo violado.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
