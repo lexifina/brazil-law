@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, quenão admitiu recurso especial fundadona alínea "a"do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fl. 78):
+AGRAVO DE INTERNO EM AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO DO PROCESSO. APELAÇÃO. RECURSO ADEQUADO. LITIGÂNCIA DE MÁ-FÉ. INTERPOSIÇÃO DE RECURSO PROTELATÓRIA. CONFIGURAÇÃO. MULTA PROCESSUAL E INDENIZAÇÃO. NECESSIDADE. DECISÃO UNIPESSOAL MANTEIDA.
+01. A extinção do processo se dá por sentença (artigo 316, CPC), que é desafiada por intermédio do recurso de apelação (artigo 1.009, CPC). Havendo, no cumprimento de sentença, resolução  ..  da questão discutida com a concomitante extinção do processo, o recurso a ser interposto é o de apelação, e não o de agravo de instrumento. Precedentes.
+02. O manejo do agravo interno pela parte agravante, quando visível e consciente do erro processual cometido, tem por escopo procrastinar a entrega da prestação jurisdicional em prejuízo da parte adversa, em nítida litigância de má-fé, nos termos do artigo 80, VII, do CPC.
+03. Reconhecida a litigância de má-fé, e no intuito de afastar o abuso do direito de recorrer, forçoso aplicar, em penalidade à parte agravante, multa processual no valor equivalente a 01 (um) salário mínimo vigente, devido ao valor irrisório dado à causa, e também a indenizar a parte contrária, ora agravada, em R$ 500,00 reais, o que faço nos termos do artigo 81, "caput", §§ 2º e 3º, do CPC.
+04. Recurso conhecido e improvido. Decisão mantida.
+No recurso especial obstaculizado, a parte recorrente apontou, violação do art. 1.015, parágrafoúnico, do CPC/2015, defendendo o cabimento de agravo de instrumento contra decisão que negou provimento à impugnação de sentença.
+Para isso, sustentou que"o simples fato de o juízo de 1ºgrau ter utilizado a nomenclatura SENTENÇApara negar provimento à impugnação ao cumprimento de sentença ofertado pelo INSS não altera o fato de referido provimento possuir natureza jurídica de DECISAO INTERLOCUTORIA" (e-STJ fl. 102).
+Contrarrazõesàs e-STJ fls. 136/143.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+A jurisprudência desta Corte é no sentido de que " ..  a decisão que resolve a impugnação sem pôr fim à execução desafia o recurso de agravo de instrumento, conforme disposto pelo parágrafo único do art. 1.015 do CPC, caracterizando erro grosseiro a interposição de apelação, a qual é cabível apenas quando ocorre a extinção da Execução ou do Cumprimento de Sentença, em decisão terminativa" (AgInt no AREsp 1.845.871/RS, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 22/11/2021, DJe 25/11/2021).
+No caso dos autos, ainstânciade origem decidiu em conformidade com a jurisprudência deste Tribunal, ao não conhecer do agravo de instrumento da parte ora recorrente por se tratar de recurso incabível contra sentença, nos seguintes termos(e-STJ fls. 71/72):
+O tema não merece maiores digressões.
+A extinção do processo se dá por sentença (artigo 316, CPC), que é desafiada por intermédio do recurso de apelação (artigo 1.009, CPC).
+Já o agravo de instrumento será cabível, além das hipóteses do artigo 1.015 do CPC, contra decisões interlocutórias exaradas na liquidação de sentença ou no cumprimento de sentença, no processo de execução e, ainda, no processo de inventário.
+No caso, o juízo de origem extinguiu (evento 126 dos autos originários) a fase de cumprimento de sentença e o fez, frisa-se, por sentença, de modo que, para sistemática recursal traçada pelo legislador, deveria a parte agravante se valer da interposição do recurso de apelação e não da do recurso de agravo de instrumento.
+Nesse sentido, confira-se precedente deste Sodalício: ApCível n. 0023048-34.2018.827.0000.
+Ademais, não há dúvida objetiva que, pela fungibilidade, permita receber o instrumental como apelação. Percebe-se, desse modo, que o manejo do agravo interno pela parte agravante, quando visível e consciente do erro processual cometido, teve e tem por escopo apenas e tão somente procrastinar a entrega da prestação jurisdicional em prejuízo da parte adversa, em nítida litigância de má-fé, nos termos do artigo 80, VII, do CPC.
+Tal conduta processual deve ser duramente reprimida e combatida, pois, além de ter potencial para causar gravame à parte que aguarda o desfecho do processo com lealdade, abarrota - já abarrotado - Poder Judiciário com instrumentos recursais manifestamente protelatórios e, na maioria das vezes, infundados.
+Reconhecida a litigância de má-fé, forçoso aplicar, em penalidade à parte agravante, multa processual no valor equivalente a01 (um) salário mínimo vigente, devido ao valor irrisório dado à causa, e também a indenizar a parte contrária, ora agravada, em R$ 500,00 reais, o que faço nos termos do artigo 81, "caput", §§ 2º e 3º, do CPC.É, portanto, o abuso do direito de recorrer. Por todo o exposto, CONHEÇO DO RECURSO E NEGO-LHE PROVIMENTO, para manter a decisão monocrática, aplicar multa processual e indenização em favor da parte adversa, ora agravada (Grifos acrescidos).
+Nesse mesmo sentido, mutatis mutandi:
+PROCESSUAL CIVIL. IMPUGNAÇÃO À EXECUÇÃO. DECISÃO QUE NÃO EXTINGUE O FEITO. RECURSO CABÍVEL.
+1. Consoante o entendimento desta Corte, a decisão que resolve a impugnação sem pôr fim à execução desafia o agravo de instrumento, conforme disposto pelo parágrafo único do art. 1.015 do CPC, caracterizando erro grosseiro a interposição de apelação (somente cabível quando ocorre a extinção da execução ou do cumprimento de sentença, em decisão terminativa). Precedentes.
+2. Agravo interno desprovido.(AgInt no AREsp n. 1.794.732/MA, de minha relatoria, Primeira Turma, julgado em 8/8/2022, DJe de 17/8/2022.) (grifos acrescidos).
+PROCESSUAL CIVIL. IMPUGNAÇÃO. ACOLHIMENTO. EXECUÇÃO. EXTINÇÃO.AGRAVO DE INSTRUMENTO. RECURSO INADEQUADO. FUNGIBILIDADE RECURSAL.IMPOSSIBILIDADE.
+1. A Apelação é o recurso cabível contra decisão que extingue a Execução, e não o Agravo de Instrumento, como quer fazer prevalecer o agravante.
+2. A interposição de Agravo de Instrumento, no caso dos autos, não permite a aplicação do princípio da fungibilidade recursal, cabível apenas na hipótese de dúvida objetiva. Precedentes do STJ.
+3. Recurso Especial parcialmente conhecido e, nesta parte, não provido.
+(REsp 1.653.127, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 24.4.2017).
+Dessa forma, incide o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", cabível mesmo quando o recurso especial é interposto com base na alínea "a" do permissivo constitucional. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 09/05/2019, DJe 21/05/2019).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
