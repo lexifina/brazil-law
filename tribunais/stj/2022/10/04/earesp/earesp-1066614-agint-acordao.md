@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 28/09/2022 a 04/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pela UNIÃO contra decisão de minha lavraque não conheceu de seus embargos de divergência, em virtude da ausência da necessária similitude fático-jurídica entre os acórdãos confrontados.
+Sustenta a parte agravante ter demonstrado "a similitude fática, esclarecendo que em ambos os julgados foram julgados tendo como base as leis nº 3.765/1960 e 4.242/1963, vigentes na época do óbito do instituidor" (fl. 775).
+E complementa (fl. 775):
+Ora, da leitura do relatório do acórdão paradigma verifica-se que a questão também foi analisada sob a ótica das LEIS 3.765/60 e 4.242/63. Veja-se:
+EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1.451.685 -RN (2014/0101181-0)RELATOR :MINISTRO OG FERNANDES EMBARGANTE : UNIÃOEMBARGADO : JERSONITA AVELINO DA SILVA REPR. POR : TALITA AVELINO DA SILVA -CURADORADVOGADO : JOSÉ ALBANO DO NASCIMENTO -RN004466 Relatório O SR. MINISTRO OG FERNANDES:
+Trata-se de embargos de divergência interpostos pela União contra acórdão proferido pela Primeira Turma do Superior Tribunal de Justiça, assim ementado (e-STJ, fl. 162):
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENSÃO ESPECIAL DE EXCOMBATENTE. LEIS 3.765/60 E 4.242/63 DEFERIMENTO DO BENEFÍCIO. INEXISTÊNCIA DE REQUERIMENTO ADMINISTRATIVO. TERMO INICIAL. PARCELAS REFERENTES AOS CINCO ANOS QUE ANTECEDERAM O AJUIZAMENTO DA AÇÃO. AGRAVO REGIMENTAL DA UNIÃO DESPROVIDO. 1. Na pensão especial de ex-combatente regida pelas Leis 3.765/60 e 4.242/63, se houve requerimento administrativo, a pensão é devida desde os cinco anos que antecederam esse pedido. Porém, se não houve requerimento administrativo, são devidas parcelas desde os cinco anos que antecederam o ajuizamento da ação
+Assim sendo, de forma simples e clara a União requer a reforma da decisão que não conheceu de embargos de divergência por existência de similitude fática.
+Por fim, requer a reconsideração ou a reforma da decisão agravada.
+Impugnação às fls. 779/796.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EMAGRAVO EM RECURSO ESPECIAL. SIMILITUDE FÁTICO-JURÍDICA ENTRE OS ACÓRDÃOS CONFRONTADOS. INEXISTÊNCIA.
+1. Nos termos do art. 266, caput, do RISTJ, osembargos de divergênciatêm como pressuposto de admissibilidade a existência de divergência entre Turmas diferentes, ou entre Turma e Seção, ou entre Turma e a Corte Especial, a qual deverá ser demonstrada nos moldes do art. 255, §§ 1º e 2º, do RISTJ.
+2. Caso concreto em que a questão envolvendo o termo inicial da pensão especial de ex-combatente foi examinada à luz das Leis n. 3.765/1960 e n. 4.242/1963, enquantoo acórdão apontado como paradigma decidiu otermo inicial da pensão de ex-combatente prevista no art. 53, II, do ADCT com amparo na Lei 8.059/1990, o que evidenciaa ausência da necessária similitude fático-jurídica entre os acórdãos confrontados.
+3. Agravo interno desprovido.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (Relator):O presente agravo interno não merece prosperar.
+Cuida-se, na origem, de ação ordinária ajuizada por LENAÍDES LOPES SUDRÉ contra a UNIÃO, objetivando a concessão dapensão especial de ex-combatente, a ser instituída em decorrência do óbito de seu pai, TELMO LOPES SUDRÉ, com fundamento nas Leis n. 3765/1960, n. 4.242/1963 e n. 5.315/1967.
+O Juízo de primeiro grau julgou "PROCEDENTE a pretensão autoral para condenar a UNIÃO conceder à Autora, LENAÍDES LOPES SUDRÉ, a pensão especial de ex-combatente falecido, no valor correspondente à pensão deixada por um Segundo-Sargento, nos termos dos art. 26 da Lei nº 3.765/60, bem como ao pagamento das pensões vencidas, a partir de 04/02/2006" (fl. 387).
+A sentença foi reformada pelo Tribunal Regional Federal da 2ªRegião tão somente "para reformar a sentença excluindo da condenação o pagamento dos atrasados desde 04.02.2006, e fixando como termo inicial a data da citação válida" (fl. 455).
+Por sua vez, em decisão monocrática proferida nos autos do subjacente Agravo em Recurso Especial, o em. Ministro FRANCISO FALCÃO deu provimento ao apelo nobre da parte ora embargada a fim de reformar o acórdão recorrido e, nessa extensão, fixar como termo inicial da condenação a data do ajuizamento da ação (fls. 629/634), a qual foi posteriormente confirmada pela Segunda Turma em sede de agravo interno (fls. 662/672).
+Para tanto, concluiu a Segunda Turma, nos termos do voto condutor do Relator do acórdão, Ministro FRANCISO FALCÃO, que o termo inicial da pensão se vinculaà legislação aplicável ao caso, daseguinte forma:(a) tratando-se da pensão prevista nas Leis n. 3.765/1960 e n. 4.242/1963, como no caso dos autos, serão devidas as parcelas vencidas desde os cinco anos que antecederam o ajuizamento da ação; (b) se a pensão pleiteada se refereàquela regulamentada pela Lei n. 8.059/1990, o termo inicial para o pagamento das parcelas é a citação, não sendo devidos valores retroativos. Senão vejamos (fls. 669/670):
+ ..  a definição do termo inicial para pagamento de pensão especial de ex-combatente com fulcro nas Lei nº 3.765/1960 e 4.242/1963 passa por duas fases. Primeiramente, é necessário verificar se houve pedido na esfera administrativa. Caso contrário, são devidas as parcelas desde os cinco anos que antecederam o ajuizamento da ação.
+Não houve, no caso em comento, requerimento administrativo. Aplicável, portanto, a data do ajuizamento da ação como termo inicial para fins de contagem da prescrição. Confira-se os seguintes precedentes desta Corte Superior a respeito do tema:
+ ..
+A título informativo, cumpre asseverar que no caso da pensão ser deferida com base na Lei nº 8.056/1990, inexistindo requerimento administrativo, o termo inicial para o pagamento das parcelas é a citação, não sendo devido valores retroativos. Nesse sentido:
+Sucede que a questão fático-jurídica examinada no acórdão paradigma (EREsp 1.451.685/RN, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe 1/3/2018) é de natureza diversa daquela a que se refere o caso concreto, porquanto vinculada à pensão especial regulada pela Lei n. 8.059/1990.
+A propósito, confira-se o seguinte trecho do aludido acórdão (fls. 734/736):
+Na hipótese, trata-se, na origem, de ação ordinária ajuizada por Jersonita Avelino da Silva (representada por Talita Avelino da Silva, sua curadora) contra a União pleiteando a reversão da quota-parte da pensão especial de ex-combatente que vinha sido recebida por seu irmão e que cessou em razão do implemento da maioridade daquele.
+ ..
+Entendo que não há falar em parcelas pretéritas referentes ao quinquênio que antecedeu o ajuizamento da ação, porque o requerimento administrativo da ora recorrida é um dos requisitos para o pagamento do mencionado benefício.
+Desse modo, inexistindo o prévio requerimento administrativo do benefício, segundo preceitua o art. 11 da Lei n. 8.059/1990, o termo inicial para sua concessão é a data da citação da União, não havendo dívida anterior a ser paga.
+(Grifos nossos)
+Em outros termos, o acórdão apontado como paradigma examinou questão fático-jurídica diferente daquela debatida nestes autos, o que, via de consequência, inviabiliza conhecimento dos presentes embargos de divergência. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. PRÊMIO DECENAL. NATUREZA REMUNERATÓRIA. AUSÊNCIA DE SIMILITUDE FÁTICA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. RECURSO NÃO PROVIDO.
+1. Para a configuração do dissídio jurisprudencial é imprescindível a demonstração tanto da similitude fática quanto da identidade jurídica entre o acórdão embargado e os paradigmas apontados, conforme a pacífica orientação deste eg. Superior Tribunal de Justiça, a partir da interpretação do § 4º do art. 1.043 do CPC e do § 4º do art. 266 do Regimento Interno desta Corte.
+2. Na espécie, do cotejo entre a fundamentação dos arestos indicados como paradigma e do acórdão embargado, constata-se que não há identidade de teses jurídicas. Isso porque o acórdão embargado cuida de analisar a natureza do prêmio decenal, enquanto nenhum dos acórdão indicados como paradigma trata do prêmio decenal. Tal divergência configura óbice ao conhecimento dos Embargos de Divergência. (AgInt nos EAREsp 1.441.916/SC, Rel. Min. Og Fernandes, Corte Especial, DJe 26.8.2020.)
+3. Ademais, observa-se que o acórdão recorrido adotou entendimento pacificado neste Tribunal de que os valores pagos a título de prêmio decenal possuem natureza remuneratória e, portanto, integram a base de cálculo para fins de Contribuição Previdenciária.
+4. Em situações análogas, o STJ reconhece que esses tipos de benefícios, que visam premiar a capacidade, o rendimento, o empreendimento e/ou o comprometimento do empregado, configuram verba remuneratória sobre a qual é inafastável a incidência tributária. (AgRg nos EDcl no REsp 1.098.218/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 9.11.2009, AgRg no REsp 1.449.335/SP, Rel. Min. Humberto Martins, Segunda Turma, DJe 2.6.2014; e AgInt no AREsp. 941.736/DF, Rel. Min. Herman Benjamin, Segunda Turma, DJe 17.11.2016.) 5. Agravo Interno não provido.
+(AgInt nos EREsp n. 1.666.076/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, DJe de 30/6/2022)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA - AÇÃO DECLARATÓRIA - PREQUESTIONAMENTO - AUSÊNCIA - SÚMULA 282/STF - PROCURAÇÃO - OUTORGA DE PODERES EXPRESSOS PARA ALIENAÇÃO DE QUAISQUER IMÓVEIS EM TODO O TERRITÓRIO NACIONAL - NECESSIDADE DE OUTORGA DE PODERES ESPECIAIS - DELIBERAÇÃO UNIPESSOAL QUE NEGOU SEGUIMENTO AO APELO RECURSAL ANTE A INEXISTÊNCIA DE DEMONSTRAÇÃO DO DISSÍDIO JURISPRUDENCIAL - INSURGÊNCIA DOS AGRAVANTES.
+1. Nos termos do art. 266, caput, do RISTJ, os embargos de divergência têm como pressuposto de admissibilidade a existência de divergência entre Turmas diferentes, ou entre Turma e Seção, ou entre Turma e a Corte Especial, a qual deverá ser demonstrada nos moldes do art. 255, §§ 1º e 2º, do RISTJ.
+2. A jurisprudência do Superior Tribunal de Justiça é pacífica quanto à imperiosa necessidade de confrontação analítica dos arestos entre os quais se alega existir conflito de tese jurídica.
+2.1. Acórdãos confrontados que decidiram questões distintas, configurando-se, pois, a ausência de similitude entre os casos.
+Precedentes.
+3. Agravo interno desprovido.
+(AgInt nos EREsp n. 1.814.643/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, DJe de 30/6/2022)
+Calha ressaltar que a mera referência às Leis n. 3.765/1960 e n. 4.242/1963, contidas na transcrição da ementa do acórdão objeto dos aludidosEREsp 1.451.685/RN, por si só, não tem o condão de alterar o entendimento acima expendido, mormente porque a eventual existência de divergência jurisprudencial deve levar em consideração a solução adotada pelos acórdãos confrontados, segundo a fundamentação neles contida.
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
