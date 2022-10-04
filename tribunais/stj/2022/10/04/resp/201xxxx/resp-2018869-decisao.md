@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por SIM REDE DE POSTOS LTDA., com fundamento nas alíneas "a" e "c" do permissivo constitucional, por meio do qual se impugna acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 221):
+DIREITO TRIBUTÁRIO. PIS/COFINS. REGIME NÃO CUMULATIVO. APROPRIAÇÃO DE CRÉDITOS. ICMS-ST NA AQUISIÇÃO. AUSÊNCIA DO DIREITO.
+O contribuinte não tem direito a considerar o ICMS-ST como custo de aquisição de modo que integre a base da apuração para fins de apropriação de créditos de PIS-COFINS.
+Nas razões de seu recurso especial, a ora recorrente aponta a existência de dissenso pretoriano e ofensa aoart. 3º, I e II, dasLeis n. 10.637/2002 e n. 10.833/2003, ao art. 301 do Decreto n. 9.580/2018, aosarts. 121 e 128do CTN e ao art.66da IN/SRF n. 247/2002 (com redação dadapela IN/SRFn. 358/2003) e ao art.8º, § 3º, da IN/SRFn. 404/2004. Argumenta, em síntese, que"restou negado o direito àfruição do crédito de PIS e COFINS sobre o valor do ICMS-Substituição Tributária (ICMS-ST), sendo este pago na etapa anterior quando da aquisição da mercadoria adquirida para revenda, mesmo estando flagrantemente demonstrado que este valor trata-se de custo de aquisição, nos exatos termos da legislação instituidora do Pis e da Cofins Não-Cumulativas" (e-STJ fl. 285).
+Contrarrazões (e-STJ fls. 368/384).
+Recurso especial admitido (e-STJ fl. 398).
+Passo a decidir.
+Na origem, cuida-se de mandado de segurança mediante o qual se busca a concessão de ordem para garantir "o direito à compensação do valor do indébito gerado por conta do não aproveitamento do crédito de PIS e COFINS sobre o ICMS-ST, pelo período não prescrito de 5 (cinco) anos, anteriores à data do ajuizamento da presente demanda, forte no teor da Súmula nº 213 do Superior Tribunal de Justiça ("O mandado de segurança constitui ação adequada para a declaração do direito à compensação tributária"), com a incidência da Taxa SELIC, nos termos do art. 39, § 4º, da Lei nº 9.250/95, com tributos e contribuições da mesma espécie, nos termos do artigo 66 da Lei nº 8.383/1991, ou, ainda, com tributos e contribuições de outras espécies, administrados pela Secretaria da Receita Federal, consoante facultado pelo artigo 74 da Lei nº 9.430/96, com as modificações que lhe sucederam, cujo montante deverá ser apurado em liquidação de sentença com a observância do comando sentencial, com a extinção do crédito tributário sob condição resolutória de sua ulterior homologação, afastadas, desde já, quaisquer normas infralegais cerceadoras do direito da Impetrante e sem a imposição de quaisquer restrições ou óbices pelas autoridades administrativas ao pleno exercício desse direito" (e-STJ fls. 48/49).
+Segurança denegada.
+Apelação desprovida.
+A irresignação merece prosperar.
+O acórdão recorrido está em confronto com a jurisprudência desta Primeira Turma do STJ, no sentido da que o ICMS-ST, na aquisição de bens para revenda posterior, gera direito de crédito de PIS e de COFINS em favor da empresa substituída.
+À guisa de mero exemplo:
+TRIBUTÁRIO. AGRAVO INTERNO RECURSO ESPECIAL. PIS E COFINS. BASE DE CÁLCULO DO CRÉDITO. INCLUSÃO DO ICMS-ST. AQUISIÇÃO DE BENS PARA REVENDA POR EMPRESA SUBSTITUÍDA. POSSIBILIDADE.
+1. A Primeira Turma do Superior Tribunal de Justiça firmou o entendimento no sentido de reconhecer que o ICMS-ST está apto a ser incluído na base de cálculo do crédito da contribuição ao PIS e da COFINS.
+2. "Sendo o fato gerador da substituição tributária prévio e definitivo, o direito ao crédito do substituído decorre, a rigor, da repercussão econômica do ônus gerado pelo recolhimento antecipado do ICMS-ST atribuído ao substituto, compondo, desse modo, o custo de aquisição da mercadoria adquirida pelo revendedor." (REsp 1.909.823/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, 02/03/2021, DJe 11/03/2021).
+3. Agravo interno não provido.
+(AgInt no REsp 1.926.461/RS, relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 15/12/2021).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, para conceder a ordem, de modo a declarar o direito da ora recorrente ao creditamento de PIS e de COFINS sobre o ICMS-ST, bem como para garantir-lhe o direito à compensação ou à restituição do que eventualmente pago a maior, àquele título, inclusive no lustro prescricional anterior ao ajuizamento da presente ação, observada a incidência da SELIC.
+Sem honorários de sucumbência. Mandado de segurança.
+Publique-se. Intimem-se.
