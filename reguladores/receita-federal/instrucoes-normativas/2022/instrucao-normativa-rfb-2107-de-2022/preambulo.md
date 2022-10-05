@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2107, de 4 de outubro de 2022
+Altera a Instrução Normativa RFB nº 971, de 13 de novembro de 2009, que dispõe sobre normas gerais de tributação aplicáveis às contribuições sociais destinadas à Previdência Social e a outras entidades ou fundos, administradas pela Secretaria Especial da Receita Federal do Brasil (RFB).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 28 e no inciso IV do art. 32 da Lei nº 8.212, de 24 de julho de 1991, resolve:
