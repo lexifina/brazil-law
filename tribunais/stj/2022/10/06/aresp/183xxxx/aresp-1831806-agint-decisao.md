@@ -1,0 +1,17 @@
+DECISÃO
+LUIZ GUILHERME NOGUEIRA DE ARAUJO (LUIZ) ajuizou ação de obrigação de fazer cumulada com indenização por danos morais contra UNIMED UBERABA COOPERATIVA DE TRABALHO MÉDICO (UNIMED) pretendendo que a requerida custeie imediatamente a cirurgia de gastroplastia para obesidade mórbida ao autor, bem como proceda ao pagamento de R$ 10.000,00 (dez mil reais) a título de danos morais.
+Em primeira instância, os pedidos foram julgados improcedentes, com a condenação do autor ao pagamento integral das custas e despesas processuais, bem como de honorários advocatícios que, observando os parâmetros estabelecidos pelo art. 85, § 2º, do Código de Processo Civil, foram fixados no equivalente a 10% do valor atualizado da condenação. Suspensa a exigibilidade das custas, despesas e honorários, pelo fato de a parte autora litigar sob o pálio da gratuidade da justiça (art. 98, § 3º, do CPC).
+A apelação interposta por LUIZ foi provida pelo Tribunal de Justiça de São Paulo nos termos do acórdão de relatoria do Des. J. B. PAULA LIMA assim ementado:
+PLANO DE SAÚDE. PRELIMINAR AFASTADA. NEGATIVA DE COBERTURA DE CIRURGIA BARIÁTRICA. DOENÇA PREEXISTENTE. ALEGAÇÃO DE ÓBICE PELA COBERTURA PARCIAL TEMPORÁRIA (CPT). PROCEDIMENTO EMERGENCIAL. CARÊNCIA DE 24 HORAS. REQUERIDA QUE DEVE CUSTEAR INTEGRALMENTE A CIRURGIA NECESSITADA PELO AUTOR. DANOS MORAIS. AUSÊNCIA DE INSURGÊNCIA NO APELO. DEMANDA PARCIALMENTE PROCEDENTE. SENTENÇA REFORMADA.
+Plano de saúde. Recusa indevida de procedimento cirúrgico de emergência. Carência de 24 horas. Ação que deve ser julgada parcialmente procedente o pedido para condenar a ré a custear integralmente o tratamento indicado ao autor pelo médico que o acompanha. Dano moral. Recorrente que não se insurgiu a esse respeito no apelo. Sentença reformada. Recurso provido (e-STJ, fl. 254).
+Os embargos de declaração opostos pela UNIMED foram rejeitados.
+Inconformada, UNIMED manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação dos arts. 489 e 1.022 do NCPC, 11, 12 e 35-C, todos da Lei n.º 9.656/98 ao sustentar que (1) o TJSP não se pronunciou sobre a alegação de que a negativa de cobertura teve como fundamento o período de cobertura parcial temporária, e não o tempo de carência, já que a obesidade foi informada pelo contratante como enfermidade preexistente no ato da contratação; e (2) a recusa de custeio deve ser reputada lícita, em virtude do período de cobertura parcial temporária para a doença preexistente declarada (obesidade).
+O apelo nobre não foi admitido pelo Tribunal estadual em virtude da incidência das Súmulas n.ºs 5 e 7 do STJ.
+O Ministro Presidente desta Corte não conheceu do agravo em recurso especial interposto pela UNIMED em virtude da falta de impugnação específica da incidência das Súmulas n.ºs 5 e 7 do STJ, a atrair a aplicação da Súmula n.º 182 do STJ.
+Nas razões do presente agravo interno, UNIMED alegou que infirmou todos os fundamentos da decisão que inadmitiu seu apelo nobre.
+É o relatório.
+DECIDO.
+Tendo em vista as alegações trazidas no agravo interno,RECONSIDEROa decisão agravada e,para melhor exame da controvérsia,CONVERTOo agravo emrecurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. AGRAVO INTERNO PROVIDO. AGRAVO CONVERTIDO EM RECURSO ESPECIAL PARA MELHOR EXAME DA CONTROVÉRSIA.
