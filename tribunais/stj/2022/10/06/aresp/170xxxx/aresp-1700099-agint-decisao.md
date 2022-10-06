@@ -1,0 +1,61 @@
+DECISÃO
+Amil Assistência Médica Internacional S.A., interpõe agravo interno contra decisão desta relatoria proferida nos seguintes termos (e-STJ, fls. 557-565):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. JUÍZO DE RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. IMPUGNAÇÃO EFETIVADA. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. TRATAMENTO DE REABILITAÇÃO MULTIDISCIPLINAR. LIMITAÇÃO DAS SESSÕES. CONDUTA ABUSIVA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. PRECEDENTES. COBRANÇA DE COPARTICIPATAÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO, MEDIANTE JUÍZO DE RECONSIDERAÇÃO, PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões do agravo interno (e-STJ, fls. 569-580), a agravante argumenta que "não pode ser obrigada a pagar tratamento alternativo e fora do rol se a lei expressamente afasta essa obrigação" (e-STJ, fl. 573).
+Acrescenta que o número de sessões de terapia anuais deve ser limitado.
+Ressalta que o Rol da ANS é taxativo.
+Afirma que deve ser afastada a Súmula 211/STJ.
+Pleiteia, ao final, a reconsideração da decisão ou o julgamento do recurso pelo Colegiado.
+Sem impugnação, conforme certificado à fl. 586 (e-STJ).
+No caso, verifica-se que merece reforma a decisão.
+Portanto, com apoio no art. 259 do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão de fls. 557-565 (e-STJ).
+Passo à análise do agravo em recurso especial.
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por Amil Assistência Médica Internacional S.A., com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal estadual assim ementado(e-STJ, fl. 424):
+PLANO DE SAÚDE. Ação de obrigação de fazer. Autor portador de "Amiotrofia Espinhal Distal ou Polineuropatia Genética Motora". Indicação de tratamento de reabilitação com equipe multidisciplinar. Recusa de cobertura pela operadora do plano de saúde. Recusa indevida. Abusividade nos termos dos arts. 14 e 51, IV e § 1º do CDC. Incidência da Súmula nº 102 do TJSP. Precedentes. Não comprovação pela ré da existência de profissionais habilitados em sua rede credenciada. Impossibilidade de limitação do custeio. Fornecimento/custeio de órtese. Pedido não formulado na ação. Sentença mantida. RECURSO DESPROVIDO
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 445-450).
+Inconformada, AMILinterpôs recurso especial, com fundamento naalíneaado permissivo constitucional, no qual alegou violação aos arts. 10, 4º, VII, e 12, IV, da Lei n. 9.656/1998; e 51, IV, do CDC.
+Afirmou não haver obrigatoriedade de cobertura de órtese e prótese não ligada a ato cirúrgico.
+Sustentou a legalidade da cláusula contratual que estipula limite de sessões a serem custeadas pelo plano de saúde anualmente.
+Pleiteou, subsidiariamente, a possibilidade de cobrança de coparticipação das consultas que excederem o limite estabelecido pela ANS.
+Contrarrazões às fls. 472-491 (e-STJ).
+O Tribunal de origem não admitiu o recurso especial, o que ensejou a interposição de agravo.
+Contraminutaàs fls. 509-506(e-STJ).
+Brevemente relatado, decido.
+A controvérsia do presente recurso refere-se à obrigatoriedade ou não de custeio de tratamento/material indicado pelo médico assistente da parte autora, diante da natureza do Rol de Procedimentos e Eventos em Saúde da ANS, se taxativo ou exemplificativo.
+No caso em análise, o Tribunal de Justiça, ao julgar a apelação, assim concluiu(e-STJ, fls. 425-426):
+O autor é portador de "Amiotrofia Espinhal Distalou Polineuropatia Genética Motora", patologia cujo tratamento indicado é a reabilitação multidisciplinar com fisioterapia motora para marcha e aquática, além de avaliação de órtese (fls. 33/34 e 37).
+Afirma o autor que solicitada a cobertura do tratamento, não houve resposta da ré. Por sua vez, a ré alega que não houve negativa e que dispõe de rede credenciada para o tratamento prescrito.
+Embora a ré alegue que dispõe de rede credenciada para a realização do tratamento do autor, não comprovou a existência de profissionais habilitados ou clínica especializada para o atendimento da sua grave moléstia.
+Assim, à míngua de comprovação de profissionais habilitados, deve providenciar o tratamento indicado ao autor, prevalecendo a prescrição médica de fls. 33/34 e 37.
+Ressalte-se que cabe ao médico que assiste o paciente a orientação terapêutica, não podendo os planos de saúde, salvo abusos, negar a cobertura, sob pena de colocar em risco a saúde do paciente.
+Além disso, inexistindo na rede credenciada os serviços de cobertura obrigatória necessários ao restabelecimento da saúde do paciente, o beneficiário não pode ser obrigado a custear seu tratamento. Nessas condições a escolha de profissional e estabelecimento fora da rede não é puramente potestativa.
+(..)
+Por outro lado, sob a perspectiva dos artigos 14 e 51, IV e §1º do Código de Defesa do Consumidor, qualquer disposição contratual limitativa do número de sessões de fisioterapia é nula e não pode prevalecer, não havendo razão para ser repassado ao beneficiário o custeio de serviços que necessariamente deveriam ser oferecidos na rede credenciada.
+Da análise do acórdão recorrido, constata-se que a conclusão a que chegou o Tribunal local foi no sentido de que serdescabida a negativa da operadora de cobertura a tratamento indicado pelo médico pelo simples fato de não estar inserido no rol da ANS.
+Entretanto, de acordo com o recente entendimento firmado na Segunda Seção do STJ, o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgados em 8/6/2022, DJe de 3/8/2022, sem grifo no original).
+Por ocasião do julgamento dos mencionados embargos de divergência, o Órgão Colegiado estabeleceu os seguintes parâmetros, os quais devem ser observados no julgamento do caso concreto:
+1- o R ol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que:
+(i) não tenha sido indeferida expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar;
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências;
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Todavia, constata-se que, no caso em análise, o julgamento das instâncias ordinárias não avançou para aferir o preenchimento dos requisitos acima elencados, limitando-se a reputar abusiva a limitação por entender que a escolha do tratamento do paciente é prerrogativa do profissional médico, concluindo pelo caráter meramente exemplificativo do rol de procedimentos da autarquia reguladora.
+Desse modo, considerando a impossibilidade do reexame das cláusulas contratuais e dos demais elementos fático-probatórios, em virtude dos óbices das Súmulas 5 e 7 do STJ, necessário que os autos retornem à instância originária de modo a possibilitar o reexame dos elementos dos autos e da necessidade de produção de outras provas, a fim de que se realize novo julgamento à luz da tese firmada pela Segunda Seção desta Corte Superior.
+Por fim, importa consignar que na pendência do julgamento do presente recurso, sobreveio a Lei 14.454/2022, alterando o art. 10 da Lei 9.656/1998 quanto à natureza do Rol da ANS, nos seguintes termos:
+"Art. 10 (..)
+(..)
+§ 12. O rol de procedimentos e eventos em saúde suplementar, atualizado pela ANS a cada nova incorporação, constitui a referência básica para os planos privados de assistência à saúde contratados a partir de 1º de janeiro de 1999 e para os contratos adaptados a esta Lei e fixa as diretrizes de atenção à saúde.
+§ 13. Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais." (NR)
+Assim, tendo em vista a retroatividade mínima da lei, havendo discussão nos autos acerca de tratamento de caráter continuado, caberá ao Juízo de origem observar os critérios estipulados na mencionada norma.
+Prejudicada a análise das demais questões suscitadas no recurso especial.
+Ante o exposto, em juízo de reconsideração da decisão de fls. 557-565 (e-STJ), conheço do agravo para dar parcial provimento ao recurso especial, para, cassando o acórdão recorrido e a sentença, determinar o retorno dos autos à instância originária a fim de que, em novo exame dos autos, avalie o preenchimento dos requisitos para o deferimento excepcional da cobertura reivindicada pela parte segurada, tal como delineados pela Segunda Seção do STJ, julgando o pedido inicial como entender de direito.
+Caso exista liminar concedida, ficam mantidos os seus efeitos até nova apreciação dos autos pelo magistrado de primeiro grau.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PROCEDIMENTO NÃO LISTADO NO ROL DA ANS. APLICAÇÃO DE PRECEDENTE DA SEGUNDA SEÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. NECESSIDADE DE RETORNO DOS AUTOS AO JUÍZO DE ORIGEM. AGRAVO CONHECIDO PARA DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL, EM JUÍZO DE RECONSIDERAÇÃO.
