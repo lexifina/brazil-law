@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. TESE RELEVANTE PARA O CORRETO DESLINDE DA CONTROVÉRSIA.
+1.A falta de enfrentamento de tese relevante para o correto deslinde da controvérsia importa nulidade por negativa de prestação jurisdicional, uma vez violado o art. 1.022 do CPC/2015.
+2.Agravo conhecido para dar provimento ao recurso especial.
+ACÓRDÃO
+Vistos, relatados e discutidos esses autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas, o seguinte resultado de julgamento:
+"A Turma, por unanimidade, conheceu do agravo para dar provimento ao recurso especial, nos termos do voto do Sr. Ministro-Relator."
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Humberto Martins.
+RELATÓRIO
+A Fundação Universidade Federal do Pampa - UNIPAMPA agrava da decisão denegatória de seguimento ao recurso especial interposto com fundamento no art. 105, inciso III, alínea "a", da Constituição da República, contra o acórdão prolatado pelo Eg. Tribunal Regional Federal da 4.ª Região, ementado assim:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. PROFESSOR DE ENSINO SUPERIOR. REQUISITOS PARA APOSSE. DOUTORADO. ÁREAS AFINS. AFINIDADE COMPROVADA. TITULAÇÃO ATENDIDA. DIREITO LÍQUIDO E CERTO. DEVER DE NOMEAÇÃO DA CANDIDATA. APELAÇÃO PROVIDA. SENTENÇA REFORMADA.
+1. A seleção dos candidatos no concurso público deve ser feita por intermédio da exigência de saberes e competências específicos (requisitos materiais), a fim de que sejam aprovados somente aqueles tenham o nível de capacitação necessário para o desempenho das atribuições próprias do cargo a ser provido, e não pelos diplomas (requisitos formais), que apenas certificam a capacitação já avaliada no certame.
+2. O administrador público não pode ser preciosista na análise documental, sob o pretexto de estar estritamente vinculado ao instrumento convocatório, pois tal agir acaba apenas obstaculizando desarrazoadamente a nomeação de candidatos que, mal ou bem, já foram selecionados conforme os critérios que o próprio gestor público livremente escolheu (Lei nº 9.784/99, art.2º).
+3. A aplicação do princípio da vinculação ao edital não deve macular os demais princípios constitucionais que regem a Administração Pública. Diante do disposto no art. 37, caput, da Constituição Federal, é evidente que negar aposse de candidato que, aprovado em concurso público, possui qualificação em área afim, vai de encontro aos postulados normativos da razoabilidade e da eficiência.
+Trata-se de demanda em que se discutia a pretensão ao provimento em cargo público ofertado em concurso cujo edital previa duas vagas para professor de ensino superior, na área de engenharia de aquicultura, com lotação no"campus" Uruguaiana.
+O edital previa como requisito a graduação em Engenharia de Aquicultura,em Engenharia de Pesca, em Engenharia Agrícola ou em Engenharia Agronômica, e doutorado na área de Zootecnia e Recursos Pesqueiros.
+Apenas a recorrida teve a inscrição deferida, e nesses moldes obteve a devida aprovação assim como a nomeação ao cargo, mas a posse foi contudo obstada porque não detinha titulação em nível de doutorado, conforme disposto em edital, embora dispusesse de doutorado em área afim a qual abrangia as áreas de zootecnia e de recursos pesqueiros.
+Apesar da denegação inicial, o Tribunal houve de reformar a sentença a fim de reconhecer o direito líquido e certo à posse no cargo.
+O recurso especial apregoa, com enfoque em fundamentos jurídico-normativos, apenas duas teses, e ambas envolvem o mesmo diploma legal, a saber,o art. 8.º, § 1.º, da Lei 12.772/2012, ou porque não teria havido o exame de tese veiculada com base nele, ou porque o Tribunal "a quo" deixara de aplicar a regra escrita a respeito da necessidade de apresentação de título de doutor em área exigida no edital.
+A inadmissibilidade fundou-se na descaracterização da preliminar e nas Súmulas 05 e o7 deste Tribunal Superior, tudo devidamente refutado na minuta do agravo.
+Parecer do Ministério Público Federal, lançado em e-STJ fls. 910/913, pelo desprovimento do recurso especial, conforme as razões sintetizadas assim:
+Recurso especial com agravo. Concurso público. Divergência sobre titulação exigida em edital. Não houve violação do art. 1022 do CPC, uma vez que o tribunal de origem se manifestou sobre todas as questões pertinentes à solução da causa. Aferir eventual desacerto das conclusões do tribunal de origem demandaria análise de provas, impossível em recurso especial, dada a incidência da Súmula 7 do STJ. Parecer pelo desprovimento do recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. TESE RELEVANTE PARA O CORRETO DESLINDE DA CONTROVÉRSIA.
+1.A falta de enfrentamento de tese relevante para o correto deslinde da controvérsia importa nulidade por negativa de prestação jurisdicional, uma vez violado o art. 1.022 do CPC/2015.
+2.Agravo conhecido para dar provimento ao recurso especial.
+VOTO
+O agravo dever ser conhecido porque impugnados os fundamentos adotados no juízo de admissibilidade, assim como o recurso deve ser provido no tocante à preliminar.
+A questão que primordialmente deveria ter sido examinada reflete o fato de que o Tribunal da origem reconheceu quea recorrida não cumprira o requisito editalício referente à exigência de doutorado emzootecnia ou recursos pesqueiros.
+No caso concreto, o acórdão impugnado reconhece que a candidata tinha doutorado em "ciência do solo", o que, segundo a tabela de áreas de conhecimento da CAPES, estaria ao lado da zootecnia e dos recursos pesqueiros dentro da mesma área "ciências agrárias".
+Essa premissa indica por si que a circunstância de uma grande área abranger três outras não significa necessariamente que tenham entre si correlação necessária a ponto de uma fazer as vezes da outra, e tanto assim que, com o perdão da obviedade, trata-se de três sub-áreas distintas, de maneira que o acórdão é silente quanto à explicitação desse ponto.
+Há mais: o próprio Tribunal reconhece mais adiante que arecorrida não preenche com exatidão os requisitos do edital, mas afasta a regra do edital com base na "razoabilidade do caso concreto" sem que isso, contudo, tampouco passe a mera alusão a conceito jurídico indeterminado:
+Logo, em que pese a titulação apresentada possa não preencher com exatidão e detalhes os requisitos exigidos no Edital, há que prevalecer o princípio da razoabilidade no caso concreto, evidenciando-se inconteste a capacitação da impetrante, de forma que a mesma, de fato, cumpre os requisitos para o almejado cargo.
+Tudo isso a mim configura a propalada negativa de prestação jurisdicional sobremaneira ante o explícito regramento do art. 8.º, § 1.º, da Lei 12.772/2012, que nessa esteira ao tratar do concurso para o ingresso na carreira de magistério superior prevê que o ingresso observe requisito de titulação de doutorado na área exigida no concurso, o que deixou de acontecer no casco concreto, sem qualquer atenção ao regramento referido.
+Assim,conheço do agravo para dar provimento ao recurso especial, nos termos dafundamentação.
+Quanto aos ônus sucumbenciais, não obstante o disposto no art. 85, § 11, do CPC/2015, e no Enunciado Administrativo n. 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), não são cabíveis no caso de julgamento de recurso pela cassação de acórdão por "error in procedendo" (AREsp 1.050.334/PR, de minha relatoria, Segunda Turma, julgado em 28/03/2017, DJe 31/03/2017).
+É o voto.
