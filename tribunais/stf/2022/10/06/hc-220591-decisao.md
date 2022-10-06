@@ -1,0 +1,37 @@
+DECISÃO:
+
+Ementa: Processual penal. Habeas corpus. Tráfico de drogas. Prisão preventiva. Prejuízo da impetração.
+
+1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que não conheceu do HC 755.189, do Superior Tribunal de Justiça (STJ).
+
+2. Extrai-se dos autos que o paciente foi preso em flagrante delito, acusado pelo tráfico de 116,53 g de maconha.
+
+3. Inconformada com a prisão, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo (TJ/SP). Indeferido seu processamento, sobreveio a impetração de HC no Superior Tribunal de Justiça. O Relator do HC 755.169, Ministro João Otávio de Noronha, não conheceu monocraticamente do writ.
+
+4. Neste habeas corpus, a parte impetrante alega ausência de fundamentação idônea para a decretação da prisão preventiva, ressaltando que “a primariedade, bons antecedentes e a pequena quantidade de drogas apreendida autorizam por hora a dúvida quanto ao reconhecimento da figura do tráfico privilegiado, sendo certo que se eventualmente o paciente vier a ser condenado pela figura típica, poderá desde o princípio cumprir sua pena em regime aberto, diverso do qual se encontra hoje, semelhante ao regime fechado!”.
+
+5. A defesa requer a concessão da ordem a fim de revogar a prisão processual do acionante. Subsidiariamente, pleiteia a substituição da custódia por outra medida cautelar.
+
+6. Decido.
+
+7. Não há como deixar de reconhecer o prejuízo da impetração.
+
+8. Este pedido de habeas corpus reproduz as razões apresentadas nos autos do HC 220.590, de minha relatoria, impetrado em favor do ora paciente. Ação constitucional em que concedi a ordem de ofício, nos seguintes termos:
+
+    “9. Sem prejuízo desse encaminhamento, a ordem deve ser concedida de ofício.
+
+    10. A prisão preventiva de paciente primário, um jovem com 21 anos de idade, acusado pelo tráfico de pequena quantidade de maconha (116,53 g) é contraproducente do ponto de vista da política criminal. Ademais, o mandado de prisão não apontou elementos concretos idôneos que evidenciem a real necessidade da custódia processual. Trata-se de decisão genérica, fundada sobretudo na gravidade abstrata do tráfico de drogas.
+
+    11. Nessas condições, não encontro no decreto de prisão preventiva a demonstração, empiricamente motivada, dos requisitos previstos no art. 312 do Código de Processo Penal (HC 109.449, Rel. Min. Marco Aurélio; e HC 115.623, Relª. Minª. Rosa Weber).
+
+    12. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus. Contudo, concedo a ordem de ofício para permitir que o paciente aguarde o julgamento da ação penal em liberdade, salvo se por outro motivo idôneo a segregação cautelar se fizer necessária, facultada a imposição das medidas cautelares diversas da prisão (art. 319 do CPP). “
+
+9. Diante do exposto, com fundamento no art. 21, inciso IX, do RISTF, julgo prejudicado o habeas corpus.
+
+    Publique-se.
+
+          Brasília, 6 de outubro de 2022.
+
+Ministro LUÍS ROBERTO BARROSO
+
+                            Relator
