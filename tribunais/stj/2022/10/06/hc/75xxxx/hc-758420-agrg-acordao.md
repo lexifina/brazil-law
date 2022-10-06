@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JOSÉ ANTÔNIO DA SILVA, condenado por roubo circunstanciado ao cumprimento de 5 anos e 4 meses de reclusão em regime semiaberto, interpõe agravo regimental contra a decisão da Presidência desta Corte, às fls. 85-86, que indeferiu liminarmente o habeas corpus, em razão da inviabilidade de supressão de instância.
+Em suas razões, afirma a defesa, preliminarmente, a ocorrência de ofensa ao princípio do colegiado, visto que o caso foi examinado monocraticamente; no mérito, defende que o paciente, embora condenado ao cumprimento de pena em regime semiaberto, teria direito ao aberto, com expedição do contramandado de prisão, em virtude das enfermidades que se encontraria acometido.
+Ouvido, manifestou-se o Ministério Público Federal pelo não provimento do agravo regimental (fls. 106-108).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. CONDENAÇÃO COM TRÂNSITO EM JULGADO. PRETENSÃO DE REGIME ABERTO DOMICILIAR. ALEGAÇÃO DE DOENÇA GRAVE E IMPOSSIBILIDADE DE TRATAMENTO NO ESTABELECIMENTO PRISIONAL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE COMPROVAÇÃO E AVALIAÇÃO PELO JUÍZO DAS EXECUÇÕES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A alegação da defesa de que o paciente estaria acometido de doença grave, hipótese que seria permitido o seu recolhimento em prisão domiciliar humanitária, não foi analisada pelo Tribunal de origem.
+2. Sob pena de supressão de instância, não há como avaliar, nesta oportunidade, a conveniência e adequação dessa medida, sobretudo porque depende de comprovação inequívoca não só do acometimento de doença grave, mas também de impossibilidade de tratamento no estabelecimento prisional.
+3. Com transito em julgado da condenação, fica justificada a expedição de mandado de prisão para o início do cumprimento da pena.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Como relatado, José Antônio da Silva foi condenado por roubo circunstanciado ao cumprimento de 5 anos e 4 meses de reclusão em regime semiaberto. Na origem, pretendeu a defesa obter o direito de o paciente ser colocado em regime aberto, diante das das enfermidades que estaria acometido; no particular, destacou o acórdão impugnado para não conhecer do habeas corpus (fl. 74):
+Oportuno destacar que apesar dos problemas de saúde invocados, pedidos de benefícios penais poderão ser posteriormente avaliados pelo Juiz das Execuções, após a prisão, não cabendo qualquer análise por ora, diretamente nesta Corte. Nessa parte, não se conhece da impetração.
+Como se observa, de fato a alegação da defesa de que o paciente estaria acometido de doença grave, hipótese que permitiria o seu recolhimento em prisão domiciliar humanitária, conforme entendimento desta Corte, não foi devidamente analisada pelo Tribunal de origem.
+Assim, não há como avaliar, nesta oportunidade, a conveniência e adequação dessa medida, sobretudo porque depende de comprovação inequívoca não só do acometimento de doença grave, mas também de impossibilidade de tratamento no estabelecimento prisional.
+Nesse sentido: "A despeito do entendimento jurisprudencial que permite a concessão da prisão domiciliar humanitária, mesmo em regime fechado ou semiaberto, quando o apenado estiver acometido de doença grave, no caso, conforme ressaltado pelas instâncias ordinárias, não restou comprovada a impossibilidade de assistência médica adequada na unidade prisional" (AgRg nos EDcl no RHC n. 157.864/PE, Rel. Ministro Joel Ilan Paciornik, DJe 19/5/2022, destaquei).
+E ainda: "Não se constata ilegalidade na decisão que indeferiu o pedido de prisão domiciliar, pois se aguarda o cumprimento do mandado de prisão para que o condenado possa ser encaminhado ao Juízo da Execução Penal competente para a realização de exames, para atestar sua real e atual condição de saúde" (AgRg no HC n. 725.722/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, DJe 20/5/2022) .
+Não menos importante é ressaltar que, na hipótese, mesmo que considerada a detração (tempo de prisão preventiva), não houve o cumprimento do lapso temporal para a progressão de regime, como assinalou o acórdão à fls. 72. Além disso, houve o trânsito em julgado, situação que justifica a expedição de mandado de prisão para início do cumprimento da pena.
+A propósito: "A expedição de mandado de prisão, até que se ultimem os procedimentos para cumprimento de pena em regime semiaberto, constitui decorrência da condenação com trânsito em julgado (art.105 - LEP e art. 674 - CPP)" (AgRg no RHC n. 148294/CE, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª Região, DJe 16/11/2021).
+À vista do exposto, nego provimento ao agravo regimental.
