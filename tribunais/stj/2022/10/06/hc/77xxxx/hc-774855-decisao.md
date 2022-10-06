@@ -1,0 +1,9 @@
+DECISÃO
+O presente habeas corpus, impetrado em nome de André Gustavo Andres - condenado a 4 anos e 2 meses de reclusão, em regime inicial semiaberto, e a 416 dias-multapela prática do crime de tráfico de drogas (273,35 g de maconha e 0,72 g de crack - fl. 27), atacando-se acórdão preferido pelo Tribunal de Justiça de São Paulo (fls. 42/62), que manteve a sentença prolatada na Ação Penal n. 0000088-45.2017.8.26.0583 (fls. 27/40), da 1ª Vara Criminal da comarca de Presidente Prudente/SP -, não deve ser conhecido.
+Isso porque, após consulta ao Sistema Integrado da Atividade Judiciária deste Superior Tribunal, verifica-se que foi impetrado o HC n. 472.061/SPem benefício do ora paciente, com o mesmo objeto (quantum de redução da causa de diminuição de pena do tráfico privilegiado) e em face do mesmo ato coator (Apelação n. 0000088-45.2017.8.26.0583).
+Assim, o fato deste writ constituir mera reiteração de pedidos já apreciados por esta Corte Superior impede o seu conhecimento. Se os pedidos veiculados neste habeas corpus foram efetivamente apreciados por esta Corte em outro processo, resta configurada a reiteração (AgRg no HC n. 469.846/PE, Ministro Ribeiro Dantas, Quinta Turma, DJe 13/8/2019). Confira-se julgados no mesmo sentido: AgRg no RHC n. 156.181/MS, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 24/2/2022; EDcl nos EDcl no AgRg no RHC n. 137.734/PR, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 11/3/2022; e AgRg na RvCr n. 4.101/RJ, Ministro Felix Fischer, Terceira Seção, DJe 1º/8/2018.
+Em razão disso, não conheço do presente writ.
+Publique-se.
+EMENTA
+PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (273,35 G DE MACONHA E 0,72 G DE CRACK). DOSIMETRIA. ALEGAÇÃO DE ILEGALIDADE NO QUANTUM DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA DO TRÁFICO PRIVILEGIADO (ART. 33, § 4º, DA LEI 11.343/2006). ANTERIOR IMPETRAÇÃO DO HC N. 472.061/SP. REITERAÇÃO DE PEDIDOS.
+Writ não conhecido.
