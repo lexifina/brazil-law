@@ -1,0 +1,24 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE QUALIFICADO. RECONHECIMENTO FOTOGRÁFICO. NULIDADE. MEDIDA LIMINAR INDEFERIDA NA ORIGEM. SÚMULA Nº 691/STF. SUPERAÇÃO. INVIABILIDADE. SUPRESSÃO DE INSTÂNCIA.
+1. Nos termos da Súmula nº 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada a presença de decisão teratológica ou desprovida de fundamentação, o que não ocorreu na espécie.
+2. Hipótese em que o processamento do presente writ implicaria inevitavelmente supressão de instância, uma vez que a pretensão de anulação da condenação, ante a ilegalidade no reconhecimento pessoal e a consequente ausência de provas para sustentar a condenação, é questão passível de indeferimento do pedido de liminar por demandar análise do próprio mérito da impetração, sobretudo quando afirmado na origem que não se encontram cumpridos os requisitos nessa etapa cognitiva sumaríssima.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Trata-se de agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus.
+Ressalta o agravante que a Súmula nº 691/STF "pode ser flexibilizada, pois a flagrante ilegalidade e abuso de poder, como pode ser visto na inicial, pois a r. Sentença de primeiro grau esta em afronta a jurisprudência desta casa sobre reconhecimento na face policial, sendo usada para condenação, e também nesta linha afronta ao art. 155 do CPP" (fls. 206-207).
+Acresce que "a inobservância do artigo 226 do Código de Processo Penal (CPP) invalida o reconhecimento do acusado feito na polícia, não podendo servir de base para a sua condenação, nem mesmo se for confirmado na fase judicial. Isso ocorreu em 27 de outubro de 2020, no julgamento do HC 598.886" (fl. 207).
+Requer, arrimado nesses fundamentos, o provimento do presente agravo regimental.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - A decisão agravada deve ser mantida por seus próprios fundamentos, extraindo-se desta (fls. 202-203):
+ ..  No caso, a pretensão de anulação da condenação, ante a ilegalidade no reconhecimento pessoal e a consequente ausência de provas para sustentar a condenação é questão passível de indeferimento do pedido de liminar, por demandar análise do próprio mérito da impetração, sobretudo no caso em tela, em que afirmado pelo Relator que não se encontram cumpridos os requisitos nesta etapa cognitiva sumaríssima, bem como não está demonstrada a ilegalidade manifesta.
+Com efeito, o Tribunal de origem não verificou de imediato, diante do exame sumário dos elementos que instruem o writ, os requisitos necessários à concessão da medida, entendendo, dessa forma, prudente a juntada das informações da autoridade apontada como coatora para análise do pedido.
+Assim, tendo em vista o exposto na decisão que indeferiu o pedido de liminar, não vejo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, uma vez ausente flagrante ilegalidade, cabendo ao Tribunal de origem a análise da matéria meritória.
+Outrossim, o processamento do presente writ implicaria inevitavelmente supressão de instância.
+Ante o exposto, indefiro liminarmente o habeas corpus. ..
+Como visto, ressaltou-se que "o processamento do presente writ implicaria inevitavelmente supressão de instância", uma vez que "a pretensão de anulação da condenação, ante a ilegalidade no reconhecimento pessoal e a consequente ausência de provas para sustentar a condenação é questão passível de indeferimento do pedido de liminar, por demandar análise do próprio mérito da impetração, sobretudo no caso em tela, em que afirmado pelo Relator que não se encontram cumpridos os requisitos nesta etapa cognitiva sumaríssima, bem como não está demonstrada a ilegalidade manifesta".
+Nos termos da Súmula nº 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada a presença de decisão teratológica ou desprovida de fundamentação, o que não ocorreu na espécie.
+Ante o exposto, nego provimento ao agravo regimental, mantendo incólume a decisão agravada.
+É o voto.
