@@ -1,0 +1,91 @@
+DECISÃO
+
+HABEAS CORPUS. IMPUGNAÇÃO A DECISÃO LIMINAR. VERBETE Nº 691 DA SÚMULA DO STF. MATÉRIA NÃO APRECIADA PELO ÓRGÃO APONTADO COMO COATOR. SUPRESSÃO DE INSTÂNCIA. CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. PROGRESSÃO A REGIME ABERTO: PREJUDICADO. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343, DE 2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. FATOS E PROVAS. REEXAME: INVIABILIDADE. AUSÊNCIA DE ILEGALIDADE. NEGATIVA DE SEGUIMENTO. PEDIDO LIMINAR PREJUDICADO.
+
+    1. Trata-se de habeas corpus impetrado contra decisão, proferida no Superior Tribunal de Justiça, pela qual o Vice-Presidente, no exercício da Presidência, indeferiu pedido liminar no HC nº 759.489/SP.
+
+    2. Colhe-se dos autos que a paciente foi condenada, em primeira instância, a 9 anos, 3 meses e 29 dias de reclusão, no regime inicial fechado, e 933 dias-multa, ante o crime do art. 33, caput, c/c o 40, inc. III, da Lei nº 11.343, de 2006 (tráfico de drogas com causa de aumento pela prática nas dependências de estabelecimento prisional). O Juízo determinou a manutenção de prisão domiciliar imposta à paciente.
+
+    3. O Tribunal de Justiça deu provimento, em parte, à apelação da defesa, para redimensionar a sanção para 7 anos, 9 meses e 10 dias de reclusão, no regime inicial fechado, e pagamento de 777 dias-multa.
+
+    4. Inconformada, a defesa impetrou o mencionado HC perante o STJ.
+
+    5. Neste habeas corpus, a defesa aponta a necessidade de restabelecimento da prisão domiciliar, ante a existência de filho menor de 12 anos de idade, o qual necessita dos cuidados maternos. Aponta preenchidos os requisitos para a incidência da causa de diminuição do § 4º do art. 33 da Lei de Drogas. Afirma cabível o regime aberto, caso concedida a mencionada redutora.
+
+    6. Requer, em âmbito liminar e no mérito, a concessão de prisão domiciliar e a incidência da causa de diminuição, com aplicação do regime aberto.
+
+    É o relatório.
+
+    Decido.
+
+    7. Consulta ao sítio eletrônico do Tribunal de Justiça revelou haver ocorrido o trânsito em julgado da condenação criminal, no processo nº 1500387-74.2019.8.26.0583, com baixa definitiva em 17/05/2022, tendo sido formalizada esta impetração apenas em 05/08/2022. A jurisprudência do Supremo Tribunal Federal consolidou-se no sentido da inviabilidade de utilização do habeas corpus como sucedâneo de revisão criminal, salvo em hipóteses de manifesta ilegalidade. Precedentes: RHC nº 203.506-AgR/ES, Rel. Min. Cármen Lúcia, Primeira Turma, j. 23/08/2021, p. 25/08/2021; HC nº 154.106-ED/MS, Rel. Min. Roberto Barroso, Primeira Turma, j. 29/06/2018, p. 06/08/2018; HC nº 135.239-AgR/SP, Rel. Min. Celso de Mello, Segunda Turma, j. 07/08/2018, p. 17/09/2018; e HC nº 161.656-AgR/SP, Rel. Min. Ricardo Lewandowski, Segunda Turma, j. 23/10/2018, p. 31/10/2018.
+
+    8. Mostra-se incabível a impetração, uma vez voltada contra decisão pela qual o Ministro Vice-Presidente, no STJ, indeferiu o pedido liminar.
+
+    9. Conforme o verbete nº 691 da Súmula do STF: “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar”.
+
+    10. Ademais, a questão suscitada neste habeas corpus relativa à prisão domiciliar não passou pelo crivo do STJ. No ato dito coator, o Ministro Relator, sem adentrar a matéria de fundo, limitou-se a afirmar a inviabilidade de superação do entendimento consolidado no verbete nº 691 da Súmula do STF, uma vez que a controvérsia ainda não fora analisada pelo Tribunal de Justiça. Além disso, quanto à causa de diminuição, ressaltou que o pedido liminar confunde-se com o mérito da impetração. A atuação originária do Supremo Tribunal Federal acarretaria supressão de instância e ampliação indevida da competência prevista no art. 102 da CRFB. Assim decidiram o Plenário e ambas as Turmas: HC nº 109.430-AgR/DF, Rel. Min. Celso de Mello, Tribunal Pleno, j. 10/04/2014, p. 13/08/2014; HC nº 164.535-AgR/RJ, Rel. Min. Cármen Lúcia, Segunda Turma, j. 17/03/2020, p. 20/04/2020; e HC nº 163.568/RS, Rel. Min. Marco Aurélio, Red. do Acórdão Min. Rosa Weber, Primeira Turma, j. 13/08/2019, p. 30/08/2019.
+
+    11. Verificada a inadequação da via eleita, eventual concessão da ordem de ofício é providência excepcional, a ser implementada somente se constatadas situações de flagrante ilegalidade, de abuso de poder ou mesmo de teratologia na decisão impugnada. Da análise das peças que instruem a impetração, no entanto, não vislumbro situação a autorizá-la.
+
+    12. Em consulta ao site do Tribunal de Justiça do Estado de São Paulo, em 30/09/2022, verificou-se que, nos autos do processo de execução da pena nº 0004007-24.2021.8.26.0576, o Juízo da Execução da Comarca de São José do Rio Preto concedeu à paciente a progressão ao regime aberto, em 16/08/2022, consignando o fato de ser a paciente “primária, a partir da data base para cálculo de 1/8 da pena, já cumpriu o lapso necessário, ostenta bom comportamento carcerário atestado pelo diretor do presídio dentro do lapso exigido, além disso preenche os demais requisitos exigidos no artigo 112, §3º da L.E.P.,estando apta à progressão a regime prisional mais brando” (e-doc. 18). Assim, quanto ao pedido de recolhimento domiciliar, verificada a progressão ao regime aberto, cumpre declarar o prejuízo.
+
+    13. Quanto à causa de diminuição, conforme o art. 33, § 4º, da Lei de Drogas, é viável a diminuição da pena, de 1/6 a 2/3, para o agente primário, sem antecedentes, que não se dedica a atividades delituosas nem integra organização criminosa.
+
+    14. O Juízo, na sentença condenatória, entendeu que a paciente não fazia jus à causa de diminuição do art. 33, § 4º, da Lei nº 11.343, de 2006, uma vez demonstrada a dedicação a atividades criminosas. Mencionou, além da natureza da droga transportada, a forma como estava acondicionada (quase 1 kg de cocaína, ocultada em meio a alimentos, de modo a dificultar sua visualização e a fiscalização pelo Estado) e a prática em estabelecimento prisional. Eis o trecho pertinente:
+
+    “(...) A aplicação do redutor descrito no artigo 33, § 4º, da Lei de Drogas é inadmissível. Embora a ré seja primária e de bons antecedentes, a natureza da droga transportada, a forma como esta estava acondicionada e como foi obtida e ainda o seu destino indicam que agia como longa manus de organização criminosa, o que desnatura o permissivo final necessário à concessão do benefício. (...)” (e-doc. 9, p. 3; grifos nossos).
+
+    15. A mesma ótica foi mantida pelo Tribunal de origem, no julgamento da apelação que, apesar de ter dado parcial provimento ao recurso, manteve o afastamento da benesse. Confiram-se os principais trechos:
+
+    “(...) Já em relação a Ana Caroline, cabe acrescentar que também estão ausentes os requisitos para a concessão do benefício, levando em conta a quantidade de entorpecente apreendido (03 pacotes de cocaína - 836,69g), além das condições do flagrante, cabendo acrescentar que restou configurado que não se trata de traficante eventual, mas sim, que se dedica a atividade criminosa, diante das circunstâncias gravíssimas do crime, praticado com dolo intenso e ousadia acima da média, uma vez que, mesmo sabendo que iria ser submetida à rigorosa revista, recebeu as drogas e tentou, com elas, ingressar para dentro do estabelecimento prisional, tudo a denotar envolvimento com a atividade criminosa.
+
+(...)
+
+    No mais, a pretensão de introduzir certa quantidade de entorpecentes em estabelecimento prisional, a fragilizar a segurança do local e dos agentes públicos que lá trabalham e induzir à quebra da disciplina além de prejudicar, se não impossibilitar, o alcance das finalidades preventiva e ressocializadora do cumprimento da pena (grifo nosso), as circunstâncias do fato se mostram extremamente desfavoráveis.
+
+    Esses elementos acima expostos mostram-se como circunstâncias idôneas para impedir a aplicação do benefício do redutor, uma vez que denotadora de que, para ter acesso a tamanha quantidade de entorpecentes, claramente se incorporou à organização criminosa (dentro e fora dos presídios), ou, no mínimo, tem se dedicado frequentemente à traficância, critério jurisprudencial encontrável tanto no Col. Supremo Tribunal Federal (RHC 117.867/MG rel. Min. Luiz Fux j. 22.10.2013), quanto no E. STJ (AgRg no AREsp 359.220/MG rel. Min. Maria Thereza de Assis Moura j. 3.9.2013 e AgRg no AREsp 180.580/MG mesma rel. j. 7.3.2013).
+
+(...)
+
+    Nesse ponto, veja-se que a Lei de Drogas faculta (grifo nosso) ao magistrado sem obrigar a concessão do redutor, estando ele livre ainda para estabelecê-lo no patamar que entender adequado, diante da análise do caso concreto, respeitando-se o princípio da individualização da pena. E no caso não caberia a aplicação da benesse em razão das características do crime apurado, que se revelou típico de quem se dedica às atividades criminosas, deixando, assim, de preencher um dos requisitos do citado dispositivo, além da quantidade de droga apreendida, fatores já mencionados.
+
+    Ora, ainda que não se tenham provas exatas, inconcussas, sobre a organização criminosa à qual pertencia, evidente que para vender e negociar drogas em qualquer lugar, a acusada deveria necessariamente estar inserida na estrutura da criminalidade estabelecida naquela região, ressabido que não há, ainda, “livre concorrência” na venda de drogas. E não se trata aqui de suposição ou mera conjectura, pois é de conhecimento público a disputa de pontos de venda de drogas entre organizações criminosas rivais. Notório que a atividade da traficância assumiu características de negócio, sendo hoje fonte de renda do crime organizado, até porque os responsáveis pela estruturação da venda de drogas controlando as etapas de produção, transporte e acondicionamento não confiariam a entrega a consumidor final a uma pessoa que não gozasse da confiança deles, ou que não tivesse com eles algum vínculo (grifo nosso).
+
+    Enfim, havendo indícios do envolvimento da acusada com a criminalidade, descabido o redutor previsto no § 4º do artigo 33 da Lei nº 11.343/06. Valendo trazer à colação, como já se decidiu, que a conduta social do réu, a quantidade e a natureza do entorpecente, além das circunstâncias em que a droga foi apreendida podem constituir o amparo probatório para o magistrado reconhecer a dedicação do réu à atividade criminosa (RHC nº 116.926/DF, rel. Min. Luiz Fux, j. em 20.8.2013; HC nº 116.541/ES, rel. Min. Gilmar Mendes, DJe 6.6.2013; HC nº 98.366/MG, rel. Min. Dias Toffoli, DJe 5.2.2010). (...)” (e-doc. 10, p. 14-18; grifos nossos).
+
+    16. Os contornos do delito, da forma como retratados nas instâncias ordinárias, demonstram não se tratar de traficante ocasional, mostrando-se imprópria a aplicação da minorante. As premissas estão em consonância com a jurisprudência do Supremo Tribunal Federal:
+
+    “Agravo regimental em habeas corpus. Penal. Condenação. Tráfico de drogas (art. 33 da Lei nº 11.343/06). Impetração dirigida contra decisão monocrática por meio da qual o relator do habeas corpus no Superior Tribunal de Justiça não conheceu do writ. Não exaurimento da instância antecedente. Apreciação per saltum. Impossibilidade. Afastamento da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas, ainda que desconsiderada condenação por idêntico delito não transitada em julgado, com base no reconhecimento da dedicação do agravante a atividades criminosas relacionadas ao tráfico de drogas. Natureza e quantidade da droga apreendida (442 g de maconha) associadas a outras circunstâncias (ausência de vínculo empregatício, envolvimento desde a menoridade em atos ilícitos, habitualidade do crime como modo de vida, agraciado com liberdade provisória voltou a delinquir, anterior reconhecimento em outro processo da benesse do redutor). Necessidade de incursão em fatos e provas para se divergir da conclusão das instâncias ordinárias. Abrandamento de regime de prisão. Impossibilidade. Quantidade e natureza da droga apreendida. Motivação idônea para justificar a imposição do regime inicial mais gravoso. Violação do princípio da colegialidade. Não ocorrência. Legitimidade da atuação do relator na forma regimental (RISTF, art. 21, § 1º). Precedentes. Agravo regimental não provido.”
+
+    (HC nº 208.727-AgR/SP, Rel. Min. Dias Toffoli, Primeira Turma, j. 28/03/2022, p. 29/04/2022; grifos nossos).
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS (ART. 33 DA LEI 11.343/2006). CAUSA ESPECIAL DE REDUÇÃO DE PENA (ART. 33, § 4º, DA LEI 11.343/2006). AFASTAMENTO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. ANÁLISE DE FATOS E PROVAS. IMPOSSIBILIDADE. REGIME INICIAL FECHADO. FUNDAMENTOS IDÔNEOS. 1. A jurisprudência do SUPREMO TRIBUNAL FEDERAL chancela o afastamento da causa de diminuição (art. 33, § 4º, da Lei 11.343/2006) quando presentes fatos indicadores da dedicação do agente a atividades criminosas, como, por exemplo, a) a conduta social do acusado, b) o concurso eventual de pessoas, e c) a quantidade de droga. 2. As instâncias ordinárias, soberanas na apreciação do conteúdo fático-probatório, assentaram que os elementos colhidos sob o crivo do contraditório indicaram a dedicação do paciente a atividades criminosas. O registro de que o agravante alugou imóvel para a prática do comércio de drogas, bem como a apreensão de considerável quantidade de entorpecente e petrechos destinados à divisão da substância, revelam que a hipótese não retrata quadro de traficância eventual ou de menor gravidade, circunstâncias para quais a minorante em questão deve incidir. (...). 5. Agravo regimental a que se nega provimento.”
+
+    (HC nº 161.482-AgR/SP, Rel. Min. Alexandre de Moraes, Primeira Turma, j. 15/10/2018, p. 19/10/2018; grifos nossos).
+
+    “Agravo regimental no recurso ordinário em habeas corpus. 2. Tráfico de drogas. 3. Não incidência do redutor previsto no artigo 33, § 4º, da Lei 11.343/2006 e a consequente impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos. 4. Paciente responsável por ponto de venda de entorpecentes. Dedicação ao tráfico de drogas. 5. Agravo regimental desprovido.”
+
+    (RHC nº 160.549-AgR/RR, Rel. Min. Gilmar Mendes, Segunda Turma, j. 22/02/2019, p. 28/02/2019; grifos nossos)
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. EXECUÇÃO PROVISÓRIA DA PENA. PREJUÍZO. IMPETRAÇÃO FORMALIZADA CONTRA DECISÃO MONOCRÁTICA DE INDEFERIMENTO LIMINAR EM HABEAS CORPUSENDEREÇADO A TRIBUNAL SUPERIOR. APLICAÇÃO DA SÚMULA 691/STF. NÃO CONHECIMENTO. INEXISTÊNCIA DE ILEGALIDADE EVIDENTE OU TERATOLOGIA. DESCABIMENTO DE SUPERAÇÃO SUMULAR. TRÁFICO DE DROGAS. MINORANTE. DEDICAÇÃO DO AGRAVANTE A ATIVIDADES CRIMINOSAS. REFORMATIO IN PEJUS. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. 1. Ordem concedida pelo STJ para conferir ao ora paciente o direito de recorrer em liberdade até o trânsito em julgado da sentença penal condenatória. Prejuízo. 2. A teor da Súmula 691/STF, é inadmissível a impetração de habeas corpus contra decisão denegatória de liminar, salvo em hipóteses excepcionais, em que o impetrante demonstre a existência de flagrante ilegalidade, abuso de poder ou teratologia na decisão hostilizada. 3. Inocorrência das hipóteses de excepcional superação do verbete sumular. 4. A causa de diminuição prevista no § 4º do art. 33 da Lei 11.343/2006 é aplicada desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. 5. Em se tratando de requisitos negativos a serem avaliados pelas instâncias próprias segundo as particularidades de cada caso, não há ilegalidade na decisão que não aplica a minorante com respaldo em evidências de se dedicar o agravante a atividades criminosas. 6. Reformatio in pejus. Inexistência. Precedentes. 7. Agravo regimental prejudicado quanto às alegações sobre a execução provisória da pena, e desprovido, no mais.”
+
+    (HC nº 154.090-AgR/SP, Rel. Min. Edson Fachin, Segunda Turma, j. 14/02/2022, p. 08/04/2022; grifos nossos).
+
+    17. Além disso, assentada, pelas instâncias antecedentes, a dedicação do paciente a atividades criminosas, a partir de dados concretos, alcançar conclusão diversa demandaria o reexame do acervo fático-probatório, incabível na via estreita do habeas corpus, conforme precedentes de ambas as Turmas: HC nº 105.163/SP (Rel. Min. Cármen Lúcia, Primeira Turma, j. 03/05/2011, p. 18/05/2011); HC nº 157.282-AgR/SP (Rel. Min. Roberto Barroso, Primeira Turma, j. 05/10/2018, p. 05/11/2018); HC nº 156.894-AgR/SP (Rel. Min. Dias Toffoli, Segunda Turma, j. 14/08/2018, p. 05/09/2018); e HC nº 195.352-AgR/RS (Rel. Min. Nunes Marques, Segunda Turma, j. 08/03/2021, p. 09/04/2021). A propósito, confira-se:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. UTILIZAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. TRÁFICO PRIVILEGIADO AFASTADO COM FUNDAMENTO NA DEDICAÇÃO A ATIVIDADE CRIMINOSA. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE DA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO. 1. É inviável a utilização de habeas corpus como sucedâneo de revisão criminal. 2. A existência de ações penais em curso constitui premissa idônea e válida a evidenciar a dedicação a atividade criminosa e justificar o afastamento do tráfico privilegiado. 3. É inadmissível, na via estreita do habeas corpus, a qual não comporta dilação probatória, o reexame, com vistas ao acolhimento da tese defensiva – aplicação do tráfico privilegiado (Lei n. 11.343/2006, art. 33, § 4º) –, do conjunto fático-probatório produzido nas instâncias ordinárias, que as levou a concluir pela “dedicação às atividades criminosas como verdadeiro meio de vida”. 4. Agravo interno desprovido.”
+
+    (HC nº 201.617-AgR/AM, Rel. Min. Nunes Marques, Segunda Turma, j. 23/11/2021, p. 17/12/2021; grifos nossos).
+
+    18. Tendo em vista a jurisprudência do Supremo Tribunal Federal, e não sendo caso de concessão da ordem de ofício, o processo deve ser extinto sem resolução de mérito.
+
+    19. Ante o exposto, nego seguimento ao habeas corpus, com base no art. 21, § 1º, do RISTF, ficando prejudicado o pedido liminar.
+
+    Publique-se.
+
+    Brasília, 8 de outubro de 2022.
+
+Ministro ANDRÉ MENDONÇA
+
+Relator
