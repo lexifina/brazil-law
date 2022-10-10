@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por HAPVIDA ASSISTENCIA MEDICA S.A, em face de decisão que conheceu do agravo para não conhecer dorecurso especial, em virtude da incidência das Súmulas N. 05 e 07/STJ e 283/STF (e-STJ fls. 467-474).
+Nas razões do agravo, a parte agravante alega, em síntese, que não há falar em incidência das Súmulas N. 05 e 07/STJ; ofensa aos arts. 421, 422 e 436, todos do Código Civil; a revaloração das provas carreadas aos autos; bem como a inaplicabilidade da Súmula N. 283/STF.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESTAÇÃO DE SERVIÇOS MÉDICOS. PEDIDO DE DENUNCIAÇÃO DA LIDE NÃO CONHECIDO. PRECLUSÃO. INEXISTÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DO ACÓRDÃO VERGASTADO. INCIDÊNCIA DA SÚMULA N. 283/STF. OBRIGAÇÕES CONTRATUAIS LIMITADA ÀS PARTES LITIGANTES. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULAS N. 05 E 07/STJ. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes colegas, a irresignação não merece acolhida.
+Inicialmente, verifica-se que o agravo em recurso especial foi conhecido para não conhecer do recurso especial, incidência das Súmulas N. 05 e 07/STJ e 283/STF(e-STJ fls. 467-474).
+A parte agravante, por sua vez, nas razões do agravo interno, alega, em síntese,que não há falar em incidência das Súmulas N. 05 e 07/STJ; ofensa aos arts. 421, 422 e 436, todos do Código Civil; a revaloração das provas carreadas aos autos; bem como a inaplicabilidade da Súmula N. 283/STF.
+Desta forma, percebe-se que razão não assiste à parte recorrente.
+Com efeito, resta cristalino que os argumentos expostos no bojo do agravo não são aptos a desconstituir a decisão recorrida, uma vez que, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, além da aplicabilidade do Enunciado N. 283/STF,mostra-se cristalina a incidência das Súmulas N. 05 e 07/STJ à presente demanda.
+Ora, quanto à alegada viabilidade do instituto da denunciação da lide, destaca-se que a irresignação da parte ora recorrente, de fato,não merece guarida, uma vez que a conclusão do aresto de que não merece conhecimento o "pedido recursal referente a denunciação a lide da UNIAO FEDERAL, com a posterior remessa destes autos a Justiça Federal, pois tal tema foi objeto de exaustiva análise por parte desta Turma Cível nos autos do Agravo de Instrumento nº. 0721746-81.2018.8.07.0000, cuja decisão foi mantida pelo egrégio Superior Tribunal de Justiça (ID. 22572173)", não foi impugnada, de forma específica, pela parte ora agravante, no bojo do recurso especial.
+Desta forma, considerando que o argumento supracitado é capaz de sustentar a conclusão exarada no aresto impugnado,resta cristalina a incidência, ao caso em tela, do óbice constante da Súmula N. 283/STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. CANCELAMENTO DE PROTESTO. DUPLICATA MERCANTIL. INDENIZAÇÃO POR DANOS MORAIS. OFENSA AO ART. 231, § 1º, DO NCPC. PROCESSO DIGITALIZADO. PRAZO EM DOBRO. FALTA DE IMPUGNAÇÃO ESPECÍFICA A FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA Nº 283 DO STF. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Existindo argumento capaz de manter o acórdão impugnado por suas próprias pernas, não havendo o ataque específico a tal ponto, colhe-se a incidência, por analogia, da Súmula nº 283 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido.
+4. Agravo interno não provido.
+(AgInt no REsp 1866536/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/03/2021, DJe 18/03/2021) - g. n.
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PREVIDÊNCIA PRIVADA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. CUMPRIMENTO DE SENTENÇA. DEPÓSITO JUDICIAL. GARANTIA DO JUÍZO. INCIDÊNCIA DA MULTA DO ART. 475-J DO CPC/1973. PRECEDENTES. 4. AGRAVO IMPROVIDO.
+1. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+3. De fato, "na fase de cumprimento de sentença, o montante da condenação ao pagamento de quantia certa será acrescido de multa no percentual de dez por cento se o devedor não o efetuar de forma espontânea no prazo de quinze dias, conforme estabelece o artigo 475-J do Código de Processo Civil de 1973" (AgInt no AREsp 1.617.412/SE, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 25/5/2020, DJe 4/6/2020).
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 1704912/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021) - g. n.
+Outrossim, itera-seque, afastaras conclusões do v. acórdão, mormente quanto ao fato de que (a) "os direitos e as obrigações foram assumidos exclusivamente entre o INSTITUTO DE MEDICINA NUCLEAR e a HAPVIDA,não tendo a UNIAO/Aeronáutica assumido qualquer encargo nas negociações feitas por eles relativas aos serviços ofertados", bem como de que (b) se extrai "das cláusulas 6ª e 9ª que a responsabilidade de arcar pelos serviços prestados pelo INSTITUTO DE MEDICINA NUCLEAR E ENDOCRINOLOGIA DE BRASILIA recai exclusivamente sobre a agravante HAPVIDA, não sendo vislumbrado qualquer disposição que atraia uma eventual responsabilidade subsidiária pela a UNIAO/Aeronáutica", demandaria a reinterpretação de cláusulas contratuais, e o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor das Súmulas N. 05 e 07/STJ.
+Destarte, o desprovimento do recurso é medida que se impõe, não merecendo prosperar a irresignação da parte ora agravante.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+É o voto.
