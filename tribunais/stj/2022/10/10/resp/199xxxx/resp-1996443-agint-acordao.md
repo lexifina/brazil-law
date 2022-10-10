@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática (fls. 51.349-51.356, e-STJ) que conheceu parcialmente do Recurso Especial, tão somente quanto à violação dos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negou-lhe provimento.
+Os agravantes alegam:
+Contudo, a v. decisão agravada ao entender que para modificar o entendimento firmado na origem demandaria "incursão no contexto fático-probatório dos autos" só ratifica que o v. acórdão recorrido violou efetivamente o artigo 1.022, inciso II, c/c artigo 489, §1º, inciso III, ambos do CPC, uma vez que nos Embargos de Declaração interposto no Tribunal de origem, os recorrentes alegaram que houve omissão do v. acórdão sobre a sucumbência recíproca, pois os ônus sucumbenciais devem ser distribuídos tendo como parâmetro o pedido de execução e o pedido dos embargos, examinando-se, a partir daí o decaimento de cada parte, a incidir na espécie o dispositivo do 86 do CPC (..).
+Com efeito, o entendimento firmado na v. decisão agravada só comprova que a negativa de prestação jurisdicional é manifesta, e por essa razão, o v. acórdão merece Além disso, a v. decisão agravada não se manifestou corretamente sobre a violação ao artigo 86 do CPC, levando-se em conta o decaimento de cada pedido, senão veja-se:
+(..)
+A v. decisão agravada entendeu que para modificar o entendimento firmado no v. acórdão recorrido seria necessária incursão no contexto fático probatório. Tal conclusão só ratifica a negativa de prestação jurisdicional pelo Tribunal de origem suscita nas razões do especial (..).
+Pleiteiam a reconsideração do decisum ou a submissão do feito à Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CARACTERIZADA. SUCUMBÊNCIA. DISTRIBUIÇÃO. SÚMULA 7/STJ.
+1. Não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+2. O Tribunal de origem dirimiu a controvérsia nos seguintes termos: "Além de serem acolhidos dois dos três argumentos apresentados pela UFC - juros de mora e exclusão de servidores já beneficiados em outras ações, registre-se que os cálculos apresentados pela IES foram reputados como corretos pela Contadoria Judicial. Nessa senda, não há como se fazer uma distribuição dos ônus da sucumbência nos termos do art. 86 do CPC, pois nos processos executivos, cujo valor haja controvérsia, a base de cálculo deve ser a diferença entre o proveito econômico auferido e o resistido. Não merece guarida a pretensão dos Recorrentes, portanto" (fls. 25.791-25.793,e-STJ).
+3. A apreciação, em Recurso Especial da distribuição do honorários sucumbenciais, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como a existência de sucumbência mínima ou recíproca, exige o revolvimento de fatos e provas , procedimento inadmissível na via do Recurso Especial, por esbarrar no óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 9.9.2022.
+Conforme consignado na decisão agravada, constato que não se configura a ofensa aos arts. 1.022 e 489 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Dessarte, como se observa de forma clara, não se trata de omissão, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da parte ora recorrente.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração. Esse não é o objetivo dos aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas que lhe forem trazidos à tutela jurisdicional, no momento processual oportuno, conforme o art. 1.022 do CPC.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO. ALEGAÇÃO DE VIOLAÇÃO OS ARTS. 489, § 1º, IV, 1.022, II, E 1.013 E INCISOS, TODOS DO CPC/15. INOCORRÊNCIA DE DANOS MORAIS.
+I - Na origem, trata-se de ação de rito ordinário ajuizada pelos autores, em face da UNIFESP (PRO-REITORIA DE ASSUNTOS ESTUDANTIS - CAMPUS DE SÃO JOSÉ DOS CAMPOS), com pedido de antecipação dos efeitos da tutela para determinar o restabelecimento de beneficio de auxílio -permanência em favor dos autores, estudantes do curso de Ciência e Tecnologia, bem como para anular as faltas escolares dos autores, permitindo a matrícula dos mesmos para o primeiro semestre de 2014. Na sentença, julgou-se improcedentes os pedidos. No Tribunal a quo, a sentença foi mantida.
+II - Sobre a alegação de malferimento aos arts. 489, § 1º, IV, 1.022, II, e 1.013 e incisos, todos do CPC/15, o Tribunal a quo, na fundamentação do decisum, entendeu que não se verifica a ocorrência de danos morais, razão pela qual é descabida a condenação da apelante ao pagamento de indenização.
+III - Conforme demonstrado dos excertos colacionados do aresto vergastado, o Tribunal a quo dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia travada nos autos, em que pese em sentido diverso da pretensão dos recorrentes, o que não significa, necessariamente, ausência de prestação jurisdicional.
+IV - A oposição dos embargos declaratórios caracterizou, tão somente, a irresignação dos embargantes diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+V - O julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+VI - Descaracterizada a alegada omissão, se tem de rigor o afastamento da suposta violação do art. 1022, II, do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça.
+VII - Agravo interno improvido.
+(AgInt no AREsp 1406990/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/6/2019)
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+Além de serem acolhidos dois dos três argumentos apresentados pela UFC - juros de mora e exclusão de servidores já beneficiados em outras ações, registre-se que os cálculos apresentados pela IES foram reputados como corretos pela Contadoria Judicial.
+Nessa senda, não há como se fazer uma distribuição dos ônus da sucumbência nos termos do art. 86 do CPC, pois nos processos executivos, cujo valor haja controvérsia, a base de cálculo deve ser a diferença entre o proveito econômico auferido e o resistido. Não merece guarida a pretensão dos Recorrentes, portanto.
+A apreciação, em Recurso Especial da distribuição do honorários sucumbenciais, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como a existência de sucumbência mínima ou recíproca, exige o revolvimento de fatos e provas , procedimento inadmissível na via do recurso especial. por esbarrar no óbice da Súmula 7/STJ.
+Nessa linha:
+AGRAVO INTERNO EM RECURSO ESPECIAL. OMISSÃO INEXISTENTE. CUMPRIMENTO DE SENTENÇA. ACORDO PREJUDICIAL. HONORÁRIOS CONTRATUAIS. JUROS MORATÓRIOS. RELAÇÃO CONTRATUAL. TERMO INICIAL. CITAÇÃO. SUCUMBÊNCIA. DISTRIBUIÇÃO. SÚMULAS NºS 5, 7 E 83/STJ. INOVAÇÃO RECURSAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A matéria relativa à impossibilidade de arbitramento de honorários de sucumbência somente foi suscitada no presente recurso, caracterizando inovação recursal, o que impossibilita o exame do ponto no Superior Tribunal de Justiça.
+3. A análise do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.947.573/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/8/2022, DJe de 26/8/2022.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. COISA JULGADA. VIOLAÇÃO. REEXAME DE FATOS E PROVAS. ACÓRDÃO RECORRIDO. ALICERCE NÃO COMBATIDO. SÚMULA 283/STF. SUCUMBÊNCIA MÍNIMA. AFERIÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VERBA ADVOCATÍCIA. ALEGADA IRRISORIEDADE. FALTA DE PREQUESTIONAMENTO. SÚMULA 356/STF. ALEGADO DISSÍDIO JURISPRUDENCIAL. ANÁLISE INVIABILIZADA.
+1. A alteração das conclusões adotadas pela Corte de origem acerca dos juros determinados no título executivo judicial transitado em julgado, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Outrossim, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido ao afastar o pleito pela aplicação de juros pro rata die, esbarrando, assim, na Súmula 283/STF.
+3. Quanto à distribuição dos ônus sucumbenciais, aferir, no caso, a proporção do decaimento de cada parte de modo a se concluir pela ocorrência de sucumbência recíproca ou mínima exigiria nova análise de aspectos fáticos da causa, providência vedada em recurso especial (Súmula 7/STJ).
+4. O Tribunal de origem não se pronunciou sobre a tese suscitada no especial apelo a respeito da irrisoriedade da verba sucumbencial sob o enfoque do valor do excesso de execução verificado, tampouco essa alegação constou dos aclaratórios opostos para suprir eventual omissão. Incidência da Súmula 356/STF.
+5. O não conhecimento do especial pela senda da alínea a do permissivo constitucional inviabiliza, por conseguinte, a análise do alegado dissídio pretoriano.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.523.546/PR, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 16/11/2021, DJe de 19/11/2021.)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA. INVERSÃO DO ÔNUS DA PROVA. MATÉRIA FÁTICA. SÚMULA 7 DO STJ. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280 DO STF. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULAS 283 E 284 DO STJ.
+1. Na origem, trata-se de saber se a recorrida, Companhia de Trens Metropolitanos de São Paulo - METRÔ, possui direito à imunidade tributária recíproca.
+2. Nas razões do recurso de Agravo Interno, a fundamentação da decisão monocrática recorrida foi refutada apenas de forma genérica, repetindo-se as razões do Recurso Especial, o que repercute na inadmissibilidade do recurso, visto que o STJ possui firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, das Súmulas 283 e 284 do STJ. Nessa linha: AgInt no AREsp 1.779.726/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1º.7.2021.
+3. No que concerne à alegada afronta ao art. 1.022 do CPC, a insurgência não merece prosperar, porque o acórdão recorrido examinou a controvérsia referente à inversão do ônus da prova, fundamentando suficientemente sua convicção, não havendo falar em negativa de prestação jurisdicional porque inocorrente qualquer dos vícios previstos no referido dispositivo legal. Os Embargos de Declaração não se destinam ao reexame de satisfatória prestação jurisdicional.
+4. O STJ tem entendimento consolidado de que a distribuição do ônus probatório pelas instâncias ordinárias é matéria estritamente fático-probatória, a atrair a incidência da Súmula 7/STJ.
+5. Agravo Interno não provido.
+(AgInt no AREsp n. 1.867.210/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 14/9/2021, DJe de 13/10/2021.)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes, não há prover o Agravo que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
