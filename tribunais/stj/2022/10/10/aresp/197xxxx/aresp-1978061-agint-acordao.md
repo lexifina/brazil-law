@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ATACADÃO  CONSTRUIR  DE  VR  COMÉRCIO  DE  MATERIAIS  DE  CONSTRUÇÃO  LTDA.  e  OUTROS  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  em  virtude  da  incidência  do  óbice  da  Súmula  nº  7/STJ  e  da  deficiência  na  comprovação  do  dissídio  jurisprudencial  (fls.  172/174  e-STJ).
+Os  embargos  de  declaração opostos  foram  rejeitados  (fls.  195/196  e-STJ).
+Em  suas  razões  (fls.  199/201  e-STJ  ),  os  agravantes  sustentam  a  inaplicabilidade  do  óbice  da  Súmula  nº  7/STJ  e  reiteram  a  alegação  de  ofensa  ao  art.  28,  §  2º,  I  e  II,  da  Lei  nº  10.931/2004.
+A  parte  contrária  apresentou  impugnação  às  fls.  204/213  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSO  CIVIL.  TÍTULO  EXECUTIVO  EXTRAJUDICIAL.  CERTEZA.  LIQUIDEZ.  REEXAME.  ACERVO  FÁTICO - PROBATÓRIO.  NECESSIDADE.  SÚMULA  Nº  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Na hipótese, é  inviável  a  este  Tribunal  Superior  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  no  tocante  à  certeza  e  liquidez  do  título  executivo  extrajudicial  sem  a  análise  dos  fatos  e  das  provas  dos  autos,  o  que  atrai  a  aplicação  da  Súmula  nº  7/STJ.
+3.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Nas  razões  recursais  (fls.  97/101  e-STJ),  os  ora  agravantes  apontam  a  violação  do  art.  28,  §  2º,  I  e  II,  da  Lei  nº  10.931/2004  ao  argumento  de  que
+"(..)  o  documento  juntado  pelo  agravado,  denominado  "demonstrativo  de  índice",  nada  demonstra,  sendo  impossível  a  impugnação  adequada,  quanto  aos  valores  cobrados,  o  que  também  retira  a  liquidez  e  certeza  da  cobrança,  sendo  este  requisito  indispensável  nesta  espécie  de  ação  judicial"  (fl.  99  e-STJ).
+Contudo,  como  já  asseverado  na  decisão  recorrida,  o  tribunal  de  origem,  após  analise  detalhada  dos  documentos  colacionados  aos  autos,  concluiu  que  "o  exequente  além  de  apresentar  o  título,  anexou  o  demonstrativo  discriminado  do  débito  nos  indexadores  17  e  18  dos  autos  originários,  o  que  consubstancia  a  execução  proposta,  preenchendo  todos  os  requisitos  do  título  executivo  extrajudicial"  (fl.  75  e-STJ).
+Ademais,  ao  analisar  os  embargos  de  declaração  opostos,  a  Corte  local  reafirmou  que,  "ao  contrário  do  alegado,  a  certeza,  liquidez  e  exigibilidade  estão  claras  com  os  documentos  carreados  aos  autos,  como  se  colaciona  (indexadores  11,  17  e  18  dos  autos  originários)"  (fl.  93  e-STJ).
+Nesse  contexto,  o  acolhimento  da  pretensão  recursal  no  que  diz  respeito  à  certeza  e  liquidez  do  título  executivo  extrajudicial  demandaria,  necessariamente,  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  o  enunciado  da  Súmula  nº  7/STJ.
+No  mesmo  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AUTOS  DE  AGRAVO  DE  INSTRUMENTO  NA  ORIGEM  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  DOS  AGRAVANTES.
+1.  As  questões  postas  em  discussão  foram  dirimidas  pelo  Tribunal  de  origem  de  forma  suficiente,  fundamentada  e  sem  omissões,  devendo  ser  afastada  a  alegada  violação  aos  artigos  489  e  1.022  do  CPC/15.Consoante  entendimento  desta  Corte,  não  importa  negativa  de  prestação  jurisdicional  o  acórdão  que  adota,  para  a  resolução  da  causa,  fundamentação  suficiente,  porém  diversa  da  pretendida  pelo  recorrente,  decidindo  de  modo  integral  a  controvérsia  posta.  Precedentes.
+2.  "Para  fins  do  art.  543-C  do  CPC/73:  A  Cédula  de  Crédito  Bancário  é  título  executivo  extrajudicial,  representativo  de  operações  de  crédito  de  qualquer  natureza,  circunstância  que  autoriza  sua  emissão  para  documentar  a  abertura  de  crédito  em  conta-corrente,  nas  modalidades  de  crédito  rotativo  ou  cheque  especial.  O  título  de  crédito  deve  vir  acompanhado  de  claro  demonstrativo  acerca  dos  valores  utilizados  pelo  cliente,  trazendo  o  diploma  legal,  de  maneira  taxativa,  a  relação  de  exigências  que  o  credor  deverá  cumprir,  de  modo  a  conferir  liquidez  e  exeqüibilidade  à  Cédula  (art.  28,  §  2º,  incisos  I  e  II,  da  Lei  n.  10.931/2004)"  (REsp  1.291.575/PR,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  SEGUNDA  SEÇÃO,  julgado  em  14/08/2013,  DJe  02/09/2013).  Incidência  da  Súmula  83/STJ.
+2.1.  A  reforma  do  aresto  originário,  quanto  ao  preenchimento  dos  requisitos  da  certeza,  liquidez  e  exigibilidade  demandaria  o  reexame  de  fatos  e  provas.  Incidência  da  Súmula  7/STJ.
+3.  Agravo  interno  desprovido"  (AgInt  no  AREsp  2.017.109/MG,  Rel.  Ministro  MARCO  BUZZI,  Quarta  Turma,  julgado  em  27/6/2022,  DJe  de  30/6/2022  -  grifou-se).
+"AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  EMBARGOS  À  EXECUÇÃO.  1.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  2.  TÍTULO  EXECUTIVO  EXTRAJUDICIAL.  NÃO  PREENCHIMENTO  DOS  REQUISITOS.  AUSÊNCIA  DE  LIQUIDEZ,  CERTEZA  E  EXIGIBILIDADE.  QUADRO  FÁTICO  DELINEADO  PELO  ACÓRDÃO  RECORRIDO.  SÚMULA  7/STJ.  3.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Verifica-se  que  o  Tribunal  de  origem  analisou  todas  as  questões  relevantes  para  a  solução  da  lide,  de  forma  fundamentada,  não  havendo  que  se  falar  em  negativa  de  prestação  jurisdicional.
+2.  Com  amparo  no  acervo  probatório  e  no  contrato  firmado  entre  as  partes,  a  Corte  estadual  concluiu  que  o  Termo  de  Confissão  de  Dívida  que  embasa  a  execução  não  se  encontra  revestido  dos  requisitos  de  liquidez,  certeza  e  exigibilidade.  Rever  tal  conclusão  esbarraria  nos  óbices  das  Súmulas  n.  5  e  7  do  STJ.
+3.  Agravo  interno  desprovido"  (AgInt  no  REsp  1.731.838/MT,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  18/3/2019,  DJe  de  22/3/2019  -  grifou-se).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
