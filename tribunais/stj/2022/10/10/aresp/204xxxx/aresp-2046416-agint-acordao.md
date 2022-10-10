@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1.  Trata-se  de  agravo  interno  interposto  pelo  ESTADO  DO  TOCANTINS  contra  decisão  que  não  conheceu  de  seu  recurso  especial.
+2.  Em  suas  razões  recursais,  a  parte  agravante  aduz  que  a  matéria  posta  nos  autos  tem  cunho  estritamente  legal,  referindo-se  especificamente  sobre  a  impossibilidade  de  o  Poder  Judiciário  conceder  aumento  remuneratório  a  servidores  públicos  sem  respaldo  legal,  sob  pena  de  violação  aos  arts.  20,  21  e  22  da  Lei  Complementar  n.  101/2000  (Lei  de  Responsabilidade  Fiscal),  afinal,  determinou  o  pagamento  de  DATA  BASE  a  servidor  a  despeito  de  não  haver  previsão  legal  específica  para  "retroativo"  (fl.  344).
+3.  Pugna,  desse  modo,  pela  reconsideração  da  decisão  ora  atacada  ou  pela  apresentação  do  feito  à  Turma  julgadora  para  que  seja  dado  provimento  ao  recurso  especial.
+4.  É  o  relatório.
+EMENTA
+  PROCESSUAL  CIVIL  E  ADMINISTRATIVO.  AGRAVO  INTERNO.  SERVIDOR  PÚBLICO  ESTADUAL  DA  SAÚDE.  RESTABELECIMENTO  RETROATIVO  DA  GUEM  -  GRATIFICAÇÃO  DE  URGÊNCIA  E  EMERGÊNCIA.  SÚMULA  284  DO  STF.  ACÓRDÃO  DEVIDAMENTE  FUNDAMENTADO.  AGRAVO  INTERNO  A  QUE  SE  NEGA  PROVIMENTO.
+1.  O  Tribunal  de  origem  decidiu  que  quanto  aos  impeditivos  da  LRF,  devem  ser  pautados  pela  Administração  no  momento  da  concepção  da  norma  instituidora.  A  partir  da  vigência,  não  há  que  se  falar  em  limitação  de  gastos  com  pessoal,  por  se  tratar  de  direito  adquirido.
+2.  O  Superior  Tribunal  de  Justiça  já  se  manifestou  no  sentido  de  ser  inadmissível  o  recurso  especial  que  apresente  razões  dissociadas  do  quadro  fático  e  das  premissas  jurídicas  expostos  no  acórdão  recorrido,  é  o  caso  dos  autos.  Na  hipótese  incide,  por  analogia,  o  enunciado  sumular  284/STF,  que  estabelece:  é  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia.
+3.  Agravo  interno  a  que  se  nega  provimento.
+VOTO
+1.  Não  obstante  a  irresignação  da  parte  agravante,  não  foram  trazidos  argumentos  capazes  de  desconstituir  o  decisum  agravado.
+2.  Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou:
+Desta  maneira,  impõe-se  que  o  pagamento  retroativo  dos  reajustes  gerais  dos  anos  de  2015  a  2018,  sejam  realizados  conforme  as  Leis  Estaduais  nos  2.985,  de  2015,  3.174,  de  2016,  3.370,  de  2018  e  3.371,  de  2018,  no  mês  de  maio  de  cada  ano,  respectivamente.
+Lado  outro,  tem-se  que  a  limitação  orçamentária  do  Estado,  a  queda  de  arrecadação,  bem  como  a  necessária  observância  do  teto  previsto  na  Lei  de  Responsabilidade  Fiscal  (LRF),  no  que  tange  às  despesas  com  pessoal  dos  entes  públicos,  não  podem  servir  de  justificativa  para  o  não  cumprimento  de  direitos  adquiridos  pelo  servidor  público,  reconhecidos  por  lei,  portanto,  blindados  como  garantia  constitucional.
+A  disponibilidade  financeira  deve  ser  resguardada  no  momento  de  concepção  da  Lei  de  Diretrizes  Orçamentárias  -  LDO,  que  tem,  compulsoriamente,  de  observar  as  despesas  legais,  impondo-se  a  gestão  da  Administração  da  alocação  das  receitas  entre  seus  diversos  setores,  para  garantir  os  adimplemento  dos  direitos  dos  servidores,  sob  pena  de,  além  de  violar  o  direito  adquirido,  incidir  em  transgressão  ao  Princípio  de  Legalidade,  um  dos  pilares  da  Administração  Pública,  cuja  inobservância  pode  caracterizar  ato  de  improbidade  do  gestor.
+Quanto  aos  impeditivos  da  Lei  de  Responsabilidade  Fiscal,  devem  ser  pautados  pela  Administração  no  momento  da  concepção  da  norma  instituidora.  A  partir  da  vigência,  não  há  que  se  falar  em  limitação  de  gastos  com  pessoal,  por  se  tratar  de  direito  adquirido  (fl.  197)
+3.  O  Superior  Tribunal  de  Justiça  já  se  manifestou  no  sentido  de  ser  inadmissível  o  recurso  especial  que  apresente  razões  dissociadas  do  quadro  fático  e  das  premissas  jurídicas  expostos  no  acórdão  recorrido,  é  o  caso  dos  autos.  Na  hipótese  incide,  por  analogia,  o  enunciado  sumular  284/STF,  que  estabelece:  é  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia.  A  propósito,  cito  os  seguintes  julgados  desta  Corte  Superior,  naquilo  que  interessa:
+TRIBUTÁRIO.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  (..).  RAZÕES  RECURSAIS  DISSOCIADAS  DO  JULGADO.  SÚMULA  284/STF.
+(..)
+3.  É  inadmissível  o  recurso  especial  que  apresenta  razões  dissociadas  do  quadro  fático  e  das  premissas  jurídicas  expostos  no  acórdão  recorrido.  Incidência  da  Súmula  284/STF  ("É  inadmissível  o  recurso  extraordinário,  quando  a  deficiência  na  sua  fundamentação  não  permitir  a  exata  compreensão  da  controvérsia.").
+(..)
+7.  Agravo  interno  conhecido  parcialmente  para,  na  parte  conhecida,  negar-se-lhe  provimento  (AgInt  nos  EDcl  no  AREsp  1.700.429/RJ,  Rel.  Ministro  SÉRGIO  KUKINA,  PRIMEIRA  TURMA,  julgado  em  26/4/2021,  DJe  29/4/2021  -  sem  destaques  no  original).
+PROCESSUAL  CIVIL.  ADMINISTRATIVO.  CONVÊNIO.  MODERNIZAÇÃO  DA  GUARDA  MUNICIPAL.  EXECUÇÃO.  NÃO  COMPROVAÇÃO.  RESSARCIMENTO.  MUNICÍPIO.  INTIMAÇÃO  ELETRÔNICA  DA  SENTENÇA.  DEFICIÊNCIA  NA  FUNDAMENTAÇÃO.  RAZÕES  DISSOCIADAS  DOS  FUNDAMENTOS  DO  ACÓRDÃO.  APLICAÇÃO  DA  SÚMULA  N.  284  DO  STF.
+(..)
+III  -  A  jurisprudência  do  Superior  Tribunal  de  Justiça,  é  firme  no  sentido  de  que  se  o  recorrente  apresenta  razões  dissociadas  dos  fundamentos  adotados  pelo  acórdão  recorrido,  o  recurso  especial  é  deficiente  na  sua  fundamentação,  o  que  atrai  a  aplicação  por  analogia  da  Súmula  n.  284  do  STF.
+(..)
+VIII  -  Agravo  interno  improvido  (AgInt  no  REsp  1.806.873/PE,  Rel.  Ministro  FRANCISCO  FALCÃO,  SEGUNDA  TURMA,  julgado  em  23/11/2020,  DJe  25/11/2020  -  sem  destaques  no  original).
+4.  Diante  dessas  considerações,  nega-se  provimento  ao  agravo  interno.
+5.  É  o  voto.
