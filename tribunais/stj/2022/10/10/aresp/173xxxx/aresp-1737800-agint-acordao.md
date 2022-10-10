@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Cuida-se de agravo interno ajuizado em face da decisão de fls. 364/366 e-STJ.
+A parte agravante sustenta que a Súmula n. 7/STJ não constitui obstáculo ao conhecimento do recurso especial. Afirma que não efetuou a conduta delituosa descrita no 168, § 1º, II, do Código Penal.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. REEXAME DE PROVAS. SÚMULA7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): A decisão recorrida julgou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AÇÃO INDENIZATÓRIA - EMBARGOS DECLARATÓRIOS - ESCLARECIMENTOS - DETERMINAÇÃO INSTAURAÇÃO DO JUÍZO PARA DE INQUÉRITO POLICIAL - APURAÇÃO DE EVENTUAL CRIME DE APROPRIAÇÃO INDÉBITA CABIMENTO - ALIENAÇÃO DO BEM DEPOSITADO - ATO ATENTATÓRIO DA DIGNIDADE DA JUSTIÇA - EMBARGOS DA AUTORA REJEITADOS - EMBARGOS E DO RÉU ACOLHIDOS, SEM EFEITO MODIFICATIVO.
+O recorrente, ora agravante, alegou violação dos artigos 774 do Código de Processo Civil de 2015 e 168, § 1º, II, do Código Penal. Sustentou ser indevida a aplicação de multa processual, destacando que: "quanto ao entendimento do órgão Colegiado "a quo" no tocante à conduta ser classificada como "ato atentatório à dignidade da Justiça" com todo respeito, merece reparo" (e-STJ, fl. 203).
+Defendeu que: "no caso telado, inexistiu resistência injustificável da parte executada ao cumprimento das determinações do Magistrado e nesse sentido desajustada a imposição de sanção por ato atentatório à dignidade da Justiça; inteligência dos arts. 600, III, e 601 do CPC/73, com correspondência aos artigos 774, IV do CPC/15" (e-STJ ,fl. 206).
+Aduziu não existir a conduta tipificada no artigo 168, § 1º, II, do Código Penal, destacando que "segundo entendimento da melhor doutrina e de nossas Cortes de Justiça o que inclui o E. STJ, não é proprietário aquele que, ao retomar a posse do bem, através de busca e apreensão, não pode ficar com a coisa para si, estando obrigado a vendê-la a terceiros, cujo preço assim obtido também não é seu senão na medida de seu crédito (razão de que foi apenas e sempre um credor), devendo repassar o saldo ao devedor, que o recebe somente por ser o proprietário. Não sendo o credor (financeira) o proprietário, não poderia ele ter dado a coisa em depósito. Ainda que o fosse, o contrato de depósito também não se constituiu porque a obrigação do depositário, que é a de restituir a coisa, igualmente não existe, pois o pagamento do débito elimina a hipótese de restituição" (e-STJ, fl. 220).
+Ao aplicar a multa processual em estudo, a Corte local, com base na análise de fatos e provas levados aos autos concluiu pela ocorrência de ato atentatório à dignidade da justiça por parte do agravante, registrando que (e-STJ, fl. 180):
+Por seu turno, quanto à determinação do juizo de medida com caráter administrativo, consistente na instauração de inquérito policial, para apuração de eventual crime de apropriação indébita cometida pelo executado, tem cabimento, com base no art. 5º, inciso II, do Código de Processo Penal, em razão do descumprimento do encargo de depositário. No mais, comete ato atentatório à dignidade da justiça o devedor/executado que, imbuído de má-fé pratica qualquer das condutas previstas no art. 774, do Código de Processo Civil. Assim, a alienação pelo executado do bem depositado, porquanto representa ato atentatório à dignidade da justiça, sujeita à aplicação da respectiva multa.
+Com efeito, a revisão da conclusão adotada na origem, para que se ateste a ausência de má-fé a justificar o afastamento da multa imposta, é medida que encontra veto na Súmula 7/STJ, por demandar necessário reexame de fatos e provas. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECLARATÓRIA CUMULADA COM REPETIÇÃO DE INDÉBITO E INDENIZATÓRIA. PROVA PERICIAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. PLEITO INDENIZATÓRIO. DANO MORAL. DESCABIMENTO. APLICAÇÃO DE MULTA POR LITIGÂNCIA DE MÁ-FÉ. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+(..)
+6. A alteração da conclusão do Tribunal de origem sobre a litigância de má-fé da agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7/STJ.
+7. Agravo interno a que se nega provimento
+(AgInt no AREsp 1614772 / MS, Relator: Ministro RAUL ARAÚJO, QUARTA TURMA, Julgamento, 26/10/2020, DJe 24/11/2020).
+No que se refere à tese de ausência de conduta típica condizente com crime de apropriação indébita, cumpre destacar que as razões de recurso devem ser destinadas ao juízo próprio, da esfera penal, caso venha a surgir um processo penal contra a parte agravante, o que não se verifica na hipótese. No caso, houve a determinação por parte do juízo singular, de instauração de inquérito para verificação da prática de eventual crime de apropriação indébita por parte do agravante, e contra essa específica determinação a parte não se manifestou, limitando-se a tecer sua defesa à demonstração da atipicidade da conduta delituosa como se o presente processo se tratasse de processo penal. Respectivas questões sequer foram tratadas na origem, justamente por não haver a formação de uma ação penal, e não poderiam ser discutidas na oportunidade, tendo em vista se tratar a presente demanda de ação de natureza civil, bem como por ausência de prequestionamento.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
