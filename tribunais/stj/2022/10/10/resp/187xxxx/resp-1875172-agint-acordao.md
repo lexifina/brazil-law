@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 614):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE COMANDO NORMATIVONO DISPOSITIVO INDICADO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
+O agravante sustenta, em suma, que:
+i) houve omissão do tribunal a quo,pois, mesmo após a oposição de Embargos de Declaração, a Corte insistiu em manter o seu entendimento fundamentado em norma revogada e em dispositivo que sequer se aplica à natureza da Agravante, uma Cooperativa de Trabalho(fl. 623);
+ii)o fato de não ter se pronunciado expressamente sobre os dispositivos não significa que eles não foram analisados. O pedido da ação foi que se reconhecesse o direito da Agravante de não se sujeitar à exigência do PIS/Folhaquando realizar a dedução das sobras na base de cálculo do PIS/Faturamento, tal qual exigido nos normativos da Receita Federal. A partir do momento em que o r. acórdão negou o pedido por entender que a previsão legal está contida nas Leis nºs 10.637/02 e 10.676/03, fatalmente afastou-se o pedido da Agravante de ofensa ao princípio da legalidade. A questão foi devidamente analisada e prequestionada(fl. 624);
+iii)nos pontos em que o Tribunal a quoefetivamente analisou o mérito da demanda e decidiu por julgar de forma contrária à tese defendida pela Agravante, houve sim a expressa manifestação no Recurso Especial, não havendo que se falar emofensa à Súmula n. 283 do STF (fl. 626); e
+iv)quanto ao dissídio, não sendo aplicáveis as Súmulas citadas na decisão agravada ao caso dos autos, fatalmente devem ser apreciados os dissídios jurisprudenciais, posto que adequados a embasar o Recurso Especial interposto. (fl. 626)
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/15. NÃO OCORRÊNCIA.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CONTIDO NO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1.Tendo sido o recurso interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+2. Afasta-se a alegada violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3.A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 211/STJ.
+4.A ausência de impugnação a fundamento que, por si só, respalda o resultado do julgamento proferido pela Corte de origem impede a admissão do recurso especial. Incide ao caso a Súmula 283/STF.
+5. Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+6.Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado n. 3/2016/STJ.
+O presente recurso nãomerece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Com efeito, afasta-se a alegada violação doartigo1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+Na hipótese, assim se manifestou o Tribunal a quo no acórdão integrativo às fls. 394-396:
+No caso em análise, as razões dos embargos revelam a irresignação da embargante com o mérito da decisão atacada, situando-se no descompasso supostamente havido entre o Acórdão e as provas dos autos, vício que não se pode sanar pela via dos aclaratórios. Se o que aembargante busca, na realidade, é rediscutir o mérito da decisão, não há como prover osembargos.
+O Superior Tribunal de Justiça decidiu que as Unimeds têm natureza dúplice (são cooperativasno aspecto constitutivo formal, e operadoras de plano de saúde no viés econômico -operacional)e, por isso, não se enquadram no inciso IV do art. 13 da MP 2.158-35/2001 c/c o art. 15 da Lei 9.532/1997, pois não são associações sem fins lucrativos (REsp 829458/MG, relator para o acórdão ministro Herman Benjamin, Segunda Turma, DJe de 24/11/2015).
+A incidência da contribuição ao PIS quanto a essas sociedades cooperativas, assim, encontra fundamento no artigo 2º, § 12, da Lei 9.715/1998, segundo o qual as sociedades cooperativas,além da contribuição sobre a folha de pagamento mensal, pagarão, também, a contribuição calculada na forma do inciso I, em relação às receitas decorrentes de operações praticadas com não associados.
+A esse respeito, o voto condutor foi claro ao aduzir, in verbis:
+ ..
+Apesar do art. 13 da MP 1858-6/99 prever que, dentre outras entidades,somente a Organização das Cooperativas Brasileiras (OCB) e as Organizações Estaduais de Cooperativas estivessem sujeitas à contribuição do PIS/PASEP sobre a folha de salários, isso não implica na impossibilidade de as demais sociedades cooperativas sofrerem atributação nos mesmos moldes, dada a manutenção da vigência do art. 2Q,§ 1º, da Lei n. 9.715/98.
+ ..
+Acerca da dedução da base de cálculo do PIS sobre o faturamento quanto às sobras apuradasna Demonstração do Resultado do Exercício, a decisão embargada destacou que:
+ ..
+A MP 66/02, posteriormente convertida na Lei n. 10.637/02 e que instituiu o regime não cumulativo para o PIS, possibilitou a dedução da base de cálculo do PIS sobre o faturamento quanto às sobras apuradas na Demonstração do Resultado do Exercício, antes da destinação para a constituição do Fundo de Reserva e do Fundo de Assistência Técnicaprevistos no art. 28 da Lei n. 5.764/71. Igual regramento foi estipulado pela MP 101/02, posteriormente convertida na Lei n. 10.676/03, referentes ao PIS/PASEP e à COFINS devidas pelas sociedades cooperativas em geral. Os dois dispositivos legais expressamente ressaltam que a possibilidade de dedução deve se dar "sem prejuízo do disposto no art. 15 da Medida Provisória n. 2.158-35/01", o que pressupõe seguir as mesmas condiçõesestabelecidas por aquela norma - qual seja -, a incidência do PIS/PASEP também sobre a folha de salários caso se proceda à dedução. Harmoniza-se, assim, a nova hipótese de dedução ao regime já instituído pela legislação vigente.
+ ..
+ ..
+Não houve nenhuma obscuridade, contradição ou omissão a viciar a decisão, tendo se manifestado de forma clara em relação aos pontos colocados pela Embargante.
+No tocante ao fim recursal de prequestionamento da matéria, ressalto que o CPC/2015 aduz,em seu artigo 1.025, que se consideram incluídos no Acórdão os elementos que o embargante suscitou, ainda que os Embargos de Declaração sejam inadmitidos ou rejeitados, caso o Tribunal Superior considere existentes erro, omissão, contradição ou obscuridade.
+Da mesma forma, basta que a questão suscitada tenha sido debatida e enfrentada no corpo do acórdão, sendo desnecessária a indicação de dispositivo legal ou constitucional (STF, RTJ152/243; STJ, Corte Especial, RSTJ 127/36; ver ainda: RSTJ 110/187).
+Ante o exposto, conheço dos presentes Embargos de Declaração e nego-lhes provimento.
+É como voto.
+Como se vê,o o órgão julgador, de forma clara e coerente, externoufundamentação adequada e suficiente à conclusão do acórdão embargado, não havendo que se falar em violação do art. 1.022 do CPC/15.
+No mais, noque concerne aos artigos3º, 9º, I, 97 e 114 do CTN (e a tese a eles vinculada), verifica-se quenão foram apreciados pela Corte de origem, inclusive após terem sido opostos os embargos de declaração, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento.
+Desse modo, correta a aplicação da Súmula 211 do STJ.
+Ressalta-se que nos termos do art. 1.025 do CPC/15, não há falar em prequestionamento ficto se a alegada matéria não foi discutida na origem e não foi verificada nesta Corte a existência de erro, omissão ou obscuridade.
+Ademais, oagravante sustenta não ser hipótese para a aplicação do enunciado da Súmula 283/STF.
+Ocorre que o recurso especial não apresentou argumentação contra a seguinte fundamentação contida no acórdão recorrido, reforçado pelo acórdão integrativo à fls. 394:
+O Superior Tribunal de Justiça decidiu que as Unimeds têm natureza dúplice (são cooperativasno aspecto constitutivo formal, e operadoras de plano de saúde no viés econômico -operacional)e, por isso, não se enquadram no inciso IV do art. 13 da MP 2.158-35/2001 c/c o art. 15 da Lei9.532/1997, pois não são associações sem fins lucrativos (REsp 829458/MG, relator para oacórdão ministro Herman Benjamin, Segunda Turma, DJe de 24/11/2015)
+A referida fundamentação, por si só, mantém o resultado do julgamento e a sua não impugnação implica inadmissão do recurso especial.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 283/STF.
+Por fim, segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
