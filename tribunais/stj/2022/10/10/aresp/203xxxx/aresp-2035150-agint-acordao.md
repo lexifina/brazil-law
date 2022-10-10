@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ADELIANO  DOS  PASSOS  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  não  conheceu  do  recurso  especial  em  virtude  da  aplicação  das  Súmulas  nº  7/STJ  e  nº  284/STF.
+Nas  presentes  razões  (fls.  705/710,  e-STJ),  o  agravante  afirma  que  não  pretende  o  reexame  de  provas,  mas , sim,  a  correta  aplicação  do  disposto  no  artigo  de  lei  apontado  como  violado.
+Além  disso,  sustenta que  "(..) o  Recurso  Especial  não  traz  nenhuma  dúvida  de  qual  seja  a  matéria  recorrida  e  as  razões  invocadas  para  a  reforma  da  sentença,  não  havendo  qualquer  fundamento  para  aplicação  da  súmula  284  do  STF  ao  caso  telado"  (fl.  708,  e-STJ).
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+A  parte  contrária  apresentou  impugnação  (fls.  713/728,  e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  INDENIZATÓRIA.  CONSÓRCIO.  COISA  JULGADA.  EXTINÇÃO.  ART.  485,  V,  DO  CPC/2015.  REEXAME.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Na  hipótese,  rever  o  entendimento  firmado  pelas  instâncias  ordinárias  acerca  da  caracterização  ou  não  da  coisa  julgada  material  demandaria  a  análise  de  fatos  e  provas  dos  autos,  procedimento  inviável  em  recurso  especial  pelo  óbice  da  Súmula  nº  7/STJ.  Precedentes.
+3.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+No  recurso  especial  (fls.  625/633,  e-STJ),  o  recorrente  aponta  negativa  de  vigência  do  art.  502  do  Código  de  Processo  Civil de 2015,  sustentando,  em  síntese,  que  não  há  falar  em  coisa  julgada  material,  tendo  em  vista  que  a  causa  de  pedir  da  presente  demanda  não  é  idêntica  àquela  que  justificou  a  propositura  de  demandas  anteriores.
+Ressalta  que,  nos  termos  do  art.  337,  §  2º,  do  CPC/2015,  a  identidade  de  demandas  se  configura  "(..) somente  na  ação  que  possui  as  mesmas  partes,  a  mesma  causa  de  pedir  e  o  mesmo  pedido"  (fl.  631,  e-STJ),  circunstância  inexistente  no  caso  dos  autos.
+Com  efeito,  as  conclusões  do  tribunal  de  origem  acerca  do  mérito  da  demanda  decorreram  inquestionavelmente  da  análise  do  conjunto  fático-probatório  carreado  aos  autos,  o  que  se  pode  aferir  da  leitura  dos  fundamentos  do  julgado  atacado,  ora  colacionados,  na  parte  que  interessa:
+"(..)
+ De  acordo  com  a  inicial,  diante  do  inadimplemento  praticado  pelo  autor,  a  ré  deveria  lhe  devolver  o  saldo  referente  ao  valor  atual  de  mercado  dos  imóveis  alienados  fiduciariamente  em  seu  favor,  o  que  não  fez,  devendo  ser  julgada  procedente  a  pretensão  inicial,  a  fim  de  que  a  ré  seja  condenada  à  reparação  do  dano  material  que  lhe  foi  impingido.
+Sucede  que,  como  bem  restou  observado  na  origem,  tal  pretensão  já  foi  objeto  de  anterior  ação  de  cobrança  ajuizada  pelo  autor  (processo  n.  001/1.08.0320660-0),  a  qual  foi  julgada  improcedente  (fls.  17/22  do  doc.  18  do  evento  2  do  feito  originário),  tendo  em  vista  a  acordo  atinente  ao  valor  dos  imóveis  feito  pelas  partes,  sendo  imperiosa  a  manutenção  da  extinção  do  feito,  com  fulcro  no  artigo  485,  inciso  V,  do  Código  de  Processo  Civil,  em  razão  da  coisa  julgada.
+Cumpre  destacar  que  a  única  diferença  entre  a  referida  ação  de  cobrança  e  a  presente  demanda  é  a  nominação,  pois,  em  verdade,  em  ambos  os  processos,  o  autor  buscou/busca  receber  a  diferença  pecuniária  que  afirma  lhe  ser  devida  em  razão  de  os  imóveis  alienados  fiduciariamente  à  ré  terem  sido  encaminhados  para  leilão  e  posteriormente  adjudicados  por  valor  inferior  ao  de  mercado,  o  que,  segundo  o  alegado  por  aquele,  contraria  disposição  contratual  prevista  no  instrumento  de  confissão  de  dívida  firmado  pelas  partes.
+Transcrevo,  por  sua  relevância,  a  sentença  proferida  nos  autos  da  ação  de  cobrança  n.  001/1.08.0320660-0.
+(..)
+Tal  decisum,  por  ocasião  do  julgamento  da  apelação  cível  n.  70035800424,  foi  mantido  neste  grau  de  recurso  (fls.  24/25  e  01/08  dos  docs.  21  e  22  do  evento  1  do  feito  originário)
+(..)
+Acrescento,  ainda,  que,  além  de  o  julgamento  mencionado  ter  transitado  em  julgado  em  16.05.2012  (fl.  09  do  doc.  22  do  evento  2  do  feito  originário),  a  ação  rescisória  ajuizada  pelo  autor  (processo  n.  700598686041)  também  foi  julgada  improcedente  (fls.  12/20  do  doc.  22  do  evento  2  do  feito  originário)  e  os  recursos  especial  e  extraordinário  interpostos  por  aquele  não  foram  conhecidos  (decisões  que,  também,  já  possuem  trânsito  em  julgado).
+Dessarte,  verificada  a  existência  de  coisa  julgada  (artigo  502  e  seguintes  do  Código  de  Processo  Civil),  imperiosa  a  manutenção  do  julgamento  de  extinção  proferido  na  origem "  (fls.  612/614,  e-STJ  -  grifou-se).
+Nesse  contexto,  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  o  enunciado  da  Súmula  nº  7 /STJ.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  MONITÓRIA.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULA  Nº  211/STJ.  FUNDAMENTO  NÃO  ATACADO.  SÚMULA  Nº  283/STF.  DISSÍDIO  JURISPRUDENCIAL.  DEMONSTRAÇÃO.  AUSÊNCIA.  COISA  JULGADA.  CARACTERIZAÇÃO.  REVISÃO.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL  PREJUDICADA.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  A  falta  de  prequestionamento  da  matéria  suscitada  no  recurso  especial,  a  despeito  da  oposição  de  declaratórios,  impede  seu  conhecimento,  a  teor  da  Súmula  nº  211  do  Superior  Tribunal  de  Justiça.
+3.  A  teor  da  Súmula  nº  283/STF,  aplicada  por  analogia,  não  se  admite  recurso  especial  quando  a  decisão  recorrida  assenta-se  em  mais  de  um  fundamento  suficiente,  e  o  recurso  não  abrange  todos  eles.
+4.  Na  hipótese,  rever  o  entendimento  firmado  pelas  instâncias  ordinárias,  acerca  da  caracterização  da  coisa  julgada  material,  demandaria  a  análise  de  fatos  e  de  provas  dos  autos,  procedimento  inviável  em  recurso  especial  pelo  óbice  da  Súmula  nº  7/STJ.
+5.  Consoante  iterativa  jurisprudência  desta  Corte,  a  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+6.  Agravo  interno  não  provido"  (AgInt  no  AREsp 1.620.593/PR,  Rel.  Ministro  RICARDO VILLAS BÔAS CUEVA,  Terceira  Turma,  julgado  em  31/8/2020,  DJe  3/9/2020 -  grifou-se).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSO  CIVIL.  COISA  JULGADA  MATERIAL.  EXISTÊNCIA  DE  COISA  JULGADA.  SÚMULA  7  DO  STJ.  EXTENSÃO  DOS  EFEITOS  DA  COISA  JULGADA.  SÚMULA  7  DO  STJ.
+1.  É  assente  nesta  Corte  Superior  que  "conquanto  seja  de  sabença  que  o  que  faz  coisa  julgada  material  é  o  dispositivo  da  sentença,  faz-se  mister  ressaltar  que  o  pedido  e  a  causa  de  pedir,  tal  qual  expressos  na  petição  inicial  e  adotados  na  fundamentação  do  decisum,  integram  a  res  judicata,  uma  vez  que  atuam  como  delimitadores  do  conteúdo  e  da  extensão  da  parte  dispositiva  da  sentença"  (REsp  795.724/SP,  Rel.  Ministro  LUIZ  FUX,  PRIMEIRA  TURMA,  julgado  em  1º/3/2007,  DJ  15/03/2007).
+2.  É  também  em  razão  desse  prisma  que  se  firmou  o  entendimento  de  que  em  "havendo  dúvidas  na  interpretação  do  dispositivo  da  sentença,  deve-se  preferir  a  que  seja  mais  conforme  à  fundamentação  e  aos  limites  da  lide,  em  conformidade  com  o  pedido  formulado  no  processo"  (REsp  818.614/MA,  Rel.  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  26/10/2006,  DJ  20/11/2006).
+3.  É  pacífica  a  jurisprudência  desta  Corte  Superior  no  sentido  de  que  a  alteração  das  conclusões  do  Tribunal  a  quo  no  tocante  à  existência  ou  não  de  coisa  julgada,  por  não  haver  nas  demandas  identidade  de  parte,  causa  de  pedir  e  pedido,  demandaria  o  revolvimento  fático-probatório  dos  autos,  o  que  encontra  óbice  na  Súm ula  7  do  STJ.
+4.  Consigna-se,  também  nesse  ponto,  que  o  acolhimento  da  pretensão  recursal,  no  sentido  de  rever  o  alcance  e  os  limites  da  coisa  julgada,  demandaria,  necessariamente,  a  incursão  na  seara  fático-probatória  constante  nos  autos,  situação  que  atrai  o  óbice  da  Súmula  nº  7  do  STJ.
+5.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.267.129/AM,  Rel.  Ministro  LUIS  FELIPE  SALOMÃO,  QUARTA  TURMA,  julgado  em  7/5/2019,  DJe  15/5/2019  -  grifou-se).
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
