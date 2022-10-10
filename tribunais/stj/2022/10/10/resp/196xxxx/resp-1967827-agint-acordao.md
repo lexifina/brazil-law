@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao recurso especial fundado no art. 105, III,aec, da Constituição Federal, que visa reformar acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+EXECUÇÃO. AÇÃO COLETIVA N. 2008.71.00.024897-9 (5043841-31.2012.4.04.7100). ALCANCE DO TÍTULO.
+1. A pretensão jurídica deduzida e da qual a UFRGS defendeu-se na ação coletiva em questão foi a declaração de validade e consequente implementação dos efeitos jurídicos de decisões administrativas individuais, documentadas uma a uma na ação de conhecimento, proferidas pelo órgão competente da universidade com base no Parecer 115 do Conselho Universitário. Estas decisões determinavam, uma a uma, o enquadramento dos servidores nelas nominados considerando a soma da carga horária de cursos de capacitação.
+2. Nos termos das restrições impostas pelo próprio sindicato autor, subjetivamente (por meio da lista anexa à inicial), e objetivamente (por meio do pedido de implementação de decisão administrativa individual), o título executivo alcança os servidores descritos na lista anexada à inicial e nas decisões proferidas nos processos administrativos individuais que sustentaram a pretensão na ação coletiva, decididos com base no Parecer 115 do CONSUN/UFRGS.
+3. Hipótese em que ausente o preenchimento desses requisitos.
+4. Apelação desprovida.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento, com fundamento no art. 255, § 4º, I e II, do RISTJ."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Excelências, com a máxima vênia, mas a r. decisão monocrática não pode ser mantida. A parte agravante demonstrou de maneira pormenorizada a existência de divergência jurídica entre o v. acórdão combatido e o julgado dessa C. Corte, tendo observado, no processo, todas as regras processuais atinentes a demonstração da diferenciação técnica das decisões.
+E mais uma vez repita-se, a discussão do caso em apreço é no sentido de ser possível o servidor, ainda que não inserido em listagem específica, ser abrangido por título executivo em ação capitaneada pelo Sindicato/Associação representante de sua categoria. Ou seja, a questão carece apenas de novo enquadramento jurídico, eis que é matéria de direito. Se não há a necessidade de revolvimento de fatos e provas, resta viabilizada insurgência autoral.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. ALCANCE DOTÍTULO EXECUTIVO. SINDICATO. SUBSTITUIÇÃO PROCESSUAL. REEXAME. NÃO CABIMENTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se ação de cumprimento de sentença oriunda de ação coletiva. A executada ofereceu impugnaçãoao cumprimentode sentença, alegando, em síntese, que a servidora exequente nãoestava abrangida pela ação coletiva. Na sentença, acolheu-se a impugnação.No Tribunala quo, a sentença foi mantida.
+II - Sobre a legitimidade da exequente para executar título formado em ação coletiva, a Corte a quo analisou as alegações da parte com os seguintes fundamentos: "No primeiro grau, ao ajuizar a ação o sindicato anexou lista de substituídos juntamente à inicial da ação coletiva e, mais do que isso, declinou na inicial que estava em juízo em nome daqueles nela nominados: (..) .. Assim sendo, a limitação daqueles que podem figurar como exequentes do título formado na ação n. 2008.71.00.024897-9 não decorre de uma limitação subjetiva expressa no julgado, mas da própria limitação objetiva decorrente do pedido nos moldes e limites nos quais este foi deduzido, o que impede o enquadramento de todo e qualquer servidor da UFRGS que não esteja dentro desses moldes e limites.Concluindo, considerando o contexto fático narrado no processo, além do pedido formulado pelo sindicato na demanda coletiva, não há como estendera abrangência do título executivo a outros servidores que não tenham constado, ou na lista de substituídos anexada com a inicial, ou na lista de processos administrativos cujo resultado o sindicato visava implementar coma ação coletiva."
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Sobre a legitimidade da exequente para executar título formado em ação coletiva, a Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+No primeiro grau, ao ajuizar a ação o sindicato anexou lista de substituídos juntamente à inicial da ação coletiva e, mais do que isso, declinou na inicial que estava em juízo em nome daqueles nela nominados: (..)
+ ..
+Assim sendo, a limitação daqueles que podem figurar como exequentes do título formado na ação n. 2008.71.00.024897-9 não decorre de uma limitação subjetiva expressa no julgado, mas da própria limitação objetiva decorrente do pedido nos moldes e limites nos quais este foi deduzido, o que impede o enquadramento de todo e qualquer servidor da UFRGS que não esteja dentro desses moldes e limites.
+Concluindo, considerando o contexto fático narrado no processo, além do pedido formulado pelo sindicato na demanda coletiva, não há como estendera abrangência do título executivo a outros servidores que não tenham constado, ou na lista de substituídos anexada com a inicial, ou na lista de processos administrativos cujo resultado o sindicato visava implementar coma ação coletiva.
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
