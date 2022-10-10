@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se deagravo de instrumento contra decisão que concedeu o prazo de quinze dias para que o autor esclareça o ajuizamento do cumprimento provisório de sentença "tendo em vista que o processo se encontra sobrestado por subsunção ao Tema 1.018 do STJ". No Tribunal a quo, a decisão foi mantida, conforme a seguinte ementa do acórdão:
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DESENTENÇA. OBRIGAÇÃO DE FAZER. IMPLANTAÇÃO DO BENEFÍCIO. POSSIBILIDADE. OBRIGAÇÃO DE PAGAR. CÁLCULO DOS VALORES EM ATRASO. DESCABIMENTO. PRECEDENTE DO STF. AGRAVO DE INSTRUMENTO DESPROVIDO.
+1 - O provimento jurisdicional condenatório nas ações previdenciárias, nas quais se discute a concessão de benefícios, dá ensejo à formação de duas obrigações. A primeira confere ao credor o direito de requerer a implantação do benefício, caracterizando-se juridicamente, portanto, como uma obrigação de fazer. A segunda, por sua vez, assegura o direito ao recebimento das prestações atrasadas do benefício, seguindo, portanto, o rito executivo estabelecido para as obrigações de pagar quantia certa.
+2 - Em se tratando de execução provisória relativa ao pagamento das parcelas em atraso, é relevante ainda destacar que esse procedimento processual não se aplica aos débitos da Fazenda Pública, os quais se submetem à ordem cronológica de pagamento de precatórios, nos termos do artigo 100, caput, da Constituição Federal, com a redação dada pela Emenda Constitucional nº 62/2009.
+3 - Restrita a pretensão do autor à apuração dos valores em atraso, na medida em que a questão relativa à opção pelo benefício mais vantajoso se encontra sobrestada, de rigor manter-se a decisão impugnada.
+4 - Agravo de instrumento interposto pelo autor desprovido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente apontou como violados os arts. 512, 520 e 535, § 4º, do CPC/2015, sustentando, em síntese a legalidade do cumprimento provisório de sentença contraa Fazenda Pública. Indica divergência jurisprudencial com julgado do Superior Tribunal de Justiça.
+Após decisum que inadmitiu o recurso especial, com base nas Súmulas n. 283 e 284 do STF, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida teve o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários à decisão recorrida.
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. OBRIGAÇÃO DE FAZER. IMPLANTAÇÃO DO BENEFÍCIO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que concedeu o prazo de quinze dias para que o autor esclareça o ajuizamento do cumprimento provisório de sentença "tendo em vista que o processo se encontra sobrestado por subsunção ao Tema 1.018 do STJ". No Tribunal a quo, a decisão foi mantida.
+II - Relativamente à alegação de violação dos arts. 512, 520 e 535, § 4º, do CPC/2015, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+III - Ainda, de acordo com o pacífico entendimento do Superior Tribunal de Justiça, o reconhecimento do prequestionamento ficto, previsto no art. 1.025 do CPC/2015, exige a verificação de relevante omissão no acórdão recorrido, não obstante a oposição de embargos de declaração.
+IV - Por sua vez, a demonstração da perpetuação da referida mácula demanda não apenas a prévia oposição de embargos declaratórios, mas também a indicação expressa da ocorrência de afronta ao art. 1.022 do CPC/2015, no bojo das razões do recurso especial, providência tampouco observada no caso em tela.
+V - Por fim, a leitura atenta da decisão recorrida revela que, na verdade, ela foi proferida com base no art. 100, caput, da Constituição Federal.
+VI - Conclui-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, notadamente o art. 100, caput, da Constituição Federal. Dessa forma, tem-se inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+VII - Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+VIII - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Relativamente à alegação de violação dos arts. 512, 520 e 535, § 4º, do CPC/2015, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ainda, de acordo com o pacífico entendimento do Superior Tribunal de Justiça, o reconhecimento do prequestionamento ficto, previsto no art. 1.025 do CPC/2015, exige a verificação de relevante omissão no acórdão recorrido, não obstante a oposição de embargos de declaração.
+Por sua vez, a demonstração da perpetuação da referida mácula demanda não apenas a prévia oposição de embargos declaratórios, mas também a indicação expressa da ocorrência de afronta ao art. 1.022 do CPC/2015, no bojo das razões do recurso especial, providência tampouco observada no caso em tela.
+Por fim, a leitura atenta da decisão recorrida revela que, na verdade, ela foi proferida com base no art. 100, caput, da Constituição Federal.
+Conclui-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, notadamente o art. 100, caput, da Constituição Federal. Dessa forma,tem-se inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+Nesse panorama, verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
