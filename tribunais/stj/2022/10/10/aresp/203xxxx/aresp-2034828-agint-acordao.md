@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno (fls. 1.198-1.215) interposto por GISELIA AUER contra decisão (fls. 1.190-1.195), desta relatoria, que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, aos seguintes fundamentos:
+a) inexistência de violação aos arts. 489 e 1.022 do CPC/15, uma vez que o eg. Tribunal a quo, em acórdão devidamente fundamentado, analisou os temas essenciais ao deslinde da controvérsia;
+b) no tocante à alegada ofensa aos arts. 277, 282, §1º, 283, 302, 371, 375 e 479 do CPC/15, a pretensão posta no recurso especial para reformar o acórdão estadual - que concluiu pela não demonstração dos prejuízos alegados pela ora Agravante - demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, conforme dispõe a Súmula n. 7/STJ; e
+c) a referida Súmula também obsta o apelo nobre pela alínea "c" do permissivo constitucional.
+Nas razões recursais, GISELIA AUER reitera a alegada ofensa aos arts. 489 e 1.022 do CPC/15, afirmando que o eg. Tribunal de Justiça do Estado do Paraná (TJ-PR) não analisou os temas necessários ao desate da contenda.
+Aduz, também, que o recurso especial não esbarra na Súmula n. 7/STJ, ao argumento, entre outros, de que "(..) com base em apenas um dos trechos da contestação apresentada pela agravante, o acórdão recorrido entendeu que a obra estaria concluída, isto é, mesmo depois de trechos da aludida contestação indicarem que a obra não estaria concluída e que somente seria possível após o afastamento da tutela antecipada, ainda assim o acórdão recorrido interpretou que a obra estaria concluída. Todas essas questões estão consignadas no próprio acórdão, Excelências, de modo que esta Corte pode se pronunciar sem que tenha que se debruçar sobre as provas produzidas nos autos" (fls. 1.207 - destaques no original).
+Assevera, ainda, que "(..) ao fazer juízo de valor sobre questão técnica com base unicamente em prova documental, o acórdão recorrido violou os arts. 375, 371 e 479, todos do CPC, que impõe ao juízo levar em consideração, quando do julgamento, as provas produzidas nos autos, especialmente a prova pericial" (fls. 1.208).
+Ao final, pleiteia a reconsideração da decisão agravava ou, se mantida, que seja o recurso levado a julgamento perante a eg. Quarta Turma.
+Não foi oferecida impugnação (vide certidão à fls. 1.218).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/15. INOCORRÊNCIA. TRIBUNAL A QUO CONCLUIU QUE NÃO FORAM COMPROVADOS OS PREJUÍZOS MATERIAIS ALEGADOS. REVISÃO. IMPOSSIBILIDADE. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SUMULA N 7/STJ. AGRAVO DESPROVIDO.
+1. Não se verifica a alegada violação aos arts. 489 e 1.022 do CPC/15, na medida em que o Tribunal a quo dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+2. No caso, o Tribunal de origem, após o exame acurado dos autos, das provas, dos documentos e da natureza da lide, concluiu que a ora agravante não comprovou os prejuízos materiais alegados na inicial, confirmando a sentença que julgou improcedente os pedidos. A modificação da conclusão do Tribunal de origem demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+3. Agravo interno a que se nega provimento.
+VOTO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+O recurso em apreço não merece prosperar, na medida em que não foram apresentados argumentos jurídicos aptos a ensejar a alteração da decisão vergastada.
+Conforme restou asseverado no decisum impugnado, não se vislumbra a alegada negativa de prestação jurisdicional, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste qualquer deficiência de fundamentação, omissão, obscuridade ou contradição no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+É indevido conjecturar-se acerca da deficiência de fundamentação ou da existência de omissão, de obscuridade ou de contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido, podem ser mencionados os seguintes julgados: AgInt no AREsp n. 1.837.993/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 27/6/2022, DJe de 30/6/2022; AgInt no AREsp n. 2.062.520/RJ, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/6/2022, DJe de 29/6/2022; e AgInt no AREsp n. 1.730.420/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 8/8/2022, DJe de 10/8/2022.
+No mérito, consta dos autos que, na origem, a ora agravante GISELIA AUER ajuizou ação indenizatória em desfavor de CONDOMÍNIO EDIFÍCIO CRYSTAL LAKE, buscando obter o ressarcimento de valores que deixou de auferir com a locação do imóvel e decorrente da suspensão de obras ordenada em ação ajuizada pela ré em face da autora, tornando o bem indisponível no período, bem como valores gastos com taxas condominiais e outras advindas da propriedade.
+A sentença foi de improcedência dos pedidos.
+Ao julgar a apelação, o eg. TJ-PR, após o exame acurado dos autos, das provas, dos documentos e da natureza da lide, concluiu que a ora agravante não comprovou os prejuízos materiais alegados na inicial, confirmando a sentença que julgou improcedente os pedidos postos na ação de indenização por danos materiais ajuizada em desfavor do Condomínio/Agravado. É o que se infere da leitura do seguinte excerto do v. Acórdão estadual (fls. 1.083-1.086):
+"Tratam os autos de ação indenizatória por danos materiais proposta por Giselia Auerem face de Condomínio Edifício Crystal Lake, em razão dos alegados danos suportados em decorrência de liminar deferida em seu desfavor em Ação Demolitória proposta contra si pelo ora requerido.
+Em sentença, os pedidos foram julgados improcedentes e condenada a autora ao pagamento das custas e despesas processuais e honorários advocatícios, estes fixados em 10% sobre o valor atualizado da causa, nos termos do artigo 85, § 2º do Código de Processo Civil.
+Inconformada com a decisão proferida em primeiro grau recorre a autora, mediante as alegações que ora passo a analisar.
+Alega a recorrente que o fundamento de sua pretensão é a aplicação do artigo 302, inciso I do Código de Processo Civil, que impõe a responsabilização daquele que obtém tutela de urgência e, posteriormente, a sentença lhe é desfavorável, tendo o magistrado singular efetuado juízo de valor acerca da regularidade da sua obra, o que não é objeto da presente demanda.
+(..)
+No presente caso foi produzida prova pericial, requerida por ambas as partes, cujo laudo está acostado aos autos no mov. 89.1, do qual constou:
+"No local existe mais área construída do que aquela prevista em projeto. O projeto não contempla parte do mezanino denominada "espaço morto". Deste trecho não há projeto. Assim, não se pode concluir a respeito da adequação e segurança daquilo que foi executado além do projeto."
+Diante de tal constatação, concluiu o magistrado que:
+"Comprovado, assim, o fato de que a benfeitoria almejada pela autora era significativamente maior que a indicada no projeto e a omissão disto para com o condomínio, evidente que a conduta daquela infringe o preceptivo disposto no art.1.336, inc. II, do Código Civil."
+(..)
+Desta forma, afasta-se o argumento de que a demanda proposta pelo ora requerido foi indevida.
+Por outro lado, em sede de contestação o requerido afirmou que a liminar na ação demolitória visava paralisar as obras de ampliação do mezanino que impunham uma eventual sobrecarga às estruturas do prédio e que a medida foi deferida com a determinação de suspensão da obra realizada, e não proibição de utilização do imóvel ou das atividades comerciais da autora.
+Afirmou, igualmente, que na própria ação demolitória a autora afirmou que a obra do mezanino já estava pronta desde 2007, de forma que é descabida a sua argumentação no sentido de que o imóvel ficou inutilizado.
+De fato, extrai-se do documento juntado aos autos no mov. 27.11 que após ter sido citada nos autos de ação demolitória, a ora apelante apresentou contestação alegando que:
+"(..) a ré desconhece os danos que alega o autor. Desde que adquiriu o imóvel, em julho de 2009: não existe caibro perfurando e apoiado na parede; não existe fiação elétrica aberta, não encapada e sobrecarregando a capacidade elétrica; não existe qualquer quadro de energia descoberto; e não existe extensão de mezanino além dos 28 m2 conforme previsto no projeto. (..) Existe sim uma parede não terminada, uma vez que a obra foi interrompida pela liminar deferida nestes autos.
+Esta parede não concluída dá acesso ao teto da sala inferior, e não é utilizada pela ré para qualquer fim, ressaltando que será completamente isolada pela parede a ser terminada, após o afastamento da tutela antecipada deferida nestes autos.
+(..)
+Na realidade, se faz necessário informar que a referida obra foi realizada durante o ano de 2007, dentro dos parâmetros e metragem estabelecida no projeto, ou seja, possui aproximadamente 28 m2, estando praticamente concluída, restando inacabado apenas as paredes do mezanino.
+(..)
+Não há que se falar em fundado receio de dano irreparável, uma vez que a obra está pronta desde 2007 (..)"
+Tais alegações afastam o argumento de que não pôde realizar a reforma no seu imóvel em decorrência da liminar deferida em seu desfavor.
+Desta forma, não há elementos nos autos aptos a comprovar que, em primeiro lugar, o réu tenha proposto ação demolitória sem qualquer fundamento plausível; em segundo lugar, que a autora não pôde dar continuidade à obra de ampliação do seu imóvel - pois foi por ela mesmo declarado que a obra já estava pronta ao final de 2007, antes, portanto da propositura da ação demolitória, que se deu em data de 27/10/2008; e em terceiro lugar, que tenha, em função da liminar deferida nos autos de ação demolitória, sofrido prejuízos em decorrência da impossibilidade de utilizar o imóvel.
+Não se pode acatar, igualmente, a tese recursal no sentido de que o magistrado singular fez juízo de valor acerca da regularidade da obra da apelante. Pelo contrário, ante a alegação de que o réu teria proposto ação infundada contra a autora, correta a perquirição da veracidade dos argumentos trazidos por esta, tendo decidido com base nas provas produzidas nos autos.
+Ainda que alegue a apelante que não é controvérsia da presente demanda a existência de irregularidades em sua obra, o que já foi julgado na ação demolitória que entendeu que a obra não trazia qualquer risco à estrutura do condomínio, tal argumento não tem o condão de modificar a sentença.
+A uma porque, a ação demolitória foi julgada improcedente por ausência de provas. Aduas, porque a perícia realizada nestes autos, de fato, constatou que a obra estava irregular, não havendo que se falar em ato ilícito praticado pelo condomínio com a propositura da demanda anterior.
+Não há que se acatar, igualmente, a tese de que o magistrado singular teria se declarado incompetente para julgar o feito, ao afirmar que cabia à autora requerer o ressarcimento dos danos alegados junto ao juízo que julgou o feito, tendo em vista que tal conclusão se extrai da própria dicção do artigo:
+(..)
+Na presente demanda a autora não trouxe qualquer argumento apto a justificar a ausência do pedido de indenização naqueles autos, já que o pedido de indenização, conforme posto na inicial, decorre do pagamento de taxas condominiais, luz elétrica e aluguéis, não necessitando de dilação probatória.
+(..)"(g. n.)
+Nesse cenário, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, consoante preconiza a Súmula n. 7/STJ.
+Por derradeiro, o recurso também não merece acolhida pelo dissenso jurisprudencial, na medida em que a aludida Súmula também se aplica ao apelo nobre pela alínea "c" do permissivo constitucional. Nessa mesma toada, confiram-se os recentes julgados que se somam àqueles já destacados na decisão vergastada:
+"AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA DO STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ART. 50 DO CÓDIGO CIVIL. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+4. Agravo interno não provido."
+(AgInt no AREsp n. 2.039.790/SP, relator MINISTRO LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 20/6/2022, DJe de 24/6/2022 - g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489, 1.022 E 1.025 DO CPC/2015. PEDIDO DE GRATUIDADE DE JUSTIÇA. PESSOA FÍSICA. BENEFÍCIO NÃO CONCEDIDO PELO TRIBUNAL ESTADUAL. ALTERAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+(..)
+4. É inviável também conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+5. Agravo interno desprovido."
+(AgInt nos EDcl no AREsp n. 1.969.720/RS, relator MINISTRO RAUL ARAÚJO, Quarta Turma, julgado em 21/3/2022, DJe de 25/4/2022 - g.n.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
