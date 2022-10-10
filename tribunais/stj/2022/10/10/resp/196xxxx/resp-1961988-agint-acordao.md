@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno interposto por SÃO JOSÉ JACURI AGROPECUÁRIA LTDA em face de decisão monocrática de lavra deste signatário (fls. 312/314, e-STJ), que negou provimento ao recurso especial.
+Eis o acórdão prolatado pelo Tribunal de Justiça do Estado de Rondônia (fl. 180, e-STJ):
+Agravo de instrumento. Cumprimento de sentença. Impugnação aos cálculos elaborados pela contadoria judicial. Higidez dos cálculos da contadoria do juízo. Parâmetros fixados na sentença e no acórdão. Manutenção da decisão. Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados pelo acórdão de fls. 246/251, e-STJ.
+Interposto recurso especial com fundamento naalínea"a" do permissivo constitucional, arecorrente, ora agravante, apontou ofensa aos artigos 354 do CC/02 e 1022 do CPC/15. Sustentou, em síntese:(i) negativa de prestação jurisdicional, pois o Tribunal de origem não citou expressa e numericamente o art. 354 do CC/02; e (ii) o cálculo do valor devido se deu de forma incorreta, pois não houve a respectiva amortização nos termos do art. 354 o CC/02.
+Com a apresentação das contrarrazões (fls. 300/302, e-STJ), e após decisão de admissão do recurso especial (fls. 303/304, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Em decisão monocrática de fls. 312/314 e-STJ, este signatário negou provimento ao recurso, sob os seguintes fundamentos: i) quanto à apontada violação doartigo1022 do CPC/15, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia; e ii) para alterar a conclusão da Corte local no sentido de que os cálculos foram realizados de forma escorreita, estando em conformidade com os parâmetros fixados na sentença e no acórdão, seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+Irresignada, aagravanteinterpôsagravo interno (fls. 317/357, e-STJ), no qual asseverou, em suma: a) restou configurada a negativa de prestação jurisdicional; e b) a questão é estritamente de direito, devendo ser afastada a Súmula 7/STJ.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação (fl. 360, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM- CUMPRIMENTO DE SENTENÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Não há falar em negativa de prestação jurisdicional em razão do Tribunal de origem não ter citado expressamente o artigo legal que a parte recorrente entende violado, pois "se o Tribunal de origem se pronuncia suficientemente ao deslinde da causa, notadamente em face da situação dos autos, em que os embargos de declaração opostos contra o acórdão recorrido buscavam o prequestionamento numérico e o rejulgamento da causa à luz dos argumentos da parte, pretensões para as quais não se presta a via integrativa eleita" (AgInt no REsp 1350603/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/12/2018, DJe 18/12/2018).
+2. Para alterar a conclusão da Corte local no sentido de que os cálculos foram realizados de forma escorreita, estando em conformidade com os parâmetros fixados na sentença e no acórdão, seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+A irresignação não merece prosperar, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida.
+1. Com efeito,não há falar em negativa de prestação jurisdicional em razão do Tribunal de origem não ter citado expressamente o artigo legal que a parte recorrente entende violado, pois "se o Tribunal de origem se pronuncia suficientemente ao deslinde da causa, notadamente em face da situação dos autos, em que os embargos de declaração opostos contra o acórdão recorrido buscavam o prequestionamento numérico e o rejulgamento da causa à luz dos argumentos da parte, pretensões para as quais não se presta a via integrativa eleita" (AgInt no REsp 1350603/PR, Rel.Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 13/12/2018, DJe 18/12/2018).
+2. Na hipótese, a Corte local consignou "Examinando os autos, observo que os cálculos apresentados pela Contadoria Judicial indicaram a metodologia utilizada para apuração do crédito exequendo, bem como obedeceu aos critérios da sentença que executa, como cumpriu as orientações do acórdão do agravo de instrumento ..  Depreende-se, portanto, que os cálculos judiciais foram realizados de forma escorreita, estando em consonância com os parâmetros fixados na sentença e no acórdão do agravo de instrumento, devendo, então, ser mantida incólume a decisão que fez prevalecer os cálculos apresentados pela Contadoria Judicial." (fls. 179/180, e-STJ).
+Assim, para alterar a conclusão da Corte local no sentido de que os cálculos foram realizados de forma escorreita, estando em conformidade com os parâmetros fixados na sentença e no acórdão, seria necessário promover o reexame do acervo fático-probatório dos autos, providência vedada na via eleita, a teor do óbice da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. AÇÃO INDENIZATÓRIA. EXCESSO DE EXECUÇÃO. REVISÃO DE CÁLCULOS. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. As questões referentes aos arts. 85, §9º e 478 do Código de Processo Civil e 884 do Código Civil, não foram objeto de debate no acórdão impugnado, não obstante a oposição dos embargos de declaração na origem. Para que se configure o prequestionamento, é necessário que o Tribunal a quo se pronuncie especificamente sobre a matéria articulada pelo recorrente, emitindo juízo de valor em relação aos dispositivos legais indicados e examinando a sua aplicação ou não ao caso concreto Desatendido o requisito do prequestionamento, incide, no caso, a Súmula 211/STJ.
+2. As conclusões do acórdão recorrido no tocante à manutenção da decisão que rejeitou a impugnação ao cálculo apresentado, em observância ao titulo executivo judicial, estão amparadas no exame de elementos fático - probatórios dos autos, e sua revisão é vedada em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.859.762/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 28/10/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERENTE.
+1. A insuficiência das razões recursais, dissociadas dos fundamentos da decisão recorrida, impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia.
+2. A Corte de origem, à luz do acervo fático-probatório, concluiu que os cálculos elaborados pelo perito judicial espelhariam o conteúdo do título executivo judicial. Derruir tal entendimento demandaria o revolvimento de matéria probatória, que encontra óbice nas Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.442.039/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 1/4/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. LIQUIDAÇÃO DE SENTENÇA. REALIZAÇÃO DE NOVOS CÁLCULOS CONTÁBEIS. POSSIBILIDADE. ADEQUAÇÃO AOS PARÂMETROS DO TÍTULO JUDICIAL. REVISÃO. SÚMULA 7 DO STJ. HONORÁRIOS PERICIAIS. ANTECIPAÇÃO PELO DEVEDOR. JURISPRUDÊNCIA. RECURSO NÃO PROVIDO.
+1. O col. Tribunal a quo, após a análise dos cálculos apresentados pelas partes, concluiu pela necessidade da realização de novos cálculos para adequar a execução aos parâmetros do título exequendo. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+2. A eg. Segunda Seção do Superior Tribunal de Justiça, sob o rito previsto no art. 543-C do CPC/73, no julgamento do REsp 1.274.466/SC, firmou entendimento de que, "na fase autônoma de liquidação de sentença (por arbitramento ou por artigos), incumbe ao devedor a antecipação dos honorários periciais".
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 943.986/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 7/4/2017.)
+De rigor, portanto, a manutenção da decisão agravada.
+3. Do exposto, nego provimento ao agravo interno.
+É como voto.
