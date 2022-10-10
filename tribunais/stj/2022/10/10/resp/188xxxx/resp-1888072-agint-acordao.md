@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 229):
+ADMINISTRATIVO. RECURSOESPECIAL. CONTRATO ADMINISTRATIVO. AÇÃO DE COBRANÇA. AUSÊNCIA DE COMPROVAÇÃO DO DIREITO ALEGADO. REVISÃO QUE DEMANDA ANÁLISE DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+A parte agravante sustenta a inaplicabilidade da Súmula 7/STJ, uma vez que a pretensão recursal restringe-se em saber se o documento emitido pela agravada, sem a respectiva assinatura, comprova o direito da agravante, violando ou não o disposto no art. 373, I e II, do CPC/2015. Pretende, também, a análise a respeito da "violação aos arts. 212, 394 e 397, do CC, bem como do art. 374, inciso III, do CPC, ante a inexistência de questionamento por parte da Agravada acerca da existência e valor do débito" (fl. 241).
+Sem impugnação.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. AGRAVO INTERNO NORECURSO ESPECIAL. CONTRATO ADMINISTRATIVO. AÇÃO DE COBRANÇA. AUSÊNCIA DE COMPROVAÇÃO DO DIREITO ALEGADO. REVISÃO QUE DEMANDA ANÁLISE DO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2.Trata-se, na origem, de ação de cobrança ajuizada contra a Prefeitura Municipal de Monte Mor, a fim de cobrar suposto débito em relação a contrato administrativo firmado para pavimentação de vias e construção de passeios.
+3. Oacórdão recorrido, ao afirmar que "a autora, ora embargante, não se desincumbiu do ônus que lhe competia de comprovar os fatos constitutivos de seu direito, sobretudo considerando que os documentos por ela apresentados não são suficientes para este fim, tampouco conduzem à presunção do direito pleiteado nos termos colocados na inicial" (fl. 166), se pautou no conjunto fático-probatório dos autos para tanto. Logo, para rever esse entendimento, necessário o reexame do citado suporte fático, pelo que o recurso especial não pode ser conhecido quanto ao ponto, ante a incidência da Súmula 7/STJ.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+O presente recurso não merece prosperar.
+Trata-se, na origem, de ação de cobrança ajuizada contra a Prefeitura Municipal de Monte Mor, a fim de cobrar suposto débitoem relação a contrato administrativo firmado para pavimentação de vias e construção de passeios.
+Conforme exposto na decisão agravada,o Tribunal de origem, ao decidir a lide, consignou que (fls. 165/166):
+É oportuno ressaltar que consta na cláusula 7.1 do contrato que "as medições serão efetuadas mensalmente e apresentadas à Secretaria de Obras para verificação e comprovação dos serviços executados, verificado o cronograma físico-financeiro apresentado, sendo as mesmas devidamente atestadas pela Secretaria de Obras, através da emissão de atestado técnico comprovando a execução dos serviços apresentados nas medições" (fls. 42, grifamos).
+E, no "Termo de Recebimento de Obra", acostado às fls. 71, não há qualquer menção específica à medição objeto da lide, mas o atestado da conclusão da obra como um todo, " in verbis": "em vista da conclusão das obras, de acordo com o projeto e especificações, emitimos este Termo de Recebimento de Obra, referente ao Contrato nº 064/2012, devendo esta empresa atender todas as exigências legais, fiscais e trabalhistas referentes à obra".
+Outrossim, não passou despercebido que os valores referentes à 1" medição em aditamento, indicados às fls.80, diferem daqueles cobrados na nota fiscal de fls.74 e na "Autorização de Fornecimento-1730-0/ 2015" às fls. 76, a qual, repise-se, não está assinada.
+Nota-se, por fim, que consta dos autos um requerimento de pagamentoreferenteà1"mediçãodo aditamento datado de 06 de maio de 2014 (fls. 77), com protocolo de recebimento em 09 de maio de 2014 (fls. 81), e outro de 20 de maio de 2015 (fls. 73), não havendo qualquer informação sobre o andamento destas solicitações.
+Destarte, inevitável a conclusão de que a autora, ora embargante, não se desincumbiu do ônus que lhe competia de comprovar os fatos constitutivos de seu direito, sobretudo considerando que os documentos por ela apresentados não são suficientes para este fim, tampouco conduzem à presunção do direito pleiteado nos termos colocados na inicial.
+Realmente, o acórdão recorrido, ao afirmar que"a autora, ora embargante, não se desincumbiu do ônus que lhe competia de comprovar os fatos constitutivos de seu direito, sobretudo considerando que os documentos por ela apresentados não são suficientes para este fim, tampouco conduzem à presunção do direito pleiteado nos termos colocados na inicial" (fl. 166), se pautou no conjunto fático-probatório dos autos. Logo, para rever esse entendimento, necessário o reexame do citado suporte fático, pelo que o recurso especial não pode ser conhecido quanto ao ponto, ante a incidência da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
