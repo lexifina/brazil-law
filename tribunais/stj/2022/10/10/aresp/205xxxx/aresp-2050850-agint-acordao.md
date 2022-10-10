@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por BANCO REGIONAL DE DESENVOLVIMENTO DO EXTREMO SUL contra decisão singular, da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, nos termos dos artigos 21-E, V, e 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), porquanto a parte agravante absteve-se de impugnar um dos fundamentos da decisão agravada, a qual foi proferida nos seguintes termos (e-STJ fls. 650/652):
+ ..
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ e Súmula 83/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 83/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. A propósito:
+ ..
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+ ..
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+ ..
+Não foram opostos embargos de declaração.
+Sustenta a parte agravante que (e-STJ fls. 656/661):
+ ..  a decisão monocrática merece ser reformada porque os fundamentos respectivos reproduzidos acima não são condizentes com a realidade dos autos.
+É consabido que esta Corte Superior utiliza tecnologia de inteligência artificial para enfrentar o volumoso caudal de processos que aportam e que isso lhe permite imprimir celeridade de resposta na prestação jurisdicional. Porém, esse ganho tem a falibilidade como um relevante contrapeso - conquanto suficientemente mitigado pela possibilidade de revisão da decisão cibernética através da interposição de recurso que será oportunamente apreciado sob a relatoria de algum dos ministros com competência afeta à matéria recursal agitada.
+É justamente nessa situação que se encontra o caso em tela haja vista que a suposta deficiência recursal apontada pela decisão recorrida, a rigor, inexiste.
+A precitada decisão interlocutória monocrática concluiu pelo não conhecimento do agravo em recurso especial porque o Recorrente não teria desafiado o fundamento relativo ao óbice da Súmula nº 83 do STJ, tal como constou do juízo preliminar de admissibilidade de recurso especial realizado no âmbito do Tribunal a quo.
+ ..  é inaceitável qualquer alusão à ausência de impugnação específica de todos os fundamentos da decisão outrora recorrida, bem como de inobservância do princípio da dialeticidade recursal, com aplicação analógica do enunciado nº 182 da Súmula do STJ ao caso em tela, na medida em que as razões recursais do agravo em recurso especial impugnaram especificamente o fundamento que a decisão monocrática vergastada afirmou não ter sido desafiado, como se viu dos excertos acima colacionados.
+ ..
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, que seja submetida ao pronunciamento do Colegiado (e-STJ fls. 654/661).
+Transcorreu in albis o prazo para impugnação, conforme certidões de fls. 667/668 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ESTATUTO PROCESSUAL CIVIL DE 2015. APLICABILIDADE. DECISÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ARTIGO 932, III, DO CÓDIGO DE PROCESSO CIVIL DE 2015. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO POR ANALOGIA. NÃO PROVIDO.
+1. Nos termos do art. 932, III, do Código de Processo Civil de 2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do Superior Tribunal de Justiça.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Cumpre transcrever, inicialmente, a ementa do acórdão recorrido do Tribunal de Justiça do Estado de Santa Catarina (e-STJ fls. 490/491):
+APELAÇÃO CÍVEL. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. SENTENÇA DE PROCEDÊNCIA.
+INSURGÊNCIA DO RÉU.
+ALEGADA EXISTÊNCIA DE HIPOTECA E PENHORAS SOBRE O TERRENO QUE REPRESENTAM ÓBICE À PRESCRIÇÃO AQUISITIVA. FORMA ORIGINÁRIA DE AQUISIÇÃO DA PROPRIEDADE QUE SE SOBREPÕE A QUALQUER ÓBICE SOBRE O BEM. TESES AFASTADAS.
+IMÓVEL DESTINADO À MORADIA. INAPLICABILIDADE DA REGRA DE TRANSIÇÃO PREVISTA NO ARTIGO 2.028 DO CÓDIGO CIVIL EM VIGÊNCIA. EXISTÊNCIA DE REGRA ESPECÍFICA. ARTIGO 2.029 C/C 1.238, PARÁGRAFO ÚNICO, DO CÓDIGO CIVIL. PRAZO AQUISITIVO DE 10 ANOS, APÓS 2 ANOS DE VIGÊNCIA DO CÓDIGO CIVIL 2002.
+AUTORES QUE PRETENDEM SOMAR A SUA POSSE À DOS ANTECESSORES PARA FINS DE PRESCRIÇÃO AQUISITIVA. POSSIBILIDADE, ANTE A NATUREZA IDÊNTICA DAS POSSES. PREENCHIMENTO DO LAPSO TEMPORAL PARA A DECLARAÇÃO DA PRESCRIÇÃO AQUISITIVA DA PROPRIEDADE.
+DEMONSTRAÇÃO DOS REQUISITOS DA POSSE MANSA, PACÍFICA, ININTERRUPTA E COM ANIMUS DOMINI POR MAIS DE 10 ANOS. REQUISITOS DO PARÁGRAFO ÚNICO DO ART. 1.238 DEVIDAMENTE PREENCHIDOS.
+HONORÁRIOS SUCUMBENCIAIS. PLEITO DE MINORAÇÃO. IMPOSSIBILIDADE. VERBA FIXADA EM CONSONÂNCIA COM OS CRITÉRIOS DO ART. 20, §§ 3º E 4º, DO CPC/1973.
+HONORÁRIOS RECURSAIS DESCABIDOS (ENUNCIADO ADMINISTRATIVO N. 7 DO STJ).
+SENTENÇA MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+"I - Não se aplica a regra de transição do artigo 2.028 do Código Civil quando há na legislação norma específica ao caso concreto. In casu, tratando-se de ação de usucapião extraordinária, em que a Autora utiliza o imóvel para moradia habitual, aplica- se a regra específica do artigo 2.029 c/c 1.238, parágrafo único, ambos do Código Civil de 2002. II - A existência de hipoteca gravada na matrícula do imóvel não obsta à sua aquisição pela usucapião, mormente se a modalidade não depender de justo título e boa-fé, como é o caso da usucapião extraordinária. III - Para a caracterização da prescrição aquisitiva capaz de dar azo à usucapião extraordinária, faz-se necessário que o interessado, com animus domini (posse plena ou absoluta), mantenha a posse mansa, pacífica e ininterrupta da coisa por um prazo não inferior a quinze anos, podendo reduzir-se para dez anos, conforme o disposto no art. 1.238 do Código Civil. Nessa toada, demonstrados durante a instrução processual os requisitos necessários para a aquisição do i móvel por meio da usucapião extraordinária, a manutenção da sentença é medida que se impõe" (TJSC, Apelação Cível n. 0002843-73.2013.8.24.0054, de Rio do Sul, rel. Des. Joel Figueira Júnior, Quarta Câmara de Direito Civil, j. 09-03-2017).
+Da análise dos autos, observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Verifica-se que a parte agravante, efetivamente, não combateu o fundamento da decisão de admissibilidade relativo à incidência da Súmula n. 83 do Superior Tribunal de Justiça.
+Esclareça-se que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica de todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos exigidos nos artigos 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015 (correspondentes aos artigos 544, § 4º, I, e 545 do estatuto processual civil de 1973), segundo o qual, não se conhece do agravo que não ataca especificamente todos os fundamentos da decisão agravada.
+A propósito, ratificou o referido entendimento o recente precedente desta Corte Especial, firmado por ocasião do julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 746.775/PR, do qual foi relator para acórdão o eminente Ministro Luis Felipe Salomão.
+Na ocasião, o Colegiado, por maioria, decidiu que não há possibilidade de impugnação parcial da decisão que deixa de admitir o recurso especial, uma vez que implicaria exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em manifestar-se no momento oportuno, pois o conhecimento do agravo obriga o Superior Tribunal de Justiça a conhecer de todos os fundamentos do recurso especial.
+Confira-se a ementa do mencionado julgado:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018 - sem destaques no original).
+Assim, não há reparos na decisão da Presidência desta Corte.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
