@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A., com fulcro no art. 105, inciso III, "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado:
+"PLANO DE SAÚDE - Negativa de cobertura para o exame de análise de polimorfismo de CYP450 e para o tratamento de eletroconvulsoterapia - Alegada ausência de previsão no rol da ANS - Abusiva a recusa fundada nesse argumento quando não há alternativas igualmente eficazes - Relatório médico a demonstrar ser indispensável e insubstituível o tratamento - Inadmissível a restrição a direitos fundamentais inerentes à natureza do contrato, de tal modo a ameaçar seu objeto - Reconhecida a obrigação da ré de fornecer cobertura para os procedimentos solicitados - Correta, ademais, a imposição do reembolso do valor do exame indevidamente negado - Sentença mantida - RECURSO NÃO PROVIDO"(fl. 426, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 445/449, e-STJ).
+No recurso especial, a recorrente aponta violação dos arts. 1.022, II, do Código de Processo Civil de 2015 e 10, § 4º, e 12, VI, da Lei nº 9.656/1998, argumentando, em síntese, a inexistência de obrigatoriedade do fornecimento de tratamento que não possui cobertura contratual nem integra o rol taxativo da Agência Nacional de Saúde Suplementar (ANS), inexistindo ilegalidade ou abusividade na negativa de cobertura.
+Sustenta, ainda, que o custeio ou reembolso de tratamento realizado fora da rede credenciada deve ser limitado à tabela de preços do plano de saúde.
+Apresentadas contrarrazões às fls. 643/649 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece parcial provimento.
+A discussão gira em torno da natureza do Rol de Procedimentos e Eventos em Saúde, elaborado periodicamente pela ANS, se exemplificativo ou taxativo.
+Nos termos da sentença, "Alega a parte autora, em síntese, que é intolerante à CLOZAPINA, tratando-se o tratamento (eletroconvulsoterapia) - e exame (análise de polimorfismo de CYP450) - prescrito o único possível"(fl. 350, e-STJ).
+Nesse contexto, nojulgamento dos EREsps nºs 1.886.929/SP e 1.889.704/SP (rel. Ministro Luis Felipe Salomão, DJe 3/8/2022), a Segunda Seção desta Corte Superior uniformizou o entendimento de ser o Rol da ANS, em regra, taxativo, podendo ser mitigado quando atendidos determinados critérios.
+Assim, foram adotados os seguintes parâmetros para a apreciação de casos concretos:
+"1 - o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que (i) não tenha sido indeferido expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar; (ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências; (iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS."
+No caso, contudo, não há elementos incontroversos no acórdão estadual que possam demonstrar, nesta instância especial, que os tratamentos assistenciais indicados estão enquadrados nos critérios de superação da taxatividade, devendo, portanto, o feito retornar ao Tribunal de origem para que, com base nos fatos e nas provas da causa, a apelação seja julgada conforme os parâmetros elaborados pela Segunda Seção.
+Ademais, diante da retroatividade mínima, nos tratamentos de caráter continuado, deverão ser observados, a partir da sua vigência, os critérios trazidos pela Lei nº 14.454/2022, que alterou a natureza do Rol da ANS, de taxativo superável para exemplificativo condicionado, de modo que, conforme o art. 10, § 13:
+"(..)
+Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais."
+Ante o exposto, dou parcial provimento ao recurso especial para determinar o retorno dos autos à Corte de origem, a fim de que julgue a apelação conforme os critérios estabelecidos pela Segunda Seção nos EREsps nºs 1.886.929/SP e 1.889.704/SP.
+Caso o tratamento assistencial seja também de caráter continuado, deverão ser observados, a partir de sua vigência, os critérios estabelecidos pela Lei nº 14.454/2022, que também devem serverificados pelo Tribunal local(retroatividade mínima da lei).
+Publique-se.
+Intimem-se.
