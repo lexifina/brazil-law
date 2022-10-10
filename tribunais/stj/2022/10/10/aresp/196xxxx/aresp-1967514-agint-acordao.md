@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Cuida-se de agravo interno interposto por BANCO DO BRASIL S/A contra decisão que conheceu do agravo para negar provimento ao recurso especial, com os seguintes fundamentos: a) ausência de negativa de prestação jurisdicional; b) consonância do acórdão recorrido com a jurisprudência do STJ; c) incidência da Súmula 7/STJ.
+Em suas razões, o agravante sustenta que "o julgado não aduziu fundamentos suficientes para sustentar o juízo emitido na origem, uma vez que ainda subsistem vícios no acórdão recorrido, se fazendo necessário que o julgador, em razão da relevância dos temas tratados no processo, lhes dê o devido tratamento, evitando, assim, que a prestação jurisdicional fique incompleta" (fl. 186).
+Aduz que "a ausência de análise adequada quanto aos parâmetros entabulados na perícia, conforme suscitado no recurso especial, constitui clara ofensa aos artigos artigo 477, §2º, incisos I e II, e, §3º, do Código de Processo Civil, o que, por si só, afasta por completo a necessidade de reexame da matéria" (fl. 187).
+Afirma que "que é direito das partes a solicitação de esclarecimentos, art. 477 do CPC, no entanto, esse direito foi tolhido pelo encerramento precoce da instrução" (fl. 187).
+A parte agravada apresentou impugnação às fls. 202/211.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. DESNECESSIDADE DE COMPLEMENTAÇÃO DA PROVA PERICIAL. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pelo recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2."Conforme a jurisprudência do Superior Tribunal de Justiça, não há cerceamento de defesa quando o julgador considera desnecessária a produção de prova ou suficientes as já produzidas" (AgInt no AREsp 1588693/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 14/09/2020, DJe 21/09/2020).
+3. Na espécie, a Corte de origem afastou o alegado cerceamento de defesa, tendo em vista que a complementação da prova pericial foi indeferida em razão da suficiência dos elementos probatórios produzidos nos autos, sendo tal complementação irrelevante e inútil.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar.
+De início, não prospera a alegada ofensa aos arts. 489 e 1.022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia relativa ao pleito de complementação da perícia, como se observa do trecho dos aclaratórios a seguir (fl. 79):
+O acórdão embargado analisou todas as questões de direito pertinentes às matérias veiculadas no recurso, em decisão fundamentada, sem qualquer vício capaz de justificar a oposição de embargos de declaração.
+Conforme consta do julgado, a complementação da perícia é evidentemente desnecessária, pois o laudo apresentado é claro, objetivo e fornece todas as informações e os subsídios necessários para julgamento do pedido. Aliás, ao contrário do alegado pelo recorrente, o perito esclareceu, de maneira satisfatória, as dúvidas suscitadas pelas partes.
+Ficou consignado, ainda, que o requerimento de complementação evidencia somente o intuito do recorrente em contestar a conclusão do perito e não um interesse real no esclarecimento de ponto sobre o qual exista divergência ou dúvida ou de ponto divergente apresentado no parecer do assistente técnico da parte, conforme preceitua o art. 477, § 2º, I e II, do Código de Processo Civil. (grifou-se)
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Com relação à violação dos arts. 477, §2º, I e II, §3º do CPC/15, tem-se que a Corte de origem afastou o alegado cerceamento de defesa, tendo em vista que a complementação da prova pericial foi indeferida em razão da suficiência dos elementos probatórios produzidos nos autos, sendo tal complementação irrelevante e inútil, in verbis (fl. 79):
+"Com efeito, o que se nota é o mero inconformismo do agravante com a conclusão do perito e seus critérios técnicos para atingir o resultado da perícia. As supostas opiniões constantes do laudo produzido retratam apenas um apontamento técnico enquanto perito, o qual foi emitido de modo imparcial e não revela interesse do expert no julgamento em favor de quaisquer das partes.
+Outrossim, tal apontamento não diverge dos parâmetros estabelecidos no julgado objeto de cumprimento. O profissional não estabeleceu critérios para apuração do valor médio anual da saca de soja, apenas destacou a impossibilidade de apurar o preço médio de determinado produto sem decotar as variações inflacionárias, inexistindo, portanto, ofensa à coisa julgada.
+Demais disso, a complementação da perícia é evidentemente desnecessária, pois o laudo apresentado é claro, objetivo e fornece todas as informações e os subsídios necessários para julgamento do pedido. Aliás, ao contrário do alegado pelo recorrente, o perito esclareceu, de maneira satisfatória, as dúvidas suscitadas pelas partes (p. 951/955).
+O requerimento de complementação evidencia, assim, somente o intuito do recorrente em contestar a conclusão do perito e não um interesse real no esclarecimento de ponto sobre o qual exista divergência ou dúvida ou de ponto divergente apresentado no parecer do assistente técnico da parte, conforme preceitua o art. 477, § 2º, I e II, do Código de Processo Civil." (grifou-se)
+De fato, não se verifica o cerceamento de defesa, pois o Tribunal de origem entendeu estar o feito substancialmente instruído, estando prejudicado o objeto de eventual complemento de prova pericial pela improcedência das premissas de ilegalidade formuladas.
+Nesse contexto, o v. acórdão recorrido está em consonância com o entendimento desta Corte Superior no sentido de que a livre apreciação da prova e o livre convencimento motivado do juiz são princípios basilares do sistema processual civil brasileiro, não havendo cerceamento de defesa se o destinatário entender que há provas suficientes para seu convencimento.
+Nesse sentido, citam-se os seguintes julgados:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E PERDAS E DANOS. VIOLAÇÃO DO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. CABIMENTO.MANUTENÇÃO INDEVIDA DO PROTESTO. CONDUTA ILÍCITA DO CREDOR. DANOS MORAIS IN RE IPSA. AGRAVO DESPROVIDO.
+1. Não há violação aos arts. 458 e 535 do CPC/73 quando o eg.Tribunal estadual aprecia a controvérsia posta de forma devidamente fundamentada.
+2. Não configura cerceamento de defesa o julgamento antecipado da lide quando o julgador entende adequadamente instruído o feito, declarando a prescindibilidade da prova testemunhal com base na suficiência da prova documental apresentada. Precedentes.
+3. "A jurisprudência pacífica deste Superior Tribunal de Justiça entende que o dano moral, oriundo de protesto indevido, prescinde de prova, configurando-se in re ipsa, visto que é presumido e decorre da própria ilicitude do fato" (AgInt no AREsp 1.146.746/RS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 03/05/2018, DJe de 08/05/2018).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AgRg no REsp 1558027/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 30/08/2021, DJe 01/10/2021, g.n.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MANTIDA.OMISSÃO. NÃO OCORRÊNCIA. ACIDENTE. RESPONSABILIDADE. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADO 7 DA SÚMULA DO STJ. LIVRE CONVENCIMENTO. PERÍCIA. REQUERIMENTO GENÉRICO. AUSÊNCIA DE IMPUGNAÇÃO. ENUNCIADO 283 DA SÚMULA DO STF. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+2. O Tribunal de origem, com base nos fatos e provas dos autos, entendeu responsável o ora agravante pelo acidente ocorrido. O acolhimento das razões de recurso, na forma pretendida, demandaria o reexame de matéria fática. Incidência do verbete 7 da Súmula desta Corte.
+3. Como destinatário final da prova, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da produção probatória, necessária à formação do seu convencimento.
+4. Agravo a que se nega provimento.
+(AgRg no AREsp 121.314/PI, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/05/2013, DJe de 21/05/2013, g.n.)
+Incide, portanto, a Súmula 83/STJ.
+Ademais, a análise quanto à indispensabilidade de complementação de perícia é matéria estritamente fática, não podendo ser revista em sede de recurso especial, motivo pelo qual aplicável o óbice da Súmula 7/STJ. Em reforço:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. Não há falar em ofensa aos artigos 458 e 535 do CPC/73, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos.
+2. Sendo o magistrado o destinatário final da prova, a ele cabe apreciar a suficiência do acervo probatório juntado aos autos. A aferição acerca da necessidade de complementação de perícia impõe o reexame do conjunto fático exposto nos autos, atraindo o óbice da Súmula 7/STJ.
+3. No sistema da persuasão racional, adotado pela legislação processual civil, (arts. 130 e 131, CPC/73 e 370 e 371, CPC/15), o magistrado é livre para examinar o conjunto fático-probatório produzido nos autos e firmar sua convicção, desde que indique de forma fundamentada os elementos do seu convencimento.
+4. Conforme entendimento da Segunda Seção, a aplicação da multa prevista no § 4º do art. 1.021 do CPC/15 não é automática, sendo cabível somente quando constatado o intuito protelatório, o que não se observa no caso.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1139806/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/10/2019, DJe 04/11/2019, g.n.)
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
