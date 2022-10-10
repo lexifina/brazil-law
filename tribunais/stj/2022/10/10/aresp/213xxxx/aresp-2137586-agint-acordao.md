@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Trata-se de agravo interno contra decisão que não conheceu do agravo, por incidência da Súmula n. 182/STJ, porque não impugnado o óbice da Súmula n. 211/STJ, utilizado como fundamento pelo Tribunal de origem para inadmitir o recurso especial.
+Em suas razões de agravo interno, a agravante afirma a inaplicabilidade daSúmula n. 182/STJ, destacando (e-STJ, fl. 743):
+21. Ocorre que, no caso concreto, não há que se falar em aplicação dos artigos em referência, muito menos que o Agravo em Recurso Especial esbarra na Súmula 182 deste STJ, na medida em que o recurso mencionado dedicou um capítulo específico para impugnar diretamente os termos da decisão que inadmitiu o Recurso Especial que havia sido interposto pela ora Agravante.
+22. Relembra-se que, no caso em análise, o Recurso Especial interposto pela ora Agravante foi inadmitido pelo Tribunal de Justiça de São Paulo, pois o Exmo. Presidente da Seção de Direito Privado, Desembargador Beretta da Silveira, havia entendido que não tinha sido demonstrada a alegada vulneação aos dispositivos arrolados pela Enel2, de modo que o recurso em referência esbarraria nas Súmulas 5 e 7 deste C. Superior Tribunal de Justiça.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL. DECISÃO MANTIDA.
+1. Não houve impugnação ao fundamento da decisão de inadmissão do recurso especial de incidência da Súmula n. 211/STJ.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): O agravo interno não merece prosperar.
+A inadmissão do recurso se deu, dentre outros fundamentos, pela incidência da Súmula n. 211/STF, aduzindo (e-STJ, fls. 583/584):
+Tarifa binômia:
+O V. Acórdão recorrido não abordou a questão atinente à matéria supracitada, por se tratar de matéria inédita, motivo pelo qual descabe a alegação de negativa de prestação jurisdicional.
+Nesse sentido:"Com efeito, afasta-se a alegada ofensa ao artigo 1.022 do CPC/2015, pois, no caso, a tese jurídica supostamente não apreciada foi suscitada somente em embargos de declaração opostos ao julgamento do recurso, o que, ao tempo e modo em que questionada, traduz indevida inovação recursal superada pela preclusão consumativa. Desse modo, conclui-se que a dedução de tese jurídica por meio de argumentos só apresentados em embargos de declaração não implica ofensa ao artigo 1.022 do CPC/2015. No que diz respeito ao artigo 397, parágrafo único, do CC/2002 (e a tese a ele vinculada), verifica-se que não houve juízo de valorpor parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF e a 211/STJ" (Recurso Especial 1853936/SC,Relator Ministro Benedito Gonçalves, in DJe de 03.03.2020).
+Assim, não basta, para efeito de recurso especial, a oposição de embargos de declaração com o fito de provocar a manifestação da D. Câmara acerca de eventual omissão sobre o tema quando se tratar de inovação da matéria, o que faz incidir, neste aspecto, a súmula 211 do E. Superior Tribunal de Justiça, que dispõe: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+A agravante, porém, limitou-se a afirmar a suposta usurpação de competência do STJ e a inaplicabilidade da Súmula n. 7/STJ.
+Dito de outra maneira, o agravante apenas deixou de refutar um dos óbices da decisão de inadmissibilidade,deixando de demonstrar ter havido o enfrentamento, pelo acórdão recorrido, das teses fundadas nos mencionados dispositivos legais. Nesses termos, a decisão agravada não merece reparos, na medida em que se harmoniza com o entendimento da Corte Especial sobre a questão, senão vejamos:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+Assim, a decisão agravada se mantém por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
