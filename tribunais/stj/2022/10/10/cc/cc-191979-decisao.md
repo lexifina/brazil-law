@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de conflito negativo de competência entre o JUÍZO DE DIREITO DA 1.ª VARA CRIMINAL DE CURITIBA-PR e o JUÍZO DE DIREITO DO FORO CENTRAL CRIMINAL DE BARRA FUNDA - DIPO 4 - SÃO PAULO-SP, no Inquérito Policial n.º 1513380-65.2020.8.26.0050 instaurado para apuração de eventual delito de furto qualificado (art. 155, § 4.º, inciso II, do CP)praticado por PATRÍCIA BARBOSA DE SOUZA que, após realizar a locação de um veículo junto àempresa MOVIDA LOCAÇÃO DE VEICULAR S/A,não o restituiuedesligou o equipamento de monitoramento.
+OJuízo de Direito do Foro Central Criminal de Barra Funda, São Paulo-SPdeclinou de sua competência (e-STJ, fl. 29), em acolhimento à manifestação da 4.ª Promotoria de Justiça Criminal da Capital-SP, nesse sentido:
+Consoante verifica-se dos autos, o crime de furto ocorreu na cidade de Curitiba/PR, conforme a própria versão do representante da empresa vítima (fls. 5), o qual informou que a investigada retirou o veículo Renault/Captur Life, placas QQY-7059, da loja situada no centro de Curitiba/PR, utilizando-se de fraude consistente na simulação de locação, visando, na realidade, furtar referido bem.
+Nesse caso, conforme preceitua o artigo 70, caput, do Código de Processo Penal, a competência será determinada pelo lugar em que se consumar a infração. (e-STJ, fl. 28; grifou-se.)
+Após manifestação da 1.ª Promotoria de Justiça de Prevenção e Persecução Penal de Curitiba-PR, que entendeu se tratar de hipótese de apropriação indébita (art. 168 do CP), e não de furto qualificado (e-STJ, fls. 41-44), oJuízo de Direito da 1.ª Vara Criminal de Curitiba-PR suscitou o presente conflito de competência, sob o entendimento de que:
+Primeiramente, entendo que assiste razão ao Ministério Público diante da manifestação de mov. 10.1, vez que, em que pese o delito tenha sido tipificado como furto qualificado (art. 155, § 4º, II, do CP), a conduta citada se amolda ao tipo de apropriação indébita (art. 168, do CP).
+Como bem exposto pelo Doutor Promotor de Justiça, o contrato de locação foi feito de maneira lícita, de modo que Patrícia Barbosa de Souza detinha a posse do veiculo até a data de 22/02/2020, quando, na Rua Balsa Nova, s/n.º, São Paulo/SP, desligou o sistema de segurança do veiculo, apropriando-se indevidamente de tal bem.
+Destarte, o momento consumativo do crime de apropriação indébita se da no momento em que o agente inverte o título da posse, passando a agir como dono, recusando-se a devolver a coisa ou praticando algum ato externo típico de domínio, com o ânimo de apropriar-se da coisa.
+Portanto, no caso concreto, o crime consumou-se no momento em que a investigada desligou o sistema de segurança do veiculo e passou a agir como se fosse dona, ou seja, em 22/02/2020, na Rua Balsa Nova, s/n.º, São Paulo/SP. (e-STJ, fl. 48; grifou-se.)
+O Ministério Público opinou pela competência doJuízo de Direito do Foro Central Criminal de Barra Funda, São Paulo-SP (e-STJ, fls. 58-60).
+É o relatório.
+Decido.
+Conheço do conflito de competência, por se tratar de incidente instaurado entre juízos vinculados a tribunais distintos, nos termos do art. 105, incisoI, "d", da Constituição da República.
+De início, cumpre registrar que " é pressuposto do crime de apropriação indébita a anterior posse lícita da coisa alheia, da qual o agente se apropria indevidamente"(CC n. 161.087/BA, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 24/10/2018, DJe de 30/10/2018). In casu, consoante relatado, a investigada detinha a posse lícita do bem, uma vez que realizou a locação do veículojunto à empresa Movida e, posteriormente, dele se apropriou indevidamente. Sendo assim, a conduta delitiva se enquadra no tipo descrito no art. 168 do Código Penal.
+Nos termos doartigo 70, caput, do Código de Processo Penal, a competência será determinada pelo lugar em que se consumar a infração, e odelito de apropriação indébita se consuma no momento em que ocorre a inversão da posse que, nopresente caso, ocorreu quando a investigadadesligou o sistema de segurança do veiculo,na Rua Balsa Nova, s/n.º, São Paulo-SP.
+Sendo assim, a competência, na espécie, é doJuízo de Direito do Foro Central Criminal de Barra Funda, São Paulo-SP, ora suscitado.
+Nesse sentido, cito os seguintes precedentes:
+CONFLITO NEGATIVO DE COMPETÊNCIA. APROPRIAÇÃO INDÉBITA. ELEMENTAR DO TIPO. POSSE LÍCITA. AUSÊNCIA. ESTELIONATO. CARACTERIZAÇÃO. COMPETÊNCIA. LOCAL EM QUE AUFERIDA A VANTAGEM ILÍCITA.
+1. É pressuposto do crime de apropriação indébita a anterior posse lícita da coisa alheia, da qual o agente se apropria indevidamente.
+2. Não possuindo o preposto de empresa autorização para receber os pagamentos de que se apropriou indevidamente, afastada está a elementar do delito de apropriação indébita referente à posse lícita.
+3. Nos termos do art. 70 do Código de Processo Penal, a competência será de regra determinada pelo lugar em que se consumou a infração.
+4. No caso de estelionato, crime material tipificado no art. 171 do CP, a consumação se dá no momento e lugar em que o agente aufere proveito econômico em prejuízo da vítima.
+5. Conflito conhecido para declarar competente o JUÍZO DE DIREITO DA VARA ÚNICA DE NOVA SOURE - BA, ora suscitante.
+(CC n. 161.087/BA, relator Ministro Nefi Cordeiro, Terceira Seção, julgado em 24/10/2018, DJe de 30/10/2018.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. PENAL. APROPRIAÇÃO INDÉBITA EM RAZÃO DO OFÍCIO, EMPREGO OU PROFISSÃO. TRANSPORTE DE CARGA DE UM ESTADO DA FEDERAÇÃO PARA OUTRO. CONSUMAÇÃO DO DELITO. INDETERMINAÇÃO. COMPETÊNCIA DETERMINADA PELA PREVENÇÃO. CONFLITO CONHECIDO. COMPETÊNCIA DO JUÍZO SUSCITADO.
+- É certo que o delito de apropriação indébita se consuma no momento em que ocorre a inversão da posse do bem, ou seja, no momento em que o agente decide se apossar da coisa com animus domini.
+- No caso dos autos, não existem elementos suficientes para se aferir o momento exato da consumação do delito, razão pela qual a competência para futura ação penal deverá ser determinada pela prevenção, nos termos do art. 70, § 3º, do Código de Processo Penal.
+Precedentes.
+Conflito conhecido para declarar competente o Juízo de Direito da 2ª Vara Criminal de Blumenau - SC, o suscitado
+(CC n. 133.495/PI, relator Ministro Ericson Maranho (Desembargador Convocado do TJ/SP), Terceira Seção, julgado em 25/2/2015, DJe de 5/3/2015; grifou-se.)
+No julgamento do CC n.º 166218-PA, o Exmo. MinistroReynaldo Soares da Fonseca tratou se situação similar à presente, em que a inversão da posse do veículo locado se deu no momento em que o agente o alienou a terceiro. Confira-se o seguinte trecho da decisão:
+No caso concreto, a par de não se ter notícia, até o momento, de que o agente tenha se valido de fraude para efetuar a locação do automóvel, tal contrato é lícito e durante o seu prazo de duração (de três dias) o agente teve a posse lícita do bem, o que faz crer, pelo menos em princípio, que a conduta descrita melhor se amoldaria à apropriação indébita do que ao estelionato.
+Como se sabe, a definição da competência territorial para o julgamento de qualquer dos delitos é determinada pelo local de sua consumação (art. 70, CPP).
+Ora, o estelionato se consuma no local da obtenção da vantagem ilícita, que corresponde ao local em que é imposto prejuízo à vítima. Por sua vez, a apropriação indébita se consuma no momento em que ocorre a inversão da posse do bem, ou seja, no momento em que o agente decide se apossar da coisa com animus domini.
+Coincidentemente, em ambos os casos, fosse a conduta investigada tratada como estelionato ou como apropriação indébita, teríamos o mesmo local de consumação: aquele em que o automóvel foi indevidamente alienado a terceiro.
+Isso porque não há dúvida de que, caso se tratasse de estelionato, a vantagem indevida seria obtida exatamente no momento da venda do automóvel, ocorrido em Altamira/PA.
+De outro lado, a jurisprudência desta Corte tem entendido que a inversão da posse do bem, na apropriação indébita, ocorre no momento em que o locador de veículo o vende a terceiro como se fosse seu.
+Confiram-se, no ponto, os seguintes precedentes nos quais foram examinadas situações em tudo semelhantes à posta nestes autos:
+COMPETÊNCIA. APROPRIAÇÃO INDÉBITA. VEÍCULO.
+Foi instaurado inquérito visando apurar eventual ocorrência de delito tipificado no art. 171, § 2º, I, c/c o art. 14, II, ambos do CP. O autor do suposto delito, para resolver problemas particulares em cidade localizada no Estado de São Paulo, tomou emprestado, em uma cidade paranaense, um veículo de propriedade da vítima. O autor, chegando à cidade paulista, tentou entregar o mencionado carro a um terceiro, a título de compensação de dívidas, como se fosse sua propriedade. Das decisões proferidas pelos juízos suscitante e suscitado, vê-se que ambos entendem ter o agente praticado os delitos de apropriação indébita e de estelionato, este absorvido por aquele. A divergência foi instaurada quanto ao local de consumação do crime de apropriação indébita, tendo o primeiro juízo entendido que se daria no local da tradição do bem (em São Paulo) e o segundo, no local em que foi realizado o empréstimo (no Paraná). Assim, a questão está em definir o local da consumação do delito de apropriação indébita e, consequentemente, o juízo competente para processar e julgar a respectiva ação penal. Isso posto, a Seção conheceu do conflito e declarou competente o juízo suscitado ao argumento de que a apropriação consumou-se na cidade paulista, lugar em que o acusado entregou o veículo ao credor, momento em que transformou a posse em propriedade, em que externou sua vontade em não restituir o bem que estava em sua posse em razão de empréstimo.
+Precedentes citados: CC 57. 125-MT, DJ 7/8/2006; CC 16.389-SP; DJ 21/10/1996; CC 1.646-MG, DJ 3/6/1991, e CC 355-PE, DJ 25/9/1989. CC 102.103-PR, Rel. Min. Maria Thereza de Assis Moura, julgado em 12/8/2009.
+(Informativo STJ n. 402, 10 a 14 ago 2009, Terceira Seção) -negritei.
+COMPETÊNCIA. PENAL. APROPRIAÇÃO INDÉBITA.
+1. O JUÍZO COMPETENTE PARA PROCESSAR E JULGAR ACUSADO DE APROPRIAÇÃO INDÉBITA DE AUTOMÓVEL (CP, ART. 168) É O DO LUGAR ONDE OCORREU A VENDA DO VEÍCULO.
+2. CONFLITO CONHECIDO; COMPETÊNCIA DO SUSCITANTE.
+(CC 16.389/SP, Rel. Ministro EDSON VIDIGAL, TERCEIRA SEÇÃO, julgado em 26/06/1996, DJ 21/10/1996, p. 40198) -negritei.
+CONFLITO DE COMPETÊNCIA - APROPRIAÇÃO INDÉBITA - ART. 168 DO C.P.
+- NOS CRIMES DO ART. 168 DO C.P., A APROPRIAÇÃO INDÉBITA É POSTERIOR AO RECEBIMENTO DA COISA, LOGO, CONSUMA-SE NO LUGAR ONDE O SUJEITO ATIVO INVERTE A POSSE, DEMONSTRANDO INTENÇÃO DE DISPOR DA COISA, OU PELA NEGATIVA EM DEVOLVÊ-LA, E NÃO NO LOCAL ONDE DEVERIA RESTITUI-LA AO REAL PROPRIETÁRIO.
+- COMPETÊNCIA DO JUÍZO DE FRUTAL-MG, ONDE SE DEU A VENDA DO VEÍCULO TOMADO POR EMPRÉSTIMO, EM SÃO CARLOS-SP.
+(CC 1.646/MG, Rel. Ministro CID FLAQUER SCARTEZZINI, TERCEIRA SEÇÃO, julgado em 16/05/1991, DJ 03/06/1991, p. 7404) -negritei.
+Na mesma linha, o CC n. 165.704 de Relatoria do Min. JORGE MUSSI, publicado em 25/06/2019.
+ ..
+(CC n. 166.218, Ministro Reynaldo Soares da Fonseca, DJe de 01/07/2019.)
+Diante de tais considerações, conheço doconflito para declarar a competência do Juízo de Direito do Foro Central Criminal de Barra Funda, São Paulo-SP, ora suscitado.
+Publique-se. Intime-se.
