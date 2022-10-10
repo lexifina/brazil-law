@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Rubens Martins da Silva contra decisão desta relatoria assim ementada (e-STJ, fl. 1.061):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. OFENSA AOS ARTS. 10 E 933 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. REVISÃO DAS CONCLUSÕES DO TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. MULTA DO ART. 1.026, § 2º, DO CPC/2015.AFASTAMENTO. NECESSIDADE. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PARCIAL PROVIMENTO.
+Nas razões do agravo interno (e-STJ, fls. 1.073-1.078), oagravante afirma que não deve incidir o óbice da Súmula 7/STJ, sendo o caso de revaloração de provas.
+Pleiteia, ao final, o julgamento do recurso pelo Colegiado.
+Impugnação apresentada, oportunidade em que a parte agravada pleiteia a condenação da parte agravante ao pagamento damulta prevista no art. 1.021, § 4º, do CPC/2015 epor litigância de má-fé (e-STJ, fls. 1.073-1.078).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO VERBAL.REVISÃO DAS CONCLUSÕES DO TRIBUNAL ESTADUAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO INCIDÊNCIA, NA ESPÉCIE.LITIGÂNCIA DE MÁ-FÉ. NÃO CONFIGURADA. AGRAVO INTERNO IMPROVIDO.
+1. Modificar o entendimento do Tribunal local, a fim de reconhecer que o recorrente comprovou o fato constitutivo do seu direitopara recebimento de direitos econômicos, incorrerá em reexame de matéria fático-probatória, o que é inviável, devido ao óbice da Súmula 7/STJ, não sendo o caso de revaloração de provas.
+2. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+3. Conforme entendimento desta Corte, "a litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios" (AgInt no AREsp 1814712/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/09/2021, DJe 22/09/2021), o que não ocorreu no caso em análise.
+4. Agravo interno improvido.
+VOTO
+Reexaminando os autos, não se vislumbram razões para o provimento deste agravo interno.
+De início, conforme destacado na decisão que julgou o recurso especial interposto peloora agravante,na hipótese dos autos, o acórdão impugnado consignou que a parte recorrida não se desincumbiu de provar o fato constitutivo do seu direito, conforme se verifica do trecho abaixo transcrito (e-STJ, fls. 827-833, sem grifo no original):
+Cuida-se de ação de cobrança em que o autor apelante - diantedo vínculo de amizade e de interação que estabeleceu com o atleta defutebol profissional BERNARD - requer o recebimento de 5% dosdireitos econômicos do jogador na transferência do Clube AtléticoMineiro para o Shakhtar Donetsk, da Ucrânia, em uma negociação deR$77.000.000,00, alegando fazer jus à quantia de R$3.850.000,00.
+Destaca que, em reunião realizada no Rio de Janeiro comempresários e com representantes do jogador, na qual estevepresente, ficou estabelecido que, como primeiro incentivador do atleta,faria jus a 5% dos seus direitos econômicos, o que teria sidoreafirmado pelo apelado DÉLIO em conversas posteriores. Contudo,no ato da transferência dos direitos pelo Clube, tal não foi formalizado,tendo recebido tão somente R$200.000,00 do jogador.
+Inicialmente, importante pontuar a precisa definição da MM.Juíza "a quo" quanto à distinção entre os direitos federativos dojogador, incindíveis, e os direitos econômicos, estes sim passíveis dedivisão e negociação com terceiros.
+É inegável que, não obstante as meras tratativas levadas aefeito no Rio de Janeiro - ainda sem a participação do Clube AtléticoMineiro (detentor dos direitos federativos e econômicos do jogador) - aPromessa de Compromisso e Protocolo de Intenções de f. 108/110,documento formal que efetivamente cuidou da destinação dos direitoseconômicos do atleta, assim dispôs:
+ ..
+Logo, ficou patente, também, que nenhuma tratativa anteriorprevaleceria e que qualquer alteração posterior dependeria de umaditivo escrito.
+Portanto, inexiste qualquer referência ao apelante, em contratoescrito, como destinatário de parte dos direitos econômicos deBERNARD em eventual transferência que viesse ocorrer, ficandoaqueles restritos à empresa do ex-jogador BEBETO (10%), ao CAM(75%) e ao próprio BERNARD (15%).
+Nos termos do art. 373 do CPCI15, é ônus do autor provar osfatos constitutivos do seu direito e do réu, os fatos modificativos,extintivos e impeditivos do direito do autor.
+Logo,considerando que é o apelante quem alega a existênciado referido contrato verbal, é seu o ônus da prova, do qual não sedesincumbiu.
+ ..
+Ora, o fato é que o autor/apelante tenta provar a existência deum suposto contrato verbal, da expressiva quantia de R$3.850.000,00,unicamente diante da prova testemunhal, o que não pode prevalecer.
+Embora o caput do ad. 227 do Código Civil tenha sidoexpressamente revogado pelo novo CPC, os STJ estabeleceu asbalizas para a intepretação do parágrafo único, a saber:
+ ..
+Portanto, o que o apelante pretende é dar força de contrato àsmeras tratativas e conversas esparsas com a família do jogadorBERNARD,sendo certo que, ao final, na formalização do contrato, seunome não integrou a lista de beneficiários dos direitos econômicos,ficando inequívoco que, deliberadamente, não foi contemplado.
+Demais disso, como já destacado, a CLÁUSULA QUARTA exclui todae qualquer possibilidade de dar força de contrato às reuniõespreliminares, da fase de tratativas.
+Ora, o contrato verbal só teria validade se fosse devidamenteprovado por testemunhas, documentos, ou por qualquer outro meioidôneo,o que não ocorreu nos presentes autos. As gravaçõesambientais, por não se submeterem a uma perícia e por estaremeditadas, não se prestam aos fins colimados,inclusive considerandoque, tal como a reunião ocorrida no Rio de Janeiro (informal e sem aparticipação do Clube Atlético Mineiro), cuidam de meras afirmaçõesque não vinculam os interlocutores, típicas da fase de tratativas.
+Há de se considerar, também, os ofícios def. 111 e 123, em queo Clube Atlético Mineiro declara desconhecer a pessoa doautor/apelante e que jamais teria negociado com ele os direitoseconômicos de BERNARD.
+Anote-se, também, queas negociações posterioresde cotaspela BLESSED 94 SPORTS ASSESSORIA E PROMOÇÃO LTDA. aoCOIMBRA ESPORTE CLUBE LTDA., f. 112/115, e pelo jogadorBERNARD ao empresário GIULIANO PACHECO BERTOLUCCI, f.116/119, tiveram a inequívoca participação do CLUBE ATLÉTICOMINEIRO como anuente, haja vista que o clube ainda era o detentordos direitos federativos e da maior parte dos direitos econômicosremanescentes do jogador.Assim, qualquer cessão futura que viesseocorrer, além da já explanada exigência de contrato escrito (que nãohouve), também deveria passar pelo crivo do CAM.
+Demais disto, como dito em contestação, f. 148,nunca foramoutorgados poderes ao autor/apelante para administração da carreirado jogador, nunca houve prestação de serviços à carreira do jogadorBERNARD e, por conta disso, nunca foi ajustada qualquerremuneração.
+As degravações de arquivos de áudio procedidas em cartório denotas, f, 268/293, como já afirmado,não se prestam à prova do direitoautoral, especialmente porque os atos de disposição dos direitoseconômicos do jogador, mesmo depois das cessões pela BLESSED 94SPORTS e pelo CAM, dependeriam da forma escrita.
+Pontue-se que as conversas do apelante com o pai doBERNARD nem sequer poderiam vinculá-lo a uma promessa derecompensa (não provada) ou a um suposto (e também não provado)contrato verbal de agenciamento, posto que, a teor do contrato, quemassumiu os 15% dos direitos econômicos valores foi o próprioBERNARD, e não seu pai ou sua família.
+Quanto à doação de R$200.000,00, não passou de meraliberalidade, pela ajuda e incentivo recebidos, sem qualquer vinculaçãocom os direitos econômicos do atleta.
+A modificação de tais entendimentos lançados no acórdão recorrido, a fim de reconhecer que o insurgente comprovou o fato constitutivo do seu direito, havendo, assim, contrato verbale,portanto,direito a receber 5% dos direitos econômicos do ora recorrido em virtude da transferência do jogador do Clube Atlético Mineiro para o Shakhtar Donetsk, da Ucrância, demandaria o revolvimento de suporte fático-probatório dos autos, o que é impossível ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DEVEDOR. CONFISSÃO DE DÍVIDA. CONTRATO DE FOMENTO MERCANTIL (FACTORING). OMISSÃO. NÃO OCORRÊNCIA. CLÁUSULAS ABUSIVAS. ÔNUS DA PROVA. FATO CONSTITUTIVO DO DIREITO DO AUTOR. AGRAVO INTERNO IMPROVIDO.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, não havendo omissão, contradição, obscuridade ou erro material no aresto recorrido, não se verifica a ofensa ao art. 1.022 do Código de Processo Civil de 2015.
+2. Nos termos do art. 373, I, do CPC/2015, incumbe ao autor o ônus da prova quanto ao fato constitutivo do direito alegado.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.510.140/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 10/8/2020, DJe de 26/8/2020.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC. CONTRADIÇÕES. NÃO OCORRÊNCIA. ILEGITIMIDADE PASSIVA DA RECORRENTE. SÚMULA N. 7/STJ. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. RAZÕES DISSOCIADAS. SÚMULA N. 284/STF. UTILIZAÇÃO DO CRITÉRIO DE EQUIDADE. INOVAÇÃO RECURSAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Não é possível verificar a coexistência de proposições inconciliáveis no interior do julgado, o que caracterizaria contradição apta a ensejar a acolhida da violação do art. 1.022 do CPC e não é o caso dos autos.
+2. Não é possível verificar a nulidade suscitada sem que sejam analisados elementos fáticos e probatórios dos autos, uma vez que o contrato não foi declarado nulo em sentença e a parte nem mesmo fez prova da existência da negociação verbal. Súmula n. 7/STJ.
+3. A tese presente no recurso especial, no sentido de que, no momento da majoração dos honorários, apesar de ter como fundamento o art. 85, §§ 2º e 11, o Tribunal de origem não se atentou ao valor da causa está dissociada do julgado recorrido, uma vez que o arbitramento na sentença não se deu com base no valor da causa, mas pelo critério de equidade do § 8º. Súmula n. 284/STF.
+4. O argumento do presente agravo no sentido da "não possibilidade de arbitramento dos honorários pelo critério da equidade" (e-STJ fl. 486) somente foi trazido aos autos na presente ocasião. Indevida inovação recursal.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.459.469/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/8/2019, DJe de 27/8/2019.)
+Desse modo, não há razões que justifiquem o acolhimento da pretensão recursal, razão pela qual permanece incólume o entendimento firmado na decisão agravada.
+Relativamente ao pleito da parte agravada para aplicação de multa, esta Corte Superior tem entendido que o mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, sendo imperioso para tal que seja nítido o descabimento do recurso.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE RESOLUÇÃO CONTRATUAL CUMULADA COM RESTITUIÇÃO DE VALORES CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. ART. 1.021, § 4º, DO CPC/2015. MULTA. NÃO CABIMENTO. ART. 85, § 11, DO CPC/2015. HONORÁRIOS. MAJORAÇÃO.
+INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A Segunda Seção do Superior Tribunal de Justiça decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+4. Não é possível majorar os honorários na hipótese de interposição de recurso no mesmo grau de jurisdição (art. 85, § 11, do CPC/2015).
+5. Agravo interno não provido.
+(AgInt no AREsp 1728999/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/08/2021, DJe 03/09/2021)
+Por fim, acerca da pretensão da parte agravada de ver aplicada aoagravante a pena por litigância de má-fé, constata-se que não merece guarida, pois, conforme entendimento desta Corte, "a litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios" (AgInt no AREsp 1814712/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 20/09/2021, DJe 22/09/2021), o que não ocorreu no caso em análise.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
