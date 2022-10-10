@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI:
+Trata-se de agravo interno interposto em face de decisão que negou provimento ao agravo em recurso especial, mediante os seguintes fundamentos: (i) impossibilidade de reinterpretação de cláusulas e provas (Súmula 5/STJ); e (ii) inviabilidade de reexame de fatos e provas (Súmula 7/STJ).
+Nas razões do agravo interno, a parte recorrente sustenta a inaplicabilidade dos óbices sumulares acima referidos, aduzindo que "o caso concreto não encontra óbice na Súmula nº 7 pois não exige o reexame de provas e fatos", visto que "todas as circunstâncias fáticas em debate estão explicitamente delineadas nos acórdãos do Tribunal de origem" (fl. 8036).
+Acrescenta que não "se pretende nos autos a simples interpretação de cláusulas contratuais - a ensejar à óbice da Súmula nº 5/STJ. Isso porque, o simples fato de o objeto da ação inicialmente tratar de cobrança de prestação de serviços contratuais, não significa que a pretensão contida no recurso é simplesmente a revisão de cláusula contratual" (fl. 8038).
+Alega que houve "uma clara inversão do instituto da boa-fé contratual por parte do Tribunal a quo - uma vez que, inadequadamente, supôs que a boa-fé contratual estaria ao lado do devedor que deixou de adimplir sua parcela contratual após o credor ter cumprido integralmente a sua obrigação" (fls. 8039-8040).
+Assevera que "entender que a boa-fé é resguardada por aquele que firma contrato de prestação de serviços e deixa de seguir os ditames contratuais é um incentivo ao inadimplemento dos devedores e viola o disposto nos artigos 113 e 422 do Código Civil" (fl. 8040).
+Defende que "a ausência de cobrança quanto ao montante glosado equivocadamente no lapso temporal supramencionado não é suficiente, por si só, para a caracterização da supressio - uma vez que a inércia do titular do direito deve ter dimensão tamanha a gerar na outra parte justa expectativa de que o direito não será mais exercido" (fl. 8041).
+A parte agravada apresentou impugnação, requerendo a aplicação de multa à agravante, nos termos do art. 1.021, § 2º, do Código de Processo Civil.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REEXAME DE FATOS E PROVAS. INVIABILIDADE.
+1. Inviável, em recurso especial, a reinterpretação de cláusulas contratuais e o reexame de matéria fático-probatória. Incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (RELATORA):
+O agravo interno não merece provimento.
+Inicialmente, anoto que o recurso especial interposto contra acórdão ementado nos seguintes termos (fl. 7894):
+PRESTAÇÃO DE SERVIÇOS. Transporte e uso exclusivo de equipamentos (locação). Ação de cobrança e reconvenção. 1. Cobrança de fretes. Improcedência, pois comprovado o pagamento integral. 2. Cobrança de locação. Forma de execução dos contratos e conduta das partes que faz presumir que o valor de locação serviria de base para pagamento mínimo pelo contrato de transporte. Imputação pela ré, durante toda a vigência dos contratos, dos valores de locação ao pagamento dos fretes. Inércia da ré e reconhecimento de crédito em favor da autora, que caracteriza a figura da supressio, isto é, a perda da possibilidade de implementação de um direito pela falta de exercício. Ação procedente e reconvenção improcedente. Recurso da ré não provido, provido o da autora.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante apontou violação dos arts. 113 e 422 do Código Civil; bem como divergência jurisprudencial.
+Sustentou que, ao contrário do decidido no acórdão recorrido, a inércia da recorrente em cobrar valores devidos pela recorrida não perdurou por todo o período do contrato, mas apenas em 5 (cinco) dos 12 (doze) anos de duração da relação contratual, em decorrência, sobretudo, da dependência comercial oriunda do vínculo de exclusividade, o que não caracteriza o instituto da supressio, inclusive, porque a recorrente sempre observou a boa-fé na execução do contrato.
+Afirmou que "a jurisprudência desta C. Corte formada especificamente sobre o instituto da "supressio", materializada no precedente produzido no julgamento do REsp nº 1.162.985 - RS, de relatoria da eminente Ministra Nancy Andrighi, constante do Informativo 523, exige que a inércia do titular tenha dimensão tamanha a gerar na outra parte a justa expectativa de que o direito não será mais exercido, situação claramente inocorrente no caso em apreço" (fls. 7927-7928).
+A parte recorrida apresentou contrarrazões.
+Da análise do acórdão recorrido, verifico que o Tribunal de origem, ao decidir a controvérsia, amparou seu entendimento em cláusulas contratuais e circunstâncias fático-probatórias inerentes à causa, exarando os seguintes fundamentos (fls. 7897-7903):
+Restou incontroverso que durante o cumprimento do contrato, a contratante Nynas efetuava adiantamentos de valores à TB, que ao final do mês eram compensados e/ou devolvidos. Também incontroverso o valor devido pela TB à Nynas, já que bem comprovado e não contestado.
+Portanto correta a procedência da ação principal.
+Quanto à reconvenção, respeitado entendimento da MMª. Juíza a quo, a sentença comporta reforma.
+A ré reconvinte postula o pagamento de R$ 3.922.146,19, mais atualização e juros, relativos a fretes apontados como não pagos no período de outubro de 2011 a abril de 2014.
+Todavia, como a própria ré reconhece, todos esses fretes foram pagos com valores que, segundo ela, corresponderiam ao contrato de locação.
+ ..
+Diga-se de passagem, a própria ré fazia essa imputação de pagamento, isto é, destinava os valores de suposta locação ("contrato") ao pagamento dos fretes que ora vem exigir, conforme se observa das prestações de contas mensais elaboradas por ela (vide p. ex. fls. 1615; 1701; 2037) Os conhecimentos de transporte tidos por não pagos, também trazem a observação "contrato", trazendo indícios de que estavam incluídos nos valores previstos no "contrato" de locação.
+Milita contra a ré, o fato de em determinados meses, o saldo da prestação de contas ser positivo em favor da autora e devolvido pela ré, como se pode observar, a título de exemplo, dos meses de agosto/2012 (fls. 2843/2844 e 2854); outubro/2012 (fls. 3166/3167); outubro/2013 (fls. 4777/4779 e 4780); novembro/2013 (fls. 4970/4971 e 4979), dentre outros.
+Ora, se todos os fretes relacionados naqueles meses não foram pagos, como alega a ré, por qual razão o reconhecimento de crédito em favor da Nynas
+Tudo para reforçar a conclusão de que os fretes foram realmente pagos, como bem apurou o perito (fls. 7413, 7418, 7420/7421, 7437, 7438, 7451, 7453).
+Portanto, nesse ponto, foi correta a r. sentença, ao afastar a pretensão reconvencional de cobrança dos fretes, bem como de pagamento da multa prevista na cláusula 15ª do contrato de prestação de serviços, porque não caracterizada inadimplência da autora.
+Já com relação aos valores cobrados a título de locação, a solução não poderia ser aquela adotada na sentença, data venia.
+A autora afirma que os valores previstos no contrato de locação (ou utilização de equipamentos), serviam apenas de base para pagamento mínimo a ser feito à ré em decorrência da prestação de serviços de transporte.
+Embora não haja previsão expressa nesse sentido nos contratos, toda a documentação carreada aos autos dá suporte a essa versão.
+De fato, os documentos juntados aos autos demonstram que nunca houve pagamento de locação. Mesmo naqueles períodos apontados pela ré anteriores a maio/14, não há identificação de pagamentos a título de locação.
+Conforme mencionado acima, os valores pagos a título de "contrato" que, segundo a ré, seriam relativos à locação, sempre foram imputados ao pagamento de fretes, inclusive pela própria ré.
+E se os valores de locação sempre foram destinados ao pagamento dos fretes, não é errado afirmar que nunca houve pagamento a título de locação, como confessado pela autora e confirmado pelo perito (fls. 7409 e 7425).
+Nas prestações de contas do período apontado como de inadimplência do contrato de locação (mai/2014 a set/2016), a ré engloba os valores de fretes e "contrato SP" como um todo, destacando apenas o "contrato BA", mas imputando o pagamento aos fretes (vide, p. ex., fls. 5907/5908 e 5914; 6019/6020 e 6021; 6132/6134 e 6146). E em todos os meses do período apontado como inadimplido o contrato de locação (maio14 a set/2016) reconheceu crédito em favor da Nynas (vide fls. 5914, 6021, 6146, 6322, 6492, 6611, 6764, 6845/6847, 7484/7531).
+Tudo convergindo para corroborar a versão da autora, no sentido de que o valor de locação serviria apenas como valor mínimo de pagamento, a fim de compensar a exclusividade na utilização dos equipamentos.
+Se não era esse o acordado, como afirma a autora e nega a ré, deveria a ré ter exercido o seu direito de cobrança desde o início e não após a resolução dos contratos.
+Ao contrário disso, a ré imputou os valores do contrato de locação ao pagamento de fretes e, como já dito, reconheceu mensalmente créditos em favor da autora.
+Ao não exercer o seu direito de maneira reiterada e agir de forma contrária a ele, a ré permitiu a manifestação do instituto da supressio, isto é, a perda da possibilidade de implementação de um direito pela falta de exercício, conforme já deixou assente o Superior Tribunal de Justiça:
+ ..
+A atitude da ré, que agiu em contradição ao comportamento adotado anteriormente, caracteriza venire contra factum proprium, ou seja, a tomada de uma posição jurídica contrária à assumida habitualmente, que engendra quebra de confiança, por ofensa ao princípio da boa-fé, que deve nortear as relações contratuais.
+A inércia da ré e mais do que isso, o comportamento contrário ao direito perseguido, durante tão largo tempo gerou para a autora confiança que merece ser protegida com base no princípio da boa-fé.
+ ..
+Assim sendo, nos termos em que dispõem os artigos 112 e 113 do Código Civil, a melhor forma de se interpretar as declarações de vontade é examinar o modo como as partes cumprem o negócio jurídico, observando, também, o princípio da boa-fé (art. 422).
+Portanto, na situação em tela o princípio da boa-fé objetiva torna inviável a pretensão da ré de exigir os valores a título de locação.
+A desconstituição de tais premissas, portanto, a fim de alterar a conclusão adotada no acórdão recorrido e reconhecer a alegada inadimplência contratual da recorrida, tal como pretende a parte recorrente, demandaria, inevitavelmente, reinterpretação de cláusulas contratuais e reexame de fatos e provas, o que encontra óbice nos enunciados das Súmulas 5 e 7 do STJ.
+Exemplificativamente:
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE EXTINÇÃO DE HIPOTECA. RELAÇÃO CONTRATUAL. AQUISIÇÃO DE COMBUSTÍVEL E USO DA MARCA. INEXISTÊNCIA DE OBRIGAÇÕES PENDENTES. SUPRESSIO E SURRECTIO. CARACTERIZAÇÃO. AUSÊNCIA DE PRORROGAÇÃO DO CONTRATO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE (SÚMULA 7/STJ). AGRAVO INTERNO NÃO PROVIDO.
+1. Segundo o instituto da supressio, a consagrada inércia no exercício de direito pelo titular, no curso de relação contratual, gera para a outra parte, em virtude do princípio da boa-fé objetiva, a legítima expectativa de que não mais se mostrava sujeita ao cumprimento da obrigação negligenciada, caracterizando possível deslealdade a pretensão de retomada posterior do exercício do direito. Precedentes.
+2. No caso, o Tribunal de Justiça observou que, durante anos, a ré nunca procurou satisfazer seu direito contratual relativo ao fornecimento de cota mínima de combustível a ser adquirido pelo autor, extinguindo a relação contratual no seu termo final, sem a pendência de débitos inadimplidos, razão pela qual não haveria motivo para a permanência do gravame hipotecário. A modificação de tal entendimento, sobretudo quanto à caracterização dos institutos da supressio e da surrectio, demandaria o reexame do substrato fático-probatório dos autos, providência inviável no recurso especial, a teor do disposto na Súmula 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.795.558/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/06/2021, DJe 01/07/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 2. CONCLUSÃO ESTADUAL NO SENTIDO DA CARACTERIZAÇÃO DO DESCUMPRIMENTO CONTRATUAL E INEXISTÊNCIA DE SUPRESSIO. ENTENDIMENTO FUNDADO EM FATOS, PROVAS E TERMOS CONTRATUAIS. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. 3. DISTRIBUIÇÃO DOS HONORÁRIOS. SUCUMBÊNCIA RECÍPROCA. REVISÃO. ÓBICE DA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A alteração da conclusão adotada pela Corte de origem (acerca da falta de boa-fé da parte agravada e do descumprimento contratual, da ocorrência da supressio e da ausência de comprovação do pagamento do seguro) demandaria, necessariamente, a interpretação de cláusulas contratuais e novo exame do acervo fático-probatório constante dos autos, providências vedadas no âmbito do recurso especial, conforme os óbices previstos nas Súmulas 5 e 7 deste Tribunal Superior.
+3. A apreciação, em recurso especial, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.(AgInt no AREsp 1.801.440/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/05/2021, DJe 13/05/2021.)
+Outrossim, os óbices das Súmulas 5 e 7 do STJ impedem, por semelhantes motivos, a análise da apontada divergência jurisprudencial.
+Nesse contexto, não havendo argumentos aptos a infirmar os fundamentos da decisão agravada, esta deve ser integralmente mantida.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
