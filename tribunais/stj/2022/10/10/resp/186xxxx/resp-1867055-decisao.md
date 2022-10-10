@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo INSS, com base no art. 105, III, "a", da CF/1988, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo,quedeu parcial provimento a recurso de apelação contra sentença que julgou improcedente ação revisional de benefício acidentário, assimementado(fl. 223):
+AÇÃO ACIDENTÁRIA. INSPETOR DE QUALIDADEEM METALÚRGICA - ALEGAÇÕES DE LER/DORT EMOLÉSTIAS COLUNARES. PROVA TÉCNICA INSUFICIENTE, NECESSIDADE DEREALIZAÇÃO DE NOVA PERÍCIA MÉDICA A FIM DEAUFERIR O ATUAL ESTADO DE SAÚDE DOSEGURADO E VERIFICAR A EXISTÊNCIA DE NEXOCAUSAL ENTRE AS MOLÉSTIAS E O TRABALHO DOOBREIRO. JULGAMENTO CONVERTIDO EM DILIGÊNCIA.
+Opostos embargos de declaração, foram rejeitados (fls. 343-347).
+Nas razões do recurso, sustenta a autarquia que o acórdão violouoart. 41-Ada Lei n. 8.213/1991, com a redação dada pela Lei n. 11.430/2006, oart. 5ºda Lei n. 11.906/2009 e o art. 1º-F da Lei n. 9.494/1997.
+Alega, por fim (fl. 360):
+Assim, o INSS requer e aguarda que o presente Recurso Especial seja conhecido e provido, com a reforma do v. aresto recorrido para determinar a aplicação, para fins de correção monetária do débito, o índice INPC a partir do advento da Lei 11.430/2006, bem como a TR como índice de atualização das parcelas em atraso a partir da Lei nº 11.960/2009,excluindo-se a aplicação do IGP-DI e do IPCA-E nos moldes determinados pelo v. acórdão recorrido.
+Decorrido in albiso prazo para as contrarrazões (fl. 365).
+Em juízo de retratação, o Tribunal a quo proferiu novo acórdão, cuja ementa se transcreve(fl. 373):
+Reanálise do tema nos termos do art. 1.030, do CPC/15. Representação encaminhada pela E. Presidência do Direito Público para manifestação acerca do precedente do C. Superior Tribunal de Justiça (REsp nº 1.495.146/MG) no qual restou entendido que as condenações judiciais de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei nº 11.430/2006, que incluiu o art. 41-A na Lei 8.213191. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 10-F da Lei nº 9.494197, com redação dada pela Lei nº 11.960/2009).
+Alteração do acórdão.
+Sobreveio juízo de admissibilidade positivo da instância de origem(fls. 385-386).
+É, no essencial, o relatório.
+No caso dos autos, verifica-se que o Tribunal de origem, em juízo de retratação realizado nos termos do art. 1.040, II, do CPC, proferiu novo julgamento, alterando o entendimento anteriormente exarado (fl. 210).
+Assim, como houve alteração do fundamento adotado pela Corte de origem, a ratificação do recurso com relação a essa matéria seria medida de rigor. Ocorre que o recorrente não promoveu a necessária ratificação do apelo nobre, o que enseja o não conhecimento do especial. Incidência, por analogia e mutatis mutandis, da Súmula n. 579 do STJ:
+Não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior.
+No mesmo sentido, cito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ACIDENTÁRIA. BENEFÍCIO DEFERIDO. CORREÇÃO DOS VALORES EM ATRASO. INDEXADOR. TEMAS 905/STJ e 810/STF. ADEQUAÇÃO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ. APLICAÇÃO. PRECEDENTES.
+1. Trata-se de Agravo Interno contra decisão que entendeu necessária a ratificação do Recurso Especial quando o juízo de retratação modificar o acórdão para adequação aos temas repetitivos ou de repercussão geral, - In casu, os Temas 905/STJ e 810/STF - a contrario sensu da Súmula 579/STJ.
+2. De acordo com o art. 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 (seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (artigo 1.040, II, do CPC/2015), e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao Tribunal Superior para julgamento das demais questões". Diretriz metodológica que, por certo, deve alcançar também aqueles feitos que já tenham ascendido ao STJ.
+3. O Recurso Especial não tratou de questões outras. O Tribunal a quo, em juízo de retratação, proferiu novo julgamento e modificou o entendimento anteriormente exarado. Dessa forma, como houve alteração do fundamento adotado pela Corte de origem, a ratificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia, da Súmula 579/STJ. Precedentes.
+4. Agravo Interno não provido.
+(AgInt no REsp n. 1.903.067/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 16/3/2021.)
+PROCESSUAL CIVIL. INTERESSE RECURSAL. BINÔMIO NECESSIDADE/UTILIDADE. AUSÊNCIA. RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO NA ORIGEM. RATIFICAÇÃO DO APELO. NECESSIDADE. 1. Consoante o entendimento desta Corte, caso o exame da questão não traga nenhum resultado prático à parte recorrente, fica afastado o binômio utilidade/necessidade, com a configuração da ausência de interesse recursal.
+2. Consoante o entendimento do STJ, havendo a alteração do fundamento adotado pela Corte de origem, a ratificação do apelo nobre anteriormente interposto é obrigatória, sob pena de aplicação, por analogia, da Súmula 579 do STJ.
+3. Agravo interno parcialmente conhecido e desprovido. (AgInt no REsp n. 1.959.776/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 22/3/2022.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
