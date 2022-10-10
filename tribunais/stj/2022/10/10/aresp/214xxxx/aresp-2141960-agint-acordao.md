@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto porClaudio Afonso Nervocontra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 732):
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. PARCELA DÉCIMA TERCEIRA CESTA-ALIMENTAÇÃO. INCLUSÃO NO CÁLCULO DA CONDENAÇÃO. DESCABIMENTO NO CASO CONCRETO. MULTA E HONORÁRIOS DO ART. 475-J DO CPC/73. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões (e-STJ, fls. 737-745), oagravantesustenta a violação do art. 1.022 do CPC/2015, porquanto o acórdão recorrido não apreciou o pedido que motivou o recurso especial, qual seja, a ausência de pagamento damulta e honorários da fase de cumprimento de sentença sobre o saldo devedor remanescente que é derivado do depósito menor anteriormente feito. Frisa, ainda, que não se trata de reexame de prova, devendo ser afastada a incidência da Súmula n. 7/STJ.
+Repisa os argumentos do recurso especial no sentido de quedeve ser "aplicada a multa de 10% sobre o valor devido à luz da interpretação desta Colenda Corte, respeitado o título judicial transitado em julgado com relação ao valor da verba e ao reflexo conforme parametrizado entre ativos e inativos no título exequendo em relação a décima terceira parcela, consoante as decisões transitadas em julgado e que estão sendo feridas na decisão recorrida".
+Foi apresentada impugnação (e-STJ, fls. 748-753).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. PARCELA DÉCIMA TERCEIRA CESTA-ALIMENTAÇÃO. INCLUSÃO NO CÁLCULO DA CONDENAÇÃO. DESCABIMENTO NO CASO CONCRETO. MULTA E HONORÁRIOS DO ART. 475-J DO CPC/1973. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284/STF. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1.Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2.A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada, bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+3.Reverter a conclusão do colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra impossível dada a natureza excepcional da via eleita, segundo enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+4.Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento.
+Conforme consignado na decisão agravada, a alegação de violação do art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da recorrente.
+O Tribunal de Justiça do Estado do Rio Grande do Sul, ao julgar a apelação, consignou o seguinte (e-STJ, fls. 584-586):
+Conforme se observa, não há no título executivo judicial condenação da Fundação Banrisul de Seguridade Social ao pagamento da parcela décima terceira cesta-alimentação, tampouco pedido específico neste sentido. E, diferentemente dos reflexos sobre o décimo terceiro, aquela não decorre do simples reconhecimento do direito à implementação de parcelas a título de auxílio cesta-alimentação em benefício previdenciário.
+(..)
+Logo, descabe incluir no cálculo da condenação a parcela décima terceira cesta-alimentação. Com relação à multa prevista no art. 475-J do CPC/73, atual art. 523 do CPC/15, também não encontra respaldo o pleito recursal. Isso porque, a questão já restou decidida nos autos do cumprimento de sentença, não sendo objeto de impugnação, a saber:
+(..)
+Ademais, intimado através da NE nº 374/2020 para pagamento da dívida, na forma o art. 523 do CPC, este realizou o pagamento em 17-12-2020 (fl. 540), dentro do prazo legal.
+Não há falar, outrossim, em majoração dos honorários advocatícios, porquanto já estabelecidos nos autos do Agravo de Instrumento nº 700498464211, com trânsito em julgado. Portanto, descabe a modificação de questões já decididas no curso do cumprimento de sentença, as quais não foram objeto de impugnação, sob pena de ofensa à preclusão e à coisa julgada. (Sem grifo no original).
+Verifica-se que orecorrente não se desincumbiu de demonstrar as razões pelas quais considera violadas as normas legais apontadas, tampouco impugnou os fundamentos do acórdão recorrido, incidindo, por analogia, os enunciados sumulares n. 283 e 284/STF, que dispõem respectivamente: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Além disso, ratifica-se que a alteração do entendimento exarado pelo aresto recorrido demandaria o reexame de elementos fático-probatórios dos autos, o que não é possível no âmbito do recurso especial, em face do óbice da Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
