@@ -1,0 +1,40 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TERGIVERSAÇÃO. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado.
+2. Omissa é a manifestação jurisdicional que deixa de apreciar requerimento ou pedido formulado pela parte, desde que persistam as condições da ação. Independentemente de a Defesa insistir no interesse de que seja declarada a nulidade da decisão alegadamente fundamentada per relationem, o objeto impugnado no pedido formulado na inicial deste feito - que consubstancia via destinada exclusivamente à tutela da liberdade direta ou indireta do direito ambulatorial - esvaziou-se com a revogação das medidas cautelares na origem.
+3. Recurso oposto com o inequívoco intento de viabilizar novos debates a respeito de controvérsias já decididas, o que sabidamente não se coaduna com a sua finalidade processual.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de embargos de declaração no agravo regimental em habeas corpus opostos por THIAGO PAES DE ANDRADE RODRIGUES contra o acórdão de fls. 4.416-4.421, proferido por esta Sexta Turma do Superior Tribunal de Justiça, assim ementado (fl. 4.416):
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. RAZÕES RECURSAIS DISSOCIADAS DA MOTIVAÇÃO DA DECISÃO ORA IMPUGNADA. VIOLAÇÃO DAS REGRAS DOS ARTS. 1.021, § 1.º, DO CÓDIGO DE PROCESSO CIVIL, E 259, § 2.º, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO NÃO CONHECIDO.
+1. A circunstância de as razões do agravo regimental estarem dissociadas dos fundamentos do decisum ora recorrido viola regra do Código de Processo Civil (art. 1.021. § 1.º), identicamente reproduzida no art. 259, § 2.º, do Regimento Interno do Superior Tribunal de Justiça, na qual se prevê que, " n a petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+2. Agravo regimental não conhecido."
+Nas razões opostas às fls. 4.423-4.434, o Embargante argumenta que o ato "embargado incorreu, de boa-fé, na claríssima omissão escusável de deixar de examinar o capítulo específico do agravo regimental em que impugnado o fundamento da decisão monocrática, de e-STJ fl. 4350-56, no qual explicado didaticamente a inexistência de prejudicialidade do writ pela revogação do afastamento do Paciente pelo Tribunal coator, bem como esclarecendo o motivo pelo qual persite o interesse jurídico no julgamento" (fl. 4.424).
+Aduz, ainda, "que o objeto da impetração busca a declaração de nulidade da decisão que deferiu as medidas cautelares penais apenas reproduzindo a petição da acusação, EXPLICANDO o motivo pelo qual persiste o interesse do Impetrante em obter a plena prestação jurisdicional de controle de legalidade da decisão proferida pelo Tribunal coator" (fl. 4.426).
+Ao final, requer seja sanada a alegada "OMISSÃO NO EXAME DO AGRAVO REGIMENTAL, EM ESPECIAL DO CAPÍTULO ESPECÍFICO DE E-STJ FL. 4350-56" (fl. 4.433).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TERGIVERSAÇÃO. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado.
+2. Omissa é a manifestação jurisdicional que deixa de apreciar requerimento ou pedido formulado pela parte, desde que persistam as condições da ação. Independentemente de a Defesa insistir no interesse de que seja declarada a nulidade da decisão alegadamente fundamentada per relationem, o objeto impugnado no pedido formulado na inicial deste feito - que consubstancia via destinada exclusivamente à tutela da liberdade direta ou indireta do direito ambulatorial - esvaziou-se com a revogação das medidas cautelares na origem.
+3. Recurso oposto com o inequívoco intento de viabilizar novos debates a respeito de controvérsias já decididas, o que sabidamente não se coaduna com a sua finalidade processual.
+4. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir eventual omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado.
+A obtenção de efeitos infringentes, como pretende o Embargante, com a rediscussão da matéria, somente é possível como consequência do reconhecimento de um dos vícios acima referidos.
+Ocorre que a motivação do decisum é suficiente para embasar sua conclusão, inexistindo o vício alegado, pois omissa é a manifestação jurisdicional que deixa de apreciar requerimento ou pedido formulado pela parte, desde que persistam as condições da ação.
+No caso, consignei no acórdão embargado, expressamente, que julguei prejudicado o pedido formulado na inicial deste feito porque, nas informações que prestou às fls. 4.326-4.327, o Relator da Cautelar Inominada Criminal n. 0635805-88.2021.8.06.0000 esclareceu que em 27/06/2022 proferiu, naqueles autos, "decisão deferindo o pedido de fls. 4179/4189 (acompanhado dos documentos de fls.4190/4192) e revogando, relativamente ao ora paciente, as medidas cautelares de suspensão do exercício da função pública e de proibição de entrada em repartições públicas de Catarina/CE" (fl. 4.327).
+Concluí, assim, que as pretensões defensivas formuladas pela Defesa foram satisfeitas em decisão proferida na origem, motivo pelo qual se configurou a superveniente ausência de interesse processual.
+Dessa forma, independentemente de a Defesa insistir no seu interesse de que seja declarada a nulidade da decisão alegadamente fundamentada per relationem, o objeto impugnado no pedido formulado na inicial deste feito - que consubstancia via destinada exclusivamente à tutela da liberdade direta ou indireta do direito ambulatorial - esvaziou-se. Caso pretenda o reconhecimento dos alegados vícios, deverá formular pedido adequado, ao órgão judiciário competente.
+Portanto, considerados esses fundamentos, constato que os embargos de declaração foram opostos com o inequívoco intento de viabilizar novos debates a respeito de assuntos já decididos, o que sabidamente não se coaduna com a sua finalidade processual.
+A propósito, destaco o seguinte julgado:
+"PENAL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. OMISSÃO. INEXISTÊNCIA. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. NATUREZA DECLARATÓRIA. CAUSA INTERRUPTIVA. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O acórdão está devidamente fundamentado e não incorreu em omissão, contradição ou obscuridade. O embargante pretende rediscutir o tema julgado pelo agravo, finalidade a que não se destinam os embargos de declaração.
+2. O acórdão que apenas confirma a sentença de primeiro grau, sem decretar nova condenação por crime diverso, não configura marco interruptivo da prescrição, ainda que haja reforma considerável na dosimetria da pena. Precedente.
+3. Embargos de declaração rejeitados." (STJ, EDcl nos EDcl no AgRg no REsp 1.629.674/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/06/2018, DJe 12/06/2018; sem grifos no original.)
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
