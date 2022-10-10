@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno interposto da decisão monocrática às fls. 205-207, e-STJ, que não conheceu do Recurso Especial, em razão de a matéria debatida ser de cunho constitucional.
+O Recurso Especial (art. 105, III, "c", da Constituição da República) foi oposto ao acórdão assim ementado:
+PREÇO PÚBLICO E PROCESSUAL CIVIL. AGRAVO INTERNO. COMPETÊNCIA DO RELATOR. PRAZO FIXADO PARA PAGAMENTO MEDIANTE ATO ADMINISTRATIVO DE TAXA ANUAL POR HECTARE ANTERIOR À VIGÊNCIA DA LEI 9.314/1996. NECESSIDADE DE LEI.
+1. Publicada a sentença/decisão na vigência do CPC/1973, o relator ainda pode decidir recurso nos termos do art. 557 e § 1º-A do código revogado, não se aplicando as regras do art. 932/IV e V do CPC/2015.
+2. Ficou decidido que nos termos do art. 20, § 4º, do Decreto-Lei 227/1967 (antes de sua alteração pela Lei 9.314/1996), somente a lei poderia estabelecer o prazo para pagamento da "taxa anual por hectare" no período de 1990/1991, sendo ilegal a estipulação desse prazo pela Portaria nº 663/1990.
+3. A natureza jurídica de preço público, definida pelo STF, na ADI nº 2.586-4/DF, Plenário em 16.05.2002, evidentemente não descaracteriza a anterior exigência do Decreto-Lei 227/1967, art. 20, § 4º, de que somente a lei poderia fixar o prazo.
+4. Agravo interno do réu/DNPM desprovido.
+Nas razões do Recurso Especial, o recorrente aponta unicamente divergência jurisprudencial com acórdão proferido pelo TRF3, o qual afirma, diferentemente do acórdão recorrido, que seria legal a cobrança da Taxa Anual por Hectare com fundamento na Portaria Ministerial n. 663/90 do Ministro de Estado das Minas e Energia, antes do advento da Lei 9.314/1996.
+Nas razões de Agravo Interno (fls. 211-216, e-STJ), o recorrente reitera seus argumentos e afirma que a discussão não é de cunho constitucional. Sustenta, em resumo (fl. 214, e-STJ):
+A questão legal a ser definida pelo STJ, que prescinde de qualquer análise constitucional é a de que, considerando que Taxa Anual por Hectare-TAH tem natureza jurídica de preço público, se era necessário no período anterior da lei 9.314/96, regulamentação por lei específica e não por lei em sentido amplo, como no caso foi feito pela Portaria 663/90 do MME.
+Contrarrazões às fls. 219-224, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. TAXA ANUAL POR HECTARE. PORTARIA MINISTERIAL 663/1990. MATÉRIA DE CUNHO CONSTITUCIONAL. RECURSO ESPECIAL NÃO CONHECIDO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. A discussão consiste em saber se é legal ou não a cobrança da Taxa Anual por Hectare com fundamento na Portaria Ministerial 663/90, do Ministro de Estado das Minas e Energia, antes do advento da Lei 9.314/1996.
+2. A análise da legalidade do pagamento da Taxa Anual por Hectare (TAH) pressupõe compreensão sobre sua natureza jurídica: se taxa ou preço público. A matéria, portanto, guarda contornos constitucionais (ADI 2.586/DF), o que inviabiliza sua análise pela via especial. A propósito: "(..) 2. O recurso especial não foi conhecido, tendo em vista que, tanto o acórdão recorrido quanto o adotado como paradigma estão calcados em fundamentos constitucionais, qual seja, a definição do Supremo Tribunal Federal na ADI 2.586/DF, acerca da natureza jurídica da Taxa Anual por Hectare - TAH, de que trata a Lei n. 9.314/96 . 3. Tendo em vista a índole constitucional da matéria versada nos presentes autos, o recurso especial não pode ser conhecido, consoante o iterativo entendimento desta Corte no sentido de que, tendo o recurso especial como cerne fundamentos constitucionais, matéria afeta ao apelo extraordinário, falece competência ao Superior Tribunal de Justiça para conhecer da proposição. Agravo regimental improvido. (AgRg no REsp 1.301.804/ES, Rel. Min. Humberto Martins, Segunda Turma, DJe 26/4/2012, grifei)." No mesmo sentido: AgRg no REsp 1.347.922/ES, Rel. Min. Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, DJe de 5.5.2016.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 6 de setembro de 2022.
+Não obstante os argumentos expendidos no Agravo Interno, o inconformismo do agravante não merece guarida.
+A análise da legalidade do pagamento da Taxa Anual por Hectare (TAH) pressupõe compreensão sobre sua natureza jurídica: se taxa ou preço público. A matéria, portanto, guarda contornos constitucionais (ADI 2.586/DF), o que inviabiliza sua análise pela via especial.
+A propósito:
+ADMINISTRATIVO. TAXA ANUAL POR HECTARE. MATÉRIA CONSTITUCIONAL. COMPETÊNCIA DO STF.
+1. Cuida-se, na origem, de ação ordinária movida pela ora agravada para tornar sem efeito a instauração do procedimento administrativo destinado à declaração de nulidade ou de caducidade de Alvarás de Pesquisa Mineral, com a sua desoneração do pagamento da Taxa Anual por Hectare - TAH - antes da entrada em vigor da Lei n. 9.314/96.
+2. O recurso especial não foi conhecido, tendo em vista que, tanto o acórdão recorrido quanto o adotado como paradigma estão calcados em fundamentos constitucionais, qual seja, a definição do Supremo Tribunal Federal na ADI 2.586/DF, acerca da natureza jurídica da Taxa Anual por Hectare - TAH, de que trata a Lei n. 9.314/96 .
+3. Tendo em vista a índole constitucional da matéria versada nos presentes autos, o recurso especial não pode ser conhecido, consoante o iterativo entendimento desta Corte no sentido de que, tendo o recurso especial como cerne fundamentos constitucionais, matéria afeta ao apelo extraordinário, falece competência ao Superior Tribunal de Justiça para conhecer da proposição. Agravo regimental improvido. (AgRg no REsp 1.301.804/ES, Rel. Min. Humberto Martins, Segunda Turma, DJe 26/4/2012, grifei)
+PROCESSO CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CPC/73. TAXA ANUAL POR HECTARE - TAH. FUNDAMENTO CONSTITUCIONAL. ANÁLISE. DESCABIMENTO. DISSÍDIO JURISPRUDENCIAL. PREQUESTIONAMENTO. NECESSIDADE.
+1. Nos termos dos acórdãos trazidos a confronto no apelo nobre, a análise do pagamento da Taxa Anual por Hectare - TAH, na vigência da Lei n. 7.886/89, pressupõe compreensão sobre sua natureza jurídica - taxa ou preço público -, matéria que guarda contorno constitucional (ADI 2.586/DF), o que inviabiliza sua análise no âmbito do recurso especial. Em caso análogo: AgRg no REsp 1.301.804/ES, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 19/4/2012, DJe 26/4/2012.
+2. Também se exige o prequestionamento quanto ao recurso especial interposto com base na alínea "c" do art. 105, III, da CF, porquanto apenas cogitar-se-á de dissídio pretoriano se o acórdão recorrido tiver apreciado a mesma questão jurídica em dissonância com o julgado paradigma. Precedentes.
+3. No caso, o aresto impugnado não se manifestou sobre a tese de que o art. 20, § 4º, do Código de Mineração, com a redação da Lei n. 7.886/89, deve ser objeto de uma interpretação lógico-sistemática, a fim de se reconhecer que a expressão "no prazo determinado em lei" seja interpretada em sentido lato, permitindo-se sua regulamentação por meio de Portaria editada pelo Ministro de Minas e Energia. A ausência de enfrentamento dessa temática, por seu turno, implica a incidência dos óbices constantes das Súmulas 282/STF e 356/STF.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.347.922/ES, Rel. Min. Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, DJe de 5/5/2016.)
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
