@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por BANCO SANTANDER (BRASIL) S.A.contra decisão por mim proferida às e-STJ fls. 656/661, em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, afastando a alegação de ofensa ao art. 1.022, I e II, do CPC/2015 e aplicando o óbice da Súmula 7 do STJ.
+O agravante alega, em resumo, queseria contraditória a decisão agravada ao afastara violação do art.1.022, II, do CPC e, por outro lado, aplicar a Súmula 7 do STJ,acrescentando que a Corte regional foi omissa no exame de questões essenciais ao deslinde da controvérsiarelacionadas ao reconhecimento delitispendência.
+Sustenta que é"incontroversa a ocorrência da litispendência, aliado ao fato da existência de precedentes dessa Egrégia Corte no sentido de que a execução fiscal garantida por depósito judicial somada à preexistência de ação anulatória discutindo o mesmo crédito tributário são suficientes para a suspensão da execução fiscal até julgamento definitivo da ação de conhecimento, de modo que não há que se falar em adoção da Súmula nº 7/STJ para obstar o processamento do recurso especial" (e-STJ fl. 673).
+Não foi apresentada impugnação pela parte agravada (e-STJ fl. 684).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. LITISPENDÊNCIA.REEXAME DE FATOS E PROVAS. INVIABILIDADE.
+1.Inexiste ofensa aoart. 1.022, I e II,do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa de prestação jurisdicional.
+2. A modificação daconclusão alcançada peloTribunal deorigem sobre a configuraçãode litispendênciademandariareexame do acervo fático-probatório dos autos, medida inviável em recurso especial, nos termos da Súmula 7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+A irresignação recursal não prospera, devendo ser mantida adecisão agravada.
+Como assentado no julgado combatido, cuidam os autos, na origem, de embargos à execução fiscal, os quais foram extintos por litispendência, com fixação da verba honorária em 10% sobre o valor da causa.
+Interposta apelação pela casa bancária,o Tribunal Regional Federal da 3ª Regiãodeu-lheparcial provimento para julgar procedente o pedido e extinguir o processo com resolução de mérito, com base no art. 269, II, no que concerne à CDA/NFLD n. 31.737.399-4, mantendo a extinção sem julgamento de mérito, por litispendência, no tocante à CDA/NFLD n. 32.230.870-4.
+Eis a ementa do acórdão de origem (e-STJ fl. 484):
+EMBARGOS À EXECUÇÃO FISCAL. AÇÃO ANULATÓRIA ANTERIOR. DISCUSSÃO ACERCA DA CARACTERIZAÇÃO DA LITISPENDÊNCIA. AÇÃO ANTERIOR MAIS ABRANGENTE - CONTINÊNCIA. JULGAMENTO DA AÇÃO ANULATÓRIA PELO STJ - LITISPENDÊNCIA PARCIAL.
+1. A sentença merece reforma para o fim de se deixar assente a procedência do pedido no que concerne à irresignação apresentada em face da CDA decorrente da NFLD nº 31.737.399-4, em face do pagamento reconhecido pela União.
+2. Ocorre o fenômeno da continência entre ação anulatória e embargos a execução, (litispendência parcial), no que concerne à NFLD nº32.230.870-4, que se resolve pela extinção dos embargos à execução fiscal sem resolução do mérito quanto a esse pedido.
+3. Com a procedência da alegação atinente à NFLD nº 31.737.399-4 e a manutenção da extinção dos embargos à execução fiscal quanto à NFLD n. 32.230.870-4 (por se considerar caracterizada a litispendência parcial), identifica-se a existência de sucumbência recíproca entre as partes.
+4. Apelação da parte contribuinte parcialmente provida.
+Pois bem.
+Conforme consignado na decisão agravada, quanto à alegada ofensa ao art. 1.022, I e II, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa de prestação jurisdicional.
+É o que se extrai do seguinte trecho do acórdão de origem
+(e-STJ fls. 473/483):
+Da Ação Anulatória de Débito Fiscal
+Da leitura da inicial daquela ação (fls. 104/134), verifica-se que questiona diversas autuações/NFLDs, dentre elas a NFLD de número 32.230.870-4, objeto de irresignação na presente ação de embargos. As alegações, entretanto, são as mesmas apresentadas na inicial destes embargos. Há identidade, assim, de causas de pedir com estes embargos, além de se tratar de litígio entre as mesmas partes.
+Com efeito, as insurgências da Ação Anulatória de Débito Fiscal nº1997.34.00.022834-5 estão centradas na decadência, na impossibilidade de incidência da TR antes da MP nº 298/91 e, sobretudo, nas exações exigidas pelo Fisco (as mesmas objeto de discussão nestes autos), que se caracterizariam como verbas indenizatórias e não salariais, de forma a ser descabida a exigência de contribuições previdenciárias sobre os montantes pagos a tais títulos.
+Desta forma, guardadas as peculiaridades atinentes à abrangência das ações em tela, verifica-se que as pretensões consignadas nos embargos à execução fiscal e na ação anulatória anterior apresentam relação de estreita semelhança, tanto que, ao proferir a sentença nos presentes autos, o d. Juízo entendeu estar configurada a tríplice identidade entre elas, de modo a restar configurada a litispendência.
+Neste ponto, cumpre consignar que, ao identificar a litispendência entre os embargos à execução fiscal e ação anulatória anteriormente ajuizada, de fato cabe ao órgão julgador extinguir a ação posterior sem julgamento do mérito.
+ ..
+Noutro passo, cumpre observar que, ainda que se considere o objeto da Anulatória mais amplo (de maior abrangência) que o destes embargos, deforma a restar caracterizada hipótese de continência, há jurisprudência a considerar que tal circunstância não é óbice à extinção da segunda ação sem análise do mérito.
+ ..
+Por outro lado, em consulta de acompanhamento processual realizada no site do Tribunal Regional Federal da la Região, verifica-se que a Ação Anulatória nº 1997.34.00.022834-5 já foi julgada em segunda instância, bem como em sede de Recurso Especial (AgRg no AgRg no Recurso Especial nº 1.307.129/DF, julgado em 16/04/2015), embora ainda não tenha transitado em julgado.
+ ..
+Desta forma, julgada a Anulatória inclusive no âmbito de Corte Superior (STJ, AgRg no AgRg no REsp 1307129/DF), não mais cabe a pretensão de suspensão destes embargos, tampouco de eventual julgamento conjunto das duas ações. Diante das peculiaridades do caso concreto, a melhor solução é a manutenção da extinção dos embargos quanto a esta NFLD (n" 32.230.870-4), seja por se considerar configurada a existência de litispendência parcial, seja porque o julgamento do mérito da ação anterior, com exauriente análise das matérias debatidas, impõe a perda do interesse processual na apreciação da segunda ação.
+ ..
+Em síntese: a hipótese que se afigura mais adequada no que concerne à NFLD nº 32.230.870-4 é a manutenção da sentença que extinguiu os embargos à execução fiscal sem resolução do mérito.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+No mérito, o conhecimento do recurso especial encontra óbice na Súmula 7 do STJ, porquanto oTribunal de origem, com base nos fatos e provas dos autos, concluiu pela existência de litispendência entre os embargos à execução fiscal e a ação anulatória anteriormente ajuizada e extinguiu a ação posterior (embargos à execução) sem julgamento do mérito quantoà NFLD n.32.230.870-4 .
+Assim, rever a posição do Tribunal a quo no que se refere à litispendência, nos moldes do pleito formulado, ensejaria o reexame do conjunto fático- probatório dos autos, o que é inadmissível em sede de recurso especial em face da Súmula 7 do STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO CONTRA DECISÃO QUE NEGOU PROVIMENTO AO RECURSO ESPECIAL. RECURSO EXTRAORDINÁRIO ADMITIDO NA ORIGEM. AUSÊNCIA DE PREJUDICIALIDADE. IMPOSSIBILIDADE DE APRECIAR LITISPENDÊNCIA. SÚMULA 7 DO STJ.
+1. A regra exposta no art. 1031, § 2º, do CPC, constitui mera faculdade do relator, quando considerar prejudicial o recurso extraordinário em relação ao especial, o que não ocorre no caso sob exame. Ademais, as recorrentes interpuseram Recurso Extraordinário quanto à questão controvertida, o qual foi admitido pelo Tribunal de origem.
+2. O Superior Tribunal de Justiça entende que o debate sobre o conceito de faturamento e receita bruta, "notadamente no que se refere à definição da base de cálculo, implica análise de matéria constitucional, o que é vedado nesta Corte Superior, sob pena de usurpação da competência do Supremo Tribunal Federal". AgRg no REsp 1.507152/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 26/6/2015.
+3. Modificar a conclusão a que chegou a Corte de origem sobre a existência de litispendência, demanda reexame do acervo fático-probatório dos autos, inviável em Recurso Especial, sob pena de violação da Súmula 7/STJ. Precedentes: AgRg no REsp 1.325.308/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 19/11/2015; AgRg no AREsp 500.636/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 9/3/2016; e AgInt no AREsp 948.438/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 20/9/2016.
+4. A matéria controvertida nos autos deverá ter sido apreciada ao menos implicitamente pelo Tribunal a quo, para que o Recurso Especial possa ser analisado por esta Corte superior. A obrigatoriedade do prequestionamento da questão a ser debatida e decidida no STJ é exigência do ordenamento jurídico. Além disso, o art. 1.025 do CPC requer que o acórdão reprochado contenha erro, omissão, contradição ou obscuridade, o que não é o caso dos autos.
+5. Agravo Interno não provido.
+(AgInt no REsp 1746132/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/02/2019, DJe 11/03/2019)
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
