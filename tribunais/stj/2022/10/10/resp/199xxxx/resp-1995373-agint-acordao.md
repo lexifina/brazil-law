@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial, fundamentado no art.105, III, a, da CF/1988, que visa reformar acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim resumido:
+ADMINISTRATIVO. REMESSA NECESSÁRIA. AÇÃO CIVIL PÚBLICA. LEI DE ACESSO À INFORMAÇÃO E LEI DE REGIME ESPECIAL DA COVID - 19. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO. FISCALIZAÇÃO DE RECURSOS FEDERAIS TRANSFERIDOS A ENTES MUNICIPAIS. LEGITIMIDADE DA UNIÃO FEDERAL. INTERESSE DE AGIR E LEGITIMIDADE ATIVA DO MPF. ARTS. 127 E 129 DA CARTA MAGNA. TUTELA DOS PRINCÍPIOS DA LEGALIDADE, DA MORALIDADE E DA PUBLICIDADE E DO DIREITO À INFORMAÇÃO, ASSEGURADOS NO ART. 5º, XIV E XXXIII, DA CONSTITUIÇÃO FEDERAL. INTERESSE FEDERAL. MUNICÍPIO QUE RECEBE VERBAS DA UNIÃO FEDERAL (SUS). REMESSA PROVIDA PARA ANULAÇÃO DA SENTENÇA. RETORNO DOS AUTOS AO JUÍZO DE PRIMEIRO GRAU.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+De outra banda, quanto ao pedido de fiscalização contínua dos recursos repassados para enfrentamento da, COVID-19 o Ministério Público Federal não traz na inicial fato concreto que indique lesão ao patrimônio da União Federal, mas se limita a conjecturar acerca do eventual dano ao qual estaria sujeita e tenta, em vão, justificar a inclusão do ente no polo passivo da demanda." (fls. 311)
+Portanto, o fundamento do acórdão recorrido no sentido de que teria havido "desempenho insatisfatório" pelo Município foi combatido no recurso especial, o qual, inclusive, demonstrou todas as medidas adotadas pela Controladoria-Geral da União na fiscalização e controle dos recursos destinados ao enfrentamento da pandemia, incluindo ações no Estado de Sergipe.
+Assim, todos os fundamentos do acórdão recorrido foram devidamente combatidos nas razões recursais, as quais apontaram diversos motivos pelos quais a ilegitimidade da União é patente.
+Assim, a incidência da Súmula 283/STF deve ser afastada e, consequentemente, reformado o acórdão recorrido, para declarar a ilegitimidade "ad causam" da União para integrar o polo passivo da presente demanda.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. FISCALIZAÇÃO NA APLICAÇÃO DE RECURSOS PÚBLICOS. RETORNO DOS AUTOS PARA NOVO JULGAMENTO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. POR ANALOGIA, INCIDÊNCIA DA SÚMULA N. 283 DO STF.
+I - Na origem, trata-se de ação civil pública em que se pleiteia a implantação de meios de transparência e a efetiva fiscalização na aplicação de recursos repassados a municípioe a abstenção de repasse e transferências voluntárias na hipótese de constatação de irregularidades. Na sentença julgou-se extinto o feito por ausência de interesse de agir. No Tribunal a quo,a sentença foi anulada e determinou o retorno dos autos para novo julgamento. Opostos embargos de declaração, foram rejeitados. Interpostorecurso especial, não foi conhecido.
+II - Verifica-se que acórdão objeto do recurso especial tem mais de um fundamento, cada qual suficiente e autônomo para mantê-lo. Consoante a jurisprudência desta Corte, é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Nesse sentido: AgInt no REsp n. 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 29/6/2020, DJe 3/8/2020; EDcl no AgInt no REsp n. 1.838.532/CE, relator Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020; AgInt no AREsp n. 1.623.926/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/8/2020, DJe 26/8/2020.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Verifica-se que acórdão objeto do recurso especial tem mais de um fundamento, cada qual suficiente e autônomo para mantê-lo. Consoante a jurisprudência desta Corte, é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Nesse sentido: AgInt no REsp n. 1.389.204/MG, relatorMinistro Og Fernandes, Segunda Turma, julgado em 29/6/2020, DJe 3/8/2020; EDcl no AgInt no REsp n. 1.838.532/CE, relator Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020; AgInt no AREsp n. 1.623.926/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/8/2020, DJe 26/8/2020.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
