@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem trata-se de agravo de instrumento contra decisão declinatória da competência para a Justiça do Trabalho de Santo Ângelo/RS proferida nos autos de Ação Declaratória de Nulidade de Termo de Ajustamento de Conduta - TAC. No Tribunal a quo, a decisão foi mantida,conformeo seguinte resumo de ementa:
+PROCESSUAL CIVIL AGRAVO DE INSTRUMENTO TERMOS DE AJUSTAMENTO DE CONDUTAS ENTRE PREFEITO E MINISTÉRIO PÚBLICO DO TRABALHO NULIDADE COMPETÊNCIA DA JUSTIÇA DO TRABALHO 1 O MINISTÉRIO PÚBLICO DO TRABALHO AO RMAR TERMO DE AJUSTAMENTO DE CONDUTA BUSCA A PROTEÇÃO DOS TRABALHADORES E A OBSERVÂNCIA DSO PRECEITOS LEGAIS E CONSTITUCIONAIS NA PERSPECTIVA DAS RELAÇÕES TRABALHISTAS COM O QUE MERECE INTEGRAL CON RMAÇÃO A DECISÃO MONOCRÁTICA QUE TRILHOU ESTA LINHA DE SUSTENTAÇÃO DETERMINANDO A REMESSA DOS AUTOS PARA A JUSTIÇA DO TRABALHO DE SANTO ÂNGELO RS 2 AGRAVO DE INSTRUMENTO IMPROVIDO.
+O recurso foi admitido na origem e vieram os autos ao Superior Tribunal de Justiça.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 255, §4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários à decisão recorrida.
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. TERMOS DE AJUSTAMENTO DE CONDUTAS ENTRE PREFEITO E MINISTÉRIO PÚBLICO DO TRABALHO. NULIDADE. COMPETÊNCIA DA JUSTIÇA DO TRABALHO. FUNDAMENTO AUTÔNOMO E SUFICIENTE PARA MANTER O JULGADO NÃO REBATIDO PLEO APELO NOBRE. SÚMULA N. 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 211/STF.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão declinatória da competência para a Justiça do Trabalho de Santo Ângelo/RS proferida nos autos de Ação Declaratória de Nulidade de Termo de Ajustamento de Conduta - TAC. No Tribunal a quo, a decisão foi mantida.
+II - O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca da declinação de competência para o Juízo do Trabalho, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF.
+III - Consoante a jurisprudência desta Corte, é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Nesse sentido: AgInt no REsp n. 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 29/6/2020, DJe 3/8/2020; EDcl no AgInt no REsp n. 1.838.532/CE, relator Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020; AgInt no AREsp n. 1.623.926/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/8/2020, DJe 26/8/2020.
+IV - Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, acerca da declinação de competência para o Juízo do Trabalho, utilizado de forma suficiente para manter adecisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF.
+Consoante a jurisprudência desta Corte, é inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles. Nesse sentido: AgInt no REsp n. 1.389.204/MG, relatorMinistro Og Fernandes, Segunda Turma, julgado em 29/6/2020, DJe 3/8/2020; EDcl no AgInt no REsp n. 1.838.532/CE, relator Mauro Campbell Marques, Segunda Turma, julgado em 24/8/2020, DJe 27/8/2020; AgInt no AREsp n. 1.623.926/MG, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/8/2020, DJe 26/8/2020.
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
