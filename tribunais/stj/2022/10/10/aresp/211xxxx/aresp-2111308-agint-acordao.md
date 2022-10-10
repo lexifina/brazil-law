@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 418/464) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, o agravante insiste em que houve cerceamento de defesa, sustentando ser necessária a prova pericial técnica para o julgamento da lide, e que não seria caso de julgamento antecipado da lide.
+Reitera argumentos dos recursos anteriores.
+Refuta a aplicação da Súmula n. 7 do STJ argumentando ser possível a revaloração das provas.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Não foram apresentadas contrarrazões (e-STJ fl.467).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, para alterar a conclusão do Tribunal de origem a respeito da desnecessidade da prova pretendida pela parte, seria necessário análise de matéria fática, inviável em recurso especial.
+3. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece acolhida.
+O agravante não trouxe argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 411/415):
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial, ante a incidência da Súmula n. 7 do STJ (e-STJ fls. 356/389).
+O acórdão recorrido está assim ementado (e-STJ fls. 247/248):
+APELAÇÃO CÍVEL. EMPRÉSTIMO CONSIGNADO. PRELIMINAR DE CERCEAMENTO DE DEFESA. REJEITADA. PRELIMINAR DE OFENSA AO PRINCÍPIO DA DIALETICIDADE. REJEITADA. DESCONTOS EM PROVENTOS DE APOSENTADORIA COMPROVADOS. APRESENTAÇÃO DE CONTRATO E DOCUMENTOS PESSOAIS. CONTRATO VÁLIDO. ATO ILÍCITO. INEXISTENTE. LITIGÂNCIA DE MÁ-FÉ. AFASTADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. SENTENÇA MODIFICADA EM PARTE.
+1. Cuida-se de Recurso de Apelação adversando sentença que julgou improcedente o pedido autoral e condenou a parte autora por litigância de má-fé nos autos da Ação de Declaratória de Nulidade/Inexistência Contratual c/c Pedido de Repetição do Indébito e Indenização por Danos Morais.
+2. DA PRELIMINAR DE CERCEAMENTO DE DEFESA. O magistrado possui discricionariedade para acolher pedidos de produção de provas feitos pelas partes ou rejeitá-los, caso entenda desnecessária determinada prova, tudo quando devidamente motivadas as decisões, o que ocorreu na espécie. Ademais é irrelevante saber se a conta-corrente indicada no contrato é de titularidade do autor ou não. Consoante o que consta no instrumento contratual apresentado, o pagamento foi realizado por meio de ordem de pagamento. Nessa modalidade, o ente financeiro que concedeu o empréstimo do dinheiro envia para outro o valor que deve ser sacado pelo beneficiário no caixa. Dessa forma, é de se esperar que a conta não seja de titularidade da parte autora, sendo dispiciendo o envio de ofício para o ente financeiro com o fito de averiguar a titularidade da conta que recebeu o valor contratado.
+Preliminar rejeitada. PRELIMINAR DE OFENSA AO PRINCÍPIO DA DIALETICIDADE. Não há que se falar em descumprimento ao princípio da dialeticidade, posto que as razões recursais atacam expressamente os fundamentos do decisum a quo.
+Ademais, a mera reiteração de algumas das teses ventiladas na exordial não implica, necessariamente, em afronta ao comando da dialeticidade.
+Preliminar rejeitada.
+3. MÉRITO. Os descontos efetuados no benefício previdenciário do suplicante decorrentes do contrato questionado nos autos foram comprovados com a juntada do histórico decorrentes de consignações.
+4. Por sua vez, a instituição financeira logrou êxito em infirmar as alegações autorais, comprovando fato impeditivo, modificativo ou extintivo do direito do suplicante (art. 373, II, do CPC), ao exibir em juízo o contrato devidamente assinado, acompanhado de documentos pessoais do demandante.
+5. Acrescente-se que é irrelevante para o deslinde do presente caso saber se o valor contratado foi depositado na conta indicada no instrumento contratual ou não, uma vez que a presente ação não discute o inadimplemento contratual e sim a sua existência/validade que restou devidamente demonstrada pela juntada dos documentos pela demandada. Ademais a mera alegação de que o ente financeiro não apresentou o comprovante de transferência não é suficiente para desconstituir o conjunto probatório presente nos fólios.
+6. Tendo em vista que as provas produzidas nos autos afastam a possibilidade de ocorrência de fraude e indicam que a parte autora efetivamente contratou o empréstimo, correta a improcedência dos pedidos iniciais prolatada na sentença de piso.
+7. Contudo, diante da não comprovação da alteração de forma consciente e temerária da verdade dos fatos pela parte demandante, com o fim de obter vantagem sobre a outra parte, dou provimento ao pedido de afastamento da condenação por litigância de má-fé.
+8. Recurso de Apelação conhecido e parcialmente provido. Sentença modificada em parte.
+No recurso especial (e-STJ fls. 266/313), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente aponta divergência jurisprudencial e violação dos arts. 6º, 7º, 8º, 369, 370, 371, 373, II, 378, 380, 428, I, 429, II, e 489, II, e § 1º, IV, do CPC/2015 e 6º, VIII, do CDC.
+Sustenta que houve cerceamento de defesa com o julgamento antecipado da lide, pois era necessária a expedição de ofício e a realização de perícia técnica para apurar a autenticidade da assinatura no contrato.
+Discorre sobre a existência de esquemas fraudulentos, noticiados na mídia, nos quais são contratados empréstimos em nome dos pensionistas, sem que estes tenham solicitado, causando o superendividamento de idosos.
+Argumenta ainda que (e-STJ fls. 296/297):
+O Recorrente impugna veemente a contratação desde a exordial e, assim, invertido o ônus da prova em desfavor do Recorrido e impugnado a assinatura no documento apresentado pelo Recorrido, caberia a este comprovar efetivamente a autenticidade da suposta "assinatura" apresentada no instrumento de contrato.
+Com efeito, não basta o Recorrido juntar aos autos documento com aparência de contrato, sendo indispensável que tais documentos anexados, representem, efetivamente, que fora assinado pelo Recorrente, tendo em vista sua impugnação e inversão do ônus da prova em desfavor do Recorrido.
+Assim, no caso de suspeita de fraude, como a hipótese dos autos, a simples apresentação do contrato de empréstimo consignado, mostra-se insuficiente a afastar a negativa de contratação afirmada pelo Recorrente. Neste aspecto, é imprescindível a demonstração clara e objetiva da efetiva contratação do crédito, in casu, por perícia técnica, do qual, negligentemente deixou de colher o Recorrido.
+(..)
+Neste caso, contestada a "assinatura", cessa a fé do documento particular, à luz do disposto no Art. 428, inciso I do CPC, aplicável ao caso trazido à baila, incumbindo ao Requerido, portanto, provar a legitimidade da "assinatura", o que não ocorreu no caso vertente(..)
+No agravo (e-STJ fls. 356/389), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 393/397).
+É o relatório.
+Decido.
+A Corte estadual afastou o alegado cerceamento de defesa, por entender desnecessária a prova requerida, pois aquelas constantes nos autos eram suficientes para o julgamento da lide, inclusive para comprovar a efetiva contratação do empréstimo. Confira-se o seguinte excerto (e-STJ fls. 250/259):
+Como cediço, é entendimento do C. STJ que não há cerceamento de defesa pelo julgamento antecipado da lide, sem a produção de provas requestadas pelas partes, quando o julgador entende suficiente o conjunto probatório já encartado nos autos e motiva sua decisão baseado nele. Vejamos julgados exemplificativos:
+(..)
+No presente caso, é irrelevante saber se a conta-corrente indicada no contrato é de titularidade do autor ou não. Explico. Consoante o que consta no instrumento contratual apresentado, o pagamento foi realizado por meio de ordem de pagamento. Nessa modalidade, o ente financeiro que concedeu o empréstimo do dinheiro envia para outro o valor que deve ser sacado pelo beneficiário no caixa.
+Desse modo, diante do robusto conjunto probatório carreado aos autos, tenho que não se faz imprescindível a realização de exame grafotécnico ou de expedição de ofício ao ente bancário, in casu, não há que se falar em nulidade da sentença. O magistrado possui discricionariedade para acolher pedidos de produção de provas feitos pelas partes ou rejeitá-las, caso entenda desnecessária determinada prova, tudo quando devidamente motivadas as decisões, o que ocorreu na espécie em comento.
+(..)
+No caso em comento, os documentos que instruem a peça de ingresso demonstram, à saciedade, que a instituição financeira promovida efetivamente realiza descontos, decorrentes do contrato de empréstimo consignado nº 555709166, no valor de R$ 662,48 (seiscentos e sessenta e dois reais e quarenta e oito centavos) dividido em 72 (setenta e duas) parcelas de R$ 19,00 (dezenove reais), diretamente no benefício previdenciário do demandante, consoante histórico de consignações do INSS às fls. 28-29.
+Noutro giro, vislumbro que a parte demandada se desincumbiu plena e satisfatoriamente do encargo de rechaçar as alegações autorais, comprovando fato impeditivo, modificativo ou extintivo do direito do requerente (art. 373, II, do CPC), uma vez que produziu prova robusta quanto à regularidade da contratação.
+Dos documentos carreados pelo apelado, em primeira instância, avista-se o instrumento contratual nº 555709166 (fls. 59-62) com assinatura que se assemelha com as apostas pelo autor nos documentos apresentados junto à inicial (fls. 23-25). Além de apresentar cópia dos documentos pessoais do reclamante, quais sejam, identidade, CPF, cartão do banco em que possui conta-corrente e comprovante de endereço (fl. 63).
+Entendo que a não realização da juntada do comprovante de pagamento é irrelevante para a solução da presente lide, uma vez que, no caso sub judice, restou robustamente comprovado através dos elementos colacionados aos fólios, quais sejam o contrato objurgado assinado e os documentos pessoais do autor (fls. 59-63), a existência e validade do contrato questionado.
+Ademais, a presente ação não discute o inadimplemento contratual e sim a sua existência/validade. Acrescente-se que não é razoável a mera alegação de que o ente financeiro não apresentou o comprovante de transferência para desconstituir o conjunto probatório presente nos autos.
+Destarte, os elementos juntos aos fólios indicam que a parte autora efetivamente contratou o empréstimo objurgado, o qual está perfeito e acabado, de modo que não há respaldo jurídico e probatório a consubstanciar a pretensão autoral.
+Alterar as conclusões do Tribunal de origem, de maneira a reconhecer o cerceamento de defesa, a necessidade das provas requeridas e que a parte recorrida não teria se desincumbido de seu ônus probatório, demandaria análise de prova, inviável em recurso especial ante o óbice da Súmula n. 7 do STJ.
+Acrescente-se que o conteúdo jurídico dos arts. 6º, 7º, 8º, 369, 378, 380 428, I, 429, II, e 489 do CPC/2015 e 6º do CDC não foi objeto de análise pela Corte estadual, portanto, ausente o prequestionamento. Incide a Súmula n. 282 do STF.
+Os mesmos óbices impedem o exame do especial fundamentado na alínea "c" do permissivo constitucional.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+Inafastável a Súmula n. 7 do STJ pois, para alterar a conclusão da Corte estadual a respeito da desnecessidade da prova pretendida, seria necessária nova incursão nos elementos fáticos dos autos, inviável em recurso especial.
+Ademais, em obediência ao princípio da dialeticidade recursal e conforme previsto no art. 1.021, § 1º, do CPC/2015, "na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+No entanto, a parte deixou de impugnar a incidência da Súmula n. 282 do STF, o que atrai a Súmula n. 182 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
