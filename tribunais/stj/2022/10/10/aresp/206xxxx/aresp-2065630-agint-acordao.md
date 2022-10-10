@@ -1,0 +1,145 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+RELATORA: MINISTRA NANCY ANDRIGHI
+Cuida-se de agravo interposto por OI S/A - EM RECUPERAÇÃO JUDICIAL, contra decisão unipessoal que conheceu do agravo para não conhecer do recurso especial que interpusera.
+Ação: de cobrança, ajuizada por PETRÓLEO BRASILEIRO S/A - PETROBRÁS, em face da agravante, fundada no inadimplemento de contrato de prestação de serviço telefônico fixo comutado (STFC).
+Acórdão: negou provimento à apelação interposta pela agravante, e julgou improcedente o pedido contraposto, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. RÉU EM RECUPERAÇÃO JUDICIAL. QUANTIA ILÍQUIDA. PROSSEGUIMENTO. CONVERSÃO DE RITO ORDINÁRIO PARA SUMÁRIO. POSSIBILIDADE. AUSÊNCIA DE PREJUÍZO. PROVA TESTEMUNHAL. INDEFERIMENTO. JULGAMENTOANTECIPADO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. CONTRATO CELEBRADO POR PESSOAS JURÍDICAS. AUSÊNCIA DE VULNERABILIDADE. MULTA POR COBRANÇA INDEVIDA. CLÁUSULA CONTRATUAL VÁLIDA. AUTONOMIA DA VONTADE. TEORIA DA SUPRESSIO. INAPLICABILIDADE. PEDIDO CONTRAPOSTO IMPROCEDENTE. SUCUMBÊNCIA.
+1. Somente as ações que demandem quantia líquida é que se suspendem por força do deferimento do pedido de recuperação judicial. Não há óbice ao prosseguimento de ação de cobrança promovida em desfavor de empresa em recuperação judicial na hipótese do artigo 6º, § 1º, da Lei nº 11.101/2005. Doutrina.
+2. In casu, o fato da inicial em ação de conhecimento apontar um valor determinado não significa que a importância indicada se enquadre na definição de quantia líquida para efeitos da suspensão da ação, conforme previsto na Lei nº 11.101/2005. E isso, porque somente depois de liquidado o valor devido, pela constituição de título executivo, atestando, de forma exauriente, a existência de obrigação certa, líquida e exigível, é que se sujeitará aquantia às imposições do plano de recuperação judicial. Precedentes do TJRJ, TJRS e TJSP.
+3. De outro giro, a alteração de rito promovida de ofício pelo magistrado não importa em nulidade do feito quando não caracterizado o efetivo prejuízo. Na espécie, a parte demandada foi intimada e citada para apresentar defesa sob o rito sumário, inexistindo surpresa que ensejasse prejuízo ao exercício do direito da ampla defesa e do contraditório. Ademais, a recorrente não impugnou a decisão de conversão de rito em momento próprio, deixando transcorrer in albis o prazo para interposição do recurso cabível. Precedente do STJ.
+4. Noutra toada, a prova testemunhal deve ser permitida desde que não exista vedação legal. Contudo, não se admite tal modalidade de prova, quando o fato que se pretende demonstrar já estiver provado por documento, conforme dispõe o artigo 400 do Código de Processo Civil/1916 (Arts. 442 e 443 -CPC/2015). Doutrina.
+5. Na espécie, a empresa recorrente não trouxe aos autos qualquer prova documental acerca de tratativas demonstrando a vontade da recorrida em deixar de aplicar a cláusula contratual que prevê o pagamento dobrado no caso de cobrança indevida. Logo, revela-se inútil a oitiva das testemunhas arroladas pela defesa (funcionários da recorrente), uma vez que os seus depoimentos não podem aniquilar ou mitigar o que está registrado no contrato escrito entabulado entre as partes.
+6. Nada obstante, em se tratando de contrato escrito, eventual "alteração" somente surtiria efeito caso houvesse sido realizada da mesma forma do contrato de prestação de serviço telefônico, por escrito, nos termos do artigo 472 do Código Civil, o que não ocorreu nos autos. Doutrina. Precedentes do STJ e do TJRJ.
+7. Noutra banda, não se há de falar em cerceamento do direito de defesa quando o julgador tem o poder-dever de julgar a lide antecipadamente, dispensando a produção de prova oral ao constatar que o acervo documental é suficiente para nortear e instruir seu entendimento. Precedentes do STJ.
+8. Por outro lado, quanto ao mérito, incontroversa a cobrança indevida referente ao período de janeiro de 2012 a janeiro de 2013, em relação ao contrato de prestação de serviço telefônico celebrado entre as partes.
+9. Em razão da ausência de vulnerabilidade entre os contratantes, bem como devido a inexistência de documentos que demonstrem a vontade da recorrida em não aplicar a cláusula contratual que prevê o pagamento dobrado por cobrança indevida, prestigia-se o princípio da autonomia da vontade, para considerar válida a deliberação das partes na contratação e no conteúdo do pacto.
+10. Não se há de falar em erro escusável ou má-fé para afastar a cláusula penal livremente pactuada, principalmente quando nos deparamos com empresas de grande porte, representadas por competentes corpos jurídicos, em contrato pactuado de forma escrita, balizado pelo Código Civil, sem indícios da existência de vício do consentimento.
+11. Noutra ponta, a prova documental colacionada aos autos demonstra a realização de tratativas para resolver o imbróglio envolvendo a cobrança indevida. Está demonstrado nos autos a vontade da recorrente em cumprir o pacto celebrado, notadamente a cláusula penal da cobrança indevida. O curto período entre o pagamento a maior e a cobrança amigável não tem o condão de caracterizar a renúncia tácita ao direito pelo decurso do tempo, como na hipótese da supressio sustentada no apelo.
+12. Com relação ao pedido contraposto não enfrentado na sentença por força do§ 1º do artigo 1046 c/c artigo 1013, § 3º, inciso III, ambos do Código de Processo Civil/2015, impõem-se a sua análise em instância recursal.
+13.É certo que o ônus de comprovar o fato constitutivo do direito recai exclusivamente sobre a demandada, sendo certo que a recorrida em momento algum reconheceu a dívida postulada no pedido contraposto.
+14. A demandada não se desincumbiu do ônus de provar a alegada dívida por serviços de telefonia apta a justificar a compensação pretendida. Destarte, conforme determina o artigo 333, inciso I, do Código de Processo Civil/1973 (Artigo373, I -CPC/2015), o pedido contraposto formulado na contestação deve ser julgado improcedente, nos termos do artigo 373, inciso I, do Código de Processo Civil/2015.
+15. Por força da sucumbência, averba honorária referente a improcedência do pedido contraposto será fixada na importância de R$ 2.000,00 (dois mil reais), montante que recompensará o desvelo do advogado que autuou neste feito, considerando o grau de zelo do causídico que patrocinou os interesses do demandante, bem como do tempo em que funcionou neste feito, com base do artigo 20, §4º,doCódigo de Processo Civil/1973 c/c § 1º do artigo 1046 do Código de Processo Civil/2015.
+16. Deixa-se de arbitrar honorários recursais, diante do regramento do artigo § 1º do artigo 1046 do Código de Processo Civil/2015.
+17. Recurso não provido. Pedido contraposto julgado improcedente.
+Decisão monocrática: conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula 284/STF e das Súmulas 5, 7 e 211/STJ, além da ausência de demonstração do dissídio jurisprudencial.
+Razões do agravo: Nas razões do presente recurso a agravante apresenta os seguintes argumentos:
+a) que a Súmula 284/STF seria inaplicável e não haveria que se falar em deficiência na fundamentação, visto que teria demonstrado a violação dos arts. 369, 373, II, e 383, II, do CPC/15 e do art. 275, I, do CPC/73, além dos arts. 422 e 472, do CC/02;
+b) que o art. 275, I, do CPC/73 e a sua tese jurídica teria sido prequestionada;
+c) que não incidiriam as Súmulas 5 e 7/STJ, visto que as violações arguidas seriam de direito e não dependeriam da análise do conjunto fático-probatório dos autos; e
+d) que não teria suscitado divergência jurisprudencial no recurso especial, o qual teria sido interposto, exclusivamente, com fundamento na alínea "a" do permissivo constitucional.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE FATOS E CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ.
+1. Ação de cobrança, fundada no inadimplemento de contrato de prestação de serviço telefônico fixo comutado.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. O reexame de fatos e cláusulas contratuais em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno no agravo em recurso especial não provido.
+VOTO
+RELATORA: MINISTRA NANCY ANDRIGHI
+A decisão agravada conheceu do agravo para não conhecer do recurso especial, ante a incidência da Súmula 284/STF e das Súmulas 5, 7 e 211/STJ, além da ausência de demonstração do dissídio jurisprudencial.
+Veja-se o que constou na decisão (e-STJ fls. 1490/1496):
+- Da fundamentação deficiente
+Nas razões do seu recurso especial, a agravante argumenta que haveria violação dos arts. 369 e 373, II, do CPC/15 e do art. 275, I, do CPC/73, em razão do cerceamento de defesa, decorrente do indeferimento da prova oral pretendida e da condenação em decorrência da ausência de provas, bem como em razão da impossibilidade da conversão do rito ordinário para o rito sumário, tendo em vista a existência de prejuízo decorrente da condenação por ausência de provas, sem a oportunidade de ouvir suas testemunhas.
+Da análise do acórdão objeto do recurso, verifica-se que, ao contrário do que alega a agravante, o Tribunal de origem fundamentou a sua condenação na existência de documentos que apontariam que as reuniões agendadas e tratativas não tinham como objetivo a alteração de qualquer cláusula contratual e em nenhuma delas estaria configurada a renúncia tácita de direito, ao contrário, estaria clara a exigência da multa contratual pela agravada, bem como na existência de prova documental em relação à cláusula contratual estabelecendo indenização dobrada por cobrança indevida, destacando a suficiência destas provas documentais e a inutilidade da prova oral pretendida (e-STJ, fls. 730/738 e 741/742).
+Desta forma, quanto ao ponto, os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou os arts. 369 e 373, II, do CPC/15 e o art. 275, I, do CPC/73, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos argumentos invocados pela agravante em seu recurso especial acerca da impossibilidade de conversão do rito ordinário para o rito sumário, em razão do valor discutido, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da inexistência de renúncia tácita do direito (supressio), das inúmeras exigências da multa contratual pela agravada, da insubsistência da alegação de ausência de boa-fé da agravada, da suficiência das provas documentais e da inutilidade da prova oral requerida, da inexistência de cerceamento de defesa e de prejuízo ao exercício do direito da ampla defesa e do contraditório, exige o reexame de fatos e a interpretação de cláusulas contratuais, vedados em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+1. Da Súmula 284/STF
+Da análise das razões do recurso especial, verifica-se que a agravante defende haver violação dos arts. 369 e 373, II, do CPC/15 e do art. 275, I, do CPC/73, tendo em vista o cerceamento de defesa, decorrente do indeferimento da prova oral pretendida e da sua condenação pela ausência de provas, bem como em razão da impossibilidade da conversão do rito ordinário para o rito sumário, tendo em vista a existência de prejuízo decorrente da condenação por ausência de provas, sem a oportunidade de ouvir suas testemunhas (e-STJ, fls. 1175/1177).
+Ao entender pela condenação da agravante, o Tribunal de origem fundamentou a sua decisão na existência de documentos que apontariam que as reuniões agendadas e tratativas não tinham como objetivo a alteração de qualquer cláusula contratual e em nenhuma delas estaria configurada a renúncia tácita de direito, ao contrário, estaria clara a exigência da multa contratual pela agravada, bem como na existência de prova documental em relação à cláusula contratual estabelecendo indenização dobrada por cobrança indevida, destacando a suficiência destas provas documentais e a inutilidade da prova oral pretendida, nos seguintes termos (e-STJ, fls. 730/738 e 741/742):
+In casu, imperioso registrar que a pretensão da recorrente é atacar o julgamento antecipado da lide em razão do indeferimento da prova testemunhal que visa desconstituir uma cláusula contratual escrita.
+A empresa demandada fundamenta sua argumentação na existência de tratativas envolvendo prepostos das partes para afastar a cláusula contratual 9.3.2, que versa sobre a indenização dobrada por cobrança indevida.
+Deveras, o que alega a recorrente é a existência de um acordo de vontades dirigida a não aplicação da cláusula contratual que prevê o pagamento dobrado pela cobrança indevida.
+Ocorre que a apelante não traz aos autos qualquer prova documental demonstrando a vontade da recorrida em deixar de aplicar a cláusula contratual que prevê o pagamento dobrado no caso de cobrança indevida.
+Na verdade, os documentos trazidos pela recorrente apontam que o objetivo das reuniões agendadas era o alinhamento mensal de tarifa pública entre os litigantes, inexistindo qualquer menção a alteração de qualquer cláusula contratual.
+Sequer um e-mail ou uma carta/notificação veio aos autos para demonstrar eventual vontade da parte recorrida em não exigir o cumprimento da cláusula contratual 9.3.2, que versa sobre a indenização dobrada por cobrança indevida.
+É cediço que o artigo 400 do Código de Processo Civil/1916 (Arts. 443 e 443 -CPC/2015) prevê a prova testemunhal desde que não exista vedação legal.
+Todavia, não se admitirá a prova testemunhal, quando os fatos que se pretende provar já estiverem provados por documento ou confissão da parte ou quando, por sua natureza, o fato probando puder ser provado através de documento ou perícia.
+(..)
+Na espécie, o julgador de piso indeferiu a prova testemunhal, justamente por já existir prova documental demonstrando a existência de cláusula contratual escrita estabelecendo indenização dobrada por cobrança indevida.
+Veja-se o teor da decisão (000516):
+(..)
+Nesse caminhar, impõe-se afastar o alegado cerceamento de defesa, resultante do indeferimento da prova oral, uma vez que as provas documentais carreadas aos autos foram suficientes para a formação da convicção do julgador.
+(..)
+Logo, forçoso concluir pela inutilidade da oitiva das testemunhas arroladas pela defesa(funcionários da recorrente), uma vez que os seus depoimentos não podem aniquilar ou mitigar o que está registrado no contrato escrito entabulado entre as partes. (e-STJ, fls, 730/738)
+Depreende-se dos autos ser incontroversa a cobrança indevida referente ao período de janeiro de 2012 a janeiro de 2013, porquanto reconhecida pela apelante em sua defesa e nos diversos documentos por ela elaborados.
+A cláusula penal de pagamento dobrado, como já visto anteriormente, é válida e deve incidir sobre os valores cobrados indevidamente.
+(..)
+Frise-se, ainda, que inexiste erro escusável ou má-fé para afastar a cláusula penal livremente pactuada entre as partes.
+Na verdade, deve-se prestigiar a autonomia da vontade que é de fundamental importância para o direito contratual, uma vez que permite que as partes se manifestem no plano pessoal, deliberando com quem deseja contratar e o conteúdo do pacto.
+Com relação ao instituto da supressio, com a devida vênia, a prova documental colacionada aos autos demonstra a realização de tratativas para resolver o imbróglio e em nenhuma delas está configurada a renúncia tácita de direito pelo não exercício por tempo considerável.
+Ao revés, em todos os documentos enviados à ré, a parte autora deixa claro a exigência da multa contratual e, por inúmeras vezes, solicita o pagamento da quantia estipulada na inicial.
+Diga-se, também, que a reclamação da cobrança indevida se refere às faturas de janeiro de 2012 a janeiro de 2013, e a recorrida, em 2014, iniciou as tratativas para o recebimento da importância paga a maior com multa contratual, perdurando o diálogo até o ajuizamento desta demanda.
+Deste modo, o curto período entre o pagamento a maior e a cobrança amigável não tem condão de caracterizar a renúncia tácita ao direto, como na hipótese da supressio sustentada pela recorrente.
+Noutra toada, a alegação de ausência de boa-fé na relação contratual não deve ter guarida, pois a recorrente tinha os meios legais para promover a "alteração" contratual que entendesse pertinente.
+De se notar que ao selecionar prepostos sem conhecimento jurídico para tratar sobre contrato e suas pendências, deve, a empresa, assumir o ônus da inabilidade do funcionário e na omissão por não ter determinado o acompanhamento da negociação por profissionais qualificados para o fim almejado.
+Ademais, salta aos olhos o fato da empresa não resolver uma pendência contratual reconhecida na esfera administrativa, e vir em juízo alegar ausência de boa-fé da outra parte. (e-STJ, fls. 741/742)
+Desta forma, quanto ao ponto, os argumentos invocados pelo agravante, de fato, não demonstram como o acórdão recorrido violou os arts. 369 e 373, II, do CPC/15 e do art. 275, I, do CPC/73.
+Inafastável, pois, a deficiência da fundamentação (Súmula 284/STF).
+2. Da ausência de prequestionamento
+A falta de prequestionamento é condição suficiente para obstar o processamento do recurso especial e exigência indispensável para o seu cabimento. Insatisfeito, este não supera o âmbito de sua admissibilidade, atraindo a incidência das Súmulas 282 do STF ou 211 do STJ.
+Da reanálise minuciosa dos autos, realmente, observa-se que, de fato, a aplicação do óbice da Súmula 211/STJ decorre da não deliberação pelo acórdão recorrido acerca dos argumentos relativos ao valor discutido e consequente impossibilidade de conversão do rito (art. 275, I, do CPC/73).
+Deve-se manter, portanto, a aplicabilidade da Súmula 211/STJ.
+3. Das Súmulas 5 e 7/STJ
+Alterar as conclusões adotadas pelo Tribunal de origem, no que se refere à inexistência de renúncia tácita do direito (supressio), à ocorrência de inúmeras exigências da multa contratual pela agravada, à insubsistência da alegação de ausência de boa-fé da agravada, à suficiência das provas documentais e inutilidade da prova oral requerida, à inexistência de cerceamento de defesa e de prejuízo ao exercício do direito da ampla defesa e do contraditório, de fato, exige o reexame de fatos e cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7/STJ.
+Cumpre ressaltar o que restou consignado pelo Tribunal de origem quanto às questões:
+Passa-se à análise do cerceamento de defesa pelo indeferimento da prova testemunhal e julgamento antecipado da lide.
+In casu, imperioso registrar que a pretensão da recorrente é atacar o julgamento antecipado da lide em razão do indeferimento da prova testemunhal que visa desconstituir uma cláusula contratual escrita.
+A empresa demandada fundamenta sua argumentação na existência de tratativas envolvendo prepostos das partes para afastar a cláusula contratual 9.3.2, que versa sobre a indenização dobrada por cobrança indevida.
+Deveras, o que alega a recorrente é a existência de um acordo de vontades dirigida a não aplicação da cláusula contratual que prevê o pagamento dobrado pela cobrança indevida.
+Ocorre que a apelante não traz aos autos qualquer prova documental demonstrando a vontade da recorrida em deixar de aplicar a cláusula contratual que prevê o pagamento dobrado no caso de cobrança indevida.
+Na verdade, os documentos trazidos pela recorrente apontam que o objetivo das reuniões agendadas era o alinhamento mensal de tarifa pública entre os litigantes, inexistindo qualquer menção a alteração de qualquer cláusula contratual.
+Sequer um e-mail ou uma carta/notificação veio aos autos para demonstrar eventual vontade da parte recorrida em não exigir o cumprimento da cláusula contratual 9.3.2, que versa sobre a indenização dobrada por cobrança indevida.
+É cediço que o artigo 400 do Código de Processo Civil/1916 (Arts. 443 e 443 -CPC/2015) prevê a prova testemunhal desde que não exista vedação legal.
+Todavia, não se admitirá a prova testemunhal, quando os fatos que se pretende provar já estiverem provados por documento ou confissão da parte ou quando, por sua natureza, o fato probando puder ser provado através de documento ou perícia.
+(..)
+Na espécie, o julgador de piso indeferiu a prova testemunhal, justamente por já existir prova documental demonstrando a existência de cláusula contratual escrita estabelecendo indenização dobrada por cobrança indevida.
+Veja-se o teor da decisão (000516):
+(..)
+Nesse caminhar, impõe-se afastar o alegado cerceamento de defesa, resultante do indeferimento da prova oral, uma vez que as provas documentais carreadas aos autos foram suficientes para a formação da convicção do julgador.
+(..)
+Logo, forçoso concluir pela inutilidade da oitiva das testemunhas arroladas pela defesa(funcionários da recorrente), uma vez que os seus depoimentos não podem aniquilar ou mitigar o que está registrado no contrato escrito entabulado entre as partes.
+Passa-se ao mérito da demanda.
+(..)
+A sociedade empresária demandante pretende a condenação da parte ré ao pagamento de valores que lhe foram cobrados de forma indevida, acrescidos de multa contratual de 100% (cem por cento), com base na cláusula 9.3.2 do contrato de prestação de serviço telefônico celebrado entre as partes, in verbis:
+Na hipótese de pagamento de débitos indevidos, a restituição deve ser equivalente ao dobro do valor que se pagou em excesso e deverá ser realizada no próximo boleto de cobrança ou outro meio indicado pela PETROBRAS.
+Depreende-se dos autos ser incontroversa a cobrança indevida referente ao período de janeiro de 2012 a janeiro de 2013, porquanto reconhecida pela apelante em sua defesa e nos diversos documentos por ela elaborados.
+A cláusula penal de pagamento dobrado, como já visto anteriormente, é válida e deve incidir sobre os valores cobrados indevidamente.
+As litigantes são empresas de grande porte, representadas por competentes corpos jurídicos, em contrato pactuado de forma escrita, balizado pelo Código Civil, não havendo qualquer indício de vício do consentimento a macular o negócio jurídico celebrado.
+Não bastasse, as partes não se enquadram na vulnerabilidade do cidadão comum para arguir preceitos direcionados ao consumidor, de modo que os precedentes jurisprudenciais trazidos no apelo não são aplicáveis ao caso concreto, uma vez que direcionadas àqueles que possuem vulnerabilidade jurídica, econômica e técnica frente aos fornecedores.
+Frise-se, ainda, que inexiste erro escusável ou má-fé para afastar a cláusula penal livremente pactuada entre as partes.
+Na verdade, deve-se prestigiar a autonomia da vontade que é de fundamental importância para o direito contratual, uma vez que permite que as partes se manifestem no plano pessoal, deliberando com quem deseja contratar e o conteúdo do pacto.
+Com relação ao instituto da supressio, com a devida vênia, a prova documental colacionada aos autos demonstra a realização de tratativas para resolver o imbróglio e em nenhuma delas está configurada a renúncia tácita de direito pelo não exercício por tempo considerável.
+Ao revés, em todos os documentos enviados à ré, a parte autora deixa claro a exigência da multa contratual e, por inúmeras vezes, solicita o pagamento da quantia estipulada na inicial.
+Diga-se, também, que a reclamação da cobrança indevida se refere às faturas de janeiro de 2012 a janeiro de 2013, e a recorrida, em 2014, iniciou as tratativas para o recebimento da importância paga a maior com multa contratual, perdurando o diálogo até o ajuizamento desta demanda.
+Deste modo, o curto período entre o pagamento a maior e a cobrança amigável não tem condão de caracterizar a renúncia tácita ao direto, como na hipótese da supressio sustentada pela recorrente.
+Noutra toada, a alegação de ausência de boa-fé na relação contratual não deve ter guarida, pois a recorrente tinha os meios legais para promover a "alteração" contratual que entendesse pertinente.
+De se notar que ao selecionar prepostos sem conhecimento jurídico para tratar sobre contrato e suas pendências, deve, a empresa, assumir o ônus da inabilidade do funcionário e na omissão por não ter determinado o acompanhamento da negociação por profissionais qualificados para o fim almejado.
+Ademais, salta aos olhos o fato da empresa não resolver uma pendência contratual reconhecida na esfera administrativa, e vir em juízo alegar ausência de boa-fé da outra parte. (e-STJ, fls. 730/742)
+De se notar que o acórdão combatido foi cristalino em apontar que o togado singular ao determinar a conversão de ritos abriu possibilidade para que as partes se ajustassem a novo rito sumário.
+E isso fica demonstrado com o aditamento realizado pela parte autora em sua peça inicial; assim como através da citação e intimação da sociedade recorrente para apresentar defesa sob o rito sumário, inexistindo, destarte, surpresa que ensejasse prejuízo ao exercício do direito da ampla defesa e do contraditório.
+Portanto, a matéria trazida pela empresa ré nas razões de apelação foi enfrentada e rejeitada em sua essência por este Tribunal de Justiça diante da ausência de demonstração da ocorrência de prejuízo para a defesa.
+Tal entendimento encontra amparo no seguinte precedente do Superior Tribunal de Justiça:
+(..)
+Assim, rejeita-se a nulidade do feito por alteração do rito procedimental, forte na ausência de prejuízo para a defesa. (e-STJ, fls. 1154/1156)
+Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que incursão nesta seara implicaria ofensa às referidas Súmulas.
+4. Da divergência jurisprudencial
+O agravante aduz, nas razões do presente agravo, que o recurso teria sido interposto, exclusivamente, com fundamento na alínea "a" do permissivo constitucional do permissivo constitucional.
+Outrossim, verifica-se que, nas razões do recurso especial, o agravante indica julgado paradigmático e defende a aplicação integral do seu raciocínio à hipótese sob julgamento (e-STJ, fls. 1173/1174).
+Todavia, entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, § 1º do CPC/15 e 255, § 1º, do RISTJ.
+Dessa forma, a falta da similitude fática e do cotejo analítico, requisitos indispensáveis à demonstração da divergência, inviabilizam a análise do dissídio.
+Ademais, deve ser mantida o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula 7/STJ também se aplica aos recursos especiais interpostos pela alínea "c", do permissivo constitucional. Nesse sentido: AgInt nos EDcl no AREsp 1041244/RJ, 4ª Turma, DJe de 22/11/2019; AgInt no AREsp n. 821.337/SP, 3ª Turma, DJe de 13/03/2017; e AgInt no AREsp n. 964.391/SP, 3ª Turma, DJe de 21/11/2016.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
