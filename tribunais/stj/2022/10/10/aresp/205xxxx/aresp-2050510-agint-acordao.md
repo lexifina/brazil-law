@@ -1,0 +1,109 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  SAÚVAS  EMPREENDIMENTOS  E  CONSTRUÇÕES  LTDA.  contra  a decisão  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento  (fls.  1.048/1.053,  e  -STJ).
+Em suas  razões  (fls.  1.056/1.083  ,  e-STJ),  a  agravante  sustenta,  em  síntese,  a  nulidade  do  acórdão  por  não  suprir  a  omissão  apontada  nos  embargos  de  declaração.
+No  ponto,  afirma  que  houve
+"(..)
+A  violação  ao  artigo  1.022  do  CPC,  com  todo  respeito  em  não  aceitar  o  fundamento  do  despacho  recorrido,  restou  demonstrada  e  com  isso  ficou  suprido  o  prequestionamento,  porque  o  Recorrente  demonstrou  nas  razões  recursais,  tanto  do  Recurso  Especial  como  do  Agravo  em  recurso  especial,  que  todas  as  omissões  e  contradições,  ainda  que  em  TESE,  SÃO  CAPAZES  DE  ALTERAR  O  JULGADO,  seja  por  ilegitimidade  da  pessoa  jurídica  defender  bens  pessoais  de  seu  sócio  ou  seja,  ainda,  porque  os  julgadores  do  Tribunal  de  Justiça  excederam  ilegalmente  os  limites  do  recurso,  fundamentando  sua  decisão  em  argumento  não  desenvolvido  pela  Recorrida  e,  por  consequência,  não  contrarrazoada  pela  Recorrente"  (fl.  1.067,  e-STJ).
+Defende que o Superior Tribunal de Justiça  admite  o  prequestionamento  ficto,  nos  termos  do  art.  1.025  do  Código  de  Processo  Civil  de  2015.
+Aponta que não  há  falar  em  incidência  da  Súmula  nº  7/STJ,  pois  os  fatos  estão  delineados  no  acórdão  recorrido.
+Sustenta  a  ilegitimidade  da  pessoa  jurídica  para  recorrer  em  nome  do  sócio  e  a  possibilidade  de  penhora  dos  bens  dele,  sem  necessidade  de  instaurar  incidente  de  desconsideração  da  personalidade  jurídica.
+Afirma  que  não  é  possível  fazer  distinção  da  pessoa  jurídica  e  do  sócio  para  afastar  a  penhora  e  ,  ao  mesmo  tempo,  entender  que  aquela  detém  legitimidade  para  defender  os  bens  deste.
+Além  disso,  argumenta que restaram  demonstradas  as  violações  dos  arts.  10,  141  e  492  do  CPC/2015  diante  a  alteração  da  causa  de  pedir.
+Indica  contrariedade  aos  arts.  277  do  CPC/2015 e  966  e  980-A  do  Código  Civil.
+Ao  final,  requer  a  reforma  da  decisão  atacada.
+Devidamente  intimada,  a  parte contrária  não  ofereceu  impugnação  (fl.  1.086,  e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  EXECUÇÃO.  TÍTULO  EXTRAJUDICIAL.  EXECUTADA.  EIRELI.  SÓCIO.  INCLUSÃO.  DESCONSIDERAÇÃO  DA  PERSONALIDADE  JU  RÍDICA.  NECESSIDADE.  OMISSÃO  .  INEXISTÊNCIA.  PREQUESTIONAMENTO  FICTO.  AUSÊNCIA.  ART.  1.025  DO  CPC/2015.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.
+1.  Recurso  especial  interposto contra acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  Inviável  a  análise  de  violação  de  dispositivos  de  lei  não  prequestionados  na  origem,  apesar  da  oposição  de  embargos  de  declaração.
+4.  De  acordo  com  a  jurisprudência  deste  Tribunal  Superior,  a  admissão  de  prequestionamento  ficto  em  recurso  especial,  previsto  no  art.  1.025  do  CPC/2015,  exige  que  no  mesmo  recurso  seja  reconhecida  a  existência  de  violação  do  art.  1.022  do  CPC/2015,  o  que  não  é  o  caso  dos  autos.
+5.  Não  há  impropriedade  em  afirmar  a  falta  de  prequestionamento  e  afastar  a  negativa  de  prestação  jurisdicional,  haja  vista  que  o  julgado  está  devidamente  fundamentado  sem,  no  entanto,  ter  decidido  a  causa  à  luz  dos  preceitos  jurídicos  suscitados  pelo  recorrente.
+6.  Na  hipótese,  o  acolhimento  da  pretensão  recursal  exigiria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  o  enunciado  da  Súmula  nº  7/STJ.
+7.  A  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+8.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Trata-se  ,  na  origem,  de  agravo  de  instrumento  interposto  por  SHEPI  INCORPORADORA  E  ADMINISTRADORA  ITUPEVA  -  EIRELI  contra  a decisão  que,  em  ação  de  execução  de  título  extrajudicial,  determinou  a  inclusão  da  pessoa  física  do  empresário  individual  no  polo  passivo  da  ação,  assim  como  permitiu  que  a  penhora  recaísse  sobre  os  seus  bens  (imóvel  e  cotas  sociais).
+O  Tribunal  de  Justiça  do  Estado  de  São  Paulo  deu  provimento  ao  recurso  , com  base  nos  seguintes  fundamentos:
+"(..)
+Inicialmente,  afasto  a  preliminar  de  ilegitimidade  ativa  da  executada  para  o  recurso.
+Com  efeito,  na  petição  que  deu  origem  à  decisão  agravada,  a  exequente  pediu  a  inclusão  do  titular  da  empresa  individual  no  polo  passivo  da  execução,  bem  como  a  penhora  dos  bens  dele,  com  base  na  alegação  de  que  eles  se  confundem.
+O  pedido  foi  deferido  pela  r.  decisão  acima  transcrita,  bem  como  deferiu-se  a  penhora  dos  bens  da  pessoa  física.
+Neste  recurso,  a  executada  agravante  ataca  o  mérito  da  decisão,  como  se  tivesse  ocorrido  a  desconsideração  da  personalidade  jurídica  e,  por  isso,  sustenta  sua  legitimidade  ad  causam  recursal.
+Ademais,  a  pessoa  física  incluída  na  execução  não  foi  intimada  de  qualquer  ato  praticado  naquele  feito.
+O  recurso  comporta  provimento.
+Conforme  se  verifica  do  documento  digitalizado  e  inserido  a  fls.  23/27  dos  autos  dos  embargos  à  execução  nº  1005940-11.2019.8.26.0309,  a  executada  SHEPI  Incorporadora  e  Administradora  Itupeva  EIRELI  é  empresa  individual  de  responsabilidade  limitada  (EIRELI)  que,  embora  seja  de  pessoa  única,  difere  do  empresário  individual.
+O  Código  Civil  assim  dispõe  sobre  esse  tipo  de  empresa:
+"Art.  980-A.  A  empresa  individual  de  responsabilidade  limitada  será  constituída  por  uma  única  pessoa  titular  da  totalidade  do  capital  social,  devidamente  integralizado,  que  não  será  inferior  a  100  (cem)  vezes  o  maior  salário-mínimo  vigente  no  País.
+(..)
+§  6º  Aplicam-se  à  empresa  individual  de  responsabilidade  limitada,  no  que  couber,  as  regras  previstas  para  as  sociedades  limitadas.
+§  7º  Somente  o  patrimônio  social  da  empresa  responderá  pelas  dívidas  da  empresa  individual  de  responsabilidade  limitada,  hipótese  em  que  não  se  confundirá,  em  qualquer  situação,  com  o  patrimônio  do  titular  que  a  constitui,  ressalvados  os  casos  de  fraude".
+No  caso,  a  exequente  pleiteou  a  inclusão  da  pessoa  física  na  execução,  por  considerar  desnecessário  o  incidente  de  desconsideração  em  caso  de  executada  (EIRELI),  como  se  fosse  empresário  individual,  pois,  para  este  último,  não  há  separação  entre  os  bens  da  pessoa  natural  e  da  jurídica;  a  tese  foi  aceita  pelo  juízo  a  quo,  e  o  pedido,  deferido.
+No  entanto,  conforme  se  verifica  do  dispositivo  legal  indicado,  não  é  possível  o  atingimento  dos  bens  da  pessoa  física  que  constitui  a  empresa(EIRELI)  sem  a  instauração  do  incidente  de  desconsideração  da  personalidade  jurídica.
+(..)
+Portanto,  respeitado  o  entendimento  da  digna  magistrada  de  primeiro  grau,  -  embora  por  fundamento  diverso  daquele  exposto  pela  agravante  -  a  r.  decisão  agravada  deve  ser  reformada  para  afastar  a  determinação  de  inclusão  de  Hugo  Flávio  Bento  da  Silva  no  polo  passivo  da  execução  bem  como  de  penhora  de  seus  bens,  ressalvada  a  possibilidade  após  o  trâmite  do  necessário  incidente  de  desconsideração  da  personalidade  jurídica.  Por  fim,  todas  as  demais  questões  levantadas  neste  recurso,  pela  agravante  e  agravada,  são  impertinentes  em  razão  de  seu  desfecho"  (fls.  951/952,  e-STJ  -  grifou-se).
+Sob  a  assertiva  de  contradição  e  omissão,  a  ora  agravante  opôs  embargos  de  declaração,  que  foram  rejeitados.
+Nas  razões  do  especial  (fls.  987/979,  e-STJ),  além  da  dissidência  interpretativa,  a  recorrente  aponta  negativa  de  vigência  dos  arts.  10,  18,  141,  277,  492,  1.022,  I  e  II,  do  CPC/2015  e  966  do  Código  Civil.
+Sustenta,  em  síntese,  nulidade  do  acórdão  por  não  suprir  omissão  e  contradição  apontadas  nos  embargos  de  declaração.
+Ademais,  alega  que  a  pessoa  jurídica  não  tem  legitimidade  para  interpor  recurso  no  interesse  do  sócio.  No  ponto,  além  de  contraditório,  o  acórdão  adotou  fundamento  diverso  da  causa  de  pedir  recursal  da  recorrida,  contrariando  o  princípio  da  decisão  não surpresa.
+Esclarece  que,
+"(..)
+Ao  adotar  tese  diversa  para  dar  provimento  ao  recurso,  o  Acórdão,  com  todo  respeito,  acabou  infringindo  o  artigo  277  do  CPC:  "Quando  a  lei  prescrever  determinada  forma,  o  juiz  considerará  válido  o  ato  se,  realizado  de  outro  modo,  lhe  alcançar  a  finalidade.".
+Inclusive  porque  o  contraditório,  com  fundamento  diverso  da  causa  de  pedir  deste  recurso,  já  foi  exercido  pelo  sócio  Hugo  nas  fls.  200/220  do  processo  de  execução  (1019593-17.2018.8.26.0309),  de  onde  derivou  este  Agravo  de  Instrumento.
+Houve,  pode-se  dizer,  inclusive,  supressão  de  instância,  posto  que  o  juiz  de  primeiro  grau  ainda  não  se  manifestou  sobre  a  tese  de  fls.200/220  do  processo  de  primeiro  grau,  usada  como  fundamento  de  decidir  do  Acórdão.  Fato  que  impedia  os  I.  Julgadores  assim  procedessem,  data  venia"  (fl.  968,  e-STJ).
+Defende  a  desnecessidade  de  incidente  processual  da  desconsideração  da  personalidade  jurídica  para  que  o  sócio  da  recorrida  responda  com  os  seus  bens  ao  processo  de  execução.
+Ressalta  que,  "(..)  tendo  a  Recorrida  único  sócio  (ERELI),  não  haveria  prejuízo  para  defesa  dos  direitos  que  entende  ter  em  seu  favor"  (fl.  972,  e-STJ).
+A  decisão  ora  agravada  afastou  a  alegada  ofensa  do  art.  1.022,  II,  do  CPC/2015  porque,  de  fato,  o  Tribunal  de  origem  indicou  adequadamente  os  motivos  que  lhe  formaram  o  convencimento,  analisando  de  forma  clara,  precisa  e  completa  as  questões  relevantes  do  processo  e  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entendeu  cabível  à  hipótese,  como  se  vê  do  seguinte  trecho:
+"(..)
+Os  embargos  de  declaração  devem  ser  rejeitados  porque  o  acórdão  contém  apreciação  de  todas  as  questões  pertinentes,  de  modo  que  não  possui  nenhuma  omissão,  contradição,  obscuridade  ou  erro  material,  nos  termos  do  artigo  1.022  do  Código  de  Processo  Civil.
+Não  há  contradição  no  acórdão.  As  premissas  indicadas  na  fundamentação  do  acórdão  levam  à  conclusão  nele  expostas,  sem  contradição  alguma  acerca  da  legitimidade  recursal  da  agravante.
+Não  há  omissão,  inovação,  ofensa  à  tese  do  Superior  Tribunal  de  Justiça  indicada  pela  embargante,  supressão  de  instância  nem  decisão  extra  petita.
+Com  efeito,  como  bem  salientado  no  acórdão  ora  atacado,  o  pedido  de  penhora  dos  bens  dos  sócios  foi  formulado  e  deferido  na  ação  originária  como  se  tais  pessoas,  natural  e  jurídica,  se  confundissem;  tratou-se  a  Empresa  Individual  de  Responsabilidade  Limitada  (EIRELI)  como  empresário  individual.
+No  entanto,  diante  da  verificação  de  que  o  atingimento  de  bens  do  sócio,  no  caso,  dependia  da  instauração  do  incidente  de  desconsideração  da  personalidade  jurídica,  todas  as  alegações  sobre  a  presença  dos  requisitos  autorizadores  de  sua  concessão  tornaram-se  impertinentes,  porque  não  houve  a  observação  do  devido  processo  legal  para  tanto,  o  que  é  inadmissível.
+Por  fim,  houve  a  regular  ressalva  da  possibilidade  de  inclusão  do  sócio  e  atingimento  dos  bens  dele,  após  o  trâmite  do  necessário  incidente  de  desconsideração.
+Na  verdade,  o  que  a  parte  embargante  pretende  é  a  rediscussão  da  matéria,  a  fim  de  reverter  o  resultado  que  lhe  fora  desfavorável,  hipótese  que  não  justifica  a  oposição  de  embargos  de  declaração"  (fls.  1.009/1.010,  e-STJ  -  grifou-se).
+Não  há  falar,  portanto,  em  prestação  jurisdicional  lacunosa  ou  deficitária  apenas  pelo  fato  de  o  acórdão  recorrido  ter  decidido  em  sentido  contrário  à  pretensão  da parte.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  DANOS  MATERIAIS.  BENFEITORIAS  EM  IMÓVEL.  EFEITO  SUSPENSIVO.  REQUISITOS.  AUSÊNCIA.  ART.  1.022  DO  CPC/2015.  VIOLAÇÃO.  NÃO  OCORRÊNCIA.  EMBARGOS  DE  DECLARAÇÃO.  EFEITOS  MODIFICATIVOS.  POSSIBILIDADE.
+1.  A  atribuição  de  efeito  suspensivo  a  recurso  especial  está  circunscrita  à  presença  cumulativa  dos  requisitos  da  plausibilidade  do  direito  invocado  e  no  perigo  de  dano  irreparável  ou  de  difícil  reparação,  que  não  se  fazem  presentes  na  hipótese.
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  É  possível  a  atribuição  de  efeitos  infringentes  aos  embargos  de  declaração  quando  a  alteração  da  decisão  surgir  como  consequência  lógica  da  correção  da  omissão,  contradição  ou  obscuridade.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.070.607/RN,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  DJe  25/8/2017  -  grifou-se).
+Além  disso,  as  matérias  versadas  nos  arts.  10,  18,  141 e  277  do  Código  de  Processo  Civil  de  2015  não  foram  objeto  de  prequestionamento,  embora  opostos  embargos  de  declaração.  Ausente  o  requisito  do  prequestionamento,  incide  o  disposto  na  Súmula  nº  211/STJ:  "Inadmissível  recurso  especial  quanto  à  questão  que,  a  despeito  da  oposição  de  embargos  declaratórios,  não  foi  apreciada  pelo  Tribunal  a  quo."
+De  mais  a  mais,  não  há  impropriedade  em  afirmar  a  falta  de  prequestionamento  e  afastar  a  negativa  de  prestação  jurisdicional,  haja  vista  que  o  julgado  está  devidamente  fundamentado  sem,  no  entanto,  ter  decidido  a  causa  à  luz  dos  preceitos  jurídicos  suscitados  pela  recorrente.
+Observa-se,  ainda,  que,  de  acordo  com  a  jurisprudência  deste  Tribunal  Superior,  a  admissão  de  prequestionamento  ficto  em  recurso  especial,  previsto  no  art.  1.025  do  CPC/2015,  exige  que  no  mesmo  recurso  seja  reconhecida  a  existência  de  violação  do  art.  1.022  do  CPC/2015,  o  que  não  é  o  caso  dos  autos.
+Sobre  o  tema:
+"CIVIL.  PROCESSUAL  CIVIL.  RECURSO  ESPECIAL.  INVENTÁRIO.  -  LIQUIDAÇÃO  PARCIAL  DE  SOCIEDADE  LIMITADA.  PARTICIPAÇÃO  NOS  LUCROS  PROPORCIONAIS  ÀS  COTAS  INVENTARIADAS  -  HERDEIROS  SÓCIOS  EM  CONDOMÍNIO  -  CABIMENTO  -  PRESCRIÇÃO  DO  DIREITO  -  NÃO  OCORRÊNCIA.
+01.  Inviável  o  recurso  especial  na  parte  em  que  a  insurgência  recursal  não  estiver  calcada  em  violação  a  dispositivo  de  lei,  ou  em  dissídio  jurisprudencial.
+02.  Avaliar  o  alcance  da  quitação  dada  pelos  recorridos  e  o  que  se  apurou  a  título  de  patrimônio  líquido  da  empresa,  são  matérias  insuscetíveis  de  apreciação  na  via  estreita  do  recurso  especial,  ante  o  óbice  da  Súmula  7/STJ.
+03.  Inviável  a  análise  de  violação  de  dispositivos  de  lei  não  prequestionados  na  origem,  apesar  da  interposição  de  embargos  de  declaração.
+04.  A  admissão  de  prequestionamento  ficto  (art.  1.025  do  CPC/15),  em  recurso  especial,  exige  que  no  mesmo  recurso  seja  indicada  violação  ao  art.  1.022  do  CPC/15,  para  que  se  possibilite  ao  Órgão  julgador  verificar  a  existência  do  vício  inquinado  ao  acórdão,  que  uma  vez  constatado,  poderá  dar  ensejo  à  supressão  de  grau  facultada  pelo  dispositivo  de  lei.
+05.  O  pedido  de  abertura  de  inventário  interrompe  o  curso  do  prazo  prescricional  para  todas  as  pendengas  entre  meeiro,  herdeiros  e/ou  legatários  que  exijam  a  definição  de  titularidade  sobre  parte  do  patrimônio  inventariado.
+06.  Recurso  especial  não  provido"  (REsp  1.639.314/MG,  Rel.  Ministra  NANCY  ANDRIGHI,  TERCEIRA  TURMA,  DJe  10/4/2017  -  grifou-se).
+Vale  anotar  que  a  jurisprudência  desta  Corte  é  firme  no  sentido  de  que  "(..)  o  prequestionamento  é  indispensável  ao  conhecimento  da  questão  veiculada  no  âmbito  do  Superior  Tribunal  de  Justiça,  ainda  que  se  trate  de  matéria  de  ordem  pública"  (AgRg  no  REsp  nº  1.505.392/PE,  Rel.  Ministro  Paulo  de  Tarso  Sanseverino,  DJe  6/11/2015).
+A propósito:
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CIVIL  E  PROCESSUAL  CIVIL.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  SÚMULA  Nº  282/STF  INTERPRETAÇÃO  DE  CLÁUSULA  E  REEXAME  DE  PROVA.  SÚMULAS  Nº  5  E  Nº  7/STJ.  INVIABILIDADE.
+1.  Ausente  o  prequestionamento,  até  mesmo  de  modo  implícito,  dos  dispositivos  apontados  como  violados  no  recurso  especial,  incide,  por  analogia,  o  disposto  na  Súmula  nº  282  do  Supremo  Tribunal  Federal.
+2.  As  questões  de  ordem  pública,  embora  passíveis  de  conhecimento  de  ofício  nas  instâncias  ordinárias,  não  prescindem,  no  estreito  âmbito  do  recurso  especial,  do  requisito  do  prequestionamento.
+3.  Rever  questão  decidida  com  base  na  interpretação  das  normas  contratuais  e  no  exame  das  circunstâncias  fáticas  da  causa  esbarra  nos  óbices  das  Súmulas  nºs  5  e  7  deste  Tribunal.
+4.  Agravo  regimental  não  provido"  (AgRg  no  AREsp  568.759/SP,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  DJe  27/10/2015  -  grifou-se).
+Também  não  há  como  afastar  a  incidência  da  Súmula  nº  7/STJ,  tendo  em  vista  que  acolher  a  pretensão  recursal,  no  sentido  da  ilegitimidade  recursal  da  agravada,  da  desnecessidade  do  incidente  da  desconsideração  da  personalidade  jurídica  e  de  ausência  de  prejuízo  para  a  defesa  demandaria  necessariamente  a  análise  das  circunstâncias  fáticas  utilizadas  pelo  aresto  recorrido  para  fundamentar  a  sua  conclusão.
+Além disso, ressalta-se  que,  consoante  iterativa  jurisprudência  desta  Corte,  a  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+Confira-se:
+
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA  DE  INEXISTÊNCIA  DE  DÉBITO  C/C  REPETIÇÃO  DE  INDÉBITO  E  INDENIZAÇÃO  POR  DANOS  MORAIS.  PRESCRIÇÃO  CONSUMADA.  DESCONSTITUIÇÃO  DO  ENTENDIMENTO  DO  ACÓRDÃO  RECORRIDO.  IMPOSSIBILIDADE.  ANÁLISE  FEITA  COM  BASE  NO  SUPORTE  FÁTICO-PROBATÓRIO  DOS  AUTOS.  SÚMULA  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL  NÃO  DEMONSTRADA.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Rever  as  conclusões  das  instâncias  ordinárias  quanto  à  ocorrência  de  prescrição  da  ação  declaratória  de  inexistência  de  débito  cumulada  com  repetição  de  indébito  e  indenização  por  danos  morais  exige,  necessariamente,  a  incursão  no  material  fático-probatório  dos  autos,  notadamente  porque  as  alegações  da  recorrente  são  no  sentido  de  considerar  outro  termo  inicial  para  a  contagem  do  prazo  prescricional,  o  que  atrai  a  aplicação  da  Súmula  7/STJ.
+2.  No  que  toca  ao  conhecimento  do  apelo  especial  por  divergência  jurisprudencial,  também  não  colhe  êxito.  Isso  porque  julgado  fundado  em  fatos  e  provas  (incidência  da  Súmula  7/STJ)  não  enseja  a  possibilidade  de  demonstração  da  similitude  fática,  conforme  tranquilo  entendimento  desta  Corte  Superior.
+3.  Agravo  interno  desprovido"  (AgInt  no  AREsp  1.114.253/MS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  DJe  6/11/2017  -  grifou-se).
+
+As  razões  do  presente  recurso  não  são  suficientes  para  reformar  a  decisão  atacada,  que  merece  ser  mantida  por  seus  próprios  fundamentos.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
