@@ -1,0 +1,31 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FEMINICÍDIO. PRISÃO PREVENTIVA MANTIDA NA PRONÚNCIA. NOVO TITULO. TESE DEFENSIVA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO.
+1. Constatado que a tese defensiva não foi enfrentada pelo Tribunal de origem no writ originário, fica esta Corte impedida de se debruçar sobre as matérias, sob pena de incorrer em indevida supressão de instância.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+Sustentou oralmente o Adv. GETÚLIO DE SOUZA JÚNIOR, pela parte agravante KENNEDY RAMON ALVES LINHARES
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Cuida-se de agravo regimental interposto por KENEDDY RAMON ALVES LINHARES contra a decisão deste relator que indeferiu liminarmente o habeas corpus em razão de a pretensão demandar indevida supressão de instância quanto à tese de ausência de fundamentação da manutenção da prisão preventiva do paciente na pronúncia (e-STJ fls. 42/45).
+Depreende-se dos autos que o paciente foi denunciado e preso preventivamente, no dia 19/12/2020, pela prática, em tese, do crime do art. 121, § 2º, incisos I, III, IV, VI, e § 2º-A, inciso I, do Código Penal (feminicídio). Visando o relaxamento da prisão preventiva, a defesa impetrou prévio writ na origem, a ordem, contudo, foi denegada.
+Em suas razões regimentais, a defesa relata que "foi impetrado o Recurso Ordinário em Habeas Corpus nº 158429/PB junto a esta corte em 15/12/2021 com o fito de revogar a prisão preventiva do agravante sustentando as teses de excesso de prazo da cautelar extrema, de fundamentação inidônea para o decreto prisional e, subsidiariamente, a suficiência das medidas cautelares diversas a prisão. Entretanto, em 17/02/2022 o douto ministro julgou aquele recurso prejudicado, haja vista que a sentença de pronúncia havia saído dois dias antes da decisão, assim, estaria afastada, pois, segundo a súmula 21 desta corte superior, afasta o constrangimento ilegal por excesso de prazo" (e-STJ fls. 49/50).
+Aduz que "a tese do constrangimento ilegal não era a única sustentada no RHC, havendo ali mais duas teses que sequer foram enfrentadas" (e-STJ fl. 50), o que levou à impetração do presente habeas corpus.
+Busca, assim, a retratação da decisão agravada ou a submissão do presente recurso ao órgão colegiado, provendo-se o agravo para revogar, de ofício, a segregação antecipada do agravante.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito do esforço da diligente defesa, não há como acolher a irresignação.
+É que, consoante asseverado na decisão agravada, não tendo o Tribunal a quo se manifestado, no acórdão impugnado, acerca da alegação de ausência de fundamentação da manutenção da prisão preventiva do paciente na pronúncia, fica esta Corte impedida de examinar o tema, sob pena de incorrer em indevida supressão de instância e em violação ao princípio do duplo grau de jurisdição.
+Ao discorrer sobre o tema, BRASILEIRO vaticina com clareza que se revela "inviável, portanto, o pedido de julgamento de habeas corpus per saltum, ou seja, o julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev. ampl. e atual. Salvador: ed. JusPodivm, 2016, p. 2.470).
+Assim, ante a falta de manifestação do colegiado estadual sobre a tese, percebe-se a incompetência desta Corte Superior para o processamento e julgamento do tema, já que inexiste, no ponto, ato a ser imputado à autoridade coatora, nos termos do art. 105, I, alínea "c", da Constituição Federal, bem como do art. 13, I, alínea "b", do Regimento Interno do Superior Tribunal de Justiça.
+Nesse sentido, guardadas as devidas particularidades:
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE INDÍCIOS DE AUTORIA. INVIÁVEL. NÃO CONHECIMENTO. CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADO.
+1. Em sede de habeas corpus não há espaço para discussão de autoria delitiva, uma vez que a ação mandamental em comento visa sanar ilegalidade verificada de plano.
+2. Constatada a falta de manifestação do Tribunal de origem a respeito do constrangimento ilegal decorrente de excesso de prazo para formação da culpa, obsta-se a análise da matéria nesse momento, pois provocaria indevida supressão de instância.
+ ..  (HC 387.938/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/03/2017, DJe 23/03/2017.)
+Registre-se que, ao contrário do que alega o ora agravante, a decisão proferida no RHC n. 158.429/PB julgou prejudicado o recurso não apenas no que diz respeito à alegação de constrangimento ilegal decorrente do excesso de prazo da prisão, mas também em relação à alegada ausência de fundamentação idônea para a decretação da cautelar. Com efeito, sobrevindo sentença de pronúncia na qual foi mantida a segregação cautelar, fica prejudicado o pedido de revogação da prisão por supostamente não estarem presentes os requisitos autorizadores do art. 312 do Código de Processo Penal, tendo em vista a formação de novo título para justificar a prisão preventiva. Dessa forma, os fundamentos adotados na pronúncia devem ser submetidos à análise do Tribunal de origem antes de aqui serem apreciados, sob pena de se incidir em supressão de instância.
+À vista do exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
