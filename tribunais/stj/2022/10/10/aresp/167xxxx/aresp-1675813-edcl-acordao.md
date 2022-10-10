@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+VANDERLEI MOSERopõeembargos de declaração contra o acórdão de fls. 1.613-1.624, em que esta Sexta Turma conheceu parcialmente doagravo regimental e, nessa extensão, negou-lhe provimento.
+A defesa sustenta que o decisum foi omisso por não ter consignado fundamentação adequada a respeito da tese de que o agravo regimental foi a primeira oportunidade em que a defesa pode se manifestar a respeito do cabimento do acordo de não persecução penal e reitera o pleito de aplicação retroativa do ANPP.
+Reafirma a tese de quea defesa teria sido surpreendida por fundamento não antes utilizado para manter a condenação do réu, consistente na incidência do art. 155 do CPP para nortear a atuação do magistrado sentenciante.
+Requer o acolhimento dos embargos de declaraçãoa fim de que sejam sanados os vícios apontados.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 619 DO CPP. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não está caracterizado nenhum vício previsto no art. 619 do CPP se o órgão julgador dirimiu, de modo fundamentado, as questões que lhe foram submetidas.
+2. Na espécie, a decisão embargada consignou expressamente que o art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não houve o recebimento da denúncia.
+3. O decisum asseverou, ainda, que a análise dos pleitos de absolvição e de desclassificação do delito imputado demandaria reexame do acervo fático-probatório, incidindo o óbice do verbete sumular n. 7 do STJ, e que não há fundamento novo ao invocar o art. 155 do CPP, já que ele rege a atividade jurisdicional e norteou todas as decisões de mérito do processo.
+4. A irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+5. Embargos de declaração rejeitados.
+VOTO
+Conforme o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração almeja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Sob essas premissas, constato que, no caso em análise, o julgado nãoincorreu em nenhuma omissão, obscuridade, contradição ou ambiguidade que justifique estes aclaratórios.
+O julgado embargado consignou expressamente que, " o Superior Tribunal de Justiça, por ambas as turmas de direito criminal, unificou entendimento de que o art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não houve o recebimento da denúncia" (fl. 1.618).
+Asseverouque "os depoimentos das testemunhas, aliados à farta prova documental colhida ao longo da instrução criminal, foram suficientes para amparar o édito condenatório" (fl. 1.621) e que, paraentender de forma contrária, "tanto para absolver o réu quanto para desclassificar as condutas a ele imputadas para delito menos grave, seria imprescindível o reexame do acervo fático-probatório, procedimento vedado em recurso especial, nos termos do enunciado sumular n. 7 deste Superior Tribunal" (fl. 1.622).
+Finalmente, assentou que não é procedente a alegação de que a defesa foi surpreendida por fundamento ainda não discutido nos autos (incidência do art. 155 do CPP)por não se tratar de fundamento novo, já que "o referido dispositivo legal cuida do princípio da livre apreciação da prova, instituto que rege a atividade jurisdicional e norteou, como deveria ser, todas as decisões de mérito do processo penal em análise" (fl. 1.624).
+Assim, noto que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+À vista do exposto, rejeito os embargos de declaração.
