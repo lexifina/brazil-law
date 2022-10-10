@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de embargos declaratórios opostos por ARLINDO CAPATO e OUTROS contra acórdão desta colenda Quarta Turma assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL. AÇÃO SECURITÁRIA. SISTEMA FINANCEIRO DE HABITAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL. AUSÊNCIA DE PREVISÃO NA APÓLICE. SÚMULAS 5 E 7 DO STJ. MULTA DECENDIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. A negativa de prestação jurisdicional não foi configurada, pois o acórdão estadual examinou, de forma fundamentada, os pontos essenciais ao deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte recorrente.
+2. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+3. Tendo entendido a Corte a quo que os vícios construtivos não estavam previstos nas apólices discutidas nos autos, para se concluir em sentido contrário seria indispensável a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos autos, o que, na via estreita do recurso especial, esbarra nas Súmulas 5 e 7 do STJ.
+4. No que tange ao pedido de incidência da multa decendial, de fato, observa-se que a parte recorrente não trouxe, nas razões do especial, argumentação jurídica pertinente, de modo a demonstrar o acerto de sua tese. Incide, portanto, o óbice previsto na Súmula 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+5. Agravo interno desprovido.
+Em suas razões, a parte embargante afirma que o acórdão hostilizado está amparado em premissa equivocada. Salienta, com isso, que: (I) há omissão e contradição quanto à origem, natureza, extensão e gravidade dos sinistros reclamados e, ainda, quanto à multa decendial; (II) não é devida a incidência das Súmulas 5 e 7/STJ; (III) há julgados nesta Corte de Justiça que, em casos similares ao dos presentes autos, quanto à "expressa existência de cobertura securitária para os vícios construtivos" (AgRg no REsp 1.558.679/SP, REsp 1.540.894/SP) (fl. 1945).
+Impugnação apresentada às fls. 1967-1.970 (e-STJ), pela manutenção da decisão embargada. Requer a aplicação da multa aos embargantes por litigância de má fé, nos termos dos arts. 79 e 80 do CPC/2015.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. LITIGÂNCIA DE MÁ FÉ. PEDIDO REALIZADO EM SEDE DE IMPUGNAÇÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+Os embargos de declaração têm como objetivo sanar eventual existência de erro material, obscuridade, contradição ou omissão no julgado (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+In casu, inexistem os vícios apontados nas razões dos declaratórios.
+Conforme destacado desde a decisão monocrática, a alegada negativa de prestação jurisdicional não merece prosperar, tendo em vista que o acórdão recorrido enfrentou e decidiu fundamentadamente todas as questões suscitadas nos autos, o que afasta os vícios apontados. Eis os fundamentos trazidos no aresto ora hostilizado:
+Com efeito, ao contrário do alegado, o Tribunal de origem analisou todas as matérias necessárias ao deslinde da controvérsia envolvendo a responsabilidade civil da seguradora pelos vícios construtivos, senão vejamos:
+6. Por vezes, posicionei-me no sentido de que eventual cláusula contratual que exclua a responsabilidade por dano decorrente de vício construtivo seria abusiva, por contrariar a natureza securitária do contrato. (AgRg no REsp 1540894/SP, Rei. Min. Paulo de Tarso Sanseverino, j. em 07.04.2016 pela 3a T.)
+7. Anoto, porém, que o entendimento desta E. 2a Câmara é no sentido inverso, no sentido de que o segurador não é obrigado a indenizar nestes casos de vícios de construção, tendo em vista que são intrínsecos e expressamente excluídos pela apólice, de modo que a finalidade da contratação do seguro não diz respeito à qualidade e solidez do imóvel, mas sim ao crédito imobiliário.
+ ..
+10. Assim, sob a égide do artigo 784 do Código Civil, e, em consonância com o posicionamento desta E. Câmara, mantenho a r. sentença por seus próprios fundamentos.
+Assim, a conclusão do julgado apenas foi diversa da pretendida pelos agravantes, de modo que a rejeição dos embargos declaratórios, nesse contexto, não implica negativa de prestação jurisdicional.
+Ademais, as alegações trazidas no recurso especial quanto à origem, natureza, extensão e gravidade dos sinistros reclamados encontram óbice nas Súmulas 5 e 7 do Superior Tribunal de Justiça, pois o acolhimento da pretensão recursal exige, no caso, a incursão no acervo fático-probatório constante dos autos, bem como a interpretação de cláusulas contratuais, o que, no entanto, é vedado na via estreita do apelo especial. Sobre os temas, esta relatoria consignou, em suma, o seguinte:
+Noutro vértice, quanto à responsabilidade civil da seguradora pelos vícios construtivos, esta Corte de Justiça possui entendimento de que, nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+A propósito:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ADMISSIBILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATO DE SEGURO. RESPONSABILIDADE DA SEGURADORA PELOS VÍCIOS DE CONSTRUÇÃO NO IMÓVEL FINANCIADO. AUSÊNCIA DE COBERTURA SECURITÁRIA. SÚMULAS N. 5 E 7 DO STJ.
+1. Atrai a incidência do óbice previsto na Súmula n. 284/STF a alegação de que o art. 535 do CPC foi violado desacompanhada de argumento que demonstre efetivamente em que ponto o acórdão embargado permaneceu omisso, contraditório ou obscuro.
+2. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+3. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+4. Concluir que a apólice contratada prevê a responsabilidade pelos prejuízos decorrentes da construção demanda a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos atos, o que é vedado em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+5. Agravo regimental desprovido.
+(AgRg no REsp 1305102/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/02/2016, DJe 19/02/2016)
+No caso dos autos, o Juízo de primeiro grau decidiu o seguinte:
+É certo que o "orçamento analítico" trazido pelos autores, bem como o laudo pericial minucioso realizado nos autos como prova, demonstram a existência de vícios de construção nos imóveis dos autores, é bem verdade. Contudo, a hipótese aqui examinada (vício de construção) não possui cobertura que autorize a condenação da seguradora ao pagamento da indenização, em razão do disposto na cláusula 4a (quarta) do contrato entabulado entre as partes (vide fls. 86/87), definindo quais os riscos cobertos.
+Com efeito, a cláusula 3.2 (fls.97) discorre sobre os riscos cobertos, cujos subitens "deverão ser decorrentes de eventos de causa externa, assim entendidos ou causados por forças que, atuando de fora para dentro, sobre o prédio, ou sobre o solo ou subsolo em que o mesmo se acha edifícado, causem-lhe danos, excluindo-se, por conseguinte, todo e qualquer dano sofrido pelo prédio ou benfeitorias que seja causado por seus próprios componentes, sem que sobre eles atue qualquer força anormal", (grifei)
+O TJSP manteve a sentença de improcedência, estando consignado que o contrato de seguro firmado entre as partes não abarcava riscos ligados à construção do imóvel:
+6. Por vezes, posicionei-me no sentido de que eventual cláusula contratual que exclua a responsabilidade por dano decorrente de vício construtivo seria abusiva, por contrariar a natureza securitária do contrato. (AgRg no REsp 1540894/SP, Rei. Min. Paulo de Tarso Sanseverino, j. em 07.04.2016 pela 3a T.)
+7. Anoto, porém, que o entendimento desta E. 2a Câmara é no sentido inverso, no sentido de que o segurador não é obrigado a indenizar nestes casos de vícios de construção, tendo em vista que são intrínsecos e expressamente excluídos pela apólice, de modo que a finalidade da contratação do seguro não diz respeito à qualidade e solidez do imóvel, mas sim ao crédito imobiliário.
+ ..
+10. Assim, sob a égide do artigo 784 do Código Civil, e, em consonância com o posicionamento desta E. Câmara, mantenho a r. sentença por seus próprios fundamentos.
+Nesse contexto, tendo entendido a Corte a quo que os vícios construtivos eventualmente constatados no imóvel não estavam previstos nas apólices discutidas nos autos, para se concluir em sentido contrário seria indispensável a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos autos, o que, na via estreita do recurso especial, esbarra nas Súmulas 5 e 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. ADMISSIBILIDADE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284/STF. RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. CONTRATO DE SEGURO. RESPONSABILIDADE DA SEGURADORA PELOS VÍCIOS DE CONSTRUÇÃO NO IMÓVEL FINANCIADO. AUSÊNCIA DE COBERTURA SECURITÁRIA. SÚMULAS N. 5 E 7 DO STJ.
+1. Atrai a incidência do óbice previsto na Súmula n. 284/STF a alegação de que o art. 535 do CPC foi violado desacompanhada de argumento que demonstre efetivamente em que ponto o acórdão embargado permaneceu omisso, contraditório ou obscuro.
+2. Incide o óbice previsto na Súmula n. 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia.
+3. Nos contratos de seguro habitacional obrigatório no âmbito do Sistema Financeiro de Habitação, as seguradoras são responsáveis pelos vícios decorrentes da construção, desde que tal responsabilidade esteja prevista na apólice.
+4. Concluir que a apólice contratada prevê a responsabilidade pelos prejuízos decorrentes da construção demanda a interpretação de cláusula contratual e o reexame do conjunto fático-probatório dos atos, o que é vedado em recurso especial, nos termos das Súmulas n. 5 e 7 do STJ.
+5. Agravo regimental desprovido.
+(AgRg no REsp 1305102/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 16/02/2016, DJe 19/02/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE INDENIZAÇÃO SECURITÁRIA - DANOS CONSTRUTIVOS EM IMÓVEL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. IRRESIGNAÇÃO DA PARTE RÉ.
+1. Consideram-se preclusas as matérias que, veiculadas no recurso especial e dirimidas na decisão agravada, não são reiteradas no agravo interno. Precedentes.
+2. Com base no princípio da dialeticidade recursal, não se conhece do agravo interno que veicula razões dissociadas dos fundamentos da decisão singular.
+3. A conclusão do acórdão recorrido, quanto à legitimidade ativa, adotada com base exclusivamente nos instrumentos anexos ao contrato de seguro, é insuscetível de reexame em sede de recurso especial, em razão do óbice da Súmula 5/STJ.
+4. Verificar se a apólice do seguro habitacional excluiria de modo válido a cobertura de vícios de construção demandaria na interpretação das cláusulas do ajuste, juízo obstado pelo óbice das Súmulas 5 e 7/STJ.
+5. Agravo interno conhecido em parte e, na extensão, desprovido.
+(AgInt no REsp 1581014/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/05/2018, DJe 28/05/2018)
+Em relação à multa decendial, o acórdão embargado decidiu a controvérsia nos seguintes termos:
+Em relação ao pedido de incidência da multa decendial, observa-se que a parte recorrente não trouxe, nas razões do especial, argumentação jurídica pertinente, de modo a demonstrar o acerto de sua tese. Incide, portanto, o óbice previsto na Súmula 284 do STF na hipótese em que a deficiência da fundamentação do recurso não permite a exata compreensão da controvérsia. No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. MÚTUO HABITACIONAL. PRESCRIÇÃO. TERMO INICIAL. INTERESSE DA CAIXA ECONÔMICA FEDERAL NA LIDE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. LEGITIMIDADE PASSIVA DA SEGURADORA. AUSÊNCIA DE COBERTURA SECURITÁRIA. SÚMULAS 5 E 7 DO STJ. MULTA DECENDIAL E ILEGITIMIDADE ATIVA. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA 284 DO STF. RECURSO ESPECIAL NÃO PROVIDO.
+1. O entendimento deste Tribunal, acerca do termo inicial da prescrição é de que a progressão dos danos no imóvel, de natureza sucessiva e gradual, dá azo a inúmeros sinistros que renovam seguidamente a pretensão do beneficiário do seguro.
+2. Não é possível acolher a tese de interesse da CEF na causa, em virtude da utilização do FCVS, com a respectiva declinação da competência para a justiça federal, em virtude da ausência de prequestionamento. Incidência da Súmula 211 do STJ.
+3. O Superior Tribunal de Justiça possui entendimento pacífico no sentido de que a seguradora tem legitimidade para figurar no polo passivo de ação que cinge contrato de seguro habitacional, regido pelas regras do Sistema Financeiro de Habitação.
+4. A alegação de ausência de cobertura securitária quanto aos vícios de construção demandaria o reexame do acervo fático-probatório e interpretação de cláusulas contratuais. Incidência das Súmulas 5 e 7/STJ, impedindo o conhecimento do recurso.
+5. O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Incidência da Súmula 284 do STF.
+6. Agravo interno não provido.
+(AgInt no REsp 1674404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/09/2017, DJe 09/10/2017)
+Ademais, nos termos da jurisprudência firmada no âmbito do Superior Tribunal de Justiça, é indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+Nesse sentido:
+CIVIL E PROCESSUAL. ACÓRDÃO ESTADUAL. NULIDADE NÃO CONFIGURADA. ACIDENTE. CONDUÇÃO DO CONJUNTO POR PREPOSTO DA DONA DO "CAVALO-MECÂNICO". "SEMI-REBOQUE". RESPONSABILIDADE DO PROPRIETÁRIO DESTE INEXISTENTE.
+I. Não padece de nulidade o acórdão estadual que enfrenta suficientemente as questões essenciais ao deslinde da controvérsia, apenas que trazendo entendimento contrário aos interesses da parte irresignada.
+(..)
+IV. Recurso especial conhecido em parte e provido.
+(REsp 494.372/MG, Rel. Ministro ALDIR PASSARINHO JUNIOR, QUARTA TURMA, julgado em 04/03/2010, DJe de 29/03/2010)
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+(..)
+7. Recurso Especial não conhecido.
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/06/2017, DJe de 30/06/2017)
+É importante salientar que os julgados citados na petição de embargos de declaração examinaram as peculiaridades dos casos concretos neles apresentados, de maneira que não há como adentrar essa discussão neste momento processual sem esbarrar no óbice das aludidas Súmulas 5 e 7/STJ.
+Ademais, a via estreita dos embargos de declaração não é adequada para analisar a existência da alegada divergência jurisprudencial, já que não está configurado, na hipótese, nenhum dos vícios previstos no art. 1.022 do CPC de 2015.
+Por fim, não merece acolhimento o pedido da parte embargada de incidência de multa por litigância de má fé, formulado em sede de impugnação do presente recurso.
+Com efeito, o Superior Tribunal de Justiça possui orientação de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). Isso, porque a má-fé, como se sabe, não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015, o que não se verifica no caso.
+Diante do exposto, rejeitam-se os embargos declaratórios.
+É como voto.
