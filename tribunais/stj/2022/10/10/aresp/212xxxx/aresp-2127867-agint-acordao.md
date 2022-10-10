@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interposto por M2 ADMINISTRADORA DE BENS LTDA contra decisão unipessoal que não conheceu do agravo em recurso especial que interpusera.
+Ação: cumprimento provisório de sentença, ajuizada pela agravante, em face da agravada, na qual se insurge a agravante contra a decisão que: i) determinou a intimação pessoal da parte executada para cumprir a obrigação de fazer determinada na sentença no prazo de 15 (quinze) dias, sob pena de multa diária de R$ 20.000,00 (vinte mil reais); ii) não conheceu do pedido de exibição de documentos por não ter sido objeto da sentença; iii) indeferiu pedido de condenação da agravada por litigância de má-fé; e iv) indeferiu pedido de expedição de ofícios ao Ministério Público e ao Estado de Santa Catarina para tomar ciência do descumprimento da obrigação de fazer.
+Decisão interlocutória: i) determinou a intimação pessoal da parte executada para cumprir a obrigação de fazer determinada na sentença no prazo de 15 (quinze) dias, sob pena de multa diária de R$ 20.000,00 (vinte mil reais); ii) não conheceu do pedido de exibição de documentos por não ter sido objeto da sentença; iii) indeferiu pedido de condenação da agravada por litigância de má-fé; e iv) indeferiu pedido de expedição de ofícios ao Ministério Público e ao Estado de Santa Catarina para tomar ciência do descumprimento da obrigação de fazer.
+Acórdão: negou provimento ao agravo de instrumento interpostopela agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO PROVISÓRIO DE SENTENÇA -MANUTENÇÃO DE EMBARCAÇÃO - COBRANÇA DE ASTREINTES - NECESSIDADE DE INTIMAÇÃO DO DEVEDOR PARA CUMPRIMENTO VOLUNTÁRIO DA OBRIGAÇÃO DE FAZER - SÚMULA 410 DO STJ - INCIDÊNCIADA MULTA - TERMO INICIAL - DE CURSO DO PRAZO PARA CUMPRIMENTO VOLUNTÁRIO DA OBRIGAÇÃO FIXADO NO CUMPRIMENTO PROVISÓRIO DE SENTENÇA - PEDIDO DE REGULARIZAÇÃO DE DOCUMENTOS DA EMBARCAÇÃO - OBRIGAÇÃO DE FAZER NÃO DETERMINADA NA SENTENÇA -IMPOSSIBILIDADE DE AMPLIAR OS SEUS TERMOS - OBRIGAÇÃO QUE NÃO PODE SER EXIGIDA NESTA FASE PROCESSUAL - LITIGÂNCIA DE MÁ-FÉ -INOCORRÊNCIA - AUSÊNCIA DE DESCUMPRIMENTO INJUSTIFICADO DE DECISÃO JUDICIAL - PEDIDO DE ENCAMINHAMENTO DE OFÍCIO AO MINISTÉRIO PÚBLICO E AO ESTADO DE SANTA CATARINA PARA INFORMAR A OCORRÊNCIA DE CRIME DE DESCUMPRIMENTO DE ORDEM JUDICIAL -AUSÊNCIA DE INDÍCIO DE CRIME NO CASO CONCRETO - DESNECESSIDADE DA MEDIDA - DECISÃO AGRAVADA MANTIDA.
+RECURSO DE AGRAVO DE INSTRUMENTO NÃO PROVIDO. (e-STJ Fl. 309)
+Recurso especial: alega violação dos arts. 77, 80, 88, 270, 274, 269, § 1º, 322, § 2º, 515 e537 do CPC/15;6º, VIII, do CDC.
+Decisão unipessoal: não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ, eis que parte a agravante não impugnou todos os fundamentos utilizados pelo TJ/PR para inadmitir o recurso especial que interpusera.
+Agravo interno: nas razões do presente recurso, a parte agravante sustenta a inaplicabilidade da Súmula 182/STJ à hipótese dos autos, eis que impugnou todos os fundamentos da decisão que negou seguimento ao apelo especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial interposto pela parte agravante, com fundamento no art. 253, parágrafo único, I, do RISTJ, e da aplicação, por analogia, da Súmula 182/STJ, tendo em vista que esta não teria impugnado todos os fundamentos da decisão que inadmitiu o seu recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada. Assim, cabia à parte agravante demonstrar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
