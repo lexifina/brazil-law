@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão monocrática (fls. 742-746, e-STJ), por meio da qual não se conheceu do Recurso Especial.
+A parte agravante alega:
+Nesse contexto, depois do trânsito em julgado da fase de conhecimento, os sucessores legais do associado falecido têm o prazo prescricional para proporem a execução do julgado em nome próprio.
+No caso em exame a execução coletiva foi movida pela ASDNER, associação de servidores, a qual somente representa os seus associados. Essa condição, quanto à limitada legitimação de atuação dessa específica associação, também já restou reconhecida pelo Superior Tribunal de Justiça:
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO. HABILITAÇÃO DE SUCESSORES. NÃO HÁ PRAZO PRESCRICIONAL. ENTENDIMENTO DO STJ.
+1. O aresto recorrido se alinhou à orientação jurisprudencial do STJ de que "a morte do autor antes do processo de execução autoriza a habilitação dos sucessores, reconhecendo-se, salvo comprovada má-fé, a validade dos atos praticados pelo mandatário" (AgInt no AgInt no REsp 1.670.334/MG, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 21.2.2018), não havendo previsão legal de prazo prescricional para a habilitação de seus sucessores. Precedentes: AgInt no AREsp 1.882.584/PE, Rel. Min. Og Fernandes, Segunda Turma, DJe de 2.6.2022; AgInt no AREsp 1.899.602/PE, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 30.3.2022.
+2. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 2.9.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme decisão agravada, a Corte de origem reconheceu a possibilidade de habilitação dos sucessores, a despeito de o falecimento do servidor ter ocorrido antes da propositura da execução, e afastou a tese acerca do transcurso da prescrição entre a data do óbito e o pedido de habilitação dos herdeiros.
+Ao assim decidir, o aresto recorrido se alinhou à orientação jurisprudencial do STJ de que "a morte do autor antes do processo de execução autoriza a habilitação dos sucessores, reconhecendo-se, salvo comprovada má-fé, a validade dos atos praticados pelo mandatário" (AgInt no AgInt no REsp 1.670.334/MG, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 21.2.2018), não havendo previsão legal de prazo prescricional para a habilitação de seus sucessores.
+Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO NO AGRAVO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EXECUÇÃO INDIVIDUAL. AÇÃO COLETIVA. PROTESTO INTERRUPTIVO DA PRESCRIÇÃO. FALECIMENTO DE SERVIDOR PÚBLICO. LEGITIMIDADE ATIVA DO SINDICATO PARA REPRESENTAR OS SUCESSORES.
+1. "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema" (Súmula n. 568/STJ).
+2. A jurisprudência desta Corte é de que o sindicato possui legitimidade ativa para substituir os sucessores de servidores falecidos, independentemente de o óbito ter ocorrido antes do ajuizamento da execução. Outrossim, inexiste prescrição da pretensão dos herdeiros de se habilitarem no processo judicial para suceder a parte falecida, em razão da ausência de prazo específico para tal ato. Ocorrendo o óbito do participante da relação processual, impõe-se a suspensão do feito, nos termos do art. 265, I, do CPC/1973 (art. 313, I, do CPC/2015), até que se promova a habilitação.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.882.584/PE, relator Ministro Og Fernandes, Segunda Turma, julgado em 24/5/2022, DJe de 2/6/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. FALECIMENTO DO SERVIDOR REPRESENTADO PELO SINDICATO. HABILITAÇÃO DO SUCESSOR.
+AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC/2015 E INCIDÊNCIA DA SÚMULA 283/STF. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA, NOS PONTOS.
+SÚMULA 182/STJ. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA AFASTADA, PELO TRIBUNAL LOCAL. SUSPENSÃO DO PRAZO PRESCRICIONAL, ATÉ A HABILITAÇÃO DOS HERDEIROS. ACÓRDÃO RECORRIDO EM SINTONIA COM O ENTENDIMENTO FIRMADO POR ESTA CORTE.
+PRECEDENTES. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Interposto Agravo interno com razões que não impugnam, especificamente, os fundamentos da decisão agravada - mormente quanto à ausência de negativa de prestação jurisdicional e incidência do óbice da Súmula 283/STF -, não prospera o inconformismo, quanto aos pontos, em face da Súmula 182 desta Corte.
+III. Na origem, trata-se de ação proposta pela parte ora recorrida, na qual objetiva a habilitação para suceder a Yara Falcão de Almeida, no processo 0002762- 47.1997.405.8300, a fim de receber o crédito de direito da autora falecida em 2006.
+IV. No caso, o Tribunal de origem afastou a prescrição da pretensão executiva, ao fundamento de que "a orientação do Superior Tribunal de Justiça no sentido da inocorrência de Prescrição da Pretensão Executiva, em razão da Habilitação de Herdeiro(s)/Sucessor(es), no âmbito de Execução de Título Judicial, à falta de previsão legal de Prazo para a Habilitação e porque o Óbito de uma das Partes do Processo implica sua suspensão (..) a jurisprudência desta Primeira Turma do TRF da 5ª Região admite a convalidação dos atos processuais praticados pelo Sindicato/Associação após o falecimento do substituído/representado, em homenagem aos princípios da instrumentalidade das formas, diante da ausência de prejuízos à parte executada, da economia e da celeridade processuais, dado que o ajuizamento de nova execução pelos sucessores do falecido levaria ao mesmo resultado obtido com a execução em curso.
+V. Conforme entendimento sedimentado pela Corte Especial do Superior Tribunal de Justiça, a morte de uma das partes tem, como consequência, a suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos sucessores da parte, não corre a prescrição, inclusive para a execução. Nesse sentido: STJ, REsp 1.830.518/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 27/04/2021; REsp 1.869.009/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe de 27/05/2020.
+VI. Na forma da jurisprudência desta Corte, "o sindicato possui legitimidade ativa para substituir os sucessores dos servidores falecidos, ainda que o óbito tenha ocorrido no curso da ação de conhecimento ou antes do ajuizamento da execução" (STJ, AgInt no REsp 1.577.266/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 22/10/2021). Precedentes.
+VII. Agravo interno parcialmente conhecido, e, nessa extensão, improvido. (AgInt no AREsp 1.899.602/PE, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 30/3/2022)
+Dessume-se que o acórdão recorrido está em sintonia com o atual posicionamento do STJ, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Cumpre ressaltar que a referida orientação é aplicável também aos recursos interpostos pelo art. 105, III, "a", da Constituição Federal de 1988. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Rel. Ministro Castro Meira, DJe de 2.6.2010.
+Logo, ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo.
+É o Voto.
