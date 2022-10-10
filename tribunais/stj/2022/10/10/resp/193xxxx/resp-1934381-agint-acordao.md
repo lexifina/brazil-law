@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por OMINT SERVIÇOS DE SAÚDE LTDA., inconformada com a decisão de fls. 675/678, integrada pela decisão de fls. 718/721, que deu provimento ao recurso especial.
+Em suas razões, a agravante aponta (a) que é necessária a reforma da decisão no tocante aos honorários advocatícios, pois a sucumbência da agravada foi total, uma vez que a demanda discutia a questão do custeio de medicamento sem registro na Anvisa, bem como que não houve recusa da agravante em fornecer o mesmo após o referido registo e (b) que ocorreu "reformatio in pejus", pois o critério referente aos honorários foi alterado sem que houvesse recurso das partes nesse sentido, bem como que o arbitramento deve se dar por equidade, considerando que se trata de medicamente de alto custo.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PLANO DE SAÚDE. FORNECIMENTO DE MEDICAÇÃO. REGISTRO NA ANVISA. PEDIDO PARCIALMENTE RECONHECIDO. SUCUMBÊNCIA RECÍPROCA. HONORÁRIOS ADVOCATÍCIOS. PROVEITO ECONÔMICO. ART. 85 DO CPC/15. RECURSO NÃO PROVIDO.
+1. "A jurisprudência do STJ está pacificada no sentido de adotar, como critério norteador para a distribuição das verbas de sucumbência, o número de pedidos formulados e atendidos" (EDcl no REsp 953.460/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/08/2011, DJe de 19/08/2011).
+2. No caso, como o pedido formulado foi apenas parcialmente acolhido, mostra-se correto o reconhecimento de sucumbência recíproca.
+3. A Segunda Seção, ao interpretar as regras do art. 85, §§ 2º e 8º, do novo CPC, decidiu que os honorários advocatícios sucumbenciais devem ser estabelecidos segundo a "seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º)" (REsp 1.746.072/PR, Rel. p/ acórdão Min. RAUL ARAÚJO, DJe de 29/3/2019).
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar.
+Tem-se que a decisão que deu provimento ao recurso especial interposto pela parte recorrente assim decidiu acerca dos ônus sucumbenciais, in verbis:
+"Diante do exposto, nos termos do art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para obrigar a operadora de plano de saúde ora recorrente a fornecer o medicamento "Spinraza" apenas após seu efetivo registro pela ANVISA, ou seja, 28.08.2017.
+Considerandoa sucumbência recíproca, deverá cada parte arcar com 50% das custas processuais e honorários advocatícios, os quais fixo em 10% sobre o proveito econômico obtido pelas partes a ser apurado em liquidação de sentença,nos termos do art. 85, §2º do CPC/15, devendo ser observada eventual concessão de gratuidade de justiça" (e-STJ, fls. 677/678).
+Nos termos da exordial, o pedido formulado foi no sentido de julgar "procedentes os pedidos, confirmando integralmente a tutela de urgência, para obrigar a Requerida a custear cobertura do medicamento SPINRAZATM (nusinersen), com a dosagem e local para aplicação indicados pela médica assistente, nos termos impressos nos relatórios médicos (v. docs. 11/13), até alta médica definitiva, sob pena de multa" (e-STJ, fl. 15)
+No tocante a sucumbência recíproca, o Superior Tribunal de Justiça já pacificou o entendimento de que a distribuição dos ônus sucumbenciais deve adotar, como critério norteador, o número de pedidos formulados e atendidos.
+Nesse sentido:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. RESCISÃO CONTRATUAL. CONTRATO VERBAL DE DISTRIBUIÇÃO EXCLUSIVA DE MEDICAMENTOS. VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC/73. NÃO OCORRÊNCIA. OMISSÃO. INEXISTÊNCIA. QUESTÃO IRRELEVANTE AO DESLINDE DA CAUSA. ACÓRDÃO QUE CONCLUIU PELA CULPA DA AGRAVANTE.
+PRETENSÃO DE ALTERAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ.CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. SUCUMBÊNCIA RECÍPROCA CORRETAMENTE RECONHECIDA. AGRAVO NÃO PROVIDO.
+1. Não há violação dos arts. 165, 458 e 535 do CPC/73 quando o eg.
+Tribunal estadual aprecia a controvérsia em sua inteireza e de forma fundamentada.
+2. Não se justifica a anulação do julgamento nas hipóteses em que se alega omissão relativa a questão irrelevante ao deslinde da controvérsia. Conforme já enfatizado por esta Corte, "A função judicial é prática, só lhe importando as teses discutidas no processo enquanto necessárias ao julgamento da causa" (EDcl no REsp 15.450/SP, Rel. Ministro ARI PARGENDLER, SEGUNDA TURMA, DJ de 6/5/1996).
+3. O Tribunal de origem, ao analisar os elementos informativos do processo, concluiu que a culpa pela rescisão contratual foi da agravante, que promoveu a troca unilateral e sem aviso prévio da agravada por outro distribuidor exclusivo. A pretensão de alterar esse entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+4. Na linha de orientação do STJ, não há cerceamento de defesa quando o magistrado decide de forma suficientemente fundamentada sobre a desnecessidade da prova requerida.
+5. Fica inviabilizado o conhecimento de temas trazidos no recurso especial, mas não debatidos e decididos nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento. Incidência da Súmula 282 do STF.
+6. "A jurisprudência do STJ está pacificada no sentido de adotar, como critério norteador para a distribuição das verbas de sucumbência, o número de pedidos formulados e atendidos" (EDcl no REsp 953.460/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/08/2011, DJe de 19/08/2011).
+7. Verificada a sucumbência recíproca, caberá a cada parte arcar com 50% das custas processuais e honorários advocatícios fixados na origem.
+8. Agravo interno desprovido.
+(AgInt no REsp 1739706/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 04/10/2021, DJe 08/11/2021)
+Considerando que no presente caso foi formulado um pedido e que o mesmo foi acolhido parcialmente, sendo reconhecida a obrigação em fornecer o medicamento apenas após seu efetivo registro pela ANVISA, correto o reconhecimento da sucumbência recíproca.
+Por fim, a alegação de que houve "reformatio in pejus" ao se fixar como parâmetro de cálculo dos honorários o proveito econômico obtido pelas partes não merece prosperar. Considerando que o recurso especial foi provido, a alteração dos ônus sucumbenciais de modo a se adequarem ao novo julgamento é sua decorrência lógica.
+Considerando que não houve restabelecimento da sentença de origem, mas sim reforma parcial do acórdão de origem, devem os ônus se adequarem ao novo julgamento realizado em sede de recurso especial. E o arbitramento dos honorários se conformou ao entendimento jurisprudencial da Segunda Seção do STJ no julgamento do REsp 1.746.072/PR ocorrido em 13/2/2019, no sentido de que os honorários advocatícios sucumbenciais devem ser fixados, em regra, com observância dos percentuais e da ordem de gradação da base de cálculo estabelecida pelo art. 85, § 2º, do CPC/2015, nos seguintes termos: 1º) com base no valor da condenação; 2º) não havendo condenação ou não sendo possível valer-se da condenação, com base no proveito econômico obtido pelo vencedor; ou 3º) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa.
+Por tudo, corretos o reconhecimento da sucumbência recíproca e a determinação de que o parâmetro para cálculo dos honorários seja o proveito econômico obtido pelas partes.
+Ante todo o exposto, nega-se provimento ao agravo interno.
+É como voto.
