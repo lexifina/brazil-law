@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 04/10/2022 a 10/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se deação objetivandoconcessão/reversão de pensão de ex-combatente. A sentença julgou improcedente o pedido. No Tribunal a quo, a sentença foi reformada,conforme a seguinte ementa do acórdão:
+Administrativo. Pensão especial de ex-combatente. Aplicação da lei vigente à época do óbito do Militar Instituidor da Pensão. Leis n º 3.765/60 e 4.242/63. Cota-parte de pensão recebida filha. Possibilidade. Precedentes deste Tribunal. Honorários advocatícios estipulados em 10% sobre o valor da condenação. juros de mora com percentual de 0,5% ao mês e correção monetária com os índices estabelecidos no Manual de Cálculo da Justiça Federal. Apelo provido.
+O recurso foi admitido na origem e vieram os autos ao Superior Tribunal de Justiça.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, nos termos do art. 255, §4º, inciso I, do Regimento Interno do STJ, não conheço do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários à decisão recorrida.
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. PENSÃO ESPECIAL DE EX-COMBATENTE. APLICAÇÃO DA LEI VIGENTE À ÉPOCA DO ÓBITO DO MILITAR INSTITUIDOR DA PENSÃO. LEIS N.3.765/60 E 4.242/63. COTA-PARTE DE PENSÃO RECEBIDA. FILHA. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando concessão/reversão de pensão de ex-combatente. A sentença julgou improcedente o pedido. No Tribunal a quo, a sentença foi reformada.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+IV - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+ ..
+Segundo se depreende, na época do óbito do instituidor do benefício, a legislação previa, em favor dos filhos de qualquer condição, o direito à reversão do benefício, caso houvesse o falecimento da viúva.
+Quanto aos honorários advocatícios, os mesmos devem ser estipulados no percentual de 10% sobre o valor da condenação, nos termos da jurisprudência deste Tribunal.
+No caso, deve-se manter os índices estabelecidos no Manual de Cálculos da Justiça Federal, a contar do débito, em relação à atualização, fixando-se, porém, os juros de mora em 0,5% (meio por cento) ao mês, a partir da citação, em todo o período devido, nos termos do art. 1º-F da Lei nº 9.494/97, dada pela Medida Provisória nº 2.180-35/2001, considerando que o STF declarou inconstitucional a última redação dada ao mencionado art. 1º-F, introduzida pela Lei nº 11.960/09, que previa como índice de correção e de juros de mora o aplicado às cadernetas de poupança, razão por que deve incidir o critério de cálculo anteriormente previsto à mencionada Lei.
+ ..
+Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
