@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 05/10/2022 a 11/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Jorge Mussi, Luis Felipe Salomão, Mauro Campbell Marques, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Benedito Gonçalves.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo interno interposto por MAXIMUN BRASIL TELEINFORMÁTICA LTDA., contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 591):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
+A parte agravante sustenta que a decisão merece ser reconsiderada, por entender que não se aplicam, ao caso, os Temas n. 339, 660 do STF, " .. eis que não se trata apenas de fundamentação sucinta, mas simpatente ausência de observância aos fundamentos suscitados pela Agravante" (fl. 605).
+Aponta, outrossim, que haveria (fl. 611):
+ ..  ofensa expressa ao texto da Constituição Federal, sendo um direito consumidor ver prestadas as contas sobre o crivo do contraditório, o que não ocorre perante o banco que os lança de maneira unilateral, depois, tais não obedecem a forma mercantil, não possibilitando a Agravante deduzir siglas bem com se saber quais índices foram aplicados, detalhadamente, por outro lado a insegurança dos sistemas de informatização utilizado pelo Agravado é notoriamente sabido."
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+Contrarrazões apresentadas àsfls. 618-625.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMAS N.339 E 660 DO STF.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema n. 339/STF).
+2. No que concerne à alegada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema n. 660/STF).
+3. Agravo interno a que se nega provimento.
+VOTO
+O STF, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+A conclusão mencionada ficou sedimentada sob o regime da repercussão geral pela Suprema Corte, no Tema n. 339/STF, segundo o qual "o art.93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão paradigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+No caso em apreço, da leitura do julgado questionado, constata-se que foram declinadas as razões pelas quaissereputaram inexistentes quaisquer dos vícios suscitados pela embargante, explicitando-se os motivos pelos quais foi reconhecida a falta de interesse de agir ante a formulação de pedido genérico, valendo destacar o seguinte excerto (fls. 543-546):
+1. Com efeito, nos estreitos lindes do artigo 1.022 do CPC/2015, os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado, bem como na hipótese de erro material. Entretanto, a presente insurgência não revela quaisquer dos vícios autorizadores da oposição dos embargos de declaração, os quais, ressalte-se, não podem ser utilizados como instrumento para a rediscussão do julgado.
+ ..
+No que tange à alegação dos embargantes, cumpre asseverar que o acórdão que julgou o agravo interno foi suficientemente claro nas suas razões ao desprover o recurso. Assim, contrariamente ao consignado nas razões dos aclaratórios, inexiste omissão ou contradição a macular o julgado, possuindo o recurso nítido caráter infringente. Assim constou do acórdão (e-STJ, fls. 500):
+3. Outrossim, no mérito, não merece reparos a decisão que deu provimento ao recurso especial da parte ora agravadaante a dissonância da conclusão do Tribunal de origem com a jurisprudência desta Corte Superior.
+No caso, o recorrente, ora agravado, alegou ofensa aos artigos 319, IV, 322, 330, 485, VI, 550 do CPC/15 (267, VI, 282, 286, 295, I, e 914 do CPC/73), sustentando a ausência de interesse de agir da parte autora para pleitear prestação de contas, sob o argumento de ter sido formulado pedido genérico, sem especificação dos lançamentos duvidosos e sem indicação do período exato objeto de dúvida. Apontou, também, a existência de dissídio jurisprudencial.
+Na hipótese em tela, constou do relatório do acórdão recorrido: "Ação: de Prestação de Contas proposta pela agravada Maximum Brasil Teleinformatica Ltda contra o agravante Hsbc Bank Brasil S. A.
+- Banco Múltiplo, objetivando a prestação de contas de todos os contratos firmados entre as partes relacionados com a conta bancária nº 04303-44, Ag. 1892, desde sua abertura."
+E, ao analisar a controvérsia, assim decidiu (fls. 265-267, e-STJ):Na espécie, a parte autora-recorrida ingressou com Ação de Prestação de Contas contra o Banco-recorrente alegando que:"A requerente Maximum Brasil firmou com o requerido diversos contratos, possuindo em mãos apenas um Contrato de Mútuo sob o nº 40000004476727.
+Ocorre que, a requerente Maximum acredita que firmou inúmeros contratos mais com o requerido, porém, tais contratos não foram apresentados pelo mesmo, ainda quando solicitado, conforme se depreende da notificação extrajudicial em anexo.
+Assim, em que pese à apresentação de um contrato, bem como alguns extratos da conta da empresa ora requerente, tais não são suficientes para prestar contas, diga-se, a requerente não tem como, a partir dos extratos apresentados conferir os juros aplicados, mesmo porque tal extrato se apresenta em siglas e códigos desconhecidos da requerente Maximum" (f. 2 - autos na origem)
+Requereu, ao final, que o banco requerido "no prazo legal proceda as prestações de contas da conta corrente, e de todos os contratos firmados entre a requerenteMaximum e o requerido, sob as penas da lei, desde a abertura da conta, até momento da contestação, mencionando na prestação de contas onde se faz incidir cada contrato a ser exibido" (f. 24 - autos na origem).
+ ..
+Segundo a jurisprudência do Superior Tribunal de Justiça, na Ação de Prestação de Contas, não é possível ao cliente do banco uma pormenorização rigorosa dos pontos que se lhe apresentam duvidosos, durante a relação jurídica mantida (AgRg no AREsp 71.774/SP, Rel. Min. Raul Araújo, Quarta Turma, DJe 13/09/2013; AgRg no Ag 1.204.572/PR, Rel. Min. Luis Felipe Salomão, Quarta Turma, DJe 11/05/2010; AgRg no Ag 812.923/PR, Rel. Min. Sidnei Beneti, Terceira Turma, DJe 28/08/2008).
+Por isso, entende-se que não há que se falar em pedido genérico quando o autor aponta o vínculo jurídico existente com o réu e especifica o período digno de esclarecimentos, para fins de prestação de contas (REsp 1.060.217/PR, Rel. Min. Massami Uyeda, Terceira Turma, DJe 20/11/2008, grifei).
+Extrai-se do excerto acima colacionado que a autora "Requereu, ao final, que o banco requerido "no prazo legal proceda as prestações de contas da conta corrente, e de todos os contratos firmados entre a requerente Maximum e o requerido, sob as penas da lei, desde a abertura da conta, até momento da contestação".
+Sobre o tema, a Segunda Seção desta Corte firmou entendimento segundo o qual, a despeito de ser cabível a ação de prestação de contas pelo titular de conta-corrente (Súmula 259/STJ), é imprescindível que o autor aponte, em sua inicial, o período exato em que ocorreram lançamentos duvidosos, com exposição de motivos consistentes que justifiquem a provocação do Poder Judiciário.
+ ..
+Ademais, esta Corte Superior possui precedentes em que se considerou genérico o pedido de prestação de contas cujo período indicado pela parte autora referia-se a todo o período contratual, desde o momento da abertura da conta-corrente, ante a falta de indicação precisa e exata do período específico objeto dedúvidas.
+ ..
+Nesse contexto, tendo o Tribunal de origem asseverado que a parte autora requereu as prestações de contas referentes a todos os contratos firmados com o recorrente desde a abertura da conta, até momento da contestação, correta a reforma do acórdão recorrido, a fim de se reconhecer a falta de interesse de agir da recorrida, tendo em vista a formulação de pedido genérico.
+Portanto, na hipótese ora em foco, o r. decisum embargado não possui vício a ser sanado por meio de embargos de declaração, uma vez que esta eg. Quarta Turma, ao examinar a controvérsia, fundamentou de forma clara e suficiente as razões pelas quais reconheceu a falta de interesse de agir da recorrida, tendo em vista a formulação de pedido genérico.
+Dessa forma, não cabe alegação de violação do artigo 1.022 do NCPC, quando a decisão embargada está devidamente fundamentada, apenas não se adotando a tese do embargante (grifou-se)
+Conclui-se, portanto, que os arestos encontram-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema n. 339/STF, cumprindo registrar que, nos termos da orientação fixada pelo Pretório Excelso, não se exige que os fundamentos das decisões estejam corretos.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ELEITORAL E CRIMINAL.  ..  ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE OFENSA AO ART. 93, IX, DA CONSTITUIÇÃO FEDERAL (TEMA 339 DA REPERCUSSÃO GERAL). AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+III - Conforme assentado no julgamento do AI 791.292-QO-RG (Tema 339 da repercussão geral), de relatoria do Ministro Gilmar Mendes, o art. 93, IX, da Lei Maior exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.  ..
+V - Agravo regimental a que se nega provimento.
+(ARE n. 1.343.342 relator Ministro Ricardo Lewandowski, Segunda Turma, julgado em 4/11/2021, DJe de 9/11/2021.)
+No mesmo diapasão:
+AGRAVO REGIMENTALNO RECURSO EXTRAORDINÁRIO COM AGRAVO.  .. TEMAS 339, 424 E 660. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. Esta Corte, ao julgar o AI-QO-RG 791.292, de relatoria do Ministro Gilmar Mendes, DJe 13.08.2010, assentou a repercussão geral do Tema 339 referente à negativa de prestação jurisdicional por ausência de fundamentação e reafirmou a jurisprudência segundo a qual o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+ ..
+4. Agravo regimental a que se nega provimento.
+(ARE n. 1305399 relator Ministro Edson Fachin, Segunda Turma, julgado em 25/10/2021, DJe de 12/11/2021.)
+Não bastasse isso, pacificou-se no STFo entendimento de que a apontada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nesse sentido é o Tema n. 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+Na espécie, a suposta ofensa aos princípios do contraditório, da ampla defesa e do devido processo legal depende da análise do art. 550 e seguintes do Código de Processo Civil, razão pela qual incide o Tema n. 660/STF.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
