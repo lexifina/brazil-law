@@ -1,0 +1,20 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, indeferir o pedido de extensão, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+MARIANA ANDREIA ROCHA CORNÉLIO e THATIANA AMANDA ROCHA CORNÉLIOrequerema extensão da ordem concedida aopaciente.
+As requerentes afirmam que "movimentavam as contas financeiras das empresas, uma vez que foram usadas como laranjas"e,"considerando  ..  que são primárias, portadoras de bons antecedentes e possuem residência fixa", desfez-se o "periculum libertatis que pudesse fundamentar a continuidade da prisão" (fl. 732).
+Assinalam não existir prova da materialidade dos crimes de lavagem de dinheiro e de organização criminosae pedem a revogação do decreto de prisão preventiva.
+EMENTA
+PEXT NO HABEAS CORPUS. CONCESSÃO DA ORDEM AO PACIENTE. FUNDAMENTAÇÃO DE CARÁTER EMINENTEMENTE PESSOAL. IMPOSSIBILIDADE DE INVOCAÇÃO DO ART. 580 DO CPP. PEDIDO DE EXTENSÃO INDEFERIDO.
+1. Para a invocação do art. 580 do CPP, norma processual garantidora de tratamento jurídico isonômico, é imprescindível a comprovação de similitude fática-processual entre os corréus e de decisão fundada em motivos de natureza objetiva, o que não se verifica na espécie.
+2. A ordem de habeas corpus foi concedida ao paciente por motivo de caráter pessoal (ausência de fumus comissi delicti), sopesados os fatos somente a ele atribuídos, porque o decreto de prisão preventiva não contextualizou nenhuma conduta típica, apenas narrou aanotaçãode conta bancária da empresa do suspeitoem bilhete apreendido com preso por tráfico de drogas. O julgado não é extensível às requerentes, acusadas da prática de lavagem de dinheiro e de organização criminosa, porque estariam vinculadas a empresas de fachada, a vários depósitos em espécie, de origem suspeita, e a movimentações financeiras com outros investigados.
+3. Pedido de extensão indeferido.
+VOTO
+Não é possível acolher o pedido de extensão, pois ausentes os seus requisitos. O atalho previsto no art. 580 do CPPaplica-se no caso de concurso de agentes, quando a decisão benéfica do recurso (ou habeas corpus) interposto por um deles, se fundada em motivos que não sejam de caráter pessoal, aproveite aos outros.
+Faz-se imprescindível, para a invocação da norma processual garantidora de tratamento jurídico isonômico, a comprovação de similitude fático-processual e a de motivação objetiva do julgado, para ser extensível a todos os corréus em idêntica situação.
+No caso, exsurge, disfarçado de pedido de extensão, a pretensão de análise inédita da situação das requerentes, em indevida supressão de instância, o que não se admite.
+O habes corpus foi concedido ao paciente por decisão de caráterpessoal, porque, sopesados os fatos somente a ele atribuídos, não se divisou conduta que pudesse ser subsumida a um tipo penal. Confira-se " .. , não se verifica a fumaça da prática de lavagem de dinheiro. O ato judicial não delineia que o investigado, identificado com o responsável pela empresa denominada INTEL COMERCIO ATACADISTA EIRELI, aparentemente de fachada, teria movimentado recursos ilícitos, ausente a prova de ocultação ou dissimulação de valores obtidos pela prática de crimes relacionados ao tráfico de drogas. Nenhuma única operação financeira foi citada pelo Juiz e, por isso, não se verifica a materialidade do crime de lavagem de dinheiro e indícios razoáveis de sua autoria".
+As postulantes estão em situação completamente diversa. Conforme o édito prisional, asirmãs são responsáveis por empresas de fachada que receberam, no período investigado,depósitos fracionados de dinheiro, não identificados, superiores a R$ 59milhões, relacionados apessoas físicas e jurídica também investigadas.
+Não é possível estender às requerentes, objetivamente, o motivo de exclusivamente pessoal (ausência de fumus comissi delicti) que lastreou a concessão da ordem.
+À vista do exposto, indefiro o pedido de extensão.
