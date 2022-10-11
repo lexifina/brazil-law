@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de habeas corpussubstitutivo de recurso próprio,impetrado em benefício de Kleber JoseLopes,contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento do Agravo em Execução Penal n. 0005689-68.2022.8.26.0482, o qual manteve a decisão que indeferiu o livramento condicional.
+No presente writ, a defesa diz que o requisito subjetivo para a concessão do livramento condicional restou devidamente comprovado.
+Requer, assim o deferimento do livramento condicional.
+O pedido liminar foi indeferido em decisão de fls. 48/49.
+Parecer do Ministério Público Federal, opinando pela denegação da ordem, assim sumariado:
+"HABEAS CORPUS. PENAL E PROCESSUAL PENAL. SUBSTITUTIVO DE RECURSO PRÓPRIO. IMPOSSIBILIDADE. UTILIZAÇÃO INADEQUADA DO HC. NÃO CONHECIMENTO. EXECUÇÃO PENAL. PRETENSÃO DE CONCESSÃO DE LIVRAMENTO CONDICIONAL. IMPOSSIBILIDADE. PRÁTICA DE FALTA GRAVE DURANTE O CUMPRIMENTO DA PENA. AVERIGUAÇÃO DO REQUISITO SUBJETIVO. REEXAME DE FATOS E PROVAS. ANÁLISE INVIÁVEL EM HABEAS CORPUS. PRECEDENTES DO STJ. CONSTRANGIMENTO ILEGAL INEXISTENTE. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS E, SE CONHECIDO, PELA DENEGAÇÃO DA ORDEM." (fl. 55)
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida. Porém, considerando as alegações expostas na inicial, razoávelverificar a existência de eventual constrangimento ilegal.
+O acordão assim assentou:
+"Não é o fato de o condenado ter praticado crime grave que pode impedir o livramento condicional, mesmo porque a natureza do crime repercutiu na fixação da pena, estando, portanto, relacionada ao requisito objetivo; todavia, qualquer benefício deve ser concedido sem risco à coletividade, de forma que em existindo a menor dúvida sobre estar o reeducando apto ou não, a medida deve ser indeferida.
+No caso, não se pode olvidar que a condenação pela qual o agravante cumpre pena se refere a roubo circunstanciado, de natureza eminentemente violenta, com pena definitiva acima de 7 anos de reclusão.
+Além disso, ele possui histórico prisional desfavorável, já que cometeu falta disciplinar grave em data relativamente recente (participação em rebelião), que embora esteja reabilitada (22.03.2021), deixa dúvida quanto a assimilação da terapêutica penal, em especial por se tratar de benefício sem qualquer vigilância.
+Nesse sentido, não se pode discordar do douto magistrado a quo que, embora a avaliação psicossocial tenha sinalizado pela possibilidade de concessão tanto da progressão ao regime semiaberto, como pelo livramento condicional, diante das circunstâncias ora narradas, a permanência do agravante no regime intermediário, ao menos por ora, é decisão acertada e lastreada em elementos concretos." (fl. 45)
+Como visto, o Tribunal a quo indeferiu de forma fundamentada o pedido de livramento condicional ao entender que não estava preenchido o requisitosubjetivopara obtenção do benefício, oacordão levou em conta o conturbado histórico prisional e concluiu pela inaptidão do paciente, até o momento, do retorno do paciente ao convívio social.
+Ademais, o Superior Tribunal de Justiça possui entendimento reiterado no sentido da impossibilidade de, na via estreita do habeas corpus, desconstituir as conclusões das instâncias ordinárias sobre o não preenchimento de requisitosubjetivonecessário à concessão de benefícios da execução, como a progressão de regime e o livramentocondicional,uma vez que tal providência implica no reexame do conjunto fático-probatório. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO AO REGIME SEMIABERTO. EXAME CRIMINOLÓGICO DESFAVORÁVEL. INDEFERIMENTO.ALTERAÇÃO DE ENTENDIMENTO. REVOLVIMENTO FÁTICO-PROBATÓRIO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente adotado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos.
+2. In casu, Tribunal de origem manteve o indeferimento quanto ao pedido de progressão de regime, com base no resultado do exame criminológico desfavorável do apenado, configurando a ausência do requisitosubjetivo.
+3. Os argumentos utilizados se mostram idôneos para afastar o requisitosubjetivoe indeferir a progressão de regime, pois o julgador indicou elementos concretos extraídos no curso da execução da pena, consoante entendimento firmado por esta Corte Superior de Justiça.
+4. Ademais, alterar os entendimentos firmados nas instâncias anteriores, mediante ampla análise do acervo probatório, demandaria reexame detido de provas, o que é inviável em sede de writ.
+5. Agravo regimental desprovido.
+(AgRg no HC 692.636/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/03/2022, DJe 25/03/2022).
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.DESCABIMENTO. SUCEDÂNEO RECURSAL. ANÁLISE DA QUESTÃO DE MÉRITO DE OFÍCIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. CORREÇÃO DO ACÓRDÃO RECORRIDO. EXECUÇÃO PENAL. PROGRESSÃO REGIME. LIVRAMENTOCONDICIONAL.IMPOSSIBILIDADE. CIRCUNSTÂNCIA DO CASO CONCRETO. EXAME CRIMINOLÓGICO. ANÁLISE DO REQUISITO DE ORDEM SUBJETIVA NA VIA ESTREITA DO WRIT. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O novel posicionamento jurisprudencial do STF e desta Corte é no sentido de que não deve ser conhecido o habeas corpus substitutivo de recurso próprio, mostrando-se possível tão somente a verificação sobre a existência de eventual constrangimento ilegal que autorize a concessão da ordem de ofício, o que não ocorre no presente caso, tendo em vista que o indeferimento do benefício deu-se com base em circunstâncias concretas extraídas de fatos ocorridos no curso do cumprimento da pena, com destaque no "resultado do exame criminológico, que concluiu pela inaptidão do sentenciado para voltar ao convívio da sociedade".
+2. É pacífico o entendimento desta Corte Superior no sentido de não ser possível a análise relativa ao preenchimento do requisitosubjetivopara concessão de progressão de regime prisional ou livramentocondicional,tendo em vista que depende do exame aprofundado do conjunto fático-probatório relativo à execução da pena, procedimento totalmente incompatível com os estreitos limites do habeas corpus, que é caracterizado pelo seu rito célere e cognição sumária.
+3. Agravo regimental desprovido.
+(AgRg no HC 711.127/SP, Minha relatoria, QUINTA TURMA, julgado em 22/02/2022, DJe 02/03/2022).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
