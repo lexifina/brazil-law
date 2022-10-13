@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial impetrado em favor de BRUNO SILVA DE SOUZA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 1520554-42.2021.8.26.0228.
+O paciente foi condenado a 7 anos de reclusão, em regime inicial fechado, além de 699 dias-multa, pelo crime previsto no art. 33 da Lei n. 11.343/2006. De acordo com os autos, em 25 de agosto de 2021, o paciente foi flagrando mantendo em depósito cerca de 1,4kg de maconha e aproximadamente 1kg de cocaína. As drogas estavam divididas em porções menores e foram localizadas no interior da casa do paciente.
+Nas razões deste habeas corpus, a defesa alega que a prisão em flagrante e a apreensão das drogas ocorreu sem a presença de fundadas razões, considerando que os policiais abordaram o paciente após terem recebido informações dando conta de que uma pessoa de prenome Bruno estava armazenando drogas em sua residência.
+Diante disso, requer, liminarmente, a suspensão dos efeitos da sentença condenatória e a colocação do paciente em liberdade. Quanto ao mérito, requer a concessão da ordem para revogar a sentença condenatória.
+É o relatório. Decido.
+Este habeas corpus não merece ser conhecido.
+Por meio deste habeas corpus, busca-se reverter os efeitos da sentença condenatória proferida nos autos da Ação Penal n. 1520554-42.2021.8.26.0228, que tramitou perante o juízo da 15ª Vara Criminal da capital paulista, ajuizada em desfavor do ora paciente e destinada a apurar a prática do crime de tráfico ilícito de entorpecentes.
+A alegação da defesa, relativa à suposta nulidade do ingresso dos policiais no interior da residência do paciente, não foi discutida, nos termos apresentados pelo impetrante neste writ, pelas instâncias antecedentes, de maneira que, sem o delineamento fático realizado pela Corte de origem, inviável o exame das alegações diretamente pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O MESMO FIM E PORTE ILEGAL DE ARMA DE FOGO. PRETENSÃO DE ABSOLVIÇÃO MEDIANTE O RECONHECIMENTO DE NULIDADE. INVASÃO DE DOMICÍLIO. DEBATE DAS INSTÂNCIAS ORDINÁRIAS A RESPEITO DA QUESTÃO. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. EXISTÊNCIA, ADEMAIS, DE INDÍCIOS DE QUE O PAI DOS ACUSADOS TERIA NÃO SÓ FRANQUEADO A ENTRADA, COMO AFIRMADO QUE NÃO COMPACTUARIA COM A EMPREITADA CRIMINOSA DOS FILHOS. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+1. Inviável o conhecimento da pretensão de absolvição, consubstanciada no reconhecimento de nulidade em razão de suposta invasão de domicílio, quando verificado que a questão foi alegada somente aqui pela defesa, não tendo sido objeto de suficiente análise pelas instâncias ordinárias, até porque o acórdão condenatório data de 25/9/2019.
+2. Ainda que assim não fosse, não se mostra dissimulado o depoimento do policial, que, a respeito da entrada no recinto, consignou que o genitor dos acusados, além de franquear a entrada dos policiais, afirmou que suspeitava da conduta criminosa dos réus, mas que, com ela, não compactuaria, e que, apesar de se encontrar "inválido", moraria sozinho em cômodo independente da residência.
+3. Agravo regimental improvido. (AgRg no HC n. 732.342/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, julgado em 26/4/2022, DJe de 3/5/2022.)
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. CARÁTER MERAMENTE INFRINGENTE. RECEBIMENTO COMO AGRAVO REGIMENTAL. VIOLAÇÃO DE DOMICÍLIO. ILICITUDE DA PROVA. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. INGRESSO POLICIAL NO DOMICÍLIO DA PACIENTE. ENTRADA FRANQUEADA PELO MORADOR. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. RECURSO IMPROVIDO.
+1. Aclaratórios opostos com nítido caráter infringente, sem pretensão de sanar vícios no julgado, em homenagem ao princípio da fungibilidade recursal, devem ser recebidos como agravo regimental.
+Precedentes.
+2. Nos termos da jurisprudência da Corte, inadmissível o conhecimento de pleitos não submetidos ao exame do Tribunal local, para se evitar supressão de instância.
+3. Não há falar em violação de domicílio quando franqueado o ingresso pelo morador aos policiais, premissa cuja reversão demandaria aprofundado revolvimento fático-probatório, o que é vedado na via do habeas corpus.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no HC n. 568.921/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 25/8/2020, DJe de 4/9/2020.)
+Diante do exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente este habeas corpus.
+Intimem-se.
