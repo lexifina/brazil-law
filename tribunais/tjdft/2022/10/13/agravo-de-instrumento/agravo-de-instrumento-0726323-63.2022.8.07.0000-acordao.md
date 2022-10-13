@@ -1,0 +1,149 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+1ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0726323-63.2022.8.07.0000AGRAVANTE(S)BANCO DO BRASIL SAAGRAVADO(S)FLEX LABORATORIO DE PROTESE E ODONTOLOGIA LTDA - ME,ELIANA DE JESUS MOTA DA QUINTA,FABRICIO DAVID JORGE,MARCO ANTONIO NETTO DA QUINTA e MONICA RAMOS DE REZENDERelatoraDesembargadora CARMEN BITTENCOURT Acórdão Nº1629490
+
+EMENTA
+
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PEDIDO DE REALIZAÇÃO DE PESQUISA AO SISTEMA RENAJUD. CONSULTA ANTERIOR REALIZADA HÁ MAIS DE 7 (SETE) ANOS. LAPSO TEMPORAL CONSIDERÁVEL. PROPORCIONALIDADE E RAZOABILIDADE. RENOVAÇÃO DA PESQUISA. CABIMENTO.
+
+1. De acordo com o artigo 6º do Código de Processo Civil, todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva.
+
+2. Por força do princípio da eficiência, deve o magistrado, na gestão do processo, adotar medidas que viabilizem a solução do conflito de interesses, com a racionalização dos atos processuais, de modo a dar efetividade aos princípios da celeridade processual e da economia processual.
+
+3. Afigura-se possível a reiteração da pesquisa RENAJUD, desde que a medida seja pautada pelos princípios da proporcionalidade e da razoabilidade, isto é, se o quadro fático-probatório dos autos apresentar indícios de alteração da condição financeira do devedor, apta a justificar a repetição da medida, ou, ainda, se houver transcorrido um lapso temporal razoável desde a última consulta.
+
+4. Constatado que, no caso concreto, a última consulta ao antigo sistema RENAJUD foi efetivada há mais de 7 (sete) anos, mostra-se cabível a reiteração da diligência no sistema, posto que que atendidos os princípios da razoabilidade e da proporcionalidade.
+
+5. Agravo de Instrumento conhecido e provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 1ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, CARMEN BITTENCOURT - Relatora, TEÓFILO CAETANO - 1º Vogal e RÔMULO DE ARAÚJO MENDES - 2º Vogal, sob a Presidência do Senhor Desembargador RÔMULO DE ARAÚJO MENDES, em proferir a seguinte decisão: CONHECER DO RECURSO E DAR-LHE PROVIMENTO. DECISÃO UNÂNIME, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 21 de Outubro de 2022
+
+Desembargadora CARMEN BITTENCOURTRelatora
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento interposto por BANCO DO BRASIL S/A contra decisão exarada pela MMª Juíza de Direito da 3ª Vara de Execução de Títulos Extrajudiciais e Conflitos Arbitrais de Brasília, nos autos da Execução de Título Extrajudicial n. 0003223-64.2015.8.07.0001, proposta pelo agravante e SERV BRASILEIRO DE APOIO AS MICRO E PEQUENAS EMPRESAS em desfavor de ELIANA DE JESUS MOTA DA QUINTA, FABRICIO DAVID JORGE, FLEX LABORATORIO DE PROTESE E ODONTOLOGIA LTDA – ME, MARCO ANTONIO NETTO DA QUINTA e MONICA RAMOS DE REZENDE.
+
+Nos termos da r. decisão recorrida (ID 131732940 do processo originário), a d. Magistrada de primeiro grau indeferiu o pedido de realização de pesquisa no sistema RENAJUD, com a finalidade de localizar bens passíveis de penhora em nome dos executados.
+
+No agravo de instrumento interposto, o agravante argumenta que o Código de Processo Civil trouxe inovações de cunho processual sopesando dois princípios constitucionais, a dignidade da pessoa humana e a segurança jurídica, além de outros princípios reflexos como o devido processo legal, ampla defesa, contraditório e razoável duração do processo, objetivando dar maior efetividade à execução, nos termos do artigo 797, do mesmo Codex.
+
+Pondera que o princípio da cooperação também vincula o magistrado e que os sistemas informatizados estão disponíveis para que o Poder Judiciário possa atuar em colaboração, através da autorização da renovação das pesquisas com a finalidade de localizar bens passíveis de penhora.
+
+Assevera que seu pleito se fundamenta nos artigos 772, inciso III, e 773, parágrafo único, ambos do Código de Processo Civil.
+
+Salienta que a última consulta ao sistema RENAJUD, no caso em apreço, ocorreu em 26/08/2015 (ID 31134372- págs. 12/16 do processo originário), há quase 7 (sete) anos, tendo decorrido considerável lapso temporal que legitima a renovação da diligência.
+
+Alega, portanto, que a decisão recorrida não se compatibiliza com a atual jurisprudência desta egrégia Corte, e que a execução deve observar o interesse do credor, com enfoque na satisfação do crédito.
+
+Com base nestes argumentos, o agravante postula o deferimento da antecipação dos efeitos da tutela recursal, para que seja determinada a realização de consulta ao sistema RENAJUD. Em provimento definitivo, pugna pela reforma do r. decisum, com a confirmação da tutela requerida em caráter antecipatório.
+
+Comprovantes de recolhimento de preparo juntados nos IDs 38102318 e 38102319.
+
+Esta Relatoria, consoante decisão exarada à ID 38214423, deferiu o pedido de antecipação dos efeitos da tutela recursal, para determinar a realização de consulta ao sistema RENAJUD em nome dos agravados.
+
+Não foram ofertadas contrarrazões, consoante se infere da certidão de ID 39522155.
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora CARMEN BITTENCOURT - Relatora
+
+Atendidos os requisitos de admissibilidade, conheço do Agravo de Instrumento.
+
+Consoante relatado, BANCO DO BRASIL S/A interpôs Agravo de Instrumento em face da decisão de 131732940 dos autos da Execução de Título Extrajudicial n. 0003223-64.2015.8.07.0001, proposta pelo agravante e SERV BRASILEIRO DE APOIO AS MICRO E PEQUENAS EMPRESAS em desfavor de ELIANA DE JESUS MOTA DA QUINTA, FABRICIO DAVID JORGE, FLEX LABORATORIO DE PROTESE E ODONTOLOGIA LTDA – ME, MARCO ANTONIO NETTO DA QUINTA e MONICA RAMOS DE REZENDE, pela qual a d. Magistrada de primeiro grau indeferiu o pedido de realização de pesquisa no sistema RENAJUD, com a finalidade de localizar bens passíveis de penhora em nome dos executados.
+
+O agravante, com fulcro nos artigos 772, inciso III e 773, parágrafo único, ambos do Código de Processo Civil, requer a renovação de consulta ao sistema RENAJUD em nome dos agravados, tendo em vista o transcurso do lapso temporal de 7 (sete) anos da última pesquisa realizada.
+
+Portanto, a controvérsia recursal cinge-se em verificar se há possibilidade de renovação de pesquisa de bens dos devedores no sistema RENAJUD depois de transcorrido longo lapso temporal de consulta anterior infrutífera.
+
+Por ocasião do exame do pedido de antecipação dos efeitos da tutela recursal, esta Relatoria considerou estar configurada a probabilidade de acolhimento da pretensão deduzida pelo agravante, consoante os fundamentos a seguir transcritos:
+
+De acordo com inciso I do artigo 1.019 do Código de Processo Civil, é permitido ao Relator do Agravo de Instrumento, atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão.
+
+A concessão da antecipação dos efeitos da tutela recursal constitui instrumento de grande relevância no ordenamento jurídico processual, para assegurar a efetividade da tutela jurisdicional, em casos nos quais a demora na solução do litígio possa vir a causar dano grave ou de difícil reparação para a parte.
+
+Para fins de deferimento da antecipação dos efeitos da tutela recursal, contenta-se a lei processual coma probabilidade do direito e do provimento do recurso e o perigo de dano grave ou de difícil reparação, impondo risco ao resultado útil do processo, consoante a dicção extraída do artigo 300, caput, c/c art. 995, parágrafo único, ambos do Código de Processo Civil.
+
+Da análise sumária dos argumentos vertidos pelo agravante nesta instância recursal, constato estar evidenciada a probabilidade de acolhimento da pretensão deduzida.
+
+A controvérsia recursal cinge-se em verificar se há possibilidade de renovação de pesquisa de bens dos devedores no sistema RENAJUD depois de transcorrido longo lapso temporal de consulta anterior infrutífera.
+
+Não obstante o parágrafo único, do artigo 370, do Código de Processo civil autorize o magistrado a indeferir as diligências inúteis ou meramente protelatórias, é certo que não há qualquer limitação legal ao número de pesquisas a serem realizadas nos sistemas informatizados.
+
+Dessa forma, afigura-se possível a reiteração das constrições on-line, desde que a medida seja pautada pelos princípios da proporcionalidade e da razoabilidade, isto é, se o quadro fático-probatório dos autos apresentar indícios de alteração da condição financeira do devedor, apta a justificar a repetição da medida, ou, ainda, se houver transcorrido um lapso temporal razoável desde a última consulta, sendo esse o entendimento adotado pelo colendo Superior Tribunal de Justiça e por este egrégio Tribunal, consoante se observa dos arestos a seguir transcritos:
+
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PENHORA ON LINE. SISTEMA BACENJUD. PEDIDO DE REITERAÇÃO. POSSIBILIDADE, DESDE QUE OBSERVADO O PRINCÍPIO DA RAZOABILIDADE. AUSÊNCIA, NO CASO, DE MOTIVAÇÃO IDÔNEA DA EXEQUENTE. PROVIDÊNCIA INDEFERIDA. ALTERAÇÃO DO JULGADO QUE DEMANDA ANÁLISE DE FATOS E PROVAS. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+
+1. Inexiste a alegada violação dos arts. 458 e 535, II do CPC/1973, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+
+2. É entendimento das Turmas que compõe a Primeira Seção desta Corte Superior de que é cabível a renovação de pedido de penhora eletrônica desde que observado o princípio da razoabilidade e presentes indícios que apontem modificação da situação econômica da parte executada. Precedentes: AgInt no REsp. 1.479.999/PR, Rel. Min. GURGEL DE FARIA, DJe 28.6.2018; REsp. 1.653.002/MG, Rel. Min. HERMAN BENJAMIN, DJe 24.4.2017.
+
+3. No caso dos autos, o segundo pedido foi indeferido pelo Magistrado de piso, cuja decisão foi mantida pelo Tribunal Regional, mormente porquanto, da análise das circunstâncias fáticas da causa, constatou-se que não houve alteração da situação econômica do executado. Com efeito, verifica-se que a reversão da conclusão alcançada na instância ordinária não se revela possível em sede de Recurso Especial, dada a necessidade do revolvimento de fatos e provas, circunstância obstada pela Súmula 7/STJ. Precedentes: AgInt no REsp. 1.600.344/RS, Rel. Min. SÉRGIO KUKINA, DJe 19.10.2016; AgRg no REsp. 1.406.895/PE, Rel. Min. OG FERNANDES, DJe 18.12.2013.
+
+4. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+
+(AgInt no AREsp n. 1.024.444/BA, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 29/4/2019, DJe de 10/5/2019.) – grifo nosso.
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PESQUISA. SISTEMAS. SISBAJUD. RENAJUD. INFOJUD. REITERAÇÃO DE CONSULTA. LAPSO TEMPORAL RAZOÁVEL. POSSIBILIDADE. 1. Revela-se possível a reiteração da pesquisa de ativos financeiros e bens nos sistemas SISBAJUD, RENAJUD e INFOJUD quando evidenciada a ausência de outros bens penhoráveis e transcorrido lapso de tempo considerável desde a última pesquisa realizada, em atenção aos princípios da razoabilidade, da celeridade, da eficiência e da efetividade da prestação jurisdicional. 2. Agravo de instrumento conhecido e provido. (Acórdão 1437594, 07394483520218070000, Relator: JOÃO LUÍS FISCHER DIAS, 5ª Turma Cível, data de julgamento: 13/7/2022, publicado no DJE: 28/7/2022. Pág.: Sem Página Cadastrada.) – grifo nosso.
+
+EMENTA: DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO TÍTULO EXTRAJUDICIAL. CONSULTAS AOS SISTEMAS POSTOS À DISPOSIÇÃO DO PODER JUDICIÁRIO. PESQUISA SISBAJUD. CONSULTA DEFERIDA. AUSÊNCIA INTERESSE RECURSAL. REITERAÇÃO DE PESQUISA RENAJUD. CONSIDERÁVEL LAPSO TEMPORAL. RAZOABILIDADE. PESQUISA INFOJUD. MEDIDA EXCEPCIONAL. ESGOTAMENTO DILIGÊNCIAS. NÃO COMPROVAÇÃO. CONSULTA. SISTEMA REGISTRO DE IMÓVEIS. E-RIDF. DILIGÊNCIA PRÓPRIA. EMOLUMENTOS. PAGAMENTO. GRATUIDADE DE JUSTIÇA. 1. Não se conhece do recurso quando ausente a sucumbência, eis que caracterizada a inexistência de interesse recursal. 2. Tendo em vista que, no presente caso, a última consulta ao sistema RenaJud foi efetivada há mais de quatro anos, por se tratar de lapso temporal significativo, razoável e proporcional a reiteração da diligência. 3. A consulta ao sistema InfoJud, por se tratar de quebra de sigilo fiscal, deve ser adotada em caráter excepcional, somente sendo cabível quando esgotados todos os meios disponíveis ao credor para localização de bens em nome do devedor. 4. Evidenciado que a parte recorrente não demonstrou ter envidado os esforços possíveis na busca de bens em nome da parte agravada para satisfação da dívida, não é cabível a consulta ao sistema InfoJud no presente momento. 5. A pesquisa ao sistema e-RIDF pode ser acessada e requerida por qualquer cidadão, mediante o pagamento prévio de emolumentos e através de sítio eletrônico. 6. A realização de pesquisa de imóveis pelo sistema eletrônico e-RIDF pressupõe, em regra, o pagamento de emolumentos por não se tratar de um serviço gratuito, franqueando-se a pesquisa pelo Judiciário àqueles beneficiários da gratuidade da justiça, o que não é o caso dos autos. 7. Agravo de Instrumento conhecido, em parte, e provido parcialmente. (Acórdão 1433792, 07091121420228070000, Relator: ANA MARIA FERREIRA DA SILVA, 3ª Turma Cível, data de julgamento: 23/6/2022, publicado no DJE: 12/7/2022. Pág.: Sem Página Cadastrada.) – grifo nosso.
+
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. RENOVAÇÃO DE CONSULTA AOS SISTEMAS RENAJUD. INEXISTÊNCIA DE LIMITAÇÃO DE REQUERIMENTOS OU DE LAPSO TEMPORAL ENTRE CONSULTAS. RAZOABILIDADE A SER AFERIDA EM CADA CASO. DESNECESSIDADE DE EXAURIMENTO DAS DILIGÊNCIAS EXTRAJUDICIAIS POR PARTE DO EXEQUENTE. TRANSCURSO DE PRAZO RAZOÁVEL DESDE A ÚLTIMA CONSULTA. POSSIBILIDADE DE REITERAÇÃO DA PESQUISA. DECISÃO REFORMADA. 1. Revela-se cabível a realização de nova pesquisa de valores por meio do sistema RENAJUD para satisfação da execução, desde que observado, no caso concreto, o critério da razoabilidade. Precedentes. 2. É desnecessário o exaurimento de diligências extrajudiciais por parte do exequente para a utilização ou renovação da pesquisa de bens por meio dos sistemas informatizados do Poder Judiciário. 3. Havendo o transcurso de prazo razoável entre a última consulta realizada e o pedido de renovação da diligência, observada a razoabilidade do pleito, não há óbice ao prosseguimento das tentativas de busca por patrimônio em nome do devedor. 4. Agravo de Instrumento conhecido e provido. (Acórdão 1404037, 07362309620218070000, Relator: SIMONE LUCINDO, 1ª Turma Cível, data de julgamento: 23/2/2022, publicado no PJe: 11/3/2022. Pág.: Sem Página Cadastrada.) – grifo nosso.
+
+Pondera-se, através da análise da mudança da situação econômica do devedor e do lapso temporal desde a última busca nos sistemas informatizados de dados disponíveis, a razoabilidade, como meio, inclusive, de atender à garantia da duração razoável do processo.
+
+Ademais, por força do princípio da eficiência, deve o magistrado, na gestão do processo, adotar medidas que viabilizem a solução do conflito de interesses, com a racionalização dos atos processuais, de modo a dar efetividade aos princípios da celeridade processual e da economia processual.
+
+Com efeito, no caso em apreço, a última consulta ao sistema RENAJUD foi realizada em 26 de agosto de 2015 (ID 31134372- págs. 12/16 do processo originário), há quase sete anos.
+
+É certo que o aludido sistema mostra a situação do executado ao tempo da consulta e, aose considerara fluidez do patrimônio das pessoas, é viável que a consulta seja reiterada, desde que atendidos os princípios da razoabilidade e da proporcionalidade, como sustentado.
+
+Assim, tendo em vista o lapso temporal decorrido, mostra-se preservada a razoabilidade na demanda, consistente em nova consulta aos referidos sistemas, com vista à satisfação do crédito excutido nos autos.
+
+Pelas razões expostas, DEFIRO O PEDIDO DE ANTECIPAÇÃO DA TUTELA RECURSAL, para determinar a realização de consulta ao sistema RENAJUD em nome dos agravados.
+
+Saliento que os fundamentos constantes da decisão ora transcrita se mostram suficientes a orientar o julgamento do mérito do agravo de instrumento.
+
+De acordo com o artigo 6º do Código de Processo Civil, Todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva.
+
+Ao discorrer sobre a aplicabilidade do princípio da cooperação, Daniel Amorim Assumpção, ressalta a importância da contribuição do juiz da causa para a solução do litígio:
+
+A colaboração do juiz com as partes exige do juiz uma participação mais efetiva, entrosando-se com as partes de forma que o resultado do processo seja o resultado dessa atuação conjunta de todos os sujeitos processuais. O juiz passa a ser um integrante do debate que se estabelece na demanda, prestigiando esse debate entre todos, com a ideia central de que, quanto mais cooperação houver entre os sujeitos processuais, a qualidade da prestação jurisdicional será melhor.[1]
+
+Sem prejuízo, por força do princípio da eficiência, deve o magistrado, na gestão do processo, adotar medidas que viabilizem a solução do conflito de interesses, com a racionalização dos atos processuais, de modo a dar efetividade aos princípios da celeridade processual e da economia processual.
+
+Nesta senda, ainda que o parágrafo único do artigo 370 do Código de Processo civil autorize o magistrado a indeferir as diligências inúteis ou meramente protelatórias, é certo que não há qualquer limitação legal ao número de pesquisas a serem realizadas nos sistemas informatizados.
+
+Sopesa-se, através da análise da mudança da situação econômica do devedor e do lapso temporal desde a última busca nos sistemas informatizados de dados disponíveis, a razoabilidade e proporcionalidade, como meio, inclusive, de atender à garantia da duração razoável do processo.
+
+Na hipótese dos autos, a última consulta ao sistema RENAJUD foi realizada há quase sete anos, em 26 de agosto de 2015 (ID 31134372- págs. 12/16 do processo originário), a denotar que, considerando a fluidez do patrimônio das pessoas, é viável que a consulta seja reiterada, posto que que atendidos os princípios da razoabilidade e da proporcionalidade.
+
+Esta egrégia Corte de Justiça, ao examinar recursos envolvendo matéria que em tudo se assemelha à ora em apreço, adotou igual entendimento, a exemplo dos arestos a seguir reproduzidos:
+
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. EXECUÇÃO. RENOVAÇÃO DE PESQUISAS BACENJUD (SISBAJUD), INFOJUD E RENAJUD. DECURSO DE TEMPO DE QUASE CINCO ANOS DA ÚLTIMA PESQUISA. POSSIBILIDADE. LAPSO DE TEMPO RAZOÁVEL. ESGOTAMENTO DAS DILIGÊNCIAS. DESNECESSIDADE. PRINCÍPIO DA COOPERAÇÃO. EFETIVIDADE-UTILIDADE DA PRESTAÇÃO JURISDICIONAL. TEMA REPETITIVO 425/STJ E EM REPERCUSSÃO GERAL TEMA 631/STF. DECISÃO REFORMADA. 1. Consoante decidido em sede de Repercussão Geral no Tema 631/STF - pela "Desnecessidade de comprovação do prévio exaurimento das vias extrajudiciais de busca de bens para o deferimento de penhora eletrônica pelo denominado sistema Bacen Jud, requerida após a Lei 11.382/2006" e Tema 425/STJ, em sede de Recursos Repetitivos, "A utilização do Sistema BACEN-JUD, no período posterior à vacatio legis da Lei 11.382/2006 (21.01.2007), prescinde do exaurimento de diligências extrajudiciais, por parte do exequente, a fim de se autorizar o bloqueio eletrônico de depósitos ou aplicações financeiras". 2. Os sistemas de pesquisa eletrônicos disponibilizados aos magistrados (SisbaJud e RenaJud) foram criados para a garantia da razoável duração do processo (art. 5°, LXXVIII, da CF e art. 4° do CPC) e, em especial, para a efetividade da atividade jurisdicional, em que se insere a satisfação do crédito em execução/cumprimento de sentença. 3. Admite-se a reiteração de consulta aos mencionados sistemas de pesquisa de ativos financeiros disponíveis ao Poder Judiciário, no caso, ao SisbaJud, Infojud e RenaJud, quando, observado o princípio da razoabilidade, tenha decorrido, da última tentativa frustrada feita em cada plataforma, razoável lapso de tempo. 4. Para a aferição da razoabilidade na reiteração dessas medidas constritivas, entende a jurisprudência dominante desta egrégia Corte de Justiça que deve ser levado em conta o tempo decorrido desde a última tentativa de consulta on line, ou a apresentação de elementos de convicção pelo credor, demonstrando a alteração da situação patrimonial do devedor. 5. Agravo provido. (Acórdão 1615387, 07233780620228070000, Relator: CARLOS PIRES SOARES NETO, 1ª Turma Cível, data de julgamento: 8/9/2022, publicado no DJE: 23/9/2022. Pág.: Sem Página Cadastrada.) grifo nosso
+
+PROCESSUAL CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DEVEDORES. CITAÇÃO. CONSUMAÇÃO. PENHORA. DILIGÊNCIAS INEFICAZES. INTERSEÇÃO JUDICIAL. POSTULAÇÃO. PESQUISA DE VEÍCULOS VIA DO SISTEMA ELETRÔNICO RENAJUD. RENOVAÇÃO. DECURSO DE PRAZO RAZOÁVEL DESDE AS DERRADEIRAS DILIGÊNCIAS. DEFERIMENTO IMPERATIVO. MEIOS À DISPOSIÇÃO DO EXEQUENTE. ESGOTAMENTO. LEGITIMIDADE. PRIVILEGIAÇÃO DO OBJETIVO TELEOLÓGICO DO PROCESSO E AO PRINCÍPIO DA RAZOÁVEL DURAÇÃO DA AÇÃO. AGRAVO PROVIDO.  1. O processo, ante sua destinação teleológica, que é funcionar como instrumento para materialização do direito material, reveste-se de natureza pública, ensejando que, aviada a pretensão executiva e efetuada a citação ou intimação para pagamento, ao Judiciário, encarregado de prestar a jurisdição e resolver o conflito submetido ao seu exame, deve velar pela viabilização da marcha processual e pela rápida solução do crédito perseguido, não se compatibilizando com esses princípios que permaneça inerte quando se depara com crise na relação processual que obsta seu regular fluxo.   2. De forma a serem esgotados os meios de que dispõe o exequente para localização de patrimônio expropriável pertencente à executada afigura-se legítimo e conforme com a natureza do processo, com sua destinação e com o princípio da razoável duração dos litígios, que agora encontra-se alçado à condição de mandamento constitucional e alcança, inclusive, os meios que garantam a celeridade da tramitação processual (CF, art. 5º, LXXVIII), o deferimento e a renovação das diligências destinadas à consumação da penhora de ativos de titularidade da executada, ainda que a primeira tentativa tenha se frustrado (CPC, art. 854).  3. A renovação da diligência realizada pela via eletrônica visando à localização e penhora de ativos e bens da titularidade da parte executada é orientada pelo princípio da razoabilidade em ponderação com o objetivo teleológico e com o princípio da razoável duração do processo, notadamente quando, em sede de pretensão executiva, se está diante de pretensão não realizada estampada em título executivo judicial, emergindo que, frustrada a diligência antecedente, decorrido prazo razoável desde sua realização, e não havendo outros meios para localização de bens pertencentes à parte executada, imperativa sua renovação como forma de realização do intento executivo (CPC, art. 854).   4. Agravo conhecido e provido. Unânime.   (Acórdão 1610024, 07151175220228070000, Relator: TEÓFILO CAETANO, 1ª Turma Cível, data de julgamento: 24/8/2022, publicado no PJe: 21/9/2022. Pág.: Sem Página Cadastrada.) grifo nosso
+
+Assim, afigura-se possível a reiteração da pesquisa RENAJUD, desde que a medida seja pautada pelos princípios da proporcionalidade e da razoabilidade, isto é, se o quadro fático-probatório dos autos apresentar indícios de alteração da condição financeira do devedor, apta a justificar a repetição da medida, ou, ainda, se houver transcorrido um lapso temporal razoável desde a última consulta, como no caso em apreço.
+
+Assim, não há óbice para a utilização do mencionado sistema, com a finalidade de viabilizar a localização de ativos financeiros em nome dos agravados, para o fim de garantir a satisfação da obrigação exequenda.
+
+Com estas considerações, DOU PROVIMENTO AO AGRAVO DE INSTRUMENTO, para reformar a r. decisão hostilizada e determinar a realização de consulta ao sistema RENAJUD em nome dos agravados.
+
+É como voto.
+
+[1] Manual de Direito Processual Civil – Volume Único. 9ª Edição, Editora JusPodivum, p. 205
+
+O Senhor Desembargador TEÓFILO CAETANO - 1º Vogal Com o relatorO Senhor Desembargador RÔMULO DE ARAÚJO MENDES - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DO RECURSO E DAR-LHE PROVIMENTO. DECISÃO UNÂNIME
