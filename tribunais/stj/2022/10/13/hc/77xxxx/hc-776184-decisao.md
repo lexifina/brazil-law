@@ -1,0 +1,12 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor de Lucas dos Santos Souza - cumprindo pena privativa de liberdade nos autos da Execução n.0004268-84.2017.8.16.0130, em curso na Vara de Execuções Criminais de Maringá/PR -, sob alegação de constrangimento ilegal no acórdão exarado no julgamento do Agravo em Execução n.4000158-46.2022.8.16.0017, que manteve a decisão do Juízo da execução no sentido de indeferir o pleito de progressão de regime, calcada na existência de mandado de prisão preventiva expedido contra o paciente em ação penal distinta, requer-se, em liminar e no mérito, a concessão da benesse pretendida.
+É o relatório.
+Owrité inadmissível.
+A prisãopreventivadecretada em outro processo pode justificar o indeferimento daprogressãode regime, se o delito em razão do qual foi decretada a prisão cautelar foi cometido durante aexecuçãoda pena  .. ,na medida em que, nos termos do art. 52 da Lei deExecuçõesPenais, a prática de fato previsto como crime doloso constitui falta grave(AgRg no HC n. 718.375/PR, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 18/3/2022 - grifo nosso)
+No caso, a impetrante não colacionou a cópia do processo no qual foi decretada a prisão cautelar, circunstância que obsta a análise da tese deduzida na presente impetração, notadamente porque é inviável aferir a contemporaneidade do fato apurado na ação penal com a execução penal em curso.
+Como é cediço, o habeas corpus, ação constitucional de natureza mandamental destinada a afastar eventual ameaça ao direito de ir e vir, tem, em razão de seu escopo, natureza urgente e, por essa razão, não comporta dilação probatória e exige prova pré-constituída das alegações, a qual deve ser trazida no momento do seu ajuizamento, em especial quando se tratar de advogado (STF: AgRg no HC n. 103.240/RS, Ministro Ayres Britto, Segunda Turma, DJe 29/3/2011; HC n. 107.350/RS, Ministra Cármen Lúcia, Primeira Turma, DJe 19/5/2011; STJ: HC n. 197.183/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 30/6/2011; e HC n. 119.702/PE, Ministra Jane Silva (Desembargadora convocada do TJ/MG), Sexta Turma, DJe 2/3/2009).
+Ante o exposto, não conheço do habeas corpus (art. 34, XVIII, a, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL PROGRESSÃO DE REGIME. INDEFERIMENTO CALCADO NA EXPEDIÇÃO DE MANDADO DE PRISÃO PREVENTIVA EM AÇÃO PENAL DIVERSA. INSTRUÇÃO DEFICIENTE.
+Writ não conhecido.
