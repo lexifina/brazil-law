@@ -1,0 +1,69 @@
+Decisão: Trata-se de agravo interposto contra decisão de inadmissibilidade de recurso extraordinário em face de acórdão do Tribunal de Justiça do Rio Grande do Norte, ementado nos seguintes termos:
+
+    “CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ALEGAÇÃO DE AFRONTA ÀS CONSTITUIÇÕES FEDERAL E ESTADUAL. PERSISTÊNCIA DE INTERESSE PROCESSUAL, MESMO DIANTE DA SUPOSTA REVOGAÇÃO NORMATIVA INFORMADA PELA CÂMARA MUNICIPAL. IMPOSSIBILIDADE DE REVOGAR LEI ORDINÁRIA POR MEIO DE RESOLUÇÃO. LEI N° 730/2012, DO MUNICÍPIO DE JUCURUTU/RN, QUE, EM SEU ANEXO I, CRIOU CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO SEM A INDICAÇÃO DAS CORRESPONDENTES COMPETÊNCIAS E ATRIBUIÇÕES. OFENSA AOS ARTIGOS 26, INCISO II, E 37, INCISO VI, DA CARTA MAGNA, E ARTIGO 46, § 1°, INCISO II, ALÍNEA ‘A’, DA CONSTITUIÇÃO ESTADUAL. PRECEDENTES DESTA CORTE DE JUSTIÇA E DO EXCELSO PRETÓRIO. FUNÇÕES DE CHEFIA, DIREÇÃO E ASSESSORAMENTO NÃO CONFIGURADAS CORRETAMENTE. VÍCIO FORMAL CONSTATADO. INCONSTITUCIONALIDADE DECLARADA. IMPOSSIBILIDADE DE CRIÇÃO DE CARGOS NOVOS OU DEFINIÇÃO DE REMUNERAÇÕES POR MEIO DE RESOLUÇÃO, SEM A UTILIZAÇÃO DE INSTRUMENTO NORMATIVO ADEQUADO. PROCEDÊNCIA DO PEDIDO COM MODULAÇÃO DE EFEITOS”. (eDOC 4)
+
+    Cuida-se, na origem, de ação direta de inconstitucionalidade proposta pelo Ministério Público do Rio Grande do Norte em face da Lei municipal 730/2012 e da Resolução 9/2017, que criaram cargos comissionados no âmbito Poder Legislativo do Município de Jucurutu/RN.
+
+    No recurso extraordinário, interposto com fundamento no art. 102, III, a, da Constituição Federal, aponta-se violação aos arts. 51, IV, 52, XIII, e 103, § 3°, do texto constitucional. (eDOC 8)
+
+    Nas razões recursais, explica-se que a decisão recorrida considerou inconstitucionais as normas impugnadas sob os seguintes fundamentos: (i) não houve a devida descrição das atribuições dos cargos e (ii) a fixação de remuneração não poderia se dar através de resolução.
+
+    Alega-se que, conforme os artigos 51, IV, e 52, XIII, da CF, é possível à Câmara Municipal a sua organização administrativa através de Resolução, e que a decisão violou o disposto no art. 103, § 3°, da CF, ao não citar a Câmara Municipal para a defesa da norma impugnada. Afirma-se que a Lei 730/2012 apenas fixou o subsídio dos cargos já criados anteriormente.
+
+    Narra-se que a elaboração da Resolução 9/2017 resultou de um termo de ajustamento de conduta firmado com o MP local, não configurando fraude processual, e que o objetivo dessa Resolução foi o de criar os cargos comissionados de controlador interno e tesoureiro. Ressalta-se a necessidade da criação desses cargos comissionados, pois são os únicos que, além de realizarem as funções eminentemente técnicas, possuem também as atribuições de chefia e de assessoramento da Presidência e dos demais órgãos.
+
+    O Procurador-Geral da República se manifesta pelo desprovimento do recurso, em parecer assim ementado:
+
+    “DIREITO CONSTITUCIONAL. AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI Nº 730/2012, DO MUNICÍPIO DE JUCURUTU. RESOLUÇÃO Nº 009/2017, DA CÂMARA MUNICIPAL. VIOLAÇÃO A DISPOSITIVO DE CONSTITUIÇÃO ESTADUAL. NORMA DE REPRODUÇÃO OBRIGATÓRIA. NULIDADE POR AUSÊNCIA DE CITAÇÃO DA CÂMARA LEGISLATIVA. INOCORRÊNCIA. PREJUÍZO NÃO DEMONSTRADO. CRIAÇÃO DE CARGOS PÚBLICOS DE PROVIMENTO EM COMISSÃO SEM A INDICAÇÃO DAS CORRESPONDENTES COMPETÊNCIAS E ATRIBUIÇÕES. IMPOSSIBILIDADE DE PREVISÃO DE REMUNERAÇÃO POR MEIO DE RESOLUÇÃO. PRINCÍPIO DA RESERVA LEGAL. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DA SUPREMA CORTE. PRECEDENTES. NATUREZA DOS CARGOS. FUNÇÕES DE CHEFIA, DIREÇÃO E ASSESSORAMENTO. INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS LOCAIS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. PARECER PELO DESPROVIMENTO DO RECURSO EXTRAORDINÁRIO”. (eDOC 19)
+
+    É o relatório.
+
+    Decido.
+
+    A irresignação não merece prosperar.
+
+    Verifico que a Corte de origem julgou procedente ação direta de inconstitucionalidade estadual sob o fundamento de que não é possível a criação de cargos comissionados sem a devida descrição de suas atribuições. Nesses termos, colho trecho do acórdão recorrido:
+
+    “(...)
+
+    No que tange à Lei Municipal n° 730/2012, é notório que ela cria, mais especificamente em seu ANEXO I, cargos públicos de forma inadequada, sem discriminação de competências e atribuições, limitando-se à identificação das remunerações que seriam pertinentes a cada cargo (fl. 42).
+
+    (...)
+
+    Analisando o texto normativo, no contexto de tais lições e da própria dicção do artigo 37, inciso VI, da Constituição Federal, c/c o artigo 46, § 1°, inciso II, alínea “a”, da Constituição Estadual, é notório que as denominações genericamente criadas no ANEXO I da referida Lei Municipal, não estão acrescidas do necessário apontamento das atribuições e competências, inexistindo qualquer espécie de divagação, mesmo genérica, sobre o que seria esperado de tais cargos.
+
+    Oportuno ressaltar, ainda, que a omissão legislativa acima apontada contraria a própria essência da confiança que é ínsita a esse tipo de provimento excepcional (provimento em comissão), o que tornaria ainda mais relevante e imprescindível a discriminação específica das atribuições dos cargos, especialmente por suas respectivas naturezas de chefia, assessoramento e direção. Em outras palavras, a ausência de especificação das funções dos cargos de provimento em comissão impede o reconhecimento da legitimidade da criação de tais cargos, tornando-a também violadora da regra do artigo 26, inciso II, da Carta Magna:
+
+    (...)” (eDOC 4, p. 5-7)
+
+    Nesses termos, a decisão recorrida não divergiu da jurisprudência desta Corte, firmada no julgamento do RE-RG 1.041.210, Rel. Min. Dias Toffolli, DJe 22.5.2019, no sentido de que a criação de cargos em comissão é exceção à regra de ingresso no serviço público mediante concurso público de provas ou provas e títulos e somente se justifica quando presentes os pressupostos constitucionais para sua instituição, entre os quais se inclui a descrição de suas atribuições de forma clara e objetiva na própria lei que os cria. Eis a ementa esse julgado:
+
+    “Criação de cargos em comissão. Requisitos estabelecidos pela Constituição Federal. Estrita observância para que se legitime o regime excepcional de livre nomeação e exoneração. Repercussão geral reconhecida. Reafirmação da jurisprudência da Corte sobre o tema. 1. A criação de cargos em comissão é exceção à regra de ingresso no serviço público mediante concurso público de provas ou provas e títulos e somente se justifica quando presentes os pressupostos constitucionais para sua instituição. 2. Consoante a jurisprudência da Corte, a criação de cargos em comissão pressupõe: a) que os cargos se destinem ao exercício de funções de direção, chefia ou assessoramento, não se prestando ao desempenho de atividades burocráticas, técnicas ou operacionais; b) necessária relação de confiança entre a autoridade nomeante e o servidor nomeado; c) que o número de cargos comissionados criados guarde proporcionalidade com a necessidade que eles visam suprir e com o número de servidores ocupantes de cargos efetivos no ente federativo que os institui; e d) que as atribuições dos cargos em comissão estejam descritas de forma clara e objetiva na própria lei que os cria. 3. Há repercussão geral da matéria constitucional aventada, ratificando-se a pacífica jurisprudência do Tribunal sobre o tema. Em consequência disso, nega-se provimento ao recurso extraordinário. 4. Fixada a seguinte tese: a) A criação de cargos em comissão somente se justifica para o exercício de funções de direção, chefia e assessoramento, não se prestando ao desempenho de atividades burocráticas, técnicas ou operacionais; b) tal criação deve pressupor a necessária relação de confiança entre a autoridade nomeante e o servidor nomeado; c) o número de cargos comissionados criados deve guardar proporcionalidade com a necessidade que eles visam suprir e com o número de servidores ocupantes de cargos efetivos no ente federativo que os criar; e d) as atribuições dos cargos em comissão devem estar descritas, de forma clara e objetiva, na própria lei que os instituir.”
+
+    Quanto à insurgência relacionada à inconstitucionalidade da Resolução da Câmara Municipal, que fixou a remuneração de seus servidores, nota-se que o julgado não diverge da jurisprudência desta Corte, no sentido de que a retribuição pecuniária dos servidores públicos se sujeita à reserva absoluta de lei. Nesse sentido, confira-se o seguinte julgado:
+
+    AÇÃO DIRETA DE INCONSTITUCIONALIDADE. RESOLUÇÕES DA CÂMARA LEGISLATIVA DO DISTRITO FEDERAL QUE DISPÕEM SOBRE O REAJUSTE DA REMUNERAÇÃO DE SEUS SERVIDORES. RESERVA DE LEI. I. PRELIMINAR. REVOGAÇÃO DE ATOS NORMATIVOS IMPUGNADOS APÓS A PROPOSITURA DA AÇÃO DIRETA. FRAUDE PROCESSUAL. CONTINUIDADE DO JULGAMENTO. Superveniência de Lei Distrital que convalidaria as resoluções atacadas. Sucessivas leis distritais que tentaram revogar os atos normativos impugnados. Posterior edição da Lei Distrital n° 4.342, de 22 de junho de 2009, a qual instituiu novo Plano de Cargos, Carreira e Remuneração dos servidores e revogou tacitamente as Resoluções 197/03, 201/03, 202/03 e 204/03, por ter regulado inteiramente a matéria por elas tratadas, e expressamente as Resoluções n°s 202/03 e 204/03. Fatos que não caracterizaram o prejuízo da ação. Quadro fático que sugere a intenção de burlar a jurisdição constitucional da Corte. Configurada a fraude processual com a revogação dos atos normativos impugnados na ação direta, o curso procedimental e o julgamento final da ação não ficam prejudicados. Precedente: ADI n° 3.232/TO, Rel. Min. Cezar Peluso, DJ 3.10.2008. II . REMUNERAÇÃO DOS SERVIDORES PÚBLICOS. PRINCÍPIO DA RESERVA DE LEI. A Emenda Constitucional 19/98, com a alteração feita no art. 37, X, da Constituição, instituiu a reserva legal para a fixação da remuneração dos servidores públicos. Exige-se, portanto, lei formal e específica. A Casa Legislativa fica apenas com a iniciativa de lei. Precedentes: ADI-MC 3.369/DF, Relator Min. Carlos Velloso, DJ 02.02.05; ADI-MC 2.075, Rel. Min. Celso de Mello, DJ 27.06.2003. As resoluções da Câmara Distrital não constituem lei em sentido formal, de modo que vão de encontro ao disposto no texto constitucional, padecendo, pois, de patente inconstitucionalidade, por violação aos artigos 37, X; 51, IV; e 52, XIII, da Constituição Federal. III . AÇÃO DIRETA DE INCONSTITUCIONALIDADE JULGADA PROCEDENTE.
+
+    (ADI 3306, de minha relatoria, Tribunal Pleno, julgado em DJe 7.6,2011)
+
+    Por fim, quanto à avaliação acerca da necessidade e da natureza dos cargos em comissão criados através da Resolução 09/2017, verifico que a matéria restringe-se ao âmbito infraconstitucional, de modo que a ofensa à Constituição, se existente, seria reflexa ou indireta, o que inviabiliza o processamento do presente recurso.
+
+    Além disso, divergir do entendimento firmado pelo tribunal de origem demandaria o reexame do acervo fático-probatório, providência inviável no âmbito do recurso extraordinário.
+
+    Nesses termos, incide no caso a Súmula 279 do Supremo Tribunal Federal. Confiram-se, a propósito, os seguintes precedentes:
+
+    “DIREITO ADMINISTRATIVO. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/1973. CRIAÇÃO DE CARGOS EM COMISSÃO. RELAÇÃO DE CONFIANÇA. ADEQUAÇÃO AFERIDA PELA ORIGEM. DISCUSSÃO ACERCA DA NATUREZA DAS FUNÇÕES EXERCIDAS PELOS OCUPANTES DOS CARGOS. EVENTUAL OFENSA REFLEXA NÃO ENSEJA RECURSO EXTRAORDINÁRIO. NECESSIDADE DE INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA Nº 280/STF. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. As razões do agravo interno não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, sobretudo no que se refere ao óbice da Súmula nº 280 do STF, a inviabilizar o trânsito do recurso extraordinário. 2. A suposta afronta aos postulados constitucionais invocados no apelo extremo somente poderia ser constatada a partir da análise da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 3. Agravo interno conhecido e não provido”. (RE 657688 AgR-segundo, Rel. Min. Rosa Weber, Primeira Turma, DJe 06.05.2019)
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. LEI MUNICIPAL. CRIAÇÃO DE CARGOS EM COMISSÃO. CARÁTER DE ASSESSORAMENTO, CHEFIA OU DIREÇÃO. EXISTÊNCIA DE RELAÇÃO DE CONFIANÇA. CONTROVÉRSIA ACERCA DA NATUREZA DAS FUNÇÕES EXERCIDAS PELOS OCUPANTES DOS CARGOS EM COMISSÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPRESCINDIBILIDADE DE REINTERPRETAÇÃO DA LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL. INCIDÊNCIA DAS SÚMULAS 279 E 280/STF. AGRAVO A QUE SE NEGA PROVIMENTO. I – Esta Corte possui entendimento firmado no sentido de que é constitucional a criação de cargos em comissão que tenham caráter de assessoramento, chefia ou direção e que demandem relação de confiança entre o servidor nomeado e o seu superior hierárquico. Precedentes. II - Para chegar-se à conclusão contrária à adotada pelo Tribunal de origem quanto à natureza das funções exercidas pelos ocupantes dos cargos em comissão, necessário seria o reexame do conjunto fático-probatório constante dos autos, bem como a análise de normas infraconstitucionais locais, o que inviabiliza o extraordinário, a teor das Súmulas 279 e 280/STF. Precedentes. III - Agravo regimental a que se nega provimento”. (RE 1130006 AgR, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 01.02.2019)
+
+    Ante o exposto, nego seguimento ao recurso (art. 932, IV, do NCPC c/c art. 21, §1º, do RISTF).
+
+    Publique-se.
+
+    Brasília, 14 de outubro de 2022.
+
+Ministro Gilmar Mendes
+
+Relator
+
+Documento assinado digitalmente
