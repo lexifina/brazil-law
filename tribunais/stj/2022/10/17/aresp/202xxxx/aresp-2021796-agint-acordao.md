@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 788/799) interposto contra decisão (e-STJ fls. 763/764) da Presidência do STJ que não conheceu do agravo nos próprios autos, por aplicação da Súmula n. 187 do STJ.
+Os embargos de declaração foram rejeitados pela Presidência do STJ (e-STJ fls. 782/785).
+Em suas razões, a parte argumenta com o devido preparo do especial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foram apresentadas contrarrazões (e-STJ fls. 802/812).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MONOCRÁTICA DA PRESIDÊNCIA DO STJ. PREPARO DO RECURSO ESPECIAL. IRREGULARIDADE. INTIMAÇÃO NA FORMA DO ART. 1.007, §§ 2º e 4º, DO CPC. RECOLHIMENTO. NÃO COMPROVAÇÃO NO PRAZO CONCEDIDO. DESERÇÃO. SÚMULA N. 187 DO STJ. DECISÃO MANTIDA.
+1. A parte que não comprova o preparo no momento da interposição do recurso deve ser intimada, nos termos do art. 1.007, §§ 2º e 4º, do CPC, para a regularização do vício. Intimada, a parte deve demonstrar, no prazo designado: (i) ser beneficiária da gratuidade da justiça ao tempo da interposição, (ii) ter comprovado o preparo no momento do protocolo do recurso, ou (iii) o recolhimento na forma determinada na intimação. Mesmo após a intimação para que regularizasse o vício apontado, não houve a comprovação do recolhimento do preparo no prazo assinalado, o que atrai a aplicação da Súmula n. 187 do STJ.
+2. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A parte não trouxe argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida (e-STJ fls. 763/764):
+Cuida-se de agravo interposto por SCHUMANN MÓVEIS E ELETRODOMÉSTICOS LTDA e OUTRO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de SCHUMANN MÓVEIS E ELETRODOMÉSTICOS LTDA e OUTRO, a petição de recurso especial foi protocolada, na origem, sem o comprovante de pagamento das custas devidas ao STJ, apesar de presente a guia de recolhimento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção.
+Nesse sentido, os seguintes precedentes: AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020; AgInt no REsp 1807942/RO, relator Ministro Francisco Falcão, Segunda Turma, DJe de 11/5/2020; e AgInt no AREsp 1572490/SE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 20/3/2020.
+Ademais, percebido, no Tribunal de origem, haver essa irregularidade no recolhimento do preparo, a parte foi intimada para regularizar o vício. Porém, apesar de sua manifestação, o preparo ainda restou irregular, tendo em vista um equívoco na fundamentação do despacho de regularização.
+Na verdade, não tendo a parte comprovado o recolhimento do preparo no ato de interposição do recurso, como ocorreu no caso, o Tribunal de origem deveria ter intimado a parte para efetuar o recolhimento em dobro, nos termos do art. 1.007, § 4º, do CPC.
+Sendo assim, foi percebido esse equívoco no STJ, que determinou nova intimação da parte nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil, para sanar, no prazo de cinco dias, o vício apontado, complementando o recolhimento das custas.
+Porém, a parte não regularizou. Ressalte-se que a petição de fls. 754/761, trazida aos autos em razão da certidão oportunizando a regularização do feito, não pode ser conhecida para os fins a que se destina, uma vez que protocolizada fora do prazo assinalado, ocorrendo a preclusão temporal da prática do ato.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+Confira-se ainda a monocrática da Presidência do STJ que rejeitou os aclaratórios (e-STJ fls. 782/785):
+Cuida-se de embargos de declaração opostos por SCHUMANN MÓVEIS E ELETRODOMÉSTICOS LTDA E OUTRO à decisão de fls. 763/764, que não conheceu do recurso.
+Sustenta a parte embargante que:
+6. Em atenção aos fundamentos empregados no Acórdão embargado, necessário esclarecer que o pronunciamento judicial do Tribunal de origem se mostra acertado, vez que a Legislação vigente admite a intimação da parte para comprovar o tempestivo recolhimento do preparo recursal antes de se determinar o recolhimento em dobro, in verbis:
+ ..
+7. Acerca da possibilidade de intimação do Recorrente para comprovar o tempestivo recolhimento do preparo recursal, esse Sodalístico Superior Tribunal de Justiça, no julgamento do Agravo em Recurso Especial n. 1.932.601/RJ, reconheceu que o recurso somente se mostra deserto quando "apesar de regularmente intimada para comprovar o tempestivo recolhimento do preparo (CPC/2015, art. 1.007, § 7º), ou efetuar o pagamento em dobro, a parte não o faz devida e oportunamente" (STJ, AgREsp n. 1.93.601/RJ, Rel. Ministro Raul Araújo, Dje. 30.11.2021).
+8. Logo, não há deserção no caso em apreço, vez que a parte Embargante, em cumprimento a determinação judicial do Tribunal de Justiça de Santa Catarina, peticionou nos autos (e-STJ fls. 651), oportunidade em que juntou os comprovantes de pagamento das guias judiciais, comprovando que o recolhimento do preparo se deu dentro do prazo recursal, inclusive, o sistema Eproc, adotado pelo Poder Judiciário Catarinense, certificou o referido pagamento em data anterior ao ato de interposição (e-STJ fls. 573-574). Ex vi: (fls. 767/768).
+ ..
+9. Ainda, vale ressaltar o teor do voto proferido pelo Excelentíssimo Ministro João Otávio de Noronha, que no julgamento EDcl no REsp 1.229.608/PR, afastou a deserção aplicada, mesmo havendo a juntada tardia dos comprovantes de pagamento, pois verificou que a data de pagamento da guia de preparo correspondia à data da interposição do recurso, cuja ementa se transcreve a seguir: (fl. 769).
+ ..
+11. Assim, requer-se a supressão da omissão apontada, com a consequente manifestação sobre a possibilidade de a parte Recorrente comprovar o recolhimento tempestivo do preparo recursal em momento posterior à interposição (CPC, art. 1.007, § 7º), para, assim, conhecer do recurso interposto, vez que preenchido todos os requisitos de admissibilidade (fl. 770).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Inicialmente, veja-se que o juízo de admissibilidade do recurso especial é bifásico, ou seja, "a decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade". (AgInt no AREsp 1470001/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 20/9/2019.)
+Ademais, cumpre esclarecer que a comprovação do recolhimento do preparo é feita por meio da juntada da guia das custas devidas ao Superior Tribunal de Justiça acompanhada do seu respectivo comprovante de pagamento, o que não ocorreu no caso, uma vez que somente foi juntada a guia (fl. 589), isto é, o preparo não foi comprovado no momento oportuno.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/6/2020; e AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020.
+Sendo assim, o preparo é devido em dobro, nos termos do art. 1.007, § 4º, do Código de Processo Civil que diz: "O recorrente que não comprovar, no ato de interposição do recurso, o recolhimento do preparo, inclusive porte de remessa e de retorno, será intimado, na pessoa do seu advogado, para realizar o recolhimento em dobro, sob pena de deserção".
+Registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AGENDAMENTO. DESPACHO. REGULARIZAÇÃO. EMBARGOS DE DECLARAÇÃO. DESCABIMENTO. PAGAMENTO EM DOBRO. DESCUMPRIMENTO. DESERÇÃO. DECISÃO MANTIDA.
+1. Não é cabível a oposição de aclaratórios contra o despacho que determina a intimação da parte regularizar o preparo do recurso especial, uma vez que tal ato não possui natureza decisória.
+Precedentes.
+2. "A juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido" (AgInt no REsp n. 1.873.185/MA, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021), o que ocorreu (e-STJ fls. 483/484).
+3. "À luz do disposto no art. 1.007, §§ 2º, 6º e 7º, do CPC/2015, a parte recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no REsp n. 1.880.154/RN, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/3/2021, DJe 26/3/2021).
+4. De acordo com a jurisprudência do STJ, não sendo devidamente comprovado o recolhimento do preparo no momento da interposição do recurso, deve a parte ser intimada para o sua realizado em dobro, na forma do art. 1.007, § 4º, do CPC de 2015, sob pena de deserção.
+5. No caso, ao constatar que o recurso especial foi protocolado acompanhado apenas do comprovante de agendamento do preparo, a Presidência desta Corte Superior proferiu despacho, a fim de que a parte apresentasse a guia de recolhimento referente ao comprovante de pagamento e realizasse a complementação do referido recolhimento, uma vez que devido em dobro, nos termos do art. 1.007, § 4º, do CPC de 2015 e, em caso de impossibilidade de apresentação da citada guia, efetuasse novo pagamento em dobro. No entanto, mesmo intimada, a parte deixou de recolher o preparo em dobro, o que atrai a Súmula n. 187/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1604404/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma , DJe de 17/05/2021.)
+No caso, mesmo a parte tendo sido intimada nesta Corte para complementar o preparo, não houve a regularização. Como o recurso especial não foi devida e oportunamente preparado, incide, na espécie, o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
+Nos termos da decisão ora agravada, a parte que não comprova o preparo no momento da interposição do recurso deve ser intimada, nos termos do art. 1.007, §§ 2º e 4º, do CPC, para a regularização do vício.
+Intimada, a parte deve demonstrar, no prazo designado: (i) ser beneficiária da gratuidade da justiça ao tempo da interposição, (ii) ter comprovado o preparo no momento do protocolo do recurso, ou (iii) o recolhimento na forma determinada na intimação.
+Mesmo após a intimação para que regularizasse o vício apontado, não houve a comprovação do recolhimento do preparo no prazo assinalado, o que atrai a aplicação da Súmula n. 187 do STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. PREPARO RECURSAL. NÃO RECOLHIMENTO EM DOBRO. DESERÇÃO. SÚMULA N. 187/STJ. REPRESENTAÇÃO PROCESSUAL. INTIMAÇÃO PARA REGULARIZAÇÃO. DESCUMPRIMENTO. DECISÃO MANTIDA.
+1. "À luz do disposto no art. 1.007, §§ 2º, 6º e 7º, do CPC/2015, a parte recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no REsp n. 1.880.154/RN, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/3/2021, DJe 26/3/2021).
+2. De acordo com a jurisprudência do STJ, não sendo devidamente comprovado o recolhimento do preparo no momento da interposição do recurso, deve a parte ser intimada para o ser realizado em dobro, na forma do art. 1.007, § 4º, do CPC de 2015, sob pena de deserção.
+3. Conforme prevê o art. 76, § 2º, I, do CPC/2015, não se conhece do recurso quando a parte recorrente, apesar de intimada, deixa de sanar vício na representação processual no prazo estabelecido.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.859.420/RS, de minha relatoria, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. IRREGULARIDADE NO RECOLHIMENTO DO PREPARO NO MOMENTO DA INTERPOSIÇÃO DO RECURSO. INTIMAÇÃO. DESERÇÃO. SÚMULA 187/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, o recorrente será intimado a realizar o recolhimento em dobro, sob pena de deserção, à luz do art. 1.007, caput e § 4º, do CPC de 2015.
+2. É deserto o recurso especial se, apesar de regularmente intimada para comprovar o tempestivo recolhimento do preparo (CPC/2015, art. 1.007, § 7º), ou efetuar o pagamento em dobro (§ 4º do mesmo artigo), a parte não o faz devida e oportunamente.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.935.610/TO, relator Ministro Raul Araújo, Quarta Turma, julgado em 25/10/2021, DJe de 26/11/2021.)
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE NÃO CONHECEU O RECURSO DE APELAÇÃO INTERPOSTO RECORRENTE QUE NÃO JUNTOU A GUIA DARE NO MOMENTO OPORTUNO DEVER DE COMPROVAR O RECOLHIMENTO DO PREPARO NO ATO DE INTERPOSIÇÃO. DESERÇÃO. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DOMINANTE NO STJ. SÚMULA 83 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte Superior possui firme o entendimento no sentido de que "O recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no AgRg no REsp n. 1.545.154/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, Dje 02/10/2017). Incidência da Súmula 83 do STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp n. 1.872.212/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/6/2022, DJe de 28/6/2022.)
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
