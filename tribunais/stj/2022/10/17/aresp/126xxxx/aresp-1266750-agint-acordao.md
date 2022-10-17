@@ -1,0 +1,97 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 936/975) interposto contra decisão desta relatoriaque negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+O recorrente argumenta o seguinte:
+(i)(..) não convence a simplória e padronizada assertiva de que as questões necessárias ao julgamento do caso foram decididas fundamentadamente", posto que, in casu, imperativo o retorno dos autos à origem, com vista ao saneamento dos vícios apontados nos embargos de declaração opostos no âmbito da Corte Estadual (e-STJ fl. 941),
+(ii) A previsão do artigo 52, inciso I, da anterior Lei de Falências, tida por violada, subsume-se perfeitamente ao presente caso concreto, posto que a Agravada, nitidamente, deduziu, sob roupagem distinta, pretensão de natureza revocatória.
+Nesse sentido, cumpre observar que a conjunção entre os artigos 52 do Decreto 7.661/1945 e artigo 24-D da Lei 9.656/1998 DEFLAGRAM A COGÊNCIA quanto à necessidade instalação exclusiva de AÇÃO REVOCATÓRIA quando se existe causa de pedir e pedido no sentido da desconstituição de ato praticado dentro do termo legal da liquidação extrajudicial.
+Como consequência, a matéria que concerne ao caso versa a respeito de incompetência absoluta, uma vez que, as decisões concernentes à massa falida não foram propostas dentro do juízo falimentar.Portanto, a competência não foi respeitada quando analisada a entrega da prestação jurisdicional (não definitiva) impelida ao caso, portanto, a violação ao artigo 337, 5º, Código de Processo Civil permanece incólume ao processo, demonstrando sua força normativa.
+Por sua vez, o artigo 56 do Decreto do Decreto 7661/1945 coroa a competência do juízo falimentar para conhecer e julgar de forma absoluta as ações revocatórias. Desta forma, como em realidade a parte adversa ajuizou ação revocatória fora do juízo falimentar (modificando o nome da ação com objetivo de induzir o juízo em erro), e mais, não se atentou ao prazo decadencial de 01 (um) anos para ingresso da medida, razão pela qual opera-se de plano a incompetência absoluta e decadência ao caso em voga, sendo evidente que a não observância deste artigo infraconstitucional deflagra em patente violação da norma (e-STJ fls. 942/943).
+Ao final, pedea reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Contrarrazões às fls. 978/989 (e-STJ).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL.AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PRESTAÇÃO JURISDICIONAL. ADEQUAÇÃO. IMPRESCINDIBILIDADE DA AÇÃO REVOCATÓRIA. AUSÊNCIA DE ALCANCE NORMATIVO DOS ARTIGOS INDICADOS. SÚMULA N. 284/STF.INCOMPETÊNCIA ABSOLUTA EDECADÊNCIA. TESES PREJUDICADAS.DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2.Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdonão tem alcance para amparar a tese defendida no recurso especial. No caso, tendo em vista a descrição realizada na origem, acerca dos fatos que embasaram a ação proposta pela parte recorrida, não é possível concluir que o ajuizamento da ação revocatória se enquadraria na previsão legal sustentada pelo recorrente.As teses de incompetência absoluta e de decadência ficam prejudicadas, considerando a rejeição do tema relacionado à natureza da ação objeto de cumprimento provisório de sentença.
+3. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+Eis o teor da decisão agravada (e-STJ fls. 926/932):
+Trata-se de agravo nos próprios autos impugnado decisão que não admitiu recurso especial interposto contra acórdão do TJSPassim ementado (e-STJ fl. 618):
+Ação de obrigação de fazer - Fase de cumprimento de sentença - Incompetência absoluta do Juízo não reconhecida- Massa falida que ocupa o polo ativo da lide - Ação que não se confunde com a revocatória - Descabido o reconhecimento da decadência - Incompetência absoluta que somente pode ser alegada em relação à execução - Análise restrita à fase de conhecimento - Interpretação do inciso VI, do § 1º, do art. 525 do CPC - Recurso improvido
+O recorrente opôsembargos de declaração, os quaisforam rejeitados (e-STJ fls. 838/841).
+Noespecial (e-STJ fls. 642/710), fundamentado nas alíneas "a" e "c" do permissivo constitucional, apontou violação dos seguintes dispositivos legais, vinculados aos respectivos argumentos:
+(a)art. 1.022do CPC/2015-negativa de prestação jurisdicional:
+Caso todas as peculiaridades apresentadas a respeito da necessidade de ajuizamento de ação revocatória tivessem sido apreciadas, não há dúvida de que o TJSP daria provimento ao Agravo de Instrumento e, com isso, reformaria a decisão proferida pelo Magistrado de instância singela, reconhecendo a incompetência absoluta do juízo.
+Daí porque é imperioso que se reconheça a violação ao artigo 1.022 do CPC requerendo, desde já, o conhecimento e provimento do presente recurso, no sentido de se decretar a nulidade dos Acórdãos proferidos nos autos do agravo de instrumento nº 2088583-68.2016.8.26.0000, determinandose ao e. Tribunal de Justiça de São Paulo, que o conheça e aprecie quanto a cada um dos temas nele lançados (e-STJ fl. 656).
+(b) arts.52, I,do Decreto-Lei n. 7.661/1945e 24-Dda Lei n. 9.656/1998-natureza jurídica do pedido formulado na ação ajuizada pela parte recorrida (imprescindibilidade da ação revocatória):
+(..) independentemente da nomenclatura atribuída à demanda, a verdadeira natureza jurídica da tutela jurisdicional é verificada através de fatos INCONTROVERSOS: a Recorrida objetivou a obtenção de provimento jurisdicional destinado à desconstituição de ato praticado pelo HSBC dentro do termo legal da liquidação extrajudicial (com base em cláusula contratual regularmente pactuada) e a devolução dos valores objeto daquele ato (e-STJ fl. 657).
+(..)
+Portanto, ao contrário do que entendeu o acórdão recorrido, não há que se falar em "obrigação de fazer" vez que a simples constatação do incontroverso objeto da demanda, evidencia seu cunho revocatório.
+Ademais, ao analisar tal ponto, o TJSP atribuiu interpretação equivocada ao artigo 52 do Decreto Lei 7.661145, considerando cabível a propositura de ação revocatória tão somente para anulação de negócio fraudulento.
+A negativa de vigência ao mencionado dispositivo se verifica na medida em que os atos discriminados no artigo 52 serão ineficazes independente da existência de fraude, sendo a ação revocatória o meio para desfazê-los (e-STJ fl. 658).
+(..)
+Já com relação ao prazo decadencial de um ano para a propositura da Ação Revocatória, é firme o entendimento jurisprudencial aqui representado por acórdão do STJ, que já decidiu inúmeras vezes que "o início do prazo decadencial de um ano para a revocatória é contado a partir da efetiva publicação do aviso de que trata o art. 114 da Lei Falimentar (e-STJ fl. 662).
+(c)arts. 337, § 5º, do CPC/2015, 7º, § 2º, e 56 do Decreto-Lei n. 7.661/1945 e34 da Lei n. 6.024/1974-incompetência absoluta e decadência:
+(..) acerca da competência, vale destacar que sendo a ação revocatória o meio adequado para que a Recorrida buscasse a desconstituição de ato praticado pelo HSBC dentro do termo legal da liquidação extrajudicial, a competência para o processamento da demanda é do juízo falimentar, nos termos do que dispõem os artigos 7º, § 2º, e 56 do Decreto Lei 7.661 de 21/06/1945, bem como o artigo 34 da Lei 6.024/74, aqui tidos por violados (e-STJ fl.663).
+(..)tendo sido a Ação ajuizada somente em março/2008, evidencia-se a decadência (de um ano) para a propositura da Ação Revocatória, restando configurada a afronta ao art. 56, § 1º, da antiga Lei Falimentar, que dispõe que a "ação revocatória somente poderá ser proposta até um ano, a contar da data do aviso da sentença, publicado no Diário Oficial".
+Ademais, destaca-se o equívoco da decisão recorrida ao sustentar a impossibilidade de reconhecimento das matérias de ordem pública nessa fase processual (Cumprimento Provisório de Sentença).
+De largada, é de suma importância destacar que inocorre trânsito de julgado da Sentença que julgou o processo de conhecimento, já que contra a mesma pende Recurso Especial, possibilitando a análise das questões de ordem pública. (e-STJ fl. 664).
+A agravada apresentou resposta aos recursos (e-STJ fls. 850/862 e 907/916).
+É o relatório.
+Decido.
+Conheço do agravo e passo ao exame do recurso especial.
+Negativa de prestação jurisdicional
+Quanto à alegada ofensa ao art. 1.022 do CPC/2015, não assiste razão aorecorrente, pois as questões necessárias ao julgamento do caso foram decididas fundamentadamente, ainda que em sentido contrário do sustentado pela parte.
+Natureza jurídica do pedido formulado na ação ajuizada pela parte recorrida (imprescindibilidade da ação revocatória)
+A controvérsia estabelecida nos autos tem origem em agravo de instrumento interposto contra decisão proferidanos autos deação de obrigação de fazer, em fase de cumprimento provisório de sentença, quenão reconheceu a nulidade processual arguida pelo orarecorrente.
+Consta do acórdão impugnado que, na referida ação,a autora, massa falida, buscou "o encerramento da conta corrente mantida junto a instituição financeira requerida, bem como a restituição de valores indevidamente retidos" (e-STJ fl. 619).
+A decisão de primeira instância, objeto do agravo de instrumento, possui o seguinte teor (e-STJ fl. 619):
+Vistos.
+Em que pese o brilhantismo das alegações trazidas às fls. 349/366, tais não podem ser consideradas no momento processual que este feito se encontra, pois não traduzem as hipóteses estabelecidas nos incisos do artigo 525 do Código de Processo Civil. Oportuno observar que embora tenha alegada à incompetência absoluta deste juízo, tal não se referiu a execução, mas sim ao processo de conhecimento. Ademais, a impugnação já fora julgada, estando, no aguardo, tão somente do julgamento dos recursos interpostos. Intime-se.
+No agravo de instrumento interposto na origem, o recorrente argumentou que a sentença proferida no processo de conhecimentonão transitou em julgado, podendo "ser apreciados temas de ordem pública que não tenham sido objeto de debate e decisão anterior"(e-STJ fl. 10).
+Alegou que a "autora objetivou  ..  provimento jurisdicional destinado à desconstituição de ato praticado pelo HSBC dentro do termo legal da liquidação extrajudicial (com base em cláusula contratual regularmente pactuada) e a devolução dosvalores objeto daquele ato" (e-STJ fls. 20/21).
+Defendeu que a "análise conjunta da causa de pedir e dos pedidos formulados evidencia se tratar de evidente Ação de cunho revocatório, inexistindo qualquer possibilidade de se falar em "obrigação de fazer"" (e-STJ fl. 22).
+As circunstâncias apresentadas demonstrariama presença de duas nulidades processuais insanáveis: "i) a incompetência absoluta  do juízopara processar e julgar ação com nítida natureza revocatória; e ii) a inobservância ao prazo decadencial de um ano previsto em Lei" (e-STJ fl. 28).
+O Tribunal de Justiçaconsiderou que serialegítima a propositura deação revocatória para anulação de negócio fraudulento, circunstância não verificada, pois o caso, segundo o acórdão, está relacionadoa"contrato para financiamento de capital de movimento e abertura de crédito e financiamento para aquisição de bens móveis ou crédito pessoal ou prestação de serviços e outras avenças, em que se pretende o ressarcimento por obtenção de vantagem indevida" (e-STJ fl. 620).
+Além disso, segundo o acórdão recorrido, seria"inviável juridicamente a análise da alegada incompetência absoluta, uma vez que a questão  deveria  ficar restrita a fase de conhecimento, o que não ocorreu" (e-STJ fl. 620).
+No especial, orecorrente defendeu que "cabeao juiz conhecer de ofício matéria relativa à incompetência absoluta, nos termos do artigo 337, § 5º, do Código de Processo Civil, razão pela qual fica evidente que o entendimento firmado pelo acórdão embargado é completamente equivocado" (e-STJ fl. 655).
+Assiste razão ao recorrente, nesse aspecto, pois a hipótese sob exameversa sobre cumprimento provisório de sentença, ou seja, semtrânsito em julgado da decisão de mérito proferida no processo de conhecimento.
+Confiram-se:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. INCOMPETÊNCIA ABSOLUTA.SENTENÇA TRANSITADA. FASE DE CUMPRIMENTO. QUESTÃO PRECLUSA. AÇÃO PRÓPRIA. ARTIGO 485, II, DO CPC. NÃO PROVIMENTO.
+1. A incompetência absoluta do juízo para o processo de conhecimento deve ser alegada em ação própria se a sentença já transitou em julgado. Precedentes.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1357887/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/06/2014, DJe 01/07/2014.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. TEMPESTIVIDADE. INDISPONIBILIDADE DO SISTEMA. PETICIONAMENTO DO RECURSO NO DIA POSTERIOR. POSSIBILIDADE.
+ERRO MATERIAL. CORREÇÃO. EXCEÇÃO DE COISA JULGADA. OBJEÇÃO NA FASE DE CUMPRIMENTO DE SENTENÇA. INADMISSIBILIDADE. MATÉRIA DE DEFESA OPONÍVEL NA FASE DE CONHECIMENTO. PRECLUSÃO.
+1. Há prorrogação do prazo recursal quando se comprovar que o sistema de peticionamento eletrônico do Superior Tribunal de Justiça esteve indisponível no último dia de vencimento do prazo processual por período superior a 60 minutos, ininterruptos ou não, no período de 6 às 23 horas (art. 7º da Resolução STJ/GP nº 10 de 6 de outubro de 2015).
+2. Na fase de conhecimento do processo devem ser arguidas todas as matérias defensivas disponíveis, pois com o trânsito em julgado da decisão definitiva da causa reputam-se repelidas todas as alegações que poderiam ter sido feitas pela parte e não o foram para a rejeição do pedido, nos termos de art. 474 do CPC (eficácia preclusiva da coisa julgada).
+3. As condições da ação e os pressupostos processuais, como a litispendência e a exceção de coisa julgada, são matérias de ordem pública e podem ser aventadas em qualquer tempo ou grau de jurisdição, mas até o trânsito em julgado da sentença de mérito (art. 267, § 3º, do CPC).
+4. A exceção de coisa julgada não suscitada apropriadamente na fase de conhecimento e, tendo havido o trânsito em julgado da decisão de mérito, não sendo fato superveniente a esta (art. 475-L do CPC), somente pode ser alegada na via da ação rescisória (art. 485, IV, do CPC) e não na fase de cumprimento de sentença.
+5. Embargos de declaração acolhidos com efeitos infringentes para sanar erro material. Agravo regimental não provido.
+(EDcl no AgRg nos EDcl no REsp n. 1.309.826/RS, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 1º/3/2016, DJe 7/3/2016.)
+Além disso, conforme a jurisprudência desta Corte,"se o ato impugnado subsume-se a uma das hipóteses previstas no art. 52 da Lei de Falência revogada - art. 129 da Lei n. 11.101/2005 -, mostra-se desnecessária a comprovação doconsilium fraudis, tendo em vista a lei prever como consequênciajuris et de juresua ineficácia em relação à massa" (AgInt no AREsp n. 901.010/SC, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/8/2016, DJe 29/8/2016).
+Ocorre que as teses deincompetência absolutae de decadência estão subordinadas ao reconhecimento de inadequação da via utilizada pela parte recorrida para formular suaspretensões emjuízo.
+No especial, o recorrentereiterou que a autora teria utilizado manobra jurídica com o intuito dedesviardo Juízo falimentar e driblar o prazo decadencial de um ano para a propositura da demanda realmente cabível,aação revocatória.
+Teria objetivadoprovimento jurisdicional destinado à desconstituição de ato praticado pelo HSBC dentro do termo legal de sualiquidação extrajudicial (com base em cláusula contratual regularmente pactuada), além dadevolução dos valores objetodaquele ato.
+Desse modo, "para que houvesse a possibilidade de restituição, pelo Recorrente, de numerário supostamente apropriado indevidamente, primeiro seria necessário o reconhecimento da invalidade do ato praticado pelo Banco, logo, a causa de pedir estaria diretamente vinculada à revogação do ato, a ser pleiteada através da ação revocatória" (e-STJ fl. 654).
+O banco insurgente defende que a hipótese dos autos se enquadranoart. 52,capute inciso I,da antiga Lei de Falências (Decreto-Lei n. 7.661/1945), norma aplicável ao caso,queassim dispõe (grifei):
+Art. 52. Não produzem efeitos relativamente à massa, tenha ou não o contratante conhecimento do estado econômico do devedor, seja ou não intenção deste fraudar credores:
+I -o pagamento de dívidas não vencidas realizado pelo devedor dentro do termo legal da falência, por qualquer meio extintivo do direito de crédito, ainda que pelo desconto do próprio título;
+Todavia, considerandoadescrição realizadana origem, acerca dosfatos que embasaram a ação proposta pela parte recorrida, não é possível concluirque o ajuizamentoda ação revocatória se enquadraria na previsão legal sustentada pelo recorrente.
+Com efeito, aleitura da petição inicial de fls. 38/53 (e-STJ) informaque a recorrida ajuizou ação de obrigação de fazer, alegando, em síntese, indevida compensação realizada pela instituição financeira para a satisfação de dívida, mediante o desconto dos valores existentes em conta-corrente que administra, não obstante a decretação do regime especial de liquidação extrajudicial da autora.
+A causa de pedir não versou sobreo pagamento de dívidas não vencidas realizado pelo devedor dentro do termo legal da falência.
+O dispositivoindicadonão possui carga normativa para amparar a insurgência, o que impede o conhecimento do recurso, nos termos da Súmula n. 284/STF, aplicada, por analogia, ao especial.
+As teses de incompetência absoluta e de decadência ficam prejudicadas, considerando a rejeição do tema relacionado à natureza da ação objeto de cumprimento provisório de sentença.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+O recorrente opôs embargos de declaração na origem, pois o acórdão teria partido de premissas equivocadas e incorrido em omissão quanto à incompetência absoluta e a respeito da verdadeira natureza jurídica da ação de obrigação de fazer proposta pelarecorrida.
+Verifica-se, todavia,quea Justiça estadual abordou as teses suspostamente omissas e julgou o recurso de forma fundamentada, apresentando os motivos formadores de seu convencimento e aplicando o direito que entendeu cabível, malgrado as conclusões tenham sido contrárias aos interesses dorecorrente.
+Quanto ao tema de fundo, cumpre reafirmar que alegislação federal suspostamente ofendida, efetivamente, não amparaa tese recursal, impossibilitando o exame da insurgência (Súmula n. 284/STF).
+Assim, não prosperam as alegações deduzidas, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
