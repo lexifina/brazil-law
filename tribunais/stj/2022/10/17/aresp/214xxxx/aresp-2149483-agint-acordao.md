@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Na origem, trata-se deação regressiva promovida pelo Instituto Nacional do Seguro Social -INSS, em desfavor de Cosan S.A. Açúcar e Álcool, atual Raízen Energia S.A., objetivando o ressarcimento dos valores despendidos com o pagamento de benefícios previdenciários decorrentes de acidente de trabalho sofrido por Sr. José Francisco Cláudio ao adentrar em máquina "colheitadeira", supostamente por negligência da empresa no cumprimento das normas de segurança e higiene do trabalho. Asentença concluiu pela improcedência do pedido.No Tribunal a quo, a sentença foi reformada, conforme a seguinte ementa do acórdão:
+PREVIDENCIÁRIO. APELAÇÃO. ACIDENTE DO TRABALHO.AÇÃO DE REGRESSO MOVIDA PELO INSS CONTRA EMPREGADORA RESPONSÁVEL PELO ACIDENTE. ART. 120 DA LEI 8.213/91. CULPA DO EMPREGADOR DEMONSTRADA. RECURSO PROVIDO.
+No recurso especial, a parte alega violação do art. 1.024 do CPC;arts. 19, § 2º, e 120,da Lei n. 8.213/91; e do art.184 da CLT.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante trazargumentos contrários à decisão recorrida.
+A parte agravadafoi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO.ACIDENTE DO TRABALHO. AÇÃO DE REGRESSO MOVIDA PELO INSS CONTRA EMPREGADORA RESPONSÁVEL PELO ACIDENTE. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N.284/STF. REEXAME DE FATOS E PROVAS. SÚMULA N. 7/STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação regressiva promovida pelo Instituto Nacional do Seguro Social -INSS, em desfavor de Cosan S.A. Açúcar e Álcool, atual Raízen Energia S.A., objetivando o ressarcimento dos valores despendidos com o pagamento de benefícios previdenciários decorrentes de acidente de trabalho sofrido por Sr. José Francisco Cláudio ao adentrar em máquina "colheitadeira", supostamente por negligência da empresa no cumprimento das normas de segurança e higiene do trabalho. A sentença concluiu pela improcedência do pedido. No Tribunal a quo, a sentença foi reformada.
+II - Na hipótese dos autos, verifica-se que o art. 1.024 do CPC não é apto, por si só, para sustentar a tese recursal. Registre-se que a via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+III - No mais, verifica-se que a pretensão recursal demanda reexame do acervo fático-probatório juntado aos autos, especialmente no que se refere àanálise do nexo de causalidade entre a negligência da empresa e o evento danoso. Portanto, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória o que é inviável em recurso especial, conforme dispõeaSúmulan. 7/STJ.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Na hipótese dos autos, verifica-se que oart. 1.024 do CPC não é apto, por si só, para sustentar a tese recursal.Registre-se que avia estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+No mais, verifica-se quea pretensão recursal demanda reexamedo acervo fático-probatório juntado aos autos, especialmente no que se refere àanálise donexo de causalidade entre a negligência da empresa e o evento danoso. Portanto, a pretensãodealterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimentodematéria fático-probatóriao que é inviável em recurso especial, conforme dispõeaSúmula n.7/STJ.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
