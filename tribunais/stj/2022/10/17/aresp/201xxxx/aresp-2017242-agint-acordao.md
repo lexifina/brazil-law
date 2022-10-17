@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por SPE CONSTRUTORA SÁ CAVALCANTE LIII LTDA.contra a decisão (fls. 701-704, e-STJ) que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, a agravante sustenta que, nos contratos de compra e venda de imóvel, havendo rescisão contratual pelo promitente comprador, é garantida, em favor do promitente vendedor, a retenção de 25% (vinte e cinco por cento) das parcelas pagas, nos termos da jurisprudência atual do Superior Tribunal de Justiça.
+Impugnação às fls. 725- 738, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL. CIVIL. IMÓVEL. PROMESSA DE COMPRA E VENDA. DECISÃO. PERCENTUAL DE RETENÇÃO. PARÂMETROS DE RAZOABILIDADE. SÚMULA Nº 565/STJ. ALTERAÇÃO. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou entendimento no sentido de que, nos casos de rescisão contratual de promessa de compra e venda de imóvel por desistência imotivada pelo comprador realizada antes da Lei nº 13.786/2018, deve prevalecer a retenção de 25% (vinte e cinco por cento) dos valores pagos como forma de compensação dos custos administrativos do empreendimento. Havendo peculiaridade que justifique, esse percentual pode ser reduzido.
+3. Na hipótese, amodificação do percentualfixado na origem demandaria a interpretação de cláusula contratual e o reexame do acervo fático-probatório dos autos, providências vedadas em recurso especial (Súmulas nºs 5 e 7/STJ).
+4.Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignaçãonão merece prosperar.
+Conforme expresso, trata-se de ação ajuizada pelo ora agravado objetivando a rescisão unilateral do contrato de promessa compra e venda de imóvel com a devolução integral dos valores pagos.
+A sentença, mantida pelo tribunal de origem,estipulou o percentual de retenção em 10% (dez por cento) do valor pago.
+O Tribunal de Justiça do Estado do Espírito Santo entendeu que a porcentagem correspondente a 10% (dez por cento) dos pagamentos realizados até a rescisão se mostra adequada ao presente caso, evitando-se, assim, o enriquecimento sem causa de qualquer uma das partes, consoante se observa da leitura da seguinte passagem do voto condutor:
+"(..)
+Ainda segundo jurisprudência do c. STJ, a retenção deve observar o percentual de 10% (dez por cento) a 25% (vinte cinco por cento), conforme as circunstâncias de cada caso para que a vendedora seja compensada pelos prejuízos suportados.
+(..)
+Assim, tenho que a retenção de 40% dos valores já pagos pelo comprador, conforme preveem as cláusulas 8.2 e 8.3 dos contratosfirmados entre as partes, representa abusividade da empresa apelante.
+Tendo em vista que no momento da busca pela dissolução do contrato a construção dos imóveis sequer havia sido finalizada (fl. 373), a construtora se absteve de diversos prejuízos, tais como despesas cartorárias, de maneira que entendo que agiu com acerto o magistrado primevo ao determinar a restituição de 90% (noventa por cento) do que foi pago pelo comprador.
+Do valor a ser restituído ao apelado, tenho que assiste razão à apelante no que concerne à dedução do que já foi pago em sede de tutela de urgência, tendo em vista que, por óbvio, a devolução de mais 90% (noventa por cento) dos valores acarretaria em enriquecimento ilícito do apelado.
+Assim, tendo em vista que já foi restituído ao comprador 60% (sessenta por cento) dos valores e depositado judicialmente 20% (vinte por cento), neste momento processual, deve haver o pagamento dos 10% (dez por cento) restantes, com o devido saque dos valores depositados anteriormente" (fls. 542-543, e-STJ - grifou-se).
+Tal entendimento está em consonância com a atual jurisprudência pacificada no âmbito da Segunda Seção desta Corte Superior, consolidadano sentido de que, nos contratos de compra e venda de imóvel, havendo rescisão contratual pelo promitente comprador, é garantida, em favor do promitente vendedor, a retenção de 25% (vinte e cinco por cento) das parcelas pagas, salvo peculiaridadedo caso concreto que autorize a fixação em percentual menor.
+Confira-se:
+"RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CONTRATO ANTERIOR À LEI 13.786/2018. INCORPORAÇÃO IMOBILIÁRIA. DESISTÊNCIA IMOTIVADA DO PROMISSÁRIO COMPRADOR. RESTITUIÇÃO PARCIAL. DEVOLUÇÃO AO PROMISSÁRIO COMPRADOR DOS VALORES PAGOS COM A RETENÇÃO DE 25% POR PARTE DA VENDEDORA. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO. PRECEDENTE FIRMADO EM JULGAMENTO DE RECURSO REPETITIVO.
+1. A despeito do caráter originalmente irretratável da compra e venda no âmbito da incorporação imobiliária (Lei 4.591/1964, art. 32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, de há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim de rescindir o contrato e receber, de forma imediata e em pagamento único, a restituição dos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ).
+2. Hipótese em que, ausente qualquer peculiaridade, na apreciação da razoabilidade da cláusula penal estabelecida em contrato anterior à Lei 13.786/2018, deve prevalecer o parâmetro estabelecido pela Segunda Seção no julgamento dos EAg 1.138.183/PE, DJe 4.10.2012, sob a relatoria para o acórdão do Ministro Sidnei Beneti, a saber o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos adquirentes, reiteradamente afirmado por esta Corte como adequado para indenizar o construtor das despesas gerais e desestimular o rompimento unilateral do contrato. Tal percentual tem caráter indenizatório e cominatório, não havendo diferença, para tal fim, entre a utilização ou não do bem, prescindindo também da demonstração individualizada das despesas gerais tidas pela incorporadora com o empreendimento.
+3. Nos termos da jurisprudência desta Corte, firmada pela Segunda Seção em julgamento submetido ao rito dos recursos repetitivos, "nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei n. 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão" (REsp 1.740.911/DF, DJe 22.8.2019).
+4. Recurso especial parcialmente provido" (REsp 1.723.519/SP, relatora Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 28/8/2019, DJe de 2/10/2019).
+Na espécie,a fixação da retenção não se deu em 25% (vinte e cinco por cento), porque, "no momento da busca pela dissolução do contrato a construção dos imóveis sequer havia sido finalizada (fl. 373), a construtora se absteve de diversos prejuízos, tais como despesas cartorárias" (fl. 543, e-STJ).
+Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. CONTRATO ANTERIOR À LEI Nº 13.786/2018. RESCISÃO. DESISTÊNCIA IMOTIVADA DO COMPRADOR. DIREITO DE RETENÇÃO. PERCENTUAL. ALTERAÇÃO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou entendimento no sentido de que, nos casos de rescisão contratual de promessa de compra e venda de imóvel por desistência imotivada pelo comprador realizada antes da Lei nº 13.786/2018 , deve prevalecer a retenção de 25% (vinte e cinco por cento) dos valores pagos como forma de compensação dos custos administrativos do empreendimento. Havendo peculiaridade que justifique, esse percentual pode ser reduzido.
+(..)
+4. Agravo interno não provido" (AgInt no REsp 1.956.747/PE, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 16/5/2022, DJe de 25/5/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ILEGITIMIDADE PASSIVA. SÚMULA 7 DO STJ. LEILÃO DO IMÓVEL. SÚMULA 283 DO STF. RESTITUIÇÃO E ARRAS. SÚMULA 83 DO STJ. TERMO INICIAL DA CORREÇÃO MONETÁRIA. FALTA DE PREQUESTIONAMENTO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. De acordo com a jurisprudência sedimentada na Segunda Seção desta Corte, no julgamento do REsp n. 1.723.519/SP, rel. Min. Maria Isabel Gallotti, DJe 02/10/2019, é razoável a retenção de 25% dos valores pagos pelos promissários compradores de imóvel, que desistiram da aquisição do bem, caso o acórdão recorrido não mencione qualquer peculiaridade que justifique a redução do parâmetro jurisprudencial.
+(..)
+6. Agravo interno não provido" (AgInt no AREsp1.956.285/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 25/4/2022, DJe de 27/4/2022).
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. DISTRATO POR INICIATIVA DO COMPRADOR. RESTITUIÇÃO DE VALORES. RETENÇÃO DE 25% DO VALOR PAGO. JURISPRUDÊNCIA SEDIMENTADA NA SEGUNDA SEÇÃO. CORREÇÃO MONETÁRIA. TERMO INICIAL. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS NºS 282 E 356 DO STF, POR ANALOGIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. A eg. Segunda Seção desta Corte, no julgamento do REsp nº 1.723.519/SP, concluiu pela possibilidade da rescisão de contratos de promessa de compra e venda de imóvel por interesse exclusivo dos adquirentes, nos termos do que dispõe a Súmula nº 543 do STJ, mesmo em contratos firmados antes da vigência da Lei nº 13.786/2018, como no caso.
+3. Na ocasião foi destacado que, em casos tais, deve prevalecer o percentual de retenção de 25% dos valores pagos, reputando referido índice como adequado para indenizar o construtor das despesas gerais e desestimular o rompimento unilateral do contrato.
+(..)
+5. Agravo interno não provido" (AgInt nos EDcl no AREsp 2.038.527/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022).
+Ademais, para modificar as conclusões do acórdão recorrido quanto ao ponto seria necessário reinterpretar as cláusulas do contrato e reexaminar o conjunto fático-probatório dos autos, o que atrai a aplicaçãodas Súmulas nºs 5 e 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DECOMPROMISSODECOMPRA E VENDA DE IMÓVEL AJUIZADA PELOS PROMITENTESCOMPRADORES.PERCENTUAL DE RETENÇÃO. REEXAME DE MATÉRIAFÁTICA DALIDE.SÚMULAS 5 E7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Verifica-se que o Tribunal estadual entendeu que o desfazimentodocontrato decorreu de culpa exclusiva dos promitentes compradores,sendodevida a retenção, pela promitente vendedora, de parte dosvaloresadimplidos.Na ocasião, concluiu ser adequada ao caso a retençãodopercentual de 10% (dez por cento) do montante jápago. Essa premissafoifundada em matéria fático-probatória, o que atrai a aplicação daSúmula7/STJ.
+2. Nas hipóteses de rescisão de contrato de promessa de compra e vendadeimóvel por iniciativa do comprador, é admitida a flutuação dopercentualda retenção pelo vendedor entre 10% e 25% do total da quantiapaga.Precedentes. Aplicação, no ponto, da Súmula 83/STJ.
+3. Agravo interno improvido" (AgInt no AREsp 1.788.690/PR, Rel.MinistroMARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 10/5/2021,DJe13/5/2021 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. PREQUESTIONAMENTO. AUSÊNCIA. 211/STJ. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. REVISÃO DO PERCENTUAL DE RETENÇÃO DOS VALORES PAGOS PELOS COMPRADORES. PERCENTUAL QUE OBSERVA A JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação declaratória de rescisão contratual c/c restituição de valores.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. Alterar o decidido no acórdão impugnado, no que se refere ao importe da retenção dos valores pagos pelos agravados (10% da quantia efetivamente desembolsada), em razão da abusividade de cláusulas contratuais, exige reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+4. A jurisprudência desta Corte de Justiça, nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por inadimplemento do comprador, tem admitido a flutuação do percentual de retenção pelo vendedor entre 10% a 25% do total da quantia paga. Súmula 568/STJ.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno não provido"(AgInt no AREsp 1.373.622/GO, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/5/2019, DJe 15/5/2019).
+Assim, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
