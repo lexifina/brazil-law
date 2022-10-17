@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que conheceu do Agravo para conhecer do Recurso Especial de João Raimundo dos Santos e de Maria de Fátima Luiz dos Santos, dando-lhe provimento e afastando a prescrição que fora reconhecida na origem.
+No Agravo Interno (fls. 378-386, e-STJ), a parte agravante defende que o acórdão de origem deve ser mantido, porquanto o prazo prescricional aplicável ao caso é aquele previsto no Decreto 20.910/32.
+Contrarrazões às fls. 412-419, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RESPONSABILIDADE CIVIL. SOCIEDADE DE ECONOMIA MISTA. PRAZO PRESCRICIONAL.
+1. Nos termos da jurisprudência do STJ, "o prazo prescricional quinquenal previsto no Decreto 20.910/1932 não se aplica às pessoas jurídicas de direito privado. Precedentes: REsp 1.608.717/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 26.6.2018; AREsp 640.815/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 20.2.2018; REsp 1.501.773/RS, Rel. Min. Diva Malerbi - Desembargadora Convocada, Segunda Turma, DJe 12.2.2016; REsp 1.247.370/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 14.9.2011." (REsp 1.648.042/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19.12.2018).
+2. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 16.9.2022.
+A irresignação não merece prosperar.
+Na origem, trata-se de Ação ajuizada por João Raimundo dos Santos e Maria de Fátima Luiz dos Santos contra o Estado do Ceará e a Companhia de Água e Esgotos do Ceará - CAGECE, ora recorrida, em razão da morte do filho menor do casal, por afogamento, no denominado "Canal do Trabalhador."
+Os autores sustentaram, em síntese, que a Companhia de Água e Esgoto do Estado do Ceará - CAGECE, por ser sociedade de economia mista, não poderia ser beneficiada pelo prazo prescricional quinquenal previsto no art. 1º do Decreto 20.910/1932. Argumentam, ainda, que o art. 1º-C da Lei 9.494/1997 não poderia retroagir para atingir fato pretérito.
+Realmente, a mais recente jurisprudência do Superior Tribunal de Justiça tem afastado o prazo previsto no Decreto 20.910/1932 nas demandas ajuizadas contra pessoas jurídicas de direito privado, ainda que integrantes da Administração Pública indireta.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DE COBRANÇA. CONTRATO PARA REALIZAÇÃO DE OBRAS. REAJUSTAMENTO DE REMUNERAÇÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.
+(..) II - O acórdão recorrido encontra-se em conformidade com o entendimento do STJ, que, em caso análogo, assentou que "as ações movidas contra as sociedades de economia mista não se sujeitam ao prazo prescricional previsto no Decreto-Lei 20.910/1932, porquanto possuem personalidade jurídica de direito privado, estando submetidas às normas do Código Civil. Assim, aplica-se o art. 206, § 3º, IV, do Código Civil de 2002, que estipula o prazo prescricional de três anos para as ações de ressarcimento por enriquecimento sem causa" (STJ, REsp 1.814.089/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 1º/7/2019). Ainda nesse sentido: AgInt no REsp 1.717.961/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 4/10/2018, DJe 24/10/2018; REsp 1.648.042/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2018, DJe 19/12/2018.) Nesse panorama, o dissídio alegado também merece acolhida.
+(..) VII - Agravo interno improvido. (AgInt nos EDcl no AREsp n. 1.902.665/RJ, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 10.8.2022)
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONTRATO ADMINISTRATIVO. CONSTRUÇÃO DE CONJUNTO HABITACIONAL. PRAZO PRESCRICIONAL. SOCIEDADE DE ECONOMIA MISTA.
+1. A compreensão esposada pela Corte de origem está em desacordo da pacífica orientação do STJ de que o prazo prescricional quinquenal previsto no Decreto 20.910/1932 não se aplica às pessoas jurídicas de direito privado. Precedentes: REsp 1.608.717/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 26.6.2018; AREsp 640.815/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 20.2.2018; REsp 1.501.773/RS, Rel. Min. Diva Malerbi - Desembargadora Convocada, Segunda Turma, DJe 12.2.2016; REsp 1.247.370/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 14.9.2011.
+2. A parte recorrente é sociedade de economia mista. Incidência do prazo prescricional previsto no art. 206, § 3º, IV, do Código Civil.
+3. Recurso Especial provido.(REsp 1.648.042/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19.12.2018)
+PROCESSUAL CIVIL, CIVIL E ADMINISTRATIVO. PREQUESTIONAMENTO. AUSÊNCIA. EMPRESA PÚBLICA BINACIONAL (ITAIPU). CONTRATO. ALTERAÇÃO DE CRONOGRAMA. INDENIZAÇÃO POSTULADA POR SUBCONTRATADA. PRAZO PRESCRICIONAL VINTENÁRIO. APLICAÇÃO. NOTIFICAÇÃO PARA FORMAÇÃO DE JUÍZO ARBITRAL. HIPÓTESE INTERRUPTIVA. INADMISSÃO. LAPSO PRESCRICIONAL. ESCOAMENTO.
+(..) 3. Esta Corte Superior já entendeu que o prazo de prescrição quinquenal, previsto no Decreto n. 20.910/1932 e no Decreto-Lei n. 4.597/1942, "aplica-se apenas às pessoas jurídicas de direito público (União, Estados, municípios, Distrito Federal, autarquias e fundações públicas), excluindo-se, portanto, as pessoas jurídicas de direito privado da Administração Pública Indireta (sociedades de economia mista, empresas públicas e fundações)" (REsp 1270671/RS, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 16/02/2012, DJe 05/03/2012).
+(..) 8. Agravo conhecido para conhecer parcialmente do recurso especial e, nessa extensão, dar-lhe provimento para julgar extinto o feito pelo reconhecimento da prescrição (CPC/2015, art. 487, II). (AREsp 640.815/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 20.2.2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. VALORAÇÃO JURÍDICA DOS FATOS. NÃO INCIDÊNCIA DA SÚMULA 7 DO STJ. PRAZO PRESCRICIONAL. SOCIEDADE DE ECONOMIA MISTA. APLICAÇÃO DAS NORMAS DE DIREITO CIVIL.
+(..) 2. O prazo de prescrição quinquenal, previsto no Decreto n.º 20.910/32 e no Decreto-Lei n. 4.597/42, aplica-se apenas às pessoas jurídicas de direito público (União, Estados, municípios, Distrito Federal, autarquias e fundações públicas), excluindo-se, portanto, as pessoas jurídicas de direito privado da Administração Pública Indireta (sociedades de economia mista, empresas públicas e fundações).
+4. Agravo interno a que se nega provimento.(AgInt no REsp 1.715.046/SP, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 14.11.2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. REDE ELÉTRICA. INSTALAÇÃO. CONTRATO DE FINANCIAMENTO. SOCIEDADE DE ECONOMIA MISTA. ILEGITIMIDADEPASSIVA. REEXAMEDE PROVA. PREQUESTIONAMENTO. PRESCRIÇÃO VINTENÁRIA. SÚMULA Nº 83/STJ.1 IMPOSSIBILIDADE. CORREÇÃO MONETÁRIA DEVIDA.
+(..) 2. O prazo prescricional previsto no Decreto nº 20.910/1932 não é aplicável às concessionárias de serviço público que ostentem personalidade jurídica de direito privado3. As sociedades de economia mista têm inequívoca natureza jurídica de direito privado, aplicando-se a elas a prescrição vintenária, consoante o disposto no art. 177 do Código Civil. Precedentes.
+4. Agravo regimental não provido.(AgRg no AREsp 805.223/SP, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 27.9.2018)
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
