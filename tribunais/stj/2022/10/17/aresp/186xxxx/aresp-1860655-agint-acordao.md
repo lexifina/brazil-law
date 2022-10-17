@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do agravo interpostocontra acórdão do Tribunal de Justiça do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. ADMINISTRATIVO. AÇÃO DE COBRANÇA MOVIDA EM FACE DO MUNICÍPIO DE VOLTA REDONDA E DO ESTADO DO RIO DE JANEIRO. ALEGAÇÃO AUTORAL DE DESVIO DE FUNÇÃO. AUTORA QUE FOI ADMITIDA PELA MUNICIPALIDADE PARA O EXERCÍCIO DA FUNÇÃO DE SERVENTE, MAS, POSTERIORMENTE, POR FORÇA DE CONVÊNIO DE COOPERAÇÃO FIRMADO ENTRE OS RÉUS, CEDIDA AO JUÍZO FAZENDÁRIO PARA EXERCER A FUNÇÃO DE OFICIAL DE JUSTIÇA AD HOC. DESVIO DE FUNÇÃO NÃO CARACTERIZADO. NOMEAÇÃO AD HOC QUE SE CARACTERIZA PELA FALTA DE HABITUALIDADE, AFASTANDO-SE O RECONHECIMENTO DA RELAÇÃO DE EMPREGO. EXISTÊNCIA DE DISTINÇÃO ENTRE AS FUNÇÕES E OS REQUISITOS A ELAS INERENTES. AUTORA REQUISITADA PARA PRESTAR SERVIÇO DE CARÁTER EVENTUAL E TEMPORÁRIO. INAPLICABILIDADE DA SÚMULA Nº 378 DO SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, I, do RISTJ, não conheço do agravo."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Diante disso, é inequívoco que a pretensão deduzida pela ora agravante em seu recurso especial, com vistas a desconstituir o argumento da suposta inocorrência de habitualidade como requisito impeditivo à configuração do direito vindicado na demanda, não esbarra no óbice da Súmula 7/STJ, posto que se pretende apenas reafirmar a jurisprudência já consolidada por esta Col. Corte acerca do tema e assegurar a correta aplicação da Lei nº 11.416/2006.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. REGIME ESTATUÁRIO. ENQUADRAMENTO.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+I - Na origem, trata-se de ação de cobrança de valores devidos a título de diferença salarial,relativo ao desvio de função, c/c danos moraiscontra o Município de Volta Redonda/RJ e o Estado do Rio de Janeiroobjetivando receber diferenças salariais devidas, a partir de 8/10/2012 até o último dia efetivamente trabalhado na função de Oficial de Justiça Avaliador ad hoc, ou seja, o dia 19/10/2015, com todos os benefícios decorrentes do cargo de Oficial de Justiça Avaliador e seus reflexos em férias, terço constitucional das férias, 13º salários, FGTS, descontadoo efetivamente já recebido, tudo devidamente atualizado com juros e correção monetária, bem como indenização por danos morais no valor de R$ 20.000,00 (vinte mil reais). Na sentença o pedido foi julgado improcedente. No Tribunala quo, a sentença foi mantida.
+II - Consoante relatado, a decisão combatida negou seguimento ao recurso especial em epígrafe, sob os fundamentos de inexistência de prequestionamento presumidoe o óbice da Súmula n. 7/STJ.
+III - Ocorre que a parte agravante limita-se, no presente inconformismo, a defender as teses abordadas no recurso especial, no sentido de que houve desvio de função, deixando incólume um dos óbices apontados (sobre o prequestionamento presumido), o qual se mostram suficientes à manutenção do decisum vergastado.
+IV - Nesse panorama, faz-se incidir, por analogia, o Enunciado Sumular n.182 doSTJ, pelo qual: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+V - Ainda que assim não fosse, verifica-se que a irresignação do recorrente acerca do reconhecimento do alegado desvio de função (e suas consequências) vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, concluiu pela não caracterização do desvio de função: "(..) o fato de inexistir relação de emprego, uma vez que a nomeação com natureza ad hocse caracteriza pela falta de habitualidade, tratando-se de colaboração com o Poder Judiciário em caráter eventual e temporário(fl. 301)."
+VI - Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+VII - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Consoante relatado, a decisão combatida negou seguimento ao recurso especial em epígrafe, sob os fundamentos de inexistência de prequestionamento presumidoe o óbice da Súmula n. 7/STJ.
+Ocorre que a parte agravante limita-se, no presente inconformismo, a defender as teses abordadas no recurso especial, no sentido de que houve desvio de função, deixando incólume um dos óbices apontados (sobre o prequestionamento presumido), o qual se mostram suficientes à manutenção do decisum vergastado.
+Nesse panorama, faz-se incidir, por analogia, o Enunciado Sumular n.182 do STJ, pelo qual: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ainda que assim não fosse, verifica-se que a irresignação do recorrente acerca do reconhecimento do alegado desvio de função (e suas consequências) vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, concluiu pela não caracterização do desvio de função:
+(..) o fato de inexistir relação de emprego, uma vez que a nomeação com natureza ad hocse caracteriza pela falta de habitualidade, tratando-se de colaboração com o Poder Judiciário em caráter eventual e temporário. (fl. 301)
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
