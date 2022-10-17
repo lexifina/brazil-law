@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que deu parcial provimento ao recurso especial anteriormente negado por decisão doTribunal Regional Federal da 3ª Região, assim ementada:
+PROCESSO CIVIL. AGRAVO LEGAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. FUNDAÇÃO HABITACIONAL DO EXÉRCITO. PENHORA DE 30% DO SALÁRIO. IMPENHORABILIDADE DE SOLDOS E SALÁRIOS. ARTIGO 649, INCISO IV, DO CPC. RECURSO IMPROVIDO.1. O inciso IV do artigo 649 do Código de Processo Civil, com redação conferida pela Lei n.11.382/06, é claro ao dispor que são absolutamente impenhoráveis os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal.2. Uma vez demonstrado que o valor bloqueado refere-se à verba de natureza alimentar, não há razão para a constrição pretendida. Precedentes jurisprudenciais.3. Agravo legal a que se nega provimento.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, dou provimento ao agravo interno para, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conhecer do agravo e dar parcial provimento ao recurso especial, reconhecendo a possibilidade de penhora somente do montante que exceder quarenta salários mínimos depositado não apenas em cadernetas de poupança, mas também em conta- corrente ou em fundos de investimento, ou guardados em papel-moeda."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+"Portanto, segundo a orientação formada nos precedentes acimas, só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes, pelo que, equivocou-se a r. decisão monocrática agravada ao negar provimento ao Recurso Especial em relação ao pedido de penhora de salário, assentando que somente seria penhorável montante que exceder quarenta salários mínimos depositado em cadernetas de poupança, em conta-corrente ou em fundos de investimento, ou guardados em papel moeda."
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. DIREITO PÚBLICO. DIREITO MILITAR.PENHORA DO SALÁRIO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. ART. 883, X, CPC/2015.
+I - Na origem, trata-se de agravo de instrumento contra decisão que, em execução de execução, rejeitou o pedido de penhora de 30% do salário do agravado.No Tribunala quo, negou-se seguimento ao pedido.
+II - O Superior Tribunal de Justiça firmou entendimento segundo o qual, nos termos do disposto no art. 649, X, do CPC/1973 (atual art. 833, X, do CPC/2015), é impenhorável o montante de até quarenta salários-mínimos depositado não apenas em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda.
+III - Quanto à alegação de que é possível realizar a penhora de 30% do salário do agravado, não merece acolhimento o presente pleito. É sabido que a Medida Provisória n. 2.215-10/2001 permite que o militar integrante das Forças Armadas autorize o desconto em folha de pagamento, desde que, excluídos os descontos obrigatórios e os autorizados, a remuneração ou os proventos não sejam inferiores a 30%.
+IV - Ocorre que tal entendimento se aplica exclusivamente às hipóteses de empréstimo consignado, caso de "desconto autorizado" em que o Militar expressamente anui com os descontos em folha de pagamento, o que não é a hipótese dos autos.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O Superior Tribunal de Justiça firmou entendimento segundo o qual, nos termos do disposto no art. 649, X, do CPC/1973 (atual art. 833, X, do CPC/2015), é impenhorável o montante de até quarenta salários-mínimos depositado não apenas em cadernetas de poupança, mas também em conta-corrente ou em fundos de investimento, ou guardados em papel-moeda.
+Quanto à alegação de que é possível realizar a penhora de 30% do salário do agravado, não merece acolhimento o presente pleito. É sabido que a Medida Provisória n. 2.215-10/2001 permite que o militar integrante das Forças Armadas autorize o desconto em folha de pagamento, desde que, excluídos os descontos obrigatórios e os autorizados, a remuneração ou os proventos não sejam inferiores a 30%.
+Ocorre que tal entendimento se aplica exclusivamente às hipóteses de empréstimo consignado, caso de "desconto autorizado" em que o Militar expressamente anui com os descontos em folha de pagamento, o que não é a hipótese dos autos.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
