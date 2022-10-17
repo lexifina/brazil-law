@@ -1,0 +1,75 @@
+RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 33 DA LEI Nº 11.343/06. CÁLCULO DE PENA PARA FINS DE PROGRESSÃO DE REGIME. CRIME EQUIPARADO A HEDIONDO. ARTIGO 5º, XLIII, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+
+- Seguimento negado, com fundamento no artigo 21, § 1º, do RISTF. Prejudicado o exame do pedido liminar.
+
+    Decisão: Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto contra acórdão do Superior Tribunal de Justiça nos autos do habeas corpus nº 749.537, assim ementado:
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. NATUREZA DO DELITO DE TRÁFICO DE DROGAS. LEI N. 13.964/2019. EQUIPARAÇÃO A DELITOS HEDIONDOS. MAIOR GRAVIDADE APONTADA PELA PRÓPRIA CONSTITUIÇÃO DA REPÚBLICA DE 1988. PRECEDENTES DA QUINTA E DA SEXTA TURMAS DESTA CORTE. NECESSIDADE DE SE MANTER A DECISÃO MONOCRÁTICA QUE INDEFERE A INICIAL.
+
+    1. Os precedentes das duas Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça são no sentido de que, diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5°, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo.
+
+    2. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas (AgRg no HC n. 736.796/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+
+    3. Agravo regimental improvido.”
+
+    Colhe-se dos autos que o paciente cumpre pena definitiva, em razão da prática do crime previsto no artigo 33 da Lei nº 11.343/06.
+
+    Após o advento da Lei nº 13.964/2019, a defesa requereu ao Juízo da execução a retificação do cálculo da pena. Contudo, o pleito foi indeferido.
+
+    Irresignada, a defesa interpôs agravo em execução perante o Tribunal de origem, que negou provimento ao recurso.
+
+    Ato contínuo, foi impetrado habeas corpus perante o Superior Tribunal de Justiça, que indeferiu liminarmente o writ.
+
+    Contra esse decisum, interpôs, ainda, agravo regimental, o qual foi desprovido nos termos da ementa supratranscrita.
+
+    Sobreveio o presente recurso ordinário em habeas corpus, no qual a defesa aponta constrangimento ilegal consubstanciado na equiparação do crime de tráfico de drogas aos crimes hediondos.
+
+    Afirma que “não há disposição expressa que considere o crime de tráfico de drogas equiparado aos crimes hediondos para todos os efeitos”.
+
+    Ao final, formula pedido nos seguintes termos:
+
+    “Posto isto, requer que essa Corte Suprema reconheça a ilegalidade do acórdão impugnado para, liminarmente, aplicar ao paciente a fração de 1/6 para a progressão de regime. No mérito, requer a concessão da ordem de habeas corpus em favor do assistido, para aplicar definitivamente a fração de 1/6 para a progressão de regime, conforme previsão do art. 112 da Lei de Execuções Penais.”
+
+    É o relatório, DECIDO.
+
+    In casu, inexiste situação que permita a concessão da ordem de ofício ante a ausência de teratologia na decisão atacada, flagrante ilegalidade ou abuso de poder. Por oportuno, transcrevo a fundamentação da decisão do Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+
+    “[...] Conforme expus ao decidir monocraticamente, os precedentes das duas Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça são no sentido de que, diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5°, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo.
+
+    Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas (AgRg no HC n. 736.796/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe16/5/2022).
+
+    Assim, a revogação do § 2º do art. 2º da Lei 8.072/90 pela Lei 13.964/2019 não tem o condão de retirar do tráfico de drogas sua caracterização como delito equiparado a hediondo, pois a classificação da narcotraficância como infração penal equiparada a hedionda decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal (AgRg no HC n. 729.332/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/4/2022). [...].”
+
+      Deveras, o art. 5º, XLIII, da CRFB preconiza que “a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem”.
+
+    Ressoa inequívoco que a exegese do dispositivo conduz à conclusão no sentido de que o crime de tráfico ilícito de entorpecentes e drogas afins não é hediondo, mercê de o constituinte fazer referência expressa a ambas as classificações. Em doutrina, Renato Brasileiro de Lima pondera, in litteris:
+
+    Consta do art. 5°, inciso XLIII, da Constituição Federal, que “a lei considerará inafiançáveis e ao suscetíveis de graça ou anistia a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores é os que, podendo evitá-los, se omitirem"
+
+    Como o constituinte inseriu a conjunção aditiva ‘e’ logo após fazer referência à tortura, ao tráfico e ao terrorismo, fazendo menção, na sequência, aos crimes definidos como hediondos, depreende-se que, tecnicamente, tais delitos não podem ser rotulados como hediondos. Logo, como o dispositivo constitucional determina que lhes seja dispensado tratamento idêntico, tortura, tráfico e terrorismo são tidos como crimes equiparados a hediondos.
+
+    A justificativa para o constituinte originário ter separado os crimes hediondos dos equiparados a hediondos está diretamente relacionada à necessidade de assegurar maior estabilidade na consideração destes últimos como crimes mais severamente punidos. Em outras palavras, a Constituição Federal autoriza expressamente que uma simples Lei Ordinária defina e indique quais crimes serão considerados hediondos. No entanto, para os crimes equiparados a hediondos, o constituinte não deixou qualquer margem de discricionariedade para o legislador ordinário, na medida em que a própria Constituição Federal já impõe tratamento mais severo à tortura, ao tráfico de drogas e ao terrorismo. (LIMA, Renato Brasileiro de. Legislação criminal especial comentada - Volume único, 8. ed. Salvador: JusPodivm, 2021, p. 349)
+
+    Na mesma linha é a doutrina de Alexandre de Moraes (in: Constituição do Brasil Interpretada e Legislação Constitucional. 9ª ed., São Paulo: Atlas, 2013, p. 264.)
+
+    Outrossim, este Supremo Tribunal Federal, em ambas as Turmas, ao enfrentar o tema, tem se posicionado no sentido da ausência de identidade entre o crime de tráfico ilícito de entorpecentes e os crimes hediondos, sem que isso signifique a impossibilidade de receberem o mesmo tratamento. Nessa linha:
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. CÁLCULO DE PENA PARA PROGRESSÃO DE REGIME. TRÁFICO DE DROGAS. CRIME EQUIPARADO A HEDIONDO. 1. Nos termos do art. 5º, XLIII, da Constituição da República, a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem. 2. Como se verifica do próprio texto constitucional, o tráfico de drogas, a tortura e o terrorismo não são crimes hediondos, porém a eles se aplicam as regras previstas em lei (ALEXANDRE DE MORAES, Constituição do Brasil Interpretada e Legislação Constitucional, 9ª ed., 2013, Atlas, p. 264, item 5.70). São, portanto, infrações penais equiparadas aos delitos hediondos e, por consequência, terão o mesmo tratamento a eles destinado. 3. Inexistência de constrangimento ilegal a ser sanado. 4. Agravo Regimental a que se nega provimento. (HC 218.576-AgR, Primeira Turma, Rel. Min. Alexandre de Moraes, DJe de 13/9/2022)
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES DE TRÁFICO DE DROGAS E DE ASSOCIAÇÃO PARA O TRÁFICO. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. EXECUÇÃO PENAL. CÁLCULO DE PENA PARA PROGRESSÃO DE REGIME. REVOGAÇÃO DO § 2º DO ART. 2º DA LEI 8.072/90 PELA LEI 13.964/2019. CIRCUNSTÂNCIA QUE NÃO AFASTA A HEDIONDEZ DA INFRAÇÃO PENAL. DELITO EQUIPARADO A HEDIONDO (ART. 5º, XLIII, DA CONSTITUIÇÃO FEDERAL). MANIFESTA ILEGALIDADE OU TERATOLOGIA NÃO IDENTIFICADAS. 1. Inadmissível, como regra, o emprego do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 2. Nos termos do disposto no inciso XLIII do art. 5º da Constituição Federal, o tráfico ilícito de substâncias entorpecentes (artigo 33, caput, e § 1º, Lei 11.343/2006) é figura típica equiparada aos crimes hediondos, assim discriminados na Lei 8.072/90. 3. A revogação do § 2º do art. 2º da Lei 8.072/90 pela Lei 13.964/2019 em nada influiu na caracterização da hediondez do delito de tráfico de drogas, porquanto a equiparação decorre de previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal. 4. Agravo regimental conhecido e não provido. (HC 215.182-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 31/8/2022)
+
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. A REVOGAÇÃO DO § 2º DO ART. 2º DA LEI 8.072/1990 PELA LEI 13.964/2019 NÃO RETIRA DO DELITO DE TRÁFICO DE DROGAS A SUA EQUIPARAÇÃO A CRIME HEDIONDO. PRECEDENTES DESTA SUPREMA CORTE. AGRAVO AO QUAL SE NEGA PROVIMENTO. I - Com efeito, em caso análogo ao presente, o Ministro Alexandre de Moraes, ao julgar o HC 214.741/SP, assentou “[...] que ‘a revogação do § 2º do art. 2º da Lei 8.072/90 pela Lei 13.964/2019 não tem o condão de retirar do tráfico de drogas sua caracterização como delito equiparado a hediondo, pois a classificação da narcotraficância como infração penal equiparada a hedionda decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal’”. No mesmo sentido: HC 215.832/SP, Rel. Min. Nunes Marques; HC 216.646/PR, Rel. Min. Nunes Marques; HC 215.831/SP, Rel. Min. Dias Toffoli; HC 216.838/SP, Rel. Min. Rosa Weber; entre outros. II - Agravo ao qual se nega provimento. (HC 215.771-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 5/9/2022)
+
+    Assim, diante da inexistência de teratologia ou flagrante ilegalidade no julgamento realizado, não se cuida de hipótese de concessão da ordem.
+
+    Ex positis, NEGO SEGUIMENTO ao recurso ordinário em habeas corpus, com fundamento no artigo 21, § 1º, do RISTF. Prejudicado o exame do pedido liminar.
+
+    Publique-se.
+
+    Brasília, 17 de outubro de 2022.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
