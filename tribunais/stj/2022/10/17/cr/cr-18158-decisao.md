@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Juízo de Competência Generica de Esposende,Juiz 2,do Tribunal Judicial da Comarca de Braga) solicita que se proceda à citação de MARIA ALICE MOREIRA MARQUES do pedido de Expropriação n. 622/20.3T8EPS, para que, no prazo de 20 dias, querendo, interponharecuso dedecisão arbitral(fl. 4).
+No processamento da carta rogatória, a observância da garantia do devido processo legal é imperativa (art. 36, caput, do CPC). A impugnação restringir-se-á à discussão quanto ao atendimento dos requisitos (ofensa à soberania nacional, à dignidade da pessoa humana ou à ordem pública; autenticidade dos documentos; e inteligência da decisão), sendo vedada a revisão do mérito do pronunciamento judicial estrangeiro (art. 36, § 2º, do CPC).
+Assim, no âmbito do procedimento preliminar à concessão da ordem, intime-se a parte interessada, no endereço indicado à fl. 4, para que, caso queira e com advogado constituído (art. 103 do CPC), impugne, no prazo de 15 dias, o pedido de concessão de exequatur (art. 216-Q do RISTJ).
+Caso não se encontre a parte interessada, remetam-se os autos ao parquet para que, se possível, forneça outro endereço para localização.
+Na hipótese de revelia, de apuração da incapacidade do interessado (art. 216-R do RISTJ) ou de não localização da parte interessada (AgRg na Carta Rogatória n. 9.556/PT), notifique-se a Defensoria Pública da União, a fim de que indique representante para atuar como curador especial e, nesse contexto, manifestar-se.
+Apresentada a resposta, encaminhem-se os autos ao Ministério Público Federal para que, em 15 dias, se manifeste sobre a concessão do exequatur (art. 216-S do RISTJ).
+Publique-se.
