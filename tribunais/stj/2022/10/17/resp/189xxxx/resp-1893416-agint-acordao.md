@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Cuida-se de agravo interno interposto por FUNDAÇÃO PARA PESQUISA E DESENVOLVIMENTO DA ADMINISTRAÇÃO CONTABILIDADE E ECONOMIA - FUNDACE, inconformada com a decisão de fls. 188/190 que negou provimento ao recurso especial em razão da incidência da Súmula 83/STJ.
+Em suas razões, o agravante aponta (a) que a decisão de origem não reflete a posição desta Quarta Turma, no sentido de que se permite a constrição das verbas salariais quando se comprovar que a penhora de parte dos valores não afeta a dignidade do devedor e de sua família e (b) que não há que se falar em salário módico, pois a questão foi analisada pelo juízo de 1º grau que entendeu por efetivar penhora de 10% do referido salário, de modo que é impossível adentrar-se no contexto fático-probatório.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+DIREITO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COBRANÇA DE DÍVIDA NÃO ALIMENTAR. PENHORA DE SALÁRIO. IMPENHORABILIDADE. SALÁRIO MÓDICO. IMPOSSIBILIDADE. EXCEPCIONALIDADE NÃO VERIFICADA. SÚMULA 83/STJ. RECURSO NÃO PROVIDO.
+1. Em regra, a remuneração do devedor só pode ser penhorada para pagamento de prestação alimentícia.
+2. A decisão de origem, ao afirmar ser impenhorável o salário de valor módico auferido pelo executado - aproximadamente um salário mínimo - em caso de dívida não alimentar, está em consonância com o entendimento desta Corte Superior. Incidência da Súmula 83/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar.
+Inicialmente, diversamente do alegado, a decisão ora agravada decidiu conforme o contexto fático-probatório contido no acórdão objeto de recurso especial, não havendo que se falar em incursão fática obstada pela Súmula 7/STJ.
+Ademais, tem-se que a incidência da Súmula 83/STJ é inafastável no presente caso.
+A Corte de origem, de acordo com o contexto fático-probatório contido nos autos, afirmou que deve incidir sobre o caso a regra geral de impenhorabilidade dos salários do recorrido frente a débitos diversos de prestação alimentícia, não havendo que se falar na exceção jurisprudencial por se tratar, in casu, de devedor que aufere salário em valor módico, in verbis:
+"O d. Juízo a quo deferiu a expedição de ofício ao INSS a fim de conhecer a empregadora do executado (fls. 184). Com a resposta (fls. 190/198), o d. Magistrado deferiu a penhora de 10% dos vencimentos diretamente em folha de pagamento. Contudo, a regra geral é pela impenhorabilidade dos vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal. A exceção legal é apenas para hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais. O caso dos autos, ainda, não se adequa à exceção legal.
+Não se ignora a posição do C. STJ a respeito da possibilidade de constrição de parte da verba de natureza salarial, ante a flexibilização da impenhorabilidade de ativos financeiros. Contudo, é a análise do caso concreto que permitirá a aferição da viabilidade da medida, consoante os próprios julgados colacionados pela agravada (fls. 48/88).E, na hipótese dos autos, não se vislumbra tal possibilidade. Isso porque o executado, ora agravante, não aufere rendimentos em valor elevado (fls. 97/98 dos autos principais), sendo, ao contrário, bastante módicos (aproximadamente 1 salário mínimo).Não se admite, portanto, a manutenção da penhora de 10% como pleiteia o agravado"(e-STJ, fls. 414/420)
+Nesse mesmo sentido, confiram-se os seguintes precedentes, que afirmam que a impenhorabilidade salarial poderá ser afastada, no caso de pagamento de dívida não alimentar, apenas quando os valores recebidos forem superiores a cinquenta salários mínimos e desde que ressalvadas particularidades concretas, devendo ainda ser respeitado percentual que assegure a dignidade do devedor:
+AGRAVO INTERNO PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO. PENHORA SOBRE SALÁRIO. POSSIBILIDADE DE FLEXIBILIZAÇÃO DA IMPENHORABILIDADE DE VERBA REMUNERATÓRIA. EXCEPCIONALIDADE.
+1. A regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvando-se eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família.
+2. Na hipótese, o valor originário da dívida objeto de cumprimento de ação de enriquecimento ilícito relativa a cheque emitido por pessoa física e endossado por pessoa jurídica, corresponde a R$ 5.026,58 (cinco mil e vinte seis reais). Não sendo dívida de verba alimentar, ausente notícia de verba salarial mensal superior a 50 salários mínimos, bem como ausente qualquer notícia do acórdão recorrido de particularidade no caso, impõe-se o respeito a regra da impenhorabilidade.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1847365/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/08/2020, DJe 13/08/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORABILIDADE DE VERBA SALARIAL. IMPOSSIBILIDADE.EXCEPCIONALIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO PROVIMENTO.
+1. Como regra, salários e vencimentos só podem sofrer penhora para pagamento de prestação alimentícia e, além dessa hipótese, em valores que excedam 50 (cinquenta) salários mínimos mensais (art.833, IV, § 2º do CPC/2015).
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1836544/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/06/2020, DJe 17/06/2020)
+Ante todo o exposto, nega-se provimento ao agravo interno.
+É como voto.
