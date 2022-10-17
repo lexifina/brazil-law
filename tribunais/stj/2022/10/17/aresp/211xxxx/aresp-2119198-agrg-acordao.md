@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+CEZAR AUGUSTO CIROLINI agrava de decisão na qual a Presidência desta Corte Superior não conheceu do agravo em recurso especial ante a ausência de impugnação específica aos fundamentos do decisum que inadmitiu o recurso especial na origem, quais sejam: "Súmula 7/STJ e Súmula 83/STJ" (fl. 401).
+O agravante aduz que o AREsp preencheu todos os requisitos, "pois em nenhum momento se pretendeu a reavaliação dos fatos contidos nos autos, tendo informado no Agravo que tais fundamentos não foram aplicados, tendo juntado quando do Recurso Especial vasta jurisprudência sobre o assunto, quando foi aplicado por vários tribunais a tese debatida" (fl. 407).
+Pleiteia a reconsideração do decisum ou o julgamento do agravo regimental pelo colegiado.
+O Ministério Público Federal, às fls. 419-421, opinou pelo não conhecimento do agravo regimental.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO. FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NÃO COMBATIDOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É ônus do agravante impugnar todas as causas específicas de inadmissão do recurso especial, sob pena de não conhecimento do agravo.
+2. A defesa deixou de combater os seguintes fundamentos nas razões do AREsp: Súmula n. 7 do STJ (absolvição) e Súmula n. 83 do STJ (palavra da vítima nos delitos patrimoniais). Isso motivou o seu não conhecimento.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+I. Regimental - não provimento
+O agravo em recurso especial tem como objetivo atacar todos os óbices apontados pelo Tribunal a quo ao negar seguimento ao recurso especial. Em obediência ao princípio da dialeticidade, aimpugnação não pode ser genérica.
+Ademais,"adecisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade"(AgRg nos EDcl no AREsp n. 1.785.474/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 3/5/2021).
+Deveras:
+ ..  o entendimento pacífico desta Corte é o da imprescindibilidade da impugnação de todos os fundamentos da decisão de inadmissibilidade, sejam eles autônomos ou não, "pois não existe identidade entre a lógica da Súmula n. 182 do STJ e a da Súmula n. 283 do STF, uma vez que o conhecimento, ainda que parcial, do agravo em especial, obriga a Corte a conhecer de todos os fundamentos do especial, inclusive os não impugnados de modo específico" (AgRg no AREsp n. 68.639/GO, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 2/2/2012).
+(EDcl no AgInt no AREsp n. 1.413.506/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 27/6/2019)
+No caso, a Corte de origem inadmitiu a pretensão com fulcro nos seguintes fundamentos (fls. 360-366):
+1. Alíneas "a" e "c" do art. 105, III, da Constituição da República 1.1 Não indicação dos dispositivos supostamente violados ou com interpretação diversa por outros tribunais
+A admissão do reclamo especial exige, quer pelas alíneas "a" e "b", quer pela alínea "c" do permissivo constitucional (Constituição da República, art. 105, III), além da indicação do(s) dispositivo(s) de lei federal contrariado(s) ou objeto(s) de interpretação divergente por outra Corte, a impugnação dos fundamentos da decisão recorrida ao interpretá-los, requisito imprescindível à compreensão da controvérsia jurídica e à comprovação do dissenso pretoriano.
+Contudo, o recorrente olvidou-se de indicar de forma clara e objetiva qual(is) dispositivo(s) de lei(s) federal(is) teria(m) sido violado(s) ou interpretados de forma divergente por outros tribunais, de modo que não é possível compreender, com a exatidão exigida nesta esfera recursal especial, os pleitos formulados.
+Vale ressaltar que a citação de passagem de artigos legais, por si só, não basta para demonstrar a contrariedade à lei federal ou divergência jurisprudencial, sendo necessário a indicação precisa dos dispositivos tidos por violados ou interpretados de maneira diferente por outros tribunais, bem como a exposição das razões pelas quais entende que o decisum teria malferido ou dado interpretação divergente a algum dispositivo infraconstitucional.
+Assim, a admissão do reclamo, no ponto, encontra óbice na Súmula 284 do Supremo Tribunal Federal, aplicável ao apelo especial por similitude: " É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Nesse norte:
+ ..
+Logo, a ausência de indicação precisa do(s) dispositivo(s) de lei(s) federal(is) que o recorrente entende ter(em) sido desrespeitado(s) ou recebido interpretação divergente por outro Tribunal torna o pedido incompreensível e evidencia a inobservância ao princípio da dialeticidade.
+Além disso, no tocante à interposição do reclamo com fundamento na alínea "c" inciso III do art. 105 da Constituição da República, o recorrente deixou de expor as razões pelas quais entende haver dissenso entre a decisão desta Corte e de outros Tribunais, de modo que, mais uma vez, a fundamentação do especial é deficiente incidindo também por isso a Súmula 284 do Supremo Tribunal Federal, por similitude.
+Se não bastasse, o recorrente também deixou de proceder ao necessário cotejo analítico, bem como de demonstrar a similitude fática entre decisões supostamente dissonantes e a comprovação da suposta divergência mediante certidão ou cópia autenticada de acórdãos paradigmas ou citação de repositórios oficiais, circunstâncias que, igualmente, inviabilizariam a ascensão do reclamo.
+Desse modo, o recurso não atende ao requisito previsto nos arts. 1.029, § 1º, do Código de Processo Civil, e 255, § 1º, do RISTJ.
+ ..
+1.2 Do pleito absolutório
+No ponto, o recorrente busca sua absolvição pelo delito de estelionato sob o argumento de que inexistem provas suficientes para firmar o decreto condenatório em desfavor do recorrente.
+Veja-se como a questão foi abordada no acórdão recorrido (Evento 18):
+A defesa pretende a absolvição do apelante, sob o fundamento, em síntese, de que as provas coligidas nos autos não são suficientes para imputar com exatidão a autoria delitiva a Cezar Augusto, e, em decorrência disso, não autorizam a prolação do édito condenatório.
+O recurso, adianta-se, não merece provimento.
+ ..  In casu, tanto a autoria, quando a materialidade do crime estão consubstanciadas por meio do boletim de ocorrência (evento 1, INQ4), das mensagens registradas (evento 1, INQ11), do termo de reconhecimento de pessoa (evento 1, INQ12), do comprovante de depósito (evento 22, OFIC78) e dos demais documentos reunidos na fase indiciária, corroborados que foram por toda a prova oral produzida.
+Com efeito, infere-se do contexto dos autos que no dia 10 de agosto de 2015, às 14h39min, na Rua Nereu Ramos, centro, na cidade de Xanxerê, Cezar Augusto Cirolini obteve para si indevida vantagem econômica em prejuízo de Rosemari Barcelos quando, aproveitando-se do fato de que Edson Marcos Scheis, marido de Rosemari, encontrava-se segregado no Presídio Regional de Chapecó, induziu-a em erro convencendo-a a depositar em seu favor o valor de R$ 15.000,00 (quinze mil reais), a pretexto de contratar um advogado capaz de obter a liberdade de seu marido, o que, efetivamente, não ocorreu.
+Nesse viés, a fim de elucidar as circunstâncias fáticas do presente caso, reportar-me-ei à respeitável sentença de Evento 90 sempre que necessário, pois bem transcreveu os elementos de convicção produzidos na audiência de instrução e julgamento e tomada de depoimentos na fase inquisitiva, cujos trechos reproduzidos passam a integrar a fundamentação deste voto.
+ ..  O apelante, por seu turno, durante a fase policial, exerceu seu direito constitucional ao silêncio (Evento 6, ofício 47). Em Juízo, não foi localizado para comparecer ao interrogatório judicial, razão pela qual foi decretada sua revelia (Evento 81).
+Denota-se, portanto, que a versão dos fatos apresentada pela defesa do recorrente, segundo a qual não teria praticado o delito, é derruída pelo conjunto probatório.
+Como se vê, os depoimentos da vítima, aliados aos relatos do seu irmão e marido, todos prestados em ambas as fases da persecução penal, fornecem total segurança a respeito do decisum condenatório, pois guardaram correspondência entre si e à dinâmica dos fatos.
+Todos, em uníssono, relataram que o acusado era conhecido de Edson (companheiro da ofendida) uma vez que ambos estavam cumprindo pena no mesmo ergástulo, tendo, ainda, Edson confidenciado ao apelante que havia um montante para receber de uma construtora.
+E foi assim que o recorrente, ao sair do presídio, resolveu induzir em erro a vítima Rosemari com o pretexto de que conhecia um advogado capaz de colocar seu marido em liberdade pelo valor de R$ 15.000,00 (quinze mil reais), forjando, ainda, a própria procuração de Edson.
+Após a transferência do montante pleiteado, a vítima logrou entrar em contato com o seu marido, descobrindo, assim, a artimanha do acusado, de modo que, ao solicitar a devolução amigável, o apelante faz algumas promessas de restituição do montante adquirido (as quais não foram cumpridas) e, inclusive, algumas ameaças.
+Ressalta-se, por oportuno, que nos crimes contra o patrimônio, por não raras vezes serem cometidos na clandestinidade, a palavra da vítima, quando coerente e harmônica com o acervo probatório produzido nos autos, reveste-se de especial relevância e é passível de fundamentar a sentença condenatória.
+Na mesma senda, esta Câmara Criminal entende que "os crimes contra o patrimônio, praticados normalmente de maneira clandestina, a declaração da vítima deve ser especialmente valorada, de modo que, em harmonia com os demais elementos constituídos no processo, autoriza a prolação da sentença condenatória." (TJSC, Apelação Criminal (Réu Preso) n. 2015.050595-3, de Tijucas, rel. Sérgio Rizelo, Segunda Câmara Criminal, j. 08-09-2015).
+Como se não bastasse, convém repisar que além das mensagens trocadas entre o acusado e a vítima (Evento 1, inq11, dos autos originários) e do reconhecimento fotográfico feito pela ofendida na fase inquisitorial (Evento 1, inq12, dos autos originários), tem-se, ainda, o comprovante de depósito datado de 10/08/2015, dando conta de que Agnes Construção e Incorporação efetivamente efetuou um depósito na conta corrente de Cezar Augusto, no valor de R$ 15.000,00 (quinze mil reais). Veja-se Evento 22, ofic78, dos autos originários.
+Nesse contexto, não há falar em inexistência de provas ou dúvida que recomende a absolvição, uma vez que os elementos contidos nos autos formam um conjunto probatório sólido e trazem segurança para o édito condenatório.
+ ..  Assim, todas as elementares do tipo estão presentes.
+O recorrente, imbuído do dolo de lesar a parte vitimada, prevalecendo-se da confiança da ofendida (era "colega de cela" do seu marido) e com o artifício de conseguir um advogado para colocar seu companheiro em liberdade, induziu e manteve Rosemari Barcelos em erro, para alcançar vantagem patrimonial imediata, uma vez que logrou obter o montante de R$15.000,00 (quinze mil reais) através de transferência bancária, causando-lhe prejuízos, até hoje não ressarcidos.
+Desse modo, mantém-se incólume a condenação pela prática do crime descrito no art.
+171, caput, do Código Penal.
+Em arremate, constata-se que a pena não merece reparos, haja vista que fixada com atenção às operadoras alinhadas no art. 59 do Código Penal e aos demais parâmetros legais, que garantem a sua individualização e contribuem para a efetivação dos objetivos da reprimenda, quais sejam: retribuição, prevenção e ressocialização do apenado.
+Destarte, conforme se apreende do trecho em epígrafe, a Corte catarinense, a partir da análise do arcabouço fático-probatório formulado no presente caderno processual, consignou que foram demonstradas a autoria e a materialidade delitivas, explicitando os fundamentos concernentes ao preenchimento das elementares
+do tipo penal.
+Assim, a insurgência recursal transborda as funções do Superior Tribunal de Justiça de primar pela correta interpretação do direito federal infraconstitucional e uniformizar a jurisprudência pátria, porquanto a alteração do entendimento citado demandaria a reelaboração da moldura fática delineada no aresto combatido - o que é vedado nesta via, conforme preconizado na Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+ ..
+Demais disso, ao explicitar que a palavra da vítima detém especial relevância na análise dos delitos patrimoniais, o acórdão hostilizado perfilhou tese congruente com a jurisprudência da Corte destinatária, motivo por que o expediente recursal também encontra óbice no preconizado pela Súmula 83 do STJ, in verbis: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+ ..
+Frisa-se que o teor da Súmula 83 do STJ também é " aplicável ao recurso especial interposto com fundamento na alínea "a" do permissivo constitucional" (STJ, AgRg no AREsp 1.441.188/SC, Relator Ministro Jorge Mussi, j. em 15.8.2019).
+Por todas essas razões, o recurso não preenche os requisitos de admissibilidade.
+Como se observa, o insurgente deixou de refutar, de forma direta, objetiva e eficaz, os seguintes fundamentos: Súmula n. 7 do STJ (absolvição) e Súmula n. 83 do STJ (palavra da vítima nos delitos patrimoniais).
+Conforme já registrado, é ônus do agravante a impugnação de todos os fundamentos da decisão que inadmitiu o recurso especial, em obediência ao princípio da dialeticidade que norteia os recursos, sob pena de não conhecimento do agravo. Dessa forma, está correta a decisão que não conheceu do AREsp.
+II. Dispositivo
+À vista do exposto, nego provimento ao agravo regimental.
