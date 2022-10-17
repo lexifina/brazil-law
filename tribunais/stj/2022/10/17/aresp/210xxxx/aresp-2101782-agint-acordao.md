@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao recurso especial, fundamentado no art.105, III, a, da CF/88, que visa reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim resumido:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. IPTU. EXERCÍCIOS DE 2011 A 2014. MUNICÍPIO DE RIBEIRÃO BONITO.EXCEÇÃO DE PRÉ-EXECUTIVIDADE. NÃO ACOLHIMENTO. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA "AD CAUSAM" CONSISTENTE EM CONTRATO DE COMPROMISSO DE COMPRA E VENDA. NÃO CONFIGURAÇÃO. APLICAÇÃO DOS ARTIGOS 34, 121, INCISO I E 123, TODOS DO CÓDIGO TRIBUTÁRIO NACIONAL. INCIDÊNCIA DO ENUNCIADO DA SÚMULA Nº 399 E DO PRECEDENTE VINCULANTE (TEMA Nº 122) DO E. STJ.DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Sucede, contudo, que a omissão é clara e, consequentemente, a afronta ao artigo 1.022, inciso II, do Código de Processo Civil é certa, uma vez que as peticionárias demonstraram e ressaltaram em mais de uma oportunidade que o Município de Ilha Solteira, ao tratar da cobrança que lhe competia em seu Código Tributário Municipal e, em obediência ao artigo 34, do Código Tributário Nacional, elegeu, dentre as várias alternativas que seriam possíveis, apenas o compromissário comprador para figurar no lançamento tributário em exame.
+ ..
+Apesar das várias tentativas das agravantes para que a questão, importantíssima ao deslinde da lide, fosse analisada pelos nobres julgadores, houve omissão em todas elas.
+ ..
+Sob qualquer ângulo que se observe, assim, não poderia o recurso especial ter provimento negado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. REJEIÇÃO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PROMESSA DE COMPRA E VENDA. DESPROVIMENTO DO AGRAVO INTERNO MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO VIOLAÇÃO DO ART. 1.022 DO CPC/2015.
+I - Na origem, trata-se de agravo de instrumento contra decisão que rejeitou a exceção de pré-executividade, sob o fundamento de ilegitimidade ad causam, com base em instrumento de promessa de compra e venda de imóvel gerador das exações impugnadas pela ora agravante. No Tribunal a quo,o agravo foi improvido. Opostos embargos de declaração, foram acolhidos em parte, sem modificação do resultado do julgamento embargado. Interposto recurso especial, teve seu seguimento negado. Seguiu-se por interposição de agravo. No STJo agravo foi conhecido para negar provimento ao recurso especial.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - É assente no STJ que "não há se falar em dissídio jurisprudencial com relação ao entendimento firmado em acórdão embargado quanto à existência ou não de ofensa ao disposto no art. 535 do Código de Processo Civil de 1973 (atual art. 1.022 do CPC/2015), na medida em que a verificação de ocorrência ou não dos vícios elencados nesse dispositivo processual depende das circunstâncias particulares do caso concreto" (AgInt nos EAREsp 543.036/SP, Corte Especial, relator Ministro Francisco Falcão, DJe 27.10.2017). Precedentes: AgInt nos EAREsp 1.246.594/SP, relator Ministro Felix Fischer, Corte Especial, DJe 17.12.2018; AgInt nos EAREsp 1.153.806/SC, relatora Ministra Nancy Andrighi, Corte Especial, DJe 9.10.2018; AgRg nos EREsp 1.803.437/SC, Rel. Ministro Herman Benjamin, Corte Especial, julgado em 9/6/2020, DJe 17/6/2020.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+É assente no STJ que "não há se falar em dissídio jurisprudencial com relação ao entendimento firmado em acórdão embargado quanto à existência ou não de ofensa ao disposto no art. 535 do Código de Processo Civil de 1973 (atual art. 1.022 do CPC/2015), na medida em que a verificação de ocorrência ou não dos vícios elencados nesse dispositivo processual depende das circunstâncias particulares do caso concreto" (AgInt nos EAREsp 543.036/SP, Corte Especial, relator Ministro Francisco Falcão, DJe 27.10.2017). Precedentes: AgInt nos EAREsp 1.246.594/SP, relator Ministro Felix Fischer, Corte Especial, DJe 17.12.2018; AgInt nos EAREsp 1.153.806/SC, relatora Ministra Nancy Andrighi, Corte Especial, DJe 9.10.2018; AgRg nos EREsp 1.803.437/SC, Rel. Ministro Herman Benjamin, Corte Especial, julgado em 9/6/2020, DJe 17/6/2020.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
