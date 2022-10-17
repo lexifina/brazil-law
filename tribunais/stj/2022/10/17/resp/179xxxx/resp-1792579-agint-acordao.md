@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por FUNDAÇÃO CESP, em face dasdecisõesassim ementadas:
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/73. PREVIDÊNCIA PRIVADA. FUNDAÇÃO CESP. CESSAÇÃO E RESTITUIÇÃO DAS CONTRIBUIÇÕES VERTIDAS POR ASSISTIDOS.
+1. A análise da alegada ilegitimidade passiva ad causam e a existência de litisconsórcio passivo necessário demanda a análise de direito local, vedado a teor da Súmula 280/STF.
+2. Elidir as conclusões do aresto impugnado quanto à legitimidade passiva da recorrente e à desnecessidade de inclusão da CTEEP demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nos termos da Súmula 7/STJ.
+3. Ausência de prequestionamento dos artigos da LC 109/2001, não se tendo sustentado negativa de prestação jurisdicional no recurso especial no tocante às normas previdenciárias alegadamente afrontadas.
+4. Inexistência de negativa de prestação jurisdicional, extraindo-se do acórdão análise acerca do específico ponto sobre o qual se sustentou a existência de omissão, não se configurando, assim, afrontado o art. 1.022 do CPC.
+5. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA CONHECER, EM PARTE, DO RECURSO ESPECIAL E NEGAR PROVIMENTO.
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL.PREVIDÊNCIA PRIVADA. DEVOLUÇÃO DE PARCELAS COBRADAS INDEVIDAMENTE. PRESCRIÇÃO.
+1. "Inaplicabilidade da prescrição trienal na espécie, pois a existência de causa jurídica afasta a hipótese de enriquecimento sem causa." (REsp 1803627/SP, minha relatoria, TERCEIRA TURMA, julgado em 23/06/2020, DJe 01/07/2020) 2. Aplicação do prazo geral de dez anos de prescrição (art. 205, caput, do CC/2002).
+3. Recurso especial conhecido em parte e provido.
+Nas razões do agravo, a parte agravante alega que o entendimento acerca do prazo prescricional decenal destoa da jurisprudência do STJ, pois no presente caso trata-se de ação fundada em descontos "a troco de nada", a demonstrar que não haveria relação obrigacional entre as partes, a determinar a incidência da prescrição trienal. Referiu que pende de julgamento os embargos de divergência opostos no RESP 1.803.627/SP, de forma que o tema deverá ainda ser definido pela Segunda Seção.
+Aduziu ainaplicabilidade dos óbice aplicados e repisaas alegações da peça inicial, denegativa de prestação jurisdicionalporquanto as teses alegadas pela agravante nos embargos de declaração opostos na origem são capazes de alterar o deslinde da controvérsia quanto "à (i) possibilidade de a Agravante arcar com a devolução dos valores descontados da Agravada. (ii) prova pericial não realizada nos autos" (fl. 1.509).
+Foi apresentada impugnação ao agravo interno.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL E NO RECURSO ESPECIAL.DIREITO CIVIL E PROCESSUAL CIVIL. CPC/2015. RESTITUIÇÃO DE CONTRIBUIÇÕES DE PREVIDÊNCIA COMPLEMENTAR.AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ACÓRDÃO FUNDAMENTADO NA LEGISLAÇÃO LOCAL, NOS TERMOS CONTRATUAIS E NAS CIRCUNSTÂNCIAS FÁTICAS DA DEMANDA. ÓBICE DAS SÚMULAS Nº 5 E 7/STJ E 280/STF.DIREITO CIVIL E PROCESSUAL CIVIL.PREVIDÊNCIA PRIVADA. DEVOLUÇÃO DE PARCELAS COBRADAS INDEVIDAMENTE. PRESCRIÇÃO.
+1. "Inaplicabilidade da prescrição trienal na espécie, pois a existência de causa jurídica afasta a hipótese de enriquecimento sem causa." (REsp 1803627/SP, minha relatoria, TERCEIRA TURMA, julgado em 23/06/2020, DJe 01/07/2020) 2. Aplicação do prazo geral de dez anos de prescrição (art. 205, caput, do CC/2002).
+2. Entendimento pacificado no âmbito da Segunda Seção, no julgamentos do AgInt nos EREsp n. 1.676.029/SP eAgInt nos EREsp n. 1.803.627/SP.
+3. AGRAVO INTERNODESPROVIDO.
+VOTO
+Eminentes colegas, a irresignação recursal não merece acolhida.
+Analiso, inicialmente, o agravo interno interposto contra a decisão que conheceu do agravo em recurso especial interposto pela agravante para, desde logo, negar provimento ao recurso especial.
+Percebe-se que as razões trazidas no agravo interno, de inaplicabilidade dos óbice aplicados,repisando as alegaçõesde negativa de prestação jurisdicional,não são aptas a desconstituir a decisão recorrida, cujos fundamentos passo aqui a reiterar.
+Ora, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia.
+O Tribunal de origem, no caso, julgou com fundamentação suficiente a matéria devolvida à sua apreciação, assim decidindo:
+De início, afasta-se a preliminar de cerceamento de defesa, não vislumbrada a necessidade de produção da pleiteada prova técnica, sendo certo que o juiz é sempre o destinatário das provas, e peritus peritorum.
+Patente a legitimidade ativa da Fundação demandada, recorrente.
+Ao contrário do que pretende fazer crer a ré, sua atuação não se ateve ao processamento da folha de pagamento, porquanto, também voltada à efetivação dos descontos das contribuições regidas pela legislação aplicável à espécie, afigurando-se efetivo vínculo previdenciário com os autores.
+Assim, independentemente da relação então existente entre ela e a CTEEP, os descontos eram efetuados pela referida Fundação, de forma que sua responsabilidade não se esvazia pelo simples fatos de os valores pertinentes virem a ser utilizados pela CTEEP, nada indicando ser ela mera intermediária.
+Bem andou, pois, o MM. Juiz a quo ao julgar extinto o processo em relação à Companhia CTEEP.
+Em decorrência, arcarão os demandantes com verbas sucumbenciais, sendo certo que a r. sentença acertadamente fixou os honorários advocatícios em 10% do valor dado à causa, tudo de acordo com o preceituado no art.
+85, § 2º, do CPC.
+Não há falar, ainda, em litisconsórcio necessário entre a CESP e a CTPEE, consignando que esta, sucessora da primeira, é parte ilegítima para figurar no polo passivo da ação, sendo certo que, se caso, poderá a ora recorrente demandar regressivamente.
+(..) Tendo em conta que, como bem ponderado pelo MM. Juiz a quo, o benefício de complementação de aposentadoria em tela (decorrente da Lei nº 4.819/58) já é custeado pelo Estado, aliado ao fato de que a ré não se insurgiu pontualmente quanto à arguição de inexistência de contraprestação, de forma que os descontos efetivados mostram-se irregulares e devem ser devolvidos aos requerentes.
+Portanto, houve emissão de juízo, pelo acórdão recorrido, acerca do alegado cerceamento de defesa e necessidade de prova pericial e da legitimidade da FCESP, ainda que com fundamentação diversa das teses alegadas pela recorrente.
+Destarte, não justifica a alegação de violação aos artigos 489 e 1.022 do CPC, uma vez que ocorreu pronunciamento sobre as questões postas. Ademais, o juiz não está obrigado a responder um a um os argumentos levantados pelas partes.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. VIOLAÇÃO DOS ARTS. 489 E 1022 DO CPC/15. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Agravo interno não provido. (AgInt no AREsp 1157866/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/03/2018, DJe 15/03/2018)
+Quantoasalegaçõesdeilegitimidade passivada recorrente;legitimidade passivaad causamda CTEEP; enriquecimento sem causa e ausência de plano de previdência com os demandantes, o que afasta a devolução/resgate dos valores requeridos, restaram rejeitadas pela Corte de origemcom base na análise das leis estaduais, nos termos contratuais, bem como nas circunstâncias fáticas da demanda.
+Desse modo, para se chegar a conclusão diversa da que chegou o Tribunal Estadual quanto à legitimidade passiva da insurgente, à desnecessidade de inclusão da CTEEP e à existência relação de natureza previdenciária estabelecida entre a Fundação CESP e os recorridos seria imprescindível o revolvimento do conjunto fático-probatório dos autos, bem como a interpretação de cláusulas contratuais, o que torna inadmissível o conhecimento de tais tópicos por esta Corte, consoante dispõem as Súmulas nº 5 e 7 do STJ.
+Outrossim, constata-se que o aresto atacado apresenta como fundamento a legislação local e a recorrente, apesar de indicar ofensa a dispositivos de lei federal, pretende, em verdade, a apreciação da matéria também com base na interpretação da legislação local, sendo de rigor, ainda, a aplicação, por analogia, da Súmula nº 280/STF.
+Registre-se que as questões referentes à ilegitimidade e legitimidade passivas e à inexistênciadeplano de previdência com os demandantesjá foram apreciadas por esta Corte Superior em julgados que, da mesma forma, encontraram óbice nas Súmulas nº 5 e 7 do STJ e 280/STF.
+A propósito, confiram-se:
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOVAÇÃO RECURSAL.PRECLUSÃO. CONTRIBUIÇÕES INDEVIDAS. RESTITUIÇÃO. FUNDAÇÃO CESP.PRESCRIÇÃO. PRAZO DECENAL. EXISTÊNCIA DE CAUSA JURÍDICA.ENRIQUECIMENTO SEM CAUSA. PRETENSÃO. SUBSIDIARIEDADE. ILEGITIMIDADE PASSIVA AD CAUSAM. CONDUTA IRREGULAR. RESPONSABILIDADE. REEXAME DE FATOS E PROVAS. DIREITO LOCAL. SÚMULAS NºS 5 E 7/STJ E Nº 280/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A alegação tardia de tese em agravo interno configura inovação recursal, insuscetível de exame diante da preclusão consumativa.
+3. A pretensão de cessação de descontos combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada prescreve em 10 (dez) anos (art. 205 do Código Civil), seja porque há causa jurídica (relação obrigacional prévia em que se debate a legalidade da cobrança), seja porque a ação de repetição de indébito é específica. Precedentes.
+4. No caso concreto, afasta-se o prazo prescricional trienal inscrito no art. 206, § 3º, IV, do CC, visto que a demanda não se enquadra na ação de enriquecimento sem causa (arts. 884 e 886 do CC), de natureza subsidiária, possuidora dos seguintes requisitos: enriquecimento de alguém; empobrecimento correspondente de outrem;relação de causalidade entre ambos; ausência de causa jurídica; e inexistência de ação específica.
+5. Na hipótese, o tribunal de origem, examinando a legislação local (Leis Estaduais nºs 136/1951, 1.974/1952, 4.819/1958 e 200/1974), bem como os fatos e as provas da causa, concluiu que a Fundação CESP promovia descontos indevidos a título de contribuição a fundo de previdência complementar.
+6. No caso em apreço, rever a conclusão no que diz respeito à legitimidade passiva ad causam e à responsabilidade pela conduta irregular encontra os óbices das Súmulas nº 280/STF e nºs 5 e 7/STJ.
+7. Agravo interno não provido.(AgInt no AgInt no REsp 1712736/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/03/2021, DJe 12/03/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER c/c PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Tendo o Tribunal a quo reconhecido a legitimidade passiva da Fundação e a desnecessidade de inclusão da Fazenda Pública do Estado de São Paulo e da CETEEP na lide e com amparo em norma de caráter local, inviável o seu exame na via do recurso especial. Incidência da Súmula 280/STF.
+1.1. Ademais, as conclusões do aresto reclamado acerca de tal questão estão amparadas no acervo fático-probatório constante dos autos, cuja revisão esbarra no óbice contido na Súmula 7/STJ.Precedentes.
+2. Os artigos 3º, 14, 18, § 1º, e 32, todos da LC nº 109/2001 não foram objeto de discussão no acórdão local, mesmo após a oposição dos aclaratórios, a atrair a incidência da Súmula 211 do STJ.
+3. Conforme jurisprudência desta Corte, é devida a majoração de honorários prevista no artigo 85, § 11, do NCPC, quando não conhecido ou desprovido o recurso.
+4. Agravo interno desprovido.(AgInt no REsp 1748964/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 12/08/2019, DJe 15/08/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESTITUIÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE.CERCEAMENTO DE DEFESA. MAGISTRADO. DESTINATÁRIO DA PROVA.LEGITIMIDADE PASSIVA. LEI LOCAL. APRECIAÇÃO. INVIABILIDADE. SÚMULA Nº 280 DO STF. REEXAME DE FATOS E PROVAS. SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A questão da negativa de prestação jurisdicional não foi suscitada no recurso especial, inviabilizando que seja levantada em agravo interno, por configurar inovação recursal.
+3. Cumpre ao magistrado, que é o destinatário da prova, em observância ao princípio do livre convencimento motivado, valorar conforme seu entendimento todas as provas e circunstâncias levadas a seu conhecimento para alcançar a resolução do conflito. Precedentes.
+4. O acórdão vergastado assentou que não era necessária a dilação probatória pretendida pela parte e que a CESP tinha legitimidade para figurar no polo passivo. Alterar as conclusões do acórdão impugnado exigiria incursão fático-probatória, em afronta a Súmula nº 7 do STJ.
+5. A apreciação da tese de ilegitimidade passiva ad causam da CESP e de legitimidade passiva da CTEEP e da Fazenda do Estado de São Paulo demanda a análise de lei local, inviável em recurso especial, nos termos da Súmula nº 280 do STF, aplicável por analogia.
+6. Agravo interno não provido.
+(AgInt no AREsp 1311167/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020).
+Quanto à apontada ofensa aos arts. 884, 885 e 927 do CC e artigos 14 e 18 da Lei Complementar nº 109, de 2001, o recurso especial não pode ser conhecido, pois, sobre as matérias de que tratam essas normas, não houve emissão de juízo pelo acórdão recorrido, mesmo com a oposição dos embargos de declaração, fazendo incidir a orientação da Súmula 211/STJ.
+Tal óbice, importante registrar, aplica-se tanto à interposição com base na alínea a do permissivo constitucional, quanto na alínea c.
+Ressalto que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art.1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel.Ministra Nancy Andrigui, Terceira Turma, julgado em 04/04/2017, DJe 10/04/2017).
+No presente caso, contudo, em que pese ter sido alegada a negativa de prestação jurisdicional pela recorrente, as razões dos embargos de declaração não ventilaram a necessidade de prequestionamento das referidas normas.
+Logo, não há como se ter como prequestionada a matéria. Nesse sentido:AgInt no AREsp 1043549/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 01/08/2017; AgInt no REsp 1633039/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/05/2017, DJe 24/05/2017.
+Quanto à prescrição, analisada no julgamento do recurso especial interposto pelos ora agravados, sem razão a recorrente.
+Com efeito, a matéria já restou pacificada no âmbito da Segunda Seção, conforme se depreende dos seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. AÇÃO DE OBRIGAÇÃO DE NÃO FAZER C/C PEDIDO DE DEVOLUÇÃO DE CONTRIBUIÇÕES INDEVIDAMENTE PAGAS. PRAZO DE PRESCRIÇÃO TRIENAL. INAPLICABILIDADE.
+INCIDÊNCIA DO PRAZO GERAL DECENAL.
+1. Segundo a atual jurisprudência de ambas as Turmas que compõem a Segunda Seção do STJ, o prazo prescricional aplicável à pretensão de restituição de contribuições vertidas indevidamente para fundo de previdência complementar, como na presente hipótese, é o decenal.
+Precedentes.
+2. Inaplicabilidade do prazo trienal previsto no art. 206, §3º, IV, do CC/2002, por não se tratar de ação subsidiária de in rem verso. Precedente da Corte Especial.
+3. Agravo interno não provido. (AgInt nos EREsp n. 1.676.029/SP, relatora Ministra Nancy Andrighi, Segunda Seção, julgado em 15/3/2022, DJe de 17/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA COMPLEMENTAR. RESTITUIÇÃO DE CONTRIBUIÇÕES INDEVIDAS. PRESCRIÇÃO DECENAL. SÚMULA N. 168 DO STJ.
+1. Inexiste atualmente divergência no âmbito da SEGUNDA SEÇÃO acerca do tema objeto destes embargos, tendo em vista que os últimos julgamentos realizados pela QUARTA TURMA (AgInt no REsp n. 1.638.321/SP e AgInt no REsp n. 1.721.823/SP), da mesma forma do acórdão ora embargado, adotou o prazo decenal para a ação na qual o autor pede a restituição de contribuições previdenciárias indevidas.
+2. Incidência da Súmula n. 168 do STJ, segundo a qual não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EREsp n. 1.803.627/SP, relator Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 29/6/2021, DJe de 1/7/2021.)
+Portanto, tanto o precedente citado pela agravante (RESP 1.676.029/SP) quanto os embargos de divergência opostos no RESP 1.803.627/SP tiveram julgamentos desfavoráveis a sua tese de aplicação da prescrição trienal.
+Ademais,não se sustenta a afirmação que a decisão agravada contraria o entendimento pacificado da Corte quanto a prevalência do prazo trienal, pois o próprio precedente citado como paradigma (RESP 1.676.029/SP) foi analisado pela Segunda Seção, atestando que a atual jurisprudência de ambas as Turmas que compõem a Segunda Seção do STJ é no sentido de incidência da prescrição decenal também naquele caso, assim como no caso dos autos, portanto.
+Vale destacar, por fim, que ambos os embargos de divergência julgados pela Segunda Seção tiveram votação unânime.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
