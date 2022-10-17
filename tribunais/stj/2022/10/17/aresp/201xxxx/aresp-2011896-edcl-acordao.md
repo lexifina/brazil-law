@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Trata-se de embargos de declaraçãoopostos porLara Central de Tratamento de Resíduos Ltda.contra acórdão proferido pela Primeira Turma deste Sodalício, assim ementado (fl. 350):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CUMPRIMENTO DE SENTENÇA. EXTINÇÃO. RECURSO CABÍVEL. APELAÇÃO. REEXAME DE ELEMENTOS FÁTICO-PROBATÓRIOS DOS AUTOS. IMPOSSIBILIDADE. SÚMULA7/STJ. FUNDAMENTO CONSTITUCIONAL DO JULGADO. NÃO INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ.
+1. OTribunala quoalinhou-se ao entendimento firmado no âmbito do STJ sobre o tema, segundo o qual "a apelação é o recurso cabível contra decisão que acolhe impugnação do cumprimento de sentença e extingue a execução" (AgInt no AREsp 1.868.808/PR, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 27/9/2021, DJe 3/11/2021).
+2. Aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, de modo a se concluir pela impossibilidade de cobrança dos honorários na espécie, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3.O Tribunal de origem, ao decidir a questão relativa aos honorários advocatícios, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ.
+4.Agravo interno a que se nega provimento.
+Aparte embargante sustenta, em resumo, que o julgado incorreu em omissão, pois não "indicou expressamente se os procuradores judiciais da EMBARGADA são considerados advogados públicos" (fl. 364).
+Requer, desse modo, o acolhimento dos aclaratórios para que sejasanado o vício apontado.
+Transcorreu, in albis, o prazo para impugnação (fl.369).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO.DECISÃO COLEGIADA. INEXISTÊNCIA DE QUALQUER DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição,omissão da decisão recorrida ou, ainda, para correção de erro material.
+2. No caso, não se verifica a existência de qualquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegados víciosno julgado embargado, traduzem, na verdade, o inconformismo da partecom a decisão tomada, pretendendo rediscutir o que já foi decidido.
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Não prospera a irresignação do embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição,omissão da decisão atacada ou, ainda, para correção de erro material.
+Entretanto, no caso dos autos, não se verifica a existência de qualquer dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, consignou-seno aresto hostilizado que a análise do pleito recursal (i) relativo aos honorários de sucumbência demanda o revolvimento de conteúdo fático-probatório dos autos, o que esbarrano óbice da Súmula 7/STJ e, (ii) quanto ao teto constitucional, incidea vedação prevista na Súmula 126/STJ.
+A propósito, confira-se oseguinteexcertodo acórdão embargado (fls. 353/354):
+Quanto à cobrança de honorários de sucumbência, colhe-se do julgado objurgado (fls. 134/136):
+Com efeito, ao contrário do que alega a impugnante, ora apelada, não estão os honorários advocatícios sucumbenciais arbitrados no título judicial exequendo abarcados no aludido acordo, mormente pelo fato de que os honorários lá incluídos se referem à execução fiscal que seria ajuizada pela Fazenda do Estado, e não à ação anulatória por ela ajuizada em face da Cetesb, que, inclusive, é pessoa jurídica distinta da Fazenda Pública, além de, obviamente, ter se defendido por meio de seu patrono no presente feito, inclusive em Segunda e Terceira Instâncias.
+Não se sustenta, portanto, a tese de que os honorários advocatícios incluídos na adesão ao programa de parcelamento abarcariam todos os honorários advocatícios advindos de toda e qualquer ação judicial no bojo da qual se discuta o débito tributário (no caso, multa ambiental).
+Adotar o entendimento que corrobora a possibilidade dessa extensão significaria conceder ao contribuinte, em verdadeira interpretação que contraria a sistemática legal que disciplina o tema e o próprio princípio da causalidade, blindagem à condenação em honorários advocatícios sucumbenciais em todas e quaisquer ações indistintamente ajuizadas para discutir o débito tributário (multa ambiental), desde que opte por participar de programa de parcelamento em momento posterior.
+ ..
+Assim, de rigor a rejeição da impugnação ofertada pela executada, mantendo-se sua condenação atinente às custas, despesas processuais ehonorários advocatícios fixados no título judicial exequendo, ante o princípio da causalidade, devendo-se prosseguir o cumprimento de sentença.
+Dessarte, é certo quea alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, de modo a se concluir pela impossibilidade de cobrança dos honorários na espécie, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Por fim, quanto ao teto constitucional, a instância recorrida assentou (fl. 164):
+O Excelso Supremo Tribunal Federal, no recente julgamento da ação direta de inconstitucionalidade nº 6.053 (19/06/2020), decidiu que apercepção de honorários advocatícios de sucumbência por advogados públicos não é inconstitucional,devendo, apenas, observar-se o teto constitucional,como se lê no seguinte excerto:
+O Tribunal, por maioria, declarou a constitucionalidade da percepção de honorários de sucumbência pelos advogados públicos e julgou parcialmente procedente o pedido formulado na ação direta para, conferindo interpretação conforme à Constituição ao art. 23 da Lei 8.906/1994, ao art. 85, § 19, da Lei 13.105/2015, e aos arts. 27 e 29 a 36 da Lei 13.327/2016, estabelecer que a somatória dos subsídios e honorários de sucumbência percebidos mensalmente pelos advogados públicos não poderá exceder ao teto dos Ministros do Supremo Tribunal Federal, conforme o que dispõe o art. 37, XI, da Constituição Federal, nos termos do voto do Ministro Alexandre de Moraes, Redator para acórdão, vencido o Ministro Marco Aurélio (Relator)."
+OTribunal de origem, ao decidir a questão relativa aos honorários advocatícios, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário"). Nesse mesmo sentido:AgInt no AREsp 1.702.175/GO, Rel. Ministro Marco Aurélio Belize, Terceira Turma, DJe 4/12/2020;AgInt no AREsp 1.642.570/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 27/11/2020.
+Dessarte, não podem ser acolhidos embargos de declaração que, a pretexto de alegados víciosno julgado, traduzem, na verdade, seu inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição dos presentes aclaratórios.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
