@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por BANCO DO NORDESTE DO BRASIL S.A em face de decisão do em. Presidente do STJ, que não conheceu do agravo em recurso especial em razão da falta de impugnação dos fundamentos do acórdão recorrido.
+Nas razões do recurso, o agravante alega, em síntese, que, "ao contrário do que concluiu a decisão ora agravada, o Banco impugnou especificamente os fundamentos da decisão de admissibilidade, demonstrando que não é cabível, no caso em exame, o trancamento do recurso com fulcro na Súmula 83/STJ" (fl. 254).
+Requer, ademais, a reconsideração da decisão agravada ou sua reforma pelo Órgão Colegiado (fls. 253/261).
+A parte agravada não foi intimada para apresentar contrarrazões, pois ainda não foi integrada ao feito (fl. 262).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO DE EXECUÇÃO. AUSÊNCIA DE CITAÇÃO. INÉRCIA DO AUTOR. PRESSUPOSTO DE VALIDADE. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A falta de citação do réu em razão de desídia atribuível ao autor que, apesar de devidamente intimado, deixou de fornecer endereço válido, configura ausência de pressuposto de validade da relação processual e enseja a extinção sem exame do mérito.
+2. A extinção do processo, por falta de providência do ato citatório, prescinde de prévia intimação pessoal do autor. Precedentes.
+3. Agravo interno provido para, em novo julgamento, conhecer do agravo e negar provimento ao recurso especial.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Nova leitura dos autos permite identificar que o agravante, nas razões do agravo em recurso especial, impugnou especificamente os fundamentos da decisão de inadmissibilidade do apelo, inclusive o relativo ao óbice da Súmula n. 83/STJ.
+Ante o exposto, dou provimento ao agravo interno para tornar sem efeito a decisão às fls. 249/251, passando a novo exame da controvérsia.
+Trata-se de agravo interposto em face de decisão de inadmissibilidade de recurso especial, fundado no art. 105, III, "a", da Constituição, interposto em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Norte, assim ementado:
+"DIREITO PROCESSUAL CI VIL APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO EXTRAJUDICIAL. TENTATIVA DE CITAÇÃO FRUSTADA. PARTE APELANTE QUE NÃO INFORMOU O ENDEREÇO DA PARTE DEMANDADA. EXTINÇÃO DO PROCESSO COM BASE NO ART. 485. IV, DO CÓDIGO DE PROCESSO CIVIL DE 2015. IRRESIGNAÇÃO DA PARTE EXEQUENTE. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DE DESENVOLVIMENTO VÁLIDO E REGULAR DO PROCESSO. MANUTENÇÃO DO DECISUM QUE SE IMPÕE. APELO CONHECIDO E DESPROVIDO." (fl. 175)
+Nas razões do apelo, o banco aponta ofensa ao art. 485, § 1º, do CPC/15, sustentando, em síntese, (a) "mesmo tendo ocorrido uma inércia da parte em relação a intimação para fornecer o endereço, não era possível, naquele momento processual, se concluir pela ausência de pressuposto de desenvolvimento válido do processo, pois se assim o fosse não haveria razão de ser do art. 830, 51º, do CPC, o qual prevê a providência nele contida, a saber, o arresto, exatamente no caso de ausência de citação, e nessa situação não há exigência de a parte indicar novo endereço para a sua aplicação" (fl. 214) e (b) "a inércia constatada naquele momento poderia implicar a providência prevista no Art. 485, 51º, do CPC, qual seja, a intimação pessoal da parte para suprir a inércia, sob pena de extinção do feito. Nesse diapasão, se a inércia do exequente não implica em ausência de pressuposto de validade do processo" (fl. 214).
+A parte recorrida não foi intimada para apresentar contrarrazões, pois ainda não integrada ao feito.
+O eg. Tribunal de origem confirmou a extinção do processo sem resolução de mérito, por falta de pressuposto processual de validade, tendo em vista que, depois de frustrada a tentativa de citação das rés no endereço declinado na inicial, o demandante deixou de impulsionar o feito a fim de integrá-las à demanda, transcorrendo in albis o prazo conferido pelo juízo de 1º grau para a regularização do processo. Destaca-se trecho do aresto:
+"No caso em tela, constatando-se que o mandado de citação restou sem cumprimento com o endereço indicado pelo Exequente determinada nova intimação para que trouxesse o endereço atualizado.
+Com efeito, a parte Recorrente foi intimada, por seu patrono (fl. 20v), no entanto, esta não promoveu a diligência.
+Assim, efetivamente a extinção ocorreu por ausência de pressuposto de constituição e desenvolvimento válido e regular do processo (art. 485, IV, CPC), não assistindo razão à instituição financeira quanto à necessidade de sua intimação pessoal, uma vez que tal medida apenas se justifica quando o feito ficar parado por mais de 1 (um) ano (art. 485, II. CPC) ou nos casos em que o autor deixe de promover os atos de sua competência por mais de 30 (trinta) dias (art. 485. III, CPC)." (fls. 178/179)
+Assim, após ter sido regularmente intimado acerca da impossibilidade de citação das rés no endereço informado na inicial, era dever do ora agravante informar endereço alternativo ou indicar outro meio de se promover a citação válida, como a por meio de edital, o que não ocorreu na presente hipótese.
+Desta forma, ausente pressuposto de constituição válido do processo, é de rigor a extinção sem resolução de mérito. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE EXEQUENTE.
+1. Ausência de violação ao artigo 932 do CPC. Segundo o entendimento sumulado no enunciado 568 do STJ, "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", como é o caso dos autos. Ademais, a possibilidade de interposição de insurgência para apreciação do órgão colegiado (artigo 1.021 do CPC) afasta qualquer alegação de ofensa ao princípio da colegialidade. Precedentes.
+2. Nos termos da jurisprudência deste Superior Tribunal de Justiça, a falta de citação configura ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo, ensejando a sua extinção, sendo prescindível a intimação prévia da parte demandante.
+2.1. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada na instância ordinária no tocante à desídia da parte em promover a triangularização processual, em período superior a 90 (noventa) dias, medida vedada pela via do recurso especial. Incidência da Súmula 7 do STJ.
+3. Agravo interno desprovido. (AgInt no AREsp 916.097/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/11/2019, DJe 12/11/2019, g.n)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL EM FACE DE DEVEDORES PRINCIPAL E SOLIDÁRIOS. AUSÊNCIA DE CITAÇÃO DE UM DOS LITISCONSORTES. DESÍDIA DA EXEQUENTE EM FORNECER ENDEREÇO VÁLIDO. EXTINÇÃO PARCIAL DO PROCESSO. PROSSEGUIMENTO DO FEITO EM RELAÇÃO AOS LITISCONSORTES CITADOS. INTIMAÇÃO PESSOAL. DESNECESSIDADE. AGRAVO DESPROVIDO.
+1. No caso, é cabível a extinção parcial do processo, com relação a um dos litisconsortes executados, que deixou de ser citado, em razão de desídia atribuível à exequente em fornecer endereço válido, prosseguindo o feito somente quanto aos litisconsortes citados.
+2. Segundo o entendimento do Superior Tribunal de Justiça, a extinção do processo, por falta de providência do ato citatório, prescinde de prévia intimação pessoal do autor. Precedentes.
+3. Agravo interno a que se nega provimento." (AgInt no AREsp 1361546/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/05/2019, DJe 22/05/2019, g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. FALTA DE CITAÇÃO. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. AUSÊNCIA DE PRESSUPOSTO DE CONSTITUIÇÃO E DESENVOLVIMENTO REGULAR E VÁLIDO DO PROCESSO. INTIMAÇÃO DO AUTOR. DESNECESSIDADE. AGRAVO NÃO PROVIDO.
+1. A falta de citação do réu configura ausência de pressuposto de validade da relação processual, ensejando sua extinção sem exame de mérito, prescindindo da intimação prévia do autor. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1409923/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/06/2019, DJe 01/07/2019, g.n)
+Incidente, portanto, o óbice da Súmula n. 83/STJ.
+Ante o exposto, dou provimento ao agravo interno para tornar sem efeito a decisão às fls. 249/251 e, em novo julgamento, conheço do agravo para negar provimento ao recurso especial.
+É como voto.
