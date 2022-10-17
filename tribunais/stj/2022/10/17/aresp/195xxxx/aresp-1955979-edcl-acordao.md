@@ -1,0 +1,45 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM AGRAVO EM RECURSO ESPECIAL. VÍCIOS INTEGRATIVOS INEXISTENTES.
+1. Apenas se admitem embargos de declaração quando evidenciada deficiência no acórdão recorrido com efetiva obscuridade, contradição, ambiguidade ou omissão (art. 619 - CPP), hipóteses que não se fazem presentes. A hipótese também não é de correção de erro material (art. 1.022, III - CPC).
+2. A matéria foi decidida com a devida fundamentação, no sentido da incidência da Súmula 182 do STJ, na hipótese de ausência de impugnação específica ao um dos fundamentos autônomos da decisão combatida, e de que a prática de fraude à licitação relacionada à serviços da saúde, não considerada em outra fase da dosimetria da pena, denota maior gravidade da conduta e justifica a exasperação da pena-base.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO):  Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 1489):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A UM DOS FUNDAMENTO AUTÔNOMOS DA DECISÃO RECORRIDA. NÃO CONHECIMENTO, EM PARTE. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS DO DELITO. FRAUDE À LICITAÇÃO. SERVIÇO DE SAÚDE. EXASPERAÇÃO DA PENA.
+1. A ausência de impugnação específica ao um dos fundamentos autônomos da decisão combatida atrai, nesse ponto, a incidência do art. 1.021, § 1º, do CPC e da Súmula 182 do STJ.
+2. "A valoração negativa de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal" (AgRg no AREsp 1672105/MS, Rel.Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/08/2020, DJe 01/09/2020). A prática de fraude à licitação relacionada à serviços da saúde denota maior gravidade da conduta, não considerada em outra fase da dosimetria da pena.
+3. Agravo regimental conhecido em parte e, nessa extensão, improvido.
+Sustentam os embargantes que não incide a Súmula 182/STJ, uma vez que "restou claramente demonstrada as questões federais não apreciadas, no caso, o art. 155 e jurisprudência do próprio STJ demonstrando a questão federal" (fl.1.497).
+Alega que o acórdão "deixa de analisar questão atinente a dignidade da pessoa humana" (fl.1.497); e, quanto à dosimetria, que "há divergência no próprio STJ quanto ao tema", citando jurisprudência em amparo à tese. Argumenta que o aumento da pena se fundamenta, na espécie, em elementos ínsitos ao tipo penal.
+Requer o acolhimento dos embargos a fim de sanar os vícios apontados. Impugnação não apresentada.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  O acórdão embargado foi proferido nos seguintes termos:
+Inicialmente, os agravantes deixaram de infirmar o fundamento de que não houve pronunciamento do acórdão quanto à apontada violação do art. 155 do CPP, carecendo o recurso, no ponto, do indispensável requisito do prequestionamento, a atrair a incidência da Súmula 282 do STF.
+Nesse sentido: AgRg no AREsp 1905436/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 28/09/2021, DJe 04/10/2021. O agravo regimental, no ponto, não comporta conhecimento, incidindo, por analogia, a Súmula 182 do STJ.
+Quanto à dosimetria da pena, insurgem-se os agravantes contra a vetorial das circunstâncias do delito, valorada negativamente pelo Tribunal de origem, ao prover o recurso do Ministério Público, por "reputar que fraudes relacionadas a ações e serviços de saúde revestem-se de maior gravidade em relação a outros procedimentos licitatórios, tendo em vista os bens jurídicos que foram lesados (saúde e vida humana)" (fl. 1.124), nos seguintes termos (fls. 1.175-1.180):
+Com o acolhimento parcial da apelação do Ministério Público Federal, as penas restam assim fixadas:  ..
+3.3. DALCI FILIPETTO 3.3.1. Pena privativa de liberdade A culpabilidade é normal à espécie delitiva.
+O réu possui antecedentes criminais.
+Não há elementos para se perquirir sobre a personalidade. Conduta abonada por testemunhas.
+Os motivos são a busca de proveito econômico, e não refogem ao que se espera nesta espécie de ilícito.
+Desvalorada a vetorial circunstâncias, em face da conduta delitiva haver sido praticada em detrimento da saúde.
+Consequências normais à espécie, visto que os valores dos bens adjudicados pelas empresas SULMEDI e MULTIMEDI no certame não foram exacerbados (R$ 10.623,51 e R$ 216,00), não havendo notícia nos autos de que os bens pagos pelo ente público não foram efetivamente entregues. Não houve contribuição da vítima para o delito.
+Assim, considerando as circunstâncias judiciais do artigo 59 do Código Penal, fixo a pena- base no patamar de 02 (dois) anos, 06 (seis) meses e 15 (quinze) dias de detenção.
+3.4. REGINALDO ROSSI 3.4.1. Pena privativa de liberdade A culpabilidade é normal à espécie delitiva. O réu não possui antecedentes criminais, apenas ações penais e inquéritos policiais em curso. Veja-se que a jurisprudência do Superior Tribunal de Justiça firmou entendimento de que inquéritos policiais ou ações penais em andamento não se prestam a majorar a reprimenda, seja a título de maus antecedentes, conduta social negativa ou personalidade voltada para o crime, em respeito ao princípio da presunção de não culpabilidade, nos termos da Súmula n. 444/STJ (É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base) (STJ, AgRg no AREsp 756.758/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 29/06/2016, grifei). Não há elementos para se perquirir sobre a personalidade. Conduta abonada por testemunhas.
+Os motivos são a busca de proveito econômico, e não refogem ao que se espera nesta espécie de ilícito.
+Desvalorada a vetorial circunstâncias, em face da conduta delitiva haver sido praticada em detrimento da saúde.
+Consequências normais à espécie, visto que os valores dos bens adjudicados pelas empresas SULMEDI e MULTIMEDI no certame não foram exacerbados (R$ 10.623,51 e R$ 216,00), não havendo notícia nos autos de que os bens pagos pelo ente público não foram efetivamente entregues. Não houve contribuição da vítima para o delito.
+Assim, considerando as circunstâncias judiciais do artigo 59 do Código Penal, fixo a pena- base em 02 anos, 02 (dois) meses e 15 (quinze) dias de detenção.
+Nos termos da orientação jurisprudencial desta Corte, "A valoração negativa de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal" (AgRg no AREsp 1672105/MS, Rel.Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/08/2020, DJe 01/09/2020).
+Na hipótese, a prática de fraude a licitação relacionada à serviços da saúde denota maior gravidade da conduta, não considerada em outra fase da dosimetria da pena. Nesse sentido, mutatis mutandis, o seguinte precedente: AgRg no HC 548.035/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/03/2020, DJe 16/03/2020.
+Encontrando-se, assim, a vetorial das circunstâncias do delito devidamente fundamentada em elementos concretos, não inerentes aos tipos penais, deve ser mantida a decisão agravada.
+Por fim, ante a pretensão infringente dos embargos de declaração de fls. 1.446-1.455, com a determinação da sua complementação, nos termos do art. 1.024, §3º, do CPC (fl. 1.467), sobrevindo a interposição de novo recurso (fls. 1.470-1.480), fica sem objeto o anterior (fls. 1.446-1.455).
+Nesse contexto, conheço, em parte do agravo regimental e, nessa extensão, nego-lhe provimento. Julgo prejudicado o recurso de fls. 1.446-1.455.
+Pela matriz do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado ambiguidade, obscuridade, contradição ou omissão, o que claramente não ocorre na espécie. Também não se trata de correção de erro material (art. 1.022, III - CPC).
+A matéria foi decidida com a devida e clara fundamentação, no sentido de que a ausência de impugnação específica ao um dos fundamentos autônomos da decisão combatida atrai a incidência do art. 1.021, § 1º, do CPC e da Súmula 182 do STJ.
+Decidiu-se, ainda, que a prática de fraude à licitação relacionada à serviços da saúde, não considerada em outra fase da dosimetria da pena, denota maior gravidade da conduta e justifica a exasperação da pena-base.
+Os embargantes, à conta de supostos vícios integrativos, buscam a rediscussão da matéria, visando alterar a conclusão que resultou desfavorável, o que é incabível na via eleita, motivo pelo qual rejeito os embargos de declaração.
+É o voto.
