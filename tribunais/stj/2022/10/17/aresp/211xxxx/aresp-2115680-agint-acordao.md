@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por HM COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA., contra decisão monocrática que conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Ação: obrigação de fazer, ajuizada por HM COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA., em face de AGÊNCIA DE VAPORES GRIEG S/A.
+Sentença: julgou procedente o pedido, confirmando a decisão liminar concedida às fls. 56/59, condenando a agravada, definitivamente, a providenciar, pelo que for necessário, a liberação da carga no porto de destino à agravante, em três dias, possibilitando, pois, para que a carga seja efetivamente liberada dentro desse prazo, com a colocação em prática da medida que for adequada a esse desiderato, com a consequente baixa da pendência de frete registrada no Siscomex Carga, sob pena de multa, a cada dez dias de atraso ou fração, no valor de dez por cento do valor da carga a ser liberada (preço ajustado na operação de compra e venda), até alcançar o valor de cem por cento, sem prejuízo de condenação por má-fé processual e apuração de responsabilidade pelo crime de desobediência, nos termos dos arts. 519 e 536, § 3º, do CPC. Por fim, condenou a agravada a pagar as custas e os honorários, estes fixados em 10% sobre o valor dado à causa.
+Acórdão: negou provimento ao agravo interno interposto pela agravante, nos termos da seguinte ementa:
+"Recurso - Apelação - Existência de pressupostos que permitem ao relator julgar desde logo - Inteligência do disposto no art. 932 do Cód. de Proc. Civil - Caso, ademais, em que a interposição do regimental permite ao agravante levar a matéria ao conhecimento do colegiado.
+Obrigação de fazer - Liberação de carga em porto marítimo - Determinação à consignatária ou importadora - Inadmissibilidade por ausência de exibição do conhecimento de transporte - Decisão que deu parcial provimento à apelação mantida - Agravo interno improvido." (e-STJ fl. 310)
+Recurso especial: alega violação dos arts. 7º, Decreto-Lei 116/1967, 41, 553, I, 554, Decreto 6.759/2009. Sustenta que o conhecimento de embarque é documento que constitui prova de propriedade nas importações, porquanto apresenta o registro dos bens comercializados que foram recebidos a bordo, das condições do transporte e a obrigação de entrega ao destinatário legal no endereço pré-definido, bem como que a retenção de mercadorias possui caráter excepcional, cuja aplicação depende de expressa autorização legal.
+Decisão monocrática: conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Razões do agravo interno: sustenta a ocorrência do prequestionamento implícito e a desnecessidade de reexame de fatos e provas.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. INCIDÊNCIA DA SÚMULA 282/STF. PREQUESTIONAMENTO FICTO. AUSÊNCIA. INCONFORMISMO QUANTO A INCIDÊNCIA DA SÚMULA 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de obrigação de fazer.
+2. Não tendo o Tribunal de origem discutido os artigos tidos por violados e não verificado que a agravante opôs os devidos aclaratórios, a fim de fosse suprida eventual omissão perpetrada pela Corte local, não há que se falar em prequestionamento ficto da matéria, incidindo na espécie a Súmula 282/STF.
+3. A insurgência da agravante quanto à incidência da Súmula 7/STJ, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por ela manejado.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por HM COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA., contra decisão monocrática que conheceu do agravo e, com fundamento no art. 932, III, do CPC/15, não conheceu do recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A decisão agravada concluiu pela incidência da Súmula 282/STF ao caso, e, nesse ponto, a agravante defende a existência do prequestionamento ficto, argumentando que houve o
+No entanto, deve-se ressaltar que o prequestionamento ocorre quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, o que não ocorreu nos autos.
+É de se observar que se a questão suscitada não foi discutida pela Corte local e não foi verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade, não há que se falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015.
+Ainda, quanto o ponto, em que pese a argumentação apresentada, verifica-se que a agravante deveria ter provocado a Corte local, a fim de que fosse suprida eventual omissão por ela perpetrada, o que não restou configurado.
+Assim, de rigor a manutenção do óbice sumular como apontado na decisão agravada.
+Por fim, a agravante se insurge contra a incidência da Súmula 7 desta Corte ao caso. Para tanto, aduz que não resta qualquer controvérsia quanto aos fatos discutidos nos autos, de modo que não pretende que seja estabelecido reexame fático, tampouco probatório, porquanto pugnou-se, em sede de Recurso Especial, tão somente a aplicação do instituto da revaloração das provas apresentadas. a fim de que se dê a exata aplicação ao texto normativo invocado.
+No caso, a Corte local consignou que, para entrega das mercadorias transportadas era imprescindível a exibição do conhecimento de transporte original, ainda que eletronicamente emitido, uma vez que se trata de documento que comprova a titularidade da carga, na linha do que dispõe os arts. 576 e seguintes do antigo Código Comercial, bem como o próprio art. 754 do Código Civil.
+Também, entendeu a Corte local que sendo ele um título de crédito, poderia entrar em circulação mediante endosso, anotando-se, aqui, que nos documentos trazidos pela agravada não se vê a cláusula "não à ordem".
+Além disso, registrou a Corte local que, diante desta situação, não estava mesmo a agravada obrigada a entregar a mercadoria transportada à agravante antes da exibição do conhecimento de transporte.
+Assim, cumpre ressaltar que, na hipótese em que pretende impugnar a aplicação da Súmula 7/STJ, deve a agravante não apenas mencionar que o referido enunciado deve ser afastado, mas, além disso, também devem demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que não restou configurado.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO do presente agravo interno.
