@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno, interposto por MARCOS OLIVEIRA GUTIERREZ, contra decisão da presidência desta Corte, acostada às fls. 305-308, que conheceu do agravo para não conhecer do recurso especial, sob o fundamento de incidência dos enunciados 5, 7 e 211/STJ.
+A parte agravante, em suas razões recursais, aduz a inaplicabilidade dos verbetes supramencionados, visto o prequestionamento de toda a matéria objeto do apelo especial, além da desnecessidade de revolvimento de matéria fático-probatória dos autos.
+Repisa, ainda, as teses suscitadas no apelo especial, no sentido da impossibilidade de revisão do valor da multa contratual, bem como da necessidade de redimensionamento do ônus sucumbencial, o qual deve ser suportado inteiramente pela parte agravada.
+A parte agravada apresentou impugnação às fls. 326-331.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. DESPEJO. VIOLAÇÃO AOS ARTS. 421 E 422 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. ADMISSÃO DE PREQUESTIONAMENTO FICTO. NECESSIDADE DE INDICAÇÃO DE AFRONTA AO ART. 1.022 DO NCPC. MULTA CONTRATUAL. EXCESSIVIDADE. REDUÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. SUCUMBÊNCIA. REDIMENSIONAMENTO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI).
+2. No caso dos autos, o Tribunal de Justiça, com base no acervo fático-probatório carreado aos autos, concluiu pela necessidade de revisão do montante da multa contratual, porquanto excessiva.
+3. A modificação de tal entendimento lançado no v. acórdão recorrido, como ora postulado, demandaria o revolvimento de suporte fático-probatório dos autos, além da necessidade de interpretação de cláusulas contratuais, o que é inviável na via estreita do recurso especial, a teor do que dispõem as Súmulas 5 e 7 do Superior Tribunal de Justiça.
+4. É inviável, no caso, a revisão do quantitativo em que autor e ré decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fática, providência inviável no recurso especial, a teor do disposto na Súmula 7 do STJ.
+5. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+O recurso não prospera.
+Verifica-se inexistir prequestionamento dos arts. 421 e 422 do CC.
+Com efeito, esta Corte de Justiça, ao interpretar o art. 1.025 do Código de Processo Civil de 2015, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe de 10/04/2017).
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL. PREVIDÊNCIA PRIVADA. ART. 884 DO CÓDIGO CIVIL. VIOLAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. 1
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+2. Se a questão levantada não foi discutida pelo tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+3. Agravo interno não provido. (AgInt no AREsp 562.067/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017)
+Não bastasse, na hipótese, da leitura do acórdão recorrido, constata-se que o Tribunal de Justiça, com base no acervo fático-probatório carreado aos autos, concluiu pelo cabimento da revisão do valor da multa contratual em razão de sua excessividade, conforme se insere do seguinte excerto:
+Com relação à multa contratual pela rescisão antecipada do contrato de arrendamento rural, a aplicação dos princípios que vedam o eventual abuso do direito e o enriquecimento sem causa é ampla e não depende de eventual disparidade de forças entre as partes contratantes. É obrigação decorrente da própria natureza comutativa do contrato, a qual pressupõe a manutenção do equilíbrio econômico-fínanceiro das avenças, o que inclui das cláusulas punitivas às infrações contratuais em sua devida proporção (e nisso com o amparo das normas, cogentes, dos artigos 413 e 187 1 do Código Civil).
+ .. .
+Ou seja, a redução equitativa não existe para ser aplicada em alguns casos e em outros não. Há de se verificar no caso concreto se o montante estipulado encontra-se conforme ou não às circunstâncias particulares em análise e, a partir daí, decidir-se pela proporcionalização do valor da multa se e quando encontrado excesso, "..tendo-se em vista a natureza e a finalidade do negócio" (parte final do artigo 413 do Código Civil). O exame leva em conta a base objetiva e não subjetiva do negócio jurídico.
+ .. .
+Ou seja, e em suma, importa verificar não apenas se as vontades da spartes eram livres, mas principalmente as conseqüências do querer, o resultado concreto de se aplicar determinadas cláusulas contratuais. Esta a premissa de que se parte.
+Assim sendo a incidência de multa com lastro na desocupação e rescisão antecipada do contrato deverá considerar o tempo de cumprimento do arrendamento, calculado então sobre o valor cheio de três parcelas contratuais, como comumente se observa em contratos da espécie (fls. 231/233).
+Assim, a alteração de tal entendimento lançado no v. acórdão recorrido, como ora postulado, demandaria o revolvimento de suporte fático-probatório dos autos, além da interpretação de cláusulas contratuais, o que encontra óbice na via estreita do recurso especial, a teor do que dispõem as Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Outrossim, a apreciação, em sede de recurso especial, do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da existência de sucumbência mínima ou recíproca, esbarra no óbice da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CONTRATO BANCÁRIO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DEFEITO DE SERVIÇO. PRESCRIÇÃO QUINQUENAL. CDC. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. SUFICIÊNCIA PROBATÓRIA. PRINCÍPIO DO LIVRE CONVENCIMENTO DO JUIZ. REVISÃO. RELAÇÃO DE CONSUMO. CONFIGURAÇÃO. FALHA DE SERVIÇO. FRAUDE BANCÁRIA. RESPONSABILIDADE OBJETIVA DA INSTITUIÇÃO FINANCEIRA. EXCLUSÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. VERBA HONORÁRIA. ÔNUS DE SUCUMBÊNCIA. MANUTENÇÃO. REEXAME FÁTICO. INVIABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+ ..
+12. A jurisprudência desta Corte é firme no sentido de não ser possível a revisão do quantitativo em que autor e ré decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula nº 7/STJ. 13. A incidência da Súmula nº 7/STJ prejudica também o conhecimento do recurso quanto à divergência jurisprudencial alegada. 14. Agravo interno não provido. (AgInt no AREsp 1.173.934/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/09/2018, DJe
+21/09/2018)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
