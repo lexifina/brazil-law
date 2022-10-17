@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por SUL AMÉRICA COMPANHIA NACIONAL DE SEGUROS contra decisão monocrática desta relatoria (e-STJ, fls. 707-708), que conheceu do agravo para não conhecer do recurso especial, por ausência de prequestionamento da tese recursal sobre competência e legitimidade passiva.
+Em suas razões recursais (e-STJ, fls. 724-730), a parte agravante alega "que a recorrente, ora agravante, opôs os necessários Embargos de Declaração contra a r. decisão proferida pelo d. Juízo a quo, que, não obstante se tratar de matéria de ordem pública, quedou-se inerte quanto aos argumentos apresentados pela recorrente, rejeitando os Embargos de Declaração".
+Aduz a existência de prequestionamento pela oposição de embargos de declaração, nos termos previstos pelo art. 1.025 do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. SEGURO. CUMPRIMENTO DE SENTENÇA. LEGITIMIDADE PASSIVA E COMPETÊNCIA. SÚMULA 211/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial exige o prequestionamento da matéria de direito federal, ocorrente quando o Tribunal de origem manifesta-se inequivocamente acerca da tese recursal, condição não verificada quanto às teses de ilegitimidade passiva e incompetência, mesmo após a oposição de embargos de declaração. Incidência da vedação prevista na Súmula 211/STJ.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+As razões recursais não são suficientes para reformar a decisão agravada, a qual deve ser confirmada.
+Em suas razões de recurso especial, a parte agravante alegou violação dos arts. 525, § 1º, II, do NCPC/2015, 1º-A da Lei 12.409/2011 e 3º da Lei 13.000/2014, defendendo o seguinte: a) a competência da Justiça Federal para a apreciação da participação no processo da Caixa Econômica Federal nas ações de indenização securitária relativas ao Sistema Financeiro da Habitação (SFH), nos termos da tese fixada para o Tema 1.011 de Repercussão Geral; b) a ilegitimidade ativa dos autores que não são mutuários originais em contrato já quitado.
+Como dito na decisão impugnada, eis os fundamentos da Corte a quo quanto aos temas da competência e da legitimidade passiva:
+As questões relativas a incompetência absoluta e ilegitimidade ativa já foram apreciadas na fase de conhecimento (fls. 72/76 e 77/87, na origem), de modo que a matéria está preclusa.
+Inclusive, consta que o processo já foi remetido à Justiça Federal, onde se determinou o desmembramento para processamento e julgamento na Justiça Federal em relação às apólices públicas, e retorno dos autos à Justiça Estadual em relação aos autores que contrataram apólices privadas e aqueles não vinculados à extinta apólice de seguros do SFH (fls. 207/210, na origem).
+Portanto, não há que se falar em remessa dos autos à Justiça Federal ou reconhecimento da ilegitimidade ativa dos agravados.
+Assim, é inviável conhecer da tese recursal sobre a competência e a legitimidade passiva, porque o Tribunal de origem dela não conheceu, com fundamento na preclusão da matéria na fase de cumprimento de sentença, por ter sido apreciada na fase de conhecimento, circunstância que atrai o óbice da Súmula 282/STF.
+O prequestionamento é pressuposto específico do recurso especial, exigido inclusive para matérias de ordem pública (v.g.AgRg no AREsp 53.995/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/3/2016, DJe de 16/3/2016; e AgInt no AREsp 1.049.510/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/6/2017, DJe de 30/6/2017), o qual se configura por meio do efetivo exame, pelo Tribunal de origem, da questão referida no recurso especial, mesmo sem a expressa referência ao dispositivo legal apontado como violado, não bastando a simples arguição da matéria nas peças recursais (v.g.AgRg no REsp 1.128.378/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 3/5/2011, DJe de 9/5/2011).
+Além disso, caso existente omissão no acórdão recorrido sobre a matéria submetida à apreciação, mas não efetivamente examinada, compete ao recorrente a oposição de embargos de declaração e, persistindo o vício após o correspondente julgamento, a interposição do recurso especial demonstrando a violação do dispositivo legal que regula a correlata hipótese de cabimento dos declaratórios (arts. 1.022, II, do CPC/2015 e 535, II, do CPC/1973), visando à cassação da decisão para viabilizar a análise da matéria não julgada (v.g.AgRg nos EDcl no REsp 1.145.810/PR, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Segunda Turma, julgado em 1º/12/2015, DJe de 17/12/2015; e EDcl no REsp 1.356.413/DF, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 31/3/2014).
+Cumpre destacar a impossibilidade de reconhecimento do prequestionamento ficto previsto pelo art. 1.025 do CPC/2015, na medida em que há a necessidade de prévia declaração do vício do acórdão recorrido para suprimir o grau recursal, circunstância que nem sequer pode ser cogitada, uma vez que o recurso especial não tem por fundamento a violação do art. 1.022 do CPC/2015.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO MONITÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO OPOSTOS NA ORIGEM. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CPC/2015. NÃO OCORRÊNCIA. HONORÁRIOS SUCUMBENCIAIS. LEI VIGENTE À DATA DA FIXAÇÃO OU MODIFICAÇÃO. CPC/1973. APLICAÇÃO RETROATIVA DO CPC/2015. VEDAÇÃO. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça, ao interpretar o art. 1.025 do NCPC, concluiu que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017).
+(..)
+(AgInt no REsp 1.634.835/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/11/2018, DJe de 12/11/2018)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
