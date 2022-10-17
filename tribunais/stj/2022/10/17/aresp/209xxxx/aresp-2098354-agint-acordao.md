@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Humberto Martins.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que, confirmando o Juízo prelibatório, não conheceu do Recurso Especial por ausência de violação aos arts. 489 e 1022 do CPC e incidência da Súmula 7/STJ.
+Defende Fama Investimentos Ltda.:
+ ..
+14. Com todas as vênias, não se pode considerar suficiente a prestação jurisdicional que não responde fundamentos autônomos que têm aptidão para modificar o resultado do julgamento.
+15. Como demonstrado pela Agravante em seu recurso especial, o Tribunal de origem pautou suas conclusões em elementos que não se relacionam aos requisitos caracterizadores da exportação de serviço (portanto, irrelevantes). Dentre eles, a circunstância de que o serviço teria sido prestado no Brasil e o pagamento do serviço também teria se realizado no Brasil.
+ ..
+22. Por sua vez, a vocação para modificação do julgado decorrente da correção dos vícios apontados é evidente, na medida em que a aplicabilidade da regra de isenção prevista no artigo 2º, I, parágrafo único, da LC 116/03 figura como consequência lógica e necessária da supressão do fundamento central do acórdão recorrido (pilar de suas conclusões), qual seja, a de que o resultado do serviço seria a realização do investimento e, portanto, ocorreria no Brasil.
+23. Ainda, quanto ao pedido subsidiário (atipicidade), a simples remissão ao texto de lei (item da lista de serviços) que prevê a incidência do ISS sobre serviços de administração de fundos não é, por óbvio, suficiente para infirmar o fundamento de que o serviço discutido no caso concreto (pesquisa e gestão) não se subsome ao de "administração de fundos", sendo absolutamente distinto. Ao se limitar a reproduzir o texto legal, o Tribunal de origem não enfrentou as distinções entre eles, tampouco o fundamento de que a lista de serviços tributáveis pelo ISS é taxativa e não admite interpretação extensiva. Esse fundamento, da mesma forma, seria passível de reverter a conclusão a que chegou o julgado e, portanto, deve ser diretamente enfrentado.
+ ..
+27. Quando muito, pede-se que seja devidamente enquadrado e delimitado o conceito de "resultado do serviço" a partir dos fatos já reconhecidos pelo v. acórdão recorrido, o qual, nitidamente, volta suas conclusões aos "efeitos práticos", isto é, aos efeitos secundários e terciários do serviço prestado pela Agravante, ao invés de restringir sua análise ao conteúdo da relação contratual (prestação de serviço) reconhecidamente existente entre a Agravante e o tomador estrangeiro, que é o de pesquisa e gestão para fins de fornecer recomendações de investimento.
+ ..
+35. Demais disso, quando ao pedido subsidiário, a interpretação extensiva aos serviços congêneres deve ser interpretada à luz das balizas firmadas pelo Supremo Tribunal Federal no Tema 296 da repercussão geral (RE nº 784.439/AL), que reafirmou a taxatividade da lista de serviços tributáveis pelo ISS e admitiu que a interpretação extensiva sobre o vocábulo "congêneres" somente permitirá a incidência do imposto sobre "atividades inerentes aos serviços elencados em lei".
+36. Ora, não se pode considerar que o serviço de pesquisa e gestão de investimento seja inerente ao de administração de fundos, conforme pretendeu o Tribunal de origem. Trata-se de serviços autônomos, com materialidades próprias e, portanto, distintos. Admitir-se a extensão pretendida resultará na inclusão de novo serviço, não previsto em lei, no campo de incidência do ISS.
+Impugnação às fls. 1612 -1648, e-STJ.
+É o Relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ARTS. 489 E 1022 DO CPC. NÃO VIOLAÇÃO. IMUNIDADE TRIBUTÁRIA. EXPORTAÇÃO DE SERVIÇOS NÃO CARACTERIZADA. SÚMULA 7/STJ. APLICAÇÃO. SERVIÇO EXECUTADO DENTRO DO TERRITÓRIO NACIONAL. APLICAÇÃO DO ART. 2º, PARÁGRAFO ÚNICO, DA LC 116/03. PRECEDENTE.
+1. Trata-se de Agravo Interno contra decisão que, confirmando o Juízo prelibatório, não conheceu do Recurso Especial por ausência de violação aos arts. 489 e 1022 do CPC e incidência da Súmula 7/STJ.
+2. A irresignação não merece acolhida. O Recurso não comportou conhecimento por entender que o Tribunal a quo bem enfrentou o thema decidendum, não se configurando a violação aos arts 489 e 1022 do CPC. Em exposição de natureza doutrinária avançou sobre a incidência da Súmula 7/STJ e informou a impossibilidade de atendimento do pleito, sem a reinterpretação dos fatos.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 13 de setembro de 2022.
+A irresignação não merece acolhida. O Recurso não comportou conhecimento por entender que o Tribunal a quo bem enfrentou o thema decidendum, não se configurando a violação aos arts 489 e 1022 do CPC. Em exposição de natureza doutrinária avançou sobre a incidência da Súmula 7/STJ e informou a impossibilidade de atendimento do pleito, sem a reinterpretação dos fatos. Assim ficou consignado:
+ ..
+Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição, obscuridade ou erro material a serem sanados. Por conseguinte, não houve ofensa aos ats. 489 e 1.022 do Código de Processo Civil (CPC/2015).
+O Tribunal a quo, soberano na análise dos fatos e das provas constantes dos autos, concluiu que a recorrente é sujeito passivo da obrigação tributária concernente ao ISS. Não faz jus à isenção pretendida porque "o serviço efetivamente prestado pela sociedade apelante cinge-se ao território nacional", e seus resultados práticos ocorrem aqui mesmo. Os serviços prestados têm tipificação específica na Lista de Serviços anexa à Lei Complementar 116/2003. Rever tais entendimentos implica revolver o acervo fático-probatório, o que é inviável em Recurso Especial por incidência da Súmula 7/STJ.
+ ..
+Em sintonia com o art. 2º da LC 116/2003, esta Corte só reconhece a imunidade tributária do ISSQN na hipótese em que o resultado dos serviços prestados a pessoas estrangeiras se dá em território estrangeiro. Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ISSQN. IMUNIDADE TRIBUTÁRIA. EXPORTAÇÃO DE SERVIÇOS.NÃO-CARACTERIZAÇÃO. SERVIÇO EXECUTADO DENTRO DO TERRITÓRIO NACIONAL. APLICAÇÃO DO ART. 2º, PARÁGRAFO ÚNICO, DA LEI Nº LC 116/03. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Trata-se da interpretação de norma infraconstitucional que defere imunidade ao contribuinte no imposto sobre serviço de qualquer natureza concernente à celebração de contrato internacional no transporte de bens para a sua utilização em eventos sediados no território brasileiro.
+2. Conforme consignado pelo Tribunal de origem, as prestações dos serviços foram verificadas em território brasileiro, cuja obrigação de fazer consistente no "desembaraço aduaneiro, transporte até o local do evento, armazenagem, transporte de volta, etc.", tiverem a execução e o resultado econômico e jurídico no Brasil.
+3. Assim, nos termos dos precedentes desta Corte, a exegese do art. 2º, inciso I, p. ú., da LC 116/03, não se aplica quando os serviços são realizados em território brasileiro e o resultado aqui se verifique.
+4. Com efeito, para que haja efetiva exportação do serviço desenvolvido no Brasil, ele não poderá aqui ter consequências ou produzir efeitos.
+5. Logo, no caso em tela, verificando que as atividades desenvolvidas pelo recorrente não configuram exportação de serviço, resta inquestionável a incidência do ISSQN, consoante a incidência do disposto no parágrafo único, do art. 2º, da LC 116/03: "Não se enquadram no disposto no inciso I os serviços desenvolvidos no Brasil, cujo resultado aqui se verifique, ainda que o pagamento seja feito por residente no exterior."
+6. Agravo interno não provido. (AgInt no AREsp 1.446.639/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 24.9.2019)
+Embora se trate de tema diverso, o Superior Tribunal de Justiça entende, à luz do parágrafo único do art. 2º da LC 116/2003, que "a remessa de projetos de engenharia ao exterior poderá configurar exportação quando se puder extrair do seu teor, bem como dos termos do ato negocial, a intenção de sua execução no território estrangeiro " (AREsp 587.403/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 24.11.2016).
+Assim, mutatis mutandis, ainda que se pudesse superar os óbices do conhecimento, os serviços prestados não podem ser considerados exportação de serviços; portanto, não prevalece o ponto de vista da agravante. Sua administração ou "gestão" visa a estudos não direcionados a investimentos no exterior, tendo consequências ou produzindo efeitos no Brasil.
+Não me reconsiderei e submeto o decisum à revisão do colegiado.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
