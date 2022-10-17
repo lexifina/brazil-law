@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+LUIZ MONTEIRO DA SILVA opõe embargos de declaração ao acórdão de fls. 826-829, proferido por esta colenda Sexta Turma, que não conheceu do agravo regimental interposto.
+A defesa entende que o decisum é omisso porque não abordou o fato de o julgado combatido no regimental valer-se exclusivamente de fundamentos alheios.
+Argumenta não incidir ao caso a Súmula n. 182 do STJ, porquanto "não há como atacar especificamente uma decisão que se valeu exclusivamente de argumentos alheios, ou seja, de julgados, para declinar a sua ratio decidendi" (fl. 834).
+Sustenta:a "decisão que inadmitiu o Recurso Especial não permite à parte sucumbente extrair a ilação do motivo pelo qual seu apelo extremo não foi sequer conhecido.Não há uma linha de fundamentação do julgador monocrático a esse respeito e a decisão do agravo regimental que não foi sequer conhecido omitiu-se a esse respeito" (fl. 835).
+Requer a correção do vício apontado, a fim de que o regimental seja conhecido e provido e, ao fim, seja dado provimento ao especial por seus fundamentos.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. O acórdão embargado não foi omisso, pois a tese nele desenvolvida- nulidade por falta de fundamentação no decisum então impugnado- nem mesmo ultrapassou a barreira do conhecimento, haja vista a aplicaçãoda Súmula n. 182 do STJ à hipótese.
+3. De qualquer forma, em obiter dictium, registro que a decisão proferida pela Presidência do STJ foiclaramente motivada-a permitir a devida impugnação -, pois esclareceu incidira Súmula n. 7 do STJ ao caso, porquanto a análise do pleito de absolvição-ante a tese de que o réu agira em legítima defesa - demandaria o reexame do acervo fático-probatório dos autos.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese,Presidência desta Corte Superiorconheceu do agravo para não conhecer do recurso especial - no qual a defesa pleiteava o reconhecimento da legítima defesa e a consequente absolvição do réu-, ante a incidência da Súmula n. 7 do STJ.
+Como esclarecido no decisum ora embargado, adefesa, ao interpor o agravo regimental,limitou-se a comentar acerca do deverde motivação das decisões judiciais, mas nada aduziu quanto à necessidade de reexame de provas para a análise de sua tese e a aplicação do óbice sumular acima indicado. Por essa razão, incidiu aSúmula n. 182 do STJ à hipótese, haja vista a partenão haver atacado, em seu agravo, todos os fundamentos da decisão então vergastada.
+Portanto, não há que se falar em omissão quanto à falta de exame da tese de que o decisum então impugnado carecia de fundamentação, pois o agravo nem mesmo ultrapassou a barreira do conhecimento.
+Ainda que assim não fosse, em obiter dictum, registro que o julgado proferido pela Presidência do STJ não careceu de fundamentação, como alega a defesa. Isso porque, tendo em vista que o insurgente, em seu recurso especial, sustentou a tese de legítima defesa e buscou a absolvição, a Presidência do STJ, de maneira clara e, portanto, passível de ser devidamente impugnada, esclareceu que (fls. 793-799, grifei):
+Tal o contexto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que para dissentir da conclusão do Tribunal de origem, no propósito de demonstrar que o recorrente agiu em legítima defesa, seria necessária, a toda evidência, a incursão no conjunto fático-probatório carreado aos autos.
+Dessa forma,observoque, na verdade,a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável;não há nenhum fundamento a justificara oposição do presente recurso integrativo.
+À vista do exposto,rejeito os embargos de declaração.
