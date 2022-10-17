@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: Trata-se de agravo interno (e-STJ fls. 232/237) interposto contra decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões, a parte agravante afirma que "não há impedimento para que, a partir dos fatos afirmados no acórdão, seja examinado se o direito foi bem aplicado, ou seja, se aquela situação jurídica recebeu valorização adequada, a ponto de revelar, ou não, a contrariedade, inobservância ou negativa de aplicação a lei federal" (e-STJ fls. 232/233).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Os agravados apresentaram contrarrazões (e-STJ fls.241/246).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. NOVA PERÍCIA. NECESSIDADE. REEXAME DE PROVAS. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. A análise das razões apresentadas pela agravante, quanto à necessidade de nova perícia, diante da existência de erro no laudo homologado, demandaria revolvimento de fatos e provas, vedado em sede de recurso especial.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: A insurgência não merece ser acolhida.
+A parte agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 226/229):
+Cuida-se de agravo apresentado por VALDEMAR MANARICK FILHO e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. DECISÃO QUE HOMOLOGOU O LAUDO PERICIAL, REJEITANDO A IMPUGNAÇÃO DA PARTE EXECUTADA. RECURSO DOS DEVEDORES.
+PRETENDIDA A REALIZAÇÃO DE NOVA PERÍCIA. NÃO CABIMENTO. EXPERT QUE RESPONDEU À IMPUGNAÇÃO APRESENTADA. OBJETO DA PROVA POSTULADA QUE SERIA INCAPAZ DE MODIFICAR A CONVICÇÃO DO JULGADOR, O QUAL ENTENDEU PELA CONCLUSÃO DO PERITO QUANTO À PERCEPÇÃO EXPOSTA NO LAUDO. IMPOSSIBILIDADE DE CONSIDERAR TODA E QUALQUER IRRESIGNAÇÃO NO TOCANTE AO LAUDO PERICIAL. ADEMAIS, INEXISTÊNCIA DE PROVAS APTAS A DESCONSTITUIR AS CONCLUSÕES DO EXPERT DO JUÍZO. INTERLOCUTÓRIO MANTIDO. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 873, I, do CPC, no que concerne à necessidade de realização de nova avaliação pericial do imóvel em questão, trazendo os seguintes argumentos:
+A questão posta nos autos é de clara violação ao disposto nos artigos 873, I, do Código de Processo Civil, uma vez que o acórdão afastou a necessidade da realização de nova avaliação pericial sobre o imóvel de grande valor, não obstante a evidente existência de erro.
+É certo que o laudo pericial desempenha função de indisfarçável relevância processual e também social, pois a ele compete municiar o Juízo com elementos técnico-científicos capazes de garantir a apuração do valor justo resguardando o direito das partes, que no caso são condomínos, de modo que qualquer subavaliação é capaz de acarretar prejuízo para todas as partes e o enriquecimento indevido daquele futuro comprador, aproveitando sobremaneira de uma situação litigiosa. E no caso em questão - a alegação principal afastada pelo acórdão - é embora o laudo traga uma série de informações, em nenhum momento faz qualquer reflexão acerca do valor do imóvel apenas quando considerado a sua área de terra com o potencial para futuros empreendimentos.
+ ..
+Ora, trata-se de imóvel localizado em Itapema/SC, litoral do Estado de Santa Catarina, na sua Avenida principal, em local altamente valorizado, cujo potencial para futuros empreendimentos não foi objeto de qualquer exame.
+A respeito, constam em propostas comerciais, não para recuperação do imóvel, mas sim e apenas para o aproveitamento da área, cujo benefício econômico se apresenta em muito superior ao montante da avaliação. São oferecidos, apenas em troca da área, a entrega de 5 apartamentos de alto padrão, mais uma parte da área comercial.
+A alegação do acórdão de que a parte deveria ter se valido de assistente técnico somente teria validade na hipótese de não se tratar de erro evidente do laudo pericial, aferível por simples regra de experiência, qual seja, a de que imóveis localizados em áreas de grande valorização tem seu maior ativo no potencial para instalação novos empreendimentos do que no valor da própria construção.
+Ora, é da experiência comum no mercado imobiliário o fato de que imóveis como o dos autos tem no potencial construtivo o seu maior ativo, fato que - repita-se - não poderia ser desprezado pela avaliação, sob pena da sua inteira incompletude.
+Veja-se que a avaliação, unidade por unidade, conduziria a situação contrária aquela objeto do processo de conhecimento no sentido da indivisibilidade do bem, de modo que pudesse falar do quantum de valor de cada um dos apartamentos, caberia apenas a sua divisão a meeira e aos demais herdeiros.
+A questão é que ao lado da avaliação da construção caberia - como fator mais importante no caso específico dos autos - o apontamento do valor de mercado do imóvel quando considerara apenas a sua área, com o seu potencial de construção.
+ ..
+Esse evidentemente parece ser o caso dos autos, mostrando o laudo, entre outros motivos, especialmente equivocado ao deixar de apontar o valor do imóvel em relação apenas a sua área de terra em razão do evidente potencial construtivo que no caso vai muito além da sua edificação.
+É caso - para os recorrentes - de evidente equívoco da decisão agravada e assim do acórdão de homologar integralmente o resultado da perícia oficial, quando basicamente desconsiderou a necessidade da avaliação imobiliária ter como razão o potencial construtivo da área, ou seja, o valor de mercado do terreno si para alocação de novos empreendimentos, que é o maior ativo do imóvel pelas suas características o que evidente clara contrariedade ao disposto no artigo 873, I, do Código de Processo Civil, que nesses casos determina a realização do refazimento da prova pericial. (fls. 112/115)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso em exame, verifico que foi deferida a produção de prova técnica, cujo laudo produzido pelo perito judicial foi acostado no evento 67. Em seguida, o executado apresentou impugnação ao laudo pericial (evento 75) no qual levantou, em suma, os mesmo argumentos trazidos neste agravo de instrumento.
+Em resposta à impugnação, o perito técnico sustentou que a perícia foi realizada "diante do contido nos autos, demostrada a devida valorização do imóvel de acordo com os valores de mercado atualizados, comprovados no Laudo pelo método comparativo direto de dados de acordo com norma ABNT 14653-1 / 14653-2, não havendo que se falar em estudo potencial para futuros empreendimentos do imóvel" (evento 81).
+O juízo a quo, então, entendeu por homologar o laudo técnico em virtude de inexistir nos autos elementos capazes de destituir a validade da perícia realizada por expert do juízo.
+No entanto, tenho que a irresignação dos agravantes se dá em virtude do resultado que, em tese, não foi favorável a sua defesa em determinado ponto, o que por si só não é capaz de elidir a congruência da prova pericial, sobretudo porque não cabe ao expert responder a questões se não há substrato que o permita proferir resposta técnica a respeito da matéria.
+Compulsando os autos, verifico que, além de ter sido realizado por expert do juízo, este respondeu aos pontos que resultaram na impugnação dos executados. (fl. 88)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O acolhimento da pretensão recursal, no sentido de ser necessário nova avaliação do bem objeto da penhora, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ." (AgInt no AREsp n. 1.277.688/MT, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/8/2018, DJe de 21/8/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+Conforme assinalado, a incidência da Súmula n. 7/STJ impede a revisão dos fundamentos do acórdão recorrido quanto à desnecessidade de nova perícia, diante da "inexistência provas aptas a desconstituir as conclusões do expert do Juízo" (e-STJ fl. 84).
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
