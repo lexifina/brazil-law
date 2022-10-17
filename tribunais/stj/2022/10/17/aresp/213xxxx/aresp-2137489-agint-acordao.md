@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Município de Campo Grandedesafiando decisão que negou provimento aoagravo em recurso especial, sob os seguintes fundamentos: (I)inexistência de ofensa aos artigos 489, § 1º, e 1.022 do CPC; e (II) a alteração das conclusões adotadas pela Corte de origem demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada pela Súmula 7/STJ.
+A parte agravante, em suas razões, repisa seus argumentos quanto à negativa de prestação jurisdicionalbem como ànão aplicação ao caso de reexame de provas dos autos, sob a alegação de que "a questão da preclusão foi discutida no processo desde a contestação, motivo pelo qual a apelação devolveu a esse e. TJMS a apreciação e julgamento da questão.Com efeito, diante do efeito devolutivo amplo da apelação, não é preciso que uma dada questão seja objeto de explícita argumentação da parte para poder ser discutida posteriormente no Juízo de 2º grau. Na realidade, basta que a matéria tenha sido debatida na origem e esteja relacionada com o capítulo da sentença objeto de recurso.Ocorre que, ainda assim, o Tribunal de Justiça não apreciou tal tese, sob o fundamento de que o Município deveria ter invocado expressamente no bojo da contestação, violando, dessa forma, o teor do art. 1.013, § 1º, do CPC." (fl. 841)
+As razões do recurso foram impugnadas, às fls. 846/851.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃO AOS ARTS. 489, § 1º, E1.022 DOCPC. NÃO OCORRÊNCIA. PRECLUSÃO CONSUMATIVA. INOVAÇÃO RECURSAL. REDISCUSSÃO DE MATÉRIA FÁTICA. NECESSIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das conclusões adotadas pela Corte de origemquanto ànão ocorrência de inovação recursal relativamente à tese de preclusãodemandaria, necessariamente, novo exame do acervo probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida.
+Como asseverado na referida decisão, verifica-se não haver qualquer omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+A propósito, "Não há que se falar em negativa de prestação jurisdicional, visto que tal somente se configura quando, na apreciação de recurso, o órgão julgador insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.  ..  A solução integral da controvérsia, com fundamento suficiente, não caracteriza negativa de prestação jurisdicional." (AgInt no AREsp 879.172/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/09/2016, DJe 28/09/2016).
+Neste sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA VIOLAÇÃO AO ART. 535 DO CPC/73. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO. ATUAÇÃO COMO PARTE. INTERVENÇÃO COMO FISCAL DA LEI. DESNECESSIDADE. PRECEDENTES DO STJ. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. REQUISITOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICAOU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não há falar, na hipótese, em violação ao art. 535 do CPC/73, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, soluçãojurídica diversa da pretendida.
+ ..
+VII. Agravo interno improvido.
+(AgInt no AREsp 698.557/BA, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 13/09/2016, DJe 27/09/2016).
+Ademais,colheu-se do acórdão o seguinte trecho, inverbis (fls.763/764):
+(..) verifica-se que o Apelante arguiu a tese de preclusão consumativa, sob o argumento, em síntese, de que "o Autor apresentou pedido de revisão; desistiu dele em seguida; dois anos depois propôs novo pedido de revisão, utilizando exatamente a mesma petição apresentada anteriormente.
+Sucede, entretanto, que essa tese não foi ventilada no juízo de primeiro grau, constituindo, portanto, inovação recursal, o que afronta os princípios do contraditório, ampla defesa e devido processo legal razão pela qual não deve ser conhecida nesta Instância de segundo grau.
+Nesse contexto, está correto o decisum ao verificar que a alteração das conclusões adotadas pela Corte de origem quanto ànão ocorrência de inovação recursal relativamente à tese de preclusão, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
