@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por MOACIR PEDROSO DA SILVA, em face de decisãoque não conheceu do agravo em recurso especial interposto peloora agravante, em virtude da ausência de impugnação específica dos fundamentos da decisão de admissibilidade recursal.
+Nas razões do agravo interno, a parte recorrente pugna pela reforma da decisão, afirmando, em síntese, que "(..)constou erro material por parte do Agravante já que o artigo violado alegado no RESP e no Denegatório é o artigo 6º, inciso VIII do CDC. Mas só verificar nas razões de cada um desses recursos que o que constou foi a violação ao artigo 6º do CDC e não artigo 6º da LINDB.Portanto, não há que se falar em ausência de impugnação específica, pois, o Agravante impugnou o ponto levantado pelo Tribunal a quo, não havendo razões para determinar a falta de dialeticidade no recurso interposto." (e-STJ Fls. 1137/1138)
+Impugnação à e-STJ Fls. 1142/1150, requerendo-se a aplicação de multa.
+É o breve relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INEXISTÊNCIA DE RAZÕES QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes colegas, o agravo interno não merece prosperar.
+Em que pese ao arrazoado, entendo que a ausência de qualquer novo subsídio trazido pelosagravantes, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Com efeito, a decisão recorrida não conheceu do agravo em recurso especial, em virtude de a parterecorrentenão terimpugnado especificamente os fundamentos da decisão de admissibilidade referente anão cabimento do REsp quando a tese recursal é eminentemente constitucional.(e-STJ Fls. 1130/1132)
+Conforme se verifica da leitura do agravo em recurso especial, a parte recorrente efetivamente não evidenciou a inaplicabilidade do referido fundamento, apenas apontou genericamente erro da decisão, a par de reprisar suas razões recursais,entretanto sem demonstrar de forma específica, objetiva e consistente o efetivo desacerto do não cabimento do Resp quando a tese é eminentemente constitucional, o que atraiu a aplicação da Súmula 182/STJ à espécie.
+Ademais, reanalisando asrazões do agravo em recurso especial, verifica-se, também,que o agravante,limitou-se em todo o recurso a reprisar suas considerações de méritoe a tecer alegações genéricas e parciaisquanto a inaplicabilidade da Súmula 7/STJe a demonstraçãodas violações aos dispositivos apontados.
+Cumpre esclarecer,a necessidade de demonstraraconcreta desnecessidade de reexame fático-probatóriode acordo com as peculiaridades apontadas pelo Tribunal de origem nocaso concreto, assim como,no tocante a alegada ofensa aos artigos 333, II do CPC, 6º, VIII do PCP e 5º do LINDB,de que forma ocorreua fundamentação adequada, congruente e suficienteno recurso especial, a fim de evidenciar efetivamente todo o desacerto da decisão agravada.
+Apesar de todo o esforço argumentativo da parte recorrente, nas razões do presente agravo interno, tais razões, contudo, não são aptas a impugnar os fundamentos da decisão agravada.
+Saliente-se que alegações genéricas são insuficientes à impugnação da decisão de inadmissão. Nessa esteira, para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada. Não basta a impugnação genérica ou a remissão a fundamentos anteriores.
+Consigne-se que é ônus da parte recorrente demonstrar a inaplicabilidade da decisão de inadmissão, ainda que a considere carente da devida fundamentação, de sorte a evidenciar o seu desacerto.
+Conforme a jurisprudência do Superior Tribunal de Justiça, as razões recursais devem impugnar, com transparência e objetividade, os fundamentos que embasaram a decisão agravada, conforme previsão contida no art. 1.021, § 1º, do CPC/2015.
+Veja-se o entendimento desta Corte quanto ao tema:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe 30/11/2018) - g.n.
+Destarte, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o art. 932, inciso III, do CPC/2015 (art. 544 do CPC/1973), in verbis:
+"Art. 932. Incumbe ao relator:
+(..) III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015 (ART. 544, § 4º, INCISO I, DO CPC/1973).
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (arts. 932, III, do CPC/2015 e 544, § 4º, inciso I, do CPC/1973).
+2. Agravo interno não provido.
+(AgInt no AREsp 906.849/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 16/09/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC. 2. AGRAVO IMPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC. 2. Agravo regimental improvido.
+(AgRg no AREsp 821.544/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 06/06/2016)
+Ademais, cumpre ressaltar, por oportuno, que a Súmula 83/STJ é plenamente aplicável ao recurso interposto pela alínea a do permissivo constitucional, senão vejamos:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1. APLICAÇÃO DO DISPOSTO NA SÚMULA 83/STJ. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA A DO PERMISSIVO CONSTITUCIONAL. POSSIBILIDADE. 2. CONVERSÃO DE OBRIGAÇÃO DE DAR COISA INCERTA EM PECÚNIA. TEMA NÃO DEBATIDO NA ORIGEM. SÚMULA 282/STF. 3. REDUÇÃO DA MULTA. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. De acordo com a jurisprudência desta Casa, o disposto no enunciado n. 83 da Súmula do Superior Tribunal de Justiça se aplica indistintamente às alíneas a e c do permissivo constitucional. Precedentes.
+2. O Colegiado local, tendo em vista a incoerência das alegações e a ausência de provas, não apreciou o pedido e as justificativas relacionadas à conversão da obrigação de dar coisa incerta em pecúnia, não tendo sido opostos embargos de declaração com o objetivo de suprir eventual omissão, incidindo, por conseguinte, o óbice previsto no enunciado n. 282 do Supremo Tribunal Federal.
+3. A conclusão a que chegou o acórdão local no tocante ao valor da multa aplicada derivou da apreciação do conjunto fático-probatório dos autos, bem como das particularidades que circundaram a demanda. Desse modo, rever o montante estabelecido exigiria o reexame do acervo fático-probatório dos autos, providência que encontra óbice no enunciado n. 7 da Súmula desta Corte. Precedente.
+4. Agravo regimental a que se nega provimento. (AgRg no REsp 1224895/ SP, Rel. Ministro MARCO AURÉLIO BELLIZZE. AGRAVO REGIMENTAL NO RECURSO ESPECIAL 2010/0212010-8, grifei)
+Em que pesem às razões desenvolvidas pela parte no presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus próprios fundamentos, porquanto válidos os argumentos que a sustentam, uma vez que não foram trazidos elementos aptos a desconstituí-la.
+Porora,deixodeaplicarasançãorequeridaemsededeimpugnaçãoao presente recurso, advertindo-se que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
