@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Estado do Tocantins desafiando decisão da Presidência da Corte, que conheceu do agravo para não conhecer do recurso especial, sob o fundamento de incidência dos óbices das Súmulas 280, 282 e 284/STF.
+A parte agravante, em suas razões, sustenta que "não há se cogitar da aplicação dos óbices das Súmulas 284 e 280 do STF, pois os fundamentos do acórdão foram efetivamente atacados, tendo em vista que as alegações do Recurso Especial confrontam, de forma direta e específica, todos os fundamentos do acórdão exarado pelo Egrégio TJTO. Além disso, houve claro prequestionamento da matéria de direito relativamente à violação aos artigos 1º e 9º do Decreto 20.910/32, não sopesando dúvida que possuem comando normativo para amparar a tese recursal. Os dispositivos legais tidos por violados são do Decreto 20.910/32, o que revela inaplicável ao caso o enunciado da Súmula 280/STF, segundo a qual "Por ofensa a direito local não cabe recurso extraordinário"." (fls. 488/489)
+As razões do recurso não foram impugnadas.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. POLICIAL MILITAR. REPOSIÇÃO SALARIAL. OCORRÊNCIA DE PRESCRIÇÃO. LEIS LOCAIS. EXAME. NECESSIDADE. SÚMULA 280/STF. INCIDÊNCIA.
+1. A alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, a análise de legislação local, providência vedada em recurso especial, conforme o óbice previsto na Súmula 280/STF.
+2. Agravo interno não provido.
+VOTO
+A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir o fundamento principal adotado pela decisão recorrida.
+Verifica-se que o voto-condutor do acórdão, examinando a questão, concluiu, in verbis (fls. 332/334):
+Segundo depreende-se dos autos, a parte autora pretende receber os valores relativos à reposição salarial, concedida aos integrantes da Polícia Militar do Estado do Tocantins, no percentual de 4,68% (quatro vírgula sessenta e oito por cento), relativamente ao período compreendido entre 01/07/2011 e 30/4/2015, diferença essa que foi, posteriormente, objeto de acordo, cobrando, no caso, precisamente, doze das dezesseis parcelas que oente público deveria ter efetuado o pagamento, atinente à referida verba remuneratória.
+Assim, diferente do alegado pelo ente público embargante, não há que se falar em omissões quanto à alegada caracterização da prescrição do direito do autor, nem de inexistência do direito, tampouco da suposta absorção dos índices da data-base por leis posteriores pois o voto (evento 7) tratou e rechaçou referidas teses, senão vejamos:
+"(..). Extrai-se da inicial que houve um "acordo" e, posteriormente, editadas várias leis com o fim de dar-lhe legalidade, sendo devido pelo Estado de acordo com os termos da Lei de Diretrizes Orçamentárias (Lei Estadual nº 3.048/2015) e a Lei de Orçamento Anual (Lei Estadual nº 3.052/2015) e, em julgados deste Tribunal, não há justi cativa para que o recorrente não efetue o pagamento dos valores objeto da sentença recorrida, até porque a revisão geral anual dos servidores públicos do Poder Executivo do Estado do Tocantins, relativa ao interstício de 01/07/2011 a 30/04/2015, foi implementada pela Lei 2.426, de 11/01/2011, adotando-se o índice de 4,68% (quatro vírgula sessenta e oito por cento), calculado em conformidade com as tabelas contidas na Medida Provisória nº 33, de 10/06/2015, publicada no Diário O cial nº 4.392, de 12/06/2015, convertida na Lei Estadual nº 2.984/2015:
+(..)
+Verificou-se que tal implementação não se deu na forma pactuada na legislação em comento e, portanto, resta devida.
+Deste modo, uma vez devida a reposição salarial, estando a administração em atraso e não havendo prova robusta acerca da fragilidade das finanças públicas, não há a atração da exceção que escusaria o pagamento vindicado pelo servidor demandante, logo, não se aplica ao caso as normas insculpidas nos artigos 15, 17, 19 e 20, da LC 101/00 - Lei de Responsabilidade Fiscal, restando respeitado o princípio da separação dos Poderes contido no artigo 2º da Carta Magna.
+A propósito:
+(..)
+Nesse contexto, deve ser reconhecida a procedência dos pedidos formuladosna inicial uma vez que o apelado faz jus ao recebimento das parcelas alusivas a reposição salarial concedida aos integrantes do Quadro de Militares do Estado do Tocantins, no percentual de 4,68%.
+Nesse contexto, ainda que se afaste a aplicação do óbice das Súmulas 282 e 284/STF, está correto o decisum ao estabelecer que a alteração das conclusões adotadas pela Corte de origem demandaria, necessariamente, a análise de legislação local, providência vedada em recurso especial, conforme o óbice previsto na Súmula 280/STF.
+Em reforço:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGENTE PENITENCIÁRIO. GRATIFICAÇÃO DE AÇÃO POLICIAL. EXCLUSÃO DA VERBA. PRESCRIÇÃO. NECESSIDADE DE EXAME DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280/STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ALEGAÇÃO DE VIOLAÇÃO A PRINCÍPIOS CONSTITUCIONAIS. NÃO CABIMENTO. HONORÁRIOS FIXADOS DE ACORDO COM O ART. 85, § 3º, DO CPC/2015.
+1. Afasta-se a ofensa aos arts. 489 e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Ademais, em recurso especial não cabe invocar violação à norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos princípios da isonomia, da razoabilidade e da proporcionalidade e ao direito fundamental do acesso à Justiça.
+3. Não há como examinar a alegação de que não teria ocorrido a prescrição do fundo de direito, tal como colocada a questão pelo recorrente e enfrentada pelo Tribunal de origem, sem passar pela análise da forma como o próprio direito do recorrido foi tratado pela legislação estadual de regência, pretensão insuscetível em sede de recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário." ) 4. Em relação aos honorários advocatícios, verifica-se que o Tribunal de origem não se afastou dos critérios objetivos estabelecidos pelo art. 85, § 3º, do CPC/2015, razão pela qual não há falar na redução dos referidos honorários.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.854.374/AL, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 30/3/2020, DJe de 2/4/2020.)
+ADMINISTRATIVO. PROCESSO CIVIL E CONSTITUCIONAL. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 535 DO CPC/73. SÚMULA 284/STF. PRESCRIÇÃO. SÚMULA 280/STF.
+1. Inviável o apelo especial quanto à alegação de ofensa ao art. 535 do CPC/73 se as razões expendidas no recurso forem genéricas, constituindo simples remissão aos embargos de declaração opostos na origem, sem particularizar os pontos em que o acórdão teria sido omisso, contraditório ou obscuro. Incidência da Súmula 284/STF.
+2. A questão acerca da prescrição teve como premissa a análise de legislação local, especificamente as Leis n. 8.690/2003 e n. 8.691/2003, o impede seu exame nesta via recursal ante o óbice da Súmula 280/STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 863.518/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 14/3/2017, DJe de 20/3/2017.)
+Em face do exposto, nega-se provimento ao agravo interno.
+É o voto.
