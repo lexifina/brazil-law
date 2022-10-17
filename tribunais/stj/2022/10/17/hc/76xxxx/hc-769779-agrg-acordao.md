@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jorge Mussi, Ribeiro Dantas, Joel Ilan Paciornik e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Trata-se de agravo regimental interposto por JOHN LENON DA SILVA BARROS contra decisão monocrática de minha lavra que não conheceu do habeas corpus impetrado em seu favor, em que se pleiteou a nulidade do PAD, em razão de cerceamento de defesa (e-STJ, fls. 77/87).
+Neste recurso, a Defensoria Pública do Estado do Rio de Janeiro alega que o Agravante foi ouvido pelo Juízo sem a assistência de seu Defensor, a quem foi aberta vista posteriormente para manifestar-se, e  ..  desassistido de orientação técnica, não só quanto ao seu direito ao silêncio, mas também quanto aos esclarecimentos relativos à sua postura no interrogatório, o Agravante foi levado diante ao Juiz e ao Promotor para depor (e-STJ, fl. 91).
+Sustenta que a vista posterior para manifestação da defesa, como ocorreu no caso vertente, não supre o interrogatório, pois o prejuízo, naquele momento, já estava irremediavelmente consumado.
+Entende que ampla defesa constitui-se na assistência integral ao acusado, compreendendo acompanhamento de defesa em todos os momentos.
+Em vista do exposto, requer a reconsideração da decisão agravada ou que o feito seja submetido a julgamento perante a Quinta Turma desta Corte (conhecimento e provimento).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. INTERROGATÓRIO NO PAD. FALTA DE ADVERTÊNCIA DO DIREITO AO SILÊNCIO. INEXISTÊNCIA. PERGUNTADO SOBRE A CIÊNCIA DE SEUS DIREITOS E DEVERES. AUSÊNCIA DE DEFESA TÉCNICA. NULIDADE SUPRIDA. APRESENTAÇÃO DE DEFESA ESCRITA PELA DEFENSORIA PÚBLICA. RECURSO IMPROVIDO.
+1- Ocorre que, as decisões das instâncias ordinárias foram proferidas em consonância com o entendimento vigente à época, qual seja, de que, apesar da ausência de advogado ou defensor constituído no interrogatório do apenado, foi apresentada defesa escrita, estando, dessa forma, observados os princípios do contraditório e da ampla defesa.  ..  AgRg no RHC 69.421/RJ, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 13/6/2017, DJe 23/6/2017)
+2- No caso, ainda que o executado tenha sido interrogado sozinho, no PAD, sem a presença de defesa, foi oportunizado ao reeducando, posteriormente, a chance de explicar tecnicamente, por meio da defesa escrita.
+3- Quanto à necessidade de a defesa técnica do paciente presenciar os depoimentos das testemunhas e o do próprio sentenciado, prestados no procedimento administrativo disciplinar instaurado para a apuração de falta grave, este Superior Tribunal de Justiça já se pronunciou em diversas ocasiões no sentido de que é imprescindível a demonstração de prejuízo para reconhecimento de eventual nulidade, ônus do qual não se desincumbiu a combativa defesa - em consonância com o princípio pas de nullite sans grief, consagrado no art. 563 do Código de Processo Penal. (AgRg no HC n. 736.555/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+4- A autoridade julgadora deixou claro que o recorrente foi perguntado, no interrogatório administrativo, sobre seus direitos, dentre eles, então, o direito ao silêncio; e ele respondeu que estava ciente.
+5- Agravo regimental a que se nega provimento.
+VOTO
+O agravo regimental é tempestivo e rechaçou os fundamentos da decisão combatida, razões pelas quais merece conhecimento.
+No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar a decisão.
+Estes foram os fundamentos adotados na decisão agravada (e-STJ, fls. 79/86):
+Da nulidade do PAD - cerceamento de defesa por ausência de defesa na oitiva do PAD, de advertência do direito ao silêncio e de justificação judicial
+O Tribunal julgou as questões da seguinte forma (e-STJ, fls. 64/65):
+ ..
+Da transcrição acima, verifico que a autoridade coatora julgou que o contraditório e ampla defesa foram respeitados, tendo em vista que a Defensoria Pública apresentou defesa escrita e o apenado, uma vez perguntado sobre seus direitos, disse que estava ciente.
+Assim, ainda que o executado tenha sido interrogado sozinho, sem a presença de defesa, foi oportunizado ao reeducando, posteriormente, a chance de explicar tecnicamente, por meio da defesa escrita.
+Dessa forma, não visualizo hipótese de cerceamento de defesa. Conforme entende esta Corte:  ..
+Sobre o direito ao silêncio, conforme mencionado acima, a autoridade julgadora deixou claro que o paciente foi perguntado sobre seus direitos, e ele respondeu que estava ciente.
+Dessa forma, embora a defesa não tenha juntado o interrogatório, depreende-se que na ata, houve a advertência quanto ao direito ao silêncio.
+Nesse sentido:  ..
+Por último, acerca da justificação judicial, nada disse o Tribunal, circunstância que impede esta Corte de julgar diretamente o assunto, sob pena de supressão de instância.
+Com efeito, para se aferir a competência do Superior Tribunal de Justiça, é necessário que a matéria questionada tenha sido analisada pela Corte de origem, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de configurar indevida supressão de instância.
+Nesse ínterim:  ..
+Ante o exposto, com amparo no art. 34, XX, do Regimento Interno do STJ, não conheçodo habeas corpus.
+Folheando novamente os autos, não encontrei a ata do interrogatório do recorrente no PAD. A defesa não juntou sequer qualquer parte do PAD, e, sim, apenas a decisão homologatória da falta grave pelo Juízo da execução.
+Como se sabe, a prova incumbe a quem alega. Assim, antes de tudo, se a defesa não provou o que ora aduz - ausência de defesa na oitiva e falta de advertência quanto ao silêncio do interrogado -, impossível a verificação dessas ilegalidades.
+De todo modo, segundo a autoridade coatora, a parte acusada foi informada de todos os seus direitos; assim, dentre eles, está o direito ao silêncio.
+Também, conforme afirmou o Tribunal, o qual inclusive indicou o documento, a Defensoria Pública apresentou defesa escrita.
+O interrogatório é ato privativo do interrogando. A defesa não precisa estar presente, mas cabe a ela prepará-lo previamente.
+Nesse sentido, apesar da ausência de advogado ou defensor constituído no interrogatório do apenado, foi apresentada defesa escrita, estando, dessa forma, observados os princípios do contraditório e da ampla defesa.  ..  (AgRg no RHC 69.421/RJ, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 13/6/2017, DJe 23/6/2017).
+Em outras palavras, se à defesa foi oportunizado o direito de se manifestar, não há nulidade a ser sanada.
+Desse modo, a decisão monocrática agravada deve ser mantida.
+Saliento, por fim, que, em situação em tudo semelhante à posta nos autos, esta Corte assim decidiu:
+PENAL. PROCESSO PENAL. EXECUÇÃO DA PENA. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA GRAVE CARACTERIZADA. IMPRESCINDÍVEL INSTAURAR PROCEDIMENTO ADMINISTRATIVO DISCIPLINAR - PAD. SÚMULA 533/STJ. NULIDADE DO PAD. OITIVA JUDICIAL DO SENTENCIADO SOB DEFESA REGULAR. INEXISTÊNCIA DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E CONTRADITÓRIO. PREJUÍZO NÃO DEMONSTRADO. PRINCÍPIO DO PAS DE NULLITE SANS GRIEF. AFASTAMENTO DA FALTA GRAVE. REVOLVIMENTO DE FATOS E PROVAS. INVIABILIDADE. VIA ESTREITA. HABEAS CORPUS NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I - Nos termos da jurisprudência consolidada nesta Corte, cumpre ao agravante impugnar especificamente os fundamentos estabelecidos na decisão agravada.
+II - A eg. Terceira Seção desta Corte, em julgamento proferido em sede de recurso especial repetitivo (REsp n. 1.378.557/RS), revendo anterior posicionamento, firmou orientação no sentido de que " ..  Para o reconhecimento da prática de falta disciplinar, no âmbito da execução penal, é imprescindível a instauração de procedimento administrativo pelo diretor do estabelecimento prisional, assegurado o direito de defesa, a ser realizado por advogado constituído ou defensor público nomeado" (REsp n. 1.378.557/RS, Terceira Seção, Rel. Min. Marco Aurélio Bellizze, DJe de 21/3/2014).
+III - Como bem observado pelo parecer do Ministério Público Federal, embora tenha sido ouvido sem a presença de advogado, tem-se que o mesmo foi devidamente assistido pela Defensoria Pública no procedimento administrativo disciplinar, bem como em Juízo, com apresentação de defesa escrita previamente à tomada de decisão da Comissão processante e do Juiz da execução, inexistindo a demonstração de que a assistência de defensor, no ato de interrogatório, teria alterado a conclusão ou do Juízo da execução.
+IV - Ademais, "muito embora fosse possível à defesa técnica requerer nova oitiva do apenado tanto perante a autoridade administrativa quanto em Juízo, deixou de fazê-lo, limitando-se ao requerimento de nulidade das declarações prestadas na fase administrativa e de todo o procedimento administrativo disciplinar" (fl. 243), o que evidencia a preclusão da tese, porquanto não suscitada em tempo oportuno.
+V - Quanto à necessidade de a defesa técnica do paciente presenciar os depoimentos das testemunhas e o do próprio sentenciado, prestados no procedimento administrativo disciplinar instaurado para a apuração de falta grave, este Superior Tribunal de Justiça já se pronunciou em diversas ocasiões no sentido de que é imprescindível a demonstração de prejuízo para reconhecimento de eventual nulidade, ônus do qual não se desincumbiu a combativa defesa - em consonância com o princípio pas de nullite sans grief, consagrado no art. 563 do Código de Processo Penal.
+VI - Rever o entendimento do Tribunal estadual para afastar a falta grave imputada ao paciente demandaria, necessariamente, amplo revolvimento da matéria fático probatória dos autos de execução, procedimento que, a toda evidência, é incompatível com a estreita via do habeas corpus.
+Agravo regimental desprovido.
+(AgRg no HC n. 736.555/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 21/6/2022, DJe de 27/6/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. IMPUGNAÇÃO DEFENSIVA. INTERROGATÓRIO. AUSÊNCIA DE DEFESA TÉCNICA. NULIDADE SUPRIDA. APRESENTAÇÃO DE DEFESA ESCRITA PELA DEFENSORIA PÚBLICA. AUSÊNCIA DE PREJUÍZO. FALTA DE ADVERTÊNCIA SOBRE O DIREITO AO SILÊNCIO: INEXISTÊNCIA. AGRAVO IMPROVIDO.
+1-  ..  2. Ocorre que, as decisões das instâncias ordinárias foram proferidas em consonância com o entendimento vigente à época, qual seja, de que, apesar da ausência de advogado ou defensor constituído no interrogatório do apenado, foi apresentada defesa escrita, estando, dessa forma, observados os princípios do contraditório e da ampla defesa. 4. No Processo Penal, é imprescindível, quando se argui a nulidade de atos processuais, a demonstração do prejuízo sofrido, em consonância com o princípio pas de nullité sans grief.. 5. Agravo regimental não provido. (AgRg no RHC 69.421/RJ, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 13/6/2017, DJe 23/6/2017).
+2- No caso, a defesa teve acesso a todos os termos do processo, tanto que apresentou defesa por escrito, na qual não pleiteou a realização de novo interrogatório da executada. Assim, não há que falar em prejuízo para a agravante.
+3- Não há como se dar guarida a alegação de nulidade decorrente de ausência de prévia informação da executada de seu direito ao silêncio durante o interrogatório efetuado no PAD, se há nos autos termo de declaração assinado pela apenada no qual consta expressamente que ela foi informada de seu direito de permanecer em silêncio, durante o ato em que foi ouvida sobre os fatos que lhe eram imputados.
+4- Agravo Regimental não provido.
+(AgRg no HC n. 732.411/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 26/4/2022, DJe de 29/4/2022.)
+Ante o exposto, nego provimento a este agravo regimental.
+É como voto.
