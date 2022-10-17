@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por PEDRO HASTINGS BARBOSA DE OLIVEIRA contra decisão de relatoria do em. Ministro Presidente João Otávio de Noronha (fls. 1.184/1.185) que não conheceu do agravo em recurso especial sob o fundamento de não haver impugnação específica sobre óbices contidos na decisão de admissibilidade do recurso especial.
+Nas razões do agravo interno alega-se que "(..) a decisão ora agravada está fundamentada em grave e flagrante erro material, na medida em que, conforme adiantado, o Agravante dedicoucapítulo próprio de seu agravo em recurso especial especificamente para a não incidência da Súmula 7 do STJ ao caso dos autos. É ver para crer (e-STJ fls. 1.162 e seguintes)" (fl. 1.194).
+Ao final, pleiteia-se a reconsideração da decisão agravada ou, se mantida, que o presente recurso seja levado a julgamento perante a eg. Quarta Turma.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE OBRIGAÇÃO DE FAZER E REPETIÇÃO DE INDÉBITO. CONTRATO BANCÁRIO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. TRIBUNAL ESTADUAL ANALISOU O MONTANTE A SER DEVOLVIDO PELA INSTITUIÇÃO FINANCEIRA CONFORME AS PECULIARIDADES DO CASO CONCRETO. REEXAME FÁTICO E PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO PARA, EM NOVO EXAME, CONHECER DO AGRAVO E DESPROVER O RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que houve impugnação específica dos óbices contidos na decisão de admissibilidade do recurso especial. Novo exame do feito.
+2. Não há violação dos arts. 489 e 1.022 do CPC/2015, quando o eg. Tribunal analisa a controvérsia em sua inteireza, com suficiente fundamentação.
+3. A pretensão de alterar o entendimento do eg. Tribunal a quo, considerando as circunstâncias do caso concerto, demandaria revolvimento de matéria fático-probatória, providência incompatível com o recurso especial, a teor da Súmula n. 7/STJ.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Afiguram-se relevantes as alegações quanto à impugnação específica dos óbices contidos na decisão de admissibilidade do recurso especial.
+Passa-se ao exame do recurso.
+Trata-se de agravo recurso especial interposto por PEDRO HASTINGS BARBOSA DE OLIVEIRA contra decisão que inadmitiu o recurso especial, fundamentado no art. 105, III, "a",da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro (TJ-RJ), assim ementado (fl. 1.042):
+"Apelação Cível. Ação de obrigação de fazer c/c repetição de indébito com pedido de tutela antecipada. Sentença de improcedência. Apela o autor requerendo a reforma da sentença,sustentando venda casada identificada pelo perito do juízo, juros do cheque especial cuja abusividade foi atestada, débito não autorizado de parcela de empréstimo em conta diversa da contratada forçando o uso do limite de cheque especial,hipótese de cálculo correta sugerida pelo perito,inaplicabilidade das demais, saldo credor em favor do apelante.Venda casada em relação a título de capitalização não caracterizada. Título contratado anteriormente ao empréstimo. Contrato de seguro em contrato de empréstimo bancário que deverá ser afastado.Não oferta ao consumidor de possibilidade de contratação com seguradora de sua confiança.Capitalização permitida. No ponto capitalização de juros, sobreveio o julgamento do Recurso Especial Nº 973.827/RS, representativo de controvérsia, pela segunda sessão do C. Superior Tribunal de Justiça Tal acórdão paradigma examinou a questão da capitalização de juros, entendendo pela possibilidade de sua incidência nos contratos firmados a partir da MP 1.963-17/2000, desde que expressamente prevista em clausula contratual.Juros apurados pelo perito judicial que não estão discrepantes pela taxa média do mercado.Falha na prestação do serviço caracterizada ante a cobrança de parcelas de empréstimo em conta corrente diversa da contratada.Em que pese a falha do banco, ao efetuar desconto em conta diversa, a prova dos autos dá conta da inadimplência do autor em relação ao empréstimo.Saldos da conta indevidamente debitada e do empréstimo que devem ser recalculados. Verba de seguro que deve ser devolvida.RECURSO PARCIALMENTE PROVIDO"
+Os embargos de declaração opostos foram rejeitados (acórdão de fls. 1.075/1.095).
+As razões do recurso especial, fundamentado na alínea"a" do permissivo constitucional, apontam a violação (i) dos arts. 489, § 1º, IV, 490 e 1.022, II, do CPC/2015, ao argumento de que haveria omissão quanto ao pedido para devolução dos encargos cobrados no cheque especial referentes à conta errada sobre a qual a instituição financeira descontou indevidamente o empréstimo e quanto ao pedido de devolução dos juros abusivos; e (ii) do art. 884 do CC/02, uma vez que a ausência de devolução desses encargos geraria enriquecimento ilícito do banco, ora recorrido.
+Decisão que inadmitiu o recurso especial às fls. 1.131/1.133.
+A irresignação não merece prosperar.
+Inicialmente, rejeita-se a alegada violação dos arts. 489, § 1º, IV, 490 e 1.022, II, do CPC/2015, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - g.n.)
+Outrossim, melhor sorte não socorre ao recurso quanto ao art. 884 do CC/02. Sob essa infringência, afirma-se que a conduta ilícita da instituição financeira, de debitar o empréstimo em conta distinta daquela que fora realizada o mútuo, daria ensejo à devolução dos encargos cobrados no cheque especial, assim como deveria haver a devolução dos juros abusivos, sob pena de haver enriquecimento ilícito do banco, ora recorrido.
+O eg. TJ-RJ, por sua vez, com arrimo nas provas dos autos, consignou inexistir abusividade nos juros cobrados pela instituição financeira, tendo em vista o cabimento da capitalização de juros, bem como em razão de ser possível cobrar juros remuneratórios conforme a taxa média de mercado. Destacou, por outro lado, ser indevido o desconto em conta distinta daquela em que fora realizado o empréstimo, além da abusividade na cobrança de seguro. Ressaltou, ademais, que o recorrente já utilizava o cheque especial na conta indevidamente descontada, de modo que, conforme laudo pericial, inexistia saldo nas contas correntes.
+Diante disso, determinou a apuração, em liquidação, do montante devido à instituição financeira e da quantia a ser restituída decorrente do desconto indevido na conta distinta daquela em que fora realizado o empréstimo.
+Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão estadual (fls. 1.058/1.060):
+"Acrescente-se que os princípios da equidade e da boa -fé objetiva estão contemplados no já mencionado CDC.
+Verifica-se que o autor já vinha se utilizando do cheque especial da conta corrente 3017/01077447-3, antes mesmo do débito indevido, index 73, fls. 90.
+O laudo concluiu que não havia saldo nas contas correntes, index 978, fls. 691:
+(..)
+E em que pese ter havido débito de contrato na conta em que estava negativa, deverá ser apurado em liquidação de sentença o saldo devedor do contrato de empréstimo firmado para a conta corrente de nº3003/01.092087-7, devendo ser expurgado todos os descontos referentes ao contrato de seguro oriundo do referido contrato com o valor do prêmio de R$4.000,00:
+(..)
+Devendo também ser recalculado o valor do débito da conta corrente nº 3017/01077447-3, expurgando todos os débitos do contrato de empréstimo n 2320000184810 que a partir de novembro de 2013, foi indevidamente debitado na referida conta"
+Dessa forma, para modificar a conclusão do eg. TJ-RJ, quanto aos valores a serem restituídos, seria necessário revolver o acervo fático e probatório dos autos, providência incompatível com o recurso especial, a teor da Súmula n. 7/STJ.
+Diante do exposto, dou provimento ao agravo interno para reconsiderar a decisão agravada e, em nova análise, conheço do agravo para negar provimento ao recurso especial.
+É como voto.
