@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 11/10/2022 a 17/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por LOURDES ANTÔNIA LUCCHINI RAMPAZZO contra a decisão mediante a qual neguei provimento a seu recurso especial, dada a incidência das Súmulas 7 e 83 desta Corte.
+O acórdão recorrido tem a seguinte ementa:
+Apelação Cível. Ação de Preferência. Arrendamento rural. Transmissão de propriedade. Ausência de notificação. Art. 92, §4º da Lei 4.504/64. Prazo decadencial consumado. Decisão mantida.
+1. Comprovado nos autos que direito de preferência, previsto no § 3º do art. 92 do Estatuto da Terra, não foi exercido no prazo decadencial de 6 (seis) meses contados da transcrição do ato de alienação no Registro de Imóveis, a manutenção da sentença que acolheu a preliminar de decadência e julgou improcedente o pedido é medida que se impõe. Apelação improvida. (TJRS - 19ª C.Cível - AC - 70071300859 - Rel.: Voltaire de Lima Moraes - J. 15.12.2016).
+2. PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. ESTATUTO DA TERRA. ARRENDATÁRIO. DIREITO DE PREFERÊNCIA. ADJUDICAÇÃO COMPULSÓRIA. DEPÓSITO DO PREÇO CONSTANTE NA ESCRITURA PÚBLICA. PRECEDENTES. 1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada. 2. O Estatuto da Terra, em seu artigo 92, estabelece o direito de preferência do arrendatário no caso de alienação do imóvel arrendado, determinando a sua notificação ou, caso não seja notificado, possibilitando a sua adjudicação compulsória, mediante o depósito do preço. 3. Nos termos do entendimento deste Superior Tribunal de Justiça, o preço a ser depositado pelo arrendatário é aquele consignado na escritura pública de compra e venda registrada em cartório, inclusive por força do marco temporal para exercício do direito de preferência estabelecido no § 4º, do mencionado artigo o qual passa a "contar da transcrição do ato de alienação no Registro de Imóveis". 4. Agravo interno a que se nega provimento. (AgInt no REsp 1319234/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/03/2017, DJ e 20/03/2017).
+3. Recurso conhecido e não provido.
+A agravante afirma que as Súmulas referidas não se aplicam ao caso. Alega ter feito o depósito do preço para exercer o direito de preferência na compra das terras arrendadas, bem como não teve ciência da alienação dos imóveis a fim de exercer seu direito no prazo, devendo ser prestigiada a boa-fé objetiva.
+Em sua impugnação, ESPÓLIO DE ROSA DOS ANJOS RAIO GRANJA e ESPÓLIO DE JOSÉ PEREIRA GRANJA afirmam que a agravante pretende exercer direito de preferência na aquisição de imóveis rurais mas não fez o depósito do preço no prazo decadencial. Argumentam que as provas documentais produzidas nos autos são suficientes para demonstrar que houve efetiva transcrição dos atos de alienação no Registro de Imóveis, o que é suficiente para comprovar o conhecimento da agravante sobre a transmissão de propriedade.
+É o relatório.
+EMENTA
+AGRAVO INTERNO EM RECURSO ESPECIAL. ESTATUTO DA TERRA. ARRENDATÁRIO. DIREITO DE PREFERÊNCIA. PRAZO. DATA DO REGISTRO.
+1. "O arrendatário a quem não se notificar a venda poderá, depositando o preço, haver para si o imóvel arrendado, se o requerer no prazo de seis meses, a contar da transcrição do ato de alienação no Registro de Imóveis" (art. 92, § 4º, da Lei 4.504/1964).
+2. "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida" (Súmula 83/STJ).
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI(Relatora): O agravo não prospera.
+Com efeito, o acórdão recorrido está em harmonia com a jurisprudência desta Corte, para a qual o termo inicial do prazo de decadência do direito de preferência de compra do imóvel rural arrendado é a data do registro da alienação no cartório imobiliário. Confiram-se:
+CIVIL E PROCESSUAL CIVIL. ARRENDAMENTO RURAL. VENDA E COMPRA DO IMÓVEL POR TERCEIROS. FALTA DE NOTIFICAÇÃO AO ARRENDATÁRIO. DIREITO DE PREFERÊNCIA. LEI N. 4.504/1964, ART. 92, § 4º. DIVERGÊNCIA ENTRE O VALOR CONSTANTE EM CONTRATO PARTICULAR DE COMPRA E VENDA E NA ESCRITURA PÚBLICA REGISTRADA EM CARTÓRIO DE IMÓVEIS. PRESUNÇÃO DE VERACIDADE DESTA. PRESERVAÇÃO DA LEGÍTIMA EXPECTATIVA. BOA-FÉ OBJETIVA.
+1. Apesar de sua natureza privada, o contrato de arrendamento rural sofre repercussões de direito público em razão de sua importância para o Estado, do protecionismo que se quer dar ao homem do campo e à função social da propriedade e ao meio ambiente, sendo o direito de preferência um dos instrumentos legais que visam conferir tal perspectiva, mantendo o arrendatário na exploração da terra, garantindo seu uso econômico.
+2. O Estatuto da Terra prevê que: "O arrendatário a quem não se notificar a venda poderá, depositando o preço, haver para si o imóvel arrendado, se o requerer no prazo de seis meses, a contar da transcrição do ato de alienação no Registro de Imóveis" (art. 92, § 4º da Lei 4.504/1964).
+3. A interpretação sistemática e teleológica do comando legal permite concluir que o melhor norte para definição do preço a ser depositado pelo arrendatário é aquele consignado na escritura pública de compra e venda registrada no cartório de registro de imóveis.
+4. Não se pode olvidar que a escritura pública é ato realizado perante o notário e que revela a vontade das partes na realização de negócio jurídico, revestida de todas as solenidades prescritas em lei, isto é, demonstra de forma pública e solene a substância do ato, gozando seu conteúdo de presunção de veracidade, trazendo maior segurança jurídica e garantia para a regularidade da compra.
+5. Outrossim, não podem os réus, ora recorridos, se valerem da própria torpeza para impedir a adjudicação compulsória, haja vista que simularam determinado valor no negócio jurídico publicamente escriturado, mediante declaração de preço que não refletia a realidade, com o fito de burlar a lei, pagando menos tributo, conforme salientado pelo acórdão recorrido.
+6. Na hipótese, os valores constantes na escritura pública foram inseridos livremente pelas partes e registrados em cartório imobiliário, dando-se publicidade ao ato, operando efeitos erga omnes, devendo-se preservar a legítima expectativa e confiança geradas, bem como o dever de lealdade, todos decorrentes da boa-fé objetiva.
+7. Recurso especial provido.
+(REsp 1175438/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/03/2014, DJe 05/05/2014)
+RECURSO ESPECIAL. ARRENDAMENTO DE IMÓVEL RURAL. ART. 92, § 4º, DO ESTATUTO DA TERRA. AÇÃO DE PREEMPÇÃO. REQUISITOS. DEPÓSITO DO PREÇO. CONDIÇÃO DE PROCEDIBILIDADE DA AÇÃO.
+1.- O artigo 92, § 4º, da Lei n. 4.504/64 submete o exercício do direito de preferência do arrendatário de imóvel rural não notificado a dois requisitos, o depósito do preço e que a a ação seja ajuizada no prazo de seis meses a contar do registro da alienação no cartório imobiliário.
+2.- A prova do depósito do preço para adjudicação do bem, na petição inicial, é condição de procedibilidade da ação.
+3.- Recurso Especial improvido.
+(REsp 824.023/MS, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 18/05/2010, DJe 18/06/2010)
+E, em afirmação que não poderia ser revista sem reexame de prova, a atrair a incidência da Súmula 7/STJ, o Tribunal considerou o seguinte (e-STJ, fl. 461):
+Dessume-se dos autos que a transferência das propriedades imobiliárias foi efetivamente inscrita no Registro Público, o qual gera presunção absoluta erga omnes, entre setembro de 2011 a fevereiro de 2012, ocorrendo o último registro em 24 de fevereiro de 2012. Aqui começou a correr o prazo decadencial para o direito de preferência ser requerido.
+Assim, para que a apelante exercesse seu direito, teria de tê-lo requerido dentro dos próximos 180 dias, ou seja, até 24 de agosto de 2011 Não foi, contudo, o que aconteceu no caso dos autos.
+Protocolizada pela apelante a ação de preferência apenas em 31 de janeiro de 2015, e realizado o depósito do preço pago somente em 29 de maio de 2015, há muito restou consumado o prazo decadencial inscrito no § 4º do art. 92 da Lei 4.504/64.
+Considerados tais fatos, aplica-se o entendimento acima referido, bem como a Súmula 83/STJ.
+Em face do exposto, nego provimento ao agravo.
+É como voto.
