@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME CONTRA A ORDEM TRIBUTÁRIA. EXTINÇÃO DA PUNIBILIDADE. INADIMPLEMENTO DA INTEGRALIDADE DA DÍVIDA. PRESCRIÇÃO RETROATIVA. DESPROPORCIONALIDADE DA MULTA E PRINCÍPIO DA INSIGNIFICÂNCIA. TESES NÃO ANALISADAS PELAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA.
+1. Tendo havido quitação apenas do tributo, e inadimplemento dos juros e multa cobrados, não há falar em extinção da punibilidade pelo pagamento.
+2. Sem manifestação das instâncias ordinárias sobre as teses de prescrição retroativa, da desproporcionalidade da multa em face do valor do tributo, e aplicação do princípio da insignificância, não cabe a este STJ proceder à análise inaugural das matérias, sob pena de supressão de instância e ofensa aos princípios do duplo grau de jurisdição e devido processo legal.
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental contra decisão denegatória de habeas corpus.
+Preliminarmente, os agravantes pugnam pelo reconhecimento da prescrição retroativa. No mérito, asseveram que houve pagamento integral do tributo antes do oferecimento da denúncia, o que não teria sido reconhecido pelas instâncias ordinárias, não sendo sequer mencionado pelo acórdão estadual.
+Além disso, argumentam que há abuso confiscatório, uma vez que o valor da multa seriadesproporcional, "superando e muito o entendimento adotado pela Corte Máxima do nosso País, que não pode exceder o percentual de 100% do valor do imposto devido"(fl. 641).
+Apontam que a Terceira Seção do STJ "estendeu aos tributos estaduais o entendimento já aplicadoa tributos federais, segundo o qual é possível o reconhecimento da insignificância quando o valor sonegado for inferior a R$ 20 mil, de acordo com o Tema 157 dos recursos repetitivos revisado em 2018 pela corte" (fl. 643).
+Buscam a concessão da ordem para que seja decretada a extinção da punibilidade de ofício, ou a suspensão das reprimendas criminais até o reconhecimento de abuso na aplicação de multa confiscatória (fl. 669).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  A decisão combatida restou assim fundamentada (fls. 624-625):
+Indeferida a liminar e prestadas informações, o Ministério Público Federal sugeriu o não conhecimento ou denegação da ordem.
+Sobre a extinção da punibilidade, assim dispôs a sentença (fl. 597):
+De início, anoto que não há que se falar em extinção da punibilidade, vez que, embora tenha havido pagamento do principal, não houve adimplemento dos acessórios. Desse modo, e considerando que somente o pagamento integral do tributo é causa extintiva de punibilidade, é de se prosseguir com o exame dos autos.
+No mesmo sentido, o acórdão (fl. 610/611):
+Ademais, o pleito de reconhecimento da extinção da punibilidade dos recorrentes, pela quitação da dívida, não comporta acolhimento  já que, consoante disposto no art. 9º, §2º, da Lei nº 10.684/03, a punibilidade é extinta "quando a pessoa jurídica relacionada com o agente efetuar o pagamento integral dos débitos oriundos de tributos e contribuições sociais, inclusive acessórios".
+E do presente, constata-se ter sidorealizado o depósito judicial de apenas o ICMS cobrado no auto de infração, no valor de R$ 6.506,14 (fls. 208),não sendo realizado o pagamento do valor dos juros e da multa cobrados, não constando informações de eventual liquidação do débito ou o deferimento de pedido de parcelamento da dívida tributária.
+Portanto, exigindo-se para a extinção da punibilidade o pagamento integral da obrigação, o que não foi observado pelos apelantes, a responsabilidade penal dos acusados é clara, não logrando a defesa em demonstrar qualquer elemento apto a afastar a validade do procedimento administrativo processado e concluído por agentes públicos, devidamente corroborado por meio de documentos, cuja imparcialidade, lealdade e boa-fé devem ser presumidas em favor da autoridade judiciária.
+Vê-se que as instâncias ordinárias afastaram a extinção da punibilidade pois não houve adimplemento integral do débito, mas apenas do principal, "não sendo realizado o pagamento do valor dos juros e da multa cobrados".
+O entendimento coaduna-se com o desta Casa, de que "Tanto a Lei nº 9.964/2000 em seu art. 15, § 3º como a Lei nº 10.684/2003 no art. 9º, § 2º condicionam aextinçãoda punibilidade dos crimes nelas referidos aopagamento integraldos débitos oriundos de tributos e contribuições sociais, inclusiveacessórios,sendo que esta última (lex mitior) não mais exige que o pagamento se dê antes do recebimento da denúncia como aquela. " (HC 82.020/SP, Relator Ministro Felix Fischer, Quinta Turma, DJ05/11/2007 p. 321). No mesmo sentido:
+ ..
+Ante o exposto, denego ohabeas corpus.
+Não se divisa motivo para conclusão diversa. Aextinção da punibilidade foi afastada pela sentença "considerando que somente o pagamento integral do tributo é causa extintiva de punibilidade."
+O acórdão, por seu turno, constatou "ter sido realizado o depósito judicial de apenas o ICMS cobrado no auto de infração, no valor de R$ 6.506,14 (fls. 208), não sendo realizado o pagamento do valor dos juros e da multa cobrados, não constando informações de eventual liquidação do débito ou o deferimento de pedido de parcelamento da dívida tributária".
+Quanto às teses de prescrição retroativa, da desproporcionalidade da multa em face do valor do tributo, e da aplicação do princípio da insignificância, não há manifestação das instâncias ordinárias. Assim, descabe a este STJ proceder à análise inaugural das matérias, sob pena de supressão de instância e ofensa aos princípios do duplo grau de jurisdição e devido processo legal. Neste sentido:RHC 126.604/MT, Relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 16/12/2020.
+Ante o exposto - os fundamentos do recurso não desautorizam as bases da decisão recorrida -, nego provimento ao agravo regimental.
+É o voto.
