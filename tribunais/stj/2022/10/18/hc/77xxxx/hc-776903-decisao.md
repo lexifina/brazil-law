@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em que se busca a substituição da custódia preventiva por medidas cautelares.
+Consta dos autos que o paciente foi preso em flagrante como incurso noartigoart. 33 da Lei n. 11.343/2006. A prisão em flagrante foi convertida em preventiva.
+Neste writ, sustenta a defesa que "a despeito da droga apreendida, a quantidade (50g de crack) bem evidencia a desproporcionalidade da medida cautelar extrema" (fl. 7).
+Acrescenta que a reincidência do paciente não é suficiente para manter a custódia, na medida em que se tratade apreensão de quantidade inexpressiva de drogas.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus, para que a medida extremaseja substituída por cautelares diversas.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+O decreto prisional possui a seguinte fundamentação(fls. 64-65):
+ ..
+O periculum in mora se encontra presente, no caso concreto, para garantia da ordem pública.
+Explico:
+O indiciado em que pese estar com pouca quantidade de droga já é reincidente no crime de tráfico (ev. 01,2, certidão de antecedentes) em 2017.
+Deste modo, tudo sugere que continua na atividade ilícita prejudicando a comunidade denotando sua personalidade voltada ao crime.
+Entendo, desta feita, ser imperiosa a manutenção da prisão decorrente de flagrante do indiciado, afim de garantir a ordem pública. Registro que é legítima a segregação sob este fundamento, considerando que segundo o escólio de Fernando da Costa Tourinho Filho, a ordem pública" ..  é a paz, a tranquilidade no meio social. Assim, se o indiciado ou réu estiver cometendo novas infrações penais, ou se ele já vinha cometendo outras, sem que a Polícia lograsse prendê-lo em flagrante; se estiver fazendo apologia ao crime, ou incitando ao crime, ou se reunindo em quadrilha ou bando, haverá perturbação da ordem pública  .. " (Código de Processo Penal Comentado. v. 1. 7. Ed. rev. aum. e atual. São Paulo: Saraiva, 2003, p. 691).
+Em razão dos novos padrões de criminalidade, o Judiciário vem atuando duramente a fim de acautelar a paz social. Nesta esteira:
+ ..
+Ademais, nenhuma das medidas cautelares do art. 319 do CPP (com redação dada pela Lei n. 12.403/11) mostra-se adequada ou suficiente para, neste momento processual, substituir a prisão preventiva, pelas seguintes razões: a) o comparecimento periódico em juízo (inciso I), a proibição de ausentar-se da comarca (inciso IV) e o monitoramento eletrônico (inciso IX) não inibirão a conduta criminosa do conduzido; b) o crime de tráfico de drogas não tem relação específica com determinados lugares (inciso II); c) a vítima é indeterminada, por ser toda a sociedade (inciso III); d) o ponto de tráfico do conduzido era sua própria residência, pelo que o seu recolhimento domiciliar somente servirá para a continuidade do comércio ilícito (inciso V); e) o conduzido não exerce função pública ou atividade econômica passível de suspensão (inciso VI) e é imputável (inciso VII); e f) o crime de tráfico, por disposição constitucional (art. 5º, XLIII), é inafiançável (inciso VIII). O requisito do art. 313, I, do CPP também restou preenchido, pois o crime de tráfico de drogas (Lei n. 11.343/06, art. 33, caput) é punido com pena de reclusão de 5 a 15 anos.
+Como se vê, expôs o decreto de prisão preventiva a necessidade da custódia em razão da reincidência específica do paciente. Contudo,as circunstâncias mencionadas nos autos não exigem tão gravosa medida, uma vez que a manutenção da prisão do paciente mostra-se desproporcional ante a inexpressiva quantidade de droga - 50g de crack. A esse respeito:
+PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE. ORDEM PARCIALMENTE CONCEDIDA.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, apesar de ter sido destacado que o paciente é "reincidente e  estava  em liberdade provisória em ação penal recente em que é acusado da prática de crime idêntico", a quantidade de entorpecentes apreendidos não é de grande monta. Tais circunstâncias justificam, tão somente, a imposição de medidas cautelares alternativas, revelando-se a prisão, in casu, medida desproporcional.
+3. Assim, as particularidades do caso demonstram a suficiência, adequação e proporcionalidade da imposição das medidas menos severas previstas no art. 319, em atenção ao preceito de progressividade das cautelas disposto no art. 282, §§ 4º e 6º, todos do Código de Processo Penal, em razão da quantidade não expressiva de droga apreendida, aliada ao fato de o delito não ter sido cometido mediante emprego de violência ou grave ameaça.
+4. Ordem parcialmente concedida para substituir a prisão preventiva por medidas cautelares diversas a serem fixadas pelo Juiz singular.(HC 730.026/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 03/05/2022, DJe 06/05/2022.)
+Ante o exposto, concedo liminarmente o habeas corpus para determinar a soltura do paciente, se por outro motivo não estiver preso, devendo apresentar endereço atualizado nos autos, para os devidos fins.
+Comunique-se.
+Publique-se.
+Intimem-se.
