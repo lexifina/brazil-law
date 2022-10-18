@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de Reclamação, ajuizada, em 10/10/2022, por ANTONIO LOPES JUNIOR, em que busca desconstituir decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+O reclamante sustenta, em síntese, que:
+"O presente recurso é em face da decisão proferida no evento nº 205 dos autos nº 5633734-15.2019.8.09.0000, no qual o Vice- presidente do Tribunal de Justiça do Estado de Goiás, Des. Zacarias Neves Coelho, inadmitiu os mesmos, Recurso Especial e o Recurso Extraordinário, protocolado em 09.05.2022, sob a alegação de intempestividade, resultando na seguinte decisão:
+(..)
+Importa dizer que os recursos foram considerados intempestividade, em razão do autor não juntado a prova do feriado judiciário decretado pelo próprio Tribunal de Justiça do Estado de Goiás, sem conceder o prazo de 5 (cinco) dias, de que trata o art. 932 parágrafo único do Código de Processo Civil, para que fosse juntado o decreto judiciário do próprio Tribunal de Justiça do Estado de Goiás.
+Primeiro há de se considerar que o Tribunal de Justiça do Estado de Goiás não pode desconhecer o seu próprio ato, consubstanciado no decreto de feriado judiciário, mais, ainda que assim fosse, teria que haver concedido o prazo 5 dias, para a juntada do documento, no caso o decreto de feriado judiciário do próprio Tribunal de Justiça do Estado de Goiás, como preconiza o art. 932, parágrafo único, do Código de Processo Civil e julgados deste Egrégio Tribunal.
+(..)
+Não demanda outra interpretação que não a literal do parágrafo único do art. 932 do Código de Processo Civil de 2015, vez que é expressa a determinação que, nos processos de origem do tribunal, cabe ao relator, antes de considerar inadmissível o recurso, deve conceder o prazo de 5 dias para que o recorrente sane o vício ou complete a documentação exigível, in verbis:
+(..)
+E, não diferente, em decisão proferida pela 1ª Turma do Supremo Tribunal Federal explanou-se que o prazo de cinco dias previsto no parágrafo único do art. 932 se aplica aos casos que seja necessário sanar vícios formais, como ausência de juntada de documentos e que não à complementação da fundamentação recursal, como é o caso dos autos nº 5633734-15.2019.8.09.0000, onde, de acordo com a própria decisão proferida pelo Vice Presidente deveria ter sido juntado cópia do decreto judiciário de feriado nos dias 13.04.2022, 14.04.2022, 15.04.2022 e 21.04.2022, de modo a comprovar a suspensão da contagem dos prazos, ou seja, embora entenda que o Tribunal de Justiça do Estado de Goiás, não poderia, sob nenhuma hipótese, desconhecer o seu próprio ato, mesmo quese considere a absurda hipótese, ainda assim, este é apenas um vício formal, que em nada afeta a fundamentação recursal.
+(..)
+O fato é que, trata-se de fato de notório, consequentemente, do pleno conhecimento do Tribunal de Justiça do Estado de Goiás a decretação, em todos os anos, da suspensão dos prazos em decorrência do feriado dos dias 13.04.2022, 14.04.2022, 15.04.2022 e 21.04.2022, bem como da existência do Decreto Judiciário nº 865/2022 do próprio Tribunal de Justiça do Estado de Goiás sobre o ponto facultativo no dia 22.04.2022,consequentemente, suspendendo os prazos processuais no âmbito do Poder Judiciário Goiano, não podendo o Vice-Presidente do próprio Tribunal de Justiça do Estado de Goiás, desconhecer esse fato, além de que, ainda que assim fosse possível, necessário se faria a abertura de prazo de 5 dias para juntada do decreto ou demais documento que julgasse necessário, o que deixou de fazer, afrontando a determinação do § único, do art. 932 do Código de Processo Civil, motivo, também, da presente reclamação.
+Isto posto, o Vice-Presidente não poderia ter INADMITIDO, sob o fundamento da INTEMPESTIVIDADE,
+(..)
+Portanto, deve a presente reclamação ser recebida nos termos do art. 988 do Código de Processo Civil, a fim de que sejadeterminado ao Tribunal de Justiça do Estado de Goiás, na figura do Relator e Vice-Presidente do Tribunal, exerça juízo de retratação, reconhecendo a existência dos feriados nacionais dos dias dias13.04.2022, 14.04.2022, 15.04.2022 e 21.04.2022 e do feriado no Judiciário Goiano do dia 22.04.2022 em razão do Decreto Judiciário nº 865/2022 do próprio Tribunal de Justiça do Estado de Goiás, para CONSIDERAR TEMPESTIVO o Recurso apresentado ou CONCEDER a ABERTURA DO PRAZO DE 5 DIAS PARA JUNTADA DO DECRETO na forma do art. 932, § único, do Código de Processo Civil" (fls. 4/17e).
+Ao final, requer:
+"a. que seja julgada PROCEDENTE a presente RECLAMAÇÃO, cassando o acórdão do Vice-Presidente do Tribunal de Justiça de Goiás para CONSIDERAR TEMPESTIVO o Recurso apresentado;
+b. e, ainda que seja julgada cassado o acórdão do Vice-Presidente do Tribunal de Justiça de Goiás, por violação ao § único, do art. 932 do Código de Processo Civil.
+c. Que seja suspenso o processo nº 5633734-15.2019.8.09.0000, a fim de evitar dano irreparável, caso transite em julgado o acórdão reclamado, nos termos do art. 989, II do Código de Processo Civil" (fl. 17e).
+A presente Reclamação é manifestamente incabível.
+Com efeito, nos termos do art. 105, I, f, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, a reclamação para a preservação de sua competência e garantia da autoridade de suas decisões.
+Já o art. 988 do CPC/2015 assim determina:
+"Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência".
+Assim, a Reclamação tem como finalidade preservar a competência do Superior Tribunal de Justiça ou garantir a autoridade de suas decisões, sempre que haja indevida usurpação, por parte de outros órgãos, de sua competência constitucional.
+Da leitura da petição inicial não se verifica qualquer das hipóteses preconizadas pelo texto constitucional. O reclamante apenas defende o equívoco da decisão reclamada, que teria reconhecido a intempestividade deseus Recurso Especial e Extraordinário.
+Nesse contexto, o reclamante procura, na verdade, utilizar-se da Reclamação como sucedâneo recursal, o que não é cabível.Nesse sentido:STJ, EDcl nos EDcl na Rcl 19.603/BA, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 06/11/2014; AgRg na Rcl 28.085/CE, Rel. Ministro MAURO CAMPBELL MARQUES, DJe de 17/12/2015.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, não conheço da Reclamação.
+I.
