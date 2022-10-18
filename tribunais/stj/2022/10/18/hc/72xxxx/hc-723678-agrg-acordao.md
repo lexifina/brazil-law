@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO. TENTATIVA. FRAÇÃO DE REDUÇÃO. ITER CRIMINIS PERCORRIDO.
+1. A decisão agravada foi proferida nos termos da lei, na linha de que a diminuição de pena do crime tentado deve ser considerada de forma inversamente proporcional à aproximação do resultado representado  quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição.
+2. O Tribunal de origem concluiu que deveria ser mantido o redutor de 1/3 em razão da tentativa, por estar adequado ao iter criminis percorrido, que havia tangenciado a consumação, pois, "o réu já havia colocado pelo lado de fora da moradia, pela janela sobre o telhado, parte da res furtiva, bem como já possuía selecionados no interior do imóvel mais bens de titularidade da vítima".
+3. A (eventual) conclusão de que o iter criminis não se aproximou do resultado consumativo demandaria incursão na esfera fático-probatória dos autos, inviável em habeas corpus.
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que denegou o habeas corpus.
+Sustenta o agravante, renovando os fundamentos trazidos na inicial, que a hipótese é de que a redução pela tentativa em 2/3.
+Destaca que se trata de revaloração dos argumentos consignados na decisão recorrida, de fato incontroverso, devidamente estabelecido nas instâncias ordinárias, não caracterizando reexame fático-probatório.
+Argumenta que "embora parcela das coisas estivesse do lado de fora da residência, estava ainda no mesmo terreno, em cima do telhado de outro cômodo".
+Assevera que "A interrupção da execução do crime, nessas circunstâncias, não tendo o agente nem sequer colocado as coisas para fora do imóvel da vítima, tendo sido ainda surpreendido dentro do local, não se pode equiparar ao caso em que o agente é surpreendido próximo da saída ou em que tenha efetivamente retirado parcela das coisas do terreno em que supostamente subtraídas".
+Nessas premissas, pede a reconsideração da decisão agravada ou a submissão do feito à Turma
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  A defesa busca o provimento do agravo para se reconhecer o aumento do quantum de redução da tentativa de 1/3 para 2/3, achando-se a decisão agravada assim fundamentada (fls. 360-362):
+ ..
+Em relação à fração aplicada a título da tentativa, consta da sentença (fl. 225):
+Milita em favor do acusado a causa geral de diminuição referente à tentativa (art. 14, inciso II, CP), e, conforme o iter criminis percorrido pelo réu, o qual chegou a se apossar da res furtiva, aplica-se a redução em seu patamar mínimo, ou seja, 1/3 (um terço), ou seja, 1 (um) ano, 5 (cinco) meses e 23 (vinte e três) dias, fixando-se a pena definitivamente em 2 (dois) anos, 11 (onze) meses e 16 (dezesseis) dias de reclusão, além do pagamento de 11 (onze) dias-multa, no valor individual de 1/30 do salário mínimo vigente à época dos fatos, diante da inexistência de outras circunstâncias modificadoras.
+Sobre a matéria, consta do acórdão (fls. 52-53):
+IV. Da fração empregada a titulo de tentativa
+Roga-se, também, pela aplicação da minorante da tentativa (art. 14, inciso II, do Código Penal) na fração máxima de 2/3, muito embora tenha o juízo fundamentado no particular que "milita em favor do acusado a causa geral de diminuição referente à tentativa (art. 14, inciso II, CP), e, conforme o iter criminis percorrido pelo réu, o qual chegou a se apossar da res furtiva, aplica-se a redução em seu patamar mínimo, ou seja, 1/3 (um terço)".
+Sorte, porém, não lhe assiste.
+Concernente à fração de diminuição da pena em razão de ter sido o crime tentado (CP, art. 14, II), tem-se que o decisum não merece modificação, visto que, segundo o entendimento amplamente adotado por este Tribunal de Justiça, a fração de redução deve ser aplicada de acordo com o caminho percorrido pelo agente: quanto mais o acusado se aproximar da consumação do delito, menor deve ser a fração de redução da pena.
+Ocorre que, na espécie, em atenção à dinâmica dos fatos, extrai-se que o apelante, imbuído de animus furandi, já havia adentrado à propriedade da vítima e até mesmo separado a res furtiva para empreitar a almejada fuga, o que, entretanto, não se perfectibilizou por circunstâncias alheias à sua vontade, justamente porque a sua saída, com os objetos já separados, coincidiu com a chegada dos policiais no local, o que obstou a completude da ação. A propósito, tal como salientado pelos policiais ouvidos em juízo, o réu já havia colocado pelo lado de tora da moradia, pela janela sobre o telhado, parte da res furtiva, bem como já possuía selecionados no interior do imóvel mais bens de titularidade da vítima. Pior, ao final, ao tentar fugir, acabou quebrando o telhado e ficando pendurando, a permitir a prisão.
+Assim, o itinerário percorrido (bastante avantajado), porquanto mais próximo da consumação do que do início dos atos executórios, justifica a fixação do fracionamento no patamar mínimo de 1/3, conforme adotado pelo sentenciante, uma vez que o denunciado, ao contrário do alegado pela defesa, esteve consideravelmente próximo de consumar o furto, apenas não logrando êxito porque a polícia militar prontamente o surpreendeu e o localizou após as denúncias oferecidas sobre o crime.
+Mantém-se, com isso, o entendimento adotado na origem.
+Como se vê, as instâncias ordinárias concluíram fundamentadamente pela redução em 1/3, em face doiter criminis descrito, tendo em vista que o paciente chegou a se apossar da res furtiva, consignando, ainda, que "o itinerário percorrido (bastante avantajado), porquanto mais próximo da consumação do que do início dos atos executórios, justifica a fixação do fracionamento no patamar mínimo de 1/3".
+Portanto, é certo que "a inversão do julgado, de forma a verificar se deve ser aplicada a fração máxima do redutor pela tentativa, implicaria profunda análise do arcabouço fático-probatório, o que é defeso na via estreita do habeas corpus". (HC 456.927/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/03/2019, DJe 28/03/2019). No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. TENTATIVA. FRAÇÃO DE AUMENTO. CASO CONCRETO. ITER CRIMINIS PERCORRIDO. DILAÇÃO PROBATÓRIA. RECURSO NÃO PROVIDO.
+1. As instâncias ordinárias fundamentaram, com base nas circunstâncias do caso concreto, a redução de pena no patamar de 1/3, tendo em vista o iter criminis percorrido pelo agente.
+2. Para alteração do entendimento a respeito da maior ou da menor proximidade da consumação do crime, adotado nas instâncias ordinárias, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado em habeas corpus.
+3. Agravo regimental não provido. (AgRg no HC 370.282/MS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/12/2017, DJe 19/12/2017.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
+Em relação ao patamar de redução da tentativa, o Tribunal de origem concluiu que a fração de 1/3 de redução deveria ser mantida, por estar adequado ao iter criminis percorrido, que havia tangenciado a consumação, pois "o réu já havia colocado pelo lado de fora da moradia, pela janela sobre o telhado, parte da res furtiva, bem como já possuía selecionados no interior do imóvel mais bens de titularidade da vítima".
+Logo, a decisão agravada foi proferida nos termos da lei, de que a diminuição de pena do crime tentado deve ser considerada de forma inversamente proporcional à aproximação do resultado representado  quanto maior o iter criminis percorrido pelo agente, menor será a fração da causa de diminuição.
+Ademais, as particularidades do caso concreto justificavam o quantum aplicado pelas instâncias ordinárias, tendo em vista o iter criminis substancialmente percorrido.
+Portanto, a (eventual) conclusão de que o iter criminis não se aproximou do resultado consumativo demandaria incursão na esfera fático-probatória dos autos, inviável em habeas corpus. Em suma, não há razões para alterar o entendimento anteriormente firmado, razão pela qual nego provimento ao agravo regimental.
+É o voto.
