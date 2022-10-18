@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+DENILSON APARECIDO DOS SANTOS agrava contra decisão, em que neguei provimento ao recurso.
+No regimental, a defesa reitera as arguições outrora formuladas e sustenta que, depois do indeferimento da prisão temporária, o Juízo singular decretou a constrição preventiva do recorrente, sem o advento de outros fatos e sem fundamentação idônea. Aduz que não há indícios suficientes de autoria e que o investigado não foi reconhecido pela vítima. Salienta que o decisum prisional se refere à arma de fogo, no entanto o objeto não foi apreendido, tampouco sujeito a laudo pericial. Diante da segregação do acusado e da sua companheira, afirma que os filhos do réu estão sob os cuidados de um "parente próximo", uma vez que a mãe "convive em outra família" (fl. 799).
+Requer a reconsideração do decisum ou a submissão do agravo ao órgão colegiado, a fim de que seja provido o reclamo, com a expedição de alvará de soltura ou a fixação de custódia domiciliar em favor do agravante.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS. EXTORSÃO QUALIFICADA. PRISÃO PREVENTIVA. PARTICIPAÇÃO DO RÉU. RISCO DE REITERAÇÃO. AGRAVO NÃO PROVIDO.
+1. É assente nesta Corte Superior que o regimental deve trazer novos argumentos hábeis a infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.
+2. A despeito do não reconhecimento do acusado pela vítima, uma vez que ele não interpelou diretamente a ofendida, depreende-se que o réu compactuou com o desempenho dos outros denunciados, com os mesmos desígnios, ao conduzir o veículo, que levou os comparsas ao local onde a vítima foi abordada, e manteve-se próximo, a fim de dar cobertura à empreitada e assegurar a fuga dos demais.
+3. A participação relevante e indispensável do insurgente para a execução dos delitos, o alcance de valores ilícitos em seu próprio benefício e a indicada prática, pelo acusado, de outros atos de extorsão, com o mesmo modus operandi, são bastantes para lastrear a medida cautelar mais onerosa que lhe foi imposta, ante o risco concreto de reiteração delitiva.
+4. É dispensável a apreensão e a perícia da arma de fogo, para a incidência do disposto no art. 158, § 1º, do Código Penal, se evidenciada a utilização do artefato por outros meios de prova, como a palavra da vítima ou o depoimento de testemunhas. Precedentes.
+5. Agravo não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+É assente neste Tribunal Superior que o regimental deve trazer novos argumentos hábeis a infirmar a decisão agravada, sob pena de manutenção do decisum pelos próprios fundamentos.
+Ilustrativamente:
+ ..  4. À míngua de argumentos novos e idôneos para infirmar os fundamentos da decisão agravada, proferida em conformidade com a jurisprudência desta Corte e com a legislação processual pertinente, mantenho-a incólume.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 511.801/SE, Rel. Ministra Laurita Vaz, 6ª T., DJe 4/2/2020.)
+In casu, nenhuma alegação nova, distinta das arrazoadas no writ, foi deduzida, no agravo, razão por que mantenho a decisão monocrática intacta.
+Ainda que assim não fosse, as peças do recurso indicam que as ponderações das instâncias ordinárias são suficientes para demonstrar o periculum libertatis, contextualizado em elementos concretos, diante do modus operandi de que se valeu o réu para efetivar o delito, que lhe foi imputado.
+A "despeito do não reconhecimento de Denilson pela vítima, em sede policial", depreende-se dos documentos colacionados aos autos que "o recorrente compactuou com o desempenho dos outros acusados, com os mesmos desígnios, para a prática de crime com emprego de grave ameaça" (fl. 778, destaquei).
+Ao que consta do feito, Denilson não interpelou diretamente a vítima, tampouco estava no automóvel que a transportou em direção aos caixas eletrônicos (fls. 193; 270-272). Em consequência, a ofendida não o reconheceu "como um dos indivíduos que cometeu os papéis descritos na denúncia" (fl. 777).
+Nada obstante, de acordo com a instrução do reclamo, "o recorrente conduziu o veículo alugado entre São Paulo e o Rio de Janeiro, hospedou-se com a codenunciada Josiane, sua companheira, em um hotel e, na data descrita na inicial acusatória, levou os comparsas ao local onde a ofendida foi abordada e manteve-se próximo, a fim de dar cobertura à empreitada criminosa e assegurar a fuga dos demais" (fls. 777-778, grifei).
+Segundo as "peças do writ", houve "participação relevante e indispensável do recorrente para o alcance dos valores ilícitos pelos membros associados e em seu próprio benefício". Ademais, "sublinhou a Corte estadual que, "além de ser o chefe de uma organização criminosa, atuava" o ora insurgente "como motorista e vigia da execução delitiva levada a cabo pelos comparsas"" (fl. 778, destaquei).
+Muito "embora o decreto preventivo não decorra de fatos supervenientes ao indeferimento do cárcere temporário", ressaltou a decisão unipessoal que, ao menos em princípio, "a motivação do decisum constritivo de Denilson se baseou em circunstâncias  ..  aferidas posteriormente, com a prorrogação das investigações" (fl. 778, grifei).
+O risco de reiteração delitiva, demonstrado, inclusive, por "outros relatos prestados à autoridade policial, de vítimas de extorsão, com o mesmo modus operandi -  em  19/1/2022; 1º/2/2022; 15/2/2022; 8/3/2022; 15/3/2022 e 23/3/2022" -, indica a "idoneidade do decreto de segregação processual do acusado" (fl. 778).
+Dessarte, afora os precedentes trazidos na decisão refutada (fls. 778-779), trago a lume os seguintes:
+ ..  verifica-se que a prisão preventiva foi adequadamente decretada e, posteriormente, mantida pelo Magistrado sentenciante e pela Corte estadual, ante a demonstração, com base em elementos concretos, da gravidade concreta da conduta e da periculosidade da paciente, que, aderindo à prática delituosa, em comunhão de desígnios com os corréus que cercaram a vítima e, mediante grave ameaça com uso de arma de fogo, fizeram-na dirigir o caminhão até o local onde estava a agravante com outro veículo, para fazer o transporte da carga roubada (AgRg no HC n. 712.399/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 14/3/2022).
+6. Agravo regimental improvido.
+(AgRg no HC n. 733.437/PE, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 20/6/2022.)
+ ..  II - Segundo o delineamento fático traçado pelo Tribunal de origem, o paciente Alison, além de ter participado da trama delitiva, atuou na empreitada criminosa mediante unidade de desígnios e divisão de tarefas, sendo suas ações responsáveis pelo sucesso da jornada criminosa. Nesse passo, maiores incursões acerca da suposta lesão à teoria monista ou unitária da ação - art. 29, § 1º, do Código Penal -, com a finalidade de fazer incidir a participação de menor importância, demandariam revolvimento detido do acervo fático-probatório dos autos, o que não se mostra viável em sede de habeas corpus. Precedentes.
+III - Além disso, convém registrar que, "na esteira do entendimento desta Corte, o prévio ajuste de vontades para a prática do delito praticado impõe, a princípio, a responsabilização de todos os envolvidos, haja vista ser o resultado desdobramento ordinário da conduta criminosa em que todos contribuem para prática do evento típico" (AgRg no AREsp n. 1.277.586/RN, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 14/12/2018).
+ ..  Agravo regimental desprovido.
+(AgRg no HC n. 510.420/SC, Rel. Ministro Felix Fischer, 5ª T., DJe 7/12/2020).
+Outrossim, aos ditames da orientação deste Superior Tribunal, é prescindível a apreensão e a perícia da arma de fogo, para a incidência do disposto no art. 158, § 1º, do Código Penal, se a utilização do artefato se evidenciar por outros meios de prova, como a palavra da vítima ou o depoimento de testemunhas.
+Nesse sentido:
+ ..  1. Não apreendida a arma de fogo e não periciado o seu potencial vulnerante, é possível a comprovação dessa majorante mediante prova oral, inclusive o depoimento da vítima. Precedentes da Corte.  ..
+(AgRg no HC n. 719.988/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 28/3/2022.)
+A propósito dos filhos do recorrente, "os documentos colacionados ao recurso" atestam que "não se trata de menores de "tenra idade", como assevera o impetrante (fl. 158), mas sim de jovens com 11 e 13 anos (fls. 749; 751)". De mais a mais, "a defesa não logrou comprovar, como lhe competia, a indispensabilidade da presença do réu para os cuidados e sustento das crianças" (fl. 779).
+À vista do exposto, nego provimento ao agravo.
