@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de PAULO HENRIQUE DA SILVA contra decisão proferida pelo Desembargador Relator do HC n. 2241124-76.2022.8.26.0000, em trâmite no Tribunal de Justiça do Estado de São Paulo.
+Consta nos autos que o Paciente foi condenado às penas de 9 (nove) anos e 4 (quatro) meses de reclusão, em regime inicial fechado, e 1.399 (miltrezentos e noventa e nove) dias-multa, como incurso nos arts. 33,caput, e 35, ambos da Lei n. 11.343/2006.
+A Defesa impetrouhabeas corpusperante o Tribunal de origem, tendo sido indeferido o pedido liminar.
+Nestewrit, o Impetrante sustenta a ilegalidade da prisão, por ter sido o mandado de prisão cumprido por guarda municipal.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do Paciente, ou a aplicação de medidas cautelares diversas da prisão.
+É o relatório. Decido.
+Conforme entendimento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admitehabeas corpuscontra decisão negativa de liminar proferida em outrowritna instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691 do Supremo Tribunal Federal ("Não compete ao Supremo Tribunal Federal conhecer dehabeas corpusimpetrado contra decisão do Relator que, emhabeas corpusrequerido a tribunal superior, indefere a liminar"), aplicável,mutatis mutandis, ao Superior Tribunal de Justiça (v.g.: AgInt no HC 495.842/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 16/10/2019; AgInt no HC 486.524/SP, Rel. Ministra ISABEL GALLOTTI, QUARTA TURMA, DJe 07/06/2019; AgRg no HC 568.995/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 04/05/2020; AgRg no HC 550.844/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/02/2020).
+Assim, ordinariamente, não pode ocorrer a superação de tal óbice processual, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências) - , o que não constato na espécie, considerando que a prisão do Paciente decorre de mandado de prisão emanado da autoridade judicial, o que difere dos casos de prisão em flagrante efetuada por guarda municipal.
+Destaque-se que " e ventual irregularidade no cumprimento do mandado de prisão não enseja a nulidade da decisão que a decretou, tratando-se de questão que deve ser apurada administrativa e civilmente, a fim de que eventuais excessos ou violações a direitos sejam punidos"(RHC n. 91.342/SP, Rel.Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/2/2018, DJe 7/3/2018).
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTROHABEAS CORPUSNA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
