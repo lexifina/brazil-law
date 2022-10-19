@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Ademir dos Santos contra o acórdão de apelação proferido pelo Tribunal de Justiça de Alagoas nos autos da Ação Penal n. 0004039-44.2014.8.02.0058, que, acolhendo parcialmente as razões defensivas, redimensionou a pena, nos termos da seguinte ementa (fls. 170/171 - grifo nosso):
+PENAL. PROCESSO PENAL. APELAÇÃO. TRÁFICO DE DROGAS. PEDIDO DE ABSOLVIÇÃO. SEM RAZÃO. PROVAS NOS AUTOS COMPROVAM A AUTORIA E MATERIALIDADE DO CRIME DE TRÁFICO DE DROGAS. PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. JUÍZO A QUO NÃO RECONHECEU O TRÁFICO PRIVILEGIADO DEVIDO À QUANTIDADE DE DROGAS APREENDIDAS. IMPOSSIBILIDADE. DROGAS APREENDIDAS EM PEQUENA QUANTIDADE. REDIMENSIONAMENTO DAS PENAS PRIVATIVA DE LIBERDADE E DE MULTA COM A CONSEQUENTE MODIFICAÇÃO DO REGIME DE CUMPRIMENTO DA PENA. RECURSO PARCIALMENTE PROVIDO. DECISÃO UNÂNIME.
+ ..
+III- Pleito de aplicação da causa de diminuição em decorrência do tráfico privilegiado. Verifica-se que o magistrado a quo fundamentou o afastamento do tráfico privilegiado, baseado na quantidade de drogas apreendidas em poder do réu, porém, o que se denota dos autos é que a quantidade de droga apreendida em posse do réu não lastreia a possibilidade de enquadrá-la em alta quantidade, tendo em vista que se trata de 22 (vinte e duas) bombinhas de maconha, pesando aproximadamente 12 gramas.
+IV- Embora o apelante responda a outros processos criminais, eles ainda não se encontram transitados em julgado, devendo incidir o tema repetitivo 1139, segundo o qual "É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06", devendo, assim, ser reconhecido o tráfico privilegiado com o consequente redimensionamento da reprimenda.
+V - Penas privativa de liberdade e de multa redimensionadas.
+Fixado o regime de cumprimento de pena aberto, levando-se em consideração a primariedade do réu, a pena aplicada, bem como a inexistência de circunstâncias judiciais desfavoráveis ao condenado.
+VI- Recurso parcialmente provido. Unânime.
+Narram os autos que o Juízo da 8ª Vara Criminal de Arapiraca/AL condenou o paciente a 5 anos de reclusão, no regime semiaberto, além de 500 dias-multa, no valor mínimo legal, pela prática do crime do art. 33, § 4º, da Lei n. 11.343/2006, por trazer consigo 12 g de maconha.
+O Tribunal de Justiça alagoano deu provimento à apelação para aplicar a causa de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, no patamar de 1/3, fixando a pena definitiva em 2 anos e 6 meses de reclusão, em regime aberto.
+A defesa aponta, na presente impetração, constrangimento ilegal na dosimetria da pena, em razão da aplicação do referido patamar da causa de diminuição da pena (art. 33, § 4º, da Lei n. 11.343/2006), requerendo a incidência da fração máxima.
+Requer, liminarmente e no mérito, a aplicação do patamar de 2/3 de redução da pena.
+É o relatório.
+A impetração merece ser acolhida.
+Com efeito, ao que se observa, as instâncias ordinárias apresentaram fundamento inidôneo para manter a fração mínima da causa de diminuição, sobretudo porque a quantidade das drogas apreendidas, a meu ver (12 g de maconha), não o justifica, sendo perfeitamente cabível a sua aplicação em patamar máximo (2/3).
+Nesse sentido, destaco o entendimento do Superior Tribunal de Justiça de que a apreensão de pequena quantidade de cocaína, não obstante seja considerada uma das mais nocivas, não justifica, por si só, o aumento da reprimenda na primeira fase da dosimetria. (AgInt no HC n. 403.668/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 14/11/2017 - grifo nosso).
+Confira-se, ainda: HC n. 406.150/ES, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 31/8/2017.
+Ademais, tanto a Quinta quanto a Sexta Turmas deste Superior Tribunal firmaram o entendimento de que, considerando que o legislador não estabeleceu especificamente os parâmetros para a escolha da fração de redução de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, devem ser consideradas, para orientar o cálculo da minorante, as circunstâncias judiciais previstas no art. 59 do Código Penal, especialmente o disposto no art. 42 da Lei de Drogas (HC n. 484.438/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 25/4/2019).
+Nesse contexto, valendo-me dos fundamentos da dosimetria adotados nas primeira e segunda etapas, aplicando o referido patamar na terceira fase, fixo a pena definitiva em 1 ano e 8 meses de reclusão, além do pagamento de 166 dias-multa, no valor mínimo legal.
+À míngua de elemento concreto a justificar o regime mais rigoroso, mantenho a aplicação direta do art. 33, § 2º, c, do Código Penal, feita no acórdão impugnado, mantendo o regime inicial aberto.
+Outrossim, o entendimento no que se refere à vedação da substituição da pena privativa de liberdade por restritiva de direitos (art. 44, caput, da Lei n. 11.343/2006) foi superado pelo Supremo Tribunal Federal no julgamento do HC n. 101.291/SP (DJe 12/2/2010), motivo pelo qual deve ser permitida a substituição da reprimenda por duas restritivas de direitos a serem escolhidas pelo Juízo das Execuções Criminais.
+Ante o exposto, concedo liminarmente a ordem a fim de redimensionar a pena para 1 ano e 8 meses de reclusão, além do pagamento de 166 dias-multa, no valor mínimo legal, mantendo o regime inicial aberto para o cumprimento da pena; e de ofício,substituo a pena privativa de liberdade por duas medidas restritivas de direitos a serem fixadas pelo Juízo das Execuções Criminais.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. 12 G DE MACONHA. ÍNFIMA QUANTIDADE DA DROGA APREENDIDA QUE NÃO JUSTIFICA APLICAÇÃO DE PATAMAR MÍNIMO DA CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. MANIFESTO CONSTRANGIMENTO ILEGAL.
+Ordem concedida liminarmente e de ofícionos termos do dispositivo.
