@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por WILSON TANAJURA LUZ (WILSON), com fundamento no art. 105, III, alíneaa,da CF, contra acórdão proferido pelo Tribunal de Justiça de Goiás, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. IMPENHORABILIDADE. PEQUENA PROPRIEDADE RURAL. BEM FAMÍLIA. DÍVIDA DECORRENTE DA ATIVIDADE PRODUTIVA. FALTA DE PROVAS. DECISÃO MANTIDA.
+1 - De acordo com a Constituição Federal, a pequena propriedade rural, assim definida em lei, desde que trabalhada pela família, não será objeto de penhora para pagamento de débitos decorrentes de sua atividade produtiva, dispondo a lei sobre os meios de financiar o seu desenvolvimento (art. 5º, inc. XXVI).
+2 - Constitui ônus do executado/agricultor apenas demonstrar que as dimensões do imóvel o enquadram como "pequena propriedade rural", constituindo ônus do credor/exequente a prova de que o imóvel rural não é trabalhado pela família.
+3 - No caso dos autos, embora tenha a presunção de que se trata de bem de família, como não foi demonstrado pelo apelado/embargante que o débito executado decorre de sua atividade produtiva, conforme preceitua a Carta Magna, não há como lhe conceder a proteção legal de impenhorabilidade. Ademais, mostra-se possível a penhora, já que foi constritado somente 03 alqueires de um imóvel de 17 alqueires, sendo possível o seu desmembramento, ressaltando que o devedor possui outra gleba de terras, não pondo em risco o direito à moradia.Acrescente-se que, embora a lei proteja o direito de moradia da família, não se pode ignorar o direito da parte exeqüente de obter a satisfação de seu crédito.
+RECURSO CONHECIDO E DESPROVIDO (e-STJ, fl. 173).
+Os embargos de declaração opostos por WILSONforam rejeitados (e-STJ, fls. 201/206).
+Nas razões do presente recurso, WILSONalegoua violação aos artigo 833, VIII, CPC, ao sustentar que:(1)a terra penhorada compõe uma pequena propriedade rural onde o executado reside desde sua aquisição e retira seu sustento com a exploração pecuária de um pequeno rebanho leiteiro;(2)a lei exige apenas que a áreaseja qualificada como pequena propriedade rural e que seja trabalhada pela sua família,não havendo que se exigir um terceiro requisito, qual seja, a de que o débito decorra da atividade produtiva;(3)a proteção legal se estende à toda aérea compreendida como pequena propriedade rural, não sendo possível o seu fracionamento.
+Foramapresentadas contrarrazões (e-STJ, fls. 234/241).
+A decisão de e-STJ, fls. 275/76 conheceu o agravo para determinar sua autuação como recurso especial.
+É o relatório.
+Decido.
+De plano, vale pontuar que o agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O recurso não merece prosperar.
+(1) Da possibilidade de desmembramento da propriedade rural
+Em suas razões recursais WILSON sustentou que a proteção legal se estende à toda aérea compreendida como pequena propriedade rural, não sendo possível o seu fracionamento.
+Esta Corte Superior adota o entendimento de que o bem de família, em razão da sua função social, impossibilita sua alienação para satisfação de dívida. No entanto, em determinadas hipóteses, tal impenhorabilidade pode ser mitigada, como no caso em tela, em que a propriedade rural tem extensão suficiente para ser dividida e o direito à moradia não foi prejudicado.
+O Tribunal Paranaense, soberano na análise do conteúdo fático-probatório, concluiu ser possível a penhora sobre parte do imóvel, sem qualquer prejuízo à moradia do devedor,nos seguintes termos:
+Por conseguinte, registro que a penhora foi efetivada somente em parte do imóvel - 03 alqueires dentro de 17 alqueires, de modo que não traz prejuízo ao devedor, já que o que se visa é proteger a residência para fins de moradia, considerando que o agravante possui outra gleba de terras de 10 alqueires, consoante escritura constante nos autos, situação que não trará prejuízo para a sua sobrevivência que diz ser da produção agropastorial.
+Não obstante a presunção de que se trata de bem de família, a penhora de parte da fração ideal(cerca de 20%) de área rural, não pode ser tida como afronta ao direito constitucionalmente protegido, sobretudo porque o que se visa é proteger o direito de moradia.
+Sendo assim, existe a possibilidade de desmembramento e constrição de parte do bem de família quando, diante das peculiaridades do caso, não houver prejuízo à área residencial do imóvel, poisincide apenas sobre o percentual de pouco mais de 17% da área total do bem constrito (e-STJ, fls. 171).
+Ressalte-se que para se alterar o entendimento sobre a possibilidade de desmembramento da propriedade rural, com a ressalva de não existir qualquer prejuízo à área residencial do imóvel,seria necessária a análise do conjunto fático-probatório carreado aos autos, procedimento sabidamente inviável nesta instância recursal, nos termos da Súmula nº 7 desta Corte.
+A propósito, citam-se os seguintes julgados:
+CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PROPRIEDADE RURAL COM LEILÃO PRÓXIMO. PLEITO PARA QUE SE REAVALIE A IMPENHORABILIDADE DO IMÓVEL. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. PRECEDENTES.
+1. O bem de família em razão da sua função social, impossibilita sua alienação para satisfação de dívida. No entanto, em determinadas hipóteses, tal impenhorabilidade pode ser mitigada, como no caso em tela, em que a propriedade rural tem extensão suficiente para ser dividida e não ficou comprovado o uso de toda a sua área para subsistência da unidade familiar.
+2. As instâncias ordinárias, com base nas provas colacionadas, concluíram que inexistem impedimentos para a hasta pública da propriedade rural penhorada. Entendimento diverso por meio do especial demandaria o revolvimento do acervo probatório.
+3. O executado não apresentou argumento novo capaz de modificar a conclusão adotada, que se apoiou em entendimento aqui consolidado.
+Incidência da Súmula nº 7 do STJ.
+4. Agravo regimental não provido.
+(AgRg nos EDcl no AREsp n. 559.836/SP, de minha relatoria, Terceira Turma, julgado em 12/2/2015, DJe de 20/2/2015.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. BEM DE FAMÍLIA. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DECISÃO MANTIDA.
+1. Ausente o enfrentamento do tema pelo Tribunal de origem, inviável o conhecimento do recurso especial, por falta de prequestionamento (Súmulas n. 282 e 359 do STF).
+2. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, o exame da pretensão recursal, no sentido de verificar que o imóvel penhorado seria bem de família, demandaria o reexame de fatos e provas, o que é vedado em recurso especial.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 362.537/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 18/12/2014, DJe 2/2/2015)
+(2) Dos requisitos para o reconhecimento da impenhorabilidade
+WILSON defendeu ainda que: (1) a terra penhorada compõe uma pequena propriedade rural onde o executado reside desde sua aquisição e retira seu sustento com a exploração pecuária de um pequeno rebanho leiteiro; (2) a lei exige apenas que a area seja qualificada como pequena propriedade rural e que seja trabalhada pela sua família, não havendo que se exigir um terceiro requisito, qual seja, a de que o débito decorra da atividade produtiva.
+Tendo em vista que o Tribunal estadual reconheceua possibilidade de a constrição recair em parte do imóvel rural (03 alqueires dentro de 17 alqueires), sem prejuizo à moradia do devedor, forçoso reconhecer que a discussão a respeito dos requisitos que caracterizam a impenhorabildiade restou prejudicada.
+Isso porque somente foi autorizada a penhora de cerca de 20% da área total do bem "considerando que o agravante possui outra gleba de terras de 10 alqueires, consante escritura constante nos autos, situação que não trará prejuízo para a sua sobrevivência que diz ser da produção agropastorial" (e-STJ, fls. 171).
+Nessas condições, CONHEÇO EM PARTE o apelo nobre e, nesta extensão, NEGO PROVIMENTO ao recurso.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NCPC. EXECUÇÃO. CHEQUE. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PENHORA DE PARTE IDEAL DE PROPRIEDADE RURAL. POSSIBILIDADE DE DESMEMBRAMENTO SEM PREJUÍZO AO DIREITO DE MORADIA DO DEVEDOR. IMPUGNAÇÃO QUANTO AO RECONHECIMENTO DO FRACIONAMENTO DA PROPRIEDADE. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISCUSSÃO A RESPEITO DOS REQUISITOS QUE CARACTERIZAM A IMPENHORABILIDADE. MÁTERIA PREJUDICADA. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
