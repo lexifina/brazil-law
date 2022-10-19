@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JEFFERSON DA SILVA RIBEIRO apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi denunciado como incurso no art. 33, caput, da Lei n. 11.343/2006, tendo o Magistrado de origem desclassificado sua conduta para o tipo penal do art. 28, inciso I, da Lei de Drogas, declinado de sua competência.
+Irresignado, o Ministério Público interpôs recurso de apelação, ao qual se deu provimento, para que os autos retornassem ao primeiro Juízo, com aplicação da perpetuatio jurisdiocionis, com remessa dos autos ao parquet para proposta de suspensão condicional do processo.
+Contudo, o Ministério Público não apresentou a proposta, por considerar se tratar de hipótese de tráfico. Dessa forma, sobreveio nova sentença, agora absolutória, contra a qual foi interposta nova apelação, a qual se deu provimento para condenar o paciente à pena de 5 anos de reclusão, em regime fechado.
+No presente mandamus, a defesa aduz, em síntese, que houve a prescrição da pretensão punitiva estatal, haja vista o decurso de mais de 6 anos entre a data do oferecimento da denúncia e da prolação do acórdão condenatório, devendo se considerar o prazo prescricional pela metade, em virtude de ser menor de 21 anos à época dos fatos.
+Subsidiariamente, entende que o paciente faz jus à causa de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 bem como à aplicação de regime mais brando para cumprimento da pena.
+Pugna, assim, inclusive liminarmente, pela permanência do paciente "em prisão cautelar domiciliar até o trânsito em julgado do processo em seu desfavor".
+É o relatório. Decido.
+De plano, observo que o corréu LUCAS DE SOUZA CAIRES impetrou o Habeas Corpus n. 776.661/SP, no qual a ordem foi concedida de ofício, 7/10/2022, para reconhecer o tráfico privilegiado, reduzindo a pena para 1 ano e 8 meses de reclusão, em regime aberto, com substituição da pena por restritivas de direitos, sendo estendido os efeitos da decisão ao ora paciente, em atenção ao art. 580 do Código de Processo Penal.
+Em 14/10/2022, foram acolhidos os embargos opostos no referido mandamus, para reconhecer a extinção da punibilidade do embargante, com fundamento na prescrição da pretensão punitiva estatal, tendo como parâmetro a nova pena aplicada na decisão que concedeu a ordem de ofício. Na oportunidade, os efeitos da decisão foram igualmente estendidos ao ora paciente, em atenção ao art. 580 do Código de Processo Penal.
+Constata-se, portanto, que os pleitos formulados no presente mandamus encontram-se prejudicados, haja vista o prévio exame do habeas corpus impetrado em favor do corréu, com extensão da ordem ao ora paciente, inclusive no que concerne à extinção da punibilidade.
+Ante o exposto, indefiro liminarmente o presente writ.
+Publique-se.
