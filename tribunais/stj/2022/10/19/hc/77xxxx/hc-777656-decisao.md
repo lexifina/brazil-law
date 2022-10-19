@@ -1,0 +1,10 @@
+DECISÃO
+WESLEY DONIZETI RAMOS DOS SANTOS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n.1500773-56.2019.8.26.0599.
+A defesaaduz, em síntese, que a condenação do paciente (art. 16, parágrafo único, IV, da Lei n. 10.826/2003) foi lastreada emprovas ilícitas, obtidas por meio de violação de domicílio,motivo pelo qual requer a concessão da ordem, para que ele seja absolvido.
+Decido.
+Observo, de plano, que o habeas corpusnem sequer merece ser conhecido, malgrado a orientação desta Corte assinale queo ingresso em domicílio alheio, sem o consentimento válido do morador e sem prévia autorização judicial, exigefundadas razões, devidamente justificadas a posteriori, que indiquem que dentro da casa ocorre situação de flagrante delito.
+Deveras, por se tratar de questão diretamente ligadaaos fatos e aos elementos concretos que porventura justifiquem a ação dos agentes estatais, é necessário que haja o prévio debate (prévia apreciação) pelas instâncias ordinárias, as quais possuem amplo espectro cognitivo que permitiria, por isso mesmo, imiscuir-se no próprio contexto fático, providência essencial para o deslinde da controvérsia.
+No caso, anulidadeapontada, que até poderiaresvalar no édito condenatório,não foi nem sequer tangenciadapelo Tribunal de origem, que nada tratou a respeito dessamatéria, o que impede a apreciação dessaquestãodiretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir-se na indevida supressão de instância.
+Registro, por oportuno, que tal matéria deveria haver sido suscitada no momento oportuno e perante o Juízo competente, até para possibilitar à instância recursal, soberana na análise de provascomo referido alhures,um pronunciamento seguro sobre a questão, sendo, portanto, vedada a inauguração, em habeas corpus, de tese defensiva não aventadae não debatidana via ordinária.
+À vista do exposto, nos termos do art. 210 do RISTJ,indefiroliminarmente o habeas corpus.
+Publique-se e intimem-se.
