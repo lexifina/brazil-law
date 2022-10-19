@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Recurso Ordinário (art. 105, II, "b", da Constituição Federal) interposto contra acórdão assim ementado:
+PROCESSO CIVIL. AGRAVO INTERNO EM MANDADO DE SEGURANÇA. DECISÃO MONOCRÁTICA QUE INDEFERIU APETIÇÃO INICIAL. ADICIONAL DE INSALUBRIDADE. PANDEMIA. IMPOSSIBILIDADE. NECESSIDADE DE LAUDO PERICIAL. PROVIMENTO DEVIDAMENTE FUNDAMENTADO. INEXISTÊNCIA DE NOVOS ARGUMENTOS. RECURSO CONHECIDO E NÃO PROVIDO.
+Sabe-se que é necessária a impugnação específica dos fundamentos da decisão recorrida, devendo o recorrente "enfrentar" diretamente os argumentos nela aduzidos como razão de decidir para garantir a aptidão de gerar a dialética processual.
+Ante a ausência de fundamentos de fato ou de direito que possam alterar o decisum hostilizado, impõe-se a sua manutenção, mormente no caso específico, onde as razões recursais apresentadas pela parte recorrente não demonstram qualquer suporte fático a modificar a decisão, motivo pelo qual deve ser mantida.
+Nas razões do Recurso (fls. 142-150, e-STJ), a partealega:
+É necessário SIM o pagamento do adicional de insalubridade pleiteado, em que pese todas as argumentações de necessidade de produção de laudo específico e existência do Decreto Estadual n.º 9.967/2006, que disciplina a concessão dos adicional de insalubridade aos servidores públicos dos órgãos da administração direta, das autarquias e das fundações do Poder Executivo Estadual, de que tratam os arts. 86 a 88, da Lei nº 6.677/94. Pois bem.
+(..)Todavia Excelências, como o impetrante é Policial Militar, deve ser presumida a insalubridade das atividades desempenhadas, dispensando-se, portanto, a confecção de laudo pericial, sendo necessário a percepção do adicional de 20%, 30% ou 40% autorizado pela Lei Nº 7.990/2001 (Estatuto da PMBA) e DecretoEstadual Nº 9.967/2006.
+Em termos óbvios, qual o requisito da insalubridade  Caráter permanente, habitual ou intermitente de exposição, em razão da função, a agentes nocivos à saúde, porquanto seja caracterizada estritamente pelo eventual risco de fatalidade. E é exatamente isso aos quais os policiais estão expostos!
+Logo, as próprias características e peculiaridades do exercício da função policial, incumbidos de manter a ordem pública, além da captura e prisão de criminosos, dispensam a prova da insalubridade por exposição direta ao COVID-19, por se tratar de fatos públicos e notórios, tudo nos termos do artigo 144, IV, §4º da Constituição Federal, a seguir transcritos:
+(..)
+Ao final, requer:
+Diante dessas considerações, o Recorrente requer seja conhecido presente recurso e, quando do seu julgamento, lhe seja dado integral provimento para que Seja CONCEDIDA A SEGURANÇA PLEITEADA EM DEFINITIVO, vindicada conforme termos da inicial, com a devida IMPLANTAÇÃO DO ADICIONAL DE INSALUBRIDADE, enquanto perdurar o estado de calamidade pública em decorrência da pandemia do corona vírus (COVID-19)em nosso Estado da Bahia, ante a desnecessidade de dilação probatória e produção de laudo pericial específico.
+Contrarrazões às fls. 218-239, e-STJ.
+Parecer do Ministério Público Federal pelo desprovimento do Recurso às fls. 250-256, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7.10.2022.
+O recorrente impetrou Mandado de Segurança contra suposto ato omissivo atribuído ao Governador da Bahia e ao Secretário de Administração do Estado da Bahia pelaausência de pagamento do adicional de insalubridade. Contudo, oacórdão do TJBA, que indeferiu a petição inicial do Mandado de Segurança,está em harmonia com a jurisprudência do STJ, no sentido de que não é possível a concessão do adicional de insalubridade sem o respectivo laudo e sem dilação probatória.A propósito:
+ADMINISTRATIVO. RECURSO EM MANDADO DE SEGURANÇA. POLÍCIA MILITAR DO ESTADO DA BAHIA. RECEBIMENTO DE ADICIONAL DE INSALUBRIDADE E PERICULOSIDADE. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA.
+1. O mandado de segurança tem como requisito inarredável a comprovação inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço, nessa via, para a dilação probatória. Para a demonstração do direito líquido e certo, é necessário que, no momento da sua impetração, seja facilmente aferível a extensão do direito alegado e que ela seja prontamente exercido. Precedentes.
+2. Hipótese em que não ficou comprovada, por meio de laudos técnicos e nos termos da legislação de regência, as condições insalubres e perigosas a que estão submetidos os policiais militares, exigindo-se para sua comprovação instrução probatória, medida incompatível com a via mandamental.
+3. Recurso em mandado de segurança a que se nega provimento. (RMS 53.852/BA, Rel. Min. Og Fernandes, Segunda Turma, DJe 13.12.2017)
+Ademais, como consignou o em.Ministro Mauro Campbell Marques no julgamento do RMS 68.033/BA, "a crise e os riscos sociais decorrentes da pandemia causada pelo COVID-19 são notórios. De fato, a existência de pandemia não depende de instrução nos termos do art. 374, I, do CPC/2015. Isso, contudo, não se aplica a comprovação do direito de adicional de insalubridade. Deve-se lembrar que, dentro da polícia militar, há quem se expõe mais a riscos do que outros servidores. Há serviços administrativos, há serviços realizados "na rua". Ou seja, a concessão do adicional de insalubridade não se refere a um direito líquido e certo. Com efeito, nemmesmo o recorrente sabe indicar qual seria o eventual percentual que lhe seria devido".
+Ante o exposto,nego provimento ao Recurso Ordinário.
+Publique-se.
+Intimem-se.
