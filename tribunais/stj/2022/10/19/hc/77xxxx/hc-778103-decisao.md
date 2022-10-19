@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em favor de JONAS PABLO RESSURREICAO SANTOS, contra ato praticado pelo Juízo da 3ª Vara Criminal da Comarca de Goiânia/GO.
+Alega o impetrante a ocorrência de constrangimento ilegal, consistente na máxima de que a guerreada condenação definitiva do paciente, assentada às fls. 39/55, é oriunda de arbitrária e infundada busca pessoal e invasão domiciliar.
+Requer, assim, a concessão da ordem, liminarmentee no mérito, ex vi do art. 654, § 2º, do CPP, a fim de que seja desconstituída a condenação fustigada,com arrimo na nulidade do contaminado acervo probatório colacionados aos autos originários e, por conseguinte, determinada absolvição do paciente.
+É, no essencial, o relatório. Decido.
+Preliminarmente, percebe-se a incompetência do Superior Tribunal de Justiça para análise e processamento do presente writ, impetrado como substitutivo de revisão criminal, cujo processo originário de n. "376227-43.2010.809.0175 (2010.0376.2276)" (fl. 12), ressalve-se, já fora baixado e arquivado, conforme consulta ao site "https://www.tjgo.jus.br/index.php/processos/consulta-processual".
+Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao STJ processar e julgar, em sede de revisão criminal, tão somente seus próprios julgados.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+Consoante dispõe o art. 105, I, "e", da Constituição Federal, a competência do STJ para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+Agravo regimental desprovido. (AgRg no HC n. 725.539/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, DJe de 9/8/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUCEDÂNEO DE REVISÃO CRIMINAL. INEXISTÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INCOMPETÊNCIA DO STJ. TESE QUE PREVALECE NO ÂMBITO DESTA CORTE SUPERIOR DE JUSTIÇA. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. QUESTÃO ANALISADA EM HABEAS CORPUS ANTERIOR. REITERAÇÃO DE PEDIDO.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte Superior. Nos termos do art. 105, I, e, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, as revisões criminais e as ações rescisórias de seus julgados. Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+2. Não se constata, no caso, flagrante ilegalidade apta a ensejar a concessão de habeas corpus, de ofício, tendo em vista que o writ é mera reiteração de pedido anterior, cuja decisão já transitou em julgado, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambos o mesmo acórdão.
+3. Agravo regimental improvido.
+(AgRg no HC n. 633.925/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4/6/2021.)
+Ante o exposto, com fundamento no art. 21-E, inciso IV, do Regimento Interno do Superior Tribunal de Justiça, declaro a incompetência do STJ para processar o presente writ, determinando a remessa dos autos ao TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS,independentemente da publicação.
+Publique-se. Intimem-se.
