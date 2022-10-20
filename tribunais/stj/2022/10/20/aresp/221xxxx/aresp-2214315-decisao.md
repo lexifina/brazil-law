@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Eduardo Mahon Advogados Associados,contra decisão proferida pelo Tribunal de Justiça de Mato Grosso que inadmitiu o recurso especial lá manejado,ante a inexistência de prova da sua tempestividade (e-STJ, fls. 414-419).
+Em seus argumentos, oagravantealega, em suma, que foi certificadaa tempestividade do recurso interposto.
+Foi apresentada contraminuta (e-STJ, fls.428-433).
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+Não obstante haja certidão da Corte local acerca da suspensão do expediente, o que remete ao exame do mérito do especial, ao solucionar a lide, verifica-se que o Tribunal estadual levou em consideração as seguintes particularidades do caso concreto (e-STJ, fls. 301-307):
+Compulsando os autos, verifico que que as partes, em 30.05.2012,celebraram contrato de serviços advocatícios, pelo qual o apelado comprometeu-se a pagar aquantia de R$30.000,00 (trinta mil reais) ao apelante, para este defendê-lo judicialmente, após a condenação do recorrido em segundo grau, junto ao processo criminal nº 0005176-62.2010.8.26.0081, que tramitou no Tribunal de Justiça de São Paulo, tendo este contrato o objetivo principal de interposição de recursos junto aos Tribunais Superiores.
+(..)
+Analisando todo o conjunto probatório nos autos, é de se reconhecer evidente a responsabilidade do escritório réu, ora recorrente, diante da negligência na prestação de serviços, pois, evidente o descumprimento dos serviços para o qual foi contratado.
+O contrato de ID nº 114873597 deixa claro o seu objeto, qual seja: "Nossos serviços englobam o acompanhamento do feito criminal, reuniões particulares, elaboração de petições, impugnações, defesa de sustentação oral e elaboração de recurso especial e extraordinário, para o STJ e STF, respectivamente." (grifo nosso)
+Contudo, restou incontroverso nos autos que não houve a interposição de qualquer tipo de recurso aos Tribunais Superiores.
+Como bem ponderou o Juízo a quo:
+"Assim, considerando que o advogado foi contratado para atuar na fase recursal daquela demanda, tendo sido pago o valor da entrada de R$ 5.000,00 (cinco mil reais), e deixou de atuar com zelo e diligência ao não interpor os recursos cabíveis ao STJ e STF, reconhece-se a falha na prestação de serviços advocatícios, ensejando o dever de indenizar. Diante da inconteste inércia da parte Requerida em cumprir com o pactuado, mesmo o Autor tendo devidamente quitado sua obrigação (entrada no valor de R$5.000,00 e cheque no valor de R$ 25.000,00), o valor efetivamente pago pelos serviços não prestados, devem ser restituídos ao Requerente."
+Portanto, resta configurado o prejuízo material suportado pelo recorrido.
+Também resta evidente o prejuízo moral que o apelado teve por não terexercido amplamente a sua defesa. O transtorno provocado pela conduta do escritório apelantesem sombra de dúvidas enseja a reparação moral. Embora desnecessária a prova de prejuízoque se opera pelo simples ato de violação, está fora de dúvida a frustração do autor.
+A falha do serviço é causa de sofrimento para o cliente, que confiou no advogado e que sofre ao ver frustrada sua possibilidade de concretizar o direito legítimo ou mesmo de ver apreciados judicialmente seus direitos. Em outras palavras, a falha na prestação do serviço conferiu sofrimento e frustração da possibilidade de concretizar direito legítimo, diante do princípio no direito que estabelece a necessidade de se manifestar precisamente sobre os fatos.
+O autor, ora apelado, depositou total confiança do réu, ora apelante, acreditando que seria diligentemente assistido, vendo frustradas suas expectativas.
+Os subsídios constantes nos autos revelam a personalidade e a conduta inadequada, quebrando o vínculo de confiança que deve existir com o cliente, gerando, em consequência, não mero dissabor, mas sentimento de inconformismo que afeta o direito de personalidade do recorrido.
+Assim, rever a conclusão a que chegou o acórdão recorrido, para concluir pela ocorrência da alegadaviolação aosarts. 667 do Código Civil e 32 da Lei 8.906/1994,não prescindiria do reexame do acervo fático-probatório dos autos e da cláusulas do contrato firmado, conduta vedada pelas Súmulas 5 e 7/STJ.
+Nem se diga ser caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias.
+Na hipótese, o que almeja oagravante é a revisão do entendimento da Corte estadual, acerca do preenchimento das condições para o reconhecimento do direito ao recebimento da indenização por dano material e moral.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pelas Súmulas 5 e 7/STJ.
+Não se olvide, ainda, o entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Em razão da incidência dos referidos óbices sumulares, fica prejudicado o exame da alegada divergência jurisprudencial.
+Ante o exposto, conheço do agravo para não conhecerdo recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS E MATERIAIS. PROCEDÊNCIA. SERVIÇOS ADVOCATÍCIOS. NEGLIGÊNCIA RECONHECIDA. REVISÃO DAS CONCLUSÕES ESTADUAIS. INVIABILIDADE. SÚMULAS 5 E 7/STJ. INCIDÊNCIA. REVALORAÇÃO DA PROVA. AFASTAMENTO. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.AGRAVO CONHECIDO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
