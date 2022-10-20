@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS,fundamentado na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (e-STJ fl. 219):
+PENAL. ROUBO. AUTORIA E MATERIALIDADE COMPROVADAS. USO DE FACA. LEI POSTERIOR MAIS BENÉFICA (ART. 4º, DA LEI Nº 13.654/2018). AFASTAMENTO DA MAJORANTE PREVISTA NO ART. 157, § 2º, INCISO I, DO CP. PARCIAL PROVIMENTO.
+1. Diante da prática de roubo circunstanciado pelo emprego de arma imprópria (art. 157, § 2º, inciso I, do Código Penal), impõe-se a aplicação da nova lei mais benéfica (Lei nº 13.654/2018), com a exclusão da causa de aumento na terceira fase da dosimetria, podendo o uso de faca ser valorado na primeira fase como circunstância judicial negativa, por tornar a conduta do agente mais grave.
+2. Recurso conhecido e parcialmente provido.
+Os embargos de declaração opostos na sequência foram rejeitados, conforme a seguinte ementa(e-STJ fl. 238):
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL.DOSIMETRIA. MAJORAÇÃO DA PENA-BASE. IMPOSSIBILIDADE. OMISSÃO INEXISTENTE.REJEIÇÃO.
+1. O recurso integrativo dos embargos de declaração se presta a sanar eventuais omissões, contradições ou obscuridades do julgado, eventualmente podendo ocasionar o chamado efeito modificativo da decisão.
+2. Na espécie, sob o argumento de omissão, a acusação deseja na verdade a majoração da pena-base, o que não se mostra possível pela via eleita.
+3. Embargos conhecidos e rejeitados.
+Noticiam os autos que, após regular instrução processual, orecorrido foi condenadopela prática do crime previsto no art. 157, § 2º, I (redação antiga), do Código Penal, àpenade 8anos, 4meses e 20 dias de reclusão e 16dias-multa, em regime inicial fechado (e-STJ fls. 342-355).
+O Tribunal de origem deu parcial provimento ao apelo defensivo, a fim de afastar a causa de aumento de pena prevista no inciso I do § 2º do art. 157 do CP (redação anterior à Lei 13.654/2018) e reduzir a pena do réu para 6anos, 2meses e 20 dias de reclusão, além de 14dias-multa, mantidos os demais termos da condenação.
+Nas razões do presente recurso especial, o recorrente aponta a violação aos arts. 59 do Código Penal e 617 do Código de Processo Penal (e-STJ fls. 241/250).
+Sustenta que "a mera transição de fundamentação idônea pela instância revisora, a fim de adequar a motivação realizada indevidamente pelo juiz singular, sem, contudo, fixar pena mais severa ao agente, não implica o agravamento da situação deste"(e-STJ fl. 244).
+Afirma que "ao contrário do que afirmou o v. decisum atacado, a transição dos fundamentos para outra circunstância judicial, pelos mesmos ou por outros fundamentos, sem agravar a situação do apelante, não configura, sem dúvida, reformatio in pejus"(e-STJ fl. 249).
+Requer, ao final, o provimento do recurso especial para que o Tribunal de origem reveja a dosimetria da pena.
+Contrarrazoada a insurgência (e-STJ fls. 268/275), após o juízo prévio de admissibilidade (e-STJ fls. 278/279), os autos ascenderam ao Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal opinou peloprovimento da insurgência (e-STJ fls. 292/295).
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+A pretensão merece acolhida.
+Acerca da apontada usurpação ao art. 59 do CP, e para melhor elucidação do capítulo em exame, transcreve-se a dosimetria da pena procedida pelo Juízo primevo (e-STJ fls. 180/181):
+Passo à dosimetria e individualização das penas, nos termos dos artigos 93, IX, da CF/88, 59 e 68 do CP.
+A culpabilidade destoa do razoável, uma vez que o acusado cometeu o crime quando cumpria pena em regime semiaberto por outro crime contra o patrimônio (furto), de modo que a reprovabilidade de sua conduta é acima do normal.
+As circunstâncias e consequências do crime não extrapolam aquelas inerentes ao tipo penal.
+O acusado possui maus antecedentes já que detém duas sentenças transitadas em julgado antes do caso em tela. Assim utilizo uma delas para valorizar negativamente nesta fase. Quanto a restante, será considerada como reincidência na fase intermediária.
+Não há elementos seguros sobre a personalidade e a conduta social do réu.
+Os motivos dos delitos são insitos ao tipo penal.
+O comportamento da vitima em nada contribuiu para a prática delitiva.
+À vista das circunstâncias judiciais analisadas, fixo a pena-base em 5 (cinco) anos e 4 (quatro) meses de reclusão, e 12 (doze) dias-multa.
+Na segunda fase, considerando a outra condenação transitada em julgado antes do caso em tela, incide a agravante da reincidência. Por outro lado, presente a atenuante da confissão espontânea. Dessa forma, deve haver a compensação entre uma e outra. Assim, mantenho a sanção intermediária em 5 (cinco) anos e 4 (quatro) meses de reclusão, e 12 (doze) dias-multa.
+Na terceira fase, reconhecida a inconstitucionalidade da Lei 13.654/18 no ponto em que excluiu a causa de majoração pelo uso de arma branca, aumento a pena em 1/3, por força da redação original do art. 157, § 2º, I, do CP. Assim, promovo o aumento da sanção e estabeleço a pena definitivamente em 7 (sete) anos e 2 (dois) meses, além de 14 dias-multa.
+Por fim, verificado o concurso formal de crimes, dois praticados mediante uma só ação, exaspero um deles em 1/6 (um sexto), fixando a pena em definitivo em 8 (oito) anos, 4 (quatro) meses e 20 (vinte) dias de reclusão, além de 16 (dezesseis) dias-multa.
+O Tribunal a quo, ao prover parcialmente o apelo defensivo, consignou (e-STJ fls. 220/224):
+Correta a valoração negativa dos antecedentes, com base na anotação penal constante do ID 17591902.
+Já no que tange à valoração negativa da culpabilidade, tenho que a fundamentação utilizada mostra-se inidônea.
+Com efeito, a culpabilidade, considerada como a reprovação social que o crime e o autor do fato merecem, relaciona-se à censurabilidade da conduta e à intensidade do dolo do agente, e somente deve ser apreciada negativamente quando se revelar além daquela ínsita ao tipo penal, ou seja, quando o agente vai além do necessário para a consecução do tipo penal visado.
+O fato de ter o réu cometido o crime enquanto cumpria pena por delito anterior tem sido admitido pela jurisprudência do Superior Tribunal de Justiça e desta Corte como motivo para valoração negativa da conduta social, mas nada tem a ver com a culpabilidade.
+Por outro lado, o acervo probatório produzido demonstra, com segurança, que o apelante valeu-se de uma faca para intimidar e, com isso, subtrair os bens das vítimas.
+Outrossim, é assente, na jurisprudência, que o emprego de arma branca (faca) para o cometimento de roubo redunda em maior reprovabilidade da conduta criminosa, mostrando-se idôneo para valorar negativamente as circunstâncias do crime, na primeira fase da dosimetria.
+A propósito do tema, vejamos:
+ ..
+Por essa razão, utilizo o emprego da faca para valoração negativa das circunstâncias do crime, o que não configura reformatio in pejus, vez que no caso concreto não há aumento de pena, mas sim sua diminuição.
+Em relação ao quantum de exasperação, temos que o delito de roubo é apenado com reclusão de 4 (quatro) a 10 (dez) anos. Segundo o critério objetivo-subjetivo, havendo um interstício de 6 (seis) anos (72 meses) entre a pena mínima e a máxima, e sendo oito as circunstâncias analisadas, o máximo de acréscimo por cada circunstância judicial desfavorável é de 9 (nove) meses.
+Observo que, no caso, o Juízo de origem elevou a reprimenda em 8 (oito) meses para cada circunstância judicial desfavorável, aumento que se revela mais benéfico ao réu, e que por essa razão deve ser mantido, ficando a pena-base em 5 (cinco) anos e 4 (quatro) meses de reclusão, além de 12 (doze) dias-multa.
+Na segunda fase, o magistrado registrou a presença da agravante da reincidência (ID 17591902) e da atenuante da confissão espontânea (ID 17591897), compensando-as, o que se mostra correto, razão pela qual permanece a pena ambulatória no patamar anteriormente fixado.
+Na derradeira etapa de individualização, ausentes causas de diminuição ou de aumento da pena, conforme exposto acima, mantém-se a reprimenda em 5 (cinco) anos e 4 (quatro) meses de reclusão, além de 12 (doze) dias-multa.
+Comprovado que o réu, por meio de uma única ação e no mesmo contexto fático, subtraiu bens de 2 (duas) vitimas, deve incidir a regra do concurso formal prevista no art. 70, do Código Penal, a qual determina que a pena mais grave seja incrementada de 1/6 (um sexto) até  (metade).
+Conforme sedimentado pela jurisprudência, a quantidade do aumento deve levar em conta a quantidade de delitos praticados: 1/6 (um sexto) no caso de dois crimes; 1/5 (um quinto) tendo sido cometidos três crimes;
+1/4 (um quarto) para quatro crimes; 1/3 no caso de cinco delitos (um terço) e  (metade) para seis ou mais crimes.
+Na espécie, considerando que o apelante praticou 2 (dois) crimes idênticos, aplica-se a pena de um dos delitos, acrescido de 1/6 (um sexto), restando a reprimenda definitiva em 6 (seis) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, além de 14 (quatorze) dias-multa, à razão mínima.
+Da leitura do excerto transcrito, verifica-se que o acórdão recorrido diverge do entendimento assente por esta Corte Superior sobre a matéria, no sentido de que o princípio que proíbe a reformatio in pejus não impede que o Tribunal local, ao julgar o recurso de apelação exclusivo da defesa, reavalie as circunstâncias judiciais, desde que o montante de pena imposta ao réu não seja majorado.
+Logo, no tocante ao regramento gizado no art. 617 do CPP,preconiza esta Corte Superior queo efeito devolutivo pleno do recurso de apelação autoriza ao Tribunal recorrido, ainda que em recurso exclusivo da defesa, proceder à revisão das circunstâncias judiciais plasmadas no art. 59 do CP, "alterando os fundamentos" outrora expendidos para justificar a manutenção da pena-base exasperada, não havendo falar, assim, em reformatio in pejus se o apenamento aplicado à parte não foi agravado.
+Portanto, este Sodalício já sufragou que"mesmo se tratando de recurso exclusivo da defesa, é possível nova ponderação das circunstâncias que conduza à revaloração sem que se incorra em reformatio in pejus, desde que a situação final do réu não seja agravada, como na espécie, em que a reprimenda imposta ao paciente se restou inalterada" (HC n. 524.645/RJ, relator Ministro Leopoldo de Arruda Raposo (Desembargador Convocado do Tj/pe), Quinta Turma, julgado em 12/11/2019, DJe de 20/11/2019).
+No mesmo flanco:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 33, DA LEI N. 11.343/2006. DOSIMETRIA. SEGUNDA FASE DO CÁLCULO DA PENA. MODIFICAÇÃO DA FUNDAMENTAÇÃO EM SEGUNDA INSTÂNCIA. PENA DEFINITIVA E REGIME PRISIONAL MANTIDOS. RECURSO EXCLUSIVO DA DEFESA. INOCORRÊNCIA DE REFORMATIO IN PEJUS. AGRAVO REGIMENTAL DESPROVIDO.
+- Na hipótese, enquanto o juiz singular reconheceu o vetor dos maus antecedentes e a circunstância agravante genérica da reincidência com a remissão ao mesmo registro criminal, a Corte local, alterando a fundamentação do cálculo da pena em recurso exclusivo da defesa, anotou ser o apenado multirreincidente.
+- Não há ilegalidade flagrante na modificação da motivação empregada na segunda etapa do cálculo da reprimenda do agravante, mesmo que em julgamento de recurso exclusivo da defesa, pois o efeito devolutivo da apelação autoriza a reanálise de todas as circunstâncias relevantes ao apenamento, não se admitindo, contudo, que a pena ou o regime prisional inicial do condenado sejam recrudescidos. No caso, como a situação jurídica do recorrente não foi alterada pela Corte local, não se trata de indevida reformatio in pejus.
+- Agravo regimental desprovido.
+(AgRg no HC n. 730.594/ES, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 19/4/2022, DJe de 25/4/2022.)
+Em simétrico viés:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA. MINORANTE DO TRÁFICO DITO PRIVILEGIADO EM RELAÇÃO AO AGRAVANTE MÁRIO. IMPOSSIBILIDADE. CIRCUNSTÂNCIAS INDICADORAS DE PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA DOS AUTOS. FRAÇÃO DE REDUÇÃO MENOR DO QUE 1/6 NA SEGUNDA ETAPA, PELA CONFISSÃO REALIZADA PELO AGRAVANTE MOACIR. ILEGALIDADE NÃO RECONHECIDA. REFORMATIO IN PEJUS. INOCORRÊNCIA. ORDEM DENEGADA. AGRAVO DESPROVIDO.
+ ..
+4. No caso, o Tribunal de origem, ao confirmar a redução de pena na segunda fase no patamar de 6 meses, destacou não prosperar o argumento de "aplicação tabelada" da fração de 1/6 (um sexto) na segunda fase da dosimetria, notadamente porque a reprimenda final ficou próxima ao mínimo legal, e estabelecida de forma correspondente com a gravidade dos fatos e suas circunstâncias.
+Assim, não houve flagrante ilegalidade na dosimetria, no ponto, devendo-se destacar que, na apreciação de recurso de apelação exclusivo da defesa, a Corte estadual não está impedida de manter a sentença recorrida com base em fundamentação distinta da utilizada em primeira instância, desde que respeitados a imputação apresentada pelo titular da ação penal, a extensão cognitiva da sentença combatida e os limites de pena impostos na origem, como no caso.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 562.074/MS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 7/12/2021, DJe de 13/12/2021.)
+Assim, seriapossível a ponderação do vetor conduta socialsem que se incorra em reformatio in pejus, desde que a situação final do réu não seja agravada.
+Ante o exposto, nos termos do art. 255, § 4º, III, do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial paradeterminar o retorno dos autos ao Tribunal de origem para que reveja a dosimetria da pena do recorrido, considerando a possibilidade jurídica de transitar a fundamentação relativa ao exame da culpabilidade para a conduta social, sem que isso macule o princípio da vedação a reformatio in pejus.
+Publique-se. Intimem-se.
