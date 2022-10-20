@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por MAURICIO FERNANDO SILVA OLIVEIRA contra decisão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS que não admitiu o recurso especial.
+Consta dos autos que o Juízo das execuções penais não reconheceu ao agravante a continuidade delitiva entre os crimes das cartas de guia nº 0708608-55.2020.8.07.0007 e 0709625-29.2020.8.07.0007 (e-STJ fls. 878/879).
+O Tribunal de origem, ao analisar a irresignação defensiva,negou provimento à pretensão recursal, em razão do não cumprimento do requisito subjetivo, mantendo a decisão origináriaem todos os seus termos(e-STJ fls. 913/925).
+Contra o julgado foi interposto recurso especial, com fulcro na alínea a dopermissivo constitucional (e-STJ fls. 932/940), o qual não foi admitido na origem, com a incidência daSúmula n. 7/STJ (e-STJ fls. 951/952).
+No presente recurso (e-STJ fls. 958/962), alega o agravante que oóbiceindicadona decisão de admissibilidade não se aplicariaao caso sob exame, porquanto seria desnecessário o revolvimento do acervo fático probatório para a análise de controvérsia.
+Enfatiza que estariam satisfeitos os requisitos para o reconhecimento do instituto, e que os ilícitos foram executados com breve diferença temporal - menos de 30 dias entre as ações delituosas -, aproveitando-se das mesmas relações e oportunidades.
+Requer o acolhimento do agravo a fim de que seja admitido e provido o recurso especial.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo e, caso conhecido, pelo desprovimento da pretensão recursal (e-STJ fls. 983/988).
+É o relatório.
+Decido.
+Devidamente impugnada a decisão combatida, merece exame o inconformismo.
+No que concerne ao reconhecimento da continuidade delitiva,importa transcrever os seguintes fundamentosutilizados pelo Tribunal estadualpor ocasião do julgamento no agravo de execução penal (e-STJ fl. 919):
+No presente caso, verifica-se que os delitos de furto qualificado, tratados na execução nº 0708608-55.2020.8.07.0007 e nº 0709625-29.2020.8.07.0007, foram cometidos em diferentes datas, contra vítimas diversas e em locais distintos, sem que tenham qualquer relação entre eles, o que, ao meu ver, caracteriza verdadeira reiteração delitiva, pois ausente a unidade de desígnios.
+Com efeito, para que seja caracterizada a unidade de desígnios, o agente deve praticar o delito subsequente aproveitando-se das mesmas oportunidades surgidas com o delito anterior.
+Inexistem nos autos elementos que comprovem o liame subjetivo entre as condutas, não sendo possível aferir eventual identidade de propósitos a permear as duas empreitadas criminosas. Desse modo, não há como afirmar que o crime posterior foi cometido mediante aproveitamento de oportunidades ou de relações originadas da infração antecedente.
+Além disso, a habitualidade no cometimento de infrações criminais por parte do agente que opta por fazer do crime um meio de vida e incorre em múltiplos ilícitos de forma sequencial, reclama não o abrandamento da pena, como postulado pela d. Defesa, mas sim um tratamento mais severo por parte da lei penal, como forma de reprimir e prevenir a reiteração delitiva.
+Diante da ausência de prova da unidade de desígnios, não é possível reconhecer a incidência da continuidade delitiva, uma vez não cumprido o seu requisito subjetivo, de modo que a pluralidade de crimes sob exame traduz mera reiteração delitiva, insuscetível de ser contemplada pelo instituto do art. 71 do Código Penal, cujo escopo certamente não é beneficiar o criminoso habitual.
+Em face das considerações acima, impõe-se seja mantido o indeferimento do benefício postulado, tendo em vista a ausência de satisfação da totalidade dos requisitos previstos pelo art. 71 do Código Penal.
+Da exegese do trecho epigrafado, verifica-se que a Corte recorrida, apóspercuciente reexame do delineamento fático e probatório coligidos aosautos,entendeu não estar presente orequisito subjetivo necessário à incidência da continuidadedelitivaplasmada no art. 71 do CP.
+A pretensão do agravante, por conseguinte, exigiria, invariavelmente, o reexame do contexto fático probatório dos autos, providência incabível em sede de recurso especial, ante o óbice contido na Súmula n. 7/STJ.
+Nessa linha:
+PENAL E PROCESSUAL PENAL. QUATRO RECURSOS ESPECIAIS E DOIS AGRAVOS. TRIBUNAL DO JÚRI. QUATRO HOMICÍDIOS DOLOSOS QUALIFICADOS. "CHACINA DE UNAÍ". INEXISTÊNCIA DE VIOLAÇÃO DO ART. 619 DO CPP. QUALIFICADORA DA PAGA (ART. 121, § 2º, I, DO CP). INAPLICABILIDADE AOS MANDANTES. NULIDADE NA QUESITAÇÃO DE QUALIFICADORAS. POSSIBILIDADE DE REFAZIMENTO DA DOSIMETRIA PELO TRIBUNAL, SEM NECESSIDADE DE NOVO JÚRI. ART. 593, § 2º, DO CPP. NULIDADES NÃO SUSCITADAS NOS MOMENTOS OPORTUNOS. PRECLUSÃO. ART. 571, V E VIII, DO CPP. JUNTADA TARDIA DE DOCUMENTOS. AUSÊNCIA DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. ART. 563 DO CPP. SUPOSTA NULIDADE CAUSADA PELA PRÓPRIA DEFESA. ART. 565 DO CPP. QUESITAÇÃO DO QUANTUM DE DIMINUIÇÃO DE MINORANTE. DESNECESSIDADE. APLICAÇÃO DE FRAÇÃO DE DIMINUIÇÃO DIVERSA DA PREVISTA EM ACORDO DE COLABORAÇÃO. MOTIVAÇÃO IDÔNEA. QUALIFICADORA DA EMBOSCADA. COMUNICAÇÃO ENTRE OS COAUTORES QUE DELA SABIAM. NULIDADE DO QUESITO QUE NÃO PERGUNTA SOBRE O CONHECIMENTO DOS CORRÉUS. PRETENDIDO AFASTAMENTO DA CONTINUIDADE DELITIVA. SÚMULA 7/STJ. EXECUÇÃO PROVISÓRIA DAS PENAS. DESCABIMENTO. ACOLHIMENTO PARCIAL DE DOIS RECURSOS DEFENSIVOS, COM EXTENSÃO AO CORRÉU. REJEIÇÃO DOS DEMAIS RECURSOS.
+ ..
+12. O exame quanto à presença do requisito subjetivo da continuidade delitiva esbarra na Súmula 7/STJ.
+ ..
+(REsp n. 1.973.397/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/9/2022, DJe de 15/9/2022.)
+No mesmo sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. PROCESSUAL PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA (ART. 1.º, INCISO I, DA LEI N. 8.137/90). PLEITO PELA INCIDÊNCIA DA ATENUANTE PREVISTA NA ALÍNEA B DO INCISO III DO ART. 65 DO ESTATUTO REPRESSOR. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS NAS RAZÕES DO APELO NOBRE. INCIDÊNCIA DA SÚMULA N. 283 DO SUPREMO TRIBUNAL FEDERAL. ALEGAÇÃO DE QUE DEVE SER RECONHECIDA A CONFISSÃO ESPONTÂNEA EM RAZÃO DO PARCELAMENTO DA DÍVIDA. RÉU QUE NÃO CONFESSOU O DELITO. INSUBSISTENTE. ATENUANTE NÃO CONSIDERADA PARA FUNDAMENTAR A CONDENAÇÃO. CONTINUIDADE DELITIVA. CONDUTA DEVIDAMENTE DESCRITA NA DENÚNCIA. RÉU SE DEFENDE DOS FATOS E NÃO DA DEFINIÇÃO LEGAL. PRECEDENTES. PEDIDO PARA O RECONHECIMENTO DO CRIME ÚNICO E AFASTAMENTO DA CONTINUIDADE DELITIVA. INVERSÃO DO JULGADO. INCIDÊNCIA DA SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INEXIGIBILIDADE DE CONDUTA DIVERSA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA, ANTE A AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO CONTROVERTIDO. SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+4. O Tribunal de origem concluiu que, na espécie, houve continuidade delitiva, afastando, por conseguinte, a prática de crime único.
+Portanto, a inversão do julgado demandaria nova incursão nas provas e fatos que instruem o caderno processual, o que encontra óbice na Súmula n. 7 do Superior Tribunal de Justiça.
+ ..
+7. Agravo regimental desprovido.
+(AgRg no REsp n. 1.931.358/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 3/8/2021, DJe de 18/8/2021.)
+Por tais razões, conheçodo agravo para nãoconhecer do recurso especial,nos termos do art. 34, VII, c/c o art. 253, parágrafo único, II, a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
