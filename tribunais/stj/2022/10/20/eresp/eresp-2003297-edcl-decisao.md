@@ -1,0 +1,24 @@
+DECISÃO
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLOS RENAN MACHADO PRESSER em face da decisão que indeferiu liminarmente os embargos de divergência em razão da ausência de indicação de paradigma válido.
+Aponta omissão no julgado porquanto haveria nulidade que ensejaria a concessão de habeas corpus de ofício.
+Aduz que, (fls. 7505):
+Se a condenação se baseia em prova indireta e as defesas requereram expressamente a produção de prova pericial, admitida pelo juízo em um primeiro momento e depois afastada porquanto atribuiu-se à defesa o ônus de arcar com os custos do trabalho do expert, está-se diante de manifesta coação ilegal. Não se trata, neste aspecto, de apenas suscitar ou não a indispensabilidade do exame de corpo de delito, mas de assegurar aos réus o direito de produção à prova legitimamente requerida e admitida, sob pena de violação, no mais alto grau, de princípios constitucionais que constituem a garantia constitucional da ampla defesa.
+Esta decisão, voltada exclusivamente aos pedidos formulados pelos acusados ELOÍZO GOMES AFONSO DURÃES, VALMIR RODRIGUES DOS SANTOS e DJALMO DA SILVA MEDEIROS nos autos do processo originário foi trasladada ao processo cindido, tendo o embargante sido intimado somente em 18.10.2016 (doc. 20 - Evento 314 do processo cindido). A decisão não dizia respeito ao embargante; vinculava-se exclusivamente aos acusados ELOÍZO GOMES AFONSO DURÃES, VALMIR RODRIGUES DOS SANTOS e DJALMO DA SILVA MEDEIROS nos autos do processo originário. O embargante postulou a produção de prova pericial tempestivamente em sua resposta à acusação, apresentou quesitos e jamais foi intimado no que diz respeito aos debates sobre o custeio da prova pericial, pondo de manifesto o flagrante prejuízo por ele suportado, fato que não se confunde com a própria ilegalidade do decisum que passa a atribuir às defesas o custeio da prova.
+Requer, desse modo, o acolhimento dos presentes embargos de declaração a fim de que sejam sanados os vícios apontados.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Os embargos declaratórios não reúnem condições de serem processados.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Não prospera a pretensão de concessão de habeas corpus de ofício em sede de embargos de divergência em razão da inviabilidade de desconstituir o resultado do acórdão proferido pela Quinta Turma por meio de decisão monocrática.
+Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR DOS EMBARGOS. PARADIGMA PROFERIDO EM HABEAS CORPUS. IMPRESTÁVEL. AUSÊNCIA DE SIMILITUDE FÁTICA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INVIABILIDADE.
+I - Não se admite a utilização de acórdãos oriundos de julgados proferidos em habeas corpus, mandados de segurança e conflitos de competência como paradigma para configuração da divergência. (Precedentes)
+II - In casu, o Agravante não infirma os fundamentos da decisão agravada, incidindo assim a Súmula 182 do STJ.
+III - A concessão de Habeas Corpus de ofício, no bojo de embargos de divergência, encontra óbice tanto no fato de que o Relator não tem autoridade para conceder a ordem por meio de decisão monocrática, desconstituindo, na prática, o resultado de acórdão proferido por outra Turma julgadora, como, tampouco a Seção detém competência constitucional para conceder Habeas Corpus contra acórdão de Turma do próprio Tribunal. Precedentes. (AgRg nos EAREsp n. 971.629/PR, Terceira Seção, Rel. Min. Reynaldo Soares Fonseca, DJe de 22/5/2017).
+Agravo regimental desprovido.
+(AgRg nos EAREsp 900125/MG, Relator FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 25/04/2018, DJe de 02/05/2018.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição ou omissão.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
