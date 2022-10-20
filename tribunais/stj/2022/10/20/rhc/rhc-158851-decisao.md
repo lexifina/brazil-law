@@ -1,0 +1,9 @@
+DECISÃO
+O presente recurso em habeas corpus, interposto por Wellington Alves Almeida-beneficiado com suspensão condicional do processo em ação penal que lhe atribui o crime de descaminho (Ação Penal n. 5033159-21.2015.4.04.7000)-contra acórdão doTribunal Regional Federal da 4ª Região(Habeas Corpus n. 5043922-22.2021.4.04.0000), não comporta provimento.
+Com efeito, busca o recorrente o reconhecimento do cumprimento da condição imposta, consistente na prestação de serviços à comunidade, de forma ficta, ao argumento de que,durante o período de suspensão dos comparecimentos e prestação de serviços em razão da pandemia, não houve suspensão das demais obrigações, de modo que o sursitário permaneceu vinculado às demais condições, a exemplo de comunicação ao juízo em caso de mudança de endereço, o que, inclusive, se descumprido, teria o condão de gerar a rescisão da suspensão condicional do processo (fl. 67).
+Ocorre queeste Superior Tribunal tem entendido que, em se tratando de pena alternativa deprestaçãodeserviçosàcomunidade,o mero decurso do prazo fixado para o seu cumprimento não pode ser considerado como efetivamente adimplido, de forma ficta, já que, embora não haja culpa da parte recorrente em relação àpandemiade coronavírus e à prejudicialidadede diversosserviços,por outro lado, não se pode concluir que asfinalidades últimas do que lhe fora imposto tenham sido atingidas porúnica razão temporal (RHC n. 159.318/MG,Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, DJe 14/3/2022).
+Em face do exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS. DESCAMINHO. SUSPENSÃO CONDICIONAL DO PROCESSO. PRESTAÇÃO DE SERVIÇOS À COMUNIDADE. INTERRUPÇÃO. PANDEMIA DA COVID-19. PRETENSÃO DE CONSIDERAÇÃO DO LAPSO COMO CUMPRIDO, DE FORMA FICTA. IMPOSSIBILIDADE.
+Recurso improvido.
