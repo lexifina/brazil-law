@@ -1,0 +1,3 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa solicita a notificação pessoal de ANDERSON FERNANDES DA COSTA a fim de que tome ciência do Acórdão prolatado pelo Tribunal Judicial da Comarca de Lisboa, relativo ao Processo n. 9339/18.8T8LSB, para que possa exercer seu direito de recurso, no prazo de 30 (trinta) dias, a contar da presente notificação (fls. 5/6).
+Tendo em vista que a diligência foi cumprida (certidão de fl. 70), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
