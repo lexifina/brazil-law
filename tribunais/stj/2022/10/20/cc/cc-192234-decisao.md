@@ -1,0 +1,23 @@
+DECISÃO
+CONFLITO  NEGATIVO  DE  COMPETÊNCIA.  AUXÍLIO-ACIDENTE.  COMPETÊNCIA  DA  JUSTIÇA  FEDERAL.  NATUREZA  PREVIDENCIÁRIA DO  BENEFÍCIO.  CONFLITO  CONHECIDO  PARA  DECLARAR  A  COMPETÊNCIA  DO  TRIBUNAL  REGIONAL FEDERAL DA 4A REGIÃO.
+1.  Trata-se  de  conflito  de  competência  que tem como suscitante o  TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL ,e como suscitado, o TRIBUNAL REGIONAL FEDERAL DA 4A REGIÃOe se refere aação  ajuizada  em  desfavor  do  INSS objetivando  a  parte  autora  a  concessão  de  benefício  por  incapacidade.
+2.  O  TRF4declarou-se  incompetente  para  processar  e  julgar  o  feito por entender que a parte autora postula benefício por incapacidade oriundo de acidente de trabalho (fls. 141/142).
+3.  Os  autos  foram  remetidos  ao  TJRS,  que  também  se declarou incompetente  para  processar  e  julgar  o  feito , nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. BENEFÍCIO PREVIDENCIÁRIO. AUSENTE RELAÇÃO COM ACIDENTE DE TRABALHO.
+Não versando o feito sobre matéria acidentária, os autos devem ser remetidos ao TRF4ª Região, órgão responsável para apreciação do recurso.
+Suscitaram conflito de competência (fl. 186).
+4.  É  o  relatório.
+5.  Conheço  do  conflito  porque  se  trata  de  controvérsia  instaurada  entre  juízos  vinculados  a  tribunais  distintos,  conforme  preceitua  o  art.  105,  I,  d,  da  Constituição  Federal  de  1988.
+6.  Segundo  o  pacífico  entendimento  desta  Corte  Superior  de  Justiça,  o  teor  da  petição  inicial  é  elemento  essencial  ao  deslinde  do  conflito,  visto  que  a  definição  da  competência  decorre  de  verificação  da  causa  de  pedir  e  do  pedido  apresentados  na  peça  vestibular.
+7.  No  caso  dos  autos,  extrai-se  da  petição  inicial  que  a  parte  autora  pleiteia  a concessão de benefício por incapacidade, narrando padecer de sequelas decorrentes de acidente não relacionado ao trabalho(fls. 8/25).
+8.  Assim,  considerando  que  o  demandante  requer  a  concessão  de  benefício  de  natureza  previdenciária, não tendo feito nenhuma alusão a acidente de trabalho,a competência para processar e julgar a demanda é da Justiça Federal.Nesse  sentido:
+CONFLITO DE COMPETÊNCIA. PREVIDENCIÁRIO. BENEFICIÁRIO PREVIDENCIÁRIO. COMPETÊNCIA JUSTIÇA FEDERAL COMUM. PEDIDO E CAUSA DE PEDIR.
+I - A Justiça estadual é competente para processar e julgar as demandas relativas a acidente de trabalho, mas também aquelas que discutem as relações daí decorrentes (restabelecimento, reajuste e cumulação), porquanto art. 109, I, da Constituição Federal não fez qualquer ressalva a respeito.
+II - A competência para processar e julgar a ação que discute a concessão de benefício previdenciário decorrente de acidente de trabalho deve ser determinada em função do pedido e da causa de pedir, constantes da petição inicial.
+III - A partir da análise da petição inicial (fls. 4-9), é possível verificar que o pedido principal consiste na concessão de auxílio-doença e/ou aposentadoria por invalidez, já a causa de pedir não indica qualquer relação com a atividade laboral. Conclui-se que tanto o pedido quanto a causa de pedir da ação possuem natureza previdenciária, razão pela qual compete à Justiça Federal processá-la e julgá-la.
+IV - Conflito de competência conhecido para declarar competente para a causa o Juízo federal da 1ª Unidade Avançada de Atendimento em Ivaiporã/PR(CC187.898/PR, Rel. Ministro FRANCISCO FALCÃO,PRIMEIRA SEÇÃO,julgado em 25/5/2022, DJe de 30/5/2022).
+CONFLITO NEGATIVO DE COMPETÊNCIA. PROCESSUAL CIVIL. PREVIDENCIÁRIO. AUXÍLIO-DOENÇA PREVIDENCIÁRIO. TRIBUNAL REGIONAL FEDERAL E TRIBUNAL DE JUSTIÇA. JULGAMENTO DA APELAÇÃO. MATÉRIA DE NATUREZA NÃOACIDENTÁRIA.
+Faculta-se ao segurado ou beneficiário da Previdência Social propor a ação previdenciária no Juízo Estadual de seu domicílio, sempre que a comarca não for sede de Juízo Federal. (Art. 109, § 3º, da Constituição) Tratando-se de ação em que se busca o restabelecimento de auxílio-doença previdenciário compete ao Tribunal Regional Federal o processamento e julgamento do recurso de apelação, eis que a moléstia é de origem degenerativa e não guarda relação de causalidade com o trabalho.
+Conflito conhecido e provido para declarar a competência do Tribunal Regional Federal da 4ª Região(CC58.071/RS, Rel.Ministro CARLOS FERNANDO MATHIAS - JUIZ FEDERAL CONVOCADO DO TRF DA 1ª REGIÃO,TERCEIRA SEÇÃO,julgado em 12/9/2007, DJ de 1/10/2007, p. 209).
+9.  Ante  o  exposto,  conheço  do  presente  conflito  para  declarar  a  competência  do TRIBUNAL  REGIONAL  FEDERAL  DA  4A  REGIÃO para  processo  e  julgamento  do  feito.
+10.  Publique-se.  Intimações  necessárias.
