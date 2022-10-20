@@ -1,0 +1,13 @@
+DECISÃO
+PATRICK LEANDRO LOPES BARBOSA requer a reconsideração do decisum de fls. 154-155, em que indeferi liminarmente o habeas corpus e, por conseguinte, mantive a imposição do regime inicial fechado de cumprimento de pena, em razão de ele ser reincidente ao tempo do crime.
+A defesa aduz, em síntese, que "o Processo de Execução Penal do Paciente registra uma única condenação, qual seja o processo que lhe foi aplicada a pena de 06 (seis) anos de reclusão, a ser cumprida em regime inicial fechado e que ensejou a impetração do presente" (fl. 159), de maneira que, ao contrário do que afirmado, ele não era reincidente na data em que praticado o crime em questão.
+Requer, assim, a reconsideração do decisum anteriormente proferido, para que seja afastada a agravante da reincidência e, por conseguinte, seja fixado o regime inicial semiaberto.
+Decido.
+De plano, verifico que não assiste razão à defesa.
+Primeiramente, registro que a impetrante - Dra. Naiana Rick Teixeira (OAB/RS n. 65.935), na petição inicial do habeas corpus, em nenhum momento, questionou explicitamente a reincidência do paciente. Apenas afirmou, genericamente, que:
+a) "se é permitido aos condenados reincidentes, desde que favoráveis às circunstâncias judiciais, iniciar o cumprimento da pena em regime semiaberto, quanto mais aos condenados tecnicamente primários, ou seja, que não possui condenação com trânsito em julgado, como é o caso do Paciente nestes autos, haja vista que a basilar foi fixada em seu mínimo legal" (fl. 7).
+b) "na hipótese dos autos, em que o requerente não é reincidente, uma vez que as circunstâncias judiciais são67 981251280 todas favoráveis e o quantum de pena aplicado, inferior a 8 (oito) anos, permite-se, a fixação do regime semiaberto para início do cumprimento da reprimenda, nos termos do artigo 33, §2º, alínea "b", do Código Penal, devendo ser alterada a sentença neste tocante" (fls. 7-8).
+No entanto, uma vez que a decisão de fls. 154-155 manteve a imposição do regime inicial fechado, com base, essencialmente, na alegação de que o réu seria reincidente, vem a defesa, agora, neste pedido de reconsideração, a pretexto de equívoco na decisão recorrida, e afirma que, na verdade, o acusado não era reincidente ao tempo do crime, em evidente - e inadmissível - inovação em suas razões de pedir.
+Diante de tal cenário, esclareço à defesaqueeventual insurgência em relação à reprimenda imposta ao acusado, ou ao modo de cumprimento da pena a ele aplicada,deve, agora, ser dirigida ao Supremo Tribunal Federal.
+À vista do exposto, não conheço do pedido de reconsideração formulado as fls. 158-161.
+Publique-se e intimem-se.
