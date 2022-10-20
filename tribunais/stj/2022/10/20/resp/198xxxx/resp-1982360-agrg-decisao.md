@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo regimental interposto por MINISTÉRIO PÚBLICO DO ESTADO DE RONDÔNIA - MP em face de decisão monocrática de minha lavra de folhas 492/496 que conheceu do seu recurso especial e, com fundamento na Súmula n.568 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ, negou-lhe provimento.
+Consta dos autos que o Juiz da 1ª Vara Criminal de Rolim de Moura acatou o pedido do agravado, ELICINO TEIXEIRA TORRES, de detração de pena em processos distintos (período de prisão preventiva dos Autos 001585-44.2018.8.22.0010 (prisão 22/10/2018 e soltura 24/10/2019)).
+Agravo em Execução de Pena interposto pelo MP foi desprovido. O acórdão ficou assim ementado:
+"Agravo em execução de pena. Prisão preventiva no curso da execução de pena e posterior revogação. Desconsideração do período. Ausência de previsão legal. Impossibilidade. Agravo não provido.
+A desconsideração do período em que o apenado esteve em prisão preventiva, quando anteriormente à sua decretação já cumpria pena em regime semiaberto, viola o princípio da legalidade, porquanto suspende a execução de pena para além das hipóteses legais." (fl. 422).
+Em sede de recurso especial (fls. 441/465), a Acusação aponta violação ao art. 42 do CP, assim como divergência jurisprudencial. Afirma que a detração do tempo de prisão processual ordenada em outro processo depende de sentença absolutória ou da extinção de punibilidade. Aduz, outrossim, ser necessário que a pena privativa de liberdade esteja em execução antes da prisão provisória. Requer o provimento do recurso a fim de afastar detração pelo período cumprido em prisão processual, enquanto não for prolatada sentença de absolvição ouextinção de punibilidade. Contrarrazões do recorrido (fls. 468/475).
+Admitido o recurso no TJ (fls. 476/477) os autos foram protocolados e distribuídos nesta Corte. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo provimento do recurso especial (fls. 486/490).
+Sobreveio a decisão agravada que, em síntese, fez constar que a jurisprudência desta Corte veda tão somente seja o tempo de prisão preventiva aproveitado para fins de detração de pena a ser cumprida em ação penal distinta por fato posterior (fl. 494).
+No presente agravo regimental (fls. 502/515), o MP insiste na existência do requisito da sentença absolutória ou extinção de punibilidade na ação penal em que cumprida a prisão preventiva para fins de detração em processo anterior e diverso.
+Requer o provimento do agravo regimental com provimento do recurso especial.
+É o relatório.
+Decido.
+O agravante possui razão, consoante a seguir.
+Consoante trecho do acórdão recorrido já reproduzido na decisão agravada, o TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA - TJ registrou que a detração da prisão preventiva decretada na ação penal n. 0001585-44.2018.8.22.0010 seria cabível na execução penal em vigência desde 2016, sendo indevida a postergação do cômputo do referido período de prisão cautelar para caso de eventual condenação na também referida ação penal.
+Todavia, ao contrário do entendimento do TJ, bem como ao contrário do consignado na decisão agravada, a sorte da ação penal em que decretada a prisão preventiva é relevante para o deslinde da controvérsia, pois, somente em caso de absolvição ou extinção da punibilidade nela é que deve ser reconhecido o direito à detração penal na execução penalpor condenação emcrime anterior.
+Nesse sentido, precedentes (grifos nossos):
+PENAL E EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR. ARTS. 42 DO CP E 111 DA LEP. IMPOSSIBILIDADE. AUSÊNCIA DE ABSOLVIÇÃO OU DE EXTINÇÃO DA PUNIBILIDADE. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior admite a detração do tempo de prisão processual ordenada em outro processo em que o sentenciado fora absolvido ou declarada a extinção de sua punibilidade, bem como na hipótese em que o tempo de custódia cautelar efetivado seja por crime anterior ao período pleiteado.
+2. Na hipótese, contudo, é inviável a detração almejada, pois, embora o delito que deu origem à execução da pena tenha sido praticado em 29/1/2010, e a prisão cautelar perdurado no período de 6/1/2017 a 18/7/2017, verifica-se que este segundo processo encontra-se pendente de julgamento de recursos especial e extraordinário.
+3. Assim, não há ilegalidade alguma a ser reparada, uma vez que o Tribunal de origem, firmando-se em entendimento do Superior Tribunal de Justiça, corretamente decidiu que o período de prisão provisória não pode ser considerado para efeitos de detração, pois imprescindível que no outro processo tenha ele sido absolvido ou tenha sua pena sido julgada extinta, não sendo essa a hipótese dos autos.
+4. Agravo regimental não provido.
+(AgRg no HC n. 541.090/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/2/2020, DJe de 12/2/2020.)
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME DE PORTE DE DROGAS PARA CONSUMO PRÓPRIO. DESCLASSIFICAÇÃO. DETRAÇÃO. IMPOSSIBILIDADE. INEXISTÊNCIA DE ABSOLVIÇÃO OU EXTINÇÃO DA PUNIBILIDADE. AUSÊNCIA DE RAZÕES NOVAS. AGRAVO DESPROVIDO.
+1. O direito à detração da prisão cautelar requer o preenchimento dos seguintes requisitos: absolvição ou declaração de extinção da punibilidade, e que a data do cometimento do crime de que trata a execução seja anterior ao período pleiteado, conforme firme entendimento jurisprudencial desta Corte Superior. Precedentes.
+2. O agravado teve sua conduta ilícita desclassificada de crime de porte de drogas para consumo próprio, e condenado à pena de advertência, situação que afasta o direito ao benefício pleiteado.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.687.762/DF, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 1/3/2018, DJe de 14/3/2018.)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. VIA INADEQUADA. DETRAÇÃO. ANTERIORES PRISÕES CAUTELARES EM PROCESSOS DISTINTOS. IMPOSSIBILIDADE.
+1. A jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação da Primeira Turma do Supremo Tribunal Federal, firmou-se no sentido de que o habeas corpus não pode ser utilizado como substituto de recurso próprio, sob pena de desvirtuar a finalidade dessa garantia constitucional, exceto quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. É possível a detração do tempo de prisão processual ordenada em outro processo em que absolvido o sentenciado ou tenha sido declarada a extinção da sua punibilidade da pretensão punitiva, desde que a data do cometimento do crime de que trata a execução seja anterior ao período pleiteado.
+3. Hipótese em que as vias ordinárias indeferiram o pedido de detração adotando o fundamento de que as segregações impostas foram anteriores à sanção corporal que ora cumpre e que as respectivas ações penais não resultaram em absolvição ou tiveram as pretensões punitivas extintas.
+4. Habeas corpus não conhecido.
+(HC n. 326.654/RS, relator Ministro Gurgel de Faria, Quinta Turma, julgado em 10/12/2015, DJe de 5/2/2016.)
+EXECUÇÃO PENAL. HABEAS CORPUS. DETRAÇÃO. ANTERIORES PRISÕES CAUTELARES EM PROCESSOS DISTINTOS. IMPOSSIBILIDADE.
+1. À luz do disposto nos arts. 42 do Código Penal e 111 da Lei de Execução Penal, somente se admite a detração do tempo de prisão processual ordenada em outro processo em que absolvido o sentenciado ou declarada tenha sido a extinção da sua punibilidade, quando a data do cometimento do crime de que trata a execução seja anterior ao período pleiteado (Precedentes: HC n.º 155.049/RS, SEXTA TURMA, DJe de 21/03/2011; HC n.º 152.366/RS, QUINTA TURMA, DJe de 21/06/2010).
+2. Na hipótese dos autos, o fato ilícito que ensejou a condenação do paciente se deu em 14.02.2006, depois, portanto, de suas segregações cautelares (ocorridas nos períodos de 23.11.2003 a 05.08.2004; de 16.12.2005 a 30.12.2005; e de 07.01.2006 a 27.01.2006), pela suposta prática de delitos distintos, não se revelando, assim, merecedora de guarida sua pretensão de detração penal.
+3. Ordem denegada.
+(HC n. 111.807/RS, relatora Ministra Alderita Ramos de Oliveira (desembargadora Convocada do Tj/pe), Sexta Turma, julgado em 9/10/2012, DJe de 18/10/2012.)
+Assim, com fulcro no art. 258, § 3º, do RISTJ, reconsidero a decisão anterior para darprovimento ao recurso especial para afastar a detração de pena concedida ao agravado em processos distintos, em razão da falta de preenchimento de seus requisitos.
+Publique-se.
+Intimem-se.
