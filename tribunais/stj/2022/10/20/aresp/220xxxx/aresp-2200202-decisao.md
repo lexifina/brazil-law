@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo apresentado por VANIA CRISTINA DE PAULA OLIVEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO - CONCESSÃO DE BENEFÍCIO - APOSENTADORIA POR INVALIDEZ OU AUXÍLIO-DOENÇA - NÃO DEMONSTRADA A INCAPACIDADE HABITUAL - HONORÁRIOS RECURSAIS - APELO DESPROVIDO - SENTENÇA MANTIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 86 da Lei n. 8.213/1991, no que concerne ao direito de a parte ora recorrente receber o benefício previdenciário pleiteado, auxílio-acidente, diante da comprovação do preenchimento dos requisitos no sentido de que o acidente sofrido pela requerente a deixou impossibilitada para a atividade laborativa anteriormente exercida, trazendo os seguintes argumentos:
+Desta forma, ficou comprovado nos autos, inclusive pelas manifestações do perito nomeado pelo juízo, o qual, ainda que de forma confusa, concluiu que a autora sofreu dois acidentes e deste último teve sequelas consolidadas, de forma definitiva e permanente, reduzindo sua capacidade laborativa exercida habitualmente à época do acidente de trabalho, conforme se observa dos laudos periciais encartados às fls. 125/126 e 147/149 dos autos principais. Assim, a Autora faz jus ao Auxílio Acidente.
+ ..
+Portanto, ao contrário do que entendeu o TRF3, restou comprovado que existe a redução da capacidade laborativa da Apelante para o trabalho contemporâneo a data do acidente sofrido em 2018, bem como maior esforço físico, tendo a autora direito ao benefício requerido o que é garantido pela própria norma.
+Importante mencionar que para a percepção do auxílio acidente, a redução da capacidade do segurado em decorrência do acidente, deve ser para o trabalho que habitualmente exercia quando do acidente sofrido, vejamos o art. 86 da Lei 8.213 de 24/07/1991:
+ ..
+Portanto, a sequela apontada pelo laudo, bem como por todos os documentos e exames encartados aos autos, demanda da Autora um maior esforço para o exercício da função desempenhada à época do acidente sofrido, quando exercia a função de vendedora.
+ ..
+Veja Excelência, o benefício requerido pela Autora, qual seja auxílio acidente previdenciário, é concedido, como indenização, ao segurado quando, após a consolidação das lesões decorrentes de acidente de qualquer natureza, resultar em sequelas que impliquem redução da capacidade para o trabalho que habitualmente exercia.
+Desta forma, levando-se em consideração que quando do acidente sofrido a autora exercia a profissão de vendedora, bem como tendo em vista que, de acordo com o constatado pelo jurisperito, a sequela existente no joelho esquerdo da autora (em razão do acidente sofrido) resulta em redução de sua capacidade labora, certo é que, por si só, a requerente já faz jus ao benefício pleiteado nestes autos.
+ ..
+Portanto, o Requerente preencheu todos os requisitos necessários para a obtenção do auxílio acidente, pois, as seqüelas resultantes da lesão do acidente de trabalho, implicaram em redução da capacidade para o trabalho rural que habitualmente exercia, portanto deverá o requerente receber o beneficio Auxilio Acidente (fls. 272/278).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, o exame realizado pelo perito oficial, constatou que a parte autora não está incapacitada para o exercício da sua atividade habitual, como se vê do laudo oficial, nem teve sua capacidade laboral diminuída em razão de qualquer acidente.
+Assim, ainda que o magistrado não esteja adstrito às conclusões do laudo pericial, conforme dispõem o artigo 436 do CPC/1973 e o artigo 479 do CPC/2015, estas devem ser consideradas, por se tratar de prova técnica, elaborada por profissional da confiança do Juízo e equidistante das partes.
+O laudo em questão foi realizado por profissional habilitado, equidistante das partes, capacitado, especializado em perícia médica, e de confiança do r. Juízo, cuja conclusão encontra-se lançada de forma objetiva e fundamentada, não havendo que se falar em realização de nova perícia judicial.
+Outrossim, o laudo pericial atendeu às necessidades do caso concreto, possibilitando concluir que o perito realizou minucioso exame clínico, respondendo aos quesitos formulados. Além disso, levou em consideração, para formação de seu convencimento, a documentação médica colacionada aos autos.
+Ressalte-se que a parte autora, ao impugnar o laudo oficial, não apresentou qualquer documento técnico idôneo capaz de infirmar as suas conclusões.
+Deveras, meras alegações não têm o condão de afastar as conclusões do . expert
+Não demonstrada, pois, a incapacidade para a atividade laborativa habitual, e sendo tal argumento intransponível, não é de se conceder o benefício postulado.
+ ..
+Não havendo comprovação da incapacidade para a atividade laboral habitual, fica prejudicada a análise dos demais requisitos.
+Desse modo, ausente um dos seus requisitos legais, vez que não demonstrada a incapacidade laboral habitual, não é de se conceder o benefício postulado (fls. 223/225 - grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
