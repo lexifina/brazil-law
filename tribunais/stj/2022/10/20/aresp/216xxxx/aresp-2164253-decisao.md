@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto porMAX MARQUES STUDIERem adversidade à decisão que inadmitiu recurso especialmanejado com fundamento nas alíneas "a" e "c" do permissivo constitucionalcontra acórdão do Tribunal de Justiça do Estado do Amapá, cuja ementa é a seguinte (e-STJ fl. 471):
+APELAÇÃO CRIMINAL. PORTE ILEGAL DE ARMA DE FOGO E AMEAÇA. CONCURSO DE CRIMES.COMPETÊNCIA RELATIVA DOS JUIZADOS ESPECIAIS CRIMINAIS EM RELAÇÃO AO CRIME DE AMEAÇA. PRORROGAÇÃO DE COMPETÊNCIA EM CASO DE ABSOLVIÇÃO DO CRIME COMUM.POSSIBILIDADE. APLICAÇÃO DA LEI Nº 9.099/1995. OBRIGATÓRIA. DIREITO SUBJETIVO DO RÉU. SENTENÇA CASSADA PARCIALMENTE.
+1) Recentemente, o STF, no julgamento da ADI 5264, firmou tese no sentido de que os Juizados Especiais Criminais são dotados de competência relativa (e não absoluta, como até então se entendia no âmbito do STJ e dos Tribunais estaduais) para julgamento das infrações de menor potencial.
+2) Por se tratar de competência relativa, admite-se prorrogação, devendo, todavia, observar-se quanto ao crime de menor potencial ofensivo, o procedimento da Lei nº 9.099/1995 (direito subjetivo do réu), o que não ocorreu na hipótese.
+3) Apelo conhecido e, no mérito, provido, para anular parcialmente a sentença vergastada, para que o Juízo de 1º grau, em audiência admonitória, aplique os preceitos traçados na Lei 9.099/1995 em relação ao crime de ameaça (art. 147, caput, do CP) imputado ao réu.
+Nas razões do recurso especial (e-STJ fls. 488/501), alega a defesa violação dos arts. 156e 386, III e VII, ambos do CPP, além de divergência jurisprudencial. Sustenta que o recorrente deve ser absolvido por insuficiência probatória, inexistindo certeza para a condenação. Busca, alternativamente, a declaração de prescrição da pretensão punitiva em face da pena aplicada ao crime de ameaça.
+Apresentadas contrarrazões (e-STJ fls. 524/536), o Tribunal a quo inadmitiu o recurso especial (e-STJ fls. 544/549), dando ensejo à interposição do presente agravo.Nesta instância, oMinistério Público Federalopinou pelo desprovimento do recurso (e-STJ fls. 632/636).
+É o relatório. Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não reúne condições de prosperar.
+O Tribunal de origem, ao dar provimento ao apelo defensivo, declarou a nulidade da sentença no tocante à condenação pela prática do delito de ameaça, uma vez que, por se tratar de crime de menor potencial ofensivo, deve ser oportunizado ao réu algum dos institutos despenalizadores previstos naLei 9.099/1995,conforme se observa do seguinte trecho (e-STJfls. 475/479):
+Com efeito, me afigura patente a nulidade parcial da sentença, na parte em que condena o apelante pelo crime ameaça.
+Isto porque, no curso do processo, não foi oportunizado ao apelante os institutos despenalizadores cabíveis para os acusados por crime de menor potencial ofensivo.
+De fato, antes de proferir a sentença condenatória (ou mesmo de se iniciar a instrução processual), deveria o Magistrado a quo designar audiência preliminar, para oportunizar ao réu (que é primário) a transação penal em relação ao crime de ameaça, o que não foi feito.
+Deveras, à luz da tese firmada no bojo da ADI 5264, o Juízo comum deve, quando prorrogada competência para crime de menor potencial ofensivo, aplicar o procedimento especial da Lei nº 9.099/1995 em relação a este.
+ ..
+Desse modo, evidenciando-sea inobservância do procedimento da Lei nº 9.099/1995 pelo Magistrado a quo em relação ao crime de ameaça, a sentença condenatória deve ser cassada, para aplicação dos institutos despenalizadores a que faz jus o apelante.
+Observa-se, portanto, que a sentença foi cassada no tocante ao delito de ameaça, a fim de que sejam observados os trâmites contidos na Lei 9.099/95.A defesa, como se vê das razões recursais,pretende a absolvição ou a declaração de prescrição, questões que sequer foram apreciadas no Tribunal de origem.
+Incidência, portanto, dos óbices contidos nas Súmulas 283 e 284, ambasdo STF, segundo as quais:É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles; e éinadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, com fundamento no art. 932, III, do CPC c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para nãoconhecer dorecurso especial.
+Intimem-se.
