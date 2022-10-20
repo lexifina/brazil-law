@@ -1,0 +1,180 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+4ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0700789-83.2022.8.07.9000AGRAVANTE(S)ASSOCIACAO DE BENEFICIOS E ASSISTENCIA A SAUDE - ABASAGRAVADO(S)MAISA CONSUELO DE ANDRADERelatoraDesembargadora LUCIMEIRE MARIA DA SILVARelator Designado Desembargador FERNANDO HABIBE Acórdão Nº1632713
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE REMUNERAÇÃO.
+
+É inadmissível a penhora mensal de percentual do salário do devedor, sob pena de ofensa a expressa proibição legal - CPC 833, IV -, excepcionadas as duas hipóteses indicadas no § 2º, alheias ao caso.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 4ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, LUCIMEIRE MARIA DA SILVA - Relatora, FERNANDO HABIBE - Relator Designado e 1º Vogal e ARNOLDO CAMANHO - 2º Vogal, sob a Presidência do Senhor Desembargador FERNANDO HABIBE, em proferir a seguinte decisão: NEGAR PROVIMENTO AO RECURSO, MAIORIA, NOS TERMOS DO VOTO DO 1º VOGAL/DES. FERNANDO HABIBE, QUE REDIGIRÁ O ACÓRDÃO, VENCIDA A RELATORA, QUE LHE DEU PROVIMENTO, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 28 de Outubro de 2022
+
+Desembargador FERNANDO HABIBEPresidente e Relator Designado
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento, com pedido de efeito suspensivo, interposto por CASA DO SERVIDOR ASSOCIAÇÃO DE BENEFÍCIOS E ASSISTÊNCIA À SAÚDE – ABAS em face de decisão proferida pelo juízo da 2ª Vara Cível de Águas Claras que, nos autos da ação de cumprimento de sentença movida em desfavor de MAISA CONSUELO DE ANDRADE, indeferiu o pedido de penhora de salário, nos seguintes termos (ID 122338439 dos autos originários):
+
+A parte exequente requer a penhora de 10% (dez por cento) dos rendimentos da parte executada (ID. 120558327).
+
+Adianta-se, contudo, que, em que pese as alegações da parte requerente, entendo que o pleito em relação a penhora de salário não merece provimento.
+
+Consigne-se que o precedente trazido pelo autor, não possui caráter vinculativo aos Juízos de 1ª instância.
+
+Da mesma forma em que há esparsas jurisprudências favoráveis a constrição, também há recentes entendimentos contrários a esta.
+
+Isso porque, na forma do art. 833, inciso IV do CPC, os rendimentos das partes se consubstanciam verbas impenhoráveis.
+
+Ressalte-se que o c. STJ, em sede de julgamento de Recurso Repetitivo – Resp. 1184765/PA – tema 425 – pacificou o entendimento sobre a impossibilidade de penhora de salários por meio do sistema Bacenjud, em obediência ao estrita ao art. 833 do CPC (antigo 649 do CPC/1973), de forma que colaciono o acordão:
+
+1. É possível a quebra de sigilo bancário em execução fiscal, por meio do sistema BACEN-JUD, o qual viabiliza o bloqueio eletrônico de depósitos ou ativos financeiros do executado, sendo desnecessário, a partir da vigência da Lei 11.382/2006 (21/01/2007), o exaurimento de diligências extrajudiciais por parte do exequente. 2. "A penhora eletrônica dos valores depositados nas contas bancárias não pode descurar-se da norma inserta no artigo 649, IV, do CPC (com a redação dada pela Lei 11.382/2006), segundo a qual são absolutamente impenhoráveis "os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal".3. "O precedente da Corte Especial que apreciou esta espécie foi pertinente a execução civil comum."
+
+Oportuno salientar, que eventuais precedentes firmados em recursos com efeito interpartes pelo e. TJDFT não possuem caráter vinculativo (stares decisis vertical) aos Juízos de 1º grau.
+
+Observe-se que este eg. Tribunal persiste entendendo, em leitura concreta à disposição legal, que a penhora do salário para a satisfação de dívidas é indevida:
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE SALÁRIO. IMPOSSIBILIDADE. DÉBITO DE NATUREZA NÃO ALIMENTAR. 1. Nos termos do art. 833, IV, do Código de Processo Civil, é absolutamente impenhorável a verba salarial para pagamento de débito de natureza não alimentar. 2. Negou-se provimento ao agravo de instrumento.   Acórdão 1302938, 07101789720208070000, Relator: SÉRGIO ROCHA, 4ª Turma Cível, data de julgamento: 19/11/2020, publicado no DJE: 3/12/2020. Pág.: Sem Página Cadastrada.) (grifei)
+
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PENHORA. CONTA SALÁRIO. FOLHA DE PAGAMENTO. PRESTAÇÃO NÃO ALIMENTÍCIA. IMPOSSIBILIDADE. PENHORA. POUPANÇA. POSSIBILIDADE NO CASO CONCRETO. 1. Nos termos da legislação de regência, todos os bens de propriedade do devedor, desde que tenham valor econômico estão sujeitos à execução (artigos 789 e 790 do CPC/2015), porém, a lei exclui os considerados absolutamente impenhoráveis (artigos 832 e 833 do CPC/2015). 2. A penhora de percentual do salário/provento do devedor somente é admitida excepcionalmente para o pagamento de prestação alimentícia, hipótese não verificada no caso em apreço. 3. De acordo com o inciso X do art. 833 do NCPC, o saldo de até quarenta salários mínimos, depositados em caderneta de poupança, é considerado impenhorável. Contudo, ocorrendo o desvirtuamento da conta poupança, que é usada como conta-corrente, possível a penhora das verbas depositadas, apesar do artigo 833, X, do CPC. Precedente desta Corte de Justiça. 4. Agravo de instrumento conhecido e provido parcialmente. (Acórdão 1300384, 07237563020208070000, Relator: LEILA ARLANCH, 7ª Turma Cível, data de julgamento: 11/11/2020, publicado no DJE: 2/12/2020. Pág.: Sem Página Cadastrada.) (grifei).
+
+Ante o exposto, INDEFIRO o pedido de ID. 120558327.
+
+INTIME-SE o credor para, no prazo de 15 (quinze) dias, indicar bens da parte executada passíveis de constrição, com vistas à satisfação de seu crédito, sob pena de suspensão da execução pelo prazo de 1 (um) ano, nos termos do artigo 921, §1º, do CPC.
+
+Decisão registrada e assinada eletronicamente pelo Juiz de Direito / Juiz de Direito Substituto abaixo identificado, na data da certificação digital. Publique-se. Intime-se.
+
+Em razões recursais (ID 35592368), narra a agravante ter ajuizado ação de execução visando o recebimento do valor de R$ 6.149,15 (seis mil cento e quarenta e nove reais e quinze centavos) em face da executada. Relata ter requerido a penhora salarial como última forma de satisfazer o crédito, após diversas tentativas infrutíferas, mas o pedido foi negado pelo Juízo a quo.
+
+Argumenta que a impenhorabilidade dos rendimentos deve prevalecer quando demonstrada que a constrição venha a comprometer a total subsistência material da parte devedora, o que não ocorre no caso. A recorrida é pensionista da Polícia Civil do Distrito Federal – SIAPE, auferindo mensalmente R$ 5.919,18 (cinco mil e novecentos e dezenove reais e dezoito centavos), de modo que a penhora de 10% (dez por cento) é incapaz de comprometer-lhe a dignidade.
+
+Alega que a doutrina e a jurisprudência vêm dando interpretação ao artigo 833, inciso IV, do CPC pautada nos princípios da razoabilidade e proporcionalidade, no sentido de que, ao mesmo tempo em que deve ser protegido o sustento e subsistência do devedor e de sua família, tal proteção não pode servir para impedir a satisfação do crédito em execução.
+
+Acrescenta que, em recente decisão nos Embargos de divergência em RESP n. 1.582.475 – DF, o Superior Tribunal de Justiça, por meio da sua Corte Especial, entendeu que “a regra geral de impenhorabilidade de vencimentos pode ser excepcionada a fim de garantir a efetividade da tutela jurisdicional, desde que observado percentual capaz de assegurar a dignidade do devedor e de sua família”.
+
+Requer o conhecimento e o provimento do recurso para que, anulando a decisão agravada, seja deferida a penhora do salário da executada em percentual de 10% (dez por cento).
+
+Preparo recolhido (ID 35592380).
+
+Em despacho, esta Relatoria determinou que a recorrente formulasse e fundamentasse o pedido suspensivo aludido na inicial e que esclarecesse a divergência do nome constante na exordial e do registrado no sistema PJe (ID 35704068).
+
+A agravante esclareceu a discrepância de nome da pessoa jurídica, mas deixou de formular pleito cautelar (ID 36185010).
+
+Ausente pedido de antecipação de tutela, esta Relatoria conheceu do agravo e intimou a agravada para contra-arrazoar (ID 34845226).
+
+Embora devidamente intimada (ID 37316031), a recorrida deixou de apresentar contrarrazões, conforme certidão (ID 38442236).
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora LUCIMEIRE MARIA DA SILVA - Relatora
+
+Presentes os pressupostos de admissibilidade, conheço do agravo de instrumento.
+
+Na origem, verifica-se que a executada/agravada é devedora de R$ 6.610,63 (seis mil, seiscentos e dez reais e sessenta e três centavos) em ação de cobrança em fase de cumprimento de sentença. Por meio do sistema BACENJUD, logrou-se bloquear e transferir R$ 461,48 (quatrocentos e sessenta e um reais e quarenta e oito centavos), remanescendo quantia a receber de R$ 6.149,15 (seis mil e cento e quarenta e nove reais e quinze centavos).
+
+Após diligências frustradas de penhora de veículo e de localização de bens, a recorrente apurou que a recorrida é pensionista da PCDF – SIAPE e recebe remuneração bruta de R$ 5.919,18 (cinco mil e novecentos e dezenove reais e dezoito centavos) e líquida (após descontos obrigatórios) de R$ 5.160,77 (cinco mil e cento e sessenta reais e setenta e sete centavos). Pleiteou o bloqueio de 10% (dez por cento) para o pagamento do débito.
+
+O Juiz singular indeferiu o pedido, in verbis (ID 121978875 dos autos originais):
+
+A parte exequente requer a penhora de 10% (dez por cento) dos rendimentos da parte executada (ID. 120558327).
+
+Adianta-se, contudo, que, em que pese as alegações da parte requerente, entendo que o pleito em relação a penhora de salário não merece provimento.
+
+Consigne-se que o precedente trazido pelo autor, não possui caráter vinculativo aos Juízos de 1ª instância.
+
+Da mesma forma em que há esparsas jurisprudências favoráveis a constrição, também há recentes entendimentos contrários a esta.
+
+Isso porque, na forma do art. 833, inciso IV do CPC, os rendimentos das partes se consubstanciam verbas impenhoráveis.
+
+Ressalte-se que o c. STJ, em sede de julgamento de Recurso Repetitivo – Resp. 1184765/PA – tema 425 – pacificou o entendimento sobre a impossibilidade de penhora de salários por meio do sistema Bacenjud, em obediência ao estrita ao art. 833 do CPC (antigo 649 do CPC/1973), de forma que colaciono o acordão:
+
+1. É possível a quebra de sigilo bancário em execução fiscal, por meio do sistema BACEN-JUD, o qual viabiliza o bloqueio eletrônico de depósitos ou ativos financeiros do executado, sendo desnecessário, a partir da vigência da Lei 11.382/2006 (21/01/2007), o exaurimento de diligências extrajudiciais por parte do exequente. 2. "A penhora eletrônica dos valores depositados nas contas bancárias não pode descurar-se da norma inserta no artigo 649, IV, do CPC (com a redação dada pela Lei 11.382/2006), segundo a qual são absolutamente impenhoráveis "os vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, pecúlios e montepios; as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal".3. "O precedente da Corte Especial que apreciou esta espécie foi pertinente a execução civil comum."
+
+Oportuno salientar, que eventuais precedentes firmados em recursos com efeito interpartes pelo e. TJDFT não possuem caráter vinculativo (stares decisis vertical) aos Juízos de 1º grau.
+
+Observe-se que este eg. Tribunal persiste entendendo, em leitura concreta à disposição legal, que a penhora do salário para a satisfação de dívidas é indevida:
+
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DE SALÁRIO. IMPOSSIBILIDADE. DÉBITO DE NATUREZA NÃO ALIMENTAR. 1. Nos termos do art. 833, IV, do Código de Processo Civil, é absolutamente impenhorável a verba salarial para pagamento de débito de natureza não alimentar. 2. Negou-se provimento ao agravo de instrumento.   Acórdão 1302938, 07101789720208070000, Relator: SÉRGIO ROCHA, 4ª Turma Cível, data de julgamento: 19/11/2020, publicado no DJE: 3/12/2020. Pág.: Sem Página Cadastrada.) (grifei)
+
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. PENHORA. CONTA SALÁRIO. FOLHA DE PAGAMENTO. PRESTAÇÃO NÃO ALIMENTÍCIA. IMPOSSIBILIDADE. PENHORA. POUPANÇA. POSSIBILIDADE NO CASO CONCRETO. 1. Nos termos da legislação de regência, todos os bens de propriedade do devedor, desde que tenham valor econômico estão sujeitos à execução (artigos 789 e 790 do CPC/2015), porém, a lei exclui os considerados absolutamente impenhoráveis (artigos 832 e 833 do CPC/2015). 2. A penhora de percentual do salário/provento do devedor somente é admitida excepcionalmente para o pagamento de prestação alimentícia, hipótese não verificada no caso em apreço. 3. De acordo com o inciso X do art. 833 do NCPC, o saldo de até quarenta salários mínimos, depositados em caderneta de poupança, é considerado impenhorável. Contudo, ocorrendo o desvirtuamento da conta poupança, que é usada como conta-corrente, possível a penhora das verbas depositadas, apesar do artigo 833, X, do CPC. Precedente desta Corte de Justiça. 4. Agravo de instrumento conhecido e provido parcialmente. (Acórdão 1300384, 07237563020208070000, Relator: LEILA ARLANCH, 7ª Turma Cível, data de julgamento: 11/11/2020, publicado no DJE: 2/12/2020. Pág.: Sem Página Cadastrada.) (grifei).
+
+Ante o exposto, INDEFIRO o pedido de ID. 120558327.
+
+INTIME-SE o credor para, no prazo de 15 (quinze) dias, indicar bens da parte executada passíveis de constrição, com vistas à satisfação de seu crédito, sob pena de suspensão da execução pelo prazo de 1 (um) ano, nos termos do artigo 921, §1º, do CPC.
+
+Decisão registrada e assinada eletronicamente pelo Juiz de Direito / Juiz de Direito Substituto abaixo identificado, na data da certificação digital. Publique-se. Intime-se.
+
+Agravada a decisão, em razões (ID 35592366) a recorrente argumenta que a impenhorabilidade dos rendimentos deve prevalecer quando demonstrada que a constrição venha a comprometer a total subsistência material da parte devedora, o que não ocorre no caso. Requer o conhecimento e o provimento do recurso para anular a decisão agravada, de modo que seja deferida a penhora do salário da executada em percentual de 10% (dez por cento).
+
+Dessa forma, a controvérsia a ser analisada no presente recurso gira em torno da interpretação a ser conferida ao artigo 833, inciso IV, do Código de Processo Civil, que dispõe sobre a impenhorabilidade da verba salarial.
+
+A penhora de salário é disciplinada no art. 833, IV e § 2º, do CPC/15, nos seguintes termos:
+
+Art. 833. São impenhoráveis:
+
+(...)
+
+IV - os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2º;
+
+(...)
+
+§ 2º O disposto nos incisos IV e X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais, devendo a constrição observar o disposto no art. 528, § 8º, e no art. 529, § 3º.
+
+Acerca do tema, a Corte Especial do c. Superior Tribunal de Justiça fixou a tese de que a regra geral da impenhorabilidade das verbas previstas no artigo 833, inciso IV, do CPC (“os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal”) pode ser mitigada, possibilitando que, em casos excepcionais, a penhora recaia sobre a remuneração do devedor para a satisfação de crédito de natureza não alimentar, quando preservado percentual suficiente para manter a dignidade do devedor e de sua família.
+
+Nesse sentido, confiram-se julgados daquele Tribunal Superior:
+
+AGRAVO INTERNO NA PETIÇÃO. PRETENSÃO DE CONCESSÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. TESE DE VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO DEMONSTRAÇÃO. SÚMULA 83 DO STJ. PENHORA DE VERBAS DE NATUREZA SALARIAL. POSSIBILIDADE. NECESSIDADE DE OBSERVÂNCIA AO MÍNIMO NECESSÁRIO À SUBSISTÊNCIA DO EXECUTADO. SÚMULA 83 DO STJ. AFERIÇÃO DO COMPROMETIMENTO DA SUBSISTÊNCIA DO EXECUTADO. SÚMULA 7 DO STJ. FUMUS BONI IURIS NÃO DEMONSTRADO. AGRAVO INTERNO DESPROVIDO. 1. A concessão de efeito suspensivo a recurso pressupõe a demonstração conjunta da probabilidade de provimento, bem como do risco de dano grave, de difícil ou impossível reparação, nos termos do art. 995, parágrafo único, do CPC/2015, requisitos esses não demonstrados na hipótese. 2. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional. 3. A jurisprudência deste Tribunal é pacífica no sentido de que, mesmo havendo decisão monocrática no julgamento do recurso em hipótese não prevista legalmente, eventual equívoco ocorrido no julgamento fica superado com a submissão do recurso ao Órgão Colegiado, através do respectivo agravo interno, não havendo que se falar em violação ao princípio da colegialidade. Precedentes. Súmula 83/STJ. 4. Conforme definido pela Corte Especial, no julgamento do REsp n. 1.815.055/SP, "embora não se possa admitir, em abstrato, a penhora do salário do recorrido com base no § 2º do art. 833 do CPC/15, [...] é possível determinar a constrição, à luz da interpretação dada ao art. 833, IV, do CPC/15, quando, concretamente, ficar demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família", nos termos do entendimento exarado pela Corte Especial nos EREsp n. 1.582.475/MG. Súmula 83/STJ. 5. Ademais, verificar se os valores penhorados, cujo levantamento foi autorizado na origem, influem na subsistência do executado, demandaria o reexame do conjunto fático-probatório dos autos, medida essa vedada nesta instância extraordinária, ante o óbice da Súmula 7 do STJ, não sendo o caso de revaloração do quadro fático-probatório, como pretende fazer crer o agravante. 6. Agravo interno desprovido. (AgInt na Pet n. 14.879/SP, relator Marco Aurélio Bellizze, Terceira Turma, DJe de 11/5/2022. Grifou-se)
+
+AGRAVO INTERNO NO RECURSO ESPECIAL. 1. DECISÃO MONOCRÁTICA. POSTERIOR RATIFICAÇÃO PELO COLEGIADO, EM JULGAMENTO DE AGRAVO INTERNO. AUSÊNCIA DE NULIDADE. 2. PENHORA DE PERCENTUAL DO SALÁRIO. MITIGAÇÃO DA REGRA DE IMPENHORABILIDADE. PRECEDENTE DA CORTE ESPECIAL. DESNECESSIDADE DE REEXAME DE FATOS E PROVAS. REFORMA DO ACORDÃO RECORRIDO. AGRAVO INTERNO DESPROVIDO. 1. Segundo o entendimento do Superior Tribunal de Justiça, "a legislação processual (932 do CPC/15, c/c a Súmula 568 do STJ) permite ao relator julgar monocraticamente recurso inadmissível ou, ainda, aplicar a jurisprudência consolidada deste Tribunal. Ademais, a possibilidade de interposição de recurso ao órgão colegiado afasta qualquer alegação de ofensa ao princípio da colegialidade" (AgInt no AREsp 1.389.200/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/3/2019, DJe de 29/3/2019). 2. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família. (EREsp 1.582.475/MG, Rel. Ministro Benedito Gonçalves, Corte Especial, julgado em 03/10/2018, DJe 16/10/2018). 3. Agravo interno desprovido.” (AgInt no REsp n. 1.975.899/DF, relator Marco Aurélio Bellizze, Terceira Turma, DJe de 29/4/2022. Grifou-se)
+
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. IMPENHORABILIDADE DE VENCIMENTOS. CPC/73, ART. 649, IV. DÍVIDA NÃO ALIMENTAR. CPC/73, ART. 649, PARÁGRAFO 2º. EXCEÇÃO IMPLÍCITA À REGRA DE IMPENHORABILIDADE. PENHORABILIDADE DE PERCENTUAL DOS VENCIMENTOS. BOA-FÉ. MÍNIMO EXISTENCIAL. DIGNIDADE DO DEVEDOR E DE SUA FAMÍLIA. 1. Hipótese em que se questiona se a regra geral de impenhorabilidade dos vencimentos do devedor está sujeita apenas à exceção explícita prevista no parágrafo 2º do art. 649, IV, do CPC/73 ou se, para além desta exceção explícita, é possível a formulação de exceção não prevista expressamente em lei. 2. Caso em que o executado aufere renda mensal no valor de R$ 33.153,04, havendo sido deferida a penhora de 30% da quantia. 3. A interpretação dos preceitos legais deve ser feita a partir da Constituição da República, que veda a supressão injustificada de qualquer direito fundamental. A impenhorabilidade de salários, vencimentos, proventos etc. tem por fundamento a proteção à dignidade do devedor, com a manutenção do mínimo existencial e de um padrão de vida digno em favor de si e de seus dependentes. Por outro lado, o credor tem direito ao recebimento de tutela jurisdicional capaz de dar efetividade, na medida do possível e do proporcional, a seus direitos materiais. 4. O processo civil em geral, nele incluída a execução civil, é orientado pela boa-fé que deve reger o comportamento dos sujeitos processuais. Embora o executado tenha o direito de não sofrer atos executivos que importem violação à sua dignidade e à de sua família, não lhe é dado abusar dessa diretriz com o fim de impedir injustificadamente a efetivação do direito material do exequente. 5. Só se revela necessária, adequada, proporcional e justificada a impenhorabilidade daquela parte do patrimônio do devedor que seja efetivamente necessária à manutenção de sua dignidade e da de seus dependentes. 6. A regra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art. 649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família. 7. Recurso não provido.” (EREsp 1.582.475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, REPDJe 19/03/2019, DJe 16/10/2018. Grifou-se)
+
+No caso vertente, a agravada é pensionista da PCDF – SIAPE. Conforme documento extraído do Portal da Transparência (ID 120558328 dos autos originários), o seu rendimento bruto é de R$ 5.919,18 (cinco mil e novecentos e dezenove reais e dezoito centavos) e líquido (após descontos obrigatórios) de R$ 5.160,77 (cinco mil e cento e sessenta reais e setenta e sete centavos).
+
+Considerado este valor, a penhora de 10% (dez por cento) sobre os seus rendimentos brutos, abatidos os descontos compulsórios, não implica prejuízo à manutenção da dignidade da devedora e de sua família, porquanto ainda lhe restará a quantia de R$ 4.644,69 (quatro mil e seiscentos e quarenta e quatro reais e sessenta e nove centavos).
+
+Ademais, da análise dos autos de origem e das razões recursais, não há demonstração de comprometimento expressivo da renda da executada. Esta, embora citada e intimada dos atos deste e do feito originário, deixou de se manifestar. Não se desincumbiu do ônus que lhe incumbia, qual seja, o de demonstrar a existência de fato impeditivo, modificativo ou extintivo do direito da exequente (artigo 373, inciso II, CPC/15).
+
+A constrição de 10% (dez por cento) do salário, no caso dos autos, nos termos do autorizado pela jurisprudência do c. STJ, preserva percentual suficiente para a subsistência da devedora. Também propicia que a exequente alcance, ainda que em parte, a satisfação do crédito, compatibilizando os direitos de ambas as partes.
+
+Ante o exposto, DOU PROVIMENTO ao agravo de instrumento, para deferir a penhora mensal de 10% (dez por cento) da pensão percebida pela executada/agravada MAISA CONSUELO DE ANDRADE, que incidirá sobre os seus rendimentos brutos, abatidos os descontos compulsórios.
+
+É como voto.
+O Senhor Desembargador FERNANDO HABIBE - Relator Designado e 1º Vogal
+
+O CPC 833, IV, expressamente declara a impenhorabilidade dos "vencimentos, subsídios, soldos, salários, remunerações (...)", salvo as únicas exceções expressamente indicadas no § 2º que, exatamente por excepcionar a regra do caput, deve ser interpretado restritivamente, e não de forma ampliativa, ainda que esta se apresente atenuada com percentuais sobre a remuneração.
+
+A pretexto de interpretar a lei não se pode, de costas voltadas para o seu texto, criar uma espécie de ordenamento jurídico paralelo ao que foi concebido pelo Parlamento. A lei, sobretudo a escrita e codificada, serve também para fomentar a segurança jurídica, em benefício, inclusive, dos operadores do direito posto por quem tem competência constitucional para tanto.
+
+Evidentemente, o que vem de ser afirmado não é incompatível com os conhecidos e variados critérios de interpretação, a qual, enquanto assim quiser permanecer, há de ter como bússola, em regra, o sentido literal possível do texto, sem prejuízo de alcançarse, mediante o emprego adequado desses critérios, resultado extensivo ou restritivo.  O que daí exceder já não mais será, boa parte das vezes, interpretação, mas, sim, inovação do ordenamento jurídico.
+
+No caso, o legislador estabeleceu uma regra especial (CPC 833) – que excepciona, em parte, a regra geral de que o patrimônio do devedor responde por seus débitos -  qual seja, a da impenhorabilidade de determinados bens por ele, legislador, expressamente indicados. Em seguida, teve o cuidado de excepcionar (§ 2º) dessa regra da impenhorabilidade duas hipóteses, que também especificou.
+
+Ante essa estrutura normativa, não há como supor que esteja franqueada ao Judiciário a modulação, a relativização, a atenuação, a flexibilização, a mitigação da impenhorabilidade, para além das exceções expressamente admitidas pela lei (§ 2º), como se estas fossem - mas não são -  meramente exemplificativas.
+
+A propósito, a supressão do advérbio absolutamente do Código vigente, encontrado no anterior, não denota, de per si, caráter relativo da regra da impenhorabilidade para além das exceções legais.
+
+A acertada opção do legislador em não o empregar no atual CPC rende homenagem à lógica e à Língua Portuguesa.
+
+Com efeito, ante a mencionada estrutura do texto legal, contendo expressamente a regra e as exceções que comporta, o emprego do advérbio, além de desnecessário, seria – como o foi no Codex revogado - equivocado, pois, afinal, o que é absoluto não comporta exceções (relativizações) que hoje são admitidas, como ontem também o foram, nos casos previstos em lei.
+
+Dessarte, a sua ausência não traduz licença para o Juiz complementar o minguado rol legal das exceções (§ 2º), nem para fechar os olhos ao caput: “são impenhoráveis. “
+
+Acrescento que, mesmo para os que defendem a possibilidade de transmutar o impenhorável em penhorável, faz-se necessário que a operação não comprometa a dignidade da devedora, risco presente no caso, pois ele percebe remuneração líquida de R$ 5.160,77, valor inferior ao cinco salários-mínimos que, de acordo com a jurisprudência da Corte, reforça a presunção de necessidade dos benefícios da justiça gratuita. Logo, a penhora de percentual dessa verba irá comprometer a existência digna da agravada.
+
+Posto isso, nego provimento ao agravo de instrumento.
+
+O Senhor Desembargador ARNOLDO CAMANHO - 2º Vogal Com a divergência.
+
+DECISÃO
+
+NEGAR PROVIMENTO AO RECURSO, MAIORIA, NOS TERMOS DO VOTO DO 1º VOGAL/DES. FERNANDO HABIBE, QUE REDIGIRÁ O ACÓRDÃO, VENCIDA A RELATORA, QUE LHE DEU PROVIMENTO
