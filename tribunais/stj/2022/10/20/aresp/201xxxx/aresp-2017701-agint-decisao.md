@@ -1,0 +1,13 @@
+DECISÃO
+Na origem, trata-se deembargos à execuçãoem sede de ação de concessão de benefício previdenciário, para determinar o prosseguimento da execução.Na sentença, julgaram-se parcialmente procedentes os embargos à execução.No Tribunala quo,a sentença foi mantida,conforme o seguinte resumo do acórdão:
+PREVIDENCIÁRIO - PROCESSO CIVIL CORREÇÃO MONETÁRIA E JUROS DE MORA - LEI 11.960/09 QUESTÃO DEFINIDA NO TÍTULO JUDICIAL EXECUÇÃO DE PARCELAS ANTERIORES AO QUINQUÊNIO ANTECEDENTE AO AJUIZAMENTO DA AÇÃO COISA JULGADA MATÉRIA NÃO ABORBADA NO PROCESSO DE CONHECIMENTO.
+Interposto recurso especial, alega a parte recorrente violação dos arts. 1.039 e 1.040, I e II, do CPC.
+O recurso especial foi inadmitido na origem. Interposto agravo em recurso especial vieram os autos ao Superior Tribunal de Justiça.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno. A parte traz argumentos contrários à decisão recorrida.
+É o relatório. Decido.
+A questão jurídica objeto do presente recurso diz respeito à validade do índice de correção monetária aplicável nas condenações da Fazenda Pública, em virtude da tese firmada no RE 870.947 (Tema n. 810/STF), na execução de título judicial que tenha fixado expressamente índice diverso (RE 1.317.982 da relatoria do Sr. Ministro Luiz Fux, submetido ao rito dos recursos repetitivos, Tema n. 1.170/STF), cujo processamento encontra-se pendente de julgamento perante o Supremo Tribunal Federal, com determinação de suspensão nacional de todos os processos.
+Alega a parte embargante a existência de repercussão geral reconhecida ou afetação para julgamento como recurso repetitivo da matéria tratada nos autos.
+Nesses casos, o art. 256-L, caput, do Regimento Interno do STJ, determina a devolução dos autos ao Tribunal de origem, para nele permanecerem suspensos.
+Ante o exposto,torno sem efeitoas decisões proferidas nesta Corte; considero prejudicados os recursos interpostos nesta Corte, e determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC e 1.040 e seguintes do CPC/2015, e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia ou repetitivo: a) denegue seguimento ao recurso, se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
