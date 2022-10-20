@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ANA LUISA ROCCON (ou ANA LUIZA ROCCON) contra decisão que inadmitiu recurso especial com os seguintes fundamentos: incidência da Súmula n. 7 do STJ;não demonstração da apontada violação à legislação federal; eausência de cotejo analítico para a comprovação do dissenso jurisdicional.
+Em suas razões (fls. 501-539), a agravante deixou de infirmar especificamente os fundamentos utilizados pelo Tribunal a quo para inadmitir o recurso especial, especialmente a apontadaausência do devido cotejo analítico da divergência jurisprudencial.
+Embora tenha feito menção aos óbices arguidos, não houve a impugnação efetiva, específica e fundamentada de cada um deles nas razões do agravo, limitando-se aagravante a refutar genericamente sua incidência erenovar a discussão a respeito do mérito do apelo nobre.
+Para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa.
+Nesse sentido: AgRg no AREsp n. 1.874.097/SC, de minha relatoria, Quinta Turma, DJe de 15/8/2022; AgRg no AREsp n. 1.995.672/PA, relator Ministro Olindo Menezes, Sexta Turma, DJe de 7/4/2022; AgInt no AREsp n. 2.105.220/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/9/2022; e AgInt no AREsp n. 2.074.121/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 31/8/2022.
+Assim, é de rigor a aplicação da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC/2015, majoro os honorários advocatícios afavor do patronoparte recorrida de 10%, arbitrados pelo Tribunal de origem, para 12% sobre o valor da causa, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
