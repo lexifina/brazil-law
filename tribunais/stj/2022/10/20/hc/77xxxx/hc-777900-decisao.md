@@ -1,0 +1,11 @@
+DECISÃO
+JEAN DA TRINDADE eMATHEUS FERNANDES DA SILVAalegam sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Amapá no Recurso em Sentido Estrito n. 0003363-02.2021.8.03.0001.
+Os pacientes tiveram a prisão preventiva decretada em razão da suposta prática do delito de roubo, com emprego de arma de fogo, de fios elétricos e alimentos, de escola situada em comunidade da área ribeirinha do Município de Macapá, distante do centro urbano, não conectada por estradas, cujo acesso se dá por embarcações e depende das marés.O réu JEAN foi preso em 21/7/2022 e o acusado MATHEUS permanece foragido.
+Neste writ, a defesa sustenta a ausência de fundamentação idônea e de contemporaneidade da segregação cautelar dos acusados e acrescenta que há excesso de prazo para a conclusão da fase instrutória do processo.
+Decido.
+De início, no tocante à alegada ausência de fundamentação idônea e de contemporaneidade do decreto prisional, verifico que este habeas corpus cuida do mesmo objeto do HC n. 699.241/AP,em que também se apontoucomo ato coator o acórdão proferido pelo Tribunal de origem nos autos do RSE n. 0003363-02.2021.8.03.0001, evidenciando-se, assim, a impossibilidade de conhecer-se a impetração ante a reiteração de pedido.
+Com relação ao alegado excesso de prazo, daleitura do acórdão impugnado (fls. 226-232), constata-se que a matérianão foiobjeto de análise pelo Tribunal estadual, circunstância que impede a sua apreciação diretamente por esta Corte Superior, sob pena de atuar em indevida supressão de instância.
+Saliento que a matéria deveria ter sido suscitada no momento oportuno e perante o Juízo competente, até para possibilitar à instância recursal um pronunciamento seguro sobre a questão, sendo, por isso mesmo, vedada a inauguração, em habeas corpus, de tese defensiva não aventada e não debatida na via ordinária.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste writ, sob pena de supressão de instância.
+À vista do exposto, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se e intimem-se.
