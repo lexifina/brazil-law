@@ -1,0 +1,63 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS. REVISÃO. REEXAME DE PROVA. IMPROPRIEDADE DA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme a jurisprudência deste Superior Tribunal, no tocante ao crime continuado, exige-se, como requisito de ordem subjetiva, o dolo global ou unitário entre os crimes parcelares, isto é, para ficar caracterizada a continuidade delitiva, além dos requisitos objetivos, é necessária a demonstração da unidade de desígnios. A continuidade delitiva é uma ficção jurídica que beneficia o agente, segundo a qual vários delitos cometidos são entendidos como desdobramento do primeiro, conforme o preenchimento dos requisitos objetivos e subjetivos.
+2. Na espécie, as instâncias ordinárias, fundamentadamente, concluíram que se tratou de habitualidade criminosa, tendo em vista a ausência da unidade de desígnios entre os delitos a que foi condenado. Tal entendimento sobre a conjuntura fático-probatória não pode ser reapreciada pelo Superior Tribunal de Justiça na estreita via do habeas corpus.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por ADRIANO TEIXEIRA BORGES contra a decisão de fls. 120-123, em que deneguei a ordem de habeas corpus. O decisum foi assim ementado (fl. 120):
+"HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS. REVISÃO. REEXAME DE PROVA. IMPROPRIEDADE DA VIA ELEITA. ORDEM DE HABEAS CORPUS DENEGADA."
+No presente recurso, alega-se que está evidenciado o vínculo objetivo entre as duas condenações do Agravante pela prática de dois crimes de furto, pois os delitos foram cometidos nas mesmas condições de tempo, lugar e maneira de execução, apto ao reconhecimento da continuidade delitiva. Argumenta-se que a dinâmica dos fatos revela haver uma relação de continuidade entre eles.
+Requer-se a submissão do feito ao Órgão colegiado, a fim de que seja, ao final, concedida a ordem de habeas corpus.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS. REVISÃO. REEXAME DE PROVA. IMPROPRIEDADE DA VIA ELEITA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme a jurisprudência deste Superior Tribunal, no tocante ao crime continuado, exige-se, como requisito de ordem subjetiva, o dolo global ou unitário entre os crimes parcelares, isto é, para ficar caracterizada a continuidade delitiva, além dos requisitos objetivos, é necessária a demonstração da unidade de desígnios. A continuidade delitiva é uma ficção jurídica que beneficia o agente, segundo a qual vários delitos cometidos são entendidos como desdobramento do primeiro, conforme o preenchimento dos requisitos objetivos e subjetivos.
+2. Na espécie, as instâncias ordinárias, fundamentadamente, concluíram que se tratou de habitualidade criminosa, tendo em vista a ausência da unidade de desígnios entre os delitos a que foi condenado. Tal entendimento sobre a conjuntura fático-probatória não pode ser reapreciada pelo Superior Tribunal de Justiça na estreita via do habeas corpus.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+A irresignação não prospera.
+Consta dos autos que o Agravante foi condenado, em feitos distintos, pela prática de condutas que se amoldam ao art. 155, § 4.º, inciso III, do Código Penal e, formulado pedido de unificação das penas com reconhecimento da continuidade delitiva, o pleito foi indeferido pelo Juízo das Execuções Penais.
+Irresignado, o Apenado interpôs agravo de execução, o qual foi desprovido pelo Tribunal estadual nos termos do acórdão acostado às fls. 74-78.
+Seguiu-se habeas corpus perante o Superior Tribunal de Justiça, ao qual deneguei a ordem em decisão que ora mantenho.
+Com efeito, conforme a jurisprudência deste Superior Tribunal, no tocante ao crime continuado, exige-se, como requisito de ordem subjetiva, o dolo global ou unitário entre os crimes parcelares, isto é, para ficar caracterizada a continuidade delitiva, além dos requisitos objetivos, é necessária a demonstração da unidade de desígnios.
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CONTINUIDADE DELITIVA. NÃO RECONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível o julgamento monocrático de habeas corpus, por decisão do relator, com fundamento em jurisprudência majoritária desta Corte, facultado à parte submeter a controvérsia ao colegiado por meio de agravo regimental.
+2. A jurisprudência deste Superior Tribunal é pacífica em adotar a teoria objetivo-subjetiva para o reconhecimento da continuidade delitiva, por considerá- la mais adequada à interpretação do art. 71 do CP.
+3. Não é possível, por meio do habeas corpus, aplicar na execução penal o art. 71, parágrafo único, do CP, se os latrocínios não foram praticados em condições semelhantes e nada indica que derivaram de uma espécie de propósito inicial do sentenciado.
+4. Agravo regimental não provido." (AgRg no HC 592.779/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/10/2020, DJe 12/11/2020; sem grifos no original.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. CONTINUIDADE DELITIVA. NÃO CONFIGURAÇÃO DOS REQUISITOS DO ART. 71 DO CP. AUSÊNCIA DE IDENTIDADE DE DESÍGNIOS. REANÁLISE FÁTICO-PROBATÓRIA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - Segundo a jurisprudência do col. Supremo Tribunal Federal e deste Tribunal Superior, para efeito de reconhecimento da continuidade delitiva, é indispensável que o réu tenha praticado as condutas em idênticas condições de tempo, lugar, maneira de execução e outras semelhanças e, ainda, que exista um liame a indicar a unidade de desígnios do agente. Precedentes.
+ ..
+Habeas corpus não conhecido." (HC 599.831/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 22/09/2020, DJe 29/09/2020; sem grifos no original.)
+No caso, ao indeferir o pedido de unificação das penas, o Juízo das Execuções Criminais assim consignou (fls. 40-41):
+"Não obstante o apenado se enquadrar nas condições objetivas do art. 71 do Código Penal (tempo, lugar, modo de execução e outras similares), verifico que razão assiste ao representante do Ministério Público. Isso porque aquele fez da prática reiterada em crimes de furtos e roubos o seu meio de vida. Ademais, não constatei a existência de liame entre os crimes praticados, de modo a evidenciar a continuidade entre um crime e outro, já que o furto subsequente não se constitui no desdobramento do furto anteriormente praticado, os quais foram executados com ânimo autônomo pelo reeducando.
+Nesse sentido, importa informar o acórdão proferido pelo Tribunal de Justiça de Santa Catarina no sentido de que, além da existência de similitude entre as condições objetivas, deve-se demonstrar a existência de liame entre os crimes praticados:
+ .. ."
+A Corte de origem manteve o decisum ao fundamento de que (fls. 76-78):
+"Para caracterização da continuidade delitiva, faz-se necessário o preenchimento de requisitos de ordem objetiva (mesmas condições de tempo, lugar e forma de execução) e subjetiva (unidade de desígnios).
+Ora, o crime continuado, ficção jurídica a qual pressupõe o prosseguimento da mesma conduta delituosa, não se confunde com crimes individuais cometidos seguidamente, mesmo que da mesma espécie, em condições de tempo, lugar e modo de execução diversos.
+Diante disso, o entendimento majoritário no âmbito jurisprudencial e doutrinário acolhe a teoria objetivo-subjetiva para o reconhecimento do crime continuado, diferenciando-o da habitualidade criminosa. Mostra-se necessário, portanto, além do preenchimento do requisito objetivo, a comprovação da unidade de desígnios entre as condutas (requisito de ordem subjetiva).
+ ..
+Compulsando-se os autos n. 0001585-92.2002.8.24.0028, colhe-se que a subtração do veículo, ocorrida em 10/08/2002, se deu através da utilização de chave falsa e ligação direta, sendo que consta na transcrição da denúncia presente na sentença que o apenado fazia da prática de delitos seu meio de vida, já tendo subtraído uma motocicleta anteriormente aos presentes fatos.
+Já na ação penal n. 0001685-13.2003.8.24.0028, da qual não se tem a data dos fatos na sentença, o reeducando, também com a utilização de chave falsa, praticou a subtração de telefones celulares e uma carteira que se encontrava no interior de um veículo.
+Como se vê, os crimes praticados pelo condenado são da mesma natureza - contra patrimônio -, e as condutas apresentam, como visto, circunstância de lugar semelhantes, por terem sido praticadas na mesma cidade, sem que se tenha a informação quanto ao intervalo de tempo.
+Contudo, é de se notar que o modo de execução são distintos, enquanto um foi praticado para subtrair os bens existentes no interior de um veículo, o outro foi para a subtração do próprio veículo, diga-se, com vítimas distintas.
+Além disso, pelo que se colhe dos autos n. 0001585-92.2002.8.24.0028 o reeducando responde a outro delito de furto, o que demonstra utilizar da prática de delitos como meio de vida, como bem salientou o juízo a quo.
+Por último, não há unidade de desígnios entre as condutas a permitir o reconhecimento da continuidade delitiva, pois a segunda conduta por ele praticada não se revela simples desdobramento da primeira, mas reiteração delitiva merecedora de punição mais rigorosa, já que não restou demonstrada que provenientes de um único propósito, caracterizada, assim, a habitualidade criminosa.
+Dessa maneira, a decisão deve ser preservada incólume, no sentido de manter o concurso material e afastar, por conseguinte, os argumentos defensivos que pretendiam o reconhecimento da continuidade delitiva."
+Cabe ressaltar que a continuidade delitiva é uma ficção jurídica que beneficia o agente, segundo a qual vários delitos cometidos são entendidos como desdobramento do primeiro, conforme o preenchimento dos requisitos objetivos e subjetivos. Todavia, como se depreende dos excertos transcritos acima, as instâncias ordinárias concluíram que se tratou de habitualidade criminosa, porquanto as condutas praticadas são independentes e isoladas, com desígnios totalmente distintos, o que afasta a aplicação da continuidade delitiva, por ser merecedor de tratamento penal mais rigoroso.
+Com igual conclusão:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE RECONHECIMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS. HABITUALIDADE DELITIVA RECONHECIDA PELO TRIBUNAL DE ORIGEM. REVISÃO. REEXAME DE PROVA. IMPROPRIEDADE DA VIA ELEITA. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme a jurisprudência deste Superior Tribunal, no tocante ao crime continuado, exige-se, como requisito de ordem subjetiva, o dolo global ou unitário entre os crimes parcelares, isto é, para ficar caracterizada a continuidade delitiva, além dos requisitos objetivos, é necessária a demonstração da unidade de desígnios.
+2. A Corte estadual, soberana no tocante à análise do arcabouço fático-probatório acostado ao caderno processual, entendeu pela existência de desígnio autônomo em cada delito, porquanto, em verdade, a ora Agravante seria uma criminosa habitual, que pratica reiteradamente delitos contra o patrimônio, o que afasta a aplicação da continuidade delitiva, por ser merecedora de tratamento penal mais rigoroso.
+3. Agravo regimental desprovido." (STJ, AgRg no HC 525.981/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/12/2019, DJe 17/12/2019.)
+Além disso, a "rediscussão da matéria mostra-se incompatível com a via mandamental eleita, porquanto, para se invalidar a conclusão da instância originária, torna-se imprescindível a reavaliação do contexto fático probatório" (STJ, AgRg no HC 438.232/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/05/2018, DJe 30/05/2018).
+Assim, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É o voto.
