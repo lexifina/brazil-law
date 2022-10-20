@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interposto por CLARO S.A. contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado(fl. 662):
+ANULATÓRIA. Empresa de telefonia. Multa por infrações ao art. 48 do CDC. Ofertas de serviços não honradas. Fatos em si que não foram negados pela empresa, não vingando o argumento de falta de provas. Inaplicabilidade das regras do Direito Penal para fins de afastamento da sanção administrativa. Independência das esferas. Possibilidade de utilização do faturamento nacional como base de cálculo da multa, vez que não se tratou de oferta limitada ao âmbito local. Apuração do quantum que respeitou os critérios legais e regulamentares. Montante que deve ainda atender ao caráter inibitório/pedagógico da sanção. Valores que, no entanto, devem ser recalculados com utilização da Taxa Selic, mesmo que não se trate de débito de natureza tributária. Honorários fixados segundo a regra legal. Precedentes do C. STJ e desta E. Corte. Sentença parcialmente reformada. Recurso conhecido e provido em parte.
+Os embargos de declaração opostos pela ora agravante foram rejeitados (fls. 688-690).
+Rejeitados, ainda, os embargos de declaração opostos pela ora agravadaFUNDAÇAO DE PROTEÇÃO E DEFESA DO CONSUMIDOR - PROCON (fls. 753-755).
+No recurso especial, a CLARO S.A. alegouofensa:
+- aos arts. 371 e 374, I, do CPC, pois há prova de infração em apenas dois municípios, resultando em base de cálculo de multa bem menorque a fixada pelo PROCON;
+- ao art. 107, VI, do CP e ao art. 56 do CDC, visto que a punibilidade se extingue pela realização de acordo e, no caso, houve acordo entre a CLARO S.A. e uma das consumidoras; e
+- ao art. 8º do CPC, porque há ausência de razoabilidade e de proporcionalidade na penalidade imposta à empresa de telefonia (multa de R$ 4.618.186,67) por uma simples conduta equivocada diante de dois consumidores, optando o Tribunal estadual por divergir da jurisprudência dos demais tribunais pátrios, como o STJ, o TJBA,o TJMS e o TJSC, e aplicar multa exorbitante.
+Sustentouque a função pedagógica da multa não se faz necessária, devendo o montante fixado ser reduzido, pois
+Afinal, que comportamento correto haveria de ser "ensinado" a uma empresa que atua corretamente  Ignorar esse fato é admitir que a empresa deve ser multada pelo simples fato de ter se equivocado na cobrança que realizou, instituindo uma inadmissível e ilegal responsabilidade sancionatória objetiva.
+Do mesmo modo, é absolutamente incontestável que antes mesmo dessa desarrazoada autuação feita pela Recorrida, a recorrente já havia cancelado a cobrança dos valores reclamados pelos consumidores.
+Tais parâmetros objetivos para a fixação da multa encontram-se todos elencados no próprio artigo 57 do Código de Defesa do Consumidor, substrato legislativo para a atuação sancionadora do PROCON e que foram completamente violados no caso concreto.
+Mas não é só sob esse aspecto que a proporcionalidade da multa deve ser analisada pelo Poder Judiciário. Casos como o presente revelam que muitas vezes os próprios regulamentos que estabelecem os parâmetros de fixação da pena é que são portadores de uma ilegalidade intrínseca por falta de razoabilidade e proporcionalidade. (fl. 718)
+Requereu o provimento do recurso especial para I) reconhecer que o aresto estadual violou a legislação supramencionada e divergiu da jurisprudência maioritária, anulando-se a multa imposta, ou, alternativamente, II) reduzir o valor da referida multa para patamares consentâneos com a proporcionalidade e a razoabilidade.
+Sem contrarrazões ao recurso especial.
+Sobreveio o juízo de admissibilidade negativo na instância de origem, sob o fundamento da aplicação da Súmula n. 7 do STJ (fl. 854), o que deu ensejo à interposição deste agravo.
+Na petição do agravo em recurso especial, a CLARO S.A. impugna o fundamento segundo o qual o recurso especial esbarraria em reexame de matéria fático-probatória, "já que foi o próprio acórdão recorrido que reconheceu como incontroverso o fato em que se baseia a pretensão, tendoestabelecido (i) o universo de consumidores atingidos e (ii) a ocorrência deacordocom um dos consumidores" (fl. 695).
+É, no essencial, o relatório.
+O agravo estáregularmente instruído e devidamente fundamentado.
+A matéria apresentada no recurso especial, cuja subida foi obstada, merece ser reapreciada no âmbito desta Corte de Justiça.
+Cinge-se a controvérsia a debatera proporcionalidade e a razoabilidade damulta aplicada pelo PROCON no importe deR$4.618.186,67 (quatro milhões seiscentos e dezoito mil cento e oitenta e seis reais e sessenta e sete centavos), considerando-se ouniverso de 2 (dois) consumidores atingidos e quehouve acordo entre a empresa de telefonia eum deles.
+Ante o exposto, dou provimento ao agravo para determinar a sua conversão em recurso especial, nos termos do art. 34, XVI, do RISTJ.
+Publique-se. Intimem-se.
