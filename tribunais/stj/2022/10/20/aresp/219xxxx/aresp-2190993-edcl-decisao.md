@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EDGAR BARBOSA RIBAS E OUTROS, à decisão de fls. 504/505, que não conheceu do recurso.
+Sustenta a parte embargante que:
+4. Todavia, conforme foi demonstrado junto o Agravo não conhecido, o Recurso Especial não demandava a comprovação de sua tempestividade, porquanto um dos feriados que se deu no fluxo de prazo é considerado FERIADO NACIONAL (TIRADENTES), de forma que o segundo feriado (SEXTA-FEIRA DA PAIXÃO) possui NOTORIEDADE nacional, o que torna imperioso o provimento do recurso em questão (fls. 507/508).
+ ..
+9. Em que pese o art. 1.003, parágrafo 6º do CPC e a jurisprudência do E. STJ assetar a necessidade de que deve ser colacionado junto do Recurso Especial o Decreto Judiciário que estabelece as suspensões de prazo de cada localidade, no caso concreto se está diante de um feriado com a notoriedade nacional, assim como o é o feriado de TIRADENTES (reconhecidamente nacional por Lei Federal).
+10. Portanto, deve o art. 1.003, parágrafo 6º do CPC e a jurisprudência do E. STJ, serem aplicados de maneira equilibrada, razoável e proporcional.
+11. E é neste interim que se observa a CONTRADIÇÃO da r. decisão embargada. Da leitura da r. decisão, a problemática recai sob o feriado da SEXTA-FEIRA DA PAIXÃO, que pela sua natureza não é reconhecido como feriado nacional (discussão esta que não se estende ao feriado de TIRADENTES).
+12. Todavia, diferentemente de feriados locais - como aniversários de Municípios, dias comemorativos específicos de localidades, etc. - o feriado da SEXTA-FEIRA DA PAIXÃO pode até não ser oriundo de Lei Federal, MAS POSSUI NOTORIEDADE NACIONAL (fl. 508).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+É certo que os feriados nacionais de 15/4/2022 (Paixão de Cristo) e 21/4/2022 (Dia de Tiradentes) não precisam ser comprovados. Porém, o dia 14/4/2022 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso, providência que não foi cumprida.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
