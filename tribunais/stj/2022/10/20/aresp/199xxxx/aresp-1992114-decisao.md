@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto porOSVALDO DE SOUSA e SUELI FELIX DE SOUZAcontra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que não admitiu recurso especial fundado nas alíneas "a" e "c" do permissivo constitucional,que desafia acórdão assim ementado (e-STJ fls. 130/133):
+APELAÇÃO. Embargos à execução. Sentença de rejeição por intempestividade. Insurgência recursal dos embargantes. Sem razão. O prazo para interposição dos embargos à execução é de 15 dias contados da citação, não do decurso do prazo para realizar a obrigação de fazer. Ajuizamento após mais de seis meses da citação dos executados. Intempestividade. Recurso não provido.
+Embargos de declaração rejeitados (e-STJ fls.
+No recurso especial obstaculizado, a parte apontou violação dos arts. 250, II, c/c 239, 280, 771 e 318, e dos arts. 915 e 1.022, II, todos do CPC/2015, ao argumento deque a tese de nulidade da citaçãonão foi enfrentada no acórdão combatido, nem após a oposição dos embargos de declaração.
+Outrossim, alega que o oferecimentodos embargos à execução foi tempestivo, porquanto realizadodurante a vigência do prazo concedido para cumprimento voluntário da obrigação de fazer (120 dias).
+Contrarrazões às e-STJ fls. 183/189.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Em relação à alegada ofensa do art.1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+No caso, o Tribunal a quo, ao decidira controvérsia, expressamente consignou no acórdão combatido o seguinte (e-STJ fl. 132):
+No mais, conforme a certidão de fls. 150 da execução, verifica-se que os recorrentes foram citados em 09.01.2018. Contudo, os presentes embargos à execução foram interpostos apenas em 27.07.2018. Ora, o art. 915 do CPC é expresso quanto ao prazo de 15 dias para interposição dos embargos à execução, contados conforme o art. 231 do referido diploma legal. Assim, o prazo de 15 dias não flui somente após o decurso do prazo de 120 dias para cumprimento da obrigação de fazer. Flui desde a citação.(Grifos acrescidos)
+De igual forma, ao julgar os embargos de declaração, reiterou "a regularidade da citação e a intempestividade dos embargos à execução" (e-STJ fl. 156).
+Portanto, verifica-se ter sido enfrentada a questão relativa ao prazo e o termo inicial para oferecimento dos embargos à execução, não havendo falar em omissão.
+Além disso, decidir de outra forma- pela regularidade ou não do mandado de citação - demandaria inevitável incursão no conjunto fático probatório dos autos, o que não se admite, nos termos do enunciado de Súmula nº 7 do STJ.
+Por fim, "este Tribunal tem entendimento no sentido de que a incidência do enunciado n. 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa" (AgInt no AREsp 398.256/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 10/03/2017).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
