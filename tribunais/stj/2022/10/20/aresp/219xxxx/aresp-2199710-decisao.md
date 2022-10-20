@@ -1,0 +1,6 @@
+DECISÃO
+JOHNNY LUCAS DE CARVALHOagrava de decisão que não admitiu seu recurso especial, interposto com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1518721-23.2020.8.26.0228).
+Em consulta processual realizada na página eletrônica desta Corte Superior de Justiça, verifico que, contra o acórdão proferido nos autos da Apelação Criminal n. 1518721-23.2020.8.26.0228, a defesa também impetrou o HC n. 755.844/SPem favor doora recorrente, o qual já foi julgado por este Superior Tribunal e teve a ordem concedida, a fim deestabelecer a pena-base no mínimo legal, reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do acusado, aplicá-la no patamar de 2/3 e, por conseguinte: a) reduzir a sua reprimenda para 1 ano e 8 meses de reclusão e pagamento de 164 dias-multa; b) fixar o regime aberto; c) determinar a substituição da reprimenda privativa de liberdade por duas restritivas de direitos, as quais deverão ser escolhidas pelo Juízo das Execuções Criminais.
+Dessa forma, fica esvaída a análise das questões suscitadas no recurso especial.
+Assim, não conheço do recurso especial, por falta de interesse de agir.
+Publique-se e intimem-se.
