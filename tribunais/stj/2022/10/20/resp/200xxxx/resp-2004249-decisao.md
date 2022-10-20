@@ -1,0 +1,48 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pelo SINDICATO DOS EMPREGADOS EM ESTABELECIMENTOS BANCÁRIOS DE BELO HORIZONTE - SEEB-BH E REGIÃO contra acórdão prolatado, por maioria, pela 5ª Câmara Cível do Tribunal de Justiça do Estado de Minas Gerais no julgamento de Apelação, assim ementado (fls. 260/272e):
+DESAPROPRIAÇÃO. EXECUÇÃO DE SENTENÇA. EMBARGOS. HONORÁRIOS ADVOCATíCIOS. SUCUMBÊNCIA RECÍPROCA DE AMBAS AS PARTES. FIXAÇÃO DE HONORÁRIOS.
+- Em relação à condenação em honorários, fixa-se a verba, dada a sucumbência recíproca e equivalente das partes, da seguinte forma: 1)- os honorários devem ser calculados sobre o valor do excesso da execução, a ser apurado em liquidação de sentença.; e 2) o embargante pagará ao patrono do embargado honorários fixados em 5% sobre esse valor; e o embargado pagará ao embargante honorários no mesmo percentual e sobre o mesmo valor.
+- Recurso parcialmente provido.
+WP - APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. JUROS DE MORA E COMPENSATÓRIOS. HONORÁRIOS DE SUCUMBÊNCIA. TRÂNSITO EM JULGADO DA SENTENÇA EXECUTADA. IMPOSSIBILIDADE DE ALTERAÇÃO, EM EMBARGOS À EXECUÇÃO, DOS CRITÉRIOS ESTAMPADOS NOS AUTOS PRINCIPAIS. COISA JULGADA MATERIAL.
+- Não é permitido ao magistrado, nos autos dos Embargos à Execução, alterar os índices de atualização relativos aos juros fixados nos autos do procedimento exequendo, mormente quando transitada em julgado a decisão que os fixou, sob pena de violação à coisa julgada material.
+Opostos embargos de declaração, foram rejeitados (fls. 287/297e).
+Com amparo no art. 105, III, a, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 86, parágrafo único, do Código de Processo Civil - " ..  o SINDICATO/RECORRENTE recaiu de uma parte mínima de sua pretensão executória, o que não autoriza o Tribunal de Justiça de Minas Gerais a lhe impor quaisquer ônus sucumbenciais. " (fl. 304e); eArt. 85, §§ 2º e 3º, do Codex Processual - identificou" .. uma flagrante injustiça e ilegalidade no arbitramento de honorários em valoresínfimos." (fl. 305e).Com contrarrazões (fls. 312/316e), o recurso foi inadmitido (fls. 318/320e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 371e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Quanto à alegação de impossibilidade de divisão dos honorários advocatícios ealteração da base de cálculo destes, verifico que o Recorrente deixou de impugnar especificamente o único fundamento do acórdão recorrido, qual seja, que a distribuição dos ônus sucumbenciais já teria sido indicada pelo dispositivo legal aplicado ao caso, sendo descabida sua alteração, sob pena de reformatio in pejus (fl. 267e).
+O recurso não merece prosperar nesse ponto, ante a ausência de pressuposto recursal genérico, consistente na impugnação específica do fundamento da decisão recorrida, o que equivale à conclusão de que a fundamentação do próprio recurso é deficiente, atraindo o óbice da Súmula n. 284 do Supremo Tribunal Federal, segundo a qual: "é inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO COLETIVA. ENTIDADE SINDICAL. INADEQUAÇÃO DA VIA ELEITA. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO AUTÔNOMO.
+DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+(..)
+3. A fundamentação utilizada pelo Tribunal a quo para firmar seu convencimento não foi inteiramente atacada pela parte recorrente e, sendo apta, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+4. Ademais, a revisão do entendimento adotado no acórdão recorrido implica reexame de fatos e provas, obstado pelo teor da Súmula 7/STJ.
+5. Agravo Regimental não provido.
+(AgRg no REsp 1.406.678/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/08/2014, DJe 18/08/2014).
+TRIBUTÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. EXIGÊNCIA DE SALDO REMANESCENTE. AUSÊNCIA DE DESCONSTITUIÇÃO INTEGRAL DO DÉBITO NO PROCESSO ADMINISTRATIVO. FUNDAMENTO INATACADO. SÚMULA 283/STF. ALCANCE DESSE PROCESSO. SÚMULA 7/STJ.
+1. O fundamento central do acórdão recorrido foi o fato de que não houve a desconstituição integral do lançamento tributário no processo administrativo - sendo que permaneceu válida a exigência dos juros de mora e da multa -, aplicando-se, desse modo, a inteligência do verbete sumular 283 do Supremo Tribunal Federal, pois a recorrente não atacou esse fundamento, tecendo apenas comentários referente à impossibilidade de alteração do critério de interpretação legal em lançamento já realizado, ignorando, por completo referido fundamento do acórdão de que a cobrança refere-se aos valores remanescentes dos juros e da multa.
+(..)
+3. Agravo regimental não provido.
+(AgRg no REsp 1.237.714/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/03/2014, DJe 02/04/2014).
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC. VIOLAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. ART. 42 DO CDC. DEVOLUÇÃO EM DOBRO DA TARIFA COBRADA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO RECORRIDO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+(..)
+4. Em relação à legalidade da tarifa progressiva, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido sobre o tema e, por isso, o apelo extremo esbarra no obstáculo da Súmula 283/STF.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 402.148/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/03/2014, DJe 28/03/2014).
+PROCESSO CIVIL - RECURSO ESPECIAL - AGRAVO REGIMENTAL - FGTS - ART. 29-C DA LEI 8.036/90 - FUNDAMENTO INATACADO - SÚMULA 284 DO STF.
+1. Recurso especial que não atacou o fundamento utilizado pelo tribunal de origem. Falta de pressuposto recursal genérico.
+2. Agravo regimental improvido.
+(AgRg no REsp 662.152/CE, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 03/05/2005, DJ 13/06/2005, p. 259).
+Por fim, no que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18.05.2017), embora tal elemento possa influir na sua quantificação.
+Assim, nos termos do art. 85, §§ 2º e 11, de rigor a majoração dos honorários anteriormente fixados em 12% (doze por cento; fl. 268e), para 15%(quinze por cento) do valor atualizado da causa.
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO do Recurso Especial.
+Publique-se e intimem-se.
