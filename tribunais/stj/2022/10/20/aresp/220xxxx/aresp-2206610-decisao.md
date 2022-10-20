@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto porLEVI FAUSTINO DE OLIVEIRAem adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Minas Gerais,cuja ementa é a seguinte (e-STJ fl. 514):
+RECURSO EM SENTIDO ESTRITO DECISÃO DE PRONÚNCIA - HOMICÍDIO QUALIFICADO CONSUMADO E TENTADO - ART. 121, §2º, INC. IV E ART. 121, §2º, INC. IV C/C ART. 14, INC. II, TODOS DO CÓDIGO PENAL -PRELIMINAR - CARÊNCIA DE FUNDAMENTAÇÃO DA DECISÃO - INOCORRÊNCIA - PREFACIAL REJEITADA -IMPRONÚNCIA - INVIABILIDADE - PRESENÇA DEINDÍCIOS SUFICIENTES DE AUTORIA E PROVA DA MATERIALIDADE DELITIVA - IN DUBIO PRO SOCIETATE -COMPETÊNCIA DO JUÍZO POPULAR - RECURSO NÃOPROVIDO.
+- Não há que se falar em carência de fundamentaçãoda decisão combatidase esta deixou devidamente consignadas as razões de fatoe de direito que ensejaram o juízo de pronúncia do recorrente.
+- A decisão de pronúncia é baseada apenas na prova da materialidade do fato e na existência de indícios suficientes de autoria ou de participação, atento ao disposto no art. 413 do Código de Processo Penal.
+- Se há real indício de autoria e prova da materialidade, outro não poderia ser o caminho senão a admissibilidade do julgamento pelo Tribunal do Júri, pois, ainda que existissem outros elementos nos autos a suscitar eventual dúvida, a pronúncia se imporia como medida jurídica salutar, em respeito ao princípio in dubio pro societate.
+Interpostos embargos de declaração, esses foram rejeitados (e-STJ fls 538/545).
+Nas razões do recurso especial (e-STJfls. 555/576), fundado naalínea"a" do permissivo constitucional, alega a defesa violação dos artigos121, §2º, IV, do Código Penal e 312, 313, 315, 413 e 381, III, todos do Código de Processo Penal, ao argumento de que a pronúncia teria sido injusta e ilegal.
+Apresentadas contrarrazões (e-STJfls. 588/592), o Tribunala quonão admitiu o recurso especial (e-STJfls. 594/595), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo conhecimento do agravo para não conhecer do recurso especial (e-STJfls. 640/642).
+É o relatório.Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso nãomerece acolhida.
+Como bem apontou o Ministério Público Federal,as razões do recurso especial apresentam fundamentação deficiente, na medida em que se limitam a arguir a suposta injustiça da decisão de pronúncia, e não apontam, com um mínimo de coerência, a maneira comoteria se dado a violação aos arts. 121, 2º, IV, do Código Penal, 312, 313, 315, 413 e 381, III, do Código de Processo Penal(e-STJ fls. 641/642).
+De fato, limitou-se a defesa, nas razões recursais, a indicartais dispositivos como violados, argumentando, de modo genérico, que seriainjustiça e ilegal a decisão de pronúncia.
+Nãotendo, portando, a defesase desincumbido do ônus argumentativo necessário à demonstração da violação dos referidos dispositivos legais, não sendo possível a exata compreensão da controvérsia, deve incidir o óbice da Súmula 284 do Supremo Tribunal Federal, a obstar o processamento do recurso especial.
+A propósito, Incide a Súmula n. 284 do Supremo Tribunal Federal se a parte recorrente limita-se a dizer que a decisão dos jurados foi manifestamente contrária à prova dos autos, mas deixa de justificar a afirmativa(AgRg no AREsp n. 1.907.540/SE, relator Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022).
+Ante o exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
