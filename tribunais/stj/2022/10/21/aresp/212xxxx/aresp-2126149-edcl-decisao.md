@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ESCRITORIO BORGES LTDA, à decisão de fls. 113/114, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Consoante decisão disponibilizada em 28 de junho p.p., Vossa Excelência não conheceu do recurso, dentre outros fundamentos, em razão de que não foi regularizada a representação processual da Recorrente, não obstante a intimação realizada em 03 de junho p.p..
+Impende observar, todavia, que a publicação supra-referida foi destinada ao "ESCRITÓRIO BORGES LTDA.", que é parte desconhecida nesse processo, e não à Recorrente, esta sim parte legítima e que, inclusive, se encontra devidamente representada pela patrona que esta subscreve.
+A nulidade, portanto, é patente.
+Dessa forma, necessária a devolução do prazo para que a Recorrente possa regularizar sua representação, não obstante os documentos de fls. 05 e 49 já atestarem a cadeia completa de procurações (fl. 117).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do agravo e do recurso especial, Dra. Vânia Aguiar Paiva.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo codex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que se quedou inerte (fl. 109).
+Veja-se que não há que se falar em nulidade da intimação para regularizar a representação processual. Em consulta ao Diário de Justiça Eletrônico (https://ww2.stj.jus.br/processo/dj/init), meio oficial pelo qual esta Corte veicula seus atos judiciais, verificou-se que a parte foi regularmente intimada.
+Constaram da referida edição do DJe, n. 3407, disponibilizada em 3/6/2022 e publicada em 6/6/2022, todas as informações necessárias para conferir publicidade à intimação das partes e advogados, nos exatos termos da Lei n. 11.419/2006, entre elas, o número do processo, o nome das partes e de seus representantes.
+Cabe esclarecer que o nome ESCRITORIO BORGES LTDA aparece por estar vinculado ao CNPJ de nº 48.683.700/001-54. No entanto, no caso, constou também na publicação o nome MODERNA EMPREENDIMENTOS IMOBILIÁRIOS ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA.
+Ademais, registre-se que apenas consta nos autos o substabelecimento de fl. 49, sendo que não há a procuração originária da parte ora embargante, conferindo poderes ao Dr. Mario Müller Romiti, OAB/SP n. 28.832, causídico substabelecente.
+Dessa forma, o instrumento de substabelecimento à Dra. Vânia Aguiar Paiva não tem eficácia, pois o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos. Nesse sentido, o AgInt no AREsp 1634557/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 03/12/2020; o AgInt no REsp 1759439/RS, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 02/09/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se,
