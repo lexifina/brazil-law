@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCILIO PALMIOLI à decisão de fls. 1245/1246, que não conheceu do recurso.
+Sustenta a parte embargante que
+Na data de 01/03/2021, as antigas patronas do Agravante protocolaram pedido de renúncia nos autos (vide fls. 1.112 do processo originário), anexando a respectiva renuncia às fls. 1.113.
+Apesar disso, somente na data de 03/03/2021 a Secretaria do Tribunal de Justiça juntou a petição de renúncia, e, equivocadamente, intimou as advogadas anteriores do Agravante do v. acórdão, inobservando a renúncia ao mandato (fls. 1251).
+ ..
+Assim, resta cabalmente comprovado que a referida intimação só foi encaminhada ao portal eletrônico na data de 19/03/2021.
+Ou seja, a data inicial da referida contagem do prazo recursal é a 19/03/2021.
+Em que pese não seja as razões de não conhecimento do recurso, apenas para efeitos de cautela, insta declinar que o Agravante comprovou, juntamente com a interposição do recurso especial, o feriado local que estendeu o prazo final para a data de 05/04/2021 (vide fls. 967/971 do processo originário) (fl. 1252).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Tendo em vista manifestação da parte, bem como nova análise destes autos, verifica-se que houve um equívoco na decisão proferida às fls. 1245/1246, uma vez que não considerou a renúncia dos advogados juntada às fls. 1104/1107. Assim, o recurso especial é tempestivo, uma vez que foi observado o prazo processual.
+Portanto, estes embargos de declaração devem ser acolhidos para tornar sem efeito a decisão de fls. 1245/1246.
+Todavia, prosseguindo numa nova análise do recurso, constata-se que a decisão agravada (fls. 1179/1180) inadmitiu o recurso especial, considerando: divergência não comprovada e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente a Súmula 7/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial. A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Ante o exposto, acolho os embargos de declaração, para tornar sem efeito a decisão proferida às fls. 1245/1246; e, com base no art. 21-E, V, do Regimento Interno do STJ, não conheço do recurso, nos termos acima expostos.
+Publique-se. Intimem-se.
