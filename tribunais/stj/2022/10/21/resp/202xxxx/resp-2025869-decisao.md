@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de recurso especial interposto por OMINT SERVIÇOS DE SAÚDE LTDA, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/SP.
+Recurso especial interposto em: 08/12/2021.
+Concluso ao gabinete em: 20/09/2022.
+Ação: de obrigação de fazer, ajuizada por RODRIGO GAMA ARRUDA em face da recorrente, visando o fornecimento do medicamento Risanquizumabe, para tratamento da doença que acomete o beneficiário (psoríase em placas  psoríase invertida).
+Sentença: julgou procedente o pedido inicial, para impor à ré a obrigação de fornecer o medicamento Risanquizumabe, conforme relatório médico, pelo tempo que se fizer necessário, sob pena de multa diária de R$1.000,00 limitada a R$ 30.000,00.
+Acórdão: negou provimento ao recurso de apelação interposto pela recorrente, nos termos da seguinte ementa:
+AÇÃO DE OBRIGAÇÃO DE FAZER. Plano de saúde. Negativa de cobertura. Sentença de procedência, condenação na obrigação de fornecer o medicamento Risanquizumabe, conforme prescrição médica, pelo tempo que se fizer necessário, sob pena de multa diária de R$ 1.000,00 limitada a R$ 30.000,00. Sucumbência com a ré, fixados os honorários em 10% do valor da causa.
+Apela a ré, alegando nulidade da sentença por afronta à ampla defesa; válida a negativa de cobertura; ausência de previsão contratual; não previsão no rol da ANS.
+Descabimento.
+Nulidade da sentença. Cerceamento de defesa. Insubsistência. Provas existentes nos autos suficientes para prolação do julgamento. Cabe ao profissional assistente orientar o paciente sobre o tratamento a ser seguido, e não ao plano de saúde fazer distinções quantitativas ou qualificativas. Inteligência das Súmulas 96 e 102 desta Corte. Não se desconhece o posicionamento da 4ª Turma do STJ, no sentido de que a previsão do rol da ANS é taxativa. Todavia, considerando o posicionamento da 3ª Turma do STJ, no sentido de que o rol é exemplificativo, entende-se que cada caso sub judice deve ser analisado de acordo com suas particularidades e circunstâncias específicas. Neste caso, considerando que o paciente foi acometido pela doença há anos e desde então tem procurado tratamentos alternativos que não surtiram êxito esperado, e que causaram efeitos colaterais, trata-se de hipótese em que se deve relativizar a previsão do rol da ANS, para que seja assegurado ao autor o tratamento nos moldes da prescrição médica. Precedentes desta Câmara que decidiu favoravelmente à cobertura pelas operadoras de plano/seguro saúde em relação ao tratamento à base de Risanquizumabe para portadores de psoríase.
+Recurso improvido.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: aponta violação aos arts. 369, 370 e 1.022, II, do CPC; e 10, § 4º e VI, da Lei 9.656/98, bem como dissídio jurisprudencial.
+Além da negativa de prestação jurisdicional, sustenta, em síntese: i) a ocorrência de cerceamento de defesa, porquanto foi negado o seu direito à produção de prova, consistente na expedição de ofício à ANS para que prestasse esclarecimentos sobre o medicamento que se discute a cobertura nos autos; ii) a não obrigatoriedade de cobertura de procedimentos não elencados no rol da ANS, o qual afirma ser taxativo; e iii) a possibilidade de as operadoras de planos de saúde excluírem da cobertura os medicamentos de uso domiciliar.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 02/02/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 02/03/2018).
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC residem na alegação de que o Tribunal de origem, apesar de provocado por meio dos embargos declaratórios opostos pela recorrente, não se manifestou acerca dos seguintes pontos então suscitados: i) quanto ao alegado cerceamento de defesa; ii) sobre a não obrigatoriedade de cobertura de procedimentos não elencados no rol da ANS; e iii) no que se refere à possibilidade de as operadoras de planos de saúde excluírem da cobertura os medicamentos de uso domiciliar.
+Da análise do processo, constata-se que, de fato, o Tribunal não analisou a questão acerca da possibilidade de as operadoras de planos de saúde excluírem da cobertura os medicamentos de uso domiciliar, em que pese tenha sido devidamente suscitada nos embargos de declaração opostos pela recorrente.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que seja sanada a omissão acima referida.
+Em consequência, fica prejudicada a análise das demais questões suscitadas no recurso especial.
+Forte nessas razões,CONHEÇO do recurso especial e,com fundamento no art. 932, V, "a", do CPC, bem como na Súmula 568/STJ,DOU-LHE PARCIAL PROVIMENTO, a fim de determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela recorrente. Por consequência, fica prejudicado o exame das demais questões suscitadas no recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Ação de obrigação de fazer.
+2. Há ofensa ao art. 1.022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+3. Recurso especial conhecido e parcialmente provido.
