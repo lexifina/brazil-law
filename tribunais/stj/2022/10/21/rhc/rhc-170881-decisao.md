@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso interposto por CARLOS EDUARDO COSTA DO NASCIMENTO contra o acórdão do TRIBUNAL DE JUSTIÇA DE MINAS GERAIS no HC n. 1.0000.22.186177-6/000, lavrado nos termos desta ementa (fl. 445):
+HABEAS CORPUS - ROUBO MAJORADO - PRISÃO PREVENTIVA DECRETADA -DECISÃO FUNDAMENTADA - PRESENÇA DOS PRESSUPOSTOS E REQUISITOS DOS ART. 312 E SEGUINTES DO CPP - GARANTIA DA ORDEM PÚBLICA -GRAVIDADE CONCRETA DA CONDUTA - CONDIÇÕES PESSOAIS FAVORÁVEIS -IRRELEVÂNCIA - PEDIDO DE PRISÃO DOMICILIAR - ALEGAÇÃO DE DOENÇA GRAVE - NÃO DEMONSTRAÇÃO DA DEBILIDADE EXTREMA OU DA IMPOSSIBILIDADE DE TRATAMENTO NO PRESÍDIO - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - HABEAS CORPUS DENEGADO.
+-Demonstrada a existência de indícios de autoria e materialidade delitiva e estando evidenciada a periculosidade do paciente, por meio de elementos do caso concreto, imperiosa a manutenção de sua prisão processual para a garantia da ordem pública e consequente acautelamento do meio social, nos termos do art. 312 do CPP.
+- A existência de condições pessoais favoráveis não significa a concessão da liberdade provisória, quando presentes, no caso concreto, outras circunstâncias autorizadoras da segregação cautelar.
+-Não tendo sido demonstrada pela parte impetrante a debilidade extrema do paciente ou a incapacidade da unidade prisional em lhe fornecer tratamento adequado, torna-se incabível a concessão da prisão domiciliar, nos termos do artigo318, inciso II, do Código de Processo Penal.
+O recorrente repisa a argumentação feita na inicial do writ, sustentando que faltam os pressupostos necessários para a manutenção da segregação preventiva, alicerçada que está na gravidade em abstrato do crime.
+Aduz que é primário, não possui antecedentes criminais, tem residência fixa e profissão lícita, embora esteja afastado pela previdência social em razão de problemas de saúde.
+Requer a imediata expedição de alvará de soltura e, ao final, a reforma do acórdão e o provimento do recurso, reconhecendo-se a ilegalidade da prisão cautelar.
+Indeferida a liminar, prestadas informações de praxe, foi noticiado que os autos estão aguardando a citação dos acusados, que até o momento não foram citados devido aos inúmeros pedidos de liberdade provisória e impetrações de habeas corpus, que protelam as diligências(fl. 488).
+O Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Durval Tadeu Guimarães, pelo não provimento do recurso.
+É o relatório.
+Na hipótese destes autos, insurgindo-se a defesa contra ausência de fundamentos para a manutenção da prisão preventiva, requer a expedição de alvará de soltura em favor do recorrente.
+Contudo, não verifiquei constrangimento ilegal apto a ensejar o provimento do recurso.
+Até porque consta do acórdão impugnado quea ação delitiva foi grave, visto que o paciente foi, em tese, o mentor intelectual do roubo perpetrado contra a empresa McCain. Consta que os corréus, mediante grave ameaça exercida com emprego de arma de fogo, renderam os guardas da empresa e subtraíram bobinas de fios de cobre, evadindo em seguida. Tudo isso denota a gravidade concreta da conduta e a maior periculosidade do agente(fl. 452 - grifo nosso).
+Com efeito, ficou consignado na decisão de prisão preventiva quenão se trata de um crime de roubo ocasional e de menor impacto social, tampouco se trata aqui de receptação de ninharia. Ambas as atividades criminosas são altamente nocivas e a ação de todos os investigados são igualmente relevantes e danosas do ponto de vista da afetação da ordem pública. Importante realçar que a sociedade brasileira vem assistindo atônita ao crescente índice de furtos e roubos de cabos e fios de cobre(fl. 340 - grifo nosso).
+Emais,há prova suficiente da materialidade delitiva e indícios razoáveis da vinculação criminosa dos investigados que atuam em organização, mediante distribuição de tarefas aos seus respectivos núcleos logísticos. Daí o sucesso dos roubos e a facilidade com que a res furtiva vinha sendo comercializada, rendendo vultoso retorno financeiro aos envolvidos(fl. 340 - grifo nosso).
+Da leitura dos trechos acima não se vislumbra ilegalidade da decisão combatida, uma vez que concretamente fundamentada na garantia da ordem pública, considerando a gravidade do delito e as circunstâncias em que praticado.
+Assim,inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do recorrente(AgRg no RHC n. 167.101/RS, Ministro Reynaldo Soares da Fonseca, Sexta Turma, DJe 15/9/2022).
+Ante o exposto, nego provimento ao recurso emhabeas corpus.
+Publique-se.
+EMENTA
+RECURSO EMHABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL AUSENTE.
+Recurso improvido.
