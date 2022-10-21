@@ -1,0 +1,14 @@
+DECISÃO
+ Trata-se  de  habeas  corpus  impetrado  em  favor  de  LUIS MARQUES NEGRÃO JUNIOR  contra  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de São Paulo  na Apelação Criminal n. 1520045-97.2020.8.26.0050, da Comarca da capital (fl. 4).
+Requer-se,  liminarmente e no mérito, concessão de ordem para o abrandamento do regime prisionale o reconhecimento de cerceamento de Defesa(fls. 12-13)
+É  o  relato  do  necessário.  Decido.
+O writ é incognoscível.
+A exordial destes autos foi impetrada em favor deLUIS MARQUES NEGRÃO JUNIOR (fl. 3). Todavia, conforme certificou a Coordenadoria deProcessos Originários, "os documentos que acompanham a petição inicial não se referem ao paciente nela indicado" (fl. 63).
+Ocorre que, como se sabe, a "adequada instrução dohabeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que omandamusvenha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas nowrit" (STF, HC 197.833-AgR, Rel. Ministro LUIZ FUX -Presidente -, TRIBUNAL PLENO, julgado em 19/04/2021, DJe 12/05/2021).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Por isso, as alegações de mérito não podem ser conhecidas, porque a Defesa não se desincumbiu do seu ônus de instruir devidamente os autos.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019;RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ante  o  exposto,  INDEFIRO  LIMINARMENTE  a  petição  inicial,  com  fundamento  nos  arts.  34,  inciso  XX,  e  210,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça.
+Publique-se.  Intimem-se.
+EMENTA
+ H ABEAS  CORPUS. PROCESSUAL PENAL. INSTRUÇÃO DEFICIENTE DOWRIT. AUSÊNCIA DE DOCUMENTAÇÃO ESSENCIAL.  PETIÇÃO  INICIAL  LIMINARMENTE  INDEFERIDA.
