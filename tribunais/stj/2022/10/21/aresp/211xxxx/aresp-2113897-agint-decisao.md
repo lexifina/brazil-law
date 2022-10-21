@@ -1,0 +1,31 @@
+DECISÃO
+Diante das razões do agravo interno e verificando que houve a impugnação específica dos fundamentos da decisão primeva de admissibilidade, reconsidero a decisão proferida pela Presidência desta Corte.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS - EMPRÉSTIMO CONSIGNADO - PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO - OFENSA AO PRINCÍPIO DA DIALETICIDADE - NÃO OCORRÊNCIA - EMPRÉSTIMO BANCÁRIO - LITIGÂNCIA DE MÁ-FÉ MANTIDA - APELO NÃO PROVIDO.
+A tese de ofensa ao princípio da dialeticidade, trazida nas contrarrazões, não prospera, porquanto as razões recursais efetivamente se voltam contra a fundamentação da sentença, demonstrando a suplicante os motivos pelos quais entende que o julgamento de primeiro grau deve ser alterado com a procedência do seu pleito, de modo que atendeu o contido no inciso II, do artigo 1.010, do Código de Processo Civil.
+Quanto à má-fé processual da parte autora, é ela evidente, porquanto ajuizou a presente demanda, sustentando uma fraude inexistente, haja vista ter sido quem efetivamente contratou empréstimo consignado e dele se beneficiou.
+Ademais, mesmo após juntado na contestação, pelo réu, os documentos relativos a obrigação impugnada, a recorrente não desistiu da demanda, o que reforça a condenação em questão e no percentual fixado na sentença.
+Assim, a conduta do requerente denota efetivamente sua deslealdade processual, nos termos do art. 80, inciso II, do CPC, devendo responder pelo dano processual previsto no art. 81, § 2º, do CPC, às penas por litigância de má-fé, conforme fixada na sentença.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões de recurso especial, alega a parte ora agravante violação dos artigos 79, 80, 81, 373, 489 e 1.022 do Código de Processo Civil, além de divergência jurisprudencial.
+Não merece reforma a decisão agravada.
+De início, anoto que o recurso especial apresenta deficiência em sua fundamentação, porque a parte ora agravante não demonstrou, de forma clara e objetiva, de que maneira os artigos 489 e 1.022 do Código de Processo Civil foram violados pelo acórdão recorrido, pois a simples alusão a dispositivos, desacompanhada da necessária argumentação que sustente a ofensa à lei federal, não se mostra suficiente para o conhecimento do recurso especial. Incidência da Súmula 284/STF, que se aplica também ao dissídio. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL C/C INDENIZAÇÃO. 1. DANOS MORAIS. INEXISTÊNCIA. REVISÃO INVIÁVEL. SÚMULA 7/STJ. 2. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. 3. AGRAVO INTERNO DESPROVIDO.
+1. O acolhimento da pretensão recursal, a fim de perquirir a existência de danos morais no caso em apreço, demandaria reexame de fatos e provas, diante do reconhecimento da ausência de abusividade no contrato, o que afasta a ocorrência de lesão extrapatrimonial, sendo inviável tal análise nesta seara, em virtude do óbice da Súmula 7/STJ.
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos em relação aos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do Supremo Tribunal Federal.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 2.107.963/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N. 211/STJ. REEXAME FÁTICO DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Recurso especial que suscita violação aos arts. 489 e 1.022 do CPC/2015 de maneira genérica é deficiente em sua fundamentação e atrai a aplicação do óbice da Súmula 284 do STF.
+2. A ausência de prequestionamento impede o conhecimento da questão pelo Superior Tribunal de Justiça. Incidência da Súmula 211 do STJ.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.940.572/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+Ainda que assim não fosse, melhor sorte não socorreria à agravante, pois o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia. Confira-se do voto condutor do acórdão recorrido (fls. 516-517/e-STJ):
+Quanto à má-fé processual da parte autora, ela é evidente, porquanto ajuizou a presente demanda, sustentando não ter firmado o contrato de empréstimo consignado que importou em descontos ilegais em seu benefício previdenciário, porém, restou comprovado pelo recorrido que o débito exigido decorre de pacto de empréstimo efetivamente firmado pelo apelante e dele se beneficiou.
+Ademais, mesmo após juntado na contestação, pelo réu, os documentos relativos a obrigação impugnada, o recorrente não desistiu da demanda, o que reforça a condenação em questão e no percentual fixado na sentença.
+Ora, litigante de má-fé é aquele que altera, de forma consciente e temerária, a verdade dos fatos, a fim de obter vantagem sobre a outra parte.
+Assim, a conduta da requerente denota efetivamente sua deslealdade processual, nos termos do art. 80, inciso II, do CPC, devendo responder pelo dano processual previsto no art. 81, § 2º, do CPC, às penas por litigância de má-fé, conforme fixada na sentença.
+Ocorre que tais fundamentos, além de não terem sido especificamente impugnados nas razões de recurso especial, demandariam reexame de matéria de fato para ser infirmados. Incidência das Súmulas 283/STF e 7/STJ.
+Em face do exposto, nego provimento ao agravo. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
