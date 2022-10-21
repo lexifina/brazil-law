@@ -1,0 +1,7 @@
+DECISÃO
+Os embargos de divergência opostos pelo agravante fundaram-se em suposta divergência com precedentes da 1ª Turma, no que se refere ao exame de ofício e sem pré-questionamento das questões de ordem pública,e da 2ª Seção, no que tange à viabilidade da ação de prestação de contas (fls. 792/831, e-STJ).
+Os embargos de divergência foram liminarmente indeferidos pela decisão de fls. 837/842 (e-STJ), ocasião em que se consignou que: (i) em relação ao precedente da 1ª Turma, aplicava-se a Súmula 168/STJ; (ii) em relação ao precedente da 2ª Seção, havia dessemelhança fática entre o acórdão embargado e o paradigma e incidia, ainda, a Súmula 168/STJ.
+No agravo interno de fls. 845/859 (e-STJ), o agravante deixou de impugnar o primeiro fundamento (suposta divergência com paradigma da 1ª Turma), mas impugnou o segundo fundamento (alegada divergência com paradigma da 2ª Seção), razão pela qual não mais remanesce a competência da Corte Especial para examinar o agravo interno, na medida em que o agravante abdicou de discutir a existência da divergência com o paradigma da 1ª Turma.
+Forte nessas razões, DETERMINO A REAUTUAÇÃOdos presentes embargos de divergência, a fim de que conste, como órgão processante e como órgão julgador, apenas a 2ª Seção, a quem competirá examinar o agravo interno no único capítulo devolvido pelo agravante.
+Publique-se. Intimem-se. Reautue-se.
+Após, tornem conclusos.
