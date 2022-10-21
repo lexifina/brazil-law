@@ -1,0 +1,14 @@
+DECISÃO
+Santa Clara Indústria de Cartões opõe embargos de declaração em face da decisão de fls. 686/688, por meio do qual neguei provimento ao agravo em recurso especial.
+Aduz que decisão embargada é contraditória ao entender correto o acórdão recorrido que reconheceu que a juntada dos novos documentos ocorreu em desconformidade com ordenamento processual civil e, ao mesmo tempo, analisou tal documentação entendendo pela legitimidade da parte, "sob o fundamento de que os boletos carreados com a inicial já apontavam que se tratava de endosso mandato", sendo certo que "tal premissa não pode ser reputada verdadeira sob nenhum aspecto, porquanto o d. Magistrado da causa, analisando todos os documentos carreados até então aos autos, sentenciou pela ilegitimidade ativa da parte".
+Não foi apresentada impugnação aos embargos.
+Assim posta a questão, destaco que os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes na decisão, não servindo à rediscussão da matéria já julgada no recurso.
+No caso dos autos, verifico que a decisão embargada é clara e precisa em seus fundamentos, notadamente quanto à questão dos documentos juntados aos autos com a apelação:
+(..)
+Do acórdão proferido nos embargos de declaração consta, ainda, a seguinte fundamentação:
+O acórdão entendeu que a r. sentença baseou-se na afirmação do próprio autor/embargado, contudo os documentos trazidos com a inicial demonstram claramente que o endosso foi por mandato, conforme mov. 1.18, 1.19, 1.20 e 45.5, e com base nesses documentos (boletos) que o v. acórdão entendeu que a parte ativa é legitima para postular a ação monitória em face do ora embargante/réu.
+Ademais, apontou que o documento novo juntado em sede de apelação está em desconformidade com o art. 435 do CPC, entretanto veio a corroborar com a prova já existente nos autos, quais sejam, os boletos que já tinha sido carreados com a inicial. Assim, o v. acórdão entendeu que o documento novo estava em desconformidade com a legislação processual, contudo, já havia provas anteriores e suficientes para comprovar a legitimidade ativa e capazes de cassar a sentença.
+Desse modo, fica claro que o Tribunal de origem não decidiu a questão com base no documento juntado com a apelação, dado que, conforme reconhecido no acórdão, foi juntado em desconformidade com o artigo 435, do CPC, mas, sim, com fundamento nos documentos que já haviam sido juntados na inicial que, tão somente, foram corroborados por esse novo documento. Não há, pois, que se falar em supressão de instância e afronta aos artigos 1.013 e 1.014, do CPC.
+O que se verifica é que o embargante não se conforma com a solução dada ao caso, o que, contudo, não autoriza a oposição de embargos de declaração.
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
