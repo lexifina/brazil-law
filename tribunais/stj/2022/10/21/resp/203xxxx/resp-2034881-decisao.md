@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de MARCELO DE CARVALHO MIRANDA, fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado do Tocantins assim ementado (fl. 323e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. EXORDIAL NÃO RECEBIDA. IMPOSSIBILIDADE. INDÍCIOS SUFICIENTES. IN DUBIO PRO SOCIETATE. RECURSO CONHECIDO E PROVIDO.
+1. No que tange ao recebimento da inicial da ação de improbidade administrativa, há que se observar que nos termos do artigo 17, § 8º, da Lei nº. 8.429/92, a inicial da ação de improbidade será rejeitada somente quando evidente a inexistência do ato de improbidade, a improcedência da ação ou da inadequação da via eleita.
+2. Conclusa a fase preliminar de que trata o artigo 17, § 7º, da Lei nº 8.429/92, poderá o magistrado rejeitar ou receber a inicial, na forma dos parágrafos 8º e 9º. Os casos de rejeição da ação estão elencados no art. 16, § 8º, da Lei nº 8.492/92, e resumem-se ao convencimento de "inexistência do ato de improbidade, da improcedência da ação ou da inadequação da via eleita".
+3. Existindo relevância nos fatos narrados pelo Ministério Público na inicial, imperativo é o recebimento da Ação Civil, para melhor análise e mais apurada investigação, não sendo o Agravo a via própria para essa discussão, que exige aprofundado exame probatório.
+4. Deste modo, tem-se por ilegítima a decisão hostilizada, que não recebeu a inicial da Ação de Improbidade Administrativa em relação ao ora agravado, uma vez que, consideradas as especificidades do caso concreto, deve se aplicar o princípio do in dubio pro societate, pois prematuro considerar como inexistente o ato ímprobo, que supostamente teria sido praticado pelo recorrido, mormente pelo fato que descabe ao juízo a quo, nesse momento processual, analisar todos os fundamentos invocados pela parte, pois sequer foi instaurada a instrução probatória.
+5. Recurso conhecido e provido.
+Opostos embargos de declaração, foram rejeitados nos seguintes termos (fls. 390-391e-STJ):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. CONTRADIÇÃO. CLARA INTENÇÃO DE REABRIR O DEBATE VEICULADO NO APELO. AUSÊNCIA DE QUALQUER VÍCIO QUE AUTORIZA OS ACLARATÓRIOS. INTUITO DE PROMOVER REEXAME DO JULGADO. NÃO PROVIMENTO.
+1. Inexiste omissão no acórdão embargado, quando a matéria for nele devidamente enfrentada de forma clara, lógica e expressa.2. Ao contrário do alegado pelo embargante, a questão foi devidamente debatida e fundamentada no voto condutor do acórdão.
+3. Embargos de declaração conhecidos e não providos.
+No recurso especial, o recorrente aponta violação aos seguintes dispositivos: a) arts. 7º, 141, 492 e 1.014, do CPC/2015, sob o fundamento da violação ao devido processo legal, duplo grau de jurisdição e aos princípios da congruência e da adstrição, uma vez que o Tribunal de origem não se manifestou acerca de documentos e temas relevantes ao julgamento da controvérsia; b) art. 17, §§ 6º e 8º, da Lei 8.429/92, sustentando que não estão presentes sequer indícios da prática de ato de improbidade administrativa a justificar o recebimento da petição inicial, tendo em vista que não houve demonstração mínima do elemento subjetivo.
+O Ministério Público do Estado do Tocantins apresentou contrarrazões às fls. 484/491 e-STJ.
+O Tribunal de origem inadmitiu o recurso especial à consideração de que: a) não houve o prequestionamento dos artigos 7º, 141, 492 e 1.014, do CPC/2015 e dos princípios da congruência e da adstrição, de modo que incide a Súmula 211/STF; b) no que se refere ao artigo 17, §§ 6º e 8º, da Lei 8.429/92 a pretensão recursal demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial em razão da incidência da Súmula 7/STJ (fls. 519/520 e-STJ).
+Nas suas razões de agravo, os agravantes impugnaram todos os fundamentos da decisão de inadmissibilidade do recurso especial (fl. 536 e-STJ).
+O Ministério Público do Estado do Tocantins apresentou contraminuta às fls. 541/551e-STJ.
+É o relatório. Passo a decidir.
+Considerando o preenchimento dos requisitos de admissibilidade do agravo e as peculiaridades do caso concreto, o agravo deve ser provido para que seja realizada a reautuação como recurso especial.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPUGNAÇÃO DOS TERMOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. AGRAVO CONHECIDO PARA REAUTUAÇÃO EM RECURSO ESPECIAL.
