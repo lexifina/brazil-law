@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de JACKSON JEINES DOS SANTOS RODRIGUES contra acórdão do Tribunal de Justiça do Estado de São Paulo proferidono HC n. 2117680-40.2021.8.26.0000.
+Consta dos autos que o Pacientefoi preso em flagrante, em 13/05/2021,pela suposta prática docrimede tráfico de drogas, em razão da apreensão de 2,15g de maconha, 0,25g de cocaína e 2,68g de crack. Em 14/05/2021, aprisão foi convertida em preventiva pelo Juízo de primeira instância.
+Irresignada, a Defesa impetrou owritoriginário, que foi denegado pela Corte local (fls. 7-10).
+Nestewrit, o Impetrante sustenta a existência de flagrante ilegalidade decorrente da não realização de audiência de custódia quando da conversão da prisão em flagrante em preventiva.
+Requer, liminarmente e no mérito, a soltura do Paciente.
+Liminar indeferida (fls. 22-23).
+Informações prestadas às fls. 28-75.
+O Ministério Público Federal opinou pela denegação da ordem. Contudo, opinou pela concessão de ofício"para revogar a prisão preventiva da paciente, determinando-se ao Juízo de primeira instância que decrete a(s) medida(s) cautelar(es) que se mostrar(em) pertinente(s) na espécie, em observância ao art. 319 do Código de Processo Penal" (fl. 85).
+É o relatório.Decido.
+O Tribunal de origem destacou que "não há que falar em nulidade por ausência de realização daaudiência de custódia. O ato está em conformidade com o Provimento CSM n.º 2.545/2020 e com a Recomendação n.º 62/2020, do CNJ, como forma de reduzir os riscos gerados pela pandemia do COVID-19. Ademais, o paciente foi devidamente assistido por defensor, de modo que não há que falar em ilegalidade" (fls. 8-9).
+No caso, observo que a não realização da audiência de custódia, ao que consta, deu-se com motivação idônea, qual seja, a necessidade de reduzir os riscos epidemiológicos decorrentes da pandemia da Covid-19, nos termos do art. 8.º da Recomendação n. 62/2020 do Conselho Nacional de Justiça.
+Exemplificativamente:
+"AGRAVO REGIMENTAL EM RECURSO EMHABEAS CORPUS.TRÁFICO DE DROGAS. AUDIÊNCIA DE CUSTÓDIA NÃO REALIZADA. RECOMENDAÇÃO N. 62 DO CNJ. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. NEGATIVA DE AUTORIA. INVIABILIDADE DE EXAME NA VIA ELEITA. PRISÃO PREVENTIVA. QUANTIDADE DA DROGA (81,5 KG DE MACONHA E 6 KG DE COCAÍNA). FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1.Não há falar em ilegalidade decorrente da ausência de audiência de custódia, na medida em que o Magistrado de primeiro grau atendeu à Recomendação n. 62/2020 do CNJ, editada em decorrência da emergência sanitária causada pela pandemia do novo coronavírus.
+ ..
+5. Agravo regimental improvido." (AgRg no RHC n. 145.890/MA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/05/2022, DJe 13/05/2022; sem grifos no original.)
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS E POSSE DE ARMA DE FOGO COM NUMERAÇÃO RASPADA. INEXISTÊNCIA DE ARGUMENTOS HÁBEIS A DESCONSTITUIR O DECISÓRIO IMPUGNADO. AUSÊNCIA DE AUDIÊNCIA DE CUSTÓDIA. INOCORRÊNCIA. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA - CNJ. REVOGAÇÃO DA CUSTÓDIA CAUTELAR. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DA AGENTE. CIRCUNSTÂNCIAS DO DELITO. QUANTIDADE, VARIEDADE E NATUREZA DOS ENTORPECENTES. REINCIDENTE ESPECÍFICA E EXTENSA FICHA CRIMINAL. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. PROPORCIONALIDADE ENTRE A MEDIDA CAUTELAR E PENA PROVÁVEL. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRISÃO DOMICILIAR. MÃE DE CRIANÇA MENOR DE 12 ANOS DE IDADE. IMPOSSIBILIDADE. SITUAÇÃO EXCEPCIONALÍSSIMA PREVISTA NO JULGAMENTO DO. MANDAMUS COLETIVO N. 143.641/SP DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não obstante os esforços do agravante, a decisão deve ser mantida por seus próprios fundamentos.
+2. Não há ilegalidade na dispensa de realização de audiência de custódia como medida de prevenção à propagação da Covid-19, com fundamento no art. 8º da Recomendação n. 62/2020 do Conselho Nacional de Justiça - CNJ.
+ ..
+6. Agravo regimental desprovido"(AgRg no RHC n. 155.071/RS, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 15/03/2022, DJe21/03/2022; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA. NÃO REALIZAÇÃO DE AUDIÊNCIA DE CUSTÓDIA. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor dos julgados desta Corte, a não realização de audiência de custódia, por si só, não é suficiente para ensejar a nulidade da prisão preventiva se observadas as garantias processuais e constitucionais do investigado ou acusado.
+2. Prevalece o entendimento de que, em caráter excepcional, é possível a dispensa de apresentação do preso ao juiz durante o período de restrição sanitária decorrente da pandemia da Covid-19, conforme o art. 8º da Recomendação n. 62/2020 do CNJ.
+3. Agravo regimental não provido"(AgRg no RHC n. 155.470/CE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 22/02/2022, DJe03/03/2022; sem grifos no original.)
+Ademais, verifico que a prisão em flagrante foi homologada e convertida em preventiva, no dia seguinte. Além disso, consoante consulta realizada no sítio eletrônico do Tribunal de origem, verifiquei quefoi exarada sentença, em 24/09/2021, por meio da qual o Juízo de primeiro grau condenou o Acusado à pena de 7 (sete) anos de reclusão, em regime inicial fechado, além do pagamento de 700 (setecentos) dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, sendo mantida na condenação a custódia preventiva. Outrossim, em 20/06/2022, foi dado parcial provimento ao apelo defensivo para redimensionar a reprimenda em 5 (cinco) anos de reclusão, em regime inicial fechado, além do pagamento de 500 (quinhentos) dias-multa.
+Nessa conjuntura, a jurisprudência desta Corte Superior orienta no sentido de que " .. eventual nulidade da prisão em flagrante ficou superada com a decretação da prisão preventiva, posteriormente mantida na sentença condenatória" (AgRg no RHC n. 159.040/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/04/2022, DJe 25/04/2022).
+Ante o exposto, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. NÃO REALIZAÇÃO DE AUDIÊNCIA DE CUSTÓDIA. PANDEMIA DA COVID-19. RECOMENDAÇÃO N. 62/2020 DO CONSELHO NACIONAL DE JUSTIÇA. MOTIVAÇÃO IDÔNEA.ORDEM DEHABEAS CORPUSDENEGADA.
