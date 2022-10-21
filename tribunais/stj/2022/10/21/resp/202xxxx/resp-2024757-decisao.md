@@ -1,0 +1,11 @@
+DECISÃO
+Vistos.
+Verifico que a presente controvérsia envolve a discussão de tema afetado ao rito dos Recursos Especiais Repetitivos (Tema 1.105; "Definição acerca da incidência, ou não, da Súmula 111/STJ, ou mesmo quanto à necessidade de seu cancelamento, após a vigência do CPC/2015 (art. 85), no que tange à fixação de honorários advocatícios nas ações previdenciárias"), consoante espelha o acórdão assim ementado:
+DIREITO PREVIDENCIÁRIO E PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO DE TEMA REPETITIVO. HONORÁRIOS ADVOCATÍCIOS EM AÇÃO PREVIDENCIÁRIA. SÚMULA 111/STJ. INCIDÊNCIA APÓS A VIGÊNCIA DO CPC/2015. FIXAÇÃO DA VERBA NA FASE DE CUMPRIMENTO DE SENTENÇA. RELEVÂNCIA DA CONTROVÉRSIA. MULTIPLICIDADE DE RECURSOS SOBRE O ASSUNTO.
+1. A questão versada no presente recurso especial diz com a validade da Súmula 111/STJ ("Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença") frente ao art. 85, § 4º, II, do CPC/2015, segundo o qual, não sendo líquida a sentença, a definição do percentual da verba honorária somente ocorrerá quando liquidado o julgado, em contexto que está a revelar a existência de controvérsia jurídica multitudinária e contemporânea, ainda não submetida ao rito dos recursos repetitivos.
+2. TESE CONTROVERTIDA: "Definição acerca da incidência, ou não, da Súmula 111/STJ após a vigência do CPC/2015 (art. 85), no que tange à fixação de honorários advocatícios na fase de cumprimento de sentença".
+3. Proposta de afetação acolhida.
+(ProAfR no REsp n. 1.883.715/SP, Relator Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, j. 24.08.2021, DJe de 13.09.2021).
+Assim sendo, em observância ao princípio da economia processual e à própria finalidade da sistemática dos precedentes vinculantes, deve-se determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação da tese vinculante.
+Posto isso, com fundamento no art. 1.037, II, do Código de Processo Civil de 2015, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação do acórdão no Recurso Especial afetado, com a tese firmada, e posterior juízo de conformidade, nos moldes do art. 1.040 do estatuto processual.
+Publique-se e intimem-se.
