@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de recurso especialinterposto por PAULO FELIPE ALVES fundamentado na alínea a do permissivo constitucional, contra acórdão proferido pelo Tribunal deJustiça do Estado de São Paulo, assim ementado (e-STJ fl. 51):
+AGRAVO EM EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM REGIME ABERTO. SUSTAÇÃO CAUTELAR AO REGIME INTERMEDIÁRIO, ANTE A NOTÍCIA DA PRÁTICA DO CRIME DE TRÁFICO ILÍCITO DE DROGAS. SUPERVENIÊNCIA DE SENTENÇA PENAL DESCLASSIFICATÓRIA PARA PORTE DE DROGAS PARA CONSUMO PESSOAL. AFASTAMENTO DA REGRESSÃO DE REGIME. IMPOSSIBILIDADE. INDEPENDÊNCIA ENTRE AS ESFERAS JUDICIAL E ADMINISTRATIVA. DECISÃO MANTIDA.
+1. A notícia do cometimento de crime durante o cumprimento de pena em regime aberto pode configurar falta disciplinar de natureza grave, justificando a regressão cautelar ao regime intermediário, como se deu na espécie. Doutrina. Precedente do STJ.
+2. Eventual desclassificação da conduta criminosa de tráfico ilícito de drogas para porte de entorpecente para consumo pessoal, nos autos da ação penal em que se apura o crime imputado, não tem o condão de afastar a regressão cautelar deregime determinada na execução criminal, em razão da independência das esferas judicial e administrativa, tanto é que o trânsito em julgado da sentença penal condenatória sequer é condição à homologação da falta disciplinar (Súmula 526 do STJ).
+3. Agravo defensivo desprovido.
+Depreende-se dos autos que o apenado cumpria pena no regime aberto, efoi sancionado com a regressão para oregime intermediário, porquanto, depois de denunciado como incurso noart. 33,caput,da Lei n.11.343/2006 e cautelarmente regredido ao semiaberto, findou condenado pela prática do crime previsto no art.28 do mesmo diploma legal.
+Em grau de apelação, o Tribunal de origem negou a pretensão recursal defensiva, mantendo incólume o entendimento do Magistrado originário.
+Nas razões do presente recurso especial, o recorrente aponta aviolação doart. 118, I, da Lei n. 7.210/1984 e art. 28 da Lei n. 11.343/2006(e-STJ fls. 62/67).
+Sustenta que seriainidônea a regressão do recorrente ao regime semiaberto, porquanto o crime de posse de entorpecente para consumo teria sido despenalizado, bem como não se presta a configurar a reincidência.
+Enfatiza que o agente teria satisfeito todas as condições impostas ao cumprimento da pena no regime mais brando.
+Contrarrazoada a insurgência (e-STJ fls. 71/76), após o juízo prévio de admissibilidade (e-STJ fl. 79), os autos ascenderam ao Superior Tribunal de Justiça.
+Instado a se manifestar, o Ministério Público Federal, na condição decustos legis, ofertou parecer pelo desprovimentodo recurso especial (e-STJ fls. 87/91).
+É o relatório.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+Acerca da regressão de regime imposta ao recorrente, o Tribunal estadual assim consignou (e-STJ fls. 52/56):
+Como cediço, a notícia do cometimento de crime durante o cumprimento de pena em regime aberto pode configurar falta disciplinar de natureza grave (LEP, art. 52, caput, primeira parte), justificando a regressão cautelar ao regime intermediário, como se deu na espécie. Nesse sentido, é o ensinamento da melhor doutrina:
+ ..
+E, ao contrário do sustentado pela douta defesa, eventual desclassificação da conduta criminosa de tráfico ilícito de drogas para porte de entorpecente para consumo pessoal, nos autos da ação penal em que se apura o crime imputado (fls. 11/16), não tem o condão de afastar a regressão cautelar de regime determinada na execução criminal, em razão da independência das esferas judicial e administrativa, tanto é que o trânsito em julgado da sentença penal condenatória não é condição à homologação da falta disciplinar (Súmula 526 do STJ).
+Por fim, consigno que a posse ou porte de entorpecente para consumo pessoal (Lei nº 11.343/06, art. 28, caput) constitui crime de perigo abstrato e, como tal, sua repressão e criminalização tem por escopo a tutela de interesse coletivo, jungido à saúde pública, de maneira que suplanta, à evidência, os pretensos direitos individuais.
+E, até o presente momento, não houve nenhuma declaração de inconstitucionalidade da criminalização da conduta tipificada no artigo 28 da Lei de Drogas, não se vislumbrando qualquer ofensa à Constituição, em cotejo ao que estabelece o artigo 1º da Lei de Introdução ao Código Penal.
+Ao revés, o Excelso Supremo Tribunal Federal, no julgamento de Questão de Ordem suscitada nos autos do RE 430.105/RJ (julgamento de 13/02/2007), tendo como Relator o eminente Ministro Sepúlveda Pertence, da Primeira Turma, afirmando de forma incidental a constitucionalidade da figura típica em questão, rejeitou a tese da abolitio criminis ou de infração sui generis, ratificando a natureza de crime da conduta do usuário de drogas, meramente despenalizado, consoante se infere da ementa do venerando aresto:
+ ..
+Assim, a posse de entorpecente, mesmo para consumo pessoal, deve ser considerada crime e, como tal, sujeita o agente às consequências legais, inclusive à configuração da falta disciplinar de natureza grave.
+Por tais razões, afigurou-se correta a r. decisão judicial que, ante a notícia do cometimento de crime durante o cumprimento de pena em regime aberto, determinou a regressão cautelar do reeducando ao regime intermediário.
+Da leitura do excerto transcrito, verifica-se que o entendimento perfilhado pelo Tribunal a quo está em consonância com o posicionamento adotado neste Sodalício, no sentido de que a posse de entorpecente para uso próprio, previsto no art. 28 da Lei n. 11.343/2006, configura crime, ainda que inexista previsão de pena corporal.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CORRUPÇÃO ATIVA. OFERECIMENTO DE VANTAGEM INDEVIDA PARA EVITAR A ATUAÇÃO POLICIAL. AGENTE ABORDADO COM DROGAS PARA USO PRÓPRIO. ATO DE OFÍCIO. OCORRÊNCIA. DISPOSIÇÕES DO ART. 48, §§ 2º E 3º DA LEI DE DROGAS. AGRAVO  ..
+III - O artigo 28 da Lei de Drogas, ainda que não preveja pena privativa de liberdade, permanece como crime. Não houve descriminalização da conduta, mas tão somente sua despenalização, vez que a norma especial conferiu tratamento penal mais brando aos usuários de drogas.
+IV - Com efeito, este Superior Tribunal de Justiça, alinhando-se ao "entendimento firmado pela Corte Suprema no julgamento do RE 430.150/RJ, sedimentou orientação de que a Lei n. 11.343/2006 não descriminalizou a conduta que tipificou no art. 28, que, portanto, continua a configurar crime. Ocorreu mera despenalização, assim entendida como a ausência de previsão, para o tipo, de pena privativa de liberdade como sanção" (HC 406.905/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 7/11/2017, DJe 13/11/2017)" (AgRg no HC n. 623.436/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 17/12/2021).
+ ..
+Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 2.007.599/RJ, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 3/5/2022, DJe de 9/5/2022.)
+Igualmente:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. CRIME PREVISTO NO ART. 28 DA LEI N. 11.343/2006. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. ENTENDIMENTO PACÍFICO DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCONSTITUCIONALIDADE. VIA INADEQUADA. CRIME. DESPENALIZAÇÃO. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL SEGUIDO PELA CORTE SUPERIOR DE JUSTIÇA. RECURSO ORDINÁRIO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A ação constitucional do habeas corpus não é via adequada para a arguição de inconstitucionalidade de dispositivo legal. Ademais, conforme jurisprudência do Supremo Tribunal Federal (RE n. 430.150/RJ), o porte de entorpecentes para consumo pessoal é crime, tendo apenas ocorrido a despenalização.
+3. Agravo regimental desprovido.
+(AgRg no RHC n. 165.570/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022.)
+De mais a mais, constata-se que o acórdão recorrido acompanhao entendimento assente nesta Corte no sentido de que"o art. 118, I, da Lei 7.210, de 11/07/1984 (LEP), estabelece que o apenado ficará sujeito à transferência para o regime mais gravoso, mesmoper saltum,se praticar fato definido como crime doloso ou falta grave. Outrossim, o não cumprimento das condições impostas por ocasião do deferimento do regime aberto ao sentenciado caracteriza falta grave, implicando naregressãode regime prisional. Precedentes"(AgRg no HC n. 660.178/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 17/8/2021, DJe de 20/8/2021).
+Demais disso, conforme entendimento jurisprudencial desta Corte Superior, firmada no Enunciado da Súmula n. 526: "O reconhecimento de falta grave decorrente do cometimento de fato definido como crime doloso no cumprimento da pena prescinde do trânsito em julgado de sentença penal condenatória no processo penal instaurado para apuração do fato".
+No caso, apresenta-se idônea a motivação da instância ordinária para justificar a regressãodo recorrente ao regime intermediário, porquanto reconhecida a falta gravecom a prática de crime doloso no curso da execução penal, nos termos da jurisprudência desta Corte Superior.
+Nesse diapasão:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. POSSE DE ENTORPECENTES. CONSUMO PRÓPRIO. FALTA GRAVE. SUFICIÊNCIA DA FUNDAMENTAÇÃO. ENTENDIMENTO DO STJ. DECISÃO MANTIDA.
+1. É inadmissível habeas corpus em substituição ao recurso próprio, também à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada flagrante ilegalidade no ato judicial impugnado apta a ensejar a concessão da ordem de ofício.
+2. A posse de entorpecentes para consumo próprio não resulta mais em pena privativa de liberdade, o que não implica descriminalização da conduta. Assim, configurada falta grave consistente na posse de entorpecentes para consumo próprio, não cabe a anulação da decisão que a homologou.
+3. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 626.864/DF, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 13/12/2021, DJe de 15/12/2021.)
+Igualmente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. POSSE DE DROGAS PARA CONSUMO PESSOAL. ART. 28 DA LEI 11.343/2006. CONFIGURAÇÃO DE FALTA GRAVE. CONSECTÁRIOS LEGAIS APLICÁVEIS. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Em relação à posse de droga para uso próprio, esta Corte fixou entendimento no sentido de que, embora o art. 28 da Lei 11.343/06 não mais preveja a pena privativa de liberdade para esse delito, o fato continua sendo classificado como crime, ensejando o reconhecimento de falta grave quando cometido durante a execução.
+2. Diante disso, é de se registrar que a prática de falta disciplinar de natureza grave acarreta a regressão de regime, a alteração da data-base para a obtenção de novos benefícios na execução da pena - à exceção do livramento condicional, do indulto e da comutação da pena -, e a perda de até 1/3 dos dias remidos, nos exatos termos do entendimento da Terceira Seção desta Corte, no julgamento do Recurso Especial n. 1.364.192/RS, sob o rito de recurso repetitivo (CPC, art. 543-C), consolidado nas Súmulas 441, 535 e 534 do STJ.
+3. Agravo regimental improvido.
+(AgRg no HC n. 525.107/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 1/10/2019, DJe de 8/10/2019.)
+Incide, portanto, a Súmula n. 568 do STJ, segundo a qual o relator,monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negarprovimento ao recurso quando houver entendimento dominante.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
