@@ -1,0 +1,18 @@
+DECISÃO
+Trata-sede embargos de declaração opostos por ANDRÉ LUIZ SADA FILHO, contra r. decisão que julgou extinta a reclamação sem resolução do mérito.
+Daí os presentesembargos, no qual oembargantedestaca obscuridade na r. decisão embargada que, "além de afrontar a Constituição, conferir irrazoabilidade/ilogicidade ao sistema e afrontar ao disposto expressamente no § 5º, II, do mesmo artigo, torna o disposto no art. 927, III, completamente inócuo, vez retirar das Cortes Superiores qualquer possibilidade de controle das decisões jurisdicionais prolatadas pelas instâncias ordinária que contrariem tese fixada por estas" (fl. 86).
+Assevera que "a prática forense mostra que, ao se manter tal entendimento, de difícil compreensão jurídica, inexistem meios da decisão ser analisada pelo Superior Tribunal de Justiça para reverter a ilegalidade aplicada a não ser pela Reclamação, conforme mandamento constitucional (105, I, a, da CF)" (fl. 87).
+Aduz omissão quanto ao pedido da justiça gratuita.
+Requer, aofinal, o acolhimento dos embargos para que sejam sanados os vícios apontados.
+É o relatório.
+Decido.
+Inicialmente, insta consignar que apenas são cabíveis embargos declaratórios quando houver na decisão embargada que se pretende integrar, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação dodecisumembargado.
+Os embargos de declaração devem ser opostos perante o órgão prolator dodecisumque a defesa visa integrar, seja pela existência de obscuridade, contradição ou omissão.
+Na lição de Nelson Nery Júnior e Rosa Maria Andrade Nery (Código de Processo Civil Comentado, RT, 4ª edição, 1999, p. 1045):
+"Os EDcl têm finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não têmcaráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Como regra, não têm caráter substitutivo, modificador ou infringente do julgado."
+Além disso, é cediço que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua interposição.
+No caso, ar. decisão ora atacada não padece de vícios, porquanto, ao ser analisada a reclamação, verificou-se a indicação de tesefirmada nos autos do REsp n. 1.656.322-SC (Tema n. 984), julgado sob a sistemática de recursos repetitivos, como a decisão que teria sido descumprida pela autoridade reclamada. Contudo,segundo decidido pela Corte Especial, nos autos da Reclamação n.36.476/SP, da relatoria da Minª Nancy Andrighi, "a conclusão que se alcança é que a reclamação constitucional não trata de instrumento adequado para o controle da aplicação dos entendimentos firmados pelo STJ em recursos especiais repetitivos".
+Dessa forma, emque pesem os argumentos expendidos pelos embargantes, não está demonstradaa existência de eiva pelo julgado de fls. 78-82, porquanto decidiu-se fundamentadamente aquaestiotrazida à sua análise, não podendo ser considerado maculado tão somente porque contrário aos interesses da parte. O que pretendeoembargante, na verdade, é o reexame de matéria já julgada, situação que não se coaduna com a estreita via dos declaratórios.
+Lado outro,acerca da gratuidade da justiça, nos termos do art. 7º da Lei n. 11.636/2007, o benefício da gratuidade de justiça não pode ser deferido em "habeas data, habeas corpus e recursos em habeas corpus, e nos demais processos criminais, salvo a ação penal privada", uma vez que não são devidas custas nos processos.
+Acolho, em parte,os embargos de declaração, sem efeitos infringentes.
+P. I.
