@@ -1,0 +1,14 @@
+DECISÃO
+  TRIBUTÁRIO.  RECURSO  ESPECIAL.  NÃO  OCORRÊNCIA  DE  VIOLAÇÃO  DO  ART.  1.022  DO  CPC/2015.  CUMPRIMENTO  DE  SENTENÇA.  EXECUÇÃO  JUDICIAL  DOS  HONORÁRIOS  ADVOCATÍCIOS.  RECURSO  ESPECIAL  CONHECIDO  E  DESPROVIDO.
+1.  Trata-se  de  recurso  especial  interposto  pela  FAZENDA  NACIONAL,  com  fundamento  no  art.  105,  inciso  III,  alínea  a,  da  CF/1988,  no  qual  se  insurge  contra  acórdão  proferido  pelo  TRF  da  4  ª  Região,  assim  ementado:
+DIREITO  TRIBUTÁRIO.  CUMPRIMENTO  DE  SENTENÇA.  EXECUÇÃO  JUDICIAL  DOS  HONORÁRIOS  ADVOCATÍCIOS.  COMPENSAÇÃO  ADMINISTRATIVA.
+A  execução  judicial  dos  honorários  de  sucumbência  fixados  na  fase  de  conhecimento  pode  ser  feita  independentemente  do  término  do  procedimento  de  compensação  administrativa  do  crédito  principal,  porquanto  são  créditos  de  natureza  e  titularidade  distintas.  Precedentes.  (fls.  30).
+2.  Nas  razões  do  seu  recurso  especial  (fls.  59/63),  a  parte  recorrente  sustenta  a  nulidade  do  acórdão  impugnado,  por  suposta  persistência  das  omissões  apontadas  nos  embargos  quanto  à  necessidade  de  aguardar  a  definição  do  montante  a  compensar  na  esfera  administrativa  para  ser  possível  o  prosseguimento  da  execução  dos  honorários,  configurando-se,  assim,  violação  ao  disposto  no  art.  1.022,  II,  do  CPC/2015.
+3.  Devidamente  intimada,  a  parte  recorrida  apresentou  as  contrarrazões  (fls.  68/71).  O  recurso  especial  foi  admitido  na  origem  (fls.  74/75).
+4.  É  o  relatório.
+5.  A  irresignação  não  merece  prosperar.
+6.  Verifica-se  que  inexiste  a  alegada  violação  do  art.  1.022  do  CPC/2015,  pois  a  prestação  jurisdicional  foi  dada  na  medida  da  pretensão  deduzida,  conforme  se  depreende  da  análise  do  acórdão  recorrido.  O  Tribunal  de  origem  apreciou  fundamentadamente  a  controvérsia,  não  padecendo  o  julgado  de  qualquer  erro,  omissão,  contradição  ou  obscuridade.  Observe-se,  ademais,  que  julgamento  diverso  do  pretendido,  como  na  espécie,  não  implica  ofensa  ao  dispositivo  de  lei  invocado.
+7.  Nos  exatos  termos  do  acórdão  recorrido,  o  Tribunal  de  origem  assim  se  manifestou  sobre  o  cerne  da  insurgência:
+  A  execução  judicial  dos  honorários  advocatícios  independe  da  execução  administrativa  do  principal,  sendo  desnecessário  aguardar  a  conclusão  do  procedimento  administrativo  de  compensação.  Ainda,  mesmo  que  não  houvesse  a  homologação  da  compensação  de  créditos  na  via  administrativa,  também  não  seria  a  hipótese  de  iliquidez  do  título,  inclusive  por  se  tratarem  de  créditos  de  natureza  e  titularidade  distintas.(fls.  32  ).
+8.  Ante  o  exposto,  conheço  do  recurso  especial,  mas  nego-lhe  provimento.
+9.  Publique-se.  Intimações  necessárias.
