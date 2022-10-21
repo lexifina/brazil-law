@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo, nos próprios autos, de E. K. Z. e C. S. K. Z., objetivando a reforma da decisão de inadmissão do recurso interposto perante o Tribunal de Justiça do Estado do Paraná, em face de acórdão assim ementado (e-STJ fls. 533/534):
+APELAÇÃO EM AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS, MORAIS E ESTÉTICOS. SENTENÇA QUE JULGOU IMPROCEDENTES OS PEDIDOS INICIAIS.
+1. QUEDA DA AUTORA E. SOBRE O MANETE DO FREIO DA BICICLETA FABRICADA PELA RÉ. PERFURAÇÃO NA COXA ESQUERDA DA VÍTIMA. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. RESPONSABILIDADE OBJETIVA. FATO DO PRODUTO. FABRICANTE QUE RESPONDE, INDEPENDENTEMENTE DA EXISTÊNCIA DA CULPA. EXCLUDENTE DE RESPONSABILIDADE SE COMPROVADO QUE INEXISTE DEFEITO NO PRODUTO OU QUANDO DEMONSTRADA A CULPA EXCLUSIVA DA VÍTIMA OU DE TERCEIROS. DANOS DEMONSTRADOS PELAS AUTORAS, A PARTIR DA JUNTADA DE FOTOS. LAUDO PERICIAL REALIZADO. CONCLUSÃO PELA INEXISTÊNCIA DE DEFEITO NA FABRICAÇÃO DA BICICLETA. PERITO QUE AFIRMOU QUE A PERFURAÇÃO PODERIA TER OCORRIDO, INCLUSIVE, EM BICICLETAS COM O MANETE DE FREIO ARREDONDADO. CAUSA DO DANO QUE ADVÉM DA PRESSÃO CAUSADA SOBRE O COMPONENTE DA BICICLETA DURANTE A QUEDA. RÉ QUE RESPEITOU AS NORMAS TÉCNICAS E DE QUALIDADE DO PRODUTO. AUTORA, MENOR DE IDADE, QUE NÃO SE UTILIZAVA DE EQUIPAMENTOS DE SEGURANÇA. PAI DA AUTORA, OUVIDO COMO INFORMANTE NA AUDIÊNCIA DE INSTRUÇÃO, QUE NARROU A DINÂMICA DOS FATOS. MENOR QUE REALIZOU CURVA MUITO FECHADA COM A BICICLETA. QUEDA INTENSA SOBRE O MANETE DE FREIO, QUE CAUSOU A PERFURAÇÃO NA COXA ESQUERDA. CULPA EXCLUSIVA DA VÍTIMA CONFIGURADA. TESE DE AUSÊNCIA DE INFORMAÇÃO SOBRE AS RECOMENDAÇÕES PARA O USO DA BICICLETA INFANTIL QUE NÃO PROSPERA. PRECEDENTES DESTA CORTE. SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+2. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. POSSIBILIDADE DE MAJORAÇÃO, NOS TERMOS DO ARTIGO 85, § 11, DO CPC/15.
+RECURSO DE APELAÇÃO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 569/574).
+Sustentam estarem presentes os pressupostos de admissibilidade do recurso especial (e-STJ fls. 634/647).
+Com contraminuta (e-STJ fls. 651/659), os autos foram encaminhados a esta Corte.
+O Ministério Público Federal manifestou-se às fls. 680/684 (e-STJ).
+No recurso especial, fundado no artigo 105, III, "a", da Constituição Federal, a parte recorrente aponta violação aos artigos 6º, I, 8º, 9º, 10, 12, § 1º, II, e § 3º, II e III, da Lei n. 8.078/1990 - Código de Defesa do Consumidor (e-STJ fls. 582/602).
+Alegam, em síntese, que " ..  ainda que a perícia tenha concluído que inexistem defeitos, a Recorrida deve ser responsabilizada apenas pela informação insuficiente ou inadequada que causou o dano, o que evidencia que o acórdão vergastado contraria e nega vigência ao art. 12, caput, da Lei Federal 8.078/1990, quando decidiu que a Recorrida não tinha a obrigação de expor como deveria ser utilizada a bicicleta que ocasionou a perfuração da coxa esquerda da menor Recorrente  .. " (e-STJ fl. 601).
+Com contrarrazões (e-STJ fls. 651/659).
+Assim delimitada a controvérsia, passo a decidir.
+Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, no presente caso, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão à parte agravante.
+De início, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, assim entendeu(e-STJ fls. 535/538):
+ ..
+É aplicável à espécie o Código de Defesa do Consumidor, uma vez que a empresa ré se enquadra no conceito de fabricante do produto, nos termos do artigo 3º, caput, do referido diploma, as autoras/apelantes, como consumidoras e destinatárias finais, subsumindo-se ao disposto no seu artigo 2º.
+O artigo 12, caput, do Código de Defesa do Consumidor dispõe que  ..
+Diante disso, tem-se que a responsabilidade da empresa fabricante é objetiva, somente podendo ser afastada quando restar comprovado que o produto defeituoso não foi colocado no mercado, que inexiste defeito ou quando demonstrada a culpa exclusiva do consumidor ou de terceiro na confecção do dano (artigo 12, § 3º, do CDC).
+No entanto, mesmo em se tratando de responsabilidade civil objetiva, o dever indenizatório da empresa fabricante está condicionado à presença dos demais elementos caracterizadores da responsabilidade civil.
+Assim, também é necessário que a parte ofendida comprove o dano experimentado e o nexo de causalidade entre este a ação/omissão do agente causador.
+In casu, tenho que as autoras comprovaram a existência de dano na coxa esquerda da menor E., mediante a apresentação das fotos colacionadas ao mov. 1.14/1.18, dos autos de origem.
+Não obstante, muito embora o i. perito tenha afirmado que a perfuração na pele da autora poderia, sim, ter ocorrido em razão do manete de freio da bicicleta fabricada pela ré, concluiu pela inexistência de qualquer defeito de fabricação. Vejamos:
+"7) Queira o Sr. Perito informar se a peça (manete de freio) apresenta vícios, defeitos de fabricação ou indícios de ter ocasionado o ferimento citado pela requerente.
+O manete de freio não apresentava nenhum indício de defeito de fabricação, os dois lados (direito e esquerdo) eram bem simétricos, o acidente não acorreu devido a alguma falha de fabricação." - mov. 122.1, fl. 11  ..
+Além disso, foi claro ao dizer que, para que a ocorra a perfuração na pele humana, "é necessário que uma pressão seja aplicada à superfície da pele. Esta pressão varia sensivelmente de pessoa para pessoa" e que essa pressão precisa ser intensa:
+"Para que ocorra uma perfuração na pele é necessário que uma pressão limite à suportada pela pele seja ultrapassada. A pressão depende de duas variáveis, a intensidade da força que é aplicada e a área da superfície na qual entra em contato entre as partes." - mov. 122.1, fl. 12.
+Muito embora as autoras defendam que o manete de freio da bicicleta em questão possuía a ponta parcialmente oca, e, por esta razão, pode vir a causar aos seus usuários maiores chances de acidentes com perfuração, o i. perito concluiu que, na verdade, mesmo os manetes com pontas mais arredondadas podem causar o mesmo tipo de dano (perfuração na pele humana). In verbis:
+"Observando o vídeo anexado ao processo é possível afirmar que se trata da bicicleta Ceci aro 20, modelo 2018. O material utilizado na fabricação da manopla de freio é plástico, pode ser observado isto através do vídeo e de manuais atualizados da bicicleta. Os manetes de freio utilizada no modelo de 2018 possui pontas arredondadas, mas mesmo assim é possível que ocorra uma perfuração na pele humana, de acordo com a resposta da questão 6." - mov. 122.1, fl. 8  ..
+Também constou no laudo pericial que o projeto e fabricação do manete de freio da bicicleta da autora respeitou as normas técnicas, regulamentadoras e de qualidade:
+"8) Sr. Perito, informar se o projeto e fabricação da peça em questão (manete de freio) respeitou as normas técnicas, regulamentadoras e de qualidade na data de aquisição da bicicleta pelas requerentes.
+Após analisar as normas regulamentadoras expostas pelo INMETRO, não foi encontrado nenhum item em desconformidade com o projeto do manete de freio comercializado pela fabricante." - mov. 122.1, fl. 12  ..
+Por fim, o perito concluiu que "Para evitar que fraturas e outras lesões aconteçam, de acordo com a ONG CRIANÇA SEGURA, deve-se andar em lugares adequados, com bicicletas também adequadas. É importante o uso de equipamentos de segurança, como usar sempre capacete, luvas e óculos, manter a iluminação, com luz branca na frente e vermelha atrás, não ultrapassar o sinal vermelho, usar sempre calçados fechados para pedalar, e manter uma boa postura para evitar problemas no joelho, além de sempre estar sob vigilância de um adulto. Apesar de ser apenas recomendações, essas medidas são importantes para maximizar a segurança da criança, não houve indícios de utilização de equipamentos de segurança por parte da condutora na hora do acidente". - mov. 122.1, fls. 12/13  ..
+Realizada a audiência de instrução, as pessoas arroladas pela parte autora, sr. A. F. Z. e M. K. Z., pai e irmã de E., respectivamente, foram ouvidas como informantes.
+A irmã de E. nada elucidou acerca de como se deu a queda, eis que não estava próxima na hora do acidente.
+O pai, sr. A., ao narrar a dinâmica dos fatos, disse que a queda se deu em razão de a autora estar realizando uma "curva muito fechada". Vejamos:
+"Eu "tava olhando nessa hora para a E.. Aí eu vi que ela se desequilibrou e caiu.  ..  Eu lembro que ela "tava fazendo uma curva muito fechada e, quando ela fez essa curva muito fechada, ela virou de mais o volante, o guidão, e a manopla de freio ficou alinhada com a coxa dela. E quando ela terminou de dar os noventa graus de curva, quando o pneu travou, a coxa dela foi direto na manopla. Aí perfurou." - mov. 213.1 (01"20" e 02"33").
+"o pneu da frente travou porque ela virou muito, né. Então ele virou noventa graus". - mov. 213.1 (05"15").
+Indagado sobre se a bicicleta soltou, o informante respondeu que não:
+" magistrada : então não soltou ali, aquela.. nada do freio  ..
+ Alessandro : não, não. Nada soltou." (03"24")
+Logo, verifica-se que o ocorrido se deu em razão de manobra realizada pela vítima, o que causou a queda com grande impacto no manete de freio, causando a perfuração na sua coxa esquerda.
+Não se pode atribuir a culpa à ré pelo ocorrido, ao argumento que o manete de freio deveria ter um projeto distinto a fim de atender à segurança das crianças, público alvo da bicicleta em questão.
+Isto porque, como dito, o perito foi claro ao afirmar que até mesmo os manetes com a ponta arredondada poderiam causar perfuração na pele humana. Além disso, pelas fotos acostadas aos autos, observa-se que esse componente da bicicleta não representa perigo.
+Como bem concluiu a d. Procuradora Geral de Justiça, "As lesões decorreram de imperícia e imprudência na condução da bicicleta, situação essa que não pode ser imputada à apelada Caloi". - mov. 14.1, destes autos recursais.
+Por fim, entendo que o argumento aventado pelas recorrentes no sentido de que a ré não as informou acerca da necessidade de se seguir as recomendações da ONG Criança Segura, não merece prosperar.
+Tratando-se de brinquedo infantil, como uma bicicleta, é sabido que os cuidados devem ser redobrados; que é recomendado o uso de utensílios de proteção e que manobras radicais podem causar acidentes, sejam eles decorrentes de impacto no próprio objeto ou não.
+Assim, não se vislumbra que seria dever do fabricante expor o modo como deveria ser utilizada a bicicleta e que, por ser de uso infantil, os clientes deveriam seguir as recomendações da ONG Criança Segura, já que a exigência da sua utilização de modo seguro é fato notório, não sendo exigível que haja todo o tipo de precaução expressa ao consumidor.
+ ..
+Portanto, rever tais fundamentos do acórdão recorrido demandaria a alteração das premissas fático-probatórias dos autos, mediante o reexame de provas, procedimento vedado em recurso especial, ante o teor da Súmula n. 7 do Superior Tribunal de Justiça. Guardados os devidos contornos fáticos próprios de cada caso, vejam-se os seguintes precedentes:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/1973. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ.
+1. Aplica-se o óbice da Súmula n. 7 do STJ se o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+2. Agravo regimental desprovido.
+(AgRg no AREsp n. 182.361/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 5/5/2016, DJe 10/5/2016).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Para modificar as conclusões consignadas no acórdão impugnado, na forma como posta, seria necessária a incursão no conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, a teor da Súmula 7 do STJ.
+ ..
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.698.665/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/10/2020, DJe 18/11/2020).
+Em face do exposto, nego provimento ao agravo e, ainda, nos termos do artigo 85, § 11, do Código de Processo Civil de 2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites dos §§ 2º e 3º do mesmo artigo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita.
+Intimem-se.
