@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por (FERNANDO LUIZ CAMPOS DE OLIVEIRA E OUTRO (FERNANDO e outro) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TJSP, de relatoria do Des. SPENCER ALMEIDA FERREIRA, assim ementado:
+INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA Decisão que acolheu o incidente inserindo os sócios da executada no polo passivo de execução. Preenchimento dos requisitos elencados no art. 50 do Código Civil. Os recorrentes são, indiscutivelmente, sócios de outras pessoas jurídicas formadoras de grupo econômico, todas de um mesmo ramo de atividade, de agenciamento de cargas, de despachos aduaneiros, de transporte e logística, e domiciliadas em endereço comum. Está documentado que a devedora não dispõe de bens que satisfaçam o crédito da autora, mas realiza, por intermédio de seus sócios, ora agravantes, movimentações em conta corrente em prol das empresas integrantes do grupo, o que deixa clara a confusão patrimonial. RATIFICAÇÃO DA DECISÃO Hipótese em que a interlocutória avaliou corretamente os elementos fáticos e jurídicos apresentados pelas partes, dando à causa o justo deslinde necessário. Aplicação do art.
+252, do RITJSP. Decisão mantida. RECURSO NÃO PROVIDO.(e-STJ, fl. 569)
+Os embargos de declaração opostos por FERNANDO e outro foram rejeitados(e-STJ, fls.591/594)
+Irresignados, FERNANDO e outrointerpuseram recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando a violação aos arts. 489 e 1022 do NCPC e 50, §§ 1º, 2º e 3º, do CC/2002, além de dissídio jurisprudencial, ao sustentarem (1) negativa de prestação jurisdicional motivada; (2) não ficaram configuradas as hipótesesde desvio de finalidade e confusão patrimonial a autorizar a desconsideraçãoda personalidade jurídica.
+O recurso não foi admitido pelo TJSP (e-STJ, fls. 662/666).
+Nas razões do presente agravo, FERNANDO e outroalegaramque não incidem os óbices apontados na decisão de inadmissibilidade.
+Foiapresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da negativa de prestação jurisdicional
+FERNANDO e outro a afirmam que (1) o acórdão não fundamentou a responsabilização dos sócios embargantes; (2) se omitiu quanto às provas trazidas pelos recorrentes; (3) cometeu erro material ao apontar que as empresas se dedicam às mesmas atividades; (4) omitiu-se quanto aos argumentos lançados à fl. 13 dos autos que demonstra a existência de bens da devedora; (5) erro material relativo às supostas transferências em favor das demais empresas do grupo.
+O Tribunal estadual no entanto, consignou (1) os recorrentes são sócios de outras pessoas jurídicasformadoras do mesmo grupo econômico; (2) ficou evidenciada a confusão patrimonial entre os sócios; (3) ficou demonstrada a transferência de quantias vultosas e as operações não se limitam aos mútuos alegados; (4) se a executada não estivesse insolvente a execução não se arrastariapor 4 anos sem a satisfaçãodo crédito; (5) os recorrentes são sócios de outras pessoas jurídicas formadoras de grupo com a devedora ; (6)está documentado que a devedora não dispõe de bens que satisfaçam o crédito da autora, mas realiza, por intermédio de seus sócios, ora agravante, movimentações em conta corrente em prol das outras empresas;(7) a prova dos autos demonstrou o abuso da personalidade e o desvio de finalidade e a confusão patrimonial, confira-se
+A interlocutória proferida pelo juízo de primeiro grau avaliou corretamente os elementos fáticos e jurídicos apresentados pelas partes, dando à questão o justo deslinde que se impõe, in verbis:
+"De início, importante destacar que a existência de grupo econômico, por si só, não acarreta desconsideração da personalidade jurídica, nos termos do artigo 50, § 4º, do Código Civil.
+Ocorre que o autor trouxe elementos a evidenciar confusão patrimonial entre os sócios, a empresa executada e as demais empresas do grupo.
+Vejamos.
+Os réus Paulo Amaury e Fernando Luiz compõem e administram, além da devedora original (DFX Transportes Internacionais / Wise Logística), as empresas DFX Aduaneira e Logística Ltda (fls. 15), DFX Logística Internacional Ltda (fls. 18) e Hat Internacional (fls.
+43).
+Todas sediadas na R. Buenos Aires, 68/501, Rio de Janeiro/RJ e todas atuantes no ramo de agenciamento de cargas/atividades de despacho (fls. 10, 13, 16 e 30).
+Comprovou-se a transferência de vultosas e sucessivas quantias entre as empresas em questão (fls. 446/463). Observa-se ao menos dez transferências da ré para a Hat Internacional num intervalo de três meses. As operações não se limitam aos mútuos que a contestação pretendeu justificar.
+Os próprios réus reconhecem, ainda, a realização de empréstimos junto à pessoa jurídica executada.
+Embora não satisfeita a dívida objeto dos autos, as rés prosseguem atuando em seu ramo de atividade e realizando operações entre si.
+Anoto, se a executada não estivesse insolvente (como sustentado na contestação), a execução não se arrastaria por quatro anos sem asatisfação do crédito.
+Em suma, os réus se valem das empresas do conglomerado e atuam de forma coordenada para realizar a atividade empresarial, sem saldar as obrigações assumidas (..)"
+Como se vê, a prova dos autos demonstrou a existência de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade e pela confusão patrimonial, nos termos do que alude o art. 50 do Código Civil .
+Nesse sentido, vale reforçar que os recorrentes, Fernando Luiz e Paulo Amaury, são, indiscutivelmente, os sócios de outras pessoas jurídicas formadoras de um grupo com a devedora DFX Transporte Internacional Ltda., todas de um mesmo ramo de atividade, de agenciamento de cargas, de despachos aduaneiros, de transporte e logística, e domiciliadas em endereço comum. Além disso, está documentado que a devedora não dispõe de bens que satisfaçam o crédito da autora, mas realiza, por intermédio de seus sócios, ora agravante, movimentações em conta corrente em prol das outras empresas, o que deixa clara a confusão patrimonial (e-STJ, fls. 570/571)
+Assim, inexistem os vícios elencados no art. 1.022 do NCPC, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1022 DO CPC/2015. VIOLAÇÃO. INEXISTÊNCIA. AUSÊNCIA DE COMPROVAÇÃO DE PREPARO. CONCESSÃO DE JUSTIÇA GRATUITA NÃO DEMONSTRADA. INTIMAÇÃO PARA REGULARIZAÇÃO. NÃO ATENDIMENTO. DESERÇÃO. NÃO PROVIMENTO. 1. O Tribunal de origem analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão, contradição ou negativa de prestação jurisdicional. 2. É deserto o recurso especial se, concedida oportunidade para comprovação da regularidade do preparo efetuado ou, caso necessário, para efetivação de novo recolhimento, na forma do artigo 1.007 do CPC, a parte não o faz tempestivamente. 3. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1780937/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/11/2021, DJe 01/12/20 - sem destaque no original)
+Afasta-se, portanto, a alegada violação.
+(2)Do art. 50 do CC/2002
+Os recorrentes afirmam que(2) não ficaram configuradas as hipóteses de desvio de finalidade e confusão patrimonial a autorizar a desconsideração da personalidade jurídica.
+Contudo o Tribunal recorrido declarou de forma categórica quea prova dos autos demonstrou a existência de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade e pela confusão patrimonial, nos termos do que alude o art. 50 do Código Civil.
+Nesse passo, rever as conclusões do aresto combatido à luz da fundamentação recursal esbarra na Súmula nº 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO. DECISÃO DA PRESIDÊNCIA NÃO CONHECENDO DO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 182/STJ. RECONSIDERAÇÃO. RECURSO ESPECIAL. VIOLAÇÕES DE LEI FEDERAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DIREITO CIVIL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. EMPRESAS. GRUPO ECONÔMICO. CONFUSÃO PATRIMONIAL RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. REQUISITOS LEGAIS. AFERIÇÃO NA VIA DO RECURSO ESPECIAL.
+IMPOSSIBILIDADE. SÚMULAS 5 e 7/STJ.
+1 - Não incide a Súmula 182/STJ se a parte, no agravo, impugna os fundamentos da decisão que, na origem, não admitiu o recurso especial. Decisão da Presidência que merece reconsideração.
+2 - Não decididas no acórdão recorrido as matérias afetas aos dispositivos tidos como violados, ressente-se o especial do necessário prequestionamento, atraindo o óbice das Súmulas 282 e 356 do STF.
+3 - Firmado pelas instâncias ordinárias que estão presentes os requisitos legais para a desconsideração da personalidade jurídica, notadamente que há confusão entre o patrimônio da empresa que figura originariamente no polo passivo do cumprimento de sentença e as outras que fazem parte do mesmo grupo econômico, não há como elidir essas conclusões na via do recurso especial, ante o veto das Súmulas 5 e 7 do STJ. Julgados nesse sentido das duas Turmas que integram a Segunda Seção.
+4 - Agravo interno provido, conhecendo do agravo para não conhecer do recurso especial.
+(AgInt no AREsp n. 2.057.822/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022 sem destaque no original.)
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTEo recurso especial e nessa extensãoNEGAR-LHE PROVIMENTO
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL NO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA.AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INCIDENTE DEDESCONSIDERAÇÃODAPERSONALIDADE JURÍDICA. PREENCHIMENTO DOS REQUISITOS. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE O RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO
