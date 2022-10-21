@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+PROCESSUAL CIVIL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. PROCEDÊNCIA. APELAÇÃO CÍVEL DO RÉU. ALEGAÇÕES GENÉRICAS. AUSÊNCIA DE REBATE ESPECÍFICO AO SARGUMENTOS DA SENTENÇA RECORRIDA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. RECURSO INADMISSÍVEL. APLICAÇÃO DO ART. 932, INCISO III, DO CPC. NÃO CONHECIMENTO DO RECURSO.
+1. O princípio da dialeticidade traduz a necessidade de que a parte insatisfeita com a prestação jurisdicional a ela conferida interponha a sua irresignação de maneira crítica, ou seja, discursiva, sempre construindo um raciocínio lógico e conexo aos motivos elencados no decisório combatido, possibilitando à instância recursal o conhecimento pleno das fronteiras do descontentamento.
+2. Desta forma, não tendo o apelo impugnado especificamente os fundamentos da sentença recorrida, o não conhecimento do recurso é medida que se impõe, nos termos do art. 932, inciso III, do CPC.
+Alegou-se, no especial, violação dos artigos 421 e 422 do Código Civil sob o argumento de que, nos termos do contato para a prestação de plano de saúde, há previsão para o desconto em folha de pagamento da beneficiária dos pagamentos devidos à recorrente, e só na impossibilidade de cobrança desse modo é que haverá cobrança por meio de boletos bancários.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que o agravado pretendeu o pagamento dos valores devidos à recorrente por meio diverso do desconto em folha de pagamento que, ao final, foi, no ponto, julgado procedente "para fins de condenar a parte promovida a ofertar meio de cobrança diverso do desconto em folha de pagamento no prazo de 30 dias" (e-STJ, fl. 985).
+O Tribunal local, todavia, não conheceu do recurso de apelação interposto pela ora agravante por não ter atendido ao princípio da dialeticidade, fundamento esse que não foi impugnado pela recorrente, o que atrai a incidência do verbete n. 283 da Súmula do Supremo Tribunal Federal.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
