@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MILTON ANTONIO OLIVEIRA DIGIÁCOMO interpõe agravo regimental contra decisão que negou provimento ao seu habeas corpus.
+A defesa alega, em síntese, que a petição interposta não poderia ser considerada como complementação das razões de apelação, pois objetivava "apenas esclarecer a pertinência da juntada dos documentos" (fl.582).
+Requer, diante disso, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PETIÇÃOAPÓS OFERECIMENTO DAS RAZÕES DE APELAÇÃO. CORTE ESTADUAL ENTENDEU COMO COMPLEMENTAÇÃO DO RECURSO. IMPOSSIBILIDADE. AGRAVOREGIMENTAL NÃO PROVIDO.
+1. O entendimento desta Corte Superior é de que "a interposic a o de dois ou mais recursos, pela mesma parte e contra a mesma decisa o ou aco"rda o, sob o argumento de "aditamento a"s razo es do recurso", impede o conhecimento daquele que foi apresentado apo"s o primeiro recurso, tendo em vista a preclusa o consumativa e o princi"pio da unirrecorribilidade recursal" (AgRg no AREsp n. 1.24.1836/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 9/6/2021).
+2. Rever o entendimento da instância ordinária, quanto ao fato de o teor da petição apresentada pela parte se caracterizar como complementação das razões recursais, demandaria ampla dilação probatória, incompatível com a via estreita do habeas corpus.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+O paciente foi condenado, pelo delito tipificado no art. 1º, caput e § 4º, da Lei n. 9.613/1998, c/c o art. 29 do CP, a 9 anos, 1 mês e 6 dias de reclusão e 72 dias-multa.
+A defesa interpôs recurso de apelação e, depois do oferecimento de suas razões recursais, mas antes do seu julgamento, peticionou e juntou aos autos novos documentos.
+O Desembargador relator intimou o MPPR para que se manifestasse quanto às informações contidas na referida petição (fls. 541-542) e, em seguida, entendeu que estacaracterizaria "verdadeira tentativa de complementação das razões recursais, o que não se pode admitir, diante da ocorrência de preclusão consumativa" (fls. 543-548), mas manteve os documentos nos autos, em decorrência da previsão legal do art. 231 do CPP, sob seguinte fundamento:
+ ..
+2.1. De fato, os argumentos apostos na petic a o de mov. 53.1 caracterizam verdadeira tentativa de complementac a o das razo es recursais, o que na o se pode admitir, diante da ocorre ncia de preclusa o consumativa.
+2.1.1. Nesse particular, e" imperioso ter-se presente que na o ha" no ordenamento juri"dico qualquer previsa o a respeito da possibilidade de "complementac a o" a destempo das razo es recursais de apelac a o.
+2.1.2. Ale"m disso, e" lembrar que o princi"pio da unirrecorribilidade - ou unicidade recursal -, assim como impede a interposic a o de dois ou mais recursos - ide nticos ou na o - pela mesma parte, contra a mesma decisa o, tambe"m obsta o aditamento das razo es recursais. Ilustrativamente:
+ ..
+2.2. Por outro lado, no que tange aos documentos de movs. 53.2 e 53.3, ha" que se ponderar o disposto no artigo 231 do Co"digo de Processo Penal, segundo o qual "Salvo os casos expressos em lei, as partes podera o apresentar documentos em qualquer fase do processo".
+2.2.1. E" verdade: a mencionada previsa o legal na o pode ser interpretada isoladamente, em dissona ncia com os demais dispositivos que regem a instruc a o no processo penal; afinal, o direito a" prova na o e" absoluto, encontrando limitac o es em regras de natureza endoprocessual e extraprocessual.
+2.2.1.1. Tambe"m na o se olvida que o juiz podera" decidir acerca da necessidade e utilidade de prova requerida, inclusive indeferir as provas consideradas irrelevantes, impertinentes ou protelato"rias, na linha do que estatui o artigo 400, para"grafo 1.o, do Co"digo de Processo Penal; afinal e" ele o destinata"rio da prova.
+2.3. Entretanto, na o vislumbro que a juntada dos aludidos documentos, neste momento procedimental, tenha intuito meramente protelato"rio; diversamente, os elementos ora trazidos aos autos pelo re"u-apelante guardam pertine ncia com a questa o submetida ao Estado-juiz, em tese, recaindo sobre a propriedade do imo"vel por meio do qual o re"u-apelante teria branqueado ativos financeiros oriundos de pre"via infrac a o penal2.
+2.3.1. A manutenc a o desses documentos nos autos, que se mostram relevantes a" elucidac a o do fato imputado ao apelante, influindo, diretamente, na formac a o do jui"zo de culpa, representa enaltecimento dos princi"pios da ampla defesa e da busca da verdade real.
+ ..
+3. Dai" porque determino a invalidac a o do mov. 53.1, ta o somente (fls. 543-547, grifei).
+Irresignada com tal decisão, a parte interpôs agravo interno, que foi julgado pela Corte estadual, conforme ementa:
+AGRAVO INTERNO. DECISA O MONOCRA"TICA QUE DETERMINOU O DESENTRANHAMENTO DE PETIC A O DEFENSIVA CONSIDERADA COMO RAZO ES COMPLEMENTARES DO RECURSO DE APELAC A O. ALEGAC A O DE QUE A PETIC A O BUSCAVA TA O SOMENTE INDICAR A PERTINE NCIA DE DOCUMENTOS ANEXADOS. IMPOSSIBILIDADE DE REFORMA. PERTINE NCIA DOS DOCUMENTOS AOS FATOS APURADOS JA" RECONHECIDA. DESNCESSIDADE DE MANUTENC A O DA PETIC A O QUE BUSCAVA COMPROVAR TAL INTERESSE PROCESSUAL QUANTO A" PROVA. INADMISSIBILIDADE DE ADIT AMENTO A"S RAZO ES JA" APRESENTADAS. AUSE NCIA DE PREVISA O LEGAL. PRECLUSA O CONSUMATIVA OPERADA E RESPEITO AO PRINCI"PIO DA UNIRRECORRIBILIDADE. JURISPRUDE NCIA CONSOLIDADA DO SUPERIOR TRIBUNAL DE JUSTIC A. MANUTENC A O DA DETERMINAC A O DE DESENTRANHAMENTO. ACOLHIMENTO DO PEDIDO RECURSAL SUBSIDIA"RIO DE DESENTRANHAMENTO DA MANIFESTAC A O MINISTERIAL APRESENTADA EM CONTRA-ARGUMENTAC A O A" PETIC A O DESENTRANHADA. MANUTENC A O DE TAL MANIFESTAC A O QUE CARACTERIZARIA VIOLAC A O AOS PRINCI"PIOS DA ISONOMIA E PARIDADE DE ARMAS. RECURSO CONHECIDO E PARCIALMENTE PROVIDO (fl. 557, grifei).
+Depreende-se dos autos que, ainda que tenha sido determinado o desentranhamento da petição que acompanhava os documentos, por entender se tratar de complementação das razões de apelação, a Corte estadual manteve os documentos juntados pela parte.
+Importante esclarecer que embora a defesa aduza que a petição apenas contextualizouos fatos e a pertinência da juntada dos documentos, foi o próprio advogado da parte que denominou a peça como "razões de apelação" (fls. 441).
+Rever o entendimento da instância ordinária, quanto ao fato de o teor da petição apresentada pela parte se caracterizar como complementação das razões recursais, demandaria ampla dilação probatória, incompatível com a via estreita do habeas corpus.
+A jurisprudência desta Corte Superior é de que "a interposic a o de dois ou mais recursos, pela mesma parte e contra a mesma decisa o ou aco"rda o, sob o argumento de "aditamento a"s razo es do recurso", impede o conhecimento daquele que foi apresentado apo"s o primeiro recurso, tendo em vista a preclusa o consumativa e o princi"pio da unirrecorribilidade recursal" (AgRg no AREsp n. 1.24.1836/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 9/6/2021).
+Assim, inexistindo previsão legal que autorize o recebimento de complementação ou aditamento às razões apresentadas pela parte, não há que se falar em violação ao direito de defesa ou ao devido processo legal.
+À vista do exposto, nego provimento ao agravo regimental.
