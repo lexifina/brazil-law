@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. CORRUPÇÃO DE MENOR. CONDENAÇÃO. APLICAÇÃO DE PENA RESTRITIVA DE DIREITOS. PRESTAÇÃO PECUNIÁRIA. MONTANTE ACIMA DO MÍNIMO FUNDAMENTADO.
+1. Fixação da prestação pecuniária em 1 salário mínimo e o valor da fiança ao agravante Amarildo em 2 salários mínimos à agravante Nelci pelas instâncias ordinárias com base em fundamentação válida, com referência a dados dos autos para aferir a capacidade econômica, indicando o fato de haver profissão e salários definidos.
+2. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que denegou o habeas corpus.
+O agravante sustenta, nos termos da inicial, que não foi fundamentado o maior valor referente à prestação pecuniária, sendo desproporcional
+Requer a reconsideração da decisão agravada ou que o agravo seja submetido à Turma, para que seja concedido o habeas corpus para reduzir o valor da prestação pecuniária.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  O agravante requer a reconsideração da decisão agravada ou que o agravo seja submetido à Turma, para que seja reduzido o valor de prestação pecuniária, estando a decisão agravada nos seguintes termos (fls. 665/667):
+Acerca da prestação pecuniária, consta do acórdão (fls. 597/598):
+ ..  Vejamos o arguido pelo Sentenciante:
+Para Amarildo:
+a) Prestação pecuniária representada pela perda da fiança prestada às fls. 114-115 e mais a doação de um salário mínimo, em favor de entidade credenciada junto ao juízo, para depósito em conta única, em duas parcelas mensais iguais, em trinta e sessenta dias, mediante comprovação nos autos, nos termos da Portaria n. 01./2018, da Vara Criminal de Brusque, sendo que na fixação do valor foi levado em consideração o grau de reprovação e condição financeira do sentenciado, que afirmou trabalhar como auxiliar de produção e auferir renda mensal de aproximadamente RS 1.200,00 (mil e duzentos reais) mensais, além do pronto recolhimento da fiança estabelecida; e,
+b) Prestação de serviços à comunidade  ..
+Para Nelci:
+a) Prestação consistente na doação dois salários mínimos, em favor de entidade credenciada junto ao juízo, para depósito em conta única, em três parcelas mensais iguais, em trinta, sessenta e noventa dias, mediante comprovação nos autos, nos termos da Portaria n. 01./2018, da Vara Criminal de Brusque, sendo que na fixação do valor foi levado em consideração o grau de reprovação e condição financeira da sentenciada, que afirmou trabalhar como cabeleireira e manicure e aufere aproximadamente R$ 2.000,00 (dois mil reais) mensais; e,
+b) Prestação de serviços à comunidade  ..
+A espécie de sanção substitutiva combatida encontra-se disciplinada no art. 45, § 1º, do CP, in verbis:
+§ 1º A prestação pecuniária consiste no pagamento em dinheiro à vítima, a seus dependentes ou a entidade pública ou privada com destinação social, de importância fixada pelo juiz, não inferior a 1 (um) salário mínimo nem superior a 360 (trezentos e sessenta) salários mínimos. O valor pago será deduzido do montante de eventual condenação em ação de reparação civil, se coincidentes os beneficiários.
+Na situação em análise, revela-se adequada a decisão tomada pelo Magistrado ao substituir a pena privativa por duas restritivas de direito, nas modalidades de prestação de serviços à comunidade e prestação pecuniária no montante correspondente a um salário mínimo para o acusado Amarildo e dois salários mínimos para a acusada Nelci.
+Isso porque o montante disposto para o pagamento de prestação pecuniária foi determinado pelo Juiz a quo após considerar a capacidade financeira dos réus. Conforme infere-se do trecho destacado da sentença, o Magistrado, ainda que brevemente, ressaltou as ocupações e renda dos apelantes de modo a arbitrar valor suportável.
+Em relação a prestação pecuniária, entende-se que esta se mostra efetiva para a prevenção da reiteração delitiva, notadamente porque, por óbvio, demanda dispêndio financeiro, o que é extremamente relevante em se tratando de um crime contra o patrimônio.
+Outrossim, eventual dificuldade no pagamento poderá ser justificada junto ao Juízo da execução penal com vistas a possível parcelamento do valor.
+ ..
+Dessa forma, verifica-se suficientemente justiçado o patamar da prestação pecuniária estabelecido em sentença. ..
+O art. 45, § 1º, do Código Penal determina que "a prestação pecuniária consiste no pagamento em dinheiro à vítima, a seus dependentes ou a entidade pública ou privada com destinação social, de importância fixada pelo juiz, não inferior a 1 (um) salário mínimo nem superior a 360 (trezentos e sessenta) salários mínimos. O valor pago será deduzido do montante de eventual condenação em ação de reparação civil, se coincidentes os beneficiários".
+Como se observa, o Tribunal de origem consignou que "infere-se do trecho destacado da sentença, o Magistrado, ainda que brevemente, ressaltou as ocupações e renda dos apelantes de modo a arbitrar valor suportável".
+Ademais, manteve a sentença condenatória, na qual o Juízo de 1º, com amparo nos elementos probatórios disponíveis nos autos, fixou a prestação pecuniária do paciente Amarildo em um salário mínimo e mais o valor da fiança (R$ 954,00, fl. 401) e para a paciente Nelci em dois salários mínimos, asseverando, de forma fundamentada, que tais valores estavam adequados não apenas à capacidade econômica dos pacientes, que tê m profissão e salário definidos, mas também às finalidades preventiva e repressora da pena, e que o montante não se revelava desproporcional, no caso concreto. Ressaltou-se, ainda, que pode ser requerido o parcelamento junto ao Juízo das Execuções.
+Nesse contexto, para desconstituir as conclusões alcançadas pelas instâncias ordinárias, com fundamento em exame do conjunto fático-probatório carreado aos autos, para o fim de reduzir o valor da prestação pecuniária, com base na alegada incapacidade econômica do paciente, seria necessário o revolvimento do conjunto probatório, providência vedada na via estreita do habeas corpus. A propósito:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ARTIGO 168, §1º, INCISO III, DO CÓDIGO PENAL - CP. PENA PECUNIÁRIA. REDUÇÃO DO VALOR. REEXAME FÁTICO-PROBATÓRIO. PRECEDENTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na hipótese, ao revés do sustentado pela defesa, escorada a prestação pecuniária dentro dos limites legalmente fixados e com amparo na análise do caso concreto. Não se pode perder de vista que "A prestação pecuniária possui caráter sancionatório e visa atingir a finalidade reparadora. Sua fixação não está vinculada ao quantum de pena privativa de liberdade, apesar de ser observada a capacidade/razoabilidade de ser cumprida" (AgRg no AgRg no EDcl no AREsp n. 1666649/PR, Rel. Ministro ROGERIO SCHIETTI, SEXTA TURMA, DJe 4/8/2020). Nessa ordem de ideias, no caso concreto, rever a orientação fixada pela Corte de origem implica no reexame do conjunto fático-probatório dos autos, o que é inviável em sede de habeas corpus. Precedentes.
+2. Agravo regimental desprovido. (AgRg nos EDcl no HC 577819 / RJ, Relator(a) Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 08/06/2021, DJe 14/06/2021.)
+Ante o exposto, denego o habeas corpus.
+Apesar da irresignação defensiva, a decisão deve ser mantida por seus próprios fundamentos, os quais não foram refutados com proveito no recurso.
+Foram indicados fundamentos com base em dados dos autos pelas instâncias ordinárias para fixação da prestação pecuniária do agravante AMARILDO em 1 salário mínimo e mais o valor de fiança e da agravante NELCI em 2 salários mínimos, em razão de existir adequação com a capacidade econômica, tendo aos agravante profissão e salários definidos.
+Ademais, a finalidade da pena não podem deixar de ser levada em consideração.
+Ante o exposto, nego provimento ao agravo regimental, mantendo a decisão recorrida.
+É o voto.
