@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL -PETROS, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 838):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ALEGADA AFRONTA AO ARTIGO 884 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF. EXCESSO DE EXECUÇÃO. MATÉRIA QUE DEMANDARIA O REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+1. A matéria referente ao art. 884 do CC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula n. 282/STF).
+2. Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. O acolhimento da pretensão recursal, acerca do alegado excesso de execução, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+4. A incidência da Súmula n. 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 858-868).
+A parte recorrente sustenta a violação dos arts. 5º, XXXVI, 93, IX, e 202,caput,da CF e aduz que há repercussão geral da matéria tratada.
+Argumenta que, a despeito da oposição de embargos de declaração,o STJ " ..  deixou de se manifestar acerca dos precedentes acostados pela Recorrente, em verdadeira escusa do Colegiado, em utilização de verdadeira jurisprudência defensiva  .. " (fl. 883).
+Defende ainda a ofensa à regra de constituição de reservas que garantam o benefício contratado no regime de previdência privadae ao ato jurídico perfeito.
+Requer, ao final, a admissão do recurso e suaremessa ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (fls. 900-902).
+É o relatório.
+A Suprema Corte, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema n. 339/STF, segundo o qual "o art.93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do aresto paradigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+No caso, constata-se que foram declinadas as razões pelas quaisfoi negado provimento ao agravo interno, valendo destacar o seguinte excerto (fls. 840-842):
+Nesse contexto, nota-se que a indicada violação ao artigo 884 do CC não foi objeto de análise pelo Tribunal de origem. Consigne-se que o simples fato de embasar as razões recursais com fulcro na violação do dispositivo em tela não preenche o requisito do prequestionamento, máxime porque a instância a quo não se pronunciou sobre a matéria.
+Nessa esteira, para que se configure o prequestionamento a respeito de matéria ventilada em recurso especial, há que se extrair do acórdão recorrido pronunciamento sobre a tese jurídica em torno do dispositivo legal tido por violado, a fim de que se possa, na instância especial, abrir discussão sobre a questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Ressalta-se, ainda, que o STJ não reconhece o prequestionamento pela simples oposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento. Incide, portanto, quanto à matéria em mote, o óbice da Súmula n. 282 do STF.
+ ..
+2.2. Demais isso, o TJSE expressamente reconheceu que "o expert elaborou criterioso laudo pericial com o demonstrativo, com indicação clara da metodologia utilizada e aos ditames decididos". Nesse contexto, o acolhimento da pretensão recursal, acerca do alegado excesso de execução, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+Da mesma maneira, foram apresentados os fundamentos para a rejeição dos embargos de declaração opostos na sequência (fls. 866-867):
+5. Assim, todos os pontos necessários ao desate da controvérsia foram abordados, de forma clara, coerente, lógica e fundamentada, não havendo falar em omissão.
+Importante salientar que o mérito do recurso não pôde ser analisado, ante a aplicação das Súmulas n. 282/STF e n. 7/STJ. Assim, não há falar em omissãorelacionadas às matérias que abrangem o mérito do apelo nobre.
+Por outro lado, no RE n. 598.365-RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+No caso, verifica-se que o acórdão objeto do recurso extraordinário negou provimento ao agravo interno interposto contra decisão que não conheceu do recurso especial, com fundamento nas Súmulas n. 282/STF e n. 7/STJ.
+Desse modo, não tendo o julgado recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema n. 181/STF, sendo inviável a análise da violação constitucional apontada no recurso extraordinário.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
