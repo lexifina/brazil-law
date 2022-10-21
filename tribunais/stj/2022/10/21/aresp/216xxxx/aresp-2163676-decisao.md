@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO INTERNO - Recurso interposto em face de decisão monocrática que indeferiu a assistência judiciária ao recorrente - Manutenção - Apelante que não comprovou sua alegada hipossuficiência - Indeferimento mantido - Efeito ativo negado - Recurso desprovido.
+Alegou-se, no especial, violação dos artigos 98 e 99 do Código de Processo Civil, sob o argumento de que tem direito aos benefícios da assistência judiciária gratuidade e que negativa do referido benefício deve preceder a oportunidade de prova da hipossuficiência.
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à intimação prévia para a prova da hipossuficiência, não se trata de requerimento de gratuidade de justiça formulado em recurso, mas de recurso contra decisão que indeferiu a pretendida benesse, que, anteriormente ao indeferimento, deu a devida oportunidade ao agravante para a prova de sua miserabilidade no sentido jurídico.
+Leia-se excerto do acórdão:
+"Conforme se observa dos autos, oportunizado ao requerente, comprovar a alegada hipossuficiência alegada (fls. 128/129), este limitou-se a se qualificar como pequeno produtor rural, sem demonstrar por qualquer meio idôneo documental a alegada hipossuficiência, tendo posteriormente sido negada a benesse almejada pela. i. Juíza sentenciante, nos seguintes termos:"Ao embargante foi concedida a oportunidade de comprovar, por meio de documentos, sua condição econômico-financeira, porém, limitou-se a se qualificar como pequeno produtor rural, sem demonstrar por qualquer meio idôneo documental tal declaração. Diga-se que mesmo para a concessão parcial da gratuidade e recolhimento das custas ao final é necessário que a condição de necessidade seja demonstrada, não apenas alegada. Além disso, o imóvel do embargante é classificado como média" e não pequena propriedade rural. Portanto, não cumprida a determinação para comprovação da declaração de hipossuficiência econômica, indefiro o benefício."(fl. 195).".
+Nesse passo, ressalte-se que o recorrente novamente se limitou a juntar declaração de pobreza, contudo, nada trouxe aos autos a comprovar a alegadainsuficiência financeira.
+Portanto, sem prova da alegada hipossuficiência, o pretendido benefício não tem cabimento" (e-STJ, fls. 493/494).
+Inequívoca, pois, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+Quanto ao benefício propriamente dito, a conclusão de que não houve prova da hipossuficiência é imune ao crivo do recurso especial, como ensina o verbete n. 7 da Súmula desta Casa.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
