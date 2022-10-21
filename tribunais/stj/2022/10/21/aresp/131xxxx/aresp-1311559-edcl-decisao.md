@@ -1,0 +1,13 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO DA PARTE. NÃO CABIMENTO DOS DECLARATÓRIOS. EMBARGOS DE DECLARAÇÃOREJEITADOS.
+1. Trata-se de embargos de declaração opostos por HELIS BERENICE LIGORIO NORNBERG contra decisão da minha lavra cuja ementa transcreve-se abaixo:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. VIOLAÇÃO À SÚMULA. INADEQUAÇÃO DA VIA ELEITA. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. INCIDÊNCIA DA SÚMULA 518/STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF. PRESCRIÇÃO. OCORRÊNCIA. DESÍDIA DA PARTE EXEQUENTE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL DO PARTICULAR (fl. 662).
+2. Aduz aparte embargante, em síntese, a existência de equívoco e omissão no julgado, afirmando serem descabidos os argumentos suscitados para a inadmissãodo recurso interposto.
+3. Impugnação apresentada às fls. 811/814, em que se afirma tratar-se o recurso de tentativa de alteração do entendimento do órgão julgador.
+4. É o breve relatório.
+5. Os embargos de declaração não merecem acolhimento, pois a decisão embargada não padece de quaisquer dos vícios elencados no art. 1.022 do CPC/2015, porquanto decidiu toda a questão posta em debate, com a devida fundamentação, coerência e clareza, nos limites necessários ao deslinde do feito.
+6. Cumpre esclarecer que o art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos embargos de declaração: destinam-se a suprir omissão, esclarecer obscuridade ou eliminar contradição existente no julgado ou corrigir erro material.
+7. No caso em apreço, não se constata a presença de nenhuma eiva a macular a decisão embargada, que, de forma clara e precisa, concluiu que a alegada ofensa aos arts. 489 e 1.022 do CPC/2015 deu-se de forma genérica,afirmando a existência de supostas omissões no acórdão recorrido sem a indicação específica dos pontos sobre os quais o julgador deveria ter-se manifestado, o que inviabiliza a compreensão da controvérsia.
+8. Assim, não havendo a presença de quaisquer dos vícios elencados no art. 1.022 do CPC/2015, a discordância da parte quanto ao conteúdo da decisão não autoriza o pedido de declaração, que tem pressupostos específicos quenão podem ser ampliados.
+9. Pelo exposto, rejeitam-se os embargos declaratórios de HELIS BERENICE LIGORIO NORNBERG.
+10. Publique-se. Intimações necessárias.
