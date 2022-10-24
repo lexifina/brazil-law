@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de medida cautelar apresentadapelo ESTADO DE SÃO PAULOpara atribuir efeito suspensivo ativo a recurso ordinário em mandado de segurança interposto contra acórdão assim ementado (fl.71):
+Mandado de segurança - Impetração contra ato do Desembargador Coordenador da Diretoria de Execução de Precatórios, em delegação de ato administrativo do Presidente do Tribunal de Justiça deste Estado, que determinou o aditamento do precatório de natureza não alimentar, mantendo-se a ordem original - Ato administrativo proferido por órgão hierarquicamente superior ao Juízo de Execução, por delegação do Presidente do Tribunal de Justiça do Estado de São Paulo, a quem compete administrar as contas especialmente criadas para pagamento de precatórios sob o regime especial, nos termos da Emenda constitucional nº 62/2009 - Opção do executado pelo regime especial de pagamento de precatórios devendo depositar mensalmente em conta especial para pagamento de precatórios o percentual correspondente, independentemente de quem irá receber o pagamento - Precedentes do C. Órgão Especial do Tribunal de Justiça deste Estado - Segurança denegada.
+Às fls. 263-279, as partes recorrentes informama perda do incidente ao argumento de que o RMS n. 42.111/SPtransitou em julgado em 21/8/2019.
+Instada, a Fazenda Pública do Estado de São Paulo manifesta a sua concordância (fls. 283-284).
+Neste contexto, há de se reconhecer aperdadeobjetodo presente tutela de urgência,tendo em vista quenão subsiste interesse recursal concreto no deslinde da controvérsia.
+Ante o exposto, declaro a perda superveniente de objetoda medida cautelar,julgando-aprejudicada.
+Publique-se. Intimem-se.
