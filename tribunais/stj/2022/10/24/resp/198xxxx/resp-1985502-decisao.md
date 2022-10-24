@@ -1,0 +1,35 @@
+DECISÃO
+Vistos etc.
+LUIZ CARLOS DA ROCHA interpõe recurso especial, forte nas alíneas "a" e "c" do permissivo constitucional,em face do acórdão oriundo do Tribunal de Justiça do Estado do Paraná, exarado no curso do feito em que contende com PAN ARRENDAMENTO MERCANTIL S.A, cuja ementa transcreve-se:
+APELAÇÃO CÍVEL (1) - AÇÃO DE REVISÃO DE CLÁUSULAS CONTRATUAIS -REPETIÇÃO DE INDÉBITO - CÉDULA DE CRÉDITO COM GARANTIA DEALIENAÇÃO FIDUCIÁRIA -PREJUDICIAL O DE PRESCRIÇÃO REJEITADA -PRAZO PRESCRICIONAL DA PRETENSÃO REVISIONAL DE CONTRATO BANCÁRIO É DECENAL NOS TERMOS DO ART. 205 CÓDIGO CIVIL -CONTRATAÇÃO DE SEGURO DE PROTEÇÃO FINANCEIRA - CONFIGURAÇÃODE VENDA CASADA - ABUSIVIDADE DA COBRANÇA DO SEGURO RECONHECIDA - OBSERVÂNCIA DO RECURSO ESPECIAL REPETITIVO Nº1.639.320/SP (TEMA 972/STJ) - IMPOSSIBILIDADE DE REPETIÇÃO DO - - INDÉBITO CONTRATO FINDO ANTES DO AJUIZAMENTO DA DEMANDA - PARTE QUE DESFRUTOU DA PROTEÇÃO SECURITÁRIA PREVALÊNCIA DA - APLICAÇÃO DOBOA-FÉ E DA VEDAÇÃO AO ENRIQUECIMENTO ILÍCITOCÓDIGO DE DEFESA DO CONSUMIDOR - TARIFA DE AVALIAÇÃO DE BEM -NÃO COMPROVAÇÃO POR PARTE DA INSTITUIÇÃO FINANCEIRA DA EFETIVA PRESTAÇÃO DO SERVIÇO - ABUSIVIDADE RECONHECIDA -TAXA DEREGISTRO DE GRAVAME - ENTENDIMENTO DO STJ EM SEDE DE RECURSO REPETITIVO - CONTRATO CELEBRADO APÓS A VIGÊNCIA DA RESOLUÇÃO CMN 3.954/2011- RECURSO DE APELAÇÃO CONHECIDO E PARCIALMENTEPROVIDO. RECURSO DE APELAÇÃO (2) - INCIDÊNCIA DOS ENCARGOS REFLEXOS - IMPOSSIBILIDADE DE REPETIÇÃO DO INDÉBITO DAS PARCELAS REFERENTES AO SEGURO DE PROTEÇÃO FINANCEIRA - PARTE QUE POSSIBILIDADE DE DESFRUTOU DA PROTEÇÃO SECURITÁRIA -DEVOLUÇÃO DOS JUROS REMUNERATÓRIOS INCIDENTES SOBRE ACOBRANÇA ILEGAL DAS TARIFAS DE AVALIAÇÃO E REGISTRO POR - - GRAVAME CONSEQUÊNCIA LÓGICA READEQUAÇÃO DO ÔNUS - RECURSO DE APELAÇÃO CONHECIDO E PARCIALMENTE SUCUMBENCIAL PROVIDO.
+Opostos embargos de declaração, foram desacolhidos.
+Em suas razões, sustenta o recorrente violação aos arts. 758 e 759 do Código Civil. Aduz que o Tribunal de origem considerou a existência de relação securitária por mera previsão contratual e documento diverso da apólice. Invoca o disposto no art. 940 do Código Civil e art. 42 do CDC, defendendo a repetição de indébito. Indica dissídio jurisprudencial. Refere que resta caracterizada a venda casada quando demonstrada a contratação por seguradora indicada pela ré. Requer o provimento do recurso.
+Foram apresentadas contrarrazões.
+O recurso foi admitido pela Corte de origem.
+É o relatório.
+Decido.
+O recurso especial não comporta conhecimento.
+Ao que se verifica, o acórdão recorrido reconheceu a ilicitude do seguro de proteção financeira na espécie, sob o fundamento de que existente venda casada, ao registrar (e-STJ fls. 337-339):
+Da análise do conjunto probatório carreado aos autos, inexiste efetiva comprovação de que o serviço ora questionado foi livremente contratado pelo consumidor, de que sua adesão seria facultativa e/ou de que tais informações foram devidamente prestadas no momento da contratação.
+Nesse sentido, destaco o que prevê o Código de Defesa do Consumidor, em seu artigo 39, inciso I, ao vedar, expressamente, a venda casada, in verbis:
+Art. 39. É vedado ao fornecedor de produtos ou serviços, dentre outras práticas abusivas: I - condicionar o fornecimento de produto ou de serviço ao fornecimento de outro produto ou serviço, bem como, sem justa causa, a limites quantitativos;
+Ademais, o entendimento do referido dispositivo legal também pode ser evidenciado em uma das teses firmadas pelo Colendo Superior Tribunal de Justiça ao decidir sobre o Tema 972:
+"1 - Abusividade da cláusula que prevê o ressarcimento pelo consumidor da despesa com o registro do pré-gravame, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula pactuada no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva.
+2 - Nos contratos bancários em geral, o consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada.
+3 - A abusividade de encargos acessórios do contrato não descaracteriza a mora".
+Das cédulas de crédito bancário assinadas pelo autor (movimentos 51.2 e 48.2 dos autos de origem), é possível observar que o valor atinente ao seguro foi previamente estipulado pela instituição financeira, inexistindo no instrumento contratual qualquer informação a respeito da possibilidade de recusa.
+Com efeito, não há no contrato indício de oferta de mais de uma opção de fornecedor de serviço securitário.
+(..)
+Forçoso, portanto, reconhecer a prática da venda casada e, por consequência, a abusividade do seguro.
+No ponto, portanto, o recurso não comporta conhecimento, pois ao autor recorrente já foi alcançado o provimento jurisdicional que reconheceu a ilegalidadeda cobrança do seguro, afastando-a, do que decorre a falta de interesse recursal do tópico respectivo.
+Por outro lado, em relação ao pedido de restituição de valores, o acórdão afirmou a impossibilidade de sua devolução, consignando (e-STJ fl. 340)
+Não obstante o reconhecimento da abusividade da cobrança tal como entabulada, este não enseja direito à restituição, já que a proteção securitária esteve à disposição do autor durante todo o considerando período contratado, o término do contrato (06/2017) antes da propositura da demanda(12/2019).
+Compreensão em sentido contrário destoaria da cláusula de boa-fé que deve amparar os negócios jurídicos, bem como privilegiaria o enriquecimento indevido da parte que, na eventualidade deum sinistro, estaria amparada à época pelo seguro ora hostilizado.
+Este fundamento decisório, contudo - impossibilidade de enriquecimento ilícito por parte do recorrente, que desfrutou da proteção securitária pelo período em que contratada,e necessidade de observância da boa-fé nos negócios jurídicos - não foi devidamente infirmado no presente recurso, não tendo sidoenfrentado pelo recorrente. Denota-se, portanto,deficiência de fundamentação do apelo nobre e atrai o enunciado da Súmula 284/STF.
+Ademais, a mera transcrição de ementas e trechos de decisões apontadas como paradigmasnão autoriza o conhecimento do recurso com base na alínea "c" do permissivo constitucional, incumbindo ao recorrente comprovar, de forma satisfatória e analítica, o dissídio jurisprudencial, por meio do cotejo efetivodos julgados, ônus do qual não se desincumbiu na espécie.
+Ante o exposto, NÃOCONHEÇOdo presente recurso especial.
+Majoro os honorários advocatícios a serem arcado pela parte ré em adicionais R$1.000,00, forte no art. 85, §11º do CPC, suspendendo-se a exigibilidade da verba, em razão da gratuidade judiciária deferida.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. ILICITDE DA CONTRATAÇÃO DO SEGURO JÁ RECONHECIDA PELA CORTE DE ORIGEM. AUSÊNCIA DE INTERESSE RECURSAL NO PONTO. ACÓRDÃO RECORRIDO QUE APONTOU A NECESSIDADE DE OBSERVÂNCIA DA BOA-FÉ E IMPOSSIBILIDADE DE ENRIQUECIMENTO SEM CAUSA, PONTOS EMRELAÇÃO AOSQUAISNÃO APRESENTOU O RECURSO INSURGÊNCIA ESPECÍFICA, CARACTERIZANDO DEFICIÊNCIA DE FUNDAMENTAÇÃO.
+RECURSO ESPECIAL NÃO CONHECIDO.
