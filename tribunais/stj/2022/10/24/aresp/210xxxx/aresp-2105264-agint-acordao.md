@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto pelaUNIÃOcontra decisão doPresidentedesta Corte, em queconheceudo agravo paranão conhecer de recurso especial, considerando-se aincidência da Súmula 7 do STJ.
+A parte agravante alega, em síntese, que "o que pretende o ente público é que seja discutida a questão jurídica referente ao termo inicial da contagem do prazo decadencial (publicação da Portaria COMGEP nº 1.471-T/AJU, de 25 de junho de 2015), não sendo necessário, pois, o revolvimento de fatos e provas" (e-STJ fl. 348).
+Também sustenta que "a jurisprudência do STJ é firme no sentido de que a adoção de qualquer medida da autoridade que indique diligência impugnando a validade do ato torna possível a revisão daquele e não pode ser considerada mero ato preparatório" (e-STJ fl. 348).
+Registra que, "quanto à questão de fundo, o cerne da questão reside na possibilidade ou não de o Taifeiro da Aeronáutica, ingresso até 31/12/1992, tendo se utilizado da previsão contida no art. 34 da MP 2.215/2001, quando da passagem à inatividade, valer-se, cumulativamente, das disposições contidas na Lei n.º 12.158/2009" (e-STJ fl. 348).
+Sem contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1.É inviável, em sede de recurso especial, o reexame de matéria fático-probatória, nos termos da Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. OTribunal a quo não emitiu juízo de valor sobre os supostos efeitos da Portaria COMGEP n.1.471-T/AJU, de 25 de junho de 2015, embora suscitados nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento.
+3. Esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1.067.275/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/10/2017, DJe 13/10/2017, e AgInt no REsp 1.631.358/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017), o que não ocorreuin casu.
+4. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Como assinalado na decisão ora agravada,o Tribunal de origem se manifestou nos seguintes termos:
+A Portaria DIRAP nº 8.379/3H1, de 16/11/2010, concedeu ao instituidor a equivalência à graduação de Suboficial, nos termos do art. 1º, parágrafo único, combinado com o art. 5º, inciso V, do Decreto nº 7.188, de 27/05/2010, com efeitos financeiros a contar de 01/07/2010. Outrossim, o primeiro pagamento foi referente ao mês de julho de 2010 e ocorreu no início de agosto de 2010. Os proventos foram alterados em 2019, afirmando o autor não ter sido notificado anteriormente a julho daquele ano. A União não faz demonstração contrária. Evidente, portanto, o transcurso de prazo superior a cinco anos entre a percepção do primeiro pagamento (agosto de 2010) e a comunicação do autor em 03/07/2019, através da TPI nº 2046/2019. Por oportuna, colaciono a fundamentação da sentença que adoto como razões de decidir:
+Nesse passo, a modificação do julgado, nos moldes pretendidos, a fim de se reconhecer os supostos efeitos da PortariaCOMGEP n.1.471-T/AJU, de 25 de junho de 2015,não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do STJ.
+Registre-se que oTribunal a quo não emitiu juízo de valor sobre efeitos da referida portaria, embora suscitados nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento. Incide, na espécie, o óbice da Súmula 211 do STJ.
+É verdade que o art. 1.025 do Código de Processo Civil de 2015 consagrou o "prequestionamento ficto", o qual prescreve, in verbis:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1.067.275/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/10/2017, DJe 13/10/2017, e AgInt no REsp 1.631.358/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017), o que não ocorreu, in casu.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
