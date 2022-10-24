@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  SÉRGIO  BUBULA  e  OUTRAS  contra  a  decisão  que  não  conheceu  do  recurso  devido  à  intempestividade  do  apelo  nobre  (fls.  2.301/2.303  e-STJ).
+Nas  presentes  razões  (fls.  2.305/2.316  e-STJ),  os  agravantes  alegam  o  equívoco  da  decisão  atacada ao  reconhecer  a  intempestividade  do  recurso  especial,  pois  o  próprio  sistema  eletrônico  do  tribunal  de  origem - PROJUDI -  apontou  que  a  leitura  da  intimação  ocorreu  em  7/6/2021,  sendo  desnecessária  a  comprovação  dos  feriados  locais  dos  dias  3  e  4/6/2021.
+Sustentam que  o  fim  do  prazo  para  a  interposição  do  apelo nobre - 28/6/2021 - foi  observado,  constando  do  detalhamento  do  cálculo  realizado  pelo  sistema  eletrônico  do  tribunal  local.
+Afirmam  que
+"(..)
+É  possível  que  os  nobres  Ministros  não  tenham  tempo  de  acompanhar  as  mudanças  que  os  Sistemas  Eletrônicos,  que  são  utilizados  pelos  Tribunais  de  Justiça  estaduais,  sofrem,  mas,  diz-se  aqui,  sob  a  fé  do  Grau  do  Subscritor,  que  se  após  o  prazo  para  o  cumprimento  de  alguma  intimação,  em  não  havendo  manifestação,  o  próprio  sistema  PROJUDI  aponta  que  o  prazo  decorreu  -  DECURSO  DE  PRAZO"  (fl.  2.309  e-STJ).
+Ao  final,  requerem  a  reconsideração  da  decisão  combatida  ou  a  submissão  do  feito  ao  colegiado.
+A  parte  contrária  apresentou  impugnação  (fls.  2.320/2.326  e-STJ) pleiteando a  manutenção  do  julgado  e  a aplicação  de  multa  protelatória.
+Sustenta que,  tendo  em  vista  a  ocorrência  de  feriado  nos  dias  3  e  4/6/2021,  a  leitura  da  intimação  foi  prorrogada  para  o  dia  7/6/2021  (segunda-feira).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  INTEMPESTIVIDADE.  EXPEDIENTE  FORENSE.  SUSPENSÃO.  COMPROVAÇÃO.  INTERPOSIÇÃO  DO  RECURSO.  AUSÊNCIA.  CONTROLE  BIFÁSICO.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  É  intempestivo  o  recurso  especial  protocolizado  após  o  prazo  de  15  (quinze)  dias,  de  acordo  com  o  artigo  1.003,  §  5º,  c/c  artigo  219,  caput,  do  CPC/2015.
+3.  Eventual  documento  idôneo  apto  a  comprovar  a  ocorrência  de  feriado  local  ou  a  suspensão  do  expediente  forense  deve  ser  colacionado  aos  autos  no  momento  de  sua  interposição,  para  fins  de  aferição  da  tempestividade  do  recurso,  a  teor  do  que  dispõe  o  artigo  1.003,  §  6º,  do  CPC/2015.
+4.  O  juízo  de  admissibilidade  recursal  exercido  pelo  Superior  Tribunal  de  Justiça  não  está  vinculado  à  decisão  proferida  pelo  tribunal  de  origem.
+5.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Nos  termos  do  artigo  219,  caput,  do  Código  de  Processo  Civil  de  2015,  a  contagem  dos  prazos  processuais  será  realizada  somente  nos  dias  úteis  e,  nos  termos  do  artigo  1.003,  §  5º,  do  Código  de  Processo  Civil  de  2015,  todos  os  recursos  devem  ser  interpostos  no  prazo  de  15  (quinze)  dias,  exceto  os  embargos  de  declaração.
+O  Superior  Tribunal  de  Justiça,  no  julgamento  do  REsp  nº  1.813.684/SP,  firmou  entendimento  no  sentido  de  que,  na  vigência  do  Código  de  Processo  Civil  de  2015,  a  comprovação  da  tempestividade  recursal  deve  ser  realizada  no  ato  de  interposição  do  recurso,  não  se  aplicando  as  disposições  previstas  nos  artigos  932,  parágrafo  único,  e  1.029,  §  3º,  do  Código  de  Processo  Civil  de  2015.
+Também  está  sedimentado  nesta  Corte  que  a  intimação  eletrônica,  prevista  no  artigo  5º  da  Lei  nº  11.419/2006,  é  efetivada  na  data  em  que  a  parte  realizar  a  leitura  da  intimação,  ou,  não  sendo  feita  a  consulta  em  até  10  (dez)  dias  corridos,  a  intimação  será  automaticamente  realizada  na  data  do  término  de  tal  prazo,  contada  da  data  de  seu  envio.
+Na  hipótese,  dos  autos,  conforme  consignado  na  decisão  impugnada,  o  envio  da  intimação  eletrônica  à  parte  ora  agravante  ocorreu  em  24/5/2021  (segunda-feira)  (fls.  2.079/2.082  e-STJ).Contando-se  o  prazo  de  10  (dez)  dias  corridos  a  partir  de 25/5/2021,  observa-se  como  termo  final  para  a  intimação  tácita  o  dia  3/6/2021  (quinta-feira).
+Nesse  contexto,  o  prazo  recursal  para  a  interposição  do  recurso  especial  iniciou-se  em  4/6/2021  (sexta-feira)  e  findou  em  24/6/2021  (quinta-feira),  de  modo  que  não  há  como  afastar  a  intempestividade  do  recurso  apresentado  apenas  no  dia  28/6/2021  (segunda-feira).
+Assim,  caberia  aos  agravantes  juntar,  no  ato  da  interposição  do  recurso,  provas  de  eventual  suspensão  do  prazo  processual  nos  dias  3  e  4/6/2021,  o  que,  frisa-se,  deve  ser  feito  por  meio  de  documento  idôneo,  expedido  pelo  tribunal  de  origem,  que  afirme  a  existência  de  interrupção  do  serviço  forense  ou  de  feriado  local  no  período  indicado.
+É  bom  lembrar  que  esta  Corte  Superior  consolidou  jurisprudência  no  sentido  de  que  o  dia  de  Corpus  Christi  não  é  feriado  nacional,  sendo  imprescindível  a  comprovação  de  suspensão  do  expediente  forense  na  origem.
+Registra-se,  por  fim,  que  a  ocorrência  de  eventual  feriado  ou  recesso  local  vincula  apenas  a  instância  ordinária,  mas  não  o  Superior  de  Tribunal  de  Justiça,  que  necessita  de  comprovação,  por  meio  de  documento  idôneo,  da  suspensão  do  prazo  processual,  providência  não  cumprida  quando  da  interposição  do  recurso.
+De  fato,  o  juízo  de  admissibilidade  do  recurso  especial  é  bifásico,  ou  seja,
+"(..)a  decisão  proferida  pelo  Tribunal  de  origem  não  vincula  o  Superior  Tribunal  de  Justiça  na  aferição  dos  pressupostos  de  admissibilidade  do  recurso  especial.  Isso  porque  compete  a  esta  Corte,  órgão  destinatário  do  recurso  especial,  o  juízo  definitivo  de  admissibilidade"  (EDcl  no  AREsp  289.109/MG,  Rel.  Ministro  Luis  Felipe  Salomão,  Quarta  Turma,  julgado  em  15/5/2014,  DJe  21/5/2014).
+  Nesse  mesmo sentido:
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECESSO  FORENSE  DE  FINAL  DE  ANO.  SUSPENSÃO  DOS  PRAZOS  NO  PERÍODO  DE  20/1  A  20/2.  INTEMPESTIVIDADE  RECURSAL  EVIDENCIADA.  NÃO  VINCULAÇÃO  AO  JUÍZO  DE  ADMISSIBILIDADE  PROCEDIDO  NA  INSTÂNCIA  DE  ORIGEM.
+(..)
+4.  O  STJ  firmou  entendimento  no  sentido  de  que  "a  decisão  de  admissibilidade  proferida  pelo  Tribunal  local  ou  ainda  a  certidão  de  tempestividade  expedida  por  servidor  na  instância  de  origem  não  vincula  esta  Corte  Superior,  na  medida  em  que  tal  juízo  está  sujeito  ao  duplo  controle,  ou  seja,  aportados  os  autos  neste  Sodalício,  é  imprescindível  nova  análise  dos  pressupostos  recursais"  (EDcl  no  AgInt  no  REsp  1.702.212/ES,  Rel.  Ministro  Felix  Fisher,  Quinta  Turma,  julgado  em  13/3/2018,  DJe  21/3/2018)"  (AgInt  no  AREsp  1.270.928/SP,  Rel.  Ministro  Marco  Buzzi,  Quarta  Turma,  DJe  de  17/8/2018).  No  mesmo  sentido:  AgInt  no  AREsp  1.125.389/RJ,  Rel.  Ministro  Herman  Benjamin,  Segunda  Turma,  DJe  de  2/8/2018;  AgInt  nos  EDcl  nos  EDcl  no  REsp  1.599.447/RJ,  Rel.  Ministro  Mauro  Campbell  Marques,  Segunda  Turma,  DJe  de  11/6/2018;  PET  no  AgInt  no  AREsp  956.354/RJ,  Rel.  Ministro  Francisco  Falcão,  Segunda  Turma,  DJe  de  28/5/2018.
+5.  Agravo  interno  não  provido"  (AgInt  no  AREsp  1.815.613/DF,  Rel.  Ministro  BENEDITO  GONÇALVES,  PRIMEIRA  TURMA,  julgado  em  29/11/2021,  DJe  01/12/2021).
+Assim,  cabe  a  esta  Corte  o  juízo  definitivo  da  admissibilidade  recursal.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
