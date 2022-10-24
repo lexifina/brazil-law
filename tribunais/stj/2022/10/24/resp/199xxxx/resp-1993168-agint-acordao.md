@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+Trata-se de agravo interno interposto por SINDICATO DOS SERVIDORES DA ADMINSTRAÇÃO TRIBUTÁRIA DO ESTADO DO RIO GRANDE DO SUL , contra decisão monocrática de fls. 457/459(e-STJ), a qual negou provimento ao recurso especial interposto pelas partes ora recorrentes.
+O apelo extremo, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafiou, a seu turno, acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim sintetizado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO CIVIL COLETIVA. PRELIMINAR CONTRARRECURSAL. ILEGITIMIDADE ATIVA DO SINDICATO. A LEGITIMIDADE DAS ASSOCIAÇÕES PARA A REPRESENTAÇÃO JUDICIAL DOS SEUS FILIADOS DEPENDE DO PREENCHIMENTO DOS REQUISITOS DE CONSTITUIÇÃO DE MAIS DE UM ANO E DE INCLUSÃO, ENTRE SUAS FINALIDADES INSTITUCIONAIS,DA DEFESA DOS SEUS INTERESSES DIRETAMENTE RELACIONADA COM O OBJETO DA RESPECTIVA AÇÃO, CONFORME OS ARTIGOS 5º, V,"B", DA LEI N. 7.347/85 E 82, IV, DO CDC. NO CASO DOS AUTOS, NÃO FOI CONSTATADA A PERTINÊNCIA TEMÁTICA ENTRE A FINALIDADE DO ENTE AUTOR (DEFESA DE INTERESSES RELACIONADOS À POLÍTICA SALARIAL E MELHORIA DE CONDIÇÕES DE TRABALHO) E O OBJETO DA PRESENTE AÇÃO CIVIL COLETIVA (DEFESA DOS CONSUMIDORESSINDICALIZADOS EM FACE DA NEGATIVA DE CONCESSÃO DO EMPRÉSTIMO RELATIVO AO ADIANTAMENTO DO DÉCIMO TERCEIRO SALÁRIO PELA INSTITUIÇÃO FINANCEIRA RÉ), RAZÃO PELA QUAL O SINDICATO É PARTE ILEGÍTIMA PARA FIGURAR NO POLO ATIVO DADEMANDA. ASSIM, MERECE SER ACOLHIDA A PRELIMINAR RECURSAL PARA RECONHECER A ILEGITIMIDADE ATIVA, DE MODO QUE AEXTINÇÃO DO FEITO, SEM RESOLUÇÃO DE MÉRITO, A TEOR DO ART.485, VI, DO CPC, É MEDIDA QUE SE IMPÕE, RESTANDO PREJUDICADAS AS DEMAIS QUESTÕES DE MÉRITO DO AGRAVO DE INSTRUMENTO. PRELIMINAR CONTRA RRECURSAL ACOLHIDA. AÇÃO CIVIL COLETIVA EXTINTA, SEM RESOLUÇÃO DE MÉRITO. AGRAVO DE INSTRUMENTO PREJUDICADO QUANTO ÀS QUESTÕES DE MÉRITO. POR UNANIMIDADE.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial (fls. 281/304 , e-STJ), o recorrente apontou, além de dissídio jurisprudencial, violação, pelo aresto estadual, aos arts. 489 e 1.022 do CPC, 82, inciso IV, do CDC e 5.º da Lei n. 7347/85.
+Sustentou, em síntese:
+a) omissão na análise dos argumentos trazidos que levariam ao reconhecimento da sua legitimidade para a propositura da ação coletiva;
+b) sua legitimidade para propositura da ação, uma vez que "não ajuizou a ação com o intuito de fazer valer normas de cunho consumerista, mas sim uma legislação estadual que previa o pagamento de gratificações natalinas aos servidores associados mediante a disponibilização de uma linha de crédito do banco Banrisul.";
+c) a necessidade de distinção entre a legitimação dos sindicatos das associações.
+Contrarrazões às fls. 379/394, e-STJ.
+Após decisão de admissão do recurso especial (fls. 400/405, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+Por decisão monocrática (fls. 457/459, e-STJ), este signatário negou provimento ao recurso especial ante a ausência de negativa de prestação jurisdicional ecom amparo no enunciado contido naSúmula 7/STJ.
+Em suas razões de agravo interno (fls. 481/500, e-STJ), a recorrente refuta os fundamentos em que se lastreou o decisum hostilizado, oportunidade em que reafirma os argumentos deduzidos no apelo nobre.
+Impugnação às fls. 502/506, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL - AGRAVO DE INSTRUMENTO -DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa aoartigo 1.022 do CPC/15.
+2.O Tribunal a quo,com base nos elementos fático-probatórios dos autos e na interpretação do estatuto social da recorrida, concluiu pela ilegitimidade ativa desta para a propositura da ação civil pública, de forma que rever esse entendimento e acolher a pretensão recursal ensejaria o revolvimento do conteúdo fático-probatório dos autos, o que é vedado pelo teor daSúmula7 do STJ.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O presente recurso não merece prosperar, porquanto as razões expendidas pela parte agravante são insuficientes a derruir a fundamentação do decisum ora impugnado, motivo pelo qual ele merece ser mantido na íntegra por seus próprios fundamentos.
+1.Conforme anteriormente decidido e consoante a jurisprudência deste Superior Tribunal de Justiça, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Saliente-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como de fato ocorreu na hipótese dos autos.
+Assim, a apontada violação ao art. 1.022 do CPC/15 não se efetivou no caso dos autos, uma vez que não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de tornar nula a decisão impugnada no especial, porquanto a Corte de origem apreciou a demanda de modo suficiente, havendo se pronunciado acerca de todas as questões relevantes.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A DESERÇÃO. INSURGÊNCIA DO AGRAVANTE.
+1. Verificada a concessão da gratuidade da justiça ao recorrente,
+deve ser afastada a deserção.
+2. Segundo a reiterada jurisprudência deste Superior Tribunal de Justiça, não há que se confundir decisão contrária aos interesses da parte com negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes
+4. Agravo interno provido para, de plano, conhecer e negar provimento ao agravo em recurso especial. (AgInt no AREsp 1610904/SP, minha relatoria, QUARTA TURMA, julgado em 26/10/2020, Dje 29/10/2020)
+2. Quanto ao mérito da insurgência, o Tribunal de origem concluiu pela ilegitimidade ativa do sindicato, conforme trecho abaixo transcrito (e-STJ, fls. 230):
+No caso dos autos, verifica-se que, muito embora o Sindicato autor tenha sido constituído há mais de um ano, o segundo requisito não restou preenchido, vez que não se encontra em seu Estatuto Social a finalidade específica de defender os direitos do consumidor relativamente aos seus associados, havendo apenas previsão genérica acerca da representação judicial (Evento 1,ESTATUTO 4, art. 2º, I).
+Neste particular, a petição inicial não deixa dúvidas de que a questão envolve a proteção dos servidores públicos sindicalizados em face da relação de consumo advinda dos respectivos contratos de abertura de conta corrente, pretendendo o autor a concessão do empréstimo relativo ao adiantamento da gratificação natalina, conforme exsurge-se dos seguintes trechos da inicial (Evento 1 - INIC1):
+Dessa maneira, depreende-se que o Colegiado estadual julgou a lide com base no substrato fático-probatório dos autos, cujo reexame é vedado em âmbito de Recurso Especial, ante o óbice do enunciado 7 da Súmula deste Tribunal. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. AÇÃO CIVIL PÚBLICA. LEGITIMIDADE ATIVA. SÚMULAS 5, 7 E 83 DO STJ. RECURSO NÃO PROVIDO.
+1. A Corte local, com base nos elementos fático-probatórios dos autos e na interpretação do estatuto social da recorrida, concluiu pela legitimidade ativa desta para a propositura da ação civil pública, de forma que rever esse entendimento e acolher a pretensão recursal ensejaria o revolvimento do conteúdo fático-probatório dos autos e o estatuto social da associação, o que é vedado pelo teor das Súmulas 5 e 7 do STJ.
+2. Considerando a moldura fática delineada no acórdão recorrido, o entendimento da Corte local sobre a legitimidade ativa da associação recorrida está em conformidade com a jurisprudência do STJ.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 895.405/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 03/10/2017, DJe 06/10/2017)
+AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA PROPOSTA PELA DEFENSORIA PÚBLICA. IMÓVEIS VIZINHOS ATINGIDOS POR INFILTRAÇÕES EM MURO. PRELIMINAR DE ILEGITIMIDADE ATIVA REJEITADA. CARÁTER COLETIVO DA AÇÃO. DANOS COM ORIGEM FÁTICA COMUM. VIOLAÇÃO DE LEI FEDERAL. ACÓRDÃO EM HARMONIA COM ENTENDIMENTO NO STJ NA MATÉRIA. SÚMULA 83 DO STJ. AUSÊNCIA DE DEMONSTRAÇÃO DA VIOLAÇÃO INDICADA. SÚMULA 284 DO STF. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento da Corte local sobre legitimidade ativa da Defensoria Pública para a demanda coletiva ajuizada atrai a incidência da Súmula 83 do STJ.
+2. A ausência de demonstração da violação dos dispositivos de lei indicados constitui deficiência das alegações, não permitindo a exata compreensão da controvérsia. Incidência da Súmula 284-STF.
+3. As razões do recurso especial desafiam as premissas fática estabelecidas no acórdão recorrido sobre a relevância social da pretensão inicial para concluir pela existência de direito individual homogêneo apto a garantir a legitimidade ativa para o ingresso de ação civil pública pela Defensoria Pública (Súmula 7 do STJ).
+4. Agravo interno não provido.(AgInt no REsp 1850030 / MA, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em24/05/2021, DJe27/05/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. ASSOCIAÇÃO NACIONAL DE DEFESA DOS CONCURSOS PARA CARTÓRIOS. ANDECC. LEGITIMIDADE ATIVA. ART. 5º, V, DA LEI 7.347/1985. REQUISITOS COMPROVADOS NA ORIGEM. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7 DO STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Diante dos fundamentos assentados no acórdão recorrido, verifica-se que, para rever o entendimento da instância a quo no sentido de averiguar a legitimidade ativa da Associação Nacional de Defesa dos Concursos para Cartórios, ora agravada, para propor ação civil pública na origem, demandaria a interpretação de suas cláusulas estatutárias e o reexame das provas dos autos, medidas vedadas em recurso especial, ante os óbices fundados nas Súmulas 5 e 7 do STJ. Precedentes.
+2. Agravo interno a que se nega provimento. (AgInt no Ag no REsp 1671396 / MG, Rel. Min.Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 15/08/2018, Dje 25/05/2018)
+De rigor, portanto, a manutenção da decisão ora impugnada.
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
