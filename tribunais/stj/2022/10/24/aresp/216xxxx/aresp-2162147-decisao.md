@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MAPFRE SEGUROS GERAIS S/A, contra decisão que negou seguimento a recurso especial fundamentadonasalíneas"a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 15/06/2022.
+Concluso ao gabinete em: 09/08/2022.
+Ação: cobrança de seguro obrigatório - DPVAT, ajuizada por ROSENI GONÇALVES TAVARES, em face de MAPFRE SEGUROS GERAIS S.A, pleiteando o pagamento do Seguro DPVAT no valor de R$ 11.812,50 (onze mil oitocentos e doze reais e cinquenta centavos) conforme previsto pela Lei nº 6.194/73.
+Sentença: julgouparcialmente procedente o pedido de ROSENI GONÇALVES TAVARES para condenar a agravante ao pagamento: i) do valor de R$ 675,00 (seiscentos e setenta e cinco reais), corrigido monetariamente a partir do evento danoso (Súmula n. 580 do STJ), qual seja, 14/02/2020, aplicando-se o INPC, acrescido de juros moratórios de 1% (um por cento) ao mês, a partir da citação; ii) das custas processuais e honorários advocatícios, estes arbitrados em R$ 1.000,00 (mil reais).
+Acórdão: negou provimento à apelação interposta por MAPFRE SEGUROS GERAIS S.A, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO DPVAT. ÔNUS SUCUMBENCIAIS. INCIDÊNCIA DA SÚMULA 51 DO TJGO. VERBA HONORÁRIA ADVOCATÍCIA. FIXAÇÃO POR APRECIAÇÃO EQUITATIVA. HONORÁRIOS NA FASE RECURSAL. MAJORAÇÃO.
+1. Nos termos do teor sumular 51 deste Sodalício: "em ação de cobrança de seguro DPVAT, mesmo que o valor da condenação seja inferior ao pleiteado na inicial, devem os ônus da sucumbência recair sobre a parte requerida, não havendo sucumbência recíproca em tal hipótese".
+2. Sendo o valor da condenação baixo, normativamente autorizada a fixação dos honorários advocatícios por apreciação equitativa, observando-se o grau de zelo do profissional, o lugar de prestação do serviço, a natureza e importância da causa e o trabalho realizado pelo advogado e o tempo exigido para o seu serviço (artigo 85, §§ 2º e 8º, do Código de Processo Civil).
+3. Majoração dos honorários advocatícios em sede recursal que se impõe, em razão doconhecimento e negativa de provimento do recurso de apelação (art. 85, §11, do Estatuto Processual Civil).
+RECURSO CONHECIDO E NÃO PROVIDO. (e-STJ fls. 195/196)
+Recurso especial: alega violação doart. 85, §2º do CPC, bem como dissídio jurisprudencial. Sustenta que "os honorários advocatícios sucumbenciais, comparados ao valor da condenação imposta, revelam que o patrono da parte ora recorrida receberá importância manifestamente exorbitante e desproporcional, equivalente a mais de 140% do valor arbitrado a título de indenização".(e-STJ fls. 202)
+RELATADO O PROCESSO, DECIDE-SE.
+- Do Tema 1076 do STJ
+A Corte Especial, com a ressalva do meu entendimento,fixou as seguintes teses ao julgar o Tema 1076:
+i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo." (Tema 1076, DJe de 31/05/2022)
+Na hipótese o valor da condenação foi de R$ 675,00 (seiscentos e setenta e cinco reais) e o acórdão concluiu que "demonstrada o reduzido proveito econômico e sendo o caso de aplicação dos honorários advocatícios sobre o valor da condenação, os honorários devem ser arbitrados de forma equitativa, fazendo incidir a disposição contida no art.85, §8º, do Código de Processo Civil" (e-STJ fl. 194).
+Logo, o acórdão do TJGO, ao manter o arbitramento por equidade dos honorários de sucumbência em R$ 1.000,00 (mil reais), alinhou-se àsegunda tese do Tema 1076 do STJ e não merece reforma.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, IV, "b", do CPC/2015, CONHEÇO o recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em R$ 1.500,00 para R$ 2.000,00 (dois mil reais)(e-STJ fls. 195).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO - DPVAT. TEMA 1076 DO STJ. HARMONIA DO ACÓRDÃO RECORRIDO COM AS TESES FIXADAS.
+1. Ação de cobrança de seguro obrigatório - DPVAT.
+2. A Corte Especial do STJ, com a ressalva do meu entendimento,fixou as seguintes teses ao julgar o Tema 1076: "i) A fixação dos honorários por apreciação equitativa não é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa. ii) Apenas se admite arbitramento de honorários por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo".
+3. Agravo conhecido. Recurso especial não provido.
