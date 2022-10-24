@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial, com fundamento na Súmula 7/STJ.
+Nas razões do especial, aponta a defesa violação doart. 15da Lei 10.826/2003.
+Sustenta que "o dispositivo legal não se aplica a conduta de disparar em zona erma não habitada, ante ausência de potencialidade lesiva" (fl. 265).
+Requer, assim, o provimento do recurso especial, a fim de que seja absolvido.
+Apresentada a contraminuta, manifestou-se o Ministério Público Federal pelo improvimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito.
+Consta dos autos que o réu foi condenado como incurso no art. 15 da Lei 10.826/2003. O Tribunal de origem manteve a sentença condenatória, com base nos seguintes fundamentos (fls. 230-:
+Nos termos do art. 15 da Lei no 10.826/03, o delito previsto como disparo de arma de fogo se caracteriza pelo simples ato de "disparar arma de fogo ou acionar munição em lugar habitado ou em suas adjacências, em via pública ou em direção a ela, desde que essa conduta não tenha como finalidade a prática de outro crime".
+Nessa ótica, por se tratar de um crime de perigo abstrato, sendo o conjunto probatório presente nos autos coeso, idôneo e capaz de comprovar a autoria e a materialidade do disparo de arma de fogo, descrito na exordial, a confirmação da condenação do réu é medida que se impõe.
+A materialidade e autoria delitivas encontram-se demonstradas pelo laudo pericial de eficiência em arma de fogo e munição (fls. 66/68) e através da prova oral colhida nos autos.
+A testemunha, Geraldo Mendes Leite, policial militar, ao ser ouvida em juízo, asseverou (mídia digital, fl. 105):
+"(..) que quando chegou ao local, a vítima se encontrava bastante agredida; que tinha sofrido chutes nos rosto; (..) que segundo informações da vítima, o acusado chegou e colocou a arma na cabeça dele; que efetuou dois disparos, mas a arma não disparou; que quando ele a colocou a arma para o alto, ela disparou duas vezes; que em seguida o acusado foi pra casa dele; que o enteado da vítima tem problemas mentais;
+(..) que foram diligenciar na casa do acusado e encontraram a arma lá; que o acusado não tinha porte de arma (..)"
+O policial militar, João Paulo Nascimento Ferreira, asseverou perante a autoridade judicial (mídia digital, fl. 105):
+"(..) que quando a gente chegou lá o acusado tinha ameaçado a vítima, dizendo que o enteado tinha subtraído trezentos reais dele e tava com porte, com a arma; que fez um disparo pra cima, outro pro chão e apontou a arma para vítima, só que ela pinou; que a arma estava na residência do acusado; (..) que tinha munição intacta; (..) que o acusado não tinha porte de arma"
+A vítimaPaulo Coelho, declarou na esfera judicial (mídia digital, fl. 105):
+"(..)que o réu correu para a casa dele, pegou a arma e deu logo um tiro de lá; que quando chegou, perguntou ao depoente se ele ia entrar para dentro de casa; que o depoente disse que ia; que demorou entrar em casa porque tinha tomado remédio, que é diabético e tinha tomado a insulina; que o réu o empurrou na calçada e deu um chute em sua cabeça; (..) que encostou a arma perto de sua cabeça; que tentou pegar a arma e disparou para cima; (..) que ele foi pegar outra arma em casa dizendo que aquela não prestava; (..) que ele tentou matar três vezes, mas a bala pinou."
+Por sua vez, o réu em seu interrogatório na fase judicial negou a acusação, disse que o sobrinho da vítima subtraiu uma quantia em dinheiro e que, primeiro, ele foi falar com a família para tentar resolver a situação. Relatou que teve uma discussão verbal, mas asseverou que a arma jamais saiu de sua casa e que não efetuou os disparos de arma de fogo (mídia digital, fl. 102).
+In casu, a prova carreada aos autos demonstra que realmente foi utilizado o artefato em local habitado, em via pública, incorrendo, portanto, no tipo penal descrito no art. 15 da Lei nº 10.826/2003.
+Ademais, para a caracterização do delito é suficiente que o disparo tenha sido efetuado em local habitado ou em suas adjacências, sendo prescindível qualquer resultado naturalístico ou a ocorrência de perigo concreto. Há, na espécie, uma presunção legal absoluta da efetivação de um risco à sociedade.
+Nesse sentido:
+EMENTA: APELAÇAO CRIMINAL - POSSE E DISPARO DE ARMA DE FOGO - ABSOLVIÇÃO - LEGÍTIMA DEFESA - INOCORR NCIA - CRIMES FORMAIS E DE PERIGO ABSTRATO - CONDENAÇÃO MANTIDA - RECURSO DESPROVIDO - DE OFÍCIO RECONHECIDA A ATENUANTE DA MENORIDADE RELATIVA.
+- Para se configurar a excludente de ilicitude da legítima defesa imperioso que o agente reaja a uma agressão atual ou iminente e injusta, em defesa de direito próprio ou alheio, com uso moderado dos meios necessários, o que não se verifica no caso dos autos.
+- Os delitos previstos nos artigos 12 e 15, ambos da Lei 10.826/03, são crimes formais e de perigo abstrato, prescindindo, portanto, à sua configuração, a demonstração do efetivo perigo, bastando a comprovação de que o agente possuía arma de fogo e efetuou, voluntária e conscientemente, disparos com ela em lugar habitado.
+- Se o acusado era menor de 21 anos de idade à época dos fatos, faz jus à atenuante da menoridade relativa.
+(T.1MG - Apelação Criminal 1.0472.17.000270- 4/001, Relator(a): Des.(a) Furtado de Mendonça 6a CÂMARA CRIMINAL, julgamento em 07/07/2020, publicação da súmula em 29/07/2020)
+"APELAÇÃO CRIMINAL. DISPARO DE ARMA DE FOGO.
+Sentença condenatória. Irresignação defensiva.
+Pretendida a absolvição. Impossibilidade. Materialidade e autoria irrefutáveis. Recurso desprovido. - Nos termos do art. 15 da Lei no 10.826/03, o delito previsto como disparo de arma de fogo se caracteriza pelo simples ato de "disparar arma de fogo ou acionar munição em lugar habitado ou em suas adjacências, em via pública ou em direção a ela", tratando-se de um crime de perigo abstrato e de mera conduta. - A negativa da autoria formulada pelo réu, isolada e inverossímil diante da lógica proporcionada pelas provas colhidas ao longo da instrução, não possui o condão de afastar o decreto condenatório." (T)PB - ACÓRDÃO/DECISÃO do Processo No 00027506420098150131, Câmara Especializada Criminal, Relator MIGUEL DE BRITTO LYRA FILHO, j. em 27-09-2018) - Destaquei.
+Destarte, considerando que o conjunto probatório coligido aponta, induvidosamente, para o norte de que o apelante praticou o delito tipificado na peça pórtica, não há que se falar em absolvição e nem a aplicação do princípio in dublo pro reo.
+Como se vê, as instâncias ordinárias condenaram o recorrente fundamentadamente com base nos elementos colhidos nos autos, assentando que "a prova carreada aos autos demonstra que realmente foi utilizado o artefato em local habitado, em via pública, incorrendo, portanto, no tipo penal descrito no art. 15 da Lei nº 10.826/2003".
+Assim, tendo as instâncias ordinárias concluído pela autoria e materialidade delitiva, com base nas provas produzidas nos autos, a pretendida reversão das premissas fáticas do julgado, firmadas no sentido de que os disparos foram efetuados em local habitado, para fins de absolvição, demandaria o revolvimento do conjunto fático-probatório, inadmissível a teor da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
