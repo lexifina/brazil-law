@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por GEMPLUS INTERNATIONALem face de decisão monocrática que acolheu o agravo interno para restaurar decisão que arbitrou honorários advocatícios, nos termos da seguinte ementa:
+AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. ACOLHIMENTO. MATÉRIA DE ORDEM PÚBLICA. AUSENTE PRECLUSÃO. ACOLHO O AGRAVO INTERNO PARA RESTAURAR DECISÃO PROFERIDA. (e-STJ, fl. 580)
+A agravante sustenta, em síntese, que "as regras de direito intertemporal definem como norma aplicável aos honorários advocatícios aquela vigente na data da prolação da decisão que os fixaram ou deveria tê-los fixado, no caso, a decisão proferida em 26/04/2011" (e-STJ, fl. 591).
+Defende que a discussão sobre incidência de honorários, nesta fase processual, é questão abarcada pelo instituto da preclusão.Subsidiariamente, pleiteia que a condenação seja fixada por equidade.
+Impugnação apresentada (e-STJ, fls. 603/610).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO ACOLHIDA. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. POSSIBILIDADE. PRECEDENTES.
+AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+VOTO
+Eminentes colegas, a decisão agravada não merece reforma.
+Conforme consignado na decisão agravada"a jurisprudência do STJ firmou-se no sentido de que os honorários advocatícios, enquanto consectários legais da condenação principal, possuem natureza de ordem pública, podendo ser revistos a qualquer momento e até mesmo de ofício, sem que isso configure reformatio in pejus" (STJ, AgInt no REsp 1.722.311/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/06/2018).
+Nesse sentido:
+RECURSOS ESPECIAIS. AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE LIMITDA. LIQUIDAÇÃO DE SENTENÇA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. AVALIAÇÃO IMOBILIÁRIA. DEDUÇÃO DE TRIBUTOS E DE TAXA DE CORRETAGEM. SÚMULA 7/STJ. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 284/STF. RISCO DE LOCUPLETAMENTO ILÍCITO. JUROS DE MORA. MARCO INICIAL. PRECLUSÃO. SÚMULA 83/STJ. SÚMULA 284/STF. HONORÁRIOS SUCUMBENCIAIS. SÚMULA 7/STJ. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA. SUPRESSÃO DE INSTÂNCIA. INOCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA. SÚMULA 83/STJ.
+1. Ação ajuizada em 24/11/1992. Recursos especiais interpostos em 24/9/2014 e 23/10/2014. Autos atribuídos à Relatora em 16/6/2017.
+2. O propósito recursal, além de verificar a ocorrência de negativa de prestação jurisdicional, é examinar se são cabíveis as deduções impostasobre os haveres devidos ao sócio retirante, definir o marco inicial da fluência de juros de mora e verificar a adequação do valor e da forma de distribuição dos honorários advocatícios de sucumbência.
+3. Ausentes os vícios do art. 535 do CPC/73, rejeitam-se os embargos de declaração.
+4. Analisar se a sociedade parcialmente dissolvida precisará ou não alienar ativos imobiliários para pagar os haveres devidos ao sócio retirante exigiria o exame de questões fático-probatórias, o que não é viável em recurso especial (Súmula 7/STJ).
+5. O argumento de que a irresignação com o resultado da avaliação imobiliária foi deduzida a destempo - o que inviabilizaria a atualização pretendida -, não foi impugnado pelo recorrente, circunstância que atrai o óbice de admissibilidade cristalizado na Súmula 283/STF.
+6. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+7. A ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema.
+8. A decisão do juízo de primeiro grau não resolveu a questão atinente ao marco inicial dos juros de mora, mas, tão somente, deu aplicação ao que já estava decidido em momento prévio. A forma de fluência decorre logicamente da decisão que deu origem à fase de liquidação de sentença, sendo certo que o devedor apenas incorrerá em mora na hipótese de não adimplir a obrigação no prazo fixado.
+9. O termo inicial dos encargos moratórios decorrentes do pagamento de haveres devidos ao sócio retirante conta-se da data da liquidação. Precedentes.
+10. A análise da insurgência quanto aos critérios orientadores da distribuição e da quantificação dos honorários sucumbenciais esbarra no óbice da Súmula 7/STJ.
+11. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+12. Não se verifica a ocorrência de inovação recursal ou supressão de instância, pois o arbitramento da verba honorária decorreu de pedido expresso deduzido nas razões do agravo de instrumento, interposto diante da negativa do juízo de primeiro grau em reconhecer sua incidência na atual fase do processo.
+13. Ademais, na forma da jurisprudência do STJ, os honorários advocatícios, enquanto consectários da condenação principal, possuem natureza de ordem pública. RECURSOS ESPECIAIS NÃO PROVIDOS.
+(REsp 1783250/DF,Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/02/2019, DJe 06/03/2019 - grifou-se)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS. DEFENSOR DATIVO. PARÂMETROS. TABELA DA OAB. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. HONORÁRIOS ADVOCATÍCIOS. CONSECTÁRIO LÓGICO DA SUCUMBÊNCIA. REFORMATIO IN PEJUS. INOCORRÊNCIA. PRECEDENTES DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 01/06/2018, que julgara Recurso Especial interposto contra acórdão publicado na vigência do CPC/73.
+II. Na origem, o Estado do Ceará interpôs recurso de Apelação contra sentença que rejeitara liminarmente os Embargos à Execução, opostos em face de Fernando Franco Júnior, advogado dativo nomeado em razão das férias da Defensora Pública da Comarca de Uruburetama/CE. O acórdão recorrido negou provimento ao recurso, ressaltando que "foram arbitrados, em favor do Embargado, honorários advocatícios no montante de R$ 800,00 (oitocentos reais). Aos defensores nomeados é incontestável o direito de auferir honorários pelo trabalho exercido, conforme dispõe o art. 22, 1º do Estatuto da Ordem dos Advogados do Brasil".
+III. O Recurso Especial é manifestamente inadmissível, por falta de prequestionamento, no que tange à tese recursal de que o arbitramento dos honorários advocatícios deve observar os valores mínimos estabelecidos na tabela da OAB, pois não foi ela objeto de discussão, nas instâncias ordinárias, sequer implicitamente, razão pela qual não há como afastar o óbice da Súmula 211/STJ.
+IV. Não havendo sido apreciada a questão suscitada nas razões da Apelação, mesmo após a oposição dos Embargos Declaratórios, a parte recorrente deveria vincular a interposição do Recurso Especial à violação ao art. 535 do CPC/73 e, não, aos dispositivos apontados como violados, mas não apreciados, tal como ocorreu, na espécie. Precedentes do STJ.
+V. Na forma da jurisprudência do STJ, "os honorários advocatícios, enquanto consectários legais da condenação principal, possuem natureza de ordem pública, podendo ser revistos a qualquer momento e até mesmo de ofício, sem que isso configure reformatio in pejus" (STJ, AgInt no REsp 1.722.311/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 28/06/2018). No mesmo sentido: AgInt no AREsp 927.975/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 20/11/2017.
+VI. Agravo interno improvido.
+(AgInt no REsp 1742809/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 11/12/2018, DJe 18/12/2018 - grifou-se)
+Além disso, o entendimento exarado pela decisão agravadaencontra ressonância na jurisprudência deste Superior Tribunal, no sentido de que o acolhimento da impugnação ao cumprimento de sentença, além de permitir a fixação de honorários, não enseja o início de novo procedimento, visto que atrelada à própria abertura do cumprimento de sentença em si, o qual admite a fixação de honorários advocatícios.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECURSO DA AGRAVANTE. INSURGÊNCIA DA PARTE AGRAVADA.
+1. Nos termos do entendimento sedimentado em sede de recurso repetitivo (REsp 1.134.186/RS, representativo de controvérsia na forma do art. 543-C, do CPC/1973 - tema 408) a rejeição da impugnação ao cumprimento de sentença não enseja a condenação em honorários advocatícios (Súmula nº 519 do STJ). 1.1 Em que pese tal pronunciamento tenha sido estabelecido sob a égide do diploma processual civil revogado, a deliberação se mantém, também, para contendas estabelecidas no âmbito do NCPC, porquanto a impugnação ao cumprimento de sentença (seja ela definitiva ou provisória) não enseja o início de novo procedimento, visto que atrelada à própria abertura do cumprimento de sentença em si, o qual já admite, por força do art. 85, § 1º, do NCPC a fixação de honorários advocatícios.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.747.288/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/5/2021, DJe de 28/5/2021 - grifou-se)
+Ante o exposto, nego provimento ao agravo interno, advertindo que a oposição de novos incidentes processuais infundados poderá dar ensejo à aplicação de multa por conduta indevida.
+É o voto.
