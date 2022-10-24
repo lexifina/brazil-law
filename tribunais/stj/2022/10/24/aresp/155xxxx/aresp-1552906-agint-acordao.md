@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ELIETE  DE  ALMEIDA  REIS  contra  a  decisão  (  fls.  681-685  e-STJ)  que  conheceu  do  agravo  para  negar  provimento  ao  recurso  especial devido aos  seguintes  fundamentos:
+(i)  ausência  de  prequestionamento  quanto  ao  apontado  cerceamento  de  defesa  decorrente  do  julgamento  antecipado  da  lide, e
+(ii)  incidência  da  Súmula  nº  7/STJ  no  que  se  refere  à  ausência  de  cerceamento  de  defesa  pelo  julgamento  antecipado  da  lide,  do  reconhecimento  da  outorga  uxória  quanto  à  venda  do  imóvel e  do  direito  de  preferência  do cônjuge  virago.
+Nas  presentes  razões  (fls.  688-708  e-STJ),  a  agravante  rebate  a  decisão  atacada,  afirmando  que,
+"(..)  apesar  do  alegado  pelo  Nobre  Ministro  Relator  que  houve  inovação  recursal,  que  não  houve  cerceamento  de  defesa,  que  houve  anuência  da  esposa  do  agravado  a  qual  é  parte  da  demanda  processual,  que  não  houve  violação  a  persuasão  racional  das  provas,  inexistência  de  similitude  fática  entre  o  arresto  combatido  e  a  os  acórdãos  paradigmas  e  incidência  da  Sumula  7,  não  pode  prosperar  e  comporta  reforma  (..)"  (fl.  695  e-STJ).
+Logo  após,  repisa  os  fundamentos  do  recurso  especial,  já  analisados  pela  decisão  ora  recorrida,  requerendo,  ao  final,  a  sua  reforma.
+Devidamente  intimada,  a  parte  contrária  não  apresentou  impugnação  (fl.  712  e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  EXTINÇÃO  DE  CONDOMÍNIO.  JULGAMENTO  ANTECIPADO  DA  LIDE.  CERCEAMENTO  DE  DEFESA.  NÃO OCORRÊNCIA.  REVISÃO.  CONJUNTO  FÁTICO-PROBATÓRIO  .  SÚMULA  Nº  7/STJ.  OUTORGA  UXÓRIA  . RECONHECIMENTO.  SÚMULA  Nº  7/STJ.  INCIDÊNCIA.  VENDA  DO  IMÓVEL.  DIREITO  DE  PREFERÊNCIA  . OBSERVÂNCIA.  REEXAME.  IMPOSSIBILIDADE.  SÚMULA  Nº  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  As  questões  de  ordem  pública,  embora  passíveis  de  conhecimento  de  ofício  nas  instâncias  ordinárias,  não  prescindem,  no  estreito  âmbito  do  recurso  especial,  do  requisito  do  prequestionamento.
+3.  O  recurso  especial  é  inviável  quando  a  modificação  das  conclusões  adotadas  no  acórdão  recorrido  demanda  o  reexame  do  conjunto  fático-probatório  dos  autos, conforme dispõe a Súmula nº 7/STJ.
+4.  Na  hipótese,  para  alterar  a  conclusão  do  tribunal  de  origem  acerca  da  ausência  de  cerceamento  de  defesa  pelo  julgamento  antecipado  da  lide,  do  reconhecimento  da  outorga  uxória  quanto  à  venda  do  imóvel e  do  direito  de  preferência  do cônjuge  virago,  seria  necessário  o  revolvimento  dos  fatos  e  das  provas  analisadas  na  origem,  o  que  é  vedado  em  recurso  especial  em virtude das disposições da  Súmula  nº  7/STJ.
+5.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merecer  prosperar.
+No  tocante  ao  alegado  cerceamento  de  defesa,  conforme  consignado  na  decisão  atacada,  não  configura  cerceamento  o  julgamento  da  causa,  sem  a  produção  de  prova,  quando  o  tribunal  de  origem  entender  substancialmente  instruído  o  feito,  declarando  a  existência  de  provas  suficientes  para  seu  convencimento.
+Com  efeito,  devem  ser  levados  em  consideração  os  princípios  da  livre  admissibilidade  da  prova  e  do  livre  convencimento  do  juiz,  que,  nos  termos  do  art.  370  do  Código  de  Processo  Civil  de  2015,  permitem  ao  julgador  determinar  as  provas  que  entender  necessárias  à  instrução  do  processo,  bem  como  o  indeferimento  das  que  considerar  inúteis  ou  protelatórias.
+Dessa  forma,  não  há  falar  em  nulidade  processual  por  ausência  de  produção  de  prova,  visto  que  a  decisão  recorrida  procedeu  à  devida  análise  dos  fatos  e  sua  adequação  ao  direito.
+Rever  os  fundamentos  do  acórdão  recorrido  quanto  ao  ponto,  demandaria  reapreciação  do  conjunto  probatório,  procedimento  vedado  em  recurso  especial,  a  teor  da  Súmula  nº  7/STJ.
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  INDENIZAÇÃO  POR  DANOS  MATERIAIS  E  MORAIS.  1.  INDEFERIMENTO  DA  DENUNCIAÇÃO  DA  LIDE  E  ALEGAÇÃO  DE  CERCEAMENTO  DE  DEFESA.  ALTERAÇÃO.  IMPOSSIBILIDADE.  SÚMULAS  N.  5  E  7  DO  STJ.  2.  ANÁLISE  DO  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADA.  3.  AGRAVO  INTERNO  IMPROVIDO.
+1.  Alterar  a  conclusão  do  Tribunal  local  para  acolher  a  pretensão  recursal,  quanto  à  existência  de  cerceamento  de  defesa  pelo  julgamento  antecipado  da  lide  e  ao  indeferimento  do  pedido  de  denunciação  da  lide,  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos  e  a  análise  e  interpretação  de  cláusulas  contratuais,  o  que  se  mostra  inviável  ante  a  natureza  excepcional  da  via  eleita,  consoante  enunciado  das  Súmulas  n.  5  e  7  do  Superior  Tribunal  de  Justiça.
+2.  A  análise  do  dissídio  jurisprudencial  fica  prejudicada  em  razão  da  aplicação  do  enunciado  da  Súmula  n.  7/STJ,  porquanto  não  é  possível  encontrar  similitude  fática  entre  o  aresto  combatido  e  os  arestos  paradigmas,  uma  vez  que  as  suas  conclusões  díspares  ocorreram,  não  em  virtude  de  entendimentos  diversos  sobre  uma  mesma  questão  legal,  mas,  sim,  de  fundamentações  baseadas  em  fatos,  provas  e  circunstâncias  específicas  de  cada  processo.
+3.  Agravo  interno  improvido"  (AgInt  no  AREsp  1.265.464/SP,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  Terceira  Turma,  julgado  em  26/6/2018,  DJe  29/6/2018  -  grifou-se).
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  (ART.  1042  DO  CPC/15)  -  AÇÃO  DECLARATÓRIA  DE  RESCISÃO  CONTRATUAL  C/C  DESPEJO,  ARBITRAMENTO  E  COBRANÇA  DE  ALUGUEL  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO  -  INSURGÊNCIA  RECURSAL  DOS  RÉUS.
+1.  A  jurisprudência  do  STJ  se  firmou  no  sentido  de  que  a  impugnação,  no  agravo,  de  capítulos  autônomos  da  decisão  recorrida  apenas  induz  a  preclusão  das  matérias  não  impugnadas.
+2.  As  conclusões  adotadas  pelo  órgão  julgador  no  sentido  de  competir  ao  juiz  decidir  sobre  a  produção  de  provas  necessárias,  ou  indeferir  aquelas  que  tenha  como  inúteis  ou  protelatórias,  não  implicando  em  cerceamento  de  defesa  o  indeferimento  da  dilação  probatória,  estão  em  consonância  com  a  jurisprudência  desta  Corte  Superior,  atraindo  a  aplicação  da  Súmula  83  do  STJ.
+3.  O  Tribunal  local,  após  análise  do  conjunto  probatório  constante  dos  autos,  considerou  que  se  insere  no  poder  de  livre  apreciação  da  prova  do  magistrado  decidir  sobre  a  possibilidade  de  julgamento  antecipado  da  lide,  sendo  que  a  pretensão  recursal  exige  o  revolvimento  de  fatos  e  provas,  procedimento  vedado  por  esta  Corte  Superior,  a  teor  da  Súmula  7  do  STJ.
+4.  Agravo  interno  desprovido"  (AgInt  nos  EDcl  no  AREsp  1.080.264/GO,  Rel.  Ministro  MARCO  BUZZI,  Quarta  Turma,  julgado  em  5/6/2018,  DJe  12/6/2018  -  grifou-se).
+Ademais,  as  questões  de  ordem  pública  também  devem  ser  devidamente  analisadas  na  origem,  sob  pena  de  o  recurso  especial  ser  obstado  por  falta  de  prequestionamento.
+Confira-se:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DE  COBRANÇA.  PRESCRIÇÃO.  TESE  RECURSAL.  INOVAÇÃO.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  OCORRÊNCIA.  CERCEAMENTO  DE  DEFESA.  INEXISTÊNCIA.  JULGAMENTO  ANTECIPADO  DA  LIDE.  SUFICIÊNCIA  PROBATÓRIA  .
+(..)
+2.  As  questões  de  ordem  pública,  embora  passíveis  de  conhecimento  de  ofício  nas  instâncias  ordinárias,  não  prescindem,  no  estreito  âmbito  do  recurso  especial,  do  requisito  do  prequestionamento.
+(..)
+4.  Ao  magistrado  é  permitido  formar  a  sua  convicção  em  qualquer  elemento  de  prova  disponível  nos  autos,  bastando  para  tanto  que  indique  na  decisão  os  motivos  que  lhe  formaram  o  convencimento,  de  forma  que  a  intervenção  desta  Corte  quanto  a  tal  valoração  encontra  óbice  na  Súmula  nº  7/STJ.
+5.  Não  há  cerceamento  de  defesa  pelo  julgamento  antecipado  da  lide  que,  de  forma  fundamentada,  revolve  a  causa  sem  a  produção  da  prova  requerida  pela  parte  em  virtude  da  suficiência  dos  documentos  dos  autos.
+6.  Agravo  interno  não  provido"  (AgInt  nos  EDcl  no  AREsp  1.173.801/SP,  Rel.  Ministro  Ricardo  Villas  Bôas  Cueva,  Terceira  Turma,  julgado  em  28/8/2018,  DJe  de  4/9/2018).
+Assim,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada,  que  deve  ser  mantida  nos  termos  em  que  proferida.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
