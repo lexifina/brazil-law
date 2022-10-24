@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO ITAUCARD S.A. (BANCO ITAUCARD) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - DIREITO DO CONSUMIDOR - AÇÃO DE CONHECIMENTO - REVISÃO DE CLÁUSULAS CONTRATUAIS  ART. 25 DO ADCT - LEI 4.595164 - AUSÊNCIA DE REVOGAÇÃO - SERVIÇOS DE TERCEIROS - REGISTRO DE CONTRATO - TARIFA DE AVALIAÇÃO - SEGURO - MÁ-FE. 1.0 artigo 25 do ADCT não revogou a Lei nº4.595/64, estando ela vigente até mesmo na parto que regulamenta o Sistema Financeiro Nacional e descreve os órgãos e entidades que lhe integram. 2. A jurisprudência é fonte do Direito e, como tal, deve ser aplicada pelos Juízese Tribunais, o que foi fortalecido pelo CPC/15. 3. A análise da Turma Julgadora deve se limitarás questões efetivamente debatidas nas razões recursais. 3. E abusiva a cláusula que prevê a cobrança de ressarcimento de serviços prestados por terceiros quando não há especificação do serviço a ser efetivamente prestado. 4. É válida a cláusula que prevê o ressarcimento de despesa com o registro de contrato e tarifa de avaliação do bem, ressalvadas a abusividade da cobrança por serviço não efetivamente prestado; e a possibilidade de controle da onerosidade excessiva, em cada caso concreto. S. Inexistindo alegação de que não houve efetiva prestação do serviço, e não sendo demonstrada abusividade em seu valor, a tarifa de registro de contrato e a tarifa de avaliação devem ser mantidas conforme contratadas. 6. A cobrança de seguros em contratos de financiamento será reputada legal quando o consumidor for livre para optar por sua contratação, bem como para escolher a seguradora. 7. A condenação por litigância de má-fé exige a configuração clara de alguma das hipóteses do art. 80 do CPC/2015, além do dolo processual.
+(VvP) Constatada a ocorrência de erro material na sentença, o vício pode ser retificado, de oficio. E legitima a cobrança de ressarcimento de despesa com o registro de contrato e da tarifa de avaliação do bem dado em garantia, ressalvadas a abusividade da cobrança por serviço não efetivamente prestado e a possibilidade de controle da onerosidade excessiva no caso concreto. E abusiva a cobrança de encargo por serviço de acesso a cotações prestado por terceiros, já que não previsto na regulação bancária. A correção monetária incidente sobre o valor da condenação é matéria de ordem pública, cognoscívelde oficio. A correção monetária incidente sobre valores a serem restituídostem como termo inicial o efetivo desembolso.
+(VvP) APELAÇÃO CÍVEL - CONTRATO BANCÁRIO - CÓDIGO CIVIL - CDC - INAFASTABILIDADE - REQUISITOS DE VALIDADE - AUSÊNCIA - ILÍCITO - PRONUNCIAMENTO JUDICIAL- DEVER DE OFÍCIO. Ainda que não se reconheça a revogação da Lei 4.595164, os contratos "bancários" estão sujeitos às regras do negócio jurídico conforme se vê do Código civil, submetendo-se também aos requisitos do Código de Defesa do Consumidor. Ausente qualquer dos requisitos do artigo 166 do Código Civil, os negócios jurídicos são nulos de pleno direito. Pela dicção do Parágrafo único do artigo 168 do Código Civil, "as nulidades devem ser pronunciadas pelo juiz, quando conhecer do negócio jurídico ou dos seus efeitos e as encontrar provadas, não lhe sendo permitido supri-las, ainda que a requerimento das partes"(e-STJ, fls. 519/520).
+Os embargos de declaração opostos por BANCO ITAUCARD e TIAGO nãoforam acolhidos (e-STJ, fls. 648/659).
+Inconformado, BANCO ITAUCARD interpôs recurso especial, com fundamento no art. 105, III, a e c, da CF, alegando, além do dissídio jurisprudencial,violação dos arts. 39, I,do CDC e 927, III do NCPC, ao sustentar que é lícita a contratação do seguro, sendo vedado apenas a obrigação de contratação de seguro de forma obrigatória para a concretização do contrato e que não houve a venda casada.
+O recurso não foi admitido peloTJMG (e-STJ, fls. 732/735).
+Nas razões do presente agravo, BANCO ITAUCARD alegouque ofundamentoda decisão de inadmissibilidade não se sustenta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+Da venda casada do seguro.
+BANCO ITAUCARDsustentou que é lícita a contratação do seguro, sendo vedado apenas a obrigação de contratação de seguro de forma obrigatória para a concretização do contrato e que não houve a venda casada.
+Nesse ponto, o acórdão recorrido concluiu que houve comprovação da imposição do seguro a TIAGO, nos seguintes termos: Logo, no que diz respeito á cobrança de seguro no caso dos autos, ficou configurada a venda casada, motivo pelo qual deve ser declarada abusiva a cobrança. (e-STJ, fl. 576).
+Portanto, alterar a conclusão do TJMG, para reconhecer que houve venda casada, ensejaria indevida incursão fático-probatória, em manifesta ofensa ao disposto na Súmula nº 7 do STJ.
+A propósito, vejam-se os acórdãos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. REPETIÇÃO EM DOBRO. MÁ-FÉ. NÃO OCORRÊNCIA. VENDA CASADA. DANO MORAL. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A devolução em dobro dos valores pagos pelo consumidor pressupõe a existência de pagamento indevido e a má-fé do credor. Precedentes.
+4. Na hipótese, rever o entendimento das instâncias ordinárias, para reconhecer a comprovação da venda casada e do dano moral, demandaria a incursão nos fatos e nas provas dos autos por esta Corte, providência vedada em recurso especial em virtude a incidência da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1483449/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 16/11/2021, DJe 22/11/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO. CERCEAMENTO DE DEFESA. CAPITALIZAÇÃO. CLÁUSULA DE AVALIAÇÃO. FUNDAMENTOS NÃO IMPUGNADOS. VENDA CASADA. INTIMAÇÃO. PURGAÇÃO DA MORA. SÚMULAS N. 5 E 7 DO STJ. VALOR DO BEM. ARREMATAÇÃO. PREÇO VIL. SÚMULAS N. 282 DO STF E 7 E 83 DO STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada. Incidência, por analogia, da Súmula n. 182/STJ.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+3. O acolhimento das teses relacionadas à venda casada e à intimação para purgar a mora demandariam reexame de provas, o que não se admite neste procedimento.
+4. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 282 do do STF), tal qual se verifica em relação à tese de ausência de atualização do valor do imóvel.
+5. "A caracterização do preço vil se dá quando o bem penhorado for arrematado por valor inferior a 50% (cinquenta por cento) do valor originariamente atribuído pelo laudo de avaliação" (AgInt no REsp n.
+1.461.951/PR, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/2/2017, DJe 24/2/2017).
+6. Agravo interno desprovido.
+(AgInt no AREsp 1204037/GO, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 28/06/2021, DJe 01/07/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO HABITACIONAL. VENDA CASADA NÃO RECONHECIDA PELO TRIBUNAL DE ORIGEM. CONHECIMENTO DO MUTUÁRIO ACERCA DAS CONDIÇÕES E VANTAGENS CONCEDIDAS PELA INSTITUIÇÃO FINANCEIRA. ANUÊNCIA. REEXAME. SÚMULAS 5 E 7 DO STJ.
+AGRAVO INTERNO NÃO PROVIDO.
+(AgInt no AREsp 1689486/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 10/05/2021, DJe 13/05/2021)
+Da divergência jurisprudencial.
+É impossível o conhecimento do recurso lastreado pela alíneacdo permissivo constitucional, uma vez que para verificar a identidade entre o paradigma apresentado e os fundamentos do acórdão recorrido, necessário seria o reexame da situação fática de cada caso.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AÇÃO CIVIL PÚBLICA. IDEC. EXPURGOS INFLACIONÁRIOS. CADERNETA DE POUPANÇA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. ILEGITIMIDADE DA PARTE RECONHECIDA. INEXISTÊNCIA DE MENÇÃO EXPRESSA NO TÍTULO JUDICIAL ACERCA DO SEU ALCANCE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO DADA A INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1.  ..
+2.  ..
+3. Consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+4. Agravo interno improvido.
+(AgInt no AREsp 965.951/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 13/12/2016, DJe 1/2/2017 - sem destaque no original)
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016),CONHEÇOdo agravo, paraNEGAR PROVIMENTO ao recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de BANCO ITAUCARD, de R$ 500,00 (quinhentosreais) para R$ 1.000,00 (ummil reais), nos termos do art. 85, § 11 do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE CONHECIMENTO. REVISÃO DE CLÁUSULAS CONTRATUAIS. VENDA CASADA. SEGURO.REEXAME DE FATOS E PROVAS. SÚMULA Nº 7 DO STJ.DIVERGÊNCIA JURISPRUDENCIAL. NÃO COMPROVAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
