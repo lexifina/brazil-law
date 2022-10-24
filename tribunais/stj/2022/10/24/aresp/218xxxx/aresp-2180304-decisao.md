@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto por EMANUEL DOS SANTOS MARTINS, contra decisão que inadmitiu recurso especial manejado em face de acórdão do eg. TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS.
+Consoante se extrai dos autos, o agravante foi condenado à pena de 8 (oito) anos, 4 (quatro) meses e 24 (vinte e quatro) dias de reclusão, pela prática do crime previsto artigo 33, caput, da Lei n.11.343/06, por quatro vezes, na forma do artigo 71 do Código Penal, no regime inicialmente fechado,e ao pagamento de 783 (setecentose oitenta e três) dias-multa (fls. 280-286).
+Em segunda instância, o eg. Tribunal a quo, por unanimidade, negou provimento à apelação da Defesa(fls. 447-457), em decisãoassim ementada(fl. 562):
+"APELAÇÃO CRIMINAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO PELA ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. APLICAÇÃO DO PRINCÍPIO IN DUBIO PRO REO. MATERIALIDADE EAUTORIA DEVIDAMENTE COMPROVADAS NOS AUTOS. DEPOIMENTO POLICIAL UTILIZADO COMO MEIO DE PROVA. POSSIBILIDADE. PRECEDENTES DO STJ E STF. REGISTRO DEDIÁLOGOS TELEFÔNICOS. REJEIÇÃO DA CONTINUIDADE DELITIVAPOR INEXISTÊNCIA DE REQUISITOS CARACTERIZADORES. DESCLASSIFICAÇÃO DO DELITO PARA USO PRÓPRIO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE PORRESTRITIVA DE DIREITOS. PENA SUPERIOR A OITO ANOS. RÉUREINCIDENTE. PRETENSÕES QUE NÃO MERECEM GUARIDA. SENTENÇA CONDENATÓRIA MANTIDA NOS SEUS EXATOS TERMOS. RECURSO CONHECIDO E NÃO PROVIDO."
+Opostos embargos de declaração, estes foram rejeitados (fls. 518-519).
+No recurso especial, interposto com fulcro no artigo 105, inciso III, alínea a, da Constituição Federal, o insurgente alegou violação aos artigos 59 e 68, ambosdo Código Penal. Afirma que o aumento da pena-base, em decorrência de apenas uma circunstância judicial desfavorável - antecedentes criminais- em 1 ano é desproporcional.
+Por fim, a Defesa pleiteou a reforma do v. acórdão vergastado, para que seja a pena-base fixada no mínimo legal ou próximo deste.
+Apresentadas as contrarrazões (fls. 542-551), sobreveio juízo negativo de admissibilidade fundadona incidência da Súmula211/STJ(fls. 557-560).
+Nas razões do agravo, postula-se o processamento do recurso especial, haja vista o cumprimento dos requisitos necessários à sua admissão (fls. 568-577). Contraminuta às fls. 580-584.
+O Ministério Público Federal apresentou parecer pelodesprovimento do agravo em recurso especial (fls. 604-605).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+No caso, a parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade do óbice apontadona decisão agravada.
+O Tribunal a quo asseverou que a parte não realizou o necessário prequestionamento da matéria, entretanto, o agravante, nas razões recursais, limitou-se a afirmar que: " Sabe-se que segundo a legislação processual penal, bem como processual civil e a jurisprudência do STF e STJ, a simples oposição de embargos de declaração é suficiente para caracterizar o prequestionamento ficto, independentemente do êxito desses embargos, ou seja, ainda que inadmitidos ou rejeitados, consideram-se incluídos nos autos" (fl. 575).
+No caso, deveria a Defesa ter indicado como a decisão recorrida enfrentou a questão posta em debate no recurso especial, deixando claro que a matéria foi devidamente consignada no acórdão a quo, o que não ocorreu.
+Desse modo, a ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE HOMICÍDIOS E LESÃO CORPORAL. PRONÚNCIA CONFIRMADA PELO TRIBUNAL ESTADUAL. PLEITO DE DESCLASSIFICAÇÃO PARA A FORMA CULPOSA. RESP INADMITIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. ARESP NÃO CONHECIDO. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+2 No caso, a decisão que inadmitiu o recurso especial apresentou os seguintes óbices: i) Súmula 283/STF, ii) Súmula 83/STJ (arts. 413 e 414 do CPP), iii) Súmula 7/STJ (arts. 413 e 414 do CPP) e iv) deficiência de cotejo analítico. Nas razões do AREsp, verifica-se que a defesa se limitou a enfrentar a Súmula 7/STJ, reclamando o não conhecimento do recurso.
+ ..
+11. Agravo regimental improvido."(AgRg no AREsp n. 2.026.720/PR, Quinta Turma, Relator Ministro Reynaldo Soares da Fonseca, DJe de 6/5/2022)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. INCIDÊNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE DE EXECUÇÃO PROVISÓRIA DAS PENAS RESTRITIVAS DE DIREITOS. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso.
+2. Não assiste razão ao agravante, pois, no caso, incide o óbice da Súmula 182/STJ, uma vez que deixou de impugnar, no seu agravo em recurso especial, de forma específica, ausência/deficiência de cotejo analítico e certidão não juntada/cópia não autenticada/repositório não autorizado/repositório não oficial.
+3. A concessão de habeas corpus, de ofício, ocorre por iniciativa do próprio órgão jurisdicional quando constatada a existência de ilegalidade flagrante ao direito de locomoção, o que ocorre na hipótese.
+4. Em 8/11/2019, o Tribunal Pleno do Supremo Tribunal Federal concluiu o julgamento das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54, e decidiu, por maioria de votos, que é constitucional a regra do Código de Processo Penal que prevê o esgotamento de todas as possibilidades de recurso (trânsito em julgado da condenação) para o início do cumprimento da pena.
+5. Mesmo antes do mencionado julgamento, esta Corte Superior, por sua Terceira Seção, havia pacificado entendimento no sentido de que não se procede à execução provisória de penas restritivas de direitos.
+6. Agravo regimental não provido. Concessão de habeas corpus de ofício para suspender a execução provisória das penas restritivas de direitos." (AgRg no AREsp 1682769/SC, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/06/2020)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA DESPROVIDA.
+1. Enquanto a decisão de admissibilidade do recurso especial assentou os óbices das Súmulas n. 7 e 83/STJ quanto ao pedido de desclassificação e da Súmula n. 83/STJ quanto ao pleito de aplicação do princípio da insignificância, no agravo a defesa deixou de impugnar o óbice da Súmula n. 83/STJ com relação ao pedido de desclassificação.
+2. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão agravada, é de se aplicar o enunciado n. 182 da Súmula do STJ.
+3. Agravo regimental desprovido." (AgRg no AREsp 1667698/SP, Quinta Turma, Rel. Ministro Jorge Mussi, DJe 29/05/2020)
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO RECORRIDA. VERBETE SUMULAR N. 182/STJ.
+1. Não se conhece de agravo em recurso especial que deixa de impugnar especificamente aos fundamentos da decisão recorrida.
+2. Agravo regimental improvido com determinação de imediata retomada da marcha processual de primeira instância, independente da interposição de outros recursos" (AgRg no AREsp n. 1.074.077/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 19/12/2017, grifei)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016)
+Diante do exposto, nos termos do art. 253, parágrafo único inciso I, do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial, nos termos da fundamentação.
+P. e I.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
