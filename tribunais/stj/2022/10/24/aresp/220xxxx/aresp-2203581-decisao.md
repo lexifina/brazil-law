@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANTONIO DAS GRACAS FERREIRA MESQUITA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ, assim resumido:
+APELAÇÃO CÍVEL. FAELCE. REVISIONAL DE BENEFÍCIO PREVIDENCIÁRIO. REDI TORETÁRIO. LEGALIDADE. PRECEDENTES STJ E TJCE. RECURSO IMPROVIDO. SENTENÇA MANTIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 31, IV, do Decreto 81.240/78, no que concerne à necessidade de se considerar a data de admissão da recorrente na empresa patrocinadora da entidade recorrida, para fins de legalidade da aplicação do redutor etário, trazendo os seguintes argumentos:
+O autor foi admitido na patrocinadora no dia 30/12/1977, conforme documento de página 86 dos autos.
+Como se sabe, a jurisprudência do STJ sedimentou o entendimento de que os participantes dos planos de previdência privada que aderiram antes da vigência o Decreto 81.240/78, ou seja, antes de 24/01/1978, não estão submetidos á aplicação fator de redução etária, acaso tenha se aposentado com menos de 55 anos.
+ ..
+Destarte, considerando que o tempo de participante do autor é a data da admissão na empresa patrocinadora, ou seja, em 30/12/1977, conforme demonstrativo de página 10, bem como a decisão do STJ ressalvou todos os participantes cuja adesão tenha se operado antes de 24/01/1978, o fator de redução etária não deve ser aplicado no caso concreto (fls. 290-291).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
