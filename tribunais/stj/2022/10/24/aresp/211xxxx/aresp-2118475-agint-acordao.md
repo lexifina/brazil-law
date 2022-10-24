@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática que conheceu do Agravo para não conhecer do Recurso Especial, ante os óbices das Súmulas 211/STJ e 284/STF, além da ausência de comprovação da divergência jurisprudencial (fls. 1.181-1.185, e-STJ).
+A parte agravante alega que deve ser reconhecido, no mínimo, o prequestionamento implícito dos dispositivos suscitados e que é inaplicável a Súmula 284/STF, visto que "(..) o retro Recurso Especial interposto foi revestido da necessária precisão quanto à ofensa à legislação infraconstitucional, bem como foi trazida a dissidência jurisprudencial sobre o tema" (fl. 1.192, e-STJ).
+Postula a reconsideração da decisão agravada ou provimento, pelo colegiado, do Agravo Interno.
+Impugnação apresentada às fls. 1.199-1.202, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO MONOCRÁTICA. REPETIÇÃO DE ARGUMENTOS. SÚMULA 182/STJ.
+1. Trata-se de Agravo Interno contra decisão monocrática que conheceu do Agravo para não conhecer do Recurso Especial, ante os óbices das Súmulas 211/STJ e 284/STF, além da ausência de comprovação da divergência jurisprudencial (fls. 1.181-1.185, e-STJ). A parte agravante alega que deve ser reconhecido, no mínimo, o prequestionamento implícito dos dispositivos suscitados e que é inaplicável a Súmula 284/STF, visto que "(..) o retro Recurso Especial interposto foi revestido da necessária precisão quanto à ofensa à legislação infraconstitucional, bem como foi trazida a dissidência jurisprudencial sobre o tema" (fl. 1.192, e-STJ).
+2. No presente recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC, pois não impugna a impossibilidade de reconhecimento do prequestionamento implícito, já que ela não havia suscitado ofensa ao art. 1.022 do CPC. Tampouco há refutação da Súmula 284/STF, que fora aplicada pois a parte aduziu ofensa à Lei 8.666/1993 para tratar de concurso público como modalidade de acesso ao quadro funcional estatal, o que não guarda correspondência lógica, conforme estabelecido.
+3. A iterativa jurisprudência do STJ consolidou a compreensão de que não se conhece de Agravo contra decisão monocrática que não ataque especificamente seus fundamentos, de forma a demonstrar que o entendimento nela esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário ao das afirmações da decisão agravada ou a mera repetição dos argumentos, como feito no caso em tela.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."), que está em consonância com a redação do § 1º do art. 1.021 do atual do Código de Processo Civil.
+5. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 22.9.2022.
+Não se pode conhecer da irresignação.
+No presente recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC, pois não impugna a impossibilidade de reconhecimento do prequestionamento implícito, já que ela não havia suscitado ofensa ao art. 1.022 do CPC.
+Transcrevo o trecho que trata do tema na decisão agravada (fl. 1.182, e-STJ):
+O recorrente não alegou afronta ao art. 1.022 do CPC, de forma a viabilizar possível anulação do julgado por vício na prestação jurisdicional.
+Para que se configure o prequestionamento, não basta que o recorrente devolva ao Tribunal a questão controvertida. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como tenha sido exercido juízo de valor sobre o dispositivo legal apontado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+O Superior Tribunal de Justiça entende que não basta opor Embargos de Declaração para a configurar o prequestionamento ficto admitido no art. 1.025 do CPC/2015. É imprescindível que a parte sustente, nas razões do Recurso Especial, ter havido infringência ao art. 1.022 do mesmo diploma legal para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+Tampouco há refutação da Súmula 284/STF, que fora aplicada pois a parte aduziu ofensa à Lei 8.666/1993 para tratar de concurso público como modalidade de acesso ao quadro funcional estatal, o que não guarda correspondência lógica, conforme estabelecido.
+A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada ou a mera repetição dos argumentos, como feito no caso em tela.
+Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "Na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada".
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ. AGRAVO INTERNO. RECURSO QUE NÃO IMPUGNA, ESPECIFICAMENTE, OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ E ART. 1.021, § 1º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. No caso, o Recurso Especial não foi admitido, na origem, pela incidência das Súmulas 7 e 83/STJ, bem como pela ausência de comprovação de dissídio jurisprudencial. O Agravo em Recurso Especial interposto não impugnou todos os fundamentos do decisum, o que conduziu ao seu não conhecimento, cuja decisão ora é agravada regimentalmente.
+III. No presente Agravo interno a parte recorrente apresenta razões outras, deixando de impugnar, novamente, de modo específico, os fundamentos da decisão agravada.
+IV. Interposto Agravo interno com fundamentação deficiente, constituem óbices ao conhecimento do inconformismo a Súmula 182 desta Corte e o art. 1.021, § 1º, do CPC/2015.
+V. Renovando-se, no Agravo interno, o vício que comprometia o conhecimento do Agravo em Recurso Especial, inarredável a edição de novo juízo negativo de admissibilidade.
+VI. Segundo entendimento firmado pela Segunda Turma desta Corte, "o recurso que insiste em não atacar especificamente os fundamentos da decisão recorrida seguidamente é manifestamente inadmissível (dupla aplicação do art. 932, III, do CPC/2015), devendo ser penalizado com a multa de 1%, sobre o valor atualizado da causa, prevista no art. 1.021, §4º, do CPC/2015" (STJ, AgInt no AREsp 974.848/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 13/03/2017). Nesse mesmo sentido: STJ, AgInt no AREsp 960.285/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 15/12/2016; AgInt no AREsp 920.112/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 25/10/2016.
+VII. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp 1.322.361/RJ, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 26/03/2019).
+Por tudo isso, não conheço do Agravo Interno.
+É como voto.
