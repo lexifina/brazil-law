@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo interposto porFERNANDO HENRIQUE VENTURAcontra decisão proferida pelo eg. Tribunal de Justiça do Distrito Federal e Territóriosque inadmitiu recurso especial fundamentado na alínea a do permissivo constitucional.
+Consta dos autos que oMM. Juízo de primeiro grau condenou o ora agravado como incurso nas sanções dos art. 157, §3º, inciso II, c/c art. 14,inciso II, ambos do Código Penal, à pena de 12 (doze) anose 4 (quatro) meses de reclusão, no regime inicial fechado, mais 7 (sete) dias-multa.(fls. 586-595).
+O eg. Tribunal de origem, em decisão unânime, negou provimento ao recurso de apelação criminal da Defesa(fls. 807-819). Eis a ementa do acórdão:
+"PENAL. APELAÇÃO CRIMINAL. LATROCÍNIO TENTADO. ABSOLVIÇÃO POR FALTA DE PROVAS. INVIABILIDADE. CONJUNTO PROBATÓRIO ROBUSTO E COESO.DESCLASSIFICAÇÃO PARA A CONDUTA DE ROUBO QUALIFICADO TENTADO.IMPERTINÊNCIA. EXISTÊNCIA DO "ANIMUS NECANDI". SENTENÇA CONDENATÓRIA MANTIDA.
+1. O farto conjunto probatório é suficiente para a condenação do réu apelante pelo delito de latrocínio tentado.
+2. Para decidir a respeito da eventual desclassificação do delito de latrocínio na modalidade tentada para roubo qualificado tentado, é necessário analisar a possível existência do "animus necandi" e verificar se o agente atentou contra a vida da vítima, não consumando o delito por circunstâncias alheias à sua vontade. Na hipótese, restou caracterizado o dolo do corréu de subtrair o bem pertencente à vítima e o dolo de matá-la, não ocorrendo o resultado morte por circunstâncias alheias à sua vontade, revelando-se correta a condenação do réu apelante por tentativa de latrocínio.
+3. RECURSO CONHECIDO E NÃO PROVIDO."
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual se alega "Há notória inadequação da análise das circunstâncias judiciais do artigo 59 do Estatuto Repressivo"(fl. 832). Para tanto, mencionaque:
+a) "Bem sabemos que a individualização da pena obedece ao sistema trifásico. Neste enfoque, pois, a natural penas-base deve ser apurada à luz do que rege o art. 68 do Estatuto Repressivo, a qual remete aos ditames do art. 59 do mesmo diploma legal" (fl. 837);
+b) " .. Desta forma, o acórdão combatido valorou, ainda que equivocadamente, tão somente a reincidência. As demais circunstâncias judiciais do artigo 68 e 59 do Código Penal foram desprezadas." (fl. 844).
+Requer, ao final, seja "conhecido e provido o presente Recurso Especial, acolhendo-o por violação do art. 59 do Código Penal, reformando o v. acórdão recorrido, bem como a sentença monocrática, a fim de que outra dosimetria da pena seja elaborada pelo Juízo a quo, com análise de todas as circunstâncias judiciais do artigo 59 do Estatuto Repressivo em todos crimes." (fl. 847).
+Apresentadas as contrarrazões (fls. 859-861), oespecial foi inadmitido na origem pelaincidência daSúmulan.7/STJ(fls. 864-865).
+Daí o presente agravo, no qual oagravante,em apertada síntese, repisaos argumentos expendidos no apelo nobre (fls. 868-879).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (fls. 907-916). Eis a ementa do parecer:
+"TENTATIVA DE LATROCÍNIO (ART. 157, §3º, C/C ART. 14, II, DO CÓDIGO PENAL).
+AGRAVO EM RECURSO ESPECIAL. APELO NOBRE NÃO CONHECIDO PELO ÓBICE DA SÚMULA 7/STJ. FUNDAMENTO DE INADMISSIBILIDADE DEVIDAMENTE IMPUGNADOS PELA PARTE AGRAVANTE.
+RECURSO ESPECIAL INTERPOSTO COM FUNDAMENTO NA ALÍNEA "A" DO PERMISSIVO CONSTITUCIONAL. SUPOSTA NEGATIVA DE VIGÊNCIA AO ART. 59, DO CÓDIGO PENAL NA DOSIMETRIA DA PENA BASE.
+PLEITO DE REDUÇÃO DA PENA NA PRIMEIRA FASE DA DOSIMETRIA. FUNDAMENTAÇÃO IDÔNEA AMPARADA EM ELEMENTOS CONCRETOS QUE EVIDENCIAM A MAIOR REPROVABILIDADE DA CONDUTA (ACUSADO QUE DELINQUIRA DURANTECUMPRIMENTO DE PENA, EM SAÍDA TEMPORÁRIA) E DOS MAUS ANTECEDENTES (RÉU COM ONZE CONDENAÇÕES DEFINITIVAS ANTERIORES AO PRESENTE FATO). PRINCÍPIO DO LIVRE CONVENCIMENTO MOTIVADO. ADEQUAÇÃO DA FRAÇÃO DE 1/8 (UM) OITAVO APLICADA PARA CADA VETORIAL, NA EXASPERAÇÃO DA PENA BASE. AUSÊNCIA DE ILEGALIDADE. PRECEDENTES.
+PARECER PELO DESPROVIMENTO DO AGRAVO."
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme mencionado, o especial foi inadmitido na origem pela incidência da Súmula n. 7/STJ (fls. 864-865).
+Neste agravo, contudo, a Defesa, resumidamente, limitou-se a reiterar os argumentos expendidos no apelo nobre. Com efeito, oagravantedeixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, qual seja, o fundamento relativoà incidência daSúmula n. 7/STJ.
+Quantoà incidência da Súmula n. 7/STJ, limitou-se a mencionar que "O debate trazido à baila não importa reexame de provas, mas sim ao revés, unicamente matéria de direito, não incorrendo, portanto, com regra ajustada na Súmula 07 desta Egrégia Corte." (fl. 876).
+De fato,das razões colacionadas na irresignação, verifico que a parte não refutou a aplicação da Súmula 7/STJ de maneira adequada, pois deveriaoagravanteindicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Com efeito, é entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016, grifei).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUMULAS 7 E 83 DO STJ. ALEGAÇÕES GENÉRICAS INCAPAZES DE INFIRMAR A DECISÃO RECORRIDA. SÚM. 182/STJ.
+I - Os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência do mérito da controvérsia, como ocorreu na hipótese.
+II - O entendimento do STJ é de que "não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp n. 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+III - Agravo regimental a que se nega provimento" (AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018, grifei).
+Desse modo, a ausência de impugnação, específica e fundamentada, dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida.
+Além do mais, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO TENTADO. AGRAVO EM RECURSO ESPECIAL QUE NÃO REFUTA TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. NÃO CONHECIMENTO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
