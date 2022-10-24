@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial em razão da ausência de impugnação específica de fundamentos da decisão de inadmissão do apelo nobre.
+O agravante sustenta que  ..  "a r. decisão proferida não deve prosperar, pois o Agravante procedeu à impugnação específica dos fundamentos utilizados para inadmitir o recurso especial e ainda demonstrou de forma clara e detalhada os dispositivos violados"(e-STJ Fl.588).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DE ORIGEM. AGRAVO INTERNO NÃO PROVIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A ausência de impugnação específica aos fundamentos da decisão da Corte de origem que não admitiu o recurso impede o conhecimento do agravo, nos termos dos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, 2016).
+3. Agravo internonão provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+A decisão ora agravada não conheceu do agravo em recurso especial, uma vez que não impugnado, especificamente, todos os fundamentosda decisão que inadmitiu o recurso na Corte de origem, mormenteo fundamento de que o acórdão recorrido está em "consonância do acórdão recorrido com jurisprudência do STF (e Súmula 83/STJ - incidência de juros moratórios entre a data da expedição do precatório ou da requisição de pequeno valor e o efetivo pagamento)." (e-STJ Fl. 582.)
+Neste agravo interno, o recorrente não demonstrou ter se insurgido, na minuta do agravo, contra a decisão que obstou o recurso especial e que está respaldada nosseguintesfundamentos: (a) Súmula 7/STJ (reconhecimento do tempo comum de labor); (b)Súmula 83/STJ (cômputo do período posterior à EC 20/98 - inexistência de direito adquirido a regime jurídico); (c) Súmula 204/STJ, não cabimento de REsp contra acórdão com fundamento eminentemente constitucional, consonância do acórdão recorrido com jurisprudência do STF (e Súmula 83/STJ - incidência de juros moratórios entre a data da expedição do precatório ou da requisição de pequeno valor e o efetivo pagamento) e, (d) Súmula 7/STJ (revisão dos critérios de fixação dos honorários advocatícios).
+A impugnação da Súmula 83/STJ (ou 568/STJ) deve ser procedida com a indicação de precedentes contemporâneos ou supervenientes aos mencionados pela decisão agravada, procedendo-se ao cotejo analítico entre eles, a fim de demonstrar que outro é o entendimento jurisprudencial do STJ, o que não ocorreu na espécie.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. É dever do agravante impugnar especificamente todos os fundamentos da decisão agravada, sendo certo que o agravo em recurso especial que não impugna o fundamento que levou à não admissão do recurso especial não deve ser conhecido, nos termos dos artigos 932, III, do CPC/2015, e 253, parágrafo único, inciso I, do RISTJ.
+3. A impugnação da Súmula 83/STJ (ou 568/STJ) deve ser procedida com a indicação de precedentes contemporâneos ou supervenientes aos mencionados pela decisão agravada, procedendo-se ao cotejo analítico entre eles, a fim de demonstrar que outro é o entendimento jurisprudencial do STJ, o que não ocorreu na espécie.
+4. Agravo interno não provido. (AgInt no AREsp 1792749/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 07/06/2021, Dje de 10/06/2021) (grifei).
+Ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão da Corte de origem foram lançados e impugná-los, de forma individualizada e específica, o que não ocorreu no caso dos autos.
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu o recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa é a determinação contida nos artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
