@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+ÁGUAS DO PARAÍBA S/A interpôs agravo interno contra decisão monocrática cuja ementa foi assim redigida:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. MACROMEDIDOR EM CONDOMÍNIO FECHADODE CASAS. COBRANÇA DE CONSUMO COM BASE NA DIFERENÇA ENTRE O FATURADO NO MACROMEDIDOR E NOS HIDRÔMETROS DAS UNIDADES AUTÔNOMAS. SUPOSTA VIOLAÇÃO AO ART. 884 DO CÓDIGO CIVIL. TESE RECURSAL DE ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante sustenta que houve o devido prequestionamento da tese recursal de enriquecimento ilícito nos acórdãos tanto da apelação quanto dos embargos de declaração, sendo objeto de destaque e enfrentamento em todas os julgamentos proferidos nestes autos, não havendo que se falar em infringência da Súmula 211/STJ.
+Pugnapelo conhecimento e provimento do presente agravo para reforma do r. da decisão.
+É o necessário relatar.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE ÁGUA. MACROMEDIDOR EM CONDOMÍNIO FECHADO DE CASAS. COBRANÇA DE CONSUMO COM BASE NA DIFERENÇA ENTRE O FATURADO NO MACROMEDIDOR E NOS HIDRÔMETROS DAS UNIDADES AUTÔNOMAS. SUPOSTA VIOLAÇÃO AO ART. 884 DO CÓDIGO CIVIL. TESE RECURSAL DE ENRIQUECIMENTO ILÍCITO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.AGRAVO INTERNO NÃO PROVIDO.
+1. O STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão, mas sim que a respeito tenha havido efetivo debate no acórdão recorrido.
+2. A jurisprudência deste Tribunal Superior firmou-se no sentido de queoprequestionamento ficto previsto no art. 1025 doCPC/2015, pressupõe queaparte recorrente, após a oposição dos embargos de declaração na origem,também suscite nas razões do recurso especial a violação ao art. 1022doCPC/2015 por negativa de prestação jurisdicional, pois, somentedessaforma, é que o Órgão julgador poderá verificar a existência do vício
+eproceder à supressão de grau.Não cumpridos os requisitos exigidos para o reconhecimentodoprequestionamento ficto, permanece perfeitamente aplicável, aindanavigência do CPC/15, o óbice da Súmula n. 211/STJ.
+3.Agravo interno não provido.
+VOTO
+São improcedentes as razões deduzidas.
+Observa-se que o Tribunal de origem, para dirimir a controvérsia, ainda que provocado em embargos de declaração, expressamente consignou que, conforme o laudo pericial que concluiu que vários fatores podem ocasionar a diferença de consumo registradoentre os medidores e, que não foi realizada inspeção técnica da concessionária para apuração de perda de água,torna-se descabida a condenação do condomínio ao pagamento da diferença de consumo registrado nos hidrômetrosinstalados nas unidades autônomas e o que foi registrado no medidor master,porquanto não demonstrado, efetivamente, pela agravante, haver qualquer desperdício ou desvio de água, a justificar a cobrança apurada naquele macromedidor, não podendo ser presumido.
+Aagravante sustenta o devido prequestionamento do artigo 884 do Código Civil sob a tese recursal de enriquecimento ilícito porquanto sendo o agravado um condomínio fechado, há grande possibilidade da existência de consumo de água além daquele registrado nos medidores individuais instalados nas residências e demais pontos, o que, certamente, gera uma diferença entre o valor pago globalmente pelo loteamento e a quantidade de água que ingressa no local, que uma vez não cobrado, a agravanteamargará prejuízos pelo fornecimento de água para o interior do Condomínio, sem, todavia, receber o efetivo valor correspondente.
+Todavia, conforme asseverado na decisão ora agravada, a tese recursal que fundamentou a suposta violação não foidebatidano acórdão recorrido, estando desatendido o requisito do prequestionamento nos termos da Súmula 211/STJ que dispõe in verbis: "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Oportuno consignar que o STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada nos acórdãos, mas sim que a respeito, tenha havido amplo debate no acórdão recorrido.
+Nesse sentido:
+AMBIENTAL E PROCESSUAL CIVIL. ALEGAÇÃO DE OFENSA AOS ARTS. 799 E 879, III,DO CPC. MATÉRIA NÃO PREQUESTIONADA. SÚMULA 211/STJ.
+1. Recurso especial em que se discute a ocorrência de inovação ilegal no estado de fato e sobre os limites do poder geral de cautela do magistrado - arts. 799 e 879 do CPC.
+2. O prequestionamento implícito ocorre quando a matéria jurídica vinculada no recurso tenha sido efetivamente enfrentada e discutida no acórdão impugnado, ainda que este não tenha mencionado expressamente os artigos de lei objeto do inconformismo.
+3. A alegada violação de norma federal não foi objeto de prequestionamento pelo Tribunal de origem, sequer de forma implícita. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº211 do STJ.
+Agravo regimental improvido.
+(AgRg no REsp 1354955/PB, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 12/05/2015, DJe 19/05/2015)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PAGAMENTO DE CUSTAS. PRINCÍPIO DA CAUSALIDADE. REVISÃO DE INSTRUMENTO DE TRANSAÇÃO E DO CONJUNTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS Nº 5 E Nº 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ.
+1. Se a reforma do julgado exige o reexame do instrumento de transação celebrado entre as partes, bem como a revisão do conjunto fático-probatório dos autos, é inviável o recurso especial (STJ, Súmulas nº 5 e nº 7).
+2. A falta de prequestionamento do dispositivo legal tido por violado, a despeito da oposição de embargos declaratórios, inviabiliza o exame do recurso especial (STJ, Súmula nº 211).
+3. Agravo regimental desprovido.
+(AgRg no AREsp 655.437/RJ, Rel. Ministra MARGA TESSLER (JUÍZA FEDERAL CONVOCADA DO TRF 4ª REGIÃO), PRIMEIRA TURMA, julgado em 28/04/2015, DJe 13/05/2015)
+Assim, verificando a ocorrência de omissão sob ponto relevante da demanda, caberia à recorrente, nas razões do recurso especial, tersuscitado preliminar de violação do artigo 1.022 do CPC, e não insistirno mérito.
+Ilustrativamente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO PARA NEGAR PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DAS DEMANDADAS.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+1.1. In casu, deixaram as recorrentes de indicar, nas razões do apelo extremo, a violação ao art. 1022 do CPC/15, a fim de que esta Corte pudesse averiguar possível omissão no julgado quanto ao tema.
+1.2. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+ ..
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1464611/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/12/2019, DJe 03/02/2020)
+Ademais, ajurisprudência deste Tribunal Superior firmou-se no sentido de que o prequestionamento ficto, previsto no art. 1025 do CPC, pressupõe que a parte recorrente, após a oposição dos embargos de declaração na origem, também suscite nas razões do recurso especial, violação ao art. 1022 do CPC, por negativa de prestação jurisdicional, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AMBIENTAL. MULTA SIMPLES. PRÉVIA ADVERTÊNCIA. INEXISTÊNCIA DE OBRIGATORIEDADE. VIOLAÇÃO À LEI. PREQUESTIONAMENTO. INDISPENSABILIDADE. SÚMULA 211/STJ. AUSÊNCIA DE INDICAÇÃO DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PREQUESTIONAMENTO FICTO NÃO CARACTERIZADO.
+1. De acordo com a jurisprudência desta Corte Superior, para a validade da aplicação das multas administrativas previstas na Lei n. 9.605/1998, não há obrigatoriedade da prévia imposição de advertência.
+2. O Tribunal de origem não examinou a controvérsia sob o enfoque do art. 50 da Lei n. 9.784/1999, apontado como violado, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+3. Ressalta-se que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 4/4/2017, DJe10/4/2017).
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1830188/CE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 09/12/2019, DJe 12/12/2019)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA. MULTA APLICADA PELO PROCON. CONFIGURAÇÃO DE PROPAGANDA ENGANOSA. ALEGADA OFENSA AO ART. 489 DO CPC/2015. INEXISTÊNCIA. ALEGADA VIOLAÇÃO AOS ARTS. 22 E 63, V, D, DA LEI ESTADUAL 10.177/98. IMPOSSIBILIDADE DE ANÁLISE, NA VIA ELEITA. SÚMULA 280/STF. INFRINGÊNCIA AOS ARTS. 58 E 59 DO CDC. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL. AGRAVO IMPROVIDO.
+ ..
+V. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017). Hipótese em julgamento na qual a parte recorrente não indicou, nas razões do apelo nobre, contrariedade ao art. 1.022 do CPC/2015.
+ ..
+X. Agravo interno improvido.
+(AgInt no AREsp 1506392/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/11/2019, DJe 29/11/2019)
+Dito isso, não tendo sido debatida a questão pelo Tribunal de origem e não cumpridos os requisitos exigidos para o reconhecimento do prequestionamento ficto,nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É ovoto.
