@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interno interposto por SÉ SUPERMERCADOS LTDA.contra decisão em que conheci parcialmente do recurso especial e, nessa extensão, neguei-lhe provimento, em razão do óbice contido no verbete sumular 7 do STJ.
+Insiste a parte agravante na violação dos arts. 489 e 1.022 do CPC/2015, tendo em vista que o acórdão deixou de apreciar questões de alta relevância para o correto deslinde da demanda.
+Aduz que "o objeto discutido é simples:os cigarros adquiridos e vendidos pela Agravante geravam o pagamento em duplicidade do FINSOCIAL: (i) um recolhimento pelo fabricante (pagava a sua parte e antecipava a do comprador, no caso a Recorrente);e (ii) outro pela própria Agravante na sua apuração mensal" (e-STJ fl. 745).
+Segue afirmando que (e-STJ fl. 746):
+(..) a discussão em testilha não contesta a substituição tributária incorrida no caso, tampouco, a devolução dos valores quitados pelo fabricante. A questão gira em torno da desobrigação da Agravante ao pagamento do FINSOCIAL sobre cigarros e, com isso, o direito à restituição dos valores indevidamente recolhidos com dinheiro do seu caixa. Ou seja, é situação de pagamento indevido, apenas.
+Pugna, assim, pela reconsideração da decisão recorrida.
+Sem impugnação (e-STJ fl. 768).
+Passo a decidir.
+Exerço o juízo de retratação, tendo em vista os argumentos suscitados pela parte, passando anova análise da insurgência.
+Trata-se de recurso especial interposto por SÉ SUPERMERCADOS LTDA., com base nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TRF da 3ª Região assim ementado (e-STJ fl. 466):
+AGRAVO. DECISÃO MONOCRÁTICA. ART. 557, CAPUT, DO CÓDIGO DE PROCESSO CIVIL. FINSOCIAL.
+I- Nos termos do caput e §1º-A, do art. 557, do Código de Processo Civil e da Súmula 253/STJ, o Relator está autorizado, por meio de decisão monocrática, a negar seguimento ao recurso e ao reexame necessário, nas hipóteses de pedido inadmissível, improcedente, prejudicado ou em confronto com a jurisprudência dominante da respectiva Corte ou de Tribunal Superior.
+II- A decisão monocrática está em absoluta consonância com o entendimento do Colendo Superior Tribunal de Justiça.
+III - Inexistência de elementos novos capazes de modificar o entendimento adotado por esta Relatora no momento em que proferida a decisão monocrática.
+IV - Agravo Legal improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 488/496).
+A parte recorrente sustenta, além de dissídio entre julgados, violação dos arts. 557 do CPC/1973, 141, 489, 492 e 1.022 do CPC/2015, alegando, de início, a ocorrência de erro material, contradição e omissão no julgado.
+Para tanto, aduz que "a decisão baseou-se em matéria estranha à lide, pois a ação não discute a inconstitucionalidade da substituição tributária, mas, sim, o duplo pagamento da contribuição em razão da incidência do referido regime e pelo fato de ela também ter recolhido mensalmente o FINSOCIAL sobre a venda de produtos já tributados" (e-STJ fl. 505).
+No mérito, alega que "o objeto discutido é simples: os cigarros adquiridos e vendidos pela Recorrente geravam o pagamento em duplicidade do FINSOCIAL: (i) um recolhimento pelo fabricante (pagava a sua parte e antecipava a do comprador, no caso a Recorrente); e (ii) outro pela própria Recorrente na sua apuração mensal" (e-STJ fl. 512).
+Por fim, defende a inaplicabilidade do art. 166 do CTN, afirmando que "há limitação na utilização da norma, sendo somente aplicável em relação aos tributos que comportem transferência do encargo financeiro, ou seja, aqueles tributos denominados como indiretos" (e-STJ fl. 554).
+Com contrarrazões (e-STJ fls. 644/647), o recurso fora admitido na origem (e-STJ fls. 653/654).
+Pois bem.
+A irresignação recursal comporta acolhida no tocante às alegações de negativa de prestação jurisdicional.
+Com efeito, o art. 1.022 do CPC/2015 prevê que os embargos de declaração são cabíveis quando houver, na decisão judicial, omissão, contrariedade, obscuridade ou erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta e seu exame imprescindível para o enfrentamento da quaestio.
+No presente caso, assiste razão à parte ora recorrente, tendo em vista que o Tribunal de origem não se manifestou acerca de tema questionado no recurso integrativo, no sentido de que (e-STJ fl. 512):
+O Tribunal a quo, ao manter a decisão monocrática, julgou constitucional a substituição tributária existente em relação à venda de cigarros, aduzindo, em contrapartida, que a Recorrente não teria legitimidade para pleitear a devolução do montante recolhido pelo fabricante na substituição em questão.
+Contudo, Exas., esse não era o OBJETO DA LIDE. Nesse feito não se contesta a substituição tributária e tampouco se requer a devolução dos valores quitados pelo fabricante.
+Em verdade, o objeto discutido é simples: os cigarros adquiridos e vendidos pela Recorrente geravam o pagamento em duplicidade do FINSOCIAL: (i) um recolhimento pelo fabricante (pagava a sua parte e antecipava a do comprador, no caso a Recorrente);e (ii) outro pela própria Recorrente na sua apuração mensal.
+Assim, estando configurada a violação do art. 1022 do CPC/2015, faz-se necessária a declaração de nulidade do aresto em que apreciados os embargos de declaração, para que o vício seja sanado pelo Tribunal de origem. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. INDUSTRIALIZAÇÃO POR ENCOMENDA. SERVIÇO DE ACABAMENTO DE CALÇADOS. MATÉRIA-PRIMA DE TERCEIRO. REPETIÇÃO DE INDÉBITO. ART. 166 DO CTN. LEGITIMIDADE AD CAUSAM. MATÉRIA RELEVANTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. OMISSÃO CONFIGURADA. NULIDADE DO ACÓRDÃO. RETORNO À ORIGEM.
+1. A controvérsia de fundo versa sobre pedido de repetição de indébito de ICMS cobrado sobre atividade de acabamento industrial de calçados por encomenda mediante fornecimento de matéria-prima pelo tomador do serviço.
+2. O recorrente alega que o acórdão recorrido violou o art. 1.022, II, do CPC/2015, por ter-se omitido sobre a legitimidade ativa da parte autora com base no art. 166 do CTN.
+3. De fato, houve omissão no aresto impugnado sobre a aplicação do art. 166 do CTN à espécie.
+4. O referido dispositivo repercute sobre a legitimidade ad causam para repetição de indébito de ICMS, razão pela qual constitui matéria relevante que não poderia deixar de ser enfrentada na instância de origem.
+5. Decerto a apelação interposta pelo recorrente não devolveu explicitamente esse tema ao Tribunal. Nada obstante, cuida-se de matéria de ordem pública, suscitada nos Embargos de Declaração e passível de conhecimento de ofício pelo órgão julgador, o que afasta falar em preclusão.
+6. Demais, a hipótese dos autos versa sobre repetição de ICMS, que é espécie de tributo indireto, porque recolhido sobre as receitas oriundas de cada encomenda, comportando repasse previsto em lei para o adquirente do serviço. Nesse caso, "como imposto indireto, tem aplicações, em princípio, o teor do art. 166 do CTN e o verbete 71 do STF, atualmente 546." (REsp 426.179/SP, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 11/5/2004, DJ 20/9/2004). No mesmo sentido: AgRg no REsp 436.894/PR, Rel. Ministro José Delgado, Primeira Turma, julgado em 3/12/2002, DJ 17/2/2003; AgRg no Ag 449.146/SP, Rel. Ministro Luiz Fux, Primeira Turma, julgado em 17/10/2002, DJ 4/11/2002.
+7. O acórdão atacado apenas aferiu a legitimidade ativa da autora com base na comprovação do recolhimento do tributo (fl. 295, e-STJ), deixando de perscrutar ou exigir a demonstração de assunção definitiva do ônus tributário sem acrescê-lo ao preço cobrado do destinatário da mercadoria industrializada. Não há como se confirmar a repetição de indébito sem a prévia superação, na origem, da condição exigida pelo art. 166 do CTN.
+8. Justifica-se o retorno dos autos à origem para novo julgamento dos aclaratórios.
+9. Recurso Especial provido. (REsp 1.693.918/RS, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 16/10/2017).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. OCORRÊNCIA. 1. Esta Corte Superior tem atribuído efeitos infringentes aos embargos de declaração, em situações excepcionais, para corrigir premissa equivocada no julgamento, bem como nos casos em que o acolhimento dos embargos tiver como consectário lógico a alteração da decisão. Nesse sentido: AgRg no AREsp 622.677/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 1/4/2016; EDcl no AgRg no RESP 1.393.423/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 18/5/2016. 2. No caso dos autos, constata-se que as instâncias ordinárias quedaram-se silentes acerca da questão oportunamente suscitada acerca da ilegalidade da instituição da substituição tributária por Decreto, o que torna impositivo o reconhecimento da ocorrência da omissão apontada nas razões do recurso especial.
+3. Embargos de declaração acolhidos, com efeitos infringentes, para anular o acórdão embargado e a decisão desta Corte que o precedeu e dar parcial provimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem para novo julgamento dos aclaratórios. (EDcl EDcl AgRg REsp 1.408.452/PE, Rel. Min. BENEDITO GONÇALVES, Primeiro Turma, DJe 20/06/2017).
+Ante o exposto, RECONSIDERO a decisão de e-STJ fls. 703/706e,com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especialpara ANULAR o acórdão prolatado em sede de embargos declaratórios,determinandoo retorno dos autos ao Tribunal a quo, a fim de que sejam analisadas as questões omitidas, mencionadas acima.
+Publique-se. Intimem-se.
