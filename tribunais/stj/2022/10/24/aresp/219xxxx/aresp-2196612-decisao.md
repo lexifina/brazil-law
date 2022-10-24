@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SAFRA LEASING S/A ARRENDAMENTO MERCANTILcontra decisão que inadmitiu o recurso especialante a ausência de prequestionamento e a incidência da Súmula n. 7 do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+Afirma que a matéria encontra-se prequestionada e que o exame da preclusão não demanda análise de provas
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Paraná ( Processo n. 0056260-47.2021.8.16.0000), assim ementado (fl. 55):
+AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO DE POSSE. PEDIDO DO AUTOR PELA CONVERSÃO DA DEMANDA EM EXECUÇÃODE TÍTULO EXTRAJUDICIAL. INVIABILIDADE. PEDIDO JÁINDEFERIDO PELO JUÍZO DE ORIGEM. IMPOSSIBILIDADE DE NOVAFORMULAÇÃO. PRECLUSÃO LÓGICA E TEMPORAL. PRETENSÃOAUTORAL PELA INCLUSÃO DA FIADORA NO POLO PASSIVO. IMPOSSIBILIDADE. PROCESSO QUE JÁ ALCANÇOU SUAESTABILIZAÇÃO SUBJETIVA, MEDIANTE A CITAÇÃO DA RÉ. DECISÃOMANTIDA.
+RECURSO NÃO PROVIDO.
+Nas razões do recurso especial, a recorrente apontaviolação dos arts.4º, 329, I,e 507 do Código de Processo Civil e3º, 4º e 5º do Decreto-Lei n. 911/1969.
+Afirma que não há se falar em preclusão, porquanto não foi intimado da decisão que indeferiu o pedido de conversão.
+Alega que"a inclusão da fiadora no polo passivo da demanda por ocasião da conversão do feito em execução de título extrajudicial não afronta, sob qualquer aspecto, a estabilidade processual ou o contraditório" e que "o chamamento da fiadora para figurar como executada não tem o condão de desnaturar o pedido originário, tampouco a causa de pedir, que sempre foi a satisfação do crédito inadimplido" (fl. 77).
+Requer o conhecimento e provimento do recursoa fim dedeterminar a conversão da ação de reintegração de posse em execução, bemcomo para deferir a inclusão da fiadora no polo passivo da demanda.
+Contrarrazões apresentadas às fls. 95-99.
+É o relatório. Decido.
+O recurso não comporta provimento.
+A respeito do pedido de conversão da ação de reintegração de posse em ação de execução de título extrajudicial, o Tribunal a quo alegou o seguinte (fls. 58-59):
+Inicialmente, observa-se, em que pese a insurgência da recorrente, a qual pleiteia a conversão da ação de reintegração de posse em ação de execução de título extrajudicial, o pedido não pode ser acolhido neste momento, tendo em vista a sua manifesta preclusão nos autos de origem.
+Conforme detalhado alhures, imediatamente após a autora solicitar a referida medida (mov. 223.1), a ilustre Magistrada de origem prontamente indeferiu o pedido (mov. 225.1), sendo que não houve qualquer insurgência recursal por parte da requerente, motivo pelo qual o ato decisório alcançou sua devida estabilidade processual, não podendo a autora, em momento posterior, reiterar o mesmo pedido, sob pena de ofensa à regra da preclusão lógica e temporal.
+ ..
+Ademais, em se tratando de ação de conhecimento, e não de cumprimento de sentença, nem mesmo de execução de título extrajudicial, é inviável o alargamento do polo passivo, como requer a autora, mediante a inclusão da pessoa da fiadora, tendo em vista que já houve a citação da requerida e, portanto, a estabilização da relação processual, de modo que a sua alteração apenas poderia sedar apenas mediante a aceitação da ré, nos termos do art. 329, inciso II, do Código de Processo Civil, o que não ocorreu no caso dos autos.
+Conforme a orientação jurisprudencial desta Corte Superior, cabe à parte manifestar-se na primeira oportunidade que tiver para falar nos autos, sob pena de preclusão consumativa. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. FALECIMENTO DO IMPETRANTE NO CURSO DO WRIT. INSURGÊNCIA CONTRA O DEFERIMENTO DO PEDIDO DE HABILITAÇÃO DO ESPÓLIO. MATÉRIA ATINENTE À POSSIBILIDADE DE SUCESSÃO PROCESSUAL JÁ DECIDIDA. PRECLUSÃO CONSUMATIVA (ART. 507 DO CPC). REITERAÇÃO DE INCONFORMISMO RECURSAL. PRETENSÃO MANIFESTAMENTE IMPROCEDENTE. MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC. CABIMENTO. AGRAVO IMPROVIDO.
+1. A pretensão de impugnar o deferimento do pedido de habilitação do espólio na fase executiva, na hipótese em que o falecimento do anistiado político deu-se no curso do mandado de segurança (ou seja, antes do trânsito em julgado havido), encontra-se acobertada pela preclusão consumativa, nos termos do art. 507 do CPC, tendo em vista que a matéria acerca da possibilidade de sucessão processual já foi decidida nos autos. Portanto, a reiteração do inconformismo recursal nesse particular deve ser reputada manifestamente improcedente.
+2. Agravo interno improvido, com imposição de multa no percentual de 1% (um por cento) sobre o valor atualizado da causa (art. 1.021, § 4º, do CPC).(AgInt na ExeMS n. 11.431/DF, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 24/6/2022.)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ART. 26 DO CP. INIMPUTABILIDADE. RAZÕES DISSOCIADAS DA FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF. REEXAME FÁTICO-PROBATÓRIO. SÚMULA 07/STJ. NEGATIVA DE VIGÊNCIA AO ART. 149, § 2º, DO CPP. NULIDADE. PRECLUSÃO. ART. 563 DO CPP. AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. É assente que cabe ao recorrente, ao interpor o recurso, expor as razões pelas quais entende ofendido, pelo acórdão, o texto de lei indicado. Caso não as forneça, ou as exponha de modo deficiente, o recurso torna-se inadmissível. Incidência da Súmula 284/STF.
+2. O ingresso na análise da expertise com que foi confeccionado o laudo pericial demanda, invariavelmente, o reexame da conjunto fático-probatório carreado aos autos, o que encontra óbice na Súmula 07/STJ.
+3. Não tendo a defesa alegado a matéria na primeira ocasião em que se manifestou nos autos, verifica-se a perda da faculdade de se manifestar sobre o tema em momento posterior, em virtude do implemento do instituto da preclusão consumativa.
+4. Segundo a legislação processual penal em vigor, é imprescindível quando se trata de nulidade de ato processual a demonstração do prejuízo sofrido, em consonância com o princípio pas de nullité sans grief, o que não ocorreu na espécie. Incidência da Súmula 83/STJ.
+5. Agravo regimental a que se nega provimento.(AgRg no AREsp n. 8.739/AC, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma,DJe de 15/2/2013.)
+Ademais, a questão da ausência de intimaçãoda decisão que indeferiu o pedido de conversão não foi objeto de debate no acórdão recorrido; nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito do tema. Caso, pois, de aplicação da Súmula n. 282 do STF.
+Por fim,quanto à ampliação do polo passivo da demanda, o acórdão recorrido está de acordo com a jurisprudência do STJ. Confiram-se:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ALTERAÇÃO DO POLO PASSIVO APÓS A CITAÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Após a estabilização da lide, não se admite a ampliação subjetiva dos polos da demanda. Precedentes.
+2. Agravo interno não provido.(AgInt no AREsp n. 1.974.249/SE, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 11/5/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ALTERAÇÃO DO POLO PASSIVO E DA CAUSA DE PEDIR APÓS A CITAÇÃO. IMPOSSIBILIDADE. PRECEDENTES. USUCAPIÃO. REQUISITOS. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte, que decidiu pela inviabilidade de alteração do polo passivo e da causa de pedir após a citação. Incidente, portanto, a Súmula 83/STJ.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.(AgInt no AREsp n. 505.508/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma,DJe de 22/3/2019.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
