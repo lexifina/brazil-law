@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GNV COMERCIAL LTDA contra decisão que não conheceu doagravoemrecurso especial, em razão da intempestividade(e-STJ fls. 355/358).
+Intimada, a parte embargada formulou impugnação, postulando a manutenção do decisum (e-STJ fls. 366/367).
+Passo a decidir.
+Reanalisando os presentes autos por força dos embargos opostos, constato que a decisão agravada não deve subsistir.
+A competência das Seções e das Turmas que compõem o STJ é estabelecida conforme a natureza da relação jurídica litigiosa.
+In casu, acontrovérsia envolve o prazo prescricional aplicável à ação de cobrança de valores devidos a título da compra de gás natural para revenda, conforme contrato de natureza comercial celebrado entre a Companhia de Gás de Minas Gerais - GASMIG e GNV Comercial LTDA (e-STJ fls. 211/212).
+Em sua peça recursal, a parte defende que, nos termos do art. 206, §5º, I, do Código Civil, é de cinco anos a prescrição da pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular,o que evidencia a natureza privada da relação litigiosa e, em consequência, a competência da Seção de Direito Privado desta Corte para o exame da presente actio.
+A propósito, cito os precedentes a seguir:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE. DESÍDIA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULAS 5 E 83 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. O acórdão recorrido está em consonância com a jurisprudência do STJ no sentido de que: "Aplica-se aprescriçãoquinquenal, prevista no art.206, § 5º, I, do Código Civil, às ações decobrançaem que se pretende o pagamento de dívida líquida constante deinstrumento particular.". Incidência da Súmula 83 do STJ.
+4. As conclusões do acórdão recorrido, no tocante à desídia do exequente e reconhecimento daprescrição,não podem ser revistas por esta Corte Superior, em sede de recurso especial, pois demandaria, necessariamente, reexame do conjunto fático - probatório dos autos, o que é vedado em razão do óbice da Súmula 7 do STJ.
+5. Agravo interno não provido. (AgInt nos EDcl no AREsp 1.138.095/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 26/3/2019)
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO. INSURGÊNCIA DA REQUERIDA.
+1. Conforme pacífica jurisprudência deste Superior Tribunal de Justiça, a pretensão de cobrança de dívida subjacente a contrato de abertura de crédito que, no Código Civil revogado, inseria-se dentro do prazo prescricional geral de vinte anos passou a ter, com a entrada em vigor do Código Civil de 2002, sua prescrição regrada pelo art. 206, § 5º, I, do CC de 2002, que prevê prazo quinquenal para a cobrança de dívidas líquidas constantes de instrumento público ou particular. Precedentes. 1.1. O termo inicial dos prazos prescricionais sujeitos à regra de transição prevista no art. 2.028 do Código Civil de 2002 devem corresponder à data da entrada em vigor desse diploma (11/1/2003). Precedentes. 1.2. No caso em tela é aplicável o prazo prescricional vintenário durante a vigência do Código Civil de 1.916 e o prazo quinquenal depois da entrada em vigor desse, haja vista a aplicação da regra de transição, de forma que se mantém o afastamento da prescrição.
+2. "A relação existente entre distribuidores e revendedores de combustíveis, em regra, não é de consumo, sendo indevida a aplicação de dispositivos do Código de Defesa do Consumidor, especialmente para admitir a postergação do pagamento de mercadorias" (REsp 782.852/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/04/2011, DJe 29/04/2011). Incidência da Súmula 83/STJ.
+3. No sistema de persuasão racional adotado pela legislação pátria e positivado nos artigos 130 e 131 do CPC/1973, em regra, não cabe compelir o magistrado a autorizar a produção desta ou daquela prova, se por outros meios estiver convencido da verdade dos fatos, tendo em vista que o juiz é o destinatário final da prova, a quem cabe a análise da conveniência e necessidade da sua produção. Precedentes.
+Incidência da Súmula 83/STJ e da Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no Ag n. 1.350.235/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/12/2017, DJe de 14/12/2017.)
+Com essas considerações, ACOLHO os embargos de declaração,para tornar sem efeito adecisãoanteriore determinar a REDISTRIBUIÇÃO dos autos a um dos eminentes Ministros que integram uma dasTurmas da Segunda Seção.
+Publique-se. Intimem-se.
