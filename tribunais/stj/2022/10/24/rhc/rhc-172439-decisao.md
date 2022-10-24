@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por MARCIO LUCAS ALVES BIZERRA DO NASCIMENTOcontra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios.
+Consta dos autos que o recorrente foi preso preventivamente sob a imputação da prática do crime de organização criminosa.
+Inconformada com o decreto constritivo, a defesa impetrou habeas corpus perante a Corte de origem. A ordem, contudo, foi denegada, recebendo o acórdão a seguinte ementa (e-STJ fl. 9201):
+HABEAS CORPUS. OPERAÇÃO CAVALO DE AÇO. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. REQUISITOS. MATERIALIDADE E INDÍCIOS DE AUTORIA. GARANTIA DA ORDEM PÚBLICA. ORDEM DENEGADA. I - Presentes a materialidade do delito e indícios suficientes de autoria, não se vislumbra ilegalidade na decisão que manteve a prisão preventiva para o resguardo da ordem pública, quando as interceptações telefônicas apontam o paciente como aquele integrante da organização criminosa que ocultava as motocicletas subtraídas. II - É firme a jurisprudência no sentido de que condições pessoais favoráveis não bastam para a concessão da liberdade, quando presentes os requisitos permissivos da custódia cautelar estampados nos artigos 312 e 313 do Código de Processo Penal. III - Ordem denegada.
+No presente recurso, a defesa sustenta, em síntese, a ilegalidade da segregação cautelar, ante a ausência de fundamentação idônea para a prisão preventiva e dos motivos autorizadores previstos no art. 312 do Código de Processo Penal, ressaltando que a gravidade abstrata dos delitos e argumentos genéricos não se prestam à manutenção da custódia cautelar.
+Sublinha, ainda,a possibilidade de extensão dos efeitos das decisões, deste Relator,que concedeu a liberdade aos corréus Gilvan, Thaís e Fyama, a teor do disposto no art. 580 do CPP.
+Diante disso, requer, em liminar e no mérito, a extensão do benefício concedido aos citados corréus nos autos do HC"s765.411/DF e 763.802/DF, com a expedição do respectivo alvará de soltura e a aplicação de medidas cautelares previstas no art. 319 do CPP se for o caso.
+É o relatório. Decido.
+Consoante informações colhidas do site do Tribunal de origem, verifica-se que, em 10/10/2022, o Magistrado de origem proferiu decisão nos autos da ação penal concedendo a liberdade provisória ao ora recorrente e outros corréus,sendo determinadaa expedição de alvará de soltura.
+Assim, fica sem objeto o pedido contido na inicial, em que a defesa se insurgia contra a custódia cautelar do recorrente
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Intimem-se.
