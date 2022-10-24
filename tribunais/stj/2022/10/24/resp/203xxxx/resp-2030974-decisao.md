@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso especial interposto por JOÃO RAMALHOEMPREENDIMENTO IMOBILIÁRIO SPE LTDA, fundamentadoexclusivamentenaalínea"a"do permissivo constitucional, contra acórdãoproferido pelo TJ/SP.
+Recurso especial interposto em: 07/12/2021.
+Concluso ao Gabinete em: 21/10/2022.
+Ação: de reparação de danos materiais e compensação de danos morais, ajuizada por AUDREY MARQUES, em desfavor da recorrente, em virtude de atraso na entrega de unidade imobiliária, objeto de contrato de compra e venda firmado entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos para condenar a recorrente i)à restituição dos valores pagos a título de IPTU e taxa condominial, bem como ao pagamento de lucros cessantes, no valor de R$ 2.550,00 (dois mil quinhentos e cinquenta reais);ii)a pagar indenização pela depreciação do bem, quando da venda, no valor de R$ 2.892,00 (dois mil, oitocentos e noventa e dois reais); eiii)a pagar R$ 10.000,00 (dez mil reais) a título de danos morais.
+Acórdão: deu parcial provimento às apelações interpostas pela recorrente e pela recorrida, a fim de estender o período da mora até a efetiva entrega das chaves, fixar a indenização por lucros cessantes em 0,5% (meio por cento) do valor atualizado da transação, por mês de atraso, e afastar a indenização pela alegada desvalorização do imóvel e pelos danos morais. O acórdão foi assim ementado:
+COMPROMISSO DE COMPRA E VENDA - Responsabilidade solidária das rés, que integraram a cadeia de consumo - Atraso na entrega do imóvel, que deve ter por termo inicial o vencimento do prazo de tolerância de 180 dias, e por termo final não a expedição do "habite-se", mas a efetiva entrega da posse, nos termos da Súmula 160 do C.Superior Tribunal de Justiça - Atraso na parcela do financiamento que deve ser imputado às rés, que demoraram para apresentar a matrícula individualizada do imóvel - Aquecimento do mercado que não pode ser considerado como caso fortuito - Súmula 161 do TJSP - Lucros cessantes de 0,5% do valor atualizado da transação por mês de atraso - Irrelevância da finalidade do negócio - Súmula 162 TJSP - Dano moral afastado - Mero inadimplemento contratual - Inexistência de ofensa a direitos da personalidade - Taxas condominiais e IPTU que só se transferem com a posse do bem - Reembolso devido - Desvalorização do imóvel não comprovada - Recursos parcialmente providos.
+Embargos de declaração: opostos pela recorrente, foram acolhidos, sem efeitos infringentes.
+Recurso especial: aponta a violação dos arts. 186, 393,capute parágrafo único, 402, 403, 421, 927, parágrafo único, do CC/02; 17, 18, 70, 485, VI, 337, XI, do CPC/2015. Sustenta a ocorrência de caso fortuito e força maior - configurados pelas chuvas no local e escassez de mão de obra do segmento -, hábeis a justificar o atraso na entrega da obra. Aponta a impossibilidade de fixação de lucros cessantes, uma vez que a recorrida adquiriu o bem para nele residir. Por fim, defende a validade da cláusula contratual que prevê o pagamento das despesas condominiais e de IPTU a partir da assinatura do contrato.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos dispositivos legais indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, neste caso, a Súmula 211/STJ.
+Ademais, não houve qualquer manifestação por parte do Tribunal de origem acerca da validade da cláusula contratual que prevê o pagamento das despesas condominiais e de IPTU a partir da assinatura do contrato.
+- Da existência de fundamento não impugnado
+A recorrente, em relação à alegada ocorrência de caso fortuito e força maior, não impugnou o seguinte fundamento utilizado pelo TJ/SP:
+A alegação de que o atraso não pode ser imputado às rés não convence.Os fatos por ela mencionados como ocasionadores do atraso não podem ser considerados excludentes de responsabilidade, pois constituem o risco do próprio negócio. Com efeito, aquecimento do mercado ou dificuldade de obtenção de materiais ou mão de obra são eventos previsíveis, e pelos quais as rés não podem transferir a responsabilidade à adquirente (e-STJ fl. 802).
+Assim, não impugnado esse fundamento, deve-se manter o acórdão recorrido. Aplica-se, neste caso, a Súmula 283/STF.
+- Dos lucros cessantes presumidos
+Ainda que superado o óbice do prequestionamento, ateseda parterecorrente relativa à impossibilidade de fixação de lucros cessantes não encontraguarida na jurisprudência desta Corte Superior deJustiça, que entendeque,nos casos de atraso na entrega de imóvel, oslucros cessantes são presumidos (AgInt no REsp 1.723.050/RJ, 4ª Turma, DJede 26/9/2018; e AgInt no REsp 1.651.964/RJ, 3ª Turma, DJe de 27/3/2018).
+Incide, portanto, a Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, III, e IV, "a", do CPC/2015, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em desfavor da recorrente em 10% (dez por cento) do valor da condenação (e-STJ fl. 809) para 15% (quinze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO PROCESSUAL CIVIL E CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. ATRASO NA ENTREGA DE IMÓVEL.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. LUCROS CESSANTES PRESUMIDOS. SÚMULA 568/STJ.
+1. Ação de reparação de danos materiais e compensação de danos morais, em virtude do atraso na entrega de imóvel.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3.A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4.Reconhecida a culpa do promitente vendedor no atraso da entrega de imóvel, os lucros cessantes são presumidos.
+6. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
