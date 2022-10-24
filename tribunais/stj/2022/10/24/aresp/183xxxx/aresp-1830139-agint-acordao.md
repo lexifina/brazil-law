@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 1.767/1.775) interposto contra decisão desta relatoria que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial.
+Em suas razões, a agravante insurge-se contra a aplicação da Súmula n. 7/STJ, aduzindo que o julgamento do especial não prescinde do reexame de fatos e provas. Afirma que, "se o diagnóstico de caxumba é clínico, conforme afirmado pelo perito judicial, e se a decisão do profissional médico deve, com base na avaliação clínica por ele realizada, ser respeitada, também como afirmado pelo expert , não há que se falar em inadequação na conduta médica" (e-STJ fl. 1.771). Entende que " i mputar suposta omissão ou negligência da equipe médica, o que não ocorreu, caracteriza nítida violação aos artigos 186 e 927 do Código Civil, bem como ao art. 14 do CDC, vez que a equipe médica agiu com respaldo no exame clínico-epidemiológico e na literatura médica, além de não ser possível lhe atribuir a responsabilidade pela evolução da doença de base que atingia a paciente" (e-STJ fl. 1.773).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões, requerendo o não conhecimento do recurso, ou seu desprovimento, e a majoração dos honorários sucumbenciais (e-STJ fls. 1.778/1.787).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. No caso concreto, a análise das razões apresentadas pela recorrente, quanto à médica ter adotado a postura correta e de ser o caso de difícil diagnóstico, demandaria o revolvimento de fatos e provas, o que é vedado em recurso especial.
+3. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+A agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 1.761/1.764):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração de ofensa aos artigos arrolados, incidência da Súmula n. 7/STJ e falta de similitude entre os acórdãos confrontados (e-STJ fls. 1.696/1.698).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.608):
+Responsabilidade civil. Erro médico. Médica do hospital réu que realizou diagnóstico equivocado da enfermidade da autora. Profissional que, mesmo tendo à disposição diversos recursos para a realização de exames a fim de confirmar a exatidão de seu diagnóstico, satisfez-se com as informações da anamnese e do exame clínico, elaborando o diagnóstico de parotidite (caxumba), e para paciente que se alertava já vacinada. Laudo pericial que concluiu que a médica não realizou avaliação completa do quadro da autora, mediante exames laboratoriais e de imagem, assumindo o risco de um diagnóstico equivocado. Constatação, pelo perito, de nexo causal entre o diagnóstico falho e a tardança em se poder identificar "Linfangioma" e o agravamento do quadro da autora, acarretando a necessidade de tratamento mais gravoso. Evidenciada a falha na prestação dos serviços. Indenização moral devida, posto que em importe inferior ao arbitrado na origem. Dano estético configurado. Ressarcimento dos valores pagos a profissionais particulares que se mostra devido. Custeio da cirurgia reparadora que é decorrência dos danos estéticos causados à requerente. Sentença parcialmente revista. Recurso provido em parte.
+Nas razões do recurso especial (e-STJ fls. 1.627/1.654), interposto com fundamento no art. 105, III, "a" e "c", da CF, a recorrente apontou, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos de lei:
+(a) arts. 14 do CDC e 371 e 373 do CPC/2015, porque o caso diria respeito à "responsabilidade subjetiva e não objetiva, dependendo, portanto, da demonstração da culpa do médico/preposto. Isso porque, ao demandar o SÃO LUIZ por dano decorrente da conduta médica, o que se discute é a responsabilidade subjetiva - com perquirição de dolo ou culpa - decorrente da prestação de serviço médico" (e-STJ fl. 1.638). Afirmou que "a conduta da equipe médica do SÃO LUIZ não foi responsável pelo agravamento do quadro de saúde de ISABELA, restando devidamente comprovado nos autos que os sintomas apresentados até então demandavam apenas exame clínico, não havendo outros sinais para que fossem solicitados exames complementares, de modo que firmou-se então o diagnóstico de caxumba". Acrescentou ter feito prova "de que não houve erro grosseiro na hipótese diagnóstica firmada pela equipe médica e que, portanto, não houve defeito na prestação dos serviços, o que afasta a responsabilidade do prestador de serviços" (e-STJ fl. 1.644),
+(b) arts. 186, 927 e 951 do CC/2002, pois "o erro, a que o Tribunal a quo aludiu para determinação de culpa, é escusável, afastando assim o nexo de causalidade imputado no acórdão" (e-STJ fl. 1.646). Sustentou que "não se pode imputar ao médico a ocorrência de evolução da doença se sua própria causa era de difícil diagnóstico, afastando assim a responsabilidade do médico, consequentemente, do SÃO LUIZ" (e-STJ fl. 1.647), e
+(c) arts. 884 e 944 do CC/2002, uma vez que a indenização arbitrada deve refletir a extensão do dano e, no caso, o montante fixado seria excessivo, ignorando as peculiaridades do caso concreto e violando os princípios da proporcionalidade e da razoabilidade.
+Indicou julgado do STJ com o fim de demonstrar a divergência de entendimentos em relação ao tipo de responsabilidade civil aplicável no caso.
+Contrarrazões às fls. 1.675/1.687 (e-STJ).
+No agravo (e-STJ fls. 1.701/1.719), declara a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.722/1.736).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ fls. 1.750/1.759).
+É o relatório.
+Decido.
+O Tribunal de origem, após detido exame do acervo fático-probatório dos autos, entendeu ter havido falha na prestação do serviço prestado pelo hospital. Analisou a conduta adotada pela médica, consignando e concluindo que (e-STJ fl. 1.614):
+ ..  mesmo tendo à disposição diversos recursos para a realização de exames a fim de confirmar a exatidão de seu diagnóstico, satisfez-se com o simples exame clínico, e mesmo sabendo que a autora já havia sido vacinada, a sugerir ainda maior cautela na asserção de que portava caxumba.
+Com efeito, o expert destacou expressamente, a fls. 1.363, que "a opinião deste perito é de que a médica não realizou a avaliação completa do quadro, principalmente tendo à disposição os recursos laboratoriais e de imagem. Assumiu o risco de um diagnóstico equivocado".
+E tal o que reiterou em suas conclusões, asseverando "a conclusão deste perito é de que a médica não utilizou todos os recursos disponíveis, considerando-se que estava em um hospital de elevado padrão na Cidade de São Paulo, com exames de fácil acesso, para esclarecimento do quadro manifestado pela menor Isabela, assumindo o risco de um diagnóstico equivocado e uma evolução desfavorável."(fls.1376)
+Neste contexto, mostra-se evidenciada a falha do serviço prestado. Houve equivocada opção pela não realização de exames à disposição da profissional, assumindo-se o risco de um diagnóstico equivocado e uma evolução desfavorável."
+Logo, a despeito da teria adotada quanto à responsabilidade civil, vê-se que a Corte estadual reputou presente a culpa na conduta da profissional, que, a seu ver, deixou de utilizar os recursos disponíveis, satisfazendo-se com mero exame clínico, numa situação fática que merecia maior cautela no diagnóstico.
+Decidir de modo contrário, acolhendo as alegações de que a postura da médica foi correta e de que o caso era de difícil diagnóstico, demandaria revolvimento de fatos e provas, o que é incabível no âmbito do especial, por força da Súmula n. 7/STJ.
+Referido enunciado se aplica aos recursos interpostos com base tanto na alínea "a" quanto na alínea "c" do permissivo constitucional.
+Ademais, no paradigma apresentado para demonstrar o dissídio jurisprudencial, foi afastada a culpa dos prepostos do nosocômio, o que não ocorre no presente caso.
+Quanto ao valor da indenização, somente em hipóteses excepcionais, quando irrisória ou exorbitante a quantia arbitrada na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ para possibilitar a revisão.
+No caso, o montante estabelecido pelo Tribunal de origem - R$ 30.000,00 (trinta mil reais) -, não se mostra excessivo, a justificar sua reavaliação em recurso especial, atendendo os princípios da proporcionalidade e da razoabilidade, bem como o caráter reparatório da medida.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, bem como eventual concessão dos benefícios da justiça gratuita.
+Publique-se e intimem-se.
+Inafastável a Súmula n. 7/STJ.
+O Tribunal de origem entendeu que teria havido falha na prestação do serviço quando a médica optou por não fazer os exames disponíveis, assumindo o risco de um diagnóstico equivocado e de uma evolução desfavorável, tal como ocorreu.
+Para decidir de modo diverso, seria necessário o reexame de elementos fáticos, o que é inviável no especial, a teor da referida súmula.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Nos termos da jurisprudência desta Corte, não haverá a majoração de honorários advocatícios prevista no art. 85, § 11, do CPC/2015 no julgamento de agravo interno e de embargos de declaração.
+É como voto.
