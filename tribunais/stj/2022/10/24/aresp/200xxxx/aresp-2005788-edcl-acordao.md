@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão assim ementado (e-STJ fl. 894):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO. IMPOSIÇÃO DE SANÇÃO ADMINISTRATIVA. PRESCRIÇÃO INTERCORRENTE. INAPLICABILIDADE DA LEI 9.873/99 ÀS AÇÕES ADMINISTRATIVAS PUNITIVAS PROPOSTAS POR ESTADOS E MUNICÍPIOS. PRESCRIÇÃO ADMINISTRATIVA. INOCORRÊNCIA. AUSÊNCIA DE INÉRCIA DA ADMINISTRAÇÃO. ACÓRDÃO BASEADO NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme restou asseverado na decisão agravada, "(..) a Lei 9.873/99 - cujo art. 1º, § 1º, prevê a prescrição intercorrente - não se aplica às ações administrativas punitivas desenvolvidas por estados e municípios, pois o âmbito espacial da aludida Lei limita-se ao plano federal, (..)". (AgInt nos EDcl no REsp 1.893.478/PR, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 18.12.2020).
+2. Na hipótese dos autos, a Corte de origem, soberana nos elementos probatórios dos autos, expressamente consignou que, a despeito de se entender cabível a fluência de prazo prescricional quinquenal a título de prescrição intercorrente no processo administrativo, não houve, no caso em exame, paralisação infundada pelo prazo de 05 (cinco) anos em nenhum dos processos administrativos objeto deste mandamus, não havendo inércia ou desídia da Administração que permitisse a caracterização da prescrição intercorrente.
+3. O recurso especial não é, em razão da Súmula 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa.
+4. Agravo interno não provido.
+Sustentaque o posicionamento do acórdão embargado incorreu em omissão porquanto não há necessidade de análise fática da questão apresentada, uma vez que a questão é eminentemente jurídica, na qual a ora embargante busca tão somente rever a interpretação dada aos artigos do Decreto nº 20.910/32 e da Lei nº 9.873/99, que foram supostamente violados.
+É o necessário relatar.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HIPÓTESEDE CABIMENTO. OMISSÃO. INEXISTÊNCIA. FINALIDADE. REEXAME DA CAUSA. IMPOSSIBILIDADE. REJEIÇÃO.
+1. Os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+2. Embargos de declaração rejeitados.
+VOTO
+A embargante sustenta que o posicionamento do acórdão embargado incorreu em omissão porquanto não há necessidade de análise fática da questão apresentada, uma vez que a questão é eminentemente jurídica, na qual a ora embargante busca tão somente rever a interpretação dada aos artigos do Decreto nº 20.910/32 e da Lei nº 9.873/99, que foram supostamente violados.
+As razões são improcedentes.
+Isso porque, os embargos de declaração - como recurso de fundamentação vinculada que é - tem por fim a integração do pronunciamento judicial, de forma a sanar possível obscuridade, contradição ou omissão de algum ponto do julgado, quando tais vícios estejam aptos a comprometer a verdade e os fatos postos nos autos.
+Ocorre que o acórdão embargado posicionou-se de forma clara, adequada e suficiente acerca do não provimentodo agravo interno sob o fundamento de que, no que se refere à aplicação da Lei nº 9.873/99,o acórdão recorrido encontra-se em consonância com o entendimento dessa Corte Superior no sentido de quea Lei 9.873/99 não se aplica às ações administrativas punitivas desenvolvidas por estados e municípios, pois o âmbito espacial da lei limita-se ao plano federal, bem como que, quanto à ocorrência da prescrição nos termos do Decreto 20.910/32, a Corte de origem concluiu quenão houve, no caso em exame, paralisação infundada pelo prazo de 05 (cinco) anos em nenhum dos processos administrativos, não havendo inércia ou desídia da Administração que permitisse a caracterização da prescrição intercorrente, de modo quea conclusão do acórdão recorrido do Tribunal de origem atrelou-se ao contexto fático-probatório da causa e, para admitir entendimento contrário conforme a pretensão recursal, necessário que se adotasse o mesmo procedimento, o que todavia escapa ao âmbito do recurso especial diante da Súmula 7/STJ.
+Dessa forma, infere-se das razões destes aclaratórios a nítida pretensão da parte embargante de provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 1.022 do CPC, não é compatível com o recurso protocolado.
+Não havendo omissão, obscuridade ou contradição, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+Diante do exposto, rejeito os embargos de declaração.
+É o voto.
