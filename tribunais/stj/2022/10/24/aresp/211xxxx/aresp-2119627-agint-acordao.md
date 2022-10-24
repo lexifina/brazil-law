@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por EMILIA MARIA DOS SANTOS, em face de decisão que negou provimento ao agravo.
+O apelo extremo, a seu turno, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, foi manejado em face de acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. EXECUÇÃO. PENHORA IMÓVEL. BEM DE FAMÍLIA. NÃO CARACTERIZAÇÃO.1. Todos os bens de propriedade do devedor, desde que tenham valor econômico podem estar sujeitos à execução ressalvado os considerados absolutamente impenhoráveis.2. O imóvel utilizado como residência do devedor é considerado bem de família e, portanto, impenhorável, nos termos do art. 1º da Lei nº 8.009/90.3. O fato de o executado não morar na residência que fora objeto da penhora não tem o condão de afastar a impenhorabilidade do imóvel, sendo que este pode estar até mesmo alugado, porquanto a renda auferida pode ser utilizada para que a família resida em outro imóvel alugado ou, ainda, para a própria manutenção da entidade familiar. (Precedentes, dentre outros: AgRg no Ag nº 902.919/PE, Rel. Min. LUIZ FUX, DJe de 19/06/2008; REsp nº 698.750/SP, Rel. Min. DENISE ARRUDA, DJ de 10/05/2007).4. No caso concreto, a agravante não comprovou que o imóvel penhorado é bem de família.5. Agravo de Instrumento conhecido e desprovido.
+Opostos embargos de declaração, restaram rejeitados.
+Nas razões do recurso especial, a insurgente alega violação aos artigos1.022, p. u, II, e 489, §1 º, do CPC; sustentando, em síntese, que houve omissão e deficiência de fundamentação do acórdão recorrido quanto à tese de que "foi comprovado que o imóvel objeto da presente demanda é bem de família, e, portanto impenhorável, pois único bem de propriedade da parte recorrente".
+Contrarrazões às fls. 1524/1550, e-STJ.
+Inadmitido o reclamo na origem, foi manejado o agravo de fls. 1557/1575, e-STJ.
+Em decisão monocrática (fls. 1622/1625, e-STJ), este relator negou provimento ao reclamo ante a ausência de negativa de prestação jurisdicional.
+Irresignada, a parte manejou o presente agravo interno (fls. 1628/1641, e-STJ), no qual insiste naalegada violação aos artigos 1.022, p. u, II, e 489, § 1 º, do CPC.
+Impugnação às fls. 1644/1676, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. Não há que se falar em negativa de prestação jurisdicional pelo Tribunal a quo, que apreciou todas as questões que lhe foram postas de forma expressa e suficiente, embora não tenha acolhido o pedido da parte insurgente em sede de embargos de declaração.A propósito, é entendimento pacífico deste Superior Tribunal queo magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): A irresignação não merece prosperar.
+1.Em relação à violação aos artigos 489, § 1º, e 1022 do Código de Processo Civil, ante a alegada negativa de prestação jurisdicional, não assiste razão à parte recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia.
+Com efeito, verifica-se da leitura do acórdão recorrido que foiabordada expressamente pelo Tribunal de origem a questão da (in)existência de comprovação acerca da condição de bem de família do imóvel penhorado nos autos, naquilo que era necessário ao deslinde do feito.
+Confira-se:
+Nesta seara, peço vênia para também utilizar os mesmos argumentos como razão de decidir, in verbis:
+O imóvel localizado na QNB 18, Lote 04, Taguatinga DF, matriculado sob o n.º 39146, perante o 3º Ofício de Registro de Imóveis, foi penhorado em 12/03/2018, mediante o termo de ID139873347. A executada foi intimada da penhora com a publicação da certidão de intimação de ID14448267, o que ocorreu em 14/03/2018. Na petição de ID19983763, de 18/07/2018, a executada alega que o imóvel penhorado se trata de bem de família. Pois bem. Muito embora, nos termos do art. 917, §1º, do CPC, já tenha decorrido em 09/04/2018 o prazo de modo que o prazo para eventual impugnação à penhora, passo análise da impugnação por entender que o tema, bem de família, por sua especial proteção constitucional, diz respeito a matéria de ordem pública. No caso em tela, entretanto, vê-se que a executada declarou na petição de ID10070071, de 29/09/2017, ser residente e domiciliada na QNA 45, Casa 19, Taguatinga, mesmo endereço que constou na procuração de ID10070074. Ademais, na certidão de ID17139657, vê-se que o Sr. Oficial de Justiça certificou em 04/06/2018 que esteve no imóvel em 28/05/2018, às 9h25, e deixou de proceder a sua avaliação, pois "o mesmo encontra-se vazio e desocupado, fechado com portão de ferro, não permitindo o acesso deste Oficial para descrição das características do imóvel e condições gerais". Ora, além da alegação da executada de que o endereço informado, na QNA 45, Casa 19, seria o endereço de seus pais, local onde recebe correspondência, não há nenhuma outra demonstração de que a executada de fato resida no imóvel em questão, mas há na realidade a demonstração de que a executada não utiliza o imóvel penhorado como sua residência, o que atestado por sua própria declaração de residência e pela certidão do Sr. Oficial de Justiça.
+E, ainda, no acórdão que julgou os embargos de declaração:
+No caso dos autos, esta instância revisora, à luz dos preceitos normativos, jurisprudenciais e doutrinários atinentes ao tema, e em consonância com os documentos coligidos aos autos, concluiu que o imóvel situado na QNB 18, lote 04, Taguatinga Norte/DF pode ser penhorado, por não ser bem de família.
+Deveras, o caderno processual revelou que a agravante não reside no imóvel penhorado, bem como estava vazio em 10/12/2020 (ID 79455711) e não vertia valores de eventuais alugueres para subsistência familiar.
+Denota-se, ainda, que consta certidão de oficial de justiça no sentido que a devedora residia numa fazenda no interior do Goiás:
+Certifico e dou fé que dirigi-me ao QNB 18 CASA 04, no dia 144/09/17 às 7h15, onde deixei de citar EMILIA MARIA DOS SANTOS, em virtude de não residir. No local fui informada por Elizabeth dos Santos Alves, RG n. 14478956-GO, que ela reside em uma fazenda em Goiás, mas não declinou o endereço.
+Por consequência, fora utilizada a mesma conclusão exarada pelo eminente Des. RÔMULO DE ARAÚJO MENDES, nos autos do agravo de instrumento 0715507-61.2018.8.07.0000, cuja controvérsia recursal residia na possibilidade de penhora do mesmo imóvel, em discussão. Assim, por haver notícia no caderno processual que a devedora, além de possuir o imóvel ora exame, possui outros, a penhora deve permanecer hígida.
+Dessa forma, não há que se falar em negativa de prestação jurisdicional pelo Tribunala quo, que apreciou todas as questões que lhe foram postas de forma expressa e suficiente, embora não tenha acolhido o pedido da parte insurgente em sede de embargos de declaração.
+A propósito, é entendimento pacífico deste Superior Tribunal queo magistrado não é obrigado a responder a todas as alegações das partes se já tiver encontrado motivo suficiente parafundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados.
+Nesse sentido, confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. ATRASO NA ENTREGA DO IMÓVEL. AUSÊNCIA DE QUITAÇÃO INTEGRAL DO PREÇO. PREVISÃO CONTRATUAL. OBSCURIDADE. ERRO MATERIAL. INEXISTÊNCIA. RESPONSABILIDADE. DISCUSSÃO. REEXAME FÁTICO-PROBATÓRIO. ENUNCIADOS 5 E 7 DAS SÚMULAS DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1022 do Código de Processo Civil de 2015.
+ ..
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1348076/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 09/04/2019, DJe 12/04/2019)
+2.Do exposto, nego provimento ao agravo interno.
+É como voto.
