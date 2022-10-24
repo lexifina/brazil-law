@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 593/603) interposto contra decisão desta relatoria que negou provimento ao recurso especial.
+Em suas razões, a parteafirma ter sido "aplicado no caso a inteligência do TEMA 1.076 - STJ, todavia, existe distinção com relação a delimitação da matéria entre Direito Público (Tema 1.076) e Direito Privado (Tema 1.046), questão tratada no voto condutor que deu origem ao Repetitivo, sendo assim, existe controvérsia na utilização do TEMA 1.076 - do STJ, nos casos que não cuidam de Direito Público (origem do precedente utilizado)" (e-STJ fl. 595).
+Esperaque "o trânsito em julgado seja obstado, até que ocorra o pronunciamento definitivo do TEMA 1.046 - do STJ, que cuida da possibilidade (ou não) de apreciação de honorários por equidade de forma mais abrangente, relacionados a feitos de Dir. Privado" (e-STJ fl. 599).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou contrarrazões(e-STJ fls.605/609).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO POR EQUIDADE. HIPÓTESES EXCEPCIONAIS NÃO IDENTIFICADAS. DECISÃO MANTIDA.
+1. A Corte Especial do Superior Tribunal de Justiça, em recurso representativo da controvérsia (REsps n.1.850.512/SP, 1.877.883/SP e 1.906.623/SP - Tema n.1.076), firmou o entendimentode que a regra dos honorários por equidade, prevista no art. 85, § 8º, do CPC/2015, foi pensada para situações excepcionais em que, independentemente da existência de condenação, o proveito econômico da demanda for irrisório ou inestimável, ou o valor da causa for muito baixo, circunstâncias não identificadas.
+2. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+O agravante não trouxe argumento capaz de afastar os termos da decisão impugnada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 587/590):
+Trata-se de recurso especialinterposto contra acórdão do TJMTassim ementado (e-STJ fls. 415/416):
+APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - PROCEDÊNCIA DOS EMBARGOS À EXECUÇÃO - RECONHECIMENTO DO PAGAMENTO AO CREDOR - EXTINÇÃO DA EXECUÇÃO - CONSEQUÊNCIA - APELAÇÃO - MANUTENÇÃO DA R. SENTENÇA QUE JULGOU PROCEDENTE OS EMBARGOS ÀEXECUÇÃO - RECURSOS CABÍVEIS QUE EM REGRA NÃO SÃO DOTADOS DE EFEITO SUSPENSIVO - SENTENÇA DE EXTINÇÃO MANTIDA - RECURSO DESPROVIDO
+A extinção da Ação de Execução é consequência da procedência dos Embargos à Execução, que reconheceu que o pagamento fora satisfeito ao credor.
+Os embargos de declaração foram rejeitados (e-STJ fls. 480/496).
+Em suas razões (e-STJ fls. 519/546), fundamentadasno art. 105, III, "a" e "c", da CF, orecorrenteaponta dissídio jurisprudencial eviolação do§ 8º do art. 85 do CPC/2015, sustentandoaplicação da regra de equidade no arbitramento de honorários advocatícios nos casos em que o valor da causa é extremamente alto.
+Contrarrazões às fls. 568 (e-STJ).
+É o relatório.
+Decido.
+A insurgência não merece acolhida.
+Na origem, oTribunal de Justiça negou provimento à apelação contrasentença que extinguiu feito executivo em virtude daprocedência dos embargos à execução.
+Quanto aos honorários de sucumbência, assim dispôs (e-STJ fls. 486):
+(..) a jurisprudência do Superior Tribunal de Justiça já se consolidou no sentido de que é possível a cumulação dos honorários advocatícios fixados na ação de execução com os arbitrados em sede de embargos do devedor, por constituírem ações autônomas, com a ressalva de que a soma dos percentuais arbitrados a título de honorários, na execução e nos embargos, deve respeitar os limites estabelecidos no art. 85, § 2º, do CPC, isto é, o máximo de 20%.
+(..)
+Na hipótese, foram fixados honorários advocatícios sucumbenciais nos Embargos à Execução no percentual de 10% e o mesmo percentual na Execução, de sorte que somadas, as verbas já atingiram o limite de 20%.
+O recorrente sustenta serdesproporcional e desarrazoado a verba honorária fixada, pois, segundo alega,"somadas as sucumbências estipuladas em sede dos embargos à execução e da sentença extintiva do presente caso, ultrapassa-se o montante de R$ 500.000,00 (quinhentos mil reais) - em benefício de um único patrono" (e-STJ fl. 521).
+A quantia resultante do percentual arbitrado na sentença em favor dos advogados da parte recorrida não descrita no acórdão (Súmula n. 282/STF).
+De todo modo, aSegunda Seção do STJ, no julgamento do REsp n. 1.746.072/PR, entendeu que "o § 2º do art. 85 do CPC de 2015 veicula a regra geral e obrigatória de que oshonoráriosadvocatícios sucumbenciais devem ser fixados no patamar de 10% a 20%: (I) dovalorda condenação; ou (II) do proveito econômico obtido: ou (III) não sendo possível mensurá-lo, dovaloratualizado da causa", relegando "ao § 8º do art. 85 a instituição de regra excepcional, de aplicação subsidiária, para as hipóteses em que, havendo ou não condenação: (I) for inestimável ou irrisório o proveito econômico obtido; ou (II) for muito baixo ovalorda causa".Afastou, ainda, o entendimento de que o referido §8º,que possibilita a fixação doshonoráriospor equidade, pudesse ser utilizado nas causas de grandevalor.
+Esta orientação, a propósito,foi referendada pela Corte Especial do Superior Tribunal de Justiça, em recurso representativo da controvérsia (REsps 1.850.512/SP, 1.877.883/SP e 1.906.623/SP - Tema 1.076 ), na sessão de 16/03/2022 (acórdão ainda pendente de publicação), no sentido de que a regra dos honorários por equidade, prevista no art. 85, § 8º do CPC/2015, foi pensada para situações excepcionais em que, havendo ou não condenação, o proveito econômico da demanda é irrisório ou inestimável, ou o valor da causa é muito baixo.
+Necessário observar, portanto, que a tese desenvolvida no especial não encontra respaldo noentendimento desta Corte sobre a matéria. Confira-se ainda:
+RECURSOS ESPECIAIS. AÇÃO RESCISÓRIA. IMPUGNAÇÃO AO VALOR DA CAUSA. ACOLHIMENTO. DEPÓSITO PRÉVIO. COMPLEMENTAÇÃO. AUSÊNCIA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. REGRA GERAL OBRIGATÓRIA (ART. 85, § 2º, DO CPC/2015). REGRA GERAL SUBSIDIÁRIA (ART. 85, § 8º, DO CPC/2015). PRECEDENTES DA SEGUNDA SEÇÃO E DA CORTE ESPECIAL. DEPÓSITO PRÉVIO. NATUREZA JURÍDICA. MULTA. CARÁTER SANCIONATÓRIO. RESTITUIÇÃO. PARTE RÉ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nº 2 e 3/STJ).
+2. Cuida-se, na origem, de ação rescisória extinta sem resolução de mérito por meio de acórdão do Tribunal local tendo em vista a ausência de complementação do depósito prévio após acolhimento de incidente de impugnação ao valor da causa.
+3. As questões controvertidas nos recursos especiais podem ser assim resumidas: (i) se o valor dos honorários advocatícios deveria ter respeitado os limites mínimo e máximo (10% a 20% - dez a vinte por cento) previstos no artigo 85, § 2º, do CPC/2015; (ii) se o depósito prévio deveria ter sido revertido em favor dos réus e (iii) se era caso de redução da verba honorária.
+4. A Segunda Seção desta Corte Superior, no julgamento do Recurso Especial nº 1.746.072/PR, decidiu que o § 2º do artigo 85 do Código de Processo Civil de 2015 constitui a regra geral, de aplicação obrigatória, no sentido de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa. Já o § 8º do artigo 85 do Código de Processo Civil de 2015 transmite regra de aplicação subsidiária que permite a fixação dos honorários sucumbenciais por equidade.
+5. A Corte Especial, em recentíssimo julgamento, realizado na sessão do dia 16 de março de 2022 (REsp nº 1.850.512/SP, REsp nº 1.877.883/SP, REsp nº 1.906.623/SP e REsp nº 1.906.618/SP), concluiu o julgamento do Tema nº 1.076 dos recursos repetitivos (arestos ainda pendentes de publicação) e, por maioria, decidiu pela inviabilidade da fixação de honorários de sucumbência por apreciação equitativa quando o valor da causa for elevado. Logo, nesse caso, é obrigatória a observância dos percentuais previstos nos parágrafos 2º ou 3º do artigo 85 do Código de Processo Civil de 2015 - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação; ou (b) do proveito econômico; ou (c) do valor atualizado da causa. Apenas se admite o arbitramento por equidade quando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo.
+6. Havendo pronunciamento unânime do órgão colegiado pela inadmissibilidade ou improcedência da rescisória, o depósito prévio, previsto no artigo 488, inciso II, do Código de Processo Civil de 1973, tem finalidade de multa em favor da parte ré, nos exatos termos do artigo 494 do mesmo diploma.
+7. Recurso especial de WALMIR DE CASTRO BRAGA e LIDIANA SANDRA LEANDRO RUFINO providos para fixar os honorários advocatícios em 10% (dez por cento) sobre o valor da causa. Recurso especial de GERDAU AÇOMINAS S.A. provido a fim de permitir o levantamento do depósito prévio pela ré. Recurso especial de ITABIRA AGRO INDUSTRIAL S.A.prejudicado.
+(REsp 1861687/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/05/2022, DJe 11/05/2022.)
+Diante do exposto, NEGO PROVIMENTOao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor do patrono da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+O entendimento adotado na origem, mantidopeladecisão singular,está em
+conformidade com a jurisprudência desta Corte a respeito da matéria, inclusive sob o rito dos temasrepetitivos.
+Com efeito, o § 8º do art. 85 do CPC/2015"transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo" (REsp n. 1.850.512/SP, julgado sob o rito dos recurso especiais repetitivos, Relator Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 16/3/2022, DJe de 31/5/2022).
+Cabe ressaltar que, em face desse julgamento, ficou prejudicadaa análise da matéria pela SEGUNDA SEÇÃO, também sob o rito dos recursos especiais repetitivos (Tema n. 1.046), motivo pelo qual oREsp n.1812301/SC foidesafetado.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
