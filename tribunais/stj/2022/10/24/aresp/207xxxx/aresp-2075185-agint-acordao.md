@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao recurso especial fundado no art. 105, III,a, da Constituição Federal, que visa reformar acórdão proferido pelo Tribunal RegionalFederalda 3ª Região, assim ementado:
+PREVIDENCIÁRIO. RECONHECIMENTO DE TEMPO DE SERVIÇO RURAL.
+I- Tratando-se de comprovação de tempo de serviço, é indispensável a existência de início razoável de prova material da atividade rural, contemporânea à época dos fatos, corroborada por coerente e robusta prova testemunhal.
+II- O Colendo Superior Tribunal de Justiça pacificou o entendimento no sentido de que é possível o reconhecimento de tempo de serviço rural anterior ao documento mais antigo acostado aos autos como início de prova material, desde que amparado por prova testemunhal idônea.
+III- O C. STJ possui diversos julgados no sentido de que o Recurso Especial Representativo de Controvérsia acima mencionado autorizou o reconhecimento do tempo de serviço rural não apenas relativamente ao período anterior ao documento mais antigo, mas também posterior à prova material mais recente, desde que amparado por prova testemunhal robusta.
+IV- No caso concreto, o acervo probatório permite o reconhecimento da atividade rural no período de 21/7/82 à 30/9/89 e 9/1/90 à 1º/6/04. Ressalvo que o tempo anterior a 1991 não poderá ser utilizado para fins de carência.
+V- Apelação parcialmente provida.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+De fato, uma análise cuidadosa à fl. e-STJ 290/295 das razões recursais do agravo, verifica-se que a fundamentação da matéria permite a exata compreensão da controvérsia, com indicação dos dispositivos infraconstitucionais tidos por violados, autorizando de maneira clara e suficiente o julgamento do recurso, demonstrando claramente que somente é possível o cômputo de tempo de serviço rural sem o recolhimento de contribuição antes da Lei 8.213/91 e, no caso, foi reconhecido como tal o período de 21/7/82 à 30/9/89 e 9/1/90 à 1º/6/04 Assim, para os períodos posteriores a 24/07/1991, deve ser comprovado o recolhimento das contribuições previdenciárias. Sendo assim, ao reconhecer tempo de serviço posterior a 24/07/1991, sem o recolhimento das contribuições previdenciárias, acabou por violar os dispostos acima mencionados.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. TEMPO DE SERVIÇO RURAL. AVERBAÇÃO. CNIS. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DO ENUNCIADO N. 284 DA SÚMULA DO STJ. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando o reconhecimento e a averbação, no Cadastro Nacional de InformaçõesSociais-CNIS,do tempo de serviço rural, trabalhado pelo período total de21 anos e 6 meses. Na sentença o pedido foi julgado procedente. No Tribunala quo, a sentença foi parcialmente reformada.
+II - Sobre a alegada impossibilidade de concessão de aposentadoria por tempo de contribuição em razão do não cabimento do cômputo de tempo de serviço após a Lei n. 8.213/91, por falta de comprovação do recolhimento das contribuições sociais ou da referida indenização, verifica-se que o recorrente não desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+III - A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Sobre a alegadaimpossibilidade de concessão de aposentadoria por tempo de contribuição em razão do não cabimento do cômputo de tempo de serviço após a Lei n. 8.213/91, por falta de comprovação do recolhimento das contribuições sociais ou da referida indenização, verifica-se que o recorrentenão desenvolve argumentação a fim de demonstrar em que consiste a ofensa aos dispositivos tidos por violados.
+A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo mencionado nas razões do recurso, bem como a sua particularização, a fim de possibilitar exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, fazendo incidir, por analogia, o disposto no enunciado n. 284 da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
