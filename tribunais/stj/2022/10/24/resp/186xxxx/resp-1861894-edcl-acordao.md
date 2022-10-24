@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por DIRCEU ROSA ABIB JUNIOR em face de acórdão assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. DANOS MORAIS. OFENSA À HONRA E DIGNIDADE DE DELEGADO DE POLÍCIA. EXPRESSÕES UTILIZADAS POR ADVOGADO EM SEDE DE HABEAS CORPUS IMPETRADO EM FAVOR DE CLIENTE APREENDIDO PELO AGENTE PÚBLICO. IMUNIDADE PROFISSIONAL. DIREITO RELATIVO. EXCESSO VERIFICADO PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRETENSÃO DE MINORAÇÃO DOS DANOS MORAIS, ALEGADA EXISTÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL NO ACÓRDÃO RECORRIDO E SUPOSTA AUSÊNCIA DE INTERESSE PROCESSUAL. INOVAÇÃO RECURSAL. VEDAÇÃO. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+O embargante aduz que o acórdão embargado padece de omissão, pois (a) não explicitou as razões pelas quais a revaloração das provas, no caso, é incabível, (b) "arevaloração jurídica tem pleno cabimento,sim, na hipótese, conforme esposado nas razões do agravo interno de f. (e-STJ) 1055 e ss., às quais se reporta, não podendo ser singela e genericamente rotulada como mero instrumento de dissimulação da parte", (c) o caso dos autos "envolve a indesmentível arbitrariedadede um delegado de polícia, o ora embargado, que, conforme consta dos autos, numa infausta ação policial por ele comandada, prendeu o cliente do ora embargante, em flagrante, por porte ilegal de diminuta quantidade de entorpecente, algemou-o, nas mãos e nos pés (numa manifesta contravenção, dessarte, à Súmula Vinculante 11", e (d) aberta a instância superior,deve a Corte examinar o valor da indenização por dano moral. Ao final, requer o prequestionamento do art. 93, IX, da Constituição Federal.
+Sem impugnação.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃONO AGRAVO INTERNO NO RECURSO ESPECIAL.AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL.
+1. Consoante estabelecido pelo art. 1.022 do CPC, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes nojulgado e, excepcionalmente, atribuir-lhes efeitos infringentes quando algum desses vícios for reconhecido.
+2. No caso dos autos, não há qualquer vício a ensejar esclarecimento ouintegração do que decidido no julgado.
+3. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+VOTO
+Eminentes colegas, os embargos de declaração devem ser rejeitados.
+Nos estreitos limites estabelecidos pelo art. 1022 do Código de Processo Civil, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhes efeitos infringentes quando algum desses vícios forreconhecido.
+No caso concreto, não se configura a existência de quaisquer das referidas deficiências, pois o acórdão embargado decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta em discussão,declinando os motivos pelos quais negou provimento ao agravo interno.
+Relativamente à primeira omissão apontada, reitere-se o excerto na parte que interessa:
+Como se sabe, o espectro de cognição do recurso especial não é amplo e ilimitado, como nos recursos comuns, mas, ao invés, é restrito aos lindes da matéria jurídica delineada pelas instâncias ordinárias.
+Assim, ilidir o afirmado pelas instâncias ordinárias - de que houve excessos na atuação do agravante, importando significativa e anormal violação a direitos da personalidade do agravado -, acatando a linha argumentativa reiterada no presente agravo interno - de que "os vocábulos e expressões empregados na impetração guardam, sim, exata correlação, inteira pertinência com a situação então denunciada ao Judiciário, situação, aliás, bastante grave e dramática, onde a inverdade revelou-se inegavelmente presente -, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Com efeito, não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o Tribunal de origem a concluir pela procedência do pedido de indenização formulado pelo agravado, sob pena de usurpar a competência das instâncias ordinárias, a quem compete o amplo juízo de cognição da lide.
+Além disso, o argumento do agravante de que pretende apenas a revaloração das provas e fatos constantes dos autos não pode servir como instrumento dissimulador do descontento da parte com o convencimento alcançado pelas instâncias ordinárias, como ocorre na espécie.
+No tocante à segunda omissão, infere-se o seguinte:
+Consoante a orientação jurisprudencial desta Corte sobre o tema, e sequer impugnado nas razões recursais,"a imunidade judicial conferida ao advogado para o pleno exercício de suas funções não possui caráter absoluto, devendo observar os parâmetros da legalidade e da razoabilidade,não abarcando violações de direitos da personalidade, notadamente da honra e da imagem"(AgInt no REsp 1.879.141/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 12/04/2021, DJe de 16/04/2021).
+(..)
+No caso dos autos, o Tribunal de origem,soberano na análise das circunstânciasfáticas eprobatórias da causa, concluiu, na esteira do juízo sentenciante, ter havido ofensa à honra do agravado, a quem foram imputadaspessoalmentecondutas ilegais e ofensivas.
+Com relação à terceira omissão, lê-se do acórdão o seguinte:
+Por fim, a pretensão de minoração do valor dos danos morais,a alegação de que houve negativa de prestação jurisdicional no acórdão recorrido e a suposta ausência de interesse processual do agravado não foram suscitadas nas razões do recurso especial, caracterizando imprópria inovação recursal.
+Como se vê, consoante jurisprudência desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+Com efeito, a linhaargumentativa desenvolvida pelo embargante revela, a toda evidência, a intenção de mero rejulgamento da causa, o que, na via estreita dos declaratórios, mostra-se inadequado.
+Assim, ausente qualquer um dos vícios elencados no art. 1.022 do CPC, é de rigor a rejeição dos embargos de declaração.
+Por fim, "éinviável ao Superior Tribunal de Justiça intervir em matéria da competência do Supremo Tribunal Federal, ainda que para prequestionar questões constitucionais, sob pena de contrariar as rígidas atribuições recursais previstas na Carta Magna" (EDcl no AgRg nos EREsp 1431157/PB, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 15/06/2016, DJe 29/06/2016).
+Diante do exposto, rejeito os embargos de declaração.
+Advirto novamente que a apresentação de incidentes protelatórios poderádar azo à aplicação de multa.
+É o voto.
