@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Marmoraria Moser Eireli e Viviane Wippel Moser em contrariedade à decisão proferida por esta relatoria, nos termos da seguinte ementa (e-STJ, fl. 462):
+AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE MÚTUO BANCÁRIO. REVISIONAL. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO STJ. CÉDULA DE CRÉDITO BANCÁRIO VINCULADA A CONTRATO DE CRÉDITO ROTATIVO. EXEQUIBILIDADE. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Em suas razões, as agravantes alegam a inaplicabilidade dos óbices suscitados pela decisão agravada, afirmando que não é pacífica a orientação a respeito da existência de litispendência, bem como sobre a exequibilidade do título executivo, salientando, ainda, que a análise da controvérsia não implicarevolvimento de fatos e provas, mas, tão somente, matéria de direito.
+Reiteram, no mais, os termos do apelo especial.
+Requerem, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE MÚTUO BANCÁRIO. REVISIONAL. LITISPENDÊNCIA. EXISTÊNCIA. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. CÉDULA DE CRÉDITO BANCÁRIO VINCULADA A CONTRATO DE CRÉDITO ROTATIVO. EXEQUIBILIDADE. ACÓRDÃO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, não há como afastar as premissas fáticas e probatórias estabelecidas pelas instâncias ordinárias, soberanas em sua análise, pois, na via estreita do recurso especial, a incursão em tais elementos esbarraria no óbice da Súmula 7/STJ.
+2. Ademais,no julgamento do REsp 1.291.575/PR, sob o rito dos recursos repetitivos - Tema n. 576/STJ -, a Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta-corrente, nas modalidades de crédito rotativo ou cheque especial.
+3. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+No que concerneà alegada inexistência de litispendência, o Tribunal Regional Federal da 4ª Regiãoconsignou o seguinte (e-STJ, fl. 347):
+Outrossim, admitir-se a tese defendida pela parte autora, acabaria por inviabilizar as ações de cobrança que, por vezes, possuem ritos processuais próprios com intuito facilitar o credor a reaver valores que a ele pertencem.
+Ademais, ainda que nestes embargos à execução existam pedidos distintos da referida revisional, como bem apontou o magistrado sentenciante, com a apresentação dos embargos monitórios, os pontos já suscitados lá são considerados resolvidos.
+Assim, do que se depreende da análise desses fundamentos, estão eles lastreados nos elementos fático-probatórios constantes dos autos. Claro está, portanto, que o Superior Tribunal de Justiça, para chegar a entendimento diverso, precisaria empreender novo e aprofundado exame desses elementos, mas tal providência é vedada a esta Corte, na via recursal especial, nos termos da Súmula 7/STJ.
+Outrossim, não é caso de revaloração da prova.
+Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias.
+No caso, o que almejam as agravantes é o reconhecimento de que não há litispendência das ações.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1.380.879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Relativamente à ausência de executividade do título em discussão, o TRF-4ª Região assentou que(e-STJ, fls. 348-350):
+A cédula de crédito bancário é título executivo extrajudicial representativo de operações de crédito de qualquer natureza e representa dívida em dinheiro, certa, líquida e exigível, na forma da Lei nº 10.931/2004.
+Nesse sentido, o Tema n.º 576 já foi objeto de recurso repetitivo, cujo acórdão segue colacionado:
+( )
+O art. 26 da referida norma permite que a Cédula de Crédito Bancário seja emitida para "operação de crédito, de qualquer modalidade", abrangendo o crédito concedido aos embargantes, conforme teor abaixo colacionado:
+( )
+A despeito do reconhecimento de que a cédula de crédito possui natureza de título executivo extrajudicial, não verifico qualquer vício que possa ensejar a nulidade da execução, na medida em que todos os requisitos essenciais foram observados, em consonância com o que dispõe o art. 29 da10.931/2004:
+( )
+Dessa forma, examinando os demais documentos que instruem a peça inicial da ação executiva constantes do evento 1, CONTR5 - CONTR7,CALC3 e EXTR4 do processo 5005631-28.2019.4.04.7208, além da referida cédula, houve a a juntada de Demonstrativo de Evolução Contratual, com as especificações dos encargos contratados e do Demonstrativo de Débito, a partir dos quais é possível identificar os consectários aplicados na evolução da dívida.
+Assim, o processo instruído com as planilhas demonstrativas de débito e extratos que demonstram a movimentação do numerário contratado é suficiente para a instrumentalização da ação executivo.
+( )
+Assim, o processo instruído com as planilhas demonstrativas de débito e extratos que demonstram a movimentação do numerário contratado é suficiente para a instrumentalização da ação executiva.
+Destarte, inexiste qualquer irregularidade à luz da Lei nº 10.931/04 e da jurisprudência vinculante, de modo a ensejar o reconhecimento da inexistência de título executivo pleiteado pelos embargos.
+Conforme é possível observar, o acórdão recorrido está em harmonia com o entendimento firmado pelo Superior Tribunal de Justiça no julgamento do REsp 1.291.575/PR, sob o rito dosrecursos repetitivos -Tema n. 576/STJ -, no sentido de que a Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta-corrente, nas modalidades de crédito rotativo ou cheque especial. Incide, portanto, a Súmula n. 83/STJ.
+O julgado recebeu a seguinte ementa:
+DIREITO BANCÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ART. 543-C DO CPC. CÉDULA DE CRÉDITO BANCÁRIO VINCULADA A CONTRATO DE CRÉDITO ROTATIVO. EXEQUIBILIDADE. LEI N. 10.931/2004. POSSIBILIDADE DE QUESTIONAMENTO ACERCA DO PREENCHIMENTO DOS REQUISITOS LEGAIS RELATIVOS AOS DEMONSTRATIVOS DA DÍVIDA. INCISOS I E II DO § 2º DO ART. 28 DA LEI REGENTE.
+1. Para fins do art. 543-C do CPC: A Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta-corrente, nas modalidades de crédito rotativo ou cheque especial. O título de crédito deve vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente, trazendo o diploma legal, de maneira taxativa, a relação de exigências que o credor deverá cumprir, de modo a conferir liquidez e exequibilidade à Cédula (art. 28, § 2º, incisos I e II, da Lei n. 10.931/2004).
+3. No caso concreto, recurso especial não provido.
+(REsp n. 1.291.575/PR, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 14/8/2013, DJe de 2/9/2013.)
+No mesmo sentido, os seguintes precedentes desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS EMBARGANTES.
+1. Na forma da jurisprudência desta Corte, cabe ao juiz decidir sobre a produção de provas necessárias, ou indeferir aquelas que tenha como inúteis ou protelatórias, de acordo com o art. 370, CPC/2015, não implicando cerceamento de defesa o indeferimento da dilação probatória, notadamente quando as provas já apresentadas pelas partes sejam suficientes para a resolução da controvérsia.Precedentes.
+1.1 A revisão das conclusões do órgão julgador quanto à suficiência das provas apresentadas demandaria o reexame do acervo fático-probatório dos autos, providência vedada pela Súmula 7 do STJ.
+2. Pronunciado pela Corte de origem a inexistência de novação da dívida em comento, a revisão de tal entendimento demanda o reexame dos aspectos fáticos delineados na lide, o que resta obstado nesta via recursal especial, a teor das Súmulas 5 e 7/STJ.
+3. A análise dos fundamentos que ensejaram o reconhecimento da liquidez, certeza e exigibilidade do título que embasa a execução, exige o reexame probatório dos autos, procedimento inviável por esta via especial, ante o óbice da Súmula 7 do STJ.
+4. Consoante entendimento do STJ, "a Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta-corrente, nas modalidades de crédito rotativo ou cheque especial. O título de crédito deve vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente, trazendo o diploma legal, de maneira taxativa, a relação de exigências que o credor deverá cumprir, de modo a conferir liquidez e exequibilidade à Cédula (art.
+28, § 2º, incisos I e II, da Lei n. 10.931/2004)" (REsp 1291575/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/08/2013, DJe 02/09/2013).
+4.1 A jurisprudência do Superior Tribunal de Justiça entende que, "excepcionalmente, a certeza quanto à existência do ajuste celebrado pode ser obtida por outro meio idôneo ou no próprio contexto dos autos, caso em que a exigência da assinatura de duas testemunhas no documento particular - contrato de confissão de dívida - pode ser mitigada" (AgInt no AREsp 1361623/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/04/2019, DJe 23/04/2019). Incidência da Sumula 83/STJ.
+5. A Segunda Seção do STJ, em sede de recurso representativo da controvérsia, firmou o entendimento de que, após a Medida Provisória n. 1.963-17/2000, é permitida a capitalização de juros em periodicidade inferior à anual, quando expressamente pactuada, assim considerada a previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal. Precedentes.
+6. O Superior Tribunal de Justiça fixou o entendimento de que as instituições financeiras não estão submetidas à Lei de Usura, não obstante as instâncias ordinárias possam identificar a abusividade dos juros remuneratórios, à luz do caso concreto. Precedentes.
+6.1 O Tribunal de origem, à luz dos elementos de prova constantes dos autos, concluiu pela ausência de abusividade dos juros remuneratórios. A revisão deste entendimento ensejaria o revolvimento do contrato e do conteúdo fático-probatório dos autos, o que é inviável na sede do recurso especial, nos termos das Súmulas 5 e 7/STJ. Precedentes.
+7. Agravo interno desprovido.
+(AgInt no AREsp n. 1.968.780/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/3/2022, DJe de 21/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. CÉDULA DE CRÉDITO BANCÁRIO. LIQUIDEZ. TESE FIRMADA EM RECURSO REPETITIVO. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, obsta o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ. 2. Segundo tese firmada em recurso repetitivo, n. 576, a cédula de crédito bancário tem força executiva, devendo ser acompanhada de claro demonstrativo acerca dos valores utilizados pelo cliente, o que se verificou.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.411.098/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 16/5/2019, DJe de 29/5/2019.)
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
