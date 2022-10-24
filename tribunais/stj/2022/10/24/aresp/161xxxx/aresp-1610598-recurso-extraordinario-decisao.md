@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por FUNDAÇÃO PETROBRAS DE SEGURIDADE SOCIAL - PETROS, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 622):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE PENSÃO POR MORTE. CÁLCULO DO BENEFÍCIO PAGO PELA ENTIDADE DE PREVIDÊNCIA. MANUTENÇÃO DO CRITÉRIO APLICADO NAS INSTÂNCIAS ORDINÁRIAS. CONFORMIDADE COM AS DIRETRIZES DOS ARTS. 31 E 32 DO REGULAMENTO DA PETROS. ALTERAÇÃO DESSE ENTENDIMENTO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AUSÊNCIA DE FONTE DE CUSTEIO. TESE AFASTADA. NÃO OBSERVÂNCIA PELA REQUERIDA DAS REGRAS POR ELA MESMA ESTABELECIDAS. FALTA DE IMPUGNAÇÃO DO FUNDAMENTO DO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Ao analisar o cálculo do suplemento do valor de pensão, o Tribunal de origem, sopesando os elementos probatórios e as circunstâncias fáticas dos autos, notadamente o Regulamento do Plano de Benefícios, asseverou que o valor do benefício deve ser mensurado segundo as diretrizes dos arts. 31 e 32 desse Regulamento.
+2. Para modificar a conclusão exarada no acórdão objurgado e acolher a tese defendida pela demandante (no sentido de que a forma correta de cálculo do benefício deve ser verificada através da análise conjunta dos dispositivos do Regulamento do Plano de Benefícios), seria imprescindível a interpretação das cláusulas contratuais e o reexame do acervo fático-probatório do processo em voga, o que é vedado no âmbito do recurso especial, nos termos das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+3. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula 283/STF.
+4. Agravo interno desprovido.
+Os embargos de declaração foram rejeitados.
+A parte recorrente sustenta a violação dos arts. 5º, XXXVI, 93, IX, e 202, caput,da CF e aduz que há repercussão geral da matéria tratada.
+Alega a nulidade do acórdão recorrido, por negativa de prestação jurisdicional.
+Argumenta, ainda, que houve ofensa ao sistema de constituição de reservas para garantia dos benefícios contratados, bem como a ato jurídico perfeito, consistente na adesão e manifestação de vontade dos participantes do plano (fl. 670).
+Requer, ao final, a admissão do recurso e suaremessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 684-688.
+É o relatório.
+A Suprema Corte, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema n. 339/STF, segundo o qual "o art.93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão paradigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+No caso, constata-se que foram declinadas as razões pelas quaiso recurso incidiu nos óbices das Súmulas n. 5 e 7 do STJ e 283 do STF, valendo destacar os seguintes excertos (fls. 627-628):
+Nesse contexto, deve ser ratificada a compreensão segundo a qual, para modificar a conclusão exarada no acórdão objurgado e acolher a tese defendida pela demandante (no sentido de que a forma correta de cálculo do benefício deve ser verificada através da análise conjunta dos dispositivos do Regulamento do Plano de Benefícios), seria imprescindível a interpretação das cláusulas contratuais e o reexame do acervo fático-probatório do processo em voga, o que é vedado no âmbito do recurso especial, nos termos das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+ ..
+Por outro lado, embora defenda a não incidência da Súmula 283/STF, que obstou o conhecimento do seu recurso, a agravante deixou de demonstrar neste agravo em que trecho da sua insurgência teria impugnado o fundamento do acórdão recorrido (no sentido de que o custeio foi realizado e que teria ocorrido, na verdade, a inobservância das regras estabelecidas no regulamento para o cálculo da suplementação da pensão).
+Da mesma forma, foram apresentados os motivos para a rejeição dos embargos de declaração opostos na sequência (fls. 651-652):
+Com efeito, as razões do recurso revelam tão somente o intuito de reapreciação da causa, o que não se admite em embargos de declaração, os quais possuem índole particular e fundamentação vinculada, cujo objetivo é a declaração do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+A propósito:
+ ..
+Nesse contexto, verifica-se inexistir, no acórdão impugnado, alguma omissão a merecer a necessária integração por esta Turma julgadora, tendo sido os fundamentos apresentados, de forma clara e sólida, ratificando o pronunciamento monocrático acerca dos óbices das Súmulas 5 e 7/STJ e 283/STF.
+Em face disso, da leitura das razões dos embargos de declaração opostos, observa-se que a embargante, na verdade, busca, mais uma vez, a rediscussão da matéria já decidida de maneira inequívoca pela Turma julgadora, pretensão que não está em harmonia com a natureza e a função dos embargos declaratórios.
+Por fim, não merece guarida o pedido da parte contrária de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, uma vez que o conteúdo normativo deste dispositivo é restrito ao agravo interno.
+Por outro lado, no RE n. 598.365-RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+No caso, verifica-se que o aresto objeto do recurso extraordinárionegou provimento a agravo interno interposto contra decisão que conheceu do agravo para não conhecer do recurso especial, com fundamento nasSúmulas n. 5 e 7 do STJ e 283 do STF.
+Desse modo, não tendo o julgado recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema n. 181/STF, sendo inviável a análise da violação constitucional apontada no recurso extraordinário.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
