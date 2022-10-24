@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ANA  MARIA  AVELAR  contra  a  decisão  que  conheceu  do  agravo  e  deu  provimento  ao  recurso  especial  da  parte  adversa  para  afastar  a  condenação  em  danos  morais  pelo  atraso  na  entrega  do  imóvel  (e-STJ  fls.  740/743).
+Nas  presentes  razões  (e-STJ  fls.  754/756),  a  agravante  alega  que
+"(..)  se  o  recurso  (..)  foi  provido  para  determinar  novo  julgamento  dos  embargos  de  declaração,  significa  que  o  acórdão  que  julgou  os  embargos  de  declaração  foi  ANULADO.  Logo,  o  recurso  da  agravada  perdeu  o  seu  objeto,  já  que  foi  interposto  após  o  julgamento  dos  embargos  de  declaração  (cujo  acórdão  foi  anulado  por  esta  Corte)"  (e-STJ  fl.  754).
+
+Afirma  que  a  jurisprudência  do  Superior  Tribunal  de  Justiça  entende  ser  devida  a  indenização  por  danos  morais  nos  casos  de  atraso  na  entrega  do  imóvel  por  período  longo  e  injustificável.
+Ao  final,  requer  o  provimento  do  recurso.
+A  parte  contrária  ofereceu  resposta  às  fls.  760/767  (e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  RECONHECIMENTO.  CONSTRUTORA.  RECURSO  ESPECIAL.  COMPRA  E  VENDA.  IMÓVEL.  ENTREGA.  ATRASO.  DANO  MORAL.  AFASTAMENTO.  PEDIDOS  DISTINTOS.  PREJUDICIALIDADE.  AUSÊNCIA.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não há relação  de  prejudicialidade entre recursos que versam a respeito depedidos diversos  em  que  o  resultado  de  um  não  influencia  no  do  outro.
+3.  O  Superior  Tribunal  de  Justiça  consolidou  o  entendimento  de  que  o  mero  descumprimento  contratual,  caso  em  que  a  promitente  vendedora  deixa  de  entregar  o  imóvel  no  prazo  contratual  injustificadamente,  não  acarreta,  por  si  só,  danos  morais.
+4.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Insurge-se  a  agravante  contra  a  decisão  que  deu  provimento  ao  recurso  especial  da  agravada  para  afastar  a  condenação  por  danos  morais  por  entender  que  o  provimento  de  seu  recurso  especial  em  virtude  de  negativa  de  prestação  jurisdicional  torna  prejudicado  o  apelo  especial  da  parte  adversa,  tendo  em  vista  que,  com  o  retorno  dos  autos  à  origem,  o  "(..)  o  TJMG  terá  que  esclarecer  a  possibilidade  de  se  vincular  o  prazo  de  entrega  à  assinatura  do  financiamento,  o  que  poderá  acarretar  alteração  do  período  relativo  ao  prazo  na  entrega  do  imóvel"  (e-STJ  fl.  756).
+Para  melhor  compreensão  da  controvérsia,  oportuno  um  breve  resumo  dos  fatos.
+Trata-se  de  dois  recursos.  O  agravo  da  construtora  foi  conhecido  para  dar  provimento  ao  recurso  especial  para  afastar  a  condenação  por  danos  morais  por  atraso  na  entrega  do  imóvel  de  26  (vinte  e  seis)  dias.
+Já  o  recurso  da  agravante  foi  provido  porque reconhecida a  negativa  de  prestação  jurisdicional,  devendo  os  autos  ser  devolvidos  à  origem  para  que  a  omissão  apontada -  referente  à  abusividade  ou  não  da  cláusula  contratual  que  condiciona  a  entrega  das  chaves  à  liberação  do  financiamento - seja sanada.
+Registra-se que  os  pedidos  são  distintos , ou seja, o  resultado  de  um  não  influencia  no  do  outro, motivo pelo qual não há relação de prejudicialidade entre os referidos recursos.
+De  fato,  conforme  consignado  na  decisão  impugnada,  as  partes  firmaram  termos  aditivos,  tendo  o  primeiro  modificado  a  data  da  entrega  para  abril/2011  e  o  segundo,  repactuando  as  condições  de  pagamento  do  saldo  devedor,  prorrogado  o  prazo  para  entrega  da  obra  em  agosto/2012.
+  Está  incontroverso  nos  autos  que  a  cláusula  2.4,  inserta  no  segundo  aditivo,  condicionou  a  entrega  das  chaves  mediante  a  liberação  do  financiamento  bancário,  sendo  possibilitada  a  tolerância  de  30  (trinta)  dias  para  referida  entrega.
+A  nulidade  de  tais  aditivos  foi  afastada  pelo  tribunal  de  origem  com  base  no  entendimento  de  que  não  foi  comprovada  a  ocorrência  de  vício  de  consentimento,  porquanto
+"(..)  a  concordância  com  os  novos  termos  celebrados  (aditivos)  decorreu  de  livre  escolha  da  autora,  não  havendo  de  se  falar  em  vício  do  negócio  jurídico,  valendo  ressaltar  que,  nos  termos  do  anexo  I  do  termo  aditivo  celebrado  em  04/09/12  (página  47  do  arquivo  de  ordem  04),  a  autora  aceitou  "receber"  da  ré  a  quantia  de  R$  31.041,32,  a  título  moratório,  compensatório  e  indenizatório,  em  virtude  do  "acordo"  celebrado  entre  as  partes,  valor  este  que  foi  abatido  do  saldo  devedor.  Assim  sendo,  são  válidos  os  termos  aditivos  e  as  suas  previsões  contratuais,  que  inclui  prorrogações  e  o  condicionamento  da  entrega  à  liberação  de  financiamento"  (e-STJ  fls.  558/559).
+Assim,  restou  consignado  que  o  contrato  de  financiamento  foi  assinado  em  28/1/2013  e,  considerada  a  prorrogação  do  prazo  em  30  (trinta)  dias,  a  entrega  das  chaves  deveria  ter  ocorrido  em  28/2/2013,  de  modo  que  houve  atraso  de  26  (vinte  e  seis)  dias,  visto  que  as  chaves  foram  entregues  apenas  em  26/3/2013.
+  Com  o  retorno  dos  autos  à  origem,  o  tribunal  local  devera analisar  se  a  cláusula  condicionante  é  abusiva  ou  não,  de  modo  que  o  prazo  final  para  a  entrega  das  chaves  será  em  agosto  de  2012  ou  permanecerá  sendo  em  28/2/2013.
+Está  incontroverso  nos  autos  que  as  chaves  foram  entregues  em  26/3/2013,  de  modo  que,  por  qualquer  ângulo  que  se  examine  a  questão,  verifica-se  que  ela  gira  em  torno  de  inadimplemento  contratual,  que,  em  regra,  trata-se  de  mero  dissabor,  comum  na  vida  cotidiana.
+Registra-se  que  não  foi  devolvida  a  questão  referente  à  legalidade  dos  aditivos  contratuais  que  prorrogaram  o  prazo  de  entrega  ou  mesmo  questões  excepcionais  que  justifiquem  reparação  a  título  de  danos  morais.
+Ademais,  ainda  que  definido  o  prazo  final  de  entrega  para  agosto/2012,  não  há  excessiva  demora  que,  por  si  só,  justifique  danos  morais.
+A  propósito:
+"CIVIL.  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  AÇÃO  DE  INDENIZAÇÃO  POR  DANOS  MATERIAIS  E  MORAIS.  PROMESSA  DE  COMPRA  E  VENDA  DE  IMÓVEL.  ATRASO  NA  ENTREGA  DA  OBRA.  INADIMPLEMENTO  CONTRATUAL.  DANO  MORAL  AFASTAMENTO  DA  RESPECTIVA  CONDENAÇÃO.  DECISÃO  MANTIDA.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Aplica-se  o  NCPC  a  este  recurso  ante  os  termos  do  Enunciado  Administrativo  nº  3,  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+2.  Em  regra,  o  mero  inadimplemento  de  contrato  de  promessa  de  compra  e  venda  de  imóvel  não  enseja  reparação  por  dano  moral,  sendo  admissível  a  fixação  de  indenização  a  esse  título  apenas  quando  o  atraso  na  entrega  da  obra  ultrapassar  o  limite  do  mero  dissabor,  ou  seja,  quando  ocorrer  situação  excepcional  que  configure  o  abalo  imaterial,  a  qual  não  se  faz  presente  no  caso.  Precedentes.  Aplicação  da  Súmula  nº  83  do  STJ.
+3.  Não  sendo  a  linha  argumentativa  apresentada  capaz  de  evidenciar  a  inadequação  dos  fundamentos  invocados  pela  decisão  agravada,  o  presente  agravo  não  se  revela  apto  a  alterar  o  conteúdo  do  julgado  impugnado,  devendo  ele  ser  integralmente  mantido  em  seus  próprios  termos.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  nº  1.977.798/RJ,  relator  Ministro  Moura  Ribeiro,  Terceira  Turma,  julgado  em  21/3/2022,  DJe  de  23/3/2022).
+"CIVIL  E  PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ATRASO  NA  ENTREGA  DE  OBRA.  DANOS  MORAIS.  EXCLUSÃO.  REEXAME  DO  CONJUNTO  FÁTICO-PROBATÓRIO  DOS  AUTOS.  INADMISSIBILIDADE.  ÓBICE  DA  SÚMULA  N.  7  DO  STJ.  DECISÃO  MANTIDA.
+1.  O  mero  atraso  na  entrega  do  imóvel  é  incapaz  de  gerar  abalo  moral  indenizável,  sendo  necessária  a  existência  de  uma  consequência  fática  capaz  de  acarretar  dor  e  sofrimento  indenizável  por  sua  gravidade.  Precedentes.
+(..)
+4.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  nº  1.994.412/RJ,  relator  Ministro  Antonio  Carlos  Ferreira,  Quarta  Turma,  julgado  em  11/4/2022,  DJe  de  19/4/2022).
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
