@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus impetrado em favor de CLAUDIO ERMELINDO DOMINGUES, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"HABEAS CORPUS - EXECUÇÃO PENAL - CONCESSÃO DA PRISÃO DOMICILIAR - AUSÊNCIA DE CONSTRANGIMENTO ILEGAL - IMPETRAÇÃO NÃO CONHECIDA. Não se vislumbrando, no caso concreto, qualquer constrangimento ilegal imposto ao paciente, e não sendo o Habeas Corpus, a via correta para a discussão de questões atinentes à execução penal, não deve a impetração ser conhecida." (e-STJ, fl. 129)
+Consta dos autos que o paciente cumpre pena de 10 (dez) anos e 08 (oito) meses de reclusão, em regime inicial fechado, pela prática do delito disposto no art. 121, § 2º do Código Penal.
+Neste writ, alega a defesa, que o apenado cumpre todos os requisitos exigidos para prisão domiciliar uma vez que tem o quadro de saúde extremamente debilitado porquanto é acometido de cardiopatia hipertensiva, febre reumática crônica e fibrilação arterial, de modo que, se for submetido a situação de estresse, poderá sofrer mal súbito, apontando ainda a falta de condições para tratamento de saúde do paciente no interior do estabelecimento prisional.
+Requer a transferência do sentenciado para o regime de prisão domiciliar.
+É o relatório.
+Decido.
+O Tribunal de origem manteve o indeferimento do pedido de prisão domiciliar do paciente nos seguintes termos:
+"No caso concreto, verifica-se pelas informações prestadas pela autoridade apontada coatora, que a demanda de saúde do sentenciado está sendo atendida, haja vista que, foi determinado o imediato remanejamento do paciente para unidade prisional condizendo com suas necessidades, qual seja, Presídio de Ponte Nova. Ademais, percebe-se que o paciente vinha recebendo a medicação necessária ao tratamento das mencionadas enfermidades no estabelecimento prisional que se encontrava, além de exercer atividade remunerada no local." (e-STJ, fl. 133)
+No caso, observa-se que o Tribunal de origem ressaltou que o paciente não logrou êxito em comprovar que se encontraria em situação de vulnerabilidade que pudesse ensejar, de forma excepcional, a concessão do pedido, não fazendo jus, portanto, à prisão domiciliar.
+As instâncias ordinárias salientaram que o estabelecimento prisional não se constitui como empecilho para o recebimento dos tratamentos médicos imprescindíveis ao restabelecimento de sua saúde, vez que, inclusive. remanejaram o paciente para unidade prisional condizendo com suas necessidades.
+Tudo isso posto, não há qualquer demonstração de que o executado não possa receber tratamento para sua condição atual na unidade em que se encontra.
+Por fim, rever o entendimento das instâncias ordinárias para concessão da prisão domiciliar demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do recurso em habeas corpus.
+Nessa linha, colaciono os seguintes julgados:
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. TESE DE COAÇÃO MORAL IRRESISTÍVEL. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. PRISÃO DOMICILIAR PARA PRESTAR ASSISTÊNCIA AO FILHO MENOR E À ESPOSA. AUSÊNCIA DE COMPROVAÇÃO DA EFETIVA DA NECESSIDADE DO RECORRENTE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. RECURSO NÃO PROVIDO.
+1. De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+2. Hipótese em que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o recorrente foi preso na posse de 1,5 Kg de cocaína.
+3. É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do recorrente.
+4. O exame das teses exculpantes da defesa - de que o recorrente sofreu coação moral para o transporte do entorpecente ou que não sabia que transportava cocaína - são inadmissíveis na via eleita, por se trataram de questões de fato, cuja apreciação exige o revolvimento de provas.
+5. Quanto ao pedido de prisão domiciliar, as instâncias ordinárias concluíram pela ausência de comprovação da imprescindibilidade do recorrente aos cuidados de seu filho e de sua esposa (e-STJ, fl. 72). Logo, rever tal entendimento demanda, necessariamente, o reexame do conjunto fático-probatório dos autos.
+6. Recurso em habeas corpus não provido."
+(RHC 118.648/BA, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 7/11/2019, DJe 12/11/2019) - Negritei.
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. PRISÃO DOMICILIAR. ESTADO DE SAÚDE DEBILITADO. POSSIBILIDADE DE REALIZAÇÃO DO TRATAMENTO ADEQUADO NO ESTABELECIMENTO PRISIONAL. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. Em regra, a concessão de prisão domiciliar só é admitida em favor de preso inserido no regime aberto, nos termos do art. 117 da Lei de Execução Penal - LEP. Contudo, quando ficar comprovado que o recluso é acometido por doença grave, com debilidade acentuada de sua saúde, e que o tratamento médico necessário não pode ser prestado no ambiente prisional, admite-se, de forma excepcional, a colocação em prisão domiciliar de presos dos regimes fechado ou semiaberto.
+2. Na hipótese dos autos, o Juízo da Execução concluiu que o ora agravante tem condições de realizar o tratamento adequado no estabelecimento prisional. Para se alcançar conclusão diversa, é imprescindível o revolvimento do conjunto fático-probatório, providência sabidamente incompatível com a estreita via do habeas corpus.
+3. Agravo desprovido."
+(AgRg no HC 557.255/MG, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 13/4/2020, DJe 16/4/2020)
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITOS DE ANTECIPAÇÃO DA PROGRESSÃO AO REGIME ABERTO E PRISÃO DOMICILIAR. PANDEMIA. COVID-19. SITUAÇÃO DE VULNERABILIDADE NÃO DEMONSTRADA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, as instâncias ordinárias ressaltaram que o agravante não pertence a grupo de risco e que não haveria comprovação de que o tratamento de saúde oferecido no estabelecimento prisional seria ineficiente.
+2. Não houve, portanto, demonstração nos autos de que o agravante se encontraria em situação de vulnerabilidade que pudesse ensejar, de forma excepcional, a concessão do pedido com amparo na Resolução n. 62 do CNJ, não fazendo jus, portanto, à progressão antecipada de regime, tampouco à prisão domiciliar. Precedentes.
+3. Noutro giro, para alterar a decisão, nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, sendo isso um procedimento incompatível com a estreita via do writ.
+4. Agravo regimental não provido."
+(AgRg no HC 580.089/SP, de minha Relatoria, QUINTA TURMA, julgado em 02/06/2020, DJe 15/06/2020).
+Ante o exposto, nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
