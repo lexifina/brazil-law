@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interposto por ITAUTEC.COM SERVICOS S.A. - GRUPO ITAUTEC contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO cuja ementa guarda os seguintes termos (fl. 238):
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO RETIDO. REITERAÇÃO. INOCORRÊNCIA. LEI Nº 9.718/98, ART. 8º E PARÁGRAFOS. INDEDUTIBILIDADE. BASE DE CÁLCULO DA CSL. AD COSIT 23/99. LEGALIDADE.
+1. Agravo retido não conhecido, urna vez que a parte deixou de reiterá-lo expressamente nas razões ou na resposta de apelação, conforme o disposto no art.523, § 1º, do Código de Processo Civil.
+2.Oart. 8", da Lei n" 9.718/98, ao majorar a alíquota da Cofins para 3% (três por cento), em seus respectivos parágrafos, permitiu a compensação, pelas pessoas jurídicas tributadas com base no lucro real, de 1/3 da parcela recolhida a título de Cofins com a CSL, vedando expressamente que tal valor fosse deduzido como despesa para fins de apuração do lucro real.
+3. A Lei nº9.316/96, por sua vez, que alterou a legislação do imposto de renda e da contribuição social sobre o lucro líquido, veda, expressamente, a dedução do valor da CSL para fins de apuração do lucro real, bem como da sua própria base de cálculo.
+4. OAto Declaratório nº23/99, do Coordenador -Geral do Sistema de Tributação, apenas interpretou tal restrição, não renovando na ordem jurídica, para fins de explicitar que o valor de1/3da Cofins efetivamente paga, compensada com a CSLL é indedutível para os efeitos de apuração do lucro real e da base de cálculo da CSL.
+5. Não há que se falar em ofensa ao princípio da legalidade tributária, uma vez que a indedutibilidade da CSL, tanto para fins de apuração do lucro real, como de sua própria base de cálculo, já estava prevista na Lei n"9.316/96.6. Precedentes desta Corte.
+7. Agravo retido não conhecido. Apelação improvida.
+Rejeitados os embargos de declaração opostos (fls. 252-260).
+No recurso especial, alega, preliminarmente, ofensa ao art. 535, II do CPC/73, porquanto, apesar da oposição dos embargos de declaração, o Tribunal de origem não se pronunciou sobre pontos necessários ao deslinde da controvérsia.
+Aduz, no mérito, que o acórdão contrariou as disposições contidas nos artigos 249, § 2º do CPC/73 e 8º, §1º, § 2º, § 3º e § 4º, da Lei n. 9.718198, c/c art. 1º da Lei n. 9.316/96.
+Sustenta que "o v. acórdão recorrido, ao ratificar o Ato Declaratório COSIT 23/993,a toda evidência, desbordou o conteúdo da previsão expressa na Lei nº 9.718/98, estendendo para a base de cálculo da CSLL a vedação legal estabelecida apenas para efeitos de apuração do lucro real, o qual, conforme demonstrado anteriormente, conforma a base de cálculo do IRPJ" (fl. 300)
+Foram oferecidas contrarrazões ao recurso especial (fls. 333-337).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 345-348), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 382-386).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, não há que falar em violação do art. 1.022, do CPC porquanto depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgIntnoAREspn. 1.907.401/SP, relatora MinistraAssuseteMagalhães, Segunda Turma, julgado em 22/8/2022,DJede 29/8/2022.)
+No mérito, maior sorte não assiste à recorrente.
+Nos termos da jurisprudência desta Corte,com o advento do art. 8ºda Lei n. 9.718/98, o valor correspondente a 1/3 da COFINS efetivamente paga, a ser utilizado para pagamento via compensação da CSLL devida, constitui crédito a ser contabilizado como receita bruta do contribuinte, a título de subvenção para custeio, na forma do art. 44, IV, da Lei n. 4.506/64.
+Assim, já compondo abase de cálculo da CSLL e não existindo legislação específica que a exclua, deve nela ser tributada a exemplo do que já ocorre para o IRPJ nos termos do art. 8º, §4º, da Lei n. 9.718/98, que veda a dedução para fins de determinação do lucro real.
+Nesse contexto, entende-se que élícito o Ato Declaratório Normativo COSIT N. 23/99 quando explicitou que o valor correspondente a até um terço da COFINS efetivamente paga compensado com a CSLL devida é indedutível para os efeitos de apuração do lucro real e da base de cálculo da CSLL.
+A propósito:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AUSÊNCIA DE VIOLAÇÃO AO ART. 535, CPC. IMPOSSIBILIDADE DE SE EXCLUIR DA BASE DE CÁLCULO DA CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL O VALOR CORRESPONDENTE A 1/3 (UM TERÇO) DA COFINS EFETIVAMENTE PAGA. LEGALIDADE DO ATO DECLARATÓRIO NORMATIVO COSIT N. 23/99. INTERPRETAÇÃO DO ART. 8º, §§1º E 4º DA LEI N. 9.718/98; ART. 1º DA LEI N. 9.316/96, ART. 44, IV, DA LEI N. 4.506/64 E ART. 249, PARÁGRAFO ÚNICO, XI DO RIR/99.
+1. Não viola o art. 535, do CPC, o acórdão que decide de forma suficientemente fundamentada, não estando obrigada a Corte de Origem a emitir juízo de valor expresso a respeito de todas as teses e dispositivos legais invocados pelas partes.
+2. Com o advento do art. 8º, da Lei n. 9.718/98, o valor correspondente a 1/3 (um terço) da COFINS efetivamente paga, a ser utilizado para pagamento via compensação da CSLL devida, constitui crédito a ser contabilizado como Receita Bruta do contribuinte, a título de subvenção para custeio, na forma do art. 44, IV, da Lei n. 4.506/64.
+3. Desse modo, já estando na base de cálculo da CSLL e não existindo legislação específica que daí a exclua, deve nela ser tributada a exemplo do que já ocorre para o IRPJ consoante o art. 8º, §4º, da Lei n. 9.718/98, que veda a dedução para fins de determinação do lucro real.
+4. Se o valor do crédito fosse deduzido da base de cálculo da CSLL sem norma expressa que o determinasse ocorreria, em verdade, uma dedução parcial da CSLL paga (ainda que com o valor do crédito) de sua própria base de cálculo, o que é vedado pelo art. 1º da Lei n. 9.316/96 e pelos precedentes deste STJ.
+5. Permitir a dedução pleiteada pela contribuinte também significaria admitir que no bojo dos objetivos da Medida Provisória n. 1.724/98 e de sua lei de conversão (Lei n. 9.718/98) estava a perda de arrecadação, o que não é verdadeiro, posto que concebida para fazer frente ao ajuste fiscal com aumento de arrecadação.
+6. É perfeitamente lícito o Ato Declaratório Normativo COSIT N. 23/99 quando explicitou que o valor correspondente a até um terço da COFINS efetivamente paga compensado com a CSLL devida é indedutível para os efeitos de apuração do lucro real e da base de cálculo da CSLL. Tendo feito mera interpretação da legislação em vigor que já não permitia essa dedução.
+7. Recurso especial não provido.
+(REsp n. 1.189.926/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 24/9/2013, DJe de 1/10/2013.)
+Destarte, estando o acórdão recorrido em sintonia com o entendimento dominante deste Tribunal, aplica-se, ao caso, a Súmula n. 83/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
