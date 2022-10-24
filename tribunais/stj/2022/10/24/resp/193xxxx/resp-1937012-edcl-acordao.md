@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de embargos de declaraçãocontra acórdão da Segunda Turma, proferido em agravo interno, cuja ementa é a seguinte:
+PROCESSO CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. ACOLHIMENTO. PRESCRIÇÃO INTERCORRENTE. CONDENAÇÃO DA EXEQUENTE EM HONORÁRIOS. INDEVIDA. DESPROVIMENTO. AGRAVO INTERNO.
+I - Na origem,trata-se de exceção de pré-executividade acolhida para reconhecer a prescrição e afastar a condenação em honorários. No Tribunala quo,a decisão foi mantida.
+II - O Superior Tribunal de Justiça já se manifestou no sentido de que, pelo princípio da causalidade, é incabível a condenação em honorários nos casos de extinção da execução pela prescrição intercorrente em decorrência da ausência de localização de bens do executado. Nesse sentido:AgInt no AREsp n. 1.532.496/SP, relatorMinistro Og Fernandes, Segunda Turma, julgado em 18/2/2020, DJe 27/2/2020;REsp n. 1.768.530/SP, relatorMinistro Gurgel de Faria, Primeira Turma, julgado em 2/6/2020, DJe 29/6/2020.
+III - Agravo interno improvido.
+Nas razões dos aclaratórios, a parte sustenta, em síntese, os seguintes argumentos:
+ ..
+2. Com todo respeito, o Acórdão embargado não se debruçou sobre importante questão (incontroversa)posta no Agravo, consistente na resistência ofertada, no presente caso, pela Fazenda Nacional ao reconhecimento da prescrição intercorrente-circunstância esta que afastaria a aplicação do entendimento adotado.
+ ..
+6. Em face do exposto, considerando a omissão acima e a aplicação de distinguishing sem expor as razões para tanto, o embargante, com amparo no artigo489, §1.º, IV e art. 1.022, II, ambos do CPC/2015, suplica que o Acórdão seja aperfeiçoado, sanando a omissão e explicitando as razões pelas quais a distinção foi realizada.
+ ..
+Na origem, trata-se de exceção de pré-executividade acolhida para reconhecer a prescrição e afastar a condenação em honorários. No Tribunal a quo, a decisão foi mantida. No STJ, ao recurso especialnegou-lhe provimento.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INERNO NO RECURSO ESPECIAL. PROCESSO CIVIL.EXECUÇÃO FISCAL. HONORÁRIOS. PRINCÍPIO DA CAUSALIDADE. RESISTÊNCIA DO FISCO À EXTINÇÃO DA EXECUÇÃO. CONSTATAÇÃO DE OMISSÃO. ART. 1.022 DO CPC. EMBARGOS DECLARATÓRIOS ACOLHIDOS COM EFEITOS INFRINGENTES. RECURSO ESPECIAL PROVIDO.
+I -Na origem, trata-se de exceção de pré-executividade acolhida para reconhecer a prescrição e afastar a condenação em honorários. No Tribunal a quo, a decisão foi mantida. No STJ, ao recurso especial,negou-lheprovimento.
+II -O fato apresentado pelo embargante, qual seja, a suposta resistência da Fazenda Pública em não reconhecer a prescrição intercorrente, modifica a aplicação dos precedentes no sentido de que não é cabível a condenação da Fazenda Pública em honorários, nos casos de reconhecimento de prescrição intercorrente(AgInt no AgInt no AREsp n. 1.958.399/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/5/2022, DJe de 24/6/2022;EDcl no AgInt no AREsp n. 1.812.894/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 7/12/2021, DJe de 13/12/2021.)
+III - Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao recurso especial e determinar a fixação de honorários de sucumbência pelo Tribunal de origem.
+VOTO
+Os embargos merecem acolhimento.
+O fato apresentado pelo embargante, qual seja, a suposta resistência da Fazenda Pública em não reconhecer a prescrição intercorrente, modifica a aplicação dos precedentes no sentido de que não é cabível a condenação da Fazenda Pública em honorários, nos casos de reconhecimento de prescrição intercorrente.
+Nesse sentido:
+PROCESSUAL CIVIL. EXTINÇÃO DA EXECUÇÃO FISCAL EM RAZÃO DO ACOLHIMENTO DE EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RESISTÊNCIA DA FAZENDA PÚBLICA. CONDENAÇÃO AO PAGAMENTO DE HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA SUCUMBÊNCIA.
+1. Não se configura a ofensa aos arts. 11, 489, IV, e 1.022, I e II, do CPC/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia que lhe foi apresentada.
+2. No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos (fls. 348-349, e-STJ): "E, em que pese entendimento adotado por maioria dos membros integrantes desta 1ª Câmara Cível, na sessão virtual de 26 de maio de 2020, no sentido de que, em se tratando de prescrição intercorrente reconhecida por intermédio de exceção de pré-executividade ou embargos à execução, em razão do princípio da causalidade, as custas são devidas pelo exequente, no presente caso, o que se verifica é que, apesar de inúmeras diligências requeridas pelo exequente, o executado sequer foi localizado em três dos quatro executivos fiscais ajuizados, o que corrobora a afirmativa constante do acórdão (mov. 23.1) no sentido de que o contribuinte tinha a intenção de não adimplir com a obrigação tributária. Ressalte-se ainda que a exceção de pré-executividade somente foi oposta pela massa falida quando já evidente o transcurso do prazo prescricional, não podendo o executado ser beneficiado pela sua própria conduta".
+3. De acordo com as premissas fáticas delineadas no acórdão hostilizado, entretanto, o processo ficou parado e só foi retomado porque a parte devedora protocolou petição, de Exceção de Pré-Executividade, na qual veiculou a tese da prescrição intercorrente, a qual foi objeto de resposta da Fazenda Nacional, impugnando o conteúdo da objeção processual.
+4. No contexto acima, havendo resistência da parte credora, os honorários advocatícios são devidos em função do princípio da sucumbência.
+5. Agravo Interno não provido.
+(AgInt no AgInt no AREsp n. 1.958.399/PR, relator Ministro Herman Benjamin, Segunda Turma, julgado em 2/5/2022, DJe de 24/6/2022.)
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. HONORÁRIOS. PRINCÍPIO DA CAUSALIDADE. RESISTÊNCIA DO FISCO À EXTINÇÃO DA EXECUÇÃO. CONSTATAÇÃO DE OMISSÃO. ART. 1.022 DO CPC. EMBARGOS DECLARATÓRIOS ACOLHIDOS COM EFEITOS INFRINGENTES. AGRAVO EM RECURSO ESPECIAL PROVIDO.
+1. Os embargos de declaração são cabíveis para sanar omissão, contradição ou obscuridade do julgado recorrido e corrigir erros materiais. O CPC ainda equipara à omissão o julgado que desconsidera acórdãos proferidos sob a sistemática dos recursos repetitivos, incidente de assunção de competência, ou ainda que contenha um dos vícios elencados no art. 489, § 1º, do referido normativo.
+2. No caso, está evidenciada a existência de omissão no acórdão embargado, no ponto em que não examinou as reiteradas alegações da parte recorrente sobre uma importante peculiaridade do caso concreto, qual seja, a resistência do Fisco à extinção da execução fiscal.
+3. Merece acolhida a alegação da embargante de que, se o Fisco manifesta resistência à extinção da execução fiscal, como ocorreu na situação sob análise, é ele quem deve pagar as verbas de sucumbência, invertendo-se a causalidade. Precedentes.
+4. Sano a omissão apontada para integrar o acórdão embargado, entendendo que: 1) fico comprovada a resistência da Fazenda Pública à extinção da execução fiscal, como se vê na apelação interposta às e-STJ, fls. 147-152, em cujo tópico 1.2.1. se advoga a ausência da prescrição; 2) o entendimento da Segunda Turma, a exemplo do decidido no REsp nº 1.814.147/SP (Relator: Ministro Herman Benjamin, DJe de 18/10/2019) é de que, em regra, deve ser a parte executada condenada nos honorários advocatícios nos casos de reconhecimento da prescrição intercorrente, por aplicação do princípio da causalidade;
+contudo, tal entendimento é limitado apenas aos casos em que a Fazenda Pública reconhece, sem resistência, que está diante de causa extintiva da obrigação. Nesse último caso, o Fisco é responsável pelos honorários, em virtude do princípio da sucumbência.
+5. Embargos de declaração providos, com efeitos infringentes. Em consequência, dou provimento ao agravo em recurso especial, para restabelecer a sentença, apenas no que tange à fixação dos honorários advocatícios.
+(EDcl no AgInt no AREsp n. 1.812.894/PR, relator Ministro Og Fernandes, Segunda Turma, julgado em 7/12/2021, DJe de 13/12/2021.)
+Ante o exposto, acolho os embargos de declaração, para dar provimento ao recurso especial e determinar que o Tribunal de origem fixe os honorários advocatícios, nos termos do art. 85, § 3º, do CPC/2015.
+É o voto.
