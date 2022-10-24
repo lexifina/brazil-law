@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno (fls. 864/880) apresentado contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUPOSTA OFENSA AOS ARTS. 489, 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. HORA REPOUSO ALIMENTAÇÃO (HRA). NATUREZA REMUNERATÓRIA. INCIDÊNCIA DA CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. PRECEDENTE. RECURSO NÃO PROVIDO.
+A agravante alega, em síntese, que ficou demonstrada violação aos arts. 489, 1.022 do CPC/15, porquanto o Tribunal de origem não se manifestou sobre questões essenciais para o deslinde da causa; bem como, "a decisão monocrática desconsiderou o caráter interpretativo da Lei nº13.467/17 na parte em que alterou o § 4ºdo artigo 71 da Consolidação das Leis do Trabalho, limitando-se a invocar julgado que não possui força vinculante e não se manifesta expressamente sobre o tema da retroação da lei".
+Requer seja provido o recurso.
+A agravada pleiteia a manutenção da decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.SUPOSTA OFENSA AOS ARTS. 489, 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. HORA REPOUSO ALIMENTAÇÃO (HRA). NATUREZA REMUNERATÓRIA. INCIDÊNCIA DA CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. PRECEDENTE.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aos arts. 489, 1.022 do CPC/15.
+2. A HRA possui nítida natureza remuneratória, submetendo-se à tributação pela contribuição previdenciária patronal, nos termos dos arts. 22, I, 28, da Lei 8.212/1991, devendo ser reconhecida a incidência da contribuição previdenciária patronal sobre a Hora Repouso Alimentação - HRA, até a entrada em vigor da Lei 13.467/2017. Precedente.
+3. Agravo interno não provido.
+VOTO
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+O Tribunal de origem decidiu que:
+Ao contrário do alegado pela recorrente, a remuneração do intervalo destinado à alimentação do trabalhador previsto no art. 71, § 4º da Consolidação das Leis do Trabalho possui natureza salarial passível de incidência de contribuição previdenciária.
+ ..
+Sendo assim, os valores recebidos pelo empregado durante o intervalo intrajornada não possui natureza indenizatória.
+Preliminarmente, depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa aos arts. 489, 1.022 do CPC/2015.
+No mérito, constata-se que o aresto não merece reforma, porquanto a HRA possui nítida natureza remuneratória, submetendo-se à tributação pela contribuição previdenciária patronal, nos termos dos arts. 22, I, 28, da Lei 8.212/1991, devendo ser reconhecida a incidência da contribuição previdenciária patronal sobre a Hora Repouso Alimentação - HRA, até a entrada em vigor da Lei 13.467/2017.
+No mesmo sentido, coleciona-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA. HORA REPOUSO ALIMENTAÇÃO (HRA). NATUREZA REMUNERATÓRIA. INCIDÊNCIA DA CONTRIBUIÇÃO PREVIDENCIÁRIA PATRONAL. SIMILITUDE FÁTICA ENTRE OS CASOS CONFRONTADOS
+1. Cinge-se a controvérsia à possibilidade de incidência da contribuição previdenciária patronal sobre os valores pagos a título de Hora Repouso Alimentação - HRA, prevista nos arts. 3º, II, da Lei 5.811/1972 e 71, § 4º, da CLT.
+2. O acórdão embargado consignou que tal verba " ..  reveste natureza jurídica autenticamente indenizatória, pois seu escopo é recompor direito legítimo do empregado suprimido em virtude das vicissitudes da atividade laborai, assumindo perfil de genuína compensação, de verdadeira contrapartida a que o empregador está obrigado, por lei, a disponibilizar ao obreiro, em virtude da não fruição do direito ao intervalo para refeição e repouso que lhe é garantido, imprescindível ao restabelecimento do seu vigor físico e mental".
+3. Partindo da premissa de que a Hora Repouso Alimentação - HRA possui natureza indenizatória, concluiu que sobre ela não deve incidir a contribuição previdenciária patronal (art. 22, I, da Lei 8.212/1991).
+4. O julgado apontado como paradigma, por sua vez, assentou: "a "Hora Repouso Alimentação - HRA"  ..  é paga como única e direta retribuição pela hora em que o empregado fica à disposição do empregador", configurando, assim, "retribuição pelo trabalho ou pelo tempo à disposição da empresa e se submete à contribuição previdenciária, nos termos do art. 28 da Lei 8.212/1991".
+5. É patente a similitude fática entre os acórdãos confrontados, bem como a divergência entre as soluções jurídicas adotadas em cada caso. PRECEDENTES DA PRIMEIRA E DA SEGUNDA TURMA DO STJ
+6. A Primeira Turma reconheceu que a HRA reveste natureza jurídica autenticamente indenizatória em mais um precedente: REsp 1.328.326/BA, Rel. Min. Gurgel de Faria, Rel. p./ acórdão Min. Regina Helena Costa, Primeira Turma, DJe 26.5.2017.
+7. Na Segunda Turma, prevalece a compreensão de que a Hora Repouso Alimentação - HRA possui natureza remuneratória, devendo incidir sobre ela a contribuição previdenciária patronal. Precedentes: AgInt no REsp 1.727.114/BA, Rel. Min. Francisco Falcão, Segunda Turma, DJe 14.5.2019; AgInt no AREsp 1.122.223/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe 13.8.2019; AgRg no REsp 1.449.331/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 13.5.2016; REsp 1.144.750/RS, Rel. Min. Humberto Martins, Segunda Turma, DJe 25.5.2011; EDcl no REsp 1.157.849/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 26.5.2011. NATUREZA JURÍDICA DA HORA REPOUSO ALIMENTAÇÃO
+8. A Hora Repouso Alimentação - HRA constitui verba paga ao trabalhador pela disponibilidade do empregado no local de trabalho, ou nas suas proximidades, durante o intervalo destinado a repouso e alimentação, conforme o art. 2º, § 2º, da Lei 5.811/1972.
+9. O pagamento por essa "disponibilidade do empregado" é feito nos termos dos arts. 3º, II, da Lei 5.811/1972 e 71, § 4º, da CLT.
+10. A Hora Repouso Alimentação - HRA é paga como única e direta retribuição pela hora em que o empregado fica à disposição do empregador. Ou seja, o trabalhador recebe salário normal pelas oito horas regulares e HRA pela 9ª (nona) hora, em que ficou à disposição da empresa.
+11. Inexiste simplesmente supressão da hora de descanso, hipótese em que o empregado ficaria 8 horas contínuas à disposição da empresa e receberia por 9 horas (haveria "indenização" pela hora de descanso suprimida).
+12. O empregado fica efetivamente 9 (nove) horas contínuas trabalhando ou à disposição da empresa e recebe exatamente por esse período, embora uma dessas horas seja paga em dobro, a título de HRA. Trata-se de situação análoga à hora extra: remuneração pelo tempo efetivamente trabalhado ou à disposição do empregador e sujeita à contribuição previdenciária.
+13. Ao contrário do afirmado no acórdão embargado, a HRA possui nítida natureza remuneratória, submetendo-se à tributação pela contribuição previdenciária patronal, nos termos dos arts. 22, I, e 28 da Lei 8.212/1991.
+14. Tratando da incidência da contribuição previdenciária sobre a HRA, a Segunda Turma do Supremo Tribunal Federal, no julgamento do Agravo Regimental no Recurso Extraordinário 1.039.689/RS (Rel. Min. Dias Toffoli, DJe 11.9.2017), afirmou: "Desse modo, não diverge o Tribunal a quo do entendimento da Corte no sentido da incidência de contribuição previdenciária patronal sobre verbas remuneratórias, conforme ficou deliberado no julgamento do RE nº 565.160/SC (Tema 20 da Gestão por Temas da Repercussão Geral do portal do STF na internet). Verifico que, nessa decisão, a Corte se debruçou sobre o alcance da expressão "folha de salários", contida no art. 195, I, "a", da Constituição Federal, que é base de cálculo da exação em tela".
+15. Em obiter dictum, impende ressaltar que a redação do art. 71, § 4º, da CLT foi alterada pela Lei 13.467/2017: "A não concessão ou a concessão parcial do intervalo intrajornada mínimo, para repouso e alimentação, a empregados urbanos e rurais, implica o pagamento, de natureza indenizatória, apenas do período suprimido, com acréscimo de 50% (cinquenta por cento) sobre o valor da remuneração da hora normal de trabalho".
+16. A compreensão esposada abrange apenas os pagamentos e recolhimentos realizados antes da entrada em vigor da Lei 13.467/2017, uma vez que a nova redação do art. 71, § 4º, da CLT não foi objeto de discussão no presente caso. CONCLUSÃO
+17. Embargos de Divergência providos, para reconhecer a incidência da contribuição previdenciária patronal sobre a Hora Repouso Alimentação - HRA, até a entrada em vigor da Lei 13.467/2017.
+(EREsp n. 1.619.117/BA, relator Ministro Herman Benjamin, Primeira Seção, DJe de 8/5/2020.)
+Assim, não merece reparo a decisão agravada.
+Diante do exposto, nego provimento ao agravo interno.
+É o voto.
