@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por GUSTAVO MATTHEUS DA SILVA SENAem face dedecisão que não conheceu dowrit, mas concedeu ordem dehabeas corpus, de ofício,para reduzir as penas do paciente para 7 (sete) anos,9 (nove) meses e 10 (dez) dias de reclusão e 777 (setecentos e setenta e sete) dias-multa, mantidos os demais termos da condenação(e-STJ fl. 61/70).
+Em suas razões (e-STJ fls. 74/77), o embargante sustenta que a decisão embargadase encontramaculada pelos vícios da contradição, fatorcondicionante dos presentes embargos declaratórios, os quais tem por objetivo simplesmente a correção de tais faltas, restituindo a plena validade da decisão (e-STJ fls. 74/75).
+Para tanto, alega que, no tocante a aplicação da pena, não foi descontada na referida r. decisão a atenuante da confissão que já fora concedida ao embargante, devendo ser valorada para a devida aplicação da pena de acordo com a confissão espontânea feita em juízo e como já dito, já concedida(e-STJ fl. 75).
+Além disso, aponta que foi fixado o regime fechado, entretanto não foi fundamentado o motivo para tanto (e-STJ fl. 75).
+Por fim, defende a necessidade de aplicação da regra da detração contida no §2º do art. 387 do Código de Processo Penal.
+Ao final, pede o acolhimento dos presentes embargos, com efeitos modificativos, para que seja aplicada a atenuante da confissão espontânea e o regime inicial seja alterado para semiaberto.
+É o relatório. Decido.
+É ressabido que os embargos de declaração são cabíveis quando o provimento jurisdicional padece de ambiguidade, obscuridade, contradição ou omissão, nos ditames do art. 619 do Código de Processo Penal, bem como para sanar eventual erro material.
+No caso, inexiste contradição ou omissão a serem dirimidas.
+Com efeito, a atenuante da confissão espontânea foi efetivamente considerada no redimensionamento da pena do paciente, tal como ocorreu na origem, conforme segue (e-STJ fl. 70 - grifei):
+Mantidas as penas do paciente em 6 anos e 8 meses de reclusão e 666 dias-multa ao término da segunda fase da dosimetria, reduzo a fração da majorante prevista no art. 40, inciso V, da Lei n. 11.343/2006 para 1/6, razão pela qual torno as penas do paciente definitivas em 7 anos,9 meses e 10 dias de reclusão e 777 dias-multa.
+Nesse sentido, cumpre destacar que a pena-base do paciente foi fixada na origem em 8anos de reclusão e 800 dias-multa e reduzida de1/6 pela atenuante da confissão espontânea, alcançando 6 anos e 8 meses de reclusão e 666 dias-multa ao término da segunda fase da dosimetria.
+Quanto ao regime prisional, a manutenção do regime inicial fechado foi suficientemente motivada, nos termos seguintes (e-STJ fl.70 - grifei):
+Não obstante a redução da pena privativa de liberdade do paciente para patamar que não excede 8 anos de reclusão, mantenho o regime inicial fechado com base nos maus antecedentes e expressiva quantidade das drogas apreendidas, sopesadas na primeira fase da dosimetria, conforme o art.33,§§ 2º e 3º, do Código Penal.
+Por fim, além de não ter sido objeto de insurgência, na espécie, é irrelevante a regra da detração contida no§ 2º do art. 387 do Código de Processo Penal na hipótese dos autos, tendo em vista que o tempo de pena cumprida em caráter provisório pelo paciente (prisão em flagrante em 20/8/2021, convertida em preventiva) não tem o condão de conduzir a sua pena para patamar inferior a 4 anos de reclusão, permanecendoentre as balizas previstas no art. 33, § 2º, "b", do Código Penal. Nesse sentido:HC 540.742/SP, Rel.Ministro LEOPOLDO DE ARRUDA RAPOSO, Quinta Turma,DJe 19/12/2019;AgRg no HC 508.076/SP, Rel.Ministro ANTÔNIO SALDANHA PALHEIRO, Sexta Turma,DJe 2/12/2019.
+Portanto, os presentes embargos declaratórios não comportam acolhimento, na medida em que a decisão embargadanão incorreu em nenhum vício que demande integração.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
