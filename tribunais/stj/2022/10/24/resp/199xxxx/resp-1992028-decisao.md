@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAVISERVICE SERVIÇOS DE PAVIMENTAÇÃO LTDA., com respaldona alínea "a"do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado (e-STJ fl. 444):
+APELAÇÃO. PROCESSUAL CIVIL. REVEL SEM PATRONO NOS AUTOS. PRAZOS FLUEM DESDE A PUBLICAÇÃO DO ATO. INTEMPESTIVIDADE. APELAÇÃO NÃO CONHECIDA.
+1. Trata-se de apelação interposta por PAVISERVICE SERVIÇOS DE PAVIMENTAÇÃO LTDA contra sentença que condenou a apelante ao pagamento de R$ 1.998.720,33 em favor da CODEVASF.
+2. O cerne da presente controvérsia consiste em perquirir a regularidade da sentença prolatada.
+3. No presente caso, não cabe conhecer a apelação interposta, porque o foi intempestivamente. A sentença, prolatada em 12/06/2019, transitou em julgado em 16/07/2019, conforme certidão nos autos. A ora apelante foi considerada revel, sem representação nos autos, de sorte que os prazos fluíram contra si da data da publicação do ato decisório no órgão oficial, despicienda a intimação. Assim, publicada a sentença em 12/06/2019, a apelação interposta em 04/10/2019 é manifestamente intempestiva.
+4. Quanto à decretação da revelia, esta se deu, sem impugnação superveniente, em sede de decisão anterior à sentença, em virtude da inércia da empresa em apresentar sua defesa, não obstante tenham sido oportunizados diferentes momentos para tanto pelo juízo.
+5. Apelação não conhecida.
+Embargos de declaração rejeitados (e-STJ fls. 497/500).
+Em suas razões, a parte recorrente apontaviolação do art.489, § 1º, IV,do CPC/2015 (nulidadepor negativa de prestação jurisdicional, e, no mérito, alega vulneração dos arts.230, 231, VI, 72, II, 335, III e 344, todos do CPC/2015, argumentando, em suma,que descabe falar emrevelia e em intempestividade de sua apelação porque a carta precatória expedida para que regularizasse sua representação processual somente foi juntadaapós a prolação da sentença, pelo que "não teria como ter sido intimada da sentença proferida nos autos de origem em 12/6/2019, como não foi, haja vista que o referido decisum foi prolatado antes mesmo da juntada da carta precatória, que determinou a intimação da ré para apresentar contestação e regularizar representação processual e essa regularização somente se deu em 30/7/2019" (e-STJ fl. 523).
+Contrarrazões às e-STJ fls. 569/579.
+Juízo positivo de admissibilidade pelo Tribunal de origem àe-STJ fl. 581.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+Quanto à alegada ofensa ao art. 489, § 1º, do CPC/2015, não se vislumbra nenhum equivoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem se pronunciou de modo suficientemente fundamentado sobre a intempestividade da apelação, apontandoas razões de seu convencimento.
+Em relação à alegada ofensados arts.230, 231, VI, 72, II, 335, III e 344, todos do CPC/2015,observa-se que o Tribunal a quo não emitiu juízo de valor sobre os referidos dispositivos, embora suscitados nos embargos de declaração, carecendo o apelo nobre do requisito constitucional do prequestionamento. Incidena espécieo óbice da Súmula 211 do STJ.
+É verdade que o art. 1.025 do Código de Processo Civil de 2015 consagrou o "prequestionamento ficto", o qual prescreve, in verbis:
+Art. 1.025. Consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade.
+Ocorre que esta Corte tem entendido que o acolhimento do prequestionamento ficto de que trata o aludido dispositivo, na via do especial, exige do recorrente a indicação de violação do art. 1.022 do CPC/2015, "para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (AgInt no AREsp 1.067.275/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/10/2017, DJe 13/10/2017, e AgInt no REsp 1.631.358/RN, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 27/06/2017, DJe 30/06/2017), o que não ocorreu, in casu.
+Acerca da hipótese:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CLÁUSULAS CONTRATUAIS CUMULADA COM COBRANÇA DE MULTA E INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC. INOCORRÊNCIA. INCIDÊNCIA DA SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. AUSÊNCIA. REDISTRIBUIÇÃO DA SUCUMBÊNCIA. IMPOSSIBILIDADE.
+1. Ação de revisão de cláusulas contratuais cumulada com cobrança de multa e indenização por danos materiais e compensação por danos morais.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Não tendo o Tribunal de origem discutido o artigo tido por violado e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade, não há que se falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula 211/STJ.
+5. A jurisprudência consolidada nesta Corte Superior é no sentido de que a revisão do quantitativo em que autor e réu decaíram do pedido para fins de aferição de sucumbência recíproca ou mínima implica reexame de matéria fático-probatória, incidindo a Súmula 7/STJ.
+Precedentes.
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 2.086.253/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 10/10/2022, DJe de 13/10/2022.) (Grifos acrescidos).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
