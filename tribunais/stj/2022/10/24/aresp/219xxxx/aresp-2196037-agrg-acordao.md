@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. APELO RARO. INADMISSÃO. FUNDAMENTOS. IMPUGNAÇÃO CONCRETA. AUSÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausente a impugnação concreta aos fundamentos da decisão que inadmitiu o apelo nobre, correta a decisão que não conheceu do agravo em recurso especial - Súmula n. 182/STJ.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por RANDINEI LUCENA SOUZA contra decisão da Presidência desta Corte Superior que não conheceu de agravo em recurso especial devido à ausência de impugnação específica de todos os fundamentos da decisão agravada - Súmula 182/STJ (fls. 1.580-1580).
+O agravante foi condenado como incurso no art. 33, caput, da Lei n. 11.343/06 e no art. 2.º, caput e § 2.º, da Lei n. 12.850/13, às penas de 11 (onze) anos de reclusão, em regime inicial fechado, e 551 (quinhentos e cinquenta e um) dias-multa.
+Nas razões do agravo regimental, a Defesa sustenta que seria desnecessária a impugnação de todos os capítulos da decisão que inadmitiu o recurso especial, bem como, que é possível a concessão da ordem de habeas corpus de ofício.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. TRÁFICO DE DROGAS E ORGANIZAÇÃO CRIMINOSA. APELO RARO. INADMISSÃO. FUNDAMENTOS. IMPUGNAÇÃO CONCRETA. AUSÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ausente a impugnação concreta aos fundamentos da decisão que inadmitiu o apelo nobre, correta a decisão que não conheceu do agravo em recurso especial - Súmula n. 182/STJ.
+2. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Em que pese o esforço defensivo, o agravo regimental não comporta provimento, pois efetivamente não houve a impugnação específica e concreta de todos os fundamentos apresentados pelo Tribunal estadual para inadmitir o recurso especial.
+Com efeito, a Corte de origem não admitiu o recurso especial em razão da ausência de prequestionamento e do óbice da Súmula n. 7/STJ (fls. 1552-1559). Todavia, nas razões do agravo contra essa decisão, o Agravante não impugnou concretamente o óbice da Súmula n. 7 desta Corte Superior.
+Ressalte-se que, conforme a jurisprudência desta Corte Superior, "para afastar a aplicação da Súmula n. 7 do STJ, não é bastante a mera afirmação de sua não incidência na espécie, devendo a parte apresentar argumentação suficiente a fim de demonstrar que, para o STJ mudar o entendimento da instância de origem sobre a questão suscitada, não é necessário reexame de fatos e provas da causa" (AgRg no AREsp 1.750.146/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 09/03/2021, DJe 12/03/2021), o que não ocorreu no caso em preço.
+Ademais, ao contrário do que pretende o Agravante, a jurisprudência da Corte Especial do Superior Tribunal de Justiça compreende não ser possível a decomposição da decisão que inadmite o recurso especial em capítulos autônomos, de modo que a ausência de impugnação de qualquer um dos fundamentos da decisão de inadmissão acarreta a impossibilidade de conhecimento da integralidade do respectivo agravo.
+A esse respeito, confira-se:
+"PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos." (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018, sem grifos no original.)
+Por fim, registra-se que "é incabível o pedido de concessão de habeas corpus de ofício para burlar o não conhecimento de recurso por esta Corte. A aplicação do art. 654, § 2º, do CPP ocorre por iniciativa do próprio órgão julgador, quando constatada flagrante ilegalidade a direito de locomoção" (AgRg no AREsp 1.235.019/SP, Rel. Ministro ROGERIO SCHIETTI, SEXTA TURMA, DJe 25/08/2020), situação que não se verifica no caso.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
