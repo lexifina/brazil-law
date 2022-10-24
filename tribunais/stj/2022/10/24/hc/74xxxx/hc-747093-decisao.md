@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpuscontraacórdão assim ementado (fl. 11):
+EXECUÇÃO PENAL. RECURSO DE AGRAVO. REINCIDÊNCIA. CONDIÇÃO PESSOAL. INTERRUPÇÃO DA PRESCRIÇÃO EXECUTÓRIA. ACRÉSCIMO DE UM TERÇO AO LAPSO PRESCRICIONAL. DECISÃO MANTIDA.
+1. A reincidência, por ser uma condição pessoal do sentenciado, deve ser considerada pelo conjunto das reprimendas em execução, inclusive em relações às condenações anteriores em que o apenado foi tido por primário.
+2. A reincidência consiste em causa interruptiva da prescrição executória, e o seu reconhecimento impõe o acréscimo de 1/3 (um terço) ao prazo prescricional, nos termos do artigo 110, caput, e artigo 117, inciso VI, ambos do Código Penal.
+3. No caso, sendo a reincidência o último marco de interrupção da prescrição executória, e considerando o incremento de 1/3 (um terço) ao lapso prescricional, é de se ver que não transcorreu o intervalo temporal necessário para extinção de punibilidade do crime de furto.
+4. Recurso de agravo conhecido e desprovido.
+Consta dos autos que o Juízo das Execuções indeferiu o pedido defensivo de reconhecimento da prescrição da pretensão executória, ocasião em que concluiu que a reincidência deve irradiar seus efeitos para todas as execuções, razão de fazer incidir o aumento de 1/3 no cálculo do prazo prescricional.
+Sustenta a impetrante a existência de constrangimento ilegal uma vez que a conclusão ofende o princípio que protege a coisa julgada, não sendo possível que uma condição reconhecida em sentença condenatória seja posteriormente modificada.
+Defende assim que não se faz possível, na fase de execução penal, aplicar os efeitos da reincidência verificada em delitos posteriores ao que está em análise, para alterar o cálculo do prazo prescricional com o acréscimo de 1/3.
+Requer a concessão da ordem.
+As informações foram prestadas.
+O Ministério Público Federal manifesta-se pelo não conhecimento ou pela denegaçãoda ordem.
+OTribunal de origem, ao negar provimento ao agravo em execuçãoconsignou (fls. 83/84):
+Na esteira da decisão atacada, entendo que a reincidência, genérica ou específica, por ser condição de caráter pessoal do sentenciado, deve ser considerada em relação ao conjunto das reprimendas, tenha ela sido reconhecida antes ou depois do cometimento do crime cuja sanção se executa. Nessa linha, a Terceira Seção do Superior Tribunal de Justiça pacificou que a reincidência irradia efeitos para as execuções decorrentes de condenações em que não houve a consideração desta circunstância agravante, ainda que tal condição não tenha sido identificada no título condenatório executado.
+ ..
+Por igual, a Câmara Criminal deste Tribunal de Justiça entende que a reincidência irradia efeitos sobre toda a pena unificada, alcançando fatos nos quais não houve aplicação da agravante na condenação:
+Como se observa, a Cortea quonegou provimento ao recurso da defesa por entender que "a reincidência, genérica ou específica, por ser condição de caráter pessoal do sentenciado, deve ser considerada em relação ao conjunto das reprimendas, tenha ela sido reconhecida antes ou depois do cometimento do crime cuja sanção se executa".
+Com efeito, nos termos do entendimento deste Superior Tribunal de Justiça, "A reincidência é circunstância pessoal que interfere na execução como um todo"(HC 307.180/RS, Ministro Felix Fisher, Quinta Turma, DJe 13/5/2015).
+Saliente-se que o reconhecimento da reincidência nas fases de conhecimento ou de execução penal produz efeitos diversos, pois,na fase de conhecimento, a reincidência conduz ao agravamento da reprimenda, enquanto a reincidência na execução acarreta regras específicas de cumprimento da sanção.
+Logo, nada impede que seja a reincidência reconhecidana execução penal, mesmo não tendo sido reconhecidano processo de conhecimento.
+Nesse sentido, nos termos da orientação jurisprudencial desta Corte, se o sentenciado passou a ostentar a condição de reincidenteno curso da execução, o cálculo do lapso temporal para a contagem da prescrição deve considerar a condição de réureincidente, sendo irrelevante a existência de condenação anterior em que foi reconhecida a primariedade. A propósito:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PROGRESSÃO DE REGIME. REINCIDÊNCIA. RECONHECIMENTO PELO JUÍZO DA EXECUÇÃO. POSSIBILIDADE. CIRCUNSTÂNCIA DE CARÁTER PESSOAL QUE DEVE SER CONSIDERADA NA FASE DE EXECUÇÃO E INCIDE SOBRE A TOTALIDADE DAS PENAS SOMADAS. PERCENTUAL APLICADO PARA FINS DE PROGRESSÃO DE REGIME. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO SEM RESULTADO MORTE. 60% OU 3/5 DA PENA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior de Justiça possui entendimento no sentido de que "(..) a não incidência da reincidência na fase de conhecimento não impede o reconhecimento dos seus efeitos na fase executória, não havendo falar em ofensa aos limites da coisa julgada ou ao princípio da non reformatio in pejus" (AgRg no HC 380.357/ES, Rel.Ministro JORGE MUSSI, QUINTA TURMA, DJe 7/3/2018).
+2. "A reincidência é circunstância de caráter pessoal que deve ser considerada na fase de execução, quando da unificação das penas, estendendo-se sobre a totalidade das penas somadas, com repercussão no cálculo dos benefícios executórios" (REsp 1957657/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 26/11/2021).
+3. Tratando-se de reincidente específico condenado por crime hediondo sem resultado morte praticado antes da Lei n. 13.964/19, deve ser aplicada a fração de 3/5 prevista tanto no art. 2º, § 2º, da Lei n. 8.072/90, vigente à época dos fatos, quanto na nova redação do art. 112, inciso VI, da Lei de Execução Penal - LEP, com as alterações introduzidas pela Lei n. 13.964/2019.
+4. Agravo regimental desprovido.(AgRg no REsp n. 1.986.299/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/5/2022, DJe de 26/5/2022.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NÃO OCORRÊNCIA. REINCIDÊNCIA RECONHECIDA PELO JUÍZO DAS EXECUÇÕES. POSSIBILIDADE. AUSÊNCIA DO TRANSCURSO DO LAPSO NECESSÁRIO AO RECONHECIMENTO DA CAUSA EXTINTIVA DE PUNIBILIDADE.
+1. A Terceira Seção desta Corte, em 27/11/2019, pacificou o entendimento de que a intangibilidade da sentença penal condenatória transitada em julgado não retira do Juízo das Execuções Penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu (EREsp n. 1.738.968/MG, Ministra LAURITA VAZ, TERCEIRA SEÇÃO, DJe 17/12/2019).
+2. Não havendo ilegalidade quanto à consideração da reincidência do recorrente pelo Juízo das execuções, não há que se falar em prescrição da pretensão executória pela ausência do transcurso do lapso necessário ao reconhecimento da causa extintiva de punibilidade.
+3. Agravo regimental desprovido.(AgRg no RHC n. 110.275/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 23/3/2021, DJe de 30/3/2021.)
+O entendimento constante adotado pelas instâncias ordinárias, portanto, está em harmonia com a jurisprudência desta Corte, não se vislumbrando constrangimento ilegal a ser sanado nesta via.
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
