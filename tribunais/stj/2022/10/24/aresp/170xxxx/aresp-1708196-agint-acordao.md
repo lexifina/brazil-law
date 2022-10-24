@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+BENEDITO JORGE DE CARVALHO (BENEDITO) ajuizou ação de despejo por falta de pagamento contraMARIA DE FÁTIMA LEME IKE (MARIA), em fase de execução, objetivando o recebimento de aluguéis atrasados.
+Em primeira instância, o MMJuiz a quo indeferiu o pedido de MARIA referente à realização de perícia, alegando que a questão visa rediscutir matéria já decidida.
+O Tribunal de Justiça do Estado de São Paulo negou provimento ao agravo de instrumentointerposto por MARIA, em acórdão proferido pelo Desembargador CARLOS HENRIQUE MIGUEL TREVISAN, assim ementado:
+PROCESSUAL CIVIL. Ação de despejo julgada procedente. Fase de execução. Penhora de imóvel da executada. Produto da arrematação levantado por terceiro (condomínio) em decorrência de condenação imposta à executada em ação de cobrança. Prosseguimento da execução. Alegações de quitação da dívida perante o condomínio e de satisfação do crédito do autor da ação de despejo. Pretensão da executada de se determinar ao condomínio que apresente recibo/quitação das taxas condominiais liquidadas, de se declarar extinta a execução do título judicial oriundo da ação de despejo e de determinar a elaboração de perícia contábil atuarial. Decisão de primeiro grau de indeferimento. Agravo interposto pela executada. Requisito de admissibilidade recursal. Descumprimento do artigo 1.017, incisos I e II, do Código de Processo Civil. Ausência de peças relevantes à compreensão da controvérsiarecursal. Recurso não conhecido(e-STJ, fls. 85/88).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 143/145).
+Irresignada, MARIA interpôs recurso especial com base no art. 105, III, alíneaa, da Constituição Federal, apontando a violação dos arts. 7º, 8º, 10e 77, I e II, do Código de Processo Civil,ao sustentar a existência de erro de cálculo,pois a dívida já foi quitada integralmente aose considerarque BENEDITO sacou a quantia de R$ 93.708,80 (noventa e três mil, setecentos e oito reais e oitenta centavos) da conta judicial onde foi depositado o valor da arrematação.
+Foram apresentadas contrarrazões (e-STJ, fls. 234/238).
+O recurso não foi admitido pelo TJSP, por incidência da Súmula n.º 7 do STJ (e-STJ, fls. 241/242).
+Sobreveioagravo em recurso especial. OMinistro Presidente do Superior Tribunal de Justiçadeterminou a intimaçãoda parte recorrente para comprovar a condição de beneficiáriada gratuidade de justiça deferida pela origem, expressa ou tacitamente, ou realizar o recolhimento em dobro do preparo, no prazo de 5 dias (e-STJ, fls. 341).
+Diante da inércia de MARIA, por decisão monocrática, o Ministro Presidente do STJ, relator, nãoconheceu do recurso sob o fundamento de que o apelo nobre não foi instruído com as guias de preparo e os respectivos comprovantes de pagamento (e-STJ, fls. 347/348).
+Nas razões do presente agravo interno, MARIAafirma ser beneficiária da justiça gratuita, não sendo necessário que a parte renove o pedido a cada recurso interposto. Sustenta quese o advogado declara, em petição dirigida ao Tribunal, que a parte é beneficiária da gratuidade, tal declaração merece credibilidade(e-STJ, fls. 351/385).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. AÇÃO DE DESPEJO EM FASE DE EXECUÇÃO. AUSÊNCIA DE COMPROVAÇÃO DA CONCESSÃO DA GRATUIDADE DA JUSTIÇA NA ORIGEM. INTIMAÇÃO PARA REGULARIZAÇÃO. INÉRCIA.AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A partebeneficiáriada justiça gratuita deve fazer prova dessa condiçãono momento da interposição do recurso. Não o fazendo, deve a parte recorrente arcar com o ônus daí advindo.
+3. Se mesmo após regular intimação não for comprovado o recolhimento do preparo na forma devida ou o deferimento da gratuidade da justiça na origem, a preclusão é inafastável e o recurso especial deve ser considerado deserto, nos termos do art.1.007, § 4º, do NCPC.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Segundo se infere dos autos, a petição de recurso especial foi interposta desacompanhada do comprovante de pagamento de custas, tendo em vista que MARIA afirmou ser beneficiária da justiça gratuita (e-STJ, fls. 188).
+Entretanto,aindaque beneficiáriade tal benesse, tal fato deveria estar comprovado no momento da interposição do apelo nobre, o que não ocorreu no presente caso.
+Verifica-se que, apesar de devidamente intimada para comprovar a concessão da gratuidade da justiça na origem, ou o pagamento em dobro do preparo, MARIAdeixou transcorrer o prazo sem manifestação, conforme certidão às, e-STJ fls. 344.
+Sendo assim, merece ser mantida a decisão agravada, pois, conforme preconiza a jurisprudência desta Corte:Se a parte, mesmo após regular intimação, não comprova o recolhimento do preparo na forma devida ou o deferimento da gratuidade da justiça na origem, a preclusão é inafastável e o recurso especialdeve ser considerado deserto, nos termos do artigo 1.007, § 4º do CPC (AgInt no AREsp 1.177.962/SP).
+Ressalta-se que não se admite, evidentemente, que o relator do recurso busque suprir essa falta do recorrente, identificando no processo se ele faz jus à benesse legal, uma vez que essa tarefa não lhe incumbe. É ônus da parte, portanto, no ato da interposição do recurso, fazer prova da condição de dispensa do recolhimento do preparo, permitindo que ao recurso seja dado o devido seguimento. Não o fazendo, deve a parte arcar com o ônus daí advindo.
+Nesse sentido, vejam-se os seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA. FALTA DE COMPROVAÇÃO. DESERÇÃO. DECISÃO MANTIDA.
+1. Nos termos do entendimento jurisprudencial pacificado nesta Corte mera afirmação da parte na petição de ser hipossuficiente financeira para obtenção do benefício da assistência judiciária gratuita é insuficiente para o afastamento da pena de deserção imposta no óbice da Súmula 187 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.113.984/MA, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 18/4/2018 - sem destaque no original)
+PROCESSO CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DESERÇÃO DO RECURSO ESPECIAL. NÃO COMPROVAÇÃO DA CONDIÇÃO DE BENEFICIÁRIO DA JUSTIÇA GRATUITA. FUNDAMENTO SUFICIENTE INATACADO.
+1. Caso em que a parte autora recolheu as custas iniciais do processo, bem como realizou o preparo da apelação, deixando, contudo, de efetuar o preparo referente ao recurso especial, limitando-se a afirmar, nas razões desse recurso, que estaria amparada pela gratuidade de justiça. Deserção do recurso especial configurada.
+2. A concessão da gratuidade da justiça deve ser comprovada, não bastando mera alegação da parte. Fundamento não impugnado e suficiente, por si só, para manter a conclusão do julgado. 3. Agravo regimental desprovido.
+(AgRg no AREsp 594.539/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 5/3/2015 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. INTERPOSIÇÃO. CUSTAS JUDICIAIS. AUSÊNCIA DE RECOLHIMENTO. ART. 511 DO CPC. DESERÇÃO.
+1. O pedido ou a comprovação do direito a gratuidade de justiça deve ser feito no ato da interposição dos embargos de divergência, e não posteriormente
+2. Precedentes: EDcl nos EREsp 1175699/RS, Rel. Min. Humberto Martins, Corte Especial, DJe 6.2.2012; RCDEsp nos EAg 1.014.514/RS, Rel. Ministra Eliana Calmon, Corte Especial, DJe 4.5.2009; AgRg nos EAg 1.302.100/RS, Rel. Min. Gilson Dipp, Corte Especial, DJe 11.11.2010; EDcl nos EREsp 1.136.867/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 10.3.2011; AgRg nos EREsp 235.268/SC, Rel. Adilson Vieira Macabu (Desembargador Convocado do TJ/RJ), Terceira Seção, DJe 30.3.2011; RCDEsp nos EREsp 1.088.620/SP, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe 19.11.2009. Agravo regimental improvido.
+(AgRg nos EREsp 1.140.406/RS, Rel. Ministro Humberto Martins, Corte Especial, julgado em 2/5/2012, DJe 18/5/2012)
+Cumpre ressaltar quedeve ser reconhecida a preclusão quanto ao documento agora carreado aos autos, acerca do beneplácito concedido na origem. Ilustrativamente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO RECURSAL. COMPROVAÇÃO NA FORMA DEVIDA. AUSÊNCIA. PRECLUSÃO CONSUMATIVA. DESERÇÃO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Não logrando comprovar o recolhimento do preparo na forma devida, mesmo após regular intimação, a preclusão é inafastável e o recurso especial deve ser considerado deserto, nos termos do artigo 1.007, § 4º, do CPC/2015 e da Súmula 187 do Superior Tribunal de Justiça. 2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.166.717/SP, Rel. Ministro LÁZARO GUIMARÃES, Desembargador convocado do TRF 5ª Região, Quarta Turma, DJe 29/6/2018)
+Assim, forçoso concluir que o presente agravo internonão se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido pelos seus próprios fundamentos.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
