@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  ODETE  ROCKENBACH  STR HER  e  OUTROS  contra  a  decisão  (fls.  669/673,  e-STJ)  da  Presidência  do  Superior  Tribunal  de  Justiça  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial.
+Naquela  oportunidade,  concluiu-se  pela  incidência  da  Súmula  nº  7/STJ  e  pela  ausência  de  comprovação  da  divergência  jurisprudencial.
+Nas  presentes  razões,  os  agravantes  afirmam  que  a  questão  discutida  no  recurso  especial  é  exclusivamente  de  direito,  pelo  que  não  há  falar  na  aplicação  da  Súmula  nº  7/STJ.
+Além  disso,  alega  que  foi  devidamente  caracterizada  a  ofensa  aos  artigos  515,  I,  do  Código  de  Processo  Civil  de  2015  e  406  do  Código  Civil,  bem  como  a  existência  de  divergência  jurisprudencial.
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AGRAVO  DE  INSTRUMENTO.  IMPUGNAÇÃO  AO  CUMPRIMENTO  DE  SENTENÇA.  TÍTULO  EXECUTIVO  JUDICIAL.  INEXIGIBILIDADE.  REVISÃO.  SÚMULA  Nº  7/STJ.  TAXA  SELIC.  IMPOSSIBILIDADE.  INOVAÇÃO  RECURSAL.  SÚMULA  Nº  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL.  COMPROVAÇÃO.  AUSÊNCIA.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Na hipótese,  rever  as  conclusões  firmadas  pelas  instâncias  ordinárias,  a  partir  da  tese  de  que  a  parte  adversa  não  detinha  título  executivo  judicial  em  seu  favor  quando  do  ajuizamento  do  pedido  de  cumprimento  de  sentença,  demandaria  a  análise  de  fatos  e  provas  dos  autos,  o  que  é  inviável  no  recurso  especial  devido ao  óbice  da  Súmula  nº  7/STJ.
+3.  O  acolhimento  da  tese  recursal  acerca  da  aplicação  da  taxa  SELIC,  considerando  que  a  matéria  não  foi  conhecida  na  origem  por  constituir  inovação  recursal,  atrairia a  necessidade  de  apreciação  , por esta Corte,  de  matéria  fático-probatória  ,  procedimento obstado pelo disposto na  Súmula  nº  7/STJ.
+4.  A  divergência  jurisprudencial  com  fundamento  na  alínea  "c"  do  permissivo  constitucional  requisita  comprovação  e  demonstração,  esta,  em  qualquer  caso,  com  a  transcrição  dos  trechos  dos  acórdãos  que  configurem  o  dissídio,  mencionando-se  as  circunstâncias  que  identifiquem  ou  assemelhem  os  casos  confrontados,  não  se  oferecendo  como  bastante  a  simples  transcrição  de  ementas,  sem  realizar  o  necessário  cotejo  analítico  a  evidenciar  a  similitude  fática  entre  os  casos  apontados  e  a  divergência  de  interpretações.
+5.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+No  tocante  à  alegada  violação  do  art.  515,  I,  do  CPC/2015,  o  tribunal  de  origem  manteve  os  fundamentos  da  sentença  quanto  à  exigibilidade  do  título  executivo,  nos  seguintes  termos  :
+"(..)
+(..)  A  impugnação  procede  em  parte.  Em  primeiro  lugar,  em  relação  à  alegação  de  inexigibilidade  do  título,  o  STJ,  em  sede  de  REsp.,  anulou  o  julgamento  dos  Embargos  de  Declaração  impetrados  contra  o  acórdão  na  Apelação  Cível  nº  70056694987.  No  entanto,  em  27/09/2017  proferiu  nova  decisão  nos  Embargos  de  Declaração,  suprindo,  assim,  a  irregularidade.  Assim,  o  REsp.  não  possui  efeito  suspensivo  e,  dessa  forma,  pode  ser  aforada  a  execução  provisória  nos  termos  do  disposto  no  art.  520  do  CPC/2015.(..)
+(..)"  (fl.  466,  e-STJ).
+Nesse  contexto,  para  rever  as  conclusões  firmadas  pelas  instâncias  ordinárias,  a  partir  da  tese  de  que  a  parte  adversa  não  detinha  título  executivo  judicial  em  seu  favor  quando  do  ajuizamento  do  pedido  de  cumprimento  de  sentença,  demandaria  a  análise  de  fatos  e  provas  dos  autos,  procedimento  inviável  em  recurso  especial  devido ao  óbice  da  Súmula  nº  7/STJ.
+A  propósito:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DECISÃO  DA  PRESIDÊNCIA.  RECONSIDERAÇÃO.  CUMPRIMENTO  DE  SENTENÇA.  BENEFÍCIO  DA  JUSTIÇA  GRATUITA.  OFENSA  A  DISPOSITIVO  CONSTITUCIONAL.  INVIABILIDADE.  TEMPESTIVIDADE  DA  IMPUGNAÇÃO  RECONHECIDA.  FUNDAMENTO  NÃO  IMPUGNADO.  SÚMULA  283/STF.  TÍTULO  EXECUTIVO.  REEXAME  DE  FATOS  E  PROVAS.  SÚMULA  7/STJ.  AGRAVO  INTERNO  PROVIDO  PARA  CONHECER  DO  AGRAVO  E  NEGAR  PROVIMENTO  AO  RECURSO  ESPECIAL.
+(..)
+5.  No  caso  dos  autos,  a  Corte  de  origem  concluiu  que,  no  que  tange  ao  pagamento  de  IPTU  e  despesas  condominiais,  inexiste  título  executivo  judicial  capaz  de  amparar  o  pedido,  não  sendo  possível  alargar  o  conteúdo  da  sentença  condenatória  transitada  em  julgado  em  sede  de  cumprimento  de  sentença.  A  modificação  de  tal  entendimento  demandaria  a  análise  do  acervo  fático-probatório  dos  autos,  o  que  é  vedado  pela  Súmula  7  do  STJ.
+6.  Agravo  interno  provido  para,  reconsiderando  a  decisão  agravada,  conhecer  do  agravo  para  negar  provimento  ao  recurso  especial"  (AgInt  nos  EDcl  no  AREsp  1.588.826/SP,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  15/6/2020,  DJe  de  1º/7/2020).
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DESERÇÃO.  ASSISTÊNCIA  JUDICIÁRIA.  RENOVAÇÃO  DO  PEDIDO.  DESNECESSIDADE.  ARTS.  223  E  330,  I  E  II,  DO  CPC.  FALTA  DE  PREQUESTIONAMENTO.  ASTREINTES.  CUMPRIMENTO  DE  SENTENÇA  EXTINTO.  INEXISTÊNCIA  DE  TÍTULO  EXECUTIVO.  REQUISITOS  DO  TÍTULO.  REVISÃO.  SÚMULA  N.  7/STJ.
+1.  A  assistência  judiciária  gratuita  estende-se  a  todas  as  instâncias  e  a  todos  os  atos  do  processo.
+2.  A  renovação  do  pedido  ou  a  comprovação  de  que  a  parte  recorrente  é  beneficiária  da  justiça  gratuita  não  é  necessária  quando  da  interposição  do  recurso  especial.
+3.  Aplicam-se  os  óbices  previstos  nas  Súmulas  n.  282  e  356  do  STF  quando  as  questões  suscitadas  no  recurso  especial  não  tenham  sido  debatidas  no  acórdão  recorrido  nem,  a  respeito,  tenham  sido  opostos  embargos  declaratórios.
+4.  Aplica-se  a  Súmula  n.  7  do  STJ  na  hipótese  em  que  o  acolhimento  da  tese  versada  no  recurso  especial  reclamar  a  análise  dos  elementos  probatórios  produzidos  ao  longo  da  demanda.
+5.  Agravo  regimental  desprovido"  (AgRg  no  AREsp  614.353/RS,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  Terceira  Turma,  julgado  em  5/5/2015,  DJe  de  11/5/2015).
+No  que  tange  ao  art.  406  do  Código  Civil,  a  Corte  local  entendeu  que  a  irresignação  não  poderia  ser  conhecida  por  se  tratar  de  inovação  recursal.
+É  o  que  se  colhe  do  seguinte  trecho  do  acórdão  que  julgou  os  aclaratórios:
+"(..)
+Da  análise  dos  autos,  observa-se  que  a  discussão  acerca  da  utilização  da  taxa  SELIC  como  indexador  para  o  caso,  em  momento  algum  foi  trazida  pela  parte  embargante  no  primeiro  grau,  muito  pelo  contrário,  pois,  conforme  se  verifica  da  impugnação  apresentada,  sua  postulação  é  no  sentido  de  incidir  a  correção  monetária  pelo  IGP-M.
+Desse  modo,  sequer  merece  ser  conhecido  tal  irresignação  no  ponto,  uma  vez  que  se  trata  de  inovação  recursal.  Aliás,  qualquer  explanação  acerca  do  indexador  SELIC  ensejaria  supressão  de  instância.
+Assim,  não  merece  ser  conhecido  o  recurso  no  ponto,  restando  mantida  a  utilização  do  IGP-M  como  fator  conjunto  de  atualização  e  incidência  de  juros.
+(..)"  (fl.  536,  e-STJ).
+Com  efeito,  o  acolhimento  da  tese  recursal  acerca  da  aplicação  da  taxa  SELIC,  considerando  que  a  matéria  não  foi  conhecida  na  origem  por  constituir  inovação  recursal,  demandaria a  necessidade  de  apreciação  , por esta Corte,  de  matéria  fático-probatória,  o  que  atrai  a  aplicação  da  Súmula  nº  7/STJ.
+Por  fim,  o  recurso  também  não  merece  ser  conhecido  quanto  ao  dissídio  alegado.
+Nos  termos  dos  arts  .  1.029,  §  1º,  do  CPC/2015  e  255,  §  1º,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  a  divergência  jurisprudencial  com  fundamento  na  alínea  "c"  do  permissivo  constitucional  requisita  comprovação  e  demonstração,  esta,  em  qualquer  caso,  com  a  transcrição  dos  trechos  dos  acórdãos  que  configurem  o  dissídio,  mencionando-se  as  circunstâncias  que  identifiquem  ou  assemelhem  os  casos  confrontados,  não  se  oferecendo  como  bastante  a  simples  transcrição  de  ementas  sem  realizar  o  necessário  cotejo  analítico  a  evidenciar  a  similitude  fática  entre  os  casos  apontados  e  a  divergência  de  interpretações.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  INDENIZATÓRIA.  RESCISÃO  CONTRATUAL.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.  FUNDAMENTO  NÃO  ATACADO.  SÚMULA  Nº  283/STF.  DISSÍDIO  JURISPRUDENCIAL.  DEMONSTRAÇÃO.  AUSÊNCIA.
+(..)
+2.  A  teor  da  Súmula  nº  283/STF,  aplicada  por  analogia,  não  se  admite  recurso  especial  quando  a  decisão  recorrida  assenta-se  em  mais  de  um  fundamento  suficiente  e  o  recurso  não  abrange  todos  eles.
+3.  A  divergência  jurisprudencial  com  fundamento  na  alínea  "c"  do  permissivo  constitucional,  nos  termos  do  art.  541,  parágrafo  único,  do  CPC/1973  e  do  art.  255,  §  1º,  do  RISTJ,  exige  comprovação  e  demonstração,  esta,  em  qualquer  caso,  com  a  transcrição  dos  trechos  dos  arestos  que  configurem  o  dissídio,  mencionando-se  as  circunstâncias  que  identifiquem  ou  assemelhem  os  casos  confrontados,  não  sendo  bastante  a  simples  transcrição  de  ementas  sem  o  necessário  cotejo  analítico  a  evidenciar  a  similitude  fática  entre  os  casos  apontados  e  a  divergência  de  interpretações.
+4.  Agravo  interno  não  provido"  (AgInt  no  AREsp  913.875/SP,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  Terceira  Turma,  julgado  em  18/10/2016,  DJe  de  25/10/2016).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  FUNDAMENTO  DO  ACÓRDÃO  RECORRIDO  NÃO  ATACADO.  DISSÍDIO  JURISPRUDENCIAL.  COTEJO  ANALÍTICO  E  SIMILITUDE  FÁTICA.  AUSÊNCIA.
+1.  A  ausência  de  impugnação  dos  fundamentos  do  acórdão  recorrido  enseja  o  não  conhecimento  do  recurso,  incidindo  a  Súmula  283  do  Supremo  Tribunal  Federal.
+2.  O  alegado  dissídio  jurisprudencial  não  foi  comprovado  nos  moldes  estabelecidos  nos  artigos  541,  parágrafo  único,  do  Código  de  Processo  Civil  de  1973  e  255,  parágrafos  1º  e  2º,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça.
+3.  Agravo  interno  a  que  se  nega  provimento"  (AgInt  no  AREsp  864.649/SP,  Rel.  Ministra  MARIA  ISABEL  GALLOTTI,  Quarta  Turma,  julgado  em  20/10/2016,  DJe  de  7/11/2016).
+  Assim,  verifica-se  que  os  fundamentos  expostos  pelos  agravante  s  são  insuficientes  para  alterar  as  conclusões  da  decisão  agravada,  a  qual  permanece  incólume.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
