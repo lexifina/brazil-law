@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GENTIL BARBADO à decisão de fls. 238/239, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Compulsando os autos, verifica-se que se encontra juntado às fls.
+152, conforme cópia que se junta neste ato, o Substabelecimento transmitindo poderes aos procuradores, Dr. Anderson Caceres, OAB/SP 295.790, Dr. Carlos Alberto Goes, OAB/SP 99.641, Dr. João Batista Domingues Neto, OAB/SP 23.466, Dr. Ronald Fazia Domingues, OAB/SP 215.373, Dra. Thais Fazia Domingues Mantovani, OAB/SP 281.634 e Dr. Sérgio Fazia Domingues, OAB/SP 288.429 (fl. 241).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do recurso especial, Dr. João Batista Domingues Neto.
+Observe-se que não há a procuração originária da parte ora embargante, conferindo poderes ao Dr. Antônio Cáceres Dias, OAB/SP n. 23.909, o causídico que substabeleceu à fl. 152.
+Dessa forma, o instrumento de substabelecimento não tem eficácia, pois o substabelecimento não subsiste por si só, sem uma procuração que lhe dê suporte, sendo impossível substabelecer um poder que não existe nos autos. Nesse sentido, o AgInt no AREsp 1634557/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 03/12/2020; o AgInt no REsp 1759439/RS, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 02/09/2020.
+Como as regras que se aplicam ao recurso especial são a do Código de Processo Civil de 1973, é inaplicável a providência de que tratava o art. 13 do mesmo diploma em sede especial, devendo a representação processual estar formalmente perfeita por ocasião da interposição do recurso (EREsp 868.800/RS, relatora Ministra Laurita Vaz, Corte Especial, DJe de 11/11/2010). Nesse sentido, o AgInt nos EDcl no AREsp 1552646/MT, relator Ministro Francisco Falcão, Segunda Turma, DJe de 24/4/2020; e AgInt no AREsp 1104535/SP, relator Ministro Gurgel De Faria, Primeira Turma, DJe de 25/9/2019.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
