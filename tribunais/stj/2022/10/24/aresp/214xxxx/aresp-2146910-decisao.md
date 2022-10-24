@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por ROBERTO CARLOS CIPRIANO DOS SANTOScontra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, III, "a",da Constituição Federal, insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"APELAÇÃO CÍVEL - Interposição contra sentença que julgou procedentes os pedidos formulados na ação de reparação de danos materiais, morais e estéticos. Acidente de veículos na via terrestre. Julgamento ultra (além ou acima do pedido) ou extra petita (fora do pedido ou diferente deste) inocorrente. Limites da congruência ou da adstrição observados. Colisão traseira. Fato incontroverso. Presunção de culpa daquele que colide no veículo que segue à frente não elidida. Culpa do réu e exclusiva deste caracterizada. Danos materiais demonstrados. Dano moral, já incluído neste o dano estético configurado, todavia, cujo valor condenatório é reduzido para patamar mais condizente, dentro dos princípios da proporcionalidade e da razoabilidade, sem causar enriquecimento indevido. Consectários legais (correção monetária e juros de mora) corretamente aplicados. Sem majoração de honorários advocatícios em grau recursal, nos termos do artigo 85, § 11, do Código de Processo Civil/2015. Sentença parcialmente reformada. Apelação parcialmente provida"(e-STJ fl. 559).
+Nas razões do recurso especial (e-STJ fls. 572/582), orecorrenteapontaviolação doartigo 945 do CC.
+Sustenta quenão se pode imputar culpa exclusiva ao recorrente, por mera presunção.
+Alega que a suposta embriaguez não restou minimamente comprovada e nem mesmo poderia ser utilizada para embasar a sentença, haja vista a impossibilidade de contraprova.
+Aduz quenenhuma prova segura, idônea e imparcial foi produzida no sentido de atribuir ao recorrente a culpa exclusiva do sinistro. Não houve perícia no local do acidente, e nem mesmo testemunhas oculares do momento da colisão.
+Argumenta que, em que pese não haver prova contundente que aponte que o recorrido conduzia em extrema lentidão de faróis traseiros apagados, o mesmo devemos dizer a respeito a suposta embriaguez ou ausência de cautela por parte do recorrente, sendo de rigor o reconhecimento da culpa concorrente.
+Apresentadas as contrarrazões, o recurso foi inadmitido na origem, resultando daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No caso vertente, o tribunal de origem concluiu pela culpa exclusiva do réu,com base nos seguintes fundamentos:
+"Em que pese cada parte tenha alegado as respectivas versões, a partir da análise de forma contextualizado das provas ou da falta delas, do quanto foi dito e não infirmado pelas partes,resulta possível o deslinde da controvérsia e inferir pela culpa do réu e exclusiva de referido pelo evento, até porque não se desvencilhou em produzir provas hábeis a elidir a presunção de culpa daquele que colide na traseira de outro veículo, ainda que referido assim não entenda.
+Em que pese a alegação do réu de que a motocicleta era conduzida vagarosamente,quase parandoe com os faróis apagados, nada há nos autos que demonstre de forma robusta, segura e convincente que a motocicleta era conduzida abaixo da velocidade regulamentar e sem a iluminação pertinente.
+(..) Quanto as afirmações da testemunha supramencionada, no sentido de sugerir que o réu estivesse embriagado quando da condução do veículo, tal conteúdo, se por um lado não pode prejudicar o réu por ausência de teste hábil de alcoolemia, por outro também não favorece.
+Independentemente de se considerar ou não ter o réu ingerido bebida alcoólica quando do acidente de veículos na via terrestre, fato é que referido, tal como dito e aqui redito para destacar, não elidiu a presunção de culpa daquele que colide no veículo que trafega à frente.
+(..)Aliás, uma vez que era noite, estava escuro, chovia e a visibilidade era ruim, precária, deveria ter reduzido a velocidade e adotado as cautelas para trafegar com o veículo em tais condições, o que parece não ter realizado tal procedimento, pois se tivesse assim agido, com cautela, o acidente não teria ocorrido.
+(..)A conduta do réu foi determinante ao acidente de veículos tratado nos autos, daí a culpa exclusiva de referidodemandado, não havendo falar em culpa concorrente"(e-STJ fl. 562/566).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado daSúmulanº7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% sobre o valor da condenação, os quais deverão ser majorados para 15% em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
