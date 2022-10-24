@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso interposto por ANDRÉAPARECIDO OLIVEIRAcontra o acórdão doTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOSno HC n. 0727095-26.2022.8.07.0000, lavrado nos termos desta ementa (fl. 101):
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA.FUNDAMENTAÇÃO ADEQUADA. INDÍCIOS SUFICIENTES DE AUTORIA E MATERIALIDADE. GARANTIA DA ORDEM PÚBLICA. LIBERDADE PROVISÓRIA. MEDIDAS CAUTELARES. DENEGAÇÃO.
+1) "Se as circunstâncias concretas da prática do ilícito indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria, à luz do art. 312 do CPP." (HC 209107 AgR, Relator(a): ROSA WEBER, Primeira Turma, julgado em 18/12/2021, PROCESSO ELETRÔNICO DJe-015 DIVULG 27-01-2022 PUBLIC 28-01-2022).
+2) Não há que se falar na ausência de fundamentação idônea da decisão, tampouco em utilização de argumentos genéricos, quando a decisão que decreta a prisão preventiva se baseia em fatos concretos e em elementos que indiquem o risco à ordem pública.
+3) Quando as circunstâncias do delito indicam que as medidas cautelares diversas da prisão (art. 319, do CPP) são inadequadas ao caso, impertinente se mostra a aplicação de quaisquer delas.
+4) Ordem denegada.
+O recorrente (denunciado por tráfico interestadual de drogas) repisa a argumentação feita na inicial do writ, sustentando que,ainda que venha a ser condenado, certamente será aplicado o § 4º do art. 33 da Lei n. 11.343/2006, sem a vedação das penas restritivas de direito, podendo a condenação ser reduzida de 1/6 a 2/3;assim, de maneira alguma, permanecerá recluso. Alega quefaltam os pressupostos necessários para a manutenção da segregação preventiva e que a motivação é genérica.
+Requer aimediataexpedição de alvará de soltura (Processo n.0726760-04.2022.8.07.0001, da 3ªVara de Entorpecentes do Distrito Federal).
+Sem contrarrazões.
+Depois de indeferido o pedido liminar (fls. 152/153), o Ministério Público Federal opinou pela negativa de provimento do recurso (fls. 156/159).
+É o relatório.
+O recurso não merece prosperar.
+A manutenção da constrição cautelar está baseada em elementos vinculados à realidade, dada areferência, na origem, à gravidade real da conduta, tirada das circunstâncias que envolveram a prisão em flagrante (apreensão de grande quantidade de cocaína, após colisão na tentativa de evitar ponto de bloqueio realizado na pista por policiais, transporte de 1 kg da droga entre unidades da Federação, com apoio de outro veículo).Tudo a revelar a periculosidade in concreto do agente e o modus operandi diferenciado.
+Com efeito, aqui, temos dito que a variedade, a natureza lesiva, a quantidade das substâncias entorpecentes apreendidas e as circunstâncias em que se deu a prisão em flagrante são fatores que, somados à forma como estava acondicionada grande parte da droga, indicam a dedicação à traficância, autorizando a preventiva (RHC n. 64.682/RS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 26/10/2015; HC n. 299.410/SP, Ministro Jorge Mussi, Quinta Turma, DJe 25/9/2014). Na mesma linha, da Sexta Turma, por exemplo, o RHC n. 48.231/MG, Ministra Marilza Maynard (Desembargadora convocada do TJ/SE), DJe 3/9/2014.
+Ademais, eventuais condições pessoais favoráveis não têm o condão de, por si sós, garantir a revogação da prisão preventiva. Há nos autos elementos hábeis a recomendar a manutenção de sua custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Não é outra a opinião do parecerista, conforme se vê às fls. 156/159.
+Afora isso, o Tribunal de Justiça não debateu a questão envolvendo aalegadaviolação do princípio da homogeneidade entre a cautela e o provimento final;nem deveria, porquanto, como observado pelo Subprocurador-Geral da República Roberto Luís Oppermann,não fora tal vexata quaestio sequer submetida àanálise do Tribunal a quo competente(fl. 158).
+Tambémnão caberia, nem àquela Corte nem a esta, em um exercício de futurologia, prever de antemão qual seria o possível quantum de aplicação da pena em razão de a recorrente supostamente possuir condições pessoais favoráveis, o que implicaria análise do conjunto probatório, inviável nesta via estreita (RHC n. 58.640/MS, Ministro Felix Fischer, Quinta Turma, DJe 6/10/2015).
+Com base nos precedentes e no parecer ministerial, conheço em parte do recurso e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. TRÁFICO INTERESTADUAL DE DROGAS.PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRECEDENTES.VIOLAÇÃO DO PRINCÍPIO DA HOMOGENEIDADE. SUPRESSÃO DE INSTÂNCIA E DESCABIMENTO DA ALEGAÇÃO.PARECER ACOLHIDO.
+Recurso conhecido em parte e, nessa parte, improvido.
