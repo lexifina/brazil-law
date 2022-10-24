@@ -1,0 +1,28 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 182/STJ. FALTA DE DIALETICIDADE RECURSAL AGRAVO DESPROVIDO.
+1. A decisão que inadmitiu o recurso especial na origem foi pautada nos óbices das Súmulas 83/STJ, 518/STJ e 283/STF. Entretanto, o agravante ateve-se a afastar genericamente a incidência da Súmulas 518/STJ e 83/STJ, deixando de enfrentar o óbice da Súmula 283/STF. Esse proceder viola o princípio da dialeticidade e torna inadmissível o agravo, nos termos da Súmula 182/STJ
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por DIEGO NONATO DE MELO contra decisão do Ministro Presidente, que inadmitiu o recurso especial, interposto com fundamento nas alíneas "a" do permissivo constitucional.
+O agravante alega, em síntese, que "quanto ao caso dos autos não existe entendimento consolidado do STJ sobre o tema, não incidindo aqui a súmula 83 e 518 do STJ" (e-STJ, fls. 1.208).
+No mérito do recurso especial, pretende que seja afastado "o duplo aumento na terceira fase da dosimetria da pena, devendo se refazer a dosimetria penal a fim de constar somente um aumento na terceira fase, nos termos dos art. 68 e 59" (e-STJ, fl. 1.211).
+Requer, assim, a reconsideração da decisão agravada ou a submissão do feito à Turma Julgadora.
+É o relatório
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 182/STJ. FALTA DE DIALETICIDADE RECURSAL AGRAVO DESPROVIDO.
+1. A decisão que inadmitiu o recurso especial na origem foi pautada nos óbices das Súmulas 83/STJ, 518/STJ e 283/STF. Entretanto, o agravante ateve-se a afastar genericamente a incidência da Súmulas 518/STJ e 83/STJ, deixando de enfrentar o óbice da Súmula 283/STF. Esse proceder viola o princípio da dialeticidade e torna inadmissível o agravo, nos termos da Súmula 182/STJ
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A decisão que inadmitiu o recurso especial na origem (e-STJ, fls. 1.148-1.152) foi pautada nos óbices das Súmulas 83/STJ, 518/STJ e 283/STF.
+Entretanto, o agravante ateve-se a afastar genericamente a incidência da Súmulas 518/STJ e 83/STJ, deixando de enfrentar o óbice da Súmula 283/STF. Esse proceder viola o princípio da dialeticidade e torna inadmissível o agravo, nos termos da Súmula 182/STJ. A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. PRELIMINAR DE PRESCRIÇÃO. EXAME DE OFÍCIO. ART. 61 DO CPP. NÃO IMPLEMENTO DO PRAZO PRESCRICIONAL ENTRE OS MARCOS INTERRUPTIVOS. 2. ACÓRDÃO CONFIRMATÓRIO. MARCO INTERRUPTIVO. TESE FIRMADA PELO PLENÁRIO DO STF. HC 176.473/STF. 3. RECURSO ESPECIAL NÃO ADMITIDO. AGRAVO NÃO CONHECIDO. TRÂNSITO EM JULGADO QUE RETROAGE. ARESP 386.266/SP. 4. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS FUNDAMENTOS DA DECISÃO. CORRETA INCIDÊNCIA DA SÚMULA 182/STJ. 5. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. A decisão agravada não conheceu do agravo em recurso especial, porque o recorrente se limitou a repetir, na íntegra, os termos do recurso especial. Como é de conhecimento, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão que não admite o recurso especial inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessa forma, mostra-se correta a incidência do enunciado n. 182 da Súmula desta Corte, o que impede o provimento ao presente agravo regimental.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1260918/MA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/05/2020, DJe 19/05/2020)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
