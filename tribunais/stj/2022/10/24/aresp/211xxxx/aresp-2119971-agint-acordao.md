@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O SENHOR MINISTRO MARCO BUZZI: Cuida-se de agravo interno, interposto por LEONICIA EVARISTO MENDANHA SILVA E OUTROS, contra a decisão monocrática de fls. 425-430, e-STJ, da lavra deste signatário, que negou provimento ao agravo em recurso especial dos ora agravantes.
+O apelo extremo (art. 105, inciso III, alínea "a", da CF/88), a seu turno, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado (fl. 260, e-STJ):
+AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. AUSÊNCIA DE GARANTIA DO JUÍZO. REQUISITOS NÃO PREENCHIDOS. IMPOSSIBILIDADE. 1. A concessão do efeito suspensivo decorrente da oposição de Embargos à Execução impõe a evidencia de três pressupostos, conforme o artigo 919, § 1º, do CPC/2015, quais sejam: a) o pedido da parte; b) a relevância dos fundamentos que demonstrem a possibilidade de causar ao executado grave dano ou de difícil reparação; c) a garantia do Juízo. Assim, deve restar demostrado nos autos os requisitos para a concessão da tutela provisória, bem como a efetiva garantia do juízo. In casu, não restou demonstrado que a embargante/agravante garantiu o juízo por depósito ou caução suficiente a assegurar ao exequente/agravado o recebimento do valor executado, impondo a manutenção da decisão agravada que não atribuiu efeito suspensivo aos embargos à execução. 2. A circunstância da contratação de seguro agrícola, com aptidão de adimplir no todo ou em parte o montante da dívida exequenda, não supre o requisito da garantia do juízo referido na regra do artigo 919, § 1º, do Código de Processo Civil. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Os embargos de declaração foram rejeitados (fls. 286-306, e-STJ).
+Nas razões do recurso especial (fls. 311-330, e-STJ), os insurgentes alegam que o acórdão recorrido violou os seguintes dispositivos de lei federal: i) artigo 1022, II, do CPC15, aduzindo omissão no julgado; ii) artigos 11, 371 e 489, II do CPC/15, alegando que a decisão não foi devidamente fundamentada, e iii) artigo 919 do CPC/15, sustentando a necessidade de concessão de efeito suspensivo aos embargos, pois devidamente garantido o juízo por seguro e fundo de garantia de operações (FGO); a probabilidade do direito esta configurada na ilegalidade das cláusulas contidas nos contratos e, por fim, a existência do risco de grave dano de difícil reparação, uma vez que o prosseguimento do processo de execução sem a devida atribuição de efeito suspensivo aos embargos compromete a apreciação das matérias veiculadas pelos recorrentes nos embargos de execução, representando verdadeira afronta ao direito de propriedade dos mesmos.
+Em juízo de admissibilidade, o Tribunal a quo inadmitiu o recurso especial (fls. 357-359, e-STJ), dando ensejo a interposição do agravo (fls. 368-390, e- STJ).
+Não foi apresentada contraminuta (fl. 416, e-STJ).
+Em decisão monocrática (fls. 425-430, e-STJ), foi negado provimento ao agravo em recurso especial, sob os seguintes fundamentos: i) ausência de ofensa aos artigos 11, 371, 489, II e 1.022, I e II, do CPC/15, e ii) incidência do óbice da Súmula 7/STJ em relação à análise dos requisitos a ensejar a concessão de efeito suspensivo aos embargos à execução.
+Daí o presente agravo interno (fls. 433-442, e-STJ), no qual os agravantes aduzem a nulidade da decisão agravada, bem como que as razões recursais não demandam o reexame das provas dos autos.
+Foi apresentada impugnação (fls. 444-451, e-STJ), pugnando pela aplicação de multa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO.
+INSURGÊNCIA DA PARTE AGRAVANTE.
+1. Razões do agravo interno que não impugnam especificamente os fundamentos invocados na decisão agravada, nos termos do artigo 1.021, §1º, do CPC/15, a atrair a aplicação da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO MARCO BUZZI (RELATOR): O agravo interno não ultrapassa o conhecimento.
+1. Consoante entendimento deste Tribunal, pelo princípio da dialeticidade, compete à parte recorrente infirmar todos os fundamentos do capítulo impugnado na decisão monocrática. A ausência dessa impugnação específica torna forçoso o não conhecimento do reclamo, por aplicação do quanto disposto no art. 1.021, §1º, do CPC/15.
+Aplicável, ainda o óbice enunciado na Súmula 182 do STJ, a saber: "é inviável o agravo do art. 545 do CPC/73 que deixa de atacar especificamente os fundamentos da decisão agravada".
+Confira-se, nesse sentido, os seguintes julgados: AgInt no AREsp 1074988/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 22/08/2017, DJe 31/08/2017; AgInt no AREsp 877.856/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 08/11/2016, DJe 23/11/2016; AgInt nos EDcl no AREsp 1017447/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 02/08/2017; AgInt nos EDcl no AREsp 863.863/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Ressalta-se, ademais, não basta a impugnação genérica ao óbice aplicado, devendo ser demonstrado seu descabimento.
+Nesse sentido: AgInt no AREsp 1035805/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/05/2017, DJe 30/05/2017; AgInt no AREsp 229.389/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 02/08/2016, DJe 17/08/2016; AgRg no Ag 1427187/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/09/2012, DJe 04/10/2012.
+No caso em comento, a decisão agravada, de forma fartamente fundamentada, afastou a alegada negativa de prestação jurisdicional e considerou inviável o reexame da presença dos requisitos autorizadores da medida cautelar deferida na origem, por óbice da Súmula 7/STJ.
+Quanto à Súmula 7/STJ, o presente agravo limita-se a refutar genericamente o óbice aplicado.
+No mais, as razões recursais mostram-se igualmente genéricas e, inclusive, dissociadas do teor da decisão impugnada, conforme se observa do seguinte excerto:
+Assim, requer seja reconsiderada a r. decisão proferida pelo Nobre Relator, vez que apenas alegou que a recorrente não impugnou especificamente todos os fundamentos da decisão agravada, mas sem fundamentar tal decisão, uma vez ser a mesma passível de ser declarada nula devido a ausência de motivação, não declarando os verdadeiros motivos jurídicos desta.
+O trecho em destaque, extraído das razões do agravo interno, demonstra claramente que a fundamentação apresentada não guarda qualquer relação com a decisão ora impugnada - que, portando, não foi devidamente infirmada.
+Desta forma, impõe-se aplicação do artigo 1.021, §1º, do CPC/15 e, ainda, do óbice enunciado na Súmula 182 do STJ, porquanto inexistiu ataque específico aos fundamentos da decisão monocrática agravada.
+2. Deixa-se de aplicar a multa recursal prevista no art. 1.021, § 4º, do CPC/15, pois não se observa, no presente momento, o intuito meramente protelatório do presente agravo interno.
+Desde já, entretanto, adverte-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+3. Do exposto, não se admite o agravo interno.
+É como voto.
