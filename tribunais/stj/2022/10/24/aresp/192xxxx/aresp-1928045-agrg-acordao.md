@@ -1,0 +1,52 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO AO TRÁFICO. PEDIDO DE DILIGÊNCIAS. ABSOLVIÇÃO. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182 DO STJ. RECURSO NÃO PROVIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, cumpre ao agravante impugnar especificamente todos os fundamentos estabelecidos na decisão agravada (Súmula 182 do STJ).
+2. Neste agravo regimental, a Defesa deixa de impugnar especificamente os fundamentos da decisão recorrida, alegando, apenas, de forma genérica, que o recurso especial deveria ser conhecido e que é possível a superação da súmula 7 do STJ para a revaloração das provas.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por SATURNINO RIBEIRO DO NASCIMENTO (e-STJ, fls. 1483-1490) de decisão em que conheci do agravo para conhecer em parte o recurso especial e, nesta extensão, negar-lhe provimento. (e-STJ, fls. 1464-1480).
+Salienta que o recurso especial deveria ter sido conhecido, pois preenchidos os requisitos legais.
+Argumenta que todas as matérias foram devidamente apreciadas pelo Tribunal a quo, atendendo, portanto, o requisito do prequestionamento.
+Acrescenta que a pretensão veiculada no recurso especial não se restringe ao mero reexame das provas.
+Postula, assim, a reconsideração da decisão monocrática ou a submissão do recurso à turma julgadora, com o fim de conhecer e dar provimento ao especial.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ASSOCIAÇÃO AO TRÁFICO. PEDIDO DE DILIGÊNCIAS. ABSOLVIÇÃO. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182 DO STJ. RECURSO NÃO PROVIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, cumpre ao agravante impugnar especificamente todos os fundamentos estabelecidos na decisão agravada (Súmula 182 do STJ).
+2. Neste agravo regimental, a Defesa deixa de impugnar especificamente os fundamentos da decisão recorrida, alegando, apenas, de forma genérica, que o recurso especial deveria ser conhecido e que é possível a superação da súmula 7 do STJ para a revaloração das provas.
+3. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão recursal não merece êxito, uma vez que o agravante não apresentou fundamentos capazes de modificar o entendimento anteriormente adotado.
+Como se vê, neste agravo regimental, a Defesa deixa de impugnar especificamente os fundamentos da decisão recorrida, alegando, apenas, de forma genérica, que o recurso especial deveria ser conhecido e que é possível a superação da súmula 7 para a revaloração das provas.
+Como se sabe, alegação genérica não supre, evidentemente, a exigência de impugnação da decisão denegatória, na medida em que é imprescindível demonstrar, de forma clara e objetiva, com o devido desenvolvimento argumentativo, o desacerto da decisão agravada, em relação a cada um de seus fundamentos.
+Tal fato atrai o impeditivo da Súmula 182 deste Superior Tribunal, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182 DO STJ. TRÁFICO PRIVILEGIADO. BIS IN IDEM VERIFICADO. FLAGRANTE ILEGALIDADE. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182 do STJ.
+2. Na hipótese, o agravante deixou de refutar especificamente os fundamentos de inadmissão do recurso especial (in casu, Súmula 7 do STJ e Súmula 284 do STF), incidindo, portanto, o óbice da Súmula 182 do STJ.
+3. Todavia, impõe-se a concessão de habeas corpus de ofício para readequar a pena do recorrente.
+4. Conforme entendimento firmado pelo Supremo Tribunal Federal, em sede de repercussão geral, no ARE 666.334/AM (Rel. Ministro GILMAR MENDES, DJ 6/5/2014), está vedada a dupla aferição da quantidade e da natureza da droga, concomitantemente, na primeira etapa da dosimetria para exasperar a pena-base e na terceira fase para modular a minorante, sob pena de indevido bis in idem.
+5. Agravo regimental não provido. Concessão de habeas corpus, de ofício, para para fazer incidir a causa de diminuição de pena do art. 33, §4º da Lei 11.343/2006 na fração máxima de 2/3, redimensionando a pena do recorrente para 1 ano, 10 meses e 9 dias de reclusão, em regime inicial semiaberto, mais pagamento de 194 dias-multa."
+(AgRg no AREsp n. 2.138.524/AP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 6/9/2022, DJe de 13/9/2022.)
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182 DO STJ. PRETENSÃO DE OBTER A CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. INVIABILIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Os Agravantes, em suas razões recursais, não impugnaram nenhum dos fundamentos da decisão agravada - incidência da Súmula n. 315 do STJ, ausência de cotejo analítico e inobservância das regras legais e regimentais para demonstração da alegada divergência -, limitando-se a repisar questões arguidas no recurso especial inadmitido, as quais, por óbvio, sequer foram objeto de decisão.
+2. Incidência do Verbete Sumular n. 182 desta Corte: "É inviável o agravo do art. 545 do Código de Processo Civil que deixa de atacar especificamente os fundamentos da decisão agravada." No mesmo diapasão, aplicável subsidiariamente (art. 3.º do CPP), o art. 932, inciso III, c.c. o art. 1.021, § 1.º, ambos do Código de Processo Civil. Precedentes.
+3. A jurisprudência mansa e pacífica do Superior Tribunal de Justiça tem reafirmado o entendimento de ser descabido o pedido de concessão de habeas corpus de ofício, como sucedâneo recursal ou como expediente para superar vícios do recurso inadmitido, mormente porque tal iniciativa parte do próprio órgão julgador.
+4. Agravo regimental não conhecido."
+(AgRg nos EAREsp n. 2.018.556/SC, relatora Ministra Laurita Vaz, Corte Especial, julgado em 21/9/2022, DJe de 29/9/2022.)
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. EXECUÇÃO PROVISÓRIA. QUESTÃO PREJUDICADA. HABEAS CORPUSDEFERIDO. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. ART. 117 DO CP. ACÓRDÃO CONFIRMATÓRIO. MARCO INTERRUPTIVO. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. LAPSO TEMPORAL. NÃO OCORRÊNCIA. EXTINÇÃO A PUNIBILIDADE NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO. 1. A ausência de impugnação específica aos fundamentos da decisão combatida atrai a incidência dos arts. 1.021, § 1º, do CPC e da Súmula 182 desta Corte. 2. A controvérsia recursal referente à pretensão de execução da pena somente após o trânsito em julgado configura mera reiteração do HC 546.490/SP, em que concedida a ordem de habeas corpus.  ..  6. Agravo regimental não conhecido. Pedido de execução da pena somente após o trânsito em julgado prejudicado. Pedido de declaração da extinção da punibilidade pela prescrição da pretensão punitiva estatal indeferido."(AgRg nos EDcl no AREsp 1621913/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 30/06/2020, DJe 06/08/2020, grifou-se).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. FUNDAMENTO DA DECISÃO ATACADA NÃO COMBATIDO. APLICABILIDADE DA SÚMULA N. 182 DO STJ. PRESCRIÇÃO. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. AGRAVO REGIMENTAL NÃO CONHECIDO. 1. É inviável agravo regimental em que o agravante não infirma em seu recurso o fundamento utilizado na decisão atacada. Incidência da Súmula n. 182 do STJ. 2. Não instruída a impetração com documento essencial ao deslinde da controvérsia - a fim de comprovar a data do trânsito em julgado e o não início da execução da pena -, mostra-se inviável o exame do sustentado constrangimento ilegal e o eventual reconhecimento da prescrição. 3. Agravo regimental não conhecido." (PET no HC 363.400/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/02/2020, DJe 14/02/2020, grifou-se).
+Ademais, ao contrário do que consignou a Defesa, o Tribunal de origem não apreciou todas as questões levantadas no recurso especial.
+Como mencionado na decisão atacada, não houve análise do pedido de conversão do julgamento em diligência para oficiar à 2ª Vara de Tóxicos de Belho Horizonte para que seja juntada a íntegra do procedimento de interceptação.
+Conforme delineado, para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por vulnerados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Assim, o enfrentamento da matéria configuraria supressão de instância.
+Como se sabe, para analisar a questão, haveria necessidade de reexame do conteúdo dos elementos instrutórios, o que é vedado pela Súmula 7/STJ.
+Da mesma forma, não seria o caso de superação desta súmula, seja para apreciar as demais diligências apresentadas ou a pretensão de absolvição, pois todas as questões foram devidamente enfrentadas e fundamentadas pelo Tribunal a quo.
+Assim, não se trata de hipótese de revaloração jurídica das conclusões adotadas pela instância anterior, que permitiria a superação da súmula 7 do STJ, mas de verdadeira pretensão de reexame do contexto fático-probatório, o que é vedado.
+Além do mais, cabe reiterar que a Defesa não infirma em seu recurso o fundamento utilizado na decisão atacada, atraindo o impeditivo da Súmula 182 deste STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
