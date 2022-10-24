@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por SUPERVIA - CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S.A,fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE RESPONSABILIDADE CIVIL. SENTENÇA DE IMPROCEDÊNCIA. ATROPELAMENTO POR COMPOSIÇÃO FÉRREA. PASSAGEM CLANDESTINA. CULPA CONCORRENTE. ELEMENTOS QUE CONFIGURAM A RESPONSABILIDADE CIVIL DEVIDAMENTE DEMONSTRADOS. DANOS MORAIS FIXADOS EM R$ 100.000,00 PARA A GENITORA DA VÍTIMA, R$ 25.000,00 EM FAVOR DO IRMÃO E R$ 100.000,00 EM FAVOR DO FILHO DA VÍTIMA, JÁ CONSIDERANDO A CULPA CONCORRENTE, REDUZIDAS EM 50%. DESPESAS COM FUNERAL COMPROVADAS. PENSIONAMENTO FIXADO EM 1/3 DO SALÁRIO -MÍNIMO EM FAVOR DO FILHO DA VÍTIMA. RECURSO DE APELAÇÃO CONHECIDO E PROVIDO PARCIALMENTE" (e-STJ fl. 701).
+Em suas razões(e-STJ fls. 739/757), além de divergência jurisprudencial, a recorrente alega violação dos artigos 944, parágrafo único, 945 e 946 do Código Civil.
+Aduz, em síntese, que o valor arbitrado a título de indenização por danos morais em R$225.000,00 (duzentos e vinte e cinco mil) é excessivo, carecendo de razoabilidade, devendo ser reduzido.
+Sustenta que se trata a questão dos autos de matéria unicamente de direito.
+Afirma que deve ser considerado que a vítima atuou de forma negligente para a ocorrência do evento.
+Argumenta que
+"(..) ainda que reconhecida a culpa concorrente pelo v. Acórdão, afere-se que o valor ainda se encontra avultante se comparado com a jurisprudência pátria a respeito desta mesma temática, ferindo os princípios da razoabilidade e proporcionalidade, o que não se admite" (e-STJ fl. 754).
+Ao final, requer o provimento do recurso.
+Contrarrazões às fls. 823/826, e-STJ.
+A Terceira Vice-Presidência do Tribunal de origem inadmitiu o recurso especial, aplicando o entendimento firmado no julgamento dos RESps 1.210.064/SP e 1.172.421/SP (Temas nºs 517 e 518/STJ), submetidos ao regime dos recursos especiais repetitivos, quanto à alegação de que houve culpa exclusiva da vítima, dando ensejo à interposição de agravo interno na origem e do presente agravo quanto às demais questões.
+A Corte local manteve a aplicação do repetitivo.
+O agravo em recurso especial interposto contra a parte da decisão de admissibilidade que o inadmitiu foi convertido, nesta Corte, em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A irresignação não merece prosperar.
+Verifica-se inviável a pretensão recursal de reduzir o valor arbitrado a título de indenização por danos morais.
+O Superior Tribunal de Justiça firmou entendimento no sentido de que o exame do valor fixado a título de danos morais somente é admissível em hipóteses excepcionais, quando for verificada a exorbitância ou a irrisoriedade da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido: AgRg no REsp 971.113/SP, Quarta Turma, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe de 8/3/2010; AgRg no REsp 675.950/SC, Terceira Turma, Rel. Min. SIDNEI BENETI, DJe de 3/11/2008; AgRg no Ag 1.065.600/MG, Terceira Turma, Rel. Min. MASSAMI UYEDA, DJe de 20/10/2008.
+Inexistem, entretanto, tais circunstâncias no presente caso, em que não se pode afirmar desarrazoado o arbitramento da indenização pelos danos morais no valor de R$ 100.000,00 (cem mil reais) para a mãe, o mesmo valor para o filho impúbere e R$ 25.000,00 (vinte e cinco mil reais) para o irmão.
+Não se pode dizer que a referida quantia destoa dos parâmetros adotados por esta Corte em precedentes análogos, ao revés, revela-se perfeitamente adequada diante das especificidades do caso concreto, sendo inarredável, assim, a aplicação à espécie do óbice inserto no mencionado verbete sumular nº 7/STJ.
+Nesse sentido:
+"CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ATROPELAMENTO EM VIA FÉRREA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. MORTE. CULPA EXCLUSIVA DA VÍTIMA. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DANO MORAL. VALOR. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+1. Considera-se deficiente a fundamentação de recurso especial que alega violação do art. 1.022 do CPC/2015 e não demonstra, clara e objetivamente, qual ponto omisso, contraditório ou obscuro do acórdão recorrido não foi sanado no julgamento dos embargos de declaração. Incidência da Súmula n. 284 do STF.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir que houve culpa concorrente e afastou a alegação de culpa exclusiva da vítima. Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+4. Apenas em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ, para possibilitar a revisão. No caso, o montante estabelecido pelo Tribunal de origem não se mostra excessivo, a justificar sua reavaliação em recurso especial.
+5. Agravo interno a que se nega provimento" (AgInt no AREsp 1.622.744/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 04/05/2020, DJe 06/05/2020).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO COM VÍTIMA FATAL. 1. CULPA CONCORRENTE. AUSÊNCIA DE PROVA. SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. 2. PREJUÍZO MATERIAL ORIUNDO DOS GASTOS PARA O CONSERTO DA MOTOCICLETA. SÚMULA 7/STJ. 3. COMPROVAÇÃO DA DEPENDÊNCIA ECONÔMICA. PRESUNÇÃO EM CASO DE FAMÍLIA DE BAIXA RENDA. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. 4. MORTE DE ENTE FAMILIAR. DANOS MORAIS PRESUMIDOS. QUANTUM INDENIZATÓRIO RAZOÁVEL. SÚMULA 7/STJ. 5. AGRAVO INTERNO DESPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem (quanto à existência de culpa exclusiva ou concorrente da vítima, ao prejuízo material oriundo dos gastos para o conserto da motocicleta e ao valor dos danos morais) demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado sumular n. 7 deste Tribunal Superior, por ambas as alíneas do permissivo constitucional.
+2. A dependência econômica da esposa e das filhas de vítima morta em acidente automobilístico é presumida. Incidência da Súmula n. 83/STJ.
+3. A jurisprudência deste Superior Tribunal é no sentido de que, em caso de morte de ente familiar, os danos morais são presumidos.
+4. No tocante ao quantum indenizatório, o STJ possui orientação no sentido de que a revisão do valor arbitrado somente é possível quando for irrisório ou exorbitante, o que não se visualiza no presente caso, pois o valor fixado no acórdão em R$ 100.000,00 (cem mil reais) cumpre os princípios da razoabilidade e da proporcionalidade.
+5. Agravo interno a que se nega provimento" (AgInt no AREsp 1.618.401/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/06/2020, DJe 25/06/2020).
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Ante o exposto, não conheço do recurso especial.
+Os honorários advocatícios foram fixados em 10% (dez por cento) sobre o valor da condenação, os quais devem ser majorados para 12% (doze por cento) em favor do advogado da parte recorrida, observada a justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
