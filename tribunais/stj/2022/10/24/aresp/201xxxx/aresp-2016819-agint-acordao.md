@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por AZ-2 - EMPREENDIMENTOS IMOBILIARIOS LTDA. contra decisão de fls. 143/145, que negou provimento ao agravo em recurso especial com base na aplicação da Súmula 83/STJ.
+A parte agravante sustenta que o precedente julgado pelo regime dos recursos repetitivos que fundamentou a decisão agravada não se aplica ao caso, pois se ateve à questão da incidência ou não de verba honorária em sede de cumprimento de sentença; enquanto que, no presente caso, se questiona se o limite máximo previsto no § 2º do artigo 85 do CPC pode ser ultrapassado no somatório de ambas as verbas sucumbenciais (honorários da fase de conhecimento e de cumprimento de sentença). Reitera sua argumentação nesse sentido e, ao final, requer o provimento do recurso pela Turma.
+Intimado, o agravado pugna pela manutenção da decisão agravada, com imposição de multa (fls. 160/165).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS DE SUCUMBÊNCIA. PAGAMENTO VOLUNTÁRIO NÃO EFETUADO. INCIDÊNCIA DE VERBA HONORÁRIA PARA A FASE DE CUMPRIMENTO. VERBA QUE NÃO SE CONFUNDE COM A CONDENAÇÃO DA FASE DE CONHECIMENTO. APLICAÇÃO DA SÚMULA 83/STJ.
+1. "O Superior Tribunal de Justiça, no julgamento do REsp 1.134.186/RS (Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 21/10/2011), sob o rito dos recursos repetitivos, firmou entendimento no sentido de cabimento de honorários advocatícios na fase de cumprimento de sentença, haja ou não impugnação, caso não ocorra o pagamento voluntário do valor da dívida, no prazo de 15 dias" (AgInt no REsp n. 1.906.380/MG, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 9.6.2021).
+2. No julgado citado, o voto condutor deixou claro que "o valor a ser fixado diz respeito ao trabalho do advogado em relação à nova fase de cumprimento de julgado, não se confundindo com aqueloutro estabelecido no processo de conhecimento", especialmente porquanto "a inércia do vencido deu causa à instalação de um novo procedimento executório, muito embora nos mesmos autos".
+3. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Depreende-se dos autos que o Tribunal de origem manteve a decisão do juízo de origem que fixou verba honorária para a fase de cumprimento de sentença com os seguintes fundamentos (fls. 74/75):
+O agravado promoveu execução de sentença para o recebimento de honorários advocatícios sucumbenciais, os quais foram fixados em 20% sobre o valor atualizado da causa.
+A agravante foi intimada, mas não realizou o pagamento no prazo legal, constituindo efeito automático a aplicação das penalidades previstas no art. 523, § 1º, do CPC (multa de 10% e honorários advocatícios de 10%), em relação à qual a recorrente foi devidamente advertida a fl. 58.
+(..)
+E, conforme o teor da Súmula nº 517 do Egrégio Superior Tribunal de Justiça: "São devidos honorários advocatícios no cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário, que se inicia após a intimação do advogado da parte executada. (Publicada no DJ-E de 2-3-2015)".
+Anote-se, ainda, que a sanção não guarda nenhuma relação com a verba honorária fixada na fase de conhecimento do processo, de modo que não há falar em violação dos limites previsto no art. 85, § 1º, do CPC.
+O acórdão recorrido recebeu a seguinte ementa (fl. 73):
+EXECUÇÃO. Devedor intimado para a realização do pagamento, não o efetua no prazo legal de 15 dias. Incidência de multa de 10% e honorários advocatícios de 10% por expressa determinação legal (art. 523, § 1º, do CPC). As consequências previstas no referido artigo decorrem do simplesdescumprimento voluntário da obrigação no prazo fixado. Bem ofertado à penhora. Não demonstrado que o mesmo se revela suficiente para a quitação da dívida. Recusa do credor justificada. RECURSO DESPROVIDO.
+No recurso especial e no presente agravo interno, o recorrente insiste na tese de que não é possível a fixação de honorários advocatícios na fase de cumprimento de sentença, com base no art. 523, § 1º, do CPC, quando na fase de conhecimento já houver sido fixada verba honorária no percentual máximo, isto é, em 20% (vinte por cento). Argumenta, para tanto, que o limite máximo de 20% (vinte por cento), previsto no texto da legislação federal apontado, deve se aplicar de forma global a todas as fases do processo.
+Não prospera, porém, o recurso.
+Conforme consignado na decisão agravada, a conclusão do acórdão recorrido encontra respaldo na jurisprudência desta Corte Superior, pois "o Superior Tribunal de Justiça, no julgamento do REsp 1.134.186/RS (Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 21/10/2011), sob o rito dos recursos repetitivos, firmou entendimento no sentido de cabimento de honorários advocatícios na fase de cumprimento de sentença, haja ou não impugnação, caso não ocorra o pagamento voluntário do valor da dívida, no prazo de 15 dias" (AgInt no REsp n. 1.906.380/MG, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 9.6.2021).
+No julgado citado, o voto condutor deixou claro que "o valor a ser fixado diz respeito ao trabalho do advogado em relação à nova fase de cumprimento de julgado, não se confundindo com aqueloutro estabelecido no processo de conhecimento", especialmente porquanto "a inércia do vencido deu causa à instalação de um novo procedimento executório, muito embora nos mesmos autos".
+Referido entendimento foi acolhido integralmente na atual legislação processual, nos seguintes termos:
+Art. 523. No caso de condenação em quantia certa, ou já fixada em liquidação, e no caso de decisão sobre parcela incontroversa, o cumprimento definitivo da sentença far-se-á a requerimento do exequente, sendo o executado intimado para pagar o débito, no prazo de 15 (quinze) dias, acrescido de custas, se houver.
+§ 1º Não ocorrendo pagamento voluntário no prazo do caput , o débito será acrescido de multa de dez por cento e, também, de honorários de advogado de dez por cento.
+§ 2º Efetuado o pagamento parcial no prazo previsto no caput , a multa e os honorários previstos no § 1º incidirão sobre o restante.
+Desse modo, a norma prevista no § 2º do art. 85, que versa sobre honorários na fase de conhecimento, não é aplicável à sistemática legal dos honorários nos procedimentos executivos, mas o artigo 523, que prevê o pagamento pelo trabalho desenvolvido pelo profissional na fase de cumprimento de sentença, caso não haja o cumprimento voluntário da condenação.
+Por esse motivo, segundo a jurisprudência do STJ, a verba honorária a que se refere o § 1º do art. 523 do Código de Processo Civil será excluída apenas se o devedor efetuar o pagamento voluntário da quantia devida, o que foi observado pela Corte local.
+Fica claro, portanto, que se as verbas não se confundem, por serem independentes, com fundamento diverso, não se pode aplica o limite máximo de 20% (vinte por cento) a ambas.
+A conclusão do acórdão recorrido, portanto, encontra respaldo na jurisprudência desta Corte e, assim, aplica-se a Súmula 83 do STJ.
+O recurso, na realidade, não trouxe nenhum elemento ou argumento novo capaz de alterar a decisão agravada, que ora confirmo.
+De outro lado, em que pese o não provimento do agravo interno, não observo intuito protelatório ou malicioso na interposição do recurso capaz de ensejar a aplicação de multa ao agravante.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
