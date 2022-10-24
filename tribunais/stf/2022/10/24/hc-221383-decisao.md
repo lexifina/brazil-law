@@ -1,0 +1,83 @@
+tHABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIMES DE HOMICÍDIO QUALIFICADO NA FORMA TENTADA, DE PORTE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA E DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 121, § 2º, I E IV C/C ARTIGO 14, II, DO CÓDIGO PENAL, ARTIGO 16, § 2º, IV, DA LEI Nº 10.826/2003 E ARTIGO 33, CAPUT, DA LEI Nº 11.343/2006. PLEITO DE REVOGAÇÃO DA CUSTÓDIA CAUTELAR. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. DECISÃO DEVIDAMENTE FUNDAMENTADA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO ENGENDRADO NOS AUTOS. INADMISSIBILIDADE NA VIA ELEITA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO HABEAS CORPUS COMO SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL.
+
+- Seguimento negado, com fundamento no artigo 21, § 1º, do RISTF.  Prejudicado o exame da medida liminar.
+
+    Decisão: Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo interno no recurso ordinário em habeas corpus lá interposto, RHC nº 170.893, in verbis:
+
+    “AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. LEGITIMIDADE DA PRISÃO PREVENTIVA FUNDADA EM INDÍCIOS DE GRAVE RISCO À ORDEM PÚBLICA. RECURSO DA DEFESA NÃO PROVIDO.
+
+    1. Como registrado na decisão impugnada, a qual nesta oportunidade se confirma, as instâncias ordinárias consideraram que a prisão preventiva do ora agravante estaria fundada em elementos indiciários de grave risco à ordem pública.
+
+    2. Isso porque o réu teria perpetrado uma tentativa de homicídio mediante golpes de arma branca e disparos de arma de fogo, além de possuir drogas ilícitas e arma de fogo de uso proibido, vindo a ser denunciado pelos crimes do art. 121, § 2º, I e IV, na forma do art. 14, II, ambos do CP, do art. 16, § 2º, IV, da Lei 10.826/03 e do art. 33, caput, da Lei 11.343/06.
+
+    3. Ao que se vê, os fundamentos da prisão preventiva são suficientes, conjugando a peculiar gravidade concreta da tentativa de homicídio (que envolveu arma branca e arma de fogo de uso proibido, denotou perigo comum e efetivamente vitimou pessoa diversa da pretendida) e a diversidade de delitos aparentemente perpetrados (tentativa de homicídio, porte de arma de fogo de uso restrito e tráfico de drogas ilícitas).
+
+    4. Assim, apesar dos argumentos apresentados pela defesa, não há elementos que justifiquem a reconsideração do decisum.
+
+    5. Agravo regimental não provido.”
+
+    Colhe-se dos autos que o paciente foi preso preventivamente pela suposta prática dos crimes de homicídio qualificado na forma tentada, posse ilegal de arma de fogo com numeração suprimida e tráfico ilícito de entorpecentes, tipificados no artigo 121, § 2º, I e IV c/c artigo 14, II, do Código Penal; no artigo 16, § 2º, IV, da Lei nº 10.826/2003 e no artigo 33, caput, da Lei nº 11.343/2006.
+
+    Irresignada, a defesa impetrou habeas corpus perante o Tribunal de Justiça, que denegou a ordem.
+
+    Contra esse decisum, foi manejado recurso ordinário em habeas corpus perante o Superior Tribunal de Justiça, que negou provimento ao recurso. Ato contínuo, a defesa interpôs agravo interno, o qual restou desprovido, nos termos da ementa supratranscrita.
+
+    Sobreveio a presente impetração, na qual se aponta constrangimento ilegal consubstanciado na constrição da liberdade do paciente.
+
+    Aduz que “o constrangimento ilegal se evidencia com a decretação de prisão preventiva sem demonstração concreta de necessidade, tendo em vista o não preenchimento dos requisitos legais do art. 312 do CPP” e que “a prisão ilegal do paciente foi mantida tendo como base apenas a gravidade das condutas pelas quais foi o agravante pronunciado”. Afirma que “a gravidade dos crimes atribuídos ao paciente não significam, necessariamente a manutenção da prisão preventiva, a mais grave das medidas cautelares previstas no ordenamento jurídico, que somente deve ser admitida em casos de extrema necessidade e de impossibilidade de substituição por medida cautelar diversa (CPP, art. 319), o que não ficou demonstrado na decisão agravada” e que “o paciente é primário, não havendo contra ele nenhuma informação de que seja pessoa perniciosa ao convívio social e à ordem pública. Tampouco, inexistem dados concretos a indicar que ele, solto, poderia conturbar a ordem pública, frustrar a instrução criminal ou a aplicação da lei penal, pontos esses que não foram abordados quando do decreto cerceador da liberdade do recorrente”. Advoga que, “não apresentada qualquer conduta do paciente que demonstre concretamente risco de intimidação de testemunhas/vítima ou ânimo de obstruir a instrução processual, é ilegítima a prisão preventiva por conveniência da instrução, pois não há fato que a sustente”, sendo que “não há notícia nem registro formal de que o paciente intimidou testemunhas ou corréus, tampouco de que tenha destruído ou ocultado provas.” Subsidiariamente, aduz que “a imposição das cautelares em substituição à prisão preventiva é proporcional e adequada à situação processual do paciente, contra o qual não há indício de reiteração delitiva nem de tentativa de embaraçar as investigações”.
+
+    Ao final, formula pedido, nos seguintes termos:
+
+    “Ante o exposto, requer-se:
+
+    a) Seja deferido o pedido liminar, para suspender a ordem de prisão preventiva contra o paciente ou, subsidiariamente, substituí-la por cautelares alternativas (arts. 319 e 320 do CPP), com expedição de alvará de soltura, para que aguarde em liberdade até o julgamento de mérito deste habeas corpus;
+
+    b) No mérito, confirmando-se a medida liminar, seja revogada definitivamente a prisão preventiva, nos termos da fundamentação do habeas corpus, ou, subsidiariamente, seja substituída por cautelares alternativas (arts. 319 e 320 do CPP).”
+
+    É o relatório, DECIDO.
+
+    In casu, inexiste situação que permita a concessão da ordem de ofício ante a ausência de teratologia, flagrante ilegalidade ou abuso de poder na decisão atacada. Por oportuno, transcrevo a fundamentação da decisão do Superior Tribunal de Justiça, naquilo que interessa, in verbis:
+
+    “Como registrado na decisão impugnada, a qual nesta oportunidade se confirma, as instâncias ordinárias consideraram que a prisão preventiva do ora agravante estaria fundada em elementos indiciários de grave risco à ordem pública.
+
+    Isso porque o réu teria perpetrado uma tentativa de homicídio mediante golpes de arma branca e disparos de arma de fogo, além de possuir drogas ilícitas e arma de fogo de uso proibido, vindo a ser denunciado pelos crimes do art. 121, § 2º, I e IV, na forma do art. 14, II, ambos do CP, do art. 16, § 2º, IV, da Lei 10.826/03 e do art. 33, caput, da Lei 11.343/06 (e-STJ fl. 59).
+
+    Neste ponto, vale destacar que a passagem a seguir foi extraída do decreto de prisão preventiva original, de modo que a tese de fundamentação inovadora no segundo grau de jurisdição é patentemente infundada (e-STJ fl. 33):
+
+    Extrai-se do APFD, em apertada síntese, que no dia 09 de outubro de 2021, por volta das 22h19min, no Município cie Nova Lima/MG, os autuados Elerson e Erick teria tentado ceifar a vida da vítima Yan, com golpes de facão e disparos de arma de fogo, porém erraram a execução e atingiram uma senhora, Maria Aparecida Silva, com três disparos, tendo em seguida evadido do local. Erick, por sua vez, teria repassado para Jean e Ryan a arma utilizada no crime, bem como diversas drogas para que estes guardassem. Embora sejam os conduzidos primários e portadores de bons antecedentes criminais, não há dúvida acerca da presença do perigo gerado pelo estado de liberdade dos autuados, notadamente, diante da gravidade das condutas por eles praticadas, de extrema gravidade, sendo necessário a manutenção de sua segregação cautelar. No caso, cuida-se de crimes cujas penas máximas cominadas em abstrato, superam quatro anos. Verifica-se que todos os crimes praticados são graves, sendo tentativa de homicídio, posse irregular de arma de fogo com numeração suprimida e tráfico de drogas, entre outros, o que demonstram o alto grau de reprovabilidade.
+
+    Ao que se vê, os fundamentos da prisão preventiva são suficientes, conjugando a peculiar gravidade concreta da tentativa de homicídio (que envolveu arma branca e arma de fogo de uso proibido, denotou perigo comum e efetivamente vitimou pessoa diversa da pretendida) e a diversidade de delitos aparentemente perpetrados (tentativa de homicídio, porte de arma de fogo de uso restrito e tráfico de drogas ilícitas).”
+
+    Com efeito, cabível se mostra o entendimento de que a custódia cautelar para garantir a ordem pública justifica-se ante a gravidade concreta do crime, evidenciada pelo seu modus operandi. A propósito, a prisão preventiva que tem como fundamento a garantia da ordem pública encontra amparo na jurisprudência desta Corte. Cumpre destacar que o fato de o paciente ostentar condições pessoais favoráveis não lhe garante o direito de liberdade. Nesse sentido, in verbis:
+
+    AGRAVO REGIMENTAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO (ART. 121, § 2º, I, III, IV E VI, DO CÓDIGO PENAL). PRISÃO PREVENTIVA DECRETADA PARA GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI DA CONDUTA CRIMINOSA. FUNDAMENTAÇÃO IDÔNEA. 1. A decisão que determinou a segregação cautelar apresenta fundamentação jurídica idônea, já que lastreada nas circunstâncias do caso para resguardar a ordem pública, ante a gravidade concreta da conduta imputada ao agravante, que teria assassinado sua ex-namorada, que estava grávida, desferindo-lhe diversos golpes de faca na cabeça, no abdômen, na região da pelve e no maxilar. Não bastasse, ainda teria ateado fogo em seu corpo, causando-lhe ainda mais dor e sofrimento. 2. Agravo regimental a que se nega provimento. (HC 167.484-AgR, Primeira Turma, Rel. Min. Alexandre de Morais, DJe de 21/3/2019)
+
+    Agravo regimental em habeas corpus. Processual Penal. Homicídio qualificado (CP, 121, § 2º, inciso II). Prisão preventiva (CPP, art. 312). Revogação. Impossibilidade. Custódia assentada na garantia da ordem, evidenciada pela gravidade em concreto da conduta, a partir do modus operandi do agente. Precedentes. Agravo regimental não provido. (HC 148.831-AgR, Segunda Turma, rel. min. Dias Toffoli, DJe de 18/12/2017)
+
+    Agravo regimental em habeas corpus. 2. Direito Penal e Processual Penal. 3. Prisão em flagrante convertida em preventiva. 4. Paciente que responde pela prática, em tese, dos crimes de ameaça e homicídio (por duas vezes – artigos 147, caput, e 121, § 2º, incisos I e IV, todos do Código Penal), cometidos contra pai e filho. Fundamentos idôneos. 5. Condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, por si sós, garantirem a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar, o que ocorre na hipótese. 6. Apresentação de novos argumentos como perícia em imagens de circuito de segurança, não apreciados pelas instâncias anteriores. Indevida supressão. 7. Precedentes. 8. Agravo regimental a que se nega provimento. (HC 161.960-AgR, Segunda Turma, rel. min. Gilmar Mendes, DJe de 16/4/2019)
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSO PENAL. CRIME DE HOMICÍDIO QUALIFICADO. ARTIGO 121, § 2º, I E IV, DO CÓDIGO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO CONSTITUCIONAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA JULGAR HABEAS CORPUS: CF, ART. 102, I, D E I. ROL TAXATIVO. MATÉRIA DE DIREITO ESTRITO. INTERPRETAÇÃO EXTENSIVA: PARADOXO. ORGANICIDADE DO DIREITO. DECRETAÇÃO DA CUSTÓDIA PREVENTIVA DEVIDAMENTE FUNDAMENTADA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE NA VIA ELEITA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO. 1. A decretação da custódia preventiva para garantia da ordem pública, em razão do modus operandi e da evasão do distrito da culpa, justifica-se ante a gravidade in concrecto do crime (Precedentes: HC 137.027, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 08/05/2017, HC 137.310-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 13/03/2017 e HC 130.412, Segunda Turma, Rel. Min. Teori Zavascki, DJe de 19/11/2015). 2. In casu, a recorrente foi denunciada pela suposta prática da infração penal prevista no artigo 121, § 2º, I e IV, do Código Penal, tendo sido decretada sua prisão preventiva pelo juízo natural. 3. A competência originária do Supremo Tribunal Federal para conhecer e julgar habeas corpus está definida, exaustivamente, no artigo 102, inciso I, alíneas d e i, da Constituição da República, sendo certo que o paciente não está arrolado em qualquer das hipóteses sujeitas à jurisdição desta Corte. 4. O habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos. 5. Agravo regimental desprovido. (HC 143.802-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 1º/8/2017)
+
+    Na hipótese sub examine, o Tribunal de origem assentou que “os fundamentos da prisão preventiva são suficientes, conjugando a peculiar gravidade concreta da tentativa de homicídio (que envolveu arma branca e arma de fogo de uso proibido, denotou perigo comum e efetivamente vitimou pessoa diversa da pretendida) e a diversidade de delitos aparentemente perpetrados (tentativa de homicídio, porte de arma de fogo de uso restrito e tráfico de drogas ilícitas)”.
+
+    Destarte, eventual exame da pretensão defensiva demandaria uma indevida incursão na moldura fática delineada nos autos. Desta sorte, impende consignar, ainda, que o habeas corpus é ação inadequada para a valoração e exame minucioso do acervo fático probatório engendrado nos autos. Destarte, não se revela cognoscível a insurgência que não se amolda à estreita via eleita. Nesse sentido:
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE HOMICÍDIO DUPLAMENTE QUALIFICADO. HABEAS CORPUS SUBSTITUTIVO DE RECURSO EXTRAORDINÁRIO. INADMISSIBILIDADE. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA JULGAR HABEAS CORPUS: CRFB/88, ART. 102, I, D E I. HIPÓTESE QUE NÃO SE AMOLDA AO ROL TAXATIVO DE COMPETÊNCIA DESTA SUPREMA CORTE. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE NA VIA ELEITA. INÉPCIA DA DENÚNCIA. NÃO CARACTERIZADA. CUSTÓDIA PREVENTIVA DEVIDAMENTE FUNDAMENTADA. ELEMENTOS CONCRETOS A JUSTIFICAR A MEDIDA. ALEGADO EXCESSO DE PRAZO. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. (HC 130.439, Primeira Turma, Rel. Min. Luiz Fux, DJe de 12/5/2016)
+
+    Cumpre destacar, ainda, que não cabe a rediscussão da matéria perante essa Corte e nesta via processual, porquanto o habeas corpus não é sucedâneo de recurso ou revisão criminal. Nesse sentido:
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. PRESSUPOSTOS DE ADMISSIBILIDADE DO RECURSO ESPECIAL. COMPETÊNCIA PRECÍPUA DO SUPERIOR TRIBUNAL DE JUSTIÇA. WRIT SUCEDÂNEO DE RECURSO OU REVISÃO CRIMINAL. INVIABILIDADE. 1. Compete constitucionalmente ao Superior Tribunal de Justiça o julgamento do recurso especial, cabendo-lhe, enquanto órgão ad quem, o segundo, e definitivo, juízo de admissibilidade positivo ou negativo quanto a tal recurso de fundamentação vinculada. Salvo hipóteses de flagrante ilegalidade ou abuso de poder, inadmissível o reexame dos pressupostos de admissibilidade do recurso especial pelo Supremo Tribunal Federal. Precedentes. 2. Inadmissível a utilização do habeas corpus como sucedâneo de recurso ou revisão criminal. Precedentes. 3. Agravo regimental conhecido e não provido. (HC 133.648-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 7/6/2016)
+
+    AGRAVO REGIMENTAL NO HABEAS CORPUS. CONSTITUCIONAL. PENAL. VIOLAÇÃO DE DIREITO AUTORAL. TRÂNSITO EM JULGADO DA DECISÃO PROFERIDA NO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPETRAÇÃO DE HABEAS CORPUS NESTE SUPREMO TRIBUNAL APÓS TRANSCURSO DO PRAZO RECURSAL: IMPOSSIBILIDADE DE UTILIZAÇÃO DE HABEAS CORPUS COMO SUCEDÂNEO DE REVISÃO CRIMINAL. DEFICIÊNCIA DE INSTRUÇÃO DO HABEAS CORPUS. PRECEDENTES. DECISÃO AGRAVADA MANTIDA. AGRAVO AO QUAL SE NEGA PROVIMENTO. 1. Trânsito em julgado do acórdão objeto da impetração no Superior Tribunal de Justiça. Jurisprudência do Supremo Tribunal Federal no sentido de não ser viável a utilização de habeas corpus como sucedâneo de revisão criminal. 2. Não estando o pedido de habeas corpus instruído, esta deficiência compromete a sua viabilidade, impedindo que sequer se verifique a caracterização, ou não, do constrangimento ilegal. 3. Agravo regimental ao qual se nega provimento. (HC 132.103, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 15/3/2016)
+
+    Ex positis, NEGO SEGUIMENTO ao habeas corpus, com fundamento no artigo 21, § 1º, do RISTF. Prejudicado o exame da medida liminar.
+
+    Publique-se.
+
+    Brasília, 24 de outubro de 2022.
+
+Ministro LUIZ FUX
+
+Relator
+
+Documento assinado digitalmente
