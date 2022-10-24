@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Agravo conhecido para não conhecer do recurso especialinterposto pelo Município de São Paulo, com fundamento no art. 105, III, a, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal de Justiça do Estado de São Paulo, nos termos assim ementados (fl. 1.054):
+APELAÇÃO - Ação anulatória de lançamento fiscal - ISSQN - Decadência do crédito tributário. Afastada. Lançamento por homologação: não havendo a antecipação do pagamento pelo. contribuinte, aplica-se o disposto no art. 173, I do CTN, e não o art. 150, § 4º, do mesmo código. Atividade bancária - Taxatividade da lista anexa à LC 56/87 - Serviços tributáveis e não-tributáveis - Recurso não provido.
+Na origem, trata-se deação ajuizada por Deustche Bank S.A. -Banco Alemão contra o Município de São Paulo objetivando a anulação de lançamentos fiscais a título deISS.
+Na sentença, julgou-se procedente o pedido.No Tribunal a quo, a sentençafoi mantida. Esta Corteconheceu do agravo para não conhecer do recurso especial.
+No recurso especial, o Município de São Pauloalegaviolação do art.44 da Lei Complementar n. 56/1987, sustentando, em síntese, que é indevida a incidência do ISSQN sobre os serviços bancários prestados pelo contribuinte.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, reconsidero a decisão de fls. 2099-2101, tornando-a sem efeito e, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão (fl. 2139):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ISS. ENQUADRAMENTO DE ITENS NO ANEXO DO DL 406/1968. REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ. TEMA 296/STF COM IDÊNTICA CONCLUSÃO. AGRAVO INTERNO IMPROVIDO.
+I - Na origem, o feito decorre de ação objetivando anular o lançamento de tributos municipais, com valor da causa atribuído em R$ 129.433,82, em 01/12/2004. Com o julgamento pela procedência do pedido, foi interposta apelação, que manteve a sentença. Interposto recurso especial, este não teve seguimento na origem. Seguiu-se a interposição de agravo em recurso especial. No STJ, em decisão monocrática de minha lavra, determinei o sobrestamento do feito até o julgamento do Tema 296/STF. Em decisão posterior, reconsiderou-se para aplicar ao caso o óbice da Súmula 7/STJ e o Tema 296/STF - que definiu não poder ser revisto pelo STF o enquadramento feito pelo Tribunal de origem às atividades em itens da lista anexa ao DL 406/1968, por demandar reexame de prova.
+II - Verifica-se que o Tribunal de origem, ao adotar a tese sufragada no juízo de primeiro grau, bem assim em face das informações coletadas na perícia judicial, entendeu que as atividades tributadas pelo Município tinham natureza de atividades-meio, e assim não eram sujeitas ao recolhimento de ISS. Desse modo, a despeito da necessidade de analisar a taxatividade das atividades vinculadas aos lançamentos fiscais do Município, é evidente que para aferir a afirmação do recorrente de que "os serviços prestados enquadram-se sem qualquer dúvida no item 44 da lista dea serviços tributáveis (e não no 95, como afirma o acórdão recorrido)" fazse impositivo sindicar o conjunto probatório utilizado pelo Tribunal a quo para chegar à conclusão pelo não enquadramento das referidas atividades na lista de serviços anexa à Lei Complementar n. 56/87. Esse reexame dos elementos fáticos constantes dos autos é inviável no recurso especial, em face da vedação contida na súmula 7/STJ.
+III - Em apoio à aplicação do óbice encimado, verifica-se que recentemente o Supremo Tribunal Federal julgou o tema 296, RE 784439, que trata sobre a interpretação da lista de serviços anexa ao DL n. 406/1968 e LC n. 116/2003, chegando à conclusão que "o enquadramento feito pelo Tribunal local de determinadas atividades em itens da lista anexa ao DL 406/1968 não pode ser revisto pelo Supremo Tribunal Federal. Eventual violação da Constituição Federal apresenta-se como ofensa reflexa e a análise do recurso extraordinário demanda a revaloração das provas produzidas no processo".
+IV - Agravo interno improvido.
+Opostosembargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumidos nos seguintes termos (fls. 2.151-2.152):
+O v. acórdão embargado, contudo, não analisou a aplicabilidade dos artigos 30, III e 156, III da Constituição Federal ao presente caso. Assim, o v. acórdão incorreu em omissão que deve, portanto, ser sanada de modo, inclusive, a prequestionar os artigos 30, III e 156, III da Constituição Federal.
+O v. acórdão embargado, assim, não analisou a aplicabilidade do artigo 5º, LIV da Constituição Federal ao presente caso. Dessa forma, o v. acórdão embargado incorreu em omissão que deve, portanto, ser sanada de modo, inclusive, a prequestionar o artigo 5º, LIV da Constituição Federal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. TRIBUTÁRIO. ISS. LANÇAMENTOS. ANULAÇÃO. PROCEDÊNCIA DO PEDIDO. PRETENSÃO DEREEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N.7/STJ. TEMA 296/STF. OFENSA AOS DISPOSITIVOS DA CF/1988. INVIABILIDADE DO RECURSO ESPECIAL.ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I -Na origem, trata-se de ação ajuizada por Deustche Bank S.A. -Banco Alemão contra o Município de São Paulo objetivando a anulação de lançamentos fiscais a título de ISS.
+II - Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi mantida. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV -Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal. (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+V -Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal. (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
