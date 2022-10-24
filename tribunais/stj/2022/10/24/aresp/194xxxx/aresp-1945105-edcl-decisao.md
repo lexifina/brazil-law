@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela Autovias S/A contra decisão que não conheceu do agravo em recurso especial, assim ementada (fl. 1.079):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
+Em suas razões, a parte embargante sustenta, em síntese, que há omissão no julgado, pois "Nas instâncias anteriores (TJSP), houve condenação ao pagamento de honorários no percentual de 11% (R$ 21.426,22). Já neste e. STJ este i. Ministro determinou "majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).". A majoração em mais 10% (R$ 19.478,39) resultará no valor total de R$ 40.904,61, que corresponde a 21%, acima do teto previsto pelo art. 85 do CPC. Assim, requer a embargante que este i. Ministro relator supra a omissão apontada, para que se manifeste a respeito dos honorários sucumbenciais arbitrados, de forma a manter seu percentual dentro dos limites previstos no art. 85 do CPC, cujo teto é o de 20%, tal como determinado pelo § 3º, I do art. 85 do CPC." (fl. 1.083).
+É o relatório. Decido.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Com efeito, apartir dos próprios argumentos despendidos nos Aclaratórios verifica-se não se tratar de qualquer omissão, contradição ou obscuridade a ser sanada, uma vez que a própriadecisão monocrática limita que a majoraçãoem 10% os honorários advocatícios devem observar"os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015" (fl. 1.080).
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS DE INSTÂNCIA. LIMITES E PARÂMETROS DOS §§ 2º, 3º E 11 DO ARTIGO 85 DO CPC/2015.ALEGAÇÃO DE OMISSÃO NO JULGADO. VÍCIO NÃO CONFIGURADO. EMBARGOS REJEITADOS.
