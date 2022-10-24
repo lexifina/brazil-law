@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por SULTEPA CONSTRUÇÕES E COMÉRCIO LTDA - EM RECUPERAÇÃO JUDICIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AÇÃO MONITÓRIA. CONTRATO DE LOCAÇÃO DE EQUIPAMENTO. FATURAS. NOTAS FISCAIS. CASO CONCRETO. MATÉRIA DE FATO. TENDO A PARTE DEMANDANTE SE DESINCUMBIDO DO ÔNUS DE PROVAR OS FATOS CONSTITUTIVOS DE SUA PRETENSÃO DE DIREITO MATERIAL, À EMBARGANTE MONITÓRIA CABE A PROVA DO ALEGADO FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO, O QUE NÃO OCORREU NA ESPÉCIE. APELO DESPROVIDO (fl. 264).
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 373, I, do CPC, no que concerne à ausência de comprovação dos fatos constitutivos do direito da recorrida, trazendo os seguintes argumentos:
+14. Por força do artigo 700 do CPC, a ação monitória tem como objeto a formação de título executivo com base em obrigação representada por escrito.
+ ..
+16. Porém, não é qualquer forma escrita que faz título capaz de embasar o pedido da monitória. Há a necessidade de que este documento escrito aponte para uma obrigação certa, líquida e exigível.
+ ..
+18. Logo, deveria a recorrida, ter comprovado a prestação de serviço, de modo a dar suporte a documentação acostada e consequentemente ao direito que postula, porém não o fez.
+19. Percebe-se que falta a mínima prova consubstancial em relação à existência de débitos da recorrente junto à recorrida. Argumentos que mesmo não provando, mas que dariam maior veracidade ao alegado sequer foram ventilados.
+20. Sabe-se que a simples alegação de que alguém é credor não serve para assim ser considerado. A recorrida não acostou qualquer documento que comprovasse os débitos alegados, prova estas que lhe competem produzir.
+21. Logo, o ônus de provar a legitimidade de seu crédito, bem como a concretização da prestação de serviços, era da recorrida, por aplicação do que dispõe o art. 373, I, do CPC, até porque não era possível à recorrente produzir prova negativa.
+22. Porém, há nos autos somente documentos unilateralmente produzidos pela recorrida, documentos estes que não caracterizam de modo suficiente e eficaz a prova escrita determinada no art. 373, I, CPC.
+23. Verifica-se que aos autos foram aportadas notas fiscais, que são documentos emitidos sem qualquer participação da parte contrária, com assinaturas que a recorrente desconhece, eis que ausentes carimbos, selos ou qualquer forma de reconhecimento da empresa SULTEPA, sendo, portanto, tais documentos insuficientes para comprovação do alegado.
+24. A recorrida chegou perante o Poder Judiciário simplesmente requerendo o pagamento de quantias que não são devidas e não expôs razão alguma para demonstrar que o direito alegado era verossímil e menos ainda trouxe resquício de qualquer prova do seu direito.
+25. É necessário que se verifique em cada caso a possibilidade do fornecedor produzir as provas que tal princípio lhe incumbe, sob pena do fornecedor ser obrigado a realizar prova impossível, que é justamente o caso dos autos.
+26. Não pode a recorrida se desincumbir do ônus de demostrar a efetiva realização da contraprestação, e postular a efetividade de um contrato que supostamente alega cumprimento.
+ ..
+27. E diante dos termos do acórdão que negou provimento ao recurso de apelação interposto pela recorrente, em que pese a ausência de comprovação dos fatos constitutivos do direito da recorrida, evidente a violação ao disposto no art. 373, I, do CPC.
+28. Diante de todo o exposto, requer a recorrente dignem-se V. Exas., conhecer e dar provimento ao presente recurso especial, a fim de que este egrégio Superior Tribunal de Justiça, aplicando o direito à espécie, com fundamento no art. 105, III, "a", da CF/88, para julgar improcedente a ação, diante da não comprovação dos fatos constitutivos do direito da recorrida, sob pena de violação ao art. 373, I, do CPC (fls. 278/280).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso vertente, a demandante monitória desincumbiu-se, a contento, do seu ônus, juntando contrato de locação de equipamento, demonstrativos de locação e boletos para pagamento dos respectivos alugueis (fls. 10-34), referentes ao período de abril a junho de 2015, que esclarecem a ocorrência do negócio e os valores devidos.
+Por sua vez, a embargante monitória, ora apelante, não apresentou qualquer espécie de prova no sentido de que não tenha existido relação negocial entre as partes ou de que os valores não correspondam aos realmente devidos.
+Desse modo, no caso concreto, tendo a demandante se desincumbido a contento de demonstrar o fato constitutivo de sua pretensão de direito material (fl. 262).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à distribuição do ônus probatório das partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a alteração das conclusões adotadas pela instância ordinária, no que diz respeito ao ônus da prova, demandaria, necessariamente, novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ". (AgInt no AREsp 1.190.608/PI, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 24/4/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.606.233/SC, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 13/8/2020; AgInt no AREsp 1.060.371/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 17/8/2020; e REsp 1.812.278/CE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
