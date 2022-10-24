@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUTOR EM TRATAMENTO DE CÂNCER. DESCUMPRIMENTO DE DECISÃO JUDICIAL RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. ASTREINTES. PROPORCIONALIDADE E RAZOABILIDADE RECONHECIDAS. REVISÃO DO VALOR. DESCABIMENTO. AGRAVO DESPROVIDO.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial.
+2. O eg. Superior Tribunal de Justiça firmou orientação de que o exame do valor atribuído às astreintes pode ser revisto, a qualquer tempo, quando constatada a exorbitância da importância arbitrada ou acumulada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+3. No caso dos autos, a multa cominatória já reduzida pela Corte de origem, de R$ 80.000,00 (oitenta mil reais) para R$ 25.000,00 (vinte e cinco mil reais), não excedeu ao razoável, considerando tratar-se de descumprimento de decisão que determinou fornecimento de medicação a paciente com câncer.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): Trata-se de agravo interno interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S/A contra decisão monocrática proferida pela Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial, por entender que incide o óbice da Súmula 7 do STJ.
+Nas razões recursais do agravo interno, a agravante aduz que as questões principais do recurso especial dizem respeito ao real cabimento da multa em discussão, bem como, em caráter subsidiário, à possibilidade de revisão do quantum a ela referente.
+Defende que, para se aferir a violação ao artigo 537, § 1º, do CPC, apontada no presente recurso especial, basta partir da moldura fática delineada no v. aresto atacado, não havendo necessidade de se revolver provas, de modo que a citada Súmula 7 do Superior Tribunal de Justiça não encontra aplicação no caso em exame.
+Intimada, a parte agravada apresentou manifestação (e-STJ, fls. 204/205).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AUTOR EM TRATAMENTO DE CÂNCER. DESCUMPRIMENTO DE DECISÃO JUDICIAL RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. ASTREINTES. PROPORCIONALIDADE E RAZOABILIDADE RECONHECIDAS. REVISÃO DO VALOR. DESCABIMENTO. AGRAVO DESPROVIDO.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial.
+2. O eg. Superior Tribunal de Justiça firmou orientação de que o exame do valor atribuído às astreintes pode ser revisto, a qualquer tempo, quando constatada a exorbitância da importância arbitrada ou acumulada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+3. No caso dos autos, a multa cominatória já reduzida pela Corte de origem, de R$ 80.000,00 (oitenta mil reais) para R$ 25.000,00 (vinte e cinco mil reais), não excedeu ao razoável, considerando tratar-se de descumprimento de decisão que determinou fornecimento de medicação a paciente com câncer.
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator): A irresignação não merece prosperar.
+Nas razões do recurso especial, a agravante alega que o valor das astreintes, fixado pela Corte de origem em R$ 25.000,00 (vinte e cinco mil reais), mostra-se desarrazoado e ilegítimo, ensejando enriquecimento ilícito da parte adversa.
+Defende que, tão logo intimada da decisão liminar, a recorrente procedeu ao seu cumprimento, não havendo nenhum prejuízo, razão pela qual não houve descumprimento, não havendo que se falar em incidência de astreintes.
+De qualquer sorte, mesmo tendo o v. aresto reduzido a multa para R$ 25.000,00 (vinte e cinco mil reais), o valor permanece exagerado.
+Sobre a existência de descumprimento de decisão judicial por parte da recorrente, a Corte de origem assim consignou:
+"Restou caracterizado o descumprimento da decisão que deferiu a tutela provisória de urgência. Conforme bem observado pela decisão agravada, depois da decisão de fl. 63, que declarou devida a multa diária, a operadora informou a liberação do procedimento (fl. 67), confirmada pelo usuário (fl. 71).
+Destarte, mostra-se devida a incidência da multa diária fixada, em razão do descumprimento da tutela provisória de urgência." (e-STJ, fls. 117/118 - grifei)
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIALETICIDADE RECURSAL. OBSERVÂNCIA. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DECISÃO JUDICIAL. ALEGAÇÃO DE CUMPRIMENTO. INCIDÊNCIA DA SÚMULA 7/STJ. AUTOR COM CÂNCER NO CÓLON. REALIZAÇÃO DE PROCEDIMENTO. DETERMINAÇÃO. ASTREINTES. REVISÃO DO VALOR. PROPORCIONALIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Deve ser afastada a inobservância à dialeticidade recursal quando a parte impugna especificamente os fundamentos da decisão recorrida.
+2. A negativa de prestação jurisdicional não foi configurada, pois o acórdão estadual examinou, de forma fundamentada, os pontos essenciais ao deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte recorrente.
+3. A alteração da conclusão do Tribunal a quo, no tocante ao descumprimento da obrigação de fazer, tal como requerida, demandaria, necessariamente, o reexame de matéria fática e probatória dos autos, providência vedada no recurso especial pela Súmula 7 do STJ.
+4. É pacífico nesta Corte o entendimento de que o valor ou a periodicidade da multa cominatória prevista no art. 537 do CPC/2015 pode ser alterado pelo magistrado a qualquer tempo, até mesmo de ofício, quando irrisório ou exorbitante.
+5. No caso, a multa pelo descumprimento da decisão que determinou ao plano de saúde que fornecesse o material descrito na inicial e realizasse o exame e procedimento requerido pelo autor foi fixada em R$ 1.000,00 (mil reais) por dia. O arbitramento da multa no total de R$ 54.000,00 (cinquenta e quatro mil reais) se deu em razão de reiterado descumprimento de decisão judicial pela agravante em atender o agravado, que foi diagnosticado com câncer no cólon sigmoide, cujo tratamento deve ser iniciado o mais rapidamente possível para que o paciente tenha maiores chances de cura, e não se mostra exorbitante ou desproporcional à obrigação imposta.
+6. Agravo interno provido para afastar a falta de dialeticidade recursal, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1661657/RJ, de minha Relatoria, QUARTA TURMA, julgado em 28/09/2020, DJe 20/10/2020)
+Quanto ao valor da multa, assim constou no acórdão recorrido:
+"Com relação ao valor das astreintes, observo que é permitido ao magistrado alterar as astreintes de ofício a qualquer tempo, de modo que a modificação do valor ou a sua limitação não ofende a coisa julgada, nos termos do art. 537, §1º, do Código de Processo Civil.
+(..)
+No caso, o valor alcançado pelas astreintes se mostrou excessivo, uma vez que atingiu a quantia de R$ 80.000,00, o que está em desacordo com os princípios da razoabilidade e proporcionalidade, considerando a situação concreta analisada nos autos, com o cumprimento tardio da obrigação de fazer.
+Todavia, reputo razoável a fixação do valor da multa para R$ 25.000,00 (vinte e cinco mil reais), valor não excessivo e, tampouco, desproporcional, considerando o poderio econômico da agravada. O valor estabelecido pela decisão agravada (R$ 10.000,00) é baixo diante das circunstâncias dos autos e não se mostra condizente com o descumprimento de decisão judicial que determinou o fornecimento de medicação para o tratamento de câncer, doença grave cuja falta de medicamento no período indicado pelo médico assistente pode trazer consequências irreversíveis para o paciente." (e-STJ, fls. 118/119)
+O eg. Superior Tribunal de Justiça firmou orientação de que o exame do valor atribuído às astreintes pode ser revisto, a qualquer tempo, quando constatada a exorbitância da importância arbitrada ou acumulada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECLAMO DA AGRAVANTE. INSURGÊNCIA RECURSAL DA AGRAVADA.
+1. Consoante entendimento desta Corte Superior, é possível a redução do valor das astreintes nas hipóteses em que a sua fixação ensejar multa de valor muito superior ao discutido na ação judicial em que foi imposta, a fim de evitar possível enriquecimento sem causa, em atenção aos princípios da razoabilidade e proporcionalidade.
+Precedentes.
+2. Interpostos dois recursos pela mesma parte contra a mesma decisão, não se conhece daquele apresentado em segundo lugar, por força do princípio da unirrecorribilidade e da preclusão consumativa 3. Agravo interno de fls. 214-221 desprovido e agravo interno de fls. 228-236 não conhecido.
+(AgInt no AgInt no AREsp 1637298/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/08/2021, DJe 02/09/2021)
+No caso dos autos, a multa cominatória, já reduzida pela Corte de origem para R$ 25.000,00 (vinte e cinco mil reais), não excedeu ao razoável, considerando tratar-se de descumprimento de decisão que determinou fornecimento de medicação a paciente com câncer.
+O valor mostra-se condizente com os precedentes desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. TRATAMENTO DE CÂNCER DE PRÓSTATA. DANO MORAL RECONHECIDO PELAS INSTÂNCIAS ORDINÁRIAS. REEXAME DE PROVAS. SÚMULA 7/STJ. ANTECIPAÇÃO DE TUTELA. ASTREINTES. REVISÃO. POSSIBILIDADE. EXORBITÂNCIA NÃO CONFIGURADA. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente.
+2. No caso, o Tribunal de origem, examinando as circunstâncias da causa, concluiu que a recusa ilegítima da operadora do plano de saúde foi capaz de colocar em risco a integridade física e psíquica do demandante, diante de diagnóstico de doença grave - câncer de próstata -, bem como de gerar abalo psíquico que ultrapassa o mero dissabor do inadimplemento contratual. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos (Súmula 7/STJ).
+3. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. Precedentes.
+4. No caso, o montante fixado em R$ 10.000,00 (dez mil reais) não se mostra exorbitante nem desproporcional aos danos sofridos em decorrência da negativa ilegítima de cobertura de tratamento de câncer.
+5. O eg. Superior Tribunal de Justiça firmou orientação de que o exame do valor atribuído às astreintes pode ser revisto em hipóteses excepcionais, quando for verificada a exorbitância da importância arbitrada em relação à obrigação principal, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+6. Hipótese em que a multa por descumprimento da obrigação de fazer foi fixada em R$ 1.000,00 (mil reais) por dia, totalizando R$ 28.000,00 (vinte e oito mil reais), valor que não se mostra desproporcional ou exorbitante no caso, em face do bem da vida protegido e do valor da obrigação principal.
+7. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1649686/PR, de minha Relatoria, QUARTA TURMA, julgado em 24/08/2020, DJe 15/09/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. MULTA COMINATÓRIA IMPOSTA PARA COMPELIR O CUMPRIMENTO DE LIMINAR DEFERIDA À CONSUMIDORA PARA A REALIZAÇÃO DE CIRURGIA DA COLUNA. DEMORA. ASTREINTES. REEXAME DE PROVA. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que o pedido de redução do valor da multa diária, aplicada como meio coercitivo para o cumprimento da ordem judicial, só pode ser examinado nesta Corte nos casos em que a aludida multa se mostrar irrisória ou exorbitante.
+2. Na hipótese ora examinada, a fixação das astreintes em R$ 50.000, 00 (cinquenta mil reais), estipuladas conforme as peculiaridades do caso concreto, atende aos princípios da razoabilidade e proporcionalidade, até porque bastaria o cumprimento tempestivo da determinação judicial para que não incidisse a multa.
+3. A apreciação dos critérios previstos no art. 461 do CPC utilizados para a fixação do referido quantum demandaria o reexame de matéria fático-probatória, o que encontra óbice na Súmula n. 7 desta Corte.
+4. Agravo interno improvido.
+(AgInt no AREsp 943.908/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/09/2016, DJe 04/10/2016)
+Ante o exposto, nega-se provimento ao agravo interno.
+É como voto.
