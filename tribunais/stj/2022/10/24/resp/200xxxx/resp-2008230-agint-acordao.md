@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto pela UNIÃO contra a decisão de fls. 418-422 que conheceu em parte do recurso especial e, nessa extensão, nego-lhe provimento nos termos da seguinte ementa:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA AMBIENTAL. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DEMOLIÇÃO DE CONSTRUÇÃO. NECESSIDADE. EXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+Insurge-se a agravante apenas quanto ao não reconhecimento de ofensa ao art. 1.022 do Código de Processo Civil de 2015, destacando-se nas razões do agravoos seguintes trechos.
+Contudo, a decisão em tela merece ser reformada quanto à questão relativa à violação ao art. 1.022 do CPC.
+Isso porque, consoante se infere dos autos, desde a contestação a recorrente alega que:"a ocorrência da infração foi verificada pela Equipe de Fiscalização da DICI/SPU/CE, consistindo a irregularidade em Instalar equipamentos e benfeitorias (mesas, cadeiras, implante de coqueiros (coqueiral), tendas para sombreamento/decoração, estruturas de som/iluminação, chuveiro, banners e um palco, destinado apequenas apresentações) em área de uso comum do povo, praia, em área de 370,60m2, conforme, medição realizada pela Equipe de Fiscalização na vistoria in loco".
+O Tribunal de origem, ao julgar o feito, não considerou tal aspecto fático.
+Apenas considerou a instalação de equipamentos removíveis, quais sejam, mesas, cadeiras, banners e aparelho de som.
+Daí a interposição dos embargos declaratórios, com a seguinte alegação(fl. 229):
+Quanto ao fato de a cerca viva ter sido, consoante alega a autora, "construída pelos próprios praticantes do esporte", a responsabilidade pela presença dela na área consoante restou claro do auto de infração, existindo, mais é da barraca Kitecabana, uma vez, outros equipamentos que favorecem, ampliam o seu uso, tais como:
+A mesas, cadeiras, implante de coqueiros (coqueiral), tendas para sombreamento/decoração, estruturas de som/iluminação, chuveiro, banners e um palco, destinado a pequenas apresentações."
+Cabe destacar que o espaço frontal à estrutura principal da barraca onde foi instalada uma "área avançada" para atendimento dos clientes com área de 370,60 m  encontra-se integralmente em área de praia que, por ser bem público de uso comum do povo, tem a sua ocupação de forma privada vedada por lei.
+Logo, não há possibilidade de regularização da situação da barraca da autora, por expressa vedação legal. E, mesmo que existisse tal possibilidade, quedaria ela inserida na discricionariedade administrativa, cuja análise é insuscetível de ser suprimida da Administração Pública.
+Portanto, a irregularidade constatada não envolve apenas equipamentos removíveis, mas uma estrutura (palco) instalada em uma área avançada com 370,60m2, em plena área de praia, o que é absolutamente ilegal.
+No recurso especial, a recorrente alega omissão e postula a nulidade do acórdão recorrido para que o Tribunal de origem se manifeste expressamente sobre esse aspecto, cuja relevância está sobejamente demonstrada.
+Houve impugnação (fls. 433-437).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO E AMBIENTAL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO. NÃO OCORRÊNCIA. ANÁLISE, PELO TRIBUNAL A QUO, DE TODAS AS CIRCUNSTÂNCIAS FÁTICAS E JURÍDICAS NECESSÁRIAS À SOLUÇÃODA CONTROVÉRSIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. O julgamento da causa em sentido contrário aos interesses e à pretensão de uma das partes não caracteriza a ausência de prestação jurisdicional, tampouco viola o art. 1.022 do CPC. Jurisprudência do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+VOTO
+A irresignação não merece acolhida.
+A agravante sustenta a violação do artigo 1.022 do CPC pelo Tribunal de origem ao argumento de queacórdão recorrido teria sido omisso quanto à alegação de que "a irregularidade constatada não envolve apenas equipamentos removíveis, mas uma estrutura (palco) instalada em uma área avançada com 370,60m2, em plena área de praia, o que é absolutamente ilegal" (fl. 429).
+Entretanto, conformeressaltado na decisão ora agravada, ao contrário do afirmado pela agravante, a Corte de origem se manifestou expressamente sobre as circunstâncias fáticas a respeito das quais formou suas convicções, baseando-se nos aspectos pertinentes à hipótese e na legislação que entendeu aplicável ao caso concreto, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+A propósito, merece destaque o seguinte trecho do acórdão impugnado pelo recurso especial (fl. 206):
+Analisando a decisão da SPU, constante do Id: 4058100.16251564, verifica-se que não se trata de um empreendimento fixo instalado na área de praia, mas de mesas, cadeiras, banners e aparelho de som, todos removíveis, que são recolhidos após o horário normal de lazer, da população que frequenta a região.
+Ressalte-se, ainda, que a barraca em questão, usa a área de praia que pode ser ocupada por qualquer frequentador da localidade, apenas oferecendo cadeiras, mesas e música, para o conforto e diversão dos banhistas.
+Saliente-se, também, que não há nos autos, demonstração de que o coqueiral existente no local, tenha sido plantado pela apelante, nem tampouco, comprova a ocupação irregular da área.
+Assim, não se verifica nenhum óbice a que a barraca continue funcionando no local, desde que seja montada e desmontada diariamente, o que em princípio manterá seu trabalho e a renda dele proveniente.
+Nesse cenário, diversamente do que alega a agravante, o Tribunala quonão se omitiu sobre circunstâncias fáticas relevantes para o desate da controvérsia, estando evidente no acórdão recorrido que a Corte de origem reconheceu o uso de área de praia pela recorrida, considerando, entretanto, que, dada a inexistência de estruturas fixas ea possibilidade de montagem e desmontagem diária dos petrechos utilizadospara o conforto e diversão dos frequentadores do local e dos banhistas, não estaria configurado qualquer óbice para o funcionamento da barraca.
+Ademais, a alegação de que haveria no local estruturainstalada, de caráter fixo,não removível, como aduz agora a agravante (fl. 429), não foi submetida, com esses contornos,ao Tribunala quonos embargos de declaração opostos ao acórdão recorrido. Ao contrário, os embargos de declaração, quanto ao ponto, apenas afirmaram a existência de "área avançada para atendimento dos clientes" (fl. 229) que se encontraria "integralmenteem área de praia" (fl. 229), nada tendo destacado a União, naquela oportunidade, sobre a instalação de qualquer tipo de estrutura permanente.
+E foi exatamente nesse contexto fático que a questão controvertidafoi analisada, tendo aCorte de origem afirmado, no acórdão dos aclaratórios,"que não se trata de um empreendimento fixo instalado na área de praia, mas de mesas, cadeiras, banners e aparelho de som, todos removíveis, que são recolhidos após o horário normal de lazer, da população que frequenta a região" (fl. 267) e que "a barraca em questão, usa a área de praia que pode ser ocupada por qualquer frequentador da localidade, apenas oferecendo cadeiras, mesas e música, para o conforto e diversão dos banhistas" (fl. 267).
+Assim, percebe-se que o acórdão promoveu a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte, não se caracterizando qualquer vício no julgado, porque a omissão apta a ensejar os embargos de declaração é aquela advinda do próprio julgamento e prejudicial à compreensão da causa, o que não se verifica na espécie.
+Por tal razão, não há que se falar em ausência de prestação jurisdicional, havendo apenas o julgamento contrário ao postulado pela ora agravante, o que não acarreta violação ao art. 1.022 do CPC.
+Desta feita, NEGO PROVIMENTO ao agravo interno.
+É o voto.
