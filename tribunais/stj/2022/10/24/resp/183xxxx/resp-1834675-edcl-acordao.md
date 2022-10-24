@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LPS BRASIL - CONSULTORIA DE IMÓVEIS S.A. e FOR YOU - ASSESSORIA TÉCNICA E DOCUMENTAL LTDA.contra acórdão assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE RESCISÃO DE CONTRATO C/C DEVOLUÇÃO DE QUANTIA E DANOS MORAIS A MATERIAIS.APLICAÇÃO CDC. RESPONSABILIDADE SOLIDÁRIA RECONHECIDA PELO TRIBUNAL. VÍNCULO DE PARCERIA ENTRE AS DEMANDADAS. CADEIA PRODUTIVA. SÚMULA 7 DO STJ. HONORÁRIOS SUCUMBENCIAIS. SUCUMBÊNCIA MÍNIMA NÃO RECONHECIDA. ALEGADA OFENSA AOS ARTS. 489 E 1.022 DO CPC/20 15. NÃO OCORRÊNCIA. REVISÃO DE MATÉRIA FÁTICO- PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ.
+AGRAVO INTERNO DESPROVIDO.
+A parte embargante, alega, essencialmente, que o acórdão foi omisso quanto (a) a demonstração de prequestionamento quanto ao artigo 14, §3º, I e II, do CDC, devendo ser afastado o óbice da Súmula 211/STJ, porquanto foi tratado nos embargos de declaração opostos na origem a questão referente às excludentes de responsabilidade, estando prequestionada a matéria nos termos do art. 1.025 do CPC; (b) à possibilidade de apreciação do recurso especial, independentemente de reanálise do contexto fático-probatório dos autos, o que afastaria o óbice da Súmula 07/STJ, pois restou incontroverso que as embargantes não são partes no contrato de compra e venda, tendo em vista que sua atuação foi limitada à intermediação; (c) a possibilidade de análise da afronta ao artigo 86, parágrafo único, do CPC, pois para se concluir que a sucumbência determinada no acórdão recorrido está totalmente equivocada.
+Intimada, a embargada não apresentou impugnação.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+VOTO
+Eminentes colegas, os embargos declaratórios não merecem acolhida.
+Nos rígidos limites estabelecidos pelo artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes, quando algum desses vícios for reconhecido.
+Nesse sentido, confira-se a jurisprudência desta Corte Superior:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VÍCIOS ALEGADOS. INEXISTÊNCIA. EFEITO INFRINGENTE. IMPOSSIBILIDADE. OBSCURIDADE ENTRE DECISÕES DIVERSAS. DESCABIMENTO DOS ACLARATÓRIOS.
+1. Inexistência dos vícios tipificados no art. 1.022, incisos I e II, do Código de Processo Civil, a inquinar o acórdão embargado.
+2. A atribuição de efeito infringente em embargos declaratórios é medida excepcional, incompatível com a hipótese dos autos, em que a parte embargante pretende um novo julgamento do seu recurso.
+3. EMBARGOS DE DECLARAÇÃO REJEITADOS. (EDcl no AgRg no REsp 1520731/MS, de minha Relatoria, TERCEIRA TURMA, julgado em 17/05/2016, DJe 01/06/2016)
+No caso sob apreciação, não há a configuração, no aresto ora embargado, de qualquer omissão, contradição, obscuridade ou erro material que permita a oposição dos aclaratórios.
+Com efeito, embora a parte tenha apontado a existência de omissão quanto a diversos pontos, verifica-se que o acórdãoembargadocontém fundamentação clara ao consignar que não estaria presente o prequestionamento do art. 14, §3º, I e II, do CDC, pois o "fato de o acórdão recorrido ter optado pela regra geral da responsabilidade não tem o condão de prequestionar a referida norma, porquanto não analisou minimamente a matéria referente às excludentes de responsabilidade na prestação de serviço do CDC".
+Quanto à aplicabilidade do art. 1.025 do CPC, no ponto, a permitir o reconhecimento do prequestionamento ficto, o acórdão embargado justificou o afastamento da regra ao ao afirmar que"a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrigui, Terceira Turma, julgado em 04/04/2017, DJe 10/04/2017), o que não ocorreu".
+Destacou-se, ainda, que a a mera ausência de prequestionamento seria, por si só, suficiente para o não conhecimento do recurso quanto à tese de ausência de responsabilidade dos embargantes, portanto, haveria fundamentação suficiente quanto ao ponto, não havendo que se falar em omissão.
+A aplicação do óbice da Súmula 07/STJ também foi devidamente justificada porquanto (I)não resta incontroverso nos autos que não há qualquer nexo da causalidade a sustentar a sua condenação, havendo necessidade de reexame dos fatos e dos contratos para afastar as conclusões a que chegou o acórdão recorrido, fazendo incidir o óbice da Súmula 07/STJ; (II)é inviável o reexame do quantitativo em que o autor e o réu decaíram do pedido para fins de aferir a sucumbência recíproca ou mínima.
+Destarte, não podem ser acolhidos embargos de declaração que, em verdade, sob o pretexto de apontar suposta ofensa ao art. 1.022 do CPC/2015, traduzem inconformismo com a decisão posta, pretendendo rediscutir o que já foi decidido somente porque restou assentado pela decisão embargada entendimento contrário ao interesse da parte.
+No mesmo sentido, o julgado abaixo:
+PROCESSUAL CIVIL E TRIBUTÁRIO. ITCMD. VIOLAÇÃO DO ART. 1.022 NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. PRINCÍPIO DA LEGALIDADE. ART. 97 DO CTN. REPRODUÇÃO DE NORMA CONSTITUCIONAL. LEI LOCAL. SÚMULA 280/STF.
+(..)
+3. Ademais, nota-se que a Corte de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia, tal como lhe foi apresentada.
+4. Claramente se observa que não se trata de omissão, contradição ou obscuridade, tampouco de erro material, mas sim de inconformismo direto com o resultado do acórdão, que foi contrário aos interesses da insurgente.
+5. No tocante à suposta contrariedade ao art. 1º da Lei 12.016/2009, verifica-se que o Tribunal de origem não emitiu juízo de valor sobre o referido dispositivo legal. Incide, na espécie, por analogia, o óbice da Súmula 282/STF.
+6. Consoante entendimento assentado pelo STJ, as questões atinentes à observância do princípio da legalidade tributária, reproduzido no art. 97 do CTN, possuem natureza eminentemente constitucional, motivo pelo qual não se pode conhecer do Recurso Especial.
+7. A demanda foi dirimida no acórdão recorrido com base em Direito local (Lei Estadual 10.705/2000 e Decreto Estadual 55.002/2009.
+Logo, é inviável sua apreciação em Recurso Especial, em face da incidência, por analogia, da Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário".
+8. Recurso Especial parcialmente conhecido e, nessa parte, não provido. (REsp 1703144/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/11/2017, DJe 19/12/2017) (grifei).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
