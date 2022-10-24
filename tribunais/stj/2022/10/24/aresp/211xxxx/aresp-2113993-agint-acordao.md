@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão monocrática da Presidência do STJ (fls. 242-243, e-STJ), que negou seguimento ao Recurso Especial, com base na Súmula 182 do STJ.
+O agravante sustenta, em suma (fls. 251-252, e-STJ):
+Não é demais esclarecer novamente, contudo, que a ausência de pronunciamento do Magistrado acerca de pontos requeridos pela parte configura violação ao art. 489, § 1º, incisos IV e VI, bem como ao inciso II, caput e incisos I e II, parágrafo único do art.
+1.022, todos do NCPC.
+Assim, o agravante demonstrou à saciedade no recurso especial e no agravo em recurso especial por quais razões os julgados foram omissos, porquanto deixaram de emitir carga decisória a respeito das seguintes questões:
+a) nulidade da inscrição em dívida ativa em razão da ausência de fato gerador, bem como prejudicialidade externa, com vistas ao disposto nos arts. 77 e 78 do CTN e art.
+210, da Lei Complementar nº 460, de 22 de outubro de 2008;
+b) ausência do exercício do poder de polícia - fiscalização, pois apesar de demonstrar que não exercia mais as atividades desde 2002, o Recorrente está sendo cobrado por suposta dívida dos exercícios de 2007 a 2010, ou seja, 5 (cinco) anos após o encerramento das atividades.
+Desta maneira, estão preenchidos todos os requisitos para configurar a omissão no caso concreto, quais sejam:
+Requisito 1: O agravante demonstrou o caráter de prejudicialidade em relação ao cumprimento de sentença (prejudicialidade externa), com vistas ao disposto nos arts aplicação do art. 77 e 78 do CTN e art. 210, da Lei Complementar nº 460, de 22 de outubro de 2008;
+Requisito 2: Não houve manifestação acerca da ausência do exercício do poder de polícia - fiscalização, pois apesar de demonstrar que não exercia mais as atividades desde 2002, o agravante está sendo cobrado pelo período de 2007 a 2010, ou seja, 5 (cinco) anos após o encerramento das atividades.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. TAXA DE FISCALIZAÇÃO PARA LICENÇA DE LOCALIZAÇÃO E FUNCIONAMENTO. TRIBUNAL DE ORIGEM, COM BASE NO CONJUNTO PROBATÓRIO, REJEITOU A EXCEÇÃO. VIOLAÇÃO AO ART. 1022 DO CPC. NÃO OCORRÊNCIA.
+1. Trata-se, na origem, de Agravo de Instrumento, com pedido de tutela de urgência, interposto por Cirilo Luiz Massa da decisão que, em execução fiscal proposta pelo Município de Jundiaí cobrando taxa de fiscalização para licença de localização e funcionamento dos exercícios de 2007 a 2010, no valor de R$1.247,03 (mil, duzentos e quarenta e sete reais e três centavos), rejeitou exceção de pré-executividade, entendendo que a cobrança é legítima, uma vez que não há nulidade na CDA que fundamenta o pedido.
+2. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+3. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que o Tribunal local não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+4. Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 24 de setembro de 2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme assentado na decisão monocrática, preliminarmente constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fls. 151-152):
+O Município de Jundiaí propôs execução fiscal em face do agravante para cobrança de taxa de fiscalização para licença e funcionamento dos exercícios de 2007 a 2010, no valor de R$ 1.247,03.
+O executado opôs exceção de pré-executividade alegando que nas datas dos fatos geradores havia vendido os caminhões utilizados para a prestação de serviços de transporte originadores do tributo, fato que se deu em 2002, mesma época em que deu baixa em seu cadastro municipal de contribuinte perante a Secretaria de Finanças Municipal, por meio do escritório contábil que lhe prestava serviço à época e, ademais, que se aposentou em 1996 (juntando prova da concessão do benefício pelo INSS), fatos que corroboram a não ocorrência dos fatos geradores da taxa.
+A r. decisão agravada merece ser mantida por seus próprios fundamentos, com fulcro no art. 252, do RITJSP, considerando a ausência de prova dos fatos alegados. Como bem pontuou o MM juiz "aquo":
+"No mais, presume-se a existência e a exigibilidade do débito executado, líquido e certo, determinado em sua extensão, assim como se presume a ocorrência do respectivo fato gerador, até por força do disposto no art. 204, CTN, e do artigo 3º da Lei Federal n.º 6.830/1980.
+Nesse passo, ao executado cabe o ônus de trazer aos autos comprovação documental plena e inequívoca do contrário, principalmente a dar conta da inocorrência do fato gerador ou do encerramento pretério de suas atividades, não havendo espaço, porém para qualquer dilação probatória incidental na própria execução, Súmula n. 393 do E. Superior Tribunal de Justiça.
+E, no caso, não há nos autos elementos de convicção consistentes o bastante a afastar essa presunção, que corre em favor da fazenda pública, ora exequente, e em desfavor da parte executada.
+Observa-se que não há comprovação documental de baixa de inscrição de contribuinte antes da ocorrência dos fatos geradores dos débitos em execução, 20/07/2010 fls. 03/06.
+O documento a fls. 74, referente a pedido de encerramento de cadastro de contribuinte, é de 2010, ou seja, é posterior aos fatos geradores das taxas cobradas em apenso, não tendo permissivo legal que lhe confira efeitos retroativos, de maneira que apenas isso não socorre a parte executada aqui, em nada, por si só.
+É certo que, mesmo não baixada formalmente a inscrição de contribuinte, possível, em tese, reconhecer a inexigibilidade do débito, independente disso, se demonstrada de modo inequívoco a inocorrência do fato gerador no plano concreto, mas o que, como dito, não se presume e o que, no caso concreto, não foi comprovado de plano nos autos, descabendo aqui qualquer dilação probatória.
+Não há, pois, prova documental consistente que, por si só e extreme de dúvidas, afaste a presumida regularidade da exação, a incluir a ocorrência do fato gerador, a regularidade do ao de lançamento, a existência do débito, sua extensão e sua exigibilidade.
+Outrossim, não há prova documental alguma de que o excipiente tenha feito administrativamente pedido de baixa antes do seu cancelamento de ofício pelo executado"
+Reitere-se que o pedido de baixa da inscrição do contribuinte no cadastro municipal deu-se em 2010 (pág. 107) e o fato de o agravante ter se aposentado em 1996 nada comprova com relação aos fatos geradores em cobrança.
+Ademais, o fato de não constar como de sua declaração de imposto de renda a propriedade de caminhões também não corrobora a tese do agravante, pois, como bem contra-argumentou o agravado, a prestação de serviços como motorista intermunicipal de cargas pode ser feita com veículos alugados, arrendados ou mesmo objetos de comodato.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
