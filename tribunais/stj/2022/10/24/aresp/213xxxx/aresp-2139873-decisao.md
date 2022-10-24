@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de agravo interposto por CONSTRUTORA TENDA S.A. eOUTRAcontra a decisão que inadmitiu recurso especial. O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado do Rio Grande do Sulassim ementado:
+"APELAÇÕES CIVEIS. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. VÍCIOS CONSTRUTIVOS. DEVER DE INDENIZAR IDENTIFICADO. MANUTENÇÃO DO QUANTUM FIXADO A TÍTULO DE DANOS MORAIS.
+1. Preliminar suscitada pela parte ré afastada. Não há falar em nulidade da sentença por extra petita, pois não há incongruência entre o que foi pedido e o que foi decidido.
+2. Restando suficientemente demonstrado que o imóvel adquirido pela autora apresenta defeitos de construção, resta evidenciado o dever de indenizar.
+3. Dano moral. Situação que ultrapassa o mero dissabor, considerada a quantidade dos vícios, bem como a tentativa de resolução administrativa da questão.
+4. O valor deve garantir, à parte lesada, uma reparação que lhe compense o sofrimento, bem como cause impacto suficiente para desestimular a reiteração do ato por aquele que realizou a conduta reprovável. Valor mantido em R$ 10.000,00, considerado as peculiaridades do caso.
+5. Honorários advocatícios. Pedido de redução rejeitado, considerando os critérios previstos no art. 85,§ 2º, do CPC e sob pena de aviltamento da dignidade do profissional.
+PRELIMINAR AFASTADA. RECURSOS DESPROVIDOS"(fls. 467/468 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 507 e 527e-STJ).
+No recurso especial (fls. 544/564 e-STJ), asrecorrentes alegaram, além de dissídio jurisprudencial,violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022, inciso II, do Código de Processo Civil de 2015, porque não foi corrigida a omissãoapontadanos aclaratórios, e
+(ii) arts. 884 e 944 do Código Civil, ao fundamento de que a concessão de indenização sem a ocorrência de dano gera enriquecimento sem causa.
+Aduziram, ainda, que o acórdão atacado deixou de considerar o entendimento desta Corte no sentido de que não há presunção de dano moral quando se discute vícios de construção.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+De início, a respeito da violação do art. 1.022 do Código de Processo Civil de 2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+No tocante à alegada violação aos arts.884 e 944 do Código Civil, melhor sorte não socorre ao recorrente.
+Com efeito, apropósito da ocorrência de dano material, eis o que decidiu a Corte local:
+"(..)
+No caso, no curso da instrução, foi realizada perícia técnica no imóvel adquirido pela parte autora (fls. 175-190), oportunidade na qual foram constatadas as seguintes falhas de origem construtiva: "obstrução de tubulação para entrada de cabo de internet; mau acabamento das guarnições da porta da unidade privativa; mau acabamento do anteparo/soleira para contenção de água do chuveiro; problemas no circuito elétrico do chuveiro".
+Por outro lado, quanto aos problemas de umidade nas paredes do apartamento por conta de infiltração, esclarece o expert que houve o devido reparo pela construtora, não guardando relação com a construção a infiltração existente na sala, uma vez que proveniente da instalação das grades na janela (fl. 184), desimportando, via de consequência, a data da instalação.
+A prova técnica produzida aos autos, portanto, mostra-se apta e suficiente ao julgamento da lide, apontando fidedignamente os vícios construtivos, não merecendo trânsito as alegações de equívoco e de carência de fundamentação suscitadas pela parte ré, considerando, sobretudo, que atingiu a sua finalidade detectando as anomalias existentes no imóvel de origem construtiva"(fls. 475/476 e-STJ).
+Dessa forma, o juízo acerca da produção da prova compete soberanamente às instâncias ordinárias, e o seu reexame, na estreita via do recurso especial, encontra óbice na Súmula nº 7/STJ.
+Confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DANOS MATERIAIS, MORAIS E LUCROS CESSANTES. VÍCIOS CONSTRUTIVOS. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. ACÓRDÃO ESTADUAL FUNDAMENTADO. VIOLAÇÃO AO ART. 371 DO CPC/2015 NÃO EVIDENCIADA. HIGIDEZ DO LAUDO PERICIAL. DANOS MATERIAIS E MORAIS COMPROVADOS. MODIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela parte recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. O Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu pela responsabilidade civil dos agravantes, em razão dos vícios construtivos presentes no imóvel. A pretensão de modificar tal entendimento, considerando as circunstâncias do caso concreto, acerca das provas periciais e da extensão dos danos materiais e morais, demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, consoante preconiza a Súmula 7/STJ.
+3. Agravo interno não provido"(AgInt no AREsp 1.603.293/RJ, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 22/3/2021, DJe 13/4/2021 - grifou-se).
+Verifica-se igualmente inviável a pretensão de afastamento da Súmula nº 7/STJ no tocante à configuração do dano moral.
+Isso porquerever as premissas fáticas adotadas pelo Tribunal de origem, que concluiu que houve ofensa a direito da personalidade, caracterizando o dano moral, demandaria o reexame de matéria fático-probatória, providência inviável emrecurso especial.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE NUNCIAÇÃO DE OBRA NOVA. VÍCIO NA CONSTRUÇÃO. RESPONSABILIDADE CIVIL. EQUÍVOCO NA VALORAÇÃO DA PROVA. NULIDADE AFASTADA. REVISÃO. SÚMULA 7/STJ. DANO MORAL CONFIGURADO. EXORBITÂNCIA DO VALOR DA CONDENAÇÃO. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A prova constitui elemento de formação da convicção do magistrado acerca dos fatos, tendo como destinatário o juiz, o qual possui a prerrogativa de livremente apreciá-la através de motivada decisão. Concluindo a instância originária inexistir nulidade na instrução processual, descabe ao Superior Tribunal de Justiça rever o posicionamento adotado, em virtude do impedimento imposto pela Súmula 7/STJ.
+2. O Tribunal de origem, considerando a situação apresentada no caso concreto, entendeu que o vício na construção do imóvel ocasionou abalo a direito personalíssimo do recorrido. A revisão desse fundamento em julgamento de recurso especial esbarra na Súmula 7/STJ.
+3. Segundo entendimento jurisprudencial do Superior Tribunal de Justiça, o valor fixado para a reparação do dano moral, por ser estabelecido com base na análise dos elementos fático-probatórios dos autos, não pode ser revisto por esta Corte Superior, ante a incidência da Súmula 7/STJ.
+4. De acordo com a jurisprudência deste Tribunal Superior, só é possível a revisão do valor arbitrado para os danos morais quando constatado seu manifesto caráter exorbitante ou irrisório. Na hipótese em exame, não há desproporcionalidade na quantia fixada pela instância originária.
+5. Agravo interno desprovido" (AgInt no AREsp 1.923.793/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 29/11/2021, DJe 2/12/2021-grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. SISTEMA FINANCEIRO DE HABITAÇÃO. ILEGITIMIDADE DO CESSIONÁRIO. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 283/STF. LEGITIMIDADE DA CEF. POLÍTICA PÚBLICA FEDERAL. AGENTE EXECUTOR. ATUAÇÃO. APLICABILIDADE DO CDC. DANO MORAL. REVERSÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto nas Súmulas nºs 283 e 284 do Supremo Tribunal Federal.
+3. Consoante o entendimento firmado por esta Corte, a CEF, nas hipóteses em que atua na condição de agente executor de políticas federais para a promoção de moradia, possui legitimidade para responder por danos na obra financiada.
+4. Não há como rever o entendimento das instâncias ordinárias acerca da aplicabilidade do CDC e da configuração do dano moral sem a incursão nos fatos e nas provas dos autos por esta Corte, providência vedada em recurso especial devido às disposições da Súmula nº 7/STJ.
+5. Agravo interno não provido"(AgInt no REsp 1.516.962/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 13/12/2021, DJe 16/12/2021 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER E PEDIDO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ATRASO NA ENTREGA DE IMÓVEL. SUBSTITUIÇÃO DO BEM. RESTITUIÇÃO DE VALORES PAGOS A TÍTULO DE LAUDÊMIO E DESPESAS REGISTRAIS. AUSÊNCIA DE PREQUESTIONAMENTO. VÍCIOS CONSTRUTIVOS. DANO MORAL CONFIGURADO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. A falta de prequestionamento da matéria alegada nas razões do recurso especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+3. "O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. (..)" (AgInt no REsp 1.834.730/RO, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/09/2020, DJe de 1º/10/2020).
+4. No caso, foi demonstrada a existência de dano moral indenizável, na medida em que o eg. Tribunal a quo descreveu as circunstâncias que extrapolaram o mero aborrecimento, tais como vícios de construção no imóvel recém-entregue. Incidência da Súmula 7 deste Pretório.
+5. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo e negar provimento ao recurso especial"(AgInt no AREsp 1.879.379/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 25/10/2021, DJe 25/11/2021).
+Por fim, consoante iterativa jurisprudência desta Corte, a necessidade de reexame da matéria fática impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+Confira-se:
+"Recurso Especial. Civil. Responsabilidade civil. Cirurgião e anestesiologista. Recurso com fundamento nas alíneas "a" e "c" do art. 105, III, da CF. Reexame fático-probatório. Súmula 07/STJ. Incidência. - A constatação de ter o médico cirurgião e o anestesista agido ou não com culpa no atendimento a paciente, nas modalidades negligência, imprudência ou imperícia, demanda necessariamente o reexame do conjunto fático-probatório da causa, o que é vedado pela Súmula 7 do STJ. - O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a", quanto pela "c" do permissivo constitucional. - Recurso especial não conhecido" (REsp 765.505/SC, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 7/3/2006, DJ 20/3/2006 - grifou-se).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 17% (dezessete por cento) sobre o valor atualizado da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
