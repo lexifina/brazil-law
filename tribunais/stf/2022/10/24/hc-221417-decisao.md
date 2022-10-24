@@ -1,0 +1,75 @@
+DECISÃO:
+
+Ementa: Penal e processual penal. Habeas corpus. Homicídio qualificado. Extensão de circunstância privilegiadora. Condenação transitada em julgado. Jurisprudência do Supremo Tribunal Federal.
+
+1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Olindo Menezes (Desembargador Convocado do TRF da 1ª Região), assim ementado:
+
+    RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. CIRCUNSTÂNCIA QUALIFICADORA DO MEIO CRUEL. EXTENSÃO DA CAUSA DE DIMINUIÇÃO DE PENA RECONHECIDA A UM DOS RÉUS AOS DEMAIS. ATENUANTE DO CRIME PRATICADO POR RELEVANTE VALOR SOCIAL. DECISÕES DAS INSTÂNCIAS ORDINÁRIAS FUNDAMENTADAS. REEXAME FÁTICO-PROBATÓRIO INVIÁVEL. SÚMULA 7 DO STJ. RAZOABILIDADE E PROPORCIONALIDADE DA DOSIMETRIA. BASE DE CÁLCULO DA PENA-BASE. ATENUANTE ESPECIAL DA PENA DO INDÍGENA E REGIME DE SEMILIBERDADE. NECESSIDADE DE ESTUDO ANTROPOLÓGICO. MATÉRIAS NÃO PREQUESTIONADAS NA ORIGEM. SUSPENSÃO DA EXECUÇÃO PROVISÓRIA DAS PENAS. DIVERGÊNCIA JURISPRUDENCIAL. RECURSOS PARCIALMENTE PROVIDOS.
+
+    1. A anulação do julgamento do Tribunal do Júri, com fundamento no art. 593, III, d, do CPP, apenas se admite quando a decisão dos jurados for absolutamente divorciada das provas dos autos, ou seja, se o recurso criminal da defesa tem por objeto apenas divergências de teses jurídicas na interpretação das provas, então não se admite o recurso.
+
+    2. A Corte de origem apontou que "o Conselho de Sentença se pronunciou no sentido de que a circunstância privilegiadora reconhecida a Gilnei Candinho não se estenderia a Fabrício, Odimar e Silmar, porque as circunstâncias que envolviam a participação do corréu Gilnei nos fatos eram distintas daquelas relacionadas aos demais réus"; e que "somente a contradição grave e facilmente aferível ao contexto fático delimitado nos autos (ainda que de forma oral no plenário) pode servir de fundamento para invalidar a decisão soberana do Conselho de Sentença, o que, como exposto, não ocorre na espécie".
+
+    3. O Tribunal estadual ainda concluiu que, "havendo nos autos elementos hábeis e capazes de justificar a opção dos jurados pelo reconhecimento da privilegiadora apenas para um dos corréus, não se mostra lícito ao Tribunal ad quem anular o julgamento do Conselho de Sentença, como requerem as defesas, por contrariedade à prova dos autos, sob pena de violar a soberana competência do Tribunal do Júri, esta garantida constitucionalmente".
+
+    4. Quanto à qualificadora do emprego de meio cruel, a Corte estadual ressaltou que "as múltiplas lesões impingidas à vítima Louritã estão devidamente comprovadas, não apenas pelo Auto de Necropsia (evento 4 do IPL), mas também pelas fotografias (de nº 67 a 82) que compõem o Laudo Pericial nº 28451/15 do IGP (evento 51 do IPL)"; e que "os quesitos, como as respostas e ainda o Laudo, as fotografias e os depoimentos das testemunhas da acusação e da defesa foram apreciados pelos jurados, inclusive, mediante quesitação própria, esta com expressa anuência da acusação e das defesas".
+
+    5. A tese dos recorrentes de afastamento da referida qualificadora não deve ser acolhida, pois demandaria reexame fático-probatório, o que encontra óbice no verbete n. 7 da Súmula desta Corte Superior.
+
+    6. Não se credencia à acolhida a tese de reconhecimento da atenuante do art. 65, III, "a", do CP (cometer o crime por relevante valor social ou moral), haja vista que, "conquanto o Conselho de Sentença tenha reconhecido a privilegiadora do relevante valor social ou moral inscrita no art. 121, §1°, do CP ao corréu Gilnei, não entendeu da mesma forma em relação aos demais corréus" [...] "em face desta distinção objetivo-legal, inclusive observada pelo Tribunal do Júri - o que deve ser respeitado sob pena de violar à soberania dos veredictos -, é realmente inviável a extensão aos demais réus da atenuante do art. 65, III, 'a' do Código Penal".
+
+    7. Acerca da proposição do apenado Silmar Candinho, segundo o qual a pena-base foi exasperada em fração desproporcional (um quarto), em razão de apenas uma vetorial negativa e sem a devida fundamentação idônea, incorrendo em violação aos arts. 59 e 68, do CP, o que se extrai da sentença condenatória é que, ao contrário do alegado, foi adotada a fração de 1/6 (um sexto), que é considerada adequada e proporcional pela jurisprudência desta Corte Superior.
+
+    8. Ademais, "a individualização da pena, como atividade discricionária do julgador, está sujeita à revisão apenas nas hipóteses de flagrante ilegalidade ou teratologia, quando não observados os parâmetros legais estabelecidos ou o princípio da proporcionalidade" (RHC 135.298/PE, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/04/2021, DJe 26/04/2021).
+
+    9. Quanto à necessidade de elaboração de estudo antropológico; à aplicação da atenuante especial da pena ao indígena; e à possibilidade de estabelecimento de regime especial de semiliberdade, trata-se de matérias que não foram prequestionadas no Tribunal de origem, pelo que não devem ser objeto de conhecimento no recurso especial, conforme os verbetes sumulares n. 211/STJ e 282/STF.
+
+    10. O corréu impronunciado, por não ter o dever de falar a verdade e por não prestar compromisso, não pode servir como testemunha, o que afasta o constrangimento ilegal de que estaria sendo vítima a parte recorrente (AgRg no AREsp 980.632/GO, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 08/02/2018, DJe 19/02/2018).
+
+    11. Dispõe o art. 492, I, "e", do CPP que, no caso de condenação, o juiz Presidente do Tribunal do Júri "mandará o acusado recolher-se ou recomendá-lo-á à prisão em que se encontra, se presentes os requisitos da prisão preventiva, ou, no caso de condenação a uma pena igual ou superior a 15 (quinze) anos de reclusão, determinará a execução provisória das penas, com expedição do mandado de prisão, se for o caso, sem prejuízo do conhecimento de recursos que vierem a ser interpostos".
+
+    12. Entretanto, considerando que o próprio Juiz Presidente do Tribunal do Júri entendeu que não haviam motivos nem para decretar a prisão preventiva dos recorrentes, e nem para antecipar a execução das penas, é razoável, considerando também a controvérsia judicial da matéria, manter os réus em liberdade até o transito em julgado.
+
+    13. Ademais, para alguns dos réus, pelo que consta dos autos, nem estaria presente o requisito legal objetivo para a antecipação da pena, haja vista que foi imposta a pena de 6 anos de reclusão em regime semiaberto (Gilnei Candinho), e de 12 de reclusão em regime fechado (Fabrício Fatanh Braga Júnior).
+
+    14. Recursos especiais providos em parte, para determinar que os apenados permaneçam em liberdade até o trânsito da condenação em julgado, confirmando medidas cautelares deferidas nos processos de Tutela Provisória n. 2998/RS e n. 3026/RS.
+
+2. Extrai-se dos autos que os pacientes foram condenados pelo crime de homicídio qualificado, tipificado no art. 121, § 2º, III, do CP, sendo imposta a pena de 6 anos de reclusão em regime semiaberto ao réu Gilnei Candinho; 12 de reclusão em regime fechado ao réu Fabrício Fatanh Braga Júnior; e 15 anos de reclusão ao réu Odimar da Silva, em regime fechado.
+
+3. A parte impetrante requer a “nulidade da decisão do Conselho de Sentença, a qual, ao julgar quatro pessoas por mesma acusação, em mesmo contexto fático, reconheceu a privilegiadora do relevante valor social ou moral apenas para uma delas, sem qualquer tipo de lógica”. Sustenta que, “no momento em que é reconhecido que o motivo do fato atrai a privilegiadora para um réu, não se pode admitir que o mesmo motivo não atraia a privilegiadora aos demais, ainda mais em contexto idêntico de acusação, sob pena de julgamento manifestamente contrário a prova dos autos”.
+
+4. Decido.
+
+5. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que o “habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado” (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha: HC 128.840-AgR, de minha Relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Relª. Minª. Cármen Lúcia.
+
+6. Não é o caso de concessão da ordem de ofício.
+
+7. Tal como assentou o STJ, a “Corte de origem apontou que ‘o Conselho de Sentença se pronunciou no sentido de que a circunstância privilegiadora reconhecida a Gilnei Candinho não se estenderia a Fabrício, Odimar e Silmar, porque as circunstâncias que envolviam a participação do corréu Gilnei nos fatos eram distintas daquelas relacionadas aos demais réus’”. Nessas condições, eventual acolhimento da tese defensiva demandaria o revolvimento do conjunto fático-probatório, inviável em habeas corpus. No ponto, transcrevo as seguintes passagens do acórdão impugnado:
+
+    Em relação ao recurso de Silmar Candinho e também de Gilnei Candinho, Odimar da Silva e Fabricio Fatanh Braga Junior, no ponto em comum a ambas as impugnações, de afronta ao art. 121, § 2º, III, do Código Penal (para que seja afastada a qualificadora do emprego de meio cruel); aos arts. 29 e 121, § 1º, do Código Penal (para reconhecer em favor do recorrente a circunstância privilegiadora aplicada ao corréu Gilnei Candinho) ; e de violação ao art. 65, III, "a", do CP (por supostamente ter o recorrente cometido o crime por relevante valor social ou moral), assim constou no voto condutor do acórdão recorrido (fls. 2.904-2.910, e 2.921-2.923):
+
+    [...] 2.1.1 - Decisão dos jurados de reconhecimento de circunstância privilegiadora a apenas um dos corréus. A defesa de Fabrício, Gilnei e Odimar, bem como a defesa de Silmar Candinho, dizem que a decisão dos jurados foi manifestamente contrária à prova dos autos por reconhecer a circunstância privilegiadora do relevante valor moral ou social somente a Gilnei Candinho e não aos demais corréus, sendo que todos os índios eram da mesma aldeia, atuavam no mesmo grupo político, foram motivados pelas mesmas circunstâncias de retomada do cacidado e por se encontrarem na mesma situação fática que culminou a morte da vítima Louritã Manoel Antônio. Com efeito. Segundo se verifica do decidido pelo Tribunal do Júri, após os debates entre a acusação e as defesas dos réus, bem como após o cotejo das provas produzidas (documental e testemunhal e do que disseram os réus), o Conselho de Sentença se pronunciou no sentido de que a circunstância privilegiadora reconhecida a Gilnei Candinho não se estenderia a Fabrício, Odimar e Silmar, porque as circunstâncias que envolviam a participação do corréu Gilnei nos fatos eram distintas daquelas relacionadas aos demais réus. A propósito, veja-se o que constou da ata da sessão de julgamento (evento 833 - TERMOAUD1 - página virtual 10 - do processo eletrônico originário) quanto à aplicação da privilegiadora do art. 121, §1º, do CP a Gilnei Candinho. [...]
+
+    O mesmo quesito (de nº 5 para Gilnei), conforme se vê da Ata da sessão de julgamento - em série e ordem - foi perguntado em relação aos corréus Fabrício, Odimar e Silmar, tendo o Conselho de Sentença, expressa e soberanamente, decidido que a privilegiadora - diga-se, de caráter eminentemente subjetiva -, não se aplicava a esses réus, ora apelantes. Portanto, como bem expendido pelo Ministério Público Federal nas contrarrazões ao recurso de Silmar Candinho não se tratou, como quer fazer crer o apelante, de um infortúnio que o prejudicou com exclusividade à revelia das provas carreadas aos autos e discutidas perante o Tribunal do Júri. Igualmente comungo do entendimento ministerial de que "somente a contradição grave e facilmente aferível ao contexto fático delimitado nos autos (ainda que de forma oral no plenário) pode servir de fundamento para invalidar a decisão soberana do Conselho de Sentença, o que, como exposto, não ocorre na espécie". A propósito, todos os quesitos - que seriam e foram respondidos pelos jurados - em clara observância do contraditório e da ampla defesa, foram submetidos às partes (acusação e defesa) pelo Juiz Presidente do Tribunal do Júri, não tendo havido qualquer impugnação acerca deles. Ademais, é sabido que o conceito de decisão manifestamente contrária à prova dos autos (art. 593, III, "d", do Código de Processo Penal) é limitado pelo princípio da soberania dos veredictos, cabendo ao Tribunal, tão somente, verificar se a decisão dos jurados encontra amparo no conjunto probatório dos autos. No caso concreto, havendo nos autos elementos hábeis e capazes de justificar a opção dos jurados pelo reconhecimento da privilegiadora apenas para um dos corréus, não se mostra lícito ao Tribunal ad quem anular o julgamento do Conselho de Sentença, como requerem as defesas, por contrariedade à prova dos autos, sob pena de violar a soberana competência do Tribunal do Júri, esta garantida constitucionalmente. Desacolho o recurso no ponto.
+
+    [...]
+
+    Como se vê, o Tribunal de origem apontou elementos probatórios suficientes para a manutenção da sentença do Tribunal do Júri, soberano na análise das provas, em relação às razões de ambos os recorrentes, que tratam da qualificadora do emprego de meio cruel, do afastamento da causa de diminuição da pena aplicada ao corréu Gilnei Candinho, e do não reconhecimento da atenuante prevista no art. 65, III, "a", do CP (cometer o crime por relevante valor social ou moral).
+
+    A Corte de origem apontou que "o Conselho de Sentença se pronunciou no sentido de que a circunstância privilegiadora reconhecida a Gilnei Candinho não se estenderia a Fabrício, Odimar e Silmar, porque as circunstâncias que envolviam a participação do corréu Gilnei nos fatos eram distintas daquelas relacionadas aos demais réus"; e que "somente a contradição grave e facilmente aferível ao contexto fático delimitado nos autos (ainda que de forma oral no plenário) pode servir de fundamento para invalidar a decisão soberana do Conselho de Sentença, o que, como exposto, não ocorre na espécie".
+
+    O Tribunal estadual ainda concluiu que, "havendo nos autos elementos hábeis e capazes de justificar a opção dos jurados pelo reconhecimento da privilegiadora apenas para um dos corréus, não se mostra lícito ao Tribunal ad quem anular o julgamento do Conselho de Sentença, como requerem as defesas, por contrariedade à prova dos autos, sob pena de violar a soberana competência do Tribunal do Júri, esta garantida constitucionalmente".
+
+    A decisão do Tribunal estadual está em conformidade com a jurisprudência desta Corte Superior, porque a anulação do julgamento do Tribunal do Júri, com fundamento no art. 593, III, d, do CPP, apenas se admite quando a decisão dos jurados for absolutamente divorciada das provas dos autos, é dizer, se o apelo criminal da defesa tem por objeto apenas divergências de teses jurídicas na interpretação das provas, então não se admite o recurso:
+
+    [...]
+
+8. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+
+     Publique-se.
+
+                Brasília, 24 de outubro de 2022.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
