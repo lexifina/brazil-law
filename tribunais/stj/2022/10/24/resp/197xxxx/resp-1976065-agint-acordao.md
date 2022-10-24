@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno (fls. 360/366) interposto contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO ESPECIAL NÃO PROVIDO.
+O agravante reitera, em suma, que a decisão embargada padece do vício da omissão, uma vez que não observou precedente de viés vinculante julgado sob a sistemática dos recursos representativos da controvérsia.
+Acrescenta que a referida omissão também ocorreu na origem, oportunidade em que foram opostos embargos de declaração, com posterior interposição do apelo excepcional para corrigir a ausência de enfrentamento da questão.
+Reitera, assim, a necessidade de reconhecimento de violação ao art. 1.022 do CPC/2015.
+Impugnação apresentada às fls. 370/372.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. 1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. Agravo interno não provido.
+VOTO
+O recurso não merece prosperar.
+Cinge-se a controvérsia, na origem, de agravo de instrumento interposto em face de decisão que nos autos de cumprimento de sentença utilizou os parâmetros de cálculodeterminados pelo julgado anterior sob pena de ofensa à coisa julgada.
+O Tribunal de origem ao analisar a questão controvertida, negou provimento à pretensão recursal, ponderando que o julgamento do RE 870.947/SEocorreu em momento posterior ao trânsito em julgado do título judicial, oportunidade em que foi determinada a aplicação da Lei 11.960/2009 para os critérios de correção e juros de mora.
+Senão vejamos:
+Observa-se que a sentença transitada em julgado, prolatada na ação originária 2008.83.00.019194-1, da Seção Judiciária de Pernambuco, ensejadora do cumprimento de sentença atacado, estabeleceu que os atrasados deverão ser pagos acrescidos de correção monetária e juros de mora de 0,5% ao mês (art. 1º-F da Lei n. 9.494/97), com incidência a partir da citação, tudo conforme cálculos da Contadoria Judicial, respeitando-se a prescrição quinquenal (parcelas vencidas antes do quinquênio que precede a propositura da demanda)." (id. 4058300.14669994). O Plenário do Supremo Tribunal Federal, nos autos do RE 870.947/SE (repercussão geral reconhecida),em 20/11/2017, assentou que o IPCA-E deve ser utilizado como índice de correção monetária, consignando que o direito fundamental de propriedade (art. 5º, XXII, CF/1988) repugna o disposto no art.1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009, porquanto a atualização monetária das condenações impostas à Fazenda Pública segundo a remuneração oficial da caderneta de poupança não se qualifica como medida adequada a capturar a variação de preços da economia, sendo inidônea a promover os fins a que se destina. Em decisão plenária, datada de 03/10/2019, o STF rejeitou todos os embargos declaratórios opostos ao julgamento do RE 870.947, sem modular os efeitos da decisão anteriormente proferida. Na hipótese, em que pese o julgado proferido no RE 870.947/SE, não assiste razão à parte agravante, uma vez que o título judicial transitou em julgado em 2015 (antes, portanto, da referida decisão do Supremo Tribunal Federal) e determinou a aplicação da Lei 11.960/2009 como critério de correção e juros de mora, razão pela qual não há de ser aplicado o IPCA-E em respeito à coisa julgada, que somente poderá ser desconstituída por meio de ação rescisória.
+Nesse sentido, em que pese os argumentos do agravo interno, depreende-se do acórdão de origem que o Tribunal a quo, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ILEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA DO CONSÓRCIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A violação ao art. 1.022 do CPC/2015 não ficou caracterizada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente. 2. Tendo o Tribunal local concluído pela legitimidade do consórcio e sua responsabilização solidária no caso, não há como rever esse entendimento sem o necessário revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que não se admite em âmbito de recurso especial, ante o óbice das Súmulas 5 e 7/STJ. 3. Agravo interno não provido. (AgInt no REsp 1827460/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021 - grifo nosso)
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
