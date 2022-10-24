@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SPE RESIDENCIAL PARQUES DOS IPÊS II EMPREENDIMENTOS IMOBILIÁRIOS LTDA.àdecisão de fls. 499-503, e-STJ, que negou provimento ao seu recurso especial, sob oseguintefundamento:
+"Em que pesem as conclusões adotadas na decisão ora agravada, a jurisprudência do Superior Tribunal de Justiça tem evoluído no sentido de que o registro, no cartório de registro de imóveis, do contrato de compra e venda de imóvel que contenha pacto adjeto de alienação fiduciária tem natureza constitutiva, sem o qual a propriedade fiduciária e a garantia dela decorrente não se perfazem" (fl. 501, e-STJ - com grifo no original).
+Nas presentes razões (fls. 505-508, e-STJ),a embargante aponta contradição na decisão embargada, trazendo duas decisões monocráticas de Ministro da Quarta Turma do STJ, publicados em julho de 2022, ao argumento de que
+"(..)ao contrário do que restou firmado na decisão embargada o entendimento que prevalece nesta Corte é no sentido de que não é necessário o registro do contrato garantido por alienação fiduciária no Cartório de Títulos e Documentos para que tenha validade e eficácia, conforme se evidencia nestes recentíssimos julgados" (fl. 505, e-STJ).
+Ao final, requer o acolhimento do recurso.
+Devidamente intimada, a parte contráriaofereceu resposta (fls. 511-514, e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Nos termos do artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para sanar omissão, contradição, obscuridade ou erro material do julgado, o que não se verifica no caso concreto.
+Isso porque não há contradição ser corrigida, cabendo ressaltar que
+""A contradição que autoriza a interposição de embargos declaratórios é a que se aninha na estrutura da própria decisão embargada, entre a fundamentação e o dispositivo". (STF, AR 1535-ED/SP). Hipótese em que inexiste contradição "entre  as  proposições do próprio julgado" (STJ, EDcl no REsp 1602681/ES) ou entre "a fundamentação e o dispositivo da própria decisão embargada" (STJ, EDcl no AgInt no AREsp 1114315/SP)" (EDcl nos EDcl no AgRg na APn 897/DF, relatora Ministra Maria Isabel Gallotti, Corte Especial,DJe de 1/6/2022).
+Assim, não há nenhuma contradição a ser sanada na decisão que simplesmente traz o entendimento firmado no STJ quanto à matéria debatida no recurso especial.
+A propósito:
+"CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO PARTICULAR DE COMPRA E VENDA DE IMÓVEL C/C PEDIDO DE RESTITUIÇÃO DAS QUANTIAS PAGAS. CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. AUSÊNCIA DE REGISTRO NO COMPETENTE REGISTRO DE IMÓVEIS. GARANTIA NÃO CONSTITUÍDA. ART. 23 DA LEI Nº 9.514/1997. PROCEDIMENTO PREVISTO NO ARTS. 26 E 27 DA LEI Nº 9.514/1997. NÃO APLICAÇÃO. RESCISÃO DO CONTRATO PELO ADQUIRENTE COM RESTITUIÇÃO DE PARTE DO VALOR PAGO. POSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação ajuizada em 21/10/2020, da qual foi extraído o presente recurso especial, interposto em 01/09/2021 e concluso ao gabinete em 28/03/2022.
+2. O propósito recursal é decidir se a previsão de cláusula de alienação fiduciária em garantia, em instrumento particular de compra e venda de imóvel, impede a resolução do ajuste por iniciativa do adquirente, independentemente da ausência de registro do contrato no competente Registro de Imóveis.
+3. No ordenamento jurídico brasileiro, coexiste um duplo regime jurídico da propriedade fiduciária: a) o regime jurídico geral do Código Civil, que disciplina a propriedade fiduciária sobre coisas móveis infungíveis, sendo o credor fiduciário qualquer pessoa natural ou jurídica; e b) o regime jurídico especial, formado por um conjunto de normas extravagantes, dentre as quais a Lei nº 9.514/1997, que trata da propriedade fiduciária sobre bens imóveis.
+4. No regime especial da Lei nº 9.514/97, o registro do contrato no competente Registro de Imóveis tem natureza constitutiva, sem o qual a propriedade fiduciária de coisa imóvel e a garantia dela decorrente não se perfazem.
+5. Na ausência do registro que prevê o art. 23 da Lei nº 9.514/1997, não há constituição da propriedade fiduciária de coisa imóvel, tampouco haverá consolidação da propriedade em nome do credor na hipótese de inadimplência, razão pela qual não incidem os arts. 26 e 27 da Lei nº 9.514/1997, podendo o adquirente pleitear a rescisão do ajuste, com a restituição dos valores pagos, sem precisar se submeter ao procedimento previsto nestes dispositivos.
+6. Hipótese em que, embora o contrato tenha sido celebrado em 20/11/2017, na data do ajuizamento da ação pelo adquirente do imóvel (21/10/2020), pleiteando a rescisão do contrato, não havia o registro deste no competente Registro de Imóveis, razão pela qual a garantia fiduciária não tinha se constituído e o adquirente - recorrido - tinha o direito de rescindir o ajuste, com a restituição de parte do valor pago, sem a necessidade de se submeter ao procedimento previsto no art. 27 da Lei nº 9.514/1997.
+7. Recurso especial conhecido e não provido"(REsp n. 1.987.389/SP, relatora Ministra Nancy Andrighi, Terceira Turma,DJe de 1/9/2022- grifou-se).
+Nesse sentido, como se vê, a decisão embargada tratou de forma explícita a matéria objeto do presente recurso integrativo, embora tenha decidido em confronto com os interesses da ora embargante, o que, por si só, não significa que houve violação aos arts. 489 ou 1.022, do CPC/2015, mas simples julgamento desfavorável à parte.
+Ante o exposto, rejeito os embargos de declaração.
+Advirta-seque a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida (§ 4º do art. 1.021 e § 2º do art. 1.026, ambos do CPC/15).
+Publique-se.
+Intimem-se.
