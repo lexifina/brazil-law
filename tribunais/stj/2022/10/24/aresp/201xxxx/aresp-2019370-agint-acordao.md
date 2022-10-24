@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 18/10/2022 a 24/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face da decisão de fls. 198/201, e-STJ, por meio da qual neguei provimento ao agravo em recurso especial.
+A parte agravante, em suas razões, afirmou que o Tribunal de origem foi omisso, por não ter analisado todos os argumentos suscitados.
+Sustentou, em seguida, não se aplicar o óbice da Súmula 735/STF. Alegou que não pode ser compelida a fornecer medicamentos importados e sem registro na ANVISA e que os requisitos para deferimento da tutela de urgência não foram preenchidos no caso dos autos.
+Argumentou que o recurso especial não objetiva o reexame de provas e, por isso, não esbarra na Súmula 7/STJ.
+A parte agravada, regularmente intimada, apresentou contrarrazões de fls. 220/239, e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. RECURSO CONTRA ACÓRDÃO QUE DEFERIU A ANTECIPAÇÃO DOS EFEITOS DA TUTELA. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 735/STF E 7/STJ. AGRAVO NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação ao art. 1.022, II, do Código de Processo Civil de 2015.
+2. Esta Corte, em sintonia com o disposto na Súmula 735 do STF (Não cabe recurso extraordinário contra acórdão que defere medida liminar), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Observo que os argumentos desenvolvidos pela parte agravante não infirmam a conclusão da decisão impugnada, razão pela qual o presente recurso não merece prosperar.
+Com efeito, verifico que o Tribunal de origem motivou adequadamente a sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à espécie. Não há que se falar, portanto, em omissão apenas pelo fato de o acórdão recorrido ter sido proferido em sentido contrário à pretensão da parte.
+Nesse sentido:
+PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA. OMISSÃO NO ACÓRDÃO DE ORIGEM. NÃO OCORRÊNCIA. FALHA NA PRESTAÇÃO DO SERVIÇO. VERIFICAÇÃO. INVIABILIDADE. REEXAME DE MATÉRIA FÁTICA E CONTRATUAL DOS AUTOS. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. NÃO PROVIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa ao artigo 1.022 do CPC/15.
+2. Inviável a análise do recurso especial quando dependente de reexame de cláusulas contratuais e matéria de prova (Súmulas 5 e 7 do STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1709802/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/3/2019, DJe 15/3/2019)
+Ademais, o Superior Tribunal de Justiça, em sintonia com o disposto na Súmula 735 do STF ("não cabe recurso extraordinário contra acórdão que defere medida liminar"), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito.
+Observa-se, ainda, que o Tribunal de origem, ao analisar as circunstâncias contidas nos autos e o conjunto fático-probatório nele produzido, entendeu que estavam comprovados, de forma inequívoca, os requisitos para o deferimento da antecipação dos efeitos da tutela, nos moldes do artigo 300 do Código de Processo Civil.
+A propósito (fls. 51/53, e-STJ):
+Controverte-se nos autos acerca da possibilidade de se obrigar a operadora de saúde a fornecer medicamento importado e não registrado na Anvisa, o qual é necessário para o tratamento de Epilepsia, com crises de difícil controle.
+Nos termos do art. 300, do CPC, para a concessão da tutela provisória de urgência é necessário que estejam presentes os elementos que evidenciem a probabilidade do direito, bem como o perigo de dano ou o risco ao resultado útil do processo e a reversibilidade dos efeitos da decisão.
+In casu, em juízo de cognição sumária, vislumbro a probabilidade do direito para a concessão da medida. Senão vejamos:
+Em relação ao medicamento objeto da demanda, a ANVISA normatizou a questão por meio da RESOLUÇÃO DE DIRETORIA COLEGIADA - RDC Nº 17, de 6 de maio de 2015, que dispõe:
+(..) No caso específico da autora, ora recorrida, verifica-se que houve a autorização aludida no dispositivo supratranscrito (fl. 35, dos autos originários).
+Desse modo, como tal importação é lícita, a tese firmada de que "As operadoras de plano de saúde não estão obrigadas a fornecer medicamento não registrado pela ANVISA", oriunda do julgamento do REsp nº 1712163/SP e do REsp nº 1726563/SP, pelo rito dos repetitivos, não constitui óbice à pretensão ora deduzida.
+Isso porque se extrai da ratio decidendi do aludido precedente que a Corte Superior buscou impedir a afronta aos arts. 66 da Lei nº 6.360/76 e 10, V, da Lei nº 6.437/76, que tratam de infração sanitária, caso distinto do trazido a lume, que, repita-se, trata de conduta permitida pela ANVISA.
+(..) Ademais, o art. 35-F, da Lei n. 9.656/98 é claro ao dispor que a "assistência a que alude o art. 1 o desta Lei compreende todas as ações necessárias à prevenção da doença e à recuperação, manutenção e reabilitação da saúde, observados os termos desta Lei e do contrato firmado entre as partes." Outrossim, o art. 12 da Lei 9.656/98, em seu inciso I, alínea "b", dispõe que, quando o plano incluir tratamento ambulatorial (o que é o caso dos autos), não poderá haver limitação de tratamentos e procedimentos solicitados pelo médico assistente.
+Além disso, o perigo de dano irreparável é evidente, uma vez que se trata de situação onde há vulnerabilidade agravada, sendo certo que a demora no provimento judicial implicaria violação ao valor da dignidade humana, com assento no artigo 1º, III, da Constituição da República de 1988.
+Por tais fundamentos, voto no sentido de negar provimento ao recurso.
+A revisão desse entendimento demandaria o reexame da matéria fática, providência vedada em recurso especial, nos termos da Súmula 7/STJ.
+Nesse sentido, cito os seguintes julgados:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. POLICIAL MILITAR. LICENÇA ESPECIAL. CONVERSÃO EM PECÚNIA. PROCEDÊNCIA DO PEDIDO. PRESCRIÇÃO. COMPENSAÇÃO COM OS VALORES RECEBIDOS. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ. FALTA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 211 DO STJ E 282 E 356, AMBAS DO STF.
+I - Na origem, trata-se de agravo de instrumento interposto por Prolagos S.A. - Concessionária de Serviço Público de Água e Esgoto contra a decisão que, nos autos de sustação de processo em que contende com Casamax Comercial Ltda., indeferiu a tutela cautelar requerida para suspensão de protestos de títulos. No Tribunal a quo, a decisão foi mantida. Esta Corte não conheceu do recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não é cabível recurso especial quanto à alegação de ofensa a dispositivos de lei relacionados com a matéria de mérito da causa que, em liminar ou antecipação dos efeitos da tutela, é tratada, pelo Tribunal de origem, apenas sob juízo precário.
+III - Verifica-se que o recurso foi interposto contra acórdão que decidiu sobre tutela provisória, tratando-se, assim, de decisão de natureza precária. Logo, por não ter a causa sido decidida em única ou última instância, nos termos do art. 105, III, a, da CF/1988, incide, por analogia, o enunciado de Súmula n. 735 do STF. Nesse sentido: (AgInt no AREsp 1.888.723/SP, relator Ministro Manoel Erhardt (Desembargador convocado do TRF5), Primeira Turma, julgado em 11/10/2021, DJe 14/10/2021, AgInt no AREsp 1.774.099/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/9/2021, DJe 22/9/2021 e AgInt no REsp 1.929.488/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 23/8/2021, DJe 31/8/2021.) IV - Ainda que se pudesse ultrapassar tal óbice, eventual análise do recurso para fins de modificar a decisão a quo no tocante à verificação da presença dos requisitos para a concessão da tutela antecipada, esbarraria no óbice da Súmula n. 7/STJ.
+V - Agravo interno improvido.
+(AgInt no AREsp n. 1.930.850/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/4/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DEFERIMENTO DE MEDIDA CAUTELAR DE ARRESTO DE BEM IMÓVEL. INDÍCIO DE GRUPO ECONÔMICO. REEXAME DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. SÚMULA 735 DO STF. ART. 50 DO CC. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REQUISITOS NÃO ANALISADOS. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. A jurisprudência desta Corte, à luz do disposto no enunciado da Súmula 735 do STF, entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, presente o mesmo raciocínio na postergação da análise da medida quando entendida conveniente a dilação probatória prévia. Apenas violação direta ao dispositivo legal que disciplina o deferimento da medida autorizaria o cabimento do recurso especial, no qual não é possível decidir a respeito da interpretação dos preceitos legais que dizem respeito ao mérito da causa. Precedente.
+2. A verificação do preenchimento ou não dos requisitos necessários para o deferimento da medida acautelatória, no caso em apreço, demandaria o reexame do conjunto fático-probatório, inviável em sede de recurso especial, a teor do enunciado 7 da Súmula do STJ.
+3. Não se conhece do recurso especial quando a deficiência de sua fundamentação impedir a exata compreensão da controvérsia. Súmula 284 do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.826.601/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 18/4/2022.)
+Em face do exposto, nego provimento ao agravo interno.
+É o voto.
