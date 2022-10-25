@@ -1,0 +1,46 @@
+DECISÃO
+ODETE MARQUES DOS SANTOS (ODETE) ajuizou ação declaratória de inexistência de débito cumulada com reparação por danos morais contraHIPERCARD - BANCO MULTIPLO S/A (BANCO),por transações ilícitas realizadas com uso do cartão de crédito da autora, por fraudador, fruto do denominado golpe do motoboy.
+Em Primeira Instância, o pedido foi julgado parcialmente procedente, paradeclarar inexigíveis os lançamentos realizados no cartão de crédito de titularidade da autora na data de 18/06/2019, relativos às transações realizadas nos estabelecimentos comerciais Mecânica do Gustavo, sendo uma no valor de R$ 600,00 e outra no valor de duas parcelas de R$ 600,00, e Jutrancas no valor de duas parcelas de R$ 900,00.
+O Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao recurso de apelação interposto por BANCO, apenas para reduziros honorários advocatícios de sucumbência para 10% do valor da causa (art. 85, §2º, do CPC), em acórdão proferido pelo Desembargador FRANCISCO GIAQUINTO, assim ementado:
+Ação declaratória de inexigibilidade de débito c. c. indenizatória por danos materiais e morais. Transações com cartão de crédito da autora - Golpe do motoboy - Julgamento de parcial procedência - Recurso exclusivo do Banco réu - Aplicação da legislação consumerista (súmula 297 do STJ) - Responsabilidade objetiva do réu - Súmula 479 do STJ - Aplicação da teoria do risco do empreendimento - Matéria pacificada no julgamento do REsp 1.199.782/PR, com base no art. 543-C do CPC/73 - Incontroversa a utilização do cartão de crédito da autora para compras por fraudador - Requerido não se desincumbiu do ônus de comprovar a adoção de todas as cautelas para coibir a consumação de gastos com o cartão da autora, fora do seu perfil de consumo (art. 6º,VIII, do CDC) - Fortuito interno - Inexigibilidade do débito bem reconhecida - Rec. negado. Honorários advocatícios - Redução - Possibilidade - Honorários advocatícios reduzidos, em consonância como art. 85, § 2º, do CPC - Rec. provido. Recurso provido em parte(e-STJ, fls. 235/242).
+Os embargos de declaração opostos pelo BANCOforam rejeitados (e-STJ, fls. 268/277).
+Nas razões do presente recurso especial, interposto com base no atigo 105, III, alínea "a" da CF, ODETE alegaa violação doartigo 85, § 2º do CPC, ao sustentar quea sentença não foi modificada no que tange ao direito da recorrente, de modo que o acórdão não poderia ter reduzido os horários de sucumbência.
+Foramapresentadas contrarrazões (e-STJ, fls. 296/300).
+O TJSP admitiu o apelo nobre (e-STJ, fls. 304/305).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+De plano, vale pontuar que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Verifica-se que ar. sentença reconheceu a hipótese de sucumbência recíproca, no caso em comento,condenando ODETE e BANCOa arcarem com opagamento de honorários da parte adversa, nos seguintes termos:
+Em razão da sucumbência recíproca, condeno cada parte ao pagamento de metade das despesas com as custas processuais e ao pagamento de honorários advocatícios ao patrono da parte adversa que fixo, com fundamento no art. 85, § 2º, do CPC, em 15% sobre o valor corrigido da causa (e-STJ, fls. 192).
+Nas razões deapelação, o BANCO postulou a redução dos honorários advocatícios devidos à ODETE, provendo-se o recurso nesse aspecto. Confiram-se trecho do acórdão:
+A r. sentença comporta pequeno reparo no que se refere a fixação dos honorários advocatícios de sucumbência.
+A verba honorária de sucumbência deve ser fixada de modo a bem remunerar o zelo e o trabalho do advogado na defesa de seu cliente e igualmente condizente com a complexidade da causa e o tempo da duração da demanda (art. 85, §2º,do CPC).
+Ademais diante do caráter excepcional, possível a fixação dos honorários advocatícios por equidade (art. 85, §8º, do CPC).
+No caso, a ação foi julgada em parte procedente para declarar a inexigibilidade dos débitos, rejeitando-se o pedido de indenização por danos morais, no valor de R$ 40.000,00.
+Os honorários advocatícios foram fixados na r. sentença em 15% do valor dado à causa pela autora (R$ 43.665,38, fl. 16).
+A ação se desenvolveu sem grandes incidentes ou complexidade, por isso entendo que os honorários advocatícios arbitrados em 10% do valor da causa se encaixa nas diretrizes do art. 85, § 2º, do CPC.
+Assim, dada a peculiaridade do caso concreto, razoável a redução dos honorários advocatícios de sucumbência para 10% do valor da causa (art. 85, §2º, do CPC), todavia, com suspensão de sua exigibilidade porque autora beneficiária da justiça gratuita.
+Assim, o Tribunal bandeirante concluiu que opercentual de 15% sobre o valor da causa estavaem desacordo com a complexidade do litígio, razão pela qual reduziuos honorários para o percentual de 10%.
+Não se desconhece que, de acordo com a orientação deste Superior Tribunal de Justiça, somente é possível a revisão das verbas honorárias, em sede de recurso especial, nas hipótesesde fixação em valores irrisórios ou excessivos, o que não se verificou na espécie, uma vez que referida verbafoiestipuladatendo como base de cálculo o valor atribuído à causa (R$ 43.665,38).
+Com efeito, o quantitativo da verba honorária decorrede uma análise específica dos fatos ocorridos durante a marcha processual, na qual o julgador avalia o trabalho desenvolvido pelo patrono e a complexidade da causa, a fim de fixar o percentual que considera correto. Assim,não cabe a essa Corterevisar a quantia estabelecida, exceto quando constatada sua manifesta insignificância ou excessividade.
+No caso sub judice, inexiste circunstância extraordinária, de modo que afastar a conclusão do Tribunal estadualdemandaria revolvimento do contexto fático-probatório constante dos autos, providência vedada pela Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DEREVISÃODE BENEFÍCIO PREVIDENCIÁRIO. 1. JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SEGUIMENTO NEGADO COM FUNDAMENTO NO ART. 1.030, I, B, DO CPC/2015. INTERPOSIÇÃO DE AGRAVO NOS TERMOS DO ART. 1.042 DO CPC/2015, AO INVÉS DE AGRAVO INTERNO. CONFIGURAÇÃO DE ERRO GROSSEIRO. 2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA . 3. OFENSA A RESOLUÇÃO. NORMA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL. 4. HORAS EXTRAS. PRETENSÃO DE INCLUSÃO DE VERBAS RECONHECIDAS PELA JUSTIÇA TRABALHISTA APÓS A CONCESSÃO DO BENEFÍCIO. EQUILÍBRIO ATUARIAL E FONTE DE CUSTEIO. OBSERVÂNCIA. 5.HONORÁRIOSSUCUMBENCIAIS.REVISÃO.REEXAME DE FATOS E PROVAS.SÚMULA7/STJ. 6. MAJORAÇÃO DOSHONORÁRIOSRECURSAIS. AGRAVO INTERNO. NÃO CABIMENTO. 7.AGRAVO INTERNO DESPROVIDO.
+(..)
+5. Modificar o entendimento do Tribunal local acerca do percentual fixado comohonorários advocatíciose da distribuição da sucumbênciaexigiria reexame de matéria fático-probatória, também inviável devido ao óbice daSúmula7/STJ.
+6. Consoante orientação firmada pela Segunda Seção deste Superior Tribunal, "não é cabível a majoração doshonoráriosrecursais no julgamento de agravo interno ou de embargos de declaração" (EDcl no AgInt no AREsp 1.677.575/PR, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 1º/3/2021, DJe 4/3/2021).
+7. Agravo interno desprovido.
+(AgInt no REsp 2004199 / DF, Rel. MinistroMARCO AURÉLIO BELLIZZE, Terceira Turma, j. 14/09/2022 - sem destaques na origem).
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO REVISIONAL -DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DA DEMANDADA.
+1. A alegação genérica de negativa de prestação jurisdicional, sem ademonstração precisa da ocorrência e relevância dos supostos vícios, atrai aincidência da Súmula 284/STF.
+2. É necessária a recomposição prévia da reserva matemática para que hajao recálculo do benefício mensal a ser pago a parte autora.Precedentes.
+3. Rever as conclusões da Corte de origem, acerca do montante arbitrado a título de honorários sucumbenciais e distribuição da sucumbência, encontra óbice na Súmula 7/STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp n. 1.961.902/DF, relator Ministro MARCO BUZZI, Quarta Turma, julgado em 9/5/2022, DJe de 13/5/2022 - sem destaques na origem).
+Nessas condições, NÃO CONHEÇOdo recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor do BANCO, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPARAÇÃO POR DANOS MORAIS. GOLPE DO MOTOBOY. SUCUMBÊNCIA RECÍPROCA. INSURGÊNCIA CONTRA A REDUÇÃO DA VERBA HONORÁRIA DETERMINADA PELO ACÓRDÃO RECORRIDO. NÃO CABIMENTO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7 DP STJ. RECURSO ESPECIAL NÃO CONHECIDO.
