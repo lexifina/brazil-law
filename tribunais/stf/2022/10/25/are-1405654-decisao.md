@@ -1,0 +1,65 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. EXECUÇÃO FISCAL. ALEGADA NULIDADE. MULTA. ANÁLISE DO CARÁTER CONFISCATÓRIO:  SÚMULAS NS. 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE CONTRARIEDADE AO ART. 2º DA CONSTITUIÇÃO DA REPÚBLICA. PRECEDENTES. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+Relatório
+
+    1. Agravo nos autos principais contra inadmissão de recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça de Goiás:
+
+    “Duplo Grau de Jurisdição. Apelação Cível. Embargos à execução fiscal. Índices de correção monetária e taxas de juros incidentes sobre créditos executados. RE 1.216.078/SP. Repercussão geral. Tema 1062. Adequação. CDA´s. Multas. Artigo 71, inciso VII, alínea ‘l’ c/c § 9º, inciso I, do CTE – Lei Estadual nº 11.651/1991. Exclusão. Não cabimento. Limitação a 100% do valor do tributo devido. Sucumbência recíproca. Custas. Isenção. Fazenda Pública. Embargante. Beneficiário da gratuidade da justiça. I – O Supremo Tribunal Federal, por ocasião de julgamento do ARE 1.216.078/SP, sob a sistemática da repercussão geral (Tema 1062), fixou a tese de que ‘os estados-membros e o Distrito Federal podem legislar sobre índices de correção monetária e taxas de juros de mora incidentes sobre seus créditos fiscais, limitando-se, porém, aos percentuais estabelecidos pela União para os mesmos fins.’ II – Neste contexto, agiu com acerto o julgador singular, ao determinar na sentença recorrida a adequação dos índices de correção monetária e taxas de juros incidentes sobre os créditos executados na ação de execução fiscal em apenso, em percentuais que não ultrapassem a taxa do Sistema Especial de Liquidação e Custódia (SELIC), aplicável aos tributos federais. III – No julgamento da arguição de inconstitucionalidade nº 5118404.40.2016.8.09.0000, aplicando a técnica da declaração parcial de inconstitucionalidade sem redução de texto, este Tribunal de Justiça determinou que a multa prevista no artigo 71, inciso VII, do Código Tributário do Estado de Goiás (Lei Estadual nº 11.651/1991), seja limitada a 100% do valor do tributo devido, à luz do princípio do não-confisco, o que vincula a decisão deste julgador (artigo 927, inciso V, do Código de Processo Civil). Desse modo, no caso em tela descabe falar em exclusão das multas constantes das CDA´s executadas, aplicadas com fundamento no artigo 71, inciso VII, alínea ‘l’ c/c §9º, inciso I, do CTE – Lei Estadual nº 11.651/1991, devendo ser mantidas as multas constantes da CDA´s, todavia, limitadas a 100% (cem por cento) do valor do tributo devido, salvo quando a legislação fixar percentual menor, quando então será este aplicado. IV – Diante do desfecho dado ao julgamento, resta configurada a sucumbência recíproca das partes, devendo o embargado/apelante ser condenado ao pagamento de honorários advocatícios, fixados escalonadamente nos percentuais mínimos previstos nos incisos I a V do § 3º do artigo 85 do Código de Processo Civil, sobre o proveito econômico obtido pelo embargante/apelado e o embargante/apelado ao pagamento de 50% (cinquenta por cento) das custas processuais e honorários advocatícios no percentual de 10% (dez por cento) sobre o proveito econômico obtido pelo embargado/apelante, devendo ser observado, contudo, a suspensão prevista no § 3º do artigo 98 do Código de Processo Civil, por ser beneficiário da gratuidade da justiça. Duplo Grau de Jurisdição conhecido e parcialmente provido. Apelação Cível conhecida e provida” (fls. 12-13, e-doc. 12).
+
+    Os embargos de declaração opostos foram acolhidos em parte, para fins de prequestionamento (e-doc. 16).
+
+    2. No recurso extraordinário, o agravante alega ter o Tribunal de origem contrariado o art. 2º da Constituição da República.
+
+     Argumenta que “o Tribunal a quo tem unificado o entendimento segundo o qual a multa confiscatória deve ser excluída, não podendo o Poder Judiciário, determinar sua redução para adequá-la a limite constitucional, sob pena de atuação como legislador positivo e, consequente, violação ao princípio constitucional da separação dos poderes” (fl. 8, e-doc. 18).
+
+    Pede seja o recurso “provido para, reconhecendo a violação ao disposto no art. 2º, da Constituição Federal, reformar o Acórdão recorrido e, de consequência, determinar a exclusão das multas das CDA´s, mantendo-se, incólume a sentença de 1º grau” (fl. 9, e-doc. 18).
+
+    3. O recurso extraordinário foi inadmitido pela incidência da Súmula n. 280 do Supremo Tribunal Federal (e-doc. 22).
+
+    No agravo interposto contra a inadmissibilidade do recurso extraordinário, o agravante sustenta que “a questão em debate prescinde de reinterpretação da legislação local. (...) a questão remanescente é se o Poder Judiciário, diante do reconhecimento da inconstitucionalidade das multas aplicadas nas CDA’s, poderia determinar sua alteração (redução) ferindo a tripartição de poderes, ou tão somente a expungir do mundo jurídico, determinando sua exclusão, como procedeu o Juízo de primeiro grau, no caso em foco” (fl. 5, e-doc. 24).
+
+    Pede o provimento do recurso extraordinário com agravo (fl. 7, e-doc. 24).
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    4. Razão jurídica não assiste ao agravante.
+
+    5. No acórdão recorrido, o Tribunal de origem assentou:
+
+    “Neste contexto, a fim de fazer valer o que foi decidido pelo Supremo Tribunal Federal, no caso em apreço agiu com acerto o julgador singular, ao determinar na sentença recorrida a adequação dos índices de correção monetária e taxas de juros incidentes sobre os créditos executados na ação de execução fiscal em apenso, em percentuais que não ultrapassem a taxa do Sistema Especial de Liquidação e Custódia (SELIC), aplicável aos tributos federais.
+
+    De outra parte, com relação a exclusão das multas constantes das CDA´s executadas, aplicadas com fundamento no artigo 71, inciso VII, alínea ‘l’ c/c §9º, inciso I, do CTE – Lei Estadual nº 11.651/1991, entendo que a sentença recorrida deve ser modificada.
+
+    Sobre os fundamentos legais das penalidades aplicadas no caso em tela, cumpre registrar que esta Corte reconheceu a constitucionalidade do artigo 71, inciso VII, alínea ‘l’, do CTE – Lei Estadual nº 11.651/1991 e que a multa nele prevista não possui caráter confiscatório, no julgamento da arguição de inconstitucionalidade nº 58180-37.2010.8.09.0000. Do mesmo modo, na arguição de inconstitucionalidade nº 64753-86.2013.8.09.0000 foi considerada constitucional, ainda, a multa prevista no §9º, inciso I, do artigo 71 do CTE – Lei Estadual nº 11.651/1991.
+
+    Não obstante o que foi decidido nas referidas arguições de inconstitucionalidade por esta Corte de Justiça, é sabido que o Supremo Tribunal Federal possui o entendimento de que são confiscatórias as multas cujos valores sejam superiores ao valor do tributo devido, tanto que na sentença recorrida o julgador singular adotou o aludido entendimento para fundamentar o deferimento da pretensão autoral de exclusão das multas constantes das CDA´s executadas, aplicadas com fundamento no artigo 71, inciso VII, alínea ‘l’ c/c §9º, inciso I, do CTE – Lei Estadual nº 11.651/1991.(...)
+
+    Apesar disso, no caso em tela descabe falar em exclusão das multas constantes das CDA´s executadas, aplicadas com fundamento no artigo 71, inciso VII, alínea ‘l’ c/c §9º, inciso I, do CTE – Lei Estadual nº 11.651/1991. Ocorre que no julgamento da arguição de inconstitucionalidade nº 5118404.40.2016.8.09.0000, aplicando a técnica da declaração parcial de inconstitucionalidade sem redução de texto, este Tribunal de Justiça determinou que a multa prevista no artigo 71, inciso VII, do CTE – Lei Estadual nº 11.651/1991, seja limitada a 100% do valor do tributo devido, à luz do princípio do não-confisco, o que vincula a decisão deste julgador (artigo 927, inciso V, do Código de Processo Civil). (...)
+
+    Desse modo, devem ser mantidas as multas constantes da CDA´s, todavia, limitadas a 100% (cem por cento) do valor do tributo devido, salvo quando a legislação fixar percentual menor” (fls. 4-7, e-doc. 12).
+
+    Rever o entendimento adotado pelo Tribunal de origem, quanto à alteração ou exclusão das multas constantes das Certidões de Dívida Ativa da União executadas e sobre a controvérsia da natureza confiscatória, demandaria o reexame da legislação infraconstitucional local aplicável ao processo (Lei estadual n. 11.651/1991). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incidem na espécie as Súmulas ns. 279 e 280 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “Agravo regimental em recurso extraordinário com agravo. IPTU. Base de cálculo. Planta genérica de valores. Leis Complementares Municipais nºs 145/14 e 159/17. Majoração de tributo por meio de desconto regressivo. Capacidade contributiva. Não confisco. Necessidade de análise da legislação local e de fatos e provas. Súmulas nºs 280 e 279/STF. 1. Para afastar o entendimento do Tribunal de origem quanto à existência de ofensa ao princípio da capacidade contributiva e do não confisco, seria necessária a análise da causa à luz da legislação infraconstitucional local (Leis Complementares municipais nºs 145/14 e 159/17), bem como o reexame das provas e dos fatos dos autos, providências incabíveis em sede de apelo extremo. Incidência das Súmulas nºs 280 e 279 da Corte. 2. Agravo regimental ao qual se nega provimento” (ARE n. 1.292.068-AgR, Relator o Ministro Dias Toffoli, Primeira Turma, DJe 29.4.2022).
+
+    “DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. ICMS. ALÍQUOTA INTERNA. AUSÊNCIA DE COMPROVAÇÃO DE SAÍDA DAS MERCADORIAS DO ESTADO. CLÁUSULA FOB. CONTROVÉRSIA DE ÍNDOLE INFRACONSTITUCIONAL. MULTA. CARÁTER CONFISCATÓRIO. SÚMULA 279/STF. 1. O Tribunal de origem, a partir da análise do arcabouço probatório dos autos e da legislação infraconstitucional pertinente entendeu pela aplicação da alíquota interna do ICMS, em virtude da ausência de comprovação da saída das mercadorias do Estado. Trata-se de controvérsia de índole infraconstitucional. 2. O acórdão recorrido não aborda o quantum da multa aplicada, razão pela qual eventual aferição sobre seu caráter confiscatório demandaria o reexame de provas (Súmula 279/STF). 3. Nos termos do art. 85, § 11, do CPC/2015, fica majorado em 25% o valor da verba honorária fixada anteriormente, observados os limites legais do art. 85, §§ 2º e 3º, do CPC/2015. 4. Agravo interno a que se nega provimento.” (ARE n. 1.255.391-ED-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 5.11.2020).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REITERAÇÃO DA TESE DO RECURSO INADMITIDO. SUBSISTÊNCIA DA DECISÃO AGRAVADA.TRIBUTÁRIO. EXECUÇÃO FISCAL. OFENSA REFLEXA. MULTA PUNITIVA. CARÁTER CONFISCATÓRIO. AUSÊNCIA. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - O recurso extraordinário, por conter alegações de ofensas indiretas ou reflexas à Constituição, demanda a interpretação de legislação infraconstitucional. III – As multas punitivas que não ultrapassem o patamar de 100% do valor do imposto devido não são consideradas confiscatórias. Precedentes. IV - Agravo regimental a que se nega provimento, com aplicação da multa (art. 1.021, § 4°, do CPC)” (ARE n. 1.122.922-AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 23.9.2019).
+
+    6. Quanto à alegada ofensa ao art. 2º da Constituição da República, a conclusão do Tribunal de origem harmoniza-se com a jurisprudência deste Supremo Tribunal, no sentido de que “não pode o Poder Judiciário estabelecer isenções tributárias, redução de impostos ou deduções não previstas em lei, ante a impossibilidade de atuar como legislador positivo” (ARE n. 1.343.997-AgR, Relator o Ministro Roberto Barroso, Primeira Turma, DJe 1º. 12.2021).
+
+    Nada há a prover quanto às alegações do agravante.
+
+    7. Pelo exposto, nego provimento ao recurso extraordinário com agravo (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal) e condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites do §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil.
+
+    Anote-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 25 de outubro de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
