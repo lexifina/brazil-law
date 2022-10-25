@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+COMPROMISSO DE COMPRA E VENDA - CONSÓRCIO - PRELIMINARES AFASTADAS - INADIMPLEMENTO DA COMPRADORA - CELEBRAÇÃO DE CONTRATO COM TERCEIRO - RESPONSABILIDADE DA PARTE AUTORA - INEXISTÊNCIA DE MORA DA ADMINISTRADORA - DOCUMENTAÇÃO PARA TRANSFERÊNCIA FORNECIDA - SENTENÇA CONFIRMADA - APELO DESPROVIDO.
+Nas razões do especial, a agravante aponta violação do artigo 25 da Lei 9.514/97.
+Afirma que faz jus à indenização por danos materiais e morais, haja vista a superação de mais de seiscentos dias sem que o agente fiduciário fornecesse o termo de quitação do contrato de alienação fiduciária do imóvel.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que este não merece provimento, senão vejamos.
+No caso dos autos, a Corte local assim decidiu sobre a controvérsia (fl. 339, e-STJ):
+Em verdade, o que se obtém dos autos é a conduta maliciosa da insurgente: ver que estavam em aberto diversas quotas do consórcio, e firmou contrato de compromisso de compra e venda do bem, com terceiros, mesmo ante a mora já verificada, é errôneo o afirmar no recurso da disponibilização dos documentos corretos em setembro de 2018, mesma data da propositura da Ação, afirmando a insurgente da inexistência dos documentos na exordial e nem depois informando o Juízo acerca do cumprimento da obrigação de fazer.
+Assim que a Recorrente se esquece de que o contrato firmado com a Apelada possuía cláusula de alienação fiduciária, que segue regime jurídico específico. Assim, com a inadimplência da insurgente a propriedade do imóvel consolidou-se em favor da Recorrida e, mesmo sabedora dos riscos e problemas relativos à avença, resolveu prometer a venda do bem para terceiros.
+Quitado o pacto antes da arrematação, ver que todos os documentos necessários foram devidamente enviados e, repita-se, toda a problemática iniciou-se com a conduta temerária da Autora, divorciada da boa-fé contratual.
+Nesse sentido, exato o falamento do h. Magistrado a quo: "São, portanto, atribuídas exclusivamente à autora as tarefas não adimplias com terceiro, aliás, res inter altos acta em face do réu. Se a autora prometeu a outrem a entrega de coisa ainda sob domínio de terceiro, deve assumir os riscos do inadimplemento de seu negócio jurídico com aquele terceiro" (fls. 280).
+A revisão do entendimento desses pontos, quanto à responsabilidade da agravante na demora no adimplemento do contrato com terceiro, nos moldes das questões factuais, ainda com base na interpretação de cláusulas contratuais, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos e do teor contratual, o que é vedado, em sede de recurso especial, ante os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+De igual teor:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS C/C PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 05 E 07/STJ. INADMISSIBILIDADE. JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. Alterar o decidido no acórdão recorrido que, com base no acervo documental e testemunhal, concluiu que "os dissabores experimentados foram ocasionados pela conduta precipitada dos próprios autores, por culpa exclusiva, e não pela atuação da instituição financeira", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo não provido.
+(AgInt no AREsp n. 1.924.937/RS, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 18/11/2021)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
