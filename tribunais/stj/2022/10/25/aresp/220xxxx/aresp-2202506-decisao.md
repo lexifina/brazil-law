@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial, por aplicação daSúmulan. 284do STF, bem como por falta de prequestionamento da matéria (e-STJ fls. 483/485).
+O Tribunal de origem negou provimento à apelação dorecorrente, em julgado que recebeu a seguinte ementa (e-STJ fl. 368):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SEGURO OBRIGATÓRIO DPVAT. CORREÇÃO MONETÁRIA. INVALIDEZ PARCIAL PERMANENTE. PAGAMENTO NA VIA ADMINISTRATIVA. CORREÇÃO MONETÁRIA. PRAZO LEGAL. ÔNUS SUCUMBENCIAL. HONORÁRIOS RECURSAIS. 1. Não há falar-se na incidência de correção monetária e juros de mora sobre o valor da indenização securitária paga na via administrativa quando não configurado nos autos que a seguradora extrapolou o prazo legal de 30 (trinta) dias contados da entrega da documentação necessária. Inteligência do artigo 5º, §§ 1º e 7º, da Lei Federal nº 6.194/1974, e jurisprudência do STJ. 2. Nos termos do artigo 85 do CPC, cabe ao vencido arcar com os honorários sucumbenciais. 3. Cabe a majoração dos honorários advocatícios sucumbenciais fixados pelo juízo a quo na hipótese de sucumbência em grau recursal (art. 85, § 11, do CPC). APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 398/405).
+No recurso especial (e-STJ fls. 409/432), com fundamento no art. 105, III, "a" e "c", da CF, o recorrente apontou negativa de vigência do art. 1.022 do CPC/2015, sustentando que "é notório que o Nobre Magistrado deixou de prequestionar acausa decidida, portanto, houve clara violação ao dispositivo mencionado, tendo em vista que deveria ter deixado claro o motivo que não fez a aplicação do REsp Nº 1.483.620/SC"(e-STJ fl. 413).
+Nesse contexto,suscitou violação do art. 884 do CC/2002, alegando que, ao não efetuar o pagamento da correção monetária, a parte recorrida está claramente enriquecendo sem causa.
+Por fim, indica dissídio jurisprudencial, afirmando que o termo inicial da correção monetária nas indenizações por invalides do seguro do DPVAT é a data do evento danoso.
+Busca, em suma, o provimento do recurso especial, a fim de(e-STJ fls. 431/432):
+ ..  condenar a ré ao pagamento da correção monetária, a partir do evento danoso, do valor indenizatório recebido administrativamente, conforme pacífico entendimento do STJ.
+Com o provimento do recurso, requer a condenação do réu ao pagamento das custas e honorários, de acordo com o art. art. 85, §2 com base no valor da causa, conforme já determinado, para não condenar em valor irrisório.
+Requer, nos termos do art. 489, § 1º, inciso VI, do CPC/2015, não acolhendo Vossa Excelência esse precedente, que fundamente seu motivo fazendo o devido distinguishing.
+Requer, nos termos do art. 489, § 1º, inciso V, do CPC/2015, não acolhendo Vossa Excelência esse precedente, que fundamente com o propósito de identificar os fundamentos determinantes (ratio decidendi), afastando, assim, se for o caso, os precedentes citados - art. 927 e 926 do CPC.
+Aproveita o momento para questionar a segurança jurídica com atenção aos precedentes citados do STJ sobre o tema (CPC, art. 926).
+Fundamente nos termos do Recurso Especial nº 1.483.620 - SC (2014/0245497 -6) - IRDR e precedente obrigatório - reconhecendo a incidência de correção com termo a quo do evento danoso.
+Ofereceram-se contrarrazões (e-STJ fls. 474/480).
+No agravo (e-STJ fls. 490/505), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Foi apresentada contraminuta (e-STJ fls. 510/515).
+É o relatório.
+Decido.
+I - Da negativa de prestação jurisdicional
+Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, conforme dispõe o art. 1.022 do CPC/2015.
+Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem assim se manifestou no julgamento dosaclaratórios (e-STJ fls. 401/404):
+Conforme relatado, trata-se de embargos de declaração opostos contra o acórdão prolatado pela Segunda Turma Julgadora desta Quinta Câmara Cível no bojo da "ação de cobrança de seguro" proposta por Raimundo Nonato Leite, ora embargante/apelante, em desfavor da Seguradora Líder dos Consórcios do Seguro DPVAT, aqui embargada/apelada.
+Infere-se dos autos que os pedidos iniciais foram julgados improcedentes, uma vez que comprovado através de laudo pericial que o requerente recebera administrativamente a cobertura devida pelo sinistro ocorrido. Na sequência, o autor interpôs recurso de apelação postulando a procedência do seu pedido alternativo, qual seja, incidência da correção monetária sobre o valor pago desde a data do evento danoso e, ainda, postulou inversão do ônus sucumbencial.
+Encaminhados os autos a esta instância derivada, o sobredito acórdão negou provimento ao apelo interposto pelo aqui embargante, mantendo inalterada a sentença que julgou improcedentes os pedidos contidos na inicial, porquanto, somente incidirá correção monetária quando o pagamento administrativo não for realizado dentro do prazo legal de 30 (trinta) dias (art. 5º, §7º, da Lei nº 6.194/74), o que não ocorreu na situação em apreço.
+Irresignado com o aresto acima aludido, o requerente/apelante opôs os presentes aclaratórios, alegando a ocorrência de omissão no julgado combatido por inobservância do entendimento fixado no REsp. nº 1.483.620 e súmula 580, em que o Superior Tribunal de Justiça firmou o entendimento de que sobre o valor da indenização securitária incide correção monetária desde a data do acidente, independente de o pagamento ter sido efetuado no prazo de 30 (trinta) dias.
+Pois bem, certo é que os embargos de declaração prestam-se a suprir omissões, obscuridades ou contradições contidas na decisão embargada, bem como deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos, consoante prevê a norma esculpida no artigo 1.022 do novo Código de Processo Civil e, assim sendo, passo a análise da alegada omissão.
+A respeito do julgamento do Recurso Especial nº 1.483.620/SC (tema 898 e súmula 580), submetido ao rito dos repetitivos, cumpre notar que o Superior Tribunal de Justiça afastou a pretensão de incidência de correção monetária a partir da Medida Provisória nº 340/2006, determinando a incidência da correção monetária sobre o montante devido desde o evento danoso, entretanto, ao contrário do sustentado pelo embargante, não é para todo e qualquer pagamento do seguro obrigatório DPVAT, mas para os casos em que o adimplemento administrativo ocorrer após o transcurso do prazo de 30 (trinta) dias estabelecido no artigo 5º, § 7º, da Lei nº 6.194/1974.
+Nesse sentido, aliás, tem-se manifestado o Superior Tribunal de Justiça em casos similares, senão vejamos o seguinte fragmento do voto da lavra do Ministro Marcos Buzzi quando do julgamento do AgInt no AREsp. nº 1279802/SE ocorrido em 13/05/2019, in verbis:
+ ..
+Desse modo, como não houve afronta a tese firmada pelo Superior Tribunal de Justiça, resta afastada qualquer possibilidade de aplicação do efeito infringente no julgamento.
+Desse modo, não assiste razão à recorrente, visto que o Tribunal a quo decidiu a matéria controvertida nos autos, ainda que contrariamente aos seus interesses, não incorrendo em nenhum dos vícios previstos nos arts. 489 e 1.022 do CPC/2015.
+Além do mais, não há nulidade no acórdão recorrido, o qual possui fundamentação suficiente à exata compreensão das questões apreciadas.
+II - Da falta de prequestionamento
+Constata-se que, apesar de opostos embargos de declaração, a tese de enriquecimento sem causa da parte recorrida não foi expressamente indicada nas razões do recurso nem enfrentada pelo Tribunal.
+Assim, o Tribunal de origem não foi instado, no momento oportuno, a se manifestar acerca do tema. Portanto, é inafastável a incidência da Súmula n. 211 do STJ.
+III - Da falha na fundamentação
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação divergente, bem como a demonstração do dissídio, mediante o cotejo analítico entre o acórdão recorrido e os paradigmas.
+Contudo, o recorrente não indicou o artigo de lei a que teria sido conferida a suposta interpretação dissonante.
+Incide, portanto, a Súmula n.284 do STF. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA Nº 284 DO STF. DESPESAS REALIZADAS EM HOSPITAL NÃO CREDENCIADO. SÚMULAS 5 E 7/STJ. RECURSO NÃO PROVIDO.
+1. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da demonstração analítica do dissídio jurisprudencial, a indicação dos dispositivos supostamente violados ou objeto de interpretação divergente. Súmula 284 do STF.
+ ..
+3. Agravo interno não provido.
+(AgInt no AREsp 1.024.730/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/8/2017, DJe 21/8/2017.)
+IV - Da correção monetária no seguro obrigatório DVPAT
+Conforme entendimento jurisprudencial da Segunda Seção desta Corte Superior, "a correção monetária nas indenizações do seguro DPVAT por morte ou invalidez, prevista no § 7º do art. 5º da Lei n. 6.194/1974, redação dada pela Lei n. 11.482/2007, incide desde a data do evento danoso" (Súmula 580, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe de 19/09/2016).
+Entretanto, a incidência da correção monetária desde o evento danoso somente ocorre nas hipóteses de descumprimento do prazo legal para o pagamento, nos termos do art. 5º, § 7º, da Lei 6.194/1974:
+§ 7º Os valores correspondentes às indenizações, na hipótese de não cumprimento do prazo para o pagamento da respectiva obrigação pecuniária, sujeitam-se à correção monetária segundo índice oficial regularmente estabelecido e juros moratórios com base em critérios fixados na regulamentação específica de seguro privado. (Incluído pela Lei nº 11.482, de 2007)
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO DPVAT. INDENIZAÇÃO. ATUALIZAÇÃO MONETÁRIA. DESDE O EVENTO DANOSO. DESCABIMENTO. PAGAMENTO REALIZADO TEMPESTIVAMENTE NA VIA ADMINISTRATIVA. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção do STJ, em sede de julgamento de recurso especial representativo de controvérsia, firmou a tese de que "A incidência de atualização monetária nas indenizações por morte ou invalidez do seguro DPVAT, prevista no § 7º do art. 5º da Lei n. 6194/74, redação dada pela Lei n. 11.482/2007, opera-se desde a data do evento danoso" (REsp 1.483.620/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 27/05/2015, DJe de 02/06/2015).
+2. A incidência da correção monetária desde o evento danoso, nos termos do previsto no recurso especial repetitivo, somente ocorre nas hipóteses de descumprimento do prazo legal para o pagamento (art. 5º, § 7º, da Lei 6.194/74), circunstância que foi expressamente afastada pelo Tribunal de origem.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1336812/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/05/2019, DJe 30/05/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO OBRIGATÓRIO DPVAT. CORREÇÃO MONETÁRIA. DATA DO EVENTO DANOSO. SÚMULA 580/STJ. PAGAMENTO TEMPESTIVO REALIZADO ADMINISTRATIVAMENTE E EM VALOR SUPERIOR AO EFETIVAMENTE DEVIDO. ATUALIZAÇÃO. INVIABILIDADE. AGRAVO DESPROVIDO.
+1. A Súmula 580/STJ dispõe que "a correção monetária nas indenizações do seguro DPVAT por morte ou invalidez, prevista no § 7º do art. 5º da Lei n. 6.194/1974, redação dada pela Lei n. 11.482/2007, incide desde a data do evento danoso."
+2. A correção monetária incidirá somente nas hipóteses em que a indenização securitária não for paga no prazo legal, de modo que a mora da seguradora imporia a reparação das perdas ensejadas pela inflação e a recomposição do seu montante efetivo ao longo do tempo. Na espécie, a indenização foi feita tempestivamente e em quantia superior à efetivamente devida, tornando inviável a atualização monetária.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1338095/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/10/2018, DJe 05/11/2018.)
+No caso dos autos, a Corte de origem concluiu pela não incidência da correção monetária sobre a indenização securitária do DVPAT, em razão de o pagamento administrativo ter ocorrido no prazo de 30 (trinta) dias. Confira-se (e-STJ fls. 370/371):
+A respeito da correção monetária de pagamento da indenização securitária DPVAT realizado na via administrativa, o artigo 5º, §7º, da Lei nº 6.194/74, preconiza a sua incidência desde o evento danoso, somente para os casos em que a seguradora não tenha realizado o pagamento da indenização nos trinta (30) dias seguintes à entrega da documentação.
+ ..
+Além disso, cumpre ressaltar que o Supremo Tribunal Federal, no julgamento da ADI nº 4.627/DF, reconheceu a constitucionalidade da Lei n.º 11.482/2007 e, especificamente, sobre a correção monetária fez a seguinte ponderação:
+ ..
+Diante das considerações acima, observo que, in casu, o acidente de trânsito ocorreu em 17/01/2015 (mov. 3, arq. 3, fls. 20/21) e, embora o protocolo de requerimento do pagamento da indenização securitária seja datado de 04/03/2015 (mov. 3, arq. 10, fl. 92), o procedimento administrativo ficou suspenso até a data de 14/05/2015, quando finalmente a juntada dos documentos necessários foi concluída (mov. 3, arq. 10, fls. 92/97). Logo, o pagamento efetuado em 18/05/2015 (mov. 3: arq. 10, fl. 100) ocorreu dentro do lapso temporal de 30 (trinta) dias.
+Desse modo, encontrando-se o acórdão recorrido em conformidade com a orientação jurisprudencial desta Corte, é imperiosa a incidência da Súmula n. 83 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça na instância de origem (e-STJ fls. 360/362), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
