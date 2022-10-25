@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravoem recurso especial apresentadopelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIScontra decisão que inadmitiu apelo nobre, interposto com fundamento no art. 105, inciso III, da Constituição Federal para desafiar acórdão assim ementado (e-STJ fl. 492):
+EMENTA: APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. PERMUTA DE IMÓVEL PÚBLICO. DANO AO ERÁRIO. INEXISTÊNCIA.
+A despeito da inobservância das prescrições legais na realização da permuta de imóvel público, não há como se condenar o agente público às sanções da Lei nº 8.429/92 se não demonstrada a ocorrência de lesão ao erário, e tampouco o elemento volitivo doloso capaz de justificar a imposição das penalidades decorrentes da violação aos princípios da Administração.
+Recurso conhecido e não provido.
+Embargos de declaração rejeitados (e-STJ fl. 515).
+Orecorrentesustentaofensa aoart. 1.022, II, do CPC/2015, ao argumento de que a questão do eventual dano ao erário e elemento subjetivo do suposto ato ímprobo não foiexaminadasuficientemente na origem.
+Sem contrarrazões.
+Manifestação ministerial pelo provimento do recurso (e-STJ fls. 576/580).
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+Em relação à alegada ofensa do art. 1.022, II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a umtodos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.  ..  (REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+No caso, verifico que, de fato, a questão do prejuízo ao erário e doelemento subjetivo, requisitos necessários à configuração do ato de improbidade administrativa, foi analisada suficientementeno acórdão recorrido, nos seguintes termos (e-STJ fls. 494/495):
+No caso concreto, a despeito de ter havido autorização legislativa para a referida permuta (Lei Municipal nº 86/2000 - fls. 115), nenhuma das demais formalidades legais foram observadas, especialmente a avaliação prévia dos bens.
+Não obstante isso, a perícia judicial de fls. 262 a 266 apontou valores bastante equivalentes entre os imóveis na atualidade e registrou que, à época da permuta, o bem recebido pelo Município possuía valor superior ao que foi dado. Veja-se: (..)
+Anote-se, ainda, que o imóvel recebido em permuta foi destinado ao Sr. Geraldo da Silva, inserido em programa municipal de habitação. E a questão acerca da propriedade do imóvel recebido, conforme novamente atestado em perícia, não ensejou perda patrimonial para o Município, vez que o imóvel dado na transação também não possuía registro regular - situação que atinge cerca de 90% dos imóveis de Rosário da Limeira: (..)
+Nessa perspectiva, a despeito da inobservância das prescrições legais, não ficou demonstrada a ocorrência de dano patrimonial apta a ensejar a alegada lesão ao erário, tipificada no artigo 10 da Lei nº 8.429/92.
+Também não se verificou o elemento volitivo doloso capaz de justificar a imposição das sanções decorrentes da violação aos princípios da Administração (art.11, LIA). Isso porque, a despeito da ausência prévia de avaliação dos imóveis objeto da permuta, houve a devida autorização legislativa, conforme já mencionado (fls.115), e o imóvel recebido foi destinado a programa habitacional, em "atendimento das finalidades precípuas da administração".
+Dessa forma, não verificada a conduta ímproba do agente público, deve ser mantida a sentença que julgou improcedente o pedido inicial.
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO doagravopara NEGAR PROVIMENTOaorecursoespecial.
+Publique-se. Intimem-se.
