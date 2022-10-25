@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de Recurso Especial interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"PREVIDENCIÁRIO. PROCESSO CIVIL. APELAÇÃO GENÉRICA. NÃO CONHECIMENTO. CONVERSÃO DE TEMPO COMUM PARA ESPECIAL. HIDROCARBONETOS: NOCIVIDADE. EXPOSIÇÃO A AGENTES QUÍMICOS.
+1. Não pode ser conhecido o recurso desprovido das razões de fato e de direito (art. 1.010 do Código de Processo Civil).
+2. A conversão do tempo de serviço comum em especial deve observar a disciplina legal vigente no momento em que se aperfeiçoaram os requisitos para a concessão do benefício (Tema nº 546 do Superior Tribunal de Justiça).
+3. A Lei nº 9.032, de 28 de abril de 1995, ao alterar o art. 57, §3º, da Lei nº 8.213, não permitiu, a partir de então, a possibilidade de conversão de tempo de serviço comum em especial para o fim de concessão de aposentadoria especial.
+4. A ausência de expressa referência em decreto regulamentar a hidrocarbonetos não equivale a que tenha desconsiderado, como agentes nocivos, diversos compostos químicos que podem ser assim qualificados.
+5. Para os agentes nocivos químicos previstos no Anexo 13 da Norma Regulamentadora - NR 15, entre os quais os hidrocarbonetos e outros compostos tóxicos de carbono, é desnecessária a avaliação quantitativa" (fl. 1.168e).
+Opostos Embargos de Declaração, por ambas as partes(fls. 1.187/1.189 e 1.194/1.196e), restaram decididos, nos termos da seguinte ementa:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO.COMPLEMENTAÇÃO DO JULGADO. TEMA 995 DO SUPERIOR TRIBUNAL DE JUSTIÇA. REAFIRMAÇÃO DA DER. HONORÁRIOS ADVOCATÍCIOS.
+1. A omissão, a obscuridade, a contradição e o erro material são os únicos fundamentos para a modificação de válida decisão judicial (art. 1.022 do Código de Processo Civil).
+2. Os embargos podem ser acolhidos, em relação a determinado tópico, tão somente para o fim de integração, mantida a decisão embargada.
+3. O ponto relativo à condenação em honorários advocatícios, na hipótese de reafirmação da data de entrada do requerimento (DER), não integra a questão de direito submetida a julgamento no Tema 995 do Superior Tribunal de Justiça, portanto, não possui o efeito vinculante da norma jurídica geral do precedente.
+4. Caracterizando-se a sucumbência recíproca, em razão da parcial procedência dos pedidos da autora, a ausência de oposição ao pedido de reafirmação da DER não afasta a condenação do INSS ao pagamento de honorários advocatícios" (fl. 1.214e).
+No Recurso Especial, interposto com supedâneo na alínea a do permissivo constitucional, a parte recorrente alega afronta aos arts. 85 e 1.022, II, do CPC e 389 do Código Civil, sustentando que:
+"5. DA CONTRARIEDADE AO ART. 1.022, II, DO CPC - NULIDADE DA DECISÃO RECORRIDA POR NEGATIVA DA PRESTAÇÃO JURISDICIONAL.
+O CPC garante aos litigantes o direito a uma prestação jurisdicional clara, exata e sem omissões, a fim de que permita às partes a sua análise e o manejo dos recursos cabíveis.
+O v. acórdão foi omisso na apreciação da legislação, tendo o INSS interposto embargos de declaração para o esclarecimento da matéria e o prequestionamento da questão federal abordada nos embargos - uma vez que, em razão do reexame necessário, caberia a apreciação do tema pelo colegiado.
+Efetivamente, não foi apreciada pela Corte de origem a tese levantada pelo embargante acerca da impossibilidade de condenação em honorários advocatícios sobre o valor da condenação, nos termos da decisão proferida pelo E. STJ no REsp 1.727.063 - SP. Dessa forma, a Corte de Origem não apreciou o sentido e o alcance do artigo 85, caput, do CPC, e do artigo 389 do CC.
+Além disso, o acórdão regional foi omisso, nos termos do artigo 1.022, parágrafo único, inciso I, do CPC ao deixar de se manifestar expressamente sobre o desrespeito ao julgamento proferido no Recurso Repetitivo nº 1.727.063 - SP (Tema 995) e sobre as normas que determinam aos tribunais observarem os acórdãos em julgamento de recursos repetitivos (artigo 927, inciso III do CPC).
+Ocorre, porém, que a C. Turma, ao negar provimento aos embargos de declaração, limitou-se a afirmar que inexiste omissão a sanar.
+Ora, os embargos de declaração foram interpostos exatamente para elucidar a questão, visando buscar uma clara resposta jurisdicional, além de prequestionar o tema para ulterior insurgência especial.
+Percebe-se, portanto, que o julgamento dos embargos configurou uma negativa da prestação jurisdicional, pois recusou às partes a solução de uma questão adequadamente colocada.
+O dispositivo do art. 1.022, II, do CPC, não foi respeitado pelo órgão julgador: o Tribunal a quo recusou-se a enfrentar ponto omisso no acórdão, razão pela qual deve ser anulada a decisão, retornando os autos para pronunciamento sobre as questões abordadas nos embargos de declaração.
+6. DAS RAZÕES PARA REFORMA DA DECISÃO. REAFIRMAÇÃO DA DER. TEMA Nº 995 DO STJ. RESP 1.727.063 - SP.
+Ao apreciar o pedido de cômputo do tempo de serviço posterior ao ajuizamento da ação, durante o curso do processo, o E. STJ afetou o tema como representativo de controvérsia sob o nº 995 (RESP 1.727.063 - SP), fixando a seguinte tese:
+(..)
+No caso dos autos, a c. Turma julgadora, em que pese adotar a tese firmada pelo E. STJ para reconhecer a possibilidade de reafirmação da DER, não seguiu os parâmetros da Corte Superior no que se refere à condenação em honorários advocatícios, uma vez que condenou o INSS ao pagamento de honorários advocatícios sobre as parcelas vencidas, ainda que não tenha havido insurgência quanto à reafirmação da DER.
+O artigo 927, inciso III do Código de Processo Civil dispõe que:
+(..)
+Como se vê, o STJ, ao reconhecer a possibilidade de reafirmação da DER, fixou os parâmetros a serem observados, os quais foram desatendidos pelo acórdão regional, violando, dessa forma, a norma acima mencionada que determina a observância pelos Tribunas dos julgados proferidos em sede de recursos repetitivos.
+Diante do exposto, por estar em desconformidade com a tese firmada por esse E. STJ no Tema nº 995, merece ser reformado o v. acordão para afastar a incidência dos honorários advocatícios.
+7. DA REAFIRMAÇÃO DA DER - DOS HONORÁRIOS ADVOCATÍCIOS - ART. 85 DO CPC E 389 DO CC.
+O Código de Processual Civil, adota o princípio da causalidade para determinar que são devidos honorários pela parte vencida ao advogado do vencedor (art. 85, caput do CPC).
+Nesta linha, tratando-se o pedido de "reafirmação da DER" da pretensão de utilização de fato superveniente para reconhecimento do direito do autor, afasta-se a relação de causa entre o indeferimento administrativo e o ajuizamento da demanda.
+Sob este aspecto, o E. STJ, no REsp 1727063/SP, expressamente reconheceu que " ..  haverá sucumbência se o INSS opuser-se ao pedido de reconhecimento de fato novo, hipótese em que os honorários de advogado terão como base de cálculo o valor da condenação .. .". (grifamos)
+Ou seja, somente se o INSS opuser-se ao pedido de reafirmação da DER, resistindo a pretensão, dando causa a demanda, haverá condenação a verba honorária. Caso contrário sequer há que se falar em sucumbência.
+O entendimento foi corroborado em sede Embargos de Declaração quando a C. Primeira Seção do STF voltou a afirmar que não há ônus da sucumbência se não houver contestação ao pedido de reconhecimento de fato novo (EDcl no REsp 1727063/SP, DJe 21/05/2020).
+Importante destacar que o Código Civil aponta no mesmo sentido, ao dispor no art. 389, que somente se "Não cumprida a obrigação, responde o devedor por perdas e danos  ..  e honorários de advogado."
+No caso dos autos, o INSS não se insurgiu quanto a possibilidade de reafirmação da DER, nem tampouco houve descumprimento da obrigação
+reconhecida pelo d. juízo, razão pela qual não são devidos honorários ao patrono do autor.
+Sob este aspecto o acórdão vergastado acabou por violar o art. 85, caput, do CPC c/c art. 389 do CC, bem como da interpretação conferida ao mesmo pelo E. STJ em sede do julgamento do REsp repetitivo 1.727.063/SP, razão pela qual merece ser reformado" (fls. 1.232/1.235e).
+Requer, ao final, "seja o recurso conhecido e provido, a fim de que haja a reforma do acórdão regional, para afastar a condenação em honorários advocatícios. Se assim não entender essa C. Turma de E. STJ, o INSS requer a anulação da decisão que rejeitou os embargos de declaração, por afronta ao artigo 1.022, II, do CPC, para que o Tribunal Regional a quo profira outra, suprindo a omissão sobre a matéria federal que embasa a tese do recorrente"(fl. 1.235e).
+Contrarrazões não apresentadas (fl. 1.239e), a irresignação foi admitida, na origem (fls. 1.250/1.252e).
+A irresignação não merece prosperar.
+De início, em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; STJ, REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mais, o Tribunal de origem consignou, no acórdão dos Embargos de Declaração, que, "no presente caso, a sucumbência foi considerada recíproca e o INSS foi vencido quanto ao pedido de especialidade dos períodos de 01/03/1982 a 01/04/1984, 01/07/2004 a 08/03/2010 e 22/11/2010 a 25/07/2012 (por ocasião da sentença) e de 22/01/1985 a 29/01/1988, de 13/03/1988 a 16/03/1992 e de 21/06/1995 a 13/03/1996, de 18/03/1996 a 11/05/2000 e de 24/10/2000 a 28/02/2002 (por ocasião do acórdão).Logo, a sucumbência da autarquia não decorreu unicamente da reafirmação da DER" (fl. 1.221e).
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial, e, nessa extensão, nego-lhe provimento.
+I.
