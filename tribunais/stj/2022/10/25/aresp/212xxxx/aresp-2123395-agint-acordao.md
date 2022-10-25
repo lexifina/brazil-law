@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma, por unanimidade, negar provimento ao agravo interno, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva (Presidente) e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que SOLANGE MARIA CENI FERRI (SOLANGE) ajuizou ação cominatória cumulada com pedido indenizatório contra BANCO DO ESTADO DO RIO GRANDE DO SUL - BANRISUL (BANRISUL), pleiteando o desbloqueio da movimentação de sua conta bancária que mantinha em cotitularidade com seu falecido marido, Gabriel Oltramari Ferri, e mais o fornecimento do contrato de sua abertura.
+O d. juízo de primeira instância indeferiu o pedido sob os argumentos de que a) após o falecimento de um dos cotitulares, a titularidade dos valores passa a ser do espólio e os valores vinculados à conta só podem ser liberados mediante decisão do juízo do inventário; e b) não houve comprovação da negativa do fornecimento, pelo BANCO, do contrato mencionado.
+Contra essa decisão interlocutória, SOLANGE manejou agravo de instrumento que não foi provido pelo Tribunal de Justiça do Estado do Rio Grande do SUL, nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO COMINATÓRIA CUMULADA COM INDENIZATÓRIA. TUTELADE URGÊNCIA E EXIBIÇÃO DE DOCUMENTOS. DESCABIMENTO.
+1. Em se tratando de valores oriundos de aplicações financeiras, após o falecimento de um dos titulares da conta-conjunta, o outro não pode movimentá-la, cabendo ao Juiz do inventário decidir a esse respeito.
+2. Não prospera o pedido de exibição do contrato de abertura da conta-corrente e as respectivas alterações, pois inexiste prova sobre a existência de prévia diligência administrativa indeferida nesse sentido. RECURSO DESPROVIDO (e-STJ, fls. 82/86)
+Os embargos de declaração opostos por SOLANGE foram rejeitados (e-STJ, fls. 105/109).
+Inconformada, SOLANGE interpôs recurso especial com fundamento no art. 105, III, a e c, da CF, alegando a violação dos arts. 489, § 1º e IV, 1.022, II, do NCPC, ao sustentar que (1) os autos devem retornar ao Tribunal estadual para que sejam enfrentadas as teses que, a despeito da oposição de embargos de declaração, não foram analisadas; e (2) demonstrou o dissídio jurisprudencial quanto a possibilidade de movimentação de 50% dos valores existentes em conta corrente conjunta, após o falecimento de um dos cotitulares.
+O apelo nobre não foi admitido pelo Tribunal estadual em virtude da a) ausência de violação ao disposto nos arts. 489, § 1º e 1.022, ambos do NCPC; b) incidência da Súmula nº 735 do STF; e c) incidência da Súmula nº 7 desta Corte (e-STJ, fls. 166/172).
+Seguiu-se o agravo em recurso especial interposto por SOLANGE que, em decisão proferida pelo Ministro Presidente desta Corte, não foi conhecido em virtude da ausência de impugnação específica das Súmulas nºs 7 do STJ e 735 do STF (e-STJ, fls. 195/196).
+Nas razões do presente agravo interno, SOLANGE destacou que seu agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Não foi apresentada contraminuta (e-STJ, fl. 208).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECONSIDERAÇÃO. AGRAVO CONHECIDO. ANÁLISE DO APELO NOBRE. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO COMINATÓRIA. AGRAVO DE INSTRUMENTO. INDEFERIMENTO DE TUTELA ANTECIPADA. VIOLAÇÃO DOS ARTS. 489 E 1.022, AMBOS DO NCPC. OMISSÃO E CONTRADIÇÃO. VÍCIOS INEXISTENTES. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE ACÓRDÃOS CONFRONTADOS. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E NÃO PROVIDO.
+1. Movimentar conta conjunta após o falecimento do cotitular, é possível desde que observada a metade do quanto existente na data do óbito. Hipótese observada pelo banco depositário.
+2. Movimentar valor existente em conta-corrente em cotitularidade com o falecido, não é o mesmo que movimentar saldos de investimentos financeiros, matéria afeta ao Juízo do inventário. Dissídio não comprovado.
+3. Agravo conhecido para conhecer em parte do apelo nobre e a ele negar provimento.
+VOTO
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 195/196 e passo a novo exame do agravo em recurso especial interposto às e-STJ, fls. 180/188.
+Do agravo em recurso especial
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida, com o devido respeito a decisão que dele não conheceu
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial interposto às e-STJ, fls. 118/129.
+Do recurso especial
+O recurso não merece prosperar, na parte que pode ser conhecida.
+De plano, vale pontuar que o agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da necessidade de retorno dos autos ao Tribunal Estadual
+Em seu apelo nobre, SOLANGE apontou a violação dos arts. 489, § 1º, IV e 1.022, II, ambos do NCPC, ao sustentar que o acórdão se mostrou omisso em relação ao argumento de que foram violados os arts. 9º e 10 do NCPC uma vez que consulta informal não é compatível com o processo na medida em que não foi assegurado o conhecimento do ato praticado pelo juiz, de forma prévia e igualitária.
+Contudo, sobre o tema, o acórdão proferido pelo Tribunal estadual, que julgou os embargos de declaração, consignou que
+O fato de a decisão estar baseada em consulta informal obtida com o próprio banco embargado não a invalida e nem obriga a Relatora a exibir tal prova ou declinar o fundamento para esse entendimento, pois é sabido que o Juiz pode aplicar regras de experiência comum e técnicas ao analisar a prova dos autos, a teor do art. 375 do CPC: "O juiz aplicará as regras de experiência comum subministradas pela observação do que ordinariamente acontece e, ainda, as regras de experiência técnica, ressalvado, quanto a estas, o exame pericial."
+Até porque como a matéria envolve direito sucessório, na qual muitas vezes há severos litígios familiares, exige cautela, como a adotada pelo banco, de não permitir a movimentação dos investimentos existentes na conta-conjunta tempo depois do falecimento de um dos titulares (e-STJ, fl. 106 - sem destaque no original).
+Assim, não há falar em omissão do acórdão recorrido.
+Ainda apontou contradição do v. acórdão recorrido porque, em seu entender, relegou a momento posterior a análise dos arts. 267 e 639, ambos do CC/02, mas reconheceu a necessidade da manutenção da medida restritiva.
+Também não há que se falar no alegado vício pois a contradição apta a macular o julgado tem que ser interna, entre proposições do próprio julgado e sua fundamentação, o que não se verifica no caso em que ficou consignado que a matéria discutida envolve direito sucessório, na qual muitas vezes há severos litígios familiares, exige cautela, como a adotada pelo banco, de não permitir a movimentação dos investimentos existentes na conta-conjunta tempo depois do falecimento de um dos titulares, e que essas circunstâncias, ao menos em cognição sumária, devem ser analisadas no julgamento do mérito da ação, até porque, além dos artigos ditos como violados dizem respeito a direitos dos credores solidários, deve ser levado em consideração o fato de que a embargante seguiu movimentando a conta-conjunta após o falecimento do cônjuge por 06 meses (de novembro 2020 a maio de 2021), utilizando mais de R$250.000,00 neste período, o que corresponde a mais de 45% do valor existente na data do óbito. Esse volume de transações não pode ser simplesmente ignorado e reforça a necessidade da medida restritiva tomada pelo banco (e-STJ, fl. 106 - sem destaques no original).
+Em síntese, não se vislumbra violação ao disposto nos arts. 489 e 1.022, ambos do NCPC.
+(2) Do dissídio jurisprudencial
+Por fim, SOLANGE alegou que demonstrou o dissídio jurisprudencial em relação a violação do art. 639 do CC/02, tendo em vista a possibilidade de movimentação de 50% dos valores existentes em conta-corrente conjunta, após o falecimento de um dos cotitulares.
+Contudo, ao contrário do que SOLANGE defende, o dissídio jurisprudencial não foi devidamente demonstrado tendo em vista a ausência de similitude fática entre os arestos recorrido e paradigmas (elemento indispensável à demonstração da divergência), na medida em que a questão sobre a impossibilidade de movimentação das aplicações financeiras, após o falecimento de um dos cotitulares da conta conjunta não foi analisada pelo acórdão indicado como paradigma.
+E isso se diz porque enquanto que o acórdão recorrido, que manteve a decisão de primeira instância, entendeu pela impossibilidade de movimentação dos valores que estavam aplicados em CDB"s uma vez que a pretensão da autora é movimentar os valores em investimentos, pois a conta-corrente ela continuou movimentando (e-STJ, fl.83), o acórdão apontado como paradigma somente tratou, no que interessa ao caso, da possibilidade de movimentação, pelo cotitular supérstite, de 50% dos valores existentes em conta bancária.
+A propósito, assim é a jurisprudência desta Corte, a saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CLÁUSULA COMPROMISSÓRIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DAS SÚMULAS N. 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. MULTA POR INADIMPLEMENTO CONTRATUAL E CONDENAÇÃO POR DANOS MORAIS. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. NÃO PROVIDO.
+1. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, os óbices das Súmulas n. 284 e 283, do STF.
+2. A falta de indicação de dispositivo de lei a respeito de cuja interpretação divergiu o acórdão recorrido implica deficiência na fundamentação do recurso especial, o que atrai a incidência da Súmula nº 284 do STF.
+3. Dissídio jurisprudencial não comprovado, em face da ausência de demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados. Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.881.444/GO, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 19/9/2022, DJe de 26/9/2022.)
+PROCESSUAL CIVIL. CONSUMIDOR. RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATO. CARTÃO. CRÉDITO CONSIGNADO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. NÃO DEMONSTRAÇÃO. DISSÍDIO JURISPRUDENCIAL. FUNDAMENTAÇÃO RECURSAL. DEFICIÊNCIA. SIMILITUDE FÁTICA. PARTICULARIZAÇÃO. DISPOSITIVOS LEGAIS. AUSÊNCIA. LEGISLAÇÃO ESTADUAL. OFENSA. DIREITO LOCAL. SÚMULA Nº 280/STF. NÃO CONHECIMENTO.
+1. A decisão impugnada pelo recurso especial foi publicada na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não é possível o reconhecimento do dissídio pretoriano quando ausente a similitude fática entre as hipóteses confrontadas.
+3. É deficiente a fundamentação recursal quando o recorrente não aponta, de forma coerente e precisa, os dispositivos de lei federal que supostamente teriam sido objeto de interpretação divergente.
+4. A alegada violação de lei estadual não enseja o cabimento do recurso especial (Súmula nº 280/STF).
+5. Recurso especial não conhecido.
+(REsp 1.833.475/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/5/2021)
+Assim, diante do descumprimento do art. 255, §1º, do RISTJ, inviável se mostra a análise da existência do dissídio.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHECER do agravo em recurso especial para NEGAR PROVIMENTO, na parte conhecida, ao apelo nobre interposto.
+É o meu voto.
