@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARALOG DISTRIBUIÇÃO S/A - EM RECUPERAÇÃO JUDICIALcontra decisão que conheceu do agravo interno para julgar prejudicado o recurso especial.
+O recurso especial havia sido provido nos termos da seguinte ementa (fl. 475):
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL CRÉDITO CORRESPONDENTE AOS HONORÁRIOS ADVOCATÍCIOS DEVIDOS À SOCIEDADE DE ADVOGADOS CONTRATADA PARA FORMULAR E ACOMPANHAR O PEDIDO DE RECUPERAÇÃO JUDICIAL. CRÉDITO EXTRACONCURSAL. INTERPRETAÇÃO LÓGICO-SISTEMÁTICA E TELEOLÓGICA DAS NORMAS E PRINCÍPIOS NORTEADORES DA LEI 11.101/2005. PEDIDO DE RESERVA DE VALORES. POSSIBILIDADE
+1. É firme a jurisprudência do STJ no sentido de que é possível a reserva de valores no âmbito da recuperação judicial.
+2. O STJ vem reconhecendo que o crédito correspondente aos honorários advocatícios devidos à sociedade de advogados contratada para formular e acompanhar o pedido de recuperação judicial deve ser tido como extraconcursal (REsp 1368550/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/10/2016, DJe 23/11/2016)
+3. Na hipótese, é incontroverso no acórdão recorrido que se trata de crédito extraconcursal - contrato de prestação de serviços firmado entre recorrente e recorrida para propor e acompanhar a recuperação judicial - e que diante do pleito do escritório de advocacia em relação ao seu crédito perante a recuperanda, o Juízo da 2ª Vara Cível da Comarca de Colatina/ES oficiou ao Juízo da 2ª Vara Cível da Comarca de Catanduva solicitando a reserva de valores dos honorários contratuais em favor do recorrente. Assim, deve ser reconhecida à possibilidade de determinação de reserva de montante equivalente ao crédito do recorrente, haja vista a sua natureza extraconcursal.
+4. Recurso especial provido.
+Contra a referida decisãosobreveio agravo interno interposto pela embargante(fls. 501-578).
+No referido recurso, foi requerido o reconhecimento da superveniente perda do objeto do especial tendo em vista o pedido de falência formalizado na origem.
+O agravo foi conhecido para julgar prejudicado o recurso especial nos termos da decisão de fls. 1.036-1.040.
+Sobrevieram os presentes embargos, em que a embargante sustenta omissão quanto a outras duas questões incidentais relevantes, quais sejam:a)a expressa declaração de que a falência instaurada na origem atrai eventuaisquestões pertinentes à extensão e classificação do crédito devido, reservando-se ao juízo recuperacional cognição exauriente com amplo exercício do contraditório pelas partes; eb)litigância de má-fé superveniente praticada pela embargada, em razão da permanente continuidade delitiva processual.
+Requer, portanto, sejam acolhidos os embargos declaratórios para que conste da decisão os tópicos acima suscitados.
+É o relatório. Decido.
+Os embargos não merecem conhecimento.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material existentes no julgado, o que não se verifica na espécie.
+Na situação dos autos, não há cabimento dos pedidos formulados pela embargante, tendo em vista que ambos caracterizariam indevida inovação a respeito do objeto principal do recurso especial, qual seja, a reserva de valores suficientes para o pagamento de créditos oriundos da prestação de serviços advocatícios durante o procedimento de recuperação judicial.
+Conforme descrito na decisão embargada, a superveniente decretação da falência ocorrida na origem torna prejudicada a discussão a respeito da reserva de valores, a qual deverá ser dirimida perante o Juízo Universal da Falência (fl. 1.040).
+Assim, não há razão para se consignar, nesta instância superior, que toda e qualquer discussão a respeito da extensão e classificação do crédito devido esteja limitada ao juízo recuperacional, visto tratar-se de desdobramentos próprios dos procedimentos em trâmite em primeiro grau de jurisdição, os quais sequer fazem parte da causa de pedir do recurso especial julgado prejudicado pela decisão embargada.
+Ademais, não há como cogitar de litigância de má-fé da parte embargada, cuja decisão de provimento do recurso especial foi proferida em seu favor, não havendo notícia nos autos de qualquer atuação fora dos padrões exigidos pela boa-fé processual.
+Esclareça-se, por fim, que eventual discussão a respeito dos procedimentos incidentalmente instaurados ao processo principal de falência deverão ser objeto de impugnação própria, junto ao Juízo competente, não sendo admitida a extensão da jurisdição especial desta Corte Superior a respeito de matéria que sequer foi enfrentada pelas instâncias ordinárias.
+Observar-se, portanto, que as alegações firmadas pela embargante não se enquadram nas hipóteses que autorizam a oposição dos embargos de declaração previstas no diploma processual.
+Ante o exposto,não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
