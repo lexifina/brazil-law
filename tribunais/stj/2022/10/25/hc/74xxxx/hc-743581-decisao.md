@@ -1,0 +1,23 @@
+DECISÃO
+WELINGTON FERNANDES DE FREITAS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Revisão Criminal n. 0093154-38.2021.8.19.0000.
+A defesa pretende a redução da pena, ao argumento de ilegalidade na consideração desfavorável dos antecedentes do réu, "com base em condenação pretérita ocorrida há mais de 17 anos" (fl. 4).
+O Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 464-471).
+Decido.
+Extrai-se dos autos que o paciente foi condenado à pena de 7 anos, 3 meses e 3 dias de reclusão mais 16 dias-multa, em regime fechado, pela prática do crime previsto no art. 157, § 2º, I e II, do Código Penal.
+O Juízo de primeiro grau exasperou a pena-base em 1/6 acima do mínimo-legal, pelos maus antecedentes do agente. Confira-se: " ..  sua FAC contém três anotações de condenação com trânsito em julgado, sendo que apenas duas serão consideradas nesta fase, as de fls. 27 e 28, que configuram maus antecedentes, já que a de fls. 30 será considerada na fase seguinte, por configurar reincidência" (fl. 88).
+O acórdão da revisão criminal registrou que, "diferentemente do imaginado pela defesa, não se está consagrando eventual pena perpétua" (fl. 13).
+Em relação ao decurso do tempo, consoante entendimento deste Superior Tribunal, mesmo se decorrido prazo de cinco anos entre a data do cumprimento ou da extinção da reprimenda e a infração posterior, a condenação definitiva, embora não possa prevalecer para fins de reincidência, pode ser sopesada a título de maus antecedentes, por consubstanciar dado concreto relacionado ao comportamento anterior do apenado, sob risco de ver esvaziada a circunstância judicial assinalada no art. 59 do CP.
+Confira-se: "O período depurador previsto no art. 64, inciso I, do Código Penal afasta a configuração da agravante da reincidência, mas não constitui óbice à avaliação negativa da circunstância judicial dos antecedentes" (HC n. 470.644/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 1/2/2019).
+Importante ressaltar que o termo inicial do período de cinco anos, para a caracterização do período depurador, é a data de cumprimento ou da extinção da pena, e não a do trânsito em julgado da condenação, nos termos do art. 64, I, do Código Penal:
+Art. 64 - Para efeito de reincidência:
+I - não prevalece a condenação anterior, se entre a data do cumprimento ou extinção da pena e a infração posterior tiver decorrido período de tempo superior a 5 (cinco) anos, computado o período de prova da suspensão ou do livramento condicional, se não ocorrer revogação (grifei).
+Embora esta Corte haja mitigado a aplicação do referido dispositivo legal, em situações em que já transcorrido grande lapso temporal entre o cumprimento da pena, ou sua extinção, e a prática do novo delito, essa não é a situação que ora se impõe.
+A FAC juntada aos autos, fls. 16-23, não informa se as penas das condenações adotadas para negativar os antecedentes do réu foram cumpridas, mas apenas o seu trânsito em julgado. Todavia, observo as seguintes informações: 1) pena de 6 anos e 8 meses de reclusão, trânsito em julgado em 19/1/1995 (fl. 18) e 2) pena de 9 anos de reclusão, trânsito em julgado em 27/12/2001 (fl. 19).
+Assim, consideradas as penas aplicadas e as datas em que as condenações transitaram em julgado, o tempo transcorrido da eventual extinção pelo cumprimento até a prática do delito em questão, em 23/2/2010, não é excessivo, a ponto de justificar o afastamento da vetorial.
+Nesse sentido:
+ ..
+3. Segundo entendimento desta Corte Superior, ""A tese do "direito ao esquecimento" não encontra guarida em feitos extintos que não possuem lapso temporal significante em relação a data da condenação, menos de 10 anos" (AgRg no HC n. 546.838/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/5/2020, DJe 18/5/2020)" (AgRg no HC n. 711.272/RJ, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 29/3/2022, DJe de 4/4/2022). (AgRg no AREsp n. 2.098.635/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe de 10/8/2022, destaquei)
+ ..
+4. Conforme a jurisprudência pacífica desta Corte Superior, as condenações atingidas pelo período depurador de 5 anos, nos termos do art. 64, I, do Código Penal, podem ser reconhecidas como maus antecedentes.  ..  A tese do "direito ao esquecimento" não deve ser aplicada em relação a feitos extintos que não possuam lapso temporal significante em relação a data da condenação, qual seja menos de 10 anos (AgRg no HC n. 642.772/SC, Ministro Olindo Menezes (Desembargador Convocado do TRF da 1ª Região), Sexta Turma, DJe 10/5/2021). (AgRg no REsp n. 1.953.906/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe de 23/3/2022)
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
