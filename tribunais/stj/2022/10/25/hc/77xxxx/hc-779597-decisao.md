@@ -1,0 +1,7 @@
+DECISÃO
+ANDERSON APARECIDO DOS SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 2215266-43.2022.8.26.0000, em que não foi conhecido o mandamus.
+Pleiteou a defesa, perante a Corte de origem, "seja determinado o andamento do processo de execução em nome do paciente, para apreciação de seus pedidos de progressão ao regime semiaberto e remição, protocolados há mais de 180 dias" (fl. 52).
+Todavia, ao analisar o pleito defensivo, consignou o Tribunal a quo que "aos 04.10.2022 o Ministério Público peticionou, requerendo, com relação à progressão de regime e comutação de penas, a elaboração de cálculos e a juntada de folha de antecedentes. Com relação ao pedido de remição de penas pelo estudo, que seja oficiado à Unidade Prisional, solicitando informação acerca do acompanhamento do estudo,  ..  os pedidos de progressão de regime e remição de penas encontram-se em processamento, razão pela qual é inviável a concessão direta neste segundo grau de jurisdição, sob pena de indevida supressão de instância" (fls. 53-55, grifei).
+Dessa forma, "não há falar em desídia do magistrado das Execuções, que tem diligenciado no sentido de dar andamento ao processo, não podendo ser imputado ao Estado-Juiz a responsabilidade por eventual demora" (HC n. 352.272/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 1/8/2016).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
