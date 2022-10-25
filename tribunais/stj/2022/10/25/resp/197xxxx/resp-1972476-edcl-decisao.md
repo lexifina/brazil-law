@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão que negou provimento ao recurso especial.
+Sustenta o embargante omissão quanto à análise sobre a culpabilidade, merecendo, assim, ser aclarada(e-STJ fl. 6578), razão pela qual requer o acolhimento dos embargos com efeitos infringentes.
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+No caso, as vetoriais das circunstâncias do delito e da culpabilidade foram refutadas, conjuntamente, na decisão, ao fundamento de que, como registrado no acórdão o detalhamento da operação do tráfico e da forma de organização da associação criminosa, com a divisão mais apurada de atividades, constituem circunstâncias do crime passíveis de consideração negativa, assim como o maior envolvimento do recorrente com a organização criminosa, apontado como responsável pela realização de pagamentos e transferências bancárias (e-STJ 6578), ponderando-se que a reversão das premissas fáticas atrai o óbice da Súmula 7 do STJ.
+De fato, o entendimento desta Corte é pacífico no sentido de que os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão)(EDcl no AgRg no REsp 1.339.703/RS, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 4/11/2014, DJe 17/11/2014).
+Manifesta, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, porquanto não demonstrada a ocorrência de nenhuma das hipóteses do art. 619 do Código de Processo Penal.
+Ante do exposto, rejeito os presentes embargos.
+Intimem-se.
