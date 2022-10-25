@@ -1,0 +1,10 @@
+DECISÃO
+FILIPE FERREIRA DE OLIVEIRA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 1508149-71.2021.8.26.0228, em que, mantida a condenação "como incurso no artigo 180, par. 1º e 2º, por uma vez, e no artigo 180, "caput", por três vezes, na forma do artigo 69, todos do Código Penal" (fl. 30), foi dado "parcial provimento ao recurso para reduzir a pena do acusado para 6 anos de reclusão e pagamento de 40 dias-multa" (fl. 34).
+Assere a defesa que " n ão há elementos suficientes para valorar negativamente a personalidade do Recorrente, ressaltando-se, neste ponto, sua primariedade.  ..  notório o equívoco do r. acórdão ao fixar a pena acima do mínimo legal, razão pela qual deve ser reformada, para que haja fixação da pena-base no mínimo legal. Por fim, como o artigo 59 elenca 8 circunstâncias judiciais, razoável se mostra o aumento no patamar de 1/8 para cada circunstância desabonadora" (fl. 7).
+Com efeito, depreende-se dos autos que a Corte de origem, ao analisar o pedido de redução da pena, salientou que "há nos autos notícia de apenas uma condenação transitada em julgado (fls. 120 condenação por receptação), que será considerada na segunda fase da dosimetria. As penas de partida ficam fixadas, assim, no mínimo legal, em 3 anos de reclusão e pagamento de 10 dias-multa, para a receptação qualificada, e 1 ano de reclusão e pagamento de 10 dias- multa, para as receptações simples" (fls. 32-33, grifei).
+Dessa forma, percebe-se que a pena-base já foi estipulada no patamar mínimo legal, o que caracteriza a ausência do interesse de agir.
+A esse respeito, mutatis mutandis:
+ ..
+2. Inexiste interesse recursal em agravar de decisão para pleitear a revogação de medidas cautelares que já foram revogadas nas instâncias ordinárias  ..  (AgRg no RHC n. 142.124/GO, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 10/6/2021).
+À vista do exposto, nos termos do art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
