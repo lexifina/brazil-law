@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 19/10/2022 a 25/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Jorge Mussi, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo interno interposto por TELEFÔNICA BRASIL S.A, contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 1.141):
+RECURSO EXTRAORDINÁRIO. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL.SEGUIMENTO NEGADO.
+A parte agravante sustentao seguinte:
+Ora, a questão de fundo do recurso extraordinário interposto pela Telefônica Brasil S/A não tem a ver, portanto, com preenchimento de pressupostos de admissibilidade recursal: não envolve, diferentemente, com a devida vênia, do que entendeu a colenda Vice-Presidência, um juízo sobre o cabimento ou não da interposição do apelo extremo. Deveras, a Recorrente não pretende que o eg. STF examine se a matéria é constitucional ou se este eg.STJ tem competência para dela conhecer.
+Como se depreende, o que a Recorrente quer discutir é, isto sim, se este egrégio STJ, assim como qualquer outro juízo ou tribunal, tem competência para modular os efeitos de suas próprias decisões - e não das decisões do eg.STF -, ainda que a matéria esteja sendo julgada pela Suprema Corte, na hipótese em que houver mudança de entendimento.
+Em outras palavras: no recurso extraordinário interposto pela Telefônica discute-se a competência para modulação de efeitos à luz do princípio da segurança jurídica (perspectiva subjetiva). É, portanto, questão material, e não procedimental.
+Houve, pois, má compreensão do objeto do recurso extraordinário:
+nele, não se discute se a matéria é ou não constitucional ou qualquer outro requisito de cabimento dos recursos dirigidos às instâncias superiores. O que se discute é uma questão de direito, a respeito da qual ainda pende muita controvérsia: competência de qualquer juízo ou tribunal para, à luz do princípio da segurança jurídica, modular os efeitos de suas próprias decisões na hipótese de alteração de jurisprudência dominante do Supremo Tribunal Federal e dos tribunais superiores ou daquela oriunda de julgamento de casos repetitivos. (fl. 1.156).
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.164-1.169.
+É o relatório.
+EMENTA
+AGRAVO INTERNONO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF.
+1. A insurgência quanto ao preenchimento dos pressupostos de admissibilidade de recurso de competência do Superior Tribunal de Justiça tem natureza infraconstitucional, sem repercussão geral (Tema n. 181/STF).
+2. Agravo internoa que se nega provimento.
+VOTO
+Ao apreciar oRE n. 598.365-RG/MG, julgado na sistemática da repercussão geral, o STF definiuque "aquestão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+Confira-se, por oportuno, a ementa do aresto paradigma:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+No caso, verifica-se que,no tocante à alegação de ofensa ao art. 927, § 3º, do Código de Processo Civil, o acórdão objeto do recurso extraordinário manteve a decisão que não conheceu do recurso especial, nos seguintes termos (fls. 1.061-1.063):
+Conforme o julgado ora agravado, cuidam os autos, na origem, de mandado de segurança preventivo em que se pretende o reconhecimento do direito líquido e certo à não incidência de ICMS "sobre receitas de assinatura mensal de serviços de telefonia sem franquia e minutos ou de tráfego de dados".
+Na sentença de primeiro, foi denegada a segurança, com amparo no entendimento do Supremo Tribunal Federal em julgamento submetido ao rito da repercussão geral - RE 912.888/RS, Tema 827 - em que se fixou tese de que incide ICMS sobre tarifa de assinatura mensal de telefonia, independentemente da concessão de franquia de minutos ou não.
+Interposta apelação, o Tribunal bandeirante negou-lhe provimento, com base nos seguintes fundamentos (e-STJ fls. 570/571):
+A questão restou definida pelo Supremo Tribunal Federal no julgamento do RExt nº 912.888/RS, julgado sob a sistemática daRepercussão Geral:
+TRIBUTÁRIO. RECURSO EXTRAORDINÁRIO. ICMS SOBRE PRESTAÇÃO DE SERVIÇOS DE COMUNICAÇÃO. TARIFADE ASSINATURABÁSICAMENSAL. CONTRA PRESTAÇÃO AO SERVIÇO DECOMUNICAÇÃO PROPRIAMENTE DITOPRESTADOPELAS CONCESSIONÁRIAS DE TELEFONIA. INCIDÊNCIA DO TRIBUTO.
+1. O Plenário do Supremo Tribunal Federal, no julgamento do RE572.020 (Rel. Min. MARCO AURÉLIO, Rel. p/acórdão Min. LUIZ FUX, DJe de 13/10/2014), assentou que o ICMS não incide sobre serviços preparatórios aos de comunicação, tais quais o de habilitação, instalação, disponibilidade, assinatura (= contratação do serviço), cadastro de usuário e equipamento, etc., já que tais serviços são suplementares ou configuram atividade -meio.
+2. A tarifa de assinatura básica mensal não é serviço (muito menos serviço preparatório), mas sim a contraprestação pelo serviço de comunicação propriamente dito prestado pelas concessionárias de telefonia, consistente no fornecimento, em caráter continuado, das condições materiais para que ocorra a comunicação entre o usuário e terceiro, o que atrai a incidência do ICMS.
+3. Fica aprovada a seguinte tese de repercussão geral: "O Imposto de Circulação de Mercadorias e Serviços (ICMS) incide sobre a tarifa de assinatura básica mensal cobrada pelas prestadoras de serviçode telefonia, independentemente da franquia de minutos conferida ou não ao usuário".
+4. Recurso extraordinário provido. (RE 912888,Relator(a):Min. TEORI ZAVASCKI, Tribunal Pleno, julgado em13/10/2016,ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-097 DIVULG09- 05-2017 PUBLIC 10-05-2017).
+Esta é a tese definida pelo STF relativa ao Tema 827: "o Imposto de Circulação de Mercadorias e Serviços (ICMS) incide sobre a tarifa de assinatura básica mensal cobrada pelas prestadoras de serviço de telefonia, independentemente da franquia de minutos conferida ou não ao usuário" (grifei).
+E não se aplica ao caso o entendimento contido no REsp nº1.176.753/RJ citado pela impetrante, uma vez que, conforme relatório do acórdão nele proferido, referia-se a "cobrança de ICMS sobre serviços de habilitação, troca de titularidade, conta detalhada, troca de aparelho, troca de número, religação, mudança de endereço de cobrança e de conta telefônicas, troca de aérea de registro, troca de plano de serviço e bloqueio MO e D01, relativos à prestação de serviços de telefonia", atividades diferentes à que se discute nestes autos.
+Desta forma, a pretensão da apelante não deve ser acolhida em razão da decisão proferida pelo Supremo Tribunal Federal.
+Pois bem.
+Quanto à alegada nulidade do acórdão de origem por negativa de prestação jurisdicional, vale destacar que essa não se configura, pois o Tribunal a quo, de forma clara e fundamentada, explicitou as razões pelas quais entendeu que a discussão acerca da natureza da assinatura mensal, a fim de afastar a aplicação de precedente obrigatório do STF, deveria ser discutida na esfera extraordinária.
+Nesse panorama, a insurgência da recorrente não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, não se confundindo, assim, com negativa de prestação jurisdicional.
+Em relação ao juízo de reforma, tem-se que o debate sobre a pertinência de aplicação da tese firmada no julgamento do aludido precedente vinculante à realidade desta causa, a modulação de efeitos e a eventual existência de equívoco por parte da Suprema Corte quando do exame da controvérsia é de índole constitucional, não competindo a este Tribunal Superior decidir sobre o alcance de julgado do Pretório Excelso.
+Vale ressaltar que, a despeito da verificação de que o óbice da Súmula 282 do STF não seria aplicável ao caso, há fundamentos suficientes para alcançar a conclusão de que o recurso especial efetivamente não merecia prosperar, como explicitado acima.
+Desse modo, como o julgado recorrido não ultrapassou ojuízo de admissibilidade no ponto, não há repercussão geral, consoante decidido no mencionado Tema n. 181/STF, sendo inviável a análise da violação constitucional apontada no recurso extraordinário.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
