@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por CELINA MARCELINO SILVA contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, o qual não admitiu recurso especial fundado na alínea "a" do permissivo constitucional, que desafia acórdão assim ementado (e-STJ fl. 117):
+Agravo Interno Decisão deste Relator que,ao receber recurso de agravo de instrumento, autoriza o processamento de execução pelo valor incontroverso, determinando, contudo, o aguardo do trânsito em julgado para permitir o levantamento do crédito Necessidade de cumprimento do disposto no parágrafo 5º do artigo 100da Constituição Federal.
+Recurso improvido.
+Embargos de declaração rejeitados (e-STJ fls. 126/129).
+No recurso especial obstaculizado, a parte recorrente apontouviolaçãodos arts. 356, § 2º, e 502 do CPC/2015, além de afronta ao Enunciado n. 31/de 09/06/2008,argumentando ser possível a "execução de imediato da obrigação reconhecida na decisão, diante da coisa julgada parcial" (e-STJ fl. 137).
+Afirma também que houve concordância da autarquia com a conta apresentada, porém, veio a se opor apenas em momento posterior, em que já havia ocorrido a preclusão, alegando inexigibilidade do título. Portanto, defende quenão há óbice que a execução prossiga com a expedição de precatório referente a parte incontroversa, em sede de execução contra a Fazenda Pública, diante da ocorrência da coisa julgada parcial.
+Sem contrarrazões.O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Segundo colhe-se dos autos, "a fase de conhecimento ainda não alcançou um desfecho final, pois o INSS interpôs recurso ao C. STJ, questionando cumulação de benefícios e critérios de apuração das parcelas atrasadas do auxílio acidente" (e-STJ fl. 94).
+Desse modo, observa-se ser necessário aguardar o desenrolar do recurso especial interposto na ação de conhecimento (autuado nesta Corte como REsp n. 1.959.057/SP), visto que eventual acolhimento da insurgência contra a cumulação de benefícios pode repercutir no cumprimento provisório da sentença.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO PROVISÓRIA EM FACE DA FAZENDA PÚBLICA. AUSÊNCIA DE VALOR INCONTROVERSO. APELAÇÃO. DUPLO EFEITO. DISCUSSÃO DA PRESCRIÇÃO EM EMBARGOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+1. A violação do artigo 535 do CPC não se efetivou no caso dos autos, uma vez que não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de tornar nula a decisão impugnada no especial. A Corte de origem apreciou a demanda de modo suficiente, havendo se pronunciado acerca de todas as questões relevantes. Saliente-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como de fato ocorreu na hipótese dos autos.
+2. É cediço que na obrigação de pagar quantia certa, o procedimento executório contra a Fazenda é o estabelecido nos arts. 730 e 731 do CPC que, em se tratando de execução provisória, deve ser aplicado em harmonia com as normas constitucionais, que determinam que a expedição de precatório ou o pagamento de débito de pequeno valor de responsabilidade da Fazenda Pública, decorrentes de decisão judicial, mesmo em se tratando de obrigação de natureza alimentar, pressupõem o trânsito em julgado da respectiva sentença.
+3. O acórdão recorrido deve ser mantido pelos seus próprios termos por espelhar a jurisprudência desta Corte Superior, segundo a qual mostra-se inviável a execução provisória contra a Fazenda Pública, nos casos de execução de valores incontroversos, pois ainda é objeto de embargos a alegação de prescrição no qual, se procedente, resultará na extinção da execução.
+4. Quanto à interposição do apelo pela alínea "c", com base na divergência jurisprudencial, aplicável o disposto na Súmula n. 83 do STJ.
+5. Recurso especial não provido.
+(REsp n. 1.271.184/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 15/9/2011, DJe de 21/9/2011) (Grifos acrescidos).
+In casu, colhe-se da movimentação processual do REsp n. 1.959.057/SP, que os autos encontram-se sobrestados, por decisão da Vice-Presidência desta Corte, a fim de aguardar o julgamento do Tema 599 do STF, acerca da cumulação de benefício acidentário com aposentadoria por invalidez.
+Impende registrar, outrossim, que a Corte Suprema, no julgamento do RE n. 1.205.530/SP (Tema 28), decidiu ser constitucional a expedição de precatório ou requisição de pequeno valor - RPV para pagamento de parcela incontroversa e autônoma de sentença transitada em julgado, como se lê:
+Surge constitucional expedição de precatório ou requisição de pequeno valor para pagamento da parte incontroversa e autônoma do pronunciamento judicial transitado em julgado observada a importância total executada para efeitos de dimensionamento como obrigação de pequeno valor.
+Desse modo, uma vez que não houve trânsito em julgado no caso concreto, merece ser mantido o acórdão recorrido.
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGO PROVIMENTO ao recurso especial.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento, além de a parte recorrente remanescer vencedora na causa principal.
+Publique-se. Intimem-se.
