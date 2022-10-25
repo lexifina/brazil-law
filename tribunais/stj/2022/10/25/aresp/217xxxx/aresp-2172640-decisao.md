@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por LAPENNA COMÉRCIO DE VEÍCULOS LTDAem face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - PRESTAÇÃO DE SERVIÇOS DE TELEFONIA - INADIMPLEMENTO DE FATURAS - AÇÃO DE COBRANÇA - FASE DE CUMPRIMENTO DE SENTENÇA - IMPUGNAÇÃO - REJEIÇÃO - ALEGAÇÃO DE FALTA DE DOCUMENTOS QUE INSTRUEM OS AUTOS DO CUMPRIMENTO DE SENTENÇA; NULIDADE DA CITAÇÃO E IRREGULARIDADE DA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS - AUTOS ADEQUADAMENTE INSTRUÍDOS - CITAÇÃO VÁLIDA - HONORÁRIOS DE SUCUMBÊNCIA AFASTADOS A TEOR DA SÚMULA 519 DO CPC - AGRAVO PARCIALMENTE PROVIDO
+Nas razões do recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, arecorrente aponta, além de divergência jurisprudencial, violação aos arts. 256 e 522,do CPC, sob o argumento de que o Tribunal de origem deu provimento em parte ao Agravo de Instrumento interposto pela recorrente, sob a alegação de que a exequente instruiu adequadamente o cumprimento de sentença com as peças obrigatórias e ainda que foram realizadas diversas tentativas de citação da empresa e em nome do seu representante legal em endereços distintos, todas infrutíferas, além da realização de pesquisas de endereços junto aos sistemas conveniados com o Tribunal, rejeitando assim a alegação de nulidade da citação.
+Aduz queé necessário esgotar todos os meios de citação para então ter a possibilidade da citação por edital e é evidente que não foram esgotados todos os meios possíveis, tanto da empresa como do sócio da mesma.
+A inadmissão do recurso especial se fez à consideração de que incide na espécie oóbicesumular7 do STJ, por necessidade de reexame de fatos e provas.
+Nas razões de agravo postula o processamento do recurso especial haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório. Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo a análise do especial.
+A pretensão não merece prosperar.
+A controvérsia dos autos foi resolvidapelo Tribunal de origem nos seguintes termos (e-STJ fl. 32):
+(..)
+A executada impugnou o cumprimento de sentença, alegando ausência de documentos essenciais ao incidente, notadamente cópias da ação originária, e nulidade da citação por edital.
+Verifica-se pelo exame dos autos que a exequente instruiu adequadamente o cumprimento de sentença com as peças obrigatórias: sentença e decisão de embargos de declaração, certidão de trânsito em julgado e o demonstrativo de débito atualizado, nos termos do art. 524, do CPC (fls. 1/16 dos autos de origem).
+No que concerne à alegação de nulidade da citação, constata-se nos autos da ação de cobrança nº 0072837-30.2012.8.26.0100,que foram realizadas diversas tentativas de citação da empresa e em nome do seu representante legal em endereços distintos, todas infrutíferas, além da realização de pesquisas de endereços junto aos sistemas conveniados com o Tribunal. O mandado de citação da ré foi expedido em 05/07/2013 e apenas em 01/09/2017expediu-se ofício à Defensoria Pública do Estado para que indicasse profissional para exercer as funções de Curador Especial à ré citada por edital. Todo o trâmite está descrito detalhadamente a fls. 21/26 da contraminuta.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem conforme a pretensão recursal,demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Por fim, o entendimento desta Corte Superior de Justiça é no sentido de que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada por óbice sumular no exame do recurso especial pela alínea "a" do permissivo constitucional.
+Neste sentido:
+ADMINISTRATIVO. ADICIONAL DE INSALUBRIDADE. APONTADA OFENSA AOS ARTS. 4º E 5º DA LINDB, 126 E 127 DO CPC/73. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. NORMA LOCAL. ANÁLISE. IMPOSSIBILIDADE. SÚMULA 280/STF. DISSÍDIO JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. O STJ entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por contrariados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. O exame da controvérsia acerca do pagamento do adicional de insalubridade foi realizado com amparo na legislação local (Lei Municipal 1.863/2009 e Decreto Municipal 44/2009), sendo sua análise vedada na via Especial, consoante Súmula 280/STF, aplicável por analogia.
+3. Prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular por ocasião do exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+4. Agravo Interno não provido. (AgInt no AREsp 932.880/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/11/2016, DJe 17/11/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIÇO DE TELEFONIA. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ACÓRDÃO RECORRIDO QUE CONCLUIU PELA REGULARIDADE DOS AUTOS E CITAÇÃO VÁLIDA BASEADO NAS PROVAS DOS AUTOS. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA PROBATÓRIA. ÓBICE DA SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
