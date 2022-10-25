@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por Empresa de Transportes Nossa Senhora da Conceição Ltda. contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que o agravado ajuizou ação indenizatória, julgada parcialmente procedente.
+Interposta apelação pela ora insurgente, a Segunda Turma da Primeira Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Norte negou provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 167):
+DIREITO CIVIL E PROCESSUAL CIVIL. ACIDENTE DE TRÂNSITO. ALEGAÇÃO DE CULPA EXCLUSIVA DA VÍTIMA. AUSÊNCIA DE PROVAS NESTE SENTIDO. CULPA CONCORRENTE RECONHECIDA. IMPRUDÊNCIA DO CONDUTOR DO VEÍCULO DE PROPRIEDADE DA DEMANDADA RECONHECIDA. RESPONSABILIDADE CIVIL QUE SE RECONHECE. DANO MATERIAL. IMPOSSIBILIDADE DE REVISAR A MATÉRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. DANO MORAL CONFIGURADO. FRATURA EXPOSTA EM MEMBRO SUPERIOR. VALOR ARBITRADO EM VALOR COERENTE. PRESERVAÇÃO DOS CRITÉRIOS DE RAZOABILIDADE E PROPORCIONALIDADE. RECURSO DE APELAÇÃO CONHECIDO E DESPROVIMENTO. SENTENÇA MANTIDA INTEGRALMENTE.
+Nas razões do recurso especial, interposto com fundamento na alínea a do permissivo constitucional, a recorrente alegou violação dos arts. 422, 944, parágrafo único, e 953 do Código Civil; e 6º, VI, do Código de Defesa do Consumidor.
+Sustentou, em síntese, que o julgado não observou o método bifásico nem as circunstâncias do caso para o arbitramento do valor da indenização por danos morais, haja vista que deixou de analisar a culpa concorrente; a ausência de sequelas no recorrido e a inexistência de incapacitação em decorrência do acidente.
+Sem contrarrazões, fl. 217 (e-STJ).
+O processamento do recurso especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta não apresentada, fl. 230 (e-STJ).
+Brevemente relatado, decido.
+De início, observa-se que a jurisprudência deste Superior Tribunal é no sentido de que a redução ou a majoração do quantum indenizatório a título de dano moral é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. VEICULAÇÃO DE NOTÍCIA OFENSIVA. DANO MORAL. CONFIGURAÇÃO. ALTERAÇÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INVIABILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido quanto à ocorrência de danos morais exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula n. º 7 do STJ.
+3. A jurisprudência desta Corte também é firme no sentido de que a redução ou a majoração do quantum indenizatório a título de dano moral é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula n.º 7 do STJ. Proporcionalidade e razoabilidade observadas no caso dos autos, a justificar a manutenção do valor fixado.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.066.356/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO INDENIZATÓRIA. DANO MORAL. REVISÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. VALOR DA INDENIZAÇÃO. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem analisou a prova dos autos para concluir pela configuração do dano moral. Alterar tal conclusão é inviável em recurso especial.
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra desproporcional, a justificar sua reavaliação em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.110.006/GO, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+Na espécie, o Tribunal estadual, observadas as peculiaridades da causa, assim se manifestou (e-STJ, fls. 170-172):
+No caso em discussão, as provas colacionadas aos autos ensejam a conclusão de que o condutor do veículo da requerida deslocou-se em velocidade incompatível e em distância demasiado próxima do automóvel do autor, não sendo possível identificar culpa exclusiva deste último.
+Para o momento, o exame atento do lastro probatório reunido, permite antever que a conduta do preposto da apelante foi concorrente para o sinistro, de modo a estabelecer que a responsabilização do recorrente não será total, mas será atenuada nos limites de seus atos.
+Quanto à caracterização da culpa concorrente, constata-se que esta decorre da presença de elementos materiais que situam o proceder do preposto da apelante como causa eficiente do acidente, sendo imperativa a confirmação da sentença nesta conclusão.
+Destarte, verificada a responsabilidade do condutor do veículo da requerida pelo surgimento do ato que dá gênese ao dano, impõe-se o dever de indenizar, não existindo motivos para reforma da sentença neste aspecto.
+Em relação ao tema anterior, verifico que a apelante não promoveu impugnação específica ao tópico da sentença que estabeleceu sua condenação por danos materiais.
+Desta feita, havendo comprovação suficiente do prejuízo material ensejado, se impõe a confirmação da condenação da demandada a tal título, não sendo sequer viável o reexame da matéria por ausência de impugnação específica.
+Por outro lado, demonstram os autos que em razão do acidente, sofreu o requerente fratura exposta em sua mão, sendo submetido a intenso tratamento de urgência, necessitando de intervenção cirúrgica para correção do problema.
+Do mesmo modo, em razão do sinistro, teve que afastar-se de suas ocupações habituais, sem ter recebido jamais qualquer suporte ou auxílio da empresa demandada, sendo patente a ocorrência dos danos morais reclamados na inicial.
+Inconteste, portanto, a dor física e sofrimento psicológicos a que se sujeitou o autor por fato para o qual concorreu a demandada, impondo-se a composição dos danos morais por meio da prestação indenizatória respectiva.
+Quanto ao montante devido, ainda que não exista imperativo legal para se chegar ao arbitramento da indenização pelos danos morais, deve o julgador valer-se de parâmetros que revelem a apreciação das circunstâncias que identifiquem a perfectibilização do dano; a identificação da parte vitimada e do causador do gravame, analisando-se as características pessoais de cada parte; a repercussão social do abalo; a capacidade econômica da parte vitimada e do causador do abalo e da possibilidade de composição do agravo em pecúnia.
+(..)
+Não é tarefa fácil para o magistrado fixar o quantum adequado à reparação do dano moral. O bom senso recomenda ao julgador analisar também a intensidade e duração do sofrimento aliada à conduta das partes diante do fato.
+Além disso, o valor da indenização deve alcançar um montante que não onere em demasia à parte ré, mas que, por outro lado, atenda à finalidade para a qual foi concedida, compensando o sofrimento da vítima e desencorajando a parte demandada quanto a outros procedimentos de igual natureza.
+No feito em tela, houve o arbitramento da prestação indenizatória respectiva no valor de R$ 20.000,00 (vinte mil reais), sendo a empresa requerida condenada ao pagamento de 50% (cinquenta por cento) deste valor, motante este que se mostra suficiente a reparar o ato lesivo, obedecendo, pois, aos princípios da razoabilidade e da proporcionalidade.
+Desse modo, percebe-se que as questões postas nos autos foram adequadamente analisadas pelo Tribunal de Justiça ao concluir que o valor arbitrado em R$ 20.000,00 (vinte mil reais), sendo a empresa requerida condenada ao pagamento de 50% (cinquenta por cento) deste valor, a título de indenização por danos morais, afigura-se razoável ao caso em apreço.
+Outrossim, a revisão do entendimento acerca do valor da indenização por dano moral esbarra no teor da Súmula 7/STJ, salvo nos casos de fixação de montante irrisório ou excessivo, o que não ocorre no caso, pois a quantia estabelecida em segunda instância se revela proporcional e razoável.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários sucumbenciais nos termos do art. 85, § 11, do CPC/2015 por já terem sido fixados no limite máximo.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DANO MORAL. REVISÃO DO VALOR FIXADO. IMPOSSIBILIDADE. REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
