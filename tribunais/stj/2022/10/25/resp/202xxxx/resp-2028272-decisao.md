@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por FAZENDA NACIONAL, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"TRIBUTÁRIO. EXCLUSÃO DA SELIC DA BASE DE CÁLCULO DO IRPJ, CSLL, PIS E COFINS.
+Deve ser afastada a incidência do imposto de renda (IR) e da contribuição social sobre o lucro líquido (CSLL) sobre a taxa SELIC recebida pelo contribuinte na repetição de indébito. Precedentes deste Regional. Da mesma forma, merece acolhida o pedido relativamente às bases de cálculo do PIS e da COFINS" (fl. 255e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 266/271e), os quais restaram rejeitados (fl. 279e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aos arts.1º da Lei 10.637/2002 e1º da Lei 10.833/2003,sustentando, em síntese, aincidência da remuneração de tributos repetidos ou depositados em garantia pela SELIC na base de cálculo das contribuições para PIS e COFINS.
+Por fim, requer "seja conhecido e provido e presente recurso para reformar o v. acórdão recorrido, a fim de restabelecer a vigência ao disposto nos artigos acima referidos, julgando a ação improcedente, na parte em que envolve a exigibilidade da COFINS e do PIS sobre os montantes correspondentes à Taxa Selic recebidos pela impetrante em virtude de repetição de indébito tributário, consoante a fundamentação acima" (fl. 301e).
+Contrarrazões a fls. 321/328e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fl. 355e).
+A irresignação merece prosperar.
+No tocante à controvérsia, o Tribunal assim se pronunciou:
+"A divergência pontual que apresento é para estender a não incidência de tributo sobre a taxa Selic recebida em razão de repetição de indébito tributário, especificamente para o PIS e a COFINS Em tais casos, o acréscimo da Taxa SELIC na devolução de tributos indevidamente cobrados releva caráter indenizatório, compensando as perdas decorrentes da indisponibilidade de recursos, não implica elevação de capacidade contributiva e, portanto, não pode ser considerada receita tributável, sob pena de violação ao art. 145, § 1º, da CF.
+Acerca do assunto, lembro a lição de Sacha Calmon Navarro Coelho: "os juros moratórios em tema tributário, a cobrança deles, visa a indenizar o credor pela indisponibilidade do dinheiro na data fixada em lei parao pagamento da prestação (fixação unilateral de indenização). Devem ser razoáveis, pena de iniqüidade (..) Adicionalmente cumprem papel de assinalada importância como fator dissuasório de inadimplência fiscal, por isso que, em época de crise ou mesmo fora dela, no mercado de dinheiro busca-se o capital onde for mais barato. O custo da inadimplência fiscal deve, por isso, ser pesado, dissuasório, pela cumulação da multa , da correção monetária e dos juros." (Teoria e Prática das Multas Tributárias, RJ: Forense, 1995).
+Se a taxa SELIC também é espécie indenização recebida pelo Fisco pelo pagamento intempestivo de tributos, a mesma natureza jurídica deve ser reconhecida quando a SELIC incide em favor do contribuinte" (fls. 248/249e).
+Ocorre que, nos termos da jurisprudência dessa Corte Superior, os juros equivalentes à taxa Selic, sejam eles incidentes sobre o indébito tributário recuperado ou sobre os depósitos judiciais de tributos sujeitos a levantamento pelo contribuinte, constituem receita tributável, ou seja, compõem a base de cálculo da contribuição do PIS e da COFINS.
+Nesse diapasão:
+"TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PIS E COFINS. BASES DE CÁLCULO. TAXA SELIC. INCLUSÃO.
+1. Os valores referentes à incidência da taxa Selic (correção e juros) na repetição do indébito devem incluir a base de cálculo da contribuição ao PIS e da COFINS. Precedentes.
+2. Agravo interno a que se nega provimento" (STJ, AgInt no REsp 1.906.715/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 14/06/2021).
+"TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. CONTRIBUIÇÃO AO PIS E COFINS. TAXA SELIC (JUROS E CORREÇÃO). INCIDÊNCIA.
+1. Por ocasião da repetição do indébito tributário, a parcela derivada da incidência da taxa selic (juros e correção) deve compor as bases de cálculo da contribuição ao PIS e da COFINS.
+2. No caso dos autos, está em conformidade com essa orientação o acórdão proferido pelo TRF da 4ª Região, segundo o qual "os valores atinentes aos juros moratórios e correção monetária pela taxa SELIC constituem receita (financeira) nova, que não se vinculam à natureza do crédito principal, para fins de tributação de PIS e COFINS".
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.888.365/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 28/04/2021).
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRIBUIÇÃO AO PIS E COFINS. BASES DE CÁLCULO. TAXA SELIC. INCLUSÃO. TESE GENÉRICA. INADMISSIBILIDADE.
+1. A alegação de violação dos arts. 489 e 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF.
+2. Conforme regramento processual vigente, na via do recurso especial, o prequestionamento ficto previsto no art. 1.025 do CPC/2015 está condicionado ao reconhecimento da violação do art. 1.022 do CPC/2015. Precedentes.
+3. Na linha do entendimento jurisprudencial da Primeira Seção, os valores referentes à incidência da taxa Selic (correção  juros) na repetição do indébito devem incluir a base de cálculo da contribuição ao PIS e da COFINS. Precedentes.
+4. Agravo interno não provido" (STJ, AgInt nos EDcl no REsp 1.848.930/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 11/02/2021).
+Destarte, estando o acórdão recorrido em confronto com o entendimento dominante desta Corte, aplica-se, ao caso, o entendimento consolidado na Súmula 568 desta Corte, in verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, a fim de declarar aincidência de PIS/COFINS sobre os montantes correspondentes à Taxa Selic recebidos em virtude de repetição de indébito tributário.
+I.
