@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 19/10/2022 a 25/10/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra acórdão da Segunda Turma do STJ, com a seguinte ementa:
+PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTO. OBRIGAÇÃO SOLIDÁRIA. LEGITIMIDADE DO ESTADO-MEMBRO. ORIENTAÇÃO RATIFICADA PELO STF. TEMA 793/STF. RECURSO NÃO PROVIDO.
+1. É pacífico na jurisprudência o entendimento segundo o qual a União, os Estados, o Distrito Federal e os Municípios possuem responsabilidade solidária nas demandas prestacionais na área de saúde, o que autoriza que sejam demandados isolada ou conjuntamente pela parte interessada.
+Nesse sentido: AgInt no REsp 1.043.168/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 17/03/2020.2.
+2. A ressalva contida na tese firmada no julgamento do Tema 793 pelo Supremo Tribunal Federal, quando estabelece a necessidade de se identificar o ente responsável a partir dos critérios constitucionais de descentralização e hierarquização do SUS, relaciona-se ao cumprimento de sentença e às regras de ressarcimento aplicáveis ao ente público que suportou o ônus financeiro decorrente do provimento jurisdicional que assegurou o direito à saúde. Entender de maneira diversa é afastar o caráter solidário da obrigação, o qual foi ratificado no precedente qualificado exarado pelo STF.
+3. Cumpre salientar que não se está refutando, in casu, o disposto na Súmula na 224/STJ, que dispõe: "Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos, e não suscitar conflito". Com efeito, por se observar que as dúvidas sobre a interpretação do Tema 793 do STF estão gerando decisões em sentidos diversos, tanto na Justiça Estadual, como na Justiça Federal, o que traz instabilidade e insegurança jurídica, causando também prejuízo às partes demandantes em tais feitos, que constituem demandas cujas pretensões são como regra urgentes, torna-se fundamental a manifestação do STJ, de modo a reafirmar sua jurisprudência que já se encontra consolidada, definindo-se imediatamente o Juízo competente para o julgamento da causa. Nesse cenário, considerando-se as premissas estabelecidas, devem ser observadas as Súmulas 150/STJ e 254/STJ.
+4. Agravo Interno não provido.
+Em síntese, a parte embargante alega:
+(..)
+Necessário a correção da omissão ora apontada porquanto, em linhas gerais, pacificou-se no Tema 793 pelo STF que, não obstante a solidariedade existente entre os entes em matéria de direito à saúde, o juiz tem o dever de direcionar ao ente correto a responsabilidade pelo financiamento do tratamento; faz-se necessário, assim, que o verdadeiro responsável pelo fornecimento do medicamento esteja presente na relação processual, a fim de discutir e exercer o seu direito ao contraditório.
+Daí que se torna, com todo o respeito, doravante inaplicável nessa particular temática, as súmulas 150, 224 e 254 deste Colendo Superior Tribunal de Justiça, já que, pela decisão vinculante da Suprema Corte cabe a todo juiz zelar pela deferência à sistemática de atribuições e competências do SUS e incluir na demanda, se assim for o caso (como é o presente), a União para responder, ao menos, financeiramente, com os custos inerentes ao cumprimento de eventual determinação judicial de fornecimento de medicamentos.
+(..)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. FORNECIMENTO DE MEDICAMENTO. OBRIGAÇÃO SOLIDÁRIA. LEGITIMIDADE DO ESTADO-MEMBRO. ORIENTAÇÃO RATIFICADA PELO STF. TEMA 793/STF. RECURSO NÃO PROVIDO.
+1. O acórdão embargado foi bastante claro ao decidir que a ressalva contida na tese firmada no julgamento do Tema 793 pelo Supremo Tribunal Federal, quando estabelece a necessidade de se identificar o ente responsável com base nos critérios constitucionais de descentralização e hierarquização do SUS, relaciona-se ao cumprimento de sentença e às regras de ressarcimento aplicáveis ao ente público que suportou o ônus financeiro decorrente do provimento jurisdicional que assegurou o direito à saúde. Entender de maneira diversa seria afastar o caráter solidário da obrigação, o qual foi ratificado no precedente qualificado exarado pela Suprema Corte.
+2. O Recurso foi desprovido com fundamento claro e suficiente, inexistindo omissão, contradição, obscuridade ou erro material no acórdão embargado.
+3. Os argumentos da parte embargante denotam mero inconformismo e intuito de rediscutir a controvérsia, não se prestando os Aclaratórios a esse fim.
+4. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 28.9.2022.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Eles constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na hipótese dos autos, o acórdão embargado foi bastante claro ao decidir que a ressalva contida na tese firmada no julgamento do Tema 793 pelo Supremo Tribunal Federal, quando determina a necessidade de se identificar o ente responsável com base nos critérios constitucionais de descentralização e hierarquização do SUS, relaciona-se ao cumprimento de sentença e às regras de ressarcimento aplicáveis ao ente público que suportou o ônus financeiro decorrente do provimento jurisdicional que assegurou o direito à saúde.
+Entender de maneira diversa é afastar o caráter solidário da obrigação, o qual foi ratificado no precedente qualificado exarado pelo Supremo Tribunal Federal (STF).
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada, nem a prequestionar dispositivos constitucionais.
+Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 09/09/2008, DJe 14/10/2008)
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Diante do exposto, rejeito os Embargos de Declaração.
+É como voto.
