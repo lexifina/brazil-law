@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelo INSS, com base no art. 105, III, "a" da CF/88, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado(fl. 170):
+ACIDENTÁRIA. CONDIÇÕES AGRESSIVAS. LESÕES POR ESFORÇOS REPETITIVOS NO MEMBRO SUPERIOR DIREITO - SENTENÇA DE PROCEDÊNCIA - LAUDO MÉDICO CONCLUSIVO - INCAPACIDADE PARCIAL E PERMANENTE E LIAME OCUPACIONAL RECONHECIDOS - AUXÍLIO ACIDENTE DEVIDO - IRRESIGNAÇÃO DO OBREIRO - DESCABIMENTO - TERMO INICIAL MANTIDO NA DATA DA APRESENTAÇÃO DO LAUDO PERICIAL EM JUÍZO - FIXAÇÃO DE JUROS E CORREÇÃO MONETÁRIA.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso, sustenta a autarquiaviolaçãodo art. 31 da Lei n. 10.741/03; art. 41-Ada Lei n. 8.213/91, com a redação dada pela Lei n. 11.430/06; art. 5ºda Lei n. 11.906/2009 e o art. 1º-F da Lei n. 9.494/1997.
+Contrarrazões às fls. 266-272.
+Em juízo de retratação, o Tribunal a quo proferiu novo acórdão, nos seguintes termos (fl. 280):
+AÇÃO ACIDENTÁRIA REEXAME EM RECURSO REPETITIVO, NOS TERMOS DO ART. 1.040, CAPUT", INCII, DO CPC  CORREÇÃO MONETÁRIA INCIDÊNCIA DO "INPC" ATÉ 29.06.2009" E, A PARTIR DE ENTÃO, DO "IPCA-E", CONSOANTE ENTENDIMENTO DO STJ, FIXADO NO JULGAMENTO DO TEMA 905, BEM COMO DO STF, FIXADO NOJULGAMENTO TEMA 810:
+Sobreveio juízo de admissibilidade positivo da instância de origem (fls. 288-289).
+É, no essencial, o relatório.
+No caso dos autos, verifica-se que o Tribunal de origem, em juízo de retratação realizado nos termos do art. 1.040, II, do CPC, proferiu novo julgamento, alterando o entendimento anteriormente exarado (fl. 210).
+Assim, como houve alteração do fundamento adotado pela Corte de origem, a ratificação do recurso com relação a essa matéria seria medida de rigor. Ocorre que o recorrente não promoveu a necessária ratificação do apelo nobre, o que enseja o não conhecimento do especial. Incidência, por analogia e mutatis mutandis, da Súmula n. 579 do STJ, in verbis:
+Não é necessário ratificar o recurso especial interposto na pendência do julgamento dos embargos de declaração, quando inalterado o resultado anterior.
+No mesmo sentido, cito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ACIDENTÁRIA. BENEFÍCIO DEFERIDO. CORREÇÃO DOS VALORES EM ATRASO. INDEXADOR. TEMAS 905/STJ e 810/STF. ADEQUAÇÃO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ. APLICAÇÃO. PRECEDENTES.
+1. Trata-se de Agravo Interno contra decisão que entendeu necessária a ratificação do Recurso Especial quando o juízo de retratação modificar o acórdão para adequação aos temas repetitivos ou de repercussão geral, - In casu, os Temas 905/STJ e 810/STF - a contrario sensu da Súmula 579/STJ.
+2. De acordo com o art. 1.041, § 2º, do referido diploma legal, "quando ocorrer a hipótese do inciso II do caput do art. 1.040 (seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (artigo 1.040, II, do CPC/2015), e o recurso versar sobre outras questões, caberá ao presidente ou ao vice-presidente do Tribunal recorrido, depois do reexame pelo órgão de origem e independentemente de ratificação do recurso, sendo positivo o juízo de admissibilidade, determinar a remessa do recurso ao Tribunal Superior para julgamento das demais questões". Diretriz metodológica que, por certo, deve alcançar também aqueles feitos que já tenham ascendido ao STJ.
+3. O Recurso Especial não tratou de questões outras. O Tribunal a quo, em juízo de retratação, proferiu novo julgamento e modificou o entendimento anteriormente exarado. Dessa forma, como houve alteração do fundamento adotado pela Corte de origem, a ratificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia, da Súmula 579/STJ. Precedentes.
+4. Agravo Interno não provido. (AgInt no REsp n. 1.903.067/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 8/3/2021, DJe de 16/3/2021.)
+PROCESSUAL CIVIL. INTERESSE RECURSAL. BINÔMIO NECESSIDADE/UTILIDADE. AUSÊNCIA. RECURSO ESPECIAL. JUÍZO DE RETRATAÇÃO NA ORIGEM. RATIFICAÇÃO DO APELO. NECESSIDADE. 1. Consoante o entendimento desta Corte, caso o exame da questão não traga nenhum resultado prático à parte recorrente, fica afastado o binômio utilidade/necessidade, com a configuração da ausência de interesse recursal.
+2. Consoante o entendimento do STJ, havendo a alteração do fundamento adotado pela Corte de origem, a ratificação do apelo nobre anteriormente interposto é obrigatória, sob pena de aplicação, por analogia, da Súmula 579 do STJ.
+3. Agravo interno parcialmente conhecido e desprovido. (AgInt no REsp n. 1.959.776/RS, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 14/3/2022, DJe de 22/3/2022.)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
