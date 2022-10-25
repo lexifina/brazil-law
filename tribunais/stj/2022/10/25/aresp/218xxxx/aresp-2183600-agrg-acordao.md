@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI (RELATOR):
+O MINISTÉRIO PÚBLICO FEDERALinterpõe agravo regimental contra decisão de minha relatoria, em que conheci do agravo, para dar provimento ao recurso especial, a fim de reconhecer a incidência da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 em favor do acusado,aplicá-la no patamar de 2/3e, por conseguinte, reduzir a sua reprimenda para 1anos e 8meses de reclusão e pagamento de 164dias-multa, fixar regime aberto e determinar a substituição da pena privativa de liberdade por restritiva de direitos.
+O agravante afirma, em síntese, que o redutor não foi afastado pelo Tribunal de origem somente em razão da quantidade da droga apreendida, pois o magistrado de primeiro grau destacou "o relatório da inteligência policial que aponta a participação de forma reiterada por parte do agravado no tráfico de drogas" (fl. 377).
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja afastada a aplicação da minorante.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. ATerceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do REsp n. 1.977.027/PR (Rel. Ministra Laurita Vaz, acórdão pendente de publicação), submetido ao rito dos recursos repetitivos, fixou a tese de que évedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06.
+2. Ofato de o acusado estar na companhia de outras pessoas,configura mero concurso de agentes para a prática do crime de tráfico de drogas, não podendo tal circunstância levar a crer que ele seria dedicado a atividades criminosas.
+3. Aquantidade da substância trazida pelo réu não foi tão expressiva (256 g de cocaína)a ponto de levar à conclusão de que ele não ostente a condição de traficante eventual, de modo a não ser merecedor da minorante em questão.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI (RELATOR):
+Em que pesem os argumentos despendidos pelo agravante, entendo que não lhe assiste razão.
+O Juiz de primeiro grau entendeu pela não incidência da minorante considerando que o acusado"participa do tráfico de drogas, na companhia de outras pessoas, também envolvidas com a criminalidade, no mesmo local em que ocorreu a sua abordagem.Além disso, o relatório de fls. 27/29 noticia que o acusado é contumaz na prática de crimes, inclusive o tráfico de drogas" (fl. 195, grifei).
+O Tribunal de origem, por sua vez, manteve a não aplicação da causa de diminuição de penadescrita no § 4º do art. 33 da Lei n. 11.343/2006, pelos seguintes fundamentos (fl. 303, grifei):
+Ressalta-se que não há que se falar em concessão ao acusado do privilégio previsto no art. 33, §4 1 , da Lei 11.343/06, eis que a imensa quantidade de droga apreendida (256,0g de cocaína - f. 12 e f. 22123), aliada às demais circunstâncias que envolveram o delito, obstam a concessão do privilégio, porquanto evidenciam que o acusado possuía certo grau de envolvimento com organização criminosa voltada para a prática do tráfico de entorpecentes ou, pelo menos, que se dedicava a essa atividade criminosa.
+No caso, conforme visto, as instâncias de origem justificarama impossibilidade de incidência do redutor em questão em razão de haver notícias da prática reiterada de crimes pelo acusado; pela quantidade de droga apreendida e pelo fato de o réu estar na companhia de outros traficantes, circunstâncias que levariam à conclusão de que ele seria dedicado a atividades criminosas.
+Quanto ao primeiro argumento, em sessão ocorrida no dia 10/8/2022, a Terceira Seção desta Corte Superior de Justiça, por ocasião do julgamento do REsp n. 1.977.027/PR (Rel. Ministra Laurita Vaz, acórdão pendente de publicação) - submetido ao rito dos recursos repetitivos -, fixou a seguinte tese:
+É vedada a utilização de inquéritos e/ou ações penais em curso para impedir a aplicação do art. 33, § 4.º, da Lei n. 11.343/06.
+O Supremo Tribunal Federal também possui idêntica compreensão acerca da matéria. Exemplificativamente, menciono, por todos, o HC n. 173.806/MG, de relatoria do Ministro Marco Aurélio (DJe 9/3/2020), cujo acórdão ficou assim ementado:
+PENA - FIXAÇÃO - ANTECEDENTES - INQUÉRITOS E PROCESSOS EM CURSO - DESINFLUÊNCIA.
+O Pleno do Supremo, no julgamento do recurso extraordinário nº 591.054, de minha relatoria, assentou a neutralidade, na definição dos antecedentes, de inquéritos ou processos em tramitação, considerado o princípio constitucional da não culpabilidade.
+PENA - CAUSA DE DIMINUIÇÃO - ARTIGO 33, § 4º, DA LEI Nº 11.343/2006 - ATIVIDADES CRIMINOSAS - DEDICAÇÃO - PROCESSOS EM CURSO.
+Revela-se inviável concluir pela dedicação do acusado a atividades criminosas, afastando-se a incidência da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/2006, considerado processo-crime em tramitação.
+No tocante ao fato de oacusado estar "na companhia de outras pessoas, também envolvidas com a criminalidade" (fl. 195), entendo que configura mero concurso de agentes para a prática do crime de tráfico de drogas, não podendo tal circunstância levar a crer que eleseria dedicadoa atividades criminosas.
+Por fim, embora a quantidade da droga apreendida constitua, de fato, elementoconcretoe idôneoa denotar a dedicação do acusado a atividades criminosas,entendo que a quantidade da substância trazida pelo réu não foi tão expressiva (256 g de cocaína), a ponto de levar à conclusão de que ele não ostente a condição de traficante eventual, de modo a não ser merecedor da minorante em questão.
+Consequentemente, à ausência de fundamento suficiente o bastante para justificar o afastamento da causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006, deve ser mantida inalterada a decisão ora agravadano ponto em que aplicou, em favor do réu, o referido benefício.
+À vista do exposto, nego provimento ao agravo regimental.
