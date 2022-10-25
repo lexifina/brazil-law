@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MATHEUS PATRÍCIO DA SILVA, denunciado por infração aoart.2º da Lei n. 12.850/2013,aoart.155, § 4º, incs.II e IV, por 02 vezes, n/fdos arts.29 e 71do Código Penale no artigo 1º, § 1º, II, e § 4º, da Lei nº 9.613/1998, por 02 vezes, n/fdo artigo 29 e 71, ambos do Código Penal, todos em concurso material de delitos,contra decisão proferida pelo Desembargador Relator do Tribunal de Justiça do Estado de SãoPaulo que indeferiu medida liminar nos autos do HC2249248-48.2022.8.26.0000.
+Na presente oportunidade, a defesa reitera a alegaçãode excesso de prazo na formaçãoda culpa, sustentando, em síntese, violaçãoao princípio da razoável duraçãodo processo e desídia do magistrado na conduçãodo feito.
+Afirma que a decisão que indeferiu a liminar apresenta-se genérica.
+Acrescenta que, embora a instrução tenha sido encerrada, ainda não foi proferida a sentença e que, diante da complexidade do feito, não há previsão para a apresentação das alegações finais dos outros corréus.
+Pugna, liminarmente e no mérito, pela concessão da prisão domiciliar com uso de tornozeleira eletrônica, ou, subsidiariamente, seja o feito desmembrado em relação ao paciente.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso,o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator, o qual, ao indeferir a liminar, aduziu o seguinte (e-STJ fl. 24):
+Trata-se de "habeas corpus", com pedido liminar, ao argumento de que o paciente estaria sofrendo constrangimento ilegal, em razão do excesso de prazo na formação da culpa.
+Ponderam os impetrantes que a prisão é de 20.05.2021 e que, mesmo já tendo sido encerrada a instrução aos 26.05.2022, até o momento, o processo não foi sentenciado, estando no aguardo das alegações finais dos demais envolvidos. Argumentam, ainda, com o indeferimento do pleito de desmembramento do feito em relação ao paciente. Pedem, por fim, a expedição de alvará de soltura ou a concessão de prisão albergue domiciliar.
+A despeito dos argumentos expendidos na impetração, àscircunstâncias de fato e de direito não autorizam a concessão da liminar, pois não se vislumbram o fumus boni juris e o periculum in mora ensejadores da medida.
+O juízo cognitivo desta fase possui âmbito restrito, razãopela qual a concessão da liminar deve motivar-se na flagrante ilegalidade do ato ou no abuso de poder da autoridade, justificando
+assim, a suspensão imediata de seus efeitos.
+Não é o que ocorre na espécie, eis que não desponta de plano o alegado constrangimento ilegal.
+E, em princípio, parece não ter decorrido lapso temporal desarrazoado até aqui, diante dos atos realizados e pendentes, tema que, porém, será mais bem examinado a final.
+Então, num primeiro exame, não se vê desídia do r. juízo, o qual, outrossim, bem justificou a custódia cautelar.
+Por conseguinte, INDEFIRO o pedido liminar. Requisitem-se as informações, nos termos do art. 662 do Código de Processo Penal, junto à autoridade ora apontada como coatora.
+A seguir, remetam-se os autos à D. Procuradoria Geral de Justiça para parecer. Intimem-se.
+Com efeito, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional, o que não se verifica no caso em exame, notadamente diante do registro de que "o processo não foi sentenciado, estando no aguardo das alegações finais dos demais envolvidos" (e-STJ, fl. 130), contexto que atrai a aplicação do enunciado n. 52 da Súmula desta Corte.
+Ademais, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.
+Entendo, portanto, não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
