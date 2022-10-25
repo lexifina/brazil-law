@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravos em recurso especial apresentados pelaPORTONOVO EMPREENDIMENTOS & CONSTRUCOES LTDA. e pela FUNDAÇÃO UNIVERSIDADE FEDERAL DO RIO GRANDE contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, III, "a" da Constituição Federal.
+Passo a decidir.
+Impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, nos termos doart. 932, III, do CPC/2015 e do art. 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014)
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+No caso, da análise dos autos, verifico que a inadmissão dos recursos especiais se deu com base nosseguintesfundamentos: Súmula 7 do STJ, Súmula 5 do STJ e, no caso do recurso interposto por PORTONOVO EMPREENDIMENTOS & CONSTRUCOES LTDA., também naSúmula 284 do STF.
+Entretanto, os agravantes deixaramde impugnar específica e adequadamente os aludidos óbices.
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+Em relação às Súmulas 5 e 7 do STJ, é de rigor que, além da contextualização do caso concreto, a impugnação contenha as devidas razões pelas quais se entende ser possível o conhecimento da pretensão independentemente do reexame fático-probatório e da interpretação de cláusulas contratuais, mediante, por exemplo, a apresentação do cotejo entre as premissas fáticas e as conclusões delineadas no acórdão recorrido e sua tese recursal, a fim de demonstrar a prescindibilidade do reexame fático-probatório.
+No caso doagravante PORTONOVO EMPREENDIMENTOS & CONSTRUCOES LTDA., nem sequer houve argumentação sólidapara que pudessem ser rebatidos os fundamentos da decisão agravada, tendo ela se limitado a aduzir, genericamente, que (e-STJ fl. 3.687):
+Nem há falar nas Súmulas 07 e 05 do STJ. O acórdão recorrido não supriu as omissões apontadas e a decisão agravada também não se dignou a indicar em que ponto as questões omitidas teriam sido efetivamente abordadas. Assim, a questão é de direito. Trata-se pura e simplesmente de confrontar o acórdão recorrido com os embargos de declaração - apenas duas peças processuais perfeitamente identificadas - o que não exige nenhum "revolvimento do conjunto probatório", nem "reapreciação de interpretação de cláusulas contratuais". É só ler e comparar.
+De igual forma, o agravante não se desincumbiu do ônus de rebater o óbice da Súmula284 do STF, ao simplesmente afirmar que"a decisão agravada não consegue demonstrar a incidência da Súmula 284 do Supremo Tribunal Federal, que nada tem a ver com o recurso indeferido. Nenhum juiz está dispensado de um mínimo esforço para compreender as questões submetidas ao seu julgamento, e a agravante demonstrou minuciosamente a negativa de vigência do art.1.022 do Código de Processo Civil" (e-STJ fl. 3.688).
+Como já pontuado, cabe ao agravante impugnar de forma específica e adequada os fundamentos da decisão agravada, não bastando afirmar que a decisãoestá incorreta ou reproduzir os argumentos já esposados anteriormente no recurso especial, sem indicar as razões concretas da sua irresignação e demonstrar, por meio do cotejo entre a decisão denegatória, o recurso interposto e o acórdão recorrido, que o apelo merece ser conhecido.
+A agravante FUNDAÇÃO UNIVERSIDADE FEDERAL DO RIO GRANDE, por sua vez,limitou-se a reproduzir as alegações apresentadas em seu apelo nobre, inclusive colacionando parte do recurso, sem, contudo, indicar concretamente por quais razões essasalegações dispensariam um reexame fático-probatório e interpretação de cláusulas contratuais, como demonstra o trecho a seguir (e-STJ fl. 3.707):
+Ao contrário do assentado, tem-se questão de direito, não havendo qualquer necessidade de se revolver matéria fática. Tampouco se está a discutir qualquer cláusula contratual.
+Sustenta-se, no REsp, que foram violados os arts. 1º, § 2º, da Lei 6899/81; 56, § 4º, 58, II, 67, 68, 78, 79, 80, 86, 87 da Lei 8666/93, 485, VI, do CPC, 188, I, do CC. A matéria é de direito e nada há de simples interpretação de cláusula contratual.
+A autarquia federal partiu das premissas já delineadas no v. Acordão recorrido para demonstrar que houve violações à legislação federal.
+(..).
+Evidente que a decisão agravada aplica de forma equivocada as Súmulas 5 e 7 do STJ, dado que a discussão é puramente relacionada com a incidência de normas legais ao caso concreto em exame, à luz das premissas já definidas. Desta sorte, o que se infere é que a tese jurídica suscitada é apta a ser enfrentada por esse Superior Tribunal de Justiça, já que dentre suas competências constitucionais está a de dar interpretação final a respeito da lei federal.
+E mais: ainda que assim não fosse, a revaloração/requalificação dos fatos é permitida pelo Eg. STJ:
+(..).
+Se muito, o que se diz para argumentar, cabível seria a requalificação jurídica dos fatos, o que se faz permitido.
+Aliás, são, desde já, pontuadas algumas alegações do recurso especial, a demonstrar que não incidem os óbices apontados:
+(..).
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO dos agravos em recurso especial apresentados pelaPORTONOVO EMPREENDIMENTOS & CONSTRUCOES LTDA. e pelaFUNDAÇÃO UNIVERSIDADE FEDERAL DO RIO GRANDE.
+Publique-se. Intimem-se.
