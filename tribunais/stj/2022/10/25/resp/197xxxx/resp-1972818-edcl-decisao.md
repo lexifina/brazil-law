@@ -1,0 +1,71 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Turquesa Empreendimentos SPE LTDA. e outra em face da seguinte decisão:
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS - CONTRATO DE COMPRA E VENDA DE IMÓVEL - ATRASO NA ENTREGA DO BEM INCONTROVERSO - INADIMPLEMENTO CONTRATUAL CARACTERIZADO MESMO SUBSISTINDO CLÁUSULA DE TOLERÂNCIA DE 180 DIAS - MORA CONFIGURADA - HOMOLOGAÇÃO DO PEDIDO DE DESISTÊNCIA QUANTO A RESCISÃO CONTRATUAL - ACEITAÇÃO DOS REQUERIDOS - CLÁUSULA PENAL QUE DEVE SER MANTIDA EM FACE DA VIOLAÇÃO CONTRATUAL - TESE 970 DO STF - DANO MORAL - CABIMENTO - SÚMULA 12 DESTE TRIBUNAL - DANOS EMERGENTES - PAGAMENTO DE ALUGUEIS DURANTE O PERÍODO DO ATRASO - POSSIBILIDADE - MANUTENÇÃO DA SENTENÇA - RECURSO CONHECIDO E DESPROVIDO - DECISÃO POR MAIORIA.
+Alega-se violação dos artigos 186, 409, 410, 411 e 927 do Código Civil, além do art. 90, § 1.º, do Código de Processo Civil, associada a dissídio jurisprudencial, sob o argumento de que foi indevida a condenação das recorrentes na cláusula penal e dano moral decorrente do atraso na entrega do imóvel e que o caso enseja, ainda, a condenação dos recorridos na sucumbência em virtude de sua desistência em relação ao pedido de rescisão do contrato de promessa de compra e venda.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que os recorridos ingressaram com pedido condenatório e desconstitutivo em face das recorrentes pelo atraso na entrega do imóvel, desistindo, no curso do processo, do pedido de rescisão.
+As instâncias ordinárias condenaram as recorrentes ao pagamento de lucros cessantes, multa pelo atraso na entrega do imóvel, indenização por danos morais e das custas e honorários advocatícios.
+Esta Corte tem, de fato, entendimento de que o atraso na entrega do imóvel determina o pagamento de lucros cessantes aos promitentes compradores, servindo a cláusula penal como prefixação da indenização e, portanto, inacumulável com os lucros cessantes.
+A saber:
+RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. COMPRA E VENDA DE IMÓVEL NA PLANTA. ATRASO NA ENTREGA. NOVEL LEI N. 13.786/2018. CONTRATO FIRMADO ENTRE AS PARTES ANTERIORMENTE À SUA VIGÊNCIA. NÃO INCIDÊNCIA. CONTRATO DE ADESÃO. CLÁUSULA PENAL MORATÓRIA. NATUREZA MERAMENTE INDENIZATÓRIA, PREFIXANDO O VALOR DAS PERDAS E DANOS. PREFIXAÇÃO RAZOÁVEL, TOMANDO-SE EM CONTA O PERÍODO DE INADIMPLÊNCIA. CUMULAÇÃO COM LUCROS CESSANTES. INVIABILIDADE.
+1. A tese a ser firmada, para efeito do art. 1.036 do CPC/2015, é a seguinte: A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes.
+2. No caso concreto, recurso especial não provido.
+(REsp n. 1.635.428/SC, relator Ministro Luis Felipe Salomão, Segunda Seção, julgado em 22/5/2019, DJe de 25/6/2019.)
+Tem também o Superior Tribunal de Justiça entendimento no sentido de que o simples descumprimento contratual não enseja indenização por danos morais.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. ATRASO NA ENTREGA DE IMÓVEL. DESCUMPRIMENTO CONTRATUAL. DANOS MORAIS. NÃO OCORRÊNCIA. AUSÊNCIA DE FUNDAMENTAÇÃO DO ACÓRDÃO PROFERIDO PELA CORTE ESTADUAL. PRECLUSÃO. AGRAVO INTERNO IMPROVIDO.
+1. Consoante a jurisprudência desta Corte Superior, para a existência de danos morais em caso de atraso na entrega de imóvel adquirido por promessa de compra e venda, é necessário que tenha ocorrido um significativo atraso na disponibilização da unidade imobiliária ou o apontamento de situações que demonstrem a efetiva ocorrência de ofensa moral.
+2. No caso em exame, o atraso na finalização do empreendimento foi inferior a 1 (um) ano e não está retratado nos autos nenhum evento causador de efetivo constrangimento ou problema pessoal grave envolvendo o descumprimento contratual. Afastada a condenação por danos morais.
+3. Agravo interno improvido.
+(AgInt no AREsp n. 2.034.696/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022.)
+As instâncias ordinárias julgaram procedentes os pedidos de restituição dosvalores pagos pelos recorridos, "além da incidência da multa prevista na cláusula oitava, correspondente a R$ 42.117,59 (20% sobre o valor pago pelos réus), condenação das acionadas ao pagamento de indenização pelos danos morais em R$ 20.000,00 e materiais referentes aos aluguéis pagos entre o período de janeiro a junho de 2017, que somam aquantia de R$ 43.397,74" (e-STJ, fl. 481).
+Em relação ao dano moral, o acórdão de origem concluiu que, em "não havendo o cumprimento do contrato e sendo frustrada a aquisição de um imóvel residencial é inegável o dano moral advindo desse desfalque sentimental" (e-STJ, fls. 601/062).
+Não está o acórdão local, tanto em relação à acumulação da cláusula pena com lucros cessantes quanto à indenização por danos morais, à míngua da demonstração de abalo que supere o simples inadimplemento do contrato, em consonância com o entendimento desta Casa.
+No que toca, por fim, à distribuição da sucumbência, o voto vencido bem analisou a questão, assentando que:
+"É entendimento do Superior Tribunal de Justiça no sentido de que a distribuição dos ônus sucumbenciais está relacionada com a quantidade de pedidos na demanda e o êxito em relação a cada pleito.
+In verbis:
+RECURSO ESPECIAL. INSTITUIÇÃO FINANCEIRA. LIQUIDAÇÃO EXTRAJUDICIAL. OBRIGAÇÕES. JUROS MORATÓRIOS. SUSPENSÃO. TERMO INICIAL. DECRETO DE LIQUIDAÇÃO. CORREÇÃO MONETÁRIA. INCIDÊNCIA. SUCUMBÊNCIA RECÍPROCA. RECONHECIMENTO.
+1. Fica suspensa a fluência de juros contra a instituição financeira, sejam legais ou contratuais, a partir do decreto de liquidação até o pagamento do passivo. Na hipótese de sobejar alguma quantia após a satisfação do principal, os juros serão pagos respeitada a ordem estabelecida no quadro geral de credores. Precedente.
+2. A princípio, a Lei nº 6.024/1974 suspendia a incidência de correção monetária sobre as dívidas da instituição financeira em liquidação extrajudicial. Porém, o art. 18, "f", da referida lei foi modificado, no ponto, pelo Decreto-Lei nº 1.477/1976, que prevê a incidência de correção monetária sobre a totalidade das obrigações de responsabilidade das entidades sob regime de liquidação extrajudicial.
+3. A distribuição dos ônus sucumbenciais está relacionada com a quantidade de pedidos requeridos na demanda e o decaimento proporcional das partes em relação a cada pleito. O acolhimento de apenas um dos pedidos dentre dois realizados implica sucumbência recíproca.
+4. Recurso especial parcialmente provido.
+(REsp 1646192/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA,TERCEIRA TURMA, julgado em 21/03/2017, DJe 24/03/2017)
+Analisando o os pedidos da inicial, observo que a parte autora se sagrou vencedora apenas no pagamento de indenização por danos morais e no ressarcimento pelos valores dispensados a título de aluguéis, restando vencida nopedido de condenação no pagamento da multa prevista na cláusula 8ª, e devendo ser responsabilizada pela desistência dos pedidos de rescisão contratual e de devolução das parcelas pagas nos termos do § 1º do art. 90 do CPC"(e-STJ, fls. 607/608).
+E não é outro mesmo o entendimento desta Casa.
+Veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE CIVIL. DANOS EMERGENTES E LUCROS CESSANTES. JULGAMENTO DE PARCIAL PROCEDÊNCIA NO TRIBUNAL DE ORIGEM. PRESTAÇÃO JURISDICIONAL SUFICIENTE. SUCUMBÊNCIA RECÍPROCA. CONFIGURAÇÃO. SEGUNDOS EMBARGOS DE DECLARAÇÃO. MANIFESTO PROPÓSITO PROTELATÓRIO. ADMISSIBILIDADE DE APLICAÇÃO DE MULTA. AGRAVO DESPROVIDO.
+1. Não há que se falar em ofensa ao art. 1.022 do CPC, e disposições correlatas, uma vez que o acórdão recorrido adotou fundamentação suficiente decidindo integralmente a controvérsia.
+2. "A distribuição dos ônus sucumbenciais está relacionada com a quantidade de pedidos requeridos na demanda e o decaimento proporcional das partes em relação a cada pleito. O acolhimento de apenas um dos pedidos dentre dois realizados implica sucumbência recíproca"(REsp 1.646.192/PE, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 24.3.2017).
+3. A jurisprudência desta Corte Superior entende devida a aplicação de multa nos segundos embargos de declaração opostos com o nítido caráter protelatório.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.983.586/MT, relator Ministro Raul Araújo, Quarta Turma, julgado em 30/5/2022, DJe de 24/6/2022.)
+Merece, portanto, provimento o recurso especial.
+Diante do exposto, conheço do recurso especial e a ele dou provimento para afastar da condenação os lucros cessantes e os danos morais e redimensionar a sucumbência para que os honorários advocatícios sejam de 10% (dez por cento) sobre o benefício econômico alcançado por cada uma das partes, entendido este como o valor dos pedidos julgados improcedentes com o resultado desta decisão, além daquele do qual se desistiu, em benefício das recorrentes, e o do montante da condenação, em favor dos recorridos, devendo as custas ser distribuídas em proporção inversa a esse benefício econômico, nos termos dos artigos 82, § 2º, 85, § 2º, e 86 do Código de Processo Civil.
+Intimem-se.
+Afirmam que há equívoco na decisão agravada ao fazer constar a ocorrência de lucros cessantes, porquanto o que deveria ser afastado é a indenização por danos emergentes, concernentes à restituição dos valores pagos a títulos de aluguéis pelos autores.
+Pedem o acolhimento do recurso.
+Impugnação da parte contrária no sentido de que esta Corte Superior já "decidiu sobre a possibilidade da condenação em lucros cessantes (aluguéis) nos casos de atraso da entrega do bem" (e-STJ, fl. 744).
+Assim delimitada a controvérsia, passo a decidir.
+Retifico, de início e de ofício, a parte da decisão embargada que tratou da condenação das rés.
+Isso porque na decisão constou o que se segue, como transcrito supra:
+"As instâncias ordinárias julgaram procedentes os pedidos de restituição dos valores pagos pelos recorridos, "além da incidência da multa prevista na cláusula oitava, correspondente a R$ 42.117,59 (20% sobre o valor pago pelos réus), condenação das acionadas ao pagamento de indenização pelos danos morais em R$ 20.000,00 e materiais referentes aos aluguéis pagos entre o período de janeiro a junho de 2017, que somam aquantia de R$ 43.397,74"(e-STJ, fl. 481).
+O excerto trata, na verdade, dos pedidos formulados pelos autores.
+A condenação se deu nos seguintes termos:
+"Ante o exposto e sem mais delongas, revogo a tutela concedida às fls. 195/196 e julgo PROCEDENTES em parte os pedidos para condenar as requeridas, solidariamente, ao pagamento aos dois autores da quantia total de R$ 8.000,00 (oito mil reais) a título de reparação pelos danos morais sofridos por eles, a ser atualizado pelo INPC da data desta decisão no DJE e acrescida de juros de mora na base de 1,0% ao mês, não cumulativos, contados da data da citação.
+Condeno, ainda, as requeridas ao pagamento da multa convencional prevista na Cláusula 8ª, no percentual de 20% sobre o valor desembolsado pelos autores.
+Por fim, condeno as acionadas ao reembolso dos valores pagos pelos requerentes a título de aluguéis entre os meses de janeiro a junho de 2017" (e-STJ, fl. 484).
+A parte dispositiva mencionada, como se lê, determinou a restituição dos valores pagos a títulode alugueis e restituição se determinou porque foram pagos pelos autores.
+O que poderia, assim, ser considerado lucros cessantes, foi, na verdade, danos emergentes, que são, nos termos da jurisprudência desta Casa nas hipóteses como a dos autos, igualmente inacumuláveis com a cláusula penal.
+A saber:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DECISÃO MONOCRÁTICA QUE JULGOU O AGRAVO INTERNO TORNADA SEM EFEITO. NOVA ANÁLISE DO AGRAVO INTERNO. INDENIZATÓRIA CUMULADA COM OBRIGAÇÃO DE FAZER. ATRASO NA ENTREGA DE IMÓVEL. DANO MORAL. CONFIGURAÇÃO. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. CUMULAÇÃO. CLÁUSULA PENAL E DANOS EMERGENTES. DESCABIMENTO. AGRAVO PARCIALMENTE PROVIDO. RECURSO ESPECIAL PROVIDO EM PARTE.
+1. Nova leitura das razões do recurso especial permite identificar que o objeto do aludido apelo versa a respeito da possibilidade de cumulação da cláusula penal moratória com danos emergentes, e não, com lucros cessantes, como restou assentado na decisão agravada.
+Assim, torno sem efeito a decisão monocrática às fls.1.051/1.055 e passo a novo exame do agravo interno.
+2. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que possam configurar lesão extrapatrimonial.
+3. Na hipótese, o eg. Tribunal de Justiça, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise do contexto fático-probatório dos autos, reconheceu presentes elementos caracterizadores do dever da ora recorrente de indenizar a parte recorrida a título de dano moral, não identificando qualquer excludente de responsabilidade.
+Percebe-se bem delineadas, no v. acórdão, as circunstâncias do caso concreto ensejadoras de danos morais, sobretudo porque o aludido atraso foi superior a 18 (dezoito) meses. Precedentes.
+4. Esta Corte Superior, ao julgar os recursos especiais repetitivos REsps 1635428/SC e 1498484/DF, firmou entendimento no sentido de que a cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes ou danos emergentes.
+5. Agravo interno parcialmente provido para reconsiderar a decisão agravada e, em novo exame, dar parcial provimento ao recurso especial.
+(AgInt nos EDcl no REsp n. 1.689.552/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022.)
+Diante do exposto, retifico, de ofício, a decisão embargada nos termos da fundamentação supra e acolho os embargos de declaração para que, onde se lê, no dispositivo da decisão agravada, "lucros cessantes", leiam-se "danos emergentes", mantido o mais.
+Intimem-se.
