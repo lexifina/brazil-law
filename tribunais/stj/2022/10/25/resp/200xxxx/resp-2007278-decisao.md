@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 312, e-STJ):
+APELAÇÃO. Plano de Saúde. Tratamento médico-hospitalar.
+Pessoa portadora de fibrose pulmonar idiopática. Negativa de cobertura. Abusividade configurada. Necessidade de fornecimento do medicamento (nintedanib). Expressa indicação médica para realização de tratamento com medicamento prescrito. Entendimento da Súmula 102 do E.
+TJSP. Inépcia da apelação. Afastada. Existência de irresignação aos fundamentos da sentença.
+Sentença mantida. Adoção do art. 252 do RITJ. RECURSO DESPROVIDO.
+Em suas razões, a parte ora recorrente alega, além de divergência jurisprudencial, violação aos arts. 10, VI, § 4º, 35-F da Lei 9.656/98; 51, IV, § 1º, II e 54, § 4º, do Código de Defesa do Consumidor. Sustenta, em suma, não possuir a obrigação legal e/ou contratual de custear medicamentos de uso domiciliar. Assinala que o Código de Defesa do Consumidor possibilita a limitação dos direitos do consumidor nos contratos de adesão, desde que as cláusulas restritivas sejam destacadas, permitindo facilmente a compreensão pelo consumidor, o que foi observado no caso dos autos.
+Foram apresentadas contrarrazões às fls. 356/360, e-STJ.
+O recurso foi admitido na origem, nos termos da decisão de fls. 361/362, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O Tribunal de origem condenou a operadora de plano de saúde ao custeio do medicamento Nintedanib em favor da autora, nos seguintes termos (fls. 315/318, e-STJ):
+Pois bem. Em que pese a argumentação da parte apelante, a r. sentença demonstra-se suficientemente fundamentada, aqui também adotada como razão de decidir, nos termos do art. 252 do Regimento Interno do TJ/SP.
+Na Seção de Direito Privado desta Corte, o art. 252 do Regimento Interno do TJ/SP tem sido reiteradamente utilizado por esta Câmara, que prevê em seu texto a possibilidade de ratificação dos fundamentos da decisão recorrida, em que possui motivação suficiente, conforme segue:
+Art. 252. Nos recursos em geral, o relator poderá limitar-se a ratificar os fundamentos da decisão recorrida, quando, suficientemente motivada, houver de mantê-la.
+(..)
+Por oportuno, deve ser ressaltado o seguinte trecho da r. sentença, em que se demonstra suficientemente motivada acerca da abusividade na negativa de cobertura do medicamento:
+"Embora ausente do rol de procedimentos previstos pela ANS, o tratamento indicado pelo médico da autora deve ser custeado pela requerida, já que, de acordo com o art. 54, § 4º, da Lei 8.078/90, "as cláusulas que implicarem limitação de direito do consumidor deverão ser redigidas com destaque, permitindo sua imediata e fácil compreensão".
+Portanto, a negativa de cobertura ao tratamento de determinada doença ou transtorno deve ser expressa no contrato, o que não é o caso dos autos, de modo que a conduta da requerida é abusiva.
+(..) Há, inclusive, entendimento sumulado sobre o assunto no âmbito do E. TJSP: "Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS" (Súmula 102).
+Ilegal, ainda, a limitação da cobertura, pois "é abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado" (Súmula 302 do STJ). Ora, se não se pode limitar o tempo de internação, igualmente não se pode limitar o custeio do tratamento, razão pela qual a cobertura oferecida pela ré deve ser integral."
+Em complemento à r. Sentença, deve ser destacado que a apelada mantém vínculo contratual de assistência à saúde junto a Recorrente há mais de 20 anos e hoje idosa aos 77 anos de idade, portadora de FIBROSE PULMONAR IDIOPÁTICA (FIP), momento em que mais precisa da operadora do plano de saúde, se vê desamparada.
+Ora, nenhum motivo legítimo subsiste para restrição quanto à cobertura em relação ao medicamento objeto da demanda.
+Levando-se em conta o bem comum, repugna até mesmo a moralidade admitir-se que a Recorrente negue a cobertura fundada no fato do procedimento não constar no rol de procedimentos da ANS ou no contrato firmado pelas partes.
+Trata-se de entendimento abusivo, a gerar excessiva vantagem para a demandada, cabendo ressaltar que a beneficiária sempre se presume como de boa-fé.
+Abusiva e inaceitável, portanto, a justificativa da Recorrente para negar o custeio do tratamento requerido pela parte recorrida, principalmente em face da expressa indicação médica.
+Vale salientar que, em casos como o presente, em que se alega a inexistência de dever de fornecimento do medicamento ante a expressa indicação
+médica, se mostra descabida tal alegação, uma vez que a recorrida está em dia com os pagamentos da mensalidades cobradas, bem como há relatório médico prescrevendo o uso do referido medicamento.
+Por fim, visando evitar repetição jurisdicional desnecessária, outros fundamentos demonstram-se dispensáveis diante da repetição integral dos que foram deduzidos na sentença.
+Diante da acertada decisão de primeiro grau, conclui-se que a sentença não merece qualquer reparo.
+Com razão a parte recorrente, uma vez que o Tribunal de origem decidiu emcontrariedade à jurisprudência deste Superior Tribunal de Justiça, segundoa qual "é lícita a exclusão, na Saúde Suplementar, do fornecimento demedicamentos para tratamento domiciliar, isto é, aquelesprescritos pelomédico assistente para administração em ambiente externo ao de unidade desaúde, salvo os antineoplásicos orais (e correlacionados), a medicaçãoassistida (home care) e os incluídos no rol da Agência Nacional de SaúdeSuplementar (ANS) para esse fim" (AgInt no REsp 1747463/SP, Rel. MinistroRICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/3/2022, DJe18/3/2022).
+De igual teor:
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. MEDICAMENTO DE USO DOMICILIAR. COBERTURA EXCEPCIONAL. ROL DA ANS. TAXATIVIDADE. MITIGAÇÃO. POSSIBILIDADE. DECISÃO MANTIDA.
+1. De acordo com a jurisprudência desta Corte, "É lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim. Interpretação dos arts. 10, VI, da Lei nº 9.656/1998 e 19, § 1º, VI, da RN nº 338/2013 da ANS (atual art. 17, parágrafo único, VI, da RN nº 465/2021)" (REsp 1.692.938/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/4/2021, DJe 4/5/2021).
+2. Fundamentada nos julgamentos dos EREsp n. 1.886.929/SP e 1.889.704/SP, da SEGUNDA SEÇÃO, ocorridos em 8.6.2022, a QUARTA TURMA decidiu recentemente que "o rol da ANS é, em regra, taxativo - ressalvadas excepcionalidades verificadas, através de critérios técnicos, no caso concreto. Precedentes" (AgInt no REsp n. 1.918.404/SP, relator Ministro Marco Buzzi, julgado em 27/6/2022, DJe de 30/6/2022).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.987.867/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 15/8/2022, DJe de 18/8/2022.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. CONTRATO DE PLANO DE SAÚDE. FORNECIMENTO DE FÁRMACOS DE USO DOMICILIAR NÃO PREVISTOS EM CONTRATO FIRMADO ENTRE AS PARTES E QUE NÃO CORRESPONDEM A ANTINEOPLÁSICOS ORAIS E CORRELACIONADOS À MEDICAÇÃO ASSISTIDA, NEM AOS CONSTANTES DO ROL DA ANS. DEVER DE COBERTURA AFASTADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. É lícita a recusa de cobertura de medicamento de uso domiciliar que não se enquadre como antineoplásico oral, de controle de efeitos adversos relacionados ao tratamento e adjuvantes, a medicação assistida (home care) e os constantes do correspondente rol da Agência Nacional de Saúde Suplementar (ANS), ficando ressalvadas apenas as hipóteses de pagamento por liberalidade da operadora ou por força de previsão no contrato principal ou acessório do plano de saúde.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.981.905/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. DIABETES. EQUIPAMENTO DE MONITORAMENTO DE GLICOSE. ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE DA ANS. EXCEÇÃO. TRATAMENTO DOMICILIAR. EQUIPAMENTO NÃO LIGADO A ATO CIRÚRGICO. RECUSA DE COBERTURA DEVIDA.
+1. Segundo a jurisprudência desta Corte, é lícita a exclusão, na Saúde Suplementar, do fornecimento de medicamentos para tratamento domiciliar, isto é, aqueles prescritos pelo médico assistente para administração em ambiente externo ao de unidade de saúde, salvo os antineoplásicos orais (e correlacionados), a medicação assistida (home care) e os incluídos no Rol da ANS para esse fim.
+2. Hipótese em que são pleiteados equipamentos para monitoramento de glicose, os quais são caracterizados como tratamento domiciliar, porquanto podem ser adquiridos diretamente pelo paciente em farmácias de acesso público, para ser autoadministrado por ele em seu ambiente domiciliar, sem a necessidade de intervenção médica, razão pela qual é devida a recusa de cobertura.
+3. Agravo interno desprovido.
+(AgInt no AgInt nos EDcl no REsp n. 1.964.771/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 5/9/2022, DJe de 8/9/2022.)
+Em face do exposto, dou provimento ao recurso especial para julgar improcedente o pedido formulado na inicial.
+Condeno a parte autora ao pagamento das custas processuais e dos honorários advocatícios, os quais fixo em 10% sobre o valor da causa, nos moldes do previsto pelo artigo 85, § 2º, I a IV, do Código de Processo Civil.
+Intimem-se.
