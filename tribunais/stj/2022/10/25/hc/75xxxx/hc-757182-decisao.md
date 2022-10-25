@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra o acórdão do Tribunal de origem que negou provimento ao recurso de apelação e manteve a sentença condenatória.
+O paciente foi condenado a 16 anos de reclusão, em regime fechado, pela prática dos crimes dos arts. 33 e 35 da Lei n. 11.343/2006, tendo o Tribunal estadual improvido o recurso de apelação, mantendo a condenação, sobrevindo o trânsitoem julgado.
+Tramitou nesta Corte Superior o Agravo em Recurso Especial - AREsp n. 1.946.723 que não foi conhecido, porque não foram cumpridos os requisitos de admissibilidade.
+Neste writ, o impetrante sustenta que o paciente foi denunciado e condenado "de forma absolutamente genérica, sem apreensão qualquer e sem subsunção normativa ao crime do Art. 33 da esparsa, na exata proporção em que descreve tão somente a associação deste com outros indivíduos alvos da investigação".
+Pretende-se usar a via do habeas corpus como substituto da ação de revisão criminal que, por sua vez, tem requisitos legais taxativos:
+Art. 621. A revisão dos processos findos será admitida:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+O que se pretende, na verdade, é o reexame de fatos e provas que sustentaram a condenação do paciente, haja vista que o impetrante afirma que não foram apreendidas drogas, mas, pelo que consta da sentença e no acórdão impugnados (fls. 27-64 e 65-200), o início da investigação deu-se em meados de julho de 2011 e foi denominada de "Operação Neblina", cuja finalidade era investigar o modus operandi de quatro grupos criminosos que adquiriam drogas em outros Estados, tais como São Paulo, Rio Grande do Norte e Ceará para abastecer o Estadode Pernambuco.
+Consta nos autos a apreensão de elevada quantidade de drogas com vários integrante do extenso grupo criminoso.
+No ponto em que trata da materialidade delitiva, consta na sentença (fl. 34):
+ ..
+2. FUNDAMENTOS:A materialidade em relação aos crimes de tráfico de drogas e associação para o tráfico (arts. 33 e 35 da Lei 11.343/06) é extraída dos autos através das apreensões realizadas durante o período investigativo e dos procedimentos que foram gerados com as diversas apreensões cujos laudos Periciais atestam que o exame das substâncias apreendidas deram positivo para cocaína, na forma de pedras de crack (benzoilmetilecgonina), num total de 86,044 kg (oitenta e seis quilos e quarenta e quatro gramas); 04 kg (quatro quilos) de cocaína em pó; 74,512 kg (setenta e quatro quilos e quinhentos e doze gramas) de pasta base de cocaína e 8,364 kg (oito quilos trezentos e sessenta e gramas) de maconha, tudo consoante Laudos de fls. 30, 37, 46, 52, 60, 66, 72, 80 87, 92, 98, 103, 113, 120, 126 131 138 145, 155, 161, 164 e 170 , além dos depoimentos das testemunhas e do Relatório do Setor de Inteligência do DENARC e de comprovantes de depósitos bancários, fls. 361/364, 379/382, 400/402.
+ ..
+Como se vê, foi encontrada elevada quantidade de drogas com diversos integrantes da associação criminosa. Esta Corte Superior entende que o fato de a droga ser encontrada apenas com os corréus, por si só, não afasta a materialidade delitiva quando o paciente corrobora para a atuação do grupo criminoso. Neste sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. PENA-BASE. QUANTIDADE DE DROGAS. AUMENTO ADEQUADAMENTE FUNDAMENTADO. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se verifica nenhuma ilegalidade no aumento da pena-base em 2/5 (dois quintos), com fundamento na quantidade de drogas apreendidas, pois o Recorrente colaborou para o transporte de elevado volume de entorpecentes, circunstância que, conforme a jurisprudênciadesta Corte Superior, justifica a imposição de aumento mais severo na pena.
+2. As instâncias ordinárias consignaram que o Agravante, plenamente ciente do transporte da droga, aceitou auxiliar diretamente em sua movimentação, atuando na condição de "batedor" para elidir a fiscalização estatal e garantir o sucesso da empreitada criminosa. Desse modo, é irrelevante, para a fixação da pena, que ele não estivesse na posse direta da droga no momento da apreensão, pois é certo que ele concorreu para o transporte da totalidade do entorpecente.
+3. Não há falar em utilização da quantidade e da natureza da droga para modular a incidência do art. 33, § 4.º, da Lei n. 11.343/06, pois o Agravante possui maus antecedentes, o que obsta a incidência de minorante.
+4. Agravo regimental desprovido. (AgRg no REsp 1962071/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 10/05/2022, DJe 16/05/2022).
+No presente caso restou devidamente demonstradopelas instâncias ordináriasque o paciente, plenamente ciente das drogas que o grupo criminoso movimentava, aceitou integrar a associação, atuando paragarantir o sucesso da empreitada criminosa. É irrelevante, para a condenaçãoque não estivesse na posse direta da droga no momento das apreensões, pois é certo que concorreu para o tráfico ilícito.
+Portanto, para rever a condenação já transitada em julgado, além do obstáculo dessa situaçao juridica (a coisa julgada), necessário seria a dilação probatória.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
