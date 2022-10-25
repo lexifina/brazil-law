@@ -1,0 +1,30 @@
+DECISÃO
+ERIC HENRIQUE COUTINHO DOS SANTOSalegaservítimade coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo(Apelação Criminal n. 1500388-76.2018.8.26.0621).
+Consta dos autos que o paciente foi condenado a 6 anos, 9 meses e 7 dias de reclusão, em regime fechado, mais multapela prática do delito de tráfico de drogas.
+Busca-se, por meio deste writ,o redimensionamento dareprimendaimposta, com a redução das penas-base e a compensação da reincidência com a confissão.
+OMinistério Público Federal opinou pelo não conhecimento da impetração.
+Decido.
+I. Pena-base
+No caso, a instância ordinária majorou apena-basepois "o réu é duplamente reincidente, conforme se vislumbra da certidão de fls. 175/176, razão pela qual somente um destes registros desabonadores será aqui considerado em seu desfavor. Além disso, importa dizer que a quantidade de droga encontrada em seu poder (189,87 gramas de cocaína), também merece a avaliação negativa nesta etapa, por expor o bem jurídico tutelado pelo tipo a maior risco" (fl. 39).
+Certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+No entanto, embora aquantidade dasubstânciaapreendidaconstitua, de fato, circunstânciapreponderantea ser consideradana dosimetria da pena, entendo que o montante- 189,87 g decocaína- não foi excessivamente elevada, de maneira que se mostra manifestamente desproporcional sopesar, no caso ora analisado, tal circunstânciapara justificar a exasperação da pena-base.
+Do contrário, qualquer agente que fosse apreendido com crack ou com cocaína, ainda que com uma porção com peso de 5 g, por exemplo, deveria ter a sua pena-base estabelecida acima do mínimo legal - a pretexto de correta aplicação do disposto no art. 42 da Lei n. 11.343/2006 -, o que, evidentemente, não se coaduna com os princípios da razoabilidade e da proporcionalidade.
+Nesse sentido: "Nos termos do entendimento firmado pelo STJ, especificamente no que diz respeito ao tráfico de drogas, a natureza e a variedade da droga apreendida, desde que associadas a uma quantidade não desprezível, constituem fundamento idôneo a justificar tanto o aumento da pena-base, a imposição do regime mais severo, quanto o indeferimento da substituição das penas" (AgRg no REsp n. 1.855.025/TO, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 25/5/2020).
+Assim, uma vez verificada a inadequação parcial da análise dascircunstâncias judiciais, deveser reduzidaapena-base de 6 anos e 3 meses de reclusão e 625 dias-multa para 5 anos, 7 meses e 15 dias de reclusão e 562 dias-multa.
+II. Compensação da reincidência com a confissão
+Em relação à segunda fase da dosimetria da pena,verifico que, emborareconhecidas a atenuante da confissão espontânea e a agravante dareincidência, foi realizada a compensação parcial entre elas, em razão dapreponderância da reincidência específica.
+No julgamento dos EREsp n. 1.154.752/RS, DJe 4/9/2012, a Terceira Seçãodeste Superior Tribunal pacificou o entendimento de que, observadas aspeculiaridades do caso concreto, "É possível, na segunda fase dadosimetria da pena, a compensação da agravante da reincidência com aatenuante da confissão espontânea, por serem igualmente preponderantes, deacordo com o artigo 67 do Código Penal".
+Também é certo que este Superior Tribunal havia consolidado o entendimentode que a compensação da confissão espontânea com aagravante genérica dareincidência deveria "atender a certos parâmetros, como a espécie, anatureza e os graus de reincidência, sob pena de violação aos princípiosda individualização da pena e da proporcionalidade" (AgRg no REsp1.356.527/DF, Rel. Ministro Marco Aurélio Bellizze, 5ª T., DJe 25/9/2013).
+Vários foram os precedentes que não permitiam a compensação entre aconfissão e a reincidência, quando a recidiva do réu for específica e/ounumerosa, por evidenciar maior reprovabilidade da conduta.
+Contudo, em sessão realizada em 11/10/2017, a Terceira Seção desta CorteSuperior, por ocasião do julgamento do HC n. 365.963/SP, Rel. MinistroFelix Fischer, DJe 23/11/2017, decidiu ser possível a integral compensaçãoda atenuante da confissão espontânea com a reincidênciaespecífica.
+Esse entendimento foi recentemente reafirmado pela Terceira Seção do STJ,ao apreciar o tema repetitivo n. 585. Confira-se: "A reincidência, aindaque específica, deve ser compensada integralmente com a atenuante daconfissão, demonstrando, assim, que não deve ser ofertado maior desvalor àconduta do réu que ostente outra condenação pelo mesmo delito" (REsp n.1.947.845/SP, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 24/6/2022).
+No caso, apontada apenasuma condenação a título de reincidência, constatoque não há óbice à compensação integral entre a confissão espontânea e areferida agravante.
+Reconhecida as ilegalidades apontadas pela defesa, passo a readequação dapena.
+III. Nova dosimetria
+Em razão da modificação efetivada anteriormente, deve ser realizada a novadosimetria das penas.Na primeira fase, a reprimenda-base ficou estabelecida em 5 anos, 7 meses e 15 diasde reclusão e 562 dias-multa.
+Na segunda etapa,realizo a compensação integral com a reincidência, o que mantém a sanção inalterada.
+Na terceira fase, à míngua de causas de aumento e de diminuição,fica a sanção dopacientedefinitivamente estabelecidas em 5 anos, 7meses e 15 dias de reclusão e pagamento de 562 dias-multa, mantido o regime fechado em razão do quantum da pena e da reincidência.
+IV. Dispositivo
+À vista do exposto, concedo a ordem a fim de reduzir apena-base, compensar a reincidência com a confissãoe, por conseguinte, reduzir asuareprimendapara5 anos, 7 meses e 15 dias de reclusão e pagamento de 562 dias-multa(Processo n. 1500388-76.2018.8.26.0621,Vara Criminal da Comarca de Lorena - SP).
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias de origem, para as providências cabíveis.
+Publique-se e intimem-se.
