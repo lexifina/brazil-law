@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 19/10/2022 a 25/10/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO (CPC, ART. 988, § 5º, II). DECISÃO RECLAMADA. VÍCIOS DO ART. 1.022 DO CPC. AUSÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC, cabem embargos de declaração para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre a qual se devia pronunciar o juiz de ofício ou a requerimento, ou corrigir erro material, vícios inexistentes na situação concreta.
+2. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Cuida-se de dois recursos de embargos de declaração opostos por CLÁUDIO ANTÔNIO GREGORACCI e OUTRO, o primeiro, e por GOOGLE BRASIL INTERNET LTDA, o segundo, contra acórdão assim ementado:
+AGRAVO INTERNO. RECLAMAÇÃO. JUIZADOS ESPECIAIS. RESOLUÇÃO N. 12/2009-STJ. DECISÃO MONOCRÁTICA. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Enquanto vigente, a Resolução 12/2009 previa o manejo de reclamação com a finalidade de adequar as decisões proferidas pelas Turmas Recursais dos Juizados Especiais estaduais à jurisprudência consolidada desta Corte, no julgamento de recursos especiais repetitivos (CPC/1973, art. 543-C) ou em enunciados de Súmula do STJ (Rcl 3.812/ES e Rcl 6.721/MT), bem como, em casos de teratologia ou manifesta ilegalidade do acórdão vergastado (Rcl 4.518/RJ).
+2. A Emenda Regimental nº 22/STJ, de 16/03/2016, revogou a Resolução/STJ nº 12/2009, resguardando porém, a competência desta Corte para decidir definitivamente as reclamações já distribuídas e pendentes de análise no Superior Tribunal de Justiça, caso da presente.
+3. No tocante à retirada de conteúdo da Internet e à identificação dos IPs dos usuários, a reclamação não merece prosperar, pois a alegada ausência de indicação das URLs, do ponto de vista trazido pelo reclamante, não foi debatida nas instâncias de origem, tratando-se, assim, de inovação recursal, providência vedada nesta sede, por analogia.
+4. Nesses moldes, a reclamação deve ser conhecida e provida somente no tocante à limitação do montante total das astreintes ao patamar de alçada dos Juizados Especiais, considerado adequado pela jurisprudência específica desta Corte ao tempo da prolação da sentença, em 26/2/2012.
+5. Agravo interno parcialmente provido" (na fl. 1.271).
+Os primeiros embargos, manejados por CLÁUDIO ANTÔNIO GREGORACCI, exclusivamente quanto à matéria que dá ensejo aos aclaratórios, afirmam que: a) "a questão aqui apresentada não envolve direito material, e sim interpretação de normas processuais, razão pela qual a presente reclamação não se mostra cabível, sendo omissa a r. decisão ora embargada quanto ao não conhecimento desta Reclamação" e que "a reclamante não demonstrou contrariedade do decidido no ato reclamado com a jurisprudência desta Corte consolidada por meio de enunciado de Súmula ou de julgamento de recurso especial repetitivo" (na fl. 1.287); b) "a multa somente alcançou o patamar em questão por conta do descumprimento persistente de ordem judicial, sendo esta outra omissão do v. Acórdão ora embargado" (na fl. 1.302); e c) "verifica-se ainda no v. Acórdão patente contradição no que diz respeito a utilizar-se como limite das astreintes o valor do teto dos Juizados ao tempo da prolação da sentença, em 26/02/2012" (grifou-se, na fl. 1.304).
+A parte embargada apresentou impugnação (nas fls. 1.425/1.429).
+Por sua vez, os segundos embargos de declaração, aviados por GOOGLE BRASIL, afirmam, em síntese, que "o v. acórdão foi omisso quanto à demonstração de que a r. decisão agravada analisou matéria preclusa" (na fl. 1.420), e que "também deixou de se manifestar quanto à demonstração de que a r. decisão agravada decidiu além dos limites do pedido formulado, em violação aos arts. 141 e 492 do CPC" (na fl. 1.421).
+A parte embargada não apresentou impugnação (na fl. 1.432).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO (CPC, ART. 988, § 5º, II). DECISÃO RECLAMADA. VÍCIOS DO ART. 1.022 DO CPC. AUSÊNCIA. ACÓRDÃO SUFICIENTEMENTE FUNDAMENTADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos termos do art. 1.022 do CPC, cabem embargos de declaração para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre a qual se devia pronunciar o juiz de ofício ou a requerimento, ou corrigir erro material, vícios inexistentes na situação concreta.
+2. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Ambos os embargos de declaração não merecem acolhida.
+Por certo, afirma o art. 1.022 do CPC que somente cabem embargos de declaração para esclarecer obscuridade ou eliminar contradição, suprir omissão de ponto ou questão sobre a qual se devia pronunciar o juiz de ofício ou a requerimento, corrigir erro material, vícios inexistentes na situação concreta.
+Assim, os embargos de declaração de CLÁUDIO ANTÔNIO GREGORACCI não merecem acolhimento, pois, no tocante ao conhecimento da reclamação, verifica-se que o promovente, GOOGLE, manejou o incidente alegando ser impossível "a remoção de conteúdo sem a indicação precisa da URL", questão que diz respeito à existência do próprio direito vindicado, tema relativo ao direito material, e não à matéria de direito processual.
+Noutro passo, destaca-se que o acórdão embargado esclareceu que a decisão reclamada contrariou a jurisprudência consolidada desta Corte, embora não tenha sido confirmada por meio de enunciado de Súmula ou de julgamento de recurso especial repetitivo, motivo suficiente para o conhecimento da reclamação, conforme milhares delas que aportaram nesta Corte.
+Além disso, verifica-se que o Código de Processo Civil de 1973, vigente à época dos fatos, norma de hierarquia superior à Resolução-STJ nº 12/2019, que criou a presente espécie de reclamação, prescrevia que, no Tribunal, o relator, "se a decisão recorrida estiver em manifesto confronto com súmula ou com jurisprudência dominante do Supremo Tribunal Federal, ou de Tribunal Superior, (..) poderá dar provimento ao recurso" (art. 557, § 1º). No mesmo passo, o RISTJ sempre autorizou o relator a adotar a mesma providência.
+No que tange às astreintes, cumpre destacar que sua fixação, cassação ou limitação está sempre atrelada ao juízo discricionário do julgado, não havendo que se falar em contradição neste tema., registrando-se, outrossim, que, ao tempo do manejo da reclamação, a limitação da multa aos limites dos Juizados Especiais era praxe nesta Corte.
+Os embargos de declaração de GOOGLE BRASIL também não merecem acolhimento, porquanto não há falar de análise de matéria preclusa ou de decisão além dos limites do pedido formulado pelo embargado, porquanto a decisão de fls. 1.138/1.142 promoveu o chamamento do feito à ordem para modificar a anterior decisão e realizar nova e inédita análise dos autos, acolhendo os embargos de declaração por outros fundamentos (na fl. 1.139).
+Ante o exposto, rejeito ambos os embargos de declaração.
+É como voto.
