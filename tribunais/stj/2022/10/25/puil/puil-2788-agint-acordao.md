@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 19/10/2022 a 25/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão de minha lavra, que não conheceu do Pedido de Uniformização de Interpretação de Lei.
+Inconformada, sustenta a parte agravante que:
+"Como dito, a uniformização jurisprudencial que se pretende está clara e se substancia na possibilidade de inclusão dos salários de contribuição reconhecidos em sentença trabalhista e consequente revisão da RMI, nos termos do v. Acórdão paradigma e da legislação processual vigente.
+Como assentado nos autos, ao possibilitar que o salário-mínimo seja aplicado em substituição ao salário já reconhecido em ação trabalhista, configura, sobretudo, verdadeiro maltrato ao art. 6º da LINDB, posto que prejudica o ato jurídico perfeito e o direito adquirido, além de locupletamento ilícito do agravado.
+Destarte, por essas razões acima esposadas, a decisão agravada merece reforma.
+Há que se concluir, em razão do exposto, que a impugnação, o diálogo e o combate estão insertos na peça recursal, de que se requer análise efetiva, para fins de que se permita conhecer do recurso interposto, em observância ao princípio da primazia da resolução de mérito recursal, em harmonia com o princípio da cooperação entre os sujeitos do processo, nos termos dispostos no artigo 4º e 6º do Código de Processo Civil (..)" (fl. 138e).
+Por fim, requer o provimento do recurso.
+Intimada, a parte agravada deixou transcorrer in albis o prazo para manifestação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL, DIRIGIDO AO STJ. JUIZADO ESPECIAL FEDERAL. ART. 14, § 4º, DA LEI 10.259/2001. AUSÊNCIA DE DECISÃO COLEGIADA DA TNU SOBRE QUESTÃO DE DIREITO MATERIAL. NÃO CABIMENTO DO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI FEDERAL. PRECEDENTES DA PRIMEIRA SEÇÃO DO STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão monocrática que não conheceu do Pedido de Uniformização de Interpretação de Lei Federal.
+II. Nos termos do art. 14, § 4º, da Lei 10.259/2001, caberá Pedido de Uniformização de Interpretação de Lei Federal, dirigido ao STJ, quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça.
+III. No caso dos autos, o Pedido de Uniformização de Interpretação de Lei Federal, dirigido à Turma Nacional de Uniformização de Jurisprudência, foi inadmitido, por decisão monocrática de seu Presidente, em face da incidência da Súmula 42/TNU.
+IV. A jurisprudência do STJ firmou-se "no sentido do cabimento do incidente somente na hipótese em que a matéria foi submetida à apreciação de órgão colegiado da Turma Nacional de Uniformização de Jurisprudência - TNU, sob pena de supressão de instância. Além do mais, o incidente somente é cabível para discutir questões de natureza material (e não de índole processual)" (STJ, AgInt no PUIL 2.405/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 17/03/2022). Nesse sentido: STJ, AgInt no PUIL 2.639/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 17/06/2022; AgInt no PUIL 1.148/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 05/05/2022).
+V. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os argumentos da parte agravante, as razões deduzidas neste recurso não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+Dispõe o art. 14 da Lei 10.259/2001 que "caberá pedido de uniformização de interpretação de lei federal quando houver divergência entre decisões sobre questões de direito material proferidas por Turmas Recursais na interpretação da lei. (..) § 4º Quando a orientação acolhida pela Turma de Uniformização, em questões de direito material, contrariar súmula ou jurisprudência dominante no Superior Tribunal de Justiça - STJ, a parte interessada poderá provocar a manifestação deste, que dirimirá a divergência".
+Nesse contexto, a jurisprudência do STJ firmou-se "no sentido do cabimento do incidente somente na hipótese em que a matéria foi submetida à apreciação de órgão colegiado da Turma Nacional de Uniformização de Jurisprudência - TNU, sob pena de supressão de instância. Além do mais, o incidente somente é cabível para discutir questões de natureza material (e não de índole processual)" (STJ, AgInt no PUIL 2.405/DF, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 17/03/2022).
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. APLICABILIDADE DO CPC/2015. AUSÊNCIA DOS REQUISITOS PREVISTOS NO ART. 14, § 4º, DA LEI N. 10.259/2001 DECISÃO MONOCRÁTICA DO PRESIDENTE DA TNU. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 14, § 4º da Lei 10.259/2001, caberá pedido de uniformização de lei federal perante o Superior Tribunal de Justiça somente quando a decisão da Turma Nacional sobre questão de direito material estiver em confronto com súmula ou jurisprudência dominante do STJ.
+2. A orientação jurisprudencial desta Corte Superior é no sentido do cabimento do incidente somente na hipótese em que a matéria foi submetida à apreciação de órgão colegiado da Turma Nacional de Uniformização de Jurisprudência - TNU, sob pena de supressão de instância. Além do mais, o incidente somente é cabível para discutir questões de natureza material (e não de índole processual).
+3. Agravo interno não provido" (STJ, AgInt no PUIL 2.639/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 17/06/2022).
+"PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. DECISÃO MONOCRÁTICA DO PRESIDENTE DA TNU. NÃO CABIMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Inadmissível o Pedido de Uniformização de Interpretação de Lei quando manejado contra decisão monocrática do Presidente da Turma Nacional de Uniformização.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido" (STJ, AgInt no PUIL 1.148/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, DJe de 05/05/2022).
+No caso dos autos, como destacou a decisão ora agravada, o Pedido de Uniformização de Interpretação de Lei Federal, dirigido à Turma Nacional de Uniformização de Jurisprudência, foi inadmitido, por decisão monocrática de seu Presidente, em face da incidência da Súmula 42/TNU.
+Assim, como não houve pronunciamento, por decisão colegiada da Turma Nacional de Uniformização, acerca do mérito da controvérsia posta no Pedido de Uniformização, não há como conhecer da irresignação, à luz do art. 14, § 4º, da Lei 10.259/2001.
+Ante o exposto, nego provimento ao Agravo interno.
+É como voto.
