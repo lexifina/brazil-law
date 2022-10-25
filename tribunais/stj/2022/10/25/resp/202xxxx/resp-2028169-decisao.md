@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial, interposto por RODRIGO MARRA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fls. 289/290, e-STJ):
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL E PROCESSUAL CIVIL. CUMPRIMENTO PROVISÓRIA DE SENTENÇA. AÇÃO CIVIL PÚBLICA N. 94.008514-1 DA 3ª VARA FEDERAL DA SEÇÃO JUDICIÁRIA DO DF. VALOR DEPOSITADO EM JUÍZO. PRETENSÃO DE LEVANTAMENTO SEM CAUÇÃO. NÃO PREENCHIMENTO DOS REQUISITOS LEGAIS. DECISÃO MANTIDA.
+1. O cumprimento provisório de sentença corre por iniciativa e responsabilidade do exequente, que se obriga a reparar os danos que o executado possa sofrer caso a sentença exequenda seja reformada, conforme prevê o art. 520 do CPC. 1.1. Há que se garantir que as partes possam retornar ao estado anterior caso a sentença objeto de cumprimento seja modificada ou mesmo anulada.
+2. O parágrafo único do art. 521 do CPC, prescreve que a caução deve ser mantida quando o levantamento do depósito em dinheiro implicar risco considerável para o executado, ou seja, há um comando que determina a exigência de caução se verificado risco de grave dano de difícil ou incerta reparação.
+3. In casu, o levantamento da quantia pretendida revela manifesto risco de grave dano de difícil ou incerta reparação, sendo difícil o caminho da reversibilidade dos efeitos desta concessão. 3.1. Desse modo, a pretensão de levantamento da quantia, sem o oferecimento de caução idônea, mostra-se temerária.
+4. Agravo conhecido e desprovido. Decisão mantida.
+Nas razões do recurso especial (fls. 308/318, e-STJ), a parte recorrente aponta, além de dissídio jurisprudencial, ofensa aos artigos502, 520, IV e 521, parágrafo único, do Código de Processo Civil/15. Sustenta, em suma, a possibilidade de levantamento, em sede de cumprimento provisório de sentença, de valores devidos a título de verba honorária sucumbencial, independentemente de prestação de caução, em razão de sua natureza alimentar.
+Contrarrazões às fls. 350/355, e-STJ, e após decisão de admissão do recurso especial (fls. 358/359, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Orecorrente alega violação aos artigos 502, 520, IV e 521 do CPC/15, aduzindo que a verba possui natureza alimentar por tratar-se exclusivamente de honorários sucumbenciais, sendo dispensável a exigência de caução.
+A esse respeito, concluiu a Corte de origem (fls. 292/295, e-STJ):
+Presentes os pressupostos de admissibilidade, o recurso fora conhecido conforme decisão de ID 31635106.
+Conforme o relatado, trata-se de agravo de instrumento, com pedido de antecipação de tutela recursal, interposto pelo Exequente em face da decisão proferida no cumprimento provisório de sentença n. 0727191-72.2021.8.07.0001, que indeferiu o pedido de dispensa de prestação de caução para levantamento dos valores depositados pelo Executado em conta judicial, com base na regra do art. 520, inc. IV, do CPC.
+A controvérsia recursal consiste em verificar a possibilidade, ou não, do levantamento pelo Exequente do valor depositado em Juízo pelo Executado, sem prestação de caução, no cumprimento individual provisório de sentença n. 0727191-72.2021.8.07.0001.
+No que tange à pretensão de levantamento da importância depositada pelo devedor, a regra é clara quanto à exigência de cumprimento de certos pressupostos para se dispensar a prestação de caução pela parte credora. Confira-se:
+(..)
+O caput do art. 521 do CPC, ao mencionar que a caução poderá ser dispensada, estabeleceu uma faculdade diante das particularidades do caso concreto, em especial a capacidade do Exequente de ressarcir o Executado e a maior ou menor probabilidade de êxito no agravo em recurso extraordinário e/ou no agravo em recurso especial pendentes, cabendo ao Julgador exigir ou dispensar a caução antes de excetuar a regra de cautela imposta pelo art. 520, inc. IV, do CPC.
+Vale ressaltar que o parágrafo único do art. 521 do CPC, prescreve que a caução deve ser mantida quando o levantamento do depósito em dinheiro implicar risco considerável para o Executado, ou seja, há um comando que determina a exigência de caução se verificado risco de grave dano de difícil ou incerta reparação, ainda que pendente apenas o agravo do art. 1.042 do CPC ou diante da premente necessidade do Exequente.
+Sabe-se que o cumprimento provisório de sentença corre por iniciativa e responsabilidadedo exequente, que se obriga a reparar os danos que o executado possa sofrer caso a sentença seja reformada, conforme prevê o art. 520 do CPC.
+Por tal razão, há que se garantir que as partes possam retornar ao estado anterior caso a sentença objeto de cumprimento seja modificada ou mesmo anulada.
+No caso, demanda-se o levantamento de quantia, a qual já está depositada em juízo e, portanto, encontra-se resguardado o direito do Agravante ao recebimento da verba honorária.
+No entanto, apesar da relevância dos argumentos trazidos pelo Agravante, não identifico, a priori, qualquer perigo de dano em se aguardar o trânsito em julgado da sentença proferida na ação civil pública de n. 94.008514-1, pelo Juízo da 3ª Vara Federal da Seção Judiciária do Distrito Federal, bem como da liquidação de sentença n. 0733188-07.2019.8.07.0001, que deu ensejo à constituição da verba honorária pretendida, ou a prestação de caução, pelo Credor, para a liberação, em seu favor, do montante depositado na conta judicial.
+Isso porque, o levantamento da quantia pretendida revela manifesto risco de grave dano de difícil ou incertareparação, sendo difícil o caminho da reversibilidade dos efeitos desta concessão. Ainda que o crédito tenha natureza alimentar, a dispensa de caução depende da manifesta ausência do perigo de irreversibilidade dos efeitos da decisão.
+Desse modo, a pretensão de levantamento da quantia, sem o oferecimento de caução idônea, mostra-se temerária.
+Nesse sentido, destaco os seguintes julgados desta Corte de Justiça:
+(..)
+Ademais, ainda que tenha sido dado provimento ao agravo de instrumento 0707251-27.2021.8.07.0000 a fim de condenar o Agravado, em sede de liquidação de sentença, ao pagamento de honorários advocatícios de sucumbência, e que o aludido acórdão tenha transitado em julgado, a decisão ainda depende de trânsito em julgado da ação que deu origem à execução.
+Por tudo isso, diante da situação fática apresentada nos autos, denoto que agiu com acerto o Juízo a quo quanto à necessidade de aguardar o trânsito em julgado da ação civil pública n. 94.008514-1 e, por conseguinte, a liquidação de sentença n. 0733188-07.2019.8.07.0001, que deu ensejo à constituição da verba honorária pretendida, ou a prestação de caução pelo Exequente.
+Desse modo, o entendimento do Tribunal de origem, no ponto, encontra-se emharmonia com a jurisprudência do STJ, o que atrai a incidência do teor daSúmula 83 desta Corte, a impedir o conhecimento do recurso por ambas asalíneas do permissivo constitucional.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA PROVISÓRIA. RECURSO ESPECIAL REPETITIVO. SUSPENSÃO PROCESSUAL. STJ. INAPLICABILIDADE. EFEITO SUSPENSIVO. INDEFERIMENTO. TESES JURÍDICAS. INVIABILIDADE. SÚMULAS N. 7 E 83/STJ. RISCO DE DANO IRREPARÁVEL. INEXISTÊNCIA. DECISÃO MANTIDA.
+(..)
+6. A mera instauração do cumprimento provisório de sentença não traduz risco iminente de dano irreparável, sendo certo que mesmo na hipótese em que houver o depósito da quantia reivindicada pela parte credora, a devedora poderá requerer ao Juízo da causa que exija caução para o levantamento dos valores depositados (CPC/2015, art. 521, § 1º), sujeitando-se eventual deliberação negativa aos recursos processuais comportados.
+7. Agravo interno a que se nega provimento.
+(AgInt no TP n. 2.631/PE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 1/6/2020, DJe de 5/6/2020.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE TUTELA PROVISÓRIO INDEFERIDO. CONSTATAÇÃO, PELA DECISÃO AGRAVADA, DO NÃO PREENCHIMENTO DOS REQUISITOS NECESSÁRIOS À CONCESSÃO DA PRESENTE MEDIDA DE URGÊNCIA. VERIFICAÇÃO. SIMPLES INÍCIO DO CUMPRIMENTO PROVISÓRIO DE SENTENÇA. MECANISMOS ESTABELECIDOS NO CÓDIGO DE PROCESSO CIVIL DESTINADOS A EQUALIZAR OS INTERESSES CONTRAPOSTOS. URGÊNCIA DA MEDIDA. NÃO CARACTERIZAÇÃO. AGRAVO INTERNO IMPROVIDO.
+1. A lei adjetiva civil, não obstante permita o cumprimento provisório da sentença, estabelece que "o levantamento de depósito em dinheiro e a prática de atos que importem a transferência de posse ou alienação de propriedade ou de outro direito real, ou dos quais possa resultar grave dano ao executado, dependem de caução suficiente e idônea, arbitrada de plano pelo juiz e prestada nos próprios autos" (inciso IV do art. 520 do CPC/2015).
+2. Agravo interno improvido.
+(AgInt nos EDcl no TP n. 2.189/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/5/2020, DJe de 8/5/2020.)
+Ademais, como se vê, por meio do conteúdo fático-probatório constante dos autos, o órgão julgador concluiu pela ausência de comprovação do periculum in mora necessário apto a justificar o afastamento do oferecimento de caução.
+Derruir as conclusões a que chegou o Tribunal de origem e acolher a pretensão recursal, no sentido de autorizar o levantamento dos valores sem o oferecimento de caução, ensejaria o necessário revolvimento das provas constantes dos autos, providência vedada em sede de recurso especial, ante o óbice estabelecido pela Súmula 7/STJ.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. ART. 521, PARÁGRAFO ÚNICO, DO CPC/2015. DISPENSA DE CAUÇÃO. AUSÊNCIA DE ELEMENTOS NOS AUTOS APTOS A DEMONSTRAR A EXISTÊNCIA DE RISCO DE GRAVE DANO DE DIFÍCIL OU INCERTA REPARAÇÃO DECORRENTE DA DISPENSA. PRETENSÃO DE REVISÃO DA PREMISSA FIXADA NO ACÓRDÃO RECORRIDO. INVIABILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. ADEQUAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+(AgInt no AREsp n. 1.465.855/DF, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 8/6/2020, DJe de 12/6/2020.)
+2. Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
