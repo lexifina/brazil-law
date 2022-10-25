@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por Banco Votorantim S.A. - sucessor de BV Financeira S.A. Crédito, Financiamento e Investimento, com base no art. 105, III, a e c, da Constituição Federal contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 862):
+BEM MÓVEL COMPRA E VENDA AÇÃO DE RESCISÃO CONTRATUAL C. C. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS Cerceamento de defesa Inocorrência - Compra e venda de veículo financiado Contratos coligados Legitimidade da instituição financeira - Vício oculto - Veículo que apresentou defeito no freio logo após a aquisição Solução do problema dentro do prazo legal - Comprovação Inexistência - Danos morais caracterizados Indenização criteriosa Ação procedente - Recursos desprovidos, com observação.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 879-882).
+Nas razões do recurso especial, o recorrente alega violação aos arts. 14, § 3º e seu inciso II, e 18 do CDC, além da existência de divergência jurisprudencial.
+Sustenta, em síntese, sua ilegitimidade para figurar no polo passivo, tendo em vista que ausente relação de acessoriedade entre o contrato de compra e venda do veículo e o financiamento bancário.
+Contrarrazões apresentadas (e-STJ, fls. 968-972).
+Admitido o recurso especial na origem, os autos ascenderam a esta Corte.
+Brevemente relatado, decido.
+No tocante à relação jurídica negocial firmada entre as partes, constaram os seguintes fundamentos do acórdão recorrido (e-STJ, fls. 229-230):
+A presente ação foi proposta ao fundamento de que a apelada em 13/11/2019, adquiriu veículo Fiat / Idea, 2012, por R$35.900,00, fornecido pela apelante Ponto Sul Automóveis S J Campos e financiado pela apelante BV Financeira S/A, o qual apresentou problemas desde a aquisição. Por isso, o veículo ficou retido para os consertos necessários e ao lhe ser entregue apresentou novos problemas (trepidação, falta de freio e problemas no câmbio) necessitando novos reparos, que não foram solucionados, o que o levou a quase capotar por duas vezes, pois o freio não atendeu ao comando. Pretende, assim, a rescisão contratual, com a devolução dos valores pagos ou outro veículo em perfeito estado de conservação; indenização por danos morais fixados judicialmente. Atribuiu à causa o montante de R$25.370,00.
+De acordo com a r. sentença recorrida, a presente ação foi julgada procedente, decretando a resolução dos contratos, compra e venda e financiamento, determinando a devolução do veículo à apelante Ponto Sul Automóveis S J Campos, em dez dias sob pena deperda, condenando-a ao ressarcimento de todos os valores gastos na compra, incluindo o do carro dado em pagamento; pagamento de indenização por danos materiais de R$ 550,00; indenização por danos morais de R$ 6.270,00. Condenou, ainda, ambas as apelantes, Ponto Sul Automóveis S J Campos e BV Financeira S/A, solidariamente, ao ressarcimento dos importes entregues para quitação das prestações do financiamento. Ambas as apelantes responderão pelas custas, despesas processuais e honorários advocatícios de 10% do valor das respectivas condenações.
+Ocorre que, os contratos firmados por revendedora de veículos e consumidor, por meio de financiamento, são coligados, cuja responsabilidade da revendedora e da instituição financeira, além de objetiva é solidária, visto que participam da cadeia de fornecimento. De modo que, o contrato de financiamento é mero acessório do contrato de compra e venda, motivo pelo qual, rescindido o principal, não há como subsistir o acessório. Inviável, portanto, que prevaleça o financiamento sobre compra e venda desfeita, uma vez que o acessório segue a mesma sorte do principal. Manifesta, portanto, a legitimidade de parte passiva da apelante BV Financeira S/A.
+Observa-se que a premissa lançada pelo Tribunal de origem vai de encontro com a compreensão desta Corte no sentido de inexistência de acessoriedade entre o contrato de compra e venda de veículo e o de financiamento do valor pago.
+Nesse sentido, destacam-se os seguintes precedentes:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. FINANCIAMENTO DE VEÍCULO. ALIENAÇÃO FIDUCIÁRIA. INSTITUIÇÃO FINANCEIRA. REVENDEDORA. RELAÇÃO DE ACESSORIEDADE. INEXISTÊNCIA. VERIFICAÇÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. ENTENDIMENTO ADOTADO NESTA CORTE. VERBETE 83 DA SÚMULA DO STJ. EMPRÉSTIMO. REALIZAÇÃO. FORMA. NÃO ESCLARECIMENTO. FUNDAMENTOS DO ACÓRDÃO. NÃO IMPUGNAÇÃO. INCIDÊNCIA DO VERBETE 283 DA SÚMULA/STF. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+3. As razões elencadas pelo Tribunal de origem não foram devidamente impugnadas. Incidência do enunciado 283 da Súmula/STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.762.147/SC, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 31/5/2021, DJe 4/6/2021)
+CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. CONTRATOS DE COMPRA E VENDA DE VEÍCULO E DE FINANCIAMENTO FIRMADOS COM SOCIEDADES DIVERSAS E INDEPENDENTES. AUTONOMIA DAS AVENÇAS. DESFAZIMENTO DO PRIMEIRO AJUSTE. EXIGIBILIDADE DAS OBRIGAÇÕES ASSUMIDAS PERANTE A INSTITUIÇÃO FINANCEIRA. VALIDADE DO SEGUNDO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os contratos de compra e venda de veículo e o respectivo financiamento com alienação fiduciária celebrado com instituição financeira não vinculada diretamente à revenda de automóveis não guardam relação de acessoriedade entre si, de modo que o desfazimento daquele não acarreta a extinção do segundo.
+Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1.835.460/DF, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/6/2020, DJe 12/6/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE VEÍCULO USADO. FINANCIAMENTO POR INSTITUIÇÃO DE CRÉDITO. NEGÓCIOS JURÍDICOS DISTINTOS E INDEPENDENTES. NULIDADE DO PRIMEIRO. MANUTENÇÃO DO FINANCIAMENTO.
+1. São distintos e independentes os contratos de compra e venda de bem de consumo e de financiamento, perante instituição financeira, não havendo acessoriedade entre eles.
+2. Eventual rescisão da compra e venda não afeta o contrato de financiamento, salvo na hipótese em que a instituição financeira seja vinculada diretamente à revenda de veículos, o que não se configura no presente caso. Precedentes do STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1.497.758/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/2/2018, DJe 2/3/2018)
+Importante ressaltar que a questão em debate difere da responsabilidade dos bancos vinculados diretamente à concessionária/montadora para compra de veículos novos.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL E REPARAÇÃO DE DANOS. COMPRA E VENDA DE VEÍCULO.
+FINANCIAMENTO POR INSTITUIÇÃO FINANCEIRA. APREENSÃO DO AUTOMÓVEL POR AUTORIDADE POLICIAL. EVICÇÃO. ILEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. INEXISTÊNCIA DE RESPONSABILIDADE SOLIDÁRIA. AGRAVO NÃO PROVIDO.
+1. A instituição financeira que apenas financia a compra do automóvel não responde pelos prejuízos decorrentes da posterior apreensão policial do veículo, uma vez que, nos termos da jurisprudência desta Corte, a responsabilidade pelos riscos da evicção é exclusiva do alienante. Precedentes.
+2. "A responsabilidade solidária entre a instituição financeira e a concessionária de automóveis somente se perfaz, quando existe vinculação entre ambas, isto é, quando além de autuar como "banco de varejo", a instituição financeira atua também como "banco da montadora". (AgInt nos EDcl no REsp 1.752.619/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 25/06/2019, DJe de 1º/07/2019), o que não é o caso dos autos.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 814.991/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 19/11/2019, DJe 12/12/2019, sem grifo no original)
+Ante do exposto, dou provimento ao recurso especial a fim de reconhecer a ilegitimidade passiva da instituição financeira, mantendo-se hígido o contrato de financiamento automotivo.
+Custas e honorários advocatícios fixados em 10% sobre o valor da causa, a serem suportados pela parte autora, observada a concessão da assistência judiciária gratuita.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. RESCISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. 1. COMPRA E VENDA DE VEÍCULO. INEXISTÊNCIA DE ACESSORIEDADE ENTRE OS CONTRATOS. ILEGITIMIDADE PASSIVA DA INSTITUIÇÃO FINANCEIRA. PRECEDENTES. 2. RECURSO ESPECIAL PROVIDO.
