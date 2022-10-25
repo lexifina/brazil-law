@@ -1,0 +1,8 @@
+DECISÃO
+RAFAEL FERRAZ FERREIRAalega sofrer constrangimento ilegal diante de acórdão proferido peloTribunal de Justiça do Estado de Minas Geraisno HC n.1.0000.22.221389-4/000, que conheceu em parte da impetração e denegou a ordem, de modo a manter a prisão preventiva do réu.
+Em consulta ao sistema informatizado desta Corte Superior, verifico a anterior interposição, em favor do ora postulante, do RHC n. 171.371/MG, em que a defesa também pleiteia a concessão de liberdade provisória ao réu. Naqueles autos, consignei ser idônea a motivação exarada pelo Juízo singular, por evidenciar o risco de reiteração delitiva. Confira-se (destaques no original):
+Quanto aos fundamentos para a imposição da medida cautelar máxima, apontou o Juízo singular que, "apesar de primários, os flagrados ostentam diversos registros criminais o que demonstra que vêm reiterando em suas condutas delituosas. A título de exemplo, o flagrado DAVID foi beneficiado com a liberdade em 11/02/2022 e 04/10/2021. Já Rafael teve liberdade em 07/04/2022 e 15/02/2022" (fl. 154, sublinhei).
+A esse respeito, urge consignar que a jurisprudência desta Corte Superior é firme ao asseverar que " i nquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva" (RHC n. 68550/RN, Rel. Min. Sebastião Reis Júnior, 6ª T., DJe 31/3/2016, grifei).
+Desse modo, verifico que a tese recursal émera reiteração de pedido anteriormente formulado e já apreciado, motivo pelo qual não comporta conhecimento.
+À vista do exposto,indefiro liminarmente o recurso.
+Publique-se e intimem-se.
