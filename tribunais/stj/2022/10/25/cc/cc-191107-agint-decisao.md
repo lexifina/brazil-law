@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO INTERNO EM CONFLITO NEGATIVO DE COMPETÊNCIA.A SOLUÇÃO DOS EMBARGOS DE DECLARAÇÃO PRETERITAMENTE APRESENTADOS ESGOTA - PORQUE JÁ FOI ALCANÇADA - A PRETENSÃO DO AGRAVO INTERNO. RECURSO PREJUDICADO.
+1. Trata-se de agravo interno do MINISTÉRIO PÚBLICO FEDERALinterposto contra decisão unipessoal de ministro relator no STJ, que contou com a seguinte ementa:
+DIREITO PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA ENTRE TRIBUNAIS REGIONAIS DO TRABALHO. INCOMPETÊNCIA DO STJ (fl. 2.340).
+2. Nas razões de seu recurso, o Parquet postula reforma parcial da decisão agravada, que não conheceu do conflito, ao argumento de que,vislumbrando-se, no presente caso, a incompetência do Superior Tribunal de Justiça diante da incumbência do Tribunal Superior do Trabalho para apreciar o conflito negativo de competência suscitado entre Tribunais Regionais do Trabalho, em vez ded eixar-se de conhecer do incidente, caberia remeter o feito à Corte Trabalhista para seu processamento e julgamento (fl. 2.358).
+3. Às fls. 2.364/2.367, a parte interessada IVALDETE DA CONCEIÇÃO SILVA COSTA manifesta aderência à tese recursal contida no agravo interno.
+4. Em síntese, é o relatório.
+5. A apreciação de embargos de declaração opostos contra decisão unipessoal de relator de Tribunal precede ado agravo interno, uma vez que aquele recurso tem caráter meramente integrativo, a ser praticado eminentemente pelo condutor do feito, ao passo que o recurso dirigido ao Colegiado busca reforma propriamente dita da decisão recorrida, salvo retratação do relator.
+6. Essa dissertação tem relação com o caso concreto porque, ao analisar aclaratórios opostos contra a decisão que não conheceu do conflito por parte interessada no conflito, IVALDETE DA CONCEIÇÃO SILVACOSTA, entendeu-se que era caso de acolhimentos dos embargos, suprindo-se omissão, de modo afazer constar o seguinte na parte dispositiva da decisão embargada: não se conhece do conflito, determinando-se a remessa destes autos ao colendo Tribunal Superior do Trabalho, a fim de que, entendendo-se competente, possa apreciar e julgar a espécie.
+7. Essa solução vai ao encontro do que o Parquet Federal pretende no agravo interno ora em exame, isto é, para que se adote providência de remessa dos autos ao tribunal competente, uma vez que, na decisão recorrida, se proclamou a incompetência do STJ para dirimir o conflito de competência.
+8. Diante desse cenário, a solução dos embargos de declaração preteritamente apresentadosesgota - porque já foi alcançada - a pretensão do agravo interno.
+9. Pelo exposto, julga-se prejudicado o agravo interno do Parquet Federal.
+10. Publique-se. Intimações necessárias.
