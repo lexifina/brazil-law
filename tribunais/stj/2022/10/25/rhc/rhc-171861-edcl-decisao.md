@@ -1,0 +1,13 @@
+DECISÃO
+GEREMIAS LIMA DE SOUZA opõe aclaratórios àdecisão de fls. 151-154, que concedeu a ordem de habeas corpus, de ofício, para determinar ao Juiz da Execuçãoa observância do Tema Repetitivo n. 1.006.
+A parte afirma que persiste o "erro na aplicação da data-base" (fl. 843). Como foi preso em flagrante por roubo, em 22/3/2012, explica que esse é o termo inicialdos direitos executórios, sendo equivocada a afirmação do Juiz da Execução, de que houve interrupção do prazo para progressão de regime ante a prática de falta grave(fl. 844), pois inexiste decisão reconhecendo o ato de indisciplina(fl. 847), precedida de PAD e de audiência de justificação.
+Requer o "saneamento da omissão e obscuridade" para a adoção do dia 22/3/2012 como data-base de progressão" (fl. 852).
+Decisão.
+O recurso integrativo apenas é cabível nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quandoobjetivam nova apreciação do caso.
+Não há, na decisão concessiva do habeas corpus, nenhum dos vícios do art. 619 do CPP. De maneira expressa e inteligível, constou do julgado que:
+Não compete a esta Corte definir datas exatas para os cálculos penais. Assim, a ordem deve ser concedida para que o Juiz da VEC aplique ao caso a tese firmada pela Terceira Seção deste Superior Tribunal no Tema Repetitivo n. 1.006, de que "A unificação de penas não enseja a alteração da data-base para concessão de novos benefícios executórios".
+A ordem não comporta integração, está bem delimitada: aunificação de penas do art. 111 da LEP não enseja a alteração da data-base para concessão de novos direitos executórios ao apenado.
+A alegação de que não houve a prática de falta grave a justificar ainterrupção do prazo para progressão de regime é inédita e não pode ser conhecida, em indevida supressão de instância. A discussão nestes autos era somente sobre a aplicação do art. 111 da LEP e, aoincluir nosaclaratórios a nova tese, a parte inovou as razões delimitadas no momento dainterposição do habeas corpus, o que não se admite. Ainda, o writ não é supedâneo e não pode ser veiculado comoreclamação.
+A aplicação do art. 654, § 2º, de CPPé de iniciativa do órgão julgador a depender daconstatação de ilegalidade flagrante em processo de sua competência. Não se presta ao pronunciamento forçado sobre questões que não passaram pelo crivo das instâncias ordinárias. Se o Juiz daVEC incorreu em nova ilegalidade, o incidente deve ser levado primeiramente ao Tribunal de Justiçapara, somente então, comportar conhecimento por esta Corte.
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
