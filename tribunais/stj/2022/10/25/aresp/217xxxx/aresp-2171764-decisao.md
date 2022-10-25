@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 53):
+EMENTA: AGRAVO DE INSTRUMENTO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. AÇÃO CIVIL PÚBLICA AJUIZADA PELO MINISTÉRIO PÚBLICO. CÉDULA RURAL. EXPURGOS INFLACIONÁRIOS. ILEGITIMIDADE ATIVA AD CAUSAM.INCOMPETÊNCIA TERRITORIAL. LITISCONSÓRCIO PASSIVO NECESSÁRIO DA UNIÃO E DO BANCO CENTRAL DO BRASIL AFASTADO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
+1. Não prospera a alegação de ilegitimidade ativa do agravado em razão da limitação territorial da coisa julgada prevista no art. 16 da Lei da Ação Civil Pública, haja vista que os efeitos e a eficácia da sentença não estão circunscritos a lindes geográficos, mas aos limites objetivos e subjetivos do que foi decidido, segundo precedentes do STJ e desta Corte de Justiça.
+2. Em que pese a condenação solidária na ação civil pública, objeto da liquidação individual, a parte Exequente pode ajuizar o cumprimento de sentença contra qualquer dos requeridos, sendo descabido impor litisconsórcio passivo necessário com a União e o Banco Central e, de consequência, declinar a competência para a Justiça Federal.
+3. Desnecessário que o julgador se manifeste expressamente sobre cada argumento aduzido pelas partes, pois, entre as funções desta Corte, não se inclui a de órgão consultivo.
+AGRAVO DE INSTRUMENTO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts.114, 115, parágrafo único, 118, 130, III e 131, 1.022, 1.025do Código de Processo Civil; ao art. 93do Código de Defesa do Consumidor; bem como divergência jurisprudencial.
+Sustenta que houve negativa de prestação jurisdicional, porquanto, a despeito da oposição de embargos de declaração, o acórdão foi omisso e não analisou as questões deduzidas pelo embargante.
+Defende a necessidade de chamamento da União e do Bacen ao processo, em razão de condenação solidária em sentença coletiva.
+Alega a ausência de competência daJustiça Estadual para liquidar/cumprir provisoriamente a sentença coletiva.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude do óbice daSúmula284/STF,no que tange à alegada violação aos arts. 489 e 1.022 do CPC; e da Súmula 83 do STJ, no que se refere à competência para o ajuizamento do cumprimento de sentença, bem como quanto à inexistência de litisconsórcio passivo necessário.
+Nas razões deste agravo em recurso especial, o agravante afirma que não incidem os óbices sumulares apontados,sustentando, no tocante à Súmula 83 do STJ, que o entendimento desta Corte é no sentido de ser possível o chamamento ao processo em caso de condenação solidária.
+A parte recorrida apresentou contraminuta ao agravo.
+Assim delimitada a controvérsia, passo a decidir.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único,inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+No caso, o recurso especial não foi admitido pelo Tribunal de origem em razão dos óbices das Súmulas 83/STJ e 284/STF.
+Nas razões do agravo, a parte não rebateu todos osfundamento da decisão agravada, porquanto deixoude refutar a incidência da Súmula nº 83 do STJ quantoà competência da Justiça estadual para julgamento do feito.
+Registre-se que, em respeito ao princípio da dialeticidade, os recursos devem ser fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento, por ausência de cumprimento dos requisitos previstos no art. 932, III, do Código de Processo Civil de 2015, e pela aplicação analógica da Súmula 182 do STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1904123/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 4/10/2021, DJe 8/10/2021)
+Assim, não há possibilidade de impugnação parcial da decisão que deixa de admitir recurso especial, já que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Especificamente quanto ao fundamento de consonância da conclusão doacórdão recorrido com a jurisprudência do STJ (Súmula 83/STJ), esta Corte possuientendimento firme no sentido de que "uma vez que o Tribunal de origem invocou aSúmula n. 83/STJ como fundamento para inadmitir o recurso especial, a efetivaimpugnação desta decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de umadequado confronto analítico, que o entendimento jurisprudencial desta Corte Superioré diverso ou que a situação em análise difere substancialmente dos precedentesinvocados pelo Tribunal a quo" (AgRg no AREsp 1686696/SC, Rel. Ministra LAURITAVAZ, SEXTA TURMA, DJe 29.6.2020). Ainda nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DEERRO DE CÁLCULOS DA CONTADORIA JUDICIAL. DISCUSSÃO ACERCA DOSCRITÉRIOS ADOTADOS. ACÓRDÃO EM CONSONÂNCIA COM AJURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. REVISÃO DO JULGADO.SÚMULA N. 7 DO STJ. AGRAVO INTERNO IMPROVIDO.
+1. O Colegiado estadual adotou solução em sintonia com a orientaçãojurisprudencial desta Corte no sentido de que o erro passível de correção aqualquer tempo é somente o material, ou seja, o erro de cálculo evidente, sendo oscritérios de cálculo utilizados na liquidação da sentença passíveis de preclusão senão impugnados oportunamente. Incidência, no ponto, da Súmula n. 83 do STJ.
+2.Quando o inconformismo excepcional não é admitido pela instânciaordinária, com fundamento no enunciado n. 83 da Súmula do SuperiorTribunal de Justiça, a impugnação, em tema de agravo em recurso especial,deve indicar precedentes contemporâneos ou supervenientes aosmencionados na decisão combatida, demonstrando-se que outro é oentendimento jurisprudencial desta Corte.
+3. A revisão da conclusão do Tribunal local, para acolher a pretensão recursal,quanto à existência de erro de cálculo, demandaria o revolvimento do acervofático-probatório dos autos, o que se mostra impossível ante a naturezaexcepcional da via eleita, consoante o enunciado da Súmula n. 7 do SuperiorTribunal de Justiça.
+4. Agravo interno improvido.
+(AgInt no AREsp 1342744/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE,TERCEIRA TURMA, DJe 9.4.2019).
+No caso, com relação à aplicação do óbice da Súmula 83/STJ, a parte agravante não demonstrou que o entendimento desta Corte Superior é diverso do adotado no acórdão recorrido ou que não se aplicam osprecedentes indicados no Juízo de admissibilidade.
+Desse modo, sem a impugnação específica e suficiente para infirmar os fundamentos da decisão agravada, aplica-se, por analogia, o enunciado n. 182 da Súmula do STJ.
+Em face do exposto, não conheço do agravo.
+Intimem-se.
