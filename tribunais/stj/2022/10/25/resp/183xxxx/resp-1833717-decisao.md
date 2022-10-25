@@ -1,0 +1,26 @@
+DECISÃO
+Vistos, etc,
+Trata-se de recurso especial interposto por FINA ESTAMPA DE PARATY LTDA. contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+APELAÇÃO CIVEL. Direito do consumidor. Indenização. Microempresa consumidora que teve seu cartão de crédito furtado, tendo o criminoso efetuado compras. Sentença que afastou o dano moral e determinou o cancelamento dos débitos oriundos da fraude e condenou o réu na obrigação do reenvio da fatura com vencimento no dia 25/04/2014, sem as compras não reconhecidas. Recurso do réu. Provimento.
+A responsabilidade das instituições financeiras é objetiva, fundada na Teoria do Risco do Empreendimento, razão por que somente afasta sua responsabilidade mediante prova da inexistência do defeito ou culpa exclusiva do consumidor ou de terceiro (CDC, artigo 14, §3º). Todavia, como cediço, operações com cartão de crédito com chip e senha pessoal extraviados ou furtados não autoriza o ressarcimento do dano por operações realizadas antes de ser viabilizado o bloqueio do cartão. Uma vez que o usuário é o responsável pela escolha, sigilo e guarda da senha.
+Logo, enquanto não comunicar à instituição financeira, responderá pelas operações realizadas antes da comunicação do fato em tempo hábil a respeito do furto, de molde a possibilitar o bloqueio por uso indevido.
+Na época em que era utilizada a tarja, sem a colocação de senha, poder-se-ia afastar a responsabilidade concorrente do consumidor e o fato de terceiro, contudo, no caso narrado, alguém que possuía a senha efetuou os gastos.
+Razão pela qual a consumidora por culpa in eligendo, permitiu que alguém obtivesse tais dados, não se podendo imputar ao fornecedor tal responsabilidade.
+Vale ressaltar que não se trata de roubo, onde o criminoso forçou a parte a fornecer a senha ou a levou até os locais das compras, mas de furto, onde aparte somente tomou conhecimento do ocorrido dias depois.
+Recurso provido.
+No recurso especial, interposto com fundamento nas alíneasaecdo permissivo constitucional, a recorrente apontou, além da divergência jurisprudencial, ofensa aos arts. 82, §2º, do CPC, 927 do CC e14 do CDC. Aduziu que (I) a recorrida deve ser condenada ao pagamento integral das custas em razão da negligência de não acompanhar os procedimentos de compras no cartão de crédito; (II) há obrigação de indenizar, independentemente da existência de culpa.
+Não foram apresentadas contrarrazões ao recurso especial (fls. 312).
+É o relatório.
+Passo a decidir.
+O recurso especial não comporta conhecimento.
+Com efeito, ausente o prequestionamento da matéria relativa ao art. 82, §2º, do CPC e art. 927 do CC,porquanto não apreciada pelo julgado recorrido, inviável o seu conhecimento nesta sede, nos termos das Súmulas 282 e 356/STF.
+Ressalto que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrigui, Terceira Turma, julgado em 04/04/2017, DJe 10/04/2017), o que não ocorreu, pois a parte sequer opôs embargos de declaração. Logo, não há como se ter como prequestionada a matéria. Nesse sentido: AgInt no AREsp 1043549/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe 01/08/2017; AgInt no REsp 1633039/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/05/2017, DJe 24/05/2017.
+Quanto à alegada ofensa ao art. 14 do CDC, exsurge deficiente a fundamentação recursal, pois a recorrente limita-se a indicar o dispositivo supostamente violado, deixando de informar de que modo a legislação federal foi violada ou teve negada sua aplicação, apenas indicandoo inteiro teor da normae,genericamente, referindo que o acórdão "põe em risco a segurança jurídica do tema e desrespeita este Superior Tribunal de Justiça que já pacificou o assunto" (fl. 296). Assim, não conheço do recurso, ante a incidência da Súmula 284/STF.
+O recurso especial também não pode ser conhecido quanto à interposição pela alínea c do permissivo constitucional, pois o dissídio jurisprudencial não foi comprovado conforme estabelecido nos arts. 1.029, §1º, do CPC, e 255, §§ 1º e 2º, do RISTJ.
+A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados. A simples transcrição de ementas não é suficiente para a comprovação do dissídio. No caso, não houve o devido cotejo entre o acórdão recorrido e os paradigmas indicados.
+Ante o exposto, não conheço do recurso especial.
+Advirto as partes de multa prevista ao agravo interno manifestamente improcedente (art. 1.021, §4º, do CPC).
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL,CONSUMIDOR E PROCESSUAL CIVIL. CARTÃO DE CRÉDITO FURTADO. CANCELAMENTO DE DÉBITOS E INDENIZAÇÃO POR DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RAZÕES DO RECURSO GENÉRICAS, QUE NÃO INDICAM A FORMA COMO A NORMA FEDERAL TERIA SIDO VIOLADA. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+RECURSO ESPECIAL NÃO CONHECIDO.
