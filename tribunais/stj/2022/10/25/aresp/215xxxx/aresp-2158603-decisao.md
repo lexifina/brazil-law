@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo, manejado porMotorbel Veículos eServiços Ltda., desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III,aecda CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 780/781):
+EMBARGOS DE DECLARAÇÃO - ART. 535 DO CPC/73 - OMISSÃO VERIFICADA - ACOLHIMENTO - ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+Verificada a existência de omissão no acórdão, devem ser acolhidos os embargos declaratórios, para sanar dita omissão, atribuindo-lhes efeitos infringentes.
+Opostos embargos declaratórios, foram rejeitados(fls. 898/1.001).
+Nas razões do recurso especial, o agravante aponta, além de dissídio jurisprudencial,violação aos arts. 1.022, I e II, do CPC e 169 do CTN.
+Sustenta, em síntese:(I)negativa de prestação jurisdicional porquanto, apesar da oposição de embargos de declaração, o Tribunal aquoremanesceu omisso em razão de que o termo a quo do prazo prescricional deve ser a decisão definitiva administrativa;(II) "essa previsão de apresentação de impugnação à época do indeferimento do pedido de repetição de indébito pela Recorrente inexistia. de forma que não poderia se utilizar desse expediente para atacar a decisão de indeferimento do pedido formulado, pelo que tal argumento não tem valor juridico para fixar o marco inicial da propositura da ação anulatória à luz do artigo 169 do CTN." (fl. 1.021) e (III) o termo inicial para a contagem da prescrição deve ser a data da decisão administrativa definitiva.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se, inicialmente, não ter ocorrido ofensa aoart. 1.022, I e II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos. Com efeito, a Corte Regionalmotivou adequadamente sua decisão e solucionou a controvérsia com a aplicação do direito que entendeu cabível à hipótese (restou claro e devidamente fundamentado o entendimento de que a contagem do prazo prescricional iniciou-se da ciência pela embargante da decisão que indeferiu o pedido administrativo de restituição do crédito tributário, em 07/08/1997 (f.70), uma vez que esta não interpôs o recurso cabível conforme a legislação estadual" (fl. 997)).
+Passo seguinte, no tocante à apontada afronta ao art. 169 do CTN, vigora no Superior Tribunal de Justiça o posicionamento de que o termo inicial do prazo prescricional de 2 (dois) anos, previsto no aludido dispositivo legal, para o ajuizamento de ação anulatória é a data da ciência do contribuinte a respeito da decisão administrativa fiscal.
+A propósito:
+DIREITO TRIBUTÁRIO. RECURSO FUNDADO NO CPC/73. DECISÃO ADMINISTRATIVA DO FISCO QUE REJEITA PEDIDO DE RESTITUIÇÃO/COMPENSAÇÃO FORMULADO PELO CONTRIBUINTE. PRAZO PRESCRICIONAL PARA A PROPOSITURA DE AÇÃO JUDICIAL ANULATÓRIA. DOIS ANOS A CONTAR DA CIÊNCIA DO INDEFERIMENTO ADMINISTRATIVO.INTELIGÊNCIA DO ART. 169 DO CTN.
+1.O contribuinte que formula pleito de compensação na via administrativa dispõe de dois anos, a contar da ciência da resposta que o denega, para ingressar em juízo com a respectiva pretensão anulatória, nos termos do art. 169 do CTN.
+2. Caso concreto em que o contribuinte tomou ciência do indeferimento de seu pedido administrativo em 24/02/2005, tendo protocolado a respectiva ação judicial anulatória em 07 de junho do mesmo ano, ou seja, dentro do biênio previsto no art. 169 do Código Tributário Nacional, não havendo, por isso, falar em prescrição.
+3. Recurso especial da Fazenda Nacional a que se nega provimento.
+(REsp n. 1.180.878/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 6/2/2018, DJe de 19/2/2018.)
+Na espécie, o Tribunal de origem solucionou a contenda ao entendimento de que "verifica-se que, conforme informado pela própria empresa embargada, esta teve ciência da decisão que indeferiu o pedido de restituição em 07/08/1997 (f.70). E, apenas em 19/09/2006, propôs a presente ação anulatória" (fl. 967).
+Além disso, a Corte de origem entendeu que (fl. 969):
+Outrossim, há que se destacar que a Consolidação da Legislação Tributária Administrativa do Estado de Minas Gerais (CLTA/MG - aprovada pelo Decreto n.º 23.780, de 10 de agosto de 1984), vigente à época do indeferimento da restituição, assim previa:
+"Art. 41 - A Superintendência Regional da Fazenda, no prazo de 5 (cinco) dias, decidirá o pedido, comunicando a decisão ao requerente. § 1o- Deferido o pedido, a restituição se efetivará: a - sob a forma de aproveitamento de crédito, no caso de contribuinte de ICM;
+b - em moeda corrente, nos demais casos.
+§ 2o - Do despacho que indeferir pedido de restituição cabe impugnação, observado o disposto no Capítulo IV do Título V." (Efeitos de 11/08/84 a 10/05/99 - Redação original).
+"CAPITULO IV
+Da Impugnação
+Art. 97 - A impugnação apresentada em petição escrita dirigida ao CC/MG será entregue na Administração Fazendária a que estiver circunscrito ocontribuinte ou na Administração Fazendária da sede da Delegacia Fiscal lançadora, conforme disposto no art. 5o, no prazo de 30 (trinta) dias, contado da intimação do ato ou procedimento administrativo previsto no inciso I do art. 94."
+.Conforme, se verifica, a empresa ora embargada deixou transcorrer "in albis" o prazo para impugnar o indeferimento do pedido de restituição.
+Assim, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias quanto àimpugnação doindeferimento do pedido de administrativa, exigiria a análise de dispositivos de legislação local (Decreto n.º 23.780, de 10 de agosto de 1984), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+ANTE O EXPOSTO,nego provimento ao agravo.
+Publique-se.
