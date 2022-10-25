@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+Cumprimento de sentença. Contratos bancários. Declaratória de inexistência de débito cumulada com reparação de danos morais. Inaplicabilidade da Súmula 410 do STJ face o quanto disposto no art. 513, §2º, I do CPC. Recurso provido.
+Alega-se violação dos artigos513,§ 2º, I, 803,III, e 815 do Código de Processo Civil, sob o argumento de que é necessária a prévia intimação pessoal do devedor para o cumprimento de obrigação de fazer.
+Assim delimitada a controvérsia, passo a decidir.
+Colhe-se dos autos que a decisão do juízo primevo acolheu parcialmente a impugnação ao cumprimento sentença na parte em que se executava multa por obrigação de fazer ao entendimento de que "a multa cominatória foi determinada apenas na sentença, não tendo havido após a sua prolação a intimação pessoal do devedor para o cumprimento da mencionada obrigação sob pena de multa" (e-STJ, fl. 64).
+O Tribunal local, todavia, reformou a decisão sob o fundamento de que a "intimação para cumprimento da sentença, na sistemática do CPC/2015, realiza-se na pessoa do advogado do devedor, como regra (conforme artigo 513, § 2º, inciso I, do CPC/2015)" (e-STJ, fl. 125), de modo "que não se aplica, à luz da nova Lei Processual, o disposto na Súmula 410 do STJ ("A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer").
+O entendimento consolidado nessa Súmula (e reiterado em jurisprudência constante, cf. STJ, REsp 1.349.790/RJ, Rel. Ministra Maria Isabel Gallotti, 2.ª Seção, j. 25.03.2013; STJ, AgRg no REsp 1.459.544/DF, Rel. Ministra Nancy Andrighi, 3.ª T., j. 21.08.2014) apenas continua a ter aplicação nos casos regidos pela lei revogada."
+Não é isso, todavia, o que prega a jurisprudência desta Casa, que trilha no caminho de que o referido verbete veicula entendimento plenamente aplicável para o cumprimento de obrigação de fazer regida pelo vigente Código de Processo Civil.
+A saber:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. MULTA COMINATÓRIA. INTIMAÇÃO PESSOAL DO DEVEDOR. NECESSIDADE. ACÓRDÃO DE ORIGEM CONFORME JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA N. 410/STJ. SUBSISTÊNCIA NA VIGÊNCIA DO CPC/2015. AUSÊNCIA DE CIÊNCIA PRÉVIA DO OBRIGADO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. O Tribunal de origem, analisando os fatos e as provas dos autos, concluiu pela inexistência de ciência prévia da parte recorrida acerca da imposição da multa cominatória. Alterar esse entendimento demandaria o reexame dos fatos e das provas, vedado em recurso especial, ante o óbice da mencionada súmula.
+4. Nos termos da Súmula n. 410/STJ: "A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer."
+5. "É necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis n. 11.232/2005 e 11.382/2006, nos termos da Súmula 410 do STJ, cujo teor permanece hígido também após a entrada em vigor do novo Código de Processo Civil" (EREsp n. 1.360.577/MG, Relator Ministro HUMBERTO MARTINS, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.849.410/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 25/4/2022, DJe de 28/4/2022.)
+Em face do exposto, conheço do recurso especiale a eledou provimento para restabelecer a decisão do juízo de primeiro grau.
+Intimem-se.
