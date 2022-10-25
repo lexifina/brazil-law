@@ -1,0 +1,21 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JUROS MORATÓRIOS. LEI 11.960/2009. ALEGADO DESCABIMENTO DE JUROS CAPITALIZADOS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. RECURSO ESPECIAL DA UNIÃO NÃO CONHECIDO.
+1. Trata-se de recurso especial interposto pela UNIÃO, fundado na alínea a do art. 105, inciso III, da Constituição Federal, contra o acórdão proferido pelo Tribunal Regional Federal da 4ªRegião, assim ementado:
+AGRAVO DE INSTRUMENTO. CORREÇÃO MONETÁRIA EJUROS. ART. 1º-F DA LEI 9.494/97. INCIDÊNCIAJMEDIATA.
+1. Nas condenações impostas à Fazenda Pública, independentemente de sua natureza, devem incidir os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança, a partir do advento da Lei n.º 11.960, publicada em 30/06/2009, que deu nova redação ao art. 1.º-F da Lei n.º 9.494/97.
+2. A Lei 11.960/09 ao determinar a incidência "uma única vez" dos índices oficiais de remuneração básica e juros da caderneta de poupança, tanto para fins de atualização monetária e remuneração do capital, quanto para compensação da mora, não fez ressalva alguma, possibilitando o entendimento que o termo inicial da correção monetária e juros de mora deve ser o mesmo, não possibilitando o desmembramento dos índices.
+3. Agravo de instrumento parcialmente provido(fl. 321).
+2. Os embargos de declaração opostos foram acolhidos apenas para fins de prequestionamento.
+3. Em suas razões (fls. 431/436), o ente público, ora recorrente, insurge-se contra a incidência de juros moratórios em 0,5% ao mês, de forma capitalizada, o que, no seu entender, viola o disposto no art. 1º-F da Lei 11.960/2009.
+4. Por sua vez, os particulares interpuseram o recurso especial de fls. 359/385, alegando violação do art. 535 do CPC/1973, do art. 5º da Lei 11.960/2009 e do art. 62 da CRFB.
+5. Às fls. 438/446 e 461/474, as partes litigantesapresentaram contrarrazões.
+6.Por decisão de fls. 505/507, o então relator, Ministro NAPOLEÃO NUNES MAIA FILHO, determinou o sobrestamento do feito e o retorno dos autos ao Tribunal de origem até o julgamento do Recurso Extraordinário 870.947/SE, sob o regime da repercussão geral.
+7. Após, o mesmo então relator deu provimento ao agravo interno dos particularespara dar provimento ao seu recurso especial, determinando que a correção monetária fosse calculada com base no IPCA-E, o que foi reformado por decisão de fls. 561/562, que anulou as decisões anteriores e determinouo sobrestamento do feito na origem até o julgamento do RE 870.947/SE.
+8. Em juízo de retratação, o Tribunal de origem assim se posicionou:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. JUÍZO DERETRATAÇÃO. TEMAS 810/STF E 905/STJ. LEI 11.960/09. CORREÇÃO MONETÁRIA. IPCA-E. Revisto o acórdão desta Turma porque em desacordo com o entendimento firmado nos Temas 810/STF e 905/STJ, para o fim de determinar que a correção monetária dos valores seja efetuada pelo IPCA-E a partir do advento da Lei nº 11.960/09, mantidas as demais disposições do acórdão(fl. 629).
+9. Após, foi proferido novo juízo de admissibilidade, no qual o Vice-Presidente do TRF4 admitiu o recurso especial da União no pertinente à capitalização dos juros moratórios e julgou prejudicado o apelo dos particulares, determinando o envio dos autos a esta Corte Superior (fl. 670).
+10. É o relatório.
+11. Nos termos do que foi decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+12. No que se refere à alegada impossibilidade de capitalização de juros moratórios, a pretensão recursal não reúne condições de admissibilidade. A jurisprudência desta Corte Superior considera que a ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+13. Ante o exposto, não se conhece do recurso especial da União.
+14. Publique-se. Intimações necessárias.
