@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pela INDÚSTRIA DE CALÇADOS WIRTH LTDA. contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 200):
+TRIBUTÁRIO. OPERAÇÕES DE HEDGE. IRPJ. CSLL.1. A operação de hedge, embora vise a garantir a sobrevivência da empresa a crises decorrentes da desvalorização da moeda estrangeira, não é necessária à manutenção da atividade da impetrante, razão pela qual não pode ser deduzida da apuração do lucro real, que serve de base à apuração do IRPJ e da CSLL.2. Apelação desprovida.
+Alega a recorrente, preliminarmente, que houve violação do art. 535, I e II, do CPC/73, em razão deomissões e contradição do acórdão regional.
+No mérito propriamente dito, sustenta contrariedade aos arts. 43 do CTN; 1º da Lei n. 7.689/1988; e 76, § 4º, e 77, caput, V e § 1º, alíneas ""a" e "b", da Lei n. 8.981/1995.
+Defende, em resumo, que: a) o grande equívoco da decisão recorrida é tratar o caso partindo da premissa equivocada de que a recorrente pretende se eximir do pagamento de IRPJ e CSLL sobre os rendimentos/ganhos líquidos auferidos em operações financeiras de hedge. Isso seria equivocado porque o contribuinte buscava se eximir de pagar IRPJ e CSLL sobre os prejuízos/perdas suportados nas ditas operações, quando há valorização do dólar; b) a denominada operação de hedge garante a sobrevivência da empresa, inclusive reconhecida na ementa do acórdão, o qual, contraditoriamente, em seguida entendeu que não poderia haver a dedução do lucro presumido, porque não essencial à atividade empresarial; c) a própria legislação que disciplina o hedge permite a não adição das perdas/prejuízos ao lucro líquido. Tal conclusão decorre da redação dos arts. 76, § 4º e 77, caput, V e § 1º, alíneas "a" e "b", da Lei n. 8.981/1995.
+Em contrarrazões, a União requer que o acórdão seja mantido pelos seus próprios fundamentos (e-STJ fls. 366/368).
+Uma vez que a questão em discussão parecia estar abrangidano Tema 185 do STF, determinou-se a devolução dos autos à origem, para o exame de conformação com o precedente (e-STJ fls. 421/422).
+A Corte Regional, todavia, percebendo haver distinção entre o caso concreto e o paradigma, devolveu o apelo especial a este Tribunal (e-STJ fls. 475/476).
+É o que importarelatar.
+Passo a decidir.
+Inicialmente, saliente-se que o art. 535 do CPC/1973 (1.022 do CPC/2015) previa que os embargos de declaração seriam cabíveis quando houvesse, no acórdão ou na sentença, obscuridade, contradição ou omissão.
+Para a admissão do recurso especial com base no referido dispositivo, o vício tem que ser patente e seu exame imprescindível para o enfrentamento da quaestio.
+No presente caso, antecipo que assiste razão, em parte, à recorrente.
+Em primeiro lugar, constato que, de fato, houve aparente incongruência no acórdão recorrido, cujo desenlace pode alterar o resultado do julgamento.
+Constou da ementa do acórdão que "a operação de hedge, embora vise a garantir a sobrevivência da empresa a crises decorrentes da desvalorização da moeda estrangeira, não é necessária à manutenção da atividade da impetrante".
+Nesse particular aspecto, entendo que tem razão o contribuinte quando afirma que:
+10. Com a máxima vênia, resta evidente a contradição. Como a operação debatida nos autos pode, concomitantemente, garantir a sobrevivência da empresa - frente à flutuação cambial - e não ser necessária à manutenção da atividade  (e-STJ fl. 261)
+De fato, mostram-se inconciliáveis as premissas internas adotadas no julgamento.
+Com isso, o vício de julgamento deverá ser solucionado na origem, notadamente porque, para concluir se a operação de hedge é ou não indispensável à manutenção da sociedade empresária, será necessário revisar o contexto fático/probatório do processo.
+Além disso, o julgamento incorre em omissão relevante quanto ao argumento central do particular,o qual alegava que em momento algum discutiu a incidência ou não dos tributos em relação aos rendimentos/ganhos líquidos auferidos em operações financeiras dehedge.No entanto,foi essa última situação enfrentada na origem, quando o ponto controvertido era outro (saber se a tributação deve ocorrer quando a operação dehedgeimplicar perda/prejuízo).
+Ao se omitir em relação ao fundamento principal do recorrente, não houve o debate, na instância ordinária, sobre: i) se a tributação deve ocorrer quando a operação de hedge implicar perda/prejuízo; e ii)caso seja possível deduzir do lucro real as referidas perdas, qual seria o limite para essa dedução.
+As questões que não foram discutidas no juízo a quo poderiam, em tese, modificar o comando do acórdão, devendo, sobre o ponto, a Corte Regional desenvolver fundamentação de maneira expressa, ainda que para rejeitá-la.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial, a fim de anular o acórdão recorrido, por violação do art. 535, I e II, do CPC/1973, determinando o retorno dos autos ao Tribunal de origem para que reaprecie os embargos de declaração opostos e sane os vícios ora identificados, nos termos da fundamentação desenvolvida nesta decisão.
+Publique-se. Intimem-se.
