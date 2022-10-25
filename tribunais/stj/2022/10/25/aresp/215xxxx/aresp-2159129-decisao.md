@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 506/507, e-STJ):
+APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO.
+AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS EM RAZÃO DA DEMORA EXCESSIVA NA LIBERAÇÃO DE CRÉDITO IMOBILIÁRIO.
+SENTENÇA DE IMPROCEDÊNCIA DOS PEDIDOS.
+INCONFORMISMO PARCIALMENTE FUNDADO DA AUTORA. RÉUS QUE RESPONDEM SOLIDARIAMENTE PELOS DANOS ALEGADOS PELA AUTORA. INCIDÊNCIA DO ART. 7º, PARÁGRAFO ÚNICO, E ART. 25, § 1º, AMBOS DO CDC. PROVA DOCUMENTAL CONSTANTE DOS AUTOS APTA A DEMONSTRAR QUE A DEMORA DE CERCA DE SEIS MESES NA LIBERAÇÃO DO CRÉDITO SE DEU POR CONTA, INICIALMENTE, DE UMA FALHA NO SISTEMA DO BANCO.
+AUTORA QUE FOI IMITIDA NA POSSE DO IMÓVEL SOMENTE APÓS UM ANO DA APROVAÇAO DE SEU CRÉDITO. DANO MORAL CARACTERIZADO, SOBRETUDO, LEVANDO-SE EM CONTA O RISCO DE A PROMESSA DE COMPRA E VENDA SER RESCINDIDA PELO PROMITENTE VENDEDOR, EM RAZÃO DA DEMORA NA QUITAÇÃO INTEGRAL DO PREÇO E, CONSEQUENTEMENTE, DA PERDA DE EXPRESSIVO SINAL DADO PELA AUTORA.
+SITUAÇÃO VIVENCIADA QUE ULTRAPASSA A ESFERA DO MERO ABORRECIMENTO. VERBA ORA ARBITRADA EM R$ 10.000,00 (DEZ MIL REAIS). AUTORA QUE, INCLUSIVE, TEVE GASTOS COM A EXTRAÇÃO DE NOVAS CERTIDÕES CARTORÁRIAS, VEZ QUE AS ANTERIORES PERDERAM SUA VALIDADE POR CONTA DA DEMORA NO TRÂMITE DO PROCEDIMENTO. VALOR QUE MERECE SER RESSARCIDO. PARCELAS DO FINANCIAMENTO QUITADAS ANTES QUE A AUTORA FOSSE IMITIDA NA POSSE DO BEM QUE SÃO DEVIDAS, AINDA QUE CONFIGURADA A FALHA NA PRESTAÇÃO DO SERVIÇO DOS RÉUS.
+RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados (fls. 539/547, e-STJ).
+Nas razões do recurso especial, a parte ora agravante alega violação aos arts. 7º, parágrafo único, 14, § 3º, II e 25, § 1º, do Código de Defesa do Consumidor.
+Sustenta, em síntese, não possuir responsabilidade pelos danos narrados pela parte autora. Afirma que a demora na liberação do crédito se deu por falha no sistema bancário, situação pela qual não pode ser responsabilizada. Defende, nesse sentido, a quebra do nexo de causalidade pela culpa exclusiva de terceiro.
+Não foram apresentadas contrarrazões, conforme certidões de fls. 570 e 571, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O Tribunal de origem, à vista do conjunto fático-probatório produzido, concluiu que a parte ora recorrente seria parte legítima para figurar no polo passivo da demanda, uma vez que ela atuava em parceria com a corré, sendo responsável pela cobrança e acompanhamento da regularização da documentação necessária à liberação do crédito imobiliário. Concluiu ser a recorrente uma intermediária na relação entre a instituição financeira e a autora, o que atrairia a sua responsabilidade em regime de solidariedade (fls. 512/513, e-STJ):
+Desde logo, cabe destacar que a relação entre as partes é de consumo, regida pelo Código de Defesa do Consumidor, bem como pelas demais normas e princípios que compõem o microssistema que regulamenta a matéria, gravitando a lide em torno da demora excessiva na liberação de verba oriunda de carta de crédito imobiliário, o que, segundo a autora lhe causou danos materiais e morais.
+Antes, contudo, de adentrar ao mérito da controvérsia, cumpre rechaçar a preliminar de ilegitimidade passiva arguida pela Montreal, pois a prova documental constante dos autos, em especial os e-mails trocados entre as partes, demonstra que os réus atuavam em parceria, sendo a Montreal a responsável pela cobrança e acompanhamento da regularização de documentação necessária à liberação do crédito imobiliário, sendo, portanto, a intermediária na relação entre o banco e a autora, de modo a atrair a incidência do art. 7º, parágrafo único, e art. 25, § 1º, ambos do Código de Defesa do Consumidor.
+Ambos os réus, portanto, respondem solidariamente, pelos danos que a autora afirma ter experimentado.
+Passando ao mérito, da análise dos autos, verifica-se que a autora teve seu credito imobiliário aprovado pelo Banco Santander aprovado em 15/08/2017, sendo certo que o valor deveria ter sido liberado até o dia 13/11/2017, a fim de que pudesse, então, quitar integralmente o preço do imóvel por si adquirido.
+Ocorre que o valor somente foi creditado na conta do promitente vendedor em 08/05/2018, em que pese tenha cumprido, tempestivamente, todas as exigências formuladas pelos réus relativas à documentação.
+Com efeito, segundo se extrai do e-mail de fls. 46, o Banco reconhece que houve um problema em seu sistema, dando azo, em princípio, ao atraso na liberação do crédito imobiliário.
+Configurada, portanto, a falha na prestação do serviço dos réus, pelo que devem, solidariamente, responder pelos danos experimentados pela autora, que, somente, veio a ser imitida na posse do imóvel em agosto de 2018, ou seja, um ano após o início da negociação.
+A revisão dessas premissas exigiria a interpretação de cláusulas contratuais e o reexame de provas, providências vedadas em recurso especial, a teor das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
