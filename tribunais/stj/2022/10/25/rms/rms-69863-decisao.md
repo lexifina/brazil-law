@@ -1,0 +1,10 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO CONTRA ACÓRDÃO CONCESSIVO DESEGURANÇA EM IMPETRAÇÃO ORIGINÁRIA. NÃO CABIMENTO.
+1. Trata-se de recurso ordinário do ESTADO DE MATO GROSSO, interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso que, em mandado de segurança originário, concedeu totalmente a segurança:
+MANDADO DE SEGURANÇA - APOSENTADORIA POR INVALIDEZ DECORRENTE DE DOENÇA GRAVE especificada em lei - direito à percepção de proventos integrais - previsão do art. 40, § 1º, i, da Constituição Federal e artigo 213, I, DA LEI COMPLEMENTAR ESTADUAL N. 04/1990 - DIREITO LÍQUIDO E CERTO COMPROVADO - ordem concedida (fl. 433).
+2. O art. 18 da Lei 12.016/2009 dispõe que,das decisões em mandado de segurança proferidas em única instância pelos tribunais cabe recurso especial e extraordinário, nos casos legalmente previstos, e recurso ordinário, quando a ordem for denegada.
+3. De fato, nos termos do entendimento do Superior Tribunal de Justiça, contra oacórdãoproferido em mandado desegurançae decidido em única instância por Tribunal de Estado, por pretensa violação da lei federal, cabe: a) recurso ordinário, quando denegatória a decisão (art. 105, II, b, da CF/1988); b)recurso especial,na hipótese restante (art. 105, III, a, da CF/1988) (AgInt no RMS 56.854/SP, relator Ministro OG FERNANDES, Segunda Turma, DJe de 14.05.2020).
+4. Segundo o julgado em referência,inaplicável o princípio da fungibilidade para admitir-se o recurso ordinário constitucional, porquanto a interposição deste, fora das hipóteses claramente estabelecidas pela Carta Magna, configuraerro grosseiro.
+5. Na espécie, o ente federativo lançou mão de recurso ordinário contra acórdão que, em MS originário (única instância), concedeu plenamente a segurança postulada, consoante narrado. Era caso de recurso especial, não de recurso ordinário; a insurgência não pode ser conhecida, portanto.
+6. Pelo exposto, não se conhece do recurso ordinário do ente federativo.
+7. Publique-se. Intimações necessárias.
