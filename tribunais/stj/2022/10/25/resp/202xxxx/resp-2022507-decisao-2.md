@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial manejado em face de acórdão assim ementado (fl. 529, e-STJ):
+AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA. Plano de saúde. Tratamento de Autismo. Necessidade de tratamento consistente em psicologia comportamental baseada em ABA. Negativa de cobertura. Inadmissibilidade. Sentença de procedência que gerou recursos de ambas as partes, tendo em vista que ressalvou a não concessão do tratamento de musicoterapia e equoterapia já aventado em sede de Agravo de Instrumento. Recurso da autora que se bate pela concessão dos dois tratamentos citados e aumentos dos honorários advocatícios. Ré se batendo pelos mesmos argumentos expostos em contestação pleiteando a reforma integral da sentença. Alegação de que o tratamento não consta do rol da ANS. Inadmissibilidade. Exclusão invocada pela operadora do plano de saúde que contraria a finalidade do contrato. Cobertura integral devida. Rol da ANS que é apenas exemplificativo. Pleito que não envolve excesso de tratamento, tampouco tratamentos exorbitantes. Indenização, todavia, que não é cabível em casos que tais. Sentença que não merece modificação. Não obrigatoriedade do plano a dar cobertura à equoterapia e musicoterapia, conforme vem entendendo esta Câmara. Tratamentos que demandam maior contraprestação. Sentença mantida inclusive quanto ao valor arbitrados a título de honorários que se mostra coerente. Recursos não providos.
+Opostos embargos de declaração, foram rejeitados (fls. 652-654, e-STJ).
+Aponta a recorrente negativa de vigência aosartigos 2º, III, e 3º, III, alínea "b", da Lei nº 12.764/2002, bem como aos artigos 1º, § 1º, e 2º da Lei nº 13.830/2019.
+Argumenta, em suma, que seria obrigatório o fornecimento deequoterapia para o tratamento de autismo, por constar do plano-referência.
+Defende que o tratamento possa ser obtido inclusivepor profissionalnão credenciado, condicionado ao pagamento decoparticipação.
+As contrarrazões foram apresentadas (fls. 677-686).
+O recurso especial não foi admitido, diante da generalidadeda fundamentação(fls. 698-699), contra o que se manifesta, na via do presente agravo, acrescentando o argumento de que o acórdão recorrido também teria violado os artigos10, inciso I e § 4º, da Lei nº 9.656/98, bem como osartigos 47 e 51, IV, do CDC.
+Assim delimitada a controvérsia, passo a decidir.
+O agravo não merece conhecimento, uma vez que não foram impugnados os fundamentos da decisão que não admitiu o recurso especial no Tribunal de origem.
+Com efeito, a parte não impugnou a tese de que a argumentação desenvolvida no recurso especial teria sido genérica, uma vez que não comprovou a pertinência entre os dispositivos legais supostamente violados e a matéria posta no especial.
+A propósito,a Corte Especial do STJ manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo por aplicação da Súmula 182/STJ (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/9/2018, DJe 30/11/2018).
+Nesse precedente, o colegiado, por maioria, negou provimento aos embargos de divergência e manteve a decisão da Segunda Turma do STJ, que não conheceu do agravo, por aplicação da Súmula 182/STJ, já que o agravante não atacou todos os pontos da decisão que não admitiu o recurso especial.
+Conforme o voto vencedor, tanto no CPC de 1973 quanto no de 2015 há regra que remete às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade da impugnação de todos os fundamentos da decisão que não admite recurso especial.
+Para o Ministro relator, não há possibilidade de impugnação parcial da decisão que deixa de admitir recurso especial, uma vez que tal decisão é incindível e deve ser impugnada em sua integralidade. A não obediência a essa regra implicaria o exame indevido de questões (já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em se manifestar no momento oportuno), pois o conhecimento do agravo obriga o STJ a conhecer de todos os fundamentos do recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO POR DANOS MATERIAIS E MORAIS. RAZÕES DO AGRAVO QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA.SÚMULA 182DO STJ.
+1. Ação de reparação por danos materiais.
+2. Não merece conhecimento o agravo em recurso especial que não impugna especificamente os fundamentos da decisão agravada.
+3. Agravo interno não provido (AgInt no AREsp 1693524/RN, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/10/2020, DJe 21/10/2020)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL E MATERIAL. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015. SÚMULA 182/STJ. APLICAÇÃO POR ANALOGIA. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1532525/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/9/2020, DJe 1/10/2020)
+Ressalte-se que o acréscimo de argumentos por ocasião do agravo de instrumento interposto contra a decisão que não admitiu o recurso especial é insuficiente para o cumprimento do ônus da dialeticidade.
+No caso, a tese de que teriam sido violadososartigos 10, inciso I e §4º, da Lei nº 9.656/98, bem como oartigo 51, IV, do CDC, não consta das razões do especial (fls. 540-552, e-STJ), massutilmente das razõesdoagravo (fl. 708, e-STJ).
+Trata-se, porém, de inovação do recurso; de modo que,ausente impugnação específica e suficiente para infirmar os fundamentos da decisão agravada, aplica-se, por analogia, o entendimento consolidado no enunciado daSúmula 182do STJ.
+Em face do exposto, não conheço do agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
