@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por GALERA TRANSPORTES LTDA. E OUTROcontra acórdão do TJPRassim ementado (e-STJ fl. 332):
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXIGIR CONTAS.PRIMEIRA FASE. ENCERRAMENTO. DECISÃO INTERLOCUTÓRIA DE MÉRITO. CONDENAÇÃO AO PAGAMENTO DAS VERBAS SUCUMBENCIAIS.IMPOSSIBILIDADE. MOMENTO ADEQUADO. SENTENÇA DA SEGUNDA FASE. DECISÃO AGRAVADA MANTIDA.
+1. Na disciplina do Código de Processo Civil de 2015, a decisão mediante a qual se põe fim à primeira fase da ação de exigir contas possui natureza de decisão interlocutória de mérito, de modo que a apreciação acerca da responsabilidade do ônus da sucumbência deve ser feita na sentença da segunda fase.
+2. Agravo de instrumento conhecido e não provido.
+Nas razões do recurso especial (e-STJ fls. 346/375), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente aponta, além dedivergência jurisprudencial, ofensa ao art. 85 do CPC/2015, sustentando, em síntese, o cabimento, neste momento processual, de condenação dorecorridoao pagamento da sucumbência, incluindo custas, despesas processuais e honorários advocatícios.
+Foram apresentadas contrarrazões (e-STJ fls. 430/442).
+Exercido o juízo de admissibilidade positivo na origem (e-STJ fls. 447/450), os autos vieram a esta Corte.
+É o relatório
+Decido.
+A irresignação merece acolhida.
+Com efeito, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 336/337):
+ .. Observe-se, ainda, que a ação de exigir contas desdobra-se em duas partes: a a) primeira em que, como visto, apenas se declara o direito de prestar contas; e, a segunda, na b) qual serão julgadas as contas, nos termos do artigo 552, do Código de Processo Civil.  1  A segunda fase, ao contrário da primeira, é encerrada por sentença e constitui o momento mais apropriado para a fixação da verba de sucumbência, inclusive os honorários advocatícios.
+Isso porque, ao final da segunda fase da ação de prestação de contas, o juiz terá melhores condições de distribuir o ônus sucumbencial, em consonância com a derrota e o êxito obtidos pelas partes, bem como o trabalho realizado por seus patronos durante todo o processo (primeira e segunda fases).
+Portanto, não há que se falar em condenação ao pagamento dos ônus sucumbenciais na primeira fase da ação de exigir contas.
+Anote-se que, embora exista entendimento diverso no Superior Tribunal de Justiça, o posicionamento desta 15ª Câmara Cível é no sentido de não ser cabível a condenação pretendida pelos agravantes.
+O Tribunal de origem, ao concluir que não há que falar em condenação ao pagamento dosônus sucumbenciais na primeira fase da ação de exigir contas, divergiu da jurisprudência do STJ.
+Esta Corte firmou entendimento segundo o qual, com a condenação à prestação dascontasexigidas, o réu fica vencido na primeira fase da ação deexigir contas,devendo arcar com oshonoráriosadvocatícios como consequência do princípio da sucumbência. Confira-se:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PROCESSO CIVIL. APLICAÇÃO DAS SÚMULAS 182 E 123/STJ, 283 E 284/STF. RECURSO ESPECIAL JÁ ADMITIDO NA ORIGEM. IMPUGNAÇÃO DIRIGIDA À DECISÃO QUE INADMITIU O RECURSO ESPECIAL NA ORIGEM. DUPLO JUÍZO DE ADMISSIBILIDADE. AUSÊNCIA DE INTERESSE RECURSAL. AUSÊNCIA DE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL. RECURSO ESPECIAL QUE APRECIOU A CONTROVÉRSIA COM BASE NA ALÍNEA "A" DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE DIALETICIDADE. SÚMULA 284/STF.AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE PROCESSUAL. ART. 550, § 5º, DO CPC. RECONHECIMENTO DO DEVER DE PRESTAR CONTAS. NATUREZA DO PROVIMENTO. SENTENÇA. CABIMENTO DE HONORÁRIOS. AGRAVO INTERNO NÃO PROVIDO.
+1. O juízo de admissibilidade proferido pelo Tribunal local não vincula esta Corte, uma vez que o recurso especial está sujeito ao duplo exame de admissibilidade. Desse modo, não deve ser conhecido o agravo regimental em relação à insurgência voltada contra a decisão que admitiu o recurso especial na origem - ou seja, em relação à pertinência da aplicação das Súmulas 182 e 123/STJ, 283 e 284/STF -, por absoluta falta de interesse recursal.
+2. A ausência de combate específico aos fundamentos da decisão agravada obsta o conhecimento do agravo interno, ante o descumprimento do ônus da dialeticidade. No caso, o recurso especial foi apreciado com base na alínea "a" do permissivo constitucional, cujo mérito foi julgado de modo favorável ao recorrente, prejudicando o exame do dissídio jurisprudencial sobre o mesmo tema.Desse modo, eventual falha na comprovação do dissídio jurisprudencial não apresenta qualquer relevância para a modificação do decisum recorrido, tal como argumentado pelo agravante, atraindo a aplicação do óbice da Súmula 284/STF.
+3. A decisão que julga procedente o direito de exigir contas na primeira fase da ação respectiva ostenta natureza de sentença, com eficácia predominantemente condenatória inclusive, a teor do que previsto no § 5º do art. 550 do CPC ; sendo devido o arbitramento de honorários em favor do autor.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.918.872/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/3/2022, DJe de 4/4/2022.)
+Em face do exposto, DOU PROVIMENTO ao recurso especial.Por conseguinte, fixohonorários em favor dosrecorrentes no valor de 10% sobre o valor da causa, a teor do art. 85, § 2º, do CPC.
+Publique-se e intimem-se.
