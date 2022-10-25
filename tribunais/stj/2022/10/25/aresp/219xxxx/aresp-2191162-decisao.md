@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOÃO BATISTA MENDES (JOÃO) contraBV FINANCEIRA S.A. - CFI (BV FINANCEIRA)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado deMato Grosso do sul, assim ementado:
+EMENTA - AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - AÇÃO REVISIONAL DE CONTRATOS - INDEFERIMENTO DA ASSISTÊNCIA JUDICIÁRIA - PRESUNÇÃO RELATIVA DE VERACIDADE - NÃO DEMONSTRAÇÃO DA HIPOSSUFICIÊNCIA - BENEFÍCIO NEGADO - MANIFESTA IMPROCEDÊNCIA NÃO INFIRMADA NO AGRAVO INTERNO - DECISÃO MANTIDA - MULTA PREVISTA NO ART. 1.021, § 4º DO CPC/2015 - APLICÁVEL EM CASO DE VOTAÇÃO UNÂNIME - RECURSO IMPROVIDO.
+A mera alegação de hipossuficiência, com o intuito de obter os benefícios da assistência judiciária gratuita goza de presunção relativa, cabendo ao magistrado, ao analisar o caso concreto, valorar acerca do conceito de pobreza e avaliara pertinência da alegação da parte.
+Mantém-se decisão que negou seguimento ao agravo de instrumento, em razão da manifesta improcedência, quando o recorrente não traz argumentos que possam vencer (infirmar) os fundamentos apresentados na decisão monocrática.
+De acordo com o art. 1.026, § 2º do CPC/2015: "Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa." (e-STJ, fls. 44/50)
+Irresignado, JOÃOinterpôs recurso especial, com base no art. 105, inciso III, alíneas ae c, da CF, apontando a violação dos arts. 98,99 e 1.021, § 4º, do CPC, e 2º, caput,parágrafo único, e 4º da Lei n.º 1.060/50, em que sustentou(1) que não possui condições de arcar com as despesas do processo sem causar prejuízo ao próprio sustento ou de seus familiares (Súmula n.º 481 do STJ); (2)serilegal e abusiva a multa aplicada, pois não existiu má-fé por parte do ora recorrente em relação a interposição de agravo interno; e (3) existência de divergência jurisprudencial no tocante a concessão da gratuidade da justiça e da multa aplicada.
+Não foram apresentadas contrarrazões.
+O apelo nobre não foi admitido por incidência da Súmula n.º 7 do STJ tanto ao recurso interposto pela alínea aquanto pela alínea cdo permissivo constitucional. (e-STJ, fls. 148/150)
+Agora, em agravo em recurso especial, JOÃOrebateu, a tempo e modo, todas as razões da decisão de inadmissibilidade recursal.
+Passo, portanto, àanálise do recurso especial.
+É o relatório.
+DECIDO.
+De início, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na Sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/15 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+(1)Da concessão da gratuidade da justiça
+JOÃO alega violação dos arts. 98 e 99 do CPC e 2º, caput,parágrafo único, e 4º da Lei n.º 1.060/50, em que sustentou que que não possui condições de arcar com as despesas do processo sem causar prejuízo ao próprio sustento ou de seus familiares (Súmula n.º 481 do STJ)
+O TJMS entendeunão ter o ora recorrente comprovado sua hipossuficiência financeira, na forma legal, apta a ensejar a concessão da gratuidade da justiça,verbis:
+O recurso não deve ser provido, porque, a despeito de o agravante alegar que não possui condições para arcar com as custas processuais e honorários advocatícios, não acostou aos autos documentos "suficientes" a comprovar a condição de hipossuficiente.
+Ao contrário, no momento da interposição do Agravo de Instrumento e do presente Agravo Interno não juntou documentação suficiente demonstrando a sua hipossuficiência, limitando-se a dizer que comprovou a necessidade do benefício com a simples declaração de que não tem condições de pagar as custas processuais e honorários de advogado sem prejuízo próprio, além de demonstrar a sua renda mensal (o que foi considerado insuficiente como prova).
+Conforme acima mencionado a concessão sem critérios da assistência judiciária gratuita prejudica aqueles que dela realmente necessitam, uma vez que o dinheiro público será direcionado ao pagamento de despesas processuais de indivíduos que detêm condições financeiras, impedindo o Estado de investir na própria estruturado Poder Judiciário, a fim de expandir a prestação jurisdicional de forma mais eficiente.
+ ..
+Portanto, não restando demonstrado nas razões do presente Agravo Interno a hipossuficiência do agravante, que manteve-se inerte em relação à juntada de documentos que comprovem suficientemente a necessidade de concessão da benesse, é de se negar provimento ao recurso(e-STJ, fls. 48/50).
+Dessa forma, rever o fundamento contido no acórdão atacado demandaria o revolvimento do conjunto fático-probatório, providência inviável ante o óbice da Súmula n.º 7 do STJ.
+Confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. APELAÇÃO. PEDIDO DE JUSTIÇA GRATUITA. PESSOA JURÍDICA. NECESSIDADE DE PROVA DA HIPOSSUFICIÊNCIA. INEXISTÊNCIA DE PRESUNÇÃO LEGAL FAVORÁVEL. SÚMULA 481/STJ. AUSÊNCIA DE DEMONSTRAÇÃO NA HIPÓTESE. REVISÃO DA CONCLUSÃO ALCANÇADA NA ORIGEM. IMPOSSIBILIDADE. CONSONÂNCIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos. Súmula 481/STJ.
+2. O Tribunal de origem, com base no acervo fático-probatório dos autos, considerou inexistente a comprovação da hipossuficiência financeira alegada para a concessão da gratuidade de justiça. A revisão dessa conclusão demandaria o reexame de fatos e provas, providência proibida nesta instância, nos termos da Súmula 7/STJ.
+3. O entendimento adotado pelo acórdão recorrido coincide com a jurisprudência assente desta Corte Superior, circunstância que atrai a incidência da Súmula 83/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.082.623/SP, relator Ministro RAUL ARAÚJO, Quarta Turma, julgado em 26/9/2022, DJe de 7/10/2022)
+(2)Da multa prevista no § 4º do art. 1.021do CPC
+JOÃO alega violação do art.1.021, § 4º, do CPC, pois asseveraser ilegal e abusiva a multa aplicada, pois não existiu má-fé por parte do ora recorrente em relação a interposição de agravo interno.
+O Tribunal sul-mato-grossense entendeu por aplicar a multa prevista no art. 1.021, § 4º, do CPC, sob o fundamento de que o agravo interno interposto pelo ora recorrente teve provimento negado em votação unânime. Veja-se:
+Diante do exposto, conheço do agravo interno interposto por João Batista Mendes, e, em caso de votação unânime, aplico a multa prevista no art. 1.021, § 4º do CPC/2015 no patamar de 1%, ficando a interposição de outros recursos condicionada ao depósito prévio(e-STJ, fls. 50).
+Este Sodalício tem posicionamento no sentido de que a multa prevista no § 4º do art. 1.021 do CPC quando o desprovimento do agravo interno foi colhido em votação unânime não é automática, devendo sua aplicação incidir quando o recurso mostrar-se manifestamente inadmissível ou com caráter protelatório.
+Da análise dos autos, verifica-se que o agravo interno outrora interposto não denota nenhuma dessas características, tratando-se de mero exercício do direito de petição e reexame da matéria, devendo, portanto, ser afastada a multa aplicada.
+Precedentes:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. OMISSÃO. APLICAÇÃO DA PENA POR LITIGÂNCIA DE MÁ-FÉ E DA MULTA PREVISTA NO ART. 1.021, § 4º, DO NCPC. IMPOSSIBILIDADE. EMBARGOS ACOLHIDOS PARA SANAR OMISSÃO, SEM EFEITOS MODIFICATIVOS.
+ .. 3. A aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, DJe 8/9/2020).
+3 . Embargos de declaração acolhidos para sanar omissão, sem efeitos modificativos.
+(EDcl no AgInt no AREsp n. 2.082.096/MG, relator Ministro MOURA RIBEIRO, Terceira Turma, julgado em 10/10/2022, DJe de 13/10/2022)
+PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. OMISSÃO ESTATAL. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+VI - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.991.859/PR, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022)
+(3)Da divergência jurisprudencial
+JOÃOalega existir divergência jurisprudencial quanto a questão da concessão da gratuidade da justiça e da aplicação da multa prevista no art. 1.021, § 4º, do CPC.
+Com relação ao alegado dissidio interpretativo referente a concessão da gratuidade da justiça, infere-se ser impossível sua análise ante a aplicação do enunciado sumular n.º 7 do STJ ao mesmo tema interposto pela alínea ado permissivo constitucional.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DESTA CORTE. AÇÃO DE CANCELAMENTO DE REGISTRO CREDITÍCIO C/C DANO MORAL. FALTA DE PERTINÊNCIA TEMÁTICA COM A TESE DO ESPECIAL. SÚMULA N. 284/STF. DANO MORAL. VALOR. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+ ..
+4. "A incidência da Súmula 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea c do art. 105, III, da Constituição Federal" (AgRg no AREsp n. 97.927/RS, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2015, DJe 28/9/2015).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.117.433/RS, relator Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 10/10/2022, DJe de 17/10/2022)
+Por seu turno, a alegada divergência jurisprudencial referente a aplicação da multa prevista no § 4º do art. 1.021 do CPC fica prejudicada ante o provimento do recurso interposto pela alínea ado permissivo constitucional sobre a mesma questão.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa parte, DAR-LHE PROVIMENTO apenas para afastar a multa prevista no § 4º do art. 1.021do CPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ASSISTÊNCIA JUDICIÁRIA GRATUITA. HIPOSSUFICIÊNCIA. NÃO DEMONSTRAÇÃO. INDEFERIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ. APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC.AFASTAMENTO. RECURSOMANIFESTAMENTE INADMISSÍVEL OU COM CARÁTER PROTELATÓRIO. INOCORRÊNCIA.GRATUIDADE DA JUSTIÇA. DIVERGÊNCIA JURISPRUDENCIAL. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N.º 7 DO STJ APLICADA AO MESMO TEMA NO RECURSO INTERPOSTO PELA ALÍNEA ADO PERMISSIVO CONSTITUCIONAL. MULTA POR LITIGÂNCIA DE MÁ-FÉ. DISSÍDIO INTERPRETATIVO. RECURSO PREJUDICADO ANTE O SEU AFASTAMENTO PELO RECURSO INTERPOSTO PELA ALÍNEA ADO PERMISSIVO CONSTITUCIONAL SOBRE A MESMA QUESTÃO. CONHECEU-SE DO AGRAVO EM RECURSO ESPECIAL. CONHECEU-SE PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, DEU-SE-LHE PROVIMENTO.
