@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo manejado por LUCINEIDE LACERDA DE VASCONCELOS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 442):
+APELAÇÃO. DIREITO CIVIL. AÇÃO DE COBRANÇA C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ACIDENTE AUTOMOBILÍSTICO. PERDA TOTAL DO VEÍCULO. INDENIZAÇÃO PAGA PELA SEGURADORA. POSTERIOR NECESSIDADE DE REALIZAÇÃO DE PERÍCIA TÉCNICA PELA VÍTIMA DO SINISTRO. AUSÊNCIA DE OPOSIÇÃO PELA EMPRESA. ULTERIOR VENDA DA SUCATA (SALVADO). POSSIBILIDADE. ART. 786 DO CÓDIGO CIVIL. EXERCÍCIO REGULAR DE UM DIREITO. INEXISTÊNCIA DE ATO ILÍCITO. ART. 188 DO CÓDIGO CIVIL. DEVER DE INDENIZAR NÃO CONFIGURADO. ART. 927 DO CÓDIGO CIVIL. RECURSO CONHECIDO E DESPROVIDO.
+1. Trata-se de Apelação Cível interposta por LUCINEIDE LACERDA DE VASCONCELOS em face de sentença prolatada pela MM Juíza da 13" Vara Cível da Comarca de Fortaleza/CE (fls.373/376) que, nos autos da Ação Indenizatória ajuizada em face de HDI SEGUROS S/A, julgou improcedentes os pedidos perpetrados na inicial.
+2. Consoante se depreende dos autos, a autora/apelante afirma que a empresa seguradora se omitiu e obstaculizou a feitura de perícia técnica na sucata do veículo sinistrado, a qual era imprescindível para a propositura de demanda indenizatória em face da fabricante do bem. Em virtude disso, pugnou pela condenação da demandada/apelada ao pagamento de indenização pelos danos materiais e morais ocasionados pelo acidente.
+3. Percebe-se que, ao contrário do que aduziu a demandante, não houve qualquer tipo de negativa ou oposição da seguradora em permitir a realização da perícia técnica, restando impossibilitada tão somente pela venda do objeto sobre o qual seria efetivada.
+4. Enfatiza-se, por oportuno, que a requerida, ao alienar o salvado (sucata), agiu no estrito exercício regular de um direito, uma vez que, no momento em que efetuou o pagamento da indenização, sub-rogou-se em todos os direitos atinentes ao referido bem, dentre eles a livre disponibilidade.
+5. Nessa toada, tem-se que, agindo no exercício regular de um direito, a demandante não praticou qualquer ato ilícito e, consequentemente, não deve ser compelida a indenizar eventual dano suportado pela parte autora, consoante estabelecem os arts. 188, inciso I, e 927, caput, do Código Civil.
+6. Recurso conhecido e desprovido.
+Opostos embargos declaratórios, foram rejeitados.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489 e 1.022 do CPC.
+Sustenta que o acórdão recorrido incorreu em negativa de prestação jurisdicional pois foi omisso aodeixarde"apontar por quais razões a alienação de um objeto litigioso  com a plena ciência das diligências providenciadas pela parte autora em realizar a perícia  se configuraria como regular exercício de direito." (fl. 490).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não comporta êxito.
+No caso, o Tribunal local concluiu que a seguradora não negou ou se opôs à realização da perícia técnica no veículo, conforme a seguinte fundamentação (fl.445):
+Cotejando os documentos colacionados às fls. 25/31 e fls. 269/272, constata-se que a sucata fora removida pela seguradora no dia 28 de fevereiro de 2008 e a indenização concedida no dia 11 de março de 2008.
+Vislumbra-se, ainda, que a promovida, no dia 02 de abril de 2008, remeteu mensagem para a corretora afirmando que, caso a justiça precisasse realizar perícia, apenas informasse com antecedência o nome do perito para que a sua entrada fosse autorizada no pátio.
+Ademais, no dia 26 de maio de 2008, mais de um mês após o envio da mensagem pela requerida, a corretora remeteu resposta enfatizando a necessidade de efetivação da perícia técnica. Em ato contínuo, no dia 27 de maio de 2008, a seguradora requereu o nome completo e o RG do perito, com o fim de autorizar a sua entrada no local em que estava o salvado (sucata). No entanto, a corretora só enviou os dados requeridos dois meses após a solicitação, especificamente no dia 23 de julho de 2008, quando o bem já havia sido alienado.
+Diante disso, percebe-se que, ao contrário do que aduziu a demandante, não houve qualquer tipo de negativa ou oposição da seguradora em permitir a realização da perícia técnica, restando impossibilitada tão somente pela venda do objeto sobre o qual seria efetivada.
+Enfatiza-se, por oportuno, que a requerida, ao alienar o salvado (sucata), agiu no estrito exercício regular de um direito, uma vez que, no momento em que efetuou o pagamento da indenização, sub-rogou-se em todos os direitos atinentes ao referido bem, dentre eles a livre disponibilidade.
+Como se vê, não houveofensa aos arts. 489 e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. EMBARGOS À EXECUÇÃO FISCAL. COMPENSAÇÃO. INDEFERIMENTO ADMINISTRATIVO. MATÉRIA DE DEFESA. INVIABILIDADE.
+1. Inexiste violação dos arts. 489, § 1º, IV, e 1.022, I e II, do CPC/2015, não se vislumbrando nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.731.435/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/9/2022, DJe de 3/10/2022.)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
