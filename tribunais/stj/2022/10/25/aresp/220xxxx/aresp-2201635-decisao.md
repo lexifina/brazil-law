@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ARAÇA TERRAS E ENTULHOS EIRELI contradecisão que inadmitiu o recurso especial comfundamento na Súmula n. 284 do STF e naausência de violação a dispositivo de lei federal.
+Alega aagravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, ae c,da Constituição Federal, foi interposto contra acórdãodo Tribunal de Justiça do Estado de São Paulo(Apelação Cíveln. 1006881-16.2019.8.26.0032) assim ementado(fl. 243):
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO Prestação de serviço Fornecimento de caçambas para retirada de entulho Contratação negada pela autora Alegação da ré no sentido de que pretendia produzir prova testemunhal, cujo indeferimento levaria à nulidade da sentença Inocorrência. No caso em tela era desnecessária a produção de prova oral, pois a prova da prestação do serviço que ensejou a emissão da nota fiscal questionada era eminentemente documental. Causa estranheza uma empresa entregar trinta e quatro caçambas para a retirada de entulho e não firmar contrato escrito e tampouco exigir a assinatura do recebedor na nota fiscal ou, ao menos, um recibo da entrega. Diante de tal contexto, a prova testemunhal pretendida, desacompanhada de qualquer outro elemento mínimo de prova, seria inócua, pois restaria isolada nos autos. Sentença mantida.
+RECURSO NÃO PROVIDO.
+Nas razões do recurso especial, a ora agravante alega ofensa ao art. 369 doCódigo de Processo Civil.Argumenta que o indeferimento da prova testemunhal violou as garantias processuais do contraditório e da ampla defesa. Aduz que o contrato de prestação de serviços foi verbal, sendo a prova oral,portanto, o único meio de demonstrar que os serviços foram efetivamente prestados e inadimplidos.
+Sustentaaindadivergência jurisprudencial com julgado do Superior Tribunal de Justiça.
+Requer o conhecimento e provimento do recurso.
+Contrarrazões às fls. 263-269.
+É o relatório. Decido.
+O recurso não merece prosperar.
+No que se refere à comprovação da suposta prestação de serviços pela empresa ora agravante, o acórdão recorrido consignou que (fl. 244):
+No caso em tela era desnecessária a produção de prova oral, pois a prova da prestação do serviço que ensejou a emissão da nota fiscal questionada era eminentemente documental.
+De início, causa estranheza uma empresa entregar trinta e quatro caçambas para a retirada de entulho e não firmar contrato escrito.
+De qualquer forma, ainda que se trate de contratação verbal, a ré emitiu a nota fiscal em questão, na qual não foi aposta a assinatura da autora. Ora,diante da suposta contratação verbal, essa era a prova que, em tese, poderia demonstrar a prestação do serviço.
+Nessa mesma toada, também causa estranheza o fato da ré, em tese, ter entregado as trinta e quatro caçambas sem receber qualquer valor prévio e, mesmo assim, não exigir, ao menos, um recibo do representante da autora, no sentido de que recebera as caçambas.
+Diante de tal contexto, a prova testemunhal pretendida, desacompanhada de qualquer outro elemento mínimo de prova, seria inócua, pois restaria isolada nos autos.
+Destarte, a pretensão não vinga, sendo de rigor a manutenção da sentença recorrida.
+Assim, verifica-se que oTribunal estadual afastou o alegado cerceamento de defesa por entender que a prova testemunhal pretendida seria inócua, pois, ainda que se tratasse de contrato verbal, seria necessário um mínimo de prova documental para comprovar a prestação do serviço, tal como a assinatura da agravada na nota fiscal ou em um recibo.Entretanto, esse fundamento não foi impugnado no recurso especial, o que inviabiliza o seu conhecimento por deficiência na fundamentação (Súmula n. 284 do STF).
+Por fim, não é possível conhecer do recurso especial no que se refere à divergência jurisprudencial.Para a interposição de recurso especial fundado na alínea c do permissivo constitucionalé necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro os honorários advocatícios em desfavor da parte ora recorrente em 10% sobre o valor já arbitrado nas instâncias de origem (fl. 244), observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido artigo,ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
