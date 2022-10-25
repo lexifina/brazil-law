@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo regimental interposto em favor deUEVERTON DA SILVA ALVES contra decisão monocrática, que não conheceu dohabeas corpusimpetrado contra decisão acórdão proferido pelo eg.Tribunal de Justiça do Estado de São Paulo.
+No presente agravo, a defesa reitera as alegações no sentido de que o Juízo a quo se baseou na gravidade abstrata do delito para imposição do regime mais gravoso.
+Postula, assim, a reconsideração da decisão, ou que o presente agravo seja submetido à apreciação do Colegiado, pugnando pelo seu total provimento (fls. 56-62).
+O Ministério Público Federal, às fls. 76-77, manifestou-sepela concessão da ordem de habeas corpus de ofício.
+Por modificar a decisão agravada, passo às devidas considerações.
+É o relatório.
+Decido.
+A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+A defesa reitera as alegações no sentido de que o Juízo a quo se baseou na gravidade abstrata do delito para imposição do regime mais gravoso.
+A jurisprudência do excelso Supremo Tribunal Federal, em relação ao regime de cumprimento da prisão, é uniforme no sentido de que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" (Súmula 718/STF), e que "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea" (Súmula 719/STF).
+Consigna-se, ainda, que: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito" (Súmula 440/STJ).
+Na hipótese, constata-se que o regime inicial fechado foi determinado tão somente com base na mera reprodução das elementares do tipo do delito de roubo majorado, com considerações vagas e genéricas relativas à gravidade abstrata do crime.
+Desse modo, sendo o agravante primário e fixada a pena-base em seu mínimo legal, bem como favoráveis todas as circunstâncias judiciais do art. 59 do Código Penal, o regime inicial semiaberto se mostra o mais adequado para o resgate da reprimenda, nos termos do art. 33, § 2º, "b", do Código Penal.
+Nesse sentido os seguintes precedentes desta Corte Superior:
+"CONSTITUCIONAL E PENAL. HABEAS CORPUS. ROUBO. IMPOSIÇÃO DO REGIME FECHADO. CARÊNCIA DE FUNDAMENTAÇÃO VÁLIDA. SÚMULA 440/STJ. ORDEM NÃO CONHECIDA E HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+ ..
+2. Os fundamentos genéricos utilizados do decreto condenatório não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso que o estabelecido em lei (art. 33, §§ 2º e 3º, do Código Penal), contrariando a Súmula 440 deste Superior Tribunal.
+3. A teor dos artigos 33, §§ 2º, alínea "b", e 3º, c/c 59, ambos do CP, não se afigura idônea a justificativa apresentada para afastar a aplicação ao caso concreto do regime semiaberto para cumprimento inicial da pena privativa de liberdade.
+4. Estabelecida a pena-base no mínimo legal, pois o Julgador de 1º grau não entendeu que as circunstâncias do crime desbordavam das ínsitas ao crime de roubo, não se afigura razoável a imposição de regime prisional mais gravoso do que o indicado pela quantidade de pena fundada na gravidade abstrata do delito. Além disso, o simples fato de o paciente ter sido beneficiado com o reconhecimento da continuidade delitiva não permite o recrudescimento do meio prisional de desconto da reprimenda.
+5. Habeas corpus não conhecido. Ordem concedida de ofício, a fim de estabelecer o regime prisional semiaberto para o desconto da sanção corporal imposta ao paciente, salvo se, por outro motivo, estiver descontando pena em regime mais severo" (HC n. 356.130/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 14/11/2016).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. FIXAÇÃO DE REGIME MAIS GRAVOSO. PENA-BASE NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. FUNDAMENTAÇÃO. GRAVIDADE ABSTRATA DO DELITO. INEXISTÊNCIA DE MOTIVAÇÃO IDÔNEA.
+1. Consoante determinam os arts. 33, §§ 2º e 3º, e 59, ambos do Código Penal, o regime prisional será estabelecido com observância do quantum de pena aplicada, da primariedade e da análise das circunstâncias judiciais, em respeito ao princípio da individualização da pena, considerando, ainda, que tal regime "seja necessário e suficiente para reprovação e prevenção do crime".
+Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que permitir a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito.
+2. As Súmulas 718 e 719 do Supremo Tribunal Federal e a 440 desta Corte afastam a imposição de regime mais gravoso quando lastreado apenas na gravidade abstrata do delito ou em motivação inidônea.
+3. No caso, o Juízo sentenciante fixou a pena-base no mínimo legal, ante a inexistência de circunstâncias judiciais desfavoráveis, com a imposição do regime semiaberto para início de cumprimento da pena privativa de liberdade. No entanto, a Corte local alterou o regime para o mais gravoso, com fundamento apenas nas elementares do tipo penal e na gravidade abstrata do delito, o que vai de encontro ao teor dos enunciados das Súmulas 718 e 719/STF, bem como ao da Súmula 440/STJ.
+4. Agravo regimental desprovido." (AgRg no HC n. 344.766/RJ, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 10/11/2016).
+Ante o exposto, dou provimento ao agravo regimental, para fixar o regime intermediário (semiaberto) para o início do desconto da reprimenda aplicada ao agravante.
+P. e I.
