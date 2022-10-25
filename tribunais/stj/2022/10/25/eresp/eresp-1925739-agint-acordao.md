@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 19/10/2022 a 25/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão da Presidência do STJ que indeferiu liminarmente os Embargos de Divergência, pelos seguintes fundamentos:
+Segundo a jurisprudência do Superior Tribunal de Justiça e do teor do art. 1.043, § 4º do Código de Processo Civil de 2015 e no art. 266, § 4º do Regimento Interno do Superior Tribunal de Justiça, configura pressuposto indispensável para a comprovação ou configuração da divergência jurisprudencial a adoção pela parte recorrente, na petição dos embargos de divergência, de uma das seguintes providências: a) juntada de certidões; b) a apresentação de cópias do inteiro teor dos acórdãos apontados como paradigmas; c) a citação do repositório oficial autorizado ou credenciado no qual eles se achem publicados, inclusive em mídia eletrônica; e (d) a reprodução de julgado disponível na rede mundial de computadores com a indicação da respectiva fonte.
+No caso, conforme explicitado na decisão ora embargada, a parte, no momento da interposição do recurso, limitou-se a apresentar os relatórios, votos e ementas dos julgados apontados como paradigmas, deixando de colacionar aos autos os respectivos acórdãos e as certidões de julgamento.
+Ressalte-se que a certidão/termo de julgamento compõem o julgado a que se refere, de modo que sua ausência representa o descumprimento de regra técnica nos termos do art. 1.043, § 4º, do Código de Processo Civil de 2015 e do art. 266, § 4º, do Regimento Interno do Superior Tribunal de Justiça, o que constitui vício substancial insanável; repita-se, portanto, que o termo de publicação de fls. 368 não substitui a certidão/termo de julgamento.
+Nas razões do recurso (fls. 398-401, e-STJ), a parte agravante sustenta:
+A discussão aqui proposta diz respeito à uma análise mais acurada do que havia disponível no ambiente eletrônico do RESP N. 1.861.550/DF, o qual foi suscitado como paradigma nos embargos de divergência interpostos pela União.
+A regra técnica de admissibilidade obviamente deve ser respeitada, e a União APRESENTOU TODOS OS DOCUMENTOS POSSSÍVEIS, CONFORME SE VERIFICAÇÃO DE UMA SIMPLES CONFERÊNCIA.
+Como se pode verificar dos anexos acostados pela União juntamente com e petição recursal, todos os requisitos técnicos foram preenchidos, SENDO ANEXADOS OS SEGUINTES DOCUMENTOS RELATIVOS AO JULGADO PARADIGMA: INTEIRO TEOR (FLS. 359/365); EMENTA (FLS. 366/367) E CERTIDÃO DE PUBLICAÇÃO (FLS. 368).
+Ora, analisando-se a documentação acostada e acima citada, forçoso concluir que a regra técnica recursal foi cumprida e a decisão ora embargada deve sanar tal equívoco.
+Ademais, DEVE-SE REALIZAR A VERIFICAÇÃO ADEQUADA DO PROCESSO PARADIGMA, TENDO EM VISTA QUE, A CERTIDÃO DE PUBLICAÇÃO ACOSTADA PELA UNIÃO ÀS FLS. 368,ERA A ÚNICA DISPONÍVEL NO SÍTIO ELETRÔNICO DO RESP N. 1.861.550/DF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. DECISÃO DA PRESIDÊNCIA DO STJ QUE INDEFERIU LIMINARMENTE O RECURSO. AUSÊNCIA DE CERTIDÃO DE JULGAMENTO.
+1. A juntada tão somente da ementa, relatório e voto do acórdão paradigma, sem a respectiva certidão de julgamento, configura vício substancial e impede o conhecimento dos Embargos de Divergência. Precedentes.
+2. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 27.9.2022.
+A irresignação não merece prosperar, pois não foram apresentados argumentos suficientes para a reforma da decisão agravada.
+Como bem ressaltou o eminente Ministro Presidente desta Corte Superior, a parte embargante limitou-se a apresentar o relatório, o voto e a ementa do julgado apontado como paradigma, deixando de colacionar aos autos o respectivo acórdão e a certidão de julgamento.
+A juntada desses documentos é ônus da parte embargante, não sendo suficiente a simples alegação de que eles não estariam disponíveis.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. NÃO CONHECIMENTO. ACÓRDÃO PARADIGMA. JUNTADA DE INTEIRO TEOR. AUSÊNCIA DA CERTIDÃO DE JULGAMENTO. VÍCIO SUBSTANCIAL. INAPLICABILIDADE DO PARÁGRAFO ÚNICO DO ART. 932 DO CPC DE 2015. PRECEDENTES.
+1. Ostentando os embargos de divergência característica de recurso de fundamentação vinculada, é imperativo que a demonstração do dissenso jurisprudencial se faça nos exatos termos estabelecidos pelo art. 1.043, § 4º, do CPC de 2015 e pelo art. 266, § 4º, do RISTJ.
+2. A juntada tão somente da ementa, relatório e voto do acórdão paradigma, sem a respectiva certidão de julgamento, configura vício substancial e afasta a aplicabilidade do parágrafo único do art. 932 do CPC de 2015.
+3. Agravo interno desprovido. (AgInt nos EREsp 1.617.799/DF, Rel. Min. João Otávio de Noronha, Corte Especial, DJe de 25/8/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO EMBARGADA QUE NÃO ADENTROU AO MÉRITO DO RECURSO. NÃO CABIMENTO. SÚMULA N. 315/STJ. NECESSIDADE DE OBSERVÂNCIA DAS REGRAS TÉCNICAS PARA DEMONSTRAÇÃO DA DIVERGÊNCIA. PRECEDENTES. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE.
+(..) 2. Ao não juntar cópia da ementa e da certidão de julgamento do acórdão paradigma, o embargante não observou regra técnica para demonstração da divergência. Precedente.
+(..) 4. Agravo interno a que se nega provimento. (AgInt nos EAREsp 1.746.127/SP, Rel. Min. Og Fernandes, Primeira Seção, DJe de 31/8/2022)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO DUPLAMENTE QUALIFICADO. ACÓRDÃO EMBARGADO QUE APLICOU VÁRIOS ÓBICES PROCESSUAIS AO PEDIDO DE RECONHECIMENTO DE NULIDADES, NOTADAMENTE A SÚMULA N. 07/STJ. EMBARGOS DE DIVERGÊNCIA MANEJADOS EM DESATENDIMENTO AOS REQUISITOS PARA COMPROVAÇÃO OU CONFIGURAÇÃO DO DISSENSO PRETORIANO. AUSÊNCIA DE OPORTUNA JUNTADA DE CERTIDÕES DE JULGAMENTO. DIÁRIO OFICIAL NÃO É REPOSITÓRIO OFICIAL DE JURISPRUDÊNCIA. VÍCIO SUBSTANCIAL INSANÁVEL. INAPLICAÇÃO DO ART. 932, PARÁGRAFO ÚNICO, DO CPC/2015. PARADIGMAS PROLATADOS EM HABEAS CORPUS. INVIABILIDADE. EMBARGOS LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de oportuna juntada das certidões de julgamento desatende a exigência legal e regimental de citação do repositório oficial ou autorizado de jurisprudência, para o fim de demonstrar o alegado dissídio. Trata-se de vício substancial, portanto, insanável, consoante farta e uníssona jurisprudência desta Corte Superior.
+(..) 4. Agravo regimental desprovido. (AgRg nos EAREsp n. 1.472.525/DF, Rel. Min. Laurita Vaz, Terceira Seção, DJe de 18/12/2020)
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. NÃO CONHECIMENTO. ACÓRDÃOS PARADIGMAS. JUNTADA. INTEIRO TEOR. AUSÊNCIA. CERTIDÕES DE JULGAMENTO. VÍCIO SUBSTANCIAL. PRAZO. JUNTADA. AGRAVO INTERNO DESPROVIDO.
+1. Na esteira da jurisprudência desta Corte, é requisito indispensável para a comprovação ou configuração do dissídio a adoção pela parte recorrente, na petição dos embargos de divergência, das seguintes providências, quanto aos paradigmas indicados: (a) a juntada de certidões; (b) apresentação de cópias do inteiro teor dos acórdãos apontados; (c) a citação do repositório oficial, autorizado ou credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (d) a reprodução de julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte na Internet.
+2. In casu, a agravante reconhece a ausência de juntada da certidão de julgamento do acórdão paradigma, afirmando que a decisão estaria a exigir algo que a lei não prescreve e que, ainda que assim o fosse, tal vício poderia ser sanado posteriormente, por ser meramente formal.
+3. Ocorre que os embargos de divergência ostentam característica de recurso de fundamentação vinculada, a teor do que dispõem os arts. 1.043 e 1.044 do CPC, os quais exigem, como pressuposto indispensável, a demonstração de divergência jurisprudencial entre os órgãos fracionários.
+(..) 7. Agravo interno desprovido. (AgInt nos EAREsp n. 1.238.270/RS, Rel. Min. Jorge Mussi, Corte Especial,DJe de 27/10/2020)
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
