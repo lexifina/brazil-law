@@ -1,0 +1,62 @@
+DECISÃO
+DIRCEU MANTOVANI e DALVA FERREIRA MANTOVANI, representada por VÂNIA MANOVANI ARAÚJO (DIRCEU e outra) propuseram ação de anulação de atos jurídicos com pedido de antecipação de tutela contra a CAIXA ECONÔMICA FEDERAL (CEF), objetivando a nulidade do processo de execução promovido pela CEF e todos os seus efeitos, como a carta de arrematação e eventual venda do imóvel a terceiros.
+A ação foi julgada improcedente (e-STJ, fls. 317/324).
+Interposta apelação, a ela foi negado seguimento, por decisão monocrática da lavra do Desembargador COTRIM GUIMARÃES (e-STJ, fls. 393/400).
+Sobreveio agravo regimental, ao qual foi negado pela Segunda Turma do Tribunal Regional Federal da 3ª Região, nos termos da ementa a seguir (e-STJ, fls. 422/431):
+PROCESSO CIVIL. AGRAVO INTERNO (Art. 1.021, § Iº e 3ºDO CPC DE 2015). PRESSUPOSTOS. OBRIGATORIEDADE DE IMPUGNAÇÃO E FUNDAMENTAÇÃO ESPECÍFICAS (Art. 489 DO CPC DE 2015). IRRESIGNAÇÃO GENÉRICA. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1 - Ao dever do juiz de fundamentar adequadamente (de formaespecífica) a decisão que profere na forma do art. 1.021, § 3º c/c art. 489 corresponde o ônus da parte agravante em aduzir a sua impugnação também de forma específica (art. 1.021, § 1º do CPC/73 de 2015), indicando concretamente o fundamento da decisão agravada contra o qual se dirige, inadmitindo-se, pois, reavivar razões genéricas vinculadas exclusivamente a fundamentos já afastados por aquela decisão.
+2 - Agravo interno desprovido.
+Contra o acórdão, foi manejado recurso especial, com base no art. 105, III, a e c, da CF, onde se alegou, a par dedivergência jurisprudencial,violação do art. 31, §§ 1º e 2º, do Decreto-Lei nº 70/66, sustentando, em síntese, que (1)não se encontravam em lugar incerto ou não sabido, mas tinham endereço fixo e conhecido pelo agente fiduciário constante no instrumento firmado entre as partes; e(2)somente é cabível notificação por edital, quando frustrada a notificação pessoal do devedor (e-STJ, fls. 433/452).
+O recurso não foi admitido na origem, por óbice da Súmula nº 7 do STJ (e-STJ, fls. 465/466).
+DIRCEU e outra interpuseram agravo em recurso especial (e-STJ, fls. 468/477) queconheci para determinar sua reautuação como recurso especial (e-STJ, fls. 488/490).
+É o relatório.
+DECIDO.
+A irresignação não merece acolhimento.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Trata-se de ação anulatória de atos de execução extrajudicial decorrentes do contrato de financiamento, pelo Sistema Financeiro da Habitação, firmado por DIRCEU e outra e CEF, envolvendo o imóvel localizado na Rua Professor João Machado, nº 52, apartamento 33, Nossa Senhora Do Ó, São Paulo/SP.
+Em suas razões recursais, DIRCEU e outra alegaramnulidade na notificação via edital acerca do leilão extrajudicial, na medida em quesempre foram domiciliados na Rua Custódio Serrão, nº 599, Jaguará, São Paulo/SP, onde moram até hoje, e, quando firmaram o novo instrumento, Termo de Confissão de Dívida com Aditamento e Rerratificação de Dívida Originária de Contrato de Financiamento Habitacional (fis.:66/73), não houve alteração na qualificação dos DEVEDORES (e-STJ, fl. 437).
+Entretanto, para sua surpresa, a notificação realizada por CEF foi encaminhada ao endereço onde situado o imóvel objeto do financiamento, o que, em seu entender, violou o art. 31, § 1º, do Decreto-lei 70/66 que exige a notificação pessoal dos devedores, o que caracterizaria a invalidade da notificação editalícia.
+Sobre a questão, a Corte de origem assim se pronunciou(e-STJ, fls. 396/397):
+(..)compulsando os autos, verificam-se provas de que a instituição financeira realizou a notificação dos mutuários, sendo que as tentativas restaram frustradas, porquanto não foram ali encontrados (fls.142/159), o que a levou a publicar os editais do leilão em jornal, em atenção ao art. 32, caput, do Decreto -Lei 70/66.
+(..)
+Acresço, ainda, que não há qualquer irregularidade quanto ao fato de a CEF ter enviado carta de notificação para os autores no endereço do imóvel financiado - sem destaque no original.
+E ajurisprudência desta Corte admite referidanotificaçãoeditalícia, acrescentando não ser possível, em sede de recurso especial, rever as condições fáticas que autorizaram a prática desse ato, por incidência da Súmula 7, do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL. NOTIFICAÇÃODO EXECUTADO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. O Superior Tribunal de Justiça firmou compreensão segundo a qual, no regime de execução extrajudicial do Decreto-Lei nº 70/1966, somente é legítima a publicação deedital,inclusive da realização do leilão, quando frustrada a tentativa denotificaçãopessoal do devedor por meio do Cartório de Título e Documentos.
+2. Rever o entendimento do Tribunal de origem, no sentido de que foi observado o procedimento legal, com diversas tentativas denotificaçãodo executado sobre a realização da penhora, demandaria o reexame de provas, providência vedada em recurso especial pela Súmula nº 7/STJ.
+3. Agravo interno não provido.
+(AgInt no REsp 1191516/SE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 31/8/2016 - sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO EXTRAJUDICIAL.NOTIFICAÇÃOFRUSTRADA. CITAÇÃO POREDITAL.REVISÃO.
+SÚMULA 7/STJ.
+1. Reconhecido que todas as tentativas de localizar os autores para o fim de intimação pessoal não tiveram êxito - o que legitimou a citação editalícia -, a pretensão recursal encontra óbice na Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 653.455/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/3/2015)
+Ademais, também é entendimento consolidado no STJ que a mora será comprovada pela entrega noendereçodo devedor danotificaçãoremetida pelo Cartório, não sendo exigível a intimação pessoal, e que anotificaçãoé válida ainda que o devedor não mais resida no imóvel, tendo em vista que era obrigado a fazê-lo, por força de lei e de contrato.
+Vejam-se os seguintes precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CONTRATO BANCÁRIO. ARTS. 128 E 460 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. ALIENAÇÃO FIDUCIÁRIA. REINTEGRAÇÃO DE POSSE. COMPROVAÇÃO DA MORA DO DEVEDOR.NOTIFICAÇÃOPOREDITAL.ALEGAÇÃO DE FALTA DE ESGOTAMENTO DOS MEIOS DE LOCALIZAÇÃO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. QUESTÃO RELATIVA À APLICAÇÃO DO ART. 687, § 5º, DO CPC/1973. FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS.
+SÚMULA 283/STF.
+1. Na interposição do recurso especial, não basta a simples menção ao dispositivo, nas razões recursais. É necessário seja indicado de forma clara e precisa em que consistiu a apontada ofensa, pois a deficiência na fundamentação recursal atrai, por analogia, a incidência da Súmula 284 do STF.
+2. As questões amparadas no conteúdo dos arts. 128 e 460 do CPC/1973 não foram apreciadas pelo Tribunal a quo, tampouco foram alvo dos embargos declaratórios opostos para sanar eventual omissão. Dessa forma, tais matérias não merecem ser conhecidas por esta Corte, ante a ausência do indispensável prequestionamento. Aplica-se, por analogia, o óbice das Súmulas 282 e 356 do STF.
+3. A col. Segunda Seção desta eg. Corte, quando do julgamento do REsp 1.184.570/MG, da relatoria da em. Ministra Maria Isabel Gallotti, processado sob o rito de recurso representativo da controvérsia, decidiu que, em caso de alienação fiduciária, a mora será comprovada por meio denotificaçãoextrajudicial realizada por intermédio do Cartório a ser entregue no domicílio do devedor, sendo dispensada anotificaçãopessoal.
+4. Admite-se, ainda, que a intimação da mora do devedor seja efetuada poredital,quando, esgotados os meios de localizar o devedor, seja inviável anotificaçãopessoal, em razão de não ter sido o réu encontrado noendereçoindicado no contrato. Tal entendimento é extensível, especificamente, aos casos de alienação fiduciária de imóvel, como no caso dos autos. Precedentes.
+5. A inversão do que foi decidido pelo Tribunal de origem - no sentido do esgotamento dos meios de localização do devedor - demandaria, necessariamente, novo exame do acervo fático-probatório dos autos, providência que encontra óbice na Súmula 7 do Superior Tribunal de Justiça.
+6. No tocante à alegação recursal sobre a violação do art. 687, § 5º, do CPC/1973, a parte recorrente não impugnou os fundamentos expostos pelo aresto recorrido, autônomos e suficientes à manutenção do aresto hostilizado, o qual permaneceu incólume. Dessa forma, incide, na espécie, o óbice da Súmula 283 do STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+7. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AgInt no AREsp 989.316/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, j. em 12/12/2017, DJe 15/12/2017 - sem destaque no original)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. EXECUÇÃO HIPOTECÁRIA. ART. 2º, IV, DA LEI 5.741/71.NOTIFICAÇÃO.NECESSIDADE DE SER ENVIADA AOENDEREÇODO IMÓVEL HIPOTECADO.
+1. Considera-se satisfeito o requisito previsto no art. 2º, IV, da Lei 5.741/71, com o envio do aviso de cobrança aoendereçodo imóvel hipotecado, no qual, por força da lei e do contrato, o mutuário está obrigado a residir.
+2. Alterar o acórdão recorrido, para afirmar terem sido efetivamente encaminhados os avisos de cobrança ao imóvel hipotecado, demandaria o reexame do acervo fático probatório dos autos, o que revela-se defeso em virtude do óbice previsto na Súmula 7/STJ.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.249.453/SC, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 18/08/2015, DJe 27/08/2015 - sem destaque no original)
+RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO IMOBILIÁRIO. SFH. DUPLANOTIFICAÇÃO.SÚMULA Nº 199/STJ. DESNECESSIDADE DE INTIMAÇÃO DE AMBOS CÔNJUGES CONTRATANTES.NOTIFICAÇÕESREMETIDAS AOENDEREÇODO IMÓVEL. ART. 2º, INCISO IV, DA LEI Nº 5.741/71. INDICAÇÃO DAS PRESTAÇÕES EM ATRASO.
+1. São válidas asnotificaçõesda execução judicial de contrato imobiliário firmado no âmbito doSistema Financeirode Habitação quando remetidas aoendereçodo imóvel objeto do contrato, no qual o mutuário está obrigado a residir. Não se faz necessário, portanto, que ambos cônjuges contratantes recebam referidos avisos de cobrança.
+2. Constando dos avisos quais prestações do financiamento estariam em atraso, informando ou não seus valores, uma vez configurada a mora e tendo sido dada ao devedor a oportunidade de quitação da dívida, resta atendida a exigência prevista no inciso IV do art. 2º da Lei nº 5.741/71, merecendo prosseguir a execução hipotecária.
+3. Na hipótese dos autos, não houve indicação do valor ou, sequer, das prestações em atraso, não tendo sido atendidos os pressupostos para regular constituição da execução hipotecária.
+4. Recurso especial não provido.
+(REsp 332.117/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 04/10/2012, DJe 10/10/2012 - sem destaque no original)
+Nessas condições, NEGO PROVIMENTO ao recurso especial eMAJOROem 2% o valor doshonoráriosadvocatícios anteriormente fixados em desfavor de DIRCEU e outra, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. RECURSO ESPECIAL SOB A ÉGIDE DO NCPC. AÇÃO ANULATÓRIA. CONTRATO DE MÚTUO. SISTEMA FINANCEIRO DA HABITAÇÃO. EXECUÇÃO EXTRAJUDICIAL. NOTIFICAÇÃO EDITALÍCIA DOS DEVEDORES. POSSIBILIDADE. PRECEDENTES.ALEGAÇÃO DE VIOLAÇÃO DO ART. 31, § 1º, DO DECRETO 70/66. TRIBUNAL DE ORIGEM QUE RECONHECEU A REGULARIDADE DO PROCEDIMENTO. ALTERAÇÃO DE ENTENDIMENTO QUE ESBARRA NO ÓBICE DA SÚMULA 7, STJ. RECURSO ESPECIAL NÃO PROVIDO.
