@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por GUILHERME DE SOUZA CORREA contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 401):
+AÇÃO DE REINTEGRAÇÃO DE POSSE. COMPRA E VENDA DE VEÍCULOS ENTRE PARTICULARES. Sentença de procedência do pedido. Apelação do réu. Preliminar de nulidade da r. sentença afastada. Autor que alienou o veículo, cujo preço não foi pago pelo corréu. Reintegração de posse devida. Apelante que agiu com imprudência ao efetuar o pagamento do preço por meio de depósito em conta de uma "quarta" pessoa que não é a proprietária do veículo adquirido. Réu que não demonstrou os fatos impeditivos, modificativos ou extintivos do direito do autor. Art. 373, II, CPC. Sentença mantida. RECURSO NÃO PROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 406-420), o recorrente apontou violação aos arts. 148 e 309 do CC, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a validade do pagamento ao credor putativo, além de ser comprador de boa-fé, fazendo jus à propriedade da motocicleta (HONDA CG 150 TITAN EX).
+Afirmou que foi vítima de conduta criminosa como o vendedor, e pagou o preço do bem.
+Foram apresentadas contrarrazões (e-STJ, fls. 441-454).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 402-404, sem grifo no original):
+Trata-se de ação de reintegração de posse da motocicleta Honda, placa FTZ-6534, ajuizada por Lucas Bueno Silveira em face de Guilherme de Souza Correa e Fernando Ferreira de Oliveira.
+De acordo com a narrativa da inicial, o autor anunciou a venda do veículo no site da OLX, oportunidade em que foi contatado por uma pessoa chamada Fernando. As partes realizaram contrato verbal de compra e venda e o pagamento seria efetuado mediante depósito bancário. Após a apresentação do comprovante, o certificado de registro do veículo seria entregue, devidamente assinado, ao corréu Guilherme. Em 10/02/2020, entregou o veículo e as partes reconheceram as firmas no documento. O corréu Fernando entregou o comprovante de transferência (TED), motivo pelo qual comunicou a venda aos órgãos de trânsito. Todavia, até a presente data o valor depositado não entrou na conta, motivo pelo qual ajuizou a presente ação.
+O juízo de primeiro grau julgou o pedido de reintegração de posse procedente, valendo destacar (fls. 193/194):
+Quanto ao corréu Guilherme (fls. 146/147), a despeito de realizar o pagamento do preço em conta da denunciada Maria de Fátima, não há como afastar a relação jurídica mantida com o autor, de quem recebeu o veículo,
+Logo, a despeito da fraude praticada por terceiros e da boa-fé do corréu Guilherme, o negócio deve ser anulado e restituída a posse da motocicleta ao autor, que não recebeu o preço.
+E o entendimento da r. sentença deve prosperar, não trazendo a parte apelante elementos suficientes a ilidir seu embasamento.
+A venda do veículo para Fernando restou incontroversa, seja porque o fato não foi impugnado pelo réu em contestação, seja porque o próprio requerido admite que adquiriu o bem de Fernando, sob o argumento de que "há duas relações jurídicas".
+É fato incontroverso, também, que as partes foram vítimas de estelionatário, conforme demonstrado pelo boletim de ocorrência de fls. 60/63.
+Assim, conforme bem observado pelo Julgador de Primeiro Grau, não tendo o autor recebido o preço pela venda do veículo, em tese, tem direito à reintegração de sua posse.
+O réu Guilherme, por sua vez, agiu com imprudência ao efetuar o depósito da quantia de R$ 5.000,00 na conta de uma "quarta" pessoa que não é a proprietária do veículo.
+Desse modo, não se desincumbiu do ônus que lhe cabia, qual seja, de demonstrar a existência de fato impeditivo, modificativo ou extintivo do direito do autor, nos termos do artigo 373, inciso II, do Código de Processo Civil.
+Por tais motivos, a r. sentença não comporta qualquer alteração.
+Destarte, atentando-se aos argumentos trazidos pelo recorrente e aos fundamentos adotados pela Corte estadual, acima destacados, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a manutenção de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo nobre, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Ademais, no tocante aos dispositivos tidos como violados (arts. 148 e 309 do CC), verifica-se que seu conteúdo normativo não foi objeto de apreciação pelo Tribunal a quo. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem, ao caso, as Súmulas 282 e 356 do STF.
+Convém registrar, por fim, que a falta de prequestionamento inviabiliza o recurso especial também pela alínea c do permissivo constitucional, dada a impossibilidade de demonstração da divergência jurisprudencial, que deve abranger não apenas a similitude fática, mas também a jurídica entre os casos confrontados, com o intuito de bem caracterizar a interpretação legal divergente, situação não constatada na hipótese.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER OU RESCISÃO CONTRATUAL CUMULADA COM REINTEGRAÇÃO DE POSSE. COMPRA E VENDA DE MOTO. AUSÊNCIA DE COMPROVAÇÃO DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO AUTOR. FUNDAMENTO SUFICIENTE INATACADO. SÚMULA 183/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
