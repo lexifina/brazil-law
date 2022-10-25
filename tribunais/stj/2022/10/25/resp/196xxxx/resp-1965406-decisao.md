@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim ementado:
+"PREVIDENCIÁRIO E PROCESSUAL CIVIL. JUÍZO DE RETRATAÇÃO. ARTIGO 1040, II DO NCPC. DESAPOSENTAÇÃO. ACÓRDÃO EM DESACORDO COM ENTENDIMENTO DO STF FIRMADO EM REGIME DE REPERCUSSÃO GERAL. RE N. 66.1256. IMPROCEDÊNCIA DO PEDIDO. JUÍZO DE RETRATAÇÃO EXERCIDO.
+1. O art. 1.040,11, do CPC/2015 dispõe que Publicado o acórdão paradigma: II  o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do tribunal superior"
+2. Em face do julgado no RE N. 66.1256, quanto à desaposentação, a Vice-Presidência desta Corte determinou o retomo dos autos a esta 1a Turma para o fim previsto no art. 1.040,11, do CPC/2015.
+3. O Supremo Tribunal Federal, em julgado submetido à repercussão geral, considerou ser inviável o recálculo do valor da aposentadoria, por desaposentação, como o cômputo das contribuições vertidas após sua concessão, fixando a tese no sentido de que no âmbito do Regime Geral de Previdência Social (RGPS), somente lei pode criar benefícios e vantagens previdenciárias, não havendo por ora, previsão legal do direito à "desaposentação", sendo constitucional a regra do artigo 18, parágrafo 2º, da Lei 8.213/91. (RE"s ns. 661.256, 827.833 e 381.367, Seção do dia 26/10/2016).
+4. Juízode retratação exercido para dar provimento à apelação do INSS e à remessa oficial" (fl. 291e).
+O acórdão em questão foi objeto de Embargos de Declaração,os quais restaram rejeitados.
+Nas razões do Recurso Especial, interposto com base no art. 105, III, ae c da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 1.022, II, e85, §§ 3º e 4º, III, do CPC/2015, bem assim ao art. 20, caput,do CPC/73sustentando que:
+"O Tribunal de origem rejeitou os embargos de declaração do INSS, sob o pálio de fundamentação genérica.
+Ao rejeitar os declaratórios do INSS, sob o fundamento genérico de que o recurso evidenciaria a pretensão de reforma do julgado e de que não existiriam os defeitos alegados, e não se pronunciar sobre as questões neles suscitadas, o v. acórdão violou o disposto no artigo art. 1.022 do CPC/2015.
+Com efeito, cabia ao Tribunal a quo apreciar as questões formuladas nos embargos declaratórios - AUSÊNCIA DE FIXAÇÃO DE HONORARIOS DE SUCUMBENCIA DE ACORDO COM O ART. 85 DO CPC, motivo pelo qual restou configurada a ofensa ao artigo art. 1.022 do CPC/2015.
+A omissão no acórdão que apreciou a apelação da autarquia é evidente. Não há ginástica hermenêutica que permita dizer que o colegiado não deva se pronunciar sobre aspecto indissociável do próprio mérito da demanda.
+De rigor, portanto, o conhecimento e provimento do presente recurso especial, para que o aresto que julgou os embargos declaratórios seja anulado e outro seja proferido, analisando a eiva apontada.
+(..)
+O acórdão julgou improcedente o pedido inicial, mas fixou o valor dos honorários de sucumbência completamente desproporcional ao valor da causa, assim como não observou a legislação processual para o tema.
+O art. 20, caput, do Código de Processo Civil anterior, era expresso em afirmar que "a sentença condenará o vencido a pagar ao vencedor as despesas que antecipou e os honorários advocatícios" (grifei).
+Já o novo Código de Processo Civil não foi diferente e dispõe em seu art.85, caput, que "a sentença condenará o vencido a pagar honorários ao advogado do vencedor".
+Já o § 2ºdo mesmo artigo complementa que "os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa" (grifei).
+Em relação aos honorários de sucumbência em causa em que tem como parte a Fazenda Pública, o mesmo dispositivo em seu parágrafo 3º, assim prescreve:
+(..)
+Ademais, o § 4º, inciso III, do mesmo artigo, esclarece que "não havendo condenação principal ou não sendo possível mensurar o proveito econômico obtido, a condenação em honoráriosdar-se-á sobre o valor atualizado da e causa"(grifei).
+Essa Egrégia Corte, já sob a égide do novo Código de Processo Civil, definiu que o julgador deve seguir os parâmetros fixados na lei, nem menos nem mais:
+(..)
+Assim, requer o provimento do presente recurso para afastar a violação aos preceitos acima e condenar a parte vencida a pagar honorários de sucumbência sobre o valor da causa no percentual legal" (fls. 324/325e)
+Por fim, requer "seja conhecido e provido o presente recurso especial, por violação aos preceitos processuais, a fim de fixar o valor dos honorários de sucumbência de acordo com a norma processual" (fl.325e).
+O Recurso Especial foi admitido, pelo Tribunal de origem.
+A irresignação não merece prosperar.
+Inicialmente, em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Incasu, o Tribunal de origem, instado a se manifestar no julgamento dos embargos de declaração, consignou entendimento do no sentido de que "não há omissão quanto aos honorários de sucumbência, que, consoante se vê do acórdão, foi consignado: "Fixo os honorários advocatícios em R$ 1.000,00 (mil reais) nos termos do art. 85, §8º do CPC/2015, ficando suspensa a exigibilidade da verba por litigar a parte autora sob o pálio dos benefícios da justiça gratuita""(fl. 313e).
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal convocada TRF/3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+Prosseguindo, no que tange à alegação de violação ao disposto no art. 20 caput do CPC/73,aplica-se o teor da Súmula 284 do STF ao feito, por analogia,tendo em vista que não desenvolveu, a parte recorrente, em suas razões de Recurso Especial, argumentos para demonstrar de que modo taldispositivofoiviolado.
+Por fim,por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida no art. 85, §§ 3º e 4º, do CPC/2015 não foi apreciada pelo Tribunal de origem.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Com efeito, não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao art. 1.022do CPC/2015, haja vista que o julgado está devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pela parte recorrente, pois, como consabido, não está o julgador a tal obrigado.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO NÃO EXISTENTE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ARTS. 458 E 535 DO CPC/1973.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. COISA JULGADA.SÚMULA Nº 83/STJ. JULGAMENTO. SESSÃO VIRTUAL. ART. 184-D DO RISTJ.
+1. O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A oposição ao julgamento virtual prevista no art. 184-D, parágrafo único, II, do RISTJ deve se dar de forma fundamentada pela parte nas razões do recurso, circunstância não configurada no caso dos autos. Precedentes.
+3. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+4. A falta de prequestionamento impede o conhecimento do recurso especial (Súmula nº 211/STJ) . Não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista que o julgado está devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo agravante.
+5. Esta Corte Superior tem entendimento no sentido que as questões efetivamente decididas, de forma definitiva no processo, ainda que de ordem pública, não podem ser novamente debatidas, sob pena de vulneração à coisa julgada. Súmula nº 83/STJ.
+6. Agravo interno não provido"(STJ, AgInt no REsp 1.782.400/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 24/11/2020).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. GRATIFICAÇÕES DE TITULAÇÃO E DE DEDICAÇÃO EXCLUSIVA. ART. 535 DO CPC. VIOLAÇÃO NÃO CARACTERIZADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. INOVAÇÃO RECURSAL.
+1. Não ocorre ofensa ao art. 535 do CPC se o Tribunal de origem decide, fundamentadamente, as questões essenciais ao julgamento da lide.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento (Súmula 211 do STJ).
+3. É vedada a inovação de teses em embargos de declaração e, por isso, inexiste omissão em acórdão que julgou a apelação sem se pronunciar sobre matérias não arguidas nas razões de apelação.
+4. "Não configura contradição o afirmar a falta de prequestionamento e afastar indicação de afronta ao artigo 535 do Código de Processo Civil, uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está obrigado" (EDcl no REsp 463.380/RS, 1ª Turma, DJ de 13.6.2005).
+5. Recurso especial conhecido em parte e, nessa parte, não provido" (STJ, REsp 1.401.028/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 1º/10/2013).
+"AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. LIMINAR. DEFERIMENTO. FUNDAMENTAÇÃO SUFICIENTE.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A ausência de prequestionamento da matéria suscitada no recurso especial impede o conhecimento do apelo nobre (Súmula nº 211/STJ).
+3. Não há impropriedade em afirmar a falta de prequestionamento e afastar a indicação de afronta ao artigo 535 do CPC/1973, haja vista que o julgado pode estar devidamente fundamentado, sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente, pois, como consabido, não está o julgador a tal obrigado. Precedentes.
+4. Agravo interno não provido" (STJ, AgInt no AgRg no AREsp 831.998/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 21/09/2016).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte do Recurso Especial e, nessa extensão, nego-lhe provimento.
+I.
