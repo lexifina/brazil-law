@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de agravo interno interposto por Maria Dionísia de Carvalho Freire contra a decisão da Presidência desta Corte, que não conheceu do recurso sob os seguintes fundamentos (e-STJ, fls. 1.122-1.123):
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de MARIA DIONISIA DE CARVALHO FREIRE, a parte recorrente foi intimada do acórdão recorrido em 19/05/2020, sendo o recurso especial interposto somente em 15/12/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+O decisum foi complementado pelo julgamento dos embargos de declaração opostos, que, na oportunidade, foram rejeitados (e-STJ, fl. 1.160-1.162).
+Em suas razões, a agravante defende a tempestividade do recurso especial interposto.
+Argumenta que a suspensão dos prazos processuais decorreu em virtude da pandemia da COVID-19, tendo o Tribunal de Justiça retomado os prazos dos processos físicos em 9/12/2020.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Impugnação apresentada (e-STJ, fls. 1.200-1.214).
+De fato, verifica-se que houve a publicação do acordão no dia 19/5/2020 (e-STJ, fl. 900), começando a ser contada na data 1º/12/2020 e se encerrando no dia 8/1/2021, sendo que orecurso especial foi interposto em 15/12/2020. Dessa forma, tendo a parte agravante comprovadoa existência da suspensão do prazo processual às fls. 924-946 e 948-981 (e-STJ), o recurso especial é tempestivo.
+Portanto, com apoio no art. 259, § 6º, do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão de fls. 1.122-1.123 (e-STJ).
+Passo à análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Maria Dionísia de Carvalho Freire, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de Minas Gerais assim ementado (e-STJ, fl. 869):
+EMBARGOS DE DEVEDOR. DUPLICATA. PROTESTO. VALOR EXEQUENDO. DEMONSTRATIVO DE DÉBITO. EXCESSO EXECUÇÃO. DESCUMPRIMENTO ART. 917, § 40, CPC1I S. 1. A duplicata constitui titulo de crédito cuja emissão pressupõe relação negocial de compra e venda de mercadorias ou prestação de serviços, ligando-se, diretamente, à sua causa subjacente. II. A exigibilidade da duplicata condiciona-se à comprovação da relação jurídica a qual o titulo esteja vinculado, prova da entrega da mercadoria ou prestação do serviço, protesto do título, que esteja acompanhada da nota fiscal e que o devedor não tenha recusado o aceite. III. O ajuizamento da ação executiva lastreada em duplicata exige o prévio protesto do título, conforme determinação do ad. 15, II, a, Lei 5.474168, devendo o exequente instruir seu pedido inicial com o demonstrativo do débito atualizado até a data de propositura da ação, indicando o índice de correção monetária adotado; a taxa de juros aplicada; os termos inicial e final de incidência do índice de correção monetária e da taxa de juros utilizados. IV. O devedor poderá se defender por meio de embargos de devedor em que, não se conformando com o montante exequendo, poderá alegar excesso de execução, hipótese em que declarará, na petição inicial, o valor que entende correto, apresentando demonstrativo discriminado e atualizado de seu cálculo, sob pena de não apreciação da matéria pelo julgador, quando não constituir o único fundamento da defesa (ad. 917 e parágrafos CPC/15).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 896-899).
+Em suas razões de recurso especial (e-STJ, fls. 902-919), a agravante alegou violação aos arts. 371 e 1.022, II, do Código de Processo Civil de 2015, 18, I, Lei n. 5.474/1968 e 219, 269, IV, 617 do Código de Processo Civil de 1973, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, que o acórdão recorrido foi omisso, pois não se manifestou a respeito das questões suscitadas nos aclaratórios, imprescindíveis para a solução da controvérsia.
+Aduziu, ademais, a ocorrência da prescrição intercorrente da ação de execução.
+Foram apresentadas contrarrazões (e-STJ, fls. 1.004-1.010).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta apresentada (e-STJ, fls. 1.084-1.097).
+Brevemente relatado, decido.
+De plano, vale pontuar que os recursos em análise foram interpostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Com efeito, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa maneira, constata-se que a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão daagravante.
+No ponto:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE CONTRADIÇÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.481.469/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/08/2021, DJe 18/08/2021)
+PROCESSUAL CIVIL E CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM REPARAÇÃO POR DANOS MORAIS. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação declaratória cumulada com reparação por danos morais, em razão de inadimplemento contratual de contrato de compra e venda de imóvel.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.740.140/SP, Rel. Ministro NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/04/2021, DJe 28/04/2021)
+Por oportuno, com relação à aventada prescrição da ação, o Tribunal de Justiça do Estado de Minas Gerais dirimiu a controvérsia sob os seguintes aspectos (e-STJ, fls. 872-873):
+A pretensão não deve ser acolhida. Prescreve o art. 18, 1, Lei 5.474/68, que a pretensão à execução da duplicata prescreve contra o sacado e respectivos avalistas, em três anos, contados da data de vencimento do título.
+Significa que deixando a parte credora de ajuizar a demanda executiva no prazo de três anos a contar do vencimento do título, restará lo prescrita sua pretensão.
+Já em relação à prescrição intercorrente, esta se verifica quando o exequente deixa de movimentar os autos após ser intimado para este fim, não de diligenciando na procura de bens passíveis de penhora ou dar andamento ao feito. Se verifica, portanto, após o ajuizamento da ação e desde que a estagnação do processo decorra, única e exclusivamente da inércia do exequente.
+No caso em tela não se verifica a prescrição alegada pela recorrente.
+A ação foi ajuizada dentro do prazo legal, a contar do vencimento da respectivas cártulas que integram a via executiva.
+De fato, as duplicatas que embasam a via executiva venceram entre 24 de julho a 5 de agosto de 2004, tendo a demanda sido proposta em meados de 2005, o que afasta a alegação de prescrição.
+No mesmo sentido, não se evidencia ocorrência de prescrição intercorrente.
+O processo executivo ficou suspenso pelo prazo de um ano, conforme decisão de fls. 206, ficando paralisado seu andamento de 20/06/2005 a 19/06/2006, quanto retomou seu curso processual.
+Posteriormente sobreveio nova suspensão em 20/11/2006 (fl. 263), ante a interposição de embargos à execução com atribuição de efeito suspensivo (fI. 266), processo nº 059.06.015468-7.
+Determinada a citação da recorrente, nos autos da via executiva, somente em 0510612012 (fI. 273), vindo a se consumar em 1110912012, conforme certidão de juntada de mandado de fls. 2821v.
+A apelante foi incluída no processo executivo somente em 1110912012 (fl 2821v), ante a própria tramitação dos autos, não havendo que se falar em desídia da exequente capaz de causar a alegada prescrição intercorrente.
+Ademais, estando suspenso o processo executivo era defeso à embargada/apelada praticar qualquer ato processual, o que atesta não ter transcorrido lapso de tempo suficiente para consumar a prescrição do direito da embargada/apelada.
+Com estes fundamentos, REJEITO a prejudicial de prescrição.
+Das informações extraídas do aresto recorrido, verifica-se que reverter a conclusão do Colegiado estadual, para acolher a pretensão recursal, acerca da ocorrência da prescrição da ação, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça, aplicável a ambas as alíneas do permissivo constitucional.
+Diante do exposto, em juízo de reconsideração, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DEVEDOR. DUPLICATA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. PRESCRIÇÃO DA AÇÃO. NÃO OCORRÊNCIA. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. ÓBICE DA SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
