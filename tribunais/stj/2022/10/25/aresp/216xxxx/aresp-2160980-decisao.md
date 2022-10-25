@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 415, e-STJ):
+APELAÇÃO CÍVEL. PLANO DE SAÚDE. HEMODIÁLISE. NEGATIVA DE COBERTURA. ROL DE ATENDIMENTO. LIMITE TEMPORAL. ABUSIVIDADE. FRAUDE. NÃO COMPROVADA.
+1. A legitimidade, enquanto condição da ação, deve ser analisada à luz da teoria da asserção, ou seja, com base nas alegações constantes da inicial, e não com o direito provado.
+2. Afirma-se a manutenção da relação jurídica entre as partes se não comprovada a rescisão do contrato coletivo de plano de saúde, tampouco a participação da beneficiária na suposta fraude.
+3. A hemodiálise constitui procedimento de cobertura obrigatório pelos planos e seguros privados de saúde, nos termos do art. 18, VIII, e art. 19, X, a, da Resolução Normativa n º 465 da ANS.
+4. Em sendo um tratamento sequencial, a operadora deve assegurar a sua continuidade, conforme prescrição médica, a teor do caput do art. 16 do mesmo ato normativo.
+5. Negou-se provimento ao recurso.
+Os embargos de declaração opostos foram rejeitados (fls. 456/465, e-STJ).
+Nas razões do recurso especial, a parte ora agravante alega violação aos arts. 13, II, da Lei 9.656/1998 e 422 do Código Civil.
+Defende, em síntese, a regularidade da negativa de cobertura do tratamento pleiteado, sob o argumento de que o contrato coletivo empresarial, ao qual a recorrida estava vinculada, foi cancelado em razão de fraude pela inclusão de inúmeros beneficiários sem relação empregatícia ou estatutária, o que impôs a rescisão contratual de imediato.
+Foram apresentadas contrarrazões às fls. 496/510, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O Tribunal de origem, à vista do conjunto fático-probatório produzido, concluiu que a operadora de plano de saúde deveria custear o tratamento de hemodiálise de que necessita a beneficiária-recorrida.Consignou que a defesa trazida pela ré é a de fraude na contratação, mas que não teriam sido apresentadas provas nesse sentido. Pontuou que, no sistema interno da operadora, a segurada constava em "situação ativa" e que, no dossiê juntado para comprovar a alegada fraude, a autora nem sequer teria sido selecionada para a avaliação da sua regularidade documental (fls. 418/420, e-STJ):
+No mérito, a controvérsia recursal cinge-se em verificar a regularidade da recusa de cobertura do tratamento indicado à apelada.
+No caso, a apelada aderiu ao plano de saúde coletivo oferecido pela apelante em 2016, e, no ano seguinte, necessitou de hemodiálise, cuja cobertura foi negada sob o fundamento de doença pré-existente.
+Diante desse contexto, propôs a ação nº 2017.01.1.002945-0, na qual obteve a tutela de urgência, confirmada em sentença, que julgou procedentes os seus pedidos para condenar a ora apelante a não rescindir o contrato, por motivo de doença preexistente, a custear o tratamento e a reparar os danos morais sofridos.
+Em seguida, foi submetida a transplante renal, necessitando de acompanhamento contínuo posterior, igualmente negado, sob a alegação de cancelamento do plano. Ajuizou, então, outra ação, distribuída sob nº 0714956-44.2019.8.07.0001, na qual obteve igualmente a tutela de urgência, para que fosse reativado o seu plano de saúde, confirmada em sentença e em acórdão de apelação, ainda não transitado em julgado.
+Por fim, sofreu falência irreversível do transplante renal, submetendo-se a remoção cirúrgica do enxerto, após a qual lhe foi prescrito tratamento hemodialítico, seis vezes na semana (ID 23264892/ss), não autorizada pela apelante aos fundamentos de que o tratamento estava fora do rol de cobertura e ultrapassa o limite de atendimento de três vezes por semana (ID 23264895/ss).
+Nesse diapasão, a apelada propôs a presente ação, alegando a obrigatoriedade da cobertura e a abusividade da imposição de limite temporal ao tratamento dispensado.Em defesa, a apelante alegou rescisão do contrato coletivo com a sua estipulante, motivada em fraude na contratação, não se insurgindo quanto aos argumentos de fato deduzidos na inicial.
+Assim, conquanto não tenha observado os princípios da impugnação específica e da eventualidade, apresentou uma prejudicial, qual seja, a inexistência de relação jurídica.No entanto, não comprovou a rescisão do contrato, tampouco a participação da apelada na fraude alegada.
+Com efeito, limitou-se a colacionar um dossiê de investigação sobre a estipulante do contrato coletivo, a PLANEJ Assessoria de Contabilidade, em razão de inconsistência na data de nascimento de 123 beneficiários, mas não trouxe nenhuma prova documental da resilição do contrato.
+Ao contrário, traz imagem do seu sistema interno, do qual se extrai que a apelada encontra-se em situação "ativa" (ID 23264974 - Pág. 11).
+Depois, segundo consta do tal dossiê, a apelada sequer foi selecionada para a avaliação da sua regularidade documental, conforme lista descritiva de ID 23264969 - Pág. 5.
+Logo, ainda que se admitisse a ocorrência de fraude pela estipulante, não se poderia prejudicar a beneficiária de boa-fé.
+Nesse sentido, inclusive, restou decidido na ação nº 0714956-44, anteriormente ajuizada pela apelada, conforme se depreende do acórdão nº 1235320, confirmatório da sentença:(..)
+Destarte, não sendo comprovada a resolução do ajuste nem a ocorrência de fraude, há se confirmar a relação jurídica entre as partes, já tanto debatida neste Tribunal.
+Como é cediço, trata-se de uma relação de consumo, sujeita a todo o microssistema protetivo do consumidor (súmula 608 do STJ).
+Indene de dúvidas ainda que o direito à saúde é assegurado a todos como bem indisponível, consequência imediata da consagração da dignidade da pessoa humana, fundamento da República Federativa do Brasil, que deve ser garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação.
+No caso, a apelada, beneficiária de plano de saúde oferecido pela apelante, com perda do enxerto de transplante renal, necessita urgentemente de hemodiálise 6x/semana, cuja cobertura foi negada pela apelante, sob os fundamentos de que o tratamento estava fora do rol de atendimento e ultrapassava o limite de três vezes por semana.
+Ao contrário do afirmado, a hemodiálise constitui procedimento de cobertura obrigatório pelos planos e seguros privados de saúde, nos termos do art. 18, VIII, e art. 19, X, a, da Resolução Normativa n º 465 da ANS.
+Além disso, sendo um tratamento sequencial, a operadora deve assegurar a sua continuidade, conforme prescrição médica, a teor do caput do art. 16 do mesmo ato normativo.(..)Ademais, a jurisprudência é assente quanto à abusividade da limitação temporal de tratamento médico, conforme inteligência do enunciado de súmula nº 302 do STJ, in verbis: "É abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado".
+Nessa toada, revela-se ilegítima a negativa de cobertura, devendo a apelante prestar o atendimento conforme prescrição médica.
+A sentença é, portanto, irretocável.
+A revisão dessas premissas exigiria a interpretação de cláusulas contratuais e o reexame de provas, providências vedadas em recurso especial, a teor das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
