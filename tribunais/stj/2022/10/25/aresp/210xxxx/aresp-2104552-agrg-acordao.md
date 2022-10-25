@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+VALDIR GONTAREK interpõe agravo regimental contra decisão de fls. 1.163-1.164, em que a Presidência desta Corte Superior não conheceu do agravo em recurso especial por intempestividade.
+Nesta interposição, a defesa aduz, em síntese, que o recurso é tempestivo. Alega que a contagem do prazo recursal teve início a partir da intimação da decisão colegiada proferida peloTribunal local -somente em 13/12/2021 - e a interposição do recurso ocorreu em 21/12/2021, portanto, dentro do termo.
+Requer a reconsideração do decisum anteriormente proferido ou a submissão do recurso à turma julgadora.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.ERRO GROSSEIRO NA INTERPOSIÇÃO DE AGRAVO INTERNO.NÃO INTERRUPÇÃO DO PRAZO PARA INTERPOSIÇÃO DO RECURSO PRÓPRIO. INTEMPESTIVIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Segundo a jurisprudência do STJ,contra a decisão que não admite o recurso especial, é cabível o agravo previsto no artigo 1.042 do Código de Processo Civil, e não agravo interno. Além do mais,a interposição de recurso manifestamente incabível não interrompe o prazo recursal.
+2. No caso dos autos, aparte, em vezde interpor o agravo do art. 1.042 do CPC contra decisão que inadmitiu o recurso especial, manejou de forma inadequada o agravo interno para o Colegiado do Tribunal de Justiça. Posteriormente, após o não conhecimento do recurso peloórgão local, a defesa interpôs o agravo em recurso especial quando já decorrido o prazo legal. Não há desacerto na decisão da Presidência que não conheceu do recursopor intempestividade.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Apesar dos argumentos aduzidos pela defesa, a decisão recorrida deve ser mantida.
+No caso dos autos, verifica-se que o recurso especial manejado pelo ora agravante foi inadmitido pelo Tribunal estadual pela incidência das Súmulas n. 7 e 83 do STJ.
+Interposto agravo em recurso especial, a Presidência do STJ entendeu que a insurgência foiintempestiva. Confira-se (fl. 1.163, grifei):
+Mediante análise do recurso de VALDIR GONTAREK, a parte recorrente foi intimada da decisão agravada em 23/08/2021, sendo o agravo somente interposto em 20/12/2021.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c/c os arts. 1.003, § 5º, e 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Segundo a orientação jurisprudencial desta Corte Superior, a interposição de recurso manifestamente incabível não interrompe o prazo recursal. Na espécie, o recurso apresentado em face da decisão que inadmitiu o recurso especial não é adequado ou cabível à espécie.
+Com efeito, a parte, em vez de interpor o agravo do art. 1.042 do Código de Processo Civil contra decisãoque inadmitiu o recurso especial (fls. 1.071-1.077), apresentou de forma inadequada o agravo interno para o Colegiado do Tribunal de Justiça.
+Apesar de intimado da decisão da Vice-Presidência da Corte local, que inadmitiu o recurso especial em 23/8/2021, a interposição do recurso próprio somente ocorreu em 20/12/2021, portanto, fora do prazo recursal, o que impõe o seu não conhecimento.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. VIOLAÇÃO AO SISTEMA RECURSAL. INADMISSIBILIDADE DE RECURSO ESPECIAL. INTERPOSIÇÃO DE AGRAVO INTERNO. ERRO GROSSEIRO. IMPOSSIBILIDADE DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento.
+2. É pacífico neste Superior Tribunal de Justiça que, contra a decisão que não admite os recursos de natureza extraordinária, é cabível o agravo previsto no artigo 1.042 do Código de Processo Civil, e não agravo interno, sendo inaplicável o princípio da fungibilidade. Precedentes. REVISÃO DA DOSIMETRIA DA PENA COMINADA AO RÉU. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. VIA INADEQUADA. COAÇÃO ILEGAL NÃO CONFIGURADA.
+1. O mandamus não foi instruído com cópia do acórdão proferido no julgamento do recurso de apelação, peça processual indispensável para o deslinde da controvérsia.
+2. O rito do habeas corpus e do recurso ordinário em habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira tempestiva e inequívoca, por meio documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal, ônus do qual não se desincumbiu a defesa, exercida por profissional da advocacia. Precedentes.
+3. A documentação necessária ao exame do constrangimento ilegal a que estaria sendo submetido o paciente deve estar presente nos autos no momento da impetração do habeas corpus, não se admitindo a juntada posterior de peças processuais. Precedentes.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 582.042/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe17/6/2020, destaquei)
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ROUBOS DUPLAMENTE MAJORADOS. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO. INADMISSIBILIDADE CONTRA DECISÃO DENEGATÓRIA DE RESP NA ORIGEM. ERRO GROSSEIRO. PRAZO PARA A INTERPOSIÇÃO DO RECURSO PRÓPRIO. NÃO INTERRUPÇÃO. INTEMPESTIVIDADE DO AGRAVO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DOSIMETRIA DA PENA. CAUSAS DE AUMENTO DE PENA. FRAÇÃO DE AUMENTO SUPERIOR AO MÍNIMO LEGAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Inviável a apreciação de matéria constitucional por esta Corte Superior, porquanto, por expressa disposição da própria Constituição Federal (art. 102, inciso III), se trata de competência reservada ao Supremo Tribunal Federal. Precedentes.
+2. É firme a jurisprudência deste Superior Tribunal de Justiça no sentido de que "o único recurso cabível da decisão de inadmissão do recurso especial é o agravo em recurso especial previsto no artigo 1.042 do Código de Processo Civil, sendo que a oposição de embargos de declaração dessa decisão é considerado erro grosseiro, o que impossibilita a aplicação do princípio da fungibilidade recursal, bem como não tem o condão de interromper o prazo para a interposição do recurso cabível" (AgRg no AREsp 1526234/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 3/12/2019, DJe 16/12/2019).
+3. Na espécie, do decisum de admissibilidade provisório, do qual a defesa foi tacitamente intimada em 11/2/2019, foram erroneamente opostos embargos de declaração, ulteriormente rejeitados pela Corte local.
+4. Nesse contexto, em atenção ao prazo contínuo e peremptório de 15 (quinze) dias previsto no art. 994, inciso VIII, c/c os arts. 1.003, § 5º, e 1.042, caput do CPC, e no art. 798, do CPP, intempestivo o agravo em recurso especial interposto pela parte somente em 28/3/2019.
+5. Verificada a ocorrência de flagrante ilegalidade no tocante à fração de aumento aplicada na terceira fase da dosimetria das penas, torna-se necessária a concessão de habeas corpus, de ofício, no ponto, na forma do art. 654, § 2º, do CPP, c/c o art. 203, inciso II, do RISTJ.
+6. A jurisprudência desta Corte Superior é pacífica no sentido de que, para a elevação da pena em fração superior a 1/3 (um terço), na terceira fase da dosimetria da pena, no crime de roubo, é insuficiente a menção ao número de majorantes, sendo indispensável motivação concreta, calcada nas características do delito. Incidência da Súmula n. 443/STJ.
+7. In casu, não obstante o reconhecimento de 2 (duas) causas de aumento de pena, as instâncias ordinárias não apresentaram motivação concreta que justificasse a escolha da fração de 3/8 (três oitavos), devendo, assim, ser aplicado o aumento no mínimo legal, isto é, no patamar de 1/3 (um terço).
+8. Agravo regimental não provido. Concedida a ordem de habeas corpus, de ofício.
+(AgRg nos EDcl no AREsp n. 1.673.944/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 13/8/2020, grifei)
+À vista do exposto, nego provimento ao agravo regimental.
