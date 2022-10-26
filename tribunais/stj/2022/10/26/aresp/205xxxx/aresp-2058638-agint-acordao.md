@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/10/2022 a 26/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por AMBIENCE EMPREENDIMENTOS IMOBILIÁRIOS LTDA. e outra contra decisão de fls. 319/323, proferida pela Presidência da Corte, que negou provimento ao agravo em recurso especial, com base na aplicação das Súmulas 7 e 518 do STJ.
+As agravantes sustentam a inaplicabilidade dos óbices apontados na decisão agravada e renovam seus argumentos anteriormente expendidos no recurso especial, no sentido de que a instituição financeira não comprovou sua culpa exclusiva, o que deveria ter sido resolvido com a inversão do ônus da prova. Defendem, assim, a caracterização da falha na prestação do servido e, ao final, requerem a retratação da decisão agravada ou o provimento do recurso pela Turma.
+Intimada, a parte agravada pugnou pela manutenção da decisão agravada, com imposição de multa (fls. 373/374).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. TRANSFERÊNCIA DE VALORES EM CONTA CORRENTE. FRAUDE. CULPA EXCLUSIVA DO CORRENTISTA. PROVA. APLICAÇÃO DA SÚMULA 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Depreende-se dos autos que as agravantes ajuizaram ação de indenização por danos materiais e morais decorrentes de transferências não autorizadas, totalizando em torno de R$ 80.000,00 (oitenta mil reais), por falha na prestação do serviço.
+O Tribunal de origem manteve a sentença de improcedência dos pedidos efetuados, acenando com a culpa exclusiva das correntistas, pelos seguintes fundamentos (fls. 244/246):
+No particular, contudo, é de se convir que ocorreu culpa exclusiva das apelantes no episódio. Estas admitiram que, no momento em que recebida a tal ligação (por parte de estelionatários), aceitaram a chamada e, mesmo sabendo que Banco algum procede dessa forma, acreditaram estar a atualizar o tal módulo de segurança e culminaram por digitar dados secretos e apenas de seu conhecimento.
+A propósito, veja-se que, no boletim de ocorrência de fls. 71/72,há expressa admissão de que um "funcionário" atendeu a ligação telefônica dos criminosos e que foi feita a tal atualização solicitada (presume-se por parte do citado "funcionário" que não foi identificado). Então, apesar de as apelantes sustentarem que apenas com duas assinaturas de representantes legais da empresa é que a atualização em causa seria possível, isso se viu contrariado pelas palavras da diretora que compareceu no distrito policial e lavrou o boletim de ocorrência referido.
+Além disso, na resposta de fl. 64, a instituição financeira afirmou que não consta a necessidade de duas assinaturas nos sistemas internos do Banco as apelantes não emitem cheques há mais de ano e houve solicitação para atualizar referidos dados mas em data posterior ao ocorrido.
+E o que constou de fl. 66 é o que normalmente se verifica em situações da espécie há vasta campanha publicitária em inúmeros meios de comunicação, de modo a alertar correntistas e usuários de instituições financeiras no sentido de que nada é solicitado por telefone muito menos com pedido de fornecimento de informações pessoais senhas principalmente a questão é surrada. Com relação ainda à conduta da ré, pelos extratos e documentos de fls. 58/63, é possível verificar que, depois da malsinada operação criminosa, houve transferência dos valores referidos, no dia 17 de julho. Porém, ainda da análise dos poucos extratos apresentados pelas apelantes, observe-se que os outros gastos (e que não foram impugnados) apresentam-se compatíveis com a renda que as empresas possuem e auferidas em seus negócios. No extrato de fl. 60 há movimentação de R$47.000,00, ocorrida no dia 27.07, sob rubrica "pagamento a fornecedores". No extrato de fl. 61 há notícia de pagamento do mesmo valor e, a fl. 52, há menção a movimentação de R$48.000,00. A fl. 63 consta outro pagamento de R$63.000,00.
+Não houve clara e abrupta modificação do perfil dos correntistas,de forma que o sistema de segurança da instituição financeira não poderia ter detectado tais questionadas movimentações atípicas. Afinal, possível bloqueio poderia, em tese, se mostrar injustificado e de molde a provocar problemas entre as apelantes e terceiros.
+Os serviços em questão foram prestados, assim, com a segurança que razoavelmente eram de se esperar pelos clientes, sem notícia de claro defeito.
+A conduta das autoras foi a causa determinante da ocorrência do dano, por ter atendido a procedimentos recomendados por terceiros desconhecidos por telefone, além de realizar a atualização do módulo de segurança sem se cercar das cautelas necessárias e, pior, fornecendo senha de uso pessoal.
+O acórdão recorrido recebeu a seguinte ementa (fl. 241):
+INDENIZAÇÃO DANO MATERIAL E MORAL - Transferências eletrônicas - Atualização de módulo de segurança solicitada por terceiros fraudadores - Fornecimento de senha e dados pessoais por parte dos correntistas - Perfil dos consumidores, por outro lado, que não indicava claramente ocorrência de operações atípicas - Culpa exclusiva das vítimas - Sentença de improcedência mantida - Recurso desprovido.
+As agravantes, no recurso especial e no presente agravo interno, insistem na falha da prestação de serviço da instituição financeira nas transferências não autorizadas, sob o argumento de que não restou comprovada sua culpa, o que deveria ser resolvido com a inversão do ônus da prova.
+Não prospera, porém, o recurso.
+Conforme consignado na decisão agravada, a adoção de entendimento diverso por esta Corte quanto à suficiência de provas acerca da culpa exclusiva da vítima ou mesmo sobre a necessidade de inversão do ônus da prova demandaria reexame do acervo fático probatório dos autos, o que é vedado a teor da Súmula 7/STJ.
+Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INVERSÃO DO ÔNUS DA PROVA. REVELIA. EFEITOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. "A inversão do ônus da prova, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, não é automática, dependendo da constatação, pelas instâncias ordinárias, da presença ou não da verossimilhança das alegações e da hipossuficiência do consumidor" (AgInt no AREsp 1586560/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/08/2021, DJe 31/08/2021).
+2. "Os efeitos da revelia são relativos e não acarretam a procedência automática do pedido, devendo o magistrado analisar as alegações do autor e a prova dos autos" (AgInt no AREsp 1915565/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/11/2021, DJe 18/11/2021).
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu pela ausência de comprovação do direito da autora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.738.687/PB, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 26.5.2022).
+Na realidade, as agravantes pretendem, como um todo, o rejulgamento da causa, o que não é possível em sede de recurso especial, inclusive em divergência jurisprudencial.
+Assim, o recurso não trouxe nenhum elemento ou argumento novo capaz de alterar a decisão agravada, que ora confirmo.
+De outro lado, em que pese o não provimento do agravo interno, não observo intuito protelatório ou malicioso na interposição do recurso capaz de ensejar a aplicação de multa às agravantes.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
