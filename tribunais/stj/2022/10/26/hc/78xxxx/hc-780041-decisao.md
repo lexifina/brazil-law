@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de João Carlos Duarte Ferreira - que responde à ação penal relativa a crimes contra a ordem tributária -, apontando-se como autoridade coatora oDesembargador Relator doTRIBUNAL DE JUSTIÇA DE SÃO PAULO (Habeas Corpus n. 2183398-47.2022.8.26.0000).
+Os impetrantes alegam, em síntese, queo Tribunal de origem manteveprovas manifestamente ilícitas colhidas no âmbito de Mandado de Busca e Apreensão, e não concedeu o imediato desentranhamento e devolução dos documentos apreendidos ilegalmente (fl. 4).
+Para a defesa técnica, os agentes estatais possuíam pleno conhecimento de que as pessoas físicas e jurídicas que estavam sendo submetidas ao cumprimento da ordem não constavam no Mandado de Busca e Apreensão. É manifesta a ilegalidade do ato perpetrado pelas autoridades, bem como absurda a decisão que indeferiu o pedido de desentranhamento e devolução de todos os documentos apreendidos na operação, haja vista a violação clara a princípios comezinhos do ordenamento jurídico (fl. 9)
+Segundo os impetrantes: a) considerando a invasão e apreensão de documentos na sala n. 52, a qual não conta com autorização judicial; b) considerando que a empresa instalada na sala 51 e o nome do sr. João não constam no mandado de busca e apreensão expedido; c) considerando que a sra. Isabel abriu a porta em atenção a determinação dos agentes, antes mesmo da chegada do sr. José Roberto, tão somente por receio de sofrer sanções criminais; e d) considerando a participação em campo de autoridade não autorizada pelo d. Juízo coator, que somente apreendeu documentos da empresa DD Incorporadora, manifesta a nulidade do ato e a ilicitude dos documentos apreendidos, os quais devem ser duramente repelidos e obstados, sob pena de manifesta afronta ao ordenamento jurídico (fl. 12).
+Pede-se, em caráter liminar e no mérito, a superação da Súmula 691/STF, nos seguintes termos (fl. 22):
+ ..
+Diante de tudo o que foi exposto, requer-se a concessão da ordem liminar para determinar o desentranhamento e a devolução ao paciente de todos os documentos apreendidos na operação em questão relacionados ao ato acima descrito, bem como a conseguinte inutilização para fins de investigação, sob pena de perpetuação de seriíssima violação aos direitos fundamentais do paciente.
+Por fim, que seja concedida a ordem de maneira definitiva, para determinar o desentranhamento e a devolução ao paciente de todos os documentos apreendidos na operação em questão relacionados ao ato acima descrito, bem como a conseguinte inutilização para fins de investigação, como medida da mais pura justiça.
+ ..
+É o relatório.
+Ab initio, as Turmas integrantes da Terceira Seção deste Superior Tribunal, na esteira do preceituado no Enunciado n. 691 da Súmula do Supremo Tribunal Federal, têm entendimento pacificado no sentido de não ser cabível a impetração de habeas corpus contra decisão de relator indeferindo medida liminar, em ação de igual natureza, ajuizada nos Tribunais de segundo grau, salvo a hipótese de inquestionável teratologia ou ilegalidade manifesta.
+Tal posicionamento pode ser afastado apenas em situações excepcionais, se evidenciada a configuração de flagrante ilegalidade ou abuso de poder, o que aqui não se observa.
+Todavia, no presente caso, o Relator a quo, ao avaliar o pedido então apresentado na origem, simplesmente constatou a ausência dos pressupostos autorizadores da medida requerida.E nisso não há nenhum constrangimento ilegal.
+Diante da inadmissível supressão de instância, convém aguardar o trâmite regular do julgamento na origem, a fim de permitir que o órgão competente analise em maior profundidade a matéria ali levantada.
+No caso, inclusive, o decisum singular prolatado pelo eminente Relator, sobre o desentranhamento de provas ilícitas decorrentes de busca e apreensão supostamente ilegal,ressaltou o seguinte (fls. 212/222):
+ ..
+Em que pesem os argumentos da defesa, entendo ser o caso de indeferir o pedido liminar, pois não vislumbro, nesta análise sumária, ilegalidade ou abuso de poder a serem sanados, notadamente pelo fato de a r. decisão objurgada encontrar-se bem fundamentada.
+Neste aspecto, consta que, na ocasião do cumprimento domandado de busca e apreensão, o funcionário indicado pelo responsável pela empresa sediada na sala 51 franqueou a entrada na sala 52, apontando a contiguidade dos ambientes.
+Já quanto a ilegalidade da atuação da SEFAZ, como devidamente apontado da r. decisão objurgada, o órgão é dotado de poder de polícia, inclusive com a possibilidade de requisição de força policial.
+Tem-se, ainda, que o d. representante do Ministério Público solicitou, no requerimento dos mandados busca e apreensão, que estes fossem cumpridos por membros e servidores do Ministério Público Estadual, agentes da Procuradoria-Geral do Estado, Secretaria da Fazenda e Planejamento do Estado, com o apoio das Polícias Civil e Militar (em prévio ajuste operacional).
+ ..
+Ante o exposto, inexistindo a excepcionalidade necessária ao abrandamento do enunciado da Súmula 691/STF, com fundamento nos arts. 38 da Lei n. 8.038/1990 e 210 do RISTJ, indefiro liminarmente a petição inicial.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. CRIME CONTRA A ORDEM TRIBUTÁRIA. DESENTRANHAMENTO DE PROVAS ILÍCITAS DECORRENTES DE BUSCA E APREENSÃO SUPOSTAMENTE ILEGAL.SUPRESSÃO DE INSTÂNCIA. WRIT IMPETRADO CONTRA DECISÃO MONOCRÁTICA DO RELATOR. SÚMULA 691/STF. APLICABILIDADE.FUNDAMENTAÇÃO. TERATOLOGIA OU ILEGALIDADE. CONSTRANGIMENTO ILEGAL MANIFESTO. AUSÊNCIA.
+Inicial indeferida liminarmente.
