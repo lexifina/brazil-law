@@ -1,0 +1,44 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por SANDRA ELIANA DE ARAÚJO CIOFFI E OUTROem face de acórdão do TJPR que deu parcial provimento à apelação interposta por SANTA ALICE LOTEADORA LTDApara reformar a sentença de parcial procedência dos pedidos de ação deresilição de contrato de compra e venda de lote não edificado eadmitir a retenção da taxa de ocupação do imóvel, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO DE CONTRATO DE COMPRA COM PEDIDO DE RESTITUIÇÃO DE QUANTIAS PAGAS - SENTENÇA DE PARCIAL PROCEDÊNCIA PARA (I) DECLARAR A RESOLUÇÃO DO CONTRATO; (II) DECLARAR A PARCIAL NULIDADE DAS CLÁUSULAS QUE IMPÕE A CUMULAÇÃO DE CLÁUSULA PENAL COM RETENÇÃO DAS ARRAS; (III) CONDENAR A RÉ SANTA ALICE LOTEADORA A RESTITUIR À PARTE AUTORA NOVENTA POR CENTO DOS VALORES PAGOS, AUTORIZADO O ABATIMENTO DO VALOR DAS ARRAS - FORMAL INCONFORMISMO DA SANTA ALICE LOTEADORA - PLEITO DE FIXAÇÃO DE ALUGUEL PELO USO DO IMÓVEL - POSSIBILIDADE - IMPERATIVO PARA EVITAR O ENRIQUECIMENTO SEM CAUSA - PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA - TRIBUTOS - TERMO FINAL ESTABELECIDO COM A NOTIFICAÇÃO EXTRAJUDICIAL - AUSÊNCIA DE DEMONSTRAÇÃO DE VALORES EM ABERTO DURANTE O PERÍODO EM QUE O IMÓVEL ESTEVE NA POSSE DOS COMPRADORES - PEDIDO DE MINORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA - NÃO CABIMENTO - REDISTRIBUIÇÃO SUCUMBENCIAL DEVIDA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos pelos recorrentes foram rejeitados.
+No recurso especial, interposto com fundamento nas alíneas a e c do permissivo constitucional, osrecorrentes apontaram, além do dissídio jurisprudencial, ofensa aos seguintes dispositivos: (i) arts. 141, 292, 343, 492 e 932, III, do CPC, sustentando que era indispensável a apresentação de reconvenção para que fossem condenados ao pagamento de taxa de ocupação, não sendo suficiente, para tanto, a mera apresentação de contestação; e (ii) arts. 413 e 884 do CC e 53 do CDC, argumentando que a cobrança de taxa de ocupação só pode ocorrer em lote edificado, sob pena de enriquecimento ilícito da vendedora.
+Contrarrazões ao recurso especial às fls. 528/549.
+É o relatório.
+Passo a decidir.
+O presente recurso merece ser provido.
+Conforme entendimento jurisprudencial firmado por esta Corte Superior, é indevida a taxa de ocupação/fruição após o desfazimento de promessa de compra e venda de lote não edificado, porquanto a resilição não enseja qualquer enriquecimento do comprador ou empobrecimento do vendedor.
+Nessa linha de cognição:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESILIÇÃO CONTRATUAL. PROMESSA DE COMPRA E VENDA. DECISÃO UNIPESSOAL. PRECEDENTE DA TERCEIRA TURMA. ADMISSIBILIDADE. ERRO MATERIAL. COLEGIADO. SUPERAÇÃO DE EVENTUAL MÁCULA. TAXA DE OCUPAÇÃO. LOTE NÃO EDIFICADO. NÃO CABIMENTO. DECISÃO MANTIDA. MULTA. AGRAVO INTERNO. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. É indevida taxa de ocupação após desfazimento de promessa de compra e venda de lote não edificado, haja vista que resilição não enseja qualquer enriquecimento do comprador ou empobrecimento do vendedor.
+ ..
+(AgInt nos EDcl no REsp 1912459/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/11/2021, DJe 19/11/2021)
+RECURSO ESPECIAL. CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESILIÇÃO UNILATERAL. RETORNO. STATUS QUO ANTE. PERCENTUAL DE RETENÇÃO. 25%. VALORES PAGOS PELOS ADQUIRENTES. PRECEDENTE DA SEGUNDA SEÇÃO. DÍVIDAS TRIBUTÁRIAS E CONDOMINIAIS. RESPONSABILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. TERRENO PARA EDIFICAÇÃO. TAXA DE OCUPAÇÃO. FUNDAMENTO. ENRIQUECIMENTO SEM JUSTA CAUSA. ART. 884 DO CC/02. CONFIGURAÇÃO. REQUISITOS CUMULATIVOS. EMPOBRECIMENTO PRÓPRIO E ENRIQUECIMENTO ALHEIO. HIPÓTESE CONCRETA. AUSÊNCIA.
+1. Ação de resilição contratual de promessa de compra e venda de imóvel
+residencial, cumulada com devolução de quantias pagas.
+ ..
+6. O desfazimento do negócio jurídico de compra e venda de imóvel motiva o retorno das partes ao estado anterior à celebração do contrato, podendo sujeitar o promissário comprador ao pagamento da taxa de ocupação pelo tempo que ocupou o imóvel.
+7. A taxa de ocupação evita que o comprador se beneficie da situação do rompimento contratual em prejuízo do vendedor, se relacionando, pois, à vedação ao enriquecimento sem causa. Precedentes.
+8. A vedação ao enriquecimento sem causa - que oferece fundamento à previsão da taxa de ocupação - dá origem a uma obrigação de resarcimento, haja vista representar o nascimento de uma obrigação de indenizar em todas as hipóteses em que, faltando ou vindo a faltar a causa eficiente da aquisição de um benefício ou vantagem, haverá, como consequência, o dever de restituir o proveito a quem sobre ele tenha o melhor direito.
+9. São requisitos do nascimento da obrigação em decorrência da vedação ao enriquecimento sem causa: a) enriquecimento de alguém; b) empobrecimento correspondente de outrem; c) relação de causalidade entre ambos. Precedente da Corte Especial.
+10. O empobrecimento de alguém, requisito para o dever de indenizar relacionado à vedação ao enriquecimento sem causa, corresponde: a) ao deslocamento indevido de um bem já incorporado ao patrimônio do sujeito ao patrimônio de um terceiro; ou b) ao impedimento do ingresso uma vantagem que certa e seguramente adentraria no patrimônio do sujeito e que, sem justificativa, é acrescida a patrimônio alheio.
+11. Quanto ao que razoavelmente deixou de ganhar o vendedor, o ingresso do citado proveito em seu patrimônio deve ter a característica de ser plausível e verossímil, diante de previsão razoável e objetiva de lucro, aferível a partir de parâmetro concreto e prévio.
+12. No contrato de compra e venda de imóveis residenciais, o enriquecimento sem causa do comprador é identificado pela utilização do bem para sua moradia, a qual deveria ser objeto de contraprestação mediante o pagamento de aluguéis ao vendedor pelo tempo de permanência.
+13. Na presente hipótese, o terreno não está edificado, de modo que não existe possibilidade segura e concreta, diante dos fatores anteriores ao momento da contratação e sem qualquer outra nova interferência causal, de que a recorrente auferiria proveito com a cessão de seu uso e posse a terceiros, se não o tivesse concedido à recorrida, estando, pois, ausente o requisito de seu empobrecimento; tampouco seria possível o enriquecimento da compradora, que não pode residir no terreno não edificado.
+ ..
+(REsp 1863007/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/03/2021, DJe 26/03/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. AÇÃO DE RESCISÃO CONTRATUAL. TAXA DE OCUPAÇÃO DO BEM. TERRENO NÃO EDIFICADO. IMPOSSIBILIDADE. SÚMULA 83/STJ. DECISÃO MANTIDA.
+1. Consoante entendimento desta Corte, não há enriquecimento sem causa no caso de terreno não edificado, pois o comprador não pode residir no imóvel, devendo ser afastada a cobrança da taxa de ocupação do bem. Precedentes.
+ ..
+(AgInt no REsp 1932921/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 25/10/2021, DJe 26/11/2021)
+Na presente hipótese, a Corte de origem deferiu o pedido de cobrança da taxa de ocupação, ao fundamento de que "o objeto do contrato é um terreno vazio, situado no Loteamento Jardim Espanha (Lote 04, da quadra 118).Contudo, ainda que não haja demonstração de que os autores tenham inserido qualquer edificação, a partir do momento em que são imitidos na posse do bem, passam a gozar dos direitos inerentes à propriedade, podendo utilizar o bem imóvel do jeito que lhe aprouver" (e-STJ, fl. 384, g.n.).
+Na espécie, portanto, tratando-se de resilição decompra e venda de lote sem edificação, não é possível a cobrança da taxa de ocupação pretendida pela recorrida, razão pela qual o acórdão recorrido merece reparos, por estar em desarmonia com o entendimento do Superior Tribunal de Justiça.
+Com o provimento do recurso para o afastamento da cobrança da taxa de ocupação/aluguéis, fica prejudicada a pretensão relativa ao reconhecimento de nulidade do acórdão por suposta ofensa aos arts.141, 292, 343, 492 e 932, III, do CPC, por perda superveniente do interesse recursal.
+Ante o exposto, com substrato no art. 932, V, a, do CPC e na Súmula 568/STJ, DOU PROVIMENTO ao recurso especial para afastar a possibilidade de a recorrida reter de valores a título de taxa de ocupação, restabelecendo a sentença, inclusive quanto aos ônus sucumbenciais.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESILIÇÃO CONTRATUAL. LOTE NÃO EDIFICADO. TAXA DE OCUPAÇÃO. NÃO CABIMENTO. ACÓRDÃO EM DESARMONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR.
+RECURSO ESPECIAL PROVIDO.
