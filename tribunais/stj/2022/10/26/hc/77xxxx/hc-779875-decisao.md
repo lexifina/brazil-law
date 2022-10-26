@@ -1,0 +1,7 @@
+DECISÃO
+SILVIO LUIZ DOS SANTOS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 2211808-18.2022.8.26.0000, em que foi denegado o mandamus.
+Asseverou a defesa, perante a Corte de origem, que o paciente "se encontra preso no regime fechado, caracterizando excesso de prazo e pede, em razão disso, a concessão liminar da ordem a fim de que o MM. Juízo a quo atualize o boletim informativo e o cálculo de penas e que julgue os benefícios pendentes, pena de prestação de serviços à comunidade" (fl. 21).
+Todavia, ao analisar o pleito defensivo, consignou o Tribunal a quo que, " c onforme se depreende das informações prestadas pela autoridade apontada como coatora a fls. 47, foi solicitada a unificação das penas dos processos do reeducando e, em 22/09/2022, providenciados atestado de conduta carcerária e boletim informativo do paciente, a fim de analisar os benefícios de progressão e livramento condicional" (fl. 23, grifei).
+Dessa forma, "não há falar em desídia do magistrado das Execuções, que tem diligenciado no sentido de dar andamento ao processo, não podendo ser imputado ao Estado-Juiz a responsabilidade por eventual demora" (HC n. 352.272/RJ, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 1/8/2016).
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
