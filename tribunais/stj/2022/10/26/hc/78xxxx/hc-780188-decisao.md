@@ -1,0 +1,19 @@
+DECISÃO
+SHIRLEY VALERIA NASCIMENTO DA SILVA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 0039851-66.2018.8.26.0050.
+Neste writ, a defesa busca a fixação do regime inicial semiaberto, uma vez que a reprimenda foi fixada em1 ano, 7 meses e 6 dias de reclusão, as circunstâncias judiciais foram favoráveis e a reincidência não poderia ensejar, por si só, o modo mais gravoso de cumprimento de pena.
+Decido.
+O habeas corpus comporta pronta solução, porquantoexiste jurisprudência pacífica sobre o tema, relacionado ao modo inicial de cumprimento de pena aos condenados reincidentes empatamar igual ou inferiora quatro anos, com a análise favorável decircunstâncias judiciais.
+Consta dos autos que aréfoi condenadaa 1 ano, 7 meses e 6 dias de reclusãopelo crime de furto.O regime inicial fechado foifixado em sentença (e confirmado pelo acórdão impugnado) pelos seguintes fundamentos: "
+ ..
+PASSO À DOSAGEM DAS PENAS.
+A ré possui antecedentes criminais, para os quais é reincidente, o que será considerado no momento oportuno. Assim, num primeiro momento, atento ao disposto no artigo 59 do Código Penal, fixo a pena-base no mínimo legal, ou seja, em dois anos de reclusão e dez dias-multa.
+Diante da dupla reincidência, bem comprovada pela certidão de pgs. 69 (1 Vara da Comarca de Aparecida) e 70/71 (31 Vara Criminal Central), elevo a pena em um quinto, chegando a dois anos, quatro meses e vinte e quatro dias de reclusão e doze dias-multa.
+Reconhecida a tentativa, diminuo a pena de um terço, eis que quase consumado o delito, com sanção final de um ano, sete meses e seis dias de reclusão e oito dias multa.
+Dada a reincidência, não faz jus, a ré, à concessão da substituição de que trata o artigo 44 do Código Penal.
+Por consequência, deverá cumprir a pena em regime inicial fechado, nos termos do artigo 33, do Código Penal. Poderá apelar em liberdade.
+Ante o exposto, e o mais que dos autos consta, JULGO PROCEDENTE a ação penal, para o fim de CONDENAR SHIRLEY NASCIMENTO DA SILVA, por infração ao disposto no artigo 155, § 4º inciso , cc artigo 14, inciso II, ambos do Código Penal, as penas de um ano sete meses e seis dias de reclusão, em regime inicial fechado, e oito dias-multa, fixados no mínimo legal. Poderá apelar em liberdade.  ..  (fls. 88-89)
+Desse modo, observo que as instâncias ordinárias decidiram em desacordo com a jurisprudência do STJ, porquanto areincidência da réautorizaria a fixação do regime inicial intermediário, notadamente em virtude de as circunstâncias judiciais haverem sido favoráveis e a pena haver sido estabelecida em patamar igual a 4 anos de reclusão.
+Assim,há ilegalidade a ser sanada, porquanto a Corte de origem agiu em desconformidade com a jurisprudência do STJ, a teor da suaSúmula n. 269,in verbis:"É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+Nesse mesmo sentido: "Admite-se a fixação de regime prisional semiaberto ao réu reincidente, condenado à pena inferior à 4 anos de detenção , não havendo, pois, desproporcionalidade na imposição de regime mais gravoso que o previsto para a pena aplicada, observado o disposto no art. 33, § 2º, b, do Código Penal" (AgInt no AREsp n. 616.023/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/12/2016, grifei); "Tratando-se de réu reincidente, cujas circunstâncias judiciais foram favoravelmente valoradas, e que restou condenado à pena de 3 meses e 15 de detenção, descabe falar em desproporcionalidade na fixação do regime semiaberto" (HC n. 453.810/SP, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/10/2018).
+À vista do exposto, concedoin liminea ordem do habeas corpus, a fim de fixar o regime inicial semiaberto àpaciente.
+Publique-se e intimem-se.
