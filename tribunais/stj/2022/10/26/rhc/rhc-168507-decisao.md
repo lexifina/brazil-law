@@ -1,0 +1,30 @@
+DECISÃO
+WESLEY RODRIGUES DIAS alega sofrer coação ilegal pelo Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.22.158315-6/000).
+Nesta Corte, sustenta a defesa a falta de fundamentação idônea para a mantença da custódia processual do acusado, pela suposta prática do crime de latrocínio. Suscita a violação ao princípio da proporcionalidade.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura ou a fixação de medidas alternativas.
+Indeferida a liminar pela Vice-Presidência do STJ, opinou o Parquet Federal pelo não provimento do reclamo(fls. 150-151; 156-162).
+Decido.
+Expõem os autos que a Magistrada plantonista converteu em prisão preventiva o flagrante do ora recorrente, sob estes motivos (fls. 85-86):
+O autuado foi preso em flagrante delito pela prática, em tese, do crime previsto no artigo 157, §2º, II, e §3º, do Código Penal. Importante ressaltar que, nesta fase, não se exige prova plena do ilícito, bastando meros indícios que demonstrem a probabilidade de o autuado ter sido o autor do fato delituoso. No caso dos autos, imputa-se ao flagrado a prática de delito de roubo e, em primeira análise, fica difícil retirar o agente do contexto dos fatos, o que torna a soltura prematura. O autuado foi preso no local em que houve a tentativa de roubo de motocicleta, onde foi encontrada a arma que teria sido utilizada contra a vítima. Não há medida cautelar menos gravosa do que a prisão que possa resguardar a ordem pública e a conveniência da instrução criminal, pelo que, no caso, no momento, as demais medidas cautelares previstas nos artigos 319 e 320 do CPP se revelam insuficientes para a garantia da utilidade do processo penal.
+O Tribunal a quo denegou o writ originário (fls. 118-125).
+Em consulta ao sítio eletrônico da Corte estadual, verificou o gabinete que, na Ação Penal n. 0009160-83.2022.8.13.0699, o Ministério Público ofereceu alegações finais, em 23/9/2022.
+Feitos esses registros, passo ao exame do recurso.
+Na espécie, evidencia-se lastro probatório bastante para a preservação da medida cautelar extrema do réu, diante da gravidade concreta dos fatos apurados. Nesse sentido, o Juízo monocrático descreveu o periculum libertatis, evidenciado pelo modus operandi empregado pelo recorrente e um comparsa na ação delituosa. A propósito, o ofendido foi alvejado no braço, no abdômen e nas costas, a fim de que os acusados pudessem lhe subtrair a motocicleta.
+Aos ditames da orientação deste Tribunal Superior, as condutas envidadas pelos agentes, no cometimento do crime, caracterizam a sua periculosidade social, capaz de amparar, a contento, o cárcere preventivo, para o acautelamento da ordem pública.
+Registre-se, ademais, que a certidão de antecedentes colacionada aos autos revela que o recorrente foi previamente condenado por outro delito contra o patrimônio - cenário que demonstra o manifesto risco de persistência na prática de infrações penais pelo réu.
+Nos mesmos termos:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. PRISÃO PREVENTIVA.  ..
+ ..  2. Na hipótese, são idôneos os motivos invocados pelas instâncias ordinárias para embasar a ordem de prisão do acusado, pois evidenciam a gravidade concreta dos delitos em tese perpetrados e a real periculosidade do agente, bem demonstrada pelo modus operandi empregado no cometimento dos crimes. Com efeito, constaram no decisum os vetores contidos no art. 312 do Código de Processo Penal, com indicação de motivação suficiente para decretar a prisão preventiva, ao salientar que o delito foi cometido com o emprego de diversos agentes e armas de fogo, com vários disparos contra a vítima, que dirigia um caminhão e era portadora de grande quantia em dinheiro, o que já era de conhecimento prévio dos agentes.
+3. A jurisprudência desta Corte Superior é firme ao asseverar que a gravidade dos fatos concretamente considerados, evidenciada por seu modus operandi, justifica a constrição cautelar.
+4. Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da gravidade concreta da conduta em tese perpetrada (art. 282, II, do Código de Processo Penal), a denotar particular periculosidade do réu.
+5. Agravo regimental não provido.
+(AgRg no HC n. 757.588/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 26/9/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS  .. . ROUBO QUALIFICADO E TENTATIVA DE LATROCÍNIO.  ..
+5. No caso, o decreto prisional apontou a existência de indícios de materialidade e autoria,  ..  e destacou a gravidade concreta das condutas imputadas aos réus (roubo qualificado pelo concurso de pessoas e pelo uso de arma de fogo e tentativa de latrocínio), praticadas com extrema violência (foram efetuados disparos de arma de fogo que atingiram a cabeça e o abdômen de uma das vítimas) e ousadia, apontando, também, o risco de reiteração delitiva, diante das anotações criminais dos acusados, justificando, ao final, a necessidade da segregação cautelar também com base na conveniência da instrução criminal e na necessidade de se assegurar a aplicação da lei penal, tudo isso a demonstrar a necessidade da manutenção da prisão preventiva para a garantia da ordem pública.
+ ..
+10. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 638.887/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 1º/6/2021.)
+Quanto à suscitada desproporcionalidade da cautela mais severa com o regime que, em eventualcondenação, será imposto ao sentenciado, a jurisprudência desta Corte de Justiça é firme ao asseverar que a análise desfavorável de outras circunstâncias judiciais ou, até mesmo, a menção a elementos concretos dos autos, indicativos da acentuada reprovabilidade da conduta delitiva, são idôneos para estabelecer regime prisional mais gravoso. É prematura, pois, a ingerência desta Casa quanto à reprimenda a ser eventualmente fixada e ao prognóstico do modo inicial de cumprimento de pena.
+Dadas as apontadas conjunturas do fato e ascondições pessoais do acusado, não se mostra adequada e suficiente, ao menos por ora, a fixação de providências alternativas (art. 282 c/c art. 319 do CPP).
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
