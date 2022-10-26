@@ -1,0 +1,11 @@
+DECISÃO
+JOHN LENON PALMAS alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal estadual.
+Busca a defesa a declaração de nulidade da sentença condenatória proferida em desfavor do paciente, porquanto teria sido fundamentada em prova que não constava nos autos.
+Decido.
+Releva observar que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal, considera que " a  existência de um complexo sistema recursal no processo penal brasileiro permite à parte prejudicada por decisão judicial submeter ao órgão colegiado competente a revisão do ato jurisdicional, na forma e no prazo previsto em lei. Eventual manejo de habeas corpus, ação constitucional voltada à proteção da liberdade humana, constitui estratégia defensiva válida, sopesadas as vantagens e também os ônus de tal opção" (HC n. 482.549/SP, Rel. Ministro Rogerio Schietti, 3ª S., DJe 3/4/2020, grifei).
+Ainda segundo o entendimento consolidado desta Corte Superior que, "a interposição do recurso cabível contra o ato impugnado e a contemporânea impetração de habeas corpus para igual pretensão somente permitirá o exame do writ se for este destinado à tutela direta da liberdade de locomoção ou se traduzir pedido diverso em relação ao que é objeto do recurso próprio e que reflita mediatamente na liberdade do paciente" (Ibidem), o que não é a hipótese dos autos.
+Todavia, em consulta à página eletrônica do Tribunala quoconstatou-se que foi interposto recurso especial pela defesa do paciente, de modo que fica evidenciada a impossibilidade de análise do pleito aqui deduzido, dado que ainda não houve o trânsito em julgado da condenação.
+Assim, verifica-se que houve omanejo da via adequada para a obtenção de seu intento ou, ao menos, de uma resposta jurisdicional do Superior Tribunal de Justiça.
+Logo, qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado peloimpetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus. Dessarte, mostra-se indevida a subversão do sistema recursal.
+À vista do exposto, nos termos do art. 210, do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
