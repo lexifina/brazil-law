@@ -1,0 +1,16 @@
+DECISÃO
+VANDERLEI FERREIRA DOS SANTOSalega sofrer constrangimento ilegal decorrente de decisão proferida peloTribunal de Justiça do Estado de Minas Geraisno HC n. 1.0000.22.162831-6/000.
+A defesa pugna pela revogação da custódia preventiva doacusado, ao argumento de que não há motivação idônea para a manutenção da medida extrema.
+Busca, ainda, o relaxamento da prisão dopaciente por excesso de prazo no julgamento da apelação.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso (fls. 77-85).
+Decido.
+I. Contextualização
+Colhe-se dos autos que o recorrente foi denunciado e condenado pela prática doscrimes previstos nos arts.33, caput,35,caput, ambos da Lei n. 11.343/2006, 2º da Lei n. 12.850/2013 e12 da Lei n. 10.826/2003.
+Impetrado habeas corpus perante o Tribunal a quo, foi proferido acórdão cuja ementa transcrevo a seguir (fl. 37, grifei):
+HABEAS CORPUS - TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, ORGANIZAÇÃO CRIMINOSA E POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO -EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO -NÃO CONHECIMENTO -INCOMPETÊNCIA ABSOLUTA -REVOGAÇÃO DA PRISÃO PREVENTIVA -IMPOSSIBILIDADE -PRESENÇA DOS PRESSUPOSTOS DO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL -REANÁLISE DA PRISÃO PREVENTIVA -IMPOSIÇÃO DO ARTIGO 316, PARÁGRAFO ÚNICO DO CPP -CONSTRANGIMENTO ILEGAL NÃOCARACTERIZADO. Compete ao Superior Tribunal de Justiça analisar a alegação de excesso de prazo no julgamento da apelação. Não há ilegalidade na decretação da prisão preventiva quando ficar demonstrado, com base em fatos concretos, que a segregação é necessária para acautelar a ordem pública, diante, principalmente, da gravidade concreta das condutas, em tese, praticadas pelo paciente. Decretada a prisão preventiva, é necessária a reanálise do decreto constritivo, nos termos do artigo 316, parágrafo único, do CPP. Sempre que os autos do processo estiverem na segunda instância para recurso, cabe ao Relator o dever de reavaliar a necessidade de manutenção da prisão preventiva a cada noventa dias, nos termos do artigo 316, parágrafo único, do Código de Processo Penal. A superação do prazo legal de revisão judicial da preventiva não configura ilegalidade suscetível de relaxamento da prisão, mas sim, mera irregularidade.
+II. Excesso de prazo e prisão preventiva - instrução deficiente
+Ao analisar os autos, verifico que a inicial do writ não veio acompanhada do decreto primevo de prisão preventiva, doacórdão condenatório, bem como do recurso de apelação,o que prejudica a exata compreensão do caso, e, assim, inviabiliza o exame do alegado constrangimento ilegal no que tange à legalidade da prisão preventiva e do excesso de prazo.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações, e não comporta dilação probatória. É cogente ao impetrante, pois, apresentar elementos documentais suficientes para se permitir a aferição da alegada existência de constrangimento ilegal no ato atacado na impetração. Na mesma diretriz: HC n. 235.131/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 29/8/2013.
+III. Dispositivo
+À vista do exposto, não conheço do recurso.
+Publique-se e intimem-se.
