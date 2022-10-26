@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/10/2022 a 26/10/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por José Osvaldo Vitale e outro contra decisão da Presidência desta Corte, a qual negou provimento ao agravo cujas razões não infirmaram todos os fundamentos da decisão primeva de admissibilidade.
+Alega a parte ora agravante que incorreu em equívoco a decisão agravada, na medida em que os óbices apontados pelo Tribunal de origem para negar seguimento ao recurso especial foram especificamente impugnados.
+A parte agravada apresentou impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA.
+1. Não havendo impugnação específica acerca de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula 182 deste Tribunal Superior.
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O recurso especial fora interposto em face de acórdão assim ementado:
+CIVIL E PROCESSUAL CIVIL. AGRAVO. ARTIGO 557 DO CÓDIGO DE PROCESSO CIVIL. SISTEMA FINANCEIRO DA HABITAÇÃO. PLANO DE EQUIVALÊNCIA SALARIAL. UTILIZAÇÃO DA TAXA REFERENCIAL - TR. CUMULAÇÃO DA TAXA REFERENCIAL E JUROS CONTRATADOS. FORMA DE AMORTIZAÇÃO DA DÍVIDA.
+APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. VARIAÇÃO DA URV.
+1. Se o contrato permitia à credora corrigir as prestações e o saldo devedor pelos índices de remuneração das cadernetas de poupança, não há se falar que as prestações foram corrigidas em desconformidade com a variação salarial da categoria profissional dos mutuários.
+2. Não é ilegal a cláusula que estabelece a variação da Taxa Referencial - TR como critério de atualização do saldo devedor e das prestações de contrato regido pelo Sistema Financeiro da Habitação - SFH.
+3. Em contratos de financiamento regidos pelo Sistema Financeiro da Habitação - SFH, é lícita - e não configura anatocismo - a cláusula contratual que permite a cobrança cumulativa dos juros contratados e da remuneração básica aplicada aos depósitos em caderneta de poupança.
+4. Nos contratos de financiamento regidos pelo Sistema Financeiro da Habitação - SFH, não há ilegalidade em atualizar-se o saldo devedor antes de amortizar-se a dívida pelo pagamento das prestações.
+5. As normas previstas no Código de Defesa do Consumidor não se aplicam, indiscriminadamente, aos contratos de mútuo, vinculados ao Sistema Financeiro da Habitação. Não socorrem os mutuários alegações genéricas para o fim de amparar o pedido de redução das parcelas convencionadas, sem a devida comprovação da existência de cláusula abusiva, de onerosidade excessiva do contrato, de violação do principio da boa-fé ou de contrariedade à vontade dos contratantes.
+6. A inadimplência dos mutuários devedores é que ocasionou a inscrição de seus nomes no cadastro de proteção ao crédito.
+7. Não há ilegalidade na aplicação da URV nas prestações do contrato de financiamento imobiliário.
+8. Agravo desprovido.
+A Presidência do Tribunal de origem negou seguimento ao recurso especial porque o entendimento do acórdão recorrido coincidia com orientação firmada pelo rito dos repetitivos e porque incidente a Súmula 83/STJ.
+A Presidência desta Corte, por sua vez, bem esclareceu que, "no que tange à parte relativa à aplicação da sistemática dos recursos repetitivos, o recurso não comporta conhecimento, pois, de acordo com o disposto no art. 1.030, § 2º, do CPC, é cabível agravo interno contra o capítulo da decisão que nega seguimento a recurso especial com base nos incisos I e III do mencionado art. 1.030 do CPC. Assim, a interposição de recurso diverso do previsto expressamente em lei torna-o manifestamente incabível, o que afasta, inclusive, o princípio da fungibilidade recursal, uma vez que não há dúvida objetiva acerca do recurso cabível. (..) Melhor sorte não assiste ao agravante em relação ao capítulo da decisão que inadmitiu o recurso especial em razão de não preencher os requisitos de admissibilidade recursais. Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 83/STJ (utilização da URV), Súmula 83/STJ (incidência do Plano de Equivalência Salarial - PES sobre o saldo devedor), Súmula 83/STJ (inscrição em cadastro de inadimplentes) e Súmula 83/STJ (validade do Decreto-Lei 70/66). Entretanto, a parte agravante deixou de impugnar especificamente os referidos fundamentos" (fls. 517-520/e-STJ).
+Tais fundamentos, diversamente do alegado pela parte ora agravante não foram especificamente infirmados nas razões de agravo em recurso especial, atraindo, pois, a incidência da Súmula 182/STJ.
+Verifico, ademais, que, nas razões deste agravo interno, o agora agravante novamente deixou de impugnar o fundamento da decisão agravada, o que atrai a incidência do artigo 1.021, § 1º, do Código de Processo Civil.
+Imprescindível, para ser alcançada a reforma ora pretendida, a impugnação específica dos motivos determinantes da decisão questionada, expondo-se de forma articulada e argumentativa as razões que justificariam a prolação de decisão em sentido diverso.
+A propósito, a Corte Especial do STJ, em julgamento recente, manteve o entendimento de que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo por aplicação da Súmula 182/STJ (Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Relator Ministro João Otávio de Noronha, Relator para acórdão Ministro Luis Felipe Salomão, julgamento em 19.9.2018, acórdão pendente de publicação).
+Nesse precedente, o Colegiado, por maioria, negou provimento aos embargos de divergência e manteve a decisão da Segunda Turma do STJ que não conheceu do agravo por aplicação da Súmula 182/STJ, já que o agravante não atacou todos os pontos da decisão que não admitiu o recurso especial. Conforme o voto vencedor, tanto no CPC de 1973 quanto no de 2015 há regra que remete às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade da impugnação de todos os fundamentos da decisão que não admite recurso especial.
+Para o Ministro relator, não há possibilidade de impugnação parcial da decisão que deixa de admitir recurso especial, já que tal decisão é incindível e deve ser impugnada em sua integralidade. A não obediência a essa regra implicaria o exame indevido de questões (já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em manifestar no momento oportuno), pois o conhecimento do agravo obriga o STJ a conhecer de todos os fundamentos do recurso especial.
+O recurso, na realidade, não trouxe nenhum elemento ou argumento novo capaz de alterar a decisão agravada, que ora confirmo.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
