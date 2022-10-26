@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Tribunal de Justiça do Estado de São Paulo e o Tribunal Regional do Trabalho da 15ª Regiãonos autos da reclamação trabalhistas proposta por Carlos Roberto Lombardi contra o Município de São Joaquim da Barra/SP.
+Na inicial da reclamação, o particular alegou ter sido contratado após aprovação em concurso público para exercer a função de vigilante por prazo indeterminado. Afirma que o vínculo entre as partes foi regida pelas normas da CLT. Requer a condenação do Município ao pagamento de verbas trabalhistas.
+Em contestação, o Município suscitou a incompetência da Justiça do Trabalho ao afirmar que o requerente foi nomeado por ato administrativo a cargo público efetivo. Reconhece que a LM n. 100/1998 faz menção à incidência das normas celetistas, mas suscita que a regra constitucional estabelece o regime jurídico único.
+O Juízo Trabalhista declarou que (e-STJ fl. 399):
+Quanto ao tema é oportuno frisar que, no julgamento da Medida Cautelar na ADI nº 3.395-6/DF, o Supremo Tribunal Federal afastou qualquer interpretação do artigo 114, I, da Constituição Federal que E o co inclua na competência da Justiça do Trabalho a apreciação de demandas instauradas entre a o a --, Administração Pública e os servidores a ela vinculados por relação de ordem estatutária ou de caráter jurídico-administrativo, incluído os conflitos sobre o exercício de cargo comissionado ou de contrato temporário de excepcional interesse público. Assim, a jurisprudência do TST consolidou o entendimento no sentido de que compete à justiça comum apreciar as causas instauradas entre o Poder Público e seus servidores vinculados a ele por contratação temporária, uma vez que essas ações não se reputam oriundas da relação de trabalho.
+O Juízo Comum Estadual suscitou o presente conflito de competência ao declarar que o caso dos autos decorre de contrato de trabalho entre as partes, eis que (e-STJ fl. 468): "há expressa declaração de exercício na função de "Vigia", aplicando-se as disposições da CLT (fl. 168), que se compatibiliza com o quanto previsto na Lei Municipal nº 47, de 2002, segundo o qual, após revogar-se integralmente o estatuto dos servidores (art. 1º), define o regime jurídico ao estabelecer que "todos os servidores públicos do Município serão regidos pela Consolidação das Leis do Trabalho, e inscritos no Regime Geral da Previdência Social" (art. 2º).
+O Ministério Público Federal manifestou-se pela competência da Justiça do Trabalho.
+É o relatório. Passo a decidir.
+Preliminarmente, o art 926 do CPC/2015 determina que
+Os tribunais devem uniformizar sua jurisprudência e mantê-la estável, íntegra e coerente.
+Ainda, aplica-se ao caso o art. 927, I, do CPC/2015:
+Art. 927. Os juízes e os tribunais observarão:
+I - as decisões do Supremo Tribunal Federal em controle concentrado de constitucionalidade;
+Finalmente, incide por analogia a Súmula n. 568/STJ:
+O relator, monocraticamente, no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Passo, pois, ao mérito do conflito.
+A controvérsia está relacionada ao juízo competente para processar e julgar demanda ajuizada por agente público em face de município, questionando o pagamento de verbas trabalhistas em razão de contrato celetista. Nesse sentido, o parecer do Ministério Público Federal:
+De acordo com a acórdão do Tribunal de Justiça do Estado de São Paulo, "no caso dos autos, pelo conjunto probatório, também instruído com os recibos de pagamento de salário (fls. 6/16), e afirmação expressa da própria Municipalidade de o ser o autor "servidor público efetivo  ..  nomeado por ato administrativo a cargo público", denota-se claramente que no contrato de trabalho, decorrente de aprovação no concurso público abrangido pelo Edital nº 001/2007 (fls. 172/175), há expressa declaração de exercício na função de "Vigia", aplicando-se as disposições da CLT (fl.168), que se compatibiliza com o quanto previsto na Lei Municipal nº 47, de 2002segundo o qual, após revogar-se integralmente o estatuto dos servidores (art. 1º), define o regime jurídico ao estabelecer que "todos os servidores públicos do Município serão regidos pela Consolidação das Leis do Trabalho, e inscritos no Regime Geral da Previdência Social" (art. 2º)".
+Vê-se, portanto, que o autor é servidor público efetivo, mediante aprovação em concurso público, buscando o recebimento de diversas verbas trabalhistas com base em relação de trabalho firmada com o Município de São Joaquim da Barra, regida pela Consolidação das Leis do Trabalho (CLT), nos termos da Lei Municipal 100/98.
+O Supremo Tribunal Federal já determinou, que a Justiça Laboral é competente para processar e julgar as demandas em que servidor público celebra contrato celetista com a Administração. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E JUSTIÇA TRABALHISTA. SERVIDOR TEMPORÁRIO. RELAÇÃO JURÍDICA REGIDA PELA CLT. COMPETÊNCIA DA JUSTIÇA TRABALHISTA. AGRAVO INTERNO DO MPF DESPROVIDO.
+1. Tendo em vista a expressa determinação legal e contratual de que o autor tem seu vínculo com a poder público regido pela CLT, a competência para processar e julgar a demanda em tela é da Justiça do Trabalho (CC 1.082.284/MG, 3S, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 18.11.2010).
+2. In casu, verifica-se dos documentos acostados aos autos que a relação jurídica mantida entre o Poder Público e os Servidores era regida pela Consolidação das Leis do Trabalho, conforme expressamente consta no contrato celebrado entre as partes (fls. 18 e 30).
+3. Agravo Interno do MPF desprovido.
+(AgInt no CC n. 148.393/MG, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 2/4/2019, DJe de 10/4/2019.)
+CONFLITO NEGATIVO DE COMPETÊNCIA. SERVIDOR PÚBLICO MUNICIPAL. LEI MUNICIPAL 9/94. SUBMISSÃO AO REGIME CELETISTA. EXPRESSA DISPOSIÇÃO LEGAL. COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
+1. In casu, tanto a Lei Municipal nº 9/94, que dispõe sobre o Estatuto dos Servidores Públicos do Município, como o próprio contrato de trabalho firmado entre as partes dispõem expressamente que "o regime jurídico dos servidores públicos do Município de Dom Cavati é o celetista, instituído por lei".
+2. Tendo em vista a expressa determinação legal e contratual de que o autor tem seu vínculo com a poder público regido pela CLT, a competência para processar e julgar a demanda em tela é da Justiça do Trabalho.
+3. Conflito conhecido para declarar a competência da Justiça do Trabalho para processar e julgar a ação.
+(CC n. 108.284/MG, relatora Ministra Maria Thereza de Assis Moura, Terceira Seção, julgado em 22/9/2010, DJe de 18/11/2010.)
+Com base no exposto, CONHEÇO do conflito de competência, para declarar competente o JUÍZO TRABALHISTA.
+Publique-se. Intimem-se
+EMENTA
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. JUÍZOS COMUM ESTADUAL E TRABALHISTA. RECLAMAÇÃO TRABALHISTA. SERVIDOR PÚBLICO ESTADUAL. CONTRATAÇÃO SOB O REGIME CELETISTA COMPETÊNCIA DA JUSTIÇA DO TRABALHO.
