@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de RENATO COSTA FERREIRAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (HCn. 0019219-48.2022.8.17.9000).
+Consta dos autos que o paciente, após ser preso em flagrante no dia 2/9/2022, teve a prisão convertida em preventiva na audiência de custódia realizada no mesmo dia pela suposta prática do delito tipificado no art. 33, c/c o art. 40, V, ambos da Lei n. 11.343/2006.
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que, monocraticamente,indeferiu o pedido de liminar.
+Nesta via,sustenta o impetrantea ausência de fundamentação idônea a supedanear o decreto preventivo, uma vez que não ficou demonstrada concretamente a presença de qualquer dos requisitos do art. 312 do Código de Processo Penal.
+Alega que a quantidade do material tóxico apreendido, por si só, não é motivo bastante para a ordenação da segregação processual ou para o afastamento da redutora do tráfico, notadamente quando há suspeita de que o acusado seja mero entregador da droga ("mula"), como é o caso dos autos.
+Realça as condições pessoais favoráveis do investigado- tecnicamente primário, trabalho lícito eresidência fixa -, circunstâncias que indicam a possibilidade de substituição da medida extrema por cautelares mais brandas, insculpidas no art. 319 do estatuto processual repressor.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva, ainda que mediante a imposição de cautelares mais brandas.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pela Cortede origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência deste Sodalíciofirmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstram os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 691 DO STF. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO NÃO EVIDENCIADA DE PLANO. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal (precedentes).
+Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+2. Nada obstante as razões recursais, tem-se que não há, ao menos em um juízo perfunctório, ilegalidade em relação à decretação da prisão cautelar da agravante com fundamento na relevante quantidade de drogas apreendida (mais de 100kg - cem quilogramas - de maconha).
+3. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 768.684/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a liminar foi indeferida em razão da significativa quantidade de entorpecente apreendido (603kg de cocaína).
+3. Além disso, a jurisprudência desta Corte é assente no sentido de que "a própria natureza do delito de integrar organização criminosa, que configura crime permanente, além do inerente risco de reiteração delitiva, reforça a contemporaneidade do decreto prisional, consoante entendimento desta Corte Superior, porquanto "a regra da contemporaneidade comporta mitigação quando, ainda que mantido período de aparente conformidade com o Direito, a natureza do delito indicar a alta possibilidade de recidiva ou ante indícios de que ainda persistem atos de desdobramento da cadeia delitiva inicial (ou repetição de atos habituais)", como no caso de pertencimento a organização criminosa (HC n. 496.533/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 18/6/2019).
+4. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 752.232/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.)
+Confira-se, a propósito, a Súmula n. 691/STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, especialmente porque o relator, na origem,consignou que (e-STJ fl. 22-23):
+A partir de uma análise preliminar, própria desta fase processual inicial, entendo ausentes os requisitos para o deferimento da medida liminar pleiteada.
+Os argumentos ventilados na petição inicial exigem um exame mais minucioso dos elementos de convicção carreados aos autos, especialmente em razão do impetrante ter sido preso em flagrante com uma quantidade expressiva de "haxixe" (mais de 5kg), com suspeitas de tráfico interestadual de drogas em larga escala, mostrando-se necessário aguardar a juntada dasinformações da autoridade coatora para uma melhor compreensão das circunstâncias relevantes que envolvem o presente writ.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se e intimem-se.
