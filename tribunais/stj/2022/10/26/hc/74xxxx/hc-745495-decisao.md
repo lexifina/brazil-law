@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de BRUNO DA SILVA ESCH MIRANDA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Agravo em Execução n. 5001101-68.2022.8.19.0500, relator o Desembargador Celso Ferreira Filho).
+Depreende-se dos autos que o Juízo da Vara de Execuções Penais da Comarca da Capital/RJ indeferiu ao paciente o pleito de progressão de regime, por não estarem preenchidos os requisitos subjetivos, nos termos do art. 114, II, da LEP (e-STJ fls. 18/19).
+Interposto agravo em execução penal, o Tribunal local negou provimento ao recurso, em acórdão assim ementado (e-STJ fl. 42):
+AGRAVO EM EXECUÇÃO PENAL. Pleito defensivo para concessão de progressão para o regime aberto, na modalidade de PAD, com monitoramento eletrônico. Apenado que não se enquadra em quaisquer das hipóteses previstas nos Artigos 114 e 117 da Lei de Execução Penal, cujos róis são taxativos, não podendo o Juízo da Execução conferir interpretação extensiva à norma. Não se pode admitir que, a omissão estatal impeça a ressocialização do apenado, agravando sua situação, contudo, no caso, não se trata de cidadão comum pleiteando benefício ao Estado, mas, pessoa submetida a cumprimento de pena com sujeição prévia às condições de ingresso no regime mais benéfico, como resposta a crimes anteriormente praticados contra a sociedade. RECURSO DESPROVIDO.
+Na presente impetração, a Defensoria Pública aponta constrangimento ilegal decorrente do indeferimento do pedido de progressão ao regime aberto formulado em favor do apenado.
+Pontua que ele " ..  atingiu o prazo para progressão ao regime aberto em 24/03/2021 e possui comportamento carcerário EXCEPCIONAL, sem nenhum registro de falta disciplinar de natureza grave" (e-STJ fl. 4).
+Informa que o benefício da progressão de regime não lhe foi concedido por ter praticado o delito de furto no curso do livramento condicional, o que deu azo ao processo n. 0069274-48.2020.8.19.0001. Porém, assere que, nesse dito processo, foi-lhe concedida a liberdade provisória.
+Ressalta que "afigura-se verdadeira contradição estar o paciente respondendo na qualidade de réu solto ao processo no 0069274-48.2020.8.19.0001 e a simples existência desse processo dar ensejo à afirmativa de que o paciente cometeu novo delito e, ainda, impedir o exercício da progressão de regime, não obstante cumpridos os requisitos legais" (e-STJ fl. 5).
+Afirma que "a suposta prática de fato definido como crime no curso do livramento condicional não configura falta disciplinar de natureza grave, já que não há que se falar em indisciplina" e que "a existência de processo penal em curso não é argumento suficiente para indeferir direitos da execução penal, considerando o principio constitucional da presunção de inocência" (e-STJ fl. 7).
+Dessa forma, requer, liminarmente, que o paciente aguarde no regime aberto o julgamento deste habeas corpus. No mérito, postula a confirmação da liminar, com a progressão do sentenciado ao regime aberto na modalidade prisão albergue domiciliar (e-STJ fls. 3/11).
+Indeferida a liminar (e-STJ fls. 57/59), e prestadas as informações solicitadas (e-STJ fls. 62/65 e 68/89); manifestou-se o Ministério Público Federal pelo não conhecimento do writ (e-STJ fls. 93/97).
+É o relatório.
+Decido.
+A análise da irresignação encontra-se prejudicada.
+Dos autos da Execução Penal n. 0008117-11.2019.8.19.0001 extrai-se a informação de que o paciente obteve livramento condicional em 27/9/2022, tendo o alvará de soltura sido expedido no dia 14/10/2022.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
