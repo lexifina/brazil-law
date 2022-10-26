@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/10/2022 a 26/10/2022, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. AGRAVO NÃO CONHECIDO. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+1. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no art. 1.021, § 4º, do CPC, no montante equivalente a 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º do citado artigo de lei.
+3. Agravo interno não conhecido, com aplicação de multa.
+RELATÓRIO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno (fls. 223-229) interposto por GIULIANO ASTOLFI ROSADO contra decisão (fls. 220-221) do eminente Presidente desta Corte de Justiça, que não conheceu do recurso especial, em razão de sua intempestividade, uma vez que o acórdão recorrido foi publicado em 24/02/2020 e o apelo nobre foi protocolado em 04/09/2020.
+Nas razões do agravo interno, GIULIANO ASTOLFI ROSADO afirma que na decisão agravada consta "(..) a certidão de fl. 128, a nota de expediente foi disponibilizada em 21/02/2020 (sexta-feira), considerando-se publicada no primeiro dia útil seguinte, de sorte que o prazo recursal iniciou em 26/02/2020 (quarta-feira) eencerrou em 17/03/2020 (terça-feira). Todavia, o recurso especial foi protocolado em 04/09/2020 (fl. 131), sendo, pois, intempestivo." (fl. 225 - destaques no original).
+Aduz, também, que, mesmo que "(..) seja notório que ao julgar o "REsp 1.813.684/SP, o STJ admitiu a comprovação posterior de feriado local aos recursos interpostos entre a vigência do CPC/2015 até a publicação do referido julgado (18/11/2019) apenas em relação à segunda-feira de Carnaval", há um elemento que está sendo desconsiderado e que não foi colocado em questão no mesmo julgamento: A EXISTÊNCIA DE ATO NORMATIVO DO TRIBUNAL ONDE O RECURSO DEVE SER INTERPOSTO" (fl. 227 - destaques no original).
+Assevera, ainda, que a decisão deve ser reformada para "(..) RECONHECER que o próprio TJRS editou em 11/11/2019 o Ato 07/2019 do Órgão Especial do TJRS, prevendo expressamente que o dia 24/02/2020 não teria expediente externo, não podendo ser considerado dia útil por força do ato, e não por ser feriado local (segunda-feira de carnaval), definindo a data de 12/03/2020 como sendo o prazo limite para interposição do recurso, imprimindo tempestividade ao Recurso interposto" (fl. 228 - destaques no original).
+Ao final, pleiteia a reconsideração da decisão agravada ou, se mantida, seja o recurso levado a julgamento perante a eg. Quarta Turma.
+Não foi apresentada impugnação (vide certidão à fl. 234).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO IMPUGNADO. AGRAVO NÃO CONHECIDO. RECURSO MANIFESTAMENTE INADMISSÍVEL. MULTA DO ART. 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+1. É inviável o agravo interno que deixa de impugnar especificamente os fundamentos da decisão agravada (CPC/2015, art. 1.021, § 1º).
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no art. 1.021, § 4º, do CPC, no montante equivalente a 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º do citado artigo de lei.
+3. Agravo interno não conhecido, com aplicação de multa.
+VOTO
+EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+O agravo interno não merece sequer ser conhecido, visto que a parte agravante deixou de atacar, especificamente, os fundamentos adotados na decisão agravada.
+Como relatado, a decisão agravada conheceu do agravo para não conhecer do recurso especial em razão de sua intempestividade, uma vez que o acórdão estadual foi publicado em 24 de fevereiro de 2020, ao passo que o apelo foi interposto em 04 de setembro de 2020. A título elucidativo, transcreve-se o seguinte trecho da decisão vergastada (fl. 220):
+"Mediante análise do recurso de GIULIANO ASTOLFI ROSADO, a parte recorrente foi intimada do acórdão recorrido em 24/02/2020, sendo o recurso especial interposto somente em 04/09/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior."
+(g. n.)
+Por seu turno, o agravo interno defende que o prazo final para a interposição do apelo nobre seria 12 de março de 2020. No entanto, como dito, a decisão agravada considerou o apelo nobre intempestivo porque foi interposto em 04 de setembro de 2020. Nesse contexto, infere-se que a decisão agravada não impugnou, direta e especificamente, tal fundamentação.
+Ora, o princípio da dialeticidade, que rege os recursos processuais, impõe à parte recorrente, como requisito de admissibilidade do recurso, o dever de demonstrar por que razão a decisão recorrida não deve ser mantida, demonstrando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando).
+Positivando o referido princípio, o art. 1.021, § 1º, do CPC/2015 determina que, na petição de agravo interno, o recorrente impugne especificamente os fundamentos da decisão agravada. Outrossim, nos termos do art. 932 do CPC/2015, aplicável de forma geral aos recursos e processos originários dos Tribunais, incumbe ao relator:
+"III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida."
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DOS ARTS. 932, III, E 1.021, § 1º, DO CPC/2015 E DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, CPC. AUSÊNCIA DE FUNDAMENTO CONSTITUCIONAL NO ACÓRDÃO PROFERIDO PELO TRIBUNAL DE ORIGEM. APLICAÇÃO DO ART. 1.032 DO CPC/2015 AFASTADA. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie o disposto no arts. 932, III e 1.021, § 1º, do Código de Processo Civil de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça.
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+3. "Constata-se a ausência de fundamento constitucional o acórdão proferido pelo Tribunal de origem apto a ensejar a abertura de prazo para apresentação da existência de repercussão geral. Portanto, não é o caso de aplicação do comando previsto no art. 1.032 do CPC/2015". (AgInt no AREsp 996.788/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/03/2017, DJe 10/04/2017).
+4. Agravo interno não conhecido, com aplicação de multa."
+(AgInt no AREsp 1.121.134/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/10/2017, DJe de 13/10/2017 - grifou-se)
+"AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO ORDINÁRIA - COMPRA E VENDA DE IMÓVEL - DECISÃO MONOCRÁTICA QUE NÃO ADMITIU O RECLAMO. INSURGÊNCIA DA AUTORA.
+1. Razões do agravo interno que não infirmaram especificamente os fundamentos do capítulo impugnado na decisão monocrática recorrida. Em cumprimento ao princípio da dialeticidade, deve a parte agravante demonstrar, de modo abalizado, o desacerto de cada fundamento do capítulo impugnado da decisão agravada. Aplicação dos artigos 932, inc. III, e 1.021, §1º, do CPC/15. Incidência do óbice enunciado na Súmula 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC 73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Inaplicabilidade do quanto disposto no art. 85, § 11, do CPC/15 à espécie, uma vez que o recurso especial foi interposto na vigência do CPC/73. Precedentes. 2.1. A aplicação da multa prevista no art. 1.021, § 4º, do CPC/15 pressupõe que a interposição do recurso possa ser tida como abusiva ou protelatória. (AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016). No caso em tela, não se vislumbra a hipótese de penalizar a parte agravante.
+3. Agravo interno não conhecido."
+(AgInt no AREsp 986.161/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 05/10/2017, DJe de 11/10/2017 - grifou-se)
+Desse modo, diante da ausência de impugnação específica dos fundamentos da decisão agravada, constata-se a manifesta inadmissibilidade do agravo interno, ensejando não só o seu não conhecimento, mas também a aplicação da multa pecuniária prevista no § 4º do art. 1.021 do CPC/2015, que dispõe:
+Art. 1.021. (..)
+§ 4º Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Incide na espécie a Súmula 182/STJ.
+2. O recurso mostra-se manifestamente inadmissível, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º, do citado artigo de lei.
+3. Agravo regimental não conhecido, com aplicação de multa."
+(AgRg no AREsp 842.889/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/04/2016, DJe de 11/04/2016)
+Ante o exposto, não conheço do agravo interno e aplico à parte agravante a multa do art. 1.021, § 4º, do CPC/2015, no importe de 1% (um por cento) sobre o valor atualizado da causa, ressalvando que a interposição de qualquer outro recurso está condicionada ao depósito prévio da respectiva quantia, na forma do § 5º do mesmo dispositivo legal.
+É como voto.
