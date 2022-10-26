@@ -1,0 +1,52 @@
+DECISÃO
+PAULO LISSANDRO ZEK DOS SANTOS alegasofrer constrangimento ilegal pelo Tribunal de Justiça do Estado de Santa Catarina(Apelação Criminal n. 5000727-27.2021.8.24.0022).
+Sustenta a defesa que "O depoimento do Paciente, nas circunstâncias como foi prestado, encontra-se eivado de nulidade absoluta, haja vista que as informações nele veiculadas foram obtidas de maneira ilícita, por extrair do acusado suposta confissão sem que a ele tenha sido dado prévia ciência de seu direito de permanecer em silêncio" (fl. 6).
+Além disso, afirma que "a quantidade de droga apreendida é bastante módica e não justifica a manutenção do aumento da pena-base no patamar de 1/6" (fl. 12).
+Após o indeferimento do pedido liminar (fl. 571), oMinistério Público Federal opinou pelo não conhecimento do writ ou, caso conhecido, pela denegação da ordem (fls. 573-578).
+Decido.
+I. Direito ao silêncio- nulidade relativa
+Consigno, inicialmente,que, assim como o alegado pelopaciente, nos termosdo art. 186, parágrafo único, do CPP, bem como do art. 5º, LXIII, daConstituição, é garantido ao preso e ao acusado de uma prática delitiva oalerta sobre o direito ao silêncio.
+A jurisprudência desta Corte Superior, no entanto, pacificou oentendimento de que a inobservância dessa regra gera apenas nulidaderelativa, cuja declaração depende inexoravelmente da demonstração doprejuízo por quem o alega.
+À guisa de exemplo, os seguintes precedentes:
+ .. .
+2. Este Superior Tribunal de Justiça, acompanhando entendimentoconsolidado no Supremo Tribunal Federal, firmou o entendimento de queeventual irregularidade na informação acerca do direito de permanecer emsilêncio é causa de nulidade relativa, cujo reconhecimento depende dacomprovação do prejuízo (ut, RHC 67.730/PE, Rel. Ministro JORGE MUSSI,Quinta Turma, DJe 04/05/2016).
+ .. .
+5. No caso concreto, o prejuízo nãoficou demonstrado, notadamente porque a condenação do recorrente está fundamentada não apenas nas informações colhidas da fase policial, mastambém no laudo pericial e nos depoimentos prestados em juízo.
+6. Agravo regimental não provido.
+(AgRg no AREsp n. 1.922.091/SP, Rel. Ministro Reynaldo Soares da Fonseca,5ª T., DJe12/11/2021,grifei)
+ .. .
+1. A ocorrência de irregularidade quanto à informação do direito depermanecer em silêncio é causa de nulidade relativa, exigindo, portanto, acomprovação de prejuízo, conforme entendimento pacificado no âmbito destaCorte Superior.
+2. Nulidade afastada, na medida em que não ficou comprovado prejuízoconcreto ao réu, mormente, considerando-se que, ao ser inquirido, elenegou a autoria do fato.
+3. Agravo regimental improvido.
+(AgRg no RHC n. 74.148/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe13/6/2018,grifei).
+No caso dos autos, oTribunal de origem, aoafastara alegada nulidade,amparou-se na seguinte fundamentação (fls. 59-60, grifei):
+ .. .
+Além disso, o agir dos policiais não foi ilegal, pois conforme consta nos autos, o apelante foi indagado de modo informal sobre os fatos. As respostas, segundo os agentes e a interpretação do depoimento judicial do próprio réu, foram voluntárias, sem qualquer indicio de coação.
+Nota-se através das imagens (evento n. 105) que o relato prestado pelo apelante, além de consciente e voluntário, é firme e desenvolto, não demonstrando qualquer nervosismo ou hesitação que pudesse sugerir coação ou constrangimento por parte dos policiais, pelo contrário, o que se vê é uma pessoa espontaneamente colaborativa.
+Convém destacar também que não houve qualquer irregularidade na utilização da câmera para gravar a ação policial e, inclusive, registrar a autorização de busca dos agentes na residência, uma vez que "as imagens obtidas por câmera corporal acoplada ao fardamento da policia militar tem o condão de dar maior clareza e legitimidade à atuação policial, pois o registro em vídeo da ação garante tanto ao abordado, quanto aos policiais, maior segurança no desempenho das funções, por evidenciar a forma como a ocorrência se deu, registrando qualquer irregularidade ocorrida durante o seu transcurso". (TJSC, Apelação Criminal n.
+5043193-33.2021.8.24.0023, do Tribunal de Justiça de Santa Catarina, rel. Ana Lia Moura Lisboa Carneiro, Primeira Câmara Criminal, j. 09-12-2021).
+ .. .
+Enfim, consigna-se que, para além desses argumentos apresentados, durante todo o decurso processual e ainda nesta instância ad quem, a defesa não apresentou argumento que pudesse comprovar o prejuízo advindo da juntada da gravação na qual o apelante aparece permitindo a busca domiciliar e, informalmente, confessando a prática delitiva, tendo em vista que extrajudicialmente, cientificado de seus direitos à não incriminação, o próprio confessa espontaneamente a prática delitiva, não qualificando, portanto, o evento como mácula processual.
+E mais, a autoridade judicial também não se utilizou da suposta confissão informal para fins de condenação, tendo apontado, no entanto, o fato da apreensão dos entorpecentes na posse do apelante, assim como da sua confissão extrajudicial, amparada pelos relatos (extrajudiciais e judiciais) dos agentes públicos que participaram da ocorrência.
+Desse modo, verifico quea defesa não logrou demonstrar que, na primeira oportunidade queteve, arguiu essa omissão, tampouco o prejuízo suportado em seu direito deampla defesa, tendo o Tribunal estadual expressamente ressaltado que acondenação decorreu de outros elementos probatórios.
+Aliás, a Corte local ainda ressaltou que " .. a questão suscitada pela defesa é claramente extemporânea, abarcada, portanto, pela preclusão, vez que não restou arguida em momento oportuno, a saber, na resposta à acusação (evento n. 63) ou nas alegações finais (evento n. 168)" (fl. 58).
+Diante de tudo isso, verifica-se que o acórdão impugnado está em harmoniacom a jurisprudência desta Corte Superior, razão pela qual não constato o apontado constrangimento ilegal.
+II. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto, cumprindo-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art.59 do Código Penal, as quais não deve se furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente;motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, o Juiz de primeiro grau, por ocasião da primeira fase da dosimetria, estabeleceu a pena-base acima do mínimo legal, conforme abaixo (fl. 451, grifei):
+Em análise às circunstâncias judiciais descritas no art. 59 do Código Penal e art. 42 da Lei n.11.343/06 tenho que a culpabilidade da parte acusada é normal à espécie. Não há elementos para atestar a conduta social e a personalidade da parte acusada. Os motivos, as circunstâncias e as consequências são normais para o tipo penal em exame. Não há falar em comportamento da vítima. A quantidade dos ilícitos comercializados, por outro lado, não destoa da normalidade para casos análogos.
+Por sua vez, o réu registra antecedentes criminais passíveis de serem negativamente abalizados (evento 170, CERTANTCRIM4), considerando-se que conta com condenação transitada em julgado nos autos n. 0006873-97.2006.8.24.0022, razão pela qual majoro a pena em 1/6.
+Além disso, a natureza dos ilícitos comercializados, igualmente, merece ser negativamente valorada, isso porque, além da maconha apreendida em sua residência - foi também encontrado crack, estupefaciente amplamente conhecido pelos seus efeitos nefastos aos usuários e, também restou claro, que o réu vendia rotineiramente vários entorpecentes. Assim, aumento a reprimenta em 1/6.
+Desse modo, considerando-se as circunstâncias negativas acima, fixo a pena-base em 06 (seis) anos e 8 meses de reclusão, acrescido de 666 (seiscentos e sessenta e seis) dias-multa.
+O Tribunal de origem, por sua vez, manteve a sentença condenatória pelos mesmos fundamentos.
+Pelo trecho transcrito, constato que as instâncias de origem, ao analisarem as circunstâncias judiciais, consideraram como desfavoráveis, além dos maus antecedentes, a naturezadasdrogas apreendidas (3,9 g de crack e 18,6 g de maconha).
+Certo é que, segundo o disposto no art. 42 da Lei n. 11.343/2006, "O Juiz,na fixação das penas, considerará, com preponderância sobre o previsto noart. 59 do Código Penal, a natureza e a quantidade da substância ou doproduto, a personalidade e a conduta social do agente".
+No entanto, embora aquantidade a natureza das substâncias apreendidas constituam, defato, circunstâncias preponderantes a serem consideradana dosimetria da pena,entendo que o montantenão foi excessivamenteelevada, de maneira que se mostra manifestamente desproporcional sopesar,no caso ora analisado, tal circunstânciapara justificar a exasperação dapena-base.
+Do contrário, qualquer agente que fosse apreendido com crack ou comcocaína, ainda que com uma porção ínfima, por exemplo, deveriater a sua pena-base estabelecida acima do mínimo legal - a pretexto decorreta aplicação do disposto no art. 42 da Lei n. 11.343/2006 -, o que,evidentemente, não se coaduna com os princípios da razoabilidade e daproporcionalidade.
+Diante de tais considerações, evidencio a parcial ocorrência do apontado constrangimento ilegal- utilização da natureza das drogas para, isoladamente, exasperar a reprimenda, em sua primeira fase-, a fim de reduzir a pena-base dopaciente para5 anos e 10 meses de reclusão e pagamento de 583 dias-multa, porquanto remanescem desfavoráveis os maus antecedentes.
+III. Dispositivo
+À vista do exposto, concedo parcialmente a ordem, a fim de reduzir a pena-base imposta ao paciente e, consequentemente, fixar a sua reprimenda definitiva em 5 anos e 10 meses de reclusão e 583 dias-multa.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias deorigem, para as providências cabíveis.
+Publique-se e intimem-se.
