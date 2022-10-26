@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por Cabrera Consultoria Contábil e Tributária Ltda.contra decisão que não admitiu o processamento do apelo extremo.
+Infere-se dos autos que a Trigésima Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulodeu provimentoàapelação interposta pela parte ora recorrida,nos termos da ementa abaixo colacionada (e-STJ, fl. 267):
+AÇÃO MONITORIA. Prestação de serviços de assessoria empresarial. Embargos opostos pela ré. Juízo de improcedência. Recurso da ré. Provido, para recondução do procedimento.
+Opostos embargos de declaração pela ora insurgente, estes foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 295):
+EMBARGOS DECLARATÓRIOS. Inexistência de omissão, obscuridade ou contradição. Abordagem modificativa. Etapa de prequestionamento. Embargos rejeitados.
+Nas razões do apelo especial (e-STJ, fls. 298-313), arecorrente apontou ofensa aos arts.336,489, § 1º, IV, 702,§ 1ºe 1.022, I, do Código de Processo Civil de 2015.
+Sustentou que não houve a valoração adequada das provas constantes nos autos pelo Tribunal estadual. Alegou que aprova documentalé, por sua natureza, inerte epresumidamente dotada de valor,sobretudo em procedimentos de natureza monitória.
+Afirmou que a parterecorridaquedou-se inerte quando instada a se manifestar sobre osdocumentos que assentam a exigência do crédito.
+Contrarrazõesàs fls. 318-332 (e-STJ).
+O processamento do apelo extremo não foi admitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+A irresignação não merece prosperar.
+O Tribunal de Justiça do Estado de São Paulo, ao dirimir as questões postas nos autos, assim fundamentou (e-STJ, fl. 268;sem grifos no original):
+Serviços de assessoria empresarial, que a ré, contratante, alega não terem sido adequadamente executados pela autora, contratada, assim a repercutir na exigibilidade do respectivo crédito remuneratório, necessário espancar dúvidas, aprofundando esclarecimentos, a que será relevante subsídio técnico (prova pericial), sem embargo da contribuição de informações de testemunhas, em audiência, adminículos perquiridos pela ré, apelante, em momento oportuno (fl. 200).
+(..)
+Do exposto, pelo meu voto, dou provimento ao recurso, para afastar a respeitável sentença, em hipótese que obriga instalar etapa probatória.
+Destarte, quanto à alegada negativa de prestação jurisdicional por omissão, cabe esclarecer que os embargos de declaração se revestem de índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não sendo admitida a sua utilização como mera manifestação de inconformismo com o resultado do julgamento.
+Outrossim, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte, mas tão só sobre os considerados suficientes para fundamentar sua decisão, o que foi feito na hipótese.
+Ainda sobre o tema, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão.
+Desse modo, tendo o Tribunal de origem motivado adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não há afirmar que a Corte originária não se pronunciou sobre o pleito da parte ora recorrente apenas pelo fato de ter o julgado recorrido decidido contrariamente à pretensão por ela deduzida.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. CERCEAMENTO DE DEFESA CARACTERIZADO. NULIDADE DA SENTENÇA RECONHECIDA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação dos artigos 1022 e 489 do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente. Não há falar, no caso, em negativa de prestação jurisdicional. A Câmara Julgadora apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes. No entanto, se a decisão não corresponde à expectativa da parte, não deve por isso ser imputado vicio ao julgado.
+2. O Tribunal de origem reconheceu o cerceamento de defesa, tendo em vista a insuficiência da prova para o deslinde da controvérsia. Assim, alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, medida inviável em recurso especial, em razão do óbice da Súmula 7 do STJ, o que impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional. 3. Agravo interno não provido.
+(AgInt no AREsp 1795771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2021, DJe 26/08/2021)
+Ademais, é importante assinalar que a contradição trazida no art. 1.022 do CPC/2015 é a interna, em que se constata uma inadequação lógica entre a motivação posta e a conclusão adotada na própria decisão. Logo, não enseja a oposição dos declaratórios eventual contradição entre a fundamentação em que se baseia o acórdão recorrido e a que a parte pretende ver adotada.
+Ilustrativamente:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. AÇÃO DE RECONHECIMENTO DA QUALIDADE DE HERDEIRA NECESSÁRIA E HABILITAÇÃO EM INVENTÁRIO. EXISTÊNCIA DE OMISSÃO A RESPEITO DA MODULAÇÃO DOS EFEITOS DETERMINADA PELO RE Nº 878.694/MG. INTEGRAÇÃO DO JULGADO, SEM ATRIBUIÇÃO DE EFEITOS INFRINGENTES. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. PRECEDENTES. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARCIALMENTE, COM ATRIBUIÇÃO DE EFEITOS INFRINGENTES.
+(..)
+4. Na linha da jurisprudência desta eg. Corte Superior, a contradição que autoriza o manejo dos embargos de declaração é aquela que ocorre entre a fundamentação e o dispositivo, e não aquela entre a fundamentação do acórdão recorrido e aquela a que a parte gostaria que fosse adotada.
+(..)
+6. Embargos de declaração acolhidos parcialmente, com efeitos infringentes.
+(EDcl no REsp n. 1.844.229/MT, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 28/3/2022.)
+Sendo assim, não há como reconhecer, no caso concreto, a presença de ofensa aos arts.489, § 1º, IV, e 1.022, I,do CPC/2015.
+No mais, infirmar a conclusão adotada pelo Tribunal estadual acerca da necessidade de dilação probatória para averiguação da adequada prestação de serviços pela recorrente,demandaria reexame do conjunto fático-probatório, o que não é possível nesta seara ante o óbice da Súmula 7/STJ.
+Nem se diga ser caso de revaloração da prova.Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias.No caso, o que almeja a agravante é a revisão da conclusão a que chegou a Corte estadual.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Não se olvide, ainda, do entendimento já adotado no Superior Tribunal de Justiça de que "aerrônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1.380.879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Ante o exposto, conheço do agravopara conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.AÇÃO MONITÓRIA. PRESTAÇÃO DE SERVIÇOS DE ASSESSORIA EMPRESARIAL.VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO E NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS NÃO CONFIGURADOS. REVISÃO DAS CONCLUSÕES DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ.AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIALE, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
