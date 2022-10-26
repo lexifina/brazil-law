@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pela AGÊNCIA NACIONAL DO PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. VALOR IRRISÓRIO. AUSÊNCIA DE INTERESSE PROCESSUAL. EXTINÇÃO.
+Resta caracterizada a ausência de interesse processual de agir quando a execução fiscal visa a cobrar valor ínfimo. Sentença de extinção do feito confirmada.
+Em seu recurso especial, a recorrente apontou violação aos arts. 485, VI, 924, II, e 1.022, todos do CPC/2015, sustentando, em síntese, que é indevida a extinção da execução fiscal de ofício pelo Poder Judiciário, ainda que o valor executado seja considerado como irrisório.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é pacífica ao afirmar que a propositura ou continuidade da execução fiscal de pequenos valores é prerrogativa da Fazenda Pública, não podendo o Poder Judiciário substituir a Administração na disposição de seus créditos. In verbis:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. VALOR IRRISÓRIO. EXTINÇÃO DE OFÍCIO. IMPOSSIBILIDADE. EXISTÊNCIA DE INTERESSE DE AGIR.
+1. Não procede a alegada ofensa ao artigo 535 do CPC/9173. O Poder Judiciário não está obrigado a emitir expresso juízo de valor a respeito de todas as teses e artigos de lei invocados pelas partes, bastando para fundamentar o decidido fazer uso de argumentação adequada, ainda que não espelhe qualquer das teses invocadas.
+2. A jurisprudência do STJ é uníssona no sentido de que a propositura da execução de pequenos valores é prerrogativa da Administração, não podendo o Poder Judiciário substituir a Administração na disposição de seus créditos. 3. Recurso Especial parcialmente provido.
+(REsp 1661243/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/05/2017, DJe 17/05/2017)
+PROCESSUAL CIVIL. EXECUÇÃO. ART. 1º DA LEI 9.469/97. VALOR IRRISÓRIO. EXTINÇÃO, DE OFÍCIO, DO PROCESSO EXECUTIVO. IMPOSSIBILIDADE.
+1. Em sede de recurso especial, o recorrente aponta violação ao art. 1º da Lei n. 9.469/97, ao argumento de que é faculdade da Fazenda Pública extinguir o processo sem julgamento de mérito em casos de valor irrisório.
+2. As razões do recorrente coadunam-se com a jurisprudência desta Corte no sentido de que essa norma simplesmente confere uma faculdade à Administração, não se podendo extrair de seu comando normativo a virtualidade de extinguir a obrigação, nem de autorizar o juiz a, sem o consentimento do credor, indeferir a demanda executória.
+3. Recurso especial provido.
+(REsp 1218852/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 14/12/2010, DJe 08/02/2011.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. OMISSÃO NO ACÓRDÃO RECORRIDO. INEXISTÊNCIA. ALEGADA AUSÊNCIA DE INTERESSE RECURSAL. INOCORRÊNCIA. SÚMULA 452/STJ. NULIDADE DO TÍTULO EXECUTIVO. CDA. REQUISITOS DE VALIDADE. REVISÃO. DESCABIMENTO. NECESSIDADE DE DILAÇÃO PROBATÓRIA, SÚMULA 7 DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se de Agravo Regimental interposto contra decisão publicada na vigência do CPC/73.
+II. Não há falar, na hipótese, em violação ao art. 535 do CPC, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão dos Embargos Declaratórios apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+III. Ainda que se admita que a questão da ausência de interesse de agir do exequente tenha sido devidamente abordada, nas razões do Recurso Especial, o que impediria a aplicação da Súmula 283/STJ, no ponto, não poderia prosperar a irresignação, uma vez que correta a incidência da Súmula 452/STJ, segundo a qual "a extinção das ações de pequeno valor é faculdade da Administração Federal, vedada a atuação judicial de ofício".
+IV. A Primeira Seção do STJ, no julgamento do Recurso Especial 1.345.021/CE (DJe de 02/08/2013), consagrou a tese de que é possível o exame da certidão de dívida ativa, destacando que a análise "será jurídica, caso dependa do juízo, a ser extraído diretamente da interpretação da lei federal (LEF e/ou CTN), quanto à necessidade de discriminação de determinadas informações (na espécie, da forma de cálculo dos juros de mora, da origem e da natureza da dívida, etc", e "será fática, se se verificar, em concreto, se o documento dos autos especificou os referidos dados".
+V. Alterar o entendimento da Corte de origem, no sentido da higidez da Certidão da Dívida Ativa, em vista da presença dos requisitos essenciais à sua validade, demandaria, necessariamente, o reexame do contexto fático-probatório dos autos, inviável, em sede do Recurso Especial, em face do óbice da Súmula 7 do STJ. Precedentes.
+VI. Agravo Regimental improvido.
+(AgRg no REsp 1512535/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/10/2016, DJe 04/11/2016)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para determinar a regular continuidade do feito executivo.
+Publique-se. Intimem-se.
