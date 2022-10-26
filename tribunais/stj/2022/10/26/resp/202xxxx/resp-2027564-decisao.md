@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por AGROPECUÁRIA ITAQUERE DO ARAGUAIA LTDA - EM RECUPERAÇÃO JUDICIAL (AGROPECUÁRIA), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Mato Grosso, assim ementado:
+APELAÇÃO CÍVEL - EMBARGOS DE TERCEIRO - INDEFERIMENTO DA INICIAL NA ORIGEM - OPOSIÇÃO EM AÇÃO DE REINTEGRAÇÃO DE POSSE - ARRENDATÁRIO - REPETIÇÃO DE OUTROS OPOSTOS PELO ARRENDADOR E ANTECESSORES DESTE ÚLTIMO - FLAGRANTE REPETIÇÃO DE DEMANDAS - FALTA DE INTERESSE PROCESSUAL DO EMBARGANTE/APELANTE - FEITO EXTINTO SEM APRECIAÇÃO DO MÉRITO - RECURSO NÃO PROVIDO.
+Não se conhece de Apelação contra sentença que extinguiu Embargos deTerceiro sem apreciação do mérito se a ele se limitavam discutir matéria que já é objeto de discussão em processos instaurados por antecessores do arrendador, inclusive por este(e-STJ, fls. 196/197).
+Opostos embargos de declaração por AGROPECUÁRIA, foram rejeitados (e-STJ, fls. 216/220).
+Nas razões do presente recurso, AGROPECUÁRIAalegou além de dissídio jurisprudencial violação do art. 574, caput, § 1º, do NCPC, ao sustentar que: (1) possuiinteresse de agir quanto aodesfazimento da constrição da área da qual exercia a posse direta por força de arrendamento rural, mesmo havendo embargos de terceiro por parte dos arrendadores na condição de proprietários da área e possuidores indiretos da área arrendada (e-STJ, fls. 227/240).
+Foram apresentadas contrarrazões (e-STJ, fls. 287/301).
+É o relatório.
+Decido.
+O recurso não merece prosperar.
+(1) Do interesse de agir da ora recorrente
+Nas razões do presente recurso, AGROPECUÁRIA alegou além de dissídio jurisprudencial violação do art. 574, caput, § 1º, do NCPC, ao sustentar que possui interesse de agir quanto ao desfazimento da constrição da área da qual exercia a posse direta por força de arrendamento rural, mesmo havendo embargos de terceiro por parte dos arrendadores na condição de proprietários da área e possuidores indiretos da área arrendada
+Sobre o tema o TJMT manteve a sentença que indeferiu os embargos de terceiro opostos pela AGROPECUÁRIA diante da carência da ação por ausência de interesse processual sob os seguintes fundamentos.
+É o que se infere dos seguintes excertos do aresto objurgado:
+A apelante opôs Embargos de Terceiro com pedido de liminar contra a apelada, na Ação de Reintegração de Posse que esta última ajuizou contra inúmeros, ocupantes da área, na sua grande maioria sucessores de pessoas que compunham o polo passivo de Ações Possessórias anteriores com sentenças de procedência já transitadas em julgado, entre eles Djalma Cerezini, que conforme relato da apelante, teria lhe arrendado as terras.
+Como o mencionado arrendador também ajuizou Embargos de Terceiro, que tramita no mesmo juízo sob n. 0018477-04.2019.8.11.0041,em consonância com o parecer do Ministério e porque constatada a repetição, o juízo indeferiu liminarmente a petição inicial por falta de interesse de agir.
+Realmente, ao acessar o processo acima mencionado constata-se que além desse fato, o referido arrendador teria adquirido a posse de área maior, de Dirceu Pinhatti Mendes, que também judicializou a pretensão de se manter na área revigorada, e depois seus herdeiros, cuja pretensão também foi negada pelo TJMT, cujo acórdão foi confirmado pelo STJ.
+Desse modo é flagrante a ausência de interesse do ora apelante, como bem consignado na sentença e no parecer ministerial acolhido pelo juízo a quo.
+A propósito, constou do parecer que em 2-12-2019, Djalma Cerezini opôs Embargos de Terceiro e teve o pedido de liminar indefiro por duas vezes, sendo que a argumentação naquele feito é exatamente amesma destes autos, onde também foi mencionado aquele feito, de modo que já existe uma Ação em andamento tendo por objeto a mesma área. Anotou ainda o parquet que os alegados prejuízos devem ser resolvidos em Ação autônoma e contra o respectivo arrendador, e na forma prevista no Estatuto da Terra. Também observou que consta na inicial alegação do próprio apelante que sequer houve o plantio da safra, não existindo, portanto, colheita pendente (Id 111964456), o que restou acolhido pela sentença recorrida(e-STJ, fls. 199/200).
+Nesse contexto, a revisão da conclusão do julgado, com o consequente acolhimento da pretensão recursal, não prescindiria do reexame do acervo fático probatório da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. ALEGADA VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE. ALEGADA AFRONTA AOS ARTIGOS 485, § 3º E 803, PARÁGRAFO ÚNICO, DO CPC DE 2015; AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF. NÃO CABIMENTO DOS EMBARGOS DE TERCEIRO. AUSÊNCIA DE AMEAÇA. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se admite recurso especial por alegada violação à súmula, pois esta não se equipara a dispositivo de lei federal para fins de interposição do recurso.
+2. As matérias referentes aos arts. 485, § 3º e 803, parágrafo único, do CPC de 2015 não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula n. 282/STF).
+3. Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+4. O Tribunal local, ao dirimir a controvérsia, mediante o exame dos elementos informativos da demanda, entendeu pela ausência de interesse de agir, pois inexistiria ato de apreensão judicial que justificasse a utilização dos embargos de terceiro. Tal conclusão não se desfaz sem o reexame de provas, o que é vedado ante a incidência da Súmula n. 7 do Superior Tribunal de Justiça, que impede o conhecimento do recurso por ambas as alíneas do dispositivo constitucional.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.641.672/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 7/6/2021, DJe 14/6/2021 - sem destaque no original).
+O recurso, portanto, não merece ser conhecido.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de AGROPECUÁRIA, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. INDEFERIMENTO DA INICIAL NA ORIGEM. AUSÊNCIA DE INTERESSE PROCESSUAL. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
