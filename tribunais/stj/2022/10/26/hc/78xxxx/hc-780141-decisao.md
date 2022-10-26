@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se dehabeas corpussubstitutivo de recurso especial,com pedido liminar, impetrado em favor de JONATA HENRIQUE MELQUIADES DE CARVALHO, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 1540088-89.2018.8.26.0050.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 3 anos, 2 meses e 3 dias de reclusão, em regime inicial fechado,e 14 dias-multa,pela prática dodelitotipificadono art. 155, § 4º, IV, do Código Penal.
+Irresignada, a defesa apelou e o Tribunal estadual deu parcial provimento ao recurso para redimensionar as sanções do apelante a 2 anos, 9 meses e 18 dias de reclusão, além de 14 dias-multa, mantidos os demais termos de sua condenação(e-STJ, fls. 17/24), em acórdão assim ementado:
+Furto qualificado - Preliminar afastada - Autoria demonstrada - Conjunto probatório satisfatório - Penas redimensionadas - Regime inicial de cumprimento de pena mantido - Recurso da defesa PARCIALMENTE PROVIDO.
+No presentewrit(e-STJ, fls. 3/16), o impetrante afirma que o acórdão impugnado impôs constrangimento ilegal ao paciente, ao manter oregime prisional mais gravoso. Para tanto, alega que não obstante ele seja reincidente, a pena é inferior a 4 anos de reclusão, sendo possível a fixação do regime inicial mais brando. Aduz que o enunciado n. 269 desta Corte Superior autoriza a aplicação de regime mais brando aos pacientes reincidentes.
+Ademais, assevera queainda que o paciente seja reincidente, tendo em vista o disposto no art. 33, §§ 2º e 3º, do Código Penal e, ainda, nas Súmulas 718 e 719 do Supremo Tribunal Federal, assim como nas Súmulas 269 e 440 do Superior Tribunal de Justiça, mostra-se de rigor a fixação do regime inicial aberto (e-STJ, fl. 9).
+Diante disso, requer, liminarmente, a suspensão dos efeitos da condenação até o julgamento definitivo desta impetração e, no mérito, a fixação do regime inicial aberto ao paciente.
+Por estarem os autos suficientemente instruídos, dispenso o envio de informações.
+É o relatório. Decido.
+Em que pesem os judiciosos argumentos expendidos pelo impetrante, da análise dos autos, não verifico patente constrangimento ilegal a ensejar sequer o processamento deste writ.
+Isso porque, ao compulsar os autos, e em consulta aos dados processuais desta Corte Superior, verifico que em impetração anterior interposta pela defesa do paciente, qual seja o HC n. 766.211/SP, DE MINHA RELATORIA, o qual se insurgia contra o mesmo acórdão ora impugnado (Apelação Criminal n. 1540088-89.2019.8.26.0050), era vindicado também a fixação do regime aberto ao paciente, sob os mesmos argumentos ora apresentados.
+Na oportunidade, asseverei que não havia que se falar em ilegalidade na fixação do regime inicial fechado, uma vez que, não obstante a pena fosse inferior a 4 anos de reclusão, o paciente era reincidente e a pena-base foi fixada acima do mínimo legal. Desse modo, verificava-seque o regime mais gravoso estava de acordo com os termos do art. 33, §§ 2º e 3º do Código Penal.
+Nesses termos, por se tratar de reiteração de matéria já apreciada e decidida por esta Corte de justiça, julgo prejudicada a análise dessa insurgência.
+Ante o exposto, com espeque no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
