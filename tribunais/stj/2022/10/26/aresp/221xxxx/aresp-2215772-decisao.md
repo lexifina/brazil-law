@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA CHRISTINA JUNQUEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO. DÍVIDA EXECUTADA. COBRANÇA INDEVIDA. ARTIGO 940 DO CÓDIGO CIVIL. HONORÁRIOS RECURSAIS. 1.
+Na espécie, sendo o valor inicial do débito da execução de nº 52375-05 de R$ 44.800,00 (quarenta quatro mil e oitocentos reais), vê-se que o presente caso se submete à segunda parte do artigo 940 do Código Civil, porquanto a apelante/ré exigiu valor maior do que lhe é devido, ou seja, R$ 70.400,00 (setenta mil e quatrocentos reais).
+Assim, nota-se que a apelante/ré, desde 2015, vem, insistentemente, tentando cobrar valor já reconhecido por indevido, por diversas decisões nos autos de nº 52375-05, em diferentes graus de jurisdição.
+2. Majora-se a verba honorária anteriormente arbitrada no primeiro grau de jurisdição para para 12% (doze por cento) do valor da condenação. RECURSO CONHECIDO E DESPROVIDO. SENTENÇA MANTIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 940 do CC, no que concerne à inaplicabilidade do dispositivo apontado, porquanto não se trata de cobrança de valores indevidos, mas apenas a inclusão de planilha de cálculos em relação ao contrato firmado entre as parte e inadimplidos pela parte recorrida, trazendo o(s) seguinte(s) argumento(s):
+Portanto, se no momento do ajuizamento da ação de execução, havia débito inadimplido, não está configurada a má-fé exigida no artigo 940, do CC/02, sobretudo porque a execução persistiu e, os embargos opostos foram julgados improcedentes.
+Pois, o artigo institui uma penalização atribuída aquele que age de má-fé ao exigir dívida já paga, devendo ser analisado o dolo da parte autora nestes casos, o que não ocorreu nas decisões objurgadas.
+ ..
+Logo, não é possível aplicar o artigo em questão, tendo em vista, a absoluta ausência de má-fé da Recorrente que somente requereu a adição dos valores
+ ..
+Repita-se, com a devida vênia, que não se trata de cobrança de valores indevidos pela Recorrente contra os recorridos, mas sim de petição durante o curso do processo indeferidas que solicitou a simples inclusão de planilha de cálculos, uma vez, que o contrato versa sobre pagamentos sucessivos.
+Logo, não houve má-fé no requerimento, muito menos qualquer prova nesse sentido, as decisões ora objurgadas apenas retratam fatos processuais nos quais o exequente requer a inclusão de planilha do débito.
+ ..
+Da mesma forma, o artigo supracitado é cristalino ao afirmar o cabimento apenas quando a dívida estiver paga, no todo ou em parte, o que nã o ocorreu no caso em tela, uma vez, que os recorridos ainda estã o totalmente inadimplentes dos valores executados naquele processo e buscam por meio desta ação receber quantia da recorrente, em flagrante inversão de papeis.
+ ..
+O que se busca é restabelecer a vigê ncia do artigo 940, do Código Civil, uma vez, que a sentença nã o afirma o pagamento da dívida, bem como, aduz que os simples requerimentos de inclusã o indeferidos, mas pendente de trânsito em julgado, sã o aptos a trazerem à baila as determinações do artigo 940, do CC em frontal discordância com o entendimento jurisprudencial.
+ ..
+Logo, resta inaplicável o artigo 940, pois, as petições que incluíram o débito pretendiam exatamente discutir as cláusulas tangentes ao contrato firmado entre as partes, portanto, nã o podem dar ensejo à aplicaçã o do artigo supracitado.
+ ..
+Assim, resta evidente a negativa de vigê ncia ao artigo 940 do Código Civil, uma vez, que o débito nã o foi adimplido e inexiste má- fé da recorrente no pedido de inclusã o de valores, devendo o presente recurso ser provido para reformar o acórdã o e julgar improcedentes os pedidos da exordial. (fls. 1.133/1.138).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"In casu, como ressai dos autos, verifico que após o afastamento dos valores considerados como indevidos, a apelante/ré voltou a pleitear a respetiva inclusão na execução, motivando a propositura da presente ação indenizatória.
+ ..
+Na espécie, sendo o valor inicial do débito da execução de nº 52375-05 de R$ 44.800,00 (quarenta e quatro mil e oitocentos reais), vejo que o presente caso se submete à segunda parte da referida norma civil, porquanto a apelante/ré exigiu valor maior do que lhe é devido, ou seja, R$ 70.400,00 (setenta mil e quatrocentos reais).
+Assim, nota-se que a apelante/ré, desde 2015, vem, insistentemente, tentando cobrar valor já reconhecido por indevido, por diversas decisões nos autos de nº 52375-05, em diferentes graus de jurisdição. É que, apesar de reconhecido judicialmente a duplicidade de cobrança, por mais de uma vez, a parte Exequente, reiteradas vezes, compareceu nos autos da executória postulando o recebimento de quantia a maior, situação que atrai, sem sombra de dúvidas, a regra inserta no artigo 940 do Código Civil Brasileiro.
+Dessa forma, ressai a conduta irregular da apelante/ré, ao inserir nas planilhas de cálculos apresentadas nos autos de nº 52375-05, com a alteração da verdade dos fatos, para possibilitar o recebimento indevido de quantia, devendo ser aplicado o art. 940 do Código Civil, o que independe da demonstração do efetivo prejuízo ( neste sentido, STJ. 3ª Turma. REsp 1.286.704/SP, Rel. Min. Nancy Andrighi, DJe de 28/10/2013)" (fls. 1.112/1.113).
+Tal o contexto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
