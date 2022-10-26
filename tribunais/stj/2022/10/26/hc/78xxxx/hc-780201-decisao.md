@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de BRUNO AIRES CORREA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE TOCANTIS (Habeas Corpus n. 0010536-28.2022.8.27.2700).
+Consta dos autos que foi decretada a prisão em flagrante do paciente em 16/3/2022, prisão essa posteriormente convertida em preventiva, em razão de suposta prática do delito de roubo majorado.
+Buscando a revogação da custódia cautelar, a defesa impetrou prévio writ na origem. Contudo, a ordem foi denegada, conforme a seguinte ementa (e-STJ fl. 126):
+1. HABEAS CORPUS. ROUBO QUALIFICADO. CONCURSO DE PESSOAS. EMPREGO DE ARMA DE FOGO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GARANTIA DA ORDEM PÚBLICA. MANUTENÇÃO. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. PLEITO DESUBSTITUIÇÃO. GRAVIDADE DO DELITO. ORDEM DENEGADA.
+Mantêm-se a prisão preventiva, quando demonstrada a materialidade e indícios suficientes da autoria do crime de roubo qualificado pelo concurso de pessoas, consoante a constatação deque o paciente, em companhia de outro individuo, adentraram em um estabelecimento comercial e, mediante coação utilizando-se de arma de fogo, subtraíram uma motocicleta, dois telefones celulares e um aparelho de televisão.
+2. VIOLAÇÃO DA PRESUNÇÃO DE INOCÊNCIA. CONVENÇÃO AMERICANA SOBRE DIREITOS HUMANOS. PACTO DE SÃO JOSÉ DA COSTA RICA. OFENSA. INOCORRÊNCIA.
+A prisão preventiva não ofende o princípio da presunção de inocência, assegurado pela Convenção Americana Sobre Direitos Humanos e pelo Pacto São José da Costa Rica, sobretudo, porque a respectiva Convenção preceitua que ninguém será privado de sua liberdade, salvo nos casos e condições previamente fixadas pelas constituições ou pelas leis de acordo com elas promulgadas. De tal forma, que a previsão do artigo 5o, inciso LVII, da Constituição Federal, garantidora da presunção de inocência, não é afrontada pela prisão cautelar. A medida, ainda que excepcional, a teor do disposto nos incisos LIV e LXI do citado artigo, não se fundamenta em cumprimento antecipado de pena eventualmente imposta, mas em bases cautelares ante um juízo de necessidade da medida.
+3. CONDIÇÕES SUBJETIVAS FAVORÁVEIS. IRRELEVÂNCIA. GRAVIDADE DO DELITO. PERICULOSIDADE EVIDENCIADA. REITERAÇÃO DELITIVA. NECESSIDADE DE RESGUARDAR A ORDEMPÚBLICA.
+É pacifico, no âmbito da Corte Superior, que inquéritos e ações penais constituem elementos capazes de demonstrar o risco concreto de reiteração delitiva, justificando a manutenção da prisão preventiva, a fim de resguardar a garantia da ordem pública.
+Daí o presente writ, no qual a defesa alega, em suma, a insuficiência de fundamentação do decreto prisional, a ausência dos requisitos autorizadores da custódia cautelar e a desnecessidade da medida extrema.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura.
+É o relatório.
+Decido.
+A liminar em habeas corpus, bem como em seu recurso ordinário, não possui previsão legal, tratando-se de criação jurisprudencial que visa a minorar os efeitos de eventual ilegalidade que se revele de pronto.
+Em juízo de cognição sumária, não visualizo manifesta ilegalidade no ato ora impugnado a justificar o deferimento da medida de urgência.
+Isso, porque, segundo consta dos autos, "ao decretar a preventiva do paciente, o magistrado singular consignou que esta se mostra necessária para garantia da ordem pública, haja vista que, como sustentado pelo representante e pelo Ministério Público, o paciente ostenta condenação transitada em julgada por dois crimes de roubo majorado praticados em continuidade delitiva (artigo 157, §2º, incisos I e II, por 2 vezes, c. c os artigos 71, ambos do Código Penal), conforme autos de Execução Penal nº 0042279-76.2016.8.27.2729" (e-STJ fls. 124/125), circunstância que, em uma análise perfunctória e não exauriente, autoriza a decretação e manutenção da custódia preventiva.
+Assim, mostra-se imprescindível a análise dos elementos de convicção constantes dos autos, o que ocorrerá quando do julgamento definitivo.
+Ante o exposto, indefiro a liminar.
+Solicitem-se informações ao Juízo de primeiro grau - em especial o envio de cópia de eventuais decisões sobre pedidos de revogação/relaxamento da prisão preventiva - e ao Tribunal de segunda instância, ressaltando-se que esta Corte Superior deverá ser noticiada de qualquer alteração no quadro fático atinente ao tema objeto deste feito.
+Requeira-se, ainda, senha para acesso aos andamentos processuais constantes do respectivo portal eletrônico, tendo em vista a restrição determinada pela Resolução n. 121 do Conselho Nacional de Justiça.
+Oportunamente, encaminhem-se os autos ao Ministério Público Federal.
+Publique-se. Intimem-se.
