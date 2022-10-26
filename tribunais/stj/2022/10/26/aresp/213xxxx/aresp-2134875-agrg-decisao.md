@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo regimental interposto por WENDERSON APARECIDO SOARES DE OLIVEIRAcontra decisão monocrática do Ministro Humberto Martins, que não conheceu do agravo em recurso especial, nos termos da Súmula 182 do STJ.
+Sustenta o insurgente que refutou adequadamente os óbices previstos na Súmulas ns. 7 e 83 do STJ, esclarecendo que o pedido absolutório não exige o revolvimento fático-probatório e os paradigmas apresentados pela Corte estadual para inadmitir o recurso de direito estrito encontram-se superados.
+Pugna pela reconsideração da decisão agravada ou o provimento do agravo regimental.
+As contrarrazões foram apresentadas às fls.257-261.
+É o relatório.
+Decido.
+Da análise dos autos, e com fundamento na faculdade prevista no art. 258,
+§ 3º, do RISTJ, reconsidera-se a decisão agravada, passando-se à análise do recurso especial, interposto com amparo naalíneaa do permissivo constitucional.
+Os elementos existentes nos autos dão conta de que o agravante foi condenado em primeiro grau à pena de 4 anos e 6 meses de reclusãoem regime semiaberto, além do pagamento de 12 dias-multa, unitariamente no mínimo legal, como incurso no art. 15,caput, do Código Penal, o que restou mantido ante o desprovimento do apelo defensivo.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 156-159).
+Inconformada, a defesa interpôs o presente recurso especial, no qual alega violação aoart. 157,caput, do Código Penal, bem como aos arts. 226 e 386, VII, do Código de Processo Penal (e-STJ fls. 163-176).
+Afirma que trata-se a formação do édito condenatório pautou-se unicamente pelo reconhecimento pessoal realizadona fase inquisitorial e sem o atendimento dos requisitos legais.
+Quanto à suficiência de provas para a condenação do recorrente, a Corte estadual assim se manifestou (e-STJ fls. 143-146):
+Quanto à autoria, a vítima, em sede inquisitorial e em Juízo, às if. 13 e 38, declarou trabalhar como vigilante em um conjunto habitacional quando, durante a madrugada o recorrente a abordou,simulando o porte de arma de fogo por debaixo das vestes, anunciando o assalto e, consequentemente, subtraindo três aparelhos celulares - dois de sua propriedade e um da empresa para a qual prestava serviços - fugindo em seguida.
+ ..
+O ofendido não teve dúvidas em apontar o apelante como sendo o autor dos fatos narrados na denúncia, valendo destacar que, embora inicialmente o tenha reconhecido por fotografia em sede inquisitorial, fora ele, em Juízo, colocado frente a frente com o recorrente, ás fls. 37-38, demonstrando haver procedido ao reconhecimento pessoal.
+Ademais, não foi apontado pela d. Defesa qualquer vício a macular o reconhecimento fotográfico do apelante na fase das investigações policiais.
+ ..
+Em contrapartida, o apelante, extrajudicialmente e em Juízo, não soube dizer se seria ele ou não o autor do crime, já que, à época, sofria de perda de memória, devido ao uso excessivo de drogas.
+A versão apresentada mostra-se extremamente vazia e pueril, caracterizando vã tentativa de se ver livre da responsabilidade criminal.
+Amplo é o direito de autodefesa quando do interrogatório, podendo o acusado omitir e mentir e, por conseguinte, já que tais declarações estão dissociadas do acervo probatório, devem ser desconsideradas.
+Por fim, com relação aos depoimentos da testemunha, Alvimar Alves Gonçalves, na fase das investigações e em Juízo, à f. 14 e mídia envelopada à f. 48, não é verdade que tenha sido ele claudicante e contraditório quando do reconhecimento do apelante.
+Alvimar identificou o apelante com certa segurança, já que não se recordava de detalhes menores acerca das características físicas de Wenderson.
+Data venia, não se descarta um depoimento pela desatenção da testemunha a alguns poucos detalhes fisionômicos, peculiares da pessoa identificada. Não se pode exigir um retrato falado perfeito, uma memória fotográfica impressionante e extraordinária, querendo informações precisas sobre marcas de expressão facial, pintas, desenhos de tatuagens, cortes de cabelo, cor dos olhos, dentição etc.
+Logo, confirmada a autoria delituosa, não há falar em absolvição.
+Da análise dos autos, infere-se que o Tribunal de origem, após o reexame dos elementos colhidos no curso da instrução criminal, motivadamente assentou a existência de elementos aptos e concludentes para fundamentar a condenação doagravantepela conduta dolosa descrita no art. 157, caput, do CP.
+Esclareceu-se que os fatos foram relatados com fidelidade pela vítima, tanto na fase inquisitorial como em juízo, devidamente corroborada pela prova testemunhal ouvida sob o crivo do contraditório e da ampla defesa. Assim, eventual ilegalidade no reconhecimento extrajudicial não possui o condão de macular,per se, o contexto probatório erigido.
+A jurisprudência deste Sodalício entende que "é possível que o julgador, destinatário das provas, convença-se da autoria delitiva a partir de outras provas que não guardem relação de causa e efeito com o ato do reconhecimento falho, porquanto, sem prejuízo da nova orientação, não se pode olvidar que vigora no nosso sistema probatório o princípio do livre convencimento motivado." (AgRg no HC 751.629/SC. Quinta Turma. Rel. Ministro Reynaldo Soares da Fonseca. DJe 22.8.2022).
+Importa salientar que, "conforme já decidiu esta Corte, em crimes contra o patrimônio, cometidos na clandestinidade, em especial o roubo, a palavra da vítima tem especial importância e prepondera, especialmente quando descreve, com firmeza, a cena criminosa (HC n. 581.963/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 22/3/2022, DJe de 28/3/2022.)", exatamente como ficou demonstrado no caso dos autos.
+Desse modo, admitir o recurso a fim de modificar as conclusões das instâncias de origem, no intuito de abrigar o pleito defensivo de absolvição ante a ilegalidade no reconhecimento pessoal, não encontra espaço na via eleita, porquanto seria necessário a este Sodalício aprofundado revolvimento do contexto fático-probatório, providência incabível em sede de recurso especial, conforme já assentado pela Súmula n. 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO CIRCUNSTANCIADO. NULIDADE DO RECONHECIMENTO PESSOAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. CONDENAÇÃO LASTREADA EM PROVAS COLHIDAS TANTO NO INQUÉRITO QUANTO JUDICIALMENTE. VIOLAÇÃO DO ART. 155 DO CPP. AUSÊNCIA. ABSOLVIÇÃO. REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Hipótese em que não houve o prequestionamento do art. 226 do CPP - reconhecimento pessoal realizado sem observância das formalidades legais -, tendo a defesa deixado de opor embargos de declaração para exame da matéria, de forma que incidem as Súmulas 282 e 356 do STF.
+2. Não fora isso, tendo o acórdão concluído que os elementos informativos do inquérito, em especial a palavra das vítimas, foram corroborados pela prova colhida judicialmente, sob o crivo do contraditório, mormente os depoimentos dos policiais e a confissão do acusado, e que tais elementos seriam suficientes para a comprovação da autoria e da materialidade, não há falar em violação do art. 155 do CPP.
+3. Outrossim, o acolhimento da tese recursal, no sentido da insuficiência de provas, demandaria necessário revolvimento de provas, o que, conforme destacado na decisão agravada, encontra óbice na Súmula 7 desta Corte.
+4. Agravo regimental improvido.
+(AgRg no AREsp 1.924.674/DF, Sexta Turma. Rel. Desembargador Convocado Olindo Menezes, DJe 7.4.2019)
+No mesmo diapasão:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. CRIME DE TRÁFICO DE DROGAS. PRETENDIDA ABSOLVIÇÃO OU DESCLASSIFICAÇÃO DO DELITO. INVIABILIDADE. CONTUNDENTE ACERVO PROBATÓRIO PARA LASTREAR A CONDENAÇÃO. REVOLVIMENTO FÁTICO E PROBATÓRIO NÃO CONDIZENTE COM A VIA ESTREITA DO MANDAMUS. PRECEDENTES. DOSIMETRIA. TERCEIRA FASE. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. PACIENTE REINCIDENTE. EXPRESSA VEDAÇÃO LEGAL. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+- Ademais, segundo a jurisprudência consolidada desta Corte, o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso. Precedentes.
+- A Corte estadual rechaçou a aplicação da causa especial de diminuição de pena, asseverando que tratando-se de pessoa reincidente, resta inaplicável o § 4º do art. 33 da Lei nº 11.343/2006 (eSTJ, fl. 37). Desse modo, há óbice legal ao reconhecimento do tráfico privilegiado, ante a ausência de um dos requisitos exigidos para a concessão da benesse que é a primariedade. - Agravo regimental não provido. (AgRg no HC 759.876/MT, Quinta Turma. Rel. Ministro Reynaldo Soares da Fonseca. DJe 22.8.2022)
+Por tais razões,reconsidero a decisão impugnada e conheço do agravo para não conhecer do recurso especial, nos termos do art. 34, VII, c/c o art. 253, parágrafo único, II,a, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
