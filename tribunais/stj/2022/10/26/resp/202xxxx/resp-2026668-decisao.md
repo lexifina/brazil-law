@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art.105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Geraisque deu provimento ao recurso da defesa, para extinguir a punibilidade do recorrido, em razão dointegral cumprimento da pena, independente do pagamento da multa, porquanto hipossuficiente, ao abrigo do art.66, inciso II, da Lei de Execuções Penais.
+Em suas razões, sustenta o recorrente que a"Câmara Criminal desconsiderou que o não pagamento da multa penal, aplicada concomitantemente à pena privativa de liberdade, obsta a extinção da punibilidade, salvo se houver inequívoca comprovação da hipossuficiência do reeducando" (e-STJ fl. 151).
+Destaca que, "tratando-se a pena de multa, assim como a privativa de liberdade, sanção de caráter penal, o condenado tem o dever jurídico, e não a faculdade, de pagar integralmente o seu valor, salvo quando demonstrada a sua absoluta impossibilidade econômica em quitá-la, ainda que parceladamente. Entendimento contrário configuraria tratamento privilegiado em relação ao sentenciado que espontaneamente paga a sanção pecuniária" (e-STJ fl. 151).
+Diante dessas considerações, pede(e-STJ fl. 156):
+a) o conhecimento do presente recurso especial, pois foram atendidos todos os pressupostos de admissibilidade aplicáveis, sendo a via adequada para enfrentamento da violação ao artigo 51 do Código Penal; e, em virtude da rejeição dos embargos declaratórios sem que fossem sanados os vícios do acórdão recorrido, aos artigos 619 do Código de Processo Penal e 1.022, caput, inciso II do Código de Processo Civil, c/c 3º do Código de Processo Penal; e
+b) o provimento do presente recurso para que seja reformada a decisão do Tribunal a quo, revogando-se a decisão que decretou a extinção da punibilidade do sentenciado, por não ter sido adimplida a pena de multa a ele imposta, e condicionando-se a extinção ao adimplemento da pena de multa, ainda que de forma parcelada, ou à comprovação inequívoca da incapacidade econômica do recorrido para tanto.
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do presente inconformismo.
+É o relatório.
+Decido.
+Segundo recente decisão do Superior Tribunal de Justiçaproferida em recurso especial repetitivo, firmou-se a tese de que, "na hipótese de condenação concomitante a pena privativa de liberdade emulta,o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento daextinçãodapunibilidade" (REsp n. 1.785.383/SP, relator Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 24/11/2021, DJe 30/11/2021).
+No caso, trata-se de réu assistido pela Defensoria Pública, cuja pena privativa de liberdade já foi integralmente cumprida.
+Tal cenário indica a suahipossuficiência,razão pela qual não observo a violação da legislação federal infraconstitucional suscitada na inicial.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
