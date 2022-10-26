@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo interposto porEneida Maria de Aguiar Saldanha contra decisão da Corte de origem que não admitiu o recurso especial em razão daincidência das Súmulas 282 e 356 do STF.
+O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 385):
+AÇÃO RESCISÓRIA. ADMINISTRATIVO.SERVIDOR PÚBLICO. LEI ESTADUAL N" 12.386/94. GRATIFICAÇÃO DE INCENTIVO PROFISSIONAL.EXTINÇÃO. DIREITO ADQUIRIDO À REGIMEJURÍDICO. INEXISTÊNCIA. REDUÇÃO DOSVENCIMENTOS. NÃO OCORRÊNCIA. ART. 37, XV, CF. PRECEDENTES. AÇÃO PROCEDENTE.
+1. Trata-se de ação rescisória para desconstituir acórdão que declarou ser direito adquirido dos réus a percepção da gratificação de incentivo profissional (GIP), instituída pela Lei Estadual nº 12.122/93;
+2. A Lei Estadual nº 12.386/94 aprovou o plano de cargos ecarreiras dos grupos ocupacionais de atividade de nível superior de servidores do Estado do Ceará, extinguiu a gratificação de incentivo profissional, os incorporou aos seus vencimentos e estipulou ser incompatível a percepção da gratificação com o plano de cargos e carreiras  art. 52, inciso I e parágrafo único. Inocorrência de redução de vencimentos. Respeito a garantia constitucional da irredutibilidade de vencimentos  art. 37, XV da CF;
+3. Não há direito adquirido à regime jurídico. O Estado pode alterar legislativamente o regime jurídico de seus servidores, inexistindo a garantia de que continuarão sempre disciplinados pelas disposições vigentes quando de seu ingresso;
+4. Violação ao art. 52, inciso I e parágrafo único da Lei Estadual n" 12.386/94. Ação Rescisória julgada procedente.
+Embargos de declaração rejeitados.
+No recurso especial, a recorrente alega violação doartigo 485, VII, do CPC/1973 (art. 966, VII, CPC/2015), ao argumento de que "não é necessário reexame das provas (folhas de pagamentos dos réus às fls 87 a 89) - o que obstacularizaria o conhecimento do presente Recurso pelo Enunciado N. 7 da Súmula deste STJ - para concluir-se com absoluta certeza que os documentos trazidos aos autos na Rescisória - fundamentos de sua ratio decidendi - a saber, folhas de pagamentos dos réus à época da Ação Rescindenda, jamais podem ser considerados documentos novos, de cuja existência ignorava ou não pode fazer uso, uma vez que seria incompreensível considerar que o Estado do Ceará não dispusesse, à época, das folhas de pagamento da Recorrente.Tratam-se, por mais completa obviedade, de documentos Absolutamente disponíveis pelo recorrido à época da sentença rescindenda.Portanto, o que o Estado do Ceará claramente pretende no presente caso trata-se de mera intenção de reexame de matéria fática, buscando utilizar a Ação Rescisória como substitutivo recursal para reparar eventual injustiça da decisão rescindenda, o que se demonstra inadmissível pela via proposta" (fl. 705).
+Comcontrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A insurgência não merece prosperar.
+Com efeito, no que diz respeito à tese recursal vinculada à suposta violação do artigo 485, VII, do CPC/1973 (art. 966, VII, CPC/2015),verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação do aludido dispositivo legal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AÇÃO RESCISÓRIA. VIOLAÇÃO DOARTIGO485, VII, DO CPC/1973 (ART. 966, VII, CPC/2015). AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DORECURSO ESPECIAL.
