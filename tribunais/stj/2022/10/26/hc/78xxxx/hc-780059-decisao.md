@@ -1,0 +1,34 @@
+DECISÃO
+JOCIMAR CELESTINO DE SOUZAalega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido peloTribunal de Justiça do Estado do Rio de Janeirono Agravo em Execução n. 5006724-16.2022.8.19.0500.
+A impetrante postula a concessão daprogressão ao regime aberto em favor do paciente, ao argumento, em síntese, de que estariam preenchidos os requisitos necessários para tanto.
+Decido.
+O Magistrado da execução indeferiu pedidode progressão ao regime aberto, formuladoem favor do paciente, em decisão assim fundamentada (fls. 25-26, destaquei):
+Após análise dos autos, verifico que, no presente caso, assiste razão ao Ministério Público.
+O apenado praticou os crimes porte ilegal de arma de fogo de uso permitido, porte ilegal de arma de uso restrito, corrupção de menores e tráfico de drogas sendo submetido à pena privativa de liberdade de 10 anos e 06 meses de reclusão, com término de pena previsto para 16/12/2024.
+Além disso, o apenado, agraciado com livramento condicional em julho de 2020, foi novamente preso em 25/09/2020, originando o processo criminal n. 0021086-82.2020.8.19.8.0014, razão pela qual o benefício encontra-se suspenso.
+O sistema progressivo de cumprimento de pena exige atenção e cautela na concessão de benefícios, mormente quando se trata de apenado condenado pela prática de crime hediondo, salientando-se que o cumprimento da reprimenda penal visa, entre seus objetivos, a resguardar a segurança da sociedade.
+Verifica-se que o caso analisado, pelas suas singularidades, demanda especial rigor na aferição dos requisitos subjetivos e concessão de benefícios que propiciarão maior contato do apenado com a sociedade, de forma plena, ainda que monitorado.
+Pelo exposto, embora a TFD não registre faltas disciplinares nos últimos 12 meses, este juízo entende que, dada a gravidade em concreto dos fatos, a reiteração criminosa e o fato do apenado ainda não ter usufruído de saída temporária, a fim de verificar o seu comportamento de forma gradual em sociedade, entendo não estar preenchido totalmente o requisito subjetivo para um benefício que exige alto grau de comprometimento e responsabilidade.
+ ..
+Diante disso, acolho o parecer ministerial e INDEFIRO, por ora, o pleito de progressão de regime, por não estarem preenchidos os requisitos subjetivos autorizadores para concessão do benefício, na forma do artigo 114, II, da LEP.
+O Tribunala quoratificou odecisumsupra, oportunidade na qual consignou (fl. 62):
+ ..  infere-se que o apenado se utilizou do livramento condicional galgado e teria cometido novo delito, motivo pelo qual se faz ausente o necessário mérito carcerário para a progressão de regime, à luz do que dispõe o artigo 52, da Lei de Execução Penal.
+O comportamento do agravante se caracteriza, justamente, por sua incapacidade de adaptar-se a regime menos gravoso, cuja resposta penal deve merecer do Estado atuação proporcional ao mérito do apenado, cujo comportamento não se compatibiliza com a progressão para regime mais benéfico.
+A preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  .. e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto.Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez quenão refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Todavia, quanto ao fundamento atrelado ao histórico disciplinar, urge consignar que as Instâncias de origem ressaltaram que o reeducando teria cometido novo delito quando beneficiado, anteriormente, com o livramento condicional, de modo a macular o preenchimento do requisito de ordem subjetiva.
+Assim, o sentenciado não apresenta comprovação de comportamento satisfatório durante a execução da pena de maneira a ensejar o deferimento das benesses.
+Por essas razões, não constato nenhuma ilegalidade na decisão proferida pela Corte de origem, uma vez que os benefícios em tela foram indeferidos com base em elementos concretos dos autos que, efetivamente, evidenciam a ausência do cumprimento do requisito subjetivo.
+Nesse sentido:
+ ..
+II - A jurisprudência desta Corte Superior é uníssona no sentido de queo cometimento de faltas graves ou de novos crimes no curso da execução da reprimenda constitui fundamento idôneo para negar a progressão de regime, ante a ausência de preenchimento do requisito subjetivo.
+ ..
+(AgRg no HC n. 665.982/SP, Rel. MinistroJesuíno Rissato(Desembargador Convocado do TJDFT), 5ª T., DJe 24/8/2021, destaquei)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL.INDEFERIMENTO DE PEDIDO DE PROGRESSÃO AO REGIME SEMIABERTO. COMETIMENTO DE NOVO DELITO PELO EXECUTADO, QUANDO AGRACIADO, ANTERIORMENTE, COM O REGIME ABERTO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. ..  AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Reconhecida por esta Corte, em decisão que transitou em julgado em 17/03/2022, aausência de constrangimento ilegal decorrente do indeferimento de progressão ao regime semiaberto a executado que, quando beneficiado anteriormente com o regime aberto, voltou a praticar novo delitode tráfico de entorpecentes, a impetração de novo habeas corpus, desta vez por patrono constituído pelo executado, insurgindo-se contra os mesmos julgados de 1º e 2º grau e formulando o mesmo pedido com base em argumentos em tudo similares aos já refutados por esta Corte, é forçoso reconhecer que se trata de mera reiteração de insurgência já apreciada e insuscetível de novo exame por este Tribunal Superior, diante do esgotamento da prestação jurisdicional devida.
+3. Agravo regimental desprovido.
+(AgRg no HC 730.736/SP, Rel. MinistroReynaldo Soares da Fonseca, 5ª T., DJe 11/4/2022)
+Por fim, ressalto que, sob o prisma do entendimento adotado por esta Corte Superior de Justiça acerca do indeferimento de benefícios no curso da execução penal em casos como o dos autos, não há razões para o processamento desta interposição, notadamente porque expressamente autorizado - pelo inciso XX do art. 34 do Regimento Interno deste Superior Tribunal - que o Relator decida o habeas corpus, monocraticamente, quando a decisão impugnada se conformar com a jurisprudência dominante acerca do tema.
+À vista do exposto,denego a ordemde habeas corpus,in limine.
+Publique-se e intimem-se.
