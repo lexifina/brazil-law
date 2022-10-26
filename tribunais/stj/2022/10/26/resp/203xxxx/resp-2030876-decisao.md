@@ -1,0 +1,5 @@
+DECISÃO
+Vistos.
+Verifico que a discussão envolve tema afetado por esta Corte Superior ao regime de recursos repetitivos já sob a vigência do Código de Processo Civil de 2015: "definir se o alienante de veículo automotor incorre, solidariamente, na responsabilidade tributária pelo pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA, quando deixa de providenciar a comunicação da venda do bem móvel ao órgão de trânsito competente" - (Tema 1.118: REsps. 1.881.788/SP, 1.937.040/RJe 1.953.201/SP), com a determinação de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional, a teor do disposto no art. 1.037, II, do mencionado diploma.
+Posto isso, DETERMINO a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos recursos repetitivos, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Publique-se e intimem-se.
