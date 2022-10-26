@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de Minas Gerais, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de Minas Geraisno Agravo em Execução Penal n.1.0231.05.049035-9/003, assim ementado(fl. 64):
+AGRAVO EM EXECUÇÃO PENAL - REINCIDÊNCIA - RECONHECIMENTO PELO JUÍZO DA EXECUÇÃO - IMPOSSIBILIDADE - OFENSA AOS PRINCÍPIOS DA LEGALIDADE, DA INDIVIDUALIZAÇÃO DA PENA E À COISA JULGADA.
+Se na sentença não tiver sido reconhecida a agravante da reincidência, é vedado ao juízo da execução reconhecê-la ao apenado, sob pena de ofensa aos princípios da legalidade, da individualização das penas e da coisa julgada.
+Os embargos de declaração opostos pelo recorrenteforam rejeitados, conforme a seguinte ementa (fl. 84):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO EM EXECUÇÃO - INEXISTÊNCIA DE CONTRADIÇÃO, OMISSÃO, OBSCURIDADE OU AMBIGUIDADE NO ACÓRDÃO - REDISCUSSÃO DA MATÉRIA - INADMISSIBILIDADE.
+Não se admitem embargos opostos com o fim de rediscutir questão claramente decidida no acórdão, para modificá-la em sua essência, tampouco para buscar esclarecimentos sobre o convencimento da Turma Julgadora. Mesmo na hipótese de embargos para pré-questionamento da matéria, necessária éa observância dos limites traçados pela lei.
+No presente recurso especial, o Ministério Público aponta violação dos arts. 61, I, 63 e 64 do Código Penale 66 da Lei de Execução Penal porque, apesar de não rebater o fato de o apenado ser efetivamente reincidente, a Corte de origem entendeu que o seu reconhecimento não pode se dar em sede de cumprimento de sentença (fl. 99).
+Assevera que,ao contrário do entendimento esposado pelo Tribunal de origem, a reincidência passou a ser considerada, no direito penal, como um instituto individualizador da pena, a distinguir o agente que partiu um único delito daquele que, usualmente, frequenta o código penal, e que, por isso, deve receber uma atenção especial do Estado (fl. 99).
+Afirma queo "estado de reincidente"já está caracterizado - situação que se aplica ao apenado, o que, inclusive, não é refutado pelo Tribunal de origem -, não sendo instituto de utilização somente na sentença penal (fl. 100).
+Aduz que o juízo da execução penal, ao reconhecer a reincidência, não está alterando a "coisa julgada", não está agravando a sanção do agente, tampouco está desvirtuando a sua competência. Está, isso sim, é executando seu mister, comfincas nos princípios da isonomia e da individualização da pena, para que, no cumprimento da reprimenda pelo recorrido, e de responsabilidade do Juízo da execução (art. 66 da LEP), seja o instituto utilizado no exame para a concessão de benefícios executórios. Portanto, a conduta do magistrado está compreendida nas disposições do artigo 66 da Lei 7.210/84, pelo que não se pode alegar quebra da legalidade ou, ainda, excesso de execução (fls. 100/101).
+Ressalta que a reincidência é causa genérica a ser considerada no momento da aplicação da pena. Já no procedimento da execução da pena, a reincidência é fato que não depende de declaração alguma, funcionando como requisito objetivo para efetivação do cumprimento da reprimenda, não havendo qualquer alteração na reprimenda fixada pelo juízo de conhecimento ou do regime inicial de cumprimento da pena. Ao Juízo da Execução é dado analisar os requisitos objetivos para o aferimento de benefícios no cumprimento da penasendo-lhe permitido o reconhecimento da reincidência do reeducando para fins de fracionar o período de cumprimento da pena para progressão de regime (fls. 105/106).
+Ao final da peça recursal, requer o provimento da insurgência para que seja reconhecida a reincidência do condenado no curso da execução pena.
+Oferecidas contrarrazões (fls. 111/116), o recurso especial foi admitido na origem (fls. 121/123).
+O Ministério Público Federal opina pelo provimento da insurgência (fl. 141):
+RECURSO ESPECIAL. EXECUÇÃO PENAL. REINCIDÊNCIA NÃO RECONHECIDA PELOS RESPECTIVOS JUÍZOS DE CONDENAÇÃO. PRETENSÃO DO MINISTÉRIO PÚBLICO, ORA RECORRENTE, PARA QUE SEJA OBSERVADA A REINCIDÊNCIA PARA BENEFÍCIOS DE EXECUÇÃO PENAL. A LEI DE EXECUÇÃO PENAL NÃO FAZ DISTINÇÃO ENTRE REINCIDÊNCIA COMUM OU ESPECÍFICA E TAMBÉM NÃO SE MOSTRA POSSÍVEL APLICAR FRAÇÃO DE PRIMARIEDADE PARA UM DELITO E REINCIDÊNCIA PARA OUTRO POR SER CONDIÇÃO PESSOAL DO AGENTE CONFORME PRECEDENTES DESSE SUPERIOR TRIBUNAL DE JUSTIÇA. PELO PROVIMENTO DO RECURSO ESPECIAL.
+1 - Inicialmente, verifica-se que o recurso interposto não busca o reconhecimento da reincidência penal para majorar as penas aplicadas ao Recorrido, mas apenas para que seja respeitada a fração para benefícios de execução de pena, com utilização das frações aplicadas aos reincidentes.
+2- Assim, uma vez cometido ao menos um delito após a sentença penal condenatória, é devida a observância da utilização das frações de benefícios para a reincidência, sob risco de violação ao artigo 111 da Lei nº 7210/1984e 63 do Código Penal.
+3 - O Ministério Público Federal requer o conhecimento do recurso especial e, no mérito, o seu provimento para que seja reformada a decisão de segundo grau, no sentido que seja observada a reincidência penal, para fins de benefícios.
+É o relatório.
+Para elucidação do quanto requerido, extraem-se do acórdão recorrido os seguintes fundamentos(fls. 65/67- grifo nosso):
+ ..
+O reeducando ostenta três guias de execução e foi considerado primário nas duas primeiras (guias dos seq. 1,1 e 1.8 do SEEU) e reincidente na terceira (guias do seq. 1.30).
+À ausência de reconhecimento da agravante da reincidência nas sentenças relativas às guias 01 e 02, a magistrada não poderia a reconhecer, sob pena de ofensa à coisa julgada.
+A uma, porque o Código Penal determina em seu art. 76 que, no concurso de infrações, executar-se-á primeiramente a pena mais grave. Ora, se as penas serão executadas segundo a gravidade, é evidente que conferir tratamento uniforme às reprimendas violaria o princípio da legalidade (art. 5º, II, da CF).
+A duas, porque o tratamento uniforme das penas para fim de execução penal, independentemente da natureza da infração penal praticada (comum ou hediondo) ou da condição pessoal do condenado (primário ou reincidente) violaria o princípio constitucional da individualização das penas (artigo 5º, XLVI, da CF) e a coisa julgada (artigo 5º, XXXVI, da CF).
+Nesse sentido já se manifestou o Superior Tribunal de Justiça:
+ ..
+Assim, a alegação do Parquet de que a reincidência, na execução penal, deve ser aplicada em toda a pena unificada não prospera.
+ ..
+Observa-se, do trecho acima, que a Corte de origem entendeu não ser possível considerar a reincidência do réu sobre toda a pena unificada, porquanto tal circunstância só foi reconhecida na fase de conhecimento de uma das condenações.
+No entanto, a Terceira Seção desta Corte, em sessão realizada em 27/11/2019, pacificou o entendimento de que a intangibilidade da sentença penal condenatória transitada em julgado não retira do Juízo das Execuções Penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu (EREsp n. 1.738.968/MG, Ministra Laurita Vaz, Terceira Seção, DJe 17/12/2019).  ..  Assim, o Juízo da execução deve considerar as condições pessoais do apenado, inclusive a reincidência, para fins de concessão dos benefícios da execução, ainda que não reconhecidas pelo Juízo da condenação (AgRg no HC n. 556.371/SP, de minha relatoria, Sexta Turma, DJe 30/6/2020 - grifo nosso).
+Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. CONDENADO REINCIDENTE. EFEITOS DA REINCIDÊNCIA SOBRE AS CONDENAÇÕES ANTERIORES. UNIFICAÇÃO DAS PENAS. ART. 84 DO CP. PRECEDENTES.
+1. O acórdão impugnado está em harmonia com a jurisprudência desta Corte, na linha de que a não incidência da reincidência na fase de conhecimento não impede o reconhecimento dos seus efeitos na fase executória.
+2. Agravo regimental improvido.
+(AgRg no HC n. 515.698/MS, de minha relatoria, Sexta Turma, DJe 14/9/2020)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para possibilitar que o Juízo da execução considere a reconhecida reincidência do recorridono curso da execução penal.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DOS ARTS. 61, I, 63 E 64DO CPE 66 DA LEP. REINCIDÊNCIA NÃO RECONHECIDA NA FASE DE CONHECIMENTO. CIRCUNSTÂNCIA QUE PODE SER SOPESADA NA EXECUÇÃO. JURISPRUDÊNCIA DESTA CORTE.
+Recurso especial provido nos termos do dispositivo.
