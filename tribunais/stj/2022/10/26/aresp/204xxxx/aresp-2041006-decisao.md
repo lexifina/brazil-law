@@ -1,0 +1,48 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por DISNEY ENTERPRISE INCcontra decisão do Tribunal de justiça do Estado de SãoPauloque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fl. 823):
+Cumprimento de Sentença - Decisão que rejeita impugnação - Inconformismo - Acolhimento - Nulidade do ato citatório realizado na ação de conhecimento - Impugnante que foi identificada no polo passivo de forma precária, por nome que não pode ser considerada o nome fantasia da instituição - Associação destinada a ensino que possui espaço de teatro que foi locado a terceiro - Realização de espetáculo em tal período que ensejou condenação por violação de direito autoral - Associação proprietária do prédio que demonstrou que não estava na posse do imóvel quando a citação foi recebida - Inviabilidade da aplicação da teoria da aparência - Reconhecimento da nulidade do ato citatório - Decisão reformada para acolher a impugnação - Recurso provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: art. 319, II e§2º, do CPC e art. 110 da Lei n. 9610/98.
+Pede a reforma do acórdão por entender, em síntese, que: (i) a Teoria da Aparência deveria ter sido aplicada ao caso em tela, pois a citação do empreendimento envolvido foi feita em seu estabelecimento comerciale sem ressalvas quanto a não representação do citado e (ii) "uma vez assegurado o uso exclusivo de direito de propriedade intelectual da DEI - ora recorrente - sobre os personagens "Frozen", passível e imperiosa a manutenção do título executivo formado contra a Recorrida, condenada solidariamente ao pagamento dos danos pela violação da propriedade exclusiva da Recorrente" - fl. 859.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Extrai-se dos autos que a Teoria da Aparência não poderia ser aplicada ao caso em tela, tendo em vista que a citação foi feita em local diverso do endereçoda empresa que administra o teatro, além deste estar locado a terceiro à época do ato processual (fls. 827/828):
+No caso, a ação foi ajuizada contra "TEATRO RESSURREIÇÃO", anotando-se que a qualificação era ignorada, tendo constado, apenas, o endereço do teatro, cuja numeração se situa em local diverso da associação agravante, ainda que na mesma rua.
+Neste ponto, deve-se atentar para o fato de que, em tese, um teatro é apenas um espaço ou local físico e não uma empresa com "nome fantasia".
+A agravante, associação proprietária do prédio onde funciona o teatro (entre outras atividades), demonstrou que na época em que ocorreu a citação o espaço estava locado a Robson Vellado de Souza.
+Nota-se, no contrato de locação juntado a fls.92/94, que a instituição qualifica-se como APER- Colégio Ressurreição - São Paulo, situa-se na Rua dos Jornalistas, 157 e o contrato tem por objeto o teatro, camarim, pátio do colégio e 3 salas.
+Independentemente da discussão acerca da responsabilidade do teatro pela peça teatral - que não a matéria em foco neste recurso - incumbe ao autor a correta identificação do polo passivo, mormente quando se trata de pessoa jurídica.
+A agravada, contudo, não identificou adequadamente a associação, seja quanto ao nome, CNPJ ou representante legal.
+Inviável, desse modo, considerar-se válida a citação, apenas porque o mandado foi recebido no endereço indicado (Rua dos Jornalistas, 123, onde funciona o teatro).
+A agravante trouxe, ainda, todas as fichas cadastrais de seus funcionários, de forma a demonstrar que a pessoa que assinou a contrafé não pertence aos seus quadros.
+Outrossim, comprovou que não estava na posse do imóvel (parte onde funciona o teatro) quando a citação foi realizada.
+Assim é que o recebimento do mandado destinado ao "Teatro Ressurreição" por alguém que ali se encontrava, em razão de relação existente com o locatário ou sublocatário, não pode ser considerado como ato citatório válido em desfavor da associação ora agravante.
+A partir da doutrina e da jurisprudência sobre essa teoria, conclui-se que devem ser preenchidos dois requisitos básicos para que a citação seja considerada válida: 1º) entrega do mandado ou da carta de citação no endereço da pessoa jurídica; e 2º) recebimento do mandado ou da carta por funcionário da pessoa jurídica, mesmo que não seja seu representante, não faça qualquer ressalva quanto à inexistência de poderes de representação.
+Extrai-se dos autos que nenhum dos referidos requisitos foi preenchido, pois a citação não foi feita no endereço da sede da pessoa jurídica e tampouco foi recebida por funcionário da empresa, mesmo que sem poderes de representação, o que foi comprovado nos autos.
+Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CITAÇÃO. PESSOA JURÍDICA. MUDANÇA DE ENDEREÇO COMUNICADA À JUNTA COMERCIAL. AUSÊNCIA DE ATUALIZAÇÃO DO ENDEREÇO NO SÍTIO ELETRÔNICO DA INTERNET. CARTA CITATÓRIA ENTREGUE NO ENDEREÇO ANTIGO. NULIDADE. RECONHECIMENTO. INAPLICABILIDADE DA TEORIA DA APARÊNCIA NA HIPÓTESE.
+1. Controvérsia em torno da validade da citação de pessoa jurídica em seu antigo endereço, cuja mudança fora comunicada à Junta Comercial, mas sem alteração no sítio eletrônico da empresa.
+2. Extrema relevância da regularidade formal do ato citatório por sua primordial importância na formação da relação processual.
+3. Não preenchimento dos requisitos para aplicação da teoria da aparência.
+4. Precedentes da Terceira Turma do STJ.
+5. RECURSO ESPECIAL PROVIDO.
+(REsp n. 1.976.741/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 26/4/2022, DJe de 3/5/2022.)
+Assim, não há que se falar em reforma do acórdão recorrido.
+No que concerne a suposta violação ao art. 110 da Lei n. 9610/98 verifica-se, da leitura do acórdão recorrido, que o Tribunal de origem - apesar de opostos embargos declaratórios pela parte Recorrente - não se manifestou acerca dos mencionados argumentos trazidos nas razões do recurso especial, se limitando a afirmar que "mormente a invocação do art. 110, da Lei n. 9.610/96, trata-se dematéria que diz respeito ao mérito da demanda e não ao vício processual reconhecido" - fls. 1779/1780.
+Motivo que inviabiliza o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice disposto na Súmula 211 do Superior Tribunal de Justiça.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REIVINDICATÓRIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRESCRIÇÃO. SUSPENSÃO. OBRIGAÇÃO INDIVISÍVEL. COMPROVAÇÃO DO DOMÍNIO. DENUNCIAÇÃO À LIDE. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+4. Reapreciar as conclusões do aresto impugnado encontra óbice na Súmula nº 7 do Superior Tribunal de Justiça diante da necessidade de reexame das circunstâncias fáticas da causa.
+5. Agravo interno não provido. (AgInt no AREsp 704.352/MG, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/02/2018, DJe 14/02/2018) - g.n.
+Com fundamento noart. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 3%, totalizando 13% sobre o valor da execução, observada a eventuale anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. NULIDADE DO ATO CITATÓRIO. CITAÇÃO FEITA EM ENDEREÇO DIVERSO DA SEDE DA EMPRESA E A PESSOA ESTRANHA AO QUADRO DE FUNCIONÁRIOS DA MESMA. ACÓRDÃO EM HARMONIA COM A JURISRUDÊNCIA DESTA CORTE. PRECEDENTE. VIOLAÇÃO AO ART. 110 DA LEI N. 9610/98. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA PELA CORTE DE ORIGEM. SÚMULA 211/STJ.
+1. Devem ser preenchidos dois requisitos básicos para que a citação seja considerada válida: 1º) entrega do mandado ou da carta de citação no endereço da pessoa jurídica; e 2º) recebimento do mandado ou da carta por funcionário da pessoa jurídica, mesmo que não seja seu representante, não faça qualquer ressalva quanto à inexistência de poderes de representação. Extrai-se dos autos que nenhum dos referidos requisitos foi preenchido, pois a citação não foi feita no endereço da sede da pessoa jurídica e tampouco foi recebida por funcionário da empresa, mesmo que sem poderes de representação, o que foi comprovado nos autos.
+2.No que concerne a suposta violação ao art. 110 da Lei n. 9610/98verifica-se, da leitura do acórdão recorrido, que o Tribunal de origem - apesar de opostos embargos declaratórios pela parte Recorrente - não se manifestou acerca dos mencionados argumentos trazidos nas razões do recurso especial, motivo que inviabiliza o requisito do prequestionamento, indispensável ao conhecimento do recurso especial. Incide, à espécie, o óbice disposto na Súmula 211 do Superior Tribunal de Justiça.
+AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL NA PARTE CONHECIDA.
