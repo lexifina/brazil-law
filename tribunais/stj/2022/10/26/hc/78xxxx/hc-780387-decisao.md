@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de BIANKA GONÇALVES DE OLIVEIRA apontando como autoridade coatora a 11ª Câmara Criminal doTribunal de Justiça do Estado de São Paulo.
+Segundo consta dos autos, a paciente foi presa em flagrante no dia 22/3/2021 (e-STJ fls. 25/28),denunciada pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 23/24). O Juízo a quo decretou a prisão preventiva da acusadaapós o descumprimento das medidas cautelares alternativas (e-STJ fls. 29/31).
+Na presente oportunidade, alega a defesa constrangimento ilegal, uma vez que " a decisão que revogou a liberdade provisória e decretou a prisão preventiva utilizou-se de argumentos genéricos, com base na gravidade abstrata do delito de tráfico de drogas, aludindo o fato de a paciente ter se mudado de endereço sem prévia comunicação ao juízo como justificativa a exceção da medida extrema" (e-STJ fl. 6).
+Sustenta que "" a  paciente possui filho menor, que possui apenas 2 anos de idade, de modo que, conforme determinação expressa da legislação processual penal, possui o evidente direito à substituição da prisão preventiva pela prisão domiciliar" (e-STJ fl. 11).
+Diante disso, pleiteia, liminarmente e no mérito, a concessão de ordem para revogar a prisão preventiva da paciente, mediante a imposição de medidas cautelares alternativas, inclusive a segregação domiciliar, expedindo-se o alvará de soltura (e-STJ fl. 21).
+É o relatório. Decido.
+Não há como prosseguir a irresignação. Isso porque o writ foi deficitariamente instruído com as peças indispensáveis à compreensão da controvérsia, notadamente o inteiro teor do ato praticado pelo Tribunal Estadual.
+É de se ressaltar que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente.
+Ora, "a jurisprudência do Supremo Tribunal Federal é firme no sentido de inadmitir o conhecimento de habeas corpus, não instruídos os autos com peça necessária à confirmação da efetiva ocorrência do constrangimento ilegal" (AgRg no HC n. 168.676/BA, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 29/11/2019, DJe 11/12/2019).
+No mesmo sentido, esta Corte assentou que "em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado" (AgRg no HC n. 549.417/SC, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 10/12/2019, DJe 17/12/2019).
+Ante o exposto, com fundamento no art. 34, XX, do RISJT, não conheço do presente habeas corpus.
+Intimem-se.
