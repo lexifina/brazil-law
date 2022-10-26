@@ -1,0 +1,50 @@
+DECISÃO
+LUCAS PERES DA SILVA interpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (Apelação Criminal n. 0001542-45.2019.8.16.0041).
+Nas razões do recurso especial, a defesa aponta violação dos arts. 50, § 1º, da Lei n. 11.343/2006, 158 e 159, ambos do CPP.
+Argumenta, inicialmente, que, "Analisando o contido no acórdão resta incontroverso que não houve apreensão de droga e a confirmação de sua condenação se deu pelo laudo pericial de uma conversa via whatsapp. Para que haja a condenação de tal delito deve haver drogas para que haja materialidade. Ora, se não há drogas, impossível se falar na aplicação de tal dispositivo, sendo sua aplicação uma violação ao próprio dispositivo" (fl. 1.648).
+Sustenta ainda que, "Autorizado pelo juízo monocrático o aparelho celular foi submetido para análise do Delegado de Polícia, que inclusive foi testemunha de acusação, não sendo submetido a perícia pelo Instituto de Criminalística, tampouco Departamento de Inteligência da Polícia Civil. O que se tem nos autos, na transcrição do referido laudo nada mais é que cópia de prints extraindo do whatsapp. Ou seja, as conversas e os áudios foram transcritos pelo Delegado de Polícia e prints da tela colacionado ao laudo e a este expediente absolutamente inválido foi conferido o status de laudo pericial" (fl. 1.651).
+E concluiu: "resta incontroverso o prejuízo ao Recorrente, uma vez não havendo apreensão de drogas, logo ausente laudo toxicológico, não há prova de materialidade apta a sustentar sua condenação de mais de 08 anos de prisão" (fl. 1.654).
+Decisão de admissibilidade àsfls. 1.664-1.666.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (fls. 1.744-1.756).
+Decido.
+O Juiz sentenciante, ao entender pela prática do crime de tráfico de drogas, cometido pelorecorrente, assim fundamentou, no que interessa (fls. 1.215-1.221, destaquei):
+A materialidade do fato aparentemente criminoso descrito na denúncia restou comprovada por meio do laudo de perícia técnica em equipamento móvel (mov. 5.23, pág.7.26) e pela prova oral colhida em juízo.
+ .. .
+Narra a denúncia, em síntese, que em 28/2/2019 o denunciado guardou e manteve em depósito, na residência de sua genitora Ângela Aguilera Peres Gino, aproximadamente 314 (trezentos e quatorze) gramas de "crack", droga que lhe foi devolvida pelo adolescente L.E.C., por intermédio dos adolescentes J.W.M.S e G.O.S.
+Por oportuno, destaco que, a quantia da substância entorpecente que foi entregue na residência de Ângela, não cuida-se de 314 gramas, mas sim 31.4 gramas, conforme se depreende dos diálogos, bem como da fotografia enviada. Cuidando-se, pois, de erro material, não acarreta prejuízo às partes.
+ .. .
+O Delegado de Polícia, conforme se observa da transcrição colacionada na primeira conduta, dispôs sobre a ocorrência, enfatizando que LUCAS teria enviado uma mensagem ao menor L.E.C., de forma intimidatória, cobrando dele a localização de uma droga, sendo que L.E.C., por intermédio de outros inimputáveis, recolheu essa droga e a deixou na residência de Ângela.
+ .. .
+Portanto, embora não apreendida a dita substância entorpecente, resta devidamente comprovado que LUCAS, em28/2/2019, guardou e manteve em depósito, na residência de sua genitora Ângela Aguilera Peres Gino, aproximadamente 31.4 gramas de "crack".
+ .. .
+Nota-se, desta forma, que das três ocorrências citadas na quarta conduta descrita na denúncia, apenas uma delas restou cabalmente demonstrada a participação do acusado, o que, frisa-se, é suficiente para condena-lo como incurso nas disposições do art. 33, caput, da Lei 11.343/06.
+A Corte estadual, por sua vez, também entendeu devidamente comprovada a materialidade do delito de tráfico de drogas, ocasião em que despendeu os seguintes fundamentos (fls. 1.624-1.628, grifei):
+Ao contrário do aduzido, é dispensável a apreensão das drogas para a comprovação da materialidade delitiva quando esta resta demonstrada por outros meios de prova, como no caso dos autos em que é possível se extrair a materialidade delitiva do laudo pericial de seq. 5.23 - autos de origem.
+ .. .
+Restou devidamente comprovado que o acusado Lucas guardava e mantinha em depósito 31,4 gramas de crack na residência de sua genitora Ângela Aguilera Peres Gino.
+A materialidade delitiva restou consubstanciada pelo laudo de perícia técnica em equipamento móvel (seq. 5.23 - autos de origem) e o relatório de investigação (seq. 5.28 - autos de origem).
+Ademais, tal fato restou comprovado pelos diálogos entre o Apelante Lucas e a pessoa de Leonardo Ernega no dia 28/02/2016, às 16h44min(seq. 5.23 - autos de origem)  .. .
+Conforme se depreende do diálogo, o Réu Lucas cobrou de Leonardo determinada quantidade de substância entorpecente, oportunidade em que exigiu uma foto da droga antes de entregar no local indicado.
+Depois, Leonardo Ernega enviou mensagem ao adolescente J.W.M.S. e pediu que ele fosse até a casa do também adolescente G.O. pegar entorpecente para levar até a residência de Ângela, genitora do Apelante Lucas, a fim de atender a requisição de Lucas (seq. 5.23 - autos de origem)  .. .
+Na foto enviada pelo adolescente G.O. para Leonardo Ernega constou a quantia de 31,4 gramas de crack.
+Assim, restou exaustivamente comprovado que o acusado Lucas mantinha em depósito e guardava 31,4 gramas de crack na residência de sua genitora Ângela, praticando, assim, o crime de tráfico de drogas.
+É induvidoso, pois, que, no caso, não houve a apreensão de nenhuma substância entorpecente. Contudo, segundo as instâncias ordinárias, a materialidade do crime de tráfico de drogas ainda assim ficou devidamente comprovada, com base essencialmente nolaudode examepericial realizadoem aparelho celular e na transcrição demensagens de texto ali encontradas.
+Sabe-se que, a respeito dessa temática, no âmbito da Sexta Turma, os julgados mais recentes entendem ser imprescindível, para a demonstração da materialidade do crime de tráfico, a apreensão de droga.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. OFENSA AO ART. 158, DO CÓDIGO DE PROCESSO PENAL E AO ART. 50, § 1.º, DA LEI 11.343/2006. MATERIALIDADE DELITIVA. AUSÊNCIA DE APREENSÃO DE DROGAS. IMPRESCINDIBILIDADE. ABSOLVIÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência adotada pelo Superior Tribunal de Justiça é firme no sentido de que " é  imprescindível para a demonstração da materialidade do crime de tráfico a apreensão de drogas" (REsp n. 1.865.038/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 04/09/2020).
+2. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp n. 1.878.432/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/8/2022).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. MATERIALIDADE DELITIVA. AUSÊNCIA DE APREENSÃO DE DROGAS. IMPRESCINDIBILIDADE.
+1. "É imprescindível para a demonstração da materialidade do crime de tráfico a apreensão de drogas" (REsp 1865038/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 25/8/2020, DJe 4/9/2020).
+2. Encontrando-se a sentença condenatória lastreada apenas em mensagens telefônicas sobre a negociação da droga e anotações referentes à sua distribuição, ainda que corroboradas por depoimento de policiais afirmando ser a residência do acusado conhecida como boca de fumo, deve ser o agravante absolvido por ausência dematerialidade do crime de tráfico de entorpecentes.
+3. Provimento do agravo regimental. Absolvição do réu em relação à imputação prevista no art. 33 da Lei 11.343/2006 (art. 386, VII , do CPP).
+(AgRg no REsp n. 1.948.410/TO, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe de 25/3/2022)
+Na hipótese dos autos, e atento aos entendimentos acima firmados, não vejo como subsistir a condenação pela prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006, se, em nenhum momento, houve a apreensão de qualquer substância entorpecente em poder do recorrente.
+Vale dizer, apesar dasdiligências empreendidas pela acusação, que envolveram a apreensão e, posteriormente, a perícia do aparelho celular, bem como o relatório de investigação, produzido pela autoridade policial, não houve a apreensão de droga, pressuposto da materialidade delitiva. Assim, diante das provas mencionadas no acórdão recorrido, não há como caracterizar o delito de tráfico de drogas.
+Com base em tais considerações, entendo que o Ministério Público não se desincumbiu do ônus de provar a prática do delito de tráfico de drogas. O que se tem dos elementos coligidos aos autos é apenas a intuição acerca de eventual crime de tráfico praticado pelo recorrente.
+Ao funcionar como regra que disciplina a atividade probatória, a presunção de não culpabilidade preserva a liberdade e a inocência do acusado contra juízos baseados em mera probabilidade, determinando que somente a certeza pode lastrear uma condenação. A presunção de inocência, sob tal perspectiva, impõe ao titular da ação penal todo o ônus de provar a acusação, quer a parte objecti, quer a parte subjecti. Não basta, portanto, atribuir a alguém conduta cuja compreensão e subsunção jurídico-normativa, em sua dinâmica subjetiva - o ânimo a mover a conduta -, decorre de avaliação pessoal de agentes do Estado, e não dos fatos e das circunstâncias objetivamente demonstradas.
+Assim, uma vez que houve clara violação da regra probatória inerente ao princípio da presunção de inocência, não há como subsistir a condenação doacusadono tocante ao referido delito, por ausência de provas acerca da materialidade.
+À vista do exposto,dou provimento ao recurso especial, a fim de absolver o recorrente Lucas Peres da Silva em relação à prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, objeto do Processo n. 0001542-45.2019.8.16.0041, por ausência de provas acerca da materialidade do delito.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
