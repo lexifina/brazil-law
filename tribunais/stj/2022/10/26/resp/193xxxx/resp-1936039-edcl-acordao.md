@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 20/10/2022 a 26/10/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de embargos de declaração opostos contra acórdão proferido por esta Quarta Turma, o qual negou provimento ao agravo interno interposto.
+Em seu recurso, o embargante sustenta existência de omissões no julgamento, arguindo que o acórdão embargado não analisou "a distinção entre a hipótese dos autos e aquela que ensejou o julgamento dos precedentes invocados" (fl. 770, e-STJ).
+Insiste que a execução deve ser extinta, bem como merece arbitramento de honorários sucumbenciais.
+Intimada para se manifestar, a parte embargada apresentou impugnação, postulando pela manutenção do acórdão embargado, e pela aplicação da multa por embargos protelatórios prevista no § 2º do art. 1.026 do Código de Processo Civil de 2015.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso, ainda que para fins de prequestionamento.
+2. Embargos de declaração rejeitados.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): Não se verifica o vício procedimental apontado, devendo-se manter o acórdão recorrido por seus próprios fundamentos. Estão ausentes os pressupostos que dariam ensejo à sua oposição: omissão, obscuridade ou contradição.
+Com efeito, o julgado embargado é de fácil compreensão em suas premissas e objetivo em suas conclusões, inexistindo vício a ser sanado. Apenas, a solução prestigiada não corresponde à desejada pelo embargante, circunstância que não eiva o acórdão de nulidade.
+A despeito da alegação de omissão no acórdão embargado, a prestação jurisdicional esclareceu que, considerando o contexto fático delineado na origem, a fundamentação do acórdão estadual se encontrava em harmonia com a orientação emanada no julgamento do REsp 1367942/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 11/6/2015 , cuja dicção é "A teor do art. 1.997, caput, do CC c/c o art. 597 do CPC  correspondente ao art. 796 do novo CPC , feita a partilha, cada herdeiro responde pelas dívidas do falecido dentro das forças da herança e na proporção da parte que lhe coube, e não necessariamente no limite de seu quinhão hereditário. Dessarte, após a partilha, não há cogitar em solidariedade entre os herdeiros de dívidas divisíveis, por isso caberá ao credor executar os herdeiros pro rata, observando a proporção da parte que coube (quinhão), no tocante ao acervo partilhado", assim como fundamentada a aplicação da Súmula 83/STJ, conforme se depreende da leitura dos trechos (fls. 762-764, e-STJ):
+"Em nova análise do recurso, verifico que o TJPR não extinguiu a ação executiva, em razão de "declarar a incapacidade processual do Espólio de Eduardo Polônio para a execução originária, não sendo possível acolher, desde logo, o pedido de extinção do processo em relação a ele (CPC, art. 485, IV), como pretendido pelo Agravante, haja vista a necessidade de, antes disso, oportunizar-se ao Agravado/Exequente a regularização desse vício, por meio da sucessão do Espólio pelos seus herdeiros".
+Conforme demonstrei na decisão agravada, o acórdão estadual está em ressonância com a compreensão desta Corte Superior, cuja dicção é no sentido de que, encerrado o inventário dos bens, remanesce a responsabilidade pessoal dos herdeiros segundo o quinhão herdado. De igual teor:
+DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA. COBRANÇA DE DÍVIDA DIVISÍVEL DO AUTOR DA HERANÇA. EXECUÇÃO MANEJADA APÓS A PARTILHA. ULTIMADA A PARTILHA, CADA HERDEIRO RESPONDE PELAS DÍVIDAS DO FALECIDO NA PROPORÇÃO DA PARTE QUE LHE COUBE NA HERANÇA, E NÃO NECESSARIAMENTE NO LIMITE DE SEU QUINHÃO HEREDITÁRIO. ADOÇÃO DE CONDUTA CONTRADITÓRIA PELA PARTE. INADMISSIBILIDADE.
+1. Com a abertura da sucessão, há a formação de um condomínio necessário, que somente é dissolvido com a partilha, estabelecendo o quinhão hereditário de cada beneficiário, no tocante ao acervo transmitido.
+2. A herança é constituída pelo acervo patrimonial e dívidas (obrigações) deixadas por seu autor. Aos credores do autor da herança, é facultada, antes da partilha dos bens transmitidos, a habilitação de seus créditos no juízo do inventário ou o ajuizamento de ação em face do espólio.
+3. Ultimada a partilha, o acervo outrora indiviso, constituído pelos bens que pertenciam ao de cujus, transmitidos com o seu falecimento, estará discriminado e especificado, de modo que só caberá ação em face dos beneficiários da herança, que, em todo caso, responderão até o limite de seus quinhões.
+4. A teor do art. 1.997, caput, do CC c/c o art. 597 do CPC  correspondente ao art. 796 do novo CPC , feita a partilha, cada herdeiro responde pelas dívidas do falecido dentro das forças da herança e na proporção da parte que lhe coube, e não necessariamente no limite de seu quinhão hereditário. Dessarte, após a partilha, não há cogitar em solidariedade entre os herdeiros de dívidas divisíveis, por isso caberá ao credor executar os herdeiros pro rata, observando a proporção da parte que coube (quinhão), no tocante ao acervo partilhado.
+5. Recurso especial não provido.
+(REsp 1367942/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 11/6/2015)
+No tocante à preclusão da sucessão processual e da verba sucumbencial fixada na origem que alega ser inferior ao mínimo legal, apontados no recurso especial, verifica-se que não houve debate na origem quanto aos pontos.
+Registro, ademais, que a ocorrência do prequestionamento ficto, nos termos do art. 1.025 do CPC/2015, exige que a parte recorrente tenha indicado também a violação ao art. 1.022 do CPC/2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, o que não ocorreu no presente caso.
+De todo modo, as razões do agravo interno não são convincentes, merecendo, assim, a aplicação das Súmulas 282 e 356 do STF, visto que ausente o indispensável prequestionamento com referência a essa questão ventilada no recurso especial, do qual não estão isentas sequer as questões de ordem pública. "
+Anoto que diante da ausência de reforma do julgado da origem, quanto ao intento de extinção da execução, não há que se falar em fixação de honorários sucumbenciais em favor do ora embargante.
+Verifico, assim, que, o embargante pretende, sob o pretexto de existência de vício, o rejulgamento da causa. Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio.
+Eles servem para suprimento de omissões e esclarecimento de dúvidas e contradições do julgado, de tal forma que, se existentes tais vícios, sua correção venha eventualmente a prequestionar os pontos levantados pela parte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS. INDENIZAÇÃO. PRESTAÇÃO DE SERVIÇOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC. NÃO OCORRÊNCIA. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+2. A reforma do julgado demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 670.511/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 1º/3/2016)
+Por fim, não evidenciado o caráter manifestamente protelatório dos embargos de declaração, de modo que incabível, por ora, a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, como pretendido pela parte embargada.
+Em face do exposto, rejeito os embargos de declaração.
+É o voto.
