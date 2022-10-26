@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FAZENDA ROSEIRA EPSILON EMPREENDIMENTOS IMOBILIARIOS CPE S.A, fundamentado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão proferido pelo TJ/SP.
+Recurso especial interposto em:28/01/2021.
+Concluso ao Gabinete em:21/10/2022.
+Ação: de reparação de danos materiais e compensação de danos morais, ajuizada porDENISSON PEREIRA e MIRANA VOLPI GOUDINHO PEREIRA, em desfavor da recorrente e de EVEN CONSTRUTORA E INCORPORADORA S.A (ora interessada), em virtude de atraso na entrega de unidade imobiliária, objeto de contrato de compra e venda firmado entre as partes.
+Sentença: julgou parcialmente procedentes os pedidos parai) determinar o congelamento do saldo devedor do contrato, desde a data do início do atraso na entrega do imóvel (novembro/2012) e, em consequência, condenar a recorrente e a interessada a devolverem aos recorridos aquantiaque excedeu o valor que efetivamente deveria ter sido pago por eles;ii)condenar solidariamente a recorrente e a interessada a pagarem aos recorridos multa de 2% (dois por cento) sobre o valor pactuado do contrato;iii)condenar solidariamente a recorrente e a interessada a reembolsarem aos recorridos os valores que eles deixaram de auferir com o imóvel ou que pagaram com aluguéis, sendo devidos a partir da data em que se venceu o prazo contratual suplementar para a entrega do imóvel até a data da efetivaentrega das chaves;iv)condenar solidariamente a recorrente e a interessada ao pagamento de R$ 7.240,00 (sete mil, duzentos e quarenta reais) a título de danos morais.
+Acórdão: conheceu parcialmente da apelação interposta pela recorrente e pelainteressada e, nessa extensão, deu-lhe parcial provimento, para determinar a correção do saldo devedor durante o período de atraso para entrega da unidade, com substituição do INCC pelo IPCA após vencido o prazo de tolerância, operando-se a restituição da diferença aos compradores, afastando, ainda, a condenação à indenização dos lucros cessantes.
+Recurso especial: aponta a violação dos arts. 12, 186, 393, parágrafo único, 402, 403, 421, 422, 927 e 944 do CC/02, bem como dissídio jurisprudencial. Sustenta a configuração de caso fortuito ou força maior, hábil a afastar a sua responsabilidade pelo atraso na entrega do imóvel. Insurge-se contra a condenação a título de danos morais, sob o fundamento de que ocorreu apenas mero descumprimento contratual.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação deficiente
+Os argumentos invocados pelarecorrentenão demonstram como o acórdão recorrido violou os arts. 402, 403, 421, 422 do CC/02, tendo em vista que apenas genericamente indicados nasrazõesde seu recurso especial.
+- Da existência de fundamento não impugnado
+A recorrente, em relação à alegada ocorrência de caso fortuito e força maior, não impugnou o seguinte fundamento utilizado pelo TJ/SP:
+As apelante alegam que circunstâncias extraordinárias atrasaram o cronograma das obras. Explanam problemas decorrentes de entraves administrativos e do crescimento imobiliário, em especial a escassez de mão de obra qualificada e materiais.
+No entanto, tais argumentos não justificam o atraso, uma vez que esses fatores devem ser levados em consideração no momento de fixação do prazo para entrega da unidade, ainda mais ao verificarmos que as rés têm experiência de sobejo em seu ramo empresarial (e-STJ fl. 329).
+Assim, não impugnado esse fundamento, deve-se manter o acórdão recorrido. Aplica-se, neste caso, a Súmula 283/STF.
+- Da não configuração de dano moral pelo simples inadimplemento contratual (Súmula 568/STJ)
+O TJ/SP, ao reconhecer a possibilidade de compensação dos danos morais, em razão do inadimplemento contratual, de forma a não demonstrar consequências fáticas que venham a ultrapassar o mero aborrecimento, divergiu do entendimento STJ, no sentido de que o inadimplemento contratual não causa, por si só, danos morais. No mesmo sentido: REsp 1.642.314/SE, 3ª Turma, DJe de 22/03/2017; AgRg no AREsp 316.555/RJ, 4ª Turma, Dje de 24/02/2017.
+Desse modo, encontrando-se o entendimento da Corte de origem em consonância com a jurisprudência deste Tribunal, não há que falar na alteração do julgado. Incidência da Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, III, e V, "a", do CPC/2015, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTOpara afastar a condenação da parte recorrenteà compensação dos danos morais.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MATERIAIS E COMPENSAÇÃO DE DANOS MORAIS. ATRASO NA ENTREA DE IMÓVEL.FUNDAMENTAÇÃO. AUSÊNCIA. SÚMULA 284/STF.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.INADIMPLEMENTO CONTRATUAL. DANO MORAL NÃO CONFIGURADO.
+1. Ação de reparação de danos materiais e compensação de danos morais, em virtude de atraso na entrega de unidade imobiliária, objeto de contrato de compra e venda firmado entre as partes.
+2.A ausência de fundamentação ou a sua deficiência implica o não conhecimento do recurso quanto ao tema.
+3.A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4.Esta corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais. Súmula 568/STJ.
+5. Recurso especial parcialmente conhecido e, nessa extensão, provido.
