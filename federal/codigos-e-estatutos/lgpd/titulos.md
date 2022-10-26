@@ -42,11 +42,8 @@ CAPÍTULO IX
 DA AGÊNCIA NACIONAL DE PROTEÇÃO DE DADOS E DO CONSELHO NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS E DA PRIVACIDADE'
 Seção I
 Da Agência Nacional de Proteção de Dados
-V - (revogado);
 V-A - Procuradoria;
 V-B - Auditoria; e
-I - que lhe forem transferidos pelos órgãos da Presidência da República; e
-II - que venha a adquirir ou a incorporar.
 Seção II
 Do Conselho Nacional de Proteção de Dados Pessoais e da Privacidade
 CAPÍTULO X
