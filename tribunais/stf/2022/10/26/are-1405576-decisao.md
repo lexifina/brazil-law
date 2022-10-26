@@ -1,0 +1,79 @@
+DECISÃO
+
+RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO MUNICIPAL. VALIDADE DE CERTIFICADO. PROGRESSÃO FUNCIONAL POR ESCOLARIDADE: ANÁLISE DOS REQUISITOS. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DE LEGISLAÇÃO MUNICIPAL. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. APLICAÇÃO DA SISTEMÁTICA DE REPERCUSSÃO GERAL NA ORIGEM: AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO OU AÇÃO NO SUPREMO TRIBUNAL FEDERAL. INVIABILIDADE DE RECURSO EXTRAORDINÁRIO COM BASE NA AL. C DO INC. III DO ART. 102 DA CONSTITUIÇÃO DA REPÚBLICA. RECURSO EXTRAORDINÁRIO COM AGRAVO AO QUAL SE NEGA PROVIMENTO.
+
+    Relatório
+
+    1. Agravo nos autos principais interposto com base nas als. a e c do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Estado de Minas Gerais:
+
+    “APELAÇÕES CÍVEIS. REEXAME NECESSÁRIO. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO. COISA JULGADA. NÃO OCORRÊNCIA. REJEIÇÃO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. MUNICÍPIO DE BELO HORIZONTE/MG. PÓS-GRADUAÇÃO PRESENCIAL. PROGRESSÃO POR ESCOLARIDADE. CERTIFICADO. VALIDADE. SIMULAÇÃO. PRINCÍPIO DA AUTOTUTELA. POSSIBILIDADE DE A ADMINISTRAÇÃO PÚBLICA SINDICAR OS BENEFÍCIOS CONCEDIDOS AOS SEUS SERVIDORES. SENTENÇA REFORMADA. RECURSO PRINCIPAL DE APELAÇÃO INTERPOSTO PELO MUNICÍPIO DE BELO HORIZONTE CONHECIDO E PROVIDO. SENTENÇA REFORMADA EM REEXAME NECESSÁRIO. RECURSO ADESIVO INTERPOSTO POR NADIA DA CRUZ PEREIRA BRITO PREJUDICADO. 1. Inexistindo identidade entre a causa de pedir, não há como reconhecer a existência de coisa julgada. 2. A simulação é conceituada na doutrina como declaração falsa da vontade, com intuito de aparentar negócio jurídico diverso do efetivamente proposto, ou seja, tem aparência contrária à realidade. 3. Afigura-se inerente ao desempenho da atividade administrativa a tarefa de sindicar a concessão de benefícios aos servidores públicos tendo como parâmetro o direito aplicável à espécie, o que inclui a possibilidade de o Poder Público, em atenção ao princípio da autotutela e mediante a observância do devido processo administrativo, verificar a idoneidade dos documentos que lhes são submetidos à análise, mormente quando a presunção de legitimidade destes for meramente relativa, como no caso dos diplomas expedidos por instituições de ensino superior. 4. Constatado pelas provas documentais acostadas aos autos ser materialmente inviável a participação da servidora, profissional da educação da rede pública municipal, com 100% de frequência nos cursos de pós-graduação presenciais nos períodos declarados nos certificados, patente a simulação com sua consequente anulação. Vistos etc., acorda, em Turma, a 18 CÂMARA CÍVEL do Tribunal de Justiça do Estado de Minas Gerais, na conformidade da ata dos julgamentos, NO JULGAMENTO ESTENDIDO, DAR PROVIMENTO AO RECURSO PRINCIPAL DE APELAÇÃO INTERPOSTO PELO MUNICÍPIO DE BELO HORIZONTE/MG E REFORMAR A SENTENÇA EM REEXAME NECESSÁRIO, PREJUDICADO O RECURSO ADESIVO INTERPOSTO POR NADIA DA CRUZ PEREIRA BRITO, VENCIDOS O 1º E 3º VOGAIS” (fl. 1, e-doc. 9).
+
+    Os embargos de declaração opostos foram rejeitados (e-doc. 13).
+
+    2. No recurso extraordinário, a agravante alega ter o Tribunal de origem contrariado os incs. LIII, LIV e LV do art. 5º, o inc. II do art. 19, o inc. XXIV do art. 22, o inc. IX do art. 93 e os incs. I e IV do art. 109 da Constituição da República.
+
+    Afirma que “o acórdão recorrido julga válido ato de governo local contestado em face da Constituição Federal, ou seja, declara válido ato do Município que desqualifica certificado expedido sob a chancela do MEC, invadindo competência exclusiva da União Federal” (fl. 9, e-doc. 17).
+
+    Sustenta que, “embora os certificados da Recorrente JAMAIS fossem declarados NULOS pelo MEC - MINISTÉRIO DA EDUCAÇÃO E CULTURA, a ação anulatória promovida pelo Município está prescrita, pois os certificados foram expedidos pelas FIJ - FACULDADES INTEGRADAS DE JACAREPAGUÁ em 2003 e 2004, sendo apresentado ao Município ora Embargado em 21/01/2003 e 01/0912004” (fl. 12, e-doc. 17).
+
+    Argumenta que “o entendimento firmado pelo e. Relator ofende o devido processo legal, o contraditório e amplo direito de defesa, havendo insegurança na decisão proferida pelo mesmo Tribunal nos autos de nº 0024.11.328.968-0, que reconheceu a legalidade do certificado da Embargante para fins de progressão na carreira, com trânsito em julgado, como demonstrado às fls. 852/863, 880/892” (fl. 19, e-doc. 17).
+
+    Assenta que “o Juízo Estadual não tem competência para declarar nulidade ou DESQUALIFICAR certificado expedido por instituição de ensino particular, credenciada pelo MEC, delegada pela UNIÃO FEDERAL” (fls. 31-32, e-doc. 17).
+
+    3. O recurso extraordinário foi inadmitido pela aplicação do Tema 339 da repercussão geral, pela ausência de demonstração de contrariedade à al. c do inc. III do art. 102 da Constituição da República e por ausência de prequestionamento quanto às demais questões (e-doc. 23).
+
+    4. No agravo contra a inadmissibilidade do recurso extraordinário, a agravante sustenta que “toda a matéria de ORDEM PÚBLICA foi exaustivamente debatida e pré questionada no Juízo a quo. Logo, o recurso Extraordinário é perfeitamente válido, consequentemente, tem trânsito regular para processamento e julgamento” (fl. 5, e-doc. 28)
+
+    Assenta que “é relevante tratar neste recurso a incompetência do Município de desqualificar certificado expedido sob a chancela do MEC, tendo o respaldo da Justiça Mineira, logo, o ato municipal é inconstitucional” (fl. 23, e-doc. 28).
+
+    Pede o provimento do presente recurso extraordinário com agravo.
+
+    Examinados os elementos havidos nos autos, DECIDO.
+
+    5. Razão jurídica não assiste à agravante.
+
+    6. Cumpre afastar o óbice alegado na decisão agravada, relativo ao prequestionamento, por ter sido a matéria objeto de oportuna impugnação. A superação desse fundamento, todavia, não é suficiente para acolher a pretensão da agravante.
+
+    7. O Desembargador relator do Tribunal de origem fundamentou a decisão recorrida nos seguintes termos:
+
+    “É certo que o Município de Belo Horizonte/MG não anulou administrativamente o certificado do curso de pós-graduação apresentados pela servidora, como não poderia deixar de ser, porquanto não possui poderes para tanto. Na verdade, a municipalidade apenas lhes negou eficácia para fins de concessão das progressões por escolaridade no âmbito do serviço público municipal, mediante a observância do devido processo administrativo, o que se apresenta juridicamente cabível à luz do poder de autotutela da Administração Pública.
+
+    In casu, proposta ação em face da servidora e da referida instituição de ensino, tenho que o Município de Belo Horizonte conseguiu demonstrar a inidoneidade dos certificados de pós-graduação expedidos pela FIJ (vide f. 65 e 67) relativamente aos períodos indicados como de realização dos cursos presenciais - 23/02/2002 a 31/08/2002 e 23/08/2003 a 22/05/2004 - e a carga horária declarada, respectivamente, de 690 (seiscentos e noventa) e 420 (quatrocentos e vinte) horas de duração.
+
+    Ora, a análise da documentação acostada aos autos não me persuade da possibilidade de a servidora haver frequentado a integralidade dos cursos presenciais, denotando o contrário, a inveracidade das afirmações contidas nos documentos, mormente quando se depara com a assertiva de 100% de frequência em cada uma das disciplinas ministradas.
+
+      O fato é que, mesmo se se considerar que a servidora estivesse matriculada no curso ministrado pela aludida instituição em dias de férias, de feriados e de sábados, não se afigura materialmente viável o cumprimento da carga horária declarada, porquanto, apesar da distribuição horária mensal constante do cronograma, repise-se, não houve a liberação da servidora para participar de cursos nas FIJ.
+
+    Destarte, entendo que o apelante se desincumbiu do ônus que lhe incumbia, restando comprovada a nulidade dos certificados apresentados pela apelada, por evidente simulação, sendo patente a má-fé da servidora no caso em análise” (fls. 11-12, e-doc. 9).
+
+    Rever o entendimento adotado pelas instâncias ordinárias exigiria a análise do conjunto probatório constante dos autos e da legislação infraconstitucional (Lei Municipal n. 7.969/2000). A alegada contrariedade à Constituição da República, se tivesse ocorrido, seria indireta, a inviabilizar o processamento do recurso extraordinário. Incide, na espécie, a Súmula n. 279 do Supremo Tribunal Federal. Assim, por exemplo:
+
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. NOMEAÇÃO. CERTIFICADO DE CONCLUSÃO DE CURSO. PREENCHIMENTO DOS REQUISITOS DO EDITAL. VIOLAÇÃO À CLÁUSULA DE RESERVA DE PLENÁRIO. OFENSA AO ART. 97 DA CONSTITUIÇÃO FEDERAL. INOCORRÊNCIA. LEGISLAÇÃO INFRACONSTITUCIONAL. OFENSA REFLEXA. FATOS E PROVAS. REEXAME. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. A mera interpretação de legislação infraconstitucional, sem negativa de vigência a qualquer diploma normativo, não tem o condão de representar ofensa à cláusula de reserva de plenário. 2. Não se presta o recurso extraordinário para a análise de matéria infraconstitucional e de cláusulas contratuais, tampouco para o reexame dos fatos e das provas (Súmulas 279 e 454 do STF). 3. Agravo interno desprovido, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4º, do CPC), caso seja unânime a votação. 4. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º e a eventual concessão de justiça gratuita” (ARE n. 1.342.603-AgR, Relator o Ministro Luiz Fux, Plenário, DJe 19.10.2021).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ADMINISTRATIVO. CONCURSO PÚBLICO. NOMEAÇÃO. PRETERIÇÃO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO E INTERPRETAÇÃO DE NORMAS INFRACONSTITUCIONAIS. SÚMULA 279/STF. REQUISITOS DO EDITAL. ÓBICE DA SÚMULA 454/STF. HONORÁRIOS ADVOCATÍCIOS MAJORADOS. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - É inadmissível o recurso extraordinário quando para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seja necessário o reexame do conjunto fático-probatório constante dos autos, o que atrai a incidência da Súmula 279/STF. II - A interpretação das cláusulas do edital que regem o concurso público encontra óbice na Súmula 454/STF. III - Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 11, do CPC, observados os limites legais do art. 85, § 2º e 3º, do CPC. IV- Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC” (ARE n. 1128486 AgR, Relator o Ministro Ricardo Lewandowski, Segunda Turma, DJe 6.12.2018).
+
+    8. Na espécie, o Tribunal de origem, em juízo de admissibilidade quanto à violação ao inc. LV do art. 5º e ao inc. IX do art. 93 da Constituição da República, negou seguimento ao presente recurso extraordinário sob fundamento do Tema 339 da repercussão geral.
+
+    Este Supremo Tribunal assentou não caber recurso ou outro instrumento processual no Supremo Tribunal Federal contra decisão pela qual se aplica a sistemática da repercussão geral na origem. Confiram-se, por exemplo, os seguintes julgados:
+
+    “Agravo regimental no recurso extraordinário com agravo. Processual Civil. Aplicação da sistemática da repercussão geral pelo juízo de origem. Recurso cabível. Agravo interno (art. 1.030, § 2º, do CPC). Agravo ao tribunal superior (art. 1.042 do CPC). Recurso manifestamente incabível. Precedentes. 1. Segundo a firme jurisprudência do Supremo Tribunal Federal, não cabe recurso ou outro instrumento processual na Corte contra decisão do juízo de origem em que se aplique a sistemática da repercussão geral. 2. Essa orientação está consolidada no Código de Processo Civil de 2015, que prevê, como instrumento processual adequado contra a aplicação do instituto da repercussão geral, a interposição de agravo interno perante o próprio tribunal de origem (art. 1.030, § 2º, do CPC). 3. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 4. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE n. 1.169.122-AgR, Relator o Ministro Dias Toffoli, Plenário, DJe 19.2.2019).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL NA ORIGEM. AUSÊNCIA DE PREVISÃO LEGAL DE RECURSO PARA O SUPREMO TRIBUNAL FEDERAL. RECURSO MANIFESTAMENTE INCABÍVEL. PRECEDENTES. MULTA APLICADA NO PERCENTUAL DE 1%, CONFORME O § 4º DO ART. 1.021 DO CÓDIGO DE PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE n. 1.118.522-AgR, de minha relatoria, Plenário, DJe 22.8.2018).
+
+    10. O recurso extraordinário também não se viabiliza pela al. c do inc. III do art. 102 da Constituição da República, pois o Tribunal de origem não julgou válido lei ou ato de governo local contestado em face da Constituição da República:
+
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO. ADICIONAL DE DESEMPENHO. LEI ESTADUAL 3.048/2003. EXAME DE DIREITO LOCAL. INVIABILIDADE. SÚMULA 280/STF. INTERPOSIÇÃO DO RECURSO PELA ALÍNEA C DO ART. 102, III. DESCABIMENTO 1. A solução da controvérsia depende da análise da legislação local, o que é incabível em sede de recurso extraordinário, conforme consubstanciado na Súmula 280/STF (Por ofensa a direito local não cabe recurso extraordinário). 2. O Recurso Extraordinário não pode ser conhecido pelo permissivo da alínea ‘c’ do inciso III do art. 102 da Constituição Federal, uma vez que o acórdão recorrido não julgou válida lei ou ato de governo local contestado em face desta Constituição. 3. Agravo interno a que se nega provimento” (RE n. 91942-AgR, Relator o Ministro Alexandre de Moraes, Primeira Turma, DJe 21.3.2018).
+
+    Nesse sentido, por exemplo, as seguintes decisões monocráticas: ARE n. 1.299.609, Relator o Ministro Ricardo Lewandowski, DJe 11.12.2020; ARE n. 1.381.287, Relator o Ministro Gilmar Mendes, DJe 1.6.2022; ARE n. 1.364.215, Relator o Ministro André Mendonça, DJe 23.8.2022; e ARE n. 914.468, de minha relatoria, DJe 15.10.2015.
+
+    11. Pelo exposto, não conheço do agravo quanto às alegações de afronta aos arts. 5º, inc. LV, e 93, inc. IX, da Constituição da República (art. 932, inc. III, c/c art. 1.035 do Código de Processo Civil e art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal), e nego provimento ao recurso extraordinário com agravo (al. a do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal). Condeno a parte sucumbente, nesta instância recursal, ao pagamento de honorários advocatícios majorados em 10%, percentual que se soma ao fixado na origem, obedecidos os limites dos §§ 2º, 3º e 11 do art. 85 do Código de Processo Civil, com a ressalva de eventual concessão do benefício da justiça gratuita.
+
+    Ressalte-se que eventual recurso manifestamente inadmissível contra esta decisão demonstraria apenas inconformismo e resistência em pôr termo a processos que se arrastam em detrimento da eficiente prestação jurisdicional, o que sujeitaria a parte à aplicação da multa processual do § 4º do art. 1.021 do Código de Processo Civil.
+
+    Publique-se.
+
+    Brasília, 26 de outubro de 2022.
+
+Ministra CÁRMEN LÚCIA
+
+Relatora
