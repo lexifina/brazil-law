@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LINCOLN ANTUNES DOS SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINAque denegou a ordem doHC n. 5052345-43.2022.8.24.0000, em julgamento assim ementado(e-STJ fl. 25):
+HABEAS CORPUS. PACIENTE PRONUNCIADO PELA PRÁTICA DOCRIME DE HOMICÍDIO DUPLAMENTE QUALIFICADO (ART. 121, § 2º,INCISOS II E IV, DO CÓDIGO PENAL). ALEGAÇÃO DE NULIDADE DADECISÃO DE PRONÚNCIA, POR UTILIZAR PARTE DEINTERROGATÓRIO CONSIDERADO NULO. INOCORRÊNCIA. PARCELA ANULADA DO ATO JUDICIAL QUE NÃO FOI UTILIZADAPELAS PARTES EM ALEGAÇÕES FINAIS, E MUITO MENOS PARAFUNDAMENTAR A DECISÃO DE PRONÚNCIA. INEXISTÊNCIA DOALEGADO PREJUÍZO À DEFESA. MANUTENÇÃO DA DECISÃO. ORDEM CONHECIDA E DENEGADA.
+A defesa relata que o paciente foi denunciado pela prática do crime de homicídio e que "impetrou Habeas Corpus n.º 5040859-61.2022.8.24.0000 no dia 22/07/2022, pugnando pela nulidade do interrogatório do Recorrente sendo que no primeiro momento o feito foi julgado no dia 02/08/2022, sendo anulado este julgamento por falta da intimação da Defesa técnica do Recorrente" (e-STJ fl. 5).
+Afirma ainda que "no dia 30/08/2022 houve nova sessão para julgar o remédio constitucional acima citado e após a sustentação oral da Defesa, o Eminente Desembargador Dr. Sérgio Rizelo pediu vistas para o voto divergente, sendo que no dia 06/09/2022 a 2ª Câmara Criminal decidiu por conhecer do Habeas Corpus e conceder parcialmente a ordem(vencido o relator Eminente Desembargador Dr. Norival Acácio Engel) para DECLARAR NULA parcela do interrogatório de Lincoln em que foram formuladas perguntas pelo Excelentíssimo Promotor de Justiça"(e-STJ fl. 5).
+Alega que, "após reconhecida nulidade, a defesa do acusa do requereu, em primeiro grau, a anulação de todos os atos processuais posteriores ao reconhecimento da nulidade parcial do interrogatório do acusado, fato este que não foi acolhido pelo Juízo de primeiro grau"(e-STJ fl. 5).
+Nesta impetração sustenta que "a sentença de pronúncia resta igualmente eivada de nulidade, vez que se utilizou da parcela reconhecidamente nula do interrogatório do réu"(e-STJ fl. 6).
+É o relatório.
+Decido.
+Em consulta ao sistema de informações processuais desta Corte, constatei que contra o acórdão da origem a Defesa interpôs o devido recurso ordinário, também em favor do paciente, visando, tal como no presente writ, a nulidade dos atos realizados após o interrogatório (RHC 172.527/SC).
+Nessa tessitura, o pedido deduzido na presente impetração possui objeto idêntico ao do recurso ordinárioanteriormente proposto, cujos autos já foram a mim distribuídos.
+Dessa forma, verifica-se inadmissível reiteração, o que é repelido pela jurisprudência desta Corte Superior, conforme os seguintes julgados:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. "OPERAÇÃO DELIVERY". TRÁFICO ILÍCITO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. PRETENSÃO DE REVOGAÇÃO DA PRISÃO PREVENTIVA. MERA REITERAÇÃO DE HABEAS CORPUS PRÉVIO. NOVO JULGAMENTO DA MESMA MATÉRIA. INVIABILIDADE. AGRAVO DESPROVIDO.
+1. Inviável o conhecimento de recurso em habeas corpus que consiste em mera reiteração do HC nº 766.994/AP, já julgado por esta Corte em decisão datada de 31/8/2022.
+2. Hipótese na qual a defesa busca, com a presente interposição, novo julgamento de matéria já apreciada por este Tribunal.
+3. A utilização do recurso cabível simultaneamente à utilização do writ substitutivo desvirtuou o ordenamento processual, por se tratar de mera reiteração, mormente quando não foram apontados fatos novos aptos a justificar a reanálise do pedido.
+4. Agravo regimental desprovido.
+(AgRg no RHC n. 170.568/AP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. MERA REITERAÇÃO DE PEDIDO ANTERIOR. PROSSEGUIMENTO DO FEITO. IMPOSSIBILIDADE. AGRAVO NÃO PROVIDO.
+1. Como já salientado na decisão agravada, a questão aqui suscitada foi objeto, primeiramente, do HC n. 727.633/PE, que se volta contra o mesmo acórdão e também pretende a revogação das medidas cautelares fixadas em desfavor do ora agravante.
+2. O writ em questão já foi conhecido, na oportunidade em que restou indeferida a medida liminar, de modo que não há plausibilidade na questão suscitada pela defesa no regimental.
+3. É praxe, pelos Ministros integrantes da Sexta Turma do Superior Tribunal de Justiça, o conhecimento de habeas corpus substitutivo do recurso ordinário em habeas corpus, com o exame da questão de mérito suscitada na impetração. Breve pesquisa nos julgados deste órgão colegiado deixa clara essa prática.
+4. O fato de a defesa haver buscado, por dois meios distintos - habeas corpus autônomo (já conhecido, repita-se) e posterior recurso ordinário em habeas corpus - obter manifestação desta Corte Superior sobre a mesma tese, evidencia abuso do direito de litigar, o que acarreta um desnecessário gasto de recursos humanos e uma odiosa perda de tempo do órgão judicante, que já se vê sobrecarregado pela grande quantidade de feitos distribuídos e julgados diariamente.
+5. Agravo não provido.
+(AgRg no RHC n. 164.978/PE, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/8/2022, DJe de 31/8/2022.)
+Ante o exposto, diante da constatação de que o presente recurso é mera reiteração dos autos do RHC 172.527/SC, indefiro-o liminarmente,com fulcro no art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
