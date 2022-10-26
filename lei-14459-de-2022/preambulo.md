@@ -1,0 +1,1 @@
+Altera a Lei nº 12.598, de 21 de março de 2012, que estabelece normas especiais para as compras, as contratações e o desenvolvimento de produtos e de sistemas de defesa e dispõe sobre regras de incentivo à área estratégica de defesa.
