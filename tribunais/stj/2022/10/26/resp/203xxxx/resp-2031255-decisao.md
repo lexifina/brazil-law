@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do seguro Socialcontra acórdão do Tribunal Regional Federal da 3ª Região, assim ementado:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. INCAPACIDADE PERMANENTE CONSTATADA. APOSENTADORIA POR INVALIDEZ. QUALIDADE DE SEGURADO DEVIDAMENTE COMPROVADA.
+1. Cuida-se de Apelação interposta pelo INSS ante sentença que julgou procedente, e, por consequência, condenou o Autarquia a conceder o benefício de APOSENTADORIA POR INVALIDEZ com DIB na DER e DCB no óbito do segurado.
+2. Aduz a Autarquia apelante, em síntese, que não restou demonstrada a qualidade de segurado do Autor, e que este não cumpriu a carência mínima exigida para usufruir do benefício de aposentadoria por invalidez, ou seja, não tinha no mínimo 12 (doze) meses de filiação com o regime geral da previdência social.
+3. O cerne da presente questão cinge-se ao reconhecimento do direito do autor, já falecido, e com habilitação dos herdeiros já deferida, a ter em seu favor, concessão auxílio-doença/aposentadoria por invalidez, desde a data do requerimento administrativo, ocorrido em 14/11/2013.
+4. Quanto a incapacidade laboral do Autor, este restou devidamente comprovada pelo laudo pericial de id. 4058500.3633652, onde se concluiu que a incapacidade é total e permanente (quesitos III.2 e III.6), tendo início (DII) em dezembro de 2012 (quesito III.9).
+5. Ainda, no tocante à qualidade de segurado e a carência mínima exigida, entendo que também não merece prosperar. Isto porque, a qualidade de segurado restou devidamente comprovado em sentençatransitada em julgado na Justiça do Trabalho, que reconheceu o vínculo do autor com a empresa MFCONSTRUÇÕES E SERVIÇOS LTDA., na função de Pedreiro, no período de 20/01/2011 a 22/03/2012, bem como por testemunha ouvida em juízo.
+6. Honorários recursais, previstos no art. 85, § 11, do CPC, a cargo da Apelante, devendo a verba honorária sucumbencial ser majorada em 2%. Apelação improvida.
+Os embargos declaratórios opostos pelo recorrente foram rejeitados.
+Nas razões de recurso especial manejado com fundamento naalínea"a"do permissivo constitucional, sustenta o recorrente violação do artigo 489, § 1º, IV, e 1022, II, do CPC; 55, §3º, e 58, §1º, da Lei 8.213/91.
+Aponta negativa de prestação jurisdicional.
+Defende que "o INSS não fez parte da lide instaurada na esfera trabalhista, não pode ser compelido a reconhecer período de trabalho declinado em sentença nela proferida, muito menos sem início de prova material. Com efeito, a parte autora não se desincumbiu do ônus de comprovar o fato constitutivo do seu direito, nos termos do artigo 373, I, do CPC".
+O prazo para apresentação de contrarrazões transcorreu in albis.
+É o relatório, decido.
+De início, depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Na linha da jurisprudência do STJ, não há falar em negativa de prestação jurisdicional, tampouco em vício, quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/1988.MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DEAPRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que aCorte de origem apreciou todos os pontos relevantes ao deslinde dacontrovérsia de modo integral e adequado, não padecendo o acórdãorecorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão do benefícioprevidenciário com fundamentação eminentemente constitucional, razão pelaqual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.740.348/RS, Segunda Turma, Relator Ministro Herman Benjamin,julgado em 21/6/2018, DJe 22/11/2018)
+A alegada violação aos arts. 489, § 1º, IV, e 1022, II, do CPC, não merece provimento.
+No mérito, a questão gira em torno da força probante da sentença trabalhista para efeito de concessão de benefício previdenciário.
+Quanto ao ponto, é pacífico o entendimento desta Corte no sentido de que a sentença trabalhista pode ser considerada como início de prova material para a determinação de tempo de serviço, desde que corroborada poroutros elementos de prova que evidenciem o labor exercido na função e nos períodos alegados pelo trabalhador segurado.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. PENSÃO POR MORTE. ALEGAÇÕES DE VIOLAÇÃO DO 489, II E § 1º, IV E 1.021, § 3º, TODOS DO CPC/2015.INEXISTÊNCIA. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DO STJ.
+I - Na origem, trata-se de ação ordinária em que se pretende a concessão do benefício de pensão por morte. Na sentença, julgou-se parcialmente procedente o pedido para concessão do benefício a partir de 11.12.2009. No Tribunal a quo, a sentença foi reformada para julgar improcedente o pedido.
+(..)
+IV - No mais, a jurisprudência desta Corte orientou-se no sentido de que a sentença trabalhista é documento suficiente para ser considerado início de prova material, desde que corroborada por outros elementos probatórios ou se a Previdência não fizer prova em sentido contrário. Nesse sentido: REsp 1.766.914/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 17/10/2018, DJe 4/12/2018; REsp 1.590.126/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 20/9/2016, DJe 10/10/2016; AgRg no AREsp 269.887/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/3/2014, DJe 21/3/2014.
+V - Ocorre que o Tribunal de origem, destinatário do conjunto probatório, considerou inexistente qualquer prova material da existência do vínculo reconhecido na esfera trabalhista, e que as testemunhas não corroboraram a sua efetiva prestação, não podendo a sentença trabalhista ser considerada para fins previdenciários.
+VI - Sendo assim, para rever o entendimento firmado na instância ordinária, seria necessário o revolvimento de todo conjunto fático-probatório, o que não é possível na seara do recurso especial ante o óbice constante do enunciado n. 7 da Súmula do STJ.
+VII - Quanto à alegada divergência jurisprudencial, verifico que a incidência do óbice sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+VIII - Agravo interno improvido.(AgInt no AREsp 1129366/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA,DJe 10/02/2020)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESTABELECIMENTO DE APOSENTADORIA. VÍNCULO EMPREGATÍCIO. SENTENÇA TRABALHISTA COMO INÍCIO DE PROVA MATERIAL. NECESSIDADE DE SER CORROBORADA POR OUTROS MEIOS DE PROVA. INEXISTÊNCIA NO CASO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão agravada deve ser mantida pelos seus próprios fundamentos, pois observou a jurisprudência do STJ, segundo a qual a sentença trabalhista pode ser considerada como início de prova material para a obtenção de benefício previdenciário, ainda que o INSS não tenha integrado a respectiva lide, desde que fundada em elementos que evidenciem o período trabalhado e a função exercida pelo trabalhador.
+2. Agravo interno não provido.
+(AgInt no REsp 1752696/RS, de minha relatoria, SEGUNDA TURMA, DJe 01/03/2019)
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. INÍCIO DE PROVA MATERIAL PARA OBTENÇÃO DE BENEFÍCIO PREVIDENCIÁRIO.SENTENÇA TRABALHISTA. POSSIBILIDADE. PRECEDENTES DESTA CORTE.ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão recorrido adotou entendimento pacificado nesta Corte segundo o qual a sentença trabalhista pode ser considerada como início de prova material para a obtenção de benefício previdenciário, ainda que o INSS não tenha integrado a respectiva lide, desde que fundada em elementos que evidenciem o período trabalhado e a função exercida pelo trabalhador, como aconteceu no caso dos autos.
+(..)
+V - Agravo Interno improvido.(AgInt no REsp 1819042/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA,DJe 23/10/2019)
+PREVIDENCIÁRIO E PROCESSO CIVIL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENSÃO POR MORTE. RECONHECIMENTO DE TEMPO DE SERVIÇO. SENTENÇA TRABALHISTA. INÍCIO DE PROVA MATERIAL. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça admite a sentença homologatória de acordo trabalhista como início de prova material, para fins de reconhecimento de tempo de serviço, desde que fundada em elementos que atestem o exercício laboral no período alegado ou corroborada por outras provas nos autos.
+2. Agravo Regimental do INSS desprovido.(AgRg no AREsp 333.094/CE, primeira turma, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, DJe 20/3/2014)
+Noenfrentamento da questão,o Tribunalde origem lançou os seguintes fundamentos:
+Quanto a incapacidade laboral do Autor, este restou devidamente comprovada pelo laudo pericial de id.4058500.3633652, onde se concluiu que a incapacidade é total e permanente (quesitos III.2 e III.6), tendo início (DII) em dezembro de 2012 (quesito III.9).
+Ainda, no tocante à qualidade de segurado e a carência mínima exigida, entendo que também não merece prosperar. Isto porque, a qualidade de segurado restou devidamente comprovado em sentença transitada em julgado na Justiça do Trabalho, que reconheceu o vínculo do autor com a empresa MFCONSTRUÇÕES E SERVIÇOS LTDA., na função de Pedreiro, no período de 20/01/2011 a 22/03/2012, bem como por testemunha ouvida em juízo.
+Oportuno colacionar trechos da bem fundamentada sentença, a qual adoto como razões de decidir:
+"2.3.3 - Do caso concreto
+A incapacidade laboral restou comprovada pelo laudo pericial de id. 4058500.3633652, que concluiu que a incapacidade é total e permanente (quesitos III.2 e III.6), tendo início (DII) em dezembro de 2012 (quesito III.9).
+Com relação à qualidade de segurado e carência, verifica-se que sentença da Justiça do Trabalho reconheceu vínculo do falecido autor com empresa de 20/01/2011 e 22/02(3)/2012 (id.4058500.1701604), suficiente para preencher os dois requisitos.
+No caso, percebe-se que a Justiça do Trabalho reconheceu o direito autoral pela ausência de contestação específica (p. 3 do referido id.). Contudo, em que pese o INSS não ter sido parte do referido processo, percebe-se que esta pode ser considerada início de prova material, a qual foi corroborada pela testemunha ouvida em Juízo, que, apesar de não trabalhar na outra obra, teria conhecimento dos fatos por trabalhar na frente em obra diversa. Ademais, não foi produzida qualquer prova em sentido contrário.
+Logo, vê-se que o pleito autoral deve ser julgado procedente, devendo a DCB ser fixada na data do óbito do(a) autor(a)".
+Destarte, merece ser mantido o acórdão recorrido, que aplicou à espécie o melhor direito, em conformidade com o entendimento do Superior Tribunal de Justiça, incidindo o óbice da Súmula 568/STJ que dispõein verbis: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no artigo 932, IV, do CPC/2015 c/c o artigo 255, § 4º, II, do RISTJ, bem como na Súmula 568/STJ, nego provimento ao recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL.APOSENTADORIA POR INVALIDEZ. ARTS. 489 E 1022 DO CPC. VIOLAÇÃO NÃO CONFIGURADA. SENTENÇA TRABALHISTA CORROBORADA POR OUTRAS PROVAS. EFICÁCIA PROBATÓRIA. SÚMULA 568/STJ. RECURSO ESPECIAL NÃO PROVIDO.
