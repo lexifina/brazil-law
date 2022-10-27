@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se dehabeas corpussubstitutivo de recurso especial, com pedido liminar, impetrado em favor deFABIO ALEXANDRE DA SILVA, contra v. acórdão proferido pelo eg.Tribunal de Justiça do Estado de Pernambuco no Incidente de Resolução de Demandas Repetitivas n. 0008770-65.2021.8.17.9000.
+A impetrante sustenta que o paciente faria jus ao cômputo em dobro dos dias em que cumpriu pena no Complexo Prisional do Curado,consoante determinado por sentença da Corte Interamericana de Direitos Humanos (Resolução de 28 de novembro de 2018).
+Explica que o Tribunal de Justiça do Estado de Pernambuco determinou a suspensão de todos os processos que versavam sobre aResolução de 28/11/2018 da Corte Interamericana de Direitos Humanos, até o julgamento do IRDR n. 008770-65.2021.8.17.9000, razão pela qual o pleito do paciente não chegou a ser analisado.
+Alega que o paciente está submetido a constrangimento ilegal, em razão do excesso de prazo para análise do IRDR, instaurado em junho de 2021, o queobsta seu direito à progressão para regime mais brando.
+Aduz que o Supremo Tribunal Federal deferiu liminar em favor de custodiado em situação análoga à do ora paciente.
+Requer, a concessão de liminar, visando ao cômputo em dobro do tempo de reclusão no Completo do Curado. No mérito pugna pela cassação da suspensão do processo na origem e a aplicação das determinações contidas na Resolução de 28 de novembro de 2018 da Corte Interamericana de Direito Humanos.
+O pedido liminar foiindeferido, às fls. 190-192.
+As informações foram prestadas, às fls. 197-205 e 209-217.
+O Ministério Público Federal, às fls. 218-223, manifestou-se pelo não conhecimento do writ e, se conhecido, pela denegação da ordem, em parecer assim ementado:
+"DIREITO PENAL E PROCESSUAL PENAL. HABEAS CORPUS. MANEJO DO WRIT COMO SUCEDÂNEO RECURSAL. INADEQUAÇÃO. EXECUÇÃO PENAL. PEDIDO DE CÔMPUTO EM DOBRO DO PERÍODO DE PENA CUMPRIDO NO COMPLEXO DO CURADO/PE, NOS TERMOS DA RESOLUÇÃO DE 28.11.2018 DA CORTE INTERAMERICANA DE DIREITOS HUMANOS. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. DETERMINAÇÃO DE SOBRESTAMENTO DE AGRAVOS EM EXECUÇÃO RELATIVOS À QUESTÃO. EXCESSO DE PRAZO NO JULGAMENTO DO IRDR. RAZOÁVEL TRAMITAÇÃO DO FEITO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. PELO NÃO CONHECIMENTO DO HABEAS CORPUS, ACASO SUPERADA A PRELIMINAR, PELA DENEGAÇÃO DA ORDEM."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitirhabeas corpussubstitutivo do recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia dohabeas corpuscomo instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. No caso, incabível o presentemandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Pois bem.
+O presentewritnão reúne condições de ser conhecido.
+Explico.
+O eg. Tribunal de origem veioinformar que oIRDR nº 008770-65.2021.8.17.9000, que trata da matéria naquela Corte,suspendeutodos os feitos na origem(fl. 197): "Em resposta a solicitação formulada no habeas corpus em epígrafe, informo a Vossa Excelência que na sessão de julgamento do Incidente de Resolução de Demandas Repetitivas no 0008770-65.2021.8.17.900, realizada em 21.06.2021, a Seção Criminal deste Tribunal, à unanimidade de votos, reconheceu a existência de divergência jurisprudencial em relação à aplicação da decisão da Corte Interamericana de Direitos Humanos  IDH (Resolução de 28, de novembro de 2018), determinou a suspensão dos efeitos práticos da contagem em dobro do tempo de prisão nas unidades integrantes do denominado Complexo do Curado e ordenou o sobrestamento de todos os processos e recursos relacionados à questão jurídica em apreço, até o julgamento do mérito do mencionado incidente".
+Em consulta ao sitio eletrônico do Tribunal de origem, verifica-se que houve julgamento em 8/9/2022, contudo, consta que oPrograma de Extensão Acesso ao Sistema Interamericano de Proteção aos Direitos Humanos (aSIDH), da Universidade Federal de Pernambuco, admitida no presente feito como amicus curiae, opôs embargos de declaração, estando, no momento, com vistas à Defensoria Pública do Estado.
+Sobre oIRDR, este eg. Superior Tribunal de Justiça explica:"O Incidente de Resolução de Demandas Repetitivas (IRDR) é instrumento processual com o inequívoco objetivo de imprimir celeridade e uniformização na solução de demandas de massa, sendocabível somente no âmbito dos tribunais de justiça e tribunais regionais federaisquando houver repetição de processos sobre a mesma questão de direito ou nas situações de risco à isonomia ou à segurança jurídica"(AgInt nos EDcl na Pet 13.602/DF,Corte Especial,Rel. Min.Humberto Martins, DJe de 27/5/2021, grifei).
+Representa, portanto, importante mecanismo processual, criado pelo novo Código de Processo Civil, cuja competência natural se reserva à própria Corte que comporta as demandas repetitivas.
+Cabe, nesse compasso, em primeira mão, a manifestação dojuízo naturalda causa, embora não se olvide e não se negue que esta eg. Corte Superior vem reiteradamente determinado o fiel cumprimento das Resoluções emitidas pela Corte Interamericana de Direitos Humanos  CIDH.
+Tal situação foi, recentemente, também objeto de apreciação pelo Em. Min.Reynaldo Soares da Fonseca, o qual assim manifestou, quando da decisão noHC n. 682.865/PE, em21/9/2021, vejamos:
+"Trata-se de habeas corpus, com pedido liminar, impetrado em favor de RONALDO ESTEVAO DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE PERNAMBUCO (Agravo em Execução n. 0010278-46.2021.8.17.9000).
+No presente writ, as impetrantes sustentam que o paciente, em cumprimento de pena no Presídio Frei Damião de Bozzano, sofre constrangimento ilegal, em razão de ver seu direito ao cômputo em dobro dos dias que cumpriu pena no Complexo Penitenciário do Curado vedado por ter sido dado efeito suspensivo a Incidente de Resolução de Demandas Repetitivas.
+(..)
+Como é de conhecimento, o Código de Processo Civil disciplina o incidente de resolução de demandas repetitivas, com o objetivo de uniformizar a jurisprudência nos Tribunais Estaduais e Regionais, de maneira a evitar ofensa à isonomia e à segurança jurídica.
+Nesse contexto, a análise direta do tema por esta Superior Corte de Justiça revelaria não apenas supressão de instância, mas manifesto desprestígio às instâncias ordinárias e aos instrumentos processuais de uniformização da jurisprudência.
+(..)
+Diante do exposto, não conheço do presente habeas corpus.
+Recomendo, todavia, que o Tribunal de Justiça do Estado de Pernambuco adote celeridade no julgamento do mencionado IRDR."
+Deve-se, nesse contexto, reconhecer a determinação desuspensãode todos os processos na origem, conforme decidido nos autos do próprio IRDR supra.
+Motivos todos pelos quais há de se aguardar que a eg. Corte de origem se manifeste em relação ao mérito do IRDR, sob pena de atuação emindevidasupressão de instância e dedesprestígioao incidente em curso.
+Diante de todo o exposto,não conheço do writ,sem prejuízode nova impetração nesta Corte Superior, após o julgamento do IRDR.
+Recomenda-se, ao TJPE, que julgue com celeridade o IRDR mencionado.
+Comunique-se o Conselho Nacional de Justiça - CNJ desta decisão.
+P. I. C.
