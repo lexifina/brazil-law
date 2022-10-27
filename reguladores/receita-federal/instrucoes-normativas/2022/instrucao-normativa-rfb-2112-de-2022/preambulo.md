@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2112, de 26 de outubro de 2022
+Altera a Instrução Normativa SRF nº 369, de 28 de novembro de 2003, que dispõe sobre o despacho aduaneiro de exportação sem exigência de saída do produto do território nacional, nas situações que especifica.
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem os incisos III e XXIV do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 6º da Lei nº 9.826, de 23 de agosto de 1999, no § 2º do art. 61 da Lei nº 10.833, de 29 de dezembro de 2003, e no art. 233 do Decreto nº 6.759, de 5 de fevereiro de 2009, resolve:
