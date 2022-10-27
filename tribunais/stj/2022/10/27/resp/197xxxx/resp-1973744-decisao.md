@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão assim ementado (e-STJ fl. 502):
+Apelação - Plano de Saúde - Ação de Obrigação de Fazer - Paciente portador de síndrome de autismo - Sentença de parcial procedência - Aplicação do Código de Defesa do Consumidor - Rol orientador da ANS prevê apenas cobertura mínima obrigatória - Súmula 102 deste Tribunal - Somente ao médico que acompanha o caso é dado estabelecer qual o tratamento adequado para alcançar a cura ou amenizar os efeitos da enfermidade que acomete o paciente - Súmula 96 deste Tribunal - Tratamento indicado por médico responsável pelo atendimento da Autora - Entendimento jurisprudencial deste E. Tribunal - Sentença mantida - Recurso improvido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 542/544).
+Em suas razões (e-STJ fls.518/531), a parte recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 10 e 12, VI, da Lei n. 9.656/1998 e 757 do CC/2002(e-STJ fls. 524/529):
+ .. o custeio dos tratamentos pretendidos pelo Recorrido dos métodos ABA, não está previsto no rol de procedimentos, razão pela qual não há qualquer obrigatoriedade de custeio do mesmo pela Seguradora.
+ .. este Superior Tribunal de Justiça recentemente entendeu, através do julgamento do REsp nº 1.733.013 - PR em 10.12.20191 que o rol de procedimentos fixado pela ANS previsto pela Resolução Normativa nº 428/2017 não é meramente exemplificativo, tratando-se de cobertura mínima obrigatória.
+Além disso, considerar o caráter meramente exemplificativo do rol põe em risco o equilíbrio econômico-financeiro do sistema de saúde suplementar em razão do efeito cascata, trazendo risco até mesmo à segurança jurídica.
+ .. O contrato objeto da lide - contrato de seguro saúde - visa cobrir os riscos - considerados como despesas médicas e procedimentos que se encontram cobertos (previsto no Rol da ANS), consignados na apólice e condições gerais e especiais, como exige o Código Civil Brasileiro.
+ ..  o Recorrido sempre teve ciência de que seu contrato não prevê o reembolso integral de despesas médicas particulares, e que nessas hipóteses o reembolso será efetuado conforme a tabela de honorários do contrato.
+Contrarrazões apresentadas às fls. 546/563 (e-STJ).
+O recurso foi admitido na origem.
+Parecer do MPF pelo não provimento do recurso (e-STJ fls. 604/612).
+É o relatório.
+Decido.
+Na origem, a parte recorridaajuizou demanda objetivando a cobertura do plano de saúde para tratamento de Transtorno do Espectro Autista mediante terapêutica pelo método ABA(e-STJ fls. 1/12).
+Em primeiro grau de jurisdição opedidofoijulgadoprocedente, decisão pelo Tribunal de origem nos termos do acórdão cuja ementa fora transcrita acima.
+Ocorre que, em assentada recente, a Segunda Seção do STJ firmou entendimento de que o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgados em 8/6/2022, DJe de 3/8/2022).
+Sem embargo, o Órgão Colegiado admitiu a excepcional possibilidade de cobertura do procedimento - indicado pelo médico ou odontólogo assistente mas não previsto no rol da agência reguladora -, inexistindo substituto terapêutico listado, desde que:
+(i) não tenha sido indeferida expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar;
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências;
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas comexpertisetécnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passivaad causamda ANS.
+De modo específico para a terapia que visa ao tratamento do "Transtorno do Espectro Autista" pelo método ABA, definiu-se no âmbito do EREsp n. 1.889.704/SP ser devida a cobertura pelo plano ou seguro de saúde porque a ANS considera que "as psicoterapias no método ABA estão contempladas na sessão de psicoterapia" do Rol da Saúde Suplementar (Relatório de Revisão do Rol 2018, pág. 147; e Nota Técnica n. 196/2017, pág. 146).
+Consigne-se que, embora houvesse limitação do número de sessões de tratamento, a resolução RN-ANS n. 469/2021 regulamentou expressamente "a cobertura obrigatória de sessões com psicólogos, terapeutas ocupacionais e fonoaudiólogos, para o tratamento / manejo do Transtorno do Espectro Autista (TEA)"
+De fato, conforme informação da própria autarquia reguladora, os "(..) beneficiários de planos de saúde portadores do Transtorno do Espectro Autista (TEA) de todo o País passam a ter direito a número ilimitado de sessões com psicólogos, terapeutas ocupacionais e fonoaudiólogos para o tratamento de autismo", o que "(..) se soma à cobertura ilimitada que já era assegurada para as sessões com fisioterapeutas".
+Sob outro enfoque, o voto condutor do julgado antes referido ponderou que a Convenção Internacional sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, assinados em Nova York, em 30 de março de 2007, da Organização das Nações Unidas (ONU), incorporada no Ordenamento Jurídico pátrio pelo Decreto nº 6.949/2009, e que detém estatura constitucional, assegura, em seu art. 25, que "as pessoas com deficiência têm o direito de gozar do estado de saúde mais elevado possível, sem discriminação baseada na deficiência", sendo vedada a "discriminação contra pessoas com deficiência na provisão de seguro de saúde e seguro de vida, caso tais seguros sejam permitidos pela legislação nacional, os quais deverão ser providos de maneira razoável e justa" (art. 25, "e").
+Além disso, o art. 3º, § 4º, da Resolução Normativa da ANS n. 539, de 23 de junho de 2022, incluiu o tratamento de Transtorno do Espectro Autista no rol mínimo de cobertura, mediante terapêutica a ser indicada pelo médico assistente, sendo, portanto, irrelevante a discussão do método utilizado, DENVER ou ABA.
+A esse respeito:
+Art. 3º O art. 6º, da RN nº 465, de 2021, passa a vigorar acrescido do § 4º, com a seguinte redação:
+Art. 6º (..)
+§ 4º Para a cobertura dos procedimentos que envolvam o tratamento/manejo dos beneficiários portadores de transtornos globais do desenvolvimento, incluindo o transtorno do espectro autista, a operadora deverá oferecer atendimento por prestador apto a executar o método ou técnica indicados pelo médico assistente para tratar a doença ou agravo do paciente."
+Tem-se, nesses termos, que o acórdão recorrido manifesta entendimento que converge com a jurisprudência firmada pela Segunda Seção desta Corte Superior, razão pela qual se impõe a sua manutenção.
+Quanto ao reembolso, oTribunal de origem concluiu que não se trata de reembolso, sob o fundamento de que (e-STJ fl. 511):
+Se o plano de saúde não dispuser de clínica/profissional apto a realização do tratamento prescrito, ele deverá arcar com o tratamento fora da rede credenciada, não havendo que se falar em reembolso, conforme estabelece o art. 2º da Resolução Normativa n. 259 da ANS:  ..
+Contudo, no recurso especial, apontando contrariedade ao art. 12 da Lei n. 9.656/1998, a partesustenta somente que o reembolso não poderia ser integral.
+Verifica-se, portanto, que não houve impugnação de todos fundamentos do acórdão recorrido. Incide, portanto, aSúmulan. 283 do STF.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
