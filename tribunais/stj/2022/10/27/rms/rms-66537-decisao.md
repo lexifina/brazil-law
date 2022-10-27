@@ -1,0 +1,9 @@
+DECISÃO
+MADIS RODBEL SOLUÇÕES DE PONTO E ACESSO LTDA.interpõe recurso contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulono Mandado de Segurança n. 2159172-46.2020.8.26.0000.
+O recorrente postula seja reconhecida "a manifesta ilegalidade da r. decisão judicial que decretou o bloqueio de bens, direitos e valores da ora recorrente mesmo diante da extinção da punibilidade, pela ocorrência da prescrição" (fl. 418).
+Todavia, em 20/9/2022, a Sexta Turma desta Corte Superior deu provimento ao RHC n. 119.342/SP para reconhecer a nulidade das decisões proferidas nos autos da Medida Cautelar n. 0020729-62.2015.8.26.0506, que autorizaram as interceptações telefônicas e lastrearam a totalidade das apurações realizadas no âmbito da Operação Sevandija, bem como a ilicitude das provas obtidas por esse meio, além de todas as que delas decorreram, em relação ao acusado Marco Antonio do Santos.
+Na mesma oportunidade, foi concedida a extensão dos efeitos do decisum a todos os corréus que "tiveram contra si diligências de interceptação telefônica deferidas nos atos decisórios transcritos no item I deste voto, nos termos do art. 580 do CPP" e determinado ao Juízo de primeiro grau que adotasse as seguintes medidas: "após descartar todos esses elementos viciados pela ilicitude, averiguar se há outros obtidos por fonte totalmente independente ou cuja descoberta seria inevitável, a permitir o prosseguimento do feito".
+Assim, vê-se que será feito novo exame do caso pelo Juízo de primeiro grau, em relação à existência de elementos autônomos e suficientes para configurar a justa causa para a persecução penal.
+Como não há, no momento, certeza sobre a existência de justa causa para a persecução criminal, identifico a superveniente perda do interesse recursal neste feito, que busca o desbloqueio de bens e valores.
+À vista do exposto, julgo prejudicado o recurso em mandado de segurança.
+Publique-se e intimem-se.
