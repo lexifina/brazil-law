@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por Caixa de Previdência dos Funcionários do Banco do Brasil,contra decisão que não admitiu o recurso especial, fundado naalíneaado inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Rio de Janeiroassim ementado (e-STJ, fls. 52-53):
+AGRAVOS DE INSTRUMENTOS. AÇÃO DE COBRANÇA. FASE DE CUMPRIMENTO DE SENTENÇA. DECISÃO QUE REJEITOU A IMPUGNAÇÃO APRESENTADA PELA IMPUGNANTE PREVI. RECURSOS INTERPOSTOS POR AMBAS AS PARTES. JULGAMENTO EM CONJUNTO.
+1. Em seu recurso a impugnante alega que houve equívoco nos cálculos, havendo excesso. O valor exequendo foi calculado em perícia na fase de liquidação de sentença e devidamente homologado pelo Juízo. Em sede de execução do saldo remanescente cabe apenas a atualização do valor e incidência dos juros devidos. Manutenção da decisão que rejeitou a impugnação.
+2. No recurso dos impugnados estes alegam que há incidência de multa e honorários advocatícios de 10% na forma do art. 523 do CPC. A multa do art. 523 do CPC/2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em Juízo, sem condicionar seu levantamento a qualquer discussão do débito. No caso a executada depositou o valor tempestivamente, mas condicionou o levantamento do valor ao resultado da impugnação por ela apresentado. Reforma da decisão para fazer incidir sobre o saldo remanescente a multa e os honorários advocatícios do art. 523 do CPC/2015.
+Desprovimento do Agravo de Instrumento 0024663-132020.8.19.0000. Provimento do Agravo 0043296-72.2020.8.19.0000.
+Nas razões do recurso especial,apontou-se violação aos arts. 523,§ 1º e 525,§ 1º, V, do CPC/2015(e-STJ, fls.63-81).
+Sustentou-se, em suma, que a impugnação ao cumprimento de sentença não trata apenas de cálculos de atualização monetária do valor anteriormente fixado na fase de liquidação, bem como não deve incidir a multa sobre o valor remanescente.
+Foram apresentadas contrarrazões (e-STJ, fls. 96-116).
+Juízo de admissibilidade negativo (e-STJ, fls. 131-134), o que provocou a interposição do presente agravo .
+Contraminuta ofertada (e-STJ, fls. 180-185).
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+Ao analisar o recurso da ora agravante, o Tribunal local consignou o seguinte (e-STJ, fl. 28):
+Primeiramente cumpre analisar o recurso interposto pela PREVI, que alega erro nos cálculos no que diz respeito a verba sucumbencial, vez que os exequentes utilizaram o valor depositado para o pagamento rateado dos autores e dos honorários advocatícios.Disse que o valor anteriormente depositado deve ser priorizado para o pagamento dos autores e não da verba sucumbencial.
+Tais argumentos não merecem amparo. Os cálculos realizados pelo perito em 2015 englobaram o valor do principal e dos honorários advocatícios de sucumbência.A agravante se esquece que houve decisão anterior, homologando os cálculos e tornando líquida a sentença fixando como valor devido R$2.312.687,25.
+Não tendo sido depositado o valor integral, o remanescente continua sendo devido, devendo apenas ser atualizado e com incidência de juros. Assim, não há que se falar em equívoco dos cálculos e muito menos de excesso de execução, devendo ser mantida a decisão que rejeitou a impugnação.
+Nota-se, da leitura dotrecho acima destacado, que a conclusão do acórdão recorrido está calcada nas premissas fáticas e probatórias acostadas aos autos, de modo que rever o entendimento da Corte local demandaria reexame do conjunto fático-probatório, o que encontra óbice naSúmula7 do STJ.
+De fato, consignou-se que, na hipótese, os cálculos feitos em 2015 pelo peritoenglobaram o valor do principal e dos honorários advocatícios de sucumbência, e, principalmente, ter ocorrido homologação do valor tornando a sentençalíquida, matériasinsusceptíveisde reexame por este Tribunal Superior.
+Relativamente ao agravo de instrumento da ora agravada, a Corte estadual assim se manifestou (e-STJ, fls. 58-61):
+Aqui os agravantes/impugnados insurgem-se contra a decisão agravada, alegando que o depósito efetuado pela PREVI teve por escopo a garantia do Juízo e não o pagamento da dívida remanescente. Diz que o depósito neste caso não afasta a incidência da multa e dos honorários advocatícios de sucumbência, ambos no percentual de 10%(dez por cento).
+Assiste razão aos agravantes.
+Após a homologação dos cálculos e o depósito a menor efetuado pela executada, os exequentes demandaram o pagamento do valorApós a homologação dos cálculos e o depósito a menor efetuado pela executada, os exequentes demandaram o pagamento do valor
+A ré, devidamente intimada, efetuou o depósito, mas alegando excesso de execução, afirmou que o valor depositado serviria para garantir o Juízo, vez que pretendia apresentar impugnação.
+Ora, segundo a jurisprudência do STJ, a multa a que se refere o art 523 do CPC/2015 será excluída apenas se o executado depositar voluntariamente a quantia devida em juízo, sem condicionar o seu levantamento a qualquer discussão do débito. A garantia do Juízo não se confunde com o pagamento voluntário.
+(..)
+No caso, não obstante a ré ter realizado o depósito do valor incontroverso de forma tempestiva, requereu que o depósito ficasse a disposição do Juízo sem nenhum levantamento até que seja definitivamente julgada a impugnação por ela a ser apresentada.
+Logo, o depósito efetuado pela ré não afasta a incidência da multa e honorários no importe de 10% cada um.
+(..)
+Assim merece reforma a sentença para determinar a incidência de multa e honorários advocatícios na forma do art. 523 do CPC/2015.
+Também nesse ponto incide o óbice da Súmula 7/STJ.
+Com efeito, a conclusão adotada teve por base os elementos fático-probatórios dos autos, notadamente a circunstância de que a própria agravante salientou se tratar de depósitopara garantir o Juízo, porque pretendia apresentar impugnação.
+Rever tal entendimento demanda reexame de matéria de fato.
+Em ambas as situações não há como chegar a conclusão diversa da que chegou a Corte local, a menos que se analisem os documentos e os fatos dos autos.
+Cumpre referir que, aparentemente, a agravante olvida, em cada uma das situações que (1)a sentença é líquida, porque decorrente do entendimento adotado em julgamento de processo anterior e (2) ela própria afirmou se tratar de depósito para garantir o juízo e, não, de pagamento voluntário.
+Nem se diga ser caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias.
+No caso, o que almeja a agravanteé a revisão da conclusão a que chegou a Corte estadual, acerca da inexistência deequívoco dos cálculos nem de excesso de execução e que, no caso, não houve pagamento voluntário e, sim, depósito para garantir o juízo.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pelas Súmulas 5 e 7/STJ.
+Não se olvide, ainda, o entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Ademais, verifica-se, que a conclusão da Corte estadual de que a sentença era líquida e ter se tratadode depósito para garantir o juízo - e não de pagamento voluntário -e que, como visto, serviu de base para o entendimento adotado,não foi impugnada no recurso especial, conforme se extrai das alegações apresentadas.
+De fato, aagravante dirigiu suas razões recursais no sentido de que a impugnação apresentada não trata de meros cálculos aritméticos e quenão se configurouo fato gerador para a incidência das penalidades.
+Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal, conforme o entendimento disposto na Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. AFRONTA AOS ARTS. 489, § 1º, IV, E 1022, II, DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. ALEGAÇÃO DE QUE O TRIBUNAL DE ORIGEM CONFERIU INTERPRETAÇÃO EXTENSIVA AO ACORDO FIRMADO. SUPOSTA PRESENÇA DE INTERESSE DE AGIR. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA E DE INTERPRETAÇÃO DE CLÁUSULAS. VEDAÇÃO. ÓBICE DAS SÚMULAS 5 E 7 DO STJ. HONORÁRIOS ADVOCATÍCIOS. RAZÕES DISSOCIADAS. FUNDAMENTO NÃO IMPUGNADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO DESPROVIDO. (AgInt no RECURSO ESPECIAL Nº 1891849 - MG, Relator Ministro PAULO DE TARSO SANSEVERINO, DJe de 18/6/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+2. O acolhimento da pretensão recursal exigiria derruir a convicção formada nas instâncias ordinárias sobre a ocorrência de dano moral. Incidência da Súmula 7/STJ.
+3. Agravo interno desprovido. (AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1839623 - PE, Relator Ministro MARCO BUZZI, DJe de 2/9/2021)
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. REJEIÇÃO. SENTENÇA. LÍQUIDA. VALOR EXEQUENDO HOMOLOGADO ANTERIOMENTE. QUANTIA DEPOSITADA PELA EXECUTADA. NATUREZA. GARANTIA DO JUÍZO E NÃO PAGAMENTO VOLUNTÁRIO. MULTA E HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA.REEXAME DASCONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. SÚMULA7/STJ. APLICAÇÃO. REVALORAÇÃO DA PROVA. AFASTAMENTO. ACÓRDÃO RECORRIDO. FUNDAMENTO INATACADO. SÚMULA 283/STF. INCIDÊNCIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
