@@ -1,0 +1,3 @@
+DECISÃO
+Cuida-se de pedido de cooperação jurídica, oriundo da Justiça portuguesa, que tem por objeto a notificação de Armando Pereira Nau, para comparecer à audiência designada para o dia 29 de novembro de 2022, às 09h45 horas, relativa aos autos do Processo n. 81/20.0PAVNF, em trâmite no Tribunal Judicial da Comarca de Braga - Juízo Local Criminal de Vila Nova de Famalicão - Juiz 2, Portugal, nos termos especificados a fls. 05/06.
+Tendo em vista que a diligência foi cumprida (certidão de fl. 78), determino a devolução dos autos à Justiça rogante com o cumprimento da comissão, por intermédio da autoridade central competente (art. 216-X do Regimento Interno do STJ).
