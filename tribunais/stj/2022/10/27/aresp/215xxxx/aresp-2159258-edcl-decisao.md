@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porSEBASTIÃO DIAS AMARALcontra decisão de minha lavra, em que não conheci do agravo em recurso especial, ante a ausência de impugnação específica dos fundamentos da decisão agravada (e-STJ fls. 439/440).
+Sustentaa parte embargante (a) que o recurso é tempestivo, tendo em vista o feriadono Município de Campo Grande/MS no dia 26/08/2022 e o disposto no CPC/2015 (são computados somente dias úteis nos prazos recursais); e (b) a ocorrência de omissão quanto ao direito adquirido e de contradição, pois impugnou especificamente o óbice da Súmula 7 do STJ.
+Intimada, a parte embargada não formulou impugnação (e-STJ fl. 463).
+Passo a decidir.
+De acordo com o disposto nos arts. 183 e 1.023 do CPC/2015, o prazo para a oposição de embargos de declaração é de 5 (cinco) dias úteis, de modo que a intempestividade do presente recurso é manifesta.
+Com efeito, conforme certificado pela Coordenadoria de Processamento de Feitos Públicos, à e-STJ fl. 457, o prazo para interposição de embargos de declaração contra a decisão de e-STJ fls. 439/440 teve início em 24/08/2022, encerrando-se em 30/08/2022.
+Todavia, os presentes embargos foram opostos apenas em 31/08/2022(e-STJ fl. 456), quando já transcorrido o prazo de 5 dias úteis, sendo manifesta a sua intempestividade.
+Cumpre destacar, ainda, quea alegação da recorrente de que o prazo recursal teria sido suspenso no dia 26/08/2022, em razão de feriado municipal do seu domicílio (Município de Campo Grande/MS), não abona a intempestividade, pois feriados locais não suspendem os prazos para interposição de recursos neste Tribunal Superior. A propósito:
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL INTEMPESTIVO. FERIADO ESTADUAL. IRRELEVÂNCIA. EMBARGOS REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando presente, ao menos, uma das hipóteses previstas no art. 619 do Código de Processo Penal.
+2. Na hipótese dos autos, o acórdão embargado foi claro ao afirmar que o agravo regimental foi protocolado neste Tribunal em 31/5/2016, quando já escoado o prazo legal de 5 dias, o qual se iniciara em 23/5/2016 e findara-se em 27/5/2016.
+3. É pacífico o entendimento desta Corte Superior no sentido de que a ausência de expediente forense em decorrência de feriado local não enseja a suspensão do prazo para a interposição de recursos perante o Superior Tribunal de Justiça.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp n. 908.430/SP, rel. Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 13/9/2016)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ACLARATÓRIOS OPOSTOS FORA DO PRAZO LEGAL. INTEMPESTIVIDADE.
+1. Nos termos do que decidido pelo Plenário do STJ, " a os recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A teor da jurisprudência desta Corte, a suspensão de prazo processual em decorrência de feriado local não afeta a contagem de prazo para a interposição de recursos neste Superior Tribunal de Justiça, ou seja, se o recurso tramita nesta Corte, os prazos processuais regem-se pelo funcionamento deste tribunal, não do Tribunal a quo. Precedentes: EDcl no AgRg no AREsp 337.189/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 12/9/2013; EDcl no AgRg no AREsp 55.411/GO, Rel. Ministro Sidnei Beneti, Terceira Turma, DJe 23/2/2012.
+3. In casu, encontra-se evidenciada a intempestividade, considerando que não obstante o prazo recursal ter se iniciado no dia 20/11/2015 (sexta-feira), exaurindo-se em 24/11/2015 (terça-feira), o recurso de embargos de declaração somente foi protocolizado nesta Corte no dia 26/11/2015 (quinta-feira).
+4. Aclaratórios recebidos como regimental, ao qual se nega provimento.
+(EDcl nos EDcl no AREsp n. 377.069/SP, rel. Ministro Benedito Gonçalves, Primeira Turma,DJe de 1/9/2016)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL. OMISSÃO, OBSCURIDADE E CONTRADIÇÃO INEXISTENTES. MANIFESTAÇÃO ACERCA DE PRINCÍPIOS CONSTITUCIONAIS. INVIABILIDADE. PRECEDENTES.
+1. Prevê o art. 535 do CPC a possibilidade de manejo dos embargos de declaração para apontar omissão, contradição ou obscuridade na sentença ou acórdão, o que não se verifica in casu.
+2. É pacífico o entendimento desta Corte Superior da irrelevância de feriado local para a contagem do prazo do agravo regimental, interposto perante o STJ.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp n. 779.657/SP, rel. Ministro Mauro Campbell Marques, Segunda Turma,DJe de 10/9/2009)
+Acrescente-se que o feriado local, ainda que suspenda o expediente forense noJudiciário da origem, não obsta a parte de apresentar seu recurso em processo que tramita noSTJ, por meio do peticionamento eletrônico, único meio deinterpor recurso nesta instância,como ocorreu no presente caso, tendo ambos os embargos sido opostoseletronicamente (e-STJ fl. 456). Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. IRRELEVÂNCIA. RECURSO NO STJ. PETICIONAMENTO EXCLUSIVAMENTE ELETRÔNICO. RESOLUÇÃO STJ/GP N. 10/2015. NÃO CABIMENTO. AUSÊNCIA DE ENFRENTAMENTO DO MÉRITO DO RECURSO ESPECIAL. ÓBICE DA SÚMULA N. 315/STJ. DECISÃO MANTIDA.
+1. O feriado local não suspende o prazo para recursos no âmbito do STJ. Precedentes.
+2. Nos termos do art. 10 da Resolução STJ/GP n. 10 de 6 de outubro de 2015, que regulamenta o processo eletrônico no âmbito desta Corte Superior conforme o disposto no art. 18 da Lei n. 11.419/2006, o peticionamento no âmbito STJ se dá por meio exclusivamente eletrônico.
+3. Nesse contexto, o feriado local, mesmo que enseje a suspensão do expediente no Judiciário da origem, não obsta a parte de peticionar em processos que tramitam no STJ, o que, inclusive, ocorreu neste autos, pois os embargos de divergência foram interpostos eletronicamente (documento eletrônico e-Pet n. 1843703 - e-STJ fls. 3/13 do expediente avulso).
+4. Segundo a jurisprudência da Corte Especial, "inadmitido o recurso especial na origem e desprovidos o agravo de instrumento (atual agravo em REsp) e o respectivo agravo regimental nesta Corte, mesmo que adotada fundamentação que passe pelo exame do mérito do apelo extremo, descabe a interposição de embargos de divergência, incidindo a vedação contida no enunciado n. 315 da Súmula/STJ" (EAg n. 1.186.352/DF, Rel. originário Ministro TEORI ALBINO ZAVASCHI, Rel. para acórdão Ministro CESAR ASFOR ROCHA, DJe de 10.5.2012).
+5. O atual Código de Processo Civil e o RISTJ, com a redação da Emenda Regimental n. 22/2016 (arts. 1.043 e 266, respectivamente), também impõem que o aresto embargado tenha sido proferido "em recurso especial".
+6. No caso concreto, o recurso especial não foi admitido na origem com fundamento na Súmula n. 7 do STJ, enquanto o agravo em recurso especial e o respectivo agravo regimental foram desprovidos com base nas Sumulas n. 5 e 7 do STJ. Logo, a matéria de mérito, sobre a qual recairia o suposto dissenso jurisprudencial, não foi sequer apreciada, circunstância que afasta o cabimento dos presentes embargos de divergência, destinados a impugnar acórdãos proferidos "em recurso especial".
+7. Agravo interno a que se nega provimento.
+(AgInt nos EAREsp n. 819.278/SP, rel. Ministro Antonio Carlos Ferreira, Segunda Seção, DJe de 13/2/2017)
+Nesse mesmo sentido, a seguinte decisão monocrática: EDcl nos EDcl no AREsp n. 1.267.700/SP, rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 16/04/2019.
+Diante do exposto, NÃO CONHEÇO dos embargos de declaração.
+Publique-se. Intimem-se.
