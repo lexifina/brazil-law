@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo regimental interposto por IRANILSON SANTOS CASTROcontra decisão de e-STJ fls. 1.334/1.335, proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do seu agravo.
+Nas razões recursais, a defesa alega, em suma, que "a motivação de eventual intempestividade no acórdão dos embargos de declaração de 2º Grau se dá porque houve equívoco na secretaria judicial, uma vez que, à época do protocolo dos Embargos de Declaração, dadas as circunstâncias sanitárias causadas pela pandemia, havia a possibilidade de distribuição e protocolo de petições e recursos através de e-mail"(e-STJ fl. 1.356). Aduz que "o Agravo deveria ter sido conhecido, uma vez que estaria superada a questão da tempestividade" (e-STJ fl. 1.358).
+Requer, assim, a reconsideração do julgamento para que do agravo em recurso especial seconheça.
+O Ministério Público Federal opinou pelo não conhecimento do agravo regimental (e-STJ fls. 1.385/1.389).
+É, em síntese, o relatório.
+Não há como conhecer da insurgência.
+Isso, porque, como bem observado pelo Parquet federal, o ora agravante apresentou dois recursos contra a mesma decisão. Primeiramente, os embargos de declaração de e-STJ fls. 1.338/1.352e, em seguida, o presente agravo regimental (e-STJ fls. 1.354/1.368).
+Com efeito, segundo a orientação firmada nesta Corte, em obediência ao princípio da unirrecorribilidade, não é permitido à parte apresentar mais de um recurso contra a mesma decisão.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. APRESENTAÇÃO DE DOIS RECURSOS SIMULTÂNEOS PELA MESMA PARTE CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. PRECLUSÃO CONSUMATIVA. PRINCÍPIO DA UNIRRECORRIBILIDADE RECURSAL. PRETENSÃO DE APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na espécie, o agravante apresentou dois recursos desafiando o mesmo decisum (e-STJ fls. 643/650). Primeiramente, os embargos de declaração de e-STJ fls. 653/659 e, em seguida, o agravo regimental de e-STJ fls. 665/669.
+2. Como é cediço, no caso de interposição de dois recursos pela mesma parte e contra o mesmo decisum, apenas o primeiro - na hipótese dos autos, os aclaratórios de e-STJ fls. 653/659 - poderá ser conhecido, em face da preclusão consumativa e do princípio da unicidade recursal, que veda a interposição simultânea de mais de um recurso contra a mesma decisão judicial, ressalvada a interposição de recursos especial e extraordinário.
+3. Ademais, é firme o entendimento deste Superior Tribunal de Justiça no sentido de que a interposição equivocada de recurso, quando há expressa disposição legal e ausente dúvida objetiva, constitui manifesto erro grosseiro, o que torna inaplicável o princípio da fungibilidade.
+4. Agravo regimental não provido. (AgRg no AgRg no AgRg no AREsp 1863624/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/6/2021, DJe 28/6/2021.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO DE REGIMENTAL NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO E AGRAVO REGIMENTAL APRESENTADOS CONTRA A MESMA DECISÃO. IMPOSSIBILIDADE. UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA.
+I - "Conforme a jurisprudência consolidada no âmbito desta Corte, a interposição de dois recursos pela mesma parte contra a mesma decisão impede o exame do que tenha sido protocolizado por último, haja vista a preclusão consumativa e a observância ao princípio da unirrecorribilidade das decisões" (AgRg no AREsp n. 376731/RJ, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 28/8/2014).
+II - Na hipótese, não obstante opostos embargos de declaração em face da decisão que negou seguimento ao recurso especial, a parte, no dia seguinte, interpôs agravo regimental atacando a mesma decisão, instante em que já configurada a preclusão consumativa.
+Agravo regimental desprovido. (AgRg no AgRg no REsp 1.153.042/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 25/11/2014, DJe 2/12/2014.)
+PENAL. CONFLITO DE COMPETÊNCIA. AGRAVO REGIMENTAL E EMBARGOS DE DECLARAÇÃO. RECURSOS INTERPOSTOS SIMULTANEAMENTE. OFENSA AO PRINCÍPIO DA SINGULARIDADE RECURSAL. PRECLUSÃO CONSUMATIVA. CONFLITO DE COMPETÊNCIA. NÃO-CONFIGURAÇÃO. MANIFESTAÇÃO DE SOMENTE UM DOS JUÍZOS. AGRAVO REGIMENTAL IMPROVIDO. EMBARGOS DE DECLARAÇÃO NÃO-CONHECIDOS.
+1. A interposição simultânea de dois recursos não atende ao princípio da unirrecorribilidade ou singularidade dos recursos, uma vez que demanda mais de um provimento jurisdicional.
+2. O princípio da singularidade recursal consagra a premissa de que, para cada decisão a ser atacada, há um recurso próprio e adequado previsto no ordenamento jurídico, e de que, em caso de recursos interpostos simultaneamente de uma mesma decisão, há preclusão consumativa do segundo, devendo reportar-se o julgador tão-somente ao primeiro.
+3. Para que ocorra o conflito de competência, é necessário o pronunciamento controverso de, pelo menos, duas autoridades judiciárias.
+4. Agravo regimental improvido. Embargos de declaração não-conhecido.(AgRg no CC 106.007/SP, Rel. Ministro ARNALDO ESTEVES LIMA, TERCEIRA SEÇÃO, julgado em 14/10/2009, DJe 9/11/2009.)
+Assim, a interposição de dois recursos pela mesma parte e contra a mesma decisão, como na espécie, impossibilita o conhecimento do segundo apelo, pela preclusão consumativa.
+Diante do exposto, não conheço do agravo regimental de e-STJ fls. 1.354/1.368.
+Publique-se. Intimem-se.
