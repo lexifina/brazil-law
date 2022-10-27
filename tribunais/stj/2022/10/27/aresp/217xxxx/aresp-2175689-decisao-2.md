@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PETRÓLEO BRASILEIRO S/A - PETROBRÁS (PETROBRÁS) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio Grande do Sul, da relatoria do Des. TASSO CAUBI SOARES DALBARY, assim ementado:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL.DANO AMBIENTAL. NAVIO BAHAMAS. DANOS À ATIVIDADE PESQUEIRA. PRESCRIÇÃO DA PRETENSÃO INDIVIDUAL. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA PARA APURAÇÃO DAS RESPONSABILIDADES. MARCO DE INTERRUPÇÃO DA PRESCRIÇÃO DA PRETENSÃO DA AÇÃO INDIVIDUAL.
+1. CONFORME ENTENDIMENTO CONSOLIDADO NESTA CORTE E NO STJ, O AJUIZAMENTO DE AÇÃO COLETIVA PARA APURAÇÃO DAS RESPONSABILIDADES PELOS DANOS CAUSADOS À COLETIVIDADE EM RAZÃO DE DESASTRE AMBIENTAL INTERROMPE O PRAZO PRESCRICIONAL DAS PRETENSÕES INDIVIDUAIS FUNDADAS NO MESMO FATO, ATÉ O TRÂNSITO EM JULGADO DA AÇÃO REFERIDA COLETIVA.
+2. INVIABILIDADE DE SE ADOTAR COMO TERMO INICIAL DO PRAZO PRESCRICIONAL O TRÂNSITO EM JULGADO DA AÇÃO CAUTELAR QUE TINHA POR OBJETO UNICAMENTE A ADOÇÃO DE OBRIGAÇÕES DE FAZER CONSIDERADAS URGENTE E ESSENCIAL A INTERROMPER A CONTINUIDADE DO GRAVE DANO AMBIENTAL.
+3. IMPOSSIBILIDADE DE APRECIAÇÃO DO MÉRITO DA CONTROVÉRSIA, NA FORMA PREVISTA NO ART. 1.013, §4 2 , DO CPC, UMA VEZ QUE PENDE DE REALIZAÇÃO A FASE INSTRUTÕRIA DO FEITO.
+RECURSO PROVIDO (e-STJ, fl. 1.820.)
+Os embargos de declaração opostos por PETROBRÁS foram rejeitados (e-STJ, fls. 1.959.1.965).
+Irresignada, PETROBRÁS interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de dissídio jurisprudencial, a violação aos arts. 489,1.022 e 1.040 do CPC/15, 927, 942 do CC/02; 3º e 14 da Lei n. 6.985/81e 2º, 3º, 4º, 16, 17 e 29 da Lei9.537/97 e 29 do Decreto n. 2.596/98, asseverando (1) negativa de prestação jurisdicional, por reputar haver (i) omissão no julgado, pois não existiu indicação de conduta da PETROBRÁS apta a ensejar imputação de responsabilidade pelo dano ambiental ocorrido e (ii) contradição em relação à aplicação de distintas teorias, ora para imputar, ora para excluir a responsabilidade dos réus; (2)deixou dedecidir o recurso "aplicando a tese firmadapelo STJ" (REsp n. 1.596.081/PR; e (3) inexistência de responsabilidade com base na teoria do risco inerente à atividade de administração do pier e ausência de omissão e nexo de causalidade com relação acidente.
+O recurso não foi admitido pelo TJRS (e-STJ, fls. 2.509/2.535).
+Nas razões do presente agravo, PETROBRÁS alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da violação dos arts. 489 e 1.022 do NCPC
+Nas razões do recurso especial,PETROBRÁS alegou, preliminarmente,negativa de prestação jurisdicional, por reputar haver (i) omissão no julgado, pois não existiu indicação de conduta da PETROBRÁS apta a ensejar imputação de responsabilidade pelo dano ambiental ocorrido e (ii) contradição em relação à aplicação de distintas teorias, ora para imputar, ora para excluir a responsabilidade dos réus.
+Contudo, verifica-se que as matérias atinentes às referidas teses não foram objeto de insurgência em sede ordinária, tendo o apelo sido interposto unicamente pelos recorridos.
+Assim, não há que se falar em omissão, tendo em vista a ocorrência da preclusão. Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA NEGANDO SEGUIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AUTORES.
+1. As questões efetivamente levadas à discussão ao Tribunal de origem foram analisadas e decididas de forma ampla, fundamentada e sem omissão, contradição ou obscuridade, devendo ser afastada a alegada violação aos artigos 128, 165, 458 e 535 do CPC/73.
+2. Na hipótese, os embargos de declaração foram utilizados como pretensão tardia de provocar a discussão da matéria inserta nos artigos 935 do CC; 462 do CPC/73, 63 e 64 do CPP e 91, inciso I, do CP e, não arguida oportunamente - nas razões de apelação -, caracterizando inovação recursal e ocorrência de preclusão consumativa.
+2.1. Não é possível adentrar no mérito dos referidos dispositivos legais - que também são objeto da alegação de omissão - diante da ausência de prequestionamento na origem, no caso em razão da inovação recursal. A falta de prequestionamento da matéria, a despeito da oposição dos embargos, atrai a aplicação da Súmula 211 do STJ.
+3. O Tribunal a quo, com base no conjunto fático e probatório carreado aos autos, manteve a sentença que julgou improcedentes os pedidos iniciais, por entender que não se acham presentes, na hipótese, os elementos caracterizadores da responsabilidade civil e do dever de indenizar, de maneira que a alteração de tais conclusões demanda a incursão nas questões de fato e de prova dos autos, inadmissível por esta via especial, ante o óbice da Súmula 7/STJ.
+4. Agravo regimental desprovido.
+(AgRg no REsp n. 1.509.040/MG, relator Ministro MARCO BUZZI, Quarta Turma, j. em 13/3/2018, DJe de 22/3/2018, sem destaques no original.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 535 DO CPC. OMISSÃO INEXISTENTE. QUESTÕES NÃO SUSCITADAS NAS RAZÕES À APELAÇÃO. INOVAÇÃO. PRECLUSÃO CONSUMATIVA. PRECEDENTES. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não subsiste a alegada ofensa do art. 535 do CPC porque o Tribunal de origem enfrentou todas as questões postas, não havendo, no acórdão recorrido, omissão, contradição ou obscuridade. Na espécie, os embargos de declaração foram utilizados na origem como pretensão tardia de provocar a discussão de matéria que nem sequer constou da apelação, caracterizando inovação recursal e ocorrência de preclusão consumativa.
+2. Se a matéria posta a exame não foi objeto de debate pelo Tribunal de origem, ressente-se o recurso especial, nesse particular, do indispensável prequestionamento. Aplicação à espécie da Súmula nº 211 do STJ.
+3. A alteração da conclusão do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, razão pela qual é inafastável a incidência do óbice da Súmula nº 7 do STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 522.644/SP, de minha relatoria, Terceira Turma, j. em 18/6/2015, DJe de 1/7/2015, sem destaques no original.)
+Afasta-se, portanto, a alegada prefacial.
+(2) e (3)Da violação dos arts.1.040 do CPC/15, 927, 942 do CC/02; 3º e 14 da Lei n. 6.985/81 e 2º, 3º, 4º, 16, 17 e 29 da Lei 9.537/97 e 29 do Decreto n. 2.596/98
+No mais, observa-se que osconteúdosnormativoscontidosnos arts.1.040 do CPC/15, 927, 942 do CC/02; 3º e 14 da Lei n. 6.985/81 e 2º, 3º, 4º, 16, 17 e 29 da Lei 9.537/97 e 29 do Decreto n. 2.596/98,não foram enfrentadas pelo TJRS, nem mesmo depois da oposição dos embargos de declaração.
+Assim, com base no que dispõe a Súmula nº 211 desta Corte, o recurso especial não poderia ter sido aqui analisado: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+A jurisprudência do STJ firmou o entendimento de que, para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal (AgRg no AREsp 621.867/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/3/2015, DJe 27/3/2015).
+Nessas condições, CONHEÇO do agravo, para NÃO CONHECER do recurso especial de PETROBRÁS.
+Inaplicável a majoração dos honorários recursais.
+Por oportuno, previnoque a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO NCPC. DANO AMBIENTAL. NAVIO BAHAMAS. ARTS. 489 E 1022 DO NCPC. OMISSÃO. AUSÊNCIA.DEMAIS PONTOS. VIOLAÇÃO. ARTS.1.040 do CPC/15, 927, 942 do CC/02; 3º e 14 da Lei n. 6.985/81 e 2º, 3º, 4º, 16, 17 e 29 da Lei 9.537/97 e 29 do Decreto n. 2.596/98.PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE. AGRAVO CONHECIDO.RECURSO ESPECIAL DA PETROBRÁSNÃO CONHECIDO.
