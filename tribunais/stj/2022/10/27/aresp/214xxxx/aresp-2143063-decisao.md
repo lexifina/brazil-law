@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA NACIONAL contra decisão do Tribunal do Tribunal Federal da 4ª Região, que não admitiu recurso especial fundado naalínea"a" do permissivo constitucional, quedesafia acórdão assim ementado:
+TAXA DE OCUPAÇÃO DE TERRENO DE MARINHA. PRESCRIÇÃO. LEI 9.636/98, COM REDAÇÃO PELA LEI 10.852/2004.
+O art. 47 da Lei nº 9.636/98 instituiu a prescrição quinquenal para a cobrança de receitas patrimoniais. A Lei 9.821/99 estabeleceu o prazo decadencial de cinco anos para a constituição do crédito, mediante lançamento, mantendo-se o prazo prescricional quinquenal. Com o advento da Lei 10.852/2004 houve nova alteração do art. 47 da Lei 9.636/98, para estender o prazo decadencial de cinco para dez anos, mantido o lapso prescricional de cinco anos, a ser contado do lançamento.
+Opostos embargos de declaração, foram rejeitados.
+No especial obstaculizado, a ora agravante apontou violação do art. 1.022, I e II, do CPC/2015, e dos arts.205 e 206 do CTN.
+Sustenta, preliminarmente, a existência de negativa de prestação jurisdicional e, quanto ao mérito, defende que o agravado não preenche as exigência legais para a concessão de certidão positiva com efeitos de negativa,no que se refere ao exercício de 2007.
+Contrarrazões apresentadas às e-STJ fls. 2416/2422.
+A decisão a quo inadmitiu o recurso especial ante a ausência de violação do art. 1.022, I e II, do CPC/2015, fundamento com o qual não concorda a parte agravante.
+Contraminuta às e-STJ fl. 2442/2447.
+Passo a decidir.
+Quanto à alegada ofensa ao art. 1.022, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes,tampouco a rebater um a um de todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+De outro lado, observa-se que a Corte Regional asseverou expressamente que "a sentença, que determinou a suspensão da exigibilidade do crédito tributáriodeve ser mantida até o trânsito em julgado do acórdão". Esclareceu, ainda, que "não há contradição entre o dispositivo que deu provimento ao apelo da União para não reconhecer a prescrição do crédito tributários e a determinação para manter suspensa a exigibilidade do crédito (e, por decorrência, abster-se a União de inscrever o contribuinte no Cadin e abster- se, também, de fazer novo lançamento) até o trânsito em julgado do acórdão".
+Nas razões do apelo raro, todavia, a agravante não impugnou esse fundamento, suficiente para a manutenção do acórdão recorrido quanto ao ponto, o que atrai a incidência da Súmula 283 do STF, segundo a qual: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais, os arts.205 e 206 do CTN, tidos por violados, não contêm comando normativo capaz de infirmar os fundamentos do acórdão recorrido, incidindo, assim, aSúmula 284 do STF, por deficiência na fundamentação.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
