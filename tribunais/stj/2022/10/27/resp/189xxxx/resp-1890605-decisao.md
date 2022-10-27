@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OBRIGAÇÃO DE FAZER. MILITAR REINCORPORADO. TESE DE VIOLAÇÃO À COISA JULGADA. OMISSÃO. OCORRÊNCIA. RECURSO ESPECIAL A QUE SE DÁ PROVIMENTO.
+1. Trata-se de recurso especial interposto pelaUNIÃO, com fundamento no art. 105, inciso III, alíneaa,da CF/1988, no qual se insurgecontra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃO, assim ementado:
+EXECUÇÃO DE SENTENÇA. OBRIGAÇÃO DE FAZER. PAGAMENTO DE FÉRIAS AO MILITAR REINCORPORADO. PRECATÓRIO DESNECESSÁRIO. ASTREINTES. CABIMENTO. IMPROVIMENTO DO AGRAVO DE INSTRUMENTO.
+1. Agravo de instrumento interposto pela UNIÃO FEDERAL contra decisão do Juízo da 4ª Vara Federal de Alagoas que determinou o pagamento de férias ao militar reincorporado para fins de tratamento de saúde, sob pena de multa diária no valor de R$ 100,00 (cem reais).
+2. A sentença transitada em julgado condenou a União "a pagar ao autor os valores correspondentes à remuneração que deixou de perceber durante o período que esteve indevidamente licenciado, corrigidos monetariamente pelo IPCA-e e acrescidos de juros de 0,5% a. m. a contar da citação".
+3. O art. 80 da Medida Provisória nº 2.215-10/2001, que trata da remuneração dos militares, reconhece expressamente o direito do militar ao pagamento de férias proporcionais. Não se trata de pagamento de valores atrasados resultantes de condenação, mas, sim, de pagamento normal de férias durante o período em que o militar esteve incorporado como adido, razão pela qual não se faz necessária a expedição de RPV ou precatório
+4. O egrégio Superior Tribunal de Justiça já firmou o entendimento, inclusive em sede de recurso repetitivo, no sentido de que é cabível a cominação de multa diária em face da Fazenda Pública como meio coercitivo para cumprimento das obrigações de fazer e não fazer. (REsp 1474665/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 26/04/2017, DJe 22/06/2017).
+5. O pagamento da multa depende da iniciativa da parte, mediante execução provisória, podendo, ainda ser objeto de redução ou exclusão, nos termos do art. 537, § 3º, do CPC.
+6. Agravo de instrumento improvido. (fl. 227).
+2. Os embargos de declaração opostos foram rejeitados (fl. 254).
+3. Nas razões do seu recurso especial, a parte recorrente sustenta violação dos arts.502 e 1.022, II, do CPC/2015 e6º da LINDB. Alega, em síntese, a ocorrência de omissão no acórdão recorrido referente à tese de violação à coisa julgada. No mérito, defende que a obrigação de fazer foi devidamente cumprida pela recorrente, uma vez que o autor foi reintegrado ao Exército na condição de adido, exclusivamente para fins de tratamento médico, até a sua reabilitação. Afirma, não ser possível a concessão do adicional de férias, tendo em vista o seu afastamento para tratamento de saúde.
+4. Devidamente intimada, a parte recorrida deixou de apresentar contrarrazões(fl. 283). O recurso especial foi admitido na origem (fl. 284).
+5. É o relatório.
+6. A irresignaçãomerece prosperar.
+7. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+8.No que importa à controvérsia travada no presente recurso, confira-se o seguinte trecho do acórdão:
+Consoante demonstrado na decisão recorrida, a sentença transitada em julgado condenou a União "a pagar ao autor os valores correspondentes à remuneração que deixou de perceber durante o período que esteve indevidamente licenciado, corrigidos monetariamente pelo IPCA-e e acrescidos de juros de 0,5% a. m. acontar da citação".
+Além disso, o art. 80 da Medida Provisória nº 2.215-10/2001, que trata da remuneração dos militares, reconhece expressamente o direito do militar ao pagamento de férias proporcionais:
+ ..
+Por outro lado, não se trata de pagamento de valores atrasados resultantes de condenação, mas, sim, de pagamento normal de férias durante o período em que o militar esteve incorporado como adido, razão pela qual não se faz necessária a expedição de RPV ou precatório.
+O egrégio Superior Tribunal de Justiça já firmou o entendimento, inclusive em sede de recurso repetitivo, no sentido de que é cabível a cominação de multa diária em face da Fazenda Pública como meio coercitivo para cumprimento das obrigações de fazer e não fazer. Vejamos:
+ ..
+Deve-se ressaltar que o pagamento da multa depende da iniciativa da parte, mediante execução provisória, podendo, ainda ser objeto de redução ou exclusão, nos termos do art. 537, § 3º, do CPC. (fls. 225/226).
+9. Contra o referido acórdão a parte recorrente opôs embargos de declaração a fim de provocar a Corte de origem a se manifestar sobre a ocorrência de violação à coisa julgada. Entretanto, o Tribunal a quo rejeitou os declaratórios sem apreciar o questionamento da parte recorrente.
+10. Dessa forma, é imperioso o acolhimento da pretensão recursal ante a ocorrência de violação ao art. 1.022 do CPC/2015, devendo os autos retornarem à origem para que seja sanado o vício apontado no recurso integrativo, por meio de novo julgamento dos embargos de declaração, com manifestação expressa a respeito da questão não apreciada.
+11. Ante o exposto, dou provimento ao recurso especial daUNIÃO para anular o acórdão proferido em embargos de declaração, e determino a devolução dos autos ao Tribunal a quo para que seja proferido novo julgamento com o saneamento do vício apontado
+12. Publique-se. Intimações necessárias.
