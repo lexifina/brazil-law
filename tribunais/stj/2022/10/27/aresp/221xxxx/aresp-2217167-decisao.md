@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto pela AMPLA ENERGIA E SERVIÇOS S.A., contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, conforme a seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. COMPANHEIRO E PAI DOS AUTORES QUE FOI ELETROCUTADO AO ESBARRAR EM FIO DE ALTA TENSÃO CAÍDO EM VIA PÚBLICA. SENTENÇA DE PROCEDÊNCIA PARCIAL DOS PEDIDOS INICIAIS. INDENIZAÇÃO POR DANOS MORAIS ARBITRADA EM R$ 50.000,00 PARA CADA UM DOS AUTORES.
+1. Responsabilidade civil objetiva. Artigo 37, § 6º, da CF. Art. 22 da Lei nº 8.078/1990.
+2. Concessionária ré que foi omissa quanto à manutenção da sua rede elétrica, sendo certo que os argumentos por ela trazidos, além de desprovidos de lastro probatório, representam fortuito interno inerente à sua atividade, que não possuem o condão de romper o nexo causal
+.3. Danos morais evidentes.
+4. Arbitramento da indenização por danos morais, consoante os princípios da razoabilidade e da proporcionalidade, inexistindo fundamento para sua redução, na forma da Súmula 343 desta Corte.
+RECURSO CONHECIDO E DESPROVIDO.
+Os embargos declaratórios foram rejeitados.
+Nas razões do recurso especial, a recorrente alega violação dos arts. 489 e 4.022 do CPC/2015, por ausência de fundamentação do acórdão recorrido.
+Alega afronta aos arts.373, I, do CPC/2015, 186 e 927 do CC/2002, sustentando inexistir nexo de causalidade a fundamentar a pretensão indenizatória da parte agravada. Assevera (e-STJ, fls. 481/483):
+26. Ultrapassados os questionamentos iniciais, e tendo em vista a certeza da aplicação da responsabilidade civil subjetiva ao caso, verifica-se que em momento algum restou provada a culpa da recorrente no evento, conforme seria dever dos recorridos comprovarem, nos termos do art. 373, I do CPC.
+27. Como é uníssono na doutrina e jurisprudência pátrias, constituem os elementos para a verificação da responsabilidade civil aquiliana subjetiva, regulada pelos artigos 186 e 927, caput, ambos do Código Civil: (i) a comprovação da conduta culposa ou dolosa do agente; (ii) a verificação do dano; e (iii) a configuração do nexo de causalidade entre a conduta, qualificada pela culpa lato sensu e o dano efetivamente experimentado.
+28. No caso concreto, necessário reconhecer que, não só não agiu a ora recorrente com culpa nem com dolo, quer de maneira comissiva, quer de maneira omissiva, como, ainda, não se verificou a existência de nexo de causalidade, conformerestou fartamente comprovado nos autos da ação originária. Na realidade, os recorridos limitaram-se a imputar responsabilidade à Ampla Energia e Serviços S. A. sem, contudo, comprová-la.
+(..)
+32. Levando-se em consideração o supramencionado, não há o que se falar em responsabilidade da recorrente, já que as supostas falhas alegadas não foram decorrentes da ausência de manutenção em sua rede de distribuição. Restou evidente, portanto, que não há nos autos qualquer documentação capaz de comprovar a participação culposa ou dolosa da ré para a ocorrência do lamentável acidente, motivo pelo qual merece reforma integral a r. decisão recorrida, devendo ser revisto o v. acórdão sob pena de violação ao art. 373, I do CPC.
+Alega ofensa aos arts. 884, 944, 402 e 403 do CC/2002, insurgindo-se contra o alegado enriquecimento sem causa da parte agravada. Sustenta (e-STJ, fl. 484):
+40. Por fim, levando-se em consideração que a indenização do dano moral puro tem o fim, único e exclusivo, de dar algum alento e satisfação que substitua a dor causada, o que se verifica, na realidade, é que a autores pretende o enriquecimento sem causa às custas da ré, o que viola expressamente o previsto no art. 884 do Código Civil de 2002, de modo que o quantum fixado a título de indenização, e mantido pelo v. acórdão, vai de encontro ao preconizado, também, nos arts. 402 e 403 do diploma civilista, devendo ser anulado.
+Foram apresentadas contrarrazões.
+O recurso especial foi inadmitido por incidência das Súmulas n. 7 e 83 do STJ - daí o presente agravo.
+É o relatório.
+Passo a decidir.
+Presentes o requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+A insurgência não merece prosperar.
+De início, registro a impossibilidade de conhecimento do recurso especial em relação à alegada ofensa aos arts. 489e 1.022, II, do CPC/2015, a qual foi formulada de forma genérica, sem a específica demonstração de suposto vício do acórdão recorrido.
+Desse modo, em razão da deficiente fundamentação recursal no ponto, incide a Súmula nº 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Sobre a caracterização do dano e a indenização a ser paga aos recorridos, o Tribunal de origem assim se manifestou (e-STJ, fls. 421/422):
+Como corolário do reconhecimento da responsabilidade civil objetiva, caberia à ré, ora apelante, a demonstração da inexistência do nexo de causalidade entre a sua conduta e os danos em questão, comopor exemplo fortuito externo, culpa exclusiva da vítima, ou de terceiros, ou força maior, o que, de fato, não ocorreu, não se desincumbindo de provar fato impeditivo, extintivo ou modificativo do direito da parte autora, consoante art. 333, II,CPC/15.
+A simples alegação de que terceiros teriam dado causa à queda do fio de alta tensão, desprovida de qualquer lastro probatório, não se presta a afastar a responsabilidade da concessionária, que deve zelar pela manutenção da rede de forma a assegurar a integridade de todos os cidadãos.
+Com efeito, a concessionária ré foi omissa quanto à manutenção da sua rede elétrica, sendo certo que os argumentos por ela trazidos, por representarem fortuito interno inerente à sua atividade, não possuem o condão de romper o nexo causal.
+O dano moral sofrido pelos autores, companheira e filhos da vítima,é incontestável, sendo presumível a afetividade e a dor pela perda prematura de um ente querido.
+Para se determinar o montante da reparação por danos não patrimoniais, há que se atender à sensibilidade do indenizando, ao sofrimento por ele suportado e à sua situação socioeconômica; e há, ainda, que se tomar em linha de conta o grau de culpa do agente, a sua situação socioeconômica e as demais circunstâncias do caso.
+Nessa linha de raciocínio, em conformidade com o disposto no art. 944 do CC2, a fixação da indenização por danos morais em R$ 50.000,00 (cinquenta mil reais), para cada autor, foi bem dimensionada, consentânea com o caso concreto, observados os valores comumente fixados em hipóteses análogas, inexistindo fundamento para sua redução, na forma da Súmula 343 desta Corte.
+Nesse contexto, a modificação das conclusões do acórdão recorrido para acolher a pretensão da agravante quanto ao afastamento do nexo de causalidade e a exclusão do dever de indenizar, demandaria o revolvimento do acervo fático-probatório dos autos, vedado em recurso especial, a teor da Súmula n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e a data de julgamento e a complexidade da causa, nos termosdo art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ENERGIA ELÉTRICA. EMBARGOS DECLARATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. NEXO DE CAUSALIDADE. COMPROVAÇÃO. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
