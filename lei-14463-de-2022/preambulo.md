@@ -1,0 +1,2 @@
+Dispõe sobre a reabertura do prazo para opção pelo regime de previdência complementar e altera a Lei nº 12.618, de 30 de abril de 2012, e a Lei nº 9.250, de 26 de dezembro de 1995, para adequá-las à Emenda Constitucional nº 103, de 12 de novembro de 2019, e estabelecer a natureza jurídica do benefício especial.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
