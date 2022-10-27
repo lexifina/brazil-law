@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por NUMERAL ASSESSORIA E CONSULTORIA EMPRESARIAL LTDA. contra decisão monocrática de relatoria do Min Og Fernandesque conheceu em parte do recurso especial e, nessa extensão, negou-lhe provimentoem razão da incidência das Súmulas n. 211 do STJ,283 e 284 do STF e da ausência de violação do art. 535 do CPC/73 (fls. 984-990).
+A embargante se insurge contra a incidência dasSúmulas 211 do STJ. 283 e 284 do STF.
+Requera reforma da decisão embargada.
+A embargada, instada a manifestar-se, silenciou.
+É, no essencial, o relatório.
+Os embargos declaratórios são incabíveis para a modificação do julgado que não se apresenta omisso, contraditório ou obscuro ou não contenha erro material.
+No caso dos autos, mostra-se evidente a pretensão infringente buscada pelaembargante, uma vez que pretendever alterada a decisão que deu provimento ao recurso especial da Fazenda Nacional.
+Depreende-se que a decisão embargada, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta. É o que se extrai dos seguintes trechos (fls. 986-989) :
+Quanto à alegada violação do disposto no art. 535, I, do CPC/1973, observa-se que as razões do recurso são genéricas, sem explicitar como teria ocorrido a contradição no julgado, o que atrai a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.")Registro, ainda, que não prospera a tese de afronta ao art. 535, II, do CPC/1973, porquanto o acórdão combatido fundamentou claramente seu posicionamento, consignando expressamente que: I) "a própria impetrante admite,, na inicial, que cometeu erro na etapa final do parcelamento, deixando de apresentar a consolidação tempestivamente"; e II) foi enviada mensagem eletrônica para a caixa postal cadastrada pela contribuinte, alertando sobre a necessidade de se manifestar em relação à prestação de informações necessárias à consolidação, no período de 7/6/11 a 30/6/11, sob pena de cancelamento do pedido de parcelamento, como aludido pela União Federal" (e-STJ, fl. 526). Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de a Corte de origem haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura vício passível de exame em embargos de declaração.
+ ..
+Observa-se que os arts. 97 e 99 do CTN; 14 da Lei n. 11.941/2009; e 2º da Lei n. 9.784/1999 e a teses a eles vinculadas não foram objeto de debate e deliberação pela Corte de origem, mesmo com a oposição dos embargos de declaração, o que redunda em ausência de prequestionamento da matéria, aplicando-se ao caso a orientação firmada na Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."). Ademais, ainda que superado tal fundamento, esta Corte Superior tem decidido pela impossibilidade de apreciação, na via especial, de afronta ao art. 97 do CTN, ao fundamento de que seria mera reprodução do princípio constitucional da legalidade tributária, previsto no art. 150, I, da Constituição da República.
+ ..
+Quanto ao mais, verifica-se que o aresto combatido decidiu a questão com fundamento no entendimento de que o art. 1º, § 9º, da Lei n. 11.941/2009 não seria aplicável ao caso, uma vez que não teria ocorrido a exclusão da empresa do parcelamento, mas, na realidade, cancelamento da sua inscrição, na forma estabelecida pelo § 3º do art 15 da Portaria Conjunta PGFN/RFB n. 6/2009.
+ ..
+Entretanto, tal fundamentação não foi impugnada nas razões recursais. Desse modo, verifica-se que estas encontram-se dissociadas daquilo que ficou decidido pelo Tribunal de origem, bem como que os dispositivos apontados, na petição de recurso especial, não possuem comando normativo capaz de sustentar a tese deduzida e infirmar os fundamentos do acórdão recorrido, o que caracteriza deficiência na fundamentação do especial e atrai, por analogia, os óbices das Súmulas 283 e 284 do STF, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia."; "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+ ..
+Frise-se que a falta de prequestionamento e a incidência dos óbices contidos nas Súmulas 283 e 284 do SFT, do mesmo modo, impedem o conhecimento do recurso também interposto pela alínea c do permissivo constitucional.
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC, razão pela qual inviável o seu exame emembargosde declaração.
+Nesse sentido, cito os seguintes precedentes:
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AUDITORES FISCAIS. GRATIFICAÇÕES. SINDICATO. LEGITIMIDADE EXTRAORDINÁRIA. ALEGAÇÃO DE OMISSÃO NO ACÓRDÃO. INEXISTENTE.
+ ..
+VII - Os embargos de declaração somente são cabíveis para a modificação do julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar possível erro material existente na decisão, o que não aconteceu no caso dos autos.
+VIII - Embargos de declaração não se prestam ao reexame de questões já analisadas, com o nítido intuito de promover efeitos modificativos ao recurso, quando a decisão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+IX - Embargos de declaração rejeitados.
+(EDcl nos EDcl no REsp n. 1.468.734/SP, relator Ministro Francisco Falcão, Segunda Turma,DJe de 17/5/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE.
+1. O acórdão embargado, ao não prover o Agravo Interno, consignou:
+ ..
+4. É patente que o argumento trazido pela parte embargante não diz respeito aos vícios de omissão, obscuridade ou contradição, mas a suposto erro de julgamento ou apreciação na causa. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua alteração, que só muito excepcionalmente é admitida.
+5. Como já decidido pela Primeira Seção, "o fato de o decisum concluir em sentido diverso do defendido pelo ora embargante não enseja o aviamento de embargos declaratórios para promover mero rejulgamento." (EDcl no MS 17.906/DF, Rel. Min. Napoleão Nunes Maia Filho, Rel. p/acórdão Min. Og Fernandes, DJe 19.12.2016) 6. Dessa forma, a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015. Os Embargos Declaratórios não constituem instrumento adequado à reanálise da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+7. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp n. 1.895.210/RJ, relator Ministro
+Herman Benjamin, Segunda Turma,DJe de 15/3/2022.)
+Ressalta-se que, nos termos dajurisprudência consolidada do STJ,"não tendo o recurso ultrapassado o juízo de admissibilidade, não pode amatéria de méritoser objeto de exame, mesmo que a controvérsia seja objeto de Recurso Repetitivo" (STJ, AgInt no REsp 1.814.371/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 11/09/2020).
+No mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HIPÓTESE DE CABIMENTO. OMISSÃO. INOBSERVÂNCIA DE TEMA EM REPETITIVO. DESNECESSIDADE DIANTE DE RECURSO INADMISSÍVEL. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Da análise do agravo de fls. 234/243 (e-STJ), verifica-se que a agravante não impugnou os fundamentos da decisão agravada relativos à ausência de prequestionamento e Súmula 83/STJ, de modo que o agravo em recurso especial não mereceu conhecimento, haja vista a incidência do inciso V do art. 21-E do RISTJ.
+2. A jurisprudência consolidada do STJ é no sentido de que "não tendo o recurso ultrapassado o juízo de admissibilidade, não pode a matéria de mérito ser objeto de exame, mesmo que a controvérsia seja objeto de Recurso Repetitivo" (STJ, AgInt no REsp 1.814.371/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 11/09/2020).
+3. Embargos de declaração acolhidos sem efeitos modificativos.
+(EDcl no AgInt no AREsp n. 2.082.807/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/10/2022, DJe de 17/10/2022.)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
