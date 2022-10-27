@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido de liminar,interposto porCesar Augusto Accorsi de Godoy,impugnando-se o acórdão proferido pelo Tribunal de Justiça de Santa Catarina,que não conheceu do HC n. 5049102-91.2022.8.24.0000.
+Consta dos autos que o Juízo da 3ªVara da comarca de São Bento do Sul/SC, nos autos da Ação Penaln.0002149-82.2019.8.24.0058, ao receber a denúncia em desfavor do recorrente pelas supostas práticas dos crimes deconcussão, corrupção passivae coação no curso do processo, rejeitou o pedido preliminar de incompetência da justiça comum (fls. 19/23).
+A defesa, ao ser intimada para apresentaçãodas alegações finais,arguiu a existência de nulidade absoluta por violação ao juiz natural. Todavia, o Magistrado singular rejeitou o pedido em 11/10/2021(fls. 24/26).
+Inconformada, a defesa impetrouhabeas corpusna origem. O Tribunala quonão conheceu do writ (fls. 64/66).
+Opostos os embargos de declaração, o Colegiado estadual rejeitou-os em 29/9/2022 (fls. 86/89).
+Daí o presente recurso, em que se alega incompetência do Juízo em razão da matéria, ante os fatos narrados na denúncia seremde competência da Justiça eleitoral.
+Sustenta-se que aprópria decisão judicial da autoridade coatora que rejeitou a alegação de incompetência utilizou fundamento que remete ao enquadramento típico do art.350 do Código Eleitoral (fl. 105).
+Defende-se que a incompetência em razão da matéria pode ser alegada a qualquer momento e grau de jurisdição, inclusive após o trânsito em julgado, não havendo preclusão, bem como sendo vedada a prorrogação e/ou convalidação de atos instrutórios ou decisórios, o que, por via de consequência, determina a invalidação ab initio do processo (art.567 do CPP), por se tratar de nulidade absoluta(fl. 106).
+Requer-se, liminarmente, a suspensão da ação penala fim de evitar que seja proferida sentença condenatória por juízo incompetente, até o julgamento definitivo do writ.No mérito, a concessão da ordem para decretar a nulidade absoluta de todos os atos instrutórios e decisórios praticados pelo juízo incompetente, com violação do juiz natural (art. 5º, XXXVII e LIII, da CRFB) e, consequentemente, o declínio de competência e remessa dos autos para a Justiça Especializada Eleitoral (fl. 111).
+Nas contrarrazões, o Ministério Público estadual manifestou-se pelo não provimento do recurso (fls.129/130).
+É o relatório.
+Primeiro,é incabível a interposição de recurso ordinárionos casos em que o Tribunal de origem não conhece do habeas corpus.
+Ora, por força do que dispõe o próprio art. 105, II, "a", da CF/88, que possibilita o cabimento do recurso ordinário em HC somente das decisões denegatórias proferidas em única ou última instância pelos Tribunais Regionais Federais e Tribunais de Justiça dos Estados, do Distrito Federal e dos Territórios(RHC n. 40.780/RS, Ministro Nefi Cordeiro, Sexta Turma, DJe 20/6/2014).
+Sobre o tema, entre outros, confira-se também o RHC n. 29.598/RS, Ministro Jorge Mussi, Quinta Turma, DJe 21/9/2011.
+Segundo,a Corte local não discutiu a questão da incompetência, porquea pretensão posta demanda inevitável e aprofundado exame da prova, o que não tem cabimento na via eleita. A propósito, vale a leitura deste trecho do acórdão(fls. 65/66 - grifo nosso):
+ ..
+Como relatado, buscam os impetrantes a valoração probatória dos fatos, a análise de depoimentos judiciais perante a Justiça Estadual, bem como provas orais em procedimento extrajudicial da Justiça Eleitoral e, com isso, declarar a incompetência do juízo a quo para processar e julgar a ação penal de origem, ante ao sentir dos insurgentes a presença de crime condizente à justiça especializada.
+Ocorre que o Habeas Corpus é um remédio constitucional de natureza excepcionalíssima que serve estritamente para aferir a legalidade do comando que privar ou ameaçar privar a liberdade de locomoção do indivíduo, não sendo possível a análise exaustiva das provas e das peculiaridades do caso concreto.
+Assim, impossível a análise exaustiva meritória nesta estreita via de cognição para aferição de competência com base nas provas testemunhais, devendo a insurgência ser aventada pelas vias recursais ordinárias em caso de mantença pelo juízo singular em sede de sentença, após a apresentação das mesmas em eventual alegação final.
+ ..
+Ademais, inexiste flagrante ilegalidade a ser reconhecida ex officio, inclusive pois, elementos indiciários dão conta de que o paciente, em tese, cobrava valores que não seriam destinados a qualquer partido político, mas a si próprio, o que, a priori, afasta a ocorrência de qualquer crime eleitoral.
+Outrossim, existem elementos que precisam ser melhor aferidos na ação penal no sentido de que o próprio partido político pelo qual o paciente solicitava valores teria confirmado, por meio da direção estadual, orientação expressa para a não realização de cobranças de interessados na nova formação diretiva na cidade de São Bento do Sul.
+Inclusive, o suposto partido pelo qual o paciente faz parte nem mesmo estaria constituído no supracitado município.
+Desta feita, os elementos indiciários afastam a ocorrência, ao menos por ora, de crimes eleitorais, ao passo que inviável a aferição de comprovação de situação similar do paciente com investigados em outras seara da Justiça, por este remédio constitucional.
+Nessa linha, confiram-se alguns julgados: RHC n. 119.350/PE, Ministro Joel Ilan Paciornik, Quinta Turma,DJe 19/10/2020; AgRg no RHC n. 122.155/PR, Ministro Felix Fischer, Quinta Turma, DJe 15/9/2020; e AgRg no HC n. 498.992/MG, Ministro Jorge Mussi, Quinta Turma, DJe 17/9/2019.
+Terceiro, não há sequer justificativa ou meiospara eventual expedição de ordem de habeas corpus de ofício, até porque os autos estão mal instruídos. Não há cópia dadenúncia, não havendo como aferir, nem superficialmente, a dita ofensa ao juiz natural.
+Ante o exposto,não conheçodo presente recurso emhabeas corpus.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS.CONCUSSÃO, CORRUPÇÃO PASSIVA E COAÇÃO NO CURSO DO PROCESSO.SUPOSTA CONEXÃO COM CRIME ELEITORAL. INCOMPETÊNCIA DO JUÍZO EM RAZÃO DA MATÉRIA.HABEAS CORPUS NÃO CONHECIDO PELO TRIBUNAL DE ORIGEM. DESCABIMENTO DO RECURSO ORDINÁRIO. ART. 105, II, A, DA CF.ANÁLISE APROFUNDADADE PROVAS. INADMISSIBILIDADE. INSTRUÇÃO DEFICIENTE DA INICIAL. INEXISTÊNCIA DE MANIFESTA ILEGALIDADE. CONCESSÃO DA ORDEM DE OFÍCIO. IMPOSSIBILIDADE.
+Recurso em habeas corpusnão conhecido.
