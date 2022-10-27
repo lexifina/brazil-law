@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SÉRGIO SILVA DOS SANTOS JUNIOR, contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Agravo em recurso especial interposto em:11/04/2022.
+Concluso ao gabinete em:25/10/2022.
+Ação:declaratória de inexistência de título c/c pedido de indenização por danos materiais e compensação por danos morais ajuizada por SÉRGIO SILVA DOS SANTOS JUNIOR em face de JOSIMAR APARECIDO BRAGA e VANDERLEI HELBEL.
+Sentença: julgouprocedente em parte a ação para declarar a inexigibilidade de três cheques.
+Acórdão: deu parcial provimento ao recurso do autor/agravante, nos termos da seguinte ementa:
+"Ação declaratória. lnexigibilidade de cheques. Cártulas emitidas na compra de gado. Bovinos não entregues. Sustação administrativa consumada. Cheques protestados. Ineficácia reconhecida. Declaratória de inexistência de débito. Sentença que julgara procedente o pedido. Ausência de recurso específico da ré. Coisa julgada formal e material (art. 471 e 515, caput, do CPC). Danos materiais. Recurso que não os especifica. Prejuízo não demonstrado. Pedido improcedente. Danos morais. Protesto indevido de cheques. que perdurara por cinco dias. Mácula ao nome civil caracterizada. Lesão que dispensa prova específica. Indenização devida. Vitória e derrota que impõe a distribuição equânime do ônus da sucumbência. Embargos declaratórios. Sentença de 1º Grau de Jurisdição. Rejeição. Reiteração. Ausência de justa causa. Aclaratórios manifestamente protelatórios. Sentença que está fundamentada e abordara o suficiente à equação da controvérsia. Solução de uma causa que não depende da apreciação exauriente de todos os argumentos discutidos. Condenação no pagamento de multa decorrente de reiteração (art. 538,parágrafo único, CPC). Adequação. Penalidade cabível. Apelo provido em parte." (e-STJ, fls. 289/290)
+Embargos de declaração: opostos peloagravante, foram rejeitados.
+Recurso especial: alegou ofensa aos arts. 141, 487, §1º, IV, 489, II e III, 492, 538 E 1.022, II,do CPC/2015; 13 e25 daLei7.357/85;186, 927 do Código Civil, sustentando: i) omissão e contradição do julgado; ii) que o valor fixado para os danos morais deve ser majorado; iii) que ficou comprovada a agiotagem e a má-fé dorecorrido Vanderlei, razão pela qual é caso de acolhimento integralda postulação da "desvalia legal das aludidas cártulas", mesmo que limitada ao agiota (segundo recorrido).
+RELATADO O PROCESSO, DECIDE-SE.
+- Da violação do art. 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art.1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito queentende cabível à hipótese, soluciona integralmente a controvérsiasubmetida à sua apreciação, ainda que de forma diversa daquela pretendidapela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma,DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada eexpressamente, acerca dos temas daagiotagem e eventual má-fé, da suficiênciado valorfixado para os danos morais, do pedido de desvalialegal dos cheques e acerca da multa aplicada por embargos protelatórios,de maneira que os embargos de declaração opostos pelo recorrentenãocomportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, nãohá que se falar em violação do art. 1.022 do CPC/2015, incidindo, quantoao ponto, a Súmula 568/STJ.
+- Do pedido de revisão do valor da compensação por danos morais
+Relativamente à compensação por danos morais a Corte de origem assim decidiu:
+"Isto posto, marque-se que o quantum indenizatório deve ser arbitrado sopesando-se as forças econômicas dos autores da lesão, a reprovabilidade de sua conduta e o abalo do crédito infligido. Na espécie, o protesto indevido alcançara o valor total de R$ 11.866,66, cujos efeitos perduraram por cinco dias, período exíguo. Além disso, os causadores da lesão são pessoas físicas, não se tendo notícia de suas respectivas forças econômicas. Ante tais peculiaridades, sobretudo o exíguo período pelo qual persistira o referido protesto notarial, arbitro a indenização por danos morais no valor equivalente a R$ 1.500,00. " (e-STJ, fls. 667/668)
+A jurisprudência do STJ é pacífica no sentido de que a modificação dovalor fixado a título de danos morais somente é permitida quando a quantiaestipulada for irrisória ou exorbitante, o que não está caracterizadoneste processo.
+Nesse sentido: AgInt no AREsp 840.135/RS, 3ª Turma, DJe de 06/09/2016, eAgInt no AREsp 866.899/SC, 4ª Turma, DJe de 21/09/2016.
+Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo oconhecimento dorecurso.
+- Do reexame de fatos e provas
+O Tribunal de origem, assim se manifestou quanto as questões debatidas no recurso especial:
+"Desse modo, mantém- se hígida a conclusão do juízo a quo no sentido de que não foi infirmada a presunção de boa-fé do réu Vanderlei. Nessa senda, a alegada e indiciária prática de agiotagem pelo aludido réu revelou- se como fato insuscetível, por si só, de demonstrar que havia conhecimento de sua parte acerca do desacordo comercial entre o autor, emitente dos cheques, e o réu Josimar, que lhe repassou as cártulas.
+(..)
+In casu, não há provas suficientes de que o réu Vanderlei detinha conhecimento do prejuízo causado ao autor em decorrência do desacordo entre esse e o réu Josimar, sendo os indícios de prática de agiotagem por esse réu incapazes de induzir, por si só, conclusão diversa, de modo a prevalecer, portanto, a inoponibilidade das exceções pessoais de boa-fé.
+Por conseguinte, não há contradição apta a modificar o quanto decidido por esta Colenda Câmara às fls. 262/266, devendo ser mantida a aplicação da multa devido ao caráter protelatório dos segundos embargos de declaração á opostos pelo autor na origem. No tocante ao segundo ponto, concernente à omissão do dispositivo em relação à fundamentação consistente na "desvalia legal das aludidas cártulas",pleiteia o autor a devolução dos cheques, de modo a impedir a sua circulação, e porém, também não lhe assiste razão nesse particular.
+Ora, o v. acórdão, ao citar a referida expressão ("desvalia legal das aludidas cártulas") cingia-se a resumir, de forma meramente descritiva, o conteúdo da r. sentença proferida na origem, a qual, por seu turno, conforme já apontado acima, declarou a inexigibilidade dos títulos apenas em face do réu Josimar, oprovimento jurisdicional esse que, logicamente, não tem efeitos sobre o réuVanderlei.
+Não se olvida que o réu Vanderlei foi condenado, em sede recursal,ao pagamento da indenização ao autor de forma solidária, o que não significa que adeclaração de inexigibilidade do título lhe foi estendida, pois não houve qualquertrecho de nenhum dos acórdãos nesse sentido. " (e-STJ, fls. 547/548)
+"Sobreleva destacar que a prova oral invocada pelo embargante apenas contém indícios da prática de agiotagem pelo embargado Vanderlei, não evidenciando que este de fato tivesse conhecimento acerca do prejuízo sofrido pelo embargante, como ressaltado no v. acórdão." (e-STJ, fl. 573)
+Dessa forma, alterar o entendimento da Corte de origem, fundamentado naproporcionalidade do valor fixado em razão das circunstânciasespecíficas da hipótese dos autos; na falta de comprovação da agiotagem e da má-fé do primeiro réu; na exigibilidade dos títulos apenas com relação ao segundo réu; e no cabimento d multa, exige o reexame de fatos e provas, vedado em recursoespecial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+A incidência da Súmula 7 desta Corte acerca do tema que se supõedivergente, valor da compensação por danos morais, impede o conhecimentoda insurgência veiculada pela alínea "c" do art. 105, III, da Constituiçãoda República.
+Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 eAgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+Ainda que assim não fosse, afalta da similitude fática, requisitoindispensável à demonstração da divergência, inviabiliza a análise dodissídio.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III,do CPC/15, CONHEÇO EM PARTE do recurso especial e, nesta extensão, NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, sedeclarado manifestamente inadmissível, protelatório ou improcedente,poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. DANOS MATERIAIS E MORAIS. INSCRIÇÃO INDEVIDA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. DANOS MORAIS. MAJORAÇÃO. IMPOSSIBILIDADE. SÚMULA 568/STJ. AGIOTAGEM. MÁ-FÉ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7 DO STJ.
+1. Ação declaratória c/c indenizatória. Danos materiais e morais.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3.A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+4.O reexame de fatos e provas em recurso especial é inadmissível.
+5.O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido.
