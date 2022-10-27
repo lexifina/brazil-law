@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por SAULO DE TARSO NUNES PITOLI e OUTROS, com fundamento no art. 105, III, a e c, da Constituição Federal, contra decisão do Tribunal de Justiça do Estado do Paraná assim ementada (e-STJ, fl. 5.088):
+APELAÇÃO CÍVEL - COBRANÇA - APELAÇÃO CÍVEL Nº 1.572.226-4 - INEXISTÊNCIA DE COISA JULGADA - LANÇAMENTOS INDEVIDOS - NÃO OCORRÊNCIA NO CASO EM TELA - SENTENÇA REFORMADA - DEMANDA JULGADA IMPROCEDENTE - ÔNUS SUCUMBENCIAIS DE RESPONSABILIDADE DOS AUTORES - APELAÇÃO DO AUTOR NÃO PROVIDA. APELAÇÃO DO BANCO PROVIDA.
+A cobrança de tarifas bancárias pela instituição financeira até 29/04/2008, ou seja, na vigência da Resolução nº 2.303/96 do BACEN, é considerada legal, independentemente de contratação. (TJPR -16ª C. Cível - 0000308-39.2011.8.16.0128 - Parana city - Rel.: Luiz Fernando Tomasi Keppen - J.31.10.2018)
+Os embargos de declaração opostos não foram acolhidos (e-STJ, fls. 5.114-5.118).
+Nas razões do recurso especial (e-STJ, fls. 5.128-5.137), os recorrentes aduzemviolação aos arts. 5º, XXXVI, da CF/1988; 6º da LINDB; 502, 503, 505, 508, 509, § 4º e 966 do CPC/2015, sustentando, em síntese, que houve violação ao princípio da coisa julgada. No ponto, apontaram divergência jurisprudencial.
+Alegam, também, contrariedade aos arts. 47, caput, e 54, § 3º, do CDC, tendo em vista que, no contrato de adesão, a informação da existência de tabela disponível na agência para cobrança de tarifas com o Código 87 não estava redigida de forma clara.
+Apresentadas as contrarrazões (e-STJ, fls. 5.143-5.168), o apelo extremo foi admitido na origem (e-STJ, fls. 5.175-5.177), ascendendo os autos a esta Corte de Justiça.
+Brevemente relatado, decido.
+De início, os dispositivos legais apontados pelosrecorrentes - arts. arts. 47, caput, e 54, § 3º, do CDC - não foram enfrentados pelo acórdão impugnado, incidindo o óbice da Súmula n. 211/STJ.
+No caso em estudo, o Tribunal local, ao julgar a apelação interposta pelos insurgentes, afastou a violação à coisa julgada sob a seguinte fundamentação (e-STJ, fls. 5.092-5.093):
+O pleito dos Autores de anulação da sentença por ofensa a coisa julgada não merece prosperar, eis que o acórdão de mov. 1.62 dos autos originários prolatado por este Colegiado visou apenas a anulação da sentença para elaboração de novo laudo pericial a fim de possibilitar a análise pelo Juiz de Piso sobre os lançamentos ocorridos na conta corrente e se foram em prol do correntista ou não.
+(..)
+A tese de que o referido acórdão determinou a devolução de valores é inconcebível, se assim o fosse não teria anulado a sentença, mas sim condenado o banco a ressarcir os autores.
+O que restou determinado por esta Corte, e devidamente analisado pelo juízo a quo, foi a análise individualizada de cada espécie de lançamento, verificando se: i) havia necessidade de autorização expressa do correntista quando de seu lançamento; ii) se havia expressa autorização, quando necessário ;iii) em havendo necessidade de autorização, e esta não existindo, verificar se o lançamento se reverteu, ou não, em benefício do correntista.
+A devolução de valores, como já reconhecido por esta Corte se dá apenas para os lançamentos que não apresentam autorização quando necessária e, cumulativamente, não se reverteram em benefício dos correntistas.
+Foi esta a determinação judicial que fez coisa julgada, a qual foi, reitere-se novamente, correta e devidamente observada pelo magistrado ao longo da sentença, inexistindo qualquer fundamento fático e legal para sua alteração, quanto aos quesitos já afastados na r. sentença. Isto posto, entendo pelo desprovimento do recurso das partes autoras.
+Diante desse contexto, acolher o inconformismo da parte insurgente, a fim de desconstituir a convicção alcançada no aresto recorrido, reconhecendo a existência de afronta à coisa julgada, demandaria o reexame do contexto fático-probatório dos autos, o que não se admite no âmbito do recurso especial, ante o óbice disposto no enunciado n. 7 da Súmula do STJ.
+Cumpre registrar que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 0,5% sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se
+EMENTA
+RECURSO ESPECIAL. COBRANÇA. VIOLAÇÃO AO DEVER DE INFORMAÇÃO. FALTA DE PREQUESTINAMENTO. SÚMULA 211/STJ. OFENSA À COISA JULGADA. NÃO CONSTATAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
