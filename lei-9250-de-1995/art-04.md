@@ -23,7 +23,7 @@ f) R$ 1.637,11 (mil, seiscentos e trinta e sete reais e onze centavos), por mês
 g) R$ 1.710,78 (mil, setecentos e dez reais e setenta e oito centavos), por mês, para o ano-calendário de 2013;
 h) R$ 1.787,77 (mil, setecentos e oitenta e sete reais e setenta e sete centavos), por mês, para o ano-calendário de 2014 e nos meses de janeiro a março do ano-calendário de 2015; e
 i) R$ 1.903,98 (mil, novecentos e três reais e noventa e oito centavos), por mês, a partir do mês de abril do ano-calendário de 2015;
-VII - as contribuições para as entidades fechadas de previdência complementar de natureza pública de que trata o § 15 do art. 40 da Constituição Federal, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios complementares assemelhados aos da Previdência Social.
+VII - as contribuições para as entidades fechadas de previdência complementar de que trata o § 15 do art. 40 da Constituição Federal, cujo ônus tenha sido do contribuinte, destinadas a custear benefícios complementares assemelhados aos da Previdência Social.
 Parágrafo único. A dedução permitida pelo inciso V aplica-se exclusivamente à base de cálculo relativa aos seguintes rendimentos, assegurada, nos demais casos, a dedução dos valores pagos a esse título, por ocasião da apuração da base de cálculo do imposto devido no ano-calendário, conforme disposto na alínea e do inciso II do art. 8º desta Lei:
 I - do trabalho com vínculo empregatício ou de administradores; e
 II - proventos de aposentados e pensionistas, quando a fonte pagadora for responsável pelo desconto e respectivo pagamento das contribuições previdenciárias.
