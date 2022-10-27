@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial interposto pela CELG DISTRIBIÇÃO S.A. - CELG-G, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, conforme a seguinte ementa:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DE PROCESSO ADMINISTRATIVO E INEXISTÊNCIA DE DÉBITO. ENERGIA ELÉTRICA. SUPOSTA FRAUDE NO MEDIDOR. PRELIMINAR DE ILEGITIMIDADE ATIVA AFASTADA. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. INVERSÃO DO ÔNUS DA PROVA. PROCEDIMENTO ADMINISTRATIVO UNILATERAL. AFRONTA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. DANO MORAL NÃO CARACTERIZADO. SENTENÇA REFORMADA EM PARTE.
+1. Consoante precedente desta Corte, viável a inversão do ônus da prova, diante da verossimilhança das alegações da parte autora/apelada e da sua hipossuficiência técnica, a quem se reputa difícil a produção de prova tendente a comprovar a irregularidade em seu medidor de energia elétrica.
+2. Segundo entendimento já pacificado pelo Superior Tribunal de Justiça, os débitos oriundos de serviços essenciais, dentre eles os de energia elétrica, possuem natureza de obrigação pessoal. Todavia, no caso dos autos, não obstante tenha havido contrato de locação do imóvel, não houve a alteração da titularidade contratual perante a concessionária do serviço, de modo que a obrigação recaiu sobre o proprietário, justificando o seu interesse processual e legitimidade.
+3. Uma vez que o processo administrativo de apuração da fraude no medidor deixou de observar os princípios do contraditório e da ampla defesa, forçoso reconhecer a sua nulidade e, de consequência, inexistir o débito nele apurado. 4. A alegação genérica de aborrecimentos sofridos não justifica compensação a título de indenização por danos morais. Não comprovado nos autos a suspensão dos serviços, tampouco que houve inscrição em cadastro de inadimplentes.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Os embargos declaratórios foram rejeitados.
+Nas razões do recurso especial, a agravante alega violaçãodos arts. 4º e 29 da Lei n. 8.987/1995;3º, XVIII eXIX, da Lei n. 9.247/1996; e 2º, §§ 1º e 2º, da LINDB, sustentando que "os procedimentos para caracterização da irregularidade e recuperação da receita estão baseados na Resolução Normativa 414 da ANEEL, não competindo ao Poder Judiciário,imiscuir-se no mérito da referida norma regulatória, como feito em decisum atacado" (e-STJ, fl. 593).
+Sustenta afronta aos arts. 186, 188, 388 e 927 do CC/2002, aduzindo a regularidade do Termo de Ocorrência e Inspeção, que teria gerado a cobrança em face da parte agravada. Assevera (e-STJ, fl. 607):
+53. Conforme se pode verificar no Termo de Ocorrência e Inspeção (TOI) nº 716684(doc. nos autos), foi realizada vistoria no medidor de consumo da parte recorrida, tendo sido retirado o Medidor para inspeção e produção de Laudo Técnico, sendo acondicionado em invólucro de Lacre nº 430190,ante a constatação visual de irregularidades junto ao equipamento, nos termos do Art. 129, § 1º, I e § 5º da Res. 414/2010 da ANEEL.
+54. Em seguida, foi emitida notificação acerca da lavratura do Termo de Ocorrência e Inspeção junto à Unidade Consumidora, nos termos do Art. 115 e 129 da Resolução Normativa nº 414/2010 da ANEEL, para ciência, em especial, da possibilidade de acompanhamento da Avaliação Técnica realizada no medidor, o que pode ser comprovado através do AVISO DE RECEBIMENTO constante no Processo Administrativo, expedido junto ao endereço que consta no cadastro da Unidade Consumidora(doc. nos autos).
+55. Destaca-se que FOI EMITIDA NOTIFICAÇÃO JUNTO AO ENDEREÇO QUE CONSTA CADASTRADO NA UNIDADE CONSUMIDORA, SENDO A NOTIFICAÇÃO RECEBIDA AOS 23/01/2019.
+56. Importante salientar, novamente, que a recorrente possui Certificações laboratoriais emitidas pelo INMETRO, o que demonstra a lisura dos procedimentos de análise técnica, ora realizados, evidenciando ainda a prerrogativa que lhe é concedida para tanto (Art. 129, § 6º da Res. 414/2010 da ANEEL).
+57. Devidamente constatada e comprovada a irregularidade na medição do consumo de energia, e a violação do medidor, foi apurada uma diferença de consumo, no período indicado alhures, sendo o consumidor devidamente notificado.
+Foram apresentadas contrarrazões.
+O recurso especial foi inadmitido por incidência daSúmulan. 282 do STF- daí o presente agravo.
+É o relatório.
+Passo a decidir.
+Presentes o requisitos de admissibilidade do agravo, passo à análise do recurso especial.
+A insurgência não merece prosperar.
+O Tribunal de origem não se manifestou sobre os arts.4º e 29 da Lei n. 8.987/1995; 3º, XVIII e XIX, da Lei n. 9.247/1996; e 2º, §§ 1º e 2º, da LINDB,186, 188, 388 e 927 do CC/2002, tendo decidido a questão à luz do CDC.
+Dessa forma, ausente o requisito do prequestionamento, incidente o óbice da Súmula n. 282/STF.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b , do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e a data de julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. TERMO DE OCORRÊNCIA E E INSPEÇÃO. PREQUESTIONAMENTO. AUSÊNCIA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
