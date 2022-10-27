@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo, manejado por CELULOSE NIPO-BRASILEIRA S.A., desafiando decisão do Tribunal Regional Federal da 1ª Região, que não admitiu recurso especial com base na aplicação da Súmula 83/STJ.
+Nas razões do agravo, a parte sustenta que: (I) "a matéria realçada nos embargos restou sem apreciação o que demonstra claramente a violação ao artigo 535, do Código Processual (atual art. 1022 do CPC/15)" (fl. 513); e (II) "a r. decisão que inadmitiu o Recurso Especial da ora Agravante partiu de premissa equivocada, ao afirmar
+categoricamente que o benefício da Lei 9.363 não pode ser aplicado de forma retroativa conforme jurisprudência pacificada perante este Superior Tribunal de Justiça. Entretanto tal entendimento não merece prosperar, posto que, a uma, conforme realçado, a questão não se refere a retroatividade dos efeitos da Lei 9.363/96, mas ao reconhecimento do direito objetivo de ressarcimento em razão do dano causado por ter sido mitigada, até a edição da Medida Provisória 948/95, a isenção objetiva concedida pelos diplomas legais e, a duas, a decisão agravada se baseou em jurisprudência ainda não pacificada no âmbito tanto do STJ, sendo certo ainda que não há precedente vinculativo na Colenda Corte sobre a matéria, ou seja, a mesma não foi julgada na forma dos recursos representativos da controvérsia e tão pouco foi apreciada pelo STF na forma de repercussão geral" (fl. 516).
+Contraminuta às fls. 548/552.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ (consonância do acórdão recorrido com a jurisprudência do STJ), caberia à recorrente demonstrar que o precedente indicado na decisão agravada não se aplicaria ao caso dos autos ou, ainda, que o entendimento jurisprudencial do STJ não está pacificado no mesmo sentido do acórdão recorrido, com a citação de julgados contemporâneos ou supervenientes aos referidos na decisão impugnada, providência da qual não se desincumbiu.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Essa foi a linha de entendimento confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar os EAREsp 701.404/SC e os EAREsp 831.326/SP.
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
