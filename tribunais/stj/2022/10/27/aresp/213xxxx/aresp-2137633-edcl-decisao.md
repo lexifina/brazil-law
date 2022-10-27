@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUPA NEGOCIOS CORPORATIVOS EIRELI à decisão de fls. 728/729, que não conheceu do recurso.
+Sustenta a parte embargante que:
+1. Douto Ministro Presidente, pedindo todas as vênias, por um equivoco, Vossa Excelência não conheceu do presente Ag.Resp., por suposta intempestividade e ausência de comprovação do feriado local no momento de interposição do REsp., entretanto, ocorreu um erro ocasionado pelo sistema do Tribunal Bandeira, vejamos: (fl. 731).
+ ..
+1. Douto Ministro Presidente, pedindo todas as vênias, por um equivoco, Vossa Excelência não conheceu do presente Ag.Resp., por suposta intempestividade e ausência de comprovação do feriado local no momento de interposição do REsp., entretanto, ocorreu um erro ocasionado pelo sistema do Tribunal Bandeira, vejamos:
+ ..
+4. De fato, o Egrégio Tribunal Paulista efetuou a "liberação do recurso nos autos em 14/11/2021", porém o protocolo foi em data anterior, sendo dia 12/11/2021, veja folhas 611/620 e-STJ, in fine: (fl. 732).
+ ..
+6. O Embargante comprovou a ocorrência de feriado local no momento da interposição do recurso, vide às folhas 635/640, constatando a juntada de certidão comprovando feriado local no momento da interposição do recurso na origem, assim, o Recurso é tempestivo, tanto pela data do protocolo e pela comprovação de feriado local (fl. 733).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+De fato, houve equívoco na decisão ora embargada, no sentido de que o recurso especial foi interposto em 14/11/2021. Na verdade, essa foi a data da liberação nos autos. O protocolo do recurso especial ocorreu em 12/11/2021, de acordo com a certidão enviada pelo Tribunal de origem à fl. 723.
+No entanto, o recurso permanece intempestivo, conforme fundamentação abaixo.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Na vigência do CPC de 1973, a jurisprudência admitia a comprovação posterior da tempestividade. (AgInt no AREsp 1576616/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 26/5/2020; e EDcl no AgInt no AREsp 1008329/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 9/9/2019.)
+Todavia, esse entendimento não subsiste em razão de disposição expressa do CPC vigente, cujo art. 1.003, § 6º, dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento apto a comprová-la ser juntado aos autos no momento da interposição do recurso.
+A propósito, confira-se este precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp n. 957.821/MS, relatora para o acórdão Ministra Nancy Andrighi, Corte Especial, DJe de 19/12/2017.)
+É certo que o feriado nacional de 2/11/2021 não precisa ser comprovado. Porém, os dias 29/10/2021 e 1º/11/2021 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso e não posteriormente, como feito pela parte, por meio da petição de fls. 634/640.
+Ainda que assim não fosse, veja-se que o calendário ou mera relação de feriados juntado às fls. 635/637, sem o inteiro teor do respectivo ato normativo, não tem o condão de afastar a intempestividade do recurso.
+A propósito: EDcl no AgInt no AREsp 1678668/RJ, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 18/03/2021; AgRg no AREsp 1716583/AM, relator Ministro João Otávio de Noronha, Quinta Turma, Dje de 17/12/2020; AgInt no AREsp 1727320/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 16/12/2020; AgInt no AREsp 1692102/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/10/2020.
+Observe-se também que o Provimento CSM Nº 2548/2020 (fls. 638/640) diz respeito à suspensão de prazos recursais no ano de 2020, não tendo o condão de afastar a intempestividade do recurso especial.
+Ante o exposto, acolho os embargos de declaração somente para corrigir o erro material verificado na decisão de fls. 728/729, nos termos acima expostos, mantendo, porém, o não conhecimento do recurso (art. 21-E do RISTJ).
+Publique-se. Intimem-se.
