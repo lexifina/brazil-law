@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, contra acórdão do TJ/PR, assim ementado (fl. 47):
+AGRAVO DE INSTRUMENTO. AÇÃO PREVIDENCIÁRIA. DECISÃO QUE DECLINOU A COMPETÊNCIA PARA A JUSTIÇA FEDERAL.
+ROL DO ARTIGO 1.015 DO CÓDIGO DE PROCESSO CIVIL. TAXATIVIDADE MITIGADA. PRECEDENTE VINCULANTE DO SUPERIOR TRIBUNAL DE JUSTIÇA (TEMA 988). DEMONSTRADA A URGÊNCIA OU RISCO DE INUTILIDADE DO RECURSO. ENTENDIMENTO ANTERIOR DA CORTE SUPERIOR QUE JÁ ADMITIA AGRAVO DE INSTRUMENTO CONTRA DECISÕES A RESPEITO DA DEFINIÇÃO DE COMPETÊNCIA.
+LAUDO PERICIAL QUE APONTOU PATOLOGIA DEGENERATIVA SEM NEXO CAUSAL COM O TRABALHO EXERCIDO. POSSIBILIDADE DE REMESSA DO FEITO À JUSTIÇA FEDERAL. INCOMPETÊNCIA DA JUSTIÇA ESTADUAL. VALORIZAÇÃO DOS PRINCÍPIOS DA CELERIDADE E ECONOMIA PROCESSUAL. REMESSA DOS AUTOS AO JUÍZO COMPETENTE PARA O JULGAMENTO DA CAUSA. MANUTENÇÃO DA DECISÃO AGRAVADA.
+ALEGADA LITIGÂNCIA DE MÁ-FÉ NÃO OBSERVADA. INSURGÊNCIA RECURSAL PLAUSÍVEL E SEM ABUSO DE DIREITO.
+RECURSO CONHECIDO E DESPROVIDO.
+Em suas razões, o agravante sustenta violação dos arts. 19 e 20, § 1º, "a", da Lei 8.213/91, sob os seguintes argumentos: (a) a competência para julgar ação de cunho acidentário é da justiça estadual (súmula 15/STJ) e, na espécie não resta dúvida de que se trata de ação relacionada à acidente do trabalho. Ainda, no caso, convicto o julgador de que nos autos não há prova do nexo de causalidade entre as doenças que acometem o Autor e o trabalho exercido, deve ser julgado improcedente o pedido inicial, o que não ocorreu no caso em exame, em que o "acórdão recorrido - sob alegação de que a solução seria mais "benéfica ao beneficiário da seguridade social" (sic) - determinou a remessa dos autos à Exma. Justiça Federal" (fl. 70.)
+Argui, o juízo competente sempre foi a Justiça Estadual e não o MM. Juízo Federal. Não há como remeter o feito a juízo manifestamente incompetente, pois. A exegese do E. Tribunal de origem é totalmente oposta ao sentido da norma. O afastamento do nexo causal acidentário ocasiona a extinção definitiva, reitere-se.
+Por fim, defende, que "o princípio da fungibilidade de benefícios autoriza que o Poder Judiciário conceda um benefício em lugar de outro. Mas, o postulado nunca teve o poder de fazer de tabula rasa o art. 64, do CPC, adentrar em campo processual e aditar extemporaneamente o pedido com a transmutação da própria natureza da lide acidentária." (fl. 73.)
+Com contrarrazões (fls. 77-84).
+Juízo positivo de admissibilidade às fls. 89-91.
+Às fls. 132-158, a parte Autora, ora recorrida, atravessa petição dando conta de que o presente recurso especial perdeu o objeto, tendo em vista que "o processo principal foi julgado, com resolução de mérito, em 2/7/2021, ou seja, antes mesmo de o Agravo de Instrumento ser julgado, o que somente ocorreu em 30/7/2021". Intimado (fl. 159) a se manifestar acerca do teor da referida petição o INSS manteve-se silente.
+É o relatório. Passo a decidir.
+Inicialmente cumpre dizer que recai sobre o presente recurso especial o Enunciado Administrativo 3/STJ o qual dispõe in verbis: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Feitas essas considerações tem-se que o recurso especial não merece trânsito.
+Cuida-se na origem de agravo de instrumento interposto pelo Instituto Nacional do Seguro Social - INSS, contra a decisão interlocutória proferida nos autos de ação previdenciária n. 0003194-03.2019.8.16.0137, que declinou da competência para processar e julgar o feito para a Vara de Competência Delegada de Porecatu. Negada a atribuição de efeito suspensivo ao agravo de instrumento. Por sua vez, o acórdão recorrido negou provimento ao instrumento.Irresignada a Autarquia interpôs recurso especial.
+O apelo nobre foi recebido neste Gabinete em 18/08/2022.
+Em consulta ao sistema de informações processuais - Portal Unificado da Justiça Federal da 4ª Região, verifica-se que o feito foi julgado - sentença publicada em 2/7/2021-, por meio da qual o Juízo Federal de primeira instância julgou procedente o pedido formulado na inicial, com resolução do mérito nos termos do art. 487, I, do CPC, "para condenar o requerido a conceder à autora, o auxílio-doença a partir do último requerimento administrativo (25/9/2019, sobre o qual deve incidir correção monetária pelo INPC desde esta data e juros de mora nos termos do art. 1º-F da Lei n. 9.494/1997, com a redação dada pelo art. 5º da Lei n. 11.960/2006, a contar da citação, a qual deverá ser mantida até a finalização da reabilitação, podendo o INSS iniciar o processo de reabilitação a qualquer momento.". Interposto recurso de apelação pelo INSS esse foi "parcialmente provido para afastar o condicionamento da cessação do benefício à conclusão de processo de reabilitação e determinar a aplicação do INPC como índice de correção monetária, confirmando a antecipação da tutela anteriormente concedida para determinar a implantação do benefício". O Acórdão transitou em julgado em 6/06/2022, com baixa definitiva do processo à Comarca de origem em 7/6/2022.
+Assim, com a prolação de sentença pelo magistrado e do trânsito em julgado do acórdão que julgou o recurso de apelação, resta prejudicado o julgamento deste agravo de instrumento, em razão da perda superveniente de seu objeto, prejudicado o exame da matéria ventilada neste recurso.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO  ..  SUPERVENIENTE SENTENÇA DE MÉRITO, JÁ CONFIRMADA EM SEDE DE REMESSA NECESSÁRIA. PERDA DE OBJETO DO RECURSO.
+ ..
+2. Em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de Minas Gerais, verifica-se que foi proferida sentença de total procedência dos pedidos autorais nos autos da ação principal de nº 5101207-18.2018.8.13.0024, a qual foi confirmada pelo Tribunal de Justiça em sede de remessa necessária, razão pela qual o presente recurso, manejado contra decisão precária que tratou da tutela de urgência, perdeu seu objeto. Nesse sentido: AgInt no AREsp 1.722.955/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 01/07/2021; AgInt no REsp 1.818.292/CE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 11/2/2020; e AgInt nos EDcl no AREsp 1361947/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 6/5/2020.
+3. Agravo interno não provido.(AgInt no AgInt nos EDcl nos EDcl no AREsp n. 1.808.376/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 22/9/2022; grifei.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DISCUSSÃO QUANTO AO CABIMENTO OU NÃO DO AGRAVO DE INSTRUMENTO NA HIPÓTESE. SUPERVENIÊNCIA DE SENTENÇA DE MÉRITO. PERDA DE OBJETO DO RECURSO. IMPUGNAÇÃO QUE DEVERÁ SER FEITA EM RAZÕES DE APELAÇÃO. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Considerando a prolação de sentença de mérito na ação subjacente, fica prejudicado o recurso especial que visa discutir o cabimento ou não do agravo de instrumento interposto contra decisão interlocutória proferida anteriormente, devendo a recorrente se insurgir em razões de apelação.
+2. Agravo interno desprovido.(AgInt no REsp n. 1.778.905/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022; grifei.)
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. SUPERVENIÊNCIA DA SENTENÇA DE MÉRITO. EXTINÇÃO DA AÇÃO PRINCIPAL. PERDA DO OBJETO DO RECURSO.
+1. A prolação de sentença de mérito enseja a superveniente perda de objeto do recurso interposto contra o acórdão que decidiu agravo de instrumento.
+ ..
+3. Agravo regimental prejudicado. (AgRg nos EDcl nos EDcl no REsp 1.302.959/SP, Rel. Min.João Otávio de Noronha, Terceira Turma, DJe de 25/8/2014; grifei)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUPERVENIÊNCIA DE SENTENÇA. AGRAVO DE INSTRUMENTO. PERDA DE OBJETO.
+1. Cinge-se a demanda à sentença superveniente à ação principal que acarretou a perda de objeto do Agravo de Instrumento
+ ..
+(REsp 1.332.553/PE, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11/9/2012; grifei).
+Registre-se que acerca do recurso prejudicado, Nelson Nery Junior e Rosa Maria de Andrade Nery lecionam:
+"recurso prejudicado. É aquele que perdeu seu objeto.
+Ocorrendo a perda do objeto, há falta superveniente de interesse recursal, impondo-se o não conhecimento do recurso.
+Assim, ao relator cabe julgar inadmissível o recurso por falta de interesse, ou seja, julgá-lo prejudicado" (in Código de Processo Civil comentado. São Paulo, Ed. Revista dos Tribunais, 6ª ed., 2001, p. 930).
+Nesse contexto, tem-se que a análise deste agravo de instrumento restou prejudicada, pela superveniente perda de objeto, razão pela qual não merece ser conhecido o recurso.
+Assim sendo, resta prejudicada a análise deste agravo nos termos do artigo 529 do Código de Processo Civil.
+Ante o exposto, julgo prejudicado este agravo de instrumento, ante a perda de seu objeto, declaro extinto o recurso.
+Publique-se e Intime-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. APLICABILIDADE DO CPC 2015. AGRAVO DE INSTRUMENTO. SENTENÇA DEMÉRITO TRANSITADA EM JULGADO, COM BAIXA DOS AUTOS À ORIGEM.PERDA DO OBJETO. RECURSO PREJUDICADO.
