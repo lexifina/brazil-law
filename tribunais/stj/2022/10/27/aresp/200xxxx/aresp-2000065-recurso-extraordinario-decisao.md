@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por DEJAIR PASSERINE DA SILVA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fls. 295-296):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO DE EXIGIR. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. PRODUÇÃO DE PROVA PERICIAL. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alegada afronta a lei federal não foi demonstrada com clareza, caracterizando, dessa maneira, a ausência de fundamentação jurídica e legal, conforme previsto na Súmula nº 284 do STF.
+3. A alegada afronta a lei federal não foi demonstrada com clareza, pois as razões do recurso especial apresentado se encontram dissociadas daquilo que ficou decidido pelo Tribunal estadual, o que caracteriza deficiência na fundamentação do apelo nobre e atrai, por analogia, o óbice da Súmula nº 284 do STF.
+4. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+5. Agravo interno não provido.
+Os embargos de declaração opostos na sequência foram rejeitados (fls. 368-369 e 378--384).
+A parte recorrente alega a violação dos arts. 5º, II e LIV, e 93, IX,da CF e aduz que hárepercussão geral da matéria tratada.
+Sustenta que (fl. 401):
+ ..  o v. acórdão recorrido ofende diretamente texto constitucional e fragiliza os institutos da legalidade, do devido processo legal e da segurança jurídica, uma vez que deixa de observar a devida ordem processual ao chancelar a produção de prova pericial decorrente de genérica impugnação apresentada pela Recorrida à prestação de contas do Recorrente.
+Requer, a concessão de efeito suspensivo ao recurso e,ao final, a sua admissão e remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas àsfls. 423-447.
+É o relatório.
+O STF, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema n. 339/STF, segundo o qual "o art.93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do aresto paradigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+No caso, constata-se que foram declinadas as razões pelas quaiso agravo interno foi desprovido, mantendo-se o não conhecimento do recurso especial,valendo destacar o seguinte excerto (fls. 298-302):
+De uma simples leitura do aresto impugnado, observa-se que a agravante aduz genericamente a afronta ao citado artigo, sem especificar quais os vícios do aresto vergastado e/ou sua relevância para a solução da controvérsia.  ..
+De outra parte, conforme consignado na decisão agravada, quanto a alegada violação dos arts. 373, I, 550, § 3º, e 551 do NCPC, no que concerne à apresentação de impugnação genérica pela autora e à impossibilidade de juntada de novos documentos em virtude da preclusão e de realização de perícia, as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, atraindo a incidência da Súmula nº 284 do STF  ..
+Nesse contexto, como as razões do especial não guardavam nenhuma relação com o que foi decidido pela Corte estadual, fica caracterizada a deficiência na fundamentação, a incidir a Súmula nº 284 do STF, que dispõe:É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ademais, para se chegar a conclusão diversa da que chegou o Tribunal estadual, seria inevitável o revolvimento do arcabouço fático-probatório, procedimento sabidamente inviável na instância especial por incidir a Súmula nº 7 do STJ: A pretensão de simples reexame de prova não enseja recurso especial. ..
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Da mesma maneira, foram apresentados os fundamentos para a rejeição dos embargos de declaração opostos na sequência (fl. 381):
+O acórdão recorrido não foi obscuro, omisso, contraditório e tampouco apresentou erro material, tendo concluído pela incidência das Súmulas n.ºs 284 do STF e 7 do STJ.
+Ficou explicitado que, conforme consignado na decisão agravada, a parte recorrente, além de ter apontado violação genérica do art. 1.022 do Código de Processo Civil de 2015  ..  sem especificar quais os incisos foram contrariados, não demonstrou especificamente quais os vícios do aresto vergastado e/ou a sua relevância para a solução da controvérsia.
+Por outro lado, no RE n. 598.365-RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+No caso, verifica-se que o acórdão objeto do recurso extraordinário negou provimento ao agravo interno interposto, mantendo a decisão que conheceu do agravo para não conhecer do recurso especial, em razão da incidência das Súmulas n. 284/STF e 7/STJ.
+Desse modo, não tendo o julgado recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema n. 181/STF, sendo inviável a análise da violação constitucional apontada no recurso extraordinário.
+Por fim, diante da negativa de seguimento ao recurso extraordinário, o pleito deatribuição de efeito suspensivo fica prejudicado.
+Ante o exposto, com amparo no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO.FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
