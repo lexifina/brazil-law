@@ -1,0 +1,60 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, interposto por SPE BRISAS DE FERRAZ EMPREENDIMENTOS IMOBILIÁRIOS LTDA., contra decisão que negou seguimento ao recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, em desafio a acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado (e-STJ, fl. 592):
+Bem imóvel Compromisso de compra e venda - Ação declaratória de rescisão contratual com pleitos cumulados de restituição dos valores pagos, de lucros cessantes e de indenização por danos materiais e morais Demanda de compromissários compradores Sentença de parcial procedência Recurso das rés Parcial reforma do julgado, apenas para reconhecer a ocorrência de julgamento extra petita Cabimento Inexistência de pedido inicial de condenação da ré "Itaplan" a restituir prestações pagas Incontroversa, de outro lado, a existência de atraso na entrega do bem Culpa das empresas evidenciada Entraves burocráticos que configuram risco inerente à sua atividade Súmula nº 161 do TJSP Observância - Imediata restituição integral das parcelas pagas pelos promitentes compradores que é cabível em caso de culpa exclusiva do promitente vendedor/construtor Súmula nº 543 do STJ - Aplicação Hipótese em que a ruptura do pacto ocorreu por culpa das rés e não por iniciativa dos promitentes compradores. Apelo da corré "SPE" desprovido. Apelo da ré "Itaplan" parcialmente provido.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 630-635).
+Nas razões do especial (e-STJ, fls. 684-705), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) arts. 104, 113, 166 e 175 do Código Civil, alegando que o Tribunal de origem não poderia ter anulado o contrato objeto da demanda, pois ausentes quaisquer das hipóteses de abusividade do negócio jurídico;
+b) arts. 330 e 332 do Código de Processo Civil, apontando ser válida a cláusula que transfere ao promitente comprador o encargo de pagar pelos serviços contratados perante terceiro para comissão de corretagem, bem como a ausência de responsabilidade da recorrente para responder pela devolução dos valores;
+c) os artigos 122, 123 e 125 do Código Civil, defendendo a legalidade da cláusula que atrela o prazo para início da obra à condição suspensiva, porquanto devidamente pactuada entre as partes.
+Apontou, ainda, divergência jurisprudencial.
+Oferecidas as contrarrazões às fls. 712-719 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 728, e-STJ), o que ensejou o manejo do presente agravo (fls. 732-748, e-STJ), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Extrai-se dos autos que o Tribunal de origem, em relação à tese de resolução de contrato de promessa de compra e venda de imóvel (arts. 104, 113, 166 e 175 do Código Civil), negou seguimento ao recurso especial da ora agravante sob o argumento de que o acórdão recorrido encontra-se em consonância com entendimento consagrado pelo Superior Tribunal de Justiça em sede de recurso representativo de controvérsia repetitiva, no caso, REsp 1300418/SC (TEMA 577).
+Portanto, aplica-se o disposto no artigo 1030, inciso I, "b", § 2º, do CPC/15, que assim dispõe:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Com efeito, de acordo com a jurisprudência pacificada nesta Corte Superior, o recurso cabível contra decisão que, com fulcro no art. 1030, I, b, do CPC/15, nega seguimento a recurso especial, é o agravo interno para o próprio Tribunal de origem.
+Portanto, no ponto, o reclamo não comporta conhecimento.
+2. Em relação à suposta ofensa aos arts. 330 e 332 do Código de Processo Civil, a parte recorrente aponta ser válida a cláusula que transfere ao promitente comprador o encargo de pagar pelos serviços contratados perante terceiro para comissão de corretagem, bem como a sustenta não ter responsabilidade para responder pela devolução dos valores.
+Todavia, o que se denota, tais dispositivos englobam normatividade que não possui relação com a tese exposta.
+No caso, os artigos mencionados tratam de indeferimento da petição inicial e julgamento de improcedência liminar do pedido, enquanto a controvérsia cinge-se em discutir a responsabilidade da empresa pela devolução do valor pago pelo comprador a título de comissão de corretagem.
+Portanto, não há pertinência entre o dispositivo legal e a temática discutida, não tendo, assim, os artigos apontados como violados, força normativa suficiente para reformar o acórdão impugnado. Na forma da jurisprudência, "a impertinência do dispositivo legal apontado como violado, no sentido de ser incapaz de infirmar o aresto recorrido, revela a deficiência das razões do recurso especial, fazendo incidir a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"" (STJ, AgRg no AREsp 144.399/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 18/06/2012).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA CUMULADA COM PEDIDO CONDENATÓRIO. INDICAÇÃO DE OFENSA A DISPOSITIVO LEGAL QUE NÃO GUARDA PERTINÊNCIA COM A FUNDAMENTAÇÃO TRAZIDA NO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA Nº 284 DO STF, POR ANALOGIA. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃO DA SÚMULA Nº 211 DO STJ. DANO MORAL NÃO CONFIGURADO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. APLICAÇÃO DA SÚMULA Nº 7 DO STJ. RECURSO PROTELATÓRIO. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA. 1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A fundamentação declinada pelo recorrente em suas razões recursais deve guardar pertinência temática com o conteúdo normativo dos dispositivos legais tidos por afrontados, sob pena de incidência da Súmula nº 284 do STF.
+(..)
+6. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1472307/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 30/09/2019, DJe 03/10/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO. MULTA DIÁRIA. AGRAVO DE INSTRUMENTO. SENTENÇA EXTINTIVA SUPERVENIENTE. PERDA DE OBJETO.ART. 996 DO CPC. IMPERTINÊNCIA TEMÁTICA. SÚMULA N. 284/STF. NÃO PROVIMENTO.
+1. A jurisprudência do Superior Tribunal de Justiça é pela perda do objeto do agravo de instrumento interposto contra decisão que aprecia pedido liminar na superveniência de sentença.
+2. O artigo 996 do Código de Processo Civil não tem pertinência temática com a perda de objeto do recurso, porquanto trata dos legitimados para a sua interposição. Incidência do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1699363/PA, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/05/2018, DJe 04/06/2018)
+Nesse contexto, tem incidência, no ponto, o verbete sumular 284 do STF, aplicado por analogia.
+3. Quanto à alegada violação aos artigos 122, 123 e 125 do Código Civil, a recorrente defende a legalidade da cláusula que atrela o prazo para início da obra à condição suspensiva, porquanto devidamente pactuada entre as partes.
+Sobre o tema, o Tribunal de origem consignou o seguinte (e-STJ, fl. 596):
+Escorreita a respeitável sentença quando assim consignou: "Depreende-se dos autos que o contrato previa a entrega da obra para 30 meses após a contratação do financiamento (fls. 69), além de prazo de tolerância de 180 dias (fl. 58 cláusula V). Entretanto, restou incontroverso nos autos que as obras não se iniciaram em virtude de restrições no programa habitacional do Governo Federal. A rescisão, portanto, é medida que se impõe, em virtude da total paralisação do empreendimento, não se mostrando razoável a manutenção dos autores vinculados a um contrato de aquisição de unidade imobiliária sem qualquer previsão de entrega do imóvel adquirido." (grifei)
+Desse modo, rediscutir a validade da referida cláusula contratual implica, evidentemente, o reexame dos fatos e do instrumento do contrato de compra e venda, o que é inadmissível em sede de recurso especial, por vedação das Súmulas 5 e 7 desse e. STJ.
+A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESILIÇÃO CONTRATUAL. CONTRATO DE COMPRA E VENDA. RESOLUÇÃO. RESTITUIÇÕES RECÍPROCAS DO BEM PELO COMPRADOR, DO PREÇO PELO VENDEDOR. DESCONTO DO VALOR DE CLÁUSULA PENAL. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284/STF. INCIDÊNCIA. PREQUESTIONAMENTO AUSENTE. SÚMULA 211 DO STJ. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. REINTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. O exame da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão e a reinterpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos dos enunciados das Súmulas 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1611171/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/06/2020, DJe 04/06/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1739068/DF, Rel. Ministro ANTONIO CARLOS
+FERREIRA, QUARTA TURMA, julgado em 08/11/2018, DJe 16/11/2018)
+4. Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a incidência das Súmulas 5 e 7 do STJ constitui óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA. (..) 4. "A incidência das Súmulas 5 e 7 do Superior Tribunal de Justiça impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual o Tribunal de origem deu solução à causa" (AgInt no AREsp n. 1.232.064/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/12/2018, DJe 7/12/2018). 5. Agravo interno a que se nega provimento. (AgInt nos EDcl no AREsp 1307496/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/03/2020, DJe 01/04/2020)
+5. Do exposto, com fundamento no art. 932 do Novo Código de Processo Civil c/c Súmula 568/STJ, conheço em parte do agravo e, na parte conhecida, nego provimento aoem recurso especial.
+Publique-se. Intimem-se.
