@@ -1,0 +1,57 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por UNIMED DE LONDRINA COOPERATIVA DE TRABALHO MÉDICO em face de acórdão do Tribunal de Justiça do Paraná, assim ementado (e-STJ fl. 400):
+APELAÇÃO CÍVEL - PLANO DE SAÚDE - PEDIDO DEREVOGAÇÃO DA JUSTIÇA GRATUITA, EM CONTRARRAZÕES - AFASTADO - CUSTEIO INTEGRAL DE DESPESAS MÉDICAS EHOSPITALARES E INDENIZAÇÃO POR DANOS MORAIS -USUÁRIA GRÁVIDA DE FETO DIAGNOSTICADO COM CARDIOPATIA CONGÊNITA, SUBMETIDO À CIRURGIA CARDÍACA DE CORREÇÃO, LOGO APÓS O NASCIMENTO -RECOMENDAÇÃO MÉDICA PARA QUE O PARTO E A CIRURGIA OCORRESSEM EM UM MESMO ESTABELECIMENTO, PARA EVITAR A TRASNFERÊNCIA DO RECÉM-NASCIDO DE UM LOCAL PARA OUTRO -REQUERIMENTO ADMINISTRATIVO PARA QUE O ATENDIMENTO OCORRESSE NO HOSPITAL DO CORAÇÃO -UNIDADE BELA SUÍÇA, NÃO CREDENCIADO À REDE UNIMED- NEGATIVA DA OPERADORA DE SAÚDE, QUE INDICOU NOSOCÔMIOS CREDENCIADOS PARA REALIZAR, APENAS, A CIRURGIA, SEM ESPECIFICAR SOBRE O PARTO -PROCEDIMENTOS REALIZADOS FORA DA REDECREDENCIADA - CUSTEIO DAS DESPESAS MÉDICAS, NOS LIMITES DA TABELA DE PREÇOS DO PLANO DE SAÚDE, CONSOANTE PRECONIZA O ART. 12, VI, DA LEI 9656/98 -DANOS MORAIS CONFIGURADOS. REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. HONORÁRIOS RECURSAIS -CABIMENTO. RECURSO PARCIALMENTE PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões, a parte recorrente alegou violação aos artigos 1.022, II, e 1.026, § 2º, do CPC; 186, 187, 188 e 927 do Código Civil, sustentando (i) omissão acerca dasquestões formuladas e os dispositivos legais invocados nos embargos; (ii) ausência de dano moral indenizável, e (iii) ausência do caráter protelatório dos embargos.
+Contrarrazões às fls. 453/467.
+É o relatório.
+Passo a decidir.
+Inicialmente esclareço que a alegação de negativa de prestaçãojurisdicional quanto à condenação por danos moraisse confunde com o mérito recursal, razão pela qual será absorvidapor este, em atenção ao princípio da primazia do julgamento do mérito, depossível aplicação no caso concreto.
+Cinge-se a controvérsia quanto à configuração dodano moral em face da recusa de cobertura para a realização de parto e a cirurgia cardíaca de em neonato.
+No tocante ao cabimento da indenização por danos morais, o Tribunal de origem assim decidiu (e-STJ fls. 408/409):
+O entendimento que vem sendo consolidado, inclusive por esta Câmara, seguindo a linha adotada pelo Superior Tribunal de Justiça, é de que em se tratando de inadimplemento de contrato, que versa sobre plano de saúde, plenamente cabível a indenização a este título em determinados casos, ante o agravamento da aflição psicológica, já seriamente comprometida pelo estado do paciente, que se vê desamparado, ante a recusa injustificada da cobertura avençada.
+É o que ocorreu no caso em apreço. Denota-se do processado que a requerente, grávida de 28 (vinte e oito) semanas à época dos fatos, recebeu a notícia de que o seu bebê seria submetido, logo após o nascimento, a uma cirurgia de correção cardíaca e, para tanto, havia a necessidade de ambos os procedimentos, parto e cirurgia, serem realizados em um mesmo estabelecimento hospitalar.
+Por conta disso, a beneficiária solicitou junto ao plano de23.02.2016 saúde, que os procedimentos fossem realizados no Hospital do Coração - Unidade Bela Suíça, nosocômio indicado pelos seus médicos assistentes.
+Passados mais de 10 (dez) dias, sem obter qualquer resposta ou justificativa expressa, considerando, ainda, que a data prevista para o parto estava se aproximando, a suplicante foi obrigada a, rapidamente, contratar advogado e se socorrer ao Poder Judiciário, em .07.03.2016
+O plano de saúde apresentou resposta negativa, somente, em 17.03.2016, ouseja, 24 (vinte e quatro) dias após a solicitação administrativa e 10 (dez) dias após o ajuizamento da ação e, ao indicar hospitais credenciados à sua rede, frise-se, não especificou se os locais teriam condições de atender à usuária em seu parto e, em seguida, o recém-nascido, com a cirurgia cardíaca de correção.
+A aflição e o medo da autora, diante da incerteza de não saber qual hospital iria realizar o seu parto e a cirurgia do seu bebê, só foi amenizada com a obtenção da tutela antecipada de urgência, vale dizer, 08 (oito) dias antes da realização dos22.03.2020, procedimentos, em 30.03.2016.
+Logo, a beneficiária, já fragilizada pela cirurgia cardíaca que o seu filho seria submetido após o nascimento, passou também a temer pela vida do nascituro, diante do risco de ser transferido de um estabelecimento a outro, sem poder acompanhá-lo.
+Tais circunstâncias, por certo que extrapolam a normalidade, interferindo deforma intensa e duradoura no equilíbrio psicológico da suplicante, ocasionando-lhe danos morais, passíveis de reparação.
+Vale dizer, o dano moral restou representado não pelo agravamento do estado de saúde, frise-se, mas pela presumida (presunção hominis) intensificação do sofrimento espiritual da autora.
+Ora, é evidente que qualquer pessoa que tivesse passado pela mesma situação teria experimentado a sensação de angústia e aflição, de modo que, demonstrado o fato, resta provado o dano moral. (grifei)
+Nesse contexto, a alteração das conclusões adotadas pelo Tribunal de origem quanto à ocorrência de danos morais indenizáveis demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o Enunciado n.º 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL. CONTRATOS. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. HEMODIÁLISE E OXIGENOTERAPIA. ABUSO. DANOS MORAIS. DIMINUIÇÃO. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. O Tribunal de origem, com base em normas do CDC, considerou indevida a negativa de cobertura para tratamento de hemodiálise e oxigenoterapia, porque "a seguradora sequer menciona suposta cláusula contratual de exclusão dos tratamentos solicitados", e porque eventual cláusula seria "nula de pleno direito, uma vez que acaba por restringir direito inerente à natureza do contrato, qual seja, preservação da vida do segurado, o que fere o princípio da vulnerabilidade contido no Código de Defesa do Consumidor" (e-STJ fls. 278/279).
+3. Rever a conclusão da Corte de origem quanto à existência de dano moral decorrente da gravidade do fato, bem como em relação à alegada licitude da negativa de cobertura, exigiria o reexame dos fatos e das provas dos autos, bem como nova interpretação dos termos pactuados, o que esbarra nas Súmulas n. 5 e 7 o STJ.
+4.  ..
+7. Agravo interno a que se nega provimento.(AgInt no REsp n. 1.963.072/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. RECUSA DE PROCEDIMENTO CIRÚRGICO ELETIVO. DANO MORAL NÃO CONFIGURADO. AUSÊNCIA DE AGRAVAMENTO DA CONDIÇÃO DE DOR, ABALO PSICOLÓGICO OU DEMAIS PREJUÍZOS À SAÚDE DO PACIENTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. O entendimento jurisprudencial do Superior Tribunal de Justiça é de que "a recusa indevida de cobertura para procedimento médico por parte da operadora de saúde enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente" (AgInt no REsp 1.933.540/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 23/08/2021, DJe de 24/09/2021).
+2. No caso dos autos, o eg. Tribunal de origem consignou que não ficou comprovado nos autos que a recusa do plano de saúde de autorização de procedimento cirúrgico eletivo tenha agravado as condições de saúde do paciente ou configurado efetivo abalo anímico capaz de gerar danos morais indenizáveis. A modificação desse entendimento demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno desprovido.(AgInt no REsp n. 1.979.051/SE, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.)
+Relativamente à pretensão de afastamento da multa prevista no artigo 1.026, § 2º, do Código de Processo Civil de 2015, com razão a recorrente.
+De fato,observa-se que os aclaratórios foram opostos com o intuito de apontar matéria considerada não apreciada pelorecorrente, motivo pelo qual não há motivo para inquiná-los de protelatórios.
+Portanto, deve ser afastada a penalidade pecuniária aplicada, em conformidade com o teor da Súmula 98 desta Corte Superior, segundo a qual "embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório".
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DESAPARECIMENTO DE RESTOS MORTAIS. EXUMAÇÃO ANTECIPADA. RESPONSABILIDADE DA ADMINISTRADORA DO CEMITÉRIO RECONHECIDA NA ORIGEM. REEXAME DE PROVA. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. DANO MORAL. VALOR RAZOÁVEL. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL PROVIDO EM PARTE.
+1.  ..
+3. A multa prevista no art. 1.026, § 2º, do CPC/2015 não é automática e depende de decisão fundamentada. Não evidenciado o intuito manifestamente protelatório dos embargos de declaração, deve ser afastada a multa imposta pela Corte local (Súmula 98/STJ).
+4. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial, a fim de afastar a multa aplicada. (AgInt nos EDcl no AREsp 1663033/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/10/2020, DJe 16/11/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DUPLICATAS C/C PEDIDO DE CANCELAMENTO DE PROTESTO E REPARAÇÃO POR DANOS MORAIS. DEFICIENTE FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. DISSÍDIO NÃO CONFIGURADO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. MULTA DO ART. 1026, §2º, DO CPC. AFASTADA. SÚMULA 98/STJ.
+1.  ..
+5. Afasta-se a multa aplicada quando não se caracteriza o intento protelatório na interposição dos embargos de declaração. Aplicação da Súmula 98/STJ.
+6. Agravo interno parcialmente provido, tão-somente para afastar a multa revista no art. 1026, §2º, do CPC. (AgInt no REsp 1773391/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/08/2019, DJe 21/08/2019)
+Destarte, o recurso especial merece ser provido, em parte.
+Ante o exposto, DOU PARCIAL provimento ao recurso especial para afastar a multa prevista no art. 1.026, § 2º, do CPC/2015.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. CIRURGIA CARDÍACAEM NEONATO. DANO MORAL.
+1. INDICAÇÃO DE HOSPITAL NÃO CREDENCIADO.RECUSA DE COBERTURA.
+2. ATRASO DE 24 DIAS PARA A JUSTIFICATIVA DA RECUSA. INGRESSO DA GESTANTE NA 32ª SEMANA DE GESTAÇÃO.
+3. ABALO PSICOLÓGICOVERIFICADO PELO TRIBUNAL DE ORIGEM. CONDENAÇÃO AO PAGAMENTO DE INDENIZAÇÃO PORDANO MORAL. INVERSÃO DO JULGADO. ÓBICE DA SÚMULA 7/STJ.
+4.EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DECARÁTER PROTELATÓRIO.MULTA DO ART. 1.026, § 2º, DO CPC/2015 AFASTADA.
+RECUSO ESPECIAL PARCIALMENTE PROVIDO.
