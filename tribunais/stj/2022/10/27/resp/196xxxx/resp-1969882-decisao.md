@@ -1,0 +1,38 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto pela AGÊNCIA ESTADUAL DE GESTÃO DE EMPREENDIMENTOS, contra acórdão prolatado, por unanimidade, pela 3ª Câmara Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul no julgamento de Apelação, assim ementado (fl. 720e):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. CONTRATOS DE EXECUÇÃO DE PAVIMENTAÇÃO ASFÁLTICA DE RODOVIA - EMISSÃO DE NOTA DE EMPENHO - INEGÁVEL EXISTÊNCIA DA DÍVIDA - AUTORA QUE COMPROVA FATO CONSTITUTIVO DO SEU DIREITO - ART. 373, I, DO CPC - IMPOSSIBILIDADE DE ENRIQUECIMENTO SEM CAUSA DO PODER PÚBLICO. RECURSO CONHECIDO E PROVIDO.
+Nos termos do art. 373, do CPC, o ônus da prova incumbe: I - ao autor, quanto ao fato constitutivo de seu direito; II - ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor.
+Demonstrado nos autos que os contratos firmados entre as partes foram executados, para os quais a requerida emitiu nota de empenho, é razoável que cumpra com o pactuado e efetive o pagamento, preservando assim os princípios constitucionais, da legalidade e da moralidade administrativa, a fim de se evitar o enriquecimento sem causa da Administração Pública, inclusive com observância à Lei n. 8.666/1993.
+Opostos embargos de declaração, foram rejeitados (fls. 851/865e).
+Com amparo no art. 105, III, a, da Constituição da República, aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 1.022, I e II, do Código de Processo Civil de 2015 - o acórdão foi omisso ao não apreciar a tese de que a prescrição, após ser interrompida, volta a correr pela metade, e foi ainda contraditório, " ..  pois, se a apelante interpôs apelação pedindo o seu provimento para ter direito a R$ 1.216.249,59 e assentou-se no acórdão que ela não teria direito a R$ 1.216.249.59, mas sim a R$ 1.140.070.45, a apelação deveria ter sido julgada parcialmente provida, e não provida (dando a entender que seria provida in totum)" (fls. 770/771e); eArts. 9º do Decreto n. 20.910/1932 e 3º do Decreto-Lei n. 4.597/1942 - após a interrupção do prazo prescricional, ele volta a correr pela metade, de modo que, no caso, deve ser reconhecida a prescrição.
+Com contrarrazões (fls. 781/793e), o recurso foi inadmitido (fls. 795/797e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 878e).
+O Ministério Público Federal manifestou-se às fls. 890/891e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, IV e V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+ii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+A Recorrente sustenta a existência de omissão no acórdão recorrido, não sanada no julgamento dos embargos de declaração, porquanto não apreciou a tese de que a prescrição, após ser interrompida, volta a correr pela metade, e foi ainda contraditório, " ..  pois, se a apelante interpôs apelação pedindo o seu provimento para ter direito a R$ 1.216.249,59 e assentou-se no acórdão que ela não teria direito a R$ 1.216.249.59, mas sim a R$ 1.140.070.45, a apelação deveria ter sido julgada parcialmente provida, e não provida (dando a entender que seria provida in totum)" (fls. 770/771e).
+No que concerne à aventada contradição, o tribunal de origem enfrentou a controvérsia no sentido de que houve erro do autor na indicação do valor do pedido, nos seguintes termos (fl. 857e):
+Com relação à contradição apontada, não há que se falar em provimento parcial do recurso de apelação pelo fato de que as provas produzidas nos autos levam a conclusão de que o valor devido pelas notas de empenho apresentadas é de R$ 1.140.070,75 (pedido principal), de forma que houve erro no pedido do autor/embargado com relação ao valor (admitido na própria defesa  f. 19), fato que não acarreta a procedência parcial do pedido.
+Dessa forma, afasto a contradição alegada.
+Por outro lado, anoto que, embora o tribunal de origem tenha decidido acerca da prescrição, não examinou, especificamente, a tese defendida pela parte segundo a qual, após a interrupção, o prazo deve ser contado pela metade.
+Observo tratar-se de questão relevante, oportunamente suscitada e que, se acolhida, poderia levar o julgamento a um resultado diverso do proclamado. Ademais, a não apreciação da tese, à luz dos dispositivos constitucional e infraconstitucional indicados a tempo e modo, impede o acesso à instância extraordinária.
+Caracterizada, portanto, a omissão, como o demonstram os seguintes arestos:
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS. ART. 535 DO CPC. EXISTÊNCIA DE OMISSÃO NÃO SANADA. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Necessidade da análise de questão relacionada à decadência do direito de anulação do ato de demarcação das terras de marinha no Município de Joinville, por ter sido a ação ajuizada mais de cinco anos depois da homologação do procedimento administrativo que determinou a linha preamar média de 1831.
+3. Recurso especial da UNIÃO provido.
+4. Recurso especial de H CARLOS SCHNEIDER S/A COMÉRCIO INDÚSTRIA prejudicado.
+(REsp 1.343.519/SC, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 12/11/2013, DJe 20/11/2013)
+PROCESSUAL CIVIL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Recurso especial provido.
+(REsp 1213515/RS, Rel. Ministra DIVA MALERBI - DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO, SEGUNDA TURMA, julgado em 13/11/2012, DJe 23/11/2012)
+No mesmo sentido, as seguintes decisões monocráticas: REsp 1.529.187/RS, Rel. Min. Napoleão Nunes Maia Filho, DJe de 01.06.2015; REsp 1.444.331/ES, Rel. Min. Benedito Gonçalves, DJe de 18.05.2015; REsp 1.502.033/MG, Rel. Min. Sérgio Kukina, DJe de 05.06.2015.
+Posto isso, com fundamento nos arts. 932, IV e V, do Código de Processo Civil de 2015 e 34, XVIII, b e c, e 255, I e III, do RISTJ, DOU PARCIAL PROVIMENTO ao Recurso Especial, para determinar o retorno dos autos ao tribunal a quo, a fim de que sejam supridas as omissões indicadas.
+Prejudicada a análise das demais questões trazidas no especial.
+Publique-se e intimem-se.
