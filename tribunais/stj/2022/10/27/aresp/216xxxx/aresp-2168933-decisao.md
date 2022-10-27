@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por RENATO LAMEGO PORTES CARDOSO, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de Minas Gerais assim ementado (e-STJ, fl. 125):
+APELAÇÃO CÍVEL -AÇÃO MONITÓRIA -CITAÇÃO POR EDITAL -DESNECESSIDADE DE ESGOTAMENTO ABSOLUTO DE TODOS OS RECURSOS - COMPROVAÇÃO DE DILIGÊNCIAS REALIZADAS PERANTE CONCESSIONÁRIAS PARA A LOCALIZAÇÃO DO RÉU -TENTATIVAS FRUSTRADAS.
+À citação por edital, por se tratar de medida excepcional, devem preceder de tentativas de localização do réu. Contudo, para a realização da citação editalícia, não é necessário o total esgotamento dos meios possíveis de localização do réu, sendo suficiente a demonstração da efetiva diligência perante as concessionárias de serviço público com o fito de buscar endereços conhecidos para citação.
+No recurso especial, o recorrente apontou, além de divergência jurisprudencial, violação dos arts.239, 256, § 3º, e 280 do CPC.
+Esclareceu que se opôs ao acórdão que entendeu pela validade da citação por edital, pois teria havido prévias diligências buscando localizar o endereço do devedor.
+Asseverouque a citação editalícia não observou os ditames legais para sua correção, pois não foram esgotados todos os meios disponíveis para efetivar a citação pessoal do ora recorrente.
+Arguiu que o julgador inicial determinou aconsulta ao endereço do réu em empresas concessionárias de água e energia elétrica; mas poderia terem sido efetivadas outas diligências, como a expedição de ofício a órgãos públicos e privados, tais como companhias de telefonia móvel, Infoseg, Infojud, Bacenjud e Renajud previamente à citação por edital, o que não aconteceu.
+Enfatizouque o Juízo autorizou que a parte encaminhasse ofícios necessários à localização do endereço do réu em todos os locais possíveis,determinação que não providenciada pela autora.Requereu o provimento do recurso especial (e-STJ, fls. 134-141).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 199-206).
+Brevemente relatado, decido.
+O acórdão concluiu que as diligências possíveis para a localização do réu foram efetivadas adequadamente, inclusive com a realização de ligação telefônica realizada por oficial de justiça, que não logrou êxito em encontrar o requerido.
+Veja-se (e-STJ, fls. 127-128):
+A questão é singela.
+A controvérsia consiste em analisar se foram observados os requisitos autorizadores da realização de citação por edital, conforme recomenda a lei processual. Vejamos.
+ ..
+Assim, por se tratar de medida excepcional, à citação editalícia devem preceder providências voltadas à localização do réu; no entanto, entendo ser desnecessário o esgotamento absoluto dos meios possíveis de localização do réu.
+Neste contexto, para que seja autorizada a realização da citação por edital, considero suficiente a comprovação da adoção de medidas que indiquem que o réu encontra-se em local incerto ou ignorado.
+E, na hipótese dos autos, conquanto tenha sido cumprida a recomendação prevista no art. 256, §3º do CPC, no sentido de realizar pesquisas pelo Juízo junto às concessionárias de serviço público (COPASA e CEMIG), em nome do réu, não foram encontrados endereços cadastrados, conforme ponderou o magistrado às f. 63 -documento único, fato este, a meu ver, suficiente para autorizar a citação por edital.
+Importante destacar, ainda, que a despeito de ter constado na certidão do Oficial de Justiça a informação de um possível telefone de contato do réu, qual seja, (31) 98797-4508; registro, por oportuno, que foi certificado pelo próprio servidor que "tentei contatar o Réu, porém, não obtive êxito" (f.56 -documento único).
+Logo, tudo indica que todas as medidas cabíveis, naquele momento, foram tomadas, não sendo necessário o esgotamento absoluto dos recursos de localização do réu, caso contrário, a citação por edital se tornaria um recurso inacessível.
+Nos termos da jurisprudência desta Corte Superior, "a citação por edital pressupõe o esgotamento de todos os meios ordinários de localização da parte ré"(EDcl no AgInt no AREsp n. 1.704.204/DF, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 10/10/2022, DJe de 17/10/2022.).
+A propósito:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CITAÇÃO POR EDITAL. MEIOS PARA A LOCALIZAÇÃO DO DEVEDOR. ESGOTAMENTO. REEXAME DAS PREMISSAS FÁTICAS. IMPOSSIBILIDADE.
+1. A Primeira Seção, por ocasião do julgamento do REsp 1.103.050/BA (repetitivo), firmou a orientação de que a citação por edital, por ser medida excepcional, somente é admitida depois de esgotadas as tentativas de localização do endereço do devedor, para fins de citação pessoal, pelos correios ou por oficial de justiça.
+2. Hipótese em que o conhecimento do recurso especial encontra óbice nas Súmulas 7 e 83 do STJ, pois Tribunal local, atento ao conjunto fático-probatório, decidiu que é válida a citação por edital na presente execução uma vez que houve exaurimento dos meios tendentes à localização do endereço da parte executada.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.909.660/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 25/10/2021, DJe de 25/11/2021.)
+In casu, extrai-se que não houve esse exaurimento das tentativas de localização do réu, ora insurgente. Houve o encaminhamento de ofícios às concessionárias de serviços públicos (água e luz), mas não à empresa de telefonia à qual pertencia o número telefônico mencionado nos autos. Percebe-se que foi efetivada tentativa de contato telefônico, mas essa medida é insuficiente para atestar o esgotamento das medidas para a viabilidade da citação editalícia.
+Nesse contexto, é de rigor o reconhecimento da nulidade da citação por edital, pois deveriam ser encaminhados ofícios a outras concessionárias de serviços públicos, inclusive à empresa de telefonia, bem poderia o Magistrado singular analisar o cabimento de solicitação aoInfoseg, Infojud, Bacenjud e Renajud, em razão da notícia da possibilidade de existência de endereço onde poderia ser localizado o réu.
+Por fim, percebe-se que a contestação foi apresentada por curador especial, o qual arguiu, inclusive, a nulidade do julgamento por carência de validade da citação, a evidenciar a ausência de comparecimento espontâneo e ciência da demanda monitória pelo ora recorrente.
+Leia-se (e-STJ, fl. 84):
+Citado por edital (f. 48), o réu, por meio do curador especial, apresentou embargos monitórios às ff. 51/52. Suscita a preliminar de nulidade da citação por edital e alega o excesso de cobrança.
+Sustenta que, em se tratando de cheque pós datado, os juros de mora e a correção monetária devem incidir a partir da dota aprazada entre o credor e o devedor, e não a partir da emissão dos títulos.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial a fim de anular os julgados das instâncias ordinárias e realizarnovas diligências a fim de atualizar o endereço da parte ré, se tal já não constar nos autos, e efetivar nova instrução processual e julgamento, a fim de respeitar o necessário direito à ampla defesa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. CITAÇÃO POR EDITAL. CARÊNCIA DE ESGOTAMENTO DE DILIGÊNCIAS POSSÍVEIS PARA A LOCALIZAÇÃO DO ENDEREÇO DO RÉU PARA SUA POSTERIOR CIÊNCIA PESSOAL. SENTENÇA PROFERIDA EM DESCOMPASSO COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
