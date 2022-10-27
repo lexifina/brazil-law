@@ -1,0 +1,31 @@
+DECISÃO
+IZABELLE CHRISTINA COSTA CRUZ alega sofrer constrangimento ilegal pelo Tribunal de Justiça do Estado de Minas Gerais(Habeas Corpus n. 1.0000.22.209043-3/000).
+Sustenta a defesa, em síntese, que, "Sendo a presença ou não ao interrogatório, prerrogativa componente do princípio constitucional da AMPLA DEFESA, não pode a paciente ser presa na sentença condenatória sob o argumento de que o seu não atendimento ao chamado de participar da AIJ acarreta em descumprimento das obrigações processuais antes assumidas" (fl. 7).
+Após o indeferimento da liminar (fls. 116-117), o Ministério Público Federal opinou pelo não conhecimento dowritou, caso seja, peladenegação da ordem (fls. 190-193).
+Decido.
+Quanto à apontada ausência de quaisquer dos fundamentos previstos no art. 312 do CPP, faço lembrar que a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza deantecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+No caso dos autos, o Tribunala quo, ao afastar o alegado constrangimento ilegal, consignou o que se segue (fls. 106-108, grifei):
+Analisando detidamente os autos, não vislumbro constrangimento ilegal na manutenção da custódia cautelar do paciente.
+Debruço-me sobre a tese acerca do direito da paciente de não comparecer à Audiência de Instrução e Julgamento ser prerrogativa atrelada ao seu direito de silêncio.
+Data venia, razão não assiste ao impetrante.
+Conforme consta dos autos, em 03 de maio de 2017, a paciente foi presa em flagrante delito pela prática do crime de roubo majorado, sendo sua prisão convertida em segregação preventiva em 05 de maio de 2017 (documento eletrônico de ordem nº 11). Após, em 13 de setembro de 2017, foi proferida decisão concedendo o benefício da liberdade provisória à agente, mediante o cumprimento de medidas cautelares (documento eletrônico de ordem nº 04).
+Ocorre que, a ora paciente não compareceu a audiência de instrução e julgamento designada para a data de 02 de junho de 2022.
+Assim, em sentença proferida em 22 de junho de 2022, a acusada foi condenada, sendo-lhe aplicada pena de 08 anos de reclusão, a ser cumprida inicialmente em regime fechado.
+Além disso, diante do não comparecimento da paciente a atos processuais, não tendo conhecimento do seu paradeiro, foi decretada a sua prisão preventiva, sendo negado a ela o direito de recorrer em liberdade (documento eletrônico de ordem nº 05).
+É que, ao conceder o benefício de liberdade provisória, o Magistrado fixou as medidas de: comparecimento periódico em juízo, no prazo e nas condições fixadas pelo juiz, para informar e justificar atividades; proibição de acesso ou frequência a determinados lugares quando, por circunstâncias relacionadas ao fato, deva a acusada permanecer distante desses locais para evitar o risco de novas infrações e proibição de ausentar-se da Comarca quando a permanência seja conveniente ou necessária para a investigação ou instrução.
+Pois bem. Compulsando os autos, verifico na CAC (documento eletrônico de ordem nº 15) e FAC (documento eletrônico de ordem nº 16) que a paciente é reincidente, possui maus antecedentes e diversos registros criminais. Destarte, além de configurado o descumprimento das medidas cautelares anteriormente impostas, bem como pelo fato de a paciente à data da sentença estar em lugar incerto, resta demonstrado, em tese, uma tendência da acusada à prática de delitos e a eleição do crime como meio de vida, bem como indiferença ao ordenamento jurídico e ao Poder Judiciário.
+Desse modo, verifica-se, então, que a decisão primeva (documento eletrônico de ordem nº 05) encontra-se devidamente fundamentada, explicitando o descumprimento das medidas cautelares outrora aplicadas em favor da paciente.
+Com efeito, restou demonstrada a necessidade da segregação preventiva da paciente com base nos requisitos legais presentes no art.312, do Código de Processo Penal, principalmente a necessidade de preservação da ordem pública e da instrução criminal, tendo em vista a gravidade dos fatos e, ainda, ante o descompromisso da denunciada com o Poder Judiciário e as Leis Penais.
+Assim, ao contrário do alegado, a paciente não sofre qualquer constrangimento ilegal, até porque, nos termos do disposto no art. 282,§4º, do CPP, admite-se a prisão cautelar quando descumprida qualquer das obrigações impostas pelo Magistrado, conforme ocorre no caso em análise.
+Dessa forma, verifico que as razões invocadas na instância de origem se mostram suficientes para embasar a ordem de prisão daacusada, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação daré.
+Esse também é o entendimento do Superior Tribunal de Justiça em relação às circunstâncias acima elencadas, que justificaram a manutenção do condenado no cárcere.
+Nesse sentido:
+ .. .
+3. Conforme reiterado entendimento desta Corte Superior de Justiça, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade (AgRg no RHC n. 159.385/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, j. em 24/5/2022).
+4. Não se revelam suficientes as medidas previstas no art. 319 do Código de Processo Penal, pois eventuais condições pessoais favoráveis do agravante não têm o condão de, por si sós, garantir a revogação de sua prisão preventiva.
+5 . Agravo regimental improvido.
+(AgRg no HC n. 741.076/SC, relator Ministro Sebastião Reis Júnior, 6ª T., DJe de 15/8/2022, destaquei).
+Assim, em razão da gravidade do crime e do indicado risco de reiteração delitiva, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
