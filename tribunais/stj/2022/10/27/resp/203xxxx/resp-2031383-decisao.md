@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL com respaldo na alínea "a" do permissivo constitucionalcontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOementado nos seguintes termos (e-STJ fl. 137):
+Acidente do Trabalho - Doença - Males na coluna - Redução da capacidade laborativa e nexo de causalidade - Comprovação - Auxílio-acidente devido - Procedência.
+Acidente do Trabalho - Benefício - Termo inicial - Apresentação do laudo pericial em Juízo.
+Acidente do Trabalho - Benefício - Valores em atraso - Atualização - Lei nº 8.213191 e subsequentes alterações - Aplicação do IPCA-E a partir da elaboração da conta de liquidação.
+Processo Civil - Honorários advocatícios - Base de Cálculo - 15% das prestações vencidas até a prolação da sentença - Aplicação da Súmula nº 111, do STJ.
+Juros de mora - Cômputo - Englobadamente até a citação e, a partir daí, mês a mês, decrescentemente  Adoção dos índices previstos para os impostos devidos à Fazenda Nacional - Aplicação do art. 406 do Código Civil c. c. o art. 161, § 1 0, do Código Tributário Nacional.
+Sucumbência - Custas - Isenção do INSS - Leis Estaduais nº 4.952/85 e 11.608/03.
+Embargos de declaração rejeitados (e-STJ fls. 152/158).
+Em suas razões, a autarquia postula a aplicação imediata da Lei n. 11.960/2009na correção monetária das parcelas devidas, até que sejam modulados os efeitos da ADI 4.357, sendo inaplicáveis os índices do IGP-DI e IPCA-E.
+Contrarrazões (e-STJ fls. 186/188).
+Em juízo de retratação do art. 1.040, II, do CPC/2015, houve parcial modificação do julgado, o qual foiassim ementado (e-STJ fl. 203):
+RECURSOS ESPECIAL E EXTRAORDINÁRIO. CONTROVÉRSIA REPETITIVA. PUBLICAÇÃO DE ACÓRDÃO PARADIGMA. REEXAME DA MATÉRIA nos termos do artigo 1.040, inciso II, do CPC/15.
+JUROS DE MORA E CORREÇÃO MONETÁRIA. TEMA 905/STJ. APLICABILIDADE DA LEI 11.960/09. Questão decidida pelo C. STF, no RE 870.947/SE (Tema 810 de repercussão geral), definindo o IPCA-E como índice de correção monetária das prestações em atraso, em substituição à TR, e pelo C. STJ, no REsp 1.492.221/PR (Tema 905 de controvérsia repetitiva), definindo o INPC como índice de correção monetária no período posterior à vigência da Lei 11.430/06, ambos fixando os juros moratórios segundo o índice de remuneração da caderneta de poupança (art. 1º-F da Lei 9.497, com redação dada pela Lei 11.960/09).
+Modificação do entendimento inicialmente contido no v. acórdão recorrido para aplicar o INPC para correção monetária e, após, o IPCA-E, acrescido de juros moratórios de 1% ao mês (conforme CC e CTN) até 30/06/2009 e, após, conforme o índice de remuneração das cadernetas de poupança.
+READEQUAÇÃO REALIZADA.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 221/222.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+No mais, colhe-se dos autos que oacórdão do TJ/SP, em juízo de retratação do art. 1.040, II, do CPC/2015,decidiu pela incidência do INPC a partir de 2006 e fixando, a partir dejunho/2009, o índice determinado pelo STF no julgamento do RE 870.947/SE (repercussão geral  Tema nº 810) (e-STJ fls. 202/207).
+Não obstante, a autarquia limitou-se a postular a aplicação imediata da Lei n. 11.960/2009, sem renovar sua irresignação após o reexame da matéria pela Corte de origem, motivo pelo qual o recurso não merece ser conhecido, ante a falta de impugnação aofundamentoque lhe foidesfavorável.
+Como é cediço, a falta de pertinência entre as razões do recurso especial e a decisão questionada atrai o óbice contido na Súmula 284 do STF - "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia" - , pois não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. AGRAVO REGIMENTAL. DECISÃO MONOCRÁTICA. INDEFERIMENTO LIMINAR DA AÇÃO. INCOMPETÊNCIA DO STJ PARA CONHECER ORIGINARIAMENTE DO WRIT. VEICULAÇÃO DE RAZÕES DISSOCIADAS. APLICAÇÃO DA SÚMULA 284/STF. PRECEDENTES DO STJ. AGRAVO REGIMENTAL DO IMPETRANTE NÃOCONHECIDO.
+1. Aplica-se o óbice da Súmula 284/STF quando o recurso veicular razões dissociadas dos fundamentos da decisão recorrida.
+2. No caso, a decisão agravada apenas reconheceu a incompetência do STJ, por não se configurar a hipótese do art. 105, I, b da CF/88, matéria não recorrida.
+3. Agravo Regimental do Impetrante não conhecido. (AgRg no MS 19.557/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 14/12/2016, DJe 2/2/2017).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284 DO STF.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. O acolhimento de recurso especial por violação ao art. 535 do CPC/1973 pressupõe a demonstração de que a Corte de origem, mesmo depois de provocada mediante embargos de declaração, deixou de sanar vício de integração contido em seu julgado, o que não ocorreu na espécie.
+3. Não é possível conhecer de recurso especial que invoca como violado dispositivo de lei federal que não possui comando normativo apto a infirmar a tese adotada pelo acórdão recorrido. Inteligência da Súmula 284 do STF.
+4. Agravo interno desprovido. (AgInt no AREsp 290.622/MG, de minha relatoria, PRIMEIRA TURMA, julgado em 02/05/2017, DJe 20/06/2017).
+Além disso, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido, e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283 do STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem majoração da verba honorária (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
