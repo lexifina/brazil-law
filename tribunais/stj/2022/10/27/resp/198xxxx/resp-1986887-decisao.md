@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DA PARAÍBAcontra acórdão proferido pelo TJPB assim ementado:
+REMESSA NECESSÁRIA. INTERPOSIÇÃO DE RECURSO VOLUNTÁRIO PELA FAZENDA PÚBLICA NO PRAZO LEGAL. NÃO SUJEIÇÃO AODUPLO GRAU DE JURISDIÇÃO. PREVISÃO DO ART. 4 96, §1º, DO CÓDIGO DE PROCESSO CIVIL. NÃO CONHECIMENTO. - Não se sujeita à reapreciação obrigatória a sentença contra a qual a Fazenda Pública interpôs apelação no prazo legal, nos termos do art. 496, §1º, doCódigo de Processo Civil. APELAÇÃO. EMBARGOS À EXECUÇÃO FISCAL. AUTUAÇÃO POR SUPOSTO RECOLHIMENTO A MENOR DE ICMS/ST. PRETENSÃO DE DESCONSTITUIÇÃO DO DÉBITO. PROCEDÊNCIA. SUBLEVAÇAO DO ENTE ESTATAL. RAZÕES DORECURSO. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA SENTENÇA. PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA. INADMISSIBILIDADE. INTELIGÊNCIA DO ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. NÃO CONHECIMENTO DO RECURSO. O recurso que deixa de impugnar especificamente os fundamentos da senrença não deve ser conhecido, por violação ao principio da dialeticidade recursal.
+A parte recorrente alega violação dos arts. 496, II e §1º, e 1.008 do CPC/2015.
+Aduz, em síntese, que a remessa necessária, em razão de sua natureza, deve ser processada pelo Tribunala quomesmo com a interposição da apelação não conhecida.
+O recurso especial foi admitido.
+Contrarrazões pela recorrida pleiteando pelo não conhecimento do recurso especial.
+Passo a decidir.
+O recuso especial se origina de embargos à execução fiscal de ICMS lançado pelo ESTADO da PARAIBA.
+Na origem, questiona-se a autuação da contribuinte em decorrênciade, na condição de contribuinte substituída,ter supostamente efetuado recolhimento a menor do ICMS-ST, quando da aquisição interestadual de veículos novos com destino ao Estado da Paraíba.
+Aduz queo Fisco incluiu a embargante na condição de corresponsável para o recolhimento do ICMS diferencial de alíquota.
+No primeiro grau de jurisdição, os embargos foram julgados procedentes ao argumento de queinexiste a obrigação de recolhimento de diferença de alíquota do imposto nestas operações interestaduais em razão do art. 13 do RICMS/PB.
+O Tribunala quonão conheceu da apelação por descumprimento do princípio da dialeticidade, aoargumento de que as razões recursaisnão teriam impugnado especifica e diretamente os fundamentos da sentença.
+Consignou, ainda, não ser o caso de apreciação de remessa necessária diante da interposição no prazo legal daapelação da sentença, defendendo a tese de que a remessa necessária só seria cabível quando não interposto recurso voluntário.
+Pois bem.
+O recurso merece provimento.
+Analisando o instituto, esta Corte superior consolidou, com fundamento na doutrina do Professo Nelson Nery, que a remessa necessária é condição de eficácia da sentença, não possuindo natureza recursal, e que, portanto,devolve ao Tribunal a revisão do julgado e, em vista do efeito translativo, de toda a matéria na qual a Fazenda Pública sucumbiu, e as questões de ordem públicamesmo que não tenham sido suscitadas anteriormente. Nesse sentido:REsp200.967/PR, relator Ministro Franciulli Netto, Segunda Turma, julgado em 26/3/2002, DJ de 30/9/2002;AgInt no AREsp1.806.011/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 28/6/2021, DJe de 1/7/2021.
+Com efeito, as hipóteses de dispensa da remessa necessária estão expressamente previstas nos §§3º e 4º do art. 496 do CPC/2015, não sendo a interposição de apelação (ou outro recurso equivalente) uma destas hipóteses.
+In casu, a Cortea quodeu ao art. 496 do CPC/2015 interpretação incompatível com essa orientação ao dispensar a remessa necessária da sentença em razão da interposição da apelação, conferindoà interposição do recurso voluntário contra a sentençaeficácia preclusiva a impedir a remessa necessária,como que aplicandoà hipótese o princípio da unirrecorribilidade ouampliando as hipóteses de dispensa dos §§3º e 4º do art. 496 do CPC/2015.
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para DETERMINAR ao Tribunal de origemque dê correta aplicação ao art. 496 do CPC/2015, promovendo o julgamento da remessa necessária como condição de eficácia da sentença dos embargos à execução.
+Publique-se. Intimem-se.
