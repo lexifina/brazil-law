@@ -1,0 +1,42 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por SOLANGE PEREIRA ZAMARIO em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+APELAÇÃO CÍVEL PLANO DE SAÚDE AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS REQUERENTE QUE NECESSITA DE CIRURGIA DENOMINADA PALATOPLASTIA COM ENXERTO ÓSSEO NEGADA PELA RÉ EM RAZÃO DE PARECER DESFAVORÁVEL DE JUNTA ODONTOLÓGICA SENTENÇA DE PARCIAL PROCEDÊNCIA INCONFORMISMO DA AUTORA DANO MORAL DESCABIMENTO CIRURGIA SEM CARÁTER DE URGÊNCIA SENDO QUE A AUTORA OBTEVE A ANTECIPAÇÃO DE TUTELA NO MESMO DIA EM QUE PROPOSTA A AÇÃO CASO CONCRETO EM QUE A REQUERENTE NÃO LOGROU DEMONSTRAR O AGRAVAMENTO DA SUA CONDIÇÃO CLÍNICA OU ABALO PSICOLÓGICO NO PERÍODO EM QUE PERSISTIU A NEGATIVA FATOS DEDUZIDOS NOS AUTOS QUE NÃO CARACTERIZAM DOR EMOCIONAL PROFUNDA SITUAÇÃO VEXATÓRIA OU MESMO PREJUÍZO A ATRIBUTOS DA PERSONALIDADE DA REQUERENTE CONSABIDO QUE PARA A OCORRÊNCIA DO DANO EXTRAPATRIMONIAL É NECESSÁRIA A CONDUTA E O NEXO DE CAUSALIDADE QUE A LIGUE AO RESULTADO INDENIZAÇÃO INDEVIDA SENTENÇA MANTIDA RECURSO DESPROVIDO
+Em suas razões, a parte recorrente alegou violação aos arts. 186 e927 do Código Civil e art. 6º, inciso VI, do Código de Defesa do Consumidor, sob o argumento de ocorrência de dano moral em virtude da recusa de cobertura.
+Contrarrazões ao recurso especial às fls. 354/362, e-STJ.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece ser provido.
+A controvérsia diz respeito à ocorrência ou não de dano moral em virtude da recusa de cobertura de cirurgia palatoplastia com enxerto ósseo em paciente portadora de atrofia severa horizontal e vertical da maxila direita e esquerda.
+O Tribunal de origem entendeu que os efeitos da recusa de cobertura teria se limitado ao âmbito contratual, na medida em que não se verificou risco à integridade física do usuário do plano de saúde.
+Sobre esse ponto, transcreve-se do acórdão recorrido:
+A autora ajuizou a ação visando compelir a ré à autorização e ao custeio do procedimento cirúrgico de "Palatoplastia com enxerto", por ser portadora de atrofia severa horizontal e vertical da maxila direita e esquerda, devido a acidente ocorrido há 10 anos, quando realizou cirurgia de enxerto do osso ilíaco.
+Segundo a autora, apesar de ser beneficiária do plano de saúde da ré, esta se negou a autorizar a realização da cirurgia, mediante apresentação de parecer desfavorável de Junta Odontológica.
+Pleiteou, ainda, reparação por danos morais no montante correspondente a 15 salários mínimos.
+Pois bem.
+Verificando os fatos e provas trazidos pelas partes, a meu ver, não se vislumbra situação concreta de constrangimento que tenha causado gravame à esfera moral da parte autora. Observo inicialmente que o tratamento, embora indubitavelmente fosse necessário, não era urgente, inexistindo comprovação neste sentido. Assim é que a prescrição para o procedimento é de 19/12/2019 (fls. 23), sendo a ação ajuizada apenas em março de 2020.
+Também verifico que a decisão que deferiu a tutela provisóriafoi proferida no mesmo dia da propositura (06/03/2020), informando a ré, ato contínuo, o cumprimento do comando judicial, sendo o procedimento autorizado em23/03/2020 (fls. 56).
+Com efeito, a requerente não logrou demonstrar qualquer prejuízo sofrido neste lapso temporal, tal como agravamento de sua condição clínica ou abalo psicológico. Por oportuno, recordo que a ocorrência de dano moral demanda a demonstração de dano efetivo, para o qual não basta a mera alegação.
+É necessária a conduta e um nexo de causalidade que a ligue ao resultado. No cenário delineado nos autos, é evidente que a requerente sofreu experiência desagradável por conta da negativa do procedimento, além do indiscutível incômodo de ter que lidar com a doença que a acometeu.
+Em que pese ser compreensível o aborrecimento sofrido pela requerente, não me parece razoável considerar que a operadora do plano de saúde tenha atuado de forma a ocasionar o dano moral.
+Como dito, em que pese o dissabor sofrido pela requerente, não se pode afirmar que o descumprimento do contrato pela ré mostrou-se suficiente para caracterizar o seu abalo psíquico, sua aflição espiritual, humilhação, de modo que seria equivocado afirmar a existência do dano moral. (e-STJ fls. 322/323)
+Esse entendimento está em sintonia com a jurisprudência desta Corte Superior, que se encontra orientada no sentido de que a recusa de cobertura, quando amparada em controvérsia contratual, somente enseja indenização por dano moral quando apta a provocar sério agravamento no quadro clínico do paciente, com risco a incolumidade física ou a vida.
+Nesse sentido:
+RECURSO ESPECIAL. AÇÃO COMINATÓRIA C/C COMPENSAÇÃO POR DANO MORAL. PLANO DE SAÚDE. NEGATIVA INDEVIDA DE COBERTURA DE TRATAMENTO. AUSÊNCIA DE AGRAVAMENTO DA SITUAÇÃO. DANO MORAL NÃO CONFIGURADO. CONDENAÇÃO À OBRIGAÇÃO DE FAZER. COBERTURA DE INTERNAÇÃO DOMICILIAR (HOME CARE). PROVEITO ECONÔMICO IMENSURÁVEL. CRITÉRIO PARA O ARBITRAMENTO DOS HONORÁRIOS DE SUCUMBÊNCIA. VALOR DA CAUSA. JULGAMENTO: CPC/2015.
+1. Ação cominatória c/c compensação por dano moral ajuizada em 17/10/2017, da qual foi extraído o presente recurso especial, interposto em 17/12/2019 e concluso ao gabinete em 19/11/2020.
+2. O propósito recursal é decidir sobre a configuração do dano moral e o critério para fixação dos honorários advocatícios de sucumbência.
+3. O descumprimento contratual, por parte da operadora de plano de saúde, que implica negativa ilegítima de cobertura para procedimento médico, somente enseja reparação a título de danos morais quando trouxer agravamento da condição de dor, abalo psicológico e prejuízos à saúde já debilitada do paciente. Precedentes.
+4. Segundo a jurisprudência das Turmas que compõem a Segunda Seção, o título judicial que transita em julgado com a procedência dos pedidos de natureza cominatória (fornecer a cobertura pleiteada) e de pagar quantia certa (valor arbitrado na compensação dos danos morais) deve ter a sucumbência calculada sobre ambas as condenações.
+5. Quando o valor da cobertura indevidamente negada é imensurável no momento da fixação dos honorários advocatícios de sucumbência, assim ocorrendo nos tratamentos continuados, por prazo indefinido, o critério para o seu arbitramento, seguindo a ordem de preferência estabelecida pela Segunda Seção, deve ser o do valor da causa.
+6. Recurso especial conhecido e desprovido, com majoração de honorários.(REsp n. 1.904.603/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/2/2022, DJe de 24/2/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E PEDIDO DE TUTELA PROVISÓRIA. PLANO DE SAÚDE. SERVIÇO DE INTERNAÇÃO DOMICILIAR (HOME CARE). NEGATIVA DE COBERTURA. DANO MORAL NÃO DEMONSTRADO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Conforme entendimento desta Corte Superior, o descumprimento contratual por parte da operadora de saúde, que culmina em negativa de cobertura para procedimento de saúde, somente enseja reparação a título de danos morais quando houver agravamento da condição de dor, abalo psicológico ou prejuízos à saúde já debilitada do paciente, o que não foi constatado pelas instâncias ordinárias na presente hipótese.
+2. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.(AgInt no AREsp n. 1.886.337/MS, relator Ministro Raul Araújo, Quarta Turma, julgado em 20/9/2021, DJe de 15/10/2021.)
+Acrescente-se que a pretendida inversão do julgado, para se concluir pela existência de risco à incolumidade física, demandaria reexame de provas, providência inviável no âmbito desta Corte Superior, em razão do óbice da Súmula 7/STJ.
+Com fundamento noart. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 1%, totalizando 12% sobre o valor determinado na origem,observada a eventuale anterior concessão da gratuidade judiciária.
+Ante o exposto, nego provimento ao recurso especial.
+Advirta-se para o disposto nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITOCIVIL. PLANO DE SAÚDE. PALATOPLASTIA COM ENXERTO ÓSSEO. RECUSA DE COBERTURA. DANO MORAL. INOCORRÊNCIA. AUSÊNCIA DE RISCO À INCOLUMIDADE FÍSICA DO PACIENTE. INVERSÃO DO JULGADO. ÓBICE DA SÚMULA 7/STJ.
+RECURSO ESPECIALDESPROVIDO, COM MAJORAÇÃO DOS HONORÁRIOS.
