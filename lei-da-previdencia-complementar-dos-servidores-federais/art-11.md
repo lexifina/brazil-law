@@ -3,6 +3,6 @@ Art. 11. A União, suas autarquias e fundações são responsáveis, na qualidad
 § 2º O pagamento ou a transferência das contribuições após o dia 10 (dez) do mês seguinte ao da competência:
 I - enseja a aplicação dos acréscimos de mora previstos para os tributos federais; e
 II - sujeita o responsável às sanções penais e administrativas cabíveis.
-§ 3º As transferências referidas no caput incluirão aquelas:
-I - contratadas pelo servidor para cobertura de riscos de invalidez ou morte; e
-II - referidas no § 4º do art. 16.
+§ 3º As transferências referidas no caput deste artigo incluirão:
+I - as contratadas pelo servidor para cobertura de riscos de invalidez ou morte; e
+II - as referidas no § 4º do art. 16 desta Lei.
