@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial interposto por JANAINA PATRICIA OLIVEIRA DA SILVA, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 444/451, in verbis:
+Extrai-se dos autos que o Ministério Público do Estado do Rio Grande do Sul ofereceu denúncia em desfavor de ANDERSON CAMARGO DOMINGUES e JANAÍNA PATRÍCIA OLIVEIRA DA SILVA, dando-os como incursos nas sanções do artigo 33, caput, da Lei n.º 11.343/2006, c/c artigo 2.º da Lei n.º 8.072/1990 (1.º Fato), artigo 35, caput, da Lei n.º 11.343/2006 (2.º Fato), e artigo 12 da Lei n.º 10.826/2003 (3.º Fato), todos na forma dos artigos 29, caput, e 69, caput, ambos do Código Penal.
+Narra, nos seguintes termos, a exordial acusatória (fls. 3/6):
+ ..
+Transcorrido regularmente o processo, com observância dos princípios constitucionais da ampla defesa e do contraditório, sobreveio sentença de fls. 194/208, que julgou PARCIALMENTE PROCEDENTE a inicial acusatória para CONDENAR a ré JANAÍNA PATRÍCIA OLIVEIRA DA SILVA às penas de 03 (três) anos e 04 (quatro) meses de reclusão, e 01 (um) ano de detenção, a serem cumpridas em regime semiaberto, e 343 (trezentos e quarenta e três) dias-multa, a razão de 1/30 do salário-mínimo, como incursa nas sanções do artigo artigo 33, § 4º, da Lei nº 11.343/2006 (1º Fato) e do artigo 12, caput, da Lei n.º 10.826/2003 (3º Fato), sem direito a substituição da pena privativa de liberdade por pena restritiva de direitos ou suspensão condicional da pena. Ainda, paraABSOLVÊ- LA em relação ao delito de associação para o tráfico de drogas (2º Fato), com fundamento no art. 386, inciso VII, do CPP.
+Foi concedido o direito de recorrer em liberdade, sendo revogada a prisão domiciliar, "uma vez que o tempo de prisão foi suficiente para o reestabelecimento da ordem pública, bem como em razão de a ré ter sido condenada a iniciar o cumprimento da pena em regime diverso do fechado" (fl. 207).
+Inconformada, a defesa interpôs recurso de apelação às fls. 256/275, em que alega, preliminarmente, nulidade dos depoimentos policiais. No mérito, requer:
+  A reavaliação das circunstâncias judiciais do artigo 59, a fim de que seja redimensionada pena-base;
+  A aplicação da minorante do §4º, do artigo 33 da Lei nº 11.343/06 em seu patamar máximo, qual seja 2/3;
+  A alteração do regime inicial de cumprimento da pena para o regime aberto, conforme dispõe a alínea "c", §2º, do artigo 33 do Código Penal, com a substituição da pena privativa de liberdade por pena restritiva de direito, vez que preenche todos os requisitos do artigo 44 do Código Penal;
+  Sejam expressamente prequestionados os artigos 33, 44, 59 e 155 do Código Penal e artigo 33, §4º da Lei nº 11.343/06, a fim de possibilitar a interposição de recursos para as instâncias Superiores.
+Na sequência, a 2ª Câmara Criminal do TJ/RS, por unanimidade, negou provimento ao apelo defensivo, nos termos do acórdão de fls. 323/332, que restou assim ementado:
+ ..
+Opostos embargos de declaração pela defesa, estes foram rejeitados, nos termos do acórdão de fls. 354/357.
+Irresignada, a defesa interpôs recurso especial com fulcro no artigo 105, inciso III, alíneas ""a" e "c"", do permissivo constitucional, alegando violação aos artigos 33, 44 e 59 do Código Penal e 33, §4º, da Lei nº 11.343/06, pois incorreu em bis in idem, ao argumento que "a natureza do entorpecente foi utilizada pelo juiz para agravar a pena na primeira fase da dosimetria, sendo que não poderia o magistrado utilizar a natureza e quantidade (variedade) do entorpecente para modular a fração de diminuição da pena na terceira fase de aplicação da sanção" (fls. 367/386).
+Contrarrazões do MP/RS às fls. 410/418.
+A Segunda Vice-Presidência do TJ/RS admitiu o recurso especial, conforme decisão de fls. 427/421.
+Vieram os autos para manifestação deste Ministério Público Federal.
+É o relatório.
+Ao final, o Parquet opinou pelo provimento parcial do recurso.
+É o relatório.
+Decido.
+Acerca da dosimetria da pena, o Tribunal de origem assim consignou (e-STJ fls. 331/332):
+No ponto, a defesa requer a redução da pena-base, a fim de se excluir o tisne atribuído às circunstâncias do crime, pela natureza do narcótico apreendido.
+Todavia, tenho que a natureza da droga (crack, cerca de 23g) é motivo idôneo para exasperar a pena-base, nos termos do que determina o artigo 42 da LAD.
+E só para argumentar, houve a incidência, no caso, da atenuante da confissão, que fez situar a pena provisória no patamar mínimo, de modo que, mesmo que excluído o valor negativo do vetor em debate, a pena provisória ainda se situaria no mínimo legal, em atenção à Súmula 231 do STJ
+Em seguida, com relação à fração eleita para a redução com base no tráfico privilegiado, não há falar em bis in idem. Isso porque a modulação da fração se deu em razão de outro fator que não a "natureza do droga", sendo, no caso, a apreensão de duas matérias proscritas em posse da acusada, apontando para a diversificação no comércio ilícito de entorpecentes.
+Portanto, correta a modulação da fração da minorante, fixada em 1/3.
+Assim, pelo concurso de crimes, a pena definitiva é de 03 (três) anos e 04 (meses) meses de reclusão, e 01 ano de detenção, devendo ser mantido o regime inicial semiaberto para o cumprimento da reprimenda.
+Da leitura dos trechos precedentes, constata-se que a exasperação da pena-base e a fixação da minorante em patamar diverso do máximoforam assentadas basicamente na quantidade e na variedade da droga apreendida.
+No entanto, tenho que o total de entorpecente apreendido- 80g (oitenta gramas) de maconha e 23g (vinte e três gramas)de crack- não se revela expressivo o suficiente para justificar nem o agravamento da reprimenda nem o afastamento da minorante prevista no art. 33,§ 4º, da Lei n. 11.343/2006, no seu patamar máximo, mormente no caso de réuprimário e sem antecedentes criminais.
+No ponto, cabe a ponderação do Ministro Sebastião Reis Júnior, relator nos autos do HC n. 593.560/SP, que, em decisão monocrática em caso análogo, observou que "opaciente é primário, sem antecedentes e não houve nenhuma vetorial negativa. Além disso, a quantidade de drogas não se mostra excessiva para afastar o privilégio, além de que não poderemser consideradas questões relativas a denúncias anônimas, ações penais em andamento, e a motivação do Magistrado sobre o armazenamento de entorpecentes ou local em que era guardado ou o fato de o paciente estar desempregadonão são suficientes para afirmar que exista, de fato, dedicação ao tráfico ou que o paciente faça parte de alguma organização" (julgado em 24/3/2021, DJe 26/3/2021, grifei).
+Evidente, portanto, o constrangimento ilegal, mostrando-se imperioso o recálculo da pena.
+Dessa forma, reduzindo-se a pena-base ao mínimo legal e reconhecendo-se a incidência da minorante do § 4º da Lei n. 11.343/2006, na fração de 2/3, a pena da recorrente pelo delito de tráfico de entorpecentes deve ser reduzida para 1 ano e 8 meses de reclusão.
+Dessa forma, diante do novoquantumda reprimenda, arecorrente faz jus ao regime inicial aberto, o qual se revela como o mais adequado à prevenção e à repressão do delito em tela, conforme o art. 33, § 3º, do Código Penal.
+Por fim, afastada a hediondez ou a gravidade abstrata do crime como critério para obstar a substituição das penas, e preenchidos os pressupostos previstos no art. 44 do Código Penal, resulta cabível a conversão da pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Ante o exposto,dou provimento ao recurso especialpara, nos termos acima deduzidos,reduzir a reprimenda darecorrente pelo delito de tráfico de entorpecentes para 1 ano e 8 meses de reclusão, fixar o regime aberto de cumprimento de pena, bem como substituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Publique-se. Intimem-se.
