@@ -1,0 +1,24 @@
+DECISÃO
+MARCELO ANTONIO TEIXEIRA alega sofrer constrangimento ilegal pelo Tribunal de Justiça do Estado de São Paulo (Habeas Corpus n. 2198150-24.2022.8.26.0000).
+Sustenta a defesa, em síntese, que "é clarificada a falta de fundamentação baseada no caso concreto ao denegar o pedido de liberdade provisória do Paciente. Insurge-se em fundamentações genéricas e que não abrangem a realidade para mantê-lo privado de sua liberdade, o que deveria ocorrer apenas em "ultima ratio", considerando o caráter excepcional de medida extrema da prisão preventiva" (fl. 6).
+Após o indeferimento da liminar (fls. 233-234), o Ministério Público Federal opinou pelo não conhecimento do writ (fls. 243-247).
+Decido.
+Quanto à apontada ausência de quaisquer dos fundamentos previstos no art. 312 do CPP, faço lembrar que a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata docrime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+No caso dos autos, o Juiz de primeiro grau, ao decretar a prisão preventiva, assentou (fl. 217, destaquei):
+A gravidade das condutas perpetradas é extremamente elevada. Além de terem sido apreendidas quantidades relevantes de entorpecentes, os indiciados estavam tentando de alguma forma inserir os estupefacientes no ambiente prisional, comprometendo assim a ordem do local e colocando em risco a saúde dos demais presos. Note-se, ainda, que com exceção de Jonas, que estava procurado pela Justiça, todos os demais indiciados estão atualmente presos no PEMANO. Tem-se, assim, periculosidade concreta de todos os agentes, que demonstram grande destemor e absoluto desrespeito à autoridade e supervisão estatais, praticando crimes mesmo em gozo de benefício penal ou, no caso de Jonas, em situação de subtração à aplicação da lei.
+O Tribunal a quo manteve o encarceramento do paciente, nos termosque se segue (fls. 226-229, grifei):
+Conforme se extrai da leitura das informações prestadas pela Autoridade tida como coatora, o ora pacientefoi preso em flagrante, pela prática, em tese, do artigo 33, "caput", c.c. o art. 40, III, da Lei 11.326/2006, porque quando retornava a penitenciária em que cumpria pena, estava na posse de 5 porções de maconha e 73 porções de cocaína.
+ .. .
+Cabe referir que ao paciente é imputada a prática de delito grave, considerado hediondo, que traz consequências sociais irreparáveis, sendo fonte geradora de crimes violentos, daí porque, sua custódia cautelar não ofende nem mesmo o princípio da presunção de inocência, uma vez que a própria Constituição Federal a admite, ao permitir a possibilidade de prisão em flagrante oupor ordem devidamente fundamentada, como no presente caso.
+Ressalto não se vislumbrar qualquer alteração da situação fática a demandar a revogação da medida, prevalecendo os requisitos autorizadores da decretação e mantença da constrição.
+Não há que se cogitar em aplicação de medida cautelar diversa da prisão. Isto porque, a nova Lei nº 12.403/11, ainda que de forma excepcional, prevê a possibilidade da decretação da prisão preventiva para os crimes dolosos com o máximo de pena privativa de liberdade superior a 04 anos, o que engloba o crime em questão.
+Portanto, considerando-se que a situação processual do paciente admite o decreto preventivo, não era mesmo razoável a adoção de medida cautelar diferente da prisão. Aliás, medida diversa da prisão seria claramente insuficiente e geraria sentimento de odiosa impunidade, ainda mais em se tratando de crime tão nefasto.
+ .. .
+Ademais, as circunstâncias do caso concreto tornam evidente a necessidade da imposição da custódia cautelar, pois o paciente, além dos indícios de autoria e materialidade, estava no gozo de benefício penal, quando veio a praticar o delito dos autos.
+Logo, a persistência na senda criminosa faz com que se deva afastar a continuidade desta conduta, ensejando que essa disposição à criminalidade não possa ser ignorada.
+Daí a pertinência da prisão, com fundamento no art. 312, do Código de Processo Penal.
+Dessa forma, verifico que as razões invocadas nas instâncias de origem se mostram suficientes para embasar a ordem de prisão doacusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação doréu.
+Assim, em razão da gravidade do crime e do indicado risco de reiteração delitiva, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
