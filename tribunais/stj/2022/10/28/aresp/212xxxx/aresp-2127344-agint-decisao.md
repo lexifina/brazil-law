@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de Agravo Internocontra decisão monocrática (fls. 227-228, e-STJ) que conheceu do Agravo para negar provimento ao Recurso Especial.
+O agravante alega:
+Com o devido acatamento, a decisão ora objurgada não merece prosperar, pois há nos autos circunstâncias diferentes e peculiares não assemelhadas aos parâmetros citados no aludido pronunciamento judicial, razão pela qual impõe-se o presente Agravo Interno necessário para a reforma denegatória do inconformismo estatal.
+Cumpre registar que a jurisprudência do Superior Tribunal de Justiça está consolidada no sentido que a prescrição para liquidação e/ou execução da sentença coletiva tem início do trânsito em jugado da sentença coletiva.
+Em resumo, foi firmado pela Corte Especial, com fundamento em precedentes repetitivos da Primeira Seção e Segunda Seção:
+a)O termo inicial do prazo prescricional para Ação de Cumprimento de Sentença Coletiva tem início com o trânsito em julgado da Sentença Coletiva;
+b)Ação de Cumprimento de Sentença Coletiva é termo que abarca tanto a liquidação como a execução da referida sentença coletiva;
+c) Portanto, a prescrição da pretensão de liquidação e/ou execução individual do Título Judicial derivado de Sentença Coletiva
+prescreve em 5 anos contados da Sentença Coletiva que fundamenta o direito;
+d)Caso a liquidação ou execução seja feita de forma coletiva, ajuizada pelo Substituto (Sindicato ou Associação - p.ex.), será interrompida a prescrição em favor dos particulares com suas pretensões individuais;
+e)Encerrada a liquidação ou execução coletiva, o prazo volta a correr pela metade aplicando-se o art. 9, do Decreto nº 20.910/32;
+f) Não se aplica às ações coletivas o entendimento de que o prazo prescricional para cumprimento de sentença só começa a fluir após a liquidação de sentença, esse entendimento é adequado ao processo individual, mas não à Ação de Cumprimento derivada da condenação genérica em Ação Coletiva, hipótese em que é necessária a instauração de nova demanda para apurar a situação individual de cada um dos substituídos no processo coletivo;
+(..)
+Desta feita, verifica-se que o caso em questão se diferencia dos paradigmas colacionados pelo Ministro Relator para embasar a harmonia de entendimentos entre o acórdão do tribunal local e o STJ, pois segundo pode se inferir dos precedentes acima destacados não se aplica às ações coletivas a compreensão de que o prazo prescricional para cumprimento de sentença só começa a fluir após a liquidação de sentença.
+Pleiteia a reconsideração do decisum ou a submissão do feito à Turma.
+É o relatório.
+Decido.
+Verifico que a matéria versada no apelo foi submetida a julgamento no rito dos Recursos Repetitivos (REsp1978629, REsp1.985.037/RJ e REsp1.985.491/RJque cuidam do Tema: "Definir se aliquidaçãoprévia do julgado é requisito indispensável para o ajuizamento deaçãoobjetivando ocumprimentodesentençacondenatória genérica proferida em demandacoletiva,de modo que sua ausência acarreta a extinção daaçãoexecutiva, ou se o exame quanto ao prosseguimento daaçãoexecutiva deve ser feito pelo Magistrado com base no cotejo dos elementos concretos trazidos aos autos.").
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC; e 1.040 e seguintes do CPC/2015, conforme o caso.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL INTERPOSTO EM FACE DE DECISÃO QUE DETERMINOU A DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. PENDÊNCIA DE JULGAMENTO DE RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA, NO QUAL SE DISCUTE QUESTÃO IDÊNTICA. PROVIDÊNCIA QUE NÃO ENSEJA PREJUÍZO A NENHUMA DAS PARTES. NECESSIDADE DE SE OBSERVAR OS OBJETIVOS DA LEI 11.672/2008.
+(..)
+4. Além disso, em razão das modificações inseridas no Código de Processo Civil pelas Leis 11.418/2006 e 11.672/2008 (que incluíram os arts. 543-B e 543-C, respectivamente), não há óbice para que o Relator, levando em consideração razões de economia processual, aprecie o recurso especial apenas quando exaurida a competência das instâncias ordinárias. Nesse contexto, se há nos autos recurso extraordinário sobrestado em razão do reconhecimento de repercussão geral no âmbito do STF e/ou recurso especial cuja questão central esteja pendente de julgamento em recurso representativo da controvérsia no âmbito desta Corte (caso dos autos), é possível ao Relator determinar que o recurso especial seja apreciado apenas após exercido o juízo de retratação ou declarado prejudicado o recurso extraordinário, na forma do art. 543-B, § 3º, do CPC, e/ou após cumprido o disposto no art. 543-C, § 7º, do CPC. É oportuno registrar que providência similar é adotada no âmbito do Supremo Tribunal Federal.
+5. Entendimento em sentido contrário para que a suspensão ocorra sempre no âmbito do Superior Tribunal de Justiça implica esvaziar um dos objetivos da Lei 11.672/2008, qual seja, "criar mecanismo que amenize o problema representado pelo excesso de demanda" deste Tribunal. Assim, deve ser "dada oportunidade de retratação aos Tribunais de origem, devendo ser retomado o trâmite do recurso, caso a decisão recorrida seja mantida", sendo que tal solução "inspira-se no procedimento previsto na Lei nº 11.418/06 que criou mecanismo simplificando o julgamento de recursos múltiplos, fundados em idêntica matéria, no Supremo Tribunal Federal", conforme constou expressamente das justificativas do respectivo Projeto de Lei (PL 1.213/2007).
+6. Agravo regimental não conhecido (AgRg no AREsp 153829/PI, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 23/5/2012).
+Ante o exposto, torno sem efeito a decisão das fls. 227-228, e-STJ, julgo prejudicado o presente Agravo Interno e determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
