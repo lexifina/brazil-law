@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por JOÃO PAULO FRANCO ROSSI CUPPOLONI e outros (JOÃO e outros), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo, da relatoria do Desembargador ALEXANDRE COELHO, assim ementado:
+AGRAVO DE INSTRUMENTO - COMPROMISSO DE COMPRA E VENDA - INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - DEFERIMENTO - INCONFORMISMO DAS RÉS - REJEIÇÃO - Ilegitimidade passiva afastada tendo em vista que a desconsideração da personalidade jurídica atinge a pessoa dos administradores - art. 50 do CC - Demonstrada a inexistência de patrimônio da executada e o abuso da personalidade jurídica decorrente do desvio de finalidade em detrimento do consumidor, acertada a decisão que acolheu pedido de desconsideração da personalidade jurídica para atingir o patrimônio dos administradores das executadas - Decisão mantida - NEGARAM PROVIMENTO AO RECURSO(e-STJ, fl. 34).
+Os embargos de declaração opostos por JOÃO e outrosforam rejeitados(e-STJ, fls. 291/296).
+Irresignados,JOÃO e outrosinterpuseramrecurso especial com base no art. 105, III, alíneasa e c, da CF, apontando a violação dos arts. 50 do CC, ao sustentarque(1)para comprovar aocorrência de abuso da personalidade jurídica não se exige prova de um evento capaz de gerar no intérprete a suposição de ocorrência de abuso da personalidade jurídica, massima comprovação de situações concretas que revelem efetivo desvio do objeto social e excesso de poder imputáveis a cada um dos incluídosno incidente, não sendo suficientes o tempo de tramitação da demanda e a existência de relaçãocom a sociedade executada,sem indicar qualquer participação nos episódios relatados, mencionando precedentes em apoio a sua tese.
+O recurso não foi admitido peloTribunal de Justiça de São Paulo (e-STJ, fls. 90/92).
+Nas razões do presente agravo, JOÃO e outrosalegaramque os fundamentos da decisão de inadmissibilidade não se sustentam.
+Foiapresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Da personalidade jurídica
+JOÃO e outros afirmam que, para comprovar a ocorrência de abuso da personalidade jurídica, não se exige prova de um evento capaz de gerar ao intérprete a suposição de ocorrência de abuso da personalidade jurídica, massima comprovação de situações concretas que revelem efetivo desvio do objeto social e excesso de poder imputáveis a cada um dos incluídos no incidente, não sendo suficientes o tempo de tramitação da demanda e a existência de relação com a sociedade executada, sem indicar qualquer participação nos episódios relatados, mencionando precedentes em apoio a sua tese.
+A questão foi assim examinada pelo Tribunal paulista:
+E os agravantes, ocupando os cargos de diretor financeiro e fazendo parte do Conselho de Administração, caracterizam-se como administradores das empresas.
+Certo é que o instituto da desconsideração da personalidade jurídica é exceção legal à regra da separação patrimonial, mas, ao contrário do alegado pelas agravantes, estão presentes os requisitos que autorizam a desconsideração dapersonalidade jurídica.
+Diferentemente do que alegam os agravantes, o conteúdo dos autos demonstra a inexistência de patrimônio da empresa executada, eis que negativas as pesquisas de bens.
+Ademais, se a executada não é insolvente, como alegam os agravantes, deveria ter sido indicado bens para penhora e quitação da dívida, mas não o fez. Veja-se que os argumentos dos agravantes não são capazes de modificar a conclusão da decisão recorrida.
+Além disso, a executada não paga a dívida há mais de quatro anos, mas continua ativa, prova de que há abuso da personalidade jurídica caracterizado pelo desvio de finalidade, pois, evidente a utilização da pessoa jurídica para dificultar o recebimento de valores por parte da credora exequente, nos termos do artigo 50, § 1º do Código Civil.
+Desta forma estão presentes os requisitos da teoria maior da desconsideração da personalidade jurídica prevista no artigo 50 do Código Civil  .. (e-STJ, fls. 35/36).
+Em relação ao tema, esta Corte considera quepara aplicação da teoria maior da desconsideração da personalidade jurídica (art. 50 do CC/2002), exige-se a comprovação de abuso, caracterizado pelo desvio de finalidade (ato intencional dos sócios com intuito de fraudar terceiros) ou confusão patrimonial, requisitos que não se presumem mesmo em casos de dissolução irregular ou de insolvência da sociedade empresária(AgInt no AREsp n. 2.120.681/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 26/9/2022, DJe de 29/9/2022).
+Ainda assim:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO. JULGAMENTO POR MAIORIA. ART. 942 DO CPC/2015. NÃO INCIDÊNCIA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ENCERRAMENTO IRREGULAR DA EMPRESA E AUSÊNCIA DE BENS PENHORÁVEIS. REQUISITOS INSUFICIENTES. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+ ..
+3. A jurisprudência do STJ firmou o entendimento de que "a existência de indícios de encerramento irregular da sociedade aliada à falta de bens capazes de satisfazer o crédito exequendo não constituem motivos suficientes para a desconsideração da personalidade jurídica, eis que se trata de medida excepcional e está subordinada à efetiva comprovação do abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial " (AgInt no AREsp 1712305/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 12/04/2021, DJe 14/04/2021).
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt nos EDcl no REsp n. 1.942.440/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/9/2022, DJe de 29/9/2022)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENCERRAMENTO IRREGULAR DA SOCIEDADE E AUSÊNCIA DE BENS. CIRCUNSTÂNCIAS INSUFICIENTES PARA AUTORIZAR A DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. MULTA. INAPLICABILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A orientação do Superior Tribunal de Justiça é no sentido de que não se pode desconsiderar a personalidade jurídica de sociedade empresária devedora para alcançar o patrimônio dos seus sócios com base apenas no seu encerramento irregular e na ausência de bens penhoráveis.
+2. Não incide a multa descrita no art. 1.021, § 4º, do CPC/2015 quando não comprovada a manifesta inadmissibilidade ou improcedência do pedido.
+3. Agravo interno desprovido.
+(AgInt no AgInt no AREsp n. 1.778.746/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 2/5/2022, DJe de 11/5/2022)
+Desse modo, tendo o Tribunal estadual decidido pela desconsideração da personalidade jurídica apenas com base apenas na ausência de pagamento da dívida, verifica-se que não existem fundamentos suficientes para a desconsideração, devendo ser afastada.
+Nessas condições, CONHEÇOdo agravo para CONHECERdo recurso especial e DAR-LHE provimento, determinando o afastamento da desconsideração da personalidade jurídica.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC.COMPRA E VENDA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. INSOLVÊNCIA. IMPOSSIBILIDADE DE RECONHECIMENTO. CONHECEU-SE DOAGRAVO. CONHECEU-SE DO RECURSO ESPECIAL E DEU-SE-LHE PROVIMENTO.
