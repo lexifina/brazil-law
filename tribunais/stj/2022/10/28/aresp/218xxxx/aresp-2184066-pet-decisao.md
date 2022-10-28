@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de petição apresentada por ABRAAO DE SOUZA BRITO alegando que "Não há certificação que o representante da parte interessada encontra-se intimado por intermédio do citado portal eletrônico PJE a respeito dos termos do ato processual nas fls.: 246/7" (fl. 2, do expediente avulso).
+Foi certificado pela Secretaria desta Corte (fl. 5 - expediente avulso) "que o advogado Dr. Jorge Alexandre Germano Borges, OAB/RJ n. 199.721, com procuração à e-STJ fl. 09 dos autos, foi regularmente intimado da r. Decisão de e-STJ fls. 246/247, mediante publicação no DJe/STJ nº 3480 de 20/09/2022, nos termos do artigo 4º, § 3º, da Lei n. 11.419/2006, conforme certidão lavrada à e-STJ fl. 248 do presente feito" (fl. 1295).
+É, no essencial, o relatório. Decido.
+Verifica-se que não seria caso de intimação eletrônica do referido advogado, pois, nos termos do referido edital, somente entes públicos e os núcleos de práticas jurídicas são intimados pelo meio eletrônico e o restante das intimações é realizado por meio de publicação no DJe, conforme realizado à fl. 248.
+Portanto, a intimação realizada por meio da publicação no Diário de Justiça Eletrônico foi realizada de forma regular, não ocorrendo qualquer nulidade.
+Nesse sentido, vale citar o seguinte julgado desta Corte:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INTEMPESTIVIDADE. FAZENDA PÚBLICA. PRAZO EM DOBRO PARA RECORRER. AGRAVO INTERPOSTO QUANDO JÁ EXPIRADO O PRAZO. INTIMAÇÃO PESSOAL. NOVO CPC. OBRIGAÇÃO DE CADASTRO NA ADMINISTRAÇÃO DO TRIBUNAL PARA A REALIZAÇÃO DE INTIMAÇÃO ELETRÔNICA DO ENTE FEDERATIVO. NORMA EXPRESSA NOS ARTS. 246, §§ 1º E 2º, E 1.050 DO CPC/2015.
+1. O prazo para a interposição do agravo interno é de 15 (quinze) dias úteis, contado em dobro para a Fazenda Pública, consoante dispõem os arts. 183, 219, 1.003, § 5º, e 1.070 do CPC/2015.
+2. No caso, considerou-se publicada a decisão combatida na data de 11/4/2018 (e-STJ, fl. 753). Assim, o prazo para a interposição do agravo iniciou-se em 12/4/2018 (quinta-feira) e encerrou-se em 24/5/2018 (quinta-feira). Verifico que o agravo interno somente foi interposto neste Tribunal quando já expirado o prazo legal, em 1º/10/2018. Logo, intempestivo o agravo.
+3. Ademais, "publicada a decisão monocrática e transcorrido in albis o prazo para a interposição de eventual recurso, e, ainda, lavrada a certidão de trânsito e termo de remessa dos autos à origem, tem-se por exaurida a prestação jurisdicional desta Corte, caracterizando-se, assim, a inviabilidade da via eleita" (AgRg no AREsp 633.408/SP, Rel. Min. Marco Buzzi, Quarta Turma, DJe 7/12/2016).
+4. Outrossim, o art. 246, §§ 1º e 2º, do CPC/2015 dispõe que a Fazenda Pública deve ser, preferencialmente, intimada de forma pessoal por meio eletrônico, o que depende da efetivação de seu cadastro na Administração do Tribunal, conforme determina o art. 1.050 do referido Codex Processual.
+5. Nesse sentido, deveria o ora agravante ter realizado o cadastro para recebimento de intimações por meio do Portal de Intimação Eletrônica do Superior Tribunal de Justiça, nos moldes do que consta no Edital de Convocação para Cadastramento de Órgãos Públicos publicado pela Presidência do Superior Tribunal de Justiça, em 4/8/2016, na Edição n. 2024 do Diário da Justiça Eletrônico - DJe.
+6. Agravo interno a que se nega provimento.
+(AgInt no AgInt no REsp 1.190.095/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 18/06/2019)
+Há considerar, ainda, que os processos são encaminhados ao Superior Tribunal de Justiça pelas Cortes de origem e não correspondem ao processo eletrônico que tramita na origem, uma vez que esta Corte Superior não adota o sistema PJe utilizado nos outros tribunais.
+Ante o exposto, indefiro o pedido de nova intimação.
+Arquive-se.
+Publique-se. Intimem-se.
