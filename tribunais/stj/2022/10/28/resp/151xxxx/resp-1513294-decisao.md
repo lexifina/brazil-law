@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por Disbar Distribuidora de Bebidas de Arapiraca Ltda., com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl.479):
+Tributário e Processual Civil. IPI. Distribuidora de bebidas. Legitimidade ativa. Lei 7.798/89. Decreto. 4.544/02.
+Regime de valor fixo. Pauta fiscal. Não caracterização.
+Legalidade. Precedentes. Apelo improvido.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 491/494.
+A parte recorrente aponta violação ao art. 47, II, a, do CTN. Sustenta, em resumo, que "não pode a autoridade fiscal invocar como lastro normativo idôneo a Lei Ordinária nº 7.798/89 para aplicar o regime de apuração por quantia fixa em reais multiplicada pela quantidade de produto sem nisso encontrar insanável antinomia em face do CTN, o qual determina que, insiste-se, a base de cálculo do IPI deve ser o valor da operação" (fl. 507), sendo certo, ainda, que "A utilização do sistema da ensaiada pauta fiscal de valores em referência, ao imputar valor único do imposto, independente do real valor da operação decorrente da saída mercadoria contraria os princípios constitucionais tributários" (fl. 510). Pugna, ao final, seja concedido o direito ao aproveitamento dos créditos, devidamente atualizados pelos índices legais, acrescidos de juros compensatórios e moratórios, por meio de compensação, além da possibilidade de transferência a terceiros dos que remanescerem.
+Contrarrazões às fls. 560/566.
+Remetidos os autos ao Órgão Fracionário para os fins do art. 543-C do CPC/73, manteve-se o decisum anterior, nos termos da seguinte ementa (fl. 598):
+TRIBUTÁRIO E PROCESSUAL CIVIL. PROCESSO QUE RETORNOU DA VICE- PRESIDÊNCIA ( ART. 543-C DO CPC) . REPRESENTATIVO DE CONTROVÉRSIA O RESP 1.149.424/BA. ACÓRDÃO APONTADO COMO PARADIGMA DIVERGENTE DA REALIDADE FÁTICA DOS AUTOS. NO RESP 1.149.424/BA DEBATE-SE A POSSIBILIDADE OU NÃO DE EXCLUSÃO DOS DESCONTOS INCONDICIONAIS DA BASE DE CÁLCULO DO IPI. JÁ O MANDADO DE SEGURANÇA IMPETRADO DISCUTE A LEGALIDADE DA POLÍTICA DE PREÇO FIXO UTILIZADO NA TRIBUTAÇÃO DO IPI INCIDENTE SOBRE A BEBIDA INDUSTRIALIZADA. APELAÇÃO IMPROVIDA.
+1 - O autos retornaram da Vice-Presidência para uma possível adequação do acórdão ( fls. 451/457) ao Representativo de Controvérsia, o REsp 1.149.424/BA.
+2 - A empresa impetrante sustenta a ilegalidade da cobrança do IPI através de valores fixos em reais por quantidade de produto. Afirma em sua petição inicial que há uma contrariedade entre o sobredito regime de apuração do IPI e a base de cálculo determinada pelo art. 47, II , "A" do CTN.
+3 - No entanto, no Representativo de Controvérsia, o REsp 1.149.424/BA, a discussão refere-se à possibilidade de exclusão, da base de cálculo do IPI dos descontos incondicionais concedidos pela fabricante de bebidas às empresas distribuidoras.
+4 - Impossibilidade de adequação do julgado.
+5 - Acórdão que se mantém em todos os seus termos com a devolução do feito à Vice-Presidência, a quem compete examinar a admissibilidade do recurso especial, nos termos do RITRF-5ª Região.
+Decisão da Vice-Presidência do Tribunal Regional Federal da 5ª Região, determinando o sobrestamento do Recurso Extraordinário da ora recorrente para fins de juízo de conformação com o que vier a ser assentado pelo STF no RE 567.935/RG - Tema 84 (fls. 576/577).
+Parecer do Ministério Público Federal pelo não conhecimento do recurso (fls. 611/615).
+Proferi decisão às fls. 617/619, determinando a devolução dos autos ao Tribunal de origem, para que lá fosse feito o juízo de adequação ao Tema 84/STF.
+Foi então que a Vice Presidência admitiu o recurso extraordinário e devolveu os autos ao STJ para julgamento do apelo raro (fl. 625).
+Vieram os autos conclusos.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+No caso, a discussão sobre a validade da Lei 7.798/89 frente ao art. 47, II, a, do CTN configura apreciação de conflito entre lei ordinária e lei complementar, o que evidencia o caráter constitucional da demanda, cujo tema envolve a análise do art. 146, III, da Constituição Federal, o que é incabível em sede de recurso especial.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS LEGAIS. IPTU. LEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. QUESTÃO DIRIMIDA NA ORIGEM COM ENFOQUE CONSTITUCIONAL. OFENSA ART. 34 DO CTN. SÚMULA Nº 284 DO STF. CONFLITO ENTRE LEI ORDINÁRIA E LEI COMPLEMENTAR. COMPETÊNCIA DO STF.
+1. Os arts. 1.359, 1360 do CC/2002, 117, II, e 123 do CTN, tidos por violados na petição do recurso especial, não foram objeto de análise na origem, o que impossibilita o conhecimento do recurso em relação a eles em razão da ausência de prequestionamento a atrair o óbice da Súmula nº 282 do STF.
+2. O acórdão recorrido decidiu a lide ao fundamento de que o credor fiduciário (instituição financeira), possuidor do domínio resolúvel do bem, não pode ser considerado como proprietário do imóvel para fins de sujeição passiva ao IPTU, sobretudo porque o § 8º do art. 27 da Lei nº 9.514/1997 expressamente imputa ao devedor fiduciante a responsabilidade pelo pagamento de tributos que recaiam sobre o imóvel.
+3. A alegação de ofensa ao art. 34 do CTN, por si só, não possui o condão normativo para a acolhida da pretensão do recorrente, o que atrai a incidência da Súmula nº 284 do STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia), sobretudo porque, nos termos da Súmula nº 399 do STJ, cabe à legislação municipal estabelecer o sujeito passivo do IPTU.
+4. A análise de eventual conflito entre lei ordinária (§ 8º do art. 27 da Lei nº 9.517/1997) e o CTN, recepcionado pela Constituição Federal de 1988 como Lei Complementar, é matéria que cabe ao Supremo Tribunal Federal, nos termos do art. 102, III, "d", da Constituição Federal, no âmbito do recurso extraordinário. Precedente.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.995.706/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/3/2022.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. IPTU. LEGITIMIDADE DO DEVEDOR FIDUCIANTE. CONFLITO ENTRE LEI ORDINÁRIA E LEI COMPLEMENTAR. MATÉRIA CONSTITUCIONAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. A matéria pertinente ao art. 34 do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+Precedentes.
+2. A discussão no sentido da validade da Lei 9.514/1997 para criar uma exceção à regra do CTN caracteriza exame de conflito entre lei ordinária e lei complementar, além de expor o caráter constitucional da demanda, cujo tema envolve a análise do art. 146, III, da Constituição Federal. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.960.633/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/11/2021.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535, II, DO CPC/1973. VIOLAÇÃO. INEXISTÊNCIA. CONFLITO ENTRE LEI ORDINÁRIA E LEI COMPLEMENTAR. MATÉRIA DE ÍNDOLE CONSTITUCIONAL. PRECEDENTES. INOVAÇÃO RECURSAL. DESCABIMENTO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2).
+2. Inexiste violação do art. 535, II, do CPC/1973 quando o Tribunal de origem aprecia fundamentadamente a controvérsia, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como constatado na hipótese.
+3. Considerando-se os fundamentos do acórdão e os argumentos da parte recorrente - no sentido de que o art. 29 da Lei n. 9.532/1997 teria desvirtuado o conceito de renda estabelecido no art. 43 do CTN -, a matéria deduzida apresenta-se de índole constitucional, porquanto envolve conflito entre lei ordinária e lei complementar, além de princípios albergados pela Lei Maior, de modo que se apresenta inviável seu exame, em recurso especial, à luz do art. 105, III, da Constituição Federal.
+4. A inclusão de novo fundamento para a reforma do acórdão em sede de agravo interno configura inovação recursal, incabível em razão da preclusão consumativa.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp n. 1.337.343/PE, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 14/8/2020.)
+Por fim, em recurso especial não cabe invocar violação a norma constitucional, razão pela qual o presente apelo não pode ser conhecido relativamente à apontada ofensa aos princípios constitucionais tributários (cf fl. 510).
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
