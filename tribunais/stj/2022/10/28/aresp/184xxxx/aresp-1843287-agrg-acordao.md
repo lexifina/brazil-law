@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer parcialmente do agravo regimental e, nessa extensão, negar-lhe provimento.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.MATÉRIA ARGUIDA JÁ SOLVIDA NOS AUTOS DO RHC N. 119.414/SP. PREJUDICIALIDADE. NÃO CONHECIMENTO PARCIAL DO RECURSO. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA -STJ. NULIDADE. INVERSÃO DA ORDEM DE VOTAÇÃO. INOCORRÊNCIA. AUSÊNCIA DE PREJUÍZO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1.O agravante nada disse a respeito da prejudicialidade do recurso no que tange à violação ao art. 427 do Código Penal Militar -CPM, pois, consoante se ressaltou, o pedido já foi analisado nos autos do RHC n. 119.414/SP, caso em que o recurso não merece ser conhecido quanto ao ponto por incidência da Súmula n. 182/STJ.
+2.No que se refere ao art. 435 do Código de Processo Penal Militar -CPPM, nos termos do aresto estadual, não houve inversão na ordem de votação e também inexistiu prejuízo ao recorrente. Assim, para se concluir de forma diversa do TJSP seria necessário o revolvimento fático-probatório, providência vedada conforme Súmula n. 7 do STJ.
+3.Agravo regimental parcialmente conhecido e desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto em desfavor de decisão desta relatoria que negou provimento ao recurso especial do ora agravante.
+A parte agravante repisa as razões recursais no sentido de que negativa de vigência aos artigos 427 e 435 do CPM e pede o afastamento do óbice sumular n. 7 do STJ.
+Requer a reconsideração do decisum ou seja o feito submetido a julgamento pela Turma para que se dê provimento ao recurso especial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.MATÉRIA ARGUIDA JÁ SOLVIDA NOS AUTOS DO RHC N. 119.414/SP. PREJUDICIALIDADE. NÃO CONHECIMENTO PARCIAL DO RECURSO. SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA -STJ. NULIDADE. INVERSÃO DA ORDEM DE VOTAÇÃO. INOCORRÊNCIA. AUSÊNCIA DE PREJUÍZO. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E DESPROVIDO.
+1.O agravante nada disse a respeito da prejudicialidade do recurso no que tange à violação ao art. 427 do Código Penal Militar -CPM, pois, consoante se ressaltou, o pedido já foi analisado nos autos do RHC n. 119.414/SP, caso em que o recurso não merece ser conhecido quanto ao ponto por incidência da Súmula n. 182/STJ.
+2.No que se refere ao art. 435 do Código de Processo Penal Militar -CPPM, nos termos do aresto estadual, não houve inversão na ordem de votação e também inexistiu prejuízo ao recorrente. Assim, para se concluir de forma diversa do TJSP seria necessário o revolvimento fático-probatório, providência vedada conforme Súmula n. 7 do STJ.
+3.Agravo regimental parcialmente conhecido e desprovido.
+VOTO
+O recurso não prospera.
+O agravante nada disse a respeito da prejudicialidade do recurso no que tange à violação ao art. 427 do CPM, pois, consoante se ressaltou,o pedido já foi analisado nos autos do RHC n. 119.414/SP, caso em que o recurso não merece ser conhecidoquanto ao ponto por incidência da Súmula n. 182/STJ. No sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. PROVAS DA AUTORIA. FUNDAMENTOS NÃO INFIRMADOS. SÚMULA N. 182 DO STJ. ACRÉSCIMO NA PENA-BASE. PROPORCIONALIDADE. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA PARTE, NÃO PROVIDO.
+1. É inviável o agravo regimental cujas razões não infirmam os fundamentos da decisão atacada, a teor da Súmula n. 182 do STJ.
+2. É proporcional a exasperação da pena-base em 6 meses de reclusão com fundamento na valoração negativa de uma vetorial, haja vista o largo intervalo previsto para as penas mínima e máxima pela prática de furto qualificado.
+3. Agravo regimental parcialmente conhecido e, nessa parte, não provido.
+(AgRg no AREsp n. 2.091.654/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma,DJe de 21/9/2022).
+No que se refere ao art. 435 do CPPM, o Tribunal de origem decidiu:
+"Quanto ao pleito de nulidade pela inversão da ordem de votação, é possível verificar na mídia à fl. 1249 que não houve a alegada inversão, tendo o Juiz de Direito proferido seu voto e, na sequência, os Juízes Militares em ordem inversa de hierarquia, razão pela qual a aventada nulidade não restou caracterizada.
+A Ten Cel PM Cada Danielle Basson foi a última a se manifestar, quanto à matéria preliminar, bem como em relação ao mérito, não tendo influenciado na convicção dos demais julgadores militares, tampouco foi constatado qualquer prejuízo ao apelante." (fl. 1.551)
+Nos termos do aresto estadual, quanto à suscitada nulidade,não houve inversão na ordem de votaçãoe tambéminexistiu prejuízo ao recorrente. Assim, para se concluir de forma diversa do TJSP seria necessário o revolvimento fático-probatório, providência vedada conforme Súmula n. 7 do STJ.
+No mesmo sentido:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PROCESSUAL PENAL. INQUIRIÇÃO DE TESTEMUNHAS. INVERSÃO DA ORDEM. NULIDADE RELATIVA. PREJUÍZO. REEXAME DE MATÉRIA FÁTICA. INVIABILIDADE. TRÁFICO ILÍCITO DE ENTORPECENTES. DOSIMETRIA. NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ART. 42 DA LEI N. 11.343/2006. CIRCUNSTÂNCIA PREPONDERANTE. NECESSIDADE DE INCIDÊNCIA NA PRIMEIRA FASE DA DOSIMETRIA. UTILIZAÇÃO PARA AFASTAMENTO DO TRÁFICO PRIVILEGIADO (§ 4º DO ART. 33 DA LEI N. 11.343/2006). PRESENÇA DE OUTROS ELEMENTOS EVIDENCIADORES DA DEDICAÇÃO A ATIVIDADE CRIMININOSA OU DE PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. POSSIBILIDADE. REGIME INICIAL MAIS GRAVOSO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. PENA RESTRITIVA DE DIREITOS. REQUISITO OBJETIVO NÃO PREENCHIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Eventual inversão de ato processual ou adoção de procedimento ordinário em detrimento de rito especial só podem conduzir à nulidade de processo se houver prejuízo para as partes, em consonância com o princípio pas de nullité sans grief.
+2. A revisão das conclusões do tribunal de origem para reconhecer que a inversão na ordem de inquirição de testemunhas causou prejuízo à defesa demanda o reexame do conjunto fático-probatório dos autos, procedimento inviável no âmbito de recurso especial, ante o óbice da Súmula n. 7 do STJ.
+3. A dosimetria da reprimenda penal, atividade jurisdicional caracterizada pelo exercício de discricionariedade vinculada, realiza-se dentro das balizas fixadas pelo legislador.
+4. O tratamento legal conferido ao crime de tráfico de drogas traz peculiaridades a serem observadas nas condenações respectivas; a natureza desse crime de perigo abstrato, que tutela o bem jurídico saúde pública, fez com que o legislador elegesse dois elementos específicos  necessariamente presentes no quadro jurídico-probatório que cerca aquela prática delituosa, a saber, a natureza e a quantidade das drogas  para utilização obrigatória na primeira fase da dosimetria.
+5. O tráfico privilegiado é instituto criado para beneficiar aquele que ainda não se encontra mergulhado nessa atividade ilícita, independentemente do tipo ou do volume de drogas apreendidas, para implementação de política criminal que favoreça o traficante eventual.
+6. No julgamento do RE n. 666.334/AM, submetido ao regime de repercussão geral (Tese n. 712), o STF fixou o entendimento de que a natureza e a quantidade de entorpecentes não podem ser utilizadas em duas fases da dosimetria da pena.
+7. A Terceira Seção do STJ, no julgamento do REsp n. n. 1.887.511/SP (DJe de 1º/7/2021), partindo da premissa fixada na Tese n. 712 do STF, uniformizou o entendimento de que a natureza e a quantidade de entorpecentes devem ser necessariamente valoradas na primeira etapa da dosimetria, para modulação da pena-base.
+8. Não há margem, na redação do art. 42 da Lei n. 11.343/2006, para utilização de suposta discricionariedade judicial que redunde na transferência da análise dos vetores "natureza e quantidade de drogas apreendidas" para etapas posteriores, já que erigidos ao status de circunstâncias judiciais preponderantes, sem natureza residual.
+9. A natureza e a quantidade das drogas apreendidas podem ser utilizadas, supletivamente, na terceira fase da dosimetria da pena, para afastamento da diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2016, apenas quando esse vetor for conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou a integração a organização criminosa.
+10. O juiz pode fixar regime inicial mais gravoso do que aquele relacionado unicamente com o quantum da pena ao considerar a natureza ou a quantidade da droga ou outros elementos que evidenciem a maior gravidade da prática delitiva, desde que fundamente sua decisão.
+11. Agravo regimental desprovido.
+(AgRg no REsp n. 1.865.646/SP, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 14/2/2022).
+Ante o exposto, voto no sentido de conhecer em parte do agravo regimental e negar-lhe provimento.
