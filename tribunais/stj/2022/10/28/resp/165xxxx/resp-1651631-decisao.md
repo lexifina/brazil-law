@@ -1,0 +1,25 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE VALORES PAGOS A EMPREGADO A TÍTULO DE DÉCIMO TERCEIRO SALÁRIO PROPORCIONAL REFERENTE AO AVISO PRÉVIO INDENIZADO. (I)LEGALIDADE. MATÉRIA AFETADA À SISTEMÁTICA DOS RECURSOS REPETITIVOS: RESPS 2.000.020/MG, 2.003.967/AP, 2.006.644/MG E 1.974.197/AM(TEMA 1.170/STJ). RETORNO DOS AUTOS DO PROCESSO, SOBRESTANDO-O NO TRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.040 E 1.041 DO CPC/2015.
+1. Trata-se de recurso especial interposto pela FAZENDA NACIONAL, interposto contra acórdão do Tribunal Regional Federal da 4ªRegião, assim ementado:
+MANDADO DE SEGURANÇA COLETIVO. SINDICATO. LEGITIMIDADE. EXTENSÃO. CONTRIBUIÇÃO PREVIDENCIÁRIA. AVISO-PRÉVIO INDENIZADO E DÉCIMO-TERCEIRO SALÁRIO CORRESPONDENTE.
+1. A coisa julgada não se limita aos filiados ao sindicato até a data da impetração do mandado de segurança, abrangendo toda a categoria.
+2. A extensão do mandamus deve se limitar às empresas localizadas no âmbito das atribuições da autoridade impetrada.
+3. Não incide contribuição previdenciária sobre o aviso-prévio indenizado e décimo-terceiro salário correspondente (fl. 232).
+2. Os embargos de declaração opostosforam desprovidos(fls. 263/269).
+3. Nas razões recursais, o ente fazendário discorre, em preliminar, sobre aviolação doart. 1.022, II,do CPC/2015, visto que, não obstante a oposição de aclaratórios, a Corte regional não se manifestou sobre questões essenciais ao deslinde da controvérsia.
+4. Segue defendendo a ilegitimidade ativa da impetrante, asseverando que, ao decidir que a coisa julgada não se limita aos filiados ao sindicato até a propositura da ação, abrangendo toda a categoria, o acórdão de origem infringiu o disposto no art. 2º-A da Lei 9.494/1997.
+5. Assevera, ainda, que houve violaçãodos arts.28, § 7º,da Lei 8.212/1991 e 1º, § 3º,da Lei 4.090/1962, sob o argumento de queo 13º proporcional ao aviso prévio indenizado compõe a base de cálculo das contribuições sociais incidentes sobre o total de rendimentos pagos aos empregados.
+6. Intimado, o sindicato recorridoapresentou contrarrazões (fls. 304/315).
+7. O Ministério Público Federal, em parecer da lavra da Subprocuradora-Geral da República DARCY SANTANA VITOBELLO, opina peloconhecimento parcial do recurso, e, nesta extensão, pelo seu provimento parcial (fls. 354/362).
+8.  Por  decisão  de  fls.  411/413,  o  então  relator,  Ministro  Napoleão  Nunes  Maia  Filho,  tornou  sem  efeitos  a  decisão  de  fls.  364/367 e determinou  o  sobrestamento  do  feito  e  o  retorno  dos  autos  ao  Tribunal  de  origem  até  o  julgamento  do  Recurso  Extraordinário  1.101.937- Tema 1.075/TRF.
+9.  O  Supremo  Tribunal  Federal  apreciou  o  recurso  qualificado,  firmando  as seguintes teses:
+I - É inconstitucional o art. 16 da Lei 7.347/1985, alterada pela Lei9.494/1997.
+II - Em se tratando de ação civil pública de efeitos nacionais ou regionais, a competência deve observar o art. 93, II, da Lei 8.078/1990.
+III - Ajuizadas múltiplas ações civis públicas de âmbito nacional ou regional, firma-se a prevenção do juízo que primeiro conheceu de uma delas, para o julgamento de todas as demandas conexas.
+10.  Após,  o Tribunal de origem entendeu que, nos presentes autos, não há discussão específica a respeito das matérias tratadas no referido Tema 1.075/STF, e  determinou  o  envio  dos  autos  a  esta  Corte  Superior  para  julgamento  do recurso especial  (fls.  491/492).
+11.  É  o  relatório.
+12. Nos termos do que foi decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+13. A questão debatida nos autos, qual seja, "definir se é cabível a incidência de contribuição previdenciária sobre os valores pagos a empregado a título de décimo terceiro salário proporcional referente ao aviso prévio indenizado", encontra-se afetada à Primeira Seção desta Corte Superior aguardando o julgamento dos REsps 2.000.020/MG, 2.003.967/AP, 2.006.644/MG e 1.974.197/AM, de relatoria do Ministro MANOEL ERHARDT, sob o rito dos recursos repetitivos (Tema 1.170 /STJ).
+14. A admissão de recurso especial como representativo da controvérsia impõe o sobrestamento dos processos em que foram interpostos recursos na origem cuja matéria se identifique com o tema afetado, para que, concluído o julgamento no Superior Tribunal de Justiça, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+15. Pelo exposto, determino o retorno dos autos, com a devida baixa nesta Corte Superior, a fim de que, em observância aos arts. 1.039 a 1.041 do CPC/2015, após a publicação do acórdão dos citados recursos excepcionais representativos da controvérsia, o Tribunal de origem proceda nos termos do art. 1.040 e seguinte do CPC/2015.
+16. Publique-se. Intimações necessárias.
