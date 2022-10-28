@@ -1,0 +1,26 @@
+DECISÃO
+Vistos etc.
+Trata-se de conflito de competência suscitado pelo JUÍZO DE DIREITO DA 16A VARA CÍVEL DE BRASÍLIA - DF em face do JUÍZO DE DIREITO DA 7A VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO - S, nos autos da ação revisional de cláusulas contratuais ajuizada por RAIMUNDA FERREIRA ARAUJO em face deBANCO DO BRASIL S/A.
+Ajuizada a ação inicialmente perante o Juízo de Direito da 7ª Vara Cível do Foro Central de São Paulo - SP(processo nº1013270-02.2022.8.26.0100), esse Juízo, de ofício, determinou a redistribuição do feito para o Juízo de Direito de Brasília - DF, ao argumento de que a ação tinha sido distribuída em São Paulo - SP"(..)sem qualquer fundamento fático ou legal que fixe a competência neste foro e juízo"(e-STJ, fl. 79), pois a autora é domiciliada no Maranhão, o contrato foi celebrado na cidade de domicílio da requerente, a obrigação deve ser cumprida na mesma localidade e o réu tem sede em Brasília - DF (e-STJ, fls. 79/80).
+Recebidos os autos, oJuízo de Direito da 16ª Vara Cível de Brasília - DF (processo nº 0725596-04.2022.8.07.0001), suscitou o conflitoao fundamento de que "(..)apesar de se tratar de relação de consumo, a opção do autor em ajuizar a ação onde localizada a sucursal do requerido e não no domicílio da sede, refere-se à competência relativa, e não pode ser declinada de oficio" (e-STJ, fls. 84/85).
+O Juízo suscitado prestou informações às fls. 102/105 (e-STJ) e o Ministério Público Federal apresentou parecer às fls. 106/111 (e-STJ).
+É o relatório. Decido.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático do presente conflito, tendo em vista a existência de precedentes acerca da questão ora discutida e a necessidade de desbastarem-se as pautas já bastantes numerosas da Colenda 2ª Seção.
+O STJ passou a reconhecer natureza absoluta à competência territorial quando o consumido figure no polo passivo da demanda, permitindo a declinação de ofício da competência para o processo e julgamento da causa ajuizada em local diverso do seu domicílio, sem que se viole o enunciado 33/STJ.
+No caso dos autos, o consumidor ocupa o polo ativo e indicou como domicílio, como reconhecem os juízos em conflito, a cidade de Igarapé Grande/MA, tendo, contudo, ajuizado a ação no Foro de São Paulo/SP.
+O Juízo de Direito de São Paulo - SP declinou inicialmente da competência para o Juízo de Direito de Brasília - DFrelevando, no entanto, o fato de o consumidor figurar como autor e ter ajuizado a demanda em local como sendo o domicílio do réu, que, na espécie, pode coincidir com o local de filial da empresa ré, instituição bancária.
+Assim, o Juízo Paulistanodestooudo entendimento firmado pela e. Segunda Seção desta Corte Superior. A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. CONTRATO BANCÁRIO. FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL PROPOSTA PELO CONSUMIDOR NO FORO ONDE O RÉU POSSUI FILIAL. POSSIBILIDADE. PRINCÍPIO DO JUIZ NATURAL. OMISSÃO. INEXISTÊNCIA.
+1. Consoante esclarecido na decisão embargada, a jurisprudência recente desta egrégia Corte está alinhada no sentido de que, "nos casos em que o consumidor, autor da ação, elege, dentro daslimitações impostas pela lei, a comarca que melhor atende seus interesses, a competência é relativa, somente podendo ser alterada caso o réu apresente exceção de incompetência (CPC, art. 112), não sendo possível sua declinação de ofício nos moldes da Súmula 33/STJ".
+2. Aos litigantes em geral é dado escolher, dentro das limitações legais, o foro onde pretendem contender, cumprindo ao réu apresentar exceção de incompetência, sob pena de vê-la prorrogada, não havendo razão para negar essa possibilidade justamente ao consumidor.
+3. Embargos de declaração rejeitados.(EDcl no AgRg no CC 125.259/DF, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, DJe 27/08/2013)
+CONFLITO DE COMPETÊNCIA. AÇÃO DE REPARAÇÃO DE DANOS MORAIS E MATERIAIS. INCOMPETÊNCIA RELATIVA. DECLARAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33/STJ.
+1. Relativa a competência territorial, a declaração de incompetência não pode ser de ofício, incidindo o enunciado 33 da súmula deste Tribunal. Precedentes.
+2. Conflito conhecido, para declarar a competência do Juízo de Direito da 25ª Vara Cível de São Paulo/SP, o suscitado. (CC 46.558/PR, 2ª Seção, Min. Fernando Gonçalves, DJ de 18/04/2005)
+Confira-se, ainda, o CC 167.960/DF, Rel. Min. LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe de 03/09/2019, que apreciou causa semelhante a destes autos.
+Assim, da análise do caso em tela, depreende-se que o declínio de competência, de ofício, violara o enunciado 33/STJ.
+Ante o exposto, conheço do presente conflito para declarar competente o JUÍZO DE DIREITO DA 7A VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO - SP.
+Comuniquem-se aos juízos envolvidos no conflito.
+Intimem-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. CONTRATO BANCÁRIO. REVISIONAL. DEMANDA AJUIZADA PELO CONSUMIDOR. COMPETÊNCIA RELATIVA. DECLARAÇÃO DE OFÍCIO. IMPOSSIBILIDADE. SÚMULA 33/STJ. AÇÃO PROPOSTA PELO CONSUMIDOR EM COMARCA ONDE A DEMANDADA, INSTITUIÇÃO BANCÁRIA, POSSUI FILIAL. PRECEDENTES. CONFLITO CONHECIDO PARA DECLARAR A COMPETÊNCIA DO JUÍZO DE DIREITO DA 7A VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO - SP.
