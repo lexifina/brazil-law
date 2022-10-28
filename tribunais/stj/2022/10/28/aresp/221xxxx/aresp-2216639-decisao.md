@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por J C D C e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE RETIFICAÇÃO DE REGISTRO DE IMÓVEL. SENTENÇA DE PROCEDÊNCIA. RECLUSO DA PARTE AUTORA. 1. PEDIDO DE REVOGAÇÃO DA JUSTIÇA GRATUITA CONCEDIDO À RÉ. NÃO ACOLHIMENTO. SITUAÇÃO DE HIPOSSUFICIÊNCIA NÃO DESCONSTITUÍDA. MANUTENÇÃO DO BENEFÍCIO. 2. PEDIDO DE CONDENAÇÃO DA PARTE RÉ AO PAGAMENTO DAS DESPESAS PROCESSUAIS E DOS HONORÁRIOS ADVOCATÍCIOS. IMPOSSIBILIDADE. RECONHECIMENTO JURÍDICO DO PEDIDO. AUSÊNCIA DE PRETENSÃO RESISTIDA. INAPLICABILIDADE DO ART. 90 DO CPC. RÉUS QUE NÃO DERAM CAUSA À PROPOSITURA DA DEMANDA. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO.
+Quanto à controvérsia recursal, alega violação do art. 90, caput e § 4º, do CPC, no que concerne à necessária condenação dos Recorridos ao pagamento das despesas processuais, eis que a ausência de contestação não conduz à conclusão de que não deram causa à propositura da demanda, trazendo o(s) seguinte(s) argumento(s):
+A questão posta em mesa retrata o erro do Serviço de Registro de Imóveis em registrar de forma adequada um imóvel em nome dos Recorrentes, tendo sido efetuado somente em nome da Recorrida J..
+Então, como nenhum dos Recorridos contestaram, o Tribunal entendeu que eles não deram causa à propositura da demanda, vez que não houve litigiosidade em Juízo e porque não opuseram resistência à pretensão inicial.
+Cita ainda a decisão que o parecer da Procuradoria Geral de Justiça afirma que as partes não concorreram para que os Recorrentes não tivessem a retificação do registro de imóvel objeto da lide.
+Pois bem.
+Então, pelo fato dos Recorrentes se valerem do que A LEI PERMITE, devem eles arcarem com as custas processuais e os Recorridos a não pagarem honorários advocatícios.
+O Tribunal de Justiça do Paraná, portanto, exige da parte um exercício de futurologia de que as partes não irão se opor ao pedido inicial.
+O ápice da teratologia (se é que é possível tal condição) é quando a PGJ afirma que, como os Recorridos não contestaram, o procedimento se tornou demanda de "jurisdição voluntária". Com a devida vênia, este procurador, em quase 20 (vinte) anos de atuação profissional, nunca viu isso.
+ ..
+Por interpretação elementar, digna do ensino fundamental, tanto deram causa à propositura que CONTRA ELA NÃO SE OPUSERAM.
+Mantendo a mesma linha interpretativa elementar, o art. 90 do CPC é claro ao dispor que, se há reconhecimento do pedido, há condenação em honorários e despesas processuais. Ainda, se estivessem de boa-fé os Requeridos, teriam já adequado o registro, atraindo assim a incidência do § 4º do mesmo artigo. Mas nem isso fizeram. Textualmente:
+ ..
+Com todas as vênias, os Recorrentes atuaram de acordo com o que permite a legislação, os Recorridos reconhecem a procedência do pedido e o Tribunal de Justiça afirma que, como eles não deram causa à propositura da demanda, devem ser isentos do pagamento de despesas  (fls. 253/254).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Desse modo, considerando que os autores não tentaram corrigir o registro do imóvel na esfera administrativa, evidencia-se a inaplicabilidade do supramencionado dispositivo, sobretudo porque os réus não exigiram a propositura da presente demanda para, em seguida, reconhecerem o pedido inicial (fls. 239/240).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
