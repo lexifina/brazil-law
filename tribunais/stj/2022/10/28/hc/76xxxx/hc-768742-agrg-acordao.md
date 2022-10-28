@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI DE DROGAS. INADMISSÍVELA VIA ELEITA. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AUSÊNCIA DE COMPETÊNCIA DO STJ. DE QUALQUER SORTE, PLEITO DEFENSIVO NÃO ANALISADO PELA CORTE ORIGINÁRIA. IMPOSSIBILIDADE DE CONHECIMENTO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do STJ prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados. Precedentes do STJ e do STF.
+III - De qualquer sorte, observa-se que a tese relativa à aplicação do tráfico privilegiado não foi enfrentada pela eg. Corte de origem. De fato, ao analisar o ato coator, observa-se que este só se pronunciou sobre a condenação da paciente, sem emitir nenhum juízo de valor sobre a incidência do § 4º do art. 33 da Lei de Drogas.
+IV - Saliente-se que, para se considerar o tema tratado pela instância a quo, faz-se necessária a efetiva manifestação cognitiva sobre a temática suscitada, de modo a cotejar a realidade dos autos com o entendimento jurídico indicado. Nesse compasso, considerando que a Corte de origem não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Precedentes.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por LUIZA BOSCO KAUFFMAN contra a decisão de fls. 69-71 - da lavra do Excelentíssimo Senhor Ministro João Otávio de Noronha -, que não conheceu do habeas corpus.
+Nas razões do presente inconformismo (fls. 74-102), a parte agravante alega que "o Habeas Corpus pode ser acionado sempre que alguém sofrer ou se sentir ameaçado de sofrer violência, ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder. É o que diz o inciso LXVIII do artigo 5º da Constituição. Em outras palavras, o habeas corpus é uma forma de prevenir ou anular a prisão arbitrária, feita por motivos outros que não o estrito cumprimento da lei" (fl. 80).
+Defende que a ora agravante reúne todos os requisitos para a obtenção do tráfico privilegiado.
+Sustenta que a quantidade de droga apreendia não é suficiente para afastar a benesse pleiteada.
+Requer a reconsideração do decisum agravado ou a submissão da irresignação ao Órgão Colegiado.
+Por manter a decisão agravada, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. PEDIDO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI DE DROGAS. INADMISSÍVELA VIA ELEITA. UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. AUSÊNCIA DE COMPETÊNCIA DO STJ. DE QUALQUER SORTE, PLEITO DEFENSIVO NÃO ANALISADO PELA CORTE ORIGINÁRIA. IMPOSSIBILIDADE DE CONHECIMENTO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do STJ prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados. Precedentes do STJ e do STF.
+III - De qualquer sorte, observa-se que a tese relativa à aplicação do tráfico privilegiado não foi enfrentada pela eg. Corte de origem. De fato, ao analisar o ato coator, observa-se que este só se pronunciou sobre a condenação da paciente, sem emitir nenhum juízo de valor sobre a incidência do § 4º do art. 33 da Lei de Drogas.
+IV - Saliente-se que, para se considerar o tema tratado pela instância a quo, faz-se necessária a efetiva manifestação cognitiva sobre a temática suscitada, de modo a cotejar a realidade dos autos com o entendimento jurídico indicado. Nesse compasso, considerando que a Corte de origem não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Precedentes.
+Agravo regimental desprovido.
+VOTO
+Inicialmente, consigna-se que se encontram presentes os pressupostos de admissibilidade, razão pela qual conheço do presente agravo regimental.
+A parte agravante não trouxe qualquer argumento novo capaz de ensejar a alteração do entendimento firmado por ocasião da decisão monocrática, assim proferida:
+"Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 656.521/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 26/4/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame da impetração.
+No caso, a condenação sofrida pela paciente é definitiva, pois, em consulta ao site do STJ, verifica-se que foi certificado o trânsito em julgado da sentença condenatória em 16/8/2022; o presente writ, porém, foi impetrado somente em 2/9/2022.
+Em consulta, verifica-se que não há, no STJ, julgamento de mérito passível de revisão criminal em relação a essa condenação, pois do AREsp 2.173.209 / MS não se conheceu.
+Assim, ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do STJ prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+A propósito, confiram-se os seguintes precedentes: HC n. 602.425/SC, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe de 6/4/2021; AgRg no HC n. 628.964/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/2/2021; AgRg no HC n. 521.849/SC, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 19/8/2020; e AgRg no HC n. 632.467/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/12/2020.
+No mesmo sentido, a orientação do STF: AgRg no HC n. 134.691/RJ, relator Ministro Alexandre de Moraes, Primeira Turma, DJe de 1º/8/2018; AgRg no HC n. 149.653/SP, relator Ministro Dias Toffoli, Segunda Turma, DJe de 6/2/2018; AgRg no HC n. 144.323/SP, relator Ministro Ricardo Lewandowski, Segunda Turma, DJe de 30/8/2017; e HC n. 199.284/SP, relator Ministro Marco Aurélio, Primeira Turma, DJe de 16/8/2021.
+Também não há flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ,não conheço do presentehabeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo."
+A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+De mais a mais, observa-se que a tese relativa à aplicação do tráfico privilegiado não foi enfrentada pela eg. Corte de origem.
+De fato, ao analisar o ato coator, observa-se que este só se pronunciou sobre a condenação da paciente, sem emitir nenhum juízo de valor sobre a incidência do § 4º do art. 33 da Lei de Drogas.
+Nesse compasso, considerando que a Corte de origem não se pronunciou sobre o referido tema exposto na presente impetração, este Tribunal Superior fica impedido de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância. Nesse sentido: HC n. 480.651/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 10/04/2019; e HC n. 339.352/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 28/08/2017.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
