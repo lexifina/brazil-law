@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos por KAPITAL FACTORING FOMENTO MERCANTIL LTDA. à decisão desta relatoria que conheceu do agravo para conhecer parcialmente dorecurso especial e negar-lhe provimento (fls. 873/876, e-STJ).
+Nas razões dos presentes aclaratórios, os embargantes sustentam que o julgado foi contraditório ao afastar a negativa de prestação jurisdicional e, simultaneamente, aplicar a Súmula nº 211/STJ.
+É o relatório.
+DECIDO.
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+Verifica-se desde logo que a decisão embargada não padece de nenhum dos vícios ensejadores dos embargos de declaração, enumerados no art. 1.022 do Código de Processo Civil de 2015: obscuridade, contradição, omissão ou erro material.
+A controvérsia foi devidamente solucionada com a utilização do direito cabível à hipótese, inexistindo contradição a ser sanada.
+No caso, foi afastada a alegada violação de prestação jurisdicional diante do julgamento adequado e motivado pelas instâncias ordinárias.
+Além disso, restou consignado que a matéria dosarts. 502, 507 e 508 do CPC/2015 não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração, incidindo o disposto na Súmula nº 211/STJ.
+De fato,cumpre atentar que não há incompatibilidade entre a inexistência de ofensa aos arts. 489 e1.022 do CPC/2015 e a ausência de prequestionamento quanto às teses invocadas pela parte recorrente, mas não debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado.
+A respeito, confira-se as seguintes ementas:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. QUEDA DE AVIÃO NA CIDADE CAUSANDO A MORTE DOS TRIPULANTES E PASSAGEIROS E DANOS NOS IMÓVEIS DA REGIÃO. CÓDIGO BRASILEIRO DA AERONÁUTICA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AUSÊNCIA DE VIOLAÇÃO DO ART. 489 DO CPC/2015. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O conhecimento do recurso especial exige que a tese recursal e o conteúdo normativo apontado como violado tenham sido objeto de efetivo pronunciamento por parte do Tribunal de origem, ainda que em embargos de declaração, o que não ocorreu no caso em tela (Súmula n. 211/STJ).
+1.1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Sua ocorrência se dá quando a causa tiver sido decidida à luz da legislação federal indicada, com emissão de juízo de valor acerca dos respectivos dispositivos legais, interpretando-se sua aplicação ou não ao caso concreto, situação não verificada na hipótese dos autos.
+1.2. Necessário salientar que, na linha da jurisprudência dominante desta Corte Superior, não configura contradição afirmar a falta de prequestionamento e afastar a alegação de violação do art. 1.022 do CPC/2015, uma vez que é perfeitamente possível ao julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos apontados pelas partes.
+2. Não ficou configurada a violação do art. 489 do CPC/2015, uma vez que o Tribunal de origem se manifestou, de forma fundamentada, sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+(..)
+4 . Agravo interno desprovido" (AgInt no AREsp n. 2.131.426/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. UTILIZAÇÃO DE RECURSOS DO FUNDEF/FUNDEB. NULIDADE DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS, CELEBRADO ENTRE SOCIEDADE DE ADVOGADOS E MUNICÍPIO, EM RAZÃO DE SUPOSTA INOBSERVÂNCIA DOS PROCEDIMENTOS LICITATÓRIOS. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. ART. 337, VI, §§ 1º, 2º E 3º, DO CPC/2015. SÚMULA 211/STJ. LEGITIMIDADE DA UNIÃO. FUNDAMENTO CONSTITUCIONAL. INVIABILIDADE DO RECURSO ESPECIAL.
+1. Não há ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tendo se manifestado expressamente quanto à ineficácia da cláusula contratual inserta no contrato de prestação de serviços advocatícios - firmado entre o Município e a sociedade de advogados - que autoriza o destaque de honorários em favor dos contratados sobre verbas do FUNDEF/FUNDEB.
+2. Não há como se conhecer do Recurso Especial quanto à aludida ofensa ao art. 337, VI, §§ 1º, 2º e 3º, do CPC/2015 em face da incidência da Súmula 211/STJ, porquanto a questão não foi examinada pela Corte de origem, a despeito da oposição de Embargos de Declaração. Assim, ausente o requisito do prequestionamento.
+3. Cumpre ressaltar que o STJ entende que não há contradição em afastar a alegada violação ao art. 1.022 do CPC/2015 e, ao mesmo tempo, não conhecer do recurso, por ausência de prequestionamento, porque é perfeitamente possível o julgado encontrar-se devidamente fundamentado, sem, no entanto, ter decidido a questão à luz dos preceitos jurídicos desejados pela parte.
+4. (..)
+5. Agravo Interno não provido" (AgInt no REsp n. 1.983.614/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/5/2022, DJe de 23/6/2022 - grifou-se).
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou sanar erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026 do Código de Processo Civil de 2015 será aplicada.
+Publique-se.
+Intimem-se.
