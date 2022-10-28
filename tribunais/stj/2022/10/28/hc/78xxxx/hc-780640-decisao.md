@@ -1,0 +1,26 @@
+DECISÃO
+A defesa postula, em liminar, a suspensão da decisão da execução da pena até o trânsito em julgado desta habeas corpus. Subsequentemente, requer seja fixado o regime semiaberto para início de cumprimento de pena.
+Afirma, em síntese,que o acórdão contrariou a Súmula n. 269 desta Corte.
+Sustenta que não houve "fundamentação concreta com relação à imposição do regime fechado" (fl. 13).
+Decido.
+O requerente foi condenado em primeiro grau à pena de 2 anos e 4 meses de reclusão, em regime inicialmente fechado, pela prática do crime previsto no art. 304 c/c o art. 297, ambos do Código Penal,in verbis(fls. 410-411, grifei):
+Em atenção ao disposto no art. 59 do CP, fixo a pena-base acima do piso, em 2 anos e 4 meses de reclusão e pagamento de 11 dias-multa, no valor unitário mínimo. Para tanto, considero o envolvimento do acusado em outro delito, com reprimenda definitiva (fls.35), configurando maus antecedentes. Na segunda fase incide a agravante da reincidência (fls. 35/36), contudo, fica compensada pela atenuante da confissão.  ..  Não havendo outras causas de aumento ou diminuição da pena, fica definitiva no patamar supra. Como ostenta outras condenações, sendo reincidente, deixo de substituir a pena privativa de liberdade por restritivas de direitos. O réu já foi condenado por falsificação de documento público e por diversos estelionatos, em continuidade delitiva. Pelo mesmo motivo fixo o regime inicialde cumprimento da pena no fechado. A reiteração criminosa demonstra a necessidade do regime mais gravoso. Ante o exposto e considerando o mais que dos autos consta, JULGO PROCEDENTE o pedido, o que faço para condenar o réu JOÃO JOSÉBATISTA como incurso no artigo 304, combinado com o artigo 297, ambos do Código Penal, às penas de 2 anos e 4 meses de reclusão, em regime inicial fechado, e pagamento de 11 dias-multa, no valor mínimo legal.
+O Tribunala quo negouprovimento ao recurso de apelação interposto pela defesa. Transcrevo (fl. 461, grifei):
+Os maus antecedentes vêm às fls. 35. A recalcitrância está às fls. 36. Esta circunstância agravante, no entanto, veio a ser compensada com a confissão, a despeito da interpretação ao art. 67 do Código Penal dada pelo Pretório Excelso. Daí porque se mantém o acréscimo de 1/6(um sexto) lançado na fase inicial da fixação da pena, à luz da circunstância judicial desfavorável dos desabonadores antecedentes. O inicial regime fechado é decorrente da conjugação de maus antecedentes e renitência, numa interpretação afinada com precedentes desta Corte, uma vez que o renitente, contumaz infrator, deve obrigatoriamente iniciar o cumprimento da expiação no regime mais drástico. Destarte, nada a ser redimensionado.
+No tocante à almejada modificação do regime inicial para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013;HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Na hipótese, o paciente, além de reincidente, possui maus antecedentes, motivo que ensejou a elevação da pena-base.
+Assim, a fixação do regime inicial fechado está em consonância com a jurisprudência desta Corte. Exemplificativamente:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. REGIME FECHADO. PENA MENORQUE 4 ANOS. REINCIDÊNCIA. MAUS ANTECEDENTES. IDONEIDADE.AGRAVO REGIMENTALNÃO PROVIDO.
+1. O agravante não apresentou novos argumentos em relação à adequação doregime inicial fechado para agente reincidente e com maus antecedentes, aquem foi imposta pena menor que 4 anos de reclusão.
+2. Ausentes fatos novos ou teses jurídicas diversas que permitam a análisedo caso sob outro enfoque, deve ser mantida a decisão agravada em taispontos.
+3. Agravo regimental não provido.
+(AgRg no RESP n. 2.021.572/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 21/10/2022)
+ ..
+V - In casu, o regime adequado à hipótese é o inicial fechado, uma vez quea valoração negativa das circunstâncias judiciais indicadas pelasinstâncias ordinárias, aliadas à reincidência, justifica a fixação doregime fechado para o início de cumprimento da sanção.Agravo regimental desprovido.
+(AgRg no HC n. 751.573/SP, relator Ministro Jesuíno Rissato (DesembargadorConvocado do TJDFT), 5ª T., DJe de 26/8/2022)
+ .. Embora a pena fixada não alcance 4 (quatro) anos, pela existência de circunstância judicial desfavorável ao Agravante que levou à fixação da pena-base acima do mínimo legal, além do reconhecimento da reincidência, está justificado o estabelecimento do regime prisional mais severo"
+(AgRg no HC n. 618.167/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 5/4/2021)
+À vista do exposto, inexiste ilegalidade a ser sanada.
+Diante do exposto, denego a ordem, in limine.
+Publique-se e intimem-se.
