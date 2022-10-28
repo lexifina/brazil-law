@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSÉ HUMBERTO PEREIRA, à decisão de fls. 1635/1636, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ora, o novo Código de Processo Civil dedicou um capítulo inicial para estabelecer normas fundamentais do processo civil que sinalizam como norte a primazia do julgamento do mérito, a aplicação do ordenamento jurídico com a observância da proporcionalidade, razoabilidade e eficiência, bem como o dever de cooperação entre todos os sujeitos do processo.
+ ..
+Especificamente em relação aos recursos, o parágrafo único do art. 932 determina, de forma cogente, que o relator dê oportunidade ao recorrente para sanar vício ou complementar a documentação exigível antes de considerar inadmissível o recurso.
+Trata-se de regra que concretiza, para o magistrado, o princípio da cooperação previsto no art.
+6º, impondo-lhe um dever de prevenção de nulidades que poderiam obstar o julgamento do mérito recursal.
+ ..
+Assim, tomando o conteúdo dos princípios fundamentais como premissa interpretativa e conjugando o § 6º do art. 1.003 com o parágrafo único do art. 932 e com o § 3º do art. 1.029, poderia te dado nova oportunidade para colacionar acerca da cadeia, razão pela qual se faz nesse momento (fls. 1639/1640).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes à subscritora do agravo e do recurso especial, Dra. Isabela Gomes Schmaltz.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo codex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que se quedou inerte quanto à representação processual dos recursos.
+Registre-se que nessas condições, de desídia da parte, não há como aplicar o princípio da primazia do mérito, conforme entendimento desta Corte Superior:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE DISSÍDIO ENTRE JULGADO QUE NÃO ULTRAPASSOU O MÉRITO E PARADIGMA CUJO CERNE DA CONTROVÉRSIA RESTOU SOLUCIONADO. NECESSIDADE DE CONFRONTO ENTRE ARESTOS COM O MESMO GRAU DE COGNIÇÃO. INCIDÊNCIA DA SÚMULA N.315/STJ, POR ANALOGIA. PRINCÍPIO DA PRIMAZIA DO JULGAMENTO DO MÉRITO. INAPLICABILIDADE NA ESPÉCIE, QUANDO NÃO OBSERVADOS PELO RECORRENTE OS REQUISITOS DE ADMISSIBILIDADE DO RECURSO UNIFORMIZADOR. AGRAVO IMPROVIDO.
+1.  ..
+3. Não se tem dúvida de que o princípio da primazia do julgamento do mérito, consagrado no novel Código de Processo Civil, deve ser prestigiado e almejado em todo processo ajuizado perante o Poder Judiciário.
+4. Contudo, não pode ser olvidado que cabe à parte, ao litigar, observar as regras instrumentais traçadas por esse mesmo diploma legal, que impõe responsabilidades a todos os envolvidos na resolução da controvérsia, não podendo ser utilizado o princípio da primazia do julgamento do mérito para se desestabilizar a relação processual em favor do ora recorrente que, ao interpor os embargos de divergência, não observou um dos requisitos de admissibilidade deste recurso de índole extremamente técnica. Precedente da Primeira Seção.
+5. Agravo interno improvido.
+(AgInt nos EAREsp 754.434/RS, relator Ministro Jorge Mussi, Corte Especial, DJe de 06/02/2018).
+Outrossim, não há ofensa ao princípio da cooperação, visto que já foi dada a oportunidade de regularização da representação processual.
+Ademais, veja-se que o processo deve ser uma sequência de atos ordenados, com o propósito de servir à prestação jurisdicional. Por outro lado, a prestação jurisdicional não pode durar para sempre. O processo nasce direcionado a um fim e ao seu próprio fim. Não pode ser um instrumento de perseguição infinita do direito material. Nesse sentido, a observância dos prazos constitui direito das partes, representa a garantia de segurança jurídica, bem como garante a característica temporal do processo.
+Nesse sentido, o prazo para a parte comprovar a regularidade da representação era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato, desaparece a possibilidade de praticá-lo. É o que se chama de preclusão.
+Dessa forma, para fins de regularização da representação dos recursos, objeto da intimação, os substabelecimentos trazidos aos autos somente agora, em sede destes aclaratórios, não podem ser conhecidos para os fins que se propõem, uma vez que preclusa a oportunidade. (AgInt no AREsp 1520555/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no REsp 1788526/TO, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; e AgInt no REsp 1830797/SE, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 18/3/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se,
