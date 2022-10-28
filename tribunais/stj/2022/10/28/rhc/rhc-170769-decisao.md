@@ -1,0 +1,33 @@
+DECISÃO
+JONAS MENDES DE OLIVEIRA JUNIOR alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, que denegou o HC n. 0804617-15.2022.8.22.0000.
+Sustenta a defesa que "É inadmissivel que um individuo que foi preso com menos de 20 gramas de entorpecentes, após uma invasão ilegal da policia, tenha que se manter preso por 10 meses ou mais, aguardando a prestação jurisdicional do estado" (fl. 159).
+Assevera ainda que, "na ação penal que originou o presente "mandamus", o paciente é o único réu nos autos em que se encontra preventivado, e mesmo assim, segue com prisão cautelar pelo fato de a policia encontra-lo com menos de 20 gramas de entorpecente, adesídia do estado é demonstrada, pois priva a liberdade do paciente com "mora" na prestação jurisdicional" (fls. 162-163).
+Requer, ao final, a revogação da prisão preventiva.
+O Ministério Público Federal opinou pelo provimento do recurso (fls. 204-207).
+Decido.
+Infere-se dos autos que o paciente foi preso em flagrante, em18/11/2021,pela suposta prática dodelitotipificadonoart. 33 da Lei n.11.343/2006.Na oportunidade, foramencontrados em poder do acusado 19,42 g de cocaína.
+A Corte local denegou a ordem nos seguintes termos (fls. 121-123):
+Somente após a notificação do réu e a apresentação da defesa prévia é que o magistrado decidirá acerca do recebimento da denúncia e, caso a receba, designará a audiência (artigo 56).
+Oferecida a denúncia, em 8/2/2022, o magistrado determinou a notificação do acusado em 10/2/2022 (ID. 68530710).
+Em 15/2/2022, a defesa do acusado se habilitou nos autos (ID.68656361).
+O mandado de notificação foi cumprido em 5/4/2022 (ID. 75399133).
+Em 19/4/2022, o causídico habilitado apresentou defesa prévia (ID.75834388).
+Em 30/5/2022, o magistrado recebeu a denúncia e designou a quo audiência de instrução e julgamento para o dia o dia 9 de junho de 2022, às 8h30.
+Destarte, não se verifica demora irrazoável, considerando a necessidade de observância do rito supracitado.
+Lado outro, no dia 9/6/2022, foram ouvidas as testemunhas PM Gildemar José Coutinho Fernandes, PM Leandro de Lima, Sub. Tte PM Eugênio, Alcimar da Silva Gonçalves e Alcineia da Silva Gonçalves. As partes desistiram da oitiva da testemunha Cb. PM Diemisson, o que foi homologado.
+A defesa insistiu na oitiva da testemunha Rhute Costa de Castro Silva, o que foi deferido, sendo a audiência redesignada para o dia 12/9/2022 (ID. 78055582), para a oitiva daquela.
+O prazo para a conclusão da instrução processual não é absoluto, fatal e improrrogável, e pode ser dilatado ante a peculiaridade do caso concreto, o que torna razoável e justificada a demora no encerramento da instrução criminal, de modo a afastar o alegado constrangimento ilegal.
+ .. .
+Destarte, entendo que não houve excesso de prazo para o recebimento da denúncia e a dilação da instrução processual ficou devidamente justificada, ante a ausência da testemunha de defesa, que não compareceu a primeira audiência designada.
+A segregação preventiva é compatível com a presunção de nãoculpabilidadedo acusado desde que não assuma natureza de antecipação da pena e nãodecorra, automaticamente, do caráter abstrato do crime ou do atoprocessual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicialdeve apoiar-se em motivos e fundamentos concretos, relativos a fatos novosou contemporâneos, dos quais se possa extrair o perigo que a liberdadeplena do investigado ou réu representa para os meios ou os fins doprocesso penal (arts. 312 e 315 do CPP).
+Deve, ainda, ficar concretamente evidenciado, na forma do art. 282, § 6º,
+do CPP, que, presentes os motivos que autorizam a constrição provisória,não é satisfatória e adequada a sua substituição por outra(s) medida(s)cautelar(es) menos invasivas à liberdade.
+Na hipótese, não obstante a imperiosa precaução da ordem pública, julgo não se revelarem suficientes osmotivos para manter, emjuízo de proporcionalidade, o paciente sob o rigor daprisão preventiva - providência cautelar mais gravosa -, sobretudo dianteda quantidade de drogas encontradas, que, em que pese não ser ínfima,também não pode ser considerada expressiva.Além disso, o delito foi praticado sem emprego de violência ougrave ameaça.
+Na atual situação, reputo que, salvo necessidade inarredável da custódiapreventiva - mormente casos de crimes cometidos com particular violência-, a envolver o acusado de especial e evidente periculosidade ou que secomporte de modo a, claramente, denotar risco de fuga ou de destruição deprovas e/ou ameaça a testemunhas, o exame da necessidade da manutenção damedida mais gravosa deve ser feito com outro olhar.
+Deveras - diante do imperioso confronto com a emergência de saúde públicaatual, à luz do princípio da proporcionalidade, das novas alternativasfornecidas pela Lei n. 12.403/2011, e das alterações ao CPP determinadaspela intitulada "Lei Anticrime" (Lei n. 13.964/2019) -, é plenamentepossível que a autoridade judiciária considere a opção por uma ou mais dasprovidências indicadas no art. 319 do Código de Processo Penal o meiobastante e cabível para obter o mesmo resultado - a proteção do bemjurídico sob ameaça - de forma menos gravosa.
+In casu, apesar da reprovabilidade social do comportamento atribuído aoacusado - a ensejar-lhe, se demonstrada a imputação, correspondente eproporcional sanção penal -, e por mais que o recomendável seja oprestígio às competências constitucionais, deve-se fortalecer sobremaneirao princípio da não culpabilidade e eleger, com primazia, medidasalternativas à prisão processual, como o propósito de não agravar aindamais a precariedade do sistema penitenciário e evitar o alastramento daCovid-19 nas prisões.
+À vista do exposto, dou provimento ao recurso em habeas corpus, para substituir a prisão preventiva do paciente pelas seguintes medidas cautelares:a) comparecimentoperiódico em juízo, sempre que for intimadopara os atos do processo e noprazo e nas condições a serem fixados pelo Juiz, a fim de informar seuendereço e justificar suas atividades;b) proibição de ausentar-se daComarca, sem autorização judicial;c) recolhimento domiciliar noturno(das 20h de um dia às 6h do dia seguinte), sem prejuízo de imposição deoutras medidas que o prudente arbítrio do Juiz natural da causa entendercabíveis e adequadas.
+Alerte-se ao paciente que a violação das medidas cautelares importará orestabelecimento da prisão preventiva, que poderá ser novamente aplicadase sobrevier situação que configure sua exigência.
+Comunique-se, com urgência, o inteiro teor deste decisum ao Juízo singulare à autoridade apontada como coatora.
+Publique-se e intimem-se.
