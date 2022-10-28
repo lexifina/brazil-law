@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto porKLEBIA CRISTINA DA SILVAcontra decisão proferida pelo eg. Tribunal de Justiça do Estado de Tocantins que inadmitiu recurso especial fundamentado na alínea a do permissivo constitucional.
+Consta dos autos que oeg. Tribunal de origem, em decisão unânime, negou provimento ao agravo em execução penalda Defesa(fls. 44-45). Eis a ementa do acórdão:
+"PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL.PRISÃO DOMICILIAR. REEDUCANDO SOB O REGIME FECHADO.DOENÇAS CRÔNICAS. NÃO CABIMENTO. TRATAMENTO REALIZADO NA UNIDADE PRISIONAL. NÃO COMPROVAÇÃO DA EXCEPCIONALIDADE. RECURSO CONHECIDO E NÃO PROVIDO.
+1. A concessão de prisão domiciliar fora das hipóteses previstas no artigo 117 da LEP depende da demonstração da efetiva necessidade da medida, diante de situação excepcional.
+2. No caso, ainda que comprovado o acometimento da apenada por doenças graves, não restou demonstrada a insu ciência ou a inadequação do tratamento ao qual está sendo submetido na unidade prisional. Ao revés, o estabelecimento está atendendo as necessidades exigidas pelas doenças que acometem a apenada, viabilizando o tratamento, tudo devidamente supervisionado pelo magistrado originário.
+3. Recurso conhecido e não provido."
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual se alega "Violação de norma federal ao artigo 117 da Lei de Execução Penal" (fl. 63). Para tanto, mencionaque"considerando que o estado da saúde da recorrente é delicado, necessita ser amparada, com o fito de resguardar sua dignidade e integridade, sabendo-se que a proteção à saúde é obrigação de todos, requer a concessão da prisão domiciliar para que possa receber o tratamento adequado (fl. 66).
+Requer, ao final "seja conhecido e provido integralmente o presente Recurso Especial, para o fim de REFORMAR o julgado do TJ/TO, para:I - Fixar à recorrente KLÉBIA CRISTINA DA SILVA o cumprimento do restante de sua pena no regime domiciliar, devido ao seu grave estado de saúde e a situação de extrema dependência dos cuidados, os quais não podem ser prestados no estabelecimento onde se encontra recolhida" (fl. 66).
+Apresentadas as contrarrazões (fls. 72-77), oespecial foi inadmitido na origem pelaincidência daSúmulan.7/STJ(fls. 83-84).
+Daí o presente agravo, no qual oagravante,em apertada síntese, repisaos argumentos expendidos no apelo nobre (fls. 91-98).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (fls. 123-125).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Conforme mencionado, o especial foi inadmitido na origem pela incidência da Súmula n. 7/STJ (fls. 83-84).
+Neste agravo, contudo, a Defesa, resumidamente, limitou-se a reiterar os argumentos expendidos no apelo nobre. Com efeito, oagravantedeixou de infirmar, de maneira adequada e suficiente, todas as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, qual seja, o fundamento relativoà incidência daSúmula n. 7/STJ.
+Quantoà incidência da Súmula n. 7/STJ, limitou-se a mencionar que "o recurso especial interposto não atrai a incidência da súmula 07 do STJ mencionada na decisão de inadmissão" (fl. 96).
+De fato,das razões colacionadas na irresignação, verifico que a parte não refutou a aplicação da Súmula 7/STJ de maneira adequada, pois deveriaoagravanteindicar como o acórdão recorrido enfrentou a questão posta em debate no recurso especial, bem como demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+Com efeito, é entendimento desta Corte Superior que, "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016, grifei).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUMULAS 7 E 83 DO STJ. ALEGAÇÕES GENÉRICAS INCAPAZES DE INFIRMAR A DECISÃO RECORRIDA. SÚM. 182/STJ.
+I - Os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes alegações genéricas sobre as razões que levaram à inadmissão do agravo ou do recurso especial ou a insistência do mérito da controvérsia, como ocorreu na hipótese.
+II - O entendimento do STJ é de que "não basta, para afastar o óbice da Súmula nº 83/STJ, a alegação genérica de que o acórdão recorrido não está em consonância com a jurisprudência desta Corte, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada (AgRg no AREsp n. 238.064/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 18/8/2014).
+III - Agravo regimental a que se nega provimento" (AgRg no AREsp n. 1.207.268/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/12/2018, grifei).
+Desse modo, a ausência de impugnação, específica e fundamentada, dos fundamentos empregados pela eg. Corte de origem para impedir o trânsito do apelo nobre impede o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Este é o teor do art. 932, inciso III, do Código de Processo Civil/2015, que autoriza o relator a não conhecer de recurso que tenha deixado de impugnar os fundamentos da decisão recorrida.
+Além do mais, o art. 253, inciso I, do Regimento Interno do Superior Tribunal de Justiça, com redação dada pela Emenda Regimental n. 22/2016, autoriza o relator a não conhecer do agravo que descumpra a tarefa de infirmar as razões de decidir que levaram ao trancamento do recurso especial.
+Ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dos fundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 842.493/PR, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 16/5/2016).
+Conforme entendimento assentado nesta Corte, "deve a parte recorrente impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentido contrário às afirmações do julgado impugnado ou mesmo a insistência no mérito da controvérsia" (AgRg no AREsp n. 705.564/MG, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe de 25/8/2015).
+Portanto, em respeito ao princípio da dialeticidade, a impugnação à decisão deve ser clara e suficiente a demonstrar o equívoco na sua negativa em todos os pontos indicados pela decisão que negou trânsito ao recurso.
+Diante do exposto, não conheço do agravo nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+P. e I.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. AGRAVO EM EXECUÇÃO PENAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO REFUTA TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. NÃO CONHECIMENTO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
