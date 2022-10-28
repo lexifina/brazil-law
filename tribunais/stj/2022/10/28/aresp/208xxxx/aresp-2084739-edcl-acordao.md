@@ -1,0 +1,23 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+WILLIAN DIAS HONORATOopõe embargos de declaração ao acórdão de fls. 1.443-1.450, proferido por esta colenda Sexta Turma, que negou provimento ao agravo regimental interposto.
+A defesa argumenta ser omisso o julgado "em relação à questão central, qual seja, existe prova jurisdicionalizada a lastrear, ainda que minimamente, a qualificadora do motivo fútil " (fl. 1.454).
+Aduz não haver necessidade de reapreciação de prova e assenta (fl. 1.457):
+Assim, é preciso integrar o julgado para analisar a premissa factual: o depoimento de Welder de Almeida  não  tem o condão de alicerçar a qualificadora de motivo fútil, conquanto vítima e inquirido na condição de informante, já que, conforme se infere do julgamento colegiado em 2º grau, não há depoimento judicial no mesmo sentido que poderia ser considerado pelo conselho de sentença (folhas e-STJ 1330/1332).
+Pleiteia o acolhimento dos aclaratórios para que, ao final, sejam anulados os acórdãos já proferidos e a sentença, determinando-se a realização de nova sessão de julgamento pelo Tribunal do Júri.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. Não há vícios no acórdão embargado, pois nodecisumficou claroque, como o veredito popular não é motivado, como indicam as circunstâncias da sessão plenária- a votação é sigilosa, a sala onde se recolhem os votos é secreta e a comunicação entre os jurados é vedada -,a aferição das provas e dos elementos produzidos em plenárioe o julgamento do réu ocorrem em conformidade com a íntima convicção dos juízes populares. Assim, constatada a existência deelementos judicializados nos autos,como na hipótese, não cabe às instâncias ordinárias, tampouco a esta Corte Superior, valorar as provas do processo, sob pena de violação da competência constitucional conferida ao Conselho de Sentença. É adequado, tão somente, averiguar se a condenação encontra respaldo no caderno probatório, o que ficou demonstrado no caso em exame.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese, verificonão haver a apontada omissão. Isso porquea decisãoembargada, de maneira elucidativa, esclareceu que, comoo veredito popularnão é motivado, como indicam as circunstâncias da sessão plenária- a votação é sigilosa, a sala onde se recolhem os votos é secreta e a comunicação entre os jurados é vedada -,a aferição das provas e dos elementos produzidos em plenárioe o julgamento do réu ocorrem em conformidade com aíntima convicção dos juízes populares.
+Nessa extensão, havendoelementos judicializados nos autos, como na hipótese, não cabe às instâncias ordinárias, tampouco a esta Corte Superior, valorar as provas do processo, sob pena de violação da competência constitucional conferida ao Conselho de Sentença. É adequado, tão somente, averiguar se a condenação encontra respaldo no caderno probatório, o que ficou demonstrado no caso em exame.
+Assim,o acórdão não padece de vícios.
+Dessa forma,observoque, na verdade,a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável;não há nenhum fundamento a justificara oposição do presente recurso integrativo.
+À vista do exposto,rejeito os embargos de declaração.
