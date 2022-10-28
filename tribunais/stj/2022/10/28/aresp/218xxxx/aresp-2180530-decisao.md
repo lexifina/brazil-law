@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdãocuja ementa é a seguinte:
+PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PRELIMINAR REJEITADA. PREVIDENCIÁRIO.APOSENTADORIA POR INVALIDEZ. ACRÉSCIMO DE 25% SOBRE O VALOR DA RENDA. ARTIGO 45, DA LEI Nº 8.213/91. ANEXO I DO DEC. 3.048/99. NECESSIDADE DO AUXÍLIO PERMANENTE DE TERCEIROS DESDE A DER. INOCORRÊNCIA. LAUDO PERICIAL.INTERPRETAÇÃO . ART. 479, CPC. ADOÇÃO DAS CONCLUSÕES PERICIAIS. MATÉRIA NÃO ADSTRITA À A CONTRARIO SENSU CONTROVÉRSIA MERAMENTE JURÍDICA. AUSÊNCIA DE ELEMENTOS QUE INFIRMEM O PARECER DO EXPERTO. VALORAÇÃO DO CONJUNTO PROBATÓRIO. CONVICÇÕES DO MAGISTRADO. ADICIONAL INDEVIDO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. RECURSO DESPROVIDO, COM MAJORAÇÃO DA VERBA HONORÁRIA. (..)
+Nas razões do Recurso Especial, a agravante sustenta, em síntese:
+(..)
+Com efeito, o acórdão Recorrido, ao manter o entendimento de que estaria correta a sentença diante de laudo inconclusivo negando-se a necessidade da dilação probatória, com a apresentação dos documentos médicos em posse do INSS e com a realização de nova perícia, negando-se, também a resposta à impugnação tempestivamente manejada, merece ser revisto, anulado ou diretamente reformado, como se impõe e desde já requer.
+A decisão atacada viola direta e literalmente o que determinam os artigos 45 da Lei 8.213/91, bem como, artigos 473, I e IV e 480 do CPC.
+(..)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.10.2022.
+O Tribunal de origem, ao decidir avexata quaestio,consignou:
+(..)
+A profissional médica indicada pelo juízo, com base em exame realizado em 12 de abril de 2016, quando a demandante possuía a quo 74 (setenta e quatro) anos de idade, consignou:
+"Os documentos médicos juntados pela autora, dão conta de que houve acompanhamento cardiológico devido a hipertensão, além de seguimento por diabetes, conforme laudos médicos datados de 15/06/2010 e 23/07/2010, não havendo, pois, dados concretos anteriores a essas datas. Ademais o diagnóstico de diabetes e hipertensão (citados nos referidos laudos médicos) não devem ser considerados como determinantes, obrigatoriamente, de incapacidade total e necessidade de auxílio de terceiros.
+Entende este perito, que a avaliação do estado de saúde da autora á época do pedido administrativo ora questionado, está prejudicada por não haver documentos médicos suficientes e ainda pelo fato de que a avaliação médica atual deve considerar o processo degenerativo e de envelhecimento natural do paciente, como determinantes de sua atual incapacidade. É evidente a limitação atual de movimentos decorrentes da obesidade e sobrecarga sobre o joelho operado, não sendo possível determinar desde quando esse processo (obesidade) se estabeleceu." 8 - Da mesma forma que o juiz não está adstrito ao laudo pericial, do que dispõe o art. 436 do CPC/73 (atual art. 479 do a contrario sensu CPC) e do princípio do livre convencimento motivado, a não adoção das conclusões periciais, na matéria técnica ou científica que refoge à controvérsia meramente jurídica depende da existência de elementos robustos nos autos em sentido contrário e que infirmem claramente o parecer do experto. Atestados médicos, exames ou quaisquer outros documentos produzidos unilateralmente pelas partes não possuem tal aptidão, salvo se aberrante o laudo pericial, circunstância que não se vislumbra no caso concreto. Por ser o juiz o destinatário das provas, a ele incumbe a valoração do conjunto probatório trazido a exame. Precedentes: STJ, 4ª Turma, RESP nº 200802113000, Rel. Luis Felipe Salomão, DJE: 26/03/2013; AGA 200901317319, 1ª Turma, Rel. Arnaldo Esteves Lima, DJE. 12/11/2010.
+Saliente-se que a perícia médica foi efetivada por profissional inscrita no órgão competente, a qual respondeu aos quesitos elaborados e forneceu diagnóstico com base na análise de histórico da parte e de exames complementares por ela fornecidos, bem como efetuando demais análises que entendeu pertinentes, e, não sendo infirmado pelo conjunto probatório, referida prova técnica merece confiança e credibilidade.
+(..)
+Extrai-se do acórdão recorrido e das razões do Recurso Especial que oacolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para reavaliar o laudo pericial apresentado, o que não se admite ante o óbice da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
