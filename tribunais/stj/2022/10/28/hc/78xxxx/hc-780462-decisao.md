@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de VANDERLEI CASA GRANDE no qual se aponta como autoridade coatora o Tribunal Regional Federal da 4ª Região(HC n. 5031752-81.2022.4.04.0000).
+Depreende-se dos autos que o paciente foi preso preventivamente pela suposta prática dos delitos tipificados nos arts.155, § 4º, inciso IV, e 158 do Código Penal.
+O pedido de liberdade provisória foi indeferido pelo Juízo de origem, motivo pelo qual impetrou-se habeas corpus perante o Tribunal Regional Federal da 4ª Região que deferiu, liminarmente, o pedido e estabeleceu a medida cautelar de monitoração eletrônica e o pagamento de fiança no valor de R$ 15.000,00 (quinze mil reais) (e-STJ fl. 15).
+Em seguida, "a defesa interpôs agravo regimental requerendo a dispensa da fiança, o qual foi deferido, reformando-se adecisão liminar para o fim de dispensar a fiança integralmente, aplicando-se, não obstante a monitoração eletrônica" (e-STJ fl. 3/4).
+Em 22/10/2022 a 3ª Vara Federal de Maringá condenou Vanderlei Casa Grande àpena de 3 anos e 5 meses de reclusão em regime semiaberto, concedendo-se o direito de apelar em liberdade (e-STJ fl. 60).
+Nopresentewrit, a defesa sustenta que o pacientenão possui recursos financeiros suficientes para o pagamento da fiançarestabelecida pelo Tribunal a quo (e-STJ fl. 11).
+Assere que "o sentenciado foi condenado em regime semiaberto, isto é, além de ser completamente incoerente reestabelecer a fiança no presente momento processual, caso a fiança seja exigida o paciente terá de ser preso novamente, posto que não possui condição alguma de arcar com tal valor.Dessa forma, a imposição da fiança acarretaria a prisão do paciente, o que implicaria automaticamente em outro ato ileal, posto que a prisão do paciente seria incompatível até mesmo com o regime imposto na sentença condenatória"(e-STJ fl. 12).
+Assim, requer, liminarmente e no mérito, a dispensa da fiança (e-STJ fl. 13).
+É o relatório.
+Decido.
+Não obstante as razões declinadas, aimpetrante não instruiu os autos, pois nele não consta o inteiro teor do acórdão referente ao julgamento do mérito do habeas corpus impetrado na origem, o que, a toda evidência, impede o exame da tese suscitada.
+Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto à parte interessada.
+Nesse sentido, segue a jurisprudência desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. CORRUPÇÃO PASSIVA. ORGANIZAÇÃO CRIMINOSA. POLICIAL MILITAR ENVOLVIDO EM CONTRABANDO DE CIGARROS. TESE DE INCOMPETÊNCIA DA JUSTIÇA MILITAR. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. QUESTÃO DIRIMIDA PELA TERCEIRA SEÇÃO NO JULGAMENTO DO CC 163.950/MS. COISA JULGADA. HABEAS CORPUS NÃO CONHECIDO. AGRAVO DESPROVIDO.
+1. No caso, não é possível analisar a tese de incompetência absoluta, na medida em que os autos não foram instruídos com o inteiro teor do acórdão que tratou da matéria na instância a quo, tampouco as informações trouxeram a peça processual imprescindível para a devida compreensão da controvérsia.
+2. Informo ao Agravante que não compete a esta Relatora propiciar a instrução do mandamus, tal ônus é dos seus Advogados constituídos, lembrando que o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva".
+3. De todo modo, a alegada incompetência do Juízo da Auditoria Militar já foi analisada pela Sexta Turma nos autos do CC 163.950/MS, suscitado por corréu do Agravante, no qual ele configurou com Interessado. Esta impetração, portanto, não comporta conhecimento por se tratar de questão dirimida em decisão transitada em julgado que firmou a competência.
+4. E, ainda que se entenda pela inexistência de reiteração de pedido, pelo novo enfoque dado a tese de incompetência absoluta neste writ substitutivo de recurso ordinário, em nada se modifica o entendimento da decisão agravada sobre o não conhecimento da impetração, uma vez que além da instrução deficiente, vício que não compete ao Superior Tribunal de Justiça sanar, evidencia-se que a matéria destes autos não foi suscitada e, tampouco apreciada no julgado de apelação.
+5. Agravo regimental desprovido.
+(AgRg no HC n. 698.987/MS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/9/2022, DJe de 3/10/2022.)
+PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É possível receber o pedido de reconsideração como agravo regimental, dada a identidade do prazo recursal e a inexistência de erro grosseiro.
+2. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+3. Ausente cópia da decisão que decretou a prisão preventiva do acusado, a cujos fundamentos o juiz sentenciante remete para negar ao réu o direito de recorrer em liberdade, mostra-se inviável o exame do alegado constrangimento ilegal.
+4. Pedido de reconsideração recebido como agravo regimental, não provido. (RCD no RHC n. 54.626/SP, relator MinistroRogerio Schietti Cruz, Sexta Turma, DJe 2/3/2015.)
+Dessa forma, diante da ausência de prova pré-constituída das alegações, torna-se impossível analisar o suposto constrangimento ilegal.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
