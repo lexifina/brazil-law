@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de RICARDO TOKO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Apelação Criminal n. 1501174-06.2019.8.26.0583).
+Opaciente foi condenado às penas de 8 anos e 5meses de reclusão, ede 651dias-multa,pela prática dosdelitos previstos no art. 33, caput, da Lei n. 11.343/2006e no art. 14, caput, da Lei n. 10.826/2003.
+Oimpetrante sustenta quea grande quantidade de entorpecente e o tráfico interestadual foramutilizados simultaneamente para exasperar a pena-base e afastar a redutora prevista no art. 33, § 4º, da Lei de Drogas.
+Destaca que não houve fundamentação para negar a redução da atenuante da confissão até o mínimo legal da pena.
+Pondera que estariam presentes os requisitos necessários para o reconhecimento do tráfico privilegiado, com a imposição de regime inicial mais brando.
+Requer, liminarmente e no mérito, a concessão de ordem pararevisar a dosimetria da pena, com a alteração do regime inicial fixado.
+É, no essencial, o relatório. Decido.
+O writ não merece prosperar.
+A matéria aqui suscitada foi, também, objeto do HC n. 592.442/SP e do HC n. 720.781/SP,impugnando o mesmo acórdão ora objurgado e sob os mesmos argumentos aqui levantados.
+Constata-se, assim, a inadmissível reiteração, consoante o entendimento do Superior Tribunal de Justiça.Veja-se o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDEFERIMENTO DE PEDIDO DE PROGRESSÃO AO REGIME SEMIABERTO. COMETIMENTO DE NOVO DELITO PELO EXECUTADO, QUANDO AGRACIADO, ANTERIORMENTE, COM O REGIME ABERTO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. QUESTÃO DECIDIDA DE MANEIRA EXAURIENTE EM HABEAS CORPUS ANTERIORMENTE IMPETRADO PERANTE ESTA CORTE, IMPUGNANDO O MESMO ACÓRDÃO DE SEGUNDO GRAU. REITERAÇÃO DE PEDIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. É pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido. Precedentes: AgRg no RHC 142.393/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 4/5/2021, DJe 7/5/2021;AgRg no HC 646.388/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 4/5/2021, DJe 10/5/2021; AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe de 18/9/2019.
+2. Reconhecida por esta Corte, em decisão que transitou em julgado em 17/03/2022, a ausência de constrangimento ilegal decorrente do indeferimento de progressão ao regime semiaberto a executado que, quando beneficiado anteriormente com o regime aberto, voltou a praticar novo delito de tráfico de entorpecentes, a impetração de novo habeas corpus, desta vez por patrono constituído pelo executado, insurgindo-se contra os mesmos julgados de 1º e 2º grau e formulando o mesmo pedido com base em argumentos em tudo similares aos já refutados por esta Corte, é forçoso reconhecer que se trata de mera reiteração de insurgência já apreciada e insuscetível de novo exame por este Tribunal Superior, diante do esgotamento da prestação jurisdicional devida.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 730.736/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/4/2022, DJe de 11/4/2022.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno deste Superior Tribunal, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
