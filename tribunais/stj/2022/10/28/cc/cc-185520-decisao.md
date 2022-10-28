@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o juízo federal da 1a Vara Cível de Palmas SJ-TO, suscitante,e os juízos federais da 3a Vara Cível de Brasília SJ-DF e da 19a Vara Cível de São Paulo, suscitados.
+Na origem o Município de Recursolândia ajuizou cumprimento de sentença perante a Justiça Federal de Brasília, visando a execuçãode Ação Civil Pública que condenoua União Federal a ressarcir o FUNDEF (Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério) em valor correspondente à diferença entre o que restou definido conforme o critério do artigo 6º, § 1º da Lei n.9.424/96 e aquele fixado em montante inferior, desde o ano de 1998 até à criação do FUNDEB pela Lei 11.494/2007.
+Considerando que a Ação Civil Pública tramitou na 19aVara Cível Federal de São Paulo/SP, ojuízo federal de Brasília remeteu os autos do cumprimento de sentença para lá. O juízo federal em São Paulo, por sua vez, compreendeu que o cumprimento de sentença deveria tramitar em Palmas. Por fim, o juízo federal de Palmas suscitou o conflito negativo de competência.
+Parecer do MPF às fls. 247/248.
+É o relatório. Passo a decidir.
+De início, observo que aCorte Especial do STJ fixou, sob o rito do art. 543-C do CPC e da Resolução STJ 8/2008, que "a liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário" (REsp 1.243.887/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe 12.12.2011). Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. COMPETÊNCIA. FORO DO DOMICÍLIO DO EXEQUENTE OU FORO DO JUÍZO QUE SENTENCIOU O FEITO NA FASE DE CONHECIMENTO. ART. 98, § 2º, I, DO CÓDIGO DE DEFESA DO CONSUMIDOR E 475-P DO CÓDIGO DE PROCESSO CIVIL DE 1973. PRERROGATIVA PROCESSUAL. ESCOLHA DO FORO PELO EXEQUENTE.POSSIBILIDADE.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+II-Esta Corte, ao julgar o Recurso Especial n. 1.243.887/PR, submetido ao rito do art. 543-C, firmou entendimento segundo o qual a liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário.
+III - Embora não se possa obrigar ao beneficiário da sentença coletiva proceder à execução individual no juízo prolator da sentença coletiva, sendo sua prerrogativa fazê-lo no foro do próprio domicílio, não existe óbice a que opte pelo juízo onde tramitou o processo de conhecimento, observando a regra do art. 575, II, do Código de Processo Civil de 1973.
+IV - Recurso Especial improvido.
+(REsp n. 1.634.328/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 12/6/2018, DJe de 19/6/2018.)
+Ademais, oSTJ, seguindo a jurisprudência pacificada do Supremo Tribunal Federal, entende que as causas intentadas contra a UNIÃO poderão ser aforadas na Seção Judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda, ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. ARTIGO 109, § 2o. DA CONSTITUIÇÃO FEDERAL. POSSIBILIDADE DE AJUIZAMENTO NO DOMICÍLIO DO AUTOR. FACULDADE CONFERIDA AO IMPETRANTE. AGRAVO INTERNO DA UNIÃO DESPROVIDO.
+1. O STJ, seguindo a jurisprudência pacificada do Supremo Tribunal Federal, entende que as causas intentadas contra a UNIÃO poderão ser aforadas na Seção Judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda, ou onde esteja situada a coisa, ou, ainda, no Distrito Federal.
+2. O enunciado constitucional não limita a escolha dada aos requerentes advindas da natureza do Mandado de Segurança (AgInt no CC 170.533/DF, Rel. Min. MAURO CAMPBELL MARQUES, DJe 5.6.2020).
+3. Agravo Interno da UNIÃO desprovido.
+(AgInt no CC n. 167.425/DF, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 15/12/2020, DJe de 18/12/2020.)
+Diante da jurisprudência do Supremo Tribunal Federal e do Superior Tribunal de Justiça, acima colacionada, é competente para o julgamento da demanda o juízo federal da3a Vara Cível de Brasília SJ-DF, suscitado.
+Ante o exposto, conheço do conflito para declarar competente ojuízo federal da 3a Vara Cível de Brasília SJ-DF, suscitado.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. CONFLITO DE COMPETÊNCIA. CUMPRIMENTO DE SENTENÇAPROPOSTONO DISTRITO FEDERAL EM FACE DA UNIÃO. APLICAÇÃO DO ART. 109, § 2º, DA CONSTITUIÇÃOFEDERAL. CONFLITO CONHECIDO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO DA SJDF.
