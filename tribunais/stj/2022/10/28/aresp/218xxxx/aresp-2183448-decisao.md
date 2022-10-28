@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por ITAÚ UNIBANCO S. A. contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"APELAÇÃO CÍVEL DA PARTE AUTORA E DAINSTITUIÇÃOFINANCEIRARÉ- AÇÃODECLARATÓRIADENULIDADE/INEXIGIBILIDADE DE NEGÓCIO JURÍDICO C/C REPETIÇÃO DEINDÉBITO C/C INDENIZAÇÃO POR DANO MORAIS - MÉRITO RECURSAL - CONTRATO DE EMPRÉSTIMO CONSIGNADO - DESCONTOS EM BENEFÍCIOPREVIDENCIÁRIO REALIZADOS INDEVIDAMENTE - INEXISTÊNCIA DERELAÇÃO JURÍDICA - AUSÊNCIA DE PROVA DA EFETIVA CONTRATAÇÃO- ATO ILÍCITO CONFIGURADO - DANO MORAL CABÍVEL - QUANTUMINDENIZATÓRIO MANTIDO - RESTITUIÇÃO SIMPLES MANTIDA - TERMOINICIAL JUROS DE MORA - EVENTO DANOSO - VERBA HONORÁRIAMANTIDA -RECURSO DA PARTE AUTORA CONHECIDO PROVIDO EMPARTE - RECURSO DA INSTITUIÇÃO FINANCEIRA RÉ CONHECIDO E IMPROVIDO.
+I - As peculiaridades do caso - contratação de empréstimo consignado - requer do Banco contratado o cuidado de efetivar o negócio jurídico. E, se contratou sem observar as cautelas essenciais às negociações dessa natureza, assumiu os riscos do negócio. À instituição ré incumbia o ônus de comprovar que agiu com as cautelas de praxe na contratação de seus serviços, até porque, ao consumidor não é possível a produção de prova negativa (CDC, art. 6, VIII c/c CPC, art. 373, II).
+II - A contratação viciada, oriunda de suposta fraude, possibilita a declaração de inexistência de relação jurídica e a condenação no pagamento de indenização dos danos materiais e morais ocasionados ao consumidor que suportou a dedução de seu módico benefício previdenciário por culpa exclusiva da instituição financeira e tem o direito de tê-los restituídos.
+III - Inexistindo prova inequívoca da má-fé no desconto de empréstimo irregular no benefício previdenciário da parte autora a restituição dos valores descontados deve ocorrer de forma simples.
+IV - Inexistindo critérios objetivos para a quantificação do dano moral, até porque esta espécie de dano, por atingir a esfera psíquica do indivíduo e estar intimamente ligada à sua moral, não se pode criar parâmetros concretos para a análise de sua extensão, devendo-se arbitrá-lo de acordo com a possibilidade econômica do ofensor, as necessidades do ofendido, a potencialidade do dano e o grau de culpa ou dolo envolvido no ato lesivo.
+V- Relativamente aos juros de mora, é importante fixar a premissa de que o caso em análise se trata de responsabilidade extracontratual, de forma a incidir o enunciado da Súmula 54 do STJ" (fls. 265-266, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 293, e-STJ).
+No recurso especial, orecorrente alega que oart. 1.022do Código de Processo Civil de 2015 foi violado, pois houve omissão no aresto de origem quanto àregularidade da contrataçãodiante de contrato eletrônico firmado por terminal de caixa, via cartão com CHIP e senha pessoal.
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Observa-se, por oportuno, a fundamentação do aresto estadual acerca do contrato eletrônico:
+"(..)
+Impõe consignar que muito embora a institiuição financeira ré tenha apresentado contestação, deixou de comprovar a regularidade da contratação, bem como a disponibilização do produto do mútuo em favor da parte autora.
+Em que pese tenha afirmado que a contratação se deu por meio de CHIP de cartão com senha pessoal, não comprovou a disponibilização do valor exato do produto do mútuo.
+O banco deveria fazer prova da regularidade da contratação,porquanto não apresentou nenhum documento capaz de comprovar que a autora tenha anuído com o referido empréstimo ou refinanciamento, ou ainda se beneficiado deste. Logo, os pontos controvertidos relativamente à efetiva contratação e, principalmente,quanto à disponibilização do valor a autora não restaram dirimidos.
+(..)
+De rigor salientar, que não é possível à parte autora, no particular,fazer prova negativa da relação contratual, sendo ônus da ré tal comprovação, como já dito. Houve, assim, uma infringência ao dever de cuidado esperado da parte ré no desempenho de seu mister, porque não atuou de forma diligente no momento da celebração do contrato, permitindo que houvesse uma contratação sem as cautelas esperadas em negociações dessa natureza.
+Assim, ao deixar de produzir prova de que a parte autora, que nega a contratação, foi quem solicitou o crédito, firmou o contrato e dele usufruiu, mostra-se evidente a falha do banco réu, no momento da pactuação.
+Ora, é dever do banco réu precaver-se com procedimentos mínimos que assegurassem que o solicitante do crédito era, de fato, a parte autora, já que em nome dessa foi realizada a posterior cobrança. Assim, não agindo ao que tudo indica,permitiu que a concessão do crédito se concretizasse de forma viciada, porquanto sem o conhecimento ou autorização daquela que foi indicada como responsável pelo pagamento.
+Desta feita, a ausência de efetiva prova da contratação, permite conferir verossimilhança à alegação da parte autora de que as cobranças que lhe realiza o banco réu são viciadas, diante da clara ocorrência de fraude na negociação, fazendo jus à declaração de inexistência do débito, como declarado na sentença objurgada"(fls. 268-270, e-STJ).
+Nesse contexto, verifica-se que as questões trazidas aos autos foram devidamente analisadas e discutidas, e fundamentado corretamente o aresto impugnado, de modo a exaurir a prestação jurisdicional, não há falar em violação doart. 1.022 do CPC/2015.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça.
+Publique-se.
+Intimem-se.
