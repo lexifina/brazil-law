@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interno interposto por COMPANHIA DE SEGUROS ALIANÇA DO BRASILcontra a decisão desta Relatoria que deu parcial provimento ao recurso especial para, reconhecendo a ofensa ao art. 1.022 do Código de Processo Civil,determinara devolução dos autos à origem para que proceda a novo julgamentoquanto à responsabilidade pelo dever de informação referente às cláusulas limitativas do seguro (fls. 661-665 e-STJ).
+Em suas razões (fls. 679-688 e-STJ), a agravada sustenta, em síntese,que a decisão recorrida está em desconformidade com o atual entendimento do Superior Tribunal de Justiça, de que cabe à estipulante, e não à seguradora, o dever de informar ao segurado os termos e condições do contrato de seguro.
+Discute-se nos presentes autos, portanto, a responsabilidade pelo dever de informação ao segurado a respeito de cláusulas limitativas e restritivas em contratos de seguro de vida em grupo.
+A Segunda Seção desta Corte afetou os REsps nºs 1.874.811/SC e 1.874.788/SC, a julgamento sob o sistema de recursos repetitivos (Tema 1.112), a fim de definir"se cabe à seguradora e/ou ao estipulante o dever de prestar informação prévia ao proponente (segurado) a respeito das cláusulas limitativas e restritivas dos contratos de seguro de vida em grupo"(acórdão publicado no DJe de 5/11/2021).
+A decisão de afetação determina a"suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem acerca da questão e tramitem no território nacional".
+Ante o exposto, determino a remessa dos autos ao tribunal de origem, com a respectiva baixa, a fim de que o processo permaneça suspenso até a publicação do acórdão do recurso especial repetitivo, observando-se, em seguida, os procedimentos previstos nos arts. 1.039 e 1.040 do CPC/2015.
+Publique-se.
+Intimem-se.
