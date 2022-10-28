@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO-PADRONIZADOS NPE Icontra decisão que não admitiu recurso especial. O apelo nobre, fundamentado naalínea"a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Alagoasassim ementado:
+"APELAÇÃO CÍVEL. AÇÃO REVISIONAL DE CLÁUSULAS CONTRATUAIS. CONTRATO DE ADESÃO. PRINCÍPIO DO PACTA SUNT SERVANDA. RELATIVIZAÇÃO. POSSIBILIDADE DE REVISÃO DE CONTRATO DIANTE DE POSSÍVEIS ENCARGOS EXORBITANTES SEM AFRONTAR O PRINCÍPIO DA SEGURANÇA JURÍDICA. DEVER DE ANALISAR À LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR. PEDIDO DE AFASTAMENTO DA CAPITALIZAÇÃO DIÁRIA DE JUROS. FALTA DE CONDENAÇÃO NESSE SENTIDO NA SENTENÇA. INEXISTÊNCIA DE PREVISÃO CONTRATUAL. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DA SENTENÇA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. INTELIGÊNCIA DO ART.932, III, DO CPC. AUSÊNCIA DE REGULARIDADE FORMAL. APELO NÃO CONHECIDO NESSE PONTO. MÉRITO. JUROS REMUNERATÓRIOS. NECESSIDADE DE LIMITAÇÃO À TAXA MÉDIA DE MERCADO,CONFORME TABELA DIVULGADA NO SÍTIO DO BANCO CENTRAL. ABUSIVIDADE NÃO CONSTATADA. SENTENÇA MANTIDA. PREVISÃO CONTRATUAL DE "TARIFA DE CADASTRO"APLICAÇÃO DA TESE FIRMADA NO JULGAMENTO DO RECURSO ESPECIAL Nº 1.578.553/SP, REPRESENTATIVO DA CONTROVÉRSIA REPETITIVA DESCRITA NO TEMA 958, PELO STJ. RECONHECIMENTO DA ABUSIVIDADE DA CLÁUSULA QUE PREVÊ A COBRANÇA DE RESSARCIMENTO DE TARIFA DE CADASTRO. ALTERAÇÃO DO ÔNUS DA SUCUMBÊNCIA. RECONHECIMENTO DA SUCUMBÊNCIA RECÍPROCA. CADA PARTE ARCARÁ COM 50% (CINQUENTA POR CENTO) DO VALOR ARBITRADO. CUSTAS PROCESSUAIS A SEREM APURADAS DEVEM SER RATEADAS NA MESMA PROPORÇÃO. RECURSO CONHECIDO EM PARTE E PARCIALMENTE PROVIDO. DECISÃO UNÂNIME(e-STJ fl. 335).
+Nas razões do especial (e-STJ fls. 404/410), orecorrenteapontaviolação dos artigos 10 e 1.022,do Código de Processo Civil/2015.
+Aleganegativa de prestação jurisdicional e sustentaquea tarifa de cadastro foi limitada com base em fundamento sobre o qual o recorrente não teve oportunidade de se manifestar.
+Apresentadas ascontrarrazões, o recurso não foi admitido na origem. Daí o presente agravo, o qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A pretensão recursal não merece ser acolhida.
+Primeiramente, quanto ao artigo 1.022 do CPC/2015, registra-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+Com efeito, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 4/10/2016, DJe 13/10/2016 - grifou-se).
+Ademais, o tribunal de origem concluiu pela abusividade na cobrança de Tarifa de Cadastro, com base nos seguintes fundamentos:
+"Note-se que o Superior Tribunal de Justiça entendeu como válida a cobrança da tarifa de cadastro, possibilitando realizar o controle em caso de onerosidade excessiva.
+Nesta senda, em análise do presente contrato (fls. 86/90), entendo que houve abusividade na cobrança de Tarifa de Cadastro, haja vista que fora cobrada no montante de R$ 509,00 (quinhentos e nove reais) diluída no financiamento.
+Ademais, em análise de diversas ações revisionais, observo que a tarifa de cadastro não ultrapassa a monta de R$ 200,00 (duzentos reais). Assim, em coadunação ao que fora decidido pelo STJ, em havendo onerosidade excessiva na cobrança da taxa, deve ser afastada a cobrança prevista contratualmente (quadro 5, item 5.4), uma vez que revestida de abusividade"(e-STJ fl. 342).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria a interpretação de cláusula contratual e orevolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado das Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), em razão do parcial provimento do recurso de apelação pelo Tribunal de origem, não sendo caso de majoração da referida verba.
+Publique-se.
+Intimem-se.
