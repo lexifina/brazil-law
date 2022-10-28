@@ -1,0 +1,17 @@
+DECISÃO
+EVANDRO GOMES FARIAS, paciente neste habeas corpus, alega sofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sulna Apelação Criminal n. 5003060-38.2017.8.21.0001/RS.
+Depreende-se dos autosque oora paciente foi condenado à pena de 1 ano e 8 meses de reclusão, no regime aberto,mais multa, pela prática docrime previstono art. 33,caput, da Lei n. 11.343/2006.
+Neste writ, a defesa requer, resumidamente, a desclassificação da conduta imputado ao acusado, por entender ausentes provas suficientes para ensejar sua condenação por tráfico.
+A liminar foi indeferida.
+Instado a se manifesta, oMinistério Público Federal manifestou-se pelo não conhecimento da impetração.
+Decido.
+A Corte estadual manteve a conclusão de que ficou devidamente caracterizado o delito detráfico de drogascom base nos seguintes argumentos:
+A decisão singular vai mantida, pois incontroverso que Evandro trazia consigo, com o intuito de venda, 05 porções de maconha, pesando 119 gramas, não havendo como se falar em absolvição por insuficiência de provas.
+Da mesma forma, não merece provimento o pedido alternativo feito pela defesa técnica do réu. Não há como desclassificar a conduta de tráfico de drogas a ele imposta para o crime previsto no artigo 28, da Lei n.º 11.343/06. Isso porque as circunstâncias da abordagem policial (em conhecido ponto detráfico) e a quantidade de droga apreendida, demonstram que ele, realmente, trazia consigo substância entorpecente destinada à mercancia.(fl.38)
+Pelotrechoanteriormente transcritoe, sobretudo, pela leitura atenta da sentença condenatória e do acórdão recorrido, verifico que as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência deelementos concretos e coesosa ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006).
+Por essas razões,mostra-se inviável a absolvição da conduta imputada ao réu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Registro, no particular, que, nos termos do art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal/conjunto ou ao tráfico de drogas, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+Ademais, esclareço que,para a configuração do delito de tráfico de drogas, não é necessária prova da mercancia, tampouco que o agente seja surpreendido no ato da venda do entorpecente - até porqueo próprio tipo penal aduz "ainda que gratuitamente"-, bastando, portanto, que as circunstâncias em que se desenvolveu a ação criminosa denotem a traficância, tal como ocorreu no caso.
+Esclareço, ainda, que, para entender-se pela desclassificação da conduta doréu, seria necessário orevolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, incabível na via estreita do habeas corpus.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ,denegoa ordem de habeas corpus.
+Publique-se e intimem-se.
