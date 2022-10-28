@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdãocuja ementa é a seguinte:
+PREVIDENCIÁRIO. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. REVISÃO. IRSM/94. DECADÊNCIA. AFASTAMENTO.BENEFÍCIO DE VALOR MÍNIMO. POSSIBILIDADE.
+1. Tratando-se de execução individual de sentença coletiva, não cabe a incidência do prazo decadencial para requerer a revisão do benefício previsto na Lei 8.213/1991.
+2. Os benefícios com data de início após março de 1994 e salários- de-contribuição dentro do período básico de cálculo de até 48 meses previsto na legislação vigente à época podem vir a ser revisados pela incidência do IRSM de fevereiro de 1994, ainda que originariamente tenham sido concedidos com RMI de um salário-mínimo.
+Os Embargos de Declaração foram rejeitados.
+Nas razões de Recurso Especial, o agravante sustenta, em síntese:
+(..)
+O v. acórdão, com a máxima vênia, partiu de uma premissa absolutamente equivocada no sentido que " ..  a média extraída da aplicação da sistemática de apuração do salário-de- benefício resultou inferior ao salário-mínimo, levando à concessão direta pela regra do § 2º, sem a discriminação do PBC. Ou seja, houve em um primeiro momento a elaboração de cálculo sobre os salários-de-contribuição, que ao final foi desconsiderado para que o ato concessório se adequasse ao dispositivo que estabelece um piso para os benefícios previdenciários." Não há no processo administrativo nenhuma informação a este respeito. Ao contrário, naqueles autos não estão indicados salários-de-contribuição no período tampouco que cálculo da RMI tenha resultado em benefício inferior ao mínimo.
+(..)
+O acórdão recorrido, ao reconhecer o direito da parte, desconsiderando a inexistência de salários-de-contribuição/cálculo da RMI, acabou por se omitir na apreciação da legislação aplicável na espécie - artigos 509, §4º, 535, II e IV, 778, 786 e 917, I e III e §2º, I e III do CPC - em especial quanto a ilegitimidade da parte exequente para propor o cumprimento da sentença coletiva, tendo o INSS interposto embargos de declaração para o esclarecimento da matéria e o prequestionamento da questão federal abordada nos embargos.
+(..)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.10.2022.
+Preliminarmente, constata-se que não se configura ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, visto não haver quaisquer dos vícios previstos nesses dispositivos legais.
+O Tribunal a quo examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia, manifestando-se de forma clara no sentido de que é possível a aferição dos salários de contribuição, inclusive por meio do processo administrativo. Portanto, não cabe falar em negativa de prestação jurisdicional.
+Ademais, extrai-se do acórdão recorrido e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, especialmente para avaliar se há informações a respeito dos salários-de-contribuição no processo administrativo, o que atrai o óbice da Súmula 7/STJ.
+Quanto ao tópico referente à ilegitimidade,além de também incidir a Súmula 7/STJ, nota-se que a tese não foi ventilada no aresto impugnado e, embora tenham sido opostos os competentes Embargos Declaratórios, o órgão julgador não emitiu juízo de valor sobre o tema. Falta, portanto, prequestionamento, requisito para acesso às instâncias excepcionais, ainda que se trate de matéria de ordem pública. Incide na hipótese o verbete sumular 211/STJ
+Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal apontado e a alegação a ele vinculada, interpretando-se a sua aplicação ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais com os fundamentos do decisum, percebe-se que as teses vinculadas aos dispositivos tidos como ofendidos não foram apreciadas pelo colegiado originário.
+O STJ entende que é insuficiente opor Embargos de Declaração para configurar o prequestionamento ficto admitido no art. 1.025 do CPC/2015. É imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar a eventual ocorrência de omissão no julgado e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO APONTAMENTO. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. INAPLICABILIDADE. COMPLEMENTAÇÃO DE VALORES PAGOS A MENOR. OBEDIÊNCIA AO TÍTULO EXECUTIVO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do Código de Processo Civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do Código de Processo Civil de 2015.
+IV - In casu, rever o entendimento do Tribunal de origem, no sentido de não haver violação à coisa julgada uma vez que os valores pagos a menor pelo INSS eram complementados pela PREVI, em obediência aos valores fixados no título executivo, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+V - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+VI - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.646.137/SC, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 20.2.2018)
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial.
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido.
+(REsp 1.639.314/MG, Ministra Nancy Andrighi, Terceira Turma, DJe 10.4.2017)
+Verifica-se, novamente, que a postulação da parte requeranálise do conjunto de fatos e provas dos autos, especialmente quanto ao que consta de laudo pericial,o que não se admite ante o óbice da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
