@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região cuja ementa é a seguinte (fl. 193, e-STJ):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. REQUERIMENTO DE DETERMINAÇÃO JUDICIAL NO SENTIDO DE INCLUIR O NOME DO DEVEDOR NO CADASTRO DE INADIMPLENTES ATRAVÉS DO SERASAJUD. INUTILIDADE.
+1. Cuida-se de agravo de instrumento interposto pela União Federal contra decisão da lavra do Juízo Federal da 2ª Vara de Pernambuco que, em sede de execução de título extrajudicial, indeferiu o pedido de inscrição do nome do devedor no cadastro de inadimplentes via SERASAJUD, por entender que tal providência independe de intervenção do Judiciário, podendo ser realizada administrativamente pela exequente.
+2. Cinge-se a controvérsia à possibilidade de inclusão do nome do executado (devedor) no cadastro de inadimplentes, a requerimento da parte exequente e por ordem do Juízo. Não assiste razão à agravante, pois, no trato do tema, dispõe o § 3º, do art. 782, do CPC/15 que " § 3 A requerimento da parte, o juiz pode determinar a inclusão do nome do executado em o cadastros de inadimplentes."
+3. Como se vê, é inconteste a possibilidade de determinação judicial de inclusão do nome da parte executada nos cadastros de inadimplência, desde que requerido pela parte exequente. No entanto, para o deferimento de tal pleito, faz-se necessária a demonstração da utilidade e necessidade do constrangimento para a efetividade do feito executivo.
+4. No presente caso, não se vislumbra o preenchimento de tais requisitos, mormente diante da constatação de que se trata de execução de título extrajudicial na qual a exequente já efetivou diversas diligências (penhora on-line via SISBAJUD, pesquisa de veículos via RENAJUD, consulta via INFOJUD/DOI e CNIB), sobejando infrutífera a inclusão da parte executada nos cadastros de inadimplência como meio de coerção.
+5. Registre-se que não se aplica ao caso o entendimento firmado pelo STJ em sede de recurso repetitivo, no sentido de que poderá o Juízo deferir o uso do sistema SERASAJUD ainda que na medida em que no presente caso já não esgotadas previamente outras medidas executivas, foram esgotados os meios de execução e verificou-se que o executado não possui bens, de modo que não se justifica nova restrição, tal como a inscrição do nome do devedor em cadastro de inadimplentes (SERASA), mercê da inutilidade da medida.
+6. De resto, embora a providência da inscrição no SERASAJUD caiba ao magistrado, e o particular não tenha acesso às senhas necessárias, no caso de que se cuida descabe a pretensão pelos motivos já declinados.
+7. Agravo de instrumento desprovido.
+A recorrente alega que ocorreu, além de divergência jurisprudencial, violação do art. 782, § 3º, do CPC. Sustenta, em suma, a possibilidade de utilização da medida constritiva. Requer a reforma do decisum recorrido a fim de determinar a inclusão da parte contrária no Serasajud.
+Não foram apresentadas contrarrazões.
+Decisão de admissibilidade do Recurso à fl. 289, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.10.2022.
+O presente apelo não ultrapassa a barreira de admissibilidade.
+Na origem, trata-se de Agravo de Instrumento interposto pela ora recorrente com vistas a reformar decisão que indeferira o requerimento de inscrição da parte executada no cadastro de inadimplentes, mediante a utilização do sistema Serasajud.
+Consoante a orientação jurisprudencial do STJ, "o pedido de inclusão do nome do executado em cadastros de inadimplentes, tal como o Serasajud, nos termos do art. 782, § 3º, do CPC/2015, não pode ser recusado pelo Poder Judiciário sob o argumento de que tal medida é inviável em via de execução fiscal" (REsp 1.799.572/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14.5.2019).
+Por outro lado, o Tribunal a quo, atento às peculiaridades do caso, afirmou (fl. 274, e-STJ):
+Como se vê, o entendimento do Egrégio STJ é no sentido de que poderá o Juízo, mesmo em se tratando de execuções fiscais, deferir o requerimento de inscrição do devedor no cadastro de inadimplentes, por intermédio do sistema SERASAJUD, ainda que não esgotadas previamente outras medidas executivas, excetuando-se a hipótese de subsistir dúvida quanto à real existência do crédito cobrado no feito executivo.
+(..) Em sede de julgamento anterior, esta turma entendeu pela inutilidade da inclusão do executado no cadastro de inadimplentes como meio de coerção (..). Sob essa ótica, tendo em vista que a questão discutida no acórdão (inutilidade da medida) não coincide com a consagrada pelo STJ (desnecessidade de esgotamento prévio de medidas), inexiste conflito entre o acórdão deste Regional e o entendimento consagrado na Corte Superior, não sendo o caso, portanto, de se exercer o juízo de retratação.
+É evidente que alterar as conclusões adotadas pela Corte regional quanto à inutilidade da medida requer novo exame do acervo fático-probatório constante dos autos, providência vedada em Recurso Especialante o óbice da Súmula 7/STJ.Afasta-se, assim, a ideia de simples valoração da prova.
+Na mesma linha, confiram-se as seguintes decisões: REsp 1.797.664/SE, Rel. Ministro Og Fernandes, DJe 8.4.2019; REsp 1.829.463/SE, Rel. Ministra Assusete Magalhães, DJe 23.8.2019; e AREsp 1.372.566/ES, Rel. Ministro Sérgio Kukina, DJe 19.10.2018.
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.
+Intimem-se.
