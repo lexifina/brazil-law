@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. REAFIRMAÇÃO DA DER. TEMA 995 DO SUPERIOR TRIBUNAL DE JUSTIÇA. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS.
+1. Os juros moratórios, na hipótese em que o benefício é concedido mediante a reafirmação da data de entrada do requerimento, somente incidem se o INSS, intimado para cumprir o acórdão, não implantar o benefício no prazo de quarenta e cinco dias (EDcl no REsp 1727063/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 19/05/2020, DJe 21/05/2020).
+2. Extrai-se a compreensão de que a tese jurídica (ratio decidendi) fixada no Tema 995 do Superior Tribunal de Justiça, a respeito da distribuição dos ônus de sucumbência, deve ser entendida no sentido de que o reconhecimento do direito à aposentadoria por fato superveniente e a ausência de oposição da autarquia à reafirmação da data de entrada do requerimento (DER) devem ser ser levados em conta para aferir a sucumbência das partes e arbitrar a verba honorária, em consonância com o princípio da causalidade e as regras do Código de Processo Civil aplicáveis (art. 20 do CPC de 1973 ou art.85 do CPC de 2015).
+3. Não decorrendo o reconhecimento do direito ao benefício unicamente da reafirmação da data de entrada do requerimento, os honorários advocatícios devem ser fixados de acordo com o conjunto da postulação e as circunstâncias do caso concreto.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts.17, 240 e 485, VI, doCPC/2015; 49, I, "b" e II e 54 da Lei 8.213/1991.Afirma ainda que odecisumdiverge da tese fixada pelo STJ no REsp 1.727.063/SP, julgado sob a sistemática dos recursos repetitivos.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.10.2022.
+Preliminarmente, constato não se configurar a violação ao art. 1.022 do Código de Processo Civil. O Tribunal a quo examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia. Portanto, não cabe falar em negativa de prestação jurisdicional.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a modificação do julgado, asseverando que o colegiado originário não se pronunciou sobre o tema ventilado nos aclaratórios. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, sem quaisquer dos vícios previstos no aludido dispositivo legal.
+Vale destacar que o simples inconformismo da parte não tem a propriedade de tornar cabíveis os Embargos de Declaratórios, que servem ao aprimoramento da decisão, mas não à sua reforma, só muito excepcionalmente admitida.
+No mérito, a irresignação merece prosperar.
+Com referência a eventual ausência de interesse de agir, não verifico tal ocorrência. O pedido de reafirmação da DER(Data de Entrada do Requerimento administrativo) por si já configura o interesse da parte. Argumentação contrárianão encontra acolhimento.
+No tocante à pretensão em reafirmar a DER, o fato superveniente a ser considerado pelo julgador deve guardar pertinência com a causa de pedir e o pedido constantes na petição inicial, não servindo de fundamento para alterar os limites da demanda fixados após a estabilização da relação jurídico-processual.
+A reafirmação da DER é fenômeno típico do direito previdenciário e também do direito processual civil previdenciário. Ocorre quando se reconhece o benefício por fato superveniente ao requerimento, fixando-se a data de início do benefício para o momento do adimplemento dos requisitos legais do benefício previdenciário.
+O STJ firmou a tese representativa da controvérsia de que é possível a reafirmação da DER para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir. Confiram-se os Recursos Especiais Repetitivos 1.727.064, 1.727.063, 1.727.069, julgados pela Primeira Seção em 23.10.2019, publicados no DJe de 2/12/2019.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA ESPECIAL. CÔMPUTO DE TEMPO ESPECIAL. REAFIRMAÇÃO DA DER. EFEITOS FINANCEIROS. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ, o qual dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No caso de reafirmação da DER para momento anterior ao ajuizamento da ação, não há que se falar em pagamento de valores retroativos ao ajuizamento da ação.
+3. Agravo interno não provido.
+(AgInt no REsp 1.865.542/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 11/12/2020)
+No caso concreto, a Corte regionaldissentiu dessa orientação. Em observância a precedentes desta Corte Superior, nos casosde pedido de reafirmação da DER para período posterior à decisão finaldo processo administrativo e anterior ao ajuizamento da ação, o marco inicial para a concessão do benefício se dá com a citação da autarquia previdenciária.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO. PRIMEIROS EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITO MODIFICATIVO. SEGUNDOS EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir. Tese firmada em recurso especial repetitivo.
+2. A assertiva de que não são devidas parcelas anteriores ao ajuizamento da ação reforça o entendimento firmado de que o termo inicial para pagamento do benefício corresponde ao momento processual em que reconhecidos os requisitos do benefício. Se preenchidos os requisitos antes do ajuizamento da ação, não ocorrerá a reafirmação da DER, fenômeno que instrumentaliza o processo previdenciário de modo a garantir sua duração razoável, tratando-se de prestação jurisdicional de natureza fundamental.
+3. Tema referente ao surgimento da mora devidamente esclarecido no acórdão embargado.
+4. Embargos de declaração de Antonio Carlos Bressam rejeitados.
+(EDCL nos EDCL no REsp 1.727.063/SP, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 4/9/2020)
+Ante o exposto, dou provimento ao Recurso Especialpara fixar o termo inicial do benefício na data da citação do INSS.
+Publique-se.
+Intimem-se.
