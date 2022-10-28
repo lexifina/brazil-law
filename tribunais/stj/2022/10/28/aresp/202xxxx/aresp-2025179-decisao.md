@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por OI MÓVEL S.A. (TELEMAR NORTE LESTE S/A) -em recuperação judicial - contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"CIVIL E CONSUMIDOR. AÇÃO CIVIL PÚBLICA. . EMENTA:PRELIMINARESREJEIÇÃO. PERDA SUPERVENIENTE DE AGIR DA PARTE AUTORA. INOCORRÊNCIA. ARGUMENTOS QUE REMETEM À SITUAÇÕES FUTURASQUE NÃO ALCANÇAM A PRESENTE QUESTÃO. INCOMPETÊNCIA DAJUSTIÇA ESTADUAL. INOCORRÊNCIA. PRESCINDIBILIDADE DAPARTICIPAÇÃO DA ANATEL NA LIDE. REPERCUSSÃO DOS EFEITOSDECISÓRIOS QUE ATINGEM APENAS A DEMANDADA. ILEGITIMIDADEATIVA DO MINISTÉRIO PÚBLICO. INOCORRÊNCIA. OBJETOAD CAUSAMDA DEMANDA QUE ENVOLVE INTERESSES TRANSINDIVIDUAIS. . MÉRITOMULTA ASTREINTE. IMPOSSIBILIDADE DA REDUÇÃO DO VALOR FIXADO,QUE ATENDE AOS PARÂMETROS DA PROPORCIONALIDADE E DARAZOABILIDADE. LIMITAÇÃO. VIABILIDADE. NECESSIDADE PARA NÃOEXTRAPOLAR A RAZOABILIDADE E A PROPORCIONALIDADE. CONTRATODE PRESTAÇÃO DE SERVIÇO DE TELEFONIA MÓVEL. CLÁUSULA QUEPREVÊ A OBRIGAÇÃO DO CONSUMIDOR PAGAR MULTA NA HIPÓTESERESCISÃO DO CONTRATO POR MOTIVO DE FURTO OU ROUBO DOAPARELHO CELULAR. ABUSIVIDADE. DESVANTAGEM EXCESSIVA PARAO CONSUMIDOR. RESTITUIÇÃO. VIABILIDADE. CONSEQUÊNCIA LÓGICA. DANO MORAL COLETIVO. VIABILIDADE. . GRAVE LESÃO. IN RE IPSADUPLA PUNIÇÃO POR RAZÕES ALHEIAS A SUA VONTADE. CONHECIMENTO E PARCIAL PROVIMENTO DOS RECURSOS. PRECEDENTES" (fl. 1.789, e-STJ).
+Os embargos declaratórios foram rejeitados (fl. 1.841, e-STJ).
+No recurso especial, a recorrente alega, além de dissídio jurisprudencial, violação dos arts. 1.022, 489 493e 537 do Código de Processo Civil de 2015.
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+O MPF opinou pelo provimento do agravo para não conhecer do recurso especial (fls. 1.982-1.987, e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Inicialmente, observa-se que, no caso em apreço, as questões trazidas aos autos foram devidamente analisadas e discutidas, e fundamentado corretamente o aresto impugnado, de modo a exaurir a prestação jurisdicional, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+Ademais, quanto às astreintes fixadas na origem e o dano moral coletivo, registra-se, por oportuno, a fundamentação do aresto estadual:
+"(..)
+Quanto a pretensão à redução do valor da multa astreinte fixada neste caso, mister ressaltar que a imposição de multa constitui técnica válida de tutela coercitiva para forçar o cumprimento das decisões judiciais e está devidamente prevista no art. 537 do CPC/2015, bem como que, para a hipótese em questão, o valor da multa diária aplicada no importe de R$ 5.000,00 (cinco mil reais) atende aos parâmetros da proporcionalidade e da razoabilidade.
+Todavia, depreende-se que essa multa deve ser fixada de forma moderada, razoável e proporcional às circunstâncias do caso concreto, sendo possível ao juiz, inclusive de ofício, modificar a periodicidade ou o valor da multa astreinte quando esta se torna insuficiente ou excessiva.
+(..)
+Destarte, verifica-se a necessidade dessa multa diária ser limitada a um valor montante, para atender deforma satisfatória aos princípios da razoabilidade e da proporcionalidade.
+(..)
+Quanto à pretensão autoral à condenação da demandada ao pagamento de indenização a título de dano moral coletivo, segundo entendimento do STJ, esta espécie de dano atinge interesse não patrimonial de classe específica ou não de pessoas, causando afronta ao sentimento geral dos titulares da relação jurídica-base (REsp 1197654/MG, Relator Ministro Herman Benjamin, Segunda Turma, julgado em.1º.03.2011)
+Ademais, é importante esclarecer que este se opera , in re ipsa"contudo, sua configuração somente ocorrerá quando a conduta antijurídica afetar, intoleravelmente, os valores e interesses coletivos fundamentais, mediante conduta maculada de grave lesão, para que o instituto não seja tratado de forma trivial, notadamente em decorrência da sua repercussão social."
+(..)
+Nesse contexto, fazer constar em contrato de prestação de serviço de telefonia móvel cláusula penal prevendo que na hipótese do consumidor ter o seu aparelho telefônico furtado ou roubado a avença será rescindida e este deverá pagar multa, revela conduta antijurídica da prestadora de serviços, porque coloca o consumidor em desvantagem excessiva.
+Outrossim, causa grave lesão ao consumidor, que além de sofrer o crime de furto ou roubo do seu aparelho celular terá de arcar com o pagamento de multa por este motivo, sendo duplamente penalizado por razões alheias a sua vontade.
+Por conseguinte, conferida a existência do dever de indenizar, resta analisar a questão relacionada com o indenizatório arbitrado. quantum
+Em se tratando de danos morais o arbitramento deve considerar o caráter repressivo-pedagógico da reparação, a fim de proporcionar à vítima a satisfação da sua pretensão sem conferir-lhe enriquecimento sem causa, bem como que o valor da indenização deve ser arbitrado em observância à posição social da parte ofendida e à capacidade econômica do causador do dano, devendo representar quantia que desestimule a reincidência da prática dolosa.
+Nessa perspectiva, sopesando esses aspectos, bem como observados os parâmetros da proporcionalidade e da razoabilidade, a condição sócio econômica das partes envolvidas, confiando que a demandada deixou de praticar esse tipo de cláusula penal, depreende-se que o importe de R$ 50.000,00 (cinquenta mil reais),se mostra suficiente à reparação do dano causado, sem causar enriquecimento ao ofendido e disciplinando a questão"(fls. 1.795-1.800, e-STJ-grifou-se).
+Nesse contexto, não é possível a este Tribunal Superior apreciar o entendimento exarado na origem, porquanto teria que, necessariamente, rever o contexto fático-probatório dos autos, procedimento inviável nesta via extraordinária, consoante disposto na Súmula nº 7/STJ.
+Anota-se, ainda, que a aplicação do enunciado nº 7 da Súmula do STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para negar provimento aorecurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dezpor cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 12% (dozepor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça.
+Publique-se.
+Intimem-se.
