@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de reclamação formulada por EDUARDO PROCÓPIO VARGAS SNTOScontra decisão proferida pelo JUIZADO ESPECIAL DA FAZENDA PÚBLICA DA COMARCA DE CATAGUASES (MG) no Processo n. 5004062-55.2021.8.13.0153, que determinou a emenda à inicial, sob pena de extinção do processo, parainclusão da União no polo passivo da demanda.
+Na instância originária, assim foi decidido (fls. 181-189):
+O Estado de Minas Gerais aduziu que a medicação pleiteada não é disponibilizada pelo SUS, que fornece outros medicamentos eficazes para a moléstia. Asseverou que a RENAME é confeccionada em observância à medicina baseada em evidências e não há provas de que o remédio pleiteado pela parte autora tenha eficácia superior aos disponibilizados pelo SUS. Sustentou que o Estado não pode ser obrigado a fornecer todo e qualquer medicamento. Ao final, requereu a improcedência do pedido. Pois bem.
+ ..
+Contudo, a concessão de medicamentos pelo Estado não é desregrada, depende do preenchimento de alguns requisitos, sem os quais não é possível obrigar os entes públicos ao fornecimento. Se o medicamento não constar da lista do Sistema Único de Saúde, o Estado só terá o dever de fornecê-lo se os medicamentos da lista não tiverem eficácia no tratamento da moléstia.
+ ..
+No presente caso, em que pese o relatório médico de ID Num. 7052218038 - págs. 18-20 atestar que a parte autora necessita do medicamento Trayenta 5mg, 01 comprimido por dia, por tempo indeterminado, para tratamento de Diabetes mellitus - CID 10 E.10.5, entendo que não restou comprovada a ineficácia dos fármacos fornecidos pelo SUS, passível de afastamento do direito ao tratamento custeado pelo Município e Estado de Minas Gerais.
+Ademais, o medicamento pretendido pela parte autora não consta na Relação Nacional de Medicamentos Essenciais - RENAME 2020, ou seja, não foi incorporado nos protocolos e diretrizes terapêuticas do SUS, portanto, não há obrigatoriedade do fornecimento desta substância pelos entes públicos.
+Assim, entendo que cabia à parte autora comprovar a ineficácia dos medicamentos fornecidos pelo SUS, por se tratar de fato constitutivo de seu direito (art. 373, I, do CPC), o que não aconteceu no presente caso.
+ ..
+Ante o exposto e fundamentado, julgo improcedente o pedido formulado na inicial, com resolução do mérito, nos termos do artigo 487, inciso I, do Código de Processo Civil.
+A parte reclamante sustenta, em apertada síntese, que a conclusão do Juízo reclamado de responsabilidade da União no feito contrariou determinação expressa contida quando da admissão da Incidente de Assunção de Competência n. 14/STJ, em que foi estabelecido que "o Juiz estadual deverá abster-se de praticar qualquer ato judicial de declinação de competência nas ações que versem sobre tema idêntico ao destes autos, em atenção ao princípio da segurança jurídica".
+Nesse contexto, pugna pela concessão da liminar, a fim de que seja mantida a competência do juízo estadual.
+É, no essencial, o relatório.
+A reclamação prevista no art. 105, I, f, da Constituição Federal é garantia constitucional destinada à preservação da competência do Superior Tribunal de Justiça ou da autoridade de suas decisões em caso de descumprimento ou de cumprimento em desacordo com os limites do julgado aqui proferido.
+Contudo, o pleito não se enquadra em nenhuma das hipóteses de cabimento de reclamação, uma vez as suas razõesestão dissociadas do que foi decidido na decisão reclamada, porquanto não houve nenhuma determinação de inclusão da União no polo passivo, houve julgamento improcedente da demanda porque se entendeu que não foi comprovado que o uso da medicação requerida é a única forma de tratamento da patologia diagnosticada. Portanto, não houve impugnação específica dos fundamentos da decisão reclamada.
+Assim, inexistindo correlação entre a argumentação apresentada na reclamação e o que fora decidido na decisão reclamada, não há falar em admissibilidade da reclamação em análise, por ausência de pressuposto formal da ação considerando a caracterização da inépcia da petição inicial, nos termos do art. 330, § 1º, do CPC.
+Ante o exposto, indefiro liminarmente a reclamação.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
