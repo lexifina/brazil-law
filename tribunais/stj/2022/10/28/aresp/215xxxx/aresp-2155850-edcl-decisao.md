@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JORGE GUILHERME VALIM ALVES FILHO, à decisão de fls. 311/312, que não conheceu do recurso.
+Sustenta a parte embargante que:
+1. Entendeu a Nobre Ministra pelo não conhecimento do presente recurso sob o entendimento de que o ora Agravante não atendeu as determinações impostas pelo Código de Processo Civil, no que diz respeito a juntada aos autos de procuração e/ou substabelecimento conferindo poderes a este subscritor para o ingresso do agravo e do recurso especial.
+2. Considerando que conforme se verifica na íntegra o processo originário encaminhado pelo Tribunal de Justiça do Estado de São Paulo, através de seu presidente, autos de nº 1000835-41.2020.8.26.0625, a este Superior Tribunal de Justiça, restou acostado a procuração dando todos os poderes a este procurador para defender os interesses do Agravante em qualquer grau de jurisdição.
+3. Sendo assim, com a máxima vênia, o instrumento de procuração restou juntado pelo Agravante por este subscritor nos autos em epígrafe, preenchendo os requisitos necessários para a formação do recurso determinado por lei.
+4. Portanto, resta a este peticionário buscar através dos presentes embargos para que seja aclarado a existência de procuração nos presentes autos, com o consequente julgamento do mérito do recurso interposto (fl. 314).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a parte recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Rodrigo Canineo Amador Bueno.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo codex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76 do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que se quedou inerte.
+Outrossim, não procede o alegado pela parte embargante de que a procuração encontra-se nos autos. Inclusive, folheando o mesmo, verifica-se que à fl. 38 a parte também foi intimada para sanar o vício de representação, porém não o fez.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
