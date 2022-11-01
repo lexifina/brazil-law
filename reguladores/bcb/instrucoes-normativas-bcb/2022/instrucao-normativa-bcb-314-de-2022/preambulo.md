@@ -1,0 +1,4 @@
+INSTRUÇÃO NORMATIVA BCB Nº 314, DE 27 de OUTUBRO de 2022
+Altera o Manual do Sistema de Registro de Operações de Crédito com o Setor Público (Manual do Cadip), de que trata a Instrução Normativa BCB nº 296, de 22 de agosto de 2022, tendo em vista o disposto na Resolução CMN nº 5.041, de 20 de outubro de 2022.
+O Chefe do Departamento de Monitoramento do Sistema Financeiro (Desig), no uso das atribuições que lhe confere o art. 23, inciso I, alínea “a” do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, com base no art. 77, incisos III e IV, do referido Regimento, e tendo em vista o disposto nas Resoluções CMN nº 4.995, de 24 de março de 2022, e 5.041, de 20 de outubro de 2022, na Resolução BCB nº 196, de 9 de março de 2022, e na Instrução normativa BCB nº 296, de 22 de agosto de 2022,
+R E S O L V E :
