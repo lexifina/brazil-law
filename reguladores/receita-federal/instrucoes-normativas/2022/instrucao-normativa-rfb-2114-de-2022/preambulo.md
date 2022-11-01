@@ -1,0 +1,3 @@
+Instrução Normativa RFB nº 2114, de 31 de outubro de 2022
+Dispõe sobre a aplicação do benefício fiscal previsto no art. 4º da Lei nº 14.148, de 3 de maio de 2021, que instituiu o Programa Emergencial de Retomada do Setor de Eventos (Perse).
+O SECRETÁRIO ESPECIAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 350 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no art. 4º da Lei nº 14.148, de 3 de maio de 2021, e na Portaria ME nº 7.163, de 21 de junho de 2021, resolve:
