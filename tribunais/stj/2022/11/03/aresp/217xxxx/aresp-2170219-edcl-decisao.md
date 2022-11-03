@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargosde declaração opostos em face da decisão de fls. 2008/2016, e-STJ, por meio da qual neguei provimento ao agravo em recurso especial.
+A parte embargante, em suas razões, afirma que a decisãoembargadafoi contraditória ao determinar amajoraçãodoshonoráriosadvocatícios, na forma do art. 85, § 11, do Código de Processo Civil de 2015
+Sustenta que "ao analisar o acórdão proferido pelo E. TJSP, objeto deste recurso (e-STJ fls. 1.849/1.864), verifica-se que aquela C. Câmara já havia majorado a verba honorária para 15% (quinze por cento), a ser calculado sobre o valor atualizado da causa. Desse modo, ao majorar em 10% o valor já arbitrado pelo TJSP, o cômputo total da fixação de honorários da Decisão Embargada ultrapassa o limite legalestabelecido nos §§ 2º e 3 do art. 85, do CPC, sendo, portanto, contraditória ao próprio fundamento legal invocado".
+Assim delimitada a controvérsia, passo a decidir.
+De acordo com o artigo 1.022 do estatuto processual civil de 2015, cabe a oposição de embargos de declaração para: (i) esclarecer obscuridade ou eliminar contradição; (ii) suprir omissão de ponto ou questão sobre qual devia se pronunciar o juiz de ofício ou a requerimento; e (iii) corrigir erro material.
+No caso, a decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum, conforme se depreende de seu dispositivo, a seguir transcrito (e-STJ fl. 2016):
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Registro, por fim, não estar configurada a alegada contradição. Isso porque o dispositivo da decisão recorrida deixou claro que oshonoráriosforam majorados em 10% (dez por cento) sobre a quantia já arbitrada, e não em dez pontos percentuais, como sugerido pela parte.
+De qualquer forma, o próprio dispositivo impediu a exorbitação dos limites estabelecidos pelos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015 porque determinou, expressamente, a observância do teto fixado por tais parágrafos.
+Em face do exposto, ausentes os vícios alegados, rejeito os embargos de declaração.
