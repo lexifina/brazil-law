@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS ALVES DA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0081900-36.2019.8.19.0001).
+Consta dos autos que o paciente foi condenando, em concurso com outro corréu, como incurso nos arts. 33, caput, e 35, caput, ambos da Lei n. 11.343/2006, em concurso material, à pena de 8 anos de reclusão, em regime fechado. Irresignada, a defesa interpôs recurso de apelação, ao qual se deu parcial provimento, apenas para reconhecer a atenuante da confissão espontânea (e-STJ fls. 42/47).
+No presente mandamus, a defesa aduz, em um primeiro momento, que a Sexta Turma analisou caso idêntico, no julgamento do Habeas Corpus n. 739.951/RJ. Afirma, assim, que, na hipótese dos autos, a conduta não se adequa ao tipo penal de associação para o tráfico, porquanto ausente estabilidade e permanência.
+Pugna, assim, inclusive liminarmente, pela absolvição do paciente pelo crime de associação para o tráfico.
+É o relatório. Decido.
+De plano, verifico que foi impetrado anteriormente perante esta Corte Superior o Habeas Corpus n. 774.638/RJ, o qual possui a mesma impetrante e o mesmo paciente, além de possuir o mesmo pedido e impugnar o mesmo acórdão, revelando-se o presente mandamus, portanto, mera reiteração daquele. Dessarte, cuidando-se o presente writ de mera reiteração, não é possível lhe dar seguimento
+Nesse sentido:
+PEDIDO DE RECONSIDERAÇÃO EM HABEAS CORPUS. RECEBIMENTO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. MERA REITERAÇÃO DE HABEAS CORPUS CONEXO. WRIT INDEFERIDO LIMINARMENTE.1. O pedido de reconsideração apresentado pela defesa dentro do prazo legal deve ser recebido como agravo regimental, em homenagem ao princípio da fungibilidade das formas processuais.2. O presente mandamus possui as mesmas causas de pedir e pedido do HC 754.379/SP, verificando, assim, tratar-se de mera reiteração daquele habeas corpus.3. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento(RCD no HC n. 760.091/SP, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 4/10/2022, DJe de 7/10/2022).
+Pelo exposto, indefiro liminarmente o pedido.
+Publique-se.
