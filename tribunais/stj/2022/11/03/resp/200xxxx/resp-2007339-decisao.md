@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto peloSINOSSERRA FINANCEIRA S.A. - SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTOcom fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão doTribunal de Justiça do Estado do Rio Grande do Sul(Agravo de Instrumento n. 5200791-55.2021.8.21.7000), nos autos daação de busca apreensão.
+O julgado foi assim ementado (fl. 68):
+AGRAVO DE INSTRUMENTO. ALIENAÇÃO FIDUCIÁRIA. AÇÃO DE BUSCA E APREENSÃO. AUSÊNCIA DA NOTIFICAÇÃO VÁLIDA. MORA NÃO CONFIGURADA. EXTINÇÃO DA DEMANDA.
+A PROVA DA MORA É IMPRESCINDÍVEL À BUSCA E APREENSÃO (SÚMULA 72, STJ), E DEVE DAR-SE VIA CARTA COM AVISO DERECEBIMENTO, NA FORMA DO ARTIGO 2º, § 2º, DO DL 911/69, COM NOVA REDAÇÃO DADA PELA LEI Nº 13.043/14. NOTIFICAÇÃO NÃO ENTREGUE NO ENDEREÇO DO DEVEDOR INDICADO NO CONTRATO, AUSÊNCIA DE CONSTITUIÇÃO VÁLIDA EM MORA.
+O PROTESTO DE CÉDULA DE CRÉDITO BANCÁRIO PODERÁ SER REALIZADO, À ESCOLHA DO CREDOR, NO TABELIONATO EM QUE SE SITUA A PRAÇA DE PAGAMENTO INDICADA NO TÍTULO OU NO DOMICÍLIO DO DEVEDOR. AUSENTE PROVA NOS AUTOS DE QUE O CREDOR TERIA ESGOTADO TODOS OS MEIOS A FIM DE LOCALIZAR O DEVEDOR ANTES DE PROCEDER NO PROTESTO VIA EDITAL. PRECEDENTES.
+NO QUE SE REFERE À INSCRIÇÃO EM ÓRGÃOS RESTRITIVOS DECRÉDITO, O RECURSO NÃO DEVE SER CONHECIDO, POIS AUSENTEM EXAME DA DECISÃO AGRAVADA NESSE SENTIDO. A FIM DE EVITAR ASUPRESSÃO DE GRAU DE JURISDIÇÃO, TORNA-SE INVIÁVELSUA ANÁLISE POR ESTE TRIBUNAL.
+AÇÃO DE BUSCA E APREENSÃO EXTINTA, DE OFÍCIO, SEM RESOLUÇÃO DE MÉRITO. AGRAVO DE INSTRUMENTO CONHECIDOEM PARTE E, NA PARTE CONHECIDA, PROVIDO.
+Nas razões do recurso especial, a parte recorrente aponta ofensa aos arts. 2º, § 2º, e 3º, § 3º,do Decreto-Lei n. 911/1969; e art. 15 da Lei n. 9.492/1997,além de divergência jurisprudencial.
+Alega serdescabida a apresentação de contestação na fase processual da ação de busca e apreensão originária.
+Aduz que o Tema n. 1.040 julgado pelo STJ em caráter repetitivo negou a possibilidade de o fiduciante contestar a ação, sem o devido cumprimento da liminar (fl. 79). Afirma ainda quea nulidade da notificação e/ou do protesto não foi objeto do agravo interposto pela recorrida.
+Sustenta que oacórdão paradigma possuíentendimento diverso do acórdão recorrido, que não reconheceu a constituição da mora, poisa notificação retornou com a informação de não procurado, embora os atos tenham sido diligenciados no endereço do contrato.
+Defende queo envio da notificação ao endereço do contrato já preenche os requisitos à propositura da ação, sendo o protesto realizado como outra tentativa para localizar a devedora.
+Requer o provimento do recurso para declarar a nulidade da decisão agravada, pois a notificação e o protesto não foram objeto do agravo, sendo incabível, a apresentação de contestação antes da execução da liminar, subsidiariamente a desconstituição do acórdão recorrido com regular prosseguimento do feito.
+As contrarrazões foram apresentadas às fls. 145-149.
+Admitido o apelo extremo (fls. 133-137), os autos ascenderam ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso não reúne condições de prosperar.
+I - Constituição em mora
+Insurge-se o recorrente contra a extinção da ação de busca e apreensão por ausência de comprovação da mora do devedor fiduciante.
+A respeito da constituição em mora do devedor,nas hipóteses de alienação fiduciária, a Segunda Seção do Superior Tribunal de Justiça fixou entendimento no sentido de quea mora deve ser comprovada por meio de notificação extrajudicial expedida por cartório de títulos e documentos e entregue no domicílio do devedor, sendo dispensada a notificação pessoal (AgInt no REsp n. 1.978.852/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 31/8/2022 e AgInt no REsp n. 1.956.179/RS, relator Ministro Raul Araújo, Quarta Turma, julgado em 8/8/2022, DJe de 26/8/2022).
+Por sua vez, estaCorte já sedimentou entendimento no sentido de que é possível a comprovação da mora na ação de busca e apreensão por intermédio do protesto do título por edital, desde que esgotados todos os meios de localização do devedor (AgRg no AREsp n. 818.244/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 9/8/2016, DJe de 16/8/2016; AgInt no AREsp n. 877.490/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 23/6/2016,DJe de 1/7/2016; e AgRg no AREsp n. 484.535/RS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 5/3/2015, DJe de 12/3/2015).
+No caso, o Tribunal local extinguiu a ação de busca e apreensão,ao fundamento de não ter sido demonstrada a regular constituição da devedora em mora, uma vez quea remessa da notificação retornou pelo motivo "não procurado".Assim, procedeu o recorrente ao protestoda cédula de crédito, a qual consta a intimação da devedora pelo meio editalício.Todavia, verificou-se que não foram exauridas as formas de localização darecorridaantes do protesto por edital.Confira-se (fl. 66, destaquei).
+Porém, no presente caso, o autor quando do ajuizamento da ação de busca e apreensão, juntou a remessa da notificação ao endereço da devedora, sendo que a mesma retornou com a informação de "não procurado" (evento 1 - doc. 11). Após, procedeu ao protesto da cédula de crédito, onde consta que a intimação da devedora se procedeu pelo meio editalício (evento 1 -documentos 13 e 14).
+Nessa senda, mostra-se inválido o protesto, uma vez que ausente prova nos autos de que teriam se esgotado todos os meios a fim de localizar a devedora antes de proceder no protesto via edital.
+Desse modo, oentendimento adotado no acórdão recorrido está em conformidade com a jurisprudência do STJ, razão pela qual aplica-se a Súmula n. 83 do STJ.
+Outrossim, para aferir eventual inexistência do esgotamento dos meios necessários para a notificação pessoal edital do devedor, seria necessário reexaminar o conjunto fático-probatório dos autos, procedimento vedado na via do recurso especial (Súmula n. 7 do STJ).
+II - Violaçãodo art.3º, § 3º, do Decreto-Lei n. 911/1969.
+A respeito das questões referentes ao artigo supracitado, notadamente sobre as alegaçõesatinentes à possibilidade deapresentação de contestação na fase processual da ação de busca e apreensão originária, além da notificação não ter sido objeto de impugnaçãodadevedora,verifica-se quenão foram objeto de debate no acórdão recorrido,nem mesmo foram opostos embargos de declaração para provocar o colegiado a manifestar-se a respeito dotema.
+Caso, pois, de aplicação da Súmula n. 282 do STF.
+III - Conclusão
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2ºdo referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
