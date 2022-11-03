@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de conflito positivo por iniciativa do Juízo de Direito da Vara Cível de Sertanópolis, PR, que conduz a recuperação judicial das empresas arroladas na autuação, sem pleito concernente à designação de Juízo provisório competente para medidas urgentes, com notícia de penhoras realizadas sobre créditos tributários que compõem o patrimônio do Terminal Itiquira S.A., que posteriormente incidiu sobre créditos decorrentes de "..alguns contratos firmados entre o Grupo SEARA e o GRUPO RUMO" (fl. 24).
+Processado o incidente sem o deferimento de liminar, foram solicitadas informações às autoridades judiciárias que presidem as execuções de títulos extrajudiciais e determinada a intimação dos interessados (fls. 39/40).
+Inicialmente, SEARA noticia a perda de objeto ante a revogação das medidas constritivas pelos Juízos paulistanos, ou a suspensão do conflito ante a interposição de recurso por Across recuperação de Créditos Ltda. (fl. 49).
+O Juízo da 27ª Vara Cível do Foro Central Cível da capital paulista se manifesta às fls. 57/61, argumentando que o Juízo da Recuperação Judicial foi instado previamente, mas não indicou bens não essenciais, de maneira que penhorou percentual do faturamento, depois os créditos tributários e mais tarde aquele mencionado na inicial, porém revogou a medida em virtude da tardia e sucessiva oposição pelo Juízo recuperacional.
+Na mesma toada, o Juízo da 5ª Vara Cível do Foro Central Cível de São Paulo, SP, também noticia a revogação do ato constritivo pelo mesmo motivo (fls. 135/139).
+SEARA Indústria e Comércio de Produtos Agropecuários Ltda. e outros integrantes do Grupo Seara - em recuperação judicial, reitera a alegação de perda de objeto pela reconsideração das penhoras, da qual apenas Across de rebelou, arguindo que cabe com exclusividade ao Juízo da recuperação definir a essencialidade dos bens à recuperação, atento ao princípio de preservação das empresas, de acordo com a jurisprudência pacífica do STJ a respeito (fls. 165/170).
+Intimado, Banco Caixa Geral - Brasil S.A. não se pronunciou (cf. certidões de fls. 172 e 173).
+Across Recuperação de Crédito Ltda. aduz que o stay period já foi ultrapassado, somente sendo possível ao Juízo recuperacional se manifestar sobre a essencialidade de bens de capitais enquanto perdure, porém nem é esse o caso dos autos, pois o crédito e o numerário assim não se qualificam, conforme decidido pela Terceira Turma no REasp 1.758.746/GO (rel. Ministro Marco Aurélio Bellizze) e REsp 1.991.989 (Rel. Ministra Nancy Andrighi), não podendo estancar atos executivos de créditos extraconcursais, pois o que está em execução é contrato de adiantamento de crédito.
+Acrescenta que tal matéria está preclusa porque o próprio Juízo suscitante decidiu nesse sentido nos autos da recuperação judicial.
+Parecer do Ministério Público Federal às fls. 191/199 opinando pelo conhecimento do conflito, com declaração da competência doJuízo da recuperação judicial.
+Assim delimitada a questão, passo a decidir.
+Segundo se extrai das informações prestadas pelas autoridades judiciárias suscitadas (fls. 60 e 138), não persiste eventual situação de invasão de competência praticada pelos Juízos de Direito da 5ª e da 27ª Varas Cíveis do Foro Central Cível da capital paulista porque ambos noticiaram a revogação dos atos constritivos que ensejaram a propositura do presente conflito.
+Com efeito, o cabimento do conflito depende da controvérsia ente órgãos judiciais sobre a competência ou incompetência para o julgamento de processos ou sobre a reunião ou separação destes.
+A situação descrita acima retira do incidente pressuposto fundamental, que é o dissenso entre os órgãos julgadores. Nesse sentido, precedentes da Segunda Seção:
+AGRAVO REGIMENTAL EM CONFLITO DE COMPETÊNCIA. INEXISTÊNCIA DE CONFLITO. ART. 115 DO CPC. RECLAMAÇÃO. INADEQUAÇÃO.
+I - A existência de conflito de competência pressupõe a divergência de opiniões de Juízos distintos acerca da competência para a apreciação e julgamento de determinado feito. Inocorrência, na espécie.
+II - Não se admite a cumulação, no mesmo processo, de conflito de competência e reclamação constitucional. Precedentes.
+III - A reclamação não é via adequada para impugnar decisão singular de magistrado de primeira instância sob o fundamento de que a jurisprudência do STJ e dos demais Tribunais pátrios esteja sendo vilipendiada. Precedentes.
+Nego provimento ao agravo regimental e não conheço da reclamação agitada.
+(AgRg no AgRg no CC 105.634/BA, Rel. Ministro PAULO FURTADO (Desembargador convocado do TJBA), unânime, DJe de 10.9.2009)
+CONFLITO POSITIVO DE COMPETÊNCIA. DECISÕES DE JUÍZOS DIVERSOS EM CONFRONTO. NÃO-CONFIGURAÇÃO.
+1. Só há conflito positivo de competência quando dois ou mais juízes se considerem competentes para o julgamento duma mesma causa. O confronto de decisões prolatadas por Juízos diversos em causas distintas não configura conflito de competência na forma do Art. 115 do CPC. Tal choque deve resolver-se mediante os meios recursais próprios.
+2. Conflito não-conhecido.
+(CC 41.729/AM, Rel. Ministro HUMBERTO GOMES DE BARROS, unânime, DJU de 7.6.2004)
+CONFLITO DE COMPETÊNCIA SUSCITADO PELA PARTE. INEXISTÊNCIA. SE OS JUÍZES (NO CASO, ESTADUAL E FEDERAL), HAVIDOS EM CONFLITO, AINDA NÃO SE MANIFESTARAM, AMBOS, COMPETENTES OU INCOMPETENTES, E SE ENTRE ELES AINDA NÃO SURGIU CONTROVÉRSIA ACERCA DA REUNIÃO OU SEPARAÇÃO DE PROCESSOS, O CONFLITO NÃO EXISTE, PORQUE NÃO VERIFICADA NO MOMENTO, UMA DAS HIPÓTESES DO ART. 115 DO COD. CIVIL. CONFLITO DE QUE A SEÇÃO DEIXOU DE CONHECER.
+(CC 2.905/PE, Rel. Ministro NILSON NAVES, unânime, DJU de 14.6.1993)
+Calha consignar que não é possível o deferimento de tutela que se estenda por todo o período de processamento da execução ou da recuperação judicial, devendo ser apreciadas caso-a-caso possíveis situações que possam configurar conflito de competência e, muito menos, a extensão erga omnes dos efeitos da tutela de urgência.
+Em face do exposto, declaro prejudicado o presente conflito de competência em razão da perda de objeto.
+Comunique-se. Intimem-se.
