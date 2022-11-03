@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial apresentado por Maria Aparecida Soares Serafim, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (e-STJ, fl. 169):
+AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. JULGAMENTO SIMULTÂNEO. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. REJEITADA. MÉRITO. PROBABILIDADE DIREITO. EXISTENTE. RECURSO CONHECIDO E NÃO PROVIDO. AGRAVO INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. MEDICAMENTO. ROL ANS. NÃO PREVISTO. FORNECIMENTO PELA OPERADORA. NÃO OBRIGATORIEDADE. RECURSO CONHECIDO E PROVIDO.
+DECISÃO REFORMADA.
+1. Não há ausência de fundamentação específica quando existe plena correlação entre os argumentos apresentados pela agravante e a decisão recorrida, em atenção ao princípio da dialeticidade. Preliminar rejeitada. Agravo Interno conhecido.
+2. A concessão do efeito suspensivo ao recurso resta condicionada à existência de risco de lesão grave proveniente da decisão interlocutória agravada e à relevância da fundamentação deduzida.
+2.1. No caso dos autos, há probabilidade do direito alegado pela ré, mostrando-se devida concessão do efeito suspensivo ao agravo de instrumento. Agravo Interno não provido.
+3. A relação jurídica em análise não está regida pela legislação consumerista, nos termos da Súmula 608 do Superior Tribunal de Justiça: "Aplica-se o Código de Defesa do Consumidor aos contratos de plano de saúde, salvo os administrados por entidades de autogestão." (Súmula 608, SEGUNDA SEÇÃO, julgado em 11/04/2018, DJe 17/04/2018) 4. Aplica-se ao presente caso a Lei nº 9.656/98 que dispõe sobre os planos e seguros privados de saúde e as normas estabelecidas pela Agência Nacional de Saúde Suplementar.
+5. A Lei nº 9.656/98, ao tratar sobre os planos e seguros privados de assistência à saúde, ao estabelecer o plano-referência prevê a competência da Agência Nacional de Saúde Suplementar para definir a amplitude das coberturas (art. 10, §4º).
+5.1. Assim, a Agência Nacional de Saúde Suplementar editou Resolução Normativa nº 465/2021 que estabelece a taxatividade do Rol de Procedimentos e Eventos em Saúde (art. 2º). Precedente STJ.
+5.2. No caso dos autos, ausente a previsão no rol de procedimentos da Agência Nacional de Saúde Suplementar, legítima a recusa do fornecimento de medicamento.
+6. Preliminar de ausência de impugnação específica rejeitada. Agravo interno conhecido e não provido.
+Decisão mantida.
+7. Agravo de Instrumento conhecido e provido. Decisão revogada.
+Nas razões do recurso especial (e-STJ, fls. 355-382), a recorrente alega divergência jurisprudencial e violação aos arts. 10 e da Lei n. 9.656/1998; e 4º e 51 doCDC; e 421 e 425 do CC.
+Defende que "a ausência de previsão do medicamento Keytruda (princípio ativo pembrolizumab) no rol da ANS e no contrato não afasta a obrigação legal do custeio de tratamento, desde que haja prescrição médica e o medicamento tenha autorização de uso da ANVISA" (e-STJ, fl. 213).
+Ressalta que a Segunda Seção do STJ, no julgamento dos EREsp.1.886.929 e 1.889.704, não considerou exaustivo o rol da ANS, mas somente fixou a taxatividade como regra, admitindo-se exceções, dentre as quais se amolda a situação posta a julgamento.
+Contrarrazões apresentadas às fls. 232-236(e-STJ).
+O Tribunal de origem admitiu o processamento do recurso especial, ascendendo os autos a esta Corte Superior (e-STJ, fls. 239-240).
+Brevemente relatado, decido.
+Da análise do acórdão recorrido, constata-se que o Tribunal local concluiu que o rol de Procedimentos e Eventos em Saúde da ANS é meramente exemplificativo, sendo descabida a negativa da operadora recorrente de cobertura a tratamento indicado pelo médico da parte autora pelo simples fato de não estar inserido no rol da ANS.
+Entretanto, de acordo com o recente entendimento firmado na Segunda Seção do STJ, o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgados em 8/6/2022, DJe de 3/8/2022).
+Por ocasião do julgamento dos mencionados embargos de divergência, o Órgão Colegiado estabeleceu os seguintes parâmetros, os quais devem ser observados no julgamento do caso concreto:
+1- o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que:
+(i) não tenha sido indeferida expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar;
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências;
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros;
+e (iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Todavia, constata-se que, no caso em análise, o julgamento dainstânciaordinárianão avançou para aferir o preenchimento dos requisitos acima elencados, limitando-se aconcluirpelo caráter taxativo do rol de procedimentos da autarquia reguladora.
+Desse modo, considerando a impossibilidade do reexame das cláusulas contratuais e dos demais elementos fático-probatórios, em virtude dos óbices das Súmulas 5 e 7 do STJ, necessário que os autos retornem à instância originária de modo a possibilitar o reexame dos elementos dos autos e da necessidade de produção de outras provas, a fim de que se realize novo julgamento à luz da tese firmada pela Segunda Seção desta Corte Superior.
+Registre-se, por fim, que a Lei n. 14.307, de 3/3/2022, foi expressano sentido de que as coberturas de tratamentos antineoplásicos de uso oral são de cobertura obrigatória nos planos ambulatoriais e de internação hospitalar, conforme prescrição médica, desde que os medicamentos utilizados estejam registrados perante a ANVISA, com uso terapêutico aprovado para essas finalidades e sujeito ao processo administrativo de atualização do rol.
+Ante o exposto, dou provimento ao recurso especial para, cassando o acórdão recorrido, determinar o retorno dos autos à instância originária a fim de que, em novo exame dos autos, avalie o preenchimento dos requisitos para o deferimento excepcional da cobertura reivindicada pela parte segurada, tal como delineados pela Segunda Seção do STJ, julgando o pedidocomo entender de direito.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. TRATAMENTO NÃO LISTADO NO ROL DA ANS. APLICAÇÃO DE PRECEDENTE DA SEGUNDA SEÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. NECESSIDADE DE RETORNO DOS AUTOS AO JUÍZO DE ORIGEM. RECURSO ESPECIALPROVIDO.
