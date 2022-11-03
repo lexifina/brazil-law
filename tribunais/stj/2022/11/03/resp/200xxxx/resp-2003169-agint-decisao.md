@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo Município de Natal, desafiando decisão de fls. 2.560/2.563, que deu provimento ao recurso da Fazenda Nacional para anular o acórdão que apreciou os embargos de declaração, determinando o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento da questão omitida.
+A parte agravante, em suas razões, sustenta, em síntese, que "Nobres Ministros, sobre as "argumentações que se mostram relevantes para o deslinde da controvérsia", especificamente sobre as supostas inconsistências constantes do laudo pericial e apontadas pela União em sede de Apelação, a Corte a quo já havia se manifestado expressamente. No ponto, o Juízo de Segundo Grau apontou que as provas produzidas em juízo foram suficientes para afastar a presunção de legitimidade do ato administrativo, uma vez que a sentença estava devidamente fundamentada em prova pericial robusta. Vejamos mais especificamente o trecho do acórdão recorrido:  .. Ademais, ao argumentar pelo caráter genérico do laudo pericial proferido nos autos como questão relevante para o deslinde da matéria, o que a Fazenda Nacional busca - em verdade - é rever se a perícia seria ou não genérica, reinaugurando, para tanto, nova análise de todo o acervo probatório dos autos!" (fls. 2.568/2.569).
+Aberta vista à parte agravada, decorreu in albis o prazo para apresentação de impugnação (fl. 2.577).
+É O BREVE RELATO.
+Melhor compulsando os autos, em atenção ao princípio da não surpresa e ante as razões expendidas no presente agravo interno, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, do CPC e 259, § 3º, do RISTJ, de rigor a reconsideração da decisão agravada.
+ANTE O EXPOSTO, reconsidero a decisão de fls. 2.565/2.571, tornando-a sem efeito.
+Após, voltem-me os autos conclusos para novo e oportuno exame do recurso especial da parte agravada.
+Publique-se.
