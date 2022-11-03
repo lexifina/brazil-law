@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, interposto porCLERISTON BUENO SALVADOR, em face do v. acórdão proferido pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIAnos autos da Apelação Criminal n. 0002523-44.2008.8.05.01130, de fls. 301-308, assim ementado:
+"APELAÇÃO CRIMINAL. PROCESSUAL PENAL. ROUBO MAJORADO. SENTENÇA ABSOLUTÓRIA. INCONFORMISMO DO MINISTÉRIO PÚBLICO. INDEFERIMENTO DA PRODUÇÃO DE PROVA ORAL DA ACUSAÇÃO. NULIDADE. RECONHECIMENTO. AUSÊNCIA DE PREVISÃOLEGAL. PREJUÍZO. CERCEAMENTO DO DIREITO DA ACUSAÇÃO.VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. ANULAÇÃO QUE SE IMPÕE.APELO PROVIDO.
+1.Recorrido absolvido da prática do crime previsto no art. 157, § 2º, I e II, do Código Penal, com fulcro no art. 386, V, do Código de Processo Penal.
+2. O Ministério Público em diversas oportunidades manifestou expressamente interesse na oitiva da testemunha W. S. A.
+3. Apesar de ter desistido da oitiva de W. S. A. no outroprocesso, constata-se que nestes autos, uma insistência do apelante na inquiriçã.
+4.Inexiste previsão legal para desistência implícita na produção de provas.
+5. Deve-se reconhecer o prejuízo causado à acusação, pois a inquirição da testemunha não foi realizada na fase judicial, sob o crivo do contraditório e da ampla defesa, mesmo sendo requerida, no momento que ofereceu a peça acusatória e em outras oportunidades.
+4. RECURSO PROVIDO, nos termos do parecer da Procuradoria de Justiça."
+No presente recurso ordinário, interposto com fundamento no Artigo 105, inciso II, alínea a,da Constituição Federal, se insurge contra oacórdão do TJBA, que proveu recurso de apelação do Parquet para anular a sentença absolutória, relativamente ao crime de roubo, imputado ao recorrente, e determinar a retomada da instrução criminal com a produção da prova oral requerida pela acusação.
+Nas razões recursais, a Defesa alega, em síntese,que o parquet desistiu da oitiva da testemunha Washington Almeida.
+Desta forma, oacórdão recorrido não poderia anular a sentença absolutória para restabelecer a produção da prova testemunhal.
+Requer, ao final, "recebimento e provimento ao presente recurso interposto para fim de que seja reformado o Acórdão e seja mantida a sentença de primeiro grau em sua integralidade, por ser medida de inteira justiça." (fl. 348).
+Não houve pedido liminar.
+Sem contrarrazões.
+O Ministério Público Federal, às fls. 376-378, manifestou-se pelo não conhecimento do recurso, em parecer com a seguinte ementa:
+"Recurso em habeas corpus. Roubo. Interposição de recurso ordinário em face de acórdão proferido em apelação e atacável por meio de recurso especial. Erro grosseiro. Não aplicação do princípio da fungibilidade recursal.
+Parecer pelo não conhecimento do recurso ordinário."
+É o relatório.
+Decido.
+De antemão, o recurso não merece ser conhecido, explico.
+Da interposição do RecursoOrdinário, a Defesa fez questão de mencionar que interpôs o recurso comfundamento no Art. 105, inciso II, alínea a,da Constituição Federal.
+Todavia, nos termos do art. 105, inciso II, alínea a, da Constituição Federal, tem-se que:
+"Art. 105. Compete ao Superior Tribunal de Justiça:
+ ..
+II - julgar, em recurso ordinário:
+a) os habeas corpus decididos em única ou última instância pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão for denegatória;
+Dessa forma, a interposição de recurso ordinário contra acórdão que deu provimento a apelação criminal interposta pela acusaçãonão se enquadra nahipóteseprevistano mencionado dispositivo constitucional.
+Com efeito, apesar do princípio da fungibilidade, assim como do entendimento de aceitação de impetração de habeas corpus substitutivo de recurso próprio para sanar ilegalidade flagrante; no entanto, a interposição de recurso ordinário contra acórdão de apelação, em detrimento de recurso especial, demonstra aocorrência de erro grosseiro e impede a aplicação do princípio da fungibilidade recursal.
+Nesse sentido, mutatis mutandis, decisões desta Corte:
+"AGRAVO REGIMENTAL. RECURSO ORDINÁRIO NÃO CONHECIDO. INTERPOSIÇÃO CONTRA ACÓRDÃO DO STJ PROFERIDO FORA DO ROL DO ART. 102, II, DA CF. NÃO CABIMENTO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO RECURSO ORDINÁRIO. PRECEDENTE DO STF.
+1. O Supremo Tribunal Federal tem decidido pela flexibilização do enunciado da Súmula 727/STF nos casos de recursos manifestamente incabíveis, permitindo aos tribunais que não encaminhem à Corte Maior recursos inegavelmente errôneos, sem que isso importe em usurpação de sua competência.
+2 A interposição de recurso ordinário contra acórdão que nega provimento a recurso ordinário em agravo em recurso especial não se enquadra em nenhuma das hipóteses taxativamente previstas no art. 102, inciso II, alínea "a", da Constituição Federal, a evidenciar a ocorrência de erro grosseiro, o que impede a aplicação do princípio da fungibilidade recursal e possibilita seja negado trânsito ao recurso pelo Superior Tribunal de Justiça.
+3. Agravo regimental não provido."(AgRg no RO no AgRg nos EDv nos EAREsp n. 1.520.355/RS,Corte Especial,Rel.Min.Maria Thereza de Assis Moura, julgado em 12/5/2020, DJe de 15/5/2020.)
+"AGRAVO REGIMENTAL. RECURSO ORDINÁRIO NÃO CONHECIDO. INTERPOSIÇÃO CONTRA ACÓRDÃO DO STJ PROFERIDO FORA DO ROL DO ART. 102, II, DA CF. NÃO CABIMENTO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INAPLICABILIDADE. MANUTENÇÃO DA DECISÃO QUE NÃO CONHECEU DO RECURSO ORDINÁRIO. PRECEDENTE DO STF.
+1. O Supremo Tribunal Federal tem decidido pela flexibilização do enunciado da Súmula 727/STF nos casos de recursos manifestamente incabíveis, permitindo aos tribunais que não encaminhem à Corte Maior recursos inegavelmente errôneos, sem que isso importe em usurpação de sua competência.
+2 A interposição de recurso ordinário contra acórdão que nega provimento a recurso ordinário em habeas corpus não se enquadra em nenhuma das hipóteses taxativamente previstas no art. 102, inciso II, alínea "a", da Constituição Federal, a evidenciar a ocorrência de erro grosseiro, o que impede a aplicação do princípio da fungibilidade recursal e possibilita seja negado trânsito ao recurso pelo Superior Tribunal de Justiça.
+3. Agravo interno não provido."(AgRg no RO no RHC n. 115.240/PR,Corte Especial,Rel.Min.João Otávio de Noronha, julgado em 4/3/2020, DJe de 9/3/2020.)
+No mesmo sentido, sobre o tema, confiram-se os seguintes julgados STF:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. CRIME DE HOMICÍDIO QUALIFICADO. ARTIGO 121, § 1º, I E IV, DO CÓDIGO PENAL. ALEGADA NULIDADE PROCESSUAL. RECURSO ORDINÁRIO INTERPOSTO EM FACE DE ACÓRDÃO PROFERIDO EM SEDE DE AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL PARA JULGAR HABEAS CORPUS: CRFB/88, ART. 102, I, D E I. ROL TAXATIVO DE COMPETÊNCIA DESTA SUPREMA CORTE. ATO ALHEIO À JURISDIÇÃO DO SUPREMO TRIBUNAL FEDERAL POR MEIO DE RECURSO ORDINÁRIO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. INAPLICABILIDADE. ESGOTAMENTO DE JURISDIÇÃO. REITERAÇÃO DAS RAZÕES. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. A competência originária do Supremo Tribunal Federal para conhecer e julgar habeas corpus está definida, exaustivamente, no artigo 102, inciso I, alíneas d e i , da Constituição da República, sendo certo que o paciente não está arrolado em qualquer das hipóteses sujeitas à jurisdição desta Corte 4. In casu, ressoa inequívoca a ausência de competência do Supremo Tribunal Federal para conhecer e julgar recurso ordinário em habeas corpus que repute como ato coator decisão do Superior Tribunal de Justiça em sede de agravo em recurso especial, mercê de inexistir pretensão veiculada em ação de habeas corpus e, tampouco, seu decisum ter sido proferido em única instância. Precedentes: Pet 5.609-AgR, Primeira Turma, Rel. Min. Marco Aurélio, DJe de 25/08/2015; e Pet 5.068-AgR, Segunda Turma, Rel. Min. Celso de Mello, DJe de 26/03/2014
+5. O habeas corpus é impassível de ser manejado como sucedâneo de recurso ou revisão criminal. 6. O erro grosseiro obsta a aplicação do postulado da fungibilidade recursal. Precedentes: Pet 5.951-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 01/06/2016; e RHC 123.002, Primeira Turma, Rel. Min. Rosa Weber, DJe de 28/10/2014. (..)
+9. Agravo regimental desprovido."(RHC 165393 AgR, Primeira Turma, Rel. Min. Luiz Fux, julgado em 15/03/2019, PROCESSO ELETRÔNICO DJe-060 DIVULG 26-03-2019 PUBLIC 27-03-2019)
+"RECURSO ORDINÁRIO CONSTITUCIONAL - DECISÃO DE NÃO CONHECIMENTO DE AGRAVO REGIMENTAL EM RECLAMAÇÃO - DESCABIMENTO - NEGATIVA DE SEGUIMENTO.
+As hipóteses de cabimento do ordinário estão insertas no artigo 102, inciso II, alíneas "a" e "b", da Constituição Federal de 1988. Descabimento de fungibilidade entre recursos, ante erro grosseiro." (Pet 5166 AgR, Primeira Turma,Rel.Min. Marco Aurélio, julgado em 04/08/2015, PROCESSO ELETRÔNICO DJe-166 DIVULG 24-08-2015 PUBLIC 25-08-2015)
+"RECURSO ORDINÁRIO" - IMPUGNAÇÃO DEDUZIDA CONTRA DECISÃO EMANADA DO E. SUPERIOR TRIBUNAL DE JUSTIÇA PROFERIDA EM SEDE DE AGRAVO EM RECURSO ESPECIAL - AUSÊNCIA DE COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL - RECURSO DE AGRAVO IMPROVIDO. A COMPETÊNCIA DO SUPREMO TRIBUNAL FEDERAL, CUJOS FUNDAMENTOS REPOUSAM NA CONSTITUIÇÃO D A REPÚBLICA, SUBMETE-SE A REGIME DE DIREITO ESTRITO. - A competência originária do Supremo Tribunal Federal, por qualificar-se como um complexo de atribuições jurisdicionais de extração essencialmente constitucional - e ante o regime de direito estrito a que se acha submetida -, não comporta a possibilidade de ser estendida a situações que extravasem os limites fixados, em "numerus clausus", pelo rol exaustivo inscrito no art. 102, I, da Constituição da República. Precedentes. (Pet 5068 AgR, Segunda Turma,Rel.Min. Celso de Mello, julgado em 11/03/2014, PROCESSO ELETRÔNICO DJe-059 DIVULG 25-03-2014 PUBLIC 26-03-2014)
+Nesse contexto, em se tratando de recurso manifestamente incabível, não merececonhecimento o presente recurso.
+Ante o exposto, não conheço do recurso ordinário em habeas corpus.
+P. I.
