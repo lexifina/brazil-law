@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso ordinário emhabeas corpus, com pedido liminar, interposto porMAXUEL SANTOS ALMEIDAcontra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIAno julgamento do HC n. 8021857-82.2022.8.05.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 1/5/2022 por ter supostamente praticado o delito tipificado no art. 33,caput,da Lei n. 11.343/06 (tráfico de drogas). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrouhabeas corpusperante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"PENAL E PROCESSUAL PENAL. HABEAS CORPUS LIBERATÓRIO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA. EXISTÊNCIA DE INDÍCIOS MÍNIMOS DE AUTORIA E MATERIALIDADE. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL A SER REPARADO.
+I. Na presente ação constitucional de habeas corpus, busca-se a soltura de Maxuel Santos Almeida, mediante a alegação de falta de fundamentação do decreto prisional.
+II. Da manutenção e fundamentação da prisão . No presente caso, o decreto preventivo lastreou-se em elementos concretos que demonstram a presença dos requisitos autorizadores da segregação cautelar, havendo indícios de que o paciente comercializa droga ilícita diante da apreensão de uma balança de precisão da marca Diamond, 02 (duas) facas de corte para fracionamento da droga, 43 (quarenta e três) buchas de substância de cor esverdeada análoga a maconha, 13 (reze) cocadas acondicionadas em pequenos sacos plásticos e 02(duas) cocadas maiores da mesma substância, além do valor de R$ 1.151,00 (hum mil cento e cinquenta e um reais). Desse modo, a autoridade judiciária expôs, ainda que brevemente, os aspectos objetivos e concretos que, no caso em apreço, sustentam os requisitos da custódia cautelar, qualificando a medida como necessária e indispensável.
+III. Das alegadas condições pessoais. Quanto às alegadas condições pessoais favoráveis do paciente, tais como a primariedade, residência fixa e ocupação lícita, ainda que fossem demonstradas, não possuem o condão de afastar a necessidade da custódia cautelar, quando presentes os seus requisitos, como ocorre no caso.HABEAS CORPUS CONHECIDO E DENEGADO"(fls. 123/124).
+No presente recurso, a defesa sustenta ausência dos requisitos previstos no art. 312 do CPP, de modo que a custódia cautelar não estaria suficientemente fundamentada,porquanto baseada em elementos genéricos.
+Aduz ilegalidade do flagrante, uma vez que as drogas foram apreendidas mediante invasão de domicílio.
+Destaca as condições pessoais favoráveis do recorrente, quais sejam, primariedade, bons antecedentes e residência fixa.
+Ressalta a suficiência da aplicação de medidas cautelares diversas previstas no art. 319 do CPP.
+Pondera que não teria sido comprovado o tráfico de drogas, afirmando queo dinheiro apreendido não teria origem no comércio de entorpecentes, mas proveniente deum auxílio assistencial, sacado um dia antes dos fatos.
+Pugna, em liminar e no mérito, pelaexpedição do alvará de soltura.
+A liminar foi indeferida (fls. 178/180) e as informações foram prestadas (fls. 184/191 e fls. 194/199). O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 201/207).
+É o relatório.
+Decido.
+Das informações trazidas pelo Juízo singular, constatou-se que, em 27/10/2022,foi concedida liberdade provisória ao ora paciente.
+Assim, não há como negar a perda superveniente do objeto deste recursona parte em que alega ausência de fundamentação da custódia cautelar, tendo em vista ter cessado as circunstâncias determinantes da irresignação.
+Noutro giro, a alegada violação de domicílio não foi objeto de análise por parte do Tribunal de origem, não podendo ser diretamente examinada por esta Corte Superior, sob pena de indevida supressão de instância.
+Por fim, cumpre ressaltar que o recurso emhabeas corpusnão é a via adequada para discussão acerca da materialidade e autoria delitiva, questões esta que demandam exame fático-probatório, incompatível com a via eleita, ação constitucional de rito célere e de cognição sumária. Confira-se, nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. NEGATIVA DE AUTORIA. ALEGAÇÃO DE INOCÊNCIA. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. GRANDE QUANTIDADE DE DROGAS. RÉU REINCIDENTE. SENTENÇA CONDENATÓRIA QUE NEGOU O DIREITO DE RECORRER EM LIBERDADE. RÉU PRESO DURANTE A INSTRUÇÃO. CONDENAÇÃO FIXADA EM 5 ANOS, 10 MESES DE RECLUSÃO, APÓS JULGAMENTO EM 2ª INSTÂNCIA. NECESSIDADE DE ASSEGURAR A ORDEM PÚBLICA. AUSENTE PATENTE ILEGALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1.A tese de que não há prova suficiente de autoria em relação ao agravante consiste em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, ainda, que a decisão esteja pautada em lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+3. As instâncias ordinárias destacaram a necessidade da medida extrema, especialmente diante da grande quantidade de drogas apreendidas (1 kg de maconha) e do fato de o réu ser reincidente, ostentando duas condenações definitivas.
+4. O entendimento abraçado pelas instâncias ordinárias encontra-se em harmonia com a jurisprudência desta Corte, no sentido de que, tendo o agravante permanecido preso durante todo o andamento da ação penal, não faria sentido, ausentes alterações nas circunstâncias fáticas, que, com a superveniência da condenação, lhe fosse deferida a liberdade.
+5. Agravo regimental improvido.
+(AgRg no RHC 125.973/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 30/06/2020).
+Ante o exposto, nos termos do art. 34, XVIII, a, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso emhabeas corpus.
+Publique-se.
+Intimem-se.
