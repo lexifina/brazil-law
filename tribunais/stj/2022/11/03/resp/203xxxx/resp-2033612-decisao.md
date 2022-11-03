@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaFAZENDA NACIONAL contra acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃOassim ementado:
+PROCESSO CIVIL. TRIBUTÁRIO. APELAÇÃO. COBRANÇA DE IRPJ. EXECUÇÃO FISCAL. EXTINÇÃO DE OFÍCIO. OCORRÊNCIA DA PRESCRIÇÃO INTERCORRENTE. PESSOA JURÍDICA NÃO LOCALIZADA PELO OFICIAL DE JUSTIÇA, NEM LOCALIZADOS BENS PENHORÁVEIS. INÉRCIA DA EXEQUENTE. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aoartigo 1.022 do CPC/2015.
+Defende que o v. acórdão de origem padece de evidente negativa de prestação jurisdicional, uma vez que a prescrição intercorrente deveu-se à morosidade de mecanismo da Justiça o que atrai a incidência da Súmula 106/STJ.
+Decisão de admissibilidade à fl. 412.
+É o relatório. Decido.
+A pretensão não merece acolhimento.
+Consta do v. acórdão de origem:
+6. De fato, o que se extrai do documento juntado aos presentes autos é a existência de efetiva adesão ao referido parcelamento pela devedora portanto importando em ato inequívoco de reconhecimento do débito que interrompe a prescrição, nos termos do art. 174, parágrafo único, IV, do CTN.7. O citado extrato merece fé pública, gozando de presunção de veracidade, sendo tal documento, por si só, suficiente para demonstrar que a parte devedora realmente contraiu o parcelamento mencionado.8. No entanto, com o julgamento do REsp nº 1.340.553/RS, sob a sistemática de recursos repetitivos, na espécie, não localizada a sociedade devedora para fins de citação, conforme certidão do oficial de justiça já em 1996, nem verificada a existência de bens penhoráveis desde então, resta configurada a prescrição intercorrente, tendo em vista a inércia da exequente, que, durante todo esse ínterim, especialmente entre os anos de 2006 a 2012, absolutamente nada requereu de efetivo para fins de satisfação da obrigação tributária, não sendo o caso de aplicação da Súmula nº 106 do STJ.
+Com efeito, verifica-se não ter ocorrido ofensa aoartigo1.022 do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. ILEGITIMIDADE PASSIVA. RESPONSABILIDADE SOLIDÁRIA DO CONSÓRCIO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. 1. A violação ao art. 1.022 do CPC/2015 não ficou caracterizada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão do recorrente. 2. Tendo o Tribunal local concluído pela legitimidade do consórcio e sua responsabilização solidária no caso, não há como rever esse entendimento sem o necessário revolvimento do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que não se admite em âmbito de recurso especial, ante o óbice das Súmulas 5 e 7/STJ. 3. Agravo interno não provido. (AgInt no REsp 1827460/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021. (grifo nosso)
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO ESPECIAL NÃO PROVIDO.
