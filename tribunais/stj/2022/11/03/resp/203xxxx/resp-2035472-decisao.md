@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ITAMAR DA SILVA GOMES, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"ACIDENTE DO TRABALHO - BENEFÍCIO ACIDENTÁRIO - Tendinopatia em ombros - Demanda julgada improcedente - Recurso do segurado em que se pleiteia, preliminarmente, a anulação da sentença, ao fundamento de ocorrência de cerceamento de defesa e, no mérito, a reforma do julgado, com a procedência total do pedido - Fundamento do pedido de anulação calcado no suposto encerramento prematuro da instrução processual, pois não deferido o pedido para produção de prova oral - Descabimento - Laudo pericial bem fundamentado - Ausência de vícios ou irregularidades - Perito judicial que esclareceu os pontos considerados divergentes do seu laudo - Instrução que foi devidamente encerrada na origem, com oportunidade de apresentação de alegações finais - Preliminares afastadas - Fundamento do pedido de reforma da decisão com base na existência de incapacidade laborativa e nexo causal - Perícia médica e vistoria ambiental judiciais que não constataram liame etiológico entre a moléstia e o trabalho - Indenização infortunística indevida - Sentença mantida.
+HONORÁRIOS PERICIAIS - Recurso do INSS em que se pretende a condenação do Estado Federado ao ressarcimento dos honorários periciais adiantados - Descabimento - Ente federativo que nem sequer é parte no processo - Procedimento relativo a acidentes de trabalho que é isento do pagamento de quaisquer custas e de verbas relativas à sucumbência - Sentença mantida.
+RECURSOS DESPROVIDOS" (fl. 297e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, c, da Constituição Federal, a parte ora agravante aponta dissídio jurisprudencial, sustentando, em síntese,que:
+"Com efeito, o posicionamento divergente exsurge claramente do V. Aresto recentemente pela E. Quinta Turma do E. STJ, também em ação acidentária (RESP. 316.217/SP - recte.: José Isidorio dos Santos; recdo.: INSS), julgado por votação unânime em 06/06/2002 e publicado no DJ de 01/07/2002, relatado pelo eminente Ministro FELIX FISCHER.
+(..)
+O acórdão ora combatido da 17ª Câmara de Direito Público do C. TJ/SP, despreza as provas dos autos e mantém a improcedência, indefere a prova testemunhal, com se observa de parte da ementa:
+(..)
+Antes de iniciar o cotejo analítico, ressalta-se que o local de trabalho era precário, pois até os equipamentos para suspensão dos veículos eram feitos pelo antigo "macaco". O Autor deslizava seu corpo para baixo do veículo e laborava com os braços erguidos em noventa graus.
+Seria de causar estranheza que como mecânico de autos, tal patologia seriam adquiridas "fora do trabalho"!( )
+Contudo, a pressa de sentenciar, sobrepôs-se totalmente ao julgamento justo, data máxima vênia.
+Havia elementos fortes para se fazer a prova testemunhal e continuar a pericial.
+Por outro lado, o C. SUPERIOR TRIBUNAL DE JUSTIÇA deu provimento ao remédio especial interposto, ANULANDO o processo a partir da audiência de conciliação, instrução e julgamento, de forma a permitir a oitiva das testemunhas arroladas pelo acidentado.
+Os argumentos que determinaram esse desfecho assim foram lançados:
+(..)
+Claro que essa lúcida decisão, cuja íntegra segue em anexo por cópia xerográfica, traz subsídios capazes de justificar não só o cabimento do remédio especial, como ainda e principalmente, o seu provimento.
+Trata-se de julgado que se entrelaça perfeitamente com a hipótese dos autos. Enquanto no caso presente a C. 17ª Câmara do Tribunal de Justiça do Estado de São Paulo declarou a inviabilidade de produção de prova testemunhal, no caso paradigmal, o E. S.T.J. reconheceu a existência de cerceamento de defesa, sobretudo pela relevância desse meio de prova, que pode influenciar substancialmente no resultado da lide, vez que a prova técnica não vincula o julgador.
+Além do mais, é por certo que na tentativa de se proteger a oficina mecânica maquiou o ambiente laboral.
+Os trechos de relevância do V. Aresto divergente se encontram acima transcritos, mas para que não se alegue eventual falta de cotejo analítico, convém destacar os pontos de dissidência.
+Pela decisão coletiva hostilizada, é proibido refazer a perícia, posto que não haveria qualquer imprecisão no laudo oficial.
+Data maxima venia, como é que se pode efetuar tal afirmação
+Ao hipossuficiente negou-se todos os requerimentos, em detrimento de um julgamento célere e injusto.
+Baseou-se em elementos sólidos para pleitear a substituição do perito. Afinal de contas, a empresa MONTOU O AMBIENTE LABORAL E PRESTOU AS INFORMAÇÕES DA FORMA QUE QUIS. Essa prova seria feita pelas testemunhas!
+Quer a ora Recorrente o gozo de seu direito constitucionalmente garantido no artigo 5º, inciso LV do devido processo legal e ampla defesa, inegavelmente rechaçados.
+Por sua vez, assenta o V. Acórdão paradigmal, de forma totalmente oposta a garantia de realizar as provas:
+(..)
+Não resta dúvida que essa douta decisão do E. SUPERIOR TRIBUNAL DE JUSTIÇA define com exatidão a matéria, se identificando perfeitamente com a controvérsia dos autos, assegurando, assim, o inequívoco cabimento do presente recurso especial, também pela citada alínea "c".
+Enquanto a C. 17ª Câmara do Tribunal de Justiça do Estado de São Paulo declarou acertado o indeferimento das provas e declarou o laudo como prova única, o julgado dissidente, do E. S.T.J., enxergou a questão de outra maneira, vislumbrando o cerceamento de defesa decorrente desse tipo de indeferimento, não obstante o laudo pericial produzido.
+Observe-se que para o mesmo conflito há posições opostas, uma delas, a do paradigma privilegia todos os tipos de provas constantes de nossa legislação processual, a outra, a combatido, deixou à cargo do perito a decisão, em detrimento das demais meios de prova.
+Veja o trecho do laudo hostilizado:
+(..)
+Com o devido respeito, a alegação de que o laudo oficial é preciso é totalmente baseado em suposições. Ninguém nega a fé pública do perito, porém, não há como se ter controle algum sobre o que foi demonstrado ao expert no ato da pericial judicial e a prova testemunhal cuidaria de expor.
+Agora observe-se abaixo, o brilhante voto do E. Ministro Félix Fisher, com respeito à instrução processual:
+(..)
+Enquanto o Superior Tribunal de Justiça de maneira zelosa, protege a letra da lei, o acórdão combatido de maneira arbitrária, além de cortar pela raiz, qualquer possibilidade da Recorrente fazer valer seu direito através de todas as provas garantidas pela lei e Constituição Federal.
+Não se pode deixar de se considerar que quando há elementos contraditórios, deve ser aceito como parâmetro para continuar-se a instrução, ATÉ PORQUE A NATUREZA DA LESÃO É TIPICAMENTE OCUPACIONAL, DE CUNHO REPETITIVO.
+Pela carga horário do labor somada à precariedade dos equipamentos e a posição corporal, não haveria outra forma de ter adquirido as lesões.
+A rotina laboral indicada no laudo é fictícia, data máxima venia!!
+O ACÓRDÃO HOSTILIZADO DEIXOU A DECISÃO NAS MÃOS DO PERITO, CUJO LAUDO FOI ACEITO COMO PROVA IMABTÍVEL.
+O E. STJ, na decisão para paradigmal, privilegiou todas as provas constantes em lei, para ao final, o juízo poder estar munido de um conjunto de elementos para proferir um julgamento imparcial.
+Destarte, há motivos por demais suficientes a ensejar o presente recurso especial, tanto porque provado que as circunstâncias mencionadas no julgado acima se assemelham com o caso agora discutido, como porque demonstrada a ofensa a divergência jurisprudencial" (fls. 308/316e).
+Por fim, requer "o deferimento e processamento do presente recurso especial, e como corolário natural, o decreto de nulidade do julgado, permitindo-se ao obreiro a colheita da prova oral em primeiro grau de jurisdição, dando-se continuidade à instrução processual, com a continuidade da prova pericial, nomeando-se outro expert, como imperativo de ordem legal" (fl. 316e).
+Contrarrazões não apresentadas (fl. 351e).
+Inadmitido o Recurso Especial (fls. 366/367e), foi interposto o presente Agravo (fls. 370/385e).
+A irresignação não merece prosperar.
+Com efeito, são deficientes as razões do Recurso quando não há indicação, com precisão, de dispositivo de lei federal supostamente violado pelo julgado recorrido, o que atrai, por analogia, a incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+"PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DA LEI FEDERAL VIOLADA. SÚMULA 284/STF. AÇÃO DE COBRANÇA. CONTRATO DE FINANCIAMENTO. FCVS. VERIFICAÇÃO. SÚMULA 7/STJ.
+1. É inviável o recurso especial em que o recorrente não indica efetivamente quais os dispositivos de lei federal foram violados, para sustentar sua irresignação. Incidência da Súmula 284 do STF.
+2. Ademais, entendeu o Tribunal de origem que o contrato seria de natureza estritamente privada, celebrado entre a instituição financeira e o mutuário, não estando em discussão cláusula do FCVS.
+Rever esse entendimento, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame.
+Agravo regimental não conhecido" (STJ, AgRg no AREsp 59.135/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 25/09/2012).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DECLARATÓRIA. OCUPAÇÃO DE BEM PÚBLICO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 284/STF. NÃO SE PODE CONHECER DA DIVERGÊNCIA JURISPRUDENCIAL. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O Recurso Especial, apesar de interposto com base na alínea "a" do permissivo constitucional, não indica, especificamente, o dispositivo de lei federal supostamente contrariado pelo acórdão recorrido. Aplicação, por analogia, da Súmula 284/STF.
+2. Da mesma forma, incide o verbete da Súmula 284 do STF quando o recorrente deixa de indicar qual dispositivo de lei federal teve sua interpretação divergente pelo Tribunal, mesmo se o recurso tiver sido interposto pela alínea "c" do permissivo constitucional.
+3. Ainda que superados tais óbices, a instância de origem decidiu a controvérsia, no que tange à concessão de moradia especial, com fundamento no suporte fático-probatório dos autos. Desse modo, observa-se que a análise da controvérsia demanda reexame do contexto fático-probatório, o que é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+4. Agravo Regimental não provido" (STJ, AgRg no AREsp 123.219/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 22/05/2012).
+Nesse sentido, a Corte Especial do STJ consolidou o entendimento de que a ausência de indicação do dispositivo legal violado torna incabível o conhecimento do recurso, tanto pela alínea a como pela alínea c do permissivo constitucional, in verbis:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONCURSO PÚBLICO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INÉPCIA DA PETIÇÃO INICIAL. NÃO OCORRÊNCIA. DISSÍDIO JURISPRUDENCIAL. DISPOSITIVO LEGAL. INDICAÇÃO. AUSÊNCIA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+1. "A inépcia da petição inicial, escorada no inciso II do parágrafo único do artigo 295 do Código de Processo Civil, se dá nos casos em que se impossibilite a defesa do réu ou a efetiva prestação jurisdicional" (REsp 1.134.338/RJ, Rel. Min. MASSAMI UYEDA, Terceira Turma, DJe 29/9/11).
+2. Hipótese em que a petição inicial, além de descrever de forma objetiva os fatos (candidato inscrito em concurso público que, aprovado nas fases iniciais, foi obstado de continuar no certame por não lograr êxito no teste psicotécnico), informa o direito subjetivo supostamente ofendido, ensejador do writ, sem causar qualquer espécie de embaraço à defesa do réu ou à efetiva prestação jurisdicional, tanto assim que o pedido foi julgado procedente.
+3. Nos termos do art. 105, III, "c", da Constituição Federal, é cabível a interposição de recurso especial quanto o acórdão recorrido "der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal".
+4. "Para que se caracterize o dissídio, faz-se necessária a demonstração analítica da existência de posições divergentes sobre a mesma questão de direito" (AgRg no Ag 512.399/RJ, Rel. Min. ELIANA CALMON, Segunda Turma, DJ 8/3/04).
+5. Para demonstração da existência de similitude das questões de direito examinadas nos acórdãos confrontados " é  imprescindível a indicação expressa do dispositivo de lei tido por violado para o conhecimento do recurso especial, quer tenha sido interposto pela alínea a quer pela c" (AgRg nos EREsp 382.756/SC, Rel. Min. LAURITA VAZ, Corte Especial, DJe 17/12/09).
+6. Sem a expressa indicação do dispositivo de lei federal nas razões do recurso especial, a admissão deste pela alínea "c" do permissivo constitucional importará na aplicação, nesta Instância Especial, sem a necessária mitigação, dos princípios jura novit curia e da mihi factum dabo tibi ius, impondo aos em. Ministros deste Eg. Tribunal o ônus de, em primeiro lugar, de ofício, identificarem na petição recursal o dispositivo de lei federal acerca do qual supostamente houve divergência jurisprudencial.
+7. A mitigação do mencionado pressuposto de admissibilidade do recurso especial iria de encontro aos princípios da ampla defesa e do contraditório, pois criaria para a parte recorrida dificuldades em apresentar suas contrarrazões, na medida em que não lhe seria possível identificar de forma clara, precisa e com a devida antecipação qual a tese insculpida no recurso especial.
+6. Agravo regimental não provido" (STJ, AgRg no REsp 1.346.588/DF, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 17/03/2014).
+Destaco, ainda, que, nos termos do art. 1.029, § 1º, do CPC/2015, e do art. 255, § 1º, do RISTJ, a divergência jurisprudencial, com fundamento na alínea c do permissivo constitucional, exige comprovação e demonstração, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, providência não realizada na hipótese.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+I.
