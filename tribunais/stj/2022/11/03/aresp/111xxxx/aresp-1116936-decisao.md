@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+"Apelação Cível. Plano de saúde Rescisão unilateral de contrato coletivo Rescisão por morte do titular Inteligência do artigo 51 do Código de Defesa do Consumidor Óbito do titular que não encerra a relação obrigacional, podendo os beneficiários optar pela permanência no contrato, com as mesmas cláusulas e condições vigentes Rescisão unilateral imotivada Inadmissibilidade do direito à rescisão unilateral imotivada Entendimento contrário à Lei nº 9.656/98 e ao Código de Defesa do Consumidor Cláusulas abusivas Manutenção da R. Sentença. Nega-se provimento ao recurso."
+Nas razões do recurso especial, a parte recorrente alegou violação a art. 1º e art. 13, II, ambos da Lei 9.656/98, e art. 46 e art. 54, §4º, ambos do CDC, tendo em vista a legalidade da rescisão do contrato de plano de saúde.
+Assim posta a questão, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que não merece provimento.
+A Súmula nº 568, desta Corte, dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+As partes celebraram contrato de prestação de serviços médicos e hospitalares, na modalidade coletivo empresarial, cujos beneficiários eram os funcionários da recorrida e seus dependentes. A recorrente denunciou o contrato, a fim de tê-lo rescindido. Irresignada, a recorrida ajuizou ação que, julgada procedente, inclusive com confirmação pelo Tribunal de origem, reestabeleceu o contrato entre as partes.
+A recorrente suscita, então, violação a art. 1º e art. 13, II, ambos da Lei 9.656/98, e art. 46 e art. 54, §4º, ambos do CDC, sob o fundamento de que, por se tratar de contrato estabelecido entre duas pessoas jurídicas, não prevaleceriam as disposições consumeristas e, portanto, seria plenamente válida a rescisão contratual.
+Razão, no entanto, não lhe assiste. O Tribunal de origem decidiu em consonância com a jurisprudência desta Corte (fls. 218/231):
+"Cumpre salientar que se aplicam aos contratos de plano de saúde e seguro saúde as disposições do Código de Defesa do Consumidor e da Lei 9.656/98.
+O contrato entabulado entre as partes é típico contrato de adesão, devendo a interpretação das cláusulas contratuais ser sempre realizada em favor da parte aderente, aliás, na forma consagrada antes mesmo da edição do Código de Defesa do Consumidor, que, nesse ponto, tão-só reforçou o tratamento diferenciado a ser dado ao hipossuficiente para o fim de equilibrar a situação contratual das partes.
+Ademais, pouco resta à parte opinar no momento da avença, acabando por optar por aquele que lhe é mais conveniente, mas que nem sempre é aquele por ela pretendido. Para minimizar os prejuízos decorrentes de tais situações, foi editado o Código de Defesa do Consumidor.
+Quanto à rescisão unilateral por falecimento do titular, a conduta da ré é abusiva por colocar o consumidor em desvantagem exagerada, nos termos do artigo 51 do Código de Defesa do Consumidor.
+O "caput" do artigo 4º da Lei nº 8.078/90 estabelece que o objetivo da Política Nacional de Relações de Consumo deve ser "o atendimento das necessidades dos consumidores, o respeito à sua dignidade, saúde e segurança, a proteção de seus interesses econômicos, a melhoria da sua qualidade de vida, bem como a transparência e harmonia das relações de consumo".
+O inciso I do artigo 4º da Lei nº 8.078/90, por sua vez, é expresso ao aludir à necessidade de observância do princípio da vulnerabilidade do consumidor, demonstrando ser este a parte mais frágil na relação de consumo.
+É de se observar, ainda, que o contrato de seguro saúde não pode servir apenas aos interesses da operadora ré, devendo estar em conformidade com sua função social.
+(..)
+Logo, a morte do titular não extingue o contrato, que merece ser mantido nas mesmas condições.
+(..)
+Mesma sorte segue a rescisão unilateral imotivada. O Código de Defesa do Consumidor dispõe, em seu artigo 54, parágrafo 2º, que:
+"Art. 54. Contrato de adesão é aquele cujas cláusulas tenham sido aprovadas pela autoridade competente ou estabelecidas unilateralmente pelo fornecedor de produtos ou serviços, sem que o consumidor possa discutir ou modificar substancialmente seu conteúdo.
+(..)
+§ 2º Nos contratos de adesão admite-se cláusula resolutória, desde que alternativa, cabendo a escolha ao consumidor, ressalvando-se o disposto no § 2º do artigo anterior."
+Tal dispositivo tem por objetivo exatamente impedir a rescisão unilateral imotivada do contrato, por interesse exclusivo do fornecedor. Mostra-se abusivo, portanto, o cancelamento injustificado do plano de saúde, deixando os beneficiários do contrato coletivo em situação de desvantagem, o que fere o princípio da vulnerabilidade contido no Código de Defesa do Consumidor.
+Na hipótese, necessário ressaltar, ainda, que se tem firmado o entendimento na doutrina e jurisprudência de ser possível o emprego analógico do parágrafo único do artigo 13 da Lei nº 9.656/98 aos planos coletivos, especialmente no que concerne à vedação de rescisão unilateral que não tenha por fundamento a fraude ou o inadimplemento do consumidor.
+(..)
+E ainda que se entenda não aplicável o artigo 13 da Lei 9.656/98 aos contratos coletivos, como já observado, há a incidência do Código de Defesa do Consumidor, que visa o atendimento das necessidades dos consumidores, elencando, para tanto, princípios a serem observados nas relações consumeristas, dentre os quais o de equidade e equilíbrio nas relações de consumo e de proteção contra cláusulas abusivas.
+Ademais, não se pode esquecer que o bem jurídico tutelado é o de maior valor a vida, não se admitindo argumento contrário à sua defesa e manutenção, tendo a ver, ademais, com o próprio fundamento constitucional da dignidade da pessoa humana.
+Assim, na hipótese, caracterizada está a inegável abusividade da rescisão unilateral pretendida pela empresa ré, pois inadmissível a denúncia imotivada ou não comprovada.
+(..)
+Desse modo, por qualquer ângulo que se examine a questão, a rescisão unilateral infundada é vedada, independentemente se tratar de contrato individual, familiar ou coletivo.
+Anote-se, ainda, que o Superior Tribunal de Justiça, em julgado relativo a seguro saúde coletivo estipulado por pessoa jurídica, fixou ser "nula, por expressa previsão legal, e em razão de sua abusividade, a cláusula inserida em contrato de plano de saúde que permite a sua rescisão unilateral pela seguradora, sob simples alegação de inviabilidade de manutenção da avença" (REsp nº. 602.397-0/RS, Relator Ministro Castro Filho, Terceira Turma, Unânime; no mesmo sentido, TJSP, Agravo de Instrumento nº. 376.586-4/6, Relator Morato de Andrade, j.12.04.05, v.u.; TJSP, Apelação nº. 426.876-4/8, Des. Ênio Santarelli Zuliani).
+Assim, não merece reforma a R. Sentença apelada, que deve ser mantida tal como lançada."
+Não se discute tratar-se de plano de saúde coletivo. Verifica-se, no entanto, que são apenas cinco beneficiários. Portanto, é certo que as condições impostas pela recorrente devem considerar a semelhança existente aos planos de saúde na modalidade individual e familiar, o que enseja a aplicação da legislação consumerista (REsp n. 1.776.047/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 23/4/2019, DJe de 25/4/2019).
+Nos planos de saúde coletivos com menos de 30 beneficiários, "(..) a operadora não pode se valer da cláusula contratual que faculta a não renovação do pacto olvidando motivar de forma idônea a causa da rescisão, diante da natureza híbrida dessa relação contratual, regida pela legislação consumerista" (AgInt no REsp n. 1.964.243/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022).
+Portanto, ao não admitir a rescisão unilateral imotivada da recorrente, o Tribunal de origem agiu de acordo com a jurisprudência desta Corte. O recurso especial encontra óbice, portanto, na Súmula 83/STJ:
+"AGRAVO INTERNO. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.964.243/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. SAÚDE SUPLEMENTAR. PLANO DE SAÚDE COLETIVO EMPRESARIAL. CATEGORIA. MENOS DE 30 (TRINTA) BENEFICIÁRIOS. RESILIÇÃO UNILATERAL. MOTIVAÇÃO IDÔNEA. NECESSIDADE. DISSÍDIO NÃO COMPROVADO. TESES JURÍDICAS IDÊNTICAS. JURISPRUDÊNCIA ATUAL. SÚMULA Nº 168/STJ.
+1. Os embargos de divergência não merecem ser conhecidos quando os acórdãos postos a confronto aplicam a mesma tese jurídica, com soluções idênticas a fatos semelhantes.
+2. Os contratos de plano de saúde com menos de 30 (trinta) usuários não podem ser trasmudados para planos familiares, com vistas à aplicação da vedação do art. 13, parágrafo único, II, da Lei nº 9.656/1998, mas a rescisão unilateral, nessa hipótese, deve ser devidamente motivada, haja vista a natureza híbrida da avença e a vulnerabilidade do grupo possuidor de poucos beneficiários, incidindo a legislação consumerista e oprincípio da conservação dos contratos.
+3. É possível, com base na Súmula nº 168/STJ, inadmitir embargos de divergência quando a jurisprudência do Superior Tribunal de Justiça estiver no mesmo sentido do acórdão combatido.
+4. Agravo interno não provido.
+(AgInt nos EREsp n. 1.846.403/SP, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 31/8/2021, DJe de 8/9/2021.)"
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Intimem-se.
