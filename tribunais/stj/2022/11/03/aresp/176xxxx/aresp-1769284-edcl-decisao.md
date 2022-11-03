@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ARTEPEL - INDUSTRIA E COMERCIO DE EMBALAGENS DE PAPEL LTDA.contra decisão que acolheu parcialmente os embargos de declaração da parte adversa, sem efeitos modificativos, apenas para esclarecer que a majoração da verba honorária é devida em favor de todos os recorridos (fls. 763/767).
+Sustenta a parte embargante que a decisão foi omissa no que toca ao pedido de condenação da parte contrária ao pagamento de multa de 2% sobre o valor atualizado da causa em razão de seu intuito meramente protelatório, nos termos do art. 1.026, § 2º, Código de Processo Civil,apresentado nas razões de impugnação aos embargos.
+Intimada, a parte embargada não apresentou impugnação (fl. 784).
+Assim delimitada a questão, passo a decidir.
+Inicialmente, ressalto que, nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material no julgado.
+Na hipótese, verifico que a decisão embargada padece de omissão, pois, de fato, na impugnação de fls. 755/757, a parte ora embargante pleiteou a aplicação da penalidade por embargos protelatórios, previsto no art. 1.026, § 2º, do CPC, ponto que não foi objeto de análise na decisão embargada (fls. 763/767).
+Desse modo, constatada omissão no julgado, impõe-se o acolhimento das alegações da parte embargante para sanar o aludido vício, em conformidade com o disposto no art. 1.022, inciso II, do CPC/2015.
+Quanto ao ponto, esclareço que, neste momento processual, entendo inviável a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015,pois o referido dispositivo legal exige para fixação da penalidade que os embargos de declaraçãosejam manifestamente protelatórios, o que não se coaduna com a situação dos autos.Nessesentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. 1. INEXISTÊNCIA DOS VÍCIOS ENSEJADORES À OPOSIÇÃO DOS DECLARATÓRIOS. MERO INCONFORMISMO DA PARTE. 2. LITIGÂNCIA DE MÁ-FÉ NÃO CONFIGURADA. 3. CARÁTER MANIFESTAMENTE PROTELATÓRIO. NÃO EVIDENCIADO. 4. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. EMBARGOS DE DECLARAÇÃO. NÃO CABIMENTO. 5. EMBARGOS REJEITADOS.
+1. Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2. Nos termos do entendimento jurisprudencial do Superior Tribunal de Justiça, a interposição de recursos cabíveis não acarreta a imposição da multa por litigância de má-fé à parte adversa, ainda que com argumentos reiteradamente refutados ou sem alegação de fundamento novo.
+3. O mero inconformismo da parte embargada com a oposição de embargos de declaração não autoriza a imposição da multa prevista no § 2º do art. 1.026 do CPC/2015, uma vez que, no caso, não se encontra configurado o caráter manifestamente protelatório, requisito indispensável à imposição da sanção.
+4. Segundo a jurisprudência desta Corte, não haverá a majoração de honorários de sucumbência prevista no art. 85, § 11, do CPC/2015, quando do julgamento de agravo interno ou embargos de declaração.
+5. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp n. 1.716.203/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 6/12/2021, DJe de 9/12/2021.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE DEU PROVIMENTO AO RECLAMO E, DE PLANO, DESPROVEU O AGRAVO. INCONFORMISMO DA AGRAVANTE.
+1. A multa prevista no art. 1.026, § 2º, do CPC/2015, não é automática (AgInt no AREsp 1631739/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/06/2021, DJe 03/08/2021), devendo ser afastada quando não se caracteriza o propósito protelatório na oposição dos embargos de declaração (EDcl no AgInt no REsp 1893132/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/06/2021, DJe 08/06/2021), nos termos da Súmula 98 do STJ.
+2. Embargos de declaração acolhidos, com efeitos infringentes, para dar parcial provimento ao agravo interno e, por conseguinte, afastar a multa do art. 1.026, § 2º, do NCPC, aplicada pela instância de origem.
+(EDcl no AgInt no AREsp n. 1.620.025/RN, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/10/2021, DJe de 8/10/2021.)
+Em face do exposto, acolho os embargos de declaração, sem efeitos modificativos, apenas para sanar a omissão existente no julgado, nos termos da fundamentação.
+Intimem-se.
