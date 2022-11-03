@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS, fundado naalínea"a" do permissivo constitucional, contra acórdão do Tribunal de Justiça local.
+Consta dos autos que o ora recorrido foi condenado no primeiro grau de jurisdiçãonas sanções do artigo 33, caput, da Lei 11.343/2006, à pena de 5 anos e 10 meses de reclusão, em regime inicial fechado.
+O Tribunal a quo deu parcial provimento àapelação defensiva para redimensionar a pena do acusado para o total de 5 anos e 6 meses de reclusão, em regime inicial fechado, reduzindo a fração de aumento pela reincidência(e-STJ fls. 262/268).
+Opostos embargos de declaração, estes foram rejeitados (e-STJ fls. 347/352).
+Nas razões do recurso especial,o recorrente aponta violação doart. 61, I,do Código Penal, sustentando a inidoneidade do recrudescimento da pena em patamar inferior a1/6 (um sexto)pela incidência da agravante de reincidência, operado pela Corte estadual, sem fundamentação concreta.
+Apresentadas contrarrazões (e-STJ fls. 376/378), o recurso foi admitido (e-STJ fls. 382/384).
+O Ministério Público Federal opinoupelo provimento do recurso especial (e-STJ fls. 395/398).
+É o relatório.Decido.
+A ponderação das circunstâncias judiciais não constitui mera operação aritmética, em que se atribuem pesos absolutos a cada uma delas, mas sim exercício de discricionariedade, devendo o julgador pautar-se pelo princípio da proporcionalidade e, também, pelo elementar senso de justiça.
+Com efeito, não há falar em um critério matemático impositivo estabelecido pela jurisprudência desta Corte, mas, sim, em um controle de legalidade do critério eleito pela instância ordinária, de modo a averiguar se a pena-base foi estabelecida mediante o uso de fundamentação idônea e concreta (discricionariedade vinculada) (AgRg no HC n. 603.620/MS, Relator Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 9/10/2020).
+Considerando o silêncio do legislador, a doutrina e a jurisprudência estabeleceram dois critérios de incremento da pena-base, por cada circunstância judicial valorada negativamente, sendo o primeiro de 1/6 (um sexto) da mínima estipulada, e outro de 1/8 (um oitavo), a incidir sobre o intervalo de condenação previsto no preceito secundário do tipo penal incriminador (ut, AgRg no AgRg nos EDcl no AREsp 1.617.439/PR, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 28/9/2020). Precedentes: AgRg no REsp 1.986.657/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 5/4/2022, DJe 11/4/2022; AgRg no AREsp 1.995.699/SP, Rel. Ministro JESUÍNO RISSATO (Desembargador convocado do TJDFT), Quinta Turma, julgado em 5/4/2022, DJe 19/4/2022.
+Diante disso, a exasperação superior às referidas frações deve apresentar fundamentação adequada e específica, a qual indique as razões concretas pelas quais a conduta do agente extrapolaria a gravidade inerente ao teor da circunstância judicial.
+No ponto, ressalta-se que o réu não tem direito subjetivo à utilização das referidas frações, não sendo tais parâmetros obrigatórios, porque o que se exige das instâncias ordinárias é a fundamentação adequada e a proporcionalidade na exasperação da pena.
+De igual modo,assiste razão ao Parquet estadual, porquanto não houve justificação, pelo Tribunal a quo, em aumentar a pena pela reincidênciaem apenas6 meses, por estar emdescompasso com critérios da orientação jurisprudencial.
+Assim, de rigor o restabelecimento dadecisão do juízo de primeiro grauque aplicou a fração de 1/6 para a agravante da reincidência.
+Ante o exposto, com fundamento no art. 932, incisoVIIIdo CPC, e no art. 255, § 4º, inciso III, do RISTJ,douprovimentoao recurso especialpara restabelecer a pena tal como fixada na sentença condenatória.
+Intimem-se.
