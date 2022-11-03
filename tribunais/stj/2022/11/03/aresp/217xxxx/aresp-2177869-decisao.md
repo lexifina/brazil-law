@@ -1,0 +1,21 @@
+DECISÃO
+ILIDIO ANGELO DA CUNHAagrava da decisão que inadmitiu o recurso especial que interpôs, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Minas Geraisna Apelação n.0027560-76.2017.8.13.0132.
+A defesa apontou a violação dosarts. 3º e 156do Código de Processo Penal; 13, 14, I, e 18, I, e parágrafo único, do Código Penal; 489, § 1º,II, III e V, do Código de Processo Civil; 8º,2, caput e "g", da Convenção Americana sobre Direitos Humanos; 14, 2 e 3, "g", do Pacto Internacional sobre Direitos Civis e Políticos eXIda Declaração Universal dos Direitos Humanos;XXVI, da Declaração Americana de Direitos e Deveres do Homem.
+Requereu, ao fim, a absolvição do réu, ao argumento de que não se pode "inverter o ônus da prova e presumir a culpabilidade em detrimento da não autoincriminação" (fl. 963).
+O Tribunala quonão admitiu o recurso pela sua extemporaneidade, haja vista que ele foi interposto em 12/8/2020, cerca de quatro meses após o termo final.
+Neste agravo, a defesa afirma que, "em razão da pandemia do COVID-19, os prazos ficaram todos suspensos, o que foi salientado inclusive na petição de fls. 793 por este advogado" (fl. 1.011). Colaciona o link das portarias de suspensão à fl. 1.012 e aduz "a impossibilidade de impressão das portarias, pois somariam mais de 150 páginas, e os autos já contam com 852 páginas" (fl. 1.012).
+O Ministério Público Federal opinou pelo não provimento do recurso (fls. 1.045-1.047).
+Decido.
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento.
+Todavia, é acertado o não conhecimento dorecurso especial interposto após o prazo de 15 dias corridossem que a parte haja comprovado, no ato de interposição, eventual suspensão dos processos em trâmite na Justiça local.
+Nessa perspectiva, segundo a jurisprudência desta Corte Superior: "sob a vigência do CPC/2015, é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso" (REsp n. 1.813.684/SP, Rel. Ministro Raul Araújo, Rel. p/ Acórdão Ministro Luis Felipe Salomão, C.E., DJe 18/11/2019).
+Menciono ainda:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. PROCESSO COM TRAMITAÇÃO FÍSICA. AUSÊNCIA DE COMPROVAÇÃO DA SUSPENSÃO NO ATO DE INTERPOSIÇÃO DO RECURSO.
+1. Em razão da pandemia de COVID-19, os prazos processuais foram suspensos, para os processos físicos, no período compreendido entre 19/03/2020 e 14/06/2020, conforme Resoluções do CNJ nº 313/2020 e 322/2020, bem como Portaria nº 79/2020 do CNJ, voltando a fluir o prazo, para os processos físicos, em 15/06/2020. A suspensão dos prazos, na Corte de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso especial, sendo inviável a comprovação posterior em sede de agravo regimental.
+Precedentes.
+2. Agravo regimental improvido.
+(AgRg no AREsp n. 2.010.725/GO, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), 6ª T., DJe 25/3/2022, grifei)
+Nesse mesmo sentido:AgInt no AREsp n. 2.136.356/ES, Rel. Ministro Sérgio Kukina, 1ª T., DJe 14/10/2022;AgInt no AREsp n. 2.048.794/RS, Rel. Ministra Maria Isabel Gallotti, 4ª T., DJe 19/9/2022;AgRg no AREsp n. 2.125.359/BA, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 12/9/2022 eAgRg no AREsp n. 2.056.933/MG, Rel. Ministro Rogerio Schietti, 6ª T.,DJe 18/8/2022.
+Desse modo, houvesuspensão nacional dos prazos processuais de 19/3/2020 a 14/6/2020, conforme Resoluções n. 313/2020 e 322/2020 do CNJ.Na espécie, o acórdão de apelação foi publicado em 20/3/2020 (fl. 922). Todavia, o especial foi ajuizado apenas em 12/8/2020 (fl. 947), portanto, após o prazo legal,sem queo recorrente houvesse demonstrado a suspensão dos prazos no período posterior a 15/6/2020, pelo Judiciário local, no momento da interposição do recurso especial.Dessa forma, não há como conhecer do recurso em virtude de sua intempestividade.
+À vista do exposto, conheço do agravo para, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, não conhecer do recurso especial.
+Publique-se e intimem-se.
