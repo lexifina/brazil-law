@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CONCREFORT CONCRETO LTDA, contra acórdão doTRIBUNAL REGINAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"TRIBUTÁRIO. MANDADO DE SEGURANÇA. EXCLUSÃO DO ICMS DABASE DE CÁLCULO DE PIS E COFINS. VALOR DESTACADO NASNOTAS FISCAIS.
+1. O Supremo Tribunal Federal, no julgamento do RE 574706, pelo regime de repercussão geral (Tema 69), fixou a tese de que o ICMS não compõe a base de cálculo para a incidência do PIS e da COFINS.
+2. O ICMS a ser excluído da base de cálculo do PIS e da COFINS é o destacado na nota fiscal." (fls. 435/436e).
+O acórdão em questão foi objeto de Embargos de Declaração de ambas as partes(fls. 451/455e e 458/472e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. INOCORRÊNCIA DE OMISSÃO,CONTRADIÇÃO OU OBSCURIDADE. PREQUESTIONAMENTO.
+1. A acolhida dos embargos declaratórios só tem cabimento nas hipóteses de omissão, contradição ou obscuridade. Inconformismo quanto à interpretação dos fatos e ao direito aplicável ao caso deve ser suscitado na via recursal adequada.
+2. Estando evidenciada a tese jurídica em que se sustenta a decisão proferida nesta Instância, não é necessário declarar todos os dispositivos legais em que se fundamenta." (fls. 486/487e).
+Novos Embargos de Declaração foram opostos por ambas as partes (fls. 498/500e e 519/520e), sendo, desta feita, acolhidos o recurso da FAZENDA NACIONAL, nos termos da seguinte ementa:
+"TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. TEMA 69/STF.
+Efeitos infringentes atribuídos aos embargos de declaração para que o direito de excluir o ICMS da base de cálculo do PIS e da COFINS e repetir os valores recolhidos indevidamente seja reconhecido a partir de 15-03-17,conforme decisão do Supremo Tribunal Federal no julgamento dos embargos de declaração do RE 574706.." (fls. 529/530e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a,da Constituição Federal, a parte ora recorrente aponta violação aos arts. 1º e 3º das Leis 10.637/02 e 10.833/03, e arts. 141 e 492, do CPC/15,sustentando que não há "que se falar em recomposição da base de crédito das contribuições ao PIS e a COFINS quando da repetição do indébito"(fls. 557e), e que "deve ser reparada a fundamentação do acórdão recorrido para que não deva determinar a exclusão do ICMS da base de crédito do PIS e da COFINS, devendo ser expresso apenas o pleiteado pela Apelante na exordial" (fl. 559e).
+Por fim, requer "que não haja determinação de integrar a base de cálculo para crédito no regime de não cumulatividade previsto para contribuições ao PIS e a COFINS, mantendo-se o dispositivo da r. sentença que determinou a exclusão do ICMS destacado nas notas fiscais de venda da base de débito das contribuições ao PIS e a COFINS, em observância aos artigos 1º e 3º, das Leis nº 10.673/2002 e 10.833/2003, sob pena de afronta aos artigos 141 e 492, ambos do Código de Processo Civil" (fl. 561e).
+Contrarrazões a fls. 593/605e, defendendo a impossibilidade de exclusão do ICMS-ST da base de cálculo do PIS e da COFINS.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 621/622e).
+A irresignação não merece conhecimento.
+Com efeito, da simples leitura do acórdão, verifica-se que o recorrente impugna decisão inexistente.Vale dizer, não há, no acórdão, no voto, ou mesmo no relatório da decisão recorrida, qualquer assertiva no sentido de que o contribuinte deveráglosar dos créditos em relação aos custos e despesas que incorre, no âmbito da apuraçãonão cumulativa do PIS e da COFINS, da parcela atinente aoICMS.
+A propósito, quanto à alegação de julgamento extra petita, assim manifestou-se a Corte Regional:
+"Muito embora não tenha a Impetrante formulado pedido de exclusão do ICMS-ST e DIFAL das bases de cálculo do PIS e da COFINS, a sentença analisou o pleito inicial de forma genérica, interpretando o pedido como se fosse a exclusão de todo o ICMS das bases de cálculo das referidas contribuições, inclusive o recolhido sob o regime de substituição tributária e do diferencial de alíquota (DIFAL).
+Verifica-se, portanto, a existência de julgamento extra petita, pois a Impetrante requereu somente a exclusão do ICMS próprio das bases de cálculo do PIS e da COFINS.
+A decisão extra petita, a despeito de solucionar as questões submetidas ao crivo judicial, aprecia o que não faz parte do pedido. Nesses casos, não é necessária a anulação da decisão, sendo possível sanar a nulidade mediante o afastamento dos excessos constatados." (fl. 441e)
+E quanto à compensação, assim restou redigido o dispositivo do acórdão recorrido:
+" 3. Repetição do indébito
+Reconhecida a ocorrência de indébito tributário, faz jus a impetrante à compensação dos tributos recolhidos a maior, condicionada ao trânsito em julgado da presente decisão judicial (art. 170-A do CTN), nos termos do art. 74 da Lei n.º 9.430/1996.
+No que toca à compensação das contribuições previdenciárias, contribuições instituídas a título de substituição de contribuição previdenciária e contribuições sociais devidas a terceiros, devem ser observadas as restrições do art. 26-A da Lei n.º 11.457/2002, incluído pela Lei n.º 13.670/2018, conforme regulamentação da Secretaria da Receita Federal do Brasil (§ 2º).
+Registre-se, por fim, que "a lei que regula a compensação tributária é a vigente à data do encontro de contas entre os recíprocos débito e crédito da Fazenda e do contribuinte" (STJ, REsp 1164452/MG, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA SEÇÃO, julgado em 25/08/2010, DJe 02/09/2010)." (fl. 442e)
+E na decisão integrativa, pontuou-se que "no que tange a alegação de que o acórdão permanece omisso em relação a recomposição da base de crédito, também não há se falar em omissão, tendo em vista que o acórdão embargado foi claro ao expor como se daria a compensação dos créditos oriundos da presente demanda, sendo essa a sistemática a ser seguida" (fl. 533e).
+Convém destacar que, nos termos do art. 1.008 do CPC, "o julgamento proferido pelo tribunal substituirá a decisão impugnada no que tiver sido objeto de recurso", sendo de somenos importância, neste contexto, o que decidido na sentença de mérito.
+Incide, portanto, na espécie, o entendimento que subjaz da súmula 284/STF, nos termos da qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ainda que assim não fosse,, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a alegação de violação ao art. 1.022 do CPC/15, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Finalmente, é cediço que no Parecer 14483/2021, a PGFN, em manifestação vinculante para a Administração Tributária Federal, afirmou que não é possível, com base no conteúdo do acórdão do Supremo Tribunal Federal no Tema 69 da Repercussão Geral, extrair conclusão no sentido de que os cálculos das contribuições deveriam ser refeitos, a fim de excluir o ICMS dos custos e despesas incorridos, pelo que não se justifica o receio manifestado nas razões recursais.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
