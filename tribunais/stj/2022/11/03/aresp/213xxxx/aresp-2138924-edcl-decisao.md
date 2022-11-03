@@ -1,0 +1,60 @@
+DECISÃO
+Trata-se de embargos de declaração opostos em face de decisão de fls.243-246 (e-STJ), por meio da qual neguei provimento ao agravo em recurso especial interposto pelas partes ora embargantes.
+As partes embargantes apontam omissão na decisão embargada no presente caso. Alegam que não se aplicaaSúmula7/STJna hipótese dos autos.
+Sustentam que"Ocorre que, com o devido respeito, análise da tese não importe em reexame dos fatos, porque não há discussão se (i) são casados, (ii) se é o regime universal dos bens, (iii) se os bens são de propriedade da cônjuge ou do recuperando, (iv) se os débitos são anteriores e concursais e que (v) o stay period está vigente - pois são incontroversos -;mas sim que, em razão do regime universal dos bens, o qual induz pela propriedade comum dos imóveis (portanto, propriedade inequívoca do Recuperando), esses não podem serobjetos de constrição judicial em razão da proibição expressa da Lei nº. 11.101/2005, notadamente o art. 6º, inciso II e III: "proibição de qualquer forma de retenção, arresto, penhora, sequestro, busca e apreensão e constrição judicial ou extrajudicial sobre os bens do devedor, oriunda de demandas judiciais ou extrajudiciais cujos créditos ou obrigações sujeitem-se à recuperação judicia ou à falência" (fls. 250-251 e- STJ).
+Argumentam que "Para mais, não há que se falar que o devedor "não teria prejuízo"ou o "ato não importaria em prejuízo"em razão da reserva do valor de meação, porque a Lei não adentrou nessa margem, apenas e tão simplesmente proibiu qualquer ato de constrição judicial em razão de demandas judiciais, cujos débitos estejam arrolados na recuperação judicial, que é o caso" (fl. 253 e- STJ).
+Pedem a concessão de efeito suspensivo aos presentes embargos.
+Foi apresentada impugnação pela parte embargada (fls. 262-267).
+O recurso não merece prosperar.
+Da leitura dos autos, não identificado, na decisão embargada, nenhum dos vícios necessários ao conhecimento dos embargos declaratórios, a teor do art. 1022 do Código de Processo Civil/2015, adstrito à correção de omissão, contrariedade, obscuridade ou, ainda, erro material.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. FALÊNCIA. IMPONTUALIDADE. TÍTULO EXECUTIVO JUDICIAL. EXECUÇÃO FRUSTRADA. DESNECESSIDADE. LIQUIDEZ DO TÍTULO. SIMPLES CÁLCULO ARITMÉTICO PARA INCLUSÃO DO VALOR DOS ENCARGOS E ABATIMENTO DOS PAGAMENTOS PARCIAIS. ACLARATÓRIOS.
+AUSÊNCIA DE OMISSÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE.
+DESCABIMENTO. (..) 2. Ausentes as hipóteses insertas no art. 535 do CPC, inexistindo omissão, contradição ou obscuridade, não merecem acolhida os embargos que se apresentam com nítido caráter infringente, onde se objetiva rediscutir a causa já devidamente decidida. 3. Caráter manifestamente protelatório dos embargos de declaração, ensejando a aplicação da multa prevista no artigo 538, parágrafo único, do CPC. 4. Embargos de declaração rejeitados, com aplicação de multa. (EDcl no AgRg no Ag 1073663/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/08/2011, DJe 16/08/2011.)
+Observe-se que, em sua petição, as partes embargantes não se desincumbiramde demonstrar a omissão, obscuridade ou contradição no julgado embargado, fazendo arguições insuficientes e sem similitude com o disposto no art.1022 do Código de Processo Civil/2015.
+A propósito, confira-se o seguinte trecho da decisão embargada (e-STJ, fls.244-246):
+Com efeito, o Tribunal de origem, ao julgar a causa, apresentou manifestação nos seguintes termos (fls. 120-122):
+Pretendem os agravantes seja reconhecido excesso de penhora, pois deferida inicialmente a penhora da Fazenda Serra e, posteriormente, de mais dez imóveis de propriedade dos executados, acarretando demasiado sacrifício, devendo ser observado o princípio da menor onerosidade.
+Entretanto, não há como se aferir excesso de penhora neste momento processual, porquanto os imóveis já penhorados não foram sequer objeto de avaliação.
+Ressalte-se que cabia aos executados, diante do vultoso valor da dívida, trazerem elementos mínimos de prova de que os imóveis já penhorados seriam suficientes para garantia da execução, limitando-se, contudo, à invocação do princípio da menor onerosidade da execução, nos termos do disposto no artigo 805 do Código de Processo Civil.
+(..).
+Assim, enquanto não efetivada a avaliação, não demonstrado excesso de penhora, não há razão para reforma da decisão.
+(..).
+Nem mesmo o regime de bens da comunhão universal adotado pelos executados justifica a suspensão da execução em relação à Jurema, pois, embora os imóveis penhorados pertençam a ambos, podem perfeitamente ser alienados, reservando- se a meação do cônjuge beneficiado pelo regime da recuperação judicial.
+Dessa forma, o Tribunal estadual, com base nos fatos dispostos nos autos, entendeu que, "Assim, enquanto não efetivada a avaliação, não demonstrado excesso de penhora, não há razão para reforma da decisão" (fl. 121).
+Assim, a alteração dessas premissas firmadas pela Corte estadual esbarraria nas vedações de novo reexame do conjunto fático-probatório por esta via do recurso especial, o que é inviável, diante da incidência da Súmula 7 desta Corte, no caso.
+De acordo com a jurisprudência do STJ, e considerando o princípio da menor onerosidade, é possível, em certas situações, a relativização da ordem preferencial dos bens penhoráveis estabelecida no artigo 835 do Código de Processo Civil, contudo a análise relacionada à onerosidade da execução, se mais ou menos gravosa ao devedor, demandaria reexame do contexto fático-probatório dos autos, o que é vedado, tendo em vista o óbice da Súmula 7/STJ.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO.APLICAÇÃO DO PRINCÍPIO DA MENOR ONEROSIDADE. ANÁLISE.IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Hipótese em que a Corte local consignou que se mostra legítimo o bloqueio de valores existentes em contas bancárias da recorrente, para fins de penhora, uma vez que tais quantias não seriam legalmente impenhoráveis e que não haveria comprovação de que o valor bloqueado inviabilizaria as atividades da empresa agravante.
+2. Conforme jurisprudência do STJ, que, considerando o princípio da menor onerosidade, é possível que, em certas situações, a relativização da ordem preferencial dos bens penhoráveis estabelecida no artigo 835 do Código de Processo Civil.
+3. No entanto, a análise relacionada à onerosidade da execução, se mais ou menos gravosa ao devedor, demandaria reincursão no contexto fático-probatório dos autos, o que é notoriamente vedado, tendo em vista o óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp 1546523/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/10/2020, DJe 12/11/2020.)
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO. IRRESIGNAÇÃO DA EXEQUENTE.
+1. Com base no princípio da menor onerosidade do executado, a jurisprudência desta Corte permite a inobservância da regra de prioridade de penhora, quando, com base nas provas dos autos, verifique-se que a constrição do bem prioritário possa causa prejuízo excessivo ao devedor.
+2. A revisão do entendimento do acórdão recorrido, quanto à necessidade de substituição do bem penhorado, seja porque a constrição ordenada garante suficientemente a execução, seja porque solução diversa poderia ocasionar prejuízo demasiado ao executado, encontra óbice na Súmula 7/STJ.3. Agravo interno desprovido.
+(AgInt no REsp 1574205/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 25/05/2020, DJe 28/05/2020.)
+Ademais, o Colegiado local concluiu que "Nem mesmo o regime de bens da comunhão universal adotado pelos executados justifica a suspensão da execução em relação à Jurema, pois, embora os imóveis penhorados pertençam a ambos, podem perfeitamente ser alienados, reservando-se a meação do cônjuge beneficiado pelo regime da recuperação judicial"" (fl. 122).
+Nesse contexto, a análise desse posicionamento demandaria o reexame do conjunto probatório disposto nos autos, o que não é viável diante da incidência da Súmula n. 7 do Superior Tribunal de Justiça, no caso.
+Assim, como esta Corte recebe o quadro fático delineado pelas instâncias inferiores, anoto que o Tribunal estadual entendeu que, "Assim, enquanto não efetivada a avaliação, não demonstrado excesso de penhora, não há razão para reforma da decisão" (fl. 121)." (..). "Nem mesmo o regime de bens da comunhão universal adotado pelos executados justifica a suspensão da execução em relação à Jurema, pois, embora os imóveis penhorados pertençam a ambos, podem perfeitamente ser alienados, reservando-se a meação do cônjuge beneficiado pelo regime da recuperação judicial"" (fl. 122).
+Nesse contexto, a alteração dessas premissas esbarraria nas vedações de novo reexame do conjunto fático-probatório por esta via do recurso especial, o que é inviável, diante da incidência da Súmula 7 desta Corte, no caso.
+Dessa forma, verifico que as partes embargantes pretendem, sob o pretexto de existência de omissão e contradição, o rejulgamento da causa.
+Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio.
+Nesse contexto, assinalo que a contradição sanável é aquela interna ao julgado, caracterizada por fundamentos e conclusões inconciliáveis entre si, o que não ocorreu no caso concreto.
+A propósito, vejam os seguintes julgados:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO COLETIVA DE CONSUMO. TRANSPORTE. ACIDENTE. DANO MORAL COLETIVO. RECUPERAÇÃO FLUIDA (FLUID RECOVERY).DISTINÇÃO.APLICAÇÃO NA HIPÓTESE CONCRETA. DANOS INDIVIDUAIS.OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. NÃO OCORRÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação coletiva de consumo na qual é pleiteada a reparação dos danos morais e materiais decorrentes de falhas na prestação de serviços de transportes de passageiros que culminaram em dois acidentes, ocorridos em 13/03/2012 e 30/05/2012.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. O vício que autoriza a oposição dos embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, ou o que ficara decidido na origem, ou, ainda, quaisquer outras decisões do STJ ou do STF.
+4. Embargos de declaração rejeitados.
+(EDcl no REsp 1741681/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/3/2019, DJe 22/3/2019.)
+PETIÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - MATÉRIA SUBMETIDA AO RITO DA REPERCUSSÃO GERAL NO STF - DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM - OBEDIÊNCIA À SISTEMÁTICA PREVISTA NO CÓDIGO DE PROCESSO CIVIL - IRRECORRIBILIDADE - PRECEDENTES DO STJ. INSURGÊNCIA DOS MUTUÁRIOS.
+1. Petição recebida como embargos de declaração, em nome dos princípios da economia processual e da fungibilidade.
+2. Nos estreitos lindes do artigo 1.022, do Código de Processo Civil de 2015, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado.
+3. Embargos de declaração rejeitados.
+(PET no AgInt no AREsp 1293428/PE, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/3/2019, DJe 26/3/2019.)
+Nesse sentido, não havendo omissão ou obscuridade na decisão embargada, mantém-se o julgado embargado tal como posto.
+Fica prejudicado o pedido de concessão de efeito suspensivo ao presente recurso.
+Em face do exposto, não configurado vício na decisão ora embargada, rejeito os embargos de declaração.
+Intimem-se.
