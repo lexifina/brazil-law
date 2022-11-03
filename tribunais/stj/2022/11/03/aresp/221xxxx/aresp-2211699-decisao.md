@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por OSVALDO GONÇALVES DOS SANTOScontradecisão que inadmitiu o recurso especial comfundamento na Súmula n. 7 do STJ.
+Alega oagravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a,da Constituição Federal, foi interposto contra acórdãodo Tribunal de Justiça do Estado do Rio de Janeiro(Agravo de Instrumenton. 0083490-80.2021.8.19.0000) assim ementado(fls. 34-35):
+AGRAVO DE INSTRUMENTO. AÇÃO DE MANUTENÇÃO DE POSSE. DECISÃO DO MAGISTRADO DE 1º GRAU QUE INDEFERIU TUTELA DE URGÊNCIA PARA RESTABELECER O DIREITO AUTORAL DE USO SOBRE O IMÓVEL OBJETO DA LIDE, CONSIDERANDO A PRETENSÃO DE MODIFICAR DECISÃO PRECLUSA PROLATADA EM AUTOS CONEXOS. AGRAVO DE INSTRUMENTO DO AUTOR. DECISÃO MONOCRÁTICA DESTA RELATORA PELO NÃO CONHECIMENTO DO RECURSO, NA FORMA DO ARTIGO 932, III, DO CPC. AGRAVO INTERNO.
+1. Autor, ora agravante, se insurge contra decisão monocrática, proferida por esta Relatora, que não conheceu do seu agravo de instrumento, nos termos do artigo 932, III, do CPC, sob os argumentos de cerceamento de defesa e error in judicando.
+2. Cristalina pretensão do recorrente de, por via transversa, como bem ressaltado na decisão de 1º grau, reverter decisão preclusa prolatada no processo conexo nº 0029741-40.2020.8.19.0209, restando inviável nova apreciação, nestes autos, da presença dos requisitos para a concessão de tutela antecipada já analisados anteriormente pelo juiz de 1º grau.
+3. Agravante que poderia ter impugnado temporaneamente, nos autos conexos, a concessãoda tutela antecipada em favor dos ora agravados, contudo, o fez fora do prazo nos autos do Agravo de Instrumento nº 0017353-19.2021.8.19.0000, o qual não foi conhecido diante da intempestividade, não havendo que se falar, portanto, em error in judicando.
+4. Tese de cerceamento de defesa que não se justifica, porquanto o juízo a quo examinou, por duas vezes, o pleito de restabelecimento da posse autoral, sendo certo que não vislumbrou razões aptas a infirmar o documento de indexador 41 do processo nº 0029741-40.2020.8.19.0209, no qual se baseou a tutela concedida no referido feito.
+5. Elementos e argumentos do presente recurso de Agravo Interno que não são suficientes para modificar a decisão recorrida.6. Recurso conhecido e desprovido.
+Nas razões do recurso especial, oora agravante aponta negativa de vigência aos arts. 300, 554, 560, 561, 562 e 567, todos do Código de Processo Civil. Alega que o acórdão recorrido viola seus direitos possessórios, bem como nega vigência ao art. 1.210 do Código Civil, o qual "impede a qualquer um admoestar a posse" (fl. 86).
+Assevera que o Tribunal estadual violou o art.489, § 1º, IV e VI, por ter deixado de observar "a aplicabilidade do artigo 1.210 do Código Civil e artigos 300, incisos I e II;554; 560; 561; 562 e 567, todos do Código de Processo Civil" (fl. 88).
+Requer o conhecimento e provimento do recurso.
+Não foram apresentadas contrarrazões (fl. 590).
+É o relatório. Decido.
+O recurso não merece prosperar.
+Verifica-se que o recorrente não explicita claramente de que forma os dispositivos legais teriam sido violados, evidenciando-se, assim, adeficiência na fundamentação que inviabiliza a compreensão da controvérsia. Hipótese de aplicaçãoda Súmula n. 284 do STF.
+Ademais, verifica-se que oTribunal de origem não conheceu do agravo de instrumento interposto contra decisão que indeferiu tutela antecipada em ação de manutenção de posse por considerar inadequada a via processual utilizada, vejamos (fl. 38, destaquei):
+ .. de fato, verifica-se a cristalina pretensão do recorrente de, por via transversa, reverter decisão preclusa prolatada no processo conexo, restando inviável nova apreciação, nestes autos, da presença dos requisitos para a concessão de tutela antecipada, já analisados anteriormente pelo juiz de 1º grau nos autos nº 0029741-40.2020.8.19.0209.
+Registre-se que, conforme afirmado, o agravante poderia ter impugnado temporaneamente, nos autos conexos, a concessão da tutela antecipada em favor dos ora agravados, contudo, o fez fora do prazo, por intermédio do Agravo de Instrumento nº 0017353-19.2021.8.19.0000, o qual não foi conhecido diante da intempestividade, não havendo, portanto, que se falar em error in judicando.
+Ainda por amor ao debate, inexiste cerceamento de defesa, porquanto o juízo a quo examinou, por duas vezes, o pleito de restabelecimento da posse autoral, sendo certo que não vislumbrou razões aptas a infirmar o documento de indexador 41 do processo nº 0029741-40.2020.8.19.0209, no qual se baseou a tutela concedida.
+Na hipótese, não foi trazido nenhum novo elemento que pudesse conduzir a entendimento diverso ao que foi trilhado na decisão monocrática proferida.
+Desta feita, os fundamentos e argumentos lançados no presente recurso não são suficientes para modificar o decidido, que merece ser mantido.
+Entretanto, esse fundamento não foi impugnado no recurso especial, o que inviabiliza o seu conhecimento (Súmula n. 284 do STF).
+Ante o exposto, nego provimento ao agravo.
+Nos termos do § 11 do art. 85 do CPC, majoro os honorários advocatícios em desfavor da parte ora recorrente em 10% sobre o valor já arbitrado nas instâncias de origem (fl. 433), observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido artigo,ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
