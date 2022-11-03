@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial apresentado por U  - S  DE Mdesafiando acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 382):
+APELAÇÃO. Plano de saúde. Indicação de realização de procedimento a parte apelante por profissional médico. Recusa da operadora de plano de saúde. Abusividade. Inteligência da Súmula nº 102 deste E. Tribunal de Justiça. Precedente desta C. Câmara. Indenização devida. Ausência de comprovação de rede conveniada apta a fornecer o tratamento. Dano moral. Situação que ultrapassou o mero dissabor. Montante fixado em R$ 5.000,00. Sentença reformada. Recurso provido.
+Em suasrazões(e-STJ, fls. 394-415), a recorrente aponta violação dosarts.47, 51 e 54, § 4º, do CDC;10, VI, da Lei n. 9.656/1998;186, 188 e 927 do CC.
+Sustenta que o material/tratamento prescrito pelo médico não está previsto no rol da Agência Nacional de Saúde Suplementar (ANS), não havendo, desse modo, nenhumaobrigação legal ou contratual para o seu custeio.
+Pondera inexistir cobertura para o fornecimento de órtese craniana.
+Defende a taxatividade do rol de procedimentos elaborado pela ANS, conforme recente entendimento do Superior Tribunal de Justiça.
+Aduz, ainda, ser indevida a condenação ao pagamento de indenização por danos morais.
+Contrarrazõesàsfls. 489-524 (e-STJ).
+O Tribunal de origem admitiu o processamento do recurso especial, ascendendo os autos a esta Corte Superior (e-STJ, fls. 602-604).
+Brevemente relatado, decido.
+A controvérsia do presente recurso refere-se à obrigatoriedade, ou não, de custeio de tratamento/material indicado pelo médico assistente da parte autora.
+No caso em análise, o Tribunal de Justiça, ao julgar a apelação, assim concluiu (e-STJ, fls. 383-386 - sem grifo no original):
+Trata-se de ação indenizatória ajuizada pela parte apelante em face da parte apelada, sob o fundamento de que, apesar de ser beneficiária de um plano de saúde operado pela ré, esta lhe negou cobertura para um tratamento de assimetria craniana feito com órtese sob medida realizado em clínica particular, que lhe custou a quantia de R$ 12.600,00.
+Sustenta que, além de abusiva, a negativa de cobertura da ré para o tratamento de que necessitou lhe causou dano moral. Em razão disso, pretende a condenação da ré ao reembolso da quantia que despendeu e ao pagamento de indenização por dano moral no valor de R$ 7.000,00 (sete mil reais).
+É incontroverso nos autos a indicação médica e a realização do procedimento pela parte apelante.
+O litígio envolve relação de consumo. De um lado, a parte apelante, como consumidora; de outro, a operadora do plano de saúde, ora apelada, como prestadora de serviços, nos termos dos artigos 2º e 3º, do Código de Defesa do Consumidor e Súmulas nº 469 do Superior Tribunal de Justiça e nº 100 do Tribunal de Justiça do Estado de São Paulo.
+Em que pesem as alegações da parte ré, reconhece-se, em linhas gerais, que a ANS estabelece um rol de coberturas mínimas a ser observado pelas operadoras de saúde sem excluir procedimentos não previstos nela. Este é o posicionamento pacífico desta Câmara:
+(..)
+A recusa de cobertura viola a Súmula nº 102 deste Tribunal de Justiça: (Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento de natureza experimental ou por não estar previsto no rol de procedimento da ANS).
+Veja-se que o apelante é usuário do plano de saúde e foi diagnosticada como portadora de "plagiocefalia posicional (Q67.3) ", conforme anexo relatório médico (fls. 37 e seguintes), em que consta que é "condição médica que, quando não corrigida a tempo, pode trazer consequências funcionais definitiva, fortemente relacionadas à assimetria da estrutura óssea craniofacial. Desalinhamento da arcada dentária inferior com consequentes problemas de oclusão dentária, dor na ATM (articulação têm por o mandibular) e mastigação, perda de campo visual secundária ao desalinhamento da órbita, as sim como diversos outros desdobramentos funcionais estão ricamente documentados na literatura médica".
+(..)
+Assim, fica reformada a r. sentença para que a ré seja condenada a restituir à parte apelante o montante gasto para o custeio do procedimento não fornecido pela parte ré, com correção pela tabela TJSP do desembolso e juros de mora a incidir a partir da citação.
+A conclusão a que chegou o Tribunal local foi no sentido de que o rol da Agência Nacional de Saúde Suplementaré meramente exemplificativo, sendo descabida a negativa da operadora de cobertura a tratamento indicado pelo médico.
+Entretanto, de acordo com recente entendimento firmado na Segunda Seção do Superior Tribunal de Justiça, o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro Luis Felipe Salomão, Segunda Seção, julgados em 8/6/2022, DJe de 3/8/2022).
+Por ocasião do julgamento dos mencionados embargos de divergência, o órgão colegiado estabeleceu os seguintes parâmetros, os quais devem ser observados no julgamento do caso concreto:
+1- o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que:
+(i) não tenha sido indeferida expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar;
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências;
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Todavia, no caso em análise, o julgamento das instâncias ordinárias não avançou para aferir o preenchimento dos requisitos acima elencados, ao restringir-se a reputar abusiva a limitação, por entender que a escolha do tratamento do paciente é prerrogativa do profissional médico, concluindo pelo caráter meramente exemplificativo do rol de procedimentos da autarquia reguladora.
+Em face disso, considerando a impossibilidade de reexame das cláusulas contratuais e deelementos fático-probatórios, em virtude dos óbices das Súmulas 5 e 7/STJ, imprescindível que os autos retornem à instância originária, de modo a possibilitar o reexame dos elementos dos autos e da necessidade de produção de outras provas, para que se realize novo julgamento à luz da tese firmada pela Segunda Seção desta Corte Superior, ficando prejudicada, por ora, a análise dasdemais teses recursais.
+Ante o exposto, dou parcial provimento ao recurso especial para, cassando o acórdão recorrido e a sentença, determinar o retorno dos autos à instância originária a fim de que, em novo exame, avalie o preenchimento dos requisitos para o deferimento excepcional da cobertura reivindicada pela parte segurada, tal como delineados pela Segunda Seção do Superior Tribunal de Justiça, julgando o pedido inicial como entender de direito.
+Caso exista liminar concedida, ficam mantidos os seus efeitos até nova apreciação dos autos pelo magistrado de primeiro grau.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PROCEDIMENTO NÃO LISTADO NO ROL DA ANS. APLICAÇÃO DE PRECEDENTE DA SEGUNDA SEÇÃO DESTA CORTE SUPERIOR. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. NECESSIDADE DE RETORNO DOS AUTOS AO JUÍZO DE ORIGEM. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
