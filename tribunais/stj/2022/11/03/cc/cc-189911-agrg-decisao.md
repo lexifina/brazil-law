@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo Ministério Público Federal contra decisão monocrática de fls. 205 - 207, que reconheceu a competência do Juízo de Direito da 2ª Vara de Caicó (RN),para análise da matéria dos autos.
+Alega o Parquet, em síntese, que "a jurisprudência dessa Corte Superior de Justiça tem reconhecido a possibilidade de se declarar competente um terceiro juízo que não figure no incidente, quer na qualidade de suscitante, quer na qualidade de suscitado (CC n. 168.575/MS, Rel. Ministro Reynaldo Soares da Fonseca, DJe: 14/10/2019)".
+Sustenta que "No caso, a vítima Janete Medeiros de Azevedo de Oliveira, representante da empresa Drogaria São Severino, tem domicílio/sede em Ouro Branco/RN, sendo competente para o processamento do inquérito policial o Juízo de Direito da Vara Única da Comarca de Jardim do Seridó/RN (Juízo que não figura no incidente), local onde teve início o procedimento investigatório e, consoante depoimento da vítima, onde também foi realizado um dos depósitos em favor do investigado (e-STJ, fls. 15)."
+Requer, assim, seja reconsiderada a decisão ou que o agravo regimental seja submetido ao colegiado para que seja declarada a competência do terceiro juízo, no caso, oJuízo de Direito da Vara Única da Comarca de Jardim do Seridó/RN.
+É o relatório.
+Decido.
+Em percuciente análise dos autos, verifica-se a pertinência das alegações da recorrente. Assim, nos termos do art. 258, § 3º, do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão de fls. 205 - 207.
+O agravante sustenta que"(..) a vítima Janete Medeiros de Azevedo de Oliveira, representante da empresa Drogaria São Severino, tem domicílio/sede em Ouro Branco/RN, sendo competente para o processamento do inquérito policial o Juízo de Direito da Vara Única da Comarca de Jardim do Seridó/RN (Juízo que não figura no incidente), local onde teve início o procedimento investigatório e, consoante depoimento da vítima, onde também foi realizado um dos depósitos em favor do investigado."
+Sobre o tema, a jurisprudência desta Corte já se manifestou no sentido de ser possível o reconhecimento de declaração da competência de umterceiro juízoque não figure no conflito de competência em julgamento, quer na qualidade de suscitante, quer na qualidade de suscitado.(CC n. 142.934/PR, Terceira Seção, relator Ministro Nefi Cordeiro, DJe de 30/11/2015.)
+Ante todo o exposto, reconsidero a decisão anteriore declarocompetente o terceiro juízo, ou seja, oJuízo de Direito da Vara Única da Comarca de Jardim do Seridó/RN.
+P. e I.
+EMENTA
+AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. ESTELIONATO. DEPÓSITO BANCÁRIO. ART. 70, § 4º, DO CÓDIGO PENAL, MODIFICADO PELA LEI N. 14.155/2021. COMPETÊNCIA DO LOCAL DE DOMICÍLIO DA VÍTIMA. RECONSIDERAÇÃO. TERCEIRO JUÍZO. COMPETÊNCIA DO JUÍZO DE DIREITO DA VARA ÚNICA DA COMARCA DE JARDIM DO SERIDÓ/RN.
