@@ -1,0 +1,29 @@
+DECISÃO
+Banco do Brasil S.A.interpôs recurso especial contra os acórdãos de fls. 1.031-1.040e 1.049-1.055 (e-STJ), proferidos pelo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementados:
+AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE BENEFÍCIO PREVIDENCIÁRIO. HORAS EXTRAS. PRAZO PRESCRICIONAL QUINQUENAL. I - As razões recursais impugnam satisfatoriamente os fundamentos da r. decisão agravada, art. 1.016, inc. III, do CPC. Rejeitada preliminar de não conhecimento. II - Na ação revisional de benefício previdenciário complementar, obrigação de trato sucessivo, estão prescritas as prestações anteriores ao quinquênio que precede o ajuizamento da ação, Súmulas 291 e 427 do STJ. Não há prescrição a ser reconhecida, observadas as datas de início do pagamento do benefício previdenciário e do ajuizamento da ação. III - Agravo de instrumento desprovido.
+EMBARGOS DE DECLARAÇÃO. VÍCIOS. INEXISTÊNCIA. ART. 1.022 DO CPC. I - O acórdão não contém nenhum dos vícios previstos no art. 1.022 do CPC, e os embargos de declaração não se prestam para reexame da matéria já julgada mediante inovação da parte quanto à sua fundamentação recursal. II - Embargos de declaração desprovidos.
+Nas razões do recurso especial (e-STJ, fls. 1.059-1.066), apontou oinsurgentea existência de violação dos arts. 206, § 3º, II e V, do CCBe 1.022 do CPC/2015. Sustentou, em síntese: i) ocorrência de negativa de prestação jurisdicional; e ii) aplicação do prazo prescricional trienal à pretensão de recomposição da reserva matemática.
+Foram apresentadas contrarrazões às fls. 1.078-1.080 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não ocorrência de negativa de prestação jurisdicional; e b) incidência da Súmula 7/STJ.
+Interposto o agravo em recurso especial, em decisão monocrática de fls. 1.109-1.110 (e-STJ), a Presidência do STJ não conheceu do recurso, concluindo pela sua intempestividade.
+Daí sobreveio este agravo interno (e-STJ, fls. 1.114-1.127), no qual defendeoagravantea tempestividade do recurso.
+Impugnação às fls. 1.129-1.133 (e-STJ).
+Brevemente relatado, decido.
+Tendo em vista as razões apresentadas nesta oportunidade, bem como aquelas contidas no agravo em recurso especial, e em estrita observância aos termos da decisão proferida pelo ilustre Ministro Benedito Gonçalves às fls. 1.301-1.303 (e-STJ), verifica-se a tempestividade do agravo em recurso especial. É que oinsurgente foi intimado eletronicamente da decisão agravada em 19/8/2019 (e-STJ, fl. 1.126) e o AREsp foi protocolado em 6/9/2019 (e-STJ, fl. 1.092).
+Importante ressaltar o entendimento desta Corte,proferido no julgamento dos EAREsp n. 1.663.952-RJ, no sentido de que, havendo a publicação da decisão no Diário de Justiça e a intimação eletrônica, prevalece esta última para efeitos da contagem do prazo recursal.
+Portanto, em juízo de retratação, nos termos do § 6º do art. 259 do RISTJ, reconsidero a decisão de fls. 1.109-1.110 (e-STJ) e passo a nova análise do recurso.
+Conforme detalhadono relatório, a Corte de origem não admitiu o recurso especial sob os seguintes fundamentos:não ocorrência de negativa de prestação jurisdicionale incidência da Súmula 7/STJ.
+Todavia, da análise das razões do presente agravo não se extrai impugnação a um dos fundamentos, a saber, a incidência da Súmula 7/STJ.
+A jurisprudência desta Corte é no sentido de que a ausência de impugnação específica de algum dos fundamentos utilizados pela Corte de origem para inadmitir o recurso impede o conhecimento do agravo em recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL, AUTÔNOMOS OU NÃO. ART. 932, III, DO CPC/2015 E SÚMULA 182/STJ, POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. VÍCIOS INEXISTENTES. INCONFORMISMO. REJEIÇÃO DOS EMBARGOS DE DECLARAÇÃO.
+I. Embargos de Declaração opostos a acórdão prolatado pela Segunda Turma do Superior Tribunal de Justiça, publicado em 15/12/2021.
+II. O voto condutor do acórdão embargado apreciou fundamentadamente, de modo coerente e completo, todas as questões necessárias à solução da controvérsia, negando provimento ao Agravo interno, para manter decisão que não conheceu do Agravo em Recurso Especial, em razão da aplicação do disposto no art. 932, III, do CPC/2015, bem como da Súmula 182 do STJ, tendo em vista a ausência de impugnação específica dos fundamentos da decisão que, em 2º Grau, inadmitiu o Recurso Especial.
+III. Inexistindo, no acórdão embargado, omissão, contradição, obscuridade ou erro material, nos termos do art. 1.022 do CPC vigente, não merecem ser acolhidos os Embargos de Declaração, que, em verdade, revelam o inconformismo da parte embargante com as conclusões do decisum.
+IV. Embargos de Declaração rejeitados.
+(EDcl no AgInt no AREsp 1.948.103/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 28/03/2022, DJe 30/03/2022).
+Ante o exposto, em juízo de retratação da decisão de fls. 1.109-1.110 (e-STJ), não conheço do agravo em recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE BENEFÍCIO PREVIDENCIÁRIO. HORAS EXTRAS. RECONSIDERAÇÃO DA DECISÃO ANTERIOR. AFASTAMENTO DA INTEMPESTIVIDADE. NOVA ANÁLISE DO RECURSO. FALTA DE IMPUGNAÇÃO DE UM DOS FUNDAMENTOS DA DECISÃO AGRAVADA. EM JUÍZO DE RETRATAÇÃO, AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
