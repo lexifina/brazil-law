@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CARLOS VIEIRAcontra decisão singular de minha relatoria que deu provimento ao recurso especial interposto pelo ora embargado em virtude da violação do art. 1.022 do Código de Processo Civil/2015.
+Sustenta o embargante que não há violação do art. 1.022 do CPC/2015 e que se trata de merairresignação do embragado, uma vez que o Tribunal de origem se manifestou expressamente sobre o termo inicial da prescrição.
+Afirma que o julgamento do Recurso Especial representativo da controvérsia, REsp 1.361.730/RS o STJ, ao alterar a jurisprudência relativa ao prazo prescricional da ação de revisão dos contratos bancários, deveria ter determinado a modulação dos efeitos da decisão, sendo imperioso que essa modulação dos efeitos seja feita no caso concreto.
+Impugnação apresentada.
+Assim delimitada a questão, passo a decidir.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente para reconhecer a existência de omissão quanto ao termo inicial da prescrição,razão pela qual não merece reparo algum, conforme se depreende de seus próprios fundamentos, a seguir transcritos (e-STJ, fls. 421/422):
+De fato, em seus embargos de declaração, o recorrente requereu a manifestação do Tribunal de origem quanto a existência de contradição sobre o termo inicial da prescrição, uma vez que considerou àdata de início da vigência do Plano Collor, e não a data do pagamento da dívida.
+Da acurada análise do acórdão que julgou os embargos de declaração, verifica-se que o Tribunal de origem não tratou sobre o tema, visto que apenas consignou:
+Verifica-se que no decisum combatido houve a ampla e detida análise de todas as teses suscitadas, esclarecendo, portanto, os pontos nos presentes aclaratórios aventados. Confira-se o teor do julgado hostilizado:
+"O agravante alega, em síntese, que a pretensão de repetição de indébito de contrato de Cédula de Crédito Rural prescreve no prazo de vinte anos, sob a égide do art. 177 do Código Civil de 1916 e de três anos, sob o amparo do art. 206, § 3º, IV do Código Civil de 2002, sendo que o termo inicial é a datada efetiva lesão, ou seja, do pagamento.
+Pois bem. O artigo 2.028 do Código Civil atual disciplina a transição entre o Código Civil de 2.002 e o de 1916. Veja-se:
+"Art. 2.028. Serão os da lei anterior os prazos, quando reduzidos por este Código, e se, na data de sua entrada em vigor, já houver transcorrido mais da metade do tempo estabelecido na lei revogada."
+Consoante decidido,não há se cogitar a ocorrência de prescrição das Cédulas de Crédito Rurais, sobretudo diante dos inúmeros precedentes desta Corte Recursal e do Colendo Superior Tribunal de Justiça por meio dos quais se firmou o entendimento segundo o qual a prescrição é vintenária, tanto nas ações de cobrança de resíduos, como nas de restituição de valores cobrados com aplicação de indevido índice de correção monetária e deve ser contada a partir do evento danoso, que corresponde ao pagamento indevido.
+Aliás, o tema encontra-se sedimentado no Superior Tribunal de Justiça, por meio do Recurso Repetitivo de Tema 919, citado pelo agravante em suas razões, assim ementado:
+ ..
+A par disso, à época em que o novo Código Civil entrou em vigor no ano de2003, já havia transcorrido 13 (treze) anos da instituição do Plano Collor, ou seja, 13 anos do prazo prescricional de 20 (vinte) anos estabelecido na legislação anterior para as ações pessoais, isto é, mais da metade.
+Logo, deve prevalecer o prazo de vinte anos fixado pelo artigo 177 do Código Civil de 1916 que possui a seguinte redação:
+"Art. 177. As ações pessoais prescrevem, ordinariamente, em 20 (vinte)anos, as reais em 10 (dez), entre presentes, e entre ausentes, em 15(quinze), contados da data em que poderiam ter sido propostas."
+Assim, se o autor/agravado pretende receber expurgos inflacionários ocorridos em março/abril de 1990, a pretensão não se encontra prescrita, uma vez que a presente ação foi proposta em fev/2010  ..  (e-STJ, fls. 339/341 - sem destaques nos original)
+Como se vê o Tribunal de origem consignou que "se firmou o entendimento segundo o qual a prescrição é vintenária, tanto nas ações de cobrança de resíduos, como nas de restituição de valores cobrados com aplicação de indevido índice de correção monetária edeve ser contada a partir do evento danoso, que corresponde ao pagamento indevido", mas, para fins de contagem do prazo prescricional no caso em análise, considerou a data de vigência do Código Civil e a instituição do plano Collor, e não a data do pagamento dos títulos executados. Confira-se:
+Quanto ao mais, no seu recurso especial o ora embargado requereu apenas a alteração do termo inicial do prazo prescricional, reforçando que o Tribunal de origem aplicou corretamente o disposto no precedente firmado no Tema 919 peloSTJ, a pretensão de modulação dos efeitos deste julgamento, portanto,não podeser analisada no âmbito de embargos de declaração.
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
