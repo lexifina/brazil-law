@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento arecurso especial, no qual se alega violação dos arts. 805 e 833, V, do Código de Processo Civil. O acórdão recorrido estáretratado na seguinte ementa (fls. 308/309):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL - CÉDULA DE CRÉDITO BANCÁRIO. INSURGÊNCIA EM FACE DA MANUTENÇÃO DE RESTRIÇÃO DE CIRCULAÇÃO DO VEÍCULO. POSSIBILIDADE. AUSÊNCIA DE DEMONSTRAÇÃO DA ESSENCIALIDADE DO VEÍCULO PARA O EXERCÍCIO DA ATIVIDADE EMPRESARIAL. DELIBERAÇÃO PRIMEVA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+1 - Trata-se de Agravo de Instrumento com pedido de efeito suspensivo ativo, interposto por SOBRAL PRODUTORA DE ARTEFATOS TEXTEIS INDUSTRIA E COMERCIO LTDA. EPP, em face da decisão proferida pelo d. Juízo da 1ª Vara Cível da Comarca de Sobral - CE, nos autos da Execução de Título Extrajudicial (nº 0004067-23.2018.8.06.0167), movida por BANCO DO NORDESTE DO BRASIL S/A.
+2 - A insurgência do recorrente reside na manutenção da restrição de circulação do automóvel de marca/modeloI/LRDISCOVERY 4 S e placas OSV 0202, sob o fundamento de que tal veículo é necessário ao regular exercício da atividade empresarial.
+3 - Compulsando-se o caderno processual, testifico que inexiste demonstração da essencialidade do supracitado veículo. Em verdade, observa-se que o automóvel é considerado veículo não utilitário. Ademais, verifica-se também, que a empresa agravante alega que o bem é essencial ao desempenho de sua atividade profissional na realização de atividades empresariais cotidianas. Contudo, para que seja essencial a ponto de ser considerado impenhorável, exige-se a demonstração de que o bem é um instrumento indispensável ao desempenho profissional, como por exemplo um veículo de transporte de cargas ou de passageiros, o que não se assemelha ao caso sub oculis.
+4 - Dessarte, vislumbro que se impõe a manutenção in totum do decisum agravado, pois não restou demonstrada a probabilidade do direito alegado e tampouco o perigo de dano.
+5 - Isto posto, hei por bem conhecer do Agravo de Instrumento, mas para negar-lhe provimento e manter a deliberação proclamada na Decisão Interlocutória adversada.
+Sustentaque é impenhorável o bem móvel necessário à manutenção do regular exercício da atividade do executado.
+Afirma que a baixa da restrição de circulação do veículo viabilizará que a empresa continue auferindo renda e, consequentemente, perpetue o regular funcionamento de sua atividade profissional.
+Assim posta a questão, passo a decidir.
+Verifico que o Tribunal de origem concluiu pela ausência de demonstração da essencialidade do veículo para o exercício da atividade empresarial, conforme se extrai dos seguintes trechos(fls. 314/315):
+(..)A insurgência do recorrente reside na manutenção da restrição de circulação do automóvel de marca/modelo I/LRDISCOVERY 4 S e placas OSV 0202, sob o fundamento de que tal veículo é necessário ao regular exercício da atividade empresarial.
+Compulsando-se o caderno processual, testifico que inexiste demonstração da essencialidade do supracitado veículo. Em verdade, observa-se que o automóvel é considerado veiculo não utilitário.
+Ademais, verifica-se também, que a empresa agravante alega que o bem é essencial ao desempenho de sua atividade profissional na realização de atividades empresariais cotidianas. Contudo, para que seja essencial a ponto de ser considerado impenhorável, exige-se a demonstração de que o bem é um instrumento indispensável ao desempenho profissional, como por exemplo um veiculo de transporte de cargas ou de passageiros, o que não se assemelha ao caso sub oculis.(..)
+Com efeito, registro que rever a conclusão do acórdão recorridodemandaria
+o reexamefático dos autos, o queencontra óbice no enunciado n. 7 daSúmula do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
