@@ -1,0 +1,76 @@
+DECISÃO
+Cuida-se de agravo interno interposto por por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A.contra a decisão de fls. 697-699 (e-STJ), da Presidência desta Corte, que não conheceu do recurso especial, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, haja vista a ausência de impugnação da totalidade dosfundamentos utilizados pela decisão de admissibilidade.
+O aludido apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, em desafio a acórdão prolatado pelo Tribunal do Estado de São Paulo assim ementado (e-STJ, fl. 555):
+PLANO DE SAÚDE. Incidência do CDC (Súmula 608 do STJ). Reajustes anuais aplicados de 2015 até 2017. Ausência de base atuarial idônea para comprovar a adequação dos percentuais aplicados. Abusividade constatada. Precedentes. Irrelevância do caráter coletivo do seguro contratado. Aplicação do índice previsto pela ANS para os contratos individuais. Reajustes afastados. Majoração dos honorários advocatícios sucumbenciais (art. 85, §11, do CPC). Sentença mantida. RECURSO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 623-628).
+Nas razões do recurso especial (e-STJ, fls. 567-576), a recorrente alegou que o acórdão impugnado incorreu em violação dos arts. 1022 do Código de Processo Civil de 2015; 35-E, § 2º da Lei n. 9.656/1998; e 478 do Código Civil.
+Sustentou, em síntese, que o acórdão recorrido foi omisso quanto à análise dalegalidade do reajuste do plano de saúde por sinistralidade, tendo em vista que a aplicação da Lei n. 9.656/1998 "somente sujeita ao controle da ANS o reajuste dos planos individuais e familiares, deixando livre a negociação no caso dos planos coletivos" (e-STJ, fl. 570).
+Argumentou quea vedação do reajuste do plano de saúde por aumento de sinistralidade, desrespeitou-se as estipulações pactuadas entre as duas pessoas jurídicas, ferindo os princípios da liberdade de contratação e da boa-fé objetiva.
+Não foram apresentadas contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo àsfls.638-643 (e-STJ).
+Contraminuta apresentada (e-STJ, fls. 562-579).
+Daí o presente agravo interno (e-STJ, fls.702-708), por meio do qual defende a insurgente a inaplicabilidade do óbice apontado para o não conhecimento do agravo em recurso especial, afirmando ter impugnado todos os fundamentos da decisão de inadmissibilidade no agravo apresentado.
+Pleiteia, ao final, a reconsideração da decisão agravada ou a submissão do agravo interno ao Colegiado.
+Sem impugnação, conforme certificado à fl. 716 (e-STJ).
+Brevemente relatado, decido.
+De plano, vale pontuar que o recurso em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Com efeito, a jurisprudência desta Corte é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Dessa maneira, constata-se que a matéria em exame foi devidamente enfrentada pelo Colegiado de origem, que sobre ela emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da agravante.
+No ponto:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE CONTRADIÇÃO. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.481.469/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/08/2021, DJe 18/08/2021)
+PROCESSUAL CIVIL E CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM REPARAÇÃO POR DANOS MORAIS. OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Ação declaratória cumulada com reparação por danos morais, em razão de inadimplemento contratual de contrato de compra e venda de imóvel.
+2. Os embargos de declaração, a teor do art. 1.022 do CPC, constitui-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1.740.140/SP, Rel. Ministro NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/04/2021, DJe 28/04/2021)
+No tocante ao reajuste das mensalidades realizado pelo plano de saúde, o Tribunal estadual, ao dirimir a controvérsia, assim se manifestou (e-STJ, fls. 557-560, sem grifos no original):
+No caso, o autor se insurge contra os reajustes da mensalidade do plano de saúde coletivo do qual é beneficiário, defendendo a abusividade nos percentuais adotados.
+Embora o reajuste tenha previsão contratual e, em princípio, vise a conservar seu equilíbrio econômico-financeiro, caberia à demandada, na condição de fornecedora de serviços e detentora de todo o aparato técnico do negócio que coloca à disposição do mercado de consumo, comprovar a base atuarial idônea utilizada para sustentar o aumento promovido.
+ ..
+Neste particular, a mensalidade foi aumentada em desacordo com os índices autorizados pela ANS, com justificativa genérica de previsão contratual e sem demonstração efetiva de que o percentual respeitava parâmetros técnicos adequados. Assim, por ferir preceitos básicos do Código de Defesa do Consumidor e o próprio princípio da boa-fé objetiva, que reveste o ordenamento jurídico, o reajuste deve ser afastado.
+ ..
+O entendimento deve ser conservado ainda que se trate de contrato coletivo. Isso porque os planos de saúde coletivos por adesão possuem nítida feição individual para a prestação de serviços de saúde, razão pela qual seus beneficiários merecem o mesmo tratamento dos contratantes individuais.
+É claro que os planos coletivos regem-se por normas próprias e cálculos atuariais diferenciados, mas não se pode perder de vista que o destinatário final dos serviços é sempre o consumidor, pessoa física vulnerável e exposta às práticas comerciais abusivas.
+De tal modo, todo reajuste deve vir amparado por informações claras e precisas destinadas aos segurados, para que possam de antemão visualizar se possuem condições de arcar com as mensalidades e se preparar para o desembolso das quantias necessárias ao adequado adimplemento contratual.
+ ..
+Cabe esclarecer que a sentença não limitou todos os reajustes relativos ao plano de saúde do autor aos índices da ANS, adotando os percentuais fornecidos para os anos de 2015, 2016 e 2017 como parâmetro para o caso em questão em decorrência da falta de comprovação da base atuarial para os índices adotados no período.
+Ressalte-se que a cláusula que prevê o reajuste por sinistralidade, por si só, não é abusiva. O que se reconhece no presente caso é que houve abusividade nos índices adotados porque vieram desacompanhados da efetiva demonstração do aumento da sinistralidade ou da elevação dos custos operacionais.
+Além disso, o parecer atuarial de fls. 489/495 poderia/deveria ter sido juntado aos autos no momento da instrução do processo, até mesmo o para garantir a comprovação de que existia justificativa para os índices de reajustes adotados, questão indicada como ponto controvertido principal. Assim, não cabe a consideração do referido documento após o sentenciamento do feito porque operada a preclusão.
+ ..
+Neste panorama, em razão da ausência de justificativa para os aumentos praticados, era mesmo caso de reconhecimento da abusividade dos percentuais, ficando mantida a sentença por seus próprios fundamentos.
+Das razões aventadas, depreende-se que o Tribunal estadual reconheceu a abusividade dos reajustes por sinistralidade apenas do ponto de vista da falta de demonstração dos elementos que levaram ao suposto aumento desse custo, consignando que a ré, ora agravante, não se desincumbiu de tal ônus.
+Nesse contexto, reverter a conclusão do Tribunal local, para acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+Na mesma linha de cognição:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO REVISIONAL DE CONTRATO. PLANO DE SAÚDE COLETIVO. MAJORAÇÃO ANUAL DA MENSALIDADE. NECESSIDADE DE DEMONSTRAÇÃO DO AUMENTO DE INSUMOS E SERVIÇOS. FUNDAMENTO NÃO IMPUGNADO DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. REAJUSTE EM VIRTUDE DA ALTA SINISTRALIDADE. FUNDAMENTOS RECURSAIS DISSOCIADOS DO ARESTO COMBATIDO. SÚMULA Nº 284 DO STF. AUSÊNCIA DE PROVA QUE JUSTIFICASSE O REAJUSTE. IMPOSSIBILIDADE DE REVOLVIMENTO DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS NºS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. APELO NOBRE NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A subsistência de fundamentos inatacados impede a admissão da pretensão recursal, a teor do entendimento da Súmula nº 283 do STF, e a dissociação das razões recursais daquilo que ficou decidido pelo eg. Tribunal de Justiça do Distrito Federal e dos Territórios obstaculiza a análise do objeto recursal, a teor da Súmula nº 284 do STF.
+3. Qualquer outra apreciação acerca da ilegalidade do aumento da mensalidade do plano de saúde, da forma como trazida no recurso especial, implicaria o necessário revolvimento do arcabouço fático-probatório, procedimento sabidamente aqui inviável diante do óbice das Súmulas nºs 5 e 7, ambas do STJ.
+4. Esta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissenso é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+5. Recurso especial não conhecido.
+(REsp 1.848.022/DF, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 01/09/2020, DJe 08/09/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA
+1. A alegação de afronta ao art. 1.022 do CPC/15 apresentada de forma genérica, sem a efetiva demonstração da ocorrência de omissão, contradição, obscuridade ou erro material, atrai a incidência, por analogia, do óbice da Súmula 284/STF.
+2. Nos termos da jurisprudência desta Corte, é válida a cláusula que autoriza o reajuste de plano de saúde com base na sinistralidade, ressalvadas as hipóteses de abusividade do percentual aplicado. Precedentes.
+2.1. No caso, o Tribunal local considerou que não houve indicação dos critérios que embasaram o reajuste, que também não encontrava lastro no relatório de desempenho apresentado pela operadora. A revisão dessa conclusão exigiria a incursão nos fatos e provas coligidos aos autos. Incidência das Súmulas 5 e 7/STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1.567.127/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 19/11/2019, DJe 25/11/2019)
+Ademais,atentando-se aos argumentos trazidos pela agravante e aos fundamentos acima destacados e adotados pela Corte local, verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a manutenção de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo nobre, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  AÇÃO DE DESPEJO. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO. INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. É inadmissível o recurso especial que não impugna fundamento do acórdão recorrido apto, por si só, a manter a conclusão a que chegou a Corte Estadual (enunciado 283 da Súmula do STF).
+2. Inexiste nulidade quando o julgamento antecipado da lide decorre, justamente, do entendimento do Juízo a quo de que o feito encontra-se devidamente instruído com os documentos trazidos pelas partes. Precedentes.
+2.1. O acolhimento do inconformismo recursal, no sentido de aferir a suficiência das provas constantes dos autos, bem como analisar a existência do apontado cerceamento de defesa implicaria no revolvimento de todo o contexto fático-probatório, providência que esbarra no óbice da Súmula 7/STJ.
+3. A incidência dos referidos óbices impede o conhecimento do recurso lastreado na alínea "c" do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática.
+Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1966451/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/02/2022, DJe 09/03/2022)
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento, em juízo de reconsideração.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em 2% sobre o valor da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE EMPRESARIAL.DECISÃO DE ADMISSIBILIDADE IMPUGNADA, AINDA QUE SUCINTAMENTE. NOVA ANÁLISE DO AGRAVO.NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. REAJUSTE DAS MENSALIDADES POR SINISTRALIDADE. FALTA DE DEMONSTRAÇÃO DOS CRITÉRIOS PARA ALCANÇAR O ÍNDICE DE REAJUSTE PRETENDIDO. AUSÊNCIA DE ELEMENTOS PARA AFERIR A SUA REGULARIDADE. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. FUNDAMENTO INATACADO. SÚMULA 283/STF.AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO,EM JUÍZO DE RECONSIDERAÇÃO.
