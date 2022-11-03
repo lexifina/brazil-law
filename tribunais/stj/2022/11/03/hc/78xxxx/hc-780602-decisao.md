@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deMARCELE NALBERTO DA ENCARNAÇÃO contra decisão indeferitória de provimento urgente proferida por Desembargador do Tribunal de Justiça do Estado de Roraima no HC n. 9001084-95.2022.8.23.0000.
+Consta nos autos que aPacientefoipresaem flagrante,em28/04/2022, e denunciada como incursa noart.33,caput, c.c. o art. 40, inciso V, ambosda Lei n. 11.343/2006, porque foisurpreendida "na área de divisa entre os Estados do Amazonas e de Roraima com outras duas pessoas, quando estava transportando a quantidade aproximada de 10 (dez) quilos de substâncias entorpecentes ilícitas oriundas de transação realizada na cidade de Manaus/AM, com destino final em Boa Vista/RR" (fl. 67).
+O Juízo de primeiro grau converteu a prisão em flagrante em custódia preventiva e negou opleitodefensivode revogação da prisão ou substituiçãopela modalidade domiciliar (fls. 61-64).
+Irresignada, a Defesa impetrouhabeas corpusno Tribunal de origem, porémo pedido liminar foi indeferido(fls. 66-68).
+No dia 21/06/2022, foi impetradowrit perante o Supremo Tribunal Federal (HC n.216.961/RR), ao qual o Ministro Presidente negouseguimento,determinando, contudo, a remessa dos autosao Superior Tribunal de Justiça para a adoção das providências que julgar cabíveis, em decisão proferida no dia 22/06/2022 (fls. 102-108). Por essa razão, foi autuado o presente habeas corpus.
+Nestewrit, a Parte Impetrantedefende, em suma, a necessidade de se superar a vedação prevista na Súmula n. 691 do Supremo Tribunal Federal, em face daausência de fundamentação idônea do decreto prisional e dos requisitos autorizadores da segregação cautelar.
+Sustenta, ainda, o direito da Paciente à prisão domiciliar, nos termos dos arts. 318 e 318-A, do Código de Processo Penal, pois é mãe e imprescindível ao sustento de duas crianças.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva imposta à Paciente, ainda que mediante a imposição de medidas cautelares alternativas, ou a substituição do cárcere em estabelecimento prisional pela modalidade domiciliar.
+É o relatório.
+Decido.
+Constato que no Habeas Corpus n. 744.450/RR, protocolado perante esta Corte Superiorem24/05/2022,foi formulada idêntica pretensão à veiculada no presente feito, em favor da mesma Acusada e contra o mesmo ato coator.
+Naquelewrit, em decisão monocrática proferida no dia31/05/2022e transitada em julgado no dia 07/06/2022, indeferi liminarmente a petição inicial,por não observarnenhuma teratologia apta a justificar a superação do óbice processual previsto na Súmula n. 691 do Supremo Tribunal Federal.
+Trata-se esta impetração, portanto, de mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem a mesma decisão.
+Conclui-se, assim, pela inadmissibilidade domandamus, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado em writ anteriormente impetrado nesta Corte".
+No mesmo sentido, v.g.: HC 519.170/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/10/2019, DJe 21/10/2019; EDcl no AgRg no HC 532.973/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.
+Além disso, é oportuno mencionar que,após o julgamento do mérito do writ originário peloColegiado estadual, foi aqui impetrado o Habeas Corpus n. 753.804/RR. Então, em decisão monocrática proferida em 12/08/2022 e transitada em julgado no dia 23/08/2022, conheci parcialmente do habeas corpus e, nessa extensão, deneguei a ordem, nos termos da seguinte ementa:
+"HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO ILÍCITO DE DROGAS. PLEITO DE REVOGAÇÃO DA PRISÃO PREVENTIVA OU SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. SUPRESSÃO DE INSTÂNCIA. PEDIDO DE PRISÃO DOMICILIAR. GENITORA DE DUAS CRIANÇAS. CRIME PRATICADO APÓS CONCESSÃO DE LIBERDADE COM MEDIDAS CAUTELARES EM FEITO DIVERSO POR ROUBO. DESCABIMENTO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA."
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. WRITAUTUADO A PARTIR DE REMESSA DE PEÇASDO SUPREMO TRIBUNAL FEDERAL. INSURGÊNCIA CONTRA DECISÃO QUE INDEFERIU O PEDIDOLIMINARNA ORIGEM. REITERAÇÃO DE PEDIDO. IDENTIDADE DE PARTES, DE OBJETO E DECAUSA PETENDI. PRETENSÃO DEFENSIVA JÁ VENTILADA EMWRITJULGADO POR ESTA CORTE SUPERIOR. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
