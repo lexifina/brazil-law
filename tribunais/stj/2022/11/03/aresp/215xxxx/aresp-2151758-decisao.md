@@ -1,0 +1,45 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento interposto pelo Município de Jataí contra decisão que, nos autos de cumprimento de sentença, determinou a remessa dos autos à Contadoria Judicial.No Tribunal a quo a decisãofoi reformada, para restabelecer os critérios de cálculo fixados no título judicial.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. FASE DE CUMPRIMENTO DE SENTENÇA. RECURSO SECUNDUMEVENTUM LITIS. HONORÁRIOS E MULTA DO ARTIGO 475-J,DO CÓDIGO DE PROCESSO CIVIL DE 1973. ANÁLISE DEQUESTÕES JÁ DECIDIDAS ANTERIORMENTE. OFENSA A COISAJULGADA. JUROS DE MORA E CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA. FIXAÇÃO. AUSÊNCIA DE FATOS NOVOS
+No recurso especial a parte recorrente alega, resumidamente, as seguintes razões abaixo transcritas:
+ ..
+IV.1 -Da ofensa aos artigos525, V c/c 8º, ambosdo Código de Processo Civil
+ ..
+Ora, a sentença condenou a CELG D ao pagamento do valor de R$ 10.979.273,68, corrigidos pelo INPC e juros de 0,5% ao mês (Doc. 03). Esta decisão não foi reformada. Ocorre que na exordial da Execução Provisória o Município apresentou o valorde R$ 18.247.409,40, com a aplicaçãodos corretos parâmetros. A penhora online foi realizada em 09/01/2009 no valor apresentado (Doc. 04), no entanto, cancelada pelo TJGO.
+ ..
+Conclui-se que erroneamente o Município aplicou juros em 1%, ao invés de 0,5% !
+A penhora online foi realizada em 14/09/2010 no valor de R$ 23.924.296,21 (Doc. 06). Em seguida, a CELG D apresentou depósito no valor remanescente de R$ 934.554,59 (Doc. 07).
+O Município apresentou um valor remanescente do principal de R$ 2.589.217,89 (Doc. 08), contudo, novamente ERRONEAMENTE aplicou os juros em 1% ao invés de 0,5%.
+A CELG D apresentou impugnação informando que o valor na verdade seria de R$ 1.429.677,54 (Doc. 09) com a aplicação correta dos juros em 0,5%. Na decisão de Doc. 10, o magistrado deu razão a CELG D e realizou a penhora online no valorde R$ 1.538.557,56 em 04/06/2014.
+ ..
+Desconsiderando totalmente os erros outrora cometidos, o Município apresentou o valor de R$ 6.227.875,37, consoante à multa de 10% e honorários advocatícios em 5% na fase executória, contudo, não apresentou corretamente este valor porque não abateu do valor as penhoras online e o depósito realizado(Doc. 11)
+É este erro que o magistrado de primeira instância buscou concertar ao remeter os autos a Contadoria Judicial para verificação do correto valor da multa de 10% e honorários advocatícios de 5% na execução! Não há qualquer erro no cálculo realizado pela Contadoria Judicial, uma vez que estes estão em conformidade com os parâmetros da sentença.
+ ..
+Veja que o decisum acima se assemelha ao presente caso, uma vez que esta Corte Superior analisou os atos processuais principais do processo reconhecendo que os cálculos da contadoria estavam em concordância com os parâmetros da sentença! É ISTO QUE SE BUSCA DESTA EGRÉGIA CORTE!
+ ..
+Veja que a busca da Recorrente é pela manutenção dos cálculos realizados pela Contadoria Judicial! A decisão do TJGO, além de trazer insegurança jurídica, enfraquece o Poder Judiciário, mitigando o poder de atuação do magistrado que em caso de dúvida do correto valor remete o processo para a Contadoria Judicial!
+Cumpre destacar que a matéria aqui debatida é de direito, e não de fato: reconhecimento do cálculo da Contadoria Judicial; restando apenas a conferência de melhor interpretação jurídica ao caso e aplicação da jurisprudência desta Corte, sendo inaplicável a Súmula 7 do STJ.
+ ..
+IV.2 -Da ofensa ao artigo 1.022, II, parágrafo único, inciso II c/c artigo 489, § 1º, inciso IV, do Código de Processo Civil
+Primeiramente, no Item IV do Agravo Interno consta a demonstração de que in casu fora aplicado erroneamente os juros de mora em 1% nos cálculos do Município, ao invés de 0,5%, e até por isso que o magistrado remeteu os autos a Contadoria Judicial.
+Ocorre que a decisão que improveu o Agravo Interno justificou a aplicação dos juros de 1% na correção da multa e honorários por estar na fase executiva, in verbis: "os juros de mora consignados na decisão agravada (1% ao mês), tratam-se de encargos cobrados do devedor em função do atraso do pagamento do título".
+ ..
+Também, no item IV do Agravo Interno consta a alegação de que NÃO FOI APONTADO QUALQUER ERRO NOS CÁLCULOS DA CONTADORIA PELO MUNICÍPIO DE JATAÍ, logo deveria ter sido reconhecido os cálculos da Contadoria Judicial como verdadeiros e legítimos!
+Em nenhum momento no Agravo de Instrumento do Município de Jataí houve a apresentação de quais erros de cálculo a Contadoria Judicial teria cometido. E nem poderia, uma vez que inexiste qualquer erro, pois foi aplicado corretamente o índice de atualização e juros de mora em 0,5% para verificar o correto valor da multa e honorários advocatícios na execução.
+ ..
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Ao contrário do que alega o agravante em seu recurso, a peça acostada pelo agravado no movimento 3, arquivo 218, trouxe a planilha contendo os cálculos referentes a multa do artigo 475-J e os honorários advocatícios corrigidos monetariamente a partir da citação e juros moratórios de 0,5%, a qual, entrementes, não foi impugnada em momento oportuno, portanto já se encontra preclusa a matéria.
+Por outro lado, os juros de mora consignados na decisão agravada(1% ao mês), tratam-se de encargos cobrados do devedor em função do atraso do pagamento de um título, sendo exigidos a partir da data do vencimento e enquanto a conta não for liquidada e a dívida continuar em aberto, como é o caso dos autos.
+Por iguais razões, ressalto que restou bem claro os parâmetros que a Contadoria Judicial deve levar em conta para atualização do quantum debeatur, senão vejamos:
+"(..) sejam realizados novos cálculos levando em consideração os documentos acostados aos movimentos 3(arquivos 55 e 218) e 55 dos autos originários, sem embargo da dedução como também da quantia que foi depositada em juízo e levantada pelo exequente conforme demonstra os movimentos 132 e 135/139, por ser incontroverso".
+Não há, portanto, violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ, quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
