@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJPE assim ementado (e-STJ fls. 310/311):
+EMENTA: Apelação Cível. Plano de saúde. Segurada diagnosticado com depressão. Tratamento de "neuromodulação" (Estimulação Magnética Transcraniana - EMT). Prescrição Médica. Desaprovação de inclusão do tratamento no Rol de procedimentos mínimos de cobertura. Rol da ANS. Distinguishing. Mudança de entendimento. Negativa de Cobertura lícita. Provimento do recurso. Decisão unânime.
+1. O posicionamento da Terceira Câmara Cível, em consonância com o entendimento do STJ, é no sentido de que o simples fato do procedimento não constar do aludido rol não se presta como argumento para obstar a cobertura de tratamento médico prescrito ao segurado.
+2. Distinguishing. Particularidade no caso concreto: o tratamento teve a sua inclusão no Rol negada pela própria ANS.
+3. Grupo Técnico do COSAÚDE, responsável por apreciar e revisar as propostas para as alterações no Rol de Procedimentos e Eventos em Saúde, negou a inclusão do tratamento de estimulação magnética transcraniana - EMT.
+4. "O Comitê concordou pela recomendação de não incorporação do procedimento "Estimulação Magnética Transcraniana (EMT)" pois as evidências apresentadas na revisão sistemática demonstram que apesar de ser melhor que o placebo em termos de diminuição do escore de Ramilton, o resultado não atingiu o benefício esperado pelos autores. Quando comparada a ECT, teve um menorbenefício. Adicionalmente, o mecanismo de ação ainda não está estabelecido.".
+5. Demonstrada a licitude da negativa. Reforma da sentença.
+6. Provimento do recurso. Decisão unânime.
+Os embargos de declaração foram rejeitados (e-STJ fls. 361/366).
+Nas razões do especial (e-STJ fls. 373/389), fundamentado no art. 105, III, "a" e "c", da CF/1988, a parte recorrente aponta dissídio jurisprudencial e violação dos arts. 10, 12, I, "b",e 35-C da Lei n. 9.656/1998 e 4º, III, da Lei n. 9.961/2000, afirmando ilegítima a limitação da cobertura de procedimento terapêutico não previsto no rol de procedimentos e eventos elaborado pela Agência Nacional de Saúde Suplementar - ANS, que teria natureza exemplificativa.
+Contrarrazões às fls. 423/431(e-STJ).
+Decisão pela admissibilidade do recurso às fls. 433/436 (e-STJ).
+É o relatório.
+Decido.
+Na origem, a parterecorrente ajuizou demanda objetivando a cobertura do plano de saúde para tratamento de depressão mediante terapêutica pelo método EMT, assim como requereu danos morais (e-STJ fls. 7/43).
+Em primeiro grau de jurisdição (e-STJ fls. 242/245), os pedidos foram julgados parcialmente procedentes, decisão reformada pelo TJPEnos termos do acórdão cuja ementa fora transcrita acima.
+Ocorre que, em assentada recente, a Segunda Seção do STJ firmou entendimento de que o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgados em 8/6/2022, DJe de 3/8/2022).
+Sem embargo, o Órgão Colegiado admitiu a excepcional possibilidade de cobertura do procedimento - indicado pelo médico ou odontólogo assistente, mas não previsto no rol da agência reguladora -, inexistindo substituto terapêutico listado, desde que:
+(i) não tenha sido indeferida expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar,
+(ii) haja comprovação da eficácia do tratamento, à luz da medicina baseada em evidências,
+(iii) haja recomendações de órgãos técnicos de renome, nacionais (como CONITEC e NATJUS) e estrangeiros, e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+De modo específico, para a terapia que visa o tratamento da depressão/ esquizofreniapelo método EMT, definiu-se, no âmbito dos EREsp n. 1.886.929/SP, que, havendo esgotamento dos procedimentos do Rol da ANS e inexistindo recusa da agência reguladora em inclui-la em sua listagem, é devida a cobertura pelo plano ou seguro de saúde, sobretudo por haver recomendação da CONITEC para adoção dessa terapia no âmbito do SUS e estudos científicos comprovando a eficácia do tratamento (medicina baseada em evidências), os quais foram reconhecidos em Nota Técnica emitida pelo Núcleo de Apoio Técnico ao Judiciário do Distrito Federal (NATJUS/DF) em caso similar ao presente, em resoluçãodo Conselho Federal de Medicina (Res. 1.986/2012) e em portaria do Ministério da Saúde (Portaria n. 1.203/2014).
+Ademais, a parte recorrida alegou, nas contrarrazões, que o recorrente teria solicitado o cancelamento administrativo do plano de saúde, circunstância que impediria a continuidade do tratamento demandado pelo segurado (e-STJ fl. 427).
+Desse modo, ante a impossibilidade de reexame dos fatos e das provas dos autos em sede de recurso especial (Súmulas n. 5 e 7 do STJ), devem os autos retornar à instância de origem para que seja averiguado se houve o mencionado pedido de desligamento do plano de saúde a pedido do consumidor ese o período de custeio pleiteado da terapia pelo método EMT refere-se ao período de vigência contratual.
+Caso afirmativo, o custeio do tratamentoserá devido atéa data do requerimento de cancelamento do plano de saúde.
+Inexistindo o cancelamento alegado pela recorrida,deverá a empresa arcar integralmente com a terapia reivindicada, até prescrição médica em contrário, nos termos da jurisprudência aqui referida.
+Diante do exposto, DOU PARCIAL PROVIMENTO ao recurso especial para determinar o retorno dos autos à origem a fim de que, em novo exame da apelação, avalie o preenchimento dos requisitos para o deferimento da cobertura reivindicada pelo segurado, nos termos da fundamentação supra.
+Publique-se e intimem-se.
