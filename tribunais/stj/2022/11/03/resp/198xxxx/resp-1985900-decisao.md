@@ -1,0 +1,55 @@
+DECISÃO
+Vistos etc.
+BANCO DIGIMAIS S.A interpõe recurso especial, forte nas alíneas "a" e "c" do permissivo constitucional,em face do acórdão oriundo do Tribunal de Justiça do Estado do Rio Grande do Sul, exarado no curso do feito em que contende com MORGANA LUISA BRANDÃO, cuja ementa transcreve-se:
+APELAÇÃO CÍVEL. NEGÓCIO JURÍDICO BANCÁRIO. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. JUROS REMUNERATÓRIOS. CAPITALIZAÇÃO DE JUROS. MÉTODO DE AMORTIZAÇÃO. TAXAS/TARIFAS ADMINISTRATIVAS. MORA. COMPENSAÇÃO DE INDÉBITO. PRELIMINAR. CERCEAMENTO DE DEFESA. OS DOCUMENTOS TRAZIDOS SÃO SUFICIENTES PARA A DEMONSTRAÇÃO DA EXISTÊNCIA DO CONTRATO, DA EVOLUÇÃO DAS DÍVIDAS E DOVALOR DEVIDO. AUSÊNCIA DE CERCEAMENTO DE DEFESA. JUROS REMUNERATÓRIOS. POSSÍVEL A REVISÃO CONTRATUAL NA HIPÓTESE DE OS JUROS REMUNERATÓRIOS EXORBITAREM A TAXAMÉDIA DE MERCADO DIVULGADA PELO BANCO CENTRAL. CASO EMQUE A TAXA PACTUADA É SUPERIOR ÀQUELA AFERIDA PELO BACEN. CAPITALIZAÇÃO DE JUROS. A JURISPRUDÊNCIA NACIONAL RECONHECE A POSSIBILIDADE DE CAPITALIZAÇÃO DE JUROS, DESDEQUE EXPRESSAMENTE PACTUADA. NECESSÁRIA A CONTRATAÇÃO EXPRESSA. RECURSO ESPECIAL Nº. 1.388.972/SC. CASO EM QUE INEXISTE PREVISÃO EXPRESSA NO CONTRATO ENTABULADO ENTRE AS PARTES. TABELA PRICE. A UTILIZAÇÃO DO DENOMINADO SISTEMA FRANCÊS DE AMORTIZAÇÃO/PRICE TEM SIDO ADMITIDO POR ESTA CÂMARA, QUANDO EXPRESSAMENTE CONTRATADA. TAXAS. TARIFAS. COM A VIGÊNCIA DA RESOLUÇÃO CMN 3.518/2007,EM 30.4.2008, A COBRANÇA POR SERVIÇOS BANCÁRIOS PRIORITÁRIOS FICOU LIMITADA ÀS HIPÓTESES TAXATIVAMENTE PREVISTAS EMNORMA PADRONIZADORA EXPEDIDA PELA AUTORIDADEMONETÁRIA. DESDE ENTÃO, NÃO MAIS TEM RESPALDO LEGAL ACONTRATAÇÃO DA TARIFA DE EMISSÃO DE CARNÊ (TEC) E DATARIFA DE ABERTURA DE CRÉDITO (TAC), OU OUTRA DENOMINAÇÃO PARA O MESMO FATO GERADOR. DE OUTRO LADO, A JURISPRUDÊNCIA RECONHECE A COBRANÇA POR TARIFA DECADASTRO E DE DESPESA DE AVALIAÇÃO DE BENS. NO CASO, ACOBRANÇA DE TARIFAS ESTÁ EXPRESSA NO CONTRATO E DEVE SERMANTIDA. NULIDADE DE CLÁUSULAS CONTRATUAIS. A TEOR DO QUE EXPLICITA A SÚMULA 381 DO SUPERIOR TRIBUNAL DE JUSTIÇA, ÉVEDADO AO JULGADOR CONHECER DE OFÍCIO DAS ABUSIVIDADES DAS CLÁUSULAS CONTRATUAIS FIRMADAS ENTRE CONSUMIDOR E FORNECEDOR. MORA. HAVENDO REVISÃO DOS JUROS REMUNERATÓRIOS EMRELAÇÃO AO CONTRATO, AFASTA-SE A MORA ATÉ A APRESENTAÇÃODE NOVA CONTA. COMPENSAÇÃO. REPETIÇÃO. DEVEM SER DEVOLVIDOS OU COMPENSADOS, DE FORMA SIMPLES, OS VALORES EVENTUALMENTE PAGOS A MAIOR PELO CONSUMIDOR. SUCUMBÊNCIA. INVERTIDA E REDIMENSIONADA. PRELIMINAR AFASTADA. RECURSO PARCIALMENTE PROVIDO.
+Em suas razões, sustenta o recorrente acontratação da capitalização mensal, reputando-a válida, a teor do art. 5º da MP2.170-36/2001. Aduz que a abusividade dos juros remuneratórios somente resta caracterizada se a taxa pactuada no contrato ultrapassar sobremaneira a taxa média cobradas pelas instituições financeiras na espécie. Refere que, em análise superficial, constata-se que as taxas praticadas pelo banco não ultrapassam aquelas apuradas pela média de mercado do BACEN. Argumenta que no caso em tela não está cabalmente demonstrada a desvantagem exagerada por parte do consumidor passível de revisão judicial. Salienta que a taxa do contrato é inferior a margem de uma vez e meia a taxa média do mercado. Indica dissídio jurisprudencial. Requer o provimento do recurso. Insurge-se com a descaracterização da mora. Requer o provimento do recurso.
+Não foram apresentadas contrarrazões.
+Oportunizado juízo de retratação, a decisão foi mantida.
+O recurso foi admitido pela Corte de origem.
+É o relatório.
+Decido.
+Trata a questão de fundo de ação revisional de contrato bancário, em que a parte autora buscoua limitação da taxa dos juros remuneratórios, o afastamento da capitalização e de tarifas de abertura de cadastro, registro de contrato e avaliação do automóvel, bem como a descaracterização da mora, com pedido de repetição de valores.
+Em relação à limitação dos juros remuneratórios, assim decidiu o acórdão recorrido (e-STJ fl. 17-18):
+Em tal contexto a praxe judicial procura cotejar o valor da taxa aplicada pelo Banco com o montante da taxa média publicada pelo BACEN, no sentido de verificar eventual exagero de cobrança de juros remuneratórios.
+Do que se extrai das razões recursais apresentadas, a autora pretende a revisão docontrato Cédula de Crédito Bancário (Evento 9 - Contr3), firmado em 12/07/2019. O contrato previu ainda a incidência de juros remuneratórios de 1,91% ao mês (Evento 14, CONTR3).
+Para o mesmo período, segundo as informações publicadas pelo BACEN, a taxa média para operações de crédito com recursos livres - pessoa física - aquisição de veículos foi de1,55% ao mês (taxa apurada em julho de 2019 - época da pactuação).
+Em outras palavras, as taxas aplicadas no contrato celebrado ultrapassam os valores médios de mercado, razão pela qual está preenchido o requisito da manifesta abusividade na cobrança de juros. E, no caso, não está demonstrada a justificativa para a manifesta disparidade entre a taxa contratual e a taxa de mercado, de forma que a taxa contratual deve ser limitada.
+Contrastou o acórdão recorrido a taxa média respectiva, divulgada pelo BACEN, coma taxa contratada, as quais foram de 1,55% ao mês e 1,91% ao mês, respectivamente.
+Verifica-se, assim, quenão houve a indicação de exorbitância no valor efetivamente cobrado pela instituição financeira,senão se registrou o fato de a taxa contratada estar acima da taxa médiade mercado, por um valor não significativo.
+Tal constatação, contudo, não é suficiente a evidenciar a abusividadealegada, especialmente quando a diferença entre a taxa contratada e a taxamédia, considerada pelo acórdão, não é excessiva.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. CARTÃO DE CRÉDITO. ART. 535 DO CPC DE 1973. OFENSA AFASTADA. ALEGAÇÃO DE AUSÊNCIA DA CIÊNCIA PRÉVIA DAS CLÁUSULAS CONTRATUAIS. INCIDÊNCIA DA SÚMULA 7/STJ. JUROS REMUNERATÓRIOS. COBRANÇA ABUSIVA. LIMITAÇÃO. NÃO COMPROVAÇÃO. SÚMULA 83/STJ. CAPITALIZAÇÃO MENSAL DE JUROS. REQUISITOS PREENCHIDOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 5/STJ. PROIBIÇÃO DE INSCRIÇÃO DO DEVEDOR NOS CADASTROS DE INADIMPLENTES. ANTECIPAÇÃO DOS EFEITOS DA TUTELA. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS. CARACTERIZAÇÃO DA MORA. AGRAVO NÃO PROVIDO.
+(..)
+3. A circunstância de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média do mercado não induz, por si
+só, a conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras. Precedentes.
+(..)
+8. Agravo interno a que se nega provimento. (AgInt no AREsp 447.560/RS,
+Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 27/04/2017, DJe 19/05/2017).
+A conclusão não se coaduna com a orientação deste Tribunal Superior, devendo, assim, ser reformada de modo a se manter a taxa dos juros prevista contratualmente, porque não evidenciada a necessária abusividade, não bastando, certamente, a mera superação da taxa média de mercado.
+No ponto, portanto, o recurso comporta provimento.
+Por outro lado, no que tange à capitalização de juros, o acórdão recorrido, em juízo de retratação mantendo a decisão anterior,assim referiu (e-STJ fl. 156):
+Conforme ressaltado no Evento 9 - RELVOTO1, não houve a previsão contratual para a cobrança de juros capitalizados nos contratos objetos da revisional.
+Com efeito, o recorrente não demonstroua efetiva previsão contratual autorizadora, referindo, apenas,que a taxa de juros ao ano é superior ao duodécuplo da taxa mensal.
+Inexistindo indicação da expressa previsão no instrumento contratual de capitalização de juros com periodicidade inferior a um ano - não se sabendo se se trata de periodicidade mensal ou diária-não resta evidenciada a legitimidade de sua cobrança, não sendo suficiente, neste contexto, a simples previsão de taxa de juros anual superior ao duodécuplo da mensal, desacompanhada da comprovação da autorização contratual expressa acerca da capitalização em si.
+Quanto à capitalização, portanto, assim registrou, corretamente, o acórdão recorrido (e-STJ fl. 22).
+"No caso, nas cláusulas do contrato Cédula de Crédito Bancário juntada ao Evento9 -CONTR3 74 não há previsão para a cobrança de juros capitalizados.
+Nesse sentido, havendo a necessidade de a capitalização ser expressamente contratada, deve ser afastada dos contratos no caso, diante da ausência de prova dessa contratação e da insuficiência de informações para o consumidor. Impossível presumir que o consumidor detinha conhecimento prévio e efetivo da incidência de capitalização de juros nos contratos.
+A simples menção de juros capitalizados, sem indicação expressa da forma da incidência (anual, mensal ou diária) importa em deficiência informacional, e deve conduzir à presunção em favor do consumidor e, nesse conduto, deve ser afastada a capitalização.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL E NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO PESSOAL. AGRAVO DE INSTRUMENTO. PRAZO PRESCRICIONAL. TERMO INICIAL.
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF.
+2. Na forma da jurisprudência pacificada por esta Corte Superior, a cobrança de juros capitalizados em periodicidade anual ou inferior à anual nos contratos de mútuo não é permitida quando não houver expressa pactuação.
+3. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+Alterada cláusula relativa à normalidade contratual - capitalização - a mora resta efetivamente descaracterizada, como bem registrado na origem.
+O acórdão recorrido merece parcial reforma, portanto.
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especial, parareformara decisão no ponto emque determinara a revisão dos juros remuneratórios.
+Diante da alteração da sucumbência, cada parte arcará com a metade dos honorários advocatícios e das custas processuais fixadas na origem, observada eventual gratuidade judiciária já deferida.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E CONSUMIDOR. CONTRATO BANCÁRIO. AÇÃOREVISIONAL. JUROS REMUNERATÓRIOS. INEXISTÊNCIA DE ABUSIVIDADE PELA TÃO
+SÓ SUPERAÇÃO DA MÉDIA DE MERCADO. AFASTAMENTO DA MORA.
+1. A tão só superação da taxa média de mercado em operações da espécie nãoevidencia abusividade a permitir a revisão do contrato celebrado,notadamente quando se revela diminuta a diferença entre o montante cobradoe a taxa média adotada pelo setor.
+2.A capitalização de juros, para ser admitida, deve ser pactuada de forma expressa e clara no contrato. Capitalização afastada na espécie. Precedentes.
+2. Afastada a capitalização, reconheceu-seabusividade noperíodo de normalidade contratual, impondo-se afastar os encargos de mora.
+3. RECURSO ESPECIAL CONHECIDO E PARCIALMENTE PROVIDO.
