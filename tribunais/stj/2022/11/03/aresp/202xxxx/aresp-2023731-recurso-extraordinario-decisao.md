@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto porRIO PARANÁ COMPANHIA SECURITIZADORA DE CRÉDITOS FINANCEIROS, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão doSuperior Tribunal de Justiçaassim ementado (fls. 513-514):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. FUNDAMENTOS IMPUGNADOS. RECONSIDERAÇÃO. ACORDO NA ORIGEM. TRANSAÇÃO SOBRE HONORÁRIOS DE TITULARIDADE DO ADVOGADO DA PARTE EXECUTADA. EXECUÇÃO. PRESCRIÇÃO INTERCORRENTE NA VIGÊNCIA DO CPC/1973. PARALISAÇÃO DO PROCESSO POR TEMPO SUPERIOR AO PRAZO PRESCRICIONAL DA PRETENSÃO DE DIREITO MATERIAL. OCORRÊNCIA. IAC N. 1. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. RESISTÊNCIA À PRETENSÃO DE EXTINÇÃO. SUCUMBÊNCIA DA PARTE EXEQUENTE. PRECEDENTES. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL DESPROVIDO.
+1. Em virtude da impugnação dos fundamentos da decisão de inadmissibilidade do recurso especial, o agravo interno merece provimento.
+2. Conforme entendimento da Segunda Seção do STJ, consolidado no IAC 1, "incide a prescrição intercorrente, nas causas regidas pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado, conforme interpretação extraída do art. 202, parágrafo único, do Código Civil de 2002". E, ainda, "o termo inicial do prazo prescricional, na vigência do CPC/1973, conta-se do fim do prazo judicial de suspensão do processo ou, inexistindo prazo fixado, do transcurso de um ano (aplicação analógica do art. 40, § 2º, da Lei 6.830/1980)".
+3. Embora, em regra, na extinção da execução pelo reconhecimento da prescrição intercorrente, a causalidade imponha ao executado arcar com as despesas e os honorários advocatícios sucumbenciais, na hipótese de resistência à pretensão, a efetiva sucumbência da parte exequente implicará sua condenação ao pagamento das verbas sucumbenciais. Precedentes. Caso concreto de manutenção da condenação da parte executada ao pagamento de honorários advocatícios, em decorrência da non reformatio in pejus.
+4. Agravo interno provido para reconsiderar a decisão agravada e, emnova análise, conhecer do agravo do art. 1.042 do CPC/2015 para negar provimento ao recurso especial.
+A parte recorrente sustenta a violação do art. 5º, XXXV e LV,da CF e aduz que hárepercussão geral da matéria tratada.
+Alega, em síntese, que,ao negar provimento ao recurso especial, concernenteaos arts. 267, III, § 1,º e 791, III, do CPC/1973 e aos arts. 14, 487, III, "b", e 1.056 do CPC/2015, o acórdão recorrido não teria enfrentadoas matérias postas no recurso, negando a legislação vigente.
+Argumenta, ainda, que lhe teria sido negado" ..  o direito de obter a prestação jurisdicional, respeitando o contraditório e a ampla defesa, processada na forma da legislação e com a aplicação da lei vigente ao caso concreto" (fl. 543).
+Requer, ao final, o conhecimento e provimento do recurso.
+Não foram oferecidas contrarrazões (fls. 556-557).
+É o relatório.
+O STF pacificou o entendimento de que "a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral" (Tema n. 895/STF).
+Essa tese foi estabelecida no julgamento do RE n. 956.302-RG/GO, nos termos da seguinte ementa:
+PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL.
+Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.
+(RE n. 956.302/GO-RG, relator Ministro Edson Fachin, julgado em 19/5/2016,DJe de 16/6/2016.)
+Da mesma forma, a Suprema Corte fixou a tesede que a suscitada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nesse sentido é o Tema n. 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE n. 748.371-RG, relator Ministro Gilmar Mendes, julgado em 6/6/2013, DJe de 1º/8/2013.)
+No caso, a suposta afronta aos arts. 5º, XXXV e LV, da CF é reflexa, pois depende da análise de dispositivos do Código Civil e do Código de Processo Civil, e também importa em reexame do contexto fático-probatório, motivo pelo qual incidem os Temas n. 895/STF e 660/STF.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA N. 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO EDA AMPLA DEFESA.TEMA N. 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
