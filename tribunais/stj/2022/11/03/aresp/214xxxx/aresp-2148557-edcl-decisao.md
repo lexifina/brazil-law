@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CONCRETO CPR EMPREENDIMENTOS IMOBILIÁRIOS LTDA. e outracontra decisão singular de minha relatoria que deu provimento ao recurso interposto pelosora embargados para reconhecer aintempestividade do recurso de apelação das embargantese, por consequência, o restabelecimento da sentença proferida em primeiro grau.
+Afirmam as embargantes a omissão quanto ao termo inicial dos juros de mora trazido nas contrarrazões ao recurso especial, sustentando que se trata de matéria de ordem pública que pode ser conhecida a qualquer tempo.
+Impugnação apresentada.
+Assim delimitada a questão, passo a decidir.
+A decisão embargada enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e suficiente, razão pela qual não merece reparo algum.
+Destaco que não é possível considerar o prequestionamento do tema relativo ao termo inicial dos juros de mora, uma vez que na decisão, ora embargada, foi reconhecida a intempestividade do recurso de apelação interposto pelas embargantes, motivo pelo qual o acórdão proferido pelo Tribunal de origem foi cassado, tendo sido determinado o restabelecimentoda sentença, in verbis:
+Como se vê, o Tribunal de origem não poderia reconhecer,após a certificação do transcurso do prazo recursal, a tempestividade do recurso de apelação interposto em processo diverso, uma vez que se trata de erro grosseiro e insanável, motivo pelo qual édevido o reconhecimento da intempestividade do recurso de apelação interposto pela recorrida e, por consequência, o restabelecimento da sentença proferida em primeiro grau  ..  (e-STJ, fl. 1.299).
+Nos termos da jurisprudência pacífica desta Corte, ainda que se trate de matéria de ordem pública, é exigido o prequestionamento.
+Nesse sentido, confira-se o seguinte precedente:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. COMPETÊNCIA. JUSTIÇA FEDERAL. FALTA DE PREQUESTIONAMENTO. QUESTÃO DE ORDEM PÚBLICA. AÇÃO INDENIZATÓRIA. SEGURO HABITACIONAL. JULGAMENTO MONOCRÁTICO. CONFIRMAÇÃO PELO COLEGIADO. VÍCIOS CONSTRUTIVOS. RESPONSABILIDADE DA SEGURADORA. PRECEDENTES. DECISÃO MANTIDA.
+1. Nos termos da jurisprudência pacífica desta Corte, ainda que se trate de matéria de ordem pública, é exigido o prequestionamento.
+2. "A competência interna desta Corte é de natureza relativa, razão pela qual a prevenção ou a prorrogação apontada como indevida deve ser suscitada até o início do julgamento, sob pena de preclusão, nos termos do art. 71, § 4º, do RISTJ" (AgInt no REsp n. 1.377.310/PB, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/2/2017, DJe 22/2/2017).
+3. A decisão monocrática que dá provimento a recurso especial, com base em jurisprudência consolidada desta Corte, encontra previsão nos arts. 932, V, do CPC/2015 e 255, § 4º, III, do RISTJ, não havendo falar, pois, em nulidade por ofensa à nova sistemática do Código de Processo Civil. Ademais, a interposição do agravo interno, e seu consequente julgamento pelo órgão colegiado, sana eventual nulidade.
+4. A Segunda Seção do Superior Tribunal de Justiça firmou o entendimento de que "a interpretação fundada na boa-fé objetiva, contextualizada pela função socioeconômica que desempenha o contrato de seguro habitacional obrigatório vinculado ao SFH, leva a concluir que a restrição de cobertura, no tocante aos riscos indicados, deve ser compreendida como a exclusão da responsabilidade da seguradora com relação aos riscos que resultem de atos praticados pelo próprio segurado ou do uso e desgaste natural e esperado do bem, tendo como baliza a expectativa de vida útil do imóvel, porque configuram a atuação de forças normais sobre o prédio" (REsp 1.804.965/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 27/05/2020, DJe de 1º/06/2020).
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.862.503/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+Assim, não demonstrada efetivamente a existência de nenhum dos vícios previstos no art. 1.022 do CPC/2015, conclui-se que a pretensão da parte embargante é unicamente o rejulgamento da causa, finalidade à qual não se presta a via eleita.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. MERO INTUITO DE REJULGAMENTO DA LIDE. AUSÊNCIA DA OMISSÃO QUE ENSEJARIA A INTERPOSIÇÃO DO RECURSO INTEGRATIVO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, já que não são cabíveis para provocar novo julgamento da lide.
+2. Não há que se confundir decisão contrária aos interesses da parte e negativa de prestação jurisdicional, nem fundamentação sucinta com ausência de fundamentação. Precedentes.
+3. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1.213.226/SC, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 24/10/2016, DJe 22/11/2016)
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
