@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo Distrito Federal contra decisão de fls. 508/512, por meio da qual determinou a devolução dos autos com a respectiva baixa ao Tribunal de origem para que seja realizado o juízo de conformação ou
+manutenção do acórdão local frente ao que vier a ser decidido no Tema 1.093.
+Sustenta a parte embargante que "havendo o Supremo Tribunal Federal decidido, em repercussãogeral a matéria relativa à constitucionalidade da cobrança do ICMS-DIFAL e modulado os seus efeitos não resta campo decisório sob o prisma do direito federal a ser apreciado no recurso especial, razão pela qual o apelo nobre não merece ser conhecido sob pena de usurpação da competência do Pretório Excelso" (fl. 525).
+Impugnação não apresentada (certidão de fl. 532).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão.
+Convém destacar que a decisão prolatada nestes autos foi clara no sentido queno julgamento da Questão de Ordem no REsp 1.653.884/PR, também pela Primeira Turma deste Superior Tribunal, ficou assentado que, nos casos de devolução do recurso especial ao Tribunal de origem para o aguardo do desfecho da repercussão geral, a Corte recorrida, caso verifique a existência de resíduo não alcançado pela afetação do Supremo Tribunal Federal, deverá determinar o retorno dos autos a este STJ somente após ter exercido o juízo de conformação ao que decidido pelo STF na repercussão geral (QO no REsp 1.653.884/PR, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 06/11/2017).
+Diante disso, é forçoso concluir que os embargos declaratórios não podem ser acolhidos, pois os aclaratórios traduzem, na verdade, o inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição, omissão ou erro material no julgado embargado, conforme exige o artigo 1.022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
