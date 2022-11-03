@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de recurso ordinário interposto por OSVALDO PEDRO TESSELE e EVA SOELI TESSELE contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso.
+Ação: mandado de segurança, impetrado pelos recorrentes contra acórdão prolatado pela Primeira Câmara Cível do TJ/MT que negou provimento a agravo de instrumento por eles interposto em face de decisão que havia indeferido pedido de levantamento de valores, em razão da recuperação judicial da devedora, constritos nos autos de execução de título extrajudicial.
+Acórdão: manteve decisão unipessoal do relator que indeferiu a petição inicial ao argumento de que o ato impugnado não se afigura teratológico ou violador de norma jurídica positivada.
+Embargos de declaração: interpostos pelos recorrentes, foram rejeitados.
+Recurso ordinário: alegam que possuem direito líquido e certo a levantar o valor penhorado, pois "foi reconhecido em decisão transitada em julgado" (e-STJ fl. 378). Argumentam que o mandado de segurança é meio idôneo para atacar a decisão judicial em questão, pois se trata de ato manifestamente ilegal. Requerem o provimento do recurso, com a consequente concessão da ordem.
+RELATADO O PROCESSO, DECIDE-SE.
+Os fundamentos utilizados pelo Tribunal de origem para indeferir a petição inicial desta ação mandamental - tratar-se de ato sujeito a recurso e conformidade da decisão impugnada com a jurisprudência do STJ - não foram impugnados especificamente nas razões recursais, de modo que, por vulneração ao princípio da dialeticidade, o presente recurso não comporta conhecimento. Nesse sentido, a título ilustrativo: AgInt no RMS 43.653/SP (Terceira Turma, DJe de 28/5/2020); AgInt nos EDcl no RMS 29.098/MG (Segunda Turma, DJe de 2/5/2017) e AgRg no RMS 30.555/MG (Sexta Turma, DJe de 1/8/2012).
+Ademais, verifica-se que os recorrentes, apesar de afirmarem que o ato judicial em questão se revela manifestamente ilegal, não apontam, objetivamente, quais dispositivos de lei teriam sido frontalmente violados pela decisão impugnada. Tal circunstância revela, uma vez mais, a deficiência na argumentação contida nas razões recursais, o que constitui, igualmente, fator impeditivo do conhecimento da irresignação.
+Forte nessas razões, NÃO CONHEÇO do recurso ordinário.
+Publique-se. Intimem-se.
