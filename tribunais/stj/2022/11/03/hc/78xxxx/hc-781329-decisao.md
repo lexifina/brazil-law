@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de VANIRA DEOLINDA LENZ, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL no julgamento do Agravo em Execução Penal n. 5171844-54.2022.8.21.7000/RS.
+Extrai-se dos autos que a paciente foi condenada pela prática de crimede incêndio (art. 250, do Código Penal), às penas de 3 anos de reclusão e multa. Após o cumprimento da pena corporal, o Juízo das execuções julgou extinta a punibilidade da paciente, nos termos da decisão de fls. 67/71.
+Irresignado, o Ministério Público interpôs agravo perante o Tribunal de origem, o qual deu provimento ao recurso nos termos do acórdão que restou assim ementado:
+AGRAVO EM EXECUÇÃO. MULTA. EXTINÇÃO DAPUNIBILIDADE. TEMA REPETITIVO 931 DO STJ. AUSÊNCIA DE COMPROVAÇÃO DA INCAPACIDADEDE ADIMPLEMENTO.
+1. De acordo com entendimento mais recente do Superior Tribunal de Justiça, que reviu o Tema Repetitivo 931: "Na hipótese de condenação concomitante a pena privativa de liberdade e multa, o inadimplemento da sanção pecuniária, pelo condenado que comprovar impossibilidade de fazê-lo, não obsta o reconhecimento da extinção da punibilidade." A extinção da punibilidade pelo Juízo da Execução, em vista d aincapacidade do adimplemento da pena de multa, na hipótese em comento, não ofende a coisa julgada e o princípio do juiz natural.
+2. No caso dos autos, o juízo da origem entendeu não haver interesse na execução da pena de multa proposta pelo Ministério Público, órgão legitimado para tanto, nos termos do art. 51 do CP c/c art. 164 da LEP, entendendo "não ser razoável mexer com toda a máquina judiciária para buscar valor ínfimo, como o pretendido na presente execução". A extinção da punibilidade, sem que tenha havido a comprovação da incapacidade de adimplemento, merece reforma. O fato de a condenada ter sido assistida pela Defensoria Pública é indicativo de hipossuficiência que não afasta a necessidade de comprovação da incapacidade de adimplemento, mormente diante da possibilidade de ajuste da execução da pena pecuniária às suas condições financeiras.
+AGRAVO PROVIDO(fl. 9).
+No presentewrit, a Defensoria Pública sustenta que a paciente está submetida a constrangimento ilegal, vez que o inadimplemento da multa não obsta a extinção da punibilidade.
+Argumenta que é "Necessário observar que os apenados, especialmente os assistidos pela Defensoria Pública, que são hipossuficientes financeiramente e socialmente vulneráveis, não deixam de adimplir com a pena de multa por simples desídia ou desinteresse, mas sim porque NÃO POSSUEM RECURSOS FINANCEIROS PARA TANTO, em especial enquanto estavam recolhidos ao cárcere!" (fl.6).
+Requer, em liminar e no mérito, que seja reconhecida a extinção da punibilidade da paciente.
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deveser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça.
+Ademais, a possibilidade de análise da matéria para eventual concessão da ordem de ofício não se mostra adequada no presente caso. Ohabeas corpusé o remédio constitucional destinado a resguardar apenas a liberdade de locomoção das pessoasdiante de ilegalidade ou abuso de poder, nos termos do art. 5º, inciso LXVIII, da Constituição Federal.
+No caso em análise, a impetrante não logrou demonstrar qual o risco à liberdade ambulatoriala que a paciente está submetida diante da insistência do Tribunal de origem na cobrança da pena de multa. Logo, inviável o processamento do presentemandamus.
+Nesse sentido:
+HABEAS CORPUS. PENAL. LEGITIMIDADE PARA A COBRANÇA DA PENA DE MULTA. MATÉRIA ESTRANHA AO ÂMBITO DE CABIMENTO DO HABEAS CORPUS. ARTIGO 64 DO CÓDIGO PENAL. IRRELEVÂNCIA SE INEXISTE NOS AUTOS QUALQUER INDÍCIO DE QUE O PACIENTE TENHA COMETIDO NOVO CRIME. AUSÊNCIA DE AMEAÇA CONCRETA DE VIOLÊNCIA OU COAÇÃO À LIBERDADE DO PACIENTE. NÃO CONHECIMENTO.
+1. Não havendo qualquer lesão ou iminência de lesão à liberdade de ir, vir e ficar do paciente, não há falar em cabimento do habeas corpus (artigo 5º, inciso LXVIII, da Constituição da República).
+2. O debate acerca do juízo competente para a execução da pena de multa não comporta discussão em sede de habeas corpus, máxime porque, com a superveniência da Lei 9.268/96, afastou-se o risco de se converter a pena de multa em prisão.
+3. A postergação do início da contagem do prazo a que alude o artigo 64, inciso I, do Código Penal não implica qualquer cerceamento ao direito de locomoção do paciente, na hipótese de não haver notícias nos autos de que tenha cometido nova conduta delituosa, arredando, pois, qualquer ameaça concreta de violência ou coação em sua liberdade, bastando, a afastar o suposto constrangimento, que o sentenciado cumpra a sanção patrimonial a ele imposta, pagando a multa ao fundo penitenciário, sem perquirir a legitimidade ativa para a execução.
+4. Habeas corpus não conhecido.
+(HC n. 17.077/SP, relator Ministro Hamilton Carvalhido, Sexta Turma, julgado em 21/8/2001, DJ de 4/2/2002, p. 565.)
+Por fim, cumpre destacar que a via dohabeas corpusnão admite a incursão probatória a ponto de afastar as conclusões das instâncias ordinárias a respeito da capacidade econômica da paciente de arcar com a dívida de valor.
+Ante o exposto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
