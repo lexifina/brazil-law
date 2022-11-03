@@ -1,0 +1,7 @@
+DECISÃO
+Às fls. 2542/2543, e-STJ, PULVITEC DO BRASIL INDUSTRIA E COMERCIO DE COLAS E ADESIVOS LTDA, agravante,manifestou expressamente a intenção de desistir do recurso em virtude daformalização de acordo entre as partes nos autos da Liquidação Provisória sob nº 0819943- 25.2021.8.12.0001 em trâmite na 8ª Vara Cível e Apelação Civil sob nº e 0833155- 60.2014.8.12.0001, requerendo, ao final,"a baixa dos recursos cabíveis".
+Considerando-se a existência de embargos de declaração opostos pelaagravada SINO REPRESENTAÇÕES LTDA - ME (fls. 2535/2537, e-STJ)e ainda pendentes de julgamento, determinou-se a intimação dosembargantes, para manifestação acerca das informações contidas na petiçãode fls. 2542/2543, e-STJ, bem como sobre o interesse no julgamento dosreferidos aclaratórios.
+Às fls. 2560, e-STJ, SINO REPRESENTAÇÕES LTDA - MEmanifestaexpressamente a desistência dos embargos de declaração opostosàs fls. 2535/2537, e-STJ.
+Nesse contexto, observo que oadvogadoMÁRCIO ANTÔNIO TORRES FILHO,subscritor dopedidode desistência, possuipoderes para tanto,conforme aprocuraçãode fl. 953, e-STJ. Assim,encontram-se cumpridas as formalidades dos artigos 104 e 105 do CPC/2015.
+Do exposto, com base no art. 998 do CPC/2015 e no art. 34, inciso IX, doRISTJ, homologo opedidode desistência, para que surtaos efeitosjurídicos, julgando extinto o procedimento recursal. Após o trânsito emjulgado, dê-se a baixa dos autos à Vara de origem.
+Publique-se. Intimem-se.
