@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de Agravo interposto contra decisão que negou seguimento ao Recurso Especial.
+A parte agravante alega que não é caso de aplicação da Súmula 83 do STJ, portanto o Recurso merece ser admitido (fl. 508, e-STJ).Requer, ao final, a reconsideração do decisum ou a submissão do feito à Turma.
+Contraminuta apresentada às fls. 605-617, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 3.10.2022.
+A irresignação não merece prosperar.
+Verifico que o Agravo em Recurso Especial interposto às fls. 590-600, e-STJ,é intempestivo, visto que, de fato, o recorrente foi intimado da decisão no dia 21.10.2021 (fl. 487, e-STJ). Logo, em respeito ao prazo de 30 (trinta) dias úteis, previsto no art. 1.003, § 5º, do CPC, é intempestivo o Recurso, já que interposto no dia 8.5.2022 (fl. 590, e-STJ).
+Ademais, em função de determinação expressa no atual Código de Processo Civil, a jurisprudência do STJ estabelece que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada no ato da interposição do Recurso que pretende que dele conheça este Tribunal, por documento oficial ou certidão expedida pelo Colegiado de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. (AgInt no REsp 1.686.469/AM, Rel. Min. Mauro Campbell Marques, DJe 27.3.2018). Nesse mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A INTEMPESTIVIDADE DO RECURSO ESPECIAL. INSURGÊNCIA DA RÉ.
+1. Consoante Enunciado Administrativo n. 3, do Plenário do Superior Tribunal de Justiça, "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O juízo de admissibilidade do recurso especial é bifásico. A decisão proferida pelo Tribunal de origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do recurso especial.
+3. É intempestivo o recurso especial interposto fora do prazo recursal de 15 (quinze) dias úteis, a contar da publicação do acórdão recorrido (recurso interposto sob a égide do CPC/2015).
+4. O art. 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso, o que impossibilita a regularização posterior.
+5. A Corte Especial, no julgamento do ARESP 1.481.810/SP, afetado pela Quarta Turma, reafirmou o entendimento de que é preciso comprovar a ocorrência de feriado local no ato de interposição do recurso, nos termos do § 6º do artigo 1.003 do CPC/15. Portanto, para os recursos sujeitos aos requisitos de admissibilidade do referido diploma processual, não se admite a comprovação posterior da suspensão do expediente forense em decorrência de feriado local.
+6. Segundo a modulação de efeitos determinada pela Corte Especial no REsp 1.813.684/SP, a possibilidade de comprovação da ocorrência de feriado local restringe-se apenas ao feriado de segunda-feira de carnaval, em recursos interpostos até a data da publicação do acórdão mencionado, que não é caso dos autos.
+7. Não é possível comprovar feriado local, para fins de verificação da tempestividade de recurso especial, por meio de calendário do tribunal estadual, pois, conforme jurisprudência desta Corte Superior, esse documento é inidôneo. Precedentes.
+8. Agravo interno desprovido.
+(AgInt no AREsp 1.749.249/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 17/6/2021).
+PROCESSUAL CIVIL. CIVIL. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. DANOS AMBIENTAIS. USINA HIDRELÉTRICA DE ESTREITO. PRELIMINAR DE PRESCRIÇÃO ACOLHIDA. EXTINÇÃO DO FEITO. MANUTENÇÃO DA SENTENÇA. APELO IMPROVIDO. TEMPESTIVIDADE. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+I - Na origem, trata-se de ação ajuizada contra o Consórcio Estreito Energia - Ceste objetivando indenização por danos materiais e morais, em razão de o autor ter sido prejudicado na sua atividade pesqueira com a construção da hidrelétrica de estreito. Na sentença, julgou-se extinto o feito pela prescrição trienal. No Tribunal a quo, a sentença foi mantida. Nesta Corte, não se conheceu do recurso especial pela intempestividade.
+II - Aplica-se ao recurso o Enunciado Administrativo n. 3 da Súmula do STJ, segundo o qual: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+III - A Corte Especial, no julgamento do AREsp 957.821, em 20/11/2017, chegou à conclusão de que, na vigência do Código de Processo Civil de 2015, não é possível a pretensão de comprovação da tempestividade após a interposição do recurso. Mediante análise do recurso, verifica-se que a parte recorrente foi intimada do acórdão recorrido em 19/3/2020, sendo o recurso especial interposto somente em 20/7/2020.
+IV - Recentemente, a Corte Especial decidiu que a regra da impossibilidade de comprovação da tempestividade, posteriormente à interposição do recurso, não deveria ser aplicada no caso em que se trate do feriado de segunda-feira de carnaval. Permite-se, assim, que a parte comprove, posteriormente à interposição do recurso, na primeira oportunidade, a ocorrência do feriado local, nessa hipótese. O entendimento foi fixado no REsp 1.813.684/SP e, posteriormente, ratificado no julgamento da questão de ordem no mesmo recurso, quando se explicitou que a mesma interpretação não poderia ser estendida para outros feriados, que não fossem o feriado de segunda-feira de carnaval.
+V - Assim, em se tratando de interposição de recurso em datas que não se referem ao feriado da segunda-feira de carnaval, é aplicável a jurisprudência desta Corte, no sentido já indicado acima, de impossibilidade de comprovação da tempestividade após a interposição do recurso.
+VI - Agravo interno improvido.
+(AgInt no AREsp 1.843.241/MA, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 1/7/2021).
+Diante do exposto, não conheço do Agravo em Recurso Especial, com fulcro o art. 932 do CPC.
+Publique-se.
+Intimem-se.
