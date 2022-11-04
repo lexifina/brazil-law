@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento no art. 105, inciso III, alínea "a", da CF/1988, contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ fl. 44):
+AGRAVO DE INSTRUMENTO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. ILIQUIDEZ DO TÍTULO.INOCORRÊNCIA. AUSÊNCIA DE PREVISÃO NORMATIVA.
+1. Nos termos dos incisos I a VI do art. 535 do CPC, há um rol exaustivo de matérias que podem ser arguidas em sede de impugnação ao cumprimento de sentença contra a Fazenda Pública, não constando, naquele rol, a iliquidez do título.
+2. Na hipótese, a decisão agravada mensurou e definiu o valor devido à título de honorários, não havendo falar, portanto, em iliquidez do título.
+No especial, a parte alega, em síntese, violação:
+a) dos arts. 489, § 1º, e 1.022, parágrafo único, II, do CPC/2015, pois entende que, apesar dos embargos de declaração, o Tribunal de origem "não explicitou as razões que a levaram a deixar de observar que a decisão transitada em julgado remetia a execução da verba honorária advocatícia à necessidade de liquidação, para fins de se chegar ao valor correto dos honorários advocatícios devidos" (e-STJ fl. 87);
+b) dos arts. 502, 509 e 535 do CPC/2015; dos arts. 170 e 170-A do CTN; do art. 89 da Lei n. 8.212/1991; do art. 66 da Lei n. 8.383/1991; e do art. 74 da Lei n. 9.430/1996, ao argumento de que, ao contrário do que consta no acórdão regional,a sentença judicial executada é ilíquida, razão pela qual o estabelecimento correto dos honorários advocatícios depende de prévia liquidação do julgado.
+Aduz que, " s omente após a compensação administrativa do principal é que se poderá chegar à correta base de cálculo dos honorários, até porque o título executivo judicial é expresso ao afirmar que a verba de sucumbência incidirá sobre o valor da condenação (o que efetivamente será restituído pela via do precatório ou a compensado administrativamente)" (e-STJ fl. 97).
+Contrarrazões apresentadas às e-STJ fls. 103/106.
+O recurso especial foi admitido na origem (e-STJ fl. 109).
+Passo a decidir.
+Importa mencionar que o recurso especial se origina de agravo de instrumento interposto pelaFAZENDA NACIONAL contra decisão proferidaem cumprimento de sentença contra a Fazenda Pública.
+O Tribunal a quo negou provimento ao agravo de instrumento.
+Os embargos de declaração apresentados foram rejeitados.
+Pois bem.
+Quanto à alegada ofensa aos arts. 489, § 1º, e 1.022, parágrafo único, II, do CPC/2015, não se vislumbra nenhum equívoco ou deficiência na fundamentação contida no acórdão recorrido, sendo possível observar que o Tribunal de origem apreciou integralmente a controvérsia, apontando as razões de seu convencimento, não se podendo confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.,
+O que se percebe é que, contrário à pretensão do recorrente, o Tribunal a quo afastou a suposta iliquidez do título executivo judicial, esclarecendo ter sido fixado o montante a ser executado a título de honorários advocatícios. É o que se extrai do voto condutor do acórdão regional recorrido (e-STJ fls. 42/43):
+O recurso interposto é formalmente regular e tempestivo.
+Quanto ao mérito, a decisão agravada consignou que o título executivo estabeleceu claramente as diretrizes da condenação ao pagamento de honorários, em especial, estabeleceu que os honorários incidem sobre o valor da repetição ou da compensação na via administrativa.
+A decisão ainda mensurou e definiu o valor devido à título de honorários, não havendo que se falar, portanto, em verdadeira iliquidez.
+Com efeito, neste contexto, o acolhimento do argumento de inexistência ou de iliquidez do título executivo levaria à negativa de existência ou de efetivação do próprio direito declarado pela decisão judicial que ora se pretende executar, situação que afrontaria a coisa julgada material.
+Além disso, nos termos dos incisos I a VI do art. 535 do CPC, há um rol exaustivo de matérias que podem ser arguidas em sede de impugnação ao cumprimento de sentença contra a Fazenda Pública, com o objetivo de obstar indevida pretensão executiva.
+Na hipótese, em apertada análise, verifico que a alegada iliquidez do título não está incluída no rol do referido art. 535. Neste sentido, a obstaculização da pretensão executiva fundada em argumento de iliquidez do título, em razão de não ter supedâneo normativo, não pode ser acolhida.
+Portanto, não assiste razão ao agravante, devendo a decisão que determinou o prosseguimento da execução pelo valor que fixou ser confirmada.
+Em razão da ausência de condenação na origem, deixo de aplicar a majoração da verba honorária prevista no §11 do art. 85 do CPC.
+Ante o exposto, voto por negar provimento ao agravo de instrumento.  grifos acrescidos
+Ademais, consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes nem tampouco a rebater um a um todos seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DESAPROPRIAÇÃO. JULGAMENTO ULTRA PETITA. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+ ..
+IV. Não há falar, na hipótese, em violação aos arts. 489, § 1º, IV, e 1.022, II, do CPC/2015, porquanto a prestação jurisdicional foi dada na medida da pretensão deduzida, de vez que os votos condutores do acórdão recorrido e do acórdão proferido em sede de Embargos de Declaração apreciaram fundamentadamente, de modo coerente e completo, as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida.
+V. Na forma da jurisprudência do STJ, não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, EDcl no REsp 1.816.457/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020; AREsp 1.362.670/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 31/10/2018; REsp 801.101/MG, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, DJe de 23/04/2008.
+VI. Agravo interno parcialmente conhecido, e, nessa extensão, improvido.
+(AgInt no AREsp n. 2.084.089/RO, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 12/9/2022, DJe de 15/9/2022.)
+Quanto ao mais, verifica-se que a tese recursal vai de encontro às premissas fáticas estabelecidas no acórdão regional recorrido. Dessa forma, oconhecimento do recurso especial encontra óbice na Súmula 7 STJ, na medida em que aferir os exatos termos em que foi proferido o título executivo judicial e a exequibilidade da verba honorária tal como foi fixada demandaria necessariamente o reexame dos fatos e provas dos autos, o que é inviável na instância especial.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA E CORREÇÃO MONETÁRIA. PRECLUSÃO. NÃO OCORRÊNCIA. SÚMULAS 7 E 83 DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O Superior Tribunal firmou entendimento segundo o qual a aplicação de juros e correção monetária pode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício. A decisão nesse sentido não caracteriza julgamento extra petita, tampouco conduz à interpretação de ocorrência de preclusão consumativa, porquanto tais institutos são meros consectários legais da condenação (AgInt no REsp 1353317/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/08/2017, DJe 09/08/2017), o que atrai a incidência da Súmula 83 do STJ, pois o Tribunal de origem decidiu que os juros de mora e a correção monetária, por constituírem consectários legais, podem ser alterados de ofício pelo órgão julgador a qualquer tempo e grau de jurisdição, não representando qualquer prejuízo para as partes, nem se submetendo à preclusão (fls. 396).
+2. O Tribunal de origem concluiu que o título executivo não havia fixado nenhum índice de juros moratórios e de correção monetária.
+Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.033.840/CE, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 27/6/2022, DJe de 30/6/2022.).
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Sem arbitramento de honorários recursais, pois o recurso especial se origina de agravo de instrumento.
+Publique-se. Intimem-se.
