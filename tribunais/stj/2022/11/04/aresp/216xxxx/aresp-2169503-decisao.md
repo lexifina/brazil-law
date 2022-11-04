@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por NOBRE SEGURADORA DO BRASIL S.A (NOBRE) contra decisão que inadmitiu seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de Sergipe, relatado pelo Des. ALBERTO ROMEU GOUVEIA LEITE, assim ementado:
+APELAÇÕES CÍVEIS  AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS - CONTRATO DE TRANSPORTE DE PASSAGEIROS - RESPONSABILIDADE CIVIL OBJETIVA  ACIDENTE DE TRÂNSITO  LESÕES ABRASIVAS CICATRIZADAS EM REGIÃO FRONTAL E FERIDA CONTUSA DE 2,0 CM NO PUNHO ESQUERDO, CONFORME PRONTUÁRIOS MÉDICOS CONSTANTES NOS AUTOS  ABALO PSÍQUICO EM TER PRESENCIADO A MORTE DE VÁRIAS PESSOAS NO ACIDENTE - DANO MORAL CONFIGURADO - INDENIZAÇÃO DEVIDA - DANO MORAL REDUZIDO DE R$ 20.000,00(V1NTE MIL REAIS) PARA R$10.000,00(DEZ MIL REAIS)  TESE DE CULPA DE TERCEIRO NÃO ACOLHIDA  INTELIGENCIA DO ART.735 DO NCC e SÚMULA 187 DO STF DENUNCIAÇÃO DA LIDE  PROCEDÊNCIA  RESPONSABILIDADE SOLIDÁRIA DA SEGURADORA  CORREÇÃO DEVIDA A INCIDIR DESDE A DATA DO ARBITRAMENTO (SÚMULA 362/STJ) E JUROS DE MORA A PARTIR DA CITAÇÃO  HONORÁRIOS RECURSAIS MAJORADOS EM MAIS 2%, PERFAZENDO 17% DO VALOR DA CONDENAÇÃO - RECURSOS CONHECIDOS E PROVIDOS EM PARTE - À UNANIMIDADE.
+- A responsabilidade da empresa detransporte, concessionária de serviço público, é objetiva em relação aos danos causados a . passageiros - No caso sob exame, o demandante utilizava o serviço de transporte prestado pela COOPETAJU, quando o veículo em que estava se envolveu numa colisão com um caminhão.
+- Danos morais que decorrem dos ferimentos e abalo psíquico em ter presenciado a morte de várias pessoas no acidente - Quantum indenizatório arbitrado pelo juízo de piso em R$ 20.000,00(vinte mil reais), que deve ser minorado para R$10.000,00(dez mil reais) em observância aos critérios de proporcionalidade e razoabilidade.
+- Tese de culpa de terceiro para ocorrência do acidente não acolhida, de acordo com o art.735 do NCC e Sumula 187 do STF, onde "A responsabilidade contratual do transportador por acidente com o passageiro não é elidida por culpa de terceiro, contra o qual tem ação regressiva".
+- Procedência da lide secundária, dada a vigência de contrato de seguro entre a acionada COOPETAJU e a seguradora NOBRE DO BRASIL S/A. À unanimidade(e-STJ, fls. 710/711)
+Os embargos de declaração opostos por NOBREforam rejeitados (e-STJ, fls. 736/743).
+Inconformada, NOBREinterpôs recurso especial com base no art. 105, III, alíneaa, da CF, apontando violação dos arts. 944 do CC/02 e8º do NCPC, ao sustentar, em síntese, que o dano moral foi fixado em valor absolutamente desproporcional, em pleno descompasso com os princípios da razoabilidade e proporcionalidade.
+O recurso especial não foi admitido pelo Tribunal de Justiça de Sergipe (e-STJ, fls. 772/778).
+Nas razões do presente agravo, NOBRE alegou que não incideoóbiceapontadona decisão de inadmissibilidade.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+NOBRE interpôs recurso especial alegando, em síntese, que o dano moral foi fixado em valor absolutamente desproporcional, em pleno descompasso com os princípios da razoabilidade e proporcionalidade.
+A lei não fixa valores ou critérios para a quantificação do dano moral, que entretanto deve ter assento na regra do art. 944 do CC/02. Por isso, esta Corte tem se pronunciado reiteradamente no sentido de que o valor de reparação do dano moral deve ser arbitrado em montante que desestimule o ofensor a repetir a falta, sem constituir, de outro lado, enriquecimento indevido para a vítima.
+Desta forma, a jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de que os valores fixados a título de danos morais, porque arbitrados com fundamento no arcabouço fático-probatório carreado aos autos, só podem ser alterados em hipóteses excepcionais, quando constatada nítida ofensa aos princípios da razoabilidade e da proporcionalidade, mostrando-se irrisória ou exorbitante.
+A propósito:
+RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ACIDENTE. LESÃO NO DEDO DA MÃO ESQUERDA. RESPONSABILIDADE OBJETIVA DA EMPRESA. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. VALOR FIXADO NA INDENIZAÇÃO DE DANOS MORAIS. INCIDÊNCIA DA SÚMULA 7/STJ. CORREÇÃO MONETÁRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A revisão das conclusões estaduais, acerca da responsabilidade da parte agravante, demandaria o revolvimento do acervo fático-probatório dos autos, providência inviável no âmbito do recurso especial, dado o óbice da Súmula 7/STJ, não sendo o caso de revaloração de provas.
+2. A revisão do quantum arbitrado para a indenização por danos morais encontra óbice na Súmula 7/STJ, somente sendo possível superar tal impedimento nos casos de valor irrisório ou exorbitante, o que não se verifica no caso em comento.
+3. Incidem as Súmulas 282 e 356 do STF, na espécie, porquanto ausente o prequestionamento.
+3.1. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+4. O dissídio jurisprudencial não foi comprovado, pois a parte agravante não efetuou o devido cotejo analítico entre as hipóteses apresentadas como divergentes, com transcrição dos trechos dos acórdãos confrontados, bem como menção das circunstâncias que os identifiquem ou assemelhem, nos termos dos arts. 541, parágrafo único, do CPC/1973 (ou 1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ.
+5. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+6. Razões recursais insuficientes para a revisão do julgado.
+7. Agravo interno desprovido.
+(AgInt no AREsp 1756890/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 01/06/2021, DJe 07/06/2021 - sem destaque no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE VEÍCULO. MORTE DO FILHO DA AUTORA. DANOS MORAIS. VALOR. RAZOABILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No que concerne ao montante fixado a título de indenização por danos morais, nos termos da jurisprudência deste Tribunal, o valor estabelecido pelas instâncias ordinárias pode ser revisto tão somente nas hipóteses em que a condenação se revelar irrisória ou exorbitante, distanciando-se dos padrões de razoabilidade, o que não se evidencia no presente caso.
+2. Agravo interno não provido.
+(AgInt no REsp 1824156/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 15/03/2021, DJe 23/03/2021 - sem destaque no original)
+No caso concreto, o valorpelo Tribunal a quo para a indenização por danos morais (R$ 10.000,00 - dezmil reais), não se mostra exorbitante a justificar a excepcional intervenção desta Corte no presente feito.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+MAJORO em 3% o valor dos honorários advocatícios anteriormente fixados em favor de ANDRÉA DOS SANTOS OLIVEIRA, limitados a 20%, nos termos do art. 85, § 11, do NCPC, observado, se o caso, o art. 98, § 3º do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONTRATO DE TRANSPORTE DE PASSAGEIROS. ACIDENTE DE TRÂNSITO.DANO MORAL. VALOR. FIXAÇÃO EM PATAMAR RAZOÁVEL. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
