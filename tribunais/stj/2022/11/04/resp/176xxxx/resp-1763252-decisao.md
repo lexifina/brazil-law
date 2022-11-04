@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUIZ CARLOS AZEVEDO SANTANA, com fundamento no art. 105, III, alíneas "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de Sergipe, assim ementado:
+" APELAÇÃO CÍVEL - AÇÃO DE DESPEJO C/C COBRANÇA DE ALUGUÉIS E ACESSÓRIOS DE LOCAÇÃO-REQUERIDOS QUE SE DESINCUMBIRAM DO ÔNUS DE COMPROVAR A QUITAÇÃO DOS ALUGUÉIS, NOS TERMOS DO ART.373, II DO NCPC - MUDANÇA CONTRATUAL NA SOCIEDADE INQUILINA-COMUNICAÇÃO ACERCA DA ALTERAÇÃO CONTRATUAL À ADMINISTRADORA DO CONTRATO - DECLARAÇÃO DA ADMINISTRADORA ISENTANDO OS REQUERIDOS DE QUALQUER DÍVIDA LOCATÍCIA-MANUTENÇÃO DA SENTENÇA QUE JULGOU IMPROCEDENTE A DEMANDA- RECURSO CONHECIDO E IMPROVIDO - DECISÃO UNÂNIME." (e-STJ, fl. 264)
+Em suas razões recursais, a recorrente aponta violação aos arts. 40, inciso X da Lei nº 8.245/91, sustentando, em síntese, que é necessária a notificação do locador acerca de sua intenção de se eximir das obrigações locativas, o que não ocorreu no presente caso em que os fiadores saíram da sociedade da empresa afiançada.
+Contrarrazões às fls. 311/328.
+É o relatório. Passo a decidir.
+Com relação à suposta violação ao art. 40, X da Lei nº 8.245/91, tem-se que este não se encontra contemplado no objeto da controvérsia resolvida pelo Tribunal de origem, tampouco foi objeto de embargos de declaração, não se vislumbrando o prequestionamento necessário para viabilizar a interposição do presente recurso especial.
+Daí a inteligência do enunciado da Súmula nº 356 do Supremo Tribunal Federal, aplicada por analogia, a qual orienta que "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+(..)
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe de 25/11/2014)
+Desse modo, tem-se que o conhecimento do recurso especial, pela divergência, também se encontra obstado pela ausência de prequestionamento, requisito exigido indistintamente nos recursos fundamentados nas alíneas "a" e "c".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA JURISPRUDENCIAL. PREQUESTIONAMENTO. AUSÊNCIA. AGRAVO NÃO PROVIDO.
+1. Os recursos especiais interpostos com base na alínea "c" do permissivo constitucional não dispensam o necessário prequestionamento da questão jurídica, o que não ocorreu no presente caso, pois é impossível haver divergência sobre determinada questão federal se o acórdão recorrido nem mesmo emitiu juízo de valor acerca da matéria jurídica.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1036444/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/08/2017, DJe 14/08/2017)
+Ademais, tem-se que a Corte de origem afirmou que restou comprovado que houve comunicação à empresa administradora acerca da necessidade de substituição dos fiadores, tendo a mesma emitido declaração isentando os recorridos de qualquer dívida e os antigos fiadores agido de boa-fé ao efetuar os pagamentos inerentes a garantia até 120 dias após a exoneração, in verbis:
+"Entretanto, como bem pontuado na sentença, não merece prosperar a referida alegação, pois resta claro que houve comunicação à empresa administradora acerca da mudança dos sócios, bem como da necessidade de substituição dos então fiadores, o que restou comprovado, inclusive, pela própria confissão do Sr. Domingos Sávio, sócio administrador da empresa administradora do contrato, Contadata/Remax ,quando afirmou que soube da alteração pelo antigo fiador, Luciano, em julho ou agosto de 2014. Extrai-se dos autos que os apelados eram seus próprios fiadores à época em que estavam à frente da referida empresa, deixando de sê-lo com a venda regular e formalizada da mesma, devidamente comprovada, através da alteração contratual IV e cessão onerosa de quotas da sociedade empresária, registrada em março de 2014. Urge ressaltar que o preposto da Contada/Remax, Sr. Domingos Sávio, administrador do contrato, emitiu declaração em 31 de julho de2014, isentando a empresa inquilina de qualquer dívida locatícia.
+(..)
+Importa, ainda, destacar, como bem ponderado pelo Magistrado , a boa-fé dos requeridos, que efetuaram os pagamentos referentes às obrigações inerentes à fiança até 120 dias após a exoneração."(e-STJ, fl. 265)
+Os fundamentos de que a empresa administradora foi comunicada acerca da necessidade de substituição dos fiadores eemitiu declaração isentando os recorridos, que agiram de boa fé ao arcar com as obrigações até 120 dias após a exoneraçãonão foramobjeto de impugnação e sãosuficientes, por si só, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência por analogia da Súmula 283 do Supremo Tribunal Federal com relação às alíneas "a" e "c"
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento."
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe 28/03/2017)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 10% para 11% sobre o valor da causa.
+Publique-se.
