@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de Petição nº 003085596/2018 (e-STJ fls. 1.151/1.155) apresentada por BP PROMOTORA DE VENDAS LTDA. e BANCO BMG S/A, a fim de "reiterar o pedido de chamamento do feito à ordem, protocolados nos dias 11/04/2018, 03/10/2016 e 23/07/2015 perante o Superior Tribunal de Justiça e o Tribunal de Justiça do Maranhão", postulando a nulidade dos atos processuais praticados após a decisão de primeiro grau que negou seguimento aos embargos de declaração ofertados pelas instituições financeiras ora peticionantes, em razão da ausência de intimação.
+Alegam que, "não obstante os aclaratórios tenham sido rejeitados pelo magistrado de piso, a publicação da referida decisão (fls. 708) apenas fora realizada em nome do advogado Eduardo Luiz Brock (OAB/SP nº 91.311), que representa os interesses de uma das instituições financeiras, o Banco GE Capital S/A, conforme documento em anexo.Neste esteio, muito embora os advogados das instituições financeiras ora Peticionantes estejam devidamente habilitados nos autos do processo em epígrafe, a publicação da referida decisão deixou de contemplar o nome dos mesmos, bem como das próprias instituições financeiras, malferindo a disposição encartada no art. 236, §1º, do Código de Processo Civil, que estatui ser imprescindível que nas publicações no Diário Oficial constem os nomes das partes e de seus advogados, o que não ocorreu na hipótese dos autos" (e-STJ, fls. 1.151/1.152).
+Intimado, decorreu o prazo sem manifestação do requerido (e-STJ, fl. 1.161).
+Renovada a intimação (e-STJ, fl. 1.164), não houve manifestaçãodo Ministério Público do Estado do Maranhão edo Ministério Público Federal (e-STJ, fls. 1.174/1.177).
+É o relatório.
+Compulsando os autos, infere-se que o agravo em recurso especial interposto por BANCO GE CAPITAL S/A não foi conhecido pela então Presidente do STJ, Ministra Laurita Vaz, em razão de intempestividade (e-STJ, fls. 1.044/1.045).
+A decisão foi confirmada pela Quarta Turma no âmbito de agravo interno julgado na sessão de 08/02/2018, DJe de 16/02/2018 (e-STJ, fls. 1.074/ 1.079).
+Na sequência, sobreveio decisão do Ministro Lázaro Guimarães, que não conheceu do recurso especial interposto por BANCO GE CAPITAL S/A, em razão da incidência das Súmulas 7 e 211 do STJ (e-STJ, fls. 1.098/1.103).
+Seguiu-se agravo interno, a que a eg. Quarta Turma negou provimento na sessão do dia 15/05/2018, DJe de 22/05/2018 (e-STJ, fls. 1.138/1.145).
+Contra o referido acórdão não foi apresentado recurso.
+A alegada nulidade processual que teria ocorrido ainda na primeira instância constitui matéria que não foi debatida no v. acórdão recorrido e, portanto, não pode ser enfrentada diretamente nesta instância especial, sobretudo quando já encerrada a prestação jurisdicional, mediante o julgamento dos recursos cabíveis.
+Nesse panorama, considerando que não há recurso pendente de julgamento, resta encerrada a prestação jurisdicional desta Corte Superior.
+Assim, a competência para eventual análise de pedido incidental de nulidade processual é do Tribunal de origem, uma vez que o processo será enviado para aquela Corte, de modo que o pedido deve ser formulado diretamente naquele Tribunal.
+Ante o exposto, nada a prover no que tange à Petição nº 003085596/2018.
+Tendo em vista o decurso de prazo para interposição de recursos nesta instância, certifique-se o trânsito em julgado e, após, baixem-se os autos à origem.
+Publique-se. Arquive-se.
