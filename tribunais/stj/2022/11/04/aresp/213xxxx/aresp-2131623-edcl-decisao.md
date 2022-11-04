@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por IMOBILIARIA CAPAO DA LAGOA LTDA e OUTROS contra decisão monocrática desta Relatoria que rejeitou anteriores embargos de declaração opostos pelas mesmas partes.
+Em suas razões, alegam os embargantes que a decisão embargada é contraditória em relaçãoaos fundamentos da decisão recorrida objeto do Recurso Especial, proferida pelo 10º. Grupo Cível do Tribunal de Justiça do Estado do Rio Grande do Sul quando do julgamento do recurso de Agravo Interno interposto pelos ora Embargantes.
+Reitera a alegação trazida nos embargos de declaração anteriores, de que a tese suscitada no recurso de Agravo Interno perante a Corte de origem é relativa aos requisitos da petição inicial da ação rescisória, matéria distinta do próprio mérito da ação rescisória e nunca antes analisada, razão pela qual não poderia ser reconhecida naquele julgado a impossibilidade de conhecimento e descabimento do recurso "pois caracterizada a mera rediscussão da matéria".
+Intimado, o embargado não apresentou impugnação (e-STJ fl. 1141/1142)
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+Como se sabe, os segundos embargos de declaração devem limitar-se a apontar os vícios (intrínsecos) porventura constatados no acórdão que julgou os anteriores, sendo inadmissíveis quando se contrapõem aos argumentos já delineados e esclarecidos no julgado anterior, como se verifica na espécie. Nesse sentido:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DOS VÍCIOS ELENCADOS NO ART. 535 E INCISOS DO CPC.
+1. "Os segundos Embargos de Declaração devem apontar vício no julgamento dos primeiros Embargos de Declaração, e não em decisão anterior, cujo prazo para recurso já se esvaiu, pois operada a preclusão consumativa." (EDcl nos EDcl no AgRg nos EREsp 1341709/PI, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, CORTE ESPECIAL, julgado em 18/03/2015, DJe 30/03/2015.)
+2. No caso concreto, sob o pretexto de ver sanada suposta contradição, busca a parte embargante, na verdade, rediscutir questão preclusa e decidida em conformidade com jurisprudência pacífica desta Corte.
+3. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor da causa, nos termos do art. 538, parágrafo único, do CPC."
+(EDcl nos EDcl no AgRg no AREsp 663.178/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, DJe de 25/8/2015, g.n.)
+Por outro lado, a contradição que autoriza o manejo dos aclaratórios é aquela que ocorre entre os fundamentos adotados ou entre esses e o dispositivo final, ou seja, a contradição interna manifestada pelo descompasso entre as premissas adotadas pelo acórdão recorrido e sua conclusão. Neste sentido:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC/2015. CONTRADIÇÃO INTERNA. NÃO OCORRÊNCIA. ASSOCIAÇÃO DE MORADORES. TAXA DE MANUTENÇÃO. ASSOCIADO. PRESCRIÇÃO QUINQUENAL. DÍVIDA PREVISTA NO INSTRUMENTO PARTICULAR. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A contradição prevista no art. 1.022, I, do CPC/2015 é a interna, isto é, entre proposições do próprio julgado embargado, o que não se observa no caso.
+2. Prescreve em cinco anos a cobrança, por associação de moradores, de taxa de manutenção prevista em instrumento particular (ata de assembleia), em conformidade com o art. 206, § 5º, inciso I, do CC/2002. Precedentes.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7/STJ.
+4. No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir que a dívida estava incluída no instrumento particular. Alterar esse entendimento demandaria o reexame do conjunto probatório do feito, o que é vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.967.784/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 28/3/2022, DJe de 31/3/2022.)"
+No caso, alegam os embargantes que a decisão embargada é contraditória em relação aos fundamentos da decisão recorrida objeto do Recurso Especial, proferida pelo 10º. Grupo Cível do Tribunal de Justiça do Estado do Rio Grande do Sul quando do julgamento do recurso de Agravo Interno interposto pelos ora Embargantes, e não em relação às proposições do próprio julgado.
+Além disso, conforme se verifica na decisão embargada e ao contrário do que alegam os embargantes, a Corte de origem não afirmou que no agravo interno o recorrente busca rediscutir a matéria relativa ao mérito da rescisória, mas sim rediscutir a matéria abordada na anterior decisão monocrática, na qual restou reconhecido o descabimento da ação rescisória, in verbis:
+"Ao se manifestar sobre o tema, a Corte de origem consignou:
+" De pronto, cumpre sinalar que inexiste razão para se modifique a decisão monocrática, porquanto a parte ora recorrente não trouxe nenhum argumento novo a fim de ensejar a eventual alteração do posicionamento adotado.
+Tal situação resta evidente porque na presente irresignação a parte recorrente apenas reitera aquilo que fora anteriormente trazido na petição inicial, o que se mostra descabido, pois caracterizada a mera rediscussão da matéria.
+A decisão agravada foi clara ao referir que não é admitida a ação rescisória quando não verificada qualquer uma das hipóteses do art. 966, do Código de Processo Civil, e que, no caso, a parte autora tinha por objetivo a rediscussão do resultado da demanda anterior, o que se mostra defeso:" (e-STJ fl.952/953)
+Como visto, ao mencionar que no agravo interno o recorrente busca rediscutir a matéria, a Corte de origem não analisa o mérito da rescisória, mas apenas reitera o fundamento adotado na decisão monocrática, de que não é cabível o ajuizamento da ação rescisória que busca rediscutir o mérito de ação anterior." (e-STJ fl. 1115)"
+Assim, ao contrário do que sustenta a parte embargante, a decisão embargada não se revela omissa, contraditória ou obscura.
+É firme a jurisprudência do Superior Tribunal de Justiça acerca da inadmissibilidade dos embargos de declaração quando opostos fora das exíguas hipóteses legais de seu cabimento, notadamente nas hipóteses de mero descontentamento da parte com o resultado do julgamento, por não se configurar negativa de prestação jurisdicional. Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REDIBITÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. COMPRA E VENDA DE VEÍCULO ZERO QUILÔMETRO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Embargos de declaração rejeitados.
+(EDcl no AgInt nos EDcl no AREsp 1546401/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 01/06/2020, DJe 15/06/2020)
+Por oportuno, ressalta-se que a oposição desnecessária de embargos de declaração revela o caráter protelatório do recurso passível, assim, de aplicação de multa.
+Diante do exposto, rejeito o s embargos de declaração.
+Publique-se.
