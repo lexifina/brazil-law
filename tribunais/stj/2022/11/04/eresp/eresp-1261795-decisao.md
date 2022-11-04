@@ -1,0 +1,57 @@
+DECISÃO
+Cuida-se de embargos de divergência, de caráter residual, opostos por VICUNHA TÊXTIL S.A. para julgamento de divergência entre as Turmas da Primeira Seção do Superior Tribunal de Justiça.
+A Corte Especial, nos termos do voto do relator (Ministro Francisco Falcão), determinou a distribuição dos autos entre os ministros que compõem a Primeira Seção, haja vista a embargante apontar divergência entre a Primeira e a Segunda Turmas (fls. 905-913).
+Os autos foram distribuídos, por sorteio, ao Ministro Og Fernandes e, posteriormente, vieram-me conclusos, em redistribuição por sucessão, na data de 29/8/2022.
+Relativamente à alegadadivergência residual, tem-se que, na petição dos embargos de divergência, a embargante VICUNHA TÊXTIL S.A. impugna acórdão da Primeira Turma (relator Ministro Sergio Kukina) que, supostamente, teria divergido de arestos da própria Primeira Turma e da Segunda Turma, ambas com composição alterada.
+O acórdão ora embargado da Primeira Turma, por unanimidade, negou provimento ao agravo regimental da VICUNHA TÊXTIL S.A., consoante esta ementa (fl. 664):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA JULGADA PROCEDENTE. SENTENÇA RESCINDENDA PROFERIDA QUANDO JÁ ESTAVA PACIFICADO O ENTENDIMENTO, NO ÂMBITO DO STJ, DE QUE A PORTARIA Nº 153 DO DNAEE NÃO CONTINHA QUALQUER ILEGALIDADE. INAPLICÁVEL O ÓBICE DA SÚMULA 343/STF.
+1. À época da prolação da sentença rescindenda, já era pacífica a jurisprudência das Turmas que compõem a Primeira Seção no sentido de que a ilicitude das Portarias 38/86 e 45/86, do DNAEE, que majoraram a tarifa de energia elétrica em período de congelamento de preços instituído pelos Decretos-Lei 2.283/86 e 2.284/86, não contaminou os reajustes futuros, ocorridos após a edição da Portaria DNAEE 153, de 26 de novembro de 1986.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.261.795/CE, relator Ministro Sérgio Kukina, Primeira Turma,DJe de 9/11/2015.)
+A Primeira Turma também rejeitou, por maioria, os embargos de declaração opostos pela VICUNHA TÊXTIL S.A. (fl. 711).
+Os acórdãos que a ora embargante aponta como paradigmas estão assim ementados:
+a) Quanto à aplicação da Súmula n. 343/STF:
+PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO E RESCISÓRIA. ENERGIA ELÉTRICA. MAJORAÇÃO DA ALÍQUOTA. PORTARIAS NS. 38 E 45 DE 1986 DO DNAEE. SÚMULA N. 343 DO STF. MATÉRIA DE INTERPRETAÇÃO CONTROVERTIDA À ÉPOCA DO PROFERIMENTO DO ACÓRDÃO RESCINDENDO.
+1. Não cabe ação rescisória por ofensa à literal disposição de lei se a interpretação da matéria, à época em proferido o acórdão rescindendo, era controvertida nos tribunais, ainda que a jurisprudência, em momento posterior, tenha-se firmado favoravelmente à pretensão do autor (Súmula n. 343/STF e 134/TFR).
+2. A não-incidência do enunciado da Súmula n. 343/STF, segundo orientação da Primeira Seção do STJ, deve ocorrer apenas na hipótese em que o Supremo Tribunal Federal declarar a inconstitucionalidade da lei aplicada pelo acórdão rescindendo. Precedentes do STJ.
+3. Recurso especial não-provido.
+(REsp n. 450.233/RS, relator Ministro João Otávio de Noronha, Segunda Turma, DJ de 1º/8/2006, p. 400.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ERRO MATERIAL. TARIFA DE ENERGIA ELÉTRICA. MAJORAÇÃO. PORTARIAS 35 E 48/1986. ILEGALIDADE. AÇÃO RESCISÓRIA. CABIMENTO. SÚMULA 343/STF. INAPLICABILIDADE.
+1. É cabível a proposição de ação rescisória por violação literal a dispositivo de lei quando o decisório rescindendo, interpretando dispositivo legal, confere-lhe exegese contrária a iterativa orientação jurisprudencial desta Corte. Afasta-se, pois, a aplicação do óbice previsto na Súmula n. 343/STF.
+2. Embargos de declaração acolhidos com efeitos infringentes.
+(EDcl no REsp n. 450.233/RS, relator Ministro João Otávio de Noronha, Segunda Turma, DJ de 4/12/2006, p. 276.)
+b) Quando à matéria de fundo:
+ADMINISTRATIVO. TARIFAS ENERGIA ELÉTRICA. MAJORAÇÃO. PLANO CRUZADO. PORTARIAS DNAEE. ILEGALIDADE. NOVOS AUMENTOS COM BASE NAS MESMAS PORTARIAS RECONHECIDAS COMO ILEGAIS. IMPOSSIBILIDADE. PRESCRIÇÃO. INOCORRÊNCIA.
+Reconhecidas como ilegais as Portarias do DNAEE que determinaram o aumento na cobrança da tarifa de energia elétrica, durante o período de congelamento de preços instituído pelos Decretos-leis 2.283 e 2.284, de 1.986, a partir do término desta etapa, não poderiam ser impostos novos aumentos com base nas mesmas portarias, anteriormente consideradas ilegítimas. Não tendo a tarifa de energia elétrica natureza tributária, o prazo prescritivo é vintenário.
+Recurso desprovido. Decisão unânime.
+(REsp n. 107.257/SP, relator Ministro Demócrito Reinaldo, Primeira Turma, DJ de 1º/7/1999, p. 120.)
+ADMINISTRATIVO. TARIFAS ENERGIA ELÉTRICA. MAJORAÇÃO. PLANO CRUZADO. PORTARIAS DNAEE. ILEGALIDADE. NOVOS AUMENTOS COM BASE NAS MESMAS PORTARIAS RECONHECIDAS COMO ILEGAIS. IMPOSSIBILIDADE.
+Reconhecidas como ilegais as Portarias do DNAEE que determinaram o aumento na cobrança da tarifa de energia elétrica, durante o período de congelamento de preços instituído pelos Decretos-leis 2.283 e 2.284, de 1.986, a partir do término desta etapa, não poderiam ser impostos novos aumentos com base nas mesmas portarias, anteriormente consideradas ilegítimas.
+Recurso provido. Decisão unânime.
+(REsp n. 189.654/SP, relator Ministro Demócrito Reinaldo, Primeira Turma, DJ de 31/5/1999, p. 92.)
+ADMINISTRATIVO. TARIFAS ENERGIA ELETRICA. MAJORAÇÃO. PLANO CRUZADO. PORTARIAS DNAEE. ILEGALIDADE. NOVOS AUMENTOS COM BASE NAS MESMAS PORTARIAS RECONHECIDAS COMO ILEGAIS. IMPOSSIBILIDADE. RECONHECIDAS COMO ILEGAIS AS PORTARIAS DO DNAEE QUE DETERMINARAM O AUMENTO NA COBRANÇA DA TARIFA DE ENERGIA ELETRICA, DURANTE O PERIODO DE CONGELAMENTO DE PREÇOS INSTITUIDO PELO DEL 2.283 E 2.284/1986, A PARTIR DO TERMINO DESTA ETAPA, NÃO PODERIAM SER IMPOSTOS NOVOS AUMENTOS COM BASE NAS MESMAS PORTARIAS, ANTERIORMENTE CONSIDERADAS ILEGITIMAS. RECURSO PROVIDO. DECISÃO UNANIME.
+(REsp n. 150.822/RS, relator Ministro Demócrito Reinaldo, Primeira Turma, DJ de 29/6/1998, p. 44.)
+ADMINISTRATIVO. TARIFAS ENERGIA ELETRICA. MAJORAÇÃO. PLANO CRUZADO. PORTARIAS DNAEE. ILEGALIDADE. NOVOS AUMENTOS COM BASE NAS MESMAS PORTARIAS RECONHECIDAS COMO ILEGAIS. IMPOSSIBILIDADE. RECONHECIDAS COMO ILEGAIS AS PORTARIAS DO DNAEE QUE DETERMINARAM O AUMENTO NA COBRANÇA DA TARIFA DE ENERGIA ELETRICA, DURANTE O PERIODO DE CONGELAMENTO DE PREÇOS INSTITUIDO PELOS DECRETOS-LEIS 2.283 E 2.284, DE 1.986, A PARTIR DO TERMINO DESTA ETAPA, NÃO PODERIAM SER IMPOSTOS NOVOS AUMENTOS COM BASE NAS MESMAS PORTARIAS, ANTERIORMENTE CONSIDERADAS ILEGITIMAS. RECURSO PROVIDO. DECISÃO UNANIME.
+(REsp n. 125.393/RS, relator Ministro Demócrito Reinaldo, Primeira Turma, DJ de 20/10/1997, p. 52986.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. TARIFAS DE ENERGIA ELETRICA. PLANO CRUZADO. MAJORAÇÃO. PORTARIAS DNAEE. ILEGALIDADE. NOVOS AUMENTOS COM BASE NAS MESMAS PORTARIAS JA RECONHECIDAS COMO ILEGAIS. RECEBIMENTO DOS EMBARGOS PARA ESCLARECER QUE O JULGAMENTO TAMBEM INCLUI ESSE ASPECTO DA PRETENSÃO RECURSAL. INALTERABILIDADE DO JULGADO. PASSA A INTEGRAR O CONTEXTO DO ACORDÃO PROFERIDO NO RESP 140.250/SP, O ENTENDIMENTO JA FIRMADO PELA EGREGIA PRIMEIRA TURMA, SEGUNDO O QUAL, "RECONHECIDAS COMO ILEGAIS AS PORTARIAS DO DNAEE QUE DETERMINAM O AUMENTO NA COBRANÇA DA TARIFA DE ENERGIA ELETRICA, DURANTE O PERIODO DE CONGELAMENTO DE PREÇOS INSTITUIDO PELOS DECRETOS-LEIS 2.283 E 2.284, DE 1986, A PARTIR DO TERMINO DESTA ETAPA, NÃO PODERIAM SER IMPOSTOS NOVOS AUMENTOS COM BASE NAS MESMAS PORTARIAS, ANTERIORMENTE CONSIDERADAS ILEGITIMAS". PRECEDENTE. EMBARGOS RECEBIDOS, SEM MODIFICAÇÃO, TODAVIA, DO JULGADO. DECISÃO UNANIME.
+(EDcl no REsp n. 140.250/SP, relator Ministro Demócrito Reinaldo, Primeira Turma,DJ de 15/12/1997, p. 66.283.)
+REPETIÇÃO DE INDEBITO. TARIFA DE ENERGIA ELETRICA. CONGELAMENTO DE PREÇOS. REAJUSTAMENTO. ILEGALIDADE. PORTARIAS 38/1986 E 45/1986 DO DNAEE. DL 2.283/1986 E 2.284/1986. ILEGALIDADE DAS PORTARIAS, PORQUE VIOLAM O CONGELAMENTO DE PREÇOS INSTITUIDO PELOS DECRETOS. PROCEDENCIA DO PEDIDO. PRECEDENTES.
+(REsp n. 152.032/RS, rel. Min. Helio Mosimann, Segunda Turma, DJ de 9/12/1997, p. 64681.)
+A parte embargante afirma, em síntese, que (fls. 723-724 e 741):
+ A  autora ingressou com os presentes Embargos de Divergência por entender que o acórdão embargado, o qual foi proferido pela Primeira Turma deste Superior Tribunal de Justiça, firmou entendimento no sentido de que a época em que proferida a decisão rescindenda (22/10/1997) já era pacífica a jurisprudência da Primeira Seção do Superior Tribunal de Justiça no sentido de que a ilicitude das Portarias nº 38/86 e 45/86, do DNAEE, que majoraram a tarifa de energia elétrica em período de congelamento de preços instituído pelos Decretos-Lei nº 2.283/86 e 2.284/86, não contaminou os reajustes futuros, ocorridos após a edição da Portaria DNAEE nº 153/86.
+Por outro lado, o acórdão recorrido entendeu ainda que as decisões em sentido contrário proferidas à época, as quais foram apontadas pela embargante como entendimento jurisprudencial divergente, consubstanciaram-se em precedentes isolados no âmbito da primeira turma deste Superior Tribunal de Justiça.
+(..)
+À luz do teor da Súmula 343 do STF, para se demonstrar o equívoco da decisão recorrida, na medida que se mostra FLAGRANTE que a questão em tela era controvertida nos Tribunais à época da Sentença rescindenda, a saber, 22 outubro de 1997, e não apenas que existia julgado isolado como entendeu o Nobre Ministro, transcrevemos julgados FAVORÁVEIS, proferidos à época, no mesmo sentido da decisão rescindenda, o que, sem dúvida, atesta o entendimento vacilante.
+Aduz que a sentença rescindenda data de 1997, período esse em que a interpretação da matéria de fundo era controvertida nos tribunais, de modo que não caberia, na hipótese, ação rescisória por ofensa literal a disposição de lei, como determina a Súmula n. 343/STF ("Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais").
+Acresce que a decisão do STJ que pacificou a matéria infraconstitucional foi publicada somente em 13/10/1998, ou seja, quase um ano depois da decisão rescindenda, proferida em 22/10/1997 e transitada em julgado em 24/11/1997, ficando assim ementada:
+EMBARGOS DE DIVERGÊNCIA - CONGELAMENTO - DECRETOS-LEIS NºS 2.283 E 2.284/86 - PORTARIA Nº 153/86.
+A ilegalidade só perdurou até a edição da Portaria nº 153/86.
+Questão já conhecida da Corte. Na própria Primeira Turma já prevalece entendimento igual ao adotado pelo venerando acórdão embargado.
+Embargos rejeitados.
+(EREsp n. 135.620/SP, relator Ministro Garcia Vieira, Primeira Seção, julgado em 29/4/1998, DJ de 13/10/1998, p. 7.)
+Requer o provimento destes embargos de divergência para que, afastando a tese do acórdão ora embargado, seja reconhecida a improcedência da ação rescisória na origem, a qual tratou de matéria controvertida à época nos tribunais e ignorou a Súmula n. 343/STF.
+É, no essencial,o relatório.
+Como se pode observar da leitura das ementas supracitadas, ficou, ao menos em princípio,demonstrada a divergência jurisprudencial entre os julgados da Primeira e da Segunda Turmas desta Corte.
+Preenchidos os requisitos de admissibilidade, admito o processamento dos presentesembargos de divergência, nos termos do art. 266do RISTJ.
+Vista à parte embargada paraimpugnação,no prazo assinalado pelo art. 267 do RISTJ.
+Publique-se. Intimem-se.
