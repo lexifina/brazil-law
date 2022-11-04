@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de JANERSSON DOS SANTOSapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS(Apelação Criminal n.1503319-09.2020.8.26.0548).
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 49/53, in verbis:
+Trata-se de habeas corpus impetrado com fundamento no art. 5º, LXVIII, da Constituição da República, em favor de Janersson dos Santos, contra acórdão do Tribunal de Justiça do Estado de Alagoas, que negou provimento à apelação defensiva, por meio do qual se pleiteava a absolvição dos réus ou o redimensionamento da pena imposta, nos termos da ementa a seguir transcrita (fl. 24):
+ ..
+Nas razões do writ (fls. 3/8), a Defesa afirma que as instâncias ordinárias, ao reconhecerem a existência de duas majorantes (concurso de agentes e uso de arma de fogo), exasperaram a pena, de forma cumulativa, em 1/3 e 2/3, em desacordo ao disposto no art. 68 do Código Penal.
+Destaca que, ainda que se admitisse em tese a aplicação cumulativa das majorantes, deveria ter sido apresentada fundamentação idônea, o que não ocorreu no caso sob exame.
+Requer o provimento do recurso para que a pena seja redimensionada, com a aplicação de uma única causa de aumento.
+Sem pedido liminar.
+Ao final, o Parquet opinou pela concessão da ordem.
+É o relatório.
+Decido.
+Preliminarmente cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpusapenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+Acerca da dosimetria da pena, consta da sentença condenatória o seguinte(e-STJ fl. 17):
+Não há causas de diminuição da pena, mas incidem as causas de aumento previstas no inciso II do § 2º do art. 157 do Código Penal e no inciso I do § 2º-A do mesmo tipo, consistentes no concurso de pessoas e emprego de arma de fogo, motivo pelo qual aumento a reprimenda em 1/3 (um terço) e 2/3 (dois terços), respectivamente, ficando a pena definitiva em 08 (oito) anos, 10 (dez) meses e 18 (dezoito) dias de reclusão e 22 (vinte e dois) dias-multa.
+Já o Tribunal de origem, no ponto, consignou (e-STJ fl. 28):
+22. Atente-se que, nesta terceira fase da dosimetria da pena dos apelantes, a defesa pugna pela aplicação do regramento constante no parágrafo único do art. 68 do CP, in verbis:
+Art. 68 - A pena-base será fixada atendendo-se ao critério do art. 59 deste Código; em seguida serão consideradas as circunstâncias atenuantes e agravantes; por último, as causas de diminuição e de aumento. (Redação dada pela Lei nº 7.209, de 11.7.1984) Parágrafo único - No concurso de causas de aumento ou de diminuição previstas na parte especial, pode o juiz limitar-se a um só aumento ou a uma só diminuição, prevalecendo, todavia, a causa que mais aumente ou diminua. (Redação dada pela Lei nº 7.209, de 11.7.1984) grifos acrescidos
+23. Ocorre que, o disposto no artigo acima transcrito é uma faculdade conferida ao Julgador, logo, não é direito subjetivo dos apelantes. Dito isto, ao examinar os fundamentos expostos na sentença vergastada, percebe-se que o Magistrado a quo aplicou cumulativamente as causas de aumento, exasperando a pena pelo concurso de agentes e pelo emprego de arma de fogo.
+Conforme se observa,a aplicação das majorantes deu-se de forma cumulada. Ou seja, em um primeiro momento, exasperou-se a pena em razão do concurso de dois agentes (1/3) e, a seguir, exasperou-se a pena devido ao emprego de arma de fogo (2/3).
+Vale registrar que esta Corte admite que o aumento se dê dessa forma, na terceira fase, quando o crime de roubo é praticado mediante o concurso de agentes e com o emprego de arma de fogo:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE AGENTES E PELO EMPREGO DE ARMA DE FOGO. DOSIMETRIA. CÚMULO DE CAUSAS DE AUMENTO DE PENA. PLEITO DE APLICAÇÃO APENAS DA MAJORANTE DE MAIOR VALOR. IMPROCEDÊNCIA. INTERPRETAÇÃO CORRETA DO ART. 68, PARÁGRAFO ÚNICO, DO CP. POSSIBILIDADE DE APLICAÇÃO DAS DUAS CAUSAS DE AUMENTO, MEDIANTE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A teor do art. 68, parágrafo único, do Código Penal, a aplicação das causas majorantes e minorantes se dá sem compensação, umas sobres as outras, não sendo admissível a pretendida tese de incidência de única majorante dentre as aplicáveis.
+2. Tendo sido o crime de roubo praticado com o efetivo emprego de arma de fogo e ainda mediante concurso de cinco agentes, correta foi a incidência separada e cumulativa das duas causas de aumento.
+3. Agravo regimental improvido.
+(AgRg no HC 512.001/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/08/2019, DJe 29/08/2019.)
+Não obstante, a exasperação da pena deve-se dar, sempre, de forma concreta, devendo ser apontados os dados que justifiquem esse maior rigor na aplicação da reprimenda. Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO DUPLAMENTE MAJORADO E CORRUPÇÃO DE MENORES, DECLARAÇÃO DA INCONSTITUCIONALIDADE DE DISPOSITIVO LEGAL. INCOMPATIBILIDADE COM A VIA DO WRIT. DOSIMETRIA. ART. 68 DO CP. CONCURSO DE MAJORANTES. CARÊNCIA DE MOTIVAÇÃO IDÔNEA PARA A APLICAÇÃO CUMULATIVA DAS FRAÇÕES DE AUMENTO. PENA REVISTA. REGIME PRISIONAL FECHADO MANTIDO. PENA-BASE ACIMA DO PISO LEGAL. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Quanto ao art. 157, § 2º-A, do CP, "a instauração do incidente de inconstitucionalidade é incompatível com a via célere do habeas corpus porque a celeridade exigida ficaria comprometida com a suspensão do feito e a afetação do tema à Corte Especial para exame do pedido" (HC 244.374/SP, Rel. Ministro Moura Ribeiro, Quinta Turma, DJe 1º/8/2014).
+4. A jurisprudência da Suprema Corte é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta.
+5. No caso, as instâncias de origem não fundamentaram concretamente a adoção das frações de aumento de forma cumulada, limitando-se apenas a ressaltar a incidência das duas majorantes nos crimes de roubo imputados ao paciente. Ademais, não configura fundamentação concreta a menção às razões ou consequências que levaram o legislador a prever as referidas circunstâncias como causas de aumento.
+6. Estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Estatuto Repressor, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu.
+7. Writ não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena do paciente ao patamar de 7 anos e 8 meses de reclusão e 16 dias-multa, mantidas as demais disposições do acórdão impugnado.
+(HC 542.236/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019.)
+No caso dos autos, da leitura dos excertos supratranscritos, observa-se que não foram declinados motivos suficientes e idôneos para a aplicação cumulada das majorantes, mas apenas a sua configuração, motivo pelo qualdeve incidir apenas o aumento mais grave (2/3) na dosimetria da pena, de modo que a reprimenda definitiva pelo delito de roubo deve ser reduzida para 6 anos e 8 meses de reclusão.
+Ante o exposto,concedo a ordempara reduzir apenado paciente, pelo delito de roubo, conforme acima deduzido, para 6 anos e 8 meses de reclusão, mantidos os demais termos da condenação.
+Tendo em vista que acorré TATIANEDOS SANTOS SILVAencontra-se na mesma situação fático-processual do paciente, estendo-lheos efeitos desta decisão, com fulcro no art. 580 do Código Processo Penal.
+Publique-se. Intimem-se.
