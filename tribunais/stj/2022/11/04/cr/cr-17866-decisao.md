@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a justiça paraguaia (Corte Suprema de Justicia) solicita a citação de MUNDIAL S.A. - PRODUTOS DE CONSUMO para tomar conhecimento do conteúdo de ação de indenização ordinária e nulidade parcial de cláusulas contratuais, bem como para comparecer perante o Tribunal e tomar medidas no prazo de 60 dias (fl. 10).
+Concedido o exequatur (fls. 83/84), foram os autos remetidos à Seção Judiciária do Estado de São Paulo. Os autos retornaram a essa Corte acompanhados de certidão exarada, no que interessa, nos seguintestermos (fl. 186):
+CERTIFICO e dou fé, em cumprimento ao r. mandado, que me dirigi à Rua do Paraíso, 148, cj. 142 -São Paulo/SP, no dia 26/10/2022, por volta das 11h10min, e PROCEDI À NOTIFICAÇÃO E INTIMAÇÃO de MUNDIAL S. A - PRODUTOS DE CONSUMO, na pessoa da Dra. Marcella Bizotto Alves, OAB/SP 330.798, que se apresentou autorizada a receber a presente intimação, tudo conforme Ordem de Serviço DFORSP nº 23, de 03 de setembro de 2020, para os atos e termos da ação supra e inteiro teor do mandado, a qual aceitou a contrafé que lhe foi oferecida, tendo ela exarado o seu ciente. Nada mais.
+Diante do exposto, devidamente cumprida a carta rogatória, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central competente, nos termos do art. 216-X, do RISTJ.
+Publique-se.
