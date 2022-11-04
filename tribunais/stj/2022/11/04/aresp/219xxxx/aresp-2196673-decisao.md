@@ -1,0 +1,50 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/15) interposto por MARIA DAS DORES DA SILVA LIMAem face da decisão que, em juízo prévio de admissibilidade, inadmitiu o recurso especial manejado pelo ora agravante.
+O apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, fora deduzido em desafio ao acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro,assim ementado (fl. 215, e-STJ):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. PURIFICADOR DE ÁGUA ADQUIRIDO PELA CONSUMIDORA QUE APRESENTOU LAUDO QUE ATESTA QUE A ÁGUA ESTAVA IMPRÓPRIA PARA CONSUMO. SENTENÇA DE PROCEDÊNCIA QUE CONDENOU A RÉ A RESTITUIR O VALOR PAGO PELA AUTORA, BEM COMO A REPARAR DANOS MORAIS. INCONFORMISMO DO FABRICANTE. IMPOSSIBILIDADE DE ACOLHIMENTO DA TESE DE INEXISTÊNCIA DE VÍCIO NO PRODUTO DIANTE DA AUSÊNCIA DE PROVA NESTE SENTIDO. DANOS MORAIS NÃO CONFIGURADOS. AUSÊNCIA DE ABALO À HONRA E IMAGEM DA CONSUMIDORA, DOR, SOFRIMENTO, TRISTEZAOU HUMILHAÇÃO CAPAZ DE CONFIGURAR PRUEJUÍZO À INTEGRIDADE PSICOLÓGICA. REFORMA PARCIAL DA SENTENÇA. Recurso conhecido e provido em parte.
+Opostos embargos declaratórios, restaram desacolhidos na origem (fls. 237-240,e-STJ).
+Nas razões de recurso especial (fls. 247-263,e-STJ), alegou o insurgente que o acórdão recorrido violou os seguintes dispositivos de lei federal: (i)arts. 489 e 1.022 do CPC/15, ante a negativa de prestação jurisdicional; (ii) arts. 186 e 927 do CC e arts. 6º, 8º e 18 do CDC, sustentando, em suma, restar configurado o dano moral na hipótese.
+Em juízo prévio de admissibilidade, a Corte de origem inadmitiu o apelo nobre ante aincidênciada Súmula 7/STJ.
+Inconformado, interpôs o presente agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 280-286,e-STJ, por meio do qual pretende ver admitido o recurso especial.
+É o relatório.
+Decide-se.
+A pretensão recursal não merece prosperar.
+1. De início, afasta-se a afronta ao art. 1022 do CPC/15, porquanto em suas razões recursais, o recorrente limitou-se a apontar a existência de omissões sobre questões relevantes que deveria ter se pronunciado o Tribunal, sem indicar, contudo, quais foram os pontos omissos da decisão impugnada, tampouco a forma pela qual o dispositivo fora violado, o que atrai a incidência da Súmula 284 do STF.
+Assim, em prejuízo da compreensão da controvérsia, não foi demonstrada com clareza e precisão a necessidade de reforma da decisão, neste aspecto, incidindo no óbice previsto na Súmula n. 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ATRASO NA ENTREGA DE OBRA. MATÉRIA CONSTITUCIONAL. APRECIAÇÃO PELO STJ. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. CITAÇÃO DE ARTIGOS. SÚMULA N. 284/STF. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF e 211 DO STJ. MORA CONTRATUAL. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. INADIMPLEMENTO. DESCARACTERIZAÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA N. 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+1. Ao Superior Tribunal de Justiça não cabe se manifestar sobre supostas violações de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. Considera-se deficiente a fundamentação recursal que alega negativa de prestação jurisdicional, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro da decisão agravada.
+3. É "impossível o conhecimento do recurso pela alínea "a", já que citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, posto ser impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (REsp n. 1.853.462/GO, Relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/11/2020, DJe 4/12/2020), o que ocorreu.
+ ..
+11. Agravo interno a que se nega provimento.
+(AgInt no REsp 1836510/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/04/2021, DJe 23/04/2021)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DA SÚMULA 284 DO STF. RECUSA DE ATENDIMENTO EM SITUAÇÃO DE EMERGÊNCIA. NECESSIDADE DE CUMPRIMENTO DE CARÊNCIA. ABUSIVIDADE. OMISSÃO DE DOENÇA PREEXISTENTE. FRAUDE. NÃO OCORRÊNCIA. REEXAME. SÚMULA 7 DO STJ.
+1. Apresenta-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC se faz de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam omissos, contraditórios ou obscuros.
+2. De acordo com a jurisprudência desta Corte, é abusiva a negativa de cobertura para tratamento de emergência ou urgência do segurado sob o argumento de necessidade de cumprimento do período de carência.
+3. "Não se limita a cobertura de urgência e de emergência ao que foi despendido apenas nas primeiras doze horas de tratamento, tendo em vista o disposto na súmula 302 do STJ: É abusiva a cláusula contratual de plano de saúde que limita no tempo a internação hospitalar do segurado. Precedentes." (AgInt no AgInt no AREsp 1458340/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 28/10/2019, DJe 30/10/2019) 4. O Tribunal de origem, amparado no acervo fático-probatório, concluiu que o quadro de saúde da beneficiária era de conhecimento da operadora do plano de saúde, não havendo omissão quanto à doença preexistente. Desse modo, insindicável a conclusão do Tribunal por esta Corte Superior, ante o óbice da Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1571523/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/03/2021, DJe 18/03/2021)  grifou-se
+Desta forma, considerando que a recorrente não indicou de maneira clara a omissão e negativa de prestação jurisdicional arguidas, aplica-se o teor da Súmula 284/STF.
+2. Insurge a recorrente quanto à configuração dos danos morais no caso, porquanto o defeito no filtro resultou em um consumo de água imprópria.
+No que se refere aos requisitos da responsabilização civil que implicaram na obrigação de indenizar pelos danos morais, ressalta-se que o Tribunal de origem, a quem incumbe a análise dos elementos fático-probatórios constantes dos autos, assim concluiu:
+Por outro lado, assiste razão ao apelante quanto à inexistência de danos morais a reparar, visto que não se vislumbra lesão a ensejar a pretendida reparação, uma vez que apesar de configurado o defeito no produto, não há relato de qualquer situação que configure abalo a honra e dignidade da consumidora, nem mesmo dor, sofrimento, tristeza, humilhação ou qualquer sentimento que prejudique a sua integridade psicológica.
+In casu, rever o entendimento do Tribunal de origem, que diante da realidade fática apresentada nos autos concluiu pela inocorrência dos danos morais pleiteados na inicial, demandaria necessário reexame do contexto fático-probatório, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7 do STJ. Nesse sentido, precedentes desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. CIRURGIAS REPARADORAS PÓS-BARIÁTRICA. MERO INADIMPLEMENTO CONTRATUAL. DANOS MORAIS NÃO CONFIGURADOS. REEXAME DE PROVAS. SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, o mero inadimplemento contratual não enseja condenação por danos morais.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. A necessidade do reexame da matéria fática inviabiliza o recurso especial também pela alínea "c" do inciso III do art. 105 da Constituição Federal, ficando, portanto, prejudicado o exame da divergência jurisprudencial.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.979.763/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 24/10/2022, DJe de 27/10/2022.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. ESTAÇÃO DE TRATAMENTO. MAU CHEIRO. PROVAS. AUSÊNCIA. DANOS MORAIS. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. PREQUESTIONAMENTO FICTO. SÚMULAS NºS 282/STF E 211/STJ. APLICAÇÃO. SÚMULA Nº 518/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A inversão do ônus da prova não implica na presunção imediata de veracidade dos fatos alegados pela parte, sendo necessário que tenha comprovado minimamente os fatos constitutivos do direito alegado.
+3. Na hipótese, rever o entendimento exarado pelo tribunal de origem acerca da ausência de comprovação do dano moral alegado demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inadmissível em recurso especial ante o óbice contido na Súmula nº 7/STJ.
+4. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação do art. 1.022 do CPC/2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que, uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+5. Nos termos da Súmula nº 518/STJ, é inviável analisar violação a texto de súmula em recurso especial.
+6. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.040.884/PR, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/10/2022, DJe de 24/10/2022.)
+Inafastável, no ponto, o teor da Súmula 7/STJ.
+3. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, conheço do agravo para, de plano, não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
