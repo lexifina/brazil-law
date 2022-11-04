@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MHD GHIATH ALDAWOUDI contra acórdão do Tribunal de Justiça do Estado de São Pauloproferido na Apelação Criminal n. 1504876-84.2021.8.26.0228.
+Consta nos autos que o Paciente foi condenado, em primeiro grau de jurisdição, "como incurso nas penas artigo 180, § 1º e § 2º, por três vezes, c. c. artigo 61, alínea "j", nos termos do artigo 71, todos do Código Penal, às penas de 04 (quatro) anos e 02 (dois) meses de reclusão, em regime semiaberto, além do pagamento de 14 (catorze) dias-multa, com valor unitário mínimo legal à razão de 1/30 (um trigésimo) do salário mínimo vigente à época dos fatos" (fl. 20).
+O Sentenciado interpôs recurso de apelação, o qual foi desprovido pela Corte estadual (fls. 21-34).
+Neste writ, a Impetrante sustenta, em suma, a ilegalidade da fixação do regime prisional inicial semiaberto, tendo em vista que "os Exmos. Julgadores deixaram de aplicar o quanto vazado no artigo 387, § 2º do Código de Processo Penal" (fl. 7).
+Alega que "se subtraindo do total da pena definitiva o período de prisão provisória, o resultado do quantum de pena não é superior a 4 anos de reclusão, para ser mais preciso, 3 (três) anos, 8 (oito) meses e 24 (vinte e quatro) dias de reclusão, o que evidencia escorreita a imposição do regime aberto, nos termos do artigo 33, §2º, c, do Código Penal, fatos não reconhecidos pelo E. Tribunal Bandeirante" (fl. 10).
+Requer, em liminar e no mérito,a alteração do regime carcerário inicial para o aberto.
+É o relatório.
+Decido.
+Constato  que  a  tese  ora  suscitada  não  foi apreciada pela Corte estadual, pois não foi  ventilada  nas  razões  do  recurso  de  apelação, conforme destacado no acórdão impugnado (fl. 31; sem grifos no original):
+"Com relação ao réu MHD, as penas foram corretamente fixadas, tanto que com elas a defesa conformou-se, já que não teceu qualquer irresignação em suas razões recursais, razão pela qual restam mantidas por seus próprios e jurídicos fundamentos."
+  Portanto,  está  configurado  o  óbice  processual  no  sentido  de  que,  "a  despeito  de  conferir-se  ao  recurso  de  apelação  efeito  devolutivo  amplo,  esse  é  limitado  ao  que  deduzido  nas  razões  recursais  ou  nas  contrarrazões,  motivo  pelo  qual,  em  habeas  corpus  impetrado  perante  esta  Corte,  não  se  pode  apreciar  pretensão  não  ventilada  nas  instâncias  antecedentes,  sob  pena  de  indevida  supressão  de  instância"  (AgRg  no  HC  529.475/SP,  Rel.  Ministra  LAURITA  VAZ,  SEXTA  TURMA,  julgado  em  10/09/2019,  DJe  30/09/2019).
+  No  ponto,  destaco  ainda  o  seguinte  julgado  desta  Corte:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGADA OMISSÃO DO ACÓRDÃO DE APELAÇÃO. MATÉRIA NÃO IMPUGNADA NAS RAZÕES DO APELO. OMISSÃO INEXISTENTE. CRIME DE DANO. ALEGADA AUSÊNCIA DE DOLO ESPECÍFICO. MATÉRIA NÃO DISCUTIDA NA CORTE DE ORIGEM. IMPOSSIBILIDADE DE EXAME DIRETO NESTA CORTE SUPERIOR. SUPRESSÃO DE INSTÂNCIA E AUSÊNCIA DE PREMISSAS FÁTICAS. AGRAVO REGIMENTAL IMPROVIDO.
+1. O efeito devolutivo do recurso de apelação criminal encontra limites nas razões expostas pelo recorrente, em respeito ao princípio da dialeticidade que rege os recursos no âmbito processual penal pátrio, por meio do qual se permite o exercício do contraditório pela parte que defende os interesses adversos, garantindo-se, assim, o respeito à cláusula constitucional do devido processo legal. (AgRg no HC n.º 530.904/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/9/2019, DJe 10/10/2019).
+ ..
+3. Agravo regimental improvido."(AgRg no HC n. 766.536/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 13/09/2022, DJe de 19/09/2022.)
+Além  disso,  embora o art. 654 § 2.º, do Código de Processo Penal, preveja a possibilidade da concessão de habeas corpus de ofício, "tal providência não se presta como meio para que a Defesa obtenha pronunciamento judicial sobre o mérito de pedido deduzido em via de impugnação que não ultrapassou os requisitos de admissibilidade" (AgRg no HC n. 702.446/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/03/2022, DJe 22/03/2022).
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se.  Intimem-se.
+EMENTA
+HABEAS  CORPUS.  PENAL.  REGIME CARCERÁRIO.  TESE  NÃO  SUSCITADA  NAS  RAZÕES  DO  RECURSO  DE  APELAÇÃO.  SUPRESSÃO  DE  INSTÂNCIA.  PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
