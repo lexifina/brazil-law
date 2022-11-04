@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJSP assim ementado (e-STJ fl. 759):
+PLANO DE SAÚDE. INDENIZAÇÃO POR DANOSMORAIS. Espólio da beneficiária que pede reparação por danosmorais causados pela negativa de cobertura de tratamento emregime domiciliar (home care). Sentença de parcial procedência,condenando a ré ao pagamento deindenização por dano moral,arbitrada em RS 10.000,00. Inconformismo de ambas aspartes. Preliminares arguidas pela ré de ausência decomprovação da condição de inventariante da representante daparte autora e de ilegitimidade ativa do espólio, afastadas. Arepresentação processual do espólio autor foi regularizada. Oespólio tem legitimidade ativa ad causam para pleitear areparação dos danos morais suportados pela de cujus, ainda quenão tenha esta iniciado a ação em vida. Inteligência do art. 943do CC. O direito de exigir reparação e a obrigação de prestá-latransmitem-se com a herança. Preliminar de ausência deimpugnação específica da sentença suscitada em contrarrazões,afastada. Razões recursais da requerida que atacaram osfundamentos de fato e de direito da sentença. MÉRITO.Negativa de cobertura pautada em cláusula contratual. Danomoral inexistente. Direito do contratante de apresentar suainterpretação dos dispositivos contratuais. Precedentes destaCâmara. Sentença reformada para julgar a ação improcedente.
+RECURSO DA RÉ PROVIDO, PREJUDICADO ORECURSO DA PARTE AUTORA, que intentava a majoraçãoda indenização.
+Os embargos de declaração foram rejeitados (e-STJ fls. 790/793).
+Nas razões do especial (e-STJ fls. 795/879), fundamentado no art. 105, III, "a" e "c", da CF/1988, a parte recorrente aponta, além de divergência jurisprudencial, violação dos arts. 6º, IV e VI, 14, § 3º, I e II, do CDC, 4º e 10 da Lei n. 10.741/2003, 12, 186, 187, 389, 395, 475, 927 e 944 do CC/2002, 374 do CPC/2015,sob alegação de que teria havido dano moral em decorrência da negativa indevida de cobertura pelo plano de saúde.
+Indica ainda ofensa ao art. 1.022 do CPC/2015, argumentando ter havido omissão no acórdão recorrido.
+É o relatório.
+Decido.
+Inicialmente, não há falar em contrariedade ao art. 1.022 do CPC/2015, pois o Tribunala quopronunciou-se, de forma clara e suficiente, acerca da questão suscitada nos autos.
+Reconheceu o TJSP que não teriam ocorrido danos morais a serem indenizados.
+Ficou definido que"eventuais constrangimentos e ansiedades experimentados quando da negativa, não obstante o quadro de saúde da autora, não caracterizam a dor moral grave que justifique uma condenação pecuniária com caráter indenizatório, motivo pelo qualnão há que se falar em reparação moral" (e-STJ fl. 768).
+A análise da alegação de que existiu dano a ser indenizado é inviável em recurso especial, em virtude do óbice erigido pela Súmula n. 7 do STJ.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo. Deferida a gratuidade da justiça, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se. Intimem-se.
