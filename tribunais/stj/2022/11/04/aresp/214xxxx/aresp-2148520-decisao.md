@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recursoespecial interposto por V R SCARMATO ATACADO, fundado no art.105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão doEg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+EMENTA: Locação de espaço para uso comercial de quiosque de comércio varejista no estabelecimento réu. Ação de indenização por danos materiais e morais. Sentença de parcial procedência. Alegação da autora de fechamento repentino do hipermercado, causando-lhe prejuízos de ordem material e moral.
+Tipo de locação assemelhado a contrato locatício em shopping center. Aplicação da regra do art. 54 da Lei 8.245/91. Prevalência das condições livremente pactuadas. Locação em vigor por prazo indeterminado. Estabelecimento réu que promoveu rescisão, após notificação, no prazo previsto contratualmente. Inexistência de ato ilícito praticado pelo réu. Indenização indevida. Multa contratual em razão da rescisão unilateral do réu. Descabimento.
+Contrato que estava em vigor por prazo indeterminado. Recurso desprovido, com observação.
+De acordo com os subsídios existentes, constata-se que a locadora exerceu seu direito, providenciando a notificação da autora quanto à rescisão do contrato de locação, nos termos e prazo estipulado. Portanto, não se vislumbra prática de ato ilícito pela requerida, não havendo que cogitar de ressarcimento por dano material e moral, conforme postulado pela autora.
+A r. sentença apelada corretamente afastou a incidência de multa contratual no caso, pois o contrato vigia por prazo indeterminado quando de sua rescisão.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação aos arts.57 da Lei nº 8.245/91 e artigos 421, 422, 186 e 927 do Código Civil. Sustenta, em síntese, que não foi respeitado o prazo de 30 dias para o encerramento do contrato, após notificação enviada pelo locador, o que enseja o pagamento de multa contratual. Afirma, ainda, que tal condutacausou ao Recorrente intensos danos materiais e morais.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Quanto ao cumprimento dos termos para o desfazimento do contrato de aluguel não residencial, por prazo indeterminado, a Corte de origem assim decidiu a controvérsia:
+"Consoante se depreende, as partes celebraram contrato de locação de espaço comercial de um quiosque de comércio varejista no estabelecimento réu em janeiro de 2009, o qual foi prorrogado por prazo indeterminado.
+Nesse tipo de locação, a estrutura muito se assemelha a contrato de locação em shopping center, sendo aplicável a regra do artigo 54 da Lei 8.245/91, com prevalência da autonomia da vontade e força obrigatória dos contratos: "Art. 54. Nas relações entre lojistas e empreendedores de shopping center, prevalecerão as condições livremente pactuadas nos contratos de locação respectivos e as disposições procedimentais previstas nesta lei".
+Assim, não subsistem alegações da apelante quanto ao fato de que a ré notificou sobre a rescisão apenas 3 dias antes do efetivo fechamento do estabelecimento, pautando suas razões recursais nesse ponto. Isto porque, é de ressaltar a anuência da apelante aos termos do contrato firmado e, nesse aspecto, tratando-se de locação não residencial, em vigor por prazo indeterminado, era cabível a denúncia vazia a qualquer momento, tendo a ré enviado notificação sobre a rescisão dentro do prazo previsto contratualmente, ou seja, 5 dias, nos termos da cláusula décima terceira do contrato (fls. 24/25).
+A ré, em sua defesa, na contestação, afirmou que o encerramento das atividades no hipermercado ocorreu em 10/11/2019, mantendo o acesso da requerente à sua galeria e demais espaços do "mall" até o dia 31/12/2019 (fl.
+69). Na réplica, a autora deixou de impugnar especificamente tais assertivas.
+Ademais, na oportunidade de especificação de provas, a autora informou não ter interesse na produção de outras provas, requerendo o julgamento antecipado (fl. 113).
+Diante disso, pelos subsídios existentes, constata-se que a locadora exerceu seu direito, providenciando a notificação da autora quanto à rescisão do contrato de locação, nos termos e prazo estipulado, de modo que não se vislumbra prática de ato ilícito pela requerida, não havendo que cogitar de ressarcimento por dano material e moral, conforme postulado pela autora.
+De outra parte, a r. sentença apelada corretamente afastou a incidência de multa contratual no caso, pois o contrato vigia por prazo indeterminado quando de sua rescisão."
+Da leitura do excerto ora transcrito, verifica-se que a Corte de origem, conjugando o art. 54 da Lei n. 8.245/91 e as disposições contratuais, concluiu que "a locadora exerceu seu direito, providenciando a notificação da autora quanto à rescisão do contrato de locação, nos termos e prazo estipulado, de modo que não se vislumbra prática de ato ilícito pela requerida, não havendo que cogitar de ressarcimento por dano material e moral, conforme postulado pela autora." (fl. 191).
+Contudo, tal argumento, autônomo e suficiente para a manutenção do acórdãoestadual, não foram impugnados diante das razões recursais. Nesse contexto,incide o óbice da Súmula 283 do STF. Nesse sentido, confira-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DEFAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. INOVAÇÃO RECURSAL.FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. PRECEDENTES. REVISÃO DOS REAJUSTESDAS MENSALIDADES. DISPOSIÇÕES CONTRATUAIS. INCIDÊNCIA DAS SÚMULAS 5 E 7DO STJ. AGRAVO NÃO PROVIDO.
+1. É inadmissível o recurso especial nas hipóteses em que oacórdão recorrido assenta em mais de um fundamento suficiente e o recursonão abrange todos eles. Aplicação analógica da Súmula 283 do STF.
+Precedentes.
+(..)
+4. Agravo interno não provido."
+(AgInt no AREsp 1592493/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA,julgado em 10/03/2020, DJe 01/04/2020)
+Ademais, ainda que superado o referido óbice, tem-se que a pretensão de modificar o entendimento firmado demandaria revolvimento do acervo fático-probatório e análise de cláusulas contratuais, o que é inviável em sede de recurso especial, nos termos das Súmulas 7 e 5 do STJ.
+Outrossim, melhor sorte não socorre à recorrente em relação ao alegado dissídio jurisprudencial, uma vez que inexiste similitude fático-jurídica entre os acórdãos em comparação.
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, §11, do CPC/2015, majoro os honoráriosadvocatícios de R1.200,00 (mil e duzentos reais) para R$1.320,00 (mil trezentos e vinte reais).
+Publique-se.
