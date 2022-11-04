@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MARCONE MANOEL DA SILVA contra a decisão proferida pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que não admitiu seu recurso especial fundado no art. 105, III, alíneas a e c, da Constituição Federal.
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 338/340, in verbis:
+Trata-se de Agravo em Recurso Especial interposto por MARCONE MANOEL DA SILVA contra decisão que negou seguimento ao apelo nobre aviado.
+Na origem, o agravante foi condenado à pena de 2 anos e 4 meses de reclusão, em regime inicial semiaberto, pela prática do crime de furto qualificado. O Tribunal de origem negou provimento ao apelo defensivo. Os embargos de declaração opostos (fl. 270) foram rejeitados (fls. 283/287).
+No apelo nobre (fls. 274/279) sustentou-se que "o laudo realizado a fim de comprovar a teoria da escalada é frágil e superficial, uma vez que não descreve os elementos característicos do local onde ocorreu os fatos..O laudo é imprestável para atestar a qualificadora..pois o acusado não pode ser punido pelo descaso do aparelho estatal." Ademais, "não há se de aplicar o art.167 do CPP, pois os vestígios não desapareceram (o que autorizaria a aplicação), mas sim houve total descaso das autoridades, com a realização do laudo mais de 1 ano após os fatos (fatos em 19/02/19, laudo em 07/05/20)."
+A douta decisão agravada inadmitiu o recurso sob o fundamento de incidência do veto da Súmula 7/STJ. (fls. 308/309) Daí o presente agravo em recurso especial (fls. 315/319) impugnando a decisão agravada e requerendo sua reforma, sob o argumento de que estão equivocadas as premissasadotadas para negar seguimento ao recurso especial. Contraminuta ministerial se encontra às fls. 322/324. Subindo o recurso, vieram os autos, digitalizados, com vista ao Ministério Público Federal para emissão de parecer.
+Ao final, o Parquet opinou pelo não conhecimento dorecurso.
+É o relatório.
+Decido.
+Acerca da controvérsia, o Tribunal de origem assim consignou (e-STJ fls. 259/260):
+Pela prova oral, conforme imagensgravadas, o réu ultrapassou muro com altura superior a dois metros, existente na época dos fatos, o que foi fato confirmado pelo laudo pericial realizado. Quanto aos tapumes, cuja altura não ficou esclarecida, são irrelevantes postos que a entrada deu-se superando-se muro com mais de dois metros de altura, conforme prova oral e visão das gravações, comprovando a presença da qualificadora.(Grifei.)
+Pois bem. Do cotejo entre as alegações constantes do recurso especial e os fundamentos deduzidos no acórdão recorrido, tem-se que, no caso, o acolhimento da tese sustentada pela defesa- segundo a qual "olaudo realizado a fim de comprovar a teoria da escalada  seria frágil e superficial"- exigiria, indiscutivelmente, o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
