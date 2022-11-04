@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo apresentado por COMISSÃO NACIONAL DE ENERGIA NUCLEAR contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+APELAÇÃO. REMESSA NECESSÁRIA. MANDDAO DE SEGURANÇA. ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. ADICIONAL DE IRRADIAÇÃO IONIZANTE. SUSPENSÃO DO PAGAMENTO. ORIENTAÇÃO NORMATIVA N.º 04/2017 DO MINISTÉRIO DO PLANEJAMENTO. NULIDADE DO ATO. AUSÊNCIA DE NOVO LAUDO PERICIAL AMBIENTAL. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. PARCELAS PRETÉRITAS. TERMO INICIAL. DATA DA IMPETRAÇÃO DO MANDAMUS. ART. 14, § 4.º, DA LEI N.º 12.016/2009. CORREÇÃO MONETÁRIA. DATA DO VENCIMENTO DE CADA PARCELA. IPCA-E. RE 870.947. JUROS DE MORA. DATA DA CITAÇÃO. ART. L.º-F DA LEI N.º 9.494/1997, NA REDAÇÃO ATRIBUÍDA PELA LEI N.º 11.960/2009. HONORÁRIOS ADVOCATÍCOS. MAJORAÇÃO. IMPOSSIBILIDADE. ART 25 DA LEI N.º 12.016/2009. RECURSO E REEXAME OFICIAL CONHECIDOS E IMPROVIDOS.
+Quanto à controvérsia, alega violação do art. 1.022 do CPC, no que concerne à nulidade do acórdão em razão da negativa de prestação jurisdicional.
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+Confira-se também o seguinte julgado: AgInt no AREsp n. 1.559.920/SE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
