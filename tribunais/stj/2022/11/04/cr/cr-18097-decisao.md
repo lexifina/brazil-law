@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se  de  carta  rogatória  por meio da qual a Justiça argentina(Juízo da 18ª Nominação da Turma F do Tribunal Fiscal da Nação) solicita a notificação da FEDERAÇÃO DAS INDÚSTRIAS DO ESTADO DE SÃO PAULO - FIESP, para que informe se os Certificados de Origem detalhadosem tabela(fls. 79)foram validamente emitidos pela FIESP esesão autênticos, a fim de procederà juntada dasdeclarações de origem apresentadas pelo produtor/exportador relacionadas aosCertificados de origem,nos autos do Processo EX-2019 - 42995277-APN-SGASAD#TFN.
+A parte interessada informou a impossibilidade de confirmação acerca da emissão, autenticidade e veracidade dos referidos Certificados de Origem, uma vez que são mantidos pelo período de 2 anos, a partir da data de emissão, nos termos do art. 20 do 77º Protocolo Adicional ao Acordo de Complementação Econômica n. 18, incorporado ao direito interno brasileiro pelo Decreto n. 5.455, de 2/6/2005.
+Portanto, ante a impossibilidade de cumprimento dacomissão, devolvam-se os autos à Justiça rogante por intermédio da autoridade central competente (art. 216-X do RISTJ), independentemente do trânsito em julgado.
+Publique-se.
