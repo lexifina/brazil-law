@@ -1,0 +1,49 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. AFASTAMENTO DO REDUTOR PREVISTO NO ART. 33, § 4º, DA LEI N. 11.343/2006. CIRCUNSTÂNCIAS DO CASO CONCRETO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. A aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006 está condicionada ao preenchimento cumulativo dos seguintes requisitos legais: primariedade, bons antecedentes, não dedicação a atividades criminosas ou integração a organização criminosa.
+2. No caso, as instâncias ordinárias entenderam que o paciente não é traficante eventual, mas agente que efetivamente se dedica a atividades criminosas, tendo em vista o acervo probatório colhido nos autos.
+3. E, para se desconstituir tal assertiva, como pretendido, seria necessário o revolvimento da moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus. Precedentes.
+4. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental em habeas corpus (e-STJ fls. 121/125) interposto por IRENILDO CASSIANO GOMES FILHO contra decisão monocrática de minha lavra (e-STJ fls. 115/118), pela qual não conheci da impetração.
+Consta dos autos que o paciente foi condenado, pelo juízo de primeiro grau, pela prática dos crimes tipificados nos art. 33, caput, da Lei n. 11.343/2006, art. 16 da Lei n. 10.826/2003 e art. 330 do Código Penal, em concurso material, às penas de 8 anos de reclusão e 15 dias de detenção, em regime prisional inicialmente fechado, e 520 dias-multa (e-STJ fls. 17/28).
+Interposta apelação pela defesa, o Tribunal de origem negou-lhe provimento (e-STJ fls. 48/61), por acórdão assim ementado:
+APELAÇÃO CRIMINAL. TRÁFICO DE ENTORPECENTES. POSSE ILEGAL DE ARMA DE FOGO. DESOBEDIÊNCIA. NEGATIVA DE AUTORIA. ABSOLVIÇÃO. INADMISSIBILIDADE. AUTORIA E MATERIALIDADE COMPROVADAS. TESTEMUNHO DE POLICIAIS. VALIDADE. APLICAÇÃO DO PERCENTUAL DE REDUÇÃO DA MINORANTE DO § 4º DO ART. 33 DA LEI Nº 11.343/2006 OU DO SURSIS PENAL. IMPOSSIBILIDADE. DESPROVIMENTO.
+Restando comprovadas a materialidade e a autoria do delito descrito na denúncia, mostra-se descabida a pretensão desclassificatória do réu, pois a evidência dos autos converge para entendimento contrário A simples condição de policial não torna a testemunha impedida ou suspeita, mormente se os autos não apontam motivos no sentido de incorreção em sua conduta ou de que detivesse algum interesse em incriminar falsamente o réu.
+A sentença foi bem lançada, tendo o Julgador de 1º grau obedecido a todos os ditames legais, dando os motivos de seu convencimento em estrita consonância com a prova constante dos autos e observando rigorosamente o sistema trifásico de fixação da reprimenda, ditado pelo artigo 68 do Código Penal.
+Neste writ (e-STJ fls. 3/7), a defesa sustenta que o paciente sofre constrangimento ilegal porque a minorante do art. 33, § 4º, da Lei de Drogas foi afastada sem amparo em fundamentação idônea. Acrescenta que o paciente é primário e apresenta bons antecedentes, além de não haver provas nos autos de sua dedicação a atividades criminosas, devendo ser-lhe aplicado o referido benefício. Assevera que a jurisprudência desta Corte firmou-se no sentido de que a existência de processo anterior, ainda em curso, não tem o condão de afastar o reconhecimento do tráfico privilegiado.
+Diante disso, requer a concessão da ordem para que seja aplicada a redutora prevista no art. 33, § 4º, da Lei n. 11.343/2006 em sua fração máxima.
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 109/113), por parecer que apresenta a seguinte ementa:
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO. NÃO CONHECIMENTO. INADEQUAÇÃO DA VIA. TRÁFICO DE ENTORPECENTES. APREENSÃO DE 450 GRAMAS MACONHA, 1 PEDRA DE CRACK E 1 PISTOLA TAURUS, CALIBRE .40.DOSIMETRIA. TRÁFICO PRIVILEGIADO. NÃO OCORRÊNCIA.INDÍCIOS DE DEDICAÇÃO À ATIVIDADE CRIMINOSA.REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA.IMPOSSÍVEL EM SEDE DE HABEAS CORPUS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. É pacífica a jurisprudência no sentido de que não deve ser conhecido o habeas corpus impetrado como substitutivo de recurso, cabendo, porém, a verificação da existência de flagrante ilegalidade que justifique a concessão da ordem, de ofício.
+2. A apreensão de quantidade expressiva de droga acondicionada de forma fracionada, o concurso de agentes, uma pistola municiada, e o fato de ter desobedecido a ordem policial de parada impedem a aplicação da minorante do art. 33, §4º, da Lei n. 11.343/2006 por demonstrar a dedicação do paciente às atividades criminosas. Para se afastar essa conclusão, é necessário o revolvimento fático-probatório, vedado na via eleita.
+Precedentes.
+3. Parecer pelo não conhecimento do habeas corpus e, ausente flagrante ilegalidade, pela não concessão da ordem de ofício.
+No presente recurso de agravo regimental (e-STJ 121/125), a defesa argumenta que a quantidade de drogas apreendidas não pode ser utilizada para afastar o redutor. Assevera, por fim, que não existem provas da dedicação do paciente ao tráfico de drogas, devendo, portanto, ser reconhecida a figura do tráfico privilegiado.
+Diante disso, requer a reconsideração da decisão agravada ou o provimento do agravo regimental pelo Colegiado da Quinta Turma desta Corte.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Não obstante os argumentos apresentados, não constato elementos suficientes para reconsiderar a decisão, cuja conclusão mantém-se, por seus próprios fundamentos.
+Busca-se a aplicação do redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Como ressaltado na decisão ora agravada, o Tribunal a quo manteve o afastamento do redutor de pena previsto no art. 33, § 4º, da Lei n. 11.343/2006, eis que como demonstrado pelo conjunto probatório, o réu se dedica a atividades criminosas (e-STJ fl. 60).
+Para a aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+Pela leitura do trecho destacado, verifica-se que o Tribunal de origem manteve o afastamento do redutor mencionado tendo em vista o acervo probatório robusto no sentido de que o paciente se dedica regularmente às atividades criminosas, conforme se depreende do acervo probatório constante da sentença condenatória (e-STJ fls. 17/28) e do acórdão impugnado (e-STJ fls. 50/55).
+E, para se desconstituir tal assertiva, como pretendido, seria necessário o revolvimento da moldura fática e probatória delineada nos autos, inviável na via estreita do habeas corpus.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. ART. 33, C/C O ART. 40, VI, AMBOS DA LEI 11.343/2006. PACIENTE CONDENADO À PENA CORPORAL DE 6 ANOS E 8 MESES DE RECLUSÃO, NO REGIME INICIAL SEMIABERTO. PLEITO DE APLICAÇÃO DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/2006. CIRCUNSTÂNCIAS CONCRETAS QUE EMBASAM A CONCLUSÃO DE QUE O PACIENTE DEDICA-SE ÀS ATIVIDADES CRIMINOSAS, ANTE A PRESENÇA DE MAUS ANTECEDENTES. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ABRANDAMENTO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA CORPORAL. INVIABILIDADE. MONTANTE DA PENA QUE NÃO COMPORTA OS BENEFÍCIOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+- Para aplicação da causa de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher cumulativamente todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+ ..
+- Dessa forma, apesar de a quantidade da droga apreendida não ter sido muito elevada, tendo havido fundamentação concreta, pelo Tribunal local, para não aplicar o redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, pois não preenchidos os requisitos legais, concluo que, para entender de modo diverso, afastando-se a conclusão de que o paciente não se dedica às atividades criminosas, seria necessário o revolvimento de todo o conjunto fático-probatório amealhado durante a instrução probatória, o que, como cediço, é vedado na via estreita do habeas corpus, de cognição sumária. Precedentes.
+ ..
+- Habeas corpus não conhecido (HC n. 406.667/RS, de minha relatoria, Quinta Turma, Julgado em 3/10/2017, DJe 11/10/2017).
+Ademais, não há qualquer menção nos autos de que a incidência do referido benefício legal foi afastada em razão da existência de processos anteriores, ainda em curso, ou em razão da quantidade de drogas apreendidas, como alega a defesa no presente agravo regimental.
+Sendo assim, os fundamentos apontados pelas instâncias de origem mostram-se idôneos para manter o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, não havendo nenhuma ilegalidade a ser sanada nesse ponto.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
