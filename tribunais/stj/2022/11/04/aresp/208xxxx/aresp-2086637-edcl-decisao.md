@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porMARIA ELIZABETH MOZO contra decisão a fls. 1237/1241 que conheceudo agravo para dar provimento ao recurso especial de GERALDO ANDRE DE FREITAS, a fim de determinar ao Tribunal a quo que aprecie a ocorrência ou não do deferimento tácito ao requerimento de concessão do benefício à gratuidade de justiça.
+Nas razões dos embargos de declaração, sustenta a embargante contradição na decisão embargada, pois o silênciodo magistrado quanto ao requerimento de concessão de gratuidade de justiça, implica no indeferimento, e não no deferimento tácito.
+O prazo para impugnação ao presente recurso decorreu in albis.
+É o relatório. Passo a decidir.
+A decisão ora embargada que deu provimento ao recurso especial da parte ora embargada, para determinar ao Tribunal a quo que afira se houve deferimento tácito ao requerimento de concessão de gratuidade de justiça, apresentado perante o primeiro grau de jurisdição, observou a orientação da Corte Especial do Superior Tribunal de Justiça no sentido de que se presume "o deferimento do pedido de assistência judiciária gratuita não expressamente indeferido por decisão fundamentada, inclusive na instância especial, sendo que a ausência de manifestação do juízo quanto ao pedido de assistência judiciária gratuita leva à conclusão de seu deferimento tácito, a autorizar a interposição do recurso cabível sem o correspondente preparo.
+Destarte, a omissão do juízo a quo em analisar o pedido de concessão do benefício da gratuidade da justiça implica em seu deferimento tácito, sobretudo quando apresentado por pessoa física, a favor de quem se presume verdadeira a declaração de hipossuficiência (AgInt no AREsp 1.406.846/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/06/2019, DJe 28/06/2019).
+Diante do exposto, rejeitam-se os embargos de declaração.
+Publique-se.
