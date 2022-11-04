@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo interposto por SOCIEDADE BÍBLICA DO BRASIL contra decisão do Tribunal de Justiça do Estado de São Paulo que não admitiu o recurso especial pelos seguintes fundamentos, em síntese: a) não ocorrência de ofensa ao art. 535 do CPC/73 (art. 1022, III, do CPC/15); b) ausência de demonstração de violação dos dispositivos legais remanescentes (arts.412, 421 e 422, do CC) ec) incidênciada Súmula 7/STJ.
+É o relatório. Decido.
+O recurso não merece ser conhecido.
+O agravo previsto no art. 1.042 do CPC/2015tem por objetivo o processamento do recurso especial não admitido pela Corte de origem. Assim, é imperioso que, nas razões recursais, o agravante demonstre expressamente o desacerto da decisão agravada, impugnando especificamente cada um dos fundamentos utilizados como razão de decidir - o que no caso não ocorreu.
+In casu,a parte agravante não rebateu, como lhe competia, todos os fundamentos da decisão recorrida, pois não desenvolveu argumentação acerca do fundamento relativo àausência de violação ao art. 1022do CPC/15.
+O princípio da dialeticidade, que rege os recursos processuais, impõe ao recorrente, como requisito para a própria admissibilidade do recurso, o dever de demonstrar a razão pela qual a decisão recorrida não deve ser mantida, evidenciando o seu desacerto, seja do ponto de vista procedimental (error in procedendo), seja do ponto de vista do próprio julgamento (error in judicando), porquanto não atende ao princípio em tela o recurso que se limita a tão só afirmar a tese jurídica interessante à sua pretensão, sem confrontar, de forma juridicamente balizada, os fundamentos adotados na decisão que busca reformar.
+A inobservância dessa regra atrai a incidência do art. 932, III, do CPC/15, que permite ao Relator não conhecer de recurso que não impugna especificamente os fundamentos da decisão recorrida.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DO MINISTRO PRESIDENTE QUE NÃO ADMITIU RECURSO ESPECIAL.PARTE QUE DEIXOU DE IMPUGNAR OS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM QUE NÃO ADMITIU O RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo.
+2. Era esse o entendimento segundo a inteligência do disposto no inciso I, do § 4º, do art. 544 do Código de Processo Civil de 1.973, incluído pela Lei nº 12.322/2010, que tratava da sistemática dos agravos contra os despachos denegatórios dos recursos dirigidos a esta Corte e consigna ser dever do agravante atacar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento de sua irresignação.
+3. Continua a ser esse o entendimento na vigência do Novo Código de Processo Civil, ao estipular que o relator não deve conhecer de recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, Novo CPC).
+4. Agravo interno não provido. (AgInt no AREsp 888.667/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 18.10.2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INADMITIU O ESPECIAL. FUNDAMENTOS.
+AUSÊNCIA DE IMPUGNAÇÃO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admitiu o especial, caso em tela, impede o conhecimento do agravo em recurso especial, nos termos do que dispõe o art. 544, § 4º, I, do CPC/1973, normativo esse que também faz parte do contido no art. 932, III, do Novo Código de Processo Civil/2016 e no art. 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016).
+2. Agravo interno não provido.(AgInt no AREsp 821.472/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe de 6.10.2016).
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
