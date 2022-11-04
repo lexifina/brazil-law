@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CARLOS NEY PINHO RIBEIRO contra decisão que conheceu do agravo para não conhecer do recurso especial (e-STJ, fls. 927/928).
+O embargante aponta omissão e contradição. Requer que o D. Juízo informe qual página do processo a que se refere a decisão monocrática, pois não conseguiu compreender qual seria a respectiva decisão. Argumenta que, por não deixar de admitir o recurso especial, não caberia agravo regimental para o TJRJ, e sim agravo em recurso especial para o STJ. Portanto, esgotou a via recursal para que o recurso especial fosse conhecido.
+A embargada apresentou impugnação (e-STJ, fls. 938/939).
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade,eliminar contradição ou suprimir omissão de ponto ou questão sobre o qualdevia se pronunciar o órgão julgador de ofício ou a requerimento daspartes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendoinadmissível a sua oposição para rediscutir questões tratadas edevidamente fundamentadas na decisão embargada, já que não são cabíveispara provocar novo julgamento da lide.
+Na hipótese, não há omissão nem contradição, pois a decisão embargada é clara ao dizer que o recurso especial de fls. 710/735, o qual não ataca acórdão, e sim decisão da Terceira Vice-Presidente do TJRJ que rejeitou embargos de declaração opostos contra decisão que, considerando a inadequação recursal eleita, deixou de conhecer do recurso de agravo voltado contra decisão que automaticamente não admitiu o recurso extraordinário, por aplicação da regra do art. 543-B, § 2º, do CPC (e-STJ, fls. 692/693 e 707), é manifestamente incabível.
+O recurso especial foi inadmitido (e-STJ, fls. 829/831), seguindo-se o agravo em recurso especial de fls. 835/863, este o recurso a ser enfrentado pelo Superior Tribunal de Justiça e que foi examinado na decisão ora embargada.
+Apesar de, em tese, cabível o agravo em recurso especial contra decisão que não admite recurso especial, no presente caso o próprio recurso especial é incabível, porquanto interposto contra decisão monocrática da Vice-Presidência.
+Com efeito, contra a decisão da Vice-Presidência que não apreciou o agravo regimental para que fosse reconsiderada a decisão que supostamente aplicou incorretamente a tese de repercussão geral, não cabe recurso especial para o Superior Tribunal de Justiça, pois as hipóteses de cabimento do recurso especial estão previstas taxativamente no art. 105, III, da Constituição Federal.
+Não há nenhum vício a comprometer a compreensão do julgado ou falta depronunciamento sobre ponto relevante e capaz de infirmar a conclusãoadotada.
+Diante do exposto, rejeito os embargos declaratórios.
+Publique-se.
