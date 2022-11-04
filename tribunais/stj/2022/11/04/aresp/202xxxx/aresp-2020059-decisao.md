@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por MARTINS CASPARY & ADVOGADOS ASSOCIADOS contra decisão que inadmitiu recurso especial objetivando reformar acórdão assim ementado:
+AGRAVO INTERNO. DECISÃO MONOCRÁTICA QUE INDEFERIU A PETIÇÃO INICIAL. UTILIZAÇÃO DA AÇÃO RESCISÓRIA COMO SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. AUSÊNCIA DE VÍCIOS NA SENTENÇA. AUTORA QUE SEQUER SE INSURGIU QUANTO AO MONTANTE FIXADO A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. AGRAVO NÃO-PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Em seu recurso especial, a recorrente suscitou contrariedade aos arts. 489, §1º, II, II e VI, e 1.022, II, ambos do CPC/2015, aduzindo que o Tribunal de origem, a despeito da oposição dos aclaratórios, não se manifestou acerca de questões essenciais ao deslinde da controvérsia.
+Apontou, ainda, violação aos arts. 85, §§ 2º, 3º e 8º, e 966, V, do CPC/2015, sustentando, em síntese, a necessidade de discussão da equivocada fixação da verba honorária por se tratar de matéria de ordem pública.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo a recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que a agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+Inicialmente, afasto a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015, porque não demonstrada ausência de fundamentação ou omissão capazes de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, relator Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, relator Ministro Mauro Campbell Marques, DJe de 10/9/2014.
+Quanto à questão da verba honorária arbitrada, o reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, de que "consoante restou expressamente registrado na decisão monocrática, após a prolação da sentença que arbitrou a verba honorária em R$ 1.500,00 (mil e quinhentos reais) com base no artigo 20, §§ 3º e 4º, do CPC/73, a parte Autora não se insurgiu quanto ao montante fixado, consentido com a decisão." utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Por outro lado, é irrefutável que o Tribunal de origem, ao apreciar o conteúdo fático e probatório dos autos, consignou expressamente que "como já exposto anteriormente, a sentença não se olvidou da fixação da verba honorária, arbitrando a quantia de R$1.500,00 (mil e quinhentos reais)".
+Dessa forma, para rever tal posição, relativo à majoração de honorários sucumbenciais, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame dos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Assim, a jurisprudência:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REPETIÇÃO DE INDÉBITO. ICMS. MODULAÇÃO DOS EFEITOS. AÇÃO AJUIZADA APÓS A PUBLICAÇÃO DA ATA DE JULGAMENTO DO STF. IMPACTO NA SUCUMBÊNCIA. PROPORÇÃO NO DECAIMENTO. REEXAME DE PROVAS. INADMISSIBILIDADE.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+(..)
+4. No caso dos autos, ao exercer o juízo de conformidade com referida tese, o TRF4 decidiu: "impõe-se acolher em parte a remessa necessária para reconhecer à impetrante o direito ao aproveitamento, em compensação tributária, dos valores que recolheu a mais a título da inclusão do ICMS próprio na base de cálculo do PIS e da COFINS apenas a contar de 15-03-2017  ..  fato que demonstra o decaimento parcial do pedido (e não mínimo). Considerando a sucumbência recíproca, nos termos do art. 86 do CPC, ambas as partes devem ser condenadas ao pagamento de honorários de sucumbência".
+5. Considerada a premissa fática estabelecida no acórdão recorrido, pela inexistência de sucumbência mínima, a via do recurso especial não se revela adequada à revisão da conclusão a respeito da proporção da sucumbência, porquanto essa providência caracteriza reexame fático-probatório. Observância da Súmula 7 do STJ.
+Precedentes.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.987.038/RS, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 17/10/2022, DJe de 20/10/2022.)
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. VIOLAÇÃO DO ART. 1.022 DO CPC NÃO CONFIGURADA. PRESCRIÇÃO. FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE. HONORÁRIOS SUCUMBENCIAIS. REVISÃO DOS FATOS. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA.
+1. Inicialmente, não enfrentado pelo Tribunal a quo o conteúdo dos artigos 7º, 10, 933 e 1.040 do CPC/2015 e 39, caput, §§ 1º e 2º da Lei 4.320/1964 e a tese neles contida, há manifesta falta de prequestionamento a atrair a incidência da Súmula 211 do STJ.
+(..)
+5. Não merece prosperar a alegação de revisão dos honorários sucumbenciais. Segundo a jurisprudência do STJ, em virtude do cálculo dos honorários advocatícios decorrer de análise específica dos fatos ocorridos durante a marcha processual, na qual o julgador avalia o trabalho desenvolvido pelo patrono e a complexidade da causa, a fim de fixar o percentual que considera correto, descabe rever a quantia estabelecida, exceto quando constatada sua manifesta insignificância ou excessividade apta a afastar o óbice da Súmula 7 do STJ (AgInt no REsp. 1.703.563/AC, Rel. Min. Moura Ribeiro, Terceira Turma, julgado em 19/10/2020, DJe 22/10/2020).
+6. Por fim, fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+7. Agravo Interno não provido.
+(AgInt no AREsp n. 1.601.237/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 11/10/2021, DJe de 4/11/2021.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
