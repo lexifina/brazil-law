@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por FREMA CONSULTORIA IMOBILIÁRIA LTDA e OUTRA, em face de decisão monocrática de lavra deste signatário (fls. 625/627, e-STJ), que deu provimento ao recurso interposto pelas embargantes.
+Nas razões dos presentes aclaratórios (fls. 629/630, e-STJ), as embargantes sustentam que a decisão é omissa com relação à inversão do ônus sucumbencial, já que restaram totalmente vencedoras na demanda.
+É o relatório.
+Decide-se.
+Os aclaratóriosmerecem acolhimento.
+1. Com efeito, nos estreitos lindes do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA. 1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso. 2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões. 3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado. (EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015)
+No presente caso, verifica-se que a decisão foiomissa com relação à redistribuição do ônus sucumbencial, na medida em que foi reconhecida a ausência de responsabilidade das ora embargantespelos danos causados aos adquirentes da unidade imobiliária peloatraso na entrega da obra.
+Logo, os embargos merecem ser acolhidos, para determinar que os embargados arquem integralmente com a verba honorária, arbitradaem 10% sobre o valor atualizado da condenação para cada embargante, observada eventual gratuidade de justiça.
+Por fim, cumpre registrar que nos termos da jurisprudência desta Corte Superior, são devidos honorários recursais apenas nos casos derecurso não conhecido integralmente ou desprovido, o que não é o caso dos autos.
+2. Do exposto, acolhe-se os embargos de declaração, para suprir a omissão apontada, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
