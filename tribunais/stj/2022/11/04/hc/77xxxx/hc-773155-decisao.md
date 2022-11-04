@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de KAUE DA SILVA DUARTE apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação criminal n. 1530570-55.2021.8.26.0228).
+Depreende-se dos autos que o paciente foi condenado, como incurso no art. 157, § 2º, II, e § 2º-A, I, por duas vezes, na forma dos arts. 70 e 61, II, j, todos do Código Penal, à pena de 10 anos e 4 meses de reclusão, em regime prisional fechado, sendo negado o recurso em liberdade.
+A apelação defensiva foi parcialmente provida "para afastar a agravante referente ao estado de calamidade pública, porém, sem reflexo na reprimenda" (e-STJ fl. 103).
+Daí o presente writ, no qual alega a defesa que o paciente sofre constrangimento ilegal decorrente da equivocada dosimetria da reprimenda que lhe foi aplicada.
+Requer, desse modo, inclusive liminarmente, "o afastamento da combinação das causas de aumento, com a correta interpretação pela Casa da Cidadania dos arts. 68 e 157, § 2º, II e § 2º-A, I, CP" (e-STJ fl. 12).
+Liminar indeferida.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 139/143).
+É o relatório.
+Tenho que não assiste razão à defesa.
+No caso em exame, vê-se que a aplicação das majorantes deu-se de forma cumulada. Ou seja, em um primeiro momento, exasperou-se a pena em razão do concurso de dois agentes (1/3) e, a seguir, exasperou-se a pena devido ao emprego de arma de fogo (2/3).
+Vale registrar que o Superior Tribunal de Justiça admite que o aumento se dê dessa forma, na terceira fase, quando o crime de roubo é praticado mediante o concurso de agentes e com o emprego de arma de fogo:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE AGENTES E PELO EMPREGO DE ARMA DE FOGO. DOSIMETRIA. CÚMULO DE CAUSAS DE AUMENTO DE PENA. PLEITO DE APLICAÇÃO APENAS DA MAJORANTE DE MAIOR VALOR. IMPROCEDÊNCIA. INTERPRETAÇÃO CORRETA DO ART. 68, PARÁGRAFO ÚNICO, DO CP. POSSIBILIDADE DE APLICAÇÃO DAS DUAS CAUSAS DE AUMENTO, MEDIANTE FUNDAMENTAÇÃO CONCRETA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A teor do art. 68, parágrafo único, do Código Penal, a aplicação das causas majorantes e minorantes se dá sem compensação, umas sobres as outras, não sendo admissível a pretendida tese de incidência de única majorante dentre as aplicáveis.
+2. Tendo sido o crime de roubo praticado com o efetivo emprego de arma de fogo e ainda mediante concurso de cinco agentes, correta foi a incidência separada e cumulativa das duas causas de aumento.
+3. Agravo regimental improvido.
+(AgRg no HC 512.001/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/8/2019, DJe 29/8/2019, grifei.)
+Não obstante, a exasperação da pena deve-se dar, sempre, de forma concreta, devendo ser apontados os dados que justifiquem esse maior rigor na aplicação da reprimenda. Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO DUPLAMENTE MAJORADO E CORRUPÇÃO DE MENORES, DECLARAÇÃO DA INCONSTITUCIONALIDADE DE DISPOSITIVO LEGAL. INCOMPATIBILIDADE COM A VIA DO WRIT. DOSIMETRIA. ART. 68 DO CP. CONCURSO DE MAJORANTES. CARÊNCIA DE MOTIVAÇÃO IDÔNEA PARA A APLICAÇÃO CUMULATIVA DAS FRAÇÕES DE AUMENTO. PENA REVISTA. REGIME PRISIONAL FECHADO MANTIDO. PENA-BASE ACIMA DO PISO LEGAL. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. Quanto ao art. 157, § 2º-A, do CP, "a instauração do incidente de inconstitucionalidade é incompatível com a via célere do habeas corpus porque a celeridade exigida ficaria comprometida com a suspensão do feito e a afetação do tema à Corte Especial para exame do pedido" (HC 244.374/SP, Rel. Ministro Moura Ribeiro, Quinta Turma, DJe 1º/8/2014).
+4. A jurisprudência da Suprema Corte é no sentido de que o art. 68, parágrafo único, do Código Penal, não exige que o juiz aplique uma única causa de aumento referente à parte especial do Código Penal, quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta.
+5. No caso, as instâncias de origem não fundamentaram concretamente a adoção das frações de aumento de forma cumulada, limitando-se apenas a ressaltar a incidência das duas majorantes nos crimes de roubo imputados ao paciente. Ademais, não configura fundamentação concreta a menção às razões ou consequências que levaram o legislador a prever as referidas circunstâncias como causas de aumento.
+6. Estabelecida a pena-base acima do mínimo legal, por ter sido desfavoravelmente valorada circunstância do art. 59 do Estatuto Repressor, admite-se a fixação de regime prisional mais gravoso do que o indicado pelo quantum de reprimenda imposta ao réu.
+7. Writ não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena do paciente ao patamar de 7 anos e 8 meses de reclusão e 16 dias-multa, mantidas as demais disposições do acórdão impugnado.
+(HC 542.236/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019, grifei.)
+No caso dos autos, acerca da controvérsia, consta do acórdão recorrido o seguinte (e-STJ fls. 101/103):
+Na terceira fase, em razão da incidência das causas de aumento referentes ao concurso de agentes, a reprimenda foi corretamente elevada em 1/3 (um terço) e posteriormente, em razão da incidência, também, da causa de aumento prevista no § 2º-A, inciso I, do artigo 157, do Código Penal, que, por opção do legislador, torna a conduta ainda mais reprovável, esta foi corretamente cumulada às demais causas de aumento, elevando a pena em mais 2/3 (dois terços).
+Tal orientação, por sinal, tem estribo em precedente do Supremo Tribunal Federal (HC 110960, Rel. Min. LUIZ FUX) e do Superior Tribunal de Justiça (AgRg nos EDcl no HC 618.507/SC, Rel. Min. RIBEIRO DANTAS, DJ de 26/02/2021).
+Trocando em miúdos, o art. 68, parágrafo único, do Código Penal, não exige que o destinatário da prova aplique uma única causa de aumento da parte especial do Código Penal quando estiver diante de concurso de majorantes, mas que sempre justifique a escolha da fração imposta.
+Assim, não há ilegalidade na cumulação de causas de aumento da parte especial do Código Penal, sendo razoável a interpretação da lei no sentido de que eventual afastamento da dupla cumulação deverá ser feito apenas no caso de sobreposição do campo de aplicação ou excessividade do resultado (STF, ARE 896843/MT, Rel. Min. GILMAR MENDES).
+Assim, como constou da r. sentença vergastada, passa a reprimenda para 08 (oito) anos e 10 (dez) meses de reclusão e 21 (vinte e um) dias-multa.
+Bem reconhecido, derradeiramente, o concurso formal, haja vista que a conduta praticada atingiu dois patrimônios distintos, com duas vítimas, a elevação da pena em 1/6 (um sexto), mostrou-se escorreita, devendo ser mantida, restando, definitivamente, a escorreita pena de 10 (dez) anos e 04 (quatro) meses de reclusão, além do pagamento de 24 (vinte e quatro) dias- multa, no valor mínimo unitário.
+A quantidade da pena aplicada e as circunstâncias concretas de empreitada criminosa, que investiu contra o patrimônio de duas vítimas, não permite outro regime prisional para os réus senão o fechado.
+Segundo as máximas da experiência, as consequências psicológicas do delito contra o patrimônio com violência ou grave ameaça são nefastas, traumatizando a vítima, seus conhecidos e familiares, marcando a todos com as consciências deste mal, uma mácula irreversível.
+Conforme se pode observarda leitura dos excertos supratranscritos,não foram declinados motivos suficientes e idôneos para a aplicação cumulada das majorantes, motivo pelo qual, de fato, deve incidir apenas o aumento mais grave (2/3) na dosimetria da pena.
+Desse modo, procedendo-se ao decote da majorante relativa ao concurso de agentes e seguindo-se as demais diretrizes traçadas na origem, a pena definitiva do réudeve ser reduzida para 7 anos, 9 meses e 10 dias de reclusão.
+Ante o exposto,concedo a ordempara, nos termos acima deduzidos,reduzir apenado paciente para 7 anos, 9 meses e 10 dias de reclusão, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
