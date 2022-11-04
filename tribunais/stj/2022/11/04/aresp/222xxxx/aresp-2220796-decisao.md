@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo interposto por Banco Safra S.A. desafiando decisão do Tribunal de Justiça do Estado de Pernambucoque não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, manejado, por sua vez, contra acórdão assim ementado (e-STJ, fl. 373):
+APELAÇÃO CÍVEL. Ação de exigir contas julgada procedente - primeira fase - irresignação do réu. alegação de inépcia da inicial não acolhida. Pedido delimitado pela indicação dos códigos de lançamento feitos pelo banco. Nulidade de sentença por ausência de fundamentação. Inocorrência. Não é nula a sentença quando fundamentada, sem que se possa falar em ofensa ao art. 93, IX, da Constituição federal. Cumulação ilegal de pedido revisional na ação de exigir contas. Não observada. Pedido restrito a exigência de contas. Sentença mantida. APELO IMPROVIDO DECISÃO UNÂNIME.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 396-401).
+Nas razões recursais, o recorrente alega ofensa aos arts. 11, 319, IV, 489, § 1º, II, e 1.022, II, do CPC/2015.
+Sustentou negativa de prestação jurisdicional quanto a análise do art. 319 do CPC/2015.
+Enfatizou que o pedido inicial foi genérico e que a ação de prestação de contas deve estar fundamentada no inconformismo do correntista relativo a um fato contábil concreto e determinado, e não a qualquer fato amplo, incerto e indeterminado.
+Não foram apresentadas contrarrazões (e-STJ, fl. 467).
+O Tribunal local inadmitiu o processamento do recurso especial em razão da incidência da Súmula n. 7 do STJ, bem como pela ausência de negativa de prestação jurisdicional.
+Irresignado, o recorrenteinterpõeagravo refutando os óbices apontados pela Corte estadual.
+Brevemente relatado, decido.
+Não se reconhece a apontada violação do art. 1.022, incisos I e II, do Novo Código de Processo Civil, pois, de um lado, não existia omissão a ser suprida; de outro, foram apropriados e legítimos os fundamentos que sustentaram a conclusão alcançada pelo acórdão local, não se podendo a ele atribuir o vício de omissão apenas porque resolveu a celeuma em sentido contrário ao postulado pelo recorrente.
+De acordo com a jurisprudência desta Casa, o magistrado não está obrigado a se manifestar acerca de todos os fundamentos assinalados pelas partes, quando já houver decidido a controvérsia com base em outras justificativas.
+Outrossim, verifica-se que o acórdão recorrido foi devidamente fundamentado, não havendo se falar em violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no AREsp 1.788.699/PR, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 7/6/2021, DJe 14/6/2021).
+O Tribunal estadual, no que se refere ao pedido genérico para a propositura da ação de prestação de contas, assim se manifestou (e-STJ, fls. 368-374):
+O demandante, em sua inicial, assinalou as dúvidas quanto aos lançamentos efetuados pelo apelante em sua conta, delimitando sua incompreensão quanto aos códigos utilizados pelo banco recorrente no período apontado.
+Não vejo necessidade da recorrida ter que, em sua inicial, numerar os lançamentos um por um ao longo dos anos em que teve relação contratual como a instituição financeira, vez que, ao apontar as dúvidas quando aos tipos de lançamentos efetuados (os códigos), afasta a alegação de generalidade do pedido.
+Do excerto acima transcrito, depreende-se que o Tribunal estadual reconheceu o cabimento da demanda por atestar que a recorrida cumpriu com a exigência legal de delimitação das despesas e do período em que as informações deveriam ser prestadas.
+À vista disso, mostra-se impedido o Superior Tribunal de Justiça de rever o posicionamento acolhido pela Corte local, uma vez que seria necessário o revolvimento do conjunto fático-probatório dos autos, o que é vedado em recurso especial pela Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 2.REQUISITOS LEGAIS OBSERVADOS. INTERESSE DE AGIR. REVISÃO. SÚMULA 7/STJ. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
