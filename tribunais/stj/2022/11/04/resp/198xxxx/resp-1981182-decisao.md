@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto por MAURÍCIO DAL AGNOL (MAURICIO) contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, de relatoria da Desª VIVIAN CRISTINA ANGONESE SPENGLER, assim ementado:
+APELAÇÃO E RECURSO ADESIVO. MANDATOS. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. ADVOGADO IMPEDIDO DE EXERCER A ATIVIDADE PROFISSIONAL.OPERAÇÃO CARMELINA. MANDATO EXTINTO POR FORÇA DO ART. 682, INCISO III, DO CPC. INCIDÊNCIA DO PRAZO PRESCRICIONAL QUINQUENAL PREVISTO DO ART. 25 DO ESTATUTO DA OAB. TERMO INICIAL A CONTAR DA CESSAÇÃO DO MANDATO. PRETENSÃO EXTINTA PELA PRESCRIÇÃO. IMPROCEDÊNCIA DA RECONVENÇÃO MANTIDA. PEDIDO DE RESSARCIMENTO DO VALOR PAGO A TÍTULO DE HONORÁRIOS AOS NOVOS PROCURADORES CONSTITUÍDOS. IMPOSSIBILIDADE AUSÊNCIA DE PREJUÍZO QUE JUSTIFIQUE O DIREITO À INDENIZAÇÃO. RECURSOS DESPROVIDOS (e-STJ, fl. 177).
+Os embargos de declaração opostos por MAURÍCIO foram rejeitados (e-STJ, fls. 207/209).
+Irresignado, MAURÍCIO interpôs recurso especial, com base no art. 105, III, alíneasa e c, da CF, alegando violação dos arts. 25, I, da Lei n.º 8.906/1994, 121, 125, 189, 199, 202, IV, e 206, § 5º, II, do CC, 1.022, II, do CPC, ao sustentar (1) a necessidade de retorno dos autos ao Tribunal para que lá sejam analisadas as teses levantadas nos embargos de declaração que opôs; (2) que o termo inicial do prazo prescricional quinquenal é a data do vencimento do contrato celebrado entre as partes, dada a existência de condição suspensiva contratual relativa ao vencimento da obrigação assumida pelo cliente, relacionada com a existência de cláusula de êxito; e,(3) dissenso jurisprudencial (e-STJ, fls. 221/242).
+Foram apresentadas as contrarrazões (e-STJ, fls. 273/285).
+O recurso foi admitido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (e-STJ, fls. 289/293).
+É o relatório.
+DECIDO.
+O recurso especial nãomerece prosperar.
+(1) Da suscitada violação do art. 1.022, II, CPC
+No que se refere à violação do art. 1.022, II, do CPC, MAURÍCIO alegou genericamente a ofensa ao citado artigo, sem demonstrar de que forma houve a vulneração ao referido dispositivo, sem indicar quais pontos do acórdão foram omissos, contraditórios ou obscuros, mencionando, apenas, que não houve omissão em relação a diversos aspectos e diplomas legais.
+Pelo que se dessume dos autos, não houve a indicação das teses omitidas, em evidente alegação genérica de contrariedade ao referido dispositivo.
+Nestes casos, ante a deficiente fundamentação do recurso, incide a Súmula n.º 284 do STF, por analogia: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Esse é o entendimento desta Corte.Confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 2. DEVER DE INDENIZAÇÃO. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. 3. MONTANTE INDENIZATÓRIO. PRETENSÃO DE REDUÇÃO. DESCABIMENTO. SÚMULA 7/STJ. 4. JUROS DE MORA. TERMO INICIAL. RELAÇÃO EXTRACONTRATUAL. DATA DO EVENTO DANOSO. SÚMULA 54/STJ. 5. AGRAVO INTERNO IMPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+ ..
+5. Agravo interno improvido.
+(AgInt no AREsp 1.526.287/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 16/3/2020, DJe 20/3/2020 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA EMBARGADA.
+1. A alegação de afronta ao artigo 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+ ..
+3. Evidente a deficiência na fundamentação do apelo extremo, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa da Súmula 284/STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.345.876/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 19/11/2019, DJe 21/11/2019 - sem destaques no original)
+Assim, não se conhece da violação do art. 1.022, II, do CPC.
+(2) Do termo inicial do prazo prescricional
+MAURÍCIO, em suas razões recursais, alegou violação dos arts. 25, I, da Lei n.º 8.906/1994, 121, 125, 189, 199, 202, IV, e 206, § 5º, II, do CC, sustentando que o termo inicial do prazo prescricional quinquenal é a data do vencimento do contrato celebrado entre as partes, dada a existência de condição suspensiva contratual relativa ao vencimento da obrigação assumida pelo cliente, relacionada com a existência de cláusula de êxito.
+O Tribunal gaúcho, soberano na análise do conteúdo fático-probatório, concluiu que a alegação de MAURÍCIO de que a prescrição deveria passar a fluir a partir do recebimento dos valores pela parte autora perde força,diante das circunstâncias do caso concreto, considerando a extinção do mandato de procuração por culpa exclusiva do procurador. Ressaltou que o cerne da questão está no fato que implicou na extinção do contrato de mandato, como previsto no art. 682, II, do CC. Além do que, a suspensão da inscrição na OAB e a própria revogação do mandato ocorreram quando já havia transitado em julgado a condenação.Confira-se:
+A questão debatida diz respeito ao termo inicial do prazo prescricional quinquenal para o ajuizamento da presente ação de arbitramento. O caso concreto é peculiar, porém recorrente no âmbito deste E. Tribunal de Justiça. Inúmeros são os processos ajuizados pelo ex-advogado Maurício Dal Agnol, em que este pretende o arbitramento de honorários em razão da revogação de mandato de procuração em diversas ações judiciais. Ocorre que estas revogações, na grande maioria, decorreram da suspensão de seu direito de advogar, em virtude da operação Carmelina. No caso concreto, os poderes outorgados ao autor foram revogados em 28/04/2014 (evento 12, OUT5). Entretanto, consigno que o atual entendimento desta Câmara Cível passou a ser no sentido de que a prescrição quinquenal começa a fluir, inclusive, antes disso, ou seja, a partir do momento em que o autor foi impedido de exercer o mandato profissional, que ocorreu em 21/02/2014, nos termos do Ofício- Circular n. 022/2014 da CGJ/TJRS. O cerne da questão está no fato de que tal circunstância implicou na extinção do contrato de mandato, tal como previsto no art. 682, III, do Código Civil  ..  A extinção do contrato de mandato, portanto, opera-se de "pleno iure" e nem mesmo a autonomia de vontade nas relações contratuais pode sobrepor-se à regra citada. A alegação do autor de que a prescrição deveria passar a fluir a partir do recebimento dos valores pela autora perde força, diante das circunstâncias do caso concreto, em que, repito, houve a extinção do mandato de procuração por culpa exclusiva do procurador. Ainda, sustenta o autor que não teria interesse de agir no momento da revogação para buscar o arbitramento de honorários, por não ter sido implementada a condição prevista no contrato, qual seja, o recebimento do valor pelo contratante. Também não assiste razão ao apelante, na medida em que a suspensão de sua OAB e a própria revogação ocorreram já na fase executiva, ou seja, quando já havia transitado em julgado a condenação. Inclusive, já havia até mesmo sido expedida a RPV (evento 1, OUT9, p. 5) Portanto, não há como afastar a prescrição (e-STJ, fls. 180/181 - sem destaques no original).
+Verifica-se que ofundamentode queprescrição quinquenal começa a fluir a partir do momento em que a parte autorafoi impedidade exercer o mandato profissional, concentrando-se a questão no fato de que tal circunstância implicou na extinção do contrato de mandato, tal como previsto no art. 682, III, do Código Civil,não foiimpugnado, o que atrai a incidência da Súmula nº 283 do STF, por analogia.
+Neste sentido, confiram-se os seguintes julgados:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA. ATRASO NA ENTREGA DO IMÓVEL. OFENSA AO ART. 535 DO CPC. INEXISTÊNCIA. FORÇA MAIOR NÃO CONFIGURADA. AUSÊNCIA DE EXCLUDENTE. SÚMULA Nº 7 DO STJ. MULTA CONTRATUAL. INVERSÃO. POSSIBILIDADE. SÚMULA Nº 83 DO STJ. PRINCÍPIOS DO EQUILÍBRIO CONTRATUAL E BOA-FÉ. FUNDAMENTO INATACADO. SÚMULA Nº 283 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. A ausência de impugnação de fundamento válido e autônomo do acórdão atrai a incidência da Súmula nº 283 do STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 929.972/MG, de minha relatoria, Terceira Turma, j. 13/12/2016, DJe 14/2/2017 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.  ..
+3. A existência de fundamento do acórdão recorrido não impugnado quando suficiente para a manutenção de suas conclusões impede a apreciação do recurso especial.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1.603.851/RJ, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 22/6/2020, DJe 25/6/2020 - sem destaques no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA
+ ..
+4. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.868.333/RJ, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 29/6/2020, DJe 3/8/2020 - sem destaques no original)
+O recurso, portanto, não pode ser conhecido.
+Nessas condições, NÃOCONHEÇO do recurso especial.
+Deixo de majorar os honorários advocatícios, em razão do limite de 20% estabelecido no art. 85, §§ 2º e 11, do CPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação das penalidades fixadas nos arts. 1.021, § 4º ou 1.026, §2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AÇÃO. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. MANDATO. REVOGAÇÃO. SUSPENSÃO DO CAUSÍDICO DO DIREITO DE ADVOGAR. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N.º 284 DO STF. CESSAÇÃO DO MANDATO. ART. 682, III, DO CC. FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA Nº 283 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
