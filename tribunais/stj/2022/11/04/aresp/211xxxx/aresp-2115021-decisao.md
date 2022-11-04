@@ -1,0 +1,27 @@
+DECISÃO
+Centrovias Sistemas Rodoviários S/A interpôs agravo de instrumento com pedido de efeito suspensivo contra decisão interlocutória proferida nos autos da Ação Civil Pública que lhe move aNaturae Vitae Sociedade de Proteção Animal e Ambiental, pretendendo a condenação da Centrovias S/A nana obrigação de fazer, consistente na construção de passagens de fauna, através de túneis, passagens subterrâneas e passarelas aéreas, suspensas e outras modalidade.
+O Juízo de primeira instância determinou a inclusão da Concessionária de Rodovias Piracicaba Panorama S/A no polo passivo da ação, indeferindo o pedido de extinção do feito em relação à Centrovias Sistemas Rodoviários S/A (fls. 318-320).
+O Tribunal de Justiça do Estado de São Paulo manteve a decisão, em acórdão assim ementado (fl. 365):
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. Insurgência contra a manutenção da agravante no polo passivo. INADMISSIBILIDADE. Legitimidade passiva da agravante. Natureza "propter rem". Responsabilidade objetiva e solidária. NEGADO PROVIMENTO AO AGRAVO.
+Os declaratórios opostos foram rejeitados (fls. 392-394).
+Centrovias Sistemas Rodoviários S/A interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal. Indicou a ofensa dos arts. 17 do Código de Processo Civil/2015 e 2º, § 2º, do Código Florestal. Alegou sua ilegitimidade passiva, porquanto a concessão da malha rodoviária contida no "Lote 8" encerrou-se em 4 de junho de 2020, com devolução do trecho sob concessão para o Poder Concedente, tendo sido transmitidas as obrigações decorrentes, inclusive ambientais.
+Foram apresentadas contrarrazões (fls. 422-427) e o Tribunal de origem inadmitiu o recurso especial (fl. 437), tendo sido interposto o presente agravo.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 472-476).
+É o relatório. Decido.
+Considerando que a parte agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Sustentou a parte recorrente que não haveria como ser mantida polo passivo para discussão relativas a eventuais obrigações supervenientes, tendo em vista que o período de sua concessão já se encerrou. Isso porque, à luz do ordenamento vigente, foram transmitidas todas as obrigações inerentes ao sistema rodoviário, inclusive as de caráter ambiental.
+Argumentou, ademais, que a expedição das licenças ambientais atesta o cumprimento dos requisitos legais e administrativos no período de suas atividades no âmbito da concessão, bem como a inexigibilidade de conduta diversa no que tange o cumprimento das normas ambientais ao tempo dos fatos.
+Contudo, conforme apontado no parecer ministerial e no acórdão recorrido, os autos demonstram que a parte recorrente era possuidora do imóvel, na condição de concessionária, ao tempo do ajuizamento da ação, de modo que a responsabilidade civil por danos ambientais é propter rem, além de objetiva e solidária entre todos os causadores diretos e indiretos do dano.
+Nesse sentido, dispõe o enunciado n. 623 da Súmula do STJ que: "As obrigações ambientais possuem natureza propter rem, sendo admissível cobrá-las do proprietário ou possuidor atual e ou dos anteriores, à escolha do credor."
+De qualquer sorte, o Tribunal de origem não apreciou a alegação da parte recorrente de que teria cumprido osrequisitos legais e administrativos no período de suas atividades no âmbito da concessão. Muito menos dainexigibilidade de conduta diversa no que tange o cumprimento das normas ambientais ao tempo dos fatos.
+Confira-se trecho do acórdão recorrido (fl. 366):
+ ..
+Portanto, ao contrário do que pretende convencer a agravante, não poderá se furtar da responsabilidade, que é objetiva e solidária, devendo permanecer no polo passivo da demanda.
+E, mesmo que assim não fosse, nada há de ilegal na decisão em primeira instância ao que depreende das informações trazidas a estes autos, ressaltando-se que, na estreita via deste agravo de instrumento, os elementos mencionados não poderão ser analisados com a solução definitiva da lide, posto não permitir o aprofundamento no objeto do litígio.
+Depreende-se, desta maneira, ser imperioso o término do julgamento a fim de esclarecer eventuais controvérsias, porém, tal questão se confunde com o mérito e juntamente com este deverá analisada em sede de primeiro grau oportunamente, sopesando a responsabilidade de cada uma das empresas nos limites legais.
+ ..
+Observa-se que, apesar de instado a fazê-lo por meio dos competentes embargos de declaração, o Tribunal de origem não examinou a controvérsia sob o enfoque dessa questão alegada pela parte recorrente.
+Incide, no ponto, o Enunciado Sumular n. 211/STJ, que dispõe que é "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Isso porque, "se a questão levantada não foi discutida pelo Tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ." (AgInt no AREsp 1557994/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 15/5/2020).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
