@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por GHELERE COMERCIO E TRANSPORTES DE MANUFATURADOS LTDA, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃOPREVIDENCIÁRIA PATRONAL. BASE DE CÁLCULO. EXCLUSÃO DASPARCELAS RELATIVAS AO IMPOSTO DE RENDA RETIDO NA FONTEE DA CONTRIBUIÇÃO PREVIDENCIÁRIA PARTE DO EMPREGADO.
+1. A hipótese de incidência da contribuição previdenciária patronal, nos termos do art. 22, I, da Lei 8.212/91, é o total das remunerações pagas, devidas ou creditadas aos segurados empregados, isso significando que a contribuição previdenciária patronal incide sobre o valor total bruto das remunerações.
+2. A retenção pela empresa, como responsável tributária, dos valores devidos pelo empregado a título de contribuição previdenciária e imposto de renda não altera a natureza dessas verbas, que, enquanto dispêndio do empregador, são remuneração, portanto integram a folha de salários.
+3. As conclusões referentes às contribuições previdenciárias também se aplicam às contribuições ao SAT e terceiros, na medida em que a base de incidência das mesmas também é a folha de salários" (fl. 398e)
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 413/417e), os quais restaramrejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. ART. 1.022 CPC. Embargos de declaração improvidos, porque inocorrentes quaisquer das hipóteses do art. 1.022 do CPC" (fl. 427e)
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 489, § 1º, e1.022, II, do CPC/2015 e arts. 22, I, e 28 da Lei 8.212/91, sustentando negativa de prestação jurisdicional eque o Imposto de Renda e contribuição de seus empregados não compõem a base de cálculo das contribuição previdenciárias - cota patronal, RAT e terceiros.
+Contrarrazões a fls. 589/599e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 602/603e).
+A irresignação merece prosperar.
+Na origem, trata-se de Mandado de Segurançaimpetrado pela parte ora recorrente, com o objetivo de excluir da base de cálculo das contribuição previdenciárias - cota patronal, RAT e terceiros - os valores retidos à título de Imposto de Renda e Contribuição Previdenciária (cota empregados).
+Julgadaimprocedente a demanda, recorreu o autor, restando mantida a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Inicialmente, em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada/TRF 3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+No que tange ao mérito, conforme expus no REsp 1.902.565/PR, Segunda Turma, DJe de 7/4/2021, a rigor, o que pretende a parte recorrente é que o tributo incida, não sobre a remuneração bruta, conforme previsto no art. 22, I, da Lei 8.212/91, mas sobre a remuneração líquida.
+O raciocínio, levado ao extremo, conduziria a perplexidades que bem demonstram o desacerto da tese. Primeiro, a exclusão do montante retido a título de contribuição previdenciária do empregado permitiria concluir que também o Imposto de Renda Retido na Fonte (IRRF) não integraria a base de cálculo da contribuição, aproximando-a, ainda mais, da remuneração líquida.
+E, segundo, a base de cálculo da contribuição patronal, observado o art. 28, § 5º, da Lei 8.212/91, seria inferior à base de cálculo da contribuição previdenciária do empregado, em potencial violação ao princípio da equidade na forma de custeio, nos termos do art. 194, parágrafo único, V, da Constituição.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+I.
