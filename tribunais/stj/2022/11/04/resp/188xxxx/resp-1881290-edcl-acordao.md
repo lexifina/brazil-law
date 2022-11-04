@@ -1,0 +1,126 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL REPETITIVO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em
+questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Primeira Seção do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Gurgel de Faria, Manoel Erhardt (Desembargador convocado do TRF-5ª Região), Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Benedito Gonçalves votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Regina Helena Costa.
+Ausente, justificadamente, o Sr. Ministro Humberto Martins.
+Presidiu o julgamento a Sra. Ministra Assusete Magalhães.
+Assistiu ao julgamento a Dra. LUCIANA INES RAMBO, pelas partes: INTERES.: CONFEDERACAO DOS TRABALHADORES NO SERVICO PUBLICO FEDERAL.
+RELATÓRIO
+O SENHOR MINISTRO SÉRGIO KUKINA: Cuida-se de embargos declaratórios opostos pela Universidade Federal do Rio Grande do Norte - UFRN contra acórdão proferido pela Primeira Seção assim ementado (fls. 672/674):
+DIREITO ADMINISTRATIVO. RECURSO ESPECIAL REPETITIVO. TEMA 1086. SERVIDOR PÚBLICO FEDERAL INATIVO. DIREITO À CONVERSÃO EM PECÚNIA DE LICENÇA-PRÊMIO NÃO GOZADA E NEM CONTADA EM DOBRO PARA APOSENTADORIA. EXEGESE DO ART. 87, § 2º, DA LEI N. 8.112/1990 EM SUA REDAÇÃO ORIGINAL. COMPROVAÇÃO DO INTERESSE DA ADMINISTRAÇÃO QUANTO À NÃO FRUIÇÃO DA LICENÇA-PRÊMIO PELO SERVIDOR. DESNECESSIDADE. PRESCINDIBILIDADE DE PRÉVIO REQUERIMENTO ADMINISTRATIVO.
+1. Esta Primeira Seção afetou ao rito dos repetitivos a seguinte discussão: "definir se o servidor público federal possui, ou não, o direito de obter a conversão em pecúnia de licença-prêmio por ele não gozada e nem contada em dobro para fins de aposentadoria; b) em caso afirmativo, definir se a referida conversão em pecúnia estará condicionada, ou não, à comprovação, pelo servidor, de que a não fruição ou contagem da licença-prêmio decorreu do interesse da Administração Pública".
+2. A pacífica jurisprudência do STJ, formada desde a época em que a competência para o exame da matéria pertencia à Terceira Seção, firmou-se no sentido de que, embora a legislação faça referência à possibilidade de conversão em pecúnia apenas no caso de falecimento do servidor, possível se revela que o próprio servidor inativo postule em juízo indenização pecuniária concernente a períodos adquiridos de licença-prêmio, que não tenham sido por ele fruídos nem contados em dobro para fins de aposentadoria, sob pena de enriquecimento ilícito da Administração.
+3. "Foge à razoabilidade jurídica que o servidor seja tolhido de receber a compensação pelo não-exercício de um direito que incorporara ao seu patrimônio funcional e, de outra parte, permitir que tal retribuição seja paga aos herdeiros, no caso de morte do funcionário" (AgRg no Ag 735.966/TO, Relator Ministro Felix Fischer, Quinta Turma, DJ de 28/8/2006, p. 305).
+4. Tal compreensão, na verdade, mostra-se alinhada à orientação adotada pelo Supremo Tribunal Federal, em sede de repercussão geral, no julgamento do ARE 721.001/RJ (Tema 635), segundo a qual "é devida a conversão de férias não gozadas bem como de outros direitos de natureza remuneratória em indenização pecuniária por aqueles que não mais podem delas usufruir, seja por conta do rompimento do vínculo com a Administração, seja pela inatividade, em virtude da vedação ao enriquecimento sem causa da Administração".
+5. Entende-se, outrossim, despicienda a comprovação de que a licença-prêmio não tenha sido gozada por interesse do serviço, pois o não afastamento do servidor, abrindo mão daquele direito pessoal, gera presunção quanto à necessidade da atividade laboral. Nesse sentido: REsp 478.230/PB, Relator Ministro Humberto Martins, Segunda Turma, DJ de 21/5/2007, p. 554.
+6. Conforme assentado em precedentes desta Corte, a inexistência de prévio requerimento administrativo do servidor não reúne aptidão, só por si, de elidir o enriquecimento sem causa do ente público, sendo certo que, na espécie examinada, o direito à indenização decorre da circunstância de o servidor ter permanecido em atividade durante o período em que a lei expressamente lhe possibilitava o afastamento remunerado ou, alternativamente, a contagem dobrada do tempo da licença.
+7. Diante desse contexto, entende-se pela desnecessidade de se perquirir acerca do motivo que levou o servidor a não usufruir do benefício do afastamento remunerado, tampouco sobre as razões pelas quais a Administração deixou de promover a respectiva contagem especial para fins de inatividade, máxime porque, numa ou noutra situação, não se discute ter havido a prestação laboral ensejadora do recebimento da aludida vantagem.
+8. Ademais, caberia à Administração, na condição de detentora dos mecanismos de controle que lhe são próprios, providenciar o acompanhamento dos registros funcionais e a prévia notificação do servidor acerca da necessidade de fruição da licença-prêmio antes de sua passagem para a inatividade.
+9. TESE REPETITIVA: "Presente a redação original do art. 87, § 2º, da Lei n. 8.112/1990, bem como a dicção do art. 7º da Lei n.
+9.527/1997, o servidor federal inativo, sob pena de enriquecimento ilícito da Administração e independentemente de prévio requerimento administrativo, faz jus à conversão em pecúnia de licença-prêmio por ele não fruída durante sua atividade funcional, nem contada em dobro para a aposentadoria, revelando-se prescindível, a tal desiderato, a comprovação de que a licença-prêmio não foi gozada por necessidade do serviço".
+10. RESOLUÇÃO DO CASO CONCRETO: Recurso especial da UFRN não provido.
+Em suas razões, a parte embargante aponta a existência de omissão no julgado, destacando-se de sua argumentação os seguintes excertos (fls. 718/719):
+Pois bem, no caso em apreço o v. acórdão incorreu em omissão ao desconsiderar que se inexistente previsão legal permissiva no sentido da possibilidade daconversão em pecúnia de licença-prêmio não fruída durante sua atividade funcional, nem contada em dobro para a aposentadoria, não há que se cogitar da consolidação de tese em outro sentido, sob pena de o Judiciário fazer indevidamente as vezes de legislador positivo, em detrimento do art. 2º da CRFB/1988.
+Nessa mesma linha de raciocínio, segundo a dicção da Súmula Vinculante n. 37 do STF:
+"Não cabe ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos de servidores públicos sob fundamento de isonomia".
+DJe nº 210 de 24/10/2014, p. 2.
+Isso porque, o v. Acórdão ora embargado deixou de apreciar a questão sob a ótica do histórico legislativo do assunto, pois resta claro que mesmo à época da redação original da Lei nº 8.112/90 não havia previsão de conversão em pecúnia da licença-prêmio na forma pretendida e aqui julgada. A Lei era expressa em não admitir, não cabendo ampliá-la para abranger situações diversas.
+..
+Assim, mais uma evidência que o v. Acórdão se omitiu em apreciar o tema com base nesses pontos nodais e que a possibilidade conferida ao servidor de conversão em pecúnia de licença-prêmio não fruída durante a atividade funcional, nem contada em dobro para a aposentadoria, configura atuação legislativa ativa pelo Poder Judiciário, em afronta direta ao artigo 2º da CRFB/88.
+Nessa linha, requer-se o pronunciamento expresso desse eg. STJ sobre esse ponto ora suscitado, mostrando-se imprescindível a análise do tema sob a ótica do artigo 2º da CRFB/88 e da ratio essendi da Súmula Vinculante n. 37 do STF, normativos esses que se prequestiona desde já.
+Por fim, em arremate, ante a omissão apontada e fundamentada, deveras registrar a necessidade de apreciação do tema em apreço mediante esse distinguishing necessário e inerente ao caso (histórico legislativo específico e peculiar da normatividade da licença prêmio), cujo teor se difere das demais verbas previstas na Lei nº 8.112/90 e afasta a incidência do precedente citado no v. Acórdão ora embargado (ARE 721.001/RJ do STF - Tema 635/STF).
+Ao fim, pugna por que seja suprida a omissão apontada, com a concessão de efeitos modificativos aos declaratórios e o consequente provimento do apelo especial.
+A Confederação dos Trabalhadores no Serviço Público Federal - CONDSEF, a Federação Nacional dos Trabalhadores no Serviço Público Federal - FENADSEF e o Sindicato Nacional dos Servidores Federais da Educação Básica, Profissional e Tecnológica - SINASEFE NACIONAL, todos na condição de amicus curiae, apresentaram resposta aos embargos (fl. 716/720).
+A parte embargada não apresentou impugnação (fl. 745).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL REPETITIVO. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC. REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no art. 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+2. No caso, não se verifica a existência de nenhum dos vícios em
+questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): Não prospera a irresignação da parte embargante.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficaram devidamente consignados no aresto hostilizado os fundamentos que levaram o Colegiado da Primeira Seção a firmar a tese repetitiva, segundo a qual o servidor federal inativo, sob pena de enriquecimento ilícito da Administração, independentemente de prévio requerimento administrativo, faz jus à conversão em pecúnia de licença-prêmio por ele não fruída durante sua atividade funcional, nem contada em dobro para a aposentadoria.
+A propósito, confiram-se os seguintes trechos do acórdão embargado (fls 686/691):
+Quanto ao mérito, nada obstante se trate de matéria há muito debatida pela jurisprudência do Superior Tribunal de Justiça, descortina-se, agora, salutar oportunidade de consolidar e reafirmar nossa jurisprudência sobre o tema.
+A esse propósito, impõe-se breve digressão sobre a respectiva legislação de regência.
+A Lei n. 8.112/90, que dispõe sobre o regime jurídico dos servidores públicos civis da União, autarquias e fundações públicas federais, assim dispunha em sua versão original:
+Art. 87. Após cada qüinqüênio ininterrupto de exercício, o servidor fará jus a 3 (três) meses de licença, a título de prêmio por assiduidade, com a remuneração do cargo efetivo.
+§ 1º. (VETADO)
+§ 2º. Os períodos de licença-prêmio já adquiridos e não-gozados pelo servidor que vier a falecer serão convertidos em pecúnia, em favor de seus beneficiários da pensão.
+Posteriormente, com o advento das sucessivas Medidas Provisórias números 1.522/96, 1.573-7/97 e 1.595/97, convertidas na Lei n. 9.527, de 10/12/1997, a redação do aludido dispositivo foi alterada, com a extinção da licença-prêmio por assiduidade, que deu lugar à licença para capacitação:
+Art. 87. Após cada qüinqüênio de efetivo exercício poderá, no interesse da Administração, afastar-se do exercício do cargo efetivo, com a respectiva remuneração, por até três meses, para participar de curso de capacitação profissional.
+Parágrafo único. Os períodos de licença de que trata o caput não são acumuláveis.
+Entretanto, essa mesma Lei n. 9.527/97, no seu artigo 7º, veio acompanhada da seguinte ressalva:
+Art. 7º Os períodos de licença-prêmio, adquiridos na forma da Lei nº 8.112, de 1990, até 15 de outubro de 1996, poderão ser usufruídos ou contados em dobro para efeito de aposentadoria ou convertidos em pecúnia no caso de falecimento do servidor, observada a legislação em vigor até 15 de outubro de 1996.
+Dando interpretação a esses dispositivos legais, a pacífica jurisprudência do STJ, formada desde a época em que a competência para o exame da matéria pertencia à Terceira Seção, firmou-se no sentido de que, embora a legislação faça referência à possibilidade de conversão em pecúnia apenas no caso de falecimento do servidor, possível se revela que o próprio servidor inativo postule em juízo indenização pecuniária concernente a períodos adquiridos de licença-prêmio, que não tenham sido por ele fruídos nem contados em dobro para fins de aposentadoria, sob pena de enriquecimento ilícito da Administração.
+Confiram-se, a propósito, os seguintes precedentes:
+ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. APOSENTADORIA. LICENÇA-PRÊMIO NÃO GOZADA OU NÃO CONTADA EM DOBRO. CONVERSÃO EM PECÚNIA. POSSIBILIDADE. PRECEDENTES. DISPENSA, NO CASO, DO INCIDENTE DE INCONSTITUCIONALIDADE DO ART. 7º DA LEI 9.527/97.
+1. É firme a orientação no STJ no sentido de que é devida ao servidor público aposentado a conversão em pecúnia da licença-prêmio não gozada, ou não contada em dobro para aposentadoria. Tal orientação não é incompatível com o art. 7º da Lei 9.527/97, já que, ao prever a conversão em pecúnia de licença prêmio não gozada no caso de falecimento do servidor, esse dispositivo não proíbe, nem exclui a possibilidade de idêntico direito ser reconhecido em casos análogos ou fundados em outra fonte normativa.
+2. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1.404.779/RS, Relator Ministro Teori Albino Zavascki, Primeira Turma, DJe de 25/4/2012.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO APOSENTADO. LICENÇA-PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. POSSIBILIDADE. PRECEDENTES. CLÁUSULA DE RESERVA DE PLENÁRIO. NÃO APLICABILIDADE.
+1. É devida ao servidor público aposentado a conversão em pecúnia da licença-prêmio não gozada, ante a vedação ao enriquecimento sem causa da Administração. Precedentes.
+2. A decisão agravada materializou a função institucional do Superior Tribunal de Justiça, de uniformizar a jurisprudência em matéria infraconstitucional, sem qualquer infringência ao princípio da reserva de plenário e à legislação que rege a matéria.
+3. Agravo regimental não provido.
+(AgRg no AREsp 7.892/RS, Relator Ministro Castro Meira, Segunda Turma, DJe de 21/10/2011.)
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. APOSENTADORIA. LICENÇA-PRÊMIO NÃO GOZADA. CONVERSÃO EM PECÚNIA. POSSIBILIDADE.
+1. O Superior Tribunal de Justiça possui orientação no sentido de ser possível, no momento da aposentação do agente público, a conversão em pecúnia de licença-prêmio não gozada, tendo em vista o princípio da vedação ao enriquecimento sem causa, no caso, por parte da Administração.
+2. Agravo regimental improvido.
+(AgRg no Ag 540.493/RS, Relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJ de 14/5/2007, p. 405.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. LICENÇA-PRÊMIO. CONVERSÃO EM PECÚNIA. APOSENTADORIA. POSSIBILIDADE.
+I - Esta Corte, apreciando as disposições insertas no art. 87, § 2º, na Lei nº 8.112/90, em sua redação original, cujo teor é semelhante ao disposto no art. 222, inciso III, § 3º, alínea "a", tem proclamado que há direito à conversão em pecúnia das licenças-prêmio não gozadas e não contadas em dobro, quando da aposentadoria, sob pena de locupletamento ilícito da Administração. Precedentes desta Corte e do Supremo Tribunal Federal.
+II - Foge à razoabilidade jurídica que o servidor seja tolhido de receber a compensação pelo não-exercício de um direito que incorporara ao seu patrimônio funcional e, de outra parte, permitir que tal retribuição seja paga aos herdeiros, no caso de morte do funcionário.
+Agravo regimental desprovido.
+(AgRg no Ag 735.966/TO, Relator Ministro Felix Fischer, Quinta Turma, DJ de 28/8/2006, p. 305.)
+Esse mesmo entendimento vem sendo mantido, sem variações, conforme se vê dos seguintes e recentes julgados das Turmas que integram a Primeira Seção do STJ:
+ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO INATIVO. LICENÇA-PRÊMIO NÃO USUFRUÍDA. CONVERSÃO EM PECÚNIA. POSSIBILIDADE.
+1. Consoante a jurisprudência desta Corte Superior, é possível ao servidor público aposentado a conversão em pecúnia da licença-prêmio não gozada e não contada em dobro para a aposentadoria, sob pena de enriquecimento ilícito da administração pública.
+2. A aplicação desse entendimento independe da existência ou não de requerimento administrativo. Precedentes.
+3. Recurso especial a que se dá provimento.
+(REsp 1.893.546/SE, Relator Ministro Og Fernandes, Segunda Turma, DJe de 14/4/2021)
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CARACTERIZADA. SERVIDOR PÚBLICO. CONVERSÃO EM PECÚNIA DA LICENÇA-PRÊMIO NÃO GOZADA. REQUERIMENTO ADMINISTRATIVO. DESNECESSIDADE. PRINCÍPIO QUE VEDA O ENRIQUECIMENTO ILÍCITO DA ADMINISTRAÇÃO.
+1. Inexiste a alegada violação aos arts. 489 e 1.022 do CPC/2015, visto que a Corte de origem julgou integralmente a lide e solucionou, de maneira clara e amplamente fundamentada, a controvérsia, em conformidade com o que lhe foi apresentado, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. A orientação do Superior Tribunal de Justiça é no sentido de que é cabível a conversão em pecúnia da licença-prêmio e/ou férias não gozadas, independentemente de requerimento administrativo, sob pena de configuração do enriquecimento ilícito da Administração.
+3. Agravo Interno não provido.
+(AgInt no REsp 1.901.702/AM, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 1/3/2021.)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. SERVIDOR PÚBLICO. CONVERSÃO EM PECÚNIA DA LICENÇA-PRÊMIO NÃO GOZADA. POSSIBILIDADE. PRINCÍPIO QUE VEDA O ENRIQUECIMENTO ILÍCITO DA ADMINISTRAÇÃO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Recurso Especial estivesse sujeito ao Código de Processo Civil de 1973.
+II - O acórdão recorrido está em confronto com orientação desta Corte, segundo a qual é cabível a conversão em pecúnia da licença-prêmio não gozada e não contada em dobro para a aposentadoria, independentemente de requerimento administrativo, sob pena de configuração de enriquecimento ilícito da Administração Pública.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1.634.468/RS, Relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 18/5/2018)
+Tal compreensão, na verdade, mostra-se alinhada à orientação adotada pelo Supremo Tribunal Federal, em sede de repercussão geral, no julgamento do ARE 721.001/RJ (Tema 635), segundo a qual "é devida a conversão de férias não gozadas bem como de outros direitos de natureza remuneratória em indenização pecuniária por aqueles que não mais podem delas usufruir, seja por conta do rompimento do vínculo com a Administração, seja pela inatividade, em virtude da vedação ao enriquecimento sem causa da Administração".
+Confira-se, a propósito, a ementa desse julgado:
+Recurso extraordinário com agravo. 2. Administrativo. Servidor Público.
+3. Conversão de férias não gozadas - bem como outros direitos de natureza remuneratória - em indenização pecuniária, por aqueles que não mais podem delas usufruir. Possibilidade. Vedação do enriquecimento sem causa da Administração.
+4. Repercussão Geral reconhecida para reafirmar a jurisprudência desta Corte (ARE 721.001/RJ, Relator Ministro Gilmar Mendes, Pleno, DJe de 07/03/2013).
+Por oportuno, registre-se que, contra esse mesmo acórdão da Excelsa Corte, foram opostos embargos declaratórios, os quais restaram acolhidos para possibilitar ao Plenário que delibere sobre o eventual alcance da tese também em favor dos servidores em atividade (EDcl no ARE 721.001/RJ, DJe de 6/11/2014), sem que, até o presente momento, tenha havido decisão final a respeito, conforme consulta realizada junto à página eletrônica do STF em 1º/6/2022.
+Nesse passo, pois, mostra-se importante sublinhar que a tese repetitiva agora apreciada nesta Primeira Seção está a cuidar, única e exclusivamente, de controvérsia envolvendo direito postulado por servidor público federal inativo, concernente à conversão em pecúnia de licença-prêmio não gozada, não abrangendo, portanto, igual pretensão eventualmente formulada por servidores ativos.
+Dessa forma, não podem ser acolhidos embargos de declaração que, a pretexto de alegada omissão no julgado, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi. Nesse panorama, inexistente qualquer vício no acórdão embargado, conforme exige o art. 1.022 do CPC, impõe-se a rejeição do pleito integrativo.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃO CONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,
+destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual era necessária
+manifestação, mas apenas a discordância da parte com a solução apresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo no
+mesmo julgado, gerando ilogicidade ao texto. Mas desse problema não se
+ressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES,
+PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+Por fim, na forma da jurisprudência, não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial matéria constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal. Precedentes: AgInt nos EDcl no RMS 53.955/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/12/2017; EDcl nos EAREsp 166.402/PE, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe 29/3/2017.
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+É o voto.
