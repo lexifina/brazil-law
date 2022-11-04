@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo, desafiando decisão do c. Tribunal de Justiçado Estado de São Paulo, interposto porALESSANDRO NUNES CHAGAS,quenãoadmitiuseurecurso especial,sob o fundamento de não ter sido demonstrada a alegada afronta ao dispositivo legal tido por violado, além da divergência jurisprudencialnão ter sido comprovada.
+É o relatório.
+Passo a decidir.
+O recurso não merece sequer conhecimento.
+De início, cumpre salientar que o presente recurso será examinadoàluzdoEnunciado 3 do Plenário do STJ: "Aos recursosinterpostoscomfundamentono CPC/2015 (relativos a decisões publicadasapartir de 18demarço de2016) serão exigidos os requisitos deadmissibilidaderecursalna forma do novo CPC."
+Além disso, observa-se que o agravo previsto no art.1.042doCPC/15tempor objetivo o processamento do recurso especialinadmitidopelaCortedeorigem. Assim, é imperioso que,nasrazõesrecursais, o agravante demonstre expressamente o desacerto dadecisão agravada.
+Na hipótese, a parte agravante não rebateu, como lhe competia, todos osfundamentos da decisão que inadmitiu o apelo especial. Com efeito,limitou-se a refutar, tão somente, a ausência dedemonstração doalegado malferimento ao dispositivo legal supostamente afrontado. Olvidou-se,entretanto, de atacar, especificadamente, ofundamentode falta de comprovação do dissídio pretoriano.
+Com efeito, o princípio da dialeticidade,queregeosrecursosprocessuais, impõe ao recorrente, como requisitoparaaprópria admissibilidade do recurso, o dever de demonstrar porquerazãoadecisãorecorrida não deve ser mantida, demonstrandooseudesacerto, seja do ponto de vista procedimental (error inprocedendo),seja do pontodevistado próprio julgamento (error injudicando),porquanto nãoatende ao princípio em tela o recurso que selimita a tãosó afirmar a tesejurídicainteressante à sua pretensão,semconfrontar, deformajuridicamente balizada, os fundamentos adotadosnadecisão quebuscareformar. Incide, na hipótese, o art. 932, III, doCPC/15, que permite aoRelatornão conhecer de recurso quenãoimpugnaespecificamentetodosos fundamentos da decisão recorrida.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ,não conheço do agravo em recurso especial.
+Nos termos do artigo 85, § 11, do Código de Processo Civil, majoro oshonorários advocatícios devidos à parte recorrida de R$ 8.000,00 ( oito milreais) para R$ 8.800,00 ( oito mil e oitocentos reais).
+Publique-se.
