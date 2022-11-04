@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS ANDRE PARENTE LIMA contra decisão do Tribunal de Justiça do Estado do Amazonas, que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República na Apelação Criminal n. 0226057-27.2016.8.04.000.
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do apelo nobre (fls. 1602-1607).
+É o relatório.
+Decido.
+A Corte de origem não admitiu o apelo nobre calcada nas seguintes razões de decidir (fl. 1478-1497; sem grifos no original):
+"No caso concreto, observo que o presente recurso tem como objetivo a aplicação de atenuante para redução da pena para aquém do mínimo legal.
+Contudo, o acórdão ora vergastado foi decidido em consonância com a jurisprudência da Corte Superior, conforme enunciado n.º231 da Súmula do STJ, além de ter sido reconhecida a repercussão geral no RE n.597.270 QO-RG/RS, rel. Min. Cezar Peluso, j. 26/03/2009.
+Deste modo, resta configurada a hipótese da Súmula n. 83/STJ, que abrange os recursos especiais interpostos com amparo nas alíneas "a"e/ou "c"do permissivo constitucional. Nesse sentido, confira-se AgInt no AREsp 1713650/SE, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe 18/12/2020 e AgInt no AREsp 1738992/DF, Rel. Ministra MARIA ISABEL GALLOTTI, DJe 11/5/2021."
+Como se vê, o recurso especial não foi admitido na origem ante a incidência da Súmula n. 83/STJ. Entretanto, o Agravante, nas razões do agravo em recurso especial, deixou de rebater, especificamente, o citado fundamento, limitando-se a alegar que não incide, na espécie, a Súmula n. 7/STJ e a apresentar argumentos relativos ao mérito do apelo nobre.
+Incide, portanto, o óbice do Enunciado n. 182 da Súmula desta Corte Superior, que dispõe: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ilustrativamente: "É ônus do agravante impugnar as causas específicas de inadmissão do recurso especial, sob pena de incidência da Súmula n. 182 do STJ" AgRg no AREsp 743.772/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/08/2018, DJe 22/08/2018).
+Ademais, a Defesa não demonstrou o desacerto da decisão agravada, indicando eventual superação do entendimento do STJ, em que a Corte local se orientou ou, ainda, eventual distinção com o caso dos autos.
+A propósito: "Quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação, em tema de agravo em recurso especial, deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte" (AgInt no AREsp 1.076.690/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/08/2018, DJe 04/09/2018).
+Por fim, esta Corte Superior de Justiça possui entendimento no sentido de que o comando contido na Súmula n. 83/STJ também é aplicável aos recursos interpostos com fulcro nas alíneas a e c do permissivo constitucional. Nesse sentido: "Encontrando-se o acórdão proferido no recurso de apelação em consonância com jurisprudência firmada nesta Corte, a pretensão do agravante esbarra no óbice previsto no Enunciado nº 83 da Súmula deste Superior Tribunal de Justiça, também aplicável ao recurso especial interposto com fundamento na alínea "a" do permissivo constitucional" (AgRg no REsp 1.482.745/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/05/2018, DJe 28/05/2018).
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. MINUTA DE AGRAVO QUE NÃO INFIRMA ESPECIFICAMENTE FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. SÚMULA N. 83/STJ. RAZÕES RECURSAIS. IMPUGNAÇÃO GENÉRICA. AGRAVO NÃO CONHECIDO.
