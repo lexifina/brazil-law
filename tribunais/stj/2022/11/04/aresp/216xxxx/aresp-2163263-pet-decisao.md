@@ -1,0 +1,11 @@
+DECISÃO
+Em petição conjunta e dirigida à origem (fls. 767-770, e-STJ), os requerentes ALFA PREVIDÊNCIA E VIDA S.A, agravante, e ANA CAROLINA CASTRO DOS SANTOS e PAMELLA PEREIRA DOS SANTOS, agravadas, noticiam a celebração de acordo, expõem os termos da avença e, ao final, requerem a homologação do referido pacto e a extinção do feito com a determinação de baixa na distribuição.
+À fl. 772, e-STJ, as agravadas dão plena quitação da dívida nos termos propostos e, às fls. 774-776, e-STJ, a agravante efetua a juntada do comprovante de pagamento do acordo, reiterando o pedido de homologação da transação e posterior extinção do processo.
+Despacho proferido à fl. 778, e-STJ, determinando a intimação da agravante para manifestar-se acerca das informações contidas na petição de fls. 767-770, e-STJ, dirigidas à origem.
+À fl. 780, e-STJ, a agravante informa seu desinteresse no julgamento do agravo (art. 1.042 do CPC/15), tendo em vista o acordo celebrado entre as partes.
+É o breve relatório. Decide-se.
+1. A realização de acordo entre as partes, sem qualquer reserva, representa ato incompatível com a vontade de recorrer, o que foi reforçado pelas partes na cláusula 8 do pacto, em que as partes expressamente desistem dos recursos eventualmente interpostos nos presentes autos, bem como renunciam a qualquer recurso contra a decisão judicial homologatória da presente transação, salvo a recusa de homologação, total ou parcial (fl. 769, e-STJ).
+Nesse contexto, observo que os advogados ANDRÉ LUIZ PEREIRA DE BRITO e JACÓ CARLOS SILVA COELHO, subscritores da minuta do acordo, possuem poderes para transigir e para desistir, conforme, respectivamente, as procurações de fls. 17 e 175-177, e-STJ. Assim, encontram-se cumpridas as formalidades dos artigos 104 e 105 do CPC/2015.
+Embora a homologação de acordo esteja ente as atribuições do relator, nos termos do art. 34, IX, do RISTJ, é recomendável o retorno dos autos à origem,pois, considerando os termos da avença, a execução do pacto e eventuais divergências acerca de seu cumprimento deverão ser processadas e decididas em primeira instância.
+2. Do exposto, com fundamento no art. 932, inciso III, do NCPC e art. 34, XI, do RISTJ, julgo extinto o procedimento recursal, ante a perda do objeto, e determino o retorno dos autos à origem para homologação e acompanhamento do acordo.
+Publique-se. Intimem-se
