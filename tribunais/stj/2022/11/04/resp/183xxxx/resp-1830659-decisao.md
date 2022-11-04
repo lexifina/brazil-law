@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUIS FERNANDO DE ASSIS ALONSO, com fundamento no art. 105, III,aec, da Constituição Federal, em desafio a acórdão proferidopelo Tribunal de Justiça do Estado do Rio Grande do Sulassim ementado:
+"DIREITO PRIVADO NÃO ESPECIFICADO. AÇÃO REVISIONAL. FUNCORSAN. ENTIDADE DE PREVIDÊNCIA PRIVADA. AUTOR QUE DESISTIU PARCIALMENTE DO PEDIDO, SEM A ANUÊNCIA DA INSTITUIÇÃO FINANCEIRA. APLICAÇÃO DO § 1º, DO ARTIGO 90 DO CPC. PRAZO PRESCRICIONAL QUINQUENAL, COM BASE NO ARTIGO 206, §5º, I, DO CÓDIGO CIVIL. Havendo sido celebrados os contratos revisados sob a égide do Novo Código Civil, a prescrição a ser aplicada à espécie é aquela que trata o artigo 206, §5º, inciso I do CC/2002, ou seja, a quinquenal. Destarte, em se tratando de obrigação de trato sucessivo, verificado que a prescrição atinge três dos dez contratos descritos na inicial da revisional, bem como considerada a desistência parcial sem a concordância da parte adversa, impõe-se a condenação do autor ao pagamento de parte das custas e honorários advocatícios ao procurador da Fundação. AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO."
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 306-315).
+Em suas razões recursais, a parte recorrenteapontaviolação dos arts. 205 e206, §5º, I, do CC, defendendo a não ocorrência da prescrição da pretensão revisional, ao argumento da aplicabilidade do prazo prescricional decenal, em vez do quinquenal.
+Contrarrazões apresentadas às fls. 350-358 (e-STJ).
+É o relatório. Decido.
+Conforme entendimento desta Corte Superior, a pretensão de revisãocontratual prescreve em 10 (dez) anos contados da data da assinatura daavença.
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃOREVISIONAL. CONTRATO DE MÚTUO. PRESCRIÇÃO. TERMO INICIAL. DATA DAASSINATURA DO AJUSTE. NÃO PROVIMENTO.
+1. "Conforme entendimento desta Corte Superior, o termo inicial do prazoprescricional nas ações de revisão de contrato bancário, em que se discutea legalidade das cláusulas pactuadas, é a data da assinatura do contrato.Precedentes." (AgInt nos EDcl no REsp 1917613/RS, Rel. Ministro LUISFELIPE SALOMÃO, QUARTA TURMA, julgado em 14/6/2021, DJe 21/6/2021)
+2. "A renegociação de contrato bancário ou a confissão da dívida nãoimpede a possibilidade de discussão sobre eventuais ilegalidades doscontratos anteriores" (Súmula 286 /STJ).
+3. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no REsp n. 1.948.695/RS, Relatora Ministra MARIA ISABELGALLOTTI, QUARTA TURMA, julgado em 4/4/2022, DJe de 7/4/2022.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CONTRATO DE MÚTUO. PRESCRIÇÃO. TERMO A QUO. DATA DA ASSINATURA DO AJUSTE. AGRAVO INTERNO IMPROVIDO.
+1. Consoante entendimento desta Corte Superior, o termo inicial do prazo prescricional nas ações de revisão de contrato bancário, em que se discute a legalidade das cláusulas pactuadas, é a data da assinatura do contrato. Precedentes.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1444255/MS,DESTA RELATORIA, QUARTA TURMA, julgado em 20/04/2020, DJe 04/05/2020)
+"DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. CÉDULAS DE CRÉDITO RURAL. PRESCRIÇÃO. AÇÃO PESSOAL. VINTENÁRIA SOB A ÉGIDE DO CC/16. DECENAL A PARTIR DO INÍCIO DA VIGÊNCIA DO CC/02. TERMO INICIAL. DATA EM QUE O CONTRATO FOI FIRMADO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação revisional de contratos de cédula de crédito rural, ajuizada em 11.03.2008, da qual foi extraído o presente recurso especial, concluso ao Gabinete em 05.09.2012.
+2. Determinar o termo inicial do prazo prescricional da ação revisional de cláusulas de cédula de crédito rural.
+3. As ações revisionais de contrato bancário são fundadas em direito pessoal, motivo pelo qual o prazo prescricional, sob a égide do Código Civil de 1.916 era vintenário, e passou a ser decenal, a partir do Código Civil de 2.002.
+4. A pretensão se refere às cláusulas contratuais, que podem ser discutidas desde a assinatura do contrato, motivo pelo qual o termo inicial do prazo prescricional é a data em que o contrato foi firmado.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Negado provimento ao recurso especial."
+(REsp 1326445/PR, Rel. MinistraNANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/02/2014, DJe 17/02/2014)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. PRAZO PRESCRICIONAL. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECONSIDERAÇÃO DA DECISÃO AGRAVADA PARA DAR PROVIMENTO AO RECURSO ESPECIAL 1.O prazo prescricional nas ações revisionais de contrato bancário em que se discute a legalidade das cláusulas pactuadas, a orientação jurisprudencial desta Corte Superior é clara, ao entender que "As ações revisionais de contrato bancário são fundadas em direito pessoal, motivo pelo qual o prazo prescricional, sob a égide do Código Civil de 1.916 era vintenário, e passou a ser decenal, a partir do Código Civil de 2.002" (REsp 1.326.445/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/02/2014, DJe de 17/02/2014).
+2. No caso concreto, o período da avença iniciou-se em setembro de 1996, data a partir da qual se iniciou o prazo prescricional, que se encerrou em 11 de janeiro de 2013 (dez anos, a contar da vigência do novo Código). Os autores ajuizaram a ação em maio de 2010, portanto sua pretensão não está alcançada pela prescrição.
+3. Agravo interno provido para reconsiderar a decisão agravada e, na extensão, dar provimento ao recurso especial, no sentido de determinar o retorno dos autos à eg. Corte de origem a fim de que, afastada a prescrição, profira nova decisão, dando ao caso a solução que entender cabível."
+(AgInt no REsp 1653189/PR, Rel. MinistroLÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/08/2018, DJe 20/09/2018)
+No caso dos autos, o Tribunal de origem reconheceu a ocorrência da prescrição quinquenalda pretensão revisional de 10 (dez) contratos de mútuo, com exceção de 3 (três), pois decorridos mais de 5(cinco) anos entre o vencimento do ajuste ou da última parcela e o ajuizamento da ação em 2/10/2017.
+Desse modo, é evidente a divergência entre o acórdão recorrido e a jurisprudência desta Corte, motivo pelo qual é impositivo o provimento do recurso especial.
+Diante do exposto,dou provimento ao recurso especial, a fim de declararaprescriçãoda pretensão revisional e extinguir a ação, por esse fundamento (art. 487, II, do CPC/2015), relativamenteaoscontratos assinadoshá mais de dez anos da data da propositura da ação.
+Em razão do resultado, bem como por se tratar de interlocutória de mérito a decisão originária do presente recurso,condeno, por ora, apenas aparte autora, ora recorrente, ao pagamento de honorários advocatícios sucumbenciais de 10% sobre o valor atualizado da causa, nos termos do art. 85,§2º, do CPC/2015, suspensa a exigibilidade no caso de prévio deferimento da gratuidade de justiça.
+Publique-se.
