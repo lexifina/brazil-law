@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto por Eunice Esteves Cordeirocontra decisão da Corte de origem que inadmitiu o recurso especial, em razão da incidência da Súmula 7do STJ. O apelo nobre obstado enfrenta acórdão, assim ementado (fl. 403):
+RECURSO DE APELAÇÃO - VALOR DOS HONORÁRIOS SUCUMBENCIAIS MANTIDO.
+O valor dos honorários sucumbenciais deve ser arbitrado em quantia condizente com o serviço desempenhado, o tempo exigido para o serviço, a natureza e a importância da demanda e o grau de zelo do profissional, requisitos estes elencados nos incisos do § 2 o do art. 85 do CPC. Valor mantido.
+Recurso não provido. Procedência do pedido de dever de fazer mantida em reexame necessário.
+ ..
+POR UNANIMIDADE E COM O PARECER, DERAM PARCIAL PROVIMENTO AO RECURSO E MANTIVERAM A SENTENÇA EM REEXAME NECESSÁRIO, NOS TERMOS DO VOTO DO 1º VOGAL. O RELATOR RESSALVA SEU ENTENDIMENTO.
+Nas razões do recurso especial, a parte recorrente alegaviolação do art. 85, §, 2º, § 3º, inciso I, e § 4º, inciso III, do CPC/2015. Sustenta que, no caso, ajuizou ação de obrigação de fazer, com pedido de tutela antecipada, por ser portadora de Pseudoartrose do Colo do Fêmur Esquerdo, para o fim de compelir oapelado a lhe fornecer a Cirurgia para Retirada de Material de Síntese, seguida de Artroplastia Total do Quadril, sendo o Estado condenado a fornecer o medicamento e ao pagamento de honorários sucumbenciais a Defensoria Pública Estadualem R$ 2.000 (dois mil reais), nos termos do art. 85, §8º, do Novo Código de Processo Civil. No entanto, os "a majoração da verba honorária fixada em face do Município de Campo Grande, de maneira a adequá-la aos parâmetros estabelecidos pelo art. 85, § 3º, I, e § 4º, III, do CPC, ao percentual mínimo de 10% sobre o valor atualizado da causa." (fl. 419).
+Contrarrazões às fls. 431-436.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se que, nos termos do art. 932, III e IV, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a e b, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, bem como a negar provimento a recurso ou a pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ.
+Tendo a parte insurgente impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+A irresignação não merece acolhida.
+Isso porque extrai-se do acórdão recorrido e das razões do recurso especial que o entendimento do Tribunal de origem está em conformidade com a orientação do STJ. Ou seja, esta Corte Superiordetermina que a obrigação de fazer imposta ao Estado, constituída no fornecimento de medicamentos para tratamento contra enfermidades, objetiva a preservação da vida e/ou da saúde garantidas constitucionalmente - bens cujo valor é inestimável, o que justifica a fixação de honorários por equidade.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO QUE VISA O FORNECIMENTO DE MEDICAMENTOS PELO PODER PÚBLICO.ARBITRAMENTO DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. CRITÉRIOS DE EQUIDADE. ART. 85, § 8º, DO CPC/2015.AGRAVO INTERNO DA FAZENDA DO ESTADO DE SÃO PAULO PROVIDO.
+1. Conforme recente orientação jurisprudencial deste STJ, a obrigação de fazer imposta ao Estado, constituída no fornecimento de medicamentos para tratamento contra enfermidades, objetiva a preservação da vida e/ou da saúde garantidas constitucionalmente, bens cujo valor é inestimável, o que justifica a fixação de honorários por equidade.
+2. Agravo Interno da FAZENDA DO ESTADO DE SÃO PAULO provido, para reconhecer a necessidade de fixação dos honorários advocatícios por critérios de equidade, conforme o teor do art. 85, § 8º, do CPC/2015.
+(AgInt no AREsp n. 1.568.584/SP, relator Ministro Manoel Erhardt (desembargador Convocado do TRF5), Primeira Turma, DJe de 17/2/2022.)
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. FORNECIMENTO DE TRATAMENTO MÉDICO. DIREITO À SAÚDE. VALOR INESTIMÁVEL. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO. EQUIDADE. POSSIBILIDADE.
+1. Trata-se de Agravo Interno contra decisão proferida pela Presidência do STJ (fls. 392-396, e-STJ) que conheceu do Agravo para não conhecer do Recurso Especial.
+2. A jurisprudência das Turmas que compõem a Primeira Seção do Superior Tribunal de Justiça autoriza o arbitramento de honorários advocatícios por critério de equidade nas demandas em que se pleiteia do Estado o fornecimento de tratamento médico, haja vista que, nessas hipóteses, não é possível mensurar, em geral, o proveito econômico obtido com a ação, por envolver questão relativa ao direito constitucional à vida e/ou à saúde.
+3. Agravo Interno não provido.
+(AgInt no AREsp n. 2.059.277/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022.)
+Ademais, o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para reavaliar o proveito econômico da demanda, o valor dos medicamentos fornecidos e os demais requisitos para o arbitramento dos honorários advocatícios, o que não se admite ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. FIXAÇÃO DA VERBA HONORÁRIA. EQUIDADE. CABIMENTO. BEM DE VALOR INESTIMÁVEL.
+1. Na hipótese dos autos, nota-se que que o entendimento do Tribunal de origem está em consonância com a orientação do STJ no sentido de que a obrigação de fazer imposta ao Estado, constituída no fornecimento de medicamentos para tratamento contra enfermidades, objetiva a preservação, garantida constitucionalmente, da vida e/ou da saúde - bens cujo valor é inestimável -, o que justifica a fixação de honorários por equidade.
+2. O acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente para reavaliar o proveito econômico da demanda, o valor dos medicamentos fornecidos e os demais requisitos para o arbitramento dos honorários advocatícios, o que não se admite ante o óbice da Súmula 7/STJ.
+3. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp n. 2.100.231/MT, relator Ministro Herman Benjamin, Segunda Turma, DJe de 30/9/2022.)
+Ante o exposto, conheço do Agravo para negar provimento ao recurso especial,com fundamento nos arts. 932, IV, do Código de Processo Civil de 2015 e 34, XVIII, b, e 255, II, ambos do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. FIXAÇÃO DA VERBA HONORÁRIA. EQUIDADE. CABIMENTO. BEM DE VALOR INESTIMÁVEL. PRECEDENTES. REAVALIAR O PROVEITO ECONÔMICO DA DEMANDA, CONSIDERANDOO VALOR DOS MEDICAMENTOS FORNECIDOS. REEXAME. INCIDÊNCIA DA SÚMULA 7 DO STJ.AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
