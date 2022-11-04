@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto (art. 105, III, "a", da Constituição) contra acórdão proferido pelo Tribunal Regional Federal da 2ª Região assim ementado (fl. 61, e-STJ):
+AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA COLETIVO. EXECUÇÃO INDIVIDUALPROMOVIDA EM LITISCONSÓRCIO. AÇÃO DE CONHECIMENTO AUTÔNOMA POSTERIOR ÀAÇÃO COLETIVA. OPÇÃO. NÃO ADESÃO À COISA JULGADA COLETIVA. EXTINÇÃO DAEXECUÇÃO.
+1. Trata-se de agravo de instrumento visando à reforma da decisão proferida pelo MM. Juízo da 3ª Vara Federal do Rio de Janeiro/RJ, nos autos da execução individual de sentença coletiva n.º 0120637-83.2015.4.02.5101, que extinguiu o processo de execução com relação ao agravante, sem resolução do mérito, nos termos do art. 485, IV, do CPC/15, em virtude da inexigibilidade do título executivo.
+2. O agravante ajuizou ação individual pelo rito comum (processo nº 01943-05.2011.4.01.3815),em2011, a qual tramitou no Juizado Especial Federal Cível da Subseção de São João Del Rei, para pleitear o pagamento da GDIBGE nos mesmos moldes em que era paga aos servidores em atividade, a qual foi julgada improcedente, mantida a sentença em grau de recurso.
+3. Os pleitos formulados na ação autônoma ajuizada pelo procedimento comum e na ação deconhecimento coletiva coincidem na medida em que nesta o IBGE foi condenado ao pagamento das diferenças de Gratificação de Desempenho dos Servidores do IBGE - GDIBGE nos mesmos moldes pagos aos servidores da ativa.
+4. Verifica-se que o ajuizamento da ação de conhecimento individual foi posterior à propositura da ação coletiva que ampara a presente execução individual, de modo que, ao ingressar individualmente com a ação pelo rito comum que versa sobre o mesmo pedido e causa de pedir, exerceu o apelante a sua opção por não se submeter à coisa julgada formada no processo coletivo.
+5. Embora o art. 104 do CDC possibilite ao autor da ação individual o requerimento de suspensão desta, no prazo de 30 (trinta) dias, a contar da ciência do ajuizamento da ação coletiva, tal dispositivo se aplica quando superveniente o feito coletivo, o que não ocorreu no presente caso.
+6. Agravo de instrumento conhecido e desprovido.
+Os Embargos de Declaração foram rejeitados (fls. 94-95, e-STJ).
+Em seu Recurso Especial,o agravante aponta ofensa, em preliminar, ao art. 1.022 do CPC/2015e sustentaque os vícios apontados nos Embargos de Declaração não foram supridos. Nomérito, alega violação dos arts. 337, §§ 1º e 4º, e 373, II, do CPC; e 104 do CDC. Aduz, em síntese (fl. 117, e-STJ):
+A despeito de não haver examinado a petição inicial da ação individual, que-é incontroverso -não consta dos autos, o acórdão regional concluiu: "Os pleitos formulados na ação autônoma ajuizada pelo procedimento comum e na ação de conhecimento coletiva coincidem na medida em que nesta o IBGE foi condenado ao pagamento das diferenças de Gratificação de Desempenho dos Servidores do IBGE -GDIBGE nos mesmos moldes pagos aos servidores da ativa".
+Não obstante, para que possa ser acolhida a objeção de coisa julgada, é preciso que haja prova de identidade de objeto entre as ações coletiva e individuais (art. 337, §§1ºae4º do CPC). Vale dizer, é necessário que as demandas tenham a mesma causa de pedir e pedido, sem o que não se pode falar em identidade de demandas, a obstar o ajuizamento de nova ação.
+Ora, constituindo a objeção de coisa julgada fato impeditivo do direito do autor, incumbe ao IBGE o ônus de provar tal identidade objetiva, nos termos do art.373,II,do CPC, o que somente é possível mediante a comparação das petições iniciais das demandas. Nesse sentido, inclusive, já se pronunciou a Primeira Seção do STJ, reputando indispensável o conhecimento do inteiro teor da petição inicial, para aferir a identidade entre demandas.
+Apresentadas as contrarrazões, sobreveio o juízo de admissibilidade negativo (fls. 139-141, e-STJ), o que deu ensejo à interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 05.10.2022.
+Inicialmente, no que tange à alegada contrariedade aoart. 1.022, II, do CPC/2015, não vislumbro omissões,contradições, obscuridades ou erros materiais a serem sanados, dado que a Corte regional apreciou e refutou os argumentos aviados.
+Solucionada a matéria controvertida, torna-se dispensável a análise integral e pormenorizada dos demais pontos lançados pelo pleiteante, visto que há fundamento apto a sustentar a conclusão.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. RECURSO ESPECIAL.AÇÃO DE INDENIZAÇÃO. ACIDENTE. VEÍCULO DE PROPRIEDADE DO MUNICÍPIO. ÓBITO DE SERVIDOR. CONDUTA OMISSIVA. RESPONSABILIDADE CIVIL SUBJETIVA DO MUNICÍPIO. DEVER DE INDENIZAR. NÃO EXISTÊNCIA DA ALEGADA VIOLAÇÃO DO ART. 489 DO CPC/2015.
+1. (..)
+2. Não há violação do art. 489 do CPC/2015 quando o decisum recorrido se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+3. Conforme entendimento pacífico desta Corte: "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, DJe 15/6/2016).
+4. Outrossim, quanto à afirmada negativa de prestação jurisdicional, apesar de apontar como violado o art. 489 do CPC/2015, a parte agravante não demonstrou qualquer vício no decisum recorrido, deixando de demonstrar devidamente no que consistiu a invocada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+5. Agravo Interno não provido.
+(AgInt nos EDcl no REsp 1.831.370/MG, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 6/10/2020)
+Constatado o devido enfrentamento do tema e comprovada a inexistência de quaisquer dos vícios previstos no art. 1.022 do CPC/2015, o mero inconformismo com o julgado não enseja a oposição de Embargos Declaratórios.
+O debate sobre o acerto ou desacerto do acórdão impugnado não encontra amparo legal para manejo dos aclaratórios.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+(..)
+7. Recurso Especial não conhecido.
+(REsp 1.671.609/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 30/6/2017)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. CONTRADIÇÃO E OMISSÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE.
+(..)
+2. A parte embargante afirma que o acórdão embargado foi omisso "porque o regramento previsto no art. 10,capute § 3º, da Lei 10.260/2001, por ser regra especial, deve se sobrepor à regra geral de impenhorabilidade prevista no art. 833, IX, do CPC, não sendo possível aplicar os precedentes das Turmas de Direito Privado, mencionadas no v. acórdão recorrido, porquanto tais decisões sequer enfrentaram a questão da prévia quitação de débitos previdenciários ou outros tributários para com a RFB, mas enfrentaram a questão apenas sob a ótica do direito privado (§ 1º do art. 10 da Lei 10.260/2001, que não se aplica ao presente caso)" (fl. 243, e-STJ).
+3. O vício da contradição é de natureza interna, ou seja, pressupõe relação de incompatibilidade lógica entre os fundamentos e o dispositivo do acórdão, o que não ocorreu no caso dos autos.
+4. É patente, portanto, que os argumentos trazidos pela embargante não dizem respeito aos vícios de omissão, obscuridade ou contradição, mas a suposto erro de julgamento ou na apreciação da causa. O simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua alteração, que só muito excepcionalmente é admitida.
+5. Como já decidido pela Primeira Seção, "o fato de o decisum concluir em sentido diverso do defendido pelo ora embargante não enseja o aviamento de embargos declaratórios para promover mero rejulgamento." (EDcl no MS 17.906/DF, Rel. Min. Napoleão Nunes Maia Filho, Rel. p/ acórdão Min. Og Fernandes, DJe 19.12.2016).
+6. Dessa forma, a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015. Os Embargos Declaratórios não constituem instrumento adequado à reanálise da matéria de mérito, nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+7. Embargos de Declaração rejeitados.
+(EDcl no AgInt no REsp 1.874.885/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 1º/7/2021;grifei)
+No mérito, o apelo não merece conhecimento.
+Ao dirimir a controvérsia, o Tribunal a quo consignou (fls. 59-60, e-STJ):
+De fato, o agravante ajuizou ação individual pelo rito comum (processo nº 01943-05.2011.4.01.3815),em 2011, a qual tramitou no Juizado Especial Federal Cível da Subseção de São João Del Rei, para pleitear o pagamento da GDIBGE nos mesmos moldes em que era paga aos servidores em atividade, a qual foi julgada improcedente, mantida a sentença em grau de recurso.
+Os pleitos formulados na ação autônoma pelo procedimento comum e na ação de conhecimento coletiva coincidem na medida em que nesta o IBGE foi condenado ao pagamento das diferenças de Gratificação de Desempenho dos Servidores do IBGE - GDIBGE nos mesmos moldes pagos aos servidores da ativa.
+Todavia, verifica-se que o ajuizamento da ação de conhecimento individual foi posterior à propositura da ação coletiva que ampara a presente execução individual, de modo que, ao ingressar individualmente com a ação pelo rito comum que versa sobre o mesmo pedido e causa de pedir, exerceu o apelante a sua opção por não se submeter à coisa julgada formada no processo coletivo.
+(..)
+Dessa forma, embora o art. 104 do CDC possibilite ao autor da ação individual o requerimento de suspensão desta no prazo de 30 (trinta) dias, a contar da ciência do ajuizamento da ação coletiva, tal dispositivo seaplica quando superveniente o feito coletivo, o que não ocorreu no presente caso.
+É vedado ao apelante beneficiar-se de título judicial ao qual não aderiu ante a opção exercida com o ajuizamento e prosseguimento da ação de conhecimento individual, sendo que esta foi julgada improcedente, com trânsito em julgado em 07/07/2016, certificado em 02/08/2016 (evento 9, outros 2).
+Diante das razões acima expendidas,verifica-se que o órgão julgador decidiu a questão após percuciente estudo dos fatos e das provas relacionados à demanda, e é certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto recorrido passa por apreciação vedada em Recurso Especialconsoante a Súmula 7 do Superior Tribunal de Justiça, que estabelece: "A pretensão de simples reexame de prova não enseja recurso especial".
+O STJ tem orientação consolidada de que a distribuição do ônus probatório pelas instâncias ordinárias é matéria estritamente fático-probatória, a atrair a incidência da Súmula 7/STJ.
+Cito precedentes:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. DISTRIBUIÇÃO DO ÔNUS DA PROVA. HONORÁRIOS DE ADVOGADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. PRECEDENTES.
+(..)
+2. Com efeito, "o STJ entende ser inaferível eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ" (REsp 1.812.278/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA,DJe 29/10/2019).
+3. A revisão dos valores fixados a título de verba de advogado pressupõe, via de regra, a verificação das provas produzidas nos autos e sua valoração, o que é vedado a este STJ a teor do verbete da Súmula nº 7/STJ. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.578.397/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 17/3/2020)
+DIREITO FINANCEIRO E PROCESSUAL CIVIL. RECURSO ESPECIAL. LITISPENDÊNCIA. DISTRIBUIÇÃO DO ÔNUS DA PROVA. INCIDÊNCIA DA SÚMULA 7 DO STJ. RESTRIÇÕES ORÇAMENTÁRIAS. DIREITOS SUBJETIVOS DO SERVIDOR. AÇÃO DE COBRANÇA. INEXISTÊNCIA DE FATO IMPEDITIVO.
+(..)
+2. No tocante à suposta violação do art. 333, I, do CPC/1973, o recurso especial também não reúne condições de ser conhecido, tendo em vista que a distribuição do ônus probatório pelas instâncias ordinárias é matéria estritamente fático-probatória, a atrair novamente a incidência da Súmula 7/STJ. Precedentes.
+(..)
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1.517.625/AL, Rel. Ministro Og Fernandes, Segunda Turma, DJe 9/10/2019)
+Por tudo isso,conheço do Agravo para conhecer em parte do Recurso Especial, apenas quanto à indicada afronta aos arts. 489 e 1.022 do CPC/2015, e, nessa parte, negar-lhe provimento.
+Consubstanciado o previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Publique-se.
+Intimem-se.
