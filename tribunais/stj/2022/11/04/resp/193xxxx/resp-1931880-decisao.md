@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSE DE SOUZA BASTOS FILHO, com respaldo nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃOassim ementado (e-STJ fl. 156):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. IDADE COMPROVADA. INÍCIO DE PROVA MATERIAL DO LABOR RURAL DA PARTE AUTORA CORROBORADO POR PROVA TESTEMUNHAL. REQUISITOS CUMPRIDOS. BENEFICIO DEVIDO.
+1. São requisitos para aposentadoria de trabalhador(a) rural: contar 55 (cinquenta e cinco) anos de idade, se mulher, e 60 (sessenta) anos de idade, se homem, e comprovar o efetivo exercício de atividade rural, ainda que de forma descontínua, por tempo igual ao número de meses de contribuição correspondentes à carência do benefício pretendido (art. 48, §§ 1º e 2º, da Lei 8.213/91).
+2. Atendidos os requisitos indispensáveis à concessão do benefício de aposentadoria rural em testilha  início de prova material da atividade rural alegada, devidamente corroborado por prova testemunhal sólida, a que ainda se agrega a idade mínima exigida para o deferimento da prestação  deve ser deferida a pretensão nesse sentido deduzida.
+3. Consectários da condenação fixados de acordo com o entendimento jurisprudencial da Segunda Turma desta Corte Regional Federal.
+4. Apelação da parte autora parcialmente provida.
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação do art. 103 da Lei n. 8.213/1991, visto que não houve a prescrição de fundo de direito, sendo que o termo inicial do benefício deve ser fixado a partir do requerimento administrativo ocorrido em 30/12/2008, respeitada a prescrição quinquenal.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 176.
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar.
+Como é cediço, o direito ao benefício previdenciário/assistencial - dada a sua natureza de direito fundamental - não se submete, de fato, à prescrição de fundo.
+Nesse sentido, de ambas as Turmas da Primeira Seção:
+PREVIDENCIÁRIO. BENEFÍCIO NEGADO NA VIA ADMINISTRATIVA. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA. SÚMULA 85/STJ. INAPLICABILIDADE.
+1. A jurisprudência desta Corte é firme no sentido de que, mesmo na hipótese de negativa de concessão de benefício previdenciário e/ou assistencial pelo INSS, não há falar em prescrição do próprio fundo de direito, porquanto o direito fundamental a benefício previdenciário não pode ser fulminado sob tal perspectiva.
+2. Em outras palavras, o direito à obtenção de benefício previdenciário é imprescritível, apenas se sujeitando ao efeito aniquilador decorrente do decurso do lapso prescricional as parcelas não reclamadas em momento oportuno.
+3. Agravo regimental a que se nega provimento. (AgRg no AREsp 506.885/SE, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 27/05/2014, DJe 02/06/2014).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL. LEI 8.742/1993 E LEI 10.741/2003. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
+1. O Superior Tribunal de Justiça tem se manifestado recentemente no sentido de afastar a prescrição do fundo de direito quando em discussão direito fundamental a benefício de amparo social. Precedentes: REsp 1.349.296/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 28.2.2014).
+2. A garantia à cobertura pelo sistema previdenciário traduz inequívoca proteção à manutenção da vida digna. Conforme precedente do STF (RE 626.489/SE), julgado em repercussão geral, o direito fundamental ao benefício previdenciário pode ser exercido a qualquer tempo, sem que se atribua consequência negativa à inércia do beneficiário.
+3. A pretensão ao benefício previdenciário e/ou assistencial em si não prescreve, mas tão somente as prestações não reclamadas em certo tempo, que podem ser buscadas a qualquer momento. Precedentes: AgRg no AREsp 506.885/SE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2.6.2014
+.4. Recurso Especial do INSS não provido. (REsp 1503295/PB, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 26/05/2015, DJe 10/08/2015).
+In casu, extrai-se dos autos que a parte autora ajuizou a presente ação em 2016, postulando a concessão de aposentadoria rural por idade indeferida administrativamente em 2008 (e-STJ fls. 3/10).
+O apelo nobre da parte autora almeja ver modificado o termo inicial do benefício em razão do requerimento administrativo ocorrido em 2008.
+Impende registrar que o reconhecimento da prescrição de rever o ato administrativo, por si só, não afasta a possibilidade de nova postulação de benefício por incapacidade e assistencial, ou ainda previdenciário, tendo em vista a natureza dos direitos sociais e eventuais alterações no estado de fato ou de direito do segurado ou seu beneficiário, ex vi do art. 505, I, do CPC (art. 471, CPC/1973).
+Isso porque, "relativamente à ocorrência ou não da prescrição do fundo de direito, parte-se da definição de que os benefícios previdenciários estão ligados ao próprio direito à vida e são direitos sociais que compõem o quadro dos direitos fundamentais" (REsp 1.349.296/CE, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 20/02/2014, DJe 28/02/2014).
+Na espécie, o Tribunal de origem julgou em harmonia com o entendimento desta Corte, no sentido de que o termo inicial do benefício deverá observar a citação na via judicial.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. BENEFÍCIO ASSISTENCIAL. REQUERIMENTO. INDEFERIMENTO. PRESCRIÇÃO. REGRAS. ALTERAÇÃO NO ESTADO DE FATO OU DE DIREITO. POSSIBILIDADE. VANTAGEM. TERMO INICIAL. CITAÇÃO.
+1. Apesar de o direito ao benefício assistencial ou previdenciário não se submeter à prescrição de fundo, por estar inserido nos direitos fundamentais, a ocorrência de indeferimento do pedido administrativo faz nascer o interesse de agir, por se tratar de ato específico, o qual não se renova mês a mês. Inteligência da Súmula 85 do STJ.
+2. O reconhecimento da prescrição do fundo de direito, por si só, não afasta a possibilidade de nova postulação de benefício por incapacidade, ou assistencial, tendo em vista a natureza dos direitos sociais e eventuais alterações no estado de fato ou de direito do segurado, de seu beneficiário ou do requerente de que trata a LOAS (Lei Orgânica da Assistência Social), ex vi do art. 505, I, do CPC/2015 (art. 471, CPC/1973).
+3. Caso em que a parte autora pode postular a concessão de benefício a qualquer tempo, sendo certo que, decorridos mais de cinco anos desde o indeferimento administrativo e havendo alteração no estado de fato ou de direito do segurado, este fará jus ao benefício, atendidos os requisitos legais, mas a contar da nova demanda judicial.
+4. Agravo interno desprovido. (AgInt no REsp 1.663.972/PB, de minha relatoria, Primeira Turma, sessão virtual de 29/09/2020 a 05/10/2020, DJe de 16/10/2020).
+Dessa forma, incide o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", cabível mesmo quando o recurso especial é interposto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
