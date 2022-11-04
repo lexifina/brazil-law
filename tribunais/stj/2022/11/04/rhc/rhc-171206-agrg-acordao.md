@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ILICITUDE DE PROVAS. DELINEAMENTO FÁTICO NÃO REALIZADO PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal de origem deixou de examinar tema abordado neste habeas corpus, limitando-se a afirmar que as teses aduzidas relacionam-se ao mérito da ação penal.
+2. Diante da falta de delineamento fático por parte das instâncias antecedentes, não é viável a análise desse tema pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+VANESSA CRISTIANE DE LIMA PARCA interpôs agravo regimental contra decisão que não conheceu o recurso ordinário manejado em razão do HC n. 2137636-08.2022.8.26.0000, impetrado perante o Tribunal de Justiça do Estado de São Paulo.
+Nas razões deste agravo, a defesa insiste na tese de que a ação penal foi desencadeada por provas obtidas de maneira ilícita, pois o mandado de busca e apreensão teria se originado em denúncia anônima sem outras medidas investigativas prévias. Além disso, o acesso aos celulares não teria sido abrangido pela ordem judicial, tornando ilícitas as provas obtidas a partir daí.
+Diante disso postula a reconsideração da decisão agravada ou, subsidiariamente, a apresentação do feito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+O agravo regimental é tempestivo e preenche os demais requisitos formais exigidos pelo art. 1.021 do Código de Processo Civil e art. 258 do Regimento Interno do Superior Tribunal de Justiça. No entanto, não obstante os esforços do agravante, não constato elementos suficientes para reconsiderar a decisão, cujos fundamentos devem ser preservados.
+O pedido formulado neste habeas corpus diz respeito à supostas nulidades ocorridas durante o cumprimento do mandado de busca e apreensão que resultou na prisão em flagrante e forneceu os elementos indiciários que deram início à ação penal movida contra a agravante.
+Conforme mencionado na decisão monocrática ora impugnada, o Tribunal de origem não debateu esse tema, limitando-se a afirmar que as alegações defensivas estão relacionadas ao próprio mérito da ação penal. Assim, não houve delineamento fático por parte da Corte a quo, de modo que não é possível a apreciação do tema diretamente pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+No mesmo sentido:
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. ALEGAÇÃO DE ILEGALIDADE DE INTERCEPTAÇÕES TELEFÔNICAS DEFERIDAS NO BOJO DE INVESTIGAÇÃO DE ATENTADOS PRATICADOS PELA ORGANIZAÇÃO CRIMINOSA PRIMEIRO GRUPO CATARINENSE (PCG) EM FLORIANÓPOLIS/SC, EM ABRIL/2017. TEMA NÃO EXAMINADO PELA CORTE A QUO. IMPOSSIBILIDADE DE DEBATE SOBRE A MATÉRIA SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO POR VEICULAR IDÊNTICO TEMA POSTO EM APELAÇÃO CRIMINAL PENDENTE DE JULGAMENTO DO TRIBUNAL DE ORIGEM. LEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se o acórdão recorrido não chegou a examinar o mérito da controvérsia posta nos autos, relacionada à suposta nulidade das decisões de 1º grau que autorizaram a quebra de sigilo telefônico, revela-se inviável o debate da questão por esta Corte, sob pena de indevida supressão de instância. Situação em que, quando afirmou que procederia a uma análise perfunctória dos autos, a fim de averiguar se existia flagrante ilegalidade, o voto condutor do acórdão recorrido limitou-se a transcrever trechos da denúncia, o dispositivo da sentença que condenou a paciente e a narrar que as interceptações telefônicas foram ratificadas por provas testemunhais. No entanto, em momento algum, o acórdão recorrido examina os critérios para o deferimento da interceptação telefônica.
+(..)
+4. Agravo regimental a que se nega provimento. (AgRg no RHC 141.646/SC, de minha relatoria, Quinta Turma, DJe 19/3/2021)
+PEDIDO DE EXTENSÃO NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. QUEBRAS DOS SIGILOS TELEFÔNICO, FISCAL E BANCÁRIO. NULIDADE DAS DECISÕES. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL. PEDIDO DE EXTENSÃO INDEFERIDO. 1. A apontada nulidade das decisões que autorizaram a quebra dos sigilos telefônicos, fiscais e bancários do requerente não foi analisada pelo Tribunal de origem, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir na indevida supressão de instância. 2. Esta Corte deu parcial provimento ao recurso em habeas corpus, para tornar sem efeito somente as decisões proferidas às fls. 47, 64, 145 e 227 dos Autos n. 0011048-68.2015.8.26.0506 (fls. 112, 129, 210 e 292 deste caderno processual), as quais nem sequer fazem menção ao ora requerente. 3. Pedido de extensão indeferido. (PExt no RHC 117.462/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 21/9/2021)
+AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. ILICITUDE DAS PROVAS OBTIDAS COM AS INTERCEPTAÇÕES TELEFÔNICAS E COM A BUSCA E APREENSÃO. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. LEGALIDADE DA QUEBRA DE SIGILO TELEFÔNICO RECONHECIDA NO JULGAMENTO DE ANTERIOR MANDAMUS. REITERAÇÃO DE PEDIDO. COAÇÃO ILEGAL INEXISTENTE.
+1. A via eleita é inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+2. As ilegalidades suscitadas pela defesa não foram alvo de deliberação pela autoridade impetrada no acórdão impugnado, circunstância que impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância. Precedentes.
+(..) 2. Agravo regimental desprovido. (AgRg no HC 581.646/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 17/6/2020)
+Desse modo, diante das razoes apresentadas no decisum agravado, acima reiteradas, nego provimento a este agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
