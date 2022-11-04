@@ -1,0 +1,22 @@
+DECISÃO
+LAÍS FARIAagrava de decisão que inadmitiu o recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Paranána Apelação Criminal n. 0002426-19.2020.8.16.0145/4.
+A agravante teve indeferido pedido de restituição de bens apreendidos nos autos da Medida Cautelar n. 0001882-31.2020.8.16.0145 (quantia em dinheiro). A Corte de origem manteve o indeferimento.
+Nas razões do recurso especial, a defesa alegouviolação doart. 7º, § 6º, da Lei n. 8.906/1994, em razão da "inobservância das prerrogativas da advogada/recorrente Laís, o que acarreta a nulidade da diligência de busca e apreensão do aparelho celular (seu instrumento de trabalho) e valores de sua propriedade" (fl. 179).
+O recurso foi inadmitido em juízo prévio de admissibilidade realizado pelo Tribunal local, a motivar a interposição deste agravo.
+O Ministério Público Federal manifestou-se, às fls. 353-357, pelo não provimento do AREsp.
+Decido.
+I. Não admissibilidade do recurso especial
+A Corte de origem assim se manifestou, sobre o indeferimento do pedido de restituição do referido bem(fls. 139-140, grifos no original):
+ ..
+Na hipótese dos autos, depreende-se que a apelante não se desincumbiu do ônus de comprovar que efetivamente é a proprietária da quantia apreendida, pois o simples fato do valor ter sido localizado dentro de uma nécessaire em seu quarto não é prova suficiente da titularidade do bem, mormente quando a quantia foi apreendida na residência de um dos investigados da Operação Pasteiros, o que torna a licitude da origem do valor questionável, já que, como bem destacou o Ministério Público, nas contrarrazões, "o modus operandi utilizado pelos investigados é o pagamento em dinheiro de vantagens ilícitas para potenciais concorrentes abandonarem os pregões presenciais, de modo que a vasta quantia apreendida interessa a investigação" (destaquei).
+Ademais, os dados constantes na declaração do Imposto de Renda apresentada pela apelante (mov. 1.4), por si sós, não comprovam a propriedade e a origem lícita do valor apreendido.
+Desse modo, considerando que a apelante não comprovou a propriedade da quantia apreendida, não merece o acolhimento o pedido de restituição, ainda mais considerando que o valor em questão ainda interessa ao processo (art. 118, CPP), pois, consoante consignado pelo Ministério Público nas contrarrazões, "há linha de investigação no sentido de que os valores sejam produtos/proveito das práticas ilícitas, razão pela qual é possível, ainda, que futuramente venha a ser decretado seu perdimento, conforme prevê o artigo 91, inciso II, "b" e § 2º do Código Penal".
+ ..
+E, por não ter comprovado que a quantia apreendida lhe pertence, inaplicável, ao caso, a regra de impenhorabilidade invocada pela apelante e prevista no artigo 833, X, do CPC, o qual preconiza que é impenhorável "a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos".
+Por fim, no tocante à nulidade da busca e apreensão, por suposta inobservância das prerrogativas previstas no Estatuto da Ordem dos Advogados do Brasil (Lei n. 8.906/94), com bem destacou o juiz a quo na decisão recorrida, "para além de a investigação não estar relacionada ao exercício da atividade funcional, e sim a fatos diversos, conforme se verifica de mov. 192 dos autos de medida cautelar n. 0001882-31.2020.8.16.0145 o pedido de busca e apreensão foi deferido quanto ao investigado Carlos Augusto Faria, e não em relação à ora requerente, assim, não há que se falar em qualquer nulidade".
+Em relação aos bens apreendidos no âmbito de investigações criminais, a devolução somente ocorrerá se for devidamente demonstradaa sua origem lícita, a sua propriedade incontroversa e a sua não sujeição àpena de perdimento.
+Oportuno destacar que a mera posse do objeto não é indicativosuficiente e absoluto de propriedade.Assim, não é possível, no âmbito do recurso especial, averiguar ou definir a propriedade do referido objeto controvertido (valores apreendidos), em vista da necessidade de revolvimento fático-probatório dos autos, quiçá de dilação probatória, procedimentos vedados pelo disposto na Súmula n. 7 do STJ.
+Cumpre observar que a tese da nulidade da busca e apreensãopor violação das prerrogativas do advogado, na hipótese, depende da definição quanto àpropriedade dos valores apreendidos, o que não é possível na via eleita pelo óbice já indicado.
+II. Dispositivo
+À vista do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se e intimem-se.
