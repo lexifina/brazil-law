@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o r. JUÍZO DE DIREITO DA 1.ª VARA DA FAZENDA PÚBLICA DE CHAPECÓ-SC, suscitante, e o r. JUÍZO DE DIREITO DA 1.ª VARA CÍVEL DE TATUÍ-SP, suscitado.
+Ação:de Indenização por Danos Materiais Decorrentes de Acidente de Trânsitoproposta por TRANSPORTES ZENI LTDA., contra RODOVIAS INTEGRADAS DO OESTE S.A.(fls. 6-22).
+Decisão do Juízo suscitado:devolveu aprecatória, "(..)a fim de ser realizada a audiência por meio de videoconferência ou utilizando da estação passiva" (fl. 80).
+Decisão do Juízo suscitante: suscitou o presente conflito negativo de competência, sustentando que, em relação à devolução da carta precatória, a "(..) motivação não é legítima, pois o Juízo deprecante não tem jurisdição para deliberar sobre a forma de condução de processo que não é de sua competência e, de toda sorte, este Órgão Judiciário não deliberou que a audiência ocorrerá de modo virtual." (fls. 82-85).
+Parecer do Ministério Público Federal: opinou pelo conhecimento do conflito e competência do Juízo suscitado(fls. 90-92).
+É o relatório.
+Decido.
+1. De início, vale destacar a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+2. Depreende-se dos autos que no âmbito da Ação de Indenização ajuizada, foi expedida carta precatória pelo r. Juízo chapecoense, ora suscitado-deprecante ao r. Juízo paulistano, suscitante-deprecado,que, ao recebê-la, devolveu-a, ao fundamento de que a audiência ali deprecada poderia ser realizada por vídeo-conferência.
+Consoante orientação firmada pela nesta Corte, nos exatos termos do art. 267 do CPC, a recusa ao cumprimento da carta precatória apenas terá lugar quando presente alguma das hipóteses alielencadas (I - a carta não estiver revestida dos requisitos legais; II -faltar ao juiz competência em razão da matéria ou da hierarquia; e III - ojuiz tiver dúvida acerca e sua autenticidade). Nesse sentido: AgRg no CC158.878/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, julgado em 22/08/2018, DJe 27/08/2018; CC 40406/SP, Rel. Ministro CASTROMEIRA, PRIMEIRA SEÇÃO, julgado em 11/02/2004, DJ 15/03/2004, p. 145; CC62.249/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em28/06/2006, DJ 01/08/2006, p. 365.
+Considerando que na situação dos autos não se verificou qualquer umadelas, ressai a competência da Justiça paulistadapara o cumprimento daprecatória em questão.
+3. Do exposto, com fundamento no art. 955, parágrafo único, do NCPC c/cSúmula 568/STJ e no parecer ministerial, conheço do presente conflito e,por conseguinte, declaro a competência do r. Juízo de Direito da 1.ª Vara Cível de Tatuí-SP, suscitado.
+Publique-se. Intimem-se.
