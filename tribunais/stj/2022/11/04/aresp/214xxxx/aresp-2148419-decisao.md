@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo interposto porASSOCIAÇÃO DOS FUNCIONÁRIOS DO BANCO DA PROVÍNCIA DO RIO GRANDE DO SUL S/A e outroem face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim sintetizado:
+"AGRAVO DE INSTRUMENTO. PREVIDÊNCIA PRIVADA. AÇÃO ORDINÁRIA EM FASE DE CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO.EXCESSO. NULIDADE DA DECISÃO RECORRIDA.OBSERVÂNCIA AO TÍTULO EXECUTIVO.
+- Preliminar de nulidade de sentença: o juiz não é obrigado a enfrentar todas as teses das partes litigantes, mas apenas aquelas suficientes a amparar seu convencimento; no caso as matérias questionadas foram enfrentadas, não havendo, destarte, falta de fundamentação, mas apenas o exaurimento da matéria de fundo através de uma única linha de raciocínio.
+- A liquidação de sentença deve observar rigorosamente o título, sob pena de ferir a coisa julgada formada, nos termos dos artigos 503, 505 e 509, §4º, todos do CPC, sendo que não há possibilidade de combate à sentença ou acórdão prolatados.
+- Caso em que os tópicos objeto de recurso já foram apreciados antes da formação do título judicial, ao que é vedada reapreciação.
+AGRAVO DESPROVIDO. UNÂNIME." (fl. 441).
+Os embargos de declaração foram rejeitados (fls. 499-506).
+Nas razões do recurso especial, a parte ora agravante aponta violação dos art. 1.022, I e II, do Código de Processo Civil de 2015, sustentando, em síntese, a negativa de prestação jurisdicional, pois "Em que pese a expressa postulação, a decisão que restou por rejeitar os embargos de declaração, em nenhum momento versou acerca dos vícios apontados, que teriam a relevância de explicitar a necessidade de estreita observância aos limites da condenação (índices estabelecidos, incidência da prescrição e amortização dos descontos previdenciários), de modo a preservar e prestigiar o instituto da coisa julgada e, consectário lógico, a normatividade dos artigos 502, 505, 506, 507 e 508, de modo a evitar o injustificado enriquecimento (Código Civil, artigos 884 e 885)." (fl.517).
+Apresentadas contrarrazões ao apelo nobre (fls. 530-536).
+É o relatório.
+Não se vislumbra a alegada violação do art. 1.022 do Código de Processo Civil de 2015, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, adotando fundamentação suficiente, decidindo integralmente a controvérsia.
+O Sodalício a quo analisou todos os tópicos abordados pela recorrente no recurso, notadamente a inexistência de afronta à coisa julgada e ausência de enriquecimento ilícito da parte adversa.
+A propósito, colaciono os seguintes excertos do acórdão estadual:
+"No mérito, lembra-se que a liquidação de sentença deve observar rigorosamente o título, sob pena de ferir a coisa julgada ali formada, nos termos dos arts. 503, 505 e 509, §4º, todos do CPC.
+(..)
+Quanto ao tópico do recurso "índices dos realinhamentos de 1991, 1992 e 1995", como não há pedido, deixo de apreciá-lo.
+Quanto ao "percentual equivocado quanto ao realinhamento de 1995", o perito, na origem, explicou a origem da incidência dos 18,05%, em mais de uma oportunidade.
+(..)
+Assim, como se verifica que a parte recorrente pretende a incidência de percentual médio com base em apenas dois funcionários, razoável é a aplicação da média aplicável a casos semelhantes.
+Quanto à proporcionalidade da prescrição, conforme consta da sentença e do acórdão, é verificada mensalmente (porque assim incidem as parcelas objeto de revisão) e não pro rata die, como argui a recorrente.
+Quanto ao desconto previdenciário, não há enriquecimento ilícito, uma vez que a parte recorrida elaborou cálculo em observância ao título, levando em consideração os valores dos benefícios devidos, exatamente como consta da sentença.
+Assim, se verifica que a parte recorrente se insurge, em verdade, ao título executivo, o que já lhe foi oportunizado antes do trânsito em julgado e da qual a parte utilizou-se de tal direito." (fls. 447-473).
+Dentro nesse lindes, verifica-se que o acórdão recorrido está em conformidade com a jurisprudência desta Corte, no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido, colhem-se estes precedentes:
+"AGRAVO INTERNO CONTRA DECISÃO DA PRESIDÊNCIA. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015.OMISSÃO. INEXISTÊNCIA. MEDIDA ATÍPICA. PEDIDO DE SUSPENSÃO DA CNH. DESPROPORCIONALIDADE. REVISÃO. IMPOSSIBILIDADE.SÚMULAS 7, 83 E 126 DO STJ. AGRAVO NÃO PROVIDO.
+1. Não há falar em violação ao art. 1.022 do CPC/2015, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, apresentando todos os fundamentos jurídicos pertinentes à formação do juízo cognitivo proferido na espécie, apenas não foi ao encontro da pretensão da parte agravante.
+(..)
+6. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1731859/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/05/2021, DJe 19/05/2021, g.n.)
+"PROCESSUAL CIVIL. ADMINISTRATIVO. PLANO DE SAÚDE. ANS.MULTA. CANCELAMENTO. NÃO OCORRÊNCIA. ALEGAÇÃO DE OFENSA AO ART. 1.022 DO CPC/2015. INEXISTENCIA. PAGAMENTO DE CUSTO ADICIONAL PELO ATENDIMENTO DE BENEFICIÁRIO DO PLANO DE SAÚDE EM OUTRA LOCALIDADE DE ABRANGÊNCIA.PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. CONTRATO.REVISÃO. APLICAÇÃO DOS ENUNCIADOS 5 E 7 DAS SÚMULAS DO STJ.
+(..)
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não há violação do art. 1.022 do CPC/2015 quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente e apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - O julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+IV - Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça: (AgInt no AREsp 1.046.644/MS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 5/9/2017, DJe 11/9/2017 e REsp 1.649.296/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/9/2017, DJe 14/9/2017.) (..) VIII - Agravo interno improvido." (AgInt no AREsp 1728865/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 26/04/2021, DJe 29/04/2021, g.n.)
+Portanto, inexiste qualquer omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pelo recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide. Impende ressaltar que "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, Relator Ministro CESAR ASFOR ROCHA, DJ de 12.12.1994).
+Assim, estando o acórdão recorrido em harmonia com a orientação firmada nesta Corte Superior, incide, na espécie, o óbice previsto na Súmula 83 do STJ.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
