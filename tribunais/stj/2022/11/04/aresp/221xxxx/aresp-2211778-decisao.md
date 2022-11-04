@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especialpor estar"resguardado de qualquer ofensa(..)o art. 1.022 do Novo Código de Processo Civil"(e-STJ fl. 252).
+O acórdão recorrido encontra-seassim ementado (e-STJ fl. 169):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. JUROS REMUNERATÓRIOS. ALTERAÇÃO DO INDEXADOR UTILIZADO PARA REVISAR O CONTRATO DE EMPRÉSTIMO PARA O VEICULADO À COMPOSIÇÃO DE DÍVIDA. ABUSIVIDADE RECONHECIDA. DESCARACTERIZAÇÃO DA MORA. COMPENSAÇÃO/REPETIÇÃO DO INDÉBITO. VERBA HONORÁRIA MANTIDA. INVERSÃO. POSSIBILIDADE. SENTENÇA PARCIALMENTE REFORMADA.
+JUROS REMUNERATÓRIOS. A cobrança de juros remuneratórios em valor acimada média divulgada pelo BACEN configura abusividade a autorizar a limitação do encargo.
+ADEQUAÇÃO DA TAXA DE JUROS. Considerando que o empréstimo foi contraído com o objetivo de compor dívida pré-existente, atinente à utilização do cheque especial, deve incidir, na espécie, a taxa de juros prevista para a operação atinente ao indexador serial nº 20743, que, na época da contratação, era a de 58,40% ao ano.
+DESCARACTERIZAÇÃO DA MORA. Reconhecida a abusividade de encargos da normalidade, resta afastada a mora.
+COMPENSAÇÃO E REPETIÇÃO DE VALORES. Reconhecida a abusividade de encargos contratuais, é possível a compensação e/ou repetição do indébito na forma simples.
+HONORÁRIOS. Mantidos os honorários sucumbenciais no patamar estabelecido na sentença vergastada, considerando o trabalho realizado pelo profisisonal  sic , o local da prestação dos serviços, a natureza e a importância da causa. Invertidos os ônus sucumbenciais, diante do resultado do julgamento.
+APELO PARCIALMENTE PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 200/205).
+Nas razões do recurso especial (e-STJ fls. 215/222), interposto com fundamento no art. 105, III, "a", da CF, a parte alegouviolação do art. 1.022, II, do CPC/2015, tendo em vista que, "a despeito da matéria veiculada nos embargos ser essencial para a resolução da controvérsia, o Tribunal local insistiu na omissão ventilada, uma vez que sequer considerou a metodologia adotada pelo próprio Bacen para identificação da modalidade de crédito aplicável aos contratos de renegociação" (e-STJ fl. 221 - grifo no original). O recorrente aduz o seguinte (e-STJ fl. 221 - grifou-se em parte):
+(..)
+Em suma, suscitou-se omissão quanto aos esclarecimentos prestados pelo Banco Central, relativamente à operação de crédito considerada na contabilização dos juros aplicáveis aos contratos de renegociação envolvendo uma única modalidade, como no caso concreto.
+Isso porque, no acórdão, a suposta abusividade dos juros incidentes no aditamento para parcelamento n. 000000063521207 foi aferida com base em modalidade de crédito alheia àquela indicada pelo Banco Central para a situação em debate, sem qualquer menção ao que esclarece a referida entidade a respeito- consoante sumário metodológico juntado no feito e suscitado tanto em defesa, quanto em apelo.
+(..)
+Frisa-se que, a teor dos precedentes repetitivos que orientam a matéria, eventual abusividade dos juros remuneratórios deve aferida mediante o comparativo entre o percentual contratado e a taxa média de mercado, divulgada pelo Banco Central, para o mesmo período e modalidade creditícia sub judice. E, no caso dos aditamentos para parcelamento, a definição da modalidade utilizada como parâmetro de cotejo depende da circunstância de as operações originárias serem da mesma modalidade ou não - conforme orientações do próprio Bacen, suscitadas em apelo e em aclaratórios.
+Portanto, impositivo o expresso pronunciamento do órgão julgador quanto à modalidade de crédito aplicável à operação analisada segundo o entendimento do Bacen, entidade divulgadora dos índices adotados como parâmetro de abusividade, para que seja possível aferir o efetivo desalinhamento do acórdão com a conclusão exarada por esta Corte nos Recursos Especiais Repetitivos n. 1.061.530/RS e 1.256.397/RS.
+Sublinha-se, o acórdão recorrido e o acórdão dos embargos apenas consignam o entendimento da próprio Câmara quanto à modalidade aplicável, sem considerar as orientações do Bacen quanto a qual seria o parâmetro aplicável a renegociações que aditam uma só operação de origem. Assim, o Tribunal local não se manifesta sobre o impacto da circunstância de tratar-se de renegociação de uma só operação na definição da modalidade utilizada como parâmetro, limitando-se à aferição de que se trata de aditamento.
+(..)
+No agravo (e-STJ fls. 262/267), afirmaa presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 285/288(e-STJ).
+É o relatório.
+Decido.
+No presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve a omissão a respeito de questão pertinenteao deslinde da causa, oportunamente suscitadapela parte, qual seja: "no acórdão, a suposta abusividade dos juros incidentes no aditamento para parcelamento n. 000000063521207 foi aferida com base em modalidade de crédito alheia àquela indicada pelo Banco Central para a situação em debate" (e-STJ fl. 220), porquanto "no caso dos aditamentos para parcelamento, a definição da modalidade utilizada como parâmetro de cotejo depende da circunstância de as operações originárias serem da mesma modalidade ou não - conforme orientações do próprio Bacen".
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este Juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, CONHEÇO do agravo e DOU PROVIMENTO ao recurso, a fim dedeterminar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
