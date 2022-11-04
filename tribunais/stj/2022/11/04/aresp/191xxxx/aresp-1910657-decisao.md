@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por ANHANGUERA EDUCACIONAL PARTICIPACOES S/Aem face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+"AÇÃO DE OBRIGAÇÃO DE FAZER. ADITAMENTO. CONTRATO DE FINANCIAMENTO ESTUDANTIL. ATRIBUIÇÃO CPSA.
+I - A Comissão Permanente de Supervisão e Acompanhamento do FIES - CPSA detêm atribuição para adotar as providências necessárias ao aditamento do contrato de financiamento, e regularizar a situação documental para a matrícula da estudante.
+II - Apelação desprovida." (fl. 296).
+Os embargos de declaração foram rejeitados (fls. 314-317).
+Nas razões do recurso especial, a parte ora agravante aponta violação doart. 3º, I, "a", "b" e "c", da Lei n. 10.260/2001,bem como divergência jurisprudencial, sustentando, em síntese, que"a recorrente não possui competência para tratar a liberação de aditamento, sendo que SOMENTE O PRÓPRIO AGENTE OPERADOR FINANCEIRO ESTUDANTIL, QUE NO CASO É O FNDE (Fundo Nacional de Desenvolvimento da Educação), PODE PROMOVER OS ATOS NECESSÁRIOS PARA O ADITAMENTO DO CONTRATO DE FIES Nº 04.0688.185.0005514-43, conforme se resta demonstrado pela Lei 10.260/2001, que é nítida ao tratar quem possui a AUTONOMIA PARA GERIR O FIES. Nobre Julgador, é impossível se falar em reabertura de aditamento do Financiamento Estudantil - FIES sem a intervenção do FNDE, que é órgão competente para possibilitar a recorrida a reabertura do prazo para o seu aditamento." (fl. 328).
+Apresentadas contrarrazões ao apelo nobre (fls. 340-343).
+É o relatório.
+Quanto à alegada violação do art.3º, I, "a", "b" e "c", da Lei n. 10.260/2001, sobre o cabimento ao Ministério da Educação da gestão do FIES, verifica-se que o conteúdo normativo do dispositivo invocado no apelo nobre não foi apreciado pelo Tribunal a quo, ainda que a parte ora agravante tenha oposto embargos de declaração a fim de sanar eventual irregularidade. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento." (AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017, g.n.)
+Por fim, verifica-se que o alegado dissenso pretoriano não restou comprovado em razão do descumprimento do disposto nos arts. 541, parágrafo único, do CPC/73 (atual art. 1.029, § 1º, do Código de Processo Civil de 2015) e 255, § 2º, do RISTJ.
+Com efeito, para a caracterização da sugerida divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos mencionados dispositivos.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO REQUERIDO.
+1. A indicação de violação à dispositivo de lei que não guarde correlação jurídica com os argumentos apresentados caracteriza deficiência da fundamentação recursal, pois inviabiliza a exata compreensão da controvérsia. Incidência, por analogia, da Súmula 284 do STF. Precedentes.
+(..)
+2. É assente nesta Corte Superior que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico, que evidencie a similitude fática entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional. Precedentes.
+3. Agravo interno desprovido." (AgInt no REsp 1.770.558/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 02/04/2019, DJe 05/04/2019, g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. DISSÍDIO JURISPRUDENCIAL. SIMPLES TRANSCRIÇÃO DE EMENTAS. SÚMULA N. 284/STF. ADIMPLEMENTO SUBSTANCIAL DO DÉBITO. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. INSCRIÇÃO EM CADASTRO DE INADIMPLENTES. DANO MORAL. REEXAME DE PROVAS. SÚMULA N. 7/STJ. COBRANÇA INDEVIDA. NÃO CARACTERIZAÇÃO. REPETIÇÃO DE VALORES. DESCABIMENTO. DECISÃO MANTIDA.
+(..)
+2. A simples transcrição de ementas, sem cotejo analítico apto à demonstração da similitude fática entre o acórdão recorrido e os paradigmas, impede o conhecimento do especial pela alínea "c" do permissivo constitucional.
+3. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+(..)
+7. Agravo interno a que se nega provimento." (AgInt no AREsp 1.051.766/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 1º/04/2019, DJe de 05/04/2019, g.n.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte recorrida de 15% para 16% sobre o valor da causa (fl. 303).
+Publique-se.
