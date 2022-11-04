@@ -1,0 +1,10 @@
+DECISÃO
+Reconsidero a decisão de e-STJ fls. 289-293,tornando-a sem efeito.
+A questão tratada nos autos teve acolhida a proposta de afetação para julgamento sob o rito dos Recursos Repetitivos, nos termos do art. 1.036 do CPC/2015, por meio dos Recursos Especiais 1.957.733/RS e 1.958.465/RS (Rel. Ministro Gurgel de Faria, DJe 22.3.2022), que cuidam do Tema1.140/STJ:"Definir, para efeito de adequação dos benefícios concedidos antes da Constituição Federal aos tetos das Emendas Constitucionais ns. 20/1998 e 41/2003, a forma de cálculo da renda mensal do benefício em face da aplicação, ou não, dos limitadores vigentes à época de sua concessão (menor e maior valor-teto)". Foi determinada, ainda, a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a matéria e tramitem no território nacional.
+Consoante a jurisprudência desta Corte, "encontrando-se o tema afetado ao rito dos recursos repetitivos, por medida de economia processual e para evitar decisões dissonantes, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução no recurso especial afetado, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015." (AgInt no AgRg nos EDcl no REsp 1.345.683/RS, Rel. Ministro Og Fernandes, Segunda Turma, DJe 11.10.2017).
+No mesmo sentido: AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28.6.2017; e EDcl no AgInt no AgRg no REsp 1.399.836/SC, Rel. MinistraRegina Helena Costa, Primeira Turma, DJe 3.8.2017.
+Ante o exposto, determino a devolução dos autos à Corte regional para que, após a publicação do decisuma ser proferido no Recurso Representativo da Controvérsia, o apelo especial:
+a) tenha seguimento denegado, na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou
+b) seja novamente examinado pelo Tribunal a quo, caso o aresto impugnado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se.
+Intimem-se.
