@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FUNDAÇÃO CORNADO WESSEL E OUTROScontra decisão exarada pela il. Presidência da Seção de Direito Privado do eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP), que inadmitiu seu recurso especial.
+Por sua vez, o apelo nobre foi manejado com arrimo na alínea "a" do permissivo constitucional, em face de v. acórdão assim ementado (fls. 146):
+"Despejo. Denúncia vazia. Imóvel localizado em shopping center. Ação renovatória anterior, proposta pela locatária, julgada procedente. Renovação do contrato por mais 60 meses. Autoras, ademais, que não figuram no contrato de locação, tampouco explicam o que as legitimaria para a presente ação. Sentença de indeferimento da inicial mantida. Recurso negado."
+Os embargos de declaração opostos foram rejeitados (vide acórdãoàs fls. 161-163).
+Nas razões recursais (fls. 166-178), FUNDAÇÃO CORNADO WESSEL E OUTROS alegam, preliminarmente, violação ao art. 1.022do CPC/15, afirmando que o eg. TJ-SP não sanou os vícios suscitados nos embargos de declaração.
+Ultrapassada a preliminar, apontam ofensa aos arts. 17, 485 e506do CPC/15, ao argumento, entre outros, de que "(..) aação renovatória em questão (processo nº 1035316-63.2014.8.26.0100) foi proposta unicamente em face de PLAZA SHOPPING ADMINISTRADORA LTDA. (CNPJ nº 09.067.645/0001-16).Já na presente demanda figuram como autores a FUNDAÇÇÃO CONRADO WESSEL (CNPJ nº 00.079.007/0001-40), AGROPART - ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA (CNPJ nº 04.404.297/0001-01), BROOKFIELD BRASIL HIGIENÓPOLIS LTDA (CNPJ nº 09.567.010/0001-88), BRAZ PARTICIPAÇÕES LTDA (CNPJ nº 09.276.293/0001-09), BROOKFIELD BRASIL SHOPPING CENTERS LTDA (CNPJ nº 31.422.025/0001-07) e ao FUNDO DE INVESTIMENTO IMOBILIÁRIO SHOPPING PÁTIO HIGIENÓPOLIS (CNPJ nº 03.507.519/0001-59).Assim, considerando os limites subjetivos da coisa julgada (artigo 506 do CPC), a referida Ação Renovatória não produziu nenhum efeito válido ao contrato de locação objeto do presente despejo" (fls. 175-176 - destaques no original).
+Asseveram, também, que "(..) o próprio endereçamento da contranotificação de fls. 101/102, enviada pela recorrida às recorrentes, demonstra, de maneira cabal, que ele tinha conhecimento de que os recorrentes eram os novos proprietários do empreendimento, até porque do referido documento não consta nenhum questionamento em sentido contrário. Aliás, nem poderia ser diferente, posto que, estando instalada no referido Centro de Compras, sempre teve a recorrida total conhecimento das alterações na gestão do empreendimento. Conclui-se, portanto, que as recorrentes são reconhecidamente as atuais proprietárias do empreendimento, dai porque, evidentemente, possuem legitimidade para propor a presente Ação de Despejo, nos termos do artigo 17 do Código de Processo Civil." (fls. 177 - destaques no original).
+Não foram apresentadas contrarrazões (vide certidão à fl. 181).
+Como dito, o apelo nobre foi inadmitido (decisão às fls. 188-189), motivando o agravo em recurso especial (fls. 192-203) em testilha.
+Não foi oferecida contraminuta (vide certidão à fl. 205).
+É o relatório. Passo a decidir.
+Inicialmente, rejeita-se a alegada violação ao art. 1.022do CPC/15, uma vez que o eg. Tribunal de Justiça do Estado de São Paulo (TJ-SP) analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Salienta-se, ademais, que esta Corte é pacífica no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante.
+Nesse sentido, colhem-se os recentes julgados:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. As questões trazidas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões ou contradições, portanto, inexiste a alegada violação ao artigo 1.022 do CPC/15.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp 1957365/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/04/2022, DJe 06/04/2022 - g . n.)
+"DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HOMOLOGAÇÃO DE HONORÁRIOS PERICIAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REDUÇÃO DA VERBA FIXADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULA N. 5 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1984936/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/04/2022, DJe 19/04/2022 - g. n.)
+Avançando, melhor sorte não socorre ao recurso no tocante à alegada violação aos arts. 17, 485 e 506 do CPC/15.No caso, quanto a tais dispositivos legais, oportuna a transcrição do seguinte trecho do v. acórdão estadual (fls. 147):
+"Da análise dos documentos colacionados aos autos verifica-se que a antiga administradora do empreendimento - e contra quem a ré ajuizara ação renovatória de aluguel - Plaza Shopping Administradora Ltda. (atual denominação da empresa São Paulo Administradora S/C Ltda) -, figura como locadora no contrato de locação do imóvel cujo despejo as Autoras pretendem.
+Estas, por sua vez, não constam do referido contrato, nem em qualquer outro documento a ele relacionado.
+Não bastasse, ingressaram com a presente ação de despejo sem ao menos explicar o que as legitimaria para tanto, eis que, reprise-se, não figuram no contrato como locadoras. Sua posição jurídica frente à locação, portanto, não está esclarecida.
+Tudo isso, aliado ao fato de que, realmente, houve ação renovatória julgada em favor da ora ré para renovar o contrato por mais 60 meses, torna inafastável a sentença recorrida."
+Nesse cenário, a pretensão de alterar o entendimento ora transcrito, considerando as circunstâncias do caso concreto,para rediscutir alegitimidade ativa dos ora Recorrentes bem como os efeitos da coisa julgada -demandaria revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 253, parágrafo único, II, "a" e "b", do RI-STJ, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
