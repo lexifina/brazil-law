@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado contra acórdão assim ementado (fl. 55):
+AGRAVO EM EXECUÇÃO - Remição de penas em razão de estudo Exclusão das horas excedentes - Observância do limite estabelecido no art. 126, § 1º, inciso I, da LEP - Recurso provido
+Consta dos autos que o paciente teve concedida remição de 105 dias pelo Juízo das execuções.
+O Ministério Público interpôs agravo em execução, o qual foi provido para conceder a remição de 84 dias.
+No presentewritalega a impetrante que o paciente preenche os requisitos legais para a concessão da benesse, nos termos concedidos pela primeira instância, posto que o Superior Tribunal de Justiça "vem reconhecendo a possibilidade de ser computado o tempo de trabalho com as horas extras superiores à jornada normal mínima de até 6 horas diárias, transformando-as em dias para fins de remição." (fls. 6-7), como seria o caso dos autos.
+Requer, liminarmente e no mérito, que se compute nos dias remidos também as horas excedentes ao mínimo de 4 horas/dia.
+Indeferida a liminar e prestadas as informações, o Ministério Público manifestou-se pelo não conhecimento, mas concessão de ofício.
+O juízo da execução assim se manifestou quanto à remição (fls. 31/32):
+O escopo da remição é o bom aproveitamento do tempo de encarceramento para desenvolvimento e qualificação do reeducando. Muito embora se respeite o posicionamento do Ministério Público, não é possível interpretar o artigo 126 como se o legislador tivesse diferenciado as hipóteses de remição para impedir que apenas as horas excedentes de estudo não pudessem ser remidas o que, a propósito, não está proibido expressamente para nenhuma das duas circunstâncias.
+E, sendo o trabalho e a educação, direitos sociais, assim considerados pela Constituição Federal (art. 6º da CF); a remição concedida em benefício do preso, em sua interpretação deve ser no sentido que o favoreça. Assim e nos termos do artigo 126, § 1º., I, da Lei de Execução Penal, certificado o aproveitamento escolar do sentenciado JOSEF MAZZINNE FERREIRA GALVAO, MTR: 686017, RJI: 182498571-62, recolhido no(a)Penitenciária Compacta de Irapuru, pela autoridade educacional competente do curso frequentado e seu bom comportamento carcerário, sem a notícia de crime ou faltas disciplinares a ele imputáveis no período ora analisado, determino a remição de 105 (cento e cinco) dias da pena corporal, atenta as 1.270 (mil duzentas e setenta) horas de frequência escolar no período de 08/02/2020 a 15/07/2021, com observância da proporção legal de um dia de pena para cada 12 (doze)horas de frequência escolar. Ao cálculo, observando-se que o tempo remido deve ser computado como pena cumprida, para todos os efeitos (art.128 da LEP).
+Quanto ao tema, constado acórdão impugnado (fls. 56/57):
+Com efeito, para fins de remição de penas, deve ser considerada a quantidade de dias estudados ou trabalhados, nos termos do art. 33 e 126, ambos da LEP, e não a quantidade de horas.
+E, nos termos do que dispõe o art. 126, § 1º, inciso I, da LEP, "1 (um) dia de pena a cada 12 (doze) horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 (três) dias", de modo que o período que ultrapassar as 4 horas diárias de estudo não há de ser contabilizado, para fins de remição.
+Como se vê, o Tribunal de origem, reformou a decisão do Juízo das execuções, consignando que para fins de remição de penas "deve ser considerada a quantidade de dias estudados ou trabalhados", o que equivale a 12 horas e que é dividida por 3 dias, desprezando a quantidade de horas que exceder tal montante.
+Nos termos do entendimento mais recente desta Corte, uma vez admitido o cômputo dashoras excedentesnaremiçãopelo trabalho, não há razão plausível para inadmitir tal contagem quando se trata deremiçãopor estudo. Nesse sentido:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REMIÇÃO POR ESTUDO. LIMITE. ATIVIDADE ESCOLAR. TEMPO QUE EXCEDEU A CARGA DE 4 HORAS DIÁRIAS QUE DEVE SER COMPUTADO PARA REMIR A PENA. ISONOMIA COM A HIPÓTESE DE REMIÇÃO POR TRABALHO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Não se desconhece o entendimento desta Corte Superior no sentido de que a interpretação extensiva de que a jornada máxima de estudo fixada em 4 horas por dia decorre da especificada determinada pela literalidade normativa.
+2. Ocorre que, tendo a norma do art. 126 da LEP o objetivo de ressocialização do condenado, deve-se observar o recente entendimento da decisão proferida no âmbito da Sexta Turma desta Corte Superior, no julgamento do HC 461.047/SP, Rel. Ministra LAURITA VAZ, DJe 14/08/2020, no sentido de ser possível a remição das horas excedentes de estudo, não se limitando a jornada de estudo em 4 horas por dia.
+3. Não se mostra razoável admitir-se horas extras na remição pelo trabalho e, por outro lado, negá-las quando a remição é feita por meio do estudo.
+4. Agravo regimental não provido.
+(AgRg no AREsp n. 1.720.688/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/10/2020, DJe de 13/10/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELO ESTUDO. PRETENSÃO DE CONTAGEM DO PERÍODO EXCEDENTE. MUDANÇA DE ENTENDIMENTO PROFERIDA NO HC N. 461.047/SP. POSSIBILIDADE. JORNADA DIÁRIA DE ESTUDO QUE NÃO SE LIMITA A 4 HORAS DIÁRIAS.
+1. Nos moldes de recente decisão proferida no âmbito da Sexta Turma desta Corte Superior de Justiça, entendeu-se que é possível a remição das horas excedentes de estudo, não se limitando a jornada de estudo em 4 horas por dia.
+2. Não se mostra razoável admitir-se horas extras na remição pelo trabalho e, por outro lado, negá-las quando a remição é feita por meio do estudo.
+3. Ademais, a possibilidade de remição das horas excedentes de estudos se adequa à melhor intenção ressocializadora da LEP, pois incentiva que o reeducando dedique o maior número de horas ao estudo.
+4. Em acréscimo aos argumentos proferidos no HC n. 461.047/SP, entendo que ofenderia os princípios da igualdade e da individualização da pena a decisão que concedesse a mesma quantidade de dias remidos a dois reeducandos que se dedicassem diferentemente ao estudo - um se limitando a 4 horas diárias; e outro, que despendesse uma maior quantidade de tempo em prol do estudo.
+5. Agravo regimental improvido.
+(AgRg no HC n. 606.826/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 22/9/2020, DJe de 28/9/2020.)
+Ante o exposto, concedo ohabeas corpus para restabelecer a decisão do Juízo das execuções.
+Comunique-se.
+Publique-se.
+Intimem-se.
