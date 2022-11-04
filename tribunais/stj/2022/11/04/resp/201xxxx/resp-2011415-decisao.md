@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por DANIELE AUGUSTIN, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Paraná, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. NÃO OCORRÊNCIA. SUSPENSÃO DO PROCESSO PARA AGUARDAR O JULGAMENTO DOS EMBARGOS DE TERCEIRO. LEVANTAMENTO DA SUSPENSÃO CERTIFICADA NOS AUTOS. MANIFESTAÇÃO DO EXEQUENTE NA SEQUÊNCIA. INÉRCIA NÃO CARACTERIZADA. DECISÃO DE 1º GRAU MANTIDA. AGRAVO DE INSTRUMENTO CONHECIDO E NÃO PROVIDO " (E-STJ fl. 58)
+Os embargos de declaração opostos foram rejeitados (e-STJ fl. 76/79)
+Em suas razões recursais, a recorrente aponta violação dos arts. 921, inciso III, §§ 1º e 4º, 203, § 4º, do Código de Processo Civil e 59, da Lei nº 7.357/85, sustentando, em síntese, que deve ser reconhecida a ocorrência de prescrição. Para tanto, afirma que o prazo prescricional passou a fluir a contar do trânsito em julgado dos Embargos de Terceiro e independentemente da certificação do término da suspensão processual.
+Alega violação do artigo 230, do Código de Processo Civil, pois a certificação gerada pelo PROJUDI não tem o condão de alterar o prazo de suspensão fixado pelo Magistrado e ao artigo 1.046, do Código de Processo Civil, pois inobstante a execução seja anterior ao atual Código de Processo Civil, a decisão de suspensão foi proferida já na vigência deste e, considerando a aplicabilidade imediata das normas processuais, aplica-se ao caso o atual Código de Processo Civil.
+Apresentadas contrarrazões às fls. 113/127 (e-STJ)
+É o relatório. Passo a decidir.
+O Tribunal de origem, no que diz respeito à alegação de que teria se consumado o prazo prescricional na presente execução, expressamente consignou o seguinte:
+"Dessa forma, compreende-se que a contagem do prazo para o reconhecimento da prescrição intercorrente nas execuções propostas anteriormente à vigência do CPC/2015 foi solucionada da seguinte forma:
+1) o prazo prescricional inicia-se após o prazo judicial de suspensão do processo ou, na ausência de prazo, após um ano do último ato do processo.
+2) o prazo inicia-se automática e independentemente de intimação do Exequente;
+Veja-se que, como apontado pelo juízo de 1º Grau, o Agravado diligenciou para localizar bens em nome da Executada/Agravante até a oposição dos Embargos de Terceiro nº 0001496-72.2019.8.16.0068, ocasião em que a Execução foi suspensa até o julgamento do processo em apenso, conforme decisão de mov.183.1 em 17/07/2019, com base no artigo 313, inciso V, alínea "a" do CPC/2015.
+pós o término da suspensão certificado no mov. 202 em 11/05/2021, o Exequente/Agravado manifestou-se pela penhora dos direitos hereditários da herdeira, ora Agravante (mov. 205.1), ou seja, no dia seguinte ao término da suspensão do processo.
+Por esta razão, não se vislumbra fundamento suficiente ao reconhecimento da prescrição intercorrente, porque, independentemente da ciência do Exequente quanto ao julgamento dos Embargos de Terceiro, o processo de execução permaneceu suspenso até 11/05/2021 (mov. 202)." (e-STJ, fls. 60/61)
+E acrescentou ao julgar os embargos de declaração:
+"Isso porque, como já mencionado no acórdão, independentemente da ciência do Embargado sobre o julgamento dos Embargos de Terceiro, a execução permaneceu suspensa até 11/05/2021.
+Dessa forma, não há fundamento para o reconhecimento da prescrição, quando o processo ainda estava suspenso nos termos do artigo 313, inciso V, alínea "a" do CPC/2015.
+Diferentemente do que pretende a Embargante, o acórdão partiu da premissa que somente com o término da suspensão da execução é que se iniciou o prazo para contagem da prescrição intercorrente, de modo que não há erro material ou obscuridade, mas interpretação diversa da defendida pela Embargante." (E-STJ fl. 77)
+Como visto, a Corte de origem consignou que não restou configurada a prescrição, pois o feito restou suspenso até 11/05/2021, independentemente da ciência do embargado sobre o julgamento dos embargos de terceiro.
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido, para afastar a conclusão de que o feito executivo permaneceu suspenso até 11/05/2021, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Sobre o tema:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. ART. 921, § 5º, DO CPC. SUSPENSÃO DO PRAZO PRESCRICIONAL. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE INÉRCIA DO EXEQUENTE. IMPOSSIBILIDADE DE RECONHECER A PRESCRIÇÃO INTERCORRENTE. EXAME DA SUPOSTA DESÍDIA. REEXAME DE MATÉRIA FÁTICA. ENUNCIADO 7/STJ. DISSÍDIO JURISPRUDENCIAL SOBRE O MESMO TEMA. PREJUDICADO. 1. A incidência da prescrição intercorrente pressupõe a inércia do exequente por prazo superior ao de prescrição do direito material vindicado, excluindo os casos em que a execução foi paralisada por determinação judicial, como na espécie.
+2. Alterar o entendimento do acórdão recorrido de que não houve desídia do agravado, para o fim de reconhecer a prescrição intercorrente, demandaria, necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo internonão provido.
+(AgInt no REsp n. 1.972.904/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2022, DJe de 19/8/2022.)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
