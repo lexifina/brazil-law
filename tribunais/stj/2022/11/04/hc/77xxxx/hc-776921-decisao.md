@@ -1,0 +1,28 @@
+DECISÃO
+WILLIAM PEREIRA BARROSalegasofrer coação ilegal em decorrência de acórdão da Corte local que, ao denegar a ordem, mantevea sua prisão preventiva.
+A defesa pretende a soltura dopaciente - presopreventivamente desde 4/3/2022 pelos crimes previstos"nos artigos 2º, §§ 2 e 3º, da Lei n. 12.850/2013 (fato 1) e artigo148, c/c 62, inciso I, do Código Penal (fato 2) ambos na forma do art. 29 e 69, caput, do Código Penal"-, sob os argumentos de ausência do preenchimento dos requisitos da prisão cautelar:
+O impetrante argumenta que o paciente sofre constrangimento ilegal porque a decisão de prisão preventiva é genérica e carece de fundamentação, além do que, não apresenta motivos contemporâneos que justifiquem a medida extrema, porquanto o decreto ocorreu "exatamente 7 meses após os fatos narrados na exordial", tampouco a insuficiência pormenorizada da aplicação de outras disposições cautelares diversas da clausura. Alega que a gravidade abstrata dos delitos imputados ao paciente não serve para justificar a prisão e superar o estado constitucional de inocência que protege todo cidadão. Destaca que não existem indícios suficientes da participação do paciente nos atos criminosos que lhe são imputados. Ao arremate, pleiteia o deferimento da liminar, com a posterior concessão definitiva da ordem, para imediata revogação da prisão preventiva do paciente, ou subsidiariamente, sua substituição por medidas cautelares diversas da clausura (Evento n. 1, inicial com 13 páginas).
+O Parquet Federal oficiou pelo não conhecimento do writ.
+Decido.
+O Juízo de Direito, ao decretar a constrição cautelar, ofereceu os seguintes fundamentos:
+PEDIDO DE PRISÃO PREVENTIVA Nº 5000962-13.2022.8.24.0069/SC
+REQUERENTE: POLÍCIA CIVIL DO ESTADO DE SANTA CATARINA
+ACUSADO: WILIAN PEREIRA BARROS
+DESPACHO/DECISÃO
+Trata-se de representação de prisão preventiva apresentada pela autoridade policial em desfavor de Willian Pereira Barros, atribuindo a este a suposta prática de coordenação do crime de homicídio na forma tentada contra Caroline Pereira Florêncio e de integrar organização criminosa, sustentando, ademais, a subsistência dos requisitos necessários para a imposição da medida de segregação provisória (ev. 1).
+O Ministério Público se manifestou pelo acolhimento da representação (ev. 6). Certificados os antecedentes do representado, vieram os autos conclusos para decisão.
+ ..
+Ao que se infere dos autos, o fumus comisso delicti encontra-se bem delineado e está estampado no relatório de investigação das fls. 3/15 do ev. 1; bem como declarações da vítima constantes nos vídeos 3 a 6 do ev. 1, nos quais a ofendida aponta o representado como agente determinador do evento criminoso. Tais elementos, pois, demonstram, nesse estágio embrionário, a existência de materialidade e os indícios suficientes de autoria.
+De igual sorte, atentando-se ao periculum libertais, observa-se necessidade de se guarnecer a ordem pública. Isso porque, ao que consta, o representado é integrante de facção criminosa responsável pelo contumaz cometimento de uma pletora de delitos em todo estado de Santa Catarina, de modo que, ademais, aquele teria se consorciado, em elo subjetivo, para dar cabo da vida da vítima, de forma premeditada e com expedientes a impossibilitarem a sua defesa, emaçam com caráter de execução sumária.
+Não fosse só o prefalado, tem-se que o representado possui extenso histórico criminal pela prática de toda sorte de crimes de natureza grave, inclusive de homicídio (ev. 11).
+Bem por isso, há a probabilidade concreta de que, em liberdade, o representado permaneça delinquindo, dada sua notória periculosidade, inclusive atentando novamente contra a vida da vítima que sobreviveu.
+ ..
+Além disso, vê-se que a autoridade policial noticiou que representado atualmente tem paradeiro desconhecido, de maneira que a medida serve, igualmente, como garantia de aplicação da lei penal. Nessa toada:  ..
+Ante o exposto, nos termos dos art. 311, e seguintes, do CPP, decreto a prisão preventiva de Willian Pereira Barros (conhecido como "Caxias"), a fim de garantir a ordem pública e assegurar a aplicação da lei penal.  ..  (fls. 23-27)
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente para decretar a prisão preventiva, ao salientarque"o representado é integrante de facção criminosa responsável pelo contumaz cometimento de uma pletora de delitos em todo estado de Santa Catarina, de modo que, ademais, aquele teria se consorciado, em elo subjetivo, para dar cabo da vida da vítima, de forma premeditadae com expedientes a impossibilitarem a sua defesa, em ação com caráter de execução sumária".
+Ressaltou, ainda, que "o representado possui extenso histórico criminal pela prática de toda sorte de crimes de natureza grave, inclusive de homicídio", consignando, ainda, que "a autoridade policial noticiou que representado  então tinha paradeiro desconhecido".
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
