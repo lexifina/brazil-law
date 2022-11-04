@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra decisão,de minha relatoria, em que conheciparcialmente do recurso especial e, nessa extensão, neguei-lhe provimentoante o óbice da Súmula 83 do STJ (e-STJ fls. 298/301).
+Em suas razões, a parte agravante sustenta que impugnou devidamente o aresto recorrido, quanto àausência de interesse de agir da parte autora, visto que o julgado reconheceu tempo de contribuição exercido por ela após o encerramento do processo administrativo e antes do ajuizamento da ação, sem apreciação prévia da autarquia, não se amoldando o caso ao Tema 995 do STJ.
+Requer, assim, a reconsideração do decisum impugnado ou a sua submissão ao Órgão colegiado.
+Intimada, a parte agravada formulou impugnação às e-STJ fls. 313/317, postulando a manutenção da decisão.
+Passo a decidir.
+A Primeira Seção do Superior Tribunal de Justiça afetou à sistemática dos recursos repetitivos o Tema 1.124, nos seguintes termos: "Definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS: se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária".
+A ementa sintetizou o julgado com o seguinte teor:
+ROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. PREVIDENCIÁRIO. CONCESSÃO OU REVISÃO DE BENEFÍCIO. TERMO INICIAL DOS EFEITOS FINANCEIROS. REQUERIMENTO ADMINISTRATIVO. CITAÇÃO. MULTIPLICIDADE DE PROCESSOS. ABRANGÊNCIA DA SUSPENSÃO. ART. 1.037, II, DO CPC. PROPOSTA DE AFETAÇÃO ACOLHIDA.
+1. Delimitação da controvérsia: "Definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS: se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária".
+2. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I c/c art. 256-E do RISTJ, na redação da Emenda Regimental 24, de 28.9.2016).
+3. Determinada a suspensão do trâmite de todos os processos em grau recursal, tanto no âmbito dos Tribunais quanto nas Turmas Recursais dos Juizados Especiais Federais, cujos objetos coincidam com o da matéria afetada (art. 1.037, II, do CPC).
+4. Acolhida a proposta de afetação do Recurso Especial como representativo da controvérsia, para que seja julgado na Primeira Seção (afetação conjunta dos Recursos Especiais 1.905.830/SP, 1.913.152/SP e 1.912.784/SP).
+Assim, entendo que a medida que se desenha mais adequada é o retorno dos autos ao Tribunal de origem para que lá seja esgotada a jurisdição e promovido o juízo de adequação diante do que for decidido pelo STJ.
+Realizada essa providência, que representa o exaurimento da instância ordinária, é que os recursos especiais deverão ser encaminhados para este Tribunal Superior para, se for o caso, serem analisadas as questões jurídicas neles suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, TORNO SEM EFEITO a decisão de e-STJ fls. 298/301e determino o sobrestamento do julgamento dosrecursosespeciaisaté a realização do juízo de conformação pela Corte de origem com o acórdão proferido a ser proferido no aludido recurso especial repetitivo, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja efetivada.
+Publique-se. Intimem-se.
