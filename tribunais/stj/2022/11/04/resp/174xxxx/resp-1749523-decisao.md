@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por COMPANHIA ENERGÉTICA DO CEARÁcom arrimo na alínea "a" do permissivo constitucional contra v. acórdão exarado pelo eg. Tribunal de Justiça do Estado do Ceará (TJ-CE), assim ementado (fls. 320):
+"EMENTA: APELAÇÃO CÍVEL. FALÊNCIA. HABILITAÇÃO DE CRÉDITO. CONFISSÃO DE DÍVIDA. COMPROVAÇÃO DA ORIGEM. NECESSIDADE. O instrumento particular de confissão de dívida, por si só, não se constitui como elemento suficiente a comprovar a origem do crédito perseguido pela parte postulante, cuja causa jurídica inerente ao pacto entabulado entre as partes não restou demonstrada nos autos . Em se tratando de falência, os créditos devem restar escorreitamente comprovados, de sorte a não prejudicar aqueles credores cujos créditos foram admitidos no concurso universal, pois cabalmente demonstrados, o que de modo algum é o caso dos autos, no qual a origem da dívida é alegada, mas não comprovada. 5. Portanto, não sendo atendidos os requisitos a que alude o artigo 82 ,§ 1º, do Decreto Lei 7.661/45, descabe a habilitação pretendida. Apelação conhecida e provida."
+Nas razões do apelo nobre (fls. 325-328),COMPANHIA ENERGÉTICA DO CEARÁ aponta ofensa ao art. 82, §1º, do Decreto Lei n. 7.661/45, ao argumento, entre outros, de que "(..)o pedido de habilitação adveio de uma ação de execução forçada que, no caso, atendeu a todos os seus requisitos, sendo o referido pedido de habilitação o único meio encontrado para que a recorrida arcasse com suas obrigações" (fls. 327).
+Assevera, também, que foram preenchidos os requisitos do referido artigo, quais sejam "(..)a quantia certa do crédito"; "a sua origem (inadimplência das faturas de energia)"; "relativamente às garantias e às datas de que trata o art. 82, cumpre asseverar que não foram prestadas por parte da massa falida;" e "não há bens e títulos da massa falida em poder da Habilitante ora peticionante, bem como não forma recebidos pagamentos por conta" (fls. 327).
+Aduz, ainda, que "(..)a hipótese da não habilitação de crédito nos autos do processo de falência da recorrida, seria dar azo ao enriquecimento sem justa causa, posto que não teria a ora peticionante condições de reaver o que lhe é devido em momento posterior à liquidação da massa falida" (fls. 327).
+Admitido o recurso (decisão às fls. 334-336), ascenderam os autos a esta eg. Corte.
+É o relatório. Passo a decidir.
+O recurso em apreço não merece prosperar.
+No caso, o eg. TJ-CE, com arrimo no acervo fático-probatório carreado aos autos, reformando sentença, indeferiu o pedido de habilitação de crédito no valor de R$ 21.699,42 (vinte e um mil, seiscentos e noventa e nove reais e quarenta e dois centavos), pretendido pela ora Recorrente, assentando que não foram preenchidos os requisitos do art. 82, § 1º,do Decreto Lei n. 7.661/45. A título elucidativo, transcreve-se o seguinte excerto do v. acórdão estadual:
+"O instrumento particular de confissão de dívida, assim como planilhas de cálculos, por si só, não se constituem como elementos suficientes a comprovar a origem do crédito perseguido pela parte postulante, cuja causa jurídica inerente ao pacto entabulado entre as partes não restou demonstrada nos autos .
+Em se tratando de falência, os créditos devem restar indubitavelmente comprovados, de sorte a não prejudicar aqueles credores cujos créditos foram admitidos no concurso universal, pois cabalmente demonstrados, o que de modo algum é o caso dos autos, no qual a origem da dívida é alegada, mas não comprovada.
+Nos termos do art. 82 da antiga Lei de Falências, para que se proceda à habilitação de crédito, o crédito deve ser certo e determinado, veja-se:
+"Art. 82. Dentro do prazo marcado pelo juiz, os credores comerciais e civis do falido e, em se tratando de sociedade, os particulares dos sócios solidariamente responsáveis, são obrigados a apresentar, em cartório, declarações por escrito, em duas vias, com a firma reconhecida na primeira, que mencionem as suas residências ou as dos seus representantes os procuradores no lugar da falência, a importância exata de seu crédito, a sua origem, a classificação que, por direito, lhes cabe, as garantias que lhes tiverem sido dadas, e as respectivas datas, e que especifique, minuciosamente, os bens e títulos do falido em seu poder, os pagamentos recebidos por conta e o saldo definitivo na data da declaração da falência, observando-se o disposto no art. 25.
+No mesmo sentido o disposto no art. 9º da Lei nº. 11.101/05, verbis:
+"Art. 9º A habilitação de crédito realizada pelo credor nos termos do art. 7º, § 1º, desta Lei deverá conter:
+I - o nome, o endereço do credor e o endereço em que receber comunicação de qualquer ato do processo;
+II - o valor do crédito, atualizado até a data da decretação da falência ou do pedido de recuperação judicial, sua origem e classificação;
+III - os documentos comprobatórios do crédito e a indicação das demais provas a serem produzidas;
+IV - a indicação da garantia prestada pelo devedor, se houver, e o respectivo instrumento;
+V - a especificação do objeto da garantia que estiver na posse do credor.
+Parágrafo único. Os títulos e documentos que legitimam os créditos deverão ser exibidos no original ou por cópias autenticadas se estiverem juntados em outro processo."
+(..)
+Portanto, não sendo atendidos os requisitos a que alude o artigo 82, § 1º, do Decreto Lei 7.661/45, descabe a habilitação pretendida".
+(fls. 311-319 - g. n.)
+Nesse contexto, a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria revolvimento de matéria fático-probatória, inviável em sede de recurso especial, nos termos da Súmula n. 7/STJ.
+Com estas considerações, conclui-se que o apelo não merece prosperar.
+Ante o exposto, com arrimo no art. 255, §4º, I, do RI-STJ, não conheço do recurso especial.
+Publique-se.
