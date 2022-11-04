@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por RENATA CRISTINA NASSI CRUZ e OUTRO, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO Ação monitória em fase de cumprimento de sentença Rejeição da impugnação Impenhorabilidade do bem de família Coexecutada que foi citada neste e em outros processos em endereço diverso do imóvel penhorado Alegação de impenhorabilidade da pequena propriedade rural, nos termos do art. 5º, inc. XXVI, da CF Ausência de prova de que o crédito exequendo foi utilizado pelos embargantes na exploração da atividade rural ou pecuária no próprio bem Penhorabilidade do bem reconhecida Decisão mantida Agravo improvido - Maioria de votos." (e-STJ,fl. 152)
+Embargos de declaração rejeitados (e-STJ fl.458/464)
+Em suas razões recursais, a recorrente aponta violação dos arts. 355, I, 369 e 370 do CPC, e divergência jurisprudencial, sustentando, em síntese, que houve cerceamento de defesa, pois houve julgamento antecipado da lide sem que tenha sido oportunizado àrecorrente a produção de quaisquer provas admitidas em direito, especialmente oitiva de testemunhas, diligencias de constatação pelo Oficial de Justiça e a juntada de outros documentos, com objetivo de comprovar que a pequena propriedade é trabalhada pela família.
+Apresentadas contrarrazões às fls.468/472 (e-STJ)
+É o relatório. Passo a decidir.
+O Tribunal de origem, ao tratar da impenhorabilidade do alegado bem de família, assim concluiu:
+"Extrai-se, portanto, da leitura dos dispositivos acima transcritos que a pequena propriedade rural somente será considerada impenhorável se estiverem presentes três requisitos, quais sejam: 1º) a propriedade seja pequena, conforme definida em lei; 2º) a propriedade seja trabalhada pela família e 3º) os débitos sejam decorrentes de atividade produtiva nela desenvolvida.
+In casu, não há dúvida de que a propriedade rural penhorada nos autos da execução é pequena, consoante se verifica da matrícula nº 3.728 do Cartório de Registro de Imóveis de Palestina-SP (fls. 99 dos autos originários).
+No entanto, não há prova de que o crédito exequendo decorre de mútuo contraído pelos executados para o desenvolvimento da atividade produtiva desenvolvida no próprio imóvel rural, pelo contrário, a dívida aqui resulta de cheque prescrito não pago, sem vinculação com qualquer atividade eventualmente exercida pelos agravantes.
+Assim, ante a ausência de prova de dois dos três requisitos constitucionais exigidos, conforme acima mencionado, imperioso manter a subsistência da penhora incidente sobre o bem constrito de propriedade dos agravantes." (e-STJ fl. 157/158)
+Contudo, tal fundamento - inexistência de vinculação entre a dívida e a atividade produtiva -, autônomo e suficiente à manutenção do v. acórdão recorrido, não foi impugnado nas razões do recurso especial, que se limitou a pleitear a produção de provas com objetivo de comprovar que a pequena propriedade é trabalhada pela família, mas nada tratando sobre a natureza da dívida.
+Convoca-se, na hipótese, a incidência da Súmula 283/STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Neste sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. NÃO IMPUGNAÇÃO ESPECÍFICA DAS RAZÕES DO ACÓRDÃO ESTADUAL. INCIDÊNCIA DO VERBETE Nº 283/STF.EXECUÇÃO. CÉDULA RURAL. ARGUIÇÃO DE EXCESSO DE COBRANÇA. ANÁLISE. SÚMULAS 5 E 7/STJ.
+1. Ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo, aplica-se, por analogia, o óbice da Súmula nº 283, do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 687.997/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/11/2018, DJe 13/11/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE COLETIVO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO ATACADOS. SÚMULA 283/STF. RESCISÃO UNILATERAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO. IMPOSSIBILIDADE. PRECEDENTES. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência e/ou incolumidade física, como no caso em apreço, no qual a segurada diagnosticada com câncer se encontra em tratamento oncológico.
+3. Agravo interno não provido.
+(AgInt no AREsp 1298878/SP, de minha Relatoria, QUARTA TURMA, julgado em 23/10/2018, DJe 31/10/2018)
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
