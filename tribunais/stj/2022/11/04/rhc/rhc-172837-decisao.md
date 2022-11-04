@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido liminar, interposto contra acórdão assim ementado (fl. 180):
+HABEAS CORPUS. FURTO QUALIFICADO PELO EMPREGO DE CHAVE FALSA. PRINCÍPIO DA HOMOGENEIDADE. NÃO CONHECIMENTO. PRISÃO PREVENTIVA FUNDAMENTADA. 1. Inviável a análise em sede de habeas corpus de questões que demandem exame aprofundado de provas e fatos. 2. Comprovados os motivos que autorizam a prisão preventiva e estando a decisão fundamentada, mantém-se a custódia, mostrando-se insuficientes no momento a substituição por cautelares diversas da prisão (CPP, arts. 312 e 319). ORDEM PARCIALMENTE CONHECIDA E, NESTA EXTENSÃO, DENEGADA.
+Consta dos autos que o recorrente foi preso preventivamente pela suposta prática do crime descrito noart.155, §4º, inciso III, do Código Penal.
+No presente recurso, aduz a defesaa ausência dos requisitos autorizadores da prisão preventiva.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva ou a substituição da custódia pormedidas cautelares diversas da prisão.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A prisão preventiva foi decretada nos seguintes termos (fl. 79 e 84):
+Compulsando, detidamente, o opúsculo objurgado extraio como impossível o restabelecimento do ius libertatis de Ernandes de Souza Araújo.
+Verifico que a prisão processual, por ora, é medida imprescindível. A necessidade da custódia preventiva é notória e, ademais, encontram-se satisfeitos nos autos os pressupostos que lhe outorgam legalidade e legitimidade.
+Em consulta à certidão de antecedentes criminais jungida no movimento nº 03, extraio que Ernandes de Souza Araújo responde a outro(s) procedimento(s) em tramitação na(o) 1ª UPJ dos Crimes Punidos com Reclusão de Goiânia (autos nº 0061209-40.2019.8.09.0175, 5506319-56.2020.8.09.0051, 5247119-68.2021.8.09.0051 e 5190716-16.2020.8.09.0051 - por receptação e furto), 1ª Vara Criminal de Senador Canedo-GO (autos nº 0000705-37.2020.8.09.0174 - por receptação e furto), 2º Juizado Especial Criminal de Goiânia (autos nº 5076316-86.2020.8.09.0051 - por crime de trânsito), 2ª Vara Criminal de Senador Canedo-GO (autos nº 5521586-87.2020.8.09.0174 - por furto qualificado), Juizado Especial Criminal de Senador Canedo-GO (autos nº 5007171-25.2021.8.09.0174 - por crime de trânsito), sendo primário.
+(..)
+Ex positis, consoante o disposto nos artigos 312 e 313 do Código de Ritos em vigor, converto a segregação flagrancial em preventiva, tutelando a garantia da ordem pública, a conveniência da instrução criminal e visando a futura aplicação da lei penal.
+Como se vê, consta no decreto prisional fundamentação idônea,destacando-se areiteração delitiva do recorrente, contra o qual há 8 procedimentos pela prática dos crimes de receptação, furto e crime de trânsito.
+A periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
