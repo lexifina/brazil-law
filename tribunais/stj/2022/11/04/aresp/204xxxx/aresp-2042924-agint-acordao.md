@@ -1,0 +1,65 @@
+EMENTA
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE INADMITIU RECURSO ESPECIAL. FUNDAMENTAÇÃO CONSTITUCIONAL. ARGUMENTO INATACADO. SÚMULA 182/STJ.
+1. A decisão monocrática da Presidência do STJ assentou: "Na espécie, é incabível o recurso especial porque a tese recursal é eminentemente constitucional, ainda que se tenha indicada nas razões do recurso especial violação ou interpretação divergente de dispositivos de lei federal" (fl. 1285, e-STJ).
+2. No presente Recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não impugna os fundamentos do mérito da decisão recorrida, que não conheceu do Agravo em Recurso Especial por falta de impugnação da decisão de admissibilidade.
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. De todo modo, ainda que não por esse fundamento, destaque-se a existência de precedentes desta Turma no exato sentido da decisão recorrida, isto é, de que não é possível o enfrentamento do tema na via do Recurso Especial, considerando a natureza constitucional do debate (AgInt no AREsp 2.054.514/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 22.6.2022; AgInt no AREsp 2.054.306/SP, Rel. Min. Og Fernandes, Segunda Turma, DJe de 16.5.2022).
+6. Agravo Interno não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, não conheceu do agravo interno, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Humberto Martins."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão monocrática da Presidência do STJ (fls. 1.284-1.286, e-STJ), que não conheceu do Agravo em Recurso Especial, com base no entendimento:
+Na espécie, é incabível o recurso especial porque a tese recursal é eminentemente constitucional, ainda que se tenha indicada nas razões do recurso especial violação ou interpretação divergente de dispositivos de lei federal.
+A agravante sustenta, em suma:
+Isso porque, como foi alegado e exaustivamente destacado nas razões do agravo de instrumento, o atual entendimento do Colendo Supremo Tribunal Federal é em sentido diametralmente oposto ao sustentado no venerando acórdão recorrido, assim como à Súmula n.º 97, dessa Colenda Corte Superior, pois, como se sabe, a transposição para o regime jurídico- administrativo (estatutário) cessa, definitivamente, a competência da Justiça do Trabalho para apreciar as pretensões de servidores públicos contra a Administração, ainda que o pedido se refira ao período celetista.
+Exatamente neste sentido, foi o entendimento exarado por esse Excelso Supremo Tribunal Federal, no recente julgamento da Ação Direta de Inconstitucionalidade n.º 3.395, realizado no dia 15/04/2020, devidamente publicado na Imprensa Oficial em 01/07/2020 (fl. 1293, e-STJ).
+Pleiteia a reconsideração do decisum agravado ou a submissão do Recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE INADMITIU RECURSO ESPECIAL. FUNDAMENTAÇÃO CONSTITUCIONAL. ARGUMENTO INATACADO. SÚMULA 182/STJ.
+1. A decisão monocrática da Presidência do STJ assentou: "Na espécie, é incabível o recurso especial porque a tese recursal é eminentemente constitucional, ainda que se tenha indicada nas razões do recurso especial violação ou interpretação divergente de dispositivos de lei federal" (fl. 1285, e-STJ).
+2. No presente Recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não impugna os fundamentos do mérito da decisão recorrida, que não conheceu do Agravo em Recurso Especial por falta de impugnação da decisão de admissibilidade.
+3. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+4. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+5. De todo modo, ainda que não por esse fundamento, destaque-se a existência de precedentes desta Turma no exato sentido da decisão recorrida, isto é, de que não é possível o enfrentamento do tema na via do Recurso Especial, considerando a natureza constitucional do debate (AgInt no AREsp 2.054.514/SP, Rel. Min. Francisco Falcão, Segunda Turma, DJe de 22.6.2022; AgInt no AREsp 2.054.306/SP, Rel. Min. Og Fernandes, Segunda Turma, DJe de 16.5.2022).
+6. Agravo Interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 4 de abril de 2022.
+A decisão monocrática da presidência do STJ assentou (fl. 1285, e-STJ):
+Na espécie, é incabível o recurso especial porque a tese recursal é eminentemente constitucional, ainda que se tenha indicada nas razões do recurso especial violação ou interpretação divergente de dispositivos de lei federal.
+Com efeito, o Superior Tribunal de Justiça já decidiu no seguinte sentido: "Finalmente, ressalto que, apesar de ter sido invocado dispositivo legal, o fundamento central da matéria objeto da controvérsia e as teses levantadas pelos recorrentes são de cunho eminentemente constitucional. Descabe, pois, ao STJ examinar a questão, porquanto reverter o julgado significa usurpar competência do STF". (REsp 1.655.968/PE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 2/5/2017.)
+No presente Recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não impugna os fundamentos do mérito da decisão recorrida, que não conheceu do Agravo em Recurso Especial por falta de impugnação da decisão de admissibilidade.
+A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Assim, não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nessa linha, os precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. (PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. PORTARIA DO DETRAN QUE INSTITUIU O MANUAL DE PROCEDIMENTO DE REGISTO E LICENCIAMENTO DE VEÍCULOS. GRAVAME DE RESERVA DE DOMÍNIO. ANOTAÇÃO QUE SÓ PODE SER CONSIGNADA EM FAVOR DO ANTERIOR PROPRIETÁRIO. EXIGÊNCIA LEGAL. ART. 123, I, DO CTB. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SUMULA 282 E 356 DO STF). FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INTELIGÊNCIA DA SÚMULA 182/STJ.
+1. Revela-se inviável a análise do Agravo Regimental, cuja fundamentação não impugna especificamente os fundamentos da decisão agravada, in casu, a ausência de prequestionamento do dispositivo legal apontado como violado ante a incidência inarredável da Súmula 182 do STJ, que preceitua o seguinte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 2. Agravo Regimental não conhecido. (AgRg no REsp 753.564/SC, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 19/04/2007, DJ 21/05/2007 p. 545)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. CONTESTAÇÃO NÃO APRECIADA. MEDIDA CAUTELAR. INCIDENTE PROCESSUAL.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada torna inviável o agravo regimental. Aplicação da Súmula 182 do Superior Tribunal de Justiça.
+1. É manifestamente inadmissível o agravo cujas razões recursais não atacou o fundamento da decisão impugnada, ante à ausência de pressuposto recursal genérico.
+2. Incidência da Súmula 182/STJ.
+3. Agravo regimental não conhecido. (AgRg no REsp 840.007/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 08/05/2007, DJ 18/05/2007 p. 319)
+CREDITAMENTO DE ICMS. AGRAVO DE INSTRUMENTO. INADMISSÃO DO RECURSO ESPECIAL SÚMULA Nº 07/STJ. ARGUMENTO NÃO REFUTADO. SÚMULA Nº 182/STJ.
+I - O agravante, em suas razões recursais, não atacou o fundamento constante da decisão impugnada, relativo ao fato de que a revisão da decisão turmária importaria no óbice da súmula 7/STJ, e verificando que tal fundamento é suficiente de per si para a inadmissão do agravo, tem-se inviabilizado o seguimento do agravo de instrumento, haja vista o teor da súmula 182/STJ.
+II - Agravo regimental improvido. (AgRg no Ag 752.308/SP, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, julgado em 27/03/2007, DJ 26/04/2007 p. 217)
+PROCESSUAL CIVIL. FUNDAMENTO INATACADO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 182 E 211/STJ.
+1. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" (Súmula 211/STJ).
+2. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+3. Agravo regimental improvido. (AGRESP 849.848/PB, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 05/10/2006, DJ 16/10/2006 p. 355)
+De todo modo, ainda que não por esse fundamento, destaque-se a existência de precedentes desta Turma no exato sentido da decisão recorrida, de que não é possível o enfrentamento do tema na via do Recurso Especial, considerando a natureza constitucional do debate:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPETÊNCIA. JUSTIÇA COMUM OU DO TRABALHO. MATÉRIA CONSTITUCIONAL. APLICAÇÃO DO ART. 1.032 DO CPC. RECURSO IMPROVIDO.
+1. Apesar da indicação do art. 64, § 1º, do CPC como violado, o recurso especial possui como fundamento principal o entendimento do Supremo Tribunal Federal acerca da matéria, notadamente o exposto na ADI n. 3.395.
+2. Assim, a verificação dos argumentos levantados pela recorrente implica análise de contrariedade a preceitos constitucionais, inviável em recurso especial, sob pena de usurpação da competência do Supremo Tribunal Federal, ao qual cabe avaliar se houve a infringência aduzida.
+3. Aplicação do art. 1.032 do CPC/2015.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.054.306/SP, rel. Min. Og Fernandes, Segunda Turma, julgado em 9/5/2022, DJe de 16/5/2022.)
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. SISTEMA REMUNERÁTORIO E BENEFÍCIOS. ADICIONAL DE HORA EXTRA. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. DISPOSITIVO CONSTITUCIONAL. COMPETÊNCIA DO STF.
+I - Na origem, trata-se de agravo de instrumento em desfavor de decisão interlocutória prolatada pelo douto Juízo de Direito da Vara da Fazenda Pública da Comarca de Guarujá, que declarou e decretou a incompetência absoluta da Justiça estadual para conhecer da originária ação de cobrança, determinando a remessa dos autos para a Justiça Especializada do Trabalho. No Tribunal a quo, negou-se provimento ao recurso.
+II - Não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, posto que seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+III - Não cabe ao STJ, a pretexto de analisar alegação de violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, examinar a omissão da Corte a quo quanto à análise de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao STF, no âmbito do recurso extraordinário.
+IV - Agravo interno improvido.
+(AgInt no AREsp n. 2.054.514/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+Por tudo isso, não conheço do Agravo Interno.
+É como voto.
