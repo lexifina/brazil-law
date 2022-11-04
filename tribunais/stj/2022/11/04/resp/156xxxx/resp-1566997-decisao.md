@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de recurso especial interposto por GABRIEL AGOSTINI, MARCOS VINICIUS AGOSTINI, RODRIGO AGOSTINI e ROSÂNGELA MILESI AGOSTINI, com fundamento no art. 105, inciso III, letrasa e c,da Constituição Federal, contra acórdão do TRF da 4ª Região, assim ementado (fl. 367):
+SFH. SEGURO. MORTE. DOENÇA PRÉ-EXISTENTE. CLÁUSULA DE EXCLUSÃO.
+Confrontando o atestado de óbito e os laudos médicos acostados aos autos, bem como as cláusulas do contrato, o mutuário enquadra-se na cláusula de exclusão da cobertura securitária em face de doença preexistente ao mesmo. Sendo assim, tal sinistro está excluído da cobertura securitária.
+Opostos embargos de declaração, foram rejeitados(fl. 388):
+EMBARGOS DECLARATÓRIOS. PREQUESTIONAMENTO. OMISSÃO.
+1. Como visto, a inversão do ônus da prova é medida excepcional e, quando deferida, deve ser feita expressamente. Assim, não considero que a intimação da ré para juntada de documentos tenha invertido o ônus da prova nos termos do art. 6º da Lei nº 8.078/90.
+2. O prequestionamento não resulta da circunstância de a matéria haver sido arguida pela parte recorrente, mas sim dos debates e decisões do Colegiado, emitindo juízo sobre o tema, fundado em razões bastantes a este desiderato.
+Afirmam os recorrentes que há violação do art. 535, I e II, do CPC/1973, argumentando ser omisso o julgado quanto à inversão do ônus da prova e aplicação do CDC, que, segundo sustentam, já teria sido deferida pelo juiz, em antecipação de tutela. Dizem ainda que não teria sido levado em conta julgado do STJ, cuja tese seria aplicável à espécie, como também que haveria contradição no julgamento quanto à doença pré-existente.
+No mérito, sustentam violação dos arts.3º, §2º e 6º, VIII, do CDC e do art. 333 do CPC/1973.
+Verberam queo caso concreto autoriza a incidência do CDC e que estão presentes os requisitos para a inversão do ônus da prova, negado pelo acórdão.
+Salientam que o segurado teria informado a doença pré-existente no ato da assinatura do contrato e que cabia à parte contrária, nos termos do art. 333 do CPC/1973, provar o contrário.
+Foram apresentadas contrarrazões (fls. 435-453).
+O recurso foi admitido na origem (fl. 457).
+É  o  relatório.  Decido.
+De início, é iterativo o entendimento desta Corte de que não é omisso o julgado que decide a contenda, ainda que em sentido contrário à pretensão da parte, notadamente quando, como no caso concreto, os fundamentos expendidos bastam a justificar as conclusões adotadas.
+Confira-se(fls. 385-386):
+A hipótese vertente não diz respeito à uma relação bancária propriamente dita, mas sim a uma relação estabelecida com uma instituição financeira regida pelo Sistema Financeiro da Habitação com cobertura securitária obrigatória, onde a parte autora buscou um financiamento para aquisição da casa própria.Por esta razão, a aplicação do Código de Defesa do Consumidor não é regra.
+Assim, a invocação genérica e abstrata de necessidade de proteção ao consumidor não tem nenhum efeito prático quando não verificada prática abusiva pelo agente financeiro, nem demonstrada desvantagem exagerada, enriquecimento ilícito, nulidade de cláusula contratual, ofensa aos princípio da transparência e da boa-fé e, principalmente, ônus excessivo, o que será analisado a seguir.
+Não tendo o mutuário comprovado o atendimento dos pressupostos aludidos no inc. VIII do art. 6ºda Lei nº 8.078/90 (verossimilhança da alegação ou hipossuficiência da parte), não lhe assiste o direito à inversão do ônus da prova.
+Como visto, a inversão do ônus da prova é medida excepcional e, quando deferida, deve ser feita expressamente.
+Assim, não considero que a intimação da ré para juntada de documentos tenha invertido o ônus da prova nos termos do art. 6º da Lei nº 8.078/90.
+Assim, exemplificativamente, seguem os julgados:
+PROCESSO CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. PREQUESTIONAMENTO. FUNDAMENTO NÃO ATACADO. CONSUMIDOR. CARACTERIZAÇÃO DA RELAÇÃO DE CONSUMO. SUCUMBÊNCIA MÍNIMA.
+I - Por aplicação analógica do art. 515, § 1º, do Cód. de Proc. Civil, é possível, em determinadas situações, mormente em processos de vários lustros, conhecer, neste Tribunal, de matéria não enfrentada pelo Tribunal de origem em Embargos de Declaração, desde que tenha havido válido contraditório como garantia das partes (CF, art. 5º, LV).
+II - Cumpre ao recorrente, nas razões do próprio especial, evidenciar de forma articulada os vícios de omissão, contradição e obscuridade que alega presentes no Acórdão recorrido.
+III - Não se viabiliza o especial pela indicada ausência de prestação jurisdicional, porquanto verifica-se que a matéria em exame foi devidamente enfrentada, emitindo-se pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão dos recorrentes. A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+IV - A jurisprudência desta Corte tem adotado o critério do destinatário final do produto ou serviço para a caracterização do consumidor. Precedentes.
+VI - Não merece conhecimento o recurso especial quanto ao ponto em que deixa de atacar de forma fundamentada todos os fundamentos suficientes do Acórdão. Incidência da Súmula 283 do Supremo Tribunal Federal.
+VII - No que concerne à alegada ofensa do artigo 21 do Código de Processo Civil, observa-se que o Tribunal de origem ratificou sentença que havia condenado a recorrente à integralidade dos ônus sucumbenciais por identificar hipótese de sucumbência mínima. A pretensão recursal de que sejam repartidos os referidos encargos esbarra, portanto, na Súmula 7 desta Corte. Precedentes.
+Recurso Especial improvido.
+(REsp n. 956.695/RS, relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 15/12/2009, DJe de 18/12/2009)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. NEGATIVA DE SEGUIMENTO DE PARTE DO ESPECIAL. ARTIGO 1.030, INCISO I, ALÍNEA "B", DO CPC. AGRAVO INTERNO NO TRIBUNAL DE ORIGEM. NOVO RECURSO DIRIGIDO AO STJ. NÃO CONHECIMENTO. 2. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. OMISSÃO. ART. 535, II, DO CPC/1973. NÃO CARACTERIZAÇÃO. 3. "ASTREINTES". TERMO FINAL. CONFIRMAÇÃO POR SENTENÇA. INOVAÇÃO RECURSAL. 4. ACÓRDÃO RECORRIDO. FUNDAMENTO SUFICIENTE PARA SUA MANUTENÇÃO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 283 DO STF. DECISÃO MANTIDA.
+1. É inadmissível recurso dirigido ao STJ contra acórdão do Tribunal local que, no julgamento de agravo interno, mantêm a decisão de negativa de seguimento de recurso especial anterior, por considerar que o entendimento da está de acordo com a orientação firmada no julgamento de recurso especial repetitivo.
+2. Não há omissão quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo, apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como ora verificado.
+3.1. Ao contrário do alegado, não houve revogação da tutela antecipada, e sim sua confirmação pela sentença, motivo pelo qual não prospera a tese de inexigibilidade da multa diária a partir de sua prolação.
+3.2. Tese não tratada pelo acórdão recorrido nem arguida no recurso especial (ou exposta em suas contrarrazões) e invocada apenas em recurso posterior não pode ser examinada, em virtude da preclusão consumativa.
+4. O especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283 do STF, aplicada por analogia.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 914.643/SP, relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 30/5/2022, DJe de 2/6/2022)
+Quanto ao REsp 765.471/RS, não tem aplicação à espécie, porquanto, além de não tratar de seguro vinculado a contrato de mútuo para aquisição da casa própria, como ocorre na espécie, concluiu, diferentemente do acórdão recorrido, que a morte do segurado não se deu pela doença que já era portador, mas por outras causas. In casu, o Tribunal de origem afirma que a doença pré-existente foi a causa da morte (fls. 365-366):
+O atestado de óbito do autor indica que a causa da morte foi "Infarto agudo do miocárdio, trombose das coronárias. Tipo de morte: natural." (evento 29, OUT4).
+O prontuário médico do autor indica que desde 08/04/2010 o autor sofria de angina, que resultaram em procedimento de revascularização do miocárdio com a implantação de pontes de safena (evento 29, OUT3).
+Estampa-se que a doença cardíaca que por final o vitimou já se fazia sentir em 2010, a ponto de ser necessária a implantação de pontes de safena.
+Deste modo, à data da contratação, 30/08/2011, o autor já era paciente cardíaco, ou seja, a doença preexistiu à contratação.
+Conclui-se que, já no momento da contratação, não estava coberto o sinistro que veio a vitimar o autor.
+Não se perquire aqui acerca da existência ou não de má-fé na conduta do autor. Todavia, por outro lado, não se pode superar a circunstância fática apresentada.
+Afasto, ainda, as genéricas impugnações de documento dos autores, uma vez que os documentos apresentados pela CEF, nos quais fundamento minhas conclusões, por representarem fidedignamente os fatos trazidos à lume nesta demanda.
+Observo, ainda, que não é o caso de longa contratação, em que um quadro inicialmente favorável se vá agravando aos poucos e que a companhia seguradora venha se locupletando de contribuições em relação às quais não haverá cobertura.
+No caso dos autos, a contratação, relativamente recente, já se efetivou com quadro agravado de moléstia, não informado à seguradora.
+Deste modo, concluo pela improcedência do pedido de cobertura securitária.
+São hipóteses, portanto, distintas, que não guardam similitude.
+No mais, o julgado combatido é claro em dizer que não estão presentes os requisitos da inversão do ônus da provas, tal qual prevista no CDC, conforme a fundamentação já transcrita. Chegar a uma conclusão diversa demanda revolvimento fático-probatório, vedado pela Súmula 7/STJ:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CONSUMIDOR. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO. ALEGADA NÃO CONTRATAÇÃO. INVERSÃO DO ONUS DA PROVA. NÃO AUTOMÁTICO. DOCUMENTOS INDISPENSÁVEIS A PROPOSITURA DA AÇÃO. COMPROVAÇÃO DOS PRESSUPOSTOS PROCESSUAIS. EXTRATO BANCÁRIO. ALEGAÇÃO DE EMPRÉSTIMO NÃO CONTRATADO.
+1. Recurso especial interposto em: 03/02/2022. Concluso ao gabinete em: 28/03/2022.
+2. Ação declaratória de nulidade de empréstimo consignado cumulado com pedido de repetição de indébito e de danos morais.
+3. O propósito recursal consiste em perquirir se a juntada de extratos bancários por parte do consumidor é indispensável à propositura da ação que visa a declarar a nulidade de empréstimo alegadamente não contratado.
+4. É firme a jurisprudência desta Corte Superior no sentido de que a inversão do ônus da prova fica a critério do juiz, cabendo-lhe apreciar a verossimilhança das alegações do consumidor e/ou a sua hipossuficiência, aspectos que, por serem intrinsicamente ligados ao conjunto fático-probatório do processo, não podem ser revistos em recurso especial, em razão do que dispõe a Súmula 7/STJ.
+5. Os documentos indispensáveis à propositura de qualquer ação - sendo que sua falta acarreta o indeferimento da petição inicial -, dizem respeito à demonstração das condições para o exercício do direito de ação e dos pressupostos processuais. Estes documentos se diferenciam daqueles a serem apresentados no posterior momento da produção de prova documental, que visam a comprovar as alegações da parte e que, portanto, não precisam ser anexados no momento do ajuizamento da demanda. Precedentes.
+6. O extrato bancário não é o único meio de convencimento do juiz acerca da existência de legitimidade processual e do interesse de agir, razão pela qual não pode ser considerado documento indispensável à propositura da ação.
+7. Somente a ilegitimidade ad causam e a falta deinteresseprocessual manifestas caracterizam vícios da petiçãoinicial capazes de ensejar o seu indeferimento. Assim, restando dúvida quanto à ilegitimidade da parte, não pode haver o indeferimento da petição inicial por inépcia.
+8. A dispensabilidade do extrato bancário não afasta, todavia, o dever do consumidor de colaboração com a justiça, conforme determinado no art. 6º, do CPC.
+9. Em ação declaratória de nulidade de empréstimo consignado alegadamente não contratado, desde que a parte cumpra com seu dever de demonstrar a verossimilhança do direito alegado e as condições do seu direito de ação, não há que se falar em inépcia da petição inicial pela falta de juntada de extrato bancários aos autos.
+10. Recurso especial provido.
+(REsp n. 1.991.550/MS, relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/8/2022, DJe de 25/8/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao art. 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela parte recorrente, decidindo de modo integral a controvérsia posta.Precedentes.
+2. Para alterar as conclusões contidas no decisum, no sentido de afastar a condição de consumidora da parte e, consequentemente, não aplicar as normas consumeristas ao caso, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai o óbice estabelecido pela Súmula 7 do STJ. Precedentes.
+3. Rever o entendimento do Tribunal local, no sentido de verificar se o acervo probatório foi ou não suficiente para embasar o decisum atacado, se a parte autora trouxe ou não aos autos provas para demonstrar o fato constitutivo do direito alegado, e se estão presentes ou não os requisitos necessários para a inversão do ônus da prova, forçosamente ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 2.098.730/RS, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/8/2022, DJe de 18/8/2022)
+Ante o exposto, conheço em parte do recurso e, na extensão conhecida, nego-lhe provimento.
+Publique-se.
