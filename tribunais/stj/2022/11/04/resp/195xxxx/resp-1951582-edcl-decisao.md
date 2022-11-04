@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLA MARTINS DE SOUZA DOS SANTOS em face de decisão de fls. 392/395 que deu provimento ao recurso especial, a fim de que o Tribunal de origem examine a ocorrência, ou não de prescrição de cada um dos contratos objetos de revisão, à luz da jurisprudência desta Corte, dando ao caso a solução que entender cabível.
+A embargante aponta omissão na decisão recorrida quanto à circunstância fática, não observada nos acórdãos paradigmas, relativa à renovação sucessiva dos contratos, que demonstra que as premissas fáticas dos paradigmas e do acórdão recorrido distintas.
+Defende, ainda, que a decisão embargada é obscura, pois em nenhum dos precedentes citados consta que a Súmula nº 286 é aplicada somente quando não há prescrição reconhecida em relação aos contratos anteriores.
+A embargada apresentou impugnação (e-STJ fl. 412/421)
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Com efeito, revelam-se plausíveis as razões recursais, ao apontar omissão quanto à circunstância fática não observada nos acórdãos paradigmas, relativa à renovação sucessiva dos contratos.
+De fato, nenhum dos precedentes constantes na decisão embargada menciona a questão da sucessão de contratos e de que forma tal situação afetaria a contagem do prazo prescricional, razão pela qual o tema deve ser agora apreciado.
+Consta do acórdão atacado, no que interessa (e-STJ, fls. 34/35):
+"A pretensão revisional é regida prazo prescricional de dez anos, previsto no art. 205 do diploma civil.
+Entretanto, quanto ao termo inicial do decurso de tal prazo, cumpre ressaltar que não é o pagamento da última parcela, mas sim a data da assinatura do contrato, momento em que o contratante tomou ciência das cláusulas contratuais incidentes na avença.
+(..)
+Nesse sentido, o entendimento de que o dies a quo do prazo prescricional é a data do pagamento da última parcela vai de encontro ao Princípio da actio nata, no qual está lastreado nosso ordenamento jurídico, e que prevê que a prescrição somente tem seu início com o nascimento da pretensão, o que ocorre quando o titular do direito toma ciência de sua violação.
+Na hipótese, contudo, o conjunto probatório demonstra a cadeia sucessiva de requerimentos de mútuo e contratos formalizados, ficando nítido que o autor buscou novos empréstimos para saldar as dívidas anteriores, antes mesmo da quitação das últimas parcelas.
+De tal sorte, tendo o último contrato sido celebrado 2017, e tendo a presente ação sido ajuizada em 14/08/2019, não há falar em prescrição da pretensão, pois não implementado o prazo de 10 anos.
+A propósito do tema, acrescente-se, é pacífico o entendimento jurisprudencial no sentido de ser viável a revisão de contratos extintos, quer pelo pagamento, quer pela novação. Tal inteligência justifica-se pelo fato de que as nulidades contratuais não se convalidam automaticamente com o novo ajuste." (e-STJ fl. 286/287)
+Como se observa, o acórdão atacado afastou a ocorrência da prescrição da demanda revisional de contrato bancário, pois em se tratando de cadeia sucessiva de requerimentos de mútuo e contratos formalizados, ficou nítido que o autor buscou novos empréstimos para saldar as dívidas anteriores, antes mesmo da quitação das últimas parcelas, não decorridos 10 (dez) anos entre o vencimento do último ajuste e o ajuizamento da ação.
+Dessa forma, o acórdão recorrido, ao fixar o termo inicial da prescrição na data de vencimento do último contrato, mostrou-se de acordo com a mais recente orientação do Superior Tribunal de Justiça, não merecendo reforma. Confira-se:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATOS DE MÚTUO. PRESCRIÇÃO DECENAL. TERMO INICIAL. DATA DA ASSINATURA DO AJUSTE. NOVAÇÃO DE DÍVIDAS E RENOVAÇÃO DOS CONTRATOS. CONTINUIDADE NEGOCIAL. ASSINATURA DO ÚLTIMO CONTRATO RENOVADO. ACÓRDÃO EM HARMONIA COM JURISPRUDÊNCIA DA TERCEIRA TURMA DESTA CORTE SUPERIOR. PRECEDENTE ESPECÍFICO. AGRAVO INTERNO DESPROVIDO.
+1. Nas ações revisionais de contrato de empréstimo pessoal, nas quais se discute a legalidade das cláusulas pactuadas, a contagem do prazo prescricional decenal tem início a partir data da assinatura do contrato.
+2. Conforme jurisprudência firmada no âmbito da Terceira Turma deste Superior Tribunal,  havendo sucessão negocial com a novação das dívidas mediante contratação de créditos sucessivos, com renegociação do contrato preexistente, é a data do último contrato avençado que deve contar como prazo prescricional  (REsp n. 1.996.052/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 17/5/2022, DJe de 19/5/2022).
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.928.783/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO. CONTRATOS DE MÚTUO. PRESCRIÇÃO DECENAL. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. NOVAÇÃO DE DÍVIDAS E RENOVAÇÃO DOS CONTRATOS. ASSINATURA DO ÚLTIMO CONTRATO RENOVADO. REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação revisional de contrato.
+2. Consoante o aresto, houve sucessão negocial com a novação das dívidas mediante contratação de créditos sucessivos, com renegociação do contrato preexistente, de maneira que foi observada uma continuidade e dependência entre os contratos realizados.
+3. Em razão da sucessão negocial a partir da novação das dívidas mediante contratação de créditos sucessivos, para harmonizar o quadro desenhado nos autos com a jurisprudência desta Corte Superior, percebe-se que, na aferição da prescrição, deve-se apurar a data da assinatura do último contrato renovado. Nesse contexto, ocorrerá a prescrição se a última avença tiver sido assinada anteriormente ao prazo decenal da prescrição.
+4. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno no recurso especial não provido.
+(AgInt no REsp n. 1.987.739/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO REVISIONAL. CONTRATOS DE MÚTUO. PRESCRIÇÃO. TERMO INICIAL. DATA DA ASSINATURA DO CONTRATO. NOVAÇÃO DE DÍVIDAS. HIPÓTESE. ÚLTIMO CONTRATO RENOVADO. DIVERGÊNCIA. NÃO DEMONSTRAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A jurisprudência desta Corte orienta-se no sentido de que o termo inicial do prazo prescricional no qual o mutuário pretende rever cláusulas de contrato de empréstimo pessoal firmado com a recorrida é a data da assinatura do contrato.
+3. Na hipótese, a prescrição foi afastada em virtude da sucessão negocial com a novação das dívidas mediante contratação de créditos sucessivos, com renegociação do contrato preexistente. Último contrato assinado em 2018 e ação proposta em 2019. Inocorrência da prescrição. Divergência não demonstrada.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.931.511/RS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 8/8/2022, DJe de 15/8/2022.)
+Neste mesmo sentido, destaco as decisões monocráticas proferidas pela Quarta Turma desta Corte Superior: REsp 2015036, Relator Ministro LUIS FELIPE SALOMÃO, 30/08/2022; EDcl no REsp 1927573, desta Relatoria, 29/06/2022.
+No presente caso, tendo o último contrato sido celebrado 2017, e tendo a presente ação sido ajuizada em 14/08/2019, não há falar em prescrição da pretensão, pois não implementado o prazo de 10 anos.
+Diante do exposto, acolho os embargos de declaração para sanar a omissão apontada e, reconsiderando a decisão de fls. 392/395 (e-STJ), negar provimento ao recurso especial.
+Deixo de majorar os honorários advocatícios recursais, nos termos do art. 85, § 11, do CPC/2015, pois fixados no patamar máximo previsto no art. 85, § 2º, do CPC/2015.
+Publique-se.
