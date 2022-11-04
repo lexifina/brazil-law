@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto porFRANCISCO CABRAL DOS SANTOS (ASSISTÊNCIA JUDICIÁRIA) em face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"LOCAÇÃO COBRANÇA Inocorrência de nulidade de citação - Revelia dos réus Presunção de veracidade dos fatos alegados na inicial Sentença mantida Honorários advocatícios majorados para 17% do valor da condenação, observada a gratuidade Recurso desprovido."(fl. 194).
+Os embargos de declaração foram rejeitados (fls. 214-216).
+Nas razões do recurso especial, a parte ora agravante aponta violação dos arts. 249 e 280do Código de Processo Civil de 2015, sustentando, em síntese,a nulidade da citação realizada sem a observância das prescrições legais, isto é, o esgotamento dos meios de localização do réu, procedendo-se por oficial de justiça, antes de ser realizada por edital.
+Apresentadas contrarrazões ao apelo nobre (fls. 241-246).
+É o relatório.
+Quanto à alegada violação dos arts. 249 e 280 do CPC/15, sobre (a) a citação por via de oficial de justiça e (b) a nulidade da citação sem observância das prescrições legais, verifica-se que o conteúdo normativo do dispositivo invocado no apelo nobre não foi apreciado pelo Tribunal a quo, ainda que a parte ora agravante tenha oposto embargos de declaração a fim de sanar eventual irregularidade. Dessa forma, à falta do indispensável prequestionamento, incide, na espécie, a Súmula 211 do Superior Tribunal de Justiça.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ALEGADA ILIQUIDEZ DO TÍTULO. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282/STF E 211/STJ. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. PRECEDENTE. RECURSO NÃO PROVIDO.
+1. A matéria referente aos arts. 783 e 803, do CPC de 2015 não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+2. O STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração (Súmula 211). Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+4. Agravo interno a que se nega provimento." (AgInt no AREsp 1.098.633/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 12/09/2017, DJe de 15/09/2017, g.n.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários advocatícios devidos à parte recorrida de 17% para 18% sobre o valor da condenação (fl. 197).
+Publique-se.
