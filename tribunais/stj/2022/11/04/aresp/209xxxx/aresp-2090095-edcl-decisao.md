@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pela DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS contra decisão monocrática de lavra deste signatário (fls. 289-293, e-STJ), a qual negou provimento ao recurso especial interposto pelo ora embargado.
+Em suas razões de fls. 297-301, e-STJ, alega a insurgente a omissão quanto à necessidade de majoração dos honorários advocatícios sucumbenciais, nos termos do art. 85, § 11, do CPC/2015.
+Sem impugnação (fl. 305, e-STJ).
+É o relatório.
+A irresignação merece acolhida.
+1. De acordo com a jurisprudência desta Corte, a majoração, em sede recursal, de honorários advocatícios demanda o atendimento dos seguintes requisitos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o CPC/2015; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado, e c) condenação em honorários advocatícios desde o tribunal de origem no feito em que interposto o recurso. Precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, § 11, DO CPC. AGRAVO CONHECIDO E RECURSO ESPECIAL PROVIDO PARA RESTABELECER A SENTENÇA. NÃO PROVIMENTO. 1. Esta Corte Superior tem manifestado o entendimento de que a "majoração dos honorários advocatícios, nos termos do § 11 do artigo 85 do CPC/2015, se dará quando se apresentarem simultaneamente as seguintes situações: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o CPC/2015; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado, e c) condenação em honorários advocatícios desde o tribunal de origem no feito em que interposto o recurso. Precedentes" (AgInt no AREsp 1283540/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/12/2018, DJe 14/12/2018). 2. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp 1745960/MS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/04/2019, DJe 08/04/2019)
+No caso em tela, verifica-se o atendimento a todos os requisitos acima citados, razão pela qual faz-se, de fato, devida a majoração da verba honorária sucumbencial.
+Nesse contexto, com o objetivo de sanar a omissão apontada pela parte, determina-se que, em decorrência do desprovimento do recurso especial manejado pela parte ora embargada, deve ser majorado em 10% (dez por cento), o valor honorários advocatícios sucumbenciais já arbitrados na origem, a qual passará a totalizar o montante de R$ 4.400,00 (quatro mil e quatrocentos reais).
+2. Do exposto, acolho os embargos declaratórios, para, sanando omissão verificada no julgado embargado, determinar a majoração do valor dos honorários advocatícios sucumbenciais fixados na origem em 10% (dez por cento).
+Publique-se.
+Intimem-se.
