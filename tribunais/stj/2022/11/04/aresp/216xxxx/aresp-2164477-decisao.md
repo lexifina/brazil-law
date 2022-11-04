@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Agravocontra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto a acórdãoassim ementado:
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO MUNICIPAL. MUNICÍPIO DE ESTEIO. ADICIONAIS POR TEMPO DE SERVIÇO PRESTADO POR SERVIDOR ANTERIORMENTE À SUA TRANSPOSIÇÃO DO REGIME CELETISTA PARA O ESTATUTÁRIO. POSSIBILIDADE, NA FORMA DO ART. 251, § 4º, DA LEI MUNICIPAL Nº 5.231/2011. OBSERVÂNCIA DO PRINCÍPIO DA LEGALIDADE.
+1. Caso em que o autor (investido no cargo de pedreiro) era servidor celetista vinculado ao Município de Esteio, tendo sido admitido em 01.02.1991. Posteriormente, em 26.01.2011, ele foi transposto para o regime estatutário, nos moldes da Lei nº 5.231/2011 - Estatuto dos Servidores Público do Município de Esteio.
+2. O art. 251, § 4º, da Lei 5.231/2011 , que disciplina a transposição ao regime estatutário, assegurou o direito à continuidade da contagem do tempo de serviço para férias e também para efeito das demais vantagens previstas nesta lei, como expressamente estabelecido pelo legislador municipal, o que assegura o direito ao seu cômputo para os adicionais por tempo de serviço de 15% e 25%.
+3. Direito formativo que é, o pagamento do adicional de 25% é devido desde a data do requerimento administrativo indeferido pela Administração.
+4. Indeferimento de direito funcional, submetido normalmente ao procedimento administrativo regular, que não emoldura hipótese de lesão a direitos extrapatrimoniais. Indenização por danos morais incabível.
+5. Ação julgada improcedente na origem.
+APELAÇÃO PARCIALMENTE PROVIDA.
+Os Embargos de Declaração foram desprovidos.
+Nas razões do Recurso Especial, o Município sustentaem suma:
+A decisão da Corte Julgadora incorreu em VIOLAÇÃO LITERAL E DIRETA aos preceitos contidos no art. 492 do CPC, eis que ao julgar à Apelação interposta pelo autor usou de fundamento não invocado pela parte e claramente dissociado da discussão travada nos autos.
+Sendo certo que o artigo que fundamenta a decisão a uma, não se relaciona com o pedido do autor e, a duas, torna o julgamento fundamentado em premissa equivocada.
+A presente ação foi movida pelo autor com o pedido expresso de reconhecimento do percentual "de 15% e/ou 25% por tempo de serviço" relativo à vantagem prevista no art. 106 da LMC nº 5231/2011, que dispõe o adicional por tempo de serviço junto ao Estatuto dos Servidores Públicos Municipais de Esteio, in verbis:
+(..)
+Desta feita, entende o Município Recorrente que o acórdão proferido pela 4ª Câmara Cível do TJ/RS NÃO abordou a matéria conforme posta pelas partes, visto que não observou os permissivos legais aplicados ao caso em tela, utilizando artigo não invocado pelo autor na sua exordial, o que fere frontalmente o Código de Processo Civil e assim resultando em julgamento dissociado do cerne debatido na ação.
+Isso porque o que se discute nos autos presentes NÃO é a contagem do tempo para fins da vantagem, mas sim o percentual desta: se 15% e 25% (§4º do art. 106 da LMC nº 5231/2011) em detrimento ao percentual de 3% e 6% (caput do art. 106 da LMC nº 5231/2011).
+Ocorre que a decisão recorrida invoca dispositivo não relacionado com a discussão dos autos, na medida em que não está a se questionar a contagem do tempo de serviço utilizada para fins de análise de tal vantagem, considerando que não nega o Município de Esteio, em momento algum, a aplicação do art. 251, §4º da LMC nº 5231/2011.(fls. 408-409, e-STJ).
+A parte afirma ainda:
+O ponto controvertido na presente demanda é este, no Município de Esteio até a entrada em vigor da LCM 5.231/2011, existiam os dois tipos de servidores, os estatutários e os celetistas, com a LCM 5.231/2011, alguns servidores foram transpostos para o regime estatutário, porém o direito ao adicional por tempo de serviço no percentual de 15% / 25% só se aplica aos servidores que já eram estatutários antes de 26 de janeiro de 2011, e não aos celetistas que foram transpostos em virtude da LCM 5.231/2011.(fl. 415, e-STJ).
+Contrarrazões às fls. 430-440, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4 de outubro de 2022.
+AVice Presidência do Tribunal de Justiça do Estado do Rio Grande do Sul negou seguimento ao Recurso Especial com fulcro na Súmula 83/STJ ecolacionou precedentes do STJ.
+Do exame do Agravo, todavia, verifica-se que a defesa não refuta esse ponto. Apenas alega que o acórdão recorrido violou de forma clara e direta o art. 492 do CPC/2015ao usar de argumento não invocado pela parte e visivelmente dissociado da discussão travada nos autos, extrapolandoos limites da lide. No mais,reitera as alegaçõesdo Especial (fls. 467-490, e-STJ).
+Esta Corte perfilha o entendimento de ser necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Recurso Especial, sob pena do seu não conhecimento pela aplicação da Súmula 182/STJ.
+A Corte Especial reafirmou tal diretriz no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe 30.11.2018.
+Visto que a Corte local invocou a Súmula 83/STJ como base para a inadmissibilidade, a efetiva impugnação desse decisum exige indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, de modo a demonstrar, por adequado confronto analítico, que a orientação jurisprudencial do STJ é diversa ou que a situação em análise difere substancialmente dos precedentes invocados pelo colegiado originário, o que não ocorreu na espécie.A propósito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. VIOLAÇÃO DO ART. 1.021, § 1º, DO CPC/2015. SÚMULA 182 DO STJ. AGRAVO INTERNO NÃO PROVIDO. DECISÃO DA PRESIDÊNCIA DO STJ MANTIDA.
+1. O STJ perfilha o entendimento de ser necessária a impugnação específica de todos os fundamentos da decisão que inadmitiu o Agravo em Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ.
+2. A Corte Especial reafirmou recentemente tal posição no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 746.775/PR, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+3. Verifica-se, no caso em comento, que o agravante não atacou no Agravo em Recurso Especial, de forma específica, os fundamentos utilizados pela decisão que inadmitiu o Recurso Especial: "Súmula 83/STJ" (fl. 465, e-STJ).
+4. In casu, tendo em vista que a Corte de origem invocou a Súmula 83/STJ como fundamento para inadmitir o Recurso Especial, a efetiva impugnação desta decisão exigiria a indicação de precedentes contemporâneos ou posteriores aos mencionados na decisão combatida, demonstrando-se, através de um adequado confronto analítico, que o entendimento jurisprudencial desta Corte Superior é diverso ou que a situação em análise difere substancialmente dos precedentes invocados pelo Tribunal a quo, o que não ocorreu na espécie.
+5. Ademais, o STJ entende inadmissíveis como paradigmas acórdãos proferidos em Recurso Ordinário em Mandado de Segurança, em Mandado de Segurança, em Conflito de Competência, em Habeas Corpus, em Mandado de Injunção, em Ação Rescisória e em Suspensão de Segurança, pois os requisitos de admissibilidade desses recursos divergem daqueles exigidos para o Recurso Especial. Precedente: AREsp 1.380.224/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 14/12/2018.
+6. Por fim, ressalte-se que a refutação tardia (somente por ocasião do manejo de Agravo Interno) dos fundamentos da decisão que inadmitiu o Recurso Especial, além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa.
+7. Agravo Interno não provido.
+(AgInt no AREsp 1.785.794/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 1º/7/2021)
+Por fim, esclareço que a impugnação tardia (somente por ocasião do manejo de Agravo Interno) dos fundamentos que motivaram a inadmissão do Recurso Especial, além de caracterizar imprópria inovação recursal, não tem a propriedade de afastar a aplicação do referido verbete da Súmula 182/STJ, haja vista a ocorrência de preclusão consumativa.
+Ante o exposto, não conheço do Agravo em Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
