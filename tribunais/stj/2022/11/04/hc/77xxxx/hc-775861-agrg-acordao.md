@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ILEGALIDADE DA PRISÃO. PLEITO NÃO ANALISADO. SUPRESSÃO DE INSTÂNCIA. RECURSO NÃO PROVIDO.
+1. Os pedidos aqui aduzidosnão foramobjeto de cognição pelo Tribunal de origem. Logo, inviável seu enfrentamento por esta Corte Superior, sob pena de incorrer em indevida supressão de instância, já que inexiste a análise no acórdão aqui combatido (AgRg no RHC 113.160/PI, Rel. Ministro JORGE MUSSI, QUINTA TU RMA, julgado em 27/08/2019, DJe 10/09/2019; RHC 116.635/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/10/2019, DJe 09/10/2019).
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por WENDER PEREIRA MANSO de decisão na qual indeferi liminarmente o habeas corpus.
+O agravante sustenta, em suma, que "o presente caso é excepcional, onde as provas foram produzidas ilegalmente, através de usurpação de função pela Guarda civil Municipal, conforme entendimento pacificado desta Colenda Corte Superior. Fechar os olhos para uma ilegalidade gritante como esta, é corroborar com as provas obtidas ilicitamente, e o habeas corpus é o meio mais célere de ser sanado uma ilegalidade" (e-STJ, fl. 107).
+Pleiteia a reconsideração da decisão agravada ou a submissão do feito ao colegiado para que seja reformada a decisão.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ILEGALIDADE DA PRISÃO. PLEITO NÃO ANALISADO. SUPRESSÃO DE INSTÂNCIA. RECURSO NÃO PROVIDO.
+1. Os pedidos aqui aduzidosnão foramobjeto de cognição pelo Tribunal de origem. Logo, inviável seu enfrentamento por esta Corte Superior, sob pena de incorrer em indevida supressão de instância, já que inexiste a análise no acórdão aqui combatido (AgRg no RHC 113.160/PI, Rel. Ministro JORGE MUSSI, QUINTA TU RMA, julgado em 27/08/2019, DJe 10/09/2019; RHC 116.635/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/10/2019, DJe 09/10/2019).
+2. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O recurso não comporta provimento, pois a decisão, a seguir transcrita, está em consonância com a jurisprudência desta Corte.
+Vejamos.
+Consta no acórdão impugnado:
+" ..
+De pronto, esclareço que este habeas corpus não merece conhecimento.
+Do relato, noto que a impetração do writ faz-se para revogar acórdão, transitado em julgado, que manteve a prisão do paciente. Eis a ementa e trechos pertinentes do voto proferido:
+"EMENTA: APELAÇÕES CRIMINAIS. INÉPCIA DA DENÚNCIA.INOCORRÊNCIA. AUSÊNCIA DE PREJUÍZO. TRÁFICO DE DROGAS.ABSOLVIÇÃO. DESCLASSIFICAÇÃO. INVIABILIDADE. MATERIALIDADE E AUTORIA COMPROVADAS. RECEPTAÇÃO. ABSOLVIÇÃO. NEGA PENAS- BASE. ADEQUAÇÃO NO TRÁFICO DE DROGAS. ATENUANTES DA CONFISSÃO E GENÉRICA. RECONHECIMENTO. IMPOSSIBILIDADE.REINCIDÊNCIA. COMPROVAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO. NÃO PREENCHIMENTO DOS PRESSUPOSTOS. DIREITO DE RECORRER EM LIBERDADE. 1) Verificado que a denúncia preenche todos os requisitos descritos no artigo 41 do Código de Processo Penal, com os fatos foram narrados de forma clara e lógica, com todas as circunstâncias dos fatos, contendo a qualificação dos acusados, a classificação dos delitos e o rol de testemunhas, não há que se falar em cerceamento de defesa. 2) Não merece prosperar o pleito absolutório e desclassificatório pela prática do tráfico, quanto demonstrada, de formasatisfatória, pelos elementos informativos do processo, posteriormente judicializados, a prática pelos apelantes do delito capitulado no artigo 33, caput da Lei 11.343/2006. 3) Não merece prosperar o pleito absolutório pela prática da receptação, pois a mera alegação dos réus no sentido de que desconheciam a origem ilícita dos bens apreendidos é insuficiente para afastar a condenação, se as circunstâncias do fato indicam situação diversa, pois a apreensão da res em poder dos acusados enseja a inversão do ônus da prova.
+4) Evidenciado que o sentenciante bem sopesou a análise das circunstâncias judiciais referentes às condenações, porém exacerbou a pena-base muito acima do mínimo legal quando somente uma é desfavorável, necessária a adequação da pena-base corpórea e da multa para pouco acima do mínimo do tipo, sendo impossível o reconhecimento das atenuantes da confissão espontânea e a genérica do artigo 66 do Código Penal se não comprovadas. 5) Não há que se falar em concessão do benefício previsto no artigo 33, §4º, da Lei 11.343/06 quando um dos acusados é comprovadamente reincidente, mantido o regime inicial fechado para o apelante de aguardar o julgamento em liberdade se devidamente fundamentada, na sentença, a manutenção da prisão preventiva já decretada, com embasamento no artigo 312 do Código de Processo Penal. 7) APELOS CONHECIDOS, PARCIALMENTE PROVIDO EM FAVOR DO 1º APELANTE, PARA ADEQUAR AS PENAS CORPÓREA E DE MULTA IMPOSTAS, E DESPROVIDO EM FAVOR DA 2º APELANTE.Vistos, relatados e discutidos os presentes autos de APELAÇÃO CRIMINAL N.23999-26.2017.8.09.0174 (201790239990), da Comarca de Senador Canedo, tendo como apelantes WENDER PEREIRA MANSO e GLEICIANY FERREIRA DA SILVA e apelado MINISTÉRIO PÚBLICO.
+ACORDA, o Egrégio Tribunal de Justiça do Estado de Goiás, pelos integrantes da 5ª Turma da 1ª Câmara Criminal, na conformidade da ata de julgamento, por unanimidade de votos e acolhendo em parte o parecer Ministerial de Cúpula em conhecer dos recursos, dar parcial provimento ao do primeiro apelante, para adequar as penas corpórea e de multa impostas pela prática do tráfico de drogas, e negar provimento aos pedidos da segunda apelante, conforme voto do Relator.(..)". (autos 0023999-26, vol. 3, pdf.149/170).
+Pois bem.
+À luz do artigo 105, I, "c" da Constituição Federal, a competência para julgar eventual habeas corpus impetrado contra acórdão de tribunal é do Superior Tribunal de Justiça - STJ. Logo, é imprópria a impetração de habeas corpus contra acórdão de tribunal perante a própria corte prolatora.
+Noutro vértice, há de se observar o entendimento do Supremo Tribunal Federal no sentido de que o habeas corpus, por não admitir produção/revolvimento de prova, em regra, não se presta à reanálise da dosimetria da pena que, se for o caso, far-se-á por revisão criminal. A propósito:
+ ..
+Ante o exposto, nos termos do art. 186, §1º, do Regimento Interno do Tribunal de Justiça do Estado de Goiás, não conheço do writ.
+Publique-se. Registre-se. Intimem-se" (e-STJ, fls. 94-96).
+Os pedidos aqui aduzidosnão foramobjeto de cognição pelo Tribunal de origem.
+Logo, inviável seu enfrentamento por esta Corte Superior, sob pena de incorrer em indevida supressão de instância, já que inexiste a análise no acórdão aqui combatido (AgRg no RHC 113.160/PI, Rel. Ministro JORGE MUSSI, QUINTA TU RMA, julgado em 27/08/2019, DJe 10/09/2019; RHC 116.635/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/10/2019, DJe 09/10/2019).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
