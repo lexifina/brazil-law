@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por TEQUENDAMA AGROPECUÁRIA EIRELI EM RECUPERAÇÃO JUDICIAL e OUTROSà decisão monocrática desta relatoria de fls. 383-385(e-STJ), queconheceu doagravo paranegar provimento ao recurso especial, com fundamento na conformidade do acórdão recorrido com a jurisprudência desta Corte, acerca daimpossibilidade de recebimento da impugnação de créditointempestiva.
+Em suas razões recursais, a parte embargante alega omissão da decisão, consistente na desconsideração de que "sob a égide da Lei 14.112/20, que alterou a Lei 11.101/05 (aplicável de imediato aos processos pendentes - art.5º da Lei 14.112/20), existe hipótese taxativa de que a consequência jurídica da intempestividade da impugnação de crédito não é sua extinção, mas seu recebimento como impugnação retardatária, nos termos do art. 10, §§ 7º e 8º, da Lei11.101/05, que possuem previsão expressa da impugnação retardatária".
+Assevera, por essa razão, "não háo que se falar em óbice pela Súmula 83/STJ por meio de precedentes deste col. STJ que analisaram um cenário distinto do atual".
+Impugnação não apresentada (e-STJ, fls. 397-398).
+É o relatório. Decido.
+Razão assiste à parte embargante, quanto à necessidade de integração da decisão, o que passa a ser realizado, sem efeitos infringentes.
+No caso dos autos, a decisão monocrática ora embargadanegou provimento ao recurso especial, com fundamento na conformidade do acórdão recorrido com oentendimento desta Corte Superior, sobre a impossibilidade de admissãoda impugnação de crédito apresentada intempestivamente.
+Ao contrário do defendido pela parte embargante, reiterando argumentação deduzida no recurso especial, nãohá que se falar em inaplicabilidade da jurisprudênciaanterior àinovação legislativa trazida pela Lei 14.112/2020 (publicada no Diário Oficial da União em24/12/2020). Isso, porque, quando da oposição intempestiva da impugnação, em9/9/2019, inclusive quando da prolação da sentença, em 27/8/2020, a referida lei não existia no ordenamento jurídico nacional, sendo, por isso, inaplicável ao caso.
+Diante do exposto,acolho os embargos declaratórios,sem efeitos infringentes, apenas para declarar a inaplicabilidade da Lei 14.112/2020 ao caso.
+Publique-se.
