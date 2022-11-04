@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interposto por BRADESCO SEGUROS S/A em face de decisãoque inadmitiu recurso especial fundado no art. 105, III, "a" e "c", daConstituição Federal, contra v. acórdão do Eg. Tribunal Regional Federalda 4ª Região, assim sintetizado:
+APELAÇÃO. REFUTADO PEDIDO DE SOBRESTAMENTO DO FEITO.SFH. COBERTURA SECURITÁRIA. DANOS FÍSICOS NO IMÓVEL DECORRENTES DE VÍCIOS CONSTRUTIVOS. CONTRATO DE FINANCIAMENTO LIQUIDADO. INTERESSE PROCESSUAL CONFIGURADO. SENTENÇA ANULADA. RETORNO DOS AUTOS À ORIGEM PARA SOBRESTAMENTO DO FEITO PARA FUTURA DELIBERAÇÃO SOBRE PRESCRIÇÃO APÓS A MANIFESTAÇÃO DO STJ. APELAÇÃO PARCIALMENTE PROVIDA.
+Os embargos de declaração foram rejeitados, vide acórdão às fls. 1.018-1.019.
+Nas razões do recurso especial, a parte ora agravante aponta violação dosarts. 1.022, I e II, 1.025, 17 e 485, VI, do Código de Processo Civil de 2015, e divergênciajurisprudencial; sustentando, em síntese, que: a) há omissão no acórdão proferido; e b) a falta de interesse processualda recorrida, pois "as partes não contrataram uma "cobertura eterna" de seguro eis que o intuito do seguro era certificar que a garantia ao financiamento (que é o imóvel) continuasse existindo até a quitação da última parcela.Encerrado o contrato, não há razão para a continuidade do seguro prestamista." (fl. 1.040).
+O Vice-Presidente do Tribunal de origem inadmitiu o processamento dorecurso especial, em virtude da ausência de direito em recorrer da decisãoque determinou o sobrestamento do feito na origem até a conclusão dojulgamento do Tema 1.039/STJ; e pela incidência da Súmula 735/STF (fls.1.079-1.082).
+É o relatório.
+A jurisprudência desta Corte firmou-se no sentido de que "não é cabível ainterposição de recurso contra decisão que determina o sobrestamento doprocesso para se aguardar o julgamento de tema repetitivo ou sujeito àrepercussão geral, diante da ausência de prejuízo à parte" (AgInt no REsp1.782.323/SP, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em23/5/2019, DJe 7/6/2019).
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃOSECURITÁRIA. DEVER DE INFORMAÇÃO. MATÉRIA AFETADA AO RITO DOS RECURSOSREPETITIVOS (PROAFR NO RESP 1.874.811/SC E NO RESP 1.874.788/SC). TEMA1.112/STJ. INOVAÇÃO RECURSAL INEXISTENTE. INVIABILIDADE DE QUESTIONAMENTOPOR RECURSO INTERNO. PRECEDENTE DESTA CORTE. AGRAVO INTERNO NÃO CONHECIDO.
+1. Conforme orientação do Superior Tribunal de Justiça, havendo a afetaçãopara julgamento de questão repetitiva, como no caso em análise acerca dodever de informação das cláusulas limitativas do contrato de seguro devida em grupo, é de rigor a devolução dos autos ao Tribunal de origem paraque se aguarde o julgamento da matéria paradigma.
+2. Não se deve conhecer do recurso de agravo interno impugnando a decisãoque determinou a devolução dos autos ao Tribunal de origem para queobserve a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendoem vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízoàs partes, motivo pelo qual é irrecorrível.
+Precedente.
+3. Agravo interno não conhecido."
+(AgInt no REsp 1965200/RS, Rel. MinistroMARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/03/2022, DJe24/03/2022)
+De fato, é inadmissível a interposição de recurso em desfavor de decisãoque determinou a devolução dos autos ao magistrado de primeiro grau parasobrestamento do feito, em virtude da pendência de julgamento de questãosubmetida à sistemática dos recursos repetitivos, como se verifica nahipótese.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, doRISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
