@@ -1,0 +1,9 @@
+DECISÃO
+Tratam-se de embargos declaratórios opostos por BOA VISTA SERVICOS S.A, contra decisão (e-STJ, fls. 474/476), que conheceu do agravo para negar provimento ao recurso especial.
+Em suas razões, a embargante afirma que houve erro material no tocante a verba advocatícia, pois os honorários foram majorados para 11% sobre o valor atualizado da condenação quando já haviam sido fixados em 12% em sede de apelação.
+É o relatório. Decido.
+Os embargos de declaração têm como objetivo esclarecer obscuridade, eliminar contradição ou suprimir omissão de ponto ou questão sobre o qual devia se pronunciar o órgão julgador de ofício ou a requerimento das partes, bem como para corrigir erro material (CPC/2015, art. 1.022), sendo inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+Compulsando-se os autos, tem-se que, de fato, há erro material no tocante aos honorários recursais, considerando que o acórdão determinou que "com fundamento no § 11 do art. 85 do CPC, majoro os honorários advocatícios para 12% (doze por cento) do valor da condenação, dos quais 10% (dez por cento) correspondem à remuneração dos trabalhos desempenhados no juízo de primeiro grau, e 2% (dois por cento) são relativos à fase recursal". (e-STJ, fl. 334)
+Ante o exposto, acolho os embargos de declaração para, corrigindo o erro material apontado na decisão embargada, determinar que na decisão de fls. 474/476 leia-se:
+"Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial. Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 12% para 13% sobre o valor atualizado da condenação."
+Publique-se.
