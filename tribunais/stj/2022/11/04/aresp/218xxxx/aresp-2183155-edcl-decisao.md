@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por INACIO MARTINS RIBEIRO - ESPÓLIO em face da decisão de fls. 270/271, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Como apontado nas razões de Recurso Especial, a base e fundamento do reclamo está nos precisos termos da Súmula 239 desse E. Tribunal, ainda em vigor.
+Ora, se a matéria que se discute é objeto de uma Súmula, qual outro argumento com fundamento em legislação teria que ser invocado
+Já se decidiu que quando o dissídio é notório fica dispensada a fundamentação legal, bastando, como se fez, a transcrição das respectivas ementas, deixando claro a proximidade fática entre os julgados comparados (Confira-se: STJ - AgRg no Ag 766.948/RS, rel. Min. José Delgado, 1a turma, julg.21.4.07, DJ 2/11/07, p. 238) - 274.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera transcrição dos artigos legais.
+Ademais, mesmo que assim não fosse, não seria cabível recurso especial fundado na ofensa a enunciado de súmula dos tribunais, inclusive em se tratando de súmulas vinculantes.
+Desse modo, incidiria, outrossim, o óbice da Súmula n. 518 do STJ: "Para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+Nesse sentido: "A interposição de recurso especial não é cabível com fundamento em violação de súmula vinculante do STF, porque esse ato normativo não se enquadra no conceito de lei federal previsto no art. 105, III, "a" da CF/88. (REsp n. 1.806.438/DF, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 19/10/2020.)
+Confira-se ainda os seguintes precedentes: AgInt no AREsp 1.630.476/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe 13/8/2020; AgInt no AREsp 1.630.025/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe 14/8/2020; AREsp 1.655.146/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe 7/8/2020; AgRg no REsp 1.868.900/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe 3/6/2020; AgInt no REsp 1.743.359/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 30/3/2020; AgRg no AREsp n. 1.632.328/CE, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 02/09/2020.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
