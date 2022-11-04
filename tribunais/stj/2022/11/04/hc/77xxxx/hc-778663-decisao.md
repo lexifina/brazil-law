@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpuscom pedido liminar impetrado em favor de FABIO ARAUJO DOS SANTOS, em que aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(HC n. 2220371-98.2022.8.26.0000).
+Em suas razões, oimpetrante afirma que o paciente foi condenado à pena de 7 anos, 10 meses e 15 dias,pela prática do crime de roubo qualificado.
+Insurge-se contra a negativa, pelo juízo de origem, do direito de recorrer em liberdade, destacando estar superada a motivação que ensejou a prisão preventiva do paciente.Afirma, ainda, o excesso de prazo para o julgamento da apelação criminal.
+Requer, liminarmente e no mérito, a revogação da custódia cautelar, a fim de que o paciente aguarde o julgamento da apelação criminal em liberdade.
+É o relatório.
+Compulsando-se os autos, verifica-se que o mandamus não foi instruído comcópia integral de todos os documentos necessários à apreciação do pedido, notadamente, a decisão colegiada (ato coator) proferida pelo Tribunal de origem.
+Como se sabe, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca e tempestiva, por meio documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal, ônus do qual não se desincumbiu aimpetrante, profissional da advocacia.
+Nessa direção orienta-se a jurisprudência pacífica desta colenda Corte Superior de Justiça:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. COMÉRCIO ILEGAL DE ARMAS DE FOGO. PLEITO ABSOLUTÓRIO. ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS DE AUTORIA DELITIVA. NECESSIDADE DE REEXAME DE FATOS E PROVAS. DOSIMETRIA DA PENA. CONTINUIDADE DELITIVA. FRAÇÃO ESTABELECIDA CONFORME O NÚMERO DE INFRAÇÕES. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Sabe-se que o habeas corpus não serve para rediscutir matérias que dependam de dilação probatória, prestando-se somente ao exame de provas pré-constituídas com vistas a aferir a ocorrência de constrangimento ilegal que se traduza em restrição ou em ameaça de restrição à liberdade ambulatorial do paciente.
+2. Neste caso, o Tribunal de origem destacou que as investigações tiveram início em outras operações policiais, o que enfraquece a alegação de que a interceptação telefônica foi medida inicial de investigação. Ademais, a condenação do recorrente não teve amparo somente na interpretação dos policiais, mas também nos depoimentos dos delegados de polícia responsáveis pela investigação e de uma testemunha, além da confissão do agravante e do laudo pericial das conversas interceptadas, todas apontando para o fato de que o agravante e os corréus negociavam armas e munições
+3. O acréscimo de pena decorrente da continuidade delitiva é estabelecido conforme o número de infrações, independentemente da presença de circunstâncias judiciais favoráveis. Neste caso, foram doze ocorrências, de maneira que está adequadamente justificada a elevação da pena em dois terços.
+4. Agravo regimental não provido.
+(AgRg no RHC n. 168.522/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+Outrossim,é necessário esclarecer que a documentação necessária ao exame do constrangimento ilegal a que estaria sendo submetido o paciente deve estar presente nos autos no momento da impetração do habeas corpus, não se admitindo a juntada posterior de peças processuais, tampouco que a instrução seja feita por outros meios, como links ou consulta ao processo na página eletrônica do Tribunal de origem.
+Nesse vértice:
+DIREITO PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. HOMICÍDIO QUALIFICADO TENTADO. INSTRUÇÃO DEFICIENTE. IMPOSSIBILIDADE DE CONHECIMENTO DA IMPETRAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, constatado que o mandamus não foi instruído com peça imprescindível à compreensão da controvérsia, visto que ausente a sentença condenatória e o inteiro teor do acórdão inquinado coator, impossível a aferição do constrangimento ilegal apontado pelo agravante, haja vista o rito do habeas corpus exigir prova pré-constituída do direito alegado (AgRg no HC n. 267.581/SP, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 01/07/2013, grifei).
+III - De mais a mais, a documentação necessária ao exame do constrangimento ilegal a que estaria sendo submetido o paciente deve estar presente nos autos no momento da impetração do habeas corpus, não se admitindo a juntada posterior de peças processuais, tampouco que a instrução seja feita por outros meios, como links ou consulta ao processo na página eletrônica do Tribunal de origem. Precedentes.(RHC n. 122.600/RS, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 05/03/2020).
+Agravo regimental desprovido.
+(AgRg no HC n. 640.839/MS, relator Ministro Felix Fischer, Quinta Turma, julgado em 13/4/2021, DJe de 19/4/2021.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intime-se.
