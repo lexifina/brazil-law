@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S.A. (BRADESCO)contra decisão que inadmitiu seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+AGRAVO INTERNO EM APELAÇÃO. EMBARGOS DE TERCEIRO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. REJEIÇÃO. DECISÃO INTERLOCUTÓRIA. RECURSO DE APELAÇÃO. IMPROPRIEDADE. NÃO CONHECIMENTO. A decisão interlocutória proferida em processo de execução deve ser atacada por agravo de instrumento. Assim, tendo sido manejado recurso de apelação, impõe-se o seu não conhecimento. Não é devida a aplicação do princípio da fungibilidade, se não há dúvida quanto à natureza da decisão proferida e, respectivamente, do recurso cabível. (e-STJ, fl. 670).
+Os embargos de declaração opostos por BRADESCO foram rejeitados (fls. 705/711).
+Inconformado, BRADESCO interpôs recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, além do dissídio jurisprudencial, violação ao art.4º do NCPC, ao sustentar, em síntese, que cabe a aplicação do princípio da fungibilidade recursal no caso, para recebimento do recurso de apelação como agravo de Instrumento, em razão da indução da parte ao erro, uma vez que a decisão foi denominada desentençae houve a determinação de expedição de alvará com a determinação de retorno dos autos para extinção do feito.
+O recurso não foi admitido pelo TJRN (e-STJ, fls. 814/815).
+Nas razões do presente agravo, BRADESCO alegouque não incideoóbiceapontadona decisão de inadmissibilidade.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, do agravo e passo ao exame do recurso especial, que não merece prosperar.
+Da incidência do princípio da fungibilidade recursal
+Nas razões do presente recurso, BRADESCO apontou, além do dissídio jurisprudencial, violação do art. 4º do NCPC, sustentouque cabe a aplicação do princípio da fungibilidade para recebimento do recurso de apelação como agravo de instrumento em razão da dúvida gerada à parte com a denominação da decisão como sentença e da determinação de expedição de alvará e posterior retorno dos autos para extinção do feito.
+Sobre o tema o TJMGconsignou que a decisão impugnada não extinguira a execução, o que ensejava a interposição de agravo de instrumento, configurando erro grosseiro o manejo do recurso de apelação, confira-se:
+Com efeito, no caso em estudo, conforme ponderado na decisão fustigada,o ora agravante interpôs apelação da decisão que rejeitou a impugnação ao cumprimento de sentença, não extinguindo o processo.
+Ora, a decisão apelada, ao rejeitar a impugnação ao cumprimento de sentença sem extinguir o processo apresentou natureza de decisão interlocutória, de forma que o recurso cabível contra essa decisão era o agravo de instrumento, nos termos do artigo 1.015, paragrafo único, do CPC.
+Como o agravante interpôs apelação, este recurso não poderia mesmo ter sido conhecido, não havendo, ademais, que se falar em aplicação do princípio da fungibilidade, por não haver dúvida concreta quanto à natureza da decisão e, consequentemente, quanto ao recurso cabível, configurando-se, assim, erro grosseiro.(e-STJ, fls. 672).
+Ocorre que, conforme demonstrado pelo recorrente, a jurisprudência desta Corte entende pela aplicabilidade do princípio da fungibilidade recursal nos casos em que a roupagem da decisão é capaz de gerar dúvida na parte a respeito da natureza da decisão proferida.
+No caso em exame, a decisão impugnada por meio de recurso de apelação, além de ter sido denominada de sentença,rejeitou o cumprimento de sentença e determinou expressamente a expedição de alvará e retorno dos autos para extinção do feito.
+Configurada, assim, a existência de dúvida objetiva acerca da natureza da decisão e, em consequência, do recurso cabível no caso.
+Nestes casos, esta Corte Superior possui jurisprudência consolidada no sentido de que, em razão da dúvida objetiva gerada pela roupagem da decisão, induzindo a parte a erro sobre o recurso cabível, deve ser aplicado o princípio da fungibilidade pararecebimento do recurso.
+Confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. RECURSO INTERPOSTO ERRONEAMENTE. PARTE INDUZIDA A ERRO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. APLICAÇÃO. POSSIBILIDADE. JURISPRUDÊNCIA DO STJ. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO TIDO POR VIOLADO. SÚMULA N. 284/STF.
+1. Não há ofensa ao art. 1.022 do CPC/2015 quando o acórdão recorrido se manifesta de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia, exaurindo de forma satisfatória a controvérsia deduzida, ainda que não haja citação literal de todas as teses defensivas ou dispositivos de lei.
+2. Na forma da jurisprudência consolidada nesta Corte Superior de Justiça, é possível relevar o equívoco na interposição do recurso quando o jurisdicionado for induzido a erro pelo magistrado, aplicando-se o princípio da fungibilidade recursal. Precedente: EDcl no AgInt no AREsp n. 1.593.214/SP, relator Ministro, Quarta Turma, Marco Buzzi, julgado em 7/12/2020, DJe de 16/12/2020.
+3. A não indicação no recurso especial do normativo supostamente violado reflete carência de argumentação e conduz ao não conhecimento do recurso, pois não permite a exata compreensão da controvérsia. Incidência da Súmula n. 284/STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.000.722/MG, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/6/2022, DJe de 23/6/2022.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE - ACÓRDÃO DESTE ÓRGÃO FRACIONÁRIO QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDADO.
+1. Nos termos do artigo 1.022 do CPC/15, os embargos de declaração são cabíveis apenas para esclarecer obscuridade ou eliminar contradição; suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; ou corrigir erro material. 1.1. Verificada omissão no aresto impugnado, é impositivo o acolhimento dos aclaratórios. 1.2. É admissível a atribuição de efeitos infringentes ao recurso integrativo no caso de esses decorrerem do saneamento do vício identificado. Precedentes.
+2. Segundo a jurisprudência desta Corte, é possível relevar o equívoco na interposição do recurso quando o jurisdicionado for induzido a erro pelo magistrado, aplicando-se o princípio da fungibilidade recursal. Precedentes. 2.1. Uma vez que o magistrado de piso proferiu decisão intitulada "sentença", fazendo referência até mesmo ao "trânsito em julgado" do ato jurisdicional, é cabível admitir o recurso de apelação como o competente agravo de instrumento.
+3. Embargos de declaração acolhidos com efeitos infringentes para conhecer do agravo e, de plano, dar provimento ao recurso especial.
+(EDcl no AgInt no AREsp n. 1.593.214/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 7/12/2020, DJe de 16/12/2020.)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. INDUÇÃO A ERRO PELO MAGISTRADO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO MANTIDA.
+1. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento. Incidência das Súmulas n. 282 e 356 do STF.
+2. Segundo a jurisprudência desta Corte, é possível relevar o equívoco na interposição do recurso quando o jurisdicionado for induzido a erro pelo magistrado, aplicando-se o princípio da fungibilidade recursal. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.829.983/RS, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 4/5/2020, DJe de 6/5/2020.)
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA ENTRE AS TURMAS DA 2ª SEÇÃO EM CASOS IDÊNTICOS, INCLUSIVE ENVOLVENDO AS MESMAS PARTES E ÓRGÃOS JUDICIAIS DE 1ª E 2ª INSTÂNCIAS. EXCEPCIONALIDADE DO CASO CONCRETO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXCLUSÃO DE EXECUTADO DO POLO PASSIVO. INTERPOSIÇÃO DE APELAÇÃO AO INVÉS DE AGRAVO DE INSTRUMENTO. INEXISTÊNCIA DE MÁ-FÉ. INDUÇÃO A ERRO PELO JUÍZO. RELATIVIZAÇÃO DA DÚVIDA OBJETIVA NA RESTRITA HIPÓTESE DOS AUTOS. PRINCÍPIO DA FUNGIBILIDADE. APLICABILIDADE. PRECEDENTES.
+EMBARGOS DE DIVERGÊNCIA A QUE SE DÁ PROVIMENTO.
+(EAREsp n. 230.380/RN, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 13/9/2017, DJe de 11/10/2017.)
+Nessas condições, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, determinando o retorno dos autos ao Tribunal estadual para que, pelo princípio da fungibilidade recursal,recebao recurso de apelação como agravo de instrumento.
+Por oportuno, previnoque a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se.Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO DA EXECUÇÃO. EXPEDIÇÃO DE ALVARÁ. ROUPAGEM DE SENTENÇA. INDUÇÃO DA PARTE AO ERRO. PRINCÍPIO DA FUNGIBILIDADE. APELAÇÃO. CABIMENTO.PRECEDENTES DO STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
