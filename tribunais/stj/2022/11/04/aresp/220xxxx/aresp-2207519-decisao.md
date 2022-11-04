@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042 do CPC/2015) interposto por LEOCADIO JOSE DE ATAIDE - ESPÓLIO contra decisão que negou seguimento a recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal.
+O apelo extremo, a seu turno, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 420 e-STJ):
+DIREITO CIVIL - OBRIGAÇÕES - RESPONSABILIDADE CIVIL - DANOS MATERIAIS E MORAIS - PLANO DE SAÚDE - PEDIDO DE RESSARCIMENTO DE VALORES GASTOS EM HOSPITAL NÃO CONVENIADO - IMPROCEDÊNCIA EM GRAU - RECURSO DO AUTOR - ALEGAÇÃO DE URGÊNCIA E EMERGÊNCIA NO ATENDIMENTO MÉDICO - ALEGAÇÃO DE NÃO HAVER HOSPITAIS CONVENIADOS CAPAZES DE REALIZAR A CIRURGIA - NÃO COMPROVAÇÃO - REEMBOLSO DE VALOR CONVENIADO - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+A operadora de planos de saúde não está obrigada ao reembolso de valores gastos em procedimentos médicos e hospitalares realizados em nosocômio não conveniado, mormente quando a situação permitia a escolha de hospital da rede credenciada.
+Não foram opostos embargos de declaração.
+Em suas razões de recurso especial (fls. 440-455 e-STJ), a parte recorrente aponta que o acórdão recorrido violou o art. 12, inc. VI, da Lei nº 9.656/98, sustentando, em suma, o cabimento do reembolso dos valoresdespendidos pelo segurado fora da rede credenciada, em caráter de urgência e emergência, de acordo com a relação de preços de serviços médicos e hospitalares praticados pelo respectivo produto, conforme tabela própria.
+Contrarrazões às fls. 504-518 e-STJ.
+Em sede de juízo provisório de admissibilidade (fls. 521-522 e-STJ), o Tribunal de origem inadmitiu o recurso especial, sob o fundamento da incidência dos óbices das Súmulas 5 e 7 do STJ.
+Daí o agravo (fls. 529-540 e-STJ), buscando destrancar o processamento daquela insurgência, no qual a parte insurgente refuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 583-587 e-STJ.
+É o relatório.
+Decide-se.
+O presente recurso não merece prosperar.
+1. Cinge-se a pretensão recursal à verificação acerca do cabimento do reembolso das despesas suportadas pelo consumidor, em decorrência de atendimento médico fora darede credenciada.
+No caso em tela, o Tribunal de origem, ao analisar a controvérsia, manteve a sentença de improcedência do pedido inicial, entendendo não ser cabível o reembolso, sob o fundamento essencial de que "o requerente tinha à sua disposição clínicas especializadas, credenciadas e localizadas dentro de sua área de cobertura para realizar o tratamento médico, porém optou por aquele fora da área coberta", pronunciando-se nos seguintes termos (fls. 423-425 e-STJ):
+O plano de saúde da autora estabelece, em suas Cláusulas que somente estão cobertos os procedimentos realizados nos municípios do Estado de Santa Catarina. (..).
+Apesar de previsão contratual, o autor realizou a cirurgia em Curitiba/PR, localidade não coberta pelo contrato. (..).
+Contudo, a hipótese dos autos possui outras peculiaridades alheias à lei, não se enquadrando na espécie legal acima.
+Tendo em vista o agravamento de sua situação por conta de sua deficiência cardíaca, dirigiu-se até o Hospital Nossa Senhora do Pilar, localizada em Curitiba/ PR, fora da área de cobertura de seu Plano de Saúde, onde realizou sua cirurgia.
+No entanto, existiam outras clínicas e médicos credenciados e especializados mais próximos ao autor.
+Assim sendo, o autor escolheu o Hospital Nossa Senhora do Pilar de Curitiba-PR em detrimento a outras clínicas e médicos que eram credenciados, especializados e localizados na área de abrangência de seu plano.
+Diante disso, o art. 12, VI, da Lei 9.656/98, dispõe que: (..).
+Conforme o dispositivo supra é claro que o reembolso só é devido nos casos de urgência ou emergência, se não for possível a utilização dos serviços credenciados na área territorial objeto do acordo de vontades.
+No caso do autor tal não ocorreu, pois, o requerente tinha à sua disposição clínicas especializadas, credenciadas e localizadas dentro de sua área de cobertura para realizar o tratamento médico, porém optou por aquele fora da área coberta.
+Assim, ao optar pela realização dos procedimentos em local diverso do abrangido no pacto, autor assumiu o risco de suportar os gastos com o seu tratamento.
+Dessa forma, inviável ressarcimento dos valores gastos com procedimentos médicos e hospitalares realizados Curitiba - PR.
+De tal modo, a modificação das conclusões do v. acórdão recorrido, quanto ao não cabimento do custeio das despesas médicas, uma vez que o atendimento fora da rede credenciada se deu por livre escolha do consumidor, demandaria a análise de cláusulas do contrato original firmado entre as partes e das peculiaridades fáticas do tratamento pleiteado, o que encontraria óbice nas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. REEMBOLSO DE DESPESAS MÉDICO-HOSPITALARES. PRESCRIÇÃO DECENAL. LESÃO AO DIREITO DE INFORMAÇÃO. REEMBOLSO DEVIDO. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. JURISPRUDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se a prescrição geral decenal do art. 205 do Código Civil às pretensões de cobrança de despesas médico-hospitalares contra plano de saúde.
+2. "A Segunda Seção deste Tribunal Superior, quando do julgamento do REsp nº 1.360.969/RS e do REsp nº 1.361.182/RS, submetidos ao rito dos recursos repetitivos, consagrou o entendimento de que não incide a prescrição ânua, própria das relações securitárias (arts. 178, § 6º, II, do CC/1916 e 206, § 1º, II, do CC/2002), nas ações que discutem direitos oriundos de planos de saúde ou de seguros saúde, dada a natureza sui generis desses contratos" (AgInt no AREsp 986.708/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 25/04/2017, DJe de 12/05/2017).
+3. O Tribunal de origem, com base no acervo fático-probatório, concluiu que não pode a recorrente impor a limitação de reembolso, pois não houve a devida ciência da parte segurada a respeito dos valores a serem restituídos no caso de utilização dos serviços de saúde, havendo lesão ao direito de informação do consumidor, devendo ocorrer o reembolso integral das despesas médicas.
+4. No caso em voga, a modificação das conclusões do v. acórdão recorrido, nos moldes em que postulada pela ora recorrente, demandaria a análise de cláusulas do contrato original firmado entre as partes e das peculiaridades fáticas do tratamento pleiteado, o que encontraria óbice nas Súmulas 5 e 7 do Superior Tribunal de Justiça.
+5. Outrossim, observa-se que o eg. Tribunal a quo seguiu a jurisprudência desta Corte no sentido de considerar que "a exclusão de cobertura de determinado procedimento médico/hospitalar, quando essencial para garantir a saúde e, em algumas vezes, a vida do segurado, vulnera a finalidade básica do contrato" (REsp 183.719/SP, Relator o Ministro LUIS FELIPE SALOMÃO, DJe de 13.10.2008).
+6. Agravo interno ao qual se nega provimento.
+(AgInt no REsp 1756087/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 16/10/2018, DJe 26/10/2018)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. 1. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. SÚMULA N. 7 DO STJ. 2. PROCEDIMENTO CIRÚRGICO NÃO DISPONÍVEL NA ÁREA DE ABRANGÊNCIA TERRITORIAL DO PLANO DE SAÚDE DA AUTORA. COBERTURA DEVIDA, AINDA QUE FORA DA ALUDIDA ÁREA. REEMBOLSO DEVIDO. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. 3. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal a quo decidiu pela inexistência de cerceamento de defesa. Alterar o entendimento demandaria o reexame do conjunto fático-probatório dos autos, providência incompatível com a via estreita do recurso especial, consoante enunciado da Súmula 7 do Superior Tribunal de Justiça.
+2. Reverter a conclusão do Tribunal local, para acolher a pretensão recursal quanto às questões referentes ao reembolso integral, situação emergencial e existência de profissionais habilitados na área de cobertura do plano de saúde, demandaria o reexame do acervo fático-probatório dos autos e a análise e interpretação de cláusulas contratuais, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+3. Agravo interno improvido. (AgInt no AREsp 975.869/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017)  grifou-se
+2. Do exposto, com fulcro no artigo 932 do NCPC c/c Súmula 568 do STJ, conhece-se do agravo para não conhecer do recurso especial e, com base no art. 85, § 11, do CPC/2015, majora-se os honorários sucumbenciais em 10% (dez por cento), incidentes sobre o valor já arbitrado pela origem, em favor da parte recorrida.
+Publique-se.
+Intimem-se.
