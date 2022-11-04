@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que inadmitiu o recurso especialem virtude da impossibilidade de análise da ofensa a dispositivoconstitucionalpor esta Corte e porincidência das Súmulas n.7 e 83 do STJ (e-STJ fls. 313/315).
+O acórdão recorrido está assim ementado (e-STJ fl. 259):
+APELAÇÕES CÍVEIS - AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - FALHA NA PRESTAÇÃO DO SERVIÇO - INSTITUIÇÃO BANCÁRIA NÃO ANEXOU CONTRATO E NÃO COMPROVOU A LIBERAÇÃO DO CRÉDITO EM FAVOR DO CONSUMIDOR - NEGÓCIO JURÍDICO INVÁLIDO - RESTITUIÇÃO SIMPLES DOS VALORES DESCONTADOS - DANO MORAL INEXISTENTE DEVIDO AO LONGO LAPSO TEMPORAL ENTRE O PRIMEIRO DESCONTO E O AJUIZAMENTO DA AÇÃO E VALOR ÍNFIMO - MERO DISSABOR - SENTENÇA REFORMADA EM PARTE - PREQUESTIONAMENTO EXPRESSO DESNECESSÁRIO - RECURSO DA INSTITUIÇÃO BANCÁRIA CONHECIDO E PARCIAMENTE PROVIDO - RECURSO DA PARTE AUTORA CONHECIDO EM PARTE E, NA PARTE CONHECIDA, NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 282/289).
+No recurso especial (e-STJ fls. 291/302), fundamentado no art. 105, III, "a" e "c", da CF, orecorrentealegou, além de divergência jurisprudencial, ofensa aos arts. 489, II, § 1º eIV, e 1.022, II, do CPC/2015,927 do Código Civil, 6º, VI e14 do CDC, e 5º, X, da Constituição Federal.
+Afirmou a existência de omissão e falta de fundamentação no julgado recorrido, "ao deixar de pronunciar-se acerca de matéria alegada no recurso e porque teria deixado de seguir jurisprudência invocada, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento" (e-STJ fl. 295).
+Sustentou que "o(a) recorrido(a) praticou ato ilícito ao realizar empréstimo consignado vinculado ao benefício previdenciário do(a) recorrente sem observância das normas aplicáveis ao contrato em espécie, especialmente ao que dispõe a Instrução Normativa do INSS nº 28/2008 e o dever de contratar com pessoas analfabetas mediante escritura pública" (e-STJ fl. 298).
+Destacou que "comprovado o evento lesivo, tem-se como consequência lógica a configuração de dano moral, surgindo a obrigação do pagamento de indenização, nos termos do art. 5º, X, da CF, diante da ofensa aos direitos da personalidade" (e-STJ fl. 301).
+Requereu a anulação do acórdão proferido em embargos de declaração, o retorno dos autos à origem para que haja novo julgamento eo provimento do recurso para julgar procedente o pedido de compensação por danos morais.
+Foram apresentadas contrarrazões (e-STJ fls. 306/311).
+No agravo (e-STJ fls. 317/329), afirmaa presença de todos os requisitos de admissibilidade do especial.
+Foi oferecida contraminuta (e-STJ fls. 333/337).
+Juízo negativo de retratação (e-STJ fl. 339).
+É o relatório.
+Decido.
+A insurgência não merece prosperar.
+Cumpre esclarecer que não cabe ao Superior Tribunal de Justiça manifestar-se acerca de suposta violação de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Outrossim, não há falar em ofensa aos arts. 489, II, § 1º e IV, e 1.022, II, do CPC/2015, quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como no caso em comento.
+O fato de a parte não concordar com aconclusão do acórdão recorrido não configura nenhum dos vícios previstos nos referidos dispositivos processuais.
+Além disso, a Corte local não está obrigada a rebater, um a um, os argumentos apresentados, desde que a fundamentaçãotenha sido suficientepara dirimir a controvérsia.
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado(e-STJ fls. 263/264):
+ .. No caso concreto sob análise, verifica-se que os elementos fático-probatórios coligidos nos autos não foram suficientes para demonstrar que a Instituição Financeira agiu com má-fé - motivo pelo qual NÃO HÁ FALAR-SE EM CONDENAÇÃO À RESTITUIÇÃO EM DOBRO, mas tão somente na forma simples.
+Com relação ao pedido de indenização por danos morais, a improcedência do pedido deve ser mantida, pois, à análise do acervo probatório destes autos, e atento aos julgamentos promulgados por este Órgão Judicante, tenho que inexiste dano moral ensejador de reparação, porquanto o fato ocorrido se constitui como dissabor cotidiano. As parcelas descontadas in casu são inferiores a R$ 100,00 (cem reais) - valor considerado como teto por este Órgão para se considerar irrisório o desconto indevido. Assim, a autora aponta em sua petição inicial que foram descontadas parcelas no valor de R$ 54,88 cada, logo, não há dano moral indenizável.
+Constata-se, também, a existência de um grande lapso temporal entre o ajuizamento da demanda (19/12/2019) e a data de início dos descontos (em 03/2014), fato que denota, também, a ressonância pouco significativa na esfera extra e patrimonial da Autora.
+É dizer, de acordo com o entendimento jurisprudencial sedimentado nesta 4ª Câmara Cível, o ato ilícito narrado nos autos não tem o condão de ensejar danos morais, traduzindo, ao contrário, mero dissabor, pelo que a sentença deve ser reformada.
+ .. Forte nas razões supracitadas, dessumo que a Apelação Cível interposta pelo banco merece parcial provimento para reformar a sentença a fim de afastar a condenação dele ao pagamento de compensação por danos morais.
+Por consequência, fica prejudicada a análise do recurso de apelação interposto por Noval Jose Barbosa com relação aos danos morais e majoração dos honorários advocatícios.
+Nesse contexto, rever as conclusões do acórdão recorridoe analisar as alegações suscitadas demandaria o revolvimento do contexto fático-probatório dos autos, vedado em recurso especial pela Súmula n. 7 do STJ.A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO A TÍTULO DE DANOS MORAIS. AQUISIÇÃO DE PRODUTO IMPRÓPRIO PARA O CONSUMO. ALEGADA AUSÊNCIA DE COMPROVAÇÃO DA EXISTÊNCIA DO ALEGADO DANO. ÔNUS DO QUAL NÃO TERIA SE DESINCUMBIDO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O acolhimento da pretensão recursal, a fim de verificar a alegações relacionadas ao ônus da prova e ausência de comprovação da existência do alegado dano, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+2. Ademais, "a Jurisprudência do STJ entende que não há como aferir eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ, cuja incidência é induvidosa no caso sob exame" (REsp 1.665.411/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/9/2017, DJe 13/9/2017).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 2.106.783/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/8/2022, DJe de 5/9/2022.)
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento)o valor atualizado dos honorários advocatícios arbitrados na origem emfavor da parte recorrida, observando-se os limites dos §§ 2º e 3º doreferido dispositivo, bem como eventual concessão dos benefícios dajustiça gratuita.
+Publique-se e intimem-se.
