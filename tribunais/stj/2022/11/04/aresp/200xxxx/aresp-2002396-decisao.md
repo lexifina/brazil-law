@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interposto por EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS contra decisão de inadmissibilidade do recurso especial apresentado em desafio a acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado:
+ADMINISTRATIVO. CIVIL. AÇÃO DE COBRANÇA. ECT. CONTRATO DE FRANQUIA EMPRESARIAL. RESCISÃO. PRESTAÇÃO EM ABERTO. PRESCRIÇÃO QUINQUENAL. ART. 206, § 5º, INC. I DO CÓDIGO CIVIL.
+- Prescreve em 5 anos a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular.
+- No caso, o débito objeto da ação de cobrança advém de prestação da 1º quinzena de abril de 2010, relativo ao contrato de franquia empresarial firmado entre as partes. Portanto, tratando-se de dívida líquida decorrente de obrigação contratual, não há dúvida quanto à aplicação do prazo prescricional quinquenal.
+Em suas razões de recurso especial, a parte ora agravante alegou violação dos arts. 205 e206, § 5º, I, do CC, defendendo a não ocorrência da prescrição, porque aplicável o prazo prescricional decenalpara a cobrança de dívida oriunda de inadimplemento contratual.
+Contrarrazões apresentadas às fls. 191-200 (e-STJ).
+É o relatório. Decido.
+Segundo o entendimento jurisprudencial desta Corte Superior, é quinquenal o prazo prescricional para a dedução da pretensão de cobrança de débito líquido constante de instrumento público ou particular, nos termos do art. 206, § 5º, I, do CC.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. CONTRATO DE MÚTUO. 1. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. 2. TESE SOBRE INÉPCIA DA INICIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS N. 283 E 284/STF. 3. PRESCRIÇÃO QUINQUENAL E TERMO INICIAL. SÚMULA N. 83/STJ. 4. ALEGAÇÃO DE EXCEÇÃO DO CONTRATO NÃO CUMPRIDO. SÚMULA N. 7/STJ. 5. AGIOTAGEM NÃO CARACTERIZADA. JUROS PACTUADOS NOS LIMITES LEGAIS. 6. MULTA DO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 7. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos em relação aos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+2. A ausência de impugnação específica sobre fundamento suficiente, que por si só, é capaz de manter a conclusão esposada no acórdão recorrido, configura deficiência na fundamentação e atrai a incidência das Súmulas 283 e 284 do STF.
+3. A cobrança de dívida líquida constante em instrumento particular sujeita-se ao prazo prescricional de 5 (cinco) anos, nos termos do art. 206, § 5º, I, do CC/2002. Termo inicial do prazo prescricional se dá no dia de pagamento da última parcela.
+4. Rever a conclusão esposada no acórdão recorrido, quanto à tese de exceção do contrato não cumprido, demandaria revolvimento do conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+5. Não está caracterizada a agiotagem, sendo o débito exigível, tendo em vista que a pactuação dos juros não ultrapassou o limite da taxa prevista em lei.
+6. Não merece ser acolhido o pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime.
+7. Agravo interno desprovido."
+(AgInt no AREsp n. 2.107.815/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/8/2022, DJe de 18/8/2022.)
+"RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. EMPRÉSTIMO CONSIGNADO. PARCELAS INADIMPLIDAS. PRESCRIÇÃO QUINQUENAL.
+1. Controvérsia em torno do prazo prescricional para a propositura de ação de cobrança, em razão do inadimplemento pelo devedor das parcelas descontadas em seu contracheque decorrente da perda da margem consignável.
+2. A pretensão de cobrança de dívida líquida constante de instrumento público ou particular, conforme o art. 206, § 5º, I, do Código Civil, prescreve em cinco anos.
+3. RECURSO ESPECIAL CONHECIDO E PROVIDO."
+(REsp 1742514/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 27/10/2020, DJe 18/12/2020)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE BUSCA E APREENSÃO DE BEM ALIENADO FIDUCIARIAMENTE. CARÁTER ACESSÓRIO. PRAZO PRESCRICIONAL.ART. 206, § 5º, I, DO CC. PRESCRIÇÃO CONFIGURADA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Agravo interno contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial, em razão da falta de impugnação específica de fundamento decisório. Reconsideração.
+2. A jurisprudência desta Corte Superior firmou-se no sentido de que "o contrato de alienação fiduciária é um contrato típico, essencialmente vinculado à sua finalidade, concebido e desenhado com o nítido intuito de atender às necessidades de proteção ao crédito em face do risco de inadimplemento" (REsp 1.513.190/DF, Rel.Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/03/2017, DJe de 07/04/2017).
+3. Consoante redação do art. 206, § 5º, I, do Código Civil, é de 5 (cinco) anos o prazo prescricional a que se submete a pretensão de cobrança de dívidas líquidas e certas, constantes de documento público ou particular. Precedentes.
+4. Agravo interno provido para, reconsiderando a decisão agravada, conhecer do agravo e negar provimento ao recurso especial."
+(AgInt no AREsp 1766711/RO, DESTA RELATORIA, QUARTA TURMA, julgado em 15/03/2021, DJe 07/04/2021)
+"AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURADAS. AÇÃO DE RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. CONFISSÃO DE DÍVIDA. NOVAÇÃO. PRESCRIÇÃO. DÍVIDA LÍQUIDA CONSTANTE DE DOCUMENTO PÚBLICO OU PARTICULAR. REEXAME DE PROVAS E DE CLÁUSULAS DO AJUSTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF E 5, 7 E 83/STJ.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. O prazo prescricional a que se submete a pretensão de cobrança de dívidas líquidas e certas, constantes de documento público ou particular é de 5 (cinco) anos de acordo com o artigo 206, § 5º, inciso I, do Código Civil. Precedentes.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+5. A ausência de impugnação específica aos fundamentos do acórdão recorrido, atrai a incidência, por analogia, das Súmulas 283 e 284 do Supremo Tribunal Federal, ante a deficiência de fundamentação.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.637.638/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 8/3/2021, DJe de 11/3/2021.)
+"PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SOBRE-ESTADIA DE CONTÊINER. TRANSPORTE MARÍTIMO UNIMODAL. INAPLICABILIDADE DA PRESCRIÇÃO ÂNUA PREVISTA NO ART. 22 DA LEI N. 9.611/98. PRECEDENTES. NATUREZA DE DÍVIDA LÍQUIDA CONSTANTE DE INSTRUMENTO PARTICULAR. APLICAÇÃO DO PRAZO QUINQUENAL. ACÓRDÃO RECORRIDO PROFERIDO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DO VERBETE 83 DA SÚMULA DO STJ. REVISÃO DO JULGADO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7/STJ. NÃO PROVIMENTO. 1. A Segunda Seção do STJ nos autos do recurso representativo da controvérsia, REsp n. 1.340.041/SP, firmou o entendimento de que "em se tratando de transporte unimodal de cargas, quando a taxa de sobre-estadia objeto da cobrança for oriunda de disposição contratual que estabeleça os dados e os critérios necessários ao cálculo dos valores devidos a título de ressarcimento pelos prejuízos causados em virtude do retorno tardio do contêiner, será quinquenal o prazo prescricional (art. 206, §5º, inciso I, do Código Civil). Caso contrário, ou seja, nas hipóteses em que inexistente prévia estipulação contratual, aplica-se a regra geral do art. 205 do Código Civil, ocorrendo a prescrição em 10 (dez) anos" (Rel. Ministro RICARDO VILLAS BÔAS CUEVA, DJe 4/9/2015).
+2. O Tribunal de origem julgou nos moldes da jurisprudência desta Corte. Incidente, portanto, o enunciado 83 da Súmula do STJ.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp n. 1.367.405/SP, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/5/2019, DJe de 28/5/2019.)
+No caso dos autos, o Tribunal de origem confirmou a prescriçãoda pretensão de cobrança de dívida líquida relativa ao inadimplemento de prestação de contrato de franquia empresarial, com fundamento no transcurso de 5 (cinco) anos desde o vencimento em abril/2010, época da rescisão contratual, até a propositura ação em junho/2015(e-STJ, fls. 173-172):
+"No caso dos autos, o débito objeto da ação de cobrança (ajuizada em 26/06/2015) advém de prestação da 1º quinzena de abril de 2010, relativo ao contrato de franquia empresarial firmado entre as partes (Evento 1,PROCADM3).
+Assim, tratando-se de dívida líquida decorrente de obrigação contratual, não há dúvida quanto à aplicação do prazo prescricional quinquenal, não havendo que se falar em obrigação de natureza pessoal por dano oriundo de inobservância de dever contratual sujeita a prazo decenal."
+Desse modo, constatada a conformidade do acórdão recorrido com ajurisprudência desta Corte, é inviável o provimento do recurso especial, nos termos da Súmula 83/STJ.
+Diante do exposto,conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios devidos pela parte agravante de R$ 3.000,00 (três mil reais) para R$ 3.300,00 (três mil e trezentos reais).
+Publique-se.
