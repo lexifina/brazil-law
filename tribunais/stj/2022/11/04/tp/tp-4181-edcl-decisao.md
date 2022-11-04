@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CAIO HENRIQUE MARCHIORATO MARTINScontra decisão da minha lavra, proferida às e-STJ fls. 431/432, em que não conheci do pedido de tutela provisória por ele formulado, tendo em vista a incompetência desta Corte para analisar pleito dessa natureza, quando o recurso especial interposto na origem ainda pende de juízo de admissibilidade.
+Sustenta a parte recorrente, em síntese, que a decisão recorrida padece de omissão, ao não examinar o precedente do STJ indicado no seu pedido, reconhecendo a sua competência para apreciar a questão aqui deduzida.
+Impugnação.
+Às e-STJ fls. 452/461, o recorrente noticia que, supervenientemente à decisão de e-STJ fls. 431/432, houve o juízo de admissibilidade do seu apelo nobre na origem, de modo a autorizar o exame do pedido de urgência por este relator, nos termos delineados na peça vestibular.
+Passo a decidir.
+Inicialmente, cumpre consignar que os aclaratórios de e-STJ fls. 434/438 encontram-se esvaziados, em face da notícia trazida às e-STJ fls. 452/461, dando conta da realização do juízo de admissibilidade levado a efeito na origem, circunstância que ensejou o não conhecimento impugnado.
+Nesse sentido, passo ao exame do pedido de urgência formulado pelo particular.
+No Superior Tribunal de Justiça, a tutela provisória de urgência é cabível apenas para atribuir efeito suspensivo ou, eventualmente, para antecipar a tutela em recursos ou ações originárias de competência desta Corte, devendo haver a satisfação simultânea de dois requisitos, quais sejam, a verossimilhança das alegações -fumus boni iuris, consubstanciada na elevada probabilidade de êxito do recurso interposto ou da ação- e o perigo de lesão grave e de difícil reparação ao direito da parte - periculum in mora.
+Na presente hipótese, em uma análise perfunctória dos autos, própria das tutelas de urgência, não vislumbro o primeiro dos pressupostos.
+É que a cópia da decisão que inadmitiu o apelo nobre (e-STJ fls. 462/471) evidencia que: o acórdão impugnado adotou fundamentos de natureza constitucional e infraconstitucional, sendo certo que o recorrente não manejou o respectivo recurso extraordinário, circunstância que autoriza a incidência da Súmula 126 do STJ; aplicação da Súmula 5 desta Corte, à vista da necessidade de reapreciação de interpretação de cláusula editalícia; tendo o julgado recorrido utilizado na sua fundamentação aspectos fático-probatórios coligidos aos autos, a análise dessa questão demanda o reexame de provas, inadmissível na via especial, de acordo com a Súmula 7/STJ.
+Nesse panorama, como já dito, não vislumbro, em princípio, elevada probabilidade de sucesso na pretensão da parte impetrante, ora recorrente.
+Ante o exposto, JULGO PREJUDICADO os embargos de declaração, eINDEFIRO o pedido de tutela provisória, com arrimo no art. 34, XVIII, "a", do RISTJ.
+Publique-se. Intimem-se.
