@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de incidente de uniformização de jurisprudência requerido por EVA REJANE DE MENEZES ABRDUQUE e UILSON ROBERTO BORDUQUE, em petição acostada às fls. 248-583.
+Nas razões do incidente, os requerentes defendem a existência de divergência jurisprudencial, no âmbito do Superior Tribunal de Justiça,acerca da possibilidade dos direitos decorrentes do contrato de arrendamento residencial no âmbito do Programa de Arrendamento Residencial - PAR.
+É o relatório.
+O pedido não pode ser conhecido.
+Com efeito,o incidente de uniformização de jurisprudência não se confunde com a irresignação recursal, pois possui cunho preventivo, devendo ser requerido antes do julgamento do apelo nobre.
+Ademais, de acordo com a jurisprudência desta Corte, o processamento do incidente consiste numa faculdade do relator, com base no juízo de conveniência e oportunidade. A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO INFIRMA ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. ARTIGO 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL DE 1973. 1. A decisão recorrida foi publicada antes da entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil de 1973, conforme Enunciado Administrativo 2/2016 desta Corte. 2. É inviável o agravo que não tenha atacado especificamente todos os fundamentos da decisão agravada (art. 544, § 4º, I, CPC/1973 e Súmula 284/STF).
+3. "A pretensão de simples reexame de prova não enseja recurso especial" (Súmula 7/STJ).
+4. Incide a Súmula 282/STF quando o Tribunal de origem não tiver emitido pronunciamento sobre a questão debatida nos autos.
+5. O incidente de uniformização, nos termos dos artigos 118 e seguintes do RISTJ, além de ser uma faculdade do relator, deve ser suscitado nas razões de recurso ou em petição avulsa, evidentemente, antes do julgamento do recurso (art. 476 do CPC/73).
+6. No caso dos autos, o julgamento do agravo em recurso especial impede o processamento do incidente de uniformização de jurisprudência.
+7. Agravo interno a que se nega provimento.
+(AgRg no AREsp n. 597.898/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/8/2017, DJe de 22/8/2017.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA E COMINATÓRIA. VIOLAÇÃO AO ART. 535 DO CPC/1973. INEXISTÊNCIA. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. FACULDADE DO RELATOR. COLIDÊNCIA DE MARCA E NOME COMERCIAL. DEMANDA JULGADA IMPROCEDENTE NA ORIGEM. AUSÊNCIA DE POSSIBILIDADE DE CONFUSÃO. PÚBLICO-ALVO ESPECÍFICO. PROVA PERICIAL NO SENTIDO DE QUE OS PRODUTOS SÃO DISTINTOS POR FORMA, MARCA E EMBALAGEM. SÚMULA 7/STJ. ALEGAÇÃO DE FATO NOVO. INVIABILIDADE DE EXAME. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 535 do CPC, uma vez que o acórdão recorrido adotou fundamentação suficiente à resolução da controvérsia.
+2. Consoante entendimento desta Corte, "o processamento do incidente de uniformização de jurisprudência previsto no art. 476 do CPC/1973 constitui faculdade do relator, de acordo com sua própria conveniência e oportunidade" (AgInt no AREsp 470.837/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe de 29.9.2016).
+3. A autora/recorrente alega que é titular da marca Kg Sorensen e teve seu direito violado pelo recorrido, com o uso da marca Poul Sorensen, causando confusão aos consumidores.
+4. Alegação rejeitada pelas instâncias ordinárias, que concluíram, com base nos elementos probatórios dos autos, que a confusão se faz impossível, considerando que o laudo pericial verificou que os produtos são distintos por forma, marca e embalagem, bem assim que o público-alvo dos produtos é especial.
+5. A modificação de tal entendimento demandaria o reexame do conjunto fático-probatório dos autos, providência inviável no recurso especial, nos termos da Súmula 7/STJ.
+6. Esta Corte já decidiu que, "para impedir o registro de determinada marca é necessária a conjunção de três requisitos: a) imitação ou reprodução, no todo ou em parte, ou com acréscimo de marca alheia já registrada; b) semelhança ou afinidade entre os produtos por ela indicados; c) possibilidade de a coexistência das marcas acarretar confusão ou dúvida no consumidor (Lei 9.279/96 - Art. 124, XIX); afastando o risco de confusão, é possível a coexistência harmônica das marcas" (REsp 949.514/RJ, relator Ministro HUMBERTO GOMES DE BARROS, Terceira Turma, DJ 22.10.2007, p. 271) 7. "O fato novo e superveniente, relativo à nulidade dos registros de marca da recorrida pelo INPI, não pode ser levado em consideração no julgamento do recurso especial, tendo em vista que, além de não haver manifestação acerca deles pelas instâncias ordinárias, não se mostra, por si só, apto a alterar o resultado do julgamento, embora pudesse ter nele alguma influência" (AgInt no REsp 1.265.680/RJ, de minha relatoria, Quarta Turma, DJe de 18.5.2021).
+8. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 274.873/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/9/2022, DJe de 20/9/2022.)
+No caso, a instauração do incidente revela-se descabida, uma vez quejá houve o julgamento do recurso especial às fls. 243-245.
+Sendo assim, não conheço do pedido de uniformização de jurisprudência.
+Publique-se.
