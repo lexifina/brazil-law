@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial sob os seguintes fundamentos: (a) ausência de demonstração da ofensa aos artigos de lei indicados, (b) aplicação daSúmulan. 7/STJ e (c) falta de comprovação do dissídio jurisprudencial, por inexistência de similitude fática (e-STJ fls. 691/694).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 570):
+CERCEAMENTO DE DEFESA - Não ocorrência - Julgamento antecipado da lide - Desnecessidade doutras provas. ANULATÓRIA - Adjudicação de imóveis - Sentença de improcedência, reconhecida decadência - Prazo de dois anos a contar da ciência do interessado a respeito do ato jurídico que se pretende anular (art. 179 do Código Civil) - Ação ajuizada sete anos após a ciência inequívoca da autora sobre a adjudicação - Decadência configurada - Hipótese, demais, em que a ausência de intimação do cônjuge acerca da adjudicação não configura nulidade - Sentença mantida - Recurso desprovido.
+Os embargos de declaraçãoforam rejeitados (e-STJ fls. 668/672).
+No recurso especial (e-STJ fls. 582/593), fundamentado no art. 105, III, alíneas "a" e "c", da CF, a recorrente alegou dissídio jurisprudencial e violação do art.169 do CC/2002, pois seria imprescritível o prazo para requerer a declaração de nulidade da adjudicação dos imóveis descritos na exordial na execução promovida pela parte recorrida, sendo descabido cogitar a aplicação de prazo decadencial no ponto.
+Foram apresentadas contrarrazões (e-STJ fls. 676/690).
+No agravo (e-STJ fls. 697/704), afirmaa presença de todos os requisitos de admissibilidade do especial.
+Contraminutaapresentada (e-STJ fls. 707/714).
+É o relatório.
+Decido.
+O Tribunal a quo assentou que, mesmo afastada a decadência para a recorrente discutir a nulidade da adjudicação dos imóveis, a parte não lograria êxito na demanda, porque, quando executada, ofereceu os referidos bens à penhora. Ademais,teve plena ciência dos atos processuais praticados na demanda executivae era desnecessária sua intimação, nos termos do art. 687, § 5º, do CPC/1973. Confira-se a fundamentação da Corte local(e-STJ fls. 576/577):
+Cumpre anotar que, inda que não houvesse ocorrido a decadência, não seria caso de nulidade, já que a própria autora, quando executada, ofereceu os bens à penhora (fls. 132/133), além de constituir o coexecutado Denilson Tadeu Santana como seu procurador (fls. 134/143), demonstrando plena ciência dos atos processuais praticados na ação executiva, não se cogitando em qualquer afronta ao devido processo legal ou ao direito de propriedade. Demais, a ausência de intimação do cônjuge acerca da adjudicação quando não é parte no processo não implica nulidade, vez que o artigo 687, § 5º, do Código de Processo Civil de 1973 (aplicável à época) exigia apenas a intimação do devedor para a validade da alienação judicial, não havendo necessidade de intimação do cônjuge.
+A respeito de tais razões de decidir, a recorrente não se manifestou especificamente, o que atrai a Súmula n. 283/STF.
+Não há como ultrapassar as conclusões do Tribunal de origem sem o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontadose a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais a recorrente não se desincumbiu.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Deferida a gratuidade da justiça na instância de origem (e-STJ fl. 96), deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
