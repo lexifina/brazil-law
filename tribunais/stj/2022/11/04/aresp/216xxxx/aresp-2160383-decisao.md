@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por MAITELLI BRANDÃO E CIA LTDA.que pretende a admissão de recurso especial interposto com fundamento no art. 105, III, da Constituição Federal.
+Passo a decidir.
+Como cediço,não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada. É o que dispõem o art. 932, III, do CPC/2015 e o art. 253, parágrafo único, I, do RISTJ:
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016) (Grifos acrescidos)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisãoa quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+In casu, da análise dos autos, verifico que a decisão agravada inadmitiu o apelo raro com os seguintes fundamentos: (i) inocorrência da alegada negativa de prestação jurisdicional; (ii) incidência da Súmula 83 do STJ.
+Esses fundamentos, todavia, não foram especificamente impugnados nas razões do agravo interno.
+Isso porque, primeiro, no capítulo dedicado à alegada afronta ao art. 1.022, II, do CPC/2015, embora alegue existir omissão sobre a existência de circunstância que distinguiria o presente feito daqueleapreciado pelo precedente obrigatório do STF considerado noacórdão recorrido, arecorrente explica qual seria essa circunstância e a sua relevância a relevância delapara o resultado da demanda, o que revela a deficiência de sua fundamentação, nos termos da Súmula 284 do STF.
+No que se refere ao segundo óbice, importa registrar que, inadmitido o recurso especial com base na Súmula 83 do STJ, caberia ao agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido do acórdão recorrido, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pela decisão de inadmissibilidade, o que não ocorreu na espécie.
+A propósito, na tentativa de afastar a aplicação desse verbete de súmula, a agravante limitou-se a alegar que "o presente recurso especial discute também o direito de permissão da dedução do imposto pago da base de cálculo do Simples Nacional, prevista no § 4º-A, do artigo 18, da Lei Complementar n. 123/06". Ocorre que essa afirmação encontra-se dissociada do processo, visto quealudido dispositivo legal sequer foi ventilado nas razões do recurso especial.
+Ante o exposto, com base no art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Considerando a existência de prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
