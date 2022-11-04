@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito suscitado pelo JUÍZO ELEITORAL DA 76ª ZONA DE JOÃO PESSOA/PB e o JUÍZO FEDERAL DA 3ª VARA DE JOÃO PESSOA - SJ/PB, em que se discute a competência para processar e julgar ação de procedimento comum ajuizada por MARTINHO RAMALHO DE MELO, destinada a impugnar a imposição de multa por litigância de má-féno bojo da Representação Eleitoral TRE-PB n. 04/2018.
+O Ministério Público Federal opina pela competência do juízo eleitoral(e-STJ fls. 202/205).
+Passo a decidir.
+O art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, penso que assiste razão ao suscitado.
+Conforme bem apontado no parecer ministerial (e-STJ fls. 202/205):
+7. No caso em tela, o interessado foi noticiante na Representação TRE-PB n. 4/2018, na qual a decisão do Corregedor determinou seu arquivamento, mas o representante ao pagamento de multa por litigância de má-fé (fls. 112 e 155/156). Consta da referida decisão que "( ) A penalidade aplicada, caso não recolhida em favor da União no prazo de 30 (trinta) dias através de GRU, deverá ser levada à inscrição na Divida Ativa da União a ser processada pela Secretaria Judiciária deste Tribunal ( )" (fl. 53).
+8. Para além de estar em causa decisão emanada de órgão jurisdicional no exercício de função eleitoral, a Lei n. 4.737/1965, nos exatos termos do art. 367, caput e inciso IV, que instituiu o Código Eleitoral, fixou a seguinte competência da Justiça Eleitoral, verbis:
+"Art. 367. A imposição e a cobrança de qualquer multa, salvo no caso das condenações criminais, obedecerão às seguintes normas:
+IV - A cobrança judicial da dívida será feita por ação executiva na forma prevista para a cobrança da dívida ativa da Fazenda Pública, correndo a ação perante os juízos eleitorais;".
+9. Nesse contexto, por reverberação do estatuído pelo artigo 109, I, da Carta Política, quer o questionamento judicial da decisão sancionatória exarada pela Corregedoria eleitoral, quer sua eventual execução fiscal ou ação anulatória do lançamento dela decorrente são da competência da Justiça Eleitoral. Com efeito, as multas eleitorais são inscritas na Dívida Ativa da União e são cobradas por execução fiscal ajuizada pela Procuradoria da Fazenda Nacional, bem como cabe a Justiça Eleitoral a competência para julgar ações decorrentes de fatos ocorridos em sua esfera de competência (Súmula 374/STJ).
+Nesse passo, considerando que a multa por litigância de má-fé foi imposta no âmbito da Justiça Eleitoral, é de rigor que eventual impugnação ocorra no âmbito dessa Justiça especializada. Nesse sentido: CC 46.901/PR, rel. Min. DENISE ARRUDA, Primeira Seção, DJe 27/03/2006.
+Ante o exposto, com base no art. 34, XXII, do RISTJ, CONHEÇO do conflito para DECLARAR a competência do JUÍZO ELEITORAL DA 76ª ZONA DE JOÃO PESSOA/PB.
+Publique-se. Intimem-se.
