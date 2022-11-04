@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por JORGE LUIS PORTELA DE ALMEIDA contra acórdão assim ementado:
+TRIBUTÁRIO. RETIFICAÇÃO DE DECLARAÇÃO DE IMPOSTO DE RENDA. "ERROS" ATRIBUÍVEIS UNICAMENTE AO SUJEITO PASSIVO. FORMALIDADE MÍNIMA NECESSÁRIAÀ APLICAÇÃO DO DIREITO, À SEGURANÇA JURÍDICA E À ISONOMIA. VIA ESTREIRA DO MANDADO DE SEGURANÇA. APELAÇÃO IMPROVIDA.
+1. Apelação interposta por JORGE LUIS PORTELA DE ALMEIDA contra sentença que, em ação mandamental preventiva, denegou a segurança objetivando a retificação da Declaração do Imposto de Renda do impetrante/apelante nos exercícios de 2017, 2018 e 2019.
+2. Esta Turma não desconhece que o excesso de formalismo pode desencadear a descaracterização dos próprios objetivos buscados pela norma, de modo que, em que pese a atuação administrativa estar pautada, entre outros, nos princípios da legalidade, impessoalidade, eficiência e moralidade, é preciso que, em determinadas situações, a administração pública esteja sensível aos interesses do administrado, valendo-se de interpretações flexíveis e razoáveis quanto à forma do procedimento, sob pena de esta ser vista como fim em si mesma, desligada da verdadeira finalidade do processo.
+3. Ainda que se acolha a tese de que o ente público não pode ater-se a rigorismos formais ao considerar as manifestações do particular, é necessário certa medida de formalidade, sob pena de tornar o direito desigual para as partes, além da própria insegurança jurídica. Conforme reconhecido pelo recorrente, o crédito tributário em questão decorreu de erros formal cometido pela parte.
+4. No caso concreto, não há como acolher a pretensão do recorrente, ainda que se flexibilize o rigor formal. Isso porque, conforme informações prestadas pela Fazenda Nacional, a administração tributária intimou a parte interessada para apresentar os esclarecimentos e documentos comprobatórios do alegado erro, no que não foi atendida.
+5. Vale ponderar, ainda, que a mera alegação de erro não é suficiente para a admissão do recebimento de declaração retificadora, nos termos do art. 147, §1º, do CTN, de modo que, no caso concreto, a parte não se desincumbiu de anexar documentação suficiente para distinguir a situação de equívoco daquela em que há um arrependimento da opção por modelo que pareceu mais favorável ao contribuinte.
+6. A situação que lhe é desfavorável decorre unicamente da sua desídia na aplicação correta da norma jurídica, não podendo a parte, na via jurisdicional, se aproveitar de situação a qual deu causa em benefício próprio, sobretudo quando a via estreita do mandado de segurança exige prova cabal do direito alegado, oque não se verifica nos autos.
+7. Apelação improvida.
+Os embargos de declaração opostos foram providos sem efeitos infringentes.
+No presente recurso especial, o recorrente aponta violação do art. 147, §1º, do CTN, sustentando, em suma, a necessidade de retificação da declaração de IR do contribuinte tendo em vista o erro na modalidade da declaração.
+É o relatório. Decido.
+Compulsando detidamente os autos, verifica-se que o acórdão recorrido, em confronto com as razões do recurso especial, revela que o fundamento apresentado naquele julgado, de que "a administração tributária intimou aparte interessada para apresentar os esclarecimentos e documentos comprobatórios do alegado erro, no que não foi atendida" utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Por outro lado, é irrefutável que o Tribunal de origem, ao apreciar o conteúdo fático e probatório dos autos, consignou expressamente que "a via estreita do mandado de segurança exige prova cabal do direito alegado, o que não se verifica nos autos".
+Dessa forma, para rever tal posição, relativo à necessidade de prova no mandamus, e interpretar o dispositivo legal indicado como violado, seria necessário o reexame dos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
