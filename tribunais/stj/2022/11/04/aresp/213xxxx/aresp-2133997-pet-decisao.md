@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de petição apresentada por LUCAS MOREIRA DE OLIVEIRA (fls. 780-783), por meio da qual requer que, dada a redução da pena privativa de liberdade determinada na decisão de fls. 767-776 e considerando a menoridade relativa à época dos fatos, seja reconhecida a extinção da punibilidade pela prescrição da pretensão punitiva.
+Instados a se manifestar, o Ministério Público Federal e o Ministério Público do Estado de Minas Gerais pugnaram pelo deferimento do pedido (fls. 792-794 e 796-799).
+É o relatório.
+Decido.
+Por intermédio da decisão de fls. 767-776 o agravo regimental interposto pelo Requerente foi parcialmente conhecido e, nessa extensão, provido para, reconsiderando a decisão da Presidência desta Corte Superior de Justiça de fls. 721-728, conhecer do agravo em recurso especial, a fim de conhecer e dar provimento ao apelo nobre de maneira afazer incidir a minorante do tráfico privilegiado no patamar máximo;restabelecer o regime inicial aberto; e restabelecer a substituição da sanção corporal por 2 (duas) restritivas de direitos.
+Por conseguinte, as sanções impostas ao Requerente foram redimensionadas a 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial aberto, e pagamento de 166 (cento e sessenta e seis) dias-multa, no mínimo legal.
+O prazo prescricional para esse quantum de pena privativa de liberdade, nos termos do inciso V do art. 109 do Estatuto Repressor, é de 4 (quatro) anos- no mesmo tempo, prescreve a pena de multa (art. 114 do CP) - e, conforme é possível se depreender do documento de identidade juntado àfl. 782, o Requerente nasceu em 25/10/1996. Portanto, era menor de 21 (vinte e um) anos à época dos fatos, os quais ocorreram em 14/04/2016,hipótese na qual o prazo prescricional é reduzido à metade, nos termos preconizados no art. 115 do Código Penal.
+Na espécie, verifico que o interstício superior ao citado prazo(2 anos) transcorreu entre o recebimento da denúncia, ocorrido em 27/07/2016 (fls. 166-175) e a publicação da sentença condenatória em 1.º/03/2019 (fl. 304), sendo de rigor o reconhecimento da prescrição da pretensão punitiva e, consequentemente, da extinção da punibilidade do Requerente.
+Ante o exposto, DEFIRO o pedido e reconheço a extinção da punibilidade pela prescrição da pretensão punitiva estatal.
+Publique-se. Intimem-se.
+EMENTA
+PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. MENORIDADE RELATIVA À ÉPOCA DOS FATOS. PRAZO PRESCRICIONAL REDUZIDO À METADE. EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INTERSTÍCIO DECORRIDO ENTRE O RECEBIMENTO DA DENÚNCIA E A PUBLICAÇÃO DA SENTENÇA. PEDIDO DEFERIDO.
