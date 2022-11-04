@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos contra decisão que negou seguimento ao recurso especial, em virtude da incidência das Súmulas n. 83 do STJ, 283 e 284 do STF (e-STJ fls. 282/286).
+O acórdão recorrido está assim ementado (e-STJ fl. 230):
+APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - EXCESSO DE EXECUÇÃO - INCIDÊNCIA DE ISSQN E INSS NO CÁLCULO EXEQUENDO - TÍTULO EXECUTIVO - CONTRATO DE PRESTAÇÃO DE SERVIÇOS - VALORES CERTOS DEVIDOS MENSALMENTE - EXCESSO INEXISTENTE - RECURSO DESPROVIDO.
+Verificado que o título executivo que embasa a lide embargada traz de maneira discriminada o prazo e valores devidos, na hipótese de inadimplemento contratual, deverão ser ditos valores objeto da execução, ainda que se conclua ser a empresa contratada a responsável pelo pagamento do ISSQN e INSS, dada a ausência de qualquer previsão contratual inerente ao abatimento dos valores devidos a este título.
+Os embargos de declaração foram rejeitados (e-STJ fls. 249/251).
+No recurso especial (e-STJ fls. 253/265), fundamentado no art. 105, III, "a", da CF, a parte recorrente aponta violação dos arts. 489 e 1.022 do CPC/2015 por negativa de prestação jurisdicional, porque não foi examinada a incidência do art. 31 da Lei n. 8.212/1991nema alegação de que, "nos casos em que houver retenção do valor correspondente à contribuição previdenciária pela empresa tomadora de serviço, apenas ela é responsável pelo pagamento da contribuição dos trabalhadores terceirizados, sendo totalmente excluída a responsabilidade da empresa cedente de mão de obra" (e-STJ fls. 260/261).
+Afirma ainda que, "tendo o acórdão recorrido entendido que os encargos devidos a título de ISSQN e INSS, sejam de responsabilidade da empresa contratada e não da tomadora de serviços, e que inexiste qualquer previsão contratual no sentido de que tais verbas deveriam ser abatidas do montante total mensal por ela devido, houve flagrante violação ao art. 31 da Lei 8.212/91" (e-STJ fl. 262).
+Argumenta que, "ainda que não tenha previsão contratual, existe respaldo legal para a retenção do valor devido e pago ao INSS" (e-STJ fl. 263).
+No agravo (e-STJ fls. 288/298), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 312/315).
+É o relatório.
+Decido.
+Ausente ofensaaos arts. 489 e 1.022 do CPC/2015, pois a Corte estadual explicitou, de forma clara e fundamentada,os motivos pelos quais confirmou a sentença que julgou parcialmente procedentes os embargos à execução. Confira-se o seguinte excerto (e-STJ fls. 232/233):
+Ora, o contrato objeto de execução nos autos em apenso (f. 96-103), foi firmado com prazo determinado de 05 (cinco) meses, com previsão de pagamento mensal de R$ 12.799,00 (doze mil, setecentos e noventa e nove reais), em razão dos serviços prestados.
+Nessa senda, ainda que se possa concluir, na forma como afirmada pelo apelante, que os encargos devidos à titulo de ISSQN e INSS, sejam de responsabilidade da empresa contratada e não da tomadora de serviços, inexiste qualquer previsão contratual no sentido de que tais verbas deveriam ser abatidas do montante total mensal por ela devido.
+Assim, de se notar que na forma como acertadamente decidido pelo juízo de primeiro grau, a apelante obrigou-se ao pagamento mensal de quantia certa, no importe de R$ 12.799,00 (doze mil, setecentos e noventa e nove reais), através do contrato exequendo, de maneira que deve ser esta a quantia exigida em decorrência do inadimplemento, sem necessidade de qualquer abatimento inerente aos encargos ora discutidos, os quais, na forma como anteriormente anotada, ainda que de responsabilidade da apelada, não impede a condenação daquela na quantia total que se obrigou em decorrência do contrato firmado.
+No julgamento dos embargos de declaração, foi esclarecido ainda que (e-STJ fl. 250):
+(..) o acórdão embargado concluiu de maneira expressa que, ainda que se constate ser a empresa contratada a responsável pelo pagamento do ISSQN e INSS, deverão ser objeto da execução os valores discriminados no título executivo, diante da ausência de qualquer previsão contratual inerente ao abatimentos dos valores devidos àquele título.
+O simples fato de não tersido acolhidaa tesedefendida pela parte não configura o vício apontado.
+Em relação ao art. 31 da Lei 8.212/91, verifica-se que o Tribunal de origem fundamentou-se nas disposições contratuais para concluir que o valor cobrado na execução está correto, inexistindo previsão contratual que pudesse justificar o desconto pretendido pela parte.
+Dessa forma, o dispositivo invocado pela parte, que trata do recolhimento de contribuição pela empresa contratante do serviço, não guarda pertinência com o que foi decidido no acórdão recorrido, tampouco tem força normativa para alterar a conclusão do julgado. Incide, dessa forma, a Súmula n. 284 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
