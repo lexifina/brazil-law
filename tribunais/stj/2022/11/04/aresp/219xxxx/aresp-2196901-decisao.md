@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto porASSEMBLEIA DE DEUS MINISTÉRIO VALE DO JATOBÁ com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - ASSEMBLEIA GERAL - EMACIPAÇÃO DE ENTIDADE RELIGIOSA - INOBSERVÂNCIA DAS NORMAS ESTATUTÁRIAS - INVALIDADE - HONORÁRIOS DE SUCUMBÊNCIA - LEGITIMIDADE CONCORRENTE DA PARTE - FIXAÇÃO POR EQUIDADE. A parte tem legitimidade concorrente com o advogado para execução dos honorários advocatícios resultantes da sucumbência possuindo interesse recursal para discutir a fixação desses honorários.De acordo com o art. 85, §2º, do CPC, que os honorários advocatícios serão fixados com base no valor da condenação, do proveito econômico obtido ou sobre o valor da causa, na forma do ad. 85, §2º, do CPC, ou por apreciação equitativa quando não for possível mensurar o proveito econômico ou o valor da causa for muito baixo, nos termos do §8º, do mencionado dispositivo legal. A inobservância das normas estatutárias enseja a invalidade das deliberações da assembleia. Para emancipação de entidade religiosa, necessária a convocação e deliberação da Diretoria Geral conforme previsão em estatuto.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta a recorrente, ora agravante, que o Tribunal a quo negou vigência aos arts.54, III, 58, 112, 113, 1.024,2.033,do Código Civil,e art.229 da Lei 6.404/1976, na medida em que, ao não valorar adequadamente seu Estatuto, tampouco sua natureza jurídica, deixou de lhereconhecer a posse plena, justa e pacífica sobre os imóveis, não podendo ser mera detentora desses imóveis.
+Obtempera quena cisão parcial, parte do patrimônio da pessoa jurídica cindida é transferido para a pessoa jurídica já existente ou constituída para esse fim, como é o caso. Assim, o Tribunal a quo, aomanter a reintegração da posse dos imóveis em litígio, violoufrontalmente o art. 229 da Lei 6.404/1976.
+Apresentadas contrarrazões a fls. 1290/1297.
+O referido recurso não foi admitido, por se entender, essencialmente, incidente, na espécie, a Súmula 7/STJ.
+Daí porque foi interposto o presente agravo.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+Em verdade, a parte recorrente pretende ver reconhecida avalidade da Assembleia Geral Ordinária realizada em 2012, bem como sua emancipação, para fins de validar em seu nomeescritura de todos os bensmóveis e imóveis objetos da lide.
+Com efeito, o recurso especial encontra óbice para seu conhecimento, pois a pretensão recursal implica exame do Estatuto constitutivo da entidade, o que se mostra impróprio em sede de recurso especial, em observância à Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO E FALTA DE FUNDAMENTOS NO JULGADO DO TRIBUNAL DE ORIGEM. INEXISTÊNCIA. ASSOCIAÇÃO. MORTE DE UM DOS FUNDADORES. SUCESSÃO. INTERPRETAÇÃO DE CLÁUSULAS DOESTATUTODAPESSOA JURÍDICA.REEXAME DE PROVAS.SÚMULAS 5E 7/STJ. CONCLUSÃO DO ACÓRDÃO RECORRIDO. ALTERAÇÃO. NECESSIDADE DE REJULGAMENTO POR ESTE COLEGIADO. IMPOSSIBILIDADE. UTILIZAÇÃO DESTA CORTE COMO TERCEIRA INSTÂNCIA REVISORA. DESCABIMENTO. DISSÍDIO INVIABILIZADO.
+1. Segundo entendimento sedimentado nesta Corte, não é omisso e nem desprovido de fundamentos o acórdão do Tribunal de origem que motiva adequadamente o julgamento, solucionando a controvérsia, mas não no sentido preconizado pela parte interessada.
+2. Arrimado o julgado objeto do recurso especial nas provas dos autos e nas cláusulas doestatutoda associação, adotar conclusão diversa não se mostra apropridado na via eleita, pois encontra óbice nasSúmulas 5e7desta Corte. O STJ não é terceira instância revisora e nem pode o especial ser transmudado em uma verdadeira apelação da apelação.
+3. Aplicados esses óbices sumulares, fica, em consequência, inviabilizado o pretendido dissenso jurisprudencial, ainda mais se, como na espécie, não atendidas as exigências legais.
+4. Agravo interno não provido.
+(AgInt no AREsp 1823285/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/4/2022, DJe de 7/4/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Não cabe a análise, em recurso especial de suposta violação a dispositivos constitucionais, por se tratar de matéria reservada à análise da Suprema Corte, nem de alegada ofensa à norma infralegal.
+2. A revisão do aresto impugnado no sentido pretendido pela parte recorrente exigiria derruir a convicção formada nas instâncias ordinárias sobre o critério de revisão do benefício de suplementação de aposentadoria, previsto emestatuto.Incidência dasSúmulas 5e 7/STJ. Precedentes.
+3. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Na hipótese, não fora alegada violação ao artigo 1.022 do CPC/15 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema. Incidência da Súmula 211/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 993087/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/11/2019, DJe de 27/11/2019)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado sucumbenciais em mais R$250,00 (duzentos e cinquenta reais).
+Publique-se.
