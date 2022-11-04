@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdãocuja ementa é a seguinte:
+PREVIDENCIÁRIO. PENSÃO POR MORTE. REQUERENTE FALECIDA NO CURSO DO PROCESSO ADMINISTRATIVO. GENITORA. ILEGITIMIDADE ATIVA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO.
+1. A autora pleiteia o recebimento de parcelas vencidas de benefício de pensão por morte que seria titularizado pela filha, falecida no curso do processo administrativo e por fim julgado improcedente pela autarquia previdenciária.
+2. O benefício previdenciário constitui direito personalíssimo, o qual se extingue com o falecimento do seu titular, razão pela qual não possui a parte autora legitimidade para pleitear a sua concessão, bem como o recebimento dos atrasados.
+3. Em consonância do Art. 18, do CPC, ninguém poderá pleitear direito alheio em nome próprio, salvo quando autorizado pelo ordenamento jurídico, o que não ocorre no caso dos autos.
+4. Ausente uma das condições da ação, é de se extinguir o feito sem resolução do mérito.
+5. Apelação prejudicada.
+Os Embargos de Declaração foram rejeitados.
+A parte agravante, nas razões do Recurso Especial, sustenta, em síntese:
+(..)
+Como regra, o benefício previdenciário constitui-se em direito personalíssimo, dependendo de manifestação de vontade do titular, não sendo transmissível aos seus sucessores. Significa que se o interessado não manifestou em vida a vontade de obtenção dobenefício, na época própria, não podem os sucessores postular direito alheio.
+Contudo, não se confunde o direito ao benefício em si com o direito a valores que o beneficiário deveria ter recebido em vida caso a Administração tivesse agido corretamente em face da situação fática trazida à sua apreciação. Diante do indeferimento ou cancelamento indevido, a obrigação assume natureza puramente econômica, e, portanto, transmissível, uma vez que o direito integrou-se ao patrimônio do falecido.
+(..)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.10.2022.
+O Tribunal de origem, ao decidir avexata quaestio,consignou:
+(..)No que se refere à Previdência Social, a legislação prevê tão somente o direito à concessão do benefício de pensão por morte aos dependentes do segurado falecido, correspondente a cem por cento do valor da aposentadoria que o segurado recebia ou daquela a que teria direito se estivesse aposentado por invalidez na data de seu falecimento (Lei 8.213/91, Art. 75).
+Ressalte-se que a parte autora não se qualifica como cotista de eventual pensão por morte que poderia ser recebida pela, motivo por que jamais de cujus poderia integrar a relação jurídica de direito material deduzida em juízo, em razão do seu caráter personalíssimo e da intransmissibilidade.
+Não se ignora a disposição contida no Art. 112, da Lei 8.213/91, segundo a qual " o valor não recebido pelo segurado só será pago aos seus dependentes habilitados à pensão por morte ou, na falta deles, aos seus sucessores na forma da lei ". Todavia, o que se discute nos autos,não são valores não recebidos em vida pela segurada, mas se teria ou não direito à pensão por morte, matéria essa que não pode ser debatida judicialmente por seus sucessores.
+Com efeito, a pretensão não é de ordem meramente patrimonial, haja vista a necessidade de análise do mérito sobre o direito material ao benefício personalíssimo pleiteado, e não discutido em vida nesta via judicial, pela sua titular.
+(..)
+Extrai-se do acórdão vergastado e das razões de Recurso Especial que o entendimento da Corte a quo está em consonância com a orientação do STJ no sentido de queo benefício previdenciário é direito personalíssimo que se extingue com o falecimento do titular. O direito ao benefício previdenciário não se confunde com a possibilidade de os herdeiros pleitearem diferenças pecuniárias que o segurado deveria ter recebido em vida.
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO PROPOSTA PELA FILHA OBJETIVANDO O RECEBIMENTO DE SALÁRIO-MATERNIDADE QUE SERIA DEVIDO À SUA FALECIDA GENITORA. IMPOSSIBILIDADE. INAPLICABILIDADE DO ART. 71-B DA LEI 8.213/1991. DIREITO PERSONALÍSSIMO. BENEFÍCIO NÃO REQUERIDO PELO TITULAR DO DIREITO. ILEGITIMIDADE ATIVA CONFIGURADA. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. No caso dos autos, a autora, nascida em 01/03/2008, objetiva provimento jurisdicional que lhe assegure o recebimento do benefício previdenciário de salário-maternidade, alegando que sua genitora, que veio a óbito em 19/11/2012, sem haver requerido o benefício, era trabalhadora rural. O Tribunal de origem reconheceu a ilegitimidade ativa da autora e extinguiu o processo sem resolução do mérito.
+2. O art. 71-B da Lei 8.213/1991, incluído pela Lei 12.873/2013, prevê que, no caso de falecimento da segurada ou segurado que fizer jus ao recebimento do salário-maternidade, o benefício será pago, por todo o período ou pelo tempo restante a que teria direito, ao cônjuge ou companheiro sobrevivente que tenha a qualidade de segurado, exceto no caso do falecimento do filho ou de seu abandono, observadas as normas aplicáveis ao salário-maternidade. O pagamento do salário-maternidade derivado deverá ser requerido até o último dia do prazo previsto para o término do salário-maternidade originário (§1º).
+3. O dispositivo autoriza o pagamento do salário-maternidade ao cônjuge ou companheiro sobrevivente que tenha a qualidade de segurado, não havendo previsão legal para que o filho sobrevivente o pleiteie. Assim, a pretensão recursal não encontra amparo no art. 71-B na Lei 8.213/1991, incluído pela Lei 12.873/2013.
+4. Lado outro, o art. 112 da Lei 8.213/1991 possibilita que os valores não recebidos em vida pelo segurado sejam pagos aos seus dependentes habilitados à pensão por morte ou, na falta deles, aos seus sucessores na forma da lei civil, independentemente de inventário ou arrolamento.
+5. Impõe-se fazer a distinção entre a questão examinada pela Primeira Seção nos recursos especiais 1.856.967/ES, 1.856.968/ES e 1.856.969/RJ, relatados pela Ministra REGINA HELENA COSTA, julgados em 23/06/2021, DJe 28/06/2021, submetidos ao rito dos recursos repetitivos, tema 1.057/STJ, e a tratada no presente feito. Com efeito, no referido julgamento, discutia-se se os pensionistas e sucessores detêm legitimidade para figurarem no polo ativo de ação previdenciária revisional, ajuizada com o escopo de revisar a aposentadoria do de cujus (benefício originário) , o que não se confunde com o pleito de concessão de benefício previdenciário não requerido em vida pelo titular.
+6. Esta Corte já assentou que o benefício previdenciário é direito personalíssimo que se extingue com o falecimento do titular. O direito ao benefício previdenciário não se confunde com a possibilidade de os herdeiros pleitearem diferenças pecuniárias que o segurado deveria ter recebido em vida. Precedentes.
+7. No caso em exame, segundo se depreende do cenário fático exposto no acórdão prolatado na origem, a criança nasceu em março/2008 e a ação foi ajuizada em fevereiro/2013, tendo o falecimento da mãe ocorrido em novembro/2012. Desse modo, considerando que a segurada não requereu o benefício em vida, não pode a filha pleitear a concessão do salário-maternidade que seria devido àquela.
+8. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.685.152/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma,DJe de 30/3/2022.)
+Outrossim, é vedado, pela via especial,a análise de documentação para aferir se estavam presentes os requisitos para o deferimento de pensão por morte àde cujus, por força da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
