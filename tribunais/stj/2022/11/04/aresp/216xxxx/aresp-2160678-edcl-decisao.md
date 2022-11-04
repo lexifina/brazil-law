@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BANCO ITAU CONSIGNADO S.Acontra decisão (fls. 553-556), desta relatoria, que conheceu do agravo para dar provimento ao recurso especialpara permitir a cobrança dos juros remuneratórios com base na taxa contratada e declarar caracterizada a mora da parte recorrida.
+Nas razões do recurso embargos de declaração, a parte embargante defende omissão no julgado, afirmando, em síntese, que: a) não houve a redistribuição do ônus sucumbencial, uma vez que, com o provimento do recurso especial, os pedidos da parte embargada foram julgados totalmente improcedentes; e b) deve ser afastada a multa do art. 1.021, § 4º, do CPC/2015, aplicada na origem, uma vez que o agravo interno lá interposto não pode ser considerado protelatório ou indevido, haja vista o provimento do recurso especial.
+É o relatório. Passo a decidir.
+Com razão a embargante.
+Com efeito, verifica-se que ante o provimento do recurso especial interposto pela ora embargante, a parte recorrida tornou-se sucumbente.
+Sendo assim, consoante o disposto no art. 85, § 2º, do CPC/2015, fixo os honorários sucumbenciais em 10% sobre o valor atualizado da causa, observando eventual gratuidade de justiça em favor do embargado, nos termos do art. 98, § 3º, do CPC/2015.
+Outrossim, também merece acolhimento o pleito de afastamento da multa do art. 1.021, §4º, do CPC/2015.
+Nos termos da jurisprudência desta Corte, "A aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória" (AgInt no AREsp 1.658.454/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, DJe 8/9/2020)
+Observa-se, contudo, que a referida penalidade fora aplicada sem a devida fundamentação, em razão do desprovimento do agravo interno interno interposto na origem, de modo que a embargante faz jus ao seu afastamento.
+Com essas considerações, conclui-se que o recurso comporta acolhimento.
+Ante o exposto, acolho os embargos de declaração, a fim de sanar omissão no julgado, fixando os honorários sucumbenciais em 10% sobre o valor atualizado da causa, em favor da embargante, bem como afastando a multa do art. 1.021, § 4º, do CPC/2015 aplicada na origem.
+Publique-se.
