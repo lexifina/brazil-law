@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado por FGS Comércio Eirelicontra decisão da Primeira Vice-Presidência do Tribunal de Justiça do Estado do Rio Grande do Sulque não admitiu recurso especial ante os seguintes fundamentos: (I) incidência da Súmula 83/STJ, pois o acórdão recorrido está em conformidade com a jurisprudência do STJ, no sentido de quea cobrança do diferencial da alíquota do ICMS "não viola a sistemática do Simples Nacional, não apenas porque a cobrança do diferencial é prevista expressamente pelo art. 13, § 1º, XIII, "g", da LC 123/2002, mas também porque a impossibilidade de creditamento e compensação com as operações subseqüentes é vedada em qualquer hipótese, e não apenas no caso do diferencial" (REsp 1193911/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 04/11/2010, DJe 02/02/2011)" (fls. 494/496); (II) incidência da Súmula 280/STF, pois, "No caso, o Órgão Julgador concluiu que há previsão legal para cobrança antecipada do ICMS com base na Lei Estadual n.º 8.820/89 e suas posteriores alterações" (fl. 497).
+A agravante defende que,"ao proceder a admissibilidade do presente recurso, a MMª. Vice-Presidente julgadora não observou a necessidade de se aguardar o julgamento definitivo do RE 970.821/RS (TEMA 517)" (fl. 525).
+Parecer do Ministério Público Federal, às fls. 1283/1287, pelo não conhecimento do agravo.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante deixou de impugnar a totalidade dos motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+No caso, a parte agravante deixou de rebater, de modo específico, todos os fundamentos da decisão ora agravada, a saber, a apontada incidência da Súmula 83/STJ e da Súmula 280/STF.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").g
+Essa foi a linha de entendimento recentemente confirmada pela Corte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar o EAREsp 701.404/SC e o EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ acórdão Ministro Luis Felipe Salomão, DJe de 30.11.2018.
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
