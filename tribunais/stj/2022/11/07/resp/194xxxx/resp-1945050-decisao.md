@@ -1,0 +1,33 @@
+DECISÃO
+Vistos etc.
+IOLANDA APARECIDA ROBERTO interpõe recurso especial, forte na alínea "a" do permissivo constitucional, em face do acórdão oriundo do Tribunal de Justiça do Estado de São Paulo, exarado no curso do feito em que contende com BANCO PAN S/A, cuja ementa transcreve-se:
+CONTRATO BANCÁRIO. Mútuo. Financiamento de veículo Tarifas bancárias Aplicação das teses definidas pelo STJ no julgamento de recursos especiais repetitivos nºs 1578553/SP e 1639320/SP Serviços de terceiro e outros serviços especificados como comissão do lojista e do correspondente bancário Contratação anterior à entrada em vigor da Res.-CMN3.954/2011 Registro de contrato (taxa de gravame) Falta de prova da prestação do serviço Manutenção do reconhecimento de abusividade - Contratação de seguro Abuso Inclusão do prêmio no próprio valor financiado que denota o vício de consentimento, na falta de prova em contrário. Sentença parcialmente reformada, apenas para reconhecer a legalidade da cobrança dos serviços de terceiros e outros serviços especificados no contrato e para determinar a evolução dos valores em liquidação de sentença Redistribuição dos encargos sucumbenciais Sucumbência recíproca. Recurso parcialmente provido.
+Opostos embargos de declaração, foram desacolhidos.
+Em suas razões, sustenta o recorrente que, ainda que o contrato tenha sido pactuado em 2009, época em que era válidoo pagamento de comissão ao correspondente bancário pelo consumidor, para não configurar a abusividade, deveria constar exatamente e de forma especificada o serviço prestado por este. Aduz quea cláusula 2.3.3 de forma alguma especifica o serviço efetivamente prestado, meramente informa a quem os referidos valores estão sendo destinados, havendo desrespeito àtese fixada por esta Egrégia Corte. Requer o provimento do recurso.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+No que tange à tarifa de correspondente bancário, cujo reconhecimento da abusividade consiste no objeto do presente recurso, assim definiu o acórdão recorrido (e-STJ fl. 156).
+Segundo a cláusula 2.3.3 do contrato a cobrança de "outros serviços" diz respeito à comissão do correspondente bancário (cf. fl. 16) e, sendo o pacto firmado em 15-9-2009, aquela previsão é válida, por ser anterior à entrada em vigor da Res.-CMN 3.954/2011, não sendo aventada hipótese de onerosidade excessiva do consumidor.
+Pois bem.
+Em relação à licitude da referidatarifa de correspondente bancário,este Superior Tribunal de Justiça consolidou a tese jurídica, por ocasião do julgamento de recurso especial 1.578.553/SP,sob a sistemática repetitiva, de minha relatoria, assim ementado:
+RECURSO ESPECIAL REPETITIVO. TEMA 958/STJ. DIREITO BANCÁRIO. COBRANÇA POR SERVIÇOS DE TERCEIROS, REGISTRO DO CONTRATO E AVALIAÇÃO DO BEM. PREVALÊNCIA DAS NORMAS DO DIREITO DO CONSUMIDOR SOBRE A REGULAÇÃO BANCÁRIA. EXISTÊNCIA DE NORMA REGULAMENTAR VEDANDO A COBRANÇA A TÍTULO DE COMISSÃO DO CORRESPONDENTE BANCÁRIO. DISTINÇÃO ENTRE O CORRESPONDENTE E O TERCEIRO. DESCABIMENTO DA COBRANÇA POR SERVIÇOS NÃO EFETIVAMENTE PRESTADOS. POSSIBILIDADE DE CONTROLE DA ABUSIVIDADE DE TARIFAS E DESPESAS EM CADA CASO CONCRETO. 1.
+DELIMITAÇÃO DA CONTROVÉRSIA: Contratos bancários celebrados a partir de 30/04/2008, com instituições financeiras ou equiparadas, seja diretamente, seja por intermédio de correspondente bancário, no âmbito das relações de consumo. 2. TESES FIXADAS PARA OS FINS DO ART. 1.040 DO CPC/2015: 2.1.
+Abusividade da cláusula que prevê a cobrança de ressarcimento de serviços prestados por terceiros, sem a especificação do serviço a ser efetivamente prestado; 2.2. Abusividade da cláusula que prevê o ressarcimento pelo consumidor da comissão do correspondente bancário, em contratos celebrados a partir de 25/02/2011, data de entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva; 2.3. Validade da tarifa de avaliação do bem dado em garantia, bem como da cláusula que prevê o ressarcimento de despesa com o registro do contrato, ressalvadas a: 2.3.1.
+abusividade da cobrança por serviço não efetivamente prestado; e a 2.3.2. possibilidade de controle da onerosidade excessiva, em cada caso concreto. 3. CASO CONCRETO.
+3.1. Aplicação da tese 2.2, declarando-se abusiva, por onerosidade excessiva, a cláusula relativa aos serviços de terceiros ("serviços prestados pela revenda").
+3.2. Aplicação da tese 2.3, mantendo-se hígidas a despesa de registro do contrato e a tarifa de avaliação do bem dado em garantia.
+4. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+(REsp n. 1.578.553/SP, relator Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 28/11/2018, DJe de 6/12/2018.)
+Na espécie, é incontroverso que o contrato foi firmadoem data anterior ao ano limite de 2011, do que decorre a sua licitude, nos termos do item 2.2 do julgamento supra, tendo estefundamento sido observado pela Corte de origem.
+Por fim, no que tange à suposta ausência de prestação efetiva do serviço ou aos termos genéricosem que redigida a cláusula contratual que previu a sua cobrança, este fato é insindicável neste grau recursal excepcional, em razão dos Enunciados das Súmulas 05 e 07/STJ.
+Eventual omissão do acórdão no ponto, por sua vez,não foi objeto de irresignação nopresente recurso especial.
+Ante o exposto, NEGO PROVIMENTO ao recurso especial.
+Honorários advocatícios fixados em prol do patrono da parte recorrida majorados para 15% do valor atualizado do proveito econômico por si obtido, observada eventual gratuidade judiciária deferida na origem.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO BANCÁRIO E DO CONSUMIDOR. TARIFA DE CORRESPONDENTE BANCÁRIO. LICITUDE NA ESPÉCIE.
+1. No julgamento do Recurso Especial n. 1.578.533/SP, de minha relatoria, operadosob a sistemática dos recursos repetitivos,julgado em 28/11/2018, firmou-a a seguinte tese:abusividade da cláusula que prevê o ressarcimento pelo consumidor da comissão de correspondente bancário, em contratos celebrados a partir de 25/02/2011, data da entrada em vigor da Res.-CMN 3.954/2011, sendo válida a cláusula no período anterior a essa resolução, ressalvado o controle da onerosidade excessiva.
+2. Caso dos autos em que incontroverso que o contrato foi firmado em data anterior ao ano limite de 2011, fundamento adotado pela origem para reconhecer a licitude da contratação.
+3. Termos supostamente genéricos em que redigida a cláusula contratual respectiva cujaanáliseé vedadaaesta Corte Superior, em razão dos óbices contidos nos enunciados das Súmulas nº 5 e 07 deste Tribunal.
+4. RECURSO ESPECIAL DESPROVIDO.
