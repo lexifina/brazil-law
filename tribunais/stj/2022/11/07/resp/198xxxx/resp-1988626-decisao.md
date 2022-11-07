@@ -1,0 +1,32 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração opostospor LILIAN MOREIRA MENDES contra decisão que não conheceu do recurso especial, conforme seguinte ementa:
+RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO A SÚMULA. IMPOSSIBILIDADE DE EQUIPARAÇÃO A DISPOSITIVO DE LEI FEDERAL. SÚMULA 518/STJ. RECURSO ESPECIAL. NÃO CONHECIMENTO.
+Em suas razões, a embargante suscita a ocorrência de contradição com a jurisprudência e a legislação, dado que a matéria foi devidamente prequestionada na primeira e na segunda instância. Afirma que"perlustrando a decisão de Vossa Excelência, nota-se que a mesma foi contraditória, tendo em vista que, não reconheceu o Recurso Especial afirmando não ter havido prequestionamento" (e-STJ fl. 510).
+Contrarrazões aos embargos às fls. e-STJ 516/520.
+É o relatório.
+Passo a decidir.
+O artigo 1.022, CPCprevê o cabimento deembargos de declaração para suprir víciosde omissão, contradição, obscuridade ou erro material nos pronunciamentos judiciais. Contudo, a contradição queautoriza a sua oposição é apenas a interna; ou seja, aquela em que trechos da decisão sãoparadoxais entre si, ou a fundamentação e o dispositivo se encontramdissociados.
+A contradição externa, consistente na suposta divergência entre a decisão e a legislação, a jurisprudência ou as alegações das partes equivale a mero inconformismo, que não pode ser solucionadopor meio dos embargos de declaração. Nesse sentido:
+PROCESSUAL CIVIL.EMBARGOSDEDECLARAÇÃONO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. VÍCIOS DO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.CONTRADIÇÃO EXTERNAQUE NÃO AUTORIZA A OPOSIÇÃO DOSEMBARGOS.RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. INTEGRATIVO REJEITADO.
+1. O presente recurso foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O acórdão embargado não contém erro de fato,contradição,tampouco foi omisso e, com clareza e coerência, concluiu fundamentadamente que não se mostrou viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugnou os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 282 do STF).
+3. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhida osembargosdedeclaração,que têm nítido caráter infringente.
+4. Acontradiçãoque autoriza os aclaratórios é a inerente ao próprio acórdão.
+5. Osembargosdedeclaraçãonão se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+6. Diante da manifesta improcedência dosembargos,que buscaram, tão somente, o reexame dos argumentos anteriormente formulados e devidamente analisados por esta eg. Terceira Turma, está caraterizado o caráter manifestamente procrastinatório do recurso integrativo, razão pela qual se aplica ao embargante a multa do art. 1.026, § 2º, do NCPC, fixada em 2% sobre o valor atualizado da causa.
+7.Embargosdedeclaraçãorejeitados, com aplicação de multa. (EDcl no AgInt no AREsp 1638339 /SP, Rel. Ministro Mora Ribeiro, Terceira Turma, Julgado em 29/11/2021, DJe 01/12/2021, grifei)
+EMBARGOSDEDECLARAÇÃONO AGRAVO INTERNO NO RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. CPONTRADIÇÃO APONTADA COM JULGADO DO STF. NÃO CABIMENTO.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que osembargosdedeclaraçãosão cabíveis quando constar, na decisão recorrida, obscuridade,contradição,omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorre nenhuma das hipóteses previstas no artigo 1.022, e seus incisos, do novo CPC, pois a parte embargante fundamentou os aclaratórios emcontradição externa,que não autoriza o seu manejo.
+3.Embargosdedeclaraçãorejeitados.(EDcl no AgInt no REsp 1874764 /SP, Rel. Ministro Luís Felipe Salomão, Quarta Turma, Julgado em 22/02/2022, DJe 03/03/2022)
+No caso, a embargante alegou apenas contradição com a lei e a jurisprudência, o que não configura vício sanável por meio desse tipo de recurso.
+Ademais, os embargos de declaração foram inteiramente baseados em um suposto não conhecimento do recurso em razão da faltade prequestionamento. Entretanto, o fundamento para o não conhecimento foi a ausência de indicação de dispositivo de lei federal violado e a impossibilidade de equiparação de súmula a artigo de lei para a finalidade do art. 105, III, a, Constituição Federal, nos termos da Súmula 518/STJ.
+Portanto, o fundamento fático adotado nos embargos de declaração sequer espelha a realidade, o que, por si só, é motivo para rejeição.
+Ante o exposto, rejeito os embargos de declaração.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022, CPC. CONTRADIÇÃO EXTERNA. VÍCIO NÃO SANÁVEL POR EMBARGOS DE DECLARAÇÃO. CONTEXTO FÁTICO ALEGADO NO RECURSO. INEXISTENTE.EMBARGOS REJEITADOS.
+1. Acontradição que autoriza a oposição de embargos de declaração é interna, que se configura quandotrechos da decisão sãoparadoxais entre si, ou a fundamentação e o dispositivo se encontramdissociados. A contradição externa, consistente na suposta divergência entre a decisão e a legislação, a jurisprudência ou as alegações das partes, equivale a mero inconformismo.
+2. No caso, a embargante alegou vício na decisão, em razão do não conhecimento do recurso especial por faltade prequestionamento. Contudo, o recurso não foi conhecido por ausência de indicação de dispositivo violado.
+3. Embargos de declaração rejeitados.
