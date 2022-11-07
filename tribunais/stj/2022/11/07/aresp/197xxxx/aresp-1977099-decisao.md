@@ -1,0 +1,55 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por JOSIANE CARLA KAUL em face de decisão que negou seguimento ao recurso especial fundamentado no artigo 105, inciso III, alíneas "a" e "c" da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. FESTA DE CASAMENTO. ALEGADA FALHA NA PRESTAÇÃO DOS SERVIÇOS CONTRATADOS. SENTENÇA DE IMPROCEDÊNCIA. RECURSO DA AUTORA. APLICABILIDADE DA LEGISLAÇÃO CONSUMERISTA. PLEITO OBJETIVANDO O RECONHECIMENTO DA FALHA NA PRESTAÇÃO DOS SERVIÇOS CONTRATADOS E O CONSEQUENTE ABALO MORAL SUPORTADO. INSUBSISTÊNCIA. NÃO COMPROVAÇÃO PELA AUTORA DA CONTRATAÇÃO DOS SERVIÇOS DE DECORAÇÃO, SOM E GARÇONS PARA SERVIR O BOLO. PROVA DOCUMENTAL QUE DEMONSTRA APENAS A CONTRATAÇÃO DO BUFFET E BEBIDAS, CUJA PRESTAÇÃO NÃO FOI ALVO DE RECLAMAÇÃO PELA REQUERENTE. DESCUMPRIMENTO DO DEVER CONTRATUAL PELO DEMANDADO NÃO DEMONSTRADO. AUSÊNCIA, ADEMAIS, DE PROVA CONTUNDENTE SOBRE A ALEGADA CONDUTA DESCORTÊS DO PREPOSTO DA DEMANDADA QUANDO DO ENCERRAMENTO DA FESTIVIDADE. ÔNUS QUE INCUMBIA À REQUERENTE. EXEGESE DO ARTIGO 373, INCISO I, DO CPC. SITUAÇÃO, ADEMAIS, QUE NÃO GERA, POR SI SÓ, O DEVER DE INDENIZAR. AUSÊNCIA DE COMPROVAÇÃO DE SOFRIMENTO EXTRAORDINÁRIO. ABALO ANÍMICO NÃO CONFIGURADO. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. HONORÁRIOS RECURSAIS. MAJORAÇÃO DA CONDENAÇÃO SUCUMBENCIAL ACESSÓRIA, EX VI DO ART. 85, § 11, DO CÓDIGO DE PROCESSO CIVIL. RECURSO CONHECIDO E DESPROVIDO(e-STJ fl. 349).
+Nas razões do especial, arecorrente, além de suscitar dissídio jurisprudencial,apontouofensa aos arts. 186, 187, 927 e 944do Código Civil.
+Sustentou, em síntese, que o recorrido deveria ser responsabilizado pelos danos de ordem moral por si sofridos, os quaisteriam sido comprovados.
+Foram apresentadas contrarrazões (e-STJ fls. 385/394).
+Inadmitido o apelo nobre (e-STJ fls. 397/401), vieram os autos conclusos em decorrência da interposição do agravo de fls. 407/423(e-STJ).
+Impugnação às fls. 426/432 (e-STJ).
+É o relatório.
+Passo a decidir.
+A irresignação não merece prosperar.
+O presente recurso não merece ser conhecido em virtude da ausência deimpugnação específica dofundamentoda decisão agravada.
+O recurso especial foi inadmitido "ante o disposto na Súmula 7 do Superior Tribunal de Justiça, haja vista que a formação de novo convencimento sobre os fatos apontados no reclamo, sobretudo quanto à configuração do dano moral, exigiria reexame do substrato fático-probatório produzido nos autos, providência defesa na via recursal excepcional" (e-STJ fl. 397).
+Nada obstante, aagravante limitou-se a alegar, genericamente:
+No presente caso como dito anteriormente, fora indeferido o pleito de pagamento da indenização por danos morais a agravante, sob alegação de ausência de provas dos danos sofridos
+A decisão agravada, por sua vez consta que não há violação dos artigos supra-mencionados e que não houve o ataque especifico quanto a insurgência do acórdão recorrido.
+Menciona novamente as Súmulas 5, 7 e 83, do STJ, que não impediriam o prosseguimento do Recurso Especial.
+Todavia, vislumbra-se que diferentemente do que consta na r.decisão agravada ocorreu sim a violação dos dispositivos mencionados, pois, o v. acórdão recorrido afrontou as disposições consumeristas que garante a interpretação das cláusulas contratuais de maneira mais favorável ao consumidor.
+Outrossim, não importa óbice as Súmulas 5, 7 e 83, do STJ, pois, analise dos dispositivos afrontados foram explicitadas no Recurso Especial, diferentemente do que consta na decisão agravada, veja-se os dispositivos afrontados.
+(..)
+De mais a mais, contratação em sua totalidade, além de comprovada pelos documentos, restaram corroborados pelos depoimentos das testemunhas. Portanto, comprovada a contratação na forma descrita exordial, afastando as sustentações da r. sentença(e-STJ fls. 419/420).
+O princípio da dialeticidade, que rege as normas sobre os recursos, exige que as razões recursais sejam elaboradas em consonância com os fundamentos da decisão recorrida.
+Na espécie, como visto, a agravante não infirmou especificamente o fundamento relativo à necessidade de reexame de matéria fática a atrair a incidência da Súmula 7/STJ, como seria preciso, apenas citou en passant o referido verbete sumular entre outros que nem sequer foram aplicados.
+É pacífico o entendimento desta Corte de que a parte agravante deve impugnar especificamente os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932. 1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932. 2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 831.326/SP, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe de 30/11/2018.)
+Ademais, convém ressaltar que alegações genéricas não são suficientes para impugnar a decisão de inadmissibilidade. Vejam-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO, ANTE A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INSURGÊNCIA DA PARTE DEMANDADA.
+1. Consoante expressa previsão contida nos artigos 932, III, do CPC/15 e 253, I, do RISTJ e em razão do princípio da dialeticidade, deve o agravante demonstrar, de modo fundamentado, o desacerto da decisão que inadmitiu o apelo extremo, o que não aconteceu na hipótese. Incidência da Súmula 182 do STJ.
+2. São insuficientes ao cumprimento do dever de dialeticidade recursal as alegações genéricas de inconformismo, devendo a parte autora, de forma clara, objetiva e concreta, demonstrar o desacerto da decisão impugnada. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.904.123/MA, relator Ministro Marco Buzzi, Quarta Turma, julgado em 4/10/2021, DJe de 8/10/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA TOTALIDADE DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO INTERNO IMPROVIDO.
+1. É dever da parte agravante combater especificamente a totalidade dos fundamentos da decisão agravada, demonstrando o desacerto do decisum que negou seguimento ao recurso especial, sob pena de aplicação do art. 932, III, do Código de Processo Civil de 2015.
+2. No caso, não houve impugnação no momento oportuno, sendo insuficientes as alegações genéricas quanto à inaplicabilidade dos óbices das Súmulas 7 e 83/STJ ao presente caso.
+3. Quando o inconformismo excepcional não for admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação, em tema de agravo em recurso especial, deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+4. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+5. A pretensão da parte agravada de aplicação da pena de litigância de má-fé à ora embargante não merece guarida, pois, conforme entendimento desta Corte, a interposição de recursos cabíveis não implica em "litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp n. 1.333.425/SP, Relatora a Ministra Nancy Andrighi, DJe 4/12/2012).
+6. Agravo interno improvido.
+(AgInt no AREsp n. 1.613.383/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/5/2020, DJe de 8/5/2020.)
+Destarte, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o art. 932, inciso III, do CPC/2015 (art. 544 do CPC/1973), in verbis:
+"Art. 932. Incumbe ao relator:
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;"
+Ante o exposto,não conheço do agravo em recurso especial.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas (arts. 1.021, § 4º, e 1.026, § 2º, do CPC).
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOFUNDAMENTODA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015.
+AGRAVO NÃO CONHECIDO.
