@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de recurso em habeas corpus com pedido de liminar interposto por MICHEL DOS SANTOS contra acórdão assim ementado (fl. 366):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE RELAXAMENTO DA PRISÃO PREVENTIVA. ALEGAÇÃO DE CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO PARA REALIZAÇÃO DA AUDIÊNCIA DE INSTRUÇÃO. NÃO CONFIGURAÇÃO. INCIDÊNCIA DA SÚMULA N. 52/STJ. TESE REJEITADA. SUPOSTA AUSÊNCIA DE FUNDAMENTAÇÃO DA PRISÃO PREVENTIVA. NÃO VERIFICAÇÃO. GARANTIA DA ORDEMPÚBLICA. GRAVIDADE CONCRETA DO DELITO. GRANDE QUANTIDADE DE DROGA APREENDIDA. CONTUMÁCIA DELITIVA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO DEMONSTRADO. MANUTENÇÃO DA PRISÃO PREVENTIVA. WRIT CONHECIDO E DENEGADO.
+O recorrente foi preso preventivamente, em 20/07/2020, pela suposta prática de tráfico de drogas.
+Sustenta que está sofrendo constrangimento ilegal decorrente da manutenção da prisão preventiva, porquanto a custódia já perduraria há mais de 01 ano e 11 meses, sem que a defesa tenha contribuído para a mora.
+Alega que a prisão não está devidamente fundamentada, pois não demonstra o perigo que a sua liberdade possa causar ao processo ou à ordem pública.
+Requer, liminarmente e no mérito, a revogaçãoda prisão preventiva, ainda que com aplicação das medidas cautelares diversas da prisão
+A liminar foi indeferida (fls. 408-409)
+O Ministério Público Federal opinou pelo desprovimento do recurso ordinário.
+Colhe-se do decreto preventivo os seguintes fundamentos (fls. 59-60):
+Conforme fundamentado acima, há indícios suficientes de autoria (depoimentos perante à autoridade policial em fls. 2/3, 4/5, 6/7) e materialidade do delito (auto de exibição e apreensão  fl. 10; laudo provisório de contestação  fl. 11).
+O crime supostamente praticado  tráfico de drogas poderá resultar em pena máxima superior a 4 (quatro) anos, de modo que a pena em abstrato prevista em lei é compatível com a prisão preventiva (art. 313, I do Código de Processo Penal).
+Há necessidade de decretar as prisões preventivas para garantir a ordem pública e aplicação da lei penal.
+ ..
+No caso em tela é possível verificar que existe o fundado receio de reiteração, tendo em vista que o investigado responde a dois outros delitos de supostos tráficos de drogas na Comarca de Murici/AL (0700235-09.2019.8.02.0072 e 0700740-81.2019.8.02.0045).
+ ..
+Além disso, no caso dos autos, verifica que o próprio flagrante do investigado ocorreu em razão de mandado de prisão expedido anteriormente em seu desfavor, tendo o mesmo tentado foragir ao tomar conhecimento que a polícia estaria a sua procura. Sendo assim, resta comprovada a necessidade de garantia da aplicação da lei penal.
+Por fim, quanto a aplicação de medidas cautelares substitutivas da prisão, previstas no art. 319 do CPP, entendo que seriam insuficientes para garantir a ordem pública, diante da existência de possível associação para praticar crimes reiteradas, alémde o acusado supostamente praticar crimes graves em mais de um município do Estado.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Infere-se dos autos que a prisão preventiva foi fundamentada no "fundado receio de reiteração, tendo em vista que o investigado responde a dois outros delitos de supostos tráficos de drogas".
+Ressaltou, também, que o próprio flagrante do investigado ocorreu em razão de mandado de prisão expedido anteriormente em seu desfavor, circunstâncias que justificam a necessidade da segregação provisória para garantir a aplicação da lei penal.
+Com efeito, a jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar.Nesse sentido: RHC 76.929/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/11/2016, DJe 29/11/2016, HC 389.098/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/05/2017, DJe 31/05/2017 e RHC 82.451/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/5/2017, DJe 24/5/2017.
+Ademais, quanto ao alegado excesso de prazo, oacórdão recorridoassim manifestou-se (fl. 368-369):
+Em relação ao primeiro argumento, sustenta a defesa que o paciente, na data da impetração, estava preso há mais de 01 (um) ano e 06 (seis)meses, sem que tenha dado causa ao atraso no encerramento da instrução, o que, a seu ver, caracterizaria constrangimento ilegal à liberdade de locomoção.
+ ..
+Nessa perspectiva, analisando a documentação acostada aos autos e as informações prestadas pela autoridade apontada como coatora, verifica-se que o paciente foi preso em flagrante em 20/07/2020, sendo a medida extrema decretada no dia 24/07/2020, sob o fundamento da garantia da ordem pública (fls. 59/73). Oferecida a denúncia também em 24/07/2020 (fls. 01/06 dos autos de origem), na mesma data foi determinada a notificação do acusado para a apresentação da defesa preliminar. A peça defensiva foi juntada em 09/03/2021 (fls. 220 dos autos de origem).
+Posteriormente, a audiência assinalada para o dia 14/06/2021 foi redesignada para a data de 18/08/2021. No ato, cumpre ressaltar o que restou consignado no termo de assentada (fl. 305 dos autos de primeiro grau):
+ ..  Finalizada a instrução, foi oportunizada às partes requererem diligências, ocasião esta em que nada requereram. ..  O Magistrado passou a proferir o seguinte Despacho: Requisite-se urgentemente, no prazo máximo de 10 dias, o laudo corpo de delito realizado no acusado ao IML. O Ministério Público apresentou alegações finais oralmente. Após a juntada do laudo, Abra-se vista à Defensoria Pública, para as alegações finais, no prazo de 10 dias. Com o retorno das Alegações Finais, voltem-me os autos conclusos.  ..
+À luz do exposto, conforme entendimento há muito consolidado em nossos Tribunais Superiores, o encerramento da instrução criminal torna superada a alegação de excesso de prazo para a formação da culpa. Neste sentido, importa trazer à colação o disposto no enunciado da Súmula nº 52 do Superior Tribunal de Justiça, in verbis: Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.19. Com efeito, não há como acolher o primeiro argumento suscitado na exordial do presente Mandamus.
+Do que consta dos autos, verifica-se que o recorrente foi preso em flagrante em 20/07/2020, tendo a decretação de sua prisão preventiva ocorrido em 24/07/2020, momento do oferecimentoda denúncia.
+Na mesma data foi determinada a notificação do acusado para a apresentação da defesa preliminar. A peça defensiva foi juntada em 09/03/2021.
+Em 13/04/2021, o juiz ratificouo recebimento da denúncia e determinou a designação de data para realização de audiência de instrução e julgamento por meio de videoconferência.
+Foi realizada audiência de instrução em 18/08/2021, abrindo-se prazo para as alegações finais.
+De fato, estando a ação penal na fase de apresentação de alegações finais pelas partes, resta superado o aventado excesso de prazo para a formação da culpa, incidindo ao caso a Súmula 52 deste Superior Tribunal de Justiça, segundo a qual, "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo."
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
