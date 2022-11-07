@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor deMÁRIO DOS SANTOS RIBEIROapontando como autoridade coatora oTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(Agravo em Execução n. 1.0287.18.001236-4/001).
+Depreende-se dos autos que o Juízo de piso reviu as condições gerais da comarca para o cumprimento da pena,"tendo em vista o aumento considerável de boletins de ocorrência noticiando descumprimento das regras do regime aberto, o que inevitavelmente demonstra indisciplina e desobediência dos apenados em relação às determinações das autoridades e seus agentes (art. 44 da LEP)"(e-STJ fl. 52).
+Interposto agravo em execução na origem, o Tribunala quonegou provimento ao recurso do reeducando, em acórdão assim ementado (e-STJ fl. 69):
+EMENTA: AGRAVO EM EXECUÇÃO PENAL. ALTERAÇÃO DAS CONDIÇÕES DO REGIME ABERTO. PREVISÃO LEGAL. NECESSIDADE DA COMARCA. POSSIBILIDADE. DESPROVIMENTO DO RECURSO - A Lei de Execução Penal prevê, para a concessão do regime aberto, condições obrigatórias e facultativas, possibilitando ao Juiz sua modificação de ofício, quando as condições da comarca assim o recomendem.
+- As condições facultativas serão impostas segundo o prudente arbítrio do Juízo da Execução, seguindo os critérios de oportunidade e conveniência.
+Daí o presentewrit, no qual alega a defesaque"as restrições impostas ao cumprimento das regras fixadas para o regime aberto não foram proporcionais, haja vista que, durante o cumprimento de sua pena, o comportamento do paciente tem se mostrado satisfatório" (e-STJ fl. 9).
+Sustenta que "as sanções e restrições impostasdevem ser suficientemente rígidas, demonstrando a seriedade da execução penal, mas, ao mesmo tempo, não podemser tão rígidas ao ponto de promover a revolta e descrença do recuperando, desmotivando-o a adotar uma postura voltada à obtenção de benefícios e ao retorno progressivo ao convívio social"(e-STJ fls. 9/10).
+Pondera que "decisões que determinam a aplicação de restrições que acarretam maiores prejuízos ao apenadoimpedem o progresso já alcançadoem toda sua vida carcerária" (e-STJ fl. 10).
+Requer, em liminar e no mérito,"seja determinada a imediata nulidade processual, cassados o acordão e a decisão agravada, além do ato judicial que osinspirou, afastando, consequentemente,as condições facultativas fixadas sem fundamentação concreta, mantendo-se as demais condições previstas em lei" (e-STJ fls. 17/18).
+Indeferida a liminar (e-STJ fls. 83/85), e prestadas as informações solicitadas (e-STJ fls. 89/118); manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus, mas pela concessão da ordem (e-STJ fls. 120/126).
+É o relatório.
+Decido.
+A respeito do recrudescimento do livramento condicional, consta da decisão do Juízo das execuções (e-STJ fls. 55/56):
+Tendo em vista o aumento considerável de boletins de ocorrência noticiando descumprimento das regras fixadas para do REGIME ABERTO, o que inevitavelmente demonstra indisciplina e desobediência dos apenados em relação às determinações das autoridades e seus agentes (art. 44 da LEP), resolvo REVER as condições gerais da comarca, da forma como se segue:
+1-) Ausentar-se de segunda a sábado de sua residência às 06:00 horas e retornar às 19:00 horas, EXCLUSIVAMENTE PARA O TRABALHO;
+2) Permanecer recolhido diariamente durante o período noturno, bem como aos domingos e feriados, durante as 24 horas do dia e, também, nos horários em que não estiver trabalhando. O sentenciado fica ciente que o recolhimento deve se dar no INTERIOR da residência (do portão FECHADO ou porta FECHADA para dentro), ou seja, NÃO DEVERÁ PERMANECER NA CALÇADA OU ENTRADA DA RESIDÊNCIA;
+3) Sair de casa SOMENTE para o trabalho, devendo retornar imediatamente ao término do turno do dia, sendo, NO MÁXIMO, no horário acima fixado, ESTANDO VEDADO O DESLOCAMENTO A QUALQUER LOCAL SEM AUTORIZAÇÃO JUDICIAL;
+4) O apenado deverá instalar campainha ou QUALQUER instrumento sonoro na porta ou portão da residência, para acionamento pela Polícia Militar quando das fiscalizações, ficando ciente que estas serão realizadas durante todo o período noturno e aos domingos e feriados em tempo integral, por várias vezes no mesmo dia ou mesma noite. Aquele que residir em condomínio sem síndico, deverá estar sempre disponível para fiscalização, sendo de exclusiva responsabilidade do apenado a indicação da forma de contato;
+5) Não frequentar bares, boates, botequins, casa de prostituição ou lugares semelhantes, NEM QUE SEJA PARA COMPRAR MERCADORIA DIVERSA DE BEBIDA ALCOÓLICA;
+6) Não ingerir bebida alcoólica de espécie alguma;
+7) Realizar o teste do etilômetro sempre que determinado pela Polícia Militar, a qualquer hora do dia ou da noite e em qualquer local, mesmo que no domicílio;
+8) Comparecer mensalmente na Secretaria deste Juízo, até o dia 10 (dez) de cada mês, a fim de assinar o livro de controle de comparecimento e justificar suas atividades, comprovando, mediante juntada de documento, que efetivamente está trabalhando;
+9) Não permanecer na companhia de outros sentenciados e/ou pessoas que respondam a processos criminais;
+10) Não manter relação profissional com sentenciados e/ou pessoas que respondam a processos criminais (patrão-funcionário);
+11) O apenado fica ciente que a transferência da execução para outra comarca somente será autorizada se apresentado comprovante de endereço no seu nome ou em nome de familiar e proposta de trabalho real (que será fiscalizada, previamente, pela Polícia Militar);
+12) O apenado residente na zona rural terá o prazo de 24 horas para apresentar em Juízo as coordenadas geográficas do seu endereço residencial.
+No caso de descumprimento injustificado das condições constantes nos itens acima, será imediatamente determinado o seu recolhimento ao Presídio local, independentemente de nova intimação.
+O sentenciado deverá ser intimado das condições ora impostas pela Defesa, devendo colher seu ciente, endereço e telefone atualizados e anexar aos respectivos autos.
+O sentenciado fica ciente que as intimações serão realizadas via telefone, sendo responsável pela constante atualização do número indicado nos autos.
+Comunique-se à Direção do Presídio sobre esta decisão.
+Promovam-se as intimações, notificações e requisições necessárias.
+Extrai-se do acórdão impugnado a seguinte fundamentação (e-STJ fls. 73/74):
+Extrai-se da decisão recorrida que a justificativa para referida alteração se deu em razão do aumento considerável de boletins de ocorrência noticiando descumprimento das regras do regime aberto, o que demonstra indisciplina e desobediência dos apenados.
+Desse modo, não há que se falar em decisão genérica ou sem fundamentação, visto que o art. 93, IX, da Constituição Federal exige que as decisões sejam motivadas e que tal motivação seja coerente com o dispositivo, o que ocorreu.
+No caso em apreço, a D. Magistrada expõe razões idôneas a justificar o agravamento da condições a serem cumpridas no regime aberto, ainda que suscintamente, havendo a adequada fundamentação, a afastar a nulidade do "decisum".
+Lado outro, é importante ressaltar que, de acordo com o art. 115 e art. 116 da Lei de Execução Penal, o Juízo da Execução pode fixar condições facultativas para a concessão de regime aberto, de acordo com a realidade da comarca.
+ ..
+Em que pesem as alegações da Defensoria Pública, denota-se dos dispositivos citados, a discricionariedade concedida ao Juízo da Execução para fixação de condições facultativas no regime aberto.
+Observa-se que o Juízo de primeirograu estabeleceu novas condições para o cumprimento do regime aberto em relação ao paciente, entendimentomantido pelo Tribunal de origem.
+Em situação semelhante, consigna a jurisprudência desta Corte Superior que "é lícito que o magistrado, observando as particularidades do caso concreto, fixe condições especiais, além das gerais e obrigatórias, para o cumprimento de pena em regime aberto, podendo também, modificar as condições já estabelecidas, desde que as circunstâncias recomendem a alteração" (REsp n. 1.649.771/SC, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 1º/3/2018, DJe 12/3/2018).
+No caso, contudo, não se verifica a indicação de fato concreto cuja responsabilidade seja atribuída ao paciente, a fim de justificar que o regime abertoseja recrudescido, sendo estabelecidas condições mais gravosas.
+Observado o constrangimento ilegal na imposição de novas condições gerais, seu afastamento é medida que se impõe. Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. IMPOSIÇÃO DE NOVAS CONDIÇÕES GERAIS PELO JUÍZO DAS EXECUÇÕES DA COMARCA DE GUAXUPÉ/MG, COM FUNDAMENTO NO AUMENTO DO ÍNDICE DE DESCUMPRIMENTO DAS MEDIDAS ANTERIORMENTE IMPOSTAS NA COMARCA . IMPOSSIBILIDADE. CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Existe constrangimento ilegal na imposição de novas condições gerais para o livramento condicional pelo Juízo das Execuções, com fundamento na notícia de aumento no índice de descumprimento das medidas anteriormente impostas na comarca de Guaxupé/MG.
+2. O art. 132 da Lei de Execuções Penais - LEP, estabelece quais são as condições gerais e obrigatórias a serem seguidas por todos os que fizerem jus ao benefício. A possibilidade de imposição de outras medidas está prevista no art. 144 da LEP, e sua aplicação deve estar relacionadas à circunstâncias específicas de cada caso.
+3. Nos termos da jurisprudência desta Corte Superior, apenas as condições especiais podem ser impostas ou alteradas pelo Juízo das Execuções. Já as condições gerais são aquelas fixadas pelo legislador.
+4. Agravo Regimental desprovido. (AgRg no AgRg no HC n. 744.632/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022.)
+Ante o exposto, concedo a ordem para afastar a imposição de novas condições gerais ao regime aberto usufruído pelo paciente, sem prejuízo da fixação de condições especiais pelo Juízo das Execuções, desde quede forma individualizada e fundamentada.
+Publique-se. Intimem-se.
