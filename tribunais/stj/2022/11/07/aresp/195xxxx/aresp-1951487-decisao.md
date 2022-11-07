@@ -1,0 +1,8 @@
+DECISÃO
+Vistos, etc.
+Verifica-se que a controvérsiadevolvidaao conhecimento desta Corte Superior mediante o recurso especial interposto foi afetada ao rito do art. 1.036 do Código de Processo Civil de 2015, com ordem de sobrestamento,conforme acórdão da 2ª Seçãoproferido nos Recursos Especiais n.º 1891498/SP e 1894504/SP, DJe de 08.06.2021, para uniformizar o entendimento sobre "Definição da tese alusiva à prevalência, ou não, do Código de Defesa do Consumidor na hipótese de resolução do contrato de compra e venda de bem imóvel com cláusula dealienaçãofiduciária em garantia", referente ao Tema 1.095/STJ.
+Nesse contexto, com a ordem de sobrestamento, os recursos que tratam da mesma controvérsia neste Superior Tribunal de Justiça devem aguardar, no Tribunal de origem, a solução da questão, viabilizando, assim, o juízo de conformação, atualmente disciplinado pelos arts. 1.039, 1.040 e 1.041 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem para que o recurso especial permaneça suspenso até a publicação dos acórdãos paradigmas, nos termos do art. 1.037, inciso II, do CPC/2015, observando-se, em seguida, o procedimento dos arts. 1.040 e 1.041 do CPC/2015.
+Advirto as partes que, na esteira da jurisprudência tranquila desta Corte, a presente decisão possui recorribilidade limitada à demonstração do distinguishing, na forma do art. 1.037, §§9º e 10, inciso IV, do CPC, sendo que não será conhecido o eventual agravo interno ou pedido de reconsideração a pretender o julgamento do presente recurso especial.
+A oposição de incidentes manifestamente improcedentes e protelatórios estará sujeita aaplicação das penalidades legalmente previstas.
+Intimem-se.
