@@ -1,0 +1,13 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por ANTONIO APARECIDO DE CAMPOS, com base nas alíneas "a" e "c", do inciso III, do art. 105, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Agravo de instrumento. Ação Civil Pública. Expurgos Inflacionários. Liquidação de sentença transitada em julgado. Prevenção desta C. Câmara para apreciação dos recursos oriundos do processo nº 0403263-60.1993.8.26.0053, que tramitou perante a 6ª Vara da Fazenda Pública da Comarca da Capital. Decisão agravada que acolheu as teses adotadas por esta C. Câmara e determinou, dentre outras deliberações, que o exequente refaça os cálculos, assim como a expedição de mandado de levantamento em relação ao valor incontroverso. Na r. decisão agravada as determinações constantes nos votos deste Relator foram reproduzidas integralmente, e, por isso, desnecessária a repetição dos fundamentos nela adotados. Forçoso convir pela manutenção integral da r. decisão recorrida, já que está em consonância com o entendimento sedimentado nesta C. Câmara, inclusive com relação aos juros moratórios, que deverão ser calculados de forma simples, incidindo desde a citação do Banco-executado na fase decumprimento de sentença atéefetivo pagamento. Decisão mantida. Recurso desprovido.
+Na origem, o cumprimento de sentença foi extinto, nos termos do art. 924, II, CPC, em 29/10/2018, com a expressa observação de que os valores foram levantados e não houve requerimentos adicionais das partes,embora regularmente intimadas.
+Diante desse fato, intimado a se manifestar, o recorrente esclareceu que não persiste o interesse no julgamento do recurso (e-STJ fl. 326).
+O art. 998, CPC prevê que orecorrente pode desistir do recurso a qualquer tempo. Para tanto, não é necessário que a petição apresentada utilize expressamente a palavra desistência. É suficiente que esteja clara a opção pela manutenção da situação jurídica nos mesmos termos em que se encontra atualmente, conforme decidido no acórdão recorrido.
+No caso, amanifestação do recorrente de que não há interesse no julgamento equivale à desistência do recurso, especialmente diante dos termos do despacho anterior. O recorrente demonstra estar satisfeito com os valores já levantados na primeira instância, sendo desnecessária a modificação de sua situação jurídica.
+Ressalto, ainda, que o advogado subscritor da petição tem poderes para desistir, conforme mandato outorgado (procuração à fl. e-STJ 23).
+Ante o exposto, homologo a desistência do recurso.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. DESISTÊNCIA DO RECURSO. POSSIBILIDADE A QUALQUER TEMPO. ART. 998, CPC. HOMOLOGAÇÃO.
