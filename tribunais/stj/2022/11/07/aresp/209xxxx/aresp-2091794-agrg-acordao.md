@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO PELO EG. TRIBUNAL DE ORIGEM. PLEITO DE CONDENAÇÃO. ALEGAÇÃO DE SUFICIÊNCIA PROBATÓRIA. AUTORIA COMPROVADA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+I - Aeg. Corte local, após detida análise do conjunto probatório colhido no curso da instrução criminal, concluiu que o conjunto probatório não revela a certeza da autoria delitiva necessária para a condenação da agravante.
+II - Forçoso  afirmar  que,  diante  das  balizas  estabelecidas  pelas  instâncias  ordinárias,  a  partir  do  exame  dos  elementos  carreados  aos  autos,  não  se  mostra  possível  desconstituir  a absolvição,  sem  que  seja  feita  nova  incursão  no  acervo  fático-probatório,  providência  inviável  em  sede  de  recurso  especial,  a  teor  do  enunciado  n.  7  da  Súmula  do  Superior  Tribunal  de  Justiça.
+Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por MINISTÉRIO PÚBLICO DO ESTADO DO RIO GRANDE DO NORTEcontra a decisão de fls. 422-423, por meio da qual o agravo foi conhecido para não conhecer dorecurso especial.
+Consta  dos  autos  que  o  ora agravada foi absolvida da prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O eg. Tribunal de origem, por unanimidade, negou provimento ao apelo ministerial.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, fundado no art. 105, III, a, da Constituição Federal, o Parquet estadual suscitou violação do art. 33, caput, da Lei n. 11.343/2006, uma vez que as provas constantes dos autos são suficientes para a condenação da agravada, inexistindo dúvidas quanto à autoria e à materialidade delitiva.
+O apelo extremo foi inadmitido diante da incidência da Súmula n. 7 do STJ.
+Requer o agravante o conhecimento do agravo, afirmando que o acolhimento do recurso especial não demanda reexame de provas. Pugna pelo provimento do apelo, a fim de que seja imposto a ora agravada a condenação pela prática do delito de tráfico de entorpecentes.
+O Ministério Público Federal opinou pelo desprovimento do agravo em recurso especial (fls. 418-420).
+A  decisão  de  fls.  579-594,  conheceu do  agravo  para não conhecer do recurso especial, ante a incidência da Súmula 7 do STJ.
+No regimental (fls.426-431), sustenta o agravante que a aplicaçãodo óbice da Súmula 7 do STJ é equivocada.
+Alega que "Corte local manteve a absolvição da agravada pela prática do crime de tráfico de drogas com fundamento na ausência de provas para a condenação, mesmo tendo reconhecido a existência de depoimento do policial que realizou o flagrante, no sentido deque a agravada e o seu companheiro foram flagrados separando as drogas para embalar" (fl. 428).
+Pugna, ao final, pela reconsideração da decisão impugnada ou, subsidiariamente, pela apresentação do recurso ao Colegiado.
+Por manter o decisum, trago o feito a julgamento do Colegiado.
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. ABSOLVIÇÃO PELO EG. TRIBUNAL DE ORIGEM. PLEITO DE CONDENAÇÃO. ALEGAÇÃO DE SUFICIÊNCIA PROBATÓRIA. AUTORIA COMPROVADA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7 DO STJ.
+I - Aeg. Corte local, após detida análise do conjunto probatório colhido no curso da instrução criminal, concluiu que o conjunto probatório não revela a certeza da autoria delitiva necessária para a condenação da agravante.
+II - Forçoso  afirmar  que,  diante  das  balizas  estabelecidas  pelas  instâncias  ordinárias,  a  partir  do  exame  dos  elementos  carreados  aos  autos,  não  se  mostra  possível  desconstituir  a absolvição,  sem  que  seja  feita  nova  incursão  no  acervo  fático-probatório,  providência  inviável  em  sede  de  recurso  especial,  a  teor  do  enunciado  n.  7  da  Súmula  do  Superior  Tribunal  de  Justiça.
+Agravo regimental desprovido.
+VOTO
+Em que pesem os argumentos do agravante, a decisão impugnada deve ser mantida.
+Não  obstante  os  argumentos  apresentados  pelo Parquet  ,  o  presente  recurso  não  comporta  provimento.
+O  recorrente  interpôs  recurso  especial  alegandoviolação do art. 33, caput, da Lei n. 11.343/2006, uma vez que as provas constantes dos autos são suficientes para a condenação da agravada, inexistindo dúvidas quanto à autoria e à materialidade delitiva.
+O  eg.  Tribunal  a  quo,  ao  manter a absolvição da agravada  pelo  crime  de  tráfico de drogas,  apreciou  as  provas  dos  autos  e  consignou  (fl.  353):
+"Na hipótese, ao interpor seu Apelo, o próprio MP se prende a depoimentos nos quais se "ouviu dizer"que a Recorrida traficava.
+Ou seja, não se discute aqui a existência e a legitimidade dessas oitivas, mas a inconsistência do seu teor.
+12. É de se pontuar que na prisão da Acusada e do seu Companheiro, foram, de fato, achados na residência do casal drogas e artefatos da traficância. Todavia, todo esse material restou confessado por Jaderssson Dennis como exclusivamente seu.
+13. Daí, repito, pelo cenário trazido a lume, não há como se imputar à Apelada a condição de narcotraficante.
+14. Demais disso, atribuir-se à casa dos Recorridos a nefasta condição de "boca de fumo" não induz à ideia de que todos ali residentes se dedicavam ao comércio de entorpecentes. Assim o fosse, estávamos a adotar, em todas linhas, a diretriz do direito penal objetivo.
+15. Diante desse retrato, no qual não sobreveio uma só prova a indicar, com um mínimo grau de certeza, ter havido comercialização de droga pela Sra. Osmarisa Vitória, acha-se a decisão em vergastaconsentânea com os ditames principiológicos arraigados na presunção de inocência e tuteladosdiuturnamente nesta Câmara Criminal por julgados de semelhante jaez."
+Em verdade, a eg. Corte local, após detida análise do conjunto probatório colhido no curso da instrução criminal, concluiu que o conjunto probatório não revela a certeza da autoria delitiva necessária para a condenação da agravante.
+Forçoso  afirmar  que,  diante  das  balizas  estabelecidas  pelas  instâncias  ordinárias,  a  partir  do  exame  dos  elementos  carreados  aos  autos,  não  se  mostra  possível  desconstituir  a absolvição,  sem  que  seja  feita  nova  incursão  no  acervo  fático-probatório,  providência  inviável  em  sede  de  recurso  especial,  a  teor  do  enunciado  n.  7  da  Súmula  do  Superior  Tribunal  de  Justiça.
+Nesse  sentido  os  seguintes  precedentes:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. INSUFICIÊNCIA PROBATÓRIA. ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7 DA SÚMULA DO STJ.
+ ..
+2. O Tribunal local, após detida análise do conjunto probatório colhido no curso da instrução criminal, entendeu que o conjunto probatório revela a certeza da autoria delitiva, necessária para manter a condenação proferida pelo Magistrado de origem.
+3. Segundo entendimento assente neste Sodalício, para se chegar a conclusão em sentido diverso, como pretendido na insurgência, é necessária uma nova incursão sobre as provas produzidas no decorrer da ação penal, o que é vedado na forma do Enunciado n.º 7 da Súmula desta Corte.  ..
+4. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido" (AgRg no AREsp n. 644.454/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 1º/8/2016).
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. ARTS. 33 e 35, CAPUT, DA LEI N. 11.343/2006. PLEITO CONDENATÓRIO. CONDUTA DELITIVA. PARTICIPAÇÃO NÃO COMPROVADA. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 07 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Se o Tribunal a quo, com base na análise dos elementos fático-probatórios dos autos, entendeu pela falta de comprovação de participação dos agravados na conduta delitiva, afastar tal entendimento implicaria o reexame de provas, a incidir o enunciado da Súmula n. 7 do Superior Tribunal de Justiça - STJ.
+2. Agravo regimental desprovido" (AgRg no AREsp n. 809.393/AC, Quinta Turma, Rel. Min. Joel Ilan Paciornick, DJe de 28/10/2016, grifei).
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. AUTORIA E MATERIALIDADE. ABSOLVIÇÃO. PRINCÍPIO DO IN DUBIO PRO REO. VERIFICAÇÃO. INVIABILIDADE. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO NÃO PROVIDO.
+1. Para se alterar a conclusão a que chegou as instâncias ordinárias, no sentido de verificar se existem, no caso, elementos suficientes de autoria e de materialidade delitivas, ou se seria o caso de se aplicar o denominado princípio in dubio pro reo, demandaria, necessariamente, o revolvimento do acervo fático-probatório delineado nos autos, procedimento que encontra óbice na Súmula 7/STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial."
+2. Agravo regimental não provido" (AgRg no AREsp n. 486.792/TO, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 22/9/2017, grifei).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. DISPENSA IRREGULAR DE LICITAÇÃO. ALTERAÇÃO CONTRATUAL IRREGULAR. ABSOLVIÇÃO SUMÁRIA. DANO AO ERÁRIO. DOLO ESPECÍFICO. AUSÊNCIA DE DEMONSTRAÇÃO. PROSSEGUIMENTO DA AÇÃO PENAL. IMPOSSIBILIDADE. PRECEDENTES. ALTERAÇÃO DE PREMISSA FÁTICA. SÚMULA N.º 7/STJ. MATÉRIA CONSTITUCIONAL. PREQUESTIONAMENTO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Ante a constatação, pelas instâncias ordinárias, de que não há a descrição nem a comprovação mínima do dolo específico de causar dano ao Erário e do efetivo prejuízo causado aos cofres públicos, é inviável o pleito de prosseguimento da ação penal contra os Agravados.
+3. A revisão da conclusão das instâncias ordinárias acerca da ausência de demonstração do dolo específico ou do prejuízo concreto exigiria amplo reexame do conjunto fático-probatório, o que não é possível nos estritos limites do recurso especial, conforme se extrai da Súmula n.º 7 desta Corte Superior.
+4. Não compete ao Superior Tribunal de Justiça, no julgamento de recurso especial, analisar supostas ofensas ao texto constitucional, nem mesmo para fins de prequestionamento.
+5. Agravo regimental desprovido" (AgRg no AREsp n. 1.426.799/SP, Sexta Turma, Rel. Min. Laurita Vaz, DJe de 12/09/2019).
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO DO CRIME DE ASSOCIAÇÃO PARA O TRÁFICO. NECESSIDADE DE REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. DOSIMETRIA DA PENA. MODALIDADE PRIVILEGIADA DO DELITO. PRETENSÃO DE RESTABELECIMENTO DA CAUSA DE REDUÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. PECULIARIDADES DO CASO CONCRETO. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. IMPOSSIBILIDADE. ABRANDAMENTO DE REGIME. FIXADO COM FUNDAMENTO DA GRAVIDADE ABSTRATA. FUNDAMENTAÇÃO INIDÔNEA. PENA-BASE NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. INCIDÊNCIA DAS SÚMULAS 718 E 719/STF E 440/STJ. PREENCHIMENTO DOS REQUISITOS PARA O REGIME SEMIABERTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. REPRIMENDA SUPERIOR A 4 ANOS. NÃO CABIMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+I - Diante das balizas estabelecidas pelas instâncias ordinárias, a partir do exame dos elementos carreados aos autos, não se mostra possível desconstituir o édito condenatório, que concluiu pela participação em associação para o tráfico, sem que seja feita nova incursão no acervo fático-probatório, providência inviável em sede de recurso especial, a teor do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+II - O v. acórdão concluiu, após análise do arcabouço probatório, em especial ao teor da prova oral, que o recorrente integraria, como gerente, organização criminosa. Nesses termos, entendo que desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersão vertical na moldura fática e probatória delineada nos autos, inviável na presente via, em razão do óbice da Súmula n. 7/STJ.
+III - A jurisprudência desta Corte se firmou no sentido de que atendidos os requisitos constantes do art. 33, § 2º, alínea b, e § 3º, c/c o art. 59 do Código Penal - ausência de reincidência, condenação por um período superior a 4 (quatro) anos e não excedente a 8 (oito) e circunstâncias judiciais totalmente favoráveis com a fixação da pena-base no mínimo legal -, deve o réu cumprir a pena privativa de liberdade no regime prisional semiaberto.
+IV - No caso, deve o recorrente iniciar o cumprimento da pena em regime semiaberto, porquanto preenchidos os requisitos constantes do art. 33, §2º, alínea b, e § 3º, c/c art. 59 do Código Penal, quais sejam, a ausência de reincidência, a condenação por um período superior a 04 (quatro) anos e não excedente a 08 (oito) anos, a completa inexistência de circunstâncias judiciais desfavoráveis, tanto que a pena-base foi fixada no mínimo legal.
+V - Assim, em razão da pena cominada ao recorrente em patamar superior a 4 (quatro) anos de reclusão, mostra-se incabível a substituição da pena privativa de liberdade por penas restritivas de direitos, pois não preenchidos os requisitos estabelecidos no art. 44 do Código Penal.
+Agravo regimental desprovido"(AgRg no AREsp n. 2.061.033/RJ, Quinta Turma, de minha relatoria, DJe de 14/6/2022).
+Assim, o agravante não aduziu qualquer argumento apto a ensejar a alteração da decisão ora agravada, a qual deve ser mantida por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
