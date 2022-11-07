@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Taysla Regges Soares da Silva - presa preventivamente e denunciada como incursa nos crimes de associação criminosa majorada e participação em organização criminosa -, em que se aponta como autoridade coatora o Tribunal de Justiça de Mato Grosso, que denegou a ordem ali impetrada (Habeas Corpus n. 1009699-49.2022.8.11.0000), mantendo a segregação cautelar imposta pelo Juízo de Direito da 7ª Vara Criminal da comarca de Cuiabá/MT (Autos n. 1006660-10.2021.8.11.0055).
+Sustenta o impetrante que a denunciada foi presa preventivamente por força de mandado de prisão e se encontra segregada a mais de 1 ano, sem que fosse realizada a audiência de instrução, configurando constrangimento a manutenção de sua prisão (fl. 4), a gravidade em abstrato do crime não justifica, por si só, a privação cautelar da liberdade individual (fl. 5), além de que a acusada é mãe de uma criança menor de 12 anos de idade.
+Postula, então, a concessão liminar da ordem para que seja revogada a prisão preventiva imposta ou substituída por medidas alternativas, ou, subsidiariamente, seja fixada prisão domiciliar.
+Em 5/9/2022, deferi o pedido liminar parasubstituir a prisão da paciente por domiciliar (fls. 1.564/1.566).
+Prestadas as informações pelo Juízo de primeiro grau (fls. 1.571/1.575 e 1.578/1.599), o Ministério Público Federal opinou pela concessão da ordem de ofício (fls. 1.601/1.607):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. PRISÃO PREVENTIVA. OPERAÇÃO TANGARAZINHO. ASSOCIAÇÃO PARA O TRÁFICO. ORGANIZAÇÃO CRIMINOSA. ALEGAÇÃO DE EXCESSO DE PRAZO E AUSÊNCIA DE FUNDAMENTAÇÃO. PRISÃO DOMICILIAR. MÃE DE MENOR DE 12 ANOS.
+- Prisão preventiva concretamente fundamentada para garantia da ordem pública, necessária para interromper a atuação da organização criminosa, na qual a paciente ocupa posição de destaque.
+-Complexidade da causa e pluralidade de réus e rés (total de 25), representados/as por defesas distintas, justificam a marcha processual do feito. Não evidenciado excesso de prazo injustificado.
+- É presumida a necessidade da mãe ao cuidado dos filhos com até 12 anos de idade.
+Pelo não conhecimento, mas pela concessão da ordem, de ofício, para substituir a prisão preventiva por domiciliar, confirmando-se a liminar deferida.
+É o relatório.
+O presente pedido comporta acolhimento, mas para acolher o pedido subsidiário de substituição da segregação da paciente por domiciliar.
+De início, observo a existência de indicação de elementos concretos que denotam a necessidade da custódia para a garantia da ordem pública, uma vez que se trata de associação criminosa que compõe uma das células do denominado Comando Vermelho, e o Juízo de primeiro grau evidenciou o papel de destaque da acusada na organização, ao afirmar que (fl. 1.013):
+ ..  a indiciada Taysla Regges Soares da Silva possui envolvimento com o líder da facção Eberson (Bingo) e, como interlocutora dele, mostrou-se dedicada à mercancia ilícita de drogas e que é abastecida por ele, bem como a amiga Fernanda Vieira Martins, a irmã Tabata Regges Soares e seu esposo Herbert Rafael Matos da Silva. Há áudio que o Bingo comenta a Taysla que houve um carregamento apreendido que vinha do Paraguai, e Taysla reclama que Tabata está lhe cobrando, e Bingo diz que André não levou o dinheiro, pois estava ocupado fazendo entrega de nova remessa de droga.  ..
+Não verifiquei excesso de prazo, pois, além de se tratar de feito complexo, com 24 acusados e defensores distintos, a denúncia foi recebida em 18/10/2021, mas a defesa da paciente só apresentou resposta à acusação em 21/3/2022 (fl. 1.505).
+Já em relação ao pedido de prisão domiciliar, consubstanciado na existência de uma criança menor de 12 anos, da qual a paciente é genitora, verifico a ocorrênciado alegado constrangimento.
+Isso porque as instâncias ordinárias indeferiram o pleito com base no argumento de que a paciente não teria demonstrado a imprescindibilidade de seus cuidados ao menor, limitando-se a juntar cópia da certidão de nascimento.
+Ocorre que, em se tratando da genitora, a imprescindibilidade é presumida, cabendo ao julgador fundamentar o indeferimento do pleito por meio de elementos que denotem ser a presença da mãe prejudicial ao menor, ou que ela não tem a guarda por desprezo, desleixo ou porque preferiu se dedicar à seara criminosa a prover os cuidados indispensáveis ao sadio desenvolvimento da criança, o que no caso dos autos, não ficou evidenciado.
+Em face do exposto, concedo a ordem impetrada, confirmando a medida liminar, para substituir a prisão da paciente por domiciliar, mediante condições a serem implementadas e fiscalizadas pelo Magistrado singular.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA MAJORADA E PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA (COMANDO VERMELHO). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO E EXCESSO DE PRAZO. IMPROCEDÊNCIA. PEDIDO SUBSIDIÁRIO DE PRISÃO DOMICILIAR. GENITORA DE UMA CRIANÇA MENOR DE 12 ANOS. IMPRESCINDIBILIDADE NÃO AFASTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem concedida nos termos do dispositivo.
