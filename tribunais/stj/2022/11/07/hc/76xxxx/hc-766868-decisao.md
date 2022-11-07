@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se dehabeas corpus, com pedido liminar, impetrado em benefício deELIOENAI DA SILVA DE ARRUDA, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOno julgamento do HC n. 2180878-17.2022.8.26.0000.
+Extrai-se dos autos que o paciente foi preso em flagranteem 29/7/2022 (fl. 37) por ter supostamente praticado o delito tipificado no art. 33,caput, da Lei n. 11.343/2006 (tráfico de drogas). Referida custódia foi convertida em prisão preventiva (fls. 113/117).
+Irresignada, a defesa impetrouhabeas corpusperante o Tribunal de origem, o qual denegou a ordem consoante o acórdão que restou assim ementado:
+"Habeas Corpus- Tráfico ilícito de drogas- Decisão fundamentada na demonstração dos pressupostos e requisitos autorizadores da prisão preventiva- Revogação- Impossibilidade- Condições pessoais desfavoráveis- Insuficiência das medidas cautelares alternativas ao cárcere- Reconhecimento Ilegalidade do mandado de busca e apreensão- Inocorrência- Alegação de constrangimento ilegal não evidenciada- Ordem denegada." (fl. 183).
+No presentewrit, em apertada síntese, o impetrante alega a inidoneidade da decisão que decretou a custódia cautelar, por carência de fundamentação, sustentando aausência dos requisitos autorizadores do art. 312 do Código de Processo Penal.
+Pondera a suficiência das medidas cautelares diversas do cárcere de que trata o art. 319 do CPP.
+Pugna, em liminar e no mérito, pela revogação da prisão preventiva, ainda que mediante a aplicação de medidas cautelares alternativas, com exceção da fiança.
+O pedido de liminar foi indeferido (fls. 195/196).
+As informações foram prestadas às fls. 200/201 e 207/208. OMinistério Público Federal opinou pelo não conhecimento da ordem (fls. 223/224).
+É o relatório.
+Decido.
+Apretensão encontra-se prejudicada.
+Conforme relatado, a defesa objetivaa revogação da prisão preventiva impingida ao paciente.
+Todavia, consulta ao sistemaeletrônicode processamento de ações judiciais do Tribunal de origem indica a superveniência de sentença penal condenatória, proferida em 7/10/2022pelo douto Juízo da 2ª Vara Criminal da Comarca de Itapetininga/SPnos autos da ação penaln.1501011-57.2022.8.26.0571.
+Na ocasião, além demantida a custódia imposta ao réu, foram agregadas razões paraamparar a medida.Cumpre transcrever trecho da sentença:
+" .. Ante o exposto, JULGO PROCEDENTE a denúncia e o faço para condenar ELIOENAI DA SILVA DE ARRUDA e ALISON LEANDRO BORGES, qualificados nos autos, a pena de 06 (seis) anos de reclusão, no regime inicial fechado, e 600 (seiscentos) dias multa, no piso, sendo o valor unitário de cada dia-multa de 1/30 do salário - mínimo vigente ao tempo da conduta, por incidirem no art. 33, "caput", da Lei n. 11.343/2006, c.c. o art. 29 do Código Penal.
+Decreto o perdimento dos bens e valores apreendidos.
+Sem condenação nas custas, em virtude da presunção de que os Réus não dispõem de recursos para custear as despesas do processo sem prejuízo do sustento próprio ou do sustento de suas famílias.
+Os Réus responderam presos ao processo, de maneira deverão interpor eventual recurso nessa condição, subsistentes as razões da custódia cautelar.
+Ora, ambos os réus são reincidentes específicos e o comportamento de ambos demonstra claramente a necessidade de ser mantida a custódia cautelar, na medida em que agem com descaso com a Justiça, vez que, processados e condenados anteriormente, apesar de terem experimentado os rigores do cárcere, não mudaram a conduta, o que torna a medida excepcional necessária para a garantia da ordem pública, a fim de evitar reiteração criminosa.
+Destarte, as medidas diversas da prisão não se apresentam suficientes na hipótese, ante o descumprimento das ordens judiciais e a constante inobservância da legislação penal. .. "
+Em juízo perfunctório, observa-se que onão reconhecimento do direito de recurso em liberdade se deu por meio de decisum suficientemente fundamentado, consoante dispõe o art. 387, § 1º, do CPP, justificando a medida no fato de opaciente ter permanecido custodiado durante o trâmite da ação penal e na reincidência específica, assinalando, ainda,o descabimento de medidas cautelares diversas ante o histórico de descumprimento de ordens judiciais, circunstâncias hábeis a denotaranecessidade da constrição como forma de garantir a ordem pública, em razão do risco concreto de reiteração delitiva.
+Evidenciado, dessa forma, que há novo título judicial quereavaliou o contexto fático e acrescentou singelos, porém, novos fundamentos ao decreto prisional primitivo,resta prejudicada a ordem de habeas corpus que objetiva a revogação do cárcere sob a alegação de carência dos requisitos e fundamentospara a segregação cautelar.Cito precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS.PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. NOVA FUNDAMENTAÇÃO. EFEITOS DA CONDENAÇÃO. PERDA DO OBJETO.
+1. Na sentença condenatória, foi novamente analisado o cenário fático- processual, entendendo-se necessária a manutenção da custódia do réu, pois, além de ainda estarem presentes as causas que a determinaram, agora tal medida é reforçada com novo fundamento, ou seja, como um efeito da própria condenação penal (a reprimenda fixada).
+2. Ora, a superveniência de sentença penal condenatória, na qual se nega ao acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar (AgRg no HC n. 461.932/SP, Ministra Laurita Vaz, Sexta Turma, DJe 19/08/2019). 3. Agravo regimental improvido (AgRg no RHC 157.779/MA, de minha relatoria, Sexta Turma, DJe 21/02/2022).
+3.  ..  In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do agravante, agregando fundamentos novos ao decreto prisional, tendo ressaltado que: "Sendo conveniente assegurar a aplicação da lei penal em consideração ao crime praticado e tempo de pena arbitrada, preserva-se o estado de custódia do processado". Dessa forma, quanto à ausência de fundamentos da prisão preventiva, o pleito encontra-se prejudicado (AgRg no HC n. 712.721/RJ, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 02/03/2022).
+4. Agravo regimental improvido.
+(AgRg no HC n. 717.891/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/5/2022, DJe de 13/5/2022.)
+PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PRISÃO PREVENTIVA. FUNDAMENTOS. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. PREJUDICIALIDADE. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ATO COATOR NÃO SUBMETIDO AO TRIBUNAL DE ORIGEM.AGRAVO REGIMENTAL DESPROVIDO.
+1. A superveniência de sentença condenatória que reavalia a necessidade de manutenção da ordem de prisão preventiva agregando novos fundamentos ao ato constritivo constitui novo título judicial que prejudica o recurso anteriormente interposto.
+2. Agravo regimental desprovido.
+(AgRg no RHC n. 140.316/MG, relator Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 22/2/2022, DJe de 24/2/2022).
+Por oportuno, cabe registrar que, ulteriormente à prolação da sentença condenatória, a defesa impetrou o Habeas Corpus n.781.379/SP, de minha relatoria, desafiando, dentre outros aspectos, a manutenção da custódia cautelar. Referida ordem restou liminarmente indeferida em decisão de28/10/2022.
+Ante o exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado opresentehabeas corpus.
+Publique-se.
+Intimem-se.
