@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por EDSON FÁBIO EUZÉBIO à decisão de fls. 356/359, que acolheu parcialmente os embargos, mantendo o não conhecimento do recurso.
+Sustenta a parte embargante que:
+No caso o recorrente interpôs recurso especial e requereu a concessão do benefício de AJG, bem como juntou documentos comprobatórios para tanto (fls. 185/197).
+Contudo, houve decisão do em. Relator indeferindo o benefício sob alegação de que não fora juntado o IRPF do ano atual mas sim do ano anterior e requerendo o pagamento em dobro do preparo do recurso especial (fl.198/198).
+Diante disso, foi interposto recurso cabível (fls.206/220), bem como restou acostado o comprovante de pagamento do preparo, inclusive pagamento este feito em dobro, entretanto, por um equivoco cartorário, foi juntado nos autos apenas após a decisão de inadmissão do recurso especial por deserção (fls. 200/202).
+Diante disso, foi interposto os embargos declaratórios, o qual restou parcialmente acolhido, in verbis (fl. 364).
+ ..
+Assim, considerando a decisão que acolheu parcialmente os embargos declaratórios, declarando regularizado o preparo do recurso especial, o qual até então, deixou de ser conhecido por deserção, estando no atual, devidamente regularizado, ou seja, se não houve deserção, o recurso especial interposto anteriormente, preenche os requisitos de admissibilidade, assim, deve ter seu prosseguimento de forma regular, dado estar de acordo com o art. 1.030 e ss. Do CPC.
+Destarte, renovada máxima vênia, é caso de pugnar-se pelo acolhimento do presente, detectado equivoco material, para modificar parcialmente a r. decisão, dado que com o acolhimento dos embargos declaratórios, o Recurso Especial preencheu os seus requisitos de admissibilidade (dado que afastou-se a deserção), devendo os mesmo ser conhecidos e providos, com o consequente deferimento da AJ ao recorrente, dado que o recorrente comprovou nos autos renda inferior a 5 salários mínimos mensais, consoante inteligência da regra do art. 98 c/c 99, § 1º e § 2º, do CPC e Enunciado 49 do CEJUR TJRS (fl. 365).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O afastamento da deserção pela decisão anterior (fls. 356/359), não afasta a intempestividade do agravo em recurso especial.
+Isto porque, ao invés de discutir a deserção do recurso especial no agravo, único recurso cabível contra o juízo de admissibilidade negativo, realizado pelo Tribunal a quo, a parte apresentou pedido de chamamento do feito à ordem (fls. 290/295).
+O STJ pacificou o entendimento de que a interposição de recurso manifestamente incabível não interrompe o prazo recursal. No caso, esse pedido de "chamamento do feito à ordem" protocolado pela parte após o juízo de admissibilidade, não teve o condão de interromper o prazo para apresentação do agravo em recurso especial, única irresignação cabível à espécie, como dito na decisão proferida anteriormente, ora embargada.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
