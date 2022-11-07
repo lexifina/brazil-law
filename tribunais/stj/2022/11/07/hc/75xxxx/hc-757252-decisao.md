@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, contra acórdão assim ementado (fl. 359):
+Apelação criminal Furto Sentença condenatória pelo art.155, caput, do Código Penal Recurso Ministerial buscando o afastamento da circunstância atenuante da confissão espontânea. Pleito subsidiário de que "não haja compensação da atenuante da confissão com a agravante da reincidência, pois esta deve preponderar". Materialidade e autoria devidamente comprovadas Réu que confessou a prática delitiva em juízo Versão que restou confirmada nos autos Acusado que subtraiu o aparelho celular da vítima em meio à via pública Ofendida que reconheceu o réu Investigador de Polícia que corroborou o relato da ofendida Condenação como medida de rigor. Dosimetria Pena-base justificadamente fixada acima do mínimo legal, em razão dos maus antecedentes. Na segunda etapa, foi reconhecida a circunstância agravante da reincidência, a qual foi compensada com a atenuante da confissão espontânea. Afastamento da compensação praticada nos termos do art. 67, do Código Penal. Exasperação da reprimenda. Na terceira fase, ausentescausas de aumento ou diminuição, de modo que a pena foi tornada definitiva. Manutenção do regime inicial fechado, eis que justificado. Impossibilidade de substituição da pena privativa de liberdade por restritiva de direitos. Ausência de requisitoslegais. Recurso Ministerial parcialmente provido. Determinação de expedição de mandado de prisão oportunamente.
+O paciente foi condenado por furto simples. Interposta apelação do Ministério Público, o Tribunal de Justiça deu-lhe provimento, reformando a dosimetria na segunda fase.
+Daí o presente writ, em que adefesa se insurgecontra o entendimento de que a agravante da reincidência teria preponderância sobre a atenuante da confissão espontânea.
+Busca a compensação integral entre as duas circunstâncias.
+Indeferida a liminar e prestadas informações, o Ministério Público sugeriu o não conhecimento e concessão da ordem de ofício.
+Sobre o ponto, dispôs o Tribunal de Justiça (fls. 367-369):
+Na segunda fase, foi reconhecida a circunstância atenuante da confissão espontânea, a qual foi compensada com a agravante da reincidência3.
+Nesse ponto, recorreu o d. Representante do Parquet,buscando o afastamento da circunstância atenuante da confissão espontânea, contudo, sem razão.
+A meu ver, a atenuante deve ser mantida, pois, tecnicamente, o réu realmente confessou ter subtraído o celular da vítima, assumindo, ainda, a consumação do crime, sendo que tentou "amenizar" sua conduta ao dizer que devolveu a res furtiva à ofendida, porém, isso não impediu que o crime restasse configurado.
+Em outras palavras, o relato do réu influenciou diretamente formação do convencimento sobre sua responsabilidade penal, de modo que era mesmo de rigor o reconhecimento da circunstância atenuante da confissão espontânea.
+Por outro lado, alternativamente, postula ainda o Ministério Público seja afastada a compensação da atenuante da confissão espontânea com a agravante da reincidência, sendo que, neste ponto, seu pleito merece guarida.
+Respeitado o entendimento trazido na r. sentença condenatória, é certo que presentes a agravante da reincidência e a atenuante da confissão espontânea, nos termos do art. 67 do Código Penal, a recidiva é circunstância preponderante em concurso com atenuantes.
+ ..
+Assim, na segunda etapa, afasto a compensação praticada, e exaspero a reprimenda em 1/6, perfazendo o novo montante de 01 ano,04 meses e 10 dias de reclusão, e 13 dias-multa.
+Como se vê, o Tribunal de Justiça pontuou que a reincidência seria circunstância preponderante, aumentando a pena intermediária em 1/6.
+Entretanto, a Terceira Seção desta Corte, em 23/5/2012, por ocasião do julgamento do EREsp 1.154.752/RS, pacificou o entendimento segundo o qual a atenuante da confissão espontânea, na medida em que compreende a personalidade do agente, é circunstância preponderante, devendo ser compensada com a agravante da reincidência, igualmente preponderante. Em 10/4/2013, o entendimento foi reafirmado no julgamento do REsp 1.341.370/MT, submetido ao rito dos recursos repetitivos.Neste sentido:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PENAL. NOTÓRIO DISSÍDIO JURISPRUDENCIAL. MITIGAÇÃO DOSREQUISITOS FORMAIS DE ADMISSIBILIDADE. ROUBO. CÁLCULODA PENA. COMPENSAÇÃO DA REINCIDÊNCIA COM A ATENUANTEDA CONFISSÃO ESPONTÂNEA.
+1. Quando se trata de notório dissídio jurisprudencial, a jurisprudência do Superior Tribunal de Justiça diz que devem ser mitigados os requisitos formais de admissibilidade concernentes aos embargos de divergência. Precedentes.
+2. É possível, na segunda fase do cálculo da pena, a compensação da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal.
+3. Embargos de divergência acolhidos para restabelecer, no ponto, o acórdão proferido pelo Tribunal local. (EREsp 115.752/RS, Relator Ministro Sebastião Reis Júnior, Terceira Seção, DJe de 4/9/2012)
+Ante o exposto, concedo ohabeas corpuspara restabelecer a sentença de primeiro grau, que compensou integralmente a confissão espontânea com a reincidência delitiva.
+Comunique-se.
+Publique-se.
+Intimem-se.
