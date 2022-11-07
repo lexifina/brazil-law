@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    A) AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA INTERPOSTO PELA RECLAMADA. DANO MORAL. DENEGADO SEGUIMENTO AO RECURSO DE REVISTA COM FUNDAMENTO NO ARTIGO 896, § 1º-A, I, DA CLT. INDICAÇÃO DO TRECHO DA DECISÃO RECORRIDA QUE CONSUBSTANCIA O PREQUESTIONAMENTO DA CONTROVÉRSIA OBJETO DO RECURSO DE REVISTA. Nos termos do artigo 896, § 1º-A, I, da CLT, incluído pela Lei nº 13.015/2014, é ônus da parte, sob pena de não conhecimento, "indicar o trecho da decisão recorrida que consubstancia o prequestionamento da controvérsia objeto do recurso de revista". No caso, não há falar em observância do requisito previsto no artigo 896, § 1º-A, I, da CLT, porque se verifica que a parte recorrente, nas razões do seu recurso de revista, limitou-se a transcrever na íntegra o acórdão regional em relação ao dano moral sem, contudo, destacar especificamente o trecho que contém a tese jurídica contra a qual se insurge.
+
+    Agravo de instrumento conhecido e não provido. B) AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA INTERPOSTO PELO RECLAMANTE. PENSÃO MENSAL VITALÍCIA. A disposição contida no art. 950 do CC ampara as situações jurídicas em que a lesão resulta de defeito capaz de obstar o exercício da profissão ou diminuir a capacidade laborativa do ofendido. In casu, não obstante seja incontroverso que o trabalho atuou como concausa no aparecimento/agravamento da doença, o Tribunal a quo assinalou que a mencionada doença não o incapacitou, tanto que continuou trabalhando para a reclamada, em outra função. Por conseguinte, não se vislumbra dano material a ser indenizado, pois só é devida a indenização na forma de pensão mensal quando verificada a redução no patrimônio da vítima, justificável por se tratar de verba alimentar, hipótese não verificada nos autos, em que o reclamante não foi afastado do trabalho em face da doença ocupacional. Precedentes. Agravo de instrumento conhecido e não provido.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 7º, inciso XXVIII, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 desta Corte. Sobre o tema, a propósito:
+
+    “DIREITO ADMINISTRATIVO. PROCEDIMENTO CIRÚRGICO. URGÊNCIA NÃO DEMONSTRADA. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AOS ARTS. 1º, III, 5º, CAPUT, I, V e X, 6º, 37, § 6º, 194, PARÁGRAFO ÚNICO, I, 195, 196, 197 e 198, § 1º, DA CONSTITUIÇÃO DA REPÚBLICA. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. A controvérsia, a teor do já asseverado na decisão guerreada, não alcança estatura constitucional. Não há falar em afronta aos preceitos constitucionais indicados nas razões recursais. Compreensão diversa demandaria a reelaboração da moldura fática, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. Desatendida a exigência do art. 102, III, ’a’, da Lei Maior, nos termos da remansosa jurisprudência desta Suprema Corte. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Agravo interno conhecido e não provido” (ARE nº 1.141.648/SP-AgR, Primeira Turma Rel. Min. Rosa Weber, DJe de 11/10/18).
+
+    “DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL. CEMITÉRIO MUNICIPAL. VIOLAÇÃO DE SEPULTURA. FURTO DE PEÇAS. DANOS MATERIAIS COMPROVADOS. DANOS MORAIS. CONFIGURAÇÃO. RESPONSABILIDADE SOLIDÁRIA. RECURSO EXTRAORDINÁRIO INTERPOSTO SOB A ÉGIDE DO CPC/2015. ALEGAÇÃO DE OFENSA AO ART. 37, § 6º, DA CONSTITUIÇÃO DA REPÚBLICA. REELABORAÇÃO DA MOLDURA FÁTICA. PROCEDIMENTO VEDADO NA INSTÂNCIA EXTRAORDINÁRIA. AGRAVO MANEJADO SOB A VIGÊNCIA DO CPC/2015. 1. O entendimento assinalado na decisão agravada não diverge da jurisprudência firmada no Supremo Tribunal Federal. Compreensão diversa demandaria a reelaboração da moldura fática delineada no acórdão de origem, a tornar oblíqua e reflexa eventual ofensa à Constituição, insuscetível, como tal, de viabilizar o conhecimento do recurso extraordinário. 2. As razões do agravo não se mostram aptas a infirmar os fundamentos que lastrearam a decisão agravada, mormente no que se refere à ausência de ofensa a preceito da Constituição da República. 3. Majoração em 10% (dez por cento) dos honorários anteriormente fixados, obedecidos os limites previstos no artigo 85, §§ 2º, 3º e 11, do CPC/2015, ressalvada eventual concessão do benefício da gratuidade da Justiça. 4. Agravo interno conhecido e não provido, com aplicação da penalidade prevista no art. 1.021, § 4º, do CPC/2015, calculada à razão de 1% (um por cento) sobre o valor atualizado da causa, se unânime a votação” (ARE nº 1.139.919/MG-AgR, Primeira Turma, Rel. Min. Rosa Weber, DJe de 17/9/18).
+
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. INTERPOSIÇÃO EM 19.10.2017. DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. OMISSÃO. INDENIZAÇÃO. DANOS DECORRENTES DE AGRESSÃO OCORRIDA EM LOCAL DE TRABALHO. SÚMULA 279 DO STF. 1. É inadmissível o extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, exija-se o reexame das provas dos autos. Incidência da Súmula 279 do STF. 2. Agravo regimental a que se nega provimento, com aplicação da multa prevista no art. 1.021, §4º, do CPC. inaplicável o § 11 do art. 85 do CPC, face à inexistência de fixação de honorários anteriormente” (ARE nº 1.037.498/GO-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 7/5/18).
+
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE OBJETIVA DO ESTADO. VERIFICAÇÃO DA EXISTÊNCIA DOS ELEMENTOS CONFIGURADORES. SÚMULA 279/STF. 1. A resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. 2. Ausência de argumentos capazes de infirmar a decisão agravada. 3. A alegação formulada no agravo envolve ofensa reflexa à Constituição. 4. Agravo regimental a que se nega provimento” (ARE nº 803.808/DF-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 21/3/18).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Publique-se.
+
+    Brasília, 7 de novembro de 2022.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
