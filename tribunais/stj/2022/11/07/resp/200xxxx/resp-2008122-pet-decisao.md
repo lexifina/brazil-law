@@ -1,0 +1,9 @@
+DECISÃO
+Cuida-se de petição, apresentada por ASSOCIAÇÃO NACIONAL DOS JORNAIS,na qual pleiteia sua admissão, na qualidade deamicus curiae, nos autos dorecurso especial interposto por EMPRESA FOLHA DA MANHÃ S.A.
+Defende que a sua intervenção "é pertinente diante da relevância da matéria, harmônica com seus fins institucionais, e da repercussão social da controvérsia" (e-STJ, fl. 2.652), tendo em vista que a tese a ser fixada pelo STJ acerca do uso de conteúdo produzido por empresa de comunicação para clipping"repercutirá diretamente sobre a imprensa escrita de todo o País, que tem custos elevados para a produção das reportagens" (e-STJ, fl. 2.653).
+É O RELATO DO NECESSÁRIO. DECIDE-SE.
+Inicialmente, observo que o pedido veio a destempo, na medida em que já houve o julgamento do recurso especial, que, aliás, não foiconhecido por esbarrar em juízo de prelibação, estando pendente de julgamento apenas o agravo interno interposto contra tal decisum.
+A propósito,faz-se oportuno ressaltar que o Plenário do STF já decidiu que "o amicus curiae somente pode demandar sua intervenção até a data em que o Relator liberar o processo para pauta" (ADI 4.071 AgR, Relator(a): Menezes Direito, Tribunal Pleno, julgado em 22/04/2009, DJe de 15/10/2009, publicado em 16/10/2009).
+Ademais, aSegunda Seção do STJ já decidiu que a participação doamicus curiaeestá prevista no ordenamento jurídico, em regra, para as hipóteses de julgamentos de natureza objetiva (sobretudo recursos especiais repetitivos), admitindo-se essa espécie de intervenção, excepcionalmente, no processo subjetivo quando a multiplicidade de demandas similares demonstrar a generalização da decisão a ser proferida (REsp 1.023.053/RS, DJe 16/12/2011 - QO), situação, também, que não se faz presente, no caso.
+Forte nessas razões, INDEFIRO o pedido formulado.
+Publique-se. Intimem-se.
