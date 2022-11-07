@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração em habeas corpus (Petição n. 988.516/2022) opostos por David Vieira de Abreu à decisão, de lavra deste Relator, que indeferiu liminarmente o writ, a seguir ementada:
+PROCESSUAL PENAL. HABEAS CORPUS. ESTELIONATO SIMPLES E FALSIDADE IDEOLÓGICA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. RISCO DE ESTADO DE LIBERDADE DO PACIENTE PARA A ORDEM PÚBLICA. GRAVIDADE CONCRETA. SUCESSIVAS CONDUTAS DELITIVAS. SUFICIÊNCIA.
+Inicial indeferida liminarmente.
+Alega o embargante, em síntese, omissão na decisão hostilizada, assentando ausência de pronunciamento sobre a ausência de contemporaneidade da necessidade do confinamento, (ii) bem como da absoluta omissão das decisões quanto a possibilidade de substituição do cárcere por outra medida cautelar (fl. 588).
+Requer-se, assim, o conhecimento e o acolhimento dos presentes embargos, para suprir OMISSÃO da r. decisão, ora respeitosamente guerreada diante da inexistência de elementos concretos que justifiquem a manutenção da custódia preventiva do PACIENTE DAVID VIEIRA DE ABREU, e que seja CONCEDIDA A ORDEM LIMINAR, determinando a sua soltura (fl. 598).
+É o relatório.
+Os presentes embargos apontam omissão na decisão hostilizada, que indeferiu liminarmente o writ, ao argumento de ausência de pronúncia sobre ausência de contemporaneidade da medida extrema e possibilidade de substituição da preventiva por medidas cautelares.
+Inicialmente, transcreve-se a fundamentação da decisão ora embargada quanto à pretensão mandamental ratificada nos presentes aclaratórios (fls. 584 - grifo nosso):
+Inicialmente, no tocante ao fundamento utilizado para o decreto de prisão, não diviso o alegado constrangimento, pois o decreto preventivo (fls. 41/44) evidenciou:
+a) prova da existência do delito e indícios suficientes de autoria - cuja informação se extrai do relatório de investigação acostado aos autos (fl. 43);
+b) contemporaneidade da necessidade da medida - pois se trata de delitos cometidos em maio de 2022 (fls. 397/398) e acautelamento provisório decretado em 25/8/2022 (fl. 44); e
+c) o receio de perigo gerado pelo estado de liberdade do imputado à ordem pública - ressaltando a gravidade concreta do delito e o cometimento de sucessivas condutas delitivas: o crime em apuração se reveste de gravidade concreta, consubstanciada, no caso, na própria natureza delitiva, posto que as vítimas sofreram elevado prejuízo financeiro, bem como, representaram criminalmente contra os denunciados. Destaque-se ainda que a investigação noticia que os denunciados induziam as vítimas a erro de modo que realizam financiamentos de veículos, os quais não tinha, sequer, conhecimento (fl. 43 - grifo nosso).
+Ao que se tem, a pretensão foi analisada na decisão hostilizada, inexistindo irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta à apreciação foi efetivamente julgada, não padecendo a decisão dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+A ausência de menção a argumentos que corroboram a pretensão recursal da parte não configura omissão quando, como no caso concreto, as alegações suscitadas foram diretamente enfrentadas ou houve a adoção de entendimento com elas incompatível ou que as tornou prejudicadas. Inexistência de ofensa ao art. 619 do Código de Processo Penal (REsp n. 1.501.855/PR, de minha relatoria, Sexta Turma, DJe 30/5/2017).
+Em verdade, os pontos elencados como omissos traduzem simples retórica e inconformismo com o julgado, o que é descabido em sede de aclaratórios. Confiram-se julgados nesse sentido: EDcl no AgRg nos EAREsp n. 1.809.320/PR, de minha relatoria, Terceira Seção, DJe 29/4/2022; e EDcl no AgRg nos EREsp n. 1.660.765/MA, Ministro Joel Ilan Paciornik, Terceira Seção, DJe 5/8/2019.
+Conclui-se, então, que os presentes embargos não demonstraram a omissão na decisão hostilizada capaz de modificar as razões expostas, em uma nítida tentativa de rediscussão da matéria enfrentada.
+Em razão disso, rejeito os presentes embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. ESTELIONATO SIMPLES E FALSIDADE IDEOLÓGICA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. RISCO DE ESTADO DE LIBERDADE DO PACIENTE PARA A ORDEM PÚBLICA. GRAVIDADE CONCRETA. SUCESSIVAS CONDUTAS DELITIVAS. SUFICIÊNCIA. ALEGAÇÃO DE OMISSÃO. AUSÊNCIA. MERO INCONFORMISMO. ALEGAÇÃO IMPROCEDENTE. EMBARGOS REJEITADOS.
+Embargos de declaração rejeitados.
