@@ -1,0 +1,48 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DE ASSOCIADOS ALTO URUGUAI, com base nas alíneas "a" e "c", do inciso III, do art. 105, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+PROCESSUAL. IMPENHORABILIDADE. RECONHECIMENTO. MUDANÇA DA REALIDADE FÁTICA COMPROVADA NOS AUTOS. MATÉRIA DE ORDEM PÚBLICA, COGNOSCÍVEL MESMO DE OFÍCIO, DESIMPORTANDO ANTERIOR DECISÃO SOBRE O TEMA BASEADA NOUTRAS PREMISSAS. AGRAVO DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+No recurso especial, a recorrente apontou, além do dissídio jurisprudencial, violação ao art. 5º, XXXVI,da Constituição Federal e ao art. 502, CPC, pois a impenhorabilidade do bem de família, embora possa ser alegada a qualquer tempo, é atingida pela coisa julgada, se objeto de decisão anterior transitada em julgado. Acrescentou que não houve alteração do contexto fático.
+Contrarrazões ao recurso especial às fls. e-STJ 149/163.
+É o relatório.
+Passo a decidir.
+De fato, a possibilidade de alegar a qualquer tempo não se confunde com a possibilidade de rediscutirtemas objeto de decisão com trânsito em julgado. A primeira questão se relaciona ao fenômeno da preclusão temporal; a segunda, àcoisa julgada.
+Dessa forma, a possibilidade de nova decisão sobre temas abarcados pela coisa julgada não é consequência necessária da possibilidade de alegação a qualquer tempo desses mesmos temas.
+Nesse contexto, o entendimento desta Corte é de que a impenhorabilidade do bem de família pode ser alegada a qualquer tempo, mas não pode ser novamente decidida, se acobertada pela coisa julgada. Registre-se, a título de exemplo:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À ARREMATAÇÃO.BEMDEFAMÍLIA. COISA JULGADAMATERIAL. IMPOSSIBILIDADE DE REVISÃO. SÚMULA Nº 7/STJ.
+1. A alegação deimpenhorabilidadefoi analisada pelas instâncias de origem a partir da mesma relação jurídica e com base nos mesmos fatos e provas, de modo que não é cabível rediscuti-la.
+2. Infirmar a conclusão do aresto recorrido - para admitir que o imóvel do agravante de fato satisfazia os requisitos da Lei nº 8.009/90 - implicaria a revisão do contexto fático-probatório dos autos, o que é vedado pela Súmula nº 7/STJ, óbice que impede a admissão dos recursos interpostos com fundamento em qualquer das alíneas do permissivo constitucional.
+3. Agravo regimental não provido. (AgRg no AREsp 625704/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Julgado em 18/06/2015, DJe 06/08/2015)
+Contudo, mudança na situação fática implicao afastamento do óbice da coisa julgada, dado que esta se submete àcláusula rebus sic stantibus. Ou seja, a decisão anterior não abarcafatos supervenientes, pois fundada em contexto diverso. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. ADMINISTRATIVO. MILITAR. AUXÍLIO-INVALIDEZ. REVISÃO ADMINISTRATIVA DE BENEFÍCIO CONCEDIDO NA VIA JUDICIAL. POSSIBILIDADE. COISA JULGADA REBUS SIC STANTIBUS. AGRAVO NÃO PROVIDO.
+1. Cinge-se a controvérsia a definir se o benefício de auxílio-invalidez concedido ao recorrente, por meio de decisão judicial transitada em julgado, pode ser revisado na via administrativa ou somente poderia ser na via judicial.
+2. Primeiramente, porque as normas legais e regulamentares que regem o benefício preveem a possibilidade de a administração militar suspender o pagamento do auxílio-invalidez, caso o inativo deixe de preencher os requisitos legais.
+3. De outro lado, a coisa julgada formada em favor do recorrido possui natureza rebus sic stantibus, pois a imutabilidade dos efeitos da decisão transitada em julgado só persiste enquanto mantida a mesma situação fática.
+4. "O que a jurisprudência desta Corte exige não é a aplicação do princípio do paralelismo das formas, é a concessão do contraditório, da ampla defesa e do devido processo legal, sempre que houver necessidade de revisão do benefício previdenciário, por meio do processo administrativo previdenciário, impedindo com isso, o cancelamento unilateral por parte da autarquia, sem oportunizar apresentação de provas que entenderem necessárias" (REsp 1.429.976/CE, Rel. Min. HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 18/2/2014, DJe 24/2/2014).
+5. Assim, como a legislação permite à administração a inspeção do militar para averiguar a persistência dos motivos que deram ensejo à concessão do benefício, não há necessidade de a agravada buscar a via judicial para suspender o auxílio-invalidez, uma vez constatada em perícia médica a cessação da necessidade de internação especializada ou assistência ou cuidados permanentes de enfermagem.
+6. Agravo interno a que se nega provimento. (AgInt no REsp 1736045/RJ, Rel. Ministro Og Fernandes, Segunda Turma, Julgado em 24/08/2020, DJe 27/08/2020, grifei)
+No caso, o acórdão não se baseou apenas na tese de nãoformação dacoisa julgada dasdecisõessobreimpenhorabilidade do bem de família. O voto vencedor afirma, expressamente, que houve mudança fática que justifica a reavaliação da questão, conforme seguinte trecho (e-STJ fl. 47):
+Veja-se que ficou evidenciada uma alteração de fato; se antes o devedor não comprovou residir no imóvel - fato que deu sustentáculo para a anterior decisão judicial - , agora aprova é robusta em sentido diverso. Nesse passo, vejam-se os documentos do Ev. 1, Doc. 6. Além das declarações obtidas das concessionárias de serviço público (contas de luz, telefone, etc.) há provas de que o devedor não mais seguiu trabalhando em Porto Alegre, como havia dito para justificar a não permanência anterior no imóvel penhorado. Vale notar que a parte agravante prende-se ao tema "coisa julgada" e não procedeu aum exame e impugnação específicos da documentação colacionada, que faz prova da mudança na situação fática. (grifei)
+Já o recorrente sustenta que inexistiu alteração fática (e-STJ fl. 89):
+"Assim, por essencial, não há fato novo acerca da impenhorabilidade em discussão, eis que o Recorrido apenas reitera aquilo que já foi enfrentado e rejeitado, o que está albergado pela coisa julgada."
+A modificação do entendimento do Tribunal- ocorrência de alteração fática- demandaria reanálise de matéria probatória, o que não é possível em sede de recurso especial, conforme Súmula 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CARACTERIZAÇÃO. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA.SÚMULANº 7/STJ.IMPENHORABILIDADE. BEMDEFAMÍLIA.PROPRIETÁRIA DE OUTROSBENS.IMÓVEL DE RESIDÊNCIA. CONSTRIÇÃO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Ao magistrado é permitido formar a sua convicção com base em qualquer elemento de prova disponível nos autos, bastando para tanto que indique na decisão os motivos que lhe formaram o convencimento.
+A intervenção do Superior Tribunal de Justiça quanto a tal valoração encontra óbice naSúmulanº 7/STJ.
+4. Não há cerceamento de defesa pelo julgamento antecipado da lide que, de forma fundamentada, resolve a causa sem a produção da prova requerida pela parte em virtude da suficiência dos documentos dos autos.
+5. Na hipótese, rever o entendimento firmado pelo tribunal de origem, que manteve o reconhecimento daimpenhorabilidadedo imóvel pertencente aos devedores, implicaria a análise de fatos e provas, procedimento inviável em recurso especial em virtude da incidência daSúmulanº 7/STJ.
+6. A jurisprudência desta Corte Superior é firme no sentido de que a Lei nº 8.009/1990 não retira o benefício dobemdefamíliadaqueles que possuem mais de um imóvel.
+7.O parágrafo único do artigo 5º da Lei nº 8.009/1990 dispõe expressamente que aimpenhorabilidaderecairá sobre obemde menor valor na hipótese em que a parte possuir vários imóveis utilizados como residência, o que não ficou demonstrado nos autos.
+8. Agravo interno não provido. (AgInt no AREsp 1931634/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Julgado em 30/05/2022, DJe 02/06/2022, grifei)
+Portanto, o entendimento do Tribunal de que houve mudança fática afasta, como decorrência lógica, o óbice da coisa julgada. Por sua vez, a modificação da conclusão do acórdão demandaria a reapreciação do acervo probatório, o que não é possível, nos termos da Súmula 7/STJ.
+Ante o exposto, não conheço do recurso especial.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA. BEM DE FAMÍLIA. COISA JULGADA. IMPOSSIBILIDADE DE NOVA DECISÃO. ALTERAÇÃO FÁTICA. AFASTAMENTO DA COISA JULGADA. REANÁLISE DO ACERVO PROBATÓRIO. SÚMULA 7/STJ. RECURSO NÃO CONHECIDO.
+1.Aimpenhorabilidade do bem de família pode ser alegada a qualquer tempo, mas não pode ser novamente decidida, após acobertada pela coisa julgada. Precedentes.
+2. Contudo,mudança na situação fática implica, necessariamente, o afastamento do óbice da coisa julgada, dado que esta se submete àcláusula rebus sic stantibus. Ou seja, diante de alteração superveniente dos fatos, a decisão anterior não prevalece, pois fundada em contexto diverso.
+3. No caso,o acórdãoafirma, expressamente, que houve mudança fática que justifica nova decisão sobre otema. A reavaliação da questão demanda nova análise do contexto fático-probatório, o que não é admissível em sede de recurso especial. Súmula 7/STJ.
+4. Recurso não conhecido.
