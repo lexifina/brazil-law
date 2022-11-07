@@ -1,0 +1,74 @@
+DECISÃO
+Cuida-se  de  agravo  interposto  peloESTADO DO RIO DE JANEIROcontra  decisão  que  obstou  a  subida  de  recurso  especial.
+Extrai-se  dos  autos  que  a parte  agravante  interpôs  recurso  especial,  com  fundamento  no  art.  105,  III,  "a",  da  Constituição  Federal  contra  acórdão  do  TRIBUNAL  DE  JUSTIÇA  DO  ESTADO DO RIO DE JANEIRO  cuja  ementa  guarda  os  seguintes  termos  (fl.  370):
+APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA. DIREITOTRIBUTÁRIO. ICMS. REGIME ESPECIAL INSTITUÍDO PELA LEI 6.979/15. MAJORAÇÃO DA ALÍQUOTA DO FECP. IMPOSSIBILIDADE.
+1. Industria que foi enquadrada no regime Tributário Especial de ICMS estabelecido na Lei 6.979/15, benefício que foi concedido por prazo certo mediante o cumprimento de determinados requisitos, inclusive geográficos.
+2. A Lei 6.979/15 dispõe que o recolhimento do ICMS se dará no percentual correspondente a 2% sobre as operações de saída, já incluído neste percentual a parcela de 1% destinada ao Fundo Estadual de Combate à Pobreza e às Desigualdades Sociais.
+3. Lei Complementar 167/2015 que majorou a alíquota do FECP de forma genérica e deve ser aplicada às empresas submetidas ao regime geral, e não àquelas beneficiadas pelo regime especial.
+4. Ao estabelecer que o imposto a ser recolhido pelos optantes do regime de tributação especial corresponderia à aplicação de 3% sobre o valor das operações de saída, o Decreto 45.507/16 acabou por majorar a alíquota do FECP, reduzindo, por via de consequência, incentivo fiscal concedido por lei à impetrante.
+5. A isenção tributária, concedida por prazo certo e mediante o atendimento de determinadas condições, gera direito adquirido ao contribuinte beneficiado, conforme disposto no art. 178 do CTN e no Verbete 544 do STF. Precedente deste Tribunal.
+6. Conhecimento e desprovimento do recurso para manter a sentença proferida.
+Os  embargos  de  declaração  opostos  foram  rejeitados  (fls.  419-425).
+No  recurso  especial,  a parte recorrente  alega,  preliminarmente,  ofensa  aos  arts. 489, § 1º, V, e 1.022, II, do CPC,  porquanto,  apesar da oposição dos embargos de declaração, o Tribunal deorigem não se pronunciou sobre pontos necessários ao deslinde dacontrovérsia, negando prestação jurisdicional.
+Aduz,  no  mérito,  que  o  "acórdão  estadual  violou o art. 178 do CTN ao aplicá-lo a situação em relação à qual claramente não tem correspondência, já que um RET não significa uma isenção, muito menos onerosa. E, uma vez reconhecido esse erro, fica claro que não há qualquer obstáculo à plena eficácia da majoração de alíquota promovida pela LC 167/2015".
+Pugna, por fim, pela necessidade de reforma do julgado no que diz respeito à imposição da multa processual (fls. 437-443).
+Oferecidas  contrarrazões  ao  recurso  especial  (fls.  473-475).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls.477-480), o que ensejou a interposição do presente agravo.
+Foi apresentada contraminuta do agravo (fls. 483-508).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame dorecurso especial.
+A  irresignação  não  merece  prosperar.
+Inicialmente, não se configura a ofensa aos arts. 489, § 1º, V, e 1.022, II, do CPC, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado, manifestando-se de forma clara e fundamentada.
+Vale lembrar que o órgão julgador não é obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que a Corte a quo não se pronunciou sobre o tema ventilado norecurso de embargos de declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado.
+Vale destacar que o simples descontentamento da parte com o julgado não tem a capacidade de tornar cabíveis os aclaratórios, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.Registre-se, portanto, que da análise dos autos extrai-se ter a instância de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Cito, a propósito, precedente da Corte Especial do STJ:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃONOS EMBARGOS DE DIVERGÊNCIA EM RECURSOESPECIAL. PEDIDO DE CONDENAÇÃOFORMULADO PELO RÉU, SEM HAVERAJUIZAMENTO DE RECONVENÇÃO.INADMISSIBILIDADE DE ANÁLISE PELO JUIZ. JULGAMENTO EXTRA PETITA. VIOLAÇÃO AOS ARTS. 128 E 460 DO CPC. ESPÉCIE RECURSALESPECÍFICA PARA IMPUGNAR EXCLUSIVAMENTEDECISÕES JUDICIAIS VICIADAS POR OMISSÃO,CONTRADIÇÃO OU OBSCURIDADE (ART. 535 DO CPC). INOCORRÊNCIA DE ERRO MATERIAL (ART. 463, I DO CPC). PRETENSÃO DE REDISCUTIRMATÉRIA PURAMENTE MERITÓRIA. EFEITOSINFRINGENTES. DETURPAÇÃO DO DIREITO DE RECORRER. IMPOSSIBILIDADE DE ANÁLISE DE MATÉRIA NÃO ALEGADA NOS PRIMEIROSACLARATÓRIOS. PRECLUSÃO CONSUMATIVA.EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os Embargos de Declaração consubstanciam instrumento processual apto a suprir omissão do julgado ou dele excluir qualquer obscuridade ou contradição. Não se prestam, contudo, a revisar entendimento materializado de forma clara, coerente e congruente, como no caso dos autos.
+2. Amiúda-se na prática judiciária a interposição de Embargos de Declaração com propósito nitidamente infringente, por isso que se impõe renovar que esse recurso não se presta à finalidade de corrigir eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+3. De outro lado, a obtenção de efeitos infringentes em Embargos de Declaração somente é juridicamente possível quando reconhecida a existência de um dos defeitos elencados nos incisos do art. 535 do CPC e, da correção do vício, decorrer necessariamente a alteração do julgado; fora dessa hipótese, os Embargos de Declaração assumem deturpação do direito de recorrer.
+4. O Julgador não está no dever jurídico de rebater, um a um, os argumentos trazidos pela parte, quando aponta fundamentos suficientes à análise e solução da controvérsia; neste caso, o acórdão está fundamentado, explicitando claramente as razões que levaram ao acolhimento dos Embargos de Divergência em Recurso Especial.
+5. Não podem os segundos Embargos de Declaração elencar vícios do julgado que poderiam ter sido apontados na interposição dos primeiros Aclaratórios, diante da ocorrência da preclusão.
+6. Embargos de Declaração rejeitados.(EDcl nos EDcl nos EREsp n. 1.284.814/PR, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe de 3/6/2014.)
+FUNDAMENTO CONSTITUCIONAL DO ACÓRDÃO
+Impende assinalar que, embora a parte recorrente alegue ter ocorrido violação de matéria infraconstitucional, segundo se observa dos argumentosque serviram de fundamento para a Corte de origem apreciar a controvérsia, o tema foi dirimido no âmbito constitucional, de modo a afastar a competência desta Corte Superior de Justiça para o deslinde do desiderato contido no recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. MEMBRO DA GUARDA CIVIL MUNICIPAL DEJUNDIAÍ APOSENTADORIA ESPECIAL IMPOSSIBILIDADE. MATÉRIA DECIDIDA COMFUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA DO STF. AUSÊNCIA DE DISPOSITIVOVIOLADO. SÚMULA 284/STF.
+1. Na leitura do acórdão recorrido depreende-se que o Tribunal analisou a controvérsia sob o aspecto exclusivamente constitucional (entendimento pelo qual os guardas municipais não têm direito à aposentadoria especial porquanto não fazem parte do conjunto de órgãos da Segurança Pública, art.144, incisos I a V, da Constituição Federal). Vê-se que julgar questão cujo deslinde reclama análise de matéria de natureza constitucional é inviável no âmbito de cabimento do Recurso Especial, sendo sua apreciação de competência do Supremo Tribunal Federal, conforme dispõe o art. 102,III, da Constituição Federal.
+2. Infere-se das razões do Recurso Especial que a agravante deixou de estabelecer, com a precisão necessária, quais dispositivos de lei federal considera violados para sustentar sua irresignação pela alínea "a" do permissivo constitucional. Dessa forma, ante a deficiência na fundamentação, o conhecimento do Recurso Especial encontra óbice, por analogia, na Súmula 284 do Supremo Tribunal Federal: "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitira exata compreensão da controvérsia".
+3. Agravo Interno não provido.(AgInt no REsp n. 1.816.770/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 3/10/2019, DJe de 18/10/2019.)
+Ademais, observa-se que a parte deixou de recorrerextraordinariamente, de maneira a atrair, no mínimo,o conteúdo da Súmulan. 126/STJ, segundo aqual "éinadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+DA SÚMULA N. 280/STF
+Além disso, segundo se observa dos argumentosque serviram de fundamento para a Corte de origem ao apreciara controvérsia, o tema também foi dirimido no âmbito local, de modo aafastar a competência desta Corte Superior de Justiça para o deslinde dodesiderato contido no recurso especial.
+O exame de normas de caráter local é inviável na via do recurso especial,em virtude da vedação prevista na Súmula n. 280 do STF, segundo a qual "porofensa a direito local não cabe recurso extraordinário".
+Assim, não merece prosperar a irresignação da recorrente, uma vez que,para se aferir a procedência de suas alegações, seria necessário procederà interpretação de norma local. Ademais, eventual violação de lei federalseria reflexa, e não direta, porque no deslinde da controvérsia seriaimprescindível a interpretação deleis estaduais, descabendo, portanto, o exame da questão em sede derecurso especial.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDORES PÚBLICOS ESTADUAIS. ADICIONAL POR TEMPO DE SERVIÇO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA, TOMADO SOB A ÉGIDE DO CPC/1973. IMPOSSIBILIDADE. DIVERGÊNCIA ENTRE DECISÃO DE ÓRGÃO FRACIONÁRIO E DECISÃO DE ÓRGÃO ESPECIAL EM ASSUNÇÃO DE COMPETÊNCIA ACERCA DE DIREITO LOCAL. INCIDÊNCIA DAS SÚMULAS 13 DO STJ E 280 DO STF. PRECEDENTES DO STJ.
+ ..
+4. A conclusão da Corte local está fundamentada na interpretação de lei local (Constituição do Estado de São Paulo, LCE n. 712/1993, Lei 6.628/89 e Lei 10.261/68), tornando impossível a alteração do acórdão recorrido em virtude da incidência da Súmula 280/STF.
+5. Agravo interno não provido.
+(AgInt no REsp n. 1.961.463/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. ADICIONAIS POR TEMPO DE SERVIÇO SOBRE VENCIMENTOS. VIOLAÇÃO DOS ARTS. 489, § 1º, VI, E 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. ART. 129 DA CE/SP. INTERPRETAÇÃO DE LEI LOCAL. SÚMULA 280/STF. MATÉRIA CONSTITUCIONAL NÃO IMPUGNADA. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO (RE). INCIDÊNCIA DA SÚMULA 126/STJ. AGRAVO INTERNO DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+ ..
+3. Da leitura do acórdão objurgado constata-se que o mérito recursal foi decidido à luz da interpretação do art. 129 da Constituição do Estado de São Paulo. Com efeito, a alteração do julgado, conforme pretendido nas razões recursais, demandaria, necessariamente, a análise da legislação local para o deslinde da controvérsia, providência vedada em sede de recurso especial. Desse modo, aplicável à espécie, por analogia, o enunciado da Súmula 280/STF, segundo a qual por ofensa ao direito local não cabe recurso extraordinário.
+4. Agravo interno dos particulares a que se nega provimento.
+(AgInt no AREsp n. 1.406.992/SP, relator Ministro Manoel Erhardt (desembargador convocado do TRF5), Primeira Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. AÇÃO RESCISÓRIA. SUPOSTA VIOLAÇÃO A NORMA CONSTITUCIONAL OU LOCAL. RECURSO ESPECIAL. NÃO CABIMENTO.
+ ..
+4. Inviável, ainda, a análise do pleito ante o óbice da Súmula 280/STF, porquanto o fundamento da violação também está assentado em normas estaduais, quais sejam, a Constituição do Estado de São Paulo, a Lei Estadual 6.628/1989 e da Lei Complementar Estadual 712/1993.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.417.965/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 16/11/2021, DJe de 18/11/2021.)
+DA SÚMULA N. 284/STF
+Quanto ao pleito de afastamento da imposição da multa processual, verifica-se que a parte recorrente não indicou dispositivo legal violado no acórdão recorrido. A falha indica fundamentação recursal deficiente, atraindo a incidência da Súmula n. 284/STF, por analogia.
+Nesse sentido, cito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284 DO STF. INADMISSIBILIDADE. REAVALIAÇÃO DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+ ..
+4. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+ ..
+7. Agravo interno a que se nega provimento. (AgInt no AREsp n. 2.108.361/DF, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 23/9/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. 1. DANO MORAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 2. AGRAVO INTERNO IMPROVIDO.
+1. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados faz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+2. Agravo interno improvido.
+(AgInt no AREsp n. 1.555.924/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 21/9/2022.)
+  Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Publique-se.  Intimem-se.
