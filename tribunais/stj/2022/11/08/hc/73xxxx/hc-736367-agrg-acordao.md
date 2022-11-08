@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. JULGAMENTO MONOCRÁTICO DO WRIT. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. INSURGÊNCIA CONTRA ACÓRDÃO DE APELAÇÃO TRANSITADO EM JULGADO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO DESPROVIDO.
+1. Segundo reiterada manifestação desta Corte, não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+2. O habeas corpus foi impetrado contra acórdão já transitado em julgado, de forma que não foi conhecido, por ter sido manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+3. Não há manifesta ilegalidade hábil a ensejar a concessão de habeas corpus de ofício, tendo o Tribunal de origem negado a aplicação do redutor especial com fundamento idôneo e compatível com a jurisprudência consolidada desta Corte Superior de Justiça, ao consignar que a Ré possui maus antecedentes. Tal fundamento nem sequer foi enfrentado nas razões do presente agravo.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora. Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto porAURELIANA NÚBIA LUAMAR LUZ contra decisão monocrática de minha lavra, por meio da qual não conheci dohabeas corpus, nos termos da seguinte ementa (fl. 87):
+"HABEAS CORPUS. PROCESSUAL PENAL. PEDIDO DE APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. INSURGÊNCIA CONTRA ACÓRDÃO DE APELAÇÃO TRANSITADO EM JULGADO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE MANIFESTA ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO."
+Nas razões do regimental, a Defesa alega que o julgamento monocrático do writ viola o princípio da colegialidade.
+No mais, sustenta que, caso se mantenha o entendimento pelo não conhecimento do pedido, é possível a concessão da ordem, de ofício, no caso dos autos.
+Pleiteia, assim, a reconsideração da decisão agravada ou a apreciação do agravo regimental pelo Colegiado da Sexta Turma, a fim de que seja aplicada a causa especial de diminuição de pena prevista no art. 33, § 4.º, da Lei n. 11.343/2006, nos termos pleiteados na inicial do mandamus.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. JULGAMENTO MONOCRÁTICO DO WRIT. VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. APLICAÇÃO DA MINORANTE DO TRÁFICO PRIVILEGIADO. INSURGÊNCIA CONTRA ACÓRDÃO DE APELAÇÃO TRANSITADO EM JULGADO. WRIT SUBSTITUTIVO DE REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE MANIFESTA ILEGALIDADE. AGRAVO DESPROVIDO.
+1. Segundo reiterada manifestação desta Corte, não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+2. O habeas corpus foi impetrado contra acórdão já transitado em julgado, de forma que não foi conhecido, por ter sido manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+3. Não há manifesta ilegalidade hábil a ensejar a concessão de habeas corpus de ofício, tendo o Tribunal de origem negado a aplicação do redutor especial com fundamento idôneo e compatível com a jurisprudência consolidada desta Corte Superior de Justiça, ao consignar que a Ré possui maus antecedentes. Tal fundamento nem sequer foi enfrentado nas razões do presente agravo.
+4. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Consta dos autos que a Paciente, ora Agravante, foi condenada, por sentença proferida no dia 11/07/2021, às penas de 5 (cinco) anos e 6 (seis) meses de reclusão, em regime inicial semiaberto, e 550 (quinhentos e cinquenta) dias-multa,como incursa no art. 33, caput, da Lei n. 11.343/2006, porque, no dia 08/08/2019, "trazia consigo 6 gramas da droga conhecida como cocaína, divididas em 8 buchinhas e 6 gramas de maconha" (fl. 29).
+Irresignada, a Sentenciada apelou, tendo o Tribunal de origem negado provimento ao recurso (fls. 47-53).
+O feito transitou em julgado em 16/03/2022(fl. 54).
+Foi impetrado writ perante esta Corte Superior, buscando a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4.º, da Lei n. 11.343/2006, ao argumento de que a Ré "era primária à época dos fatos, sem condenação com trânsito em julgado, preenchendo todos os requisitos para a concessão do tráfico privilegiado" (fl. 08).
+Prestadas as informações (fls. 62-75), o Ministério Público Federal opinou pelo não conhecimento do writ(fls. 79-85).
+Por fim, não conheci do habeas corpus, em decisão monocrática publicada no dia 20/10/2022, contra a qual ora se insurge a Agravante.
+A irresignação não prospera.
+De início, ressalte-se que, segundo reiterada manifestação desta Corte, não viola o princípio da colegialidade a decisão monocrática do Relator calcada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PRINCÍPIO DA COLEGIALIDADE. OFENSA. NÃO OCORRÊNCIA. SUBSTITUIÇÃO DA REPRIMENDA. REQUISITO SUBJETIVO. AUSÊNCIA. SUSPENSÃO CONDICIONAL DA PENA. MAUS ANTECEDENTES. SUPRESSÃO DE INSTÂNCIA. EXECUÇÃO IMEDIATA DA SANÇÃO. POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+Não há ofensa ao princípio da colegialidade diante da existência de previsão regimental para que o relator julgue monocraticamente o habeas corpus quando se fundamentar na jurisprudência dominante deste Superior Tribunal.
+ ..
+Agravo regimental não provido." (AgRg no HC 508.825/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019; sem grifos no original.)
+No mais, vê-se que o habeas corpus foi impetrado contra acórdão já transitado em julgado. Nesse contexto, não deve ser conhecido, na medida em que foi manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte.
+Com efeito, nos termos do art. 105, inciso I, alínea e, da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Sobre a questão, cito os seguintes julgados das Turmas que compõem a Terceira Seção desta Corte:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ARTS. 217-A,CAPUT, NA FORMA DO ART. 71, E 343, NA FORMA DO ART. 70, TODOS DO CÓDIGO PENAL.CONDENAÇÃO TRANSITADA EM JULGADO. PRETENSÃO DE DESCLASSIFICAÇÃO DA CONDUTA. IMPOSSIBILIDADE. ALTERAÇÃO DO POSICIONAMENTO FIRMADO PELAS INSTÂNCIAS ORDINÁRIAS. NECESSIDADE DE INCURSÃO NOS ELEMENTOS DE FATO E DE PROVA DOS AUTOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito de desclassificação da conduta praticada, depois de já transitada em julgado a condenação, revela-se inviável, notadamente diante da incompetência deste Superior Tribunal para analisar habeas corpus substitutivo de revisão criminal, tendente a reapreciar o posicionamento exarado por Colegiado estadual.
+2. A alteração do entendimento firmado demandaria a incursão nos elementos de fato e de prova dos autos, providência vedada em habeas corpus.
+3. Agravo Regimental não provido."(AgRg no HC 573.735/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 27/04/2021, DJe 30/04/2021; sem grifos no original.)
+"PROCESSO PENAL. AGRAVO REGIMENTAL DA DECISÃO QUE NÃO CONHECEU DO HABEAS CORPUS. HABEAS CORPUS SUBSTITUTIVO DE REVISÃO CRIMINAL.INADMISSÍVEL. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III - Sustenta-se, in casu, a ilegalidade da dosimetria das penas dos crimes de lavagem de capitais pelos quais o recorrente foi condenado na Ação Penal n. 5026212-82.2014.4.04.7000/PR.
+IV - A Ação Penal n. 5026212-82.2014.4.04.7000/PR transitou em julgado em 4/12/2019, após a tese de ilegalidade da dosimetria das penas haver sido arguida em recurso especial interposto nesta Corte e em recurso extraordinário interposto no Supremo Tribunal Federal.
+V - Não se admite o conhecimento do presente habeas corpus, porquanto impetrado com a única finalidade de substituir o recurso de revisão criminal, cujo processo e julgamento compete exclusivamente ao Tribunal Regional Federal da 4ª Região, por expressa previsão do art. 108, inciso I, alínea "b", da Constituição Federal, especialmente porque, na espécie, não se vislumbra nenhuma ilegalidade flagrante.
+Agravo regimental desprovido."(AgRg no HC 610.106/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021; sem grifos no original.)
+No mesmo sentido, ilustrativamente, as seguintes decisões monocráticas: HC 512.674/CE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 30/05/2019; HC 482.877/SP, Rel. Ministro JORGE MUSSI, DJe 29/03/2019; HC 675.658/PR,Ministro RIBEIRO DANTAS, DJe 04/08/2021; HC 677.684/SP,Ministro ANTONIO SALDANHA PALHEIRO, 02/08/2021; eHC 611.093/RJ,Ministro JOÃO OTÁVIO DE NORONHA, 04/08/2021.
+Outrossim, conforme consignei no decisum agravado, não há manifesta ilegalidade hábil a ensejar a concessão de habeas corpusde ofício, tendo o Tribunal de origem negado a aplicação do redutor especial com fundamento idôneo e compatível com a jurisprudência consolidada desta Corte Superior de Justiça, ao destacar que "a Ré possui uma condenação desfavorável transitada em julgado (crime de furto qualificado praticado em 11/04/2019, proferida sentença condenatória com trânsito em julgado em 19/08/2020, seq. 75.1), hábil a caracterizar os maus antecedentes"(fl. 52). Tal fundamento nem sequer foi enfrentado nas razões do presente agravo.
+Assim, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, deve ser mantida a decisão por seus próprios fundamentos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
