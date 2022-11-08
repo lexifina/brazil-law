@@ -1,0 +1,115 @@
+Decisão:
+
+    Trata-se de habeas corpus impetrado contra decisão monocrática proferida no âmbito do Superior Tribunal de Justiça, que indeferiu liminarmente a impetração no HC 776.141/SP (eDOC 17).
+
+    Busca-se, em suma, a revogação da prisão preventiva, tendo em vista que não há fundamentação idônea para sua imposição, especialmente considerando que a paciente é primária, sem antecedentes criminais, tem ocupação lícita e não tinha conhecimento de que havia droga no carro do seu namorado. Acrescenta-se que a paciente foi agredida pelos policiais militares no momento da abordagem, o que foi constatado por exame de corpo de delito.
+
+    Em razão do exposto, postula-se a concessão da liberdade provisória, sem prejuízo da imposição de medidas cautelares diversas.
+
+    O Juízo de origem prestou informações (eDOC 22).
+
+    É o relatório. Decido.
+
+    1. Cabimento do habeas corpus:
+
+    1.1. Esta Corte tem posição firme pela impossibilidade de admissão de habeas corpus impetrado contra decisão proferida por membro de Tribunal Superior, visto que, a teor do artigo 102, I, “i”, da Constituição da República, sob o prisma da autoridade coatora, a competência originária do Supremo Tribunal Federal somente se perfectibiliza na hipótese em que Tribunal Superior, por meio de órgão colegiado, atue nessa condição. Nessa linha, cito o seguinte precedente:
+
+    “É certo que a previsão constitucional do habeas corpus no artigo 5º, LXVIII, tem como escopo a proteção da liberdade. Contudo, não se há de vislumbrar antinomia na Constituição Federal, que restringiu a competência desta Corte às hipóteses nas quais o ato imputado tenha sido proferido por Tribunal Superior. Entender de outro modo, para alcançar os atos praticados por membros de Tribunais Superiores, seria atribuir à Corte competência que não lhe foi outorgada pela Constituição. Assim, a pretexto de dar efetividade ao que se contém no inciso LXVIII do artigo 5º da mesma Carta, ter-se-ia, ao fim e ao cabo, o descumprimento do que previsto no artigo 102, I, “i”, da Constituição como regra de competência, estabelecendo antinomia entre normas constitucionais.
+
+    Ademais, com respaldo no disposto no artigo 34, inciso XVIII, do Regimento Interno do Superior Tribunal de Justiça, pode o relator negar seguimento a pedido improcedente e incabível, fazendo-o como porta-voz do colegiado. Entretanto, há de ser observado que a competência do Supremo Tribunal Federal apenas exsurge se coator for o Tribunal Superior (CF, artigo 102, inciso I, alínea “i”), e não a autoridade que subscreveu o ato impugnado. Assim, impunha-se a interposição de agravo regimental.” (HC 114.557 AgR, Rel. Min. LUIZ FUX, Primeira Turma, julgado em 12.08.2014, grifei).
+
+    Nessa perspectiva, tem-se reconhecido o descabimento de habeas corpus dirigido ao combate de decisão monocrática de indeferimento de liminar proferida no âmbito do STJ. Tal entendimento pode ser extraído a partir da leitura da Súmula 691/STF:
+
+    “Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.”
+
+    2. Possibilidade de concessão da ordem de ofício:
+
+    Ainda que ausentes hipóteses de conhecimento, a Corte tem admitido, excepcionalmente, a concessão da ordem de ofício.
+
+    Calha enfatizar que tal providência tem sido tomada tão somente em casos absolutamente aberrantes e teratológicos, em que “a) seja premente a necessidade de concessão do provimento cautelar para evitar flagrante constrangimento ilegal; ou b) a negativa de decisão concessiva de medida liminar pelo tribunal superior importe na caracterização ou na manutenção de situação que seja manifestamente contrária à jurisprudência do STF” (HC 95.009, Rel. Min. Eros Grau, Tribunal Pleno, julgado em 06.11.2008, grifei).
+
+    Devido ao caráter excepcional da superação da jurisprudência da Corte, a ilegalidade deve ser cognoscível de plano, sem a necessidade de produção de quaisquer provas ou colheita de informações. Nesse sentido, não pode ser atribuída a pecha de flagrante à ilegalidade cujo reconhecimento demande dispendioso cotejamento dos autos ou, pior, que desafie a complementação do caderno processual por meio da coleta de elementos externos.
+
+    3. Análise da possibilidade de concessão da ordem de ofício no caso concreto:
+
+    No caso dos autos, a apontada ilegalidade pode ser aferida de pronto.
+
+    3.1. A Constituição da República (art. 5°, LXI) assegura que “ninguém será preso senão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente”. Nessa toada, percebo que o vício de motivação configura, por si só, constrangimento ilegal, por consubstanciar ato violador do devido processo legal que, dentre outras consequências, subordina a imposição de ordem prisional, de forma expressa, à fundamentação escrita e exarada pela autoridade judiciária competente.
+
+    Como se vê, a Constituição elegeu o Princípio do Juiz Natural como critério condicionante à relativização da regra da prisão penal, de modo que, inclusive nos termos da jurisprudência desta Corte, não se admite, com assento no Princípio Acusatório, que o vício de fundamentação seja suprido, de ofício, pelas instâncias superiores:
+
+    “É vedada, em habeas corpus, a utilização de fundamentos inovadores, para suprir vício de motivação das instâncias antecedentes, ou justificar a adoção do regime prisional mais gravoso, sob pena de reformatio in pejus. Precedentes.” (HC 122.626, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 07.10.2014, grifei).
+
+    “Não cabe às instâncias superiores, em sede de habeas corpus, adicionar novos fundamentos à decisão de primeiro grau, visando a suprir eventual vício de fundamentação. Precedentes.” (HC 113.945, Relator(a): Min. TEORI ZAVASCKI, Segunda Turma, julgado em 29.10.2013, grifei)
+
+    “Uma vez que não cabe, em sede de habeas corpus, agregar fundamentos inovadores para complementar deficiência de fundamentação na dosimetria da pena, sua legalidade deve ser aferida estritamente à luz da motivação empregada na sentença.” (RHC 123.529, Relator(a): Min. DIAS TOFFOLI, Primeira Turma, julgado em 30.09.2014, grifei).
+
+    Ademais, tal proceder, por importar gravame à situação processual do paciente, revela-se incompatível com a razão de ser do habeas corpus, garantia constitucional de mão única dirigida à proteção do cidadão em face do arbítrio estatal. De tal forma, não é razoável que o Estado-Juiz fortaleça o poderio persecutório estatal por meio da utilização deturpada de garantia posta à disposição do indivíduo.
+
+    Feitas tais considerações, enfatizo que não é dado ao Supremo Tribunal Federal, ao se deparar com panorama processual que atinja ilicitamente a liberdade do paciente em razão de fundamentação deficiente e com a finalidade inconfessável de justificar o meio pelo fim, mergulhar no conjunto probatório do caso concreto com o nítido intuito de amealhar razões que desbordem da decisão atacada, visto que, ainda que se verifiquem fundamentos aptos a amparar a custódia ante tempus, a fundamentação inidônea constitui, isoladamente, constrangimento ilegal sanável via habeas corpus.
+
+    3.2. No caso específico, a custódia cautelar da paciente foi imposta em primeiro grau de jurisdição nos seguintes termos (eDOC 10):
+
+    “[...] MATHEUS HENRIQUE DE SOUZA e BRUNA CAROLINA SANTOS DA SILVA foi(ram) preso(a)(s) em flagrante pela prática do delito de tráfico de drogas previsto no art. 33 da Lei nº 11.343/06. O auto de prisão em flagrante foi encaminhado a este juízo no prazo de 24 (vinte e quatro) horas, nos termos do art. 306 do Código de Processo Penal. O(a) representante do Ministério Público pleiteou a conversão do flagrante em prisão preventiva e a i. Defesa pleiteou a concessão da liberdade provisória. É o relatório. FUNDAMENTO E DECIDO. O auto de prisão em flagrante encontra-se formalmente em ordem, não sendo caso de relaxamento da prisão em flagrante (art. 310, I, CPP).O caso concreto autoriza a prisão preventiva aliado aos fundamentos já manifestados em decisão oralmente proferida, que se encontra gravada. Ante o exposto, com fundamento no arts. 310, II, 312, 313, I, e 315, todos do Código de Processo Penal, CONVERTO A PRISÃO EM FLAGRANTE de MATHEUS HENRIQUE DE SOUZA e BRUNA CAROLINA SANTOS DA SILVA em PRISÃO PREVENTIVA. Expeça-se mandado de prisão preventiva (art. 406 das NSCGJ). Por sua vez, com relação à autuada Priscila, o caso concreto autoriza a concessão de liberdade provisória aliado aos fundamentos já manifestados em decisão oralmente proferida, que se encontra gravada.
+
+    Instada a se manifestar, a Magistrada de primeiro grau prestou as seguintes informações (eDOC 22):
+
+    “A paciente Bruna Carolina Santos da Silva, bem como o corréu Matheus Henrique de Souza foram autuados em flagrante delito no dia 17 de setembro de 2022, por infração penal ao art. 33, caput, da Lei nº 11.343/2006, e em audiência de custódia realizada aos 17 de setembro de 2022, presentes os requisitos ensejadores da custódia cautelar, foi convertida em prisão preventiva, com fundamento nos arts. 310, inc. II, 312, 313, inc. I, e 315, todos do Código de Processo Penal; mandados de prisão expedidos e cumpridos na mesma oportunidade.
+
+    "Consta dos autos que policiais militares estavam em patrulhamento pelo local dos fatos, quando notaram que vinha um veículo em velocidade normal de trânsito no contra fluxo, o qual, ao se aproximar e ver a viatura, convergiu à esquerda e acelerou muito, ganhando alta velocidade. Informaram que tal fato chamou muito a atenção, razão pela qual passaram a acompanhar o veículo, conseguindo abordá-lo na Rua Joaquim José das Neves, em frente ao numeral 144. Disseram terem constatado tratar-se de um Hyundai/i-30, cor prata, placas EVJ0452, sendo que dentro dele havia um casal. Consignaram que Matheus Henrique de Souza dirigia o veículo e tinha como acompanhante Bruna Carolina Santos da Silva, a qual desceu do carro carregando uma sacola plástica. Esclareceram que pediram a Bruna para que deixasse a sacola dentro do carro. Contaram que, em revista pessoal, nada foi encontrado em poder de Matheus. Consignaram que Bruna não foi submetida à revista, por não haver nenhuma policial feminina para realizar tal procedimento. Prosseguiram dizendo que, indagados a respeito da tentativa de fuga, Matheus informou que dentro da sacola que estava dentro do carro havia droga, mais especificamente maconha e que estava naquele bairro para entregar o entorpecente. Pontuaram que Matheus não informou mais nada sobre a droga, qual seja, origem, destino que seria dado ou a quem entregaria e valor cobrado. Relataram terem verificado a sacola, constatando que dentro dela haviam dois tijolos compactos de maconha. Aduziram que não havia mais nada ilícito no carro. Declararam que tanto Matheus como Bruna portavam um telefone celular cada um, os quais foram apreendidos. Por fim, asseveraram que, diante dos fatos, deram voz de prisão a Matheus e Bruna, sendo ambos apresentados para procedimentos legais. Os entorpecentes, celulares de ambos os conduzidos e o veículo foram devidamente apreendidos em auto próprio. Preliminarmente, as substâncias foram submetidas a exame de constatação, cujo laudo (fls.17/19) revelou resultado positivo para entorpecentes, na natureza e pesagem nele consignadas." Laudo toxicológico definitivo juntado às fls.96/99 - 1.699,55g (um quilo, seiscentos e noventa e nove gramas e cinquenta e cinco centigramas) de Cannabis sativa L, vulgarmente conhecida como maconha.
+
+    Por decisão datada de 20 de setembro de 2022, verificada a legalidade da prisão e assegurados os direitos constitucionais dos pacientes, restou mantida a decisão que converteu o flagrante em preventiva, com fundamento nos arts. 310, inc. II, e ss., todos do Código de Processo Penal.
+
+    A paciente e o corréu foram denunciados aos 14 de outubro de 2022, como incursos no art. 33, caput, da Lei nº 11.343/2006; em 17 de outubro de 2022 determinou a notificação, dos termos da acusação, bem como fora decretado a quebra do sigilo de dados existentes nos aparelhos celulares, descritos e caracterizados no auto de exibição/apreensão de fls.15/16. (mandados de notificação expedidos aos 18 de outubro de 2022).”
+
+    Como se nota, no que tange à fundamentação da prisão preventiva da paciente, a decisão limita-se a descrever as condições em que se operou o flagrante delito, fazendo alusão a fundamentos manifestados em decisão oralmente proferida. Dessa forma, não elucida, à luz dos requisitos previstos no art. 312 do CPP, em que medida a manutenção da prisão cautelar é providência indispensável para o adequado deslinde do feito criminal ou para a garantia da ordem pública.
+
+    Da mesma maneira, as informações prestadas pelo Juízo de origem apenas fazem referência às circunstâncias do flagrante e à quantidade de droga apreendida, afirmando a legalidade da prisão, imposta “com fundamento nos arts. 310, inc. II, e ss., todos do Código de Processo Penal”. Portanto, no que tange à fundamentação da prisão preventiva, o decisum apontado como ilegal centra-se em considerações genéricas do julgador acerca do crime, in casu, praticado.
+
+    Com efeito, a avaliação empreendida pelo Juízo singular, por sua generalidade e abstração, não satisfaz a necessidade de motivação das decisões judiciais, nem demonstra a presença dos requisitos mencionados no art. 312 do CPP. Tal entendimento não destoa da consolidada jurisprudência da Corte:
+
+    “Agravo regimental em habeas corpus. Penal e Processo Penal. Tráfico de drogas. Preventiva. Fundamentação genérica. Concessão da ordem de ofício. Agravo regimental não provido. 1. É insubsistente a fundamentação de decreto de prisão preventiva que se lastreie meramente na gravidade abstrata do delito, sem indicar dado concreto que evidencie risco à ordem pública ou de reiteração delitiva, referindo-se unicamente ao suposto fato delitivo e ao dispositivo aplicável na espécie. 2. Segundo a jurisprudência do Supremo Tribunal Federal, “a prisão cautelar exige a demonstração, empiricamente motivada, dos requisitos previstos no art. 312 do Código de Processo Penal”. Precedentes. (HC 176.305-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 18/6/20). 3. Agravo regimental não provido.” (HC 205.138 AgR, Relator(a): DIAS TOFFOLI, Primeira Turma, DJe 15.03.2022, grifei)
+
+    “Penal e processual penal. Prisão preventiva sem fundamentação concreta. Inadmissibilidade de motivação pautada pela gravidade abstrata do crime e por argumentos genéricos, aplicáveis a qualquer caso. Inadmissibilidade de prisão cautelar automática. Excepcionalidade segregação provisória. Primazia da presunção de inocência. Ordem concedida.” (HC 187.672 AgR, Relator(a): NUNES MARQUES, Relator(a) p/ Acórdão: GILMAR MENDES, Segunda Turma, DJe 21.10.2021, grifei)
+
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. “OPERAÇÃO OURO DE OFIR”. CRIMES CONTRA O SISTEMA FINANCEIRO. FRÁGEIS INDÍCIOS DE MATERIALIDADE E AUTORIA. PRISÃO PREVENTIVA. SUSPENSÃO. DECRETO GENÉRICO. GRAVIDADE ABSTRATA DO DELITO E AUSÊNCIA DE INDIVIDUALIZAÇÃO DA CONDUTA DO PACIENTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. [...] IV – Os requisitos da prisão preventiva não foram preenchidos porque o decreto utilizou-se de argumentação genérica e apoiou-se na gravidade abstrata do crime, sem individualização da conduta do paciente, o que é rechaçado pela jurisprudência pacífica desta Suprema Corte. V - Agravo regimental a que se nega provimento.” (HC 162.994 AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, DJe 29.10.2020, grifei)
+
+    “HABEAS CORPUS. PROCESSUAL PENAL. SÚMULA 691/STF. AFASTAMENTO. ROUBO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO INIDÔNEA. MOTIVAÇÃO GENÉRICA E ABSTRATA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. CONCESSÃO DA ORDEM. EXTENSÃO DO BENEFÍCIO AO CORRÉU. 1. [...] 2. O decreto de prisão cautelar há de se apoiar nas circunstâncias fáticas do caso concreto, evidenciando que a soltura ou a manutenção em liberdade do agente implicará risco à ordem pública, à ordem econômica, à instrução criminal ou à aplicação da lei penal (CPP, art. 312). 3. A motivação genérica e abstrata, sem elementos concretos ou base empírica idônea a amparar o decreto prisional, esbarra na jurisprudência consolidada deste Supremo Tribunal Federal, que não lhe reconhece validade. Precedentes. 4. Substituição da prisão preventiva por medidas cautelares previstas no art. 319 do Código de Processo Penal, a serem fixadas pelo juízo de primeiro grau. 5. Identidade de situações entre o paciente e o corréu enseja, na hipótese, a aplicação do art. 580 do Código de Processo Penal - “No concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará outros”. 6. Ordem de habeas corpus concedida para revogar a prisão preventiva do paciente, sem prejuízo da imposição, pelo magistrado de primeiro grau, se assim o entender, das medidas cautelares ao feitio legal, estendendo os efeitos desta decisão ao corréu.” (HC 136.296, Relator(a): ROSA WEBER, Primeira Turma, DJe 24.10.2016)
+
+    “HABEAS CORPUS – JULGAMENTO POR TRIBUNAL SUPERIOR – IMPUGNAÇÃO. A teor do disposto no artigo 102, inciso II, alínea “a”, da Constituição Federal, contra decisão, proferida em processo revelador de habeas corpus, a implicar a não concessão da ordem, cabível é o recurso ordinário. Evolução quanto à admissibilidade do substitutivo do habeas corpus. HABEAS CORPUS – SUBSTITUTIVO DO RECURSO ORDINÁRIO CONSTITUCIONAL – LIBERDADE DE LOCOMOÇÃO ATINGIDA NA VIA DIRETA – ADEQUAÇÃO. Sendo objeto do habeas corpus a preservação da liberdade de ir e vir atingida diretamente, porquanto expedido mandado de prisão ou porque, com maior razão, esta já ocorreu, mostra-se adequada a impetração, dando-se alcance maior à garantia versada no artigo 5º, inciso LXVIII, da Carta de 1988. Evolução em óptica linear assentada anteriormente. PRISÃO PREVENTIVA – POPULAÇÃO – INSEGURANÇA. A insegurança da população, presente a criminalidade, não respalda a prisão preventiva. PRISÃO PREVENTIVA – PERICULOSIDADE – INDIVIDUALIZAÇÃO. Indispensável é que a periculosidade, visando respaldar a prisão preventiva, seja assentada com base em dados individuais, não cabendo, presentes vários acusados, a articulação genérica. PRISÃO PREVENTIVA – DISTRITO DA CULPA – ABANDONO. O fato de o acusado haver abandonado o distrito da culpa não leva à prisão preventiva, presente a interpretação sistemática do Código de Processo Penal – artigos 312 e 366. PRISÃO PREVENTIVA – CAMPO PROPÍCIO À APLICAÇÃO DA LEI. Encerra prisão automática, incompatível com o arcabouço normativo, aludir-se à necessidade de preparar campo à aplicação da lei penal, com isso menosprezando o princípio da não culpabilidade.” (HC 110.959, Relator(a): MARCO AURÉLIO, Primeira Turma, DJe 03.02.2014).
+
+    Ressalto, ainda, que a mera menção à quantidade de drogas apreendidas não conduz à automática conclusão acerca da gravidade em concreto do delito.
+
+    Cumpre consignar que, nos termos da jurisprudência da Segunda Turma deste STF, a quantidade de drogas apreendida, isoladamente considerada, não inviabiliza a concessão da minorante prevista no art. 33, § 4° da Lei 11.343/2006 (HC 152.001 AgR, Relator Ricardo Lewandowski, Redator p/ acórdão Min. Gilmar Mendes, Segunda Turma, DJe 28.11.2019). Com muito mais razão, portanto, não pode essa mesma circunstância alicerçar, de per si, a manutenção da custódia cautelar, em uma fase processual ainda mais embrionária, em que prevalece, em toda a sua plenitude, o princípio da presunção de inocência.
+
+    Efetivamente, mesmo que presentes indícios de traficância, tais circunstâncias não bastam para a imposição da prisão preventiva, entendida como ultima ratio.
+
+    A prevalecer tal compreensão, todos os acusados flagrados praticando tráfico de drogas deveriam responder presos à correlata ação penal, entendimento que foi enfaticamente repelido por essa Suprema Corte, no julgamento do HC 104.339 (relatoria do Ministro Gilmar Mendes, Pleno, DJe 6.12.2012), no qual se declarou, incidentalmente, a inconstitucionalidade da expressão liberdade provisória contida no art. 44 da Lei 11.343/2006, e se asseverou a necessidade de fundamentação individualizada para decretação de custódia preventiva, mesmo em se tratando do crime de tráfico de drogas.
+
+    Na oportunidade, consolidou-se o entendimento de que a prisão cautelar deve ser embasada nos requisitos do art. 312 do Código de Processo Penal e em elementos concretos do caso. A título elucidativo, transcrevo trecho do voto do relator:
+
+    “Tenho para mim que essa vedação apriorística de concessão de liberdade provisória (Lei n. 11.343/2006, art. 44) é incompatível com o princípio constitucional da presunção de inocência, do devido processo legal, entre outros. É que a Lei de Drogas, ao afastar a concessão da liberdade provisória de forma apriorística e genérica, retira do juiz competente a oportunidade de, no caso concreto, analisar os pressupostos da necessidade do cárcere cautelar, em inequívoca antecipação de pena, indo de encontro a diversos dispositivos constitucionais.
+
+    A previsão constitucional de que o crime de tráfico de entorpecentes é inafiançável (art. 5º, XLIII) não traduz dizer que seja insuscetível de liberdade provisória, pois conflitaria com o inciso LXVI do mesmo dispositivo, que estabelece que ninguém será levado à prisão ou nela mantido quando a lei admitir a liberdade provisória, com ou sem fiança.”
+
+    Nessa linha, merece reprodução o emblemático precedente em que se assentou que “a melhor prova da ausência de motivação válida de uma decisão judicial - que deve ser a demonstração da adequação do dispositivo a um caso concreto e singular - é que ela sirva a qualquer julgado, o que vale por dizer que não serve a nenhum.” (HC 78.013, Relator(a): Min. SEPÚLVEDA PERTENCE, Primeira Turma, julgado em 24.11.1998).
+
+    Assim, no contexto dos autos, verifico que não restou demonstrado por que a imposição de medida cautelar diversa da prisão seria insuficiente.
+
+    Ante o exposto, torna-se impositiva a restituição do estado de liberdade da paciente, com a imposição de medidas cautelares substitutivas, se for o caso.
+
+    4. Dessarte, com base no art. 192 do RISTF, não conheço da impetração, mas concedo a ordem, de ofício, para o fim de determinar a imediata soltura da paciente Bruna Carolina Santos da Silva, salvo se presa por outro motivo, sem prejuízo da imposição, pela Magistrada de primeiro grau, se assim entender pertinente, das medidas cautelares previstas no art. 319 do Código de Processo Penal.
+
+    Comunique-se, com urgência, ao Juízo da causa, a quem incumbirá o implemento desta decisão.
+
+    Oficie-se ao TJSP e ao STJ, dando-lhes ciência desta decisão.
+
+    Publique-se. Intime-se.
+
+    Brasília, 8 de novembro de 2022.
+
+Ministro EDSON FACHIN
+
+Relator
+
+Documento assinado digitalmente
