@@ -1,0 +1,21 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento contra decisão que, em execução fiscal, rejeitou a exceção de pré-executividade oposta.No Tribunal a quo, negou-se provimento ao agravo.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. GRUPO ECONÔMICO. INCIDENTEDE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DESNECESSIDADE.
+1. Para o STJ, a responsabilidade solidária do art. 124 do CTN não decorre exclusivamente da comprovação da existência de grupo econômico, mas da demonstração de práticas comuns, quando empresas praticarem o fato gerador em conjunto ou, ainda, quando houver confusão patrimonial.
+2. Nesse contexto, não há que se falarem desconsideração da personalidade jurídica, mas em imputação de responsabilidade tributária pessoal e direta decorrente da prática ilícita.
+3. Agravo de instrumento desprovido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Não obstante o Novo Código de Processo Civil tenha proposto em seus artigos 133 a 137 instauração de procedimento necessário à desconsideração da personalidade jurídica a fim de possibilitar o contraditório, o incidente não é cabível nos casos em que a responsabilidade patrimonial dos sócios ou de outras pessoas não depende de decisão judicial que a determine, mas advém diretamente da lei.
+Esta é a situação dos casos de redirecionamento da execução fiscal da dívida tributária, nos quais a responsabilidade encontra-se prevista, na maior parte dos casos, em decorrência de responsabilidade solidária (art. 134 do CTN), de responsabilidade pessoal e direta por ato ilícito (art. 135 do CTN), interesse comum na situação que constitua o fato gerador da obrigação principal (art.124, I CTN), fusão, transformação ou incorporação (art. 132 do CTN) e sucessão (art. 133 do CTN), conforme entendimento do Tribunal Regional Federal da 4ª Região: (..)
+ ..
+Nesta perspectiva, não se reconhece, em juízo de cognição sumária como ora se procede, a plausibilidade do direito a ensejar a suspensão da decisão agravada.
+Não há, portanto, violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Ademais, verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
