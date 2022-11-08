@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TITANLOG SERVIÇOS AUXILIARES DE TRANSPORTE AÉREO LTDA (TITANLOG) contra decisão que inadmitiu seu apelo nobre manejado, por sua vez, contra acórdão doTribunal de Justiça do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. TRANSPORTE AÉREO INTERNACIONAL DE CARGA. EXTRAVIO TEMPORÁRIO. Preliminar de nulidade rejeitada. Cerceamento de defesa inocorrente. Depoimento pessoal da própria requerente destituído de amparo legal ou utilidade, consideradas as teses deduzidas nos autos por seu patrono. Ausência de responsabilidade da depositária pela não localização da carga no aeroporto durante cinco meses. Tarifa de armazenamento devida. Sistema interno de controle que adotou o número identificador da carga consultado no sistema Mantra, ao tempo do traslado para o depósito. Subsequente correção daquele número, não informada à depositária. Pretensão restituitória da tarifa de armazenamento acolhida unicamente em face de quem apontou o número equivocado no sistema Mantra e não comunicou a retificação à depositária. Inexigibilidade de que esta aguardasse por qualquer período após o pouso da aeronave, antes de realizar o traslado, ou apurasse eventual divergência entre o número constante de etiquetas físicas na carga e o originalmente apontado no sistema Mantra. RECURSOS DESPROVIDOS (e-STJ, fl. 784).
+Inconformada, TITANLOG interpôs recurso especial com base no art. 105, III, alínea a e c, da CF, apontando a violação dos arts. 4º e 8º da instrução normativa 102/1994 da Receita Federal do Brasil - RFB. Suscitou dissídio jurisprudencial. O recurso não foi admitido pelo Tribunal de Justiça do Rio de Janeiro pelos seguintes fundamentos (i) incidência da Súmula nº 284, do STF; e (ii) divergência não comprovada (e-STJ, fls. 867/871).
+Seguiu-se o agravo em recurso especial interposto por TITANLOG que, em decisão monocrática da relatoria do Ministro Presidente do STJ, não foi conhecido, com amparo no art. 21-E, V, c/c 253, parágrafo único, I, do RISTJ, porque não teria sido atacado especificamente o fundamentos da decisão agravada (e-STJ, fls. 948/950).
+Nas razões doagravo interno, TITANLOG afirmou que todos os fundamentos da decisão de inadmissibilidade foram devidamente impugnados (e-STJ, fls. 891/903).
+O agravo interno foi provido, conhecendo do agravo em recurso especial para não conhecer do recurso especial, por decisão monocrática de minha relatoria assim ementada:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. TRANSPORTE AÉREO INTERNACIONAL DE CARGA. EXTRAVIO TEMPORÁRIO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO POR AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO DE ADMISSIBILIDADE. RECONSIDERAÇÃO. RECURSO ESPECIAL. ALEGAÇÃO DE VIOLAÇÃO DE INSTRUÇÃO NORMATIVA DA RFB. IMPOSSIBILIDADE. NORMA QUE NÃO SE ENQUADRA NA DEFINIÇÃO DE "LEI FEDERAL". AGRAVO INTERNO PROVIDO PARA RECONSIDERAR A DECISÃO AGRAVADA E, EM NOVA ANÁLISE, CONHECER DO AGRAVO EM RECURSO ESPECIAL PARA NÃO CONHECER DO RECURSO ESPECIAL(e-STJ, fl. 990).
+Nas razões dos presentes embargos de declaração, TITANLOGafirmaque houve ofensa ao art. 1.022 do NCPC, havendo omissão na decisão monocrática, que deixou de analisar o recurso com base na alínea c do permissivoconstitucional, ressaltando que osimples fato da retirada da carga pela CONCESSIONÁRIA,que se deu à revelia da transportadora, não é suficiente a determinar o fim do contrato de transporte aéreo, quese estende até a localização da carga e lançamento de forma correta junto ao sistema MANTRA(e-STJ, fls. 995/1002).
+Foi apresentada impugnação(e-STJ, fls.1006/1008).
+É o relatório.
+DECIDO.
+A irresignação não merece prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou a obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório,TITANLOG afirma que houve ofensa ao art. 1.022 do NCPC, havendo omissão na decisão monocrática, que deixou de analisar o recurso com base na alínea c do permissivo constitucional, ressaltando que o simples fato da retirada da carga pela CONCESSIONÁRIA, que se deu à revelia da transportadora, não é suficiente a determinar o fim do contrato de transporte aéreo, que se estende até a localização da carga e lançamento de forma correta junto ao sistema mantra.
+Contudo, sem razão.
+Constou expressamente na decisão embargada que:
+Inconformada, TITANLOG interpôs recurso especial com base no art. 105, III, alínea a e c, da CF, apontando a violação dos arts. 4º e 8º da instrução normativa 102/1994 da Receita Federal do Brasil - RFB.
+ ..
+Todavia, o recurso especial não constitui via adequada para análise de eventual violação a enunciado sumular, resoluções, portarias, circulares, instruções normativas ou de qualquer outro ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, a, da Constituição Federal.(e-STJ, fls. 991/992).
+Note-se que o referido fundamento é cabível para o recurso com base em ambas as alíneas do permissivo constitucional, pois, fundamentado na alínea c, a TITANLOG visou também analisarinstrução normativa.
+Observa-se, dessa forma, que não foi demonstrado nenhum vício na decisão embargada a ensejar a integração do julgado, porquanto a fundamentação adotada na decisão é clara e suficiente para respaldar a conclusão alcançada.
+Sobre acontradição, anote-seo posicionamento desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. EX-EMPREGADOS APOSENTADOS. PERMANÊNCIA NO PLANO DE SAÚDE COLETIVO. ART. 31 DA LEI N. 9.656/1988. CONDIÇÕES ASSISTENCIAIS E DE CUSTEIO. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. INEXISTÊNCIA.
+1. Os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+2. No caso concreto, não se constatam os vícios alegados pela parte embargante, que busca o simples rejulgamento da causa.
+3. Embargos de declaração rejeitados.
+(EDcl no REsp 1.818.487/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 14/4/2021, DJe 20/4/2021)
+Nesse sentido, é forçoso reconhecer que a parte pretende, na verdade, o rejulgamento da causa.
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Nessas condições, REJEITO os embargos de declaração.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC.TRANSPORTE AÉREO INTERNACIONAL DE CARGA. EXTRAVIO TEMPORÁRIO.ERRO MATERIAL, OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
