@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por Carlos Eduardo de Sousacontra a decisão do Tribunal de Justiça de São Paulo, que, em juízo de admissibilidade, inadmitiu o recurso especial por ele interposto contra o acórdão proferido na Apelação Criminal n. 0098191-42.2014.8.26.0050, assim ementado (fl. 368):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS E USO DE DOCUMENTO FALSO - MATERIALIDADE E AUTORIA COMPROVADAS NO CURSO DA INSTRUÇÃO CRIMINAL - A JURISPRUDÊNCIA PÁTRIA RECONHECE A VALIDADE DAS PALAVRAS PRESTADAS POR AGENTES DA LEI - PROVAS ROBUSTAS QUE DELINEIAM A PRÁTICA DO TRÁFICO DE ENTORPECENTES - IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO PARA 0 CRIME DO ART. 28 DA LEI DE DROGAS -CONDENAÇÃO MANTIDA - CRIME DE USO DE DOCUMENTO FALSO - A ENTREGA VOLUNTÁRIA DE DOCUMENTO FALSO EM MEIO A ABORDAGEM POLICIAL CARACTERIZA OCRIME DO ART. 304 DO CÓDIGO PENAL -IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO PARA O CRIME DE FALSA IDENTIDADE - SUBSIDIARIEDADE EXPRESSA NO PRECEITO SECUNDÁRIO DOART. 307 DO CÓDIGO PENAL - CONDENAÇÃO MANTIDA - DOSIMETRIA PENAL INALTERADA - RECURSOS DESPROVIDOS.
+No recurso especial, a defesa apontou violação dos arts. 33, § 4º, e 44 da Lei n. 11.343/2006, bem como dos arts. 33, § 3º, e 59 do Código Penal.
+Ao final da peça recursal, pugnou pelo provimento da insurgência para reduzir a pena, mitigar o regime inicial e substituir a pena privativa de liberdade por restritivas de direitos.
+Apresentadas contrarrazões (fls. 466/473), o Tribunal de origem não admitiu o recurso com suporte nas Súmulas 283/STF e 7/STJ(fls. 492/493).
+Contra essa decisão a defesa interpõe o presente agravo (fls. 508/515).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo(fl. 603):
+RECURSO ESPECIAL TRÁFICO DE DROGAS. PLEITO DE RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. IMPOSSIBILIDADE. RÉU PRIMÁRIO. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PROVIMENTO PARCIAL DO RECURSO ESPECIAL A ORDEM PARA ESTABELECER O REGIME SEMIABERTO. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. INCIDÊNCIA DO ENUNCIADO Nº 182/STJ.
+1. No caso, as instâncias ordinárias concluíram dedicar-se o recorrente a atividades criminosas, não fazendo jus, por conseguinte, à redução de pena, em razão da quantidade de entorpecente apreendido (513,8 gramas de maconha).
+2. Rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via deste recurso.
+3. No tocante ao pleito de abrandamento de regime, observa-se que, trata-se de réu primário, com as circunstâncias judiciais do art. 59 do Código Penal favoravelmente valoradas, assim o regime semiaberto se mostra o mais adequado e suficiente para o resgate da reprimenda, a teor do disposto nos art. 33-§ 2º-b do Código Penal.
+4. O agravante, no agravo em recurso especial, não logrou fundamentar seu recurso, debatendo os motivos pelos quais não incidiria os enunciados nº 7 da Súmula do STJ. Logo, está correta a aplicação da incidência da Súmula n. 182 do STJ, ante a falta de impugnação específica de todos os fundamentos utilizados na decisão agravada.
+- Parecer pelo provimento parcial do recurso especial interposto por Emerson Júnior para estabelecer o regime semiaberto para o cumprimento da pena e pelo não conhecimento do agravo em recurso especial ajuizado por Carlos Eduardo.
+É o relatório.
+O agravo não comporta conhecimento, poisé intempestivo.
+A decisão de admissibilidade foi disponibilizada no Diário da Justiça Eletrônico em 17/8/2020, e consideradapublicadaem 18/8/2020 (fl. 495). Por sua vez, o agravo em recurso especial foi protocolizado em 22/2/2021(fl. 508).
+Iniciado o prazo de 15 dias contínuospara interposição do agravo em recurso especial em 19/8/2020, primeiro dia útil seguinte à publicação da decisão recorrida, tem-se que o agravo é intempestivo, pois findado em 2/9/2020.
+Ressalte-se que, nos termos do art. 798,capute § 3º, do Código de Processo Penal, os prazos em processo penal são contínuos e peremptórios, não se interrompendo em razão de férias ou feriado.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ. NÃO CONHECIMENTO DO AGRAVO EM RAZÃO DE SUA INTEMPESTIVIDADE. COMPROVAÇÃO DE FERIADO LOCAL. ATO DE INTERPOSIÇÃO DO RECURSO. NECESSIDADE. ENTENDIMENTO PACÍFICO DO STJ. MODULAÇÃO DOS EFEITOS PARA A SEGUNDA-FEIRA DE CARNAVAL. AGRAVO INTERNO DESPROVIDO.
+1. É intempestivo o agravo em recurso especial interposto após o prazo de 15 dias úteis previsto nos arts. 219 e 1.003, § 5º, do CPC.
+2. A Corte Especial, no julgamento do REsp n. 1.813.684/SP, reafirmou o entendimento de que, nos recursos interpostos sob a vigência do CPC de 2015, a comprovação de feriado local deve ser feita no ato da interposição. Contudo mitigou esse entendimento quanto à comprovação da segunda ferira de carnaval, modulando os efeitos do julgado para aplicação tão somente a recursos interpostos após a publicação do acórdão, ocorrida em 18/11/2019.
+3. Posteriormente, em questão de ordem no referido julgamento, esclareceu que a modulação dos efeitos ali designada restringe-se ao feriado de segunda-feira de carnaval, de modo que, para os demais casos de feriado local, a comprovação deve ser feita no ato de interposição do recurso.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.498.932/MS,Ministro João Otávio de Noronha, Quarta Turma,DJe 26/10/2022 - grifo nosso).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DO PRAZO RECURSAL. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO.
+1.É intempestivo o agravo em recurso especial interposto fora do prazo de 15 dias corridos, nos termos do 994, VIII, c/c os arts.1.003, § 5º, e 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal ("Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado.").
+2. Constitui ônus do recorrente, no ato da interposição do recurso, comprovar sua tempestividade, conforme o art. 1.003, § 6º, do CPC, inclusive, a ocorrência de feriados locais e a suspensão do expediente forense, sendo incabível a comprovação posterior.
+3. A Corte Especial do Superior Tribunal de Justiça, ao apreciar o REsp 1.813.684/SP, reafirmou o entendimento de que é necessário comprovar o feriado local, por documento idôneo, no ato da interposição do recurso. "Ao julgar a Questão de Ordem, modulou os efeitos dessa decisão, para permitir a comprovação posterior tão somente da segunda-feira de carnaval e, ainda, com relação aos recursos interpostos até sua publicação, no dia 18/11/2019, excepcionalidade que não se amolda ao presente caso" (EDcl no AgRg no AREsp n. 1.428.293/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 4/4/2022).
+4. Agravo regimental improvido.
+(AgRg no AREsp n. 2.015.933/MG,Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma,DJe 1º/7/2022 - grifo nosso.)
+Finalmente, observo quecompete à parte recorrente, no ato da interposição dorecurso, comprovar suatempestividade, conforme o art. 1.003, § 6º, do Código de Processo Civil de 2015, inclusive aocorrência de feriados locais e a suspensão do expediente forense, o que não ocorreu no caso.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ,não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. INSURGÊNCIA INTERPOSTA APÓS O PRAZO DE 15 DIAS CONTÍNUOS.ART. 798,CAPUTE § 3º, DO CPP.
+Agravo em recurso especial não conhecido.
