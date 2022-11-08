@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por JOSE RAIMUNDO JARDIM BRAUNcontra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a ec, da Constituição Federal.
+Na origem, a parte autora, em 14/3/2016, ajuizou ação ordinária com valor da causa atribuído em R$ 53.228,90 (cinquenta e três mil, duzentos e vinte e oito reais e noventa centavos), objetivando o recálculo de seus vencimentos com sua conversão para a URV, nos meses de março a junho de 1994, nos termos do art. 22 da Lei nº 8.880/94.
+Após sentença que julgou improcedente o pedido, o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SULnegou provimento à apelação da parte autora, ficando consignado que a perícia contábil conclui que o valor pago pelo Município, a contar do mês de abril/94, não trouxe quaisquer perdas remuneratórias ao servidor, sendo superior, inclusive, no número de URVs ao montante da média, também em URVs, calculada no quadrimestre novembro/93 a fevereiro/94, o que se mostra consentâneo à legalidade, ao princípio constitucional da irredutibilidade remuneratória (art. 37, XV, da CF) e não é capaz de gerar quaisquer diferenças indenizáveis.
+O referido acórdão foi assim ementado, in verbis:
+APELAÇÃO CÍVEL. SERVIDOR PÚBLICO MUNICIPAL. MUNICÍPIO DE PORTO ALEGRE. CONVERSÃO DOS VENCIMENTOS PARA URV. EXAME DA PERÍCIA CONTÁBIL. PERDAS REMUNERATÓRIAS NÃO EVIDENCIADAS, IMPROCEDÊNCIA DA AÇÃO. AJG.
+1. Não há falar em julgamento contrário à prova dos autos, quando oportunizada manifestação das partes a respeito da perícia contábil e o magistrado proferiu julgamento nos limites das conclusões do laudo pericial, afastando o argumento defendido pela parte apelante, que ensejaria a sobreposição de lei que realizaram o reajuste dos vencimentos dos servidores.
+2. Afastadas as preliminares de falta de fundamentação e sentença extra petita, uma vez que analisado o caso nos limites do pedido e da causa de pedir, embora sucintamente, mas que não provoca a nulidade da decisão.
+3. Preliminar de contrarrazões: há preclusão consumativa em relação ao pleito de revogação do benefício da AJG.
+4. A conversão dos vencimentos/proventos em outro mês que não o de março, determinada pela Lei Municipal nº 7.428/94, por si só, não gera perdas remuneratórias com reflexos permanentes, desde que quando da conversão tardia tenha sido observado, no mínimo, o valor da média em URVs referente ao quadrimestre anterior a março de 1994.
+5. No caso concreto, a perícia contábil conclui que o valor pago pelo Município, a contar do mês de abril/94, não trouxe quaisquer perdas remuneratórias ao servidor, sendo superior, inclusive, no número de URVs ao montante da média, também em URVs, calculada no quadrimestre novembro/93 a fevereiro/94, o que se mostra consentâneo à legalidade, ao princípio constitucional da irredutibilidade remuneratória (art. 37, XV, da CF) e não é capaz de gerar quaisquer diferenças indenizáveis.
+6. Ação julgada improcedente na origem.
+APELO DESPROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+Foi interposto recurso especial, o qual teve seu seguimento negado, ante a conformação do acórdão com o entendimento fixado no Tema n. 15 /STJ (Recursos Repetitivos), pela Vice-Presidência do TJRS.
+Interposto agravo interno, este foi desprovido com aplicação de multa, ficando consignado quem, ante a manifesta improcedência do recurso, e havendo unanimidade no julgamento, é de se aplicar a multa prevista no artigo 1.021, § 4º, do Código de Processo Civil.
+O referido acórdão foi assim ementado,in verbis:
+AGRAVO INTERNO. JUÍZO DE ADMISSIBILIDADE. RECURSO ESPECIAL. URV. CONVERSÃO. NEGATIVA DE SEGUIMENTO. TEMA 15 DO STJ. RECURSO DESPROVIDO COM APLICAÇÃO DE MULTA.
+Os embargos de declaração opostos foram rejeitados.
+José Raimundo Jardim Braun interpôs recurso especial,apontando violação dos arts. 1.021, § 4º, do CPC/15.
+Apresentadas contrarrazões.
+O recurso especial foi inadmitido pelo TJRS ao fundamento de quenão há previsão legal de recurso especial contra acórdão da Câmara da Função Delegada que nega provimento a agravo interno interposto de decisão que negou seguimento a recursos especial e extraordinário.
+Foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+O presente recurso atrai a incidência do Enunciado Administrativo n.3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Não merece reparos a decisão agravada.
+Isso porque a jurisprudência desta Corte Superior se firmou no sentido de não ser cabível recurso especial contra acórdão de agravo interno interposto em face de decisão que nega seguimento a recurso especial interposto contra acórdão julgado em conformidade com entendimento firmado em julgamento processado pelo regime de recursos repetitivos.
+Confira-se:
+AGRAVO INTERNO NA PETIÇÃO. RECURSO ESPECIAL. DENEGADO NA ORIGEM COM FUNDAMENTO NO REGIME DOS RECURSOS REPETITIVOS (CPC/2015, ART. 1.030, I, "b"). COMPETENTE AGRAVO INTERNO INTERPOSTO NA ORIGEM (CPC/2015, ART. 1.030, § 2º). DENEGAÇÃO. AUSÊNCIA DE PREVISÃO DE RECURSO DESSA DECISÃO. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a nova ordem processual civil, contra a decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, I, do CPC/1973 (art. 1.040, I, do CPC/2015), não cabe agravo ou qualquer outro recurso para o eg. STJ. Tal entendimento, todavia, não significa concluir pela irrecorribilidade de tal decisão, pois, da decisão que nega seguimento a recurso especial interposto contra acórdão julgado em conformidade com entendimento firmado em julgamento processado pelo regime de recursos repetitivos, o recurso cabível é o agravo interno, para o próprio Tribunal, na forma do art. 1.030, § 2º, do CPC/2015. Entretanto, contra essa segunda decisão, proferida pelo Tribunal de origem em agravo interno, não há mais recurso.
+2. É inviável o agravo interno que deixa de infirmar especificamente todos os fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, do CPC/2015.
+3. Agravo interno desprovido.
+(AgInt na Pet n. 11.755/PE, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 27/2/2018, DJe de 2/3/2018.)
+AGRAVO INTERNO NA PETIÇÃO. RECURSO ESPECIAL DENEGADO NA ORIGEM COM FUNDAMENTO NO REGIME DOS RECURSOS REPETITIVOS (CPC/2015, ART. 1.030, I, b). COMPETENTE AGRAVO INTERNO INTERPOSTO NA ORIGEM (CPC/2015, ART. 1.030, § 2º). DENEGAÇÃO. AUSÊNCIA DE PREVISÃO DE RECURSO DESSA DECISÃO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a nova ordem processual civil, contra a decisão que nega seguimento a recurso especial com base no art. 543-C, § 7º, I, do CPC/1973 (art. 1.040, I, do CPC/2015), não cabe agravo ou qualquer outro recurso para o Superior Tribunal de Justiça. Tal entendimento, todavia, não significa concluir pela irrecorribilidade de tal decisão, pois, da decisão que nega seguimento a recurso especial interposto contra acórdão julgado em conformidade com entendimento firmado em julgamento processado pelo regime de recursos repetitivos, o recurso cabível é o agravo interno, para o próprio Tribunal, na forma do art. 1.030, § 2º, do CPC/2015.Entretanto, contra essa segunda decisão, proferida pelo Tribunal de origem em agravo interno, não há mais recurso.
+2. É inviável o agravo interno que deixa de atacar especificamente todos os fundamentos suficientes para manutenção da decisão agravada, nos termos do art. 1.021, § 1º, do CPC de 2015 e da Súmula 182 do Superior Tribunal de Justiça.
+3. Agravo interno desprovido.
+(AgInt na Pet n. 11.856/PE, relator Ministro Raul Araújo, Quarta Turma, julgado em 18/5/2017, DJe de 1/6/2017.)
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 568/STJ: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
