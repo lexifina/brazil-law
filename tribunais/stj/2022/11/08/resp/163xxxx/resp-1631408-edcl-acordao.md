@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Turma, por unanimidade, acolher os embargos de declaração, sem efeitos infringentes, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva (Presidente) e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+RELATÓRIO
+OTÁVIO BATISTA ARANTES DE MELLO (OTÁVIO) opôs embargos de declaração contra decisão colegiada da Terceira Turma que, na assentada do dia 17/5/2022, acolheu com efeitos infringentes os embargos de declaração anteriormente opostos por ele próprio para incluir seurecurso especial em pauta de julgamento, independentemente da publicação de acórdão (e-STJ, fls. 953 e 955).
+Alegou não ter ficado esclarecido o conteúdo da mencionadadecisão colegiada e, em especial, se ela teria ou não tornado sem efeitoasdecisõesanteriormente prolatadas nesta instância especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DECISÃO DA TURMA QUE, SEM PUBLICAÇÃO DE ACÓRDÃO, DETERMINA A INCLUSÃO DO RECURSO EM PAUTA PARA MELHOR EXAME. CANCELAMENTO AUTOMÁTICO DAS DECISÕES ANTERIORES. EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM EFEITOS MODIFICATIVOS.
+1.As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. O órgão colegiado, no julgamento de embargos declaratórios ou de agravo interno, pode proceder à reautuação do feito para novo julgamento da causa ou então a inclusão do próprio recurso especial em pauta de julgamento, independentemente da publicação de acórdão.
+3.A Terceira Turma, ao determinar, no julgamento doEDcl no AgInt nos EDcl no REspque fosse pautado o próprio recurso especial permitiu que o julgamento do apelo nobrefosse reiniciado do zero.
+4. Dessa forma, ficaram automaticamente sem efeito as decisões anteriormente proferidas nos autos.
+5. Embargos de declaração acolhidos sem efeitos infringentes, apenas para prestar esclarecimentos.
+VOTO
+Trata-se, na origem, de uma ação indenizatória promovida porTÂNIA CAIADO VIANA (TÂNIA) contra OTÁVIO BATISTA ARANTES MELLO (OTÁVIO), em razão da má prestação de serviços advocatícios (e-STJ, fls. 2/16).
+A sentença julgou procedentes os pedidos, condenando OTÁVIO ao pagamento de R$ 81.536,94 (oitenta e um mil, quinhentos e trinta e seis reais e noventa e quatro centavos), referentes aos danos materiais, mais R$ 10.000,00 (dez mil reais), a título de danos morais.
+O Tribunal de Justiçado Distrito Federal e dos Territórios, em grau deapelação, entendeu que não seriam devidos danos morais, mas manteve a indenização relativa aos danos materiais.
+Irresignado, OTÁVIO interpôs recurso especial (e-STJ, fls.448/478) que não foi admitido na origem.
+O agravo que se seguiu foi convertidoem recurso especial para melhor exame da controvérsia (e-STJ, fls. 671/673).
+Em seguida, sobreveio decisão monocrática de minha lavra que julgou prejudicado o recurso especial (e-STJ, fls. 809/814).
+Os embargos de declaração opostos por OTÁVIO contra essa decisão foram rejeitados (e-STJ, fls. 832/839) e o agravo interno apresentado em seguida, desprovido por acórdão da 3ª Turma assim ementado:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. IRRESIGNAÇÃO SUBMETIDA AO NCPC. RESPONSABILIDADE CIVIL DE ADVOGADO. EXECUÇÃO EXTINTA SEM JULGAMENTO DE MÉRITO POR DESÍDIA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. DANOS MATERIAIS CORRESPONDENTES AO VALOR DO TÍTULO EXECUTIVO. RECONHECIMENTO PELAS INSTÂNCIAS DE ORIGEM. CELEBRAÇÃO DE ACORDO PARA PAGAMENTO (PARCIAL DA DÍVIDA PRESCRITA). RECORRENTE QUE CONCLUI, COM BASE NISSO, PELA PREJUDICIALIDADE DO RECURSO POR ELE INTERPOSTO. EXTINÇÃO DO RECURSO QUE SE IMPÕE. CONTEÚDO E EFEITO LIBERATÓRIO DO ACORDO CELEBRADO QUE DEVE SER DISCUTIDO EM VIAS PRÓPRIAS E NÃO DE FORMA INAUGURAL NO STJ, SOB PENA DE SUPRESSÃO DE INSTÂNCIA. RECURSO ESPECIAL NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A parte demandada ao pagamento de dívida que peticiona nos autos informando a extinção da obrigação por outrem e pleiteando, em razão disso, o término do processo sem julgamento do mérito por falta de interesse de agir reconhece, implicitamente, que o próprio recurso por ela apresentado também perdeu seu objeto.
+3. Agravo interno não provido (e-STJ, fl. 898/899).
+Seguiram-se novos embargos de declaração os quais foram acolhidos com efeitos infringentes pelo órgão colegiado, para determinar a inclusão do recurso especial em pauta de julgamento (e-STJ, fl. 955).
+Assim é que, em novo julgamento do recurso especial, desta feita pela própria Terceira Turma e não mais de forma monocrática, sobreveio acórdão com a seguinte ementa:
+PROCESSUAL CIVIL. AÇÃO INDENIZATÓRIA. FALHA NA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO PUBLICADO NA VIGÊNCIA DO CPC/73. EXECUÇÃO DE TÍTULO JUDICIAL EXTINTA SEM JULGAMENTO DE MÉRITO PELA INÉRCIA DA PARTE EM PROMOVER O ANDAMENTO DO FEITO. NOVA EXECUÇÃO EXTINTA PELA PRESCRIÇÃO. DANOS MATERIAIS CORRESPONDENTES AO VALOR DO TÍTULO EXECUTIVO JUDICIAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO ALEGADA DE FORMA GENÉRICA. OMISSÃO DE JULGAMENTO NÃO CONFIGURADA. CERCEAMENTO DE DEFESA PELO INDEFERIMENTO DA PRODUÇÃO DE PROVAS. SÚMULA Nº 7 DO STJ. DENUNCIAÇÃO DA LIDE, NECESSIDADE SOBREPARTILHA, OFENSA AO PRINCÍPIO DA ADSTRIÇÃO E EXTENSÃO DA MEAÇÃO. TEMAS NÃO PREQUESTIONADOS.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são inaplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 2, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. A alegação de deficiência de fundamentação do acórdão recorrido foi apresentada de forma genérica, pois não demonstrado de que maneira os argumentos nele lançados e repetidos para rejeição dos embargos declaratórios, seriam insuficientes para enfrentar das alegações suscitadas no curso do feito. Incide, por isso, a Súmula nº 284 do STF.
+3. Impossível se cogitar de omissão de julgamento com relação a tema que o Tribunal não foi instado a examinar.
+4. A alegação de cerceamento de defesa pelo julgamento antecipado da lide sem produção de provas indispensáveis à resolução do casoem exame, esbarra na Súmula nº 7 do STJ.
+5. As alegações recursais concernentes a denunciação da lide, necessidade de sobrepartilha, ofensa ao princípio da adstrição e extensão da meação da companheira supérstite carecem do devido prequestionamento. Incidência das Súmulas nºs 282 e 356 do STF e 211 do STJ.
+6. Não é possível considerar o prequestionamento ficto de que trata o art. 1.025 do NCPC em relação a temas que não estão vinculados à alegação de ofensa ao art. 1.022 do NCPC suscitada no recurso especial. Precedentes.
+7. Recurso especial parcialmente conhecido e, nessa extensão, não provido (e-STJ, fls. 1.014/1.015).
+Nos presentes embargos de declaração, ao contrário do que se poderia supor, OTÁVIO não impugnou o acórdão prolatado no julgamento do recurso especial, mas sim aquelehavidono julgamento dos embargos de declaração anteriormente manejados.
+Ele busca esclarecimentos sobre o conteúdo e a extensão da deliberação da Turma que, dispensando a publicação de acórdão, acolheu com efeitos infringentes os embargos então manejados para incluir o recurso especial em pauta de julgamento.
+De forma mais específica, OTÁVIO procura saber se referida deliberação teria ou não tornado sem efeito as decisões monocráticas proferidas (e-STJ, fls. 809/814 e 832/839) e também o acórdão (e-STJ, fls. 898/905) anteriormente proferidosnos autos.
+De início, é preciso assinalar que a falta de publicação do acórdão em testilha não gerou nenhuma nulidade, sendo perfeitamente cabível à Turma, no julgamento de embargos declaratórios ou de agravo interno, proceder à reautuação do feito para novo julgamento da causa ou então determinar a inclusão em pauta de julgamento do próprio recurso especial, independentemente da publicação de acórdão.
+Trata-se, com efeito, de uma prática corrente do Tribunal e não vedada pelo ordenamento jurídico.
+Nesse sentido, o voto proferido pelo Ministro PAULO DE TARSO SANSEVERINO no julgamento do AgInt no REsp 1.752.891/PR, Terceira Turma, DJe 28/2/2019).
+ ..  é perfeitamente cabível à Turma, quando do julgamento do agravo interno, proceda à conversão do agravo em recurso especial para melhor exame, independentemente da publicação de acórdão. Prática não vedada pelo ordenamento jurídico.
+Quando isso ocorre ficam automaticamente canceladas todas as decisões anteriores havidas nos autos, justamente para que o recurso possa ser novamente apreciado, do zero.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. SEGURO EMPRESARIAL CONTRA INCÊNDIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL PARCIALMENTE RECONHECIDA. MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS INCABÍVEL. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+ ..
+3. A Terceira Turma, ao determinar a conversão do AResp em REsp, permitiu que o julgamento do recurso fosse reiniciado do zero, não havendo como cogitar, portanto, de preclusão quanto a temas tratados em decisões monocráticas anteriormente proferidas.
+(EDcl no REsp n. 1.943.335/RS, de minha relatoria, julgado em 29/3/2022, DJe de 31/3/2022.)
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. IRRESIGNAÇÃO SUBMETIDA AO NCPC. MENSAGEM INJURIOSA PROPAGADA PELA INTERNET. PEDIDO DE OBTENÇÃO DE INFORMAÇÃO. DISCUSSÃO QUANTO AO CABIMENTO DE MULTA COMINATÓRIA EM RAZÃO DA SÚMULA Nº 372 DO STJ. EMBARGOS DECLARATÓRIOS PROVIDOS PELA TERCEIRA TURMA PARA CONVERSÃO DO ARESP EM RESP INDEPENDENTEMENTE DA PUBLICAÇÃO DE ACÓRDÃO. ALEGAÇÃO DE OMISSÃO PORQUE NÃO DECLARADOS OS FUNDAMENTOS DESSA DECISÃO JUDICIAL. PRÁTICA NÃO VEDADA PELO ORDENAMENTO JURÍDICO. EMBARGOS ACOLHIDOS PARCIALMENTE APENAS PARA SANAR A OMISSÃO.
+ ..
+2. No julgamento de embargos declaratórios ou de agravo interno, os órgãos colegiados podem tornar sem efeito a decisão recorrida e determinar a autuação do AREsp em RESp para melhor exame, independentemente da publicação de acórdão.
+(EDcl no AgInt no REsp n. 1.698.640/SC, de minha relatoria, Terceira Turma, julgado em 24/8/2020, DJe de 28/8/2020.)
+Nesses termos, pelo meu voto, ACOLHO os embargos de declaração, sem efeitos infringentes,apenas para esclarecer o ponto destacado.
