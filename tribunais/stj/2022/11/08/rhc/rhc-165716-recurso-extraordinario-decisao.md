@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto porORDEM DOS ADVOGADOS DO BRASIL SEÇÃO MINAS GERAIS, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiçaassim ementado (fl. 806):
+PROCESSO PENAL. AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO MONOCRÁTICA AGRAVADA. INEXISTÊNCIA. RECURSO GENÉRICO. IMPOSSIBILIDADE. SUSPENSÃO DE EXERCÍCIO DA ADVOCACIA. ART. 319, VI, DO CPP. VALIDADE E INCIDÊNCIA. AGRAVO NÃO CONHECIDO.
+1. Deixando a parte agravante de impugnar especificamente todos os fundamentos da decisão monocrática recorrida, não merece ser conhecido o agravo regimental.
+2. Não se conhece de recurso ordinário em habeas corpus quando suas razões são genéricas, apresentadas mediante uso de modelo não adaptado ao caso, sem nenhuma relação com as situações específicas da demanda concreta.
+3. A cautelar prevista no art. 319, VI, do CPP claramente tem a finalidade de abranger toda e qualquer profissão, tanto pública como privada, não podendo ser outra a leitura em relação à advocacia, que se encaixa em "atividade de natureza financeira".
+4. A cautelar de suspensão do exercício de atividade de natureza econômica ou financeira não viola o Estado Democrático de Direito, pelo contrário, o observando, considerando a opção estabelecida pelo legislador em atendimento à vontade popular indireta.
+5. O disposto no art. 319, VI, do CPPnão afronta o valor social do trabalho e da livre iniciativa, ou a liberdade de profissão, considerando que nenhuma liberdade pública é absoluta, sendo tais direitos fundamentais corretamente restringidos com base no critério da proporcionalidade. Primeiro, porque a previsão é adequada, isto é, idônea ao fim proposto para assegurar a aplicação da lei penal, para garantir a investigação ou instrução criminal, ou para evitar a prática de infrações penais. Segundo, porque é necessária, por ser o meio menos gravoso suficiente, destinado justamente a substituir a providência cautelar mais danosa que é a prisão preventiva. Terceiro, porque é proporcional em sentido estrito, em face da exigência de a medida ser apropriada à gravidade do crime, circunstâncias do fato e condições pessoais do acusado.
+6. O deferimento da cautelar de suspensão do exercício da advocacia não configura usurpação de atribuição que seria exclusiva da OAB, uma vez que ela possui natureza administrativa, sem prejuízo da atuação criminal dos órgãos jurisdicionais competentes. A interpretação sistemática exige que a leitura do art.70, caput, do EOAB, seja efetuada em conjunto com o disposto no art. 319, VI, do CPP, não havendo entre os dispositivos legais nenhuma antinomia, real ou aparente.
+7. A despeito de os advogados exercerem uma função essencial à justiça e de possuírem direitos, garantias e inviolabilidade, isso não serve como escudo protetivo da prática de atos ilícitos, o que aliás não pode ser benefício de nenhum indivíduo, em atuação pública ou privada, até para não receber privilégios que contrariem o expresso princípio constitucional da igualdade.
+8. Os requisitos técnicos necessários ao exercício de atividades profissionais são exigências para o início da atuação, mas o preenchimento delas não impede a posterior suspensão se a pessoa habilitada, por melhor que seja na sua área, passar a usar o ofício para praticar ilícitos penais.
+9. Agravo regimental não conhecido.
+A parte recorrente sustenta a violação dos arts. 5º, LXIII e LV,133 e 136, § 3º, IV,da CFe aduz que hárepercussão geral da matéria tratada.
+Alega, em síntese,afronta ao direito fundamental de liberdade de profissão, competindo à OABfiscalizar e punir seus inscritos, razão pela qual o art. 319, VI, do Código de Processo Penal não se aplicaria aos advogados.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (fl. 851).
+É o relatório.
+No RE n. 598.365-RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+No caso, verifica-se que o acórdão objeto do recurso extraordinárionão conheceu do agravo regimental por não terem sido impugnados especificamente todos os fundamentos da decisão agravada.
+Desse modo, não tendo o julgado recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema n. 181/STF, sendo inviável a análise da violação constitucional apontada no recurso extraordinário.
+Ante o exposto, com amparono art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
