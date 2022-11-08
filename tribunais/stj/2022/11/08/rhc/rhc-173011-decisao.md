@@ -1,0 +1,16 @@
+DECISÃO
+VINICIUS ASTOLFO NASCIMENTOalega sofrer coação ilegal em face de acórdão doTribunal de Justiça do Estado de São Paulo.
+Alega a defesaa incompatibilidade da manutenção da prisão preventiva com a imposição do regime semiaberto, fixado na sentença condenatória.
+Requer, por tal motivo, o provimento do recurso, para que seja revogada a prisão preventiva.
+Decido.
+Consta dos autos que o recorrente foi condenado, em primeira instância, à pena de 5anos e 4meses de reclusão, em regime semiaberto, mais multa, pela prática dodelitode roubo circunstanciado, negado o direito de recorrer em liberdade.
+A Corte estadual, no julgamento de prévio writ, afastou a ilegalidade da manutenção da custódia cautelar do sentenciado e determinou "que o juízo de origem proceda à devida adequação da custódia cautelar com o regime fixado em sentença" (fl. 295).
+Cinge-se a controvérsia à (in)compatibilidade da prisão preventiva com o regime semiaberto.A insurgênciacomporta pronta solução, pois existe pacífico pronunciamento do colegiado sobre a tese defensiva.
+Deveras, "não há ilegalidade no acórdão recorrido, pois a jurisprudência desta Corte, alinhada ao entendimento consolidado pelo Supremo Tribunal Federal, admite a adequação da segregação provisória ao regime inicial semiaberto fixado na sentença condenatória" (AgRg no HC n. 734.043/RS, Rel. MinistroRogerio Schietti, 6ª T., DJe 16/5/2022).
+Ilustrativamente: "a jurisprudência dessa Corte já se manifestou pela compatibilidade entre a prisão preventiva e a fixação de regime semiaberto estabelecido para o cumprimento da pena reclusiva, desde que adequada a segregação à modalidade prisional imposta na condenação" (AgRg noHC n. 687.787/SP, Rel. MinistroReynaldo Soares da Fonseca, 5ª T., DJe 20/9/2021).
+Ainda: " a jurisprudência desta Corte já se manifestou pela compatibilidade da manutenção da prisão preventiva e a fixação de regime semiaberto na sentença, alinhando-se ao entendimento consolidado pelo Supremo Tribunal Federal, que tem admitido a adequação da segregação provisória ao regime fixado na sentença condenatória" (AgRg no RHC n. 159.177/CE, Rel. MinistroRibeiro Dantas, 5ª T., DJe 26/4/2022).
+É possível negar o direito de recorrer em liberdade, mantendo-se a prisão cautelar inicialmente decretada, se presentes os requisitos do artigo 312 do CPP, mesmo que na sentença condenatória tenha sido imposto o regime semiaberto para o inicial cumprimento de pena, poisnão há incompatibilidade entre a manutenção da custódia cautelar e a fixação de regime prisional diverso do fechado, podendo os dois institutos coexistirem, como se extrai da análise do artigo 8º da Resolução 113 do CNJ e da Súmula 716 do STF.
+Com efeito, "não há incompatibilidade entre a manutenção da segregação provisória e a fixação do regime semiaberto para o inicial cumprimento de pena, devendo, no entanto, ser compatibilizada a prisão cautelar do Apenado com as regras próprias desse regime" (AgRg no RHC n. 156.681/MG, Rel. MinistraLaurita Vaz, 6ª T., DJe 17/12/2021).
+Na espécie, o Tribunal de origem decidiu em conformidade com a orientação jurisprudencial desta Corte Superior.
+À vista do exposto,nego provimento ao recurso ordinário emhabeas corpus,in limine.
+Publique-se e intimem-se.
