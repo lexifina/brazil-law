@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por Tadeu Portinho Galvão contra decisão monocrática queconheceudo agravo e deu provimento ao recurso especial para que os honorários advocatícios fossem fixados com base no valor integral da causa, sendo o percentual rateado entre os advogados ou advogado dos vencedores.
+Pleiteia o embargante esclarecimento quanto aos benefíciários do rateio, aduzindo haver somente um agravante, bem como requerendo a majoração de honorários recursais, conforme argumenta:
+A despeito de o corolário lógico do provimento do recurso especial indicar isso, a fim de evitar eventuais controvérsias neste sentido na execução do julgado junto às instâncias inferiores, é preciso aclarar que o referido rateio se dará apenas entre os advogados do embargante Tadeu, único agravante e, por óbvio, único vencedor do recurso de agravo de instrumento que ensejou a apresentação do recurso especial e, posteriormente, deste agravo em recurso especial.
+Além da obscuridade acima apontada, a r. decisão agravada também se mostra omissa, pois não considerou a disposição do §11, do artigo 85, do CPC, deixando de majorar os honorários fixados pelo Tribunal de origem.
+Intimada, aFazenda Pública não apresentou impugnação aos embargos de declaração opostos.
+É o relatório. Decido.
+Os embargos merecem acolhimento.
+Com efeito, a decisão revela-se obscura à medida que, partindo da premissa de haver pluralidade de vencedores - e embasando-se em jurisprudência relativa a tal contexto - determina que "os honorários advocatícios sejam fixados com base no valor integral da causa, sendo o percentual rateado entre os advogados ou advogado dos vencedores." .
+Ocorre, contudo, que no âmbito do agravo interno de que se originou o recurso especial ora sob análise, há somente um vencedor, porquanto houve apenas a extinção parcial da execução, em favor do agravante, por força do acolhimento da exceção de pré-executividade por ele oposta (fl. 44).
+Nesse panorama, devem ser acolhidos os embargos de declaração opostos porTadeu Portinho Galvão para reconhecer que no âmbito do agravo de instrumento originário deste recurso especial - no bojo do qual se determinou a extinção parcial da execução fiscal, isto é, em relação à parte agravante - há somente um vencedor, não havendo que se falar em rateio de honorários advocatícios em relação aos patronos dos demais executados que não foram parte na interposição de agravo de instrumento.
+Ante o exposto, acolho os embargos de declaração, para esclarecer que os honorários advocatícios objeto deste processo devem ser pagosembenefício apenas dos advogados da parte agravante, Tadeu Portinho Galvão.
+Referidos honorários, cujo percentual fora fixado no mínimo previsto para cada faixa,devem ser majorados em 0,5% em cada uma dessas faixas, em razão do que disposto no art. 85, § 11, do CPC.
+Publique-se. Intimem-se.
