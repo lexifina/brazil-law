@@ -1,0 +1,37 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADE. AVISO DE MIRANDA. INGRESSO FORÇADO EM DOMICÍLIO. MATÉRIAS NÃO DEBATIDAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os temas relativos à nulidade do ingresso forçado em domicílio e à suposta falta de advertência quanto ao direito ao silêncio não foram previamente debatidos pelo Tribunal de Justiça, inviabilizando o exame do tema diretamente pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+Trata-se de agravo regimental interposto por NATHAN VINÍCIUS FREITAS SANTOS, nos termos do art. 258 do Regimento Interno do Superior Tribunal de Justiça, contra decisão que negou seguimento ao habeas corpus substitutivo de recurso especial, impetrado em face de acórdão do Tribunal de Justiça do Estado de Goiás, no julgamento da Apelação Criminal n. 5219860-98.2021.8.09.0051.
+Nas razões deste agravo, a defesa insiste na necessidade de exame das matérias suscitadas na impetração originária, uma vez que o habeas corpus é o instrumento legítimo para fazer cessar o constrangimento ilegal sofrido pelo agravante. Assevera que o fundamento utilizado para negar seguimento ao writ não deve prevalecer pois a liberdade do indivíduo deve preponderar em relação a supostas regras de competência, cabendo ao Judiciário cumprir a sua missão em relação à atividade-fim, de resguardar o cumprimento do ordenamento jurídico, não podendo deixar que as regras dos meios superem a sua própria finalidade (e-STJ fl. 845).
+Pugna, ao final, pela reconsideração da decisão agravada ou, subsidiariamente, pela apresentação deste feito à Quinta Turma.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA:
+O agravo regimental é tempestivo e preenche os demais requisitos formais exigidos pelo art. 1.021 do Código de Processo Civil, art. 3º do Código de Processo Penal e art. 258 do Regimento Interno do Superior Tribunal de Justiça.
+Por meio deste habeas corpus, postula-se a absolvição do agravante, condenado a 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, em regime inicial aberto, mais 167 (cento e sessenta e sete) dias-multa, pelo crime de tráfico ilícito de entorpecentes.
+O pleito absolutório se sustenta em duas alegações. A primeira, diz respeito à suposta nulidade do ingresso de policiais na residência do paciente. A segunda, à falta de prévia advertência do paciente quanto ao direito de permanecer em silêncio.
+Ocorre que essas duas alegações não foram levadas ao conhecimento do Tribunal de Justiça estadual, de maneira que não é possível analisar esses temas diretamente pelo Superior Tribunal de Justiça.
+Isto porque as instâncias antecedentes não apresentaram a moldura fática do caso, de maneira que resta inviabilizada a apreciação desses temas pelo Tribunal da Cidadania, sobretudo pela via mandamental, tendo em vista que o habeas corpus possui limites cognitivos estreitos, servido tão somente para o exame de matéria pré-constuída, sem necessidade de dilação probatória.
+Assim, a ausência de prévia manifestação das instâncias ordinárias sobre os temas discutidos no mandamus inviabiliza seu conhecimento pelo Superior Tribunal de Justiça, porquanto estar-se-ia atuando em patente afronta à competência constitucional reconhecida a esta Corte, nos termos do art. 105 da Carta Magna.
+Ao ensejo, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. NULIDADES. CONFISSÃO INFORMAL. MATÉRIA NÃO DEBATIDA NA ORIGEM. NECESSIDADE DE PRÉVIA AUTORIZAÇÃO JUDICIAL PARA A AÇÃO POLICIAL. HIPÓTESE NÃO CONTEMPLADA NO ART. 53 DA LEI N. 11.343/2006. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O reconhecimento de nulidades no âmbito do processo penal deve ponderar, de um lado, a estrita observância das garantias constitucionais, sem tolerar arbitrariedades ou excessos por parte dos órgãos estatais que possam desequilibrar a dialética processual em desfavor do acusado. Por outro lado, necessário também considerar que a marcha processual não pode ser refreada sem justo motivo, exigindo-se a demonstração de agravo concreto suportado pela parte, sob pena de se prestigiar a forma pela forma, em detrimento ao conteúdo do ato.
+2. A questão relativa à nulidade das provas obtidas a partir da confissão informal do corréu de José Roberto de Souza, que não teria sido advertido do direito de permanecer em silêncio para não produzir provas contra si (Aviso de Miranda), não foi submetida à apreciação do Tribunal de origem, inviabilizando o exame do tema diretamente pelo Superior Tribunal de Justiça, sob pena de supressão de instância.
+3. Quanto à necessidade de prévia autorização judicial para dar lastro jurídico à ação policial, destaco que, em regra, não há necessidade de manifestação antecedente dos órgãos do Poder Judiciário para permitir que a polícia investigue suspeitos de cometer crimes.
+4. Neste caso, o contexto fático antecedente deu suporte suficiente para justificar a ação dos policiais, destacando-se, outrossim, que não se está diante de nenhuma das hipóteses previstas no art. 53 da Lei de Drogas, de maneira que não houve ofensa à legislação de regência.
+5. Agravo regimental não provido. (AgRg no HC n. 751.784/SP, de minha relatoria, Quinta Turma, julgado em 6/9/2022, DJe de 13/9/2022.)
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. INVASÃO DE DOMICÍLIO. SUPRESSÃO DE INSTÂNCIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO. RECURSO IMPROVIDO.
+1. A decisão monocrática deve ser mantida pelos seus próprios fundamentos, isso porque, conforme asseverado na decisão que denegou o habeas corpus e na que rejeitou os embargos de declaração, a tese referente à invasão de domicílio não foi debatida pelo Tribunal de origem.
+2. Dessa forma, inviável a análise da matéria diretamente por esta Corte superior, sob pena de incorrer em indevida supressão de instância.
+3. Ademais, " é  descabido o pedido de concessão de habeas corpus de ofício, já que este ocorre por iniciativa do próprio órgão julgador, não podendo ser utilizado para superar vício procedimental existente quando da interposição do recurso (AgRg no AREsp n. 431.186/ES, Ministra Laurita Vaz, Quinta Turma, DJe 27/5/2014)" (AgRg nos EDcl no RHC n. 135.460/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 16/3/2021, DJe de 22/3/2021).
+4. Agravo regimental desprovido. (AgRg nos EDcl no HC n. 715.849/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 20/9/2022, DJe de 7/10/2022.)
+Desse modo, as pretensões formuladas não encontram amparo na jurisprudência desta Corte Superior ou na legislação penal, de maneira que não se constata qualquer constrangimento ilegal apto a autorizar a concessão da ordem de habeas corpus.
+Desse modo, diante das razoes apresentadas no decisum agravado, acima reiteradas, nego provimento a este agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
