@@ -1,0 +1,13 @@
+DECISÃO
+ALEX SANDRO SOARES ELVINOalega sofrer coação ilegal em face de acórdão do Tribunala quo. A defesa pede a retificação dos cálculos penais, pois, em face do reconhecimento da falta grave, as instâncias ordinárias alteraram a data-base para fins de futura concessão de saída temporária e do trabalho externo.
+Decido.
+O Tribunal de origem consignou:
+Igualmente, inaugura-se novo marco temporal ao alcance de futuros benefícios vinculados à execução da privativa de liberdade, não se podendo afastá-lo nos termos propugnados pela defesa.
+Manter-se a data-base original inalterada importaria em fazer tabula rasa do mau comportamento carcerário do reeducando. Atentar-se-ia contra o princípio constitucional da isonomia, visto que aos reclusos com boa conduta prisional seria dispensado tratamento idêntico àqueles com comportamento desregrado, equiparando-se situações notadamente distintas, o que não se admite.
+Assim, adequado o estabelecimento da data em que praticada a conduta faltosa (22-10-2020) como novo dies a quo à contagem do prazo à progressão de regime e à obtenção de saídas temporárias 3 , excetuados o livramento condicional 4 , oindulto e a comutação (fls. 15-16).
+Owritcomporta pronta solução. Aplica-se ao caso a tese adotada noHC n. 671.220/RS, quando,por decisão monocrática, transitada em julgado no dia 24/2/2022, o MinistroJoão Otávio de Noronha concedeu ordem coletivaa todos os presos em cumprimento de pena no Estado do Rio Grande do Sul, a fim de cassar as decisões das instâncias ordinárias edeterminar ao Juízo da execução que, em caso de reconhecimento de falta grave, afaste a alteração da data-base para a concessão dos benefícios de saída temporária e de trabalho externo.
+Deveras, ausente em lei a previsão da penalidade, é"assente nesta Corte que "A prática de falta grave durante o cumprimento da pena não acarreta aalteraçãodadata-basepara fins desaída temporáriae trabalho externo. Precedentes" (AgInt no REsp 1713617/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/03/2018, DJe 12/03/2018)" (AgRg no REsp n. 1.755.701/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 14/11/2018)"(HC n. 708.355/RS, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 22/2/2022, DJe de 25/2/2022.)
+Não há prejuízo, entretanto, de que o Juiz da VEC considere as anotações de indisciplina para fins de análise do requisito subjetivo dos benefícios.
+À vista do exposto,concedo o habeas corpus,in limine,para, em relação ao paciente,determinar que a prática de falta grave não interrompao requisito objetivodos benefícios de saída temporária e do trabalho externo.
+O Juiz da VEC deverá providenciar a retificação dos cálculos penais.
+Publique-se e intimem-se.
