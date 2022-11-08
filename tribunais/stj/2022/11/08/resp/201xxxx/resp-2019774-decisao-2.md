@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial manejado por INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA, com fundamento no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (fls. 1.678/1.701):
+ADMINISTRATIVO E PROCESSUAL CIVIL. DECLARAÇÃO DE PRODUTIVIDADE E INEXPROPRIABILIDADE DE IMÓVEL RURAL. NULIDADE DE ATOS ADMINISTRATIVOS DIRECIONADOS À EXPROPRIAÇÃO. PARÂMETROS CONFORME ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA. AÇÃO DE DESAPROPRIAÇÃO AQUE SE DÁ PROVIMENTO.
+1. Embora tenha sido aventada pelo Pretório Excelso em sede de embargos declaratórios em Agravo Regimental em Mandado de Segurança a possibilidade do impetrante, ora apelado, obter o reconhecimento de que o imóvel não é passível de desapropriação para fins de reforma agrária, a referida decisão não estabeleceu os parâmetros para tal aferição, tampouco se comprometeu com a tese, apenas destacando que tal não era o objeto da lide, remetendo a discussão à ação própria, na qual poderia ou não ser reconhecido o direito.
+2. A condição de produtividade do imóvel tem natureza transitória, devendo guardar correlação com os índices exigidos pela legislação vigente na data da vistoria administrativa, razão pela qual não é permitido ao proprietário modificar as condições de uso da terra durante o período acima mencionado, para que, posteriormente, venha a cumprir com a sua função social. Considerando a higidez da vistoria realizada pelo INCRA em 1999, conforme decisão transitada em julgado em ação precedente, a atual condição de imóvel produtivo não obsta a expropriação por interesse social.
+3. O caso em tela insere-se justamente na hipótese em que o expropriado manejou diversos recursos que resultaram na procrastinação do andamento do processo administrativo, de modo que deve ser considerada válida a vistoria realizada pelo INCRA no ano de 1999 e todos os atos administrativos subsequentes, sob pena de inviabilizar-se o comando inserto no art. 184 da Constituição Federal em favor da perpetuação da litigância.
+4. Indenização na forma proposta pelo INCRA, observando-se para os valores em espécie os critérios definidos na ADI 2.332.
+Opostos embargos declaratórios, foram rejeitados (fls. 1.819/1.825).
+A autarquia recorrente aponta, além de dissídio jurisprudencial, violação aos arts.85, §2º, 1.022, II, do CPC.
+Sustenta,em suma, que"a fixação dos honorários advocatícios em 1% sobre o valor dado a causa certamente não condiz com os parâmetros objetivos previstos pelo legislador, muito menos atende a equidade no caso concreto". Diz também que, ao total, pagará à parte recorrida o montante de mais de nove milhões de reais em razão da desapropriação agrária perpetrada.
+Pugna, ao final, pela fixação de "honorários advocatícios sucumbenciais em 10% (dez por cento) sobre o valor da causa"(fls. 1.966/1.973).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Para melhor compreensão, convém destacar os seguintes excertos do acórdão arguído (fls. 1.685/1.700):
+A Terceira Turma deste Regional possui entendimento no sentido de que os honorários advocatícios devem ser fixados em 10% sobre o valor da causa/condenação, desde que não configure valor exorbitante ou irrisório (..)
+(..)
+Considerando a exorbitância do valor dado à causa, sopesadas as condicionantes dos §§ 2º e 3º do artigo 85 do CPC/15 e os precedentes da Turma em ações desta natureza, fixo os honorários advocatícios em R$ 10.000,00 (mil reais) para cada um dos réus (União e INCRA), a cargo da parte autora, tendo em conta a improcedência do pedido. Custas e honorários periciais igualmente a cargo da demandante.
+Por fim, tendo em conta a inversão da sucumbência, inaplicável a majoração recursal prevista no §11º do art. 85 do CPC/2015, pois tal acréscimo só é permitido sobre verba anteriormente fixada, consoante definiu o STJ (AgInt no AResp nº 829.107).
+(..)
+Pelas mesmas razões já externadas quando da apreciação da sucumbência na ação de nº 5010324-70.2014.4.04.7001 (exorbitância do valor da causa e inversão da sucumbência), ficam a cargo da parte autora as custas,os honorários periciais e os sucumbenciais, que arbitro em R$ 10.000,00 (dez mil reais).
+Nesse contexto, ointento da autarquia federal procede.
+Sendo incontroverso que houve também acondenação do INCRA sob a égide das regras do CPC/2015,não poderiaa verba honorária ser arbitrada por equidade.
+Com efeito, nas causas em que for parte a Fazenda Pública, onovo estatuto processual estabeleceu critérios objetivos para a fixação doshonorários de sucumbência, com fulcro no valor da condenação ou doproveito econômico obtido na demanda, prevendo cinco faixasprogressivas e escalonadas como parâmetro para essa apuração (art.85, § 3º, I a V, do CPC/2015).
+Ilustrativamente, o seguinte julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.EXECUÇÃO FISCAL. EXTINÇÃO. CANCELAMENTO DO DÉBITO. CONDENAÇÃO DA FAZENDA PÚBLICA AO PAGAMENTO DAS CUSTAS SUCUMBENCIAIS. CABIMENTO.NECESSIDADE DE FIXAÇÃO DA VERBA DE SUCUMBÊNCIA NOS TERMOS DO ART.85, § 3o. DO CÓDIGO FUX. AGRAVO INTERNO DA FAZENDA NACIONAL A QUE SE NEGA PROVIMENTO.
+(..)
+4. Esta Corte Superior consolidou a orientação de que, nas causas em que sucumbente a Fazenda Pública, a verba honorária deve ser fixada nos termos do art. 85, § 2o., caput e I a IV do Código Fux, com percentuais delimitados no § 3o. do dispositivo.
+5. Ressalta-se que na vigência do Código Fux a fixação dos honorários advocatícios com base na apreciação equitativa, prevista no § 8o., art. 85 do aludido diploma legal, somente tem aplicação nas causas em que for inestimável ou irrisório o proveito econômico, ou ainda quando o valor da causa for muito baixo. No caso dos autos, não se trata de fixação por apreciação equitativa do juiz por não se enquadrar nos termos do parág. 8o. do art. 85 do Código Fux.
+6. Agravo Interno da FAZENDA NACIONAL a que se nega provimento.
+(AgInt no AREsp 1.694.178/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 19/11/2020)
+Nesse contexto, tendo em vista a necessidade de alteração da premissa jurídica adotada para a fixação dos honorários de sucumbência, faz-se necessária a devolução dos autos ao Tribunal de origem para que este fixe a referida verba honorária, levando-se em conta os critérios legais.
+ANTE O EXPOSTO, dou provimento aorecurso especial do INCRA, nos termos da fundamentação acima, para que a instância ordinária arbitre honorários sucumbenciais, conforme parâmetros objetivos do art. 85, § 3º, I a V, do CPC/2015.
+Publique-se.
