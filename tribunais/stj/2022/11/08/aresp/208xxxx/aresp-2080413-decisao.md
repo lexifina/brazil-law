@@ -1,0 +1,59 @@
+DECISÃO
+  Cuida-se  de  agravo  interposto  pelo  MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS  contra  decisão  que  obstou  a  subida  de  recurso  especial.
+Extrai-se  dos  autos  que  o  agravante  interpôs  recurso  especial,  com  fundamento  no  art.  105,  III,  "a",  da  Constituição  Federal,  contra  acórdão  do  TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS  cuja  ementa  guarda  os  seguintes  termos  (fl.  1.636):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA. RESTITUIÇÃO AO ERÁRIO. AUSÊNCIA DECOMPROVAÇÃO DA MÁ-FÉ. IMPOSSIBILIDADE. 1 -Ausentes nos autos a comprovação de má-fé por parte daquele que percebeu os valores correspondentes à gratificação suspensa por medida cautelar proferida na órbita de ação direta de inconstitucionalidade, deve ser afastada a pretensão de restituição ao erário. Recursos de apelação conhecidos e desprovidos.
+Os  embargos  de  declaração  opostos  foram  rejeitados  (fls.  800-804).
+No  recurso  especial,  a parte recorrente alega, inicialmente, ofensa  ao  art.  1.022,  II,  do  CPC,  porquanto,  apesar  da  oposição  dos  embargos  de  declaração,  o  Tribunal  de  origem  não  se  pronunciou  sobre  argumentos constitucionais  necessários  ao  deslinde  da  controvérsia.
+Aduz,  no  mérito,  que  o  acórdão  estadual  contrariou  as  disposições  contidas  no  art.  27 de Lei n. 9.868/1999, ao rejeitar o pedido de ressarcimento ao erário dos valores percebidos por servidor público com fundamento em legislação declarada inconstitucional em pronunciamento judicial que não teve seus efeitos modulados para obstar a retroatividade da decisão  (fls.  1.749-1.765).
+Oferecidas  contrarrazões  ao  recurso  especial  (fls.  1.866-1.876).
+Sobreveio  o  juízo  de  admissibilidade  negativo  na  instância  de  origem  (fls.  1.916-1.918),  o  que  ensejou  a  interposição  do  presente  agravo.
+Apresentada  contraminuta  do  agravo  (fls.  1.966-1.973).
+Parecer do Ministério Público Federal pelo desprovimento do recurso (fls. 1.986-1.991).
+É,  no  essencial,  o  relatório.
+Atendidos  os  pressupostos  de  admissibilidade  do  agravo,  passo  ao  exame  do  recurso  especial.
+A  irresignação  não  merece  prosperar.
+Inicialmente,  aalegação de nulidade do acórdão recorrido, porquanto deixou deapreciar argumentosde natureza constitucional, refoge da competência do Superior Tribunalde Justiça.
+Com efeito, a jurisprudência desta Corte fixou-se no sentido de "nãocaber ao STJ, com vistas a examinar suposta ofensa ao art. 535 do CPC/73, aferir a existência ou não de omissão no Tribunal de origem acerca de matéria constitucional, sob pena de usurpação da competência do STF" (AgInt nos EAREsp n. 731.395/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 9/10/2018).Ainda:
+PROCESSO CIVIL. ADMINISTRATIVO. CONTRATO TEMPORÁRIO SUCESSIVAMENTE RENOVADO. RECONHECIMENTO DE NULIDADE. PAGAMENTO DE VERBAS DEVIDAS. RECURSO ESPECIAL. NÃO OCORRÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ÓBICES DE ADMISSIBILIDADE. AGRAVO INTERNO. DECISÃO MANTIDA.
+ ..
+V - Quanto à alegação de inobservância dos arts. 5º e 93 da CRFB, não se conhece da alegação de violação de dispositivos constitucionais em recurso especial, porquanto seu exame é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional. Não cabe ao STJ, a pretexto de analisar alegação de violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, examinar a omissão da Corte a quo quanto à análise de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao STF, no âmbito do recurso extraordinário.
+VI - Agravo interno improvido.
+(AgInt no REsp n. 1.984.724/AM, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022 -sem grifo no original.)
+PROCESSUAL CIVIL. AÇÃO ORDINÁRIA. COBRANÇA DE CONTRIBUIÇÕES. CUSTEIO DE ESCOLAS DE APRENDIZAGEM. PEDIDO IMPROCEDENTE. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ. DISPOSITIVO CONSTITUCIONAL.
+ ..
+V - Não cabe ao STJ, a pretexto de analisar alegação de violação do art. 535 do CPC/1973 ou do art. 1.022 do CPC/2015, examinar a omissão da Corte a quo quanto à análise de dispositivos constitucionais, tendo em vista que a Constituição Federal reservou tal competência ao STF, no âmbito do recurso extraordinário.
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 1.884.226/SP, relator Ministro Francisco Falcão, Segunda Turma,DJe de 21/9/2022.)
+DA FALTA DE PREQUESTIONAMENTO
+A  tese  apresentada  quanto  ao  art.  27 de Lei n. 9.868/1999 não  foi  apreciada  na  origem.
+Ausente  o  prequestionamento  da  matéria  alegadamente  violada,  não  é  possível  o  conhecimento  do  recurso  especial.  Nesse  sentido,  o  enunciado  211  da  Súmula  do  STJ:  "Inadmissível  recurso  especial  quanto  à  questão  que,  a  despeito  da  oposição  de  embargos  declaratórios,  não  foi  apreciada  pelo  Tribunal  a  quo";  e,  por  analogia,  os  enunciados  282  e  356  da  Súmula  do  STF.
+  Por oportuno, na forma da jurisprudência do Superior Tribunal de Justiça, "vale ressaltar que não há contradição ao se afastar a alegada violação do art. 1.022 do CPC e, ao mesmo tempo, não conhecer do recurso por ausência de prequestionamento, porquanto é perfeitamente possível o julgado encontrar-se devidamente fundamentado sem, no entanto, ter decidido a questão à luz dos preceitos jurídicos desejados pela parte" (AgInt nos EDcl no AREsp n. 1.651.228/SP, relator Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 11/2/2021).
+No mesmo sentido, cito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C.C. INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. SUPOSTA VIOLAÇÃO AO ARTIGO 1.022 DO CPC DE 2015. NÃO OCORRÊNCIA. ALEGADA VIOLAÇÃO AO ARTIGO 944 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF. ALEGAÇÕES RELACIONADAS AOS LUCROS CESSANTES E CLÁUSULA PENAL. NÃO DE INDICAÇÃO DE DISPOSITIVO LEGAL. APLICAÇÃO DA SÚMULA N. 284/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação ao artigo 1.022 do do Código de Processo Civil de 2015. Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente. A Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas.
+2. A matéria referente ao artigo 944 do CC não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula n. 282/STF).
+3. "Esclareça-se que não configura contradição afirmar a falta de prequestionamento e afastar a alegação de afronta ao art. 535 do Código de Processo Civil, uma vez que é perfeitamente possível que a decisão se encontre devidamente fundamentada sem, no entanto, ter sido decidida a causa à luz dos preceitos jurídicos desejados pelo postulante, pois a tal não está obrigado o julgador". (REsp 1820164/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/11/2019, DJe 19/12/2019).
+4.  ..
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.925.024/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 31/8/2022.)
+Por oportuno, na forma da jurisprudência do Superior Tribunal de Justiça, "vale ressaltar que não há contradição ao se afastar a alegada violação do art. 1.022 do CPC e, ao mesmo tempo, não conhecer do recurso por ausência de prequestionamento, porquanto é perfeitamente possível o julgado encontrar-se devidamente fundamentado sem, no entanto, ter decidido a questão à luz dos preceitos jurídicos desejados pela parte" (AgInt nos EDcl no AREsp n. 1.651.228/SP, relator Ministro Mauro Campbell Marques, Segunda Turma,DJe 11/2/2021).
+DA SÚMULA 284/STF
+Ademais, oart.  27 de Lei n. 9.868/1999  não tem comando normativo aptoa amparar a tese recursal, pois dele não se infere nenhuma alusão aquestão de necessidade ressarcimento ao erário, o que atrai, porconseguinte, os preceitos da Súmula n. 284/STF: "É inadmissível o recursoextraordinário, quando a deficiência na sua fundamentação não permitir aexata compreensão da controvérsia".
+No mesmo sentido, confiram-se estes julgados:
+III - Na espécie, incide o óbice da Súmula n. 284/STF em razão da ausênciade comando normativo dos dispositivos apontados como violados, o queatrai, por conseguinte, o referido enunciado: "É inadmissível o recursoextraordinário, quando a deficiência na sua fundamentação não permitir aexata compreensão da controvérsia."
+IV - Segundo a jurisprudência do STJ, o óbice de ausência de comandonormativo do artigo de lei federal apontado como violado ou como objeto dedivergência jurisprudencial incide nas seguintes situações: quando não temcorrelação com a controvérsia recursal, por versar sobre tema diverso; equando sua indicação não é apta, por si só, para sustentar a teserecursal, seja porque o dispositivo legal tem caráter genérico, sejaporque, embora consigne em seu texto comando específico, exigiria acombinação com outros dispositivo legais.(AgInt no AREsp n. 2.035.985/SP, relator Ministro Francisco Falcão,Segunda Turma, DJe de 31/8/2022.)
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois oúnico dispositivo apontado como violado não tem comando normativosuficiente para amparar a tese recursal, atraindo, por analogia, o óbiceda Súmula 284 do STF.(AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de TarsoSanseverino, Terceira Turma, DJe de 22/6/2022.)
+DA SÚMULA 7/STJ
+Quanto ao tema, assim se pronunciou o Tribunal de origem:
+De fato, diversamente do que alegado pelos recorrentes, não se pode concluir pela má-fé do apelado.
+Sabe-se que a boa-fé é presumida, enquanto que a má-fé deve ser comprovada.
+No caso de que se cuida, alega-se que a má-fé do apelado reside no fato deter sido concedida medida cautelar na órbita de AÇÃO DIREITA DEINCONSTITUCIONALIDADE, suspendendo-se a eficácia da lei que previa a incorporação da gratificação percebida por aquele (apelado).
+No ponto, dois aspectos merecem ser considerados. Primeiro, que o pagamento da gratificação foi feita deliberadamente pela Administração, por força do requerimento do apelado, de forma definitiva, ou seja, sem o caráter de precariedade, não lhe atribuindo esse efeito a decisão proferida na ADI.
+Segundo, conceber que o apelado teve ciência da medida cautelar concedida na ADI constitui mera presunção, sendo certo que, nos autos, sequer ocorreu sua oitiva (do apelado) a esse respeito.
+O fato de ter sido divulgada a concessão da medida cautelar na imprensa não autoriza concluir que o apelado tomou ciência da divulgação.
+Entendimento diverso, implicaria conceber que cada cidadão brasileiro está
+em dias com as informações divulgadas pela imprensa, o que, à evidência, não é verdade. Não se pode afirmar isso nem mesmo em relação a pessoas tidas como bem informadas. Isso porque, vários podem ser os motivos pelos quais uma pessoa não toma conhecimento de determinada divulgação feita pela imprensa, não se afigurando razoável, desse modo, partir do pressuposto de que apelado ingressou com o requerimento de pagamento da gratificação ciente de sua ilegalidade.
+Sem contar que o dever de atentar-se para o conteúdo da medida cautelar era da Administração, e não do apelado, estranho à relação processual estabelecida na ADI.
+Verifica-se que, para alterar as conclusões adotadas pela Corte de origem, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providênciavedadaem recurso especial, conforme o óbiceprevistonaSúmulan. 7/STJ.
+  Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Publique-se.  Intimem-se.
