@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo de SANDRO NAIRAN DO LIVRAMENTO CARNEIROem face de decisão proferida noTRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS- TJque inadmitiu seu recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal - CF, contra acórdão proferido no julgamento de apelação criminal n.1.0527.1 5.000922-5/001.
+Consta dos autos que o agravante foi condenado pela prática do delito tipificado no art. 306, caput, da Lei n. 9.503/1997 - CTB(condução de veículo automotor com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência), à pena de 7meses de detenção, em regime inicial semiaberto, e 11dias-multa,além dasuspensão da habilitação para dirigir veículo automotor pelo prazo de 2 meses e 10 dias(fls. 117/122).
+Recurso de apelação interposto pela Defesaobjetivando a absolvição, a redução da pena, a fixação do regime prisional aberto e a substituição da pena privativa de liberdade por restritiva de direitos foi desprovido, por maioria de votos (fl. 168). O acórdão ficou assim ementado:
+"EMENTA: APELAÇÃO CRIMINAL - EMBRIAGUEZ AO VOLANTE - AUTORIA E MATERIALIDADE COMPROVADAS - CRIME DE PERIGO ABSTRATO - CONDENAÇÃO MANTIDA - REDUÇÃO DA PENA - IMPOSSIBILIDADE - ABRANDAMENTO DO REGIME PRISIONAL E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS - INADMISSIBILIDADE - RÉU REINCIDENTE - RECURSO CONHECIDO E DESPROVIDO.
+I - Comprovado que o acusado conduzia o seu veículo automotor com capacidade psicomotora alterada em razão da influência de álcool, deve ser mantida a sua condenação.
+II - A condução de veículo automotor com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência viola o bem jurídico tutelado pela norma que o proíbe, revestindo-se, pois, de lesividade a conduta.
+III - Fixada a pena de forma escorreita, não há se falar em sua redução.
+IV - A reincidência do réu impede o abrandamento do regime prisional e a substituição da pena privativa de liberdade por restritiva de direitos.
+V.V.
+APELAÇÃO CRIMINAL - CÓDIGO DE TRÂNSITO BRASILEIRO - EMBRIAGUEZ AO VOLANTE - AUSÊNCIA DE HABILITAÇÃO OU PERMISSÃO PARA DIRIGIR - RÉU REINCIDENTE - SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS - POSSIBILIDADE - INTELIGÊNCIA DO ART. 44, §3ºDO CÓDIGO PENAL. Ainda que seja reincidente o réu, é possível a substituição da pena privativa do liberdade por restritiva de direitos, quando, no caso em questão a medida seja socialmente recomendável e a reincidência não seja em razão do cometimento do mesmo crime." (fl. 169).
+Embargos infringentes opostos pela Defesa para fazer prevalecer o voto divergente que substituía a pena privativa de liberdade por restritiva de direitos foram rejeitados. O acórdão ficou assim ementado:
+"PENAL - EMBARGOS INFRINGENTES - ARTIGO 306 DO CTB - SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS - IMPOSSIBILIDADE - EMBARGOS REJEITADOS. 1. Impossível se encontra a substituição da pena corporal por restritivas de direitos porquanto não preenchidos os requisitos necessários ut artigos 44 do Código Penal. 2. Embargos rejeitados." (fl. 210).
+Agravo regimental interposto contra esse julgado(fls. 217/227) não foi conhecido, por ser incabível (acórdão de fls. 275/279).
+Em sede de recurso especial (fls. 286/295), a Defesa apontainobservância ao art. 44, §§ 2º e 3ºdo Código Penal - CP. Sustenta o cabimento da substituição da pena privativa de liberdade por restritiva de direitos, porque não há reincidência específica e, além disso, já houve decurso temporal em relação ao crime anterior - lesão corporal -, podendo ser considerado primário o recorrente.
+Requer o provimento do recurso para que seja operada a substituição da pena privativa de liberdade por restritiva de direitos.
+Contrarrazões doMINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS- MP (fls. 300/303).
+O recurso especial foi inadmitido no TJ em razão de sua intempestividade (fls. 305/307).
+Em agravo em recurso especial, a Defesa impugnou oreferidoóbice(fls. 310/314).
+Contraminuta do MP (fls. 318/320).
+Os autos vieram a esta Corte, sendo protocolados e distribuídos.
+Petição apresentada às fls. 327/331, em que a Defesa requer o reconhecimento da extinção da punibilidade pelo advento da prescrição da pretensão punitiva.
+Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo não conhecimento do agravo, pelo seu não provimento, pelo não conhecimento da alegação de prescrição epela não ocorrência desse lapso temporal (fls. 338/344).
+É o relatório.
+Decido.
+O agravo em recurso especial não merece ser conhecido.
+Com efeito, é firme nesta Corte o entendimento de que a interposição derecurso manifestamente incabível ou intempestivo não suspende ouinterrompe o prazo para apresentação de outros recursos.Nesse sentido, os seguintes julgados (grifos nossos):
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. Considerando o caráter manifestamente infringente, e em face do princípio da fungibilidade recursal, recebem-se os embargos de declaração como agravo regimental.
+2. Consoante consignado na decisão agravada, a Sexta Turma ao julgar o agravo regimental não conheceu do recurso, aplicando a Súmula 182/STJ, razão pela qual, nos termos da jurisprudência desta Corte, "o recurso manifestamente incabível, intempestivo ou inexistente não suspende nem interrompe o prazo para a interposição de recurso adequado". (AgRg no RE nos EDcl no REsp 1.534.058/RS, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 3/5/2017, DJe 10/5/2017).
+3. Hipótese em que se verifica a intempestividade dos presentes embargos opostos em 21 de novembro de 2016, uma vez que publicada a decisão dos embargos de declaração em 3 de fevereiro de 2016, o prazo para os embargos de divergência (15 dias) encerrou-se em 18 de fevereiro de 2016.
+4. Agravo regimental não provido (EDcl nos EAREsp 794.946/SP, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, DJe 1º/8/2018).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO REGIMENTALINTERPOSTO NA ORIGEM CONTRA DECISÃO COLEGIADA. RECURSO INCABÍVEL. NÃOINTERRUPÇÃO DO PRAZO RECURSAL. RECURSO ESPECIAL INTEMPESTIVO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que ainterposição de recurso manifestamente incabível não interrompe oususpende o prazo para a interposição do recurso próprio.
+2. No presente caso, o recurso especial é intempestivo.É que a parterecorrente interpôs agravo regimental, que fora considerado incabível,porquanto apresentado contra o acórdão proferido por órgão colegiado.Conclui-se assim que não se verificou a interrupção do prazo recursal. Comefeito, publicado o acórdão de julgamento dos embargos de declaração em26/03/2012, a parte recorrente interpôs o recurso especial apenas em15/10/2012, sendo, dessa forma, intempestivo.
+3. Agravo regimental não provido (AgRg no AREsp 358.176/GO, Rel. MinistroREYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 01/02/2016).
+No caso, por não ter sido conhecido o agravo regimental interposto contra a decisão colegiada que rejeitou os embargos infringentes, por ser incabível, cujo acórdão foi publicado em 07/10/2019 (certidão de fl. 215), não ocorreu a suspensão/interrupção doprazo para a interposição de outros recursos. Portanto, constata-se aextemporaneidade do apelo nobre interposto somente em 16/10/2020,bem como, em consequência, do presente agravo em recurso especial.
+De outra parte, sobre a apontada prescrição, objeto da petição de fls. 327/331, por se tratar de matéria de ordem pública, cognoscível de ofício, passo à sua análise.
+São os seguintes os marcos prescricionais no caso concreto:
+Fato criminoso praticado em 22/08/2015(fls.1/2); recebimento da denúncia em 09/11/2015 (fl. 47); publicação da sentença condenatória em 27/07/2018, condenando o agravante à pena de7 meses de detenção(fls. 117/122); publicação do acórdão confirmatório da condenação em 04/02/2019 e publicação do acórdão que julgou os embargos infringentes em 07/10/2019 (fl. 215).
+Vê-se, assim, que decorreu, desde o último marco interruptivo da prescrição (07/10/2019) até a presente data, o lapso de 3 anos (art. 109, VI, do CP), sendo forçoso o reconhecimento da prescrição da pretensão punitiva quanto ao crime imputado ao agravante.
+Ante o exposto, com fundamento no art. 932, inc. III, do Código de Processo Civil - CPC, e no art. 253, I, do Regimento Interno do STJ - RISTJ, não conheço do agravo em recurso especial. Reconheço, de ofício, a prescrição da pretensão punitiva do agravante quanto ao crime disposto noart. 306, caput, da Lei n. 9.503/1997, nos termos da fundamentação acima exarada.
+Comunique-se ao Juiz singular e ao Tribunal de Justiça do Estado de Minas Gerais.
+Publique-se. Intimem-se.
