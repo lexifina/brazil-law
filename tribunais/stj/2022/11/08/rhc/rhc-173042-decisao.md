@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por RAPHAEL AUGUSTO DIOGO BALICO LISSE, contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (HC 2075265-08.2022.8.26.0000).
+Colhe-se dos autos que o recorrente teve a prisão preventiva decretada, pela suposta prática do delito tipificado no art. 121, § 2º, IV, e § 4º (três vezes), c/c o art. 14, II, ambos do Código Penal.
+A defesa impetrou prévio writ perante o Tribunal de origem, que denegou a ordem, conforme a seguinte ementa:
+"Habeas corpus. Tentativa de homicídio qualificado por quatro vezes. Direção perigosa. Pretendida revogação da prisão preventiva. Inadmissibilidade. Presença dos motivos que a ensejam (art. 312 do CPP). Nítido risco de reiteração delitiva. Necessidade da custódia cautelar para garantia da ordem pública. Decisão bem fundamentada. Paciente pronunciado a júri por tentativa de homicídio no transcorrer do writ. Indícios de que os policiais militares que atenderam a ocorrência não teriam cumprido dever legal de, após receber alta, conduzir o paciente à Delegacia. Constrangimento ilegal inexistente. Ordem denegada, recomendando-se ao juízo de origem que se cobre resposta dos ofícios expedidos ao Ministério Público e Corregedoria da Polícia Militar." (e-STJ, fl. 77)
+Nesta Corte, a defesa sustenta, em síntese, a existência de constrangimento ilegal, decorrente da ausência de fundamentação idônea para a manutenção da segregação cautelar, por não estarem presentes os requisitos legais autorizadores, previstos no art. 312 do CPP.
+Aduz que foram utilizados argumentos genéricos, baseados unicamente na gravidade abstrata do delito.
+Salienta que o recorrente é primário, de bons antecedentes, com emprego lícito e residência fixa no distrito da culpa.
+Pontua que é suficiente a imposição de medidas cautelares diversas.
+Requer a concessão da ordem, inclusive liminarmente, para revogar a custódia preventiva. Subsidiariamente, pugna pela substituição da constrição por medidas alternativas previstas no art. 319 do Código de Processo Penal.
+É o relatório.
+Decido.
+É manifesta a perda superveniente do objeto deste recurso, pois, em consulta ao sítio eletrônico do Tribunal de origem (Ação Penal n. 1500251-90.2022.8.26.0189), verifica-se que, em 07/10/2022, a prisão preventiva imposta ao recorrente foi substituída por medidas cautelares diversas, com a consequente expedição de alvará de soltura, nos seguintes termos:
+"Considerando que o Tribunal de Justiça do Estado de São Paulo acolheu ao recurso em sentido estrito interposto pelo réu para desclassificar a imputação de quatro crimes de homicídio doloso tentados para homicídios culposos na direção de veículo automotor, a tornar desproporcional a cautela prisional, concedo ao réu sua liberdade provisória mediante cumprimento das seguintes condições: a) proibição de frequentar bares e locais que sirvam bebida alcoólica no balcão; b) recolhimento domiciliar noturno entre às 20h de um dia e às 6h do dia seguinte; c) suspensão da habilitação; d) dever de comparecimento pessoal a todos os atos do processo; d) não mudar de número telefone ou endereço sem prévia comunicação do Juízo".
+Ante o exposto, julgo prejudicado este recurso em habeas corpus, nos termos do art. 34, XI, do RISTJ.
+Publique-se. Intimem-se.
