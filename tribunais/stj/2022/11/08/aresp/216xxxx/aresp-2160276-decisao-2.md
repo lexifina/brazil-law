@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por REJANE BEATRIZ MENDES RODRIGUEScontra decisão que inadmitiu recurso especial com fundamento naSúmulan. 7do STJ.
+Alega a agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação n. 5005536-02.2019.8.21.3001), nos autos de ação de indenização por dano moral.
+O julgado foi assim ementado (fl. 155):
+RESPONSABILIDADE CIVIL. INDENIZAÇÃO. CADASTRO DEINADIMPLENTES. INSCRIÇÃO. COMUNICAÇÃO PRÉVIA. DANO MORAL
+A comunicação ao consumidor sobre a inscrição de seu nome nos registros de proteção ao crédito é obrigação do órgão responsável pela manutenção do cadastro, isto é do arquivista, e não do credor, que apenas informa a existência da dívida. Aplicação do §2º, art. 43, do CDC.
+O consumidor tem o direito de ser notificado a respeito da inclusão de seu nome em cadastro de inadimplentes. Na espécie, a parte demandada não comprovou o envio da notificação ao consumidor.
+Redução do quantum fixado.
+Honorários mantidos.
+Apelo da ré provido em parte.
+Apelo da autora não provido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a ora agravante aponta, além de dissídio jurisprudencial, violaçãodoart.6º,VI,do CDC. Alega que o valor arbitrado a título de indenização por danos morais é irrisório.
+Requer o provimento do recurso para que seja majorado o quantumindenizatório.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Ainda que o quantum indenizatório fixado na instância ordinária submeta-se ao controle do Superior Tribunal de Justiça, tal providência somente é necessária na hipótese em que o valor da condenação seja irrisório ou exorbitante, distanciando-se, assim, das finalidades legais e da devida prestação jurisdicional no caso concreto.
+Na espécie, a instância ordinária, apreciando o conjunto fático-probatório dos autos, concluiu que, na fixação do quantum indenizatório em R$ 1.500,00, houve moderação, visto que não concorreu para o enriquecimento indevido da consumidora e porque foi observada a proporcionalidade entre a gravidade da ofensa, o grau de culpa e o porte socioeconômico do causador do dano. Confiram-se trechos do julgado (fls. 153-154):
+Assim, cabível o cancelamento do registro efetuado sem a prévia notificação, conforme postulado pela parte autora e determinado em sentença, com a ressalva de que, cumprida a determinação do art. 43, § 2º, do CDC e, não impugnada a anotação, nada impede que a ré proceda a novos cadastramentos.
+O Egrégio Superior Tribunal de Justiça, à vista da conhecida ausência de critério legal orientador para a fixação do quantum indenizatório, assentou a necessidade de observância dos princípios da razoabilidade e da proporcionalidade (REsp 521.434/TO, Rel. Ministra DENISE ARRUDA, PRIMEIRA TURMA, julgado em 04.04.2006, DJ 08.06.2006 p. 120).
+Conforme conhecida lição de Caio Mário da Silva Pereira:
+ ..
+No caso dos autos, observadas as condições da parte, que litiga sob o pálio da gratuidade da justiça; da agressora; a reprovabilidade da conduta desta que, sem observar o disposto no art. 43, § 2º, do CDC, incluiu o nome do demandante em seu banco de dados; o caráter coercitivo e pedagógico da indenização; os princípios da proporcionalidade e razoabilidade; e, especialmente, os parâmetros comumente adotados por esta Câmara e pelo c. STJ em situações análogas, não se olvidando, ainda, que a reparação não pode servir de causa ao enriquecimento injustificado, reduzo o valor da indenização para R$ 1.500,00 mantidos os consectários.
+Assim, uma vez não demonstrada excepcionalidade capaz de ensejar revisão pelo STJ, o conhecimento do recurso especial implicaria reexame de questões fático-probatórias presentes nos autos, o que é inviável, conforme o enunciado da Súmula n. 7 desta Corte.
+Nesse sentido, confiram-se:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DANO MORAL. INSCRIÇÃO EM CADASTROS DE INADIMPLÊNCIA. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. VALOR. INEXISTÊNCIA DE IRRISÃO.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, firmada sob a sistemática dos recursos repetitivos "A ausência de prévia comunicação ao consumidor da inscrição do seu nome em cadastros de proteção ao crédito, prevista no art. 43 , § 2º do CDC, enseja o direito à compensação por danos morais, salvo quando preexista inscrição desabonadora regularmente realizada" (REsp 1.061.134/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe 1º. 4.2009).
+2. Admite a jurisprudência do Superior Tribunal de Justiça, excepcionalmente, em recurso especial, reexaminar o valor fixado a título de indenização por danos morais, quando ínfimo ou exagerado.
+Hipótese, todavia, em que o valor foi estabelecido na instância ordinária, atendendo às circunstâncias de fato da causa, de forma condizente com os princípios da proporcionalidade e razoabilidade.Precedentes.
+3. Agravo interno a que se nega provimento.(AgInt no AREsp n. 1.224.715/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 25/11/2021, destaquei.)(Indenização por dano moral: R$ 1.000,00).
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CADASTRO DE INADIMPLENTES. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. TESE FIRMADA SOB A SISTEMÁTICA DOS RECURSOS REPETITIVOS. DANOS MORAIS RECONHECIDOS NA ORIGEM. INCIDÊNCIA DA SÚMULA 83/STJ. VALOR DA INDENIZAÇÃO RAZOÁVEL E PROPORCIONAL. MODIFICAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Conforme a jurisprudência do Superior Tribunal de Justiça, firmada sob a sistemática dos recursos repetitivos "A ausência de prévia comunicação ao consumidor da inscrição do seu nome em cadastros de proteção ao crédito, prevista no art. 43 , §2º do CDC, enseja o direito à compensação por danos morais, salvo quando preexista inscrição desabonadora regularmente realizada" (REsp 1.061.134/RS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe 1.4.2009).
+2. "O STJ firmou entendimento de ser incabível o reexame do valor fixado a título de danos morais com base em divergência jurisprudencial, pois, ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto" (AgInt no AREsp 1.141.438/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 1.3.2018).
+3. Agravo interno a que se nega provimento.(AgInt no AREsp n. 1.301.298/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma,DJe de 8/4/2019.) (Indenização por dano moral: R$ 2.000,00).
+Quanto à divergência jurisprudencial, verifica-se a impossibilidade de estabelecer juízo de valor acerca da semelhança dos pressupostos fáticos dos acórdãos confrontados, pois, tratando-se de dano moral, cada caso tem peculiaridades próprias - circunstâncias em que o fato ocorreu, condições do ofensor e do ofendido, grau de repercussão do fato no âmbito moral da vítima -, as quais determinam a aplicação do direito à espécie.
+Dessa forma, ainda que haja grande semelhança nas características externas e objetivas, os acórdãos, no aspecto subjetivo, são distintos, tornando incabível a análise do recurso com base no dissídio. Confira-se precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DECLARATÓRIA CUMULADA COM PEDIDO INDENIZATÓRIO. INSCRIÇÃO INDEVIDA. CADASTRO DE INADIMPLENTES. DANO MORAL IN RE IPSA. SÚMULA N. 83/STJ. VALOR DA INDENIZAÇÃO. REVISÃO. DESCONSTITUIÇÃO QUE REQUER O REEXAME DE FATOS E DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS SUCUMBENCIAIS, OBSERVADOS OS LIMITES LEGAIS. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência sedimentada desta Casa firmou entendimento no sentido que a inscrição indevida em cadastro negativo de crédito caracteriza, por si só, dano in re ipsa, o que implica responsabilização por danos morais. Súmula n. 83 do STJ.
+2. De acordo com o entendimento do Superior Tribunal de Justiça, "a revisão de indenização por danos morais só é viável em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo" (AgRg no AREsp n. 453.912/MS, Relator o Ministro João Otávio de Noronha, DJe de 25/8/2014). Caso contrário, incide o óbice previsto no enunciado n. 7 da Súmula desta Casa.
+3. Não se mostra excessiva a majoração dos honorários sucumbenciais realizada na forma prevista no art. 85, § 11, do CPC/2015, observados os limites ali fixados.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp n. 1.284.741/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma,DJe de 28/8/2018.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Por fim, nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da agravante, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
