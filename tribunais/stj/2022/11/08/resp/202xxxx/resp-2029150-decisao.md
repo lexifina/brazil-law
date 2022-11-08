@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por FABRÍCIA VANESSA SILVEIRA RAMOS MOREIRA, com fundamento no art. 105, inciso III, alínea"a", da Constituição da República, contra o acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. CREA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REJEITADA. ELABORAÇÃO DE PCMAT. ATRIBUIÇÃO DE ENGENHEIRO DE SEGURANÇA DO TRABALHO.
+A elaboração do Programa de Condições e Meio Ambiente de Trabalho na Indústria da Construção é restrita aos Engenheiros de Segurança do Trabalho.
+Nas razões do especial alega violação aos arts. 5º, XIII, da Constituição da República, 3º, da Lei nº 7.410/85, e 159, da CLT.
+Em síntese, aduz que é livre o exercício de qualquer trabalho, ofício ou profissão, atendidas as qualificações profissionais que a lei estabelecer, e que o exercício da atividade desenvolvida pela recorrente, é necessário certificação técnica em Segurança do trabalho, bem como o registro perante o Ministério do Trabalho, de modo queas providências tomadas pelo Conselho Regional de Engenharia e Agronomia vão de encontro ao art. 3º da Lei nº 7.410/85, que regulamenta a atividade do técnico em segurança do trabalho, bem como ao princípio constitucional do livre exercício da profissão.
+Alega quesomente mediante convênio autorizado pelo Ministério do Trabalho, poderão ser delegadas a outros órgãos federais, estaduais ou municipais atribuições de fiscalização ou orientação às empresas quanto ao cumprimento das disposições gerais constantes na CLT, sendo portanto, o CREA/PR,parte totalmente ilegítima para fiscalizar a atividade desenvolvida pela recorrente, e, consequentemente, nulo também é o auto de infração que resultou na presente execução.
+Por fim, afirma quenão assiste fundamento a cobrança de multa, anuidade ou quaisquer encargos cobrados pelorecorrido, haja vista a inexistência de relação jurídica e vínculo entre as partes, ou seja, claro caso de ilegitimidade da recorrida exercer o poder de polícia sobre os atos praticados pela recorrente.
+Admitido o feito na origem, os autos ascenderam a esta Corte de Justiça.
+É o relatório.
+Passo a decidir.
+A pretensão não merece acolhida.
+Inicialmente, quanto à ofensa ao artigo 5º, XIII, da CF/88- considerando o disposto na alínea "a" do inciso III do artigo 102 da Constituição Federal, deve ser ressaltado que o Superior Tribunal de Justiça não é competente para, em sede de recurso especial, manifestar-se sobre suposta violação de dispositivo constitucional sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, ART. 535, II, DOCPC. EMBARGOS À EXECUÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ.OFENSA A DISPOSITIVOS CONSTITUCIONAIS. COMPETÊNCIA DO STF. .. 3. É importante registrar a inviabilidade de o STJ apreciar ofensa aosartigos da Carta Magna, uma vez que compete exclusivamente ao SupremoTribunal Federal o exame de violação a dispositivo da Constituição daRepública, nos termos do seu art. 102, III, "a". .. 5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.(REsp 1525915/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em21/05/2015, DJe 30/06/2015)
+Quanto à suposta ofensa aos arts. 3º, da Lei nº 7.410/85, e 159, da CLT, sob o argumento de queinexisterelação jurídica e vínculo entre as partes, ou seja, o recorrido é parte ilegítima de exercer poder de polícia sobre os atos praticados pela recorrente, verifica-se que os seus comandos normativos bem como a referida tese recursal não foram debatidos ou apreciados pelo Tribunal de origem, estando desatendido o requisito do prequestionamento,não comportando exame no âmbito desta Corte de Justiça, nos termos das Súmulas 282/STF e 356/STF, respectivamente: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"; "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Registre-se que arecorrentes não opôsembargos de declaração com o fim de obter um pronunciamento pelo Tribunal a quo a respeito da questão.
+Efetivamente, para a configuração do questionamento prévio não é necessário que o Tribunal de origem mencione expressamente o dispositivo infraconstitucional tido como violado. Todavia, é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não-preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso especial. Tal medida se justifica pelo simples fato de que não poderia o Tribunal de origem ter contrariado lei quanto a matéria que sequer tratou.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. VEDAÇÃO. AGRAVO INTERNO NÃO PROVIDO. TARIFA PROGRESSIVA. FALTA DE PREQUESTIONAMENTO. DANO MORAL. NÃO OCORRÊNCIA E VALOR INDENIZATÓRIO. SÚMULA 7/STJ.
+1. É vedada a inovação recursal, seja em sede de agravo regimental, seja em embargos de declaração, ante a preclusão consumativa. Precedente: AgRg no AREsp 247.288/PE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 24/5/2013, AgRg no AREsp 304.572/AL, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2013.
+2. Não é possível o conhecimento de recurso em relação à questão que não foi tratada no acórdão recorrido ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF).
+3. A análise da tese recursal relativa à ausência de dano moral e ao quantum indenizatório esbarra na impossibilidade de incursão na seara probatória na via especial, conforme disposto na Súmula 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1456933/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 04/04/2017, DJe 11/04/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IPTU.
+DISPOSITIVO APONTADO COMO VIOLADO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. DISCUSSÃO ACERCA DA INCLUSÃO DA ÁREA COMO URBANIZÁVEL OU DE EXPANSÃO URBANA. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ.
+1. O recurso especial não merece ser conhecido em relação a questão que não foi tratada no acórdão recorrido, sobre a qual nem sequer foram apresentados embargos de declaração, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356 do STF, por analogia).
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo interno não provido.
+(AgRg no AgRg no REsp 1580776/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 26/04/2016, DJe 03/05/2016)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. RECURSO ESPECIAL. CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO PARANÁ. EXECUÇÃO FISCAL.ELABORAÇÃO DE PCMAT. ATRIBUIÇÃO DE ENGENHEIRO DE SEGURANÇA DO TRABALHO.IMPOSSIBILIDADE DE ANÁLISE DE VIOLAÇÃO DE NORMASCONSTITUCIONAIS EM SEDE DE RECURSO ESPECIAL. TESE DE ILEGITIMIDADEDO CONSELHO EM FISCALIZAR AS ATIVIDADES DO TÉCNICO EM SEGURANÇA DO TRABALHO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
