@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por RODRIGO ARANHA PEREIRA DE CASTILHO (RODRIGO), com fundamento no art. 105, III, alíneaa, da CF, contra acórdão proferido pelo Tribunal de Justiçado Paraná, daassim ementado:
+AGRAVO DE INSTRUMENTO. MEDIDA CAUTELAR DE ARRESTO.BLOQUEIO DO VALOR DE R$ 600,35. INSURGÊNCIA CONTRA A DECISÃO QUE DETERMINOU O BLOQUEIO DOS VALORES CONTIDOS NA CONTA DO AGRAVANTE. DESPROVIMENTO.AUSENTE CARACTERIZAÇÃO DE CONTA POUPANÇA. A IMPENHORABILIDADE DOS VALORES CONTIDOS EM CONTA POUPANÇA ATÉ O VALOR DE 40 SALÁRIOS MÍNIMOS É RELATIVIZADA. PRECEDENTES DESTA CÂMARA. RECURSO CONHECIDO E DESPROVIDO(e-STJ, fl. 65).
+Inconformado, RODRIGO interpôs recurso especial com fundamento naalíneaado permissivo constitucional, apontando a violação dos arts. 833, X e § 2º, e 854, § 3º, I, do CPC,sustentando queo valor bloqueado é menor que 40 salários-mínimos, e a impenhorabilidade é garantida independente do tipo de conta e se os valores são oriundos ou não de vencimentos ou de salários, bem como se são destinados a reserva financeira.
+O apelo nobre foi admitido pelo Tribunal paranaense(e-STJ, fls. 99/101).
+É o relatório.
+DECIDO.
+A insurgênciamerece prosperar.
+Da impenhorabilidade
+RODRIGO sustentou queo valor bloqueado é menor que 40 salários-mínimos, e a impenhorabilidade é garantida independente do tipo de conta e se os valores são oriundos ou não de vencimentos ou de salários, bem como se são destinados a reserva financeira.
+Contudo, o TJPRreputou penhorável a quantia inferior a 40 salários mínimos, pois a conta não se destina para fins de reserva financeira.
+Confira-se:
+Como se sabe, a finalidade da proteção legal prevista no artigo, inciso X do CPC é a de  1  assegurar o mínimo existencial para que o devedor possa, a despeito das dívidas recaem sobre ele, ter uma vida digna com a sua família.
+Nessa ordem de ideias, o que o legislador acautelou com a previsão de impenhorabilidade ora analisada é a reserva de subsistência familiar do devedor e não qualquer valor indistintamente obtido por ele e destinado a qualquer fim.
+Assim, para que os valores de até 40 salários mínimos depositados em conta poupança sejam impenhoráveis, é necessário que eles se destinem a uma reserva financeira, o que não acontece no caso em testilha.
+Conforme sustentado pelo M.M. Juiz, não há qualquer indicio de que os valores bloqueados a quo através do sistema BACENJUD são oriundos de conta poupança, conforme fácil constatação da seq.216.2, também, salienta-se que o tempo decorrido entre o bloqueio dos valores até o momento da objeção é significativamente grande (cerca de 01 ano e 02 meses). Portanto, apesar de não definida a espécie da conta, mesmo que esta seja classificada como poupança, possui o desvirtuamento de sua natureza, o que gera a possibilidade de penhora(e-STJ, fls. 66/67- sem destaque no original).
+Nesse contexto, o acórdão recorrido encontra-se em desconformidade com a orientação firmada por esta egrégia Corte Superior no sentido de que é impenhorável a quantia até 40 salários mínimos poupados ou mantidos pelo devedorem conta corrente ou em outras aplicações financeiras, ressalvada a comprovação de má-fé, abuso de direito ou fraude, o que não foi demonstrado nos autos.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. TESE DE OFENSA AO ART. 10 DO CPC/2015. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. VERBA SALARIAL. COMPROMETIMENTO DA SUBSISTÊNCIA DA PARTE DEVEDORA. IMPOSSIBILIDADE DE CONSTRIÇÃO. SALDO EM CONTA-CORRENTE. MONTANTE INFERIOR A 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. ALEGAÇÃO DE OMISSÃO NA DECISÃO MONOCRÁTICA. VIA IMPRÓPRIA. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. Nas razões do apelo especial, a ora insurgente não impugnou um dos fundamentos da decisão estadual que rechaçou a tese de ofensa ao art. 10 do CPC/2015, o que atrai a incidência do verbete sumular n. 283 da Suprema Corte.
+2. Segundo entendimento jurisprudencial desta Corte Superior, é vedada a penhora de valores decorrentes de remuneração ou proventos do executado quando a constrição acarretar a inviabilidade da subsistência do devedor.
+3. A proteção conferida pela regra da impenhorabilidade abrange todos os valores depositados em conta-corrente, poupança ou outras aplicações financeiras.
+4. Ao contrário do que alega, a parte fundamentou o apelo especial também no inciso X do art. 833 do CPC/2015. Ainda que assim não fosse, tem-se que a deliberação unipessoal é clara no sentido de afastar não apenas a possibilidade de penhora de valores contidos em poupança, mas também de verbas salariais mantidas em conta-corrente, como pretende a ora recorrente.
+5. Consoante a jurisprudência desta Corte, o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015.
+6. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+(AgInt no AREsp 1.765.059/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 06/12/2021, DJe 09/12/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. IMPENHORABILIDADE DE 40 SALÁRIOS MÍNIMOS. ABRANGÊNCIA DE OUTRAS APLICAÇÕES FINANCEIRAS. CONSONÂNCIA DO ACÓRDÃO ESTADUAL COM A ORIENTAÇÃO DESTE SODALÍCIO. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO PARA, EM NOVO EXAME, CONHECER DO AGRAVO E DESPROVER O RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão - exarada na eg. Instância a quo - que inadmitiu o apelo nobre. Novo exame do feito.
+2. "O valor obtido a título de indenização trabalhista, após longo período depositado em fundo de investimento, perde a característica de verba salarial impenhorável (inciso IV do art. 649). Reveste-se, todavia, de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel-moeda; em conta-corrente; aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, e ressalvado eventual abuso, má-fé, ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento (inciso X do art. 649)" (REsp 1.230.060/PR, Rel. Ministra Maria Isabel Gallotti, Segunda Seção, julgado em 13/08/2014, DJe de 29/08/2014).
+3. Estando o acórdão estadual em consonância com a jurisprudência do STJ, o apelo nobre encontra óbice na Súmula 83, aplicável tanto ao recurso especial pela alínea a como pela alínea c do permissivo constitucional.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1.717.962/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. em 08/02/2021, DJe 23/02/2021).
+Nessas condições,DOUPROVIMENTOao recurso especial para afastar a penhora em comento incidente sobre os valores depositados nacontabancáriade RODRIGO, nos termos supracitados.
+Inaplicável a majoração dos honorários recursais.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXECUÇÃO. PENHORA DE SALDO EM CONTA POUPANÇA. QUANTIA INFERIOR A QUARENTA SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
