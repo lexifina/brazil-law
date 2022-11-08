@@ -1,0 +1,50 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182 do STJ.
+2. Na hipótese, o agravante deixou de refutar especificamente os fundamentos de inadmissão do recurso especial (in casu, Súmulas 7 e 83 do STJ), incidindo, portanto, o óbice da Súmula 182 do STJ.
+3. "Segundo entendimento desta Corte Superior, " a  alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade." (REsp 1.439.866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 06/05/2014)." (AgRg no AREsp n. 2.100.406/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022).
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por ADELMO DE ANDRADE DOS SANTOS (e-STJ, fls. 3859-3871) contra decisão de minha relatoria, que não conheceu do agravo em recurso especial (e-STJ, fls. 3854-3855).
+O agravante sustenta que "o objeto do presente Recurso Especial visa o reconhecimento de nulidades absolutas e, subsidiariamente, a violação ao sistema trifásico de aplicação da pena, sendo que ambas irresignações se referem a matéria de ordem pública e que podem ser arguidas a qualquer tempo e qualquer grau de jurisdição, inclusive podendo ser reconhecidas de oficio, restando, portanto, prejudicados os impeditivos sumulados" (e-STJ, fl. 3861).
+Reitera as razões do recurso especial e requer, por fim, a reconsideração da decisão agravada ou a submissão do agravo ao crivo deste órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182 do STJ.
+2. Na hipótese, o agravante deixou de refutar especificamente os fundamentos de inadmissão do recurso especial (in casu, Súmulas 7 e 83 do STJ), incidindo, portanto, o óbice da Súmula 182 do STJ.
+3. "Segundo entendimento desta Corte Superior, " a  alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade." (REsp 1.439.866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 06/05/2014)." (AgRg no AREsp n. 2.100.406/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022).
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A irresignação não merece guarida.
+Observa-se que o agravante não trouxe argumentos suficientemente capazes de infirmar o decisum agravado, motivo pelo qual o mantenho por seus próprios fundamentos, os quais restaram assim consignados (e-STJ, fl. 3855):
+"A irresignação não merece conhecimento.
+Conforme constante da decisão agravada, rever o posicionamento do acórdão objurgado implicaria, necessariamente, reexame do contexto fático-probatório dos autos, incidindo, portanto, os óbices das Súmulas 7 e 83 do STJ.
+Por outro lado, o recorrente não impugnou a contento os referidos fundamentos, pois, como bem ponderou o Ministério Público Federal em seu parecer, "a defesa limitou-se a reiterar os mesmos fundamentos já expostos no recurso especial que não foi admitido e asseverar que a Súmula 83/STJ incidiria tão somente nos recursos especiais interpostos com base na alínea c do permissivo constitucional" (e-STJ, fl. 3846).
+Com isso, é inafastável a aplicação do impeditivo da Súmula 182 deste Superior Tribunal ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada"). Nesse sentido, confiram-se os seguintes precedentes: AgRg nos EREsp 1.387.734/RJ, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp 402.929/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, DJe de 27/8/2014.
+Anote-se, ainda, que o Código de Processo Civil de 2015, em seu art. 932, reafirmou a orientação do STJ, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Ademais, tem-se que: "A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada" (AgInt no REsp 1.600.403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/8/2016, DJe 31/8/2016).
+Acrescenta-se que, no julgamento do EAREsp 746.775 (DJe 30/11/2018), a Corte Especial do STJ manteve o entendimento da necessidade de impugnação específica de todos os fundamentos da decisão agravada, sob pena de incidência da Súmula 182/STJ.
+Ressalte-se, por fim, que esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016, grifou-se), o que não ocorreu no caso destes autos. Caberia, dessa forma, ao agravante impugnar tal fundamento, trazendo precedentes contemporâneos ou supervenientes a seu favor."
+Dessarte, alegação genérica não supre, evidentemente, a exigência de impugnação da decisão denegatória, na medida em que é imprescindível demonstrar, de forma clara e objetiva, com o devido desenvolvimento argumentativo, o desacerto da decisão agravada, em relação a cada um de seus fundamentos.
+Noutro giro, "Segundo entendimento desta Corte Superior, " a  alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade." (REsp 1.439.866/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/04/2014, DJe 06/05/2014)." (AgRg no AREsp n. 2.100.406/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022).
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA N. 182 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DO TRIBUNAL A QUO. AGRAVO REGIMENTAL NÃO PROVIDO. VERIFICADO ERRO MATERIAL NA DOSIMETRIA. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. Mantém-se a aplicação da Súmula n. 182 do STJ quando não houve impugnação específica de todos os fundamentos da decisão agravada.
+2. A jurisprudência deste Superior Tribunal é firme em assinalar que a parte deve refutar efetiva e pormenorizadamente os fundamentos da decisão cuja reforma é pretendida. Não bastam alegações genéricas para a observância do princípio da dialeticidade.
+3. A afirmação de que reclamos criminais versam sobre matérias de ordem pública não traduz fórmula que obrigaria as Cortes Superiores a se manifestarem sobre temas em relação aos quais o recurso especial não preenche os pressupostos de admissibilidade.
+4. No caso dos autos, por iniciativa do órgão julgador, impõe-se a concessão de habeas corpus de ofício para correção de erro material no cálculo da dosimetria da pena.
+5. Agravo regimental não provido. Concessão de habeas corpus, de ofício, em que se redimensiona a reprimenda."
+(AgRg no AREsp n. 1.889.310/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 19/4/2022, DJe de 25/4/2022.)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME CONTRA O PATRIMÔNIO. DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 83 DO STJ. NÃO IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. MANUTENÇÃO DA SÚMULA N. 182 DO STJ. MATÉRIAS DE ORDEM PÚBLICA. AUSÊNCIA DOS PRESSUPOSTOS DE ADMISSIBILIDADE. APRECIAÇÃO. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Mantém-se a aplicação analógica da Súmula n. 182 do STJ quando não há impugnação efetiva, individualizada, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+2. Para impugnar a incidência da Súmula n. 83 do STJ, o agravante deve demonstrar que os precedentes indicados na decisão agravada são inaplicáveis ao caso ou deve colacionar precedentes contemporâneos ou supervenientes aos indicados na decisão para comprovar que outro é o entendimento jurisprudencial do STJ.
+3. "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (Resp n. 1.439.866/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe 06/05/2014).
+4. Agravo regimental desprovido."
+(AgRg no AREsp n. 1.904.669/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 16/11/2021, DJe de 22/11/2021.)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
