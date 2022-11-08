@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por Richardson Verissimo, com fundamento na alínea ado permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça de São Paulo no Recurso em Sentido Estrito n. 0004121-88.2021.8.26.0405, assim ementado(fl. 300):
+Recurso em sentido estrito Estelionato Sentença declarando extinta a punibilidade com fundamento no artigo 107, inciso IV, do Código Penal e artigos 38, parágrafo único e 61, ambos do Código de Processo Penal. Recurso do Ministério Público que busca a restauração da ordem, determinando-se o prosseguimento do feito, realizando-se os atos necessários até final julgamento. Aduz que a denúncia fora recebida antes da vigência da Lei nº 13.964/19, tratando-se de ato jurídico perfeito. Prosseguimento do feito de rigor Representação não exigível na data dos fatos Entendimentos das Cortes Superiores. Preliminares não acolhimento. Inexistência de excludentes de ilicitude. Preenchimento das elementares do tipo penal. Representação não exigível na data dos fatos. Entendimentos das Cortes Superiores. Acordo de não persecução penal cuja propositura é afeta ao Ministério Público, não sendo cabível quando a ação penal está em curso. Entendimentos de Cortes Superiores. Recurso Ministerial provido.
+No recurso especial, a defesaaponta violação doart.171, § 5º, do Código Penal, sob o argumento de que a exigência de representação no delito de estelionato deve ter aplicação retroativa por se tratar de norma de caráter penal.
+Assevera quea alteração promovida pela Lei n. 13.964/2019, em relação à necessidade de representação, tem natureza penal, pois introduziu no sistema de persecução penal, em favor do acusado, nova hipótese extintiva de punibilidade, qual seja a decadência. Assim, o efeito retroativo da nova disciplina da ação penal para o crime de estelionato é de rigor. Em consequência, mesmo que a denúncia tenha sido oferecida antes da entrada em vigor da lei mencionada(fl. 323).
+Afirma quenão cabe falar em ato jurídico perfeito, já que a determinação constitucional é clara e inequívoca no sentido de que a lei penal não retroagirá, salvo para beneficiar o réu (art. 5º, inciso XL, da Constituição Federal). Portanto, o oferecimento da denúncia, e mesmo o recebimento dela, não impedem a retroatividade da lei penal, lembrando-se, nesse sentido, da disposição contida no Código Penal de que a lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado (art. 2º do Código Penal). Ora, se nem a sentença condenatória com trânsito em julgado impede a retroatividade, os singelos oferecimento e recebimento da denúncia não podem fazê-lo(fl. 323).
+Ressalta que,se o legislador introduziu a necessidade de representação para o ajuizamento da ação penal relativa ao crime de estelionato, ele introduziu uma limitação ao poder de punir, a qual deve ser aplicada a todo e qualquer processo em andamento quando se referir a tal infração(fl. 324).
+Ao final da peça recursal, requer o provimento da insurgência para que a sentença absolutória seja restabelecida, declarando-se a extinção da punibilidade do acusado em função da decadência do direito à representação para fins de persecução penal.
+Oferecidas contrarrazões (fls. 330/335), o recurso especial foi admitido na origem (fl. 338).
+O Ministério Público Federal opina pelo desprovimentoda insurgência (fl. 347):
+PENAL E PROCESSO PENAL. RECURSO ESPECIAL. ESTELIONATO. DESNECESSIDADE DE REPRESENTAÇÃO DA VÍTIMA. IRRETROATIVIDADE DA LEI N. 13.964/2019. DENÚNCIA RECEBIDA EM 2017. PARECER PELO NÃO PROVIMENTO DO RECURSOESPECIAL.
+É o relatório.
+Para elucidação do quanto requerido, doacórdão recorridoextraem-se os seguintes fundamentos (fls. 309/310 - grifo nosso):
+ ..
+Evidenciou-se que esta ação penal foi recebida antes da entrada em vigor do chamado "Pacote Anticrime", sendo, desnecessária a representação da vítima, porque não se trata de condição para prosseguimento da ação penal. Evidenciou-se que, neste caso, o ofendido procurou a Polícia e registrou o boletim de ocorrência, demonstrando total interesse no prosseguimento da ação penal, sendo certo que a representação carece de formalismos. No tocante ao referido acordo de não persecução penal, ainda que fosse cabível nesta fase do processo, é certo que o réu não faria jus à benesse, diante dos registros de antecedentes criminais.
+Com efeito, a representação prescinde de qualquer formalidade e será válida quando for possível deduzir o intento da vítima quanto à vontade de que o agente responda pelos fatos, não dependendo de forma específica.
+ ..
+Entendimentos jurisprudenciais dos C. STF e STJ consolidaram que após o oferecimento da denúncia, desnecessária a manifestação da vítima para prosseguimento de ação penal.
+ ..
+Dessa forma, deve ser provido o recurso Ministerial, determinando-se o prosseguimento do feito, realizando-se os atos necessários até final julgamento.
+ ..
+Observa-sedo trecho acimaque a Corte de origem entendeu que a lei que incluiu o § 5º no art. 171 do Código Penal, a qual passou a exigir a representação da vítima para o inicioda ação penal no crime de estelionato, não pode ser aplicada ao caso concreto, pois a denúncia foi ofertada antes de sua entrada em vigor.
+Com efeito, verifica-se que tal entendimento se coaduna com a jurisprudência desta Corte, a qual está pacificada no sentido de não ser possível a aplicação retroativa da referida norma quando já oferecida a denúncia.
+Nesse sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. SUSTENTAÇÃO ORAL. INVIABILIDADE EM AGRAVO REGIMENTAL. PEDIDO INCIDENTAL. RECONHECIMENTO DA RETROATIVIDADE DA LEI NOVA QUE IMPÔS A NECESSIDADE DE REPRESENTAÇÃO DO OFENDIDO NO ESTELIONATO. DENÚNCIA RECEBIDA EM 2009. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O julgamento do agravo regimental independe de indicação de pauta e não comporta sustentação oral, nos termos dos arts. 159, IV, e 258, caput, ambos do Regimento Interno do Superior Tribunal de Justiça.
+1. A orientação desta Corte, antes divergente, foi pacificada na direção da irretroatividade da norma que instituiu a condição de procedibilidade no delito previsto no art. 171 do Código Penal, quando já oferecida a denúncia.
+2. Agravo regimental não provido.
+(AgRg nos EAREsp n. 1.378.944/RJ,Ministro Rogerio Schietti Cruz, Terceira Seção,DJe19/10/2021 - grifo nosso)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. ESTELIONATO. VIOLAÇÃO DOART. 171, § 5º, DO CP. PLEITO DE APLICAÇÃO RETROATIVA DA EXIGÊNCIA DE REPRESENTAÇÃO DA VÍTIMA. INVIABILIDADE. DENÚNCIA OFERTADA. JURISPRUDÊNCIA DA TERCEIRA SEÇÃO.
+Recurso especial desprovido.
