@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SILVIO DE TOLEDO MORAES, contra decisão que negou seguimento a recurso especial fundamentado, nasalíneas"a" e "c" do permissivo constitucional.
+Agravo em recurso especialinterposto em: 03/06/2022.
+Concluso ao gabinete em: 24/08/2022.
+Ação: rescisão de contrato com indenização por danos materiais e compensação por danos morais, ajuizada por BRUNA MAYARA BARBOSA, em face de SILVIO DE TOLEDO MORAES, com fundamento em contrato de compra e venda de veículo firmado entre as partes.
+Sentença: parcialmente procedente para"rescindir o contrato de compra e venda em relação veículo descrito na inicial e para condenar o réu a indenizar a autora pelos danos materiais no valor de R$ 1.322,00 (mil trezentos e vinte e dois reais), com correção monetária desde o desembolso e juros de mora a contar da citação".(e-STJ fls. 189)
+Acórdão: negou provimento à apelação interposta por SILVIO DE TOLEDO MORAES nos termos da seguinte ementa:
+APELAÇÃO. Compra e venda de veículo usado. Ação de rescisão contratual cumulada com indenização por danos materiais e morais, julgada parcialmente procedente. Recursos do corréu, revel, e adesivo da autora. Impugnação aos benefícios da gratuidade da justiça concedidos ao réu, formulada em preliminar nas contrarrazões do recurso adesivo. Rejeição. Réu que se submeteu à triagem realizada pela Defensoria Pública do Estado de São Paulo, sendo-lhe indicado o advogado que o patrocina na ação. Preenchimento dos requisitos estabelecidos no art. 2º da Deliberação CSDP nº 89/08. Apelação de réu revel. Restrição à análise das questões essencialmente de direito e aquelas sob as quais não se forma preclusão, vedada a apreciação de matérias que envolvam situações que deveriam ter sido deduzidas em sede de contestação, e não em grau de recurso, sob pena de supressão de um grau de jurisdição e violação ao princípio do contraditório e da ampla defesa. Preliminar de nulidade da r. sentença porque não proferida decisão saneadora. Não ocorrência. Necessidade verificada quando não houver motivo para a decretação da extinção da ação com ou sem resolução do mérito, e nem de julgamento antecipado da lide (arts. 354 e 355 do CPC), caso dos autos, pois a parte ré silenciou na fase de especificação de provas. Preliminar rejeitada. Recurso adesivo. Ilegitimidade de parte do banco -réu. Manutenção. Vendedor que não constou como beneficiário do financiamento do automóvel no contrato celebrado entre a autora e a instituição financeira a demonstrar parceria comercial no aperfeiçoamento do negócio. Ausência de vinculação direta à revenda do bem. Precedentes do C. STJ. Inovação recursal quanto à tese do "Desvio Produtivo do Consumidor". Impossibilidade de conhecimento de matéria não debatida em Primeiro Grau, pena de violação ao princípio do contraditório e da ampla defesa, bem assim supressão de um grau de jurisdição. Sentença mantida. RECURSOS PARCIALMENTE CONHECIDOS E, NESSA PARTE, DESPROVIDOS, majorados os honorários advocatícios em mais 5%, com base no art. 85, § 11, do CPC, com a ressalva do art. 98, § 3º, do CPC. (e-STJ fls. 357 - 358)
+Recurso especial: alega violação dos arts. 345, I e 357 do CPC, bem como dissídio jurisprudencial.
+Sustenta que a parte apelante não é uma revendedora, alegando que não deveria ter sido utilizado o CDC e sim o CC.Insurge-se contra o acordãorecorrido alegando que não há nos autos nada que comproveo prejuízo ou a perda de valor do veículo em decorrência das avarias alegadas.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos argumentos referentes aos arts. 345, I e 357 do CPC, indicados como violados, não tendo oagravante oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas
+Ainda que assim não fosse, alterar o decidido no acórdão impugnado, no que se refere a falta de necessidade de dilação probatória e a inovação recursal na hipótese, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelaSúmula7 do STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência.
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor da causa (e-STJ fls. 189 e 365) para 20%, observada aconcessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUALCOM INDENIZAÇÃOPOR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1.Ação de rescisão contratualcom indenização por danos materiais e compensação por danos morais.
+2.A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial.
+3.O reexame de fatos e provasem recurso especial são inadmissíveis.
+4.O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5.Agravo conhecido. Recurso especial não conhecido.
