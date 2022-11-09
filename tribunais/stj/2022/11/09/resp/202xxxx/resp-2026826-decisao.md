@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que deu parcial provimento à apelação da defesa.
+Alega o Ministério Público, ora recorrente, violação ao art. 40, III, da Lei 11.343/2006, ao argumento de que "a majorante do art. 40, III, da Lei 11.343/06 possui natureza objetiva, nãose exigindo que o sujeito ativo do delito almeje especificamente vender a droga aos frequentadores da instituiçãode ensino" (fl. 658).
+Contra-arrazoado e admitido, o Ministério Público Federal manifestou-se pelo provimento do recurso especial.
+O recorrente foi condenado como incurso no art. 33, caput, c/c o art. 40, III e VI, da Lei 11.343/2006, a 2 anos, 2 meses e 20 dias de reclusão, em regime aberto, com substituição.
+Interposta apelação pela defesa, o Tribunal de origem deu-lhe parcial provimento para afastar a causa de aumento prevista no art. 40, III, da Lei 11.343/2006, reduzindo a pena do recorrente para 1 ano, 11 meses e 10 dias de reclusão e 194 dias-multa, pelos seguintes fundamentos (fls. 634-635):
+No caso, apesar da proximidade, não ficou demonstrado, indene de dúvida, que o recorrente buscava atingir os estudantes ou colaboradores da universidade.
+Aliás, tenho para mim que o art. 40, inciso III, da Lei nº 11.343/06, é de péssima redação.
+Isto porque, qual foi a intenção do legislador de se valer da subjetividade para impor um aumento de pena que nem ele se dignou a definir  O que é imediações  Qual a distância que se considera imediações  Dez metros  Cem metros  Mil metros
+É horrível a norma que não traz uma limitação correta para que o aplicador do direito possa utilizá-la, sendo isonômico e coerente na imposição do dispositivo. Não se deve esquecer que o casuísmo é perigoso e injusto.
+Destarte, afasto a mencionada causa de exasperação.
+A jurisprudência desta Corte Superior firmou-seno sentido de que, "para a incidência da causa de aumento de pena prevista no art. 40, inciso III, da Lei n. 11.343/2006 é desnecessária a efetiva comprovação de que o tráfico ocorria nas entidades mencionadas no citado dispositivo legal ou que a mercancia ilícita se destinava aos respectivos frequentadores, bastando apenas que o crime seja cometido nas imediações daqueles locais" (AgRg no HC n. 648.127/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 24/5/2022, DJe de 31/5/2022).
+No entanto, a "razão de ser da causa especial de aumento de pena prevista no inciso III do art. 40 da Lei n. 11.343/2006 é a de punir, com maior rigor, aquele que, nas imediações ou nas dependências dos locais a que se refere o dispositivo, dada a maior aglomeração de pessoas, tem como mais ágil e facilitada a prática do tráfico de drogas (aqui incluído quaisquer dos núcleos previstos no art. 33 da Lei n. 11.343/2006), justamente porque, em localidades como tais, é mais fácil ao traficante passar despercebido à fiscalização policial, além de ser maior o grau de vulnerabilidade das pessoas reunidas em determinados lugares" (AgRg no HC n. 728.750/DF, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/5/2022, DJe de 19/5/2022).
+Apesar de mencionar que o tráfico foi praticado próximo a estabelecimento de ensino, o Tribunala quonão especificou circunstânciasde aglomeração de pessoas, comércio ilícito realizado com frequentadoresou de fiscalização dificultada. Ao contrário, concluiu que "apesar da proximidade, não ficou demonstrado, indene de dúvida, que o recorrente buscava atingir os estudantes ou colaboradores da universidade".
+Portanto, em razão das peculiaridades do caso concreto, deve ser mantida a conclusão do Tribunal de origemnosentido do afastamentoda incidência da referida majorante.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
