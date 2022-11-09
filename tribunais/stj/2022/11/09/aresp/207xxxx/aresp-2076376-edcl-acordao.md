@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de embargos de declaração opostos por CEVENSUL - CENTRAL DE VENDAS DO SUL - COMÉRCIO E REPRESENTAÇÕES - EIRELI, contra acórdão que, por unanimidade, negou provimento ao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA CUMULADA COM INDENIZATÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC.
+1. Ação de cobrança cumulada com indenizatória.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. Agravo interno não provido.
+Em suas razões recursais, a embargante defende que o v. acórdão é omisso, uma vez que há um mal-entendido sobre quem rescindiu o contrato de representação e do decorrente ônus da prova, bem como há omissão quanto à fundamental questão de que na inicial não há pedido e nem mesmo alegação de sucessão empresarial, responsabilização da agropecuária, grupo econômico, desconsideração da personalidade jurídica e/ou confusão patrimonial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. REFORMA DO JULGADO. IMPOSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, essencialmente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de embargos de declaração opostos por CEVENSUL - CENTRAL DE VENDAS DO SUL - COMÉRCIO E REPRESENTAÇÕES - EIRELI, contra acórdão que, por unanimidade, negou provimento ao agravo interno.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+Malgrado o inconformismo da embargante, da leitura dos embargos opostos, conclui-se que razão não lhe assiste, pois o acórdão embargado não padece de omissão como afirma, mas, ao contrário, percebe-se nitidamente que o desejo da embargante é que seja dado provimento aos aclaratórios para que haja uma modificação do julgado.
+Restou clara a análise das razões do agravo interno, que ora se embarga, e os fundamentos apresentados nos aclaratórios revelam apenas inconformidade e o nítido desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza deste recurso.
+No caso, em que pese a argumentação da embargante, no sentido de que "há um mal-entendido ocorrido na sentença e que restou mantido no aresto do TJ/RS porque os Desembargadores simplesmente reproduziram o aduzido no 1º grau", na verdade, omissão não há.
+Nesse sentido, colhe-se passagem do Voto do julgamento do agravo interno:
+"A agravante defende a ocorrência de negativa de prestação jurisdicional alegando que as omissões expendidas nos embargos de declaração e no recurso especial não restaram afastadas.
+No entanto, das razões trazidas em sede de agravo interno, percebe-se, nitidamente, que não há negativa de prestação jurisdicional, mas a agravante deseja é que esta Corte adentre em matéria fático-probatória.
+No caso, a Corte local consignou que afastava a arguição de nulidade da sentença por ser extra petita aventada pela agravante, porquanto a decisão ateve-se ao quanto postulado na exordial, que balizou o julgamento do feito, sendo que o que pretendia a agravante em seu apelo, era afastar a condenação que lhe foi imputada a cumprir, diante da relação comercial de representação que a agravada exerceu em seu favor."
+Já quanto à alegada omissão no sentido de que quanto à fundamental questão de que na inicial não há pedido e nem mesmo alegação de sucessão empresarial, responsabilização da agropecuária, grupo econômico, desconsideração da personalidade jurídica e/ou confusão patrimonial, melhor sorte não assiste à embargante.
+No ponto, no Voto do julgamento do agravo interno, consignou-se que:
+"Já no tocante à ilegitimidade, entendeu a Corte local já foi devidamente apreciada, conforme se depreende da decisão da fl. 412.
+Além disso, registrou que era ônus da agravada comprovar a sucessão empresarial que demonstrasse a continuidade negocial de representação comercial, prova esta que veio aos autos, considerando o teor da declaração da fl. 10, emitida por Alceu Piccinini, Sócio-Administrador das empresas - Agropecuária Grande Sul e Cevensul - durante todo o período da relação estabelecida entre as partes (fls. 324/330).
+Ainda, quanto ao ponto, sustentou a Corte local que dos documentos trazidos pela agravada, denota-se que há confusão do quadro societário das empresas representadas, restando caracterizada, inclusive, a unicidade da prestação dos serviços pelo representante, porquanto comercializava os mesmos produtos como representante de ambas as empresas com relação de continuidade, caso em que não há como acolher a tese da agravante de que a relação comercial entre as partes iniciou apenas em 02.01.2000.
+Alegou, ainda, a Corte local que não se mostrava razoável valorar positivamente as informações prestadas pelas testemunhas da agravante, quando o teor das declarações se encontrava conflitante com a prova documental colacionada ao feito, em especial o depoimento de Vanderlei Maziero, o qual nega que tenha sido sócio da empresa Agropecuária Grande Sul, embora o seu nome conste expressamente da certidão expedida pela Junta Comercial do Estado do Rio Grande do Sul - JUCERGS (fls. 327/330).
+Aduziu, também, que inexistente prova que caracterize que à rescisão contratual se deu por justa causa, e, assim, havia se reconhecer como injusta a rescisão do contrato pela agravante.
+Por fim, observou a Corte local que caracterizada a continuidade da relação negocial de representação comercial e injusta a rescisão contratual, cabia à agravada demonstrar a efetiva prestação dos serviços no período indicado na inicial, ônus do qual se desincumbiu, porquanto trouxe aos autos os recibos e notas fiscais referentes às comissões no período em que atuou como representante comercial da agravante (fls. 25/128, 284 e 333/408).
+Neste sentido, ainda, deixou anotado que, tendo em vista a existência de contrato escrito de representação comercial, firmado em 02/01/2000 pelos litigantes, entendia que as notas fiscais juntadas pela agravada (fls. 333/408) eram suficientes para demonstrar a efetiva prestação dos serviços. Não se mostrava razoável considerar que até o rompimento da relação contratual, no ano de 2014, a agravante tenha mantido ativo o contrato de representação comercial sem a devida prestação dos serviços, motivo pelo qual afastou a impugnação à documentação trazida pela agravada."
+Assim, conclui-se que o presente recurso não reúne os pressupostos específicos para o seu acolhimento.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração.
