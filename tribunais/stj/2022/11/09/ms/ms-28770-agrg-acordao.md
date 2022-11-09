@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Jorge Mussi votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Sebastião Reis Júnior, Reynaldo Soares da Fonseca, Antonio Saldanha Palheiro e Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro Ribeiro Dantas.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+EDUARDO DA SILVA MENEZES interpõe agravo regimental contra a decisão de fls. 67, proferida pela Presidência desta Corte, que indeferiu liminarmente o mandado de segurança, em razão da incidência da Súmula n. 41 do STJ.
+Em suas razões, afirma o insurgente, em síntese, que a manutenção da custódia, no caso, é manifestamente ilegal, visto que mesmo reconhecido o tráfico privilegiado, foi mantido o regime fechado para o inicio do cumprimento da pena e o recurso de apelação ainda não foi apreciado.
+Assinala a defesa que "considerando-se que o agravante atuou como mula do tráfico , como bem pontou o juízo, mostra-se reduzida a reprovabilidade da conduta e o quantum da pena a ser imposta deve autorizar a imposição do regime aberto, conforme interpretação dos artigos 33, §2º, "c", e 3º e 59, ambos do Código Penal" (fl. 75).
+Requer, diante disso, seja provido o agravo regimental "para que o agravante não fique preso até o julgamento da Apelação, pois conforme narrado há entendimento pacificado neste Tribunal Superior de Justiça a respeito da obrigatoriedade de se respeitar as regras gerais, em especial do art. 33 e 44 do Código Penal, quando se tratar de tráfico privilegiado" (fl. 77).
+EMENTA
+AGRAVO REGIMENTAL NO MANDADO DE SEGURANÇA. IMPUGNAÇÃO DE ACÓRDÃO PROFERIDO EM AGRAVO REGIMENTAL NO HABEAS CORPUS. DISCUSSÃO SOBRE A POSSIBILIDADE DE IMPOSIÇÃO DE REGIME MAIS BRANDO NO TRÁFICO DE DROGAS. APELAÇÃO PENDENTE. VIA MANDAMENTAL COMO INSTRUMENTO INADEQUADO. SÚMULA N. 41 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Conforme dispõe o art. 105, I, "b" da Constituição Federal, compete a este Superior Tribunal de Justiça processar e julgar, originariamente, "os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal."
+2. No caso, este mandado de segurança se volta contra acórdão proferido em agravo regimental, que manteve a decisão que não conheceu do habeas corpus impetrado na origem, porquanto versaria sobre questão a ser examinada no recurso de apelação (adequação do regime de cumprimento de pena). Incidência do enunciado contido na Súmula n. 41 do STJ: "o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos externados pelo insurgente, a decisão impugnada deve ser mantida pelos seus próprios fundamentos, nestes termos, no que interessa (fl. 67):
+ ..
+Na dicção do art. 105, I, b, da Constituição Federal, o Superior Tribunal de Justiça é competente para processar e julgar, originariamente, os mandados de segurança impetrados contra ato de ministro de Estado, dos comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Ademais, o art. 10, §1º, da Lei n. 12.016/2019 estabelece que "do ato do relator caberá agravo para o órgão competente do tribunal que integre".
+Esta Corte Superior, interpretando os referidos dispositivos, sedimentou, no enunciado da Súmula n. 41 do STJ, a orientação de que "o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos." No caso posto, o ato apontado como coator consiste em acórdão proferido pela 2ª Câmara Criminal do Tribunal de Justiça do Estado de Mato Grosso do Sul, o qual, conforme referido, não inaugura a competência desta Corte Superior.
+De fato, o mandado de segurança, corretamente obstado ab initio pela decisão agravada, esbarra em questão preliminar relacionada ao seu próprio cabimento, a despeito das questões de mérito ventiladas pelo insurgente - as quais, diga-se de passagem, parecem ser objeto de apelação ainda não apreciada.
+Ora, conforme dispõe o art. 105, I, "b" da Constituição Federal, compete a este Superior Tribunal de Justiça: I - processar e julgar, originariamente, "os mandados de segurança e os habeas data contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal."
+No caso, repita-se, este mandado de segurança se volta contra acórdão proferido em agravo regimental, que manteve o não conhecimento de habeas corpus impetrado na origem, porquanto o writ versaria sobre questão a ser examinada no recurso de apelação (adequação do regime de cumprimento de pena imposto).
+Tal situação, como assinalou o decisum objeto deste recurso, atrai a incidência do enunciado contido na Súmula n. 41 do STJ (destaquei): "o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+Nesse sentido: "Nos termos da Súmula 41/STJ, o Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros Tribunais ou dos respectivos órgãos" (AgRg no MS n. 22.073/RS, Rel. Ministro Nefi Cordeiro, DJe 31/5/2016).
+À vista do exposto, nego provimento ao agravo regimental.
