@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por TERMACO TERMINAIS MARÍTIMOS DE CONTAINERS E SERVIÇOS ACESSÓRIOS LTDAcontra decisão unipessoal que indeferiu o pedido de atribuição de efeito suspensivo requeridopela agravante.
+Ação: monitória, ajuizada pela agravante, em desfavor de ART - SUPRIMENTOS, COMERCIO E DISTRIBUICAO LTDA, por meio da qual objetiva o pagamento de serviço de frete contratado entre as partes, totalizando o montante de R$ 558.121,09 (quinhentos e cinquenta e oito mil, cento e vinte e um reais e nove centavos).
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+AÇÃO MONITÓRIA - prestação de serviços de transporte - ausência de cerceamento de defesa - prova eminentemente documental - cobrança de fretes e despesas de armazenagem - improcedência - autora que notificou as rés sobre a pendência de ICMS e obteve da proprietária da carga a autorização para devolver as mercadorias - manutenção em armazém contrária à vontade da proprietária da carga - despesas que são da própria autora, que voluntariamente assumiu o risco - frete - conhecimentos de transporte juntados, mas não os comprovantes de entrega das mercadorias - comprovantes assinados que foram juntados após a sentença, em embargos de declaração - ausência de justificativa - ausência de documento novo - aplicação do art. 435, caput, CPC - autora que assumiu o risco ao não instruir a inicial com elemento essencial à prova do fato constitutivo de seu direito - sentença mantida - honorários majorados de ofício - recurso não provido (e-STJ fl. 35).
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: está fundamentado nas alíneas "a" e "c" do permissivo constitucional. Aponta violação dos arts. 9º, 10, 85, § 2º, 434, 435, 485, 700, 701, 702 e 1.022 do CPC/2015, bem como dissídio jurisprudencial.
+Decisão de admissibilidade: inadmitiu o recurso especial interposto pela agravante.
+Pedido de tutela provisória: requer a atribuição de efeito suspensivo ao recurso especial que, segundo alega, aguarda remessa a esta Corte Superior desde fevereiro de 2022. Aponta a probabilidade de seu direito, ante a suficiência da documentação que instruiu a presente ação monitória, hábil a comprovar a prestação dos serviços pela agravante. No mais, afirma que há o perigo de demora da prestação jurisdicional, uma vez que a recorrida iniciou cumprimentos provisórios de sentença.
+Decisão monocrática: indeferiu o pedido de atribuição de efeito suspensivo ao recurso, pois não evidenciada, ao menos em tese, a existência de periculum in mora (e-STJ fls. 237-239).
+Agravo interno: afirma que tramitam em primeira instância três cumprimentos provisórios de sentença, que totalizam o valor de R$ 1.085.744,35 (um milhão, oitenta e cinco mil, setecentos e quarenta e quatro reais e trinta e cinco centavos), havendo "indiscutível risco iminente de bloqueio judicial do montante acima narrado, o que impactará negativamente e de forma ostensiva o capital desta recorrente e, justamente por se tratar de cumprimento provisório, tem-se que o referido montante será depositado por tempo indeterminado, com rendimento precário da caderneta de poupança, tudo em razão de discussão jurídica cuja probabilidade de direito desta recorrente é inequívoca" (e-STJ fl. 241).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO EM PETIÇÃO. CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. DEMONSTRAÇÃO DO PERICULUM IN MORA E DO FUMUS BONI IURIS. NECESSIDADE. PEDIDO DE TUTELA PROVISÓRIA INDEFERIDO.
+1. Em hipóteses excepcionais, é possível a atribuição de efeito suspensivo a recurso especial inadmitido na origem; para tanto, porém, é necessária a demonstração do periculum in mora e a caracterização do fumus boni iuris.
+2. A ausência do periculum in mora basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do fumus boni iuris, que deve se fazer presente cumulativamente.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada indeferiu o pedido de atribuição de efeito suspensivo ao recurso, sob os seguintes fundamentos:
+A concessão de efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+Por se tratar de atribuição de efeito suspensivo a recurso especial, tem-se que esses dois requisitos devem ser analisados com as vistas voltadas ao próprio recurso, ou seja: a plausibilidade do direito será pautada pela possibilidade de êxito recursal, e o interesse processual do requerente deve ser analisado, sempre, com base nos efeitos que se poderão extrair do eventual provimento de seu recurso.
+Vê-se, ao menos em tese, com base em juízo perfunctório, que os argumentos da requerente não evidenciam qualquer risco iminente de dano irreparável ou de difícil reparação.
+Ressalte-se que a própria execução provisória, por si só, não constitui, isoladamente, o periculum in mora exigido para a concessão de efeito suspensivo ao seu recurso especial, até mesmo porque esse procedimento possui mecanismos próprios para evitar prejuízos ao executado (AgRg na MC 25.558/RJ, 4ª Turma, Rel. Min. Marco Buzzi, DJe 31/03/2016; e AgRg na MC 18.633/RJ, 3ª Turma, Rel. Min. Ricardo Villas BôasCom efeito, não foi indicado nenhum prejuízo que, concretamente, possa advir da demora no julgamento do recurso especial.
+Assim, afastada a possibilidade de concessão da tutela provisória de urgência sob a ótica do fumus boni iuris, é despiciendo o exame da questão controvertida sob a perspectiva do periculum in mora (e-STJ fls. 238-239).
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Com efeito, não se configura, na espécie, o periculum in mora hábil a autorizar o deferimento do pedido de tutela provisória.
+A concessão de efeito suspensivo ao recurso carece da urgência na prestação jurisdicional, não tendo o mero início do cumprimento provisório de sentença - ainda que de vultoso valor - o condão de caracterizar risco de dano irreparável ou de difícil reparação.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
