@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpuscom pedido liminarimpetrado em favor de ANDRE DE ASSIS COUTO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Agravo de Execução Penal n. 0003976-38.2022.8.26.0521).
+Consta dos autos que o Juízo da Execução Penal indeferiu o pedido de retificação do cálculo de penas,por considerar que o delito de tráfico de drogas permanece como equiparado a hediondo.
+Inconformada, a defesa interpôs agravo em execução perante o Tribunal de origem, que negou provimento ao recurso.
+Sustenta a impetrante que seria imperiosa a aplicação retroativa da Lei n. 13.964/2019, norma mais favorável ao réu, para afastar a hediondez por equiparação do delito de tráfico de drogas.
+Alega que a redação antiga do art. 2º, § 2º, da Lei n. 8.072/1990 fazia referência ao crime de tráfico de drogas como equiparado a hediondo, todavia, com a revogação do referido dispositivo, entende que não remanesce nenhum comando legal para equiparação do tráfico a delito hediondo.
+Requera concessão da ordem a fim de que seja retificado o cálculo de penas, aplicando-se, para fins de progressão de regime,o percentual exigido aoscrime comuns.
+O pedido liminar foi indeferido (e-STJ fls. 41/42).
+As informações foram prestadas às e-STJ fls. 46/65 e 72/86.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (e-STJ fls. 88/97).
+É, no essencial, o relatório. Decido.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, não sendo cabível a impetração de habeas corpus em substituição aos recursos e ações cabíveis, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior.
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuação ex officio, conforme dispõe o art. 654, § 2º, do Código de Processo Penal.
+A defesa pretende que seja afastada a hediondez do delito de tráfico de drogas para fins de definição do patamar utilizado na progressão de regime.
+A jurisprudência desta Corte Superior é no sentido de que a equiparação do delito de tráfico de drogas a hediondo decorre de previsão constitucional constante no art. 5º, XLIII, da Carta Magna, que trata com mais rigor os crimes de maior reprovabilidade. Vejamos:
+Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
+ ..
+XLIII - a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura , o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem;
+Destaque-se, também, que a Lei n. 13.964/2019, conhecida como "Pacote Anticrime", que promoveu alterações na Lei de Execução Penal, apenas afastou o caráter hediondo ou equiparado do tráfico privilegiado, previsto no art. 33, § 4º, da Lei n. 11.343/2006, nada dispondo sobre os demais dispositivos da Lei de Drogas.
+A propósito:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+ ..
+§ 5º Não se considera hediondo ou equiparado, para os fins deste artigo, o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006.
+Na espécie, verifica-se que o Tribunal de origem manteve o indeferimento do pleito de retificação de cálculo de pena, consoante se extrai do seguinte trecho do aresto impugnado (e-STJ fls. 31/37):
+No presente caso, de acordo com os parcos documentos juntados pelo agravante, observa-se que o reeducando, primário, cumpre pena corporal pela prática desomente um delito de tráfico ilícito de entorpecentes, sem aplicação do redutor.
+Por meio da decisão ora agravada, o magistrado a quo determinou o cumprimento de 40% de pena corporal para fins de progressão de regime prisional, considerando o delito de tráfico equiparado a hediondo, o que resultou na interposição do presente recurso de agravo.
+Pois bem. A atual redação do art. 112 da LEP, conferida pelo denominado Pacote Anticrime (Lei nº 13.964/2019), que estabeleceu novos parâmetros para o preenchimento do requisito objetivo do benefício de progressão de regime, diferenciando os percentuais de resgate de pena aos sentenciados primários e reincidentes, autores de práticas violentas ou hediondas, nos seguintes moldes:
+III - 25% (vinte e cinco por cento) da pena, se o apenado for primário e o crime tiver sido cometido com violência à pessoa ou grave ameaça;
+IV - 30% (trinta por cento) da pena, se o apenado for reincidente em crime cometido com violência à pessoa ou grave ameaça;
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+(..)
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado -grifamos.
+Logo, denota-se que os incisos III e V se reservam aos primários, enquanto os incisos IV e VII se aplicam aos reincidentes, desde que específicos em práticas violentas ou hediondas, respectivamente.
+De tal sorte, in casu, por ser primário e cumprir pena por somente um delito de tráfico ilícito de entorpecentes, sem aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei nº 11.343/06, o agravante deve ser guarnecido pela parcela de 40% (2/5) para progressão de regime, conforme estipulado pelo inciso V do art. 112 da LEP e adotado, no caso concreto, no cálculo de penas, devendo, assim, ser integralmente mantida a decisão ora agravada.
+Ressalte-se, ainda, que, ao contrário do alegado pela defesa, a equiparação do delito de tráfico aos crimes hediondos decorre de previsão constitucional, devidamente regulamentada por lei específica, a qual não foi revogada pela nova redação do art. 112 da Lei de Execução Penal, que cuida somente do critério objetivo para fins de progressão de regime.
+Se não bastasse, o próprio art. 112 da Lei de Execução Penal faz menção ao condenado pela "prática de crime hediondo ou equiparado" para fins de aplicação dopercentual de 40% ou 60% de resgate de pena para progressão de regime, incluindo aí o delito de tráfico ilícito de entorpecentes, desde que não aplicado o redutor previsto no art. 33, § 4º, da Lei nº 11.343/2006, em estrita consonância com as disposições constantes no art. 5º, inciso XLIII, da Constituição Federal e no art. 2º da Lei nº 8.072/1990.
+ ..
+Por consequência, andou bem o magistrado a quo ao exigir o cumprimento de 40% (2/5) de reprimenda corporal para fins de progressão de regime, com fundamento no art. 112, inciso V, da Lei de Execução Penal, não merecendo qualquer correção a decisão ora vergastada.
+Saliente-se, por fim, não ter havido piora na situação do agravante em razão da entrada em vigor da Lei nº 13.964/2019, pois o prazo estabelecido para a progressão, no presente caso, é melhor ao previsto na redação revogada do art.2º, § 2º, da Lei nº 8.072/90 (3/5 ou 60% para condenados reincidentes em geral).
+Assim, verifica-se que o entendimento do acórdão impugnado não destoa da jurisprudência desta Corte Superior de Justiça sobre a matéria, pois acertada a fração utilizada para o reconhecimento de benefícios executórios.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. RETIFICAÇÃO DOS CÁLCULOS DE PENA. TRÁFICO DE DROGAS. ART. 33, CAPUT, DA LEI N. 11.343/2006. PACOTE ANTICRIME. ALTERAÇÕES QUE NÃO AFASTARAM A NATUREZA DE DELITO EQUIPARADO A HEDIONDO, QUE DECORRE DA PREVISÃO CONSTITUCIONAL. RECURSO NÃO PROVIDO.
+1. "A revogação do § 2º do art. 2º da Lei 8.072/90 pela Lei 13.964/2019 não tem o condão de retirar do tráfico de drogas sua caracterização como delito equiparado a hediondo, pois a classificação da narcotraficância como infração penal equiparada a hedionda decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal." (AgRg no HC 729.332/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/4/2022, DJe 25/4/2022).
+2. Com base no julgamento do REsp 1.918.338/MT (Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 26/5/2021, DJe 31/5/2021), como recurso representativo da controvérsia, e no art. 112, § 5º, da LEP, na nova redação dada pelo Pacote Anticrime, é seguro dizer que se mantém a hediondez do crime de tráfico de drogas, ressalvando apenas, em consonância com o entendimento do STF (HC 118.533/MS, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 16/9/2016), a hipótese do tráfico privilegiado.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 729.120/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. FRAÇÃO. TRÁFICO DE DROGAS. REVOGAÇÃO DO § 2º DO ART. 2º DA LEI 8.072/1990 PELA LEI 13.964/2019 (PACOTE ANTICRIME). CRIME EQUIPARADO A HEDIONDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O posicionamento desta Corte, há muito pacificado, é o de que o delito de tráfico de drogas é equiparado à hediondo, caráter apenas desconsiderado quando configurado o tráfico na modalidade dita privilegiada, definida no § 4º do art. 33 da Lei de Drogas.
+2. A mera revogação do § 2º do art. 2º da Lei n. 8.072/1990 não teve o condão de retirar do tráfico de drogas o seu caráter de delito equiparado à hediondo, conclusão reforçada pelo disposto no § 5º do art. 112 da Lei de Execução Penal - com redação definida pela Lei n. 13.964/2019, consagrando o entendimento pacificado dos tribunais superiores acerca da questão -, que dispõe que " n ão se considera hediondo ou equiparado, para os fins deste artigo, o crime de tráfico de drogas previsto no §4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006".
+3. "Diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas" (AgRg no HC n. 736.796/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 745.958/PR, relator Ministro Antônio Saldanha Palheiro, Sexta Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
