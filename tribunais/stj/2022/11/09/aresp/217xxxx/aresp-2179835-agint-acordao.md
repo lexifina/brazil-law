@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por MARIA DE FÁTIMA ALVES DA SILVA, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Ação: revisional de contrato de empréstimo cumulada com obrigação de fazer e compensação pelos danos morais, ajuizada por MARIA DE FÁTIMA ALVES DA SILVA, em face de BANCO LOSANGO S/A - BANCO MÚLTIPLO.
+Sentença: julgou procedente em parte o pedido formulado, para decretar a revisão da relação creditícia existente entre as partes, em relação aos dois contratos de empréstimos, desde o seu início, determinando que seja adotada a taxa média de juros do mercado divulgada pelo BACEN, para o crédito pessoal das cinco maiores instituições financeiras do País (CEF, BB, Bradesco, Itaú e Santander). Ainda, determinou que do valor da nova parcela deve ser descontado o montante consignado mês a mês pela agravante. Observou, também, que a apuração dos valores deve ocorrer em posterior fase de liquidação, por arbitramento. Assim, em razão da recíproca sucumbência, determinou que as despesas processuais deverão ser rateadas por metade entre as partes, ficando a agravante condenada a pagar honorários de R$ 600,00, e o agravado condenado a pagar honorários de R$ 600,00, ressaltando-se a gratuidade deferida à agravante.
+Acórdão: negou provimento à Apelação interposta pela agravante e deu provimento à Apelação interposta pelo agravado.
+Decisão monocrática: não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ, nos termos do art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: sustenta que todos os atos atacados no Recurso Especial foram ventilados na decisão recorrida.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO DE EMPRÉSTIMO CUMULADA COM OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANOS MORAIS. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação revisional de contrato de empréstimo cumulada com obrigação de fazer e compensação por danos morais.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por MARIA DE FÁTIMA ALVES DA SILVA, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A agravante se insurge contra a aplicação da Súmula 182/STJ ao caso, sustentando que, diferentemente do que compreendido na decisão agravada, todos os atos atacados no Recurso Especial foram ventilados na decisão.
+Malgrado o inconformismo da agravante, mesmo afastando-se a aplicação do óbice sumular 182 desta Corte, é de se observar que razão não lhe assiste, uma vez que em relação ao presente caso incidem os óbices sumulares 5 e 7 desta Corte.
+No caso, a Corte local consignou que se mostra prescindível a pretendida realização de prova pericial, porquanto a matéria atinente à cobrança de juros e capitalização mensal se encontra sedimentada nos Tribunais Superiores, tratando-se de questão que pode ser resolvida sem a necessidade de perícia técnica.
+Também, entendeu a Corte local que a agravante firmou 02 contratos de empréstimo pessoal junto ao demandado, sendo o de nº 030100191119408 em 18 prestações prefixadas, com taxa mensal de 8,99% e anual de 249,41%, e o de nº 030100191119785 em 34 prestações prefixadas, com taxa mensal de 7,99% e anual de 188,54%, cuja adesão se deu livremente, não se podendo falar em cobrança excessiva, já que as parcelas são certas e determinadas (índices 000128 - fls. 128 e 000131 - fls. 131).
+Além disso, registrou a Corte local que, a partir de uma simples consulta ao sítio eletrônico do Banco Central, restou possível verificar que as taxas de juros praticadas em ambos os ajustes estavam de acordo com a média do mercado para o período contratado, valendo dizer que no dia 09/04/2018 a taxa média mensal orbitava em torno de 8,04%, enquanto no dia 26/04/2018 estava em 7,68%, não se constatando, portanto, a alegada abusividade nos contratos em exame.
+Ainda, sustentou a Corte local que, por mero cálculo aritmético, as taxas de juros anuais em questão são superiores ao duodécuplo das mensais (8,99% x 12 = 107,88%/ 7,99% x 12 = 95,88%), estando, desse modo, em consonância com o disposto no Enunciado nº 541 da Súmula do STJ.
+Por fim, observou a Corte local que indubitável a legitimidade da cobrança dos juros capitalizados e da taxa de juros, na forma em que previamente convencionados.
+Desta forma, cumpre ressaltar que, na hipótese em que pretende impugnar a aplicação das Súmulas 5 e 7/STJ, deve a agravante não apenas mencionar que os referidos enunciados devem ser afastados, mas, além disso, também deve demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que não restou configurado.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
