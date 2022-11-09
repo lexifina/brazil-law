@@ -1,0 +1,6 @@
+DECISÃO
+MARIA ISABEL POLATOrequer, a fls. 1.369/1.374e, a redistribuição do feito à uma das Turmas que compõem a Segunda Seção, sob o fundamento de que a Corte Especial deste STJ, no julgamento do CC 101.764/SC, fixou oentendimento que compete à 2ª Seção analisar as questões referentes ao Seguro Habitacional do Sistema Financeiro de Habitação, pois se trata de relação jurídica regida exclusivamente pelo direito privado, por se tratar de responsabilidade obrigacional securitária.
+Contudo, na forma da jurisprudência do STJ, "a competência para julgar controvérsia surgida de determinado mútuo habitacional, firma-se pela presença ou não de discussão em torno da cláusula de cobertura do FCVS, sendo que, havendo a sua estipulação, caberá a uma das Turmas da Primeira Seção, enquanto que, o contrário, é a Segunda Seção a competente para julgar a lide"(CC 121.499/DF, Rel. Min. Maria Thereza de Assis Moura, Corte Especial, DJe 10.5.2012)"" (STJ, AgInt no AREsp1.705.375/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 12/11/2020).No mesmo sentido:PETno AREsp 1938074, Rel. Ministro SÉRGIO KUKINA, Dje de12/11/2021.
+No caso, conforme constados autos, aapólice securitária pertence ao ramo 66 (apólice pública), na qual a CEF atua em defesa doFCVS,de modo que atrai a competência da Primeira Seção do STJ.
+Ante o exposto, indefiro o pedido.
+I.
