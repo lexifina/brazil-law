@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por THUANY ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA. contra acórdão assim ementado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO REGRESSIVA DE COBRANÇA DE CORRETAGEM IMOBILIÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DISPOSITIVOS SUPOSTAMENTE VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AUSÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+Em suas razões, aembargante alega, em síntese, que"este E. Superior Tribunal deixou de se manifestar sobre a tese de omissão exposta pela embargante durante todo o processo judicial e da qual esperava a devida solução nesta instância superior" (e-STJ fl. 417), relacionada à ausência de transcrição dos depoimentos que fundamentaram o acórdão recorrido.
+Afirma, ainda, que"o trecho mencionado no V. acórdão embargado não reflete o inteiro teor do pedido de análise das omissões apontadas no recurso, pelo contrário, trata-se apenas de parágrafo introdutório com função apenas de introduzir o assunto a ser discutido e chamar a atenção dos julgadores para os efeitos ocasionados pelas omissões apontadas, sendo certo que a tese das omissões foi devidamente apresentada nos parágrafos seguintes" (e-STJ fl. 418).
+A parte embargada apresentou impugnação (e-STJ fls. 422-428).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+EMBARGOS DE DECLARAÇÃO REJEITADOS.
+VOTO
+Eminentes colegas, os embargos de declaração devem ser rejeitados.
+Nos rígidos limites estabelecidos pelo artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes, quando algum desses vícios for reconhecido.
+No caso sob apreciação, não houve a configuração no aresto ora embargado de qualquer omissão, contradição, obscuridade ou erro material que permitam a oposição dos aclaratórios.
+Com efeito, verifica-se que esta Corte Superior expôs, de forma clara, suficientemente fundamentada e sem proposições logicamente inconciliáveis entre si, o seu entendimento acerca dos novos argumentos suscitados pela recorrente no agravo interno e da não configuração da alegada negativa de prestação jurisdicional, uma vez que o Tribunal de origem se manifestou expressamente quanto à ausência de necessidade e utilidade da prova oral requerida, não sendo imprescindível a pleiteada transcrição de depoimento para tal constatação.
+Sobre o tema, confiram-se os seguintes trechos da decisão monocrática de fls. 366-372 (e-STJ) e do acórdão ora embargado:
+"Com efeito, quanto à apontada violação aos arts. 1.022, II e parágrafo único, e 489 do CPC, entendo que não há nulidade por omissão, tampouco negativa de prestação jurisdicional, no acórdão que decide de modo integral e com fundamentação suficiente a controvérsia posta.
+No caso, o Tribunal de origem dirimiu as questões pertinentes ao litígio de forma suficientemente ampla e fundamentada, consignando que não havia necessidade ou utilidade na prova oral requerida. Vejamos (e-STJ fl. 273 e 275-276):
+Analiso, de proêmio, a preliminar de cerceamento de defesa, para afastá-la. Conquanto a recorrente entenda necessária a produção de provas, notadamente a prova oral,considera-se que aquelas acostadas aos autos foram suficientes para a solução da lide,tendo em vista os contornos das questões controvertidas,sem que se identificasse a necessidade ou mesmo a utilidade daquela pleiteada.
+ ..
+Como visto, o contrato de corretagem gera a obrigação da parte contratante de pagar a comissão ao corretor de imóveis e, pelos elementos colacionados ao feito, restou cristalino que ele não foi celebrado, ainda que verbalmente, pelos compradores, mas sim pela vendedora.
+Desta feita, tendo-se em conta que os demandados não celebraram o pacto com a corretora Lello, a pretensão inicial não se sustenta, porque a obrigação foi assumida pela vendedora, aqui recorrente, a qual, repita-se, não se estende aos compradores, ora recorridos. Anote-se, por oportuno, que não havendo obrigação entre os litigantes,a questão acerca da conduta dos réus, ou seja, se ela importou ou não no desfazimento do negócio junto à Lello, torna-se irrelevante, pois a responsabilidade pelo pagamento da comissão de corretagem deve ser atribuída àquele que contratou a imobiliária. grifei
+Como se vê, a negativa de prestação jurisdicional não restou configurada.
+Veja-se que se torna desnecessária qualquer transcrição de depoimentos, conforme entende a recorrente, porquanto a Corte Estadual foi expressa no sentido de que a prova oral requerida seria desnecessária e inútil e que, pelos elementos dos autos, a contratação se deu pela recorrente, sendo certo que eventual testemunho do porteiro mencionado, acerca da conduta da recorrida, considerada, diga-se, irrelevante pelo aresto hostilizado, não alteraria tal fato.
+O mero inconformismo da parte com o julgamento contrário à pretensão da parte não caracteriza falta de prestação jurisdicional.
+Por outro lado, a fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada.
+Vale lembrar que, mesmo à luz do art. 489 do CPC, o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, mas apenas sobre aqueles capazes de, em tese, infirmar a conclusão adotada pelo órgão julgador." (e-STJ fls. 368-369).
+"Nas razões de seu recurso especial, a recorrente afirma que houve omissão no acórdão que não transcreveu o teor das folhas mencionadas no acórdão, circunstância que autorizaria o cotejo com as razões recursais, sem esbarrar na Súmula 7/STJ e demonstraria os depoimentos mencionados no acórdão não são suficientes, pois ausente a prova oral requisitada pela recorrente, qual seja, "a oitiva do porteiro do prédio que indicou a Lello aos Recorridos, peça chave para provar a realidade fática de que quem contratou a Lello foram os Recorridos" (e-STJ fl. 300).
+Nas razões do interno, a parte insiste que houve negativa de prestação jurisdicional, porque não houve a transcrição dos depoimentos no acórdão recorrido, situação que permitiria que esta Corte Superior analisasse o conteúdo de tais depoimentos e concluísse que o recorrido contratou a Lello.
+Vejamos o que consta do agravo (e-STJ fl. 381):
+Destaque-se que o cerne da questão não deve focar-se no preceito legal de que o órgão julgador não está obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pela parte, MAS SIM NO FATO QUE A AUSÊNCIA DE TRANSCRIÇÃO DAS FOLHAS APONTADAS NO ACÓRDÃO RECORRIDO ACABOU POR MACULAR A VERDADE REAL DOS FATOS, porque da leitura do inteiro teor das folhas mencionadas comprovam QUE QUEM CONTRATOU A EMPRESA LELLO FORAM OS AGRAVADOS E NÃO A AGRAVANTE.
+Conforme se vê, a agravante apresenta, no agravo interno, uma versão nova da suposta omissão, situação que não se admite por se caracterizar indevida inovação recursal." (e-STJ fls. 409-410).
+Assim, verifica-se que os presentes embargos de declaraçãoapenas traduzeminconformismo com o acórdão embargado, pretendendo rediscutir o que já foi decidido somenteporque o que restou assentado é contrário ao interesse da parte.
+Não vislumbro, por ora, o intuito protelatório daembargante, mas advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
