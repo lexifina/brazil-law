@@ -1,0 +1,129 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+5ª Turma Cível
+Processo N.AGRAVO DE INSTRUMENTO 0721894-53.2022.8.07.0000AGRAVANTE(S)DIRCINHA BATISTA GOMES DE FARIASAGRAVADO(S)ATIZIO CARLOS REZENDE JUNGERRelatoraDesembargadora MARIA IVATÔNIA Acórdão Nº1638062
+
+EMENTA
+
+ AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA. DÉBITO REFERENTE A HONORÁRIOS ADVOCATÍCIOS. VERBA DE CARÁTER ALIMENTAR. JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. PERCENTUAL.
+
+1. O Superior Tribunal de Justiça, órgão constitucionalmente incumbido do papel de uniformizar a interpretação da legislação infraconstitucional, tem jurisprudência consolidada no sentido de que honorários advocatícios (contratuais ou sucumbenciais) têm natureza alimentar, inclusive para fins do disposto no art. 833, § 2º do CPC/2015, sendo possível penhora dos valores previstos no art. 833, IV do CPC para o seu pagamento. Conquanto ainda não assentada em julgamento sob a sistemática de recursos repetitivos, a primazia pela congruência e uniformidade no sistema de precedentes imprime às instâncias inferiores o dever funcional de observância do entendimento reiteradamente adotado pela Corte Superior, notadamente por se tratar de matéria exclusivamente de direito. Por esse motivo, na linha da jurisprudência do STJ, honorários advocatícios são considerados prestação de natureza alimentar, sendo possível penhora dos valores previstos no art. 833, IV do CPC para o seu pagamento.
+
+2. Na hipótese dos autos, reconhecida a possibilidade de penhora de 15% (quinze por cento) sobre os proventos líquidos da agravante para o pagamento do crédito exequendo somente no que relativo a honorários advocatícios.
+
+3. Agravo de instrumento conhecido e parcialmente provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 5ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, MARIA IVATÔNIA - Relatora, FÁBIO EDUARDO MARQUES - 1º Vogal e JOÃO LUIS FISCHER DIAS - 2º Vogal, sob a Presidência do Senhor Desembargador FÁBIO EDUARDO MARQUES, em proferir a seguinte decisão: CONHECER. DAR PARCIAL PROVIMENTO AO AGRAVO DE INSTRUMENTO. MAIORIA. VENCIDO O 1º VOGAL., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 17 de Novembro de 2022
+
+Desembargadora MARIA IVATÔNIARelatora
+
+RELATÓRIO
+
+Trata-se de agravo de instrumento com pedido de antecipação dos efeitos da tutela recursal interposto por DIRCINHA BATISTA GOMES DE FARIAS em relação à decisão proferida pelo Juízo da 11ª Vara Cível de Brasília nos autos do Cumprimento de Sentença apresentado por ATIZIO CARLOS REZENDE JUNGER nos seguintes termos:
+
+“O autor requereu a penhora de 15% dos proventos da executada junto ao INSS. A despeito da a lei dizer que é possível a penhora de salários/vencimentos que excedam a 50 salários mínimos, o Superior Tribunal de Justiça tem - dentro de seu superior juízo - entendido - a despeito da clareza da lei - que é possível a flexibilização, observando-se o caso concreto e deixando ao devedor a possibilidade de sustento.
+
+(   ).
+
+No caso em questão, a declaração de imposto de renda do exercício de 2022 obtida mostra que a devedora recebeu a título de salário e aposentadoria no ano-calendário de 2021 rendimentos no importe de R$ 178.141,14, o que demonstra que a requerida aufere remuneração mensal bruta superior a 11 salários mínimos.
+
+O autor requereu a penhora de 15% sobre parte desse valor, apenas o recebido junto ao INSS, que monta R$ 94.299,59. Assim sendo, em atenção à orientação jurisprudencial do C. STJ que mitiga a regra da impenhorabilidade, considerando as particularidades do caso concreto e os princípios da razoabilidade e proporcionalidade, creio que a realização de descontos no percentual de 15% dos proventos líquidos da devedora junta ao INSS não trará prejuízo à sua dignidade ou subsistência.
+
+Ante o exposto, defiro a penhora de 15% (quinze por cento) sobre os proventos líquidos da ré junto ao INSS, até a quitação do crédito exequendo” (ID 36924763).
+
+A agravante alega, em síntese, que “o fato de incidir a constrição sobre parte do valor recebido não afasta a natureza alimentar tão pouco a possibilidade da constrição, considerando que tal medida pode causar abalo financeiro e prejuízo a administração doméstica”.
+
+E pede:
+
+“a) Pugna-se pelo conhecimento do pressente agravo e a CONCESSÃO de liminar no agravo de Instrumento, para que seja concedido a tutela antecipada recursal (art. 1019, I do CPC), com fim de afastar desde logo a penhora que sobre os proventos da Sra. Dircinha, inclusive modificando o patamar que mitigue o impacto no orçamento doméstico;
+
+b) A intimação da Agravada para querendo oferecer contrarrazões;
+
+c) Requer, ao final, após o processamento regular do presente recurso, o PROVIMENTO DO AGRAVO DE INSTRUMENTO com a reforma da decisão agravada para declarar a impenhorabilidade do salário da Sra. Dircinha;
+
+d) Na hipótese remota de ter entendimento diverso que dê PROVIMENTO ao presente recurso para diminuir o percentual de desconto para 5% (cinco pro cento) dos proventos da Embargada”.
+
+Preparo regular (IDs 36924766 e 36924768).
+
+Pedido de antecipação dos efeitos da tutela recursal indeferido (ID 37105423).
+
+Sem contrarrazões (ID 38095169).
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora MARIA IVATÔNIA - RelatoraO art. 1.015 do Código de Processo Civil traz as matérias recorríveis via agravo de instrumento:
+
+“Art. 1.015. Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:
+
+I - tutelas provisórias;
+
+II - mérito do processo;
+
+III - rejeição da alegação de convenção de arbitragem;
+
+IV - incidente de desconsideração da personalidade jurídica;
+
+V - rejeição do pedido de gratuidade da justiça ou acolhimento do pedido de sua revogação;
+
+VI - exibição ou posse de documento ou coisa;
+
+VII - exclusão de litisconsorte;
+
+VIII - rejeição do pedido de limitação do litisconsórcio;
+
+IX - admissão ou inadmissão de intervenção de terceiros;
+
+X - concessão, modificação ou revogação do efeito suspensivo aos embargos à execução;
+
+XI - redistribuição do ônus da prova nos termos do art. 373, § 1º;
+
+XII - (VETADO);
+
+XIII - outros casos expressamente referidos em lei.
+
+Parágrafo único. Também caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário”
+
+Agravo de instrumento interposto com base no art. 1.015, parágrafo único do CPC (decisão em cumprimento de sentença); conheço do recurso, pois satisfeitos os pressupostos intrínsecos e extrínsecos de admissibilidade.
+
+Verifica-se que o agravado, via cumprimento de sentença, visa receber valor correspondente à obrigação principal e a honorários advocatícios, estes no valor de R$ 18.017,58 (ID 45332726 dos autos de origem n. 0722279-71.2017.8.07.0001). E foi deferida na origem "penhora de 15% (quinze por cento) sobre os proventos líquidos da ré junto ao INSS, até a quitação do crédito exequendo".
+
+Salário, vencimentos e outros rendimentos destinados à subsistência do devedor são verbas de natureza alimentar, que, via de regra, não podem sofrer constrição.
+
+O art. 833, inciso IV do Código de Processo Civil estabelece que são impenhoráveis:
+
+“IV - os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2º”.
+
+E o § 2º do art. 833, CPC traz as exceções à regra da impenhorabilidade de valores: importâncias que excedam 50 (cinquenta) salários mínimos mensais, ou que se destinem a pagamento de prestação alimentícia:
+
+“§ 2º O disposto nos incisos IV e X do caput não se aplica à hipótese de penhora para pagamento de prestação alimentícia, independentemente de sua origem, bem como às importâncias excedentes a 50 (cinquenta) salários-mínimos mensais, devendo a constrição observar o disposto no art. 528, § 8º, e no art. 529, § 3º” .
+
+E são exceções à regra da impenhorabilidade de verbas de natureza salarial i) quando se destinar a pagamento de prestação alimentícia, independentemente do valor da verba remuneratória recebida, assim como, seja qual for a natureza da dívida, ii) os valores recebidos pelo executado excederem 50 salários mínimos mensais.
+
+Quanto à obrigação principal, segundo define o STJ, admitir-se-ia penhora de rendimentos recebidos pela parte devedora se estes excedessem 50 salários mínimos mensais, o que não é o caso dos autos: agravante que aufere rendimentos brutos mensais em torno de R$ 14.845,09 (imposto de renda ano-calendário de 2021 – ID 125560569 dos autos de origem).
+
+No que se refere a honorários advocatícios, embora a divergência existente, a jurisprudência predominante no STJ define sua natureza alimentar - STJ. AgInt no REsp 1732927/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/02/2019, DJe 22/03/2019; AgInt no AREsp 1366890/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/02/2019, DJe 13/03/2019).
+
+A agravante aufere rendimentos brutos mensais em torno de R$ 14.845,09 (imposto de renda ano-calendário de 2021 – ID 125560569 dos autos de origem). Ou seja, sua renda mensal ultrapassa e muito o montante que essa c. Turma tem definido como indicação suficiente de hipossuficiência econômica de forma a garantir os benefícios da gratuidade de justiça (Acórdão 1347983, 07070520520218070000, Relator: ANA CANTARINO, 5ª Turma Cível, data de julgamento: 16/6/2021, publicado no PJe: 24/6/2021. Pág.: Sem Página Cadastrada).
+
+Do que se tem nos autos até o momento, não há indicação suficiente de que eventual penhora deferida sobre os proventos líquidos da parte devedora em percentual que a jurisprudência do Superior Justiça e deste Tribunal define como razoável (até 30%) comprometa gravemente sua subsistência, razão por que se reconhece a possibilidade de incidência de penhora sobre os proventos líquidos da agravante para satisfação do crédito exequendo no que se refere aos honorários advocatícios no valor de R$ 18.017,58 - ID 45332726 dos autos de origem n. 0722279-71.2017.8.07.0001.
+
+Assim, definida a possibilidade de penhora no que se refere aos honorários advocatícios (no valor de R$ 18.017,58 - ID 45332726 dos autos de origem), considerando-se que os autos não trazem elementos no sentido de a constrição de 15% (quinze por cento) sobre os proventos líquidos da agravante já definida na origem possa significar grave  risco à sua subsistência, deve ser o recurso parcialmente provido para o fim de restringir a penhora ao pagamento dos honorários advocatícios.
+
+ É como voto.
+O Senhor Desembargador FÁBIO EDUARDO MARQUES - 1º Vogal p{text-align: justify;}Consoante a orientação da Corte Superior, as exceções destinadas à execução de prestação alimentícia, como a penhora dos bens descritos no art. 833, inc. IV e X, do CPC, e do bem de família (art. 3º, inc. III, da Lei 8.009/90), assim como a prisão civil, não se estendem aos honorários advocatícios, como não se estendem às demais verbas apenas com natureza alimentar. Precedentes: REsp 1.815.055/SP, Rel. Ministra Nancy Andrighi, Corte Especial, julgado em 03/08/2020; AgInt no REsp 1.903.857/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 22/03/2021.
+Todavia, afigura-se possível mitigar a regra de impenhorabilidade, mediante análise das circunstâncias de cada caso, resguardada a dignidade do devedor, na esteira do que sinaliza a Corte Superior, a exemplo do AgInt no REsp 1.855.767/DF, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 29/06/2020; AgInt nos EDcl nos EDcl no REsp 1.748.313/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 08/02/2021; AgInt no REsp 1.819.394/RO, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 31/05/2021.
+No caso, não há indicativo de que penhora de 15% (quinze por cento) da renda mensal prejudicaria a subsistência da executada e da sua família.
+Nego provimento ao recurso.
+É como voto.
+O Senhor Desembargador JOÃO LUIS FISCHER DIAS - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECER. DAR PARCIAL PROVIMENTO AO AGRAVO DE INSTRUMENTO. MAIORIA. VENCIDO O 1º VOGAL.
