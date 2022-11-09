@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Paulo Alvim da Cunhadesafiando decisão que negou provimento ao recurso especial, com base naaplicação da Súmula 7/STJ, tendo em vista que a verificação da ocorrência de danos morais, na espécie, demandaria o reexame de matéria fático-probatória.
+Inconformada, a parte agravante sustenta que não há necessidade de reexame de fatos e de provasno caso dos autos, mas do reconhecimento de que a demora na expedição da licença para a pesca causou dano de natureza moral, porquanto impediu o agravante "de exercer a profissão e auferir renda legítima" (fl. 413).
+Requer a reconsideração da decisão agravada ou a submissão do feito ao julgamento colegiado.
+A União, agravada, apresentou impugnação (fls. 427/430), na qual solicita o não provimento do agravo interno.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEMORA NA EXPEDIÇÃO DE LICENÇA PARA PESCA.PLEITO DE INDENIZAÇÃO POR DANO MORAL. ACÓRDÃO RECORRIDO ANCORADO NO SUBSTRATO FÁTICO-PROBATÓRIO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1.Na origem, cuida-se deação de procedimento ordinário proposta contra aUnião, com o fim de receber indenização pelos danos morais que diz ter sofrido em virtude da demora na expedição de licença para pesca.
+2.Verifica-se que a instância de origem, com base em premissas fáticas, concluiu que o dano moral não foi demonstrado nos autos. Assim, a alteração das conclusões adotadas pela Corte a quo, tal como colocada a questão nas razões recursais, a fim de aferir a ocorrência de dano extrapatrimonial, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A insurgência não merece prosperar.
+Na origem, cuida-se de ação de procedimento ordinário proposta pelo agravante,Paulo Alvim da Cunha, em desfavor da União, com o fim de receber indenização pelos danos morais que diz ter sofrido em virtude da demora na expedição de licença para pesca.
+A sentença de piso julgou improcedente o pedido, tendo sido confirmada pelo Tribunal Regional Federal da 4ª Região.
+Nas razões do recurso especial, a parte ora agravante apontou ofensa aos arts. 24 e49 da Lei n. 9.784/995º e10 da Lei n. 11.959/2009. Sustentou que a demora injustificada na expedição de autorização para a pesca ensejou dano moral, passível de reparação econômica, tendo em vista que a conduta da Administração implicou ofensa ao princípio da eficiência administrativa e impediu que o administrado auferisse renda com a atividade de pescador.
+A decisão agravada, por sua vez, concluiu que incide aSúmula 7/STJ, porquanto a verificação deocorrência dedanos morais, na espécie, demandaria o reexame de matéria fático-probatória.
+Em seu agravo interno, o agravantediscorda de tal fundamento.
+Sem razão, contudo.
+No caso dos autos, o tema concernente aos danos moraisfoi assim enfrentado no acórdão recorrido (fls. 287/288):
+Em que pese o inegável entrave burocrático que vem retardando a expedição da licença de pesca para embarcação e expedição de carteira de pescador profissional do autor, o que inclusive é reconhecido pela ré, não há como daí inferir dano moral in re ipsa, sobretudo considerando que a ele está sendo assegurado o direito de exercício da profissão, conforme deduzido na preliminar de carência de ação.
+Cumpria ao autor comprovar que foi efetivamente submetido a grave agressão ou atentado à sua dignidade, capaz de ensejar sofrimentos e humilhações intensos e desequilíbrio psicológico, mas desse ônus não se desincumbiu (art. 373, I, do CPC).
+Note-se que o autor relata ter protocolizado seu pedido de carteira de pescador profissional ainda em 10/2014, mas no final de 2017, mesmo passados mais de três anos sem resposta formal a esse pedido, comprou uma embarcação e requereu a licença de pesca em 04/2018. Afirma que está impedido de trabalhar, mas não comprovou ter de fato havido qualquer empecilho quanto ao exercício de sua profissão.
+Com efeito, não comprovou, por exemplo, ter deixado efetivamente de exercer a pesca profissional (que de fato podia e pode exercer, segundo o MAPA) ou ter passado por dificuldades, especialmente financeiras, em razão da falta de resposta objetiva da Administração.
+A instância de origem, com base em premissas fáticas, concluiu que a parte autora não demonstrou o dano moral alegado. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir a ocorrência de dano extrapatrimonial, demandaria, necessariamente, novo exame do acervo fático-probatórioconstante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. FORNECIMENTO DE MEDICAMENTOS. ART. 1022 DO CPC/2015. OMISSÃO NÃO CONFIGURADA. ALEGADA DEMORA PARA SE FORNECER O FÁRMACO. DANO MORAL. ACÓRDÃO ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. ACÓRDÃO RECORRIDO QUE FIXOU A VERBA SUCUMBENCIAL COM BASE NA EQUIDADE. POSSIBILIDADE. PRECEDENTES. REDIMENSIONAMENTO EM SEDE DE RECURSO ESPECIAL. INVIABILIDADE. SÚMULA 7/STJ.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. Inviável o acolhimento do pedido de reconhecimento do dano moral, na via do recurso especial, pois, no Tribunal a quo, ficou assentado que, Embora a sucessão do autor afirme ter ele requerido administrativamente o fármaco ao Estado, anteriormente ao ajuizamento da ação, não há nos autos qualquer documento que sirva de lastro a tal afirmação. (fl. 421).
+3. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de reconhecer a ocorrência de dano moral indenizável, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. O novo estatuto processual estabeleceu, nas causas em que for parte a Fazenda Pública, os critérios objetivos para a fixação dos honorários de sucumbência, com base no valor da condenação ou do proveito econômico obtido na demanda, prevendo cinco faixas progressivas e escalonadas como parâmetro para essa apuração (art. 85, § 3º, I a V, do CPC/2015).
+5. A nova regulamentação dos honorários advocatícios comporta interpretação teleológica e sistemática, notadamente para atingir os postulados constitucionais da proporcionalidade e da razoabilidade, hoje expressamente positivados no âmbito do direito instrumental, consoante o que dispõe o art. 8º do CPC.
+6. O caso dos autos está em consonância com as hipóteses em que as Turmas da Primeira Seção do Superior Tribunal de Justiça têm admitido a fixação de honorários por equidade; é certo que eventual alteração do julgado, a fim de afastar a incidência do art. 85, § 8º, do CPC, exigiria o reexame dos elementos de convicção postos no processo, o que atrai a incidência do óbice contido na Súmula 7/STJ.
+7. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.870.490/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 7/12/2020, DJe de 11/12/2020.)
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
