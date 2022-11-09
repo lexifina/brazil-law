@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de EVERTON BARBOSA FELIX contra decisão de Desembargador integrante do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que indeferiu a liminar visadano HCn. 2259898-57.2022.8.26.0000.
+O paciente foi preso preventivamente pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/06, nos autos da ação penal n. 1521178-57.2022.8.26.0228.
+A defesa impetrou prévio writ na origem, tendo sido indeferida a pretensão sumária ali visada.
+Nesta via, sustenta aimpetrantea carência de motivação idônea para a decretação e a manutenção da segregação cautelar dopaciente, reputando ausentes os requisitos autorizadores da medida extrema, previstos no art. 312 do Código de Processo Penal.
+Alega que " ..  inexiste materialidade delitiva apta a ensejar a caracterização do concurso de pessoas, sobretudo porque inexiste, objetivamente, o suposto fato criminoso que lastrearia o iter criminis supostamente percorrido pelo paciente" (e-STJ fl. 7).
+Afirma quea liberdade do paciente nãoafetará a ordem pública, nem o bom andamentoda instrução criminal.
+Destaca, ainda, que o paciente ostenta condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja determinada aliberdade do paciente, expedindo-se, assim, o competente alvará de soltura.
+É o relatório.
+Esta Corte Superior, nos termos da Súmula 691 do Supremo Tribunal Federal, pacificou orientação no sentido de que "não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância" (AgRg no HC 252.412/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 9-10-2012, DJe 17-10-2012), destacando que "O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha que não escapa à pronta percepção do julgador" (AgRg no HC 300.610/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 4-9-2014, DJe 15-9-2014).
+E, da análise da documentação acostada aos autos, verifica-se que não está caracterizada flagrante ilegalidade suficiente para superar o óbice do referido enunciado sumular.
+É que a decisão objurgada não se mostrou teratológica, restando devidamente fundamentado o indeferimento do pleito liminar, pois a autoridade tida como coatora não entendeu presentes os requisitos necessários para a concessão sumária da ordem, tecendo ainda as seguintes considerações (e-STJ fls. 66-67):
+Contudo, as circunstâncias de fato e de direitodeduzidas na presente impetração não autorizam a concessão da liminar alvitrada, uma vez que não evidenciam a presença do fumus boni iuris e do periculum in mora necessários.
+Indefiro, por conseguinte, a liminar.
+Ademais, segundo consta na decisão que decretou a preventiva, trata-se de "apreensão de 31 porções de maconha,17 porções de skunk e 87 porções de cocaína, além de R$ 248,00 (duzentos e quarenta e oito reais), uma caderneta de anotações e uma bolsa", restando patente a "acentuada gravidade e lesividade à saúde pública, considerando a apreensão de relevante quantidade de substância entorpecente e ainda de duas espécies distintas, sobretudo cocaína, que se trata de entorpecente dotado de extrema lesividade ao usuário, bem como diante das circunstâncias do flagrante, com anotações referentes à contabilidade da venda de drogas e valores em dinheiro, o que acresce reprovabilidade à conduta delitiva do autuado e denota o perigo gerado pelo seu estado de liberdade" (e-STJ fls. 63/64).
+Assim, os argumentos lançados pela autoridade apontada como coatora, em cotejo com os elementos que instruem os presentes autos, autorizam a conclusão do acerto do indeferimento da medida sumária.
+Além disso, mister destacar que o revolvimento dessa questão certamente acarretaria a indevida supressão de instância, pois será alvo de exame oportuno na Corte de Justiça indicada como coatora, quando do julgamento do seu mérito.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno deste Superior Tribunal de Justiça, indefiroliminarmente o presente habeas corpus.
+Publique-se. Intime-se.
