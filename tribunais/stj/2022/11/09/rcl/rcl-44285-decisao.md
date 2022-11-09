@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de reclamação, com pedido de liminar, ajuizada por REINALDO RIBEIRO DA SILVA, em face do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, com fundamento no art. 988, I, II e IV, do CPC/15.
+Em síntese, oreclamante sustenta que, "o Douto Relator da 1ª Câmara Cível do Egrégio Tribunal de Justiça do Estado do Maranhão não preservou a competência daquele órgão colegiado quando deixou de remeter o Agravo Interno impedindo o esgotamento das vias recursais extraordinárias, evidente a clara violação do Tema 434 do SuperiorTribunal de Justiça" (fls. 4-5, e-STJ).
+Afirma, ademais, que "a interposição do Agravo interno contra a decisão monocrática detém a necessidade de julgamento colegiado para o esgotamento das instâncias com objetivo de acesso aos Tribunais Superiores" (fl. 7, e-STJ).
+É O RELATO DO NECESSÁRIO. DECIDO.
+A reclamação prevista no art. 988 do CPC/2015 constitui ação destinada à preservação da competência do STJ (inciso I), à garantia da autoridade das decisões desta Corte (inciso II) e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (inciso IV e § 4º).
+No particular, pretende o reclamante que seja cassada a decisão monocrática exarada pelo Desembargador Relator, que negou seguimento ao agravo interno na apelação, a fim de que seja o recurso remetido a julgamento pelo colegiado do TJ/MA.
+Verifica-se, portanto, que a pretensão deduzida não se enquadra em nenhuma das hipóteses de cabimento de reclamação para o STJ.
+Em primeiro lugar, porque a competência para processar e julgar o agravo interno interposto pelo reclamante contra a decisão monocrática do Desembargador Relator da apelação é do próprio TJ/MA, não havendo falar em usurpação de competência do STJ.
+Não por outro motivo, a jurisprudência desta Corte orienta que "a competência para examinar o agravo interno interposto contra decisão da Vice-Presidência do tribunal de origem, que nega seguimento a recurso especial fundamentada em recurso repetitivo, é exclusiva do Colegiado da Corte a quo, não havendo falar em usurpação de competência deste Superior Tribunal" (AgInt na Rcl n. 42.375/SP, Primeira Seção, julgado em 15/3/2022, DJe de 17/3/2022). Na mesma linha: AgInt na TutPrv na Rcl n. 39.400/RJ, Primeira Seção, julgado em 19/5/2020, DJe de 21/5/2020; AgInt na Rcl n. 39.040/RJ, Segunda Seção, julgado em 19/5/2020, DJe de 26/5/2020.
+Em segundo lugar, porque, consoante definido pela Corte Especial na Rcl 36.476/SP, não é cabível o ajuizamento de reclamação com vistas ao controle da aplicação, no caso concreto, de tese firmada pelo STJ em recurso especial repetitivo (Rcl n. 36.476/SP, julgado em 5/2/2020, DJe de 6/3/2020).
+Por fim, o reclamante não aponta ofensa direta a qualquer decisão proferida por esta Corte, cuja autoridade seja necessário garantir.
+Forte nessas razões, INDEFIRO liminarmente a petição inicial e, em consequência, JULGO EXTINTA a reclamação, sem exame de mérito, com fundamento no art. 34, XVIII, "a", do RISTJ.
+Intimem-se. Publique-se.
+EMENTA
+RECLAMAÇÃO. PRETENSÃO DE CASSAÇÃO DE DECISÃO MONOCRÁTICA QUE NEGOU SEGUIMENTO AO AGRAVO INTERNO NA APELAÇÃO. JULGAMENTO COLEGIADO DO AGRAVO INTERNO. COMPETÊNCIA DO TRIBUNAL DE ORIGEM. INOBSERVÂNCIA DE TESE FIRMADA EM RECURSO ESPECIAL REPETITIVO. AUSÊNCIA DE OFENSA DIRETA À DECISÃO DO STJ. NÃO CABIMENTO DA RECLAMAÇÃO.
+1. A competência para processar e julgar o agravo interno interposto pelo reclamante contra a decisão monocrática do Desembargador Relator da apelação é do próprio Tribunal de origem, não havendo falar em usurpação de competência do STJ.
+2. Consoante definido pela Corte Especial na Rcl 36.476/SP, não é cabível o ajuizamento de reclamação com vistas ao controle da aplicação, no caso concreto, de tese firmada pelo STJ em recurso especial repetitivo.
+3. Cabe ao reclamante apontar a ofensa direta à decisão proferida por esta Corte, cuja autoridade seja necessário garantir por meio da reclamação.
+4. Reclamação extinta, sem exame de mérito.
