@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por COROL COOPERATIVA AGROINDUSTRIAL, contra decisão monocrática que conheceu do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+Ação: execução de título extrajudicial, ajuizada por BANCO RABOBANK INTERNATIONAL BRASIL S/A (anterior denominação de DJF FUNDO DE INVESTIMENTO EM DIREITOS CREDITÓRIOS NÃO - PADRONIZADOS, representado por JIVE ASSET GESTÃO DE RECURSOS LTDA.), em face de COROL COOPERATIVA AGROINDUSTRIAL.
+Decisão interlocutória: rejeitou a impugnação da agravante e homologou o laudo pericial com seu respectivo complemento.
+Acórdão: deu parcial provimento ao Agravo de Instrumento interposto pela agravante, nos termos da seguinte ementa:
+"Agravo de Instrumento. Carta precatória. Execução de título extrajudicial. Laudo judicial de avaliação de imóvel. Pedido de nova avaliação do bem. Descabimento. Ausência dos requisitos legais (art. 873/NCPC). Perito que avaliou o imóvel in loco, conferindo a metragem da área e o estado de conservação das benfeitorias. Necessidade apenas de atualização do valor avaliado, tendo em vista que já transcorreu mais de um ano da produção do laudo. Recurso conhecido e parcialmente provido." (e-STJ fl. 134)
+Embargos de Declaração: opostos, pelo agravado, foram acolhidos, sem efeitos infringentes, para determinar que a atualização monetária do valor obtido na avaliação do imóvel será feita pelo índice IPCA-E, a fim de recompor a desvalorização da moeda; opostos, pela agravante, foram rejeitados. (e-STJ fl. 179/181)
+Recurso especial: alega violação dos arts. 873, 1.022, I, II, CPC/15. Além de negativa de prestação jurisdicional, sustenta que: i) para que haja satisfação do crédito do recorrido, haverá constrição judicial do patrimônio da recorrente, mas a recorrente não pode ser reduzida à míngua, sendo que a Corte local deverá fazer com que a redução do patrimônio recaia sobre bens de menor necessidade para a recorrente, além de que a própria lei preconiza a impenhorabilidade de certos bens; e, ii) há a possibilidade da realização de nova avaliação, o que se mostra prudente para se apurar o real valor do bem penhorado e não causar prejuízos à recorrente, visto que ela comprovou, por laudo extrajudicial, a ocorrência do erro da avaliação do perito judicial.
+Decisão monocrática: conheceu do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+Razões do agravo interno: sustenta a negativa de prestação jurisdicional e a não incidência do óbice sumular como apontado na decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CARTA PRECATÓRIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. INCONFORMISMO QUANTO A INCIDÊNCIA DA SÚMULA 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de execução de título extrajudicial.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3 A insurgência da agravante quanto à incidência da Súmula 7/STJ, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por ela manejado.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por COROL COOPERATIVA AGROINDUSTRIAL, contra decisão monocrática que conheceu do agravo e, com fundamento no art. 932, IV, "a", do CPC/2015, bem como na Súmula 568/STJ, conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A agravante defende a ocorrência de negativa de prestação jurisdicional alegando que há contradição na decisão recorrida em relação ao lapso temporal entre a avaliação do imóvel e o julgamento do recurso de agravo de instrumento e que há erro da avaliação judicial, pois a Corte local pautou sua apreciação tão somente no fato do perito judicial ter avaliado o imóvel com rigor metodológico, descrevendo os detalhes do imóvel, e a perícia ter sido realizada in loco, além do fato, da agravante não ter feito prova do erro da avaliação.
+No entanto, das razões trazidas em sede de agravo interno, percebe-se, nitidamente, que não há negativa de prestação jurisdicional, mas a agravante deseja é que esta Corte adentre em matéria fático-probatória.
+No caso, a Corte local consignou que da análise dos documentos juntados aos autos, não existe fundada dúvida a respeito do valor do imóvel constrito.
+Também, entendeu a Corte local que, tendo em vista que já havia transcorrido mais de um ano do laudo de avaliação, mostrava-se adequada a atualização monetária.
+Além disso, registrou a Corte local que o expert fez a avaliação in loco do terreno penhorado e das suas benfeitorias.
+Assim, o fato de a Corte local ter aplicado o direito que entendia cabível à hipótese e solucionando integralmente a controvérsia submetida à sua apreciação, mesmo em sentido oposto ao pretendido pela agravante, não configura uma negativa de prestação jurisdicional.
+A agravante se insurge, também, contra a incidência da Súmula 7 desta Corte ao caso. Para tanto, aduz que não há qualquer questão que demande revolvimento do conjunto probatório, mas sim, uma nova valoração jurídica dos fatos incontroversos delineado nos autos.
+No caso, a Corte local consignou que para a determinação de reavaliação do bem penhorado deve estar presente alguma das hipóteses dispostas no art. 873 do NCPC e, no caso, diante da análise dos documentos juntados aos autos, não existe fundada dúvida a respeito do valor do imóvel constrito.
+Também, observou a Corte local que o avaliador judicial identificou de forma adequada o imóvel (com fotos, inclusive), apresentando os limites e confrontações, informou a localização e acesso, descreveu a topografia, por fim, realizou a avaliação pelo método evolutivo, que conjuga o método comparativo com o método de quantificação do custo de benfeitorias (mov. 221.1 - processo originário), além de ter esclarecido em laudo complementar as insurgências da agravante.
+No mais, registrou a Corte local que o expert fez a avaliação in loco do terreno penhorado e das suas benfeitorias tendo considerado a área e o estado de conservação dos bens para apurar o montante.
+Por fim, entendeu a Corte local que o laudo particular apresentado pela agravante não é suficiente o bastante para retirar a credibilidade da avaliação judicial.
+Desta forma, cumpre ressaltar que, na hipótese em que pretende impugnar a aplicação da Súmula 7/STJ, deve a agravante não apenas mencionar que o referido enunciado deve ser afastado, mas, além disso, também deve demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que não restou configurado.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO do presente agravo interno.
