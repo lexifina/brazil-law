@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interposto por DATORA TELECOMUNICACOES LTDA contra decisão unipessoal, proferida pelo Ministro Presidente desta Corte,que não conheceu do agravo em recurso especial que interpusera.
+Ação: de obrigação de fazer, ajuizada pelos agravados, em face daagravante e das interessadas, na qual relatam quetiveram conhecimento de que terceiros vem utilizando indevidamente de dados, marca e nome empresarial da agravadaLocaliza e do nome e imagem da agravada Maria Inês, funcionária da Localiza, para realizar negociações de veículos fraudulentas por meio de e-mail e telefones falsos.Alegaram que as linhas telefônicas utilizadas são mantidas perante as operadoras TELEFÔNICA, DATORA e TIM, e que o domínio falso "@localizasinistro. com" está hospedado pela interessada GODADDY.Requereram, assim, a condenação da requerida GODADDY à obrigação de fazer consistente na exclusão do domínio "@localizasinistro. com" e seus desdobramentos, bem como a condenação das interessadas e da agravante à obrigação de fazer consistente na suspensão das linhas telefônicas indicadas na inicial, bem como ao fornecimento dos dados cadastrais dos contratantes das linhas.
+Sentença: julgou parcialmente procedentes os pedidos, para: (i) condenar a interessada GODADDY à suspensão dos domínios"@localizasinistro. com" e "@localizasinistros. com", enquanto durar a contrato com o usuário, e ao fornecimento dos registros de acesso e demais informações cadastrais que dispuser; (ii) condenar TELEFÔNICA e agravante DATORA à suspensão das linhas telefônicas indicadas na inicial, assim como ao fornecimento dos dados cadastrais que dispuserem, para que seja viabilizadaa identificação do contratante das linhas telefônicas (31) 99580-8576, (31) 99864-6346 e (31) 2626-4036.
+Acórdão: deu provimento à apelação interposta pelas agravadas e negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+PRESTAÇÃO DE SERVIÇOS INTERNET AÇÃO DE OBRIGAÇÃO DE FAZER SUSPENSÃO DOS DOMÍNIOS "@localizasinistro. com"e "@localizasinistros. com" - Ação parcialmente procedente para suspensão dos domínios e identificação dos usuários - Honorários sucumbenciais - Sendo necessário o ajuizamento da ação para obtenção de dados protegidos por sigilo e não havendo a resistência por parte das rés no atendimento da determinação judicial, de rigor a exclusão da obrigação das partes em arcar com os honorários advocatícios de sucumbência.
+RECURSO DAS AUTORAS PROVIDO RECURSO DA CORRÉ DATOR DESPROVIDO. (e-STJ Fl. 782)
+Recurso especial: alega violação dos arts. 242, 248, § 2º, e 1.022do CPC/15, bem como dissídio jurisprudencial.
+Decisão unipessoal: proferida pelo Ministro Presidente desta Corte, não conheceu do agravo em recurso especial, ante a aplicação da Súmula 182/STJ, eis que parte a agravante não impugnou todos os fundamentos utilizados pelo TJ/SP para inadmitir o recurso especial que interpusera.
+Agravo interno: nas razões do presente recurso, a parte agravante sustenta a inaplicabilidade da Súmula 182/STJ à hipótese dos autos, eis que impugnou todos os fundamentos da decisão que negou seguimento ao apelo especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182. INCIDÊNCIA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial interposto pela parte agravante, com fundamento no art. 253, parágrafo único, I, do RISTJ, e da aplicação, por analogia, da Súmula 182/STJ, tendo em vista que esta não teria impugnado todos os fundamentos da decisão que inadmitiu o seu recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada. Assim, cabia à parte agravante demonstrar que, nas razões do agravo em recurso especial, combateu os termos da decisão agravada, ônus do qual não se desincumbiu, não sendo possível impugnar a decisão de admissibilidade no agravo interno.
+E, consoante entendimento pacífico desta Corte, não merece conhecimento o agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial, a teor do disposto na Súmula 182 do STJ, a qual se subsume perfeitamente ao presente recurso.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
