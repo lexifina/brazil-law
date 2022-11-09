@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por VIVER INCORPORADORA E CONSTRUTORA S. A.e INPAR PROJETO 44 SPE LTDA., ambasem recuperação judicial,contra decisão desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 178):
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. SUBMISSÃO DO CRÉDITO AO PLANO DE RECUPERAÇÃO JUDICIAL. FATO GERADOR ANTERIOR AO DEFERIMENTO DO PEDIDO DE INSTAURAÇÃO DO PLANO DE SOERGUIMENTO. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões recursais, pleiteiam as agravantes pelo afastamento do óbice da Súmula 283/STF, sob o argumento de que foram devidamente impugnados os fundamentos do acórdão recorrido, notadamente no tópico "Impositiva extinção do cumprimento de sentença - novação do crédito - artigos 49 e 59 da Lei Federal n. 11.101/2005 da Viver Incorporadora e Construtora S.A." (e-STJ, fl. 187).
+Alegam que a existência do crédito é determinada pela data em que ocorreu o fato gerador.
+Requerem, assim, a reconsideração da decisão agravada.
+Impugnação apresentada às fls. 212-225 (e-STJ), com pedido de aplicação das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. SUBMISSÃO DO CRÉDITO AO PLANO DE RECUPERAÇÃO JUDICIAL. FATO GERADOR ANTERIOR AO DEFERIMENTO DO PEDIDO DE INSTAURAÇÃO DO PLANO DE SOERGUIMENTO. FALTA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. Considerando que os fundamentos do acórdão recorrido, de fato, não foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+2. Agravo interno a que se nega provimento.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão.
+Da atenta leitura dos argumentos expostos nas razões do recurso especial, notadamente no tópico III.2, às fls. 58-60 (e-STJ), constata-se que as recorrentes deixaram de impugnar os seguintes fundamentos do acórdão recorrido: i) quanto à impossibilidade de análise da tese referente à inclusão do crédito executado no plano de recuperação judicial, visto que a recorrente INPAR PROJETO 44 SPE LTDA. afirmou não ter sido incluída no plano de soerguimento; e ii) que não houve decisão da questão jurídica em relação à Viver Incorporadora e Construtora Ltda.
+Assim, torna-se inviável o conhecimento do apelo especial, em virtude da aplicação, por analogia, do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Ilustrativamente:
+PROCESSUAL CIVIL. NEGATIVA DE SEGUIMENTO DO RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. NÃO CABIMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. FUNDAMENTO INATACADO. IRRESIGNAÇÃO DEFICIÊNCIA. REEXAME DE PROVA. IMPOSSIBILIDADE.
+1. O Plenário do STJ decidiu que  aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça  (Enunciado Administrativo n. 2, sessão de 09/03/2016).
+2. É incabível o agravo em recurso especial para impugnar a parte da decisão a quo que negou seguimento ao apelo raro com fundamento no art. 1.030, I, "b", do CPC/2015.
+3. Inexiste ofensa ao art. 535 do CPC/1973 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+4. Conforme entendimento sedimentado na Súmula 283 do STF, não se conhece de recurso especial quando inexistente impugnação específica a fundamento autônomo adotado pelo órgão judicial a quo.
+5. O recurso especial não se presta para o reexame do contexto fático-probatório delineado no acórdão recorrido. Inteligência da Súmula 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no AREsp n. 1.588.532/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 26/9/2022, DJe de 3/10/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, AMBOS DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS E ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULAS N.os 5 E 7, AMBAS DO STJ. FUNDAMENTO AUTÔNOMO NÃO ESPECIFICAMENTE IMPUGNADO. INCIDÊNCIA DA SÚMULA N.º 283 DO STF, POR ANALOGIA. CONTRATO DE PLANO DE SAÚDE COLETIVO EMPRESARIAL. MANUTENÇÃO DO EX-EMPREGADO E SUA ESPOSA COMO BENEFICIÁRIOS DO PLANO DE SAÚDE POR MAIS DE 20 ANOS. MORTE DO TITULAR. EXCLUSÃO DA DEPENDENTE INDEVIDA PELO EX-EMPREGADOR. RESPONSABILIDADE PELA CONFIANÇA. ABUSO DO DIREITO. SUPRESSIO. PRECEDENTE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Existindo argumento capaz de manter o acórdão impugnado por suas próprias pernas, não havendo o ataque específico a tal ponto, colhe-se a incidência, por analogia, da Súmula n.º 283 do STF.
+( )
+7. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+8. Agravo interno não provido.
+(AgInt no REsp n. 1.846.929/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 26/9/2022, DJe de 28/9/2022.)
+No que concerne ao pleito trazido na impugnação pelo agravado - de aplicação da multa do art. 1.026, § 2º, do CPC/2015 -, constata-se que não está configurado o manifesto intuito protelatório capaz de ensejar a incidência da sanção.
+Por fim, a multa prevista no § 4º do art. 1.021 do CPC/2015 não possui aplicação automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parteagravanteao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorre na hipótese ora examinada.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO INEXISTENTE. ARTS. 489 E 1.022 DO CPC/2015. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. HONORÁRIOS ADVOCATÍCIOS. REDUÇÃO. IMPOSSIBILIDADE. MATÉRIA DE PROVA. SÚMULA Nº 7/STJ. ART. 1.021, § 4º, DO CPC/2015. MULTA NÃO AUTOMÁTICA. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ). 2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte. 3. Tendo o tribunal de origem decidido a questão após minuciosa análise de provas e circunstâncias fáticas dos autos, não há como rever tal posicionamento em virtude do óbice da Súmula nº 7/STJ. 4. Excetuadas as hipóteses em que o valor afigura-se manifestamente ínfimo ou exorbitante, o que não se verifica na espécie, a majoração ou redução dos honorários advocatícios, igualmente, atrai a incidência da Súmula nº 7/STJ. 5. A aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, visto não se tratar de mera decorrência lógica do não provimento do agravo interno. Precedente. 6. Agravo interno não provido.
+(AgInt no AREsp 1.616.329/SP, relator ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 25/5/2022).
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento manifestado no aresto impugnado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
