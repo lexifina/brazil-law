@@ -1,0 +1,16 @@
+DECISÃO
+ALEX GIBERSON DOS SANTOSinterpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão doTribunal de Justiça do Estado de São Paulo,na Apelação Criminal n. 1500349-38.2021.8.26.0536.
+Consta dos autos que o recorrente foi condenado a 7 anos de reclusão, em regime fechado, mais multa, pela prática do delito de tráfico de drogas.
+Nas razões recursais, a defesa aponta violação dos arts. 65, III, "d" e 67, ambosdo Código Penal. Busca a compensação integral da agravante da reincidência com a confissão espontânea.
+Apresentadas as contrarrazões (fls. 295-301) e admitido o recurso (fls. 304-305), o Ministério Público Federal manifestou-se pelo seu provimento (fls. 315-317).
+Decido.
+A instância de origem em que pese haverreconhecidoa confissão espontânea, deixou de realizar a compensação integral por ser a reincidência específica.
+Uma vez reconhecida a confissão, entende esta Corte Superior que"É possível,nasegunda fase da dosimetria da pena, acompensação daagravantedareincidência com a atenuante da confissãoespontânea, porseremigualmentepreponderantes, de acordo com o artigo 67do CódigoPenal"(REspn.1.341.370/MT, Rel. Ministro Sebastião ReisJúnior, 3ª S.,DJe17/04/2013).
+Também é certo que este Superior Tribunal havia consolidado oentendimentode que a compensação da confissão espontânea com a agravantegenérica dareincidência deveria "atender a certos parâmetros, como aespécie, anatureza e os graus de reincidência, sob pena de violação aosprincípiosda individualização da pena e da proporcionalidade" (AgRg noREsp1.356.527/DF, Rel. Ministro Marco Aurélio Bellizze, 5ª T., DJe25/9/2013).
+Vários foram os precedentes que não permitiam a compensação entreaconfissão e a reincidência, quando a recidiva do réu for específicae/ounumerosa, por evidenciar maior reprovabilidade da conduta.
+Contudo, em sessão realizada em 11/10/2017, a Terceira Seção destaCorteSuperior, por ocasião do julgamento do HC n. 365.963/SP, Rel.MinistroFelix Fischer, DJe 23/11/2017, decidiu ser possível a integralcompensaçãoda atenuante da confissão espontânea com a reincidênciaespecífica.
+Esse entendimento foi recentemente reafirmado pela Terceira Seção do STJ,ao apreciar o tema repetitivo n. 585. Confira-se: "A reincidência,aindaque específica, deve ser compensada integralmente com a atenuantedaconfissão, demonstrando, assim, que não deve ser ofertado maiordesvalor àconduta do réu que ostente outra condenação pelo mesmo delito"(REsp n.1.947.845/SP, Rel. Ministro Sebastião Reis Júnior, 3ª S., DJe 24/6/2022).
+No caso, apontada apenas uma condenação a título de reincidência,constatoque não há óbice à compensação integral entre a confissãoespontânea e areferida agravante.
+Apena-base da recorrentefoi fixada em 5anose 10 meses de reclusão e 583 dias-multa. Na segunda etapa, reconhecida a violação legal, compenso integralmente as referidas circunstâncias, o que mantém a pena inalterada. Na terceira fase, ausentes causas de aumento e de diminuição,tornodefinitivamente estabelecida em 5 anos e 10 mesesde reclusão, mais 583 dias-multa.
+À vista de todo o exposto, conheçodo recurso e dou-lhe provimento,para compensar a confissão espontânea com a reincidência e redimensionar a pena para 5 anos e 10 meses de reclusão, mais 583 dias-multa.
+Publique-se e intimem-se.
