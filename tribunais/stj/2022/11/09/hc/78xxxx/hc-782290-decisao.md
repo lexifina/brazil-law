@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Jean Willian Livinhali, em que se aponta como autoridade coatora a Décima QuintaCâmara Criminal do Tribunal de Justiça de São Paulo, quenegou provimento à Apelação defensiva n. 1500256-67.2021.8.26.0571, mantendo a condenação do paciente àpenade 5 anos de reclusão, em regime fechado, e 500 dias-multa,como incurso no art. 33, caput, da Lei n. 11.343/2006, imposta pelo Juízo da 1ª Vara Criminal da comarca de Itapetininga/SP (Ação Penal n. 1500256-67.2021.8.26.0571).
+Neste writ,busca a impetrante a absolvição do paciente da conduta tipificada pelo art. 33, caput, da Lei n. 11.343/2006, e a desclassificação para a conduta prevista no art. 28 do mesmo diploma legal(fl. 7).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstraçãoda ilegalidade, ônus que recai sobre a impetrante, a quem cumpre instruir o feito com aprova pré-constituída de suas alegações.
+In casu, verifico, de plano,a inviabilidade do presente writ.
+Em relação ao pedido de desclassificação, consta o seguinte do acórdão (fls. 116):
+ ..  O réu Jean negou, na fase policial, o cometimento do crime de tráfico ilícito de entorpecentes (fl. 5). Em juízo, confessou a prática do delito. Disse que, à época dos fatos, saiu de casa e foi morar na rua. É usuário de drogas, mas encontrava-se em processo de recuperação. Para sustentar seu vício, auxiliava traficantes na venda de drogas. No dia do ocorrido, contatou a testemunha Tiago, que revelou interesse em adquirir duas porções de cocaínas; ato contínuo, pegou o entorpecente e o entrega a Tiago, quando, então, policiais militares chegaram ao local e procederam à abordagem deles. Tentou correr, mas foi alcançado pela equipe policial (fl. 156).
+Os policiais militares Odil Ferreira dos Santos Júnior e Ulisses José da Silva narraram de forma segura, coesa e imparcial, em ambas as fases da persecução penal, que na data do fato, estavam em patrulhamento de rotina, quando avistaram na via pública o réu Jean estabelecendo contato com a testemunha Tiago, aparentando movimentação típica de tráfico de drogas. O local já era conhecido como ponto de venda de entorpecentes. Ao notar a aproximação policial, Jean tentou evadir-se, mas foi alcançado e abordado pela equipe policial. Em busca pessoal, encontraram oitenta e quatro reais em poder de Jean, e duas porções de cocaína na posse de Tiago. Indagado, Tiago disse que havia acabado de comprar do acusado Jean referido entorpecente, pagando dez reais por cada porção. Diante dos fatos, conduziram ambos à delegacia (fls. 2/3 e 156).
+A testemunha Tiago Felipe Batista de Paula, ouvida na polícia e em juízo, que na data do fato, foi até o local para comprar drogas e, quando a polícia chegou, havia acabado de comprar drogas do réu Jean (fls. 4 e 156).
+ ..
+Os policiais militares Odil e Ulisses confirmaram em juízo que, na data do fato, surpreenderam o réu Jean em local conhecido como ponto de venda de drogas, na posse de R$ 84,00 em dinheiro, quando ele acabara de entregar duas porções de cocaína (0,85 g) à testemunha Tiago, a qual admitiu informalmente a aquisição do entorpecente do réu.
+Assim, apenas mediante incursão no acervoprobatório seria possível rever a conclusão apresentada, sendo inviável adotar tal medida na estreita via dohabeas corpus,que demanda prova pré-constituída das alegações.
+A instância local assentou a finalidade da droga para terceiros, bem como colheu depoimentos atestando o fornecimento de drogas anterior pelo paciente, razão pela qual inviável a revisão da conclusão acima.
+Ante o exposto, indefiro liminarmente owrit.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO PARA O ART. 28 DA LEI N. 11.343/2006. INCURSÃO NO ACERVO PROBATÓRIO. NECESSIDADE DE PROVAS PRÉ-CONSTITUÍDAS.IMPOSSIBILIDADE.
+Writ indeferido liminarmente.
