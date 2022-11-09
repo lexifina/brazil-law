@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto pela Refinaria de Petróleo de Manguinhos S.A.contra decisão que não conheceu do seu recurso especial, fundamentado no art. 105, III,a,da CF/1988 contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AGRAVO DE INSTRUMENTO Ação judicial em fase de execução contra a Fazenda Pública Cessão de créditos Duplicidade de cessões Decisão recorrida que dá por prevalecente a cessão que foi primeiro comunicada ao Juízo Admissibilidade Ausência de impugnação específica em contrário. RECURSO NÃO PROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+O Recurso Especial, carreado às fls. 71/103, expõe violação expressa aos arts. 100, § 13/14, da Constituição Federal; artigos 215, 288 e 291, do CC; e artigo 129, § 9º, da Lei nº 6.015/73,tendo em vista a ocorrência de duplicidade de cessão de crédito.
+ ..
+Em sendo desnecessário o revolvimento do acervo probatório, a admissão do Recurso Especial é medida que se impõe e se requer, a fim de que seja pacificada a divergência decisória com os dispositivos de lei federal, conforme expõe-se nesta oportunidade.
+ ..
+A rigor, é fato que o art. 100, § 14, da CF3, não estabelece critério de precedência, mas tão somente um pré-requisito de eficácia da cessão, exigindo-se a disciplina subsidiária e específica constante do Código Civil, que traz solução pontual para a questão da precedência, como se observa no quanto disposto no art. 288, do CC.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO.AÇÃO JUDICIAL EM FASE DE EXECUÇÃO CONTRA A FAZENDA PÚBLICA. CESSÃO DE CRÉDITO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. IMPOSSIBILIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. IMPOSSIBILIDADE DE APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS.
+I - Trata-se de agravo de instrumento interposto contra decisão interlocutória do Juízo da Unidade de Processamento das Execuções contra a Fazenda Pública da Comarca da Capital- UPEFAZobjetivando reformar a decisão agravada.No Tribunala quo, o recurso foi desprovido.
+II - Na hipótese dos autos, verifica-se que a irresignação da recorrente vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu sobre a lide.
+III - Nesse diapasão, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o enunciado da Súmula n. 7/STJ.
+IV - No mais, no que tange àalegada violação do art. 100 da CF/1988, não cabe ao STJ a análise de suposta violação de dispositivos constitucionais, ainda que para o fim de prequestionamento, porquanto o julgamento de matéria de índole constitucional é de competência exclusiva do STF, consoante disposto no art. 102, III, da Constituição Federal. Nesse sentido: AgInt no REsp n. 1.604.506/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 16/2/2017, DJe de 8/3/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; EDcl no REsp n. 1.770.095/DF, Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 29/9/2022; e AgInt no AREsp n. 1.884.226/SP, Ministro Francisco Falcão, Segunda Turma, DJe 21/9/2022.
+V - Portanto, é vedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp n. 575.787/DF, relatorMinistro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp n. 1.677.316/SP, relatoraMinistra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp n. 1.294.078/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+VI - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Na hipótese dos autos, verifica-se que a irresignação da recorrente vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, concluiu que (fls. 41-42):
+(..)
+De acordo com as alegações da recorrente, houve duplicidade de cessões de créditos relativos ao precatório cujo cumprimento é objeto da presente fase processual.
+Alega a recorrente que sua cessão foi preterida em relação à cessão ocorrida em favor da agravada.
+Deveras, a decisão recorrida entendeu que o critério para elegera cessão prevalecente seria a da que primeiro foi comunicada ao Juízo, de acordo com o art. 100, § 14º, da Constituição Federal, segundo o qual, "a cessão de precatórios somente produzirá efeitos após comunicação, por meio de petição protocolizada, ao tribunal de origem e à entidade devedora".
+A argumentação da recorrente é a de que, uma vez que o art. 291 do Código Civil determina que "ocorrendo várias cessões do mesmo crédito, prevalece a que se completar com a tradição do título do crédito cedido", e que o art. 129 da Lei de Registros Públicos disciplina que "estão sujeitos a registro, no Registro de Títulos e Documentos, para surtir efeitos com relação a terceiros: (..) os instrumentos de cessão de direitos e de créditos, de sub-rogação e de dação em pagamento", seria este registro no Registro Civil de Títulos e documentos que concretizaria a tradição.
+Tal raciocínio não favorece a recorrente nem poderia prevalecer.
+(..)
+Logo, não é o registro no Registro Civil de Títulos e Documentos que corporifica a tradição do crédito.
+No caso concreto, tratando-se de crédito judicial, é impossível sua tradição por um título. Por isso, o critério constitucional utilizado pela decisão recorrida é bastante razoável para solucionar qual das cessões deve prevalecer: aquela que primeiro foi comunicada ao Juízo.
+Note-se, ademais, que a recorrente não demonstrou qualquer vício na cessão em favor da agravada, a tornar incontroversa sua anterioridade com relação ao Juízo.
+(..)
+Nesse diapasão, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese o enunciado da Súmula n. 7/STJ.
+No mais, no que tange àalegada violação do art. 100 da CF/1988, não cabe ao STJ a análise de suposta violação de dispositivos constitucionais, ainda que para o fim de prequestionamento, porquanto o julgamento de matéria de índole constitucional é de competência exclusiva do STF, consoante disposto no art. 102, III, da Constituição Federal. Nesse sentido: AgInt no REsp n. 1.604.506/SC, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 16/2/2017, DJe de 8/3/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; EDcl no REsp n. 1.770.095/DF,Ministro Marco Aurélio Bellizze, Terceira Turma,DJe 29/9/2022; eAgInt no AREsp n. 1.884.226/SP,Ministro Francisco Falcão, Segunda Turma,DJe 21/9/2022.
+Portanto, évedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp n. 575.787/DF, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp n. 1.677.316/SP, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp n. 1.294.078/DF, relator Ministro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
