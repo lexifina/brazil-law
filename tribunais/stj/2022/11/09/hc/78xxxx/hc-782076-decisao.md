@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de LEONARDO HENRIQUE ALMEIDA ALEXANDRINO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (Agravo de Execução Penal n. 1.0000.21.039049-8/002).
+Consta dos autos que o Juízo da Execução Penal indeferiu o pedido de afastamento do caráter hediondo do crime de tráfico de drogas para fins de progressão de regime.
+Inconformada, a defesa interpôs agravo em execução perante o Tribunal de origem, que negou provimento ao recurso.
+Sustenta a impetrante que seria imperiosa a aplicação retroativa da Lei n. 13.964/2019, norma mais favorável ao réu, para afastar a hediondez por equiparação do delito de tráfico de drogas.
+Alega que a redação antiga do art. 2º, § 2º, da Lei n. 8.072/1990 fazia referência ao crime de tráfico de drogas como equiparado a hediondo, todavia, com a revogação do referido dispositivo, entende que não remanesce nenhum comando legal para equiparação do tráfico a delito hediondo.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja afastadaa hediondezdo delito de tráfico de drogaspara efeitos de progressão de regime.
+É, no essencial, o relatório. Decido.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, nos termos do art. 105, III, da Constituição Federal, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior de Justiça.
+Superado esse óbice, é impossível acolher o pleito defensivo deafastamentoda hediondez do delito de tráfico de drogas para o reconhecimento de benefícios executórios.
+Analisando a questão, destaca-se queajurisprudência desta Corte Superior é no sentido de que a equiparação a hediondo do delito de tráfico de drogas decorre de previsão constitucional constante no art. 5º, XLIII, da Carta Magna, que trata com mais rigor os crimes de maior reprovabilidade. Vejamos:
+Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes:
+ ..
+XLIII - a lei considerará crimes inafiançáveis e insuscetíveis de graça ou anistia a prática da tortura , o tráfico ilícito de entorpecentes e drogas afins, o terrorismo e os definidos como crimes hediondos, por eles respondendo os mandantes, os executores e os que, podendo evitá-los, se omitirem;
+Ademais,a Lei n. 13.964/2019, conhecida como "Pacote Anticrime", ao promoveralterações na Lei de Execução Penal, apenas afastou o caráter hediondo ou equiparadodo tráfico privilegiado, previsto no art. 33, § 4º, da Lei n. 11.343/2006, nada dispondo sobre os demais dispositivosda Leide Drogas.
+A propósito:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+ ..
+§ 5º Não se considera hediondo ou equiparado, para os fins deste artigo, o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006.
+Na espécie, verifica-se que o Tribunal de origemmanteve a equiparação do crime de tráfico de drogas àdelitos hediondos,consoante se extrai do seguinte trecho do aresto impugnado (e-STJ fls. 36-38):
+Entretanto, in casu, a Defesa pretende o afastamento da hediondez do crime de tráfico de drogas mesmo tendo o agravante sido condenado na forma do caput do art. 33 da Lei n. 11.343/2006, em que não foi aplicada a minorante prevista no § 4º do referido dispositivo legal.
+Ao revogar o §2º do art. 2º da Lei n. 8.072/1990, o legislador apenas reuniu a matéria da progressão de regime em um só dispositivo legal na LEP. Diversamente do alegado pela Defesa, não afastou o necessário rigor aos crimes hediondos e equiparados. Conforme incisos previstos no art.112 da LEP, destacando-se:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+(..)
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário; DDDD (Incluído pela Lei nº 13.964, de 2019) Grifos
+Assim, ainda que a Lei n. 13.964/2019 tenha revogado o §2º do art. 2º da Lei n. 8.072/1990, não houve a retirada do caráter de crimes hediondos por equiparação.
+As alterações trazidas pela Lei n. 13.964/2019 no âmbito da legislação da execução penal deixam claro que apenas não se equipara a hediondo o crime de tráfico de drogas quando há incidência da minorante prevista no § 4º do art.33 da Lei Antidrogas, não sendo este o caso dos autos.Confira-se o quedispõe o § 5º do art.112 da LEP:
+§ 5º Não se considera hediondo ou equiparado, para os fins deste artigo, o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006. Grifos
+Tal previsão legal apenas consagra o tratamento diferenciado que já vinha sendo atribuído pela jurisprudência à referida modalidade do tráfico de drogas. Isso, contudo, não autoriza a dedução de que o afastamento da equiparação a crime hediondo tenha se estendido às modalidades do crime previstas no art. 33, caput e §1º, da Lei de Drogas.
+ ..
+Assim, diferentemente do que alega a Defesa, o crime de tráfico de drogas é equiparado a hediondo e, portanto, recebe o mesmo tratamento - mais gravoso - para progressão de regime.
+Na espécie, como asseverado alhures, o agravante foi condenado pelo delito previsto no artigo 33, caput, da Lei n. 11.343/2006, consoante atestado de pena, crime equiparado a hediondo. Logo, é inviável a aplicação da fração relativa aos comuns para a obtenção de benefícios executórios, porquanto não se enquadra na exceção legal do art.112, § 5º, da LEP.
+Assim, a manutenção da decisão é medida que se impõe.
+Assim, verifica-se que o entendimento do acórdão impugnado não destoa da jurisprudência desta Corte Superior de Justiça sobre a matéria.Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. RETIFICAÇÃO DOS CÁLCULOS DE PENA. TRÁFICO DE DROGAS. ART. 33, CAPUT, DA LEI N. 11.343/2006. PACOTE ANTICRIME. ALTERAÇÕES QUE NÃO AFASTARAM A NATUREZA DE DELITO EQUIPARADO A HEDIONDO, QUE DECORRE DA PREVISÃO CONSTITUCIONAL. RECURSO NÃO PROVIDO.
+1."A revogação do § 2º do art. 2º da Lei 8.072/90 pela Lei 13.964/2019 não tem o condão de retirar do tráfico de drogas sua caracterização como delito equiparado a hediondo, pois a classificação da narcotraficância como infração penal equiparada a hedionda decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal." (AgRg no HC 729.332/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/4/2022, DJe 25/4/2022).
+2. Com base no julgamento do REsp 1.918.338/MT (Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 26/5/2021, DJe 31/5/2021), como recurso representativo da controvérsia, e no art. 112, § 5º, da LEP, na nova redação dada pelo Pacote Anticrime, é seguro dizer que se mantém a hediondez do crime de tráfico de drogas, ressalvando apenas, em consonância com o entendimento do STF (HC 118.533/MS, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 16/9/2016), a hipótese do tráfico privilegiado.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 729.120/RS, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. FRAÇÃO. TRÁFICO DE DROGAS. REVOGAÇÃO DO § 2º DO ART. 2º DA LEI 8.072/1990 PELA LEI 13.964/2019 (PACOTE ANTICRIME). CRIME EQUIPARADO A HEDIONDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O posicionamento desta Corte, há muito pacificado, é o de que o delito de tráfico de drogas é equiparado à hediondo, caráter apenas desconsiderado quando configurado o tráfico na modalidade dita privilegiada, definida no § 4º do art. 33 da Lei de Drogas.
+2. A mera revogação do § 2º do art. 2º da Lei n. 8.072/1990 não teve o condão de retirar do tráfico de drogas o seu caráter de delito equiparado à hediondo, conclusão reforçada pelo disposto no § 5º do art. 112 da Lei de Execução Penal - com redação definida pela Lei n. 13.964/2019, consagrando o entendimento pacificado dos tribunais superiores acerca da questão -, que dispõe que " n ão se considera hediondo ou equiparado, para os fins deste artigo, o crime de tráfico de drogas previsto no §4º do art. 33 da Lei nº 11.343, de 23 de agosto de 2006".
+3. "Diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas" (AgRg no HC n. 736.796/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 10/5/2022, DJe de 16/5/2022).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 745.958/PR, relator Ministro AntônioSaldanha Palheiro, Sexta Turma, julgado em 2/8/2022, DJe de 8/8/2022.)
+Ante o exposto, com fundamento no art. 210do Regimento Interno do Superior Tribunal de Justiça, indefiroliminarmente o presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
