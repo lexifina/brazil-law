@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedidoliminar, impetrado contra decisão que indeferiu a liminar no writdeorigem (fls. 133/135).
+Consta dos autos queos pacientes forampresos preventivamente edenunciadospor suposta violação do art. 35, c/c art. 40, V, da Lei 11.343/06; art. 180,caput, eart.330, na forma do art. 69do Código Penal.
+Nas alegações finais, o Ministério Público concluiu que não haviafundamentos para a condenação deLesley Woxitom Rodrigues pelos delitos a ele imputados,mas insistiu na condenação deÂngelo Júnior da Silva Vieirapelos delitos previstos no art. 180, caput,eart. 330, na forma do art. 69do Código Penal, pedindo, por fim, a absolvição do réuquanto aodelito de associação para o tráfico.
+No presente writ, o impetrante alega, em síntese, constrangimento ilegal em razão de excesso de prazo para prolação da sentença, uma vezque o magistrado converteu o julgamento em diligência por duas vezes sem motivação idônea.
+Sustenta que essa situação prolonga a permanência dos pacientes no cárcere ilegalmente, notadamente após a apresentação das alegações finais ministeriais, oportunidade em que o Ministério Público se manifestoupela integral absolvição de umdos pacientes e pela parcial absolvição dooutro.
+Afirma que (fls. 14-15):
+Decerto, o atraso na conclusão da instrução e na prolação da Sentença, definitivamente, não encontra guarida no PRINCÍPIO DA RAZOABILIDADE, posto que nada tem de razoável ou justificável. Além disso, é de crucial relevância anotar que NÃO SE PODE IMPUTAR À ATUAÇÃO DEFENSIVA TAMANHA DEMORA, o que pode ser constatado pela simples análise da sequência e temporalidade dos atos praticados no processamento do feito. Defato, o que provocou o excesso de prazo foi a lentidão injustificada na tramitação dos atos processuais. Além disso, é inadmissível que prisões de natureza cautelar perdurem sem limitações. Ao contrário, sua duração deve ser a mais breve possível, e sempre vista sob o prisma da razoabilidade.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva porexcesso de prazo para prolação da sentença.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Nos termos da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+Da leitura dos autos, vê-se que o pedido liminar foi indeferido aos seguintes fundamentos (fls. 134-135):
+Paralelo a isso, no que tange à alegação de excesso de prazo, ressalto que tal cálculo não deve ser feito com a simples soma dos prazos previstos em lei, mas demanda análise casuística. Assim, algumas circunstâncias podem justificar eventual dilatação do tempo de marcha processual, motivo pelo qual entendo ser necessário averiguar em mais detalhes a situação.
+Portanto, não sendo possível identificar, nesta primeira análise, situação de risco atual ou iminente à liberdade de locomoção dos pacientes, decorrente de flagrante ilegalidade, não vislumbro elementos que permitam uma decisão concessiva da liminar pleiteada, cabendo à Turma Julgadora, oportunamente, a análise definitiva do "writ".
+Posto isso, INDEFIRO a liminar requerida.
+Como se vê, o Tribunal de origem, ao indeferir o pedido liminar, o fez por não verificar de imediato, diante do exame sumário dos elementos que instruem o pedido, os requisitos necessários à concessão da medida, entendendo, dessa forma, prudente a juntada das informações para análise do pedido, por considerá-las imprescindíveis para a comprovação do alegado peloimpetrante.
+Ademais, a tese de excesso de prazo é questão passível de indeferimento liminar, sendo necessárias maiores informações com vistas ao exame circunstancial do prazo de duração do processo, não se detectando, em um juízo inicial, manifesta ilegalidade apta a justificar o deferimento da medida de urgência pelo Desembargador relator do writ originário.
+Portanto, não se verifica ilegalidade flagrante apta a autorizar a mitigação da Súmula 691/STF, cabendo ao Tribunal de origem a análise da matéria meritória.
+Outrossim, o processamento do feito implicaria inevitavelmente supressão de instância.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
