@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado pelo Estado da Bahia desafiando decisão que negou provimento a agravo em recurso especial, sob os fundamentos de que: (I) inaplicável ao caso a norma inserta no art. 40 da LEF, invocada como malferida no recurso inadmitido, haja vista que nem sequer houve a citação do executado; e (II) inviável a reforma da conclusão do Tribunal de origem quanto à responsabilidade pela demora na prática dos atos processuais, por demandar indevido revolvimento fático-probatório, nos termos da Súmula 7/STJ.
+O agravante, em suas razões, sustenta que "demonstrou que não há que se falar no presente caso de aplicação da súmula 7 do STJ, bem como, em que pese não ter juntado o inteiro teor do acórdão relativo ao cotejo analitico quando da interposição do recurso especial, fez, em suas razões, a devida comparação entre cenários, tendo sido demonstrado, portanto, o cabimento recursal no presente caso. Além disso, restou demonstrada a violação ao art 174 do CTN e ao 40, da LEF, bem como a aplicação de precedentes diversos, do STJ, ao presente caso concreto" (fl. 533).
+Transcorreu in albis o prazo para resposta (fl. 540).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. ENTENDIMENTO DA CORTE ESPECIAL.
+1. A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro LUIS FELIPE SALOMÃO, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+2. Caso concreto em que a parte agravante incorreu nas situações antes descritas.
+3. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece conhecimento.
+De acordo com o art. 1.021, § 1º, do CPC, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Esse é o teor da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida").
+A Corte Especial, ao julgar os EREsp 1.424.404/SP (Rel. Ministro LUIS FELIPE SALOMÃO, DJe 17/11/2021), decidiu que, em relação ao agravo interno manejado contra decisão monocrática de relator, aplicar-se-á o óbice encartado na Súmula 182/STJ quando a parte agravante: a) deixar de empreender combate ao único ou a todos os capítulos autônomos da decisão agravada; b) deixar de refutar a todos os fundamentos empregados no capítulo autônomo por ela impugnado.
+Na espécie, conforme destacado no relatório, a decisão agravada fundou-se em 2 (dois) fundamentos ao entender pelo não provimento do agravo em recurso especial, a saber: (I) inaplicável ao caso a norma inserta no art. 40 da LEF, invocada como malferida no recurso inadmitido, haja vista que nem sequer houve a citação do executado; e (II) inviável a reforma da conclusão do Tribunal de origem quanto à responsabilidade pela demora na prática dos atos processuais, por demandar indevido revolvimento fático-probatório, nos termos da Súmula 7/STJ.
+Nas razões do agravo interno em exame, todavia, a parte cingiu-se a afirmar, genericamente, que "demonstrou que não há que se falar no presente caso de aplicação da súmula 7 do STJ, bem como, em que pese não ter juntado o inteiro teor do acórdão relativo ao cotejo analítico quando da interposição do recurso especial, fez, em suas razões, a devida comparação entre cenários, tendo sido demonstrado, portanto, o cabimento recursal no presente caso. Além disso, restou demonstrada a violação ao art 174 do CTN e ao 40, da LEF, bem como a aplicação de precedentes diversos, do STJ, ao presente caso concreto" (fl. 533), argumentação esta que se mostra insuficiente para combater os alicerces da decisão agravada.
+Realmente, no tocante ao óbice sumular 7/STJ, o agravo interno limitou-se a defender a não ofensividade à referida súmula, à míngua de demonstrar a particularidade do caso dos autos suficiente para afastar o referido impedimento,bem assim simplesmente insistiu na violação das normas federais apontadas, o que, atoda evidência, não se presta a infirmar os pilares do decisum alvejado.
+No mais, o arrazoado do recurso vertente tratou sobre matéria estranha ao caso dos autos, em que o apelo inadmitido foi interposto apenas pelo conduto da alínea a do permissivo constitucional (cf fls. 117/124).
+Nesse contexto, incide a Súmula 182/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SEGURO. CLÁUSULA DE EXCLUSÃO. DESTAQUE. AUSÊNCIA. REEXAME. SÚMULAS N. 5 E 7/STJ. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CPC. SÚMULA N. 182/STJ. NÃO CONHECIMENTO.
+1. Nos termos do art. 1021, § 1º, do Código de Processo Civil/2015 e da Súmula 182/STJ, é inviável o agravo interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+2. Agravo interno não conhecido.
+(AgInt no AREsp 1.861.630/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 14/03/2022, DJe 22/03/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA D OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO DO INSTITUTO NACIONAL DO SEGURO SOCIAL NÃO CONHECIDO.
+1. A decisão ora recorrida não conheceu da questão meritória apresentada no recurso especial da autarquia federal em razão da impossibilidade de revisão do acervo fático-probatório dos autos na via especial, necessária para se aferir se a documentação apresentada seria suficiente para comprovar a condição de aposentado dos autores. Em razão disso, consignou-se a incidência da Súmula 7 do STJ.
+2. Neste recurso, a parte agravante não rebate as razões expostas na decisão que visa a impugnar, apenas repetindo as razões do recurso especial, para demonstrar que impugnou todos os temas abordados.
+3. Para controverter a incidência da Súmula 7 do STJ, era dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o acolhimento da pretensão recursal, de fato, não depende de reanálise do conjunto fático-probatório, esclarecendo que todos os fatos estão devidamente consignados no acórdão recorrido, o que, todavia, não ocorreu, conforme se pode constatar da simples leitura das razões do agravo interno.
+4. Agravo interno do Instituto Nacional do Seguro Social-INSS não conhecido.
+(AgInt no REsp 1.527.221/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 21/02/2022, DJe 24/02/2022)
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
