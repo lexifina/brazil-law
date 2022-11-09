@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto porELIZABETH DE OLIVEIRA COSTA SOUZAcontra decisão da Presidência de fls. e-STJ395/396, que conheceu do agravo para não conhecer dorecursoespecial, ante a incidência da Súmula 284 do STF, "uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional".
+O agravante sustenta que "a violação à sumula 577 do STJ e acórdãos paradigmas foi corretamente indicada no recurso especial, tendo em vista que referidos dispositivos veiculam as normas quanto ao reconhecimento do período rural trabalhado e reconhecido ante à presença de provas materiais iniciais e o depoimento coeso, convincente, idôneo e verossímel de testemunhas avaliadas inclusive em sua expressão corporal pelo magistrado "a quo" e que trabalharam com a Agravante nos locais e períodos indicados pela inicial" (e-STJ fl. 407).
+Sem contraminuta (e-STJ fl. 518).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO VIOLADO. INDICAÇÃO.AUSÊNCIA.VIOLAÇÃO ÀSÚMULA. EXAME. DESCABIMENTO.
+1. É firme a jurisprudência desta Corte Superior no sentido de que a faltade indicação, clara e precisa, de dispositivo de leifederal de cujainterpretação o acórdão impugnado divergiu implica deficiência nafundamentação do recurso especial.
+2.Nos termos da Súmula 518 do STJ, inviável o conhecimento de eventual contrariedade nos termos de súmula de tribunal, enunciado que, para os fins do art. 105, III, "a", da Constituição da República, não se enquadra no conceito de lei federal.
+3. No caso, não há como afastar a incidência do óbice contido na Súmula284 do Supremo Tribunal Federal, porquanto o recorrente não se desincumbiude apontar, na fundamentação do apelo extremo, qual norma legal teria sidoviolada, procedimento indispensável ao conhecimento do recurso interpostocom fulcro nas alíneas "a" ou "c" do permissivo constitucional.
+3. Agravo interno desprovido.
+VOTO
+Compulsando os autos, tenho que o inconformismo sob exame não mereceprosperar.
+Com efeito, é firme a jurisprudência desta Corte Superior no sentido deque a falta de indicação, clara e precisa, de dispositivo de lei federalde cuja interpretação o acórdão impugnado divergiu implica deficiência nafundamentação do recurso especial.
+Assim, não há como afastar a incidência do óbice contido na Súmula 284 doSupremo Tribunal Federal, porquanto o recorrente não se desincumbiu de
+apontar, na fundamentação do apelo extremo, qual norma legal teria sidoviolada, procedimento indispensável ao conhecimento do recurso interpostocom fulcro nas alíneas "a" ou "c" do permissivo constitucional.
+Nessa linha:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSOESPECIAL. AÇÃO QUE DISCUTE A ESTRUTURAÇÃO DE CARGOS DE PROVIMENTO EMCOMISSÃO AFETOS À CÂMARA MUNICIPAL DE CARIACICA/ES. RECURSO ESPECIAL QUENÃO INDICOU OS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIADA SÚMULA 284 DO STF. IMPOSSIBILIDADE DE ANÁLISE DE MATÉRIA CONSTITUCIONALPOR ESTA CORTE SOB PENA DE USURPAÇÃO DA COMPETÊNCIA DO STF. AGRAVOREGIMENTAL DO MUNICÍPIO DE CARIACICA DESPROVIDO.
+1. É pacífica a jurisprudência desta Corte Superior de que a interposiçãodo Recurso Especial tanto pela alínea a quanto pela alínea c exige aindicação expressa do dispositivo de lei federal ao qualo Tribunal deorigem teria negado vigência ou dado interpretação divergente daquelafirmada por outros tribunais. O não cumprimento de tal requisito, como nocaso dos autos, importa deficiência de fundamentação, atraindo aincidência do contido na Súmula 284 do STF.
+2. Ademais, a competência do STJ restringe-se à interpretação euniformização do Direito infraconstitucional não sendo possível o exame deviolação a dispositivos constitucionais, ainda que para fins deprequestionamento, sob pena de usurpação da competência do SupremoTribunal Federal.
+3. Agravo Regimental do MUNICÍPIO DE CARIACICA/ES desprovido.(AgRg no AREsp n. 372.647/ES, relator Ministro NAPOLEÃO NUNES MAIA FILHO,Primeira Turma, DJe 17/03/2016).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL. AGRAVO DE INSTRUMENTO. CONTRATO DE FINANCIAMENTO E SEGUROHABITACIONAL. COMPETÊNCIA DA JUSTIÇA FEDERAL. AUSÊNCIA DE INDICAÇÃO CLARADO DISPOSITIVO LEGAL VIOLADO, PELO ACÓRDÃO RECORRIDO. SÚMULA 284/STF.ALEGADA AUSÊNCIA DE COMPROMETIMENTO DO FUNDO DE COMPENSAÇÃO DE VARIAÇÕESSALARIAIS - FCVS. REEXAME. IMPOSSIBILIDADE. MATÉRIA FÁTICA. SÚMULA 7/STJ.AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Segundo a jurisprudência do STJ, "a admissibilidade do recursoespecial exige a clareza na indicação dos artigos delei federalsupostamente violados, bem como a explanação precisa da medida em que oacórdão recorrido teria afrontado cada um desses dispositivos ou a elestenha dado interpretação divergente da adotada por outro Tribunal, sobpena de incidência da Súmula nº 284 do STF" (STJ, AgRg no AREsp457.771/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 07/04/2014).No caso, tendo a parte recorrente deixado de indicar, deforma clara e precisa, qual dispositivo legal teria sido malferido, com aconsequente demonstração da eventual ofensa à legislaçãoinfraconstitucional, não há como afastar, no ponto, o óbice contido naSúmula 284 do Supremo Tribunal Federal. ..
+VI. Agravo interno improvido.(AgInt no AREsp n. 605.134/PR, relatora Ministra ASSUSETE MAGALHÃES,Segunda Turma, DJe 19/04/2016).
+Convém destacar, por oportuno, que, nos termos da Súmula 518 do STJ, inviável o conhecimento de eventual contrariedade àSúmula 577 do STJ,enunciadoque, para os fins do art. 105, III, "a", da Constituição Federal, não se enquadra no conceito de lei federal.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
