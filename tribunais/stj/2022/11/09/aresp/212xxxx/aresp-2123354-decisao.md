@@ -1,0 +1,42 @@
+DECISÃO
+O retrospecto foi bem delineado no parecer do Ministério Público Federal, do qual extraio o seguinte excerto (e-STJ fls. 369/377):
+Trata-se de agravo regimental, interposto por Cícero Ezequiel da Silva, contra a decisão do Ministro Presidente desse Superior Tribunal de Justiça, que não conheceu do agravo em recurso especial (e-fls. 567-568), então manejado contra a decisão da Presidência do Tribunal de Justiça do Distrito Federal e Territórios (e-fls. 534-535), que não admitiu o nobre apelo em face do acórdão da 2ª Turma Criminal daquela Corte (autos n.º 0723120- 95.2019.8.07.0001), que, à sua vez, deu parcial provimento à apelação do ora agravante, apenas para reduzir a pena aplicada para 05 anos de reclusão, mais 500 dias-multa, mantidos
+o regime fechado e os demais termos da sentença que o condenou pela prática do crime de tráfico de drogas, tipificado no art. 33, caput, c/c art. 40, III, ambos da Lei n.º 11.346/2006.
+Nos termos da decisão ora agravada, o inconformismo não reúne condições de trânsito, eis que o agravante deixou de impugnar especificamente os fundamentos do decisum vergastado - art. 932, III, do CPC; art. 253, parágrafo único, I, do RISTJ; e Súmula n.º 182 do STJ (e-fls. 567-568).
+O agravante aponta, de início, a insuficiência da fundamentação da decisão agravada, baseada em ilações genéricas. Alega, mais, que houve impugnação específica aos fundamentos da decisão agravada, assentando que restou demonstrada a negativa de vigência ao art. 33, § 4º, da Lei Antidrogas. Afirma, ainda, a desnecessidade de revolvimento de provas (e-fls. 570-575).
+Não sendo hipótese de retratação, o Ministro Presidente determinou a distribuição do agravo (e-fl. 580).
+Após, vieram os autos, para parecer, a esta Procuradoria-Geral da República.
+Instado a se manifestar, oMinistério Público Federal opinou ""pela concessão da ordem de habeas corpus, de ofício, para que o recorrente/agravante seja absolvido da imputação de tráfico de drogas nos termos do artigo 386, incisos III, do Código de Processo Penal, ou, ainda, para que seja a conduta desclassificada para aquela descrita no art. 28 da Lei n.º 11.343/06. Subsistindo, porém, a condenação por tráfico de drogas, pugna o Parquet Federal, desde logo, pelo desprovimento do recurso especial""(e-STJ fl. 595).
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade do agravo, reconsidero a decisão dee-STJ fls. 567/568 e passo ao exame do recurso especial interposto.
+Ao fazê-lo, destaco, preliminarmente, que,na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão nesta instância extraordinária apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de reexame do acervo fático-probatório dos autos.
+Acerca da controvérsia, assim se manifestou a Corte de origem (e-STJ fl. 484):
+No tocante o reconhecimento da causa de diminuição condizente ao tráfico privilegiado, a autoridade sentenciante consignou inviável ante a reincidência verificada.
+A Defesa técnica postulou pela incidência do artigo 33, § 4º, da Lei de Drogas, sob o argumento de tratar-se de réu primário, com bons antecedentes e não dedicar-se às atividades criminosas.
+Sem razão.
+Consoante evidenciado nos autos, o apelante possui condenação transitada em julgado por fato anterior, evidenciando a reincidência, o que não se compatibiliza com a causa especial de diminuição de pena em comento.
+Com efeito, o artigo 33, § 4º, da Lei nº 11.343/2006 prevê como condições de aplicabilidade bons antecedentes e primariedade do acusado, senão vejamos: "§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Dessa forma, em razão da reincidência do réu, não se aplica o benefício. (Grifei.)
+Pois bem.
+Aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006
+Nos termos do disposto no art. 33, § 4º, da Lei n. 11.343/2006, o agente poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário, portador de bons antecedentes, não se dedique às atividades criminosasnem integre organização criminosa.
+Na hipótese, verifica-se que o réu é reincidente, fato este que, por expressa determinação legal, afasta a incidência da referida minorante.
+Nesse sentido:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITOS DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA O ART. 28 DA LEI N. 11.343/2006. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. INCIDÊNCIA. DOSIMETRIA DA PENA. PRIMEIRA E SEGUNDA FASES. SÚMULAS N. 283 E 284/STF. MINORANTE. RÉU REINCIDENTE. INAPLICABILIDADE. PENA DE MULTA. ISENÇÃO. FALTA DE PREVISÃO LEGAL. RECORRER EM LIBERDADE. AUSÊNCIA DE INTERESSE RECURSAL.
+1. As instâncias de origem reconheceram a existência de elementos de prova suficientes para embasar o decreto condenatório, pela prática do crime de tráfico de drogas. Assim, a mudança da conclusão alcançada no acórdão impugnado, de modo a absolver ou desclassificar a conduta para o art. 28 da Lei n. 11.343/2006, exigiria o reexame das provas, o que é vedado nesta instância extraordinária, uma vez que o Tribunal a quo é soberano na análise do acervo fático-probatório dos autos (Súmulas n. 7/STJ e 279/STF).
+2. As razões do recurso especial, quanto aos pedidos de abrandamento da pena-base e de afastamento da agravante, estão completamente dissociadas dos fundamentos declinados pela instância antecedente ao calcular a dosimetria da pena. Aplicação das Súmulas n. 283 e 284/STF.
+3. "A reincidência impede a aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006, porquanto um dos requisitos legais para a sua incidência é a primariedade do acusado" (HC n. 360.200/SC, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 1º/9/2016, DJe 6/9/2016).
+4. Nos termos da jurisprudência desta Corte, não se admite a isenção da pena de multa prevista no preceito secundário da norma penal incriminadora, por falta de previsão legal.
+5. Não há interesse recursal quanto ao pedido de recorrer em liberdade, em razão do deferimento desse direito na sentença condenatória. Explicitou o magistrado sentenciante que o réu respondeu em liberdade o processo e poderia assim permanecer até o trânsito em julgado da condenação.
+6. Agravo regimental desprovido.
+(AgRg no AgRg no AREsp n. 2.026.736/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 24/5/2022, DJe de 27/5/2022. Grifei.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. TRANSNACIONALIDADE DA CONDUTA. COMPETÊNCIA DA JUSTIÇA FEDERAL. SUMULA N. 522/STF. DOSIMETRIA. MINORANTE DO ART. 33, § 4º DA LEI 11.343/06. INAPLICABILIDADE. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+VI - Outrossim, restou corretamente afastada a aplicabilidade da causa de redução de pena do art. 33, § 4º da Lei n. 11.343/06, haja vista que o agravante é reincidente e não possui bons antecedentes.
+VII - A jurisprudência desta eg. Corte Superior é firme no sentido de que "A incidência da minorante prevista no § 4º, do art. 33, da Lei n. 11.343/2006, pressupõe que o agente preencha os seguintes requisitos: a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa. No caso, a instância a quo concluiu que haveria prova bastante da dedicação da agravante ao crime (..). Inaplicável, assim, a causa de diminuição da pena do tráfico privilegiado" (AgRg no HC n. 666.046/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 8/6/2021).
+VIII - No mais, a d. Defesa se limitou a reprisar os argumentos do habeas corpus, o que atrai a Súmula n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+(AgRg no HC n. 673.498/SP, relator Ministro Jesuíno Rissato, Desembargador Convocado do TJDFT, Quinta Turma, julgado em 14/9/2021, DJe de 22/9/2021. Grifei.)
+Ante o exposto, reconsidero a decisão de e-STJ fl. 567/568, a fim de,conhecendo do agravo em recurso especial, negar provimento ao recurso especial.
+Publique-se. Intimem-se.
