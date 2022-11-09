@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, acolher os embargos de declaração, sem efeitos modificativos, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de embargos de declaração opostos por FLEX TRANSPORTES E SERVIÇOS LTDA. e LUCAS SCHOWAMBACH, contra acórdão que, por unanimidade, negou provimento ao agravo interno, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS CONTRATUAIS. INCONFORMISMO QUANTO A INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação revisional de cláusulas contratuais.
+2. A insurgência dos agravantes quanto à incidência das Súmulas 5 e 7/STJ, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por eles manejado.
+3. Agravo interno não provido.
+Em suas razões recursais, os embargantes defendem que o v. acórdão é omisso, uma vez que o Colegiado deixou de se pronunciar sobre a divergência jurisprudencial suscitada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OBSCURIDADE, OMISSÃO, CONTRADIÇÃO OU ERRO MATERIAL. EXISTÊNCIA. REFORMA DO JULGADO. POSSIBILIDADE.
+1. Os embargos de declaração, a teor do art. 1.022 do CPC, constituem recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, podendo, portanto, serem acolhidos quando a parte embargante aponta, essencialmente, a necessidade de reformar o decidido por conta de omissão.
+2. Embargos de declaração acolhidos para sanar omissão, sem efeito infringente.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de embargos de declaração opostos por FLEX TRANSPORTES E SERVIÇOS LTDA. e LUCAS SCHOWAMBACH, contra acórdão que, por unanimidade, negou provimento ao agravo interno.
+Nos termos do art. 1.022 do CPC/15, somente é cabível o recurso de embargos de declaração nas hipóteses em que haja, no julgado impugnado, obscuridade, contradição, omissão ou erro material.
+Os embargantes alegam, em suas razões recursais, que há omissão no julgado, uma vez que o Colegiado deixou de se pronunciar sobre a divergência jurisprudencial suscitada em sede de recurso especial.
+No ponto, assiste razão aos embargantes.
+No entanto, é de se observar que os embargantes deixaram de promover o necessário cotejo analítico e a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, uma vez que a análise do recurso especial fundado na alínea "c" do permissivo constitucional exige a comprovação do dissídio, por meio da apresentação de julgados que evidenciem a similitude fática das situações às quais foram dadas soluções distintas, na aplicação do direito à espécie. Nesse sentido: AgInt no AgInt no AREsp 1.589.874/SE, 4ª Turma, DJe 10/12/2020; EDcl nos EDcl no AgInt no AREsp 1.498.018/SC, 4ª Turma, DJe 04/12/2020; AgInt no REsp 1.811.525/DF, 3ª Turma, DJe 01/09/2020; AgInt no AgInt no AREsp 1.579.612/RS, 3ª Turma, DJe 18/08/2020.
+Além disso, é entendimento desta Corte que a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações. Nesse sentido: AgInt no AREsp 1.897.093/RJ, 3ª Turma, DJe 18/03/2022; AgInt no REsp 1.950.258/SP, 2ª Turma, DJe 16/02/2022; AgInt no AREsp 1.888.764/SP, 1ª Turma, DJe 09/12/2021; AgRg no AREsp 1.900.051/CE, 5ª Turma, DJe 20/08/2021; AgInt no AREsp 1.204.206/PR, 4ª Turma, DJe 19/05/2021.
+No mais, percebe-se, também, que a Súmula 7/STJ não foi afastada e, consequentemente, não se pode conhecer do recurso no tocante ao dissídio jurisprudencial, uma vez que o dissídio jurisprudencial fica prejudicado, porquanto a jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea "c" do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido. Nesse sentido: AgInt nos EDcl no AREsp 1.622.083/SP, 3ª Turma, DJe 08/09/2022; AgInt no AREsp 2.087.232/RS, 3ª Turma, DJe 31/08/2022; AgInt no AREsp 1.658.459/SC, 2ª Turma, DJe 29/08/2022; AgInt no AREsp 2.045.362/RJ, 4ª Turma, DJe 26/08/2022; AgInt no AREsp 970.389/SP, 4ª Turma, DJe 26/08/2022.
+Assim, conclui-se que o presente recurso reúne os pressupostos específicos para o seu acolhimento, mas sem que lhe seja atribuído efeito infringente.
+DISPOSITIVO
+Forte nessas razões, ACOLHO os embargos de declaração, a fim de sanar a omissão apontada pelos embargantes, sem, contudo, atribuir-lhes efeito infringente.
