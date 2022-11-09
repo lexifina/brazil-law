@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+
+Trata-se  de  agravo  interno  interposto  por  DALMO  RODRIGUES  DOS  SANTOS  contra  a  decisão  da  Presidência  do  Superior  Tribunal  de  Justiça  que  conheceu  do  agravo  para  não  conhecer  do  recurso  especial  (e-STJ  fls.  264/265).
+A  denegação  se  deu  em  virtude  da  aplicação  da  Súmula  nº  284/STF  ante  a  ausência  de  indicação,  nas  razões  do  apelo  nobre,  dos  dispositivos  de  lei  federal  que  teriam  sido  violados  ou  que  seriam  objeto  da  divergência  jurisprudencial.
+Em  suas  razões  (e-STJ  fls.  267/270),  o  agravante  postula  a  reforma  da  decisão  atacada  ao  argumento  de  que  o  dissídio  jurisprudencial  foi  devidamente  comprovado.
+Afirma  que  houve  clara  ofensa  ao  princípio  non  reformatio  in  pejus.
+Defende  a  necessidade  de  condenação  por  danos  morais  no  caso  de  empréstimo  bancário  fraudulento.
+Ao  final,  requer  a  submissão  do  feito  ao  colegiado.
+A  parte  contrária  ofereceu  resposta  às  fls.  274/279  (e-STJ).
+É  o  relatório.
+EMENTA
+  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  ADMISSIBILIDADE.  DECISÃO  AGRAVADA.  IMPUGNAÇÃO.  AUSÊNCIA.  ART.  932,  III,  DO  CPC/2015.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Incumbe  ao  agravante  infirmar  especificamente  todos  os  fundamentos  da  decisão  atacada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo  (art.  932,  III,  do  CPC/2015).
+3.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  em  data  anterior  à  publicação  da  Emenda  Constitucional  nº  125,  não  se  aplicando  ao  caso  o  requisito  de  admissibilidade  por  ela  inaugurado,  ou  seja,  a  demonstração  da  relevância  das  questões  de  direito  federal  infraconstitucional.
+A  irresignação  não  merece  prosperar.
+No  caso,  verifica-se  que  o  recurso  especial  não  foi  admitido  devido  à  incidência  da  Súmula  nº  284/STF,  tendo  em  vista  que  o  apelo  nobre  deixou  de  indicar  o  dispositivo  legal  que  teria  sido  ofendido  e  interpretado  de  forma  divergente  pelo  tribunal  de  origem.
+Entretanto,  o  agravante  limitou-se  a  reiterar  as  razões  apresentadas  quando  da  interposição  do  recurso,  não  impugnando,  de  maneira  efetiva,  concreta  e  fundamentada,  a  aplicação  do  referido  óbice.
+É  pacífico  o  entendimento  do  Superior  Tribunal  de  Justiça  de  ser  dever  do  agravante  refutar  especificamente  todos  os  fundamentos  da  decisão  atacada,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  cabimento  do  recurso  especial  interposto,  sob  pena  de  não  ser  conhecido  o  agravo,  não  bastando  para  tanto  a  impugnação  genérica,  parcial  ou  a  reiteração  das  razões  do  recurso  anterior,  consoante  determina  o  art.  932,  III,  do  CPC/2015  e  a  Súmula  nº  182/STJ.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  (..)  NÃO  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL.  CONFIRMAÇÃO  DO  NÃO  CONHECIMENTO  DO  AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  NÃO  PROVIDO.
+(..)
+2.  A  ausência  de  impugnação  específica,  na  petição  de  agravo  em  recurso  especial,  dos  fundamentos  da  decisão  que  não  admite  o  apelo  especial  impossibilita  o  conhecimento  do  recurso,  nos  termos  do  art.  932,  III,  do  CPC/2015.
+3.  Agravo  interno  ao  qual  se  nega  provimento"  (AgInt  no  AREsp  1.001.997/SC,  Rel.  Ministro  RAUL  ARAÚJO,  Quarta  Turma,  julgado  em  7/2/2017,  DJe  16/2/2017).
+"PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RAZÕES  DO  AGRAVO  QUE  NÃO  IMPUGNAM,  ESPECIFICAMENTE,  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  QUE  NÃO  ADMITIU  O  RECURSO  ESPECIAL.  ART.  932,  III,  DO  CPC/2015  E  SÚMULA  182/STJ,  POR  ANALOGIA.  MAJORAÇÃO  DE  HONORÁRIOS  ADVOCATÍCIOS.  ART.  85,  §11,  DO  CPC/2015.  MANDADO  DE  SEGURANÇA.  SÚMULA  105/STJ.  DESCABIMENTO.  AGRAVO  INTERNO  PARCIALMENTE  PROVIDO.
+(..)
+II.  Incumbe  ao  agravante  infirmar,  especificamente,  todos  os  fundamentos  da  decisão  que  inadmitiu  o  Recurso  Especial,  demonstrando  o  seu  desacerto,  de  modo  a  justificar  o  processamento  do  apelo  nobre,  sob  pena  de  não  ser  conhecido  o  Agravo  (art.  932,  III,  do  CPC  vigente).(..)
+III.  No  caso,  por  simples  cotejo  entre  o  decidido  e  as  razões  do  Agravo  em  Recurso  Especial  verifica-se  a  ausência  de  impugnação  específica  de  todos  os  fundamentos  da  decisão  que,  em  2º  Grau,  inadmitir  o  Especial,  o  que  atrai  a  aplicação  do  disposto  no  art.  932,  III,  do  CPC/2015  -  vigente  à  época  da  publicação  da  decisão  então  agravada  e  da  interposição  do  recurso  -,  que  faculta  ao  Relator  "não  conhecer  de  recurso  inadmissível,  prejudicado  ou  que  não  tenha  impugnado  especificamente  os  fundamentos  da  decisão  recorrida",  bem  como  do  teor  da  Súmula  182  do  Superior  Tribunal  de  Justiça,  por  analogia.
+(..)
+V.  Agravo  interno  parcialmente  provido,  apenas  para  excluir  a  majoração  de  honorários  advocatícios  (art.  85,  §  11,  do  CPC/2015)"  (AgInt  no  AREsp  1.115.522/PI,  Rel.  Ministra  ASSUSETE  MAGALHÃES,  Segunda  Turma,  julgado  em  3/10/2017,  DJe  13/10/2017).
+Ademais,  cumpre  consignar  que  o  referido  entendimento  restou  consolidado  pela  Corte  Especial  por  ocasião  do  julgamento  dos  EAREsp  746.775/PR,  o  qual  recebeu  a  seguinte  ementa:
+"PROCESSO  CIVIL.  EMBARGOS  DE  DIVERGÊNCIA.  IMPUGNAÇÃO  ESPECÍFICA  DE  TODOS  OS  FUNDAMENTOS  DA  DECISÃO  RECORRIDA.  ART.  544,  §  4º,  I,  DO  CPC/1973.  ENTENDIMENTO  RENOVADO  PELO  NOVO  CPC,  ART.  932.
+1.  No  tocante  à  admissibilidade  recursal,  é  possível  ao  recorrente  a  eleição  dos  fundamentos  objeto  de  sua  insurgência,  nos  termos  do  art.  514,II,  c/c  o  art.  505  do  CPC/1973.  Tal  premissa,  contudo,  deve  ser  afastada  quando  houver  expressa  e  específica  disposição  legal  em  sentido  contrário,  tal  como  ocorria  quanto  ao  agravo  contra  decisão  denegatória  de  admissibilidade  do  recurso  especial,  tendo  em  vista  o  mandamento  insculpido  no  art.  544,  §  4º,  I,  do  CPC,  no  sentido  de  que  pode  o  relator"  não  conhecer  do  agravo  manifestamente  inadmissível  ou  que  não  tenha  atacado  especificamente  os  fundamentos  da  decisão  agravada"  -  o  que  foi  reiterado  pelo  novel  CPC,  em  seu  art.  932.
+2.  A  decisão  que  não  admite  o  recurso  especial  tem  como  escopo  exclusivo  a  apreciação  dos  pressupostos  de  admissibilidade  recursal.  Seu  dispositivo  é  único,  ainda  quando  a  fundamentação  permita  concluir  pela  presença  de  uma  ou  de  várias  causas  impeditivas  do  julgamento  do  mérito  recursal,  uma  vez  que  registra,  de  forma  unívoca,  apenas  a  inadmissão  do  recurso.  Não  há,  pois,  capítulos  autônomos  nesta  decisão.
+3.  A  decomposição  do  provimento  judicial  em  unidades  autônomas  tem  como  parâmetro  inafastável  a  sua  parte  dispositiva,  e  não  a  fundamentação  como  um  elemento  autônomo  em  si  mesmo,  ressoando  inequívoco,  portanto,  que  a  decisão  agravada  é  incindível  e,  assim,  deve  ser  impugnada  em  sua  integralidade,  nos  exatos  termos  das  disposições  legais  e  regimentais.
+4.  Outrossim,  conquanto  não  seja  questão  debatida  nos  autos,  cumpre  registrar  que  o  posicionamento  ora  perfilhado  encontra  exceção  na  hipótese  prevista  no  art.  1.042,  caput,  do  CPC/2015,  que  veda  o  cabimento  do  agravo  contra  decisão  do  Tribunal  a  quo  que  inadmitir  o  recurso  especial,  com  base  na  aplicação  do  entendimento  consagrado  no  julgamento  de  recurso  repetitivo,  quando  então  será  cabível  apenas  o  agravo  interno  na  Corte  de  origem,  nos  termos  do  art.  1.030,  §  2º,  do  CPC.
+5.  Embargos  de  divergência  não  providos."
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
