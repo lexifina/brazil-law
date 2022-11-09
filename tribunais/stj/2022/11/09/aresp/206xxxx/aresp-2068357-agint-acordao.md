@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra monocráticaque decidiu recurso especialinterposto por Angelita Aparecida de Melo,com fundamento no art. 105, III, a e c, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal Regional Federal da 1ª Região, nos termos assim ementados (fl. 243):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. REMESSA OFICIAL. NÃO CABIMENTO. BENEFÍCIO DEAMPARO SOCIAL À PESSOA PORTADORA DE DEFICIÊNCIA. ART. 203, V, CF/88. LEI 8.742/93. IMPOSSIBILIDADE DE DEFERIMENTO. AUSÊNCIA DE INCAPACIDADE.
+1. A sentença sob censura, proferida sob a égide no CPC/2015, não está sujeita à remessa oficial, tendo em vista que a condenação nela imposta não ultrapassa o limite previsto no art. 496, § 3º, do referido Diploma Adjetivo.
+2. São necessários os seguintes requisitos para concessão do benefício de prestação continuada: ser a pessoa portadora de deficiência ou idosa; não receber benefício de espécie alguma e não estar vinculado a nenhum regime de previdência social; ter renda mensal familiar per capita inferior a  salário mínimo.
+3. No caso concreto: Os embargos de declaração opostos foram improvidos. Laudo pericial: No caso concreto, o perito informa que a parte autora é portadora de estado de infecção assintomática pelo vírus da imunodeficiência humana (HIV), mas que no momento não apresenta incapacidade para o trabalho. Observa-se, portanto, que não há impedimento a longo prazo que incapacite a parte autora para a vida independente e para suas atividades laborais.
+4. A perícia produzida no feito por especialista habilitado trouxe como conclusão a inexistência de impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, que, em interação com diversas barreiras, pudessem obstruir a participação plena e efetiva da parte autora na sociedade em igualdade de condições com as demais pessoas, de modo que a demandante não se enquadra no conceito previsto no§2º do art. 20 da Lei n. 8.742/1993.
+5. Impossível, nas circunstâncias dos autos, o deferimento do benefício assistencial em testilha.
+6. A coisa julgada na espécie deve produzir efeitos secundum eventum litis, de forma que, demonstrando aparte autora, em momento posterior, o atendimento dos requisitos, poderá postular o benefício almejado.
+7. Conforme assentado pelo Supremo Tribunal Federal, o benefício recebido de boa-fé pelo segurado, em decorrência de decisão judicial, não está sujeito à repetição de indébito, em razão de seu caráter alimentar.(ARE 734242 AgR, Relator Ministro ROBERTO BARROSO, 1ª T, DJe- 175, pub. 08/09/2015).
+8. Remessa oficial não conhecida. Apelação do INSS provida.
+Na origem, trata-se de ação ajuizada porAngelita Aparecida de Melocontra o INSSobjetivando a concessão de benefício continuado à pessoa portadora de deficiência.
+Na sentença, julgou-se procedenteopedido.No Tribunal a quo, a sentença foi reformada para julgar improcedente o pedido.Esta Corte conheceu do agravo para não conhecer dorecurso especial.
+No recurso especial, Angelita Aparecida de Melo apontaofensa aoart. 203 da Constituição Federal e àLei n. 8.742/1993, sustentando, em síntese, que é devida a concessão de benefício assistencial ao segurado portador de HIV.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários aos fundamentos da decisão, resumidos nestes termos (fls. 363-365):
+ ..  restou provado que a parte Agravante indicou com precisão que os dispositivos legais que teriam sido violados foram o artigo 203, V, CF/88, bem como o artigo 20, § 2º da Lei 8.742/93.
+ ..  não busca a reapreciação do conjunto probatório acostado aos autos, mas sim fazer valer as decisões emanadas pelo E. Superior Tribunal de Justiça, eis que a decisão proferida nos autos violou de maneira expressa o dispositivo legal inserto no artigo 203, V, CF/88, bem como da Lei 8.742/93, ao dar interpretação diversa de outros tribunais, sem, contudo ater teologicamente aos requisitos contidos na lei, eis que este E. Superior Tribunal de Justiça entende que em nenhuma de suas edições a lei previa a necessidade de incapacidade absoluta, como fixou o acórdão recorrido, que negou a concessão do benefício ao fundamento de que a parte Agravante deveria apresentar incapacidade total, de sorte que não permita ao requerente do benefício o desempenho de qualquer atividade da vida diária e para o exercício de atividade laborativa, não cabendo ao interprete a imposição de requisitos mais rígidos do que aqueles previstos na legislação para a concessão do benefício.
+ ..  o fato da incapacidade ser classificada como temporária não impede a concessão do benefício, haja vista que a Lei 8.742/93 determina a revisão a cada dois anos dos benefícios de prestação continuada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. BENEFÍCIO DE PRESTAÇÃO CONTINUADA - BPC. IMPROCEDÊNCIA DO PEDIDO. DEFICIÊNCIA RECURSAL. AUSÊNCIA EM APONTAR OS DISPOSITIVOS LEGAIS VIOLADOS. APLICAÇÃO DA SÚMULA N. 284 DO STF.
+I-Na origem, trata-se de ação ajuizadacontra o INSS objetivando a concessão de benefício continuado à pessoa portadora de deficiência.
+II - Na sentença, julgou-se procedente o pedido. No Tribunal a quo, a sentença foi reformada para julgar improcedente o pedido. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III - Ajurisprudência desta Corte Superior é firme no sentido de que, verificado que o recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.Acerca do assunto, destaco os seguintes precedentes:(AgInt no AREsp n. 983.543/RJ, relatorMinistro Herman Benjamin, DJe 5/5/2017 e AgInt no REsp n. 1.597.355/CE, relatorMinistro Francisco Falcão, DJe 10/3/2017.)
+IV- Agravo interno improvido.
+VOTO
+O recurso não merece provimento.
+A jurisprudência desta Corte Superior é firme no sentido de que, verificado que o recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF.
+Acerca do assunto, destaco os seguintes precedentes:
+PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO TIDO POR VIOLADO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. NECESSIDADE DE REEXAME DOS FATOS E DAS PROVAS. INCIDÊNCIA. SÚMULA 7/STJ.
+1. "A via estreita do recurso especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular nº 284 do STF". (AgRg no REsp n. 919.239/RJ; Rel. Min. Francisco Falcão; Primeira Turma; DJ de 3/9/2007.)
+2. O Tribunal de origem concluiu: "No mérito, trata-se de ação de obrigação de fazer cumulada com pleito indenizatório, através da qual objetivou a autora obstar cobrança pela ré em relação à tarifa de esgoto, serviço não prestado pela concessionária, bem como a repetição, em dobro, dos valores já pagos" (fl. 167, e-STJ).
+3. A agravante sustenta não haver na demanda pedido que objetive o cumprimento de obrigação de fazer/não fazer. Decidir de forma contrária ao que ficou expressamente consignado no v. acórdão recorrido, com o objetivo de rever o objeto do pedido deduzido na petição inicial, implica revolvimento do conjunto fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 983.543/RJ, Rel. Ministro Herman Benjamin, DJe 5/5/2017.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. SUPOSTO ERRO MATERIAL. NÃO INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. SERVIDOR PÚBLICO. GDAR. TRANSFORMAÇÃO EM VPNI. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+I - Pretende o agravante o reconhecimento de que a gratificação GDAR, transformada em VPNI, não foi retirada do ordenamento jurídico pela Lei n. 11.784/08 e que sua supressão vai de encontro ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos.
+II - Considera-se deficiente a fundamentação do recurso que deixa de estabelecer, com a precisão necessária, quais os dispositivos de lei federal que considera violados, para sustentar sua irresignação pela alínea a do permissivo constitucional, o que atrai a incidência do enunciado n. 284 da Súmula STF.
+III - O Tribunal de origem não analisou o erro material mencionado nas razões recursais, não debateu a suposta afronta ao direito adquirido, ao ato jurídico perfeito e à irredutibilidade de vencimentos, tampouco examinou a matéria recursal à luz do art. 29 da Lei n. 11.094/05.
+IV - Descumprido o necessário e indispensável exame dos dispositivos de lei invocados pelo acórdão recorrido, apto a viabilizar a pretensão recursal da recorrente, de maneira a atrair a incidência dos enunciados n. 282 e n. 356 da Súmula do STF, sobretudo ante a ausência de oposição dos cabíveis embargos declaratórios a fim de suprir os supostos erro material e a contradição do julgado.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.597.355/CE, Rel. Ministro Francisco Falcão, DJe 10/3/2017.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
