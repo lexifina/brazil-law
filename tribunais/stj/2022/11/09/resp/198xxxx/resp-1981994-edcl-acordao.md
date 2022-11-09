@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos contra acórdão, assim ementado (e-STJ fls. 833-837):
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. REAJUSTE DE 28,86%. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA NÃO VERIFICADA. TEMA 880/STJ. MODULAÇÃO TEMPORAL.
+1. Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+2. Acerca do prazo prescricional de execução de sentença contra a Fazenda Pública, o STJ, nos autos do REsp 1.336.026/PE, julgado pela sistemática do art. 1.036 e seguintes do CPC/2015, consolidou entendimento no sentido de que a demora no fornecimento de documentação (fichas financeiras) em poder da Administração Pública não tem o condão de influenciar no período de tempo, incidindo o mesmo prazo do processo de conhecimento, nos termos do que dispõe a Súmula 150/STF.
+3. Ocorre que a Primeira Seção acolheu parcialmente os embargos de declaração dos autores, com efeitos modificativos, a fim de modular a referida questão nos seguintes termos: "para as decisões transitadas em julgado até 17/3/2016 (quando ainda em vigor o CPC/1973) e que estejam dependendo, para ingressar com o pedido de cumprimento de sentença, do fornecimento pelo executado de documentos ou fichas financeiras (tenha tal providência sido deferida, ou não, pelo juiz ou esteja, ou não, completa a documentação), o prazo prescricional de 5 anos para propositura da execução ou cumprimento de sentença conta-se a partir de 30/6/2017" (EDcl no REsp 1.336.026/PE, Rel. Ministro Og Fernandes, Primeira Seção, DJe 22/6/2018).
+4. No caso concreto, a decisão proferida na ação principal, que se caracteriza como o objeto da execução, transitou em julgado, segundo afirma a Corte de origem à e-STJ fl. 519, em 2002, quando ainda vigente o CPC/1973. Portanto, o prazo prescricional de 5 anos para propositura da execução é contado a partir de 30/6/2017 e, como a execução foi proposta em 2016, não há falar em prescrição.
+5. Agravo interno não provido.
+Aembargantesustentaque o acórdão embargado padece de omissãopois, conforme alegado no agravo interno, "no presente caso, o pedido de cumprimento de sentença não se encontrava na pendência do fornecimento de fichas financeiras, porquanto já haviam sido apresentadas pela Universidade em janeiro/2009" (e-STJ fl. 844, grifo no original).
+Afirma, ainda, que "o prazo prescricional começou a correr no exato momento em que a UFPE se desincumbiu do dever de apresentar as fichas financeiras (janeiro/2009). Neste sentido, tendo transcorrido quase 7 anos entre a interrupção da prescrição - decorrente do ajuizamento da medida cautelar de protesto, no ano de dezembro/2013 - e o ajuizamento da ação de execução, em julho/2020, prescrita se encontra a pretensão executória" (e-STJ fl. 845).
+Com impugnação (e-STJ fls. 848-855).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNONORECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+2. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+3. Não há vícios a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+O acórdão embargado entendeu que não ocorreu a prescrição da pretensão executória pois, no hipótese dos autos a decisão proferida na ação principal, que se caracteriza como o objeto da execução, transitou em julgado, segundo afirma a Corte de origem à e-STJ fl. 519, em 2002, quando ainda vigente o CPC/1973. Portanto, o prazo prescricional de 5 anos para propositura da execução é contado a partir de 30/6/2017, de acordo com o entendimento do REsp 1.336.026/PE, e, como a execução foi proposta em 2016, não há falar em prescrição.
+Assim, evidencia-se não ter ocorrido obscuridade, omissões, falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
