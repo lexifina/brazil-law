@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+ESPÓLIO de BENEDITO CARLOS DOS SANTOS (ESPÓLIO) ajuizou ação de revisão de benefícios decorrente de contrato de trabalho contra VALE S.A. (VALE) e FUNDAÇÃO VALE DO RIO DOCE DE SEGURIDADE SOCIAL (VALIA).
+A sentença julgou parcialmente procedente o pedido inicial (e-STJ, fls. 941/960).
+Inconformadas, VALE e VALIA apelaram.
+O Tribunal de Justiça do Estado de Minas Gerais acolheua preliminar de ilegitimidade ativa do espólio no que se refere ao pedido de pagamento das diferenças de reajustes de pagamentos devidos após o falecimento do "de cujus" (2610312011), julgando extinto o feito sem resolução do mérito neste pontoe, no mérito,negou provimento aos recursos para manter a sentença primeva quanto ao restante, nos termos do acórdão assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO DE REVISÃO DE ABONO COMPLEMENTAÇÃO CIC COBRANÇA DE DIFERENÇAS. CONTRATO DE PREVIDÊNCIA PRIVADA. ILEGITIMIDADE ATIVA DO ESPÓLIO PARA PLEITEAR VERBAS DEVIDAS À PENSIONISTA. RECONHECIMENTO EX OFFICIO. PRELIMINAR DE ILEGITIMIDADE PASSIVA DA VALE S.A. E DA FUNDAÇÃO VALE DO RIO DOCE DE SEGURIDADE SOCIAL - VALIA.REJEIÇÃO. PREJUDICIAL DE PRESCRIÇÃO. AFASTAMENTO.DIFERENÇA DE CORREÇÃO MONETÁRIA DE ABONO- COMPLEMENTAÇÃO. VINCULAÇÃO AOS REAJUSTES CONCEDIDOS PELO INSS. COMPROVAÇÃO DE PAGAMENTO EM DESACORDO COM REGRAMENTO INTERNO ESTABELECIDO PELAS RÉS. PEDIDO INICIAL PROCEDENTE. MANUTENÇÃO DA SENTENÇA.
+- O espólio do instituidor da pensão não goza de pertinência subjetiva para pleitear a correção do pagamento da pensão ao cônjuge supérstite, que deveria integrar o polo ativo do feito.
+- AVALIA enquanto responsável pela administração do plano de aposentadoria complementar e que também realiza o pagamento do abono-complementação, bem como a VALE S.A. que instituiu e custeia o referido abono pago por intermédio da VALIA, detêm legitimidade para figurar no polo passivo da ação de revisão do mencionado benefício.
+- Nas obrigações de trato sucessivo, tal como ocorre nos contratos de previdência privada de complementação de aposentadoria, a violação do direito acontece de forma contínua, renovando-se o prazo prescricional em cada prestação periódica não cumprida. Sendo assim, a prescrição ocorre tão somente em relação à pretensão de parcela anterior aos cinco anos que antecederam o ajuizamento da demanda.
+- Havendo previsão expressa nas normas regulamentadoras de revisão do benefício conforme índice equivalente àquele pago pelo INSS cabe à administradora o ônus probatório de demonstrar de que o reajuste ocorreu ou que foi superior àquele pleiteado.
+- Recurso das requeridas aos quais se nega provimento(e-STJ, fl. 1.195).
+Os embargos de declaração interpostos porVALIAforam desprovidos (e-STJ, fls. 1.269/1.275).
+Em seu recurso especial, manejado com base naalíneaado permissivo constitucional,VALIAalegou ofensa aosarts. 7º, 1.022, I e II, e 489, § 1º, IV, todos do NCPC; 6º, 7º, 32, parágrafo único, da Lei Complementar nº 109/2001e 264 e 265, ambos do CC/02.
+O apelo nobre não foi admitido pelo TJMG por (i) ausência de omissão no acórdão recorrido; e (ii) incidência daSúmulanº 7 do STJ (e-STJ, fls. 1.414/1.418).
+Ainda inconformada,VALIAmanifestou agravo, em cujas razões, além de reiterar o seu apelo nobre, aduziu que(1)houve usurpação de competência do STJ, tendo em conta que o TJMGadentrou o mérito do apelo nobre;(2)ainda permanecem pontos omissos, essenciais ao deslinde da causa, tendo em conta que o acórdão recorridodeixou de enfrentar todos os argumentos deduzidos no processo capazes de infirmar a conclusão adotada, já que não houve enfrentamento dos argumentos deduzidos pela VALIA em relação ao artigo 17 do CPC, artigos 264 e 265 do Código Civil e artigos 6º, 70 e 32 da Lei Complementar 109/2001; e(3)descabe falar na incidência da Súmula nº 7 do STJ, porqueao ser realizar uma leitura do acórdão e do Recurso Especial da Agravante, tem-se que o objeto não é a rediscussão do revolvimento do conjunto fático-probatório constante dos autos;assim, não é o caso de revolvimento fático-probatório constante dos autos, mas, sim, a discussão sobre a violação à legislação federal, que é uma questão de direito e passível de controle pela via do recurso especial(sic., e-STJ, fls. 1.421/1.429).
+A contraminutafoiapresentada (e-STJ, fls. 1.465/1.485).
+Em decisão monocrática de minha lavra, não conheci do agravonos termos da seguinte ementa:
+PROCESSUAL CIVIL.AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC.VALIA. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC. EXAME DE ADMISSIBILIDADE. MÉRITO. SÚMULA Nº 123 DO STJ. AGRAVO NÃO CONHECIDO(e-STJ, fl. 1.549).
+Neste agravo interno,VALIA reiterou seu apelo nobre esustentou que infirmou devidamente os fundamentos da decisão de inadmissibilidade, cumprindo, dessa forma, todos os requisitos para o provimento de seu recurso, especialmente porquedemonstrou assertivamente que a Súmula 07/STJ não é aplicável ao caso, já que restam claras as violações aos artigos aos artigos 17 do Código de Processo Civil e artigos 6º, 7º e 32 da Lei Complementar nº 109/2001, bem assim porqueapontou quais as omissões e a importância delas para o deslinde da controvérsia. É o que se extrai do item 5.12 - Da existência de vícios no acórdão - Da ausência de prestação jurisdicional constante do AREsp(sic., e-STJ, fls. 1.558/1.566).
+Pleiteou, ao final, que a decisão atacada fosse reconsiderada.
+A impugnação foi apresentada (e-STJ, fls.1.578/1.582).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo internointerposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2.Em razão do princípio da unirrecorribilidade recursal, para cada provimento judicial admite-se apenas um recurso, ocorrendo a preclusão consumativa ao que foi deduzido por último, porqueelecta una via non datur regressus and alteram.
+3. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência daSúmulan.º7 do STJ e ausência de omissão no acórdão recorrido).
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo internofoi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Inicialmente, importa asseverar que foram interpostos dois agravos internos. Assim, em razão do princípio da unirrecorribilidade recursal, para cada provimento judicial admite-se apenas um recurso, ocorrendo a preclusão consumativa ao que foi deduzido por último (Petição AGINT nº 833.149/2022), porqueelecta una via non datur regressus ad alteram.
+Nesse sentido, veja-se o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. PRINCÍPIO DA FUNGIBILIDADE. NÃO IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL. PRINCÍPIO DA UNIRRECORRIBILIDADE. PRECLUSÃO CONSUMATIVA.
+ ..
+3. Apresentados dois recursos pela mesma parte contra a mesmadecisão, não se conhece daquele apresentado em segundo lugar, por força do princípio da unirrecorribilidade e da preclusão consumativa.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+5. Agravo regimental não conhecido.
+(EDcl no AREsp nº 163.908/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, DJe 11/9/2014 - sem destaque no original)
+No mais, o inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas, conforme a seguinte fundamentação.
+Consoante já relatado, o apelo nobre não foi admitido pelo TJMG por (i) ausência de omissão no acórdão recorrido; e (ii) incidência daSúmulanº 7 do STJ (e-STJ, fls. 1.414/1.418).
+No mais, em que pese o reforço de argumentação apresentado nas razões do agravo interno, daanálise do agravo em recurso especial se verifica que, conforme já consignado na decisão impugnada, o inconformismo não se dirigiu, de forma específica, contranenhumdos fundamentos da decisão agravada, na medida em que não refutou, de forma arrazoada,o óbice pela ausência de omissão no acórdão recorrido epela incidência daSúmulan.º7 do STJ, ao caso.
+Em resumo,VALIAse limitou a afirmar tão somenteque(2)ainda permanecem pontos omissos, essenciais ao deslinde da causa, tendo em conta que o acórdão recorridodeixou de enfrentar todos os argumentos deduzidos no processo capazes de infirmar a conclusão adotada, já que não houve enfrentamento dos argumentos deduzidos pela VALIA em relação ao artigo 17 do CPC, artigos 264 e 265 do Código Civil e artigos 6º, 70 e 32 da Lei Complementar 109/2001; e(3)descabe falar na incidência da Súmula nº 7 do STJ, porqueao ser realizar uma leitura do acórdão e do Recurso Especial da Agravante, tem-se que o objeto não é a rediscussão do revolvimento do conjunto fático-probatório constante dos autos;assim, não é o caso de revolvimento fático-probatório constante dos autos, mas, sim, a discussão sobre a violação à legislação federal, que é uma questão de direito e passível de controle pela via do recurso especial(sic., e-STJ, fls. 1.421/1.429),não apresentando argumentos aptospara infirmar especificamente os suprarreferidos óbices.
+Como se sabe,conforme já consignado no julgado agravado,VALIA deveriaterindicado, de forma clara e objetiva, quais os pontos omissos e sua imprescindibilidade para o deslinde do feito, de modo a afastar a ausência de omissão no acórdão recorrido, o que não foi feito.
+Além do mais, como se sabe, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência daSúmulan.º 7 do STJ,deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente apenas a assertiva de que não se pretende ainterpretação de cláusulas contratuais e o reexame de fatos e provas, o que também não foi feito.
+Nesse ponto, bastaria queVALIAexplicasseque a violação dos arts.7ºdo NCPC; 6º, 7º, 32, parágrafo único, da Lei Complementar nº 109/2001; e 264 e 265, ambos do CC/02,não dependeria da análise fático-probatória dos autos, mas sim de violação direta dos referidos dispositivos legais.
+Cabe, aqui, ressaltar que o agravante deve impugnar, nas razões de seu agravo em recurso especial, todos os fundamentos da decisão que inadmitiu o seu apelo nobre, não cabendo, de modo extemporâneo, infirmar aqueles argumentos tão somente no manejo do agravo interno, em virtude da ocorrência da preclusão consumativa.
+Em resumo, nas razões do agravo em recurso especial,VALIA se limitou a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, foi o caso de incidir o art. 932, III, do NCPC.
+Vejam-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. INCIDENTE DE FALSIDADE. RECURSO CABÍVEL. APELAÇÃO. SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1.  ..
+2. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp nº 856.954/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 20/4/2016-sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA Nº 83/STJ.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o óbice da Súmula nº 182 do Superior Tribunal de Justiça.
+ ..
+4. Agravo regimental não provido.
+(AgRg no AREsp nº 797.056/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 2/2/2016-sem destaque no original)
+Desse modo, observa-se que o agravo em recurso especial não impugnou adequadamente a barreira anteriormente mencionada, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos,deve a parte recorrente impugnar todos os fundamentossuficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008-sem destaque no original)
+Com efeito, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/73), devendo ser mantida a decisão agravada.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO INTERNO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, doCPC (artigo 544, § 4º, I, do CPC/1973).
+2. Agravo interno improvido.
+(AgInt no AREsp 878.395/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 22/9/2016-sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. O agravante deve atacar, de forma específica, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. Aplicação do art. 932, III, do CPC/2015 e, por analogia,da Súmula n. 182/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 881.656/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 6/9/2016-sem destaque no original)
+Nesse contexto, comoVALIA não demonstrouo equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial.
+Nessas condições, pelo meu voto,NEGO PROVIMENTOao agravo interno.
