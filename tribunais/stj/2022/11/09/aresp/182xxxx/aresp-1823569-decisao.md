@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão da Corte de origem que não admitiu o recurso especial em razão da falta de preparo.
+O apelo nobre obstado enfrenta acórdão, assim ementado:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL.ALEGAÇÕES DE PRESCRIÇÃO DA PRETENSÃO EXECUTIVA E DE PRESCRIÇÃO INTERCORRENTE. ALEGAÇÃO DE IMPENHORABILIDADE.
+O exercício da pretensão de cobrança de dívidas constantes de instrumento público ou particular prescreve em cinco anos, contados conforme determina a regra de transição do Código Civil, diante de contrato realizado antes do código atual.
+Inexiste prescrição intercorrente diante da conduta diligente do credor, que jamais deixou de buscar a satisfação do seu crédito.
+Sem se desincumbirem os devedores do ônus da prova, rejeita-se a alegação de impenhorabilidade.
+Agravo de instrumento desprovido.
+No recurso especial, os recorrentes alega violação do artigo 489, § 1º, inciso IV e § 3º, ao argumento de que a Corte local não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto àsquestõesde fundo, sustentam ofensa aosarts. 805 e 833, inciso V, do CPC/2015, sob os argumentos de que a Corte de origem realizou penhora indevida do veículo de trabalhos dos requerentes, alegando sua impenhorabilidade.
+Comcontrarrazões.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Decido.
+Ao compulsar os autos, vislumbra-se que o recurso especial foi protocolado dia 02/7/2020, e os benefícios da gratuidade de justiça somente foram concedidos aos agravantes, no juizo a quo, dia 17/9/2020, ou seja, muito após ter protocolado o recurso, razão pela qual resta carente de preparo o recurso especial.
+Os agravantes se insurgiram contra a decisão negativa de admissibilidade do recurso especial, sob a alegação de que houve deferimento tácito dos benefícios da assistência judiciária gratuita, porquanto não houve manifestação da Corte de origem quanto aopedido formulado em agravo de instrumento, aduzindo que houve processamento e julgamento do mérito do agravo. Contudo, conforme entendimento deste Tribunal Superior, a ausência de apreciação quanto ao pedido de justiça gratuita pelo Tribunal de origem não significa deferimento tácito, bem como ulterior deferimento de tal benesse pelo juiz a quo não gera efeitos retroativos. Por estes motivos,não merecem prosperar as razões do presente agravo.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DO AUTOR.
+1. A ausência de apreciação do pedido de justiça gratuita pelo Tribunal de origem não significa deferimento tácito. O benefício da gratuidade judiciária não tem efeito retroativo, de modo que a sua concessão posterior à interposição do recurso não tem o condão de isentar a parte do recolhimento do respectivo preparo. Precedentes.
+2. Esta Corte Superior de Justiça possui jurisprudência no sentido de que o prévio recolhimento da multa processual prevista no artigo 1021, § 4º, do CPC/15, imposta ao litigante, constitui pressuposto recursal objetivo de admissibilidade, de maneira que a ausência de comprovante de seu depósito obsta o conhecimento do recurso interposto posteriormente à condenação.
+2.1. Na hipótese, ausente a comprovação do recolhimento do valor da multa aplicada pelo Tribunal de origem, e não sendo a parte beneficiária da justiça gratuita, impõe-se o não conhecimento do recurso especial.
+3. Agravo interno desprovido.(AgInt no AREsp n. 1.767.196/MT, relator Ministro Marco Buzzi, Quarta Turma, julgado em 14/2/2022, DJe de 21/2/2022.)
+PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. DECISÃO QUE DECLARA DESERTA A APELAÇÃO. INEXISTÊNCIA DE ILEGALIDADE OU TERATOLOGIA DO ATO. ATO JUDICIAL PASSÍVEL DE RECURSO PRÓPRIO. NÃO CABIMENTO. SÚMULA 267 DO STF. ALEGAÇÃO DE DEFERIMENTO TÁCITO DA GRATUIDADE DA JUSTIÇA NAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE.
+1. Ante o princípio da fungibilidade recursal, recebe-se a presente Petição como Agravo Regimental.
+2. De acordo com o art. 5º, II, da Lei 1.533/51 (reproduzido pela Lei 12.016/2009), a via mandamental se mostra incabível quando o ato judicial questionado for passível de impugnação por recurso adequado, visto que o writ não pode ser utilizado como sucedâneo de recurso próprio.
+3. Logo, o Mandado de Segurança não constitui via idônea a amparar a revisão de ato de natureza jurisdicional, salvo situação de absoluta excepcionalidade em que ficar cabalmente evidenciado o caráter abusivo ou teratológico da medida impugnada.
+4. No hipótese em exame, não vejo como flagrantemente ilegal a decisão que julga deserto o recurso de Apelação apresentado sem o comprovante do recolhimento do respectivo preparo.
+5. Assim o manejo de Mandado de Segurança em situação como a dos autos esbarra frontalmente no enunciado da Súmula 267/STF, que dispõe de maneira categórica que não é admissível a impetração de writ contra ato judicial suscetível de recurso - no caso concreto, Agravo de Instrumento contra decisum que não recebeu a Apelação por força de deserção.
+6. Ademais, esta Corte Superior já se pronunciou no sentido da impossibilidade de se admitir que a ausência de negativa da Corte de origem quanto ao pedido de assistência judiciária gratuita acarrete o deferimento tácito do pedido, autorizando a interposição do recurso sem o correspondente preparo. (AgRg nos EDcl nos EAREsp 429.799/RS, Rel. Ministra Laurita Vaz, Corte Especial, julgado em 16/12/2015, DJe 24/2/2016).
+7. Agravo Regimental não provido.(PET no RMS n. 50.185/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 19/4/2016, DJe de 25/5/2016.)
+AGRAVO REGIMENTAL. CUSTAS PROCESSUAIS DOS EMBARGOS DE DIVERGÊNCIA NÃO PAGAS. DESERÇÃO. ALEGAÇÃO DE DEFERIMENTO TÁCITO DA GRATUIDADE DA JUSTIÇA NAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A falta de apreciação do pedido de assistência judiciária pelas instâncias ordinárias não acarreta seu deferimento tácito. Nesse sentido os seguintes precedentes: AgRg no AREsp 707.227/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 29/10/2015; AgRg no REsp 1169046/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 11/11/2014; AgRg no AREsp 693.431/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 16/10/2015; AgRg no AREsp 604.866/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 13/05/2015; AgRg nos EDcl no REsp 1487182/MS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe 12/08/2015; AgRg no AREsp 699.830/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 19/10/2015;
+AgRg no AREsp 499.310/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 10/06/2015; AgRg no AREsp 699.282/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 21/09/2015 e AgRg no AREsp 652.017/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 14/08/2015.
+2. Agravo regimental desprovido.(AgRg nos EDcl nos EAREsp n. 429.799/RS, relatora Ministra Laurita Vaz, Corte Especial, julgado em 16/12/2015, DJe de 24/2/2016.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREPARO. GRATUIDADE DE JUSTIÇA. INEXISTÊNCIA DE CONCESSÃO ANTERIOR. DESERÇÃO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
