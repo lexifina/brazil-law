@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por MÁRCIO EDWARD DE LIMA GONÇALVES contra a decisão que conheceu do agravo para negar provimento aorecurso especial.
+Naquela oportunidade, concluiu-se pela (i) ausência de negativa de prestação jurisdicional, (ii) consonância do acórdão recorrido com a jurisprudência desta Corte e (iii) incidência da Súmula nº 7/STJ.
+Em suas razões, o agravante afirma que o tribunal de origem violou os artigos489, § 1º, IV, e 1.022, II, e parágrafo único, II, do Código de Processo Civil de 2015, visto que,apesar de instado a se manifestar por meio de declaratórios,não supriu a omissão quanto ao fato de que o presente caso não se enquadra nas hipótesesdo art. 833,IV, § 2º, do CPC/2015 e de que a penhora prejudica o seu sustento.
+Sustenta que não há falar na aplicação da da Súmula nº 83/STJ, porquanto o decidido não se enquadra no julgado pelo AgInt no REsp 1.919.911/SP.
+Por fim, alega que
+"(..) todos os elementos necessários ao deslinde da matéria estão muito bem delineados no acórdão recorrido, sendo todos eles incontroversos e, portanto, não caracterizados como questão de fato, mas questão de direito, motivo pelo qual não há falar em incidência da Súmula 7/STJ" (fl. 572, e-STJ).
+Impugnação às fls. 579/610 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. CONFIGURAÇÃO. AUSÊNCIA.SALÁRIO.PENHORA. VERBA DE NATUREZA NÃO ALIMENTAR. MITIGAÇÃO. POSSIBILIDADE. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A jurisprudência do Superior Tribunal de Justiça encontra-sefirmada no sentido de que, excepcionalmente, é possível a mitigação da impenhorabilidade dos salários para a satisfação de crédito não alimentar, sem prejuízo direto à subsistência do devedor ou de sua família, a partir das peculiaridades do caso e dos princípios da proporcionalidade e razoabilidade.
+4. A revisão do entendimento firmado pelas instâncias ordinárias, acerca da possibilidade de penhorar parte dos proventos do devedor sem comprometer a sua subsistência, demandaria a análise de fatos e provas dos autos, procedimento inviável em recurso especial devido aoóbice da Súmula nº 7/STJ.
+5. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+As razões expendidas no agravo são insuficientes para autorizar a reforma da decisão atacada.
+Conforme disposto na decisão impugnada, não há falar em violação dos arts. 489, § 1º, IV, e 1.022 do CPC/2015, visto que as questões suscitadas pela agravante na origem foram solucionadas, consoante se verifica dos seguinte excertos:
+Observa-se, assim, que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, não havendo falar na existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Confira-se:
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. EFEITOS INFRINGENTES PRETENDIDOS. INVIABILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração de METHANEX CHILE S.A. (e-STJ fls. 2.379/2.385) rejeitados" (EDcl no REsp 1.596.081/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 22/8/2018, DJe de 24/8/2018).
+Registra-se que, mesmo à luz do art. 489 do CPC/2015, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas, apenas a respeito daqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+No caso dos autos, o tribunal de origem entendeu pela possibilidade depenhora de 15% (quinze por cento) do salário do ora agravante para satisfação de crédito de natureza não alimentar, considerando quetal medida não compromete a sua subsistência ou de sua família.
+É o que se colhe noseguintetrechodo acórdão recorrido:
+"(..)
+Sobre o tema objeto deste recurso, a Corte Especial do c. Superior Tribunal de Justiça fixou a tese de que a regra geral da impenhorabilidade das verbas previstas no art. 833, IV, do CPC/15 (salários, vencimentos, proventos etc.) pode ser mitigada, possibilitando que, em casos excepcionais, a penhora recaia sobre a remuneração do devedor para a satisfação de crédito de natureza não alimentar, quando preservado percentual suficiente para manter a dignidade do devedor e de sua família.
+(..)
+No caso vertente, consta dos autos que o Executado é servidor público federal, desempenhando o cargo de Oficial de Chancelaria no Ministério das Relações Exteriores desde 2008 (ID 76544827 na origem).
+Em consulta realizada ao Portal Transparência do Governo Federal, constatei que as remunerações básicas brutas do Agravante pelo exercício do aludido cargo nos últimos 6 (seis) meses foram as seguintes: agosto de 2020 - R$ 12.896,73 (doze mil oitocentos e noventa e seis reais e setenta e três centavos); setembro de 2020 - R$ 12.896,73 (doze mil oitocentos e noventa e seis reais e setenta e três centavos); outubro de 2020 - US$ 3.157,87 (três mil cento e cinquenta e sete dólares americanos e oitenta e sete centavos); novembro de 2020 - US$ 7.894,68 (sete mil oitocentos e noventa e quatro dólares americanos e sessenta e oito centavos); dezembro de 2020 - US$ 7.894,68 (sete mil oitocentos e noventa e quatro dólares americanos e sessenta e oito centavos); janeiro de 2021 - US$ 7.894,68 (sete mil oitocentos e noventa e quatro dólares americanos e sessenta e oito centavos).
+Outrossim, conforme contracheques acostados pelo Agravante aos autos de origem, verifica-se que, em agosto de 2020 (ID 23576040 - pág. 81), a remuneração bruta dele foi de R$ 13.354,73 (treze mil trezentos e cinquenta e quatro reais e setenta e três centavos), e a renda líquida, de R$ 5.010,55 (cinco mil e dez reais e cinquenta e cinco centavos).
+E, ao verificar os meses anteriores, observei que, em junho de 2020 (ID 23576040 - pág. 83), o salário bruto mensal foi de R$ 19.803,09 (dezenove mil oitocentos e três reais e nove centavos), ao passo que o líquido foi de R$ 11.685,86 (onze mil seiscentos e oitenta e cinco reais e oitenta e seis centavos).
+Assim, mesmo que considerada a menor renda líquida comprovada pelo devedor, relativa ao mês de agosto de 2020, no montantede R$ 5.010,55 (cinco mil e dez reais e cinquenta e cinco centavos - ID 23576040 - pág. 81), essa ainda é alta, sobretudo se comparada à renda média mensal dos brasileiros, de apenas R$ 2.398,00 (dois mil trezentos e noventa e oito reais).
+Ademais, colhe-se das informações disponíveis no Portal Transparência que, desde outubro de 2020, o Executado encontra-se em exercício no exterior, auferindo remuneração em dólares americanos, moeda essa cuja valorização perante o real nos últimos meses afigura-se fato notório, o que importa em aumento na renda percebida pelo Agravante.
+Frise-se também que o simples fato de o Recorrente possuir muitos empréstimos consignados não inviabiliza, por si só, a penhora, mormente porque os documentos presentes no feito demonstram a alta remuneração mensal do Executado.
+(..)
+Diante desse panorama, entendo que os documentos juntados pelo Agravante não são capazes de elidir a conclusão exposta na r. decisão agravada, no sentido de que a penhora de 15% (quinze por cento) do salário não atentará contra a dignidade dele, porquanto as informações presentes nos autos indicam a boa condição financeira do devedor.
+Ressalte-se, ainda, que, em que pesem as alegações do Recorrente de que "a manutenção da constrição na remuneração salarial do Agravante no valor de R$ 1.196,41 (um mil, cento e noventa e seis reais e quarenta e um centavos) acarretará graves prejuízos, uma vez que não terá condições de arcar com seus gastos mínimos, levando-o a condição de insolvência/miserabilidade"(ID 23576018 - Pág. 10), não vislumbro evidência nesse sentido, uma vez que, até o presente momento, o devedor não logrou demonstrar efetivamente prejuízo à subsistência dele ou da família em decorrência da penhora, razão pela qual reputo adequada a manutenção da constrição.
+Trata-se de hipótese excepcional, nos termos da jurisprudência do c. STJ, em que se autoriza o afastamento da regra geral de impenhorabilidade prevista no art. 833, IV, do CPC/15, de forma a compatibilizar o direito do devedor à subsistência digna com o direito da credora de satisfação do crédito executado.
+Portanto, ausente a comprovação efetiva de que a constrição pretendida comprometerá a subsistência do Executado ou da família dele, a r. decisão agravada deve ser mantida.
+(..)" (fls. 423/426, e-STJ).
+De fato, tal entendimento está em consonância com a jurisprudência desta Corte, firmadono sentido de que,excepcionalmente, é possívela mitigação da impenhorabilidade dos salários para a satisfação de crédito não alimentar, sem prejuízo direto à subsistência do devedor ou de sua família, a partir das peculiaridades do caso e dos princípios da proporcionalidade e razoabilidade.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PROVENTOS. PENHORA. MITIGAÇÃO. CONSTRIÇÃO INVIÁVEL. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça tem admitido a penhora de proventos do devedor para o pagamento de dívida de natureza não alimentar em situações excepcionais.
+3. (..)
+4. Agravo interno não provido" (AgInt no REsp nº1.969.803/DF, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PENHORA DE 30% DE BENEFÍCIO PREVIDENCIÁRIO. EXCEPCIONAL POSSIBILIDADE. OBSERVÂNCIA DA TEORIA DO MÍNIMO EXISTENCIAL. PRECEDENTES. SÚMULA 83/STJ. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. NÃO CABIMENTO NA HIPÓTESE. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem adotou solução em consonância com a jurisprudência do STJ, segundo a qual é possível, em situações excepcionais, a mitigação da impenhorabilidade dos salários para a satisfação de crédito não alimentar, desde que observada a Teoria do Mínimo Existencial, sem prejuízo direto à subsistência do devedor ou de sua família, devendo o Magistrado levar em consideração as peculiaridades do caso e se pautar nos princípios da proporcionalidade e razoabilidade.
+(..)
+4. Agravo interno improvido" (AgInt no AREsp nº1.386.524/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 25/3/2019, DJe de 28/3/2019.)
+Além disso, a revisão do entendimento firmado pelas instâncias ordinárias, acerca da possibilidade de penhorar parte dos proventos do devedor sem comprometer a sua subsistência, demandaria a análise de fatos e provas dos autos, procedimentoinviável emrecurso especial devido ao óbice daSúmula nº 7/STJ.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL. INSURGÊNCIA DA AGRAVANTE.
+1. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 833, IV, do CPC/15, a fim de alcançar parte da remuneração do devedor para a satisfação de crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+2. No caso concreto, o Tribunal de origem concluiu pela existência de situação excepcional a autorizar a mitigação da regra da impenhorabilidade. Alterar esse entendimento demandaria reexame de fatos e provas, vedado em recurso especial, ante a incidência da Súmula 7/STJ.
+2.1. A incidência do referido óbice impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa. Precedentes.
+3. Agravo interno desprovido" (AgInt no AREsp nº1.952.554/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 9/5/2022, DJe de 13/5/2022).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. PENHORA DOS RENDIMENTOS. CASO CONCRETO. ATO ILÍCITO. POSSIBILIDADE. VALOR PENHORADO. REVISÃO. SÚMULA Nº 7/STJ. MULTA. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A Corte Especial do Superior Tribunal de Justiça firmou o entendimento de que a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal, poderá ser excepcionada quando for preservado percentual de tais verbas capaz de dar guarida à dignidade do devedor e de sua família.
+3. No caso concreto, o tribunal de origem concluiu pela existência de situação excepcional a autorizar a mitigação da regra da impenhorabilidade, tendo em vista tratar-se de alimentos decorrentes de prática de ato ilícito.
+4. Na hipótese, rever a conclusão de que o valor penhorado não compromete o sustento familiar encontra óbice na Súmula nº 7/STJ.
+5. A Segunda Seção do Superior Tribunal de Justiça já decidiu que a aplicação da multa por litigância de má-fé não é automática, visto não se tratar de mera decorrência lógica da rejeição do agravo interno. Precedente.
+6. Agravo interno não provido" (AgInt no REsp nº1.911.758/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022).
+Nesse contexto, os argumentos expostos pelo agravante são insuficientes para alterar os fundamentos da decisão agravada, os quais permanecem incólumes.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
