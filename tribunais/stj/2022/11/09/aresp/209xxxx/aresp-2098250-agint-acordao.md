@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por JFE 32 Empreendimentos Imobiliários Ltda. contra decisão desta relatoria proferida nos termos da seguinte ementa (e-STJ, fl. 308):
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. COMPRA E VENDA DE SALA COMERCIAL. DEMORA NA BAIXA DE HIPOTECA. INEXISTÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. DANO MORAL CONFIGURADO. MULTA COMINATÓRIA FIXADA EM PATAMAR RAZOÁVEL PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE EXCESSIVIDADE. REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+Nas razões recursais (e-STJ, fls. 317-334), aponta a agravante negativa de prestação jurisdicional e deficiência na fundamentação do acórdão quanto à ausência de análise dos precedentes colacionados, sob o argumento de que inexiste circunstância excepcional a justificar a condenação ao pagamento de indenização por danos morais.
+Pleiteia pelo afastamento do óbice da Súmula 7/STJ, por se tratar de matéria de direito, consistente no fato de que o mero atraso no cancelamento do gravame não gera danos morais e que o valor fixado a título de astreintes demonstra-se exorbitante.
+Requer, assim, a reconsideração da decisão agravada ou o encaminhamento do feito para julgamento pelo órgão colegiado.
+Sem impugnação (e-STJ, fls. 339-340).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL.COMPRA E VENDA DE SALA COMERCIAL. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DANO MORAL CONFIGURADO. MULTA COMINATÓRIA FIXADA EM PATAMAR RAZOÁVEL PELAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE EXCESSIVIDADE. REEXAME DE ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência desta Corte Superior está consolidada no sentido de não haver prestação jurisdicional deficiente por ofensa aos arts. 489 e 1.022 do CPC/2015, quando o Tribunal local dirimiu, fundamentadamente, as questões suscitadas, ainda que de forma diversa à pretendida pela parte.
+2. Na hipótese dos autos, a Corte de origem reconheceu a existência de dano moral indenizável. Alterar esse entendimento demandaria o revolvimento do acervo fático-probatório, o que é inviável em recurso especial.
+3. A alteração da conclusão adotada pelo Tribunal estadual, quanto ao valor das astreintes, exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7 deste Tribunal Superior.
+4. Agravo interno a que se nega provimento.
+VOTO
+Os argumentos trazidos pela insurgente não são capazes de modificar asconclusões da deliberação unipessoal.
+A agravante sustenta que ficou configurada a negativa de prestaçãojurisdicional, porquanto o colegiado local não se manifestou sobre os precedentes acerca da ausência decircunstância excepcional que configureviolação ao direito da personalidade do adquirente do imóvel.
+No entanto, conforme registrado na decisão agravada, constata-se que oacórdão combatido resolveu, satisfatoriamente, todas as questões submetidasà apreciação judicial na medida necessária para o deslinde dacontrovérsia, tendo apresentado os motivos pelos quais reconheceu a ocorrência de danos morais, sem incorrer nos vícios de obscuridade, contradiçãoou omissão com relação a ponto controvertido relevante, cujo exame pudesselevar a um diferente resultado na prestação de tutela jurisdicional.
+Essa é a conclusão que se depreende do que ficou registrado no acórdão recorrido (e-STJ, fl. 205- sem grifo no original):
+Assim é que o atraso injustificado no cancelamento da hipoteca por aquele que tem a obrigação contratual de promover a sua baixa além de constituir ato ilícito produz o dever de indenizar o dano moral causado ao comprador, considerando-se o longo tempo pelo qual recai a ameaça de constrição sobre o imóvel com preço quitado pelo adquirente(fls.25), fato que produz aflição e angústia pela restrição ao seu direito de propriedade, o que supera o trivial aborrecimento do cotidiano.
+Ademais, perceba-se que o adquirente teve que se socorrer ao Poder Judiciário para se desvencilhar do ônus hipotecário, obrigação esta que não lhe cabe, mas sim ao vendedor, ora apelante.
+A jurisprudência desta Corte Superior é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, ojulgador não está obrigado a rebater, um a um, os argumentos suscitadospela parte em embargos declaratórios, cuja rejeição, nessas condições, nãoimplica contrariedade ao art. 1.022, I e II, do CPC/2015.
+Cabe ressaltar, nesse contexto, "que o teor do art. 489, § 1º, inc. IV, doCPC/2015, ao dispor que "não se considera fundamentada qualquer decisãojudicial, seja ela interlocutória, sentença ou acórdão, que não enfrentartodos os argumentos deduzidos no processo capazes de, em tese, infirmar aconclusão adotada pelo julgador", não significa que o julgador tenha queenfrentar todos os argumentos trazidos pelas partes, mas, sim, aqueleslevantados que sejam capazes de, em tese, negar a conclusão adotada pelojulgador" (EDcl nos EREsp 1.523.744/RS, relator Ministro Og Fernandes, CorteEspecial, julgado em 7/10/2020, DJe 28/10/2020).
+Assim, tendo o Tribunal de origem decidido de modo claro e fundamentado,solucionando a controvérsia com a aplicação do direito que entendeucabível à hipótese, inexistem vícios suscetíveis de correção por meios dosembargos de declaração apenas pelo fato de o julgado recorrido terdecidido em sentido contrário à pretensão da parte.
+Na mesma linha de cognição:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. PREVIDÊNCIACOMPLEMENTAR. AÇÃO DE RESTITUIÇÃO DE CONTRIBUIÇÕES. PRAZO DE PRESCRIÇÃOTRIENAL. INAPLICABILIDADE. INCIDÊNCIA DO PRAZO GERAL DECENAL. IMPUGNAÇÃODA SÚMULA 568 DO STJ. PRECEDENTES ANTERIORES AOS MENCIONADOS NA DECISÃOAGRAVADA. IMPOSSIBILIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VIOLAÇÃODO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. SOLUÇÃO INTEGRAL DA LIDE. AUSÊNCIA
+DE VIOLAÇÃO DO ART. 489 DO CPC. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.REEXAME DE FATOS E PROVAS. INTEPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7 DO STJ.PREJUDICIALIDADE.
+(..)
+5. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art.1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito queentende cabível à hipótese soluciona integralmente a controvérsiasubmetida à sua apreciação, ainda que de forma diversa daquela pretendidapela parte. Precedentes.
+6. Devidamente analisadas e discutidas as questões de mérito, efundamentado corretamente o acórdão recorrido, de modo a esgotar aprestação jurisdicional, não há que se falar em violação do art. 489 doCPC.
+7. A ausência de fundamentação ou a sua deficiência importa no nãoconhecimento do recurso quanto ao tema.
+8. O reexame de fatos e provas e a interpretação de cláusulas contratuaisem recurso especial são inadmissíveis.
+9. A incidência da Súmula 7 do STJ prejudica a análise do dissídiojurisprudencial pretendido. Precedentes do STJ.
+10. Agravo interno não provido.
+(AgInt no REsp n. 1.748.394/SP, relatora Ministra Nancy Andrighi, TerceiraTurma, julgado em 21/2/2022, DJe de 24/2/2022.)
+Na hipótese dos autos, o Tribunal estadual, à luz das provas dos autos, reconheceu o dano moral indenizável, por entender que a situação ultrapassou o mero dissabor. Nesse ponto, alterar o entendimento da Corte de origem demandaria o revolvimento do acervo fático-probatório, o que é impossível mediante a via eleita, por encontrar óbice na Súmula n. 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃOINDENIZATÓRIA POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. ATRASONA ENTREGA DE IMÓVEL EM CONSTRUÇÃO. DANOS MORAIS. CONFIGURAÇÃO. REEXAMEDE FATOS E PROVAS. INADMISSIBILIDADE.
+1. O reexame de fatos e provas em recurso especial é inadmissível.
+2. Agravo não provido.
+(AgInt no AREsp n. 2.062.098/RJ, relatora Ministra Nancy Andrighi,Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022).
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ALEGAÇÃO DE ATRASO NA ENTREGA E INÉRCIA PARA BAIXA DA HIPOTECA. PEDIDO DE MULTA E REPARAÇÃO POR DANO MORAL. SENTENÇA DE PROCEDÊNCIA. FALHA NA PRESTAÇÃO DO SERVIÇO CONFIGURADA. ULTRAPASSADO PRAZO DE TOLERÂNCIA. INEXISTÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. TEORIA DO RISCO DO EMPREENDIMENTO. SITUAÇÃO QUE ULTRAPASSA A ESFERA DO MERO ABORRECIMENTO DO COTIDIANO. DANOS MORAIS CONFIGURADOS. ADEQUAÇÃO AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DOMINANTE. SÚMULA 83 DO STJ. REVOLVIMENTO DO ACERVO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284 DO STF. INCIDÊNCIA.
+1. "O Código de Processo Civil/2015 avançou ao delimitar o tema, prevendo, em seu artigo 272, que, quando não realizadas por meio eletrônico, consideram-se feitas as intimações pela publicação dos atos no órgão oficial"(AgInt no AREsp 1330052/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/03/2019, DJe 29/04/2019).
+2. Quanto à configuração de responsabilidade civil por dano moral, incide a Súmula 83 do STJ, que determina a pronta rejeição dos recursos a ele dirigidos quando o entendimento adotado pelo e. Tribunal de origem estiver em conformidade com a jurisprudência consolidada dos Tribunais Superiores.
+3. O exame da pretensão recursal quanto ao valor da indenização por danos morais fixada exigiria a alteração das premissas fático-probatórias estabelecidas pelo v. acórdão, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+4. Na espécie, não houve a demonstração clara e precisa dos motivos pelos quais o acórdão recorrido teria vulnerado o dispositivo apontado no apelo extremo, incidindo a Súmula nº 284/STF. Aplicação analógica.
+5. Agravo interno provido para afastar a intempestividade e negar provimento agravo em recurso especial por outros fundamentos.
+(AgInt nos EDcl no AREsp n. 1.330.934/RJ, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/10/2019, DJe 16/10/2019).
+Outrossim, a alteração da conclusão adotada pela Corte de origem, quanto ao valor das astreintes, exigiria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula n. 7 do Superior Tribunal de Justiça.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. RESPONSABILIDADE SOLIDÁRIA DAS SOCIEDADES CONSORCIADAS. SÚMULA N. 83 DO STJ. MULTA COMINATÓRIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.3. Segundo a jurisprudência desta Corte Superior, excepcionalmente, admite-se a responsabilidade solidária do consórcio por expressa previsão legal quando a relevância dos interesses em jogo preponderarem sobre a autonomia patrimonial das integrantes do consórcio.
+4. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõem a Súmula n. 7 do STJ.
+6. No caso concreto, a análise das razões apresentadas pelas recorrentes de que é necessária a redução das astreintes demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.539.211/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 5/3/2021).
+Tendo em vista, então,que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento manifestado no aresto impugnado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
