@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão (fls. 186-189, e-STJ) que não conheceu do recurso.
+A agravante alega (fls. 193-205, e-STJ):
+A ora Agravante textualmente demonstrou nas razões do seu especial que a violação ao art. 173, I, do CTN, decorreria do não reconhecimento, pelo v. acórdão recorrido, do decurso do prazo decadencial do Fisco, uma vez que se passaram bem mais de 5 anos sem que houvesse o lançamento.
+(..)
+Essa a matéria objeto destes autos, que não atrai o óbice da Súmula 7, mas simplesmente o confronto do acórdão recorrido com a jurisprudência desse E. STJ, que já reconheceu que não há necessidade de intimação da Fazenda para se manifestar sobre a prescrição intercorrente
+(..)
+Não há dúvidas de que para hipóteses semelhantes foram dadas soluções totalmente diferentes.
+Pleiteia, ao final, a reconsideração do decisum.
+Sem impugnação, conforme certidão de fl. 210, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 173, I, DO CÓDIGO TRIBUTÁRIO NACIONAL E DO ART. 40 DA LEI 6.830/1980. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. REVISÃO. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Não se conhece de Recurso Especial em relação ao art. 173, I, do Código Tributário Nacional e ao art. 40 da Lei 6.830/1980 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Incidência, por analogia, da Súmula 284/STF.
+2. Hipótese em que o Tribunal de origem, com base nas provas dos autos, consignou: "In casu, versam os autos originários a respeito de execução fiscal, ajuizada em 2012, na qual a Fazenda Pública, ora agravada, objetiva o recebimento de crédito tributário, decorrente de Imposto de Transmissão de Bens Imóveis - ITBI, cobrado em razão da incorporação de imóvel no capital social da empresa quando da sua criação, cujo fato gerador teria ocorrido em 2005. Inicialmente, registre-se que a fluência do prazo decadencial de 05 (cinco) anos, previsto no artigo 173, inciso I, do Código Tributário Nacional, para a constituição do crédito tributário, se inicia, no caso concreto, apenas após o decurso dos 03 (três) anos que o Fisco possui, conforme previsto artigo 37, § 2.º, do citado diploma legal, para avaliar se a pessoa jurídica não se enquadra na hipótese constitucional que enseja a imunidade do referido tributo, disposta no artigo 156, § 2.º, inciso I, da Carta Magna (..) Assim, considerando-se que a aquisição do imóvel se deu em 2005, com a integralização do capital social, o prazo decadencial para a constituição do crédito tributário se iniciou em 1.º de janeiro de 2009, ou seja, no primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado. Portanto, tendo este, efetivamente, se dado em 2011, não há que se falar em ocorrência de decadência. Ultrapassado tal aspecto, cumpre registrar que a já citada Corte Superior, no julgamento do Recurso Especial n.º 1.340.553/RS, da relatoria do Ministro Mauro Campbell, submetido ao regime de recurso repetitivo, fixou os parâmetros para o reconhecimento da prescrição intercorrente, em atenção ao procedimento previsto no artigo 40 da Lei de Execução Fiscal (..) Assente isso, tem-se que se extrai da tese firmada pela Corte Superior acima descrita que, após constatada a não localização do devedor e a ausência de bens sobre os quais possa recair a penhora, deve haver a intimação da Fazenda Pública a respeito da certidão negativa apresentada pelo oficial de justiça, momento após o qual se inicia automaticamente o prazo de suspensão de 01 (um) ano previsto no aludido artigo, cujo fim marca o termo a quo da contagem do prazo prescricional. Assim, mostra-se ser essencial a devida ciência do exequente em relação ao resultado do mandado expedido, cujo prejuízo decorrente da ausência de intimação para tal finalidade é presumido. Portanto, como na hipótese em exame, embora o ato citatório tenha sido emitido em 2012, a notificação ao Ente Público, a respeito da certidão negativa, se deu, tão somente, em 2017, não havendo que se falar em prescrição intercorrente durante esse intervalo em que o processo permaneceu paralisado sem ter sido remetido à Procuradoria do Município, em observância à tese acima descrita. Dessume-se, do que se antecede, a correção do julgado atacado, o qual deve ser integralmente mantido. Pelo exposto, nega-se provimento ao recurso, revogando-se a decisão de concessão de efeito suspensivo" (fls. 46-52, e-STJ).
+3. Dessa forma, aplicar posicionamento distinto do proferido pelo aresto confrontado implica reexame da matéria fático-probatória, o que é obstado ao STJ, conforme determina a Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 7.10.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão, pelo que reitero o seu teor.
+Conforme consignei no decisum, a insurgente afirma que o art. 173, I, do Código Tributário Nacional e o art. 40 da Lei 6.830/1980 foram violados, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto ante o óbice da Súmula 284/STF. Cito precedentes:
+PROCESSUAL CIVIL. (..) DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. (..)
+(..) II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..) (AgInt no REsp 1630011/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 30/03/2017).
+RECURSO ESPECIAL (..) VIOLAÇÃO DO ART. 535 DO CPC/1973, DO ART. 1.022 DO CPC/2015 E DOS ARTS. 151, III, E 174 DO CTN. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973, ao art. 1.022 do CPC/2015 e aos arts. 151, III, e 174 do Código Tributário Nacional quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..) (REsp 1652761/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/04/2017).
+Por outro lado, na hipótese dos autos, o Tribunal de origem consignou (fls. 46-52, e-STJ):
+In casu, versam os autos originários a respeito de execução fiscal, ajuizada em 2012, na qual a Fazenda Pública, ora agravada, objetiva o recebimento de crédito tributário, decorrente de Imposto de Transmissão de Bens Imóveis - ITBI, cobrado em razão da incorporação de imóvel no capital social da empresa quando da sua criação, cujo fato gerador teria ocorrido em 2005.
+Inicialmente, registre-se que a fluência do prazo decadencial de 05 (cinco) anos, previsto no artigo 173, inciso I, do Código Tributário Nacional, para a constituição do crédito tributário, se inicia, no caso concreto, apenas após o decurso dos 03 (três) anos que o Fisco possui, conforme previsto artigo 37, § 2.º, do citado diploma legal, para avaliar se a pessoa jurídica não se enquadra na hipótese constitucional que enseja a imunidade do referido tributo, disposta no artigo 156, § 2.º, inciso I, da Carta Magna
+(..)
+Assim, considerando-se que a aquisição do imóvel se deu em 2005, com a integralização do capital social, o prazo decadencial para a constituição do crédito tributário se iniciou em 1.º de janeiro de 2009, ou seja, no primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado.
+Portanto, tendo este, efetivamente, se dado em 2011, não há que se falar em ocorrência de decadência.
+Ultrapassado tal aspecto, cumpre registrar que a já citada Corte Superior, no julgamento do Recurso Especial n.º 1.340.553/RS, da relatoria do Ministro Mauro Campbell, submetido ao regime de recurso repetitivo, fixou os parâmetros para o reconhecimento da prescrição intercorrente, em atenção ao procedimento previsto no artigo 40 da Lei de Execução Fiscal
+(..)
+Assente isso, tem-se que se extrai da tese firmada pela Corte Superior acima descrita que, após constatada a não localização do devedor e a ausência de bens sobre os quais possa recair a penhora, deve haver a intimação da Fazenda Pública a respeito da certidão negativa apresentada pelo oficial de justiça, momento após o qual se inicia automaticamente o prazo de suspensão de 01 (um) ano previsto no aludido artigo, cujo fim marca o termo a quo da contagem do prazo prescricional.
+Assim, mostra-se ser essencial a devida ciência do exequente em relação ao resultado do mandado expedido, cujo prejuízo decorrente da ausência de intimação para tal finalidade é presumido.
+Portanto, como na hipótese em exame, embora o ato citatório tenha sido emitido em 2012, a notificação ao Ente Público, a respeito da certidão negativa, se deu, tão somente, em 2017, não havendo que se falar em prescrição intercorrente durante esse intervalo em que o processo permaneceu paralisado sem ter sido remetido à Procuradoria do Município, em observância à tese acima descrita.
+Dessume-se, do que se antecede, a correção do julgado atacado, o qual deve ser integralmente mantido.
+Pelo exposto, nega-se provimento ao recurso, revogando-se a decisão de concessão de efeito suspensivo.
+Desse modo, é inviável o acolhimento da pretensão da parte insurgente, em sentido contrário, em razão do óbice contido na Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+Nesse sentido:
+(..)IV. Na forma da jurisprudência, "a análise da divergência jurisprudencial fica prejudicada quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional" (STJ, AgInt no AREsp 912.838/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 03/03/2017). Nesse sentido: STJ, AgInt no REsp 1.590.388/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 24/03/2017.
+V. Agravo interno improvido.
+(AgInt no AREsp 894.166/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 30/06/2017).
+PROCESSUAL CIVIL (..) REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO. (..)
+(..)
+2. O recurso especial não é, em razão da Súmula 7/STJ, via processual adequada para questionar julgado que se afirmou explicitamente em contexto fático-probatório próprio da causa.
+3. "Resta prejudicada a análise da divergência jurisprudencial se a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional" (EDcl nos EDcl no REsp 1.065.691/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/6/2015).
+4. Agravo interno não provido.
+(AgInt no AREsp 1069867/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 09/08/2017).
+Logo, ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Diante do exposto, nego provimento ao Agravo Interno.
+É como voto.
