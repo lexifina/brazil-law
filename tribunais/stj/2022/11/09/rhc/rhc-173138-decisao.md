@@ -1,0 +1,11 @@
+DECISÃO
+CAROLINE DA SILVA MATTOS, suspeita detráfico de drogas e associação para tal fim,segregada cautelarmente desde 1/7/2022,alega sofrer coação ilegal em face de acórdão do Tribunal a quo. A defesa requera substituição de sua custódia por prisão domiciliar, pois a pacienteé mãe de criança menor de 12 anos.
+Decido.
+O recurso em habeas corpus não comporta conhecimento, porque o pleito da defesa não foi decidido previamente peloTribunal de Justiça.
+O"exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevidasupressãode instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)"(AgRg no HC n. 753.181/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022).
+Não é possível conceder a ordem de ofício.
+O Juiz explicou (fl. 18) que a ré, presa inicialmente no dia 11/1/2022, por suspeita de tráfico de drogas em sua residência, foi beneficiada com a liberdade provisória mediante fixação de cautelares. Ela foi flagrada, meses depois, reiterando o tráfico de drogas em sua residência, em 1º/7/2022, e a prisão preventiva foi novamente decretada porque, além de descumpridas as cautelares, a suspeitadeu"continuidade à prática do crime de tráfico e de associação para o tráfico, bem como possível crime de integrar organização criminosa".
+O aresto estadual está conforme a jurisprudência desta Corte, de que "odescumprimentodemedidacautelar imposta para a concessão da liberdade provisória justifica a custódia cautelar"(AgRg no HC n. 755.801/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 4/10/2022, DJe de 7/10/2022).
+Ademais: "Denega-se pedido de prisãodomiciliarformulado por mulher quando, beneficiada por medidas cautelares diversas da prisão, comete novo delito similar"(AgRg no HC n. 760.071/MS, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 13/9/2022, DJe de 16/9/2022).
+À vista o exposto, indefiro liminarmente o processamento do recuro ordinário emhabeas corpus, e não diviso ilegalidade flagrante, passível de ensejar a concessão da ordem, de ofício.
+Publique-se e intimem-se.
