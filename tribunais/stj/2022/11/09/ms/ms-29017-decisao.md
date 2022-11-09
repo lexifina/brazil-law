@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido liminar, impetrado por TIAGO ALVES DE SALES RIBEIRO contra atopraticado pelo Juiz de Direito do Juizado Especial Cível deCriminal de Inhumas (GO), que deixoude reconhecer a incompetência do Juizado especial para julgamento de execução de título extrajudicial(Proc. n.5443373-16.2019.8.09.0073).
+Aponta o reclamanteindícios de fraude nos títulos exequendos, razão da imprescindibilidade da perícia grafotécnica.
+Menciona que, em prosseguimento do feito, o juízo ordenou o bloqueio on-line de valores em contas de titularidade do impetrante.
+Contra a decisão do juízo singular, impetrou mandado de segurança indeferido liminarmente pela Turma Recursal.
+Requer, liminarmente, a suspensão dos atos lesivos, nos termos do art. 7º, III, da Lei n. 12.016/2009.No mérito, pede a anulação das decisões interlocutórias, a extinção do processo sem resolução do mérito, por incompetência dos juizados especiais.
+É o relatório.Decido.
+O mandamus não merece prosperar.
+Na espécie, aponta-se como autoridade coatora juiz de direito do juizado especial, o qual teria rejeitado a arguição de incompetência do juízo baseada na alegada necessidade de prova pericial grafotécnica para aferição de suposta fraude no título exequendo.
+A competência do STJ para a ação de mandado de segurança é restrita aos casos estabelecidos no art. 105, I,b, da CF/88, de modo que, se a autoridade coatora for membro de outro tribunal, a hipótese é de incidência do óbice da Súmula n. 41 do STJ.
+Ademais, nostermos da Súmula n.376 do STJ, "compete a turma recursal processar e julgar o mandado de segurança contra ato de juizado especial."
+Desse modo, não foi instaurada a jurisdição extraordinária do Superior Tribunal de Justiça, motivo pelo qual deve ser declarada a incompetência do STJ sem prejuízo da remessa à Turma Recursal a quem compete a análise do feito. Nesse sentido, a jurisprudência:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. COMPETÊNCIA. JUIZADOS ESPECIAIS. SÚMULA 376/STJ. CONTROLE DE MÉRITO DOS ATOS DE JUIZADO ESPECIAL. 1. Trata-se de Agravo Interno contra decisão que negou provimento ao Recurso Ordinário. 2. O Tribunal de origem, examinando a controvérsia e o acervo fático-probatório dos autos, entendeu que não tem competência revisora das decisões proferidas no âmbito dos Juizados Especiais, pelo que remanesce a competência do Juizado Especial para análise do mandamus. 3. Consoante a jurisprudência do STJ, admite-se a impetração de Mandado de Segurança perante os Tribunais de Justiça dos Estados para o exercício do controle de competência dos juizados especiais, ficando a cargo das Turmas Recursais, conforme dispõe a Súmula 376 do STJ, o Writ que tenha por escopo o controle de mérito dos atos de juizado especial. Precedente: RMS 46.955/GO, Rel. Min. Moura Ribeiro, Terceira Turma, DJe 17/8/2015. 4. A necessidade da realização de prova pericial, por si só, não afasta a competência dos Juizados Especiais. Confira-se: RMS 39.071/MG, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 15/10/2018. 5. A averiguação quanto ao mérito (necessidade ou não de prova pericial) remete à solução da competência às Turmas recursais de acordo com a Súmula 376/STJ e com o decidido pelo Tribunal a quo. 6. Agravo Interno não provido. (AgInt no RMS n.66.360/SP, relatorMinistro Herman Benjamin, Segunda Turma, DJe de 10/12/2021;)
+Em idêntico norte, a jurisprudência do STF:AI n. 666.523-AgR, relator Ministro Ricardo Lewandowski,redator para o acórdão Ministro Marco Aurélio, Primeira Turma,DJe de 3/12/2010.
+Ante o exposto, indefiro liminarmente omandado de segurança.Prejudicada a medida liminar.
+Nos termos do art. 64, § 3º, do CPC/2015, remetam-se osautos ao Tribunal de origempara encaminhamento do feito àTurma Recursal competente.
+Publique-se.Intimem-se.
+EMENTA
+MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. CONTROLE DOS ATOS DO JUIZADO ESPECIAL OU DATURMA RECURSAL INCOMPETÊNCIA ABSOLUTA DO STJ.INICIAL INDEFERIDA. REMESSA DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Compete a turma recursal processar e julgar o mandado de segurança contra ato de juizado especial.Súmula n. 376 do STJ. Precedentes.
+2. Mandado de segurança indeferido liminarmente. Determinada remessa dos autos à origem.
