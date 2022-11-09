@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão que inadmitiu Recurso Especial, ante os óbices das Súmulas 283/STF, 284/STF e 126/STJ.
+Nas razões do Recurso (fls. 337-340, e-STJ), a parte agravante alega:
+Essa passagem, em negrito, transcrita do v. acórdão não foi impugnada, objeto dos Embargos de Declaração ou posta em discussão em Recurso Extraordinário porque a efetividade do recorrente restou reconhecida por sentença, transitada em julgado,condenando a Municipalidade a reintegrá-lo no serviço público como efetivo, fazendo jus, portanto, aos benefícios e direitos inerentes ao cargo. E nesta conformação atuou o Município que, imediatamente após a decisão administrativa autorizando a modificação de cargo e de regimedo servidor - ou seja, em abril de 2016 - passou a pagar-lhe os adicionais temporais, como se infere do demonstrativo de fls. 57, e-STJ. Tanto assim que, em nenhum momento, quer nos processos administrativos, na íntegra, instruídos com a petição inicial, quer nas peças apresentadas pela Municipalidade nesta demanda a partir da contestação,tal questão foi levantada.
+(..)
+Bem por isso, tal fundamento, a despeito do enfoque constitucional e de não tê-lo impugnado recorrente, no caso dos autos, não pode servir de fundamento para manter o v. acórdão recorrido, o que afasta a incidência das Súmulas 283 e 284 do STF, e 126 do STJ, bem como a aplicação dos precedentes adotados pela douta decisão agravada para negar provimento ao Recurso Especial.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. ADICIONAIS TEMPORAIS. RECONHECIMENTO DA PRESCRIÇÃO PELA CORTE DE ORIGEM. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 1.022, II, E 489, § 1º, IV, DO CPC. QUANTO À QUESTÃO PRINCIPAL, INCIDÊNCIA DAS SÚMULAS 283/STF, 284/STF E 126/STJ.
+1. Inexiste afronta aos arts. art. 1.022, II, e 489, § 1º, IV, do CPC. Os Aclaratórios foram opostos com o intuito de rediscutir o que foi decidido de maneira clara: houve prescrição da pretensão de receber valores referentes aos quinquênios.
+2. Ao decidir a controvérsia, o Tribunal a quo consignou que "mesmo que ao mérito propriamente dito se chegasse, a demanda não teria êxito, pois não houve equívoco na reintegração do servidor. O fato do autor, admitido pela CLT, possuir estabilidade prevista no art. 19 do ADCT não lhe confere a condição de titular de cargo efetivo, pacificado no Supremo Tribunal Federal o entendimento de que servidores beneficiados pelo dispositivo aludido possuem direito à estabilidade, não se lhes conferindo, porém, as vantagens privativas dos ocupantes de cargo efetivo (Ag Rg no Recurso Extraordinário 604.519-Ceará, relatora a Ministra Cármen Lúcia)".
+3. Não houve impugnação adequada e específica desses fundamentos. A parte nem sequer citou o dispositivo da legislação infraconstitucional que teria sido violado por esse trecho do acórdão. Aplicam-se as Súmulas 283/STF e 284/STF, por analogia.
+4. Além disso, a causa foi decidida, também, sob o enfoque constitucional, mas não houve interposição de Recurso Extraordinário. Aplica-se a Súmula 126/STJ: "É inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta Recurso Extraordinário".
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 6.10.2022.
+A irresignação não merece prosperar, pois não foram apresentados argumentos suficientes para a reforma da decisão agravada.
+Conforme apontado na decisão recorrida, não houve afronta aos arts. 1.022, II, e 489, § 1º, IV, do CPC. Os Aclaratórios foram opostos com o intuito de rediscutir o que foi decidido de maneira clara: houve prescrição da pretensão de receber valores referentes aos quinquênios.
+Sobre a questão principal, assim ficou consignado no decisum (grifei):
+Se como alega o autor foi irregularmente reintegrado nos quadros da Municipalidade sob o regime celetista por ato datado de 16 de junho de 2000 (fls. 24), é a partir daí que começou a correr o prazo prescricional de cinco anos para postular o correto enquadramento como estatutário, com a consequente contagem de tempo para o recebimento de adicionais temporais.
+Como incontroversamente o prazo transcorreu "in albis", tanto uma quanto a outra pretensão prescreveu, realidade com a qual não interfere o fato da Administração, por mera liberalidade, em 16 de março de 2016 ter autorizado a modificação do cargo e do regime do autor, de Diretor do Departamento celetista para Fiscal de Rendas estatutário (fls. 25), passando a partir de então a pagar-lhe adicionais.
+E não constitui demasia acrescentar que mesmo que ao mérito propriamente dito se chegasse, a demanda não teria êxito, pois não houve equívoco na reintegração do servidor.
+O fato do autor, admitido pela CLT, possuir estabilidade prevista no art. 19 do ADCT não lhe confere a condição de titular de cargo efetivo, pacificado no Supremo Tribunal Federal o entendimento de que servidores beneficiados pelo dispositivo aludido possuem direito à estabilidade, não se lhes conferindo, porém, as vantagens privativas dos ocupantes de cargo efetivo (Ag Rg no Recurso Extraordinário 604.519-Ceará, relatora a Ministra Cármen Lúcia).
+Não houve impugnação adequada e específica do referido fundamento. A parte nem sequer citou o dispositivo da legislação infraconstitucional que teria sido violado por esse trecho do acórdão. Aplicam-se as Súmulas 283/STF e 284/STF, por analogia.
+Ademais, a causa foi decidida, também, sob o enfoque constitucional, mas não houve interposição de Recurso Extraordinário. Aplica-se a Súmula 126/STJ: "É inadmissível Recurso Especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta Recurso Extraordinário".
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
