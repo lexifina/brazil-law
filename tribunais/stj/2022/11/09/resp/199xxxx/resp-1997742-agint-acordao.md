@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 1119):
+PROCESSO CIVIL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. INTERPRETAÇÃO DE NORMA LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+O agravante alega que "é imperiosa a reconsideração da r. decisão agravada, uma vez que as premissas escolhidas pelo eminente Ministro Relator estão afastadas dos reais contornos do caso" (fl. 1126).
+Comimpugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. INTERPRETAÇÃO DE NORMA LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2.Afasta-se a alegada violação do artigo 1.022 do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia.
+3. Quanto à invocação do art. 1.025 do CPC de 2015, é impossível o conhecimento de recurso especial que defina o sentido e alcance de lei local. Evidencia-se que a tutela jurisdicional foi prestada pelo acórdão recorrido com fundamento no 8º da Lei do Estado de Mato Grosso nº 7.958, de 25 de setembro de 2003, razão por que o recurso especial não deve ser conhecido nesta Corte Superior por demandar interpretação de normativo estranho à legislação federal. Aplica-se ao caso a Súmula 280/STF.
+4. Agravo interno nãoprovido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo internonão se vislumbram razões para reformar a decisão agravada.
+Isso porque, evidencia-se pela leitura do seguinte trecho do voto condutor dos embargos de declaração, que as questões suscitadas pelo embargante foram devidamente analisadas (fl. 974):
+Os embargos não devem ser acolhidos, uma vez que restou devidamenteexplicitado no voto embargado que, no caso, não se trata de aplicaçãoretroativa da Lei n. 9.932/2013, uma vez que, por mais que ela tenhaacrescentado ao artigo 8º, da Lei n8. 7.985/03, o § 1º, I, a, b, c, d e f; à épocada concessão do benefício, a redação original do artigo art. 8º, já estabeleciaque o Programa de Desenvolvimento Industrial e Comercial de Mato Grosso -PRODEIC terá por finalidade precípua alavancar o desenvolvimento dasatividades econômicas definidas como estratégicas, destinadas à produçãoprioritária de bens e serviços no Estado.
+Sendo assim, constata-se que, desde o início, o benefício era voltado paraindústria, de modo que, a revogação do benefício da Recorrente ocorreu,principalmente, pelo fato da empresa ser do setor de varejista de móveis, nãopossuindo amparo legal para usufruir benefícios fiscais do segmento deindústria, bem como, ante a ausente documentos necessários para a adesão,tais como, Alvará de funcionamento, a Licença do Corpo de Bombeiros, bemcomo ausência de comprovação de participação no Programa PrimeiroEmprego (ou termo de compromisso), além do fato de que o processoadministrativo não juntou memória de cálculo do impacto financeiro darenúncia fiscal.
+Portanto, consoante consignado no acórdão embargado (..) não se trata derevogação de isenção onerosa, não sendo o caso de aplicação da Súmula 544do STJ, mas de invalidação de laudos constitutivos de benefícios fiscais,elaborados em dissonância com a lei, incidindo ao caso concreto, o verbetesumular n. 473/STF, in verbis: A administração pode anular seus própriosatos, quando eivados de vícios que os tornam ilegais, porque deles não seoriginam direitos; ou revogá-los, por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e ressalvada, em todos os casos, aapreciação judicial.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decididopela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+Por outro lado é impossível o conhecimento derecurso especial que defina o sentido e alcance de lei local. Na hipótese dos autos,a tutela jurisdicional foi prestada pelo acórdão recorrido comfundamento no 8º da Lei do Estado de Mato Grosso nº 7.958, de 25 de setembro de 2003, razãopor que o recurso especial não deve ser conhecido nesta Corte Superior por demandarinterpretação de normativo estranho à legislação federal. Aplica-se ao caso a Súmula 280/STF.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
