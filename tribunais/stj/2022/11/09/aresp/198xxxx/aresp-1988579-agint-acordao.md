@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por TRES AMERICAS TRANSPORTES LTDAcontra decisão unipessoal que conheceu do agravo para conhecerdorecurso especial interposto pelaagravadae dar-lhe provimento, determinando a anulação do acórdão do Tribunal de origem em razão de negativa de prestação jurisdicional.
+Ação: indenização securitária, ajuizada por TRES AMERICAS TRANSPORTES LTDA, em face da agravante, em razão de negativa de pagamento de seguro por furto de pneus transportados.
+Sentença: julgou improcedente o pedido.
+Acórdão: deu provimento à apelação interposta pela agravada, para condenar a agravante ao pagamento do valor correspondente aos lucros cessantes verificados no período de oito anos, contados a partir de 30/03/2010, a serem apurados por perícia judicial em sede de liquidação de sentença, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA DE INDENIZAÇÃO - LUCROS CESSANTES - CONTRATO DE SEGURO - NEGATIVA DE INDENIZAÇÃO SECURITÁRIA - RESPONSABILIDADE DA SEGURADORA PELO ROMPIMENTO DE CONTRATO DE PRESTAÇÃO DE SERVIÇO - FATO COMPROVADO - SENTENÇA REFORMADA - RECURSO CONHECIDO E PROVIDO.
+Impõe-se a reforma da sentença e julgamento procedente do pedido de indenização por lucros cessantes, quando o autor comprova a culpa do requerido quanto à rescisão contratual com empresa contratante de serviços de transporte.
+Recurso provido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 11, 489, §1º, IV, e 1.022, II, parágrafo único, II, do CPC/15, e 206, §1º, II, 402, 757, 768 e 944, parágrafo único, do CC/02, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: i) a pretensão de indenização está prescrita; ii) a apólice de seguro contratada exclui a cobertura de pneus e os lucros cessantes; iii) os transportes relacionados aos sinistros não foram averbados junto à seguradora; iv) a empresa que a agravada indicou para gerenciamento de riscos e monitoramente não está entre as empresas homologadas pela seguradora a prestar serviços, fato que provocou o agravamento do risco; v) a agravada não apresentou os relatórios de monitoramento dos veículos; vi) há uma desproporção manifesta entre uma negativa de indenização de sinistro e oito longos anos de pagamento de lucros cessantes avaliados em quase dezessete milhões de reais.
+Decisão monocrática:conheceu do agravo para conhecer do recurso especial interposto pela agravada e dar-lhe provimento, determinando a anulação do acórdão do Tribunal de origem em razão de negativa de prestação jurisdicional.
+Agravo interno:em suas razões, a agravante afirma que os pontos descritos pela agravada ou foram objeto de expressa análise por parte do Tribunal de origem -razão pela qual também foram rejeitados os embargos de declaração, não se verificando, em consequência, a omissão que ensejaria a alegada negativa de prestação jurisdicional - ou não eram relevantes para o deslinde da controvérsia.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.NEGATIVA DE PAGAMENTO DO SEGURO. FURTO DE PNEUS TRANSPORTADOS.EMBARGOS DE DECLARAÇÃO INTERPOSTOS PERANTE O TRIBUNAL DE ORIGEM.OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Ação indenizatória securitária em razão de negativa de pagamento do seguro por furto de pneus transportados.
+2. Caracteriza-se a ofensa ao art. 1.022 do CPC/15 na hipótese em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia.
+3. Agravo interno no agravo em recurso especial nãoprovido.
+VOTO
+A decisão agravada conheceu do agravo para conhecer do recurso especial daagravadae dar-lhe provimento, determinando a anulação do acórdão do Tribunal de origem em razão de negativa de prestação jurisdicional.
+1. Da negativa de prestação jurisdicional
+Com efeito, não há como se afastar a reconhecida ocorrência de violação do art. 1.022 do CPC/2015, uma vez que a Corte local, de fato, não promoveu a análise de teses relevantes ao deslinde da controvérsia, quaissejam:i) há cláusula no contrato de seguro em que a agravada assume aresponsabilidade plena, individual e solitária, mesmo que a seguradora não a indenizasse;ii) a apólice era apenas e tão somente de reembolso, ou seja, o pagamento do seguro seria posterior à reparação dos prejuízos pela agravada; iii) vários foram os motivos que levaram a seguradora a negar a cobertura para os eventos (falta de averbação dos transportes junto à seguradora; agravamento do risco em razão de a empresa indicada para gerenciamento de riscos e monitoramente não estar entre as homologadas pela seguradora; e ausência de apresentação dos relatórios de monitoramento dos veículos).
+Verifica-se que a agravante, na tentativa de afastar a reconhecida negativa de prestação jurisdicional, menciona que o TJ/MSfaz a seguinte menção:
+(..) apesar de todas as testemunhas terem sido consideradas suspeitas pelo magistrado singular e inquiridas como informantes, certo é que Saturnino Ramires e Daniel Esteban Teno Chioccarello são corretores de seguro autônomos, encarregados de formalizarem o contrato e não eram nem são diretamente ligados às empresas envolvidas.
+A testemunha Leila Abdallah Ismail é contadora autônoma não vinculada à empresa, da qual é simples encarregada da escrita fiscal, e mais que evidente que, nesta qualidade, não obedece a ordens da direção da empresa, não se encontra a ela vinculada, nem participa da sua administração. Por fim, a testemunha Luciane Helenita Martins Duarte, foi secretária da empresa, mas já nem ali trabalha pois foi dispensada em 2012.
+Seus depoimentos são incisivos e comprovam, à saciedade, que o rompimento do contrato se deu em razão do não pagamento do seguro pelos furtos de cargas ocorridos.
+Portanto, os depoimentos corroboram as demais provas acostadas pelo apelante.
+Ocorre que, diferentemente do que quer fazer crer, aagravadainstoua Corte local a se manifestar especificamente sobre os supracitados pontos, trazidos em sede de embargos declaratórios, o que, de fato, não foi analisado pelo Tribunal de origem, em clara afronta ao art. 1.022 do CPC/2015.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo de interno no agravo em recurso especial.
