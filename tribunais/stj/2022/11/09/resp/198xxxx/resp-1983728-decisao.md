@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial apresentado por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A. desafiando acórdão do Tribunal estadual assim ementado (e-STJ, fl. 964):
+CONSUMIDOR. APELAÇÃO CÍVEL E RECURSO ADESIVO. AÇÃO DE OBRIGAÇÃO DE FAZER. SENTENÇA DE PROCEDÊNCIA. CONDENAÇÃO DO PLANO DE SAÚDE EM FORNECER TERAPIA NEUROMOTORA INTENSIVA, TERAPIA OCUPACIONAL E PSICOLÓGICA A PACIENTE COM PARALISIA CEREBRAL. ALEGAÇÃO DE AUSÊNCIA DE PREVISÃO NO ROL DE PROCEDIMENTOS DA AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR-ANS. ROL EXEMPLIFICATIVO QUE PREVÊ COBERTURA MÍNIMA. IMPOSSIBILIDADE DE LIMITAR O NÚMERO DE SESSÕES. DIREITO DO CONSUMIDOR À REALIZAÇÃO DO TRATAMENTO. DANOS MORAIS CONFIGURADOS. DEVER DE INDENIZAR. MAJORAÇÃO DO QUANTUM INDENIZATÓRIO. SENTENÇA PARCIALMENTE REFORMADA. APELO CONHECIDO E NÃO PROVIDO. RECURSO ADESIVO CONHECIDO E PROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 530-552), a recorrente alega violação aos arts.10, §4º,da Lei 9.656/1998; 186, 188, I, e 927do CC; 51, IV, do CDC; e 1.022, II, do CPC/2015.
+Aduz que o acórdão recorrido é omisso, pois não se pronunciou sobre todas as teses recursais.
+Sustenta que o tratamento prescrito pelo médico não está previsto no Rol da ANS, não havendo, desse modo, qualquer obrigação legal ou contratual para o seu custeio.
+Defende a taxatividade do rol de procedimentos elaborado pela ANS, conforme recente entendimento do Superior Tribunal de Justiça.
+Pondera que o número de sessões ofertadas à parte autora deve ser limitada, nos termos da Resolução 428/2017 da ANS.
+Aduz, ainda, ser indevida a condenação ao pagamento de indenização por danos morais.
+Contrarrazões às fls. 1.060-1.070 (e-STJ).
+O Tribunal de origem admitiu o processamento do recurso especial, ascendendo os autos a esta Corte Superior (e-STJ, fls. 1.071-1.072).
+Brevemente relatado, decido.
+A controvérsia do presente recurso refere-se à obrigatoriedade ou não de custeio de tratamento/material indicado pelo médico assistente da parte autora, diante da natureza do Rol de Procedimentos e Eventos em Saúde da ANS, se taxativo ou exemplificativo.
+No caso em análise, o Tribunal de Justiça, ao julgar a apelação, assim concluiu (e-STJ, fls. 966-967):
+Assim, impõe-se ressaltar que, mesmo existindo pacto contratual livremente celebrado entre as partes, é assegurado ao Poder Judiciário intervir na relação negocial para, se for o caso, devolver o equilíbrio determinado pela lei ao negócio jurídico, atendendo-se, sobretudo, a sua função social.
+Pois bem. Os Tribunais pátrios têm decidido que as cláusulas contratuais insertas em planos de saúde com o objetivo de restringir procedimentos médicos, por serem abusivas, revestem-se de nulidade porque violam a finalidade básica do contrato, além de malferirem os princípios da boa-fé e da razoabilidade.
+Nesse sentido, o consumidor que contrata o plano de saúde não detém, via de regra, o conhecimento técnico para entender se está incluído ou não no atendimento deste ou daquele procedimento médico, especialmente considerando a linguagem técnico-científica própria deste tipo de contrato.
+In casu, o Apelado possui paralisia cerebral e, em decorrência disso, necessita ser acompanhado por equipe multidisciplinar para a melhora do seu quadro clínico e desenvolvimento motor.
+Como opções de tratamento, os médicos que lhe assistem recomendaram a terapia neuromotora intensiva, terapia ocupacional e a psicológica.
+A operadora do plano de saúde assevera, em suas razões, que os referidos tratamentos não constam no contrato entabulado entre as partes e nem no rol de procedimentos estabelecidos pela Agência Nacional de Saúde.
+Contudo, os argumentos ventilados pela empresa Apelante não merecem prosperar. Isso porque é ponto pacífico na jurisprudência que a operadora de plano de saúde não pode negar o custeio de tratamento indicado por médico, sob a justificativa de que não consta no rol de cobertura mínima da ANS, uma vez que se trata de rol meramente exemplificativo.
+ ..
+Assim, se há manifestação expressa do médico que cuida do paciente quanto a necessidade de realização daquele tipo de tratamento, não é dada a empresa de plano de saúde a faculdade de, sob eventual argumento de não cobertura do tratamento prescrito, deixar de fornecê-lo ao paciente, de modo que se a patologia do Apelado está coberta pelo plano - como de fato está - a empresa deve cobrir o tratamento indicado pelo médico daquele, mesmo que seja mais oneroso à empresa Apelante.
+No tocante a limitação de sessões, o STJ possui entendimento de que é abusiva a cláusula que limita a quantidade de sessões de terapias especializadas para tratamento de doença coberta pelo plano de saúde.
+Da análise do acórdão recorrido, constata-se que a conclusão a que chegou o Tribunal local foi no sentido de que o rol da ANS é meramente exemplificativo, sendo descabida a negativa da operadora de cobertura a tratamento indicado pelo médico pelo simples fato de não estar inserido no rol da ANS.
+Entretanto, de acordo com o recente entendimento firmado na Segunda Seção do STJ, o rol de procedimentos e eventos em saúde complementar é, em regra, taxativo, não sendo a operadora de plano ou seguro de saúde obrigada a custear procedimento ou terapia não listados, se existe, para a cura do paciente, alternativa eficaz, efetiva e segura já incorporada (EREsps n. 1.889.704/SP e 1.886.929/SP, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgados em 8/6/2022, DJe de 3/8/2022, sem grifo no original).
+Por ocasião do julgamento dos mencionados embargos de divergência, o Órgão Colegiado estabeleceu os seguintes parâmetros, os quais devem ser observados no julgamento do caso concreto:
+1- o Rol de Procedimentos e Eventos em Saúde Suplementar é, em regra, taxativo;
+2 - a operadora de plano ou seguro de saúde não é obrigada a arcar com tratamento não constante do Rol da ANS se existe, para a cura do paciente, outro procedimento eficaz, efetivo e seguro já incorporado ao Rol;
+3 - possível a contratação de cobertura ampliada ou a negociação de aditivo contratual para a cobertura de procedimento extra Rol;
+4 - não havendo substituto terapêutico ou esgotados os procedimentos do Rol da ANS, pode haver, a título excepcional, a cobertura do tratamento indicado pelo médico ou odontólogo assistente, desde que:
+(i) não tenha sido indeferida expressamente, pela ANS, a incorporação do procedimento ao Rol da Saúde Suplementar;
+(ii) haja comprovação da eficácia do tratamento à luz da medicina baseada em evidências;
+(iii) haja recomendações de órgãos técnicos de renome nacionais (como CONITEC e NATJUS) e estrangeiros; e
+(iv) seja realizado, quando possível, o diálogo interinstitucional do magistrado com entes ou pessoas com expertise técnica na área da saúde, incluída a Comissão de Atualização do Rol de Procedimentos e Eventos em Saúde Suplementar, sem deslocamento da competência do julgamento do feito para a Justiça Federal, ante a ilegitimidade passiva ad causam da ANS.
+Todavia, constata-se que, no caso em análise, o julgamento das instâncias ordinárias não avançou para aferir o preenchimento dos requisitos acima elencados, limitando-se a reputar abusiva a limitação por entender que a escolha do tratamento do paciente é prerrogativa do profissional médico, concluindo pelo caráter meramente exemplificativo do rol de procedimentos da autarquia reguladora.
+Desse modo, considerando a impossibilidade do reexame das cláusulas contratuais e dos demais elementos fático-probatórios, em virtude dos óbices das Súmulas 5 e 7 do STJ, necessário que os autos retornem à instância originária de modo a possibilitar o reexame dos elementos dos autos e da necessidade de produção de outras provas, a fim de que se realize novo julgamento à luz da tese firmada pela Segunda Seção desta Corte Superior.
+Por fim, importa consignar que na pendência do julgamento do presente recurso, sobreveio a Lei 14.454/2022, alterando o art. 10 da Lei 9.656/1998 quanto à natureza do Rol da ANS, nos seguintes termos:
+"Art. 10 (..)
+(..)
+§ 12. O rol de procedimentos e eventos em saúde suplementar, atualizado pela ANS a cada nova incorporação, constitui a referência básica para os planos privados de assistência à saúde contratados a partir de 1º de janeiro de 1999 e para os contratos adaptados a esta Lei e fixa as diretrizes de atenção à saúde.
+§ 13. Em caso de tratamento ou procedimento prescrito por médico ou odontólogo assistente que não estejam previstos no rol referido no § 12 deste artigo, a cobertura deverá ser autorizada pela operadora de planos de assistência à saúde, desde que:
+I - exista comprovação da eficácia, à luz das ciências da saúde, baseada em evidências científicas e plano terapêutico; ou
+II - existam recomendações pela Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde (Conitec), ou exista recomendação de, no mínimo, 1 (um) órgão de avaliação de tecnologias em saúde que tenha renome internacional, desde que sejam aprovadas também para seus nacionais." (NR)
+Assim, tendo em vista a retroatividade mínima da lei, havendo discussão nos autos acerca de tratamento de caráter continuado, caberá ao Juízo de origem observar os critérios estipulados na mencionada norma.
+Ante o exposto, dou parcial provimento ao recurso especial para, cassando o acórdão recorrido e a sentença, determinar o retorno dos autos à instância originária a fim de que, em novo exame dos autos, avalie o preenchimento dos requisitos para o deferimento excepcional da cobertura reivindicada pela parte segurada, tal como delineados pela Segunda Seção do STJ, julgando o pedido inicial como entender de direito.
+Caso exista liminar concedida, ficam mantidos os seus efeitos até nova apreciação dos autos pelo magistrado de primeiro grau.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. PROCEDIMENTO NÃO LISTADO NO ROL DA ANS. APLICAÇÃO DE PRECEDENTE DA SEGUNDA SEÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. NECESSIDADE DE RETORNO DOS AUTOS AO JUÍZO DE ORIGEM. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
