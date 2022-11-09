@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por ITAÚ UNIBANCO S/A, contra decisão monocrática que julgou prejudicado o agravo em recurso especial pela perda do objeto, com fundamento no art. 34, XI, RISTJ.
+Ação: exceção de pré-executividade, oposta por ITAÚ UNIBANCO S/A, em face de CLAUDIO RENATO TREVISAN.
+Sentença: julgou extinto o cumprimento de sentença, ante a satisfação da obrigação, com fundamento no art. 924, II, CPC e determinou, em havendo saldo devedor de custas remanescentes, a intimação do agravante para pagamento, em 10 (dez) dias, sob pena de execução.
+Decisão de admissibilidade do TJ/PR: não admitiu o Recurso Especial interposto pelo ITAÚ UNIBANCO S/A, uma vez que não restou caracterizada a negativa de prestação jurisdicional.
+Razões do agravo interno: sustenta o agravante que se manifestou nos autos de origem de forma tempestiva, ao contrário do que reconhecido em sentença e mantido pela decisão agravada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CUMPRIMENTO DE SENTENÇA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INCONFORMISMO. MANIFESTAÇÃO TEMPESTIVA NA CORTE LOCAL. INCIDÊNCIA DAS SÚMULAS 7 E 182/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de exceção de pré-executividade.
+2. Não encontra respaldo nesta Corte a insurgência do agravante, porquanto a manifestação junto à Corte local não foi exercida tempestivamente como alegado.
+3. A incidência das Súmulas 7 e 182/STJ obsta o provimento do agravo interno por ele manejado.
+4. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por ITAÚ UNIBANCO S/A, contra decisão monocrática que julgou prejudicado o agravo em recurso especial pela perda do objeto, com fundamento no art. 34, XI, RISTJ.
+Pela análise das razões recursais apresentadas, verifica-se que o agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+- DA OPOSIÇÃO AO JULGAMENTO VIRTUAL
+O agravante manifesta oposição ao julgamento virtual do seu agravo interno, nos seguintes termos:
+"De acordo com o entendimento recente desta eg. Segunda Seção, desse C. STJ, nos EDcl do AgInt no EREsp nº 1.470.906/SP, requer desde já, que o presente Agravo Interno seja julgado em sessão tele presencial, se opondo ao julgamento virtual do recurso (art. 184-D, II do RISTJ)."
+O art. 184-D, § único, II, RISTJ, determina que "as partes, por meio de advogado devidamente constituído, bem como o Ministério Público e os defensores públicos poderão apresentar memoriais e, de forma fundamentada, manifestar oposição ao julgamento virtual ou solicitar sustentação oral, observado o disposto no art. 159".
+A irresignação do agravante, contudo, não contém fundamentação apta a ensejar o acolhimento do pedido deduzido.
+No caso, o agravo interno constitui espécie recursal expressamente autorizada pelo Regimento Interno (art. 184-A, § único, II, RISTJ) a ser incluída nesta modalidade de julgamento, sobretudo porque não admite a realização de sustentação oral na sessão presencial (art. 159 do RISTJ).
+- DO MÉRITO
+De início, é necessária a transcrição do inteiro teor da decisão agravada, a fim de ressaltar a inconsistência do agravo interno manejado pelo agravante, diante do que restou consignado:
+"Cuida-se de agravo em recurso especial interposto por ITAÚ UNIBANCO S/A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Da análise dos autos, Apenso 1, Exceção de pré-executividade oposta pelo agravante, consta a Sentença proferida pela MM. Juíza Substituta, Luciana Gonçalves Nunes, julgando extinto o Cumprimento de sentença, ante a satisfação da obrigação, com fundamento no art. 924, inc. II, do Código de Processo Civil.
+No ponto, é imperioso destacar o que na r. Sentença restou decidido:
+"1. Trata-se de cumprimento de sentença proposto por CLAUDIO RENATO TREVISAN, contra ITAUUNIBANCO S. A., em que foi homologado cálculo realizado por perito em decisão de mov. 69.1.
+Foi bloqueado o valor integral via SISBAJUD (mov. 96.1).
+Deferida a expedição de alvará de transferência à conta informada pela parte exequente, com destacamento de honorários advocatícios (mov. 123.1).
+Cumprida as transferências (mov. 138.1/139.1).
+Devidamente intimada para informar se houve o cumprimento integral da obrigação ou requerer o que entender de direito, nos termos da decisão de mov. 125.1, a parte exequente quedou-se inerte.
+2. Pelo exposto JULGO EXTINTO, o cumprimento de sentença, ante a satisfação da obrigação, com fundamento no art. 924, inc. II, do Código de Processo Civil.
+3. Em havendo saldo devedor de custas remanescentes, INTIME-SE a parte executada para pagamento, em 10 (dez) dias, sob pena de execução.
+4. Sem mais pendências, arquivem-se os autos.
+5. Intimações e diligências necessárias."
+Diante das informações trazidas aos autos às fls. 390 (e-STJ), Apenso 1, Exceção de pré-executividade oposta pelo agravante, e no intuito de evitar prejuízos às partes, determinou-se a intimação do agravante e a sua manifestação, no prazo de 5 (cinco) dias, acerca da extinção do feito na Corte de origem.
+Retornaram os autos, com informações prestadas pelo agravante, o qual, de início, fez constar na petição que, após a decisão da MM. Juíza Substituta, Luciana Gonçalves Nunes, que julgou extinto o Cumprimento de sentença, ante a satisfação da obrigação, em 26/01/2022, manifestou-se nos autos de origem chamando o feito à ordem, apontando a existência de agravo em recurso especial pendente de julgamento.
+Ainda, na mesma oportunidade, informou que posteriormente, em 25/03/2022, foi proferido despacho determinando a intimação do agravado, que se manifestou nos autos em 26/05/2022, sendo que, até a manifestação do agravante como determinado, o feito não havia sido concluso para deliberação pela Corte de origem.
+Diante dessas informações, determinou-se que fossem tomadas providências, no sentido de que fosse oficiado à 1ª VARA CÍVEL DE IRATI - COMARCA DE IRATI, Rua Pacífico Borges, 120 - Rio Bonito - Irati/PR - CEP: 84.503-449 - Fone: (42) 2104-3148, a fim de que fossem prestadas as devidas informações sobre o feito pendente de apreciação pelo Juízo.
+Nesta oportunidade, retornam os autos, com informações prestadas pela MM. Juíza AMANDA VAZ CORTESI VON BAHTEN.
+As informações prestadas pela magistrada de origem dão conta de que o cumprimento de sentença foi extinto após o deferimento de alvará em favor de CLAUDIO RENATO TREVISAN, com a advertência de que seu silêncio ensejaria na extinção do feito decorrente da integral satisfação do crédito. É o que se observa do item 2.2 da decisão de ev. 125.1 e da sentença de ev. 144.1, sendo esta última a relativa ao Apenso 1, Exceção de pré-executividade oposta pelo agravante (e-STJ fl. 390)).
+Ainda, informa a magistrada de origem que o agravante, por sua vez, foi intimado de todos os atos processuais desde o deferimento da expedição do alvará, sem apresentar qualquer oposição à extinção do feito (ev. 130, 131, 132 e 133). No entanto, após a prolação da sentença de extinção, requereu que CLAUDIO RENATO TREVISAN fosse advertido pelo Juízo sobre a possibilidade de cobrança ou restituição de eventual diferença encontrada nos valores decorrente do julgamento do recurso pendente.
+Ao fim, consigna a magistrada de origem que, em resposta a esta Corte, o feito foi extinto com anuência do agravante, tendo sido este intimado de todos os atos referentes ao bloqueio (SISBAJUD) e posterior levantamento de valores e ao reconhecimento da integral quitação do débito, sem apresentação de qualquer oposição ou informação de pendência do julgamento do recurso pelo mesmo interposto perante a Corte Especial o que ensejaria, inclusive, eventual perda do interesse recursal de sua parte ante a chamada preclusão lógica prevista no art. 1000 do CPC, mostrando-se seu silêncio no presente feito, por mais de uma ocasião, como ato incompatível com a pendência de julgamento de recurso pelo mesmo interposto junto à Corte Superior.
+Diante das informações trazidas aos autos, tanto pelo agravante quanto pela MM. Juíza AMANDA VAZ CORTESI VON BAHTEN, JULGO PREJUDICADO o presente agravo em recurso especial pela perda do objeto, com fundamento no art. 34, XI, RISTJ."
+O agravante se insurge contra a decisão unipessoal alegando, basicamente, o que já havia sustentado quando se determinou a sua manifestação em 21.06.2022, conforme se depreende das fls. 1528 (e-STJ).
+Neste sentido, aduz que foi intimado da decisão que extinguiu o processo em fase de execução ante a satisfação integral da obrigação em 19/01/2022, tendo apresentado tempestiva manifestação em 26/01/2022, portanto, dentro do prazo de 15 dias úteis conferido pelo E. Tribunal Local.
+Ainda, alega que, na ocasião, o agravante se manifestou nos autos de origem chamando o feito à ordem, apontando a existência de Agravo em Recurso Especial pendente de julgamento.
+Em que pese a argumentação do agravante no sentido de que restou demonstrado que ele se manifestou tempestivamente nos autos de origem, após intimado da decisão que extinguiu o processo em fase de execução, apontando a existência de Agravo em Recurso Especial pendente de julgamento, e, assim, não há que se cogitar pela prejudicialidade do referido recurso por perda do objeto, razão não lhe assiste, uma vez que sobre o caso em análise incidem as Súmulas 7 e 182 desta Corte.
+No caso, diante da narrativa trazida pela MM. Juíza AMANDA VAZ CORTESI VON BAHTEN (e-STJ 1550/1551), é necessário adentrar-se na análise de matéria fático-probatória, o que se sabe ser incabível na via eleita, uma vez que as informações prestadas dão conta de que o agravante teria deixado de manifestar-se no tempo e no modo devidos, além de não se opor efetivamente à marcha processual.
+Diante disso, de rigor a incidência do óbice sumular como apontado, uma vez que a desconstituição do cenário fático-probatório demandaria incursão desta Corte em matéria já analisada pela Corte local.
+Além disso, o agravante, em nenhum momento das suas razões de agravo interno, refuta o que foi informado pela Corte local e observado por esta Corte, no seguinte sentido:
+"Ainda, informa a magistrada de origem que o agravante, por sua vez, foi intimado de todos os atos processuais desde o deferimento da expedição do alvará, sem apresentar qualquer oposição à extinção do feito (ev. 130, 131, 132 e 133). No entanto, após a prolação da sentença de extinção, requereu que CLAUDIO RENATO TREVISAN fosse advertido pelo Juízo sobre a possibilidade de cobrança ou restituição de eventual diferença encontrada nos valores decorrente do julgamento do recurso pendente.
+Ao fim, consigna a magistrada de origem que, em resposta a esta Corte, o feito foi extinto com anuência do agravante, tendo sido este intimado de todos os atos referentes ao bloqueio (SISBAJUD) e posterior levantamento de valores e ao reconhecimento da integral quitação do débito, sem apresentação de qualquer oposição ou informação de pendência do julgamento do recurso pelo mesmo interposto perante a Corte Especial o que ensejaria, inclusive, eventual perda do interesse recursal de sua parte ante a chamada preclusão lógica prevista no art. 1000 do CPC, mostrando-se seu silêncio no presente feito, por mais de uma ocasião, como ato incompatível com a pendência de julgamento de recurso pelo mesmo interposto junto à Corte Superior."
+Desta forma, incidiria a Súmula 182/STJ, uma vez que cabe ao agravante refutar, minimamente, as razões de decidir, o que não promoveu quando interpôs o presente agravo interno.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO do presente agravo interno.
