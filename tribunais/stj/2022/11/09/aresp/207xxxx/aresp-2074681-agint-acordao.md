@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 03/11/2022 a 09/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão confirmatória do juízo prelibador, que entendeu não violados os arts. 489 e 1.022 do CPC. Afirmou o viés constitucional do julgado.
+A petição inicial requereu o reconhecimento da inconstitucionalidade e ilegalidade das alterações perpetradas pelo Decreto 6.957/2009 (manutenção das redações originais) que majorou a alíquota da contribuição ao SAT devida pelas Autoras de 2% para 3%, quando da modificação do Anexo V do Decreto 3.048/1999, lista C do Anexo II e art. 337 e seus parágrafos. O pedido foi julgado improcedente.
+Ressaltou-se que "o enquadramento, via decreto, das atividades perigosas desenvolvidas pela empresa - escalonadas em graus de risco leve, médio ou grave - objetivando fixar a contribuição para o Seguro de Acidentes do Trabalho - SAT (art. 22, II, da Lei n. 8.212/91) não viola o princípio da legalidade (art. 97 do CTN)" sendo "legítimo o estabelecimento, por decreto, do grau de risco com base na atividade preponderante da empresa" (AgRg no AgRg no REsp 1.356.579/PE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9.5.2013; REsp 819.188/RJ, Rel. Ministro Castro Meira, Segunda Turma, DJ 19.5.2006, p.206).
+Os demais recursos foram infrutíferos. O juízo prelibador pontuou a ausência de violação aos arts 489 e 1022 do CPC e informou a consonância do julgado com o REsp 1.434.337/SC.
+Em seu Agravo Interno a parte defende:
+Repita-se: não é essa a controvérsia do presente feito, que em momento algum passa pela modulação do RAT pelo FAP.
+Assim, as razões de decidir da r. decisão recorrida dizem respeito a outra controvérsia jurídica, que em momento algum foi suscitada nestes autos.
+Em caso idêntico ao presente, esta C. Corte de Justiça decidiu:
+ ..
+2. A empresa opôs Embargos de Declaração para apontar omissão quanto à matéria controvertida: afirmou que não está em discussão a possibilidade de o Decreto disciplinar o FAP e de definir as alíquotas da contribuição ao SAT, mas sim a necessidade de o Poder Executivo disponibilizar as informações estatísticas, em seu poder, que comprovem ou justifiquem o acerto da atribuição do grau de alíquota aplicável ao seu ramo de atividade.
+3. Dito de outro modo, de acordo com o Decreto 6.957/2009, majorou-se de 1% para 3% a contribuição ao SAT/RAT das empresas cuja atividade econômica principal corresponda à inscrição CNAE 5620-1/01. A recorrente afirma que nos aclaratórios não pretende discutir se essa majoração pode ser feita por Decreto do Poder Executivo, mas sim que busca, no Agravo de Instrumento, corrigir a decisão do juízo de primeiro grau que dispensou a Fazenda Pública de trazer prova documental em seu poder, relativa às estatísticas e demais elementos que comprovariam a razoabilidade na alteração promovida quanto à alíquota incidente no seu caso.
+4. A ausência de valoração do tema, acrescida à genérica afirmação de que o Decreto pode instituir o FAP e definir as alíquotas incidentes, implica omissão.
+5. Recurso Especial parcialmente provido." (REsp n. 1.645.405/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2017, DJe de 27/4/2017)
+O erro de premissa afasta a prestação efetiva da atividade jurisdicional, além de impossibilitar que a parte se valha dos recursos cabíveis, ferindo assim os preceitos da ampla defesa e do devido processo legal.
+ ..
+No presente caso, na origem a prova pericial foi afastada por mera convicção pessoal do julgador, e os julgados posteriores corroboraram o posicionamento equivocado.
+Cumpre salientar que a finalidade do recurso não é que este c. STJ julgue materialmente o feito, mas sim que determine a devolução dos autos para que a corte regional autorize a realização da prova pericial, exatamente como fora realizado no julgado no REsp 1.645.405/RS - STJ - Rel. Min. HERMAN BENJAMIN, DJe 27/04/2017.
+ ..
+A decisão recorrida ainda consignou que: "A jurisprudência desta Corte pacificou o entendimento de que o Tribunal de origem é soberano na análise das provas. Isso porque o art. 130 do CPC/1973 consagra o princípio do livre convencimento motivado, segundo o qual o Magistrado fica habilitado a valorar, livremente, as provas trazidas à demanda." Ao contrário do entendimento da r. decisão agravada, a violação ao artigo 1.022 do CPC/15 resta demonstrada com rigor, ensejando a interposição do recurso especial e, posteriormente por agravo, para que se reconheça a nulidade do acórdão do E. Tribunal a quo, conforme autoriza a jurisprudência deste E. Superior Tribunal de Justiça:
+ ..
+(EDcl no AgInt no REsp nº 1698791/RJ, Relator Ministro Og Fernandes, 2ª Turma, DJ 28/05/2019 - g.n.)
+Assim, merece reforma a decisão agravada na parte em que entendeu pela inocorrência de violação aos artigos 489 e 1.022, do Código de Processo Civil, a fim de que seja reconhecida a nulidade do acórdão de origem.
+ ..
+É que a discussão nos presentes autos versa sobre a declaração de inconstitucionalidade e ilegalidade da majoração da Contribuição ao SAT de 2% para 3% perpetrada pelo Decreto no 6.957/2009 - restrito ao setor de hipermercados.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. VIOLAÇÃO AOS ARTS 489 E 1.022 DO CPC. INEXISTÊNCIA. DESNECESSIDADE DE PROVAS. SOBERANIA DO JUÍZO DE ORIGEM. TEMAS COM VIÉS CONSTITUCIONAL. ANÁLISE DEFESA EM RESP.
+1.Trata-se de Agravo Interno contra decisão, confirmatória do juízo prelibador, que entendeu não violados os arts. 489 e 1.022 do CPC. Afirmou o viés constitucional do julgado.
+2. Correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos arts. 489 e 1.022 do CPC/2015.
+3. "O enquadramento, via decreto, das atividades perigosas desenvolvidas pela empresa - escalonadas em graus de risco leve, médio ou grave -, objetivando fixar a contribuição para o Seguro de Acidentes do Trabalho - SAT (art. 22, II, da Lei n. 8.212/91), não viola o princípio da legalidade (art. 97 do CTN)" sendo "legítimo o estabelecimento, por decreto, do grau de risco com base na atividade preponderante da empresa" (AgRg no AgRg no REsp 1.356.579/PE, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 9.5.2013; REsp 819.188/RJ, Rel. Ministro Castro Meira, Segunda Turma, DJ 19.5.2006, p. 206).
+4. A jurisprudência desta Corte pacificou o entendimento de que o Tribunal de origem é soberano na análise das provas. Isso porque o art. 130 do CPC/1973 consagra o princípio do livre convencimento motivado, segundo o qual o Magistrado fica habilitado a valorar, livremente, as provas trazidas à demanda.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 29 de setembro de 2022.
+Compulsando os autos para melhor explicitação sobre a desnecessidade de manifestação sobre a prova requerida, verifica-se que o juízo sentenciante se manifestou nos seguintes termos:
+Instadas à produção de provas, as partes autoras pediram a realização de perícias contábil, estatística e médica. A ré pediu o julgamento antecipado da lide.
+É o relatório.
+ ..
+Ao julgar o Agravo de Instrumento o Eminente Desembargador Reynaldo Fonseca decidiu:
+ ..
+3) Registre-se que a discussão, nos autos, cinge-se às alterações promovidas pelo Decreto n. 6.957/09. Contudo, nos termos da jurisprudência do eg. Supremo Tribunal Federal, o fato de a lei deixar para o regulamento (in casu, o referido Decreto) a complementação dos conceitos de "atividade preponderante" e "grau de risco leve, médio e grave" não implica em ofensa ao princípio da legalidade. Nesse sentido, confira-se:
+ ..
+1. O governo federal ratificou Resolução do Conselho Nacional de Previdência Social (CNPS) ao definir a nova metodologia do Fator Acidentário de Prevenção (FAP), que deve ser utilizado a partir de janeiro de 2010 para calcular as alíquotas da tarifação individual por empresa do Seguro Acidente, conforme o Decreto nº 6.957/2009. O decreto regulamenta as Resoluções nºs 1.308/2009 e 1.309/2009, do CNPS e traz a relação das subclasses econômicas - a partir da lista da Classificação Nacional de Atividades Econômicas -, com o respectivo percentual de contribuição (1%, 2% e 3%) de cada atividade econômica, determinando que sobre esses percentuais incidirá o FAP.
+ ..
+Por outro lado, a matéria é de reserva legal; e, nesse sentido, a jurisprudência não respalda o temporário afastamento, via medida liminar, de norma legal (in casu Decreto Federal Nº 6.957/2009) salvo em ação própria perante a Corte Suprema ou em sede de controle difuso de constitucionalidade, respeitada a regra prevista no art. 97 da CF/88 (reserva de plenário).
+Assim, observa-se do decisum - em virtude da declaração de que "a matéria é de reserva legal; e, nesse sentido, a jurisprudência não respalda o temporário afastamento, via medida liminar, de norma legal (in casu Decreto Federal Nº 6.957/2009)  .. " sendo "legítimo o estabelecimento, por decreto, do grau de risco com base na atividade preponderante da empresa" - que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adotou-se fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+Em distinção ao REsp 1.645.405/RS, nota-se que entre os pontos elencados no Recurso Especial, supostamente eivados de omissão, não se encontra a necessidade de o Poder Executivo disponibilizar as informações estatísticas, em seu poder, que comprovem ou justifiquem o acerto da atribuição do grau de alíquota aplicável ao seu ramo de atividade. A tese não foi posta para análise na instância de origem, configurando inovação recursal.
+Assim decidi:
+ ..
+Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos artigos 489 e 1.022 do CPC/2015.
+A jurisprudência desta Corte pacificou o entendimento de que o Tribunal de origem é soberano na análise das provas. Isso porque o art. 130 do CPC/1973 consagra o princípio do livre convencimento motivado, segundo o qual o Magistrado fica habilitado a valorar, livremente, as provas trazidas à demanda.
+A orientação de ambas as Turmas que compõem a Seção de Direito Público é no sentido de que a discussão sobre a alteração de alíquota da Contribuição ao SAT/RAT, em função do Fator Acidentário de Prevenção (FAP), por norma constante de ato infralegal (Decreto 6.957/2009), é estritamente de natureza constitucional, entendimento esse reforçado pela circunstância de o Plenário do Supremo Tribunal Federal ter reconhecido a repercussão geral do tema, nos autos do Recurso Extraordinário 684.261/RS (AgInt no AREsp 1.676.616/DF, Rel. Min. Herman Benjamin, Segunda Turma, DJe 17.2.2021; AgInt no AREsp 910.388/DF, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 3.12.2020; AgInt no REsp 1.867.569/RS, Re l. Min. Og Fernandes, Segunda Turma, DJe 2.12.2020; AgInt no REsp 1.764.830/SC, Rel. Min.Assusete Magalhães, Segunda Turma, DJe 4.4.2019; AgInt no REsp 1.605.413/SC, Rel.Min. Francisco Falcão, Segunda Turma, DJe 12.12.2017).
+Sem motivos para a revisão do Juízo prelibador.
+Com essas considerações, reputo íntegro o pronunciamento anterior confirmando o juízo prelibador, ante a ausência de violação aos arts. 489 e 1.022 do CPC; o viés constitucional do julgado e ainda a jurisprudência pacífica a respeito da legalidade da Resolução do Conselho Nacional de Previdência Social (CNPS) "a partir da lista da Classificação Nacional de Atividades Econômicas, com o respectivo percentual de contribuição (1%, 2% e 3%) de cada atividade econômica, determinando que sobre esses percentuais incidirá o FAP".
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
