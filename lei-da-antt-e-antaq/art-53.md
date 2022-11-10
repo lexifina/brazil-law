@@ -1,3 +1,3 @@
-Art. 53. As Diretorias Colegiadas da ANTT e da ANTAQ serão compostas por um Diretor-Geral e quatro Diretores.
+Art. 53. As Diretorias Colegiadas da ANTT e da Antaq serão compostas de 1 (um) Diretor-Geral e 4 (quatro) Diretores.
 § 1º Os membros das Diretorias Colegiadas serão brasileiros, terão reputação ilibada, formação universitária e elevado conceito no campo de especialidade dos cargos a serem exercidos e serão nomeados pelo Presidente da República, após aprovação pelo Senado Federal, nos termos da alínea "f" do inciso III do art. 52 da Constituição Federal, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.
 § 2º Os Diretores-Gerais da ANTT e da Antaq serão nomeados pelo Presidente da República e investidos na função pelo prazo de 5 (cinco) anos, vedada a recondução, observado o disposto na Lei nº 9.986, de 18 de julho de 2000.
