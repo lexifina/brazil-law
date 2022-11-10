@@ -1,0 +1,65 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+
+Primeira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+
+Processo N.
+AGRAVO REGIMENTAL CÍVEL 0704701-74.2022.8.07.0016
+
+AGRAVANTE(S)
+GILDETE NUNES DE OLIVEIRA
+
+AGRAVADO(S)
+DISTRITO FEDERAL
+
+Relator
+PRESIDENTE TURMA RECURSAL
+
+Acórdão Nº
+1639062
+
+EMENTA
+
+PRESIDÊNCIA DA TURMA. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO. JUIZADO ESPECIAL DA FAZENDA PÚBLICA. DIREITO ADMINISTRATIVO. DIREITO CONSTITUCIONAL. REAJUSTE ESCALONADO DE VANTAGENS. AUSÊNCIA DE DOTAÇÃO ORÇAMENTÁRIA. LEI DE DIRETRIZES ORÇAMENTÁRIAS. IMPOSSIBILIDADE DE IMPLANTAÇÃO.TEMA 864 DE REPERCUSSÃO GERAL.
+
+1. Acórdão lavrado de acordo com a disposição inserta nos artigos 2º e 46, da Lei 9.099, de 26.09.1995 e artigo 103, §§ 1º e 2º, do Regimento Interno das Turmas Recursais. Presentes os pressupostos específicos, conheço do recurso.
+
+2. Agravo Interno interposto pela parte autora/recorrente em face de decisão da Presidência da Turma Recursal que negou seguimento ao Recurso Extraordinário, com fundamento no Art. 1.030, I, a do CPC, consignando que o acórdão recorrido fundamentou suas conclusões apontando que “O acórdão recorrido apurou que a “A parte postula a implantação da parcela de 2015 com o pagamento das diferenças não prescritas, entre setembro de 2016 a junho de 2018. Como previsto no art. 169, § 1º. da CF, a concessão de qualquer vantagem ou aumento de remuneração pelo Poder Público só pode ser feita se houver prévia dotação orçamentária para atender às projeções de despesas de pessoal e aos acréscimos dela decorrentes e autorização específica na lei de diretrizes orçamentárias. Neste sentido, a decisão do STF no julgamento do Recurso Extraordinário 905.357 Roraima, com repercussão geral (Tema 864): “A revisão geral anual da remuneração dos servidores públicos depende, cumulativamente, de dotação na Lei Orçamentária Anual e de previsão na Lei de Diretrizes Orçamentárias”. A Lei de diretrizes orçamentárias, por sua vez, compreende as metas e prioridades da administração pública federal (art. 165, § 2º da CF). É indevida, pois, a implantação do reajuste da vantagem no exercício de 2015, assim como o pagamento das diferenças, como pleiteado pela autora”. (...) “a Lei de Diretrizes Orçamentária para o exercício de 2015, n. 5.389, de 13 de agosto de 2014, autoriza, de forma genérica, as despesas de pessoal relativas à concessão de vantagens, aumentos de remuneração, criação de cargos e empregos, bem como à revisão geral da remuneração, para o exercício de 2015. Não há, contudo, autorização específica para os reajustes salariais e de vantagens de forma escalonada concedidos nos anos precedentes, que dependiam, para sua implantação, de previsão específica. Acrescente-se que a Lei Distrital 6.133/2018, que concedeu novo reajuste para a vantagem em destaque à conta das dotações orçamentárias da SES/DF, apresenta efeitos prospectivos, abarcando, portanto, parcelas posteriores à sua edição. O recurso extraordinário, portanto, não merece seguimento, pois o acórdão impugnado acha-se em conformidade com o posicionamento do STF acerca do mesmo tema, ao reconhecer a ausência de previsão orçamentária para o reajuste pleiteado. É o caso de inadmissibilidade do Recurso Extraordinário com fundamento no art. 1.030, inciso I, alínea “a”, do Código de Processo Civil.”
+
+3. Alega a parte recorrente que a tese fixada no Tema 864 de Repercussão Geral não se aplica ao caso, uma vez que a tese firmada pelo referido Tema de Repercussão Geral não possui aplicação automática à situação prevista na Lei n. 5.179/DF, pois trata exclusivamente de casos de revisão geral e não de reajustes. Cita como reforço argumentativo o quanto decidido no RE 1.223.160-DF.
+
+4. O Código de Processo Civil de 2015 estabeleceu sistema misto de vinculação de precedentes, em que a uniformização de jurisprudência, a fim de mantê-la estável, íntegra e coerente, tem como precedentes vinculantes aqueles estabelecidos no art. 927 do CPC, não se encontrando, entre tais hipóteses, Agravos em Recurso Extraordinário não conhecidos pela Suprema Corte, não caracterizando, portanto, precedentes vinculantes. Ademais, o precedente citado não adentrou ao mérito do decidido, o que impede qualificá-lo com força vinculante ou, ainda, persuasiva.
+
+5. A análise da existência ou não de adoção prévia, pela Administração Pública do Distrito Federal, das providências administrativas para controle da despesa com pessoal, na forma do art. 169, § 3º, I e II, sob pena de ofensa ao direito adquirido, na forma do art. 5º, XXXVI, ao princípio da legalidade, art. 37, e ao princípio da irredutibilidade de vencimentos, art. 37, XV, todos da CRFB/88 pressupõe o revolvimento de legislação local e de fatos e prova, imune ao recurso extremo por força do veto preconizado pelos enunciados nrs. 279 e 280 de Súmula de Jurisprudência do STF.
+
+6. É pacífico no âmbito desta Turma Recursal que inexiste distinção ontológica entre o Tema 864 e as demandas cuja pretensão seja a condenação do Distrito Federal a pagar parcela de reajuste salarial sem prévia previsão na LDO e dotação específica na LOA do respectivo ano. Onde há os mesmos pressupostos de fato deve existir a mesma razão de direito.
+
+7. CONHEÇO DO AGRAVO INTERNO E LHE NEGO PROVIMENTO. Decisão mantida para negar seguimento ao Recurso Extraordinário.
+
+8. Sem custas e honorários advocatícios, nos termos do artigo 55 da Lei n.º 9.099, de 26.09.1995.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Primeira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, FLÁVIO FERNANDO ALMEIDA DA FONSECA - Relator, AISTON HENRIQUE DE SOUSA - 1º Vogal e ANTONIO FERNANDES DA LUZ - 2º Vogal, sob a Presidência do Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA, em proferir a seguinte decisão: CONHECIDO. NAO PROVIDO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 18 de Novembro de 2022
+
+Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECAPresidente e Relator
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+O Senhor Juiz FLÁVIO FERNANDO ALMEIDA DA FONSECA - Relator
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+O Senhor Juiz AISTON HENRIQUE DE SOUSA - 1º Vogal Com o relator
+
+O Senhor Juiz ANTONIO FERNANDES DA LUZ - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. NAO PROVIDO. UNANIME.
