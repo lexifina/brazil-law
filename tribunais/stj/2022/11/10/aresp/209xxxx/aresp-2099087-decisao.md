@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por CHARQUEADAS TRANSPORTES LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÃO CÍVEL. TRANSPORTE. AÇÃO INDENIZATÓRIA. VALE-PEDÁGIO. A TEOR DO DISPOSTO NO ARTIGO 8º DA LEI 10.209/2001, NOS CASOS EM QUE VERIFICADO O INADIMPLEMENTO DO PEDÁGIO, O EMBARCADOR SERÁ OBRIGADO A INDENIZAR O TRANSPORTADOR EM QUANTIA EQUIVALENTE A DUAS VEZES O VALOR DO FRETE. PROVA DO PAGAMENTO, NA FORMA DETERMINADA PELA LEGISLAÇÃO, QUE INCUMBIA À DEMANDADA E DA QUAL NÃO LOGOU ÊXITO EM DESINCUMBIR-SE. RESSARCIMENTO DEVIDO PRECEDENTES. DECISÃO MANTIDA. HONORÁRIOS RECURSAIS. APELO INTERPOSTO SOB A VIGÊNCIA DA LEI 13.105/2015. INCIDÊNCIA DO DISPOSTO NO ARTIGO 85, § 11, DE REFERIDA LEGISLAÇÃO. VERBA MAJORADA. UNÂNIME. NEGARAM PROVIMENTO AO RECURSO" (e-STJ fl. 245).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos arts. 1º, 2º e 8º da Lei nº 10.209/2001, 186, 187, 412, 413, 927 e 944 do Código Civil e 373, I, do Código de Processo Civil de 2015, ao fundamento de que a indenização imposta é abusiva, desprovida de razoabilidade e desproporcional, devendo ser afastada ou reduzida; ademais, não há nos autos comprovação de que houve o pagamento do pedágio, ônus que cabe ao recorrido.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A insurgência não merece prosperar.
+No que se refere às questões da comprovação do pagamento e do ônus da prova, verifica-se que os temas não foram objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Quanto à indenização, as conclusões do tribunal de origem decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..)
+A teor do disposto no artigo 2º da Lei 10.209/2001, "o valor do Vale-Pedágio não integra o valor do frete, não será considerado receita operacional ou rendimento tributável, nem constituirá base de incidência de contribuições sociais ou previdenciárias". Sendo que a responsabilidade por seu pagamento incumbe, exclusivamente, a empresa embarcadora, in casu, a ora demandada. O artigo 8º de referido regramento, a seu turno, prevê que "nas hipóteses de infração, o embarcador será obrigado a indenizar o transportador em quantia equivalente a duas vezes o valor do frete". Nesse contexto, sendo incontroversa a relação havida entre as partes e a responsabilidade pelo pagamento antecipado do vale-pedágio, tem-se por inconteste o dever de reparação na forma prevista em lei" (e-STJ fl. 242).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 18% (dezoito por cento) sobre o valor atualizado da condenação, os quais devem ser majorados para o patamar de 20% (vinte por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
