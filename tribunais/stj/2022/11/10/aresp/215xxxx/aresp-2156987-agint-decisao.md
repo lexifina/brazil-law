@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interno interposto por OCIMAR LUCHI contra a decisão da Presidência do Superior Tribunal de Justiça que conheceu do agravo para não conhecer do recurso especial (fls. 1.489/1.493, e-STJ), em virtude da aplicação dos óbices das Súmulas nºs 284/STF e 7/STJ.
+Nas presentes razões, o agravante sustenta que não é o caso de aplicação da Súmula nº 284/STF pois apontou e detalhou a ofensa aos arts. 17, § 2º, 24, I e II, e 38 da Lei de Direitos Autorais.
+Afirma, ainda, inexistir pretensão de reexame fático-probatório dos autos.
+Impugnação às fls. 1.512/1.539 (e-STJ).
+É o relatório.
+DECIDO.
+Considerando a manifestação da agravante, faz-se imperiosa a reconsideração da decisão de fls. 1.489/1.493 (e-STJ) e passa-se ao exame do agravo interposto contra a decisão que negou seguimento ao recurso especial.
+Trata-se de agravo interposto por OCIMAR LUCHI contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"DIREITOS AUTORAIS - AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS - Pretensão de reconhecimento da autoria das obras indicadas na exordial (GUIAS E MAPAS), bem como a indenização patrimonial e moral pelo uso das mesmas - Decreto de improcedência - Comprovação nos autos de que as obras foram criadas por iniciativa, organização e responsabilidade da própria Requerida IBC, que as publicou sob sua marca e contratou a equipe responsável pelas criações (objeto de cessões escritas), que se fundiram em uma criação autônoma - Mapas e guias que não foram criados pelo autor, mas por uma equipe de profissionais subordinados à empresa ré, tratando-se de obras de natureza coletiva, não havendo que se falar em violação de direito autoral - Sentença mantida - Recurso improvido" (fl. 1.354, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 1.367/1.371, e-STJ).
+No especial, o recorrente aponta violação dos arts. 17, § 2º, 24, I e II, e 38 da Lei de Direitos Autorais, argumentando, em síntese, que as obras indicadas na inicial não foram objeto do contrato de cessão de direitos autorais firmado entre as partes.
+Afirma que "ainda que se configure uma obra coletiva, a criação e fornecimento da obra, bem como a coordenação sempre foi realizada pelo Recorrente" (fl. 1.382, e-STJ).
+Apresentadas contrarrazões às fls. 1.388/1.428 (e-STJ).
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A irresignação não merece prosperar.
+O tribunal de origem dirimiu a controvérsia nos seguintes termos:
+"(..)
+A prova documental, em especial o mencionado instrumento de fls. 416/418, comprovam que referidas obras foram criadas por iniciativa, organização e responsabilidade da própria Requerida IBC, que as publicou sob sua marca e contratou a equipe responsável pelas criações (objeto de cessões escritas) que se fundiram em uma criação autônoma.
+Convém anotar um trecho da r. sentença recorrida que, de forma percuciente, bem analisou a controvérsia:
+"Temos, portanto, que o autor era sócio de uma empresa, com outros dois sócios, e que essa empresa cedeu, de forma onerosa, à ré, direitos de marca e acervo material relativos a diversos produtos como guias de rua e mapas.
+Na sequência, o autor, tendo se retirado da sociedade que alienou os direitos de marca, constituiu nova empresa e foi contratado para prestar serviços para a ré, relacionados, em boa medida, aos produtos, agora comercializados pela ré, cujas marcas e acervo material haviam a ela sido cedidos pela empresa da qual o autor foi sócio.
+Nesse contexto, mesmo que as peças reclamadas na exordial não sejam as peças objeto de cessão de direitos autorais acima referida, analisada a prova produzida durante a instrução, o autor não se desincumbiu de seu ônus probatório (CPC, art. 373, I) em demonstrar que as funções que desempenhava, ou seja, atualizar os produtos, desenvolver estratégias de venda ou ter responsabilidade pela elaboração de mapas, ensejam a proteção do direito autoral..
+Com efeito, as atividades desenvolvidas pelo autor se inseriam, dentro da empresa ré, inclusive com necessária e decisiva interação com outras áreas e outros profissionais empregados, num contexto de desenvolvimento de projetos e métodos de trabalho, a afastar o alcance da proteção autoral (Lei 9.610/98, art. 8º, I).."
+E segundo o depoimento pessoal prestado pelo autor ficou clara a admissão no envolvimento de outros profissionais no projeto de criação de guias: "Eu não sou fotógrafo, não sou jornalista, eu sou mentor de produtos. Atribuía às pessoas fazer esse trabalho" (fl. 996).
+No depoimento prestado pelo representante da requerida constou que o autor: "Não desenhava mapa, não escrevia, ele acompanhava o trabalho da equipe para saber se estava de acordo com o projeto original, que era definido por mim, o original, e seguia o modelo do Cartoplam" (fl.1.011).
+Portanto, os mapas e guias não eram criados pelo autor, mas por uma equipe de profissionais subordinados à empresa ré, ou seja, obras de natureza coletiva, sendo ele apenas coordenador. Assim, não há que se falar em violação de direito autoral" (fls. 1.357/1.358, e-STJ - grifou-se).
+Nesse contexto, diante das premissas fáticas estabelecidas no acórdão, a alteração das conclusões demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+A propósito:
+"DIREITO CIVIL, PROCESSUAL CIVIL E AUTORAL. AÇÃO DE RESOLUÇÃO DE CONTRATO E DE OBTENÇÃO DE MASTERS ORIGINAIS. IRRESIGNAÇÃO SUBMETIDA AO NCPC. RECURSO ESPECIAL DA EMI. ALEGAÇÃO DE QUE ESTARIA PRESCRITA A PRETENSÃO DO AUTOR DE OBTER OS MASTERS DE SUAS CANÇÕES ORIGINAIS. CAUSA DE PEDIR RELACIONADA AOS DIREITOS MORAIS DO AUTOR. IMPRESCRITIBILIDADE DA PRETENSÃO DEDUZIDA EM JUÍZO. RECURSO ESPECIAL DE JOÃO GILBERTO. POSSIBILIDADE DE PRODUÇÃO E COMERCIALIZAÇÃO DE LP"S CONTENDO A OBRA ORIGINAL DO ARTISTA. ALEGAÇÃO DE OFENSA A COISA JUGADA NÃO CARACTERIZADA. DIREITOS MORAIS DO AUTOR QUE NÃO LHE CONFEREM, NECESSARIAMENE, A PROPRIEDADE DOS MASTERS EM QUE MATERIALIZADA SUA OBRA MUSICAL. RECURSOS ESPECIAIS NÃO PROVIDOS.
+(..)
+9. Não se vislumbra, por isso, nenhuma ilegalidade flagrante na cláusula contratual que conferiu a propriedade dos masters à gravadora.
+10. O direito moral do autor, intangível e imprescritível, não pode suplantar o direito da sociedade de usufruir das manifestações das culturas populares tão caras a qualquer nação. Triste a cultura mundial se não pudesse desfrutar das obras de Mozart, Bach, Beethoven ou Villa-Lobos, gênios notórios cuja qualificação também se estende ao nome de João Gilberto.
+11. A alegação de que o contrato teria sido interpretado ampliativamente de modo a prejudicar os direitos do autor esbarra na Súmula nº 5 do STJ.
+12. O pedido de resolução do contrato com base do inadimplemento e subsequente devolução dos masters veio amparado exclusivamente em dissídio jurisprudencial que, todavia, não pode ser conhecido por ausência de similitude fática.
+13. Recurso especial da EMI não provido. Recurso especial de ESPÓLIO DE JOÃO GILBERTO parcialmente conhecido e, nessa extensão, não provido" (REsp n. 1.727.950/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 8/3/2022, DJe de 17/3/2022).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. CONSTRUÇÃO DE MAQUETE. LEI DE DIREITOS AUTORAIS. INAPLICABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DISTRIBUIÇÃO DO ÔNUS DE SUCUMBÊNCIA. FALTA DE PREQUESTIONAMENTO. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. No caso concreto, o Tribunal de origem concluiu que não houve processo criativo na execução da maquete, mas somente técnica de adaptação do projeto original, de autoria do arquiteto, às exigências da construção. Entender de modo contrário demandaria nova análise do contrato e dos demais elementos fáticos dos autos, inviável em recurso especial, ante o óbice das referidas súmulas.
+(..)
+4. Agravo regimental a que se nega provimento" (AgRg no AREsp n. 211.397/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 26/8/2019, DJe de 30/8/2019).
+Ante o exposto, reconsiderando a decisão de fls. 1.489/1.493 (e-STJ), conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários advocatícios foram fixados em R$ 23.000,00 (vinte e três mil reais), os quais devem ser majorados para R$ 25.000,00 (vinte e cinco mil reais) em favor do advogado da recorrida, observada assistência gratuita, se for o caso.
+Publique-se.
+Intimem-se.
