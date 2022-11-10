@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de habeas corpuscom pedido liminar impetrado em favor de ALESSANDRO DE FREITAS DA SILVA, apontando como autoridade coatora oTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (Apelação n.0062612-05.2019.8.19.000).
+Consta dos autos que opaciente foi condenado, em primeiro grau,àpenade 2anos e 4 meses dereclusão, em regime inicial fechado, e pagamento de 28dias-multa, pela prática do delito previsto no art. 155, § 4º, I, do Código Penal.
+Interposta apelação, oTribunal de origem negou provimento, mantendo os termos da sentença condenatória.
+Nesta via, sustenta aimpetrante o constrangimento ilegal decorrente da fixação de regime mais gravoso que o sugerido em lei, fundado apenas na gravidade abstrata do delito.
+Alega a ausência de fundamentação idônea a justificar a fixação do regime inicial fechado, ressaltando que o quantum da pena e as características do crime, cometido sem violência ou grave ameaça,permitiriam a mitigação para o modoinicial aberto, sob pena de afronta aoenunciadodaSúmula719 do Supremo Tribunal Federal.
+Defende que"o Supremo Tribunal Federal, entende ser plenamente possível a fixação de regime aberto mesmo diante da reincidência do acusado, observando a proporcionalidade entre a conduta praticada e a resposta penal" (e-STJ fl. 10).
+Afirma que, com a readequação para o regime inicial aberto, a substituição da pena privativa de liberdadepor pena restritiva de direitos seria suficiente para a reprovação e prevenção do crime em pauta, uma vez que o paciente cometeu o delito embriagado, tendo demonstrado arrependimento e tendo comparecido em juízo sem faltas ou atrasos.
+Requera concessão da ordem para que seja fixado em favor do paciente o regime inicial aberto, com a substituição da pena privativa de liberdade por restritivas de direito.
+A liminar foi indeferida (e-STJ fls. 60-61)
+As informações foram prestadas às e-STJfls. 64-67.
+O Ministério Público Federal opinou pelo não conhecimento da impetração(e-STJ fls. 69-72).
+É o relatório.
+Cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específicopara tal fim, nos termos do artigo 105 da Constituição Federal,circunstância que impede o seu formal conhecimento, conforme entendimentopacífico no âmbito desta Corte Superior de Justiça.
+O alegado constrangimento ilegal, entretanto, será analisado para averificação da eventual possibilidade de atuação ex officio, nos termos doartigo 654, § 2º, do Código de Processo Penal.
+O regime prisional, com efeito, deve observar os preceitos constantes no art. 33 e no art. 59, ambos do Código Penal, bem como os enunciados 440 da súmula do Superior Tribunal de Justiça e 718 e 719 do Supremo Tribunal Federal.
+No que tange ao regime inicial, verifica-se que o juízo a quo fixou o regime fechado, com base no seguinte entendimento (e-STJ fl. 28):
+1a FASE: Analisando as oito circunstâncias judiciais do artigo 59 do CP, verifico que a culpabilidade do réu não é diferente daquela utilizada pelos demais agentes que praticam o crime de furto. A pena deve ser fixada acima do valor mínimo legal, eis que o acusado tem uma condenação por crime de roubo , conforme anotação 4 da FAC de fls. 178/188. Ante o exposto, fixo a pena base do réu em 02(dois) anos e 04 (quatro) meses de reclusão e 28 (vinte e oito) dias multa no valor mínimo legal.
+ ..
+DO REGIME E DA SUBSTITUIÇÂO: A pena deve ser cumprida em regime FECHADO , eis que as circunstâncias do artigo 59 do CP foram reconhecidas como desfavoráveis ao acusado. Nego ao réu o direito a substituição de pena em razão de não preencher os requisitos do artigo 44, III, do CP.
+O Tribunal local, por sua vez, manteve o modo fechado fixado na sentença, conforme a fundamentação a seguir (e-STJ fls. 55-56):
+Quanto ao pleito de fixação da pena-base no mínimo legal não merece provimento, eis que o Juízo a quo considerou, acertadamente, uma condenação criminal por crime de roubo ostentada pelo réu, reveladora de personalidade voltada à prática de crimes e conduta social reprovável, para majorar a pena inicial em quatro meses, na forma do art. 59 do Código Penal, não havendo o que ser modificado
+ ..
+O regime prisional, da mesma forma, não merece reforma, eis que o fechado, no caso, é o mais adequado aos objetivos repressivo/preventivo da pena, principalmente se consideradas as circunstâncias judiciais desfavoráveis do réu, na forma do art. 33, § 3.º, do Código Penal.
+Por fim, não há que se cogitar a pretendida substituição da pena privativa de liberdade por pena restritiva de direitos, eis que não se mostra suficiente à hipótese (art. 44, III, do Código Penal).
+Do trecho acima transcrito, observa-se que a fixação do regime inicial fechado considerou apenas osmaus antecedentes, decorrentes de uma condenação anteriorpelo crime deroubo, fundamentoque, nos termos do reiterado entendimento adotado por este Sodalício, é insuficiente à determinação de sistema prisional mais gravoso.
+Não se olvideque a presençade uma únicacircunstância judicial negativapossa justificar o agravamento doregimeinicial de cumprimento da pena, no entanto, no caso, foi fixado regime duas vezes mais grave ao que seria cabível diante do quantum da pena estabelecida, sem justificativa idônea, o que não se mostra razoável e proporcional à reprimenda.
+Assim, a sanção do paciente foi fixada em patamar inferior a 4(quatro) anos de reclusão e, embora a pena-base tenha sido estabelecida acima do mínimo legal, a valoração negativa de apenas uma circunstânciajudicialpermite o estabelecimento do modo semiaberto ao paciente.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. RECEPTAÇÃO, CONTRABANDO E USO DE DOCUMENTO FALSO. ABSORÇÃO DO CRIME DE USO DE DOCUMENTO FALSO PELO CONTRABANDO. MATÉRIA QUE NÃO FOI OBJETO DA IMPETRAÇÃO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS CONCRETAS QUE DENOTAM A MAIOR REPROVABILIDADE DA CONDUTA E JUSTIFICAM A EXASPERAÇÃO DAS PENAS-BASE. REGIME INICIAL MAIS GRAVOSO E NEGATIVA DE SUBSTITUIÇÃO DAS PENAS. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. ILEGALIDADES NÃO CONFIGURADAS. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+ ..
+5. Embora o paciente seja primário e a pena privativa de liberdade tenha sido reduzida, na decisão agravada, para 4 anos de reclusão, a existência de circunstâncias judiciais desfavoráveis justificam o estabelecimento do regime inicial semiaberto e a negativa de substituição da pena privativa de liberdade por restritivas de direitos, na esteira do disposto nos arts. 33, §§ 2º e 3º, e 44, inciso III, ambos do Código Penal. Precedentes.
+6. Agravo regimental parcialmente conhecido e, na extensão, não provido.
+(AgRg no HC n. 685.600/RR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/3/2022, DJe de 18/3/2022.)
+No mesmo norte:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. SÚMULA 568/STJ. ART. 255, § 4º, DO RISTJ. VIOLAÇÃO DOS ARTS. 197 DO CPP; 59 E 65, III, D, AMBOS DO CP. TESE DE BIS IN IDEM NA VALORAÇÃO NEGATIVA DO ABUSO DE CONFIANÇA NA PRIMEIRA FASE DA DOSIMETRIA E DO FURTO MEDIANTE FRAUDE COMO QUALIFICADORA. NÃO OCORRÊNCIA. JURISPRUDÊNCIA DO STJ QUE RECONHECE A DISTINÇÃO DOS INSTITUTOS. PLEITO DE APLICAÇÃO DA ATENUANTE DA CONFISSÃO. NÃO RECONHECIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. INVIABILIDADE DE ALTERAÇÃO DE ENTENDIMENTO. SÚMULA 7/STJ. PEDIDO DE ABRANDAMENTO DO REGIME PRISIONAL. DESPROVIMENTO. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. APLICAÇÃO DO ART. 33, § 3º, DO CP.
+ ..
+7. No que se refere ao regime prisional fixado, o entendimento esposado pelas instâncias ordinárias não merece reparos, mormente em função da escorreita aplicação do art. 33, § 3º, do Código Penal, pelo quanto de pena dosado, bem como ante a presença de circunstância judicial negativa, que condicionou a fixação da pena-base acima do mínimo legal.
+8. In casu, em que pese a reprimenda corporal definitiva tenha sido fixada em quantum não superior a 4 anos, a pena-base foi fixada acima do mínimo legal em razão da existência de circunstância judicial negativa (antecedentes, e-STJ fl. 609), o que justifica a manutenção de regime prisional mais gravoso, no caso, o semiaberto, na forma do art. 33, § 3º, do CP. Precedentes (AgRg no AREsp n. 2.099.557/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 13/6/2022).
+9. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.173.816/PR, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 11/10/2022, DJe de 14/10/2022.)
+Em arremate, é inviável asubstituição da pena privativa de liberdade por restritivas de direitos. Pacificou-se neste Superior Tribunal que, ainda que a pena cominada ao réu seja inferior a 4 (quatro) anos de reclusão, a existência de circunstâncias judiciais negativas impede a fixação do regime prisional mais brando, bem como a substituição da sanção corporal por pena restritiva de direitos, haja vista o não atendimento do requisito subjetivo previsto nos artigos 33 e 44 do Código Penal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. FURTO SIMPLES. DOSIMETRIA. PENA-BASE. MÍNIMO LEGAL. PENA INFERIOR A 4 (QUATRO) ANOS. REINCIDÊNCIA. REGIME ABERTO. FIXAÇÃO. INVIABILIDADE. SÚMULA N. 269 DO STJ. CONVERSÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. REINCIDÊNCIA CARACTERIZADA PELA PRÁTICA DE CRIME VIOLENTO (ROUBO). NÃO INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. De acordo com a jurisprudência firmada pela Terceira Seção, no julgamento do AREsp n. 1.716.664/SP, em 25/08/2021, a prática anterior de crime violento (roubo) obsta o reconhecimento da substituição da pena privativa de liberdade por restritivas de direitos.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.955.265/GO, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 9/8/2022, DJe de 18/8/2022.)
+Na mesma direção:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO TRANSITADA EM JULGADO. REVISÃO CRIMINAL. CRIME DE USO DE DOCUMENTOS FALSOS. QUESTÕES NÃO ANALISADAS NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. COMPETÊNCIA DA JUSTIÇA FEDERAL. INTERESSE DA UNIÃO. REVISÃO DE FATOS E PROVAS. REGIME INICIAL MAIS GRAVOSO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MEDIDAS RESTRITIVAS DE DIREITOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MOTIVAÇÃO IDÔNEA. JURISPRUDÊNCIA DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. Na fixação do regime inicial de cumprimento da pena, deve o julgador, nos termos dos arts. 33, §§ 1º, 2º e 3º, e 59 do Código Penal, observar a quantidade de pena aplicada, a primariedade do agente e a existência de circunstâncias judiciais desfavoráveis.
+6. Na hipótese em que a pena definitiva é inferior a 4 anos, havendo circunstância judicial desfavorável, é cabível a fixação de regime inicial mais gravoso.
+7. Havendo circunstância judicial desfavorável, não é cabível a substituição da pena privativa de liberdade por medidas restritivas de direitos, nos termos do art. 44, III, do CP, por não se mostrar suficiente para a prevenção e repressão do delito praticado.
+8. Agravo regimental desprovido.
+(AgRg no HC n. 622.890/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 10/5/2022, DJe de 13/5/2022.)
+Ante o exposto, por se afigurar manifestamente incabível, não se conhece do writ, concedendo-se a ordem, nos termos do artigo 654, § 2º, do Código de Processo Penal, a fim de fixar o regime prisional semiaberto para início do cumprimento da pena pelo paciente.
+Publique-se. Intimem-se.
