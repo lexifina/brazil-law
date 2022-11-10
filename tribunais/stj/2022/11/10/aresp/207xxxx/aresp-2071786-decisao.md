@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por MKM EQUIPAMENTOS PARA ESCRITORIO LTDA. e OUTROcontra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO DE REVISÃO. CONTRATOS DE CONTA CORRENTE, CARTÃO BNDES, PROGER, DESCONTO DE TÍTULOS E DE EMPRÉSTIMO PARA CAPITAL DE GIRO. INDEFERIMENTO DO PEDIDO DE TUTELA DE URGÊNCIA,CONSISTENTE NA ABSTENÇÃO DA INSCRIÇÃO DOS NOMES NOS CADASTROS DE RESTRIÇÃO AO CRÉDITO. ORIENTAÇÃO N. 4 DO SUPERIOR TRIBUNAL DE JUSTIÇA, EMITIDA POR OCASIÃO DO JULGAMENTO DO RECURSO ESPECIAL N. 1.061.530/RS, SUBMETIDOAO RITO DO ARTIGO 543-C DO CÓDIGO DE PROCESSO CIVIL DE 1973. APARÊNCIA DO BOM DIREITO NÃO DEMONSTRADA. DESCONHECIMENTO DOS TERMOS PACTUADOS, O QUE INVIABILIZAO EXAME DA ABUSIVIDADE DAS TAXAS DE JUROS REMUNERATÓRIOS EXIGIDAS. CAPITALIZAÇÃO DOS JUROS QUE É PERMITIDA QUANDO HOUVER O PACTO EXPRESSO. AUSÊNCIA DE DEMONSTRAÇÃO DA "PROBABILIDADE DO DIREITO"RECURSO DESPROVIDO" (fl. 81, e-STJ).
+No recurso especial, os recorrentesalegam, além de divergência jurisprudencial, a violação dos artigos 5º, LIV, da Constituição Federal e 294, 300 e 374, I, e 1.022, II, do Código de Processo Civil de 2015.
+Sustentamque todos os requisitos para a concessão da tutela provisória de urgência foram preenchidos, considerando que: a) foi oferecidacaução; b)há uma ação revisional em curso;c) correm o risco de terem os seus nomes inscritos no cadastro de inadimplentes e de terem seus bens expropriados; d)a irreversibilidade do provimento não seria possível diante da inequívoca demonstração da ilegalidadedas cobranças efetuadas e e) o dano é irreparável.
+Contrarrazões às fls. 284/295 (e-STJ).
+O recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece prosperar.
+De início, nos termos do art. 105, III, da Constituição Federal, compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revela inviável invocar nesta seara a violação de dispositivos constitucionais ainda que para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+A respeito do art. 1.022 do CPC/2015, há somente alegação genérica de negativa de prestação jurisdicional nas razões recursais, sem especificação das teses que supostamente deveriam ter sido analisadas pelo acórdão recorrido. Assim, ante a deficiente fundamentação do recurso incide, nesse ponto, a Súmula nº 284/STF, aplicada por analogia.
+A propósito:
+"PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESTITUIÇÃO DE RESERVA DE POUPANÇA. CÁLCULO DA DÍVIDA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. IRRESIGNAÇÃO FORMULADA DE MODO GENÉRICO. ALEGAÇÃO DE ENRIQUECIMENTO SEM CAUSA. TEMA NÃO PREQUESTIONADO. AGRAVO NÃO PROVIDO.
+1. (..)
+2. O recurso especial que suscita violação do art. 535 do CPC/73 ou 1.022 do NCPC, mas não indica precisamente os pontos a respeito dos quais estaria configurada omissão, contrariedade, obscuridade ou erro material, é deficiente em sua fundamentação, esbarrando, por conseguinte, na Súmula nº 284 do STF. Precedentes.
+3. (..)
+4. Agravo interno não provido, com imposição de multa" (AgInt no REsp 1.584.497/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/8/2017, DJe 28/8/2017 - grifou-se).
+No mais, é assente a jurisprudência desta Corte no sentido da inviabilidade do reexame dos requisitos autorizadores da concessão da tutela antecipada ou de medida cautelar se essa tarefa envolver a revisão das premissas de fato adotadas pelas instâncias ordinárias, em razão da incidência da Súmula nº 7/STJ.
+No mesmo sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL. TUTELA DE URGÊNCIA ANTECIPADA. INDEFERIMENTO. NATUREZA PRECÁRIA DA DECISÃO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. FALTA DE PREENCHIMENTO DOS REQUISITOS ENSEJADORES DA CONCESSÃO DA TUTELA REQUERIDA. SÚMULAS 7/STJ E 735/STF. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, é inviável, em regra, a interposição de recurso especial postulando o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, pois esta possui natureza precária e provisória do juízo de mérito, cuja reversão é possível a qualquer momento pela instância originária.
+2. No caso, a análise do preenchimento, ou não, dos requisitos necessários à concessão da providência liminar pleiteada demandaria o reexame do acervo fático-probatório dos autos, o que vedado, no âmbito do recurso especial, pela Súmula 7/STJ.
+3. O mero não conhecimento ou a improcedência do agravo interno não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se imperioso para tal que seja nítido o descabimento do recurso, o que não se verifica no caso concreto.
+4. Agravo interno desprovido" (AgInt no AREsp n. 2.086.985/ES, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/8/2022, DJe de 24/8/2022.)
+Por fim,nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, inviável o conhecimento do recurso especial pela alínea "c" do permissivo constitucional quando não demonstrada, como no caso vertente, a divergência jurisprudencial, haja vista a recorrente ter apenas colacionado algumas ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos confrontados e a divergência de interpretações.
+Ante o exposto, conheço do agravo para nãoconhecer do recurso especial.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
