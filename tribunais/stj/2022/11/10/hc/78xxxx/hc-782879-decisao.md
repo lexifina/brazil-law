@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de EMERSON MIRANDA CUNHA, apontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais, que não conheceu de mandamus prévio, nos termos do acórdão assim ementado:
+"HABEAS CORPUS - EXECUÇÃO PENAL - LIVRAMENTO CONDICIONAL - REITERAÇÃO DE PEDIDOS - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. De acordo com a súmula 53 deste E. TJMG, tratando-se de mera reiteração de pedido anterior, já julgado, não se conhece de parte ou de todo o pedido de habeas corpus." (e-STJ, fl. 10).
+O paciente impetrou habeas corpus originário no Tribunal de Justiça de Minas Gerais, que não conheceu da impetração sob o argumento de que se trata de reiteração de pedido anteriormente julgado e não conhecido.
+Afirma que ultrapassado o prazo estabelecido pelo Juiz da Execução Criminal na realização do Exame Criminológico em mais de 60 (sessenta) dias, o apenado não pode ficar preso pela inércia do Poder Público.
+Aponta constrangimento ilegal causado ao paciente, na medida em que o sentenciado possui os requisitos para livramento condicional e ainda assim foi requerido o exame criminológico para melhor análise do pedido.
+Aduz que a fundamentação para determinação do exame criminológico é inidônea e não pode se basear na simples gravidade dos delitos cometido.
+Requer a concessão do livramento condicional ao paciente.
+É o relatório.
+Decido.
+Os autos revelam que a matéria ora questionada não foi apreciada pelo Tribunal Estadual, o qual não conheceu da impetração originária sob o fundamento de que se tratava de reiteração de pedido anterior, já julgado (Habeas Corpus nº 1.0000.22.207589-7/000). Tal fato impossibilita a sua análise por este Superior Tribunal de Justiça, sob pena de supressão de instância.
+A propósito, os seguintes julgados desta Corte:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. POSSE DE ARTEFATO EXPLOSIVO. AUSÊNCIA DE INDÍCIOS DE AUTORIA. REEXAME FÁTICO-PROBATÓRIO INVIÁVEL NA PRESENTE VIA. ALEGAÇÃO DE FUNDAMENTAÇÃO INIDÔNEA DO DECRETO PRISIONAL. NÃO CONHECIDO. REVOGAÇÃO DA PRISÃO PREVENTIVA EM RAZÃO DA PANDEMIA DA COVID-19. PACIENTE COM DOENÇA CRÔNICA RESPIRATÓRIA. REEXAME FÁTICO-PROBATÓRIO INVIÁVEL NA PRESENTE VIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+III - Quanto à alegação de ausência de fundamentação idônea a justificar a decretação da segregação cautelar do ora agravante, o presente recurso não comporta conhecimento, pois verifica-se que tal pedido não foi conhecido pelo eg. Tribunal de origem por se tratar de reiteração de pedido já julgado em habeas corpus impetrado anteriormente, razão pela qual fica impossibilitada esta Corte de proceder a tal análise, sob pena de indevida supressão de instância.
+ ..
+Agravo regimental desprovido." (AgRg no RHC 130.645/CE, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 01/09/2020, DJe 14/09/2020)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. PENAL E PROCESSO PENAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. RECEPTAÇÃO. CORRUPÇÃO DE MENORES. EXCESSO DE PRAZO. COMPLEXIDADE DO FEITO. CARTAS PRECATÓRIAS. DESÍDIA ESTATAL NÃO CARACTERIZADA. FUNDAMENTOS DO DECRETO CONSTRITIVO. SUBSTITUIÇÃO DA PRISÃO PREVENTIVA PELA PRISÃO DOMICILIAR. MATÉRIAS NÃO TRATADAS PELO JULGADO RECORRIDO. SUPRESSÃO DE INSTÂNCIA. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. RECURSO PARCIALMENTE CONHECIDO, NESTA PARTE, DESPROVIDO.
+ ..
+4. O acórdão recorrido não conheceu das teses de ilegalidade da prisão preventiva e de preenchimento dos requisitos necessários para a prisão domiciliar, por se consubstanciarem em reiteração de pedido já analisado em outros habeas corpus na origem. Assim, sob pena de supressão de instância e de violação ao princípio da dialeticidade é vedada a análise dos supostos constrangimentos ilegais.
+5. Recurso ordinário em habeas corpus parcialmente conhecido e, nesta parte, desprovido." (RHC 106.612/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 11/04/2019, DJe 30/04/2019)
+Ademais, consoante a decisão de Primeiro Grau que determinou a realização do exame criminológico "o sentenciado reiteradas vezes descumpriu as condições de seu regime, tendo sido inclusive regredido para o semiaberto em razão do reconhecimento de falta grave e tendo sido expedido mandado de prisão em seu desfavor o qual, fora cumprido em 21/06/2021 (seqs. 108 e 137)" (e-STJ, fl. 15).
+Vale acrescentar que "as faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo.  ..  Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/06/2020, DJe 23/06/2020, grifou-se).
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
