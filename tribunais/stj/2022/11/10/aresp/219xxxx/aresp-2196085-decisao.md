@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por FURNAS - CENTRAIS ELÉTRICAS S.A., contra acórdão do Tribunal de Justiça do Estado de Goiás, assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO EM FASE DE CUMPRIMENTO DE SENTENÇA. PRETENSÃO DA AGRAVANTE DE QUE SEJA APLICADA MULTA E INCLUÍDO VALOR REFERENTE A HONORÁRIOS ADVOCATÍCIOS.
+1. Art. 523, §1º, CPC/15.2. Súmula 517 do STJ-São devidos honorários advocatícios no cumprimento de sentença, haja ou não impugnação, depois de escoado o prazo para pagamento voluntário, que se inicia após a intimação do advogado da parte executada.
+3. O oferecimento de seguro garantia, por não se tratar de montante que fica à disposição do credor, não se confunde com o pagamento voluntário da dívida, este sim apto a afastar a incidência da multa e a obstar o arbitramento de honorários advocatícios.
+3. Precedentesdesta Corte e do STJ. RECURSO CONHECIDO E PROVIDO.
+Os embargos declaratórios foram rejeitados.
+Nas razões do recurso especial, os recorrentes alegam violação doart. 1.022, II, do CPC/2015, apontando omissão do acórdão recorrido quanto aos seguintes argumentos: (i) art. 523, § 1º, do CPC/2015, uma vez não esclarecido qual seria o valor total da obrigação de pagar não voluntariamente cumprida sobre o qual incidiria multa; (ii) o caso se referiria a cumprimento provisório (art. 475-J, do CPC/1973) e não definitivo de sentença, nãosendo aplicável a multa do art. 523, § 1º, do CPC/2015; (iii) os honorários advocatícios seriam devidos apenas após nova intimação depois de convertida a execução provisória em definitiva; (iv) teria sidoatribuição de efeito suspensivo à impugnação do cumprimento de sentença; (v) a multa do art. 523, § 2º, do CPC/2015 seria devida apenas sobre o valor remanescente.
+Afirma ter sido ofendido o art. 475-J do CPC/1973, sob o argumento de que "descabida a aplicação da multa processual e honorários por descumprimento da obrigação de pagar no prazo previsto no artigo 475-J do então vigente CPC/73, que demandava o trânsito em julgado da decisão exequenda, sob pena de obrigar o executado a pagar espontaneamente o débito, em total incompatibilidade com seu direito de recorrer" (e-STJ, fl. 284).
+Sustenta afronta aos arts. 475-J do CPC/1973 e 523, § 1º, do CPC/2015 requerendo o afastamento da multa imposta tendo em vista queo valor incontroverso devido teria sido pago tempestivamentee também porque suspenso o cumprimento do julgado quanto ao valor controverso.
+Por fim, insurge-se contra a imposição da multa prevista no art. 523, § 2º, do CPC/2015, aduzindo que "o pagamento de qualquer valor posteriormente adicionado, e que não era devido quando do início do cumprimento de sentença, enseja nova e necessária intimação da parte devedora para pagamento, com incidência de novo prazo para impugnação" (e-STJ, fl. 288).
+Foram apresentadas contrarrazões.
+É o relatório.
+Passo a decidir.
+Conheço do agravo, porquanto minimamente impugnados os fundamentos da decisão de inadmissão do recurso especial.
+A pretensão merece acolhimento.
+O Tribunal de origem não enfrentou a premissa fática alegada pelarecorrentea respeito do caráter provisório ou definitivo do cumprimento de sentença nem tampouco sobre o valor a que se refeririam as penalidades impostas.
+Reproduzo os argumentos lançados no recurso especial (fls. 280/283-e):
+25.- Porém, e a despeito de instada por FURNAS por meio do recurso de embargos de declaração de pdf. 220, recursou-se o E. Tribunal a quo a esclarecer qual seria o valor total cuja obrigação de pagar não foi voluntariamente cumprida.
+(..)
+27.- Também se recusou o E. Tribunal a quo a sanar as equivocadas as premissas de julga adotadas, no sentido de que definitivo o cumprimento do julgado condenatório e sob a vigência do artigo 523, § 1º, do CPC, e não de forma provisória e sob a vigência do artigo 475-J do CPC/73, como de fato ocorreu.
+(..)
+30.- Trata de questão fundamental ao julgamento da controvérsia, por entender esse E. Superior Tribunal de Justiça pelo descabimento da aplicação da multa do artigo 475-J do CPC/73 nos casos de cumprimento provisório do julgado:
+(..)
+31.- Mais ainda, omisso o v. ac órdão embargado sobre a igualmente fundamental tese de qu convertida a execução provisória em definitiva, somente possível o arbitramento da verba honorária  s" após nova intimação do devedor para cumprimento voluntário da obrigação, e que somente a partir do trânsito em julgado do título executivo judicial se tornou definitiva:
+(..)
+32.- Por fim, também omisso o julgado sobre a atribuição de efeito suspensivo à impugnação ao cumprimento de sentença de FURNAS, e de que tempestivamente pagos os valores incontroversos devidos.
+(..)
+38.- Por fim, e no pior e argumentativo dos casos, omisso o v. ac órdão embargado ao não prever a incidência de multa e honorários apenas sobre o valor restante devido, conforme artigo 523, § 2º, do CPC, segundo o qual "Efetuado o pagamento parcial no prazo previsto no caput, a multa e os honorários previstos no § 1º incidirão sobre o restante". (grifou-se)
+Da fundamentação do acórdão, portanto, não se verifica o enfrentamento das alegaçõesapresentadas nas razões do apelo e dos embargos de declaração, o que denota a omissão do acórdão recorrido quanto ao ponto.
+Nesse contexto, inafastável o reconhecimento de ofensa aoart. 1.022 do CPC/2015, tendo em vista a necessidade de análise de questão independente alegada pelo apelante, no momento adequado. No mesmo sentido:
+RECURSO ESPECIAL. PROPRIEDADE INDUSTRIAL. AÇÃO DE NULIDADE DE REGISTRO DE MARCA. VOLVO / VOLCAM. APELAÇÃO. JULGAMENTO. QUESTÕES PERTINENTES E RELEVANTES, CAPAZES DE INFIRMAR AS CONCLUSÕES ALCANÇADAS, NÃO ENFRENTADAS PELO TRIBUNAL A QUO. FUNDAMENTAÇÃO DEFICIENTE. VIOLAÇÃO DO ART. 489, § 1º, IV, DO CPC/15.
+1. Ação ajuizada em 16/9/2013. Recurso especial interposto em 1/8/2017. Autos conclusos à Relatora em 11/12/2018.
+2. O propósito recursal é verificar (i) se há nulidade no acórdão impugnado, por ausência de fundamentação; (ii) a higidez do ato administrativo que concedeu o registro da marca VOLCAM à recorrida; e (iii) a competência da Justiça Federal para determinar a alteração do nome empresarial da recorrida.
+3. Para que fique configurada a violação de marca, é necessário que o uso dos sinais distintivos impugnados possa causar confusão no público consumidor ou associação errônea, em prejuízo ao titular da marca supostamente infringida.
+4. Conforme decidido por esta Corte Superior, a análise de eventual colidência de registros marcários deve passar pelo exame dos seguintes critérios principais: (i) grau de distintividade intrínseca da marca supostamente violada, (ii) grau de semelhança entre as marcas em conflito, (iii) reconhecimento e fama do suposto infrator, (iv) tempo de convivência das marcas no mercado, (v) espécie dos produtos em cotejo, (vi) especialização do público-alvo e (vii) diluição.
+5. Tais critérios devem ser sopesados à vista das circunstâncias específicas da hipótese, não se podendo estabelecer juízos objetivos a priori sobre a relevância em abstrato de cada um deles.
+6. Conquanto o julgador não esteja obrigado a rebater, com minúcias, cada um dos argumentos deduzidos pelas partes, o Código de Processo Civil de 2015, exaltando os princípios da cooperação e do contraditório, lhe impõe o dever de enfrentar todas as questões capazes de, por si sós e em tese, infirmar as conclusões alcançadas acerca dos pedidos formulados pelas partes, sob pena de se reputar não fundamentada a decisão proferida (art. 489, § 1º, IV).
+7. Na hipótese, mostra-se deficiente a fundamentação do acórdão recorrido, o qual, ao confirmar o indeferimento dos pedidos deduzidos na inicial, deixou de apreciar as questões suscitadas pela recorrente relativas à associação indevida causada pela marca impugnada, à caracterização da má-fé da recorrida, à diluição do poder distintivo do sinal registrado, à configuração de concorrência desleal, ao reconhecimento alcançado pela marca VOLVO perante o público consumidor, dentre outras circunstâncias fáticas inviáveis de enfrentamento em sede de recurso especial, ante o óbice da súmula 7/STJ. RECURSO ESPECIAL PROVIDO. (REsp 1819062/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/02/2020, DJe 13/02/2020)
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. QUESTIONAMENTOS AO LAUDO PERICIAL. FALTA DE ESCLARECIMENTO. REJEIÇÃO AO CERCEAMENTO DE DEFESA. FALTA DE FUNDAMENTAÇÃO. OCORRÊNCIA.
+1. É nulo o acórdão, por ausência de fundamentação, quando se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida. Inteligência do art. 489, § 1.º, inciso I, do CPC/2015.
+2. Agravo conhecido para dar provimento ao recurso especial. (AREsp 1936510/MT, de minha relatoria, SEGUNDA TURMA, julgado em 16/11/2021, DJe 29/11/2021)
+Nesses termos, cumpre anular o acórdão dos embargos declaratórios para que outro seja proferido, sanando-se o vício em questão.
+Ante o exposto, com fulcro no 932, V, do CPC/2015 c/c o art. 255, § 4º, III, do RISTJ , dou provimento aorecursoespecial, nos termos da fundamentação.
+Publique-se e intimem-se.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. PROVISÓRIO. DEFINITIVO. MULTA. OMISSÃO. CONFIGURAÇÃO. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
