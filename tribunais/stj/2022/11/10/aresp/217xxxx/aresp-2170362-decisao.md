@@ -1,0 +1,25 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo de decisão que deixou de admitir recurso especial interposto por FMB ESTRUTURAS METALICAS INDUSTRIA E COMERCIO EIRELI em face de acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+Assistência Judiciária - Pessoa Jurídica Diferimento. A concessão do benefício da assistência judiciária depende de comprovação de ausência de condições financeiras para o custeio do processo, não bastando a simples demonstração de momentânea e informal inatividade. Somente se difere o pagamento das custas e despesas processuais para o final da demanda quando evidenciada a momentânea impossibilidade de arcar com tais encargos. Recurso não provido.
+No recurso especial, a recorrente aponta, além de dissídio jurisprudencial, ofensa aos arts. 5º, LXXIV da CF, 98 do CPC e 4º da Lei 1.060/50, defendendo que tem direito ao benefício da gratuidade da justiça, pois "a simples declaração firmada pela parte que requer o benefício da assistência judiciária, dizendo-se "pobre nos termos da lei", desprovida de recursos para arcar com as despesas do processo e com o pagamento de honorários de advogado, é, na medida em que dotada de presunção iuris tantum de veracidade, suficiente à concessão do benefício legal".
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial, que não comporta conhecimento.
+Em primeiro lugar,quanto à apontada violação ao art. 5º, LXXIV, da CF, não cabe ao Superior Tribunal de Justiça examinar na via especial suposta violação a normas constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Em segundo lugar, o art. 4º da Lei 1.060/50 encontra-se revogado pelo Código de Processo Civil de 2015.
+Em terceiro lugar, relativamente à apontada violação ao art. 98 do CPC, o Tribunal de origem, soberanona análise das circunstâncias fáticas eprobatórias da causa, assentou o seguinte:
+Não se pode olvidar, contudo, que a teor da sua Súmula 481, somente "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais"
+(..)
+No caso, levando em consideração que a declaração de pobreza goza de presunção relativa, como reiteradamente se decide, inclusive no Superior Tribunal de Justiça (REsp. nº 38.124-0/RS), bem ainda que a necessidade do benefício deve ser aferida no confronto entre o valor das despesas e dos ganhos mensais do requerente, conclui-se que o indeferimento da gratuidade deve ser mantido, notadamente porque, como antes anotado, o exame dos documentos apresentados, "consubstanciados por extrato bancário (cf. p. 204), certidões da Serasa, de protestos (cf. p. 205/214), da Justiça Federal do Trabalho e do Tribunal de Justiça deste Estado (cf. p. 215/219), não desautoriza a conclusão judicial de que não comprovam a alegada insuficiência de recursos para custeio do processo(cf. p. 220).
+Acresce registrar que a recorrente, nem mesmo nesta oportunidade, apresentou documento apto a revelar situação de miserabilidade ou de incapacidade financeira momentânea e impeditiva do recolhimento de custas.
+A alegação no sentido de que não faz os balanços contábeis por falta de recursos financeiros (cf. p. 208 dos autos principais) e demonstração da existência de dívidas não são suficientes para autorizar a conclusão de que o pagamento de custas e despesas processuais implicaria prejuízo para atividade econômica da empresa, posto apenas evidenciarem impontualidade de obrigações e não, necessariamente, a ausência de condições para suportar os gastos processuais.
+(..)
+A requerente, contudo, não se livrou eficientemente do ônus de demonstrar situação de miserabilidade.
+Como se vê, as razões recursais, ao afirmarem que (a) "a recorrente, conforme restou demonstrado em sede de agravo, encontra-se passando por sérios problemas financeiros, vivendo uma dura realidade financeira o que a impossibilita de arcar com as despesas processuais, sob pena de prejuízo do seu sustento e de sua família" e (b) "encontra-se já acostado aos autos declaração de pobreza assinada de próprio punho pela recorrente atestando o seu estado de pobreza", encontram-se dissociadas da realidade dos autos, deixando de refutar ofundamento de que "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+Logo, aplicável o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorridaassenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ademais,ilidir o afirmado pelas instâncias ordinárias demandaria orevolvimento do conjunto fático-probatório dos autos, providência vedadanesta sede especial a teor da Súmula 7/STJ.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa.
+Intime-se.
