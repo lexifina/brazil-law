@@ -1,0 +1,41 @@
+DECISÃO
+Vistos etc.
+Trata-se de recursoespecialinterpostopor ANA MARIA BERNARDO TURCO E OUTROScom fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição da República contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (fl. 505):
+AGRAVO INTERNO NATUREZA DE RECURSO ARTIGOS 994, III E 1021 DO CPC INTERPOSTO O RECURSO, SE DEVOLVE AO ÓRGÃO FRACIONADO O CONHECIMENTO DE TODAS AS MATÉRIAS OBJETO DO RECURSO PRINCIPAL INTERPOSIÇÃO DO RECURSO E SUA APRECIAÇÃO QUE IMPLICA SUPERAÇÃO DO PRINCIPIO DA COLEGIALIDADE STF RE Nº 634.595. JULGAMENTO MONOCRÁTICO ANÁLISE DO RECURSO PELO RELATOR INTELIGÊNCIA DO ART. 932 DO CPC (ART. 557, DO CPC/73) POSSIBILIDADE AUSÊNCIA DE OFENSA AOS PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA E AUSÊNCIA DE VIOLAÇÃO AO PRINCIPIO DA COLEGIALIDADE OBSERVÂNCIA DOS PRINCÍPIOS DA CELERIDADE PROCESSUAL E PRESTEZA JURISDICIONAL ARTIGO 253 DO RITJ/SP E PRECEDENTES JURISPRUDENCIAIS AGINT NO ARESP1.299.735/SP E 1.630.561/SP. EXECUÇÃO EM CUMPRIMENTO DE SENTENÇA AÇÃO CIVIL PÚBLICA CADERNETA DE POUPANÇA EXPURGOS INFLACIONÁRIOS LEVANTAMENTO DE VALORES PELOS HERDEIROS IMPOSSIBILIDADE NECESSIDADE DE PRÉVIA COMPROVAÇÃO DE ABERTURA DE INVENTÁRIO OU DE SOBREPARTILHA DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+Em suas razões de recurso especial, os recorrentes alegaram violação aos arts.687, 688, 778 e 779, todos do Código de Processo Civil, ao argumento de que desnecessário para o levantamento dos valores disponíveis nos autos, a prévia comprovação de abertura de inventário ou de sobrepartilha.Acenaram pela ocorrência dedissídio jurisprudencial. Requereram, por fim,o provimento do recurso especial.
+Houve apresentação de contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial não merece conhecimento.
+A matéria posta nos presentes autos, cinge-se acerca da possibilidade dos herdeiros levantarem os valores devidos ao "de cujus" referentesaos expurgos inflacionários fora do procedimento de inventário ou sobrepartilha, judicial ou extrajudicial.
+O Tribunal de Justiça do Estado de São Paulo, ao julgar o recurso de apelação, destacou o seguinte (fls. 477):
+(..)
+Nos termos do artigo 1.784 do Código Civil, aberta a sucessão, a herança transmite-se, desde logo, aos herdeiros legítimos e testamentários, o que se dá por meio do fenômeno jurídico denominado "saisine". Constituindo-se o patrimônio do de cujus uma universalidade jurídica de bens, será necessária, então, a definição do que o compõe, além da individualização, se for o caso, do que cabe a cada um dos sucessores, tarefas essas desenvolvidas pelo inventário e pela partilha.
+Deste modo, em razão do princípio da "saisine" os herdeirospossuem legitimidade para figurar no polo ativo do cumprimento de sentença, referente aos expurgos inflacionários do de cujus.
+No diz respeito ao processo de inventário e de partilha, dispõe o artigo 611 do CPC que "o processo de inventário e de partilha deve ser instaurado dentro de 2 (dois) meses, a contar da abertura da sucessão, ultimando-se nos 12 (doze) meses subsequentes, podendo o juiz prorrogar esses prazos, de ofício ou a requerimento de parte".
+Assim, ainda que os herdeiros possuam legitimidade parapleitear em juízo o recebimento dos valores referentes aos expurgos inflacionários do de cujus, o levantamento do correspondente montante, conforme estabelecido pelo MM. Juiz de Primeiro Grau, somente poderá ocorrer através do procedimento de inventário ou sobrepartilha, judicial ou extrajudicial, com a identificação dos bens deixados pelo falecido, a enumeração dos sucessores, e a consequente partilha e atribuição dos respectivos quinhões a cada um dos sucessores.
+Por esta razão, razoável que os valores discutidos permaneçam depositados nos presentes autos, para que, após comprovação da instauração de processo de inventário/arrolamento, sejam encaminhados àquele juízo, ou que, com a apresentação de partilha/sobrepartilha homologada, judicial ou extrajudicialmente, haja deliberação pelo MM. Juízo a quo sobre o seu respetivo levantamento, tudo a fim de se evitar prejuízo ao espólio, herdeiros e eventuais credores. (g.n.)
+Nesse contexto, verifica-se que não houve o prequestionamento dos dispositivosindicados.Dessa forma, ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto no Enunciado n.º 282/STF.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. PREVIDÊNCIA PRIVADA. VERBAS SALARIAIS. RECLAMAÇÃO TRABALHISTA. RECONHECIMENTO. BENEFÍCIO PREVIDENCIÁRIO COMPLEMENTAR. INTEGRAÇÃO. ILEGITIMIDADE PASSIVA. SOLIDARIEDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não pode ser conhecida a parte do recurso que não infirma fundamento dependente e suficiente para a manutenção do julgado (precedente da Corte Especial).
+3. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282/STF.
+4. Reconhecidas, pela Justiça do Trabalho, as verbas remuneratórias que compõem o cálculo do Salário de Participação e do Salário Real de Benefício, a influenciar a própria Complementação de Aposentadoria, deve haver a revisão da renda mensal inicial com observância da fórmula definida no regulamento do fundo de pensão.
+5. A jurisprudência do Superior Tribunal de Justiça concluiu pela ilegitimidade passiva do patrocinador nas demandas que discutem a revisão da complementação da aposentadoria decorrente do reconhecimento, na Justiça Trabalhista, da incidência das horas extras no cálculo do benefício previdenciário.
+6. Agravo interno parcialmente conhecido e, na parte conhecida, não provido.(AgInt no REsp n. 1.939.569/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 17/10/2022, DJe de 24/10/2022.)
+Por segundo, não há demonstração do dissídio jurisprudencial, na medida de que não há similitude fática entre os paradigmas confrontados.Com efeito, aausência de similitude fática, aptaa demonstrar a divergência jurisprudencial sustentada pelo agravante, violao art. 1.029, §1º, do CPC/2015.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. JUÍZO DE ADMISSIBILIDADE. PARTE INADMITIDA. IMPUGNAÇÃO POR MEIO DE AGRAVO NOS PRÓPRIOS AUTOS. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de embargos à execução.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. De acordo com o disposto no art. 1.030 do CPC, com a redação dada pela Lei 13.256/2016, a decisão que inviabiliza a subida do recurso especial, quando apresenta duplo fundamento para negar seguimento e também inadmitir o apelo, comporta, quanto à parte inadmitida, a interposição de agravo nos próprios autos (art. 1.030, V, § 1º, c/c o art. 1.042 do CPC/15) e, quanto à parte a qual se negou seguimento, agravo interno dirigido à Corte local (art. 1.030, I, b, § 2º, c/c o art. 1.021 do CPC/15).
+4. A ausência de cotejo analítico e a não comprovação da similitude fática, aptos a demonstrar a divergência jurisprudencial sustentada pelo agravante, violam o art. 1.029, §1º do CPC/2015.
+5. Agravo interno não provido.(AgInt no AREsp n. 2.120.626/RS, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022.)
+Ante o exposto, com arrimo no art. 932, inciso III, do Código de Processo Civil, não conheço do recurso especial.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PEDIDO DE CUMPRIMENTO DE SENTENÇA. LEVANTAMENTO DE VALORES. PREQUESTIONAMENTO. AUSENTE. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO.
+1. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto no Enunciado n.º 282/STF.
+2. Aausência de similitude fática, aptaa demonstrar a divergência jurisprudencial sustentada pelo agravante, viola o art. 1.029, §1º do CPC/2015.
+3. RECURSO ESPECIAL NÃO CONHECIDO.
