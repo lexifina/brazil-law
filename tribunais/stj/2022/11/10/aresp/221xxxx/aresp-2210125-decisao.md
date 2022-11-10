@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo interposto porONCORIO DISTRIBUIDORA DE MEDICAMENTOS LTDA e outroscontra decisão que inadmitiu recurso especial manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL assim ementado:
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA CÍVEL - MÉRITO - COBRANÇA DE DIFERENCIAL DE ALÍQUOTAS DO ICMS - PETIÇÃO INICIAL INDEFERIDA DE PLANO - IMPETRAÇÃO CONTRA LEI EM TESE - SÚMULA N. 266 DO STF - NÃO CABIMENTO - SENTENÇA MANTIDA - RECURSO CONHECIDO E DESPROVIDO,COM O PARECER.
+I - Se a inicial não veio instruída com prova pré-constituída do ato coator, impõe-se o indeferimento liminar da pretensão, porquanto ausente uma das condições da ação.
+II - Nos termos da súmula n. 266 do STF, "não cabe mandado de segurança contra lei em tese".
+III - Da análise dos autos, verifica-se que a pretensão não se insurge contra qualquer ato concreto, tampouco contra lei de efeitos concretos, mas em face de possíveis e prováveis alcances da norma impugnada, sob a alegação de inconstitucionalidade e ilegalidade.
+IV - Pleito que não se coaduna com a via do mandado de segurança, que visa a garantia de direito líquido e certo contra ato abusivo e ilegal, não sendo sucedâneo de declaração de inconstitucionalidade.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, asrecorrentes apontam, além da divergência jurisprudencial,violação dos seguintes dispositivos: a) art. 1.022, I,II e III, do Código de Processo Civil, sustentando que o acórdão recorrido padece de vícios a despeito da oposição de aclaratórios na origem; b) art. 489, V, do Código de Processo Civil, aduzindo aplicação equivocada da Súmula n. 266/STF pelo aresto combatido; c) arts. 1º e 10 da Lei n. 12.016/09, argumentando que foi demonstrada a existência de ato coator e de direito líquido e certo a ser tutelado no caso concreto; d) arts. 927, III, 928, II, e 1.035, § 11, do Código de Processo Civil, sustentando ser necessária a aplicação imediata da tese fixada no julgamento da ADI n. 5.469 e do RE n. 1.287.019 (Tema n. 1.093).
+Houve contrarrazões ao recurso especial (e-STJ fls. 411/442).
+O Tribunal de origem inadmitiu o recurso especial com fulcro na incidência das Súmulas n. 7,83 e 211do STJ.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Houve contraminuta ao agravo (e-STJ fls. 511/525).
+É o relatório. Decido.
+Devidamente impugnados os óbices aplicados na decisão de inadmissibilidade, passo à análise do especial.
+Preliminarmente, sustenta-se que o decisum combatido padece dos seguintes vícios (e-STJ fl. 355):
+(i) Omissão ao entender que a pretensão das Recorrentes não se insurgiria contra nenhum ato concreto, o que não é o caso, pois há justo receio de restrição de seu direito líquido e certo decorrente da previsão legal de incidência do DIFAL à qual a Recorrente está sujeita;
+(ii)Omissão ao entender que o mandado de segurança foi impetrado para buscar a declaração de inconstitucionalidade da EC 87/2015 e não para impedir a cobrança inconstitucional que será efetuada pelo Estado a título de DIFAL;
+(iii)Omissão ao desconsiderar que as Recorrentes fundamentaram a existência do ato coator no justo receio (expressamente previsto no artigo 1º da Lei 12.016), tendo em vista que a Lei Estadual nº 4.743, de 21.10.2015 ("Lei nº 4.743/15") foi editada para refletir as significativas inovações trazidas pela Emenda Constitucional nº 87/2015 e do Convênio CONFAZ nº 93/2015; e
+(iv)Omissão ao deixar de considerar que a implementação do sistema de recolhimento de ICMS baseado no DIFAL em operações interestaduais - no entendimento do plenário do STF - por tratar de regra geral de tributos, é de competência exclusiva de legislação complementar, nos termos dos artigos 146, inciso III, alínea "a", e 155, § 2º, inciso XII, alíneas "a", "d" e "i", da CF;
+A insurgência não merece prosperar.
+Isso porque, ao acolhimento da preliminar,não basta a simples oposição dos aclaratórios na origem. É necessária a demonstração, de forma fundamentada que: (a) a questão supostamente omitida foi tratada na apelação, no agravo ou nas contrarrazões a estes recursos, ou, ainda, que se cuida de matéria de ordem pública a ser examinada de ofício, a qualquer tempo, pelas instâncias ordinárias; (b) houve interposição de aclaratórios para indicar à Corte local a necessidade de sanear a omissão; (c) a tese omitida é fundamental à conclusão do julgado e, se examinada, poderia levar à sua anulação ou reforma.
+Tais demonstrações não ocorreram in casu, razão pela qual incide o óbice da Súmula n. 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRARIEDADE AOS ARTS. 489 E 1.022 DO CPC. RAZÕES. DEFICIÊNCIA. INCIDÊNCIA DA SÚMULA N. 284/STF. REEXAME DE LEI LOCAL. IMPOSSIBILIDADE.
+1. É deficiente a fundamentação do recurso especial em que a alegada ofensa aos arts. 489 e 1.022 do CPC faz-se sem a demonstração objetiva dos pontos omitidos pelo acórdão combatido, individualizando o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos. Incidência, por analogia, da Súmula n. 284/STF.
+2. O Colegiado de origem decidiu com base na interpretação da legislação local, especialmente da Lei estadual n. 8.927/1988 e do Decreto Estadual n. 9.172/2010. Portanto, a análise da controvérsia posta e a desconstituição da conclusão alcançada demandam o exame de legislação local.
+3. Inviável, assim, o acolhimento do recurso especial, de acordo com a aplicação analógica do enunciado n. 280 constante da Súmula do STF.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.712.653/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 5/4/2022.)
+No mérito, melhor sorte não assiste o especial.
+Com relação à ofensa ao art.489, V, do CPC, verifico que o que pretendem as recorrentes, ao fim e ao cabo, é o exame daviolação à Súmula n. 266/STF.
+No ponto, o recurso especial não constitui via adequada para a análise de eventualofensa a Súmula,ainda que vinculante, porque o termo não está compreendido na expressão "lei federal", constante do permissivo constitucional.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE. NÃO ENQUADRAMENTO NO CONCEITO DE LEI FEDERAL. SÚMULA 518/STJ. ANÁLISE DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280 DO STF. LEI LOCAL CONTESTADA EM FACE DE LEI FEDERAL. HIPÓTESE DE CABIMENTO DE RECURSO EXTRAORDINÁRIO. ART. 102, III, "D", DA CF/1988. IMPOSSIBILIDADE DE ANÁLISE.
+1."O recurso especial não constitui via adequada para a análise de eventual ofensa a Súmula, ainda que vinculante, porque o termo não está compreendido na expressão "lei federal", constante da alínea "a" do inciso III do artigo 105 da Constituição Federal" (AgInt no AREsp n. 1.947.313/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/3/2022, DJe de 30/3/2022). Incidência Súmula 518/STJ.
+2. A controvérsia exige a análise de dispositivos de legislação local, a saber, arts. 117-A e 118 do Código Tributário do Município do Recife, o que atrai a incidência da Súmula 280/STF.
+3. O Tribunal a quo julgou válida legislação local contestada em face de legislação federal no caso em apreço, a saber, os citados dispositivos do Código Tributário do Município do Recife e o Decreto-Lei 406/68, o que torna, de igual forma, inviável o conhecimento do apelo especial 4. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 1.870.337/PE, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 3/10/2022, DJe de 6/10/2022.)
+No que diz respeito à violação dosarts. 1º e 10 da Lei n. 12.016/09, verifico que o aresto combatido fundamentou que não foi demonstrada a existência de ato coator (e-STJ fls. 288/291).
+Assim, alterar tal conclusão a fim de acolher a pretensão recursal exigiria, necessariamente, o reexame do acervo fático-probatório dos autos, providência que esbarra no óbice da Súmula n. 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. ACÓRDÃO COMBATIDO. FUNDAMENTO CONSTITUCIONAL. EXAME. INVIABILIDADE. MANDADO DE SEGURANÇA. INTERESSE DE AGIR. AUSÊNCIA. PROVA PRÉ-CONSTITUÍDA. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. É entendimento assente nesta Corte Superior que, examinada a matéria em debate sob o enfoque eminentemente constitucional, mostra-se inviável a análise da questão em sede de recurso especial, sob pena de usurpação da competência do STF. Precedentes.
+2. Hipótese em que o Tribunal de origem decidiu a controvérsia, referente à legitimidade das entidades associativas para fins de representação de seus associados em ação coletiva, mediante fundamentos eminentemente constitucionais, o que afasta a via especial para seu exame.
+3. A desconstituição do entendimento a que chegou o acórdão recorrido (que concluiu pela falta de interesse de agir em razão da ausência de comprovação do direito líquido e certo da parte impetrante) demandaria o revolvimento do material fático-probatório dos autos, providência vedada em sede de recurso especial diante do óbice contido na Súmula 7 do STJ (a pretensão de simples reexame de prova não enseja recurso especial).
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 1.858.099/GO, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 27/6/2022, DJe de 1/7/2022.)
+Por fim, osarts. 927, III, 928, II, e 1.035, § 11, do CPC não foram alvo das discussões travadas na origem, razão pela qual carecem de necessário prequestionamento (Súmula n. 211/STJ).
+Exemplificativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. APOSENTADORIA. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO DE FUNDO DE DIREITO RECONHECIDA. AÇÃO PROPOSTA CONTRA INSS. AUÊNCIA DE INTERRUPÇÃO OU SUSPENSÃO DO PRAZO PRESCRICIONAL. EFEITO INTER PARTES DA COISA JULGADA. ART. 472 DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO DA QUESTÃO DE FUNDO. INCIDÊNCIA DA SÚMULA N. 211/STJ. INAPLICABILIDADE DO ART. 1.025 DO CPC. RECURSO NÃO PROVIDO.
+1. Não houve violação do art. 1.022 do CPC, porquanto o acórdão impugnado fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada, resolvendo as questões suscitadas pelo recorrente.
+2. A posição firmada pelo Tribunal de origem está em plena consonância com a jurisprudência desta Corte de que, em hipóteses como a dos autos, na qual se pretende a modificação do ato de aposentação do servidor público a pretexto de computar-se, de forma diferenciada, o tempo de serviço prestado em condições especiais insalubres, a prescrição atinge o próprio fundo de direito. Precedentes.
+3. Na ocasião em que foi concedida a aposentadoria, a insurgente já tinha ciência do período laborado em condições especiais, motivo pelo qual poderia, desde aquela época, ter pleiteado perante o instituto recorrido a contagem diferenciada do tempo de serviço ou, ainda, ter ajuizado ação também contra a entidade municipal.
+4. Como não o fez, não houve interrupção ou suspensão da prescrição, pois a ação promovida em oposição ao INSS não alterou o prazo prescricional da pretensão contra o recorrido, ante o efeito inter partes da coisa julgada oriunda daquela demanda, consoante o art. 472 do CPC/1973.
+5. Nesse contexto, como a aposentadoria foi concedida em 3/3/2005 e a presente ação apenas foi ajuizada em 27/11/2018, inevitável o reconhecimento da prescrição do próprio fundo do direito, nos moldes do art. 1º do Decreto n. 20.910/1932.
+6. As demais teses recursais - relativas à questão de fundo - não foram objeto de debate e deliberação pela Corte de origem, mesmo com a oposição dos embargos de declaração, o que redunda em ausência de prequestionamento da matéria, aplicando-se ao caso a orientação firmada na Súmula n. 211/STJ.
+7. Quanto ao art. 1.025 do CPC, apenas no caso de reconhecimento de vício de omissão no acórdão recorrido, é possível a supressão de instância para conhecimento da matéria fictamente prequestionada, o que não ocorreu no caso, na medida em que o Tribunal de origem não conheceu desse fundamento recursal, ante o acolhimento da prejudicial de prescrição.
+8. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.907.477/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 20/6/2022, DJe de 24/6/2022.)
+Por fim, deixo de analisar a divergência suscitada em virtude do óbice aplicado ao conhecimento da matéria pela alínea "a".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. OFENSA A ENUNCIADO SUMULAR. IMPOSSIBILIDADE. MANDADO DE SEGURANÇA. EXISTÊNCIA DE ATO COATOR. SÚMULA N. 7/STJ. OFENSA AOS ARTS.927, III, 928, II, E1.035, § 11, DO CPC. SÚMULA N. 211/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
