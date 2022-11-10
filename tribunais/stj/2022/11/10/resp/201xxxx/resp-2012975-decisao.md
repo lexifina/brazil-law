@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SÃO BERNARDO DO CAMPO,com fundamento no permissivo constitucional, contra acórdão proferido pelo TJ/SP, assim ementado (e-STJ fl. 174):
+AGRAVO DE INSTRUMENTO - Artigo 33 do ADCT - Executado que se insurge contra os cálculos efetuados, pugnando pela exclusão dos juros compensatórios e moratórios - Admissibilidade - Exclusão dos juros moratórios e compensatórios - Aplicação superveniente da Súmula Vinculante nº 17 do Supremo Tribunal Federal - Juros incidentes sobre o valor da condenação - Aplicação da Lei nº 11.960/2009 - Inadmissibilidade - Regramentos impostos pela apontada legislação aplicáveis somente em ações ajuizadas após sua vigência - Entendimento sedimentado na Egrégia Seção de Direito Público deste Tribunal de Justiça. Recurso provido em parte.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 194/204).
+Em Juízo de retratação, a Corte a quo reformou o julgado, no que tange aos consectários legais, para adequá-loaos Temas n. 810 do STF e 905 do STJ, nos termos da seguinte ementa:
+RETRATAÇÃO  98 CÂMARA DE DIREITO PÚBLICO  Agravo de Instrumento. Cumprimento de sentença.
+Insurgência do executado com relação aos cálculos efetuados, pugnando pela exclusão dos juros compensatórios e moratórios e aplicação da Lei nº 11.960/09. Pleito acolhido em parte.
+1. Critério de cálculo da correção monetária e juros de mora incidentes sobre o valor devido. Lei 11.960/09.
+2. Colendo STJ que julgou o Tema nº 905(REsp nº 1.495.146/MG) que trata da validade da correção monetária e dos juros moratórias incidentes sobre as condenações impostas à Fazenda Pública.
+3. Colendo STF que julgou em 20.09.2017 o Tema 810(RE 870.947/SE), que trata da validade da correção monetária e dos juros moratórias incidentes sobre as condenações impostas à Fazenda Pública. No tocante às relações jurídicas não tributárias, o entendimento é claro quanto à constitucionalidade dos juros moratórias da caderneta de poupança, nos termos da Lei nº 11.960/09, e quanto à inconstitucionalidade dos índices de correção monetária da caderneta de poupança, com aplicação do índice IPCA-E.
+4. Acórdão que, em juízo de retratação, altera o entendimento acerca dos consectários legais.
+Em suas razões, orecorrente aponta violação doart. 2º, § 2º, do Decreto-lei n. 4.657/1942 e do art. 1º-F da Lei n. 9.494/1997, alegando, em síntese, que a taxa de juros deve ser fixada conforme oíndicede remuneração dacadernetas de poupança.
+Após contrarrazões (e-STJ fls. 253/259), o apelo recebeu juízo positivo de admissibilidade (e-STJ fls. 513/514).
+Parecer do Ministério Público Federal opinando pelo não conhecimento do recurso (e-STJ fls. 287/291).
+Passo a decidir.
+A insurgência não prospera.
+Conforme relatado, o recorrenteobjetiva, em síntese, a aplicação imediata do art. 1º-F da Lei n. 9.494/1997 à condenação que lhe foi imposta.
+Ocorre que, em juízo de retratação (e-STJ fls. 271/283), o Tribunal de origem decidiualterar "os termos nos quais os consectários legais devem incidir sobre os valores a que condenado o ente requerido a pagar ao autor, em cumprimento às decisões proferidasno REspn.1.495.146/MG(Teman. 905)e no RE n.870.947/SE, (Teman. 810), reformando o julgado, nos seguintes termos:
+Não obstante o meuentendimento no presente caso fosse pelo afastamento da aplicação da Lei n. 11.960/09, eis que o recurso de agravo de instrumento fora ajuizado aos 26.10.2010 (fls.02) e a ação principal no ano de 1986 (fls.54 e 180), antes, portanto, da vigência da lei comento, de se observarque os v. arestos sob reanálise foram prolatados quando em vigor a nova lei, e em conformidade com os entendimentos firmados pelo Superior Tribunal de Justiça e pelo Suprem Tribunal Federal acerca da matéria, promovo a retratação parcial dos acórdão para que, compatibilizando os entendimentosproferidos pelas Cortes Superiores acerca da matéria, a incidência dos juros e da correção monetárias dos valores a que condenado o ente requerido a pagar ao autor seja feita da seguinte maneira: juros de mora segundo o índice de remuneração da caderneta de poupança e correção monetária com aplicação da variação do IPCA-E.
+Nessa quadra, verifica-se ausente o interesse recursal do Município recorrente, tendo em vista o acolhimento de sua pretensão, no ponto.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
