@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Lamounier Pereira Drumond Junior, em que se aponta como órgão coator o Tribunal de Justiça de Minas Gerais (Apelação Criminal n. 1.0000.22.130894-3/001 - fls. 173/180), pelo fato de ter mantido a sentença que o condenaracomo incurso no art. 33, caput e § 4º, da Lei n.11.343/2006, à pena de 4 anos e 2 meses de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 420 dias-multa, substituída a privativa de liberdade por restritivas de direitos.
+Nesta Casa, a defesa pretende, no âmbito liminar e no mérito, a incidência da causa especial de diminuição da reprimenda prevista no § 4º do art. 33 da Lei n.11.343/2006, em seu patamar máximo (2/3).
+Liminar indeferida (fls. 223/224), informações prestadas (fls. 227/228, 230/233 e 234/250), oMinistério Público Federal, na pessoa daSubprocuradora-Geral da RepúblicaEliane de Albuquerque Oliveira Recena, exarou parecer assim ementado (fl. 255):
+PENAL e PROCESSUAL PENAL. Habeas corpus substitutivo de REsp. Inadmissibilidade. Tráfico de drogas.Dosimetria. Terceira fase. Aplicação do redutor do artigo 33, § 4º, da Lei nº 11.343/06 na fração mínima de 1/6.Modulação com base na quantidade da droga apreendida. Possibilidade.Precedentes. Ausência de constrangimento ilegal. Não admissão do writ, descabida a concessão de um habeas corpus ex officio.
+É o relatório.
+O Tribunal de origem, ao manter a dosimetria da pena efetuada pelo Juízo de primeiro grau, asseverou(fl. 179- grifo nosso):
+No presente, o magistrado de piso fixou a incidência da benesse sob o argumento: "Estabelecida tal premissa, é de se reconhecer que o acusado é, ao menos frente os elementos de convicção disponíveis, tecnicamente primário, de maneira que faz jus ao benefício do art. 33, §4º, da Lei n.º 11.343, de 2006, ainda mais porque não lhe imputada qualquer das causas impeditivas do preceito.".
+E "..tendo em vista a quantidade da droga", elegeu a menor diminuição, o que reputo válido, posto que apreendidas 12 (doze) barras, duas porções e quatro plantas de maconha, periciadas pesando 6,1kg (seis quilos e cem gramas), quantidade realmente exacerbada, a meu sentir.
+Adequada, portanto a adoção da fração redutora mínima.
+A título de registro apenas, ressalto que (a) na fixação da pena-base, acima do mínimo legal, o sentenciante apontou a existência de antecedentes desfavoráveis, o que até mesmo deveria obstar o reconhecimento do tráfico privilegiado; e que (b), ao cabo, concedeu a substituição da pena privativa da liberdade por restritivas de direitos, mesmo diante de uma pena concretizada em patamar superior ao previsto no art. 44, I, do Código Penal.
+Entretanto, tratando-se de recurso exclusivamente defensivo, tais questões não comportam revisão, sob pena de incorrer em vedada reformatio in pejus.
+Ora, nos termos da jurisprudência desta Casa, atese firmada no REsp n. 1.887.511/SP foi flexibilizada para admitir a modulação da fração de redução do § 4º do art. 33 da Lei n. 11.343/2006 na terceira fase da dosimetria, com base na quantidade e natureza das drogas apreendidas, desde que não tenham sido consideradas na fixação da pena-base (HC n. 725.534/SP, Terceira Seção do STJ) -(AgRg no HC n. 709.657/SP, Ministro João Otávio de Noronha, Quinta Turma,DJe 30/9/2022), caso dos autos, como se vê.
+In casu, a fração da minorante foi fixada em 1/6, tendo em vista a quantidade da droga apreendida, qual seja,6,1 kgde maconha(fl. 179), circunstância não levada em consideração no cálculo da pena-base, cuja exasperação se deveu, apenas, na existência de maus antecedentes, conforme trecho supratranscrito do acórdão impugnado.
+Tal entendimento está em harmonia com a jurisprudência desta Casa, conforme se vê do seguinte julgado:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PENA-BASE FIXADA NO MÍNIMO LEGAL. QUANTIDADE DA DROGA UTILIZADA APENAS NA TERCEIRA ETAPA. INEXISTÊNCIA DE BIS IN IDEM. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL A SER SANADO.
+1. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade, inexistentes, no caso.
+2. Não há falar em existência de bis in idem, uma vez que a pena-base foi fixada no mínimo legal e a quantidade do material entorpecente apreendido foi utilizada somente na modulação da fração da causa especial de diminuição da reprimenda prevista no art. 33, § 4º, da Lei n. 11.343/2006 (1/6).
+3. As instâncias ordinárias, após estabelecerem a pena-base no mínimo legal, fixaram a minorante em 1/6, tendo em vista a quantidade do material entorpecente apreendido (1,765 kg de maconha), além de apetrechos, tais como balança de precisão e outros materiais usados para embalar a droga, fundamentação idônea e harmônica com a jurisprudência desta Casa.
+4. Mantida a reprimenda em patamar superior a 4 anos de reclusão, não há falar em fixação do regime aberto, nem em substituição da privativa de liberdade por restritivas de direitos.
+5. Agravo regimental improvido.
+(AgRg no HC n. 523.145/MG, de minha relatoria, Sexta Turma,DJe22/11/2019 - grifo nosso)
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. TERCEIRA FASE. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. APLICAÇÃO. QUANTIDADE DO MATERIAL ENTORPECENTE. PRECEDENTES DESTA CORTE.
+Ordem denegada.
