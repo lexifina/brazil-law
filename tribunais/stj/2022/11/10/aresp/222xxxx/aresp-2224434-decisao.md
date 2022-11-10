@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Hilda Maria dos Santoscontra decisão proferida pelo Presidente do Tribunal Regional Federalda 3ª Região que negou seguimento ao seu recurso especial ante o óbice daSúmula 7/STJ.
+Em suas razões de agravo em recurso especial, sustenta aagravante não sero caso de reexame de provas, mas de qualificação jurídica dos fatosrelevantes para reconhecimento de um benefício por incapacidade.
+O prazo para apresentação de contraminuta ao agravo em recurso especial transcorreu in albis.
+O recurso especial que se pretende o seguimento, impugna acórdão assimementado:
+APELAÇÃO CÍVEL. APOSENTADORIA POR INVALIDEZ. QUALIDADE DESEGURADO. REQUISITO NÃO PREENCHIDO. SUCUMBÊNCIA RECURSAL.
+1. O CNIS (fls. 96, ID 142921502) prova que o último vínculo empregatício da se encerrou em 17 de março de 2010, havendo recolhimentos como contribuinte facultativo até 31 de março de 2012.
+2. Qualidade de segurado mantida até 15 de abril de 2013, data em que deveria ter sido recolhida a contribuição de facultativo para o fim de mantê-la.
+3. Ação judicial proposta em dezembro de 2016, quando a autora já não detinha a condição de segurada.
+4. Laudo pericial, por sua vez, concluiu que por ocasião da perícia judicial, a autora não estava incapacitada para o trabalho.
+5. A prova dos autos indica que a autora, quando do início da incapacidade, havia perdido a qualidade de segurada, sendo inviável, portanto, a implantação de benefício.
+6. Sucumbência recursal. Aplicação da regra do §11 do artigo 85 do CPC/2015. Exigibilidade condicionada à hipótese prevista no § 3º do artigo 98 do Código de Processo Civil/2015.
+7. Apelação não provida.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões de recurso especial, sustenta arecorrente, ora agravante,que o Tribunal a quo negou vigência aoartigo1.022 do CPC/2015, eis que não se manifestou acerca das provas que comprovam a existência da incapacidade na data do requerimento administrativo. Defende ainda que houve violação aos artigos 42, §2º e 59, §1ºda Lei 8.213/1991, uma vez que restou comprovado que a sua incapacidade teve início na época em que ainda possuía qualidade de segurado, razão pela qual faz jus ao benefício de aposentadoria por invalidez.
+O prazo para apresentação de contrarrazões ao recurso especial transcorreu in albis.
+É o relatório, decido.
+A agravante impugnou os fundamentos adotados na decisão agravada emostrando-se preenchidos os demais pressupostos de admissibilidade dopresente recurso, adentra-se o mérito.
+De início, quanto à alegada ofensa ao artigo 1.022 do CPC/2015,depreende-se do acórdão recorrido que o Tribunal de origem, demodo fundamentado, tratou da questão suscitada, resolvendo, portanto, demodo integral a controvérsia posta.
+Na linha da jurisprudência doSTJ, não há falar em negativa deprestação jurisdicional, tampouco em vício, quando o acórdão impugnadoaplica tese jurídica devidamente fundamentada, promovendo a integralsolução da controvérsia, ainda que de forma contrária aos interesses daparte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DOCPC/2015 INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS ACF/1988. MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADEDE APRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto quea Corte de origem apreciou todos os pontos relevantes ao deslindeda controvérsia de modo integral e adequado, não padecendo oacórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão dobenefício previdenciário com fundamentação eminentemente constitucional,razão pela qual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.740.348/RS, Segunda Turma, Relator Ministro Herman Benjamin,julgado em 21/6/2018, DJe 22/11/2018)
+A alegada violação do artigo 1. 022 do CPC/2015 não merece provimento.
+No mérito, o Tribunal de origem entendeu, com base no conjuntoprobatório dos autos, não haver comprovação da incapacidade pararealização das atividade laborais ao tempo em que arecorrente possuía qualidade de segurada, conforme seobserva do seguinte trecho dos autos, in verbis:
+No caso concreto, o CNIS (fls. 96, ID 142921502) prova que o último vínculo empregatício da se encerrou em 17 de março de 2010, havendo recolhimentos como contribuinte facultativo até 31 de março de 2012. Nesse quadro, a qualidade de segurado foi mantida até 15 de abril de2013, data em que deveria ter sido recolhida a contribuição de facultativo para o fim de manter a qualidade de segurado. Todavia, a presente ação judicial apenas foi proposta em dezembro de2016, quando a autora já não detinha a condição de segurada. O laudo pericial, por sua vez, concluiu (ID 142921497): ""Os achados propedêuticos convêm as seguintes hipóteses diagnósticas relacionadas à lide: obesidade (CID: E66), artropatia (CID: M15, M06 e M12), insuficiência vascularperiférica crônica/erisipela (CID: I73/A46), discopatia (CID: M51), espondilose(CID: M47), lesão ligamentar do joelho esquerdo (CID: S83), patologia dos joelhos(CID: M17) e patologia dos quadris (CID: M16). (..) Data de início das doenças: excetuando-se a lesão ligamentar no joelho esquerdo que tem registro de início entre setembro/outubro de 2011 (a despeito de não haver documentação médica com registros das circunstâncias do mesmo); infere-se, pelo documento de fl. 29emitido em 07/04/2010, que pericianda já realizava tratamento antes de abril de2008. Data de início da incapacidade: pelas características das doenças e potencial incapacitante, evolução do quadro, complicações infere-se que sequelas permanentes passaram a comprometer de forma significativa o potencial laborativo em 11/05/2016 (fl. 41), quando necessitou se internar por". consequência infecciosa de afecção vascular crônica.
+Ou seja: por ocasião da perícia judicial, a autora não estava incapacitada para o trabalho. A prova dos autos indica que a autora, quando do início da incapacidade, havia perdido a qualidade de segurada.
+Não é viável, portanto, a implantação de benefício.
+Destarte, a inversão do julgado para entender que haviaincapacidade laboral na época em que o recorrente ainda possuía qualidade de segurado demandaria o reexame dosfatos e provas, o que é vedado na instância especial ante a incidência daSúmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSOESPECIAL. APOSENTADORIA POR INVALIDEZ/AUXÍLIO-DOENÇA. INCAPACIDADELABORATIVA NÃO CONFIGURADA. INVERSÃO DO JULGADO. INVIABILIDADE. REEXAMEFÁTICO-PROBATÓRIO. SÚMULA 7/STJ. ALÍNEA "C" PREJUDICADA.
+1. Na origem, cuida-se de demanda previdenciária na qual a parte autoraobjetiva a concessão de auxílio-doença ou aposentadoria por invalidez.
+2. Com efeito, conforme posição sólida do STJ, o juiz não está vinculadoàs conclusões do laudo pericial, em razão do princípio da livre convicção,se as regras de experiência e os demais elementos de prova permitiremjuízo em sentido contrário à opinião do perito.
+3. Entretanto, na espécie, o Tribunal a quo, após detida análise doelementos informativos dos autos, notadamente o laudo pericial, entendeuque "a parte autora não logrou infirmar cabalmente as conclusõespericiais, com elementos objetivos a evidenciar o desacerto do parecer doperito judicial" (fl. 261, e-STJ), o qual deve prevalecer.
+4. Desse modo, para refutar as conclusões adotadas pelo Tribunal de origeme acolher a tese sustentada pela recorrente, no sentido de que ficoudevidamente comprovado o preenchimento dos requisitos para a concessão deauxílio-doença ou aposentadoria por invalidez, é imprescindível reexame doconjunto probatório dos autos, vedado na estreita via do Recurso Especial,conforme previsto na Súmula 7/STJ.
+5. Consigne-se que a incidência da referida súmula é óbice também para oexame da divergência jurisprudencial, o que inviabiliza o conhecimento doRecurso Especial pela alínea "c" do permissivo constitucional.
+6. Agravo Interno não provido.
+(AgInt no AREsp n. 1.890.383/RS, relator Ministro Herman Benjamin, SegundaTurma, julgado em 29/11/2021, DJe de 16/12/2021.)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c oart. 253, parágrafo único, II, b, do RISTJ, conheço do agravo paraconhecer parcialmente do recurso especial e, nessa extensão, negar-lheprovimento. Caso exista nos autos prévia fixação de honoráriosadvocatícios pelas instâncias de origem, determino sua majoração emdesfavor da parte recorrente, no importe de 15% sobre o valor jáarbitrado, percentual esse justificado pelo tempo decorrido entre ainterposição do recurso e julgamento e a complexidade da causa, nos termosdo art. 85, § 11, do Código de Processo Civil. Os limites percentuaisprevistos nos §§ 2º e 3º do referido dispositivo legal devem serobservados,bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL.AUXÍLIO-DOENÇA. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA.REQUISITOS. INCAPACIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDOPARA CONHECER EM PARTE DO RECURSO ESPECIAL PARA NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
