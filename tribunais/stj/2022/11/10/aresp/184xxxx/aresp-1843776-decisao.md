@@ -1,0 +1,37 @@
+DECISÃO
+Noticiam os autos que MEDITERRÂNEA DISTRIBUIDORA DE BEBIDAS LTDA., ATLÂNTICA DISTRIBUIDORA DE BEBIDAS LTDA., ATLÂNTICA NEWS DISTRIBUIDORA DE BEBIDAS LTDA. e LUCIANA GOMES TRANSPORTES LTDA. (GRUPO MEDITERRÂNEA), todas em recuperação judicial, interpuseram agravo de instrumento contra decisão proferida pelo juízo da recuperação que postergou a apreciação do pedido para que a BRASIL KIRIN INDÚSTRIA DE BEBIDAS LTDA. (BRASIL KIRIN) lhes pagasse as bonificações devidas e a restituição de valores pagos quando do pedido de soerguimento.
+A 6ª Câmara Cível do Tribunal de Justiça do Estado de Pernambuco deu parcial provimento ao recurso, cujo acórdão, da relatoria do Desembargador STÊNIO NEIVA COÊLHO, foi assim ementado:
+AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. TUTELA PROVISÓRIA DE URGÊNCIA. RESTITUIÇÃO DO PAGAMENTO INDEVIDO REALIZADO PELAS RECUPERANDAS EM FAVOR DA AGRAVADA  VIOLAÇÃO AO PAR CONDITIO CREDITORUM  DEVER DE RESTITUIÇÃO POR IMPOSIÇÃO LEGAL. DA CONTINUIDADE DO PAGAMENTO DAS BONIFICAÇÕES. LITIGÂNCIA DE MÁ-FÉ, ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA E MULTA DIÁRIA POR DESCUMPRIMENTO. DADO PARCIAL PROVIMENTO AO AGRAVO. DECISAO UNANIME.
+1  Sendo incabível o pagamento antecipado de crédito sujeito aos efeitos da Recuperação Judicial, não há outra alternativa a não ser a sua restituição, conforme determinado anteriormente, para que o crédito se submeta aos efeitos da recuperação judicial e seja quitado em igualdade de condições com os demais, na forma que vier a ser entabulado pelas partes no Plano de Recuperação Judicial da empresa.
+2 - Pela interpretação do contrato, na medida em que o Termo de Acordo analisado não possui cláusula estabelecendo um termo final para o benefício (bonificação), resta evidente o direito ao recebimento da bonificação até que a dívida confessada em instrumento paralelo seja integralmente quitada.
+3 - A manutenção do pagamento da referida bonificação, contudo, permite a sua compensação com os débitos das agravantes, junto as agravadas, decorrentes da aquisição de produtos, desde que tais débitos tenham fato gerador posterior ao pedido de recuperação judicial, em respeito ao contido no artigo 49 da Lei nº 11.101/05 e ao par conditio creditorum.
+4 - A multa diária já fixada deve ser mantida, contudo, a sua aplicação dependerá da constatação, no juízo de origem, do descumprimento das decisões proferidas por este Juízo ad quem, cabendo ainda ao togado singular, em constatando a ocorrência de má-fé e ato atentatório a dignidade da justiça, condenar a parte infratora, na forma da legislação.
+5 - Dado parcial provimento ao recurso por unanimidade (e-STJ, fl. 1.874).
+Opostos embargos de declaração, foram rejeitados.
+Contra esses julgados o GRUPO MEDITERRÂNEA manejou recurso especial fundamentado na alínea a do permissivo constitucional alegando violação dos arts. 5º, 80, II e V, 81, 139, III, 489, § 1º, IV, e 1.022, todos do NCPC, por não ter o acórdão recorrido se pronunciado sobre o pedido de condenação da BRASIL KIRIN por litigância de má-fé e ato atentatório à dignidade da justiça. Pugna, ainda, pela imposição das referidas multas.
+Foram apresentadas contrarrazões.
+Inadmitido pelo juízo prévio de admissibilidade, foi apresentado o correspondente agravo.
+O GRUPO MEDITERRÂNEA peticionou ressaltando a prevenção do Ministro MARCO BUZZI para o julgamento do recurso, por ter Sua Excelência apreciado o CC nº 147.127/PE.
+Impugnação às e-STJ, fls. 2.325/2.329.
+Parecer do Ministério Público Federal pelo desprovimento dos recursos.
+É o relatório.
+O recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+A pretensão recursal está no reconhecimento da ocorrência de negativa de prestação jurisdicional e na condenação da BRASIL KIRIN por litigância de má-fé e ato atentatório à dignidade da justiça.
+Inicialmente, merece ser esclarecido que o instituto da prevenção tem por objeto evitar a prolação de decisões conflitantes ou contraditórias.
+Nos termos do art. 71 do RISTJ, a distribuição da ação, do recurso ou do incidente torna preventa a competência do relator para todos os feitos posteriores referentes ao mesmo processo ou a processo conexo,  .. .
+No CC nº 147.127/PE, da relatoria do Ministro MARCO BUZZI, se discutiu o juízo competente para o pagamento do débito trabalhista reconhecido pela justiça especializada, tendo sido declarado que os valores deveriam ser habilitados na recuperação judicial.
+Nesta lide a controvérsia reside no contrato de fornecimento e distribuição de bebidas entabulado entre a BRASIL KIRIN e o GRUPO MEDITERRÂNEA, em especial quanto ao pagamento de bonificações e a restituição de valores pagos.
+Dessa forma, considerando que os casos possuem causas de pedir distintas, o que afasta a probabilidade de ser prolatada decisão conflitante, não há que se falar em prevenção.
+Quanto ao mérito recursal, o GRUPO MEDITERRÂNEA aponta omissão no julgado quanto ao pedido de condenação da BRASIL KIRIN por litigância de má-fé e ato atentatório à dignidade da justiça.
+Todavia, colhe-se que o acórdão recorrido aprecio o pedido, consignado que a questão está em análise pelo juízo competente.
+Veja-se:
+(iii) Litigância de Má-Fé, ato Atentatório à Dignidade da Justiça e Multa Diária por Descumprimento
+As agravantes atravessaram petição (fls. 1559/1574) postulando a aplicação da multa diária arbitrada quando do deferimento da antecipação de tutela recursal, a condenação da agravada por litigância de má-fé e ato atentatório a dignidade da justiça.
+Os fatos narrados no petitório são graves, e se comprovados deverão ser rechaçados, contudo, conforme decidido pelo Exmo. Sr. Des. Cândido Saraiva às fls. 1595/1597, "as matérias suscitadas pela agravante por meio da petição de fls. 1558/1574, já estão sendo devidamente apreciadas pelo juízo adequado para conhecê-las" (e-STJ, fls. 1.865).
+Não se verifica, portanto, a apontada omissão no julgado.
+Tampouco compete ao Superior Tribunal de Justiça, na espécie, aferir se a conduta da BRASIL KIRIN configura litigância de má-fé e ato atentatório à dignidade da justiça, uma vez que para tanto seria necessária a interpretação de cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, inviável na via eleita ante os óbices das Súmulas nº 5 e 7, ambas do STJ.
+Nessas condições, nos termos da alínea b do inciso XVIII do art. 34 do RISTJ, NEGO PROVIMENTO ao agravo em recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL DO GRUPO MEDITERRÂNEA. INCIDÊNCIA DO NCPC. CONTRATO DE DISTRIBUIÇÃO DE BEBIDAS. RECUPERAÇÃO JUDICIAL. RESTITUIÇÃO DE VALORES E PAGAMENTO DE BONIFICAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. LITIGÂNCIA DE MÁ-FÉ E ATO ATENTATÓRIO A DIGNIDADE DA JUSTIÇA. SÚMULAS Nº 5 E 7, AMBAS DO STJ. RECURSO NÃO PROVIDO.
