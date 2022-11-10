@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido liminar,impetrado em favor deHalécio Henrique de Lima, apontando-se como autoridade coatora o Tribunal de Justiça de Minas Gerais (Apelação Criminal n.1.0451.20.000728-9/001).
+Narram os autos que o paciente foi condenado a 5 anos e 6 meses de reclusão, em regime inicial fechado, e a 550 dias-multapela prática do crime de tráfico de drogas. Na oportunidade, foi-lhe mantida a prisão cautelar.
+Nestemandamus, a impetrante sustenta que, em 3/3/2022, foi interposto recurso especial contra o acórdão da apelação criminal, contudo, até o momento, a Corte estadual não apreciou o pedido nem reavaliou a necessidade da prisão do paciente.
+Destaca quejá se passaram mais de 6 seis meses, mesmo assim, não foi revista de ofício pelo TJMG a necessidade de manutenção da segregação preventiva, conforme determina(fl. 5) o art. 316do Código de Processo Penal.
+Requer, inclusive liminarmente, a revogação da prisão do paciente ou, alternativamente, a substituição por outras medidas cautelares.
+Indeferida a liminar, prestadasinformações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Moacir Mendes Sousa, pelo conhecimento parcial do write, nessa extensão, pela denegação da ordem(fls. 142/149).
+Às fls. 151/164, a impetrante juntou pedido de tutela provisória.
+É o relatório.
+De início, destaco que a alegação de excesso de prazo no julgamento do recurso especial interposto pela defesa perdeu o objeto, pois foi inadmitido pela Corte estadual, em 5/9/2022 (fls. 75/76).
+E, mais, como bem disse o Ministério Público Federalem seu parecer,observa-se, ainda, em consulta ao andamento processual disponível no site do Tribunal de Justiça de origem, que a própria Defesa contribuiu para o elastério em questão, ao apresentar pedido de liberdade provisória e, com isso, ocasionar o sobrestamento da fase de admissibilidade recursal para que fosse apreciada a respectiva petição defensiva(fl. 144).
+Quanto à custódia, conforme reiterada jurisprudência deste Superior Tribunal, a prisão que antecede a condenação transitada em julgado só pode ser imposta ou mantida quando evidenciada, com explícita e concreta fundamentação, a necessidade da rigorosa providência, como no caso dos autos, em que ficou demonstrada a reincidência do réu (fl. 22).
+Tal circunstância representa elemento concreto que justifica a prisão para garantia da ordem pública.
+Nesse sentido:HC n. 421.562/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/4/2018; eHC n. 421.310/PR, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 27/3/2018.
+No tocante à necessidade de reavaliar a prisão nos moldes do art. 316, parágrafo único, do Código de Processo Penal, segundo a jurisprudência desta Corte,odever dereavaliarperiodicamente, a cada 90 dias, a necessidade da prisão preventiva cessa com a formação de um juízo de certeza da culpabilidade do réu, declarado na sentença, e ingresso do processo na fase recursal. A partir de então, eventuais inconformismos com a manutenção daprisãopreventiva deverão ser arguidos pela defesa nos autos dorecursoou por outra via processual adequada prevista no ordenamento jurídico(AgRg no HC n. 618.069/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2020).
+Assim, mais uma vez concordo com o nobre Subprocurador-Geral da República quando, em seu parecer, destacou que,se o Recorrente já restou condenado em duas instâncias de julgamento, aguardando, nesse momento, apenas o trânsito em julgado de tal condenação, então, não há que se falar em revisão trimestral da custódia processual, havendo disciplina própria no Código de Ritos sobre a impugnação de eventual irregularidade na custódia cautelar(fl. 145).
+Ademais, o direito de o paciente recorrer em liberdade jáfoi discutido noHC n. 737.249/MG e, posteriormente, reiterado no HC n. 759.654/MG, no qual, inclusive, foi interposto recurso ordinário para o Supremo Tribunal Federal.
+Ante o exposto, à vista do parecer e dos precedentes,conheçoem partedohabeas corpus e, nessa extensão, denego a ordem. Prejudicado o pedido de tutela provisória de fls. 151/164.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. EXCESSO DE PRAZO NO JULGAMENTO DO RECURSO ESPECIAL. PERDA DO OBJETO. REAVALIAÇÃO NONAGESIMAL DA PRISÃO. INCUMBÊNCIA DO JUIZ DE PRIMEIRO GRAU. PRECEDENTE. PARECER ACOLHIDO.
+Habeas corpus conhecidoem parte e, nessaextensão, ordem denegada. Prejudicado o pedido de fls. 151/164.
