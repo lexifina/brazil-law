@@ -1,0 +1,6 @@
+DECISÃO
+O JUÍZO FEDERAL DA 4ª VARA DE CASCAVEL- SJ/PRsuscita conflito de competência, em processo penal, diante do JUÍZO FEDERAL DA 3ª VARA CRIMINAL DO RIO DE JANEIRO- SJ/RJ.
+Entretanto, como destacou o Ministério Público Federal, nada há que ser dirimido em relação àcontrovérsia sobre acompetência, haja vista que a decisão declinatória de primeiro grau, proferida pelo Juízo suscitado, foi reformada pelo Tribunal Regional Federal da 2ª Região, que, além de reconhecer a competência do referido Juízo, ainda determinou, na oportunidade,o trancamento da ação penal correspondente.
+Registre-se, ainda,que a decisão proferida pelo TRF 2ª Região foi objeto de recurso especial e de agravo em recurso especial (ARESP n. 2.146.777/RJ), o qual nemsequer foi conhecido por esta Corte, cuja decisão transitou em julgado em 8/8/2022. Logo, como assinalou o Parquet Federal, uma vez "verificado ter sido a decisão do juízo suscitado da 3ª Vara Federal Criminal do Rio de Janeiro declinatória da competência reformada por acórdão do TRF2, ratificado monocraticamente nesta Corte Superior, com trânsito em julgado, não remanesce qualquer conflito a dirimir" (fl. 568).
+Ante o exposto,com fundamento no art. 34, XXII, do RISTJ, não conheço do conflito de competência.
+Publique-se. Dê-se ciência ao Juízo suscitante.
