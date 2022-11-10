@@ -1,0 +1,30 @@
+DECISÃO
+O Ministério Público Federal, ao se manifestar nos autos, sumariou os fatos que deram ensejam à interposição do presente recurso (e-STJ fls. 722/724):
+Trata-se de Agravo em Recurso Especial interposto por Marcílio Antonio Santos, contra decisão proferida pelo e. Des. Presidente do e.Tribunal de Justiça do Estado de Sergipe, às fls. 639/642, que negou seguimento ao Recurso Especial do Agravante, tirado contra acórdão que deu parcial provimento à Revisão Criminal proposta pela Defesa, em face do acórdão que o condenara a 2 anos e 6 meses de detenção, como incurso nas sanções dos art.138 e 139, c/c art. 141, II, todos do Código Penal.
+De acordo com o caderno processual, o Recorrente foi condenado pelo Juízo de primeiro grau a uma pena total de 3 anos, 4 meses e 28 dias de detenção, e pagamento de 908 dias-multa, pelos crimes do art. 138 e 139, c/c art. 141, II, todos do Código Penal. (fl. 35)
+O Tribunal a quo deu provimento ao recurso de apelação interposto pela Defesa, para redimensionar a pena aplicada para 2 anos e 6 meses de detenção, e pagamento de 480 dias-multa. (fl. 35)
+O ora Agravante propôs Revisão Criminal perante o Tribunal a quo, que deu parcial provimento aos pedidos, em acórdão assim ementado:
+"REVISÃO CRIMINAL. CRIMES PREVISTOS NOS ARTIGOS 138 E 139 C/C O 141, II, TODOS DO CÓDIGO PENAL. PRELIMINAR DE OCORRÊNCIA DA PRESCRIÇÃO EM RELAÇÃO AO CRIME DE DIFA- MAÇÃO, PREVISTO NO ARTIGO 139 DO CP. ACOLHIDA. ALEGA- ÇÃO DE NULIDADE POR AUSÊNCIA DAS ELEMENTARES DO CRI- ME DE CALÚNIA E ERRO JUDICIÁRIO NA FIXAÇÃO DA PENA.INOCORRÊNCIA. QUESTÕES JÁ APRECIADAS EM SEDE DA APE- LAÇÃO CRIMINAL Nº 201300308556. REEXAME DE PROVAS. IM- POSSIBILIDADE. PRECEDENTES DESTA CORTE. PROCEDÊNCIA PARCIAL. ADEQUAÇÃO DA PENA ANTE A PRESCRIÇÃO DO CRIME DE DIFAMAÇÃO." (fls. 35/36)
+Opostos Embargos declaratórios pela Defesa, restaram rejeitados. Ainda inconformado, o ora Agravante aviou recurso especial com fulcro nasalíneas "a" e "c" do permissivo constitucional, deduzindo que o v. Aresto recorrido contrariou os artigos 138, 59 e 68, todos do Código Penal.
+Sustentou-se a atipicidade da conduta de calúnia, pois "não houve sequer a descrição do fato determinado e concreto apto a ensejar a prolação de decisum condenatório." (fl. 39) Nesse sentido, aduziu divergência jurisprudencial do que restou decidido na Ação Penal 428/TO.
+Ainda em torno deste tema, aduziu que "para que haja a subsunção de determinada conduta ao tipo previsto no art. 138 do Código Penal, mister se faz que ela contenha todos os elementos necessários à configuração do tipo, razão pela qual, inexistindo a imputação de fato concreto e determinado, inexiste, também, a tipicidade da conduta.." (fl. 41)
+Em seguida, argumentou-se que a pena foi exasperada porque a Corte a quo entendeu "ser a culpabilidade do réu exacerbada, pois o mesmo teria agido com frieza, planejamento e premeditação" mas que "a autoridade judicial não se ocupou, uma linha que seja, para esclarecer em que medida a frieza, premeditação ou planejamento fizeram parte do modus operandi do sentenciado, aqui recorrente." (fl. 45).
+Ainda, arguiu que "utilizar o abalo sofrido pela vítima como legitimador para justificar a fixação da pena-base de forma exacerbada configura inequívoco bis in idem." (fl. 48).
+Também se defendeu o direito do Agravante à fixação de sua pena-base no mínimo legal previsto, porque "das 08 (oito) circunstâncias judiciais analisadas, 07 (sete) delas depõem a favor do recorrente, sendo, portanto, majoritariamente favoráveis."(fl. 47).
+A douta decisão agravada indeferiu a subida do apelo nobre porque, a seu sentir, as insurgências recursais "visam, na verdade, a rever matérias fático/probatórias exaustivamente analisadas pela Corte local, o que é vedado pela Súmula nº. 07 do Tribunal Superior.." (fl. 639)
+Daí o presente agravo em recurso especial (fls. 647/662) sustentando equivocados os fundamentos adotados pela douta decisão agravada para negar trânsito ao apelo nobre.
+Requer o conhecimento do agravo para se dar trânsito ao recurso especial, provendo-o, ao final.
+Contraminuta do Ministério Público encontra-se às fls.665/672.
+Em seguida, vieram os autos, digitalizados, com vista ao Ministério Público Federal para emissão de parecer.
+Ao final, manifestou-se pelo desprovimento do agravo.
+É, em síntese, o relatório.
+A leitura do acórdão recorrido revela que os temas veiculados no recurso especial a que se refere o agravo ora em exame não foram apreciados, nem mesmo nosembargos de declaração, em razão de a Corte de origem ter concluído que não seria a hipótese de cabimento de revisão criminal.
+Confira-se o seguinte excerto do voto condutor do acórdão atacado (e-STJ fls. 688/689):
+No caso dos autos, pretende o ora Requerente a Revisão Criminal sob o fundamento de nulidade processual absoluta em razão da condenação por conduta atípica, ausência das elementares do crime de calúnia e nulidade processual absoluta em razão do error in judicando na fixação da pena, por violação aos arts. 59, 61 e 68, todos do CP.
+Contudo, conforme posso verificar de suas alegações, o que o Autor pretende é uma reapreciação dos fatos e provas, o que não é possível em sede de Revisão Criminal.
+ ..
+Nesses moldes, bem se vê que a ratio que anima todo o regramento da Ação Revisional, é não deixar a coisa julgada em permanente estado de instabilidade, vulnerável a ataques de qualquer linhagem. Daí estar pacificado na jurisprudência o entendimento de que o ajuizamento da revisional, não se presta à ampla e geral discussão daquilo que já foi tratado, à saciedade, nas vias ordinárias.
+Portanto, é evidente a ausência de prequestionamento das matérias objeto do apelo raro, uma vez que a ação de revisão criminal nem sequer foi conhecida, circunstância que impede o seu conhecimento.
+Em outras palavras, o Tribunal a quo limitou-se a decidir que os temas foram devidamente tratados no julgamento do recurso de apelação, e que não seria viável novo exame na via eleita.
+Ante o exposto, conheço do agravo para não conhecer do recursoespecial.
+Publique-se. Intimem-se.
