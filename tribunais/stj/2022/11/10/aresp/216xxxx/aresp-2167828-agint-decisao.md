@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de agravo interno interposto por INPAR PROJETO 94 SPE LTDA. contra a decisão proferida pela Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial em virtude da não impugnação específica de fundamento da decisão atacada, mais especificamente o óbice da Súmula nº 7/STJ (e-STJ fl. 736/738).
+Nas presentes razões (e-STJ fls. 741/746), a parte agravante aduz que refutou expressamente a incidência da Súmula nº 7/STJ, aduzindo a necessidade de revaloração jurídica dos fatos delineados no aresto proferido na origem.
+Ao final, requer a reconsideração da decisão atacada ou a submissão do feito ao colegiado.
+A parte contrária ofereceu impugnação às fls. 766/775 (e-STJ).
+É o relatório.
+DECIDO.
+Observa-se que a parte agravante, na petição de agravo de fls. 707/713(e-STJ), impugnou suficientemente os fundamentos da decisão que deixou de admitir o seu recurso especial, motivo pelo qual, exercendo o juízo de retratação facultado pelo art. 259, § 6º, do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão agravada e, ultrapassados os pressupostos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O apelo nobre, fundamentado nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÕES CÍVEIS - AÇÃO REVISIONAL DE CONTRATO - PROMESSA DE COMPRA E VENDA DE IMÓVEL - ATRASO NA ENTREGA - CULPA EXCLUSIVA DA CONSTRUTORA - INADIMPLEMENTO CONTRATUAL - CLÁSULA PENAL - INVERSÃO - POSSIBILIDADE - LUCROS CESSANTES - CUMULAÇÃO - IMPOSSIBILIDADE - DANO MORAL - VALOR - FIXAÇÃO - INCC - CORREÇÃO MONETÁRIA - LIMITE - DATA PREVISTA PARA ENTREGA DO IMÓVEL.
+- No contrato de compra e venda de imóvel, firmado entre comprador e construtora/incorporadora, a cláusula penal prevista apenas para a hipótese de inadimplemento do comprador também deve ser aplicada para a hipótese de inadimplemento da construtora/incorporadora (STJ, REsp 161472111)F, julgado sob a ótica de recurso repetitivo).
+- A cláusula penal moratória tem a finalidade de indenizar a parte lesada pelo adimplemento tardio da obrigação, e, em regra, tendo sido estabelecida em valor equivalente ao aluguel, afasta-se sua cumulação com lucros cessantes (STJ. REsp 1631485/DF, julgado sob a ótica de recurso repetitivo).
+- Dano moral é o que atinge aspectos constitutivos da identidade do indivíduo, a exemplo do seu corpo, do seu nome, da sua imagem e de sua aparência. A indenização pelo dano moral, mesmo não tendo suficiência para apagar o abalo experimentado pela vítima, pelo menos, servirá como um paliativo compensatório.
+- O atraso injustificado na entrega de imóvel adquirido pelo comprador é capaz de lhe causar dano moral, na medida em que se viu privado da utilização, por um longo período, desse imóvel.
+- A fixação do quantum do dano moral deve se ater: (1) à capacidade/possibilidade daquele que vai indenizar, já que não pode ser levado à ruína; (2) suficiência àquele que é indenizado, pela satisfação da compensação pelos danos sofridos.
+- Não se aplica o INCC para correção do saldo devedor após o transcurso da data limite para entrega da obra. (STJ, Agint no AREsp 1.126.802/RJ e Aglnt no AREsp 1511326/SP)" (e-STJ fl. 622).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 656/663).
+No recurso especial (e-STJ fls. 666/676), além de dissídio jurisprudencial, a recorrente alegou violação dos artigos 186, 187 e 927 do Código Civil.
+Aduziu a inexistência de conduta ilícita capaz de ensejar dano moral indenizável, visto que no caso dos autos houve o mero descumprimento de cláusulas contratuais, situando-se no campo do mero dissabor.
+Ao final, requereu o provimento do recurso.
+A parte contrária ofereceu contrarrazões às fls. 694/700 (e-STJ).
+A irresignação não merece prosperar.
+Trata-se, na origem, de ação revisional de contrato de compra e venda c/c indenização material e moral ajuizada por Henry Jen Figueiredo Ko em desfavor de Inpar Projeto 94 SPE ltda. objetivando a fixação de multa mensal a ser paga pela ré pelo atraso na entrega da obra, a condenação ao pagamento de indenização pelos lucros cessantes e danos morais, ocongelamento do saldo devedor até março de 2012 e a realização de hipoteca nos imóveis de propriedade daré e que o imóvel lhe seja entregue nos exatos termos da contratação.
+O magistrado de primeiro grau de jurisdição julgou pela parcial procedência dos pedidos para, dentre outras questões, condenar a parte ora recorrente ao pagamento de danos morais no valor de R$ 5.000,00 (cinco mil reais) ao fundamento de que "(..) o atraso injustificado da construtora por um período de 2 anos e 5 meses como apurado, extrapola o mero inadimplemento contratual e é suficiente para gerar dano moral ao autor, motivo pelo qual deve ser indenizado" (e-STJ fl. 441).
+O Tribunal local, por sua vez, negou provimento ao recurso da ré/recorrente edeu parcial provimento ao do autor/recorrido para majorar o valor do dano moral fixado na sentença para R$ 10.000,00 (dez mil reais)nos seguintes termos:
+"(..)
+No caso, o significativo atraso na entrega do imóvel adquirido pelo autor/2º apelante (mais de dois anos) foi capaz de lhe causar dano moral, na medida em que ele se viu privado da utilização, por um longo período, do imóvel adquirido.
+Ora, essa situação provocou angústia, adiamento de planos, com consequente frustração decorrente da conduta da ré/lªapelante, trazendo ao autor/2º apelante mal-estar e abalo psicológico.
+(..)
+Desse modo, em face da repercussão da ofensa na esfera íntima do autor/2º apelante, da condição financeira da ré/1ª apelante, e, ainda, diante de parâmetros de julgados desta Corte em casos semelhantes, o valor da indenização deve ser aumentado para R$ 10.000,00, mais razoável para amenizar o abalo moral sofrido" (e-STJ fls. 633 e 635).
+Irresignada, buscoua recorrente a reforma do julgado.
+Contudo, inviável a pretensão recursal de afastar a indenização fixada a título de indenização por danos morais.
+Isso porque, segundo orientação jurisprudencial do Superior Tribunal de Justiça, em regra, a demora na entrega do imóvel constitui mero inadimplemento contratual, o que, por si só, não gera o dever de indenizar.
+Porém, esta Corte entende que o excessivo atraso na entrega do imóvel evidencia situação excepcional capaz de superar o mero inadimplemento contratual.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CO MPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL DECORRENTE DO ATRASO NA ENTREGA.RESTITUIÇÃO DA COMISSÃO DE CORRETAGEM DEVIDA. PRESCRIÇÃO AFASTADA.INAPLICÁVEL A ORIENTAÇÃO DO TEMA 938/STJ. ACÓRDÃO CONSENTÂNEO COM O ENTEDIMENTO DESTA CORTE SUPERIOR. ATRASO EXPRESSIVO. DANO MORAL VERIFICADO. PRECEDENTES. EXCESSIVO VALOR INDENIZATÓRIO. INOVAÇÃO RECURSAL.AGRAVO INTERNO DESPROVIDO"(AgInt no AREsp n. 1.923.527/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+"CONSUMIDOR E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DE OBRA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LUCROS CESSANTES. CABIMENTO. DANO MORAL. ATRASO SUBSTANCIAL. CONDENAÇÃO. POSSIBILIDADE. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "Nos termos da jurisprudência do STJ, o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador"(EREsp 1341138/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 22/05/2018).
+3. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Em casos como o dos autos, entretanto, em que o Tribunal de origem consigna que o atraso foi excessivo, a jurisprudência admite o arbitramento de indenização. Precedentes.
+4. A alteração das premissas fáticas estabelecidas no acórdão impugnado encontra óbice na Súmula n. 7/STJ.
+5. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos"(AgInt no AREsp n. 1.818.562/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 30/8/2021, DJe de 1/9/2021.)
+"AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. CPC/2015. INCORPORAÇÃO IMOBILIÁRIA. ATRASO NA ENTREGA DA OBRA. LONGO PRAZO. AQUISIÇÃO PARA FIM DE MORADIA. OCORRÊNCIA DE DANO MORAL. LUCROS CESSANTES. PRESUNÇÃO. PRECEDENTE ESPECÍFICO. TERMO "AD QUEM". DATA DA DISPONIBILIZAÇÃO DAS CHAVES AO ADQUIRENTE. JULGADOS DESTA CORTE SUPERIOR. TAXA CONDOMINIAL. COBRANÇA ANTERIOR À ENTREGA DAS CHAVES. DESCABIMENTO. CASO CONCRETO. QUITAÇÃO INTEGRAL DO PREÇO PELO CONSUMIDOR. RECURSO PROTELATÓRIO. APLICAÇÃO DE MULTA.
+1. Controvérsia acerca das consequências do atraso de um ano e seis meses na entrega de um imóvel adquirido para fim de moradia sob o regime da incorporação imobiliária, tendo o consumidor quitado o preço, segundo a moldura fática delineada no acórdão recorrido.
+2. Ocorrência de dano moral em virtude do longo período de atraso (um ano e seis meses) na entrega de imóvel adquirido para fim de moradia do próprio adquirente. Julgados desta Corte Superior.
+Questão afetada ao Tema 996/STJ, sem determinação de sobrestamento de processos.
+(..)
+6. AGRAVO INTERNO DESPROVIDO, COM APLICAÇÃO DE MULTA"(AgInt no REsp 1.792.742/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 26/08/2019, DJe 30/08/2019.)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. FORTUITO INTERNO. FALHA GEOLÓGICA NO TERRENO. RISCO INERENTE À ATIVIDADE. DANO MORAL. ATRASO EXPRESSIVO SUPERIOR A DOIS ANOS. EXISTÊNCIA DE CIRCUNSTÂNCIA EXCEPCIONAL. JUROS DE MORA. TERMO INICIAL. CITAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. O simples inadimplemento contratual em razão do atraso na entrega do imóvel não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar a lesão extrapatrimonial.
+3.Na hipótese, o atraso de mais de dois anos na entrega do imóvel supera o mero inadimplemento contratual, devendo ser mantida a indenização por danos morais. Precedentes.
+4. Os juros moratórios, nos casos de responsabilidade contratual, fluem a partir da data de citação. Precedentes.
+5. Agravo interno a que se nega provimento"(AgInt no AREsp 941.250/RJ, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 19/03/2019, DJe 29/03/2019.)
+No presente caso, conforme já visto, as instâncias ordinárias apontarama demora excessiva na entrega da unidade imobiliária em mais de 2 (dois) anos.
+Assim, observa-se que o posicionamento adotado pela Corte de origem encontra-se em consonância com a jurisprudência do STJ, razão pela qual não merece prosperar a irresignação, a teor do que dispõe a Súmula nº 568/STJ.
+Ademais, a revisão do julgado quanto ao ponto esbarra na Súmula nº 7/STJ, tendo em vista que não há como afastar a conclusão da instância ordinária de que houve demora excessiva na entrega do imóvel sem esbarrar no conjunto fático-probatório constante dos autos.
+Por fim,pela alínea "c" do permissivo constitucional, omesmo óbicesumularinviabilizao conhecimento do recurso especial.
+Além disso, nos termos dos artigos 1.029, § 1º, do Código de Processo Civil de 2015 e 255, § 1º, do Regimento Interno do Superior Tribunal de Justiça, a divergência jurisprudencial deve ser comprovada e demonstrada, em qualquer caso, com a transcrição dos trechos dos arestos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não ocorreu na espécie.
+Não basta a simples transcrição de ementas e de parte dos votos sem que seja realizado o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+Ante o exposto, reconsidero a decisão de fls. 736/738 (e-STJ) e conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Em observância ao art. 85, § 11, do CPC/2015, majoro em 2% (dois por cento) a verba honorária atribuída à recorrente, sobre o valor arbitrado pela Corte local, em favor do patrono da parte recorrida, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
