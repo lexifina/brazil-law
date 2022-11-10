@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  BANCO  ITAÚ  CONSIGNADO  S.A. ,  fundamentado  no  artigo  105,  inciso  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  contra  o  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do  Rio  Grande  do  Sul  assim  ementado:
+"APELAÇÃO  CÍVEL.  NEGÓCIOS  JURÍDICOS  BANCÁRIOS.  AÇÃO  REVISIONAL.
+Juros  remuneratórios.  Caracterizada  a  abusividade  dos  juros  remuneratórios  à  vista  da  taxa  média  do  mercado  divulgada  pelo  BACEN.
+Mora.  A  revisão  de  encargos  da  normalidade  autoriza  a  descaracterização  da  mora.
+Compensação/repetição  do  indébito.  Admitida  na  forma  simples.
+APELO  PROVIDO"  (fl.  167  e-STJ  -  grifou-se).
+Os  embargos  de  declaração  opostos  foram  rejeitados  (fls.  189/191  e-STJ).
+No  recurso  especial  (fls.  202/214  e-STJ),  além  de  divergência  jurisprudencial,  o  recorrente  alega  violação  dos  arts.  1º  e  4º,  IX,  da  Lei  nº  4.595/1964;  39,  51  e  52,  II  e  §  1º,  do  Código  de  Defesa  do  Consumidor  e  397  e  406  do  Código  Civil.
+Aduz  que  os  juros  remuneratórios  contratados  não  são  abusivos,  pois  fixados  com  uma  variação  razoável  da  taxa  média  de  mercado.
+Sustenta  que  a  limitação  dos  juros  remuneratórios  se  justifica  quando,  no  caso  concreto,  verifica-se  "significativa  discrepância  entre  o  percentual  contratado  e  a  taxa  média  de  mercado  para  operação  equivalente,  divulgada  pelo  Banco  Central"  (fl.  205  e-STJ).
+Defende  que,  a  taxa  média  é  um  referencial  a  ser  considerado  e  não  um  limite  que  deve  ser  imposto.
+Aponta  o  REsp  1.061.530/RS,  julgado  no  rito  do  recurso  repetitivo,  como  acórdão  paradigma  da  controvérsia.
+Afirma,  ainda,  que  "não  há  qualquer  razão  para  a  descaracterização  da  mora  na  espécie"  (fl.  213  e-STJ).
+Após  as  contrarrazões,  o  recurso  foi  admitido  na  origem.
+  É  o  relatório.
+DECIDO.
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  em  data  anterior  à  publicação  da  Emenda  Constitucional  nº  125,  não  se  aplicando  ao  caso  o  requisito  de  admissibilidade  por  ela  inaugurado,  ou  seja,  a  demonstração  da  relevância  das  questões  de  direito  federal  infraconstitucional.
+A  irresignação  não  merece  prosperar.
+Insurge-se  o  recorrente  contra  o  entendimento  da  instância  ordinária  que  reconheceu  a  abusividade  dos  juros  remuneratórios  na  contratação  de  empréstimo  consignado.
+É  cediço  que  as  instituições  financeiras  não  se  sujeitam  à  limitação  dos  juros  remuneratórios  que  foi  estipulada  pela  Lei  de  Usura  (Decreto  nº  22.626/33),  em  consonância  com  a  Súmula  nº  596/STF,  sendo  também  inaplicável  o  disposto  no  art.  591,  c/c  o  art.  406,  do  Código  Civil  para  esse  fim,  salvo  nas  hipóteses  previstas  em  legislação  específica.
+A  redução  dos  juros  dependerá  de  comprovação  da  onerosidade  excessiva  -  capaz  de  colocar  o  consumidor  em  desvantagem  exagerada  -  em  cada  caso  concreto,  tendo  como  parâmetro  a  taxa  média  de  mercado  para  as  operações  equivalentes,  de  modo  que  a  simples  estipulação  de  juros  remuneratórios  superiores  a  12%  (doze  por  cento)  ao  ano,  por  si  só,  não  indica  abusividade,  nos  termos  da  Súmula  nº  382  do  Superior  Tribunal  de  Justiça.
+Nesse  sentido,  o  REsp  nº  1.061.530/RS,  da  relatoria  da  Ministra  Nancy  Andrighi,  submetido  ao  regime  dos  recursos  repetitivos,  julgado  pela  Segunda  Seção,  com  a  seguinte  ementa,  ora transcrita na  parte  que  interessa:
+"DIREITO  PROCESSUAL  CIVIL  E  BANCÁRIO.  RECURSO  ESPECIAL.  AÇÃO  REVISIONAL  DE  CLÁUSULAS  DE  CONTRATO  BANCÁRIO.  INCIDENTE  DE  PROCESSO  REPETITIVO.  JUROS  REMUNERATÓRIOS.  (..)  ORIENTAÇÃO  1  -  JUROS  REMUNERATÓRIOS
+a)  As  instituições  financeiras  não  se  sujeitam  à  limitação  dos  juros  remuneratórios  estipulada  na  Lei  de  Usura  (Decreto  22.626/33),  Súmula  596/STF;
+b)  A  estipulação  de  juros  remuneratórios  superiores  a  12%  ao  ano,  por  si  só,  não  indica  abusividade;
+c)  São  inaplicáveis  aos  juros  remuneratórios  dos  contratos  de  mútuo  bancário  as  disposições  do  art.  591  c/c  o  art.  406  do  CC/02;
+d)  É  admitida  a  revisão  das  taxas  de  juros  remuneratórios  em  situações  excepcionais,  desde  que  caracterizada  a  relação  de  consumo  e  que  aabusividade  (capaz  de  colocar  o  consumidor  em  desvantagem  exagerada  art.  51,  §1º,  do  CDC)  fique  cabalmente  demonstrada,  ante  às  peculiaridades  do  julgamento  em  concreto".
+No  caso  presente,  as  instâncias  ordinárias  concluíram  pela  onerosidade  excessiva  dos  juros,  comparando  a  taxa  média  de  mercado  com  a  taxa  contratada.
+A  reforma  do  acórdão  estadual,  no  que  diz  respeito  ao  percentual  da  taxa  média  de  mercado,  exigiria  o  reexame  de  provas  e  de  cláusulas  contratuais,  procedimentos  inviáveis  na  estreita  via  do  recurso  especial  (Súmulas  nºs  5  e  7/STJ).
+A  propósito:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA  C/C  PEDIDO  CONDENATÓRIO.  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO.  INSURGÊNCIA  RECURSAL  DA  PARTE  AUTORA.
+(..)
+4.  A  jurisprudência  deste  STJ  é  assente  no  sentido  de  que  os  juros  remuneratórios  cobrados  pelas  instituições  financeiras  não  sofrem  a  limitação  imposta  pelo  Decreto  nº  22.626/33  (Lei  de  Usura),  a  teor  do  disposto  na  Súmula  596/STF  (cf.  REsp  n.  1.061.530  de  22.10.2008,  julgado  pela  Segunda  Seção  segundo  o  rito  dos  recursos  repetitivos).  Para  que  se  reconheça  abusividade  no  percentual  de  juros,  não  basta  o  fato  de  a  taxa  contratada  suplantar  a  média  de  mercado,  devendo-se  observar  uma  tolerância  a  partir  daquele  patamar,  de  modo  que  a  vantagem  exagerada,  justificadora  da  limitação  judicial,  deve  ficar  cabalmente  demonstrada  em  cada  caso,  circunstância  inocorrente  na  hipótese  dos  autos.
+4.1.  Ademais,  para  derruir  as  conclusões  contidas  no  decisum  e  acolher  o  inconformismo  recursal  no  sentido  de  verificar  a  abusividade  ou  não  da  taxa  de  juros  contratada,  seria  imprescindível  a  incursão  no  acervo  fático  e  probatório  dos  autos  e  a  análise  de  cláusulas  contratuais,  providências  vedadas  na  via  estreita  do  recurso  especial,  ante  aos  óbices  estabelecidos  pelas  Súmulas  5  e  7/STJ.
+  5.  Agravo  interno  desprovido"  (AgInt  no  AREsp  1.480.368/MG,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  DJe  28/5/2021).
+Registra-se, ainda,  que,  consoante  iterativa  jurisprudência  desta  Corte,  a  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+É  o  que  se  observa  do  seguinte  julgado:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA  DE  INEXISTÊNCIA  DE  DÉBITO  C/C  REPETIÇÃO  DE  INDÉBITO  E  INDENIZAÇÃO  POR  DANOS  MORAIS.  PRESCRIÇÃO  CONSUMADA.  DESCONSTITUIÇÃO  DO  ENTENDIMENTO  DO  ACÓRDÃO  RECORRIDO.  IMPOSSIBILIDADE.  ANÁLISE  FEITA  COM  BASE  NO  SUPORTE  FÁTICO-PROBATÓRIO  DOS  AUTOS.  SÚMULA  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL  NÃO  DEMONSTRADA.  AGRAVO  INTERNO  DESPROVIDO.  1.  Rever  as  conclusões  das  instâncias  ordinárias  quanto  à  ocorrência  de  prescrição  da  ação  declaratória  de  inexistência  de  débito  cumulada  com  repetição  de  indébito  e  indenização  por  danos  morais  exige,  necessariamente,  a  incursão  no  material  fático-probatório  dos  autos,  notadamente  porque  as  alegações  da  recorrente  são  no  sentido  de  considerar  outro  termo  inicial  para  a  contagem  do  prazo  prescricional,  o  que  atrai  a  aplicação  da  Súmula  7/STJ.
+2.  No  que  toca  ao  conhecimento  do  apelo  especial  por  divergência  jurisprudencial,  também  não  colhe  êxito.  Isso  porque  julgado  fundado  em  fatos  e  provas  (incidência  da  Súmula  7/STJ)  não  enseja  a  possibilidade  de  demonstração  da  similitude  fática,  conforme  tranquilo  entendimento  desta  Corte  Superior.
+3.  Agravo  interno  desprovido"  (AgInt  no  AREsp  1.114.253/MS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  DJe  6/11/2017  -  grifou-se).
+Por  fim,  n  o  que  se  refere  à  descaracterização  da  mora,  a  constatação  do  abuso  na  exigência  de  encargos  durante  o  período  da  normalidade  contratual  -  notadamente  na  taxa  de  juros  contratada  -  afasta  a  configuração  da  mora.
+Referida  matéria  foi  consolidada  nesta  Corte,  no  julgamento  do  REsp  1.061.530/RS,  da  relatoria  da  Ministra  Nancy  Andrighi,  submetido  ao  regime  dos  recursos  repetitivos,  pela  Segunda  Seção,  com  a  seguinte  ementa:
+"DIREITO  PROCESSUAL  CIVIL  E  BANCÁRIO.  RECURSO  ESPECIAL.  AÇÃO  REVISIONAL  DE  CLÁUSULAS  DE  CONTRATO  BANCÁRIO.  INCIDENTE  DE  PROCESSO  REPETITIVO.  (..)  CONFIGURAÇÃO  DA  MORA.  (..)  ORIENTAÇÃO  2  -  CONFIGURAÇÃO  DA  MORA
+a)  O  reconhecimento  da  abusividade  nos  encargos  exigidos  no  período  da  normalidade  contratual  (juros  remuneratórios  e  capitalização)  descarateriza  a  mora;
+b)  Não  descaracteriza  a  mora  o  ajuizamento  isolado  de  ação  revisional,  nem  mesmo  quando  o  reconhecimento  de  abusividade  incidir  sobre  os  encargos  inerentes  ao  período  de  inadimplência  contratual"  (grifou-se).
+O  acórdão  verificou  a  cobrança  de  encargo  declarado  abusivo  -  juros  remuneratórios  acima  da  taxa  média  de  mercado  -  no  período  da  normalidade  contratual,  o  que  descaracteriza  a  mora.
+Ante  o  exposto,  nego  provimento  ao  recurso  especial.
+Na  origem,  os  honorários  sucumbenciais  foram  fixados  em  R$  1.500,00  (um  mil  e  quinhentos  reais)  a  serem  pagos  pela  recorrente  em  virtude  da  inversão  dos  ônus  da  sucumbência.
+Assim,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil  de  2015,  os  honorários  sucumbenciais  fixados  pelas  instâncias  de  origem,  devidos  pela  parte  ora  recorrente,  devem  ser  acrescidos  em  R$  225,00  (duzentos  e  vinte  e  cinco  reais),  observado  o  benefício  da  gratuidade  da  justiça,  se  for  o  caso.
+Publique-se.
+Intimem-se.
