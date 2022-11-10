@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por JEFFERSON DO ESPÍRITOSANTO PEDROcontra decisão do Tribunal de Justiça do Estado de São Pauloque inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, interposto contra acórdão proferido na Apelação Criminal n. 0010891-13.2010.8.26.0590.
+Consta nos autos que o Agravante foi condenado a 4(quatro) anos e 01(um) mês de reclusão, em regime fechado, e 12 (doze) dias-multa,pelo delito do art. 180, §§ 1.º e 2.º, do Código Penal (fls. 530-531).
+À apelação defensiva a Corte de origem negou provimento (fls. 615-627).
+Os embargos de declaração defensivos foram rejeitados (fls. 670-678).
+Nas razões do apelo nobre, a Defesa aponta violação dos arts. 33, § 2.º, alíneab; 59 e 64, inciso I, todos do Código Penal(fl. 705), aduzindo, em suma, que a condenação pretérita nos autos n. 590.01.2002.018198-4,utilizada para configurar os maus antecedentes, foi alcançada peloperíodo depurador de cinco anos e, por isso, não deveservir de fundamento válido para elevar a pena-base e nem para justificar o regime mais severo(fls. 705-707).
+Foram apresentadas contrarrazões (fls. 709-741). O recurso especial não foi admitido (fls. 755-756). Foi interposto agravo (fls. 781-786).
+O Ministério Público Federal apresentou parecer, opinando pelo não conhecimento do agravo (fls. 877-878).
+É o relatório.
+Decido.
+A Corte local superou a tese de depuração da condenação pretérita nestes termos (fl. 624, sem grifos no original):
+"As reprimendas foram criteriosamente fixadas e não comportam reparo.
+Na primeira fase, em atenção aos critérios norteadores do artigo 59, do Código Penal, as básicas de Alexsandro e Samuel foram fixadas no mínimo legal, estabelecidas em 03 (três) anos de reclusão e pagamento de 10 (dez) dias-multa, no valor mínimo, enquanto que a de Jefferson foi majorada em 1/6 em razão dos seus antecedentes (processo n 590.01.2002.018198-4, controle 525/2002, apenso), alcançando 03 anos e 06 meses de reclusão, mais 11 dias-multa.
+ ..
+Para que não fique sem registro, observo ser absolutamente irrelevante o decurso do lapso quinquenal para o reconhecimento dos maus antecedentes. "
+De início, registro que o entendimento do Superior Tribunal de Justiça é o deque as condenações anteriores transitadas em julgado e extintas há mais de 5 (cinco) anos da data do novo delito, apesar de não configurarem a reincidência, diante do período depurador previsto no art. 64, inciso I, do Código Penal, podem ser utilizadas para caracterizar maus antecedentes.
+Ademais, o Supremo Tribunal Federal, no julgamento do RE n. 593.818/SC, sob o regime da repercussão geral (Tema n. 150), fixou a tese de que: "Não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal".
+Entretanto, é certo que, em recentes julgados, ambas as Turmas que compõem a Terceira Seção desta Corte Superior posicionaram-se no sentido de que a avaliação dos antecedentes deve ser feita com observância aos princípios da proporcionalidade e da razoabilidade, levando-se em consideração o lapso temporal transcorrido desde a prática criminosa.
+Na hipótese dos autos, não constatoa possibilidade de afastamento dos maus antecedentes, na medida em que os fatos tratados nestes autos ocorreram em 11/06/2010 (fl. 04) e a condenação que serviu de esteio para valorar negativamente os antecedentes se deu pelo crime do art. 157, § 2.º, incisos I e II, do Código Penal, em quefoi condenado às penas de 5 (cinco) anos, 7 (sete) meses e 6 (seis) dias de reclusão e pagamento de 14 (quatorze) dias-multa, constante do processo n. 590.01.2002.018198-4, transitou em julgadoem 28/08/2003 (fl. 11 do apenso 2).
+Portanto, à míngua de informação precisa quanto à data da extinção da punibilidade pelo cumprimento da pena imposta por ocasiãodessa condenação, não se mostrapossível compreender que,entre a condenação que permitiu considerar desfavoráveis os antecedentes do Réu e a prática do delito tratado nestes autos, houve transcurso de tempo suficiente para o reconhecimento do direito pleiteado.
+A propósito:
+" ..
+1. "A jurisprudência deste Tribunal é assente no sentido de que as condenações alcançadas pelo período depurador de 5 anos, previsto no art. 64, inciso I, do Código Penal, afastam os efeitos da reincidência, mas não impedem a configuração de maus antecedentes, permitindo, assim, o aumento da pena-base. Nesse diapasão, "para valorar negativamente os antecedentes, o tempo transcorrido após o cumprimento ou extinção da pena não elimina essa circunstância judicial desfavorável, tendo em vista a adoção pelo Código Penal do sistema da perpetuidade: ao contrário do que se verifica na reincidência (CP, art. 64, I), o legislador não limitou temporalmente a configuração dos maus antecedentes ao período depurador quinquenal." (HC 357.043/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 23/08/2016)"(AgRg no HC n. 731.559/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 9/8/2022, DJe de 18/8/2022).
+2. Agravo regimental desprovido."(AgRg no HC n. 736.799/SC, relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 27/9/2022, DJe de 30/9/2022, grifei.)
+" ..
+1. É firme a jurisprudência desta Corte Superior de Justiça no sentido de que as condenações atingidas pelo período depurador de 5 (cinco) anos, previsto no art. 64, inciso I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração dos maus antecedentes, nos termos do art. 59 do CP. Precedentes.
+2. O Supremo Tribunal Federal, no exame do RE n. 593.818 (Tema 150 - repercussão geral), de relatoria do Ministro LUÍS ROBERTO BARROSO, publicado no DJE de 23/11/2020, fixou a tese de que não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal.
+ ..
+8. Agravo regimental não provido." (AgRg no AREsp n. 2.115.624/RS, relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022, grifei.)
+Ante o exposto, CONHEÇO do agravo para CONHECER e NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. DELITO DO ART. 180, §§ 1.º E 2.º, DO CÓDIGO PENAL.ALEGADA DEPURAÇÃO DE CONDENAÇÃO UTILIZADA PARA NEGATIVAR OS ANTECEDENTES E PARA LASTREAR O REGIME MAIS SEVERO.CONDENAÇÕES ALCANÇADAS PELO PERÍODO DEPURADOR AFASTAM A REINCIDÊNCIA, MAS CONFIGURAM MAUS ANTECEDENTES. PRECEDENTES DO STF E DO STJ. AGRAVO CONHECIDO PARA CONHECER E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
