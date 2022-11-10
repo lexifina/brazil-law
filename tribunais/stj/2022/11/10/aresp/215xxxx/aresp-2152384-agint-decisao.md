@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno interposto por BRUNO PALAZZINI NETOcontradecisão da Presidência desta Corte que não conheceu do agravo emrazão da incidência da Súmula n. 182/STJ, porque não impugnados os fundamentos da decisãode inadmissibilidade proferida pelo Tribunal de origem, tendo deixado o agravante de impugnar especificamente a incidência da Súmula n. 7 desta Corte(fls. 945-947).
+Em suas razões, o agravante afirma que"a r. decisão de admissibilidade deixou de indicar quais os argumentos trazidos com o Recurso Especial demandariam a análise de questões de fato de forma a fazer incidir a Súmula nº 7 desta E. Corte sem que se pudesse fazer o enfrentamento de argumentos lançados de forma genérica no corpo da r. decisão" (fl. 971).
+Argumenta que "formou-se armadilha processual com a inadmissão do Recurso Especial por violação à Súmula nº 7 deste E. STJ, a qual seguiu-se sem esclarecimento na r. decisão agravada situação que logicamente inviabilizou qualquer impugnação direta ou específica" (fl. 971).
+Sustenta, ademais, que, "ao contrário do colocado na r. decisão agravada, foi feito o combate dos argumentos que continham um mínimo conteúdo de motivação, mas era impossível ao agravante atacar a vaga menção de violação a Súmula nº 7 do E. STJ" (fl. 971).
+Afirma, por fim, que,"diferentemente da r. decisão agravada, claramente se identifica que não ocorreu violação à Súmula nº 182 do E. STJ, pois o Agravo em Recurso Especial atacou especificamente os fundamentos da r. decisão que inadmitiu o Recurso Especial" (fl. 973).
+Requer a reconsideração da decisão agravada ou a análise do agravo interno pelo órgão colegiado.
+Não foram apresentadas contrarrazões (fl. 1.023).
+É o relatório. Passo a decidir.
+O recurso especial interposto pelo ora agravante foi inadmitido peloPresidente da Seção de Direito Público do Tribunal de Justiça do Estado de São Paulo àbase dos seguintes fundamentos (fls. 860/862):
+Com efeito, a apregoada afronta aos artigos 489 e 1022 do Código de Processo Civil não enseja a abertura da via especial porque o acórdão não está desprovido de fundamentação. Deve observar-se que a motivação contrária ao interesse da parte, ou mesmo omissa em relação a pontos considerados irrelevantes pelo decidido, não se traduz em maltrato às normas apontadas como violadas.
+ ..
+Por fim, os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas, isso sem falar que rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Col. Superior Tribunal de Justiça.
+Nas razões do agravo em recurso especial de fls. 865-925, oagravante desenvolveu argumentação suficiente para contrastar a motivação do decisum, havendo no aludido recurso tópicos específicos e fundamentados para impugnar a decisão quanto à incidência da Súmula n. 7/STJ e quanto à violação dos arts. 489 e 1022 do CPC/15, de modoque é forçoso reconhecer,para fins de conhecimento do agravo, que os fundamentos da decisão agravada foram impugnados.
+Nesse contexto, nos termos do art. 259, § 3º, do RISTJ,em juízo de retratação, tornosem efeito a decisão de fls. 945-947,e determino a remessa dos autos ao Ministério Público Federal para parecer.
+Publique-se e intimem-se.
+EMENTA
+PROCESSUAL CIVIL E AMBIENTAL.AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. ART. 932, INCISO III, DO CPC/15. SÚMULA N. 182/STJ. IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. DECISÃO AGRAVADA RECONSIDERADA.
