@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto por CLARO S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"EMBARGOS DE DECLARAÇÃO. DIREITO PRIVADO NÃOESPECIFICADO. AÇÃO DE RESCISÃO CONTRATUAL CUMULADACOM PEDIDOS DE INDENIZAÇÃO POR DANOS MATERIAIS EMORAIS. EMBARGOS DE DECLARAÇÃO OPOSTOS PELA PARTE AUTORA. GRATUIDADE JUDICIÁRIA. SENDO A PARTE BENEFICIÁRIA DAGRATUIDADE JUDICIÁRIA, FICARÃO SOB CONDIÇÃO SUSPENSIVADE EXIGIBILIDADE AS OBRIGAÇÕES DECORRENTES DE SUASUCUMBÊNCIA. INTELIGÊNCIA DO DISPOSTO NO ARTIGO 98, § 3º,DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO VERIFICADA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SENDO DISPENSADA AAPRESENTAÇÃO DE CONTRARRAZÕES, VEZ QUE AUSENTE AHIPÓTESE PREVISTA NO ARTIGO 1.023, § 2º, DO SUPRACITADOREGRAMENTO. EMBARGOS DE DECLARAÇÃO OPOSTOS PELARÉ. ALEGAÇÃO DE OMISSÃO. NÃO CARACTERIZADA, NOS PONTOSSUSCITADOS, QUALQUER DAS HIPÓTESES PREVISTAS PELOARTIGO 1.022 DO CPC. PRETENSÃO DE REEXAME DO MÉRITORECURSAL. VIA PROCESSUAL INADEQUADA PARA TANTO. PREQUESTIONAMENTO. DESNECESSIDADE DE QUE O ÓRGÃOJULGADOR SE MANIFESTE EXPRESSAMENTE A RESPEITO DASTESES E DISPOSITIVOS LEGAIS APONTADOS PELAS PARTES QUENÃO SE MOSTREM CAPAZES DE INFIRMAR A CONCLUSÃOADOTADA PELO MAGISTRADO. APLICABILIDADE DOSDISPOSITIVOS LEGAIS PREQUESTIONADOS, NA FORMAREQUERIDA PELA PARTE, QUE RESTOU IMPLICITAMENTEREPELIDA PELA FUNDAMENTAÇÃO DO JULGADO. INTELIGÊNCIADO DISPOSTO NO ARTIGO 489, INCISO III, DO REGRAMENTOPROCESSUAL EM VIGOR. RECURSO DA RÉ DESACOLHIDO. UNÂNIME. ACOLHERAM OS EMBARGOS DE DECLARAÇÃO DAAUTORA E DESACOLHERAM OS EMBARGOS DA RÉ"(fl. 630, e-STJ).
+No recurso especial, a recorrente alega, além de dissídio jurisprudencial, violação dos arts. 884 do Código Civil e 1.022do Código de Processo Civil de 2015.
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Inicialmente, observa-se que, no caso em apreço, as questões trazidas aos autos foram devidamente analisadas e discutidas, e fundamentado corretamente o aresto impugnado, de modo a exaurir a prestação jurisdicional, não há falar em violação doart. 1.022 do CPC/2015.
+Ademais, quanto à comprovação do prejuízo a ensejar a indenização por danos morais, o tribunal estadual consignou:
+"(..)
+No caso dos autos, tenho que estes requisitos restaram comprovados em decorrência da afetação da imagem da recorrente que, por longo período, foi relegada, ainda que de modo indireto, à condição de insuficiente ou incompetente para a realização dos serviços da empresa ré. Circunstância que, inquestionavelmente, se revela hábil à caracterização do prejuízo objetivo a sua boa fama, colocação no mercado e, até mesmo, perante outros potenciais consumidores sendo, por consequência, daí presumido também o prejuízo de natureza econômica"(fl. 601, e-STJ-grifou-se).
+Nesse contexto, não é possível a este Tribunal Superior apreciar o entendimento exarado na origem, porquanto teria que, necessariamente, rever o contexto fático-probatório dos autos, procedimento inviável nesta via extraordinária, consoante disposto na Súmula nº 7/STJ.
+Anota-se, ainda, que a aplicação do enunciado nº 7 da Súmula do STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Em observância ao art. 85, § 11, do Código de Processo Civil de 2015, deixo de majorar os honorários advocatícios, haja vista que, na origem, já foram estipulados no patamar máximo (20% sobre valor da condenação).
+Publique-se.
+Intimem-se.
