@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de requerimento formulado em favor de EDUARDO ASTIGARRAGA DE CASTRO, no qual a impetrante pleiteia a expedição de comunicação ao eg. Tribunal de origem, para que cumprimento da decisão de fls. 519-523, que não conheceu do presente habeas corpus, mas concedeu a ordem, de ofício.
+Sustenta, nesse sentido que "tendo em vista que, conforme documentos em anexo, o paciente está cumprindo a pena anteriormente aplicada, em regime fechado, há cerca de 01 ano e, considerando-se a decisão anterior, a pena privativa de liberdade poderá substituída por restritiva de direitos, solicito seja determinada a suspensão da execução da pena anterior, com imediata colocação do paciente em liberdade, eis que a presente situação figura constrangimento ilegal." (fl. 528).
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Isto porque, consoante informações prestadas pelo d. juízo de primeiro grau, verifica-se que, em 26/08/2022, o d. Juízo da 10ª Vara Criminal da Comarca de Porto Alegre/RS procedeu à adequação da r. sentençacondenatória, inverbis:
+"A fim de dar cumprimento ao decidido no HC nº 748737, que reconheceu a incidência da minorante prevista no art. 33, §4º da Lei nº 11.343/06 ("Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa"), reduzo a pena em 1/3 (1 ano, 11 meses e 10 dias), já que se trata da apreensão de aproximadamente 1kg de maconha, a alcançar um maior número de usuários, perfazendo 03 (TRÊS) ANOS, 10 (DEZ) MESES E 20 (VINTE) DIAS DE RECLUSÃO, que torno definitiva à míngua de outras causas de modificação.
+Em virtude do reconhecimento da minorante, necessária a readequação da pena de multa, de modo que originariamente fixada em 500 (quinhentos) dias-multa, vai elevada em 1/6 e reduzida em 1/3, conforme parâmetros utilizados no reconhecimento da majorante e da minorante acima, totalizando 394 (TREZENTOS E NOVENTA E QUATRO) DIAS-MULTA. no valor unitário mínimo de 1/30 do salário mínimo mensal vigente ao tempo do fato, tendo em conta a situação econômica do réu.
+O regime de cumprimento da pena privativa de liberdade imposta ao réu será ABERTO, nos termos do art. 33, § 2º, alínea "c", do "Codex" repressivo, considerando o total da pena aplicado e a primariedade do agente.
+Presentes os requisitos do art. 44 do Código Penal, substituo a pena privativa de liberdade imposta ao acusado por 02 (duas) restritivas de direito, consistente na prestação de serviços à comunidade, devendo ser cumprida à razão de uma hora de tarefa por dia de condenação (art. 44, §2º e art. 46, §3º, ambos do Código Penal), em local a ser designado pela VEPMA; e prestação pecuniária no valor de 01 (um) salário mínimo à entidade a ser definida pela VEPMA.
+ISSO POSTO, vai redimensionada a pena definitiva do réu EDUARDO ASTIGARRAGA DE CASTRO para 03 (três) anos, 10 (dez) meses e 20 (vinte) dias de reclusão, a ser cumprida em regime aberto, substituída por prestação de serviços à comunidade e prestação pecuniária, e a pena de multa para 394 (trezentos e noventa e quatro) dias-multa, à razão unitária mínima.
+Diante da pena fixada e do regime prisional, revogo a prisão preventiva de EDUARDO ASTIGARRAGA DE CASTRO.
+Expeça-se alvará de soltura, se por al não estiver preso, observando-se que a prisão fora decretada na ação ordinária (50997119320218210001).
+Publique-se, registre-se e intimem-se as partes, trasladando-se, oportunamente, a presente decisão aos autos principais (50997119320218210001).
+Comunique-se o MM. Relator do HC nº 748737." (fls. 544-545, grifei).
+Desse modo, forçoso reconhecer a prejudicialidade dopedido formulado ás fls. 528-534, ante a perda superveniente de seu objeto.
+Ante o exposto, com fulcro no art. 34, incisos XI e XX, do RISTJ, julgo prejudicado o pedido.
+P. e I.
