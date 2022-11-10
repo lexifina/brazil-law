@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  BRUNO MUSSI SARKIS,  apontando  como  autoridade  coatora  Desembargador  do  Tribunal  de  Justiça  do  Distrito Federal e dos Territórios,  no  julgamento  do  HC  n.  0735935-25.2022.8.07.0000.
+O paciente foi preso preventivamente, nos autos da ação penal em que foi denunciado pela prática, em tese, do crime tipificado no art. 171, caput, do Código Penal.
+Sustentam as impetrantes que as ações penais que estão em curso em face do paciente não seriam aptas a justificar o perigo à ordem pública e que não haveriam indícios de reiteração delitiva após o suposto cometimento do delito em questão.
+Apontam a ausência de contemporaneidade que justifique a segregação cautelar, pois entre a data do fato e a data da decretação da prisão preventiva teria transcorrido mais de um ano.
+Afirmam que a prisão processual seria desproporcional e poderia configurar antecipação de pena e, tendo em vista as condições pessoais favoráveis do paciente, seria suficiente a aplicação de medidas cautelares diversas, como o monitoramento eletrônico ou outras, previstas no art. 319 do Código de Processo Penal.
+Alegam que o decreto constritivo careceria de fundamentação idônea e que as justificativas utilizadas para o indeferimento da liminar na origem seriam contrárias à jurisprudência dominante e à lei, devendo ser superado o "entendimento sumular de que não há como recorrer de decisão que indefere a liminar em sede de Habeas Corpus" (e-STJ fl. 10).
+Requerem, liminarmente e no mérito, o relaxamento da prisão preventiva do paciente, expedindo-se alvará de soltura em seu favor. Subsidiariamente, pugnam pela aplicação de medidas cautelares alternativas.
+Pleiteiam, ainda, a intimação para a realização de sustentação oral, quando do julgamento do feito.
+É  o  relatório.  Decido.
+A  jurisprudência  deste  Superior  Tribunal  de  Justiça  firmou-se  no  sentido  de  que,  "ausente  teratologia  ou  evidente  ilegalidade  na  decisão  impugnada  capaz  de  justificar  o  processamento  da  presente  ordem,  pela  mitigação  da  Súmula  691  do  STF,  deve-se  resguardar  a  competência  do  Tribunal  Estadual  para  análise  do  tema  e  evitar  a  indevida  supressão  de  instância"  (AgRg  no  HC  544.768/MG,  Rel.  Ministro  RIBEIRO  DANTAS,  QUINTA  TURMA,  julgado  em  11/02/2020,  DJe  14/02/2020).
+E,  da  análise  da  documentação  acostada,  verifica-se  que  não  está  caracterizada  flagrante  ilegalidade  suficiente  para  superar  o  óbice  do  referido  enunciado  sumular,  tendo  em  vista  que  a  decisão  objurgada  não  se  mostrou  teratológica,  estando  fundamentada  a  negativa  do  pleito  liminar.
+ Com  efeito,  a  autoridade  impetrada  consignou  (e-STJ fls. 18-19):
+De início registro que a pena máxima cominada ao delito imputado ao paciente supera 04 (quatro) anos de reclusão, sendo, portanto, admitida a prisão preventiva (art. 313, inciso I, do CPP).
+Há suficientes indícios de autoria decorrentes do envolvimento do paciente com a prática de crimes contra o patrimônio, conforme demonstram diversos procedimentos policiais instaurados em seu desfavor.
+A conduta do paciente, no contexto da reiteração criminosa, inclusive com condenações e outras ações penais em curso, deve ser considerada na avaliação da periculosidade e garantia da ordem pública.
+Por outro lado, conforme observado pela decisão impugnada, a contemporaneidade diz respeito aos motivos ensejadores da prisão preventiva e não o momento da prática supostamente criminosa em si, sendo irrelevante, portanto, que o delito tenha sido praticado há lapso temporal longínquo, sendo necessária, no entanto, a efetiva demonstração de que, mesmo com o transcurso de tal período, continuam presentes os requisitos.
+Pelos mesmos motivos não se mostram adequadas, pelo menos neste momento, as medidas cautelares alternativas à prisão (art. 319, do CPP).
+Por fim, a possibilidade de, em caso de eventual condenação, vir a ser-lhe imposto regime inicial mais brando, não tem o condão de obstar a segregação cautelar caso presentes os seus requisitos.
+Assim, por ora, não vislumbro situação de flagrante ilegalidade apta a ensejar a concessão da liminar postulada.
+Dessa  forma,  não  se  constata  qualquer  vício  na  negativa  do  pleito  liminar  formulado  no  mandamus  originário,  sendo  certo  que  o  revolvimento  das  questões  nele  aventadas  e  aqui  reiteradas  certamente  acarretaria  a  indevida  supressão  de  instância,  pois  serão  alvo  de  exame  oportuno  na  Corte  de  Justiça  indicada  como  coatora  quando  do  julgamento  do  seu  mérito.
+Ante  o  exposto,  com  fundamento  no  art.  210  do  Regimento  Interno  deste  Superior  Tribunal  de  Justiça,  indefiro  liminarmente  o  presente  habeas  corpus.
+Publique-se.  Intime-se.
+Cientifique-se  o  Ministério  Público  Federal.
