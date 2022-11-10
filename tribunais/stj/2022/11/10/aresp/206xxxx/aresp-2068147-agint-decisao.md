@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interno (fls. 217/227) apresentado contra decisão monocrática sintetizada na seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. CREDOR FIDUCIÁRIO. ALEGADA ILEGITIMIDADE PASSIVA. QUESTÃO DE ÍNDOLE EMINENTEMENTE CONSTITUCIONAL. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
+A agravante alega, em síntese, que houve violação ao art. 1.022 do CPC/15 por parte da instância de origem, porquanto não se manifestou sobre questões essenciais para o deslinde da causa; aduz que a tese principal não gira em torno de questões constitucionais, mas sim, unicamente de direito infraconstitucional; bem como, informa na pet. de fls. 245/258 que "em recentíssima decisão, por unanimidade, afetou a mesma controvérsia sob o Tema 1158 - Definir se há responsabilidade tributária solidária e legitimidade passiva do credor fiduciário na execução fiscal em que se cobra IPTU de imóvel objeto de contrato de alienação fiduciária, determinando, ainda mais, o sobrestamento de todos os recursos que versem sobrea mesma matéria".
+Requer a reconsideração da decisão agravada ou, sucessivamente, o provimento do agravo interno.
+É o relatório.
+Preenchidos os requisitos de admissibilidade recursal e considerando que os argumentos aduzidos nas razões de agravo interno revelam-se plausíveis (afetação do Tema 1158), no sentido de comprovar a sua tese, dou provimento ao agravo, para que seja tornada sem efeito a decisão de fls. 212/214, após retornem os autos para melhor análise.
+Publique-se. Intimem-se.
