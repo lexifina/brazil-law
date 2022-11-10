@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto peloESTADO DE ALAGOAScontra decisão que inadmitiu recurso especial manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS assim ementado:
+APELAÇÕES CÍVEIS. DIREITO TRIBUTÁRIO. ADICIONAL DE IMPOSTO DE CIRCULAÇÃO DE MERCADORIA E SERVIÇOS - ICMS. INCONSTITUCIONAL IDADE DE LEIS ESTADUAIS. REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. LEI ESTADUAL N. 6.558/2004 E DECRETO N. 2.845/2005. INCONSTITUCIONAL IDADE DECLARADA PELO ÓRGÃO PLENÁRIO. APLICAÇÃO DO ENTENDIMENTO FIRMADO NA ARGUIÇÃO DE INCONSTITUCIONALIDADE. DESNECESSIDADE DE SOBRESTAMENTO. INTELIGÊNCIA DO ART. 927, V: DO CPC. ILEGITIMIDADE ATIVA AD CAUSAM PARA A REPETIÇÃO DO INDÉBITO. TRIBUTO INDIRETO. AUSÊNCIA DE PROVA SOBRE O NÃO REPASSE DO ÔNUS ECONÔMICO DA EXAÇÃO AO CONSUMIDOR FINAL OU DA AUTORIZAÇÃO DESSE PARA PROMOVER A AÇÃO. ART. 166: CTN. PRECEDENTES. HONORÁRIOS OMITIDOS NA ORIGEM. FIXAÇÃO SEGUNDO CRITÉRIOS EQUITATIVOS: DADA A IMPOSSIBILIDADE DE AFERIÇÃO DO PROVEITO ECONÔMICO E DO VALOR REDUZIDO DA CAUSA. SUCUMBÊNCIA RECÍPROCA CARACTERIZADA. HONORÁRIOS DISTRIBUÍDOS UNIFORMEMENTE.
+Opostos embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação do art. 313, V, "a", do Código de Processo Civil, argumentando que o feito deveria ter sido suspenso em virtude de relação de dependência entre o presente e outro processo.
+Não houve contrarrazões ao recurso especial.
+O Tribunal de origem inadmitiu o recurso especial pela incidência da Súmula n. 7/STJ.
+Insurge-se o agravante contra essa decisão afirmando que, ao contrário do que supõe a origem, o recurso especial reúne condições de processamento.
+Não houve contraminuta ao agravo.
+É o relatório. Decido.
+Acerca do pedido de suspensão do processo, o acórdão recorrido assim fundamentou(e-STJ fl. 194):
+A insurgência deste não deve ser acolhida. A arguição de inconstitucionalidade citada no recurso já foi julgada e a sentença, que declarou incidentalmente a inconstitucionalidade dos mesmos dispositivos questionados na arguição, refletiu fielmente o entendimento consignado pelo Tribunal Pleno:
+TRIBUTÁRIO. ARGUIÇÃO DE INCONSTITUCIONALIDADE. ART. 2º, INCISO I, ALÍNEA H, DA LEI ESTADUAL Nº 6.558/2004 E DO ART. 2º, INCISO VIII, DODECRETO Nº 2.845/05, QUE DETERMINARAM A INCIDÊNCIA DA ALÍQUOTAMAJORADA SOBRE ÁLCOOL E GASOLINA PARA AUTOMÓVEIS. PRODUTOQUE NÃO SE CARACTERIZA COMO SUPÉRFLUO. INOBSERVÂNCIA AODISPOSTO NO ART. 82, §1º, DO ADCT/CRFB. INCONSTITUCIONALIDADEMATERIAL CONFIGURADA. ARGUIÇÃO JULGADA PROCEDENTE. MAIORIA DEVOTOS. (Argüição de Inconstitucionalidade n. 0500066-33.2016.8.02.0000, TribunalPleno, Relator: Des. Fábio José Bittencourt Araújo, Data do julgamento: 30/08/2016; Data de registro: 30/08/2016)
+Conforme pontuado pela parte autora, o CPC determina que os juízes e os tribunais observarão a orientação do plenário ou do órgão especial aos quais estiverem vinculado (art. 927, V). Assim, até que modificada a orientação por decisão superveniente, é correto o acolhimento do precedente acima nas causas em que se discuta a constitucionalidade do ato normativo julgado inconstitucional.
+No ponto, verifica-se que a Corte local desacolheu a pretensão recursal na medida em que a arguição de constitucionalidade já foi julgada e o caso concreto estaria de acordo com o entendimento nela firmado.
+Tal fundamentação, suficiente à manutenção do aresto recorrido,não restou combatidanas razões do apelo nobre, razão pela qual a argumentação recursal atrai os óbices das Súmulas n. 283 e 284 do STF.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. ENERGIA ELÉTRICA. EMBARGOS DECLARATÓRIOS. FUNDAMENTAÇÃO DEFICIENTE. JULGAMENTO EXTRA PETITA. PRESCRIÇÃO. FUNDAMENTO INATACADO. FUNDAMENTAÇÃO DEFICIENTE. DANOS MORAIS. CARACTERIZAÇÃO DA RESPONSABILIDADE. VALOR DA INDENIZAÇÃO. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Impossibilidade de conhecimento do recurso especial em relação à alegada ofensa ao art. 1.022 do CPC, a qual foi formulada de forma genérica, sem a especificação dos dispositivos legais ou teses sobre as quais o acórdão recorrido teria deixado de se manifestar. Dessa forma, em razão da deficiente fundamentação recursal no ponto, incide a Súmula nº 284 do STF.
+2. A parte não trouxe argumentação voltada a impugnar objetivamente os fundamentos do acórdão recorrido, concernentes à aplicação das regras de transição para contagem do prazo prescricional e à interpretação lógico-sistemática do pedido. Incidência das Súmulas 284 e 283 do STF.
+3. Não cabe rediscutir questões que envolvam dilação probatória fundamentadas no contexto fático dos autos. Neste quadro, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido para a condenação por danos morais e materiais. Incidência do enunciado da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.045.316/PI, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 313, V, "A", DO CPC. SÚMULAS N. 283 E 284 DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
