@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por COMPANHIA NACIONAL DE ABASTECIMENTO - CONAB,com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional da 4ª Região assim ementado:
+"ADMINISTRATIVO. CONTRATO DE DEPÓSITO. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. PROPOSTA DE ACORDO. REJEIÇÃO. RETOMADA DO PRAZO PRESCRICIONAL.
+É firme na jurisprudência a orientação no sentido de que a prescrição da ação de conhecimento e a da execução são distintas, exceto no tocante ao lapso temporal, que é idêntico. Com efeito, a partir do trânsito em julgado da sentença, inicia-se o prazo para sua execução, e não o reinício do prazo anterior (único) pela metade. Nesse sentido, o enunciado da súmula n.º150 do Supremo Tribunal Federal: "Prescreve a execução no mesmo prazo de prescrição da ação".
+Em se tratando de ação de indenização contra armazéns gerais, esse prazo é de três meses, consoante o disposto no art. 11 do Decreto n.º 1.102/1903, afastada a incidência das disposições do Código Civil, por força do princípio da especialidade.
+Na pendência de apreciação da proposta de acordo, apresentada pela devedora, na seara administrativa (antes mesmo do trânsito em julgado da decisão exequenda), não flui o prazo prescricional, porquanto não caracterizada a inércia da credora. Não obstante, no momento em que a proposta foi rejeitada, o prazo prescricional para o ajuizamento da execução voltou a correr por inteiro." (fl. 1.079e-STJ)
+Os embargos de declaração opostos foram rejeitados (fls. 1.157/1.166 e-STJ).
+Em suas razões, os recorrentes apontam a violação dos arts. 508, 525, VII, e 1.022, I e II, do Código de Processo Civil de 2015; 191 e 205do Código Civil; 1º e 11, §1º, do Decreto nº 1.102/1.903.
+Sustenta, em síntese,que i) o acórdão recorrido não se manifestou sobre o enquadramento legal da recorrida como "armazém geral", nos termos do art. 1º do Decreto nº 1.102/1.903; ii)é decenal o prazo prescricional aplicável à espécie; iii) a parte recorrida não se enquadra no conceito de armazém geral; iv)formado o título executivo, é incabível a arguição da prescrição anterior à sentença proferida no processo de conhecimento; e v)houve a renúncia tácita à prescrição, na forma do art. 191 do Código Civil.
+Após a apresentação de contrarrazões (fls. 1.295/1.322e-STJ), o recurso foi admitido na origem (fl. 1.325e-STJ), ascendendo a esta Corte Superior.
+É o relatório.
+DECIDO.
+A decisão impugnada pelo recurso especial foi publicada na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recursomerece prosperar.
+De fato,observa-se que, apesar de instado, o Tribunal de origemnãosemanifestou a respeito do enquadramento legal da recorrida como armazém geral, nos termos da legislação específica aplicada à hipótese (Decreto 1.102/1.903).
+No caso, essa omissão se mostrarelevante, pois o cumprimento dos requisitos formais previstos na aludida norma específica depende do exame dos elementos fático-probatóriosproduzidos nos autos, tendo potencial impacto na procedência dos pedidos formuladosna inicial.
+Além disso, é de se ter presenteque, nos termos da Súmula nº 7/STJ, é vedadoo reexame dos elementos de convicção produzidos nos autos em sedede recurso especial, o que impede que esta Corte Superior retireconclusão diversa daquela apontada peloTribunal de origem, que é soberano nessa análise.
+Cumpre esclarecer que, muito embora o acórdão recorrido tenha afirmadonão ser "razoável afirmar que o mencionado Decreto, de caráter especial, destina-se a regular o estabelecimento de empresas de armazéns gerais, devidamente registradas na Junta Comercial (art. 1º), não alcançando as entidades organizadas sob a forma de cooperativa" (fl. 1.073 e-STJ - grifou-se), não apresentou nenhuma motivação capaz de oferecer sustentação jurídica para essaassertiva.
+Assim, é imprescindível que a Corte de origem se manifeste especificamente sobre aalegação da recorrente, de molde a fundamentar adequadamente o enquadramento legal da Cooperativa recorrida, justificando, de forma completa e motivada,a aplicação do Decreto 1.102/1.903 à hipótese.
+Anteo exposto, dou provimento ao recurso especial para, reconhecendoaviolação do art. 1.022 do CPC/2015, determinaro retornodos autosaoTribunal de origem a fim de que seja proferidonovo julgamento dosembargos de declaração opostos, suprindo a omissão verificada.
+Em consequência, fica, por ora, prejudicado o exame do agravo em recurso especial interposto pela COOPERATIVA AGROINDUSTRIAL ALEGRETE LTDA às fls. 1.340/13.72 e-STJ.
+Publique-se.
+Intimem-se.
