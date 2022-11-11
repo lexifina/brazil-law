@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por TRANSBY SHOP COMERCIO DE CONFECCOES EIRELI com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, o contribuinte ajuizou ação declaratória de inexistência de relação jurídico-tributária no que concerne à exigência de pagamento de taxa de serviços administrativos - TSA em face da Superintendência da Zona Franca de Manaus - SUFRAMA,com valor da causa atribuído em R$ 308.976,65 (trezentos e oito mil, novecentos e setenta e seis reais e sessenta e cinco centavos), em outubro de 2014.
+Após sentença que julgou procedente o pedido, foram interpostas apelações, as quais foram improvidaspelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO emacórdão assim ementado, in verbis:
+TRIBUTÁRIO. PRESCRIÇÃO. TAXA DE SERVIÇOS ADMINISTRATIVOS - TSA. SUPERINTENDÊNCIA DA ZONA FRANCA DE MANAUS - SUFRAMA. LEI 9.960/2000. INCONSTITUCIONALIDADE. HONORÁRIOS.
+1. A segunda parte do art. 4º da LC 118/2005 foi declarada inconstitucional, e considerou-se válida a aplicação do novo prazo de cinco anos apenas às ações ajuizadas a partir de 9/6/2005  após o decurso da vacatio legis de 120 dias (STF, RE 566621 /RS, rel. ministra Ellen Grade, Tribunal Pleno, DJe de 11/10/2011).
+2. A Taxa de Serviços Administrativos, criada pela Lei 9.960/2000, foi declarada inconstitucional pela Corte Especial deste Tribunal, no julgamento da INAMS 0005632-98.2007.4.01.3200/AM.
+3. Nas causas em que não houver condenação ou vencida a Fazenda Pública, os honorários podem ser fixados em valor certo ou em percentual sobre os valores da causa ou da condenação, segundo o critério da equidade, conforme previsto no art. 20, § 4º, do CPC.
+4. Apelação da autora a que se nega provimento.
+5. Apelação da SUFRAMA e remessa oficial a que se nega provimento.
+Os embargos de declaração opostos pela SUFRAMA foram rejeitados.
+No presente recurso especial, TRANSBY SHOP COMERCIO DE CONFECCOES EIRELI aponta violação do art.20, §§ 3º e 4º, do CPC/73 ao argumento de que os honorários foram fixados em valor irrisório, correspondendo a 0,64% (sessenta e quatro centésimos percentuais) do valor atribuído à causa, e que, no referido arbitramento, não foram observados os critérios estabelecidos em lei e desconsiderados o valor ou a complexidade da causa, o trabalho e a diligência dispensados pelo advogado da recorrente.
+É o relatório. Decido.
+Sobre os honorários advocatícios, esta Corte possui firme entendimento de que, em regra, não é possível a revisão do valor fixado a título de verba honorária em sede de recurso especial, assim porque implica, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado pela incidência da Súmula n. 7/STJ.
+Entretanto, o referido óbice pode ser afastado quando for verificado que o valor arbitrado pelas instâncias ordinárias se mostra irrisório ou exorbitante. Precedentes: REsp 1684753/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/09/2017, DJe 10/10/2017; AgInt no AgRg no REsp 1230148/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 08/08/2017, DJe 17/08/2017.
+A jurisprudência desta Corte Superior, nos termos do art.20,§ 4º, do CPC/73, considera que "sãoirrisóriososhonoráriosadvocatícios fixados em patamar inferior a1%sobre o valor atualizado da causa " (AgInt no AREsp n. 1.510.711/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 4/5/2020, DJe de 7/5/2020).
+Ainda nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. PLEITO DE MAJORAÇÃO. VERBA FIXADA NA ORIGEM EM DESCOMPASSO COM OS PATAMARES DE RAZOABILIDADE E PROPORCIONALIDADE. AGRAVO DESPROVIDO.
+1. Consoante dispunha o art. 20, § 4º, do CPC/1973, nos embargos à execução, o arbitramento dos honorários sucumbenciais dependerá de apreciação equitativa do magistrado. Ademais, esta Corte Superior entende que os honorários fixados em percentual inferior a 1% do proveito econômico pretendido na demanda se afiguram irrisórios, o que se verificou na espécie, tornando imperiosa a sua majoração pelo STJ, a fim de atender aos princípios da razoabilidade e da proporcionalidade.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.470.406/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 28/10/2019, DJe de 5/11/2019.)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. VALOR IRRISÓRIO. CIRCUNSTÂNCIAS DO ART. 20, § 3º, DO CPC/1973 ANALISADAS PELAS INSTÂNCIAS DE ORIGEM. NECESSIDADE DE AJUSTE.
+1. Cuida-se de inconformismo com acórdão do Tribunal de origem que manteve o valor dos honorários advocatícios em R$ 622,00 (seiscentos e vinte e dois reais) por considerar que a referida importância guarda correspondência com o labor empregado.
+2. Deveras, no caso em destaque, a verba honorária - arbitrada em R$ 622,00 (seiscentos e vinte e dois reais) - corresponde a aproximadamente 0,12% do valor da causa (R$ 500.000,00), montante que fora atribuído sob o argumento de que "o autor não consegue determinar quantos servidores públicos da saúde estão aposentados nas modalidades de aposentadorias indicadas na inicial".
+3. Para que seja possível a revisão de honorários advocatícios em Recurso Especial, é necessário que os valores sejam irrisórios ou exorbitantes, como aponta o voto do eminente relator, mas não basta isso. É necessário, ainda, que o acórdão tenha expressamente examinado as circunstâncias fáticas de que trata o § 3º do art. 20 do CPC/1973 (AgRg no REsp 1.512.353/AL, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/9/2015 e AgInt no AREsp 922.234/DF, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 8/3/2017).
+4. No presente caso, as circunstâncias do caso concreto foram expressamente analisadas pelas instâncias de origem, sendo plenamente possível ao STJ fixar novos patamares a partir das descrições das decisões anteriores.
+5. Nesse diapasão, considerando-se que o valor aproximado da causa é 500.000,00, fixam-se os honorários em 1% de seu valor atualizado.
+6. Recurso Especial provido.
+(REsp n. 1.826.793/SC, relator Ministro Herman Benjamin, Segunda Turma, julgado em 27/8/2019, DJe de 5/9/2019.)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para fixar os honorários advocatícios de sucumbência em 1% do valor atualizado da causa.
+Publique-se. Intimem-se.
