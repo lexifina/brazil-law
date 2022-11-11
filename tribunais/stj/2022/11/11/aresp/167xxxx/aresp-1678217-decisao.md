@@ -1,0 +1,47 @@
+DECISÃO
+União interpôs agravo de instrumento contra decisão que, em cumprimento parcial e provisório individualizado de sentença coletiva, acolheu parcialmente a exceção de pré-executividade apresentada pela executada para determinar a exclusão do cálculo de valores referentes a competências anteriores a março de 2000 e, após, serem tomadas providências para o prosseguimento da execução.
+O Tribunal Regional Federal da 4ª Região manteve a decisão agravada, nos termos assim ementados (fl. 131):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. AGRAVO INTERNO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AÇÃO COLETIVA. EXCESSO DEEXECUÇÃO. LITIGÂNCIA DE MÁ-FÉ. VIA PROCESSUAL PRÓPRIA.
+A exceção de pré-executividade destina-se à apreciação de matéria de ordem pública (conhecível de ofício), que não exija dilação probatória.
+Ainda que a agravante argumente que o recebimento administrativo de reajuste superior ao pleiteado caracteriza ausência de interesse processual (uma das condições da ação), tal fato demanda produção de provas e pode configurar mero excesso de execução.
+A inclusão de valores indevidos (porque pretéritos) no cálculo exequendo não enseja a nulidade de toda a execução, sendo possível a glosado excesso para adequação do cumprimento de sentença ao título executivo que lhe serve de substrato.
+Deve ser mantida a decisão que não acolheu integralmente a exceção de pré-executividade, postergando o exame de algumas questões nela arguidas (incluindo a alegada litigância de má-fé) para a via processual própria.
+Os embargos de declaração opostos foram parcialmente acolhidos apenas para fins de prequestionamento (fls. 173-178).
+União interpôs recurso especial, com fundamento no art. 105, III, a, da Constituição Federal, alegando violação do art. 1.022, II, do CPC/2015, por omissão no acórdão recorrido quanto aos seguintes argumentos: falta de interesse de agir diante de reajustes já absorvidos, implicação da ação coletiva ajuizada pela federação brasileira de hospitais em Brasília, e o valor das diárias.
+Aduziu, ainda, negativa de vigência aos arts. 492, 503, 504, IV, e 783 do CPC/2015, arts. 876 e 884 do CC/2002, sob o argumento de que os valores discutidos no MS n. 11.539/STJ devem repercutir na presente demanda executória, sob pena de pagamento em duplicidade dos mesmos valores pelo ente público. Assim, alega que haveria ausência de interesse de agir diante de reajustes já absorvidos, bem como nada é devido à parte autora.
+Alegou, sucessivamente, ofensa aos arts. 320, 783 do CPC/2015, porquanto a exequente, ora agravada não se desonerou do ônus de garantir a liquidez do título juntando documentos que comprovassem sua condição de beneficiário e que fossem suficientes para a elaboração e conferência dos valores que alega devidos.
+Foram apresentadas contrarrazões (fls. 215-233) e o Tribunal de origem inadmitiu o recurso especial (fls. 235-240), tendo sido interposto o presente agravo.
+É o relatório. Decido.
+Considerando que a parte agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Em relação à indicada violação do art. 1.022 do CPC/2015, não se vislumbra pertinência na alegação, tendo o julgador dirimido a controvérsia tal qual lhe fora apresentada, em decisão devidamente fundamentada, sendo a irresignação da recorrente evidentemente limitada ao fato de estar diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso declaratório.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da violação dos mencionados artigos processuais, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+ADMINISTRATIVO E PROCESSUAL CIVIL. DEFICIÊNCIA NA PRESTAÇÃO JURISDICIONAL. ART. 1022 DO CPC/2015. OFENSA NÃO VERIFICADA. BASE DE CÁLCULO DA CONTRIBUIÇÃO DEVIDA AO FUNDO DE GARANTIA DO TEMPO DE SERVIÇO.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+ ..
+3. Agravo interno desprovido.
+(AgInt no REsp 1.643.573/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 8/11/2018, DJe 16/11/2018.)
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ausentes os vícios do art. 1022 do CPC/15, rejeitam-se os embargos de declaração.
+2. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+ ..
+6. Agravo interno não provido.
+(AgInt no REsp 1.719.870/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 24/9/2018, DJe 26/9/2018.)
+Quanto aos arts. 492, 503, 504, IV, e 783 do CPC/2015, arts. 876 e 884 do CC/2002, vinculados à tese de ausência de interesse da parte exequente por já ter sido pago o valor em questão quando da promoção de reajustes na tabela do SUS, observa-se que a Corte de origem deixou de apreciar a matéria sob o fundamento de que não caberia essa análise em sede de exceção de pré-executividade. Confira-se (fl. 138):
+A exceção de pré-executividade destina-se à apreciação de matéria de ordem pública (conhecível de ofício), que não exija dilação probatória, e, no caso concreto - como já salientado pelo juízo a quo -,a questão relativa à apuração do quantum debeatur, mediante o cálculo do valor devido pelos atendimentos, ou mesmo a base de cálculo relativa às diárias (quantidade de atendimentos), constitui matéria que exige instrução - no mínimo documental -,razão pela qual estão fora do âmbito da presente impugnação. Também é matéria de fundo, não passível de ser abordada pelo presente incidente, a questão da absorção, pelos reajustes administrativos, dos valores apontados na ação coletiva - e mesmo a amplitude do decidido no MS 11.539/DF. Quanto a esse último, cabe à executada, se for o caso, apontar a circunstância no e. STF, mediante a via adequada.
+Ainda que a agravante argumente que o recebimento administrativo de reajuste superior ao pleiteado caracteriza ausência de interesse processual (uma das condições da ação), tal fato demanda produção de provas e pode configurar mero excesso de execução.
+O referido fundamento, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+No que diz respeito aos arts. 320, 783 do CPC/2015, verifica-se que a irresignação do recorrente acerca da exigibilidade do título diante dos documentos juntados pela parte exequente, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, determinou o prosseguimento da execução.
+Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. COISA JULGADA. AFERIÇÃO. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Segundo a jurisprudência desta Corte de Justiça, não há violação da coisa julgada quando o magistrado, em sede de liquidação de sentença, interpreta o título executivo, sopesando os critérios de cálculos realizados na perícia, a fim de que a decisão judicial seja efetivamente cumprida.
+3. Ao contrário do alegado pelo agravante, para aferir se, de fato, a instância de origem ultrapassou os limites da coisa julgada, assim como se houve equivoco nos cálculos de liquidação de sentença, não bastaria o simples análise do critério de valoração da prova, mas, sim, do reexame dos elementos de convicção postos no processo, o que não é permitido em sede de recurso especial.
+4. Agravo interno desprovido.
+(AgInt no AREsp 551.455/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 22/06/2020, DJe 26/06/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
