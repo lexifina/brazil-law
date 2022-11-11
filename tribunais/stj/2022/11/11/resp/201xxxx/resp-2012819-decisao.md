@@ -1,0 +1,20 @@
+DECISÃO
+Na origem, trata-se de agravo de instrumento interposto pelo INSS nos autos de ação previdenciária acidentária em fase de cumprimento de sentença, objetivando a reforma de decisão interlocutória de primeira instância que determinou que a autarquia previdenciária realizasse o cálculo da retenção do imposto de renda.
+No Tribunal de Justiça do Estado do Paraná, a decisão foi mantida, nos termos da seguinte ementa de acórdão:
+AGRAVO DE INSTRUMENTO - AÇÃO PREVIDENCIÁRIA EM FASEDE CUMPRIMENTO DE SENTENÇA - DECISÃO QUE DETERMINOUQUE A AUTARQUIA APRESENTASSE CÁLCULO REFERENTE AOSVALORES RELATIVOS À RETENÇÃO DE IMPOSTO DE RENDA -TESE DE QUE O CÁLCULO DEVE SER ELABORADO PELAINSTITUIÇÃO FINANCEIRA NO MOMENTO DA REALIZAÇÃO DOPAGAMENTO - NÃO ACOLHIMENTO - INTELIGÊNCIA DO ART. 46DA LEI Nº 8.541/1992 - PRECEDENTES - DECISÃO MANTIDA -RECURSO CONHECIDO E NÃO PROVIDO.
+O INSS interpôs recurso especial, com fundamento no art. 105, III, "a" da CRFB, alegando violação do art. 12-A, § 1º, da Lei 7.713/88
+É o relatório. Decido.
+O recurso especial não comporta conhecimento.
+Com efeito, a despeito de oacórdão de origem ter analisado a questão relativa à responsabilidade do INSS pela retenção e cálculo do imposto de renda, o conteúdo normativo do dispositivo apontado como violado não foi objeto de análise nas ponderações daquela Corte, nem foram opostos embargos para tal fim.
+Incide o óbice das Súmulas 282/STF e 356/STF, quando a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para suprir a falta. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019.
+Além disso, o dispositivo alegadamente violado assim dispõe:
+Art. 12-A.  ..
+§ 1o O imposto será retido pela pessoa física ou jurídica obrigada ao pagamento ou pela instituição financeira depositária do crédito e calculado sobre o montante dos rendimentos pagos, mediante a utilização de tabela progressiva resultante da multiplicação da quantidade de meses a que se refiram os rendimentos pelos valores constantes da tabela progressiva mensal correspondente ao mês do recebimento ou crédito.
+A citada norma não impõe a responsabilidade à instituição financeira. Na realidade, prevê essa responsabilidade à pessoa jurídica obrigada ao pagamento ou à instituição financeira, de modo que não é possível verificar, de plano, que o acórdão de origem a teria violado com sua conclusão.
+Incide o óbice da Súmula n. 284/STF, quando o dispositivo normativo indicado como violado não tem comando normativo suficiente para amparar a tese recursal, o que atrai, por conseguinte, o citado enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A jurisprudência desta Corte considera deficiente a fundamentação do recurso quando os dispositivos apontados como violados não têm comando normativo suficiente para infirmar os fundamentos do aresto recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal" (AgInt no REsp n. 1685486/RJ, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 21/2/2019).
+Quanto à fundamentação embasada na Resolução CNJ n. 303/2019,não é cabível o recurso especial no que aponta violação a norma diversa de tratado ou lei federal.
+Nesse sentido: "Não é possível a interposição do recurso especial sob a alegação de contrariedade a ato normativo secundário, tais como resoluções, portarias, regimentos, instruções normativas e circulares, bem como a súmulas dos tribunais, por não se equipararem ao conceito de lei federal" (AgInt no AREsp 1320968/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 12/03/2019, DJe 19/03/2019).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
