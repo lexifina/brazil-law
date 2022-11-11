@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE SANTA CATARINA - CREA/SC contra acórdão assim ementado:
+EXECUÇÃO FISCAL. CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL. ART. 8º DA LEI Nº 12.514, DE 2011, NA REDAÇÃO DADA PELA LEI Nº 14.195, DE 2021. INCONSTITUCIONALIDADES NÃO DEMONSTRADAS. APLICAÇÃO AOS PROCESSOS QUE CONTEMPLEM MULTAS, ANUIDADES E DEMAIS OBRIGAÇÕES PREVISTAS EM LEI. EXTINÇÃO DO FEITO.
+Atribuiu-se à causa o valor de R$ 3.830,52 em agosto de 2021.
+Em seu recurso especial, o recorrente suscitou contrariedade aos arts. 4º, 6º e 8º da Lei n. 12.514/2011, sustentando, em síntese, que a multa aplicada é válida pois não se submete ao valor mínimo de execução, e que o seu valor encontra-se condizente com a previsão legal.
+É o relatório. Decido.
+Quanto à alegação de que a multa aplicada pela prática de ilícito administrativo não se submete ao valor mínimo para execução prevista na Lei n. 12.514/2011, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo deste dispositivo legal, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Não constando, do acórdão recorrido, análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+E em relação à alegação de que o valor da execução fiscal está condizente com a disposição dos artigos 6º e 8º da Lei nº 12.514/2011, é irrefutável que o Tribunal de origem, ao apreciar o conteúdo fático e probatório dos autos, consignou expressamente que "o valor mínimo da execução deve ser aquele equivalente a cinco vezes o montante previsto no inc. I do art. 6º da Lei nº 12.514, de 2011, qual seja o valor histórico de R$ 500,00, atualizado pelo INPC de 31-10-2011 até a data do ajuizamento da ação, e não o valor da anuidade do Conselho Regional de Engenharia e Agronomia".
+Dessa forma, para rever tal posição, relativa à corretude no ajuste dos valores apurados em sintonia com a legislação de regência, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame dos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
