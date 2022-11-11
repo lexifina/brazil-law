@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por N A FOMENTO MERCANTIL LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+APELAÇÃO CÍVEL - INSCRIÇÃO DO NOME NOS CADASTROS DE INADIMPLENTES - PESSOA JURÍDICA - ATO ILÍCITO - CONFIGURADO - VALOR PAGO - RETENÇÃO PELA EMPRESA DE FACTORING - RESPONSABILIDADE DAS RÉS - SENTENÇA MANTIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 186, 188 e 927 do CC, no que concerne à inexistência de ato ilícito por parte da recorrente, uma vez que não tinha qualquer competência para promover cobrança ou negativação da parte recorrida, razão pela qual não pode ser responsabilizada solidariamente pelos atos inidôneos da empresa Godiva, trazendo o(s) seguinte(s) argumento(s):
+Em que pese o disposto no v. acórdão, é fato que a questão deve ser analisada com fundamento no termo do que dispõe a legislação apontada, sob pena de afronta a legislação vigente.
+É importante ressaltar que não há no v. acórdão recorrido qualquer indicação deque tenha causado prejuízo para Recorrida diretamente, -  e indicação do preenchimento dos requisitos legais que seja capaz de justificar condenação solidária da Recorrente.
+Tal ausência de indicação de prejuízo causado por esta Recorrente se justifica por um único motivo: não promoveu qualquer ato de negativação da Recorrida, tendo sido reconhecida na r. sentença a responsabilidade da Ré Godiva pela prática do referido ato.
+ ..
+Isso porque a Recorrente recusou os títulos que seriam cedidos pela Ré Godiva, não tendo sido finalizada a operação de cessão de crédito. Ou seja, a Recorrente N A não tinha sequer competência para promover a cobrança ou o negativação da Recorrente em razão dos títulos desta demanda.
+ ..
+Portanto, não houve qualquer ato ilícito por parte da Recorrente, não havendo pois, que se falar em responsabilidade civil solidária e dano moral em seu desfavor, de forma que a Recorrente não pode ser responsabilizada pelas relações jurídicas e atos inidôneos da empresa Godiva, que negativou o nome da Recorrida indevidamente.
+ ..
+Certo, ainda, que, para a configuração do dano em relação a esta Recorrente especificamente, se faz necessária a caracterização de ato ilícito e que haja nexo causal entre o referido ato, a conduta do agente e o efetivo prejuízo, nos termos dos artigos 186 e 927 do Código Civil, o que não ocorreu no caso em tela (fls. 283/284).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, o acórdão recorrido assim decidiu:
+"Do contexto probatório acima narrado, tem-se que não há razões para se modificar a sentença que reconheceu a responsabilidade de ambas as rés pelos danos causados ao autor.
+Não se olvida que a empresa de factoring, comumente, age como mera mandatária da contratante (Súmula 476, STJ), porém, neste caso existe uma particularidade que não permite afastar sua condenação.
+A segunda ré recebeu os valores dos boletos e os reteve pelo prazo de 1 ano e 6 meses, indevidamente, sem comunicar a primeira apelante.
+A primeira apelante, por sua vez, deveria ter emitido novos boletos constando como beneficiária das quantias devidas pelo apelado.
+Dessa forma, deve ser mantida a sentença primeva que condenou a primeira apelante ao pagamento da compensação por danos morais e por consequência, julgou procedente a denunciação à lide para determinar que a segunda apelante arque com o pagamento da indenização em razão do contrato" (fl. 240, grifo meu).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
