@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto pelo DEPARTAMENTO NACIONAL DE PRODUÇÃO MINERAL - DNPMcontra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal.
+Na origem, o contribuinte interpôs agravo de instrumento em face de decisão que rejeitou a exceção de pré-executividade, concluindo que embora os créditos tributários tenham vencido em 2001, 2002 e 2003, somente seriam exigíveis após a conclusão dos procedimentos administrativos instaurados para fins de seu lançamento, o que ocorreu em 2007, afastando a prescrição.
+Em decisão monocrática, oTRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO negou seguimento ao agravo de instrumento. Interposto agravo interno,este foi parcialmente provido em acórdãoassim ementado, in verbis:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO EM EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. CABIMENTO. TAXA ANUAL POR HECTARE. CRÉDITO NÃO-TRIBUTÁRIO. PRESCRIÇÃO QUINQUENAL. TERMO INICIAL. VENCIMENTO. PRESCRIÇÃO CONSUMADA.
+1. "A exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória" (Súmula393/STJ).
+2. A Taxa Anual por Hectare devida ao DNPM pelo titular de autorização de pesquisa mineral (Decreto-Lei 227/1967, art. 20, redação dada pela Lei 7.886/1989) apresenta natureza jurídica de "preço público" (ADI 2586-4 -DF, r. Ministro Carlos Velloso, Pleno/STF).
+3. O termo inicial do prazo prescricional quinquenal para exigir o crédito referente à TAH/DNPM é o dia seguinte ao vencimento, quando se torna exigível o crédito constante do boleto enviado ao devedor para pagamento (Lei 9.636/1998, art. 47 com redação dada pela Lei 9.821/1999; Portaria MME n. 503/1999, art. 3º).
+4. Em se tratando de crédito não-tributário, a inscrição em dívida ativa suspende o prazo prescricional por 180 dias (Lei 6.830/1980, art. 2º, § 3º).
+5. Vencidos os créditos em 31.07.2000, 31.07.2001 e 31.07.2002, o ajuizamento da execução fiscal em 11.07.2008 ocorreu após o transcurso do prazo prescricional quinquenal.
+6. As multas devidas pela falta de pagamento da TAH são apuradas e lançadas após instauração de processo administrativo, sujeito ao prazo decadencial decenal(Lei 9.636/1998, art. 47/l). O termo inicial do prazo prescricional para exigir os créditos assim constituídos também é o vencimento.
+7. Considerando-se o ajuizamento da execução fiscal em 11.07.2008, estão prescritos os créditos referentes a multas por falta de pagamento das TAH"s cujo vencimento tenha ocorrido até 11.07.2003.
+8. Agravo regimental do executado parcialmente provido.
+Os embargos de declaração opostos foram providos apenas para sanar omissão no que concerne aos honorários de sucumbência.
+No presente recurso especial, oDEPARTAMENTO NACIONAL DE PRODUÇÃO MINERAL - DNPMaponta violação doart. 47, da Lei n. 9.636/98, com a redação dada pela Lei n. 10.852/2004.Sustenta, em síntese, que os débitos relativos aos anos de 2001, 2002 e 2003, foram inscritos em janeiro/2007, e a citação válida ocorreu em 17/07/2009, dentro, portanto, do quinquênio legal. Alega, também, a inocorrência do prazo decadencial.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, com base na ausência de presquestionamento, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O Tribunal de origem para reconhecer a ocorrência da prescrição, utilizou-se dos seguintes fundamentos (fls. 1.170):
+Assim, o vencimento tornou exigível o crédito não -pago, podendo ser inscrito em dívida ativa e exigido por meio de execução fiscal. Conforme consta das certidões de dívida ativa, os créditos se referem a TAH com vencimento em 31.07.2000, 31.07.2001 e 31.07.2002 (fls. 39-104 e 176-89).
+É certo que se aplica ao caso a suspensão por 180 dias do prazo prescricional prevista no art.2º, § 3º da Lei 6.830/1980, em decorrência da inscrição em dívida ativa. Ainda assim, o ajuizamento da execução fiscal em 11.07.2008 ocorreu depois de consumada a prescrição para exigir as TAH"s (fl.174).
+A pretensão recursal de rever o posicionamento adotado no acórdão recorrido quanto a ocorrência de prescrição teria necessariamente que passar pela revisão de todo o conjunto fático/probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+Logo, o recurso é inviável, assim porque chegar a entendimento diverso, in casu, demandaria revolvimento fático probatório inviável em sede de Recurso Especial ante o óbice da Súmula 7/STJ.
+Sobre a decadência, verifica-se que, no acórdão recorrido, não foi analisada a referida questão, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Não constando, do acórdão recorrido, análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
