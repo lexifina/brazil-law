@@ -1,0 +1,23 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento, objetivando a suspensão da decisão atacada, a fim de evitar expedição do RPV e pagamento de quantias ao autor.No Tribunal a quo o agravo foi improvido.
+O recurso especial foi interposto no TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO. EFEITO SUSPENSIVO. BENEFÍCIOS ACUMULÁVEIS. ABATIMENTO. COMPENSAÇÃO. PRECEDENTE.
+1. Eventuais irresignações com o decidido devem ser veiculadas nos autos do IRDR em questão, não sendo possível a modificação do precedente firmado por meio do presente recurso.
+2. Recebendo o segurado benefício, ainda que inacumulável, de boa-fé, a compensação deve ser feita nos moldes supra estabelecidos no precedente de observância obrigatória e vinculante, qual seja o IRDR 14, não sendo aceita a tese de que apenas o montante global negativo está vedado.
+3. Recurso desprovido.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+Como é cediço, eventuais valores pagos a maior na via administrativa devem ser compensados com as quantias a serem pagas na via judicial por outro benefício inacumulável. No entanto, registre-se que esta compensação deve ser limitada, em cada competência, ao valor devido em razão do benefício deferido pelo título executivo.
+Desse modo, quando o benefício percebido administrativamente durante ocurso do processo tiver renda mensal inferior àquela apurada para o benefício judicialmente reconhecido, basta apurar as diferenças entre as parcelas devidas e as recebidas e incluir tal resultado no montante a ser pago ao segurado; por outro lado, se o benefício concedido no âmbito administrativo possuir renda mensal superior àquela apurada para o benefício reconhecido em juízo, deve ocorrer o abatimento das competências pagas, limitando-se a compensação ao valor da renda mensal do benefício que está sendo implantado em favor do segurado.
+Os valores recebidos a maior não podem, portanto, ser descontados da memória de cálculo. Desse modo, evita-se a execução invertida e a restituição de valores alimentares recebidos de boa-fé pelo segurado. Raciocínio esse tutelado pelo IRDR 14 e perfeitamente aplicável ao presente caso, ainda que se trate de seguro-desemprego.
+Não há, portanto, violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Verifica-se que o Tribunal de origem decidiu a matéria em conformidade com a jurisprudência desta Corte. Incide, portanto, o disposto no enunciado n. 83 da Súmula do STJ, segundo o qual: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida". Vide julgado no mesmo sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO CIVIL. SISTEMA REMUNERATÓRIO. BENEFÍCIOS. DEVOLUÇÃO DE VALORESPAGOS. IMPOSSIBILIDADE. ART. 543- C DO CPC/73. PREJUDICADA A ANÁLISE.
+1. Esta Corte Superior firmou entendimento no sentido de que é incabível a devolução de valorespagos,por erro da Administração, ao servidor, diante da sua natureza alimentar e da presunção de boa-fé. Confira-se: AgInt no REsp n. 1.598.380/MG, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 27/9/2016, DJe 30/9/2016.
+2. Outrossim, a orientação jurisprudencial do Superior Tribunal de Justiça, no julgamento do REsp n. 1.244.182/PB, submetido ao rito do art. 543-C do CPC, consolidou-se no sentido de que não há falar em repetição de verba remuneratória paga amaiorpor equívoco da Administração na interpretação de lei e recebida de boa-fé pelo servidor público, ainda que por erro administrativo operacional (REsp n. 1.244.182/PB, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 10/10/2012, DJe 19/10/2012). Nesse sentido também:RMS n. 54.417/MA, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 26/9/2017, DJe 11/10/2017.
+3. Recurso Especial não provido.
+(REsp 1793496 / SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 26/02/2019, DJe em 11/03/2019)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
