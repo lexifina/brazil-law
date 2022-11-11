@@ -1,0 +1,38 @@
+DECISÃO
+Tratam-se de agravos interpostos por EIKO ENGENHARIA E INSTALAÇÕES LTDA e pela FAZENDA DO ESTADO DE SÃO PAULO contra a decisão que inadmitiu os seus recursos especiais aviados com o objetivo de reformar o acórdão assim ementado, in verbis:
+Ação anulatória de débito. Pretensão de anular Auto de Infração e Imposição de Multa. Imputação de infração decorrente de recebimento de mercadorias desacompanhadas de documento fiscal.
+Declaração de inaptidão do contribuinte emitente das notas fiscais. Responsabilidade solidária. Presunção de boa-fé infirmada.
+Ausência de prova que afastasse a presunção de interesse comum. Limitação dos juros à Selic e redução da multa. Possibilidade.
+Recursos improvidos.
+Foi atribuído à causa o valor de R$ 411.164,22.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, a FAZENDA DO ESTADO DE SÃO PAULO indica como violados os arts. 113, 161 e 136, todos do CTN, afirmando, em suma, que a multa não poderia ter sido reduzida pois estaria de acordo com o limite legal previsto no art. 85, III, da Lei Estadual n. 6374/1989.
+Por sua vez, EIKO ENGENHARIA E INSTALACOES LTDA aponta ofensa aos arts. 112, 136 e 137, todos do CNT, alegando, em resumo, que a ocorrência de interesse comum e a presunção de negociação com a empresa inidônea não poderia afastar a boa-fé da empresa na realização da operação que fundamentou o creditamento do ICMS.
+O recorrente afirma, ainda, em suma, que a enumeração dos atos infracionais é de competência privativa da autoridade administrativa, a teor o do art. 142 do CTN.
+Também suscitou divergência jurisprudencial.
+Após decisum que inadmitiu os recursos especiais foram interpostos os presentes agravos, tendo os recorrentes apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que os agravantes, além de atender aos demais pressupostos de admissibilidade, impugnaram a fundamentação da decisão agravada, de rigor o conhecimento dos agravos, passando-se ao exame dos recursos especiais interpostos.
+RECURSO ESPECIAL DA FAZENDA DO ESTADO DE SÃO PAULO
+A recorrente afirma que a multa aplicada obedeceu à previsão contida na Lei estadual n. 6374/1980, sendo evidente a indicação de sua violação como fundamento para seu arrazoado recursal, o que atrai a competência da súmula 280/STF, a inviabilizar o recurso.
+RECURSO ESPECIAL DE EIKO ENGENHARIA E INSTALACOES LTDA
+Sobre os alegados vícios contidos na CDA, verifica-se que a jurisprudência do Superior Tribunal de Justiça é pacífica no entendimento de que o exame dos requisitos do lançamento fiscal implica no revolvimento fático probatório da demanda, o que atrai o comando da súmula 7/STJ.
+Sobre o assunto, confiram-se:
+TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. NULIDADE DO LANÇAMENTO. AFERIÇÃO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVOS LEGAIS. SÚMULA Nº 282 DO STF. PIS E COFINS. INCLUSÃO DOS VALORES DE VENDAS DE IMÓVEIS. EMPRESA INCORPORADORA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. SÚMULA Nº 284 DO STF. MULTA CONFISCATÓRIA. QUESTÃO CONSTITUCIONAL.
+1. Os arts. 142, 202 e 203 do CTN não foram objeto de análise específica pelo acórdão recorrido, o que impossibilita o conhecimento da irresignação em relação a eles, haja vista a ausência de prequestionamento a atrair o óbice da Súmula nº 282 do STF, in verbis: ""É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Ademais, não é possível a esta Corte analisar se foram preenchidos os requisitos do lançamento fiscal, eis que tal análise demandaria reexame dos aspectos fático probatórios da demanda, inviável em sede de recurso especial em razão do óbice da Súmula nº 7 desta Corte.
+2. Quanto à alegação de impossibilidade de inclusão na base de cálculo do PIS e da COFINS dos valores repassados aos parceiros, relativos a 50% dos valores dos imóveis vendidos, a recorrente não indicou o dispositivo de lei federal tido por violado, o que impossibilita o conhecimento do recurso especial na forma da Súmula nº 284 do STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Por outro lado, não é possível conhecer da alegada ofensa ao art. 195, I, "b", da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal no âmbito do recurso extraordinário.
+3. A questão da multa aplicada na origem foi decidida na origem com enfoque eminentemente constitucional, com aplicação da jurisprudência do STF que considera não atentatória ao princípio do não confisco as multas em valores inferiores a 100% do débito. Dai porque não é possível infirmar o acórdão recorrido no ponto, seja porque a recorrente não impugnou o fundamento constitucional do acórdão recorrido a atrair o óbice da Súmula nº 283 do STF, seja porque o art. 2º da Lei nº 9.784/1999 não foi objeto de debate na origem, carecendo de prequestionamento, o que atrai a incidência da Súmula nº 282 do STF.
+4. Agravo interno não provido.
+(AgInt no REsp 1868294/SE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/08/2020, DJe 27/08/2020)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. COFINS. JULGAMENTO ANTECIPADO DA LIDE. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. ANÁLISE QUANTO AOS REQUISITOS DAS CDAS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. BENEFÍCIO DA DENÚNCIA ESPONTÂNEA. DESCABIMENTO. SÚMULA 360/STJ.
+1. A análise da ocorrência de cerceamento de defesa, em virtude do julgamento antecipado da lide, esbarra no óbice da Súmula 7/STJ, pois, para se concluir que a prova documental não seria suficiente, a justificar a necessidade de produção de outras provas, seria necessário o reexame de circunstâncias fáticas e do conjunto probatório constante nos autos.
+2. O STJ possui o entendimento de que o magistrado, como destinatário final das provas, pode, com base em seu livre convencimento, indeferir ou deferir aquelas que considere dispensável ou não à solução da lide, sendo inviável, em Recurso Especial, rever se determinada prova era de fato necessária, porquanto tal procedimento é vedado pela sua Súmula 7.
+3. A aferição da certeza e liquidez da Certidão da Dívida Ativa - CDA, bem como da presença dos requisitos essenciais à sua validade, conduz ao reexame do conjunto fático-probatório dos autos, medida inexequível na instância especial, tendo em vista o óbice da Súmula 7/STJ.
+4. Não há falar em concessão do benefício previsto no art. 138 do CTN. Consoante a Súmula 360/STJ, verbis: "o benefício da denúncia espontânea não se aplica aos tributos sujeitos a lançamento por homologação regularmente declarados, mas pagos a destempo".
+5. Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp 1618790/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/03/2020, DJe 12/05/2020)
+No tocante à discussão acerca da existência de boa-fé, verifica-se que para a análise da tese do recorrente seria necessária uma incursão à seara fático probatória carreada aos autos, o que é indevido no âmbito do recurso especial, incidindo na espécie a súmula 7/STJ.
+Finalmente, sobre a apontada ofensa ao art. 142 do CTN, verifica-se que a matéria constante do referido dispositivo não foi apreciada no acordão recorrido, ressentindo-se do necessário prequestionamento da matéria. Incidência da súmula 282/STF.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço dos agravos para não conhecer dos recursos especiais.
+Publique-se. Intimem-se.
