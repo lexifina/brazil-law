@@ -1,0 +1,13 @@
+DECISÃO
+Por meio da petição de fls. 736-744, o corréuMAIKON DOUGLAS ENGANE requer a extensão dos efeitos da decisão proferida nestes autos, em que concedi a ordem para absolver o paciente Felipe Henrique dos Santos.
+O Ministério Público Federal opinou pelo indeferimento do pedido (fls. 751-753).
+Decido.
+Consoante o art. 580 do CPP, na hipótese de concurso de agentes, a decisão que beneficiar um deles, se fundada em motivos objetivos, aproveitará aos outros.
+Consta dos autos que o corréu requerente foi condenado pela prática do crime previsto no art. 157, § 2 º, I e II, do Código Penal à pena de 7 anos, 3 meses e 3 dias de reclusão, em regime inicial fechado, mais multa.
+Ao conceder a ordem em favor do paciente deste writ (fls. 716-728) e restabelecer a sentença absolutória de primeiro grau, considerei que, embora ele houvesse sido reconhecido pessoalmente na delegacia de acordo com o rito do art. 226 do CPP, em juízo, a vítima, além de não haver reconhecido os acusados com certeza, ainda afirmou que no dia do crime vira apenas os olhos deles. Assim, ausentes outros elementos, o acervo probatório era demasiado frágil para a condenação.
+Em relação ao ora peticionário, conquanto a situação não seja absolutamente idêntica, a extensão da absolvição é medida que se impõe. Isso porque, diferentemente do paciente, o corréu não foi reconhecido nem sequer na delegacia (fls. 44-46), oportunidade em que a ofendida afirmou apenas que o requerente era bastante parecido com um dos criminosos.
+Ademais, conquanto conste que houve a apreensão de uma pulseira de prata na casa do peticionário Maikon, o próprio Juiz de Direito, na sentença, asseriu que (fl. 20, grifei): "É certo que o acusado Maikon foi pego com uma correntinha semelhante a um dos bens subtraídos. Porém, a vítima mesma disse que tal objeto era meramente um do mesmo modelo, sem ter certeza de que pertencesse a ela, mais dando a entender que ficou com o bem fiando-se na palavra do policial do que fiando-se em efetivo reconhecimento dele como seu".
+Assim, tal elemento não basta para justificar a condenação, como bem ponderou o Magistrado singular na sentença absolutória.
+À vista do exposto, defiro o pedido de extensão, a fim de absolver o corréu MAIKON DOUGLAS ENGANE em relação à prática do delito de roubo objeto do Processo n. 0015979-11.2014.8.26.0196 e determinar a imediata expedição de alvará de soltura em seu favor, se por outro motivo não estiver preso, ou não houver a necessidade de sê-lo.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias para as providências cabíveis.
+Publique-se e intimem-se.
