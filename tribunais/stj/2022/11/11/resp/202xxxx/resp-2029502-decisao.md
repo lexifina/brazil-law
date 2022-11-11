@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE SANTA CATARINA - CREA/SC contra acórdão assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. CONSELHOS DE FISCALIZAÇÃO PROFISSIONAL. ART. 8º DA LEI 12.514/2011 NA REDAÇÃO DA LEI N. 14.195/21. CONDIÇÃO DE PROCEDIBILIDADE PARA A PROPOSITURA DA EXECUÇÃO. VALOR REAJUSTADO DE ACORDO COM O INPC.
+1. Juridicamente hígida a condição de procedibilidade introduzida pela Lei 14.195/2021 no art. 8º da Lei 12.514/2011 para a propositura de executivo fiscal pelos Conselhos de Fiscalização Profissional.
+2. A aplicação do teto mínimo para o ajuizamento da execução fiscal independe do valor da anuidade fixado pelo respectivo Conselho, considerando a opção legislativa por um valor fixo (inciso I do art. 6º da Lei12.514/2011, na redação da Lei 14.195/2021 ).
+3. Nos termos do art. 6º, "caput", I, da Lei nº 12.514/2011, o valor tomado por parâmetro é R$500,00, que deve ser reajustado de acordo com a variação integral do Índice Nacional de Preços ao Consumidor - INPC, conforme previsto no §1º do mesmo preceito legal.
+Atribuiu-se à causa o valor de R$ 3.319,03.
+Em seu recurso especial, o recorrente suscitou contrariedade aos arts. 4º, 6º e 8º da Lei n. 12.514/2011, sustentando, em síntese, que a multa aplicada é válida pois não se submete ao valor mínimo de execução, e que o seu valor encontra-se condizente com a previsão legal.
+É o relatório. Decido.
+Quanto à alegação de que a multa aplicada pela prática de ilícito administrativo não se submete ao valor mínimo para execução prevista na Lei n. 12.514/2011, verifica-se que, no acórdão recorrido, não foi analisado o conteúdo deste dispositivo legal, nem foram opostos embargos de declaração para tal fim, pelo que carece o recurso do indispensável requisito do prequestionamento. Incidência dos Enunciados Sumulares n. 282 e 356 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Súmula 356. O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento.
+Não constando, do acórdão recorrido, análise sobre a matéria referida no dispositivo legal indicado no recurso especial, restava ao recorrente pleitear seu exame por meio de embargos de declaração, a fim de buscar o suprimento da suposta omissão e provocar o prequestionamento, o que não ocorreu na hipótese dos autos.
+E em relação à alegação de que o valor da execução fiscal está condizente com a disposição dos artigos 6º e 8º da Lei nº 12.514/2011, é irrefutável que o Tribunal de origem, ao apreciar o conteúdo fático e probatório dos autos, consignou expressamente que "no caso concreto, os valores que o Conselho pretende executar (R$3.319,03) são inferiores ao patamar de 05 (cinco) vezes o valor atualizado constante do inciso I do caput do art. 6º da Lei nº 12.514/2011, na redação que lhe deu o art. 21 da Lei 14.195, de 27 de agosto de 2021."
+Dessa forma, para rever tal posição, relativa à corretude no ajuste dos valores apurados em sintonia com a legislação de regência, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame dos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
