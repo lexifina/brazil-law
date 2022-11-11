@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por NOBRE SEGURADORA DO BRASIL S.A - EM LIQUIDACAO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÕES CÍVEIS. AÇÃO INDENIZATÓRIA. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. DENUNCIAÇÃO DA LIDE À SEGURADORA E POSTERIORMENTE À RES SEGURADORA. SENTENÇA DE PARCIAL PROCEDÊNCIA. INSURGÊNCIA DE TODAS AS RÉS. DESNECESSIDADE DE REDISTRIBUIÇÃO DOS ÔNUS SUCUMBENCIAIS. IMPOSSIBILIDADE DE FIXAÇÃO DE HONORÁRIOS RECURSAIS. APELOS CONHECIDOS E PARCIALMENTE PROVIDOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 8º do CPC; e 944 do CC, no que concerne à desproporcionalidade do valor fixado a título de danos morais, trazendo o(s) seguinte(s) argumento(s):
+O presente recurso funda-se, sobretudo, na evidente desproporcionalidade da verba indenizatória arbitrada, não se prestando em momento algum a rediscutir o mérito da demanda. Tão somente serve a demonstrar que o acórdão fere Lei Federal, conforme se demonstrará em linhas posteriores.
+ ..
+Doutos Ministros, não é admissível uma indenização por danos morais na quantia estabelecida, sendo arbitrada pela Nobre Corte Estadual na exorbitante quantia de R 20.000,00 (vinte mil reais). Trata-se de condenação absolutamente desproporcional.
+ ..
+Em outras palavras, vale dizer: o valor da indenização deverá ser fixado segundo critérios de MODERAÇÃO e RAZOABILIDADE, de forma a impedir exageros, o que não ocorreu nesta demanda com o arbitramento da indenização na quantia indicada. (fls. 1.361/1.362).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+"Não obstante, é evidente a ocorrência de abalo anímico advinda do sinistro, tendo em vista que, dos documentos colacionados aos autos, extraio que o recorrido sofreu lesões físicas consideráveis e correu risco de morte, consoante descrito no laudo pericial do evento 216, pp. 437-445.
+Ademais, o apelado passou diversos dias hospitalizado e, quando retornou ao seu lar, precisou se utilizar de cadeira de rodas, em razão da impossibilidade de locomoção, totalizando aproximadamente 50 dias de recuperação, além das sessões de fisioterapia.
+Ressalto, nessa toada, que as lesões, ainda que tenham sido tratadas,são suficiente para evidenciar o abalo moral sofrido pela vítima
+ ..
+Dessarte, não há dúvidas do dano extrapatrimonial sofrido, motivo pelo qual é inafastável a indenização a título de danos morais.
+Com relação à verba compensatória arbitrada, é certo que a lei não previu critérios legais específicos para a fixação desta, mas tão somente dispôs que "a indenização mede-se pela extensão do dano" (art. 944 do Código Civil), aspecto que deve ser aferido em cada caso, consoante as provas carreadas aos autos.
+Assim, diante da ausência de parâmetros, o montante ressarcitório deve ser arbitrado pelo magistrado de acordo com as peculiaridades da hipótese em concreto, bem como levando em conta a posição social e econômica das partes, a intensidade do dolo ou o grau de culpa do agente, a repercussão social da ofensa e o aspecto punitivo-retributivo da medida, critérios amplamente reconhecidos pela doutrina e pela jurisprudência.
+A condenação por danos morais também possui um caráter preventivo e pedagógico, a fim de desestimular o ofensor em práticas análogas, devendo ser fixada em valor não irrisório e nem exorbitante.
+No caso em tela, analisando as especificidades da hipótese e diante da inexistência de indícios sobre a capacidade financeira da empresa Auto viação Chapecó, a repercussão do evento danoso na vida da vítima e, ainda, levando em consideração os valores usualmente arbitrados neste Sodalício em situações semelhantes, entendo que o montante reparatório arbitrado na origem (R$ 30.000,00) se afigura excessivo.
+Isso porque o apelado não exercia atividade remunerada na época do sinistro, não sendo responsável pelo sustento de sua família. Inclusive, pelo que se vislumbra das informações colacionadas ao feito, o recorrido está empregado no momento.
+Em adição, destaco que não houve incapacidade permanente de nenhum membro da vítima, embora este tenha relatado um encurtamento de uma das pernas em razão de deslocamento da bacia.
+Desse modo, o valor da indenização por danos morais merece ser minorado para R$ 20.000,00 (vinte mil reais), atualizados monetariamente a partir da data deste julgamento" (fl. 1.341).
+Tal o contexto, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
