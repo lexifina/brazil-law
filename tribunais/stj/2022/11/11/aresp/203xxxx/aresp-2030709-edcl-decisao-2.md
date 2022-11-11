@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se  de  embargos  de  declaração  opostos  por  PATRÍCIA  DE  CASTRO  ALMEIDA  à  decisão  (fls.  1.463-1.467,  e-STJ)  que  negou  provimento  ao  recurso  especial,  na  qual  houve  majoração  dos  honorários  recursais  da  seguinte  forma:
+"(..)
+Na  origem,  os  honorários  sucumbenciais  foram  fixados  em  12%  (doze  por  cento)  sobre  o  valor  da  causa  (R$  1.000,00  -  mil  reais),  os  quais  devem  ser  majorados  para  15%  (quinze  por  cento)  em  favor  do  advogado  da  parte  recorrida,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil  de  2015,  observado  o  benefício  da  gratuidade  da  justiça,  se  for  o  caso"  (fl.  1.467,  e-STJ).
+Em  suas  razões,  a  embargante  aponta  a  existência  de  erro  material  na  decisão  combatida,  alegando  que  o  valor  da  causa  adotado  para  fixar  a  verba  honorária  em  grau  recursal  -  R$  1.000,00  (mil  reais)  -  não  reflete  a  realidade  dos  autos.
+Afirma  que  o  valor  da  causa  foi  objeto  de  impugnação,  tendo  sido  alterado  pela  sentença  para  R$  910.457,67  (novecentos  e  dez  mil,  quatrocentos  e  cinquenta  e  sete  reais  e  sessenta  e  sete  centavos).
+Requer,  ao  final,  o  acolhimento  dos  presentes  declaratórios  para  corrigir  o  erro  material  apontado.
+É  o  relatório.
+DECIDO.
+O  recurso  merece  acolhida.
+De  fato,  houve  erro  material  na  decisão  embargada  quanto  ao  valor  da  verba  honorária.
+Com  efeito,  verifica-se  que  a  sentença  acolheu  o  pedido  de  impugnação  ao  valor  à  causa.
+Naquela  oportunidade,  o  valor  da  causa  foi  alterado  para  R$  910.457,67  (novecentos  e  dez  mil,  quatrocentos  e  cinquenta  e  sete  reais  e  sessenta  e  sete  centavos).  É  o  que  se  extrai  da  seguinte  passagem  da  sentença:
+"(..)
+Primeiramente,  passo  à  análise  da  impugnação  ao  valor  da  causa,  que  deve  ser  acolhida.  Decerto  que  a  autora  indica  uma  quantia  módica,  que  não  representa  minimamente  o  conteúdo  econômico  efetivamente  perseguido.  Nos  termos  do  inciso  II,  do  artigo  292,  do  CPC,  o  valor  da  causa  deve  corresponder  o  valor  do  ato  ou  o  de  sua  parte  controvertida,  na  ação  que  tiver  por  objeto  a  existência,  a  validade,  o  cumprimento,  a  modificação,  a  resolução,  a  resilição  ou  a  rescisão  de  ato  jurídico.  Logo,  tendo  ocorrido  o  bloqueio  em  favor  da  autora  nos  autos  do  processo  n.º  0031812-  24.2001.8.19.0001,  no  valor  de  R$  5.058.098,18  (cinco  milhões,  cinquenta  e  oito  mil  e  noventa  e  oito  reais  e  dezoito  centavos),  fixo  o  valor  da  causa  em  R$  910.457,67  (novecentos  e  dez  mil,  quatrocentos  e  cinquenta  e  sete  reais  e  sessenta  e  sete  centavos),  correspondente  a  18%  (dezoito  por  cento)  do  montante  penhorado  por  ser  o  percentual  referente  aos  honorários  advocatícios  que  se  pretende  a  nulidade  na  presente  demanda,  dispensada  a  exigibilidade  do  recolhimento  das  custas  e  emolumentos,  observada  a  gratuidade  de  justiça  deferida  à  autora"  (fl.  674,  e-STJ).
+À  vista  do  explanado,  acolhe-se  o  erro  material  apontado  para  fazer  constar  que  o  valor  atribuído  à  causa  corresponde  a  R$  910.457,67  (novecentos  e  dez  mil,  quatrocentos  e  cinquenta  e  sete  reais  e  sessenta  e  sete  centavos).
+Assim,  os  honorários  recursais  passam  a  ser  fixados  da  seguinte  forma:
+Em  observância  ao  art.  85,  §  11,  do  Código  de  Processo  Civil  de  2015,  os  honorários  sucumbenciais  foram  fixados  em  12%  (doze  por  cento)  sobre  o  valor  da  causa  R$  910.457,67  (novecentos  e  dez  mil,  quatrocentos  e  cinquenta  e  sete  reais  e  sessenta  e  sete  centavos),  os  quais  devem  ser  majorados  para  15%  (quinze  por  cento)  em  favor  do  advogado  da  parte  recorrida,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil  de  2015,  observado  o  benefício  da  gratuidade  da  justiça,  se  for  o  caso.
+Assim,  acolho  os  presentes  embargos  de  declaração  com  efeitos  integrativos,  a  fim  de  sanar  o  erro  material  apontado,  nos  termos  da  fundamentação  acima  exposta.
+Publique-se.
+Intimem-se.
