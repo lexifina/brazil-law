@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por MUNICÍPIO DE CAMPO GRANDE com fundamento no art. 105, III, a, da Constituição Federal.
+Na origem, o município opôs embargos à execução fiscal movida pela Fazenda Nacional, com valor da causa atribuído em R$ 5.221.468,45 (cinco milhões, duzentos e vinte e um mil, quatrocentos e sessenta e oito reais e quarenta e cinco centavos), tendo como objetivo a cobrança de débitos relativo à contribuição previdenciária.
+Após sentença que julgou improcedente o pedido, foi interposta apelação, a qual foi improvida pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO emacórdãoassim ementado, in verbis:
+PROCESSO CIVIL - APELAÇÃO CIVIL - EXECUÇÃO FISCAL EMBARGOS -CONTRIBUIÇÃO PREVIDENCIÁRIA - CONTRIBUINTE INDIVIDUAL - ART. 22, III, DA LEI 8.212/91 - TOMADOR DE SERVIÇOS - EQUIPARADO A EMPRESA - CONTRIBUINTE DE FATO - HONORÁRIOS ADVOCATÍCIOS - CONDENAÇÃO -AFASTAMENTO - NECESSIDADE.
+I - A contribuição previdenciária prevista no art. 22, III da Lei 8.212/91 tem base constitucional prevista no art. 195, I, "a" da CF/88.
+II - O tomador dos serviços do contribuinte individual é, de fato, o devedor da contribuição previdenciária incidente sobre os pagamentos feitos para retribuir os serviços prestados ( art. 22, III da Lei 8.212/91) .
+III - Por ser o Fundo de Assistência ao Servidor Público Municipal entidade pública da administração direta ou indireta, equipara-se a empresa ao contratar os serviços do contribuinte individual ( art. 15, I da Lei 8.212/91).
+IV - A condenação da parte embargante no pagamento de honorários advocatícios deve ser afastada, ante a cobrança do encargos previsto no DL nº 1.025/69.
+V - Apelo improvido. Remessa oficial tida por interposta parcialmente provida.
+No presente recurso especial, oMUNICÍPIO DE CAMPO GRANDE aponta violação dos arts. 15, 22, I, e 30, II, da Lei n. 8.212/1991.Sustenta, em síntese, que o FUNSERV - Fundo de Assistência ao Servidor Público Municipal presta assistência à saúde dos servidores municipais, sem fins lucrativos, não podendo ser equiparado à empresa, conforme preceitua o art. 14 do CTN. Salienta quenão tem relação de emprego com os profissionais de saúde que prestam serviço aos servidores públicos municipais, não podendo ser neste caso, equiparado a empregador. Ressalta queos prestadores de serviço devem ser considerados como contribuintes individuais, sendo estes os detentores da obrigação tributária de recolher ao fisco previdenciário a sua contribuição e não o Fundo de saúde, que não admite e nem assalaria ninguém.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+O voto condutor do acórdão recorrido afastou a isenção prevista no art. 195, § 7º da Constituição Federal, porque o recorrente não conseguiu demonstrar a condição de entidade filantrópica sem fins lucrativos (fl. 229):
+Não se aplica à recorrente as disposições do art. 195, § 7º da CF/88, pois, além de não comprovar o preenchimento dos requisitos do art. 14 do Código Tributário Nacional, não comprovou, documentalmente, qualquer condição de entidade filantrópica sem fins lucrativo de assistência aos servidor público.
+Assim, apretensão recursal de rever o posicionamento adotado no acórdão recorrido quanto a ausência de comprovação do caráter assistencial do FUNSERVteria necessariamente que passar pela revisão de todo o conjunto fático/probatório apresentado, a qual poderia até mesmo não ser suficiente, demandando outras provas. Ocorre que tal atividade probatória é típica das instâncias ordinárias, sendo vedada nas instâncias extraordinárias.
+Logo, o recurso é inviável, assim porque chegar a entendimento diverso, in casu, demandaria revolvimento fático probatório inviável em sede de Recurso Especial ante o óbice da Súmula 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ não conheço do recurso especial.
+Publique-se. Intimem-se.
