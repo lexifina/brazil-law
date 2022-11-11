@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial tirado contra acórdão do TJMG assim ementado (e-STJ, fl. 1.195):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA C/C RESCISÃO E INDENIZAÇÃO- PRELIMINARES - ILEGITIMIDADE E INÉPCIA DA INICIAL - AFASTADAS - CONTRATO DE PRESTAÇÃO DE SERVIÇOS - ÔNUS DA PROVA DO AUTOR - NÃO DESINCUMBIDO - PLEITO REJEITADO - SENTENÇA REFORMADA - RECURSO DO AUTOR NÃO PROVIDO - RECURSO DAS REQUERIDAS - PROVIDO.
+- A legitimidade é, em princípio, definida como a qualidade necessária ao autor e réu para figurar como sujeitos, em tese, do direito material controvertido.
+- Não se pode cogitar em inépcia da inicial simplesmente com base na alegação de que a parte autora cumulou pedidos declaratórios e condenatórios, porquanto inexiste óbice legal nesse sentido.
+- Inexiste desequilíbrio contratual em obrigação, tampouco obrigação imposta de forma desproporcional à contratada se, com base nas provas coligidas aos autos, ela se sujeitou as regras estabelecidas no  instrumento e assumiu o risco de prestar o serviço em um número maior ou menor do que aquele inicialmente estimado.
+Os embargos de declaração opostos ao aresto foram rejeitados (e-STJ, fls. 1.208/1.217 e 1.220/1.224).
+Nas razões do especial (e-STJ, fls. 1.227/1.246), a recorrente afirma violados os arts. 1.022, I e II, c.c. 489, § 1º, IV, e 966, VI, todos do CPC/2015, aduzindo negativa de prestação jurisdicional. Sustenta que o TJ local incorreu em equívoco de premissa fática, atribuindo equivocada valoração sobre documento juntado aos autos. Indica violação dos arts. 219 e 653 do CC/2002, bem assim do art. 373 do CPC/2015, sustentando que a revaloração das provas coligidas aos autos demonstraria o descumprimento contratual das recorridas, atraindo a responsabilidade civil e o dever de indenizar.
+Contrarrazões às fls. 1.260/1.275 e 1.276/1.280 (e-STJ).
+Decisão pela inadmissibilidade do recurso às fls. 1.282/1.285 (e-STJ).
+Razões do agravo às fls. 1.288/1.306 (e-STJ).
+Contraminutas às fls. 1.309/1.313 e 1.315/1.325 (e-STJ).
+É o relatório.
+Decido.
+De início, afasto a negativa de prestação jurisdicional. O TJ local examinou todo o contrato e demais provas coligidas aos autos para fundamentar sua conclusão, que não está exclusivamente baseada em um único documento, de sorte que o aventado "erro de premissa", ainda que reconhecido, não se afiguraria relevante para alterar a solução da controvérsia.
+Quanto ao mais, a avaliação sobre a amplitude do contrato e o suposto inadimplemento das recorridas foi solucionado pelo TJMG, como antes afirmado, por meio de longo e detalhado exame dos diversoselementos fático-probatórios coligidos aos autos - incluídos os instrumentos contratuais e prova pericial-concluindo pela inexistência de estipulação mínima sobre a quantidade de equipamentos que seriam transformados, a existência de modificaçãodas bases contratuais com a anuência da recorrente,bem assim que não houve o alegado inadimplemento das contratantes (e-STJ, fls. 1.200/1.203):
+Cinge-se a controvérsia nesta instancia revisora em apurar suposta inadimplência contratual por parte das requeridas e consequente obrigação destas de arcarem com as respectivas multas e danos morais ocasionados à autora.
+Resta evidenciado nos autos a relação jurídica entabulada entre as partes através do instrumento de fls. 118/210 que, posteriormente, sofreu algumas modificações através das atas das reuniões em que a autora estava devidamente representada por Angelo Polatti, Nilson Cristiano Belizário e/ou Adenilson Cristiano Belizário (fls. 144, 146, 147,150, 151, 152, 154, 155), ensejando um acordo sobre o aumento na demanda em ocasião pontual, seguida de uma diminuição dos compressores a serem enviados, além da inclusão dos compressores modelos 3CDC e 3CDCB, sem alteração contratual em função da modificação do equipamento a ser restaurado. Veja-se:
+(..)
+"3 - Também foi acordado a inclusão no contrato de compressores 3CDC e 3CDCB, reportando à planilha de serviços e material existente no contrato atual, uma vez que os serviços a serem executados a serem executadosserem similares.
+4 - O contrato está sendo modificado somente no escopo; sem nenhuma alteração contratual, inclusivenas peças atuais acordadas em contrato".
+Como visto, a contratada participou de todas as reuniões, concordou com as modificações, sendo incabível agora alegar alteração unilateral do instrumento por parte da contratante ou irregularidade na respectiva formalização, haja vista que estaria se beneficiando da própria torpeza.
+Cumpre ressaltar que anteriormente a celebração do contrato de prestação de serviço, a FCA, através da "Requisição de Proposta nº 10163549" (fls.305/308), convidou diversos fornecedores para apresentarem propostas para o serviço de recuperação de compressores. No citado documento inexiste a especificação do número de compressores exato a serem recuperados (fls.305 e 307). Confira-se:
+"Os prazos para a entrega dos equipamentos recuperados serão de 30 dias para cada lote mínimo de 05 (cinco) peças, ou seja, a cada 30 dias a CONTRATADA deverá entregar 05 (cinco) peças (no mínimo) recuperadas, sendo que o período será contado a partir do envio do material a ser recuperado (data de saída da nota fiscal de devolução).
+As entregas, bem como os faturamentos, poderão ser parcelados. O gestor do contrato (FCA) e a contratada poderão negociar os prazos de entrega diminuindo ou aumentando a quantidade de peças por mês, desde que seja formalizado em ata de reunião". (Grifo nosso).
+"A FCA não fica obrigada a fornecer o quantitativo indicado na planilha de serviços".
+Chega-se à ilação a partir daí que a FCA não se comprometeu o número de compressores a serem recuperados indicados no "Quadro de Quantidades e Preços", anexos ao contrato, mas tão somente que o fornecedor, que se interessasse pela adjudicação do contrato, deveria ter a capacidade mínima para recuperar cinco compressores por mês.
+A mesma conclusão se verifica ao examinar o contrato propriamente dito, formalizado entre os ora litigantes. No conteúdo deste inexiste previsão no sentido de que a FCA estava obrigada a encaminhar no mínimo 50 compressores para o reparo, totalizando o montante de R$ 2.878.485,00. Tal quantitativo e respectivo valor apresentam-se como mera estimativa, inclusive para cálculo de penalidade, consoante as cláusulas abaixo transcritas.
+"Cláusula Primeira - Objeto:
+- Este Contrato tem por objeto a prestação de serviço de recuperação de compressores, a ser realizada nas instalações da ISOMEC, pela Contratada (os "serviços").
+CLÁUSULA SEGUNDA - PREÇO E FORMA DE PAGAMENTO
+(..)
+2.5. A CONTRATADA procederá mensalmente a medição dos SERVIÇOS, lançando os quantitativos nos respectivos Boletim de Medição, que será emitido pela CONTRATADA no último dia do mês, exceto a primeira medição a qual será contada a partir da data da primeira ordem de serviço até o último dia de cada mês.
+Cláusula Quarta - Obrigação da FCA
+4.1. Sem prejuízo das demais disposições deste Contrato, constituem obrigações da FCA:
+(i) realizar os pagamentos de acordo com o estabelecido neste Contrato;
+(ii) entregar À CONTRATADA todas as informações e normas internas da FCA necessárias à prestação dos SERVIÇOS;
+(iii) assegurar o acesso às suas instalações dos empregados e equipamentos necessários à prestação dos SERVIÇOS, desde que indicados por escrito pela CONTRATADA.
+Cláusula nona - Penalidades e Responsabilidades
+(..)
+9.4 - As partes acordam que o valor de referência para cálculo das penalidades estabelecidas neste contrato será R$ 2.878.485,00 (dois milhões oitocentos e setenta e oito mil e quatrocentos e oitenta e cinco reais), atualizado monetariamente com base na variação do IGP-M/FGV Índice Geral de Preços do Mercado ou outro índice que o substitua, desde a assinatura do Contrato até a data de pagamento da penalidade".
+Lado outro, da prova técnica produzida (fls. 637), bem como dos esclarecimentos prestados pelo expert (fls. 722/723) extrai-se que foram transformados efetivamente 48 compressores, sendo 31 "Gardner WXOV - V10005993 - WBO", objeto inicial do contrato em questão, 14 3CDC e 3 3CDCB, que foram posteriormente incluídos do contrato por meio de acordo especificado na alteração oriunda da assembleia, cuja ata encontra-se colacionada às fls. 155, conforme já mencionado.
+Registra-se ainda, conforme informação constante do laudo pericial, a remuneração da autora acontecia com base no serviço prestado. Foram enviados pela FCA 48 compressores, mas a efetivação do serviço pela demandante aconteceu apenas em 47.
+Diante disso, segundo o perito, do total previsto no contrato R$ 2.882.895,00 foi executado o serviço que totalizou R$ 2.617.965,23, gerando uma diferença de R$ 264.929,77, ou seja, cerca de 91% do serviço inicialmente estimado fora prestado e faturado.
+Ainda que o contrato em questão não tenha definido expressamente o número mínimo de 50 compressores, constando tal informação apenas como uma estimativa, esta fora quase totalmentealcançada. Destarte, não se pode falar em desequilíbrio contratual tampouco em obrigação imposta de formadesproporcional à contratada, pois, com base na requisição antecedente de fornecedores e no contrato formalizado, ela se sujeitou as regras ali estabelecidas e assumiu o risco de reformar mais ou menos equipamentos.
+Por conseguinte, após detida análise de todos os elementos coligidos ao feito, não tendo a autora se desincumbido de seu ônus probante, nos termos do art. 373, I do CPC, é de rigor reconhecer que as requeridas não descumpriram qualquer obrigação contratual, restando inviável imputar-lhes a culpabilidade pelo término da relação jurídica que, na verdade, se deu de forma natural após a prestação do serviço.
+Inafastável, nesse contexto, a incidência dos obstáculos erigidos pelas Súmulas n. 5 e 7 do STJ.
+Ante o exposto, NEGO PROVIMENTO ao agravo nos próprios autos.
+Na forma prevista pelo art. 85, § 11, do CPC/2015, MAJORO em 20% (vinte por cento) os honorários advocatícios fixados pelas instâncias de origem.
+Publique-se. Intimem-se.
