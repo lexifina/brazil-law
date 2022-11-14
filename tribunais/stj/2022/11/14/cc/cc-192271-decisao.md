@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que é suscitante o Juízo de Direito da 6ª Vara Criminal de João Pessoa/PBe suscitado o Juízo de Direitoda 2ª Vara Criminal de Divinópolis/MG.
+Consta dos autosque na origem foi instaurado inquérito policial para apurar a prática, em tese, de estelionato praticado por possívelautor domiciliado em João Pessoa/BP contra vítima domiciliada em Divinópolis/MG.
+De acordo com o Juízo sediado na capital paraibana, a parte supostamente ofendida "sequer esteve presente nesta comarca na ocasião do crime, ficando também demonstrado por meio das investigações que o delito teria sido cometido através do site eletrônico OLX" (e-STJ fl. 210).
+Por esta razão, concluiu que tendo ocorrido a consumação do estelionato em João Pessoa, aquele seria o foro adequado para processamento do feito.
+O Juízo suscitante, por sua vez, acolheu manifestação ministerial, no sentido de que a consumação ocorrera em Divinópolis, no Estado de Minas Gerais, onde reside a vítima.
+Em regular trâmite, o Ministério Público Federal opinou pela fixação da competência do Juízo suscitado(e-STJ fls. 216-219).
+É o relatório.
+De início, conheço do presente conflito de competência, por tratar-se de incidente instaurado entre Juízos vinculados a Tribunais distintos, nos termos do art. 105, I,d, da Constituição da República.
+Conforme referido, na origem tramita investigação concernente à prática, em tese, de estelionato, mediante transferência bancária efetivada pela vítima a partir da cidade onde reside - Divinópolis/MG.
+O investigado teria convencido a vítima a adquirir determinado automóvel, por meio detransferência bancária no montante de R$ 32 mil para a conta de uma mulher, cuja conta pertence a uma agência do Banco do Brasil localizada em João Pessoa/PB.
+Cumpre ressaltar que, por meio da Lei n. 14.155/2021, o legisladorinseriuo § 4º no art. 70 do Código de Processo Penal, com oseguinte teor:
+§ 4º Nos crimes previstos no art. 171 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), quando praticados mediante depósito, mediante emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, a competência será definida pelo local do domicílio da vítima, e, em caso de pluralidade de vítimas, a competência firmar-se-á pela prevenção. (Incluído pela Lei nº 14.155, de 2021).
+Como se vê, a solução do caso concreto deve ser no sentido da fixação da competência do Juízo de Direito da 2ª Vara Criminal de Divinópolis/MG, pois houve a transferência de valores por meio de depósito e a vítima possuidomicílio naquela municipalidade.
+Com efeito, é este oentendimento jurisprudencial da Terceira Seção do Superior Tribunal de Justiça, conforme revela a seguinte ementa:
+CONFLITO NEGATIVO DE COMPETÊNCIA. INQUÉRITO POLICIAL. ESTELIONATO. TRANSFERÊNCIA BANCÁRIA REALIZADA PELA VÍTIMA. NUMERÁRIO CREDITADO EM CONTA CORRENTE DO SUPOSTO ESTELIONATÁRIO. COMPETÊNCIA DO LOCAL DE DOMICÍLIO DA VÍTIMA. ART. 70, § 4º, DO CÓDIGO DE PROCESSO PENAL - CPP. ALTERAÇÃO ADVINDA DA LEI N. 14.155/2021. LEI PROCESSUAL. APLICABILIDADE IMEDIATA. TEMPUS REGIT ACTUM. COMPETÊNCIA DA JUÍZO SUSCITADO.
+1. O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre Juízos vinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d da Constituição Federal - CF.
+2. O núcleo da controvérsia consiste em definir o Juízo competente para julgar crime de estelionato no qual a vítima, ludibriada pelo autor do delito, efetuou transferência bancária em favor do estelionatário.
+3. A Lei n. 14.155/2021 de 27 de maio de 2021, vigente desde a data da sua publicação, passou a disciplinar a competência no crime de estelionato, introduzindo o parágrafo 4º do art. 70 do Código de Processo Penal, segundo o qual  nos crimes previstos no art. 171 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), quando praticados mediante depósito, mediante emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, a competência será definida pelo local do domicílio da vítima, e, em caso de pluralidade de vítimas, a competência firmar-se-á pela prevenção .
+4. Em se tratando de regra de competência promovida por lei de natureza processual, sua aplicabilidade deve ser imediata, conforme remansosa jurisprudência da Terceira Seção do Superior Tribunal de Justiça. Precedentes: CC 160.902/RJ, Rel. Ministra LAURITA VAZ, DJe 18/12/2018; CC 161.898/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 20/2/2019 e CC 163.365/MG, de minha relatoria, DJe 27/11/2020.
+5. No caso dos autos, de acordo com declarações prestadas perante a Delegacia de Polícia de Birigui/SP, a vítima é residente e domiciliada nesta comarca. Observa-se ainda, que, conforme extrato de transferência bancária acostado aos autos, a vítima possui conta corrente em agência do Banco do Brasil situada no mesmo município em que reside.
+6. Assim, deve-se reconhecer a competência do local do domicílio da vítima, considerando as inovações processuais de aplicabilidade imediata advindas da Lei n. 14.155. de 27 de maio de 2021 sobre o juízo competente para análise do estelionato praticado mediante transferência de valores.
+7. Conflito conhecido para declarar competente o Juízo de Direito da 2ª Vara Criminal de Birigui/SP, o suscitado.
+(CC n. 180.260/DF, relator Ministro Joel Ilan Paciornik, Terceira Seção, julgado em 8/9/2021, DJe de 10/9/2021.)
+Convém ressaltar, na linha do supratranscrito precedente, que tal norma processual é de aplicabilidade imediata, devendo ser aplicada desde já no caso ora em análise.
+Ante o exposto, conheço do conflito e declaro competente o Juízo de Direito da 2ª Vara Criminal de Divinópolis/MG, ora suscitado.
+Publique-se.
+Dê-se ciência aos juízos em conflito.
+Cientifique-se o Ministério Público Federal.
