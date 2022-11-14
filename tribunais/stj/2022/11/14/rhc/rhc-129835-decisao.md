@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por ROSINALDO SANTOS WANDERLEY contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO (HC n.1039444-91.2019.4.01.0000).
+Consta dos autos que foi instaurado inquérito contra o recorrente a fim de apurar a prática dos delitos descritosnos arts. 325, § 2º, do Código Penale2º da Lei n. 12.850/2013.
+A defesa impetrouhabeas corpusperante a Corte de origem, a qualdenegou a ordem, em acórdão assim ementado (e-STJ fls. 609/610):
+PROCESSO PENAL. HABEAS CORPUS. TRANCAMENTO DE INQUÉRITO POLICIAL. VIOLAÇÃO DE SIGILO FUNCIONAL E EMBARAÇO À INVESTIGAÇÃO DE ORGANIZAÇÃO CRIMINOSA. VAZAMENTO DE INFORMAÇÕES ANTES DA DEFLAGRAÇÃO DA OPERAÇÃO CUSTO POLÍTICO. DECRETAÇÃO DE MEDIDAS CAUTELARES. EXCEPCIONALIDADE DO TRANCAMENTO NÃO EVIDENCIADA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. DENEGAÇÃO DA ORDEM.
+1. Habeas Corpus, com pedido de liminar, objetivando o trancamento de inquérito policial instaurado com a finalidade de apurar possível ocorrência dos delitos previstos nos artigos 325, § 2º, do Código Penal e artigo 2º da Lei 12.850, ante as evidências de vazamento da Operação Custo Político, 3ª fase da Operação Maus Caminhos.
+2. O trancamento de inquérito policial por habeas corpus é medida excepcional, somente aceita quando demonstrados, prima facie, a atipicidade da conduta ou a negativa de autoria, o que não ocorre nesse caso.
+3. Conforme bem esclareceu o MPF em seu parecer "(..)No presente caso, não se verifica manifesta ausência de justa causa e a investigação ainda está em trâmite, ao que se nota, as medidas cautelares deferidas em desfavor do paciente - entre elas o seu afastamento das suas funções de Delegado de Polícia Federal - foram necessárias e adequadas para cessar a continuidade dos vazamentos de informações sobre investigações ainda em andamento, bem como mostram-se imprescindíveis para a evolução deste inquérito, eademais foram as menos gravosas frente ao leque de opções cautelares previstas nos arts. 312 e 319 do CPP".
+4. Ordem denegada.
+Daí o presente recurso ordinário, no qual alega falta de justa causa para o inquérito policial.
+Requer, assim, a"imediata extinçãoe/ou trancamento imediato do IPL nº. 892/2017-SR/PF/AM por falta de fundamentação idônea eausência de JUSTA CAUSA, com destruição de qualquer escrito/documento envolvendo o nome do Recorrente. Ainda, que a decisão declare, de forma indubitável a atipicidade da conduta (que nem houve, com relação ao Recorrente) e a ausência de indícios de autoria ou de prova da materialidade do delito, isto para impedir que usem o mesmo fato inexistente para tentar puni-lo administrativamente. E, também, a devolução de todo material apreendido no Autode Apreensão nº. 173/2019-SR/PF/AM, com exceção da arma de fogo (pertencente à Policia Federal)" (e-STJ fls. 639/640).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso emhabeas corpus.
+É o relatório.
+Decido.
+Conforme informações prestadas pelas instâncias de origem, o inquérito, "após o encerramento das investigações, foi arquivado pelo juízo em dezembro de 2021, após manifestações do MPF favorável ao arquivamento. Os autos da representação, por seu turno, tiveram seu arquivamento determinado em despacho exarado em 08/08/2022" (e-STJ fl. 693).
+Dessa forma, o pedido de trancamento ou extinção do inquérito encontra-se prejudicado.
+Com relação aos demais pedidos (destruição de qualquer escrito/documento envolvendo o nome do recorrente, atipicidade da conduta, ausência de indícios de autoria e prova da materialidade e devolução de todo material apreendido), tem-se que tais pleitos não foram analisados pelo Tribunala quono julgamento dohabeas corpusoriginário, o que impede o debate diretamente por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+Ante o exposto, conheço em parte do recurso emhabeas corpuse, nessa extensão, julgo-o prejudicado.
+Publique-se. Intimem-se.
