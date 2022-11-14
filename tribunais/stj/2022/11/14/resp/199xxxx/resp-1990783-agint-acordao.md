@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se do agravo interposto por ANTONIO DE PAULI S A, contra decisão unipessoal que não conheceudo recurso especial que interpusera.
+Ação: de execução de título extrajudicial, lastreada em cédulas de crédito bancário, ajuizada por NEOPORT PARTICIPAÇÕES S/A, em face de COCELPA CIA DE CELULOSE E PAPEL DO PARANÁ (devedora principal) e ANTONIO DE PAULI S/A, COMPET AGRO FLORESTAL S/A, ARPECO S/A ARTEFATOS DE PAPÉIS e CONPEL CIA NORDESTINA DEPAPEL (avalistas).
+Decisão interlocutória: indeferiu o pedido de intimação das coexecutadas dos atos de avaliação dos imóveis de propriedade da agravante, bem como rejeitou a impugnação à nomeação do perito.
+Acórdão:negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+PROCESSOCIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃODETÍTULO EXTRAJUDICIAL. AVALIAÇÃO JUDICIAL. CARTA PRECATÓRIA. CUMPRIMENTO. INTIMAÇÃO DOS CO-DEVEDORES. DESNECESSIDADE. IMÓVEL QUE PERTENCE EXCLUSIVAMENTE AO AGRAVANTE. AUSÊNCIA DE INTERESSE A LEGITIMAR A INTERVENÇÃO DOS CO-DEVEDORES NO CUMPRIMENTO DA CARTA PRECATÓRIA. COMPETÊNCIA DO JUÍZO DEPRECADO QUE SE LIMITA ÀS MEDIDAS GARANTIDORAS AO CUMPRIMENTO DO ATO PROCESSUAL. QUESTÕES QUE EXTRAPOLEM SEU ÂMBITO DE COMPETÊNCIA DEVERÃO SER DECIDIDAS PELO JUÍZO DEPRECANTE. NOMEAÇÃO DE PERITO. AVALIAÇÃO DO BEM. PREENCHIMENTO DOS REQUISITOS DO ART. 156, §1º DO CPC. AUSÊNCIA DE ELEMENTO ROBUSTO QUE POSSA DESQUALIFICÁ-LO PARA O EXERCÍCIO DO ENCARGO. INTELIGÊNCIA DO ART. 870 DO CPC. AVALIAÇÃO DO IMÓVEL QUE PODERIA SER FEITA POR OFICIAL DE JUSTIÇA. AUSÊNCIA DE RESTRIÇÃO ÀS ÁREAS DE CONHECIMENTO DE ARQUITETURA, ENGENHARIA OU AGRONOMIA. PRECEDENTES JURISPRUDENCIAIS. RECURSO IMPROVIDO.
+1. Com efeito, deve ser lembrado que, em se tratando do cumprimento de carta precatória, não há delegação da competência jurisdicional para o julgamento da causa, como ocorre nos casos previstos no art. 109, § 3º, da CF. Existe simples pedido de cooperação realizado por determinado juízo a outro, o qual atua nos estreitos limites do ato processual deprecado, no exercício de competência própria relacionada ao cumprimento da respectiva carta" (CC164.820/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 11/10/2019)
+2. "A nomeação de perito para avaliação de bem imóvel não se restringe às áreas de conhecimento de arquitetura, engenharia ou agronomia" (AgRg noAg 1382226/SP, Rel. Ministro PAULO DE TARSO 2SANSEVERINO,TERCEIRA TURMA, julgado em 26/06/2012, DJe 29/06/2012)." (TJPR - 15ª C. Cível - AI - 1678034-2 - Paranavaí - Rel.: DESEMBARGADOR LUIZCARLOS GABARDO - Unânime - J. 07.06.2017)
+Embargos de declaração: interpostos pelaagravante, foram rejeitados.
+Recurso especial: alega violação dos arts.464, 872, § 2º,917, § 1º, e 1.022, II, do CPC/2015. Além de negativa de prestação jurisdicional, assevera queo imóvel penhorado já foi avaliado, sem a participação e sem o contraditório dos demais coexecutados solidários da dívida. Afirma que, em se tratando "de litisconsórcio passivo de devedores solidários, que tem interesse coletivo na quitação da dívida executada, todos devem ser intimados da realização da perícia de avaliação dos imóveis, de modo que possam exercer o direito de impugnação e do contraditório" (e-STJ fl. 711).
+Decisão agravada: não conheceu dorecurso especial, com fundamento na incidência dos óbices das Súmulas 283 e 284, ambas do STF, e 211/STJ.
+Agravo interno: nas razões do presente recurso, a agravante desenvolve as seguintes argumentações: i) reitera a violação do art. 1.022 do CPC; ii) assevera que deve ser reconhecida a violação do art. 1.022 do CPC ou o prequestionamento damatéria alegada; e iii) assevera que é inaplicável o óbice da Súmula 283/STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO NÃO DEMONSTRADA. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS. SÚMULA 283/STF.
+1. Ação de execução de título extrajudicial, lastreada em cédulas de crédito bancário.
+2. A mera referência aos dispositivos legais sobre os quais se alega incidir a omissão, sem se demonstrar, efetivamente, as questões sobre as quais deveria ter se pronunciado o Tribunal de origem e sua respectiva relevância para a solução da controvérsia, não é apta a justificar a anulação do acórdão por negativa de prestação jurisdicional (Súmula 284/STF).
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, a despeito da oposição dos embargos de declaração, impede o conhecimento do recurso especial (Súmula 211/STJ).
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial (Súmula 283/STF).
+5.Agravo não provido.
+VOTO
+A decisão agravada não conheceu do recurso especial interposto pelaagravante, com fundamento na incidência dos óbices das Súmulas 283 e 284, ambas do STF, e 211/STJ.
+1. Da violação do art. 1.022 do CPC/15
+Inicialmente, não obstante alegue a agravante que demonstrou a ofensa ao art. 1.022 do CPC/15, verifica-se, da análise de suas razões do recurso especial, que foram tecidas afirmações genéricas de que houve violação do referido dispositivo, em virtude da rejeição dos embargos de declaração. Não foram especificamente apontadas, todavia, as supostas omissões, contradições ou obscuridades em que incorreria o acórdão recorrido, bem como a relevância desses aspectos para a solução da lide. Incidente, pois, a Súmula 284/STF.
+2. Da ausência de prequestionamento
+De outro turno, o recurso especial não poderia ser conhecido, tendo em vista que os dispositivos indicados como violados não foram objeto de expresso prequestionamento pelo Tribunal de origem, o que importa na incidência do óbice da Súmula 211/STJ.
+3. Da Súmula 283/STF
+Por fim, de fato, a agravante não impugnou o fundamento no sentido de que eventuais prejuízos no cumprimento da carta nos termos em que deprecada, deveriam ser reportados ao Juízo Deprecante, e tampou rebateu, de forma consistente e específica, o fundamento no sentido de que o trabalho do avaliador será analisado após a sua confecção, oportunidade em que as partes poderão suscitar imprecisões ou insuficiências, nos termos do art. 873 do CPC, o que torna inafastável o óbice da Súmula 283/STF.
+A decisão agravada, portanto, não merece reforma.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo.
