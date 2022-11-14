@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de embargos de declaração opostos porALEXANDRE BERNARDES DE ANDRADE, MICHEL FERREIRA DE SOUZA eFERNANDO HENRIQUE DE RESENDE CORREA (e-STJ fls. 1187/1191) contra decisão queacolheuparcialmenteos embargos de declaração de RIBEIRO E ANDRADE INTERIORES LTDA,com efeitos modificativos,para alterar o dispositivo da decisão de e-STJ fls. 1155/1158 paradarprovimentoao recurso especial para determinar o retorno dos autos ao Tribunal de Justiça do Estado de Minas Gerais, para que, a partir da premissa fixada nesta Corte Superior, prosseguir no julgamento do recurso em sentido estrito apresentado (e-STJ fls. 1181/1183).
+Alega a parte embarganteque a decisão embargada foi omissa, uma vez que a questão acerca da data em que aautoria delitiva restou conhecida encontra-se preclusa, tendo em vista que não foram apresentados embargos de declaração pela parte na origem para a discussão da matéria, bom como não fora arguida nas contrarrazões do recurso especial.
+É o relatório.Decido.
+Não existem vícios a serem sanados na decisão embargada.
+Sabe-se que os embargosde declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conformedispõe o art. 619 do CPP.
+De início, não há falar em preclusão, pois somente após o julgamento do recurso especial nesta Corte Superior é que surgiu o interesse jurídico para o embargadoimpugnar a questão acerca da data do conhecimento da autoria, o que foi efetivado por meio da oposição dos aclaratórios anteriores.
+É quea análise da tese acerca da data do conhecimento da autoria delitiva, levantada do recurso em sentido estrito, tornou-se desnecessária, uma vez queo Tribunal de origem, aoafastara decadência, decidiu quea contagem do prazo decadencial se dá a partir da intimação da homologação do laudo, laudo este que sequer foi realizado in casu, mesmo com parecer ministerial favorável(e-STJ fls. 944).
+Dessa forma, verifica-se que esta Corte Superior se posicionou de forma clara, adequada e suficiente ao concluir quea questão acerca da data do conhecimento da autoria ainda não fora decidida, não podendo se afirmar, neste momento processual, que é 29/10/2015.
+Assim, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP,não é compatível com o recurso protocolado.
+Com essas considerações,rejeitoos embargos de declaração.
+Intimem-se.
