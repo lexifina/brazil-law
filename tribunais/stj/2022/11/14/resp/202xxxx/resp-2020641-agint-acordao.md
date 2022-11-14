@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que deu provimento ao Recurso Especial interposto, "com o retorno dos autos à instância de origem para que seja aferida a comprovação da necessidade do medicamento a partir dos parâmetros fixados por esta Corte Superior no precedente repetitivo indicado acima" (fl. 410, e-STJ).
+Nas razões do Recurso (fls. 425-426, e-STJ), a parte agravante sustenta:
+Ainda que não tenha entendido este STJ ser regra a exigência de prévia perícia oficial, cabe ao julgador na origem - ao analisar o que pleiteado e as provas produzidas - determinar a realização da prova técnica que entenda cabível e necessária (art. 370 CPC).
+O fato da jurisprudência deste Superior Tribunal de Justiça admitir fornecimento de medicamento com base em laudo do médico que assiste o paciente não é condição única e suficiente e não pode afastar a análise do julgador no caso concreto; inclusive para verificação da presença dos demais requisitos previstos no Tema 106.
+Por isso, o presente Agravo Interno busca, dentro do que decidido por este STJ em sede de Recurso Especial repetitivo, que seja prestigiada a instrução probatória nas instâncias ordinárias, não afastando do julgador qualquer meio de prova.
+Impugnação às fls. 432-435, e-STJ.
+É o relatório.
+EMENTA
+CONSTITUCIONAL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECIAL. SISTEMA ÚNICO DE SAÚDE. FORNECIMENTO DE MEDICAMENTO. AUTORA COM CARCINOMA PAPILÍFERO DE TIREOIDE. ACÓRDÃO ANULOU A SENTENÇA DE PROCEDÊNCIA E DETERMINOU A REALIZAÇÃO DE PERÍCIA JUDICIAL. TEMA 106/STJ.
+1. Hipótese em que a Corte de origem anulou a sentença e determinou a realização de perícia judicial, sob o fundamento de que "deve-se adotar o entendimento no sentido de que o caso em questão deveria ter sido submetido a perito médico judicial, cujas conclusões deveriam prevalecer, visto que se encontra em situação equidistante das partes em litígio " (fl. 304, e-STJ).
+2. O STJ, no julgamento do REsp 1.657.156/RJ, Rel. Min. Benedito Gonçalves, Primeira Seção, DJe DJe 4.5.2018, submetido à sistemática dos Recursos Repetitivos, concluiu que a concessão dos medicamentos não incorporados em atos normativos do SUS exige a presença cumulativa dos seguintes requisitos: i) laudo médico fundamentado e circunstanciado expedido pelo médico que assiste o paciente, comprovação da imprescindibilidade ou necessidade do medicamento, assim como da ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS; ii) incapacidade financeira de arcar com o custo do medicamento prescrito; iii) existência de registro do medicamento na Anvisa, observados os usos autorizados pela agência.
+3. Dessa forma, não prospera a tese do acórdão recorrido de que todo medicamento pleiteado em juízo depende da realização de prévia perícia oficial, uma vez que o STJ admite o fornecimento de medicamentos com base em laudo do médico que assiste o paciente. Isso não impede que o juiz, motivadamente, determine a realização de perícia, mas essa decisão não pode se fundamentar, exclusivamente, na impossibilidade de utilização do laudo expedido pelo profissional que acompanha a parte interessada, por supostamente não ocupar posição equidistante na relação jurídica.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 11.10.2022.
+Ao contrário do que afirma a agravante, o Tribunal a quo não examinou os laudos apresentados pela agravado e julgou necessária a complementação da instrução por meio de perícia judicial. Concluiu-se, tão somente, que "deve-se adotar o entendimento no sentido de que o caso em questão deveria ter sido submetido a perito médico judicial, cujas conclusões deveriam prevalecer, visto que se encontra em situação equidistante das partes em litígio".
+Ao assim decidir, o aresto recorrido afastou-se da jurisprudência do STJ firmada em julgamento pelo rito dos Repetitivos (Tema 106), com o seguinte teor:
+A concessão dos medicamentos não incorporados em atos normativos do SUS exige a presença cumulativa dos seguintes requisitos:
+i) Comprovação, por meio de laudo médico fundamentado e circunstanciado expedido por médico que assiste o paciente, da imprescindibilidade ou necessidade do medicamento, assim como da ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS;
+ii) incapacidade financeira de arcar com o custo do medicamento prescrito;
+iii) existência de registro do medicamento na ANVISA, observados os usos autorizados pela agência.
+Nos termos da jurisprudência do STJ, é possível a determinação judicial ao fornecimento de medicamentos com base em prescrição elaborada por médico particular, não se podendo exigir que a receita seja subscrita por profissional vinculado ao SUS. Isso não impede que o juiz, motivadamente, determine a realização de perícia, mas essa decisão não pode se fundamentar, exclusivamente, na impossibilidade de utilização do laudo expedido pelo profissional que acompanha a parte interessada, por supostamente não ocupar posição equidistante na relação jurídica.
+A propósito:
+CONSTITUCIONAL E ADMINISTRATIVO. SISTEMA ÚNICO DE SAÚDE. FORNECIMENTO DE MEDICAMENTOS. DESNECESSIDADE DE PERÍCIA MÉDICA JUDICIAL.
+1. Hipótese em que a Corte a quo anulou a sentença que havia determinado o fornecimento de medicamento ao agravante, porque não houve a realização de perícia judicial, tendo o medicamento sido prescrito por médico que acompanha o paciente.
+2. O STJ, no julgamento do REsp 1.657.156/RJ, Rel. Ministro Benedito Gonçalves, Primeira Seção, DJe DJe 4/5/2018, submetido à sistemática dos recursos repetitivos, entendeu que a concessão dos medicamentos não incorporados em atos normativos do SUS exige a presença cumulativa dos seguintes requisitos: i) Comprovação, por meio de laudo médico fundamentado e circunstanciado expedido por médico que assiste o paciente, da imprescindibilidade ou necessidade do medicamento, assim como da ineficácia, para o tratamento da moléstia, dos fármacos fornecidos pelo SUS; ii) incapacidade financeira de arcar com o custo do medicamento prescrito; iii) existência de registro do medicamento na Anvisa, observados os usos autorizados pela agência.
+3. Dessa forma, não prospera a tese do acórdão recorrido de que todo medicamento pleiteado em juízo depende da realização de prévia perícia oficial, uma vez que o STJ admite o fornecimento de medicamentos com base em laudo do médico que assiste o paciente.
+4. Assim, o recurso deve ser provido, com o retorno dos autos para a instância de origem aferir a comprovação da necessidade do medicamento a partir dos parâmetros fixados pelo Superior Tribunal de Justiça no precedente repetitivo indicado acima.
+5. Agravo conhecido para dar provimento ao Recurso Especial.
+(AREsp n. 1.534.208/RN, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 6/9/2019)
+Saliente-se que a revisão do entendimento do Colegiado regional, nesse particular, dispensa o revolvimento dos elementos fático-probatórios da controvérsia. Faz-se necessário apenas superar a tese jurídica de que todo medicamento pleiteado em juízo depende da realização de prévia perícia oficial.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
