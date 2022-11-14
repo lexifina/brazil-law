@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de agravo em recurso especialinterpostopeloHOSPITAL ALEMÃO OSWALDO CRUZ, com fundamento nas alíneas"a" e "c" do permissivo constitucional, contraacórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 339):
+MANDADO DE SEGURANÇA - ICMS - Pretensão inicial que a autoridade administrativa se abstenha de exigir o pagamento do tributo sobre produtos importados do exterior Segurança corretamente concedida em primeiro grau. Imunidade tributária. Bens importados por entidade de assistência social, sem fins lucrativos - Possibilidade -Artigo 150, inc. VI, "e", da Constituição Federal -Precedentes desta E. Corte e do Supremo Tribunal Federal Artigo 155, §2º, IX, "a", da CF - Alteração trazida pela EC 33/2001 que, apesar de ampliar o leque de incidência do ICMS, não teve o condão de alterar as hipóteses de imunidade expressamente previstas no artigo 150, VI, "c", da Constituição Federal - Precedente desta E. 8ªCâmara de Direito Público. Sentença mantida. Reexame necessário desacolhido e recurso da Fazenda improvido.
+Às fls. 620-669, a parte recorrente informa a perda superveniente doobjeto diante do reconhecimento da prescrição do crédito tributário discutido nos autos.
+Instadaa manifestar-se (fl. 670), a Fazenda do Estado de São Paulo não se opôs ao pedido de extinção.
+Nesse contexto, há de se reconhecer aperdadeobjetodo presente recurso especial, tendo em vista quenão subsiste interesse recursal concreto no deslinde da controvérsia.
+Ante o exposto, declaro a perda superveniente de objetodo recurso especial,julgando-oprejudicado.
+Publique-se. Intimem-se.
