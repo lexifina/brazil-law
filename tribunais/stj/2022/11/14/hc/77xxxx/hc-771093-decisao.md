@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar no qual se pretende, em síntese, a concessão da ordem, de forma imediata, para relaxar e/ourevogar aprisão cautelar decretada em desfavor de DANILO DE CARVALHO.
+Entretanto, de acordo com as informações colhidas na origem, verifica-se que, em 11/11/2022, sobreveio a prolação de sentença nos autos da ação penal n. 1502764-11.2022.8.26.0228,condenando oora pacienteao cumprimento dapena de 14 anos, 1 mês e 10 diasde reclusão, no regime inicial fechado, mais pagamento de 30 dias-multa, como incurso nos arts. 157, § 2º, II, e § 2º-A, I, por duas vezes, na forma do art.70, todos do CP, restando indeferido o direito de apelar em liberdade.
+Na hipótese, está prejudicado o presente writ voltado a abordar a legalidade da prisão provisória aplicada ao paciente, visto que o Juízo sentenciante incluiu nova fundamentação ao decreto constritivo originário, tendo concluído pelanecessidade de manutenção damedida extrema uma vez queos condenados responderam presos ao processo e, "agora mais ainda, persistem razões para a segregação destes reforçada pela garantia da aplicação da lei penal"(fl. 4da sentença).
+Assim forçoso concluir queo édito condenatório corresponde a decisão diferente da questionada na presente impetração, sendo, portanto, novo título a embasar a custódia cuja legalidade, inclusive, ainda não foi examinada pelo Tribunal originário.
+Com efeito, nos termos da jurisprudência deste Sodalício, a "superveniência de sentença condenatória que reavalia a necessidade de manutenção da ordem de prisão preventiva agregando novos fundamentos ao ato constritivo constitui novo título judicial que prejudica o recurso anteriormente interposto" (AgRg no RHC n. 140.316/MG, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 24/2/2022).
+Ante o exposto, com fundamento no art. 34, XI, do Regimento interno deste Tribunal, julgo prejudicado o habeas corpus.
+Publique-se.
+Intime-se.
+Após o trânsito em julgado, arquivem-se os autos.
