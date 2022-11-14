@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto peloINSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS-IBAMA, para desafiar decisão proferida às e-STJ fls. 156/160, em que conheci do agravo para não conhecer do recurso especial, em face da incidência das Súmulas 284 do STF e 83 do STJ.
+Defende a agravante que os julgados indicados na decisão agravada "abordam exclusivamente o entendimento sobre a impenhorabilidade dos valores inferiores a 40 salários mínimos, ou seja, tratam da aplicação isolada do art. 833, X, do CPC", sem enfrentar "o disposto no art. 854, § 3º, I, do CPC, que prevê que o ônus da provada impenhorabilidade recai sobre o executado." (e-STJ fl. 165).
+Destaca julgados desta Cortepara defender o argumento de que "a questão relativa à impenhorabilidade com fundamento no inciso X do art.833 do CPC não pode ser presumida, tampouco reconhecida de ofício pelo juiz, porquanto matéria eminentemente de defesa" (e-STJ fl. 173), ede que a proteção da impenhorabilidade deve ser invocada em tempo e modo próprios pela parte executada, sob pena de preclusão.
+Requer, ao final, a reconsideração do decisum recorrido ou, caso assim não se entenda, seja submetido o presente agravo interno à apreciação da Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. IMPENHORABILIDADE. 40 (QUARENTA) SALÁRIOS MÍNIMOS. ALCANCE.
+1.De acordo com a jurisprudência firme desta Corte Superior, é impenhorável a quantia de até quarentasaláriosmínimos depositada emconta-corrente, aplicada em caderneta de poupança ou outras modalidades de investimento, exceto quando comprovado abuso, má-fé ou fraude. Precedentes.
+2.O disposto no art. 854, § 3º, I, do CPC/2015não afasta o entendimento consolidado no Superior Tribunal de Justiça de que os valores inferiores a 40 salários-mínimos são presumidamente impenhoráveis.
+3. Agravo interno desprovido.
+VOTO
+Nada obstante as razões invocadas,o inconformismo não merece prosperar.
+Conforme destacado na decisão agravada, ainda na vigência do antigo estatuto processual, houve a previsão de proteção da segurança alimentar e de provimentos do devedor e de sua família (art. 649, do CPC/1973).
+Após a reforma em 2006, a proteção ficou ainda mais explícita com a previsão no inciso X do art. 649 da impenhorabilidade das poupanças até 40 salários mínimos, também previsto no atual instituto processual (art. 833, X, do CPC/2015), sendo este o valor considerado pelo legislador como apto a ensejar um padrão de vida digno mínimo ao devedor e a sua família, assegurando-lhe bens indispensáveis à preservação do mínimo existencial.
+Cumpre ainda observar que, conforme reiterada jurisprudência deste Tribunal,apesar de a legislação processual fazer menção de valor em caderneta de poupança, o quantum pode estar depositado ou aplicado em outros tipos de contas ou investimentos, como conta corrente e fundos de investimentos.
+A propósito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. VALORES BLOQUEADOS EM CONTA POUPANÇA. IMPENHORABILIDADE. LIMITE DE ATÉ 40 SALÁRIOS MÍNIMOS. AGRAVO INTERNO DA FAZENDA NACIONAL NÃO PROVIDO.
+1. É entendimento desta Corte Superior que são impenhoráveis os saldos inferiores a 40 salários-mínimos depositados não só em caderneta de poupança mas, também, a mantida em fundo de investimento, em conta-corrente ou guardada em papel-moeda, ressalvado eventual abuso, má-fé ou fraude. (AgInt no REsp 1.858.456/RO, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/6/2020, DJe 18/6/2020).
+2. Agravo Interno da FAZENDA NACIONAL não provido.
+(AgInt no AREsp n. 1.853.515/RS, Relator Ministro MANOEL ERHARDT Desembargador Convocado do TRF5, PRIMEIRA TURMA, julgado em 4/10/2021, DJe de 7/10/2021.).
+EXECUÇÃO FISCAL. APLICAÇÃO FINANCEIRA. IMPENHORABILIDADE DO LIMITE PREVISTO NO ART. 649, X, DO CPC. AFASTAMENTO DA CONSTRIÇÃO EM RELAÇÃO AO LIMITE DE QUARENTA SALÁRIOS MÍNIMOS.
+1. O Superior Tribunal de Justiça possui jurisprudência que entende serem impenhoráveis os valores que alcancem até o montante de quarenta salários mínimos depositados em poupança, como também aqueles depositados em conta-corrente ou fundo de investimento.
+2. O STJ também já decidiu que a simples movimentação atípica apurada pelas instâncias ordinárias, por si só, não constitui má-fé ou fraude a ensejar a mitigação da impenhorabilidade estabelecida pelo art. 833, X, do novo CPC.
+3. Agravo Interno não provido.
+(AgInt no REsp n. 1.897.212/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/4/2021, DJe de 1/7/2021.)
+Nesse passo, tem-se entendido que a previsão de impenhorabilidadedas aplicações financeiras do devedor até o limite de 40 salários mínimos é presumida, cabendo ao credor demonstrar eventual abuso, má-fé ou fraude do devedor, a ser verificado caso a caso, de acordo com as circunstâncias de cada hipótese trazida à apreciação do Poder Judiciário.
+Esta Casa de Justiça tem compreendido, em casos semelhantes, que disposto no art. 854, § 3º, I, do CPC/2015não afasta o entendimento consolidado no Superior Tribunal de Justiçade que os valores inferiores a 40 salários mínimos são impenhoráveis.
+Nesse sentido:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. DÍVIDA ATIVA NÃO TRIBUTÁRIA. MULTAS E DEMAI S SANÇÕES. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de agravo de instrumento contra decisão que determinou a liberação de bloqueio de conta poupança de devedor. No Tribunal a quo, negou-se provimento ao recurso.
+II - Quanto à suposta afronta ao art. 854, §3º, I, do CPC/2015, verifica-se que a decisão proferida pelo Tribunal de origem, de que os valores inferiores a 40 salários-mínimos são impenhoráveis, vai ao encontro da jurisprudência do Superior Tribunal de Justiça.
+Confira-se: AgInt no AREsp 1.706.667/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 11/11/2020, DJe 17/11/2020.
+III - Agravo interno improvido.
+(AgInt no AREsp n. 2.054.335/RS, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 27/6/2022, DJe de 29/6/2022.).
+Confiram-se, ainda, osrecentes julgados:AREsp2.151.900/RS, RelatorMinistro HERMAN BENJAMIN, DJe 22/08/2022;AREsp2.149.064/PR, RelatorMinistro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), DJe22/08/2022;AgInt no AREsp2.129.766/RS, RelatorMinistro SÉRGIO KUKINA, DJe 03/08/2022;AREsp2.149.082/PR, RelatoraMinistra ASSUSETE MAGALHÃES,DJe 15/08/2022; eREsp2.017.460/RS, RelatoraMinistra REGINA HELENA COSTA, DJe 15/08/2022.
+Com efeito, nota-se que as decisões monocráticas apontadas pelo ora agravante (AREsp2.093.879/RS, RelatorMinistro MAURO CAMPBELL MARQUES, DJe 24/06/2022, eAREsp1.856.393, RelatorMinistro OG FERNANDES, DJe 27/10/2021) tratam-se de julgados isolados, não configurando o entendimento majoritário deste Tribunal Superior quanto ao tema.
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
