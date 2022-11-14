@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de Agravo Interno interposto porANA LÚCIA TEIXEIRA VELHO E OUTROScontra a decisão monocrática de minha lavra que indeferiu o pedido de tutela provisória.
+Opostos Embargos de Declaração, foram rejeitados (fls. 1.520/1.524e).
+SustentaoAgravante, em síntese, o seguinte (fls. 1.553/1.557e):
+Veja bem, Excelências, não é crível que o entendimento da E. 1ª Turma represente a unicidade desta Corte, ademais quando a 2ª Turma vem decidindo de maneira diametralmente oposta, conforme demonstram os precedentes acima colacionados.
+Ademais, repisa-se que no caso em epígrafe, requerem as autoras/agravantes apenas a manutenção do seu direito de, enquanto perdurar a discussão em tela, que não sofram atos de constrições/restrições, como por exemplo, inscrição no CADIN, SERASA, SPC e protestos.
+ ..
+Em razão do exposto, requer seja conhecido e provido o presente Agravo Interno, para que, com base na existência da divergência jurisprudencial desta Corte e, inclusive, na existência de garantia integral do débito, conceder o efeito suspensivo ao agravo interno em recurso especial, a fim de que seja vedada a inscrição dos recorrentes em órgãos restritivos de crédito (CADIN/SERASA/SPC, dentre outros) e também o protesto dos títulos, bem como seja vedada a imposição de qualquer óbice à emissão de CPEN.
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA TUTELA PROVISÓRIA NORECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ITMCD. PRAZO DECADENCIAL. DISCUSSÃO JUDICIAL ACERCA DA ALÍQUOTA DO TRIBUTO. TERMO INICIAL. TRÂNSITO EM JULGADO DO DECISUM.TUTELA DE URGÊNCIA. ART. 300 DO CPC/15. REQUISITOS AUSENTES PARA CONCESSÃO.APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Otribunal de origem aplicou a orientação da 1ª Turma deste Superior Tribunal de Justiça, segundo a qual, "embora, em regra, a contagem do prazo decadencial se inicie com a decisão que homologa a partilha, nas hipóteses em que remanesce debate sobre a definição da alíquota, a decadência só pode ser contada após o trânsito em julgado do decisum que finda essa discussão" (AgInt no AREsp 1627416/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/04/2021, DJe 29/04/2021)
+III- Pelo teor do art. 300 do CPC/15, a tutela de urgência será concedida quando existirem elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo, o que não é o caso dos autos.
+IV- Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Na dicção do art. 300 do CPC, a tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+O deferimento do pedido pressupõe, portanto, a presença simultânea de dois requisitos autorizadores: o fumus boni iuris, caracterizado pela relevância jurídica dos argumentos apresentados no pedido, e o periculum in mora, consubstanciado na possibilidade de perecimento do bem jurídico objeto da pretensão resistida.
+Na hipótese, não restou caracterizada a plausibilidade de êxito do recurso especial.
+Com efeito, consoante apontado no decisum Agravado,as supostas ofensas a dispositivos legais não seriam procedentes, em razão de jurisprudência desta Corte consolidada em sentido contrário à pretensão dos recorrentes, segundo a qual "embora, em regra, a contagem do prazo decadencial se inicie com a decisão que homologa a partilha, nas hipóteses em que remanesce debate sobre a definição da alíquota, a decadência só pode ser contada após o trânsito em julgado do decisum que finda essa discussão" (AgInt no AREsp 1627416/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/04/2021, DJe 29/04/2021).
+No caso, ausente um dos requisitos autorizadores à concessão da tutela de urgência, não é caso da atuação interventiva e excepcional desta Presidência em regime de plantão judiciário, substituindo-se à relatoria do feito.
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do CPC/2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso. Nessa linha: Corte Especial, AgInt nos EAREsp n. 1.043.437/SP, Rel. Ministro JORGE MUSSI, j. 13.10.2021; e 1ª S., AgInt nos EREsp n. 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, j. 14.09.2016.
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno
