@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo internointerposto contra decisão, assim ementada (fl. 500):
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DO ART. 535 DO CPC/1973. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. DANOS MATERIAIS. JUROS E CORREÇÃO MONETÁRIA. ARGUIÇÃO DE OFENSA AO ARTIGO 1º-F DA LEI N. 9.494/1997. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. TERMO A QUO. PRESCRIÇÃO. SÚMULA 83 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, NÃO PROVIDO.
+O agravante alega que o decreto de demissão foi publicado em 07/12/1998, de forma que "sendo esse o ato que lesou sua esfera jurídica, é a partir dele que se irrompe o prazo prescricional, tal qual definido no art. 1º do Decreto n.20.910/32. O TJPR entendeu que não, todavia. Errou, d. v." (fl. 508).
+Sustenta na fl. 509 que "o início do prazo prescricional não muda pelo fato de o decreto de demissão ter sidoanulado posteriormente, uma vez que ele continua sendo apontado como a causa dos danos experimentados pela agravada".
+Enfatiza que a agravada tinha ciência inequívoca da lesão, razão pela qual optou por formular, antes de ingressar com a presente demanda judicial, pedido administrativo para reconhecimento da nulidade da demissão, o qual "não interrompe a fluência do prazo prescricional, mas suspende a fluência do prazo prescricional (art. 4º do Decreto 20.910/32)". (fl. 509).
+Assim, aduz que "ao contrário do que entendeu a r. decisão agravada, não é o caso de incidência do enunciado de Súmula n.º 83/STJ, uma vez que a jurisprudência desta Corte acolhe a pretensão recursal" (fl. 511).
+Comimpugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL.TERMO A QUO. PRESCRIÇÃO. SÚMULA 83 DO STJ.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 1973, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+2.A decisão que declara a nulidade do ato de demissão restabelece o status quo ante, garantindo que os efeitos funcionais devem retroagir àdata da demissão ilegal do servidor. O termo a quodo prazo prescricional da pretensão de indenização pelo afastamento do cargo é a data da anulação do ato, de forma que a análise da prescrição foi feita emconsonância com o entendimento desta Corte. Precedentes.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 1973, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 2/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo internonão se vislumbram razões para reformar a decisão agravada.
+Isso porque, conforme constou da decisão agravada,o acórdão recorrido manteve a decisão que reconheceu que o termo a quo do prazo prescricional da pretensão de indenização pelo afastamento do cargo é a data da anulação do ato, acarretando na reintegração ao cargo (e-STJ, 316).
+Deste modo, o entendimento firmado pela Corte de origem se coaduna com a jurisprudência desta Corte, no sentido de que os efeitos funcionais retroagem àdata da demissão ilegal , assegurando-se o pagamento das vantagens pecuniárias que seriam pagas no período do indevido desligamento.
+A propósito, os seguintes precedentes desta Corte:
+ADMINISTRATIVO. SERVIDOR PÚBLICO. OFENSA AO ART. 535 DO CPC/1973 NÃO CARACTERIZADA. REINTEGRAÇÃO. EFEITOS FINANCEIROS RETROATIVOS.
+1. No que se refere à alegada afronta ao disposto no art. 535, inciso II, do CPC/1973, o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte.
+2. A decisão que declara a nulidade do ato de demissão e determina a reintegração de servidor público ao cargo de origem, ainda que em estágio probatório, opera efeitos ex tunc, ou seja, restabelece o in statu quo ante, de modo a garantir o pagamento integral das vantagens pecuniárias que seriam pagas no período do indevido desligamento do serviço público. (STJ, AgRg no REsp 1284571 / SP, rel. Ministro Napoleão Nunes Maia Filho, DJe 19.5.2014; STJ, AgRg no REsp 1.372.643/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22/5/2013; Documento: 1805811 - Inteiro Teor do Acórdão - Site certificado - DJe: 27/03/2019 Página 8de 4 Superior Tribunal de Justiça AgRg no REsp 1424447/PR, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/10/2015, DJe 22/10/2015. 3. Recurso Especial não provido. (REsp n. 1.676.137/GO, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 5/9/2017, DJe 14/9/2017.) (grifei).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. DEMISSÃO. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO. IMPOSSIBILIDADE. SÚMULA 7/STJ. SÚMULA 83/STJ.
+1. A avaliação de existência do direito líquido e certo é matéria afeta às instâncias ordinárias, não podendo ser objeto de recurso especial em razão da Súmula 7/STJ.
+2. O Tribunal de origem entendeu pela desproporcionalidade da pena imposta, bem como pela ausência de prova cabal e indubitável sobre o fato investigado, infirmar tais fundamentos pressupõe o reexame do conjunto fático-probatório, o que é vedado por força da Súmula 7/STJ.
+3. "A jurisprudência do STJ firmou-se no sentido de que o servidor público reintegrado ao cargo, em virtude da declaração judicial de nulidade do ato de demissão, tem direito aos vencimentos e às vantagens que lhe seriam pagos durante o período de afastamento" (STJ, AgRg no REsp 1.372.643/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 22/5/2013).
+4. Agravo regimental a que se nega provimento. (AgRg no REsp n. 1.424.447/PR, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 6/10/2015, DJe 22/10/2015.) (grifei).
+ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. REINTEGRAÇÃO DE SERVIDOR PÚBLICO MUNICIPAL. EFEITOS FINANCEIROS. RESTABELECIMENTO DO STATUS QUO ANTE. AGRAVO REGIMENTAL DO MUNICÍPIO DE SÃO PAULO DESPROVIDO.
+1. Ao Servidor Público reintegrado são assegurados, como efeito lógico, todos os direitos de que fora privado em razão da ilegal demissão, inclusive os vencimentos retroativos. Precedentes desta Corte.
+2. A decisão judicial deve ter a eficácia de repor as coisas na situação em que se achavam antes da ocorrência da lesão, como se esta pudesse ser eliminada do mundo dos fatos; como não se pode fazer o tempo retroceder, impõe-se que a reparação substitutiva seja a mais ampla e completa possível.
+3. A decisão que declara a nulidade do ato de demissão e determina a reintegração de Servidor Público ao cargo de origem, ainda que em estágio probatório, opera efeitos ex tunc, ou seja, restabelece o status quo ante, de modo a garantir o pagamento integral das vantagens pecuniárias que seriam pagas no período do indevido desligamento do serviço público.
+4. Agravo Regimental do Município de São Paulo desprovido. (AgRg no REsp n. 1.284.571/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 6/5/2014, DJe 19/5/2014.) (grifei).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
