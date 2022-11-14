@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1. Trata-se de embargos de declaração opostos pelas LOJAS AMERICANAS S/A contra acórdão da Primeira Turmaassim ementado (fls. 951/952):
+PROCESSUAL CIVIL ETRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EMRECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL.AUSÊNCIA DE VIOLAÇÃO AO ART. 1.022 DO CPC/2015.DECADÊNCIA.QUESTÃO PREJUDICADA.INCIDÊNCIA DOS JUROS MORATÓRIOS SOBRE MULTA. PRETENSÃO QUE DEMANDA INTEPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.NULIDADE DO PROCESSO ADMINISTRATIVO. DISPOSITIVO LEGAL NÃO CONTÉM COMANDO NORMATIVO CAPAZ DE SUSTENTAR A TESE DEDUZIDA. SÚMULA 284/STF.HONORÁRIOS. REDUÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1.Os elementos utilizados para formação do convencimento foram devidamente expostos na decisão, de forma que não pairam dúvidas acerca da suficiência da motivação adotada e da inexistência de máculas a qualquer dos dispositivos legais referidos, de modo que a prestação jurisdicional se exauriu satisfatoriamente, afastando-se, na hipótese, a presença de quaisquer dos vícios elencados no art. 1.022 do CPC/2015.
+2. O recurso não merece prosperar ante o óbice da Súmula 280/STF, uma vez que a questão da incidência dos juros moratórios foi decidida pela Corte de origem mediante análise de legislação local, qual seja, a Lei Estadual 6.374/1989.
+3.Odispositivo legal indicado como violado (art. 28, II, da Lei 8.906/1994) não possui comando normativo capaz de infirmar as conclusões do acórdão recorrido, porque a vedação nele contida limita-se ao exercício da advocacia e não à composição da Corte administrativa. Assim, aplicável ao caso o entendimento da Súmula 284 do STF.
+4. A alteração das conclusões da Corte de origem no tocante àfixação dos honorários de sucumbência demandaria, necessariamente, a incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+5. Agravo interno da empresa a que se nega provimento.
+2. Aembargante alega violação ao art. 1.022 do CPC argumentando que o acórdão recorridodeixou de apreender as razões recursais retrotranscritas, elaboradas justamente para demonstrar: (i) a nulidade do v. acórdão recorrido por violação ao art. 1.022, incisos II e III, do CPC; (ii) a inexistência de deficiência na fundamentação do apelo nobre; (iii) a desnecessidade de incursão na interpretação da legislação local; (iv) ou, ainda, a desnecessidade de revisão do conjunto fático- probatório (fl. 970).
+3. A parte contrária não apresentou impugnação (certidão de fl. 1.162).
+4. É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. VÍCIOS DESCRITOS NO ART. 1.022 DO CPC/2015 NÃO CONFIGURADOS.EMBARGOS DECLARATÓRIOS DA EMPRESA REJEITADOS.
+1.O art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos embargos de declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição, omissão ou erro material.
+2. O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, previstos no art. 1.022 do CPC/2015, porquanto o acórdão ora combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+3. Embargos de declaração da empresa rejeitados.
+VOTO
+1.O art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos embargos de declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição, omissão ou erro material.
+2. Na espécie, o que se observa é que a parte embargante insurge-se contra as conclusões adotadas no acórdão embargado no tocante: a) ao afastamento da negativa de prestação jurisdicional, b) à Súmula 280/STF quanto à incidência dos juros moratórios sobre a multa arbitrada, c) à Súmula 284/STF relativamente à alegação de nulidade do processo administrativo e d) à Súmula 7/STF no que se refere à impossibilidade de revisão da verba honorária.
+3. Oinconformismo da parte embargante, todavia, não se amolda aos contornos da via dos embargos de declaração, previstos no art. 1.022 do CPC/2015. Observa-se que oacórdão ora combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+4. Os embargos de declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, de modo a viabilizar, em fase processual inadequada, a desconstituição de ato judicial regularmente proferido.
+5. Ante o exposto, rejeito os embargos de declaração dasLOJAS AMERICANAS S/A.
+6. É como voto.
