@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por LEIA DOS SANTOS FEUcontra acórdão que negou provimento ao agravo interno, assim ementado (e-STJ fl. 414):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVO DE LEI FEDERAL VIOLADO. INDICAÇÃO. AUSÊNCIA.
+1. Não se conhece de recurso especial que deixa de apontar o dispositivo legal violado no acórdão recorrido, incidindo na hipótese, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+2. Idêntica compreensão é aplicada ao apelo nobre interposto com fundamento em divergência pretoriana, na esteira do posicionamento da Corte Especial (AgRg no REsp 1.346.588/DF, rel. Ministro ARNALDO ESTEVES LIMA, Corte Especial, julgado em 18/12/2013, DJe 17/03/2014).3. Agravo interno desprovido.
+Sustenta a parte embargante que houve omissão no julgado ao não determinar a suspensão do processo e a sua devolução à origem até o julgamento do Tema 1.124 deste Tribunal (termo inicial do benefício revisado).
+Decorreu o prazo legal, sem que o INSS apresentasse impugnação (e-STJ fls. 435).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. TEMA AFETADO. RECURSO REPETITIVO. SOBRESTAMENTO.
+1. Osembargos de declaraçãotêm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+2. Consoante o entendimento desta Corte, nos casos em que há discussão acerca de matéria submetida à sistemática do julgamentorepetitivoou da repercussão geral, o recurso integrativo deve ser acolhido para que, atribuindo-se-lhe efeitos modificativos, seja anulado o decisum embargado e determinada a remessa dos autos à instância de origem, a fim de que seja viabilizado o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+3. Hipótese em que o tema relativo a"definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS: se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária" foi afetado pelo STJ para julgamento sob a sistemática dos recursosrepetitivos (Tema 1.124).
+4. Embargos acolhidos, com a atribuição de efeitos infringentes, para tornar sem efeito as decisões anteriores e determinar adevoluçãodos autos à origem para juízo de conformação com o julgamento a ser realizado pelo STJ sob a sistemática dos recursosrepetitivos.
+VOTO
+Nos termos do art. 1.022 do CPC, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão. Ainda, excepcionalmente, é admitida a atribuição de efeitos modificativos aos aclaratórios, situação ocorrente na hipótese.
+Com efeito, nos casos em que é julgada matéria submetida à sistemática do julgamento repetitivo ou da repercussão geral, o recurso integrativo deve ser acolhido para que, atribuindo-se-lhe efeitos modificativos, seja anulado o decisum embargado e determinada a remessa dos autos à instância de origem, a fim de que seja viabilizado o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Nesse sentido: EDCL AgInt REsp 1.421.898/MG, Rel. ASSUSETE MAGALHÃES, Segunda Turma, DJe 13/05/2015, AgInt EDCL REsp 1.589.873/CE, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, DJe 22/08/2017.
+Considerado isso, o STJ afetou à sistemática dos recursos repetitivos o Tema 1.124, nos seguintes termos: "Definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS: se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária".
+A ementa sintetizou o julgado com o seguinte teor:
+PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. PREVIDENCIÁRIO. CONCESSÃO OU REVISÃO DE BENEFÍCIO. TERMO INICIAL DOS EFEITOS FINANCEIROS. REQUERIMENTO ADMINISTRATIVO. CITAÇÃO. MULTIPLICIDADE DE PROCESSOS. ABRANGÊNCIA DA SUSPENSÃO. ART. 1.037, II, DO CPC. PROPOSTA DE AFETAÇÃO ACOLHIDA.
+1. Delimitação da controvérsia: "Definir o termo inicial dos efeitos financeiros dos benefícios previdenciários concedidos ou revisados judicialmente, por meio de prova não submetida ao crivo administrativo do INSS: se a contar da data do requerimento administrativo ou da citação da autarquia previdenciária".
+2. Recurso Especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I c/c art. 256-E do RISTJ, na redação da Emenda Regimental 24, de 28.9.2016).
+3. Determinada a suspensão do trâmite de todos os processos em grau recursal, tanto no âmbito dos Tribunais quanto nas Turmas Recursais dos Juizados Especiais Federais, cujos objetos coincidam com o da matéria afetada (art. 1.037, II, do CPC).
+4. Acolhida a proposta de afetação do Recurso Especial como representativo da controvérsia, para que seja julgado na Primeira Seção (afetação conjunta dos Recursos Especiais 1.905.830/SP, 1.913.152/SP e 1.912.784/SP). (ProAfR no REsp n. 1.905.830/SP, relator Ministro Herman Benjamin, Primeira Seção, DJe de 17/12/2021).
+Assim, entendo que a medida que se desenha mais adequada é o retorno dos autos ao Tribunal de origem para que lá seja esgotada a jurisdição e promovido o juízo de adequação diante do que for decidido pelo STJ.
+Realizada essa providência, que representa o exaurimento da instância ordinária, é que os recursos especiais deverão ser encaminhados para este Tribunal Superior para, se for o caso, serem analisadas as questões jurídicas neles suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, ACOLHO os embargos de declaração para, atribuindo-lhes efeitos modificativos, tornar sem efeito os julgamentos anteriores, e determinaro sobrestamento do julgamento dos recursos especiais até a realização do juízo de conformação pela Corte de origem com o acórdão proferido a ser proferido no aludido recurso especial repetitivo, bem como a devolução dos autos ao Tribunal a quo, com a respectiva baixa, para que essa providência seja efetivada.
+É como voto.
