@@ -1,0 +1,59 @@
+DECISÃO
+Trata-se de agravo manejado por IRACILDA ALVES DE ARAÚJO, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 444):
+APELAÇÃO. Direito previdenciário. Ação acidentária. INSS. Laudo pericial demonstrando que nenhuma das doenças relatadas pela requerente se originaram direta ou indiretamente do trabalho por ela desempenhado. Ausência de nexo causal. Inaplicabilidade do princípio da concausa. Ausência dos pressupostos ensejadores da concessão do benefício pretendido. Acerto da sentença de improcedência. RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 467/470).
+Em seu recurso especial, aduz a parte recorrente, além de divergência jurisprudencial,violação dos arts. 1.022, II, 489, § 1º, 373, I, 1.013, 479, do CPC; 21 da Lei 8.213/91.
+Sustenta, em síntese, que: (I) houve cerceamento de seu direito de defesa no indeferimento do pedido de produção de prova pericial, bem como (II) de acordo com a documentação existente nos autos, faria jus ao recebimento do benefício acidentário, tendo em vista sua incapacidade laboral.
+Aduz que "a recorrente ajuizou o pedido e, com apoio no que determina o artigo 373-I do CPC fez juntar aos autos a prova documental necessária para sustentar a sua alegação quanto ao acidente de trânsito ocorrido que fez agravar ou comprometer ainda mais ou agravar a doença degenerativa cujo acidente se vê da ocorrência policial juntada aos autos a partir de quando passou a estar totalmente invalida para o trabalho" (fl. 498).
+Contrarrazões não apresentadas
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+O recurso não prospera.
+Inicialmente, não se vislumbra na hipótese vertente que o v. acórdão recorrido padeça de qualquer dos vícios descritos nos arts. 489, § 1º, e 1.022, II, do CPC. Com efeito, o órgão julgador apreciou, com coerência, clareza e devida fundamentação, as teses suscitadas pelo jurisdicionado. A propósito, observa-se que o Colegiado a quo se manifestou expressamente acerca dos temas necessários à integral solução da lide; não é legítimo confundir a fundamentação deficiente com a sucinta, porém suficiente, mormente quando contrária aos interesses da parte.
+O julgado abordou as questões apresentadas pelas partes de modo consistente a formar e demonstrar seu convencimento bem como elucidou as suas razões de decidir de maneira clara e transparente, não se vislumbrando a alegada violação legal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. AÇÃO DE REPARAÇÃO DE DANOS. JUROS DE MORA. TERMO INICIAL. RESPONSABILIDADE CONTRATUAL. DATA DA CITAÇÃO
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, devem ser afastadas as alegadas ofensas ao artigo 1.022 do Código de Processo Civil de 2015.
+2. O Superior Tribunal de Justiça firmou orientação no sentido de que o termo inicial dos juros de mora, nas indenizações por danos materiais e morais decorrentes de ilícito contratual, é a data da citação.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1364146/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 5/9/2019, DJe 19/9/2019).
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. REEXAME NECESSÁRIO. SENTENÇA ILÍQUIDA. SÚMULA 490/STJ.
+1. No que se refere à alegada afronta ao disposto no art. 1.022 do CPC/2015, verifico que o julgado recorrido não padece de omissão, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses da parte. 2. Hipótese em que o Tribunal de origem não conheceu da Remessa Necessária por entender que, "no caso concreto, o valor do proveito econômico, ainda que não registrado na sentença, é mensurável por cálculos meramente aritméticos" (fl. 140, e-STJ).
+3. O STJ, no julgamento do Recurso Especial 1.101.727/PR, submetido ao rito do art. 543-C do Código de Processo Civil de 1973, firmou entendimento segundo o qual o Reexame Necessário de sentença proferida contra a União, os Estados, o Distrito Federal, os Municípios e suas respectivas autarquias e fundações de direito público (art. 475, § 2º, do CPC/73) é regra, admitindo-se sua dispensa nos casos em que o valor da condenação seja certo e não exceda a 60 (sessenta) salários mínimos. 4. Tal entendimento foi ratificado com o enunciado da Súmula 490/STJ: A dispensa de reexame necessário, quando o valor da condenação ou do direito controvertido for inferior a sessenta salários mínimos, não se aplica a sentenças ilíquidas.
+5. Recurso Especial parcialmente provido para determinar o retorno dos autos à origem para que a sentença seja submetida ao Reexame Necessário.
+(REsp 1679312/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/8/2017, DJe 12/9/2017).
+Registre-se que o mero inconformismo da parte não autoriza a reabertura do exame de matérias já apreciadas e julgadas, ou a introdução de questão nova, conforme já se manifestou este Superior Tribunal:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. UTILIZAÇÃO DE ÁGUA SUBTERRÂNEA PROVENIENTE DE POÇO ARTESIANO PARA CONSUMO HUMANO. LOCAL ABASTECIDO PELA REDE PÚBLICA. NECESSIDADE DE OUTORGA. QUESTÃO DECIDIDA PELO TRIBUNAL DE ORIGEM MEDIANTE ANÁLISE DE LEGISLAÇÃO LOCAL. OFENSA REFLEXA. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 280/STF. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1022 DO CPC/2015. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1 - Para que os aclaratórios, como recurso de fundamentação vinculada que é, possam prosperar, se faz necessário que o embargante demonstre, de forma clara, a ocorrência de obscuridade, contradição ou omissão em algum ponto do julgado, sendo tais vícios capazes de comprometer a verdade e os fatos postos nos autos.
+2 - Eventual violação de lei federal, tal como posta pela embargante, seria reflexa, e não direta, uma vez que para o deslinde da controvérsia seria imprescindível a interpretação do Decreto Estadual nº 23.430/74, descabendo, portanto, o exame da questão em recurso especial.
+3 - Embargos rejeitados
+(EDcI no Aglnt no AREsp 875.208/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 13/9/2016, DJe 20/9/2016).
+De acordo com a jurisprudência consagrada nesta Corte, é faculdade do julgador o indeferimento de produção de provas que julgar desnecessária para o regular trâmite do processo, sob o pálio da prerrogativa do livre convencimento, seja ela testemunhal, seja pericial ou documental, cabendo-lhe, apenas, expor fundamentadamente o motivo de sua decisão.
+Nesse sentido, sobressaem precedentes:
+PROCESSUAL. ADMINISTRATIVO. NECESSIDADE DE PRODUÇÃO DEPROVAS. INDEFERIMENTO. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. REVISÃO.SÚMULA 07/STJ.
+1. O acórdão recorrido concluiu: o juízo a quo é o destinatário da prova e cabe a ele avaliar sobre a necessidade de sua produção, indeferindo as diligências inúteis e protelatórias. No caso, o indeferimento está devidamente fundamentado, pois os documentos cuja requisição foi pretendida ou já constam dos autos ou não têm relação direta com a lide. Além disso, foi conferida ao ora agravante a oportunidade de demonstrar o contrário, ônus do qual não se desincumbiu (e-STJ fls. 1.707-1.712).
+2. O magistrado, com base no livre convencimento motivado, pode indeferira produção de provas que julgar impertinentes, irrelevantes ou protelatórias para o regular andamento do processo, o que não configura, em regra, cerceamento de defesa. Precedentes.
+3. Rever a orientação adotada pelo Tribunal a quo para acolher-se a tese da recorrente de que no caso a produção de provas seria imprescindível para a solução da lide exige análise de fatos e provas, o que inviabiliza a realização de tal procedimento pelo STJ na via do recurso especial, nos termos da Súmula 07/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 87.393/AM, Rel. Ministro Castro Meira, Segunda Turma,
+DJe 5/3/2012).
+Também é oportuno ressaltar que é "inviável no âmbito do recurso especial dissentir da conclusão alvitrada na origem acerca da desnecessidade de dilação probatória, em face do óbice contido na Súmula 7 deste Tribunal" (AgInt no AREsp 237.594/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/06/2016, DJe 18/08/2016).
+E, no caso concreto, o Tribunal de origem firmou seu entendimento a partir da análise da prova existente nos autos, nos seguintes termos (fls. 445/446):
+Na hipótese vertente, o laudo médico pericial de fls. 315/324, complementado às fls. 361/365, foi categórico ao afirmar que a doença de que é portadora a autora tem natureza degenerativa, não havendo elementos de convicção para estabelecer relação de causalidade com o exercício de suas atividades laborativas. Verbis:
+ ..
+Como bem destacou a Promotoria de Justiça atuante em primeiro grau, "Não há comprovação de modo real, concreto e induvidoso, do nexo de causalidade/concausalidade entre a moléstia de que a requerente é portadora e o acidente de trabalho ou equiparado a este relatado. Ao revés, a perícia concluiu que a doença possui cunho degenerativo."
+E nem se diga que o laudo pericial ignorou o princípio da concausa, pois nos seus esclarecimentos o Perito foi enfático ao afirmar que a autora é portadora de doença degenerativa não ligada ao trabalho, direta ou indiretamente.
+Agiu corretamente o magistrado sentenciante ao se louvar nas conclusões do laudo pericial produzido, uma vez que o mesmo foi elaborado por profissional habilitado e nomeado pelo próprio juízo, cujas conclusões são claras e embasadas em critérios exclusivamente técnicos, conforme se verifica dos documentos acostados aos autos.
+Como se percebe, o acórdão fundou-se nas provas existentes nos autos ao consignar o não preenchimento dos requisitos necessários à concessão dos benefícios requeridos, por constatar a ausência de comprovação da nexo causal entre lesão e exercício da atividade laboral.
+Logo, a alteração destas conclusões, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Neste mesmo sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APOSENTADORIA POR INVALIDEZ. AUXÍLIO-ACIDENTE. AUXÍLIO-DOENÇA. LAUDO PERICIAL. INCAPACIDADE TOTAL, TEMPORÁRIA OU DEFINITIVA. COMPROVAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. VIOLAÇÕES CONSTITUCIONAIS. INCOMPETÊNCIA DO STJ.
+1. O agravante alega que não se trata de reexame das provas dos autos para a concessão do benefício previdenciário, mas da sua valoração e da aplicação da legislação e jurisprudência ao caso concreto.
+2. Não cabe análise por esta Corte Superior de violações de princípios e dispositivos constitucionais em recurso especial.
+3. Não há respaldo na legislação previdenciária para concessão de auxílio-acidente para contribuinte individual.
+4. O acórdão recorrido consignou que não ficou demonstrada a atividade desenvolvida pelo autor, tampouco a restrição impeditiva da atividade.
+5. Quanto aos demais benefícios previdenciários requeridos, quais sejam, aposentadoria por invalidez e auxílio-doença, o Colegiado local decidiu que, também, com base nas provas dos autos, não foram preenchidos os requisitos necessários para a concessão.
+6. Correto o entendimento da decisão impugnada de incidência da Súmula 7/STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1037230/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 07/12/2020, DJe 14/12/2020)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
