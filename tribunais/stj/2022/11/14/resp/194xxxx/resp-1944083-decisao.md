@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por CIT LOGÍSTICA LTDAcom respaldo nas alíneas "a" e "c" do permissivo constitucionalcontra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sulassim ementado (e-STJ fl. 742):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. DIREITO TRIBUTÁRIO. MANDADO OPERAÇÕES DE SEGURANÇA. ICMS SOBRE DE TRANSPORTE DE MERCADORIAS DESTINADAS À EXPORTAÇÃO. CORREÇÃO MONETÁRIA. APLICAÇÃO DA TAXA SELIC. CABIMENTO. APELO PROVIDO. DIREITO AO CREDITAMENTO DE ICMS RECONHECIDO PELO STJ. RETORNO DOS AUTOS A ESTA CORTE APENAS PARA A DEFINIÇÃO DA FORMA DE APURAÇÃO OS VALORES DEVIDOS PELO FISCO. AUSÊNCIA DE OMISSÃO EM RELAÇÃO AO MÉRITO DA AÇÃO. APROVEITAMENTO DO IMPOSTO COM EFEITOS PATRIMONIAIS PRETÉRITOS, REFERENTES AOS 05 (CINCO) ANOS ANTERIORES À IMPETRAÇÃO DO WRIT. OMISSÃO. OCORRÊNCIA. IMPOSSIBILIDADE DE UTILIZAÇÃO DO MANDADO DE SEGURANÇA COMO SUBSTITUTO DA AÇÃO DE COBRANÇA. SÚMULAS 269 E S71 DO STF.
+"Embora seja possível a declaração da compensação tributária pela via do mandado de segurança, nos termos da Súmula 213 do Superior Tribunal de justiça, tal provimento não alcança os créditos anteriores à impetração do writ, em atenção ao disposto nas Súmulas 269 e 271 do Supremo Tribunal Federal." ("ut" ementa do Agravo Interno n 2 70061858452, julgado pela 2ªCâmara Cível deste Tribunal).
+EMBARGOS DE DECLARAÇÃO ACOLHIDOS EM PARTE.
+Novos embargos de declaração rejeitados (e-STJ fls. 778/784).
+Em suas razões de especial, a parte recorrente aponta a existência de dissenso pretoriano e violação doart. 168 doCTN, doart. 1º daLei n.12.016/2009 edos arts.1º e2º doDecreto20.910/1932.
+Sustenta, em suma, que, "quanto à prescrição, o TJRS, ao arrepio do que restou decidido por este Superior Tribunal de Justiça, houve por bem deixar de fixar o prazo prescricional aplicável à hipótese dos autos ao negar o direito ao creditamento para os períodos anteriores à impetração do mandamus".
+Requer, assim, seja reconhecido o seu direito líquido e certo ao creditamento também no período anterior ao lustro prescricional contado da impetração do mandado de segurança.
+Contrarrazões às e-STJ fls. 390/392.
+Recurso especial admitido (e-STJ fls. 398/399).
+Passo a decidir.
+Verifico que a pretensão recursal merece prosperar.
+Pacífica a jurisprudência do STJ no sentido de que a declaração do direito à compensação ou creditamento, em mandado de segurança, deve cobrir o lustro prescricional anterior à impetração, sem que, com isso, tenha-se por configuradaa indevida transformação do writ em ação de cobrança.
+À guisa de mero exemplo, confiram-se os seguinte precedentes:
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.MANDADO DE SEGURANÇA.CREDITAMENTO INDEVIDO DE ICMS. POSSIBILIDADE DE COMPENSAÇÃO DOS CRÉDITOS NÃO ALCANÇADOS PELAPRESCRIÇÃO.AGRAVO INTERNO DO ESTADO NÃO PROVIDO.
+1. A concessão de ordem, emmandado de segurança,declarando direito à compensação ou restituição de créditos tributários não atingidos pelaprescrição,não implica indevidosefeitos patrimoniais pretéritos.Precedentes do STJ.
+2. Ademais, o reconhecimento do direito à compensação de indébitos recolhidos antes da impetração do mandamus, e não fulminados pelaprescrição,não induz em concessão de efeito patrimonial pretérito, o que é vedado pela Súmula 271 do STF, tampouco há transfiguração do instrumento em substitutivo da ação de cobrança, uma vez que não há discussão acerca dos valores a serem compensados, providência esta adstrita à esfera administrativa.
+3. Agravo interno do Estado do Rio Grande do Sul ao qual se nega provimento.
+(AgInt no REsp n. 1.852.107/RS, Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5), PRIMEIRA TURMA, julgado em 21/03/2022, DJe de 24/3/2022).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.MANDADO DE SEGURANÇA.ICMS. DECLARAÇÃO DO DIREITO À COMPENSAÇÃO DOS VALORES REFERENTES AO CRÉDITO TRIBUTÁRIO NÃO ATINGIDOS PELAPRESCRIÇÃO(QUINQUÊNIO QUE ANTECEDE À IMPETRAÇÃO). POSSIBILIDADE.
+1. A jurisprudência pacífica do STJ entende que a possibilidade de a sentença mandamental declarar o direito à compensação (ou creditamento), nos termos da Súmula 213/STJ, de créditos ainda não atingidos pelaprescriçãonão implica concessão deefeitos patrimoniais pretéritosà impetração, de modo que, reconhecido o direito à compensação, a comprovação do indébito e efetiva compensação deverão ser pleiteadas no âmbito administrativo, respeitado o prazo prescricional quinquenal anterior ao ajuizamento do mandamus. Precedentes: AgInt nos EDcl no AREsp 1.793.224/MS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 03/05/2021, DJe 06/05/2021; AgInt no REsp 1.209.315/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/04/2021, DJe 27/04/2021;EDcl nos EDcl no REsp 1.215.773/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO, DJe 20/6/2014.
+2. Agravo interno não provido.
+(AgInt no REsp 1.911.513/RS, relator MINISTRO BENEDITO GONÇALVES, PRIMEIRA TURMA,julgado em 16/08/2021, DJe de 18/08/2021).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, de modo a reconhecer o direito líquido e certo do ora recorrente ao creditamentotambém no lustro prescricional anterior à impetração do mandado de segurança.
+Publique-se. Intimem-se.
