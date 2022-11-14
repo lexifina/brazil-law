@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recurso em habeas corpus por meio do qual se pretende, em síntese, a revogação e/ou o relaxamento da segregação cautelar decretada em desfavor de DIEGO SALMERON.
+Entretanto, observa-se que, após o julgamento do atoapontado como coator(HC n. 2084353-70.2022.8.26.0000), foi proferida sentença nos autos da ação penal n. 1532842-08.2020.8.26.0050, ocasião em que o recorrente foi condenado como incurso nas sanções do art.35, c/c o art.40, VI,da Lei nº 11.343/06, c/co art. 61, II, j, do Código Penal, à pena de 6 anos, 2 meses e 20 dias de reclusão, em regime inicial fechado, e ao pagamento de 1451 dias-multa, no mínimo legal, tendo sidonegado o direito de apelar em liberdade.
+Na hipótese, está prejudicado o presente recurso voltado a abordar a legalidade da prisão provisória aplicada ao recorrente, visto que o Juízo sentenciante agregou novos fundamentos ao decreto constritivo originário para justificar o indeferimento do apelo em liberdade, isto é, o édito condenatório corresponde a decisão diferente da questionada na presente impetração, sendo, portanto, novo título a embasar a custódia cuja legalidade ainda não foi examinada Tribunal originário no ato apontado como coator.
+Ante o exposto, julgoprejudicado o recurso em habeas corpus, comfulcro no art. 34, XI, do Regimento Interno do Superior Tribunal deJustiça.
+Publique-se e intimem-se.
