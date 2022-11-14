@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por PORTOCRED SA CREDITO FINANCIAMENTO E INVESTIMENTO contra decisão da Presidênciadeste Superior Tribunal de Justiça que não conheceu do recurso especial em razãodo óbice da Súmula 284/STF.
+No presente recurso, a parte agravantesustenta que (e-STJ, fls. 521/524):
+Sabe-se que o recurso especial é recurso de cabimento restrito e de fundamentação vinculada. Suas hipóteses de cabimento encontram-se expressamente previstas no artigo 105, inciso III da Constituição Federal. Ao julgar o mérito desse recurso, este Colendo Superior Tribunal de Justiça ocupa-se com a definição da inteligência da norma federal infraconstitucional.
+ ..
+No último dia 20 de abril de 2022, por ocasião do julgamento do EAREsp nº 1.672.966/MG, a Corte Especial do Superior Tribunal de Justiça firmou entendimento no sentido de que a Súmula 284 do STF, segundo a qual "é inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia", pode ser, excepcionalmente, afastada, em caso de falta de indicação expressa no recurso especial da norma constitucional autorizadora da sua interposição, quais sejam, as alíneas "a", "b" e "c" do inciso III, do artigo 105 da CRFB.
+ ..
+Esse novo entendimento evidencia uma mudança na posição há muito consolidada no STJ, que, de modo geral, não vinha conhecendo recursos especiais com base na Súmula 284 do STF, tão somente por não conterem a indicação expressa do dispositivo constitucional violado, em evidente excesso de rigor formal. Prestigiaram-se, assim, os princípios da instrumentalidade das formas e da efetividade do processo, assim como os princípios do devido processo legal, razoabilidade e proporcionalidade.
+E este entendimento é que deve ser analogicamente aplicado ao presente caso, tendo em vista que embora ausente a indicação expressa do dispositivo legal infraconstitucional que teria sido violado, as razões recursais dão plena compreensão da controvérsia e da existência de dissídio jurisprudencial.
+ ..
+Dessa forma, muito embora o instrumento recursal não tenha feito menção expressa ao artigo de lei tido por violado, este delimita a controvérsia sobre a discussão em torno do artigo 51, IV e §1º,III do Código de Defesa do Consumidor, não havendo que se falar em mácula ao contraditório ou ampla defesa, uma vez conferida admissibilidade ao recurso especial intentado.
+ ..
+Assim, por medida de inteira justiça, entende o Recorrente que se deve aqui, tal qual ocorreu no julgamento do EAREsp nº 1.672.966/MG, serem prestigiados os princípios da instrumentalidade das formas e da efetividade do processo, a fim de conferir ao processo a sua função de instrumento de solução das controvérsias, prestigiando o direito material que originou o litígio ao excesso de formalismo ou formalismo exacerbado, que muitas vezes podem permear determinados entendimentos.
+Impugnação às fls. 528/532e-STJ.
+É o relatório.
+EMENTA
+AGRAVO INTERNONO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA QUE NÃO CONHECEU DO RECURSOESPECIAL.DEFICIÊNCIA NAFUNDAMENTAÇÃO RECURSAL. INCIDÊNCIA DA SÚMULA284/STF.INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM AALTERAÇÃO DA DECISÃO RECORRIDA.
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes colegas, a irresignação recursal não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídiotrazido pela parteagravante, capaz de alterar os fundamentos da decisão ora agravada,faz subsistir incólume o entendimento nela firmado.
+A decisão da Presidência deste Superior Tribunal de Justiça, ora agravada,não conheceu do recurso especial em razão do óbice da Súmula 284/STF, conforme se pode observar da leituradoseguintetrecho(e-STJ, fl. 514):
+Mediante análise do recurso de PORTOCRED SA CREDITO FINANCIAMENTO E INVESTIMENTO, verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Da leitura do recurso especial, verifica-seque, conforme aludido na decisão agravada, de fato, a parte recorrente deixou de indicar precisamente os dispositivos legais que seriam objeto do dissídio jurisprudencial, a fim de evidenciar as similitudes fáticae jurídicaentre os julgados colacionados.
+Nessa esteira, ressalta-se que "oRecurso Especial, de fundamentação vinculada, exige a indicação do dispositivo legal que teria sido violado ou objeto de interpretação divergente e a exposição, de forma clara e individualizada, das razões de reforma do acórdão recorrido, sob pena de incidência, por analogia, da Súmula 284/STF."(AgInt no REsp n. 1.846.621/MA, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 7/12/2020, DJe de 11/12/2020.).
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. FUNDAMENTAÇÃO DEFICIENTE. NÃO INDICAÇÃO DE DISPOSITIVO DE LEI VIOLADO. APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA NOS MOLDES LEGAIS. DANO MORAL CONFIGURADO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DANO MORAL. QUANTUM INDENIZATÓRIO. REVISÃO. NÃO CABIMENTO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O conhecimento do recurso especial pela alínea c do permissivo constitucional exige, além de demonstração e comprovação do dissídio jurisprudencial, a indicação de qual dispositivo legal teria sido violado ou objeto de interpretação divergente entre o acórdão impugnado e os paradigmas, sob pena de incidência, por analogia, da Súmula nº 284 do STF. Precedentes.
+3. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+4. A jurisprudência desta Corte também é firme no sentido de que a redução ou majoração do quantum indenizatório é possível somente em hipóteses excepcionais, quando manifestamente irrisória ou exorbitante a indenização arbitrada, sob pena de incidência do óbice da Súmula nº 7 do STJ. Proporcionalidade e razoabilidade observadas no caso dos autos, a justificar a manutenção do quantum indenizatório.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp n. 2.028.632/RJ, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/5/2022, DJe de 1/6/2022, grifei.)
+PROCESSO CIVIL. AGRAVO INTERNO. RAZÕES QUE NÃO ENFRENTAM O FUNDAMENTO DA DECISÃO AGRAVADA. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO INFRACONSTITUCIONAL. SÚMULA 284/STF. PREVIDÊNCIA PRIVADA. CORREÇÃO MONETÁRIA. ÍNDICE PREVISTO NO CONTRATO. REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ.
+1. As razões do agravo interno não enfrentam adequadamente o fundamento da decisão agravada.
+2. A ausência de indicação de dispositivo infraconstitucional violado ou sobre o qual recaia o dissídio jurisprudencial atrai a aplicação do óbice contido na Súmula nº 284/STF.
+3. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.963.134/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 30/5/2022, DJe de 2/6/2022, grifei.)
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA DE OBRIGAÇÃO DE FAZER. 1. INEXISTÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA ADSTRIÇÃO. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DESTA CORTE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 932, III, C/C O ART. 1.021, § 1º, AMBOS DO CPC/2015. 2. NECESSIDADE DE HOME CARE DE FORMA INTEGRAL. ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. DISSÍDIO PRETORIANO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DE INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. 4. AGRAVO INTERNO CONHECIDO EM PARTE E, NESSA EXTENSÃO, DESPROVIDO.
+1. Cabe à parte insurgente, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. A falta de fundamentos válidos para impugnar a decisão proferida no agravo em recurso especial atrai a aplicação do disposto nos arts. 932, III, e 1.021, § 1º, do Código de Processo Civil de 2015.
+2. O Tribunal de origem entendeu, diante das peculiaridades do caso, mormente ante os relatos dos médicos e especialistas que acompanhavam o paciente, que era devido o tratamento domiciliar de forma integral. Infirmar tais conclusões demandaria o revolvimento do conjunto fático-probatório dos autos. Súmula 7/STJ.
+3. A ausência de indicação do dispositivo de lei interpretado de forma divergente entre os acórdãos inviabiliza o conhecimento do recurso especial pelo dissídio pretoriano, atraindo a aplicação da Súmula 284/STF, por aplicação analógica.
+4. Agravo interno conhecido em parte e, nessa extensão, desprovido.
+(AgInt no AgInt no AREsp n. 1.927.628/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/3/2022, DJe de 18/3/2022, grifei.)
+No mais, destaca-se que não se desconhece o entendimento de que "afalta de indicação expressa da norma constitucional que autoriza a interposição do recurso especial (alíneas a, b e c do inciso III do art. 105) implica o seu não conhecimento pela incidência da Súmula n. 284 do STF, salvo, em caráter excepcional, se as razões recursais conseguem demonstrar, de forma inequívoca, a hipótese de seu cabimento."(EAREsp n. 1.672.966/MG, relatora Ministra Laurita Vaz, Corte Especial, julgado em 20/4/2022, DJe de 11/5/2022.).
+No entanto,o referido precedente não pode ser aplicado ao caso em apreço, uma vez que a parte recorrente, apesar de indicar a alínea do permissivo constitucional, deixou de mencionar odispositivo infraconstitucional objeto de interpretação divergente, o que faz incidir o óbice da Súmula 284/STF.
+Assim, em que pesem as razões desenvolvidas pela parte no presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Nesse contexto, a decisão recorrida deve ser mantida pelos seus própriosfundamentos, porquanto válidos os argumentos que a sustentam.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo àaplicação de MULTA por conduta processual indevida (art. 1.026, § 2º, doCPC/2015).
+É o voto.
