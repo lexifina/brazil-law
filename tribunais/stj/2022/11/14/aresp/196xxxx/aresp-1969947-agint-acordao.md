@@ -1,0 +1,91 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+ENGUELBERT LUIZ ADAM (ENGUELBERT) promoveu ação de rescisão de contrato contra ORLANDO GIRARDI (ORLANDO) e ZENILDE SOUZA GIRARDI (ZENILDE), objetivando retomar de imediato o imóvel vendido.
+Na espécie, ENGUELBERT relatou que vendeu a ORLANDO e outro um terreno rural sem benfeitorias no valor de R$ 130.000,000 (cento e trinta mil reais) "a serem pagos à vista" (e-STJ, fl. 5). Asseverou, contudo, que, embora as partes tivessem acordado que o pagamento seria efetivado quando da assinatura do termo, mesmo com a posse do bem nunca honraram o pagamento. Frisou que procurou ORLANDO e outro por reiteradas vezes tento sempre recebido justificativas evasivas. Sustentou que os compradores inadimplentes estão tentando vender o imóvel.
+Assim, pleiteou o requerimento da tutela antecipada com a rescisão contratual e o restabelecimento do status quo antepara, inclusive, não causar transtornos a terceiros.
+Em primeira instância, os pedidos foram julgados improcedentes (e-STJ, fls. 193/196)
+A apelação interposta por ENGUELBERT foi provida pelo Tribunal de Justiça de SantaCatarina, nos termos do v. acórdão assim ementado:
+APELAÇÃO CONTRATO DE CÍVEL. AÇÃO DE RESCISÃO DE COMPRA E VENDA DE IMÓVEL. RECURSO DO AUTOR.
+1) ANTECIPAÇÃO DA TUTELA. PLEITO PREJUDICADO EM FACE DO PRESENTE JULGAMENTO.
+2) SENTENÇA DE IMPROCEDÊNCIA DIANTE DO TESTEMUNHO SOBRE O PAGAMENTO DA AVENÇA. AFIRMAÇÃO DO TESTIGO DE TER APENAS PRESUMIDO A QUITAÇÃO. TESE DA DEFESA EM DISSINTONIA COM DEPOIMENTO TESTEMUNHAL. DESCUMPRIMENTO DA OBRIGAÇÃO POR PARTE DOS ADQUIRENTES. ALEGADA QUITAÇÃO. AUSÊNCIA DE PROVAS. ÔNUS QUE COMPETIA AOS RÉUS. INTELIGÊNCIA DO ART. 333, II, DO CPC/1973. RESCISÃO CABÍVEL. EXEGESE DO ART. 457, DO CÓDIGO CIVIL. RETORNO DAS PARTES AO STATUS QUO ANTE. REINTEGRAÇÃO DO AUTOR NA POSSE DO IMÓVEL.
+3) INVERSÃO DA SUCUMBÊNCIA. PLEITOS INICIAIS PROCEDENTES. DEMANDADOS QUE DEVEM ARCAR COM AS DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO § 4º, DO ART. 20, DO CPC/1973.
+4) HONORÁRIOS RECURSAIS DESCABIDOS. SENTENÇA PROLATADA NA VIGÊNCIA DO CÓDIGO DE PROCESSO REVOGADO.
+RECLAMO CONHECIDO E PROVIDO(e-STJ, fl. 434).
+Os embargos de declaração opostos por ORLANDO e outro foram rejeitados (e-STJ, fls. 469/478).
+Inconformados, ORLANDO e outro interpuseram recurso especial com fulcro no art. 105, III, a, da CF, alegando violação dos arts. 320, parágrafo único, 324 e 491 do CC/2002 e 131, 333, I, e 535 do CPC/1973 (recepcionados pelos arts. 371, 373, I, e 1.022 do COC de 2015), sustentando (1) que o contrato, apesar de constar cláusula com interpretação dúbia, constituiu documento hábil a comprovar a quitação do débito; e (2) má-valoração das provas carreadas, asseverando ser evidente o pagamento integral do terreno, mormente pela entrega, por parte de ENGUELBERT, do formal de partilha em relação ao imóvel objeto do contrato para registro em seus nomes. Entendem que o caso não é de aplicação da Súmula n.º 7 do STJ, masantesde revaloração probatória.
+Foram apresentadas as contrarrazões (e-STJ, fls. 500/517).
+O apelo nobre não foi admitido em virtude da incidência das Súmulas n.ºs 5 e 7 do STJ (e-STJ, fls. 520/523).
+Conheci do agravo em recurso especial daí decorrente para negar provimento ao recurso especial, em decisão monocrática de minha lavra assim ementada:
+CIVIL E PROCESSUAL CIVIL. RESCISÃO DE CONTRATO. VÍCIOS NO JULGADO. INOCORRÊNCIA. MÁ VALORAÇÃO DA PROVA. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INCIDÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 567).
+Nas razões do presente agravo interno, ORLANDO e outro, repisando os argumentos das razões recursais, alegaram (1) violação do art. 1.022 do NCPC; e(2) ausência de violação das Súmulas n.ºs 5 e 7 do STJ, por não haver necessidade do reexame de cláusula contratual ou provas.
+Houve impugnação ao recurso (e-STJ, fls. 585/589).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE RESCISÃO DE COMPRA E VENDA DE IMÓVEL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADAS. ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULA N.º 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir as Súmulas n.ºs 5 e 7, ambas do STJ.
+5. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Na hipótese, a decisão recorrida, em relação a alegada omissão, no que concerne a interpretação dúbia da cláusula contratual e omissão e obscuridade na má valoração da prova, Tribunal local, no julgamento dos embargos de declaração, consignou:
+Os réus apontam haver máculas no julgado. Discorrem sobre a omissão e a obscuridade na valoração do conjunto probatório, especificamente acerca da cláusula de quitação da avença e da suposta transferência do imóvel, além de ressaltarem inexistir prova de fato constitutivo do direito do autor.
+Quanto aos temas, o aresto foi hialino. Confira-se (evento 75 - acórdão 34 - fls. 6/):
+Com efeito, resta incontroverso nos autos que as partes firmaram contrato particular de compra e venda de imóvel no dia 02.10.2012 (fls. 23/24), referente ao terreno de 5.889,21 m 2 , matriculado sob o n. 8.151, do Cartório de Registro de Imóveis da Comarca de Papanduva/SC.
+O referido bem foi adquirido pelo valor de R$ 130.000,00 (cento e trinta mil reais), a serem pagos conforme estipulado na quarta cláusula da avença (fl. 23). Veja-se:
+4. - CLÁUSULA QUARTA  DO PREÇO 4.1 - o preço do presente contrato é de R$ 130.000,00 (cento e trinta mil reais), a serem pagos a vista.
+O insurgente assevera que, malgrado a previsão contratual sobre o pagamento à vista, não houve adimplemento por parte dos réus. Estes, redarguem, contudo, que o pagamento foi efetuado no ato da assinatura da avença, a qual serviria de quitação.
+Impossível acolher-se a tese defensiva no caso.
+Deveras, a redação do contrato mostra-se dúbia, porquanto afirma que o valor do imóvel é de cento e trinta mil reais "a serem" (indicando tempo futuro) pagos "à vista" (dando a impressão de pronto pagamento). Nada obstante, inexiste qualquer previsão de que o autor teria dado quitação daquele montante.
+ ..
+Na espécie, não restou demonstrada de nenhuma forma a quitação. Os réus deixaram de juntar qualquer prova para comprovar o adimplemento, como por exemplo, algum depósito bancário. Limitaram-se, repita-se, a afirmar na peça contestatória que a previsão contratual era suficiente à demonstração do pagamento. Para roborar as assertivas, indicaram como testemunha o Sr. Luiz Sérgio Soares Ribas de Souza, ouvido e contraditado na audiência de II. 98.
+Diferentemente da intelecção do sentenciante, data venta, o depoimento do testigo não se mostrou hábil para embasar a tese defensiva de pagamento.
+Saliente-se ser despicienda a análise da contradita apontada pelo demandante, porque mesmo que considerado como prova o depoimento da testemunha, ele é insuficiente para acolher-se a argumentação dos réus. Aliás, o depoimento diverge até da contestação.
+À luz do quadro delineado, emerge incogitável falar-se em mácula no aresto, requisito essencial para interposição do recurso (art. 1.022, do CPC/15).
+O acórdão expressamente analisou os elementos de prova e a suposta quitação da avença, além de ter reconhecido que a posse foi transferida aos réus (tanto que determinou a restituição do autor na posse do bem), sem que isso interferisse na intelecção esposada.
+Deveras, coexiste apenas descontentamento dos embargantes relativamente ao resultado do julgamento, não intentando, em verdade, sanar qualquer das eivas ensejadoras dos embargos declaratórios. Os argumentos do presente reclamo combatem a interpretação do Colegiado atinente às provas encartadas, com vistas a, em verdade, rediscutir a causa (e-STJ, fls. 474/478).
+Desse modo, como inexiste omissão, contradição, obscuridade ou erro material no acórdão recorrido, a lide foi fundamentadamente resolvida nos limites propostos, ocasião em que as questões postas a debate foram decididas com clareza, não se justificando o manejo dos aclaratórios.
+Vale pontuar que a obtenção de resultado diverso do pretendido não implica ofensa ao art. 1.022 do NCPC (art. 535 do CPC/1973), na medida em que o acolhimento dos embargos de declaração demanda a presença de seus pressupostos legais de admissibilidade: omissão, contradição, obscuridade ou erro material, o que não ocorreu no caso presente.
+De outra parte, a decisão agravada consignou, expressamente, que em relação a alegada violação dos arts. 371 e 373, I, do CPC/2015, e 320, parágrafo único, 324 e 491 do CC20/02, sustentando que há provas suficientes do pagamento da dívida, bem como caberia ao ora agravado o ônus de provar o recebimento do dinheiro, a incidência das Súmulas n.ºs 5 e 7 do STJ, pois o Tribunal local, soberano na análise do acervo fático probatório e contratual, assim entendeu:
+O insurgente assevera que, malgrado a previsão contratual sobre o pagamento à vista, não houve adimplemento por parte dos réus. Estes, redarguem, contudo, que o pagamento foi efetuado no ato da assinatura da avença, a qual serviria de quitação.
+Impossível acolher-se a tese defensiva no caso.
+Deveras, a redação do contrato mostra-se dúbia, porquanto afirma que o valor do imóvel é de cento e trinta mil reais "a serem" (indicando tempo futuro) pagos "à vista" (dando a impressão de pronto pagamento). Nada obstante, inexiste qualquer previsão de que o autor teria dado quitação daquele montante.
+Reza o art. 320, do Código Civil: "A quitação, que sempre poderá ser dada por instrumento particular, designará o valor e a espécie da divida quitada, o nome do devedor, ou quem por este pagou, o tempo e o lugar do pagamento, com a assinatura do credor, ou do seu representante".
+Ressalva, ainda, o parágrafo único deste dispositivo: "Ainda sem os requisitos estabelecidos neste artigo valerá a quitação, se de seus termos ou das circunstâncias resultar haver sido paga a divida".
+Na espécie, não restou demonstrada de nenhuma forma a quitação. Os réus deixaram de juntar qualquer prova para comprovar o adimplemento, como por exemplo, algum depósito bancário. Limitaram-se, repita-se, a afirmar na peça contestatória que a previsão contratual era suficiente à demonstração do pagamento. Para roborar as assertivas, indicaram como testemunha o Sr. Luiz Sérgio Soares Ribas de Souza, ouvido e contraditado na audiência de fl. 98.
+Diferentemente da intelecção do sentenciante, data venha, o depoimento do testigo não se mostrou hábil para embasar a tese defensiva de pagamento.
+Saliente-se ser despicienda a análise da contradita apontada pelo demandante, porque mesmo que considerado como prova o depoimento da testemunha, ele é insuficiente para acolher-se a argumentação dos réus. Aliás, o depoimento diverge até da contestação.
+Na tese de defesa, apontaram os demandados que houve pagamento na assinatura da avença, "à vista", conforme previa o contrato.
+Por outro lado, o testigo afirmou que o pagamento presumivelmente teria sido realizado em parcelas, pois o autor foi visto algumas vezes na lotérica dos réus, supostamente para receber o montante do negócio, o qual teria sido pago na totalidade após dois anos da data da aquisição.
+ ..
+Percebe-se sem o menor esforço que a testemunha é frágil, pois não afirma de modo categórico que houve o pagamento dos R$ 130.000,00 (cento e trinta mil reais), mas apenas ter presumido tal adimplemento, diante da entrega pelo autor de carta de adjudicação para transferência do bem. Ao responder se vira o autor recebendo o dinheiro, disse que não sabia se ele efetivamente saía da lotérica com dinheiro. Não há, assim, nenhuma prova robusta do efetivo desembolso.
+De outra banda, a tese sustentada pelo testigo curiosamente não se coaduna com aquele levantada pelos réus. Em nenhum momento os demandados afirmam que pagaram posteriormente qualquer valor ao autor, quer na sua lotérica, quer em outro estabelecimento.
+Asseveraram tão somente que houve o adimplemento na oportunidade em que firmaram o contrato. Mas, tal alegação, como visto, não foi comprovada.
+Logo, à míngua de provas da quitação válida do débito, conclui-se que restou exitosa a pretensão inicial. Remanesceu indemonstrado nos autos pelos recorridos a quitação do contrato, ônus que lhes competia (e-STJ, fls. 432/447).
+Desse modo, como se percebe, foi com base nas peculiaridades do caso concreto e na análise do contrato entabulado entre as partes que se formou a convicção dos julgadores da origem.
+Assim, para se chegar a conclusão diversa daquela a que chegou o Tribunal estadual, seria necessário o revolvimento do arcabouço fático-probatório e das cláusulas contratuais, procedimento sabidamente inviável na instância especial por incidir as Súmulas n.ºs 5 e 7, ambas desta Corte: A simples interpretação de cláusula contratual não enseja recurso especial; A pretensão de simples reexame de prova não enseja recurso especial.
+Nesse sentido, destacamos:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESILIÇÃO DE CONTRATO DE COMPRA E VENDA, COM RESTITUIÇÃO DE VALORES . OMISSÃO NO ACÓRDÃO DE ORIGEM. NÃO OCORRÊNCIA. REEXAME DA PROVA E CLÁUSULAS CONTRATUAIS. SÚMULAS Nº 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. NÃO PROVIDO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos artigos 489 e 1.022 do CPC/15.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Incidência da Súmula 126/STJ, em razão de ter o Tribunal de origem assentado sua decisão em fundamento constitucional, não tendo sido interposto recurso extraordinário quanto ao tema.
+4. Dissídio jurisprudencial não comprovado, em face da ausência de demonstração da similitude fática e da divergência na interpretação do direito entre os acórdãos confrontados. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.837.993/SP, relatora MINISTRA MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 27/6/2022, DJe de 30/6/2022)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO RESCISÓRIA. OMISSÃO OU CONTRADIÇÃO NÃO EXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. DESRESPEITO AOS TERMOS CONTRATUAIS, ENSEJANDO A MORA EX RE DOS INSURGENTES E A VIABILIDADE DE RESCISÃO DA AVENÇA. SÚMULAS 5 E 7/STJ. CABIMENTO DA FIXAÇÃO DE INDENIZAÇÃO EM FAVOR DOS PROPRIETÁRIOS. SÚMULA 83/STJ. VALOR E PERÍODO DE INCIDÊNCIA DESSA REPARAÇÃO. SÚMULA 7/STJ. INEXISTÊNCIA DE SUCUMBÊNCIA RECÍPROCA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do CPC/2015. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pelos insurgentes.
+2. A segunda instância concluiu que houve o desrespeito aos termos do contrato de compra e venda do imóvel pelos insurgentes, que se encontravam em efetiva mora ex re. Com base no acervo fático-probatório e em termos contratuais, firmou o aresto o conhecimento, pelos insurgentes, de que estavam inadimplentes, fator a ocasionar a rescisão da avença. Aplicação das Súmulas 5 e 7/STJ.
+3. A segunda instância também afastou a tese de adimplemento substancial. Essa conclusão foi ancorada na apreciação fática da demanda, ensejando o óbice da Súmula 7/STJ.
+ ..
+5. O quantum e a forma de apuração da reparação foram delimitados com base em um juízo de razoabilidade e de ponderação que escapa à apreciação desta Corte Superior, em virtude do óbice da Súmula 7/STJ.
+6. A conclusão acerca da ausência de sucumbência recíproca, determinando essa parcela da condenação aos insurgentes, decorreu da análise do que foi pedido e do que foi deferido no julgado. Essa apreciação igualmente foi fundada na apreciação fático-probatória da causa, ensejando a aplicação da citada Súmula 7/STJ.
+7. Agravo interno desprovido.
+(AgInt no REsp n. 1.988.534/TO, relator MINISTRO MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 6/6/2022, DJe de 8/6/2022)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
