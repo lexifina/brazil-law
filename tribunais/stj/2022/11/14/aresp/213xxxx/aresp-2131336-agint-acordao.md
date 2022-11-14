@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por BANCO SANTANDER (BRASIL) S.A. contra decisão da Presidência desta Corte, que não conheceu do agravo emrecurso especial por ele manejado, nos seguintes termos (e-STJ, fls. 432-433):
+Cuida-se de agravo interposto por BANCO SANTANDER (BRASIL) S. A., contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de BANCO SANTANDER (BRASIL) S. A., verifica-se que incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Aplicável, por conseguinte, o enunciado da citada súmula: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido: "A ausência de expressa indicação de artigos de lei violados inviabiliza o conhecimento do recurso especial, não bastando a mera menção a dispositivos legais ou a narrativa acerca da legislação federal, aplicando-se o disposto na Súmula n. 284 do STF". (AgInt no AREsp n. 1.684.101/MA, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020.)
+Também, o Superior Tribunal de Justiça já se manifestou no sentido de que, "uma vez observado, no caso concreto, que nas razões do recurso especial não foram indicados os dispositivos de lei federal acerca dos quais supostamente há dissídio jurisprudencial, a única solução possível será o não conhecimento do recurso por deficiência de fundamentação, nos termos da Súmula 284/STF". (AgRg no REsp 1.346.588/DF, relator Ministro Arnaldo Esteves Lima, Corte Especial, DJe de 17/3/2014.)
+(..)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Em suas razões (e-STJ, fls. 436-445), o agravante defende, em resumo, a inaplicabilidade dos óbices apontados. Reitera, ainda, as teses de mérito anteriormente vertidas no apelo especial.
+Impugnação às fls. 447-507 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO POR VIOLADO OU OBJETO DE INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. COTEJO ANALÍTICO NÃO EFETUADO. AGRAVO DESPROVIDO.
+1.A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou a que se teria dado interpretação divergentefaz incidir à hipótese, em relação a quaisquer das alíneas do permissivo constitucional, o teor da Súmula 284/STF, por analogia: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+2.A jurisprudência desta Corte de Justiça, seguindo o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, entende que, para demonstração da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma, fazendo-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional.
+3.Agravo interno desprovido.
+VOTO
+Os argumentos trazidos peloagravante não são capazes de modificar as conclusões da deliberação unipessoal.
+No caso em estudo, a decisão recorrida não conheceu dorecurso especial, ante a deficiência na sua fundamentação, tendo em vista que a parteinsurgente deixou de indicar expressamenteos dispositivos legais federais que teriam sido violados ou objeto de dissídio interpretativo, incidindo a Súmula 284/STF no ponto.
+Importante ponderar que o recurso especial é reclamo de natureza vinculada e, portanto, para o seu cabimento, é imprescindível que sejam apontados, de forma clara e precisa, os preceitos legais objeto de ofensa ou interpretação dissentânea, sob pena de inadmissão.
+Com efeito, a despeito das alegações do banco insurgente, observa-se que, tal como registrado na decisão agravada, não houve a devida particularização, nas razões do apelo especial (e-STJ, fls. 264-273), dequaisdispositivos legaisteriam sido violados ou objeto de interpretação jurisprudencial divergente, o que, nos termos da jurisprudência desta Corte,inviabiliza a compreensão da controvérsia e, por conseguinte, revela a deficiência de fundamentação, atraindo a incidência do enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+Ainda nesse contexto, destaca-se que "a citação de passagem de artigos de
+lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto" (AgInt no REsp 1.615.830/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11/6/2018).
+Na mesma linha de cognição:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INEXIGIBILIDADE DE PROTESTO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. DISSÍDIO INTERPRETATIVO. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL A QUE TERIA SIDO ATRIBUÍDA INTERPRETAÇÃO DIVERGENTE. AUSÊNCIA DE CARACTERIZAÇÃO DO DISSÍDIO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA Nº 284 DO STF. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O dissídio jurisprudencial não foi demonstrado, uma vez que não foi indicado nas razões recursais o dispositivo infraconstitucional tido por violado, exigência essa que deve ser cumprida tanto para o recurso especial interposto com base na alínea a quanto para o manejado com fulcro na alínea c do permissivo constitucional, sendo, portanto, imperiosa a incidência da Súmula nº 284 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.101.387/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. TEMPESTIVIDADE. FUNDAMENTAÇÃO DO RECURSO. DEFICIÊNCIA. SÚMULA Nº 284/STF. BEM DE FAMÍLIA. IMPENHORABILIDADE. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. DIVERGÊNCIA. NÃO DEMONSTRAÇÃO. SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Entende-se por deficientemente fundamentado o recurso especial quando a tese defendida não se encontra amparada por nenhum dispositivo legal ou quando o artigo de lei invocado não guarda pertinência temática. Súmula nº 284/STF.
+3. Na hipótese, acolher a pretensão recursal quanto à impenhorabilidade do bem de família demandaria o revolvimento do acervo fático-probatório dos autos, procedimento inviável ante a natureza excepcional da via eleita, conforme dispõe a Súmula nº 7/STJ.
+4. Se a divergência não é notória, e nas razões de recurso especial não há a indicação de qual dispositivo legal teria sido malferido, com a consequente demonstração da divergência de interpretação à legislação infraconstitucional, aplica-se, por analogia, o óbice contido na Súmula nº 284 do Supremo Tribunal Federal, a inviabilizar o conhecimento do recurso pela alínea "c" do permissivo constitucional. Precedentes.
+5. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas.
+6. Agravo interno não provido.
+(AgInt no AREsp 1829180/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/10/2021, DJe 15/10/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL QUE TENHA SOFRIDO INTERPRETAÇÃO DIVERGENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A falta de particularização do dispositivo de lei federal objeto de divergência jurisprudencial consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Incidência da Súmula n. 284/STF.
+2. Agravo interno não provido.
+(AgInt no AREsp 1888693/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 28/09/2021, DJe 04/10/2021)
+Ademais, ainda que superado o referido óbice processual,não se revela cognoscível a irresignação deduzida por meio da alíneacdo permissivo constitucional, porquanto orecorrente não demonstrou a divergência nos moldes exigidos pelos arts. 1.029, § 1º, do CPC/2015 e 255, §§ 1º e 2º, do RISTJ.
+É assente nesta Corte Superior que a mera transcrição de ementas e excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alíneacdo permissivo constitucional.
+Ilustrativamente:
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DANO MORAL. MATÉRIA. PUBLICAÇÃO. INTERNET. CENSURA PRÉVIA.IMPOSSIBILIDADE. DIREITO À INFORMAÇÃO. LIBERDADE DE EXPRESSÃO.DIREITOS DE PERSONALIDADE. VIOLAÇÃO. ABUSO DE DIREITO. CONFIGURAÇÃO.VALOR DA INDENIZAÇÃO. REEXAME FÁTICO. VEDAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se: (i) existente responsabilidade civil decorrente da publicação de matéria em sítio eletrônico considerada ofensiva aos direitos de personalidade, isto é, se houve ou não abuso no exercício dos direitos de informação, de comunicação e de imprensa, e (ii) o valor arbitrado a título de indenização é proporcional ao dano moral suportado pela parte recorrida.
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ).
+ ..
+7. Recurso especial parcialmente conhecido e não provido.
+(REsp 1887919/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/08/2021, DJe 31/08/2021)
+Em arremate, uma vez que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado no aresto impugnado, permanece inalterada a decisão que não conheceu do agravo emrecurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
