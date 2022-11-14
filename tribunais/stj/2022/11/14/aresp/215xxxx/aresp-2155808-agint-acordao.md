@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto em face de decisão proferida pela Presidência desta Corte Superior, a qual não conheceu do agravo em recurso especial, por incidência da Súmula 284/STF, "uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo" (e-STJ, fl. 230).
+Em seu agravo interno, a parte reitera a necessidade de reformar a decisão que negou o benefício da assistência judiciária gratuita, afirmando que a declaração de hipossuficiência é suficiente para o deferimento.
+Sustenta que o benefício foi negado, sem que fosse oportunizado à parte comprovar a situação de hipossuficiência jurídica, o que representa violação à ampla defesa (art. 5º, inciso LV, da Constituição Federal), além de ao acesso à jurisdição (art. 5º, inciso XXXV, da Constituição Federal).
+A parte agravada apresentou impugnação (e-STJ, fls. 244/246).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284 DO STF. SÚMULA 182 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+2. A falta de indicação de dispositivo de lei a respeito de cuja interpretação divergiu o acórdão recorrido implica deficiência na fundamentação do recurso especial, o que atrai a incidência da Súmula 284 do STF por analogia.
+3. Não merece conhecimento o agravo que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial.
+4. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI (Relatora): O agravo interno não merece provimento.
+A recorrente manifestou agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa (e-STJ, fl. 64):
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. GRATUIDADE DE JUSTIÇA. CONSUMIDOR. AÇÃO REVISIONAL DE CONTRATO DE FINANCIAMENTO DE VEÍCULO. INDEFERIMENTO DO PEDIDO DE GRATUIDADE DE JUSTIÇA. AGRAVANTE QUE ADQUIRIU AUTOMÓVEL, FINANCIADO EM 36 PARCELAS MENSAIS NO VALOR DE R$1.649,48. NÃO COMPROVADA A ALEGADA HIPOSSUFICIÊNCIA FINANCEIRA. INCIDÊNCIA DO VERBETE SUMULAR Nº 288 DESTE TJRJ. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. IRRESIGNAÇÃO DA PARTE AUTORA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO INTERNO QUE NÃO APRESENTA ARGUMENTOS OU FATOS CAPAZES A INFIRMAR A DECISÃO RECORRIDA. RECURSO A QUE SE NEGA PROVIMENTO.
+Na ocasião, defendeu que o benefício da assistência judiciária era devido, tendo em vista a declaração de hipossuficiência juntada aos autos.
+Inicialmente, o presente recurso não deve ser admitido quanto à alegação de violação de artigos da Constituição Federal, vez que não é cabível em sede de recurso especial a análise de suposta ofensa a dispositivos constitucionais.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CUMPRIMENTO DE SENTENÇA. 1. OFENSA AOS ARTS. 73 E 115 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 2. CONCLUSÃO ESTADUAL NO SENTIDO DO CONHECIMENTO PELA INSURGENTE DO TEOR DA DECISÃO CONCESSIVA DA PENHORA. CARÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. SÚMULA 7/STJ. 3. PREMISSAS DO ARESTO EM SINTONIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. 4. OFENSA A DISPOSITIVO CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA. 5. AGRAVO INTERNO DESPROVIDO.
+1. Em relação ao argumento recursal concernente à suposta ofensa aos arts. 73 e 115 do CPC/2015, incidem as Súmulas 282 e 356/STF, diante da ausência de prequestionamento, uma vez que tal tese não foi objeto de análise pela Corte local. Ademais, considera-se configurado o prequestionamento implícito quando, mesmo sem a expressa menção dos dispositivos federais tidos como violados, há o efetivo debate da norma neles contida, o que, todavia, não se verifica na hipótese dos autos.
+2. A revisão das conclusões a que chegou a Corte de origem, no sentido da ciência da agravante acerca da decisão deferindo a penhora e da carência de prejuízo, esbarra no óbice da Súmula 7/STJ.
+3. Com efeito, em diversas situações, a jurisprudência desta Corte Superior tem privilegiado o entendimento de que o comparecimento espontâneo da parte supre eventual falta de intimação. Precedentes.
+4. É inviável a apreciação de ofensa a eventual violação de dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal, ainda que para fins de prequestionamento.
+5. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.097.129/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022.)
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. APRECIAÇÃO PELO STJ. IMPOSSIBILIDADE. TUTELA ANTECIPADA. BENEFÍCIO PREVIDENCIÁRIO SUPLEMENTAR. PEDIDO DE REVOGAÇÃO. ÓBICE DA SÚMULA N. 735/STF. DECISÃO AGRAVADA. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. TUTELA DE URGÊNCIA. DISCUSSÃO DE MÉRITO NO RECURSO ESPECIAL. DESCABIMENTO. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Ao Superior Tribunal de Justiça não cabe se manifestar sobre supostas violações de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. A jurisprudência do STJ, em regra, não admite a interposição de recurso especial que tenha por objetivo discutir a correção de acórdão que nega ou defere medida liminar ou antecipação de tutela, por não se tratar de decisão em única ou última instância. Incide, analogicamente, o enunciado n. 735 da Súmula do STF. Precedentes.
+3. Conforme o entendimento desta Corte Superior, o especial interposto contra acórdão que decide sobre pedido de antecipação de tutela admite, "tão somente, discutir eventual ofensa aos próprios dispositivos legais que disciplinam o tema (art. 300 do CPC/2015, correspondente ao art. 273 do CPC/1973), e não violação a norma que diga respeito ao mérito da causa" (AgInt no AREsp n. 1.943.057/RJ, relator MINISTRO RAUL ARAÚJO, QUARTA TURMA, julgado em 14/3/2022, DJe de 4/4/2022).
+4. No caso, descabe cogitar do exame da tese de contrariedade aos arts. 1º, 9º, 12, 16, § 2º, 18 e 19 da Lei Complementar n. 109/2001, pois os referidos normativos não estão relacionados aos requisitos de concessão das medidas de urgência.
+5. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+6. A simples indicação de dispositivos e diplomas legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+7. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+8. No caso concreto, para averiguar, nesta instância, a ausência dos requisitos da tutela antecipada que deferiu o benefício previdenciário suplementar à agravada, seria imprescindível nova análise da matéria fática, inviável em recurso especial.
+9. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 2.052.614/BA, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+Ademais, conforme concluiu a Presidência desta Corte, verifico que as razões do recurso especial não apontam precisamente os dispositivos federais que teriam sido violados ou quais dispositivos legais seriam objeto de dissídio interpretativo.
+Aponto também que a incidência da Súmula 284/STF não foi sequer mencionada nas razões do agravo interno, o que atrai a incidência da Súmula 182/STJ, segundo a qual "a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator proferida ao apreciar recurso especial ou agravo em recurso especial apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ" (EREsp n. 1.424.404/SP, Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/10/2021, DJe 17/11/2021).
+Assim, deve ser mantida, por seus próprios fundamentos, a decisão agravada.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto
