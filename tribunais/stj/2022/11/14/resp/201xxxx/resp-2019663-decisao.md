@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, inc. III, "a", da Constituição Federal, contra acórdão proferido pelo TJRJ ementado às fls. 415-416.
+Embargos de declaração rejeitados.
+O recorrente alega violação dos arts. 489, §1º, incs. II e IV, e 1022, inc. II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito das razões pelas quais foi superada a vedação legal ao advento de uma decisão ultra petita.
+Quanto à questão de fundo, sustenta ofensa ao art. 492 do CPC/2015, sob os seguintes argumentos: a) ao estender "os benefícios do regime de importação de drawback integrado a todos os estabelecimentos da impetrante", contemplando um pedido implícito que em muito desborda dos limites daquilo que foi expressamente pleiteado pela recorrida em sua petição inicial, o acórdão recorrido proferiu decisão ultra petita, vulnerando o art. 492 do CPC/2015; b) da invocação dos itens 22 e 23 da petição inicial, que consta dos acórdãos para justificar a procedência da apelação quanto à extensão do benefício às demais filiais da recorrida, não se permite concluir por si só tratar-se de pedido implícito.
+Com contrarrazões.
+Juízo negativo de admissibilidade às fls. 559-563.
+Agravo em recurso especial às fls. 606-615.
+Decisão dando provimento ao agravo e determinando sua conversão em recurso especial à fl. 667.
+Embargos de declaração rejeitados às fls. 685-686.
+É o relatório. Passo a decidir.
+Consigna-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele prevista, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, afasta-se a alegada ofensa aos arts. 489, §1º, incs. II e IV, e 1022, inc. II, do CPC/2015, pois a Corte de origem prestou a tutela jurisdicional por meio de fundamentação jurídica que condiz com a resolução do conflito de interesses apresentado pelas partes, havendo pertinência entre os fundamentos e a conclusão do que decidido. A aplicação do direito ao caso, ainda que através de solução jurídica diversa da pretendida por um dos litigantes, não induz negativa ou ausência de prestação jurisdicional.
+Outrossim, o recorrente, ao indicar ofensa ao art. 492 do CPC/2015 e direcionar a sua tese no sentido de que o acórdão recorrido proferiu decisão ultra petita ao contemplar um pedido implícito que em muito desborda dos limites do que foi expressamente pleiteado pela recorrida, deixou de impugnar o fundamento do acórdão recorrido segundo o qual "(..), conquanto não haja pedido expresso na inicial para a extensão dos benefícios do regime de importação de drawback integrado a todos os seus estabelecimentos, extrai-se desta que a impetrante almeja que a autoridade coatora se abstenha de cobrar o ICMS Importação nas operações de importação realizadas sob o regime do drawback integrado, decorrentes do Ato Concessório nº 20090054814. Sobre a interpretação do pedido, dispõe o art. 322 do CPC: (..). Por oportuno, os itens 22 e 23 da petição inicial: (..) Portanto, a correta interpretação da inicial, nos moldes do § 2º do art. 322 do CPC, permite-nos concluir que, deveras, a impetrante almeja a extensão dos benefícios do regime de importação de drawback integrado a todos os seus estabelecimentos." (fls. 423-424).
+A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese a Súmula 283/STF.
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DOS ARTS. 489, §1º, INCS. II E IV, E 1022, INC. II, DO CPC/2015. NÃO OCORRÊNCIA. ART. 492 DO CPC/2015. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
