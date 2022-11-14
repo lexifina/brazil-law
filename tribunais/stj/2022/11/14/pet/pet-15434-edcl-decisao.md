@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PRISCILLA LARANJEIRA NUNES DE OLIVEIRAcontra decisão proferida na petiçãoem epígrafe, na qual indeferi o pedido de tutela provisóriavisando atribuir efeito suspensivo ao agravo em recurso especial, a uma porque o pleito de revogação da prisão preventiva seria reiteração de pedido e, a duas, porque as alegações contidas no recurso especial acerca da ausência de indícios suficientes à submissão da peticionante ao julgamento pelo Tribunal do Júri não apresentariampatente probabilidade do direito, não evidenciariam teratologia e resvalariam para o reexame de matéria probatória.
+Inconformada, aembargante alegaque "a r. Decisão de Vossa Excelência ficou omissaquanto à necessidade da prisão da Embargante. em decorrência de outro título judicial, ou seja, a prisão por pronúncia, obrigando, então, o exame de fato concreto e contemporâneo, capaz de justificar a manutenção daquela medida, em desfavor da Embargante" e que "a causa de pedir no HC  771.494/RJ, citado na r. Decisão Embargada, não se confunde com a causa de pedir nesta Medida Cautelar"(e-STJ fl. 200).
+Requer, ao final, "que conheça e dê provimento aos Embargos de Declaração, no sentido de, aperfeiçoando o julgado, conceder-lhe a LIBERDADE PROVISÓRIA, com as medidas restritivas de direito"(e-STJ fl. 200).
+É o relatório.
+Decido.
+Os embargos de declaração, no processo penal, destinam-se a sanar possível ambiguidade, obscuridade, contradição ou omissão no acórdão ou decisão, inexistentes no caso.
+De fato, conforme assentado na decisão embargada, o pleito de revogação da prisão preventiva é mera reiteração do pedido feito no HC n. 771.494/RJ, também de minha relatoria, no qual já proferi decisão indeferindo a liminar, em 16/9/2022, estando o feito aguardando parecer ministerial.
+Ressalto, no ponto, que a prisão decorrente da pronúncia é justamente o objeto dowrit referenciado, que se voltou contra o acórdão proferido no julgamento do Recurso em Sentido Estrito n. 0004471-98.2021.8.19.0202, mesmo julgado ao qual se refere esta petição.
+Vale lembrar que o cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, quais sejam, ambiguidade, obscuridade, contradição ou omissão, o que não se verifica no caso dos autos.
+Percebe-se, isso sim, que há uma insatisfação da parte quanto ao resultado do julgamento e a pretensão de modificá-lo por meio de instrumento processual nitidamente inábil à finalidade almejada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
