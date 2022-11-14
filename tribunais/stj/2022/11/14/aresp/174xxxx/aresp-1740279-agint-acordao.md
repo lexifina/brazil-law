@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto por AMERICO DE MEDEIROS BRANDAO, contra decisão monocrática de relatoria do Min. OgFernandes que não conheceu do agravo em recurso especial em razão da ausência de violação do art. 1.022 do CPC e incidência das Súmulas n. 282 e 356 do STF e 7 do STJ.
+Extrai-se dos autos que o recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alínea"a", da Constituição Federal contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim ementado (fl. 873):
+AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. IMPUGNAÇÃO À FASE DE CUMPRIMENTO DA SENTENÇA. EXCESSO DE EXECUÇÃO RECONHECIDO.
+Não há previsão no art. 535, § 2º, do Código de Processo Civil, no sentido de que a parte impugnante deva apresentar, juntamente com a petição inicial, cálculo discriminado dos valores que entenda devidos, mas, tão somente, determinação que decline, de imediato, o valor que entenda correto. Na hipótese contida nos autos, o Estado declinou, com clareza, que considerava nada dever ao exequente, pelo que cumprida a disposição contida no art. 535, § 2º, do Diploma Processual Civil. No mais, a insurgência merece ser rechaçada, pois os valores já restituídos via ajuste na declaração do imposto de renda no período devem ser abatidos do crédito final, que tem como causa, justamente, o ressarcimento pela retenção inadequada em função da isenção. Por tudo isso, sob pena de ser operado o duplo ressarcimento, impõe-se a manutenção da decisão hostilizada. Aplicação de honorários advocatícios recursais.
+NEGARAM PROVIMENTO AO AGRAVO DE INSTRUMENTO. UNÂNIME.
+Rejeitados os embargos de declaração opostos (fls. 912-923).
+Alega a agravante, preliminarmente, violação do art. 1.022 do CPC.
+Aduz, ainda, que o art. 884 do CC foi devidamente prequestionado, porquanto, "o acórdão recorrido, ao acolher a tese de excesso de execução, declarou que seria indevido ignorar os valores supostamente restituídos, aplicando com isso (mesmo que contrariamente ao interesse da Sucessão) o art. 884 do CC/2002" (fl. 1225). Requer a não incidência das Súmulas n. 282 e 356 do STF.
+Sustenta, outrossim, que "a manifestação contida no acórdão, no sentido de que o Estado declarara "nada dever ao exequente" não precisará ser revisada. Afinal, é esta conclusão do acórdão que está em desconformidade com a Lei, especificamente com o art. 535, §2º do NCPC. Assim, o acolhimento do recurso especial dependerá apenas da aferição daquilo que está consignado como incontroverso no acórdão recorrido e da interpretação da Lei aplicável (NCPC, art. 535, §2º), o que afasta a incidência da Súmula n. 7 do STJ" (fl. 1227).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+A agravada, instada a manifestar-se, apresentou contrarrazões (fl. 1233-1238).
+É, no essencial, o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC. OMISSÃO NÃO CONFIGURADA. ART. 884 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 211 DO STJ E 282 DO STF.IMPUGNAÇÃO À FASE DE CUMPRIMENTO DA SENTENÇA. EXCESSO DE EXECUÇÃO. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ.
+1.O acórdão recorrido abordou, de forma fundamentada, todos os pontos essenciais para o deslinde da controvérsia, razão pela qual não há falar na suscitada ocorrência de violação do art.1.022do CPC.
+2. Ausente o prequestionamento doartigoalegadocomo violado, não é possível o conhecimento do recurso especial. Incidência das Súmulas n. 211/STJ e282/STF.
+3. A pretensão de revisão do entendimento proferido pelo Tribunal de origem acerca do excesso de execução requer o reexame de matéria fática, o que é vedado a esta Corte, em recurso especial, por esbarrar noóbicedaSúmula n. 7/STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A irresignação não merece prosperar.
+Inicialmente, não há que falar em violação do art. 1.022, do CPC porquanto depreende-se do acórdão recorrido que o Tribunal de origem, de modo fundamentado, tratou da questão suscitada, resolvendo, portanto, de modo integral a controvérsia posta. É o que se extrai dos seguintes trechos (fls.916):
+Não se há falar, dessa forma, em vícios no acórdão, visto que o acerto dos cálculos da parte impugnada foi rechaçado quando determinado que os valores já restituídos via ajuste na declaração do imposto de renda devem ser abatidos do crédito final, assim como o apontamento do valor incontroverso na petição inicial da impugnação foi suprido quando o Estado declinou, com clareza, que considerava nada dever ao exequente.
+Nesse ínterim, tendo em conta o argumento do ente público, inexiste a alegada inobservância de julgados deste órgão fracionário e do julgamento do Recurso Especial Repetitivo n. 1.387.248, oportunidade na qual o Tribunal da Cidadania firmou a tese de que: "Na hipótese do art. 475-L, § 2º, do CPC, é indispensável apontar, na petição de impugnação ao cumprimento de sentença, a parcela incontroversa do débito, bem como as incorreções encontradas nos cálculos do credor, sob pena de rejeição liminar da petição, não se admitindo emenda à inicial".
+Por consequência, ausente qualquer vício, resta evidente apenas a inconformidade da parte embargante com o resultado do julgamento, buscando por via transversa sua alteração.
+Ademais, nos termos da jurisprudência do STJ, "não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional" (AgIntnoAREspn. 1.907.401/SP, relatora MinistraAssuseteMagalhães, Segunda Turma, julgado em 22/8/2022,DJede 29/8/2022.)
+Maior sorte não assiste à recorrente quanto a alegada violação do art. 884 do Código Civil.
+Nos termos da jurisprudência pacífica do STJ, é inviável o conhecimento do recurso especial quando os artigos tidos por violados não foram apreciados pelo Tribunal de origem.
+A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. PENHORA. SISTEMA BACENJUD. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. VIOLAÇÃO DO ART. 1.022 NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ.  ..
+III - Esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF. IV - Conforme entendimento desta Corte, não há incompatibilidade entre a inexistência de ofensa ao art. 1.022 do CPC/2015 e a ausência de prequestionamento, com a incidência do enunciado n. 211 da Súmula do STJ quanto às teses invocadas pela parte recorrente, que, entretanto, não são debatidas pelo tribunal local, por entender suficientes para a solução da controvérsia outros argumentos utilizados pelo colegiado. Nesse sentido: AgInt no AREsp 1.234.093/RJ, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/4/2018, DJe 3/5/2018; AgInt no AREsp 1.173.531/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 20/3/2018, DJe 26/3/2018.
+ ..
+VI - Agravo interno improvido.
+(AgInt no AREsp n. 1.968.794/RS, relator Ministro Francisco Falcão, Segunda Turma, julgado em 12/9/2022, DJe de 14/9/2022.)
+Conforme demonstrado na decisão agravada, o artigo 884 do CCapontadocomo violadoe a tese a elevinculada (enriquecimentoilícito) não foi prequestionado, incidindo o óbice das Súmulas n. 211 do STJ e 282 do STF.
+Em relação à ausência de memória de cálculo, a jurisprudência do Superior Tribunal de Justiça é no sentido de que é dever legal do executado apresentar memória discriminada de cálculos dos valores que entende corretos na apresentação da impugnação(AgInt no AREsp n. 906.895/AL, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/3/2022, DJe de 23/3/2022.).
+No caso, o acórdão consignou que o ente público afirmou que não devianada ao exequente (fls.). Nesse contexto, o acolhimento da pretensão recursal, a fim de modificar o entendimento firmado no acórdão recorrido, somente poderia ser realizado mediante reexame de matéria fático-probatória, sendo inviável na via eleita, ante o óbice da Súmula n. 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
