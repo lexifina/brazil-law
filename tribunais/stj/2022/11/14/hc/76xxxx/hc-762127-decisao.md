@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MATHEUS COSTA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2149683-14.2022.8.26.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese, do crime previsto no art. 157, § 2º, inciso II, do Código Penal (roubo majorado).
+Narram os autos que "os denunciados - que são irmãos - e mais três comparsas não identificados, após confabularem a prática delitiva, deslocaram-se até a residência da vítima em um Ford Fiesta, de cor prata e de placas FJJ0F89. Enquanto um comparsa aguardava na condução do referido veículo, os denunciados e mais dois agentes desembarcaram, ocasião em que conseguiram arrombar o portão que dava acesso ao imóvel mediante o uso de uma chave de fenda de tamanho grande. Após, os denunciados e mais um agente efetivamente entraram na casa. A vítima, que se encontrava assistindo televisão no quarto, após escutar alguns barulhos suspeitos, abriu a porta do referido aposento, sendo então surpreendida pelos denunciados e pelo terceiro agente, ocasião em que anunciaram o roubo, tendo os agentes bradado "perdeu, onde está o dinheiro, o cofre, as joias, vamos só pegar isso e vamos embora!" A vítima, temerosa em razão da diferença numérica em favor dos roubadores e ainda mais porque eles faziam menção de estarem armados, em que pese não tivesse reagido, disse apenas que não havia nada no imóvel. Os denunciados e o comparsa passaram a revirar os cômodos da casa a procura de bens que lhes interessassem, tendo subtraído duas joias, dois pares de óculos e um relógio. Ocorre que um vizinho fotografou os agentes entrando no imóvel e acionou a Polícia Militar. O comparsa que se encontrava no Fiesta passou a buzinar, fazendo com que os agentes deixassem o imóvel na posse da citada referida res furtiva. A autoria delitiva somente foi esclarecida, ao menos em face dos denunciados, em razão do trabalho investigativo da Polícia Civil que através das câmeras de segurança e das imagens do referido vizinho apresentadas pela vítima identificaram ao menos os dois denunciados, conforme se depreende do Relatório Preliminar de Investigação de fls. 8/27" (e-STJ fl. 44).
+O Tribunal de origem denegou a ordem (e-STJ fls. 48/56).
+Daí o presente writ, no qual alega a defesa que o decreto de prisão preventiva carece de fundamentação idônea.
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Aduz a presença de condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura.
+Subsidiariamente, pleiteia a substituição da prisão preventiva por medida cautelar diversa.
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório.
+Decido.
+Consoante informações obtidas no sítio eletrônico do Tribunal de origem e conforme consta do parecer ministerial, em 18/10/2022foi proferida sentença condenatória pelo Juízo de piso, aplicando ao ora paciente a pena de 6anos, 2meses e 20dias de reclusão, além de multa, em regime inicial fechado, pela prática dos crimes descritos na denúncia.
+Fica, portanto, sem objeto o pedido contido na inicial, em que a defesa insurgia-se contra a custódia cautelar, visto que a restrição da liberdade, agora, decorre de novo título, não submetido ao pronunciamento do Tribunal de origem.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
