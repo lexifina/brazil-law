@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo manejado pelo INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA INMETRO contra decisão que inadmitiu recurso especial, interposto com apoio no permissivo constitucional, o qual desafiaacórdão proferido pelo TRF3, assim ementado (e-STJ fl. 102):
+DIREITO CONSTITUCIONAL - LIVRE INICIATIVA - NORMA E INTERPRETAÇÃO: QUESTÃO CONSTITUCIONAL - SUPREMO TRIBUNAL FEDERAL: RE 562276, PLENÁRIO, SOB O REGIME DE REPERCUSSÃO GERAL - EXECUÇÃO FISCAL CONTRA SOCIEDADE EMPRESÁRIA - REGISTRO DO DISTRATO SOCIAL, NA JUNTA COMERCIAL - RESPONSABILIZAÇÃO PATRIMONIAL DE SÓCIO E ADMINISTRADOR: IMPOSSIBILIDADE.
+1. No RE 562276, sob o regime da repercussão geral, o Plenário do Supremo Tribunal Federal decidiu que a norma jurídica - ou a sua interpretação -, sem causa legítima, não pode criar nova espécie de responsabilização patrimonial de terceiro, por débito da pessoa jurídica.
+2. Dissolução, liquidação e extinção da empresa são institutos distintos.
+3. A dissolução é causa de modificação da exploração da atividade empresarial. Até a sua ocorrência, a empresa tem, como função, o lucro.Depois, "negócios inadiáveis, vedadas novas operações" (artigo 1.036, "caput", do Código Civil).
+4. A liquidação é o encontro de contas entre o ativo e o passivo e a atribuição, a cada qual - inclusive aos sócios, se positivo o saldo -, segundo o título jurídico, da parte cabível.
+5. Ocorrida a dissolução, com o registro do distrato social, na Junta Comercial, a credora, com privilégio no concurso de créditos, legitimidade para a execução judicial forçada e foro privativo, tem o direito de expropriação do patrimônio da empresa, seja realizada, ou não, a liquidação societária.
+6. Afronta a decisão plenária do Supremo tribunal Federal a pretensão à criação de novo modo de responsabilidade tributária, com a expropriação, pela credora, do patrimônio de sócio ou administrador, porque a sociedade empresária praticou o ato lícito da dissolução.
+7. Apelação improvida.
+No especial obstaculizado, aora agravante apontou violação dos arts. 50, 1.080 e 1.103 do Código Civil/2002; 10 do Decreto n. 3.708/1919; Súmula 435 do STJ; 4º, V e § 2º, da Lei de Execuções Fiscais; 124, II, 134 e 135, III, do Código Tributário Nacional; 779, V, do Código de Processo Civil/2015.
+Alegou, em síntese, que a dissolução irregular da pessoa jurídica enseja o redirecionamento da execução fiscal na pessoa dos sócios gerentes.
+Sem contrarrazões, oapelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, o que foi infirmado pelooraagravante.
+Sem contraminuta.
+Passo a decidir.
+A insurgência não merece prosperar.
+Nota-se que a instância ordinária negou o redirecionamento da execução fiscal requerido combase nos arts. 1º, 5º, XIII, e 170, parágrafo único, da Constituição Federal/1988,bem como na interpretação da tese definida pelo Supremo Tribunal Federal em repercussão geral noRE 562276/PR (Tema 13).
+Com efeito, a Corte de origem amparou-se em fundamentos constitucional einfraconstitucionais, suficientes e autônomos à preservação do acórdão recorrido. Entretanto, o ora recorrente não cuidou de interpor o devido recurso extraordinário, atraindo, assim, a incidência da Súmula 126 do STJ.
+Nessa linha de raciocínio:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. DEFESA DO CONSUMIDOR. EDITAL DE COMPRA DIRETA DE IMÓVEIS OFERTADOS PELA CAIXA ECONÔMICA FEDERAL.
+LEGITIMIDADE DO PARQUET FEDERAL. ADEQUAÇÃO DA VIA ELEITA. TEMAS DIRIMIDOS PELA CORTE DE ORIGEM COM BASE EM FUNDAMENTOS CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DA INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ALEGAÇÃO DE VENDA CASADA.APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. ACÓRDÃO RECORRIDO ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS. REVISÃO. IMPOSSIBILIDADE.
+SÚMULA 7/STJ.
+1. O Tribunal de origem, ao decidir as questões relativas ao cabimento da ação civil pública e à legitimidade do Ministério Público Federal para a propositura da demanda, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles aptos a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ.
+2. A Corte de origem, com arrimo nas cláusulas editalícias e no acervo probatório dos autos, decidiu sobre a aplicabilidade do CDC na espécie, de modo que a revisão desse entendimento, tal como colocada a questão nas razões recursais, demandaria, necessariamente, a interpretação de cláusulas contratuais, bem como o reexame da matéria fática, providência vedada em recurso especial, conforme o óbice previsto nas Súmulas 5/STJ e 7/STJ.
+3. Quanto à alegada inexistência de conduta abusiva, consistente na venda casada de serviços de corretagem, o recurso especial da Caixa Econômica Federal também esbarra nos óbices das Súmulas 5/STJ e 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1.501.860/SE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 11/02/2021).
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CÓDIGO FUX NÃO CARACTERIZADA.IPTU. ARRENDATÁRIA DA CODESP. INCIDÊNCIA. ACÓRDÃO A QUO PROFERIDO COM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INVIABILIDADE DE ANÁLISE NO ÂMBITO DO RECURSO ESPECIAL. AGRAVO INTERNO DA EMPRESA DESPROVIDO.
+1. Não ocorre violação do art. 1.022 do Código Fux, quando o Tribunal de origem resolve, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos. Não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. O Tribunal de origem, ao julgar pela incidência de IPTU em desfavor da Contribuinte, arrendatária privada da CODESP, o fez com esteio em fundamento constitucional, notadamente na interpretação do entendimento firmado pela Suprema Corte, sob o regime da Repercussão Geral, no RE 594.015/SP (Tema 385) e no RE 601.720/RJ (Tema 437).Tal circunstância impede o exame da questão por este STJ no âmbito do Recurso Especial, sob pena de usurpação da competência do Supremo Tribunal Federal.
+3. Agravo Interno da Empresa desprovido.
+(AgInt no AREsp 1.686.910/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 31/08/2020, DJe 08/09/2020).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
