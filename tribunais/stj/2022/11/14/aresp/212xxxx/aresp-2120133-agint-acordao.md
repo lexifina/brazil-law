@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: Trata-se de agravo interno (e-STJ fls. 649/655) interposto contra decisão da Presidência desta Corte que conheceu do agravo para não conhecer do recurso especial.
+Em suas razões, o agravante afirma ter comprovado o dissídio jurisprudencial nos moldes exigidos, pois, "ao trazer aos autos as divergências entre os julgados de outros tribunais estaduais e a decisão recorrida, o recorrente, ora agravante, também demonstrou a similaridade entre tais julgados, selecionados para a análise das divergências justamente pela sua similitude com a decisão recorrida" (e-STJ fl. 654).
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada não apresentou contrarrazões (e-STJ fl.659).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. DANOS MORAIS. VALOR DA INDENIZAÇÃO. DISSÍDIO JURISPRUDENCIAL. COMPROVAÇÃO. AUSÊNCIA. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação divergente e demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Somente em hipóteses excepcionais, quando irrisória ou exorbitante a indenização por danos morais arbitrada na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pela Justiça local não se mostra despropositado, a justificar sua reavaliação em recurso especial.
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA: A insurgência não merece ser acolhida.
+O agravante não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 644/646):
+Cuida-se de agravo apresentado por ALUYSIUS BACK contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. AÇÃO DE INDENIZAÇÃO POR E DANOS MATERIAIS, MORAL E PENSÃO MENSAL. SENTENÇA DE PARCIAL PROCEDÊNCIA. RESPONSABILIDADE SOLIDÁRIA DOS TRÊS RÉUS PELO SINISTRO. RECURSO DE UM DELES.
+APELANTE QUE, AO DESVIAR DO CAMINHÃO CONDUZIDO PELO SEGUNDO RÉU, QUE CRUZAVA A VIA PARA INGRESSAR EM ESTABELECIMENTO, INVADE A MÃO DE DIREÇÃO CONTRÁRIA, COLIDINDO FRONTALMENTE COM A MOTOCICLETA CONDUZIDA PELA VÍTIMA, CAUSANDO SUA MORTE. MANOBRA IMPRUDENTE DO SEGUNDO RÉU QUE NÃO AFASTA A CULPA DO APELANTE, CAUSADOR IMEDIATO DO DANO. DEVER DE INDENIZAR MANTIDO.
+DANO MORAL. REDUÇÃO. INVIABILIDADE. MORTE. QUANTUM INDENIZATÓRIO FIXADO DE ACORDO COM OS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE, OBSERVADOS, AINDA, OS PARÂMETROS DESTA CORTE DE JUSTIÇA.
+PENSÃO MENSAL. NÚCLEO FAMILIAR COMPOSTO APENAS POR MÃE E FILHA, QUE RESIDIAM JUNTAS. VITIMA QUE EXERCIA ATIVIDADE LABORATIVA REMUNERADA. QUESTÃO DEVIDAMENTE COMPROVADA. PRESUNÇÃO DE AUXÍLIO NAS DESPESAS DOMÉSTICAS. FIXAÇÃO DE 2/3 DOIS TERÇOS) DO SALÁRIO PERCEBIDO ATÉ QUE A VÍTIMA COMPLETASSE 25 ANOS. PERCENTUAL REDUZIDO PARA 1/3 (UM TERÇO) ATÉ SEUS 65 ANOS OU ATÉ O FALECIMENTO DA GENITORA, O QUE OCORRER PRIMEIRO.
+RECURSO CONHECIDO E DESPROVIDO. FIXAÇÃO DE HONORÁRIOS SUCUMBENCIAIS RECURSAIS.
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, alega divergência interpretativa dos arts. 186 e 927 do CC, no que concerne à possibilidade de diminuição do valor arbitrado a título de dano morais por ser excessivo considerando as condições econômicas da parte recorrente, trazendo os seguintes argumentos:
+A irresignação do recorrente parte do quantum da indenização a título de danos morais, sendo que, no julgamento proferido pelo Tribunal Catarinense, manteve-se a referida condenação nos mesmos moldes estabelecidos na origem.
+Todavia, escancara-se aqui a impossibilidade de o órgão jurisdicional dosar montante verdadeiramente impossível de ser quitado pela parte vencida.
+Diz-se dosar porque o recorrente não questiona a respeito da reparação moral, já que será fixada em valor concreto e verdadeiramente correspondente, em mercado, ao prejuízo suportado pela vítima.
+O que se analisa é a dosagem da indenização por danos morais que, sendo um dever volátil, não resta dúvida a respeito do entendimento jurisprudencial e doutrinário estabelecido há décadas, onde vários elementos são combinados em tentativa de regular a obrigação vislumbrada pelo legislador.
+ ..
+Em outras palavras, proferir sentença ou acórdão sem analisar as condições econômicas do recorrente, por mais que respeite a legislação infraconstitucional, ameaça a eficácia da prestação jurisdicional, violando preceitos básicos do Código de Processo Civil, bem conhecidos pelo STJ.
+Mais que isso, o decisum que fixa indenização em patamares excessivos, além de impossibilitar completamente o pagamento, não reparando as lesões morais suportadas pela genitora da vitima, arruinará a vida daquele que, culposa e concorrentemente, incidiu em acidente de trânsito em uma das perigosas estradas do pais. (fls. 509-511).
+É, no essencial, o relatório. Decido.
+No que à controvérsia, na espécie, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico, que exige, além da transcrição de trechos dos julgados confrontados, a demonstração das circunstâncias identificadoras da divergência, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e o paradigma indicado, não bastando, portanto, a mera transcrição de ementas ou votos.
+Com efeito, o Superior Tribunal de Justiça já decidiu: "Esta Corte já pacificou o entendimento de que a simples transcrição de ementas e de trechos de julgados não é suficiente para caracterizar o cotejo analítico, uma vez que requer a demonstração das circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma, mesmo no caso de dissídio notório". (AgInt no AREsp n. 1.242.167/MA, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 05/04/2019.)
+Ainda nesse sentido: "A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais impede o conhecimento do Recurso Especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal". (AgInt no REsp n. 1.903.321/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 16/03/2021.)
+Confiram-se também os seguintes precedentes: AgInt nos EDcl no REsp n. 1.849.315/SP, relator Ministro Marcos Aurélio Bellizze, Terceira Turma, DJe de 1º/8/2020; AgInt nos EDcl nos EDcl no REsp n. 1.617.771/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 13/8/2020; AgRg no AREsp n. 1.422.348/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.456.746/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/6/2020; AgInt no AREsp n. 1.568.037/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/05/2020; AgInt no REsp n. 1.886.363/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 28/04/2021; AgRg no REsp n. 1.857.069/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 05/05/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+Conforme assinalado, não houve comprovação do dissídio jurisprudencial, pois a parte limitou-se a transcrever trechos dos julgados, sem fazer o cotejo analítico, de forma a demonstrar similitude fática entre os casos confrontados.
+Ademais, cabe anotar que o acórdão recorrido, considerando as circunstâncias do caso concreto, manteve a condenação dos réus ao pagamento da indenização por danos morais fixada em R$ 50.000,00 (cinquenta mil reais), com base nos seguintes fundamentos (e-STJ fls. 495/496):
+Na hipótese dos autos, o abalo sofrido pela autora, aqui apelada, é presumido, não dependendo de qualquer espécie de comprovação. De todo modo, salienta-se que, em razão do acidente, o dano moral por ela suportado em decorrência da morte da filha, no auge da juventude, assim como sua extensão e gravidade, são inquestionáveis.
+(..)
+Contudo, "inexiste fórmula química ou jurídica capaz de definir o quantum devido a titulo de danos não patrimoniais, à medida que não são tarifáveis ou mensuráveis; busca-se apenas por meio da condenação em pecúnia a minimização da dor, da mácula, do sofrimento daqueles que perderam a companhia de um ente familiar querido" (Apelação Cível n. 0021477-03.2009.8.24.0008, de Blumenau, rel. Des. Joel Figueira Júnior, Quarta Câmara de Direito Civil, j. 10-5-2018).
+No caso em apreço, o sofrimento enfrentado pela autora, repise-se, é imensurável.
+Quanto à condição pessoal dos litigantes, todos são beneficiários da gratuidade da justiça e não houve ingresso de seguradora na lide.
+A culpa do apelante é grave, na medida em que invadiu a contramão de direção, causando o óbito da vitima.
+Diante desse cenário e levando-se em conta os precedentes desta Corte, dessome-se que a indenização por dano moral fixada em R$ 50.000,00 (cinquenta mil reais) mostra-se razoável e atende o caráter inibidor e pedagógico ao infrator e, de igual forma, compensatório à vitima.
+Frisa-se que o referido valor é de responsabilidade solidária dos três réus, o que não pode deixar de ser sopesado.
+Assim, mantém-se o quantum fixado pelo sentenciante.
+A modificação do valor da indenização por danos morais é admitida em recurso especial, conforme entendimento pacífico do STJ, apenas quando excessivo ou irrisório o montante fixado, violando os princípios da proporcionalidade e da razoabilidade (AgRg no AREsp n. 703.970/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2016, DJe 25/8/2016, e AgInt no AREsp n. 827.337/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 18/8/2016, DJe 23/8/2016).
+Como visto, a Corte local, diante das circunstâncias analisadas, fixou a indenização dos danos morais, de responsabilidade solidária dos três réus, no valor de R$ 50.000,00 (cinquenta mil reais). Para alterar esse montante e modificar os fundamentos do acórdão recorrido, seria imprescindível o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor da Súmula n. 7 do STJ.
+A propósito:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC/73. PROPRIETÁRIO DO VEÍCULO. RESPONSABILIDADE SOLIDÁRIA. SÚMULA 83/STJ. CONTRATO DE SEGURO. DANOS MORAIS. CLÁUSULA DE EXCLUSÃO EXPRESSA. SÚMULAS 5 E 7/STJ. MONTANTE DA INDENIZAÇÃO. VALOR RAZOÁVEL. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Somente é admissível o exame do valor fixado a título de danos morais quando for verificada a exorbitância ou a natureza irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+4. No caso, não se mostra excessivo, a justificar sua reavaliação em recurso especial, o montante estabelecido pelo Tribunal de origem em R$ 83.000,00 (oitenta e três mil reais), visto que não é exorbitante nem desproporcional aos danos sofridos pelos recorridos - falecimento do filho em acidente automobilístico no qual o condutor do veículo causador do sinistro agiu com negligência e imprudência.
+(..)
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.172.189/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 28/3/2022, DJe de 3/5/2022.)
+A quantia estabelecida pelas instâncias de origem não enseja, portanto, a intervenção do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
