@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conheceu do recurso especial fundado no art. 105, III,a, da Constituição Federal, que visa reformar acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, com o seguinte resumo de ementa:
+REMESSA NECESSÁSRIA E APELAÇÃO CÍVEL - ADMINISTRATIVO - SERVIDOR PÚBLICO MUNICIPAL OCUPANTE DO CARGO EFETIVO DE PROFESSOR NO EXERCÍCIO DA FUNÇÃO GRATIFICADA DE DIRETOR DE ESCOLA - AUMENTO DE CARGA HORÁRIA SEMANAL- PRETENSÃO DE AUMENTO PROPORCIONAL DE VENCIMENTO - AUSÊNCIA DE PREVISÃO LEGAL - IRREDUTIBILIDADE DE VENCIMENTOS - NÃO OCORRÊNCIA - RECURSO PROVIDO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Outrossim, embora a questão debatida tenha como referência a legislação local, a análise do direito local não é necessário para determinar a fundamentação adequada ou para avaliar o descompasso entre a jornada de trabalho semanal da Agravante e o seu vencimento base, pois todos os elementos estão presentes no corpo dos acórdãos.
+E entre as questões não avaliadas pelo acórdão -que poderia infirmar a conclusão do julgado -está a omissão do motivo da negativa de pagamento do vencimento base proporcional à majoração da jornada de trabalho durante certo tempo(fev/06 a jan/10)haja vista que a partir de 15/01/2010 a Administração Pública espontaneamente corrigiu o decréscimo remuneratório da agravante simultaneamente ao pagamento da gratificação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. DIFERENÇAS SALARIAIS. VENCIMENTO PROPORCIONAL. DIREITO LOCAL. ANÁLISE INVIÁVEL. DESPROVIMENTO DO AGRAVO INTERNO.MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando o recebimento dasdiferençassalariais entre as quantias recebidas pela requerentee o valor do vencimento proporcional à carga horária de 40 (quarenta) horas. Na sentença o pedido foi julgado procedente. No Tribunala quo, a sentença foi reformada.
+II - O acórdão, objeto do recurso especial, fundamentou-se nos seguintes elementos: "A norma do art. 7º, caput, da Lei Municipal nº 6.752/2006 ("O funcionário será remunerado de acordo com as Tabelas de Vencimentos base constantes do Anexo III, conforme o seu enquadramento, sua jornada e a Evolução Funcional, observado o disposto no artigo seguinte  teto máximo previsto no art. 37, XI, da Constituição Federal ."), não autoriza outra conclusão."
+III - Verifica-se, assim, que a questão controvertida nos autos foi solucionadapelo Tribunal de origem, com fundamento em leis locais. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário." Nesse sentido: AgInt no AREsp n. 1.304.409/DF, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020; AgInt no REsp n. 1.184.981/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2020, DJe 30/6/2020; EDcl no AgInt no AREsp n. 1.506.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/8/2020, DJe 9/9/2020.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+O acórdão, objeto do recurso especial, fundamentou-se nos seguintes elementos:
+A norma do art. 7º, caput, da Lei Municipal nº 6.752/2006 ("O funcionário será remunerado de acordo com as Tabelas de Vencimentos base constantes do Anexo III, conforme o seu enquadramento, sua jornada e a Evolução Funcional, observado o disposto no artigo seguinte  teto máximo previsto no art. 37, XI, da Constituição Federal ."), não autoriza outra conclusão.
+Verifica-se assim, que a questão controvertida nos autos foi solucionada pelo Tribunal de origem, com fundamento em leis locais. Logo, torna-se inviável, em recurso especial, o exame da matéria nele inserida, diante da incidência, por analogia, do enunciado n. 280 da Súmula do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário."Nesse sentido: AgInt no AREsp n. 1.304.409/DF, relatorMinistro Mauro Campbell Marques, Segunda Turma, julgado em 31/8/2020, DJe 4/9/2020; AgInt no REsp n. 1.184.981/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/6/2020, DJe 30/6/2020; EDcl no AgInt no AREsp n. 1.506.044/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 24/8/2020, DJe 9/9/2020.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
