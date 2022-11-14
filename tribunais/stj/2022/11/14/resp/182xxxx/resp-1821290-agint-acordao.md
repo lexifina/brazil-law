@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que deuprovimento ao recurso especial para anular o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+APELAÇÃO. AÇÃO ORDINÁRIA DE RECONHECIMENTO DO DIREITO A CRÉDITO TRIBUTÁRIO C/C. COMPENSAÇÃO TRIBUTÁRIA. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA PROGRESSIVA. APELO DESPROVIDO. INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO PELA EMPRESA CONTRIBUINTE. JUÍZO DE RETRATAÇÃO. ART. 1.030, INC. II, DO NCPC. o EXAME DE DIVERGÊNCIA ACERCA DO o POSICIONAMENTO ASSENTADO PELO STF, QUANDO DO JULGAMENTO DE RECURSO EXTRAORDINÁRIO. TEMA Nº 201. RECONHECIMENTO DO DIREITO À ESCRITURAÇÃO . e DOS VALORES DO IMPOSTO RECOLHIDOS A MAIOR, EM DECORRÊNCIA DO REGIME DE SUBSTITUIÇÃO o TRIBUTÁRIA PARA FRENTE. 66_ "É devida a restituição da diferença do Imposto sobre ct Circulação de Mercadorias e Serviços - ICMS pago a mais no regime de substituição tributária para frente se a base de cálculo efetiva da operação for inferior à presumida" (STF, o o RE nº 593.849/MG, Rel. Min. Edson Fachin, j. 19/10/2016, p. 05/04/2017). u_ HONORÁRIOS ADVOCATÍCIOS. SENTENÇA ILÍQUIDA. POSTERGAÇÃO DA FIXAÇÃO DA PORCENTAGEM DEVIDA PARA A FASE DE LIQUIDAÇÃO. ART. 85, §§ 3º E 4º, INC. II, DO NCPC. JUÍZO DE RETRATAÇÃO POSITIVO.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Entretanto, com as devidas vênias, não há omissão no acórdão recorrido quanto à matéria referente ao prazo prescricional, visto que a Corte estadual expressamente definiu o prazo aplicável ao caso, como se depreende do seguinte trecho da decisão: "reformo o aresto verberado, reconhecendo em favor de Distribuidora Auto este Ltda. o direito de escriturar e aproveitar, mediante compensação (direito válido a partir da estagnação do feito -art. 170-A do CTN), os valores de ICMS pagos a maior em decorrência da substituição tributária progressiva, com correção monetária pelo INPC até o trânsito em julgado da decisão, a partir de quando incidirá exclusivamente a Taxa SELIC, respeitado o prazo prescricional de 5 (cinco) anos"(e-STJ fl. 374, grifo nosso).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO TRIBUTÁRIO. IMPOSTOS. ICMS. IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. VIOLAÇÃO DO ART. 1.022, II, CPC/2015.
+I - Na origem, trata-se de ação ordinária de reconhecimento direito e crédito tributário cumulada com a compensação tributária da mesma espécie contra o Estado de Santa Catarina e da Fazenda Pública Estadualobjetivando creditaçãodo valor da diferença do ICMS pago a maior em decorrência venda de mercadorias tributadas via substituição, desde que o preço de venda foi inferior ao presumido. Na sentença o pedido foi julgado improcedente. No Tribunala quo, a sentença foi modificada, julgando procedente a petição inicial.
+II - Assiste razão ao recorrente, no que toca à alegada violação do art. 1.022, II, do CPC/2015.
+III - De fato, o recorrente apresentou questão jurídica relevante, qual seja, a aplicação da tese dos 5  5 para a implementação da prescrição, tendo em vista a alegada inaplicabilidade da LC n. 118/2005. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+IV - Nesse contexto, diante da referida omissão, apresenta-se violado o referido dispositivo legal, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Assiste razão ao recorrente, no que toca à alegada violação do art. art. 1.022, II, do CPC/2015.
+De fato, o recorrente apresentou questão jurídica relevante, qual seja, a aplicação da tese dos 5  5 para a implementação da prescrição, tendo em vista a alegada inaplicabilidade da LC n. 118/2005. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o referido dispositivo legal, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
