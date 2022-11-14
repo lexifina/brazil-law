@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao recurso especial fundado no art. 105, III,aec, da Constituição Federal, que visa reformar acórdão proferido pelo Tribunal RegionalFederal da 1ª Região, com o seguinte resumo de ementa:
+ADMINISTRATIVO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. INCORPORAÇÃO DE QUINTOS. ILEGITIMIDADE DA PARTE EXEQUENTE. INEXIGIBILIDADEDA OBRIGAÇÃO. INAPLICABILIDADE. TRÂNSITO EM JULGADO ANTERIOR. CORREÇÃOMONETÁRIA. TERMO INICIAL DOS JUROS DE MORA. JUROS DE MORA SOBRE O TOTALDA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+A primeira vista, poderia se considerar que, em razão do acórdão recorrido ter invocado o artigo 8º, inciso III, da CRFB/88, também seria necessária a interposição de recurso extraordinário, contudo, o recurso da União não questiona o fato de que o sindicato atua como substituto processual de seus filiados. Na verdade, a questão debatida refere-se ao fato de que o título executivo expressamente limitou os beneficiários aos listados na inicial da ação de conhecimento.
+Trata-se, portanto, de violação a coisa julgada. Em que pese o instituto tenha assento constitucional, o acórdão apenas ofendeu reflexamente a Carta Magna, tornando incabível o manejo de recurso extraordinário.
+ ..
+Assim, reconhecer a legitimidade aos servidores que não estiveram presentes naquele momento processual seria estender os efeitos da coisa julgada à parte manifestamente ilegítima à promoção da execução do julgado.
+Decidir de forma diversa fere o alcance da coisa julgada, e, consequentemente, o artigo 5º, XXXVI, da Constituição Federal.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. EMBARGOS À EXECUÇÃO. EXCESSO NA EXECUÇÃO. FUNDAMENTO CONSTITUCIONAL NÃO IMPUGNADO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de embargos à execução objetivando que seja reconhecido excesso na execução. Na sentença o pedido foi julgado parcialmente procedente. No Tribunala quo, a sentença foi mantida.
+II - Verifica-se que o Tribunal a quo, ao analisar a questão, o fez com fundamento em matéria constitucional e infraconstitucional, não tendo a recorrente interposto recurso extraordinário, razão pela qual se tem inviabilizado o apelo nobre pela incidência do enunciado n. 126 da Súmula do STJ, que dispõe: "É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles sufi ciente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário." Nesse sentido:AgInt no REsp n. 1.636.295/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/4/2017, DJe 4/5/2017.
+III - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Verifica-se que o Tribunal a quo, ao analisar a questão, o fez com fundamento em matéria constitucional e infraconstitucional, não tendo a recorrente interposto recurso extraordinário, razão pela qual se tem inviabilizado o apelo nobre pela incidência do enunciado n. 126 da Súmula do STJ, que dispõe:"É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles sufi ciente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário." Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. FUNDAÇÃO PÚBLICA. DISPENSA DO CEBAS PARA FRUIÇÃO DA IMUNIDADE PREVISTA NO ART. 195, § 7º, DA CONSTITUIÇÃO FEDERAL. FUNDAMENTO CONSTITUCIONAL NÃO IMPUGNADO. INCIDÊNCIA DA SÚMULA Nº 126 DO STJ.
+1. O acórdão recorrido reconheceu que a fundação pública autora, na qualidade de entidade filantrópica declarada como de utilidade pública pelo Município de Brusque/SC e pelo Estado de Santa Catarina, preenche todos os requisitos previstos no art. 55 da Lei nº 8.212/1991 para fins de gozo do benefício de imunidade de contribuições sociais, à exceção do certificado CEBAS. A despeito disso, entendeu que a imunidade prevista no § 7º do art. 195 da Constituição Federal de 1988 dispensaria o requisito do certificado CEBAS na hipótese, uma vez que, por se tratar de entidade de caráter público, não havia possibilidade de registro da fundação no órgão que concede o CEBAS, pois o art. 18, III, da Lei nº 8.742/1993 somente previa concessão do CEBAS às instituição privadas, ou seja, jamais seria possível à autora preencher tal requisito. Assim, invocando o art. 195, § 7º, e o postulado normativo-aplicativo da razoabilidade, entendeu que, na falta de regramento específico acerca dos requisitos formais para obtenção, pelas entidades beneficentes de direito público, da imunidade prevista no supracitado dispositivo Constitucional, o disposto no art. 55 da Lei nº 8.212/1991, inclusive após a entrada em vigor do art. 29 da Lei nº 12.101/2009, seria aplicável apenas no que couber.
+2. O fundamento constitucional do acórdão recorrido, que é suficiente para mantê-lo, não foi impugnado através de recurso extraordinário, o que impossibilita o conhecimento do recurso especial no que tange à legislação infraconstitucional em razão da incidência da Súmula nº 126 do STJ.
+3. Agravo interno não provido.
+(AgInt no REsp n. 1.636.295/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 27/4/2017, DJe 4/5/2017.)
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
