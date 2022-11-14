@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Reynaldo Soares da Fonseca e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Não participaram do julgamento os Srs. Ministros Jorge Mussi e Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Cuida-se de Agravo Regimental interposto contra decisão de minha lavra (fls. 34/38) na qual indeferi liminarmente o habeas corpus por ser substitutivo de recurso próprio e não concedi a ordem de ofício por verificar que afastar as conclusões das instâncias ordinárias a respeito do valor dos tributos supostamente sonegados pelo pacientepara fins da aplicação do princípio da insignificânciademandaria aprofundado revolvimento fático-probatório.
+A propósito, confira-se o teor da referida decisão:
+"Cuida-se dehabeas corpus, com pedido liminar, impetrado em benefício deJOSE LUIS BORTOLETO, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOno julgamento do HC n. 2285556-20.2021.8.26.0000.
+Extrai-se dos autos que foi instaurado inquérito policial para apurar suposto crime de sonegação fiscal pelo paciente. O Juízo de primeiro grau indeferiu o pedido de trancamento formulado na origem.
+Irresignada, a defesa impetrouhabeas corpusperante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+HABEAS CORPUS - Procedimento inquisitorial no qual se apura suposto cometimento dos delitos previstos no artigo 1º, incisos II e IV, da Lei nº8.137/1990 - TRANCAMENTODE INQUÉRITO POLICIAL- Descabimento - Procedimento inquisitorial meramente investigativo, sendo somente possível seu trancamento, pela via estreitíssima do remédio heroico, nas hipótese sem que evidenciadas, extreme de dúvidas, a atipicidade da conduta, a ausência de mínimos indícios de autoria ou, ainda, a existência de causa extintiva de punibilidade- Reconhecimento do princípio da insignificância - Impossibilidade - Existência de débitos inscritos na dívida ativa que superam R$1.000.000,00 - Dívida que aqui se pugna pelo reconhecimento da bagatela que originou execução judicial pela Fazenda Estadual - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO -ORDEM DENEGADA(fl. 11).
+No presentewrit, a Defesa alega, em síntese, a insignificância da conduta atribuída ao paciente, tendo em vista o valor do débito tributário supostamente sonegado (R$4.500,00).
+Afirma que "a única conduta considerada formalmente típica é aquela narrada no AIIM nº 4.079.775-2 (R$4.500,00), uma vez que sob os demais débitos fiscais não recaí suspeita de ocorrência de crimes tributários, estando fora de seara criminal" (fl. 6).
+Requer, em liminar, a suspensão das investigações e, no mérito, o trancamento do inquérito.
+É o relatório.
+Decido.
+Diante da hipótese dehabeas corpussubstitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoávelverificar a existência de eventual constrangimento ilegal.
+O Tribunal de origem afastou a possibilidade de trancamento precoce do inquérito policial mediante a seguinte fundamentação:
+Estabelecidos tais pontos, trancar-se inquérito policial, pela via estreita do Habeas Corpus, é medida extremamente excepcional, somente cabível nas hipóteses de atipicidade flagrante da conduta, ausência de indício mínimos de autoria ou, ainda, nos casos em que restar configurada, de plano, a existência de causa de extinção de punibilidade.
+Quer seja, somente nos casos em que repiso se evidenciar de plano, extreme de dúvidas, a inviabilidade primária de futura ação penal.
+ ..
+Dito isso, in casu, há prova da materialidade do crime (Auto de Infração e Imposição de Multa nº4.079.775-2, lavrado por autoridade competente), bem como a autoria do paciente é indiciária. E, ante a reprodução da consulta vinculada em nome do paciente, pela Justiça Pública às fls. 36 dos autos nº1021961-53.2021.8.26.0451, com débito superior a R$1.000.000,00, não há como se afirmar, DE PLANO, ser a conduta do paciente insignificante.
+Há necessidade de aprofundamento sobre os demais débitos existentes sendo que o Habeas Corpus nãoadmite dilação probatória de qualquer natureza.
+Não bastasse, o débito que gerou o inquérito policial foi EXECUTADO pela Fazenda Estadual (autos nº1506497-97.2019.8.26.0451).
+Como bem deliberou a d. autoridade apontada como coatora, ao denegar a Ordem,".. havendo mínimos indícios da prática delitiva, por ter o paciente, em tese e de forma continuadamente, suprimido ou reduzido tributos, não se vislumbra ilegalidade ou abuso de poder nas providências investigatórias.." (fls.12)(fls.10/19).
+O decidido pelo Tribunal a quo, no acórdão impugnado, não divergiu da jurisprudência desta Corte, no sentido de que somente é possível o trancamento de inquérito policialpor meio dehabeas corpusde maneira excepcional, quando de plano, sem a necessidade de análise fático-probatória, se verifique a atipicidade da conduta, a absoluta falta de provas da materialidade ou de indícios da autoria ou, ainda, a ocorrência de alguma causa extintiva da punibilidade. Tal não ocorre no presente caso.
+Acolher a tese de atipicidade atipicidade materialda conduta, sustentada pelo impetrante, demanda, necessariamente, a análise aprofundada de todos os elementos de prova de modo aafastar as conclusões das instâncias ordinárias a respeito do valor dos supostos tributos sonegados, procedimento que não se mostra possível pela via estreita dohabeas corpus.
+Nesse sentido:
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS.DESCAMINHO. TRANCAMENTO DA AÇÃO PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA.INAPLICABILIDADE. HABITUALIDADE CRIMINOSA. EXISTÊNCIA DE PROCEDIMENTOS ADMINISTRATIVO-FISCAIS PELA PRÁTICA DE DESCAMINHO.RECURSO DESPROVIDO.
+- O trancamento de ação penal ou de inquérito policial, em sede de habeas corpus, constitui medida excepcional, somente admitida quando restar demonstrada, sem a necessidade de reexame do conjunto fático-probatório, a atipicidade da conduta, a ocorrência de causa extintiva da punibilidade ou a ausência de indícios suficientes da autoria ou prova da materialidade.
+- O reconhecimento da atipicidade da conduta pela incidência do princípio da insignificância deve ser analisada em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal, no sentido de excluir ou afastar a própria tipicidade penal, observando-se a presença de certos vetores, como (a) a mínima ofensividade da conduta do agente, (b) a nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada (HC n. 98.152/MG, Rel. Ministro CELSO DE MELLO, Segunda Turma, DJe 5/6/2009).
+- Na espécie, como ponderado pelo Tribunal de origem, e diante das provas até então produzidas, conquanto o valor dos tributos devidos não ultrapasse a quantia que esta Corte definiu como parâmetro objetivo para a aplicação do referido princípio (REsp 1.688.878/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 28/2/2018, DJe 4/4/2018), a existência de elementos probatórios a indicar a habitualidade criminosa da recorrente impede o trancamento da ação penal pela incidência do princípio da insignificância.
+- A existência de outras ações penais, inquéritos policiais em curso ou procedimentos administrativos fiscais é suficiente para caracterizar a habitualidade delitiva e, consequentemente, afastar a incidência do princípio da insignificância.
+- Recurso ordinário desprovido.
+(RHC 106.576/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/06/2019, DJe 01/07/2019).
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. LEI 8.137/90, ART. 2º, II. ATIPICIDADE DA CONDUTA. ICMS.DECLARAÇÃO. NÃO RECOLHIMENTO. SUBSUNÇÃO EM TESE DO FATO À NORMA.RECURSO ORDINÁRIO A QUE SE NEGA PROVIMENTO.
+I - A jurisprudência do excelso Supremo Tribunal Federal, bem como desta eg. Corte, há muito já se firmaram no sentido de que o trancamento da ação penal por meio do habeas corpus é medida excepcional, que somente deve ser adotada quando houver inequívoca comprovação da atipicidade da conduta, da incidência de causa de extinção da punibilidade ou da ausência de indícios de autoria ou de prova sobre a materialidade do delito. (Precedentes).
+II - O art. 2º, II, da Lei 8.137/90 prevê que constitui crime contra a ordem tributária "deixar de recolher, no prazo legal, valor de tributo ou de contribuição social, descontado ou cobrado, na qualidade de sujeito passivo de obrigação e que deveria recolher aos cofres públicos".
+III - A alegação do recorrente de atipicidade da conduta de declarar, mas não recolher o tributo aos cofres públicos, não se sustenta, uma vez que esta col. Quinta Turma já decidiu que "Não há falar em atipicidade da conduta de deixar de pagar impostos, pois é o próprio ordenamento jurídico pátrio, no caso a Lei 8.137/1990, que incrimina a conduta daquele que deixa de recolher, no prazo legal, tributo descontado ou cobrado, na qualidade de sujeito passivo de obrigação, e que deveria recolher aos cofres públicos, nos termos do artigo 2º, inciso II, do referido diploma legal" (RHC n. 44.466/SC, Quinta Turma, Rel. Min. Jorge Mussi, DJe de 29/10/2014).
+IV - As alegações quanto à materialidade e autoria delitiva, não encontram campo adequado para discussão na via estreita do habeas corpus, pois o writ não se presta ao exame de matéria fática ou de elementos de prova, que devem ser debatidas no curso da instrução do processo.
+Recurso ordinário desprovido.
+(RHC 78.613/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 08/08/2017, DJe 16/08/2017)
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presentehabeas corpus.
+Publique-se.
+Intimem-se."
+No presente recurso, o impetrante insiste que o valor total do tributo devido é de R$ 4.500,00 (quatro mil e quinhentos reais), diferentemente do que consta do acórdão proferido na origem que faz referência a valor superior a R$1.000.000,00 (um milhão de reais).
+Requer, assim, a concessão da ordem nos termos da inicial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRANCAMENTO DA AÇÃO PENAL. CRIME TRIBUTÁRIO. INSIGNIFICÂNCIA. DIFERENÇA ENTRE OS VALORES AFIRMADOS PELO AGRAVANTE E OS VALORES QUE CONSTAM DO ACÓRDÃO IMPUGNADO.IMPOSSIBILIDADE DE REVISÃO FÁTICO-PROBATÓRIA. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO INFIRMADOS. SÚMULA N. 182DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO NÃO CONHECIDO.
+1. A decisão agravada indeferiu liminarmente o habeas corpus por ser substitutivo de recurso próprio e não concedeu a ordem de ofício pois afastar as conclusões das instâncias ordinárias a respeito do valor dos tributos supostamente sonegados pelo paciente para fins da aplicação do princípio da insignificância demandaria aprofundado revolvimento fático-probatório.Fundamentos esses não infirmados nas razões do presente recurso, atraindo a incidência da Súmula n. 182 desta Corte Superior.
+2. Agravo regimental não conhecido.
+VOTO
+O agravo não merece conhecimento.
+Os fundamentos apresentados, em especial a diferença de valores apresentados pelo agravante e pelo Tribunal de origem,não foram infirmados nas razões do presente recurso, de modo a atrair a incidência da Súmula n. 182 desta Corte, in verbis:
+"É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Nesse sentido, confiram-se os seguintes precedentes:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. FALTA DE NATUREZA GRAVE. PROCESSO ADMINISTRATIVO DISCIPLINAR. REEXAME DE PROVAS. IMPOSSIBILIDADE. MATÉRIA NÃO TRATADA NO DECISUM IMPUGNADO. FALTA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese vertente, conforme registrado pela Corte de origem, a falta grave foi reconhecida mediante a instauração de processo administrativo disciplinar no qual foram assegurados o contraditório e a ampla defesa ao reeducando.
+2. Em sede de habeas corpus, inviável afastar os fundamentos fáticos apontados pelas instâncias ordinárias para o reconhecimento da gravidade da infração e/ou sua absolvição, pois demandaria o reexame de matéria fático-probatória.
+3. Além do mais, no que tange à alegação de que uma testemunha presencial do fato apurado no PAD, apesar de tempestivamente arrolada e qualificada, não foi ouvida, ressalte-se que tal matéria não foi tratada no decisum impugnado, o que atrai a aplicação da Súmula 182 desta Superior Corte de Justiça: É inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+4. Agravo regimental não provido.
+(AgRg no HC 370.647/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 27/2/2018).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE SE CONHECER DA IMPETRAÇÃO. FUNDAMENTO NÃO IMPUGNADO. DOSIMETRIA DA PENA. AUMENTO DA PENA-BASE REALIZADO DE ACORDO COM O ART. 42 DA LEI N. 11.343/2006.
+1. O fundamento utilizado para não se conhecer do habeas corpus, a supressão de instância, não foi impugnado nas razões do agravo regimental, atraindo a aplicação da Súmula n. 182 desta Corte.
+2. Ademais, vale consignar que não se faz evidente a ilegalidade no estabelecimento da pena-base, uma vez que sua exasperação decorreu da avaliação da grande quantidade de droga apreendida, nos termos do art. 42 da Lei n. 11.343/2006.3. Agravo regimental desprovido.
+(AgRg no HC 644.335/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 28/4/2021).
+Ante o exposto, voto pelo não conhecimento do agravo regimental.
