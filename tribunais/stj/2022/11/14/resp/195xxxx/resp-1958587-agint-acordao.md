@@ -1,0 +1,92 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Antonio Carlos Ferreira.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro João Otávio de Noronha.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 322/337) interposto contra decisão desta relatoria que negou provimento ao recurso especial (e-STJ fls. 316/318).
+Em suas razões, os agravantes alegam preliminarmente que "a decisão que negou provimento ao recurso de agravo ingressado pelo ora embargado deve ser modificada, posto que se limitou a indicar ato normativo, sem explicar sua relação com a causa ou a questão decidida, não empregando conceitos jurídicos determinados, sem explicar o motivo concreto de sua incidência no caso, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta aos fundamentos, que, no caso, são inexistentes, além do que o pedido formulado no recurso interposto merece guarida, eis que está em consonância com os recentes julgados e lei aplicável à espécie" (e-STJ fl. 323).
+Reiteram as alegações de dissídio jurisprudencial e de ofensa aos arts. 400, I e II, do CPC/2015 e 6º, VIII, do CDC, afim de determinar que o banco agravado apresente "os extratos de dezembro/88 e janeiro/89 para que ele possa provar se havia ou nãosaldo no período da primeira quinzena do mês de janeiro de 1989, conforme determina o art. 6º do Código de Defesa do Consumidor, e em homenagem ao principioda cooperação" (e-STJ fls. 324/325).
+Nesse contexto, requerem "o retorno dos autos à Vara de Origem, para o devido prosseguimento da ação, com a instrução necessária ao bom conhecimento da questão acima levantada, determinando-se a inversão do ônus daprova, concedendo-se prazo para que o executado, ora recorrido, traga aos autos os extratos de janeiro de 1989, das contas tratadas nestes autos, para posterior verificação e realização de cálculo" (e-STJ fls. 331/332).
+Acrescentam que:
+(i) "o presente recurso se apegou, também, à ausência de fundamentação no julgado (art. 489, § 1º, inc. III), pois, na espécie, como almejado, não foram declinados os critérios adotados ao desiderato, e o Tribunal Local, doutro giro, não divergiu da sentença" (e-STJ fl. 333),
+(ii) "a matéria aqui discutida sem dúvida, foradevidamente prequestionada, entendendo o recorrente queo Tribunal de Justiça do Estado de São Paulo negou vigência aos artigos arts. 107, 166, IV, V, e 168 e 186 do Código Civil; arts. 7º, 107, 203, 485, § 3º, 489, 932 e seus incisos, 1010 e 1022, p. único, inciso I, do Código de Processo Civil, com o que este E. Superior Tribunal de Justiça não deve concordar, sendo que o caso em tela diz respeito a matéria de ordem pública" (e-STJ fl. 333), e
+(iii) "odecisum hostilizado, como afirmado alhures, possui os temas que estão controvertidos na decisão enfrentada (Dialeticidade recursal), sendo que na espécie, não há que se falar em deficiência de fundamentação deste recurso, muito menos sua incompreensão, haja vista que no recurso especial busca-se a anulação do julgado (pretensão de fundo), eis que, ao não se esclarecer (causa de pedir), contrariou-se (fundamento) o que reza o artigo 105, CPC, uma vez que não fora suprida a omissão de ponto crucial ao desiderato do pleito questionado. Reverbera, até, na nulidade do julgado, em face da ausência desse pronunciamento judicial e, mais, por inegável que a fundamentação recursal foi genérica (CPC, art. 489, § inc. II e III)" (e-STJ fl. 334).
+Ao final, pedem a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Foram ofertadas contrarrazões (e-STJ fls. 341/343).
+É o relatório.
+EMENTA
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. EXPURGOS INFLACIONÁRIOS. INEXISTÊNCIA DE ALCANCE NORMATIVO DOARTIGOINDICADO. SÚMULA N. 284/STF. PRINCÍPIO DA COOPERAÇÃO. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. SÚMULA N. 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. ACÓRDÃO RECORRIDO E DECISÃO AGRAVADA.FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. SÚMULAS N. 283 DO STF E 182 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. Considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+2.A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+3. A ausência de enfrentamento da matéria pelo acórdão recorridoobsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+5.É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+6. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 284, 282, 356 e 283 do STF e 13 do STJ.
+7. Agravo interno parcialmente conhecido e, nessa extensão, desprovido.
+VOTO
+A insurgência não merece ser acolhida.
+Os agravantes não trouxeram nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 316/318):
+Trata-se de recurso especial (CPC/2015, art. 1.029) interposto contra acórdão do TJSP assim ementado (e-STJ fl. 238):
+APELAÇÃO AÇÃO CIVIL PÚBLICA EXPURGOSINFLACIONÁRIOS EXECUÇÃO INDIVIDUAL Sentença que julgou extinta a execução por falta de título executivo. Cabimento Extratos trazidos comprovam que as contas indicadas na inicial faziam aniversário na segunda quinzena de janeiro de 1989 Extrato de fevereiro demonstra a existência de saldo em janeiro do mesmo ano Desnecessidade de inversão do ônus da prova Sentença mantida. Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 290/292).
+Nas razões do recurso especial (e-STJ fls. 242/257), fundamentado no art. 105, III, "a" e "c", da CF, os recorrentes apontam dissídio jurisprudencial e violação dos arts. 400, I e II, do CPC/2015 e 6º, VIII, do CDC, afirmando que seria devido determinar a inversão do ônus da prova para que a instituição financeira apresentasse os extratos da conta-poupança nos meses de dezembro de 1988 e de janeiro de 1989.
+Argumentam que:
+(a) "ao banco recorrido basta, apenas e tão somente apresentar os extratos de dezembro/88 e janeiro/89 para que ele possa provar se havia ou não saldo no período da primeira quinzena do mês de janeiro de 1989, conforme determina o art. 6º do Código de Defesa do Consumidor, e em homenagem ao principio da cooperação" (e-STJ fl. 244), e (b) "no caso dos autos, além do que determina a lei consumeirista, acerca da inversão do ônus da prova, tem-se que as partes devem cooperar para um resultado justo, cabendo ao Juiz determinar, até mesmo quando nenhuma das partes requerer a medida, todos os meios de prova para a elucidação do processo, por ser questão de ordem pública, razão pela qual aguarda-se pela juntada dos extratos pleiteados na inicial" (e-STJ fl. 253).
+Não foram apresentadas contrarrazões (e-STJ fl. 295).
+O recurso especial foi admitido na origem (e-STJ fls. 306/308).
+É o relatório.
+Decido.
+A fim de sustentar a tese de que seria devido inverter o ônus da prova para que a instituição financeira recorrida fornecesse os extratos da conta no período informado, os recorrentes apontaram violação do art. 400, I, e II, do CPC/2015, dispositivo que não guarda pertinência temática com a alegação, nem possui alcance normativo para sustentar a tese.
+Constatada a deficiência da fundamentação, aplicável, por analogia, a Súmula n. 284 do STF, como óbice ao recurso. Nesse sentido: AgInt no REsp n. 1.975.398/MA, de minha relatoria, QUARTA TURMA, julgado em 9/5/2022, DJe de 16/5/2022, e AgInt no REsp n. 1.976.663/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 27/6/2022, DJe de 29/6/2022.
+Nas razões recursais, a parte recorrente não indicou a legislação federal que teria sido objeto de violação pela Corte local, ao argumentar a necessidade de aplicar o princípio da cooperação nos autos (e-STJ fls. 251/254 ).
+Ausente tal providência, a fundamentação recursal mostra-se deficiente e atrai a aplicação, por analogia, da Súmula n. 284/STF como óbice ao recurso. A propósito: "No recurso interposto pela alínea "a" do permissivo constitucional é imprescindível a individualização do artigo de lei federal tido por violado, sem o que incide, por analogia, a Súmula 284/STF" (AgInt no AREsp n. 623.110/GO, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017).
+Outrossim, referida tese não foi objeto de debate pela Corte local, não estando prequestionada.
+O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973), ônus dos quais os recorrentes não se desincumbiram.
+Além disso, o dissídio interpretativo baseado em paradigma do mesmo tribunal prolator do acórdão recorrido esbarra no óbice da Súmula n. 13 do STJ.
+Por fim, ao rejeitar os aclaratórios, o Tribunal de origem ainda assentou que (e-STJ fl. 292 ):
+Apenas por amor ao argumento, registre-se que a extinção aqui se deu porque o extrato que acompanhou a inicial aponta saldo em conta-poupança com aniversário na segunda quinzena do mês, o que inviabiliza a reparação pretendida na inicial e a inversão do ônus da prova, porquanto ainda que venham aos autos extratos do mês de janeiro, a conta vai continuar fazendo aniversário na segunda quinzena.
+A respeito de tal razão de decidir, suficiente para manter o acórdão recorrido, os recorrentes não se manifestaram, o que atrai a aplicação da Súmula n. 283/STF, por analogia, como óbice ao recurso.
+Ante o exposto, NEGO PROVIMENTO ao recurso .
+Publique-se e intimem-se.
+De início, registre-se que os agravantesnão demonstraram, clara e objetivamente, quais os pontos supostamente omissos, contraditórios ou obscuros da decisão agravada.
+Essa conduta, por si só, justifica a rejeição da preliminar de carência de fundamentação.
+Por outro lado, considera-se deficiente, a teor da Súmula n. 284/STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+O art. 400, I, e II, do CPC/2015 não tem alcance normativo para subsidiar o requerimento deinversão do ônus probatório, a fim de compeliro banco agravado à disponibilização dos extratos bancários no período informado.
+Inafastável, desse modo, a Súmula n. 284/STF.
+Os agravantesnão indicaram os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada ao sustentarem a tesede ofensa ao princípio da cooperação(e-STJ fls. 251/254).
+Aplicável, dessa maneira, a Súmula n. 284/STF.
+Além do mais, o princípio da cooperaçãonão foi objeto de análise pelo Tribunal de origem, valendo acrescentar que,nas razões do recurso declaratório de fls. 278/284(e-STJ), a parte nada alegou sobre a aplicação do referido princípio processual.
+Ressalte-se ainda que "o prequestionamento ficto somente pode ser reconhecido se a parte alegar expressamente sua incidência nos embargos declaratórios e justificar o vício de omissão nas razões do apelo especial" (AgInt no REsp n. 1.798.197/CE, Relator Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/4/2020, DJe 28/4/2020), o que não ocorreu.
+Do mesmo modo:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015.DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. PREQUESTIONAMENTO FICTO. ART. 1.025 DO CPC/2015. NÃO OCORRÊNCIA. DESCUMPRIMENTO DE DECISÃO LIMINAR. NÃO RECONHECIMENTO PELO TRIBUNAL DE ORIGEM. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência deste Sodalício é firme no sentido de que, à luz do Novo Código de Processo Civil, admite-se o prequestionamento ficto, contudo, é necessário que a parte aponte, no apelo nobre, e não somente nos embargos de declaração encaminhados ao Tribunal de origem, o vício no acórdão recorrido, para que se proceda ao debate acerca das matérias federais indicadas no recurso especial - exegese dos arts. 1.022 e 1.025 do CPC/2015, o que não ocorreu na presente hipótese. Precedentes.
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+(..)
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.772.010/CE, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 24/9/2019, DJe 21/10/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Não havendo oposição de embargos de declaração na origem, resta inviabilizado o conhecimento da tese de negativa de prestação jurisdicional. Precedentes.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 282/STF. 3. Majorados para 16,5% (dezesseis e meio por cento) os honorários sucumbenciais, não há que se falar em afronta aos limites previstos no art. 85, §§ 2º e 11, do CPC/2015.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.385.697/MA, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/5/2019, DJe 3/6/2019.)
+Aplicáveis, dessa maneira, as Súmulas n. 282 e 356 do STF.
+Com relação à Súmula n. 283/STF,a parte recorrente deixou de trazer alegações efetivas e específicas para afastar as conclusões da decisão agravada.
+Isso porquealegou genericamente o prequestionamento da matéria à fl. 333 (e-STJ) da petição recursal para remover o referido empecilho. Àfl. 334 (e-STJ) do agravo interno, fez afirmações abstratas, de não incidência do óbice em questãocom assertivas que, a rigor, poderiam ser utilizadas em qualquer recurso.
+Constatou-se a inaptidão das razões recursais (Súmula n. 284/STF) sobre o dissídio jurisprudencial (e-STJ fl. 317), visto que a parte não indicou com clareza os dispositivos legais objeto da interpretação divergente. Além disso, não realizou o adequado cotejo analítico, com a indicação de circunstâncias que assemelhem e identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015), uma vez que seus argumentos limitaram-se à transcrição daementadojulgado comparado, o que é insuficiente (e-STJ fls. 250/251).
+Nesse contexto:
+AGRAVO INTERNO NO RECURSO ESPECIAL - RECUPERAÇÃO JUDICIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE DEMANDANTE.
+1. Ausência de comprovação do alegado dissídio jurisprudencial, nos termos dos artigos 1.029, CPC/15 e 255 do RISTJ. Além de a parte recorrente não haver indicado, de maneira clara e expressa, os dispositivos de lei objeto de interpretação divergente pelo Tribunal de origem, o que atrai a incidência do óbice contido na Súmula 284/STF, também não realizou o necessário cotejo analítico dos arestos apontados como dissonantes, sendo certo que a mera transcrição de ementas não se revela suficiente para a consecução de tal finalidade.
+(..)
+5. Agravo interno desprovido.
+(AgInt no REsp n. 1.796.925/RJ, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/5/2019, DJe 4/6/2019.)
+Ainda que assim, não fosse:
+(i) "a incidência do Enunciado 284/STF em relação à matéria de fundo prejudica a análise do dissídio jurisprudencial sobre o mesmo tema, tendo em vista a impossibilidade de modificar a conclusão do acórdão recorrido, ainda que acolhida a interpretação do julgado confrontado favorável à pretensão recursal" (AgInt no REsp n. 1.773.833/ES, relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/11/2021, DJe de 25/11/2021),
+(ii) "a iterativa jurisprudência desta Corte é no sentido de que o conhecimento do recurso especial - pela alínea "c" do permissivo constitucional - também exige o prequestionamento dos temas vinculados aos artigos objeto da suposta divergência jurisprudencial" (AgInt no AREsp n. 1.425.676/MS, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/5/2019, DJe 24/5/2019), e
+(iii) "a ausência de impugnação ao fundamento central do acórdão recorrido impede o exame da pretensão recursal, ante o óbice contido na Súmula 283/STF, aplicável ao dissídio jurisprudencial" (AgInt no AREsp 1.188.628/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 5/6/2018, DJe 12/6/2018).
+De outro lado, no especial (e-STJ fls. 248/249) e na própria petição do agravo interno (e-STJ fls. 325/329), a parte recorrente citou precedentedo TJSP sobre a matéria controvertida. Por essa razão, aplica-se a Súmula n. 13/STJ.
+Acrescente-se que não foram impugnados especificamente os fundamentos sobre (i) a ausência de alcance normativo do art. 400, I e II, do CPC/2015, (ii) a falta de prequestionamento do princípio da cooperação processual e (iii) a inaptidão da divergência interpretativa (Súmula n. 284/STF), o que atrai a Súmula n. 182/STJ.
+No mais, a tese de contrariedade aos arts.107, 166, IV eV, 168 e 186 do CC/2002, 7º, 107, 203, 485, § 3º, 489, 932, 1.010 e 1.022, parágrafo único,I, do CPC/2015 constitui inovação recursal, por falta de arguição oportuna no especial (e-STJ fls. 242/257).
+Assim, não prosperam as alegações deduzidas, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, CONHEÇO PARCIALMENTEdo agravo interno e, nessa extensão, NEGO-LHE PROVIMENTO.
+É como voto.
