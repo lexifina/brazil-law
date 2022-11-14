@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo internointerposto por Boavista Serviços S. A., contra decisão desta relatoria assim ementada (e-STJ, fl. 1.133):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. RECONSIDERAÇÃO. NOVA ANÁLISE DO AGRAVO. INSCRIÇÃO EM CADASTRO PROTEÇÃO AO CRÉDITO. NOTIFICAÇÃO PRÉVIA. AUSÊNCIA DE COMPROVAÇÃO. DANO MORAL CONFIGURADO. REVISÃO DA CONCLUSÃO ESTADUAL. IMPOSSIBILIDADE. SÚMULA 7/STJ. APLICAÇÃO. REVALORAÇAO DA PROVA. AFASTAMENTO. JUROS DE MORA. DATA DE INCIDÊNCIA. DISPOSITIVO LEGAL OFENDIDO. FALTA DE INDICAÇÃO. SÚMULA 284/STF. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL, MEDIANTE JUÍZO DE RECONSIDERAÇÃO.
+Nas razões apresentadasaagravante sustentou, em síntese, que ao caso não se aplicam os óbices das Súmulas 7/STJ e 284/STF.
+Não foi apresentada impugnação (e-STJ, fl. 1.152).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.INSCRIÇÃO EM CADASTRO PROTEÇÃO AO CRÉDITO. NOTIFICAÇÃO PRÉVIA. AUSÊNCIA DE COMPROVAÇÃO. DANO MORAL CONFIGURADO. REVISÃO DA CONCLUSÃO ESTADUAL. IMPOSSIBILIDADE. SÚMULA 7/STJ. APLICAÇÃO. REVALORAÇAO DA PROVA. AFASTAMENTO. JUROS DE MORA. DATA DE INCIDÊNCIA. DISPOSITIVO LEGAL OFENDIDO. FALTA DE INDICAÇÃO. SÚMULA 284/STF. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1.Nahipótese dos autos, tendo o Tribunal estadual reconhecido a inexistência de comunicação préviaacerca da inclusão do nome do autor em seus bancos dedados,é vedado aoSuperior Tribunal de Justiça modificar a conclusão acolhida, ante a incidência da Súmula 7/STJ, não sendo o caso de revaloração da prova.
+2.De acordo com o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, a demonstração da divergência exige não apenas a transcrição da ementa ou voto do acórdão paradigma, mas que o recorrente realize o devido cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, o que não ocorreu.
+3.O entendimento deste Tribunal Superior é firme no sentido de que, não sendo apontado de forma clara e objetiva o dispositivo de leiviabilizador do recurso especial, evidencia-se a deficiência na fundamentação, a atrair a incidência da Súmula 284/STF.
+4. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+Relativamente ao argumento de que indicou, nas razões do recurso especial, dispositivo de lei tido como ofendido quanto ao argumento da data de início da incidência dos juros de mora, a irresignação não prospera.
+Veja-se o que constou da respectiva petição (e-STJ, fls. 1.026-1.028):
+III. b -Sobre a data de início da incidência dos juros de mora
+Ademais, como resultado de ter fixado a data de início da incidência dos juros de mora da condenação arbitrada a partir do evento danoso discutido nos autos, o E. Tribunal de Justiça a quo deu a esta demanda uma solução distinta daquela adotada por outros Tribunais de Justiça quando da análise de situações idênticas.
+Como paradigma da divergência que explora, a Recorrente escolheu o v. acordão proferido por esse C. Superior Tribunal de Justiça quando do julgamento do Recurso Especial nº 903258/RS.
+Em junho de 2011-quase 10 anos depois da edição a súmula nº 54 -, quando do julgamento do Recurso Especial acima mencionado, a MM. Ministra Maria Isabel Galotti reavaliou de forma cuidadosa as premissas anteriormente adotadas para a contagem dos juros de mora na fixação das indenizações por danos morais.
+Da ementado v. aresto proferido, cujas razões a Recorrente adota na íntegra, merece destaque o seguinte trecho:
+"A indenização por dano moral puro(prejuízo, por definição, extrapatrimonial) somente passa a ter expressão em dinheiro a partir da decisão judicial que a arbitrou.  ..  Assim, a ausência de seupagamento desde a data do ilícito não pode ser considerada como omissão imputável ao devedor, para o efeito de tê-lo em mora, pois, mesmo que o quisesse, não teria como satisfazer obrigação decorrente de dano moral, sem base de cálculo, não traduzida em dinheiro por sentença judicial, arbitramento ou acordo (CC/1916, art. 1064). Os juros moratórios devem, pois, fluir, no caso de indenização por dano moral, assim como a correção monetária, a partir da data do julgamento em que foi arbitrada a indenização,  .. ."2(grifo nosso)
+Se a Recorrente sequer sabia se devia-já que acreditava piamente que vinha agindo corretamente, uma vez que foi ludibriada por malfeitores em um gravação telefônica -, o quanto devia e desde quando devia, não pode ela ser penalizado com uma contagem de juros desde um evento que, na época, lhe era totalmente desconhecido.
+O raciocínio adotado quando do julgamento do Recurso paradigma deve ser o mesmo aplicado à presente demanda, vez que estamos, aqui e lá, diante de situações idênticas -já que em ambas, a partir de uma regra de cálculo que independe do fato em si, os valores em jogo aumentam ou diminuem consideravelmente.
+Ademais, é de se observar que o cálculo dos juros de mora desde o evento não raro eleva condenações originariamente razoáveis a patamares irreais, fazendo com que o credor se beneficie de fatores alheios à vontade do devedor e que nãoguardam relação com o fato em si, como, por exemplo, o ajuizamento tardio da ação e uma eventual demora na prestação jurisdicional.
+Sendo assim, resta claro que o E. Tribunal de Justiça a quo, ao alterar a data inicial de incidência dos juros de mora, deu à questão solução diversa daquela já adotada por esse C. Superior Tribunal de Justiça.
+Como visto, a parte insurgente limitou-se a externar seu entendimento acerca da questãosem apontar, como já ficou consignado, de forma objetiva e direta, o dispositivo de lei federal tido por violado a fim de viabilizar o conhecimento da insurgência a respeito da tese de mérito, constatando-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal, aplicada a ambas as alíneas do permissivo constitucional.
+Ademais, para modificar a conclusão do acórdão recorrido sobre a ausência de prova da efetiva comunicação, seria necessário o reexame de matéria fático-probatória, o que é inviável no julgamento do recurso especial.
+Inafastável, pois, a incidência da Súmula 7/STJ.
+Nem se diga ser caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias.
+No caso, o que almeja a agravante é a revisão da conclusão a que chegou a Corte estadual, de que não ocorreu a devida comunicação.
+Portanto, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Não se olvide, ainda, o entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1.380.879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Quanto à divergência jurisprudencial,constata-se que arecorrentenão respeitouasexigências para a comprovação do dissídio alegado.
+Cumpre enfatizar, a respeito,que a jurisprudência vigente no Superior Tribunal de Justiça, seguindo o disposto no art. 1.029, § 1º, do CPC/2015, c/c art. 255, § 1º, do RISTJ, entende que, para a demonstração da divergência, não basta a simples transcrição da ementa ou voto do acórdão paradigma. De fato, faz-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a explicitação da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, situação que não ficou configurada no recurso especial interposto pelaagravante.
+Vejam-se, entre vários julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA PARTE AGRAVANTE.
+(..)
+3. É entendimento firme nesta Corte Superior que a mera transcrição de ementas e de excertos, desprovida da realização do necessário cotejo analítico entre os arestos confrontados, mostra-se insuficiente para comprovar a divergência jurisprudencial ensejadora da abertura da via especial com esteio na alínea "c" do permissivo constitucional
+4. Agravo interno desprovido.(AgInt no AREsp 1846488/GO, Ministro MARCO BUZZI, DJe de 16/12/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. VIOLAÇÃO DA COISA JULGADA. NÃO OCORRÊNCIA. INTERPRETAÇÃO DOS LIMITES DO TÍTULO JUDICIAL PELO TRIBUNAL ESTADUAL. POSSIBILIDADE. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO INTERNO DESPROVIDO.
+(..)
+3. Para a caracterização da divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+4. Agravo interno a que se nega provimento.(AgInt no AREsp 1751649/PR, Ministro RAUL ARAÚJO, DJe de 1º/12/2021)
+Dessa maneira, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão recorrida.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, com a oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
