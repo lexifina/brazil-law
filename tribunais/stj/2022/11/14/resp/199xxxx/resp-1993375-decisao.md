@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIScontra acórdão proferido pelo Tribunal de Justiça local, que, porunanimidade de votos, proveu o Agravo de Execução Penal n. 1.0000.21.109342-2/001, para o fim de determinar que se retifique o atestado de penas de ERICK HENRIQUE LOPES LUIZ, separando as reprimendas impostas e suspendendo a execução da pena de detenção, conforme ementa abaixo transcrita (e-STJ, fl. 77):
+EMENTA: AGRAVO EM EXECUÇÃO - PENAS DE DETENÇÃO E RECLUSÃO UNIFICADAS - IMPOSSIBILIDADE - NATUREZAS DISTINTAS - RECURSO PROVIDO. A leitura dos diplomas legais atinentes ao caso não permite conclusão diversa senão de que não há possibilidade de unificação das penas de reclusão e detenção.
+Embargos de declaração rejeitados (e-STJ, fl. 118):
+EMENTA: EMBARGOS DE DECLARAÇÃO EM AGRAVO EM EXECUÇÃO -CONTRADIÇÃO, OBSCURIDADE E OMISSÃO - INEXISTÊNCIA -REEXAME DA CAUSA - INADEQUAÇÃO DA VIA ELEITA. Os embargos de declaração se prestam a sanar ambiguidades, omissão, contradição ou obscuridade na decisão judicial. Sem tais requisitos devem ser rejeitados. Não é admitida a interposição dos declaratórios com a finalidade de instaurar uma nova discussão sobre a controvérsia jurídica já apreciada no aresto embargado.
+Nas razões do recurso especial, fundado naalínea"a" do permissivo constitucional, alega o representante do Parquet contrariedade ao art. 111 da Lei de Execução Penal.
+Afirma, em síntese, que, havendo mais de uma condenação, impõe-se a soma ou a unificação das penas privativas de liberdade impostas ao sentenciado, pois o art. 111, acima transcrito, não estabelece qualquer ressalva em relação às penas de reclusão ou detenção (e-STJ, fl. 134).
+Argumenta que o artigo 33 do Código Penal cuida da fixação do regime prisional no processo penal de conhecimento, enquanto os artigos 69 e 76 do mesmo diploma dizem respeito à fixação das penas no mesmo processo. Esses dispositivos legais, utilizados para fundamentar o acórdão atacado, não são óbice à unificação das penas de detenção e de reclusão no processo de execução penal, que segue regras específicas, dispostas na Lei nº 7.210/1984 (LEP) (e-STJ, fl. 134).
+Pugna, ao final, pelo provimento do recurso, a fim de queseja reformado o acórdão recorrido, determinando-se a soma/unificação de todas as suas penas privativas de liberdade (detenção e reclusão), com a subsequente determinação do regime prisional adequado.
+Contra-arrazoado (e-STJ, fls. 143/147) e admitido (e-STJ, fls. 152/153), manifestou-se o Ministério Público Federal, nesta instância, em parecer assim ementado (e-STJ, fl. 171):
+Recurso Especial. Execução Penal. Penas de reclusão e de detenção. Fixação de regime inicial de cumprimento da pena. Impossibilidade de somatório. Tratando-se de fixação de regime inicial de cumprimento da pena, deve ser aplicado o regime correspondente para cada um dos crimes, com a aplicação dos arts. 69 e 76 do Código Penal. Parecer pelo não provimento do recurso especial.
+É o relatório.
+Decido.
+O recurso é tempestivo e a matéria foi devidamente prequestionada.
+No caso, são estes os fundamentos do acórdão recorrido (e-STJ, fls. 79/81):
+Consta dos autos que o apenado foi condenado a uma reprimenda total de 33 (trinta e três) anos e 06 (seis) meses de reclusão pela prática dos delitos tipificados nos art. 121, §2º e art. 211, caput, ambos do Código Penal, e a 06 (seis) meses de detenção pela prática do delito previsto no art. 347, parágrafo único, do Código Penal.
+A irresignação da defesa diz respeito à possibilidade suspensão da pena de detenção até a execução total da pena de reclusão, nos termos do que determina os artigos 69 e 76 do Código Penal.
+Pois bem.
+Da análise dos autos, entendo que razão assiste à defesa.
+A leitura conjunta do Código Penal, do Código de Processo Penal e ainda da Lei de Execuções Penais evidencia a impossibilidade de unificação das penas de reclusão e detenção, diante da natureza diversa das reprimendas.
+ ..
+Dessa forma, percebe-se que as reprimendas de reclusão e detenção devem ser consideradas e executadas de forma autônoma, ainda que não haja vedação expressa quanto à unificação das mesmas.
+Com efeito, a pena de detenção, reservada aos crimes menos graves, deve ser cumprida em regime aberto ou semiaberto, daí sua incompatibilidade com a pena de reclusão.
+Desta forma, não é possível o cumprimento das duas reprimendas de forma simultânea, principalmente, in casu, em que o foi fixado o regime fechado para o cumprimento das penas de reclusão.
+ ..
+Destarte, tenho que necessária é a retificação do atestado de penado agravante para que se execute, primeiro, a pena de reclusão, devendo a pena de detenção ser executada somente quando houver progressão para regime compatível com as penas de detenção.
+Diante do exposto, e de tudo mais que dos autos consta, DOU PROVIMENTOao recurso para reformar a decisão atacada, determinado que se retifique o atestado de penas do agravante, separando as reprimendas impostas e suspendendo a execução da pena de detenção.
+Ora, o acórdão recorrido encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça, que faz distinção entre a fixação de regime inicial de cumprimento da pena e da unificação das penas para fins de execução penal.
+Com efeito, em se tratando de unificação de penas -art. 111 da Lei n. 7.210/1984-, devem ser consideradas cumulativamente tanto as reprimendas de reclusão quanto as de detenção para efeito de fixação do regime prisional, porquanto constituem penas de mesma espécie, ou seja, ambas são penas privativas de liberdade.
+Na hipótese dos autos, contudo,as penas de reclusão e detenção foram aplicadas na mesma sentença penal condenatória e não houve qualquer incidente no curso do feito executivo que tenha evidenciado a necessidade de transferência pararegime fechado quanto às penas de detenção.
+O presente recurso, assim, não se refere à unificação das penas para fins de execução penal, mas de fixação inicial de regime inicial de cumprimento das reprimendas, em concurso de infrações, situação em que são aplicáveis os arts. 69 e 76 do Código Penal.
+A propósito, colaciono os seguintes precedentes:
+PROCESSO PENAL E PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPCENTES. PORTE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO E MUNIÇÕES. PENAS DE RECLUSÃO E DETENÇÃO. FIXAÇÃO DE REGIME INICIAL DE CUMPRIMENTO DE PENA. SOMATÓRIO. IMPOSSIBILIDADE. REGIME CORRESPONDENTE A CADA UM DOS CRIMES. ARTS. 69 E 76 DO CÓDIGO PENAL - CP. AGRAVO DESPROVIDO.
+1. Verifica-se que o caso dos autos não se refere à unificação das penas para fins de execução penal, mas para definição do regime inicial de cumprimento da pena. Nesse contexto, deve ser aplicado o regime correspondente para cada um dos crimes, nos termos dos arts.69 e 76 do Código Penal e, não, o art. 111 da Lei de Execução Penal - LEP, como fez o TJGO.
+2. No caso, mantém-se o estabelecimento do regime inicial semiaberto para o crime cuja a pena é de reclusão e regime inicial aberto para o crime cuja a pena é de detenção.
+3. Agravo regimental desprovido.(AgRg no REsp n. 1.935.456/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 24/5/2022, DJe de 26/5/2022.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. TENTATIVA DE ROUBO. FALSA IDENTIDADE. RECEPTAÇÃO. ADULTERAÇÃO SINAL IDENTIFICADOR. PORTE ARMA. ASSOCIAÇÃO CRIMINOSA. CONDENAÇÃO. RECLUSÃO E DETENÇÃO. FIXAÇÃO DE REGIME INICIAL DE CUMPRIMENTO DA PENA. IMPOSSIBILIDADE DE SOMATÓRIO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A teor do art. 111 da Lei n. 7.210/1984, na unificação das penas, devem ser consideradas cumulativamente tanto as reprimendas de reclusão quanto as de detenção para efeito de fixação do regime prisional, porquanto constituem penas de mesma espécie, ou seja, ambas são penas privativas de liberdade.
+2. No caso, tratando-se de fixação de regime inicial de cumprimento da pena, deve ser aplicado o regime correspondente para cada um dos crimes, pois aplica-se o disposto nos arts. 69 e 76 do CP e, não, o art. 111 da Lei de Execução Penal, que cuida da hipótese de unificação das penas na execução.
+3. Agravo regimental não provido.(AgRg no REsp n. 1.939.600/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 22/6/2021, DJe de 28/6/2021.)
+AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. POSSE ILEGAL DE ARMAS DE FOGO DE USO PERMITIDO. CONCURSO MATERIAL DE CRIMES. INFRAÇÕES COM PENAS DISTINTAS. RECLUSÃO E DETENÇÃO. FIXAÇÃO DE REGIME INICIAL. IMPOSSIBILIDADE DE SOMATÓRIO. AGRAVO CONHECIDO PARA NEGAR CONHECIMENTO AO RECURSO ESPECIAL.
+1. Trata de hipótese de fixação de regime inicial de cumprimento das reprimendas, no caso de concurso de infrações, situação em que são aplicáveis os arts. 69 e 76 do Código Penal (AgRg no AREsp 1.619.879/MT, Ministra Laurita Vaz, Sexta Turma, DJe 22/5/2020), e não o art. 111 da Lei de Execução Penal, que cuida da hipótese de unificação das penas na execução.
+2. Agravo conhecido para negar conhecimento ao recurso especial.(AREsp n. 1.658.303/GO, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 2/3/2021, DJe de 5/3/2021.)
+Incide, na hipótese, a Súmulan. 83/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
