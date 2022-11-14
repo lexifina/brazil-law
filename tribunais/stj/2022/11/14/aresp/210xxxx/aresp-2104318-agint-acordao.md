@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 282/292) interposto contra decisão desta relatoria,que negou provimento ao agravo nos próprios autos, mantendo a inadmissibilidade do recurso especial (e-STJ fls. 277/279).
+Em suas razões, a parte argumenta que"ao entender que não é possível discutir as nulidades absolutas que alicerçaram a formação da coisa julgada o E. Tribunal a quo acaba por negar vigência aos artigos mencionados (repita-se: 168 CC e 281 CPC), pois TORNA O ATO NULO SUSCETÍVEL DE CONFIRMAÇÃO pela prolação de sentença (negando vigência ao art. 169 do CC), além de CONFERIR EFEITOSJURÍDICOS VÁLIDOS E EFICAZES AOS ATOS QUE DELE SUCEDERAM e cuja existência depende necessariamente de um ato nulo de pleno direito(negando vigência ao art. 281 do CPC), quando, em verdade, os atos NULOS devem ser considerados INEXISTENTES"(e-STJ fls. 284/285).
+Acrescenta que devemser afastadas as Súmulas n.282 do STF e211 doSTJ, "vez que a E. Corte a quo apreciou a matéria suscitada no recurso especial (art. 169 CC -confirmação de ato absolutamente nulo pela coisa julgada e art. 281 CPC - validade dos atos subsequentes) e entendeu que os atos nulos podem ser confirmados pela coisa julgada, bem como que os atos que dele se sucederam e são dependentes são válidos e eficazes (como é a ação de origem que depende de um ato absolutamente nulo para existir)" (e-STJ fl. 285).
+Suscita divergência jurisprudencial.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 295/306).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. DECISÃO MANTIDA.
+1.A simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ. Ademais, prevalece no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017), o que não ocorreu.
+2. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+3.Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 277/279):
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por ausência de prequestionamento e de comprovação do dissenso jurisprudencial (e-STJ fls. 223/225).
+O acórdão recorrido está assim ementado (e-STJ fl. 117):
+CONDOMÍNIO EDILÍCIO. Cobrança de despesas condominiais. Cumprimento de sentença. Exceção de pré-executividade. Alegação de ilegitimidade passiva própria da fase de conhecimento. Inadmissibilidade. Eficácia preclusiva da coisa julgada. Inteligência do art. 508 do CPC. Rejeição correta. Recurso não provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 129/133).
+Nas razões do recurso especial (e-STJ fls. 136/161), fundamentado no art. 105, III, "a" e "c", da CF, a parte recorrente requer, preliminarmente, o sobrestamento do feito, destacando que "é de bom alvitre que se aguarde a decisão definitiva do AREsp nº. 1.554.916 (Agravo de Instrumento nº. 2123593-08.2018.8.26.0000), pois se o entendimento da E. Corte Paulistana for mantido será necessário reconhecer a perda superveniente da legitimidade passiva desta Agravante, porquanto sua legitimidade tem origem em ato declarado NULO pleno iure (e não anulável, como afirmado na decisão agravada)" (e-STJ fl. 147).
+Alega ainda, além de divergência jurisprudencial, afronta aos arts. 169 do CC/2002 e 281 do CPC/2015, sustentando, em síntese, "a nulidade absoluta de todos os atos que deram causa à execução de origem, decretando-se, por conseguinte e em especial, a nulidade de todos os atos processuais desde o r. despacho de fl. 230 do processo de conhecimento onde foi proferida a sentença que nitidamente padece de nulidades transrescisórias instransponíveis" (e-STJ fl. 153).
+No agravo (e-STJ fls. 185/198), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Incialmente, conforme a jurisprudência do STJ, se o recurso não ultrapassa o juízo de admissibilidade, não é necessário sobrestar o processo. Isso porque o tema de mérito, independentemente de eventual prejudicialidade externa, não será enfrentado.
+Corroborando o entendimento:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO. INEXISTÊNCIA. SOBRESTAMENTO. REPERCUSSÃO GERAL. DESNECESSIDADE. IMPOSSIBILIDADE DE CONHECIMENTO DO TEMA. RECURSO MANIFESTAMENTE PROTELATÓRIO. REJEIÇÃO. MULTA. ART. 1.026, § 2º, DO CPC/2015.
+1. As razões dos embargos declaratórios, as quais apontam omissão e contradição no exame da matéria referente ao interesse da Caixa Econômica Federal, revelam-se sem relação lógica com o julgado embargado que sequer apreciou a matéria, uma vez que se limitou a decidir que não era cabível o agravo em recurso especial.
+2. É desnecessário sobrestar o feito, uma vez que o tema com repercussão geral não será enfrentado, em face de óbice processual ao conhecimento do recurso.
+3. O recurso mostra-se manifestamente protelatório, a ensejar a aplicação da multa de 2% (dois por cento) sobre o valor atualizado da causa, consoante previsão do art. 1.026, § 2º, do CPC/2015.
+4. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl no AgInt no AREsp n. 1.258.503/RN, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/6/2019, DJe 27/6/2019.)
+Além do mais, "é inviável rediscutir, na via estreita do recurso especial, sob pena de violação ao enunciado da Súmula 07 do STJ, o preenchimento dos requisitos necessários para o sobrestamento do curso de determinada ação, em razão de alegada questão prejudicial, a ser dirimida em outro processo" (AgRg no AREsp n. 459.084/MS, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/4/2014, DJe de 2/5/2014.)
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 131):
+Como já fundamentado à exaustão e não será integralmente repetido aqui por economia, a eficácia preclusiva da coisa julgada, positivada no artigo 508 do Código de Processo Civil, serve como sanatória geral do processo, superando qualquer nulidade ou anulabilidade do processo. O mesmo ocorre, obviamente, com a legitimidade passiva, espécie de condição da ação.
+Portanto, o conteúdo dos arts. 169 do CC/2002 e 281 do CPC/2015 não foi analisado pela Corte local. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Ademais, prevalece no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017), o que não ocorreu.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
+Com relação aos arts. 169 do CC/2002 e 281 do CPC/2015, a Corte local não conheceu do pedido sob o fundamento de que a matéria estaria preclusa. Portanto, o conteúdo dos referidos dispositivos não foi apreciado nas instâncias de origem, sendo ademais insuficiente para infirmar as conclusões do acórdão, circunstância que impede o conhecimento da insurgência, por falta de prequestionamento e deficiência da fundamentação recursal, nos termos das Súmulas n. 211 do STJ e 284 do STF.
+Ademais, como dito anteriormente,prevalece no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017), o que não ocorreu.
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
