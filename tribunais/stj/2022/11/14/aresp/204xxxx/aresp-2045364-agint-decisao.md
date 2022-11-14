@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interno interposto por MUNICÍPIO DE GUARUJÁcontra decisão de minha lavra, e-STJ fls. 353/358, em queconheci do agravo para não conhecer dorecurso especial, em face das Súmulas 282 e 356 do STF e das Súmulas 7 e 211 do STJ.
+Sustenta a parte recorrente, em suma, que os enunciados sumulares referidos não se aplicam ao caso, pois:
+a) em relação à ofensa aos arts. 4º e 6º do Decreto n. 20.910/1932, os fatos são incontroversos e o argumento recursal não demanda o reexame do acervo fático-probatório;
+b) quanto à afronta aos arts. 322, 323, 324 e 405 do Código Civil, a tese recursal também não impõe o revolvimento do acervo fático-probatório, visto que o caso tratade pagamento feito em quotas periódicas, onde a quitação da última pressupõe a quitação das anteriores, conforme disposição do Código Civil, sendo que aagravada "deu quitação tácita do principal e apenas muito tempo depois que veio pleitear os acessórios, esses pontos são incontroversos nos autos"; e
+c) houve o prequestionamento dos arts.141, 240, 492, e 1.013, caput, e § 1º, do CPC/2015 e doart.1º-F, da Lei nº 9.494/97, haja vista ter sido abordado o tema nos embargos de declaração opostos na origem(e-STJ fls. 362/374).
+Decorrido o prazo legal, o(s) agravado(s) não apresentou impugnação.
+Passo a decidir.
+Diante do reexame do recurso, provocado pelo presente agravo, exerço juízo de reconsideração e passo a nova apreciação do agravo em recurso especial.
+No tocante à alegada ofensa ao art.1º-F, da Lei nº 9.494/97, o agravo em recurso especial não merece ser conhecido.
+É que "ojuízo de admissibilidade negativo feito na origem, quando contiver capítulos decisórios fundados autonomamente no inciso I e II do art. 1.030 do CPC/2015 e também no inciso "V" do mesmo preceito legal, desafia a interposição concomitante de agravo interno e de agravo em recurso especial, hipótese em que admitida exceção à regra da unirrecorribilidade" (AgInt no AREsp 827.564/BA, rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18/12/2017).
+De acordo com o disposto no art. 1.030, § 2º, do CPC/2015, é cabível agravo interno contra a decisão que nega seguimento a recurso especial interposto contra acórdão que está em conformidade com o entendimento do STJ exarado no julgamento de recursos repetitivos.
+Confira-se:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+ ..
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+§ 2º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021.
+Esse agravo interno é a sede própria para se demonstrar eventual falha na aplicação de tese firmada no paradigma repetitivo em face da realidade do processo.
+Em razão dessa previsão normativa, é firme o entendimento desta Corte no sentido de que é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. NEGATIVA DE SEGUIMENTO DE PARTE DO ESPECIAL, COM FULCRO NO ARTIGO 1.030, INCISOS I E III, DO CPC. CABIMENTO DE AGRAVO INTERNO NO TRIBUNAL DE ORIGEM. 2. INADMISSÃO DE PARTE DO ESPECIAL, COM FUNDAMENTO NO ARTIGO 1.030, INCISO V, DO CPC. CABIMENTO DE AGRAVO NOS PRÓPRIOS AUTOS. DECISÃO MANTIDA.
+1.1. Nos termos do art. 1.030, § 2º, do CPC, contra decisão do Tribunal de origem que nega seguimento a recurso especial com fundamento no art. 1.030, incisos I e III, do CPC, cabe somente a interposição de agravo interno dirigido à instância "a quo".
+1.2. Conforme os arts. 1.030, § 1º, e 1.042 do CPC, contra decisão do Tribunal de origem que inadmite o recurso especial com fundamento no art. 1.030, inciso V, do CPC, cabe agravo nos próprios autos dirigido ao Superior Tribunal de Justiça.
+2.1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, sob o enfoque dado pela parte, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas n. 282 e 356 do STF.
+2.2. A deficiência na fundamentação, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284 do STF).
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 1883869 / RS, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 16/12/2021).
+In casu, no que diz respeito à questão referente aos juros moratórios e à correção monetária, segundo disciplinada naLei 11.960/09, o Tribunal local negou seguimento ao recurso especial com amparo na tese repetitiva firmada no Tema 905 do STJ (e-STJ fls. 310/311), pelo que manifestamente incabível o agravo em recurso especial.
+Feito esse registro, observo que, com relação à contrariedade dosarts. 4º e 6º do Decreto n. 20.910/1932 (prescrição), o Tribunal estadual não examinou a alegação de que "as faturas apresentadas pela Agravada foram datadas de setembro a dezembro de 2010, sendo o requerimento administrativo formulado apenas em 2014, muito tempo depois do prazo de 1 ano" (e-STJ fl. 273).
+De fato, os embargos de declaração apresentados pelo agravantenão cumpriram com a finalidade de suprir essa omissão, pois a Corte paulista se limitou a dizer que o seguinte (e-STJ fl. 258):
+Além disso, é de relevo não ter aplicação à hipótese ora sob reapreço o artigo 6º desse diploma1, pois, não bastasse, como sobredito, estar vigente a relação contratual a envolver as partes, a obrigação em foco decorre de contrato administrativo.
+Outrossim, a despeito deventilado nos aclaratórios (e-STJ fl. 241), não houve pronunciamento na Corte local no acórdão integrativo de e-STJ fls. 254/261 acerca da alegação de que o caso tratade parcelas periódicas, onde a quitação da última pressupõe a quitação das anteriores, e a agravada deu quitação tácita do principal e apenas muito tempo depois que veio pleitear os acessórios (arts. 322, 323, 324 e 405 do CC).
+Nessa hipótese, caberia à parte, nas razões do seu especial, alegara violação do art.1.022do CPC/2015 a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado sobre os temas, o que não ocorreu.
+Assim, incidea Súmula211do STJ.
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/15. AÇÃO DE REPETIÇÃO DE INDÉBITO CUMULADA COM INDENIZATÓRIA. RESPONSABILIDADE SOLIDÁRIA ADVOGADOS. VIOLAÇÃO. PRINCÍPIOS DO CONTRADITÓRIO E DA AMPLA DEFESA. MANIFESTAÇÃO SOBRE OFENSA A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA PELO TRIBUNAL. INCIDÊNCIA DA SÚMULA Nº 211 DESTA CORTE. INOCORRÊNCIA DO PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO NCPC. NECESSIDADE DE SE APONTAR VIOLAÇÃO DO ART. 1.022 DO NCPC. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este agravo interno ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. As matérias contidas nos arts. 513 e 523 do CPC/73, apontados como violados no recurso especial, não foram enfrentadas pelo Tribunal estadual, nem mesmo após a oposição dos embargos de declaração.
+2.1. Caberia à parte, nas razões do seu especial, alegar a violação do art. 1.022 do NCPC a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado sobre o tema, o que não ocorreu. Precedentes. Aplicação da Súmula nº 211 do STJ.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no REsp n. 1.814.157/MG, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 30/5/2022, DJe de 1/6/2022.)
+Por fim, o Tribunal de origem não analisou, ainda que implicitamente, o disposto no(s) art(s).141, 240, 492, e 1.013, caput, e § 1º, do CPC/2015, tampouco esses preceitos foram suscitados nos embargos de declaração, o que demonstra a carência do requisito constitucional do prequestionamento.
+Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Com efeito, nos termos da jurisprudência desta Corte, para que se configure o prequestionamento, mister se faz que a tese jurídica vinculada no recurso especial tenha sido decidida à luz da legislação federal indicada, o que não ocorreu no presente caso.
+Ante o exposto:
+(i) RECONSIDERO a decisão de e-STJ fls. 353/358;
+(ii)com base no art. 253, parágrafo único, I e II, do RISTJ, NÃO CONHEÇO do agravo em recurso especial, no ponto referente à ofensa aoart. 1º-F, da Lei nº 9.494/97, eCONHEÇO do agravo para NÃO CONHECER do recurso especialquanto aos demais temas.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
