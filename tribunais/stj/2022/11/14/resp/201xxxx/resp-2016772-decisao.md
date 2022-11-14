@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por FERNANDO MENDES TELESCA e OUTROS, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado (e-STJ fl. 68):
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FALECIMENTO DA PARTE EXEQUENTE. HABILITAÇÃO. SUSPENSÃO PROCESSUAL. PRESCRIÇÃO. OCORRÊNCIA. RECURSO DESPROVIDO.
+I. Trata-se de Agravo de Instrumento contra decisão que, nos autos de execução de julgado, dentre diversas medidas, em relação aos ora recorrentes, por força da apresentação de embargos declaratórios, manteve decisum no qual foi reconhecida a "prescrição da pretensão executória".
+II. Pretendem os ora Agravantes nos autos de origem a habilitação e cumprimento de sentença que assegurou aos autores originários da demanda o restabelecimento do pagamento da Gratificação de Paraquedismo, bem assim a pagar-lhes as diferenças em atraso, observada a prescrição das parcelas anteriores ao quinquênio que antecedeu o ajuizamento da ação.
+III. Compulsando os autos, constata-se que o trânsito em julgado do título que se pretende executar ocorreu em 21/11/2007. Contudo, somente em 02/09/2019, ou seja, ultrapassados mais de 12 anos do trânsito em julgado, os herdeiros do Autor originário, ora Agravantes requereram a habilitação quanto a eventual crédito, restando manifestamente prescrita a pretensão executória.
+IV. Com efeito, observe-se que, a teor do art. 1º do Decreto nº 20.910/1932, todo e qualquer direito ou ação contra a Fazenda, seja ela federal, estadual ou municipal, prescreve em 5 anos a contar da data do ato ou fato do qual se originou.
+V. Destaca-se, ainda, que a morte do titular original do crédito não pode acarretar situação de imprescritibilidade, pois o entendimento de que não corre a prescrição durante a suspensão processual ocasionada pela morte da parte culminaria na conclusão de que todos os processos deveriam ficar paralisados, aguardando a habilitação de eventual herdeiro.
+VI. Agravo de Instrumento não provido.
+Em suas razões de especial (fls. 131/144), a parte recorrente aponta violação dos arts. 110, 313, I, § 1º, 689 e 927, III, do CPC/2015, bem como doTema 880do STJ.Sustenta, em suma, que, havendo o falecimento do titular do direito creditório reconhecido por título judicial passado em julgado, a habilitação dos herdeiros, no curso da execução, não estaria sujeita a prazo prescricional, pelo que poderia ser feita a qualquer tempo.
+Contrarrazões às e-STJ fls. 185/187.
+Recurso especial admitido(e-STJ fls. 193/194).
+Passo a decidir.
+Verifico que a pretensão recursal merece prosperar.
+Pacífica a jurisprudência do STJ no sentido de que a morte de uma das partes, inclusive no curso da execução, importa na suspensão do processo, razão pela qual, na ausência de previsão legal que imponha prazo para ahabilitaçãodos respectivos sucessores, não há que falar emprescrição.
+À guisa de mero exemplo, confiram-se os seguinte precedentes:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. MORTE DE UMA DAS PARTES. SUSPENSÃO DO PROCESSO. PRESCRIÇÃO. NÃO OCORRÊNCIA. SÚMULA N. 568/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+IV - A morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para a habilitação dos respectivos sucessores, não há falar em prescrição. Precedentes.
+ ..
+VII - Agravo Interno improvido.
+(AgInt no REsp n. 1.852.107/RS, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 6/4/2020, DJe de 13/4/2020).
+PROCESSUAL CIVIL.EXECUÇÃODE SENTENÇA.HABILITAÇÃODE SUCESSORES. PRESCRIÇÃOINTERCORRENTE. NÃO OCORRÊNCIA. MORTE DE UMA DAS PARTES. SUSPENSÃO DO PROCESSO. PRECEDENTES.
+I - Na origem, o presente feito decorre de agravo de instrumento interposto contra decisão que, emexecuçãode sentença, indeferiu ahabilitaçãodos ora agravados, como sucessores de Ivanildo José da Silva. O Tribunal a quo negou provimento ao recurso. Nesta Corte, o recurso especial foi provido.
+II - Inicialmente, cumpre ressaltar que a Corte Especial deste Tribunal já se manifestou no sentido de que o juízo de admissibilidade do especial pode ser realizado de forma implícita, sem necessidade de exposição de motivos. Assim, o exame de mérito recursal já traduz o entendimento de que foram atendidos os requisitos extrínsecos e intrínsecos de sua admissibilidade, inexistindo necessidade de pronunciamento explícito pelo julgador a esse respeito. (EREsp n. 1.119.820/PI, Relator Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014). No mesmo sentido: AgRg no REsp n. 1.429.300/SC, Relator Ministro Humberto Martins, Segunda Turma, DJe 25/6/2015; AgRg no Ag 1.421.517/AL, Relatora Ministra Assusete Magalhães, Segunda Turma, DJe 3/4/2014).
+III - O cerne da fundamentação do acórdão recorrido, na origem, está na ocorrência deprescriçãointercorrente daexecução,por decurso do prazo de 5 anos para ahabilitaçãodos sucessores, em razão do falecimento do autor da ação.
+IV - As turmas que integram a Primeira Seção tem jurisprudência no sentido de que a morte de uma das partes importa na suspensão do processo, razão pela qual, na ausência de previsão legal impondo prazo para ahabilitaçãodos respectivos sucessores, não há falar emprescriçãointercorrente. Veja-se: AgInt no AREsp n. 929.097/PE, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 12/12/2017, DJe 18/12/2017; AgInt no REsp n. 1.645.120/CE, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 21/11/2019, DJe 29/11/2019 e AgInt no REsp n. 1.509.529/PE, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 24/6/2019, DJe 27/6/2019.
+V - Correta, portanto, a decisão que deu provimento ao recurso especial da parte.
+VI - Agravo interno improvido.
+(AgInt no REsp n. 1.802.229/PE, relator Ministro Francisco Falcão, Segunda Turma, julgado em 29/6/2020, DJe de 1/7/2020).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, para determinar o prosseguimento da execução, com a devida habilitação dos herdeiros.
+Publique-se. Intimem-se.
