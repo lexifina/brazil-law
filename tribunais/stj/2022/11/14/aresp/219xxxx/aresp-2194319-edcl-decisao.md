@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VIANORTE S/A à decisão de fls. 1311/1312, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Buscando realizar uma linha cronológica processual para aclaramento da situação, temos que a embargante interpôs Recurso de Apelação perante o E. Tribunal de Justiça de São Paulo (6ª Câmara de Direito Público) do qual sobreveio acórdão de parcial provimento no tocante ao desconto do DPVAT recebido pelos autores, mantendo a incidência dos juros moratórios mediante a incidência da Súmula nº 54 deste Superior Tribunal de Justiça.
+Da decisão colegiada foram opostos Embargos de Declaração com o fim de sanar omissão com relação à atualização do valor percebido a título do seguro DPVAT, matéria de ordem pública, e cognoscível em qualquer fase ou momento processual.
+Nestes termos, sabe-se que os Embargos de Declaração possuem a mesma natureza jurídica da decisão embargada, de maneira que o decisium se torna parte integrante do acórdão (fls. 1315/1316).
+ ..
+Ao contrário do que expõe, tem-se que os Embargos de Declaração são um procedimento incidente destinado ao aperfeiçoamento da decisão originária, e não modificá-la, ou seja, o teor substancial da decisão não se altera, permaneceria imutável.
+ ..
+Sabe-se que a razão jurídica da necessidade de esgotamento da instância ordinária é justamente evitar o acesso à instância especial "per saltum", contudo, a apreciação de Embargos de Declaração de forma monocrática não obsta a parte a interpor o respectivo recurso perante do STJ, pois o objetivo dos aclaratórios é integrar a decisão, no sentido de se corrigir omissão, obscuridade, contradição e erro material (fl. 1317).
+ ..
+Pelo exposto, há que se evidenciar ofensa de ordem constitucional, pois ao impedir o acesso da embargante às instâncias judiciais especiais acaba por transgredir os princípios da inafastabilidade da jurisdição, do devido processo legal e do contraditório e ampla defesa insculpidos no artigo 5º da Constituição Federal: (fl. 1319).
+ ..
+Neste sentido, cinge-se a contradição apontada, devendo a mesma ser sanada à medida que o Recurso Especial merece ser remetido à E. Corte Superior, restando impugnada a citação de óbice de análise da matéria em razão do entendimento fixado na Súmula nº 281 do Supremo Tribunal Federal (fl. 1320).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Consta da decisão embargada que o recurso especial foi interposto contra decisão monocrática proferida pelo Tribunal a quo (fls. 1248/1253).
+O STJ, com base na Súmula n. 281 do STF, aplicável também aos recursos especiais, pacificou o entendimento de que é necessário que a parte interponha todos os recursos ordinários no Tribunal de origem antes de buscar a instância especial, ou seja, a apresentação de recurso especial pressupõe o julgamento de questão controvertida pelo órgão colegiado de origem.
+Essa orientação também se aplica a hipóteses como a dos autos, em que a acórdão do Tribunal de origem foram opostos embargos de declaração, julgados de forma monocrática, e, contra essa decisão, foi interposto recurso especial sem que houvesse o necessário exaurimento das instâncias ordinárias.(AgInt no AREsp 1621900/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 23/6/2020; e AgInt no AREsp 1527034/RJ, relator Ministro Marco Buzzi, Quarta Turma, DJe de 14/2/2020.)
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
