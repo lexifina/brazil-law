@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se dehabeas corpus, com pedido liminar, impetrado em benefício deAUDIZIO DE OLIVEIRA GONCALVES SOBRINHO, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁno julgamento do HC n. 0628417-03.2022.8.06.0000 .
+Extrai-se dos autos que o Juízo das execuções homologou a folha de cálculos das penas impostas ao paciente.
+Irresignada, a defesa impetrouhabeas corpusperante o Tribunal de origem, o qual não conheceu da impetração e concedeu parcialmentea ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. EXECUÇÃO PENAL. TESE DE EXCESSO DE PRAZO NA APRECIAÇÃO DE PEDIDO DE RETIFICAÇÃO DO RELATÓRIO DE EXECUÇÃO PENAL, COM PEDIDO DE SOLTURA DO PACIENTE. NÃO CONHECIMENTO. IMPOSSIBILIDADE DE CONCEDER A ORDEM ESPECÍFICA DESEJADA. QUESTÃO DE MÉRITO AFETA À EXECUÇÃO PENAL. HABEAS CORPUS NÃO CONHECIDO, MAS ORDEM PARCIALMENTE CONCEDIDA DE OFÍCIO. DETERMINAÇÃO DE PRAZO PARA EXPEDIÇÃO DE RSPE. LIMINAR CONFIRMADA.
+01. A tese suscitada, no presente remédio constitucional, concentra-se no excesso de prazo para apreciação do pleito de retificação do relatório de situação executória do apenado, com pedido de soltura do ora paciente.
+02. Inicialmente, destaco que, não obstante o pedido formulado ser de soltura, vislumbra-se que os argumentos constantes das razões da impetração referem-se à fase de execução penal, não constituindo o habeas corpus via adequada para examinar pedidos de benefícios relativos a essa fase, por se tratar de matéria que exige exame mais aprofundado dos requisitos objetivos e subjetivos, de forma individualizada, destacando-se a ausência de dialeticidade do pedido específico.
+03. Somente em situações excepcionais, quando se verifica alguma ilegalidade imediata, sem a necessidade de dilação probatória, pode-se analisar o pleito e, se for o caso, conceder a ordem de ofício. Apesar do caráter excepcionalíssimo do habeas corpus ensejar, em regra, a impossibilidade de sua impetração contra decisões em processos de execução penal, tem-se que o excesso de prazo, na apreciação de pedido de retificação do relatório de execução penal, pode caracterizar constrangimento ilegal sanável por esta via mandamental.
+04. Diante da sequência de atos processuais, no curso do procedimento executório, de fato, reconhece-se demora para apreciação do pedido formulado. Por sua vez, afere-se que, após a concessão de medida liminar determinando à autoridade impetrada a apreciação do requesto formulado pela defesa do paciente, foi proferida decisão a qual determinou expedição de novo relatório de situação processual executória corrigido na origem.
+05. Em que pese a decisão determinando a expedição de novo RSPE corrigido, em aferição aos autos executórios, constata-se que, até a presente data, não foi expedido referido documento. Destarte, a decisão liminar deve ser confirmada, para que se efetive a determinação relativa ao pedido formulado pela defesa do paciente.
+06. Deixa-se de conhecer o presente writ, mas, de ofício, concede-se parcialmente a ordem, de ofício, confirmando a liminar já deferida, para o fim de determinar à autoridade impetrada que dê efetividade à decisão relativa ao requesto formulado pela defesa do paciente, expedindo-se RSPE no prazo de 10 (dez) dias"(fls. 30/31).
+No presentewrit, o impetrante relata que apesar da ordem concedida pelo Tribunal de origem, o paciente ainda está submetido à constrangimento ilegal em razão da não elaboração do novo Relatório de SituaçãoProcessualExecutória (RSPE) no prazo fixado.Argumenta que em razão do erro de preenchimento do RSPE, está impedido de obter os benefícios da execução penal.
+Requer, em liminar, a colocação do paciente em liberdade. No mérito, pretende a reforma do RSPE.
+Liminar indeferida às fls. 56/58.
+Informações prestadas às fls. 62/66 e 69/72.
+O Ministério Público Federal opinou pela prejudicialidade do presentehabeas corpus,conforme parecer de fls. 74/75.
+É o relatório.
+Decido.
+O pedido está prejudicado, pois conformeas informações prestadas pelo Juízo da 1ª Vara de Execução Penal - SEEU da Comarca de Fortaleza/CE às fls. 69/72,sobreveio decisão que determinou a expedição de novo Relatório de Situação Processual Executória, com a correção da pena e seus incidentes.
+Ante o exposto,julgo prejudicado o presentehabeas corpus.
+Publique-se.
