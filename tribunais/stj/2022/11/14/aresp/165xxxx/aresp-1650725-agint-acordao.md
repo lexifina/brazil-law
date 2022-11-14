@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência do STJ que não conheceu do recurso especial da parte em razão da sua intempestividade.
+A agravante alega que seu recurso especial é tempestivo, vez que foi intimada através do diário oficial com disponibilização em 22/7/2019 e publicação em 23/7/2019, o que se encontra certificado nos autos à fl. 862.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. INTERPOSIÇÃO FORA DO PRAZO LEGAL.
+1. Trata-se de Ação Anulatória de Lançamento Fiscal com pedido de Tutela Antecipada movida pela recorrente em face do recorrido, na qual foi proferida decisão indeferindo a tutela provisória de urgência. Em face de tal decisão, a parte interpôs agravo de instrumento com pedido de efeito suspensivo, efeito este cuja concessão foi indeferida monocraticamente, ao que se seguiu a interposição de agravo interno. O TJSP, analisando a controvérsia, julgou no mesmo dia o agravo de instrumento - negando o pleito - e o agravo interno - julgando-o prejudicado. Os acórdãos dos referidos julgamentos foram publicados em 17/7/2019 (agravo interno) e em 23/7/2019 (agravo de instrumento).
+2. "O Superior Tribunal de Justiça possui entendimento pacificado de que a carga dos autos pelo advogado da parte, antes de sua intimação por meio de publicação na imprensa oficial, enseja a ciência inequívoca da decisão que lhe é adversa, iniciando a partir daí a contagem do prazo para interposição do recurso cabível (AgRg nos EDcl no Ag 1.306.136/TO, Rel. Min. RAUL ARAÚJO, DJe 4.2.2013). No mesmo sentido: AgInt no AREsp. 1.262.364/MG, Rel. Min. MAURO CAMPBELL MARQUES, DJe 21.8.2018; AgRg no AREsp. 338.846/MA, Rel. Min. ARNALDO ESTEVES LIMA, DJe 17.9.2013." (AgInt no AREsp 1110069/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe de 10/5/2019).
+3. No caso, verifica-se dos autos que a recorrente foi intimada do julgamento do agravo interno por si interposto em 17/7/2019 (certidão de fl. 907), tendo sido simultaneamente cientificada do resultado do julgamento do agravo de instrumento, pelo que, contando-se o prazo recursal de 18/7/2019 à 7/8/2019, é intempestivo o recurso especial interposto em 8/8/2019.
+4. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Isso porque conquanto a parte alegue a tempestividade do seu recurso especial por ter sido foi intimada através do diário oficial com disponibilização em 22/7/2019 e publicação em 23/7/2019, o que se encontra certificado nos autos à fl. 862, verifica-seque ela foi intimada do julgamento do agravo interno por si interposto em 17/7/2019, conforme certificado à fl. 907, o que implica no início da contagem do prazo recursal em 18/7/2019 e fim em 7/8/2019.
+Com efeito, a Corte de origem julgou prejudicado o referido agravo interno por perda do objeto, em razão do julgamento no mesmo dia do agravo de instrumento interposto pela contribuinte. Nesse diapasão, observa-se que quando intimada do resultado do julgamento do agravo interno, a parte foi simultaneamente cientificada do resultado do julgamento do agravo de instrumento.
+Mutatis mutandi, veja-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DA APELAÇÃO. CARGA DOS AUTOS PELO PATRONO DA PARTE. CIÊNCIA INEQUÍVOCA DA DECISÃO. ALEGAÇÃO DE QUE O ADVOGADO REALIZADOR DA CARGA NÃO SE ENCONTRAVA REGULARMENTE CONSTITUÍDO. TRIBUNAL DE ORIGEM QUE CONCLUIU EM SENTIDO DIVERSO. SÚMULA 7/STJ. AGRAVO INTERNO DE ENGENHARIA E COMÉRCIO BANDEIRANTES LTDA. A QUE SE NEGA PROVIMENTO.
+1. O Superior Tribunal de Justiça possui entendimento pacificado de que a carga dos autos pelo advogado da parte, antes de sua intimação por meio de publicação na imprensa oficial, enseja a ciência inequívoca da decisão que lhe é adversa, iniciando a partir daí a contagem do prazo para interposição do recurso cabível (AgRg nos EDcl no Ag 1.306.136/TO, Rel. Min. RAUL ARAÚJO, DJe 4.2.2013). No mesmo sentido: AgInt no AREsp. 1.262.364/MG, Rel. Min. MAURO CAMPBELL MARQUES, DJe 21.8.2018; AgRg no AREsp. 338.846/MA, Rel. Min. ARNALDO ESTEVES LIMA, DJe 17.9.2013.
+2. Na espécie, o Tribunal de origem, após detida análise das vicissitudes fático-probatórias do caso concreto, concluiu que a carga teria sido realizado por procurador regularmente constituído da parte, ensejando o reconhecimento da ciência inequívoca da decisão.
+3. Como se observa, acolher a alegação de que o Advogado realizador da carga dos autos não estava constituído regularmente e infirmar a conclusão do acórdão recorrido em sentido contrário demanda, inequivocamente, reexame de fatos e provas, o que é vedado pela Súmula 7/STJ.
+4. Agravo Interno de interposto por ENGENHARIA E COMÉRCIO BANDEIRANTES LTDA. a que se nega provimento.
+(AgInt no AREsp 1110069/SP, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe de 10/05/2019 - grifa-se)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTIMAÇÃO PESSOAL. ENTREGA DOS AUTOS COM VISTA. DISCUSSÃO SOBRE A EFETIVA CARGA DOS AUTOS. QUESTÃO ATRELADA AO REEXAME DE PROVAS. ÓBICE DA SÚMULA 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência do STJ firmou-se no sentido de que a carga dos autos, enseja ciência inequívoca da decisão que lhe é adversa, iniciando, a partir desse momento o direito de se manifestar no processo.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo regimental não provido.
+(AgRg no AREsp 788.571/RO, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 09/12/2015 - grifa-se)
+Apesar de tais precedentes referirem-se à intimação por carga dos autos, evidente que o raciocínio a ser empregado no presente caso é o mesmo: a parte, no momento da intimação do agravo interno, já foi cientificada dos atos do processo (assim como acontece quando o advogado faz carga dos autos) e expressamente do resultado negativo do seu agravo de instrumento, pelo que desde então já lhe era possível manifestar sua irresignação através do recurso especial.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
