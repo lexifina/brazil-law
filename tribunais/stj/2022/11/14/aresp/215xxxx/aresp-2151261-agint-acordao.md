@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CR2 EMPREENDIMENTOS SPE-9 LTDA. e OUTRA, contra a decisão unipessoal, proferida pelo Ministro Presidente do STJ, que não conheceu do agravo em recurso especial que interpusera.
+Ação: de obrigação de fazer, cumulada com indenização por danos materiais e compensação por danos morais, ajuizada por SANDRO DAS NEVES VIEIRA, em face das agravantes, em virtude de descumprimento de contrato de compra e venda de imóvel.
+Sentença: julgou parcialmente procedente o pedido.
+Acórdão: conferiu parcial provimento à apelação interposta peloagravado, nos termos da seguinte ementa:
+Apelação. Contrato de compra e venda de imóvel. Empreendimento "Parques das Águas". Atraso na conclusão da construção de área de lazer externa, em que pretende o autor indenização pelos danos morais face a entrega em condições diversas da informada no momento da aquisição do imóvel e da escritura e atraso na entrega da unidade autônoma. Requer lucros cessantes, obrigação de fazer para entregar a área externa de lazer na forma do book ou conversão em perdas e danos e indenização por danos morais. A sentença condena as rés ao pagamento correspondente à cláusula penal moratória, a ser calculada na forma da cláusula "6.5" do contrato celebrado entre as partes, proporcional ao período de atraso compreendido entre outubro/2010 e 06/05/2011, e julga improcedentes os demais pedidos. Custas rateadas e honorários compensados. Apelação autoral requer a reforma para julgar procedente o pedido de conversão da obrigação de fazer em perdas e danos e indenização por danos morais, com alteração da sucumbência. Empreendimento com previsão de entrega para outubro de 2010, observado o prazo de tolerância,tendo o autor recebido as chaves em maio de 2011. E área de lazer efetivamente recebida pelo condomínio em outubro de 2014. Atraso na entrega da unidade que foi confirmada por sentença em que não houve recurso pelos réus. Falha do serviço comprovada. Unidade adquirida para moradia, em que houve a quebra da expectativa quanto a data da entrega. Conversão da obrigação de fazer em perdas e danos que não prospera. Área de lazer entregue com atraso, mas com aceite pelo condomínio por assembleia, o que afasta a pretensão de obrigação de fazer. Divergência entre o book e o que foi efetivamente entregue com aceite pelo condomínio, ademais, existiram itens não inclusos no book que foram custeados pelas rés. Cláusula contratual prevendo a construção de área de lazer externa, denominada "parque". Entrega do parque em 2012 pelos réus, tendo havido o "não aceite" por divergência do projeto. Obrigação de entregar o empreendimento de forma integral, na forma ofertada e pactuada na escritura. Manifestação dos réus no curso da lide informando a entrega do parque na integralidade em 2014 o que acaba por confirmar a tese autoral. Atraso de mais de 3anos, que enseja o dever de indenizar a título de danos morais. Frustração da expectativa de uso pleno do bem. Quantum arbitrado em R$5.000,00 que se mostra condizente com os princípios da proporcionalidade, da razoabilidade e evitando oenriquecimento sem justa causa diante das peculiaridades do caso concreto. Precedentes. Sucumbência alterada ante o provimento parcial do recurso do autor. Recurso parcialmente provido.
+Recurso especial: alegam a violação de dispositivos legais, bem como dissídio jurisprudencial.
+Decisão de admissibilidade: inadmitiu o recurso especial, com fundamento na incidência doóbicedaSúmula7/STJ.
+Agravo em recurso especial: afirmam, genericamente, que não pretendem o reexame de fatos e provas.
+Decisão agravada: não conheceu do agravo em recurso especial, em virtude da incidência do óbice da Súmula 182/STJ.
+Agravo interno: argumentam que impugnaram a incidência doóbicedaSúmula 7/STJ.
+É o relatório.
+EMENTA
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INÉPCIA.
+1. Ação de obrigação de fazer, cumulada com indenização por danos materiais e compensação por danos morais.
+2. O agravo em recurso especial, interposto contra decisão denegatória de processamento de recurso especial, que não impugna, especificamente, os fundamentos por ela utilizados não deve ser conhecido.
+3. Agravo não provido.
+VOTO
+A decisão agravada não conheceu do agravo em recurso especial interposto pela agravante, devido à ausência de impugnação específica de todos os fundamentos invocados na decisão denegatória de processamento do recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que as agravantes não trouxeram qualquer argumento capaz de ilidir a conclusão da decisão agravada.
+Com efeito, da leitura do agravo em recurso especial, observa-se que, naquela ocasião, as agravantes se limitarama trazer alegações genéricas, mas não rebateram, de forma consistente e específica, a incidência doóbicedaSúmula7/STJ.
+Nesse contexto, mostra-se correto o não conhecimento do agravo em recurso especial, haja vista que, em atenção ao princípio da dialeticidade, cumpre à parte agravante o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão agravada.
+Descumprido esse ônus, ou seja, se ausente a impugnação pontual e consistente de todos os fundamentos utilizados pelo Tribunal de origem para obstar o seguimento do recurso especial, o conhecimento do recurso é, de fato, inadmissível, a teor do disposto na Súmula 182 deste Tribunal e nos arts. 1.021, § 1º, do CPC/2015 e 259, § 2º, do RISTJ.
+Saliente-se, por oportuno, que as razões do agravo interno não se prestam a sanar a deficiência do agravo não conhecido, em razão da preclusão consumativa operada pela interposição do recurso antecedente. Nesse sentido: AgInt no AREsp 936.439/SP, 3ª Turma, DJe de 22/03/2017.
+A decisão agravada, portanto, não merece reforma.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
