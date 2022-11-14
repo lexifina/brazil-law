@@ -1,0 +1,21 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+DAIANA VIEIRA DOS SANTOS agrava da decisão de fls. 167-168, em que indeferi liminarmente o recurso em habeas corpus, dada a inadequação da via eleita para o pleito.
+Para tanto, assere que, " e m nenhum momento, a recorrente pediu que o recurso ordinário fosse provido para o Superior Tribunal de Justiça se pronunciar sobre a matéria de fundo, não obstante possa o Ministro Relator entender que há flagrante ilegalidade e assim conceder "habeas corpus" de ofício com supressão de instância" (fl. 171).
+Requer, assim, que "o agravo regimental, após o juízo de retratação, seja colocado em mesa, dando-se-lhe provimento para que o recurso ordinário em "habeas corpus" seja apreciado na forma como foi interposto" (fl. 171).
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. MANDAMUS ORIGINÁRIO SUBSTITUTIVO DE REVISÃO CRIMINAL E AGRAVO EM EXECUÇÃO. DESVIRTUAMENTO DO HABEAS CORPUS. IMPOSSIBILIDADE DE CONHECIMENTO DO WRIT. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, a Corte de origem salientou a possibilidade do manejo da via adequada para a obtenção do intento defensivo ou, ao menos, de uma resposta jurisdicional da instância ordinária, de modo que qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pela impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e o alargamento inconstitucional de sua competência para julgamento de habeas corpus.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já apontado na decisão vergastada, a agravante alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 2119591-53.2022.8.26.0000, em que não foi conhecido o mandamus, dada a inadequação da via eleita.
+Consoante apontado no acórdão em questão, "a condenação imposta à paciente já transitou em julgado, sendo que a única via possível para tentar discutir a aplicação do princípio da insignificância à hipótese, caso se entenda que ocorreu alguma das hipóteses taxativas do art. 621 do CPP, é a da Revisão Criminal.  ..  a apreciação da questão suscitada envolveria, inclusive, valoração probatória e pronunciamento de mérito que escapam ao campo do presente procedimento de contraditório mitigado" (fl. 133, destaquei).
+Quanto ao outro pedido, relativo à reconversão da pena restritiva de direitos imposta à agravante, frisou também a Corte de origem que, " havendo  recurso próprio previsto em lei especificamente para a hipótese em tela (agravo de execução), não é viável conhecer do presente writ, também nesta parte, uma vez que a análise da questão configuraria, ainda, supressão de instância" (fl. 137, grifei).
+A esse respeito, releva salientar que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal - "prestigiando o sistema recursal ao tempo que preserva a importância e a utilidade do writ" (HC n. 320.306/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., Dje 11/10/2016) -, não admite que o remédio constitucional seja utilizado em substituição ao recurso próprio (apelação, recurso especial, recurso ordinário), tampouco à revisão criminal ou à medida cautelar, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+Logo, qualquer pronunciamento imediato desta Corte Superior quanto ao pleito vindicado pelo impetrante seria precoce, além de implicar a subversão da essência do remédio heroico e no alargamento inconstitucional de sua competência para julgamento de habeas corpus. Dessarte, mostra-se indevida a subversão do sistema recursal.
+À vista do exposto, nego provimento ao recurso.
