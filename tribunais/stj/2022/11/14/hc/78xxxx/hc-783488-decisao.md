@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de WESLEY RAMON LOPES DA SILVA SANTOScontra acórdão do Tribunal de Justiça do Estado do Piauí nos autos Recurso em Sentido Estrito0000155-17.2020.8.18.0069.
+Consta dos autos que o paciente foi preso preventivamente em 10/5/2020 e posteriormente pronunciadocomo incurso no art. 121, §2º, incisos. II, III e VI e §2º-A, inc. I c/c o art. 14, inc. II, ambos do CP.
+Contra essa decisão interpôs recurso em sentido estrito, pleiteando a desclassificação para o crime de lesão corporal, subsidiariamente, requereu o afastamento da qualificadora do meio cruel. O Tribunal negou provimento ao Recurso, em acórdão assim ementado (e-STJ fls. 33/34):
+EMENTA RECURSO EM SENTIDO ESTRITO. PROCESSUAL PENAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. DESCLASSIFICAÇÃO PARA O CRIME DE LESÃO CORPORAL. IMPOSSIBILIDADE DE REFORMAR A DECISÃO. IN DUBIO PRO SOCIETATE. INCOMPATIBILIDADE COM A ORDEM JURÍDICA CONSTITUCIONAL. MANUTENÇÃO DA QUALIFICADORA. RECURSO CONHECIDO E IMPROVIDO.
+1. A hipótese elencada para impugnar a decisão encontra fundamento no art. 581, II, do Código de Processo Penal, tratando- se de uma decisão que indiretamente conclui pela incompetência do júri, subtraindo a matéria do seu julgamento, sendo cabível, assim, orecurso em sentido estrito.
+2. Desclassificação. É recorrente a utilização do princípio in dubio pro societate como fundamento para evitar uma desclassificação que beneficie o réu. No entanto, tal princípio é incompatível com as diretrizes processualistas no âmbito penal no Brasil e vem sendo rejeitado pela doutrina e pela jurisprudência pátria.
+3. Existindo dúvida quanto aos delitos imputados na denúncia e indícios suficientes a ensejar a acusação pelo delito de tentativa de homicídio qualificado, há que se perpetrar a desclassificação, enfatizando-se que, nesta fase processual, não se aplica o princípio do "in dubio pro societate".
+4. Havendo indícios de autoria e prova da materialidade, os quais restaram admitidos pelo magistrado singular, não há que se reformar a decisão proferida pelo magistrado a quo.
+5. Somente é possível afastar as qualificadoras na decisão de pronúncia quando manifestamente improcedentes e descabidas, haja vista que a decisão acerca da sua caracterização ou não deve ficar a cargo do Conselho de Sentença.
+6. In casu, não é possível a exclusão da qualificadora na pronúncia, uma vez que não demonstrada a manifesta improcedência das mesmas, o que enseja o seu exame pelo Tribunal Popular do Júri, sob pena de usurpação de competência
+7. Recurso conhecido e improvido.
+Na presente oportunidade, a defesa alega ausência dos requisitos para a prisão preventiva, ressaltando ser o paciente primário e com residência fixa.
+Sustenta, que o Magistrado não cuidou de elencar quaisquer fatos ou atos concretos que representassem minimamente a garantia da ordem pública, não havendo qualquer indicação de que seja o Paciente uma ameaça ao meio social. Inexiste qualquer registro de que o Paciente cause algum óbice à conveniência da instrução criminal, nem muito menos fundamentou sobre a necessidade de assegurar a aplicação da lei penal, não decotando, também, quaisquer dados (concretos) de que o Paciente, solto, poderá evadir-se do distrito da culpa ou oferecer algum risco(e-STJ fl. 06).
+Por fim, afirma que mesmo se condenado,a sanção com a causa de diminuição do art. 14, II do CPB e a detração de mais de 02 anos e 04 meses, não se permitiria o recolhimento em regime fechado, uma vez que primário, tal como ocorre, por equiparação, aos internos da Penitenciária Irmão Guido"(e-STJ fl.10).
+Assim, requer liminarmente e no mérito, a revogação da prisão preventiva do paciente.
+É o relatório, decido.
+Não há como prosseguir a irresignação, porque asteses levantadas no presente writ,não foramobjeto de prévio debate perante o Tribunal estadual.
+Assim, fica impedidoo exame direto por esta Corte, por configurar indevida supressão de instância. Como é cediço, Matéria não enfrentada na Corte de origem não pode ser analisada diretamente neste Tribunal Superior, sob pena de supressão de instância.(HC n. 378.585/SP, Relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/04/2017, DJe 20/04/2017).
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
