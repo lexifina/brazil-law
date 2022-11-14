@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DO PARANÁ, com respaldo naalínea"a"do permissivo constitucional, contra acórdão do Tribunal de Justiça daquela unidade federativa assim ementado (e-STJ fl. 815):
+APELAÇÃO CÍVEL - PROCESSUAL CIVIL - AÇÃO ORDINÁRIA COLETIVA - EXTINÇÃO DO PROCESSO AO FUNDAMENTO DE IMPOSSIBILIDADE DE DISCUSSÃO DE TRIBUTO EM AÇÃO COLETIVA - COMPENSAÇÃO DE DÉBITOS OBJETOS DE TERMO DE ACORDO DE PARCELAMENTO - DIREITO INDIVIDUAL HOMOGÊNEO - INAPLICABILIDADE DO DISPOSTO NO PARÁGRAFO ÚNICO DO ARTIGO 1º DA LEI Nº 7.347/1985 - RETORNO DOS AUTOS PARA REGULAR PROCESSAMENTO - RECURSO PROVIDO.
+Embargos de declaração rejeitados (e-STJ fls. 858/865).
+Em suas razões, a recorrente aponta violação do art. 1ºda Lei n. 7.347/1985e do art. 81, III, do CDC. Sustenta, em síntese, que "é possível, sim, enxergar direito individual homogêneo em relação jurídica tributária; porém, isso não derrui, por si só, a proibição constante do art. 1.º, Lei 7.347/85. Ainda que homogêneas, questões tributárias não podem ser objeto de ação coletiva. Simples assim. A proibição clara - a menos que seja considerada inconstitucional - não pode, evidentemente, ser interpretada como permissão. Negar expressamente o único conteúdo possível de uma norma jurídica, para lá de unívoca, a pretexto de realizar interpretação conforme, é negar o próprio Estado do Direito" (e-STJ fls. 880/881). Requer, assim, a extinção da ação, sem apreciação meritória.
+Contrarrazões às e-STJ fls. 900/917.
+Recurso especial admitido(e-STJ fls. 1.021/1.022).
+Passo a decidir.
+No presente caso, tem razão a parte recorrente.
+Na hipótese, cuida-se de ação coletiva ajuizada pelaFEDERAÇÃO DAS INDÚSTRIAS DO ESTADO DO PARANÁ - FIEP e pelo SINDICATO DA INDÚSTRIA DA CONSTRUÇÃO CIVIL DO ESTADO DO PARANÁ -SINDUSCON/PR, por meio da qual se busca(e-STJ fl. 40):
+b) seja declarada a ilegalidade do Artigo 1º, §4º, do Decreto Estadual sob n.º 8.470/2017, o qual vedou a compensação de débitos objetos de Termo de Acordo de Parcelamento (TAP) em curso, afastando-o do caso concreto, haja vista o desrespeito aos limites impostos pela própria Lei Estadual n.º 19.182/2017e a ofensa ao Artigo 99 do CTN;
+c) julgar procedente a ação, para o fim de declarar inconstitucionalidade, de modo incidental, do Artigo 1º, §4º, do Decreto Estadual sob n.º 8.470/2017, o qual vedou a compensação de débitos objetos de Termo de Acordo de Parcelamento (TAP) em curso, afastando-o do caso concreto, haja vista a ofensa ao Artigo 84, IV, da CF/1988 e ao Artigo 87, VI, da CE/89; a ofensa ao princípio da legalidade e ao princípio da separação dos poderes; e, ainda, a ofensa ao Artigo 105 do ADCT e ao princípio da reserva legal;
+d) em consequência, seja declarado o direito líquido e certo dos substituídos processuais quanto à compensação de seus débitos inscritos na Dívida Ativa do Estado do Paraná até 25 de março de 2015, e que, atualmente, constituem objetos dos TAPs, através de seus créditos de precatórios, na forma do Artigo 105 do ADCT, da regulamentação da Lei Estadual n.º 19.182/2017 e do próprio Decreto Estadual sob n.º 8.470/2017.
+Processo extinto, por sentença, sem apreciação meritória, em razão da impossibilidade de utilização de ação coletiva para a defesa de pretensão de natureza tributária.
+Apelação provida, para determinar o prosseguimento da demanda, em primeira instância.
+A irresignação merece prosperar.
+Com efeito, o entendimento do Tribunal de origem vai de encontro à jurisprudência dominante deste Superior Tribunal, que reconhece a existência de vedação legal à utilização de ação coletiva paraveicular pretensão de direito tributário.
+À guisa deilustração:
+PROCESSUAL CIVIL E TRIBUTÁRIO. LEGITIMIDADE DO MINISTÉRIO PÚBLICO PARA AJUIZAR AÇÃO CIVIL PÚBLICA SOBREMATÉRIA TRIBUTÁRIA.LEI N. 7.347/1985. VEDAÇÃO.
+I - O feito decorre de ação civil pública ajuizada pelo Ministério Público Federal para contestar a IN n. 988/2009 da Receita Federal que dispõe sobre a isenção de IPI e IOF na aquisição de veículos automotores por parte dos portadores de "deficiências físicas".
+II - O parágrafo único do art. 1º da Lei n 7.347/1985, que disciplina a ação civil pública, veda o ajuizamento da referida ação para veicular pretensões que envolvam tributos. A referida vedação direcionada ao tema impede a utilização daação coletivapara tutelar direito individual homogêneo disponível, e que pode ser defendido individualmente em demandas autônomas.
+III - Nesse contexto é inviável o ajuizamento de ação civil pública pelo Ministério Público para discutir a relação jurídico-tributária. Precedentes: REsp 1.541.275/PR, Relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 17/12/2015, DJe 18/12/2015 e AgInt no REsp 1.502.258/SP, Relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 23/9/2019, DJe 25/9/2019.
+IV - Matéria já apreciada por esta Primeira Seção (EREsp 505.303/SC, Rel. Ministro HUMBERTO MARTINS, PRIMEIRA SEÇÃO, julgado em 11/06/2008, DJe 18/08/2008) e na Corte Especial (AgRg na Pet 1.093/RS, Rel. Ministro NILSON NAVES, CORTE ESPECIAL, julgado em 24/10/2002, DJ 16/12/2002, p. 223 RSTJ vol. 166, p. 21).
+V - Refira-se, ainda, o tema 645, STF: "O Ministério Público não possui legitimidade ativa ad causam para, em ação civil pública, deduzir em juízo pretensão de natureza tributária em defesa dos contribuintes, que vise questionar a constitucionalidade/legalidade de tributo."
+VI - Embargos de divergência providos.
+(EREsp 1.428.611/SE, Rel. Min. FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe 29/03/2022).
+Ante o exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especialpara restabelecer a sentença, em todos os seus termos.
+Publique-se. Intimem-se.
