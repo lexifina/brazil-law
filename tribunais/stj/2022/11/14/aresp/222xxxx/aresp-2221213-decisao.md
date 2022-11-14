@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por BANCO BRADESCO S/Acontra decisão que negou seguimento aorecurso especial em relação aos juros remuneratórios, com fundamentonoart. 1.030,I,b, do CPC, e inadmitiu porque não demonstrada aviolaçãodos arts.489, § 1º, IV e V, e 1.022, I, II e III,do CPC.
+Alegaoagravanteque os pressupostos de admissibilidade do recurso especial foram atendidos.
+Aduz que, em relação às questões que tiveram seguimento negado em razão da aplicação de temas decididos em julgamento de recursos especiais repetitivos, estas foram impugnadas devidamente por agravo interno perante o Tribunal de origem e, por isso, o agravo em recurso especial é direcionado apenas à impugnação das questões que são de competência do Superior Tribunal de Justiça.
+Interposto agravo interno na origem, com fundamento no art. 1.030, § 2º, do CPC, a matéria relativa aos juros remuneratórios foi novamente apreciada, oportunidade em que se manteve o entendimento anteriormente adotado, tendo sido desprovido o recurso.
+É o relatório. Decido.
+O recurso especial, fundado no art. 105, III, a,da Constituição Federal, foi interposto contra acórdão prolatado peloTribunal de Justiça do Estado do Paraná em apelação nos autos de ação de ação de cobrança.
+Ojulgado foi assim ementado (fl. 357):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. EMPRÉSTIMO PESSOAL - INÉPCIA DA INICIAL. INOCORRÊNCIA.DOCUMENTOS QUE ACOMPANHAM A EXORDIAL MAIS QUE SUFICIENTES PARA DEMONSTRAR A ORIGEM DA DÍVIDA - REALIZAÇÃO DE PERICIA TÉCNICA.DESNECESSIDADE. JUROS REMUNERATÓRIOS.AUSÊNCIA DE CONTRATO E PACTUAÇÃO. LIMITAÇÃO À TAXA MÉDIA DIVULGADA PELO BACEN. NECESSIDADE - MAJORAÇÃO DOS HONORÁRIOS FIXADOS AO CURADOR ESPECIAL. IMPOSSIBILIDADE. VALORES QUE DEVEM SEGUIR OS PARÂMETROS DA RESOLUÇÃO CONJUNTA SEFA-PGE Nº 15/2019, NOS TERMOS DA LEI ESTADUAL Nº 18.664/2015. MONTANTE FIXADO MANTIDO A FIM DE SE EVITAR REFORMATIO IN PEJUS.
+Apelação Cível parcialmente provida.
+Opostos embargos de declaração, os quaisforam rejeitados (fls. 404-407).
+Nas razões do recurso especial, o ora agravante alegou violação dos arts.1.022, I, II e III e489, §1º, IV e V do CPC. Defende que o Tribunal a quo não se manifestou a respeito de questõesimprescindíveis à resolução da lide, ou seja (fl. 421):
+a) que não restou valorado nos autos, o fato de existir prática compatível com o mercado dos valores relativos as taxas de juros praticadas; b) obscuridade quanto ao motivo pelo qual houve a minoração das taxas de juros praticadas, pois não houve a indicação de diferenças, nem mesmo há regulamentação pelo órgão competente quanto à sua limitação, dessa forma entende que não há como ser imposta limitação de juros sem a comprovada abusividade.
+Aduz também violação dos arts. 4º da Lei n. 4.595 de 1.964 e373 do CPC. Sustenta que não há como impor à instituição financeira a limitação dos juros remuneratórios sem que ocorra a efetiva comprovação de abusividade.
+Invoca aSúmulan. 382 do STJ e a Súmula n. 596 do STF. Ressalta não ter sido aplicada a tese do Recurso Especial Repetitivo n. 1.061.530/RS.
+Requer o provimento do recurso a fim de que sejam afastadas as violações aos dispositivos legais tidos por violadose para que seja aplicado o repetitivo descrito.
+Passo, pois, à análise das proposições deduzidas.
+O recurso não merece prosperar.
+I - Da negativa de seguimento do recurso especial em relação à aplicação do entendimento firmado em recurso repetitivo - Juros remuneratórios
+De início, registre-se que a publicação do julgado ocorreu na vigência do Código de Processo Civil de 2015, a ensejar a apreciação dos requisitos de admissibilidade estabelecidos na atual legislação processual civil. É o que estabelece o Enunciado Administrativo n. 3 do STJ, a saber:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Outrossim, considerando as disposições previstas no art. 1.030, I, b, c/c o § 2º, é importante esclarecer que o conhecimento do apelo extremo por esta Corte ficarestrito à análise da matéria inadmitida pelo Tribunal de origem, com base no art. 1.030, V, do CPC.
+II- Arts.489, § 1º, IV e V, e 1.022, I, II, III, do CPC
+Afasta-se a alegada ofensa aos arts. 489, § 1º, IV e V, e 1.022, I, II, do CPC, visto que a Corte de origem examinou e decidiu, de modo claro, objetivo e fundamentado, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido.
+A propósito, a respeito das alegadas omissão e contradição nas razões recursais, verifica-se que o acórdão que apreciou os aclaratórios foi claro e expresso ao assim se manifestar (fls. 405-406):
+Alega o embargante existir contradição e obscuridade, sob o argumento de que não se levou em consideração que suas praticas comerciais estão compatíveis com ado mercado, nem mesmo restou demonstrada a razão da limitação das taxas de juros praticadas à taxa média divulgada pelo Bacen.
+Da simples leitura do julgado, verifica-se a inexistência dos vícios apontados.
+A resposta para as insurgências aqui manifestadas é muito simples e já constou do aresto impugnado. Ora, a autora ajuizou ação de cobrança para satisfazer seu crédito decorrente de contrato de empréstimo pessoal (mov. 1.1 e 1.8), contudo, não trouxe consigo o contrato assinado pela parte que pudesse fazer frente a contratação dos juros remuneratórios cobrados e impugnados em contestação.
+Assim, diante da ausência de comprovação de que os juros praticados foram os efetivamente contratados, foi dado parcial provimento ao recurso de apelaçãopara se limitar à taxa média divulgada pelo Bacen.
+Vale consignar que em momento algum no aresto constou que os juros praticados eram abusivos, sendo que o entendimento firmado pelo colegiado, para estes casos é no sentido de que, ausente o contrato, deve ser utilizada a taxa média de mercado(caso os juros praticados não sejam menores). Ou seja, diante da verificação através das séries do Bacen, de que as taxas praticadas estão acima das médias por ele divulgadas, é possível sua limitação, ante a ausência da prova de sua contratação, pois como se vê, o autor não trouxe com a inicial a prova escrita da pactuação, ou mesmo os documentos pertinentes à contratação eletrônica para confirmar as taxas de juros contratadas.
+Esclareça-se que o órgão colegiado não está obrigado a repelir todas as alegações expendidas no recurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Por fim, no que se refere à indicada violação do inciso III do art.1.022do CPC,verifica-se que, neste ponto, a parte recorrente limitou-sea indicar, de modo genérico, afronta ao mencionado dispositivo legal enão demonstrou em que ponto no acórdão proferido nos embargos de declaração restou configurado erro material.
+Desse modo, ante a impossibilidade de compreender a questão infraconstitucional arguida, aplica-se ao caso o disposto na Súmula n. 284 do STF.
+III - Conclusão
+Ante o exposto, conheço do agravopara conhecer em parte do recurso especial e negar-lhe provimento.
+Deixo de majorar os honorários recursais nos termos do § 11 do art. 85 do CPC, em razão da inexistência de prévia fixação na origem em desfavor da parte recorrente.
+Publique-se. Intimem-se.
