@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CONSTRUTORA SANTA CECÍLIA DO RIO DE JANEIRO LTDA. e SPE RIO 2014 INCORPORADORA E CONSTRUTORA LTDA., contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 04/03/2022.
+Concluso ao gabinete em: 25/07/2022.
+Agravo de instrumento: interposto por CAIO GLORIA PONTES e KÉTSIA JARDIM LEMOS PONTES, em face das agravantes, contra decisão interlocutória que determinou o recolhimento das despesas processuais, no prazo de 15 dias, sob pena de cancelamento da distribuição.
+Decisão monocrática: deu provimento ao agravo de instrumento interposto pelos agravados, para deferir a gratuidade da justiça em relação ao percentual das custas processuais pendentes de recolhimento.
+Acórdão: negou provimento ao agravo interno interposto pelas agravantes, nos termos da seguinte ementa:
+AGRAVO INTERNO EM APELAÇÃO. Insurge o agravante contra decisão monocrática que deferiu a gratuidade de justiça aos agravados/autores. Quadro probatório que aponta para a alegada hipossuficiência. Inexistência de novos argumentos, pretendendo o agravante o julgamento pelo colegiado. Questões já abordadas quando da decisão monocrática, que ora se mantém. NEGADO PROVIMENTO AO AGRAVO INTERNO.
+Embargos de declaração: opostos pelas agravantes, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, §1º, IV, 1.015 e 1.022, parágrafo único, do CPC/15.
+Afirma que deveriam ser apresentados os fundamentos pelos quais o Tribunal de origem entendeu pelo conhecimento e cabimento do recurso de agravo de instrumento interposto pelos agravados, visto que a decisão objeto de recurso "não tratou-se de indeferimento de benefício da gratuidade de justiça, essa sim prevista no art. 1.015, do CPC como passível de ser atacada via Agravo de Instrumento", mas de decisão interlocutória que "determinou o recolhimento das despesas processuais em 15 (quinze) dias, sob pena de cancelamento da distribuição" (e-STJ, fls. 174/175).
+Defende que a decisão que determinou o recolhimento das despesas processuais não poderia ser objeto de agravo de instrumento.
+É O RELATÓRIO. DECIDO.
+- Da negativa de prestação jurisdicional
+As razões recursais tecidas acerca da suposta omissão do TJ/RJ residem no argumento de que, apesar de instado a se manifestar por meio de embargos declaratórios, o órgão jurisdicional não teria se manifestado em relação às razões pelas quais entendeu pelo conhecimento e cabimento do recurso de agravo de instrumento interposto pelos agravados, considerando que a decisão objeto de recurso "não tratou-se de indeferimento de benefício da gratuidade de justiça, essa sim prevista no art. 1.015, do CPC como passível de ser atacada via Agravo de Instrumento", mas de decisão interlocutória que "determinou o recolhimento das despesas processuais em 15 (quinze) dias, sob pena de cancelamento da distribuição" (e-STJ, fls. 174/175).
+Da análise do processo, constata-se que o Tribunal de origem, ao julgar os embargos de declaração interpostos pelas agravantes, de fato, não se manifestou acerca da questão relativa ao conhecimento e cabimento do recurso de agravo de instrumento interposto pelos agravados, tendo em vista o argumento de que a decisão objeto recurso não estaria prevista no art. 1.015 do CPC/15 como passível de ser atacada via agravo de instrumento.
+Assim, fica reconhecida a omissão perpetrada pelo TJ/RJ em questão relevante, determinando o retorno dos autos àquele Tribunal para que se manifeste sobre o tema.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para: a) anular o acórdão que julgou os embargos de declaração interpostos pelas agravantes; e b) determinar a remessa dos autos ao TJ/RJ, a fim de que este se pronuncie, na esteira do devido processo legal, acerca da questão acima especificada.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMBARGOS DE DECLARAÇÃO INTERPOSTOS PERANTE O TRIBUNAL DE ORIGEM. OMISSÃO APTA, EM TESE, PARA A MODIFICAÇÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO. AUSÊNCIA DE APRECIAÇÃO.
+1. Agravo de instrumento interposto contra decisão interlocutória que determinou o recolhimento das despesas processuais, no prazo de 15 dias, sob pena de cancelamento da distribuição.
+2. Caracteriza-se a negativa de prestação jurisdicional nas hipóteses em que o Tribunal de origem, mesmo após a interposição de embargos de declaração, omite-se no exame de questão pertinente para a resolução da controvérsia.
+3. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, provido.
