@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Elizeu Paixão Nabarro contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do recurso em razão da incidência, por analogia, da Súmula n. 284 do Supremo Tribunal Federal, visto que não foi indicado o permissivo constitucional autorizador do recurso especial.
+Em suas razões, o agravante assevera a não incidência da Súmula 284/STF, sob a alegação de que demonstrou o cabimento do recurso especial peloart. 105, III, a, da Constituição Federal.
+Repisa a ocorrência de ofensa ao art. 85 do CPC/2015, haja vista o não cabimento de sucumbência em favor do advogado do agravado, tendo em conta que este foi desidioso ao não evitar a prescrição decorrente do abandono do processo.
+Sustenta a inaplicabilidade da Súmula n. 83/STJ, considerando-se que os precedentes citados na decisão de inadmissibilidade do recurso referem-se à fixação de honorários em favor do procurador do devedor, contudo, o recurso interposto se insurge contra a decisão que fixou honorários em favor do advogado que não trabalhou.
+Impugnação às fls. 710-711 (e-STJ), com pedido de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL. SÚMULA 284/STF. RECONHECIMENTO DA PRESCRIÇÃO INTERCORRENTE. PRETENSÃO DE FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS EM DESFAVOR DA PARTE EXEQUENTE. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. SÚMULA N. 83/STJ. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+1. O recorrente não indicou a alínea do dispositivo constitucional na qual se fundamenta o recurso especial, circunstância que impede o seu conhecimento, segundo o disposto na Súmula 284/STF. Precedentes.
+2. Conforme a jurisprudência do Superior Tribunal de Justiça, a extinção do processo executivo, ante o reconhecimento da prescrição intercorrente, não afasta o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para a parte exequente. Súmula n. 83/STJ.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+4. Agravo interno a que se nega provimento.
+VOTO
+A irresignação não merece prosperar.
+Com efeito, conforme asseverado na decisão agravada, o recorrente não indicou, na petição de encaminhamento do apelo especial interposto, a alínea do dispositivo constitucional na qual se fundamenta o recurso especial, circunstância que impede o seu conhecimento, segundo o teor da Súmula 284/STF.
+Na mesma linha de cognição:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MANDADO SE SEGURANÇA. ICMS POR SUBSTITUIÇÃO TRIBUTÁRIA. AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL. DEMONSTRAÇÃO INEQUÍVOCA DO CABIMENTO DO RECURSO ESPECIAL. EARESP 1.672.966/MG. ACOLHIMENTO RECURSAL. ANÁLISE DE LEGISLAÇÃO LOCAL. APLICAÇÃO DA SÚMULA 280 DO STF. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Cuida-se de agravo interno contra decisão que conheceu do agravo para não conhecer do recurso especial por incidência das Súmulas 280 e 284 do STF.
+2. Com relação ao não conhecimento do recurso especial por incidência da Súmula 284/STF ante a ausência de indicação da alínea do permissivo constitucional embasador do inconformismo, o agravo interno merece acolhimento.
+3. A Corte Especial firmou o entendimento de que "a falta de indicação expressa da norma constitucional que autoriza a interposição do recurso especial (alíneas a, b e c do inciso III do art. 105) implica o seu não conhecimento pela incidência da Súmula n. 284 do STF, salvo, em caráter excepcional, se as razões recursais conseguem demonstrar, de forma inequívoca, a hipótese de seu cabimento" (EAREsp 1.672.966/MG, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, DJe 11/05/2022).
+4. No presente caso, as razões do recurso especial conseguem demonstrar, de forma inequívoca, a hipótese de seu cabimento.
+5. Todavia, não merece prosperar o recurso especial quanto ao óbice da Súmula 280 do STF. Isso porque, para a resolução da controvérsia sobre a incidência do ICMS, imprescindível seria a análise de legislação local (Lei Estadual 1.320/2018 e arts. 391 e 430 do RICMS/SP) , providência vedada em recurso especial.
+6. Agravo interno parcialmente provido apenas para afastar a incidência da Súmula 284/STF. Mantém-se, no mais, a decisão agravada.
+(AgInt no AREsp n. 1.894.682/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 15/8/2022, DJe de 19/8/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE. AUSÊNCIA DE PARTICULARIZAÇÃO DA ALÍNEA EM QUE SE FUNDA A INTERPOSIÇÃO. NÃO ESPECIFICAÇÃO DOS DISPOSITIVOS LEGAIS EVENTUALMENTE VIOLADOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO DA SÚMULA 284 DO STF. DECISÃO MANTIDA.
+1. A jurisprudência do Superior Tribunal de Justiça orienta que, na interposição do recurso especial, com fundamento no art. 105, inciso III, da Constituição Federal, é preciso particularizar a alínea do dispositivo constitucional em que está fundado o recurso.
+2. A falta desse pressuposto configura deficiência de fundamentação, inviabilizando o conhecimento do recurso especial, ante a incidência da Súmula 284 do STF por analogia. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.817.491/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 21/2/2022, DJe de 25/2/2022.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. PRISÃO INDEVIDA. DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO DA ALÍNEA DO PERMISSIVO CONSTITUCIONAL QUE FUNDAMENTA A INTERPOSIÇÃO DO RECURSO ESPECIAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Na forma da jurisprudência, "a não indicação da alínea do permissivo constitucional embasador da irresignação do recurso especial revela a deficiência das razões do mesmo, atraindo, por analogia, a incidência da Súmula 284/STF" (STJ, AgInt no AREsp 920.625/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 26/04/2017), tal como ocorre, in casu. No mesmo sentido: STJ, AgRg nos EAREsp 278.959/MG, Rel. Ministro HUMBERTO MARTINS, CORTE ESPECIAL, DJe de 06/05/2016; AgInt no REsp 1.631.109/RR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 31/03/2017; AgInt na TutPrv no REsp 1.880.265/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 30/11/2020.
+III. Agravo interno improvido.
+(AgInt no AREsp n. 1.621.480/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 23/8/2021, DJe de 27/8/2021.)
+Dessa forma, correta a aplicação da Súmula 284/STF ao caso, uma vez que, como se verifica, o recurso especial apresentado está deficiente.
+Ademais, não havendo o agravante indicado a alínea do dispositivo constitucional na qual se fundamenta o recurso especial quando da interposição do recurso, é incabível fazê-lo no âmbito do agravo interno, considerada a preclusão consumativa.
+Observa-se que tal como decidido pelo colegiado de origem, a jurisprudência das Turmas de Direito Privado do Superior Tribunal de Justiça é firme no sentido de que, em caso de extinção da execução, por reconhecimento da prescrição intercorrente, é o princípio da causalidade que deve nortear o julgador para fins de verificação da responsabilidade pelo pagamento de honorários advocatícios e custas judiciais.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO POR QUANTIA CERTA. PRESCRIÇÃO INTERCORRENTE. EXTINÇÃO DA EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS EM FAVOR DO EXECUTADO. DESCABIMENTO. PRINCÍPIO DA CAUSALIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. "A extinção do feito por ocorrência da prescrição intercorrente por ausência de localização de bens não retira o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para o exequente. Precedentes" (AgInt no AREsp 1.355.818/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/03/2020, DJe de 02/04/2020).
+2. Descabe, portanto, a decretação de sucumbência da parte exequente, com a fixação de honorários advocatícios em favor do devedor executado, o qual já obteve por via da prescrição a vantagem de ver extinta sua obrigação.
+3. Do contrário, credores seriam transformados em devedores, numa absurda e injusta inversão da boa lógica, com estímulo à ocultação de bens pelos executados.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1895451/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/09/2021, DJe 01/10/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO INTERCORRENTE. HONORÁRIOS SUCUMBENCIAIS EM FAVOR DO ADVOGADO DA PARTE EXECUTADA. DESCABIMENTO. APLICAÇÃO DO PRINCÍPIO DA CAUSALIDADE. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. As Turmas que compõem a Segunda Seção desta Corte firmaram entendimento no sentido de que, na hipótese de extinção do processo pelo reconhecimento da prescrição intercorrente, é incabível, à luz do princípio da causalidade, a fixação de verba honorária em favor do executado. Precedentes.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1669665/MS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/08/2021, DJe 18/08/2021)
+Na hipótese, tendo o Tribunal de Justiça do Estado do Paraná julgado conforme a orientação jurisprudencial do Superior Tribunal de Justiça, incide o óbice da Súmula 83/STJ.
+Não merece ser acolhido o pedido, formulado pela parte agravada, de aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015, porquanto esta não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parteagravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que não ocorre na hipótese ora examinada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição de multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
