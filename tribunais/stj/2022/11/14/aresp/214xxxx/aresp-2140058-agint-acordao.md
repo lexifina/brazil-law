@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno manejado por CONDOMINIO DO EDIFICIO SOLAR DA HUILA contradecisão do Ministro Presidente do Superior Tribunal de Justiça que não conheceudorecurso especialem virtude de sua intempestividade.
+Nas razões do agravo interno, aparterecorrentedefendeque (e-STJ, fls. 192/193):
+De princípio cumpre esclarecer que o prazo para oferecimento do Recurso Especial interposto pelo recorrente teve termo a quo em 11/02/2022 e termo ad quem em 08/03/2022; considerando que nos dias 28 de fevereiro (segunda-feira de carnaval) e 02 de março (quarta-feira de cinzas) no Estado do Rio de Janeiro foram decretados Ponto Facultativo pelo Aviso TR nº 13 de 22/02/2022 (doc. incluso) e, no dia 01 de fevereiro (segunda-feira de carnaval) sendo feriado estadual por força da Lei nº 5.243 de 14/05/2008 publicada no DOE/RJ em 15/05/2008 (doc. incluso), e tendo sido o Recurso Especial apresentado no dia 08/02/2022, tem-se de contado 15 dias úteis, sendo, portanto, rigorosamente tempestivo.
+Nessa cadência, ganha relevo único o fato de não ter o recorrente produzido à prova de que nas datas supracitadas (28 de fevereiro e 01 e 02 de março de 2022) não houve expediente forense; não obstante e equivocadamente, em apertada síntese, o Ilustre Relator adotou a tese daintempestividade e, com arrimo no art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219 caput, negou seguimento ao recurso avocando a incidência do § 6º do art. 1003 que, ao seu sentir, ".. impossibilita a regularização posterior".
+Nesse diapasão, estando até aqui provado neste modesto arrazoado a tempestividade do recurso, cabe tão somente dissecar o § 6º do art. 1003, quanto ao cabimento da apresentação de prova superveniente para regularização do vício formal ocorrido no caso em concreto dos autos.
+É o relatório.
+EMENTA
+AGRAVO INTERNONOAGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIALINTEMPESTIVO. AUSÊNCIA DE COMPROVAÇÃO DE SUSPENSÃO DO EXPEDIENTE FORENSE. ADEQUAÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO NÃO PROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídiotrazido pelaparteagravante, capaz de alterar os fundamentos da decisão agravada,faz subsistir incólume o entendimento nela firmado.
+No caso, foi negado conhecimento aorecurso especial em virtude da intempestividadepor decisão assim proferida (e-STJ, fl. 187):
+Mediante análise do recurso de CONDOMINIO DO EDIFICIO SOLAR DA HUILA, a parte recorrente foi intimada do acórdão recorrido em 10/02/2022, sendo o recurso especial interposto somente em 08/03/2022.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+Com efeito,verifica-se que o posicionamento adotado pela Presidência deste Tribunal Superior, no que concerne à intempestividade dorecurso especial,está em consonância com a jurisprudência firmada pelo STJ, uma vez que esta Corte Superior adota o posicionamento de que "asexta-feira que antecede o Carnaval, a segunda-feira de Carnaval e aquarta-feira de Cinzasnão são feriados nacionais, sendo imprescindível a comprovação de suspensão do expediente forense na origem. Precedente."(AgInt no AREsp n. 1.614.905/BA, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/6/2022, DJe de 24/6/2022.).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL LOCAL. NÃO VINCULAÇÃO DO STJ. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. EXIGÊNCIA DE DOCUMENTO IDÔNEO. AGRAVO NÃO PROVIDO.
+1. O juízo de admissibilidade do recurso especial é bifásico. A decisão de admissibilidade proferida pelo Tribunal local não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do apelo nobre. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade mediante nova análise dos pressupostos recursais.
+2. A segunda-feira de carnaval e a quarta-feira de cinzas não são feriados forenses, previstos em lei federal, para os tribunais de justiça estaduais, sendo imprescindível a comprovação de eventual suspensão do expediente forense. Precedentes.
+3. O artigo 1.003, § 6º, do CPC/2015, estabelece que o recorrente comprovará a ocorrência de suspensão processual, feriado local ou de sua prorrogação no ato de interposição do recurso, o que impossibilita a regularização posterior.
+4. No julgamento do REsp. 1.813.684/SP, a Corte Especial reafirmou o entendimento segundo o qual é necessária a comprovação, no ato de interposição do recurso, da existência de feriado local por meio de documento idôneo. Todavia, segundo a modulação de efeitos determinada no referido recurso, admitiu-se a comprovação posterior da tempestividade dos recursos dirigidos ao STJ, protocolados até 18/11/2019, em relação ao feriado da segunda-feira de carnaval.
+5. A prova de feriado local ou da suspensão de prazos processuais no Tribunal local deve ser feita pela parte interessada por meio de documento idôneo no ato de interposição do recurso. Print de tela de computador ou imagem de página extraída de internet não serve para tal finalidade. Precedentes.
+6. Não tendo havido a comprovação de feriado local ou suspensão de expediente forense no Tribunal de origem por meio de documento idôneo no ato da interposição do recurso especial, e, ademais, considerando que a hipótese em tela não incide na modulação de efeitos delineada pela Corte Especial no REsp 1.813.684/SP, não há como ser afastado o decreto de intempestividade do recurso.
+7. Agravo interno não provido.
+(AgInt nos EDcl no AREsp n. 1.947.594/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2022, DJe de 17/2/2022, grifei.)
+No mais, ressalta-se que a jurisprudência desta Corte Superior é firme no sentido de que "aparte recorrente deve comprovar a existência do feriado ou o ato de suspensão por meio de documentação idônea, no ato deinterposiçãodo recurso, o que impossibilita a regularizaçãoposterior,não servindo a essa finalidade mera menção, no corpo da petição, da existência de legislação ou ato normativo. Precedentes."(AgInt no AREsp n. 1.947.844/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022.).
+Destarte, em que pesem as razões desenvolvidas pelaparteno presente agravo interno, não foram trazidos argumentos capazes de alterar a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo àaplicação de MULTA por conduta processual indevida (art. 1.026, § 2º, doCPC/2015).
+É o voto.
