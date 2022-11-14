@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por MUNICÍPIO DE MUCURIcontra decisão de minha lavra, e-STJ fls. 3514/3517,em queconheci em parte do recurso especial e, nessa extensão, neguei-lhe provimento, considerando a ausência de negativa de prestação jurisdicional e o fundamento eminentemente constitucional do julgado recorrido.
+Sustenta a parte recorrente, inicialmente, que houve ofensaaos 1.022, inciso II, e 489, § 1º, inciso IV, V e VI, do CPC/2015.
+Aduz, ainda, que, para analisar e constatar o mérito recursal é necessária a analise exclusivamente da legislação federal.No mais, reitera o mérito do apelo raro(e-STJ fl. 3.522/3.528).
+Impugnação apresentada às e-STJ fls. 3.555/3.557.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ARESTO COMBATIDO. FUNDAMENTO CONSTITUCIONAL. EXAME. INVIABILIDADE.
+1.Não se configura ofensa aosarts. 489 e 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+2.A Corte local dirimiu a controvérsia, relativa à distribuição de royalties ao Município/agravante, à luz de fundamento eminentemente constitucional(julgamento da ADI 4917), cujo exame compete tão somente ao Supremo Tribunal Federal por meio de recurso extraordináriojá interposto nos autos.
+3.Agravo interno desprovido.
+VOTO
+A decisão recorrida não merece reparos.
+Como ali registrado, não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto, no acórdão impugnado, o Tribunal a quo apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, contudo em sentido contrário à pretensão recursal, o que não se confunde com o vício apontado.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018).
+4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+Assim, ainda que a parterecorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+No mérito, o Regional decidiu a controvérsia relativa ao repasse de royalties de petróleo com lastro em fundamento eminentemente constitucional (julgamento da ADI 4917) cujo exame compete tão somente ao Supremo Tribunal Federal por meio de recurso extraordinário. jáinterposto às e-STJ fls. 3.353/3.369.
+Assim, dada a incompetência desta Corte para a revisão da matéria, o apelo extremo manejado revela-se manifestamente inadmissível.
+Sobre a hipótese:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. ROYALTIES.
+ARTS. 48, § 3º, E 49, § 7º, DA LEI 9.478/97, COM A REDAÇÃO DADA PELA LEI 12.734/2012. NOVOS CRITÉRIOS DE REPARTIÇÃO.
+SUSPENSÃO DE DISPOSITIVOS DA LEI 12.734/2012, EM SEDE DE MEDIDA CAUTELAR, PELO STF, NA ADI 4.917/DF. MATÉRIA DECIDIDA, NA ORIGEM, COM BASE EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. PRECEDENTES DO STJ, EM CASOS IDÊNTICOS. AGRAVO INTERNO IMPROVIDO I. Agravo interno aviado contra decisão que julgara Recurso Especial interposto contra decisum publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de Mandado de Segurança, impetrado pelo Município de Brejo Grande/SE, contra ato do Superintendente de Participações Governamentais da ANP - Agência Nacional do Petróleo, Gás Natural e Biocombustíveis, para impugnar o ato da ANP que deu aplicabilidade à nova sistemática de repartição de royalties, definida pela Lei 12.734/2012, a despeito da medida cautelar deferida, pelo STF, nos autos da Ação Direta de Inconstitucionalidade 4.917/DF. O Tribunal de origem concedeu a segurança, para determinar que a autoridade impetrada mantenha os cálculos dos royalties de acordo com a sistemática prevista na Lei 9.478/97, com a redação anterior à que foi dada pela Lei 12.734/2012, o que ensejou a interposição do presente Recurso Especial, pela ANP.
+III. O Tribunal de origem pautou-se na declaração de inconstitucionalidade, pelo seu Órgão Especial, dos arts. 48, § 3º, e 49, § 7º, da Lei 9.478/97, com a redação dada pela Lei 12.734/2012. O Tribunal a quo solucionou a controvérsia, na referida Arguição de Inconstitucionalidade, interpretando o alcance da decisão proferida pelo STF, na ADI 4.917/DF, que, em medida cautelar, suspendera a eficácia de dispositivos da Lei 9.478/97, alterados pela Lei 12.734/2012. Destacou que a interpretação no sentido de que é devido o pagamento de royalties a entes federativos que não participem da cadeia de produção do petróleo e gás natural ou sejam afetados pela mesma viola o princípio da isonomia, em sua perspectiva material. Concluiu que, apesar de a aludida suspensão não alcançar os dispositivos objeto da aludida Arguição de Inconstitucionalidade, deve-se considerar as razões que ensejaram a concessão, pelo STF, da referida medida cautelar, para reconhecer - como de fato reconheceu - a inconstitucionalidade do § 3º do a rt. 48 e do § 7º do art. 49 da Lei 9.478/97, alterados pela Lei 12.734/2012.
+IV. Esta Corte, em casos idênticos ao presente, tem concluído pela inviabilidade do exame da questão - decidida, pelas instâncias ordinárias, com fundamento na medida cautelar deferida, pelo STF, nos autos na ADI 4.917/DF, e na declaração de inconstitucionalidade, pelo Órgão Especial do Tribunal de origem, do § 3º do art. 48 e do § 7º do art. 49 da Lei 9.478/97, alterados pela Lei 12.734/2012 - no âmbito do Recurso Especial, sob pena de invasão da competência do STF. Precedentes do STJ: AgInt no REsp 1.679.209/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/06/2019; AgInt no REsp 1.663.559/RJ, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 25/09/2019; REsp 1.808.255/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 22/10/2019.
+V. Dessa forma, havendo Recurso Extraordinário regularmente admitido, na origem, compete ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, no mérito, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+VI. Agravo interno improvido.
+(AgInt no REsp n. 1.770.688/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 21/9/2020, DJe de 25/9/2020.)
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
