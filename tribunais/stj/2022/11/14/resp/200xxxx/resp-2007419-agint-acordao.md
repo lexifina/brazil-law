@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 08/11/2022 a 14/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se Agravo Interno contra decisão que conheceu parcialmente do Recurso Especial, apenas com relação à apontada afronta ao art. 1.022 do CPC, e, nessa parte, negou-lhe provimento.
+A causa teve origem em Embargos à Execução Fiscal julgados improcedentes. A Corte de origem, ao manter a sentença, entendeu que a multa aplicada pelo Procon - em razão de descontos recorrentes de empréstimos consignados não contratados por consumidora - observou os critérios de razoabilidade e proporcionalidade.
+A decisão ora agravada, além de afastar a suposta violação ao art. 1.022 do CPC/2015, entendeu pela incidência da Súmula 7 do STJ como óbice ao conhecimento ao apelo nobre.
+Quanto à matéria preliminar, sustenta o agravante (fls. 447-448, e-STJ):
+Não obstante às claras omissões apontadas nos embargos declaratórios ao v. acórdão embargado, a Turma Julgadora local os rejeitou, com o singelo e infundado argumento de que se pretendia a modificação do julgado por meio de recurso inadequado, persistindo, portanto, em sua postura de não enfrentar diretamente as questões por meio deles suscitadas.
+(..) em consequência à omissão ora relatada, deixou de se expor, no decisum, a indispensável fundamentação relacionada às questões de fato e de direito postas à apreciação judicial.
+No que tange à incidência da Súmula 7 do STJ, aduz (fls. 442-443, e-STJ):
+Com a mais alta vênia, o AGRAVANTE, nas razões do Agravo em Recurso Especial, especialmente no tópico IV, impugnou especificamente a Súmula 7, motivo pelo qual, mui respeitosamente, merece ser reformada a decisão pela qual não se conheceu do recurso.
+Conforme esclarecido diversas vezes nos autos, o AGRAVANTE demonstrou expressamente que o recurso especial interposto pelo AGRAVANTE não busca a correção de erro de fato, mas, sim, de erro de direito, motivo pelo qual não merece prosperar a decisão ora agravada. Busca nova valoração jurídica de fatos incontroversos, diga-se, que não foram levados em consideração pelo E. Tribunal a quo.
+Ou seja, percebe-se, pois, que o que se pretende por meio deste recurso especial é apenas uma nova e correta interpretação (revaloração) jurídica de fatos incontroversos, o que não encontra óbice na vedação constante da Súmula nº 7 deste E. Superior Tribunal de Justiça, uma vez que é desnecessário reapreciar matéria de fato.
+Impugnação às fls. 454-457, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. MULTA APLICADA PELO PROCON. FIXAÇÃO. RAZOABILIDADE E PROPORCIONALIDADE. ART. 1.022 DO CPC. IMPUGNAÇÃO GENÉRICA. SÚMULA 284/STF. SÚMULA 7/STJ. FUNDAMENTO NÃO INFIRMADO ESPECIFICAMENTE. ARTIGO 1.021, § 1º, CPC/2015.
+1. A causa teve origem em Embargos à Execução Fiscal julgados improcedentes. A Corte de origem, ao manter a sentença, entendeu que a multa aplicada pelo Procon - em razão de descontos recorrentes de empréstimos consignados não contratados por consumidora - observou os critérios de razoabilidade e proporcionalidade.
+2. Sem precisa e clara indicação do vício em que teria incorrido a decisão embargada e das matérias sobre as quais deveria pronunciar-se a instância ordinária e sem específica demonstração da relevância delas para o deslinde da controvérsia, a afirmação genérica de afronta ao art. 1.022 do CPC/2015 atrai a incidência da Súmula 284 do STF.
+3. A impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica atribuída pelo Tribunal de origem e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não em simplesmente reiterar o Recurso Especial.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 11 de outubro de 2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+No que diz respeito à questão preliminar, observa-se que a parte recorrente, nas razões do presente Agravo Interno, limita-se a afirmar, de modo genérico, que o art. 1.022 do Código de Processo Civil foi violado, em razão de haver persistido a omissão na decisão aclaratória, deixando de apontar, de forma clara e precisa, o vício em que teria incorrido a decisão embargada.
+Assevera apenas ter oposto Embargos de Declaração no Tribunal a quo, sem indicar as matérias sobre as quais deveria pronunciar-se a instância ordinária, nem demonstrar a relevância delas para o deslinde da controvérsia.
+Em tais circunstâncias, o Agravo Interno, neste ponto, encontra óbice na Súmula 284/STF. Cito precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. SUPOSTA OFENSA AO ART. 1022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. (..)
+1. A alegação genérica de violação ao art. 1.022 do CPC/2015 atrai, por analogia, a incidência da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". (..).
+(AgInt no REsp 1.992.596/GO, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 5/9/2022)
+TRIBUTÁRIO. PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CPC/2015. APLICABILIDADE. ART. 1.022, II, DO CÓDIGO DE PROCESSO CIVIL DE 2015. ALEGAÇÕES GENÉRICAS. SÚMULA N. 284/STF. (..) ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..) II - Não se pode conhecer a apontada violação ao art. 1.022, II, do Código de Processo Civil de 2015, porquanto o recurso cinge-se a alegações genéricas e, por isso, não demonstra, com transparência e precisão, qual seria o ponto omisso, contraditório ou obscuro do acórdão recorrido, a sua importância para o deslinde da controvérsia, bem como o porquê não estaria devidamente fundamentado, o que atrai o óbice da Súmula 284 do Supremo Tribunal Federal, aplicável, por analogia, no âmbito desta Corte.
+(..)
+(AgInt no REsp 1.991.540/PB, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 18/8/2022)
+RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO. TÍTULOS DE CRÉDITO. CÉDULA RURAL PIGNORATÍCIA. EXECUÇÃO QUE DEVE SER APARELHADA COM O ORIGINAL DO TÍTULO EXECUTIVO. NATUREZA CAMBIAL. CIRCULARIDADE DO TÍTULO PREVISTA EM LEI.
+(..)
+3. Não se pode conhecer da apontada violação aos arts. 1.022 e 489 do CPC, pois as alegações que a fundamentam são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado, motivo pelo qual incide, na espécie, por analogia, a Súmula 284/STF.
+(..)
+(REsp 1.997.729/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 25/8/2022)
+No mais, constou da decisão agravada (fls. 432-433, e-STJ):
+No mérito, para melhor compreensão da controvérsia, transcrevo trecho do acórdão recorrido (e-STJ, fls. 296-300):
+(..) a Reclamação F. A 0913-047.468-1 tramitou junto ao PROCON na forma exigida pela lei, pois foram observados o contraditório e a ampla defesa, tendo o reclamado comparecido em audiência de conciliação, bem como houve apresentação de defesa e recurso administrativo do apelante devidamente apreciado e decidido de forma motivada pelo órgão competente, conforme documentos inseridos no Evento 1-OUT10 e seguintes, dos autos originários.
+Ressalto que a decisão administrativa impugnada relata bem os fatos, justificando as razões de seu convencimento, as quais levaram a responsabilização do apelante, visto que incorreu na prática infracional definida nos artigos 6º, 14 39, 42, § único e 46, todos do CDC, caracterizando, ainda, a violação descrita no artigo 12, incisos IV, V e VI e artigo 13, inciso I, do Decreto nº 2.181/1997.
+Portanto, no que se refere à regularidade do processo administrativo, não há nada nos autos que conduza à decretação da nulidade requestada, vez que o feito tramitou em observância aos ditames legais, ou seja, houve o exercício do direito ao contraditório e à ampla defesa, a decisão que culminou a aplicação da multa encontra-se devidamente fundamentada e a insurgência recursal foi apreciada pelo órgão competente.
+De outra banda, a penalidade pecuniária imposta pelo PROCON em face da instituição bancária, ora apelante, em decorrência de infração ao Código de Defesa do Consumidor, encontra amparo no artigo 56, inciso I:
+(..)
+Quanto ao valor da multa, tem-se que foi inicialmente fixada no importe de R$ 25.535,85 (vinte e cinco mil, quinhentos e trinta e cinco reais e oitenta e cinto centavos) levando-se em consideração o valor da reclamação e a natureza da infração, bem como o porte do fornecedor, tendo sido elevada ao dobro face às circunstâncias agravantes do artigo 26, inciso I (reincidência) e IV (tendo conhecimento deixar de tomar providências), do Decreto nº 2.181/1997, totalizando o valor de R$ 51.071,70 (cinquenta e um mil e setenta e um reais e setenta centavos), o qual se encontra dentro dos parâmetros estabelecidos pelas normas aplicáveis à espécie.
+(..)
+Assim, a penalidade administrativa aplicada não ostenta indícios de desproporcionalidade, inexistindo no processo administrativo vícios capazes de ensejar sua nulidade.
+Rever tal cenário fático-probatório, a fim de acolher a pretensão do recorrente e reconhecer a alegada desproporcionalidade da multa imposta, demandaria necessariamente o reexame do conjunto dos fatos e das provas dos autos, procedimento inviável na via especial ante o óbice previsto na Súmula 7/STJ.
+Da leitura atenta do Agravo em Recurso Especial, verifica-se tópico específico (III.1. DA EXPRESSA IMPUGNAÇÃO QUANTO À AUSÊNCIA DE CONFRONTO COM A SÚMULA 07 DESTA COLENDA CORTE SUPERIOR). Contudo, a genérica reclamação de que "o recurso especial interposto pelo agravante não busca a correção de erro de fato, mas, sim, de erro de direito", ou de que "o que se pretende por meio deste recurso especial é apenas uma nova e correta interpretação (revaloração) jurídica de fatos incontroversos", não pode ser considerada ataque aos fundamentos da decisão de inadmissibilidade.
+A impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica atribuída pelo Tribunal de origem e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não em simplesmente reiterar o Recurso Especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO NÃO INFIRMADO ESPECIFICAMENTE. ARTIGO 1.021, § 1º, CPC/2015.
+1. Trata-se de Agravo Interno contra decisão da Presidência do Superior Tribunal de Justiça que não conheceu do Agravo em Recurso Especial por ausência de refutação específica a um dos fundamentos do juízo de admissibilidade (Súmula 7/STJ).
+2. Da leitura atenta do Agravo em Recurso Especial (fls. 154-160, e-STJ) verifica-se tópico específico (IV - DO REEXAME DE FATOS E PROVAS). Contudo, a genérica reclamação de que "todos os fatos constam do próprio acórdão recorrido", ou de que "não se verifica a aplicação do óbice da súmula 7 do STJ, ante a natureza exclusivamente jurídica das questões", não pode ser considerada ataque aos fundamentos da decisão de inadmissibilidade.
+3. A impugnação da Súmula 7/STJ pressupõe estrutura argumentativa específica, indicando-se as premissas fáticas admitidas como verdadeiras pelo Tribunal de origem, a qualificação jurídica atribuída pelo Tribunal de origem e a apreciação jurídica que lhes deveria ter sido efetivamente atribuída. O recurso daí proveniente deveria se esmerar em demonstrar efetivamente que a referida súmula não se aplica ao caso concreto, e não em simplesmente reiterar o Recurso Especial.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 1.790.197/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 1/7/2021.)
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
