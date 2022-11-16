@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ALAN SANTOS SILVA de decisão na qual concedo a ordem, de ofício, para fazer incidir a causa de diminuição do art. 33, § 4º, da Lei n. 11.343/2006 no grau máximo e estabelecer o índice de 1/6 pela majorante de envolvimento de menor, redimensionando a pena do paciente para 1 ano, 11 meses e 10 dias de reclusão, em regime semiaberto, mais pagamento de 194 dias-multa.
+A defesa alega que a quantidade de droga apreendida é pequena, e não há análise desfavorável das circunstâncias judiciais, o que permite a imposição do regime aberto e o deferimento da permuta legal.
+É o breve relato.
+Decido.
+Assiste razão à defesa.
+Estabelecida a pena definitiva em patamar inferior a 4 anos, o regime aberto é o adequado à prevenção e à reparação do delito, diante da primariedade do réu e da análise favorável das circunstâncias judiciais, nos termos do art. 33, § 2º, "c", e § 3º, do Código Penal.
+Nesse sentido:
+"HABEAS CORPUSSUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. REGIME FECHADO. PENA INFERIOR A 4 ANOS. PENA-BASE NO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. HEDIONDEZ DO DELITO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. SUBSTITUIÇÃO DA PENA POR RESTRITIVA DE DIREITOS. VEDAÇÃO. ART. 44, INCISO III, DO CÓDIGO PENAL. FUNDAMENTAÇÃO IDÔNEA.HABEAS CORPUSNÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. É pacífica nesta Corte Superior a orientação segundo a qual a fixação de regime mais gravoso do que o imposto em razão da pena deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal - CP ou de outro dado concreto que demonstre a extrapolação da normalidade do tipo, de acordo com o enunciado n. 440 da Súmula desta Corte, bem como os enunciados n. 718 e 719 da Súmula do Supremo Tribunal Federal.In casu, em razão da primariedade do paciente, doquantumde pena aplicado, inferior a 4 anos (art. 33, § 2º,"c", do CP), da inexistência de circunstância judicial desfavorável (art. 59 do CP), bem como da fixação da pena-base no mínimo legal, o regime a ser imposto deve ser o aberto. Precedentes.
+3. A quantidade e/ou natureza dos entorpecentes é fundamentação idônea para justificar a vedação da substituição da pena por medidas restritivas de direitos, de acordo com o disposto no inciso III do art. 44, do Código Penal, e em consonância com a jurisprudência desta Quinta Turma.
+Na hipótese, constata-se que, o Tribunala quofundamentou a vedação da substituição da pena por restritiva de diretos com base na gravidade concreta do delito, revelada pela variedade de drogas apreendidas.
+Habeas corpusnão conhecido. Ordem concedida, de ofício, para, ratificando a liminar anteriormente deferida, fixar o regime inicial aberto para cumprimento de pena."
+(HC 379.637/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/2/2017, DJe 24/2/2017).
+Pelas mesmas razões acima alinhavadas (primariedade do agente e circunstâncias judiciais favoráveis), é cabível a substituição da pena privativa de liberdade por restritivas de direito, a ser definida pelo Juízo de Execução, valendo-se anotar que esta Corte e o Supremo Tribunal Federal entendem que não existe óbice na Lei de Drogas para a concessão do citado benefício, quando preenchidos os requisitos legais do art. 44 do Código Penal.
+Cito, a propósito:
+" ..
+3. O STF, ao julgar o HC n. 111.840/ES, por maioria, declarou incidentalmente a inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/1990, com a redação dada pela Lei n. 11.464/2007, afastando, dessa forma, a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados.
+4. Com base no julgamento do HC 97.256/RS pelo STF, declarando incidentalmente a inconstitucionalidade do § 4º do art. 33 e do art. 44, ambos da Lei n. 11.343/2006, o benefício da substituição da pena passou a ser concedido aos condenados pelo crime de tráfico de drogas, desde que preenchidos os requisitos insertos no art. 44 do Código Penal.
+5. Hipótese em que a sentença, mantida pelo acórdão que julgou a apelação, referiu-se apenas à gravidade abstrata do tráfico de drogas para fixar o regime inicial fechado e negar a substituição da pena privativa de liberdade por restritiva de direitos.
+6. Oquantumda condenação (1 ano e 8 meses), a primariedade e a análise favorável das circunstâncias judiciais permitem à paciente iniciar o cumprimento da pena privativa de liberdade no regime aberto, conforme art. 33, § 2º, alínea "c", do CP, além da substituição por restritiva de direitos.
+7.Habeas corpusnão conhecido. Ordem concedida, de ofício, para fixar o regime inicial aberto, bem como substituir a p ena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo da Vara de Execuções Criminais."
+(HC 377.765/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 6/6/2017, DJe 13/6/2017).
+Ante o exposto, dou provimento ao recurso para estabelecer o regime inicial aberto ao cumprimento da pena de -1 ano, 11meses e 10 dias de reclusão e 194dias-multa, bem como parasubstituir a pena privativa de liberdade por restritivas de direito, a ser definida pelo Juízo de Execução.
+Publique. Intimem-se.
