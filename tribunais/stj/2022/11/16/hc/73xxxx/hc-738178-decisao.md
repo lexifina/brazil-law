@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado contra acórdão que denegou owritde origem.
+A paciente foi presa em flagrante em 27/1/2022, convertido em preventiva, sendo denunciada pela prática do delito tipificado no art. 157, § 2º, II e VII, do Código Penal.
+Argumenta a impetrante, em suma, que não se observou, quando do reconhecimento da ré, o rito previsto no art. 226 do CPP, além da ausência dos requisitos do art. 312 da mesma Lei.
+Quanto ao ponto, a defesa alega que "quanto ao reconhecimento pessoal por fotografia, que serviu de base ilegal para a prisão da Paciente, é preciso destacar que, em 27/01/2022, em seu primeiro depoimento, por volta das 14 horas, a vítima afirmou tão somente que foi abordada por 4 pessoas, sendo todas negras, deixando de informar maiores características físicas dos agentes. Já no auto de reconhecimento confeccionado às 17:16 horas, a vítima passa a indicar características mais completas da Paciente, restando fundadas dúvidas se não foi efetivamente INDUZIDA pela fotografia anteriormente lhe mostrada" (fl. 8).
+Assevera que, "como se não bastasse a contradição entre os depoimentos da vítima, o procedimento de reconhecimento feito em sede policial, que ensejou a prisão em flagrante, sequer observou as exigências legais do art. 226 do CPP, uma vez que adotou o modelo show-up (mostrando apenas suposta foto da Paciente), em detrimento do modelo line-up (no qual é o suposto autor do fato é colocado ao lado de outras pessoas com características físicas semelhantes). Assim sendo, é necessário se admitir que o reconhecimento foi sugestionado, não sendo apto a configurar o fumus comissi delicti" (fls. 8/9).
+Pugna, liminarmente e no mérito, pela revogação da custódia cautelar, ou sua substituição pelas medidas cautelares previstas no art. 319 do CPP, e o trancamento da ação penal.
+Indeferida a liminar eprestadas as informações, o Ministério Público Federal manifestou-se pelo não conhecimento dowrite, caso conhecido, pela denegação dohabeas corpus.
+Na origem, conforme mensagem eletrônica encaminhada pela Vara de origem, foi proferida sentença, em 4/7/2022, na qual foi a paciente condenada à pena de 6 anos de reclusão e 15 dias-multa, em regime fechado, mantida a custódia cautelar (fl. 139).
+Em consulta ao sítio eletrônico do Tribunal de origem verificou-se que foi providoo recurso de apelação interposto pela defesa da paciente no sentido de "absolver Kerolayni Pereira Meireles do delito previsto no art. 157, §2º, II e VII, do CP, por insuficiência de provas acerca da autoria, com fulcro no art. 386, VII, do CPP" (fls. 141-147), o que torna superada a discussão posta neste writ.
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se.
+Intimem-se.
