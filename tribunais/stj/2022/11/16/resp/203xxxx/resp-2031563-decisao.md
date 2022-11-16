@@ -1,0 +1,32 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por AYMORE CREDITO, FINANCIAMENTO E INVESTIMENTO S.A com arrimo no art. 105, inciso III, alíneas "a" e "c" da Constituição da República contra acórdão do Tribunal de Justiça do Estado da Paraíba (fl. 216):
+APELAÇÃO CÍVEL. AÇÃO DE REPETIÇÃO DE INDÉBITO. AÇÃO ANTERIOR COM PRETENSÃO COISA JULGADA ACOLHIDA NO JUIZADO ESPECIAL CÍVEL. PEDIDO DE DEVOLUÇÃO DE JUROS REMUNERATÓRIOS SOBRE TARIFAS. AUSÊNCIA DE REPETIÇÃO DE DEMANDA, NA ESPÉCIE. COISA JULGADA MATERIAL NÃO CONFIGURADA.
+- Observando-se que a parte autora pleiteou na ação que tramitou perante o Juizado Especial Cível, apenas a restituição das tarifas em si, os acréscimos a elas referentes corrigidos pelos mesmos índices aplicados pela instituição, podem ser pleiteados em ação autônoma, eis que não configurada a repetição de lide. Ausência de Coisa Julgada Material.
+JUROS REMUNERATÓRIOS SOBRE TARIFAS. CABIMENTO. ENCARGOS DECLARADAS ILEGAIS ACESSÓRIOS QUE SEGUEM A OBRIGAÇÃO PRINCIPAL. INTELIGÊNCIA DO ART. 184 DO CC. DEVOLUÇÃO SIMPLES. PROVIMENTO PARCIAL DO APELO.
+- Devem ser devolvidos os juros remuneratórios que incidiram sobreas tarifas e encargos a serem restituídos, a fim de evitar o enriquecimento sem causa.
+- A repetição em dobro do indébito, prevista no art. 42, parágrafo único, do Código de Defesa do Consumidor, tem como pressuposto de sua aplicabilidade a demonstração da conduta de má-fé do credor, o que fica afastado, no caso dos autos, ante a pactuação livre e consciente celebrada entre as partes.
+Opostos embargos de declaração, esses restaram rejeitados nos seguintes termos (fl. 250):
+EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. REQUISITOS DO ART. 1.022 DO CPC NÃO PREENCHIDOS. REDISCUSSÃO DA MATÉRIA. MEIO ESCOLHIDO IMPRÓPRIO.IMPOSIÇÃO DE MULTA. REJEIÇÃO
+- Os embargos de declaração não são adequados para reformar decisão judicial, a não ser que reste configurada ao menos uma das hipóteses dos incisos do art. 1.022 do CPC e, mesmo nesses casos, eventual reforma com efeitos infringentes ocorrerá excepcionalmente.
+- Nos termos do art. 1.026, § 2º, do CPC, "Quando manifestamente protelatórios os embargos de declaração, o juiz ou o tribunal, em decisão fundamentada, condenará o embargante a pagar ao embargado multa não excedente a dois por cento sobre o valor" atualizado da causa.
+Em suas razões de recurso especial, a recorrente alegou violação ao art. 337, §§ 1º, 2º e 4º, do Código de Processo Civil/2015, alegando a existência de coisa julgada. Acenou pela ocorrência de dissídio jurisprudencial. Requereu o provimento do recurso especial.
+Houve apresentação de contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial merece provimento.
+A Terceira Turma do Superior Tribunal de Justiça, analisando hipótese semelhante à dos autos, concluiu que o pleito abarcou também os encargos incidentes sobre as respectivas tarifas, da mesma forma em que se busca na ação subjacente, havendo, portanto, nítida identidade entre as partes, a causa de pedir e o pedido, o que impõe o reconhecimento da coisa julgada.
+A propósito:
+RECURSO ESPECIAL. CONTRATO DE FINANCIAMENTO DE VEÍCULO. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NULIDADE DE TARIFAS DECLARADAS EM SENTENÇA TRANSITADA EM JULGADA NO JUIZADO ESPECIAL CÍVEL. PEDIDO, NA AÇÃO SUBJACENTE, DE DEVOLUÇÃO DOS JUROS REMUNERATÓRIOS INCIDENTES SOBRE AS REFERIDAS TARIFAS. IMPOSSIBILIDADE. EXISTÊNCIA DE COISA JULGADA. PEDIDO FORMULADO NA PRIMEIRA AÇÃO QUE ABARCOU O MESMO PLEITO AQUI PRETENDIDO. EXTINÇÃO DO FEITO, SEM RESOLUÇÃO DE MÉRITO. RECURSO PROVIDO.
+1. Cinge-se a controvérsia a definir, além da eventual existência de negativa de prestação jurisdicional, se a declaração de ilegalidade de tarifas bancárias, com a consequente devolução dos valores cobrados indevidamente, determinada em ação anteriormente ajuizada no âmbito do juizado Especial Cível, forma coisa julgada em relação ao pedido de repetição de indébito dos juros remuneratórios incidentes sobre as referidas tarifas.
+2. Não há que se falar em negativa de prestação jurisdicional, pois o Tribunal de origem analisou todas as alegações suscitadas no recurso de apelação, afastando expressamente o reconhecimento da coisa julgada.
+3. Nos termos do art. 337, §§ 2º e 4º, do Código de Processo Civil de 2015, "uma ação é idêntica a outra quando possui as mesmas partes, a mesma causa de pedir e o mesmo pedido", sendo que "há coisa julgada quando se repete ação que já foi decidida por decisão transitada em julgado".
+4. Na hipótese, da forma como a autora formulou o pedido na primeira ação, já transitada em julgado e que tramitou perante o Juizado Especial Cível, consignando expressamente que buscava a devolução em dobro de todos os valores pagos com as tarifas declaradas nulas, é possível concluir que o pleito abarcou também os encargos incidentes sobre as respectivas tarifas, da mesma forma em que se busca na ação subjacente, havendo, portanto, nítida identidade entre as partes, a causa de pedir e o pedido, o que impõe o reconhecimento da coisa julgada.
+5. Não se pode olvidar que o acessório (juros remuneratórios incidentes sobre a tarifa) segue o principal (valor correspondente à própria tarifa), razão pela qual o pedido de devolução de todos os valores pagos referentes à tarifa nula abrange, por dedução lógica, a restituição também dos respectivos encargos, sendo incabível, portanto, nova ação para rediscutir essa matéria.
+6. Recurso especial provido. (REsp n. 1.899.115/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 5/4/2022, DJe de 8/4/2022.)
+Ante o exposto, com arrimo no art. 932, inciso V, do Código de Processo Civil, conheço e dou provimento ao recurso especial para restabelecer a sentença de primeiro grau.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA. NULIDADE DE TARIFAS DECLARADAS EM SENTENÇA TRANSITADA EM JULGADA NO JUIZADO ESPECIAL CÍVEL. PEDIDO DE DEVOLUÇÃO DOS JUROS REMUNERATÓRIOS INCIDENTES SOBRE AS REFERIDAS TARIFAS. IMPOSSIBILIDADE. EXISTÊNCIA DE COISA JULGADA.
+1. Entendimento, no âmbito da Terceira Turma do Superior Tribunal de Justiçano sentido de que o pedido de devolução em dobro de todos os valores pagos em razão da declaração de nulidade das tarifas bancáriasabarca também os encargos incidentes sobre as respectivas tarifas.
+2. RECURSO ESPECIAL CONHECIDO E PROVIDO.
