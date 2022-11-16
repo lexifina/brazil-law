@@ -1,0 +1,40 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem a este recurso, pode-se aferir que PARQUE HOTEL LAGO AZUL LTDA. (PARQUE) ajuizou ação de recuperação judicial, sob alegação de que a contínua queda das receitas e a estabilidade dos gastos com a manutenção do estabelecimento, aliadas à necessidade de reestruturação do empreendimento ensejaram a propositura da presente ação.
+Em primeiro grau, foi deferido à parte autora o prazo de vinte dias para apresentação de novo plano de recuperação judicial, com previsão objetiva de pagamento dos débitos, sendo posteriormente analisado o pleito de alienação das cotas sociais (e-STJ, fl. 53).
+Irresignado, PARQUE interpôs agravo de instrumento, que foi improvido pelo Tribunal de origem em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. FALÊNCIA. RECUPERAÇÃO JUDICIAL. PRAZO DE VINTE DIAS PARA APRESENTAÇÃO DE NOVO PLANO. CONDIÇÃO PARA O PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. POSSIBILIDADE.
+1. A parte agravante se insurgiu contra a decisão que determinou a apresentação de novo plano de recuperação no prazo de vinte dias,como condição para o processamento da recuperação judicial, sob pena de decretação da falência.
+2. O princípio da preservação da empresa, insculpido no art. 47 da Lei 11.101/2005, dispõe que a recuperação judicial tem por objetivo viabilizar a superação da situação de crise econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação daquela, sua função social e o estímulo à atividade econômica.
+3. Entretanto, adequada ao caso dos autos à decisão hostilizada, na medida em que a parte agravante, em processo de recuperação judicial, já usufruiu benefícios com a não convolação do procedimento em falência em face da ausência dos requisitos legais no plano inicialmente apresentado, o que importou na decisão judicial de não processamento do pedido, momento no qual foi oportunizada a apresentação de novo plano de recuperação judicial, de sorte que fossem sanados os vícios apontados naquele.
+4. Ademais, de modo algum a recuperação judicial pode manter uma empresa obsoleta e improdutiva, servindo o referido instituto como sucedâneo subterfúgio processual abusivo com vistas a postergar o pagamento dos credores e obrigações assumidas, desvirtuando o objetivo do procedimento ajuizado.
+Negado seguimento ao agravo de instrumento(e-STJ, fl. 105).
+Após a rejeição dos embargos declaratórios(e-STJ, fls. 129/135), PARQUEinterpôs recurso especial, apontando a violação dos seguintes dispositivos: (1) art. 535 do CPC/73, por considerar que o acórdão recorrido se quedou omisso quanto ao teor dos artigos adiante indicados; e (2) arts. 55, 56 e 58 da Lei 11.101/05, por considerar que não seria cabível a alteração ex officio do plano de recuperação judicial, cabendo ao magistrado agir apenas se provocado por algum credor, ocasião em que será convocada a respectiva assembleia.
+Em juízo de admissibilidade, a Terceira Vice-Presidência do Tribunal estadual negou admissão ao recurso, decisão contra a qual foi interposto agravo em recurso especial que foi provido pararetorno dos autos ao TJRS para analise da questão trazida nos aclaratórios.
+Retornando os autos, o TJRS não acolheu os Embargos de Declaração por meio do acórdão assim ementado:
+EMBARGOS DE DECLARAÇÃO. FALÊNCIA. RECUPERAÇÃO JUDICIAL. PRAZO DE VINTE DIAS PARA APRESENTAÇÃO DENOVO PLANO. CONDIÇÃO PARA O PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL. POSSIBILIDADE. AUSÊNCIA DE OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. PREQUESTIONAMENTO.
+1. A parte embargante prequestionou a matéria versada no apelo, objetivando a interposição de recurso à Superior Instância.
+2. O Julgador não está obrigado a se manifestar a respeito de todos os fundamentos legais invocados pelas partes, visto que pode decidir a causa de acordo com os motivos jurídicos necessários para sustentar o seu convencimento, a teor do que estabelece o art. 371 da novel lei processual civil.
+3. Ausência dos pressupostos insculpidos no art. 1.022 do novo Código de Processo Civil, impondo-se o Desacolhimentodo recurso.
+Embargos declaratórios desacolhidos(e-STJ, fl. 300).
+Irresignado, PARQUE interpôs recurso especial com base no art. 105, III, alíneasa e c, da CF, apontando além de dissídio jurisprudencial a violação dos arts. 1.022, II, parágrafo único, do NCPC; e 35, I, a, 47, 55, 56 e 58 da Lei nº 11.101/2005,ao sustentar:(1) anegativa de prestação jurisdicional consubstanciada naexistência de omissõesquanto a aplicação dos arts. 35, I, a, 47, 55, 56 e 58 da Lei nº 11.101, de 09/02/2005, bem como sobre a análise do plano apresentado na recuperação judicial, de forma expressa, específica e individualizada, pelo magistrado de primeira instância ou, sobre a sua submissão aassembleia geral de credorespara decidirsobre sua aprovação, rejeição ou modificação; (2)que o Juiz da Recuperação Judicial, caso considerasseirregular o plano apresentado, deveria submetê-lo à assembleia geral de credores, e não indeferi-lo de ofício(e-STJ, fls. 330/356).
+O recurso não foi admitido pelo TJRS(e-STJ, fls. 825/856).
+Nas razões do presente agravo,PARQUEalegou que não incidem os óbices apontados na decisão de inadmissibilidade (e-STJ, fls. 861/870).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperarpara o retorno dos autos ao TJRSa fim de que sejam analisadasas questões trazidas nos embargos de declaração.
+(1) Da negativa de prestação jurisdicional
+O TJRS, ao analisar os embargos de declaração, incorreu em negativa de prestação jurisdicional consubstanciada naexistência de omissões quanto a aplicação dos arts. 35, I, a, 47, 55, 56 e 58 da Lei nº 11.101, de 09/02/2005, bem como sobre a análise do plano apresentado na recuperação judicial, de forma expressa, específica e individualizada, pelo magistrado de primeira instância ou, sobre a sua submissão a assembleia geral de credores para decidir sobre sua aprovação, rejeição ou modificação.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se o TJRSa se manifestar sobre aquestãofederalterminou por negar prestação jurisdicional ao Recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012).
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Reconhecida a alegação de negativa de prestação jurisdicional, fica prejudicado o exame das demais questões suscitadas no recurso especial.
+Ante o exposto, CONHEÇO do agravo dePARQUE e DOU PROVIMENTOseu recurso especial, determinando o retorno dos autos ao TJRSa fim de que renove o julgamento dos embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC.FALÊNCIA. RECUPERAÇÃO JUDICIAL. AGRAVO DE INSTRUMENTO. OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. OMISSÕES. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
