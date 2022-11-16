@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 10/11/2022 a 16/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+Cuida-se de embargos de declaração (fls. 3019-3025), opostos pelo JORGE LUIZ DE CARVALHO, contra acórdão da Primeira Seção que denegou a segurança.
+A Primeira Seção do Superior Tribunal de Justiça assim decidiu a respeito da controvérsia apresentada no presente mandado de segurança (fls. 3001-3002):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. AGENTE ADMINISTRATIVO DO MINISTÉRIO DA FAZENDA. PAD. SERVIDOR PÚBLICO ACUSADO DE SE VALER DO CARGO PARA LOGRAR PROVEITO PESSOAL. EXCLUSÃO INDEVIDA DE RUBRICAS DE CONSIGNAÇÃO EM FOLHA DE PAGAMENTO. DEMISSÃO. AFRONTA AOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. NÃO OCORRÊNCIA. CORRELAÇÃO ENTRE OS FATOS INVESTIGADOS E A NORMA VIOLADA. OBSERVÂNCIA DOS PRINCÍPIOS DA AMPLA DEFESA, DO CONTRADITÓRIO E DO DEVIDO PROCESSO LEGAL. GRAVIDADE DA INFRAÇÃO. ORDEM DENEGADA.
+1. Mandado de segurança contra ato praticado pelo Ministro de Estado da Fazenda, que aplicou ao impetrante a penalidade de demissão do cargo de Agente Administrativo do referido Ministério, com base no art. 117, IX, c/c o art. 132, IV e XIII, da Lei n. 8.112/1990.
+2. O impetrante foi demitido por ter-se valido do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública, em razão de, na qualidade de Chefe do Setor de Ativos da Superintendência Administrativa do Ministério da Fazenda na Paraíba, ter realizado a exclusão indevida de rubricas referentes a empréstimos consignados tomados por servidores da SAMF/PB.
+3. O mandado de segurança detém entre seus requisitos a demonstração inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para dilação probatória na célere via do mandamus.
+4. Na hipótese, o impetrante não produziu provas com o propósito de exibir a regularidade material das exclusões por ele realizadas, não apresentando de forma cristalina que os valores suprimidos efetivamente não eram devidos à consignatária.
+5. A responsabilidade ficou evidenciada, porquanto se constatou a existência de regulamentação reiteradamente descumprida pelo impetrante de forma dolosa, que realizou 381 exclusões de empréstimos consignados; entre elas, 178 empréstimos consignados da própria folha de pagamento e 102 da folha de pagamento de sua esposa, assim agindo a fim de não efetuar o pagamento dos valores ajustados com a consignatária, de pagá-los posteriormente, ou mesmo de permitir a ampliação de sua margem de consignação.
+6. O controle jurisdicional do PAD restringe-se ao exame da regularidade do procedimento e à legalidade do ato, à luz dos princípios do contraditório, da ampla defesa e do devido processo legal, sendo-lhe defesa qualquer incursão no mérito administrativo, a impedir a análise e valoração das provas constantes no processo disciplinar (MS 16.121/DF, Primeira Seção, Rel. Min. Mauro Campbell Marques, DJe 6/4/2016).
+7. Compreendida a conduta do impetrante na disposição do art. 117, IX, da Lei n. 8.112/1990 - valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública -, não existe para o administrador discricionariedade para a aplicação de pena diversa da demissão. Precedentes.
+8. A aplicação da demissão ao impetrante atendeu aos princípios da razoabilidade e da proporcionalidade, não havendo que se falar em contrariedade ao art. 128 da Lei n. 8.112/1990, porquanto a medida é adequada e necessária, diante da gravidade da conduta praticada.
+9. Ordem denegada.
+O embargante alega que, ao ser estipulada a pena, foram violados os princípios da proporcionalidade e da razoabilidade, porquanto não foram analisados requisitos objetivos previstos no art. 128 da Lei n. 8.112/90 para aplicação de punição decorrente de ato de improbidade administrativa.
+A UNIÃO manifestou-se às fls. 3041-3048, alegando que a parte embargante não logrou demonstrar a presença de quaisquer das hipóteses de cabimento do recurso de embargos, apresentando, tão somente, conforme defende, mera irresignação quanto ao teor da decisão impugnada.
+Aduz, também, que, estando a conduta enquadrada no inciso IX do artigo 117 da Lei n.8.112/90, inexiste para o administrador discricionariedade que autorizasse a aplicação de pena diversa da demissão.
+É, no essencial, o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO MANDADO DE SEGURANÇA. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. NÃO CABIMENTO.
+1. Os embargos de declaração, recurso de natureza integrativa destinado a sanar obscuridade, contradição, omissão ou erro material, são incabíveis quando a parte embargante pretende apenas a obtenção de efeitos infringentes.
+2. As apontadas omissões configuram insurgência meritória, não aceitação da fundamentação exposta, e não omissão propriamente dita.
+3. Em vez da caracterização de alguma falha no julgado, os embargos ora em análise se propõem a alterá-lo em razão da discordância com a fundamentação apresentada.
+Embargos de declaração rejeitados.
+VOTO
+Primeiramente, importa ressaltar que os embargos de declaração, cujos pressupostos estão relacionados no art. 1.022 do Código de Processo Civil, visam a esclarecer obscuridade, eliminar contradição, suprir omissão a respeito de questão jurídica de especial relevância para o desate da lide ou corrigir erro material.
+Importa asseverar, de plano, que as apontadas omissões configuram na verdade insurgência meritória, não aceitação da fundamentação exposta, e não omissão propriamente dita.
+A parte embargante alega que faltou a aplicação da proporcionalidade e razoabilidade na aplicação da penalidade da demissão, mas não apontou, contudo, de fato omissões ou contradições na dita decisão. Ao contrário, tão somente apresenta inconformismo com a fundamentação desenhada no acórdão, discordando da conclusão de que não há prova pré-constituída de eventual erro administrativo na aplicação da pena demissória
+Vê-se que, ao apresentar os embargos de declaração, na verdade, em vez de caracterizar realmente alguma falha no julgado, objetiva mudá-lo por discordar com a fundamentação apresentada. Tal proceder argumentativo não é cabível no recurso de embargos de declaração, que não serve para insurgência contra o mérito da decisão.
+Nesse sentido, é evidente que os presentes embargos são incabíveis, pois veiculam pretensão exclusivamente infringente do julgado, sem o propósito específico de sanar obscuridade, contradição, omissão ou erro material. Confira-se julgado:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA SUSPENSÃO DE SEGURANÇA. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. NÃO CABIMENTO.
+1. Os embargos de declaração, recurso de natureza integrativa destinado a sanar obscuridade, contradição, omissão ou erro material, são incabíveis quando a parte embargante pretende apenas a obtenção de efeitos infringentes.
+2. Embargos de declaração rejeitados. (EDcl no AgInt na SS n. 3.135/BA, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 16/6/2020.)
+Destaque-se que o simples descontentamento com o decidido não leva ao cabimento dos embargos de declaração, recurso de rígidos contornos processuais que serve ao aprimoramento da decisão, mas não à sua modificação, que excepcionalmente é admitida.
+Ante o exposto, rejeito os embargos declaratórios.
+É como penso. É como voto.
