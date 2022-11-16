@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto peloMINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, manifestado em face de acórdão proferido pelo Tribunal de Justiça daquela Unidade Federativa no julgamento do Agravo em Execução Penal n. 1.0024.16.007090-0/003.
+Consta nos autos que o Juízo de origem declarou extinta a pena do Recorrido, nos termos do art. 82 do Código Penal, em razão do término do período de prova da suspensão condicional da pena sem que houvesse qualquer prorrogação ou suspensão (fl. 53).
+Irresignado, o Ministério Público estadual recorreu ao Tribunal de origem, que negou provimento ao agravo em execução penal (fls. 87-94).
+Nas razões do recurso especial, aponta-se ofensa aos arts. 77, 81 e 82, todos do Código Penal, sob o argumento de que, antes de declarar extinta a punibilidade do Recorrido, o Juízo de origem deveria ter apuradoeventuais causas de prorrogação ou revogação relativas a faltas ocorridas durante o período de prova.
+O recurso especial não foi admitido pelo Tribunal de origem em razão do óbice das Súmula n. 7 desta Corte Superior (fls. 234-241).
+O Ministério Público Federal opinou pelo conhecimento do agravo, a fim de que seja negado provimento ao recurso especial (fls. 306-310).
+É o relatório. Decido.
+O agravo é tempestivo e estão presentes os demais pressupostos de admissibilidade, razão pela qual passo à análise do recurso especial.
+O Juízo de origem, cuja sentença foi confirmada pelo Tribunal estadual, declarou extinta a punibilidade do Recorrido, nos seguintes termos:
+"Como se vê dos autos, ocorreu o transcurso do prazo da suspensão sem sua revogação ou suspensão. Com isso, implica-se automaticamente a extinção da pena, conforme artigo 82 do CP.
+Ante o exposto e findo o período de prova, nos termos do art. 66, II, da Lei de Execução Penal c/c artigo 82, do Código Penal, declaro extinta a punibilidade, da pena privativa de liberdade imposta ao sentenciado, oriunda dos autos aqui executados. Via de consequência, julgo extinta a presente execução." (fl. 53, sem grifos no original).
+Com efeito, as instâncias ordinárias decidiram em conformidade com a jurisprudência desta Corte Superior, que orienta no sentido de que, transcorridoo período de prova da suspensão condicionalda pena sem que tenha havido a sua prorrogaçãoou revogação, considera-se extinta a pena privativa de liberdade, nos termos do art. 82 do Código Penal.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SURSIS. EXTINÇÃO DA PENA. TÉRMINO DO PERÍODO DE PROVA SEM PRORROGAÇÃO. ART. 82 DO CÓDIGO PENAL. AGRAVO NÃO PROVIDO.
+1. "Inexistindo revogação ou prorrogação do período de prova, correta a decisão que extinguiu a pena, nos termos do art. 82 do Código Penal, segundo o qual, "expirado o prazo sem que tenha havido revogação, considera-se extinta a pena privativa de liberdade"(AgRg no REsp n. 1.468.840/RS, Relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2016, DJe 1º/2/2017) .
+2. Agravo regimental não provido."(AgRg no REsp n. 1.988.707/MG, Relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 21/06/2022, DJe 29/06/2022, sem grifos no original.)
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SURSIS. EXTINÇÃO DA PENA. ART. 82 DO CÓDIGO PENAL. TRANSCURSO DO PERÍODO DE PROVA SEM PRORROGAÇÃO.
+1. Conforme já decidiu esta Corte, "inexistindo revogação ou prorrogação do período de prova, correta a decisão que extinguiu a pena, nos termos do art. 82 do Código Penal, segundo o qual, "expirado o prazo sem que tenha havido revogação, considera-se extinta a pena privativa de liberdade"" (AgRg no REsp n. 1.468.840/RS, Relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2016, DJe 1º/2/2017).
+2. Diferente é o caso do sursis processual, previsto no art. 89 da Lei n. 9.099/1995. Somente em relação a esse instituto é que, "se descumpridas as condições impostas durante o período de prova da suspensão condicional do processo, o benefício poderá ser revogado, mesmo se já ultrapassado o prazo legal, desde que referente a fato ocorrido durante sua vigência"(REsp n. 1.498.034/RS, relator Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 25/11/2015, DJe 2/12/2015).
+3. Agravo regimental desprovido."(AgRg no REsp n. 1.362.871/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 27/4/2021, DJe 30/04/2021, sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SUSPENSÃO CONDICIONAL DA PENA. COMPARECIMENTO EM JUÍZO. DESCUMPRIMENTO. REVOGAÇÃO FACULTATIVA. PRORROGAÇÃO DO PERÍODO DE PROVA INDEFERIDA. EXTINÇÃO DA PENA PRIVATIVA DE LIBERDADE.
+I. O descumprimento da condição referente ao comparecimento em juízo é hipótese de revogação facultativa da suspensão condicional da pena. O juiz poderá, ainda, ao invés de decretá-la, prorrogar o período de prova.
+II. Na hipótese, contudo, o juiz considerou desnecessária a prorrogação do período de prova por ter decorrido quase cinco anos da condenação.
+III. Inexistindo revogação ou prorrogação do período de prova, correta a decisão que extinguiu a pena, nos termos do art. 82 do Código Penal, segundo o qual "Expirado o prazo sem que tenha havido revogação, considera-se extinta a pena privativa de liberdade".
+IV. Agravo regimental a que se nega provimento."(AgRg no REsp n. 1.468.840/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 15/12/2016, DJe 1º/02/2017, sem grifos no original.)
+No mesmo sentido, cito as seguintes decisões monocráticas:HC n. 760.911/MG, RelatorMinistro ROGERIO SCHIETTI CRUZ, publicada em 13/09/2022;HC n. 769.264/MG, Relator MinistroREYNALDO SOARES DA FONSECA, publicada em12/09/2022;HC n. 715.150/MG, Relator Ministro OLINDO MENEZES (Desembargador Convocado do TRF1ª REGIÃO), publicada em 03/02/2022; eREsp 1.960.599/MG, RelatorMinistro JOEL ILAN PACIORNIK, publicada em 09/12/2021.
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. SUSPENSÃO CONDICIONAL DA PENA. CAUSA FACULTATIVA DE REVOGAÇAO. ART. 82 DO CÓDIGO PENAL. TÉRMINO DO PERÍODO DE PROVA SEM PRORROGAÇÃO. EXTINÇÃO DA PENA. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
