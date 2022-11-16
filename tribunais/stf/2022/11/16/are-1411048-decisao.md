@@ -1,0 +1,33 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    Apelação Cível/Remessa Necessária — Administrativo e Processual Civil — Ação de Cobrança — Servidor Público Municipal — Médico Plantonista — Abono-desempenho previsto na Lei Municipal nº 3.925/95, mais reflexos — Sentença de procedência — Recurso da Fazenda-ré e Remessa Necessária — Desprovimento de rigor. Litispendência — Inocorrência. O fato de ter sido ajuizada ação coletiva pelo sindicato de trabalhadores não impede a tramitação de ação individual com o mesmo pedido — Opção do autor. Abono-desempenho — Caracterização do direito ao recebimento da referida verba e reflexos — Subsunção do fato à norma, adequação ao entendimento esposado no IRDR nº 0025690-41.2017.8.26.0000 e compatibilidade com o recebimento da verba prevista na Lei Municipal nº. 6.569/2009 (naturezas distintas) - Manutenção da sentença de rigor — Precedentes da Corte. Condenação da Fazenda Pública — Obrigação de pagar — Correção monetária e juros de mora — LF 11.960/09 — Com o julgamento do Recurso Extraordinário nº 870.947/SE, deve ser dado integral cumprimento ao decidido no julgamento do Tema 810, por ocasião da liquidação do julgado — Ônus de sucumbência mantidos, observada a majoração disposta no § 11, do artigo 85, CPC — Sentença mantida — Apelação e Remessa Necessária desprovidas.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso II; 18; 29, caput; 30, inciso I; 37, caput; 39; 169, § 1º, incisos I e II, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/3/2018)
+
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 16 de novembro de 2022.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
