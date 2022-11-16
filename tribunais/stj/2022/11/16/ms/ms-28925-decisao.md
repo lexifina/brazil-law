@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de mandado de segurança impetrado por DANIEL SILVA DE LIMA, com pedido de liminar, contra decisão proferida pelo Presidente do Tribunal de Justiça do Estado do Rio de Janeiro, o qual, em suspensão de liminar e antecipação de tutela, determinou que fossem suspensos os efeitos da decisão proferida pelo Juízo da 1ª Vara Cível da Comarca de Belford Roxo, que havia suspendido os efeitos do Decreto Legislativo n. 4.349 de 2021.
+O impetrante aduz, em suma, que a decisão judicial é teratológica porque não seria cabível, na espécie, a suspensão de liminar e antecipação de tutela. Argumenta que se trata de erro grosseiro e que deveria ter sido interposto agravo de instrumento na origem contra a decisão que revogou o citado decreto legislativo, o qual cassou o mandato do impetrante de forma arbitrária, sem o devido processo legal.
+A liminar foi indeferida às fls. 246-247.
+O Ministério Público Federal apresentou parecer opinativo, defendendo a extinção do mandado de segurança sem resolução do mérito, uma vez que o ato apontado como coator não se subsume em nenhuma das hipóteses de competência originária do Superior Tribunal de Justiça para a apreciação de mandado de segurança.
+Informações prestadas pela autoridade coatora às fls. 252-254.
+É, no essencial, o relatório.
+Segundo o art. 105, I, b, da Constituição Federal, que demanda interpretação restritiva, o Superior Tribunal de Justiça é competente para processar e julgar, originariamente, os mandados de segurança impetrados contra ato de ministro de Estado, dos comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal.
+Aplica-se ao caso, portanto, a Súmula n. 41 do STJ: "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos."
+Importa salientar que o entendimento desta Corte federal é no sentido de que o cabimento de mandado de segurança contra decisão judicial é admitido somente de forma excepcional, quando se tratar de ato manifestamente ilegal e/ou teratológico, se não houver instrumentos recursais próprios na via ordinária, previstos na legislação processual, de modo a impedir a lesão ou a ameaça de lesão a direito líquido e certo, cuja comprovação também dispensa instrução probatória, não sendo a hipótese dos autos, na qual há mera inconformidade com o resultado do julgado que lhe foi negativo, sendo utilizado o mandado de segurança, portanto, indevidamente como um sucedâneo recursal.
+Ressalte-se que a jurisprudência desta Corte federal é pacífica no sentido de que o mandado de segurança não pode ser utilizado como sucedâneo recursal, em decorrência do teor da Súmula n. 267 do STF, sob pena de desnaturação de sua essência constitucional.
+Segue transcrição de precedente:
+O mandado de segurança contra ato judicial é medida excepcional, cabível somente em situações nas quais pode se verificar, de plano, ato judicial eivado de ilegalidade, teratologia ou abuso de poder, que importem ao paciente irreparável lesão ao seu direito líquido e certo.
+(AgInt no MS 24.230/DF, Corte Especial, relator Ministro Felix Fischer, DJe de 13/9/2018.)
+Ante o exposto, julgo extinto o mandado de segurança, sem análise do mérito, em face da incompetência absoluta do Superior Tribunal de Justiça.
+Sem condenação em honorários (Súmula n. 105 do STJ).
+Publique-se. Intimem-se.
