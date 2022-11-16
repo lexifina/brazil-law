@@ -1,0 +1,38 @@
+DECISÃO
+Vistos etc.
+PORTOCRED S.A CREDITO FINACIAMENTO E INVESITMENTO interpõe agravo em face da decisão que inadmitiu o recurso especial, manejado diante do acórdão exarado pelo Tribunal de Justiça do Estado do Rio Grande do Sul, no curso do feito em que contende com SIMONE FAGUNDES MESSIAS ZANELLA, cuja ementa transcreve-se:
+APELAÇÃO CÍVEL. NEGÓCIOS JURIDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATO DE EMPRÉSTIMO PESSOAL. JUROS REMUNERATÓRIOS. ADOÇÃO DA TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN PARA AFERIÇÃO DO ALEGADO EXCESSO. CRITÉRIO JURISPRUDENCIAL PREVALENTE. EXCESSO CONFIGURADO. LIMITAÇÃO DEFERIDA. JURISPRUDÊNCIA INVOCADAS QUE NÃO POSSUEM CARÁTER VINCULANTE NA FORMA DO ART. 927,CPC. RISCOS DO NEGÓCIO JÁ EXISTENTES POR OCASIÃO DACONTRATAÇÃO, NÃO PODENDO TAL FATO SER TIDO COMO EXCEÇÃOQUE BENEFICIA A INSTITUIÇÃO FINANCEIRA. COMPENSAÇÃO E REPETIÇÃO DE INDÉBITO. POSSIBILIDADE NAFORMA SIMPLES. SÚMULA 322, STJ. APELO DESPROVIDO. UNÂNIME.
+Em suas razões, sustenta o recorrente a inaplicabilidade das Súmulas 05 e 07 do STJ, pois o propósito recursal consiste em demonstrar que a decisão exarada pelo juízo a quo está em manifesto confronto com outras decisões do Superior Tribunal de Justiça, inclusive o recurso repetitivo sobre a matéria, ao declarar a abusividade mediante mera comparação entre taxas contratadas, olvidando-se de uma análise mais minuciosa da contratação. Refere que o julgado recorrido limitou-se à declaração de que se verificou a existência de discrepância entre a taxa de juros contratada e a taxa média divulgada pelo Bacen, no período de cada contratação. Defende que se busca a interpretação da incidência e alcance da norma jurídica a ser aplicada no caso vertente, em especial diante da interpretação que o e. Tribunal de Justiça, ainda que implicitamente, deu ao art. 51, IV e §1º do Código de Defesa do Consumidor. Argumenta ser possível a revaloração jurídica dos fatos. Insurge-se com a aplicação da Súmula 83 do STJ, apontando precedentes. Requer o provimento do recurso.
+Foram apresentadas contrarrazões.
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial,
+passo à análise do recurso especial.
+Os fundamentos adotados pelo acórdão recorrido, diferentemente do que refere o agravante, não se limitaram a apontar a simples superação da taxa média de mercado para os juros remuneratórios da mesma espécie, consignando (e-STJ fl. 273):
+Com essas considerações, infere-se que, no caso concreto, pactuados juros remuneratórios de 4,72% ao mês, época em que a taxa média de mercado divulgada pelo BACEN foi de 1,37% ao mês (06/2020), Série Temporal nº 25467, Bacen. Logo, sendo manifesto o excesso, cabível a limitação.
+Depreende-se dos termos da decisão recorrida que houve análise específica e pormenorizada das taxas de juros praticadas na espécie, contrastando-as com a taxa média de mercado divulgada pelo BACEN, do que concluiu a Corte de origem a existência de abusividade.
+Neste contexto, elidir as conclusões do aresto impugnado quanto à validade dos juros remuneratórios, mormente a de que "manifesto o excesso, cabível a limitação"demandaria a reinterpretação de cláusulas contratuais, e o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor das Súmulas n. 05 e 07/STJ.
+A propósito, mutatis mutandis:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE REVISÃO CONTRATUAL. NEGÓCIOS JURÍDICOS BANCÁRIOS. JUROS REMUNERATÓRIOS. TAXA MÉDIA DE MERCADO. SIGNIFICATIVA DISCREPÂNCIA CARACTERIZADA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016)
+serão exigidos os requisitos de admissibilidade re cursal na forma do novo CPC.
+2. Afastar a afirmação contida no acórdão atacado no sentido de que a taxa de juros remuneratórios da avença é abusiva, demanda a reavaliação do acervo fático-probatório dos autos e a interpretação das cláusulas contratuais, o que é vedado no âmbito do recurso especial, nos termos das Súmulas nºs 5 e 7 desta Corte.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.066.464/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 12/9/2022, DJe de 14/9/2022.) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. 1. CAPITALIZAÇÃO DOS JUROS. POSSIBILIDADE DESDE QUE EXPRESSAMENTE PACTUADA. SÚMULA 539/STJ. CONTRATAÇÃO AFIRMADA PELO ACÓRDÃO RECORRIDO. SÚMULAS N. 5 E 7 DO STJ. 2. JUROS REMUNERATÓRIOS. TAXA MÉDIA DE MERCADO. SÚMULA 83/STJ. ABUSIVIDADE AFASTADA PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. Segundo o entendimento desta Corte, sedimentado no enunciado n. 539 da Súmula de jurisprudência, "é permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31/3/2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada".
+2. É possível, de forma excepcional, a revisão da taxa de juros remuneratórios prevista em contratos de mútuo, sobre os quais incide a legislação consumerista, desde que a abusividade fique cabalmente demonstrada, mediante a colocação do consumidor em desvantagem exagerada.
+3. Na hipótese, o Tribunal a quo, com base na análise das peculiaridades da presente demanda e das cláusulas contratuais, consignou a existência de contratação da capitalização de juros, bem como afastou a alegada abusividade da taxa de juros praticada pela instituição financeira.
+Portanto, infirmar as conclusões do acórdão recorrido esbarraria nos óbices das Súmulas n. 5 e 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.617.184/MS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 1/6/2020, DJe de 4/6/2020.) - g.n.
+A insurgência deduzida em recurso especial, portanto, não comporta trânsito, devendo ser mantida a decisão que negou-lhe seguimento.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER DO RECURSO ESPECIAL.
+Majoram-se em adicionais R$ 1.000,00 os honorários advocatícios fixados em prol do patrono da parte recorrida, à luz do art. 85, §11º do CPC.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO REVISIONAL DE DÉBITO. JUROS REMUNERATÓRIOS. AUSÊNCIA DE ABUSIVIDADE. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULAS N. 05 E 07/STJ.
+1. A pretensão recursal deduzida no recurso especial, relativa ao restabelecimento dos juros remuneratórios conforme pactuados, pressupõe reinterpretação de cláusulas contratuais e o revolvimento do conjunto fático-probatório dos autos, o que é vedado nesta sede especial a teor das Súmulas n. 05 e 07/STJ. Precedentes.
+2. Acórdão que analisou detalhadamente a contratação havida entre as partes e as taxas de juros remuneratórios praticadas, concluindo por sua abusividade, ao lhes contrastarcom a taxa média de mercado divulgada pelo Banco Central, em atenção aos elementos específicos dos autos. Insindicabilidade desta conclusão.
+5. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
