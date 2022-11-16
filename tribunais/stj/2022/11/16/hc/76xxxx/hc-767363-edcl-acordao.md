@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de embargos de declaração (e-STJ fls. 301/306) opostos por JOSÉ VIEIRA TORRES JÚNIOR e DAVID NÓBREGA DOS SANTOScontra acórdão assim ementado (e-STJfls. 286/287):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMAS E MUNIÇÃO.ILEGALIDADE DO FLAGRANTE. POSTERIOR CONVERSÃO DO FLAGRANTE EM PRISÃO PREVENTIVA. NOVO TÍTULO.ABORDAGEM POLICIAL PRECEDIDA DE DILIGÊNCIAS.ENTRADA EM DOMICÍLIO. NOTICIADA OCORRÊNCIA DE CRIME PERMANENTE. EXAME MAIS APROFUNDADO DAS TESES A SER FEITO NA ORIGEM. NÃO MITIGAÇÃO DA SÚMULA 691/STF. AGRAVO REGIMENTAL IMPROVIDO.
+1. Eventual ilegalidade do flagrante fica superada com a decretação da preventiva, que constitui novo título a embasar a prisão cautelar.
+2. Quanto ao primeiro recorrente, não se verifica ilegalidade em sua abordagem, pois precedida de investigações, a par da denúncia anônima, o que culminou com seu flagrante. Assim, a entrada dos policiais na residência se deu diante da notícia de ocorrência de crime permanente em seu interior, tudo em consonância com as investigações já em andamento em sede policial.
+3. As questões postas em exame demandam averiguação mais profunda pelo Tribunal estadual, no momento adequado. Portanto, verifica-se não ser o caso de superação do enunciado nº 691 da Súmula do Supremo Tribunal Federal.
+4. Agravo regimental improvido.
+Sustenta a defesa a existência de vícios no acórdão. Indica a ocorrência de contradição, pois embora reconhecida a incidência da Súmula 691/STF na hipótese, foi examinado o mérito da impetração - sem considerar os argumentos dos ora recorrentes -concluindo esta Corte pela regularidade da diligência policial levada a termo.
+Ademais, acrescenta ter havido omissão no decisum, pois embora existam dois agravantes no polo ativo do recurso, a decisão só levou em consideração situaçãojurídica de um deles, o primeiro. Destaca queO segundo agravante que teve a residência invadida a partir de informações obtidas em violação as Regras de Miranda (informações obtidas de preso sem a devida advertência do direito ao silêncio em ocasião de constrangimento situacional) não foi objeto de nenhuma consideração, notadamente na ementa. (e-STJfl. 304).
+Por fim, assevera que A informação obtida a partir de violação do ordenamento jurídico não serve como fundamento para violação de domicilio (e-STJfl. 304).
+Requer sejam sanados os vícios indicados e concedidos efeitos infringentes aos presentes embargos, para reconhecer a nulidade da diligência policial realizada.
+Pugna, ademais, pela intimação da defesa acerca da sessão de julgamento do presente feito para fim de sustentaçãooral.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. CONTRADIÇÃO E OMISSÃO.VÍCIOS. INEXISTÊNCIA. INCIDÊNCIA DO ENUNCIADO DA SÚMULA 691/STF. MENÇÃO AO QUE DECIDIDO NA INSTÂNCIA DE ORIGEM. EXAME DE MÉRITO NÃO VERIFICADO. EXPRESSA REFERÊNCIA À SITUAÇÃO JURÍDICA DE AMBOS OS RECORRENTES. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. A expressa menção ao que decidido pelo Tribunal de origem, de forma a afastar a incidência do enunciado da Súmula 691/STF, não encerra exame de mérito do writ, afastando a tese de contradição no acórdão.
+3. Verificando-se na decisão recorrida referência à situação jurídica de ambos os recorrentes, não há omissão a ser sanada.
+4. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+5. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaraçãosão cabíveis quando a decisão apresentar ambiguidade, obscuridade, contradição ou omissão.
+No caso, porém, a decisão embargada está devidamente motivada e não se verifica a existência de erro material ou de qualquer dos vícios listados no art. 619 do Código de Processo Penal, ante a ausência de ambiguidade, obscuridade, contradição ou omissão na decisão.
+Com efeito, a decisão recorridaconsignou quea abordagem de José Vieira foi precedida de investigações, a par da denúncia anônima, o que culminou com seu flagrante. Ademais, no que se refere a David Nóbrega dos Santos, os policiais entraram na residência diante da notícia de ocorrência de crime permanente em seu interior, tudo em consonância com as investigações já em andamento em sede policial (e-STJ, fl. 296). Tal afirmação não encerra exame de mérito, consoante afirmado pela defesa, senão síntese do que consta da decisão que indeferiu a liminar - transcrita na decisão ora recorrida -no Tribunal de origem. Daí se afastar a alegação de contradição no decisum.
+Tampouco se verifica omissão, extraindo-se da decisão recorrida expressa menção à situação jurídica deambos os recorrentes. Assim, daausência de menção ao segundo recorrentena ementa do julgado não se extrai omissão no julgado. A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1. OFENSA AO ART. 1.022 DO CPC. EXISTÊNCIA DE DISPOSITIVO PRÓPRIO NO CPP. DESNECESSIDADE DE ANALOGIA. AUSÊNCIA DE ESPECIFICIDADE. 2. OMISSÃO NA EMENTA. IMPROPRIEDADE DA INSURGÊNCIA. MATÉRIAS TRATADAS NO ACÓRDÃO. 3. AFRONTA AOS ARTS. 489, § 1º, DO CPC E 564, V, E 573, DO CPP. NÃO VERIFICAÇÃO. TÉCNICA PER RELATIONEM. FUNDAMENTAÇÃO ADEQUADA. 4. AFRONTA AO ART. 6º, I, II E III, E 158, DO CPP. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. 5. VIOLAÇÃO DOS ARTS. 147 E 157 DO CPP. AUSÊNCIA DE PROVAS ILÍCITAS. NÃO SUBSUNÇÃO. 6. AFRONTA AO ART. 414 DO CPP. EXAME QUE DEMANDA REEXAME FÁTICO. SÚMULA 7/STJ. 7. VIOLAÇÃO DO ART. 567 DO CPP. NÃO OBSERVÂNCIA DO HC 181.219/RS. NÃO OCORRÊNCIA. 8. OFENSA AO ART. 580 DO CPP. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 9. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. O CPP possui dispositivo específico que disciplina os embargos de declaração em matéria penal, motivo pelo qual não se faz necessária a utilização de dispositivo do CPC, ainda que autorizada sua utilização por analogia, porquanto não indicada nenhuma especificidade que justifique a utilização da norma processual civil.
+2. É cediço que a ementa é mero resumo do que consta dos votos proferidos pelos julgadores, estando à disposição das partes a íntegra das razões de decidir. Dessa forma, não há se falar em omissão na ementa, uma vez que, por se tratar de mero resumo, não tem a pretensão de trazer toda a matéria tratada no voto.
+ ..
+9. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.885.507/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/12/2021, DJe de 13/12/2021.)
+É manifesta, assim, a impossibilidade de acolhimento dos presentes aclaratórios,quando não demonstrada nenhuma das hipóteses do art. 619 do Código de Processo Penal.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS. OMISSÃO. INEXISTÊNCIA. REDISCUSSÃO DO JULGADO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS. PREQUESTIONAMENTO. JUNTADA DE MÍDIAS DA SESSÃO DE JULGAMENTO. NÃO CABIMENTO.
+1. O recurso de embargos de declaração presta-se, tão somente, a sanar ambiguidade, contradição, obscuridade ou omissão do julgado, consoante dispõe o art. 619 do Código de Processo Penal, ou, então, retificar, quando constatado, erro material do julgado.
+2. A pretexto de omissão, busca o embargante a rediscussão do julgado, o que não se harmoniza com o escopo da medida integrativa, conforme iterativa jurisprudência desta Corte.
+3. Mesmo para fins de prequestionamento, os embargos de declaração têm suas hipóteses de cabimento restritas ao art. 619 do CPP, ausentes na espécie.
+4. Incabível a juntada das cópias de áudio da sessão de julgamento, sequer prevista regimentalmente, pois à unanimidade acolhido o voto do Relator unânime, devidamente juntado aos autos, onde esclarecido que a pretensão de desclassificação do crime de homicídio doloso para a figura culposa demandaria revaloração de prova, incabível na via estreita do habeas corpus.
+5. Embargos de declaração rejeitados (EDcl no HC 97.421/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 30/06/2015, DJe 07/08/2015).
+PENAL. EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. INTIMAÇÃO PARA SESSÃO DE JULGAMENTO DO RECURSO ORDINÁRIO EM HABEAS CORPUS. DESNECESSIDADE. AUSÊNCIA DE PEDIDO EXPRESSO. REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+I - Na linha da orientação jurisprudencial desta eg. Corte, não se verifica nulidade no julgamento do recurso ordinário quando o recorrente não requer, de maneira expressa, a prévia comunicação da data em que será deliberado pelo Colegiado, como na hipótese (precedentes).
+II - São cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+III - Na hipótese, mostra-se inviável o acolhimento dos embargos de declaração, uma vez que, sob o pretexto de ocorrência de omissão e contradição na decisão embargada, é nítida a pretensão de rediscutir a matéria já apreciada (precedentes).
+Embargos de declaração rejeitados (EDcl no RHC 41.179/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, julgado em 20/08/2015, DJe 01/09/2015).
+Ante o exposto, rejeito os presentes embargos declaratórios.
+É o voto.
