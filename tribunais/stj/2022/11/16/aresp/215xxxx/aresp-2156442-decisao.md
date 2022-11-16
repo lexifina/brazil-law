@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por MÁRCIO VOGELSANGERcontra decisão que negou seguimento a recurso especial manejado em face de acórdão assim ementado (e-STJ, fl. 40):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO AGRAVADA QUE ACOLHEU, PARCIALMENTE, A EXCEÇÃO DE PRÉ-EXECUTIVIDADE. INSURGÊNCIA DA PARTE EXECUTADA. PRETENSÃO DE RECONHECIMENTO DA IMPENHORABILIDADE DAS VAGAS DE GARAGEM. INVIABILIDADE. VAGAS COM MATRÍCULAS PRÓPRIAS. INTERDEPENDÊNCIA DE ACESSO QUE NÃO CONDUZ À IMPENHORABILIDADE. "A VAGA DE GARAGEM QUE POSSUI MATRÍCULA PRÓPRIA NO REGISTRO DE IMÓVEIS NÃO CONSTITUI (SÚMULA 449 DO BEM DE FAMÍLIA PARA EFEITO DE PENHORA "STJ). POSSIBILIDADE DE PENHORA, MESMO QUE VINCULADA A IMÓVEL QUALIFICADO COMO BEM DE FAMÍLIA. DECISÃO MANTIDA
+Nas razões do recurso especial, o recorrenteaponta aviolação doart. 1.331, § 1º, do Código Civil e a não incidência da Súmula 449 do STJ, sustentando que, apesar da matrícula individualizada, a convenção do condomínio não permite a venda das vagas para terceiros estranhos aos condomínio.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude do óbice das Súmulas 7, 83 e 449 do STJ.
+Neste agravo, o agravante afirma que não incidem os óbices sumulares apontados.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que esse não merece provimento, senão vejamos.
+Sobre a possibilidade de penhora das vagas de garagem com matrícula individualizada, oTribunal de origem consignou no acórdão recorrido que (i) a individualização de cada unidade de forma autônoma e em matrículas distintas já afasta a alegação de que as garagens são bens indivisíveis, nos termos do artigo 87 do CC/02; (ii) nos termos da Súmula 449 do STJ avaga de garagem que possui matrícula própria no registro de imóveis não constituiu bem de famíliapara efeito de penhora; e, (iii)não obstante inexista na convenção condominial a efetiva autorização para alienação do abrigo de veículos para terceiros estranhos ao condomínio,tal circunstância, não impossibilita a penhora, eis que nada impede que sejam arrematadas por outros condôminos ou ao pelo condomínio. Confira-se:
+Na origem, a parte agravante apresentou exceção de pré-executividade, alegando a impenhorabilidade do imóvel de matrícula nº 11.493, registrado no 2º CRI de Joinville/SC, por ter sido objeto de venda operada há anos; do imóvel com matrícula nº 108.485, registrado no 1º CRI de Joinville/SC, por se tratar de bem de família; e de três vagas de garagem (matrículas nº 108.486, 108.487 e 108.488), todas registradas no 1º CRI de Joinville/SC, por se tratarem de bens indivisíveis e, portanto, impenhoráveis.
+Sobreveio, então, a decisão agravada, na qual a magistrada de origem reconheceu apenas a impenhorabilidade do imóvel de matrícula nº 108.485, ante o status de bem de família.
+ ..
+Ocorreu que a própria individualização de cada unidade de forma autônoma e em matrículas distintas já afasta a alegação de que as garagens são bens indivisíveis, nos termos do artigo 87 do CC/02.
+Por conseguinte, como acertadamente reconheceu a magistrada singular, tais bens são penhoráveis, consoante os termos da súmula nº 449 do STJ, segundo a qual "A vaga de garagem que possui matrícula própria no registro de imóveis não constituiu bem de família. para efeito de penhora".
+ ..
+De igual modo, embora a localização física das unidades mostre relação de interdependência de acesso, referida peculiaridade, por si só, não conduz à impenhorabilidade ,justamente pela possibilidade de arrematação/adjudicação conjunta das garagens.
+Nesse ponto, não obstante inexista na convenção condominial (mov.245.6) a efetiva autorização para alienação do abrigo de veículos para terceiros estranhos ao condomínio, nos moldes do artigo 1.331, §1º, do CC/02, tal circunstância, isoladamente considerada, não impossibilita a penhora, eis que, consoante bem pontuado pela magistrada de origem "nada impede que sejam arrematadas por outros condôminos ou ao pelo condomínio"  ..  (e-STJ, fls. 41/43)
+Com isso, os fundamentos adotados pelo Tribunal de origem estão em consonância com o entendimento firmado nesta Corte, no sentido deserem penhoráveis as vagas de garagem, independentemente de estarem relacionadas a imóvel considerado bem de família, desde que tenham matrícula e registro próprios, nos termos daSúmula 449 do STJ.
+Nesse sentido, confiram-se os seguintes precedentes:
+TRIBUTÁRIO. PROCESSUAL CIVIL. VAGA DE GARAGEM. PENHORA. MATRÍCULA PRÓPRIA. BEM DE FAMÍLIA. SÚMULA 449/STJ. ART. 86 DO CPC. PREQUESTIONAMENTO. AUSÊNCIA.
+1. São penhoráveis as vagas de garagem, independentemente de estarem relacionadas a imóvel considerado bem de família, desde que tenham matrícula e registro próprios, como no caso dos autos. Inteligência da Súmula 449 do STJ.
+2. É impossível, em sede de recurso especial, conhecer da alegação referente à distribuição dos ônus sucumbenciais na hipótese em que o Tribunal de origem não dirimiu a contenda referente aos honorários sob o enfoque do dispositivo legal apontado como malferido, a saber, o art. 86 do CPC, tampouco tenham sido opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.912.039/RS, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 28/3/2022, DJe de 31/3/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. PENHORA. VAGA DE GARAGEM COM MATRÍCULA PRÓPRIA NO REGISTRO DE IMÓVEIS. SÚMULA N. 449/STJ. INCIDÊNCIA. JURISPRUDÊNCIA PACIFICADA. SÚMULA N. 83/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. Conforme a orientação consolidada na Súmula n. 449/STJ, "a vaga de garagem que possui matrícula própria de registro de imóveis não constitui bem de família para efeito de penhora".
+2. Estando o acórdão recorrido em harmonia com o entendimento desta Corte, correta a incidência da Súmula n. 83/STJ, que se aplica tanto aos recursos interpostos com base na alínea "c" quanto àqueles fundamentados pela alínea "a" do permissivo constitucional.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp n. 1.676.370/SP, relator Ministro AntônioCarlos Ferreira, Quarta Turma, julgado em 24/8/2020, DJe de 28/8/2020.)
+Quanto ao mais, rever as conclusões do Tribunal de origem quanto àpossibilidade de aquisição das vagas penhoradas por outros condôminos ou pelo condomíniodemandaria o reexame do conjunto fático-probatório dos autos, o que é vedado nesta fase de recurso.
+Dessa forma, incidem sobre o temaos óbices das Súmulas 7e 568 do STJ.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
