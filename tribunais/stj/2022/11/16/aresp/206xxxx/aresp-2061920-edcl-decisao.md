@@ -1,0 +1,27 @@
+DECISÃO
+Em petição acostada às e-STJ, fls. 680/681,CAMARGO SILVA, DIAS DE SOUZA ADVOGADOS opôs embargos de declaração sustentando que a decisão embargada é omissa quanto à abrangência doacordo celebrado entre as partes, que alega não contemplar os honorários sucumbenciais devidos ao escritório.
+Como certificado às e-STJ, f fl. 675,o prazo para oposição de embargos de declaração em relação à decisão de fls. 643 teve início em 4/10/2022 e término em 11/10/2022.
+Apesar das alegações formuladas à e-STJ, fls. 680, não era devida a intimação de CAMARGO SILVA, DIAS DE SOUZA ADVOGADOSCAMARGO SILVA, DIAS DE SOUZA ADVOGADOS, uma vez que houve substabelecimento sem reservas, o que equivale a uma renúncia de mandato.
+Assim, considerando que a oposição do recurso ocorreuem 18/10/2021, é forçoso não conhecerdos embargos de declaração, por serem intempestivos.
+Ressalta-se que, ainda que os embargos de declaração fossem conhecidos, seriam rejeitados, em virtude do consolidado entendimento desta Corte Superior no sentido de que os honorários, na hipótese, deveriam ser cobrados em ação autônoma.
+A propósito, confiram-se os precedentes:
+PROCESSO CIVIL. HONORÁRIOS SUCUMBENCIAIS. COBRANÇA. ADVOGADO QUE ASSUME PROCESSO EM TRÂMITE. LEGITIMIDADE. ANTIGO PATRONO. INTERVENÇÃO. DESNECESSIDADE.
+1. Não há óbice a que o advogado o qual assume processo em trâmite venha a negociar e cobrar os honorários sucumbenciais, sendo dispensável a intervenção do antigo patrono da parte, cujos poderes foram revogados no decorrer da ação, cabendo a este pleitear seus direitos diretamente do seu ex-cliente, mediante ação autônoma.
+2. Recurso especial provido.
+(REsp n. 1.181.250/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 15/12/2011, DJe de 1/2/2012.)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SUBSTABELECIMENTO SEM RESERVA DE PODERES. INAPLICABILIDADE DAS REGRAS PREVISTAS NOS ARTS. 23 E 26 DA LEI 8.906/94. PRETENSÃO DE HONORÁRIOS, POR PARTE DO ADVOGADO SUBSTABELECENTE SEM RESERVA DE PODERES, QUE DEVE SER VEICULADA EM AÇÃO AUTÔNOMA. PRECEDENTE.
+1. O direito autônomo para executar a sentença na parte relativa aos honorários incluídos na condenação, por arbitramento ou condenação, previsto no art. 23 da Lei 8.906/94, é assegurado ao advogado constituído nos autos, habilitado para representar a parte em juízo, na forma do art. 36 do CPC, de modo que não abrange o advogado que substabeleceu sem reserva de poderes, sobretudo porque o substabelecimento, sem reserva de poderes, caracteriza renúncia ao poder de representar em juízo (REsp 713.367/SP, 1ª Turma, Rel. Min. Luiz Fux, DJ de 27.6.2005; AgRg nos EREsp 36.319/GO, Corte Especial, Rel. Min. Dias Trindade, DJ de 8.5.95).
+2. Por outro lado, o art. 26 da Lei 8.906/94 impede que o advogado substabelecido, com reserva de poderes, efetue a cobrança de honorários sem a intervenção daquele que lhe conferiu o substabelecimento. Extrai-se, a contráario sensu, que não há óbice para que o advogado substabelecido, sem reserva de poderes, efetue a cobrança de honorários, sendo descabida a intervenção do advogado substabelecente. Assim, não há falar em ofensa ao artigo em comento.
+3. No mais, o acórdão recorrido está em consonância com a jurisprudência desta Corte, que se firmou no sentido de que "a controvérsia quanto ao percentual de honorários advocatícios que cada advogado que atuou na causa deve receber, tendo em vista a revogação do mandato e substituição dos causídicos, deve ser solucionada em ação autônoma" (REsp 766.279/RS, 1ª Turma, Rel. Min. Teori Albino Zavascki, DJ de 18.9.2006).
+4. Recurso especial não provido.
+(REsp n. 1.207.216/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/12/2010, DJe de 3/2/2011.)
+AGRAVOS INTERNOS NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. EXECUÇÃO. ADVOGADO QUE SUBSTABELECEU SEM RESERVA DE PODERES. AÇÃO AUTÔNOMA. NECESSIDADE.
+1. "No sistema recursal brasileiro, vigora o cânone da unicidade ou unirrecorribilidade recursal, segundo o qual, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último" (AgInt nos EAg 1.213.737/RJ, Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe de 26/08/2016).
+2. O advogado que substabeleceu sem reserva de poderes não pode executar diretamente, nos próprios autos, os honorários advocatícios fixados na sentença, sendo necessário o ajuizamento de ação autônoma, mormente quando existir controvérsia em relação ao montante de honorários advocatícios sucumbenciais devido a cada um dos advogados. Precedentes 3. Segundo agravo interno não conhecido.
+Primeiro agravo interno conhecido e provido, para conhecer do agravo e dar provimento ao recurso especial.
+(AgInt no AREsp n. 1.028.884/RJ, relator Ministro Lázaro Guimarães (Desembargador Convocado do TRF 5ª Região), Quarta Turma, julgado em 20/2/2018, DJe de 27/2/2018.)
+Nessas condições, NÃO CONHEÇO dos embargos de declaração.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO ACORDO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. EMBARGOS DE DECLARAÇÃO NÃO CONHECIDOS.
