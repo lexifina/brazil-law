@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento nas Súmulas 7 e 83/STJ.
+O agravante alega que a matéria discutida não demanda revolvimento fático-probatório e que as teses recursais encontram respaldo na jurisprudência do STJ, requerendo o julgamento do recurso especial.
+O Ministério Público Federal manifestou-se pelo conhecimento do agravo para não conhecer do recurso especial.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada, devendo ser conhecido. Entretanto, não comporta provimento.
+O recorrido foi pronunciado como incurso no art. 121, § 2º, I, III e IV, por duas vezes, c/c o art. 29 do Código Penal, na forma da Lei 8.072/1990.
+Interposto recurso em sentido estrito pela defesa, o Tribunal de origem deu-lhe provimento, para impronunciar o réu, por meio deacórdão assim ementado (fl. 606):
+RECURSO EM SENTIDO ESTRITO. HOMICÍDIO QUALIFICADO. PRONÚNCIA. INDÍCIOS DE AUTORIA EXISTENTES SOMENTE NOSELEMENTOS INFORMATIVOS DO INQUÉRITO POLICIAL. AUSÊNCIA DEPROVA JUDICIALIZADA A CONFERIR RESPALDO À NARRATIVA DADENÚNCIA. ART. 155 DO CPP. NORMA APLICÁVEL À DECISÃO DEPRONÚNCIA. JUDICIUM ACUSATIONIS. DESPRONÚNCIA QUE SE IMPÕE. RECURSO PROVIDO.
+Os embargos de declaração opostos foram rejeitados. Nas razões do recurso especial, o Ministério Público estadual alega violação aos arts.74, §1º;155; e413, caput e §1º do Código de Processo Penal; e ao art.121, § 2º,I, III e IV, do Código Penal, em síntese, ao argumento de que, no caso concreto, faz-se necessária a relativização da regra de que é inadmissível a pronúncia do réusomente com base em elementos informativos da fase inquisitiva. Alega ainda violação ao art. 619 do CPP, ao argumento de omissão no exame de teses essenciais.
+Ao impronunciar ao réu, o Tribunal de origem explicitou a seguinte fundamentação (fl. 603):
+Ademais, a pronúncia não exige prova plena da autoria, bastando a existência de suficientes indícios de que o réu tenha praticado o crime que lhe está sendo imputado.
+No caso concreto, indícios de autoria existem, conforme se verifica na decisão de pronúncia.
+No entanto, esses indícios encontram-se no inquérito policial apenas. Isso porque os depoimentos dos policiais que participaram da ocorrência são baseados exclusivamente nos relatos de populares que disseram que o autor do fato seria o "Chinês". Na fase judicial, os depoimentos das demais testemunhas vão de encontro aos relatos dos milicianos.
+ ..
+Por essas razões, entendo que o art. 155 do Código de Processo Penal se aplica às decisões de pronúncia. Aliás, é exatamente nesta fase da judicium acusationis que o juiz togado tem de delimitar, de forma técnica, aquelas acusações que devem ser submetidas ao Tribunal Popular, justamente para que se evite, ao depois, eventuais e indevidas interferências nos veredictos proferidos pelos jurados, cuja soberania, de natureza constitucional, deve ser preservada ao máximo.
+O entendimento esposado no acórdão encontra respaldo norecente entendimento adotado pela Sexta Turma do STJ, firmado com observância da atual orientação do Supremo Tribunal Federal, de que "não se pode admitir apronúnciado réu, dada a sua carga decisória, sem qualquer lastro probatório produzido emjuízo,fundamentada exclusivamente em elementos informativos colhidos na faseinquisitorial" (REsp 1.932.774/AM, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/08/2021, DJe 30/08/2021).
+Incide, assim, a Súmula 83 do STJ, segundo a qual não se conhece do recurso especial, quando a orientação do Tribunal firmou-se no mesmo sentido da decisão recorrida.
+Tendo o Tribunal de origem impronunciado o réu, pois"os depoimentos dos policiais que participaram da ocorrência são baseados exclusivamente nos relatos de populares" e porque "os depoimentos das demais testemunhas vão de encontro aos relatos dos milicianos", alterar a referida conclusão demandaria reexame probatório, o que encontra óbice na Súmula 7/STJ.
+Não há falar em omissão se o Tribunal local apresentou fundamentação completa e suficiente ao deslinde da questão e acabou por afastar a tese do Ministério Público. Ora, decisão contrária aos interesses das partes não significa decisão obscura, omissa ou contraditória, de modo que não cabem embargos com o propósito de alterar a conclusão da decisão desfavorável. Nesses termos, anão demonstração deviolação ao art. 619 do CPP atrai a incidência da Súmula 284/STF.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Publique-se.
+Intimem-se.
