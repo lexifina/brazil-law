@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 10/11/2022 a 16/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+1.  Trata-se  de  agravo  interno  interposto  por GESSY APARECIDA DA SILVA REIS  contra  a  decisão  de fls. 189/195, que indeferiu liminarmente a petição inicial e julgou extinto o feito sem julgamento do méritonos termos da ementa ora transcrita:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECLAMAÇÃO CONSTITUCIONAL. ART. 988 E SEGUINTES DO CPC/2015. ACÓRDÃO RECLAMADO QUE SUPOSTAMENTE DIVERGE DE ORIENTAÇÃO JURISPRUDENCIAL DO STJ. RECLAMAÇÃO UTILIZADA PARA FINS DE PRESERVAÇÃO DA JURISPRUDÊNCIA. IMPOSSIBILIDADE. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. PREJUDICADA A ANÁLISE DO PEDIDO LIMINAR.
+2.  Em  suas  razões  (fls.  202/207),  a  parte  agravante  alega, em suma: (a) a interpretação dada ao cabimento da reclamação deve ser relativizada pois, no caso concreto, houve um equívoco na valoração das provas e na aplicação da lei e da jurisprudência; (b) os meios de impugnação das decisões prolatadas na origem são limitados, visto que se trata de ação ajuizada no juizado especial federal; (c) areclamação é o meio adequado para demonstrar que as decisões do STJ não estão sendo observadas pelas instâncias de origem.
+3.  Requer,  ao  final,  o  provimento  do  agravo  interno para  que  seja dado provimento à reclamação nos  termos  pleiteados.
+4.  Não houve impugnação  ao  recurso  (fl.  211).
+5.  É  o  relatório.
+EMENTA
+PROCESSUAL  CIVIL E PREVIDENCIÁRIO.  AGRAVO  INTERNO NA RECLAMAÇÃO. UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL.RECLAMAÇÃO UTILIZADA PARA FINS DE PRESERVAÇÃO DEJURISPRUDÊNCIA. IMPOSSIBILIDADE. AGRAVO  INTERNO  A QUE SE NEGA PROVIMENTO.
+1.É incabível o manejo da reclamação como sucedâneo recursal com vistas a adequar o julgado impugnado à jurisprudência desta Corte Superior.
+2. Agravo  interno  a que se nega provimento.
+VOTO
+1.  O  recurso  não  merece  prosperar.
+2.  Éimportante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+3.A reclamaçãoconstitui instrumento destinado à preservação da competência do tribunal; paragarantir a autoridade das decisões do tribunal; e à observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (art. 988 do CPC/2015).
+4.É cediço que a reclamação não tem cabimento como sucedâneo recursal, nem é adequada à preservação da jurisprudência do STJ; ela presta-se a preservar a autoridade de decisão tomada em caso concreto e envolvendo as partes postas no litígio do qual ela origina-se.
+5. Na presente hipótese, a parte agravante não apontouo descumprimento de nenhum comando jurisdicional exarado pelo STJ no âmbito da relação jurídico-processual estabelecida entre ela e o INSTITUTO NACIONAL DO SEGURO SOCIAL, tendo-se cogitado de suposta ofensa à jurisprudência desta Corte a respeito da impossibilidade de indeferimento da concessão de benefício por presunção de má-fé.
+6. Em verdade, a parte pretende a reforma de decisão proferida pela Turma Recursal, sustentando a divergência do julgado com o entendimento do STJ sobre ocumprimento dos requisitos para a concessão do benefício de aposentadoria por invalidez.
+7. Assim, correta a decisão agravada por entender ser incabível o manejo dareclamação como sucedâneo recursalcom vistas a adequar o julgado impugnado à jurisprudência desta Corte Superior. Nesse sentido:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. BENEFÍCIOS EM ESPÉCIE. APOSENTADORIA ESPECIAL. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. DECISÃO RECORRIDA EM CONFORMIDADE COM O ENTENDIMENTO DO STJ.
+I - Na origem, trata-se de reclamação apresentada contra decisão proferida pela Segunda Turma Cível da 55ª Circunscrição Judiciária do Tribunal de Justiça do Estado de São Paulo, aduzindo que o acórdão reclamado afastou a competência do juizado especial ante a necessidade de prova pericial.
+II - Esclareça-se, por necessário, que não existe decisão desta Corte, em um caso concreto, envolvendo as mesmas partes e que tenha sido desrespeitada. A jurisprudência desta Corte é firme no sentido de que a reclamação não se destina a dirimir divergência jurisprudencial entre acórdão reclamado e precedentes do Superior Tribunal de Justiça.
+III - O que se observa, na verdade, é que a reclamação foi utilizada como sucedâneo recursal, entretanto, tal medida jurisdicional não se presta a isso, tendo, na verdade utilização restrita.
+IV - A utilização da reclamação para garantia das decisões do tribunal pode-se dar quando a decisão do próprio tribunal não é cumprida. Isso não ocorre quando outro órgão julgador, in casu, a Segunda Turma Cível da 55ª Circunscrição Judiciária do Tribunal de Justiça do Estado de São Paulo adota entendimento diverso do STJ. Em outras palavras, a reclamação não serve para preservar a jurisprudência do Tribunal.
+V - Nesse sentido, in verbis: ""É impossível estender a autoridade da decisão proferida por esta Corte a todas as demais ações em curso nos outros Estados da Federação e no Distrito Federal, seja porque não dotado o acórdão de efeito vinculante, seja por envolver, formalmente, processos distintos submetidos a diferentes órgãos jurisdicionais."" (Rcl 32.937/RN, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, julgado em 28/6/2017, DJe 1º/8/2017.)
+VI - Nesse mesmo diapasão: ""O cabimento da Reclamação calcada na garantia da autoridade das decisões do Tribunal (art. 988, II, CPC/2015) surge por ocasião de eventual descumprimento de ordens emanadas desta Corte aplicáveis especificamente para o caso concreto, não sendo esta a hipótese retrata nos autos."" (AgInt na Rcl 33.768/PE, relator Ministro Napoleão Nunes Maia Filho, Primeira Seção, julgado em 28/6/2017, DJe 1º/8/2017.)
+VII - Agravo interno improvido.(AgInt na Rcl n. 43.164/SP, relator Ministro Francisco Falcão, Primeira Seção, julgado em 20/9/2022, DJe de 22/9/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. ALEGAÇÃO DE USURPAÇÃO DA COMPETÊNCIA DO STJ. UTILIZAÇÃO COMO SUCEDÂNEO RECURSAL. DESCABIMENTO. ANÁLISE DA (IN)APLICABILIDADE DE TESE FIXADA PELO RITO DO RECURSO REPETITIVO. IMPOSSIBILIDADE. INADEQUAÇÃO DA VIA ELEITA.
+1. A reclamação é via processual específica e não pode ser utilizada como sucedâneo recursal, o que se verifica na espécie, ao pretender a reclamante reconhecer omissão no acórdão do Tribunal de origem.
+2. Não cabe reclamação para fazer juízo de (in)aplicabilidade de temas desta Corte firmados em repetitivos.
+3. Agravo interno não provido.(AgInt nos EDcl na Rcl n. 43.514/CE, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 30/8/2022, DJe de 6/9/2022.)
+8. Ante  o  exposto,  nego  provimento  ao  agravo  interno  de GESSY APARECIDA DA SILVA REIS.
+9.  É  como  voto.
