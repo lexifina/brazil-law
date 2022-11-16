@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-sede agravo regimental interposto por GIAN LUCAS MOREIRA DA CRUZ contra decisão monocrática da lavra daMinistraPresidente MARIA THEREZA DE ASSIS MOURA que não conheceu do agravo por ausência de impugnação de todos os fundamentos da decisão de admissibilidade (e-STJ fls. 570/571).
+No presente agravo regimental(e-STJ fls. 574/579), a parte recorrente alega que houve impugnação específica de todos os fundamentos da decisão agravada.
+Manifestação do Ministério Público Federal, às e-STJ fls. 593/595, pelo nãoprovimento do agravo regimental.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado de Santa Catarina, cuja ementa é a seguinte (e-STJ fl. 489):
+AGRAVO INTERNO EM REVISÃO CRIMINAL. INSURGÊNCIA CONTRA DECISÃO MONOCRÁTICAQUE NÃO CONHECEU DO PEDIDO DA AÇÃO REVISIONAL. PRETENDIDA A FIXAÇÃO DEREGIME MAIS BRANDO PARA O RESGATE DA REPRIMENDA. TESE JÁ ANALISADA POROCASIÃO DO JULGAMENTO DA APELAÇÃO CRIMINAL. MERA REDISCUSSÃO DE MATÉRIAAPRECIADA. ADEMAIS, REGIME SEMIABERTO FIXADO EM CONSONÂNCIA COM OENTENDIMENTO JURISPRUDENCIAL. MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 497/505), fundado na alínea "a" do permissivo constitucional, alega a parte recorrente violação doartigo 33 do CP. Sustenta a possibilidade da fixação do regime semiaberto para o cumprimento da pena.
+É o relatório.Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada,conheçodo agravo.
+O recurso merece acolhida.
+Em relação ao regime de cumprimento de pena, ajurisprudência desta Corte firmou-se no sentido deque é necessária, para a fixação de regime mais gravoso, a apresentação de motivação concreta, fundada nas circunstâncias judiciais previstas no art. 59 do Código Penal ou na reincidência.
+Foi elaborado, então, o enunciado 440 da Súmula deste Tribunal, segundo o qual,fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito. Na mesma esteira, são os enunciados718 e 719 da Súmula do Supremo Tribunal Federal, os quais indicam:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Portanto, é necessária a apresentação de motivação concreta para a fixação de regime mais gravoso, fundada nas circunstâncias judiciais elencadas no art. 59 do CP ou em outra situação que demonstre a gravidade concreta do crime. Precedentes: HC n. 325.756/SP, RelatorMinistro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 28/6/2016, DJe 1º/8/2016; HC n. 312.264/SP, RelatorMinistro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 24/5/2016, DJe 31/5/2016; HC n. 344.395/SP, RelatorMinistro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 8/3/2016, DJe 15/3/2016.
+No caso, em atenção aoartigo33 do CPc/c o art. 42 da Lei n.11.343/2006,estabelecida a pena definitiva em 5 anos de reclusão, primário o recorrente e sem antecedentes, e considerada a quantidade total dos entorpecentes apreendidos - 10,1g de crack e 43,5g de maconha (e-STJ fls. 18 - apenso) -, o regime semiaberto é o adequado à prevenção e reparação do delito.
+Ante o exposto, reconsideroa decisão agravada às e-STJ fls. 570/571,e, com com fundamento no art. 932, inciso VIII, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "c", parte final, do RISTJ e Súmula n.568/STJ,conheçodo agravo paradar provimentoao recurso especialpara fixar oregime semiaberto para o cumprimento da pena.
+Intimem-se.
