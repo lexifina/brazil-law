@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de revisão criminal ajuizada por ANDRE BYSMARQUE DOS SANTOS, com fundamento no art. 621, inciso I, do Código de Processo Penal, em face de decisum proferido pelo e. Rel. Min. Sebastião Reis Junior, nos autos do REsp n. 1.724.631/AL.
+Insurge-se o autor contra condenação criminal proferida nos autos de processo criminal n. 0713017-77.2013.8.02.0001, transitada em julgado após o r. decisum desta eg. Corte Superior que, nos autos do REsp n. 1.724.631/AL, deu-lhe parcial provimento "para afastar a negativação da circunstância judicial do comportamento da vítima, bem como para reduzir a fração de aumento de pena prevista no art. 288, parágrafo único, do Código Penal, redimensionando as penas privativas de liberdade dos recorrentes nos termos da presente decisão" (fl. 359), mantida em sede de agravo regimental.
+Nesta ação revisional, sustenta, em síntese, "que a sentença condenatória foi contrária a texto expresso em lei e também contrária à evidência dos autos e houve manifesta exacerbação da pena".
+Assevera que "Em um simples analise se verifica que nenhuma das vitimas ou testemunhas confirmaram em juízoque o requerente participou da empreitada criminosa. São uniformes em dizer que não reconheceram os atiradores e que o local era muito escuro a rua, e todos afirmam que não foram intimidados, nunca houve qualquer tipo de ameaça" (fl. 12).
+No ponto, aduz que "é ilegal a sentença de pronúncia baseada exclusivamente em informações coletadas na fase extrajudicial e não confirmadas em juízo", de modo que "A ilegalidade é suficiente para desconstituir todo o processo, ainda que o Tribunal do Júri já tenha soberanamente conferido veredicto" (fl. 21).
+Requer "seja Reformada a Sentença Condenatória Transitada em Julgado, anulando o julgamento para impronunciar o sentenciado, ou concedendo o alvará de soltura para que seja feito novo julgamento, respeitando os seus direitos constitucionalmente assegurados com a realidade dos autos e da Lei vigente no Brasil" (fl. 23).
+O Ministério Público do Estado de Alagoas manifestou-se pela improcedência da revisão criminal.
+O Ministério Público Federal também se manifestou pela improcedência da ação revisional, em parecer assim ementado:
+"REVISÃO CRIMINAL. HOMICÍDIO. PLEITO DE ANULAÇÃO DO ACÓRDÃOCONFIRMATÓRIO DA CONDENAÇÃO. TESE DEDECISÃO CONTRÁRIA À PROVA DOS AUTOS. AREVISÃO CRIMINAL NÃO PODE SER UTILIZADACOMO UM SEGUNDO RECURSO DE
+APELAÇÃO. SOBERANIA DOS VEREDITOS DO TRIBUNAL DOJÚRI. PRETENSÃO DE REVOLVIMENTO DEMATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. PARECER PARA QUE SEJA JULGADAIMPROCEDENTE A REVISÃO CRIMINAL".
+É o relatório.
+Decido.
+A ação de revisão criminal, prevista nos artigos 621 e seguintes do Código de Processo Penal, admite nova análise da decisão condenatória quando:
+I - quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos;
+II - quando a sentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos;
+III - quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena.
+A Constituição Federal de 1988 prevê no artigo 105, inciso I, alínea e, que competirá ao Superior Tribunal de Justiça julgar e processar "as revisões criminais e as ações rescisórias de seus julgados".
+Vale anotar, ainda, a disposição do art. 240 do RISTJ no sentido de que caberá a revisão, por esta eg. Corte Superior, do processo em que a condenação tiver sido por ele proferida ou mantida no julgamento do recurso especial, se seu fundamento coincidir com a questão federal apreciada.
+Preliminarmente, destaca-se que, nos termos do art. 239 do RISTJ, "À Corte Especial caberá a revisão de decisões criminais que tiver proferido, e à Seção, das decisões suas e das Turmas".
+Nesse aspecto, tem cabimento a ação revisional que visa desconstituir decisão monocraticamente proferida.
+Com efeito, a revisão criminal constitui ação autônoma de impugnação e tem por fim reexaminar sentença condenatória ou decisão condenatória proferida por Tribunal já transitada em julgada. Similar à ação rescisória, com previsão no Código de Processo Civil, a revisão criminal visa desconstituir a coisa julgada material, contudo, só pode ser manejada em favor do réu.
+Tem previsão legal no art. 621 do CPP, cujas hipóteses de cabimento estão restritas ao rol taxativo dos incisos I ("quando a sentença condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos"), II ("quando asentença condenatória se fundar em depoimentos, exames ou documentos comprovadamente falsos") e III ("quando, após a sentença, se descobrirem novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena"), de modo que o ajuizamento deve estar embasado em uma dessas hipóteses, devidamente demonstrado, dada a fundamentação vinculada do seu manejo.
+No caso dos autos, verifica-se que o ora requerente foi condenado à pena de 48 anos, 7 meses e 10 dias de reclusão, em regime fechado, pela prática dos crimes de homicídio qualificado, na forma tentada, três vezes, e associação criminosa armada. Em grau recursal, o eg. Tribunal de origem reduziu a pena para 44 anos, 4 meses e 7 dias de reclusão. Já esta eg. Corte Superior, acolhendo a súplica defensiva manifestada tão somente em relação à dosimetria penal, redimensionou a reprimenda para 40 anos, 8 meses e 12 dias de reclusão.
+Pois bem.
+Com efeito, em relação à aventada inidoneidade da pronúncia pela imprestabilidade das provas e indicada condenação contrária à prova dos autos,denota-se que esta Corte Superior não foi devidamente instada a se manifestar, de modo que, neste ponto, sequer ultrapassa a barreira do conhecimento a ação revisional, nos termos do art. 240 do RISTJ,uma vez que sedimentado o entendimento de que o julgamento é cabível somente nas hipóteses de exame anterior do pedido revisional por esta mesma eg. Corte.
+Nesse sentido:
+"PENAL E PROCESSUAL. REVISÃO CRIMINAL. COMPETÊNCIA DO STJ. QUESTÃO ANALISADA PELA CORTE. NECESSIDADE. DECISÃO CONDENATÓRIA CONTRÁRIA A TEXTO EXPRESSO DE LEI. INEXISTÊNCIA. DOSIMETRIA DEVIDAMENTE MOTIVADA. TESES JÁ ANALISADAS ANTERIORMENTE PELO ACÓRDÃO REVISANDO. REITERAÇÃO .
+1. A Terceira Seção deste Superior Tribunal possui entendimento de que compete a esta Casa o julgamento de revisão criminal somente quando a questão objeto do pedido revisional tiver sido examinada anteriormente por esta Corte, o que não ocorreu quanto ao regime de cumprimento da pena.
+2. A análise pelo Supremo Tribunal Federal de determinada questão em sede de habeas corpus não afasta a possibilidade de que seja apresentada no Superior Tribunal de Justiça a revisão criminal.
+Entendimento contrário obstaculizaria por completo a propositura da revisão criminal, já que o Tribunal de origem não mais detém competência e também o STF não a possui.
+3. Nos termos do art. 621, I, do Código de Processo Penal, a revisão criminal será admitida "quando a decisão condenatória for contrária ao texto expresso da lei penal ou à evidência dos autos".
+4. Hipótese em que não se verifica nos presentes autos nenhum malferimento a texto expresso da lei, sendo certo que se mostra escorreita a dosimetria da pena, embasada em motivação suficiente e idônea para a exasperação da pena-base.
+5. Os tribunais pátrios têm o entendimento de que não se admite a mera reiteração de teses já analisadas pelo acórdão revisando.
+Precedente do Supremo Tribunal Federal.
+6. Revisão parcialmente conhecida, sendo o pedido, nessa extensão, julgado improcedente". (RvCr n. 2.877/PE, Terceira Seção, Rel. Min. Gurgel de Faria, DJe de 10/3/2016.)
+Por outro lado, das razões delineadas na presente ação revisional, não se denota o esteio que ensejaria a desconstituição do decisum supratranscrito, não estando demonstrada contrariedade ao texto expresso da lei penal ou à evidência dos autos; em verdade, a presente ação se reveste de recurso de apelação, contudo, a revisão criminal não pode ser utilizada para que a parte, a qualquer tempo, busque novamente rediscutir questões de mérito, por mera irresignação quanto ao provimento jurisdicional obtido.
+Portanto, o decisum impugnado não merece sofrer qualquer revisão por parte deste Colegiado, uma vez que inexiste elementos mínimos a demonstrar a ocorrência de qualquer das hipóteses do art. 621 do Código de Processo Penal.
+Nesse sentido:
+"PENAL E PROCESSO PENAL. REVISÃO CRIMINAL. ART. 621, I, CPP. OFENSA AOS ARTS. 59 DO CP E 92, I, DO CP. INOCORRÊNCIA. MERO INCONFORMISMO. PEDIDO REVISIONAL INDEFERIDO.
+1. O acórdão atacado não padece de nenhum vício que possa ensejar o acolhimento do pleito revisional, inexistindo qualquer respaldo nas hipóteses estabelecidas no art. 621, inciso I, do Código de Processo Penal.
+2.  ..
+3. Revisão criminal indeferida." (RvCr 3.109/MT, Terceira Seção, Rel. Ministro Ribeiro Dantas, DJe 19/09/2018)
+Ante o exposto, com base no artigo 34, XVIII, alínea a, do RISTJ, não admito a revisão criminal.
+P. I.
