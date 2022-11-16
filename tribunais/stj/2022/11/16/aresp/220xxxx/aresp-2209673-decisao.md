@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por JOÃO PAULO PEREIRA DA SILVA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim resumido:
+APELAÇÃO CRIMINAL. FURTO QUALIFICADO. CONCURSO DE PESSOAS. PLEITO MINISTERIAL. REFORMA DA SENTENÇA PARA O RECONHECIMENTO DA REINCIDÊNCIA EM RELAÇÃO Ã RÉ. CONDENAÇÃO DE AMBOS OS RÉUS NA OBRIGAÇÃO DE REPARAÇÃO MÍNIMA À VÍTIMA. RECURSO CONHECIDO E PROVIDO.
+Quanto à controvérsia recursal, alega violação do art. 387, IV, do CPP, no que concerne à necessidade de afastamento do quantum fixado a título de valor mínimo para indenização à vítima em razão da ausência de pedido expresso na denúncia, além da ausência de debate nos autos sobre o tema, trazendo o seguinte argumento:
+Objetivamente, a insurgência constante desse Recurso Especial, combate a decisão do Egrégio Tribunal de Justiça do Estado do Tocantins que deu provimento à Apelação interposta pelo Ministério Público, julgando procedente o pedido de fixação de valor mínimo à título de reparação à vítima pelos danos causados pela infração (fl. 280).
+No presente caso, não há que se falar em fixação de valor para reparação, visto que não há sequer o pedido expresso na denúncia, tampouco houve o exercício do contraditório e da ampla defesa (fl. 281).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Assim, houve pedido expresso pelo Ministério Público, para a fixação de valor mínimo de reparação de danos, o que proporcionou aos réus o exercício do contraditório e da ampla defesa, uma vez que tinham conhecimento da extensão da acusação e das sanções a que estavam sujeitos.
+ ..
+Portanto, considerando que não houve ressarcimento real da vítima com relação aos objetos subtraídos, nos termos do art. 387, inciso IV, do CPP, deve ser fixada, a título de valor mínimo para a reparação à vítima dos danos causados pela infração, a quantia de R$1.800,00 (mil e oitocentos reais), referentes aos 02 (dois) marteletes da marca Bosch, modelo GBH 2-26, devendo o referido valor ser rateado entre os réus (fls. 246-247).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que a tese recursal está fundada em premissa fática totalmente dissociada daquela fixada no aresto impugnado, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que: "É inadmissível o recurso especial que apresenta razões dissociadas do quadro fático e das premissas jurídicas expostos no acórdão recorrido. Incidência da Súmula 284/STF". (AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 29/04/2021.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.690.156/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2017; AgInt nos EDcl no AREsp n. 1.700.429/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 29/04/2021; AgInt no AREsp n. 1.815.228/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 17/08/2021; AgInt no AREsp n. 931.169/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 19/04/2017.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
