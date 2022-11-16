@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de KEVELLIN PROENCA RODRIGUES CAMARGOem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(HC n. 2123517-42.2022.8.26.0000).
+A paciente foi presa em flagrante pela suposta prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, tendo sido a custódia convertida em preventiva.
+O impetrante sustentaa ausência de fundamentação suficiente a justificar a decretação da segregação cautelar do paciente, entendendo não atendidos os requisitos autorizadores da preventiva, previstos no art. 312 do Código de Processo Penal.
+Alega que a paciente é primária, com bons antecedentes, possui residência fixa, ocupação lícita e não há nos autos elementos aptos a comprovar que a sua liberdade ofereceria risco à garantia da ordem pública, à conveniência da instrução criminal ou àaplicação da lei penal.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva da paciente, mediante a aplicação de medidas cautelares diversas do art. 319 do CPP, expedindo-se alvará de soltura em seu favor.
+É o relatório. Decido.
+A matéria aqui suscitadatambém éobjeto do HC n. 753.751/SP,impugnando o mesmo acórdãoora objurgado e sob os mesmos argumentos aqui levantados.
+Constata-se, assim, a inadmissível reiteração, consoante o entendimento do Superior Tribunal de Justiça.Veja-se o seguinte precedente:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. INDEFERIMENTO DE PEDIDO DE PROGRESSÃO AO REGIME SEMIABERTO. COMETIMENTO DE NOVO DELITO PELO EXECUTADO, QUANDO AGRACIADO, ANTERIORMENTE, COM O REGIME ABERTO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. QUESTÃO DECIDIDA DE MANEIRA EXAURIENTE EM HABEAS CORPUS ANTERIORMENTE IMPETRADO PERANTE ESTA CORTE, IMPUGNANDO O MESMO ACÓRDÃO DE SEGUNDO GRAU. REITERAÇÃO DE PEDIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. É pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido. Precedentes: AgRg no RHC 142.393/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 4/5/2021, DJe 7/5/2021;AgRg no HC 646.388/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 4/5/2021, DJe 10/5/2021; AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe de 18/9/2019.
+2. Reconhecida por esta Corte, em decisão que transitou em julgado em 17/03/2022, a ausência de constrangimento ilegal decorrente do indeferimento de progressão ao regime semiaberto a executado que, quando beneficiado anteriormente com o regime aberto, voltou a praticar novo delito de tráfico de entorpecentes, a impetração de novo habeas corpus, desta vez por patrono constituído pelo executado, insurgindo-se contra os mesmos julgados de 1º e 2º grau e formulando o mesmo pedido com base em argumentos em tudo similares aos já refutados por esta Corte, é forçoso reconhecer que se trata de mera reiteração de insurgência já apreciada e insuscetível de novo exame por este Tribunal Superior, diante do esgotamento da prestação jurisdicional devida.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 730.736/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 5/4/2022, DJe de 11/4/2022.)
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presentehabeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
