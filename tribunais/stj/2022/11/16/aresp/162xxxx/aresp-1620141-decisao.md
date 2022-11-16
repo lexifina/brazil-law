@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GLOBAL TRANSPORTE OCEÂNICO S. A. (GLOBAL TRANSPORTE)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdãodo Tribunalde Justiça do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA.
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE DOCAGEM.
+PARCELA DOS SERVIÇOS PRESTADOS PELA AUTORA REPROVADA PELO ÓRGÃO CLASSIFICADOR, "BUREAU VERITAS", A QUEM INCUMBE APROVAR OS REPAROS E PERMITIR QUE A EMBARCAÇÃO OPERE.
+PARTE RÉ QUE ACEITA O NAVIO SEM RESSALVAS E, POSTERIORMENTE, SE NEGA AO PAGAMENTO DAS PRESTAÇÕES PENDENTES, ASSIM COMO SE RECUSA A ACIONAR A GARANTIA CONTRATUAL, PREFERINDO REALIZAR OS SERVIÇOS PENDENTES POR MEIO DA CONTRATAÇÃO DE TERCEIROS.
+SENTENÇA DE PROCEDÊNCIA.
+INVOCAÇÃO PELA RÉ, ORA APELANTE, DA EXCEÇÃO DO CONTRATO NÃO CUMPRIDO PELO CUMPRIMENTO DEFEITUOSO DO CONTRATO EM FOCO, DIANTE DA REPROVAÇÃO PELO ÓRGÃO CLASSIFICADOR DE PARTE DOS REPAROS REALIZADOS PELO AUTOR.
+1. A exceptio non adimpleti contractus (art. 476 do CC) se refere à possibilidade de o devedor escusar-se da prestação da obrigação contratual por não ter o outro contratante cumprido com aquilo que lhe competia.
+2. A regra engloba não apenas o inadimplemento absoluto, bem como o cumprimento parcial ou defeituoso daprestação, a denominada exceptio non rite adimpleti contractus.
+3. Nesse último caso, o exercício da exceção substancial possui limites e não pode servir de pretexto para o não cumprimento da prestação reclamada, se o descumprimento da contra parte for mínimo ou irrelevante no contexto do contrato específico.
+4. As provas documentais, assim como o laudo pericial, dão conta de que os serviços de soldagem do convés e do coferdam foram reprovados, assim como a pintura de dois tanques de carga, o que, no universo dos serviços prestados de docagem do navio, à míngua de prova nesta direção, não podem ser considerados substanciais.
+5. Caberia à ré, na forma do art. 373, II, do CPC/15, fazer a prova de que a parte do serviço considerada inadequada pelo órgão classificador foi significativa aponto de se ter como descumprido o contrato pela autora, o que não ocorreu no caso concreto.
+6. Em vez de a ré se utilizar dos expedientes disponíveis para que o contrato fosse cumprido satisfatoriamente em sua integralidade, inclusive utilizando-se da garantia contratual oferecida, preferiu deixar de adimplir com as prestações que lhe cabiam e contratar por conta própria outra empresa para os reparos.
+7. Nesse contexto, não há como se aplicar a regra do art. 476 do CC ao caso concreto, à luz da boa -fé objetiva, do dever de lealdade e da colaboração contratual, pois entendimento diverso iria de encontro à finalidade econômica do contrato.
+RECURSO CONHECIDO E DESPROVIDO(e-STJ, fls. 693/694).
+Os embargos de declaração opostos por GLOBAL TRANSPORTE foram rejeitados (e-STJ, fls. 731/738).
+Irresignada, GLOBAL TRANSPORTE interpôs recurso especial com base no art. 105, III, alíneasa e c, da CF, apontando além de dissídio jurisprudencial a violação aos arts. 156, 371, 373, Ie II, 464, 479, 480e1.022, II, do NCPC; e 476 do CC,ao sustentar (1)a negativa de prestação jurisdicional assim consubstanciada: (1.a) omissão quanto aconclusão do laudo pericial que apurou gastos na ordem de R$ 3.823.964,34, "a título de retrabalho para correção e completude dos serviços não prestados ou mal prestados pelo estaleiro", o que demonstraria que parte relevante do serviço deixou de ser realizada pela requerida, constituindo verdadeiro inadimplemento substancial do contrato por parte do estaleiro; (1.b) omissão no que se refere a tese de que não haveriaprova da execução dos serviços objeto da ação de cobrança; (1.c) omissão no que tange a necessidade de liquidação do julgado com a compensação dos valores dispendidosou, ao menos, a glosa dos valores referentes ao serviços inadimplidos ou mal realizados pela requerida; e (1.d) contradição pelo fato de sereconhecer a existência de determinado grau de inadimplemento e, por outrolado, manter a condenação;(2) a exceção do contrato não cumprido; (3)ausência de demonstração do fato constitutivo do direito invocado, com aconsequente improcedência da demanda; e(4)descompasso entre as conclusões do acórdão e a prova pericial produzida nos autos(e-STJ, fls. 748/781).
+O recurso não foi admitido pelo TJRJ(e-STJ, fls. 808/815).
+Nas razões do presente agravo,GLOBAL TRANSPORTE alegou que não incidem os óbices apontados na decisão de inadmissibilidade (e-STJ, fls. 835/862).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperarpara o retorno dos autos ao TJRJa fim de que sejam analisadasas questões trazidas nos embargos de declaração.
+(1) Da negativa de prestação jurisdicional
+O TJRJ, ao analisar os embargos de declaração, incorreu em negativa de prestação jurisdicional assim consubstanciada: (1.a) omissão quanto a conclusão do laudo pericial que apurou gastos na ordem de R$ 3.823.964,34, "a título de retrabalho para correção e completude dos serviços não prestados ou mal prestados pelo estaleiro", o que demonstraria que parte relevante do serviço deixou de ser realizada pela requerida, constituindo verdadeiro inadimplemento substancial do contrato por parte do estaleiro; (1.b) omissão no que se refere a tese de que não haveria prova da execução dos serviços objeto da ação de cobrança; (1.c) omissão no que tange a necessidade de liquidação do julgado com a compensação dos valores dispendidos ou, ao menos, a glosa dos valores referentes ao serviços inadimplidos ou mal realizados pela requerida; e (1.d) contradição pelo fato de se reconhecer a existência de determinado grau de inadimplemento e, por outro lado, manter a condenação.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se o TJRJa se manifestar sobre aquestãofederalterminou por negar prestação jurisdicional aRecorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012).
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Reconhecida a alegação de negativa de prestação jurisdicional, fica prejudicado o exame das demais questões suscitadas no recurso especial.
+Ante o exposto, CONHEÇO do agravo deGLOBAL TRANSPORTE e DOU PROVIMENTOseu recurso especial, determinando o retorno dos autos ao TJRJa fim de que renove o julgamento dos embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE COBRANÇA.CONTRATO DE PRESTAÇÃO DE SERVIÇOS DE DOCAGEM. OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. OMISSÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
