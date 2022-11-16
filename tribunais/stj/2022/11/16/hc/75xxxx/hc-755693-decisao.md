@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim relatado (fl. 63):
+Cuida-se de recurso de agravo de execução penal interposto por Diego Furtado Barbosa contra a decisão juntada à fl. 22, proferida pela MMª Juíza de Direito do DEECRIM 4ª RAJ da Comarca de Campinas - SP, que, nos autos de Execução nº 0006446-36.2021.8.26.0502, revogou o livramento condicional anteriormente concedido com base no artigo 87, do Código Penal.
+Inconformado, recorre o sentenciado pleiteando a cassação da decisão a fim de manter o livramento condicional, ainda que suspenso, e determinar a realização de oitiva em audiência de justificação (fls. 01/04).
+Contraminutado o recurso (fls. 27/30), não sobreveio retratação judicial (fl. 31). A Douta Procuradoria Geral de Justiça manifestou-se pelo desprovimento do agravo (fls. 39/41).
+Consta dos autos que o Juízo da execução revogou o livramento condicional concedido aopaciente.
+Interposto agravo em execução pela defesa, o Tribunal de origem negou provimento ao recurso.
+Neste writ, alega a impetrante, em síntese, constrangimento ilegal em razão da ausência de prévia oitiva do paciente para a revogação do livramento condicional.
+Argumenta que "é fundamental que o sentenciado seja ouvido em juízo, oportunidade em que poderá apresentar sua versão dos fatos, conforme determina o art. 118, § 2º, da LEP. Porém, não foi designada audiência de justificação" (fl. 5).
+Requer, liminarmente e no mérito, a concessão da ordem para restaurar o livramento condicional e realizara oitiva do sentenciado.
+Indeferida a liminar, e prestadas informações, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+A decisão que revogou o livramento condicional está assim fundamentada (fl. 30):
+Inicialmente, anoto que desnecessária e protelatória a realização de audiência.
+Tendo sido o sentenciado DIEGO FURTADO BARBOSA, recolhido(a) no(a) Centro de Progressão Penitenciária de Franco da Rocha, advertido das conseqüências do descumprimento das condições impostas, vinha cumprindo o livramento condicional, e deliberadamente, sem apresentar qualquer justificativa, interrompeu o cumprimento das condições do benefício. Tentada sua intimação no endereço declinado, a mesma resultou infrutífera. Cabe a ele informar ao Juízo eventual impedimento, e não ao juízo perquiri-lo.
+Isto posto, verificado que o sentenciado vem descumprindo as condições do benefício, REVOGO o livramento condicional concedido nos autos da execução epigrafada, forte no art. 87 do Código Penal. Expeça-se mandado de prisão em desfavor do sentenciado.
+O Tribunal de origem manteve a revogação do livramento condicional com base na seguinte fundamentação (fls. 64-65):
+No caso em tela, observa-se que o agravante não foi encontrado no endereço declinado nos autos, sobrevindo, inclusive, informação de que no dia 21/07/2021, ele entrou em contato com a unidade prisional se comprometendo a comparecer para ser advertido sobre as condições de sua liberdade condicional, contudo não se apresentou (cf. ofício de fl. 136 dos autos de origem).
+Como se não bastasse, a z. serventia entrou em contato com a irmã do agravante por diversas vezes, não obtendo sucesso em localizar o sentenciado (cf. certificado a fls. 144, 146 e 148 dos autos originais).
+Sendo assim, a revogação do benefício se mostra medida acertada, em consonância com o disposto no artigo 87, do Código Penal, posto que,apesar de todos os esforços envidados pelo Juízo, o agravante sequer se apresentou para tomar ciência das condições que lhe foram impostas, demonstrando desprezopela Justiça.
+Como se vê, o Tribunal de origem manteve a revogação do livramento condicional, uma vez que "o agravante não foi encontrado no endereço declinado nos autos, sobrevindo, inclusive, informação de que no dia 21/07/2021, ele entrou em contato com a unidade prisional se comprometendo a comparecer para ser advertido sobre as condições de sua liberdade condicional, contudo não se apresentou (cf. ofício de fl. 136 dos autos de origem)". Destacou-se, ainda, que "a z. serventia entrou em contato com a irmã do agravante por diversas vezes, não obtendo sucesso em localizar o sentenciado (cf. certificado a fls. 144, 146 e 148 dos autos originais)".
+"Esta Corte Superior tem entendido que, diferentemente da suspensão cautelar, a revogação do livramento condicional depende da prévia oitiva do apenado, sob pena de ofensa às garantias constitucionais da ampla defesa e do contraditório. Porém, quando o reeducando não é localizado no endereço por ele fornecido, em descumprimento ao estabelecido para gozo do benefício (LEP, art. 132, §§1º e 2º), o livramento condicional deve ser revogado, ex vi do disposto no art. 87 do Código Penal. Precedentes"(HC n. 216.725/RJ, relator Ministro Gurgel de Faria, Quinta Turma, julgado em 13/10/2015, DJe de 29/10/2015.)
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
