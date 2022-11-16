@@ -1,0 +1,27 @@
+DECISÃO
+239Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 212):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - REPRESENTAÇÃO PROCESSUAL DA PARTE AUTORA - IRREGULARIDADE - VERIFICAÇÃO - PRESSUPOSTO PROCESSUAL - AUSÊNCIA - EXTINÇÃO DO FEITO SEM RESOLUÇÃO DO MÉRITO - MANUTENÇÃO DA SENTENÇA.
+- O regular prosseguimento da demanda depende do cumprimento de determinados pressupostos processuais, dentre os quais se destaca a capacidade processual, que é requisito de validade dos atos processuais.
+- A postulação em juízo sem procuração, ou por instrumento inválido, é vedada pelo ordenamento jurídico brasileiro, nos termos do art. 104 do CPC/2015.
+- É dever das partes e de seus procuradores manter atualizado o endereço para o recebimento de intimações (CPC/2015, art. 77, V), sob pena de considerar válidas as intimações dirigidas ao endereço constante nos autos, ainda que não recebidas (CPC/2015, art. 274, parágrafo único).
+- Não sanada a incapacidade processual da parte autora de acordo com o art. 76 do CPC/2015, impõe-se a extinção do feito sem resolução de mérito, nos termos do art. 485 do CPC/2015.
+Nas razões do recurso especial, a parte agravante aponta violação dos arts. 105, 319, 320 do Código de Processo Civil, e5º da Lei 8.906/94.
+Alega que a petição inicial foi declarada inepta, embora tenha atendido a todos os requisitos contidos no art. 319 do Código de Processo Civil.
+Sustenta que a procuraçãooutorgada ao patrono da demanda era regular, razão pela qual foi descabida a aplicação dapenalidade prevista no artigo 104, §2º, do CPC.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Não assiste razão ao agravante.
+Na espécie, o Tribunal de origem, concluindo ter ficado demonstrada a irregularidade da representação processual da parte autora, em razão da ausência de ratificação do mandado, confirmou a sentença de extinção do feito sem resolução de mérito, bem como determinou queo patrono deveria arcar com as custas do processo, conforme as seguintes justificativas (e-STJ, fls. 217/222):
+No caso dos autos, considerando o alto índice de fraudes processuais perpetradas em diversos feitos em trâmite neste Estado - vários destes patrocinados pelo Dr. Luiz Fernando Cardoso Ramos, determinei a intimação pessoal da parte para que informasse se possuía conhecimento acerca da propositura da presente demanda, interesse ou não no prosseguimento e autenticidade da procuração (ordem 33).
+(..)
+ V erifica-se que a procuração apresentada nos autos não foi ratificada pela parte autora, devendo ser considerada inexistente nos autos, o que enseja a ausência de pressuposto de constituição e desenvolvimento válido e regular do processo. Isso porque o artigo 103 do CPC/2015 é claro no sentido de que é necessário que a parte esteja representada por advogado para postular em juízo. Por sua vez, o artigo 104 do CPC/2015 prevê que a postulação em juízo sem procuração, ou por instrumento inválido, é vedada pelo ordenamento jurídico brasileiro.
+Frise-se que, no caso específico dos autos, cuida-se de patrono sem poderes de representação processual, situação na qual o vício se originou desde o ajuizamento da demanda, motivo pelo qual não se pode aplicar, neste grau recursal, a regra disposta no artigo 76, § 2º, do CPC/2015.
+Ora, o mero não conhecimento do recurso, na forma do referido dispositivo, poderia acarretar a manutenção da condenação da parte ré ao pagamento, além dos ônus sucumbenciais, da indenização por danos morais, gerando, por consequência, a ocorrência de enriquecimento ilícito, prática vedada pelo artigo 884 do CC/2002.
+Neste contexto, impõe-se a extinção do processo, por ausência de pressuposto de constituição e desenvolvimento válido e regular do processo, com fulcro no artigo 485, inciso IV, do CPC/2015 (..)
+Em observância ao princípio da causalidade, condeno o advogado Luiz Fernando Cardoso Ramos, OAB/MG 190.952, ao pagamento das custas e despesas processuais, inclusive as recursais, e dos honorários advocatícios aos patronos da parte apelada, os quais fixo em 20% (vinte por cento) sobre o valor atualizado da causa.
+Havendo indícios de ofensa ao Código de Ética da OAB e à lei penal, determino a remessa de cópia dos presentes autos à Ordem dos Advogados do Brasil, Seção Minas Gerais, e ao Ministério Público da Comarca de Belo Horizonte para aferirem sobre a efetiva ocorrência de infrações praticadas pelo procurador Luiz Fernando Cardoso Ramos, OAB/MG 190.952.
+Diante desse contexto, o acolhimento das teses veiculadas nas razões do recurso especial, centralizadas na alegação de regularidade da representação processual doautorcom base da validade da outorga do mandato, em confronto com as conclusões assentadas pela Corte estadual, exigiria o reexame das premissas fático-probatórias da causa, providência vedada pelo óbice daSúmula 7 do STJ.
+Por fim, no que tange à alegada violação aos arts. 319 e 320 do CPC, constata-se, da leitura do acórdão recorrido, que o conteúdo normativo dos referidos dispositivos não foi objeto de análise pelo Colegiado estadual, o que evidencia a ausência do indispensável prequestionamento da matéria e atrai a incidência das Súmulas 282 e 356 do STF.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
