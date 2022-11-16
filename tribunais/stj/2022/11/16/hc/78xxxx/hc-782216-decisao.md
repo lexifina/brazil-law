@@ -1,0 +1,10 @@
+DECISÃO
+O presente writ, impetrado em benefício de Heraldo Silvestre de Queiroz- cumprindo pena privativa de liberdadede 33anos, 1mêse 7dias dereclusão, em razão de 14 condenaçõespelo crime de furto qualificado e falsificação de documento público(PEC n. 0005949-38.2016.8.26.0521) - contra ato coator do Tribunal de Justiça de São Paulo (Agravo de Execução Penal n. 0010579-60.2022.8.26.0996), não comporta processamento.
+Com efeito, busca a impetração seja concedida a progressão de regime ao paciente, independente da realização doexame criminológicodeterminado pela Corte estadual, ao argumento de queo sentenciado descontou a porção de pena necessária no regime fechado, além de possuir bom comportamento carcerário devidamente atestado, de modo que, preenchidos os requisitos legais, nada há a obstar a declaração do direito executório na espécie (fl. 5).
+Da análise do acórdão hostilizadoobserva-se que o Tribunal não se referiu apenas à longevidade da pena e à gravidade dos delitos pelos quaiso paciente cumpre a reprimenda, por outro lado, destacou que,apesar de o agravado preencher o requisito objetivo e contar com atestado de bom comportamento carcerário, verifica-se que o sentenciado foi condenado por nada mais nada menos que 14 furtos cometidos, e que, por isso, recomenda maior cautela na concessão de qualquer benefício(fl. 77).
+Tal fundamentação encontra respaldo na jurisprudência desta Corte Superior de Justiça, afinal, anoção de bom comportamento do reeducando abrange a valoração de elementos que não se restringem ao atestado emitido pela direção carcerária, sob pena de transformar o juiz em mero homologador de documentos administrativos(AgRg no HC n. 660.197/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 25/8/2021).
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+EXECUÇÃO PENAL. HABEAS CORPUS.PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. FUNDAMENTAÇÃO CONCRETA. CONSTATAÇÃO DO REQUISITO SUBJETIVO.INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE.
+Inicial indeferida liminarmente.
