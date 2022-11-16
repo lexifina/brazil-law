@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto porSUPERVIA CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S.A. - EM RECUPERAÇÃPO JUDICIAL contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+Agravo de instrumento com pedido de efeito suspensivo. Concessionária de serviço público. Transporte ferroviário. Acessibilidade. Ação coletiva em trâmite na 16ª Vara de Fazenda Pública, na qual foi celebrado TAC entre a agravante e o MPRJ cujo objeto é adequar as estações para usuários de necessidades especiais, incluindo-se a estação de Santa Cruz, objeto da lide. Decisão juízo a quo, nos autos de origem, que revogou a tutela de urgência anteriormente deferida, extinguiu o processo no que tange ao pedido de obrigação de fazer e determinou o prosseguimento do feito em relação ao pleito de dano moral. Inconformismo da ré, Supervia pleiteando a extinção do processo também quanto aos danos morais, ou, ao menos, a suspensão da demanda. Inexistência de litispendência entre a ação individual e a ação coletiva. O interesse tutelado pode ser defendido por meio de ação coletiva, mas cabe somente ao autor, ora agravado, esta opção. Prestígio ao direito fundamental de acesso à jurisdição. Ademais, a natureza do dano moral coletivo não se confunde com o dano moral individual. Decisão que se mantém. NEGADO PROVIMENTO AO RECURSO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a recorrente, invocando oarts. 927, III, do CPC, pede a suspensão do andamento do presente recurso,dada a relação deprejudicialidade entre aAção Civil Pública nº 0167632-82.2019.8.19.0001 e a demanda individual.
+No mais, aponta violação aoart. 81, do CDC, defendendo quea extinção do pedido principal referente à obrigação de fazer necessariamenteimpõe a extinção do pleito indenizatório.
+No mais, aponta violação ao art. 1.022, II, do CPC, sustentando que a Corte de origem, apesar da oposição de embargos de declaração, deixou de se manifestar sobre relevantes questões suscitadas.
+É o relatório. Passo a decidir.
+A insurgência não prospera.
+O presente recurso decorre de acórdão que examinou agravo de instrumento.
+Nesse julgamento, o TJ/RJ manteve a decisão que extinguirao processo em relação ao pedido de imposição de obrigação de fazer (obras de acessibilidade em estação de trem) e determinarao processamento do pedido de condenação da ora recorrente ao pagamento de danos morais à parte autora.
+Em consulta ao andamento do processo0015753-92.2019.8.19.0206 que deu origem ao agravo de instrumento, verifica-se que o feito foi suspenso em 5/11/2021 (e esse é lançamento mais recente no andamento processual).
+Nesses termos, desnecessário o exame do pedido de suspensão do exame do presente recurso.
+Sobre as alegações trazidas no recurso especial,é deficiente a sua fundamentação na parte em que se aponta negativa de prestação jurisdicional e vício de fundamentação no julgamento dos embargos de declaração.
+É que a argumentação da recorrente no ponto foi genérica, sem demonstração objetiva de qual exatamente teria sido a omissão não sanada pela Corte de origem, bem assim a sua relevância para o justo deslinde da causa.
+Nessas circunstâncias, o óbice da Súmula 284/STF, aqui aplicável por analogia, impede o conhecimento do recurso especial.
+Por fim, a despeito da falta de suficiente prequestionamento do art. 81 do CDC, o comando desse dispositivo é genérico, ou seja, sem aptidão para, por si só, infirmar as conclusões do acórdão recorrido de que a demanda pode prosseguir em relação ao pedido de indenização por danos morais, as quais foram fundadas em dispositivos não apontados como violados (104 do CDC e 22, § 1º, da Lei 12.016/2009).
+Assim, incide novamente o óbice da Súmula 284/STF.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. SERVIÇO DE TRANSPORTE FERROVIÁRIO. AÇÃO INDIVIDUAL OBJETIVANDO IMPOSIÇÃO DE OBRIGAÇÃO DE FAZER (OBRAS DE ACESSIBILIDADE EM ESTAÇÃO DE TREM) E REPARAÇÃO POR DANOS MORAIS. AGRAVO DE INSTRUMENTO INTERPOSTO CONTRA DECISÃO QUE EXTINGUIRA A DEMANDA APENAS QUANTO AO PEDIDO DE IMPOSIÇÃO DE OBRIGAÇÃO DE FAZER. QUESTIONAMENTO SOBRE O PROSSEGUIMENTO DA DEMANDA RELATIVAMENTE AO PEDIDO DE REPARAÇÃO POR DANOS MORAIS.ALEGAÇÕES DE OFENSA AOS ARTS. 1.022 DO CPC/2015 E 81 DO CÓDIGO DE DEFESA DO CONSUMIDOR. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
