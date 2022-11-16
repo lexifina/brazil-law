@@ -1,0 +1,12 @@
+DECISÃO
+SÉRGIO LUIZ ORLANDI FILHO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarinana Apelação Criminal n. 5022267-66.2022.8.24.0000.
+A defesa pretende, em síntese, a aplicação da minorante prevista no art. 33, § 4º, da Lei de Drogas.
+Em consulta ao sistema informatizado do Superior Tribunal de Justiça, verifico que o mérito da matéria ora questionada já foi decidido no julgamento do AgRg no Aresp n.1.540.969/SC, assim ementado (grifei):
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Uma vez que a Corte estadual, após toda a análise do conjunto fático-probatório amealhado aos autos, concluiu pela existência de elementos concretos e coesos a ensejar a condenação do acusado pela prática do crime de tráfico de drogas, mostra-se inviável proclamar a desclassificação da conduta a ele imputada para o delito descrito no art. 33, § 3º, da Lei n. 11.343/2006, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado no caso.
+2. Para entender-se pela desclassificação do delito de tráfico para o de consumo compartilhado de drogas, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível na via do recurso especial, nos termos da Súmula n. 7 do STJ.
+3. O Tribunal de origem - dentro do seu livre convencimento motivado - considerou que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas, notadamente ao tráfico de drogas, motivo pelo qual não há como reconhecer a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006 em favor do réu.
+4. Agravo regimental não provido.
+Dessa forma, não se pode processar o presente writ, por consubstanciar mera reiteração de pedido, uma vez que tem as mesmas partes e idêntico objeto ao recurso citado.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
