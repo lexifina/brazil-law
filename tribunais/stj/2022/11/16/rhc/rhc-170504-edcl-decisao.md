@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JOÃO PAULO NASCIMENTO NEVES de decisão na qual julguei prejudicado o recurso, uma vez que o STFconcedeu a ordempara revogar a prisão cautelar do ora embargante.
+A defesa afirma que a decisão impugnada foi omissa ao deixar de analisar a tese de nulidade da prova colhida em busca pessoal ilegal.
+É o breve relato.
+Decido.
+De acordo com oart. 619 do Código de Processo Penal, os embargos dedeclaração, como recurso de correção, destinam-se a suprir omissão,contradição e ambiguidade ou obscuridade existente no julgado. Não seprestam, portanto, para sua revisão no caso de mero inconformismo daparte.
+No caso, observas-se que, defato, assiste razão à defesa quando afirma omissão na decisão impugnada a respeito da tese de invalidade da busca pessoal. Na inicial do recurso, sustentou-se que a revista doagente foi feita sem as observâncias legais. Alegou-se que "não há como justificar a fundada suspeita no fato de visualizar uma pessoa NÃO CONHECIDA PELA POLÍCIA, SEM QUALQUER REGISTRO DE ANTECEDENTES CRIMINAIS, EM PLENA LUZ DO DIA, em época de festejos juninos, num LOCAL DE GRANDE MOVIMENTAÇÃO de veículos e pessoas".
+A Corte de origem, no ponto, assim se manifestou:
+Conforme relatado, assenta-se o presente Writ, inicialmente, na tese de ilegalidade da prisão flagrancial do Paciente e consequente ilicitude das provas daí oriundas, ante a realização de busca pessoal à margem de justa causa. Todavia, ao exame do Auto de Prisão em Flagrante, observa-se substancial divergência entre o relato do custodiado - o qual descreveu captura no interior de sua casa- e a narrativa dos Policiais, que afirmaram ter o agente tentado fugir e resistir fisicamente à abordagem em via pública.
+Portanto,conclui-se pela aparente legitimidade da ação policial e concomitante revista na pessoa do Paciente, sendo certo, ademais, que a desconstituição desse entendimento, em indevida antecipação à própria colheita judicial da evidência, reclamaria profundo exame de fatos e provas, de todo incompatível com a via estreita do Write reservado ao Juízo a quo, após regular instrução e sob cognição exauriente, quando lhe caberá aferir a real dinâmica da apreensão da droga e da prisão flagrancial do Paciente.
+Como se verifica, a tese levantada pela defesa - invalidade da busca pessoal - não encontra respaldo no contexto fático dos autos. Do depoimento colhido na delegacia de policia, o embargante foi categórico em afirmar que foi surpreendido em casa. Logo, o exame da tese defensiva acarreta o reexame do conteúdo fático probatório, providência inadmissível nesta Corte.
+Ante o exposto, acolho os embargos de declaração sem efeitos modificativos.
+Publique-se. Intimem-se.
