@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão proferido peloTRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃOassim ementado:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE IMPUGNAÇÃO AO VALOR DA CAUSA. PRECLUSÃO. ATUALIZAÇÃO DO VALOR EXEQUENDO. CABIMENTO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, fundamentado na alínea "a" do permissivo constitucional, o recorrente sustenta violação aoartigo1.022 do CPC/2015.
+Preliminarmente, aduz que o acórdão de origem foi omisso na análise de questões relevantes para a conclusão da controvérsia.
+Decisão de admissibilidade à fl. 577.
+É o relatório. Decido.
+A pretensão não merece colhimento.
+No que tange à alegada violação aoartigo1.022 do CPC/2015, verifica-se que as razões de recorrer são genéricas, na medida em que limitam-se a afirmar que o acórdão a quo foi omisso quando a avaliação dos embargos de declaração, sem contudo delimitar como a tese omitida é fundamental à conclusão do julgado e, se examinada, como levaria à sua anulação ou reforma.
+Trata-se de deficiência na fundamentação, caso em que se aplica, por analogia, o disposto na Súmula 284/STF, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Destaque-se:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, O FUNDAMENTO DA DECISÃO AGRAVADA ALUSIVO À INVIABILIDADE DE EXAME, EM RECURSO ESPECIAL, DA ALEGADA AFRONTA AOS PRINCÍPIOS CONSTITUCIONAIS DO CONTRADITÓRIO E DA AMPLA DEFESA. SÚMULA 182/STJ. AÇÃO ANULATÓRIA DE DÉBITO FISCAL. ALEGAÇÃO GENÉRICA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ALEGADA VIOLAÇÃO AOS ARTS. 784, IX, E 803, I, DO CPC/2015, 202 E 203 DO CTN E 2º, § 5º, DA LEI 6.830/80. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. INADMISSIBILIDADE DO RECURSO ESPECIAL, ADEMAIS, QUANTO À ALEGADA INEXISTÊNCIA DE PRESCRIÇÃO, POR DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA EXTENSÃO, IMPROVIDO. (..) V. No tocante à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violados os arts. 489 e 1.022 do CPC/2015, a parte agravante não evidencia qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa aos citados dispositivos, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"). Nesse sentido: STJ, AgInt no AREsp 1.229.647/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe de 15/06/2018; AgInt no AREsp 1.173.123/MA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 29/06/2018. (..) X. Agravo interno parcialmente conhecido, e, nessa extensão, improvido. (AgInt no AREsp 1596432/RJ, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/06/2021, DJe 17/06/2021 - grifo nosso)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
