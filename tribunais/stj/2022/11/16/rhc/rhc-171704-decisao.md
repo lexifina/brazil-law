@@ -1,0 +1,41 @@
+DECISÃO
+PAULO ROBERTO SANTOS DE JESUS alega sofrer coação ilegal pelo Tribunal de Justiça do Estado da Bahia (HC n. 8015452-30.2022.8.05.0000).
+Nesta Corte, a defesa pública sustenta a falta de fundamentação idônea para a decretação da prisão processual do acusado, pela suposta prática do crime previsto no art. 157, § 2º, I e II, do Código Penal. Suscita o princípio da presunção de inocência.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura.
+Indeferida a liminar e prestadas as informações, opinou o Parquet Federal pelo não provimento do recurso (fls. 114-115; 147-148; 154-155).
+Decido.
+Expõem os autos que o Ministério Público denunciou, em 20/9/2010, o recorrente e um comparsa pela suposta prática do roubo de um veículo, ocorrido em 15/1/2001 (fls. 122-123).
+O mandado de citação, no entanto, não foi cumprido. Subscreveu o oficial de justiça certidão de seguinte teor, em 15/6/2011 (fls. 52; 131):
+Certifico e dou fé que, em cumprimento a este mandado, compareci à Rua Teodoro Sampaio, Sussuarana, mas deixei de citar PAULO ROBERTO SANTOS DE JESUS, pois a referida rua é de pequena extensão e o maior número é 19 (dezenove), os moradores do local disseram desconhecer o denunciado. Que não citei ALESSANDRO MACEDO DE JESUS, pelo motivo do endereço ser insuficiente; no local existe a Rua São Cristóvão, e nesta o referido denunciado é desconhecido.
+Citados por edital e transcorrido in albis o prazo ali definido, o Magistrado da Comarca de Salvador decretou a segregação preventiva dos denunciados, em 28/9/2011, sob estes motivos (fls. 139-140):
+Por se encontrarem em lugar incerto e não sabido, foram regularmente citados por Edital às fls. 86, não tendo apresentado resposta escrita, segundo demonstra a Certidão de fls. 87, razão pela qual DECLARA-SE RÉUS REVEL  sic .
+Desta forma, nos termos do art. 366 do Código de Processo Penal, fica o presente processo SUSPENSO, bem como o curso do prazo prescricional, devendo o Cartório adotar as necessárias providências.
+Numa outra órbita, observa-se nestes autos que os réus deixaram o distrito da culpa, o que indica que a manutenção das suas liberdades importará em grande possibilidade de atrapalhar a instrução criminal e, por consequência, ocasionar a frustração na aplicação da Lei Penal.
+Nessa perspectiva, o art. 312 do CPP, com redação dada pela Lei nº 12.403/2011, dispõe sobre a possibilidade de decretação de prisão preventiva, que é medida acautelatória do processo, quando houver prova da existência de crime e indícios suficientes de autoria, indicativos de necessidade para a garantia de ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal. No caso em tela, verifica-se a falta de comprometimento dos réus com a Justiça e com Poder Judiciário, o que indica a necessidade de sua custódia preventiva como forma de garantia de ordem pública, andamento da instrução criminal e aplicação da Lei Penal.
+Por todo o exposto, e para a garantia da ordem pública, por conveniência da instrução criminal e eficaz aplicação da legislação penal, com fulcro no art. 311 e 312 do CPP, com alteração dada pela Lei nº 12.403/2011, DECRETO a PRISÃO PREVENTIVA de PAULO ROBERTO SANTOS DE JESUS e ALESSANDRO MACENA DE JESUS, já qualificados nos autos.
+O Tribunal a quo denegou o mandamus lá impetrado.
+Noticia o Juízo de primeiro grau que a demanda permanece suspensa, sem novos trâmites (fls. 147-148).
+Feitos esses registros, passo ao exame das pretensões defensivas.
+Ao que se depreende das peças do reclamo, não foram esgotadas as diligências estatais para as tentativas de localização do denunciado. A citação por edital deixou de ser precedida de ações estatais concretas e suficientes para o encontro do acusado.
+Não há notícia, nos autos, de que, antes da expedição da ordem de constrição, em 28/9/2011, o denunciado tinha plena ciência da persecução penal ou do decreto prisional.
+O decisum preventivo baseou-se, exclusivamente, na falta de localização do investigado para responder ao chamamento judicial, muito embora, de acordo com a orientação desta Corte de Justiça, ela não constitua justificativa apta ao seu encarceramento provisório, pois dissociada de outro elemento que indique a sua condição de foragido.
+De mais a mais, a segregação preventiva, unicamente em virtude da revelia, foi determinada mais de 10 anos e meio depois dos fatos narrados na denúncia - momento em que a cautelaridade, ante o decurso do tempo, estava enfraquecida.
+A propósito, a "jurisprudência desta Corte Superior é firme em assinalar que a urgência intrínseca às cautelares  notadamente à mais gravosa  exige a contemporaneidade dos fatos justificadores dos riscos que se pretende  com ela  evitar" (HC n. 529.837/SP, Ministro Rogerio Schietti, 6ª T., DJe 29/11/2019, grifei).
+No mesmo sentido:
+ ..  3. Não obstante o Juiz de primeiro grau e o Tribunal local tenham justificado a necessidade da custódia cautelar para assegurar a aplicação da lei penal - sob o fundamento de que o Réu foi citado por edital após não ter sido localizado no endereço informado no inquérito policial e citado por edital -, não foi indicado nenhum elemento concreto que evidenciasse a intenção do Recorrente de se furtar ao processo.
+4. "A presunção de fuga, decorrente do fato de o paciente não ser localizado para citação, não constitui fundamentação válida a autorizar a custódia cautelar, porquanto os conceitos de evasão e não localização não se confundem" (STJ, HC 446.010/SP,  ..  Rel. p/ acórdão Ministro RIBEIRO DANTAS, QUINTA TURMA,  ..  DJe 27/08/2018).
+5. Além disso, a cautelaridade necessária à decretação da prisão preventiva já estava enfraquecida pelo tempo transcorrido desde o fato delituoso, praticado em maio de 2016, uma vez que o pedido foi formulado pelo Ministério Público tão somente em 23/11/2020, sem embargo dos meios que dispõe de investigação. Nesse aspecto, a prisão processual implementada em 12/12/2020 viola o princípio da contemporaneidade.
+6. Ausência de risco concreto e atual à ordem e à segurança públicas, ou à garantia da devida tramitação do processo, o que esvazia a necessidade da prisão cautelar. Em outras palavras, observado o binômio proporcionalidade e adequação, é despicienda a custódia extrema decretada.
+7. Recurso ordinário em habeas corpus provido para desconstituir a prisão preventiva do Recorrente, se por al não estiver preso, sem prejuízo da fixação de medidas cautelares diversas do cárcere (art. 319 do Código de Processo Penal), desde que de forma fundamentada.
+(RHC n. 143.499/GO, Rel. Ministra Laurita Vaz, 6ª T., DJe 4/5/2021.)
+ ..  2. Não se confunde evasão com não localização. A mera circunstância de o réu não haver sido encontrado para responder ao chamamento judicial - vale dizer, a circunstância de ele se encontrar em local incerto e não sabido - não constitui razão idônea, por si só, ao seu encarceramento provisório, caso dissociada de qualquer outro elemento real que indique a sua condição de foragido.
+3. A simples oitiva do acusado durante o procedimento investigativo não é bastante para que se pressuponha a sua ciência inequívoca da acusação ou da ordem prisional.
+ ..
+5. Recurso provido, com a confirmação da liminar, para tornar sem efeito o decreto prisional, se por outro motivo não estiver o réu segregado.
+(RHC n. 128.996/DF, Rel. Ministro Rogerio Schietti, 6ª T., DJe 23/9/2020.)
+ ..  2. Não obstante a gravidade dos fatos  .. , a prisão do réu, que respondeu ao processo em liberdade, foi determinada após 10 anos das práticas delituosas, sem que fossem apontados elementos concretos e contemporâneos que a justificassem.
+3. Ordem concedida para revogar a constrição antecipada do paciente  .. .
+(HC n. 555.309/SP, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 12/3/2020.)
+À vista do exposto, dou provimento ao reclamo ordinário, para tornar sem efeito o decreto preventivo e determinar a expedição de alvará de soltura em favor do recorrente, se por outro motivo não estiver custodiado, sob o compromisso de comparecimento aos atos processuais -, sem prejuízo da fixação de medidas previstas no art. 319 do CPP, desde que de forma fundamentada, ou da decretação de nova ordem prisional, se sobrevier situação que configure sua exigência.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
