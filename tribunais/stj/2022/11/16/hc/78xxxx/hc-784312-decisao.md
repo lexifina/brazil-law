@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se dehabeas corpussubstitutivo de recurso especial, com pedido liminar, impetrado em favor de GUILHERME SANTOS DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 1500875-23.2021.8.26.0530.
+Consta dos autos que opaciente foi condenado, em primeiro grau de jurisdição, às penas de2 anos e 6 meses de reclusão, em regimeinicial aberto, e250 dias-multa,substituída a pena privativa de liberdade por medidas restritivas de direitos, pela prática do delito tipificado no art. 33,caput, e § 4.º, da Lei n. 11.343/2006 (e-STJ,fls. 11/19).
+Irresignado, o Parquet apelou, e o Tribunal estadual deu provimento ao recurso para, afastando a minorante do tráfico privilegiado, redimensionar as sanções do paciente a5 anos de reclusão, em regime inicial semiaberto, e500 dias-multamantidos os demais termos da sentença (e-STJ fls. 36/46).
+No presentewrit (e-STJ, fls. 3/10), a impetrante alega que o paciente sofre constrangimento ilegal, porque ele satisfaz todos os requisitos legais para fazer jus à causa de diminuição da pena do tráfico privilegiado.
+Aduz também que embora o paciente tenha envolvimento com atos infracionais na menoridade, foi verificado que o mesmo se envolveu em tal ato ilícito apenas no ano de 2019, e assim não fica comprovado uma sequência criminosa capaz de afastar a minorante aplicada (e-STJ, fl. 6).
+Diante disso, requer, liminarmente e no mérito,a concessão da ordempara que seja aplicada a redutora do tráfico privilegiado ao paciente, com seus consectários legais.
+Por estarem os autos suficientemente instruídos, dispenso o envio de informações.
+É o relatório. Decido.
+Em que pesem os judiciosos argumentos expendidos pela impetrante, da análise dos autos, não verifico patente constrangimento ilegal a ensejar sequer o processamento deste writ.
+Isso porque, ao compulsar os autos, e em consulta aos dados processuais desta Corte Superior, verifico que em impetração anterior interposta pela defesa do paciente, qual seja o HC n. 731.557/SP, DE MINHA RELATORIA, o qual se insurgia contra o mesmo acórdão ora impugnado (Apelação Criminal n. 1500875-23.2021.8.26.0530), era vindicado também a aplicação da redutora do tráfico privilegiado ao paciente e, por conseguinte, o abrandamento de seu regime prisional.
+Na oportunidade, asseverei que a quantidade de droga apreendida - 31,52 gramas de maconha, divididos em 17 invólucros plásticos - não era excessivaa ponto de sugerir o envolvimento estreito do paciente com o tráfico organizado de drogas.Todavia, o afastamento da referida benesse não se baseou apenas nesse vetor, mas levou em consideraçãoainda,anotações de passagempela Vara da Infância e da Juventude, bem comoo fato deele haver sido colhido em flagrante em conhecido ponto de tráfico.
+Nesse contexto, ressaltei que haviaelementos concretos indicativos da habitualidade delitiva, não sendo possível reformar o juízo de fato firmado na origem sobre o tema, pois a via estreita, de cognição sumáriadomandamusnão admite dilação probatória.
+Por fim, consignei que mantidaa pena definitiva imposta na origem, o regime prisional inicial semiaberto erao recomendado para oquantumda sanção, nos termos do art. 33, § 2.º, alínea "b", do Código Penal.
+Nesses termos, por se tratar de reiteração de matéria já apreciada e decidida por esta Corte de justiça, julgo prejudicada a análise dessa insurgência.
+Ante o exposto, com espeque no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
