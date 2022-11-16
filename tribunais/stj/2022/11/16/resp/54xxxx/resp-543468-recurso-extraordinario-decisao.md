@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelaFAZENDA NACIONAL, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça.
+A parte recorrente sustenta a violação dos arts. 97, 102, III, e 105, III, da CF, defendendo a nulidade do acórdão recorrido, pois o STJ teria usurpado acompetência da Suprema Corteao reformar o acórdão do Tribunal Regional Federal, bem como em razão da incompetência do órgão julgador para declarar incidentalmente a inconstitucionalidade de dispositivos legais.
+Alega, ainda, afronta aosart.146, III, c, 194, parágrafo único eV, e195,caput, I e § 7º, todos da CF. Aduz, para tanto (fl. 635):
+ ..  que o acórdão recorrido do STJ incorreu em equivoco ao considerar que as disposições da Lei n. 5.764/71 e o art. 6º, I, da LC 70/91, tem suporte constitucional no art. 146, III, "c", da CF/88, razão pela qual não podem ser revogados pelas disposições normativas expressas da Lei n. 9.718/98 e da MP 1.858-11 para fins de cobrança da COFINS.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Exarado despacho da Vice-Presidência admitindo o recurso extraordinário (fls. 695-696) e encaminhados os autos para o Supremo Tribunal Federal, foi proferidadecisão nos autos do RE n. 466.650/MG, naqual se determinou a remessa dos autos aesta Corte Superior para aguardar o julgamento do Tema n. 536/STF (fls. 962-963).
+É o relatório.
+O STF reconheceu a repercussão geral da matéria ora debatida, que será solucionada no Tema n. 536/STF, assim delimitada a questão por aquele Tribunal:
+Incidência de COFINS, PIS e CSLL sobre o produto de ato cooperado ou cooperativo.
+A propósito, é paradigma da discussão o RE n. 672.215-RG/CE, que recebeu a seguinte ementa:
+TRIBUTÁRIO. INCIDÊNCIA DA COFINS, DA CONTRIBUIÇÃO AO PROGRAMA DE INTEGRAÇÃO SOCIAL E DA CONTRIBUIÇÃO SOBRE O LUCRO LÍQUIDO SOBRE O PRODUTO DE ATO COOPERADO OU COOPERATIVO. DISTINÇÃO ENTRE "ATO COOPERADO TÍPICO" E "ATO COOPERADO ATÍPICO". CONCEITOS CONSTITUCIONAIS DE "ATO COOPERATIVO", "RECEITA DE ATIVIDADE COOPERATIVA" E "COOPERADO". COOPERATIVA DE SERVIÇOS MÉDICOS. VALORES PAGOS POR TERCEIROS À COOPERATIVA POR SERVIÇOS PRESTADOS PELOS COOPERADOS. LEIS 5.764/1971, 7.689/1988, 9.718/1998 E 10.833/2003. ARTS. 146, III, c, 194, par. ún., V, 195, caput, e I, a, b e c e § 7º e 239 DA CONSTITUIÇÃO. Tem repercussão geral a discussão sobre a incidência da Cofins, do PIS e da CSLL sobre o produto de ato cooperativo, por violação dos conceitos constitucionais de "ato cooperado", "receita da atividade cooperativa" e "cooperado". Discussão que se dá sem prejuízo do exame da constitucionalidade da revogação, por lei ordinária ou medida provisória, de isenção, concedida por lei complementar (RE 598.085-RG), bem como da "possibilidade da incidência da contribuição para o PIS sobre os atos cooperativos, tendo em vista o disposto na Medida Provisória nº 2.158-33, originariamente editada sob o nº 1.858-6, e nas Leis nºs 9.715 e 9.718, ambas de 1998" (RE 599.362-RG, rel. min. Dias Toffoli).
+(RE n. 672.215-RG, relator MinistroJoaquim Barbosa, Tribunal Pleno, julgado em 29/3/2012, DJe de 30/4/2012.)
+Desse modo, nos termos da determinação exarada pelo STF, impõe-se o sobrestamento do recurso.
+Ante o exposto, com amparo no art. 1.030, III, do Código de Processo Civil, determino o sobrestamento deste recurso extraordinário até o julgamento do Tema n. 536/STF.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. INCIDÊNCIA DE COFINS, PIS E CSLL SOBRE PRODUTO DE ATO COOPERADO OU COOPERATIVO.REPERCUSSÃO GERAL RECONHECIDA PELO SUPREMO TRIBUNAL FEDERAL. TEMA N. 536/STF. RECURSO SOBRESTADO.
