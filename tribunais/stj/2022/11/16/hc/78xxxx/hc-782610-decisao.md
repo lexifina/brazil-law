@@ -1,0 +1,27 @@
+DECISÃO
+JULIANA FERREIRA MARINHOalega sofrer coação ilegal em face de acórdão do Tribunal a quo. a
+A ré, condenada a cumprir penas restritivas de direitos, não foi encontrada no endereço declinado aos autos, para intimação. Comunicada por edital, não compareceu à audiência admonitória. O Juiz da VEC determinou a expedição de mandado de prisão para viabilizar o início da execução penal. A defesa afirma que era de rigor nova tentativa de localização da condenada, deixando-se cópia do mandado com sua genitora, o que não ocorreu.
+Decido.
+Não se verifica ilegalidade a ensejar a concessão da ordem.
+A paciente "foi condenada à pena privativa de liberdade fixada em 2 anos de detenção, a ser cumprida em regime aberto, substituída por duas penas restritivas de direitos, pela prática do crime do artigo 303, parágrafo único c/c artigo 302, § 1º, inciso I, do Código de Trânsito Brasileiro" (fl. 184).
+Após o trânsito em julgado da condenação, em 17/5/2021, elanãofoi encontrada no endereço dos autos para darinício à execução penal. O Juiz das Execuções, de forma diligente,expediu intimações"nos endereços declinados nos autos, inclusive via Edital, para audiência admonitória" (fl. 185), sem êxito. Asentenciada não respondeu aos chamados da Justiçae está em lugar incerto e não sabido. Inclusive, hánotícia de que reside no exterior.
+O writ comporta pronta solução, pois a intimação, no direito penal, tem o caráter de ato pessoas; deve sempre ser recebida pelo réu, e não por terceiros. Descumprido o dever de manter endereço atualizado nos autos (art. 367, segunda parte, do CPP), o Judiciário não pode ser obrigado a deferir diligências a fim de encontrar o novo local de paradeiro da sentenciada, nem cientificá-la por meio de familiar.
+Ateor doart. 181, § 1º, "a", da LEP, a pena restritiva de direitos será convertida em privativa de liberdade quando o condenado estiver emlocal incerto e não sabido. Nem sequer era exigível a intimação por edital (realizada pelo Juiz da VEC) ausente areveliana fase do conhecimento, pois era da sentenciada o dever demanter endereço atualizado nos autos (art. 367, segunda parte, do CPP).Não há prejuízo, entretanto, de que,uma vez localizada,apresentejustificativaa posterioripara a sua desídia.
+Ilustrativamente: " " ..  não se exige a intimação por edital do condenado não localizado em seu endereço constante dos autos para a conversão da pena restritiva de direitos em privativa de liberdade" (AgRg no REsp 1496711/MG, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 13/2/2017).
+Aplica-se ao caso a compreensão de que:
+ ..
+1. É cabível a intimação por edital na fase da execução se o réu foi declarado revel durante o processo de conhecimento (não compareceu aos autos depois de citação e intimação pessoal) e não se obteve sucesso na nova tentativa de sua cientificação pessoal para iniciar o cumprimento de penas substitutivas, uma vez que mudou de residência sem comunicar o Juízo. 2. Não há que se falar em nulidade da comunicação, pois, a teor dos julgados desta Corte, descumprido o dever de manter endereço atualizado nos autos (art. 367, segunda parte, do CPP), o Judiciário não pode ser obrigado a deferir diligências a fim de encontrar o novo local de paradeiro do sentenciado.
+3. A pena restritiva de direitos será convertida quando o condenado revel desatender a intimação por edital (art. 181, § 1º, "a", da LEP). Mesmo com a prisão, o Juiz poderá oportunizar a justificativa de sua falta, com a possibilidade de retorno ao cumprimento da sanção substitutiva.
+4. Agravo regimental não provido.
+(AgRg no HC n. 474.944/SC, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 2/4/2019, DJe de 10/4/2019.)
+ ..
+1. Prevê o art. 367 do Código de Processo Penal que "o processo seguirá sem a presença do acusado que, citado ou intimado pessoalmente para qualquer ato, deixar de comparecer sem motivo justificado, ou, no caso de mudança de residência, não comunicar o novo endereço ao juízo".
+2. Conforme dispõe o art. 44, § 4.º, primeira parte, do Código Penal, "a pena restritiva de direitos converte-se em privativa de liberdade quando ocorrer o descumprimento injustificado da restrição imposta".
+3. Nos termos do art. 181, § 1.º, alínea a, da Lei de Execução Penal, ocorrerá a reconversão da pena de prestação de serviços à comunidade em privativa de liberdade se o apenado "não for encontrado por estar em lugar incerto e não sabido, ou desatender a intimação por edital".
+4. Consideradas essas três regras, frustrado o início do cumprimento das penas restritivas de direitos e a realização da audiência de justificação em razão de desídia do Condenado, que não informou outro endereço diverso daquele declinado nos autos - ônus legal que lhe compete - deve ocorrer a reconversão em sanção privativa de liberdade.
+5. Ordem de habeas corpus denegada.
+(HC n. 493.068/RS, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 16/5/2019, DJe de 30/5/2019).
+Repito: Não há previsão legal para a intimação da condenada por meio de familiar. Ela não manteve atualizado o endereço do seu paradeiro e "encontra-se residindo no exterior" (fl. 185). Assim, omandado de prisão é imprescindível para início da execução, obstado desde 2021.
+Cabe à autoridade policial localizar a ré declarada culpada em sentença definitiva e fazer sua apresentação sob custódia ao Juízo das Execuções. O Poder Judiciário não podepermanecer à sua disposição, para comparecer aos autos e iniciar a execução quando melhorlhe aprouver.
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
