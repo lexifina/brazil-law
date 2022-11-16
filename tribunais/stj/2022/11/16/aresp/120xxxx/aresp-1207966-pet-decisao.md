@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de petição apresentada,perante Tribunal Regional Federal da 2ª Região, por CATARINO DA SILVA pela qual renunciaao pedido de condenação do INSS ao pagamento das diferenças vencidas anteriormente ao ajuizamento da ACP 0004911.28.2011.403.6183 (05/05/2011), respeitada a prescrição quinquenal, "devendo as diferenças vencidas serem apuradas a partir dos últimos cinco anos anteriores ao ajuizamento da presente ação" (fl. 347).
+A Vice-Presidência doTribunal Regional Federal da 2ª Região determinou o retorno dos autos ao STJ (fls. 349-350).
+O então relator do feito, Ministro Og Fernandes, determinou aoINSSque se manifestasse sobre a petição de fl. 347.
+O INSS respondeu nos seguintes termos (fl. 359):
+O INSTITUTO NACIONAL DO SEGURO SOCIAL -INSS, Autarquia Federal, representado pela Procuradoria-Geral Federal, vem, respeitosamente, perante V. Exa., em atenção à petição da parte recorrida acostada às folhas 369do presente autos, dizer que concorda com o término do litígio por meio de transação, uma vez que o INSS desistiu do recurso em relação aos tetos da ECs 20 e 41, e o recorrido concorda com a contagem da prescrição quinquenal a partir do ajuizamento da ação individual. Assim, pode-se homologar nos termos acima propostos, ou seja, consignando na decisão homologatória que a prescrição quinquenal será aferida a partir do ajuizamento da ação individual.
+Assim, homologo a transação apresentada, no sentido de estabelecer que a prescrição quinquenal seja aferida a partir do ajuizamento da ação individual. Determino o retorno dos autos à origem, para os fins do art. 516, inciso II, do CPC.
+Publique-se. Intimem-se.
