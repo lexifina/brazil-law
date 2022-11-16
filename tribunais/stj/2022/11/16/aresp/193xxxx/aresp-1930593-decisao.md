@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo interposto por GUSTAVO DA COSTA NEVES contra decisão do Tribunal de Justiça do Distrito Federal e dos Territóriosque inadmitiu recurso especial dirigido contra o acórdão prolatado na Apelação Criminal n. 0000171-64.2019.8.07.0019.
+O Ministério Público Federal manifesta-se pelo conhecimento do agravo para não conhecer do recurso especial (fls. 423-426).
+É o relatório.Decido.
+O agravo não comporta conhecimento.
+O Tribunal de origem inadmitiu o apelo nobre, pela incidência daSúmulan. 83 desta Corte Superior.
+No entanto, nas razões do agravo em recurso especial, o Recorrente não indicou nenhum precedente contemporâneo à decisão agravada e proferido em situação fática semelhante, que demonstrasse que o acórdão recorrido estaria em desarmonia com a jurisprudência atual do Superior Tribunal de Justiça ou demonstrou que oprecedenteindicadona decisão agravada não seriaaplicávelao caso dos autos, motivo pelo qual não se desincumbiu do ônus de demonstrar o desacerto da inadmissão do apelo nobre. Com igual conclusão:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL, SÚMULAS 7 E 83/STJ. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. MANUTENÇÃO.
+I - Não pode ser conhecido o agravo em recurso especial que não infirma os fundamentos da decisão monocrática agravada, especificamente não enfrentou de maneira adequada a incidência das Súmulas 7 e 83/STJ.
+II - Para afastar o óbice da Súmula 7/STJ, não basta apenas deduzir a inaplicabilidade do óbice apontado na decisão agravada, sem demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no acórdão objurgado, o que não aconteceu.
+III - "E, ainda, esta Corte firmou o entendimento de que, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida" (AgRg no AREsp 709.926/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/10/2016, DJe 28/10/2016), o que não ocorreu no caso destes autos"(AgRg no AREsp n. 637.462/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 1º/8/2017).
+IV - "O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos" (AgRg no REsp n. 1.709.395/SC, Quinta Turma, de minha relatoria, DJe de 10/12/2018).
+Agravo regimental desprovido." (AgRg no AREsp 1.625.432/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/04/2020, DJe 04/05/2020.)
+Vê-se que não houve a observância da dialeticidade recursal, motivo pelo qual carece o agravo de pressuposto de admissibilidade, qual seja, a impugnação efetiva e concreta de todos os fundamentos utilizados para inadmitir o recurso especial.Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO ATACADA NÃO COMBATIDO. APLICABILIDADE DA SÚMULA N. 182 DO STJ. PRINCÍPIO DA DIALETICIDADE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Verificado que o agravante se restringiu a reiterar as razões do recurso especial, sem impugnar os fundamentos da decisão agravada, incide o enunciado sumular n. 182 do STJ.
+2. O princípio da dialeticidade impõe ao agravante o ônus de demonstrar o desacerto da decisão agravada. Nos termos da jurisprudência desta Corte Superior, "em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira clara, objetiva, específica e pormenorizada todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos"(AgRg no AREsp 1262653/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 30/05/2018).
+3. Agravo regimental não conhecido. Ordem concedida de ofício, a fim de reduzir a pena-base ao mínimo legal e, por conseguinte, reduzir a reprimenda do agravante para 5 anos e 10 meses de reclusão, no regime inicial semiaberto, mais 583 dias-multa."(AgRg no AREsp n. 2.036.220/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 29/03/2022, DJe 1.º/04/2022; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. INADMISSÃO DO APELO NOBRE PELO TRIBUNAL DE ORIGEM. FUNDAMENTO. AUSÊNCIA DE IMPUGNAÇÃO CONCRETA. AGRAVO NÃO CONHECIDO.
