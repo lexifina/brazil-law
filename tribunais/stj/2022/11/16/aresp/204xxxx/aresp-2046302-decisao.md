@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO. Seguro de vida em grupo. Ação de cobrança, julgada procedente. Recurso da ré.
+Apólice nº 745 da COSESP. Validade da cláusula que autoriza a não renovação da apólice de seguro de vida em grupo que foi reconhecida por V.
+Acórdão deste E. Tribunal de Justiça na ação coletiva ajuizada pela AFACEESP (Apelação Cível nº 9213932-74.2007.8.26.0000). Atribuição de efeito suspensivo. Julgamento pelo C. STJ (EREsp nº 1.337.939/SP) que não conheceu do recurso interposto pela AFACEESP porque embasada no mesmo sentido da orientação daquela Corte.
+Ocorrência do sinistro ao tempo em que não mais vigia a apólice. Indenização indevida. Ação que se julga improcedente, com imposição à autora das verbas sucumbenciais. Sentença modificada.
+RECURSO PROVIDO.
+A parte agravante sustenta que"se a Recorrida cobrou e recebeu o prêmio do seguro initerruptamente e na integralidade desde a contratação do seguro, de modo que a Recorrente estava adimplente com o prêmio, nos termos da lei e do contrato, ela deve e é obrigada a pagar a indenização em caso de sinistro coberto pela Apólice".
+Ao decidir a causa, o Tribunal de origem assim manifestou seu entendimento:
+Segundo consta da petição inicial, a autora aderiu à apólice de Seguro de Vida em Grupo sob nº 745, em 01/05/1995, emitida pela ré, tendo como estipulante a ECONOMUS, com previsão para cobertura de morte de cônjuge, dentre outras, com descontos dos prêmios de sua folha de pagamento.
+Consta, ainda, que em 21/11/2015 o marido da autora faleceu, tendo comunicado o sinistro à ré pleiteando a indenização prevista na apólice, de R$ 74.565,60, que lhe foi negada sob a justificativa de que deveria aguardar a certificação do trânsito em julgado da ação coletiva.
+Relata que à época do sinistro a apólice estava em pleno vigor por força da decisão proferida pelo Juízo da 5ª Vara Cível do Foro Central da Comarca de São Paulo/SP, nos autos do processo n.º 583.00.2005.115325-2, ajuizada pela Associação dos Funcionários Aposentados e Pensionistas do Banco Nossa Caixa, da qual a autora fazia parte, entendendo que o não pagamento da indenização é abusivo e ilegal.
+De início, impende assinalar, especificamente quanto à apólice nº 745, celebrada entre a Companhia de Seguros do Estado de São Paulo - COSESP e a Associação dos Funcionários Aposentados e Pensionistas do Banco Nossa Caixa - AFACEESP, tendo como estipulante ECONOMUS - Instituto de Seguridade Social, que este E. Tribunal de Justiça, no recurso de apelação nº 9213932-74.2007.8.26.0000, de relatoria do Em. Desembargador Jayme Queiroz Lopes, da 36º Câmara de DireitoPrivado, julgou, em 17/03/2011, improcedente a pretensão da Associação dos Funcionários Aposentados e Pensionistas do Banco Nossa Caixa em obrigar a COSESP a renovar o contrato, diante da comunicação da seguradora, de maio de 2005, de que a apólice seria cancelada (..).
+(..)
+Com esse julgamento, a decisão liminar concedida na ação cautelar que determinou a prorrogação da vigência do contrato de seguro, assim como a r. sentença que confirmou a antecipação de tutela na ação coletiva, proferidas em juízo de cognição sumária, perderam o efeito.
+Nesse sentido Nelson Nery Junior afirma que"julgado improcedente o pedido, a tutela antecipada anteriormenteconcedida fica sem efeito, independentemente do juiz revogar expressamente na sentença. Isto porque é incompatível com o decreto de improcedência, feito depois de cognição exauriente, a manutenção da decisão contrária, dada em juízo de cognição sumária". (NERY JÚNIOR, Nelson. Teoria geral dos recursos, p. 246).
+É certo que a AFACEESP interpôs recursos ao C.
+STJ, recebidos com efeito suspensivo em 26/08/2011, porém todos foram improvidos, de modo que a decisão colegiada permanece incólume.
+Dessa forma, ocorrida a morte do cônjuge da autora após o julgamento do EResp nº 1.337.939/SP pelo C. STJ, datado de 25/03/2015, que não conheceu do recurso especial, ao fundamento de que "o acórdão recorrido está em consonância com a jurisprudência deste Tribunal Superior. Incide, assim, a Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", a apólice não mais estava em vigor.
+Por consequência, manifestado a tempo e modo o desinteresse da seguradora em não renovar o contrato e cessado o prazo de sua vigência, não tem cabimento a pretensão à cobertura indenizatória fundada em apólice que não está produzindo mais efeito algum.
+Ademais, o C. STJ, aplicando analogicamente a Súmula nº 405 do E. STF, já decidiu que a improcedência da ação revoga a tutela concedida com eficácia imediata e ex tunc, e não ex nunc, entendimento que deve ser aplicado à hipótese dos autos.
+Com efeito, a parte não impugnou o fundamento central do acórdão recorrido - de que a revogação da tutela antecipada possui efeitoex tunc, de forma que o sinistro ocorreu após o pedido de cancelamento da apólice, considerado lícito pelas instâncias ordinárias. Tal fundamento ésuficiente por si só para manter o acórdão, que, por consequência, não pode ser alterado por força do veto contido no enunciado 283 da Súmula do STF.
+Ademais, conforme a jurisprudência do STJ, não é irregular o pedido de cancelamento da apólice de seguros celebrada sem prazo determinado. Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SEGURO DE VIDA. CONTRATAÇÃO COLETIVA. NÃO RENOVAÇÃO DA AVENÇA. POSSIBILIDADE. SÚMULA N. 83/STJ. DECISÃO MANTIDA.
+(..)
+2. A Segunda Seção do STJ firmou o entendimento de que não é abusiva a cláusula contratual que prevê a possibilidade de a seguradora não renovar o contrato de seguro de vida em grupo.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.337.939/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 5/11/2015, DJe de 13/11/2015.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. NÃO RENOVAÇÃO. POSSIBILIDADE. ABUSIVIDADE. INOCORRÊNCIA. PRECEDENTE ESPECÍFICO DA SEGUNDA SEÇÃO: RESP N.º 880.605/RN. JURISPRUDÊNCIA CONSOLIDADA.
+(..)
+2. Não há falar em atração do enunciado 7/STJ, pois não se alterou absolutamente em nada o contexto fático probatório definido na origem, senão com base nele se interpretou a legislação incidente para, então, concluir pela afronta aos artigos de lei indicados.
+3. A Segunda Seção deste Superior Tribunal de Justiça, quando do julgamento do REsp nº 880.605/RN (DJe 17/9/2012), pacificou o entendimento de não ser abusiva a cláusula contratual que prevê a possibilidade de não renovação automática do seguro de vida em grupo (apólices 21.426 e 20.779) por qualquer dos contratantes desde que haja prévia notificação em prazo razoável e, ainda, oferecimento de alternativa ao grupo de segurados. Precedente a ser observado.
+4. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.504.439/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 5/12/2017, DJe de 19/12/2017.)
+Em face do exposto, nego provimento ao agravo. Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
