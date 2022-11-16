@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. REMOÇÃO DE INVENTARIANTE. NÃO VISLUMBRADA QUAISQUER DAS CONDUTAS CONSTANTES NO ARTIGO 622 DO CÓDIGO DE PROCESSO CIVIL. DECISÃO MANTIDA.
+O incidente de remoção de inventariante possui procedimento especial próprio, o qual diz respeito a questões internas da ação de inventário, visando averiguar a atuação do inventariante e, após, decidir entre sua manutenção ou a sua remoção, quando constatadas irregularidades no exercício da função, nos moldes previstos no art. 622 e incisos, do Código de Processo Civil. Na hipótese, não constatadas irregularidades formais, mas apenas notícias de belicosidades de fundo emocional, correto o decisum combatido. RECURSO CONHECIDO E DESPROVIDO.
+Nas razões de recurso especial, alega a parte agravante violação do art. 622 do Código de Processo Civil de 2015.
+Assim posta a questão, verifico que o recurso especial não dispensa o reexame de prova. A parte agravante procura demonstrar haver razões para a remoção do inventariante. A respeito da matéria, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ, fl. 30):
+No ato judicial, a julgadora primeva não verificou um comportamento descompromissado, faltoso e lesivo do inventariante à frente da administração do espólio e da condução do processo. Destacou, ainda, ".. que fica evidenciado, na verdade, a profunda animosidade existente entra as partes, fato este que prejudica potencialmente o deslinde do inventário apenso e, caso não superem esses desentendimentos, é certo que o feito ficará atravancado, impedindo, desse modo, a entrega da prestação jurisdicional de forma célere."
+(..)
+À força da repetição, o incidente de remoção de inventariante possui procedimento especial próprio, o qual diz respeito a questões internas da ação de inventário, visando averiguar a atuação do inventariante e, após, decidir entre sua manutenção ou a sua remoção, quando constatadas irregularidades no exercício da função, nos moldes previstos no art. 622 e incisos, do Código de Processo Civil. Na hipótese, não constatadas irregularidades formais, mas apenas notícias de belicosidades de fundo emocional, correto o decisum combatido.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Em face do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
