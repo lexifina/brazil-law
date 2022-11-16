@@ -1,0 +1,31 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por SETPAR EMPREENDIMENTOS IMOBILIÁRIOS CAETANO II - SPE LTDA em face de acórdão do TJSP que deu parcial provimento a sua apelação, reformando em parte a sentença de parcial procedência da ação de resilição de compra e venda de imóvel para fixar o termo inicial da incidência dos juros de mora no trânsito em julgado, nos termos da seguinte ementa:
+AÇÃO DE RESCISÃO CONTRATUAL COM PEDIDO DE DEVOLUÇÃO DE VALORES E ANTECIPAÇÃO DE TUTELA. JUSTIÇA GRATUITA. Apelante que não comprovou modificação na capacidade financeira do autor. Benefício mantida. RESCISÃO CONTRATUAL.
+Loteamento. Sentença que rescindiu o contrato, fixando o percentual de retenção em 12% do valor pago para despesas administrativas, o que se mostra adequado ao caso concreto e em conformidade com o parâmetro estabelecido pelo C. Superior Tribunal de Justiça.
+Sentença que também fixou a retenção de 0,5% do valor do contrato por mês, a título de fruição. JUROS DE MORA. Incidência dos juros de mora que deve ocorrer a partir do trânsito em julgado. Aplicação do entendimento firmado em sede de recurso repetitivo.
+CORREÇÃO MONETÁRIA. Mera recomposição do valor da moeda, incidindo a partir de cada desembolso.
+COMISSÃO DE CORRETAGEM. Ausência de interesse recursal. Sentença que reconheceu a prescrição do pedido de devolução da comissão de corretagem.
+HONORÁRIOS ADVOCATÍCIOS. Sentença que fixou os honorários advocatícios em favor do patrono do autor em patamar mínimo. RECURSO PROVIDO EM PARTE.
+No recurso especial, interposto com fundamento nas alíneasaecdo permissivo constitucional, a recorrente apontou, além do dissídio jurisprudencial, ofensa aos seguintes dispositivos: (i) art. 1.022 do CPC, em razão da omissão do acórdão recorrido em apreciar as razões dos embargos de declaração; (ii) art. 32-A da Lei nº 13.786/18, alegando que o percentual de retenção deve ser fixado de acordo com a atual legislação, em 25% dos valores pagos.
+Contrarrazões ao recurso especial às fls. 290/295.
+É o relatório.
+Passo a decidir.
+O presente recurso não merece ser conhecido.
+Inicialmente, a apontada violação ao art. 1.022 do CPC está dissociada das razões do acórdão recorrido, pois, na presente hipótese, a recorrente sequer opôs embargos de declaração na origem.
+Dessa forma, dissociadas as razões recursais da realidade do processo, fica configurada a deficiência da fundamentação recursal e prejudicada a compreensão da controvérsia trazida ao conhecimento desta Corte, atraindo, assim, o óbice da Súmula 284/STF.
+Ademais, verifica-se que o Tribunal de origem não se manifestou sobre a aplicação do art. 32-A da Lei nº 13.768/18 e sobre o percentual de retenção nele fixado e, quanto ao ponto, a recorrente não opôs embargos de declaração, visando obter da Corte estadual a manifestação expressa quanto ao tema.
+Assim, está ausente o indispensável prequestionamento da questão, o que atrai a incidência do óbice da Súmula 282/STF.
+Por sua vez, quanto ao recurso pela alínea c do permissivo constitucional, arecorrente, além de não ter indicado dispositivo infraconstitucional cuja interpretação seria dissonante entre os Tribunais, o que seria suficiente para o não conhecimento do recurso especial, tambémnão demonstrou a similitude fática entre os julgados apontados como paradigma eo caso dos autos mediante o indispensável confronto analítico.
+Realmente, na espécie, a recorrente se limitou a transcrever ementas de julgados (e-STJ, fls. 284-286), sem evidenciar a similitude fática e a discrepância de soluções jurídicas entre os acórdãos comparados.
+Assim, o dissídiojurisprudencial não foi comprovado, uma vez que oindispensável cotejo analítico exige, além da transcrição de trechosdos julgados confrontados, a demonstração das circunstânciasidentificadoras da divergência, com a indicação da existência desimilitude fática e identidade jurídica entre o acórdão recorrido e osparadigmas indicados, não bastando, portanto, a mera transcrição deementas ou votos.
+Com efeito, o Superior Tribunal de Justiça já decidiu: "esta Corte jápacificou o entendimento de que a simples transcrição de ementas e detrechos de julgados não é suficiente para caracterizar o cotejo analítico,uma vez que requer a demonstração das circunstâncias identificadoras dadivergência entre o caso confrontado e o aresto paradigma, mesmo no casode dissídio notório" (AgInt no AREsp n. 1.242.167/MA, relator MinistroMauro Campbell Marques, Segunda Turma, DJe de 05/04/2019, g.n.)
+Ainda nesse sentido: "a divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ouassemelham os casos confrontados, com indicação da similitude fática ejurídica entre eles. Indispensável a transcrição de trechos do relatório edo voto dos acórdãos recorrido e paradigma, realizando-se o cotejoanalítico entre ambos, com o intuito de bem caracterizar a interpretaçãolegal divergente. O desrespeito a esses requisitos legais e regimentaisimpede o conhecimento do Recurso Especial, com base na alínea "c" doinciso III do art. 105 da Constituição Federal". (AgInt no REsp n.1.903.321/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de16/03/2021)
+Ante o exposto, com substrato no art. 932, III, do CPC,NÃO CONHEÇO do
+recurso especial.
+Com fundamento noart. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 4%, totalizando 15% sobre o valor atualizado da condenação, observada a eventuale anterior concessão da gratuidade judiciária.
+Advirto as partes que a oposição de incidentes manifestamenteimprocedentes e protelatórios dará azo à aplicação das penalidadeslegalmente previstas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. CIVIL E CONSUMIDOR. RESILIÇÃO DE CONTRATO DE COMPRA E VENDA DE IMÓVEL. RESTITUIÇÃO DAS PARCELAS PAGAS. PERCENTUAL DE RETENÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC. EMBARGOS DE DECLARAÇÃO SEQUER OPOSTOS. DEFICIÊNCIA DA FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF. ART. 32-A DA LEI 13.786/18. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO. FALTA DE INDICAÇÃO DO DISPOSITIVO CUJA INTERPRETAÇÃO FORA DISSONANTE. AUSÊNCIA DE COTEJO ANALÍTICO.
+RECURSO ESPECIAL NÃO CONHECIDO.
