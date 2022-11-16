@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão de fls. 363-366 que deu provimento ao recurso especial.
+A parte agravante refere a extinção do processo na 1ª instância, arguindo que "conseguiram apurar que, acolhendo pedido expressamente formulado pelo próprio Ministério Público, o R. Juízo da P Vara da Comarca de Tupi Paulista proferiu Sentença que extinguiu o cumprimento de sentença em 16.07.2018 (doc. nº 01), operando-se o trânsito em julgado na data de 30.08.2018 (doc. nº 02)" (fl. 377).
+Pontua nas fls. 377-378 que "entre a propositura do Recurso Especial (22.01.2018) e o seu julgamento por meio da R. Decisão Monocrática aqui impugnada (26.03.2019), o próprio Ministério Público pleiteou a extinção do processo por inexigibilidade da obrigação buscada nestes autos, justamente em razão da aceitação do conteúdo do V. Acórdão prolatado no Egrégio Tribunal de Justiça de São Paulo", enfatizando que "sendo princípio institucional do Ministério Público o Princípio da Unidade (art. 127, §1º, da Constituição da República)," o pedido de extinção formulado posteriormente a interposição de um recurso implica na aceitação tácita da decisão recorrida, o que equivale a desistência do recurso interposto".
+Comimpugnação.
+É o relatório. Passo a decidir.
+Em melhor análise, observa-se que a argumentação apresentada pela parte agravante merece acolhida, razão pela qual, com base nos artigos259, § 6º do RISTJ, combinado com o § 2º do artigo 1.021 do CPC/2015 ,reconsidero a decisão de fls.363-366e procedo novo exame da questão.
+No caso, o Ministério Público deSão Paulointerpôsrecurso especial de fls. 273-301contra acórdão do TJSP que entendeuque a superveniência do Novo Código Florestal possui incidência imediata nos processos em curso, inclusive sob TACs realizados na vigência do Código anterior.
+Ocorre que, em sede de agravointerno,a ora recorrente informa que, paralelamente àinterposição do Recurso Especial pelo parquet estadual que oficia junto ao tribunal de origem, o membro do MP que atua junto ao juízode primeiro grau requereu a extinção do feito, o que foi acolhido conforme sentença abaixo transcrita com trânsito em julgado (e-STJ 385-387):
+É caso de extinção do feito, sem resolução de mérito, conforme pleiteado pelo próprio exequente (fls. 528/529).
+De fato, não há nenhum interesse processual no prosseguimento deste incidente e, como salientam NELSON NERY JÚNIOR E ROSA MARIA ANDRADE NERY, "existe interesse processual quando a parte tem necessidade de ir a juízo para alcançar a tutela pretendida e, ainda, quando essa tutela jurisdicional pode trazer-lhe alguma utilidade do ponto de vista prático" (Códigode Processo Civil e legislação processual civil extravagante em vigor, ed. RT,1994, nota 13 ao art. 267, VI, pg. 475).
+Isso porque, conforme petição de fls. 528/529, a obrigação buscada nestes autos se tornou inexigível, como reconhecido pelo Egrégio Tribunal de Justiça no V. Acórdão de fls. 507/513.
+Dessa forma, tem-se que a presente ação perdeu seu objeto.
+Portanto, em razão deste fato superveniente, não há mais interesse processual em se prosseguir com a demanda.
+Ante o exposto, JULGO EXTINTO o presente feito, sem resolução de mérito, nos termos do artigo 485,inciso VI, do Código de Processo Civil. Sem custas e honorários. Com o trânsito em julgado, arquivem-se os autos, observadas as cautelas de praxe. (grifei).
+Logo, o requerimento do Ministério Público que oficiou no 1º graupela extinção do cumprimento de sentença impõereconhecer a perda superveniente do objeto do recurso especial.
+Ante o exposto, dou provimento ao agravo interno parajulgar prejudicadoo recurso especial de fls. 273-301 interposto pelo Ministério Público do Estado de São Paulo.
+Publique-se. Intimem-se.
