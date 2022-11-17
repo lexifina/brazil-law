@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de GUSTAVO DOS SANTOS LOPES BORGES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS (HC n. 0008797-20.2022.8.27.2700).
+Consta dos autos que o paciente foi preso em flagrante pela suposta prática dos delitos tipificados noart. 155, §§1º e 4º, I, e no art. 180, todos do Código Penal, tendo a prisão sido convertida em preventiva.
+Nesta via, a impetrante sustenta que não teria sido demonstrado, com base em elementos concretos, como a liberdade do acusado poderia oferecer risco à ordem pública, ao bom andamento da instrução criminal ou à aplicação da lei penal.
+Aduz haver nulidade da prisão em flagrante, sob argumento de que ausente o estado da flagrância.
+Arrazoa que a prisão poderia ser substituída por cautelares diversas.
+Requera concessão da ordem para que seja revogada a prisão preventiva, ainda que mediante a imposição de cautelares diversas da prisão, previstas no art. 319 do CPP.
+A liminar foi indeferida.
+Informações prestadas.
+O Ministério Público Federal manifestou-se pela denegação da ordem.
+É o relatório. Decido.
+Preliminarmente, cumpre pontuar que esta Corte Superior de Justiça não mais admite a utilização do habeas corpus em substituição ao recurso cabível, como ocorre na hipótese, circunstância que impede o seu formal conhecimento.
+No entanto, o alegado constrangimento ilegal será analisado para a verificação da eventual possibilidade de atuação ex officio, nos termos do art. 654, § 2º, do Código de Processo Penal.
+Dos elementos colacionados aos autos, infere-se que o paciente, após ser preso em flagrante, no dia 12.07.2022, pela suposta prática dos delitos previstos no art. 155, §§1º e 4º, I, e no art. 180, todos do Código Penal, teve a prisão convertida em preventiva, pois, em tese, participou do furto e da receptação dealgumas bicicletas.
+Verifica-se que o Juízo processante decretou a custódia preventiva, destacando que,"na pesquisa por antecedentes (evento 23), encontraram-se registro de outro procedimento criminal em nome do flagrado, com mandado de prisão em aberto, o qual foi cumprido neste ato, dando ciência ao custodiado" (e-STJ fl. 44).
+Asseverou o Magistrado que "a existência deste processo é sugestiva da inclinação da pessoa flagrada para a prática de infrações. Pode-se concluir então que seus comportamentos vêm colocando em risco a ordem pública. Nestes casos, é preciso tratar o infrator com os rigores da lei, visando à proteção da sociedade" (e-STJ fl. 44).
+Ressaltou o Togado que "a única possibilidade de fazer cessar a atividade criminosa do flagrado é a decretação de sua prisão em caráter preventivo. Qualquer das outras medidas cautelares previstas no Código de Processo Penal seria ineficaz, pois não garantiria satisfatoriamente a segurança da população. Realmente, as hipóteses previstas no art. 319 do Código de Processo Penal não são adequadas ao fato dada a contumácia na prática de crimes" (e-STJ fl. 44).
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem, concluindo pela necessidade da constrição cautelar, salientando que"o paciente é reincidente (certidão do evento 18, dos autos de Ação Penal n.00282718420228272729)" (e-STJ fl. 68).
+Acrescentou o Colegiado estadual que "as impressões registradas pelo juízo a quo, ao decretar a prisão preventiva, permanecem hígidas quanto à necessidade de garantia da ordem pública, tendo em conta a reincidência do paciente" (e-STJ fl. 70).
+Pontuoua Corte local que "eventuais condições pessoais favoráveis não se prestam, por si sós, a autorizar a revogação de prisão preventiva se a tutela da ordem pública justifica a medida" (e-STJ fl. 71).
+Pois bem.
+Delineado o contexto fático processual, inicialmente, destaca-se que não pode ser apreciado o argumento referente ànulidade da prisão em flagrante.
+Com efeito, observa-se que, na hipótese dos autos, o pacientefoi preso em flagrante, tendo a custódia sido posteriormente convertida em preventiva, por entender o Togado que a medida seria devida como garantia da ordem pública, vulnerada diante do seu histórico criminal.
+Assim, verifica-se, na espécie, que a constrição do paciente agora é derivada de ordem de preventiva, ou seja, está embasada em novo título judicial, de modo que eventual ilegalidade no ato que antecedeu o decreto constritivo se encontraria, de qualquer forma, superada.
+Ademais, conforme vem decidindo esta Corte Superior: "a discussão acerca de eventuais irregularidades no flagrante fica superada com a notícia da sua conversão em prisão preventiva, haja vista a existência de novo título judicial a embasar a custódia cautelar do paciente" (AgRg no RHC n. 161.450/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 7/6/2022, DJe de 14/6/2022).
+Veja-se a propósito:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. NULIDADE DO AUTO DE PRISÃO EM FLAGRANTE POR AUSÊNCIA DE TRADUTOR. IMPOSSIBILIDADE. PREJUÍZO NÃO DEMOSTRADO PELA DEFESA. AGRAVANTE CAPAZ DE COMPREENDER AS QUESTÕES FORMULADAS, ALÉM DE AUXILIADO POR SERVIDOR DA POLÍCIA FEDERAL. DECRETO PREVENTIVO. NOVO TÍTULO. SUPERAÇÃO DE NULIDADES DECORRENTES DO FLAGRANTE.
+1. Ao contrário do que a defesa alega quanto ao fato de o agravante -de nacionalidade paraguaia -não ter sido acompanhado por intérprete/tradutor na fase inquisitória, consta da decisão que converteu o flagrante em prisão preventiva que "as respostas do custodiado ROBERTO BENITEZ aos questionamentos formulados pelo Juízo, são compatíveis com aqueles declarados perante à Autoridade Policial, o que leva a crer que, apesar da ausência de tradutor oficial, o ato foi acompanhado por agente que conseguiu, com êxito, extrair e relatar com adequação a versão narrada pelo autuado". Ou seja, além de o agravante entender grande parte dos questionamentos, ainda contou com o auxílio de um servidor da Polícia Federal, que, quando necessário, lhe traduzia as questões formuladas.
+2. Nos termos do art. 563 do CPP, no que tange às nulidades processuais, incide o princípio pas de nullité sans grief, segundo o qual somente há de se declarar a nulidade se houver demonstração ou comprovação de efetivo prejuízo para a parte, o que não ocorreu no presente caso.
+3. As nulidades porventura existentes na prisão em flagrante ficam superadas com a conversão do flagrante em prisão preventiva, tendo em vista a constituição de novo título a justificar a privação da liberdade.
+4. Agravo regimental improvido.
+(AgRg no RHC n. 156.050/PR, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 3/5/2022, DJe de 6/5/2022.)
+Noutro giro, no que tange aos fundamentos autorizadores da constrição processual, observa-seque a medida extrema faz-se necessária para evitar a reiteração delitiva, uma vez que, conforme destacado pelas instâncias ordináriaseconfirmado na Certidão de Antecedentes acostada às e-STJ fls. 40-41, o paciente é reincidente, o que revela inclinação à criminalidade, concretizando a conclusão pela sua efetiva perniciosidade social, inviabilizando a pretendida liberdade, já que patente a real possibilidade de que, solto, continue a delinquir.
+Merece registro que, nos termos da jurisprudência desta Corte, para fins de justificação da prisão preventiva fundada na garantia da ordem pública, "a existência de inquéritos, ações penais em curso, anotações pela prática de atos infracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificar a segregação cautelar" (AgRg no HC n. 691.766/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 19/10/2021, DJe de 25/10/2021).
+Confira-se, a propósito, o seguinte precedente desta Corte Superior de Justiça:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. ESTELIONATO. ASSOCIAÇÃO CRIMINOSA. DECISÃO MONOCRÁTICA. LEGALIDADE. PRISÃOPREVENTIVA. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+ ..
+6. Agravo regimental desprovido, acolhido o parecer ministerial.
+(AgRg no RHC n. 152.582/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/4/2022, DJe de 8/4/2022.)
+No mesmo sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO. PRISÃO PREVENTIVA. SEGREGAÇÃO CAUTELAR DEVIDAMENTE FUNDAMENTADA PARA GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DA CONDUTA. AGRESSÃO FÍSICA A MENOR DE IDADE. PRÁTICA REITERADA DE ATOS INFRACIONAIS. REITERAÇÃO DELITIVA. CONDIÇÕES FAVORÁVEIS. INSUFICIÊNCIA. MEDIDAS CAUTELARES DIVERSAS. SUBSTITUIÇÃO. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+ ..
+V - A prática reiterada de atos infracionais, embora não possa ser empregada para reconhecer a reincidência ou para valorar negativamente os maus antecedentes, a personalidade ou a conduta social, pode ser utilizada como fundamento para decretar a prisão preventiva com o fim de resguardar a ordem pública, tendo em vista o fundado receio de reiteração delitiva.
+ ..
+Agravo regimental desprovido.
+(AgRg no HC n. 691.268/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 26/10/2021, DJe de 4/11/2021.)
+Ainda, concluindo-se pela imprescindibilidade da preventiva, fica clara a insuficiência das medidas cautelares diversas da prisão, uma vez que, além de haver motivação apta a justificar o sequestro corporal dada a periculosidade social do agente, a sua aplicação não se mostraria adequada e suficiente para o acautelamento da ordem pública, diante da presença do periculum libertatis, bem demonstrado na espécie.
+Por fim, a prisão preventiva está suficientemente embasada e merece ser mantida, principalmente a bem da ordem pública, não havendo coação ilegal a ser sanada, ainda que de ofício, por esta Corte Superior de Justiça.
+Ante o exposto, por se afigurar manifestamente inadmissível, com fundamento no art. 34, XX, do Regimento Interno deste Superior Tribunal, não conheço do habeas corpus.
+Publique-se. Intimem-se.
