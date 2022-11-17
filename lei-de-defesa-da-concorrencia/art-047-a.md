@@ -1,0 +1,1 @@
+Art. 47-A. A decisão do Plenário do Tribunal referida no art. 93 desta Lei é apta a fundamentar a concessão de tutela da evidência, permitindo ao juiz decidir liminarmente nas ações previstas no art. 47 desta Lei.
