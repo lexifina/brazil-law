@@ -1,0 +1,7 @@
+DECISÃO
+BRF S.A. atravessa petição (fl. 458) para informar que a "Execução Fiscal nº 5008306-95.2018.4.04.7208 que a CDA nº 35.830.020-7 encontra-se extinta pelo pagamento (CTN - artigo 156, inciso I)" e que "não mais subsiste o binômio utilidade/necessidade no provimento dos Embargos de Declaração que foram opostos em face da decisão que autorizou que a Seguradora realizasse o depósito da importância controvertida".
+É O BREVE RELATO.
+Considerando a manifestação da parte requerente de que "não mais subsiste o binômio utilidade/necessidade no provimento dos Embargos de Declaração que foram opostos em face da decisão que autorizou que a Seguradora realizasse o depósito da importância controvertida" (fl. 458), é de se entender que houve, em verdade, pleito pela desistência dos embargos de declaração opostos contra a decisão de fls. 348/350 (Procuração com poderes especiais acostada às fls. 35/39 - v certidão de fl. 466).
+Por conseguinte, resta prejudicada a análise do pleito formulado às fls. 366/375, por Federação Brasileira de Bancos - FEBRABAN, pelo qual visava ingressar no feito como amicus curiae.
+ANTE O EXPOSTO, homologo, para que produza seus efeitos jurídicos e legais, o pedido de desistência dos embargos de declaração opostos por BRF S.A., nos termos dos arts. 998 do CPC e 34, IX, do RISTJ. Prejudicado o exame da petição de fls. 366/375 (Petição 01012372/2022).
+Publique-se.
