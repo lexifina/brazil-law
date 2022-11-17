@@ -1,0 +1,8 @@
+DECISÃO
+EDUARDO DA SILVA TEIXEIRA alega sofrer coação ilegal em face de acórdão do Tribunal a quo.
+O apenado do regime semiaberto pugna pela manutenção de prisão domiciliar excepcional, conforme o disposto na Súmula Vinculante n. 56, pois é "ex-policial penal" e "tem direito à prisão especial", mas não há vagas ou inexiste na Comarca "unidades prisionaisl que se prestam exclusivamente para a guarda de presos especiais" (l.6).
+Decido.
+O writ está deficientemente instruído, pois a defesa não juntou a cópia da decisão do Juiz da VEC, que pretende restabelecer. Ademais, no ato apontado como coator (fls. 9-15), decidiu-se tão somente a possibilidade de prisão domiciliar com fundamento na pandemia da Covid-19.
+As questões jurídicas relacionadas à pretensa violação da Súmula Vinculante n. 56 e ao direito à prisão especial para condenado ex-policial penal não foram debatidas e, por isso, não podem ser enfrentadas diretamente por esta Corte Superior, sob pena de indevida supressão de instância, pois ainda não inaugurada a competência do art. 105 da CF.
+Nem sequer de ofício é possível a concessão da ordem, pois ausentes, no ato judicial prolatado por Tribunal de Justiça, dados fáticos que permitam, de plano, o reconhecimento de patente ilegalidade.Assim, nos pontos, não comporta trânsito o remédio constitucional, pois o"exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevidasupressãode instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal)"(AgRg no HC n. 753.181/SP, relator Ministro João Otávio de Noronha, 5ª T., DJe de 30/9/2022).
+À vista do exposto, indefiro liminarmente o processamento deste habeas corpus.
