@@ -1,0 +1,17 @@
+DECISÃO
+JOSIANI PEREIRA agrava de decisão que não conheceu do recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal,em face deacórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina(Apelação Criminal n. 0001755-70.2013.8.24.0063).
+Nas razões do recurso especial, pretende a defesaseja aacusadaabsolvidadocrimede associação para o tráfico.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal local, o que ensejou a interposição deste agravo.
+O Ministério Público Federal opinou pelo não conhecimento do agravo emrecurso especial.
+Decido.
+O Tribunal de origem entendeu por manter a condenação da acusada pelo crime de associação para o tráfico por estarem "a materialidade, assim como a autoria delitivas  ..  comprovadas por meio do boletim de ocorrência, das interceptações telefônicas e mensagens de texto e dos depoimentos colhidos durante a instrução processual" (fl. 1.723).
+Consoante o acórdão, "observa-se o vínculo associativo existente entre os acusados, bem como a estabilidade e permanência na venda das substâncias ilícitas, todos elementos integrativos essenciais à caracterização do tipo penal do art. 35 da Lei n. 11.343/06 estão presentes" (fl. 1.723).
+Nesse sentido, a Corte estadual entendeu comprovada a participação de cada envolvido e, em relação à agravante, destacou que "cabia a função de armazenar o estupefaciente, tendo colaborado ainda em seu comércio, facilitando assim a posterior revenda por todos os réus no município de São Joaquim" (fl. 1.725).
+Logo, concluiu que "pelo conjunto de provas carreado aos autos, necessário concluir que a prática do crime de tráfico não era eventual, pelo contrário, representava atividade organizada, estável e em função da qual todos os réus estavam vinculados subjetivamente"(fl. 1.728).
+Considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa.
+A propósito, confira-se o seguinte julgado: HC n. 220.231/RJ, Rel.Ministro Rogerio Schietti, 6ª T., DJe 18/4/2016.
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+No caso, as instâncias de origem, após uma análise minuciosa dos elementos fático-probatórios colacionados aos autos, apontaram elementos concretos que efetivamente evidenciam a estabilidade e a permanência exigidas para a configuração de crime autônomo, de maneira que não identifico nenhum constrangimento ilegal pelo qual estaria sendo vítima o recorrente nesse ponto.
+Saliento, ademais, que qualquer outra solução que não a adotada pela instância ordinária implicaria o revolvimento do material fático-probatório amealhado ao processo, providência incabível em recurso especial, em razão do óbice da Súmula n. 7 do STJ.
+À vista do exposto, conheço do agravo, para negar provimento ao recurso especial.
+Publique-se e intimem-se.
