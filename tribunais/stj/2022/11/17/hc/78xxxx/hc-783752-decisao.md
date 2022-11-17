@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em benefício de Alisson Barankievicz, em que se aponta como autoridade coatora o Tribunal de Justiça de Santa Catarina, queindeferiu o pedido de revisão criminal (Revisão criminal n. 5001017-74.2022.8.24.0000/SC), referente àAção Penal n. 0000037-52.2019.8.24.0055, na qual foi aplicada ao paciente a pena de 5 anos de reclusão, em regime inicial semiaberto, 500 dias-multa, além de 3 meses de detenção, em regime aberto, por infração do art. 33, caput, da Lei n. 11.343/2006, e art. 307 do Código Penal.
+Neste writ, pugna-se pelo reconhecimento do tráfico privilegiado.
+Em breve síntese, pontua-se que (fls. 5/6):
+ ..  Da análise da sentença, verifica-se que a causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei 11.343/06 foi afastada com base na suposta comprovação de que o Paciente se dedicaria a atividades criminosas.
+Tal conclusão se fundaria exclusivamente no laudo pericial de aparelho celular, revelando que o Paciente se dedicaria às atividades criminosas por inúmeras passagens com a venda de entorpecentes, fato que estaria comprovado, bem como por áudios que dão conta de supostos crimes pretéritos não investigados ou processados.
+ ..
+Inicialmente, insta salientar que a documentação do laudo mencionado não possui o condão de obstar o reconhecimento do tráfico privilegiado, tendo em vista que nas conversas apreendidas está caracterizado justamente o delito do qual se trata a condenação em comento.
+É o relatório.
+Sobre o reconhecimento do tráfico privilegiado, pontuou a Corte estadual que (fls. 437/438):
+ ..  o requerente, segundo as diversas conversas apontadas, as quais foram extraídas do seu aparelho celular (Laudo Pericial n. 9102.19.1202, Evento 96, LAUDO /115 - autos da ação penal), embora tecnicamente primário e sem antecedentes criminais, praticava de forma habitual o narcotráfico, conclusão que foi reforçada pela apreensão, em seu poder, de 92 (noventa e duas) pedras de crack. Não fosse isso, os diálogos demonstraram que tinha envolvimento com outras práticas ilícitas.
+Assim, sem descurar que o tráfico de drogas se trata de crime permanente, verificado que o seu cometimento ocorria há algum tempo, e se dava de forma reiterada, bem como que o réu tinha ligação com outros delitos, ainda que de autoria desconhecida pelas autoridades policiais, não há qualquer mácula na conclusão, a partir de todas as peculiaridades do caso concreto, de que o requerente se dedicava à atividade criminosa, circunstância que impede a aplicação da benesse pretendida.
+Note-se que o afastamento do tráfico privilegiado não se baseou unicamente na quantidade da droga apreendida, mas por outras provas valoradas em juízo - apreensão do celular do paciente, a qualfoi devidamente pericial,tudo a demonstrar a dedicação do réu a atividades criminosas.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO VERIFICAÇÃO. MINORANTE. AFASTAMENTO COM BASE EM ELEMENTOS CONCRETOS DOS AUTOS. AGENTE PENITENCIÁRIO. APREENSÃO DE CELULARES E ROTEADORES. ART. 40, II E III, DA LEI 11.343/06. AUMENTO DA PENA EM 1/2. FUNDAMENTAÇÃO INSUFICIENTE.
+1. Não viola o princípio da colegialidade a decisão monocrática do Relator fundamentada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do Órgão Colegiado, mediante a interposição de agravo regimental.
+2. O afastamento da minorante do tráfico privilegiado, pelo Tribunal de origem, considerou, além da quantidade de drogas apreendida, que o acusado, agente penitenciário, dedicava-se aatividades criminosas e era vinculado a grupo criminoso, com apoio no fato de que, além da droga, foram encontrados com o paciente celulares e acessórios, que seriam inseridos no presídio.
+3. No tocante ao incremento da pena em 1/2 (metade) pela verificação das causas de aumento previstas no art. 40, II e III, da Lei 11.343/2006, de fato, é grave um agente penitenciário facilitar a entrada de droga no presídio. Entretanto, o aumento da pena na metade mostra-se desproporcional, pelo que, a fim de se evitar excesso punitivo, razoável é a fração intermediária de 1/5 (um quinto), por melhor atender à proporcionalidade.
+4. Provimento parcial do agravo regimental. Redução da condenação do paciente para 7 (sete) anos de reclusão e 3 (três) meses de detenção, em regime inicial fechado, e 699 (seiscentos e noventa e nove) dias-multa pela cotação legal mínima.
+(AgRg no HC n. 722.443/RJ, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, julgado em 13/9/2022, DJe 16/9/2022)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. MINORANTE PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. RECONHECIMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O escopo da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, cometendo um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+2. A Terceira Seção desta Corte Superior de Justiça decidiu, através do REsp n. 1.887.511/SP (Rel. Ministro João Otávio de Noronha, DJe 1º/7/2021), que " a  utilização supletiva desses elementos  natureza e da quantidade da droga apreendida  para afastamento do tráfico privilegiado somente pode ocorrer quando esse vetor seja conjugado com outras circunstâncias do caso concreto que, unidas, caracterizem a dedicação do agente à atividade criminosa ou à integração a organização criminosa".
+3. No caso, dado que a quantidade e a natureza da droga apreendida foram isoladamente sopesadas para levarem à conclusão de que o réu seria dedicado a atividades criminosas, reputo evidenciado o apontado constrangimento ilegal de que estaria sendo vítima.
+4. Agravo regimental não provido.
+(AgRg no HC n. 747.644/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 13/9/2022, DJe 19/9/2022)
+Ante o exposto, indefiro liminarmente o writ.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. CONDENAÇÃO. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. PRECEDENTES.
+Writ indeferido liminarmente.
