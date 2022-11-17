@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por LEANDRO FERNANDES DE SOUZA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão doSuperior Tribunal de Justiçaassim ementado (fl. 279):
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO DEFICIENTE DA DECISÃO DE INADMISSÃO NA ORIGEM. INOBSERVÂNCIA DO COMANDO LEGAL INSERTO NOS ARTS. 932, III, DO CPC/2015 E 253, PARÁGRAFO ÚNICO, I, DO RISTJ.
+1. A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Rel. p/ acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018.
+2. No caso, a defesa do agravante não impugnou, de forma suficiente, todos os fundamentos da decisão que inadmitiu o recurso especial na origem.
+3. Agravo regimental improvido.
+O recorrente sustenta a violação dos arts. 5º, XXXV, LIV e LV, 37 e 93, IX, da CF. Aduz que há repercussão geral da matéria tratada.
+Alega aofensa ao princípio da motivação das decisões judiciais, tendo em vista que o acórdão recorrido limitou-se a reproduzir a decisão agravada para negar provimento ao agravo regimental.
+Argumenta, ainda, o enfrentamento da questão a respeito do crime de corrupção passiva previsto no art. 317 do Código Penal.
+Requer, ao final, a admissão do recurso e suaremessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 316-329.
+É o relatório.
+O STF, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema n. 339/STF, segundo o qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão paradigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+No caso, constata-se que foram declinadas as razões pelas quais o colegiado negou provimento aoagravo regimental, valendo destacar o seguinte excerto (fls. 281-284):
+A insurgência não merece acolhida.
+A decisão que inadmite o recurso especial na origem não é formada por capítulos autônomos, mas por um único dispositivo, razão pela qual deve ser impugnada na sua integralidade, ou seja, em todos os seus fundamentos (EAREsp n. 831.326/SP, Relator para o acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018), inclusive de forma específica, suficiente e pormenorizada (AgRg no AREsp n. 1.234.909/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 2/4/2018).
+No sentido da incindibilidade dos fundamentos da decisão de inadmissão, destaco o seguinte precedente da Corte Especial: ..
+Especificamente nas hipóteses em que o recurso especial é inadmitido com fundamento na Súmula 83/STJ, ou seja, com base no entendimento de que o acórdão hostilizado está em harmonia com a jurisprudência consolidada nesta Corte, a orientação sedimentada é de que cabe ao agravante, nas razões do agravo, demonstrar que a orientação jurisprudencial desta Corte Superior é diversa ou que a situação retratada nos autos possui uma peculiaridade que a distingue dos precedentes invocados.
+Se o agravante assim não procede, o recurso é tido como inadmissível, ante a inobservância do princípio da dialeticidade recursal (art. 932, III, do Código de Processo Civil).
+ ..
+Quando a inadmissão se dá em razão de outros óbices - Súmula 518/STJ, Súmula 283/STF, Súmula 284/STF, Súmula 7/STJ, falta de prequestionamento (Súmulas 282/STF, 356/STF e 211/STJ), ausência de cotejo analítico e impossibilidade de exame de matéria constitucional em sede de recurso especial -, a orientação desta Corte é no sentido da insuficiência da impugnação genérica do fundamento da decisão de inadmissão.
+ ..
+Assim, nesses casos, cabe ao agravante impugnar, de forma suficiente, o fundamento da decisão de inadmissão, deduzindo argumentos concretos e aptos a demonstrar a inaplicabilidade dos referidos óbices, inclusive transcrevendo as razões do recurso especial quando necessário.
+No caso dos autos, o agravante não impugnou, de forma suficiente, os seguintes fundamentos da decisão de inadmissão: ausência de indicação do ponto omisso, contraditório ou obscuro - Súmula 284/STF, Súmula 284/STF e razões recursais dissociadas do acórdão recorrido - Súmula 284/STF. Limitou-se a alegar que a decisão agravada contrariou o disposto nos arts. 489, § 1º, I e IV, do Código de Processo Civil e 93, IX, da Constituição Federal, reiterando os argumentos relacionados ao mérito da controvérsia, aduzindo, ao final, que a revaloração da prova é permitida em sede de recurso especial (fls. 219/222).
+Ora, como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou a insistência no mérito da controvérsia (AgRg no AREsp n. 2.022.990/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 6/5/2022).
+Cumpre destacar, ainda, que é inviável considerar os argumentos veiculados em recurso subsequente, ante a incidência do princípio da preclusão consumativa.
+Por outro lado, no RE n. 598.365-RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+Verifica-se que o acórdão objeto do recurso extraordinário negou provimento ao agravo regimental pela ausência de impugnação suficiente aos fundamentos da decisão agravada.
+Desse modo, não tendo o julgado recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema n. 181/STF, sendo inviável a análise da violação constitucional apontada no recurso extraordinário.
+Ante o exposto, com fundamento no art. 1.030, I, a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. NEGATIVA DE SEGUIMENTO. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA N. 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. NEGATIVA DE SEGUIMENTO.
