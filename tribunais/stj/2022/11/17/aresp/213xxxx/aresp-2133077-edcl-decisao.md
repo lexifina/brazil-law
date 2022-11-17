@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por SWISS PARK MANAUS INCORPORADORA LTDA à decisão monocrática de fls. 413-418(e-STJ), por meio da qual esta relatoria conheceu do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Em suas razões recursais (e-STJ, fls. 420-423), alegaoembargantea existência de erro materialna decisão unipessoal.
+Brevemente relatado, decido.
+De início, os embargos de declaração possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Ao analisar as questões aduzidas no agravo em recurso especial,aplicou-se os apontados óbices processuais de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Observa-se, ademais, que o embargante, na verdade, busca a rediscussão da matéria já decidida de maneira inequívoca, pretensão esta que não se encontra em harmonia com a natureza e a função dos embargos declaratórios.
+Cabe ressaltar que a decisão embargada foi fundamentada no sentido deque a alegação de violação ao art.85, § 11, do CPC/2015,revela-se inadequadapara a solução da controvérsia, uma vez que o dispositivo não tem comando normativo suficiente para infirmar o fundamento central adotado no acórdão estadual, segundo o qual o arbitramento de honorários de sucumbência realizado pelo Tribunal, na forma do art. 85, § 2º, do CPC/2015, não tem vinculação com os honorários fixados na sentença reformada.
+Com efeito,havendo impertinência entre a tese sustentada e o conteúdo da norma inserta no dispositivo legal apontado como violado, aplica-se, por analogia, o enunciado da Súmula 284 do STF, segundo o qual "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exatacompreensão da controvérsia".
+Evidente, portanto, a impossibilidade de acolhimento dos presentes declaratórios, porquanto devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. NÍTIDA PRETENSÃO DE REJULGAMENTO DO RECURSO. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
