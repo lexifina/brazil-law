@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, conhecer do agravo para não conhecer do recurso especial, nos termos do voto do Sr. Ministro-Relator.
+A Sra. Ministra Assusete Magalhães, os Srs. Ministros Francisco Falcão, Humberto Martins e Herman Benjamin votaram com o Sr. Ministro Relator.
+RELATÓRIO
+A Universidade Tecnológica Federal do Paraná - UTFPR agrava da decisão denegatória de seguimento ao recurso especial com fundamento no art. 105, inciso III, alínea "a", da Constituição da República, contra o acórdão prolatado pelo Eg. Tribunal Regional Federal da 4.ª Região, ementado assim:
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSOPÚBLICO. MAGISTÉRIO SUPERIOR. ÁREA DE AGRONOMIA. QUALIFICAÇÃO PARA O CARGO. DIREITO À INVESTIDURA. SENTENÇA DE PROCEDÊNCIA MANTIDA.
+Cuida-se de demanda instaurada no contexto de concurso público ao qual a ora recorrida aderiu para o fim de disputara vaga de Professor do Magistério Superior - Classe A, denominação "Adjunto A", na área de Agronomia, área - Extensão Rural, do quadro funcional da recorrente.
+A controvérsia surge durante o procedimento de nomeação, quando a Administração Pública pontuou a impossibilidade de provimento face o desatendimento dos requisitos editalícios na medida em que a recorrida é graduada em agronomia, tem titulação em engenharia agrônoma, e doutorado em ciências (biologia celular e molecular), mas o edital exigia, dentre outras graduações, aquela em agronomia, mas necessariamente com doutorado nas áreas de agronomia, ou de desenvolvimento rural.
+Assim, este último aspecto contava para a negativa de nomeação e daí a impetração da ação mandamental, que na concessão da ordem levou em conta o fato de a tese de doutorado defendida pela recorrida debruçava-se sobre aanálise do processo de fertilização e formação da semente em milho, e isso indicava um conhecimento mais abrangente do que o pedido no edital.
+O recurso especial apregoa ter havido a nulidade do acórdão por violação ao art. 1.022 do CPC/2015 na medida em que não examinadas as informações da autoridade coatora nem interpretados osarts. 5.º, inciso IV, e § 1.º, 11 e 41, todasda Lei 8.666/1993, pedindo ainda o reconhecimento da violação diretamente a estes mesmos preceitos.
+A inadmissibilidade pautou-se pelas Súmulas 05 e 07 deste Tribunal Superior e pela inviabilidade de uso do recurso especial quanto a tese de violação a preceito constitucional, tudo devidamente refutado na minuta do agravo.
+O Ministério Público Federal declinou de atuar no feito por não vislumbrar interesse público de especial relevância o qual ensejasse a sua intervenção.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. LEI DE LICITAÇÕES. INAPLICABILIDADE. FALTA DE COMANDO NORMATIVO.
+1.Não se conhece do recurso especial quanto a tese veiculada com base em argumentação genérica, no caso concreto a de negativa de prestação jurisdicional. Hipótese da Súmula 284/STF.
+2.A lei de licitações não regula nem se aplica a concursos públicosde ingresso no quadro funcional estatal, masunicamente o concurso que é modalidade de licitação para aescolha de trabalho técnico, científico ou artístico, mediante a instituição de prêmios ou remuneração aos vencedores, assim por que a tese carece de comando normativo. Inteligência da Súmula 284/STF.
+3.Agravo conhecido para não conhecer do recurso especial.
+VOTO
+Conheço do agravo porque regularmente impugnados os fundamentos do juízo de admissibilidade, mas o recurso especial não vence esse mesmo julgamento.
+A recorrente desenvolve duas teses com a mesma modicidade argumentativa, e isso não é suficiente para o conhecimento do recurso.
+No caso da preliminar nota-se que o texto argumentativo resume-se a afirmar que as informações da autoridade não foram examinadas, e a isso segue-se a sua transcrição, e que osarts. 5.º, inciso IV, e § 1.º, 11 e 41, todas da Lei 8.666/1993, tampouco foram analisados, e isso é deficiência incontornável porque não permite saber o que exatamente das informações não foi examinado, qual era a sua relevância para o correto deslinde da controvérsia, ou, no caso dos preceitos, que interpretação havia ser feita para que o julgamento fosse mais justo.
+Essa quadra importa o óbice da Súmula 284/STF.
+Por outro lado a tese de mérito é igualmente deficiente, mas por outro ângulo: é que a Lei 8.666/1993 cuida de licitação e de contratos públicos, e na sua regulação há, é fato, uma modalidade de licitação denominada concurso, mas esta não se confunde com o concurso público para o acesso ao quadro funcional estatal, constituindo ao revés uma modalidade licitatória destinada àescolha de trabalho técnico, científico ou artístico, mediante a instituição de prêmios ou remuneração aos vencedores, e por isso é que a Lei 8.666/1993 não configura diploma normativo regulador da matéria, e menos ainda os seus dispositivos reúnem comando normativo para, na via do especial, infirmar o acórdão que versa pretensão sobre o acesso ao cargo público, isso igualmente atraindo a inteligência da Súmula 284/STF.
+Assim,conheço do agravo para não conhecer do recurso especial.
+Sem honorários recursais, tendo em vista o disposto no art. 25 da Lei 12.016/2009 (RMS 51.721/ES, de minha relatoria, Segunda Turma, julgado em06/10/2016, DJe 14/10/2016).
+É o voto.
