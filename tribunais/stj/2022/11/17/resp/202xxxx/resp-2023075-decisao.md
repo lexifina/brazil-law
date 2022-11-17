@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaCONCESSÃO METROVIÁRIA DO RIO DE JANEIRO S.A, nos autos de ação indenizatória de danos materiais c/c danos morais.
+A Corte Especial, no julgamento do CC 150.050/DF, Rel. Min. Og Fernandes, DJ 08/5/2017, realizando a interpretação do que fora anteriormente decido no CC 138.405/DF, definiu que compete à Segunda Seção a análise de ações propostas por particulares em face de empresas concessionárias de serviços públicos, quando não houver pedido ou causa de pedir referente ao contrato de concessão de serviço público ou à norma legal ou regulamentar da concessão.
+Dessa forma, considerando que a causa de pedir da presente demanda está relacionada tão somente com o direito privado, não havendo, portanto, discussão em torno da concessão em si do serviço público, é de se concluir que a competência para o julgamento do presente feito é da Segunda Seção, nos termos do art. 9º, §2º, III, do RISTJ e do CC 150.050/DF.
+Diante do exposto, definida a competência da Segunda Seção para apreciar e julgar o feito, determino sejam os presentes autos encaminhados à Coordenadoria competente para redistribuição a um dos Ministros que compõem aquela Seção.
+Prejudicado os embargos declaratórios de fls. 486/489.
