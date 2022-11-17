@@ -1,0 +1,6 @@
+DECISÃO
+Os recorrentes alegam sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 1.0000.17.006208-7/000, em que se pleiteava "o reconhecimento do constrangimento ilegal na transferência antecipada do local de cumprimento de pena antes do trânsito em julgado da decisão que decretou a perda do cargo de Policial Militar" (fl. 518).
+Para tanto, asseriu a defesa que "os autos do processo de perda da graduação foram remetidos ao Supremo Tribunal Federal e a transferência dos pacientes deve aguardar o trânsito em julgado do Recurso Extraordinário, devendo eles permanecerem na unidade prisional do 23º Batalhão da Policia Militar de Minas Gerais" (fl. 518).
+Todavia, em consulta ao sítio eletrônico do Supremo Tribunal Federal, verifico que, em 19/11/2020, transitou em julgado o acórdão referente ao julgamento do Agravo em Recurso Extraordinário n. 1.020.602/MG, em que se questionava a perda dos postos e das patentes dos recorrentes, a evidenciar a prejudicialidade do pleito aqui deduzido.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 246, ambos do RISTJ, julgo prejudicado o recurso em habeas corpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
