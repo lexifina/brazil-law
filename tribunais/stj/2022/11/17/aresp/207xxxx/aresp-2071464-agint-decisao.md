@@ -1,0 +1,25 @@
+DECISÃO
+Com efeito, Egrégia Presidência desta Corte Superior, a quem foi distribuído inicialmente o agravo em recurso especial, não conheceu do recurso tendo em vista que "a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao art. 1.022 do CPC, Súmula 7/STJ e Súmula 83/STJ.  ..  Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 83/STJ." (fl. 1.831 e-STJ).
+Nas razões de seu agravo interno aparte afirma que, além de impugnar especificamente o teor da Súmula 83-STJ,também se insurgiuquanto aos demais tópicos da decisão agravada (fls. 1.836-1.853e-STJ).
+Foi apresentada impugnação às fls. 1.857-1.879e-STJ, pela manutenção do decisum.
+É o relatório.
+Éde se observar, pelas razões apresentadas, que a parte agravante efetivamente combateu o juízo prévio de admissibilidade exarado pelo Tribunal de origem no ponto específico, como denotam as razões expressasàfl. 1.684-1.687 e-STJ:
+Ocorre que o agravante, ao contrário do entendimento da decisão agravada, não pretende o reexame das provas dos autos, sendo que o dissenso jurisprudencial é manifesto. Aliás, o recurso denegado não esbarra nas Súmulas 7 e 83 do C. STJ, pois além de não ser necessário o reexame das provas para julgar a questão de fundo recurso denegado, a decisão estadual impugnada contraria o entendimento jurisprudencial consolidado no C. STJ. Há, portanto, divergência jurisprudencial apta a viabilizar e impulsionar o recurso denegado, que merece ser destrancado. Ocorre que o acórdão impugnado pelo recurso denegado negou provimento ao recurso do hospital, com base nas seguintes razões:
+ ..
+Desse modo, o v. acórdão questionado pelo recurso denegado negou provimento ao recurso do hospital agravante, mantendo a condenação do nosocômio no pagamento de danos morais e materiais, rejeitando a alegação do recorrente relacionada a sua ilegitimidade passiva, deixando incontroverso as seguintes premissas:
+ ..
+Com isso, com base nessas premissas de raciocínio, o acórdão estadual questionado pelo recurso denegado manteve a condenação do hospital ao pagamento de danos morais e materiais.
+Em razão disso, o agravante sustentou no recurso denegado que, assim decidindo, o acórdão estadual divergiu do entendimento do Eg. Superior Tribunal de Justiça:
+ ..
+Desse modo, o C. STJ decidiu no sentido de que a "responsabilidade do hospital somente tem espaço quando o dano decorrer de falha de serviços cuja atribuição é afeta única e exclusivamente ao hospital", sendo que "nas hipóteses de dano decorrente de falha técnica restrita ao profissional médico, mormente quando este não tem nenhum vínculo com o hospital - seja de emprego ou de mera preposição -, não cabe atribuir ao nosocômio a obrigação de indenizar."
+Já o acórdão estadual impugnado pelo recurso denegado concluiu que: "Entretanto, sabe-se que para um profissional da saúde prestar serviços em determinada entidade hospitalar, ele deve ter prévia permissão daquele que administra o nosocômio para que possa efetuar atendimentos e procedimentos clínicos ou cirúrgicos no estabelecimento", bem como que "E desta permissão, nasce a responsabilidade objetiva do nosocômio pelos atos praticados por seus prepostos."
+Ora, enquanto o C. STJ decidiu no sentido de que a "responsabilidade do hospital somente tem espaço quando o dano decorrer de falha de serviços cuja atribuição é afeta única e exclusivamente ao hospital", bem como que "Nas hipóteses de dano decorrente de falha técnica restrita ao profissional médico, mormente quando este não tem nenhum vínculo com o hospital - seja de emprego ou de mera preposição -, não cabe atribuir ao nosocômio a obrigação de indenizar", o acórdão estadual impugnado pelo recurso denegado decidiu justamente o contrário, pois responsabilizou o nosocômio recorrente pela condenação imposta, vinculada a ato médico.
+Destaca-se, que o C. STJ, decidiu no sentido de que a "responsabilidade do hospital somente tem espaço quando o dano decorrer de falha de serviços cuja atribuição é afeta única e exclusivamente ao hospital", sendo que "nas hipóteses de dano decorrente de falha técnica restrita ao profissional médico, mormente quando este não tem nenhum vínculo com o hospital - seja de emprego ou de mera preposição -, não cabe atribuir ao nosocômio a obrigação de indenizar", ou seja, é certo que a decisão estadual divergiu do entendimento consagrado pelo Eg. STJ, na decisão acima citada.
+Portanto, ao contrário do entendimento do r. despacho agravado, é certo que o acórdão estadual impugnado pelo recurso denegado divergiu do entendimento do C. STJ.
+Restouatendido no tópico,portanto, o requisito processual do art. 932, III, do CPC/2015.
+Ante o exposto, DOU PROVIMENTO ao agravo interno para, exercido o juízo de retratação, afastar o óbice apontado.
+Retornem os autos conclusos para apreciaçãodo agravo em recurso especial.
+Intime-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA. COMPROVAÇÃO. RETRATAÇÃO.
+AGRAVO INTERNO PROVIDO.
