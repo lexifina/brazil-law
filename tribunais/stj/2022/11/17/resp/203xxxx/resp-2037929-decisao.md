@@ -1,0 +1,44 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por CARLOS PAIVA GOLGO e OUTROS contra acórdão prolatado, por unanimidade, pela 1ª Turma do Tribunal Regional Federal da 4ª Região no julgamento de Agravo de Instrumento, assim ementado (fl. 54e):
+TRIBUTÁRIO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. CONTRIBUIÇÕES PREVIDENCIÁRIAS E SUCUMBÊNCIA.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, aponta-se ofensa ao art. 85, § 8º, do Código de Processo Civil de 2015, alegando-se, em síntese, que, ante o baixo valor da causa, os honorários sucumbenciais poderiam ser arbitrados por equidade.
+Sem contrarrazões, o recurso foi inadmitido (fl. 337/338e), tendo sido interposto Agravo, posteriormente convertido em Recurso Especial (fl. 367e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Não obstante interposto contra acórdão proferido em agravo de instrumento, entendo relevante registrar o cabimento do presente Recurso Especial, porquanto ausente a possibilidade de modificação do decisum originário, considerando não se tratar de decisão precária. Portanto, a insurgência endereçada a esta Corte é o caminho apropriado para impedir a preclusão da matéria.
+Acerca dos honorários advocatícios, impende trazer à colação a redação do art. 85 do Código de Processo Civil de 2015, que dispõe, in verbis:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+§ 1º São devidos honorários advocatícios na reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente.
+§ 2º Os honorários serão fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, atendidos:
+I - o grau de zelo do profissional;
+II - o lugar de prestação do serviço;
+III - a natureza e a importância da causa;
+IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço.
+§ 3º Nas causas em que a Fazenda Pública for parte, a fixação dos honorários observará os critérios estabelecidos nos incisos I a IV do § 2º e os seguintes percentuais:
+I - mínimo de dez e máximo de vinte por cento sobre o valor da condenação ou do proveito econômico obtido até 200 (duzentos) salários-mínimos;
+II - mínimo de oito e máximo de dez por cento sobre o valor da condenação ou do proveito econômico obtido acima de 200 (duzentos) salários-mínimos até 2.000 (dois mil) salários-mínimos;
+III - mínimo de cinco e máximo de oito por cento sobre o valor da condenação ou do proveito econômico obtido acima de 2.000 (dois mil) salários-mínimos até 20.000 (vinte mil) salários-mínimos;
+IV - mínimo de três e máximo de cinco por cento sobre o valor da condenação ou do proveito econômico obtido acima de 20.000 (vinte mil) salários-mínimos até 100.000 (cem mil) salários-mínimos;
+V - mínimo de um e máximo de três por cento sobre o valor da condenação ou do proveito econômico obtido acima de 100.000 (cem mil) salários-mínimos.
+§ 4º Em qualquer das hipóteses do § 3º :
+I - os percentuais previstos nos incisos I a V devem ser aplicados desde logo, quando for líquida a sentença;
+II - não sendo líquida a sentença, a definição do percentual, nos termos previstos nos incisos I a V, somente ocorrerá quando liquidado o julgado;
+III - não havendo condenação principal ou não sendo possível mensurar o proveito econômico obtido, a condenação em honorários dar-se-á sobre o valor atualizado da causa;
+IV - será considerado o salário-mínimo vigente quando prolatada sentença líquida ou o que estiver em vigor na data da decisão de liquidação.
+§ 5º Quando, conforme o caso, a condenação contra a Fazenda Pública ou o benefício econômico obtido pelo vencedor ou o valor da causa for superior ao valor previsto no inciso I do § 3º, a fixação do percentual de honorários deve observar a faixa inicial e, naquilo que a exceder, a faixa subsequente, e assim sucessivamente.
+§ 6º Os limites e critérios previstos nos §§ 2º e 3º aplicam-se independentemente de qual seja o conteúdo da decisão, inclusive aos casos de improcedência ou de sentença sem resolução de mérito.
+§ 7º Não serão devidos honorários no cumprimento de sentença contra a Fazenda Pública que enseje expedição de precatório, desde que não tenha sido impugnada.
+§ 8º Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º (destaque meu).
+O CPC/2015 trouxe profunda alteração na disciplina dos honorários de sucumbência, sobretudo nas causas em que a Fazenda Pública for parte e estabeleceu regramento bastante distinto do anterior; no regime atual, diversamente, a equidade ganhou nova qualificação apresentando-se como critério excepcional, subsidiário, e não vinculado, expressamente, às causas em que for vencida a Fazenda Pública.
+A esse respeito, a lição de Leonardo Carneiro da Cunha:
+Cabe, ainda, lembrar o disposto no § 3º do art. 85 do CPC-2015. O Código revogado previa, no § 4º de seu art. 20, que os honorários, nas demandas que envolvessem o Poder Público, seriam fixados por equidade. O § 3º do art. 85 do novo Código estabelece uma tabela progressiva para a fixação do valor dos honorários de sucumbência nas causas que envolvam a Fazenda Pública. Não houve criação nem eliminação do direito a honorários. Apenas foram alterados os critérios de sua fixação. Modificou-se o regime jurídico para a fixação do valor. Não há direito adquirido à manutenção daquele regime jurídico.
+(Direito Intertemporal e o Novo Código de Processo Civil. Rio de Janeiro: Forense: 2016. p. 18).
+Com efeito, as únicas hipóteses nas quais é permitido excepcionar as faixas estabelecidas no art. 85, § 3º, I a V, do CPC/2015 para a utilização da equidade no arbitramento dos honorários de sucumbência, a partir da aferição dos critérios estabelecidos nos incisos do § 2º, são, exclusivamente, aquelas disciplinadas em seu § 8º, ou seja, nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da demanda for muito baixo.
+Desse modo, o Código de Processo Civil de 2015 previu, expressa e excepcionalmente, a fixação por livre arbítrio do julgador, a fim de garantir ao advogado remuneração digna quando impossível a constatação da representação pecuniária daquilo que se obteve no processo (inestimável) ou quando o montante envolvido seja de pequena representatividade financeira (valor da condenação ou proveito econômico ou valor da causa muito pequenos).
+A Corte Especial deste Tribunal Superior, no julgamento do Tema n. 1.076/STJ (Recursos Especiais ns. 1.850.512/SP, 1.877.833/SP. 1.906.618/SP e 1.906.623/SP) firmou tese vinculante segundo a qual a fixação de honorários por apreciação equitativa do juiz (art. 85, § 8º, do CPC/2015), restringe-se às causas em que irrisório ou inestimável - onde não seja possível atribuir valor patrimonial à controvérsia, não se estendendo àquelas demandas em que atribuído valor elevado - o proveito econômico ou, ainda, quando o valor da demanda for muito baixo.
+In casu, tendo o acórdão recorrido contrariado entendimento pacificado nesta Corte, de rigor o parcial provimento do recurso para determinar que a Corte a qua reanalise a questão relativa aos honorários advocatícios de sucumbência, à luz do disposto no art. 85, §§ 2º e 3º, I a V, do Código de Processo Civil de 2015.
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, DOU PROVIMENTO ao Recurso Especial, para determinar o retorno dos autos à origem, a fim de que sejam fixados nos honorários sucumbenciais, nos termos expostos.
+Publique-se e intimem-se.
