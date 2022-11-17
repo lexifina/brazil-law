@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por ZURICH MINAS BRASIL SEGUROS S.A. (ZURICH), com fundamento no art. 105, III, alíneas a e c, da CF, contra acórdão proferido pelo Tribunal Gaúcho, assim ementado:
+AGRAVO DE INSTRUMENTO. SEGURO DE RESPONSABILIDADE CIVIL. AÇÃO REGRESSIVA DE SEGURADO EM FACE DE SEGURADORA. INDENIZAÇÃO PAGA PELO SEGURADO A TERCEIRO PREJUDICADO. PRAZO PRESCRICIONAL ÂNUO NÃO IMPLEMENTADO. ART. 206, §1º, II, DO CÓDIGO CIVIL. 1. DEPREENDE-SE QUE A PARTE DEMANDANTE OBJETIVA A CONDENAÇÃO DA SEGURADORA DEMANDADA AO PAGAMENTO DE VALORES DESPENDIDOS EM FAVOR DE TERCEIRO, A TÍTULO DE DANOS MATERIAIS E MORAIS, EM PROCESSO QUE TRAMITOU NO JUÍZO DA 2ª VARA JUDICIAL DA COMARCA DE GUAPORÉ, UMA VEZQUE TRATAVA DE FATO DECORRENTE DE EVENTO SUPOSTAMENTE COBERTO PELO SEGURO MANTIDO PELA RÉ. 2. CINGE-SE A CONTROVÉRSIA RECURSAL AO PRAZO PRESCRICIONAL INCIDENTE NA ESPÉCIE, BEM COMO QUANTO AO TERMO INICIAL APLICÁVEL PARA FINS DE CONTAGEM DO DECURSO DO PRAZO. 3. EM SE TRATANDO DE AÇÃO QUE ENVOLVE CONTRATO DE SEGURO, EM QUE HÁ PRETENSÃO DE COMPLEMENTAÇÃO DE INDENIZAÇÃO SECURITÁRIA, APLICA-SE A PRESCRIÇÃO ÂNUA PREVISTA NO ART.206, §1º, II, DO CÓDIGO CIVIL. 4. EM SE TRATANDO DE AÇÃO REGRESSIVA DE SEGURADO EM FACE DE SEGURADORA PARA FINS DE REEMBOLSO DE VALORES PAGOS PELO SEGURADO A TERCEIRO PREJUDICADO, O ENTENDIMENTO DESTE E. TRIBUNAL DE JUSTIÇA OBSERVA O PRINCÍPIO DA ACTIO NATA. PARA OS CASOS DE SEGURO DE RESPONSABILIDADE CIVIL, ADOTA-SE A DATA DO PAGAMENTO DA INDENIZAÇÃO PELO SEGURADO AO TERCEIRO PREJUDICADO. PRECEDENTES DESTE E. TJRS. 5. ENTENDENDO PELO RECONHECIMENTO DO VALOR DEVIDO PELO SEGURADO A TERCEIRO PREJUDICADO TÃO SOMENTE COM O TRÂNSITO EM JULGADO DA CONDENAÇÃO (07/10/2020) E QUE O EFETIVO PAGAMENTO OCORREU EM 18/03/2021, NÃO HÁ FALAR EM IMPLEMENTAÇÃO DO PRAZO PRESCRICIONAL ÂNUO QUANDO DEMONSTRADO O AJUIZAMENTO DA PRESENTE DEMANDA EM 04/10/2021. AGRAVO DE INSTRUMENTO DESPROVIDO (e-STJ, fls. 80/81).
+Nas razões do presente recurso, ZURICH aduziu violação do art. 206, §1º, II, a, do CC, bem como dissídio jurisprudencial, argumentando que prescreve em um ano a pretensão do segurado em face da seguradora, contado desde a citação do segurado na ação indenizatória ajuizada por terceiro (e-STJ, fls. 93/109).
+Foram apresentadas contrarrazões (e-STJ, fls. 134/150).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Do termo inicial do prazo prescricional
+Nas razões do presente recurso, ZURICH alegou a negativa de vigência do art. 206, §1º, II, a, do CC, bem como dissídio jurisprudencial, ao sustentar que prescreve em um ano a pretensão do segurado em face da seguradora, contado desde a citação do segurado na ação indenizatória ajuizada por terceiro.
+Sobre o tema o Tribunal estadual consignou que o termo inicial deve ser a data do pagamento da indenização ao terceiro prejudicado, confira-se:
+Assim, melhor elucidando a questão, deve ser considerado que, em se tratando de ação regressiva de segurado em face de seguradora para fins de reembolso de valores pagos pelo segurado a terceiro prejudicado, o entendimento deste e. Tribunal de Justiça observa o princípio da Actio Nata, no sentido de que o termo inicial para a contagem do prazo prescricional é a data do trânsito em julgado da ação que condenou o segurado ao pagamento, haja vista que a partir do trânsito em julgado é que surge o dever de pagamento em relação ao terceiro.
+Contudo, para os casos de Seguro de Responsabilidade Civil, este Egrégio Tribunal de Justiça adota a data do pagamento da indenização pelo segurado ao terceiro prejudicado. Confira-se a jurisprudência deste e. Tribunal de Justiça sobre a temática:
+ ..
+Diante desses fundamentos, entendendo pelo reconhecimento do valor devido pelo segurado a terceiro prejudicado tão somente com o trânsito em julgado da condenação (07/10/2020 - Evento 1, doc. 11, p. 11 - Processo originário) e que o efetivo pagamento ocorreu em 18/03/2021, não há falar em implementação do prazo prescricional ânuo quando demonstrado o ajuizamento da presente demanda em 04/10/2021 (Evento 1 - Processo originário)(e-STJ, fls. 85/87).
+Contudo, esta Corte Superior possui jurisprudência consolidada de que, em seguro de responsabilidade civil, o prazo da prescrição em face da seguradora é contado a partir da citação, quando o segurado toma conhecimento da demanda ajuizada pelo terceiro prejudicado.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AÇÃO DE REGRESSO. RESPONSABILIDADE CIVIL. SEGURO. PRESCRIÇÃO ÂNUA. TERMO INICIAL. CITAÇÃO DO SEGURADO. CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL DESPROVIDO.
+1. "Segundo o Código Civil, e nos termos da jurisprudência deste Superior Tribunal de Justiça, nos casos de seguro de responsabilidade civil, a prescrição será contada "da data em que é citado para responder à ação de indenização proposta pelo terceiro prejudicado, ou da data que a este indeniza, com a anuência do segurador" (artigo 206, § 1º, inc. II, alínea a). Precedentes.
+(AgInt no REsp 1.246.263/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 26/11/2019, DJe de 27/11/2019).
+2. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp n. 2.085.067/PR, relator Ministro RAUL ARAÚJO, Quarta Turma, j. em 26/9/2022, DJe de 7/10/2022.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRATO DE SEGURO. AÇÃO DE COBRANÇA. PRESCRIÇÃO ÂNUA. TERMO INICIAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O marco inicial da prescrição do pleito de cobertura do seguro, nos casos em que o segurado é demandado por terceiro prejudicado, deve começar a fluir do momento em que o segurado toma conhecimento de demanda contra ele proposta, ou seja, desde a citação.
+Precedentes.
+3. No caso, apreciar a existência de hipótese suspensiva do prazo prescricional demanda exame de matéria fático-probatória, providência obstada pelo disposto na Súmula nº 7/STJ, sendo necessário, portanto, o retorno dos autos ao tribunal de origem.
+4. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.893.927/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 30/5/2022, DJe de 2/6/2022.)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em dissonância com o entendimento firmado nesta Corte, deve ser ele reformado.
+Dessa forma, incide a Súmula nº 568 do STJ.
+Nessas condições, DOU PROVIMENTO ao recurso especial, a fim de que determinar a remessa dos autos ao Tribunal estadual, a fim de que reexamine a incidência da prescrição à luz do entendimento do STJ.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. RECURSO ESPECIAL. AÇÃO REGRESSIVA. SEGURO DE RESPONSABILIDADE CIVIL. SEGURADO EM FACE DA SEGURADORA. PRESCRIÇÃO. TERMO INICIAL. CITAÇÃO. RECURSO ESPECIAL PROVIDO.
