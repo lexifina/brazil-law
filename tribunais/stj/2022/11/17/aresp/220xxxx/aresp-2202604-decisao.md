@@ -1,0 +1,42 @@
+DECISÃO
+Na origem, trata-se de agravo de instrumento interposto por Jocivaldo Alves contra decisão do Juízo a quo que indeferiu pedido de concessão do benefício da gratuidade de justiça.
+A Vigésima Quinta Câmara Cível do Tribunal de Justiça do Estado de São Paulo negou provimento ao recurso, nos termos da seguinte ementa (e-STJ, fl. 108):
+AGRAVO DE INSTRUMENTO. Insurgência contra decisão que indeferiu a concessão do benefício da justiça gratuita. Falta de comprovação da alegada insuficiência financeira impeditiva do custeio da lide. Determinado ao autor que comprovasse documentalmente, nesta sede recursal, a alegada falta de recursos para o custeio do processo, apresentou documentação insuficiente ao reconhecimento da falta de recursos para o custeio processual, deixando de atender, inclusive, o comando de juntada de informações econômicas-fiscais, nos exercícios de 2019, 2020 e 2021. Diante disso, ausente prova da alegada hipossuficiência financeira, mantém-se o indeferimento dos benefícios da assistência judiciária gratuita (Código de Processo Civil, artigos 98 e 99). Decisão mantida. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 118-121).
+No recurso especial, fundamentado no art. 105, III, a e c, da Constituição Federal, o recorrente alegou violação do art. 99, § 3º, do Código de Processo Civil de 2015, além da existência de divergência jurisprudencial.
+Sustentou, em síntese, que a declaração de hipossuficiência firmada por pessoa natural tem presunção legal de veracidade, a dispensar a comprovação da renda para a concessão do benefício da gratuidade de justiça.
+Sem contrarrazões (e-STJ, fl. 144).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Acerca do tema, a jurisprudência desta Corte Superior é no sentido de que "a presunção de veracidade da condição de hipossuficiência do postulante da assistência judiciária gratuita é relativa, e não absoluta, não acarretando o acolhimento automático do pedido" (STJ, AgInt no AREsp 1.671.512/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/10/2020).
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. PROCESSUAL CIVIL. WRIT. SUCEDÂNEO RECURSAL. NÃO CABIMENTO. ATO JUDICIAL COATOR. TERATOLOGIA E ABUSIVIDADE. AUSÊNCIA. NULIDADE PROCESSUAL. INEXISTÊNCIA. ACÓRDÃO. VOTO DO RELATOR. DECISÃO UNÂNIME. JUNTADA FACULTATIVA. IDENTIDADE DE FUNDAMENTAÇÕES. ATA DE JULGAMENTO. REGISTRO. SUFICIÊNCIA. GRATUIDADE DE JUSTIÇA. INDEFERIMENTO. HIPOSSUFICIÊNCIA. DEMONSTRAÇÃO. AUSÊNCIA. AFIRMAÇÃO DE POBREZA. PRESUNÇÃO RELATIVA.
+1. A via mandamental se mostra incabível quando o ato judicial questionado for passível de impugnação por recurso adequado, sobretudo se a atribuição de efeito suspensivo for possível, visto que o writ não pode ser utilizado como sucedâneo de recurso próprio (art. 5º, II, da Lei nº 12.016/2009 e Súmula nº 267/STF).
+Inexistência de ato judicial abusivo ou teratológico.
+2. Não há deficiência de fundamentação quando os demais julgadores de órgão colegiado apenas aderem integralmente aos fundamentos do voto do relator, sem acrescentar nova motivação, não existindo, portanto, prejuízo algum às partes na eventual falta de juntada desses votos escritos. No caso concreto, houve o registro da posição de cada um na ata de julgamento, dotada de fé pública.
+3. Não prospera o pedido de concessão de justiça gratuita se a parte postulante não demonstra concretamente ser hipossuficiente, gozando a afirmação de pobreza de presunção relativa de veracidade.
+4. Agravo interno não provido.
+(AgInt no RMS n. 64.028/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 7/12/2020, DJe de 17/12/2020, sem grifo no original)
+No caso concreto, verifica-se que o Tribunal de origem, soberano na análise de fatos e provas, manteve a decisão que indeferiu o benefício da gratuidade de justiça, por entender que o insurgente não teria demonstrado a real necessidade de sua concessão, conforme se depreende da fundamentação abaixo colacionada (e-STJ, fls. 109-110):
+Para aferir a veracidade da alegação de insuficiência financeira, foi determinado ao agravante que juntasse aos autos cópia das suas últimas declarações de imposto de renda (2019, 2021 e 2021) e extratos de suas contas bancárias dos três últimos meses.
+O agravante juntou aos autos os documentos a fls.101/106. Sem contraminuta, na medida em que não angularizada a lide.
+Nos termos do artigo 98 do Código de Processo Civil, fará jus aos benefícios da assistência judiciária gratuita aquele não tiver recursos para pagar as custas, as despesas processuais e os honorários advocatícios dos patronos da parte contrária.
+E, segundo o artigo 99 do Código de Processo Civil, o Juiz somente poderá indeferir o pedido se houver nos autos elementos que evidenciem a falta dos pressupostos legais, devendo, antes de indeferir o pedido, determinar à parte a comprovação do preenchimento dos referidos pressupostos.
+No caso, foi determinado que o agravante trouxesse aos autos declaração de informações econômicas-fiscais, nos exercícios de 2019, 2020 e 2021, e dos extratos bancários dos três últimos meses de suas contas bancárias.
+O agravante apresentou, apenas, e de forma resumida, uma única cópia da sua última declaração de imposto de renda(exercício 2020), indicativa apenas do saldo do imposto a pagar no valor de R$1.364,57, sem demonstrar, no entanto os valores que auferiu nos exercícios fiscais anteriores.
+Diante disso, não havendo seguros elementos para o convencimento a respeito da alegada insuficiência de recursos, pois o próprio agravante sonegou as informações econômicas-fiscais, é caso de se manter o indeferimento dos benefícios da assistência judiciária gratuita.
+Nesse contexto, não há como alterar a conclusão do acórdão recorrido (a respeito da ausência de comprovação do insurgente de que faz jus ao benefício da gratuidade de justiça), sem que se proceda ao revolvimento do conjunto fático-probatório deste processo, o que encontra barreira no verbete sumular n. 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. HIPOSSUFICIÊNCIA. PRESUNÇÃO RELATIVA. ASSISTÊNCIA JUDICIÁRIA GRATUITA.REVOGAÇÃO PELO MAGISTRADO. POSSIBILIDADE. DECISÃO MANTIDA. (..)
+3. No caso concreto, o Tribunal de origem concluiu que não ficou demonstrada a falta de condições financeiras da agravante para arcar com as custas do processo. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial. (..) 6. Agravo interno a que se nega provimento. (AgInt no AREsp 1.089.437/MG, relator Ministro Antonio Carlos Ferreira, Quarta Turma,julgado em 3/10/2017, DJe 9/10/2017)
+Assinale-se que a aplicação do enunciado n. 7 da Súmula do STJ à insurgência fulcrada na alínea a do permissivo constitucional também impede o conhecimento do recurso baseado na divergência jurisprudencial, porquanto as conclusões dissonantes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão jurídica.
+Sobre o tema, veja-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA DE FATURAMENTO DA EMPRESA. POSSIBILIDADE. REVISÃO DAS CONCLUSÕES ADOTADAS NA ORIGEM. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. ALÍNEA "C". EXAME PREJUDICADO.
+(..)
+5. Assinale-se que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+6. Recurso Especial não conhecido. (REsp 1.810.773/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/6/2019, DJe 1/7/2019.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. JUSTIÇA GRATUITA. AUSÊNCIA DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 2. DISSÍDIO PREJUDICADO. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
