@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de RAIMUNDO DA SILVA FILHO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal n.0009228-07.2022.8.26.0041).
+Consta dos autos que o Juízo da Execução Penalindeferiu o pedido de progressão ao regime semiaberto, por considerar ausente o requisito subjetivo.
+Inconformada, a defesa interpôs agravo em execução perante o Tribunal de origem, que negou provimento ao recurso.
+A impetrante sustenta que o paciente preencheu todos os requisitos,objetivo e subjetivo, para ser agraciado com a progressão ao regime intermediário.
+Afirma que o paciente apresenta bom comportamento, não havendoqualquer motivo para indeferir a progressão almejada.
+Requer a concessão da ordem a fim de que o paciente seja promovido ao regime semiaberto.
+As informações foram prestadas às e-STJ fls. 83/92.
+O Ministério Público Federal, em parecer de e-STJ fls. 99/105, opinou pelo não conhecimento do habeas corpusou, caso conhecido, pela denegação da ordem.
+É, no essencial, o relatório. Decido.
+Inicialmente, cumpre atestar a inadequação da via eleita para a insurgência contra o ato apontado como coator, não sendo cabível a impetração dehabeas corpusem substituição aos recursos e ações cabíveis, circunstância que impede o seu formal conhecimento, conforme entendimento pacífico no âmbito desta Corte Superior.
+O alegado constrangimento ilegal, entretanto, será analisado para a verificação da eventual possibilidade de atuaçãoex officio, nos termos do art. 654, § 2º, do Código de Processo Penal.
+No tocante à matéria, segundo o disposto no art. 112 da Lei de Execução Penal, para que o reeducando façajusà promoção carcerária é necessário o preenchimento de requisitos objetivo e subjetivo.
+No que tange ao requisito subjetivo, de acordo com o aludido dispositivo legal, este é aferido através de atestado de bom comportamento carcerário expedido pelo diretor do estabelecimento no qual o condenado cumpre sua sanção privativa de liberdade.
+No entanto, não é vedado ao magistrado ou ao Tribunal o indeferimento do benefício quando, a despeito do reeducando apresentar bom comportamento carcerário certificado pelo Diretor do estabelecimento prisional em que esteja cumprindo pena, entender não implementado o requisito subjetivo, desde que aponte peculiaridades da situação fática que demonstrem a ausência de mérito do condenado.
+Com efeito, a jurisprudência deste Sodalício é assente no sentido de que,"ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo"(AgRg no HC n. 718.175/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 24/5/2022, DJe de 31/5/2022).
+Nesse sentido, vejam-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. PRÁTICA DE FALTAS DISCIPLINARES. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. A existência de falta grave constitui óbice para a progressão de regime por ausência do requisito subjetivo. Afigura-se legítimo oindeferimento da progressão de regime prisional, com base em fundamentos concretos, porquanto não preenchido o requisito subjetivo, em decorrência, essencialmente, do histórico prisional do agravante, em que consta o descumprimento de condições do regime aberto, fuga da prisão e cometimento de duas faltas graves.
+2. Agravo regimental improvido.
+(AgRg no HC n. 699.921/SC, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 15/2/2022, DJe de 21/2/2022.)
+Na hipótese dos autos, em face do livre convencimento motivado, o Tribunal de origem negouprovimento ao agravo defensivo e, assim, manteve a decisão de primeiro graucom base na seguinte fundamentação(e-STJ fls. 63/65):
+Inicialmente, não há que se falar em fundamentação inidônea ou insuficiente na r. sentença de primeiro grau.
+Motivação sucinta não se confunde com ausência de fundamentação, razão pela qual não há que se falar em vício algum.
+ ..
+Quanto à análise meritória, denota-se que o agravante preencheu o requisito objetivo para a concessão da progressão de regime prisional, o que foi reconhecido em sentença e não se questiona.
+Todavia, o requisito subjetivo não pode ser considerado como prontamente atendido.
+No caso dos autos, estamos diante de um reeducando que responde por crimes de tráfico de entorpecentes e porte ilegal de arma de fogo, com pena total de 9 (nove) anos e 4 (quatro) meses de reclusão.
+Formulado pedido de progressão de regime, houve a determinação pela realização de exame criminológico, para melhor avaliar o preenchimento do requisito subjetivo (fls. 20).
+Ressalte-se que, para fins de progressão da pena, pelo que se depreende do art. 112 da Lei de Execução Penal, com a redação dada pela Lei nº 10.792/03, não mais é exigido o exame criminológico, embora o juiz da execução, dependendo da gravidade do crime, da pena e das condições pessoais do reeducando, possa vir a determiná-lo, para melhor se aferir as condições subjetivas, visando à sua concessão.
+Assim, verifica-se que tal medida está de acordo com os dispositivos legais, bem como com a Súmula Vinculante 26 do STF, observando-se que a determinação pela realização da perícia encontra fundamento diante do histórico prisional do agravante.
+ ..
+A despeito da modificação legislativa que admitiu o mero atestado de bom comportamento carcerário, diante do caso concreto, entendeu-se necessária a realização de exame criminológico.
+Não há que se falar em ilegalidade do ato ou comprometimento de sua credibilidade, tendo em vista que o exame criminológico não foi abolido do sistema jurídico, uma vez que o art. 8º da Lei de Execução Penal continua em vigor.
+Devidamente efetivada avaliação psicológica (fls. 22/24), esta, em que pese isoladas passagens de cunho favorável, postas em meio a outras de cunho desfavorável, obteve conclusão contrária à concessão da progressão de pena, extraída, precipuamente, da resposta ao quesito "f".
+Destarte, tendo sido o relatório de avaliação devidamente justificado e realizado com a observância de técnicas profissionais específicas, não se questionando a idoneidade da perita subscritora, há de se prestigiar a dedução alcançada, a qual revela a ausência de preenchimento do requisito subjetivo que se espera por parte daquele que almeja progredir de regime.
+Com isso, ficou suficientemente demonstrada a dificuldade do agravante em readaptar-se ao convívio social.
+Estamos, portanto, diante de um sentenciado de elevada periculosidade. A despeito do preenchimento do requisito objetivo, ausente o requisito subjetivo, que é caracterizado por elementos de ordem social e comportamental, capazes de comprovar ser o reeducando, ao menos por ora, merecedor da progressão pleiteada
+In casu,verifica-se queas instâncias ordinárias indeferiram o pedido de progressão ao regime semiaberto, destacando a decisão do exame criminológico realizado, que"obteve conclusão contrária à concessão da progressão de pena, extraída, precipuamente, daresposta ao quesito "f""(e-STJ fls. 64/65),circunstânciaque evidenciaa ausência de ilegalidade ou arbitrariedade na negativa da benesse.
+Por fim, é certo quea desconstituição dodecisumque considerou não adimplido o requisito subjetivo pelo paciente para fins de progressão de regime, conforme pretendido nowrit, demandaria o exame aprofundado do conjunto probatório produzido no feito, providência que é inadmissível na via eleita dohabeas corpus, diante dos seus estreitos limites cognitivos.
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL AUSÊNCIA DE DEMONSTRAÇÃO DO REQUISITO SUBJETIVO. DECRETAÇÃO DE PRISÃO PREVENTIVA EM OUTRO PROCESSO. DECISÃO DEVIDAMENTE FUNDAMENTADA. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. REVOLVIMENTO FÁTICOPROBATÓRIO INVIÁVEL. INSTRUÇÃO DEFICIENTE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo do recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Em situação semelhante, esta Corte Superior "pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo" (RHC n. 71.109/RJ, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 1º/8/2018).
+III - Saliente-se, ainda, que, no caso concreto, não se demonstrou cabalmente que o paciente possui requisito subjetivo à benesse, tendo em vista a instrução deficiente do feito (sem nem mesmo a folha penal ou o atestado carcerário do paciente) e porque a decretação de prisão preventiva no processo conexo da origem já foi objeto de análise nesta Corte Superior, em 1º/9/2021, no RHC n. 152.978/SP, não conhecido sob os seguintes argumentos: "Tais circunstâncias denotam a elevada periculosidade social do acusado, o seu aprofundado envolvimento com o crime organizado e o risco de reiteração delitiva, evidenciando-se, assim, a imprescindibilidade da prisão preventiva".
+IV - Rever o entendimento do eg. Tribunal a quo demandaria, necessariamente, amplo reexame da matéria fático probatória, procedimento incompatível com a estreita via do habeas corpus. Habeas corpus não conhecido.
+(HC n. 716.288/SP, relator o Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), Quinta Turma, julgado em 8/3/2022, DJe de 15/3/2022.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.PROGRESSÃODE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. EXAME CRIMINOLÓGICO DESFAVORÁVEL. ART. 112 DA LEI N. 7.210/84 (LEI DE EXECUÇÃO PENAL - LEP). SÚMULA N. 439 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ.FALTA GRAVE. REEXAMEDO CONJUNTO FÁTICO-PROBATÓRIO. VIA ELEITA INADEQUADA. AGRAVO DESPROVIDO.
+1. Aprogressãode regime foi indeferida com fundamento no resultado desfavorável do exame criminológico e no registro defalta grave,em consonância com a jurisprudência desta Corte. Precedentes.
+Para se desconstituir a conclusão a que chegou a Corte estadual, sobre o não preenchimento do requisito subjetivo, é necessário o exame minucioso do conjunto fático-probatório, inviável na via eleita.
+2. Agravo desprovido.
+(AgRg no HC 675.099/SP, relator o Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 8/2/2022, DJe de 14/2/2022.)
+Por tais razões, não se verifica no acórdão objurgado constrangimento ilegal a ser reparado, de ofício, por este Superior Tribunal de Justiça.
+Ante o exposto, com fundamento no art.34,XX, do RISTJ, nãoconheçodohabeas corpus.
+Publique-se.Intimem-se.
+Cientifique-se o Ministério Público Federal.
