@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por ELVE EMPRESA LOCADORA DE VEÍCULOS ESPECIAIS LTDA contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementada (e-STJ, fl. 527):
+Apelação cível. Ação indenizatória. Compra e venda de veículo seminovo. Ocorrência de defeito, não sanado pela concessionária, que o tornou impróprio para o uso. Lucros cessantes comprovados. Automóvel destinado à locação. Reembolso das despesas com blindagem que se impõe. Dano moral configurado, em virtude de ofensa à honra objetiva da locadora demandante. Verba adequadamente arbitrada. Recursos providos em parte.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts. 85, §1º e §11, 332, §2º, 489, §1º, IV e VI, e 1.022, II, do CPC e art. 927 do CC/02.
+Sustenta preliminarmente que o acórdão deve ser anulado porque o Tribunal de origem não se manifestou a respeito dos seguintes pontos relevantes: "cuida-se de omissão tanto sobre o fato de haver pedido, expresso, deduzido em capítulo específico da inicial, para a rescisão do contrato e devolução do preço, o qual, apenas não foi reproduzido no capítulo referente aos pedidos, como, também, há omissão quanto a não apreciação da norma do artigo 322, § 2º do CPC e da jurisprudência invocada pela Recorrente" - fl. 608.
+Quanto ao mérito, pede a reforma do acórdão por entender, em síntese, que: (i) "inicial apresentar capítulo especifico onde foi deduzido pedido de rescisão do contrato de compra e venda do bem e devolução do seu preço, o qual, apenas não foi reproduzido no capítulo dos pedidos da exordial" - fl. 610; (ii) o ônus sucumbencial deve ser redistribuído entre as partes, pois ambas tiveram pedidos negados e providos em proporção e (iii) o montante fixado em sede de dano moral deve ser majorado, diante do grande impacto negativo do dano e da capacidade financeira do ora recorrido.
+É o relatório.
+Passo a decidir.
+Extrai-se dos autos que a Corte de origem entendeu "inviável impor à concessionária a devolução do preço, pois esse pedido não foi deduzido na petição inicial, e o automóvel não foi restituído à vendedora, permanecendo na posse da autora" - fl. 529.
+Portanto, deve ser anulado o acórdão que rejeitou os embargos de declaração, para que seja sanada a omissão apontada, com o exame claro e detalhado da impugnação feita à possibilidade de análise da petição inicial como um todo e não apenas os pedidos deduzidos ao final.
+Conforme a jurisprudência do Superior Tribunal de Justiça, sendo efetivamente relevantes as questões aventadas na origem, impõe-se a acolhida do recurso especial para se reconhecer a omissão do julgado e determinar a apreciação dos temas suscitados.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO EM AGRAVO REGIMENTAL. POSSIBILIDADE. CPC/1973. TEMPESTIVIDADE. INDENIZAÇÃO POR DANO MORAL. MATÉRIA JORNALÍSTICA. PROCEDÊNCIA DO PEDIDO. APELAÇÃO DE AMBAS AS PARTES. FALECIMENTO DO AUTOR. SUBSTITUIÇÃO PROCESSUAL. AUSÊNCIA DE HABILITAÇÃO DO ESPÓLIO. NÃO CONHECIMENTO DAS APELAÇÕES. EMBARGOS DE DECLARAÇÃO REJEITADOS. OMISSÃO CONFIGURADA. VIOLAÇÃO DO ART. 535 DO
+CPC/73. AGRAVO PROVIDO. RECURSO ESPECIAL PROVIDO.
+1. Possibilidade de comprovação da tempestividade recursal por ocasião da interposição do agravo interno nos casos de recurso manejado sob a égide do Código de Processo Civil de 1973. Reconsideração.
+2. A ausência de manifestação sobre questão relevante para o julgamento da causa, mesmo após a oposição de embargos de declaração, constitui negativa de prestação jurisdicional (CPC/1973, art. 535, II; CPC/2015, art. 1.022, II), impondo-se a anulação do acórdão dos embargos de declaração e o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto omisso.
+3. Hipótese em que o Tribunal de origem, reconhecendo a ausência de pressuposto válido para o prosseguimento da ação, em razão da morte do autor e da ausência de habilitação do espólio, limitou-se a não conhecer das apelações interpostas pelas partes, deixando de se pronunciar acerca da eventual extinção do processo e demais questões arguidas em embargos de declaração. Existência de omissão relevante.
+4. Agravo interno provido para dar provimento ao recurso especial. (AgInt no REsp 1431860/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/08/2020, DJe 26/08/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO. SEGURO DE VIDA. 1. OMISSÃO DO TRIBUNAL ESTADUAL QUANTO À ALEGAÇÃO DE JULGAMENTO EXTRA PETITA. 2. MULTA DO ART. 1.026, § 2º, DO CPC/2015. AFASTAMENTO. AUSÊNCIA DE INTUITO PROTELATÓRIO. 3. DEMAIS ALEGAÇÕES PREJUDICADAS. 4. AGRAVO PARCIALMENTE PROVIDO.
+1.Segundo a jurisprudência do Superior Tribunal de Justiça, não tendo sido suprida a omissão apontada, impõe-se a devolução dos autos à Corte estadual, a fim de que realize novo julgamento dos embargos de declaração, sanando o vício atestado.
+2. Quanto à multa aplicada no julgamento dos embargos de declaração, com razão a recorrente, pois a multa não será cabível quando os embargos de declaração têm o objetivo de prequestionamento, consoante dispõe a Súmula 98/STJ.
+3. Determinado o retorno dos autos à instância originária para rejulgamento dos aclaratórios, fica prejudicada a apreciação das demais alegações.
+4. Agravo interno parcialmente provido. (AgInt no REsp 1875784/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 28/09/2020, DJe 07/10/2020)
+Ante o exposto, dou provimento ao recurso especial, para, desconstituindo o acórdão que julgou o s embargos de declaração, determinar seja a sanada a omissão verificada, examinando-se especificamente a existência do pedido autoral nas razões da exordial.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. COMPRA E VENDA DE VEÍCULO SEMINOVO. PEDIDO AUTORAL PRESENTE NAS RAZÕES DA PETIÇÃO EXORDIAL. POSSIBILIDADE DE ANÁLISE. ARGUMENTO RELEVANTE. VIOLAÇÃO DOS ARTS. 489, § 1º, IV, E 1.022 DO CPC VERIFICADA.
+1. Desconstituição do acórdão que rejeitou os embargos de declaração, para que seja sanada a omissão apontada, com o exame claro e detalhado da impugnação feita à possibilidade de análise da petição inicial como um todo e não apenas os pedidos deduzidos ao final.
+2. RECURSO ESPECIAL PROVIDO.
