@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpussubstitutivo de recurso ordinário impetrado em benefício de JALCILENE DE SOUSA NERES, em face de v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Piauí.
+Depreende-se dos autos que após o julgamento da apelação a paciente foi condenada à pena de 13 (treze) anos, 8 (oito) meses e 12 (doze) dias de reclusão,em regime inicial fechado,como incursa no crime de roubo.
+Daí o presente habeas corpus, no qual o impetrante requer a expedição de salvo conduto em favor da paciente para que responda ao processo em liberdade.
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça,em seu art.34, inciso XX, permite ao relator"decidir ohabeas corpusquando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal,a jurisprudência dominante acerca do temaou as confrontar".
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata dehabeas corpus substitutivo de recurso próprio.
+Pretende a Defesa a expedição de salvo-conduto sob o argumento de que a pacienteestaria na iminência de ser preso ou ser conduzido coercitivamente.
+Inicialmente, cumpre registrar esta Corte Superior de Justiça possui jurisprudência no sentido de que, para a concessão de habeas corpus preventivo, ou salvo-conduto, não basta o simples receio de que o requerente possa vir a sofrer uma prisão ilegal, tendo em vista que o pedido deve vir fundamentado com a demonstração de ameaça concreta à liberdade de locomoção.
+Nesse sentido:
+"PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL, ORDINÁRIO OU DE REVISÃO CRIMINAL. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO. HABEAS CORPUS PREVENTIVO PARA OBSTAR NOVA DECRETAÇÃO DE PRISÃO PREVENTIVA. IMPOSSIBILIDADE. AUSÊNCIA DE FUNDADO RECEIO À LIBERDADE DE LOCOMOÇÃO. TRANCAMENTO DA AÇÃO PENAL. FALTA DE JUSTA CAUSA. INOCORRÊNCIA. REVOLVIMENTO FÁTICO PROBATÓRIO. INADEQUAÇÃO NA VIA ELEITA. HABEAS CORPUS NÃO CONHECIDO.
+1. Ressalvada pessoal compreensão pessoal diversa, uniformizou o Superior Tribunal de Justiça ser inadequado o writ em substituição a recursos especial e ordinário, ou de revisão criminal, admitindo-se, de ofício, a concessão da ordem ante a constatação de ilegalidade flagrante, abuso de poder ou teratologia.
+2. Inexistindo fundado receio ou ameaça concreta à liberdade dos pacientes, não há que se conceder o habeas corpus para o fim de obstar futura decretação de nova prisão cautelar.
+ ..
+5. Habeas corpus não conhecido" (HC n. 321.082/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 23/8/2016, grifou-se).
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. INVESTIGAÇÕES PELA PRÁTICA DE CRIMES TRIBUTÁRIOS E ECONÔMICOS. PRETENDIDA EXPEDIÇÃO DE SALVO-CONDUTO VISANDO IMPEDIR A DECRETAÇÃO DA PRISÃO PREVENTIVA. INQUÉRITO AINDA NÃO ENCERRADO. INEXISTÊNCIA DE NOTÍCIA DE REPRESENTAÇÃO PELA SEGREGAÇÃO PROCESSUAL. AUSÊNCIA DE AMEAÇA CONCRETA AO DIREITO DE LOCOMOÇÃO. INCABIMENTO DO REMÉDIO CONSTITUCIONAL PARA O FIM PRETENDIDO. ARESTO RECORRIDO ACERTADO. RECLAMO IMPROVIDO.
+1. Somente é cabível o habeas corpus preventivo quando há fundado receio de ocorrência de ofensa à liberdade de locomoção iminente.
+2. A mera suposição, sem indicativo fático, de que a prisão poderá ser determinada, não constitui ameaça concreta à liberdade de locomoção, capaz de justificar o manejo de habeas corpus para o fim pretendido.
+3. Inviável utilizar o remédio constitucional para obstar eventuais ilegalidades ou constrangimentos ainda não acontecidos e sem comprovação (fundado receio) de que realmente ocorrerão, concedendo-se ao paciente, ora recorrente, em caráter definitivo e permanente, salvo-conduto relativamente a inquérito que ainda não findou ou mesmo a ação penal, ainda não deflagrada.
+4. Situações posteriores podem vir a ocorrer que justifiquem a segregação cautelar, nos termos do art. 312 do CPP, ou mesmo a imposição de medidas diversas, previstas no art. 319 do CPP.
+5. Recurso ordinário improvido" (RHC n. 53.528/MA, Quinta Turma, Rel. Min. Leopoldo de Arruda Raposo - Desembargador convocado do TJ/PE , DJe de 17/8/2015, grifou-se).
+No caso dos autos, não há qualquer pedido de prisão em desfavor da paciente. Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de habeas corpus.
+Dessa feita, tratando-se o presente habeas corpus de substitutivo de recurso ordinário e estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso, o enunciado da Súmula n. 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 34,inciso XX, do RISTJ,não conheço dohabeas corpus.
+P. e I.
