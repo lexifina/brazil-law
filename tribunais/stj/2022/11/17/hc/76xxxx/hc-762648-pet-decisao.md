@@ -1,0 +1,10 @@
+DECISÃO
+Por meio da petição de fl. 47-49, a defesa aponta erro material na decisão de fls. 35-39, tendo em vista que " o Paciente requisitou a remição por estudo ao curso do ENEM 2021 e que foi concedido por Vossa Excelência, no entanto ao confeccionar o Acordão houve talvez, erro de digitação e foi escrito como remição do ENCCEJA" (fl. 47).
+Ainda, pontou que a Juíza de origem manifestou-se pela impossibilidade de cumprimento do referidodecisum, diante da aprovação em apenas duas matérias do ENEM e não do ENCCEJA.
+O erro material constante da decisão não deve ser empecilho para o seu cumprimento.
+Consoante venho expressando em decisões similares à dos autos: ..  em atenção ao princípio constitucional da dignidade da pessoa humana, a política criminal na execução da pena deve ser voltada à sua humanização, de forma a estimular instrumentos sancionatórios mais humanos e que evitem o máximo possível a privação da liberdade" (HC n. 376.324/PR, Rel. MinistraMaria Thereza de Assis Moura, 6ª T., DJe 15/5/2017).
+Dessa forma, a aprovação no ENCCEJA ou no ENEM tem o condão de ensejar a remição da pena, com fulcro no art. 126, § 1º, I, e § 5º, da Lei de Execução Penal, e na supramencionada Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+Logo, defiro o pedido, tão somente para corrigir o equívoco constante na decisão de fls. 35-39, a fim de queo dispositivo seja lido no sentido da concessão da ordem para que o Juízo das execuções refaça os cálculos da remição por aprovação no ENEM, consoante as diretrizes então apontadas.
+Faço lembrarque eventual descumprimento da decisão ora questionada deve ser protestadopela via própria da Reclamação, diante do trânsito em julgado deste feito, conforme certidão de fl. 46, e o consequente esgotamento da jurisdição por parte desta Corte Superior.
+Publique-se e intimem-se.
+Em tempo, oficie-se ao Juízo da Unidade Regional de Departamento Estadual de Execução Criminal DEECRIM 4ª RAJ da Comarca de Campinas - SP sobre o teor desta decisão.
