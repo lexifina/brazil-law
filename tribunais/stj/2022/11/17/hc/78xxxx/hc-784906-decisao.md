@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ROBERTO JONAS DE MACEDO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO (HCn. 0081297.58.2022.8.19.0000).
+Consta dos autos que o paciente foi denunciado pela suposta prática dos delitos tipificados nos arts. 2º da Lei n.12.850/2013 e 1º, §4º, da Lei n. 9.613/98, sendo-lhe impostas medidas cautelares decretadas (bloqueio de todas as contas, aplicações financeiras, investimentos, conta poupança, CDBs, ações cotas de sociedade; título de clubes; valores em ações ou títulos públicos, bem como planos de previdência privada, bem como a indisponibilidade de todos os imóveis registrados em nome dos investigados).
+Inconformada, a defesa impetrou habeas corpus perante o Tribunal de origem, que indeferiu o pedido de liminar.
+Nesta via, sustenta o impetrante que o paciente estaria sofrendo constrangimento ilegal derivado da ausência de fundamentação idônea - per relationem-a supedanear a imposição de medidas cautelares, notadamente no que diz respeito ao bloqueio de bens.
+Pondera, ainda, a ausência de justa causa para a persecução penal, defendendoa necessidade de mitigação do óbice sumular n. 691do Supremo Tribunal Federal.
+Ressalta que esta Corte já teria reconhecido a ilegalidade de se condenar por lavagem de dinheiro quando ausente a demonstração da consciência e da vontade de ocultar a origem ilícita dos valores depositados em conta bancária.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja determinado o trancamento da ação penal, por falta de justa causaou, subsidiariamente, o desbloqueio de bens e valores determinados pela autoridade coatora.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pela Corte de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência deste Sodalício firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstram os seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 691 DO STF. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO NÃO EVIDENCIADA DE PLANO. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular n. 691 do Supremo Tribunal Federal (precedentes). Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+2. Nada obstante as razões recursais, tem-se que não há, ao menos em um juízo perfunctório, ilegalidade em relação à decretação da prisão cautelar da agravante com fundamento na relevante quantidade de drogas apreendida (mais de 100kg - cem quilogramas - de maconha).
+3. Não demonstrada de plano a configuração da flagrante ilegalidade, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo-se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 768.684/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO INTERNACIONAL DE DROGAS. ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. WRIT IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA N. 691/STF. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. No caso, a liminar foi indeferida em razão da significativa quantidade de entorpecente apreendido (603kg de cocaína).
+3. Além disso, a jurisprudência desta Corte é assente no sentido de que "a própria natureza do delito de integrar organização criminosa, que configura crime permanente, além do inerente risco de reiteração delitiva, reforça a contemporaneidade do decreto prisional, consoante entendimento desta Corte Superior, porquanto "a regra da contemporaneidade comporta mitigação quando, ainda que mantido período de aparente conformidade com o Direito, a natureza do delito indicar a alta possibilidade de recidiva ou ante indícios de que ainda persistem atos de desdobramento da cadeia delitiva inicial (ou repetição de atos habituais)", como no caso de pertencimento a organização criminosa (HC n. 496.533/DF, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 18/6/2019).
+4. Ausência de flagrante ilegalidade a justificar a superação da Súmula 691 do STF.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 752.232/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 9/8/2022, DJe de 16/8/2022.)
+Confira-se, a propósito, a Súmula n. 691/STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete.
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se e intimem-se. :
