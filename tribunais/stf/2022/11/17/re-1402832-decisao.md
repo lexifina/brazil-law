@@ -1,0 +1,57 @@
+DECISÃO:
+
+    Trata-se de recurso extraordinário interposto pela UNIÃO contra acórdão do Tribunal Regional Federal da 5ª Região. Extrai-se da ementa os seguintes trechos conclusivos:
+
+    […] CONCURSO PARA NOTÁRIO E REGISTRADOR DO ESTADO DE PERNAMBUCO. ATO DO CNJ COM EFEITOS CONCRETOS. VIABILIDADE DE SER SINDICADO EM AÇÃO PRÓPRIA, NO ÂMBITO DA JUSTIÇA FEDERA DE PRIMEIRO GRAU. APELOS DESPROVIDOS.
+
+    I - Apelações várias, de RICARDO RIGOTTI ALICE, YNARA RAMALHO DANTAS MOTA, ESTADO DE PERNAMBUCO e UNIÃO, voltadas à sentença que decidiu querela inaugurada pelo primeiro dos RECORRENTES (RICARDO), contra os entes públicos acima referidos, onde a controvérsia de desenvolve incidindo sobre atos seletivos para o provimento dos caros de notário e registrador no Estado de Pernambuco, tendo por pano de fundo ato concreto expedido pelo Conselho Nacional de Justiça.
+
+    II - A definição da competência exclusiva para o STF, com base no art. 102, I, "r", da CF, está restrita às ações tipicamente constitucionais (segurança, injunção, habeas data e habeas corpus). Assim é entendido no SUPREMO TRIBUNAL FEDERAL. (AO 1758 AgR, Relator(a): Min. ROSA WEBER, Primeira Turma, julgado em 07/02/2017, PROCESSO ELETRÔNICO DJe-033 DIVULG 17-02-2017 PUBLIC 20-02-2017).
+
+    III - Não incide a litispendência, pois o juízo competente para decidir é o da Justiça Federal, a teor da combinata entre o art. 92, I-A e o art. 109, I, todos da Constituição, onde a matéria já conseguiu julgamento meritório no primeiro grau. Outrossim, pelos próprios termos do apelo que agora está em apreciação, a demanda que teve curso na Justiça Estadual em fundamentação diversa da que é desposada nesta liça.
+
+    III - A UNIÃO, ente federativo que comparece ao conflito de interesses através de um dos integrantes do seu Poder Judiciário, o Conselho Nacional de Justiça. Perfeito o liame do art. 92, I-A com o art. 109, I, todos da Carta Política, define a competência em prol da Justiça Federal. […].
+
+    O recurso busca fundamento no art. 102, III, a, da Constituição Federal. A parte recorrente alega ofensa aos arts. 102, I, r, e 109, I, a, da CF. Aduz, em síntese, que, no julgamento conjunto da ADI 4.412, da Pet 4.770 e da Rcl 33.459, o Supremo Tribunal Federal (STF) afirmou sua competência originária para processar e julgar todas as ações ajuizadas contra decisões do Conselho Nacional de Justiça (CNJ) proferidas no exercício de suas competências constitucionais.
+
+    Subsidiariamente, requer a parte recorrente seja reconhecida “a incompetência da Justiça Federal para apreciação da presente lide, posto que, na prática, a pretensão autoral é a anulação do Edital n. 31/2017 que regula o Concurso Público de Provas e Títulos para provimento da Outorga de Delegações de Notas e de Registro do Estado de Pernambuco, cuja competência para processamento e julgamento é da Justiça Estadual”.
+
+    Assiste razão à parte recorrente.
+
+    O STF, em 18.11.2020, no julgamento da ADI 4.412, Rel. Min. Gilmar Mendes, da Pet 4.770, sob a minha relatoria, e da Rcl 33.459, Relª. Minª. Rosa Weber, assentou ser exclusiva a competência desta Corte para processar e julgar, originariamente, todas as ações ajuizadas contra decisões do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público no exercício de suas competências constitucionais, respectivamente, previstas nos arts. 103-B, § 4º, e 130-A, § 2º, da Constituição Federal. Transcrevo, para melhor elucidação, a ementa da Pet 4.770:
+
+    Direito Constitucional e Administrativo. Agravo Interno em Petição. Art. 102, I, r, CF. Competência do STF para o julgamento de ações de rito comum contra ato do CNJ. Precedentes.
+
+    1. Agravo interno interposto contra decisão em que reconhecida a incompetência do STF, ao argumento de que esta Corte não teria atribuição para julgar ações de rito comum que impugnam atos do CNJ.
+
+    2. No caso dos autos, trata-se de ação ordinária, autuada como petição, contra decisão proferida pelo Conselho Nacional de Justiça, por meio da qual declarada a vacância de serventia extrajudicial – o Ofício de Registro de Imóveis da Comarca de Jaguapitã, no Estado do Paraná.
+
+    3. A jurisprudência do Supremo Tribunal Federal se consolidou no sentido de que a sua competência para processar e julgar demandas que impugnam atos do CNJ e do CNMP (art. 102, I, r, CF) estaria limitada às ações tipicamente constitucionais: mandados de segurança, mandados de injunção, habeas corpus e habeas data (AO 1.706 AgR, Rel. Min. Celso de Mello, DJe 18.02.2014; AO 1.814-QO/MG, Rel. Min. Marco Aurélio, DJe de 03.12.2014; AO 1.894 AgR, de minha relatoria, DJe 17.08.2018; AO 1.672 AgR, Rel. Min. Gilmar Mendes, DJe 15.10.2015).
+
+    4. No entanto, essa interpretação restritiva da regra de competência tem sido reiteradamente mitigada em decisões da Segunda Turma e do Plenário desta Corte. Em tais precedentes, o Tribunal excepcionou o entendimento anterior, para reconhecer ser de sua alçada processar e julgar ações ordinárias nas quais questionados atos praticados pelo CNJ e pelo CNMP (No Plenário: Pet 4.656-AgR, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 04.12.2017. Na Segunda Turma: RCL 16.575 AgR, Rel. Min. Dias Toffoli, DJe 21.8.2015 e RCL 24.563 AgR, Rel. Min. Dias Toffoli, Segunda Turma, DJe 21.2.2017). Em momento recente, também a Primeira Turma modificou a sua posição na matéria, ao examinar a Reclamação 15.564 AgR, sob a relatoria da Min. Rosa Weber, designado como redator do acórdão o Min. Luiz Fux. A solução proposta neste julgamento está correta e deve ser endossada.
+
+    5. O art. 102, I, r, CF estabelece a competência do STF para julgar originariamente “as ações contra o Conselho Nacional de Justiça e contra o Conselho Nacional do Ministério Público”. A Constituição não discriminou as espécies de ação que seriam da alçada desta Corte, do que se extrai que procurou fixar uma atribuição mais ampla para a análise de tais demandas. Essa leitura é corroborada pelo fato de que, quando pretendeu restringir a competência do Tribunal apenas às ações mandamentais, o constituinte o fez de forma expressa (art. 102, I, d, i e q, CF).
+
+    6. Isso não significa, porém, que a Corte deva afirmar a sua competência para conhecer de toda e qualquer ação ordinária contra atos do CNJ. A regra de competência em questão deve ser interpretada de acordo com os fins que justificaram a sua edição. A outorga de atribuição ao STF para processar e julgar ações contra o Conselho é um mecanismo institucional delineado pelo legislador constituinte para proteger e mesmo viabilizar a atuação desses órgãos de controle. A percepção é a de que a realização de sua missão constitucional restaria impossibilitada ou seriamente comprometida se os atos por eles praticados estivessem sujeitos ao crivo de juízos de primeira instância. Em primeiro lugar, porque a atuação do CNJ não raramente recai sobre questões locais delicadas e que mobilizam diversos interesses, sendo o distanciamento das instâncias de controle jurisdicional um elemento essencial para o desempenho apropriado das suas funções. Em segundo lugar, porque o órgão  de controle também atua em questões de abrangência nacional, que demandam um tratamento uniforme e uma ação coordenada e, por essa razão, não poderiam ser adequadamente enfrentadas por juízos difusos. Em terceiro lugar, porque a submissão de atos do CNJ à análise de órgãos jurisdicionais diferentes da Suprema Corte representaria a subordinação da atividade da instância fiscalizadora aos órgãos e agentes públicos por ela fiscalizados, em subversão do sistema de controle proposto na Constituição Federal.
+
+    7. Assim sendo, como pontuado na Reclamação nº 15.564 AgR, a competência desta Corte para o exame de ações ordinárias se justifica sempre que questionados atos do CNJ “de cunho finalístico, concernentes aos objetivos precípuos de sua criação, a fim de que a posição e proteção institucionais conferidas ao Conselho não sejam indevidamente desfiguradas”. A título meramente exemplificativo, seriam da alçada deste Supremo Tribunal Federal ações de rito comum em que impugnados atos do CNJ “(i) de caráter normativo ou regulamentar que traçam modelos de políticas nacionais no âmbito do Judiciário; (ii) que desconstituam ato normativo de tribunal local, (iii) que envolvam interesse direto e exclusivo de todos os membros do Poder Judiciário, consubstanciado em seus direitos, garantias e deveres, (iv) que versam sobre serventias judiciais e extrajudiciais, notadamente em matéria de obrigatoriedade de realização de concurso público, regime jurídico e conformação dessas serventias com os preceitos constitucionais insculpidos no art. 37, caput, da Constituição Federal”.
+
+    8. Na espécie, o autor propôs ação ordinária contra decisão do CNJ que declarou a vacância da serventia por ele titularizada, por ter considerado irregular o ato de investidura, realizada sem prévia aprovação em concurso público. O ato impugnado foi inequivocamente praticado pelo Conselho Nacional de Justiça no exercício de sua atividade-fim, uma vez que consubstancia o controle de juridicidade de ato de provimento de serventia extrajudicial. Daí a competência do Supremo Tribunal Federal para processar e julgar a demanda.
+
+    9. Agravo interno provido para reformar a decisão que declarou a incompetência desta Corte e determinar o regular processamento da ação, com a fixação da seguinte tese: “Nos termos do artigo 102, inciso I, r, da Constituição Federal, é competência exclusiva do Supremo Tribunal Federal processar e julgar, originariamente, todas as ações ajuizadas contra decisões do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público proferidas no exercício de suas competências constitucionais, respectivamente, previstas nos artigos 103-B, § 4º, e 130-A, § 2º, da Constituição Federal”.
+
+    Na hipótese, a ação ordinária ajuizada na origem busca o afastamento de decisões proferidas pelo Conselho Nacional de Justiça no julgamento conjunto dos PCAs n. 000631231.2014.2.00.0000, 000371322.2014.2.00.0000, 000397217.2014.2.00.0000 e 000310439.2014.2.00.0000, no ponto em que se determinou a aplicação do entendimento que limitou a possibilidade de “cumulação horizontal” dos títulos das “atividades auxiliares à Justiça” (incisos V e VI, item 7, da minuta do CNJ). O CNJ expressamente determinou a aplicação dessas decisões ao Concurso Público de Outorga de Delegações Notariais e Registrais do Estado de Pernambuco, Edital nº 01/2012, através da decisão proferida no no PP nº 0001192-02.2017.2.00.0000. Percebe-se que a discussão envolve atos do CNJ direcionados especificamente para o concurso público objeto da controvérsia.
+
+    O Tribunal de origem afirmou a competência da Justiça Federal de primeiro grau para conhecer do pedido, ao argumento de que a competência do STF “está restrita às ações tipicamente constitucionais (segurança, injunção, habeas data e habeas corpus)”. Ao assim decidir, o acórdão divergiu da atual orientação desta Corte.
+
+    Diante do exposto, com base no art. 932, V, b, do CPC e no art. 21, § 2º, do RI/STF, dou provimento ao recurso extraordinário da UNIÃO para reconhecer a competência originária do Supremo Tribunal Federal para processar e julgar a demanda.
+
+    À Secretaria Judiciária para que, após o trânsito em julgado, reautue o processo como ação originária.
+
+    Publique-se.
+
+          Brasília, 17 de novembro de 2022.
+
+Ministro LUÍS ROBERTO BARROSO
+
+Relator
