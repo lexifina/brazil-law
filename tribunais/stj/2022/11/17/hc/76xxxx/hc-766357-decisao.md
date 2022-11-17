@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se dehabeas corpussubstitutivo de recurso próprio, com pedidoliminar, impetrado em favor de SAMUEL CARVALHO ALMEIDAcontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento da Apelação n. 1503118-22.2021.8.26.0535.
+Consta dos autos que o Juízo da 2ª Vara Criminal de Guarulhos/SP condenou o paciente à pena de 7 anos e 6 meses de reclusão, no regime inicial fechado, mais 18 dias-multa, pela prática do delito de roubo (art. 157, caput, do CP). O Tribunal a quo, em recurso da defesa, manteve a sentença.
+O impetrante afirma que a valoração negativa das circunstâncias do delito, dos antecedentes criminais e da personalidade do paciente está baseada em fundamentos inidôneos. Também alega a possibilidade de aplicação da atenuante da confissão, com a consequente compensação com a reincidência, e de detração do tempo de prisão cautelar.
+Requer a concessão da ordem nesse sentido.
+Indeferida a liminar, oMinistério Público Federal manifestou-se pela concessão da ordem, de ofício, em parecer assim sumariado:
+"HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. ROUBO. DOSIMETRIA. PENA-BASE. PERSONALIDADEDO AGENTE. FUNDAMENTAÇÃO INSUFICIENTE. DECOTE. CONFISSÃO ESPONTÂNEA. OCORRÊNCIA. POSSIBILIDADE DE COMPENSAÇÃO COM AAGRAVANTE DA REINCIDÊNCIA. PRECEDENTES. DETRAÇÃO. IMPOSSIBILIDADE. NÃO CONHECIMENTODO WRIT E A CONCESSÃO DA ORDEM DE OFÍCIO,PARA AFASTAR A CIRCUNSTÂNCIA JUDICIAL DAPERSONALIDADE E A COMPENSAÇÃO DAATENUANTE DA CONFISSÃO ESPONTÂNEA COM AAGRAVANTE DA REINCIDÊNCIA, COM OREDIMENSIONAMENTO DA PENA." (fl. 59)
+É o relatório.
+Decido.
+O presente habeas corpus não merece ser conhecido, pois foi impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção dopaciente, capaz dejustificar a concessão da ordem de ofício.
+A primeira controvérsia refere-se à pena-base.
+É consabido que, na primeira fase da dosimetria da pena, o julgador, fazendo uso de sua discricionariedade juridicamente vinculada, deve considerar as particularidades do caso concreto, à luz do art. 59 do Código Penal e do princípio da proporcionalidade. A esta Corte, cabe apenas o controle da legalidade dos critérios adotados, bem como à correção de frações discrepantes.
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. RECEPTAÇÃO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CRIME POSTERIOR À PRÁTICA DELITIVA. MOTIVAÇÃO INIDÔNEA PARA VALORAR NEGATIVAMENTE OS ANTECEDENTES DO AGENTE. REGIME PRISIONAL SEMIABERTO. CIRCUNSTÂNCIAS JUDICIAIS AFASTADAS. PENA-BASE NO MÍNIMO LEGAL. RÉU PRIMÁRIO. SÚMULAS 440/STJ E 718 E 719/STF. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. A individualização da pena é submetida aos elementos de convicção judiciais acerca das circunstâncias do crime, cabendo às Cortes Superiores apenas o controle da legalidade e da constitucionalidade dos critérios empregados, a fim de evitar eventuais arbitrariedades.
+Destarte, salvo flagrante ilegalidade, o reexame das circunstâncias judiciais e os critérios concretos de individualização da pena mostram-se inadequados à estreita via do habeas corpus, pois exigiriam revolvimento probatório.
+ ..
+7. Writ não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena imposta ao paciente para 1 ano de reclusão, além de 10 dias-multa, bem como estabelecer o regime prisional aberto para o desconto da reprimenda, mantida, no mais, a sentença condenatória.
+(HC 428.562/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 05/06/2018, DJe 12/06/2018)
+No caso, a pena-base foi fixada em 5 anos de reclusão, mais 12 dias-multa, em decorrência da valoração negativa de três circunstâncias judiciais: circunstâncias do delito, antecedentes e personalidade,conforme se extrai deste trecho da sentença:
+"Verificando as diretrizes do art. 59 do Código Penal, considerando as circunstâncias do delito (dentro e um estabelecimento comercial em pleno funcionamento, durante a tarde), os péssimos antecedentes do réu, preso novamente roubando quando ainda cumpria pena anterior em regime aberto (como ele mesmo admitiu em seu interrogatório), bem como sua personalidade deformada, que o leva a reiteradamente violar a lei, fixo a pena além do mínimo legal, em 05 anos de reclusão e pagamento de 12 dias-multa."(fl. 39)
+As circunstâncias do delito demonstram maior ousadia e periculosidade, o que justifica o agravamento da pena-base. Nesse sentido: HC n. 546.839/ES, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 11/2/2020, DJe de 14/2/2020.
+No que diz respeito aos antecedentes e à personalidade, não foi apresentada fundamentação idônea e concreta, ressaltando-se queo paciente possui apenas uma condenação anterior, considerada como agravante.
+Assim, a pena-base deve ser reduzida para 4 anos e 8 meses de reclusão, mais 11 dias-multa.
+O paciente confessou o delito (fl. 34). Assim, deve ser aplicada a atenuante do art. 65, III, "d", do Código Penal, com a posterior compensação integralcom a reincidência, mesmo que específica.
+Nesse sentido:
+HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ART. 304 C/C ART. 297, AMBOS DO CÓDIGO PENAL. SEGUNDA FASE DA DOSIMETRIA. COMPENSAÇÃO ENTRE A AGRAVANTE DA REINCIDÊNCIA E A ATENUANTE DA CONFISSÃO ESPONTÂNEA. POSSIBILIDADE. MATÉRIA PACIFICADA NO ERESP N. 1.154.752/RS. DUPLA REINCIDÊNCIA. COMPENSAÇÃO INTEGRAL. IMPOSSIBILIDADE. PRECEDENTES. REINCIDÊNCIA ESPECÍFICA. PRECEDENTE JULGADO PELA TERCEIRA SEÇÃO DESTA CORTE NO HC N. 365.963/SP. APLICAÇÃO DA FRAÇÃO DE 1/3. REDUÇÃO PARA A USUAL FRAÇÃO DE 1/6. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PENA QUE DEVE SER REDUZIDA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Superior Tribunal de Justiça, seguindo entendimento firmado pelo Supremo Tribunal Federal, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+- A Terceira Seção desta Corte Superior, ao julgar o EREsp n. 1.154.752/RS, uniformizou o entendimento de que a atenuante da confissão espontânea deve ser compensada com a agravante da reincidência.
+- Avançando na análise do tema, a mesma Terceira Seção, no julgamento do HC n. 365.963/SP, ocorrido em 11/10/2017, assentou não haver previsão legal para que se oferte mais desvalor à conduta daquele que ostenta outra condenação pelo mesmo delito, de forma que a reincidência específica deve ser compensada integralmente com a atenuante da confissão.
+- Tendo em vista múltipla reincidência específica do paciente, a compensação integral entre a confissão e a reincidência violaria os princípios da individualização da pena e da proporcionalidade.
+- No caso, porém, está configurado o constrangimento ilegal, pois as instâncias ordinárias exasperaram a pena, na segunda fase da dosimetria, na fração de 1/3, apenas pela reincidência específica, o que destoa do novel entendimento firmado nesta Corte, devendo ser reduzida a exasperação para a usual fração de 1/6.
+- Habeas corpus não conhecido. Ordem concedida ex officio, para reduzir a pena corporal do paciente para 3 anos e 6 meses de reclusão, e 17 dias-multa, mantidos os demais termos da condenação.
+(HC 411.129/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/11/2017, DJe 01/12/2017)
+A pena, portanto, permanece no mesmo patamar.
+Por fim,não há elementos nos autos para se realizar a pretendida detração do tempo de prisão cautelar, a qual, mesmo que realizada, não conduz à alteração do regime prisional, visto que a presença de circunstância judicial negativa e reincidência justifica o regime fechado.
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para fixar a pena do paciente em 4 anos e 8 meses de reclusão, no regime inicial fechado, mais 11 dias-multa (Ação Penal n.1503118-22.2021.8.26.0535).
+Publique-se.
+Intimações necessárias.
