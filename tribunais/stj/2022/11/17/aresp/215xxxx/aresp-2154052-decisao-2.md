@@ -1,0 +1,2 @@
+DECISÃO
+Verifica-se às fls. 1.491-1.492 petição dos recorrentes Jeferson Fonseca de Góes, Iara Tomagnini Moura de Góes e Jeferson Fonseca de Góes Filhocom pedido de desistência do recurso por eles formulado. Assim, constatado que os advogados que subscreveram a petição possuem poderes específicos para tanto (fls. 64-65), com fundamento nos artigos 998, caput, do CPC/2015 e 34, inciso IX, do RISTJ, homologo o presente pedido, relativamente ao agravo em recurso especial.
