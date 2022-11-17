@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por SUPERVIA CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S.A. - EM RECUPERAÇÃPO JUDICIAL contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA POR DANOS MORAIS. CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ACESSO AO TRANSPORTE PÚBLICO. AUTORA PORTADORA DE NECESSIDADES ESPECIAIS. SENTENÇA QUE INDEFERIU A INICIAL E EXTINGUIU O FEITO, SEM RESOLUÇÃO DO MÉRITO NA FORMA DO ART. 485, VI DO CPC. APELO DA AUTORA. AUSÊNCIA DE INTIMAÇÃO DO MINISTÉRIO PÚBLICO NA PRIMEIRA INSTÂNCIA. INTERVENÇÃO QUE SE FAZ NECESSÁRIA AO TEOR DO ART. 118 DA LEI Nº 13.146/2015. PARECER DA DOUTA PROCURADORIA DE JUSTIÇA NO SENTIDO DA ANULAÇÃO DO JULGADO. ERROR IN PROCEDENDO. ILEGITIMIDADE ATIVA. DIREITO DA AUTORA QUE PODE SER BUSCADO INDIVIDUALMENTE NOS TERMOS DO ART. 81 DO CDC. ANULAÇÃO DA SENTENÇA QUE SE IMPÕE. RECURSO AO QUE SE DÁ PROVIMENTO.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a recorrente aponta violação aos seguintes dispositivos: (a) arts. 313, V, "a", 327 e 927, III, do CPC, ao argumento que o processo deve ficar suspenso, pois o "pedido de danos morais, de natureza individual, é sucessivo, com dependência lógica, à questão de reforma da estação ferroviária, de natureza transindividual e indivisível", ou seja, "somente após a solução desta questão prejudicial na demanda coletiva poderia ser acolhido ou não o pedido de danos morais" (fl. 375- e); (b) art. 81, parágrafo único, II e III, da Lei 8.078/1990, sustentando que tendo em vista a propositura da ação coletiva, torna-se imperioso que as ações individuais sejam suspensas, sobretudo porque se está diante de uma relação de prejudicialidade entre a demanda coletiva e a individual.
+No mais, aponta violação ao art. 1.022, II, do CPC/2015, sustentando que a Corte de origem, apesar da oposição de embargos de declaração, "passou ao largo das ponderações e divergência quanto a legislação infraconstitucional, sem declinar os devidos fundamentos das violações arguidas" (fl. 383-e).
+Admitido o feito na origem, os autos ascenderam a esta Corte de Justiça.
+É o relatório.
+Passo a decidir.
+A pretensão não merece prosperar.
+Sobre as alegações trazidas no recurso especial, é deficiente a sua fundamentação na parte em que se aponta negativa de prestação jurisdicional e vício de fundamentação no julgamento dos embargos de declaração.
+É que a argumentação da recorrente no ponto foi genérica, sem demonstração objetiva de qual exatamente teria sido a omissão não sanada pela Corte de origem, bem assim a sua relevância para o justo deslinde da causa.
+Nessas circunstâncias, o óbice da Súmula 284/STF, aqui aplicável por analogia, impede o conhecimento do recurso especial.
+Ademais, a controvérsia foi assim dirimida pelo Tribunal de origem:
+(..)
+No que tange à ilegitimidade ativa, é cediço que embora o Ministério Público possa ajuizar a ação para defesa dos direitos em nome da coletividade, tal fato não impede o exercício pela parte autora da ação de forma individual, nos termos do art. 17 e 18 do CPC, ao qual tem o direito de buscar a tutela jurisdicional, como se verifica da leitura do art. 81 do Código de Defesa do Consumidor, in verbis:
+Art. 81. A defesa dos interesses e direitos dos consumidores e das vítimas poderá ser exercida em juízo individualmente, ou a título coletivo.
+Cumpre asseverar que, no julgamento dos embargos de declaração, a Corte de origem afastou quaisquer hipóteses de vício de fundamentação, consignando expressamente que a decisão guerreada decidiu apenas sobre a existência dos pressupostos de existência e validade do processo, e que caberia ao Juízo de 1º grau dar prosseguimento aofeito, averiguandoa necessidade de suspensão do feito.
+Efetivamente, para a configuração do questionamento prévio é imprescindível que no aresto recorrido a questão tenha sido discutida e decidida fundamentadamente, sob pena de não-preenchimento do requisito do prequestionamento, indispensável para o conhecimento do recurso especial. Tal medida se justifica pelo simples fato de que não poderia o Tribunal de origem ter contrariado lei quanto a matéria que sequer tratou.
+Infere-se assim que que não houve apreciação pelo Tribunal de origem sobre as teses apresentadas no apelo especial, o que impossibilita o julgamento do recurso por ausência de prequestionamento, nos termos daSúmula 211/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Intimem-se.
+Publique-se.
+EMENTA
+PROCESSUAL CIVIL. SERVIÇO DE TRANSPORTE FERROVIÁRIO. AÇÃO INDIVIDUAL OBJETIVANDO IMPOSIÇÃO DE OBRIGAÇÃO DE FAZER (OBRAS DE ACESSIBILIDADE EM ESTAÇÃO DE TREM) E REPARAÇÃO POR DANOS MORAIS. ALEGAÇÃO DEVIOLAÇÃO AO ARTIGO 1.022 DO CPC. SÚMULA 284/STF.QUESTIONAMENTO SOBRE A SUSPENSÃO DO PROCESSO E PROSSEGUIMENTO DA DEMANDA RELATIVAMENTE AO PEDIDO DE REPARAÇÃO POR DANOS MORAIS. AUSÊNCIA DE PREQUESTIONAMENTO DAS TESES RECURSAIS. SÚMULA 211 DO STJ.RECURSO ESPECIAL NÃO CONHECIDO.
