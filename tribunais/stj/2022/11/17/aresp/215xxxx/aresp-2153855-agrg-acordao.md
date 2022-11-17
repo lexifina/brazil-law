@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECEPTAÇÃO. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO.  DECISÃO  AGRAVADA  QUE  NÃO  CONHECEU  DO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DE  FUNDAMENTO  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL.  DECISÃO  MANTIDA.
+I  -  A  ausência  de  impugnação  dos  fundamentos  da  decisão  que  não  admitiu  o  recurso  especial  impõe  o  não  conhecimento  do  agravo  em  recurso  especial.
+II  -  In  casu,  a  parte  agravante  deixou  de  infirmar,  de  maneira  adequada  e  suficiente,  parte  das  razões  apresentadas  pelo  eg.  Tribunal  de  origem  para  negar  trânsito  ao  recurso  especial,  com  relação  à  incidência  da  Súmula  83/STJ.
+Agravo  regimental  desprovido.
+RELATÓRIO
+Trata-se  de  agravo  regimental  interposto  por  MOISÉS ABRAÃO DA COSTA,  contra  decisão  que  não  conheceu  do  agravo  em  recurso  especial,  porquanto  a  parte  não  impugnou  todos  os  fundamentos  da  decisão  que  inadmitiu  o  recurso  especial .
+Informam  os  autos  que  o  ora  agravante  foi  condenado,  em  primeiro  grau,  à  pena  de  01 (um) ano, de reclusão, 01 (um) ano, de detenção, e 20 (vinte) dias-multa, em  razão  da  prática  dos  delitos  previstos  no  artigo 180, caput, do Código Penal, e artigo 12, caput, da Lei n. 10.826/2003, ambos cumulados na forma dos artigos 29, caput, e 69, caput, do Código Penal. (fls.  227- 244).
+O  eg. Tribunal  de  Justiça  do  Estado  de  Goiás, em decisão unânime,  negou  provimento ao recurso de apelação criminal  da  Defesa  (fls.  320-327).  Eis a ementa do acórdão:
+"APELAÇÃO CRIMINAL. ARTIGO 180, CAPUT, DO CÓDIGO PENAL. ARTIGO 12, CAPUT, DA LEI 10.826/03.ABSOLVIÇÃO. NULIDADE DAS PROVAS. INVASÃO AO DOMICÍLIO. 1- O delito de receptação é de natureza permanente, prolongando-se o estado de flagrância, prescindindo de autorização judicial para adentrar em domicílio, havendo fundadas razões. Desse modo, ressaindo dos elementos de convicção apurados nos autos, a comprovação das condutas ilícitas do processado, concernente aos crimes de receptação e de posse irregular de arma de fogo de uso permitido, não sobra espaço ao pronunciamento jurisdicional absolutório, devendo ser mantido o édito condenatório. 2- O prequestionamento deve ser reconhecido tão somente para fins de interposição de recurso em instância superior. 3- Recurso conhecido e desprovido."
+Interposto  recurso  especial,  com  fulcro  no  art.  105,  inciso  III,  alíneas  a  da  CF,  a  defesa  alegou  ofensaaoartigo 157 do Código de Processo Penal (fl.  336).
+O  apelo  nobre  não  foi  admitido  pelo  Tribunal  a  quo  em  razão  da  Súmula  83/STJ  .
+Nesta  Corte  Superior,  o  agravo  em  recurso  especial  deixou  de  ser  conhecido  porquanto  não  foi  infirmado,  de  maneira  adequada  e  suficiente,  parte  das  razões  apresentadas  pelo  eg.  Tribunal  de  origem  para  negar  trânsito  ao  recurso  especial  (Súmula  83/STJ).
+Neste  regimental,  o  agravante  afirma  haver  impugnado  corretamente  todos  os  fundamentos  da  decisão  recorrida.
+Ao final, pugna pela admissão do presente agravo regimental e a reconsideração da decisão monocrática agravada ou pela submissão do recurso à Turma julgadora.
+É  o  relatório.
+EMENTA
+AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  RECEPTAÇÃO. POSSE IRREGULAR DE ARMA DE FOGO DE USO PERMITIDO.  DECISÃO  AGRAVADA  QUE  NÃO  CONHECEU  DO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  ESPECÍFICA  DE  FUNDAMENTO  DA  DECISÃO  QUE  INADMITIU  O  RECURSO  ESPECIAL.  DECISÃO  MANTIDA.
+I  -  A  ausência  de  impugnação  dos  fundamentos  da  decisão  que  não  admitiu  o  recurso  especial  impõe  o  não  conhecimento  do  agravo  em  recurso  especial.
+II  -  In  casu,  a  parte  agravante  deixou  de  infirmar,  de  maneira  adequada  e  suficiente,  parte  das  razões  apresentadas  pelo  eg.  Tribunal  de  origem  para  negar  trânsito  ao  recurso  especial,  com  relação  à  incidência  da  Súmula  83/STJ.
+Agravo  regimental  desprovido.
+VOTO
+Em  que  pesem  os  argumentos  do  agravante,  a  decisão  impugnada  deve  ser  mantida.
+Nesta  Corte  Superior,  o  agravo  em  recurso  especial  deixou  de  ser  conhecido  porque  não  foram  infirmados  todos os  fundamentos  empregados  pela  eg.  Corte  de  origem  para  inadmitir  o  recurso  (Súmula  83/STJ).
+Segundo  o  entendimento  deste  Tribunal,  exige-  se  a  efetiva  demonstração  de  que  os  julgados  apontados  na  decisão  de  inadmissão  do  recurso  especial  foram  superados  pela  jurisprudência  do  STJ  ou  de  que  exista  distinção  entre  a  matéria  versada  nos  autos  e  aquela  utilizada  para  justificar  a  aplicação  da  referida  súmula.
+Não  logra  êxito  a  irresignação,  porque,  nas  razões  do  agravo  em  recurso  especial,  a  parte  limitou-se  a  asseverar  que  "(..) A primeira questão fática relevante não apreciada e que a parte comprovou sim nos autos de maneira devidamente adequada e suficiente que foi indevida a motivação apresentada pelo Tribunal de Goiás para negar trânsito ao apelo especial, no caso, a incidência do Enunciado Sumular n. 83/STJ."  (fl.  493).
+Quanto ao óbice da Súmula 83/STJ, o agravante deveria demonstrar, por meio da indicação de precedentes contemporâneos ou supervenientes desta Corte Superior, a desarmonia do julgado ou a ausência de entendimento pacificado sobre a matéria, por exemplo, evidenciando, assim, a inaplicabilidade do embaraço indicado pelo Tribunal a quo.
+Com efeito: "Conforme cediço, "quando o inconformismo excepcional não é admitido pela instância ordinária, com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação, em tema de agravo em recurso especial, deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte" (AgInt no AREsp 1.076.690/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/08/2018, DJe 04/09/2018.)" (AgRg no AREsp n. 2.020.924/SC, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 28/3/2022).
+No mesmo sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM ENTENDIMENTO DO STJ. SÚMULA N. 83 DO STJ. AGRAVO REGIMENTAL DESPROVIDO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. Não havendo impugnação específica de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+2. Inadmitido o apelo extremo com base no verbete sumular n. 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, o que não ocorreu na espécie.
+3. O entendimento desta Corte Superior é o de que "a incidência da Súmula n. 83/STJ não se restringe aos recursos especiais interpostos com fundamento na alínea "c" do permissivo constitucional, sendo também aplicável nos reclamos fundados na alínea "a", uma vez que o termo "divergência", a que se refere a citada súmula, relaciona-se com a interpretação de norma infraconstitucional" (AgRg no AREsp n. 679.421/RJ, relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 17/3/2016, DJe 31/3/2016).
+ ..
+5. Agravo regimental desprovido. Concessão de habeas corpus de ofício" (AgRg no AREsp n. 1.814.381/RJ, Sexta Turma, Rel. Min. Antonio Saldanha Palheiro, DJe de 2/5/2022, grifei).
+Verifico, portanto,  que  a  parte  agravante  deixou  de  infirmar,  de  maneira  adequada  e  suficiente,  as  razões  apresentadas  pelo  eg.  Tribunal  de  origem  para  negar  trânsito  ao  recurso  especial.
+Desse  modo,  a  ausência  de  impugnação  dos  fundamentos  empregados  pela  Corte  de  origem  para  impedir  o  trânsito  do  apelo  nobre  impede  o  conhecimento  do  agravo,  cujo  único  propósito  é  demonstrar  a  inaplicabilidade  dos  motivos  indicados  na  decisão  de  inadmissibilidade  do  recurso  por  meio  de  impugnação  específica  de  cada  um  deles.
+Nesse  sentido:
+"PROCESSO  PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.FUNDAMENTO  DA  DECISÃO  AGRAVADA  NÃO  ATACADO.  APLICAÇÃO  DO  ART.  544,  §  4º,  I,  DO  CÓDIGO  DE  PROCESSO  CIVIL  -  CPC  DE  1973.  INCIDÊNCIA  DA  SÚMULA  182  DO  SUPERIOR  TRIBUNAL  DE  JUSTIÇA  -  STJ.  AGRAVO  REGIMENTAL  DESPROVIDO.
+1.  Descabido  o  conhecimento  do  agravo  em  recurso  especial  quando  o  agravante  deixa  de  impugnar  especificamente  algum  dos  fundamentos  adotados  na  decisão  que  negou  seguimento  ao  recurso  especial.
+2.  Agravo  regimental  desprovido"  (AgRg  no  AREsp  n.  842.493/PR,  Quinta  Turma,  Rel.  Min.  Joel  Ilan  Paciornik,  DJe  de  16/5/2016).
+"PENAL.  AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DA  DECISÃO  RECORRIDA.  VERBETE  SUMULAR  N.  182/STJ.  INCIDÊNCIA  CONFIRMADA.  AGRAVO  REGIMENTAL  NÃO  PROVIDO.  EXECUÇÃO  PROVISÓRIA  DEFERIDA.
+1.  O  Agravante  não  infirmou,  especificamente,  todos  os  fundamentos  da  decisão  combatida,  o  que  atrai  a  incidência  da  Súmula  n.  182  desta  Corte.
+2.  Os  Tribunais  Superiores,  em  recentes  decisões,  firmaram  o  entendimento  de  que,  após  esgotadas  as  via  recursais  ordinárias,  apenas  casuísticos  efeitos  suspensivos  concedidos  aos  recursos  excepcionais  impedirão  a  execução  provisória.
+3.  Agravo  regimental  improvido  e  deferida  a  execução  provisória  da  pena,  determinando  o  imediato  cumprimento  da  condenação,  delegando-se  ao  Tribunal  local  a  execução  de  todos  os  atos  preparatórios."  (AgRg  no  AREsp  n.  984.287/RS,  Sexta  Turma,  Rel.  Min.  Nefi  Cordeiro,  DJe  de  26/06/2017).
+
+Assim,  deve  ser  mantida  a  decisão  agravada.
+Ante  o  exposto,  nego  provimento  ao  agravo  regimental.
+É  o  voto.
