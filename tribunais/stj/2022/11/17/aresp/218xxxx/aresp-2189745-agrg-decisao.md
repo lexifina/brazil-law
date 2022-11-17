@@ -1,0 +1,43 @@
+DECISÃO
+CARLOS EDUARDO GUIMARÃES OLIVEIRA agrava da decisão de fls. 482-483, em que a Presidência do STJ não conheceu do agravo em recurso especial, por incidência da Súmula n. 182 do STJ.
+Neste regimental, a defesa afirma e comprova que refutou todos os óbices de admissibilidade mencionados pelo Tribunal de origem, inclusive a Súmula n. 83 do STJ.
+O Ministério Público Federal opinou pelo não provimento do agravo regimental (fls. 500-505).
+Decido.
+I. Admissibilidade - juízo de retratação
+O agravo é tempestivo e infirmou os fundamentos da decisão agravada, razões pelas quais comporta conhecimento, motivo pelo qualreconsidero o decisum de fls. 570-575. Com efeito, embora a defesa afirme que a Súmula n. 83 é aplicável apenas ao REsp fundado no art. 105, III, "c", da CF (o que não encontra amparo na jurisprudência desta Corte Superior), é inegável que a parte refutou tal razão de inadmissão recursal.
+O especial também suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade (cabimento, legitimidade, interesse, inexistência de fato impeditivo, tempestividade e regularidade formal), motivo por que avanço na análise de mérito da controvérsia.
+II. Contextualização
+O ora agravante foi absolvido pelo Tribunal do Júri da imputação feita pelo Ministério Público de que ele haveria praticado o crime previsto no art. 121, § 2º, III e IV, do CP. A Corte estadual, todavia, entendeu que a decisão dos jurados era manifestamente contrária à prova dos autos, razão pela qual anulou o julgamento.
+No recurso especial, a defesa apontou a violação do art. 593, III, "d", do CPP. Aduziu que o Tribunala quo, ao entender que a decisão absolutória dos jurados foi manifestamente contrária à prova dos autos, violou a soberania dos vereditos. Afirmou que o Juízoa quo fez indevida incursão valorativa e usurpou a competência do Conselho de Sentença.
+Requereu a anulação do acórdão que cassou o veredito absolutório.
+III. Art. 593, III, "d", do CPP
+A decisão tomada pelos jurados, ainda que não seja a mais justa ou a mais harmônica com a jurisprudência dominante, é soberana, conforme disposto no art. 5º, XXXVIII, "c", da CF/1988.
+Tal princípio, todavia, é mitigado quando os jurados proferem decisum teratológico, em manifesta contrariedade às provas colacionadas nos autos, casos em que o veredito deve ser anulado pela instância revisora e o réu, submetido a novo julgamento perante o Tribunal do Júri.
+Conclui-se, portanto, que, nessa hipótese de insurgência - decisão manifestamente contrária à prova dos autos -, ao órgão recursal se permite, apenas, a realização de um juízo de constatação acerca da existência de suporte probatório para a decisão tomada pelo Conselho de Sentença. Somente se admite a cassação do veredito se flagrantemente desprovido de elementos mínimos de prova capazes de sustentá-lo. Caso contrário, deve ser preservado o juízo feito pelos jurados, no exercício da sua soberana função constitucional.
+No caso em exame, o réu foi pronunciado pelo crime tipificado no art. 121, § 2º, II e IV, do CP. Em plenário, a defesa sustentou atesede negativa de autoria. Os jurados reconheceram a materialidade, mas afastaram a autoria delitiva, conforme se verifica (fl. 323, grifei):
+TESE DA ACUSAÇÃO: Homicídio qualificado consumado (art. 121, §2, III e IV CPB).
+TESES DA DEFESA: Negativa de autoria (tese principal).
+QUESITOS PARA VOTAÇÃO
+I - MATERIALIDADE
+Quesito 1: No dia 14.05.2018, pela manhã, no Presidio Metropolitano I, de Marituba, a vítima WILLIS DOS SANTOS RODRIGUES foi atingida por golpes de faca que provocaram sua morte, conforme laudo de Necropsia Médico-Legal presente as folhas 61 dos autos
+OS JURADOS RESPONDERAM (04) SIM ( ) NÃO (03) CÉDULAS NÃO CONFERIDAS
+II - AUTORIA
+Quesito 2: O réu CARLOS EDUARDO GUIMARÃES OLIVEIRA foi o autor dos golpes descritos no quesito anterior
+OS JURADOS RESPONDERAM (02) SIM (04) NÃO (01) CÉDULAS NÃO CONFERIDAS
+A Corte local, contudo, entendeu que a decisão dos jurados era manifestamente contrária à prova dos autos, consoante acórdão assim motivado (fls. 420-421 destaquei):
+É cediço que, em virtude da soberania do Júri, consagrada em nossa Constituição Federal, somente se permite a anulação do julgamento quando este for manifestamente contrário às provas dos autos, isto é, quando for arbitrário, não encontrando a mínima prova a apoiar tanto a tese acusatória quanto a tese defensiva.
+Da detida e minuciosa análise do caderno processual, tenho por reconhecer a razão do alegado pela acusação, de que há contrariedade à prova dos autos no julgamento prolatado pelo Conselho de Sentença, conforme passarei a fundamentar.
+Depreende-se que Carlos Eduardo Guimaraes Oliveira, ora recorrido, se dirigiu até a cela da vítima e o surpreendeu passando um pano por volta de seu pescoço, deixando-o desacordado, bem como, naquele momento, teria desferido diversos golpes de faca na vítima, chegando, inclusive, a decapitá-lo, ou seja, com indiscutível animus necandi.
+Nesse compasso, a materialidade delitiva restou comprovada por meio de Laudo Pericial do Crime com Cadáver (fls. 119/133 - Id. 7952872 à 7952874) e pela Declaração do Óbito nº 245824553, acostada em fls. 139/140 - Id. 7952874.
+A autoria delitiva também se mostrou irrefutável, diante das provas testemunhais convergem para a pessoa do apelado como sendo o autor crime brutal que ceifou a vida de Willis dos Santos Rodrigues, de sorte que o Conselho de Sentença jamais poderia tê-lo absolvido, sobretudo amparado na tese de negativa de autoria, vez que o próprio recorrido confessou a prática do crime.
+Com efeito, observa-se que as testemunhas ouvidas em Juízo apontam, ainda que de forma indiciária e concreta, a participação do acusado no crime em que aqui se discute, pois, em especial os depoimentos de Jose Ribeiro Cardoso e Tercio Luiz Matos, narram com detalhes que o denunciado teria perante eles confessado a prática delituosa e supostamente informado que o motivo para tal seria que a vítima teria matado familiares do denunciado.
+Assim, infere-se que a interpretação dada pelo Conselho de Sentença não está respaldada em nenhum elemento de prova produzido nos autos, não prevalecendo a versão do recorrido, pois, absolutamente isolada, e dissonante do contexto probatório, merecendo prosperar a alegação do Ministério Público de que a decisão dos jurados se mostra manifestamente contrária à prova dos autos.
+outrossim (sic), embora a indubitável soberania do veredito popular, é certo que a decisão dos jurados que nenhum apoio encontra nas provas dos autos deve ser invalidada, sendo esta, exatamente, a hipótese aqui vertente, em que a decisão dos jurados mostrou-se dissociada integralmente do contexto vislumbrado ao longo da instrução processual.
+Portanto, torna-se, assim, impositiva a anulação do julgamento, como pretende o Órgão Ministerial, devendo o réu serem submetidos a novo julgamento, nos termos do § 3º, do art. 593, do Código de Processo Penal.
+Embora o Tribunal estadual haja afirmado que o veredito se afastou por completo do conjunto probatório, verifico que o órgão revisor não mencionou todas as provas dos autos, mas tão somente aquelas que corroboravam sua conclusão- inclusive, o Juízo de segundo grau se reporta a depoimentos de testemunhas a quem oréu haveria confessado o crime, mas nada assinalou sobre o que o próprio acusado afirmou em juízo. Além disso, houve depoimento da testemunha Silvio dos Santos (fl. 320), cujo teor também não foi examinado pelo Tribunala quo, a fim de demonstrar, inequivocamente, que a versão acolhida pelos jurados se dissociou por completo das provas.
+Deveras, atese denegativa de autoria foi arguída em plenário pela defesa (fl. 323), além de ter ocorrido o interrogatório do réu (fl. 321)- elementos não analisados pelo Tribunal estadual no acórdão ora impugnado.Assim, é de se concluir que os jurados apenas escolheram a versão que lhes pareceu mais verossímil e decidiram a causa conforme suas convicções.
+Reitero que não cabe ao Tribunal a quo, tampouco a esta Corte Superior, valorar as provas dos autos e decidir pela tese prevalente, sob pena de violação da competência constitucional conferida ao Conselho de Sentença.
+Desse modo, deve ser preservada a decisão dos jurados, porquanto o acórdão ora impugnado não demonstrou, concreta e detalhadamente,que a versão acolhida é manifestamente contrária àprova dos autos.
+IV. Dispositivo
+À vista do exposto, reconsidero a decisão de fls. 570-575, a fim de conhecer do agravo para dar provimento ao recurso especial e restabelecer a sentença absolutória em favor do acusado.
+Publique-se e intimem-se.
