@@ -1,0 +1,40 @@
+DECISÃO
+JOSÉ RODRIGO CORREIA DE SOUZA alega sofrer coação ilegal pelo Tribunal de Justiça do Estado do Ceará (HC n. 0632792-47.2022.8.06.0000).
+Nesta Corte, sustenta o impetrante, que atua em causa própria, a falta defundamentação idônea na decisão que lhe estabeleceu providências alternativas, pela suposta prática do crime previsto no art. 306, §1º, do Código de Trânsito Brasileiro. Aduz que solicitou a realização do exame do bafômetro, contudo "não havia nenhum disponível no Município de lguatu" (fl. 207). Ressalta que, em razão do horário avançado, nenhum representante da OAB acompanhou o flagrante.
+Requer, liminarmente e no mérito, a revogação das medidas cautelares.
+Indeferida a liminar e prestadas as informações, opinou o Parquet Federal pelo não provimento do recurso (fls. 226-228; 237-238; 241-244; 248-252).
+Decido.
+Expõem os autos que o recorrente foi preso em flagrante, porquanto policiais militares, "em patrulhamento de rotina", surpreenderam "o autuado conduzindo um veículo em alta velocidade, estando ainda o flagrado com sinais de embriaguez" (fl. 15).
+O Delegado de Polícia lhe concedeu liberdade provisória, após o pagamento da fiança então arbitrada.
+Ato seguinte, o Magistrado plantonista homologou o flagrante e fixou ao investigado, em 19/9/2021, medidas tipificadas no art. 319 do Código de Processo Penal, nestes termos (fls. 15-17):
+Analisando a presente situação, verifico que a conduta de JOSE RODRIGO CORREIA DE SOUZA se adequa à modalidade denominada flagrante próprio, insculpida no inciso I, do sobredito artigo, tendo em vista que o autor foi detido durante o cometimento da infração.
+Logo, é o caso de se conceder a liberdade provisória, assim como foi pela autoridade policial, com a incidência substitutiva da medida cautelar de fiança, já arbitrada por aquela, e das outras medidas cautelares que ora aplico, por se revelarem suficientes e adequadas à espécie.
+Destarte, em consonância com o parecer ministerial, HOMOLOGO o Auto de Prisão em Flagrante e MANTENHO a liberdade provisória concedida ao investigado pela autoridade policial, com a incidência da medida cautelar de fiança arbitrada pela referida autoridade, que ora ratifico, e das medidas cautelares que, cumulativamente, ora aplico:
+a) comparecimento em juízo do domicílio do flagrado  ..  para informar e justificar atividades e manter atualizado seu endereço  .. ;
+b) proibição de acesso ou frequência a bares, casas noturnas, casas de jogos e de prostituição e estabelecimentos congêneres, comumente identificados como próprios de venda e fornecimento de bebidas alcoólicas;
+c) proibição de ausentar-se da Comarca por mais de 08 (oito) dias sem autorização judicial, salvo por motivo de trabalho;
+d) comparecimento a todos os atos processuais.
+O Tribunal a quo denegou o writ originário, in verbis (fl. 181):
+In casu, entendo que as medidas cautelares impostas, estão de acordo com os princípios da razoabilidade, proporcionalidade e adequação, e se mostram necessárias em razão das circunstâncias das infrações penais supostamente praticadas.
+Ademais, em consulta ao sistema CANCUN, identifiquei que José Rodrigo Correia de Souza responde a outra ação penal por crime de trânsito: proc. nº 0005786-42.2017.8.06.0113.
+Deste modo, a revogação das medidas cautelares não se mostra adequada ao caso, em decorrência do paciente se encontrar respondendo por outra ação penal em trâmite, bem como por estar descumprindo a medida cautelar consistente no comparecimento mensal em juízo para informar e justificar suas atividades, conforme certidão de fls. 329, dos autos originários (processo nº 0013475-43.2021.8.06.0293).
+Em consulta ao sítio eletrônico da Corte estadual, verificou o gabinete que, em 29/10/2022, a denúncia foi recebida.
+Feitos esses registros, passo ao exame do reclamo.
+De início, quanto ao argumento de que o flagrante seria nada mais do que uma represália dos agentes policiais, saliento que a análise da tese defensiva foge dos estreitos limites do writ, uma vez que demanda dilação probatória, de modo que deve ser deduzida e apreciada pelas vias ordinárias, no curso da instrução.
+Segundo a orientação desta Casa, "digressões sobre a justa causa para a ação penal, imiscuindo-se no exame das teses de fragilidade probatória e de ausência de indícios de autoria e materialidade, demandam inexoravelmente revolvimento de matéria fático-probatória, não condizente com a via angusta do recurso ordinário em habeas corpus", ao passo que deverá "ser avaliada a quaestio pelo Juízo a quo por ocasião da prolação da sentença, após a devida e regular instrução criminal, sob o crivo do contraditório  .. " (AgRg no RHC n. 131.089/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 17/2/2021).
+Impõe-se sublinhar, ainda, que as medidas cautelares diversas da prisão preventiva não decorrem, automaticamente, da simples marcha processual ou da prolação de sentença condenatória. A partir de critérios de necessidade e de adequação, elas se destinam a proteger os meios ou os fins do processo, diante do risco que a liberdade plena do investigado/acusado represente para algum bem ou interesse processual. Em razão de seu caráter instrumental e de urgência, têm de estar lastreadas em situações de risco atuais ou iminentes, gerados pelo estado de plena liberdade do recorrente.
+Sob essas premissas, afiro que o Magistrado de primeiro grau não justificou por que as providências cautelares elencadas são cabíveis e adequadas ao caso concreto, sobretudo em hipótese em que o delito foi cometido sem o emprego de violência ou grave ameaça.
+Ressalto que as medidas restritivas prescritas ao acusado se prolongam por cerca de 1 ano e 2 meses, a despeito de não motivadas.
+Não olvido que o Tribunal de Justiça trouxe novos elementos (outras demandas criminais em desfavor do réu) para amparar o estabelecimento das medidas alternativas.
+Sem embargo, de acordo com a jurisprudência desta Corte Superior, os fundamentos trazidos pelo Tribunal de origem não se prestam a suprir a ausente motivação do Juízo singular, sob pena de, em ação concebida para a tutela da liberdade, legitimar-se o vício do ato constritivo ilegítimo.
+Nesse sentido:
+ ..  2. Não obstante haja constatado a ausência de justificativas próprias para decretar a medida extrema ao paciente, o Juízo singular deixou de justificar por que as providências cautelares elencadas - dentre as quais o monitoramento eletrônico e o recolhimento domiciliar noturno - seriam "mais adequadas e suficientes ao caso concreto", sobretudo se deixou claro que o acusado é primário, os crimes não foram cometidos com emprego de violência ou grave ameaça e as demais condições pessoais lhe são favoráveis.
+3. A Corte estadual invocou novos elementos para amparar o estabelecimento das medidas alternativas ao réu. Todavia, a orientação deste Tribunal Superior é firme no sentido de que os argumentos trazidos pela Corte de origem não se prestam a suprir a ausente motivação do Magistrado de primeiro grau, sob pena de, em ação concebida para a tutela da liberdade, legitimar-se o vício do ato constritivo ilegítimo.
+ ..
+5. Ordem concedida.
+(HC n. 580.455/SC, Rel. Ministro Rogerio Schietti, 6ª T., DJe 4/9/2020.)
+ ..  cumpre observar que, embora o acórdão do Tribunal local aponte elementos concretos à preventiva, é pacífico o entendimento nesta Corte Superior, bem como no Supremo Tribunal Federal, de que o Tribunal de origem não pode suprir a ausência de motivação do decreto prisional proferido pelo juiz singular, sob pena de o habeas corpus servir de vetor convalidante do encarceramento ilegal.  ..
+(RCD no HC n. 555.929/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/3/2020.)
+À vista do exposto, dou provimento ao recurso, para revogar as medidas cautelares estabelecidas ao acusado, nos autos do Processo n. 0013475-43.2021.8.06.0293, ressalvada a possibilidade de outra avaliação do feito e nova imposição de providência(s) de natureza cautelar em seu desfavor, desde que suficientemente fundamentada(s), nos termos dos arts. 282 e 319 do CPP.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
