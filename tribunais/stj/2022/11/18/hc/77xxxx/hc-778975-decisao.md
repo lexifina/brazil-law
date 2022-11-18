@@ -1,0 +1,82 @@
+DECISÃO
+JOÃO VITOR CARDOSO DA SILVAalega sofrer coação ilegal em decorrência de acórdãos proferidos peloTribunal de Justiça do Estado de Pernambucono HC n.0002951-65.2021.8.17.948 e no HC n. 0001868-77.2022.8.17.9480.
+A defesa pretende, por meio destewrit, seja relaxada a custódia preventiva do paciente-decretada pela suposta prática dos crimes previstos nos arts. 33 e 35, c/c o art. 40, VI, da Lei n. 11.343/2006-, ao argumento de que as decisões que decretaram e mantiveram a constrição são carentes de fundamentação idônea. Invoca a ausência de requisitos do art. 312 do CPP-especialmente diante da fragilidade das provas acerca da autoria -, o excesso de prazo para o término da instrução processual e omalferimento ao princípio da homogeneidade.
+Alega, ainda, que o réu é portador de enfermidade autoimune grave e que não há possibilidade deele ser tratado adequadamente na unidade prisional, o que aumenta muito o risco de surgimento de outras comorbidades ou até de morte.
+Indeferida a liminar e prestadas as informações, veio o parecer do Ministério Público Federal, que opinou pelo não conhecimento do writ ou, se superada a preliminar, pela denegação da ordem.
+Decido.
+Consta dos autos que, em 21/8/2021, oJuiz de primeiro grau decretou a prisão preventiva do paciente, para a garantia da ordem pública, porque, com os corréus foram encontrados238 "big-bigs" de maconha, 1.3kg de maconha prensada, 70 pedras de crack e R$ 1.578,00, o insurgente foi apontado como "fornecedor da droga apreendida" (fl. 644) e houve a participação de adolescentes nos delitos.
+A custódia foi mantida pelo Juízo de origem, tendo em vista a gravidade dos fatos.
+A Corte de origem, ao denegar os habeas corpus lá impetrados, assentou o seguinte (fls. 144-145 e 32-33, grifei):
+Observa-se pela decisão supratranscrita que o Magistrado se valeu de elementos concretos constantes nos autos (auto de prisão em flagrante delito, auto de apresentação e apreensão, laudo preliminar de constatação da droga, confissão de corréus e depoimentos testemunhais) para constatar a existência dos requisitos (fumus comissi delicti), bem como expôs o fundamento (periculum libertatis) da prisão preventiva.
+No caso o paciente é acusado de ser o fornecedor da droga apreendida com os corréus.
+Somou-se a isso a quantidade de droga apreendida, (Id. 82860916 dos autos originários), 1,785 kg (um quilograma e setecentos e oitenta e cinco gramas) de "maconha", 68 (sessenta e oito) pedras de material sólido, provável "crack", 02 (duas) pedras de material sólido, provável "crack" e R$ 1.578,00 (um mil, quinhentos e setenta e oito reais) em espécie, indicando considerável tráfico de drogas praticado pelo então suspeito em associação com os demais denunciados, o que evidencia a necessidade da cautelar extrema para garantia da ordem pública.
+Verifica-se, portanto, que ficou suficientemente fundamentada a decisão que decretou a prisão preventiva, não estando configurado qualquer constrangimento ilegal nesse sentido.
+De mais a mais, demonstrada a premência da constrição cautelar de liberdade para garantir a ordem pública, eventuais condições pessoais favoráveis não têm o condão de franquear liberdade provisória ao paciente, nos termos do enunciado da Súmula nº 86 do TJPE:
+ ..
+Na mesma decisão foi observado que a Administração Penitenciária de Pernambuco tem tomado as providências necessárias para conter eventual surto de covid-19 dentro dos presídios, afastando, assim, o aumento do risco de contaminação no cárcere. Ressalte-se que, embora o impetrante apresente laudos médicos indicando que o paciente é portador de enfermidade, que, em tese, aumentaria o risco de contaminação ou, caso contaminado, que desenvolva casos mais graves de Covid-19, não há nenhuma comprovação de que o serviço de saúde da unidade prisional não tenha condições e cuidar e/ou controlar a alegada enfermidade do paciente.
+Aliás, o Laudo médico Id. 18501146 demonstra que o tratamento está em andamento e a recomendação para não vacinação é apenas por precaução, para indicar qual o imunizante mais indicado às condições de saúde do custodiado.
+É importante destacar que, atualmente, há disponibilidade de diversosimunizantes para combater possível contaminação pelo novo coronavírus pelo Ministério da Saúde que, eventualmente, podem ser ministrados ao réu, ora paciente.
+De mais a mais, convém registrar, que além de outras medidas sanitárias importantes, as pessoas privadas de liberdade foram incluídas no grupo prioritário de vacinação o que diminui significativamente o risco de contaminação ou agravamento do quadro clínico em caso de o custodiado contrair a doença.
+Neste caso, por não estar demonstrada impossibilidade de tratamento dentro da unidade prisional, não prospera o pedido de liberdade provisória baseado em risco de contaminação pela Covid-19.
+Diante do alegado pelo impetrante e pelos elementos analisados no presente writ não se verifica qualquer ilegalidade a ser sanada, assim como não ficou comprovado aumento do risco de contaminação pela Covid-19, sem prejuízo de nova análise de pedidos nesse sentido pelo Juízo de conhecimento.
+Diante do exposto, DENEGO a ordem de habeas corpus.
+Extrai-se dos autos, queo pacienteteve a prisão preventiva decretada em 31/08/2021,após representação do Ministério Público, por fato ocorrido em 19/05/2021,em processo criminalque éacusado pelo suposto cometimento dos crimes previstos nos art. 33,caput e art. 35,c/c art.40,VI,todos da Lei nº 11.343/06 (tráfico e associação para o tráfico de drogas).
+É importante esclarecer que a suposta ausência de fundamentação do decreto preventivoe o pedido de prisão domiciliar com base em doença crônica já foram objeto de deliberação poresta 2ªTurma no julgamento do Habeas Corpus nº 0002951-65 2021 86 17 9480,cuja ementaora transcrevo:
+ ..
+Em relação à imprescindibilidade da prisão domiciliar em razão de doença grave, oimpetrante não trouxe fatos novos que demonstrem modificação da situação encontrada emdezembro de 2021.
+Portanto, em respeito à coisa julgada, deixo de conhecer do writ no que se refere aopedido de prisão domiciliar e à alegada ausência de fundamentação da decisão que decretou aprisão preventivapor já terem sido objeto de julgamento do Habeas Corpus nº 0002951-65.2021.86.17.9480,cujo trânsito em julgado ocorreu em 22/02/2022.
+Em relação ao suposto excesso de prazo para a formação da culpa, informa a autoridadeimpetrada que embora tenha passado certo lapso temporal desde a prisão do réu,há no processovicissitudes que justificam o tempo decorrido na tramitação processual como por exemplo apluralidade de réus,04 (quatro). (Id. 22276136).
+No caso concreto, apesar de decorrido pouco mais de 10 (dez) meses desde a prisão, emconsulta ao andamento do processo verifica-se que a movimentação é constante.
+Informa a autoridade impetrada que o processo originário consisteem julgamento desuposto grupo criminoso voltado para o tráfico de drogas e outros crimes conexos.
+Informa, ainda, que o processo originário conta com 04 (quatro) réus e que houve orecebimento da denúncia em 31/08/2021,prosseguindo o feito com andamento regular, tendodata designada para audiência de instrução que ocorrerá em 05/10/2022 às 16h (Id. 22276136.P 03)
+Inobstante tenha decorrido certo lapso temporal desde a prisão do réu,ora paciente, atramitação processual, estácom andamento razoável.
+No que se refere à demora para a formação da culpa, pontuo que é cediço que averificação de eventual constrangimento por excesso de prazo na prisão cautelar não se deduzapenas por meras somas aritméticas, mas se detendo nas especificidades do caso concreto que,por vezes, pode possuir tramitação justificadamente mais demorada do que o comum.
+Os prazos processuais, portanto, não devem ser contabilizados de forma estritamenterígida principalmente quando concernentes a crimes desta magnitude.
+Tal entendimento, inclusive, é referendado pelo enunciado da Súmula nº 84 do TJPE,queassim dispõe:
+ ..
+Em assim sendo, a jurisprudência elenca situações específicas capazes de justificardiante dos princípios da razoabilidade e proporcionalidadeeventuais atrasos da celeridadeprocessual, tais como: complexidade e gravidade do caso;pluralidade de crimes e de réus;expedições de cartas precatórias; requerimentos formulados pela defesa;os prazos para aconclusão da instrução criminal não serem peremptórios;inexistência de indícios de desídia doEstado-Juiz e juízo diligente no andamento do feito.
+Nesse espeque,não se vislumbra desídia do juízo processante na condução do feito, poiso Juízo impetrado tem impulsionado o processo, na medida do possível, sem que tenha seconfigurado constrangimento ilegal por excesso de prazo.
+Diante do exposto, conheço parcialmente da impetração e nesta extensão DENEGO aordem de habeas corpus.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do acusado, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu, notadamente diante das evidências de que os crimes foram cometidos em concurso de agentes com participação de adolescente e de que o réu seria o fornecedor da droga apreendida, cuja quantidade e variedade demonstram a maior gravidade dos crimes, como asseverado pelo Magistrado de primeiro grau.
+Com efeito, a jurisprudência desta Corte de Justiça é firme ao asseverar que as circunstâncias acima destacadasrelevam a seriedade concreta do delito e constituem fundamento idôneo para a constrição cautelar. Ilustrativamente:
+ ..
+3. A prisão preventiva encontra-se suficientemente justificada na necessidade de garantia da ordem pública, considerada, em especial, as circunstâncias do flagrante em que foram apreendidos mais de 01kg de maconha, acondicionada na forma de "tijolos" e também embaladas individualmente, existindo notícia de que o ora paciente residiria no local onde descobertos. Foi destacada, ainda, a apreensão de balança de precisão e facas com resquícios de entorpecentes, além da participação, novamente em tese, de adolescente.
+4. As condições subjetivas favoráveis do recorrente, por si sós, não obstam a segregação cautelar quando presentes os requisitos legais para a decretação da prisão preventiva.
+5. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 758.147/SP,Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 13/9/2022)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. FUNDAMENTAÇÃO CONCRETA. QUANTIDADE DE DROGAS ELEVADA. ENVOLVIMENTO DE ADOLESCENTE. ILEGALIDADE. AUSÊNCIA. SUBSTITUIÇÃO POR CAUTELARES. NÃO CABIMENTO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Apresentada fundamentação concreta para a manutenção da prisão preventiva, evidenciada na periculosidade do paciente, pois indicada elevada quantidade de entorpecentes encontrada - 1kg de maconha - e o envolvimento de adolescente no crime, de modo que não há falar em ilegalidade da prisão.
+2. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+3. Agravo improvido.
+(AgRg no HC n. 599.279/SC, Rel.Ministro Nefi Cordeiro, 6ª T., DJe 20/11/2020)
+Concluo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do réu.
+No mesmo sentido, o parecer do Ministério Público Federal registrou que (fl. 688):
+Porém, no caso em análise, entende-se estarem preenchidos os requisitos para a manutenção da prisão preventiva, pois a materialidade do delito e os indícios de autoria estão evidenciados nos autos. Além disso, há fundado risco de reiteração delitiva, decorrente do modo de execução do crime, que teria sido perpetrado em concurso de agentes, além do fato do paciente ser o fornecedor de expressiva quantidade de drogas apreendidas com os coautores.
+Nesse panorama, tem-se que devidamente fundamentado o decreto prisional, preenchidos os requisitos do art. 312 do Código de Processo Penal. Nesse sentido é firme a jurisprudência dessa Corte Superior:
+ ..
+A Corte de origem refutou a existência de excesso de prazo para o término da instrução e salientou que o feito, que conta com quatro réus, visa aojulgamento de suposto grupo criminoso voltado para o tráfico de drogas e outros crimes conexos.
+De acordo com os autos, verifica-se que a denúncia foi recebida e que já houve audiência de instrução e julgamento, cuja continuação ainda não foi marcada.
+Cumpre registrar que os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Consoante o entendimento desta Corte Superior, "O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. (Precedentes do STF e do STJ)" (RHC n. 58.274/ES, Rel. MinistroFelix Fischer, 5ª T., DJe 17/9/2015, destaquei).
+Na espécie, não constato desídia do Juízo natural da causa na condução do processo, a ensejar a intervenção desta Corte Superior, pois, consoante bem pontuou o Tribunal de origem,os autos aguardama designação da continuação daaudiência de instrução e julgamento.
+De fato, pelos documentos constantes dos autos, em que pese o réu estar preso há um pouco mais de um ano,noto que o Juízo de primeiro grau dirige o andamento do processo com a diligência necessária, a evidenciar a busca de celeridade na tramitação.
+Portanto, verificadas a compatibilidade da duração do processo com as particularidades do caso concreto e a diligência do Estado no processamento do feito, fica afastada, ao menos por ora, a alegação de excesso de prazo.
+Nesse sentido, menciono o seguinte precedente:
+ ..
+4. Não há, até o presente momento, ilegalidade apta a ser sanada por esta Corte Superior quanto ao alegado excesso de prazo, pois a ação penal originária dos processos do Tribunal do Júri demanda, inevitavelmente, uma maior delonga dos atos processuais. Com efeito, a ação penal vem tramitando regularmente, diante de sua complexidade, pois se trata de feito que visa apurar conduta criminosa cometida com pluralidade de réus (quatro) e mediante advogados e situações processuais diferentes, devendo-se destacar ainda o volume e a diversidade de diligências requeridas pelas partes. Precedentes.
+ ..
+(AgRg no HC n. 666.324/SE, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 13/12/2021)
+ ..
+1. A configuração de excesso de prazo não decorre da soma aritmética de prazos legais. A questão deve ser aferida segundo os critérios de razoabilidade, tendo em vista as peculiaridades do caso. Não havendo, nos autos, nada que indique que o Estado tenha sido, ou esteja sendo, desidioso na condução do feito, não há falar, portanto, em excesso de prazo na formação da culpa.
+ ..
+3. Recurso em habeas corpus improvido.
+(RHC n. 81.007/MS, Rel. MinistroSebastião Reis Júnior, 6ª T., DJe 30/5/2017)
+Por fim,tendo em vista que a Corte estadual asseverou não haver comprovação acerca da impossibilidade de tratamento do acusado na unidade prisional e, ainda, com base em laudo médico, entendeu que o réu tem sido devidamente cuidado, compreender de maneira diversa, ao ponto de colocar o paciente em prisão domiciliar, demandaria o reexame das provas do processo, providência inviável em habeas corpus.
+Confira-se:
+ ..
+2. Sobre a substituição da prisão preventiva, a Corte de origem aponta "que não restou demonstrado a gravidade da enfermidade e a impossibilidade de tratamento no local em que o paciente permanece custodiado, de acordo com o que estabelece o parágrafo único, do art. 318, do CPP". A alteração dessa conclusão demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência incabível nesta Corte. Precedentes.
+ ..
+(AgRg no RHC n. 157.105/MA, Rel. Ministra Laurita Vaz, 6ª T., DJe 16/2/2022)
+À vista do exposto,denego a ordem.
+Publique-se e intimem-se.
