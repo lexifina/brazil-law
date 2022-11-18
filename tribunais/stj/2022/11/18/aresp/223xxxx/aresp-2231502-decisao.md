@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manejado pelo Município de São João da Boa Vistacontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 285):
+APELAÇÃO - Ação de Obrigação de Fazer com Pedido de Tutela Antecipada - Fornecimento de medicamento e insumos - Autora portadora de diabetes (CID E10) - Sentença de improcedência reformada - Inteligência dos arts. 196 e 198 da Constituição Federal, arts. 219 e 223 da Constituição Estadual e Lei 8.080/90 - O C. STJ no julgamento do REsp nº 1.657.156/RJ, DJE 04/05/2018, mediante sistemática dos recursos repetitivos (Tema nº 106 - STJ), fixou tese a respeito da necessidade de concessão, pelo Poder Público, de medicamentos não incorporados em atos normativos do SUS (Programa de Medicamentos Excepcionais), preenchidos determinados requisitos - Precedentes deste E. Tribunal de Justiça do Estado de São Paulo e do E. Superior Tribunal de Justiça - RECURSO PROVIDO.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1022do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 1022, II, e 1023, § 2º, do CPC. Sustenta que o Tribunal de origem não se manifestou sobre os "motivos que levaram o julgador a acolher a prescrição feita por médico particular, que não tem a mesma imparcialidade do perito judicial, até por que se tal documento apresentado pela recorrida é superior à perícia, não haveria motivo então para se produzir esta prova." (fl. 328).
+É O RELATÓRIO.SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Verifica-senão ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Com efeito, sobre otematidocomo olvidado, a Corte Estadual consignou (fls. 292/294):
+Ademais, está suficientemente demonstrado nos autos que a Apelante, necessita do medicamento prescrito, para controle de sua enfermidade.
+Também é certo que os profissionais que atestaram a enfermidade do autor e prescreveram o medicamento possuem formação acadêmica necessária, descabendo no âmbito jurisdicional discutir-se o conteúdo de tal prescrição.
+No mais, não se pode olvidar que, quanto ao tipo de medicamento prescrito, pois é de competência exclusiva do médico que acompanha o enfermo (Resolução nº 1.246, de 8/1/88, do Conselho Federal de Medicina Código de Ética Profissional), sendo inadmissível limitar a indicação médica a eventual padronização da Secretaria de Saúde, tampouco questionar a efetividade dos exames indicados para o tratamento da enfermidade de que sofre o apelante.
+Ademais, os receituários médicos subscritos por profissional inscrito no Conselho Regional de Medicina é prova suficiente a se demonstrar a necessidade do apelante receber o fornecimento dos exames pleiteados e constitui prova pré-constituída suficiente ao atendimento do pedido.
+(..)
+Por fim, vale ressaltar que o laudo pericial do Imesc, salientou que, "in verbis":
+"A pericianda atende a todos os pressupostos básicos oficiais para o uso destesistema: executa diariamente a automonitorização reiterada da glicemia capilar, acata as recomendações médicas, demonstra boa adesão ao tratamento e aspiração de melhorar o controle da doença." (fls. 204).
+Não se constata, pois, a alegada omissão.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando-se em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do CPC).
+Publique-se.
