@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto contra acórdão assim ementado:
+AÇÃO ORDINÁRIA - FINANCEIRO. URV.
+1. Autores pugnam por condenação da Fazenda Pública em razão das perdas salariais decorrentes da alegada inobservância do teor dos incisos I e II da Lei 8880/94; descompasso na conversão de valores do antigo padrão monetário para a URV. Admissibilidade. Inexistência de invasão na esfera de autonomia da Fazenda. Padrão Monetário, competência legislativa da União que obriga a todos os entes da Federação.
+2. Na esteira do novo entendimento do Colendo Supremo Tribunal Federal, descabida a compensação do percentual devido ao servidor em razão da ilegalidade na conversão de Cruzeiros Reais em URV com aumentos supervenientes a título de reajuste e revisão de remuneração, restando, por outro lado, fixado que o referido percentual será absorvido no caso de reestruturação financeira da carreira, não demonstrada no caso concreto.
+3. A reestruturação deve prever, além de novos patamares de vencimentos, a correção da defasagem da remuneração em valores superiores aos devidos relativos a URV, de sorte que o termo "ad quem" deverá ser apurado em liquidação de sentença.
+4. Incidência do regime de juros, nos termos em que estabelecidos pelo art. 1º-F, da Lei nº 9.494/97 (redação da Lei nº 11.960/09), a partir da data de sua vigência Constitucionalidade reconhecida pelo Colendo Supremo Tribunal Federal. Julgamento da ADIN 4.357/DF e 4.425/DF que reconheceu a inconstitucionalidade dos critérios de correção monetária adotados pela referida norma. Aplicação, a todo período da dívida, do IPCA, por ser o índice que melhor reflete o fenômeno inflacionário - Precedentes do Colendo Superior Tribunal de Justiça. Recurso e remessa necessária em favor da ré parcialmente providos.
+Embargos de Declaração rejeitados (fls. 290-298, e-STJ).
+O agravante alega, no Recurso Especial, violação dos arts. 535, II, do CPC/1973 e 1º do Decreto 20.910/1932.
+Sem contrarrazões.
+O juízo de admissibilidade negativo deu ensejo à interposição do presente Agravode fls. 404-411, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13.10.2022.
+Inicialmente, o recorrente defende que o aresto objurgado afrontou o art. 535, II, do CPC.Contudo, o fato de o Tribunal de origem haver decidido a lide de forma contrária à tese defendida, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nem outra causa passível de exame mediante a oposição de Embargos de Declaração.O simples descontentamento da parte com o julgado não tem o condão de torná-los cabíveis.
+Ademais, a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que o julgador não é obrigado a rebater, um a um, todos os argumentos das partes, bastando que resolva a situação que lhe é apresentada sem se omitir sobre os fatores capazes de influir no resultado do julgamento.Nesse sentido: AgInt no REsp 1.75.7501/SC, Rel. Min. Francisco Falcão, Segunda Turma, DJe 3/5/2019; AgInt no REsp 1.609.851/RR, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 14/8/2018; REsp 1.486.330/PR, Rel. Min. Og Fernandes, Segunda Turma, DJe 24/2/2015.
+Sobre a alegação de prescrição do fundo do direito, observo que a decisão recorrida se encontra em harmonia com a jurisprudência do STJ, o que atrai a incidência da Súmula 83/STJ:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. CONVERSÃO DE VENCIMENTOS. URV. APLICAÇÃO DA LEI 8.880/1994. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. SÚMULA 85/STJ. DEFASAGEM NOS VENCIMENTOS. APURAÇÃO DO EFETIVO PREJUÍZO EM LIQUIDAÇÃO DE SENTENÇA. SÚMULA 83/STJ.
+1. Com efeito, quando do julgamento do REsp 1.101.726/SP, sob o regime dos recursos repetitivos, o STJ decidiu no sentido de que é obrigatória a observância, pelos Estados e Municípios, dos critérios previstos na Lei Federal 8.880/1994 para a conversão em URV dos vencimentos e dos proventos de seus servidores, considerando que, nos termos do artigo 22, VI, da Constituição Federal, é competência privativa da União legislação sobre o sistema monetário (STJ, REsp 1.101.726/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, TERCEIRA SEÇÃO, DJe 14/8/2009)
+2. Assim sendo, não se constata afronta ao art. 1º do Decreto 20.910/1932, quanto à ocorrência da prescrição do fundo de direito, pois o acórdão vergastado encontra-se alinhado ao entendimento proferido pelo STJ, no sentido de que, nas ações em que se pretende o recebimento de diferenças salariais decorrentes da conversão em URV, não ocorre a prescrição do fundo de direito, aplicando-se ao caso a Súmula 85/STJ, pois caracterizada a relação de trato sucessivo.
+3. Outrossim, o acórdão impugnado está em consonância com jurisprudência do STJ de que eventual prejuízo remuneratório decorrente da conversão equivocada da moeda deve ser apurada em liquidação de sentença.
+4. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+5. Ressalta-se que o referido verbete sumular aplica-se aos Recursos Especiais interpostos tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.186.889/DF, Segunda Turma, Relator Ministro Castro Meira, DJe de 2.6.2010.
+6. Recurso Especial não conhecido.
+(REsp n. 1.814.798/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 17/6/2019)
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. URV. PRESCRIÇÃO DE FUNDO DE DIREITO AFASTADA. DEVOLUÇÃO DO FEITO À ORIGEM. PEDIDO DE APRECIAÇÃO DA QUESTÃO DE FUNDO POR ESTE STJ. IMPOSSIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SUPRESSÃO DE INSTÂNCIA.
+1. O pedido de reconsideração pode ser recebido como agravo interno, nos termos da jurisprudência desta Corte, em homenagem aos princípios da economia processual, da instrumentalidade das formas e da fungibilidade. 2. A Corte de origem se limitou a apreciar e a decidir acerca da incidência da prescrição de fundo de direito in casu, de modo que, uma vez afastada a prescrição neste apelo especial, deve o feito retornar à origem para apreciação da questão de fundo. Impossibilidade de resolução do mérito da controvérsia por este STJ, diante da ausência de prequestionamento e da supressão de instância.
+Precedentes.
+3. Agravo interno não provido.
+(RCD no REsp n. 1.703.033/SP, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 22/10/2018)
+Outrossim, para acolher aalegação de que houve prescrição em razão da reestruturação dacarreira pela Lei Complementar Estadual836/1997, seria indispensável o exame da legislação local. Aplica-se a Súmula 282/STF.No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDORES PÚBLICOS ESTADUAIS. REAJUSTE VENCIMENTAL. CONVERSÃO DA MOEDA. UNIDADE REAL DE VALOR - URV. LEI 8.880/1994. LIMITAÇÃO TEMPORAL. REESTRUTURAÇÃO DE CARREIRA. POSSIBILIDADE. LEIS ESTADUAIS. SÚMULA 280/STF. DISSÍDIO PRETORIANO PREJUDICADO.
+(..)5. A controvérsia em exame remete à análise de Direito local (Leis Complementares Estaduais 840/1997 e 1.080/2008), revelando-se imprópria a via recursal especial para rediscussão da matéria, ante a incidência da Súmula 280 do STF.
+(..)7. Recurso Especial não conhecido.(REsp n. 1.812.200/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 11/10/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO. REMUNERAÇÃO. LEI N. 8.880/1994. CONVERSÃO PARA URV. PERDAS. PRESCRIÇÃO. REESTRUTURAÇÃO DA CARREIRA. LIMITE TEMPORAL. DIREITO LOCAL. EXAME. IMPOSSIBILIDADE. SÚMULA 280/STF.
+(..)4. O exame da afirmação de que a Lei Complementar estadual n. 836/1997 não reestruturou a carreira do magistério dependeria de interpretação do direito local. Incidência da Súmula 280/STF.
+5. Recurso especial parcialmente conhecido e, nessa extensão, não provido.(REsp n. 1.804.211/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 5/3/2020, DJe de 17/3/2020.)
+Ante o exposto, conheço do Agravo para conhecer em parte do Recurso Especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
