@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ANDERSON SOUSA CUNHA em que aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi denunciado pela suposta prática dos delitos previstos nos artigos 288, parágrafo único, 157, § 2º, I, II c/c art. 69, todos do Código Penal, tendo a denúncia sido recebida em 15/12/2020 (e-STJ, fl. 25).
+Inconformada, a defesa impetrou habeas corpus perante a Corte de origem, que denegou a ordem, nos moldes da seguinte ementa:
+"HABEAS CORPUS - Prisão preventiva decretada por suposta prática dos crimes de associação criminosa e roubo (artigo 288, parágrafo único;artigo 157, § 2º, incisos I, II e V, e no artigo 157, § 2º, incisos I e II, por duas vezes, na forma do artigo 69, todos do Código Penal). Alegação de litispendência. Inocorrência. Constrangimento ilegal não configurado. Ordem denegada."(e-STJ, fl. 15)
+Neste writ, o impetrante sustenta, em síntese, a ocorrência de litispendência com relação ao delito do art. 288, parágrafo único, do Código Penal, tendo em vista que o paciente já fora processado por idêntico crime, tendo, em grau recursal, sido absolvido da imputação.
+Aduz que, embora os processos sejam oriundos de comarcas distintas, ambos abordam o mesmo período de tempo no qual o paciente teria, supostamente, praticado o delito em questão.
+Requer a concessão da ordem a fim de que o paciente seja absolvido sumariamente da imputação relativa ao art. 288, parágrafo único, do Código Penal, nos termos do art. 395, II, do Código de Processo Penal.
+O pedido de liminar foi indeferido (e-STJ, fl. 72).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 107-111).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+No caso dos autos, a tese defensiva de litispendência foi assim rebatida pelo Tribunal a quo:
+"Não se vislumbra, para o momento, a ocorrência de litispendência, uma vez que os fatos referidos nos autos 0000033-10.2017.8.6.0320, que tiveram apuração na Emérita 1ª Vara Criminal da Comarca de Limeira, em tese, não guardam identidade de partes, pedido ou causa de pedir com os fatos descritos nos autos 0001301-73.2016.8.26.0146, da Comarca de Cordeirópolis.
+ ..
+Depreende-se dos autos que a denúncia dos autos de nº 0001301- 73.2016.8.26.0146, da Comarca de Cordeirópolis, conquanto mencione a existência da associação criminosa na região de Limeira, reporta-se exclusivamente a um delito de roubo e outro de receptação, ambos ocorridos em Cordeirópolis, além de outros crimes praticados pelos corréus, como tráfico de drogas e porte ilegal de arma de fogo.
+A noticiada absolvição pela defensoria do crime de associação criminosa nos autos da Comarca de Cordeirópolis não prejudica seu reconhecimento nos autos da Comarca de Limeira diante da suposta prática de diversos roubos, em curto lapso temporal, principalmente porque as vítimas são outras, assim como parte dos corréus, que não figuraram na denúncia de Cordeirópolis.
+Ademais, a decisão que manteve o recebimento da denúncia está embasada, em tese, em elementos seguros, para o momento, e, ao contrário do que se alegou, encontra-se suficientemente fundamentada, afastando-se, assim, qualquer alegação de nulidade."(e-STJ, fls. 16-18)
+Sobre o tema, convém destacar que "a litispendência guarda relação com a ideia de que ninguém pode ser processado quando está pendente de julgamento um litígio com as mesmas partes (eadem personae), sobre os mesmos fatos (eadem res), e com a mesma pretensão (eadem petendi), que é expressa por antiga máxima latina, o ne bis in idem" (HC 229.650/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 8/3/2016, DJe 15/3/2016).
+Na hipótese dos autos, o Tribunal de origem afastou a tese de litispendência, destacando que o fato do paciente haver sido absolvido do delito do art. 288, parágrafo único, do Código Penal na Comarca de Cordeirópolis/SPnão prejudica a apuração de seu suposto envolvimento no delito do art. 288, parágrafo único, do CP na Comarca de Limeira/SP, diante da suposta prática de vários crimes em curto lapso temporal, "principalmente porque as vítimas são outras, assim como parte dos corréus, que não figuraram na denúncia de Cordeirópolis"(e-STJ, fl. 17).
+Como se vê, não se pode afirmar, sem reexame do acervo fático-probatório, que os presentes autos possuam por objeto os mesmos fatos imputados ao paciente em processo anterior. Destarte, conclusão em sentido contrário ao registrado pela instância ordinária demandaria o reexame de matéria fática, o que é vedado nos estreitos limites desta impugnativa do writ.
+A corroborar:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 95, III, DO CPP. LITISPENDÊNCIA. INEXISTÊNCIA. CRIMES DIVERSOS. CONTEXTOS DISTINTOS. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Como cediço, "a litispendência - pressuposto processual de validade objetivo extrínseco negativo ou impeditivo - configura-se quando ao mesmo acusado, em duas ou mais ações penais, forem imputadas a prática de condutas criminosas idênticas, ainda que se lhes confira qualificação jurídica diversa"(AgRg no RHC n. 126.745/PR, relator Ministro Felix Fischer, Quinta Turma, julgado em 15/9/2020, DJe de 23/9/2020).
+2. No caso em apreço, verifica-se que não há litispendência entre as ações penais, tampouco a ocorrência de dupla imputação, tendo em vista que, conforme expressamente destacado pela Corte de origem, os feitos tratam de crimes diversos, praticados em contextos (dia e local) distintos.
+3. Ademais, a alteração do acórdão, a fim de reconhecer a pretendida litispendência entre as mencionadas ações penais, demandaria o reexame de elementos fáticos e probatórios dos autos, o que não é possível nesta via especial, conforme o disposto na Súmula 7/STJ.
+4. Agravo regimental a que se nega provimento."
+(AgRg no AREsp n. 2.146.774/MG, minha relatoria, Quinta Turma, julgado em 27/9/2022, DJe de 4/10/2022.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
