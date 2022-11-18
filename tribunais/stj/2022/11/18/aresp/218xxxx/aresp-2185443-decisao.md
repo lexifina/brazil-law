@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF/1988) interposto a acórdão do Tribunal Regional Federal da 2ª Região assim ementado (fls. 534-535, e-STJ):
+APELAÇÃO. MULTA ADMINISTRATIVA. INFRAÇÃO À RESOLUÇÃO Nº 3.075/09, DA ANTT.CONFIGURAÇÃO. PROCESSOS ADMINISTRATIVOS REGULARES. EXISTÊNCIA DE NORMA LEGAL ESPECÍFICA. INAPLICABILIDADE DO CÓDIGO DE TRÂNSITO BRASILEIRO - CTB.PENALIDADE PREVISTA EM RESOLUÇÃO. POSSIBILIDADE. RECURSO DESPROVIDO.
+1. A controvérsia cinge-se em verificar se a conduta da embargante, ora apelante, subsome-se ao enquadramento legal a ela imputado nos autos de infração lavrados pela ANTT, ora apelada.
+2. Não há nulidade na sentença, já que a mesma analisou detidamente os fatos, os fundamentos jurídicos e as provas trazidas aos autos pelas partes e enfrentou todas as questões capazes de, ao menos em tese, influenciar a decisão.
+3. O agente fiscal, ao lavrar um auto de infração, pratica um ato administrativo vinculado, devendo atuar em conformidade com os comandos legais pré-estabelecidos na legislação. Ao verificar a prática de conduta que constitui uma infração, não lhe cabe fazer ponderações ou conjecturas, mas tão somente aplicar a lei.
+4. As autuações impugnadas foram lavradas em razão da prática de infrações previstas na Resolução ANTT nº 3.075/09. Este ato normativo traz disposições que regulam o transporte rodoviário interestadual e internacional de passageiros, tendo sido elaborados com base na competência normativa atribuída à ANTT pela Lei nº 10.233/01.
+5. As condutas praticadas pela apelante configuram infrações de transporte, cujo regramento é feito através das normas emanadas da agência apelada, inclusive no tocante às penalidades. O Código de Trânsito Brasileiro disciplina e elenca penalidades relativas às infrações de trânsito, não sendo aplicável em caso de violação às normas atinentes ao transporte de passageiros ou cargas.
+6. A Resolução nº 442/04, que dispõe sobre o processo administrativo para apuração de infrações no âmbito da ANTT, não apresenta prazo para emissão da notificação de autuação, motivo pelo qual se aplica ao caso o disposto no artigo1º, da Lei nº 9.873/99.
+7. A Resolução ANTT nº 442/2004 e a Lei nº 9.784/1999, não estipulam nenhuma consequência jurídica para o descumprimento dos prazos previstos para que a autoridade administrativa decida o feito, tratando-se, portanto, de prazos impróprios. Assim, sua eventual inobservância não enseja a nulidade do processo administrativo.
+8. A alegação de ausência de motivação das decisões proferidas em sede administrativa também não se coaduna com o que é visto nos processos administrativos. Os atos decisórios se mostram claros e coerentes, tendo as autoridades julgadoras enfrentado todos os argumentos apresentados pela empresa autuada. Não há, portanto, nenhum vício a macular as referidas decisões.
+9. Não há a alegada nulidade dos processos administrativos em razão da ausência de intimação para apresentação de alegações finais. As infrações praticadas pela apelante são apuradas, nos termos da Resolução ANTT nº 442/04, mediante processo administrativo simplificado, que não prevê a possibilidade de apresentação de alegações finais.
+10. O fato de o regulamento do processo administrativo no âmbito da ANTT não prever o julgamento do recurso por um órgão colegiado também não importa em nulidade ou causa prejuízo à defesa. Não há nenhuma imposição legal ou constitucional obrigando que o julgamento dos recursos administrativos seja feito por órgão colegiado ou turma julgadora.11. O Superior Tribunal de Justiça pacificou o entendimento de que as agências reguladoras foram criadas para regular, em sentido amplo, os serviços públicos. Havendo expressa previsão, na legislação ordinária, delegando à agência a competência para criação de normas e regulamentos, não se vislumbra violação ao princípio da legalidade. Nesse sentido: STJ - REsp 1807533/RN; AgInt no REsp 1620459/RS; e AgRg no AREsp 825.776/SC.
+12. No caso da ANTT, o art. 24, XVIII, da Lei nº 10.233/01, autoriza expressamente a criação, pela agência, de normas versando sobre infrações, sanções e medidas administrativas aplicáveis aos serviços de transporte. Os arts. 78-A e 78-F, da Lei nº 10.233/01, por sua vez, trazem as balizas legais para essa criação.
+13. Não se verifica a violação à taxatividade. As infrações descritas na Resolução ANTT nº 3.075/2009 permitem que se identifique perfeitamente as condutas que se procura proibir ou impor e as penas aplicáveis em caso de descumprimento do disposto nas normas.
+14. Não é correta a afirmação de que a Resolução ANTT nº 3.075/09 não prevê gradação na aplicação das multas. As penalidades previstas no mencionado ato normativo correspondem ao patamar mínimo para cada infração, podendo ser majoradas, em caso de reincidência, nos percentuais nela estabelecidos.
+15. Foram instaurados 02 (dois) processos administrativos em razão da verificação, pelos agentes fiscais da ANTT, da prática de condutas que constituem infrações à legislação de transporte. Porém, não foi trazido aos autos deste processo judicial nenhum elemento capaz de afastar qualquer uma das autuações.
+16. Não deve ser provida a alegação de que os autos de infração vieram desacompanhados de elementos mínimos que comprovassem a prática das condutas neles descritas. Em todos os casos, as infrações foram constatadas pelos fiscais da ANTT no próprio local, sendo que os atos praticados pelos agentes públicos no exercício de suas funções são dotados de presunção de legalidade e veracidade.
+17. Diante da ausência de elementos capazes de comprovar a veracidade das alegações da apelante, deve prevalecer aquilo que foi atestado pela fiscalização. Os autos de infração, como atos administrativos que são, gozam de presunção de legitimidade, cabendo ao interessado demonstrar que ocorreu ilegalidade (STJ - AgRg na SLS 1.807/RJ).
+18. A CDA preenche todos os requisitos estabelecidos no art. 2º, §5º, da Lei nº 6.830/80, não havendo nenhuma mácula no documento. O fato de não ter sido feita a correlação de cada um dos créditos com seu respectivo fundamento legal não implica em nulidade, pois a lei não exige este nível de detalhamento.
+19. Apelação desprovida.
+Aduzem asagravantes em seu Recurso Especial:
+Conforme exposto na inicial e nas razões de apelação, a forma com que a Resolução ANTT nº 3.075/09 comina sanções às infrações viola frontalmente o princípio da proporcionalidade, recepcionado pela Constituição Federal em diversos dispositivos, em especial no art. 5º, XLVI, segundo o qual "a lei regulará a individualização da pena".
+(..)
+Logo, como não há previsão de uma sanção proporcional à hipótese individualizada, mas apenas a aplicação linear da penalidade em qualquer circunstância, exsurge flagrante a ilegalidade da Res. 3.075/09 para a cominação de sanções, não havendo como admitir a sua imposição no caso concreto.
+(..)
+Em todos os autos de infração impugnados percebe-se que os fiscais da ANTT não realizaram uma ponderação entre as circunstâncias fáticas, gravidade e natureza da infração, assim como os eventuais danos, tanto para os passageiros quanto para a execução do serviço. Também não avaliaram agravantes e atenuantes para fins de imposição da penalidade.
+(..)
+No caso concreto, ainda que se considere que seja constitucional a imputação de infrações administrativas pela ANTT, é preciso que se reconheça que os processos administrativos que lhes deram origem encontram- se repletos de vícios decorrentes de frontais violações às próprias normas que estabelecem o procedimento da ANTT (Resolução nº 440/2004 e, agora, Resolução 5.083/2016) e, inclusive, à Lei Federal do Processo Administrativo (Lei nº 9.784/1999), vícios que maculam gravemente as garantias mais básicas de um processo sancionatório.
+(..)
+Com a devida venia, a simples alegação de que o Agente Fiscal é imbuído de presunção de legitimidade dos atos administrativos não pode justificar a aplicação de infrações sancionatórias, desassistidas de um mínimo suporte documental, ainda mais quando as infrações são "abertas", como as estabelecidas na Res. 3.075/09.
+O juízo de admissibilidade negativo (fls. 663-665, e-STJ) deu ensejo à interposição do presente Agravo (fls. 680-687, e-STJ).
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 22.9.2022.
+A irresignação não merece prosperar.
+A parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não refuta os fundamentos do mérito da decisão recorrida, que não admitiu o Recurso Especial em razão do prescrito na Súmula 7/STJ.
+Não se conhece de Agravo que não ataca especificamente todos os pontos do acórdão recorrido, de forma a demonstrar que o entendimento esposado merece modificação. Para isso, não bastam alegações genéricas em sentido contrário às afirmações do decisum agravado. Dessa forma, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. (PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. PORTARIA DO DETRAN QUE INSTITUIU O MANUAL DE PROCEDIMENTO DE REGISTO E LICENCIAMENTO DE VEÍCULOS. GRAVAME DE RESERVA DE DOMÍNIO. ANOTAÇÃO QUE SÓ PODE SER CONSIGNADA EM FAVOR DO ANTERIOR PROPRIETÁRIO. EXIGÊNCIA LEGAL. ART. 123, I, DO CTB. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. SUMULA 282 E 356 DO STF). FALTA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INTELIGÊNCIA DA SÚMULA 182/STJ.
+1. Revela-se inviável a análise do Agravo Regimental, cuja fundamentação não impugna especificamente os fundamentos da decisão agravada, in casu, a ausência de prequestionamento do dispositivo legal apontado como violado ante a incidência inarredável da Súmula 182 do STJ, que preceitua o seguinte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+2. Agravo Regimental não conhecido.
+(AgRg no REsp 753.564/SC, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJ 21/5/2007, p. 545)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. CONTESTAÇÃO NÃO APRECIADA. MEDIDA CAUTELAR. INCIDENTE PROCESSUAL.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada torna inviável o agravo regimental. Aplicação da Súmula 182 do Superior Tribunal de Justiça.
+1. É manifestamente inadmissível o agravo cujas razões recursais não atacou o fundamento da decisão impugnada, ante à ausência de pressuposto recursal genérico.
+2. Incidência da Súmula 182/STJ.
+3. Agravo regimental não conhecido.
+(AgRg no REsp 840.007/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJ 18/5/2007, p. 319)
+CREDITAMENTO DE ICMS. AGRAVO DE INSTRUMENTO. INADMISSÃO DO RECURSO ESPECIAL SÚMULA Nº 07/STJ. ARGUMENTO NÃO REFUTADO. SÚMULA Nº 182/STJ.
+I - O agravante, em suas razões recursais, não atacou o da decisão turmária importaria no óbice da súmula 7/STJ, e verificando que tal fundamento é suficiente de per si para a inadmissão do agravo, tem-se inviabilizado o seguimento do agravo de instrumento, haja vista o teor da súmula 182/STJ.
+II - Agravo regimental improvido.
+(AgRg no Ag 752.308/SP, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA TURMA, DJ 26/4/2007, p. 217)
+PROCESSUAL CIVIL. FUNDAMENTO INATACADO. FALTA DE PREQUESTIONAMENTO. SÚMULAS 182 E 211/STJ.
+1. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo" (Súmula 211/STJ).
+2. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+3. Agravo regimental improvido.
+(AgRg no REsp 849.848/PB, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, DJ 16/10/2006, p. 355)
+Ante o exposto, não conheço do Agravo em Recurso Especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se.
+Intimem-se.
