@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por LEANDRO ISAQUE AULER eSÉRGIO DA SILVA CARVALHO, com fundamento naalínea"a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MISNAS GERAIS, assim ementado (e-STJ, fl. 253):
+"APELAÇÃO - FALSIDADE IDEOLÓGICA E USO DE DOCUMENTO FALSO - INÉPCIA DA DENÚNICA - NÃO OCORRÊNCIA - AUSÊNCIA DE DOLO - DESCABIMENTO - ATIPICIDADE - INOCORRÊNCIA - AUSÊNCIA DE LESIVIDADE - IMPOSSIBILIDADE - REDUÇÃO DAS PENAS OU ABRANDAMENTO DO REGIME - INVIABILIDADE. Observado que a denúncia preenche os requisitos previstos no art. 41 do CPP, individualizando a conduta atribuida a cada um dos acusados, o que possibilitou que eles se defendessem eficazmente dos fatos que lhe foram imputados, não há que se falar em sua inépcia. Impõe-se o afastamento da tese de ausência de dolo quando as provas comprovarem sua presença. Inviável o acolhimento da tese de ausência de lesividade quando verificada a ocorrência de lesão ao bem jurídico. A pena-base deve ser mantida quando as circunstâncias forem devidamente analisadas e o quantum se mostrar adequado Deve-se manter o regime quando for verificado que sua fixação obedeceu aos ditames do art. 33 do CP."
+Em suas razões recursais, a parte recorrente aponta violação dosarts.395, Ie II do CPP, 21, 299 e 304 do CP. Requer, em síntese, o reconhecimento da atipicidade da conduta e que seja reduzida a pena.
+Com contrarrazões (e-STJ, fls. 278-281), o recurso especial foi inadmitido na origem (e-STJ, fls. 283-284), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimentodo agravo (e-STJ, fls. 308-311).
+É o relatório.
+Decido.
+A decisão que inadmitiu o recurso especial na origemfoi pautada na incidência daSúmula284/STF.
+Neste recurso, entretanto, o agravante deixou de impugnareste fundamentoda decisão de inadmissibilidade da Corte de origem, não tendo apresentadoos motivos pelos quais o acórdãoteria violado os dispositivos legais apontados, nos termos da Súmula 284/STF. Esse proceder viola o princípio da dialeticidade e torna inadmissível o agravo, nos termos da Súmula 182/STJ.
+A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. PRELIMINAR DE PRESCRIÇÃO. EXAME DE OFÍCIO. ART. 61 DO CPP. NÃO IMPLEMENTO DO PRAZO PRESCRICIONAL ENTRE OS MARCOS INTERRUPTIVOS. 2. ACÓRDÃO CONFIRMATÓRIO. MARCO INTERRUPTIVO. TESE FIRMADA PELO PLENÁRIO DO STF. HC 176.473/STF. 3. RECURSO ESPECIAL NÃO ADMITIDO. AGRAVO NÃO CONHECIDO. TRÂNSITO EM JULGADO QUE RETROAGE. ARESP 386.266/SP. 4. NEGATIVA DE SEGUIMENTO AO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO A TODOS FUNDAMENTOS DA DECISÃO. CORRETA INCIDÊNCIA DA SÚMULA 182/STJ. 5. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+4. A decisão agravada não conheceu do agravo em recurso especial, porque o recorrente se limitou a repetir, na íntegra, os termos do recurso especial. Como é de conhecimento, a ausência de impugnação específica e pormenorizada dos fundamentos da decisão que não admite o recurso especial inviabiliza o conhecimento do agravo, por violação do princípio da dialeticidade, uma vez que os fundamentos não impugnados se mantêm. Dessa forma, mostra-se correta a incidência do enunciado n. 182 da Súmula desta Corte, o que impede o provimento ao presente agravo regimental.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1260918/MA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/05/2020, DJe 19/05/2020)
+Por conseguinte, a Súmula 182/STJ impede o conhecimento da irresignação recursal.
+Ante o exposto, com fundamento no art. 253, parágrafo único, I, do Regimento Interno do STJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
