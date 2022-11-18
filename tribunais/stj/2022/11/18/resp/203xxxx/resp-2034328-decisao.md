@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL contra acórdão assim ementado:
+TRIBUTÁRIO. APELAÇÃO CÍVEL E REMESSA NECESSÁRIA. IMUNIDADE TRIBUTÁRIA. ART. 195, §7º DA CONSTITUIÇÃO FEDERAL. REQUISITOS. ART. 29 DA LEI N.º 12.101/2009. CEBAS. TERMO INICIAL. CONTRIBUIÇÕES DESTINADAS A TERCEIROS. ISENÇÃO. LEI N.º 11.457/2007.
+1. À luz do entendimento assentado pelo Supremo Tribunal Federal no julgamento do RE 566.622/RS, bem como da ADI n.º 4.480, a fruição da imunidade tributária prevista no art. 195, §7º, da Constituição Federal demanda, atualmente, o preenchimento dos requisitos previstos no art. 29 da Lei n.º 12.101/2009, à exceção do inciso VI daquele dispositivo, porquanto declarado inconstitucional pelo STF.
+2. Ante a declaração de inconstitucionalidade do art. 31 da Lei n.º12.101/2009, o termo inicial da imunidade deve retroagir ao exercício fiscal anterior àquele em que realizado o protocolo de concessão ou renovação do certificado de entidade beneficente e de assistência social da entidade, na linha do que prevê o art. 3º do mesmo diploma legal.
+3. Caso em que, demonstrado pela entidade demandante o preenchimento dos requisitos constantes do art. 29 da Lei n.º 12.101/2009, é devida a concessão da imunidade tributária prevista no art. 195, §7º, da Constituição Federal.
+4. Relativamente às contribuições ao SENAC, SESC e SEBRAE e INCRA, a Lei nº 11.457/07, em seu art. 3º, § 5º, expressamente previu isenção em relação às contribuições destinadas a terceiros para entidades que gozam de imunidade quanto às contribuições previdenciárias, hipótese dos autos.
+Atribuiu-se à causa o valor de R$ 529.950,76 em junho de 2018.
+Os embargos de declaração opostos foram rejeitados.
+Em seu recurso especial, a recorrente suscitou contrariedade ao art. 1.022, II, do CPC/2015, aduzindo que o Tribunal de origem, a despeito da oposição dos aclaratórios, não se manifestou acerca de questões essenciais ao deslinde da controvérsia.
+Em seguida, ainda em suas razões de insurgência, apontou como violado o art. 373, I, do CPC 2015, sustentando, em síntese, que "não há nos autos demonstração do cumprimento, pela demandante, de todos os requisitos legais, estabelecidos na legislação referida".
+É o relatório. Decido.
+Não cabe ao STJ, com vistas a examinar suposta ofensa ao art. 1.022 do novo CPC (art. 535 do CPC/73), aferir a existência ou não de omissão no acórdão recorrido acerca de matéria constitucional.
+A alegação de nulidade do acórdão recorrido, porquanto deixou de apreciar questão de natureza constitucional, refoge à competência do Superior Tribunalde Justiça.
+Com efeito, a jurisprudência desta Corte fixou-se no sentido de "não caber ao STJ, com vistas a examinar suposta ofensa ao art. 535 do CPC/73, aferir a existência ou não de omissão no Tribunal de origem acerca de matéria constitucional, sob pena de usurpação da competência do STF" (AgInt nos EAREsp n. 731.395/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 9/10/2018).
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.679.519/SE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 26/4/2018; REsp n. 1.527.216/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 13/11/2018; e AgRg no Resp n. 961.258/CE, relator Ministro Napoleão Nunes Maia Filho, Quinta Turma, DJe de 13/12/2010.
+Quanto ao art. 373, I, do CPC 2015, alegando ausência de demonstração dos requisitos legais, é irrefutável que o Tribunal de origem, ao apreciar o conteúdo fático e probatório dos autos, consignou expressamente que "restam preenchidos, portanto, os requisitos constantes do art. 29 da Lei nº 12.101/2009, razão pela qual se impõe o reconhecimento do direito à imunidade tributária".
+Dessa forma, para rever tal posição, relativo à demonstração dos referidos requisitos, e interpretar o dispositivo legal indicado como violado, seria necessário o reexame dos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
