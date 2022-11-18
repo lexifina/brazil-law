@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por UNIMED PELOTAS/RS COOPERATIVA DE ASSISTÊNCIA A SAÚDE LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+AGRAVO DE INSTRUMENTO. SEGUROS. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. OBSERVÂNCIA DOS EXATOS LIMITES DECIDIDOS REDISCUSSÃO. IMPOSSIBILIDADE.
+1. Inviável neste momento processual a modificação dos critérios definidos na origem.
+2. Hipótese de apólice de seguro genérica, sem indicação do valor da cobertura. Atribuição do valor da causa como montante segurado.
+Ausência de impugnação da ré no momento oportuno. Questão preclusa.
+3. Inocorrência de ofensa aos princípios da ampla defesa e devido processo legal.
+RECURSO DESPROVIDO (fl. 168).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação dos arts. 11 e 489, §1º, do CPC e 5º, XXXV e LX, da CF/88, no que concerne à ausência de fundamentação do aresto objurgado, trazendo os seguintes argumentos:
+Nesse caso, importa que seja destacada a violação à legislação processual civil perpetrada através da admissão pelo tribunal a quo do arbitramento do valor do seguro (indenização) pelo juízo da origem, que, por sua vez, carente de fundamentação jurídica suficiente para embasá-la, arbitrou o montante devido sem qualquer respaldo normativo vigente, verificando-se uma verdadeira afronta aos arts. 11 e 489, §1º, do Código de Processo Civil Brasileiro.
+ ..
+Ora Excelências, são gritantes as graves violações às normativas contidas nos artigos 11 e 489, §1º, do CPC, que são específicas e cristalinas ao disporem que todos os julgamentos dos órgãos do Poder Judiciário deverão ser públicos, devendo ser fundamentadas todas as decisões, sob pena de nulidade.
+ ..
+Da mesma forma, mostra-se clara a afronta ao artigo 5º da Constituição Federal, nos seus dispositivos atinentes à garantia ao devido processo legal e à ampla defesa (incisos XXXV e LX), eis que obstruída a possibilidade de propositura do instrumento recursal pertinente, já que decisão interlocutória alguma foi prolatada e, nos termos do art. 1.015 do Código de Processo Civil, não cabe recurso de agravo de instrumento contra despachos de mero expediente.
+Sendo assim, não se pode admitir que, sem a devida fundamentação jurídica, uma decisão judicial liquide o montante devido sobre o valor da causa, desmedidamente, sem qualquer manifestação da parte contrária a respeito, tampouco intimação para o transcurso do prazo recursal apropriado. (fls. 189/194).
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
