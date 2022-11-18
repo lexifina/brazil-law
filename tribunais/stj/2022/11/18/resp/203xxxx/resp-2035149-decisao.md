@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional doSeguro Social - INSS com fundamento nas alíneas "a" do permissivoconstitucional, contra acórdão do Tribunal Regional Federal da 4ª Região,assim ementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. CERCEAMENTO DE DEFESA. DOCUMENTOS NOVOS. SEDE RECURSAL. TEMPO DE SERVIÇO ESPECIAL. APOSENTADORIA ESPECIAL. NÃO CONCESSÃO. PEDIDOSUCESSIVO. CONVERSÃO DE TEMPO ESPECIAL EM COMUM. COISAJULGADA. APOSENTADORIA POR TEMPO DESERVIÇO/CONTRIBUIÇÃO. REVISÃO. PRESCRIÇÃO QUINQUENAL. CORREÇÃO MONETÁRIA E JUROS DE MORA. PERCENTUAIS DESUCUMBÊNCIA. TUTELA ESPECÍFICA.
+1. Sendo a prova dirigida ao Juízo, não se configurará cerceamento de defesa se este entender que o conjunto probatório trazido aos autos é suficiente à formação de seu convencimento, permitindo o julgamento da causa, nos termos do art. 355, I, do CPC.
+2. Não havendo justificativa convincente para apresentação tardia dos documentos novos, devem ser afastadas as provas tardiamente acostadas.
+3. Comprovada a exposição do segurado a agente nocivo, na forma exigida pela legislação previdenciária aplicável à espécie, possível reconhecer-se a especialidade da atividade laboral por ele exercida.
+4. Não tem direito à aposentadoria especial o segurado que nãopossui tempo de serviço suficiente à concessão do benefício.5. Aplicada, de ofício, a coisa julgada sobre a possibilidade deconversão de tempo especial em comum a contar de 29/05/1998.6. Considerado o pedido sucessivo, o segurado tem direito à revisãoda aposentadoria por tempo de serviço/contribuição.
+7. A interrupção da prescrição ocorrida na ação anterior diz respeito somente ao que foi objeto daquela ação, não se estendendo ao objeto desta.
+8. Correção monetária a contar do vencimento de cada prestação, calculada pelo INPC, para os benefícios previdenciários, a partir de 04/2006, conforme o art. 31 da Lei n.º 10.741/03, combinado com a Lei n.º 11.430/06, precedida da MP n.º 316, de 11/08/2006, que acrescentou o art. 41-A à Lei n.º8.213/91.
+9. Juros de mora simples a contar da citação (Súmula 204 do STJ),conforme o art. 5º da Lei 11.960/2009, que deu nova redação ao art.1º-F da Lei9.494/1997.
+10. Adequados os percentuais de sucumbência.
+11. Determinado o imediato cumprimento do julgado.
+Opostos embargos de declaração, rejeitados.
+Em suas razões de recurso especial, fundamentado na alínea "a"do permissivo constitucional, sustenta o recorrente a violação aosartigos 1.022 do CPC/2015, artigos 85, caput, e 927, III do CPC, e artigos389 do CC.
+Aponta negativa de prestação jurisdicional, ao argumento de que oacórdão foi omisso quanto: à impossibilidade de condenação emhonorários advocatícios. Acrescenta que não se insurgiu quanto apossibilidade de reafirmação da DER, nem tampouco houve descumprimento daobrigação reconhecida pelo juízo, razão pela qual não são devidoshonorários ao patrono do autor.
+O prazo para apresentação de contrarrazões ao recurso especial transcorreu in albis.
+É o necessário relatar.
+Passo a decidir.
+Preliminarmente, afasto a apontada violação ao art. 1022 do CPC/2015.No caso em questão, inexistem omissão, contradição, obscuridade ouerro material, uma vez que, pela leitura do inteiro teor do acórdãoembargado, depreende-se que este apreciou devidamente a matéria em debatee analisou de forma exaustiva, clara e objetiva as questões relevantespara o deslinde da controvérsia.
+Quanto aos honorários, observa-se que o Tribunal de origem concluiu que,ainda que o INSS não tenha impugnado o pedido de reafirmação da DER, elese opôs aos demais pedidos do ora recorrido.
+Nesse contexto, acolher a pretensão recursal para analisar o princípioda causalidade, requer o revolvimento da matéria de fato,providência inviável em sede de recurso especial, por ambas as alíneas dopermissivo constitucional, em razão do óbice contido na Súmula 7/STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. ART. 85, §§2º AO 6º, DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+(..)
+4. O acórdão recorrido consignou: "O Juízo a quo proferiu sentença,em 25/07/2017, extinguindo a execução fiscal na forma do art. 26 da Leinº 6.830/80, sem a condenação da União ao pagamento dehonorários advocatícios. A sentença deve ser mantida. Como já dito acima,de acordo com o princípio da causalidade, o relevante é aferir quem deucausa ao ajuizamento da ação. E não há dúvidas de que, no caso, foi opróprio Executado, na medida em que o débito era devido no momentopropositura da execução. Tanto é assim que o Executado não questionou emmomento algum a imposição dos "honorários previdenciários", limitando-se adefender que estavam abrangidos pela expressão "encargos legais" e,portanto, pela remissão prevista na Lei nº 11.941/09. A demora da União emrequerer a extinção da ação - corretamente ajuizada - não é suficientepara que lhe sejam transferidos os ônus sucumbenciais. Além disso, ademora foi justificada, na medida em que, de fato, havia controvérsiajurisprudencial sobre a possibilidade ou não de dispensa do pagamento dehonorários com base na norma remissiva" (fl. 530, e-STJ).
+5. Nos termos da jurisprudência do STJ, a condenação emhonorários advocatícios pauta-se pelo princípio da causalidade, de modoque somente aquele que deu causa à demanda ou ao incidente processual équem deve arcar com as despesas deles decorrentes.
+6. A jurisprudência do STJ é no sentido de que a revisão do quefoi decidido pelas instâncias ordinárias acerca da aplicação do princípioda causalidade só seria possível mediante reexame do acervo probatóriodos autos, o que não é adequado em Recurso Especial, por força daSúmula 7/STJ.
+7. Recurso Especial não conhecido.
+(REsp 1809073/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgadoem 21/05/2019, DJe 17/06/2019)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c oart. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e,nessa extensão, nego-lhe provimento. Caso exista nos autos prévia fixaçãode honorários advocatícios pelas instâncias de origem, determinosua majoração em desfavor da parte recorrente, no importe de 15% sobre ovalor já arbitrado, percentual esse justificado pelo tempo decorrido entrea interposição do recurso e julgamento e a complexidade da causa, nostermos do art. 85, § 11, do Código de Processo Civil. Os limitespercentuais previstos nos §§ 2º e 3º do referido dispositivo legal devemser observados.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DOARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. REAFIRMAÇÃO DA DER (DATA DEENTRADA DO REQUERIMENTO). HONORÁRIOS ADVOCATÍCIOS EM FACE DA SUCUMBÊNCIAVERIFICADA. DISCUSSÃO SOBRE O PRINCÍPIO DA CAUSALIDADE. QUESTÃO ATRELADAAO REEXAME DE MATÉRIA DE FATO. ÓBICE DA SÚMULA 7/STJ. RECURSO ESPECIALPARCIAMENTE CONHECIDO PARA, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
