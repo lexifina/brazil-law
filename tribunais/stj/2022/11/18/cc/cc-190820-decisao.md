@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado entre o Juízo Federal da 16ª Vara Cível de Brasília - SJ/DF e o Juízo Federal da 13ª Vara Cível de São Paulo - SJ/SP, nos autos de Mandado de Segurança impetrado pelo interessado contra a Coordenação-Geral de Política Migratória do Departamento de Migrações da Secretaria Nacional de Justiça, autoridade coatora, que possui sede em Brasília.
+O Juízo suscitadodeclinou da competência, ao fundamento de que "em se tratando de Mandado de Segurança, é cediço que a competência territorial se define pela sede da autoridade impetrada".Para embasar a sua decisão, utilizou-se de precedente do Tribunal Regional Federal da 3º Região.
+Por sua vez, o Juízo suscitante, com fundamento em precedentes do STF e do STJ, também se declarou incompetente, argumentando: "Entendo, assim, que a parte impetrante exerceu faculdade constitucionalmente assegurada ao impetrar o mandado de segurança no foro de seu domicílio".
+Instado a se manifestar, o Ministério Público Federalopinou pelo "conhecimento do presente conflito de competência, para declarar a competência do Juízo Federal da 13º Vara Cível Federal de São Paulo/SP, o suscitado".
+O Juízo suscitado prestou informações às fls. 73-74, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17.10.2022.
+A questio iuris posta nos autos já está há algum tempo pacificada no Supremo Tribunal Federal e no Superior Tribunal de Justiça, daí a importância dos operadores do direito conhecerem os precedentes das Cortes de vértice.
+A controvérsia cinge-se em determinar se o autor do writpode optar pelo foro do seu domicílio para impetrar Mandado de Segurança contra órgão do Ministério da Justiça, sediado em Brasília/DF.
+No caso, figura no polo passivo do mandamus, como impetrada, a União, com sede funcional nesta Capital, o que, em regra, determinaria a competência da Seção Judiciária do Distrito Federal para o processamento do feito.
+O § 2º do art. 109 da Constituição Federal descreve que "as causas intentadas contra a União poderão ser aforadas na seção judiciária em que for domiciliado o autor, naquela onde houver ocorrido o ato ou fato que deu origem à demanda ou onde esteja situada a coisa, ou, ainda, no Distrito Federal".
+Em recente julgado, o STJ, alinhando-se à jurisprudência do Pretório Excelso, firmou posicionamento de que, inclusive em relação aos Mandados de Segurança, prevalece a regra constitucional de que as ações intentadas contra a União poderão, de acordo com a opção do autor, ser ajuizadas perante os juízos indicados no art. 109, § 2º, da Constituição Federal.
+O ordenamento constitucional, neste aspecto, objetiva facilitar o acesso ao Poder Judiciário da parte quando litiga contra a União.Assim sendo, é legítima a opção da parte autora de que o feito ajuizado seja processado no foro de seu domicílio.A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONFLITO DE COMPETÊNCIA. FACULDADE DO IMPETRANTE A ESCOLHA DO FORO PARA PROPOSITURA DE AÇÃO MANDAMENTAL CONTRA AUTORIDADE FEDERAL. ART. 109, § 2º, DA CONSTITUIÇÃO FEDERAL.
+I - Inicialmente, trata-se de conflito de competência suscitado no mandado de segurança impetrado pela Associação Paulista dos Auditores Fiscais da Receita Federal do Brasil contra ato atribuído ao Secretário da Receita Federal do Brasil e Secretário de Gestão de Pessoas do Ministério do Planejamento, Desenvolvimento e Gestão - MPDG objetivando provimento jurisdicional para assegurar aos Auditores Fiscais inativos e/ou pensionistas o imediato pagamento do Bônus Eficiência e Produtividade na Atividade Tributária e Aduaneira (BEPATA), previsto na Lei n. 13.464/2017, de forma equiparada aos valores percebidos pelos auditores fiscais ativos, em grau máximo.
+II - O Superior Tribunal de Justiça tem entendimento assentado de que, com o objetivo de facilitar o acesso ao Poder Judiciário da parte que litiga contra a União, é faculdade do impetrante a escolha do foro para propositura de ação mandamental contra autoridade federal, a teor do disposto no art. 109, § 2º, da Constituição Federal. Nesse sentido, os seguintes precedentes: CC n. 135.905/CE, Rel. Ministro Sérgio Kukina, Primeira Seção, julgado em 8/4/2015, DJe 10/4/2015; RE n. 627.709, Rel. Min. Ricardo Lewandowski, Processo Eletrônico Repercussão Geral, DJe de 30/10/2014.
+III - No mesmo sentido, destacam-se: CC n. 156.729/DF, Rel. Min. Herman Benjamin, DJ 25/8/2018; CC n. 137.408/DF, Rel. Min. Benedito Gonçalves, DJe 13/3/2015; e, CC n. 145.758/DF, Rel. Min. Mauro Campbell Marques, DJe 30/3/2016; CC n. 137.249/DF.
+IV - Agravo interno improvido.(AgInt no CC 163.905/DF, Rel. Ministro FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe 4/6/2019).
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. AGRAVO INTERNO. PROCESSAMENTO E JULGAMENTO DE MANDADO DE SEGURANÇA. JUÍZO DO DOMICÍLIO DO IMPETRANTE. POSSIBILIDADE. JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça, em alinhamento com o Supremo Tribunal Federal, reconhece a possibilidade de o mandado de segurança ser impetrado no foro do domicílio do impetrante, quando referente a ato de autoridade integrante da Administração Pública federal, ressalvada a hipótese de competência originária de Tribunais.
+2. Agravo interno não provido.
+(AgInt no CC 179.209/DF, relator Ministro Mauro Campbell Marques, Primeira Seção, DJe de 19/8/2022.)
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. MANDADO DE SEGURANÇA. CAUSAS CONTRA A UNIÃO. FORO DO DOMICÍLIO DO IMPETRANTE. OPÇÃO.
+1. Tendo em vista o entendimento do STF, o STJ reviu seu posicionamento anterior e, visando facilitar o acesso ao Poder Judiciário, estabeleceu que os mandados de segurança também podem ser ajuizados perante os juízos indicados no art. 109, § 2º, da Constituição Federal.
+2. Caberá, portanto, à parte impetrante escolher o foro em que irá propor a demanda, podendo ajuizá-la no de seu domicílio, já que o texto constitucional não faz distinção entre o tipo de ação para a aplicação dessa regra, o que não justifica sua não incidência em sede de mandado de segurança.
+3. Agravo interno desprovido.
+(AgInt no CC 187.599/SP, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 31/8/2022.)
+Ante o exposto, conheço do Conflito para declarar competente o Juízo Federal da 13ª Vara Cívelde São Paulo - SJ/SP, o suscitado.
+Publique-se.
+Intimem-se.
