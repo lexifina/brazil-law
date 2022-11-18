@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de origem em razão do não desmembramento do processo.
+Consta dos autos que o paciente responde pela prática do crime tipificado no art. 121, § 2º, I e IV, na forma dos arts. 29 e 62, I, do Código Penal e art. 35 da Lei n. 11.343/2006.
+Sustenta o impetrante que o paciente se encontra preso em caráter preventivo por mais de 846 dias. Aduz haver excesso de prazo na condução do Recurso em Sentido Estrito - Processo n. 1.0024.20.037119-3/002, uma vez que não foi admitido em 04/11/2021. Na oportunidade, aduz que restou determinado o desmembramento do processo e que até o momento o processo não foi desmembrado, inexistindo manifestação judicial quanto à necessidade da sua prisão preventiva, na forma do art. 316 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura.
+A liminar foi indeferida. Prestadas as informações, o Ministério Público Federal opinou pela concessão parcial da ordem "apenas para que seja determinado o desmembramento do processo e sejam adotadas providências para que se inicie a fase de preparação para o julgamento da ação penal no Plenário do Tribunal do Júri" (fl. 1850).
+Aos prazos consignados na lei processual deve-se atentar o julgador às peculiaridades de cada ação criminal. Com efeito, uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência indevida de coação.
+Conforme informações prestadas pelo Juízo de origem (fls. 1862-1863) e extraída dos presentes autos, os fatos são de 30/01/2020, a denúncia foi recebida em 10/07/2020, a decisão de pronúncia foi proferida em 05/11/2020, o recurso em sentido estrito foi julgado improcedente em 19/08/2021,o julgamento dos embargos de declaração do recurso em sentido estrito ocorreu em 04/11/2021 e o trânsito em julgado dele ocorreu em 07/12/2021.
+Embora a defesa alegue demora no desmembramento do processo determinado pelo Tribunal estadual, para que a ação pudesse continuar a tramitar no juízo de origem, somente em 30/05/2022 ela apresentou manifestação requerendotal providência. Em seguida, em 01/09/2022, foi proferido despacho determinandoo desmembramento dosautos e a devolução à vara de origem, o que efetivamente ocorreu em 04/10/2022.
+Atualmente, o processo se encontra aguardando a manifestação da defesa acerca do art. 422 para que o processo seja relatado e designada a sessão de Júri.
+A despeito da demora do desmembramento da ação, não há que se falar em excesso de prazo na formação da culpa, tendo em vista o regular andamento da marcha processual desde o seu início, bem como a sua pronta retomada assim que retornou à vara de origem.
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
