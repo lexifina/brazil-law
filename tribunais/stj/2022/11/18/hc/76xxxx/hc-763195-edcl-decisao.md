@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaraçãoopostos em favor de WILIAN ANDREGHETONIcontra decisão monocráticaque não conheceu do habeas corpus, impetrado contra o acórdão proferido pelo eg. Tribunal de Justiça do Estado de Santa Catarina.
+Nas razões dos embargos, o embargante sustenta que"a fixação do regime concedido ao Corréu José Roberto Crepas foi matéria aventada pela defesa no Recurso de Apelação constante no Evento 12da Apelação Criminal, bem como referida extensão do julgado foi objeto de Embargos de Declaração no Evento 44 dos autos originários, conforme também consta das informações prestadas pelo Tribunal de origem às fls. 143 do HC."
+Para tanto, juntou o acórdão referente ao julgamento dos embargos opostos na origem (fls. 271-288).
+Postula, ao final, sejam sanadas as alegadas omissões, dando provimento aos embargos, concedendo-lhes efeitos modificativos (fls. 264-267).
+É o relatório.
+Decido.
+Preambularmente, convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+O parágrafo 1º, do art. 264, do RISTJ, por sua vez, dispõe que: "Os embargos de declaração serão incluídos em pauta, salvo se opostos nas classes previstas no art. 91 deste Regimento ou nas demais classes criminais. § 1º Se os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal, o Órgão Julgador da decisão embargada decidi-los-á monocraticamente."
+O embargante sustenta que "a fixação do regime concedido ao Corréu José Roberto Crepas foi matéria aventada pela defesa no Recurso de Apelação constante no Evento 12da Apelação Criminal, bem como referida extensão do julgado foi objeto de Embargos de Declaração no Evento 44dos autos originários, conforme também consta das informações prestadas pelo Tribunal de origem às fls. 143do HC."
+Para tanto, juntou o acórdão referente ao posterior julgamento dos embargos opostos na origem.
+Conforme consta nadecisão embargada, acerca do punctum saliens, considerando que à época da impetração do presente habeas corpus,o eg. Tribunal de origem ainda não havia se pronunciado acerca da tese de violação ao art. 580 do CPP, esta Corte Superior ficou impedida de se debruçar sobre a matéria, sob pena de indevida supressão de instância.
+Nesse compasso, não há omissão no julgado, pois acerca do presente writ, impetrado contra o acórdão que julgou a apelação, a Corte de origemnão se pronunciou sobre a exarada violação ao art. 580 do CPP,de modo que, posteriormente, houve o julgamento dos embargos em que houve a análise da citada tese. Assim, não há que falar em omissão quando à época da impetração deste writ, não havia pronunciamentoda Corte a quo sobre a tese deviolação ao art. 580 do CPP.
+Com efeito, não houve omissãono decisum, de modo que, demais ilações a respeito da insurgência do embargante, acarretará no reexame de matéria já julgada, situação que não se coaduna com a estreita via dos declaratórios.
+Ante o exposto,rejeitos os embargos de declaração.
+P. e I.
