@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão assim ementado (fl. 12):
+APELAÇÃO PENAL. TRÁFICO DE DROGAS. PLEITO ABSOLUTÓRIO. INSUFICIÊNCIA DE PROVAS E IN DUBIO PRO REO. IMPROCEDÊNCIA. PROVAS ROBUSTAS E APTAS.
+RECURSO NÃO PROVIDO. DECISÃO UNÂNIME.
+1 - Não há que se falar em absolvição sob alegação de insuficiência de provas de autoria e materialidade delitivas, de vez que elas se encontram assentes na convergência das provas constantes dos autos, especialmente o Laudo Toxicológico, que atestou tratar-se de mais de 90kg de cocaína, bem como os depoimentos dos policiais que participaram das diligências e, com especial relevo, as confissões em juízo de todos os recorrentes, elementos estes que formam um conjunto probatório coerente e seguro, apto à embasar a sentença vergastada, a qual se sustenta por seus próprios e judiciosos fundamentos.
+2 - RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME.
+Consta dos autosque o paciente foi condenadoem primeiro grau, a uma pena de 8 anos, 1 mês e 6 dias de reclusão, em regime inicial fechado, mais o pagamento de 900 dias-multa, como incurso no artigo 33, §4º, c/c art. 40, V, ambos da Lei 11.343/2006, e àpena de 5 anos e 10 meses, em regime inicial fechado, mais o pagamento de 800dias-multa, como incurso no artigo 35 c/c art. 40, V, da Lei 11.343/2006.
+A defesa interpôs recurso de apelação, tendo e o Tribunal de origem negado a provimento ao recurso defensivo.
+Afirma que "com exceção do fator "grande quantidade"(e do transporte interestadual), todas as outras valorações negativas da primeira fase são inerentes ao tipo penal, sendo absolutamente desproporcional o aumento da pena-base em cinco anos com essas justificativas".
+Sustenta ainda ser necessária a reforma da sentença,no que tange à dosimetria da pena, por ter deixado de aplicar ao paciente a causa de diminuição prevista no § 4º do artigo 33 da Lei nº. 11.343/06, no patamar máximo.
+Requer, liminarmente que o pacienteaguardeo julgamento do presente writ em regime domiciliar e que, no mérito, sua condenação seja reformada, afim de que a pena-base seja fixada no mínimo legal ou com aumento em patamar de 1/6;Aplicação da atenuante da confissão já reconhecida para voltar aos cinco anos na segunda fase da dosimetria;Aplicação do redutor do §4º em seu patamar máximo;Fixação do regime inicial aberto, com a substituição da PPL por PRD, em caso da reprimenda final ser definida em até quatro anos ou, na eventualhipótese de pena acima dos quatro anos, fixação do regime inicial semiaberto;Readequação da pena de multa.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público Federal ofertou parecer, manifestando-se pelo não conhecimento dowrit.
+Pois bem, os pleitos aqui vertidos, de redução da pena-base eo reconhecimento da minorante do tráfico privilegiado, com nova dosimetria penal a partir daí, não forampostos em razão da apelação defensivae, portanto, sequer apreciados junto ao Tribunal de origem, conforme se observa na cópia do acórdão às fls. 12-18, motivo pelo qual os pedidos não serão conhecidosperante esta Corte superior, sob pena de indevida supressão de instância.
+Ante o exposto, não conheço dohabeas corpus.
+Publique-se.
+Intimem-se.
