@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interno interposto por BETHANIA DE PAULA OLIVEIRA E ADRIANA CRISTINA MACHADO DE OLIVEIRA,desafiando decisão de fls. 597/601, que negou provimento ao agravo em recurso especial com base nos seguintes fundamentos: (I) verifica-se não ter ocorrido ofensa ao art. 1.022 do CPC e(II) incidência da Súmula 283/STF.
+A parte agravante, em suas razões, sustenta que "háem verdade, superficialidade das decisões proferidas, o que caracteriza a violação do disposto nos artigos 489, § 1º, inciso VI c/c 1.022, inciso II e parágrafo único, inciso II, ambos do CPC, devendo, por isto, ser anulado o acórdão a quo (fls. 414/426) e, consequentemente, determinado o retorno dos autos à Origem para novo julgamento" (fl.611).
+Afirmam que, "ao proferir seu decisum, ora agravado, em verdade, confundiu/misturou as 2 (duas) últimas teses da defesa (interrupção da prescrição e majoração dos honorários), conforme se depreende do trecho acima destacado e, por isto, não há razão para invocação da Súmula 283 do STF" (fl. 613).
+:Devidamente intimada, a parte agravada não impugnou, conforme certidão de fl. 639.
+É o relatório
+Melhor compulsando os autos, exercendo o juízo deretratação facultadopelo art. 1.021, § 2º, 2ª parte, do CPCe 259 do RISTJ, reconsidero adecisão agravada (fls. 597/601), tornando-a sem efeito.Passo a novo exame do feito.
+Trata-se de agravo manejado por BETHANIA DE PAULA OLIVEIRA COELHO e OUTRA, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, "a" e "c", da CF, em face de acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 438):
+PREVIDENCIÁRIO. PENSÃO POR MORTE. QUALIDADE DE SEGURADO COMPROVADA. PRESCRIÇÃO. DEPENDENTES HABILITADOS. RATEIO.
+1. A concessão do benefício, em princípio, depende do reconhecimento da presença de três requisitos básicos: o óbito, a qualidade de segurado do falecido e a dependência econômica em relação a ele na data do falecimento.
+2. O óbito do instituidor do benefício ocorreu em 15/12/2005 (ID 140131243 -p. 14). Assim, em atenção ao princípio, tempus regit actum previsto na súmula 340 do Colendo Superior Tribunal de Justiça (STJ), a lei regente da concessão de pensão por morte é a vigente na data do falecimento, aplicando-se ao caso as normas dos artigos 16, 26, e 74 a 79, da Lei nº 8.213, de 24/07/1991, com a redação em vigor na data do óbito.
+3. Na hipótese, constato que restou incontroversa a dependência econômica das autoras, pois não foi objeto recursal pela autarquia federal.
+Opostos embargos de declaração, foram rejeitados (fl. 479). Apontam as recorrente, nas razões de recurso especial, além de divergência jurisprudencial, violação aos arts. 85, § 11, 240, § 1º e 4º, 489, § 1º, VI e 1.022, II, do CPC, 202, I e parágrafo único, do CC. Sustentam, em síntese: (I) negativa de prestação jurisdicional,(II) suspensão/interrupção do prazo prescricional em relação à autora Adriana Cristina Machado de Oliveira, decorrente de propositura de ação anterior e (III) majoração dos honorários sucumbenciais.
+Afirmam que, "no caso, a prescrição quinquenal deve ser computada de forma retroativa ao ajuizamento da primeira ação (em 28/11/2013 -ID Num. 11295811 -Pág. 26), na qual o feito distribuído perante o Juizado foi extinto sem resolução domérito, ou seja, as parcelas devidas a partir de 28/11/2008 não estão prescritas em relação à apelante ADRIANA" (fl. 521).
+Alegam que, "deveria o Tribunal de Origem observar e aplicar o mandamento do art. art. 85, § 11,do CPC, majorando a verba honorária" (fl. 522).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+O recurso merece acolhida pela suscitada afronta ao art. 1.022, I, do CPC.
+Com efeito, sabe-se que às Cortes Superiores, em sede de recursos denatureza extraordinária, não é dado reexaminar o contexto fático da causa,cuja moldura definitiva deve provir das instâncias ordinárias. Daí a razãode ser das Súmulas 7/STJ e 279/STF. Em tal cenário, o recurso de embargosdeclaratórios ganha distinguido relevo nos tribunais locais, que, por meioda súplica integrativa, podem colmatar os contornos da controvérsia,suprindo omissões relacionadas à apreciação e valoração de fatos que,embora relevantes, tenham sido desconsiderados na decisão embargada.
+Por isso, e com razão, Tereza Arruda Alvim Wambier enfatiza que "cabe àparte, exercendo legitimamente sua atividade de prequestionar, i.e., fazerconstar da decisão a questão federal ou a questão constitucional, pleiteardo órgão a quo que faça também constar do acórdão circunstâncias fáticasaptas a demonstrar, pela mera leitura da decisão recorrida, que a soluçãonormativa pela qual se optou na decisão impugnada (pela via do recursoextraordinário ou do recurso especial) está equivocada, estando-se, pois,assim, em face de uma ilegalidade ou de uma inconstitucionalidade"(Embargos de declaração e omissão do juiz. 2. ed. ampl. São Paulo: RT,2014, p. 215)
+No caso, a parte recorrente nas razões de apelação, dos embargos dedeclaraçãoe no recurso especial requereu ao Tribunal que semanifestasseexpressamente (fls. 445/448):
+i -quanto a suspensão/interrupção do prazo prescricional em relação à autora, ora embargante, Adriana Cristina Machado de Oliveira, decorrente de propositura de ação anterior(Proc. 0013189-78.2013.4.03.6302),nos moldes da pacífica jurisprudência do Colendo Superior Tribunal de Justiça;
+ii -em relação à majoração dos honorários sucumbenciais, conforme prevê o art. 85, § 11, do CPC;
+(..).
+Com o devido respeito, porém, o fundamento acima exposto não encontra respaldo legal, contrariando, inclusive, conforme já exposto, pacífica jurisprudência do Superior Tribunal de Justiça em sentido contrário, sobre o qual não se manifestou os Nobres Julgadores.
+(..)
+Nesse passo, a fim de possibilitar a correção da omissão, as embargantes apresentam, abaixo, o entendimento do Colendo Tribunal Superior:
+(..).
+Acerca do decidido, portanto, a norma processual civil, prevista no art. art. 85, § 11, determina que:
+(..).
+Sendo assim, como se vê, o v. acórdão não enfrentou todas as razões recursais, incorrendo em omissão, que autoriza a oposição dos presentes EMBARGOS DE DECLARAÇÃO, com âncora nosartigos1.022c/cart. 489, § 1ºe incisos, do CPC, que prescrevem:
+(..).
+É certo que, o Tribunal de origem, não obstante instado a semanifestarsobre essa alegação, quedou-se silente, rejeitandoospertinentes aclaratórios do ora recorrente, incorrendo em francaviolaçãoao art. 1.022 do CPC/2015, porquanto não prestada a jurisdição deformaintegral.
+ANTE O EXPOSTO,conheço doagravo e dou parcial provimento ao recursoespecial para determinar oretorno dos autos ao Tribunal de origem, a fimde queseja realizado novojulgamento dos embargos declaratórios, destafeita com o expressoenfrentamento das questões omitidas.
+Publique-se.
