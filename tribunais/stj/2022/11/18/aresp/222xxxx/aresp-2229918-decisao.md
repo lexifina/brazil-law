@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ZAPLAN ADMINISTRAÇÃO E CONSTRUÇÕES LTDA - ME (ZAPLAN)contra decisão que inadmitiu seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça de São Paulo relatado pelo Des. CERQUEIRA LEITE, assim ementado:
+Processo - Execução de título extrajudicial - Duplicata mercantil - Extinção pelo pagamento - Depósito judicial pela executada - Erro de cálculo - Equívoco no termo "a quo" da atualização monetária e dos juros de mora - Encargos calculados desde o protesto extrajudicial da duplicata, na mora "ex re" desde o vencimento - Depósito judicial insuficiente - Extinção do processo açodada - Erro de cálculo passível de correção a qualquer tempo - Precedentes do Col. STJ - Sentença de extinção anulada, para o prosseguimento da execução - Recurso provido para esse fim(e-STJ, fl. 187).
+Os embargos de declaração opostos por ZAPLAN foram rejeitados (e-STJ, fls. 207/209).
+Inconformada, ZAPLANinterpôs recurso especial com base no art. 105, III, alíneasa e c, da CF, apontando violação aos arts. 7º, 10º,319, III,322, § 1º, 329, 373, I, 783, 798, I, b e parágrafo único, I, II e III, 914 e 1.022, I do NCPC; 5º, XXXVI da Constituição Federal; 14 e 15, II, a, b e c da Lei 5.474/68,ao sustentar, em síntese (1) negativa de prestação jurisdicional por omissão do aresto recorrido; (2) que não há que se falar em erro material, porquantoem se tratando de execução de título executivo extrajudicial incumbia à recorrida apresentar pedido líquido e certo, bem como instruir a petição inicial com demonstrativo do débito atualizado até a data da propositura da ação; (3) que tendo o Tribunal paulista determinado o prosseguimento do feito pelo valor remanescente após dar provimento ao recurso de apelação, cerceou o seu direito de defesa, pois inviabilizou a apresentação de embargos à execução; (4) que o termo inicial de aplicação dos encargos é a data do protesto e não o seu vencimento; e (5) que é vedada a emenda à inicial após a citação sem o consentimento do réu.
+Suscitou dissídio jurisprudencial.
+O recurso não foi admitido pelo Tribunal de Justiça de São Paulopelos seguintes fundamentos (i)que não cabe recurso especial contra violação de dispositivosconstitucionais;(ii) ausência de violação do art. 1.022 do NCPC; (iii) que não ficou demonstrada a alegada vulneração aos dispositivos arrolados; (iv) incidência da Súmula nº 7, do STJ; e (v) ausência de similitude fática (e-STJ, fls. 288/291).
+Nas razões do presente agravo, ZAPLAN alegou, em síntese (1) que foi cabalmente demonstrada a afronta a dispositivos da legislação federal; (2) que a análise do recurso não demandaria a reanálise de provas; e (3) que foi devidamente demonstrada a similitude fática com soluções jurídicas diferentes entre o v. acordão recorrido e os vv. acórdãos indicados como paradigmas(e-STJ, fls. 314/339).
+Foiapresentada contraminuta (e-STJ, fls. 350/382).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. SÚMULA Nº 182/STJ.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão atacada, haja vista o disposto nos arts. 932, inciso III, e 1.021, § 1º, do Código de Processo Civil de 2015.
+O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial desta Corte Superior na redação da Súmula nº 182/STJ.
+2. Agravo interno não conhecido.
+(AgInt no REsp 1836935/SE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 22/03/2021, DJe 25/03/2021 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DANO MORAL. OFENSAS VERBAIS. ATRIBUIÇÃO À PARTE CONTRÁRIA DE USAR EXPRESSÕES INJURIOSAS EM ESCRITOS NO PROCESSO. JUÍZO DE ADMISSIBILIDADE. FUNDAMENTOS. SÚMULA N. 7/STJ. IMPUGNAÇÃO. AUSÊNCIA. ARTS. 21-E, V, E 253, PARÁGRAFO ÚNICO, I, DO RISTJ. ART. 932, III, DO CPC. SÚMULA N. 182/STJ. NÃO PROVIMENTO.
+1. Nos termos do art. 932, III, do Código de Processo Civil/2015 e da Súmula 182/STJ, aplicável por analogia, é inviável o agravo em recurso especial que deixa de atacar especificamente os fundamentos do juízo negativo de admissibilidade do recurso especial.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1691233/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. em 08/03/2021, DJe 11/03/2021 - sem destaque no original)
+Da leitura das razões do presente agravo em recurso especial, verifica-se que aagravanteZAPLAN não impugnou especificamente o fundamento da decisão agravada quanto à afirmação deque não cabe recurso especial contra violação de normasconstitucionais.
+Nessas condições, com fundamento no art. 1.042, § 5º do NCPC c/c art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/03/2016, DJe 18/03/2016), NÃO CONHEÇO do agravo em recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AGRAVO EM RECURSO ESPECIAL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 932, INCISO III, DO NCPC. AGRAVO NÃO CONHECIDO.
