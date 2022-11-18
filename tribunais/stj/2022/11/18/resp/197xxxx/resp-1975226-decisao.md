@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná cuja ementa é a seguinte (fl. 241, e-STJ):
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - AÇÃO DE DESAPROPRIAÇÃO INDIRETA - ALEGAÇÃO DE PRESCRIÇÃO PARA EXECUÇÃO DOS VALORES INDENIZATÓRIOS REJEITADA - PRAZO VINTENÁRIO - SÚMULA 119 DO STJ - APLICABILIDADE DA REGRA DE TRANSIÇÃO PREVISTA NO ART. 2.028 DO CC/2002 - HONORÁRIOS FIXADOS EM SENTENÇA QUE DEVEM SER EXECUTADOS EM CONJUNTO - PRECEDENTE DESTA CORTE DE JUSTIÇA - RECURSO CONHECIDO E DESPROVIDO.
+Os Embargos de Declaração foram rejeitados (fls. 418-421, e-STJ).
+O recorrente sustenta que ocorreu ofensa aos arts. 1.022, II, do CPC/2015; 2.028 e 2.029 do Código Civil/2002; e 25, II, da Lei 8.906/1994.Defende, em suma, que: a) o acórdão recorrido incorreu em negativa de prestação jurisdicional; b) o prazo prescricional aplicável para o cumprimento de sentença de Ação de Desapropriação Indireta é o mesmo previsto na legislação vigente para a propositura da ação - no caso, 10 anos, contados do trânsito em julgado da ação de conhecimento; c) ocorreu a prescrição da pretensão executória deduzida no cumprimento de sentença, referente aos valores oriundos de condenação do DER/PR em Ação de Indenização por Desapropriação Indireta; e d) o prazo prescricional para a cobrança de honorários sucumbenciais é de 5 anos, a contar do trânsito em julgado da sentença condenatória. Assim, encontra-se prescrita a pretensão executória dos honorários sucumbenciais.
+Contrarrazões às fls. 536-547, e-STJ.
+O MPF opinou pelo provimento do Recurso Especial (fls. 753-755, e-STJ).
+É o relatório.
+Decido.
+O Apelo comporta provimento.
+A jurisprudência do STJ é pacífica no sentido de que o prazo prescricional para o ajuizamento da Ação de Desapropriação Indireta é o mesmo do usucapião, conforme entendimento do STF, no julgamento da ADI 2.260-DF, e do STJ, registrado na Súmula 119/STJ.
+Além disso, ao julgar os Recursos Especiais 1.757.352/SC e 1.757.385/SC, Representativos de Controvérsia (Tema 1.019), o STJ fixou a seguinte tese: "O prazo prescricional aplicável à desapropriação indireta, na hipótese em que o Poder Público tenha realizado obras no local ou atribuído natureza de utilidade pública ou de interesse social ao imóvel, é de 10 anos, conforme parágrafo único do art. 1.238 do CC/2002".
+Embora o Tribunal local tenha aplicado a tese da Súmula 150/STF, que estabeleceque "prescreve a execução no mesmo prazo de prescrição da ação", é certo que durante ocurso da desapropriação entrou em vigor o Código Civil de 2002, que alterou o prazoprescricional da Ação de Conhecimento para 10 anos. Assim, como quando do trânsitoem julgado da sentença(em 17.2.2005) já vigia o novo Código Civil/2002, é aplicável o novo prazo para a Ação Executória.
+Importante salientar que não há direito adquirido ao prazo prescricionalanterior de vinte anos, o qual foi aplicável, na prática, a demanda em sua fase deconhecimento. Isso, porque a fase executiva é superveniente à sentença condenatóriaproferida sob a égide da lei anterior, sendo aplicáveis à execuçãoos prazosprescricionais vigentes.
+No caso concreto, a sentença proferida na Ação de Conhecimento transitou em julgado em 17.2.2005. Tendo em vista que o cumprimento de sentença foi iniciado somente 31.1.2018, após o transcurso do novel prazo de 10 (dez) anos, configurou-se a prescrição.
+Ademais, registre-se quenos termos do art. 25, II, do EOAB, a execução dos honorários advocatícios sucumbenciais deve ser feita no prazo prescricional de cinco anos, contados do trânsito em julgado da sentença condenatória. Desse modo, encontra-se prescrita a pretensão executória dos honorários sucumbenciais.
+Ante o exposto, dou provimento ao Recurso Especial nos termos da fundamentação supra.
+Publique-se.
+Intimem-se.
