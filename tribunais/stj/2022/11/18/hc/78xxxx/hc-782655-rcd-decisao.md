@@ -1,0 +1,4 @@
+DECISÃO
+Com o presente pedido de reconsideração, não logrou o requerente apresentar argumento que justificasse a modificação da conclusão da decisão hostilizada, cujos fundamentos são a ausência de ilegalidade ou teratologia da decisão monocrática que indeferiu medida liminar em mandamus originário, cujo caso atrai a incidência da Súmula 691 do Supremo Tribunal Federal, e a insuficiência na instrução dos autos no que pertine ao pleito referente à negativa de recorrer em liberdade.
+Em que pese a defesa ter trazido aos autos o documento tido por ausente, remanesce o fundamento que mantém a impossibilidade dotrâmite do writ perante este Tribunal Superior, pois o recurso sequer ataca o fundamento central que ensejou o indeferimento liminar na inicial, conforme a Súmula 182/STJ.
+Em face do exposto, não conheço do pedido de reconsideração.
