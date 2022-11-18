@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por S DE C e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA. SENTENÇA DE IMPROCEDÊNCIA. APELO DOS AUTORES. ALEGADA ILEGALIDADE DA CLÁUSULA QUE PREVÊ A RENOVAÇÃO AUTOMÁTICA SOMENTE UMA VEZ. TESE RECHAÇADA. POSSIBILIDADE EXPRESSAMENTE PREVISTA NO ART. 774 DO CÓDIGO CIVIL. SEGURO FIRMADO PELO PRAZO DE 1 ANO, PRORROGÁVEL AUTOMATICAMENTE POR IGUAL PERÍODO. ÓBITO DO SEGURADO OCORRIDO APÓS O PRAZO INICIALMENTE CONTRATADO E A PRORROGAÇÃO. AUSÊNCIA DE COMPROVAÇÃO DE QUE O SEGURO FOI NOVAMENTE RENOVADO. SINISTRO OCORRIDO FORA DA VIGÊNCIA CONTRATUAL. AUSÊNCIA DO DEVER DE INDENIZAR. ALEGADA NECESSIDADE DE NOTIFICAÇÃO ACERCA DA NÃO RENOVAÇÃO. PROVIDÊNCIA QUE NÃO É INDISPENSÁVEL NO CASO EM COMENTO. CONTRATO FIRMADO POR PRAZO DETERMINADO. FIM DO PRAZO QUE IMPLICA NA RESOLUÇÃO AUTOMÁTICA DO PACTO. SENTENÇA MANTIDA. FIXAÇÃO DE HONORÁRIOS RECURSAIS. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 6º, VIII, e 47 do CDC, no que concerne à interpretação contratual empreendida na decisão recorrida, uma vez que prejudicial à defesa da Recorrente, ora consumidora e, portanto, em desacordo com os dispositivos do diploma consumerista, trazendo os seguintes argumentos:
+Em sede de sentença proferida em primeiro grau, desde logo foi aplicado o CDC ao caso concreto restando a relação jurídica de consumo plenamente caracterizada, e submetendo o caso concreto às normas consumeristas.
+Contudo, não foi o que se observou em grau recursal a relação de consumo quando se esperou da estipulante informasse nos autos acerca de comunicação demonstrando interesse de não renovação do pacto. Uma vez sob a égide do Código de Defesa do Consumidor, deve ser o caso interpretado de maneira mais favorável ao consumidor, conforme versa o art. 47 do CDC. Além de aplicar-se a inversão do ônus da prova, conforme estabelece o CDC em seu art. 6, VIII, neste caso caberia ao réu comprovar que houve a intenção de não renovação.
+ ..
+Constou no respeitável acórdão que:"No entanto, não há notícias acerca de eventual comunicação, pela estipulante, do interesse de não renovação do pacto, contudo o caso deve interpretado de maneira mais favorável ao consumidor e com inversão do ônus da prova nos termos do artigo 6º, VIII do Código de Defesa do Consumidor c/c artigo 47 do CDC. Deve ser observado que o contrato sub judice está soba égide do Código de Defesa do Consumidor, sujeitando-se as regras e princípios, pois as atividades exercidas pela instituição bancária embargante na qualidade de fornecedor. Além disso, o artigo 47 do Código de Defesa do Consumidor dispões que as cláusulas contratuais serão interpretadas de maneira mais favorável ao consumidor nos termos do artigo 47 do CDC.
+Nos termos do código de Defesa do Consumidor caberia ao banco réu comprovar que houve a intenção de não renovação com inversão do ônus da prova, nos termos do artigo 6 VIII do CDC, contudo a embargada não se desincumbiu do ônus que lhe cabia (fls. 475/476)
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+De início, mister ressaltar que o Código de Defesa do Consumidor estabelece claramente que ao contrato de seguro são aplicáveis as normas consumeristas, como serviço de natureza securitária:
+ ..
+Por outro lado, dispõe o art. 757 do Código Civil que "pelo contrato de seguro, o segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo do segurado, relativo a pessoa ou a coisa, contra riscos predeterminados".
+Logo, necessária a análise das cláusulas contratuais, mormente com relação ao período de vigência do seguro a fim de concluir-se se o sinistro que vitimou o marido e pai dos autores ocorreu ou não na vigência do seguro.
+Extrai-se do pacto firmado entre as partes que o contrato securitário foi firmado pelo prazo de um ano, renovado uma única vez por igual período automaticamente (cláusula 61):
+ ..
+Acerca do prazo de vigência do seguro, mister ressaltar a previsão contida no art. 774 da Lei Material:
+ ..
+Portanto, não há falar em abusividade ou irregularidade da cláusula contratual que prevê que a renovação automática do contrato operar-se-á somente uma vez por igual período, devendo as renovações posteriores ocorrer de forma expressa.
+Sobre o tema, destaca-se das decisões do Tribunal de Justiça de Minas Gerais:
+ ..
+In casu, o contrato de seguro foi firmado em 13-7-2010 (Evento 100 - informação 87), com pagamento do prêmio de forma anual, em única parcela. Logo, o início da vigência do pacto se deu em 13-7-2010, o qual foi prorrogado automaticamente em 13-7-2011, encerrando-se sua vigência em 12-7-2012.
+A partir dessa data, acaso interessada na manutenção da avença, incumbia a estipulante pactuar de forma expressa a renovação da relação securitária. No entanto, não há notícias acerca de eventual comunicação,pela estipulante, do interesse na renovação do pacto, e, por conseguinte, de quitação de novo valor atinente ao prêmio anual de seguro que teria vigência no prazo de 13-7-2012 a 12-7-2013.
+ ..
+Assim, ausente cláusula de seguro em vigência ao tempo do óbito a improcedência do pedido é medida que se impõe. Destaca-se:
+ ..
+Já no caso ora tratado, como dito, a relação contratual se deu por prazo determinado, extinguindo-se pelo decurso do tempo e pela ausência de manifestação da estipulante na renovação da avença, de modo que se trata de relação distinta.
+ ..
+Ante o exposto, voto no sentido de conhecer do recurso e negar-lhe provimento, fixando-se honorários recursais (fls. 405/408).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
