@@ -1,0 +1,11 @@
+DECISÃO
+1. Trata-se de embargos de declaração opostos por CHUBB DO BRASIL COMPANHIA DE SEGUROScontra a decisão de fls. 495/497,do em. Ministro LÁZARO GUIMARÃES, que conheceu de agravo para dar provimento ao recurso especial interposto por REDYAR OTM TRANSPORTES LTDA., a fim de reconhecer a competência do foro de Manaus/AM,para o processamento da ação regressiva ajuizadapela ora embargada.
+Nas respectivas razões, a embargantealegaa existência de questão de ordem pública, prejudicial do presente recurso, uma vez que"o pedido de ressarcimento em regresso já foi julgado pelo Juízo da6ª Vara Cível da Comarca de Guarulhos, Estado de São Paulo", tendo a referida decisão transitado em julgado, encontrando-se, atualmente, em fase de cumprimento de sentença (e-STJ, fls. 502/503).
+Intimada, a parte embargada não apresentou impugnação (e-STJ, fls. 523 e 552).
+É o relatório. Decido.
+2. Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022).
+Nesse sentido, embora não trate propriamente de omissão, há de ser acolhida a irresignação da embargante, porquanto verificada, no caso, a existência de fato novo relevante, suficiente a ensejar o acolhimento dos declaratórios.
+Come feito, examinadas as razões apresentadas pela embargante, assim como os documentos juntados aos autos (fls. 508/521), verifica-se que, de fato, após o julgamento do agravo de instrumento pelo Tribunal estadual, estabelecendo a competência da Comarca de Guarulhos - SPpara processara ação regressiva ajuizada porCHUBB DO BRASIL COMPANHIA DE SEGUROS contra REDYAR OTM TRANSPORTES LTDA, prosseguiu aquele juízo na instrução do feito, proferindo sentença de mérito pela procedência da ação, atualmente em sede de cumprimento definitivo.
+Desse modo, considerando o transito em julgado da sentença de mérito do processo principal, forçoso reconhecer, agora, a perda de objeto do presente agravo em recurso especial, tirado de decisão interlocutória referente a competência relativa.
+Diante do exposto, acolho os embargos de declaração, com efeitos infringentes, para, nos termos do art. 34, XI, do RISTJ, julgar prejudicado o presente agravo em recurso especial.
+Publique-se.
