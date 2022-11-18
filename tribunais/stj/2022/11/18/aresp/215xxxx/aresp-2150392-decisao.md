@@ -1,0 +1,27 @@
+DECISÃO
+Na origem trata-se de ação objetivando que seja reconhecida a nulidade de ato administrativo e, consequentemente, que seja o recorrente reintegrado aos quadros da PMERJ. Na sentença julgou-se o pedido improcedente. No Tribunal a quo a sentença foi mantida. O valor da causa foi fixado em R$ 70.000,00 (setenta mil reais).
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, contra acórdão com o seguinte resumo de ementa:
+APELAÇÃO CÍVEL. ADMINISTRATIVO. POLICIAL MILITAR PUNIDO COM EXCLUSÃO DA CORPORAÇÃO, EM RAZÃO DE ENVOLVIMENTO EM EVENTO QUE VITIMOU UM MENOR. SENTENÇA ABSOLUTÓRIA POR NEGATIVA DE AUTORA. PEDIDO DE REINTEGRAÇÃO. EXISTÊNCIA DE FALTA RESIDUAL, REFERENTE AO EMPREGO DE ARMA DE FOGO QUE DETERMINA A MANUTENÇÃO DA DECISÃO ADMINISTRATIVA. PROCEDIMENTO QUE OBSERVOU O DEVIDO PROCESSO LEGAL E ONDE FOI OPORTUNIZADA A DEFESA DO ACUSADO. SENTENÇA QUE SE MOSTRA EM CONSONÂNCIA COM OS JULGADOS DESTE TRIBUNAL E COM O VERBETE DE SÚMULA 18 DO SUPREMO TRIBUNAL FEDERAL. MANUTENÇÃO.
+-O verbete de súmula 18 do Supremo Tribunal Federal fortalece a ideia de que é admissível punição administrativa do servidor público, quando haja falta residual, não compreendida na absolvição pelo Juízo Criminal.
+-Exige-se do Policial Militar conduta moral que se coadune com a função a ser exercida, o que legitima a Administração Pública a excluir aqueles cujo comportamento não se adéqua ao exercício da função.
+-O controle externo exercido pelo Poder Judiciário não significa supressão de Poderes ou mesmo redução da autonomia da Administração. O controle-fiscalização envolve a verificação da regularidade do exercício da competência, ou seja, se o ato praticado está de acordo com a discricionariedade atribuída pela lei. Logo, não há oportunidade para avaliações e estimativas no tocante à oportunidade, consistência ou finalidade das escolhas discricionárias.
+DESPROVIMENTO DO RECURSO.
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial não deve ser conhecido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+É possível verificar ainda que a sentença criminal apresentada pelo autor comprova que o mesmo foi absolvido pelo Tribunal do Júri, por negativa de autoria.
+Referida absolvição, nos termos do entendimento firmado pelo Superior Tribunal de Justiça, produz efeito tanto na esfera cível quanto na administrativa.
+ ..
+Referido entendimento foi observado pelo Juízo de 1º grau. No entanto, na hipótese dos autos, o autor também foi afastado da corporação em razão do cometimento de falta residual, quanto ao emprego inadequado da arma de fogo.
+Pois bem, o artigo 41, parágrafo, 1º, inciso II da Constituição da República Federativa do Brasil permite que a perda da graduação possa ocorrer mediante processo administrativo.
+ ..
+Na hipótese dos autos, houve a instauração de procedimento administrativo com observância do devido processo legal, contraditório e ampla defesa. O autor não logrou êxito em demonstrar a existência de irregularidades que pudessem macular a decisão final, sendo certo que cabe ao Comandante Geral da Polícia Militar o julgamento final, que irá definir se a conduta do policial acusado é compatível com a função a ser desempenhada.
+ ..
+Neste sentido, a sentença não viola as normas mencionadas pelo autor, tampouco o entendimento dos Tribunais Superiores, eis que a punição foi mantida em razão da falta residual cometida pelo autor no momento do evento que vitimou um menor.
+Cabe assegurar que o controle externo exercido pelo Poder Judiciário não significa supressão de Poderes ou mesmo redução da autonomia da Administração. O controle-fiscalização envolve a verificação da regularidade do exercício da competência, ou seja, se o ato praticado está de acordo com a discricionariedade atribuída pela lei. Logo, não há oportunidade para avaliações e estimativas no tocante à oportunidade, consistência ou finalidade das escolhas discricionárias.
+Não há, portanto, violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Quanto à matéria de fundo, verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 1% sobre o valor já fixado, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observados, se aplicáveis: i. os limites percentuais previstos nos §§ 2º e 3º do já citado dispositivo legal; ii. a concessão de gratuidade judiciária.
+Ante o exposto, nos termos do art. 253, parágrafo único, II, a, do Regimento Interno do STJ, conheço do agravo relativamente à matéria que não se enquadra em tema repetitivo, e não conheço do recurso especial.
+Publique-se. Intimem-se.
