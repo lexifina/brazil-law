@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefício de ARTUR ZANIOLO SCHULZ contra ato de Desembargador Relator da 9ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo (HC nº 2253103-35.2022.8.26.0000).
+Extrai-se dos autos que o paciente foi condenado à pena de 3 anos, 10 meses e 20 dias de reclusão, em regime inicialmente semiaberto, pela suposta prática do delito tipificado no art. 33, § 4º, da Lei n.11.343/2006. Foi indeferido o direito de recorrer em liberdade.
+Buscando tal benefício, a defesa impetrou a ordem originária, cuja liminar foi indeferida pelo Tribunala quo(e-STJ fls. 13/15).
+No presentewrit, a defesa alega que o paciente Artur se encontra em FLAGRANTE ILEGALIDADE, tendo em vista que após condenação, está a cumprir pena em regime mais gravoso do que a condenação(e-STJ fl. 5). Ressalta o caráter excepcional da prisão preventiva.
+Requer, assim, a expedição de alvará de soltura.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, verifica-se que o decisum apresenta fundamentação suficiente e idônea a afastar a alegação, neste momento, de manifesta ilegalidade que justificasse a superação do enunciado sumular, notadamente se considerado o que foi enfatizado pelo Desembargador Relator, o qual, ao indeferir a liminar, aduziu o seguinte (e-SJT fls. 13/15):
+A análise sumária da impetração não autoriza inferir se houve o preenchimento dos requisitos à medida liminar.
+Observo que o paciente foi processado e condenado à pena privativa de liberdade pela prática do crime de tráfico de drogas e que na ocasião da prolação da sentença penal condenatória o MM. Juiz deliberou expressamente pela manutenção da custódia cautelar, argumentando subsistirem as razões que ensejaram a prisão processual.
+Verifico também que as partes não se resignaram e interpuseram recursos de apelação, ainda em processamento.
+Portanto, não constato, de plano, patente ilegalidade ou teratologia, mesmo porque a matéria arguida seconfunde com o próprio mérito do presente "writ", escapando aos restritos limites de cognição da cautelar, que há de ser deferida apenas nos casos em que exsurge flagrante a ilegalidade afirmada.
+Vê-se que o Desembargador Relator não considerou presentes elementos suficientes para justificar o deferimento da liminar.
+De fato, não se observa incompatibilidade entre a segregação preventiva e o regime de cumprimento de pena aplicado no caso. Consta das informações prestadas pelo magistrado às e-STJ fls. 11/12 que já houve a recomendação do réu e a comunicação ao presídio do regime imposto e a sua transferência para o regime adequado e estabelecido na sentença está a cargo do estabelecimento prisional onde ele se encontra recolhido.
+Ora, nos termos da jurisprudência desta Corte,não há incompatibilidade na fixação do modo semiaberto de cumprimento da pena e o instituto da prisão preventiva, bastando a adequação da constrição ao modo de execução estabelecido(AgRg no RHC n. 110.762/RJ, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/5/2020, DJe 3/6/2020).
+Ademais, eventual irresignação quanto a atuação do diretor do presídio no cumprimento da determinação do magistrado deve ser objeto de impugnação específica, perante as instâncias ordinárias.
+Entendo, portanto, não ser o caso de superação do enunciado n.691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
