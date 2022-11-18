@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Alesandra da Silva Costa - presa preventivamente e denunciada como incursa nos crimes de associação criminosa majorada e participação em organização criminosa -, em que se ataca acórdão proferido pelo Tribunal de Justiça de Mato Grosso no HC n. 1010290-11.2022.8.11.0000 (fls. 34/42), que manteve o indeferimento de concessão de prisão domiciliar proferido nos Autos n. 1006660-10.2021.8.11.0055, da 7ª Vara Criminal da comarca de Cuiabá/MT.
+Alega-se constrangimento ilegal consistente no indeferimento da prisão domiciliar - ao argumento de que a Paciente é mãe de 02 (dois) filhos menores impúberes, cuja certidão de nascimento encontra-se acostada ao presente pedido (fl. 11) - e requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que a prisão preventiva seja substituída por prisão domiciliar.
+É o relatório.
+Inicialmente, quanto à pretensão mandamental, registre-se que o CPP (com as alterações promovidas pela Lei n. 13.769/2018) passou a prever a substituição da prisão preventiva por domiciliar à mulher gestante, mãe ou responsável por crianças ou pessoas com deficiência, desde que não tenha cometido crime com violência ou grave ameaça e o delito não tenha sido cometido contra seu filho ou dependente, facultando, ainda, a aplicação de medidas cautelares (arts. 318-A e 318-B do CPP).
+No caso dos autos, a Corte local manteve a segregação cautelar, afastando a alegação mandamental, ao fundamento de que, conquanto o impetrante tenha trazido à baila documentação comprovando ser a paciente genitora de 02 (duas) crianças menores de 12 anos, não consta na prova pré-constituída qualquer elemento probatório apto a indicar que os cuidados da segregada são imprescindíveis à sua prole, tampouco que os menores não estejam sob a tutela de outro familiar (fl. 38).
+Assim, verifica-se que a paciente se enquadra nos termos definidos no art. 318-A do CPP, isto é, mãe de duas crianças (conf. documentos - fls. 114/115), não sendo caso de crime praticado mediante violência ou grave ameaça contra seus descendentes ou, ainda, situação excepcionalíssima devidamente fundamentada.
+Nesse sentido: HC n. 143.641/SP, Ministro Ricardo Lewandowski, Segunda Turma do STF, DJe 9/10/2018.
+Em razão disso, concedo liminarmente a ordem impetrada para substituir a prisão da paciente por domiciliar, mediante condições a serem implementadas e fiscalizadas pelo Magistrado singular.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA MAJORADA E PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA (COMANDO VERMELHO). PRISÃO PREVENTIVA. PEDIDO DE PRISÃO DOMICILIAR. GENITORA DE DUAS CRIANÇAS MENORES DE 12 ANOS. IMPRESCINDIBILIDADE NÃO AFASTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem liminarmente concedida nos termos do dispositivo.
