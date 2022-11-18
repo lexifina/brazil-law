@@ -1,0 +1,9 @@
+DECISÃO
+ELERSON MARCOS DA SILVA alega ser vítima de coação ilegal em decorrência de decisão monocrática proferida por Desembargador do Tribunal de Justiça do Estado de Minas Gerais, que não conheceu dos embargos de declaração opostos contra decisum que indeferiu pedido liminar noHabeas Corpus n. 1.0000.22.262078-3/000.
+Decido.
+Não está inaugurada a competência prevista no art. 105 da Constituição Federal para que esta Corte possa examinar a controvérsia, porquanto não existe pronunciamento colegiado deTribunal de Justiça, ou regional, a respeito datesedefensiva.
+Deveras:"não tem cabimento o habeas corpus para desafiar decisão singular de Desembargador  .. . 3. A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente" (AgRg no HC n. 423.705/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 5/4/2018, grifei).
+Cito, no mesmo sentido:  ..  o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux). Inexistindo pronunciamento colegiado do Superior Tribunal de Justiça, não compete ao STF examinar a questão de direito implicada na impetração. Precedentes  ..  (RHC n. 169214 ED, Rel. Ministro Roberto Barroso, 1ª T., Dje 19/9/2019, destaquei).
+Não se divisa a possibilidade de concessão da ordem, de ofício,uma vez que o decisum combatido está de acordo com o entendimento desta Corte Superior de que " n ão é cabível embargos de declaração para impugnar decisão monocrática que indeferiu pedido liminar em Habeas Corpus, conforme o art. 619 do CPP"(EDcl no HC n. 498.868/GO, Rel. Ministro Nefi Cordeiro, 6ª T., DJe de 10/4/2019).
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
