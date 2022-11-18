@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ESPÓLIO DE RONALDO CESAR CAPELARI E OUTROS (ESPÓLIO e outros) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TJSP, de relatoria do Des. WALTER EXNER, assim ementado:
+Agravo de instrumento. Fase de cumprimento de sentença. Citação válida. Mandado encaminhado por carta com aviso de recebimento a condomínio edilício e entregue ao responsável pelo recebimento da correspondência, sem qualquer ressalva. Inteligência do art. 248, §4º do CPC/15. Interesse de menor impúbere. Ausência de intervenção do Ministério Público. Nulidade. Inocorrência. Parecer do órgão ministerial pelo desprovimento do recurso. Ausente prejuízo que justifique a anulação de atos processuais. Decisão mantida. Recurso improvido.(e-STJ, fl. 130)
+Os embargos de declaração opostos por ESPÓLIO e outros foram rejeitados (e-STJ, fls. 149/152)
+Irresignados, ESPÓLIO e outros interpuseram recurso especial com base no art. 105, III, alínea a, CF, apontando a violação aos arts. 114.115,116, 178, 179 e 242 do NCPC, ao sustentarem (1) nulidade da citação, recebida por terceiro estranho à lide; (2) necessidade de inclusão do herdeiro Rodrigo à lide; (3) nulidade por ausência de intervenção do Ministério Público em razão da presença de menor impúbere.
+O recurso não foi admitido pelo TJSP.
+Nas razões do presente agravo, ESPÓLIO e outros alegaram que não incidem os óbices apontados na decisão de inadmissibilidade.
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1) Dos arts. 114.115,116, 178, 179 e 242 do NCPC
+No ponto, observa-se que os citados preceitos não foram objeto de debate pelo acórdão recorrido se ressentindo do necessário prequestionamento.
+É exigência contida na própria previsão constitucional de interposição do recurso especial que a matéria federal tenha sido decidida em única ou última instância.
+Não basta à parte discorrer sobre o dispositivo legal que entende infringido. É absolutamente necessário que a Corte recorrida tenha emitido juízo de valor sobre o referido preceito, o que não ocorreu na hipótese examinada. No caso, se aplicam as Súmulas nºs 282 do STF e 211 do STJ.
+Confira-se a jurisprudência:
+PROCESSUAL CIVIL. AGRAVO INTERNO. VIOLAÇÃO AOS ARTS. 144 E 492 DO CPC.AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTOS CONSTITUCIONAIS. VIOLAÇÃO AOART. 1.022 DO CPC NÃO COMPROVADA. (..) 2. Não se pode conhecer da irresignação contra a ofensa aos arts. 141 e 492 do CPC, pois a tese legal apontada não foi analisada pelo acórdão hostilizado, o que atrai o óbice da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." No mesmo sentido, os enunciados das Súmulas 211 do STJ e 356 do STF. (AgInt no AREsp 1745195/MT, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, j. em 22/03/2021, DJe 05/04/2021).
+Ademais, sob a alegada infringência de preceitos legais não debatidos, observa-se que a pretensão recursal visa o reexame de matéria fática o que é obstado pela Súmula nº 7 do STJ .
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIADE AFRONTA AO ART. 1022, I, DO CPC/2015. NULIDADE DE CLÁUSULA CONTRATUAL. PERICIA OFICIAL DE ACORDO COM A SENTENÇA. LAUDO CONTÁBIL REGULAR. CONTRADITÓRIO RESPEITADO. AUSÊNCIA DE CERCEAMENTO DE DEFESA E DE ENRIQUECIMENTO SEM CAUSA. INTERPRETAÇÃO DE CLÁUSULA CONTRATUAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA. (..) 2. O recurso especial não comporta exame de questões que impliquem interpretação de cláusulas contratuais e revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ). 3. No caso concreto, em sede de cumprimento de sentença, o Tribunal de origem concluiu pela ausência de cerceamento de defesa e pela regularidade da perícia oficial. Laudo pericial elaborado de acordo com a sentença que declarou a nulidade da cláusula contratual que estabelecia a capitalização de juros e a restituição dos valores cobrados a esse título. Contraditório respeitado. Recálculo das parcelas para afastar juros compostos. Apurado saldo em favor do exequente. Ausência de enriquecimento sem causa. 4. Agravo interno a que se nega provimento. (AgInt no AREsp 1.734.949/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 19/4/2022 - sem destaque no original)
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL. AGRAVO EM RECURSO ESPECIAL NO NCPC. AUSÊNCIA DE PREQUESTIONAMENTO DOS PRECEITOS LEGAIS ARROLADOS. SÚMULAS NºS 282 DO STF e 211 DO STJ. PRETENSÃO FUNDADA NA OFENSA A DISPOSITIVOS LEGAIS NÃO DEBATIDOS QUE ESBARRA NA SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL
