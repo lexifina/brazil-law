@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo MARCELO AUGUSTO DE MELO eLUIZ EDUARDO MOREIRA JUNQUEIRA contra decisão de minha lavra, em que dei provimento ao recurso especial para, reconhecendo a ilegitimidade passiva do FNDE, julgar extinto o processo sem resolução de mérito, com fundamento no art. 485, inciso VI, do CPC/2015. Fixo a verba honorária em R$ 5.000,00 (cinco mil reais) combase no art. 20, §§ 3º e 4º, do CPC/1973, aplicável à hipótese" (e-STJ fl. 506).
+Sustenta a parte agravante que "a decisão recorrida acolheu o Recurso Especial interposto pelo FNDE para determinar a exclusão do polo passivo da ação em razão de entendimento já consolidado por esta egrégia Corte.13. Ocorre que o dispositivo da decisão agravada determinou a extinção do processo sem resolução de mérito, com fundamento no art. 485, inciso VI, do CPC/2015" (e-STJ fl. 511).
+Segue afirmando que "como há outro polo passivo legítimo, no caso a UNIÃO, deve seguir normalmente a ação sem qualquer possibilidade de extinção sem resolução de mérito" (e-STJ fl. 512).
+Decorrido o prazo legal sem impugnação (e-STJ fl. 523).
+Passo a decidir.
+Desde logo, observa-se que os ora agravantes objetivam unicamente sanar suposto erro material no julgado, proferido às e-STJ fls. 503/507, a fim de que seja prestada a tutela jurisdicional de forma clara e completa.
+Nesse cenário, à luz dos argumentos apresentados nas razões de agravo interno, exerço juízo de retratação tão somente para sanar erro material no dispositivo do julgado combatido, na medida em que não cabe extinção do feito, considerando a manutenção da União no polo passivo da demanda.
+Ante o exposto,RECONSIDERO parcialmente a decisão agravada, no exercício dojuízo de retratação, tão somente para sanar o erro material acima identificado,de modo que, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial do FNDE para, reconhecendo sua ilegitimidade passiva, excluí-lo do polo passivo da demanda. Fixo a verba honorária em R$ 5.000,00 (cinco mil reais) com base no art. 20, §§ 3º e 4º, do CPC/1973, aplicável à hipótese.
+Publique-se. Intimem-se.
