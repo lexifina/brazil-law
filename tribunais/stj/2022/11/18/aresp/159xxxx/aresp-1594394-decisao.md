@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por SOCIEDADE ESPANHOLA DE BENEFICIENCIA (SOCIEDADE ESPANHOLA)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunalde Justiça do Rio de Janeiro, assim ementado:
+CONSUMIDOR. RESPONSABILIDADE CIVIL. PRESTAÇÃO DE SERVIÇO MÉDICO. CIRURGIA DE REDUÇÃO DE ESTÔMAGO. MORTE. DANO MORAL. Ação indenizatória fundada em falha na prestação do serviço médico consistente em cirurgia de redução de estômago, pois a paciente faleceu em razão de peritonite causada pela perfuração do intestino. A relação jurídica estabelecida entre as partes possui natureza de consumo, motivo porque o 1ºRéu responde de forma objetiva, enquanto o 2º Réu responde de forma subjetiva, nos termos do artigo 14, caput e § 4º, do Código de Defesa do Consumidor. Apesar de o laudo pericial concluir pela inexistência de erro médico, a imperícia do médico está patente porque previsível a ocorrência da complicação que provocou a morte da paciente, razão porque o 2º Réu deveria adotar as precauções necessárias para evitá-la, o que não fez. Sem dúvida, a boa técnica recomendava maior cautela ao médico que perfurou o intestino da vítima e deixou de averiguar se tinha havido a intercorrência como era sua obrigação. A culpa do 2º Réu está plenamente configurada a justificar sua responsabilidade civil. A responsabilidade do 1º Réu tem natureza objetiva, sendo que responde de forma solidária pelos danos impostos às Autoras. Inegável o dano moral pela perda inesperada de ente querido, a mãe das Autoras. O valor da reparação considera a capacidade das partes, o evento lesivo e suas consequências, conforme orienta o princípio da razoabilidade. Se não há prova dos danos materiais, nada justifica a condenação nesse sentido. Recurso provido em parte(e-STJ, fl. 1.209).
+Os primeiros embargos de declaração opostos por SOCIEDADE ESPANHOLA foram rejeitados (e-STJ, fls. 1.255/1.257), enquanto os segundos foram providos para sanar omissão relativa a ausência de comprovação do dissídio jurisprudencial apontado(e-STJ, fls. 1.270/1.272).
+Novos embargos de declaração foram opostos pelaSOCIEDADE ESPANHOLA foram providos sem alteração do julgado com a seguinte ementa:
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. VÍCIO SANADO. INTEGRAÇÃOS EM ALTERAÇÃO DO JULGADO.
+Rejulgamento de embargos de declaração determinado pelo E. Superior Tribunal de Justiça a fim de esclarecer a relação jurídica estabelecida entre o médico e o hospital, condenados solidariamente na reparação de danos morais decorrentes de erro médico.
+Na relação jurídica de consumo o prestador do serviço responde de forma objetiva, de modo que somente se libera do dever de indenizar quando comprova alguma excludente de responsabilidade. Competia ao hospital demonstrar que o médico não integrava seus quadros - prova factível por simples questionamento ao Dr. Perito - mas deixou de demonstrar o fato impeditivo do direito alegado na inicial.
+Existe relação de preposição entre o médico e o hospital a justificar a condenação solidária deste se o evento lesivo ocorreu em suas dependências, sob seus auspícios para o qual recebeu o valor contratado pela internação e uso de seus equipamentos por força de convênio que possui com o plano de saúde da vítima.
+Vício sanado sem alteração do julgado.
+Recurso provido(e-STJ, fl. 1.485).
+Os declaratórios opostos por JORGE LUIZ MONTEIRO e pela SOCIEDADE ESPANHOLA foram rejeitados (e-STJ, fls. 1.282/1.284 e 1.495/1.497).
+Irresignada, SOCIEDADE ESPANHOLA interpôs recurso especial com base no art. 105, III, alíneaa, da CF, apontando a violação aos arts. 141, 292, VI, 329, 374, II, 492 e 1.022do CPC; 14, §3º, I, do CDC;932, III e 933, do CC/02,ao sustentar (1)ausência de fundamentação e negativa de prestação jurisdicional consubstanciada naexistência de omissão quanto ao laudo pericial apontadopara a inexistência de falha na prestação dos serviços;(2)julgamento extra petita, diante da condenação emcausa de pedir diversa a constante dos autos;(3) inexistência de responsabilidade pelo ato médico - inexistência de preposição; e (4) necessidade de redução do quantum fixado a título de danos morais(e-STJ, fls. 1.503/1.539).
+O recurso não foi admitido pelo TJRJ(e-STJ, fls. 1.552/1.568).
+Nas razões do presente agravo,SOCIEDADE ESPANHOLA alegou que não incidem os óbices apontados na decisão de inadmissibilidade (e-STJ, fls. 1.573/1.615).
+A contraminuta foi apresentada (e-STJ, fls. 1.618/1.621).
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperarpara o retorno dos autos ao TJRJa fim de que sejam analisadasas questões trazidas nos embargos de declaração.
+(1) Da negativa de prestação jurisdicional
+O TJRJ, ao analisar os embargos de declaração, incorreu em negativa de prestação jurisdicional consubstanciada naexistência de omissãoquantoao laudo pericial apontado para a inexistência de falha na prestação dos serviços.
+É condição sine qua non ao conhecimento do especial que a questão de direito ventilada nas razões de recurso tenha sido analisada pelo acórdão objurgado. Assim, recusando-se o TJRJa se manifestar sobre aquestãofederalterminou por negar prestação jurisdicional aRecorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA. TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1187807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012).
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+Reconhecida a alegação de negativa de prestação jurisdicional, fica prejudicado o exame das demais questões suscitadas no recurso especial.
+Ante o exposto, CONHEÇO do agravo deSOCIEDADE ESPANHOLA e DOU PROVIMENTOseu recurso especial, determinando o retorno dos autos ao TJRJa fim de que renove o julgamento dos embargos de declaração.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC.RESPONSABILIDADE CIVIL. PRESTAÇÃO DE SERVIÇO MÉDICO. DANO MORAL.OFENSA AO ART. 1.022 DO NCPC CONFIGURADA. OMISSÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
