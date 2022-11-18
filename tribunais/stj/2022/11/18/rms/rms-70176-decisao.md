@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso interposto pela Ordem dos Advogados do Brasil, Seccional do Tocantins, contra o acórdão do Tribunal de Justiça do Tocantins no MS n. 0006696-10.2022.8.27.2700, que foi assim resumido (fl. 558):
+MANDADO DE SEGURANÇA. ORDEM DOS ADVOGADOS DO BRASIL. AUSÊNCIA DE LEGITIMIDADE PARA ATUAR COMO ASSISTENTE DE DEFESA. NÃO COMPROVAÇÃO DE DIREITO LÍQUIDO E CERTO. ORDEM DENEGADA.
+1. Com o presente mandamus, a impetrante visa ao reconhecimento do seu direito de ingressar nos autos de ação penal como assistente da defesa do réu, advogado, acusado da prática dos delitos capitulados nos artigos 89 e 90 da Lei nº 8.666/93.
+2. Todavia, segundo a remansosa jurisprudência do Superior Tribunal de Justiça, "carece de legitimidade a Ordem dos Advogados do Brasil para atuar como assistente (advogado denunciado em ação penal), porquanto, no processo penal, a assistência é apenas da acusação, não existindo a figura do assistente de defesa" (STJ:RMS n. 63.393/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 23/6/2020, DJe 30/6/2020).
+3. Ainda que houvesse previsão na lei processual penal da figura do assistente de defesa - o que se admite para efeitos meramente argumentativos - a demonstração do interesse jurídico na intervenção de terceiros é exigência que somente se identificaria, no caso da OAB, quando a situação afetar prerrogativas do advogado ou os fins do Estatuto da Advocacia, não sendo suficiente, por si só, o fato de o réu ser advogado inscrito em seus quadros para autorização de sua intervenção.
+4. Ordem denegada.
+A entidade defendeque o parágrafo único do art.49 do Estatuto da Advocacia (Lei n. 8.906/1994) confere aos presidentes dos conselhos e das subseções da OAB legitimidade para intervir, inclusive como assistentes, nos inquéritos e processos em que sejam indiciados, acusados ou ofendidos os inscritos na Ordem(fl. 580).
+Indica a possibilidade de atuação via Assistente, inclusive, para se prestigiar a urbanidade, a boa-fé processual e a cooperação processual, princípios existentes que devem ser respeitados por todos os interlocutores processuais, à luz da Tríade Constitucional Estrutural da Justiça, ainda mais quando se trata de contratação de profissional inscrito na ordem, por Instituição Pública, com ou sem a necessidade de licitação, inclusive para verificar, durante a tramitação processual, se houve, ou não, a ocorrência de contratação legítima. Também é importante que a Ordem dos Advogados do Brasil verifique se houve, e acompanhar para evitar se haverá, eventual execração pública da figura da advocacia, contra a figura do advogado solicitante(fl. 581).
+Pede o seguinte (fls. 582/583):
+a) O recebimento do presente Recurso Ordinário nos seus efeitos ativo e suspensivo, nos termos do parágrafo único do Art. 995 do CPC;
+b) A intimação do Recorrido para manifestação;
+c) A revisão do Acórdão recorrido com a consequente concessão para que a ORDEM DOS ADVOGADOS DO BRASIL -OAB -SECCIONAL DO ESTADODO TOCANTINS acompanhe os autos nº 0003601-32.2019.8.27.2714que tramita na 1ª Escrivania Criminal da comarca de Colméia -TO;
+d) Subsidiariamente que a ORDEM DOS ADVOGADOS DO BRASIL -OAB -SECCIONAL DO ESTADO DO TOCANTINS figure como interessado.
+É o relatório.
+É evidente que o recurso não merece prosperar, porquanto o acórdão impugnado está de acordo com a firme jurisprudência desta Casa acerca do tema.
+Afinal,a Terceira Seção não admite a intervenção da OAB como assistente de defesa em processos criminais, interpretando a previsão contida no art. 49, parágrafo único, do Estatuto da OAB em congruência com as normas processuais penais, que somente admitem a figura do assistente de acusação (cf. RMS n. 63.393/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/6/2020; AgRg na Pet no REsp n. 1.739.693/RN, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe 5/4/2019; AgRg no AREsp n. 1.389.040/PE, relator Ministro Felix Fischer, Quinta Turma, DJe 26/3/2019; AgInt no AREsp n. 584.962/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe 1º/8/2017) -(AgRg no CC n. 182.885/SP, Ministro João Otávio de Noronha, Terceira Seção, DJe 16/8/2022).
+Assim, com base no art. 34, XVIII, b, do RISTJ, nego provimento ao presente recurso.
+Publique-se.
+EMENTA
+RECURSO EM MANDADO DE SEGURANÇA. ORDEM DOS ADVOGADOS DO BRASIL. ATUAÇÃO COMO ASSISTENTE DE DEFESA. INADMISSIBILIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.
+Recurso improvido.
