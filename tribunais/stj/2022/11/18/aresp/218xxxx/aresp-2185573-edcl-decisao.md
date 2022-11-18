@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por HESA 51 - INVESTIMENTOS IMOBILIÁRIOS LTDA. (HESA 51) contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Estado de São Paulo, de relatoria do Des. JOÃO CARLOS SALETTI, assim ementado:
+COMPROMISSO DE COMPRA E VENDA Rescisão promovida pelos compradores, fundada na impossibilidade de continuarem a saldarem os encargos assumidos no contrato Sentença que julgou procedente a ação, determinando restituição de valores pagos, com retenção de 10% deles, por parte da vendedora, equivalentes Elevação que se faz necessária, na hipótese, dado terem sido pagos apenas 20% do valor do contrato, representando os 10% a somente 1,8% do montante ajustado Percentual de retenção elevado a 20% do valor pago, para assegurar recomposição de despesas hodiernamente compreendidas e realizadas em negócios que tais, adequado às circunstâncias do caso e ao ressarcimento da empreendedora pelas despesas operacionais do negócio Sentença reformada, no ponto.
+JUROS DE MORA Determinação de incidência a partir da citação Resilição unilateral do contrato, por manifestação de vontade exclusiva do comprador Compromissária vendedora que não incorreu em mora nem praticou ilicitude Juros de mora que devem incidir a partir dotrânsito em julgado Precedentes do STJ Decisão reformada.
+CORREÇÃO MONETÁRIA Mera recomposição do poder de compra da moeda Incidência a partir do desembolso Decisão mantida.
+Apelação parcialmente provida (e-STJ, fl. 235).
+Os embargos de declaração opostos por HESA 51 foram parcialmente acolhidos (e-STJ, fls. 253/258).
+Irresignada, HESA 51 manejou recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de divergência jurisprudencial, a violação aoart. 1º, § 2º, da Lei nº 6.899/81, ao sustentar que, na hipótese de desistência do contrato por iniciativa dos compromissários compradores, o termo inicial da correção monetária dos valores a serem restituídos deve ser a data da citação.
+Inadmitido orecurso, seguiu-se a interposição de agravo em recurso especial por parte da HESA 51, o qual foi conhecido para negar provimento ao apelo nobre, nos termos da seguinte ementa:
+CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL. DISTRATO POR INICIATIVA DOS ADQUIRENTES.CORREÇÃO MONETÁRIA. TERMO INICIAL. DATA DO DESEMBOLSO. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
+Nas razões dospresentes embargos de declaração, JOÃO WESLLEY FERREIRA BISPO ePATRÍCIA AMORIM BISPO (JOÃO e outra)alegaramofensa ao art. 1022, II, do NCPC, indicando omissão do julgado em relação à majoração dos honorários recursais.
+Foi apresentada impugnação (e-STJ, fls. 602/606).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+De pronto, vale pontuar que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nos presentes embargos de declaração, JOÃO e outra sustentarama violação do art. 1.022 do NCPC por entenderem que a decisão embargada padece de omissão por não ter fixado os honorários recursais, nos termos do artigo 85, § 11, do NCPC.
+Contudo, semrazão.
+Segundo a orientação da Corte Especial do STJ, firmada no julgamento do AgInt nos EAREsp 762.075/MT, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, j. 19/12/2018, DJe 7/3/2019, é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do NCPC, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+A propósito, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL.FUNDAMENTAÇÃO MONOCRÁTICA NÃO ATACADA.INADMISSIBILIDADE. REGRA TÉCNICA DE CONHECIMENTO RECURSAL. INCIDÊNCIA DA SÚMULA 315/STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO § 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL. VIABILIDADE. RECURSO NÃOPROVIDO.
+1. Não se admite a interposição de Embargos de Divergência na hipótese de não ter sido analisado o mérito do Recurso Especial, conforme a Súmula 315/STJ.
+2. A questão que sobeja em divergência é quanto ao cabimento ou não de honorários de advogado nesta fase recursal, novidade instituída pelo Novo Código de Processo Civil.
+3. Os critérios de cabimento dos honorários advocatícios recursais, previstos no § 11 do art. 85 do novo CPC, já foram tema de discussão na Terceira Turma, na sessão de 4 de abril de 2017, no julgamento dos EDcl no AgInt no REsp 1.573.573/RJ, o que levou à uniformização do tema no âmbito daquele órgão julgador.
+4. Tais critérios foram reavaliados pela Segunda Seção, no julgamento do AgInt nos Embargos de Divergência em REsp 1.539.725-DF, os quais passam a ser adotados como entendimento desta egrégia Corte Especial.
+5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+6. Não haverá honorários recursais no julgamento de Agravo Interno e de Embargos de Declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no § 11 do art.
+85 do CPC/2015.
+7. Com a interposição de Embargos de Divergência em Recurso Especial tem início novo grau recursal, sujeitando-se o embargante, ao questionar decisão publicada na vigência do CPC/2015, à majoração dos honorários sucumbenciais, na forma do § 11 do art. 85, quando indeferidos liminarmente pelo relator ou se o colegiado deles não conhecer ou negar-lhes provimento.
+8. Quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer do respectivo Agravo Interno ou negar-lhe provimento, arbitrá-la ex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificando reformatio in pejus.
+9. Da majoração dos honorários sucumbenciais promovida com base no § 11 do art. 85 do CPC/2015 não poderá resultar extrapolação dos limites previstos nos §§ 2º e 3º do referido artigo.
+10. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.
+11. In casu, denota-se: a) a majoração da verba, no caso que ora se examina, decorre da inadmissão dos Embargos de Divergência - o que, como visto, trouxe novo grau recursal com sua interposição; b) a lei não exige comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida para a majoração dos honorários. O trabalho adicional realizado pelo advogado da parte recorrida, em grau recursal, deve ser tido como critério de quantificação, e não como condição para majorar os honorários.
+12. Quanto à matéria, precedentes do Pretório Excelso: ARE 898.896 AgR-EDv-AgR/RJ - Relator Ministro Dias Toffolli, julgado em 24/02/2017, Tribunal Pleno, DJe de 15/3/2017; ARE 859.077 AgR-ED- EDv-AgR/AC - Relator Ministro Marco Aurélio, julgado em 23/03/2017, Tribunal Pleno, DJe de 29/5/2017.
+13. Cabível a majoração dos honorários recursais em desfavor da parte insurgente, nos termos da decisão agravada.
+14. Agravo Interno não provido.
+(AgInt nos EAREsp 762.075/MT, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, Corte Especial, j. 19/12/2018, DJe 7/3/2019).
+Na espécie, é descabida a majoração da verba honorária em favor dos advogados da parte ora insurgente, porque não foram preenchidos os requisitos cumulativos fixados no precedente acima mencionado, tendo em vista que, na origem, o recurso de apelação de HESA 51 foi parcialmente provido (e-STJ, fls. 233-239).
+Nesse sentido:
+PROCESSUAL CIVIL.HONORÁRIOS RECURSAIS. APELAÇÃOPARCIALMENTEPROVIDA. MAJORAÇÃO.DESCABIMENTO. APELO ESPECIAL. FUNDAMENTAÇÃO. DEFICIÊNCIA.
+1. Esta Corte Superior firmou a compreensão de que a sucumbência recursal disciplinada pelo art. 85, § 11, do atual CPC somente é devida quando presentes, simultaneamente, as seguintes condições:
+(i) publicação do julgado recorrido a partir de 18/03/2016, data da entrada em vigor do Código de Processo Civil de 2015; (ii) recurso não conhecido integralmente ou desprovido; e (iii) condenação na verba honorária desde a origem no feito em que interposto o recurso.
+2. Caso em que, ainda que fosse possível superar o óbice da Súmula 7 do STJ para redefinir o grau de sucumbência da parte agravada, oprovimentoparcial da suaapelaçãopela Corte de origem já afasta a pretendidamajoraçãodos honorários advocatícios.
+3. A falta de pertinência temática ente o decidido pelo Tribunal a quo e as razões recursais denota deficiência de fundamentação a permitir a incidência da Súmula 284 do STF.
+4. Agravo interno desprovido.
+(Agint no AREsp 1.586.750/RJ, Rel. Min. GURGEL DE FARIA, Primeira Turma, j. 27/9/2021, DJe 7/10/2021 - sem destaque no original).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. BENEFÍCIO. CONCESSÃO. PRESCRIÇÃO DO PRÓPRIO FUNDO DE DIREITO. NÃO OCORRÊNCIA. TRATO SUCESSIVO. SÚMULA 85/STJ.HONORÁRIOS RECURSAIS.ART. 85, § 11, DO CPC/2015. NÃO CABIMENTO NA ESPÉCIE. SENTENÇA DE PARCIAL PROCEDÊNCIA REFORMADA.HIPÓTESE DE RECURSO NÃOPROVIDOOU NÃO CONHECIDO INTEGRALMENTE, MONOCRATICAMENTE OU PELO ÓRGÃO COLEGIADO COMPETENTE.
+1. A presente controvérsia diz respeito à interpretação da regra contida no art. 1º do Decreto 20.910/1932.
+2. A jurisprudência do STJ pacificou-se no sentido de que, nas relações de trato sucessivo, a regra é a prescrição quinquenal de parcelas, ressalvada a hipótese em que a Administração houver negado o próprio direito reclamado. Súmula 85/STJ.
+3. O STJ assentou o entendimento de que é devida a majoração de honorários sucumbenciais, nos termos do artigo 85, §11, do CPC/2015, quando presentes os seguintes requisitos de forma simultânea: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+4. No caso dos autos, contudo, aApelaçãodo INSS foi parcialmenteprovida,o que impede a aplicação do referido dispositivo legal.
+5. Recurso Especial parcialmenteprovido.
+(REsp 1.856.693/PR, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, j. 3/3/2020, DJe 13/5/2020 - sem destaque no original).
+Desse modo, não se vislumbra a omissão alegada.
+Nessas condições, REJEITOos embargos de declaração.
+Por oportuno, previno as partes de que a interposição de recursocontraesta decisão, se declarado manifestamente inadmissível,protelatório ouimprocedente, poderá acarretar condenação às penalidadesfixadas nos arts.1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. OMISSÃO DA DECISÃO EMBARGADA. MAJORAÇÃO DOSHONORÁRIOS RECURSAIS. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
