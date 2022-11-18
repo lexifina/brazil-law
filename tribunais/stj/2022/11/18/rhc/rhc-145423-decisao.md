@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpusinterposto por CARLOS BARBOSA ANDREO, contra acórdão do Tribunal de Justiça o Estado do Paraná - TJPR, proferido no julgamento do Habeas Corpus Criminal n. 0073066-94.2020.8.16.0000
+Conforme narrativa da defesa do recorrente, CARLOS BARBOSA ANDREOe outros foram denunciadosforam denunciados pela prática do delito tipificado noartigo 121, § 3º, do Código Penal - CP (homicídio culposo), nos autos da Ação Penal n. 0001908-53.2016.8.16.0053em trâmite na Vara Criminal de Bela Vista do Paraíso/PR.
+Buscando o trancamento da ação penal a defesa do pacienteimpetrou habeas corpus perante o TJPR, o qualdenegou a ordem em acórdão que ficou assim resumido:
+"HABEAS CORPUS - HOMICÍDIO CULPOSO - PLEITO PARA TRANCAMENTO DA AÇÃO PENAL, EM RAZÃO DA INÉPCIA DA INICIAL E AUSÊNCIA DE JUSTA CAUSA - NÃO DEMONSTRADA DE PLANO - INICIAL ACUSATÓRIA PREENCHE OS REQUISITOS DO ART. 41, CPP - EXISTÊNCIA DE ELEMENTOS INDICIÁRIOS APTOS A DESENCADEAR A PERSECUÇÃO PENAL - POSSIBILIDADE DE EXERCÍCIO PELO RÉU DA AMPLA DEFESA E CONTRADITÓRIO - ORDEM DENEGADA." (fl. 82)
+No presente recurso, a defesa alega que "a inicial acusatória não atende aos requisitos previstos no artigo 41 do Código de Processo Penal, visto que não individualizou o específico dever de cuidado violado pelo recorrente, e a relação da suposta violação com a morte da vítima" (fl. 101).
+Sustenta a inépcia da denúncia ao fundamento de queindica apenas que o recorrente é sócio da empresa Belagrícola, o que não é suficiente para atribuir a prática do delito de homicídio culposo.Invoca precedente do Suprema Corte (STF, AgR noHC 138637, Rel. MinistroCELSO DE MELLO, Segunda Turma,DJe22/10/2020) no sentido de que "a mera indicação da condição de membro da sociedade empresária não basta para a imputação do delito ao suposto agente" (fl. 103). Apresenta, também, precedente desta Corte Superior de Justiça(STJ,RHC 105.167/SP, de minha relatoria, Quinta Turma,DJe 02/04/2019) que afasta a responsabilização objetiva.
+A defesa do recorrente pleiteia, ainda, o trancamento da ação penal ao fundamento de ausência de justa causa por inexistência de indícios suficientes de autoria. Sustenta que malgrado o acordão recorrido afirma a suposta existência de elementos mínimos a sustentar o recebimento da denúncia, não menciona qualquer elemento indiciário (fl. 112).
+Aduz, outrossim, nulidade do acórdão impugnado ao fundamento de que não teria enfrentado as teses defensivas.
+Requer, então, o provimento do recurso, com o trancamento da ação penal aos seguintes fundamentos: (i) inépcia da denúncia (art. 395, I, do CPP); (ii) ausência de justa causa (art. 395, III, do CPP) e (iii) nulidade do acórdão nos termos do art. 93, inciso IX, da Constituição Federal e 315, inciso IV, do CPP (fl. 116).
+Nesta Corte Superior de Justiça o Ministério Público Federal opinou pelo desprovimento do recurso em parecer que recebeu o seguinte sumário:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO CULPOSO. ARTIGO 121, § 3º, CÓDIGO PENAL. TRANCAMENTO DE AÇÃO PENAL. ALEGAÇÃO DE FALTA DE JUSTA CAUSA E INÉPCIA DA DENÚNCIA. IMPROCEDÊNCIA DAS TESES DEFENSIVAS.
+1. O trancamento da ação penal por meio do habeas corpus é medida excepcional, só admissível se emergente dos autos, de forma inequívoca, a ausência de indícios de autoria e de prova da materialidade delitivas, a atipicidade da conduta ou a extinção da punibilidade, o que não ocorre na espécie.
+2 . A alegação de falta justa causa, consubstanciada na arguição de ausência a de indícios de autoria delitiva e inépcia da denúncia, demanda inexoravelmente revolvimento de matéria fático-probatória, não condizente com a via angusta do writ, devendo, pois, serem avaliadas pelo Juízo a quo por ocasião da prolação da sentença, após a devida e regular instrução criminal, sob o crivo do contraditório.
+3. Parecer pelo desprovimento do recurso ordinário." (fl. 134)
+É o relatório.
+Decido.
+Conforme relatado, busca-se no presente recurso o trancamento da ação penal por inépcia da denúncia, por de ausência de justa causa, sustentando-se, ainda, nulidade do acórdão impugnado por falta de fundamentação.
+Todavia, constata-se que o presente recurso perdeu seu objeto, pois, conforme as informações de fls. 146/152, o recorrente foi absolvido, com o trânsito em julgado da sentença em 1º de abril de 2022.
+Ante o exposto, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
