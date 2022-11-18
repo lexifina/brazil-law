@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 1A VARA DE PARANAVAÍ - SJ/PR, suscitante, e o TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, suscitado, nos autosde ação em que se pleiteia o fornecimento de medicamento registrado na Anvisa, mas quenão consta do rol do RENAME/SUS.
+O Ministério Público Federal ofertou parecer, às fls. 325-327, opinando pelo sobrestamento do presente conflito.
+É, no essencial, o relatório.
+O Supremo Tribunal Federal pacificou, no julgamento do Tema n. 793, que a responsabilidade dos entes federados pelo dever de prestar assistência à saúde é solidária e que o polo passivo da ação respectiva pode ser composto por qualquer um deles, isolada ou conjuntamente. Confira-se:
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E
+ADMINISTRATIVO. DIREITO À SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA.
+O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente.
+(RE n. 855.178-RG, relator Ministro Luiz Fux, Tribunal Pleno, publicado em 16/3/2015.)
+Considerando a repercussão social da matéria, assim como o teor das Súmulas n. 150, 224 e 254 do STJ, foi proposta nesta Corte a instauração de incidente de assunção de competência nos autos do CC n. 187.276/RS, do CC n. 187.533/SC e do CC n. 188.002/SC.
+Assim, a fim de definir o juízo competente e, se for o caso, evitar a declinação de competência para a Justiça Federal nas hipóteses em que essa medida não se mostrar cabível, o IAC n. 14 foi acolhido, à unanimidade, na sessão de julgamento virtual de 25/5/2022 a 31/5/2022, em acórdão publicado no DJe de 10/6/2022, assim ementado:
+PROCESSUAL CIVIL. INCIDENTE DE ASSUNÇÃO DE
+COMPETÊNCIA. DIREITO À SAÚDE. MEDICAMENTO NÃO INCORPORADO AO SUS E REGISTRADO NA ANVISA. CONFLITO NEGATIVO DE COMPETÊNCIA. JUÍZOS FEDERAL E ESTADUAL. PROPOSTA. ACOLHIMENTO.
+1. Trata-se de proposta de incidente de assunção de competência, nos termos do art. 947 do Código de Processo Civil/2015, em conflito negativo de competência instaurado nos autos de ação ordinária que versa sobre o fornecimento de medicação não padronizada pelo Sistema Único de Saúde - SUS.
+2. A instauração do presente incidente visa unicamente decidir o juízo competente para o julgamento de demanda relativa à dispensação de tratamento médico não incluído nas políticas públicas, sendo o conflito de competência o processo adequado para dirimir a questão de direito processual controvertida, sem que haja necessidade de adentrar no mérito da causa (onde suscitado o conflito) - ainda que a discussão se refira a preliminar, como, no caso, a legitimidade ad causam - nem em eventual nulidade da decisão do Juízo Federal, matérias que devem ser analisadas no bojo da ação ordinária.
+3. Delimitação da tese controvertida: Tratando-se de medicamento não incluído nas políticas públicas, mas devidamente registrado na ANVISA, analisar se compete ao autor a faculdade de eleger contra quem pretende demandar, em face da responsabilidade solidária dos entes federados na prestação de saúde, e, em consequência, examinar se é indevida a inclusão da União no polo passivo da demanda, seja por ato de ofício, seja por intimação da parte para emendar a inicial, sem prévia consulta à Justiça Federal.
+4. Proposta de julgamento do tema mediante a sistemática do incidente de assunção de competência acolhida.
+(IAC no CC n. 187.276/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 13/6/2022.)
+Dessa forma, ficou decidida a manutenção do curso das ações que versam sobre o fornecimento de tratamento ou medicamento não incluído nas políticas públicas, assim como a fixação do Juízo estadual para decidir, em caráter provisório, as medidas urgentes a respeito dos processos, nos termos do art. 955 do CPC.
+Além disso, no julgamento da questão de ordem suscitada nos aludidos conflitos de competência, determinou-se que, até o julgamento definitivo do Incidente de Assunção de Competência n. 14, o juiz estadual deverá abster-se de praticar qualquer ato judicial de declinação de competência nos feitos em comento.
+Ante o exposto, com fulcro no art. 955 do CPC e conforme decidido no IAC n. 14, designo o TRIBUNAL DE JUSTIÇA DO PARANÁpara decidir, em caráter provisório, as medidas urgentes referentes ao processo que originou o presente conflito até o julgamento do incidente de assunção de competência e determino o SOBRESTAMENTO destes autos, que deverão permanecer na Coordenadoria de Feitos de Direito Público, até o julgamento definitivo dos Conflitos de Competência n. 187.276/RS, 187.533/SC e 188.002/SC.
+Após, voltem-me os autos conclusos.
+Comunique-se, com urgência, a decisão ao Juízo suscitante e ao Juízo suscitado.
+Publique-se. Intimem-se.
