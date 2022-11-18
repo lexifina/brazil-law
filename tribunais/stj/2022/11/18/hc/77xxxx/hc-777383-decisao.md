@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de LETICIA MENDES RIBEIROcontra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n.1.0000.22.160884-7/000).
+Extrai-sedos autos que o Juízo de primeiro grau condenou apaciente a 8 anos e 10 meses de reclusão, inicialmente no regime fechado, como incursanos arts. 33 e 35 da Lei n. 11.343/06 (tráfico de drogas e associação para o tráfico).
+Transitado em julgado o decreto condenatório, a defesa impetrou préviowritna Corte estadual, que não conheceu do pedido, em julgamento assim resumido (fl. 30):
+"HABEAS CORPUS. INSURGÊNCIA EM FACE DO NÃO RECEBIMENTO DE RECURSO EM FACE DE SENTENÇA CONDENATÓRIA TRANSITADA EM JULGADO. VIA INADEQUADA. NÃO CONHECIMENTO DO WRIT. 1. As hipóteses de cabimento da ação constitucional de "Habeas Corpus" são restritas, não se admitindo que seja utilizado em substituição a recursos ordinários ou a revisão criminal, por exemplo. 2.Ordem não conhecida."
+Em suas razões, oimpetrante assevera que no "caso sub examine, não poderia ter ocorrido o trânsito em julgado da sentença penal condenatória sem prévia intimação pessoal da Paciente para que, querendo, externasse interesse em recorrer, vício indelével que atenta contra disposições legais válidas, vigentes e eficazes"(fl. 11).
+Pugna, assim, pelo reconhecimento da "nulidade do trânsito em julgado da sentença penal condenatória, cassando-se os efeitos da guia de execução definitiva da pena e devolvendo-se o prazo à Defesa para interposição e, em sequência, arrazoamento do Recurso de Apelação" (fl.28).
+A liminar foi indeferida por decisão de fls. 108/109.
+OMinistério Público Federal opinou pelo não conhecimento do mandamus e, subsidiariamente, pela denegação da ordem, nos termos do parecer assim ementado(fl. 114):
+"PENAL e PROCESSUAL PENAL. Habeas corpus substitutivo de revisão criminal (RvC). Inadmissão. Tráfico de drogas. Alegação de nulidade da certificação do trânsito em julgado da sentença condenatória. Inocorrência. Ré devidamente representada por advogado constituído e intimada pessoalmente da sentença, que não manifestou o desejo de recorrer. Falta de interposição de recurso de apelação pelo defensor que não nulifica o processo. Princípio da voluntariedade.Interposição de recurso de apelação intempestivo, por novo defensor. Ausência de constrangimento ilegal. Não admissão do writ, descabida a concessão de uma ordem ex officio."
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Ao contrário do alegado pelo impetrante, o Tribunala quoassentou expressamente que tanto a ré, mesmo intimada pessoalmente, quanto os advogados constituídos, quedaram-se inertes em manifestar irresignação tempestiva quanto ao decreto condenatório, não tendo a impetração elementos aptos a desconstituir o que ficou lá estabelecido.A propósito, confiram-se os fundamentos adotados no voto condutor do acórdão recorrido (fls. 32/33):
+"Tal como asseverado pelo i. Procurador de Justiça, verifica-se ser hipótese de não conhecimento do writ.
+Isso porque tanto a Constituição (art. 5º, LXVIII), como o CPP (art.647) estabelecem que o Habeas Corpus é o remédio constitucional cabível para garantia do direito de locomoção da pessoa, quando ficarem evidenciados ilegalidade ou abuso de poder.
+No entanto, no caso em tela, não se verifica quaisquer das hipóteses mencionadas acima, uma vez que o impetrante busca se insurgir contra o não recebimento de recurso extemporâneo interposto em face de sentença condenatória já transitada em julgado.
+Registre-se que a paciente foi condenada pelo cometimento dos crimes previstos no art. 33, c/c art. 40, V, e no art. 35, todos da Lei n.º 11.343/06, às penas de 08 (oito) anos e 10 (dez) meses de reclusão, a ser cumprida inicialmente em regime fechado, e 1.283 dias-multa, no valor mínimo unitário - sendo certo que o trânsito em julgado ocorreu em 31/01/2022 (fl. 104 do doc. único).
+Ora, as hipóteses de cabimento do writ são restritas, não se admitindo que seja utilizado em substituição a recursos ordinários, tampouco como substitutivo de revisão criminal, como pretende o impetrante.
+Ainda assim, sem olvidar a possibilidade de concessão da ordem de ofício, da detida análise dos autos, não vislumbro qualquerconstrangimento ilegal a ser sanado por meio deste remédio heroico.Explico.
+Do que consta nos autos, a sentença condenatória foi publicada em 19/01/2022, enquanto a paciente foi pessoalmente intimada no dia 26/01/2022 (fls. 106/107 do doc. único) - oportunidade em que tomou conhecimento do decisum e quedou-se inerte em manifestar (ou não) seu interesse em recorrer.
+Em 27/01/2022, o então advogado constituído de Letícia (Dr. Pedro) substabeleceu seus poderes para outro defensor (Dr. Victor) - e nenhuma irresignação contra a sentença foi apresentada."
+Além disso, avia eleita, marcada por cognição sumária e rito célere, é inadequada à mudança da conclusão adotada na origem, sem o necessário revolvimento do conjunto fático-probatório.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intime-se.
