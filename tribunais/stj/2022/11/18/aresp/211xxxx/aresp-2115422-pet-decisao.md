@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de Petição nº 00944334/2022, de fls. 1.037/1.043, e-STJ, na qual arequerente CAIXA SEGURADORA S/A informa que "foi procedida a cisão da CAIXA SEGURADORA S/A com o objetivo de otimizar a estrutura societária a qual encontra-se inserida (Grupo Caixa Seguradora), e como consequência todos os ativos, direitos e obrigações relacionados às atividades de seguros de pessoas que, até então lhe competiam (Seguros de Vida e Prestamista), foram transferidos para a administração da CAIXA VIDA E PREVIDÊNCIA S/A." (fl. 1.037, e-STJ).
+Requer, nestes termos, a "inclusão da CAIXA VIDA E PREVIDÊNCIA no polo passivo da presente ação, bem como, na homologação do termo de acordo entre as partes litigantes, e a consequente exclusão da CAIXA SEGURADORA S/A do feito." (fl. 1.038, e-STJ).
+A parte requerida CLAUDIR PARABOTCHEY, bem como CAIXA VIDA E PREVIDÊNCIA S/A, foram intimados à fl. 1.049, e-STJ, a se manifestarem no prazo improrrogável de 05 (cinco) dias,sob pena da imediata certificação do trânsito em julgado do agravo interno de e-STJ fls. 1.021/1.024, e a baixa dos autos à origem, onde o pedido de homologação deverá ser apreciado.
+CAIXA VIDA E PREVIDÊNCIA S/A, tão somente se manifestouexpressamente, concordandocoma substituição processual, bem como reiterandoo pedido de substituição processual e homologação de acordo pelas instâncias ordinárias.
+Diante dos fatos quanto à substituiçãoprocessuale da documentação juntada pela requerente, nãohá óbice,portanto, para o deferimento da substituição processual, ateor dodisposto no art. 778, § 1º, e § 2º, do CPC/2015.
+Forte nessas razões, DEFIRO o pedido de substituição daCAIXA SEGURADORA S/A, pela CAIXA VIDA E PREVIDÊNCIA S/A, determinando que esta última passe a constar como agravante, representada peloadvogadoindicadoà fl. 1.046, e-STJ, ANTONIO EDUARDO GONÇALVES DE RUEDA, inscrito na OAB/PE sob o nº 16.983,conforme procuração de fl. 943, e-STJ, a qual deverá receber intimações.
+À Secretaria, para a adoção das providências cabíveis.
+Após, segue-se sequência aos trâmites processuais dispostos na decisão de fls. 1.035, e-STJ.
+Publique-se. Intimem-se
