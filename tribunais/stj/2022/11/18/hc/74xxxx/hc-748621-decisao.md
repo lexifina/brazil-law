@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado(fl. 354):
+EMENTA - APELAÇÃO CRIMINAL DEFENSIVA - FURTO - PLEITO PELA DESCLASSIFICAÇÃO DA MODALIDADE CONSUMADA PARA A TENTADA - IMPOSSIBILIDADE - INVERSÃO DA POSSE DA RES FURTIVA - REDUÇÃO PENA-BASE - INCABÍVEL - MANTIDA AGRAVANTE DA REINCIDÊNCIA - RECURSO IMPROVIDO
+A consumação do delito de furto exige, tão somente, a inversão da posse, bastando que a coisa subtraída passe à esfera possessória do agente, pouco importando se a posse tenha sido mansa, pacífica ou por período prolongado, ainda que haja a retomada da res furtiva, logo em seguida, pela própria vítima ou por terceiros.
+Havendo circunstância judicial adequadamente avaliada como negativa, mantém-se a exasperação da pena-base.
+Os registros de condenações penais transitadas em julgado constante das folhas de antecedentes criminais emitidas por institutos de identificação são suficientes para que se reconheça os maus antecedentes e a agravante da reincidência.
+Consta dos autos que o paciente foi condenado às penas de 2anos e6meses de reclusão, em regime inicial semiaberto, e 20dias-multa, como incurso no art.155, caput, do CP.
+No presente writ, a defesa alega, em suma, a ocorrência de ilegalidade na dosimetria da pena.
+Aduz que o Tribunal de origem"cerceouo direito do Paciente à diminuição do quantum de aumento com relação à agravante da reincidência para o montante de 1/6 da pena-base" (fl. 5).
+Requer, liminarmente e no mérito, o redimensionamento da reprimenda, no sentido de"Diminuir do quantum de aumento com relação à agravante da reincidência para 1/6 da pena-base, uma vez que foi utilizada expressamente somente uma condenação definitiva para o incremento da pena na segunda fase" (fl. 12).
+Indeferida a liminar e prestadas as informações, o Ministério Público manifestou-se pela denegação da ordem.
+Acerca da dosimetria, consta do acórdão (fls. 356/358):
+Por outro lado, buscou a redução da pena-base, que restou fixada nos seguintes termos:
+Na dosimetria da pena, ante as circunstâncias judiciais do art. 59do CP, verifico a culpabilidade - entendida como reprovabilidade e censurabilidade - normal.
+O acusado registra condenação nos autos 2453-76.2012.8.26.0024, 2527-73.2009.8.26.0024, 10987-82.2007.8.26.0024, 11534-88.2008.8.26.0024, 3449- 98.2006.8.26.0032 e 15751- 92.2004.8.26.0032, com trânsito em julgado em 26.10.12, 22.10.10, 04.10.10, 15.10.09, 26.10.09 e 19.12.06 (fls. 51/58), que serão valoradas como maus antecedentes.
+Não há elementos nos autos a aferir com profundidade a conduta social nem a personalidade do acusado. O delito foi cometido para o próprio proveito e não se constatou comportamento negativo da vítima. Nada de especial em relação às circunstâncias. As consequências do crime não foram graves, pois os bens subtraídos foram recuperados. Por ser defavorável ao acusado um dos vetores do art. 59 do CP (maus antecedentes), fixo a pena base em um ano e seis meses de reclusão e pagamento de vinte dias-multa.
+ ..
+Ao verificar, portanto, as circunstâncias judiciais o julgador fará análise do crime e do criminoso devendo, apesar da sua discricionariedade, fundamentar o aumento da pena-base ante a existência de conjecturas desfavoráveis, além da necessidade de reprovação do delito praticado.
+Desta forma, observa-se que restou devidamente fundamentada a exasperação da pena-base, considerando que os antecedentes do apelante devem sopesar em seu desfavor, eis que ostenta condenações transitadas em julgado por fatos anteriores, devendo, portanto ser mantida a pena fixada.
+Registre-se que, na segunda fase da dosimetria, foi adequadamente valorada a agravante da reincidência para exasperar a pena do apelante, sendo que tal fato não configura bis in idem, eis que ostenta várias condenações transitadas em julgado por fatos anteriores, podendo, corretamente, considerar uma para elevar pena-base e outra para agravar a reprimenda pela reincidência.
+Ademais, não há falar em ausência de documento a comprovação do histórico criminal do apelante, eis que consta, às p. 41/47, certidão estadual de antecedentes criminais e documento emitida por instituto de identificação.
+Por sua vez, consta da sentença (fl. 287):
+3. Na dosimetria da pena, ante as circunstâncias judiciais do art. 59 do CP, verifico a culpabilidade - entendida como reprovabilidade e censurabilidade - normal.
+O acusado registra condenação nos autos 2453-76.2012.8.26.0024, 2527-73.2009.8.26.0024, 10987-82.2007.8.26.0024, 11534-88.2008.8.26.0024, 3449- 98.2006.8.26.0032 e 15751-92.2004.8.26.0032, com trânsito em julgado em 26.10.12, 22.10.10, 04.10.10, 15.10.09, 26.10.09 e 19.12.06 (fls. 51/58), que serão valoradas como maus antecedentes.
+Não há elementos nos autos a aferir com profundidade a conduta so- cial nem a personalidade do acusado. O delito foi cometido para o próprio proveito e não se constatou comportamento negativo da vítima. Nada de especial em relação às circunstâncias. As consequências do crime não foram graves, pois os bens subtraídos foram recuperados.
+Por ser defavorável ao acusado um dos vetores do art. 59 do CP (maus antecedentes), fixo a pena base em um ano e seis meses de reclusão e pagamento de vinte dias-multa.
+Na segunda fase da aplicação incidiu a agravante da reincidência (art. 65, I, do CP), ante a condenação nos autos 3004045-70.2013.8.26.0024, com trânsito em julgado em 23.11.15, razão pela qual majoro a pena em um ano de reclusão.
+Inexistem circuntâncias atenuantes a considerar, de modo que a pena intermediária resta estabelecida em dois anos e seis meses de reclusão e pagamento de vinte dias-multa.
+Ausentes causas de aumento e de diminuição de pena, torno definitiva a reprimenda em dois anos e seis meses de reclusão e pagamento de vinte dias- multa.
+Como se vê, o Tribunal de origem elevou a pena em 1 ano em razão da agravante da reincidência, ressaltando a existência devárias condenações anteriores.
+De fato, admite-se "a utilização de condenações anteriores transitadas em julgado como fundamento para a fixação da pena-base acima do mínimo legal, diante da valoração negativa dos maus antecedentes ficando apenas vedado o bis in idem. Assim, considerando a existência de duas condenações transitadas em julgado não valoradas como reincidência, na segunda etapa da dosimetria, não se vislumbra ilegalidade na dosimetria da pena" (HC 602.919/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 25/08/2020, DJe 03/09/2020).
+Contudo, a fração de 2/3 para agravar a pena, pelareincidência, fundamentou-se apenas em uma condenação, sendo que todas as outras macularam os antecedentes, entendimento que não se alinha à jurisprudência deste Superior Tribunal, motivo pelo qual deve a fração de aumento ser reduzida para1/6. Nesse sentido: (AgRg no AREsp 1871524/AM, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/09/2021, DJe 22/09/2021)
+Fixada a pena-base em 1 ano e 6 meses de reclusão e 20 dias-multa, na segunda fase, procede-se ao aumento de1/6 pela reincidência, totalizando 1 ano e 9 meses de reclusão -mantendo-seos20 dias-multa para não se incorrer em reformatio in pejus -, patamar que se torna definitivopela ausência de causas de aumento ou de diminuição.Mantidos os demais termos da condenação.
+Ante o exposto, concedo o habeas corpus para fixar a pena definitiva em1 ano e 9 meses de reclusão, em regime semiaberto, e 20 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se
