@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelo Instituto Nacional do Seguro Social contra inadmissão, na origem, de recurso especial que ataca acórdão doTribunal Regional Federal da 4ª Regiãoassim ementado:
+PREVIDENCIÁRIO E PROCESSUAL. BENEFÍCIO POR INCAPACIDADE. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA. PRESCRIÇÃO QUINQUENAL. AUSÊNCIA DE LAUDO PERICIAL. CERCEAMENTO DE DEFESA. SENTENÇA ANULADA.
+1. Tratando-se de obrigação de trato sucessivo, admite-se apenas a ocorrência da prescrição parcial, ou seja, das prestações anteriores ao quinquênio que precede a propositura da ação, e não do fundo do direito reclamado.
+2. Embora caiba ao juiz aferir a necessidade ou não de determinada prova, o seu poder instrutório, assim como o seu livre convencimento, devem harmonizar-se com o direito da parte à ampla defesa, considerando a nítida implicação social das ações de natureza previdenciária.
+3. Hipótese de anulação da sentença com a determinação d eretorno dos autos à origem para o regular processamento dofeito, possibilitando à parte autora a realização da prova pericial.
+Nas razões de recurso especial manejado com fulcro na alínea "a" do permissivo constitucional, o recorrente aponta violação aoartigo 1º do Decreto 20.910/32.
+Assevera que "proposta a ação judicial mais de cinco anos após a cessação ou o indeferimento do benefício previdenciário, ocorre a prescrição do direito de reverter o ato administrativo indeferitório, uma vez que o postulante só procurou o Judiciário após o prazo previsto no artigo 1º do Decreto 20.910/32".
+Foram apresentadas contrarrazões ao recurso especial.
+A inadmissão do apelo nobre se deu com espeque na Súmula 83/STJ.
+É o relatório. Decido.
+O agravante impugnou de forma devida o fundamento adotado na decisão agravada e mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se o mérito.
+A Primeira Seção deste Tribunal Superior nos autos do EREsp nº 1.269.726/MG, julgado em 13/03/2019, alinhando-se ao entendimento do Supremo Tribunal Federal no RE nº 626.489/SE, decidiu que "o benefício previdenciário constitui direito fundamental da pessoa humana, dada a sua natureza alimentar e vinculada à preservação da vida. Por essa razão, não é admissível considerar extinto o direito à concessão do benefício pelo seu não exercício em tempo que se julga oportuno. A compreensão axiológica dos Direitos Fundamentais não cabe na estreiteza das regras do processo clássico, demandando largueza intelectual que lhes possa reconhecer a máxima efetividade possível".
+Dessa forma, embora o direito material à concessão inicial do benefício seja imprescritível, na medida em que representa direito fundamental indisponível, o direito processual de ação, cujo objetivo é reverter o ato administrativo que suspendeu/cessou o benefício, estará sujeito à prescrição do artigo 1º do Decreto n. 20.910/1932.
+Confira-se a orientação da jurisprudência sobre o tema:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. PEDIDO DE RESTABELECIMENTO DE PENSÃO. PRESCRIÇÃO DE FUNDO DE DIREITO. ART. 1º DO DECRETO N. 20.910/1932. OCORRÊNCIA. AGRAVO NÃO PROVIDO.
+1. Na hipótese de supressão de benefício previdenciário pelo Poder Público, a prescrição é do próprio fundo do direito. Precedentes.
+2. A jurisprudência desta Corte, na esteira do entendimento firmado no RE 626.489/SE, vem se consolidando no sentido de que não ocorre prescrição de fundo de direito na hipótese de pretensão de concessão inicial de benefício previdenciário, por tratar-se de direito fundamental da requerente.
+3. No entanto, na hipótese dos autos, não se está diante de pretensão de concessão inicial de benefício previdenciário, mas de seu restabelecimento. Assim, correto o reconhecimento da prescrição de fundo de direito, não havendo violação do art. 1º do Decreto n. 20.910/1932.
+4. Agravo interno a que se nega provimento. (AgInt no REsp 1648266/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe 04/06/2020)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. BENEFÍCIO POR INCAPACIDADE. ATO ADMINISTRATIVO INDEFERITÓRIO. PRESCRIÇÃO QUINQUENAL PREVISTA NO ARTIGO 1o DO DECRETO 20.910/1932. PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. POSSIBILIDADE DE PLEITEAR NOVO BENEFÍCIO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. De acordo com a jurisprudência do STJ, embora o direito material à concessão inicial do benefício seja imprescritível, na medida em que representa direito fundamental indisponível, a pretensão em reverter o ato administrativo indeferitório do auxílio-doença, mercê da temporariedade do benefício, está sujeita à prescrição do artigo 1º do Decreto 20.910/1932.
+2. Agravo interno não provido. (AgInt no REsp 1819203/PE, de minha relatoria, SEGUNDA TURMA, DJe 24/10/2019)
+No presente caso, de fato, não há que se falar em decadência do direito ao benefício pleiteado uma vez que, conforme premissas estabelecidas pelas instâncias ordinárias,o segurado não pleiteou o restabelecimento de benefício anterior que fora cessado administrativamente - auxílio-doença -mas, sim, a concessão de um novo benefício previdenciário - "auxílio-acidente, ou alternativamente, aposentadoria por invalidez".
+No ponto, as conclusões do acórdão recorrido não destoam da jurisprudência desta Corte, ao entender que não ocorre a decadência do fundo de direito em matéria acidentária, mas sim a prescrição das parcelas vencidas antes do quinquênio precedente à propositura da ação.
+Dessa forma, por estar o acórdão recorrido em consonância com o entendimento deste Superior Tribunal, incide, à espécie, o enunciado da Súmula 568/STJ, segundo a qual: "O relator, monocraticamente, no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.".
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, bem como na Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL.BENEFÍCIO POR INCAPACIDADE. PRESCRIÇÃO. ART. 1º DO DECRETO 20.910/32. NÃO OCORRÊNCIA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 568/STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
