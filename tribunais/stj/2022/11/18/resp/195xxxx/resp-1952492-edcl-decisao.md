@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ANTONIO APARECIDO EVANGELISTA, contradecisão de fls. 332/337, que reconsiderou a decisão de fls. 311/313 e determinou o retorno dos autos à origem para melhor análise da questão nos termos da fundamentação que entendeu no sentido de que "A matéria decidida no processo de conhecimento está protegida sob o manto da coisa julgada, tornando inviável sua modificação em sede de embargos à execução" (EDcl no REsp 1.107.011/PR, Rel. Ministro Luiz Fux, Primeira Turma, DJe 17.9.2009).
+A parte embargante sustenta que "ante à solução adotada pelo d. Julgador, e estando o feito "protegido sob o manto da coisa julgada", caberia a imediata determinação de retorno dos autos ao primeiro grau para que, finalmente, fossem calculados todos os valores devidos ao Embargante, sem prejuízo da adequação do valor de sua aposentadoria, como bem requerido em seu recurso especial, sobretudo em observância ao principio "quem pode o mais, pode o menos".(fl. 340)
+Devidamente intimada,a parte embargada não impugnou, conforme certidão de fl. 349.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos dedeclaração nas hipóteses de obscuridade, contradição e omissão da decisãoatacada ou, ainda, para correção de erro material.
+Entretanto, no caso dos autos, não se verifica a existência de qualquerdos vícios em questão, pois a decisão embargadaenfrentou e decidiu, demaneira integral e com fundamentação suficiente, toda a controvérsia postano recurso.
+Com efeito, ficou devidamente consignadona decisão hostilizada que "o fundamento adotado pelo Tribunal de origem, para afastar a aplicação do art. 31 da Lei 8.213/91, determinado pelo título executivo, não encontra guarida na jurisprudência firmada nesta Corte, no sentido de que, em sede de cumprimento de sentença, não é possível, alterar ou modificar os parâmetros estabelecidos no título executivo transitado em julgado, porquanto "A matéria decidida no processo de conhecimento está protegida sob o manto da coisa julgada, tornando inviável sua modificação em sede de embargos à execução" (EDcl no REsp 1.107.011/PR, Rel. Ministro Luiz Fux, Primeira Turma, DJe 17.9.2009).
+Assim, via de consequência, determinou-se o retorno dos autos ao Tribunal de origem para que, à luz da premissa jurídica ora estabelecida, o mérito seja novamente apreciado, sob pena de a análise direta, nesta faseprocessual, violar o duplo grau de jurisdição.
+Dessarte, não podem ser acolhidos embargos de declaração que, a pretextode alegados vícios no julgado, traduzem, na verdade, seu inconformismo coma decisão tomada, pretendendo rediscutir o que já foi decidido. Nessepanorama, inexistente qualquer vício no acórdão embargado, conforme exigeo art. 1.022 do CPC, impõe-se a rejeição dos presentes aclaratórios.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EMAGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. VÍCIOS NÃOCONFIGURADOS. PROPÓSITO DE MODIFICAÇÃO DO JULGAMENTO. MEIO IMPRÓPRIO.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC/2015,destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissãoou corrigir erro material.
+2. Não se identifica, no recurso, qualquer ponto sobre o qual eranecessária manifestação, mas apenas a discordância da parte com a soluçãoapresentada no julgamento e seu propósito de modificação.
+3. Por contradição entende-se coexistência de afirmações em desacordo nomesmo julgado, gerando ilogicidade ao texto. Mas desse problema não seressente o julgado.
+4. Embargos de declaração rejeitados, com aplicação de multa de 1% (um porcento) sobre o valor atualizado da causa.
+(EDcl no AgInt nos EAREsp 666.334/RS, Rel. Ministro OG FERNANDES, PRIMEIRASEÇÃO, julgado em 22/8/2018, DJe 28/8/2018)
+ANTE O EXPOSTO, rejeitam-se os embargos de declaração.
+Publique-se.
