@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Marcos Reis Lopes contra decisão assim resumida (fl. 248):
+PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA. CONCESSÃO DE EFEITO SUSPENSIVO ATIVO A RECURSO ESPECIAL. FUMUS BONI IURIS E PERICULUM IN MORA VERIFICADOS. TRÁFICO DE DROGAS, RECEPTAÇÃO. ADULTERAÇÃO DE SINAIS DE VEÍCULO AUTOMOTOR. PRISÃO PREVENTIVA. PERICULOSIDADE SOCIAL DO ACUSADO REINCIDENTE. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA. NECESSIDADE DA SEGREGAÇÃO CAUTELAR.
+Pedido de tutela provisória de urgência deferido nos termos do dispositivo.
+Alega o agravante que, no momento em que fora concedido o Habeas Corpus, o agravante já se encontrava em liberdade, tendo o mesmo perdido o seu objeto, conforme já informado no processo do segundo grau, no pedido de reconsideração e reiterado nas contrarrazões do Recurso Especial a seguir especificado (fl. 259).
+Busca a reforma da decisão, por considerar que o deferimento da liberdade provisória anteriormente ao julgamento do writ ensejou a prejudicialidade da impetração, ante a falta de utilidade do remédio constitucional.
+Diz que o recurso especial interposto pelo ora agravado, em nenhum momento questiona os fundamentos do habeas corpus, ou da perda do objeto, de modo que parte da fundamentação apresentada pelo nobre julgador, dissocia-se do objetivo do recurso, que vislumbra exclusivamente a prisão preventiva do agravante (fl. 262).
+Aduz que não apresenta qualquer "perigo gerado pelo estado de liberdade" tanto é que o mesmo se encontra nesse estado até o presente momento sem ter apresentado qualquer risco, tendo nada além de bom comportamento, sobre a tese do agravado, este não trouxe aos autos qualquer elemento que comprovasse o alegado (fl. 263).
+Instado a se manifestar, o Parquet gaúcho apresentou contrarrazões no sentido do desprovimento do agravo.
+A Subprocuradoria-Geral da República opinou pela prejudicialidade do habeas corpus objeto do recurso especial, ao qual se busca atribuir efeito suspensivo, em parecer assim resumido (fl. 281 - grifo nosso):
+AGRAVO REGIMENTAL EM PETIÇÃO MANEJADA COM VISTAS À CONCESSÃO DE EFEITO SUSPENSIVO EM RECURSO ESPECIAL. PRISÃO FLAGRANTE CONVERTIDA EM PREVENTIVA. HABEAS CORPUS IMPETRADO PARA SE ALCANÇAR A LIBERDADE PROVISÓRIA.
+PERDA DE OBJETO. PLEITO DEFERIDO PELO MAGISTRADO SINGULAR ANTES DO JULGAMENTO DO WRIT.
+APELO MINISTERIAL QUE SE VOLTA CONTRA DECISÃO DIVERSA DAQUELA QUE CONCEDEU A LIBERDADE AO RÉU.
+PARECER PELO PROVIMENTO DO AGRAVO REGIMENTAL PARA REFORMAR A DECISÃO QUE CONCEDEU EFEITO SUSPENSIVO AO RECURSO ESPECIAL.
+É o relatório.
+A insurgência merece ser acolhida.
+De fato, o deferimento da liberdade provisória pelo Juízo de origem acarretou a perda superveniente do interesse de agir do habeas corpus impetrado no Tribunal de Justiça do Rio Grande do Sul, que buscava a revogação da prisão preventiva.
+Nesse contexto, tendo em conta que a referida quaestio iuris foi bem delineada pelo Ministério Público Federal, adoto o parecer da lavra do Subprocurador-Geral da República Vinícius Fernando Alves Fermino como fundamento para decidir (fls. 287/288. - grifo nosso):
+Nessa perspectiva, assiste razão ao agravante porque o writ impetrado na origem já havia perdido o objeto na ocasião de seu julgamento, circunstância que torna inócua a irresignação ministerial. Observe-se.
+O ora agravante teve sua prisão em flagrante convertida em preventiva no dia 24/1/2021, conforme decisão de fls. e-STJ 103/104. A ação de habeas corpus foi impetrada em 29/1/2021, de acordo com a petição acostada às fls. e-STJ 20/27.
+O julgamento deste remédio constitucional, cuja ordem foi parcialmente concedida, ocorreu somente em 15/4/2021, como se infere do acórdão às fls. e-STJ 158/168.
+Ocorre, no entanto, que quando foi julgado o habeas corpus, em 15/4/2021, o juízo singular do processo principal (Ação Penal nº 5000560- 18.2021.8.21.0014/RS) já havia concedido, em decisão proferida em 6/4/2021 (fls. e- STJ 224/225), a liberdade provisória para MARCOS REIS LOPES, determinando, por conseguinte a expedição do competente alvará de soltura, o qual foi expedido no mesmo dia, conforme documento acostado às fls. e-STJ 220/222.
+Nesse contexto, tem-se que o ora agravante MARCOS REIS LOPES já havia alcançado a liberdade provisória, objeto do writ impetrado, quando ocorreu o julgamento do habeas corpus, o qual deveria ter sido extinto, sem julgamento do mérito, justamente pelo reconhecimento da perda de seu objeto.
+Sendo assim, considerando que a liberdade provisória de MARCOS REIS LOPES foi concedida por força de decisão proferida pelo magistrado de piso na ação penal originária, em 6/4/2021, e não em razão da ordem parcialmente concedida no julgamento do writ pelo Tribunal de Justiça local, em 15/4/2021, tem-se por equivocada a decisão monocrática de fls. e-STJ 248/252 que, ao deferir o pedido formulado pelo Ministério Público do Estado do Rio Grande do Sul, determinou o restabelecimento da prisão preventiva do ora agravante, pois, como visto, não foi a decisão apontada na petição ministerial - e cujos efeitos se visa afastar - que determinou a liberdade do réu.
+Efetivamente, o recurso havia de ter sido manejado contra a decisão concessiva da liberdade provisória em primeiro grau.
+Pelos mesmos fundamentos, é manifesta a prejudicialidade do recurso especial interposto contra o acórdão que concedeu a ordem, quando já ausente o interesse de agir na ação constitucional de habeas corpus, ante a inutilidade acarretada pelo prévio deferimento da liberdade provisória.
+Em razão disso, o pedido de atribuição de efeito suspensivo apresentado peloParquetgaúcho não comporta acolhimento, sobretudo considerando a falta do requisito da probabilidade de êxito do recurso especial, nos termos do art. 995, parágrafo único, do Código de Processo Civil, uma vez que sua análise se encontra prejudicada pela ausência do interesse recursal.
+Ante o exposto, dou provimento ao agravo regimental para, reconsiderando a decisão monocrática de fls. 248/252, indeferir o pedido de atribuição de efeito suspensivo.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA. CONCESSÃO DE EFEITO SUSPENSIVO ATIVO A RECURSO ESPECIAL. LIBERDADE PROVISÓRIA DEFERIDA PELO JUÍZO DE PRIMEIRO GRAU ANTES DO JULGAMENTO DO WRIT OBJETO DO RECURSO ESPECIAL. PREJUDICIALIDADE MANIFESTA DO HABEAS CORPUS E DO RECURSO ESPECIAL. PARECER MINISTERIAL ADOTADO.
+Agravo regimental provido para, reconsiderando a decisão monocrática, indeferir o pedido.
