@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por RICARDO FORMENTI ZANCO, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/08/2019.
+Concluso ao gabinete em: 04/11/2022.
+Ação: cumprimento de sentença para recebimento de honorários advocatícios sucumbenciais movido pelo agravante, contra LUIZ PAULO BAPTISTA.
+Decisão interlocutória: modificou a base de cálculo dos honorários advocatícios sucumbenciais apontada pelo agravante em suainicial de cumprimento de sentença.
+Acórdão: deu provimento ao agravo de instrumento do agravante, nos termos da ementa:
+"Execução. Cumprimento de sentença. Honorários advocatícios. Fixação em 20% sobre o valor da execução. Decisão que modificou a base de cálculo da verba honorária. Inadmissibilidade. Matéria que já foi apreciada em precedente agravo de instrumento, estando, pois, acobertada pela coisa julgada. Decisão reformada. Agravo provido."
+Embargos de Declaração: opostospela parte agravada, após decisão do STJ determinando que os autos retornassem para novo julgamento dos aclaratórios, foram acolhidos com efeitos modificativos, nos termos da seguinte ementa:
+"Embargos de declaração. Determinação do C. STJ de novo julgamento. Pronunciamento a respeito da base de cálculo dos honorários advocatícios. Omissão sanada. Honorários advocatícios fixados sobre o valor da execução. Base de cálculo dos honorários deve observar o valor da condenação tal como fixado pela r. sentença que julgou a ação de conhecimento. Embargos de declaração acolhidos com efeito modificativo do julgado" (e-STJ fl. 497)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados (e-STJ fls. 514/518).
+Recurso especial: alega violação dos arts. 503, 505, 525, § 1º, V, do CPC/15, bem como seus correspondentes no CPC/73. Sustenta que faz jus a 20% do valor da execução da qual excluiu sua cliente do polo passivo. Alega que a decisão que reconheceu a ilegitimidade passiva de sua cliente previu que os honorários seriam fixados em 20% sobre o valor da execução, que, por sua vez, deve ser aquele apontado pelo agravado para a execução.
+Contrarrazões: às fls. 549/556, defende que o recurso especial não merece provimento pois ausente qualquer respaldo fato ou jurídico.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 568/STJ
+No julgamento do Recurso Especial nº 1.746.072/PR, a Segunda Seção desta Corte decidiu que o § 2º do art. 85 do CPC/2015 constitui a regra geral no sentido de que oshonoráriossucumbenciais devem fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.
+Segundo o entendimento desta Corte Superior "o reconhecimento doexcesso de execuçãoem sede deimpugnaçãodo cumprimento de sentença resultou na redução da quantia a ser executada, de modo que o executado faz jus à fixação dehonoráriosadvocatícios em seu favor, fixados em percentual sobre o valor decotado do inicialmente cobrado (proveito econômico), nos termos do art. 85, § 2º, do CPC/2015"
+Nesse sentido: AgInt no AREsp 1724132/SC,Quarta Turma,DJe 24/05/2021 e EDcl no AgInt no AREsp n. 1.704.142/SP,Quarta Turma, DJe de 25/8/2021.
+Na hipótese dos autos, o agravante faz jus ao recebimento de 20% sobre o valor do cumprimento de sentença, já que obteve sucesso em demonstrar a ilegitimidade passiva de seu cliente e livrá-lo de execução infundada.
+Portanto, mutatis mutandis, o proveito econômico obtido foi atotalidade do inicialmente cobrado, consoante a jurisprudência do STJ acima mencionada.
+Como consignado pelo TJ/SP, éverdade que o dispositivo da sentença da fase de conhecimento é o balizador que orienta o valor da execução em cumprimento de sentença, mas não exime a parte de seu ônuscaso esse direito de crédito não seja exercido dentro dos limites do comando sentencial.
+Assim, não deve prevalecer o entendimento do Tribunal de origem no sentido de que pouco importa o valor que o exequente atribuiu à execução (e-STJ fl. 498), pois a regra objetiva que rege os honorários sucumbenciais visa combatero ajuizamento de lides temerárias e o exercício de pretensões infundadas (Min. Luiz Felipe Salomão no Recurso Especial nº 1.746.072/PR).
+O recurso deve ser provido para que a base de cálculo doshonorários sucumbenciais calculados sobre o valor da execução, da qual se livrou a cliente da parte agravante, seja aqueleefetivamente apontada pelo agravado a título de cobrança na fase de cumprimento de sentença.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para que a base de cálculo dos honorários sucumbenciais calculados sobre o valor da execução, da qual se livrou a cliente da parte agravante, seja aquele efetivamente apontada pelo agravado a título de cobrança na fase de cumprimento de sentença.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA EM FASE DE CUMPRIMENTO SE SENTENÇA.ACOLHIMENTO DAEXCEÇÃO DE PRÉ-EXECUTIVIDADECOM EXTINÇÃO DA EXECUÇÃO.HONORÁRIOSADVOCATÍCIOS FIXADOS SOBRE O VALOR DO CUMPRIMENTO DE SENTENÇA.
+1. Cumprimento de sentença para recebimento de honorários advocatícios sucumbenciais.
+2.No julgamento do Recurso Especial nº 1.746.072/PR, a Segunda Seção desta Corte decidiu que o § 2º do art. 85 do CPC/2015 constitui a regra geral no sentido de que os honorários sucumbenciais devem fixados no patamar de 10% (dez por cento) a 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa.
+3. Segundo o entendimento desta Corte Superior "o reconhecimento do excesso de execução em sede de impugnação do cumprimento de sentença resultou na redução da quantia a ser executada, de modo que o executado faz jus à fixação de honorários advocatícios em seu favor, fixados em percentual sobre o valor decotado do inicialmente cobrado (proveito econômico), nos termos do art. 85, § 2º, do CPC/2015" (Nesse sentido: AgInt no AREsp 1724132/SC, Quarta Turma, DJe 24/05/2021 e EDcl no AgInt no AREsp n. 1.704.142/SP, Quarta Turma, DJe de 25/8/2021.)
+4. Agravo conhecido. Recurso especial conhecido e provido.
