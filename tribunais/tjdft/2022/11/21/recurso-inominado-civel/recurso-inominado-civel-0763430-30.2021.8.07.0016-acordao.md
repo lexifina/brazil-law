@@ -1,0 +1,82 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+Segunda Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+Processo N.RECURSO INOMINADO CÍVEL 0763430-30.2021.8.07.0016RECORRENTE(S)CICERO DOS SANTOSRECORRIDO(S)DEPARTAMENTO DE TRANSITO DO DISTRITO FEDERAL - DETRAN,LAURINHA SOARES DOS SANTOS e SEGURADORA LIDER DOS CONSORCIOS DO SEGURO DPVAT S.A.RelatoraJuiza SILVANA DA SILVA CHAVES Acórdão Nº1642208
+
+EMENTA
+
+JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. COMPRA E VENDA DE VEÍCULO. AUSÊNCIA DE TRANSFERÊNCIA. ILEGITIMIDADE PASSIVA DO DETRAN/DF. RECURSO CONHECIDO E NÃO PROVIDO.
+
+1.    1.     Trata-se de Recurso Inominado interposto em face da sentença que extinguiu o feito sem julgamento do mérito ante a carência do direito de ação contra o requerido, por ser parte ilegítima.
+
+2.   Recurso próprio, tempestivo e desacompanhado de preparo, ante o requerimento de gratuidade judiciária. Benefício concedido em favor do recorrente, considerando que aufere rendimento bruto inferior a 5 salários mínimos, consoante disposto na Resolução nº 140, de 24 de junho de 2015, editada pela Defensoria Pública do Distrito Federal, e adotada como parâmetro para o reconhecimento da hipossuficiência judiciária. Contrarrazões apresentadas.
+
+3.   Apontou o recorrente, em suas razões recursais, que vendeu veículo de sua propriedade a terceira pessoa, que não promoveu a respectiva transferência junto ao recorrido. Em inicial, informou que o bem foi furtado em 2003 e que no mês de agosto de 2021 foi surpreendido com débitos pendentes no valor de R$ 702,24 (setecentos e dois reais e vinte e quatro centavos) junto a autarquia distrital. Em diligência a uma das unidades do recorrido, foi informado de que os débitos deveriam ser pagos para que se procedesse com a baixa do veículo. Requereu a condenação do primeiro recorrido para que se procedesse com a respectiva baixa, eximindo-o do pagamento de quaisquer valores pendentes. A r. sentença extinguiu o feito sem julgamento do mérito por carência do direito de ação por ser o primeiro recorrido parte ilegítima na demanda. Em sede recursal requereu o reconhecimento da legitimidade passiva do DETRAN/DF, com a anulação da sentença e retorno dos autos à primeira instância para julgamento do mérito.
+
+4.   Conforme teor do art. 134 do CTB, 30 (trinta) dias após a compra e venda de veículo, caso o proprietário não tenha tomado as providências necessárias à transferência formal da propriedade do bem, deverá o antigo proprietário encaminhar ao órgão executivo de trânsito, no prazo de 60 (sessenta) dias, cópia autenticada do comprovante de transferência de propriedade, devidamente datado e assinado, sob pena de ser responsabilizado solidariamente pelas penalidades impostas.
+
+5.   Como bem asseverado em sentença, deve-se haver a consolidação da relação jurídica contratual existente entre o vendedor e o adquirente antes de se exigir a atualização perante a autarquia distrital. Não tendo o recorrente comunicado ao respectivo órgão de trânsito a transferência da propriedade do bem, observando-se que ao Departamento de Trânsito aplica-se o princípio da estrita legalidade, necessária a resolução prévia do contrato de compra e venda entre os particulares, para depois ser exigida a alteração do registro junto ao recorrido. Assim, ante a ilegitimidade do recorrido e não estando presente uma das condições da ação, a sentença deve ser mantida.
+
+6.   RECURSO CONHECIDO E NÃO PROVIDO. Sentença mantida por seus próprios fundamentos.
+
+7.   Sem custas e honorários, ante os benefícios da gratuidade de justiça concedidos.
+
+8.   A súmula de julgamento servirá de acórdão, consoante disposto no artigo 46 a Lei 9099/95.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Segunda Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, SILVANA DA SILVA CHAVES - Relatora, ARNALDO CORRÊA SILVA - 1º Vogal e MARILIA DE AVILA E SILVA SAMPAIO - 2º Vogal, sob a Presidência da Senhora Juiza MARILIA DE AVILA E SILVA SAMPAIO, em proferir a seguinte decisão: RECURSO CONHECIDO E NÃO PROVIDO. MAIORIA, de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 25 de Novembro de 2022
+
+Juiza SILVANA DA SILVA CHAVESRelatora
+
+RELATÓRIO
+
+A ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+
+VOTOS
+
+A Senhora Juíza SILVANA DA SILVA CHAVES - RelatoraA ementa servirá de acórdão, conforme inteligência dos arts. 2º e 46 da Lei n. 9.099/95.
+O Senhor Juiz ARNALDO CORRÊA SILVA - 1º Vogal Trata-se de recurso inominado apresentado pela parte autora contra a sentença que, reconhecendo a ilegitimidade do DETRAN, declarou o feito extinto sem mérito. Pede o provimento do recurso para reformar a sentença.
+
+Pautado para julgamento, a il. Relatora apresentou voto pela manutenção da sentença, entendendo ser o Detran parte ilegítima.
+
+É o relatório.
+
+Voto.
+
+Presentes os requisitos legais o recurso deve ser conhecido.
+
+Entendo que a sentença deve ser reformada. No caso, tal como consta das alegações da parte autora, ela vendeu o veículo em 1996, antes da entrada em vigor do Código de Trânsito Brasileiro, de modo que ele não se aplicaria às inteiras aos fatos ocorridos antes.
+
+A parte autora alegou que vendeu o veículo em 1996 e que ele teria sido furtado em 2003, cujo registro foi efetuado em Águas Lindas, de modo que a partir daquele momento, sem a localização do bem, tributos e outras obrigações, de regra, não podem ser exigíveis do "proprietário".
+
+O que se extrai dos autos é que o veículo estaria em local incerto e não sabido, de modo que eventual baixa só poderá ser operacionalizada por meio de ordem judicial, razão pela qual o DETRAN é parte legítima para figurar no polo passivo da ação, já que a Autarquia de trânsito é quem operacionaliza as baixas. Tramitando os autos no juízo cível comum, que no Distrito Federal não tem competência para processar e julgar ações contra as pessoas jurídicas de direito público vinculadas ao Distrito Federal, a decisão determinando eventual baixa simplesmente pode não ser cumprida, tendo em vista o limite subjetivo da coisa, porque a sentença faz "lei" apenas entre as partes do processo.
+
+Em julgamento passado até me posicionei no sentido de reconhecer a incompetência, mas depois com as reiteradas negativas do órgão de trânsito em não cumprir as decisões emanadas dos juizados cíveis, justamente por não ter sido parte no processo, resolvi mudar meu entendimento. É que, acompanhando o entendimento esposado na sentença, ao jurisdicionado seria quase que negar acesso à jurisdição que pode resolver seu problema. Neste sentido é que tenho votado na atualidade.
+
+"RECURSO INOMINADO CÍVEL 0710712-90.2020.8.07.0016.
+
+"Em que pese a transcrição na sentença de ementa de minha lavra, resultante de julgamento de caso parecido, entendo que deve ser dado provimento ao recurso para anular a r. sentença, a fim de se entrar no mérito das questões postas. Conforme consta dos autos, a venda do veículo se deu em 1997, antes da entrada em vigor do novo Código de Trânsito, tendo a autora, à época, outorgado procuração para o terceiro réu, o qual foi citado pessoalmente e não se dignou vir ao processo a fim de dar explicações. Como ele agiu de forma ilícita, não transferindo a propriedade do bem para seu nome ou para o nome de outrem, certamente não estaria preocupado com as indesejadas consequências que seus atos poderiam acarretar à autora.
+
+Ademais, se o veículo sumiu ou não for encontrado, para a regularização da situação tem-se necessidade de existir pronunciamento judicial impondo eventual obrigação aos entes públicos, porque não estariam obrigados a adotar quaisquer providências emanadas de processo em que não foram partes, razão pela, em julgamentos posteriores ao mencionado acima, modifiquei meu entendimento.
+
+Dessa forma é que a atual jurisprudência da turma tem se posicionado.
+
+“JUIZADO ESPECIAL DA FAZENDA PÚBLICA. ADMINISTRATIVO. COMPRA E VENDA DE VEÍCULO AUTOMOTOR. PRETENSÃO DESTINADA À TRANSFERÊNCIA DO VEÍCULO AO COMPRADOR. EXISTÊNCIA DE DÉBITOS TRIBUTÁRIOS E MULTAS. LEGITIMIDADE PASSIVA DO DISTRITO FEDERAL, DETRAN E DER. COMPETÊNCIA DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA. INAPLICABILIDADE DA TEORIA DA CAUSA MADURA. RECURSO CONHECIDO E PROVIDO. SENTENÇA ANULADA. I. Trata-se de recurso inominado interposto parte autora contra a sentença que extinguiu o processo sem resolução de mérito ao argumento de que o Distrito Federal, o Detran/DF e o DER/DF seriam partes ilegítimas para compor o polo passivo da ação e, com isso, o Juizado de Fazenda Pública seria incompetente para o julgamento do processo. Sustenta a recorrente que vendeu o veículo para WESLEI CARNEIRO DA SILVA o qual, por sua vez,revendeu o veículo para RAIMUNDO NONATO ALVES DE ANDRADE que, para aquisição do bem, firmou contrato de financiamento junto a empresa Aymoré Crédito, Financiamento e Investimento S.A. Afirma que tentou realizar a comunicação de venda junto ao DETRAN/DF, o que teria sido negado em razão de restrição judicial gravada em decorrência de ação da financeira contra o proprietário do veículo. Aduz que diversas multas e débitos tributários do veículo estão sendo lançados em seu nome e que sua pretensão é que seja transferido o veículo para o nome do adquirente. Afirma que, em razão da natureza do pedido e da existência de débitos de interesse do Distrito Federal, do DETRAN e do DER, se faz necessária a presença deles no polo passivo, sob pena de não ser possível dar cumprimento à obrigação de fazer caso imposta apenas ao adquirente. Contrarrazões apresentadas. II. Recurso cabível e tempestivo. Preparo dispensado em razão da gratuidade de justiça ora deferida. III. A participação do Detran, do DER e do Distrito Federal no polo passivo do processo é indispensável ao julgamento da lide, poiso órgão de trânsito tem como atribuição a transferência de propriedade do veículo, e a existência de débitos de interesse do entre público e das duas autarquias é fato que obsta, a princípio, a transferência.Portanto, se vislumbra que os efeitos da sentença poderão repercutir diretamente na esfera jurídica dos entes públicose sua exclusão do polo passivo atrairia a incidência do art. 115, II, do CPC (ineficácia da sentença). IV. Ademais, o art. 506 do Código de Processo Civil é claro ao dispor que a sentença faz coisa julgada às partes entre as quais é dada, não prejudicando terceiro. Nesse sentido é o entendimento uníssono e atual das três Turmas Recursais: Acórdão 1380131, 07380206720218070016, Relator: FLÁVIO FERNANDO ALMEIDA DA FONSECA, Primeira Turma Recursal, data de julgamento: 15/10/2021, publicado no DJE: 10/11/2021; Acórdão 1373628, 07373381520218070016, Relator: GILMAR TADEU SORIANO, Terceira Turma Recursal, data de julgamento: 29/9/2021, publicado no DJE: 5/10/2021, Primeira Turma Recursal, data de julgamento: 15/6/2020, publicado no DJE: 3/7/2020; Acórdão 1335607, 07523703120198070016, Relator: ARNALDO CORRÊA SILVA, Segunda Turma Recursal, data de julgamento: 26/4/2021, publicado no PJe: 3/5/2021. V. Por outro lado, não é o caso de aplicação da teoria da causa madura, tendo em vista a necessidade de apreciação de matéria fática apresentada na origem, sobretudo a necessidade de suspensão do curso do processo levantada nas razões recursais, sendo salutar à garantia do duplo grau de jurisdição que o juízo de origem primeiramente se pronuncie quanto ao mérito do caso concreto. VI. Recurso CONHECIDO e PROVIDO para anular a sentença e determinar a devolução dos autos ao Juízo de origem para regular tramitação. VII. Sem honorários ante a ausência de recorrente vencido, na forma do art. 55 da Lei 9.099/95. VIII A súmula de julgamento servirá de acórdão, nos termos do art. 46 da Lei 9.099/95. (Acórdão 1632044, 07336499420208070016, Relator: MARILIA DE AVILA E SILVA SAMPAIO, Segunda Turma Recursal, data de julgamento: 24/10/2022, publicado no DJE: 7/11/2022. Pág.: Sem Página Cadastrada.)
+
+JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA. DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. TRANSFERÊNCIA DE PONTUAÇÃO RELATIVA A INFRAÇÕES ADMINISTRATIVAS. ILEGITIMIDADE PASSIVA DO ÓRGÃO DE TRÂNSITO AFASTADA. LITISCONSÓRCIO PASSIVO FACULTATIVO. INCOMPETÊNCIA DOS JUIZADOS ESPECIAIS DA FAZENDA PÚBLICA NÃO RECONHECIDA. SENTENÇA ANULADA. POSSIBILIDADE DE CITAÇÃO POR EDITAL. RECURSO CONHECIDO E PROVIDO. 1. Trata-se de recurso inominado interposto pela parte autora em face da sentença que reconheceu a ilegitimidade passiva do DETRAN/DF e extinguiu o processo sem resolução do mérito. Alega a recorrente que a responsabilidade pela alteração do cadastro com a correspondente transferência da pontuação relativa às infrações cometidas na condução do veículo é do órgão de trânsito, o que o torna parte legítima no processo. 2. Recurso próprio e tempestivo (ID 39516067). Requerida a gratuidade de justiça. Contrarrazões apresentadas (ID 39516070). 3. Defiro o benefício de gratuidade de justiça à recorrente. A declaração de hipossuficiência comprova a impossibilidade financeira da recorrente de arcar com as despesas processuais, fazendo jus à concessão do benefício. Gratuidade de Justiça deferida. 4. Caso seja reconhecida a responsabilidade do litisconsorte pessoa física pelo cometimento das infrações de trânsito, a transferência da pontuação gerada é de responsabilidade do DETRAN/DF, o que justifica sua legitimidade no polo passivo. Trata-se de litisconsorte passivo facultativo, uma vez que os efeitos da sentença irão repercutir diretamente na esfera jurídica do órgão distrital mantenedor do sistema e sua exclusão do polo passivo atrairia a incidência do art. 115, II, do CPC. Neste sentido: Acórdão 1303069, 00233959020168070001, Relator: JOÃO LUÍS FISCHER DIAS, Segunda Turma Recursal, data de julgamento: 23/11/2020, publicado no PJe: 1/12/2020. Pág.: Sem Página Cadastrada; Acórdão 1387905, 07196882320198070016, Relator: ARNALDO CORRÊA SILVA, Segunda Turma Recursal, data de julgamento: 22/11/2021, publicado no DJE: 1/12/2021. Pág.: Sem Página Cadastrada. 5. Ademais, não há óbice para a citação por edital em sede de Juizados Especiais da Fazenda Pública, porquanto o art. 6º, da Lei nº 12.153/2009, determina a aplicação das regras do Código de Processo Civil para a realização de citações e intimações, o que exclui a incidência do disposto no § 2.º do art. 18 da Lei 9.099/95. Cito os seguintes precedentes: Acórdão 878450, 07001634520158070000, Relator: ASIEL HENRIQUE DE SOUSA, TERCEIRA TURMA RECURSAL, data de julgamento: 1/7/2015, publicado no DJE: 2/9/2015. Pág.: Sem Página Cadastrada; Acórdão 652456, 20120110974355ACJ, Relator: DEMETRIUS GOMES CAVALCANTI, 1ª Turma Recursal dos Juizados Especiais do Distrito Federal, data de julgamento: 5/2/2013, publicado no DJE: 14/2/2013. Pág.: 231. 6. Não é o caso de aplicação da teoria da causa madura, tendo em vista a necessidade de integração do polo passivo e apreciação de matéria fática apresentada na origem, sendo salutar à garantia do Duplo Grau de Jurisdição que o Juízo de origem primeiramente se pronuncie quanto ao caso. 7. Recurso conhecido e provido. Sentença anulada. Reconhecida a legitimidade passiva do DETRAN/DF e a possibilidade de citação por edital. Sem custas ou honorários, ante a ausência de recorrente vencido. 8. A súmula de julgamento servirá de acórdão, consoante disposto no artigo 46 da Lei nº 9.099/95. (Acórdão 1632033, 07578638620198070016, Relator: GISELLE ROCHA RAPOSO, Segunda Turma Recursal, data de julgamento: 24/10/2022, publicado no PJe: 3/11/2022. Pág.: Sem Página Cadastrada.).
+
+Em que pese o feito ter se desenvolvido em todas as suas fases, entendo que não deve ser aplicada a teoria da causa madura, máxime porque não houve pronunciamento positivo e o Recurso Extraordinário, único cabível contra decisão da turma, é de difícil admissibilidade".
+
+Dessa forma, pedindo vênia a entendimento diverso, conheço e dou provimento ao recurso para anular a r. sentença, reconhecendo a legitimidade dos órgãos públicos para figurar no polo passivo e, por consequência, a competência do sistema dos Juizados da Fazenda Pública para processar e julgar o feito, cujos autos devem ser devolvidos à origem para regular processamento.
+
+Sem custas por causa da gratuidade. Sem condenação em honorários advocatícios porque o recorrente venceu.
+
+A Senhora Juíza MARILIA DE AVILA E SILVA SAMPAIO - 2º Vogal Com o relator
+
+DECISÃO
+
+RECURSO CONHECIDO E NÃO PROVIDO. MAIORIA
