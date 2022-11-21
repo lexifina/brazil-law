@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprioimpetrado pela Defensoria Pública estadual em favor de LUCAS ALVES DA SILVA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1501485-73.2021.8.26.0535.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 11 (onze) anos e 08 (oito) meses de reclusão, em regime inicial fechado, mais o pagamento de 48 (quarenta e oito) dias-multa, como incurso nas iras do art. 157, § 2º, III, do C digo Penal (duas vezes) (fls. 17-28).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, deu provimento ao recurso, a fim de redimensionar a pena em 07 (sete) anos, 03 (três) meses e 03 (três) dias de reclusão, mais o pagamento de 16 (dezesseis) dias-multa, consoante voto condutor do v. acórdão de fls. 29-34.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois "o fato de o paciente ter respondido a processos na Vara da Infância e Juventude não configura circunstância judicial desfavorável, configurando, destarte a contrariedade ao artigo 59, "caput" do Código Penal" (fls. 6-7).
+Afirma que "a jurisprudência desta colenda Corte Superior é pacífica no sentido de que atos infracionais não podem ser considerados como maus antecedentes, nem tampouco como fatos indicadores de uma personalidade desajustadas, para fins de majoração da pena-base" (fl. 7).
+Requer, assim, a concessão da ordem.
+Não houve pedido liminar.
+Informações prestadas às fls. 42-54; .
+O Ministério Público Federal, às fls. 58-63, manifestou-se pela concessão da ordem, em parecer assim ementado:
+"HABEAS CORPUS. APELAÇÃO. ROUBO MAJORADO. APLICAÇÃO DA PENA. ALEGADA FUNDAMENTAÇÃO INIDÔNEA.
+- Atos infracionais não podem ser considerados maus antecedentes para a elevação da pena-base, tampouco podem ser utilizados para caracterizar personalidade voltada para a prática de crimes ou má conduta social. Julgados do STJ.
+Pelo não conhecimento, mas pela concessão da ordem, de ofício, para reduzir a pena-base ao mínimo legal." (fl. 58).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração a diminuição da pena-base.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Não foi considerada para aumento da condenação definitiva, mas sim os atos infracionais. Tais atos podem ser considerados para valorar a personalidade do agente. Segundo pesquisa do julgador, eram relativos a crimes patrimoniais, como este aqui tratado e o ultimo cometido aos 17 anos, seu histórico criminal somente aumentou até seus 22 anos, idade em que cometeu o crime de roubo aqui tratado. Não há que se falar em bis in idem porque considerada a única condenação do apelante como na segunda fase" (fl.32).
+Com efeito, "como é cediço, ações penais em andamento, bem como atos infracionais, não se prestam a majorar a reprimenda, seja a título de maus antecedentes, conduta social negativa ou personalidade voltada para o crime, em respeito ao princípio da presunção de não culpabilidade, nos termos da Súmula n. 444/STJ" (HC n. 394.526/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 13/6/2017).
+Nesse contexto, mantidos os critérios dosimétricos empregados pelas instâncias ordinárias, passo ao recálculo da pena.
+1ª fase: fixo a pena-base no mínimo legal.
+2ª etapa: i) haja vista a evidente ilegalidade na adoção da fração de 1/2 (um meio), sob o pálio de ser a reincidência específica, concedo a ordem de ofício nesse ponto, para empregar a fração de 1/6 (um sexto) - HC n. 365.963/SP, Terceira Seção, Rel. Min. Felix Fischer, DJe de 23/11/2017; ii) incide na espécie a atenuante da confissão espontânea, conforme preconizado no REsp n. 1.972.098/SC, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 20/6/2022; iii) desse modo, promovo a compensação da referida atenuante com a aludida agravante, permanecendo a sanção inalterada.
+3ª fase: i) tendo em vista a causa de aumento de pena relativa ao emprego de arma, majoro a pena em 1/3 (um terço), motivo pelo qual conduzo-a para 05 (cinco) anos e 04 (quatro) meses de reclusão, mais o pagamento de 14 (quatorze) dias-multa; ii) elevo a reprimenda em 1/6 (um sexto), diante do concurso formal, operação a resultar em 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, mais o pagamento de 16 (dezesseis) dias-multa, a qual torno definitiva.
+Ante o exposto, não conheço do habeas corpus.
+Contudo, concedo a ordem de ofício, a fim de, tão somente, redimensionar a pena do paciente em 06 (seis) anos, 02 (dois) meses e 20 (vinte) dias de reclusão, mais o pagamento de 16 (dezesseis) dias-multa, mantidos os demais termos da condenação.
+P. e I.
