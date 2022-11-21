@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto por Rafael Silveira Salomãocontra decisão da Presidência desta Corte Superior que não conheceu do agravo emrecurso especial, ante a incidência daSúmula 182/STJ(fls. 5.923/5.925).
+Inconformada, a parte agravante sustenta a inaplicabilidade doreferido óbice, sob o argumento de que "data maxima venia, equivocada premissa de que "a parte agravante deixou de impugnar especificamente: divergência não comprovada (requisitos legal/ regimental)", Vossa Excelência negou seguimento ao agravo em recurso especial nos termos do artigo 932, inciso III, do CPC, e dos artigos 21-E, inciso V, e 253, parágrafo único, inciso I, ambos do Regimento Interno desse E. STJ.Ocorre que, ainda que por analogia, inaplicável à espécie o invocado entendimento jurisprudencial sumulado no verbete nº 182 dessa Alta Corte, na medida em que, contrariamente ao consignado no decisum ora agravada se depreende da mera leitura do arrazoado recursal que houve, sim, expressa impugnação específica ao fundamento supostamente inatacado." (fls. 515/516).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 5.923/5.925), tornando-a sem efeito.
+Após, voltem-me os autos conclusos para nova apreciação do agravo em recurso especial.
+Publique-se.
