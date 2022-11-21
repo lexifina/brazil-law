@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial interposto (art. 105, III, "a", da Constituição) contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA.COMPENSAÇÃO DE VALORES. BENEFÍCIO INACUMULÁVEL.
+1 . No período entre o indeferimento administrativo e a efetiva implantação de auxílio-doença ou de aposentadoria por invalidez, mediante decisão judicial, o segurado do RPGS tem direito ao recebimento conjunto das rendas do trabalho exercido, ainda que incompatível com sua incapacidade laboral, e do respectivo benefício previdenciário pago retroativamente (Tema 1.013 do Superior Tribunal de Justiça).
+2. A compensação de valores recebidos a título de benefício inacumulável não pode exceder o limite de cada competência, em razão da natureza alimentar das prestações previdenciárias.
+Os Embargos de Declaração foram rejeitados (fl. 78, e-STJ).
+Em seu Recurso Especial, o agravante aponta ofensa, em preliminar, ao art. 1.022 do CPC/2015e sustentaque os vícios apontados nos Embargos de Declaração não foram supridos; no mérito, alega violação dos arts. 115, II, e 124 da Lei 8.213/1991; 368 e 876 do Código Civil; e 509, § 4º, e 535 do CPC. Aduz, em síntese (fl. 89, e-STJ):
+Trata-se de acórdão que indeferiu o pedido quanto ao desconto integral dos valores recebidos administrativamente a título de benefício inacumulável. A decisão recorrida possibilitou o abatimento dos valores, porém determinou que nas competências em que o valor recebido administrativamente foi superior àquele devido em razão do julgado a dedução deve ser limitada ao valor da mensalidade resultante da aplicação do julgado.
+Todavia, a fim de evitar cumulação ilícita de benefícios previdenciários, deve-se não apenas zerar as competências em que houve gozo de benefício pago na via administrativa, mas também deduzir e/ou compensar valores a maior pagos. Esta é a solução mais harmônica e consentânea com a legislação de regência (art. 124 da LBPS), que veda justamente a cumulação de dois benefícios com caráter substitutivo de renda.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 9.11.2022.
+Inicialmente, no que tange à mencionada contrariedade ao art. 1.022, II, do CPC/2015, verifico que o insurgente não logrou êxito em demonstrar objetivamente os pontos omitidos no acórdão questionado, pois não individualizou o erro, a obscuridade, a contradição ou a omissão supostamente ocorridos, bem como sua relevância para a solução da controvérsia apresentada nos autos.
+É imprescindívelque a parte recorrente desenvolva os argumentos que evidenciem a relevância da omissão para o deslinde do conflito, a fim de que o vício seja reconhecido por esta Corte como apto a ensejar a nulidade do julgado. A mera citação dos dispositivos legais invocados e dospontos considerados como omitidossem a indicação de sua importância, bem como a referência genérica aos aclaratórios, não supre a deficiência recursal. Tal circunstância atrai a incidência da Súmula 284/STF: "É inadmissível o Recurso Extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. (..) AGRAVO INTERNO IMPROVIDO.
+(..)
+III. Quanto à alegação de negativa de prestação jurisdicional, verifica-se que, apesar de apontar como violado o art. 535 do CPC/73, a parte recorrente não evidenciou qualquer vício, no acórdão recorrido, deixando de demonstrar no que consistiu a alegada ofensa ao citado dispositivo, atraindo, por analogia, a incidência da Súmula 284 do Supremo Tribunal Federal ("é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+(..)
+VII. Agravo interno improvido.
+(AgInt no AREsp 1.001.267/PB, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 24/8/2017)
+No mérito em sentido estrito, a jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que, em virtude do caráter alimentar dos proventos aliado à percepção de boa-fé, é impossível a devolução de valores recebidos a título de benefício previdenciário por motivo de erro da Administração. Aplica-se ao caso o princípio da irrepetibilidade dos alimentos.
+Ocorre que a compensação dos valores já obtidos em decisão administrativa e o montante a ser repetido pelo segurado na Execução de Sentença deve seguir o critério das competências e retirar da totalidade aquilo que já foi recebido. Se, no encontro de contas, sobejar valores negativos no cômputo global, não poderá o INSS repeti-los em virtude do caráter alimentar do benefício previdenciário e da boa-fé do segurado. Evita-se, assim, o enriquecimento ilícito por ambas as partes. É o que se dessume do Recurso Especial 1.416.903/PR, cuja ementa é abaixo transcrita:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS À EXECUÇÃO. OMISSÃO. INEXISTÊNCIA. COMPENSAÇÃO DE VALORES DEVIDOS EM TÍTULO JUDICIAL COM OS PAGOS ADMINISTRATIVAMENTE. CONSIDERAÇÃO DOS VALORES REMANESCENTES PARA TODO O PERÍODO. NÃO DEVOLUÇÃO DE VALORES PAGOS EM EXCESSO PELA ADMINISTRAÇÃO. CARÁTER ALIMENTAR DO BENEFÍCIO E BOA-FÉ DO SEGURADO. DECISÃO ULTRA PETITA. INEXISTÊNCIA. ÔNUS DE SUCUMBÊNCIA. RESTABELECIMENTO DA SENTENÇA.
+1. O acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada. Sendo assim, não há que se falar em omissão do aresto.
+2. Na compensação de valores devidos em título judicial com os pagos administrativamente, deve-se compensar os negativos com os positivos em todas as competências, a fim de apurar se haveria direito a eventuais valores remanescentes no cômputo global.
+3. A Corte de origem alinhou-se ao entendimento deste Superior Tribunal de que constitui matéria de ordem pública a adequação do valor executado para extirpar-se o excesso. Ressalte-se que matéria de ordem pública pode ser arguida na instância ordinária a qualquer tempo, podendo inclusive ser conhecida de ofício, razão de não prosperar a alegação de julgamento ultra petita.
+4. Como houve pagamento em excesso pela administração, em razão do caráter alimentar do benefício previdenciário e da boa-fé do segurado, não cabe repetição de valores.
+5. Tendo a sentença sido reformada apenas quanto à forma de cálculo da compensação de valores, ponto esse revertido neste recurso especial, devem os ônus de sucumbência ser restabelecidos na forma indicada pelo juízo de primeiro grau.
+6. Recurso especial parcialmente provido.
+(REsp 1.416.903/PR, Rel. Min. Og. Fernandes, Segunda Turma, DJe 23/8/2017)
+Com essas considerações, entendo que o Recurso Especial não merece provimento, já que o acórdão recorrido seguiu a jurisprudência do STJ.
+Por tudo isso, conheço do Agravo para conhecer em parte do Recurso Especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
