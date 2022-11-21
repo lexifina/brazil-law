@@ -1,0 +1,44 @@
+DECISÃO
+Vistosetc.
+Trata-se de agravointerposto por TIC BRISE EMPREENDIMENTOS IMOBILIARIOS SPE LTDA contra decisão que negou seguimento ao seu recurso especial ante a atração do enunciado 83/STJ e, no tocante à taxa "SATI", em face da conformidade com o quanto julgado no Tema nº 938/STJ.
+No agravo em recurso especial, sustentou queno art. 63 está previsto que na hipótese de inadimplementoa fração ideal de terreno será atingida, a fim de que sejam cumpridas as obrigações inadimplidas, tendo como consequência o leilão,não havendo que se falar em percentual de retenção dos valores pagos. Sustenta, por outro lado,que há distinguishing a impedir a aplicação do tema 938.
+É o relatório.
+Passo a decidir.
+De acordo com a jurisprudência do STJ, "a despeito do caráter originalmente irretratável dacompraevendano âmbito da incorporação imobiliária (Lei 4.591/1964, art. 32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, de há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim derescindiro contrato e receber, de forma imediata e em pagamento único, arestituiçãodos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ)" (REsp n. 1.723.519/SP, Relatora MINISTRA MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/8/2019, DJe de 2/10/2019).
+Nessa mesma direção:
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESILIÇÃO DE PROMESSA DECOMPRA E VENDA.INICIATIVA DO PROMITENTE COMPRADOR. RETENÇÃO DOS VALORES PAGOS ESTIPULADA NO PERCENTUAL DE 10% SOBRE O MONTANTE PAGO. INCIDÊNCIA DA SÚMULA 83/STJ. CORREÇÃO MONETÁRIA. CADA DESEMBOLSO. SÚMULA 83/STJ. INOBSERVÂNCIA DE SUCUMBÊNCIA RECÍPROCA INAPLICABILIDADE DO. ART. 86 DO NOVO CPC. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da Súmula 543/STJ, "na hipótese de resolução de contrato de promessa decompra e vendade imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento."
+2. Conforme a jurisprudência desta Corte Superior, em caso de resolução do compromisso decompra e vendapor culpa do promitente comprador, é lícita a retenção pelo vendedor de 10% a 25% dos valores pagos.
+Nesse ponto, o aresto está em sintonia com a jurisprudência desta Corte Superior ao firmar a nulidade da cláusula que previa a retenção de 20% de forma parcelada, fixando-a em 10%. Aplicação da Súmula 83/STJ.
+3. O termo inicial da correção monetária das parcelas pagas a serem restituídas em virtude da rescisão do contrato decompra e vendaé a data de cada desembolso. Precedentes (Súmula 83/STJ).
+4. A fixação dos honorários advocatícios em 10% sobre o valor da condenação foi feita a partir da análise do que foi pedido na petição inicial em confronto com o que foi deferido durante todo o transcurso da lide. Nesse contexto, constata-se a inaplicabilidade do art. 86 do CPC/2015 sucumbência recíproca.
+5. Agravo interno desprovido.
+(AgInt no REsp 1947665/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/10/2021, DJe de 6/10/2021);
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E DIREITO PROCESSUAL CIVIL. AÇÃO DE RESCISÃO CONTRATUAL C.C. RESTITUIÇÃO DE QUANTIAS PAGAS E INDENIZAÇÃO POR DANOS MATERIAS E MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E CARÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. CONFUSÃO. DA EXTINÇÃO DO PROCESSO. NÃO CABIMENTO.ARRAS.
+NÃO DEVOLUÇÃO. INCIDÊNCIA DO ENUNCIADO N.º 83 DO STJ. TERMO INICIAL DOS JUROS DE MORA. FUNDAMENTAÇÃO DEFICIENTE. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Na hipótese dos autos, verifica-se que houve manifestação fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Na hipótese dos autos, oleilãodo imóvel não exclui o direito do promitente comprador em receber as parcelas pagas, sob pena de enriquecimento ilícito.
+3. Consoante a jurisprudência do STJ, na hipótese de resolução de contrato de promessa decompra e vendade imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento. Tal entendimento que restou cristalizado no Enunciado n.º543do STJ.
+4. Entendimento jurisprudencial no âmbito do Superior Tribunal de Justiça no sentido de que o arrependimento do promitente comprador não importa perda dasarras,se forem confirmatórias, admitindo-se, contudo, a retenção, pelo vendedor, de parte das prestações pagas, como forma de indenizá-lo pelos prejuízos suportados.
+5. Consoante a jurisprudência do Superior Tribunal de Justiça, a ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema - Enunciado n.º 284/STF.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+8 . AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt nos EDcl no REsp 1831044/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/2/2022, DJe de 25/2/2022).
+Portanto, estando o acórdão recorrido, no ponto, em consonância com a jurisprudência aqui dominante, incide, no ponto, a Súmula n.º 568 do STJ, a teor da qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.".
+Já no que se refere à SATI, o agravo não pode ser conhecido.
+Negado seguimento ao recurso especial com fundamento no art. 1.030, I, "b", do CPC, é incabível impugnação com base no agravo em recurso especial.
+Nos termos do art. 1.030, § 2º, do CPC,contra a decisão que inadmite recurso especial interposto contra acórdão que esteja em conformidade com a jurisprudência do STJ, firmada sob o regime de julgamento de Recursos Repetitivos, é cabível o agravo interno, não cabendo a fungibilidade em face da inexistência de dúvida objetiva no que concerne.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INADMITIDO COM FUNDAMENTO NO ART. 1.030, INCISO I, ALÍNEA B, DO CPC/2015. CABIMENTO DE AGRAVO INTERNO - ART. 1.030, § 2º, DO CPC/2015. INTERPOSIÇÃO DO AGRAVO PREVISTO NO ART. 1.042 DO CPC/2015. ERRO GROSSEIRO. INAPLICÁVEL A FUNGIBILIDADE RECURSAL. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A decisão ora recorrida não conheceu do agravo em razão do não cabimento de Agravo em Recurso Especial nos casos em que há a inadmissão do recurso especial em virtude de o acórdão recorrido estar em consonância com tese firmada sob o rito dos recursos repetitivos ou da repercussão geral (art. 1.030, I, b, do CPC/2015).
+2. Nos termos do art. 1.030, § 2º, do CPC/2015, contra a decisão que inadmite recurso especial interposto contra acórdão que esteja em conformidade com a jurisprudência do STF ou do STJ, firmada no regime de julgamento de Recursos Repetitivos, é cabível o agravo interno.
+3. A interposição do agravo em recurso especial previsto no art. 1.042 do CPC/2015, traduz-se erro grosseiro, e, como tal, torna inviável a fungibilidade recursal.
+4. No que respeita à alegação de que a impugnação pretendia demonstrar a inaplicabilidade do Tema 5/STF ao caso em razão de preclusão das matérias de mérito, verifica-se que se trata de procedimento de distinção (distinguishing), devendo ser realizado conforme determina o art. 1.030, § 2º, do CPC/2015, não justificando a interposição do agravo em recurso especial.
+5. Agravo interno a que se nega provimento.(AgInt no AREsp n. 1.999.338/MA, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 21/3/2022, DJe de 24/3/2022.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lheprovimento.
+Com fundamento noart. 85, § 11, do CPC, majoro o percentual dos honorários sucumbenciais a que condenado o recorrente na origem em 1%, totalizando 11% sobre o valor da causacondenação.
+Intimem-se.
+EMENTA
+AGRAVO RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE RESOLUÇÃO. SÚMULA 543/STJ. ENTENDIMENTO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE. IMPOSSIBILIDADE DE IMPUGNAÇÃO DE RECURSO ESPECIAL INADMITIDO COM APOIO EM RECURSO ESPECUAL REPETITIVO MEDIANTE AGRAVO EM RECURSO ESPECIAL. ERRO GROSSEIRO.
+AGRAVO EM RECURSO ESPECIAL EM PARTE CONHECIDO E DESPROVIDO.
