@@ -1,0 +1,9 @@
+DECISÃO
+O presente writ,impetrado em benefício deRodrigo da Silva Chaves -absolvido do crime de homicídio qualificado tentado -,em que se aponta como autoridade coatora o Tribunal de Justiça de Goiás, que reconheceu ser a decisão dos jurados contrária à prova dos autos e determinou a submissão do acusado a novo julgamento pelo Tribunal do Júri (Ação Penal n. 0402128-26.2009.8.09.0085), não comporta acolhimento.
+Com efeito, busca a impetraçãoque seja reconhecida a intempestividade da apelação manejada pelo órgão da acusaçãoou, subsidiariamente, a ofensa à soberania dos veredictos, já que os argumentos trazidos pelo então apelante, assim como as provas apresentadas pelo Ministério Público em plenário, já foram analisadas pelo Conselho de Sentença, que decidiu soberanamente pela absolvição do recorrido (fl. 12).
+Ocorre que, além de o Tribunal ter consignado que a sessão do Júri ocorreu em 16/8/2021,  ..  somente foi concedida vista dos autos ao representante do Ministério Público em 25/08/2021. Juntada petição com as razões do apelo em 27/8/2021 (fl. 715), este Superior Tribunal tem decidido quea anulação da decisão absolutória do Conselho de Sentença, manifestamente contrária à prova dos autos, pelo Tribunal de Justiça, por ocasião do exame dorecursode apelação interposto pelo Ministério Público (art. 593, III, d, do Código de Processo Penal), não viola a soberania dos veredictos(HC n. 323.409/RJ, Ministro Reynaldo Soares da Fonseca, relator para acórdão Ministro Felix Fischer, Terceira Seção, DJe 8/3/2018).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. ABSOLVIÇÃO PELO CONSELHO DE SENTENÇA. APELAÇÃO DO MINISTÉRIO PÚBLICO.ALEGAÇÃO DE INTEMPESTIVIDADE. IMPROCEDÊNCIA.TRIBUNAL DO JÚRI. CORTE DE ORIGEM ENTENDEU QUE A DECISÃO DOS JURADOS ERA MANIFESTAMENTE CONTRÁRIA ÀS PROVAS DOS AUTOS. ANULAÇÃO DA DECISÃO DOJÚRI.NOVO JULGAMENTO. POSSIBILIDADE.
+Ordem denegada.
