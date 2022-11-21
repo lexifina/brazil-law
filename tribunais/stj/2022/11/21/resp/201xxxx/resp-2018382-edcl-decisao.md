@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por NAIR SILVEIRA LAND, em facede decisão de fls. 747/750, que deu parcialprovimento ao recursoespecial interposto pelo INSS, para afastar a condenação em honorários.
+A parte embargante, em suas razões, afirma que "adecisão é obscura quanto ao afastamento da condenação do INSS ao pagamento de honorários de sucumbência, em razão de ele ter reconhecido a procedência do pedido à luz do fato novo" (fl. 752).
+Aduz que "a decisão é obscura, afinal, a condenação em honorários se deu em sentença, em razão do reconhecimento dos pedidos de averbação de períodos especiais, não houve condenação em honorários no acórdão que concedeu a reafirmação da DER apenas sua majoração, ficando evidenciado que os honorários não foram fixados em razão da reafirmação da DER. Além de tudo, como houve condenação em honorário sem sentença, e o INSS não recorreu quanto a tal ponto, há coisa julgada em relação a tal condenação, não podendo haver o afastamento em razão da afronta à coisa julgada" (fl.756) .
+Devidamente intimada, a parte embargada não apresentou impugnação,conforme certidão de fl.764.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+Os embargos não podem ser acolhidos.
+De acordo com o previsto no artigo 1.022 do CPC/2015, são cabíveisembargos de declaração nas hipóteses de obscuridade, contradição, omissãodo acórdão atacado ou para corrigir erro material. Entretanto, no caso,não se verifica a existência de quaisquer das referidas deficiências.
+Na lição de JOSÉ CARLOS BARBOSA MOREIRA, "há omissão quando o tribunaldeixa de apreciar questões relevantes para o julgamento, suscitadas pelaspartes ou examináveis de ofício  .. , ou quando deixa de pronunciar-seacerca de algum tópico da matéria submetida à sua cognição, em causa desua competência originária, ou obrigatoriamente sujeita ao duplo grau dejurisdição (art. 475), ou ainda mediante recurso, inclusive quanto a pontoacessório, como seria o caso de condenações em despesas processuais ehonorários advocatícios (art. 20), ou de sanção que se devesse impor (porexemplo, as previstas no art. 488, nº II, e no art. 529)" (in Comentáriosao Código de Processo Civil, Volume V, Forense, 7ª edição, p. 539).
+Ora, a decisão embargada, claramente consignou que"a questão dos autosdiz respeito ao juízo de adequação quanto ao entendimento firmado por esteSuperior Tribunal no julgamento do Recurso Especial 1.727.063/SP - Tema995/STJ, processado pelo rito dos feitos repetitivos e anecessidade deobservância aos parâmetros fixados por esta Corte, no caso de reafirmaçãoda DER, relativamente aos honorários advocatícios, os quais restaram elucidados no curso do julgamento do referido repetitivo".
+E nessa linha,o decisum embagado, acentuou que"quanto aos honorários de
+sucumbência, esses serão cabíveis apenas quando o INSS resistir apretensão de reafirmação da DER. Na espécie, conforme severifica dosautos, não houve resistência quanto do INSS à reafirmação da DER, motivo pelo qual não são cabíveis honorários advocatícios".
+Nesse contexto, não existe omissão ou contradição na decisão embargadacapaz de abrir pórtico para o cabimento dos embargos aclaratórios. Aliás,da própria fundamentação do recurso aclaratório apresentado pela parteembargante vê-se que sua intenção é forçar a inversão do decidido, pormeio dos presentes embargos, propósito esse incompatível com a viaintegrativa.
+Nesse sentido, anote-se o seguinte julgado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. SERVIDOR PÚBLICO.CONVERSÃO DE VENCIMENTOS EM URV. PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO.SÚMULA 85/STJ. OMISSÃO. ART. 535, II, DO CPC. NÃO OCORRÊNCIA.INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS. PROCESSUAL CIVIL.
+I. Os Embargos de Declaração consubstanciam instrumento processual apto asuprir omissão do julgado ou dele excluir obscuridade e contradição, nostermos do art. 535 do CPC, não se prestando para rediscutir a lide. Comefeito, "a rediscussão, via embargos de declaração, de questões de méritojá resolvidas configura pedido de alteração do resultado do decisum,traduzindo mero inconformismo com o teor da decisão embargada. Nessescasos, a jurisprudência desta Corte Superior é pacífica no sentido de que
+os embargos não merecem prosperar" (STJ, EDcl nos EDclno REsp1.215.960/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de26/09/2011).  ..
+IV. Postula o embargante, ainda, a manifestação desta Corte a propósito desuposta ofensa a dispositivos constitucionais, para fins deprequestionamento. Entretanto, a pacífica jurisprudência do STJ entendeque não lhe compete manifestar-se sobre alegada violação a dispositivosconstitucionais, ainda que para fins de prequestionamento, sob pena deusurpação da competência do STF. Precedentes.
+V. Embargos de Declaração rejeitados, à míngua de vícios.
+(EDcl na Rcl 12.210/SP, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO,julgado em 28/5/2014, DJe 4/6/2014)
+Inexistente, pois, qualquer obscuridade, contradição, erro material ouomissão no julgado embargado, conforme exige o art. 1.022 do CPC/2015,impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, confira-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOSVÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO.IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DOART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questõeslevantadas traduzem inconformismo com o teor da decisão embargada,
+pretendendo rediscutir matérias já decididas, sem demonstrar omissão,contradição ou obscuridade (art. 535 do CPC).
+2. É nítido o intuito protelatório do recurso, dando ensejo à aplicação dapenalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% dovalor corrigido da causa.
+(EDcl no AgRg nos EREsp 545.285/RS, Rel. Ministro TEORI ALBINO ZAVASCKI,DJ de 1º/8/2006)
+ANTE O EXPOSTO, rejeito os presentes embargos.
+Publique-se.
