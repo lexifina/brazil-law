@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso próprio impetrado em favor de LUIZ ANTONIO FERREIRA, contra acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, assim ementado:
+"AGRAVO EM EXECUÇÃO PENAL. REGIME PRISIONAL ABERTO. REGRESSÃO. FALTA GRAVE. FUGA. COMPROVAÇÃO. SOLUÇÃO REGRESSIVA CONFIRMADA.
+Não constitui ilegalidade, a regressão do condenado para o regime semiaberto, em razão do descumprimento das obrigações da pena aflitiva no sistema carcerário aberto, o não comparecimento à Casa do Albergado, por cerca de 07 (sete) anos, sem autorização judicial, em fuga, a falta grave, art. 50, inciso II, c/c art. 118, incisoI, última figura, da Lei de Execução Penal.
+AGRAVO EM EXECUÇÃO DESPROVIDO." (e-STJ, fl. 661)
+Depreende-se dos autos que o Juízo da Vara de Execução Penal homologou a falta grave em virtude de fuga e determinou a regressão do apenado ao regime semiaberto.
+Inconformada, a Defensoria Pública interpôs agravo em execução impugnando a decisão, que foi desprovido pelo Tribunal goiano.
+Neste writ, a impetrante sustenta que "o juiz da execução decidiu de ofício sobre a regressão do regime aberto para o fechado em flagrante violação ao princípio acusatório e da correlação e congruência" (e-STJ, fl. 6).
+Aduz que a decisão mostra-se desproporcional, especialmente em razão da idade do paciente.
+Requereu seja reconhecida a ilegalidade do acórdão impugnado para o fim de que seja procedida a reinclusão do paciente no regime aberto domiciliar pela violação ao princípio acusatório ou, subsidiariamente, pela desnecessidade e desproporcionalidade da regressão do regime.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opina pela denegação da ordem.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+Inicialmente, a tese relativa à suposta violação ao princípio acusatório não foi debatida no acórdão impugnado, o que impede o conhecimento dela diretamente por este Tribunal Superior, sob pena de indevida supressão de instância.
+Neste sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. DESCLASSIFICAÇÃO DA CONDUTA PARA A DESCRITA NO ART. 12 DA LEI N.º 10.826/2003. PEDIDO NÃO APRECIADO PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. AGRAVO DESPROVIDO.
+1. Descabe a reforma da decisão que indeferiu liminarmente o habeas corpus, uma vez que o pedido de desclassificação da conduta delitiva do Agravante para a descrita no art. 12 da Lei n.º 10.826/2003 não foi apreciado pelo Tribunal de origem, motivo pelo qual o debate nesta Corte Superior implicaria indevida supressão de instância, com a explícita violação à competência originária para o julgamento de habeas corpus, definida no art. 105, inciso I, alínea c, da Constituição da República.
+2. "Na instância especial, ainda que se entenda se tratar de matéria de ordem pública, não há como se dispensar o necessário debate acerca das questões controvertidas, sob pena de incursão em indevida supressão de instância" (HC 470.704/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/12/2019, DJe de 11/12/2019).
+3. Em consequência da manutenção da conduta típica imputada ao Agravante, fica superada a análise da alegação de possibilidade de suspensão condicional do processo, em razão do não preenchimento do requisito objetivo, nos termos do art. 89 da Lei n.º 9.099/1995.
+4. Agravo regimental desprovido."
+(AgRg no HC 581.127/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 16/06/2020, DJe 29/06/2020)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA ARMADA. HOMICÍDIOS QUALIFICADOS CONSUMADO E TENTADO. PRISÃO PREVENTIVA. EXTEMPORANEIDADE DA MEDIDA EXTREMA. AUSÊNCIA DE CORRELAÇÃO ENTRE OS FATOS NOVOS E OS CRIMES APURADOS. POSSIBILIDADE DE SUBSTITUIÇÃO DA PRISÃO POR MEDIDAS CAUTELARES MAIS BRANDAS. TESES NÃO EXAMINADAS PELO TRIBUNAL DE ORIGEM NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO DA CUSTÓDIA. NÃO CONFIGURADO. COMPLEXIDADE E CIRCUNSTÂNCIAS DA CAUSA. SEGREGAÇÃO FUNDADA NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE EXACERBADA DAS CONDUTAS. DELITOS PRATICADOS NO CONTEXTO DE ORGANIZAÇÃO CRIMINOSA. SEGREGAÇÃO JUSTIFICADA E NECESSÁRIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. RECURSO DESPROVIDO.
+1. Não há como se examinar a alegada extemporaneidade da prisão, a ausência de correlação dos fatos novos com as condutas investigadas e, ainda, a possibilidade de aplicação das medidas cautelares insculpidas no art. 319 do Código de Processo Penal, uma vez que tais teses não foram objeto de deliberação pelo Tribunal de origem no acórdão impugnado, configurando eventual atuação deste Sodalício em indevida supressão de instância. .. "
+(RHC 122.412/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 10/03/2020, DJe 30/06/2020)
+Quanto à alegação de desproporcionalidade da regressão do regime, ao contrário do afirmado pela impetrante, não se há falar em ausência de amparo legal na pretensão de reconhecimento de falta grave, uma vez que a conduta em tese praticada (ter deixado de comparecer à Casa de Albergado por quase 7 anos, sem apresentar justificativa) encontra-se, sim, prevista no rol taxativo do art. 50 da LEP, a justificar a prática do ato judicial ora questionado.
+Nesse sentido, os seguintes julgados desta Corte:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182/STJ. NÃO INCIDÊNCIA. IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. DECISUM RECONSIDERADO. ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL.
+PROGRESSÃO AO REGIME SEMIABERTO. INEXISTÊNCIA DE ESTABELECIMENTO PRISIONAL ADEQUADO E DE TORNOZELEIRA ELETRÔNICA DISPONÍVEL. CONCESSÃO DE PRISÃO DOMICILIAR POR MONITORAMENTO MEDIANTE VISITAS FISCALIZATÓRIAS. VIOLAÇÃO DO PERÍMETRO DA ÁREA DE INCLUSÃO. FALTA GRAVE. PRECEDENTES. TESE DE INAPLICABILIDADE DO ART. 50, INCISO V, DA LEP EM RAZÃO DE O REEDUCANDO NÃO ESTAR A USAR TORNOZELEIRA POR DECISÃO DO PRÓPRIO JUÍZO. AUSÊNCIA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O descumprimento das condições impostas por ocasião do deferimento da prisão domiciliar caracteriza falta grave, implicando regressão de regime prisional.
+2. No caso, é certo que, em uma das visitas fiscalizatórias - que substituíram o uso da fiscalização eletrônica por falta de tornozeleira eletrônica -, o Reeducando não se encontrava em domicílio.
+3. O desrespeito ao perímetro de monitoramento configura falta grave.
+4. A alegação de que o Reeducando não estava a usar tornozeleira por decisão do próprio Juízo de primeiro grau e, por isso, o disposto no art. 50, inciso V, da Lei de Execução Penal, não poderia lhe ser aplicado, não foi objeto de específica apreciação da Corte de origem, faltando-lhe o necessário prequestionamento.
+5. Agravo regimental desprovido. (AgRg no AgRg no AREsp 1894551/TO, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/10/2021, DJe 25/10/2021)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. RECONSIDERAÇÃO. FUNDAMENTOS IMPUGNADOS. CONHECIMENTO. EXECUÇÃO PENAL. VIOLAÇÃO DE ZONA DE MONITORAMENTO. DESCUMPRIMENTO DE ORDEM RECEBIDA. FALTA GRAVE CONFIGURADA.
+1. Devidamente impugnados os fundamentos da decisão de inadmissão do recurso especial, é de ser reconsiderada a decisão que não conheceu do agravo, em ordem a que se evolua para o mérito.
+2. Consoante o disposto no art. 50, V, da Lei de Execução Penal, o descumprimento das condições impostas é considerada falta grave, sendo causa de regressão do regime prisional.
+3. Nos termos da jurisprudência desta Corte Superior, a violação da zona de monitoramento configura falta grave consubstanciada em desobediência de ordem recebida, a ensejar a regressão de regime prisional e a alteração da data-base para nova progressão.
+4. Agravo regimental provido. Agravo conhecido para negar provimento ao recurso especial".
+(AgRg no AREsp 1942873/TO, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 15/03/2022, DJe 21/03/2022)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
