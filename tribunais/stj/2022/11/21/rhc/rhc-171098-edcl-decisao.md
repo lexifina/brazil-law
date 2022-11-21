@@ -1,0 +1,15 @@
+DECISÃO
+Trata-sede embargos de declaração opostos por Caio César dos Santos à decisão de minha relatoria, em que neguei provimento ao recurso. Esta, a ementa da decisão (fl. 295):
+PENAL E PROCESSUAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. DENÚNCIA POR LESÃO CORPORAL GRAVE. ALEGAÇÃO DA DEFESA DE INÉPCIA DA DENÚNCIA. APRESENTAÇÃO DOS FATOS E INDÍCIOS DE AUTORIA E MATERIALIDADE. DEVIDO O PROSSEGUIMENTO DA AÇÃO PENAL PARA MELHOR VERIFICAÇÃO DAS PROVAS. AUSÊNCIA DE ILEGALIDADE. Recurso improvido.
+Alega o embargante que há omissão na decisão, uma vez que não foi pedido o trancamento da ação penal, mas, sim, a rejeição integral da denúncia ouentão a determinação ao Ministério Público para que emende a inicial para lesão corporal leve, em vez de lesão corporal grave.
+Parecer do Ministério Público Federal pelo desprovimento do recurso (fls. 290/293).
+É o relatório.
+O pedido da defesa quanto à rejeição integral da denúncia foi afastado pela decisão embargadaquando trouxe com ela fundamentação a respeito do pedido de inépcia da denúncia.
+Sobre essa matéria, verifica-se que a denúncia apresentou os seguintes fatos (fl. 154):
+ .. Segundo consta, a família da vítima e do denunciado eram vizinhas e já vinham tendo desentendimentos por problemas de vizinhança. No dia dos fatos, a criança e seu avô soltaram uma bomba, em um campo de bocha, que fica próximo às residências das duas famílias, fato que desagradou ao denunciando, ocasião em que ele arremessou uma lata de cerveja, acertando o ombro de Melyssa, provocando fratura do osso da escápula da omoplata, necessitando de repouso com imobilização do ombro no período de 9/2/2021 até 8/3/2021, cf. laudo de p. 77/79 .. .
+Não há falar em rejeição integral da denúncia, já que os fatos foram descritos de formaclara e suficiente para que o embargante possa se defenderdentro dos princípios do contraditório, da ampla defesa e do devido processo legal. A acusação trouxe as circunstâncias de tempo e local em que o delito teria ocorrido, assim como tambémteria se dado a participação do réu. Ademais, não há como, na via eleita, esta Corte Superior avaliar a respeito da lesão corporal para leve ou mais grave, já que tal análise demanda o reexame dos fatos e provas, o que deverá ser avaliado no curso da instrução criminal. O trancamento da ação penal seria uma consequência lógica para caso a denúncia fosse tida como inepta, o que não é o caso dos autos.
+Ante o exposto, acolho os embargos de declaração apenas para sanar a omissão apontada, no entanto, mantenho a negativa de provimento ao recurso ordinário em habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL. EMBARGOS DE DECLARAÇÃO EMRECURSO ORDINÁRIO EM HABEAS CORPUS.PEDIDO DE REJEIÇÃO INTEGRAL DA DENÚNCIA POR LESÃO CORPORAL GRAVE. FATOS APRESENTADOS NA INICIAL. AUSÊNCIA DE ILEGALIDADE OUINÉPCIA DA DENÚNCIA. PEDIDO DE DESCLASSIFICAÇÃO PARA LESÃO CORPORAL LEVE. REEXAME DE PROVAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Embargos acolhidos apenas para sanar a omissão apontada, mantidaa negativa de provimento ao recurso ordinário em habeas corpus.
