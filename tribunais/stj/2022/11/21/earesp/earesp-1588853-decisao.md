@@ -1,0 +1,28 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de divergência opostos pelo MARILUCI DALMOLIN PALINSKIcontra acórdão da QuartaTurma, ementado nos seguintes termos:
+AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRESTAÇÃO DE CONTAS. SEGUNDA FASE. IMPOSSIBILIDADE DE REVISÃO DE ENCARGOS CONTRATUAIS, QUE DEVEM SER MANTIDOS NOS TERMOS EM QUE PRATICADOS NO CONTRATO BANCÁRIO SEM PREJUÍZO DA POSSIBILIDADE DE AJUIZAMENTO DE AÇÃO REVISIONAL.
+1. O rito especial da ação de prestação de contas não comporta a pretensão de alterar ou revisar cláusula contratual, em razão das limitações ao contraditório e à ampla defesa. Tal impossibilidade de se proceder à revisão de cláusulas contratuais diz respeito a todo o procedimento da prestação de contas, ou seja, não pode o autor da ação deduzir pretensões revisionais na petição inicial (primeira fase), tampouco é admissível tal formulação em impugnação às contas prestadas pelo réu (segunda fase).
+2. Agravo interno a que se nega provimento.
+Foram opostos dois embargos de declaração, ambos rejeitados (e-STJ fls. 1.291-1.294 e fls. 1.318-1.321).
+Em suas razões, oembarganteaduza existência de divergência jurisprudencial entre o aresto embargado e acórdãoda 3ªTurmado STJ (AgInt no AREsp n. 1.028.068), sustentando, em síntese, que a Quarta Turma não teria observado o fato de que já constaria dos autos acórdão proferido na origem, com trânsito em julgado anterior ao precedente desta Corte Superior em regime repetitivo (REsp n. 1.497.831/PR), adotado como fundamento para provimento do recurso especial.
+Impugnação às fls. 1.490/1.494(e-STJ).
+Inicialmente, os embargos foram distribuídos no âmbito da Corte Especial, tendo em vista que, no referido recurso, houve a indicação de divergência entre julgados de Turmas pertencentes a Seções diversas.
+Em decisão de fls. 1.496/1.502(e-STJ), o Min. Jorge Mussi indeferiu liminarmente o recurso relativamente aos paradigmas oriundos da 1ª Seção, 1ª e 2ª Turmas do STJ.
+É o relatório.
+Decido.
+Os embargos de divergência também devem ser indeferidos quanto ao paradigma da 3ª Turma.
+Isso porque, ateor do disposto nos arts. 1.043 do CPC/2015 e 266 do RISTJ, são cabíveis embargos de divergência, recurso cujo escopo é a uniformização da jurisprudência desta Corte, eliminando as dissidências internas quanto à interpretação do direito em tese, quando determinado órgão fracionário, julgando recurso especial, dissente de julgamento atual de qualquer outro órgão do mesmo tribunal.
+No caso, entretanto, o dissídio aventado pelaembargantenão está configurado, na medida em que não há similitude fática e jurídica entre o julgado recorrido e oacórdão paradigma da 3ª Turma (AgInt no AREsp n. 1.028.068).
+Isso porque a 4ª Turma do STJ, ao negar provimento ao agravo interno - e, manter, via de consequência, a decisão que deu provimento ao recurso especial da instituição financeira -,entendeu, considerando as peculiaridades do caso concreto e jurisprudência sobre o tema, que "o rito especial da ação de prestação de contas não comporta a pretensão de alterar ou revisar cláusula contratual, em razão das limitações ao contraditório e à ampla defesa. Tal impossibilidade de se proceder à revisão de cláusulas contratuais diz respeito a todo o procedimento da prestação de contas, ou seja, não pode o autor da ação deduzir pretensões revisionais na petição inicial (primeira fase), tampouco é admissível tal formulação em impugnação às contas prestadas pelo réu (segunda fase)".
+De outro lado, oacórdãoparadigmacolacionadopelaembargante (AgInt no AREsp n. 1.028.068)tratou de hipótese diversa em que se discutiu a (I)impossibilidade de revisão da taxa de juros em razão da não comprovação da pactuação, matéria que já teria sido estabelecida nesta Corte no julgamento do REsp nº 1.497.831 e (II)possibilidade de reconhecimento da ilegitimidade passiva da instituição financeira, então recorrente,por se tratar de matéria de ordem pública, não sujeita a preclusão.
+Bem se vê, portanto, que oprecedentecolacionado, por não se referiràs mesmas circunstâncias fáticas e jurídicas, não infirmaa orientação adotada pelo acórdão ora embargado.
+Por fim, ressalto apenas que "os embargos de divergência são cabíveis para compor eventual dissídio de teses jurídicas em sede de recurso especial, não sendo admissíveis para revisar acerto ou desacerto da decisão embargada" (AgRg nos EAREsp 744.127/RN, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 15/02/2017, DJe 24/02/2017).
+Ante o exposto, com fulcro no art. 266-C, do RISTJ, indefiro os embargos de divergência também com relação ao precedente da 3ª Turma do STJ (AgInt no AREsp n. 1.028.068).
+A apresentação de novos incidentes manifestamente infundados ou protelatórios será reputada litigância de má-fé.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DISSÍDIO NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA ENTRE OS CASOS CONFRONTADOS.
+1. A teor do disposto nos arts. 1.043 do CPC/2015 e 266 do RISTJ, são cabíveis embargos de divergência, recurso cujo escopo é a uniformização da jurisprudência desta Corte, eliminando as dissidências internas quanto à interpretação do direito em tese, quando determinado órgão fracionário, julgando recurso especial, dissente de julgamento atual de qualquer outro órgão do mesmo tribunal.
+2. No caso, entretanto, o dissídio aventado pelaembargante não está configurado, na medida em que não há similitude fática e jurídica entre o julgado recorrido e oacórdãoparadigmada 3ª Turma(AgInt no AREsp n. 1.028.068).
+3. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS.
