@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdãodo Tribunal Regional Federal da 4ª Região assim ementado:
+ADMINISTRATIVO. JUÍZO DE RETRATAÇÃO. EMENDA CONSTITUCIONAL 70/2012. PARIDADE REMUNERATÓRIA. PENSÕES INSTITUÍDAS APÓS A EC 41/2003. REGRAS DE TRANSIÇÃO. TEMA 396 DO STF. RE 603.580.
+1. Os pensionistas de servidor falecido posteriormente à EC 41/2003 têm direito à paridade com servidores em atividade (EC 41/2003, art. 7º), caso se enquadrem na regra de transição prevista no art. 3º da EC 47/2005. Não tem, contudo, direito à integralidade (CF, art. 40, § 7º, inciso I) (Tema 396).
+2. As pensões derivadas de aposentadorias por invalidez, concedidas nos termos do art. 6º-A da EC nº 41/03, com redação dada pelo art.1º da EC 70/12, têm igualmente a paridade garantida pelo parágrafo único do mencionado dispositivo legal.
+3. Não obstante tenha a EC 41/2003 posto fimà regra da paridade, há de ser observadas as regras de transição (arts. 6º e 7º), as quais foram complementadas pelas alterações decorrentes do disposto na EC 47/2005 (arts. 2º e 3º) e na EC 70/2012 (art. 1º), que asseguraram o direito à paridade aos servidores aposentados e aos pensionistas enquadrados em suas disposições, não prevalecendo, em consequência, a tese fixada no Tema 396 no sentido de que a paridade não alcança as pensões instituídas após a vigência da EC 41/03.
+4. Estando os fundamentos do acórdão em conformidade com o entendimento firmado pelo Supremo Tribunal Federal no julgamento do Tema 396 (RE 603.580), a manutenção da decisão é medida que se impõe, com fulcro no art. 1.040, II, do CPC.
+A recorrente afirma que houve, além de divergência jurisprudencial, violação aos arts. 1.022 do CPC e15 da Lei 10.887/2004.Defende:
+Requer, portanto, a análise e manifestação acerca dos seguintes dispositivos legais, cuja importância é crucial para análise da matéria controvertida:
+- artigos 2º, 37, X, e 61, § 1º, II, da Constituição Federal: o acolhimento da pretensão da parte-autora implicará, na verdade, na outorga de reajustes a servidores públicos sem lei específica do Chefe do Executivo, mas pela via do Judiciário - o que sabidamente colide com a orientação já estabelecida pela Súmula nº 339 do Supremo Tribunal Federal;
+- CRFB, art. 40, §§ 7º, I, e 8º; EC 47/05, art. 2º e 3º; EC 41/2003, artigos 3º, 6º e 7º - Violação aos comandos constitucionais que afastam a paridade remuneratória para as aposentadorias e pensões não excepcionadas pelas Emendas Constitucionais 41/03 e 47/05;
+A norma contida no § 8º do artigo 40 da Constituição, em sua antiga redação (EC nº 20/98), que garantia a paridade entre vencimentos e proventos, restou suprimida pelo advento da Emenda Constitucional nº 41/2003, embora repetida em seu âmago no art. 7º da EC, para aposentadorias e pensões em fruição na data de publicação da Emenda, nesta redação:
+(..)
+Transcorreu in albis o prazo para apresentação de contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 21.10.2022.
+Preliminarmente, constato que não se configura a contrariedade aoart. 1.022 do Código de Processo Civil, visto não haver no acórdão recorrido quaisquer dos vícios previstos nesses dispositivos legais. O Tribunal a quo examinou e decidiu, fundamentadamente, todas as questões postas ao seu crivo. Julgou integralmente a lide e solucionou a controvérsia. Portanto, não cabe falar em negativa de prestação jurisdicional.
+A Corte regional tratou expressamente do tema:
+A controvérsia, no presente caso, cinge-se em estabelecer se os pensionistas de servidor aposentado antes do advento da EC 41/2003, porém falecido após a sua promulgação, têm direito à paridade com os vencimentos dos servidores em atividade para fins de reajustamento do benefício.
+Inicialmente, importante salientar que, para fins de concessão da pensão por morte, aplica-se a legislação vigente ao tempo do óbito, em observância ao princípio tempus regit actum.
+Atualmente, o art. 40, § 8º da Constituição Federal, com a redação dada pela EC nº 41/2003, assegura aos servidores públicos inativos e a seus pensionistas o reajustamento dos benefícios para preservar-lhes, em caráter permanente, o valor real, conforme critérios estabelecidos em lei.
+Em sua redação original assim estabelecia o artigo 40 da Constituição Federal:
+(..)
+Com a Emenda Constitucional nº 20, de 15/12/1998 foram mantidas a paridade e a integralidade. Assim ficou, no que importa, a situação:
+(..)
+Posteriormente, sobreveio a Emenda Constitucional nº 41, de 19/12/2003, a qual alterou substancialmente o art. 40, §8º, pondo  m à paridade, ou seja, a garantia de reajustamento dos proventos de aposentadoria e pensões sempre que reajustassem os vencimentos dos servidores da ativa.
+Assim ficou a redação do artigo 40 da Constituição Federal, no que importa para a discussão:
+(..)
+Dessa forma, em regra, não tem o pensionista direito à paridade quando o falecimento do servidor ocorreu após a vigência da EC 41/2003.
+Deve-se atentar ainda para o art. 7º da referida EC 41/2003, que criou regra de transição que beneficia os servidores inativos na data da promulgação da Emenda:
+Art. 7º Observado o disposto no art. 37, XI, da Constituição Federal, os proventos de aposentadoria dos servidores públicos titulares de cargo efetivo e as pensões dos seus dependentes pagos pela União, Estados, Distrito Federal e Municípios, incluídas suas autarquias e fundações, em fruição na data de publicação desta Emenda, bem como os proventos de aposentadoria dos servidores e as pensões dos dependentes abrangidos pelo art. 3º desta Emenda, serão revistos na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, sendo também estendidos aos aposentados e pensionistas quaisquer benefícios ou vantagens posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão, na forma da lei.
+Por fim, a EC 70, de 29/03/2012, assim estatuiu em seus artigos 1º e 2º:
+Art. 1º A Emenda Constitucional nº 41, de 19 de dezembro de 2003, passa a vigorar acrescida do seguinte art. 6º-A:
+Art. 6º-A. O servidor da União, dos Estados, do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações, que tenha ingressado no serviço público até a data de publicação desta Emenda Constitucional e que tenha se aposentado ou venha a se aposentar por invalidez permanente, com fundamento no inciso I do § 1º do art.40 da Constituição Federal, tem direito a proventos de aposentadoria calculados com base na remuneração do cargo efetivo em que se der a aposentadoria, na forma da lei, não sendo aplicáveis as disposições constantes dos §§ 3º, 8º e 17 do art. 40 da Constituição Federal.
+Parágrafo único. Aplica-se ao valor dos proventos de aposentadorias concedidas com base no caput o disposto no art. 7º desta Emenda Constitucional, observando-se igual critério de revisão às pensões derivadas dos proventos desses servidores.
+Art. 2º A União, os Estados, o Distrito Federal e os Municípios, assim como as respectivas autarquias e fundações, procederão, no prazo de 180 (cento e oitenta) dias da entrada em vigor desta Emenda Constitucional, à revisão das aposentadorias, e das pensões delas decorrentes, concedidas a partir de 1º de janeiro de 2004, com base na redação dada ao § 1º do art. 40 da Constituição Federal pela Emenda Constitucional nº 20, de 15 de dezembro de 1998, com efeitos financeiros a partir da data de promulgação desta Emenda Constitucional.
+Da evolução das normas constitucionais acerca da matéria percebe- se que por força do inciso I e §§ 3º, 8º e 17 do artigo 40 da Constituição Federal, na redação da EC 41/2003, os proventos de aposentadoria por invalidez dos servidores devem, em princípio, ser calculados pela média das contribuições, assegurado o reajustamento para garantir o valor real.
+Foi assegurada, por outro lado, integralidade somente para os casos de aposentadoria por invalidez decorrente de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, na forma da lei.
+Integralidade, não obstante, deve ser salientado, na disciplina instituída pela EC 41/2003 não se confunde com sistemática de cálculo da renda mensal inicial ou com forma de reajustamento (paridade).
+A EC 70/2012 é que alterou, em parte, a situação, assegurando, em determinadas circunstâncias, a paridade e o afastamento da regra de cálculo de salário de benefício.
+Por força da EC 70/2012, em se tratando de servidor que tenha ingressado no serviço público até a data da publicação da EC 41/2003 (31/12/2003) e que venha a se aposentar por invalidez permanente com fundamento no inciso I do § 1º do artigo 40 da Constituição Federal, de fato foi assegurado o direito a proventos de aposentadoria calculados com base na remuneração do cargo efetivo em que se der a aposentadoria, na forma da lei, não se aplicando o disposto nos §§ 3º, 8º e 17 do artigo 40 da Constituição Federal, na redação atual. Para estes servidores foi afastada a regra de cálculo de salário de benefício e garantida a paridade.
+Trata-se de regra de transição, que resguardou a situação dos servidores que ingressaram antes do advento da EC 41/2003. Portanto, as pensões derivadas de aposentadorias por invalidez concedidas nos termos do art. 6º-A da EC nº 41/03, com redação dada pelo art. 1º da EC n. 70/12, têm a paridade garantida pelo parágrafo único do art. 6º-A da EC 41/03 com redação dada pela EC n. 70/12.
+No mérito, não se pode conhecer da irresignação.
+Em atenção ao teor do aresto impugnado, observa-se quea questão foi decidida com base em precedentes do Supremo Tribunal Federal e fundamentos eminentemente constitucionais.
+Com efeito, analisada a matéria sob o prisma exclusivamente constitucional, é vedado ao STJ rever o entendimento consignado na origem, sob pena de usurpação da competência do STF.Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. MERA INSATISFAÇÃO COM O DESLINDE DA CONTROVÉRSIA. AUSÊNCIA DE INDICAÇÃO DE VÍCIOS NO JULGADO.
+(..)
+3. O Tribunal de origem concluiu que o STF, ao julgar o RE n. 363.852/MG, declarou inconstitucional as alterações trazidas pelo art. 1º da Lei n. 8.540/1992, que deu nova redação aos arts. 12, V e VII, 25, I e II, e 30, IV, da Lei n. 8.212/1991.
+4. Tendo o acórdão recorrido amparo em fundamentos eminentemente constitucionais, não compete ao STJ conhecer da proposição formulada no recurso especial, sob pena de invadir a competência exclusiva do STF.
+(..)Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1.429.089/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 22/5/2014)
+Por tudo isso, conheço parcialmente do Recurso Especial, tão somente quanto à afronta ao art. 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Consubstanciado o previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios correspondentes a 10% (dez por cento) sobre o valor total da verba sucumbencial, caso tenha sido fixadanas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Saliento que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios quando a Fazenda Pública for sucumbente, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal.
+Publique-se.
+Intimem-se.
