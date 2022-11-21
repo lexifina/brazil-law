@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão assim ementado:
+APELAÇÃO CÍVEL  DIREITO ADMINISTRATIVO E PREVIDENCIÁRIO  CONTRIBUIÇÃO SOCIAL DESTINADA AO CUSTEIO DA SAÚDE  SERVIDORAS OCUPANTES DE DOIS CARGOS  DESCONTO SOBRE O VALOR TOTAL DA REMUNERAÇÃO  REPETIÇÃO  DESCABIMENTO  LEGITIMIDADE  OBSERVÂNCIA DO COMANDO LEGAL DA MODIFICAÇÃO PELA LC 12112011.
+1. A redação original do art. 85 da Lei Complementar Estadual n. 64/2002 dispunha expressamente que a base de cálculo da contribuição paracusteio dos serviços de saúde seria a remuneração global auferida pelaservidor.
+2. Esta previsão legitimava, portanto, o desconto sobre o somatório dos dois cargos então ocupados.
+3. As modificações impostas pela novel LC 121/2011 não retroagem para alcançar descontos feitos sob a égide da norma anterior.
+4. Recurso a que se nega provimento.
+A parte recorrente afirma que houveofensa aos arts. 165 e 167 do CTN. Afirma:
+"a partir da decisão proferida na ADI 3106/MG que declarou a inconstitucionalidade material da expressão "compulsoriamente" prevista no art. 85, § 4º, da Lei n. 64/2002 em face do art. 149, § 1º, da CF/88 e, sendo seus efeitos retroativos à vigência da Lei referida, qual seja, à 25/03/2002, não poderiam as Recorrentes serem compelidas desde aquela data a contribuírem sobre os dois vencimentos dos DOIS CARGOS e, nem tampouco, tinham a faculdade/opção de contribuírem ou não para o custeio da assistência médica/odontológica do IPSEMG e daí usufruírem dos serviços da autarquia. (fl. 333, e-STJ)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 11.10.2022.
+A irresignação não merece acolhimento.
+Na origem, cuidam os autos de Ação Ordinária ajuizada pelas partes recorrentes com objetivo de ver declarada a inexistência de relação jurídico-tributária que ampare o desconto da contribuição para assistência à saúde sobre os vencimentos/proventos do segundo cargo por elas ocupado e de restituir os valores já descontados a esse título.
+Verifica-se que o Tribunal de origem, ao julgar o recurso de Apelação, solucionou a questão com base em legislação local, nos seguintes termos (fls. 297-312, e-STJ):
+A questão a ser dirimida nesta demanda diz respeito, portanto, à definição da base de cálculo da aludida contribuição antes da vigência da Lei Complementar 121/2011.
+A redação original do art. 85 da Lei Complementar Estadual n. 64/2002 dispunha expressamente que a base de cálculo da contribuição seria a remuneração global auferida pelo servidor  que, háespécie em exame, corresponderia ao somatório dos vencimentos e proventos dos dois cargos das recorrentes  , in verbis:
+(..)
+Assim, à vista deste regramento, compartilhava entendimento segundo o qual, cessados . os descontos de 3,2% em relação a um dos cargos ocupados pelo servidor, não mais se manteria o direito de fruição dos serviços médicos e odontológicos relacionados a ambos os cargos, já que, com a diminuição do valor descontado, o valor pago passaria a estar aquém daquele fixado pela legislação para a devida contraprestação.
+É que, até então, para que houvesse direito aos benefícios do sistema de saúde gerido pelo IPSEMG, em face de seu caráter contraprestacional, imprescindível a contribuição para o devido custeio nó índice de 3,2% sobre a remuneração global do servidor, até o limite de vinte vezes o valor.do vencimento mínimo estadual.
+(..)
+Sendo legítimos, dessa forma, os descontos em ambos os inviável a pretensão á devolução dos valores descontados anteriormente em relação a um dos cargos exercidos pelas servidoras.
+É certo, que, em 29 de dezembro de 2011, foi editada a Lei Complementar 121, impondo significativas mudanças na LC 64/2002, no que tange ao sistema de recolhimento de contribuição e prestação dos serviços de saúde pela autarquia estadual.
+(..)
+No entanto, o novel regramento não tem possui qualquer relevância para o julgamento da espécie, vez que, até então, a LC 64/02, em sua redação original, previa o recolhimento da contribuição sobre a remuneração total do servidor, e esta norma revelava-se, a meu sentir, compatível com a interpretação dada pela Administração Pública ao proceder ao cálculo sobre ambos os cargos.
+Inicialmente, o debate proposto no Recurso Especial, de que os recorrentes não "tinham a faculdade/opção de contribuírem ou não para o custeio da assistência médica/odontológica do IPSEMG e daí usufruírem dos serviços da autarquia",não ocorreu na Corte a quo.
+Assim, perquirir nessa via estreita ofensa à norma mencionada nas razões recursais, sem explicitação da tese jurídica ora controvertida, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. No ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". No mesmo sentido, os enunciados das Súmulas 211 do STJ e 356 do STF. É assente no STJ o entendimento de que é condição sine qua non, para que se conheça do Apelo Nobre, que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como afrontados.
+Quanto à legitimidade do desconto da contribuição sobre os dois cargos simultaneamente ocupados pelas partes, constata-se que o Colegiado estadual decidiu a controvérsia mediante interpretação da lei local de regência, cuja revisão é inviável pela via eleita, consoante inteligência da Súmula 280 do STF.Nesse mesmo sentido: REsp 1.373.784/MG, relatorMinistro Gurgel de Faria, DJe 30.3.2021;REsp1.379.328/MG, relatora Ministra Regina Helena Costa, DJe 13.12.2017; REsp 1.398.302/MG, relatorMinistro Sérgio Kukina, DJe 08.8.2016.
+Por fim, rever o entendimento da instância originária de que os Embargos são protelatórios demanda o revolvimento do conjunto fático-probatório dos autos, o que é vedado ante o óbice da Súmula 7 do STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO CONTRA DECISÃO QUE NEGOU SEGUIMENTO AO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. EMBARGOS PROTELATÓRIOS. APLICAÇÃO DE MULTA. REEXAME DOS FATOS. SÚMULA 7/STJ.
+1. A indicada afronta ao art. 236 do CPC de 1973 não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esse dispositivo legal. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+2. É pacífico o entendimento no STJ de que a análise do artigo 1.026, § 2º, do CPC, que trata da multa por interposição de Embargos de Declaração protelatórios, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+3. Agravo Interno não provido. (AgInt no REsp 1.691.238/AM, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 28/5/2018).
+Diante do exposto, não conheço do Recurso Especial.
+Publique-se.Intimem-se.
