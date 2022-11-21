@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interposto porWJP 2000 MATERIAIS DE CONSTRUÇÃO E BAZAR EIRELIcontra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inc. III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiroassim ementado:
+"AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS PARA CONSULTA E INCLUSÃO DE CLIENTES NOS CADASTROS DE MAUS PAGADORES. SENTENÇA DE PROCEDÊNCIA QUE DEVE SER MANTIDA. PRELIMINAR DE NULIDADE DA SENTENÇA POR CERCEAMENTO DE DEFESA REJEITADA. ALEGAÇÃO GENÉRICA E SEM AMPARO NAS PROVAS DOS AUTOS DE COBRANÇA ILEGAL POR SERVIÇOS NÃO UTILIZADOS. É IMPOSSÍVEL VERIFICAR A LEGALIDADE DAS COBRANÇAS QUANDO NEM AO MENOS SÃO ESPECIFICADOS OS SERVIÇOS QUE FORAM COBRADOS, MAS NÃO FORAM PRESTADOS. É NÍTIDA A DESORGANIZAÇÃO DA EMPRESA QUE NÃO POSSUI SEQUER O CONTROLE DOS SERVIÇOS QUEUTILIZA. CABIA À DEMANDANTE A PROVA MÍNIMA DO SEU DIREITO, NOS TERMOS DO ART.373, I, DO CPC, ÔNUS DO QUAL NÃO SE DESINCUMBIU. A AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DAS COBRANÇAS NA INICIAL E DE CONTRADITADOS DOCUMENTOS DA CONTESTAÇÃO NA RÉPLICA NÃO SERIA SUPRIDA COM A PROVA TESTEMUNHAL REQUERIDA. RECURSO CONHECIDO E DESPROVIDO"(e-STJ fl. 406).
+Nas razões do especial (e-STJ fls. 424/432), osrecorrentes alegam violação doartigo282, § 1º, do CPC/2015, "visto que os recorrentes foram prejudicados quando da prolação da r. decisão a quo, que deixou de reconhecer a nulidade dos atos processuais, após a juntada dos documentos de index 64-70, não havendo o que se falar em preclusão, porquanto os recorrentes não foram, até o momento, intimados a se manifestar sobre tais documentos"
+Sustentam, em síntese, a ocorrência de cerceamento de defesa, diante do indeferimento da prova oral requerida.
+Aduzem, ainda, violação do art. 373, § 1º, do CPC/2015, pois entendeque estão presentes os requisitos para a concessão da inversão do ônus da prova.
+Apresentadas as contrarrazões, o recurso foi inadmitido. Daí o presente agravo no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+A irresignação não merece acolhimento.
+Não subsiste a alegação de cerceamento de defesa, em razão do indeferimento de provas.
+Eis o acórdão recorrido, no que interessa à espécie:
+"Inicialmente, afasta-se a preliminar de nulidade da sentença por cerceamento de defesa.
+Instadas a se manifestaremquanto às provas que pretendiam produzir, a autora requereu a produção de prova testemunhalde GUILHERME HENRIQUE RODRIGUES ANTUNES, administrador da empresa, a fim de comprovar a tese autoralde que não efetuou todas as consultas apontadas pela ré.
+O feito foi julgado antecipadamente, com base no artigo 355, inciso I, do CPC, sendo indeferidas a inversão do ônus da prova e a produção da prova testemunhal na sentença, sob os fundamentos de que,tratando-se de fato negativo,é ônus da ré comprovar a utilizaçãodos serviços e de que a documentação carreada é suficiente para o julgamento.
+Como se observa, o magistrado, embora tenha indeferido a inversão do ônus da provaprevista no artigo6º, inciso VIII, do CDC, atribuiu àré a prova do fato negativo alegado pela autoracomamparo no §1º, do artigo373, do CPC.
+Nesse contexto, dispensável a prova testemunhal requerida pela demandante para o deslinde do caso, eis que não semostra suficiente para suprir asubjetividade da tese autoral e refutar os documentos apresentados pela ré, como veremos adiante.
+Assim, rejeita-se a preliminar de nulidade da sentença, bem como mantem-se o indeferimento da inversão do ônus da prova"(e-STJ fls. 408/409).
+Com efeito, devem ser levados em consideração os princípios da livre admissibilidade da prova e do livre convencimento do juiz, que, nos termos do artigo 370 do Código de Processo Civil de 2015 (art. 130 do CPC/1973), permitem ao julgador determinar as provas que entender necessárias à instrução do processo bem como o indeferimento daquelas que considerar inúteis ou protelatórias.
+Dessa forma, não há falar em nulidade processual por ausência de produção de prova, visto que a decisão vergastada procedeu à devida análise dos fatos e a sua adequação ao direito.
+Quanto ao mérito, o acórdão assim consignou:
+"As impugnações da empresa são genéricas, sequer aponta quais os serviços que efetivamente teria utilizado em sua opinião, servindo-se de média de uso dos meses anteriores para justificar a alegação de aumento excessivo de cobrança, quando a quantia a ser paga é calculada com base em valores fixos mensais que são somados aos valores correspondentes ao número de consultas, hospedagens e/ou transações efetivadas em cadamêsque excederem ao mínimo contratado.
+A ré trouxe relatório descritivo dos acessos e serviços utilizados no período contestado de 03/01/2018 a 16/11/2018, além de contatos da autora, diante do bloqueio dos serviços por alteração do consumo,nos quais lhe foi informado o comportamento atípico em sua conta, sendo por ela reconhecida a alteração e solicitado o desbloqueio, todos exatamente no mês de agosto, que gerou a cobrança que aponta ser excessiva.
+Em réplica, a autora limitou-se a reiterar seu inconformismo com o valor e a impugnar, mais uma vez genericamente, os documentos apresentados.
+É impossível verificar a legalidade das cobranças quando nem ao menos são especificados os serviços que foram cobrados, mas nãoforam prestados. É nítida a desorganização da empresa que não possui sequer o controle dos serviços que utiliza.
+Como bem ressaltado na sentença, as circunstâncias evidenciam que provavelmente a empresa não diligenciou a guarda de seu logon e sua senha, permitindo o uso descontrolado do sistema.
+Desse modo, cabia a demandante a prova mínima do seu direito, nos termos do artigo 373, inciso I, do CPC, ônus do qual não se desincumbiu. Frisa-se que a ausência de impugnação específica das cobranças na inicial e de contraditados documentos da contestação na réplica não seria suprida com a prova testemunhal requerida"(e-STJ fls. 409/410).
+Assim, rever tal conclusão encontra óbice juridicamente insuperável na Súmula nº 7/STJ, porquanto demandaria revisão de matéria fático-probatória, procedimento inviável no âmbito do recurso especial.
+Por fim, no tocante à tese em torno do art.282, § 1º, do CPC/2015,verifica-se que tal tema não foi objeto de debate pelas instâncias ordinárias e não houve a oposição de embargos de declaração com a finalidade de provocar o debate sobre o tema.
+Nessa circunstância, ausente o requisito do prequestionamento, incide o disposto nas Súmulas nºs 282 e 356/STF:
+"Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Súmula nº 356/STF: "O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento"."
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 11%sobre a mesma base cálculo fixada na sentença, os quais devem ser majorados para 15% em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
