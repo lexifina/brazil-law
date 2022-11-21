@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto contra acórdão assim ementado:
+AGRAVO INTERNO EM MANDADO DE SEGURANÇA - DECISÃO QUE RECONHECEU A INCOMPETÊNCIA DO TRIBUNAL DE JUSTIÇA - REMETENDO OS AUTOS AOS JUIZADOS ESPECIAIS - SÚMULA N.º 376, DO STJ - ARTIGO 36, INCISO I, ALÍNEA "A", DA RESOLUÇÃO N.º 223/2019 - RECURSO CONHECIDO E DESPROVIDO. I.
+Se a parte agravante não trouxe nenhum fundamento capaz de desconstituir a situação jurídica, de modo a alterar o convencimento do Relator, deve ser mantida a decisão agravada. II. Conforme entendimento consolidado na Súmula n.º 376, do STJ, "compete a turma recursal processar e julgar o mandado de segurança contra ato de juizado especial". III. Ademais, o Regimento Interno das Turmas Recursais (Resolução n.º 223/2019) atribui à Seção Especial dos Juizados a competência para processar e julgar originariamente os mandados de segurança impetrados contra atos dos juízos de direito praticados no exercício de funções nas Turmas Recursais.
+A parte recorrente alega:
+No entanto, a questão envolvendo o controle de competência é indissociável da obrigatoriedade (ou não) da União no polo passivo da demanda (litisconsórcio passivo necessário) e a jurisprudência do STJ entende possível a impetração de mandado de segurança no Tribunal de Justiça na hipótese de controle de competência dos Juizados.
+(..)
+Portanto, deve ser reformado o acórdão recorrido, a fim de reconhecer a competência deste Tribunal de Justiça do Estado de Mato Grosso do Sul parajulgar o Mandado de Segurança, sob pena de ofender diretamente o artigo 5º, LXIX, da Constituição Federal.
+Foram apresentadas contrarrazões.
+O Ministério Público emitiu parecer assim ementado:
+RECURSO EM MANDADO DE SEGURANÇA.DISCUSSÃO SOBRE A INCLUSÃO DA UNIÃO FEDERAL COMO LITISCONSORTE PASSIVO NECESSÁRIO EM DEMANDA RELATIVA À CONCESSÃO DE MEDICAMENTO.IMPUGNAÇÃO DE DECISÃO JUDICIAL PROFERIDA NO ÂMBITO DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA. TURMA RECURSAL. CONTROLE DE COMPETÊNCIA.SÚMULA Nº 376/STJ. INAPLICABILIDADE.EXCEÇÃO. PRECEDENTES. PARECER NO SENTIDO DO PROVIMENTO DO RECURSO.
+É o relatório.
+Decido.
+Ao decidir a controvérsia, o aresto vergastado anotou:
+Afonso Henrique Pereira de Farias interpôs agravo interno em face da decisão monocrática proferida por este relator que, no mandado de segurança impetrado contra o Juiz Presidente da 1.ª Turma Recursal Mista dos Juizados Especiais de Mato Grosso do Sul, declarou a incompetência do Tribunal de Justiça para processar o julgar o mandado de segurança, remetendo os autos à Seção Especial dos Juizados Especiais.
+(..)
+Eis os fundamentos adotados na decisão agravada:
+(..)
+De um exame da peça inicial, infere-se que o presente mandamus deveria ter sido direcionado à Turma Recursal (Seção Especial dos Juizados Especiais), a qual goza de competência para processar e julgar o feito, conforme passo a expor.
+(..)
+Assim, por força do princípio da unicidade da competência, o conhecimento e julgamento de mandado de segurança impetrado em face de ato de magistrado em exercício no Juizado Especial é atribuição exclusiva das Turmas Recursais dos Juizados Especiais, e não deste Tribunal de Justiça.
+(..)
+Desse modo, como se trata de ato praticado por magistrados em exercício na Turma Recursal Mista, o processamento e julgamento deste mandado de segurança é atribuição exclusiva da Seção Especial dos Juizados Especiais, e não deste Tribunal de Justiça.
+Finalmente, ressalto que o vício na competência não autoriza o indeferimento de plano do madamus. Por força dos princípios da economia e celeridade processuais, bem como em razão da garantia constitucional à prestação da tutela jurisdicional em tempo razoável, impõe-se determinar sejam adotadas as medidas cabíveis para que haja a redistribuição do presente mandado de segurança.
+Ante o exposto, diante da incompetência deste Tribunal de Justiça, determino que a Secretaria Judiciária adote as providências necessárias à redistribuição do feito para a Seção Especial dos Juizados Especiais do Estado de Mato Grosso do Sul (Resolução TJMS n.º 223/2019, artigo 36).
+Note-se, então, que a decisão monocrática analisou a questão relacionada à competência dos Juizados para apreciar o mandado de segurança impetrado contra decisão da Turma Recursal dos Juizados que extinguiu o feito em razão da necessidade de inclusão da União no polo passivo da lide.
+A propósito, apesar do recorrente alegar a inaplicabilidade da Súmula n.º 376, do STJ nas causas que versarem sobre controle de competência dos Juizados, o ato coator (decisão da Turma Recursal) não resolveu a matéria de competência, mas sim sobre a legitimidade passiva - entendendo haver necessidade de inclusão da União no polo passivo da ação de obrigação de fazer.
+Destarte, não tendo o agravante trazido nenhum fundamento capaz de desconstituir a situação jurídica, de modo a alterar o convencimento deste Relator, mantenho a decisão agravada, pelos seus próprios fundamentos.
+Embora, em regra, seja da Turma Recursal a competência para processar e julgar o Mandado de Segurança contra ato de juizado especial, conforme dispõe a Súmula 376/STJ, excepcionalmente admite-se a impetração do mandamus nos Tribunais de Justiça para ocontrole de competência dos juizados especiais.
+O STJ reconhece que a análise da necessidade da inclusão ou não da União Federal no polo passivo da ação, como no caso, envolve, necessariamente, a própria definição da competência para o julgamento da causa.Nessa linha:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. IMPUGNAÇÃO DE DECISÃO JUDICIAL PROFERIDA NO ÂMBITO DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA. TURMA DE RECURSOS. CONTROLE DE COMPETÊNCIA. SÚMULA N. 376/STJ. DISCUSSÃO SOBRE INCLUSÃO DA UNIÃO COMO LITISCONSORTE PASSIVO NECESSÁRIO EM DEMANDA RELATIVA À CONCESSÃO DE MEDICAMENTO. RECURSO ORDINÁRIO PROVIDO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de mandado de segurança contra pronunciamento judicial da 1ª Turma Recursal do Estado de Santa Catarina, que determinou a intimação da autora, no âmbito de ação de fornecimento de medicamento, para incluir a União no polo passivo como litisconsorte necessário, sob pena de extinção do feito sem resolução do mérito. No Tribunal a quo, a segurança foi denegada.Nesta Corte, em decisão monocrática de minha lavra, deu-se provimento ao recurso ordinário interposto com fundamento no art. 105, II, b, da Constituição Federal.
+II - Nesse sentido, consoante esclarecido, nos termos do Enunciado Sumular n. 376/STJ, em regra,  compete à turma recursal processar e julgar o mandado de segurança contra ato de juizado especial . Por outro lado, excepcionalmente, o conhecimento da impetração de mandado de segurança competirá aos tribunais de justiça no exercício do controle de competência dos juizados especiais (RMS n. 48.413/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 4/6/2019).
+III - Na hipótese dos autos, o comando judicial, relativo à inclusão de ente federal na qualidade de litisconsorte passivo necessário, implica o estabelecimento de competência, passível de controle pelo Tribunal de origem.
+IV - Quanto à questão de fundo, ressalta-se, conforme delineado na decisão agravada, que, no julgamento do RE n. 657.718/MG, (Tema n. 500/STF, de Repercussão Geral), o Supremo Tribunal Federal consignou a obrigatoriedade de integração da União no polo passivo de ação que implique fornecimento de medicamentos sem registro na Anvisa, não existindo idêntico comando no que concerne a fármacos não incorporados na Rename/SUS.
+V - Ademais, a Suprema Corte, nos autos do RE n. 855.178/SE (Tema n. 793/STF, de Repercussão Geral), firmou entendimento a respeito da responsabilidade solidária dos entes federados no que se refere ao fornecimento de tratamento médico adequado aos necessitados, de modo que o polo passivo da ação que envolve a aludida matéria pode ser composto por qualquer um deles, conjuntamente ou isoladamente.
+VI - Por essa razão, verifica-se que o controle de competência em questão revela-se estritamente jurídico, porquanto versa sobre o debate na jurisprudência do Superior Tribunal de Justiça acerca do Tema n. 793/STF, sendo a irresignação da recorrente evidentemente limitada ao fato de estar diante de decisão contrária a seus interesses, o que não viabiliza o provimento do presente recurso.
+VII - Agravo interno improvido.
+(AgInt no RMS n. 67.753/SC, relator Ministro Francisco Falcão, Segunda Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. COMPETÊNCIA. JUIZADOS ESPECIAIS. SÚMULA 376/STJ. CONTROLE DE MÉRITO DOS ATOS DE JUIZADO ESPECIAL.
+1. Trata-se de Agravo Interno contra decisão que negou provimento ao Recurso Ordinário.
+2. O Tribunal de origem, examinando a controvérsia e o acervo fático-probatório dos autos, entendeu que não tem competência revisora das decisões proferidas no âmbito dos Juizados Especiais, pelo que remanesce a competência do Juizado Especial para análise do mandamus.
+3. Consoante a jurisprudência do STJ, admite-se a impetração de Mandado de Segurança perante os Tribunais de Justiça dos Estados para o exercício do controle de competência dos juizados especiais, ficando a cargo das Turmas Recursais, conforme dispõe a Súmula 376 do STJ, o Writ que tenha por escopo o controle de mérito dos atos de juizado especial. Precedente: RMS 46.955/GO, Rel. Min. Moura Ribeiro, Terceira Turma, DJe 17/8/2015.
+4. A necessidade da realização de prova pericial, por si só, não afasta a competência dos Juizados Especiais. Confira-se: RMS 39.071/MG, Rel. Min. Maria Isabel Gallotti, Quarta Turma, DJe 15/10/2018.
+5. A averiguação quanto ao mérito (necessidade ou não de prova pericial) remete à solução da competência às Turmas recursais de acordo com a Súmula 376/STJ e com o decidido pelo Tribunal a quo.
+6. Agravo Interno não provido.
+(AgInt no RMS n. 66.360/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 10/12/2021.)
+Na mesma linha: RMS 70.172/MS, Ministra Regina Helena Costa, DJe 10.11.2022, e RMS 69.961/MS,Ministro Humberto Martins, DJe 8.11.2022.
+Ante o exposto, dou provimento ao Recurso Ordinário,reconhecendo a competência do Tribunal de Justiça para julgar o Mandado de Segurança.
+Publique-se.
+Intimem-se.
