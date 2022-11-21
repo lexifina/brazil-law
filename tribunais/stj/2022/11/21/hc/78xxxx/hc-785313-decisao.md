@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se  de  habeas  corpus  com  pedido  liminar  impetrado  em  favor  de  CARLOS ADRIANO APARECIDO ALVES,  apontando  como  autoridade  coatora  o  Tribunal  de  Justiça  do  Estado de São Paulo,  no  julgamento  do  HC  n.  2258134-36.2022.8.26.0000.
+O paciente foi condenado às penas de 5 anos de reclusão, em regime inicial fechado, e de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, negado o direito de recorrer em liberdade.
+Buscando o abrandamento do regime prisional, a defesa impetrou prévio writ na origem, sendo indeferida a liminar e não conhecido o agravo interno interposto.
+Nesta via, sustenta o impetrante a ausência de fundamentação idônea para a fixação do regime inicial fechado.
+Evoca o art. 33, § 2º, b, do Código Penal e as Súmulas 718 e 719 do Supremo Tribunal Federal e 440 deste Superior Tribunal de Justiça.
+Aduz que a ilegalidade seria patente, pois o magistrado sentenciante teria estabelecido o regime mais gravoso apenas com base na hediondez e na gravidade abstrata do crime.
+Defende que, diante do flagrante constrangimento ilegal, deve ser afastado o óbice da Súmula 691 do STF.
+Requer, liminarmente e no mérito, a fixação do regime inicial semiaberto ao paciente.
+Pugna para que a ordem seja concedida de ofício, caso o mandamus não seja conhecido. Ademais, opõe-se ao julgamento virtual e pleiteiaa intimação para a realização de sustentação oral.
+É  o  relatório.  Decido.
+A  jurisprudência  deste  Superior  Tribunal  de  Justiça  firmou-se  no  sentido  de  que,  "ausente  teratologia  ou  evidente  ilegalidade  na  decisão  impugnada  capaz  de  justificar  o  processamento  da  presente  ordem,  pela  mitigação  da  Súmula  691  do  STF,  deve-se  resguardar  a  competência  do  Tribunal  Estadual  para  análise  do  tema  e  evitar  a  indevida  supressão  de  instância"  (AgRg no HC n. 740.703/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022.).
+E,  da  análise  da  documentação  acostada,  verifica-se  que  não  está  caracterizada  flagrante  ilegalidade  suficiente  para  superar  o  óbice  do  referido  enunciado  sumular,  tendo  em  vista  que  a  decisão  objurgada  não  se  mostrou  teratológica,  estando  fundamentada  a  negativa  do  pleito  liminar.
+ Com  efeito,  a  autoridade  impetrada  consignou  (e-STJ fls. 17-18):
+Notadamente, a concessão de liminar em habeas corpus somente ganha passagem quando demonstrada, de forma manifesta, a ilegalidade do ato impugnado. In casu, a despeito da fixação de regime mais gravoso para cumprimento de pena exigir explícita fundamentação, entendo que restou atendido vez que alicerçada nas particularidades do caso concreto. Com efeito, além da considerável quantidade de cocaína apreendida, consta o reconhecimento, pela r. sentença, de que o paciente vem se dedicando à atividade criminosa, o que tornaadequada a fixação do regime mais gravoso do que aquele correspondente ao quantum de pena. Assim, eventual alteração do regime de cumprimento dependerá da decisão colegiada em recurso de apelação.
+Ademais, tenho acolhido, em recentes decisões, em sede de apelação, a manutenção do regime fechado para o resgate inicial da reprimenda, mesmo quando o sentenciado se tratar de réu primário, fixada pena inferior a 08 (oito) anos, se necessário e adequado à repreensão do delito, consideradas a quantidade e natureza dos entorpecentes apreendidos, as circunstâncias do artigo 59 do Código Penal bem como sua dedicação a atividades criminosas.
+Deste modo, pela via estreita deste habeas corpus, não se pode afirmar que o regime imposto será modificado em sede de apelação, de forma que não é seguro, neste momento, a colocação do paciente em regime mais brando.
+Isso posto, indefiro a medida liminar.
+Dessa  forma,  não  se  constata  qualquer  vício  na  negativa  do  pleito  liminar  formulado  no  mandamus  originário,  sendo  certo  que  o  revolvimento  das  questões  nele  aventadas  e  aqui  reiteradas  certamente  acarretaria  a  indevida  supressão  de  instância,  pois  serão  alvo  de  exame  oportuno  na  Corte  de  Justiça  indicada  como  coatora  quando  do  julgamento  do  seu  mérito.
+Ante  o  exposto,  com  fundamento  no  art.  210  do  Regimento  Interno  deste  Superior  Tribunal  de  Justiça,  indefiro  liminarmente  o  presente  habeas  corpus.
+Publique-se.  Intime-se.
+Cientifique-se  o  Ministério  Público  Federal.
