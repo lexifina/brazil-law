@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu o Recurso Especial por ausência de caracterização da ofensa ao art. 1.022 do CPC.
+Defende TE Connectivity Brasil Indústria de Eletrônicos Ltda:
+Trata-se de mandado de segurança com pedido de liminar distribuído pelas Agravantes para requererem o reconhecimento do direito à abstenção da exigência do imposto de importação em sua forma majorada ante a inclusão da taxa de capatazia realizada no destino, no valor aduaneiro (base de cálculo da exação), instituído pela IN SRF 327/03, bem como o reconhecimento da ilegalidade deste dispositivo legal. Por fim, foi requerido o reconhecimento do direito da empresa em compensar/restituir os valores recolhidos a maior nos últimos 5 (cinco) anos.
+(..)
+Nesse sentido, as Agravantes, com base no artigo 105, III, "a" da Constituição Federal, interpuseram Recurso Especial contra o v. acórdão ora recorrido, o qual violou o disposto no art. 1.022 do Código de Processo Civil e o disposto no artigo 6º, § 3º, da Lei 12.016/09, bem como negou vigência aos arts. 96, 97, 98, 99, do Código Tributário Nacional, inciso I do § 3º do Art. 57 da Lei 8.630/93, § 1º do Art. 40, §1º da Lei 12.815 ("Lei dos Portos") e aos arts. 77, 79 do Decreto Federal 6.753/2009, art. 8º, item 2, do Acordo GATT.
+(..)
+Assim, tendo em vista que a r. decisão não considerou que pretende-se realizar o overrulling do citado precedente do Tema 1.014, considerando os pontos de confronto com legislação infraconstitucional, de modo que o v. Acórdão, de fato, violou o disposto no art. 1.022 do CPC por caracterizar omissão e negativa de prestação jurisdicional, visto que a linha argumentativa trazida no Recurso Especial é mais abrangente que a adotada no precedente.
+(..)
+Nesse sentido, opostos embargos de declaração, para sanar omissão em relação a pontos essenciais ao deslinde da controvérsia, os quais impactariam no acolhimento da pretensão das Agravantes. São eles:
+(i) Omissão quanto ao teor das Notas Interpretativas do AVA (Comentário 9.1); e
+(ii) Omissão sobre a aplicabilidade dos arts. 150, I da CF e 97 do CTN - majoração de base de cálculo do tributo por ato infralegal - e a consequente bitributação da capatazia.
+(..)
+Sob o aspecto infraconstitucional, há que se destacar que não houve o enfrentamento pelo STJ - e, por via de consequência, pelo E. TRF3 - das Notas Interpretativas do AVA, em seu comentário 9.1, já colacionado acima, o qual diz, expressamente, que não devem ser incluídos no valor aduaneiro os gastos de descarregamento incorridos após a importação - ou seja, após o ingresso da mercadoria no território nacional.
+Contraminuta às fls. 799-812, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26 de outubro de 2022.
+A irresignação não merece acolhida.
+Inicialmente, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+O Tribunal a quo consignou no acórdão integrativo:
+Ademais, as alegações trazidas não apontam para uma distinção entre o caso concreto e a tese jurídica firmada no precedente vinculante. Deste modo, descabe falar-se em supressão de omissão do julgado, uma vez que sistema processual brasileiro estabelece a vinculação imediata das instâncias inferiores à conclusão adotada como forma de uniformização da jurisprudência pátria.
+Ou seja, salta evidente que não almeja o embargante suprir vícios no julgado, buscando, em verdade, externar seu inconformismo com a solução adotada, que lhe foi desfavorável, pretendendo vê-la alterada.
+Não é esse, contudo, o escopo dos embargos declaratórios.
+Da leitura atenta do Voto condutor, percebe-seque a Corte regionalmanifestou-se de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas que a recorrente alega terem sido omitidas.
+Dessa forma, correta a desacolhida dos Embargos Declaratórios ante a inexistência de omissão, contradição, obscuridade ou erro material a serem sanados. Por conseguinte, não houve ofensa aos arts. 489 e 1.022 do CPC/2015.
+No julgamento do Tema Repetitivo 1.014/STJ, aPrimeira Seção do Superior Tribunal de Justiça firmou entendimento de que "os serviços de capatazia estão incluídos na composição do valor aduaneiro e integram a base de cálculo do imposto de importação".
+Veja-se:
+RECURSO ESPECIAL REPETITIVO. ARTS. 1.036 E SEGUINTES DO CPC/2015 (ART. 543-C, DO CPC/1973). PROCESSUAL CIVIL. TRIBUTÁRIO. IMPOSTO DE IMPORTAÇÃO. COMPOSIÇÃO DO VALOR ADUANEIRO. INCLUSÃO DAS DESPESAS COM CAPATAZIA.
+I - O acordo Geral Sobre Tarifas e Comércio (GATT 1994), no art. VII, estabelece normas para determinação do "valor para fins alfandegários", ou seja, "valor aduaneiro" na nomenclatura do nosso sistema normativo e sobre o qual incide o imposto de importação.
+Para implementação do referido artigo e, de resto, dos objetivos do acordo GATT 1994, os respectivos membros estabeleceram acordo sobre a implementação do acima referido artigo VII, regulado pelo Decreto n. 2.498/1998, que no art. 17 prevê a inclusão no valor aduaneiro dos gastos relativos a carga, descarga e manuseio, associados ao transporte das mercadorias importadas até o porto ou local de importação. Esta disposição é reproduzida no parágrafo 2º do art. 8º do AVA (Acordo de Valoração Aduaneira.
+II - Os serviços de carga, descarga e manuseio, associados ao transporte das mercadorias importadas até o porto ou local de importação, representam a atividade de capatazia, conforme a previsão da Lei n. 12.815/2013, que, em seu art. 40, definiu essa atividade como de movimentação de mercadorias nas instalações dentro do porto, compreendendo o recebimento, conferência, transporte interno, abertura de volumes para a conferência aduaneira, manipulação, arrumação e entrega, bem como o carregamento e descarga de embarcações, quando efetuados por aparelho portuário.
+III - Com o objetivo de regulamentar o valor aduaneiro de mercadoria importada, a Secretaria da Receita Federal editou a Instrução Normativa SRF 327/2003, na qual ficou explicitado que a carga, descarga e manuseio das mercadorias importadas no território nacional estão incluídas na determinação do "valor aduaneiro" para o fim da incidência tributária da exação. Posteriormente foi editado o Decreto n. 6.759/2009, regulamentando as atividades aduaneiras, fiscalização, controle e tributação das importações, ocasião em que ratificou a regulamentação exarada pela SRF.
+IV - Ao interpretar as normas acima citadas, evidencia-se que os serviços de capatazia, conforme a definição acima referida, integram o conceito de valor aduaneiro, tendo em vista que tais atividades são realizadas dentro do porto ou ponto de fronteira alfandegado na entrada do território aduaneiro. Nesse panorama, verifica-se que a Instrução Normativa n. 327/2003 encontra-se nos estreitos limites do acordo internacional já analisado, inocorrendoa alegada inovação no ordenamento jurídico pátrio.
+V - Tese julgada para efeito dos arts. 1.036 e seguintes do CPC/2015 (art. 543-C, do CPC/1973): Os serviços de capatazia estão incluídos na composição do valor aduaneiro e integram a base de cálculo do imposto de importação.
+VI - Recurso provido. Acórdão submetido ao regime dos arts. 1.036 e seguintes do CPC/2015 (art. 543-C, do CPC/1973).
+(REsp 1.799.306/RS, Rel. Ministro Gurgel de Faria, Rel. para acórdão Ministro Francisco Falcão, Primeira Seção, DJe 19.5.2020)
+Sem a análise de matéria fática, não há como ter por ocorrida a superação do precedente.
+No julgado repetitivo ficou vencida a tese de que "a despesa com capatazia, compreendida como aquela destinada a remunerar as atividades típicas de movimentação de mercadorias importadas em território brasileiro, após a chegada ao porto ou aeroporto alfandegado, não pode ser incluída na composição do valor aduaneiro, base de cálculo do imposto de importação".
+Assim, prevaleceu o seguinte argumento:
+"Na interpretação sistemática do art. 8º do AVA, reproduzido pelo Decretos n. 2.498/1998 e 6.759/2009, verifica-se que, para a composição do valor aduaneiro, serão incluídas as despesas realizadas até o porto ou local de importação, incluídas as que se realizarem no porto ou local de importação. Não fosse dessa forma, o inciso II do mencionado normativo não incluiria entre os serviços a atividade de descarga das mercadorias.
+No ponto, insta destacar que a essa interpretação deve ser somada a previsão constante do art. 79, II, do Decreto n. 6.759/2009, que aponta, como atividade não integrante do valor aduaneiro, os custos associados ao transporte incorridos no território aduaneiro, a partir dos locais referidos no inciso I do art. 77 da citada legislação, ou seja, o porto ou aeroporto alfandegado de descarga ou o ponto de fronteira alfandegado".
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
