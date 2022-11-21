@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 36):
+TRÁFICO ILÍCITO DE ENTORPECENTES. Recurso defensivo.
+PRELIMINAR. Prova ilícita não caracterizada. Nulidade inexistente. Diligência que culminou com a apreensão das drogas. Delação anônima plenamente admitida pelo ordenamento jurídico. Precedentes do STF e STJ.
+ABSOLVIÇÃO. Impossibilidade. Autoria e materialidade do narcotráfico bem delineadas.
+DOSIMETRIA. Penas bem estabelecidas. Atenuante da confissão já reconhecida na Origem, não havendo sucumbência. Inaplicabilidade do redutor do § 4º e do CP, art.44. Regime fechado preservado.
+DESPROVIMENTO.
+Consta dos autos que o paciente foi condenado a 5 anos de reclusão, mais 500 dias-multa,pelaprática do crime descrito no artigo art. 33, caput, da Lei n. 11.343/2006.
+No presentewrit, a defesa alega, em síntese, constrangimento ilegal em razão do afastamento do redutor do artigo33, § 4º, da Lei n. 11.343/2006.
+Requer, liminarmente e no mérito, o redimensionamentoda pena do paciente nos moldes do artigo 33, § 4º, da Lei n. 11.343/2006,fixando-se o regime de pena mais brando.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público Federal manifestou-se pela concessão da ordem.
+O acórdão impugnado está assim fundamentado (fls. 39-40):
+ .. .Na derradeira, a despeito da primariedade, realmente não era o caso de aplicação da minorante prevista do art. 33, § 4º da Lei nº 11.343/06,pois a quantidade e a natureza das drogas apreendidas 9,96 QUILOS de MACONHA, SUFICIENTE À CONFECÇÃO DE CERCA DE 19.920 "BASEADOS" DE 0,5 G 1 -, demonstrando, obviamente, não se tratar de "pequeno traficante" ou de "primeira viagem" -, lembrando-se que a mitigação não é direito subjetivo, além do que, dificilmente, de forma isolada e sem íntimo trânsito no ilícito, conseguisse tal volume. .. .
+A sentença, por sua vez, possui os seguintes termos (fl. 326):
+ .. .O réu é tecnicamente primário, porém, a grande quantia de droga encontrada indica que ele está envolvido em atividades criminosas, restando claro o envolvimento de outras pessoas e um grande grau de envolvimento dele com a situação ilícita, pois somente uma pessoa de confiança e envolvida no tráfico seria responsável pelo transporte desse montante, quase dez quilos de drogas; assim, o réu não faz jus ao benefício do art. 33 parág. 4º da Lei de Tóxicos. Posto isso, e por tudo mais que dos autos consta. .. .
+Ao que se tem, as instâncias de origem mantiveram a pena no mínimo legal na primeira e na segunda fases de dosimetria eafastaram a aplicação da minorante do tráfico privilegiado considerando a natureza e a quantidade de droga apreendida, tratando-se de quase dez quilos de maconha (9,96 kg).
+Com efeito, a Terceira Seção desta Corte, no julgamento do Resp n.1.887.511/SP, de Relatoria do Ministro João Otávio de Noronha,em9/6/2021, decidiu quea natureza e a quantidade das drogas apreendidas são circunstâncias aserem necessariamente consideradas na fixação da pena-base, nos termos do art. 42 da Lei n. 11.343/2006, somente podendo ser consideradas para o afastamento da causa de diminuição de pena prevista no art. 33, §4º,da Lei n. 11.343/2016, quando houvera indicação de outros elementos concretos adicionais quecaracterizem a dedicação do agente à atividade criminosa ou a integração a organização criminosa.
+Recentemente, a "tese firmada no REsp n. 1.887.511/SP foi flexibilizada para admitir a modulação da fração de redução do § 4º do art. 33 da Lei n. 11.343/2006 na terceira fase da dosimetria, com base na quantidade e natureza das drogas apreendidas, desde que não tenham sido consideradas na fixação da pena-base (HC n. 725.534, Terceira Seção do STJ)"(AgRg no HC n. 704.275/PA, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 16/8/2022, DJe de 19/8/2022).
+Nesse contexto, a pena do paciente deve ser redimensionada, motivo pelo qual, mantida a pena fixada naprimeira e na segunda fases de dosimetria, em 5 anos de reclusão e 500 dias-multa, na terceira fase, não havendo majorantes,deve ser aplicada a minorante do tráfico privilegiado no patamar de 1/2, nos termos do art. 33, § 4º, da Lei n. 11.343/2006,tendo em vista a quantidade de droga apreendida(9,96 kg de maconha), resultando na reprimenda de 2 anos e 6meses de reclusãoe 250 dias-multa.
+Fixa-se o regime inicial semiaberto para o cumprimento de pena, nos termos do art. 33, § 2º, "b" do CP, em razão da grande quantidade de droga apreendida, mesma circunstância de demonstra não ser suficiente a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do art. 44 do CP.
+Ante o exposto, concedo ohabeas corpusparafixar a pena do pacienteem 2 anos e 6 meses de reclusão,em regime semiaberto, além do pagamento de e 250 dias-multa.
+Comunique-se.
+Publique-se.
+Intimem-se.
