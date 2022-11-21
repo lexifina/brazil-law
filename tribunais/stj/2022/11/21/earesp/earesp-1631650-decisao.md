@@ -1,0 +1,30 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de divergência opostos pelo PAULO MARCOS SENRA SOUZAcontra acórdão da QuartaTurma, ementado nos seguintes termos:
+DIREITO EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. SOCIEDADE DE FATO. RECONHECIMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. FALTA DE COMPROVAÇÃO. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 489 e 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem, a partir da análise dos elementos de prova, concluiu que não houve a formação de uma sociedade de fato, da qual o recorrente seria um dos integrantes. Entender de modo contrário implicaria reexame da matéria fática, o que é vedado em recurso especial.
+4. O conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação divergente e demonstração do dissídio, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados (art. 1.029, § 1º, CPC/2015).
+5. Agravo interno a que se nega provimento.
+Em suas razões, oembarganteaduza existência de divergência jurisprudencial entre o aresto embargado e acórdãos da 1ª, 2ª, 3ª, 4ª e 6ª Turmas do STJ (AgRg no Ag 638.161/SP, AgRg no Ag 1.098.891/RJ, AgRg no Ag 208.616/RJ, AgRg em AAGA 163.949/SP, AgRg no Ag 203.546/BA, AgRg no Ag 476.163/MG e AgRg no Ag 753.818/RS).
+Sustenta, em síntese, que "(..) o Agravo Interno é recurso de devolutividade ampla, razão pela qual pode a parte sucumbente veicular no Agravo Interno todo e qualquer vício existente na decisão monocrática agravada, inclusive o de omissão, até porque é inerente ao Agravo Interno o "juízo de retratação"" (fl. 4.323 e-STJ).
+Impugnações às fls. 4.439/4.458 e 4.459/4.475 (e-STJ).
+Parecer do MPF às fls. 4.477/4.482(e-STJ).
+É o relatório.
+Decido.
+Os embargos de divergência são manifestamente inadmissíveis.
+A teor do disposto nos arts. 1.043 do CPC/2015 e 266 do RISTJ, são cabíveis embargos de divergência, recurso cujo escopo é a uniformização da jurisprudência desta Corte, eliminando as dissidências internas quanto à interpretação do direito em tese, quando determinado órgão fracionário, julgando recurso especial, dissente de julgamento atual de qualquer outro órgão do mesmo tribunal.
+No caso, entretanto, o dissídio aventado pelaembargantenão está configurado, na medida em que não há similitude fática e jurídica entre o julgado recorrido e os acórdãos paradigmas da 1ª, 2ª, 3ª, 4ª e 6ª Turmas (AgRg no Ag 638.161/SP, AgRg no Ag 1.098.891/RJ, AgRg no Ag 208.616/RJ, AgRg em AAGA 163.949/SP, AgRg no Ag 203.546/BA, AgRg no Ag 476.163/MG e AgRg no Ag 753.818/RS).
+Isso porque a 4ª Turma do STJ, ao negar provimento ao agravo interno - e, manter, via de consequência, a negativa de provimento ao agravo em recurso especial -,entendeu, considerando as peculiaridades do caso concreto e jurisprudência sobre o tema, "quanto às supostas omissões da decisão da Presidência,  que  (..) "o agravo interno não é o recurso cabível para apontar a existência de vícios integrativos (omissão, contradição, obscuridade ou erro material) em decisão monocrática, pois são os embargos de declaração a via adequada, nos termos do art. 1.022 do CPC/2015, configurando erro grosseiro a afastar a aplicação do princípio da fungibilidade"".
+De outro lado, os acórdãos paradigmas colacionados pelo embargante trataram dequestões relativas à recorribilidade da decisão que apreciava o "agravo de instrumento" previsto art. 544 do Código de Processo Civil de 1973, com o objetivo de controlar a regular formação do instrumento (presença da completude do elenco legal de cópias) e/ou a impugnação efetiva dos fundamentos da decisão, proferida pelo tribunal de origem, que deixou de admitir o recurso especial interposto.
+Bem se vê, portanto, que os precedentes colacionados, por não se referirem às mesmas circunstâncias fáticas e jurídicas, não infirmam a orientação adotada pelo acórdão ora embargado (inviabilidade da fungibilidade entre o agravo interno e os embargos de declaração).
+Por fim, ressalto apenas que "os embargos de divergência são cabíveis para compor eventual dissídio de teses jurídicas em sede de recurso especial, não sendo admissíveis para revisar acerto ou desacerto da decisão embargada" (AgRg nos EAREsp 744.127/RN, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 15/02/2017, DJe 24/02/2017).
+Ante o exposto, com fulcro no art. 266-C, do RISTJ, indefiro os embargos de divergência.
+A apresentação de novos incidentes manifestamente infundados ou protelatórios será reputada litigância de má-fé.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DISSÍDIO NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA ENTRE OS CASOS CONFRONTADOS.
+1. A teor do disposto nos arts. 1.043 do CPC/2015 e 266 do RISTJ, são cabíveis embargos de divergência, recurso cujo escopo é a uniformização da jurisprudência desta Corte, eliminando as dissidências internas quanto à interpretação do direito em tese, quando determinado órgão fracionário, julgando recurso especial, dissente de julgamento atual de qualquer outro órgão do mesmo tribunal.
+2. No caso, entretanto, o dissídio aventado peloembargante não está configurado, na medida em que não há similitude fática e jurídica entre o julgado recorrido e os acórdãos paradigmas da 1ª, 2ª, 3ª, 4ª e 6ª Turmas (AgRg no Ag 638.161/SP, AgRg no Ag 1.098.891/RJ, AgRg no Ag208.616/RJ, AgRg em AAGA 163.949/SP, AgRg no Ag203.546/BA, AgRg no Ag476.163/MG e AgRg no Ag753.818/RS).
+3. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS.
