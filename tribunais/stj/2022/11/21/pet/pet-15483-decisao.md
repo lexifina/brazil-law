@@ -1,0 +1,19 @@
+DECISÃO
+Vistos etc.
+Trata-se de pedido de tutela provisória formulado por PIMENTA VERDE ALIMENTOS LTDA. em que sustenta o prognóstico favorável ao provimento de recurso especial inadmitido na origem, além do risco de dano irreparável, consubstanciado na retomada da ação de execução de nº 1034678-54.2019.8.26.0100.
+Aduziu a negativa de vigência ao artigo 4º da Lei 8.245/91, no tocante à exigência do depósito de multa rescisória para autorizar o depósito das chaves do imóvel e encerrar a locação, inexistindo sequer cobrança judicial da multa pela parte contrária. Ressaltou a negativa de vigência ao artigo 22 da Lei 8.245/91 e dos artigos 884 e 885 do Código Civil, tendo em vista a não disponibilização do imóvel para o fim pretendido quando da locação, razão por que o valor pago a título de "luvas" deverá ser devolvido à inquilina, sob pena de enriquecimento sem causa da locadora.
+Asseverou, ainda, a negativa de vigência aos artigos 489, §1º, IV do Código de Processo Civil e 113 e 422 do Código Civil, tendo em vista a contratação de empresa para alteração do Projeto de Acesso do imóvel, mas, em dezembro de 2018, houve a comunicação expressa de encerramento do Contrato, não havendo pagamento de alugueres a contar de janeiro de 2019, tendo a distribuição da presente demanda ocorrido em maio de 2019.
+Finalizou dizendo da negativa de vigência aos artigos 371 e 375 do Código de Processo Civil, tendo em vista a conclusão do perito no sentido de que a alteração do projeto exigida pela Concessionária implicaria em significativos gastos adicionais. Pediu o deferimento do efeito suspensivo, obstando a realização de atos executivos - especialmente atos de constrição patrimonial - nos autos do processo n.º 1034678-54.2019.8.26.0100.
+É o relatório.
+Passo a decidir.
+O deferimento de tutela provisória nesta Corte Superior, agregando-se efeito suspensivo a recurso sob a sua cognição, depende da demonstração do prognóstico favorável ao provimento seja do recurso especial, seja do agravo interpostos, além do risco de dano irreparável.
+As ilações da parte não se direcionam ao prognóstico favorável ao provimento do agravo, tendo em vista a inadmissão do seu recurso especial, não havendo qualquer menção aos óbices reconhecidos pela instância originária.
+A importância da demonstração do sucesso do agravo em recurso especial é patente, notadamente porque, ao que se pode extrair dos autos, não se verifica a devida impugnação específica dos fundamentos da decisão agravada.
+Em atenção ao princípio da dialeticidade, para impugnar a decisão que inadmite o recurso especial, faz-se necessário apresentar argumentação específica, adequada às particularidades do caso concreto.
+Necessário, pois,evidenciarporque efetivamente haveria a sustentada negativa de prestação jurisdicional afastada na origeme porque os enunciados 5 e 7/STJ não se fariam incidentes, evidenciando as passagens do acórdão a suportar a revaloração jurídica dos fatos ali considerados.
+O agravante limitou-se a afirmar que o mérito não poderia ser enfrentado em sede de decisão de admissão de recurso especial, quando a jurisprudência desta Corte se posiciona no sentido de que é possível tal proceder, e, no que mais interessa, no tocante à matéria de fundo, limitou-se a dizer genericamente queo óbice sumular não se aplicaria.
+É dever da parte agravante impugnar especificamente todos os fundamentos utilizados para a inadmissão do apelo, sob pena de não conhecimento do agravo em recurso especial, a teor do que dispõe o art. 932, inciso III, do CPC/2015.
+Destarte, no âmbito perfunctório da análise dos recursos, tenho por desatendido o princípio da dialeticidade recursal.
+Finalmente, não é porque uma execução se avizinha, que se terá, apenas por isso, presente o risco de dano irreparável, que, assim, não fora devidamente demonstrado na espécie.
+Ante o exposto, indefiro o pedido de efeito suspensivo.
+Intimem-se.
