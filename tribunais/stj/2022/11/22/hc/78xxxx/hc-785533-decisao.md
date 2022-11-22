@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Giovanna Ribeiro da Silva e Willian de Jesus da Silva  presos preventivamente pela prática, em tese, dos crimes de extorsão majorada e extorsão mediante sequestro , em que se aponta como autoridade coatora o Tribunal de Justiça de São Paulo, que denegou a ordem ali impetrada (Habeas Corpus n. 2186630-67.2022.8.26.0000), mantendo a segregação cautelar imposta pelo Juízo de Direito do plantão judicial da comarca de São Paulo/SP (Autos n. 1517949-89.2022.8.26.0228).
+Alegam os impetrantes, em síntese, constrangimento ilegal na decretação a manutenção da prisão cautelar imposta aos pacientes, poistão somente a gravidade em abstrato do delito não é motivo idôneo para a conversão da prisão em flagrante em preventiva. A manutenção do cárcere cautelar exige motivação concreta acerca da imprescindibilidade da medida última, conforme posição pacífica das Cortes Superiores (fl. 6).
+Postulam, então, a concessão liminar da ordem para que seja revogada a prisão preventiva imposta ou substituída por medidas alternativas.
+É o relatório.
+Confiram-se, no que interessa, trechos da decisão que homologou a prisão em flagrante e decretou a segregação cautelar dos acusados (fls. 16/17 - grifo nosso):
+ ..
+Há notícia de que a vítima foi arrebatada por agentes que, mediante violência e grave ameaça, exercidas com o emprego de arma de fogo, exigiram que ela fornecesse senhas de seu celular e senhas bancárias e, em seguida, realizaram operações bancárias a fim deobterem vantagem ilícita, causando elevado prejuízo financeiro.
+Segundo consta, indivíduos entraram em contato com a família da vítima e também exigiram a realização de transferências como condição ou preço do resgate.
+Conforme ressaltado pela d. Autoridade Policial, a vítima permanece sequestrada.
+De acordo com o boletim de ocorrência, a equipe de investigadores, simultaneamente ao trabalho de campo, expediu ofício para instituições bancárias onde a vítima é correntista e obtiveram informações de diversas transferências bancárias, assim como os dados cadastrais dos favorecidos.
+Enquanto a vítima permanecia subjugada, foram realizadas transferências para GIOVANNA RIBEIRO DA SILVA, WILLIAN DE JESUS DA SILVA, sendo que ambos são namorados e foram encontrados no mesmo endereço.
+Em entrevista policial, confirmam que o dinheiro era proveito de crime e que foram orientados a transferir valor de R$ 24.000,00 para a conta bancária em nome de JEFFERSON ARAÚJO DA SILVA.
+Por fim, afirmaram que receberam aproximadamente R$ 6.000,00 pela utilização de suas contas.
+Dando prosseguimento as diligências, os policiais militares conseguiram localizar o beneficiário JEFFERSON ARAÚJO DA SILVA, em sua residência, o qual alegou que terceiro indivíduo movimentaria sua conta.
+Ainda, os policias militares realizaram diligências e, na residência de ZAQUEU DE JESUS PALMEIRA (tio do investigado WILLIAN), foram encontradas 103 porções de cocaína (35,3g), 132 porções de crack (13,6g) e 39 porções de maconha (65,1g), separadas em embalagens plásticas prontas para a venda e mais R$ 450,00 em espécie.
+Assentado o fumus comissi delicti, debruço-me sobre o eventual periculum libertatis.
+Quanto aos autuados GIOVANNA, JEFFERSON e WILLIAN: Os fatos são gravíssimos. Destaco que a conduta delitiva dos autuados é de acentuada gravidade e indicativa de sua periculosidade.
+Com efeito, consta que foram favorecidos por valores decorrentes dos crimes de extorsão qualificada e extorsão mediante sequestro, enquanto a vítima permanecia em cárcere, situação que, segundo consta, ainda persiste.
+Ademais, conforme ressaltado pela d. Autoridade Policial, "esta infração penal empreende ações delituosas complexas e estruturadas, sendo muito comum, queenquanto alguns ingressam no núcleo do tipo, outros se dedicam a funções paralelas, auxiliando os primeiros. Nessa linha de raciocínio os indiciados participaram efetivamente do crime em apuração, fazendo parte de uma ramificação do grupo criminoso talvez não executando o arrebatamento da vítima, mas atuando de maneira determinante para obtenção da vantagem indevida, haja vista serem os responsáveis por fornecerem sua conta bancária possibilitando assim para que o delito possa se completar, sendo a conduta praticada por ele essencial para a movimentação financeira e que sem o envolvimento dos indiciados a obtenção de vantagem não se concretizaria, portanto, atuando de maneira determinante, e praticando conduta indispensável e relevante para a obtenção da vantagem indevida.  .. No caso em questão, a vítima permanece em cárcere e os indiciados não colaboraram na soltura, o que demonstra a gravidade em concreto do crime."
+Necessária, portanto, a decretação da prisão preventiva como forma de acautelar o meio social e socorrer a ordem pública.
+Ademais, o delito é especialmente grave, de natureza hedionda e daqueles que causam desassossego social. Patente, pois, o perigo gerado pelo estado de liberdade dos autuados.
+ ..
+Da atenta análise dos trechos transcritosobserva-se que se mostram presentes elementos concretos que demonstram a periculosidade dos acusados, pois além de terem participado da empreitada criminosa por meio do fornecimento das contas bancárias para recebimento dos valores transferidos da conta bancária da vítima, mesmo com a prisão deles, a vítima continua sequestrada, uma vez quenão contribuíram para a localização desta ou dos demais corréus.
+Em face do exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente a inicial.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. EXTORSÃO MAJORADA E EXTORSÃO MEDIANTE SEQUESTRO. ACUSADOS DE FORNECER A CONTA BANCÁRIA PARA RECEBIMENTO DE VALORES PERTENCENTES À VÍTIMA, QUE CONTINUA SEQUESTRADA. AUSÊNCIA DE CONTRIBUIÇÃO NA LOCALIZAÇÃO DOS CORRÉUS E DA VÍTIMA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Inicial indeferida liminarmente.
