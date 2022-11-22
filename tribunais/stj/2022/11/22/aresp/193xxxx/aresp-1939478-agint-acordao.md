@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Jorge Mussi, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo interno interposto por NICOLA JANOTTI E CIA LTDA. contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 543):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
+A parte agravante sustentaa inaplicabilidade dos Temas n.181 e 339 do Supremo Tribunal Federal.
+Aduz que teria havido ofensa aosprincípios constitucionais que consagram o devido processo legal (art. 5º, LIV, da Constituição Federal), o ato jurídico perfeito e o direito adquirido (art. 5º, XXXVI, da CF).
+Argumenta que " ..  a hipótese dos autos não guarda relação alguma como aludido desatendimento de pressupostos de admissibilidade recursal (Tema 181), inclusive à vista da violação da Constituição Federal via reflexa  .. " (fl. 559).
+Pondera, por outro lado, que os " ..  pronunciamentos judiciais relacionados (colegiados ou monocráticos), tal como resulta de sua atenta leitura, jamais enfrentaram as questões federais controvertidas sob o ponto de vista suscitado pela empresa agravante  .. " (fl. 570).
+Ademais, defende a possibilidade de demonstração da tempestividade do recurso em agravo interno, conforme " ..  interpretação dos Recursos Especiais n.1.813.684/SP e 1.481.810/SP aos comandos do artigo 1.003, § 6º, do Código de Processo Civil" (fl. 570).
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+Não foram oferecidas contrarrazões (fl. 578).
+É o relatório.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. DESPROVIMENTO DO AGRAVO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema n. 339/STF).
+2. A insurgência quanto ao preenchimento dos pressupostos de admissibilidade de recurso de competência do Superior Tribunal de Justiça tem natureza infraconstitucional, sem repercussão geral (Tema n. 181/STF).
+3. Agravo internoa que se nega provimento.
+VOTO
+O STF, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+A conclusão mencionada ficou sedimentada sob o regime da repercussão geral pela Suprema Corte, no Tema n. 339/STF, segundo o qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do arestoparadigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+No caso, constata-se que foram declinadas as razões pelas quaisfoi negado provimento ao agravo interno, valendo destacar o seguinte excerto (fls. 443-452):
+Com efeito, a partir da redação do referido dispositivo legal, a Corte Especial conclui que eventual documento idôneo apto a comprovar a ocorrência de feriado local, para fins de aferição da tempestividade do recurso, deve ser colacionado aos autos nomomento de sua interposição.
+Destacou-se, ainda, nos debates que levaram a esse posicionamento, que as disposições previstas nos arts. 932, parágrafo único, e 1.029, § 3º, do CPC/2015 não se aplicam à hipótese em tela, de comprovação posterior da tempestividade do recurso.
+ ..
+Isso porque, o Diploma Processual de 2015 previu expressamente que a comprovação da ocorrência de feriado local deverá ser efetivada no ato de interposição do recurso (art. 1.003, § 6º), o que revela a indubitável intenção do legislador de não possibilitar que seja sanado ou desconsiderado o vício de intempestividade do recurso, tal qual previsto nos arts. 932, parágrafo único, e 1.029, § 3º, do CPC/2015.
+Com efeito, a interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+ ..
+Todavia, em sessão realizada em 19/5/2021, a Corte Especial, no julgamento do Agint no AREsp 1.481.810/SP, concluiu que não se deve estender a modulação do entendimento firmado no REsp n. 1.813.684/SP para outros feriados locais, ou seja, consolidou o entendimento de que a comprovação posterior da tempestividade dos recursos dirigidos ao STJ somente é permitida quando interpostos até 18/11/2019 e a comprovação da tempestividade se refira ao feriado da segunda-feira de Carnaval, não sendo admitida quanto aos demais motivos de suspensão do prazo recursal, como a ausência, paralisação ou interrupção de expediente e os demais feriados locais.
+4. Salienta-se ainda que, ao contrário do que sustenta a parte agravante, o dia do servidor público não é feriado nacional, devendo ser previsto como feriado local no âmbito da jurisdição de cada Tribunal e, por isso, comprovado no ato da interposição do recurso.
+ ..
+7. Salienta-se que o juízo de admissibilidade do recurso especial é bifásico. A decisão de admissibilidade proferida pelo Tribunal local, bem como eventual certidão expendida na origem não vincula o Superior Tribunal de Justiça na aferição dos pressupostos de admissibilidade do apelo nobre. Isso porque compete a esta Corte, órgão destinatário do recurso especial, o juízo definitivo de admissibilidade mediante nova análise dos pressupostos recursais.
+Da mesma maneira, foram apresentados os fundamentos para a rejeição dos embargos de declaração opostos na sequência (fls. 473-474):
+3. No caso concreto observa-se que o voto condutor do acórdão ora embargado expressamente se manifestou, de maneira clara, sobre o fato de que o dia 28 de outubro (Dia do Servidor Público) não é previsto em lei federal como feriado nacional, sendo considerado, normalmente, ponto facultativo no âmbito do Poder Judiciário, e costumeiramente há a transferência da data comemorativa para outro dia que não o previsto em lei, devendo ocorrer, no ato de interposição do recurso, a comprovação de que no referido dia houve a suspensão de prazos processuais nos Tribunais de Justiça.
+Assentou, ainda, que essa exigência decorre de previsão expressa no disposto no § 6º do art. 1.003 do CPC, não havendo que se falar, portanto, em possibilidade de saná-lo posteriormente, consoante assentado pela Corte Especial do STJ no julgamento do REsp 1.813.684/SP e do AgInt no AREsp n. 1.481.810/SP.
+4. Portanto não há omissão, nem contradição, tampouco qualquer outro vícioa ensejar embargos de declaração, de modo que todos os pontos necessários ao desate da controvérsia foram abordados, de forma clara, coerente, lógica e fundamentada pelo acórdão embargado.
+Por outro lado, no RE n. 598.365-RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+No caso, verifica-se que o acórdão objeto do recurso extraordinárionegou provimento ao agravo interno, mantendo a decisão que não conheceu do agravo emrecurso especial, em razão da intempestividade do especial e do respectivo agravo.
+Desse modo, não tendo o julgado recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema n. 181/STF, sendo inviável a análise da violação constitucional apontada no recurso extraordinário.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
