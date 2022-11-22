@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino e Ricardo Villas Bôas Cueva votaram com o Sr. Ministro Relator.
+Impedido o Sr. Ministro Marco Aurélio Bellizze.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+EDUARDO ROGÉRIO CHIES STOCKER (EDUARDO) ingressou com ação de cobrança de danos materiais contra VILLA NOVA DESENVOLVIMENTO URBANO LTDA. e ALPHAVILLE PORTO ALEGRE EMPREENDIMENTOS IMOBILIÁRIOS LTDA. (VILLA NOVA e outra), alegando descumprimento do contrato de promessa de compra e venda de imóvel firmado entre as partes.
+Em primeira instância, o pedido foi julgado procedente para condenar as requeridas, solidariamente, ao pagamento do valor correspondente a 2% sobre a totalidade dos valores pagospelo adquirente até a data de 1º/5/2012, corrigidos monetariamente pelo IGP-M e acrescidos de juros moratórios à taxa legal, ambos computados do desembolso. O valor concernenteà multa deverá ser atualizado pelo IGP-M a contar da referida data até o efetivo pagamento (e-STJ, fls. 392/398).
+Ambas as partes apelaram, e o Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento apenas ao recurso de ROGÉRIO, em acórdão assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO DE COBRANÇA DE MULTA POR ATRASO DE ENTREGA DE IMÓVEL. CONTRATO DE COMPROMISSO DE VENDA E COMPRA DE UNIDADE AUTÔNOMA E OUTROS PACTOS. CLÁUSULA PENAL. JUROS DE MORA. INCIDÊNCIA.
+Inexistem as excludentes da mora alegadas pelas incorporadoras demandadas, porque os eventos totalmente previsíveis na construção civil e que devem ser computados quando da definição do prazo de entrega das unidades habitacionais deixam de caracterizar caso fortuito, força maior ou fato do príncipe, como a existência de um antigo aterro sanitário irregular, em relação ao qual as demandadas tinham ciência prévia, ou a demora para obtenção de licenças do Município, ou mesmo as greves ou acúmulo de demandas dos órgãos licenciadores.
+Para tais eventos exatamente a jurisprudência consolidou-se acerca da validade da cláusula de tolerância.
+Assim, justifica-se reafirmar a sentença quanto ao arbitramento da cláusula penal invertida, em consonância com a orientação firmada em recursos repetitivos pelo Superior Tribunal de Justiça, incidente desde o atraso até a entrega da unidade edilícia, com juros de mora e correção monetária no mesmo período, nos termos explicitados na sentença, reformando-se apenas quanto à incidência dos juros de mora derivados da condenação judicial, que incidem da citação.
+A cláusula penal contratual nos termos em que aplicada é proporcional e razoável para indenizar referentemente ao inadimplemento das demandadas consubstanciado no atraso da entrega da unidade autônoma, sem justificativa para a redução do valor arbitrado.
+Apelação do demandante parcialmente provida e apelação das demandadas desprovida (e-STJ, fls. 545/550).
+Os embargos de declaração opostos por VILLA NOVA e outra foram rejeitados (e-STJ, fls. 610/611).
+Irresignadas, VILLA NOVA e outra manejaram recurso especial com base no art. 105, III, alíneas a e c, da CF, apontando, a par de divergência jurisprudencial, a violação dos arts. 393, 405 e 884 do CC/02, ao sustentar (1) que o atraso na entrega do empreendimento decorreu de motivo de força maior, consubstanciado na alteração do regramento normativo ambiental, acarretando a necessidade de nova aprovação de projetos anteriores, além da lentidão dos órgãos públicos na desapropriação de terrenos lindeiros, bem como na realização da vistoria necessária à obtenção do habite-se; (2) o descabimento de inversão da cláusula penal de 2% sobre os valores pagos, sob pena de se permitir a aplicação de multa rescisória como se moratória fosse; e (3) a não incidência de juros de mora na hipótese de inversão da cláusula penal.
+O recurso não foi admitido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (e-STJ, fls. 702/706 ).
+Na sequência, VILLA NOVA e outra interpuseram agravo em recurso especial que, em decisão desta relatoria, conheceu em parte do apelo nobre, negando-lhe provimento, nos termos da ementa a seguir:
+CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL (LOTE URBANO). AÇÃO DE COBRANÇA DE MULTA POR ATRASO NA ENTREGA DA OBRA. (1) EXISTÊNCIA DE MOTIVO DE FORÇA MAIOR AFASTADA PELO ACÓRDÃO RECORRIDO. REVISÃO DA CONCLUSÃO DO JULGADO. SÚMULA Nº 7 DO STJ. (2) INVERSÃO DA CLÁUSULA PENAL MORATÓRIA. APLICAÇÃO DOS TEMAS 970 E 971 DO STJ. (3) INCIDÊNCIA DE JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
+Nas razões do presente agravo interno, VILLA NOVA e outra reiteraram a argumentação deduzida no apelo excepcional, alegando (1) a ocorrência de motivo de força maior a fim de justificar o atraso na entrega do empreendimento, questão cuja solução independe do reexame de provas; e (2) o descabimento daincidência de juros de mora na hipótese de inversão da cláusula penal.
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PROMESSA DE COMPRA E VENDA DE IMÓVEL (LOTE URBANO). AÇÃO DE COBRANÇA DE MULTA POR ATRASO NA ENTREGA DA OBRA. REVISÃO DA CONCLUSÃO DO JULGADO. SÚMULA N.º 7 DO STJ. INVERSÃO DA CLÁUSULA PENAL MORATÓRIA. INCIDÊNCIA DE JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. DECISÃO MANTIDA. AGRAVO INTERNO NÃOPROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. No caso,a revisão da conclusão do julgado, com o consequente acolhimento da pretensão recursal, no sentido de reconhecer a existência de justa causa para o atraso na entrega da obra, exigiria o reexame das circunstâncias fáticas dos autos, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+3. Tendo sido determinadaa inversão da cláusula penal prevista no contrato, os juros de mora alusivos à condenação judicial incidem a partir da citação.
+4.Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+VOTO
+De plano, vale pontuar que o recurso em análise foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+(1) Da existência de motivo de força maior
+Nas razões do recurso especial, VILLA NOVA e outra sustentaram que o atraso na entrega do empreendimento decorreu de motivo de força maior, consubstanciado na alteração do regramento normativo ambiental, acarretando a necessidade de nova aprovação de projetos anteriores, além da lentidão dos órgãos públicos na desapropriação de terrenos lindeiros, bem como na realização da vistoria necessária à obtenção do habite-se.
+Sobre o tema, o TJRS assim consignou:
+Inexistem as excludentes da mora alegadas pelas incorporadoras demandadas, porque os eventos totalmente previsíveis na construção civil e que devem ser computados quando da definição do prazo de entrega das unidades habitacionais deixam de caracterizar caso fortuito, força maior ou fato do príncipe, como a existência de um antigo aterro sanitário irregular, em relação ao qual as demandadas tinham ciência prévia, ou a demora para obtenção de licenças do Município, ou mesmo as greves ou acúmulo de demandas dos órgãos licenciadores. Para tais eventos exatamente a jurisprudência consolidou-se acerca da validade da cláusula de tolerância (e-STJ, fl. 546).
+Da leitura dos fundamentos acima transcritos, verifica-se que a revisão da conclusão do julgado, com o consequente acolhimento da pretensão recursal, no sentido de reconhecer a existência de justa causa para o atraso na entrega da obra, não prescindiria do reexame das circunstâncias fáticas dos autos, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula n.º 7 do STJ.
+A propósito, vejam-se os seguintes precedentes:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. DESCARACTERIZAÇÃO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. No caso, reconhecer caso fortuito ou força maior, no atraso da entrega do imóvel, exige o reexame de matéria fática, medida inviável em recurso especial.
+3. Divergência jurisprudencial não demonstrada, ante a aplicação das Súmulas n. 284 do STF e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.882.113/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 22/11/2021, DJe 26/11/2021 - sem destaque no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA DA OBRA. 1. RESOLUÇÃO DA AVENÇA POR INADIMPLEMENTO DAS VENDEDORAS. DEVOLUÇÃO INTEGRAL DAS PARCELAS PAGAS. SÚMULAS N. 83 E 543/STJ. 2. AUSÊNCIA DE CASO FORTUITO OU FORÇA MAIOR. SÚMULAS N. 5 E 7/STJ.3. AGRAVO INTERNO IMPROVIDO.
+1. Na hipótese de resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento. Súmulas n. 83 e 543 do STJ.
+2. O Tribunal estadual concluiu pela inexistência de caso fortuito ou força maior a justificar o atraso da obra. A modificação das premissas firmadas na origem, de modo a acolher a irresignação recursal, demandaria o reexame do acervo fático-probatório dos autos e análise e interpretação de cláusulas contratuais, procedimentos inviáveis no âmbito do recurso especial, nos termos das Súmulas n. 5 e 7/STJ.
+3.Agravo interno improvido.
+(AgInt nos EDcl no AREsp 1. 563.334/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 26/10/2020, DJe 29/10/2020 - sem destaque no original)
+(2) Da não incidência de juros de mora
+Por sua vez,VILLA NOVA e outra alegaram o descabimento da incidência de juros de mora na hipótese de inversão da cláusula penal.
+Contudo, sem razão.
+O TJRS entendeu pela responsabilização das ora recorrentes pelo atraso na entrega da unidade ao adquirente, não tendo sido acolhida a alegação da superveniência de situação de força maior que justificasse a demora.
+Logo, assim como pontuou o acórdão recorrido:
+No caso, houve a inversão da cláusula penal nos termos do contrato, daí advindo que os juros de mora alusivos à condenação judicial incidem da citação.
+Confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL.COMPRAEVENDADEIMÓVEL. ATRASOINJUSTIFICADO NA ENTREGA DO BEM. SÚMULA 7 DO STJ. RESTITUIÇÃO INTEGRAL DAS PARCELAS PAGAS. SÚMULA 543 DO STJ. LUCROS CESSANTES.
+DANO MATERIAL PRESUMIDO. PRECEDENTES.JUROSDE MORA.CITAÇÃO.AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, o acolhimento da pretensão recursal, para afastar a culpa da construtora peloatrasona entrega doimóvel,demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+2. O STJ possui firme o entendimento no sentido de que na hipótese de resolução de contrato de promessa decompraevendadeimóvelsubmetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador - integralmente, em caso de culpa exclusiva do promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deu causa ao desfazimento" (Súmula 543/STJ).
+3. "Nos termos da jurisprudência do STJ, oatrasona entrega doimóvelenseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador" (EREsp 1341138/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 22/05/2018).
+4. No caso de ilícito contratual, osjurosde mora são devidos a partir dacitação.Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp 1.987.981/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 9/8/2022, DJe 16/8/2022 - sem destaque no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. PROMITENTE VENDEDORA. INADIMPLEMENTO. AÇÃO DE INDENIZAÇÃO. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. JUROS DE MORA. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. MULTA CONTRATUAL. BASE DE CÁLCULO. REVISÃO. IMPOSSIBILIDADE. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Em caso de responsabilidade contratual, os juros moratórios incidem a partir da citação. Precedentes.
+4. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias para alterar a base de cálculo da multa contratual demanda a análise do contrato, dos fatos e das provas dos autos, procedimento inviável em recurso especial devido aos óbices das Súmulas nºs 5 e 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.666.670/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 29/3/2021, DJe 7/4/2021 - sem destaque no original)
+Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições,NEGO PROVIMENTO ao agravo interno.
+É o voto.
+Por oportuno, previno as partes de que a interposição de recurso contra este acórdão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação à penalidade fixada no art. 1.026, § 2º, do NCPC.
