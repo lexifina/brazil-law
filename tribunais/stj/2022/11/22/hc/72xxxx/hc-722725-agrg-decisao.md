@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo regimental interposto em favor de JAISON DUNKER, contra decisão monocrática de fls. 256-258, que não conheceu do presentehabeas corpus.
+Nas razões recursais, oagravante sustenta que" ..  o posicionamento constitucional da ação de habeas corpus merece um outro enquadramento, eis que não é apenas um veículo processual, mas antes de tudo uma garantia constitucional da liberdade.O processo penal moderno no ocidente, seja qual for a linha adotada, vai impor uma metodologia para manejo dos recursos e ações cabíveis. E, em linhas gerais, é por isso que se fala em recurso próprio, cabimento, adequação, preclusão e etc.De outro lado, mas não necessariamente afastando a ciência processual, contemporaneamente a visão constitucional do sistema jurídico e as ações constitucionais vão provocar uma releitura do processo penal, em especial no que diz respeito as ações conhecidas por representar uma garantia constitucional, como no caso especialíssimo da ação de habeas corpus." (fl. 267).
+Argumenta, ainda, que" .. impedir que o texto constitucional seja reduzido ou limitado em seu alcance, a compreensão do sistema pede que esse veículo processual seja compreendido com os contornos de uma garantia constitucional da liberdade, e não como um mero recurso ou ação de revisão.Por isso não seria próprio dizer que o habeas corpus foi manejado como substituto de recurso próprio ou de uma ação de revisão, e assim seja tratado com tal."(fl. 267).
+Aduz, por isso,que" ..  o cabimento da presente impetração não pode ser limitada por considerações de ordem processual, eis que em última análise está em jogo a liberdade como expressão fundamental dos direitos humanos, pedra central e a razão de ser do sistema jurídico."(fls. 271).
+Requer assim,em juízo de retratação, a reconsideração da decisão para que seja apreciado o constrangimento ilegal deduzido do presentewrite, caso assim não entenda, que seja submetido o feito à apreciação da Turma competente.
+É o relatório.
+Decido.
+Presentes os pressupostos de admissibilidade, conheço do agravo regimental.
+Inicialmente,ressalto que é assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+Pretende a agravante, em síntese, que seja determinado o prosseguimento do feito para apreciação de constrangimento ilegal apontado do presentewrit.
+Inicialmente, insta consignar que o Superior Tribunal de Justiça, seguindo o entendimento firmado pela Primeira Turma do Supremo Tribunal Federal, como forma de racionalizar o emprego dohabeas corpuse prestigiar o sistema recursal, não admite a sua impetração em substituição ao recurso próprio.
+Cumpre analisar, contudo, em cada caso, a existência de ameaça ou coação à liberdade de locomoção do paciente, em razão de manifesta ilegalidade, abuso de poder ou teratologia na decisão impugnada, a ensejar a concessão da ordem de ofício.
+Na espécie, embora oimpetrante não tenha adotado a via processual adequada, para que não haja prejuízo à defesa do paciente, entendo que o prosseguimento do feito é medida que se impõe, a fim de verificar a existência de eventual constrangimento ilegal.
+Ante o exposto,em juízo de retratação,dou provimentoao agravo regimental a fim determinar o prosseguimento do presente feito.
+Solicitem-se,com urgência e via telegrama, informações atualizadas e pormenorizadas à autoridade indigitada de coatora, a serem prestadas, preferencialmente, pelaCentral de Processo Eletrônico - CPE do STJ.
+Após, abra-se vista ao Ministério Público Federal paraparecer.
+P. e I.
