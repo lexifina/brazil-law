@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por COMPAGNIE GERVAIS DANONE e DANONE LTDA., contra o acórdão que negou provimento ao agravo interno que interpusera, nos termos da seguinte ementa (e-STJ fl. 2.587):
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL.CERTIDÕES DE JULGAMENTO. ACÓRDÃOS PARADIGMAS. INTEIRO TEOR.AUSÊNCIA. REGRA TÉCNICA. VÍCIO INSANÁVEL.
+1. Na hipótese dos autos, não consta a juntada do inteiro teor dos acórdãos paradigmas (relatório, voto, ementa/acórdão e certidão de julgamento), de modo que não foi cumprida regra técnica para conhecimento do recurso, o que constitui vício substancial insanável. Precedentes: Corte Especial; Primeira, Segunda e Terceira Seções.
+2. AGRAVO INTERNO NÃO PROVIDO.
+Nas razões do presente recurso, as embargantes afirmam que o acórdão embargado foi omisso quanto aos argumentos deduzidos no agravo interno, notadamente que (i) o conteúdo da certidão de julgamento não é relevante para o conhecimento da divergência apontada, além de já constar da documentação anexada aos autos; (ii)"a própria lei processual não faz referência alguma à certidão de julgamento enquanto elemento essencial da decisão judicial" (e-STJ, fl. 2.602) e (iii) oregimento interno "ressalta que a Revista do STJ conterá os acórdãos selecionados pelo Ministro Direitor" (e-STJ, fl. 2.602), mas não exige, como parte integrante dos acórdãos, as respectivas certidões.
+Defende, assim, que a certidão de julgamento é dispensável para a comprovação da divergência, devendo ser prestigiado o atingimento da finalidade do ato em detrimento de formalismos exagerados, e que a hipótese permitiria a complementação dos documentos apresentados, a teor do parágrafo único do art. 932 do CPC/15.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, ERRO MATERIAL OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração constituem-se em recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição, omissão ou erro material -, não podendo, portanto, serem acolhidos quando a parte embargante pretende, exclusivamente, reformar o decidido.
+2. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Na hipótese dos autos, contudo, verifica-se que as questões apontadas pelas embargantes não constituem qualquer desses vícios, mas mero inconformismo com a conclusão adotada na decisão unipessoal desta Relatora e confirmada no acórdão embargado.
+Com efeito, o aresto, de forma clara e indene de dúvidas, consignou que a jurisprudência das três Seções que compõem este Tribunal Superior, assim como da Corte Especial, dão suporte ao entendimento de que a ausência de oportuna juntada do inteiro teor dos acórdãos paradigmas (relatório, voto, ementa/acórdão e certidão de julgamento) desatende a existência legal e regimental para a comprovaçãoda divergência.
+Como é possível constatar, a ideia de que a certidão de julgamento integra o conceito de "inteiro teor do acórdão paradigma" e, assim, é imprescindível para comprovação da divergência apta a ser dirimida na via dos embargos- questão agora novamente repisada pela parte embargante -foi pontualmente enfrentada no acórdão embargado, de maneira fundamentada e expressa, assim como o fato de que a sua não apresentação no momento oportuno constitui vício insanável,razão pela qual não há que se falar em qualquer vício a ser sanado ou complementação a ser feita no julgado.
+Na verdade, a pretexto de omissão, verifica-se que a parte embargante pretende se valer dos embargos de declaração para rediscutir a conclusão adotada no acórdão embargado e tentar fazer prevalecer o seu entendimento quanto a ela, pretensão essa que, todavia, não é compatível com os estreitos limites dessa espécie recursal.
+DISPOSITIVO
+Forte nessas razões, REJEITO os embargos de declaração.
