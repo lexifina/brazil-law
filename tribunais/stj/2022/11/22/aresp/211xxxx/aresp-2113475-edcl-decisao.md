@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MAURO PACHECO FOGAZZI eTANIA REGINA CAETANO FOGAZZIcontra decisão de minha lavra, de e-STJ fls. 404/409, em que conheci do agravo para não conhecer do recurso especial.
+Afirmamque a decisão embargada é omissa e obscura pois houve demonstração efetivano apelo nobre deviolação do art. 1.022 do CPC/2015 e que "os termos recursais não deixam dúvidas acerca da pertinência e conclusão lógica do pleito recursal, sendo, nesse sentir, totalmente injustificada a aplicação da Súmula 284, do STF."(e-STJ fl.413).
+Alegamque o julgado é contraditório ao afastar o art. 1022 do CPC/2015 ao mesmo tempo em que deixa de conhecer do recurso especial com base nas Súmulas 211 do STJe 284 do STF.
+Argumentam que, a partir da edição do art. 1.025 do CPC/2015, foi ampliadaanoçãode prequestionamento e pode-se dizer que"é considerada prequestionada a questão não examinada, tendo como ponto de partida os argumentos lançados nos embargos de declaração, que não foram apreciados em seu julgamento, como aconteceu no presente caso, adotando por muitos o chamado prequestionamento ficto."(e-STJ fl.414).
+Sustentam que o "art. 185 do CTN é inaplicável ao caso concreto, já que presume fraude à execução contra o contribuinte, como já exaustivamente pacificado pelo Superior Tribunal de Justiça, inexistindo essaprevisão para a responsabilização secundária (a qual possui regramento próprio dentro do Código Tributário Nacional)."(e-STJ fl.414)
+Dizem que não se aplicaà hipótesea Súmula 83 do STJ, pois, com o novo Código de Processo Civil, "houve o afastamento de presunção absoluta de fraude em caso de redirecionamento da execução fiscal, já que permite a demonstração de afastar a fraude pelo adquirente no caso de alienação pelo redirecionado."e-STJ fl.417)
+Por último, reforçam que o julgado é, igualmente, omisso com relação aos elementos postos nos autos que comprovam a aquisição de boa-fé.
+É o relatório.
+Decorridoin albiso prazo para impugnação (certidão de e-STJ fl. 426).
+Passo a decidir.
+Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+No caso dos autos, entendo que não há nenhuma omissão ou contradição a ser sanada por meio destes aclaratórios.
+Como assinalado na decisão ora embargada,o recurso especial não merece ser conhecido quanto à suposta violação do art. 1.022, II, do CPC/2015, porquanto esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado.
+No caso, a parte embargante, em sua peça recursal,limitou-se a afirmar que a Cortea quonão teria apreciado as questões ventiladas nos embargos de declaração e que houve prequestionamento, nos termos doart. 1.025 do CPC/2015. No entanto, não indicouem que aspectos residiriam as omissões e qual a relevância do alegado vício para o deslinde da controvérsia. Essacircunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+Não se constata, ainda, vícios de integração em relação ao não conhecimento do recurso especial ante a ausência de debate, naorigem, sobre a alegada violação dos arts.674, 677, 792, § 4º, do CPC/2015 e dos arts. 113, 159, 161 e 164 do Código Civil, o que atrai, de fato, o óbice da Súmula 211 do STJ. Além disso, está claramente consignado na decisão embargada quea alegação de ofensa ao art. 1.022 do CPC/2015 não foi devidamente fundamentada.
+No tocante à aplicabilidade daSúmula 83 do STJ à hipótese dos autos,registra-seque a conclusão explicitada na decisãoora atacadadecorredo entendimento cristalizado no julgamento do recurso sob a sistemática dos repetitivos - REsp 1.141.990/PR -, segundo o qual se consagrouque a presunção de fraude à execução é absoluta, não admitindo, portanto, prova em contrário ou mesmo debate acerca da boa-fé do adquirente.
+Ponderados esses elementos, verifico que a insurgência das partes embargantes não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhes foi desfavorável, sendo de caráter meramente infringente e, por isso, de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ART. 535, INCS. I E II, DO CPC. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 535, incs. I e II, do CPC, destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não ocorre na hipótese em apreço.
+2. As alegadas omissões tratam, em verdade, de fundamentos trazidos pelo recorrente, os quais foram rejeitados pelo acórdão, na medida em que se decidiu integralmente a controvérsia, de maneira sólida e fundamentada.
+3. A parte embargante objetiva apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração.
+4. Não há vício de embargabilidade quando o aresto recorrido decide integralmente a controvérsia, de maneira sólida e fundamentada.
+5. Embargos de declaração rejeitados. (EDcl no AgRg nos EAREsp n. 592.756/PR, relator Ministro OG FERNANDES, Corte Especial, DJe 18/12/2015).
+Por fim, advirto os recorrentes de que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
