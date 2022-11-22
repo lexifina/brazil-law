@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, acolher os embargos, sem efeitos infringentes, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Jorge Mussi, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de embargos de declaração opostos em face do acórdão proferido pela Quinta Turma desta Corte Superior, assim ementado:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO EM RECURSO ESPECIAL INTEMPESTIVO. ART. 798, CAPUT, E § 3º, DO CÓDIGO DE PROCESSO PENAL - CPP. PRAZOS PROCESSUAIS PENAIS CONTÍNUOS E PEREMPTÓRIOS. PRECEDENTES. INTERPOSIÇÃO DO RECURSO QUE CONSIDERA SUSPENSÃO DOS PRAZOS. NÃO COMPROVAÇÃO PELO RECORRENTE CONFORME EXIGÊNCIA DO ART. 1.003, § 6º, DO CÓDIGO DE PROCESSO CIVIL - CPC. 3) AGRAVO REGIMENTAL DESPROVIDO.
+1. "De acordo com a jurisprudência desta Corte, não se aplica o disposto no art. 220, do CPC, regulamentado pela Resolução CNJ n. 244, de 19/9/2016, nos feitos com tramitação perante a justiça criminal, ante a especialidade das disposições previstas no art. 798, caput, e § 3º, do CPP, motivo pelo qual não há falar em suspensão dos prazos entre os dias 20 de dezembro a 20 de janeiro" (AgRg no AREsp n. 2.095.916/RS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/6/2022, DJe de 20/6/2022).
+2. Segundo a petição do agravo em recurso especial, o recorrente alegou suspensão do prazo entre 20/12/2021 e 20/1/2022, incluindo a data para interposição (18/1/2022), ao considerar feriado regimental. Todavia, observou-se que o agravante, no ato de interposição do referido agravo, não comprovou a suspensão do prazo, deixando de observar o disposto no art. 1003, § 6º, do CPC. Destarte, deve ser mantido o não conhecimento do recurso por intempestividade.
+3. Agravo regimental desprovido."(fl. 2136)
+A defesa alega omissão quanto àdata de interposição do agravo em recurso especial, protocolado dentro do prazo recursal.
+Assevera que não existe qualquer vinculação deste STJ ao juízo de admissibilidade realizado pelo Tribunal de origem, sendo que"é de se reconhecer a tempestividade de agravo de recurso especial interposto em 18/01/2022 contra decisão disponibilizada em 16/12/2021, dado que, iniciada a contagem do prazo recursal no primeiro dia útil seguinte, 17/12/2021, em razão do feriado regimental entre 20/12/2021 e 06/01/2022 (art. 81, § 2º, I, do RISTJ) e das férias dos Ministros do STJ (de 07 a 31 de janeiro - art. 106, caput, do RISTJ), o vencimento do prazo se prorroga para o dia 01/02/2022, portanto, o recurso protocolado em 18/01/2022 é tempestivo" (fl. 703).
+Requer o acolhimento dos embargos para que seja sanadaaomissão e reconhecida a tempestividade do agravo.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. EMBARGOS DE DECLARAÇÃONO AGRAVO REGIMENTALNO AGRAVO EM RECURSO ESPECIAL. 1) OMISSÃO CONSTATADA.2) EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1.Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado. Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+1.1. No caso, houve omissão a respeito de tese defensiva segundo a qual a tempestividade do agravo em recurso especial deveria observar também o funcionamento do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ.
+1.2. "É irrelevante a suspensão dos prazos processuais no Superior Tribunal de Justiça para fins de comprovação da tempestividade de recurso apresentado no tribunal local, ainda que dirigido a tribunal superior."(AgRg no AREsp n. 2.016.056/SP, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 13/5/2022).
+2. Embargos de declaração acolhidos, sem efeitos infringentes.
+VOTO
+Conforme estabelece o art. 619 do Código de Processo Penal - CPP, os embargos de declaração são cabíveis nas hipóteses de correção de omissão, obscuridade, ambiguidade ou contrariedade no acórdão embargado.Ainda, admite-se para correção de erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+No caso dos autos, há omissão a ser sanada, eis que no agravo regimental foiconsignada a tese segundo a qual a tempestividade do agravo em recurso especial poderia ser aferida em razão dos prazos em curso nesta Corte.
+Pois bem, registra-se que para fins de tempestividade dos recursos interpostos na origem é irrelevante o funcionamento desta Corte (grifos nossos):
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. FERIADO DE CARNAVAL. SUSPENSÃO DO EXPEDIENTE NO TRIBUNAL DE ORIGEM. COMPROVAÇÃO. INEXISTÊNCIA. AGRAVO DESPROVIDO.
+1. Esta Corte entende que "cabe à parte comprovar a ocorrência de suspensão dos prazos processuais em decorrência de feriados, recesso forense e ponto facultativo locais, dentre outros motivos, a fim de demonstrar a tempestividade recursal" (EDcl no AgRg no AREsp 874.826/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 7/11/2017, DJe 14/11/2017).
+2. Além disso, a Corte Especial, aplacando divergência existente acerca da matéria, pacificou o tema no âmbito desta Corte Superior, decidindo que, diferentemente do CPC/73, o novo CPC exige, de forma expressa, que a comprovação da ocorrência de feriado local seja feita no ato da interposição do recurso, a teor do disposto no art. 1.003, § 6º, do CPC/2015 (AREsp 957.821/MS, Rel. para o acórdão a Ministra NANCY ANDRIGHI, j. em 21/11/2017, DJe 19/12/2017).
+3. A tempestividade do recurso especial e do agravo respectivo deve ser aferida de acordo com os prazos em curso na Corte de origem, e não neste STJ.
+4. Nos termos da jurisprudência desta Corte Superior, o expediente acostado à fl. 534 - página extraída do site do TJRS - não é documento idôneo apto a comprovar a existência de feriado local ou mesmo a suspensão dos trabalhos no Tribunal a quo. Para esse fim, necessária a apresentação da íntegra do ato normativo suspensivo ou eventual certidão cartorária.
+5. Assim, não havendo a comprovação da ocorrência da suspensão do prazo processual no ato da interposição, é considerado intempestivo o recurso.
+6. No caso, o recorrente foi intimado do acórdão recorrido na data de 11/02/2021 (e-STJ, fl. 519), mas o recurso especial veio a ser protocolado apenas em 2/3/2022 (e-STJ, fl. 522), ou seja, fora do prazo legal de 15 dias corridos, previsto pelo art. 994, VIII, c.c.
+os arts. 1.003, § 5º, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+7. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.129.210/RS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/10/2022).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. QUINTA-FEIRA ANTECEDENTE À SEXTA-FEIRA DA PAIXÃO. JUSTIÇA ESTADUAL. LEI N. 5.010/1966, ART. 62. INAPLICABILIDADE. FERIADO LOCAL. NÃO COMPROVAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. O art. 62 da Lei n. 5.010/1966, ao considerar como feriados os dias da Semana Santa, compreendidos entre a quarta-feira e o domingo de Páscoa, só se aplica à Justiça Federal e aos tribunais superiores.
+2. Caso haja legislação local ou ato normativo do tribunal estadual que preveja a ocorrência de feriado ou suspensão dos prazos processuais no período, deve a parte recorrente comprovar tal circunstância mediante a juntada de documento idôneo no ato da interposição do recurso especial.
+3. É irrelevante a suspensão dos prazos processuais no Superior Tribunal de Justiça para fins de comprovação da tempestividade de recurso apresentado no tribunal local, ainda que dirigido a tribunal superior.
+4. Agravo regimental desprovido.
+(AgRg no AREsp n. 2.016.056/SP, relator Ministro João Otávio de Noronha, Quinta Turma, DJe de 13/5/2022).
+Ante o exposto, voto no sentido de acolheros embargos declaratórios, sem efeitos infringentes.
