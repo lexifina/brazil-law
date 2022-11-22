@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Cuida-se de embargos de declaração opostos por JOÃO BOSCO KUMAIRAcontra acórdão que negou provimento ao agravo interno assim ementado (e-STJ fl. 343):
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. Agravo interno não conhecido.
+A parte embargante alega que "deve ser proclamada a nulidade do julgamento, realizado sob a forma virtual, sem levar em conta que o advogado manifestou sua oposição à referida modalidade, sendo que o eminente Ministro deferiu expressamente a "retirada do feito da pauta (virtual) em comento"" (e-STJ fl. 349) e que o acórdão ora embargado, mais uma vez, padece de "vício da negativa de prestação jurisdicional, ao não conhecer do agravo interno sob o argumento de que "o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada". Trata-se de afirmação sem a menor consistência, produzida de forma genérica" (e-STJ fl. 350), diante das alegações do réu nas razões do referido agravo interno.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver obscuridade, contradição, omissão ou erro material na decisão.
+Primeiramente, cumpre destacar que não há a nulidade a ser reconhecida.
+Perlustrando os autos, verifica-se que, em 29/06/2022,a parte ora embargante, nos termos da Lei n. 14.365/2022,manifestou sua oposição ao julgamento virtual e requereua sua inscrição para sustentação oral na sessão presencial ou telepresencial.
+No despacho de e-STJ fl. 334,deferiu-se o pleito de retirada da sessão virtual com início no dia 02/08/2022 e término em 08/08/2022,ante a inviabilidade tecnológica a permitir a prática do referido ato pelo causídico por meio eletrônico.
+Após, o agravo interno foi novamente incluído em sessão virtual de julgamento cuja pauta foi publicada no dia 29/08/2022 (e-STJ fl. 340), sobre a qual não houve manifestação do ora embargante.
+A alegação ora deduzida, a meu ver, não justifica a arguição de nulidade. No presente caso, apauta de julgamento virtualrespectiva foi publicada em 29/08/2022, momento em que esta Corte Superior já havia dado ampla divulgação acerca do recebimento das inscrições parasustentação oralnas sessões virtuais de julgamento e, ainda, dos procedimentos a serem observados pelos causídicos interessados em praticar esse ato, atendendo ao disposto na Resolução STJ/GP 19, 07 de junho de 2022, republicada em 13/06/2022, que "dispõe, em caráter transitório, sobre alteração procedimental imposta a recursos de competência do Superior Tribunal de Justiça pela Lei n. 14.365, de 2 de junho de 2022".Portanto, a pretensão (de sustentar oralmente) não mais justificaria a retirada do processo da sessão virtual, pois o sistema Justiça Web já viabilizava a prática de tal ato por parte do causídico.
+Dessarte, cabia à parte estar atenta aos prazos fixados nos normativos do STJ para a realização da sustentação oral, o que não foi observado na espécie.
+Ainda que assim não fosse,a sessão virtual de julgamento encontra-se devidamente regulamentada no Regimento Interno do Superior Tribunal de Justiça, nos artigos 184-A a 184-H, e a oposição das partes ao julgamento virtual tem expressa previsão no art. 184-D, inciso II, do Regimento Interno desta Corte Superior.
+Para que seja possível afastar o julgamento virtual é preciso que as partes apresentem, de forma fundamentada, a sua oposição (EDcl no AgInt no RE nos EDcl no AgInt nos EAREsp 1.141.057/SP, rel. Ministro JORGE MUSSI, Corte Especial, DJe de 30/4/2021), o que não ocorreu no caso, poiso ora embargante não declinou fundamentos concretos aptos a justificar o pleito.
+Quanto ao mais, a partelimita-se a repisaras razões do agravo interno e dos embargos de declaração anteriormente interpostos, cujas questões já foram expressamente decididas no acórdão ora embargado, tendo em vista que se aplicou a Súmula 182 do STJ, considerando que a parte não rebateu devidamente o fundamento de inexistênciade contradição na decisão monocrática agravada, uma vez que o precedente citado (Processo Administrativo 18.813, Resolução n. 21.108 de 28/05/2002, Relator Min. Sálvio De Figueiredo, Publicação: DJ - Diário de justiça, Volume 1, data 09/08/2002, página 203), utilizou como razão de decidir, a Consulta n. 14.490/DF, Rel. Ministro Torquato Jardim, também mencionada no decisumrecorrido, que entende que o impedimento se inicia desde a escolha do candidato em convenção.
+As omissões invocadas pela parte embargante manifestam o seuinconformismo com o decisum embargado, objetivando a modificação do aludido julgado, desiderato inadmissível em sede de embargos declaratórios. Nesse sentido, transcrevo precedente desta Corte Superior:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. INEXISTÊNCIA DOS VÍCIOS DO ART. 1.022 DO CPC/2015.REDISCUSSÃO DE QUESTÕES DECIDIDAS. IMPOSSIBILIDADE.1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão ou erro material na decisão embargada.2. No caso, não se verifica a existência de nenhum dos vícios em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.3. Não podem ser acolhidos embargos de declaração que, a pretexto de alegadas omissões no julgado combatido, traduzem, na verdade, o inconformismo da parte com a decisão tomada, buscando rediscutir o que decidido já foi.4. Embargos de declaração rejeitados.(EDcl no AgInt no AREsp 1666390/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 11/02/2021)
+Assim, inexiste omissão a sanar.
+Advirto a parte embargante de que a oposição de novos embargos de declaração, reiterando vício já rejeitado em recurso anterior enseja a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, porquanto reputados manifestamente protelatórios.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
