@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno manejado pelaUNIÃOpara desafiar decisão proferida às e-STJ fls. 458/464, em que dei provimento ao recurso especial deJUREMA GADIOLI DOS SANTOS COELHO, a fim de restabelecer a sentença, reconhecendo a decadência do direito de revisão do benefício de pensão por morte.
+A parte agravante alega que a decisão agravada está em desacordo com a jurisprudência desta Corte, pois, "no tocante à decadência, tem-se que a percepção das pensões indevidas foi feita com base em um ato irregular na sua origem. Logo, renovando-se a irregularidade mês a mês, trata-se de uma relação de trato sucessivo e por isso mesmo não pode operar a decadência na espécie" (e-STJ fl. 470) e que "não se está discutindo a nulidade do ato de concessão da pensão em si" (e-STJ fl. 470), o que se está pretendendo é o reajuste dos valores devidos, em razão de erro de cálculo da Administração.
+Impugnação às e-STJ fls. 476/490, em que a parte adversa pugna pelonão conhecimento do agravo e, subsidiariamente, pelo seu desprovimento, bem assim pela aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015, por se mostrar o recurso manifestamente protelatório.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. INOVAÇÃO RECURSAL. EXAME. INVIABILIDADE.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182 do STJ, o agravante deve infirmar, nas razões do agravo interno, os fundamentos da decisão impugnada, sob pena de não ser conhecido o seu recurso.
+2. Hipótese em que o recorrente não se desincumbiu do ônus de impugnar, de forma clara e objetiva, os motivos da decisão ora agravada.
+3. É defeso à parte inovar em sede de agravo interno, apresentando argumento não esboçado nas contrarrazões ao apelo especial, dada a preclusão consumativa.
+4. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+De início, considerando os parâmetros estabelecidos pela Corte Especial do Superior Tribunal de Justiça, no julgamento do EREsp 1.424.404/SP (rel. Ministro LUIS FELIPE SALOMÃO, julgado em 20/10/2021, DJe 17/11/2021), para a aplicação da Súmula 182 do STJ no tocante aos agravos internos manejados contra decisões proferidas em recurso especial ou em agravo em recurso especial, tem-se o seguinte:
+a) incide o verbete quando: i) o único ou todos os capítulos da decisão agravada não foi ou não foram impugnados; ii) não houver a impugnação de todos os fundamentos adotados na análise de determinado capítulo autônomo (ou seja, ausência de ataque a fundamento capaz, por si só, de manter a conclusão alcançada na decisão agravada);
+b) não se aplica o óbice sumular no caso em que houver vários capítulos autônomos, e a parte agravante não se insurgir contra algum deles, pois isso acarreta apenas a preclusão da matéria não impugnada, devendo ser analisado o que remanesceu.
+Dito isso, vê-se que, na hipótese dos autos, o agravo interno não merece ser conhecido.
+Com efeito, nodecisumora recorrido, dei provimento ao recurso especial de JUREMA GADIOLI DOS SANTOS COELHO, a fim de restabelecer a sentença, reconhecendo a decadência do direito de revisão do benefício de pensão por morte, considerando quea norma prevista no art. 54 da Lei n. 9.784/1999 sepulta, após o transcurso do quinquênio legal, o direito de a Administração rever os seus atos, ainda que estes sejam ilegais. A exceção se reserva aos casos de má-fé do administrado, que, em nenhum momento, foi comprovada (nem sequer ventilada) nos autos.
+Destaquei também que, segundo consta da sentença e do acórdãorecorrido, a recorrente percebe pensão por morte de militar equivalente à cota-parte de 2/4 da remuneração desde 2002, sem qualquer ressalva acerca da incorporação da cota-parte da pensão do filho à cota-parte da autora, tendo sido o benefício registrado no TCU em 2008, e o ato destinado a revisar essa cota-parte para 1/4 - uma vez que, em 2005, o filho da autora completou 24 anos - só foi deflagrado pela Administração em 2014, ou seja, 06 anos após o registro da aposentadoria pelo TCU e 09 anos após o filho da ora recorrente ter completado 24 anos, quando já caduco o direito de revisão.
+Por fim, mencionei julgados que davamsuporte ao decisum.
+Contudo, da leitura das razões do agravo interno, observa-se que a parte agravante deixou de atacar devidamente todos os fundamentos da decisão agravada, limitando-se a afirmar quea decisão agravada está em desacordo com a jurisprudência desta Corte, pois, "no tocante à decadência, tem-se que a percepção das pensões indevidas foi feita com base em um ato irregular na sua origem. Logo, renovando-se a irregularidade mês a mês, trata-se de uma relação de trato sucessivo e por isso mesmo não pode operar a decadência na espécie" (e-STJ fl. 470) e que "não se está discutindo a nulidade do ato de concessão da pensão em si" (e-STJ fl. 470), o que se está pretendendo é o reajuste dos valores devidos, em razão de erro de cálculo da Administração.
+Destaco, por oportuno, quecaberia à agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação desta Corte não se firmou no sentido da decisão ora agrava, ou, ainda, demonstrar a não subsunção do caso concreto à jurisprudência citada pelo decisum, o que não ocorreu na espécie.
+Desse modo, forçosa se apresenta a observância do contido no art. 1.021, § 1º, do Código de Processo Civil de 2015 e na Súmula 182 do STJ.
+Ademais, impende consignar que, quanto às teses defendidas neste recurso anteriormente especificadas não foramventiladas nas contrarrazões aoapelo nobre, sendo certo configurar indevida inovação recursal.
+Nesse sentido:
+PROCESSUAL CIVIL. ADMINISTRATIVO.AGRAVO INTERNO NO RECURSO ESPECIAL. INOVAÇÃO RECURSAL. MATÉRIA NÃO SUSCITADA POR OCASIÃO DAS CONTRARRAZÕES.FUNDAMENTAÇÃO. CLAREZA. NECESSIDADE. DIDATISMO. DISPENSA. ESFORÇO INTERPRETATIVO RAZOÁVEL DO OPERADOR DO DIREITO.
+1. Descabe falar-se em ausência de fundamentação da decisão que, ao aplicar precedentes, transcreve trechos elucidativos das normas aplicáveis. A exigência de clareza das decisões judiciais não pode se confundir com exigência de didatismo, sendo dever do operador do direito dedicar-se de forma minimamente razoável à compreensão do julgado, sob pena de inviabilizar-se qualquer prestação jurisdicional ante a alegação de incompreensão pela parte.
+2. Inviável conhecer-se de matéria suscitada no agravo interno que não foi anteriormente agitada em contrarrazões, por preclusa.
+3. Agravo interno conhecido em parte e, nessa extensão, não provido.
+(AgInt no REsp 1.454.908/SP, Rel. Min. OG FERNANDES, Segunda Turma, DJe 20/05/2021) Grifos acrescidos .
+Por fim, deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NÃO CONHEÇO do agravo interno.
+É como voto.
