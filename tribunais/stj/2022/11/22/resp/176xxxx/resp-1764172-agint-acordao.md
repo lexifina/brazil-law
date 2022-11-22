@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA: Trata-se de agravo interno manejado pela Fazenda Nacional desafiando decisão que não conheceu do recurso especial, sob o fundamento de que não impugnado fundamento basilar que ampara o acórdão recorrido, a saber, o de que pagamento, assim como a compensação, está sujeito a ulterior homologação e condição resolutória, razão pela qual tal fato não se prestaria a descaracterizar a compensação como prova de extinção do IRRF, esbarrando, assim, a insurgência recursal no obstáculo da Súmula 283/STF.
+A agravante, em suas razões, sustenta que, "ao contrário do que consta da decisão ora agravada, a Fazenda Nacional apresentou razões suficientes para impugnar os fundamentos do acórdão recorrido, não havendo razão para a incidência da Súmula 283 do STF" (fl. 581).
+Impugnação às fls. 586/596.
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSO CIVIL. IRRF. QUITAÇÃO POR MEIO DE COMPENSAÇÃO. ACÓRDÃO RECORRIDO. FUNDAMENTOS NÃO ATACADOS. SÚMULA 283/STF.
+1. O recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido ao concluir que, tanto o pagamento quanto a compensação de tributos estão sujeitos acondição resolutória e ulterior homologação, sendo que eventual ausência de operacionalidade administrativa da compensação não serve de escusa para o Fisco impedir a sua consecução, esbarrando, assim, na Súmula 283/STF.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+Trata-se de recurso especial manejado pela Fazenda Nacional com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 382):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO LEGAL. IMPOSTO DE RENDA RETIDO NA FONTE. REMESSA DE RENDIMENTOS PARA O EXTERIOR. LEGALIDADE. COMPENSAÇÃO. CABIMENTO. AGRAVO LEGAL DESPROVIDO.
+1 - O reconhecimento da quitação e a extinção definitiva do crédito ficam sujeitas à homologação ou a lançamento suplementar pela administração tributária no prazo do art. 150, § 4º do CTN
+2 - O regime de compensação implica em imediata quitação da dívida, ainda que sob condição resolutória de ulterior homologação, tendo a administração o prazo de cinco anos para tanto, após o que, sem manifestação, se torna definitiva, conforme o art. 150, § 1º, do CTN.
+3 - Tanto o pagamento quanto a compensação de tributos estão sujeitos a condição resolutória e ulterior homologação. Eventual ausência de operacionalidade administrativa da compensação não serve de escusa para o Fisco impedir a sua consecução.
+4 - Sob outro aspecto, o juiz não está adstrito a examinar todas as normas legais trazidas pelas partes, bastando que, in casu, decline os fundamentos suficientes para lastrear sua decisão.
+5 - Agravo legal não provido.
+Opostos embargos declaratórios pela outra parte recorrente, foram acolhidos para sanar omissão, sem efeitos infringentes (fls. 423/434).
+A parte recorrente aponta violação aos arts. 717 e 880 do Decreto nº 3.000/99; 156, I, do CTN; e 74, § 2º, da Lei nº 9.430/96. Sustenta que "a pretensão veiculada no presente mandamus é assegurar que a Declaração de Compensação- DCOMP seja aceita pelas instituições financeiras como prova de extinção do IRRF, nas operações de fechamento de câmbio para transferência de rendimentos para o exterior. Ocorre que, como visto, a expressão pagamento, inserta na legislação retro transcrita, não pode ser tomada no sentido de compensação. Isso porque, em que pese previsão legal do instituto da compensação, trazendo-a como modalidade de extinção creditícia (art. 74, § 2º, da Lei nº 9.430/96), cabe lembrar que por guardar em seu bojo condição resolutiva, qual seja, a homologação a posteriori, sua utilização é inadmissível em se tratando de pagamento de IRRF para liberação de valores a serem remetidos ao exterior" (fl. 393).
+Contrarrazões às fls. 450/462.
+Parecer Ministerial às fls. 553/561, pelo desprovimento do recurso especial.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na hipótese dos autos, a Corte de origem entendeu que a declaração de compensação seria prova válida da extinção do IRRF, com base nos seguintes fundamentos (fls. 378/380):
+O reconhecimento da quitação e a extinção definitiva do crédito ficam sujeitas à homologação ou a lançamento suplementar pela administração tributária no prazo do art. 150 , § 4º do CTN. O regime de compensação implica em imediata quitação da dívida, ainda que sob condição resolutória de ulterior homologação, tendo a administração o prazo de cinco anos para tanto, após o que, sem manifestação, se torna definitiva, conforme o art. 150 , § 1º , do CTN.
+ ..
+Tanto o pagamento quanto a compensação de tributos estão sujeitos a condição resolutória e ulterior homologação. Eventual ausência de operacionalidade administrativa da compensação não serve de escusa para o Fisco impedir a sua consecução.
+No presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, a saber, o de que pagamento, assim como a compensação, está sujeito a ulterior homologação e condição resolutória, razão pela qual tal fato não se prestaria a descaracterizar a compensação como prova de extinção do IRRF.
+Esbarra-se, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
+Conforme antes consignado, a Corte regional solucionou a controvérsia com base na constatação de que, "Tanto o pagamento quanto a compensação de tributos estão sujeitos a condição resolutória e ulterior homologação. Eventual ausência de operacionalidade administrativa da compensação não serve de escusa para o Fisco impedir a sua consecução" (fl. 382 - g.n.).
+Nas razões de especial apelo, o ente fazendário sustentou que "a pretensão veiculada no presente mandamus é assegurar que a Declaração de Compensação- DCOMP seja aceita pelas instituições financeiras como prova de extinção do IRRF, nas operações de fechamento de câmbio para transferência de rendimentos para o exterior. Ocorre que, como visto, a expressão pagamento, inserta na legislação retro transcrita, não pode ser tomada no sentido de compensação. Isso porque, em que pese previsão legal do instituto da compensação, trazendo-a como modalidade de extinção creditícia (art. 74, § 2º, da Lei nº 9.430/96), cabe lembrar que por guardar em seu bojo condição resolutiva, qual seja, a homologação a posteriori, sua utilização é inadmissível em se tratando de pagamento de IRRF para liberação de valores a serem remetidos ao exterior" (fl. 393) - trecho esse reprisado no agravo interno vertente (fl. 580).
+Ressai, pois, evidente que a argumentação recursal centrada em acompensação sujeitar-se a condição resolutória não se mostra apta, por si só, a combater o pilar fundamental do aresto regional. Isso porque, como mesmo destacado alhures, esse ponto (sujeição à condição resolutória) já havia sido considerado pelo Tribunal de origem ao entender pela possibilidade de reconhecimento da quitação do tributo seja por meio do pagamento, seja por meio da compensação tributária.
+Escorreita, assim, a decisão alvejada ao fazer incidir o óbice sumular 283/STF.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
