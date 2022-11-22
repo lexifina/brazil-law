@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 567):
+PROCESSO CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. AFERIÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTAÇÃO GENÉRICA. SUMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO
+O agravante alega que devem ser afastados os óbices aplicados ao não conhecimento do recurso especial.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. AUSÊNCIA DE ARGUMENTAÇÃO. SÚMULA 284/STF. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. AFERIÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. FUNDAMENTAÇÃO GENÉRICA. SUMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2.Não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+3. No caso dos autos, no entanto, impossível o conhecimento do recurso especial, uma vez que a aferição de quem deu causa à extinção da demanda, com a finalidade de fixar a responsabilidade pela sucumbência, é providência vedada ao STJ, por força da sua Súmula 7.
+4. O recurso especial apresentou argumentos genéricos, vagos a respeito da suposta ofensa aos artigos 18 e 19 da Lei 10.522/2002, e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+5. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo internonão se vislumbram razões para reformar a decisão agravada.
+Isso porque não se conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Ademais, a decisão agravada fez menção à jurisprudência do STJ no sentido de que"o ônus da sucumbência deve ser suportado por quem deu causa ao ajuizamento da ação; e, ao contrário da prescrição do crédito tributário ocorrida antes da instauração da relação processual, o reconhecimento da ocorrência de prescrição intercorrente não enseja, em regra, a condenação da Fazenda Pública nos ônus de sucumbência, tendo em vista que, nessa hipótese, não foi a Fazenda exequente a responsável pelo ajuizamento da ação nem pela não localização do devedor ou de seus bens" (AgInt no REsp 1.845.936/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe de 2.6.2021).
+No caso dos autos, no entanto,impossível o conhecimento do recurso especial, uma vez que a aferição de quem deu causa à extinção da demanda, com a finalidade de fixar a responsabilidade pela sucumbência, é providência vedada ao STJ, por força da sua Súmula 7.
+Por fim, o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aos artigos 18 e 19 da Lei 10.522/2002, e que se encontram dissociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso. Aplica-se à hipótese a Súmula 284/STF.
+Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
