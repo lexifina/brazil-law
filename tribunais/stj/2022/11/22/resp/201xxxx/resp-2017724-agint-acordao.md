@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de Agravo Interno interposto peloMUNICÍPIO DE SÃOPAULO, contraa decisão monocrática de minha lavra que não conheceu aorecurso, fundamentada: i. naaplicação da Súmula n. 7 do Superior Tribunal de Justiça.
+Sustenta oAgravante, em síntese, o seguinte (fls. 181/185e):
+"Dessa maneira, a utilização de base de cálculo diversa do que prevista na legislação federal dispensa a análise de direito probatório, tal como disposto na r. decisão monocrática. O que se busca no recurso especial é a subsunção de norma vigente e eficaz ao caso concreto, dispensando qualquer valoração fática.
+A discussão, data vênia, cinge-se na aplicação da norma federal ou seu afastamento, sem declaração de inconstitucionalidade, tal como faz o acórdão recorrido.
+ ..
+Dessa maneira, resta claro que a matéria recursal demanda unicamente a aplicação do art.166, do CTN, dispensando qualquer análise probatória. Em verdade, o que se pede, é que seja provido o recurso especial, para que as instâncias inferiores então apliquem o citado 166, sob pena de se dar um cheque em branco ao Impetrante e permitir a repetição de indébito que sequer se demonstrou o efetivo recolhimento pelo Autor."
+Por fim, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada e determinado o processamento do Recurso Especial ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 190/205e.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CERCEAMENTO DE DEFESA NÁO CONFIGURADO. ISS. REQUISTOS DO ART. 166 DO CTN. TRIBUNAL DE ORIGEM CONCLUIU QUE O CONTRIBUINTE SUPORTOU O ÔNUS DO TRIBUTO. ACÓRDÃO EMBASADO EM PREMISSAS FÁTICAS. REVISÃO.SÚMULA N. 07/STJ. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II-Rever o entendimento do Tribunal de origem acerca do cerceamento de defesa, bem como dos requisitos previstos no art. 166 do CTN, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno improvido.
+VOTO
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão aoAgravante.
+O tribunal de origem, após minucioso exame dos elementos fáticos contidos nos autos, consignou que i) os quesitos suplementares foram formulados pela Municipalidade após a entrega do laudo pericial, o que afasta a alegação de cerceamento de defesa; e ii) mesmo nas hipóteses em que a lei impõe ao tomador a obrigação de retenção, o valor do imposto é descontado do preço do serviço, arcando o prestador com o ônus tributário, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ, nos seguintes termos (fls. 83/84e):
+"De se constatar, assim, que os quesitos suplementares formulados pela Municipalidade, ora apelante, foram formulados após a entrega do laudo pericial, o que afasta a alegação de cerceamento de defesa.
+Além disso, as informações prestadas no laudo pericial são suficientes para a composição do litígio e desate da lide, nada havendo a ser reparado, esclarecido ou acrescentado.
+ ..
+Isso porque, em relação a tal dispositivo, impende ressaltar que as exigências nele contidas, diante de pleito à restituição de ISS retido indevidamente, não são cabíveis, porquanto não ocorre, em verdade, a transferência do mencionado encargo financeiro.
+O contribuinte do ISS, como dito, é o prestador do serviço. Mesmo nas hipóteses em que a lei impõe ao tomador a obrigação de retenção, o valor do imposto é descontado do preço do serviço, arcando o prestador com o ônus tributário."
+In casu, rever tal entendimento, com o objetivo de acolher a pretensão recursal de que i) os quesitos suplementares deveriam ter sido deferidos pelojuízo e esclarecidos pelo perito judicial;e ii) "a parte autora não logrou êxito em comprovar que assumiu efetivamente o ônus financeiro do tributo, quando era ônus seu provar os fatos constitutivos do seu direito", demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7 desta Corte, assim enunciada: "a pretensão de simples reexame de prova não enseja recurso especial".
+Nesse sentido:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. INDEFERIMENTO À FORMULAÇÃO DE QUESITOS SUPLEMENTARES APÓS A APRESENTAÇÃO DO LAUDO PERICIAL. INADMISSÍVEL FORMULAÇÃO DE QUESITOS NÃO ELUCIDATIVOS, APÓS APRESENTAÇÃO DO LAUDO. REEXAME DE MATÉRIA FÁTICA. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7 do Superior Tribunal de Justiça).
+2. Inviável o recurso especial que não impugna os fundamentos do acórdão recorrido (Súmula 283 do STF).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.057.631/RJ, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 15/3/2018, DJe de 20/3/2018.)
+PROCESSUAL CIVIL. TRIBUTÁRIO. ISS. PRODUÇÃO E DISTRIBUIÇÃO CINEMATOGRÁFICA. PROCEDÊNCICA DO PEDIDO. ACÓRDÃO ALINHADO COM A JUSRISPRUDÊNCIA DESTA CORTE SUPERIOR. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de ação ajuizada por Galeria Distribuidora Audiovisual Ltda. contra o Município de São Paulo objetivando afastar a incidência do ISS sobre os serviços de produção e distribuição cinematográfica. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi reformada para julgar procedente o pedido. Nesta Corte, conheceu-se do agravo para negar provimento ao recurso especial.
+II - A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, se a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "a pretensão de simples reexame de provas não enseja recurso especial".
+III - A decisão proferida pelo Tribunal de origem, sobre a impossibilidade do emprego de interpretação extensiva na lista taxativa de serviços de incidência do ISS já referida, vai ao encontro da jurisprudência do STJ. Confira-se: (AgInt no REsp 1785434/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 13/10/2020, DJe 23/10/2020, AgInt no REsp 1627818/DF, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 28/3/2017, DJe 6/4/2017 e REsp 1308628/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 26/6/2012, DJe 2/8/2012).
+IV - É competência das instâncias ordinárias aferir a compatibilidade dos serviços previstos na lista, e tal desiderato exigiria o reexame de elementos fáticoprobatórios do processo, providência esta que se encontra vedada no âmbito estreito do recurso especial nos termos da Súmula n. 7/STJ. Assim, a jurisprudência: (AgInt no AREsp 1529603/CE, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 12/4/2021, DJe 5/5/2021 e AgInt no AREsp 1611422/PR, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 15/9/2020, DJe 5/10/2020).
+V - A irresignação da recorrente, de que não houve o cumprimento dos requisitos legais para pleitear a restituição tributária, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu: "(..) a autora demonstrou ter assumido o encargo pelo recolhimento do ISSQN, conforme se vê, à guisa de exemplo, pelos anexos aos contratos de fls. 231/263, além, evidentemente das notas fiscais de serviços a fls. 54/230 para outros contratantes, tendo o ISSQN, nesse caso, assumido feição de tributo direto, o que, em tese, dispensaria a prova reclamada no artigo 166 do Código Tributário Nacional."
+VI - Para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fáticoprobatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+VII - Agravo interno improvido.
+(AgInt no AREsp n. 1.776.832/SP, relator Ministro Francisco Falcão, Segunda Turma, julgado em 14/2/2022, DJe de 16/2/2022.)
+Assim, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1.311.383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016).
+Apesar do improvimento do recurso, não restou configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao Agravo Interno.
