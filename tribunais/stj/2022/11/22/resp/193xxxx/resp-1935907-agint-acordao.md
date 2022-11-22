@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  MÁRCIA  HELENA  DE  ABREU  OLIVEIRA  e  OUTROS  contra  a  decisão  (fls.  968-970,  e-STJ)  que  negou  provimento  ao  recurso  especial  em  virtude  da  aplicação  da  Súmula  nº  7/STJ.
+Em  suas  razões,  os  agravantes  afirmam  ser  desnecessário  o  reexame  de  provas  dos  autos,  pois  o  que  o  apelo nobre  apelo  é
+"(..)  a  ocorrência  de  ofensa  ao  art.  300  do  CPC/15  e  ao  art.  27,  2º  A,  da  Lei  nº  9.514/97,  por  ter  o  órgão  julgador  deixado  de  suspender  os  efeitos  da  consolidação  da  propriedade,  mesmo  sendo  evidente  a  nulidade  do  procedimento  de  consolidação  da  propriedade,  por  conta  da  ausência  de  intimação  dos  devedores  acerca  os  leilões  extrajudiciais"  (fl.  976  e-STJ).
+Ao  final,  requer  a  reconsideração  da  decisão  atacada  ou  a  submissão  do  feito  ao  colegiado.
+A  parte  contrária  apresentou  impugnação  (fls.  987-999  e-STJ).
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  ALIENAÇÃO  FIDUCIÁRIA.  TUTELA  DE  URGÊNCIA.  NOTIFICAÇÃO  DOS  DEVEDORES.  MEDIDA  INÓCUA.  LEILÕES  FRUSTRADOS.  VÍCIOS  DE  CONSENTIMENTO. AFASTAMENTO.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Na  hipótese,  rever a conclusão do  acórdão  recorrido  no  tocante  aos  requisitos  da  tutela  antecipada  demandaria  reexaminar  o  conjunto  fático-probatório  dos  autos,  o  que  encontra  óbice  na  Súmula  nº  7  do  Superior  Tribunal  de  Justiça.
+3.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Ao  solucionar  a  controvérsia,  a  Corte  de  origem  assim dispôs:
+"(..)  o  vício  de  consentimento  deve  ser  cabalmente  demonstrado  pela  parte  que  o  alega,  que  deve  comprovar  que,  embora  tenha  agido  de  determinada  forma,  assim  o  fez  sob  mácula  em  sua  vontade.  No  caso  em  tela,  para  que  se  discuta  acerca  da  existência  de  suposto  vício  de  vontade,  faz-se  imperiosa  maior  dilação  probatória.
+No  que  tange  à  ausência  de  notificação  acerca  da  realização  dos  leilões,  entendo  que  o  referido  requisito  não  obsta  a  reintegração  posse  pelo  credor  fiduciário,  cuja  pretensão  depende  apenas  da  comprovação  da  consolidação  da  propriedade,  nos  termos  do  mencionado  art.  30  da  Lei  9.514/97  -  o  que  foi  demonstrado  mediante  as  matrículas  dos  imóveis  acostadas  à  ordem  12  e  documentos  de  ordem  09.
+Frise-se  que  a  consolidação  da  propriedade  ocorre  após  o  decurso  do  prazo  de  purgação  da  mora,  sendo  que,  no  caso,  os  Agravantes  foram  notificados  para  purgar  a  mora,  conforme  documento  de  ordem  09,  mas,  em  nenhum  momento,  apresentaram  proposta  de  quitação  do  débito.  Não  se  pode  ignorar,  ainda,  que  os  próprios  Recorrentes  afirmam  em  sua  peça  recursal  que  "foram  os  agravantes  constituídos  em  mora,  na  forma  do  art.  26,  §1º,  da  Lei  nº  9.514/97".
+(..)
+Não  bastasse  isso,  na  hipótese  vertente,  os  leilões  públicos,  realizados  após  a  consolidação  da  propriedade,  restaram  frustrados  pela  ausência  de  lances,  conforme  ata  de  ordem  33,  razão  pela  qual,  a  meu  ver,  seria  inócua  a  discussão  acerca  de  eventual  violação  das  formalidades  legais"  (fls.  794-795  e-STJ  -  grifou-se).
+Em  suas  razões,  os  agravantes  alegam  que
+"(..)  a  ocorrência  de  ofensa  ao  art.  300  do  CPC/15  e  ao  art.  27,  2º  A,  da  Lei  nº  9.514/97,  por  ter  o  órgão  julgador  deixado  de  suspender  os  efeitos  da  consolidação  da  propriedade,  mesmo  sendo  evidente  a  nulidade  do  procedimento  de  consolidação  da  propriedade,  por  conta  da  ausência  de  intimação  dos  devedores  acerca  os  leilões  extrajudiciais.
+(..)
+Contra  tais  fundamentos,  foi  sustentado  no  Recurso  Especial  que  o  referido  entendimento  estaria  equivocado,  vez  que  embasado  em  interpretação  rasa  e  literal  do  art.  30  da  Lei  nº  9.514/97.  Isso  porque,  embora  tal  dispositivo  preveja  que  a  liminar  de  reintegração  de  posse  deve  ser  concedida  quando  houver  prova  da  consolidação  da  propriedade,  é  óbvio  que  não  basta  que  a  consolidação  da  propriedade  tenha  ocorrido,  devendo  ela  também  ser  válida.
+Ademais,  foi  dito  que,  ao  contrário  do  que  constou  no  acórdão  combatido,  o  fato  de  os  leilões  realizados  terem  sido  infrutíferos  não  afasta  ou  diminui  o  vício  apontado.  É  que,  não  tendo  sido  a  intimação  efetuada,  nos  termos  dos  §§4º  e  5º  do  art.  27  da  Lei  nº  9.514/97,  ficou  a  requerida  dispensada  da  obrigação  de  entregar  ao  devedor  a  diferença  entre  o  valor  de  venda  do  imóvel  e  o  da  dívida  e  de  indenizá-lo  por  eventuais  benfeitorias"  (fls.  976  e  979  e-STJ  -  grifou-se).
+Observa-se, portanto, que  os  próprios  agravantes  afirmaram  que foram  constituídos  em  mora,  na  forma  do  art.  26,  §  1º,  da  Lei  nº  9.514/1997,  fato  confirmado  pela  Corte  de  origem  ao  apontar  o  referido  documento  de  ordem  nº  9.
+Com  efeito,  o  ordenamento  jurídico,  nesse  contexto,  repele  a  prática  de  condutas  contraditórias,  impregnadas  ou  não  de  malícia  ou  torpeza,  que  importem  em  quebra  da  confiança  e/ou  da  legítima  expectativa.
+Assim,  se  foram  constituídos  em  mora,  e  em  nenhum  momento  apresentaram  proposta  de  quitação  do  débito,  não  podem,  apenas  por  ocasião  dos  leilões,  apontar  nulidade  e  alegar  terem  tido  o  direito  de  preferência  desrespeitado,  visto  que  a  ninguém  é  dado  beneficiar-se  de  sua  própria  torpeza.
+Por  consequência  lógica,  não  é possível,  por  conveniência  e  no  tempo  em  que  lhes  melhor  parecer  oportuno,  afirmar que  a  ausência  de  intimação  dos  leilões  lhes  acarretaria  prejuízo.
+Ressalta-se,  por  fim,  que  que  a  Corte  local  decidiu  em  consonância  com  a  jurisprudência  do  STJ,  no  sentido  de  que,  tendo  os  leilões  restado  infrutíferos,  os  recorrentes  não  sofreram  nenhum  prejuízo,  de  sorte  que  a  nulidade  somente  pode  ser  declarada  quando  ou  se  demonstrado  efetivo  prejuízo  à  parte,  haja  vista  o  princípio  da  instrumentalidade  das  formas.
+Confira-se:
+"AGRAVO  INTERNO  NOS  EMBARGOS  DE  DECLARAÇÃO  EM  RECURSO  ESPECIAL.  DIREITO  PROCESSUAL  CIVIL.  AÇÃO  ANULATÓRIA  DE  LEILÃO  VERIFICADO  EM  EXECUÇÃO  EXTRAJUDICIAL  DE  IMÓVEL  DADO  EM  GARANTIA  FIDUCIÁRIA.  IRRESIGNAÇÃO  SUBMETIDA  AO  NCPC.  AUSÊNCIA  DE  NOTIFICAÇÃO  PRÉVIA  E  FORMAL  ACERCA  DO  LEILÃO.  CONHECIMENTO  ACIDENTAL.  NULIDADE  NÃO  DECLARADA.  PRINCÍPIO  DA  INSTRUMENTALIDADE  DAS  FORMAS.  DECISÃO  MANTIDA.
+(..)
+2.  Discute-se  nos  autos  a  nulidade  de  leilão  extrajudicial  levado  a  efeito  com  fundamento  na  Lei  nº  9.514/97  por  falta  de  notificação  prévia  dos  devedores  que,  todavia,  tiveram  conhecimento  acidental  do  certame  com  antecedência  de  cinco  dias.
+3.  De  acordo  com  o  princípio  processual  da  instrumentalidade  das  formas,  sintetizado  pelo  brocardo  pas  de  nullité  sans  grief,  positivado  nos  arts.  249  e  250  do  CPC/73,  e  acolhido  em  diversos  precedentes  desta  Corte,  não  é  possível  declarar  a  nulidade  quando  não  verificado  nenhum  prejuízo  efetivo.
+4.  Agravo  interno  não  provido,  com  aplicação  de  multa"  (AgInt  nos  EDcl  no  REsp  1.698.143/DF,  Rel.  Ministro  MOURA  RIBEIRO,  Terceira  Turma,  julgado  em  7/8/2018,  DJe  de  14/8/2018  -  grifou-se).
+Desse  modo,  inafastável  a  aplicação  da  Súmula  nº  7/STJ,  visto  que  a  modificação  das  conclusões  adotadas  pelo  acórdão  impugnado  implicaria  o  reexame  fático-probatório  dos  autos,  procedimento  inadmissível  em  recurso  especial.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
