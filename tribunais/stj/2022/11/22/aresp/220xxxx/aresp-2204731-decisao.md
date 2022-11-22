@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. ALEGAÇÃO DE NULIDADE DA SENTENÇA POR AUSÊNCIA DE FUNDAMENTAÇÃO. NÃO ACOLHIDA. MAGISTRADO QUE EXPÔS, SOB SUA CONVICÇÃO, OS MOTIVOS QUE LEVARAM A CONCLUSÃO DA DEMANDA. SENTENÇA CONCISA QUE NÃO SE CONFUNDE COM AUSÊNCIA DE FUNDAMENTAÇÃO. RECURSO CONHECIDO E NÃO PROVIDO.
+Nas razões do especial, apontam os agravantes violação do artigo 489 do Código de Processo Civil.
+Aduzem ocorrência de nulidade na prestação jurisdicional de 1º grau, haja vista ausência de análise das teses expostas pelos litigantes.
+Assim delimitada a controvérsia, passo a decidir.
+A Corte local, concluiu que se encontra na sentença fundamentos relativos aos pleitos autorais da devolução imediata das cotas adimplidas pelo consorciado excluído e da reparação econômica extrapatrimonial por ato ilícito, consignando que (fls. 227-228, e-STJ):
+10. Com efeito, embora concisa a sentença terminativa proferida pelo julgador originário, a mesma não padece de ausência de fundamentação. E que, em atenção ao entendimento perfilhado pelo Supremo Tribunal Federal, a adoção de fundamentação suscinta não se confunde com ausência de fundamentação. (..)
+12. Nesse trilhar, tendo o julgador apontado a motivação hábil a fundamentar seu entendimento, ainda que contrária à pretensão da parte autora, solucionando, sob sua convicção, a controvérsia em análise, concluo por manter o ato jurisdicional recorrido, tendo em vista que este não se mostra passível de nulidade.
+13. Em assim sendo, considerando que o pleito formulado nesta instância cinge-se tão somente acerca da nulidade da sentença apelada, o presente caso não comporta maiores digressões.
+Considerando a moldura fática exposta pelo Tribunal de origem, verifico que o acórdão recorrido se encontra em harmonia com a orientação desta Corte Superior, no sentido de que não há se falar em violação ao art. 489, § 1º, do CPC/2015, até porque, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 21/6/2016).
+Ademais, arevisão do entendimento desses pontos, nos moldes das questões factuais, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado, em sede de recurso especial, ante oóbicedaSúmula7 do Superior Tribunal de Justiça.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensa a exigibilidade em caso de assistência judiciária gratuita.
+Intimem-se.
