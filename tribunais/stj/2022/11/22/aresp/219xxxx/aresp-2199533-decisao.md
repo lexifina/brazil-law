@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por RENATO BRANCO CURTI, com base no art. 105, III, a, da Constituição Federal, desafiando acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado (e-STJ, fl. 125):
+COBRANÇA. MÚTUO. Contexto probatório a demonstrara ocorrência do empréstimo objeto da lide. Prova documental e demais elementos dos autos que demonstrama ocorrência do mútuo. Ausência de assinatura do réu no contrato copiado com a pretensão inicial que não tem o condão de abalar o conjunto de provas formados durante a instrução processual. Contrato que pode ser ajustado na forma verbal. Documento impugnado que apenas serviucomo meio de prova à existência da dívida. Impugnação ao valor cobrado que não prospera, pois retrata apenas a atualização do valor incontroverso existente. Planilha de cálculo juntada com a inicial não impugnada de forma cabalpelo réu. Réu que não cumpriu o ônus imposto pelo artigo373, II, do Código de Processo Civil. Ausência de notificação para constituição em mora. Análise prejudicada. Inovação recursal inadmissível. Cumprimento dos requisitosdo artigo 784, III, do Código de Processo Civil. Desnecessidade, pois não se cuida da ação de execução. Sentença mantida. Apelação não provida.
+Os embargos de declaração foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl.140):
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. NÃO OCORRÊNCIA. Inexistência de vícios a serem sanados. Matéria impugnada que foi objeto de análise no acórdãorecorrido. Embargante que pretende a rediscussão da matéria. Recurso oposto com nítido caráter infringente. Inadmissibilidade. Prequestionamento desnecessário (artigo1.025, do Código de Processo Civil). Embargos rejeitados.
+Em suas razões de recurso especial (e-STJ, fls.), oagravante alegou violação dos arts.1022, II, 489, § 1º, IV, e 1.013, todos do CPC/2015
+Sustentou, em síntese, que o acórdão recorrido foi omisso, pois não se manifestou a respeito das questões suscitadas nos aclaratórios, imprescindíveis para a solução da controvérsia.
+Não foram apresentadas contrarrazões.
+O processamento do apelo especial não foi admitido pela Corte local, levando oinsurgente a interpor o presente agravo.
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal.
+Brevemente relatado, decido.
+No tocante à alegação de omissões no julgado, destaca-se que a parte ora recorrente limitou-se a defender genericamente a ocorrência de violação dos artigos 1.022 e 489 do CPC/2015, sem especificar concretamente sobre quais questões teria a Corte de origem incorrido nos vícios de omissão, contradição ou obscuridade, de maneira que se revela inadmissível o recurso especial no ponto, ante a deficiência em sua fundamentação, conforme jurisprudência consolidada na Súmula 284 do Supremo Tribunal Federal, aplicada analogicamente pelo STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. CORRETOR DE IMÓVEIS. ILEGITIMIDADE PASSIVA. COMPROVAÇÃO.
+REEXAME DE PROVAS. AGRAVO INTERNO PROVIDO PARA, EM NOVO JULGAMENTO, CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos em relação aos quais o acórdão se fez omisso, contraditório ou obscuro. Incidência da Súmula 284 do STF.
+2. No caso, o eg. Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, reconheceu a ilegitimidade passiva do recorrido em razão da falta de comprovação da alegada desídia na prestação de serviço de corretagem. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+3. Agravo interno provido para, em novo julgamento, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1.782.468/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/08/2021, DJe 31/08/2021)
+Nesse mesmo sentido, não fora demonstrado a vulneração do art. 1.013 do CPC/2015, alegado como violado nas razões recursais, de forma a padecer de deficiência em sua fundamentação, inviabilizando seu conhecimento, portanto.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada em 2% sobre o valor atualizado da condenação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 1.022 E 489 DO CPC/2015. OMISSÃO. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. DEFICIÊNCIA NA FUNDAMENTAÇÃO. AUSÊNCIA DE DEMONSTRAÇÃO DE VULNERAÇÃO DO DISPOSITIVO LEGAL SUSCITADO COMO VIOLADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
