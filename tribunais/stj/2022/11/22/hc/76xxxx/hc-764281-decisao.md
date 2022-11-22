@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado contra acórdão assim ementado:
+PENAL. PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. NÃO CONSTATADA DESÍDIA POR PARTE DA AUTORIDADE IMPETRADA. MARCHA PROCESSUAL DENTRO DA RAZOABILIDADE. INSTRUÇÃO ENCERRADA. ALEGAÇÃO DE AUSÊNCIA DE CONTEMPORANEIDADE DA PRISÃO PREVENTIVA. NÃO ACOLHIMENTO. ORDEM CONHECIDA E DENEGADA.UNANIMIDADE.
+1. Quanto ao alegado excesso de prazo, verifica-se no SAJ que, no dia 10.06.2022, o Juízo reanalisou a prisão preventiva do paciente e entendeu pela necessidade da manutenção da segregação.
+2. O julgador de piso não vem agindo com desídia; afinal, dentro das suas peculiaridades, o processo segue ritmo adequado. O maior prolongamento do feito se mostrou justificado, atendendo aos princípios da razoabilidade e da proporcionalidade. Some-se que a instrução criminal já foi encerrada, estando o feito originário aguardando julgamento pelo Tribunal do Júri, que precisou ser adiado, conforme devidamente justificado pelo magistrado a quo, de modo que não restou configurado constrangimento ilegal por excesso de prazo, in casu.
+3. habeas corpus denegado.
+Narram os autos que em3/12/2020 o paciente foipreso preventivamentepela suposta prática do crime do art. 121, § 2º, II e IV, do Código Penal.
+Sustenta a defesa excesso de prazo na formação da culpa, alegando que o paciente está presohá mais de 1 ano e 8 meses e ainda não foi submetido a julgamento popular.
+Requer, liminarmente e no mérito, a concessão da ordem, expedindo-se o alvará de soltura.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público Federal manifestou-se pelo não conhecimento do writ.
+Na origem, na ação penal n.0000632-05.2014.8.02.0034/AL, foi designada sessão de julgamento para o dia 2/12/2022, conforme informações eletrônicas disponíveisem 18/11/2022.
+Em relação aosprazos consignados na lei processual, deve atentar o julgador às peculiaridades de cada ação criminal. De efeito, uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazosó pode ser reconhecida quando a demora for injustificada, impondo-se a adoção de critérios de razoabilidade no exame da ocorrência de indevida coação.
+Consta dosautos que o paciente preso em flagrante em 30/9/2014, a denúncia foi recebida em 19/6/2015 e foi concedida a sua liberdade provisória em 14/11/2019.O acusado foi pronunciado em 21/9/2019, momento no qual foi decretada a sua prisão preventiva, a qual foi cumprida em 3/12/2020 (fl. 150), tendo sido interposto recurso em sentido estrito pela defesa, o qual não foi provido por acórdão que transitou em julgado em 18/8/2021.
+Em13/01/2022 foi determinada a inclusão do feito na pauta do Júri, tendo sido designadainicialmente a sessãode julgamento para o dia 30/5/2022, a qual, em razão dereadequação depauta, foi remarcadapara o dia20/6/2022, e,diante das informações de que orepresentante do Ministério Público estava com Covid-19, foi redesignadapara 14/11/2022 e, em virtude de nova readequação de pauta, para o dia 2/12/2022.
+Nesse contexto, apesar de o acusado estar preso desde 3/12/2020 e de ter havido a redesignação dasdatas de julgamento, a ação penal esteve em constante movimentação, seguindo asua marcha regular, tendo-se em vistaas peculiaridades do rito do Tribunal de Júri, no qual foi interposto recurso em sentido estrito, que já foi julgado, encontrando-se o feito atualmente aguardando a realização de sessão de julgamento marcada para data próxima, não se verificando desídia por parte do Estado.
+Não evidenciada mora estatal em ação penal em que a sucessão de atos processuais infirma a ideia de paralisação indevida da ação penal, ou de culpa do Estado persecutor, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
