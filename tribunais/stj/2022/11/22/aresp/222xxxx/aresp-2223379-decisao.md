@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por JOSE LENALDO DOS SANTOS, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE(e-STJ, fls. 469-472).
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 59 e 68 do CP. Aduz para tanto, em síntese, que seria excessiva a exasperação da pena-base em 1/4, pela valoração negativa dos antecedentes, na primeira fase da dosimetria da pena. Pede, por isso, a readequação do quantumde aumento a 1/8.
+Com contrarrazões (e-STJ, fls. 497-501), o recurso especial foi inadmitido na origem (e-STJ, fls. 504-509), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 555-559).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+No mérito, a insurgência prospera.
+A respeito da dosimetria da reprimenda, vale anotar que sua individualização é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Sobre o cálculo da pena-base em si, diante do silêncio do legislador, a jurisprudência e a doutrina passaram a reconhecer como critérios ideaispara individualização da reprimenda-base o aumento na fração de 1/8 por cada circunstância judicial negativamente valorada, a incidir sobre o intervalo de pena abstratamente estabelecido no preceito secundário do tipo penal incriminador, ou de 1/6 sobre a pena mínima. Deveras, tratando-se de patamares meramente norteadores, que buscam apenas garantir a segurança jurídica e a proporcionalidade do aumento da pena, é facultado ao juiz, no exercício de sua discricionariedade motivada, adotar quantum de incremento diverso diante das peculiaridades do caso concreto e do maior desvalor do agir do réu.
+Com efeito, "a análise das circunstâncias judiciais do art. 59 do Código Penal não atribui pesos absolutos para cada uma delas a ponto de ensejar uma operação aritmética dentro das penas máximas e mínimas cominadas ao delito. " (AgRg no REsp 143071/AM, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe 6/5/2015).
+No presente caso, com a valoração de uma única vetorial negativa (os antecedentes), o juízo singular elevou a pena em 1/2, distanciando-se em muito dos parâmetros normalmente aceitos por este STJ, sem apresentar motivação idônea para tanto. Por isso, reduzo a pena-base a2 anos e 4 meses de reclusão e 12 dias-multa, em observância ao critério de 1/6 sobre a pena mínima.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ,dou provimentoao recurso especial, para fixar a pena de JOSE LENALDO DOS SANTOS em 2 anos e 4 meses de reclusão e 12 dias-multa.
+Ficam mantidos os demais termos do acórdão recorrido.
+Publique-se. Intimem-se.
