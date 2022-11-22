@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, acolher os embargos de declaração, sem efeitos infringentes, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Laurita Vaz e os Srs. Ministros Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+Trata-se de embargos de declaração opostos pelo Ministério Público Federal contra decisão que denegou o habeas corpus (fls. 49-51).
+Assevera que há manifesta omissão, porquanto a decisão embargada "deixou de tratar de tese ministerial capaz de modificar a conclusão do julgado, qual seja, o trancamento do processo referente ao crime do art. 33, caput, da Lei n. 11.343/2006, em razão da aplicação do princípio da insignificância, dada a ínfima quantidade de droga apreendida" (fls. 55-56).
+Às fls. 66-68, a Defensoria Pública estadual manifesta-se pelo "provimento dos aclaratórios para que se analise a possibilidade de concessão de habeas corpus, de ofício, aplicando-se o princípio da insignificância" (fl. 67) .
+Requer o acolhimento dos embargos de declaração, para que seja sanada a omissão apontada.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRINCÍPIO DA INSIGNIFICÂNCIA. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE.
+1.Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão.
+2. Os embargos devem ser acolhidos, sem efeitos infringentes, apenas para sanar omissão de questão suscitada pelo Ministério Público Federal, acerca da possibilidade de aplicação do princípio da insignificância no caso, matéria que não foi examinadapela Corte de origem, não devendo ser apreciada diretamente por esta Corte, para não se incorrer em indevida supressão de instância.
+3.Embargos de declaração acolhidos sem efeitos infringentes.
+VOTO
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão.
+A decisão embargada restou assim fundamentada (fls. 50-51):
+Consta dos autos que o paciente foi condenado às penas de 5 anos de reclusão em regime inicial semiaberto e de 500 dias-multa, como incurso no art. 33,caput, da Lei n. 11.343/2006.
+No presente writ, a impetrante sustenta que o fato de o réu possuir registros de atos infracionais não constituiria óbice ao reconhecimento do tráfico privilegiado.
+Afirma que o acusado faria jus à causa de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Requer, liminarmente, o reconhecimento da ilegitimidade do afastamento do tráfico privilegiado. No mérito, pugna pela concessão da ordem para que o acórdão impugnado seja reformado, aplicando-se a minorante do art. 33, § 4º, da Lei n. 11.343/2006.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela "concessão da ordem de ofício para reconhecer a aplicabilidade do princípio da insignificância; e, subsidiariamente, para reconhecer o reconhecer o privilégio do artigo 33, §4º, da Lei de Drogas".
+No tocante à negativa da minorante do tráfico privilegiado, extrai-se do acórdão impugnado (fls. 19-20):
+Por fim, o apelante pugna ainda pela aplicação da causa especial de diminuição de pena prevista no art. 33, § 4o, da Lei 11.343/2006, todavia a mesma foi negada de maneira fundamentada na sentença, no fato do recorrente possuir registros de atos infracionais pretéritos. Transcrevo trecho da sentença:
+"Analisando os autos,em análise à Relação de Processos por Pessoa do acusado extraída do sistema e-Jud, verifico que o acusado quando menor respondeu por diversos atos infracionais na Vara da Infância e Juventude. Sendo assim, por entender que restou demonstrada a dedicação do réu a atividades criminosas, nego a benesse."
+A negativa na aplicação do benefício se deu de modo satisfatório e fundamentado, com base na existência de representações atos infracionais pretéritos, o que é indicativo da dedicação a atividades criminosas, situação que obsta a aplicação da referida causa de diminuição segundo dicção do próprio §4º, do art. 33, da Lei 11.343/2006. Portanto, ainda que concisa, entendo que restou suficiente à fundamentação utilizada e observado o princípio da razoabilidade.
+Como visto, a sentença negou a aplicação da minorante do tráfico privilegiado, ressaltando que "em análise à Relação de Processos por Pessoa do acusado extraída do sistema e-Jud, verifico que o acusado quando menor respondeu por diversos atos infracionais na Vara da Infância e Juventude".
+Tenho entendimento pessoal, segundo o qual não é possível usar o histórico de atos infracionais como fundamento para afastar a causa de diminuição da pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, mas a realidade é que a matéria objeto destewritnão é pacífica nesta Corte Superior.
+Não obstante a controvérsia sobre o tema, no julgamento recente dos Embargos de Divergência no Recurso Especial n. 1.916.596, a Terceira Seção desta Corte Superior, para fins de consolidação jurisprudencial, firmou orientação intermediária no sentido de que o histórico infracional pode ser considerado para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, por meio de fundamentação idônea que aponte a existência de circunstâncias excepcionais, nas quais se verifique a gravidade de atos pretéritos, devidamente documentados nos autos, bem como a razoável proximidade temporal de tais atos com o crime em apuração (EREsp n. 1.916.596/SP, Rel. Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 8/9/2021).
+Ressalvado meu entendimento pessoal, alinhando-me à orientação desta Corte Superior, firmada no julgamento do EREsp n. 1.916.596 supracitado, no presente caso deve-se apurar se há gravidade de atos infracionais pretéritos, devidamente documentados nos autos, bem como a razoável proximidade temporal de tais atos com o crime em apuração.
+Como visto, as instâncias ordinárias concluíram que, conforme Relação de Processos por Pessoa, o réu possui diversos registros pela prática de atos infracionais análogos ao crime de tráfico de drogas e a delitos patrimoniais, inclusive por tráfico.
+Nesse sentido, deve-se considerar legítima a decisão da Corte estadual ao indicar que há um extenso histórico infracional, destacando-se que não foi colacionada aos autos a ficha de antecedentes.
+Assim, não é viável conceder o writ para determinar a aplicação da causa de diminuição da pena pleiteada pelo paciente, prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Ante o exposto, denego o habeas corpus.
+Como se observa, a matéria decidida no habeas corpus diz respeito à aplicação da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006. Amatéria foi decidida com a devida e clara fundamentação, com base no entendimento de que a Terceira Seção desta Corte Superior firmou orientação intermediária no sentido de que o histórico infracional pode ser considerado para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+Contudo, os embargos devem ser acolhidos apenas para sanar omissão de questão suscitada pelo Ministério Público Federal, acerca da possibilidade de aplicação do princípio da insignificância no caso.
+Nesse sentido, apesar de o embarganteter, de fato, se manifestado pela aplicabilidade do princípio da insignificânciaao caso, a matéria nem sequer foi debatida pelo Tribunal de origem, o que impede a sua análise por este Tribunal Superior, sob pena de supressão de instância. A propósito: AgRg no RHC 136859 / BA, Relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 26/10/2021, DJe 03/11/2021."
+Ademais, prevalece neste Superior Tribunal de Justiça a diretriz no sentido de que não se aplica o princípio da insignificância aos delitos de tráfico de drogas, por se tratar de crime de perigo abstrato ou presumido, sendo irrelevante para esse específico fim a quantidade de droga apreendida" (AgRg no HC 567.737/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/4/2020, DJe 4/5/2020).
+Ante o exposto, acolho os embargos de declaração apenas para sanar omissão, sem efeitos infringentes.
+É o voto.
