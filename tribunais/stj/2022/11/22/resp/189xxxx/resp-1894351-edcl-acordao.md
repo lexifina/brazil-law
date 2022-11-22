@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por Caixa de Previdência dos Funcionários do Banco do Brasilao acórdão proferido por esta Terceira Turma, assim ementado (e-STJ, fl. 916):
+AGRAVO INTERNO NO RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. HORAS EXTRAS. PRETENSÃO DE INCLUSÃO DE VERBAS RECONHECIDAS PELA JUSTIÇA TRABALHISTA APÓS A CONCESSÃO DO BENEFÍCIO. EQUILÍBRIO ATUARIAL E FONTE DE CUSTEIO. OBSERVÂNCIA. (PROAFR NO RESP 1.778.938/SP E RESP 1.740.397/RS). TEMA 1.021/STJ. SÚMULA 83/STJ. VIOLAÇÃO A DISPOSITIVOS LEGAIS. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. JUROS DE MORA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284/STF. AGRAVO INTERNO IMPROVIDO.
+1. Segundo a modulação dos efeitos da decisão (art. 927, § 3º, do CPC/2015): "nas demandas ajuizadas na Justiça comum até a data do presente julgamento - se ainda for útil ao participante ou assistido, conforme as peculiaridades da causa -, admite-se a inclusão dos reflexos de verbas remuneratórias (horas extras), reconhecidas pela Justiça do Trabalho, nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria, condicionada à previsão regulamentar (expressa ou implícita) e à recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial em cada caso" (REsp 1.312.736/RS, Relator o Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 08/08/2018, DJe 16/08/2018).
+2. O conteúdo normativo dos referidos dispositivos legais invocados não foi objeto de debate pelo Tribunal de origem. Dessa forma, não tendo sido enfrentada a questão relacionada aos artigos apontados como violados pelo acórdão recorrido, fica obstado o conhecimento do recurso especial por ausência de prequestionamento. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+3. A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada, bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+4. Agravo interno improvido.
+Em suas razões (e-STJ, fls. 927-939), a embargante sustenta que o acórdão recorrido incorreu em omissão no tocante à análise do Recurso Especial n. 1.312.736/RS(Tema 955/STJ), ponderando quea aplicação da aludida tese gera apenas o reconhecimento de um direito.
+Argumenta que, "antes da liquidação de sentença e subsequente opção do demandante por recompor ou não a reserva matemática, não é possível declarar a Previ como sucumbente" (e-STJ, fl. 931).
+Pleiteia, assim, o acolhimento dos declaratórios.
+Não foi apresentada impugnação ao recurso (e-STJ, fl. 942).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NORECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015.OMISSÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1.Nos termos do art. 1.022, I, II e III, do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade ou contradição, ou ainda a corrigir erro material, não se caracterizando via própria ao rejulgamento da causa.
+2.Embargos de declaração rejeitados.
+VOTO
+Os declaratórios não merecem ser acolhidos.
+Com efeito, os embargos de declaração possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição ou omissão (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Ao analisar as questões aduzidas no agravo em recurso especial e no agravo interno, esta Corte Superior aplicou os apontados óbices processuais de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Observa-se, ademais, que a embargante, na verdade, busca a rediscussão da matéria já decidida de maneira inequívoca pela Turma julgadora, pretensão esta que não se encontra em harmonia com a natureza e a função dos embargos declaratórios.
+A propósito, constata-se queo acórdão embargado consignou que o Tribunal de origemadotou solução em conformidade com o entendimento do Superior Tribunal de Justiça, tendo sido aplicada a Súmula n. 83/STJno ponto.
+Na ocasião, foi ressaltado que ajurisprudência desta Corte Superior assenta que, "nas demandas ajuizadas na Justiça comum até a data do presente julgamento - se ainda for útil ao participante ou assistido, conforme as peculiaridades da causa -, admite-se a inclusão dos reflexos de verbas remuneratórias (horas extras), reconhecidas pela Justiça do Trabalho, nos cálculos da renda mensal inicial dos benefícios de complementação de aposentadoria, condicionada à previsão regulamentar (expressa ou implícita) e à recomposição prévia e integral das reservas matemáticas com o aporte de valor a ser apurado por estudo técnico atuarial em cada caso" (REsp 1.312.736/RS, Rel. Ministro Antonio Carlos Ferreira, Segunda Seção, julgado em 8/8/2018, DJe 16/8/2018).
+Em relação aosarts. 394, 396, 397, 398, 422, 884 e 886 do CC, foi asseveradoque o conteúdo normativo dos referidos dispositivos legais não foi objeto de debate pelo Tribunal local, motivo pelo qual teveincidência dasSúmulas 282 e 356 do Supremo Tribunal Federal.
+Por fim, no tocante aos juros de mora, foramaplicados os enunciados sumulares n. 283 e 284/STF.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes declaratórios, porquanto devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Diante dessas considerações, rejeito os embargos de declaração.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de novos embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista nos art. 1.026, § 2º, do CPC/2015.
+É como voto.
