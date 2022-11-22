@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por GABRIELA NARA NICOLATTI e OUTRA ao acórdão assim ementado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+2. Agravo interno não conhecido"(fl. 1.776, e-STJ).
+Nas presentes razões, asembargantes sustentam haver omissão, obscuridade e erro material quanto à inaplicabilidade do óbice da Súmula nº 182/STJ em virtude do entendimento firmado na Corte Especial, no julgamento dos EREsp nº 1.424.404/SP, tendo o agravo rebatido de maneira suficiente a decisão.
+Afirmam que os pontos não impugnados não seriam suficientes para sustentar a decisão a respeito do mérito e que a falta de impugnação de capítulo autônomo e independente conduz apenas à preclusão da matéria.
+Impugnação às fls. 1.812/1.820, e-STJ.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.
+VOTO
+Não prospera a inconformidade veiculada nos presentes aclaratórios.
+O acórdão embargado não padece de nenhum dos vícios ensejadores dos declaratórios enumerados no Código de Processo Civil de 2015: obscuridade, contradição, omissão ou erro material.
+Eis, por oportuno, excerto do referido julgado:
+"(..)
+Trata-se de agravo interno interposto por GABRIELA NARA NICOLATTI e OUTRA contra a decisão que conheceu do agravo para negar provimento ao recurso especial (fls. 1.735/1.740, e-STJ) em virtude da impossibilidade de exame de ofensa a dispositivo constitucional em recurso especial e da aplicação dos óbices das Súmulas nº 284/STF e nºs 5 e 7/STJ.
+Em suas razões, as agravantes postulam a reforma da decisão atacada, ao argumento de que não é o caso de aplicação das Súmulas nºs 5 e 7/STJ, pois se trataria de matéria exclusivamente de direito e não haveria necessidade de interpretação de cláusulas contratuais.
+Reafirmam, ainda, as questões de mérito expostas no apelo nobre.
+(..)
+O recurso não ultrapassa a admissibilidade.
+A decisão atacada conheceu do agravo para negar provimento ao recurso especial em virtude da impossibilidade de exame de ofensa a dispositivo constitucional em recurso especial e da aplicação dos óbices das Súmulas nº 284/STF e nºs 5 e 7/STJ.
+No presente recurso, contudo, as agravantes não impugnaram os fundamentos de impossibilidade de exame de ofensa a dispositivo constitucional em recurso especial e de aplicação da Súmula nº 284/STF.
+Nesse cenário, incide o disposto nos arts. 1.021, § 1º, e 932, III, do Código de Processo Civil de 2015.
+Imperioso mencionar, ainda, que o óbice previsto no dispositivo legal em epígrafe já estava contido na Súmula nº 182/STJ, conforme se observa dos seguintes precedentes:
+(..)
+Cumpre destacar que a impugnação da decisão agravada deve ser clara e suficiente para demonstrar o equívoco na sua negativa, o que não ocorreu na espécie, visto que a parte agravante apenas alegou de forma genérica a não aplicação dos óbices, sem fundamentar devidamente o ponto.
+É dever do agravante atacar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, não bastando para tanto a impugnação genérica, parcial ou a reiteração das razões do recurso anterior.
+Ante o exposto, não conheço do agravo interno"(fls. 1.777/1.778, e-STJ - grifou-se).
+Convém ressaltar que, no agravo interno, as agravantes optaram por tratar de todas as matérias objeto do recurso especial sem, no entanto, impugnar especificamente os óbices aplicados na decisão agravada que fundamentaram a negativa de provimento do apelo nobre.
+Não há falar, portanto, em preclusão se não houve a perda de interesse recursal das agravantes em nenhum dos capítulos autônomos da decisão.
+Assim, a parte agravante pode optar pela impugnação parcial ou total da decisão, mas tem o dever de infirmar todos os fundamentos adotados nos capítulos decisórios discutidos no agravo interno.
+A propósito:
+"AGRAVO INTERNO NA PETIÇÃO NO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO OBSERVÂNCIA AO DISPOSTO NO ART. 1.021, § 1º, DO CPC/2015. POSSIBILIDADE DE IMPUGNAÇÃO POR CAPÍTULOS. ENTENDIMENTO CONSOLIDADO DA CORTE ESPECIAL. EXIGÊNCIA DE QUE SE REFUTE OS MOTIVOS AUTONOMAMENTE CONSIDERADOS. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do que dispõe o art. 1.021, § 1º, do Código de Processo Civil de 2015, a parte recorrente deve observar o princípio da dialeticidade recursal na petição de agravo interno, impugnando, de forma específica, todos os fundamentos da decisão agravada, sob pena de não conhecimento do recurso.
+2. O entendimento consolidado da Corte Especial deste Superior Tribunal de Justiça preconiza a possibilidade de, no agravo interno, a parte impugne por capítulos a decisão agravada, estando preclusos os capítulos não impugnados, desde que refute tantos quantos forem os motivos autonomamente considerados para manter os capítulos decisórios objeto do agravo interno total ou parcial.
+3. No caso, não houve a impugnação do único fundamento da decisão agravada, o que acarreta a inadmissão recursal.
+4. Agravo interno não conhecido"(AgInt na PET no REsp nº 1.980.650/CE, relator Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 8/8/2022, DJe 10/8/2022 - grifou-se).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO CONTRA DECISÃO HOMOLOGATÓRIA DE CÁLCULOS DA CONTADORIA JUDICIAL. PRETENSÃO DE REDISCUSSÃO DE MATÉRIA OBJETO DE SENTENÇA TRANSITADA EM JULGADO. HONORÁRIOS ADVOCATÍCIOS.
+1. A ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator proferida ao apreciar recurso especial ou agravo em recurso especial, apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ (EREsp 1.424.404/SP, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 20.10.2021, DJe 17.11.2021). Na ocasião, consignou-se, outrossim, que a interpretação das normas contidas no artigo 1.002 e no § 1º do artigo 1.021 do CPC de 2015 resulta na conclusão de que a parte recorrente pode impugnar a decisão no todo ou em parte, mas deve, para cada um dos capítulos decisórios impugnados, refutá-los em tantos quantos forem os motivos autonomamente considerados para mantê-los.
+(..)
+5. Agravo interno parcialmente conhecido e, nessa extensão, não provido"(AgInt no REsp nº 1.875.968/MA, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 14/3/2022, DJe 18/3/2022 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL, INTERPOSTO CONTRA DECISÃO SINGULAR PROFERIDA POR MINISTRO DO STJ. POSSIBILIDADE DE IMPUGNAÇÃO PARCIAL DE CAPÍTULOS AUTÔNOMOS. ART. 1.002 DO CPC/2015. PRECEDENTES DA CORTE ESPECIAL DO STJ. EREsp 1.424.404/SP E EREsp 1.738.541/RJ. CUMPRIMENTO DE SENTENÇA. SERVIDOR PÚBLICO. PRESCRIÇÃO. AUSÊNCIA DE INDICAÇÃO, NAS RAZÕES DO RECURSO ESPECIAL, INTERPOSTO COM FUNDAMENTO NO ART. 105, III, A, DA CF/88, DO DISPOSITIVO LEGAL QUE, EM TESE, TERIA SIDO VIOLADO OU RECEBIDO INTERPRETAÇÃO DIVERGENTE, PELO TRIBUNAL DE ORIGEM. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF, APLICADA POR ANALOGIA. AGRAVO INTERNO IMPROVIDO.
+(..)
+III. Todavia, tal compreensão não se aplica ao Agravo interno interposto contra decisão proferida por Ministro, no âmbito do STJ. Com efeito, a Corte Especial, recentemente, "pacificou o entendimento no sentido do cabimento de impugnação parcial de capítulos autônomos em sede de agravo interno, admitindo a desnecessidade de impugnação específica de todos os fundamentos da decisão recorrida e reconhecendo a preclusão dos capítulos não impugnados: "Diante desse contexto normativo e doutrinário, deve prevalecer a jurisprudência desta Corte no sentido de que a ausência de impugnação, no agravo interno, de capítulo autônomo e/ou independente da decisão monocrática do relator - proferida ao apreciar recurso especial ou agravo em recurso especial - apenas acarreta a preclusão da matéria não impugnada, não atraindo a incidência da Súmula 182 do STJ."(excerto da ementa do EREsp 1424404/SP, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/10/2021, DJe 17/11/2021)" (STJ, EREsp 1.738.541/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, DJe de 08/02/2022). Conforme decidiu a Corte Especial, essa orientação restringe-se ao Agravo interno no Recurso Especial e ao Agravo interno no Agravo em Recurso Especial, tendo em vista a possibilidade de, em tese, a decisão singular do relator ser decomposta em capítulos, vale dizer, unidades elementares e autônomas do dispositivo contido no provimento jurisdicional objeto do recurso. Assim, "a parte recorrente pode impugnar a decisão no todo ou em parte, mas deve, para cada um dos capítulos decisórios impugnados, refutá-los em tantos quantos forem os motivos autonomamente considerados para mantê-los", de modo que a Súmula 182/STJ e a previsão do art. 1.021, § 1º, do CPC/2015 terão incidência "nas hipóteses em que o agravante não apresenta impugnação aos fundamentos da decisão monocrática do Ministro do STJ ou se houver, na decisão agravada, capítulo autônomo impugnado parcialmente, ou seja, não impugnação de um dos fundamentos sobrepostos no mesmo capítulo"(STJ, AgInt no AREsp 895.746/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 19/08/2016, invocado como fundamento, no julgamento dos EREsp 1.424.404/SP).
+(..)
+VI. Agravo interno improvido"(AgInt no REsp nº 1.988.019/RN, relatora Ministra ASSUSETE MAGALHÃES, Segunda Turma, julgado em 27/6/2022, DJe1º/7/2022 - grifou-se).
+Nesse contexto, ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir omissão, afastar obscuridade, eliminar contradição ou sanar erro material, mas, sim, reformar o julgado por via inadequada.
+Ante o exposto, rejeito os embargos de declaração, com a advertência de que, havendo reiteração de embargos protelatórios, a multa prevista no art. 1.026 do Código de Processo Civil de 2015 será aplicada.
+É o voto.
