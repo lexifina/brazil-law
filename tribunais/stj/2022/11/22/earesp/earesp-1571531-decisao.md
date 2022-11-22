@@ -1,0 +1,25 @@
+DECISÃO
+  PROCESSUAL  CIVIL.  EMBARGOS  DE  DIVERGÊNCIA.  NÃO  ESGOTAMENTO  DE  INSTÂNCIA.  SÚMULA  281/STF.  NÃO  CABIMENTO.  EMBARGOS  DE  DIVERGÊNCIA  NÃO  CONHECIDOS.
+1.  Trata-se  de  Embargos  de  Divergência  interpostos  por  ENIZETE  MARIA  XAFRANSKI  contra  acórdão  da  Segunda  Turma  desta  Corte,  relatado  pelo  ministro  OG  FERNANDES,  assim  ementado:
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  DECISÃO  MONOCRÁTICA.  RECURSO  ESPECIAL.  IMPOSSIBILIDADE.  EXAURIMENTO  DA  INSTÂNCIA.  DESATENDIMENTO.  SÚMULA  281  DO  STF.
+1.  O  sistema  processual  em  vigor  impõe  o  esgotamento  das  vias  ordinárias  para  a  interposição  de  recursos  às  Cortes  Superiores,  consoante  o  enunciado  da  Súmula  281/STF.
+2.  Na  hipótese  dos  autos,  é  de  se  notar  que  o  recurso  interposto  na  origem  foi  julgado  por  decisão  monocrática,  com  amparo  no  art.  557,  caput,  do  CPC,  sem  a  manifestação  do  órgão  colegiado  do  Tribunal,  em  agravo  interno.
+3.  Agravo  interno  a  que  se  nega  provimento.
+2.  Inconformada,  a  recorrente  alega  a  existência  de  erro  material  nas  decisões  anteriores,  bem  como,  divergência  jurisprudencial  quanto  ao  indeferimento  da  gratuidade,  afirmando  que:  Decisões  iguais  a  essa  que  se  insurgiu  a  Embargante  tem  tido  outro  desfecho.  Merecendo,  destarte,  a  análise  mais  acurada  da  discussão  trazida  a  lume,  visando,  mais  do  que  tudo  a  segurança  na  aplicação  do  Ordenamento  Jurídico.  (fl.  521)
+3.  É  o  relatório.  Decido.
+4.  Os  embargos  de  divergência  têm  como  requisito  de  admissibilidade  a  existência  de  dissenso  interpretativo  entre  diferentes  órgãos  jurisdicionais  deste  Tribunal  Superior,  desde  que  tenha  sido  apreciada  a  matéria  de  mérito  do  recurso  especial  -  seja  de  natureza  processual  seja  material  -,  tendo  em  vista  que  este  recurso  é  incabível  para  o  reexame  de  regra  técnica  de  admissibilidade  recursal,  nos  termos  do  art.  266  do  RISTJ  e  Súmula  315/STJ.
+5.  Os  embargos  não  reúnem  as  mínimas  condições  de  processamento,  porquanto  desatendidos  os  requisitos  elementares  do  art.  266  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça.
+6.  Com  efeito,  o  acórdão  embargado  negou  provimento  ao  agravo  regimental,  mantendo  a  decisão  do  Relator  que  desprovera  o  agravo  no  recurso  especial,  porque  "não  há  como  deferir  o  prosseguimento  do  especial,  porquanto  não  houve  o  esgotamento  da  instância  ordinária".
+7.  Assim,  o  recurso  é  manifestamente  incabível,  na  medida  em  que  "Não  se  admite  a  oposição  de  embargos  de  divergência  contra  decisão  proferida  em  sede  de  agravo  de  instrumento  ou  nos  próprios  autos ,  quando  não  é  examinado  o  mérito  do  recurso  especial"  (AgRg  na  Pet  6336/SP,  CORTE  ESPECIAL,  Rel.  Ministra  LAURITA  VAZ,  DJ  de  30/10/2008).
+8.  Nesse  mesmo  sentido  é  a  jurisprudência  consolidada  neste  Superior  Tribunal  de  Justiça:
+AGRAVO  REGIMENTAL  NO  RECURSO  EXTRAORDINÁRIO  COM  AGRAVO.  NÃO  ESGOTAMENTO  DAS  INSTÂNCIAS  ORDINÁRIAS.  SÚMULA  Nº  281/STF.  PRECEDENTES.
+1.  Incide  no  caso  a  Súmula  nº  281  do  Supremo  Tribunal  Federal,  pois  o  recurso  extraordinário  foi  interposto  contra  decisão  monocrática  proferida  por  Ministro  do  Superior  Tribunal  de  Justiça.
+2.  Agravo  regimental  não  provido,  com  imposição  de  multa  de  1%  (um  por  cento)  do  valor  atualizado  da  causa  (art.  1021,  §  4º,  do  CPC).
+3.  Havendo  prévia  fixação  de  honorários  advocatícios  pelas  instâncias  de  origem,  seu  valor  monetário  será  majorado  em  10%  (dez  por  cento)  em  desfavor  da  parte  recorrente,  nos  termos  do  art.  85,  §  11,  do  Código  de  Processo  Civil,  observados  os  limites  dos  §§  2º  e  3º  do  referido  artigo  e  a  eventual  concessão  de  justiça  gratuita.
+(ARE  1246783  AgR,  Relator(a):  Min.  DIAS  TOFFOLI  (Presidente),  Tribunal  Pleno,  julgado  em  08/06/2020,  PROCESSO  ELETRÔNICO  DJe-169  DIVULG  03-07-2020  PUBLIC  06-07-2020)
+AGRAVO  REGIMENTAL  NO  RECURSO  EXTRAORDINÁRIO  COM  AGRAVO.  PENAL.  AUSÊNCIA  DE  ESGOTAMENTO  DAS  VIAS  RECURSAIS  ORDINÁRIAS.  INCIDÊNCIA  DA  SÚMULA  281/STF.  AGRAVO  A  QUE  SE  NEGA  PROVIMENTO.
+I  -  Consoante  a  Súmula  281  do  Supremo  Tribunal  Federal,  é  inadmissível  o  recurso  extraordinário  quando  couber  na  Justiça  de  origem  recurso  ordinário  da  decisão  impugnada.
+II  -  Agravo  regimental  a  que  se  nega  provimento.(ARE  1265496  AgR,  Relator(a):  Min.  RICARDO  LEWANDOWSKI,  Segunda  Turma,  julgado  em  29/05/2020,  PROCESSO  ELETRÔNICO  DJe-138  DIVULG  03-06-2020  PUBLIC  04-06-2020)
+9.  Não  conhecido  o  Agravo  em  Recurso  Especial  por  incidência  da  Súmula  281/STF,  torna-se  inviável  a  reversão  do  julgado  na  forma  propugnada.
+10.  Ante  o  exposto,  não  conheço  dos  embargos  de  divergência.
+11.  Publique-se.  Intimações  necessárias.
