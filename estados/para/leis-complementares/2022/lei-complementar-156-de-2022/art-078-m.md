@@ -1,0 +1,1 @@
+Art. 78-M. Nos processos de tomadas de contas especial, o processo será arquivado se a prescrição alcançar a totalidade das irregularidades ou do dano em apuração, sem prejuízo da prévia adoção das providências indicadas no artigo anterior, quando for o caso.

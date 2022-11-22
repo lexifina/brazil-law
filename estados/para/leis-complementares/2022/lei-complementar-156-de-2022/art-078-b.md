@@ -1,0 +1,3 @@
+Art. 78-B. Para fins de adoção dos procedimentos necessários ao reconhecimento da prescrição sancionatória e ressarcitória, no âmbito da jurisdição do Tribunal, devem ser observadas as seguintes regras:
+I - qualquer unidade de controle externo que, sob posse de processo submetido à sua análise, verificar a ocorrência, em tese, de prescrição sancionatória deve comunicar o fato ao Relator, mediante a indicação expressa do dispositivo em que se enquadra a hipótese de prescrição;
+II - quando do julgamento de processos que se enquadrem nas hipóteses de prescrição, a decisão do órgão colegiado reconhecerá a prescrição, afastando-se, por conseguinte, a imposição das sanções previstas nesta Lei e Regimento Interno do Tribunal.

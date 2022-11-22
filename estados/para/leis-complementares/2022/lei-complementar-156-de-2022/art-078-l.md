@@ -1,0 +1,1 @@
+Art. 78-L. A desconsideração dos fatos prescritos, no juízo de mérito, não impede a adoção de determinações, recomendações ou outras providências motivadas por esses fatos, destinadas a reorientar a atuação administrativa.
