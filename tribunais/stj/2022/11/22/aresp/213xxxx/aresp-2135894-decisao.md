@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interposto por Oswaldo de Andrade contra a decisão de fls. 676-679 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 508-513 e 519-521 (e-STJ), prolatados pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+RECURSO - Agravo de instrumento - Manifesta improcedência, que permite ao relator negar provimento desde logo - Inteligência do disposto no art. 932 do Cód. de Proc. Civil - Aplicação, outrossim, do art. 252 do Regimento Interno deste E. Tribunal de Justiça - Caso, ademais, em que a interposição deste agravo interno permite que a matéria seja levada a julgamento pelo colegiado. PENHORA - Admissibilidade - Recursos aplicados em plano complementar de previdência privada - Execução de honorários advocatícios - Natureza salarial - Decisão que negou provimento a agravo de instrumento mantida - Agravo interno improvido.
+RECURSO - Embargos de declaração - Inexistência de contradição, omissão, obscuridade ou erro material - Pretensão infringente, o que é inadmissível - Análise adequada de todos os pontos debatidos no recurso - Embargos de declaração rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 524-542), apontou o insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 489, § 1º, III e IV, 833, IV e § 2º, 932, IV, e 1.022, I e II, do CPC/2015. Sustentou, em síntese: i) ocorrência de negativa de prestação jurisdicional; ii) descabimento do julgamento monocrático do agravo de instrumento; e iii) impenhorabilidade do fundo de previdência privada para cobrança de honorários advocatícios de sucumbência.
+Contrarrazões às fls. 660-671 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não ocorrência de negativa de prestação jurisdicional; b) não demonstração da violação aos arts. 833, IV e § 2º, e 932, IV, do CPC/2015; c) incidência da Súmula 7/STJ; e d) não comprovação do dissídio jurisprudencial.
+Daí o presente agravo, no qual o insurgente contesta a aplicação dos óbices.
+Contraminuta às fls. 701-709 (e-STJ).
+Brevemente relatado, decido.
+Primeiramente, cingiu-se o recurso sobre a ocorrência de negativa de prestação jurisdicional. Defendeu o recorrente que o Tribunal de origem omitiu-se sobre os seguintes pontos da lide: necessidade do fundo de previdência privada para a sua subsistência; e, que ao tempo da oposição dos embargos de declaração o precedente invocado no agravo de instrumento (REsp 1.815.055) já havia sido julgado.
+Quanto à primeira omissão, sem razão o recorrente, tendo em vista que o Tribunal local se manifestou satisfatoriamente sobre o argumento.
+Veja-se àfl. 521 (e-STJ):
+Daí a relevância dada a outro precedente do C. STJ indicado na fundamentação: "o agravante não fez prova nenhuma de que dependa exclusivamente de tais recursos para sua sobrevivência, vale dizer, não apresentou simples orçamento, via do qual se pudesse examinar a situação concreta, com o que a solução aqui encontrada está em sintonia com o decidido no AgRg no AREsp 32.031/SC.".
+Já com relação à primeira omissão alegada, com razão o recorrente.
+Observa-se que, de fato, a Corte local não se manifestou sobre o argumento de que o precedente da Corte Especial deste Tribunal, invocado no agravo de instrumento, já havia sido julgado ao tempo da oposição dos embargos de declaração.Embora orecorrente tenha provocado o Tribunal estadual através dos aclaratórios (e-STJ, fls. 515-517), este permaneceu silente.
+Com efeito, inarredável a conclusão de ofensa ao art. 1.022 do Código de Processo Civil de 2015, haja vista que, independentemente do acerto ou não da tese invocada, ela deveria ter sido objeto de análise pela Corte de origem.
+Saliente-se, oportunamente, que o direito ao provimento jurisdicional claro, coerente e congruente é corolário do devido processo legal, contido no inciso LIV do art. 5º da Constituição Federal. É, portanto, elemento do núcleo intangível da ordem constitucional brasileira, a que o julgador deve integral obediência.
+A análise das demais teses recursais se mostra prejudicada diante da necessidade de novo pronunciamento sobre os embargos de declaração.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de, reconhecida a violação do art. 1.022 do CPC/2015, determinar ao tribunal de origem que realize novo julgamento dos embargos de declaração, devendo se pronunciar, como entender de direito, sobre arelevantequestãoque lhe foi submetidapela parte embargante.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL VERIFICADA. ANÁLISE DAS DEMAIS TESES PREJUDICADA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
