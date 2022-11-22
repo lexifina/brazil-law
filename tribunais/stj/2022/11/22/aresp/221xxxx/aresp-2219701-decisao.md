@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por OWENS CORING FIDERGLAS AS LTDA. contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 809):
+AGRAVO DE INSTRUMENTO. Ação Declaratória de Rito Ordinário. DECISÃO que rejeitou as preliminares de ilegitimidade ativa e de prescrição. INCONFORMISMO da demandada deduzido no Recurso. EXAME: Caso que versa responsabilidade civil por inadimplemento contratual. Aplicação do prazo prescricional de dez (10) anos previsto no artigo 205 do Código Civil, conforme entendimento do C. Superior Tribunal de Justiça no julgamento do EREsp 1.281.594-SP, não consumado no caso dos autos. Decisão mantida. RECURSO NÃO PROVIDO
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 416-419).
+Nas razões do recurso especial (e-STJ, fls. 841-860), a recorrente apontou violação aos arts. 373, I, 489, § 1º, IV e 1.022, II, parágrafo único, II, do CPC/2015; e 206, § 3º, V, do CC.
+Sustentou, em síntese: i) negativa de prestação jurisdicional quanto à inexistência de contrato entre as partes; ii) incorreta distribuição do ônus da prova; e iii) a ocorrência da prescrição trienal, por se tratar de responsabilidade extracontratual.
+Foram apresentadas contrarrazões (e-STJ, fls. 871-894).
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+De início, no que tange à suposta negativa de prestação jurisdicional, é preciso deixar claro que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição, erro material ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorre nos autos.
+A propósito:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AÇÃO DE PRESTAÇÃO DE CONTAS. LEGITIMIDADE ATIVA. HERDEIROS. SÚMULA N. 83 DO STJ. SUPRESSIO. NÃO OCORRÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Inexiste negativa de prestação jurisdicional quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.411.897/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 7/12/2021, DJe 9/2/2022)
+O Tribunal de origem, ao julgar o agravo de instrumento, consignou o seguinte (e-STJ, fls. 811-815):
+Com efeito, verifica-se que as autoras atuam nas áreas de fabricação de coberturas metálicas e de construção, tendo ajuizado a Ação Declaratória com fundamento na violação do dever de informação, decorrente da troca do fornecedor de um componente constante no produto "MBI" vendido pela demandada.
+Narram ainda as autoras que atuavam como intermediadoras nas negociações da demandada, indicando a aquisição do isolante termo acústico vendido pela ré, que em contrapartida ofereceria condições melhores aos clientes das autoras, conforme propostas e fichas técnicas apresentadas pela ré às autoras (v. fls. 147/154 dos autos principais). Demais, argumentam que eventual alteração do componente, sem a observância do dever de informação, poderia inclusive provocar danos às autoras, mormente considerando que indicavam o produto da demandada nos termos acordados, daí a Ação Declaratória (fls. 1/14 dos autos principais).
+Embora a alegação da requerida, ora agravante, de que transcorreu o prazo prescricional de três (3) anos no tocante, cumpre ressaltar que, em decisão recente, o C. Superior Tribunal de Justiça reconheceu que se aplica às controvérsias relacionadas à responsabilidade contratual o prazo decadencial previsto no artigo 205 do Código Civil, conforme ementa abaixo transcrita: ( )
+Assim, considerando que no caso dos autos discute-se a responsabilidade contratual decorrente da violação do dever de informação por parte da demandada, ora agravante, bem ainda que teria sido firmada a parceria entre as partes em dezembro de 2013 (v. fls. 147/151 dos autos principais), com a alteração do componente em 2016, e que as autoras ajuizaram a Ação no dia 05 de agosto de 2020, tem-se mesmo como não consumado o prazo prescricional decenal, aplicável à espécie.
+Por fim, quanto à arguição de que a responsabilidade é extracontratual, não se vislumbra, ao menos "a priori", a cogitada ausência de relação entre as partes, demandando essa questão o exame exauriente com adequada dilação probatória na Vara de origem.
+Com efeito, segundo a jurisprudência do Superior Tribunal de Justiça, às ações propostas com base em responsabilidade contratual aplica-se o prazo prescricional de 10 (dez) anos previsto no art. 205 do CC/2002.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. CONTRATOS DE PRESTAÇÃO DE SERVIÇOS E DE PARCEIRA VOLTADOS À MUDANÇA DE MARCA DE AGÊNCIAS BANCÁRIAS.
+1.1. Inexiste afronta aos arts. 489, § 1º, e 1.022, II, § único, II, do CPC quando o acórdão recorrido se pronuncia, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo juízo.
+1.2. Incidência da prescrição decenal à pretensão fundada em responsabilidade civil contratual. Precedente da Corte Especial.
+1.3. Modificar o entendimento do Tribunal de origem acerca da impossibilidade de denunciação da lide da corré, da ilegitimidade passiva da recorrente, bem como da ausência de solidariedade demandaria o revolvimento de matéria fático-probatória e das cláusulas contratuais, o que é inviável em sede de recurso especial, consoante preconizam as Súmulas 5 e 7 do STJ.
+1.4. Descabida, ainda, a denunciação quando há unicamente a pretensão de transferir responsabilidade própria a outrem.
+1.5. A aferição do decaimento de cada litigante com o objetivo de estabelecer a proporção dos ônus sucumbenciais é providência vedada nesta Corte Superior por exigir o revolvimento probatório da causa.
+1.6. A análise acerca da existência, ou não, de sucumbência mínima ou recíproca implicaria a incursão no campo fático-probatório, o que é vedado a teor do enunciado da Súmula 7 do STJ.
+1.7. O pedido de liquidação de sentença deve ser direcionado ao juízo de origem.
+1.8. Decisão agravada mantida pelos seus próprios fundamentos.
+1.9 AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp n. 1.877.056/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022.)
+Outrossim, não há como desconstituir o entendimento delineado no acórdão impugnado, sem que se proceda ao reexame dos fatos e das provas dos autos, o que não se admite nesta instância extraordinária, em decorrência do disposto na Súmula 7/STJ.
+Por fim, observa-se que a questão referente à distribuição do ônus da prova nem sequer foi trazida no recurso de agravo de instrumento (e-STJ, fls. 1-20). Assim, o conteúdo normativo do disposto no 373, I, do CPC/2015 não foi objeto de apreciação pelo Tribunal a quo. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Incidem, ao caso, as Súmulas 282 e 356 do STF.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. RESPONSABILIDADE CIVIL CONTRATUAL. PRESCRIÇÃO DECENAL. ART. 205 DO CC/2002. SÚMULA 83/STJ. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISTRIBUIÇÃO DO ÔNUS DA PROVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DESPROVIDO.
