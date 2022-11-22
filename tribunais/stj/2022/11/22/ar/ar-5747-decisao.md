@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de pedido de desistência da presente ação rescisória de autoria de PLANOR CONSTRUÇÕES E COMÉRCIO LTDA com fulcro no inciso IV do art. 3º da Lei nº 13.988/2020 e no inciso VIII do art. 485 do CPC/2015.
+A autora informa que aderiu à Transação Excepcional, com fundamento no art. 1º e seguintes da Lei nº 13.988/2020 e artigo 171 do Código Tributário Nacional, e vem realizando os pagamentos mensalmente, de modo que todas as pretensões, direitos e deveres discutidos na presente ação teriam sido definitivamente pacificados pela transação excepcional formalizada.
+Intimada para regularizar sua representação processual, a parte autora juntou aos autos a procuração de fls. 751 e-STJ, assinada pelo outorgante, com poderes expressos para desistir da presente ação rescisória.
+Intimada a se manifestarna forma do § 4º do art. 485 do CPC, a FAZENDA NACIONAL quedou-se inerte, não se manifestando sobre a anuência ao pedido de desistência e, por óbvio, nãoapresentando motivojusto para não anuir, nos termos da certidão de fls. 761 e-STJ.
+É o relatório. Passo a decidir.
+A Segunda Turma, ao julgar o REsp 627.022/SC (Rel. Min. Eliana Calmon, REVPRO, vol. 127, p. 224), didaticamente fez a distinção entre os seguintes institutos processuais: desistência da ação, desistência do recurso e renúncia do autor ao direito sobre que se funda a ação, conforme excerto parcialmente reproduzido a seguir:
+(..)
+Primeiramente, necessária a distinção entre os diversos institutos processuais:
+Desistência da ação - somente pode ser deferida até a prolação da sentença; após a citação apenas com a anuência do réu ou se este não anuir sem motivo justificado, a critério do magistrado. É um instituto que tem natureza eminentemente processual, acarreta a extinção do processo sem julgamento do mérito, de modo que a demanda pode ser novamente proposta; se existirem depósitos judiciais, estes poderão ser levantados pela parte autora.
+Desistência do recurso - somente tem direito à desistência do recurso a parte que recorreu; nos termos do art. 501 do CPC, desnecessária a anuência do recorrido ou dos litisconsortes e somente pode ser formulado o pedido até o julgamento do recurso; nesta hipótese, prevalece a decisão imediatamente anterior e acarreta a extinção do feito nos termos do art. 269, I do CPC (extinção do processo com julgamento do mérito).
+Renúncia - é ato privativo do autor, pode ser exercido em qualquer tempo ou grau de jurisdição, independentemente da anuência da parte contrária;enseja a extinção do feito nos termos do art. 269, V do CPC (extinção com julgamento do mérito), impedindo a propositura de qualquer outra ação sobre o mesmo direito; é instituto de natureza material, cujos efeitos são os mesmos da improcedência da ação e, em havendo depósitos judiciais, estes deverão ser convertidos em renda da União; equivale, às avessas, ao reconhecimento do pedido pelo réu. (Grifei)
+(..)
+Com efeito, a desistência da ação, nos termos do § 5º do art. 485 do CPC/2015, pode ser apresentada até a sentença, estando preenchido tal requisito, visto que a presente ação rescisória ainda não foi julgada.
+Trata-se de instituto processual que acarreta a extinção da ação sem julgamento de mérito, nos termos do art. 485, VIII, do CPC/2015.
+Ressalte-se que as despesas e os honorários serão pagos pela parte que desistiu, consoante a redação do caput do art. 90 do CPC/2015, salvo se houver determinação legal específica em sentido diverso a respeito dos ônus da sucumbência e honorários advocatícios.
+Com esses esclarecimentos, e com fulcro no art. 485, VIII, do CPC/2015 e 34, IX, do RISTJ, HOMOLOGO a desistência e julgo extinta a ação, sem resolução de mérito, nos termos da fundamentação supra.
+Fica a autora condenada ao pagamento de honorários advocatícios em favor da parte ré fixados em 10% sobre o valor da causa, nos termos dos arts.85, § § 2º e 3º, I, e 90 do CPC/2015.
+Fica autorizado o levantamento, pela parte autora, do depósito realizado com base no art. 968, II, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+AÇÃO RESCISÓRIA CONTESTADA. DESISTÊNCIA DA AÇÃO. ADVOGADOSUBSCRITOR DO PEDIDO COM PODERES ESPECIAIS PARA DESISTIR. INTIMADA A PARTE RÉ, QUEDOU-SE INERTE SOBRE O PEDIDO DE DESISTÊNCIA. PEDIDO HOMOLOGADO. AÇÃO EXTINTA SEM JULGAMENTO DE MÉRITO. ART. 485, VIII, DO CPC. DESPESAS E HONORÁRIOS A CARGO DA PARTE QUE DESISTIU. ARTS. 85, § § 2º E 3º, I, E 90 DO CPC/2015. AUTORIZADO O LEVANTAMENTO DO DEPÓSITO REALIZADO COM BASE NO INCISO II DO ART. 968 DO CPC/2015.
