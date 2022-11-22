@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (e-STJ fl. 245):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DISPOSITIVOS LEGAIS TIDOS POR VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AÇÃO DE NATUREZA PREVIDENCIÁRIA. PRESTAÇÕES VENCIDAS. CORREÇÃO MONETÁRIA. ADEQUAÇÃO AO PRECEDENTE DA SUPREMA CORTE EM SEDE DE REPERCUSSÃO GERAL E PELO SUPERIOR TRIBUNAL DE JUSTIÇA NO RESP N. 1.495.146/MG (TEMA 905), JULGADO SOB O RITO DOS RECURSOS REPETITIVOS. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+O agravante alega que "a questão do prequestionamento, também não comporta ser aplicada, em razão de que a jurisprudência deste Tribunal Superior firmou-se no sentido de que o reconhecimento do prequestionamento ficto previsto no art. 1025 do CPC/2015 pressupõe que a parte recorrente, após a oposição dos embargos de declaração na origem, também suscite nas razões do recurso especial violação ao art. 1022 do CPC/2015, por negativa de prestação jurisdicional, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau. Referido procedimento não foi adotado pelo recorrente, já que deixou de alegar nas razões do recurso especial ofensa ao art. 1022 do CPC/2015" (e-STJ fl. 253.)
+Por fim, requer a "reconsideração da r. decisão agravada, dar provimento ao Recurso Especial da autarquia ou a submissão deste recurso a Eg. Turma, conforme fundamentação acima" (e-STJ fl. 254.)
+Com impugnação (e-STJ fls. 257-260).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. PREQUESTIONAMENTO FICTO. NÃO CARACTERIZADO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 182 DO STJ.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n. 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ. No caso, por simples cotejo das razões recursais e dos fundamentos do acórdão recorrido, percebe-se que atese recursal vinculada aos dispositivos tidos como violados - arts. 2º, 141 e 492, 927, III do CPC-, não foi apreciada no acórdão prolatado pela Corte de origem.
+3. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe de 10/4/2017). Hipótese em julgamento em que a parte recorrente não opôs embargos de declaração com o fito de prequestionar os referidos dispositivos.
+4. A falta de impugnação específica contra a decisão da qual se recorre, atrai a incidência da Súmula 182/STJ. No caso, a parte deixou de impugnar o fundamento da decisão agravada que afastou a alegada violação dos arts. 489, §1º, II e §1º, IV, 1.022 do CPC.
+5. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO BENEDITO GONÇALVES (Relator): Consigna-se, de início, que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Com efeito, conforme afirmado na decisão agravada, os arts. 2º, 141 e 492, 927, III, e à tese a ele vinculada, o recurso especial não ultrapassa o exame de admissibilidade, ante o óbice da Súmula 211 do STJ que dispõe: Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.
+É cediço, para que se configure o prequestionamento, não basta que o recorrente devolva o exame da questão controvertida para o Tribunal. É necessário que a causa tenha sido decidida à luz da legislação federal indicada como violada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e dos fundamentos do acórdão, verifica-se que a questão recursal não foi apreciada pela Corte de origem.
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SERVIDOR PÚBLICO. PENSÃO POR MORTE. ESTUDANTE UNIVERSITÁRIO. PRORROGAÇÃO DO BENEFÍCIO ATÉ 24 ANOS DE IDADE. INTERPRETAÇÃO DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA N. 280/STF. DISPOSITIVOS DA LEI N. 8.213/91 NÃO PREQUESTIONADOS. SÚMULA N. 211/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+2. O prequestionamento não exige que haja menção expressa dos dispositivos infraconstitucionais tidos como violados. Entretanto, é imprescindível que no aresto recorrido a tese tenha sido discutida, mesmo que suscitada em embargos de declaração. Incidência da Súmula n. 211/STJ. 3. Agravo regimental não provido" (STJ, AgRg nos EDcl no AREsp 726.546/AM, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 4/11/2015).
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DO ART. 535 DO CPC. INEXISTÊNCIA. ENRIQUECIMENTO ILÍCITO. NÃO OCORRÊNCIA. SÚMULA N. 7 DO STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.
+ ..
+3. Incide a Súmula n. 211/STJ quando a questão suscitada no recurso especial, não obstante a oposição de embargos declaratórios, não foi apreciada pela Corte a quo.
+4. O acesso à via excepcional, nos casos em que o Tribunal a quo, a despeito da oposição de embargos de declaração, não regulariza a omissão apontada, depende da veiculação, nas razões do recurso especial, de ofensa ao art. 535 do CPC.
+5. Agravo regimental desprovido (AgRg no AREsp 750.119/DF, Rel. Min. João Otávio de Noronha, Terceira Turma, DJe de 3/11/2015).
+In casu, malgrado o recorrente tenha vinculado nas razões do recurso especial violação do art. 1.022 do CPC, os embargos de declaração não foram opostos para sanar a omissão quanto aos citados dispositivos legais, uma vez que tais não foram sequer mencionados nos embargos de declaração, situação que não enseja a aplicação do art. 1.025 do CPC.
+Nesse contexto, a irresignação não ultrapassa a admissibilidade.
+Ressalta-se, que com relação aos demais fundamentos da decisão monocrática (ausência de violação dos arts. 11, 489, inciso II e parágrafo 1º, IV e 1.022 do CPC/2015), aplica-se a Súmula l82 do STJ.
+A falta de impugnação específica aos fundamentos da decisão agravada acarreta o não conhecimento do recurso, incidindo o óbice da Súmula 182/STJ.
+Nesse sentido, confira-se entendimento da Corte Especial:
+AGRAVO INTERNO EM PEDIDO DE RECONSIDERAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA.  ..
+1. Nos termos do art. 1021, § 1º, do CPC e da Súmula 182/STJ, é inviável o agravo interno que não impugna especificamente todos os fundamentos da decisão agravada.
+2. Agravo interno não provido, com aplicação de multa. (AgInt no RCD nos EDcl no AgInt nos EAREsp 913.041/MG, Rel. Min. Luis Felipe Salomão, Corte Especial, DJe 23/5/2018)
+Ante o exposto, não conheço do Agravo interno.
+É como voto.
