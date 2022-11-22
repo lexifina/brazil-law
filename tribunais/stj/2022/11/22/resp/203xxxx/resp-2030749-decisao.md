@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DE MATO GROSSO DO SUL, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"AGRAVO DE INSTRUMENTO. RECURSO EM CONTRASTE COM O ENTENDIMENTO VINCULANTE ESTABELECIDO PELO TRIBUNAL EM INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. DECISÃO MONOCRÁTICA QUE NEGA PROVIMENTO AO RECURSO. AGRAVO INTERNO. IMPROCEDÊNCIA".
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente alega que "o art. 8º, caput e § 2º da Lei 12.514/2011, não contemplam em seu texto legal multa pela prática de um ilícito administrativo, motivo pelo qual o recurso deve ser provido nesse ponto para afastar a incidência dessa previsão aos débitos dessa natureza".
+O Recurso Especial foi admitido pelo Tribunal de origem
+A irresignação não merece prosperar.
+O Tribunal de origem asseverou o seguinte:
+"O agravo de instrumento foi interposto contra decisão que, nos autos da execução fiscal de origem, determinou o arquivamento provisório do feito, com base no §2º do art. 8º da Lei nº 12.514, de 2011, acrescentado pela Lei nº 14.195, de 2021.
+A 1ª Seção deste tribunal, órgão colegiado que reúne as turmas especializadas em matéria tributária, decidiu em 05 de maio de 2022, no julgamento do Incidente de Assunção de Competência nº 5046920-60.2021.4.04.0000/RS, que é formal e materialmente constitucional o §2º do artigo 8º da Lei nº 12.514, de 2011, acrescentado pela Lei nº 14.195, de 2021, sendo aplicável inclusive aos feitos pendentes em que não forem encontrados bens penhoráveis, como ocorre no caso.
+Ora, o agravo de instrumento contraria o entendimento vinculante estabelecido pela 1ª Seção deste tribunal, no julgamento acima indicado, o que justifica o seu desprovimento de plano, com base no artigo 927, III combinado com o artigo 932, IV, "c", do Código de Processo Civil".
+Assim, a controvérsia foi dirimida pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Ademais, verifica-se quea parte recorrente não atacou, via Recurso Extraordinário, oreferidofundamentoconstitucional. Aplica-se, então, ao caso, o entendimento consubstanciado na Súmula 126 do STJ, que assim dispõe:
+"É inadmissível o recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário."
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
