@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de DELIEL NERIS NORBERTOcontra acórdão do Tribunal de Justiça do Estadode Santa Catarinaproferido no julgamento doHabeas Corpusn. 5048156-22.2022.8.24.0000/SC.
+Colhe-se nos autos que o Paciente teve a prisão preventiva decretada, em 24/03/2022, pela suposta prática dos delitosde tráfico de drogas e associação para o tráfico.
+Posteriormente, foi denunciado como incurso no art. 2.º, § 2.º, da Lei n. 12.850/2013.Segundo consta, o Paciente "assumiu recentemente a função de "rigor"da facção criminosa PGC em Xaxim, em razão da prisão de Mateus de Oliveira da Rosa, manteve contato com o membro do PGC responsável pelo armazenamento de armas a pedido ERICK ALAN FERNANDES CAVALHEIRO e encaminhou diversas mensagens da Organização Criminosa PGC a ERICK com ordens, comunicados, decretos e estatutos" (fl. 41).
+Irresignada, a Defesa impetrouhabeas corpusperante o Tribunal de origem, que denegou a ordem.
+Nestehabeas corpus, o Impetrante alega que, "embora o Ministério Público estadual tenha se utilizado de diversos "prints" de conversas do aplicativo Whatsapp, para sustentar a sua acusação, o inteiro teor desses diálogos jamais foi fornecido à defesa, nem foi conferido o amplo acesso aos procedimentos investigatórios que serviram de base para a extração desses arquivos" (fl. 16).
+Aduz que os "demais investigados podem possuir indícios de participação em organizações criminosas etc., porém, no que tange ao paciente não há nenhum indicativo de que este tenha qualquer ligação com organizações criminosas, tampouco qualquer relação com ilícitos" (fl. 20).
+Sustenta que não se encontram presentes os requisitos autorizadores da prisão preventiva, previstos no art. 312 do Código de Processo Penal, e que o decreto prisional não apresenta fundamentação idônea.
+Defende a possibilidade de aplicação de medidas cautelares diversas.
+Asseveraa ausência de contemporaneidade do decreto prisional.
+Requer, liminarmente, a determinação da "imediata juntada de toda documentação e provas que somente a acusação teve acesso até a presente data" (fl. 34), bem como a concessão de liberdade provisória. No mérito, pleiteia "a procedência do pedido para que seja determinada, nos termos da Súmula Vinculante 14, a disponibilização à defesa técnica do ora reclamante de todo o acervo probatório que ampara a acusação, do inteiro teor das conversas de Whatsapp mencionadas pela denúncia, extraídas do Relatório de Análise de Polícia Judiciária, bem como a disponibilização da cadeia de custódia dos arquivos de mídia apreendidos e do aparelho celular original de onde são provenientes (marca, modelo, IMEI, etc.), com a subsequente reabertura do prazo para que" (fl. 34), bem como a expedição de alvará de soltura em favor do Paciente, com a imposição de medidas cautelares diversas da prisão.
+O pedido liminar foi indeferido às fls. 241-245.
+As informações solicitadas foram prestadas às fls. 249-260, 261-319 e 321-414.
+O Ministério Público Federal manifestou-se às fls. 417-423, opinando pelo não conhecimento da impetração e, caso conhecida, pela denegação da ordem.
+É o relatório.Decido.
+Em consulta ao endereço eletrônico do Tribunal de origem, verifiquei que, no dia 14/10/2022, foi proferida sentença nos autos da ação penal em epígrafe, na qual o Paciente foi condenado como incurso noart. 2.º , § 2.º, da Lei n. 12.850/2013, às penas de 3 (três) anos e 6 (seis) meses de reclusão,além de 12 (doze) dias-multa. Foi fixado o regime prisional aberto e determinada a expedição de alvará de soltura em favor do Apenado.
+Constata-se, portanto, a superveniente perda do objeto desta insurgência no tocante à manutenção da prisão preventiva.
+Ademais, da leitura da sentença, observa-se que está prejudicada a tese relacionada ao supostocerceamento de defesa, tendo em vista que o Juízo sentenciante refutou, em cognição profunda e exauriente, a alegada nulidade, o que prejudica a análise do tema nesta oportunidade.Exemplificativamente:
+"AGRAVO REGIMENTAL EM RECURSO EMHABEASCORPUS.ESTELIONATO E FALSIDADE IDEOLÓGICA. NULIDADE. CERCEAMENTO DE DEFESA. APRESENTAÇÃO DE RESPOSTA À ACUSAÇÃO POR DEFENSOR DATIVO. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO ENFRENTAMENTO DO TEMA. JUÍZO DE COGNIÇÃO MAIS AMPLO. ALTERAÇÃO FÁTICO-PROCESSUAL SUBSTANCIAL.
+1. Com a superveniência da prolação de sentença condenatória fica prejudicada a análise da nulidade arguida, porquanto a via eleita é substancialmente mais estreita.
+2. A posterior análise do apontado vício no âmbito de regular ação penal, em cognição exauriente, impõe a matéria ao Tribunal local para apreciação em eventual recurso contra a sentença.
+3. Agravo regimental improvido." (AgRg no RHC 71.840/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 05/06/2018, DJe 12/06/2018.)
+Ante o exposto, JULGO PREJUDICADO o pedido dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TESE DE ILEGALIDADE DAS PROVAS EM RAZÃO DOALEGADOCERCEAMENTO DE DEFESA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. COGNIÇÃO PROFUNDA E EXAURIENTE DA INSURGÊNCIA. IMPUGNAÇÃO À PRISÃO PREVENTIVA. POSTERIOR REVOGAÇÃO DA CUSTÓDIA. PERDA DO INTERESSE PROCESSUAL. PEDIDO DEHABEAS CORPUSPREJUDICADO.
