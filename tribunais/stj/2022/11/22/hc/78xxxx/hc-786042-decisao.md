@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de MILER GODOY DE ALMEIDA e DENILSON DOS SANTOS ORBOLATO contra decisão proferida pela Desembargadora Relatora do HC n. 0069580-33.2022.8.16.0000, em trâmite no Tribunal de Justiça do Estado do Paraná.
+Consta nos autos que os Pacientes foram condenados como incursos "no artigo 33, "caput", c/c artigo 40, inciso V, ambos da Lei 11.343/2006, respectivamente, à pena total de 04 anos, 05 meses e 10 dias de reclusão, e 04 anos, 10 meses e 10 dias de reclusão, ambos em regime inicialmente fechado" (fl. 61).
+A Defesa impetrouhabeas corpusperante o Tribunal de origem, tendo sido indeferido o pedido liminar.
+Nestewrit, o Impetrante sustenta que há ilegalidade na fixação do regime fechado para início de cumprimento das penas.
+Requer, liminarmente e no mérito, a mudança do regime inicial de cumprimento da pena.
+É o relatório.
+Decido.
+Conforme entendimento firmado pelo Supremo Tribunal Federal e por esta Corte, não se admitehabeas corpuscontra decisão negativa de liminar proferida em outrowritna instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691 do Supremo Tribunal Federal ("Não compete ao Supremo Tribunal Federal conhecer dehabeas corpusimpetrado contra decisão do Relator que, emhabeas corpusrequerido a tribunal superior, indefere a liminar"), aplicável,mutatis mutandis, ao Superior Tribunal de Justiça (v.g.: AgInt no HC 495.842/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 16/10/2019; AgInt no HC 486.524/SP, Rel. Ministra ISABEL GALLOTTI, QUARTA TURMA, DJe 07/06/2019; AgRg no HC 568.995/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 04/05/2020; AgRg no HC 550.844/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/02/2020).
+Assim, ordinariamente, não pode ocorrer a superação de tal óbice processual, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade (por forçar o pronunciamento adiantado da Instância Superior e suprimir a jurisdição da Inferior, em subversão à regular ordem de competências)-, o que não constato na espécie, notadamente diante dos fundamentos da decisão ora impugnada (fls. 61-62; sem grifos no original):
+"Em que pesem as razões que embasam o manejo do presente writ, não se evidenciam, na espécie, os requisitos autorizadores para o deferimento da liminar. Aliás, conforme acima relatoriado, o que se percebe, em verdade, é que a pretensão do d. causídico é a reforma do decreto condenatório proferido em 09.11.2022, visando alterar o regime inicial de cumprimento de pena, ora fixado no fechado.
+Desnecessárias maiores digressões sobre a questão, eis que, induvidosamente, o presente writ foi manejado em substituição a recurso próprio, justamente em razão da via célere que representa o remédio constitucional em análise, o que não é admitido.
+ ..
+Ademais disso, ao que cabe para o momento, o Juízo "a quo" fundamentou a fixação do regime inicial no fechado em razão da gravidade concreta dos fatos, evidenciada pela quantidade de entorpecente apreendido (mais de vinte quilos de "maconha"), exatamente na esteira do entendimento jurisprudencial do Egrégio Superior Tribunal de Justiça.
+Neste sentido: (AgRg no HC n. 774.815/MG, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 25/10/2022, DJe de 3/11/2022.).
+Assim, o presente não merece ser conhecido, por manejado em substituição a recurso próprio e, de outro giro, vale enfatizar, em análise perfunctória e não exauriente, a ausência, portanto, de patente ilegalidade.
+Pelo exposto, indefiro a liminar."
+Como se vê, ao que parece, a decisão impugnada está em consonância com a orientação desta Corte no sentido de que" m ostra-se, no caso, irrelevante a detração do período deprisão cautelar, nos termos do art. 387, § 2º, do CPP, pela presença decircunstâncias judiciais desfavoráveis. Precedente" (HC 488.301/SP, Rel.Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 23/04/2019, DJe30/04/2019).
+Diante do que registrado acima-em que não se observa, ao menosprimo ictu oculi, nenhuma teratologia-, não há como se reconhecer, de plano, manifesta ilegalidadeque autorize a mitigação da Súmula n. 691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e deste Superior Tribunal de Justiça.
+Destaque-se que, não havendo notícia de que o Tribunal local tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada nowritoriginário, sendo defeso à esta Corte adiantar-se nesse exame, sobrepujando a competência da Corte de origem, mormente se owritestá sendo regularmente processado.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210, do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTROHABEAS CORPUSNA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
