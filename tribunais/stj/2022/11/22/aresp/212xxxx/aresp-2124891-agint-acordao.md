@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por PONT-CAR MULTIMARCAS COMÉRCIO DE AUTOS LTDA - MICROEMPRESA, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Ação: rescisão contratual de alienação fiduciária cumulada com indenização pelo dano material e compensação pelo dano moral, ajuizada por MARIA APARECIDA PEREIRA DA SILVA, em face de PONT-CAR MULTIMARCAS COMÉRCIO DE AUTOS LTDA - MICROEMPRESA e BANCO VOTORANTIM S/A.
+Sentença: julgou procedente o pedido, a fim de declarar rescindido o contrato de compra e venda de veículo e o contrato de financiamento firmado entre a agravada e o BANCO VOTORANTIM S/A. Desta forma, condenou a agravante e o BANCO VOTORANTIM S/A à devolução dos valores pagos pela agravada, mediante a restituição do veículo à agravante, fixando para tanto o prazo de 15 dias, ficando assegurado o direito de regresso entre a PONT-CAR MULTIMARCAS COMÉRCIO DE AUTOS LTDA - MICROEMPRESA e o BANCO VOTORANTIM S/A, bem como condenou PONT-CAR MULTIMARCAS COMÉRCIO DE AUTOS LTDA - MICROEMPRESA à restituição do valor de R$ 2.392,00 à agravada. Por fim, condenou a agravante e o BANCO VOTORANTIM S/A ao pagamento das custas e dos honorários, que foram arbitrados em 10% do valor da condenação.
+Acórdão: negou provimento às Apelações interpostas pela agravante e pelo BANCO VOTORANTIM S/A.
+Embargos de declaração: opostos, pela agravante e pelo BANCO VOTORANTIM S/A, foram rejeitados.
+Decisão monocrática: não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ, nos termos do art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: sustenta a inaplicabilidade do óbice sumular.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL DE ALIENAÇÃO FIDUCIÁRIA CUMULADA COM INDENIZAÇÃO POR DANO MATERIAL E COMPENSAÇÃO POR DANO MORAL. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de rescisão contratual de alienação fiduciária cumulada com indenização por dano material e compensação por dano moral.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por PONT-CAR MULTIMARCAS COMÉRCIO DE AUTOS LTDA - MICROEMPRESA, contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, não conheceu do agravo em recurso especial, porquanto incidente a Súmula 182/STJ.
+Pela análise das razões recursais apresentadas, verifica-se que a agravante não trouxe qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+A agravante se insurge contra a aplicação da Súmula 182/STJ ao caso, sustentando que o óbice sumular não merece prosperar, pois não apenas indicou os dispositivos violados, mas também os fundamentou.
+Malgrado o inconformismo da agravante, mesmo afastando-se a aplicação do óbice sumular 182 desta Corte, é de se observar que razão não lhe assiste, uma vez que em relação ao presente caso incidem os óbices sumulares 5 e 7 desta Corte.
+No ponto, alega a agravante que restou evidenciada a necessidade da dilação probatória e por isso merece ser conhecido e provido o presente recurso, posto que flagrante o cerceamento de defesa, bem como que a agravante teceu fundamentação à Súmula 7 do STJ, posto que, em que pese a alegação de que se trata de exame de prova, não pode prevalecer o entendimento.
+No entanto, a Corte local consignou que, ao revés do asseverado, não há que se falar em cerceamento de defesa ou afronta ao devido processo legal, já que oportuno o julgamento antecipado da lide, pois os elementos constantes nos autos são suficientes para o deslinde da questão.
+Também, entendeu a Corte local que a prova pericial requerida não revelava pertinência "in casu", vez que o automóvel já teria sido consertado (retifica do motor), o que inviabilizava a objetiva aferição do estado em que se encontrava anteriormente (perícia que deveria ter sido realizada no momento em que a agravada se dirigiu à agravante para buscar o conserto, o que não foi feito em virtude de negativa da agravante).
+Além disso, registrou a Corte local que é incontroversa a relação negocial (compra e venda) descrita na inicial, bem como o fato de ter o bem fundido seu motor sem qualquer motivo aparente. Por se tratar de veículo praticamente zero quilômetro, com apenas um ano de fabricação, de fato era obrigação da agravante demonstrar o regular estado do bem no momento da venda, o que não foi feito.
+Ainda, sustentou a Corte local que ao buscar auxílio da agravante, a agravada não recebeu assistência, pelo contrário, houve recusa para avaliar o bem sob o argumento de inexistir garantia contratual. Também não foi entregue para a agravada termo de vistoria cautelar, em afronta ao dever de informação clara e precisa (artigo 31 do Código de Defesa do Consumidor).
+Por fim, observou a Corte local que inafastável a rescisão do contrato de compra e venda firmado entre as partes. E, por serem frustradas as expectativas da agravada, deve também ser rescindido o contrato de financiamento, como prudentemente determinado. Por conseguinte, não prospera a alegação da instituição financeira ao postular a exclusão de sua responsabilidade, ou ao suscitar sua ilegitimidade passiva no feito.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
