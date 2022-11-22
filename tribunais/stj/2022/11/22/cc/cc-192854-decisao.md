@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de conflito de competência entre o JUÍZO DE DIREITO DA VARA ÚNICA DE APIAÍ - SP,ora suscitante, e o JUÍZO DA VARA DO TRABALHO DE CAPÃO BONITO -SP, ora suscitado.
+Consta dos autos que foi proposta ação trabalhista por ARIANEPACHECO CARVALHO,contratada para exercer cargo em comissão, postulando verbas rescisórias no Juízo Laboral, que declarou a incompetência da Justiça Especializada e remeteu os autos para a Justiça Comum (e-STJ fls. 340/343), que suscitou o presente conflito de competência (e-STJ fls. 352/357).
+O Ministério Publico Federal opina pela competência da Justiça Estadual.
+Passo a decidir.
+Nos termos do art. 34, XXII, do Regimento Interno do Superior Tribunal de Justiça, o relator poderá "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, o Supremo Tribunal Federal, quando do julgamento da ADI 3.395-6/DF, suspendeu toda e qualquer interpretação conferida ao inciso I do art. 114 da CF, na redação dada pela EC 45/2004, que inclua na competência da Justiça do Trabalho a "apreciação de causas que sejam instauradas entre o Poder Público e seus servidores, a ele vinculados por típica relação de ordem estatutária ou de caráter jurídico-administrativo".
+Nesse sentido, conferir ainda: Rcl 6.527 AgR-segundo, rel. MinistroLUIZ FUX, Primeira Turma, DJe 16/10/2015, Rcl 7.857 AgR/CE, rel. Ministro DIAS TOFFOLI, Tribunal Pleno, DJe 1º/03/2013.
+Perfilhando aquele posicionamento, esta Corte tem entendido que "o exercício de cargo em comissão, com regular nomeação e posse, atrai a competência da Justiça Comum para julgamento de demanda decorrente dessa relação jurídica" (CC 145.393/ ES, rel. MinistroASSUSETE MAGALHÃES, Primeira Seção, DJe 12/04/2016).
+Nessa linha, foi editada a Súmula 218, que assim prescreve: "Compete à Justiça dos Estados processar e julgar ação de servidor estadual decorrente de direitos e vantagens estatutárias no exercício de cargo em comissão."
+Ocorre que, conforme consta nas razões do Juízo Estadual, "Os agentes públicos do Município de Apiaí, tal como a parte autora, são regidos pela CLT (Consolidação das Leis do Trabalho), não há estatuto dos servidores públicos no referido Município" (e-STJ fls. 343).
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, DECLARO competente o JUÍZO DA VARA DO TRABALHO DE CAPÃO BONITO - SP, ora suscitado.
+Intimem-se. Publique-se.
