@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Agropel Agroindustrial Perazzoli Ltda. em contrariedade à decisão proferida por esta relatoria, assim ementada (e-STJ, fl. 526):
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA DE COBRANÇA CUMULADA COM PERDAS E DANOS EM FASE DE CUMPRIMENTO DE SENTENÇA. O TÍTULO EXECUTIVO JUDICIAL É EXPRESSO EM DESTACAR QUE O VALOR DAS MERCADORIAS TRANSPORTADAS SERIA APURADO COM BASE NOS DOCUMENTOS JUNTADOS NA FASE DE CONHECIMENTO. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7 DO STJ. ALEGAÇÃO DE OFENSA À COISA JULGADA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 534-543), a agravante sustenta, em síntese, que a discussão dos autos consiste em saber se a legislação permite que ocorra a juntada de documentos na fase de liquidação de sentença, a fim de apurar o valor devido.
+Salienta, ademais, a aplicabilidade do art. 320 do CPC/2015 ao presente caso, nos termos da divergência jurisprudencial demonstrada.
+Adverte, no mais, que não incide óbice sumular n. 7 do Superior Tribunal de Justiça.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pela Turma julgadora.
+Impugnação apresentada (e-STJ, fls. 547-560).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA DE COBRANÇA CUMULADA COM PERDAS E DANOS EM FASE DE CUMPRIMENTO DE SENTENÇA. O TÍTULO EXECUTIVO JUDICIAL É EXPRESSO EM DESTACAR QUE O VALOR DAS MERCADORIAS TRANSPORTADAS SERIA APURADO COM BASE NOS DOCUMENTOS JUNTADOS NA FASE DE CONHECIMENTO. REVISÃO DAS CONCLUSÕES DO ACÓRDÃO RECORRIDO. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos da jurisprudência desta Corte Superior, não há como afastar as premissas fáticas e probatórias estabelecidas pelas instâncias ordinárias, soberanas em sua análise, pois, na via estreita do recurso especial, a incursão em tais elementos esbarraria no óbice do enunciado 7 da Súmula do Superior Tribunal de Justiça.
+2. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento, porquanto as razões expendidas são insuficientes para a reconsideração da decisão impugnada.
+No que concerne à possibilidade de juntada de documentos na fase liquidação sentença, o Tribunal de Justiça do Estado de Santa Catarina firmou seu convencimento com base nos seguintes argumentos (e-STJ, fls. 206-208):
+Da análise da sentença proferida na fase de conhecimento do procedimento a quo (fls. 558-576), extraem-se os respectivos fragmentos substanciais:
+"Quanto aos critérios de cálculo da correção monetária e dos juros o magistrado não está vinculado às planilhas fornecidas pela parte autora, como também não necessita, para avaliar a procedência ou não do pedido, do auxílio de perícia. Os cálculos podem ser relegados para a fase de liquidação, e, além disso, há nos autos elementos suficientes para que se possa repelir eventual excesso e apurar concretamente o montante eventualmente devido.
+
+A requerida impugnou os documentos carreados aos autos pela autora face a ausência de autenticação. Manifestando-se sobre a contestação a autora procedeu a autenticação dos documentos, de sorte que sua apelação resta prejudicada. Cumprida a formalidade legal, rejeito a impugnação aos documentos.
+
+E não tendo a requerida produzida qualquer prova material de que tenha pago à Autora as importâncias por ela reclamadas, reconheço a procedência do pedido para condenar a requerida a pagar à autora importância em dinheiro correspondente a 0,25% do valor das maças transportadas pela Autora no período de 01.09.1984 e 30.05.1993. As importâncias a serem pagas deverão ser atualizadas monetariamente, de forma plena, desde a época em que se tornaram devidas, ou seja, desde o dia 10 do mês subsequente ao do transporte, como previa o parágrafo único da cláusula IV do contrato de transporte celebrado pelas partes e que repousa às fls. 31 dos autos, até a data do efetivo pagamento. Da mesma data correrão os juros de mora à taxa de 6% ao ano, igualmente incidente até a sua liquidação. O cálculo da correção monetária deverá considerar como indexador o INPC do IBGE, por se tratar de índice que melhor reflete a inflação do período.
+O valor das mercadorias transportadas, base de incidência do percentual de 0,25% deverá ser apurado com base nos documentos contidos nos autos.
+Os montantes a serem pagos, no tocante ao aspecto disposto acima, serão apurados por simples cálculos aritméticos, em liquidação de sentença, observados os ditames postos na decisão.
+
+Fraiburgo, SC, 12 de Novembro de 2001. (sem sublinhos no original)
+Imperioso ressaltar que não houve qualquer tipo de mudança por conta de recursos interpostos no feito a quo em relação ao ponto da decisão que assentou de forma expressa que o importe das mercadorias seria apurado com base nos documentos contidos nos autos. Portanto, resta evidente que foi dado procedência ao pedido autoral para condenar a requerida a pagar a importância em dinheiro correspondente a 0,25% (zero vírgula vinte e cinco por cento) do valor das maçãs transportadas pela autora no período de 01.09.1984 a 30.05.1993.
+Do mesmo modo, que apenas os documentos contidos nos autos quando da fase de conhecimento do procedimento é que devem servir de base para a apuração do valor das mercadorias.
+E, como se não bastasse, imperioso ressaltar que a decisão de fls. 2139-2142, que concedeu a tutela de urgência para suspender o procedimento expropriatório até o julgamento da impugnação respectiva, reiterou que o valor do título executivo seria apurado com base nos conhecimentos de fretes contidos no processo de conhecimento, renovando aquilo que já havia sido deliberado quando o processo ainda se encontrava em sua fase instrutória.
+Mediante as informações acima colacionadas, observa-se que o colegiado local concluiu que apenas os documentos juntados aos autosna fase de conhecimentoserão utilizadoscomo base para obter a quantia devida.
+Do que se depreende da análise desses fundamentos, estão eles lastreados nos elementos fático-probatórios constantes dos autos. Claro está, portanto, que o Superior Tribunal de Justiça, para chegar a entendimento diverso, no sentido de averiguar a necessidade ou não da juntada dos documentos suscitados, precisaria empreender novo e aprofundado exame desses elementos, mas tal providência é vedada a esta Corte, na via recursal especial, nos termos da Súmula n. 7/STJ.
+Outrossim, a incidência da Súmula n. 7/STJ impossibilita o conhecimento do recurso especial por ambas as alíneas do permissivo constitucional, porquanto não é possível encontrar similitude fática entre o acórdão recorrido e os arestos paradigmas, uma vez que as suas conclusões díspares ocorreram não em virtude de entendimentos diversos sobre uma mesma questão legal, massimde fundamentações baseadas em fatos, provas e circunstâncias específicas de cada processo.
+Desse modo, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
