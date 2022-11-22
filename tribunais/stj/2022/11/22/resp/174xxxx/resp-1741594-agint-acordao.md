@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto por Giovani José Dias da Silva Filho e outrosdesafiando decisões que deramprovimento aos recursos especiaisinterpostos pela União e pelo Detran/PEe condenarama parte ora agravante ao pagamento de honorários advocatícios, então fixados em R$ 15.000,00 (quinze mil reais), com determinação de rateio entre todos os réus da demanda e observância ao disposto no art. 98, § 3º, do CPC, dada a concessão do benefício da justiça gratuita.
+Inconformada, a parte agravante sustenta que a majoração da verba sucumbencial, na espécie,"não se revela razoável na medida em que promoveu um aumento de 750% (setecentos e cinquenta por cento) sobre o valor inicialmente atribuído para essa verba" (fl. 714). Aduz, em acréscimo, que "em nenhum dos recursos dirigidos a essa Corte Superior pelos Agravados consta pedido de majoração recursal e, apesar da possibilidade dessa majoração ser fixada de ofício, o aumento imposto pela decisão não encontra amparo no disposto no § 11º, do Art. 85, do CPC." (fl. 715).
+Requer a reconsideração da decisão agravada ou a submissão do feito ao julgamento colegiado.
+A União apresentou impugnação (fl. 730/731), na qual solicita o não provimento do agravo interno.
+O Detran/PE não apresentou impugnação (fl. 736).
+É o relatório.
+EMENTA
+ADMINSITRATIVO E PROCESSUAL CIVIL.DEMANDA RELACIONADA COM A INEXIGIBILIDADE DE EXAMES TOXICOLÓGICOS PARA A RENOVAÇÃO DE CARTEIRA NACIONAL DE HABILITAÇÃO. CONDUTORES DE TRANSPORTE ESCOLAR. PROVIMENTO DO APELO DA UNIÃO E DO DETRAN/PE. CONDENAÇÃO DOS AUTORES AO PAGAMENTO DE VERBA SUCUMBENCIAL. ARBITRAMENTO EM VALOR RAZOÁVEL E NECESSÁRIO À REMUNERAÇÃO DOS PROCURADORES DOS DEMANDADOS.BENEFÍCIO DA JUSTIÇA GRATUITA. OBSERVÂNCIA.
+1.Na origem, os agravantes ajuizaram ação de procedimento ordinário em desfavor da União e do Departamento Estadual de Trânsito de Pernambuco (DETRAN/PE), com o fim de "determinar a sustação total dos efeitos da exigência de realização do exame toxicológico de larga janela de detecção e permitir a renovação e o recebimento das carteiras nacionais de habilitações - CNH"s, nas categorias "D e E", pelos autores" (fl. 13).
+2. Providos os recursos especiais da União e do DETRAN/PE e julgado improcedente o pedido inicial, cabe a fixação de verba sucumbencial em favor dos demandados, independentemente de pedido nesse sentido, uma vez que a condenação ao pagamento de honorários advocatícios constitui consectário legal da procedência ou da improcedência da demanda.
+3. Não se constataa exorbitância da verba sucumbencial devida pelos agravantes, devendo, ainda, ser observado o disposto no art. 98, § 3º, do CPC, dada a concessão do benefício da justiça gratuita, de modo que a exigibilidade dos honorários ficará suspensa nos próximos 5 anos, desde que não haja modificação na condição de hipossuficiência financeira dos agravantes. Findo esse prazo, extinguir-se-á a obrigação de que se cuida.
+4. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):A irresignação não merece prosperar.
+Na origem, os agravantes Giovani José Dias da Silva Filho e outros ajuizaram ação de procedimento ordinário em desfavor da União e do Departamento Estadual de Trânsito de Pernambuco (DETRAN/PE), com o fim de "determinar a sustação total dos efeitos da exigência de realização do exame toxicológico de larga janela de detecção e permitir a renovação e o recebimento das carteiras nacionais de habilitações - CNH"s, nas categorias "D e E", pelos autores" (fl. 13).
+A sentença de piso julgou procedente o pedido, tendo sido confirmada peloTribunal Regional Federal da 5ª Região.
+Interposto recurso especial pela União e pelo Detran/PE, ambos os apelos foram providos, a fim de julgar improcedente o pedido vestibular, razão pela qual os autores foram condenados à verba sucumbencial,fixadaem R$ 15.000,00 (quinze mil reais), com determinação de rateio entre todos os réus da demanda e observância ao disposto no art. 98, § 3º, do CPC, dada a concessão do benefício da justiça gratuita.
+Nas razões do presente agravo interno, os autores requerem o redimensionamento da verba advocatícia, ao argumento de que não houve pleito dos réus para a majoração da condenação e que o valor arbitrado na decisão ora agravada extrapola os limites previstos no art. 85, § 11, do CPC.
+Sem razão, contudo.
+Primeiramente, não se acolhe o argumento de impossibilidade de majoração dos honorários ante a ausência de pedido da União e do Detran/PE nos respectivos apelos nobres.
+Isso porque a condenação dos autores, ora agravantes, ao pagamento da verba sucumbencial decorre tão somente do julgamento de improcedência, sendo irrelevante a ausência de pedido dos réus no sentido de fixação da referida verba.
+De outro turno, não se verifica, na hipótese, a exorbitância do valor dos honorários advocatícios.
+No caso, a decisão agravada fixou emR$ 15.000,00 (quinze mil reais) a quantia a ser paga pelos ora agravantes em favor dos demandados, sendo R$ 7.500,00 (sete mil e quinhentos reais) para aUnião e o Detran/PE. E, tendo sido formado litisconsórcio ativo por 14 autores, resulta que cada um dos autores arcará com a quantia de R$ 1.071,42 (um mil, setenta e um reais e quarenta e dois centavos).
+Ressalte-se que, além de não se constatar a exorbitância da verba sucumbencial devida pelos agravantes, deve ser observado o disposto noart. 98, § 3º, do CPC, dada a concessão do benefício da justiça gratuita, de modo que a exigibilidade dos honorários ficará suspensa nos próximos 5 anos, desde que não haja modificação na condição hipossuficiência financeira dos agravantes. Findo esse prazo, extinguir-se-á a obrigação de que se cuida.
+De todo modo, não há espaço para a redução do montante estipulado a título de honorários advocatícios, pois a medida resultaria no estabelecimento de remuneração aviltante à profissão dos procuradores dos réus, ora agravados.
+Assim, não há motivos para a reforma da decisão agravada, que deve ser confirmada pelo Colegiado.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto
