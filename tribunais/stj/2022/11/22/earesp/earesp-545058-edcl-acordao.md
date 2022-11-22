@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos contra acórdão quenegou provimento a agravo interno, nos termos da seguinte ementa:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO APRECIOU A CONTROVÉRSIA DE MÉRITO. NÃO CABIMENTO. SÚMULA 315/STJ. OFENSA AO ART. 1.022 DO CPC. NÃO CABIMENTO.
+1. Não cabem embargos de divergência quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação analógica da Súmula 315/STJ.
+2. O exame da alegada violação do artigo 1.022 do CPC depende, via de regra, de uma verificação casuística que não pode ser feita em embargos de divergência.
+3. Agravo interno não provido.
+(fl. 1962)
+Em suas razões recursais, a parte embargante, em síntese, limita-se a repisar os argumentos desenvolvidos nas razões do agravo interno anteriormente interposto.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃONO AGRAVOINTERNO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSOESPECIAL. OMISSÕES. AUSÊNCIA.
+1- Os embargos de declaração objetivam sanar eventual existência deobscuridade, contradição, omissão ou erro material no julgado, sendoinadmissível a oposição para rediscutir questões tratadas e devidamentefundamentadas na decisão embargada, mormente porque não são cabíveispara provocar novo julgamento da lide.
+2- Embargos de declaração rejeitados.
+VOTO
+1. Os embargos de declaração objetivam sanar eventual existência deobscuridade, contradição, omissão ou erro material no julgado (CPC, art. 1022),sendo inadmissível a oposição para rediscutir questões tratadas e devidamentefundamentadas na decisão embargada, mormente porque não são cabíveis paraprovocar novo julgamento da lide.
+2. Na hipótese dos autos, está nítido o propósito da parte embargantede rediscutir temas que foram devidamente apreciados, o que, contudo, não écabível na via estreita dos embargos de declaração. Nesse sentido: EDcl nos EDclnos EDcl no AgRg no AgRg no AREsp 453.117/SP, TERCEIRA TURMA, julgado em16/12/2014, DJe 02/02/2015; EDcl no AgRg no Ag 1.035.101/MS, Quarta Turma,DJe de 28.10.2008; EDcl no AgRg nos EREsp 545.285/RS, Primeira Seção, DJU de1/8/2006.
+3. Com efeito, na espécie, o acórdão embargado,no que interessa ao deslindeda controvérsia, é hialino ao consignar que os embargos de divergência nãodeveriam ser conhecidos, pois: a) não são cabíveisquando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal; e b) oexame da violação do artigo 1.022 do CPC depende, via de regra, de uma verificação casuística que não pode ser feita em embargos de divergência.
+4. Os vícios a que se refere o artigo 1.022 do CPC são aqueles querecaem sobre ponto que deveria ter sido decidido e não o foi, e não sobre osargumentos utilizados pelas partes, sendo certo que não há falar em omissãosimplesmente pelo fato de as alegações deduzidas não terem sido acolhidas peloórgão julgador. A propósito: AgRg no AREsp 37.045/GO, QUARTA TURMA, julgadoem 5/3/2013, DJe 12/3/2013; AgInt no AREsp 1043856/SP, TERCEIRA TURMA,julgado em 12/09/2017, DJe 15/09/2017; REsp 1649296/PE, SEGUNDA TURMA,julgado em 05/09/2017, DJe 14/09/2017.
+5. Deve-se ressaltar que "se os fundamentos do acórdão recorrido nãose mostram suficientes ou corretos na opinião do recorrente, não quer dizer queeles não existam. Não se pode confundir ausência de motivação comfundamentação contrária aos interesses da parte" (AgRg no Ag 56.745/SP, DJ de12.12.1994). No mesmo sentido: REsp 209.345/SC, SEGUNDA TURMA, julgado em05/04/2005, DJ 16/05/2005, p. 278; REsp 685.168/RS, PRIMEIRA TURMA, julgadoem 17/02/2005, DJ 02/05/2005, p. 214.
+6. Ademais, importa consignar que esta Corte Superior perfilha oentendimento de que não se justifica a anulação do julgamento nas hipóteses emque se alega omissão relativa a questão irrelevante ao deslinde da controvérsia.Com efeito, "a função judicial é prática, só lhe importando as teses discutidas noprocesso enquanto necessárias ao julgamento da causa" (EDcl no REsp 15.450/SP,SEGUNDA TURMA, DJ de 6/5/1996). A propósito: EDcl no AgRg na MC 19.811/SP,QUARTA TURMA, julgado em 13/11/2012, DJe 22/11/2012; AgInt no AREsp1547703/SP, QUARTA TURMA, julgado em 26/11/2019, DJe 19/12/2019.
+7. É evidente, pois, a ausência de omissões, contradições, obscuridades ou erro materialaptos a amparar a oposiçãodos presentes aclaratórios na hipótese.
+Forte nessas razões, rejeito os embargos de declaração.
