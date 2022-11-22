@@ -1,0 +1,51 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental e conceder habeas corpus, de ofício, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Laurita Vaz e os Srs. Ministros Rogerio Schietti Cruz e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por ALEXANDRE AVELAR FRANCO DA ROSA contra decisão da Presidência desta Corte que não conheceu do agravo em recurso especial, em virtude da incidência da Súmula n. 182/STJ.
+Nas razões recursais, o agravante alega que, "em boa síntese, a matéria afeta à dosimetria da pena, por óbvio, engloba, envolve, absorve, recolhe, reúne em um todo vários temas, dentre eles, a questão da alteração do regime inicial de cumprimento de pena, cuja farta jurisprudência desse Colendo SUPERIOR TRIBUNAL DE JUSTIÇA foi citada, a demonstrar, finalmente, que houve impugnação à decisão agravada, exarada pelo i. Desembargador, 3º Vice-presidente do E. TJMG, que impediu o prosseguimento do RECURSO ESPECIAL" (e-STJ fl. 1.668).
+Ademais, afirma que "está patente que o r. Acordão o quo e a decisão agravada violam expressos dispositivos de Leis Federais e se desconectam dos preceitos jurisprudenciais atualizados desse Colendo SUPERIOR TRIBUNAL DE JUSTIÇA. E, caso seja mantida tal situação, permanecerá, a eternizar-se, o insuperável prejuízo ao Agravante, obrigado a suportar uma condenação a pena privativa de liberdade de 5 anos e 4 meses de reclusão, em regime semiaberto, pela prática de uma simples infração administrativa, transformada em crime pelas instâncias mineiras"(e-STJ fl. 1.680).
+Requer, assim, a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. DOSIMETRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE FUNDAMENTO DA DECISÃO QUE INADMITIU O APELO RARO. INCIDÊNCIA DA SÚMULA N. 182/STJ. FLAGRANTE ILEGALIDADE. AUMENTO DA PENA-BASE. AUSÊNCIA DE FUNDAMENTAÇÃO.CONCESSÃO DE HABEAS CORPUS DE OFÍCIO.
+1. Não havendo impugnação específica de fundamento da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+2. Todavia, verifica-seflagrante ilegalidade na dosimetria da pena, quanto ao aumento da pena-base, a atrair a concessão de habeas corpus de ofício.
+3. De fato,o aumento pela culpabilidade do agente não está devidamente justificado, porquanto os argumentos apresentados pela instância ordinária, de que a conduta seria mais reprovável em virtude de o réu ter usado o cargo de delegado de polícia para obter vantagem indevida e ter deixado de praticar ato de ofício, evidenciam características ínsitas ao crime de corrupção passiva.Outrossim,quanto àscircunstâncias do delito, tratando-se o réu de um delegado de polícia, não é incomum a práticado crime no interior dadelegacia.Assim,a reprimenda deve ser reduzida para2 anos e 8 meses de reclusão.
+4.Outrossim, nos moldes determinados pelo art. 33, § 2º, do Código Penal, tendo em vista o quantum de pena, a primariedade do réu e a integral favorabilidade das circunstâncias judiciais, o regime inicial deve ser o aberto, além de ser cabível asubstituição da pena.
+5.Agravo regimental desprovido.Concessão da ordem, de ofício, de redução da reprimenda, do regime inicial aberto e da substituição da pena.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar.
+É que, de fato, o ora agravante deixou de infirmar especificamente o fundamento da decisão que não admitiu o recurso especial de que o acórdão recorrido estaria em consonância com a jurisprudência desteSuperior Tribunal de Justiça, porquea pena em patamar superior a quatro e inferior a oito anosatrai o regimesemiaberto e impossibilita a substituição da pena corporal por restritivas de direitos(e-STJ fls. 1.597/1.598).
+Desse modo, não havendo impugnação específica acerca de fundamento da decisão de inadmissibilidade do apelo raro, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+É digno de nota que não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou a insistência no mérito da controvérsia.
+Nesse sentido, confira-se:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Embargos de declaração opostos com caráter infringente, que devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. Nos termos da Súmula 182 do STJ, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+3. Não tendo decorrido lapso temporal superior a 4 anos, entre os marcos temporais interruptivos, não há falar-se em prescrição da pretensão punitiva.
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no AREsp 614.968/SP, Rel. Ministro NEFI CORDEIRO, DJe 29/2/2016, grifei.)
+Outrossim, verifico flagrante ilegalidade na dosimetria da pena, a atrair a concessão de habeas corpus de ofício.
+De fato, na espécie, entendo que o aumento pela negativaçãodaculpabilidade do agente e das circunstâncias do delitonão está devidamente justificado. Senão vejamos.
+Estes os argumentos apresentados pelo Tribunal de origem para desfavorecer tais vetores(e-STJ fls. 1.122/1.123):
+"(..) ultrapassou aquela inerente ao próprio tipo penal, pois o réu, na condição de Delegado de Polícia Civil, usou de seu cargo para obter vantagem indevida, principalmente por utilizar o pretexto do arbitramento da fiança para liberar uma pessoa presa em flagrante de forma regular. Ademais, sua conduta merece ainda maior reprovabilidade, pois afunção de Delegado é de extrema importância para o combate ao crime, sendo inadmissível condutas como a que se encontra narrada nos autos. Ademais, o réu acompanhou o então autuado João Batista, já de madrugada, até a agência bancária, afim de receber naquele momento o valor indevido. Para tanto, utilizou uma viatura policial e um policial civil. A agência estava fechada e não foi possível retirar o dinheiro. Então, o réu anotou seus dados bancários e solicitou ao autuado, retendo-lhe seus documentos, que efetuasse o depósito da "fiança" em sua conta. O valor foi depositado na conta bancária do réu, que por sua vez, lavrou despacho de não ratificação do flagrante, quando todos os elementos indicavam conduta profissional diversa. Tais circunstâncias, de tamanha gravidade, serão valoradas em desfavor do réu. (..)
+ ..
+Ao meu sentir, as circunstâncias em que foram praticados os atos, de fato, são desfavoráveis ao acusado, haja vista que, conforme asseverado pelo juízo primevo, "o crime foi cometido dentro da Delegacia de Polícia, local que deve ser usado para combater a criminalidade e não para fomentá-lo".
+Inicialmente, para avaliação da culpabilidade, "deve-se aferir o maior ou menor índice de reprovabilidade do agente pelo fato criminoso praticado, não só em razão de suas condições pessoais, como também em vista da situação de fato em que ocorreu a indigitada prática delituosa, sempre levando em conta a conduta que era exigível do agente, na situação em que o fato ocorreu" (DELMANTO, Celso et al. Código Penal Comentado. 8. ed. São Paulo: Saraiva, 2010, p. 273).
+Assim, entendo que o aumento pela culpabilidade não está devidamente justificado, porquanto os argumentos apresentados pela instância ordinária, de que a conduta seria mais reprovável em virtude deo réu ter usado o cargo de delegado de polícia para obter vantagem indevida e ter deixado de praticar ato de ofício,evidenciam características ínsitas ao crime de corrupção passiva.
+Ainda, quanto à circunstâncias do delito, imperioso ao julgador apreciar, com base em fatos concretos, o lugar do crime, o tempo de sua duração, a atitude assumida pelo agente no decorrer da consumação da infração penal, a mecânica delitiva empregada, entre outros elementos indicativos de uma maior censurabilidade da conduta.
+Isso aqui não ocorreu.
+Reparem: ao citar como motivos para desfavorecer aquele vetorial, o Tribunal a quo relatou queo crime foi praticado no interior da Delegacia de Polícia. Todavia, se o crime de corrupção passiva foi cometido por um delegado de polícia, a delegacia me parece ser local comum ao abrigo da conduta criminosa. Parece-me, portanto, insuficientemente fundamentado o aumento operado na origem.
+Assim, passo ao redimensionamento da reprimenda.
+Mantenho a pena básica no mínimo legal de 2anos de reclusão.
+Ausentes atenuantes ou agravantes.
+Na terceira etapa, reconhecida a causa de aumento prevista no § 1º do art. 317 do Código Penal, aplico a fração de 1/3, o que resulta na pena de 2anos e 8 meses de reclusão, a qual torno definitiva em virtude da ausência de outras causas de aumento ou diminuição.
+Outrossim,nos moldes determinados pelo art. 33, § 2º, do Código Penal, tendo em vista o quantum de pena, a integral favorabilidade das circunstâncias judiciais, o regimeinicial deve ser o aberto, queconcedode ofício.
+Por fim, vejo que o paciente também faz jus à substituição da pena, notadamente porque as circunstâncias judiciais foram consideradas totalmente favoráveis efoi evidenciada a primariedade. A benesse também vai concedida de ofício.
+Ante o exposto, nego provimento ao agravo regimental.Concedo, todavia, habeas corpus de ofício com o fim de reduzir a reprimenda do recorrente para 2anos e 8 meses de reclusão, de fixar o regime inicial aberto e de substituir a pena por restritivas de direitos a serem definidas pelo Juízo das Execuções, nos termos ora delineados.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
