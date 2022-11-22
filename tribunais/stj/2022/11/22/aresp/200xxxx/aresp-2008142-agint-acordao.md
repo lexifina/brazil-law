@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Jorge Mussi, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo interno interposto por ARLINDO DOS SANTOS contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 3.043):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
+A parte agravante sustentaa violação dos arts. 5º, XXXV,e 93, IX, da Constituição Federal, aduzindo que a hipótese não seriade incidência do óbice dos Temas n. 339 e181 do STF.
+Afirma que (fl. 3.057):
+ ..  no presente caso, não há fundamentação, ainda que de forma sucinta. Há, em verdade, patente omissão por parte desta e. Corte, o que, data vênia, é constitucionalmente vedado. Isto é, não se admite, por lei, a simples reprodução de termos legais, motivos genéricos que se aplique a qualquer caso, tampouco que se invoque enunciados sumulares sem demonstrar que se ajusta ao caso sob julgamento.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 3.067-3.085.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. AUSÊNCIA DE REPERCUSSÃO GERAL. TEMA N. 181/STF. DESPROVIMENTO DO AGRAVO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema n. 339/STF).
+2. A insurgência quanto ao preenchimento dos pressupostos de admissibilidade de recurso de competência do Superior Tribunal de Justiça tem natureza infraconstitucional, sem repercussão geral (Tema n. 181/STF).
+3. Agravo internoa que se nega provimento.
+VOTO
+O STF, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+A conclusão mencionada ficou sedimentada sob o regime da repercussão geral pela Suprema Corte, no Tema n. 339/STF, segundo o qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do arestoparadigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+No caso, constata-se que foram declinadas as razões pelas quaisfoi negado provimento ao agravo interno, valendo destacar o seguinte excerto (fl. 2.965):
+A decisão agravada não conheceu do agravo em recurso especial ante a incidência da Súmula 182/STJ, haja vista que, naquele recurso, não foram impugnados todos os fundamentos utilizados pelo TJ/RJ para negar seguimento ao recurso especial.
+Examinando-se os autos, verifica-se que o Tribunal de origem, nos termos da decisão de fls. 2.688/2.690 (e-STJ) negou seguimento ao recurso especial diante da não demonstração de violação do art. 1.022 do CPC/15 e da incidência da Súmula 7/STJ.
+Todavia, nas razões do agravo em recurso especial (e-STJ, fls. 2.711/2.805), o agravante, limitando-se a reiterar - de forma literal - as razões apresentadas quando da interposição do recurso especial, não impugnou, de forma consistente, o seguinte óbice: incidência da Súmula 7/STJ.
+Em relação à Súmula 7/STJ, urge salientar que é firme o entendimento desta Corte no sentido de que, inadmitido o recurso especial pela aplicação do referido enunciado, incumbiria às partes interessadas demonstrar, de forma específica e consistente, a desnecessidade de revolvimento do contexto fático-probatório dos autos para a análise da insurgência pretendida, o quê não se observa na hipótese (em que o agravante replica os argumentos já suscitados em suas peças recursais pretéritas). Nesse sentir: AgInt no AREsp 600.416/MG (2ª Turma, DJe de 18/11/2016) e AgInt no AREsp 1.671.863/SP (3ª Turma, DJe 17/09/2020).
+Desse modo, nos termos da Súmula 182/STJ, mostra-se correto o não conhecimento do agravo em recurso especial, tendo em vista a ausência de impugnação específica de todos os fundamentos contidos na decisão agravada.
+Da mesma maneira, foram apresentados os fundamentos para a rejeição dos embargos de declaração opostos na sequência (fls. 3.001-3.002):
+As questões suscitadas pelo embargante não constituem ponto obscuro, contraditório ou omisso do julgado, mas mero inconformismo com os fundamentos adotados no acórdão embargado. Com efeito, o acórdão embargado, de forma clara e congruente, negou provimento ao agravo interno, de forma a manter a decisão unipessoal de fls. 2.869/2.870 que não conheceu do agravo em recurso especial, tendo em vista a incidência da Súmula182/STJ. Veja-se, in litteris (e-STJ, fl. 2.965):
+A decisão agravada não conheceu do agravo em recurso especial ante a incidência da Súmula 182/STJ, haja vista que, naquele recurso, não foram impugnados todos os fundamentos utilizados pelo TJ/RJ para negar seguimento ao recurso especial.
+Examinando-se os autos, verifica-se que o Tribunal de origem, nos termos da decisão de fls. 2.688/2.690 (e-STJ) negou seguimento ao recurso especial diante da não demonstração de violação do art. 1.022 do CPC/15 e da incidência da Súmula 7/STJ.
+Todavia, nas razões do agravo em recurso especial (e-STJ, fls. 2.711/2.805), o agravante, limitando-se a reiterar - de forma literal - as razões apresentadas quando da interposição do recurso especial, não impugnou, de forma consistente, o seguinte óbice: incidência da Súmula 7/STJ.
+ ..
+Ressalte-se que a aplicação da Súmula 182/STJ ocorre quando não há a impugnação específica de todos os fundamentos constantes na decisão recorrida.Na hipótese dos autos, não houve a devida impugnação do seguinte fundamento: incidência daSúmula 7/STJ.
+Imperioso frisar que os embargos de declaração se destinam a afastar eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa (EDcl no AgInt no REsp 1.809.346/AL, 3ª Turma, DJe 25/06/2020; EDcl no AgInt no REsp 1.303.182/DF, 4ª Turma, DJe 21/11/2019; EDcl no REsp 1.761.119/SP, Corte Especial, DJe 12/11/2019).
+Assim, dissociado os pleitos de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão declinada, impondo-se, então, a rejeição dos embargos de declaração.
+Por outro lado, no RE n. 598.365-RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema n. 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL.
+A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE n. 598.365-RG, relator Ministro Ayres Britto, Tribunal Pleno, julgado em 14/8/2009, DJe de 26/3/2010.)
+No caso, verifica-se que o acórdão objeto do recurso extraordinárionegou provimento ao agravo interno, mantendo a decisão monocrática que não conheceu do agravo em recurso especial em razão da incidência da Súmula n.182/STJ.
+Desse modo, não tendo o julgado recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema n. 181/STF, sendo inviável a análise da violação constitucional apontada no recurso extraordinário.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
