@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração nos embargos de declaração opostos por Francisco Carlos Machado da Ponte contra decisão assim ementada (fls. 3004/3005):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+Aduz, em síntese, quenão houve pronunciamento judicial sobre a demonstração de que houve alteração do entendimento dominante no STF sobre o tema da viabilidade ou não do "destaque dos honorários contratuais advocatícios em precatórios expedidos nas ações de cobrança da diferença da complementação do VMAA do FUNDEF" e requer que seja dado efeito infringente para afastar o óbice daSúmula n. 283/STF.
+Com impugnação.
+É o relatório. Decido.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie,o decisum embargado reiterou que a controvérsia teve o seguinte fundamento: "consonância do Tribunal de origem com o entendimento firmado pela Primeira Seção desta Corte Superior no sentido de inadmitir a retenção de honorários advocatícios em favor dos patronos do Município recorrido de verbas relativas à complementação do Valor Mínimo Anual por Aluno (VMAA), submetido às regras do FUNDEF, conforme o julgamento proferido no REsp 1.703.697/PE, em 10/10/2018, que alterou a compreensão firmada de que seria legítima a retenção da verba honorária. Ressaltou, também, que no referido julgado, estabeleceu-se que os recursos do FUNDEF/FUNDEB encontram-se constitucional e legalmente vinculados a uma destinação específica, sendo vedada a sua utilização em despesa diversa da manutenção e desenvolvimento da educação básica, sendo inaplicável a regra do art. 22, § 4º, da Lei n. 8.906/1994 na hipótese".
+Ademais, oSTFno julgamento da ADPF 528 reconheceu a inconstitucionalidade do pagamento de honorários contratuais com recursos doFUNDEB,com a ressalva de que, dada a autonomia da parcela relativa aos juros de mora, o pagamento de honorários advocatícios contratuais pelos Municípios valendo-se tão somente da verba correspondente aos juros moratórios incidentes no valor do precatório devido pela União é constitucional.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
