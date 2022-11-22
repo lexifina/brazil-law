@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 357):
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. AUSÊNCIA DE PREQUESTIONAMENTO.SÚMULA282/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+A agravante alega que "no acórdão do Tribunal a quo há apreciação e debate quanto ao direito à saúde entabulado nos arts. 2º, § 1º, art. 6º, I, "d", e art. 7º, I e II, todos da Lei nº. 8.080/1990" (fl. 368).
+Defende, nesse sentido, que a Corte de origem, "ao negar determinar o tratamento requerido, mantendo a recorrente em uma fila de espera ineficiente e que lesa o direito à saúde, afasta previsão do campo de atuação do Sistema Único de Saúde em exercer as ações de assistência terapêutica integral decorrente do art. 6º, I, "d" da Lei 8.080/1990.  .. Em que pese ter passado mais de 10 anos do trauma (2012 - 2022), ainda não foi realizado o procedimento cirúrgico de ARTROSCOPIA.Conduta omissiva evidentemente contrária aos preceitos legais previstos na Lei 8.080/90" (fl. 357).
+Sustenta o prequestionamento implícito da matéria, reconhecido pela jurisprudência, que dispensa o prequestionamento explícito dos dispositivos legais tidos por violados.
+Ao fim, reitera as razões de seu apelo especial e requer a reconsideração do decisum agravado ou sua submissão ao colegiado.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA282/STF.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Dito isso, observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Com efeito, o prequestionamento é requisito previsto no inciso III do artigo 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+Ao solucionar a controvérsia, o Tribunal local limitou-se a assentarque (fls. 230-231):
+ ..
+Na ficha de encaminhamento, Referência, contra-referência e compensação atendida pelo Ortopedista/traumatolgista , CRM9005, Dr. Gilton Santos Anjos Filho, o mesmo menciona a necessidade da realização de artroscopia, isso em novembro de 2015.
+Pois bem. A documentação não deixa dúvida alguma quanto a necessidade da realização da cirurgia, no entanto, também inexiste nos autos qualquer indicação de urgência, ou laudo que comprove o agravamento da lesão em decorrência da espera para realização do procedimento.
+A simples demora na realização do procedimento vindicado, sem que isso venha lhe causando o agravamento da saúde, o que justificaria a determinação da realização do procedimento na frente dos que aguardam a mesma providência, à luz dos princípio da isonomia não pode ser atendida prioritariamente em detrimento de outros que se encontram em situação semelhante.
+ ..
+Quanto à ofensa à teoria da reserva do possível, a impossibilidade de controle judicial sobre políticas públicas e exorbitância das astreintes, acolhida a primeira tese apresentada pelo Estado, ficam as demais prejudicadas em decorrência da alteração substanciosa que a reforma da sentença alcança.
+Destarte, pelos argumentos acima expostos, dou provimento ao recurso do ente Estatal para reformar a sentença de piso e julgar improcedentes os pedidos da inicial.
+ ..
+Ao que se vê, a Corte de origem, de fato, não apreciou nem debateu a controvérsia acerca da suposta violação dos arts. 2º, § 1º, art. 6º, I, "d", e art. 7º, I e II, todos da Lei nº. 8.080/1990 e das teses a eles vinculadas, sendo elas:a) "o Tribunal de Justiça inobservou dispositivos da Lei nº 8.080/1990, que dispõe sobre as condições para a promoção, proteção e recuperação da saúde, a organização e o funcionamento dos serviços correspondentes e dá outras providências"; b) "o Recorrente foi incluído na fila de cirurgia em dezembro de 2015, logo, até o presente momento encontra-se cerca de dois anos e meio na fila de espera, aguardado sem uma resposta efetiva por parte do ente estatal"; c) "em que pesa o Tribunal de Justiça do Tocantins ter destacado a urgência do caso da Recorrente, com destaque na documentação médica acostada, decidiu no sentido de que ele deveria aguardar o andamento da fila"; d) "demonstrou-se que a fila organizada pelo Estado do Tocantins não apresenta critérios técnicos, pois apenas insere a listagem por critério cronológico da data do pedido, de modo que não se vislumbra as prioridades calcadas em critérios técnico-científicos. Além disso, a suposta fila não acompanha data estimada da realização do procedimento, razõ es pelas quais não se pode considerar como fila de espera por não se consubstanciar em política pública de saúde"; e) "os laudos médicos são conclusivos quanto ao caráter do procedimento cirúrgico em espeque, denotando que a espera apenas agrava a situação da Recorrente, vez que seu quadro médico piorou, pois em decorrência do lapso temporal, a Recorrente sofre com dores crônicas em razãoda Artroscopia no Joelho, que sem o devido tratamento ortopédico, a patologia evoluiu para lesão ligamentar e de menisco medial e lateral".
+Contra o julgado, a parte não opôs os competentes aclaratórios com o intuito de instar a Corte a apreciar a controvérsia à luz dos aludidos dispositivos de lei federal e das teses que ora sustentam sua irresignação recursal.
+Também não há que se falar em prequestionamento implícito, na medida em que esse pressupõe a "manifestação expressa do tribunal de origem sobre a tese trazida no recurso especial, a despeito da não indicação explícita dos dispositivos legais em que se fundou a decisão recorrida" (AgInt no AgInt no AREsp 1339494/RS, Rel. Ministra Regina Helena Costa, Primeira Turma,DJe 23/3/2020). Contudo, tal circunstância não se mostra presente.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 282/STF, nos termos dos fundamentos supra.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
