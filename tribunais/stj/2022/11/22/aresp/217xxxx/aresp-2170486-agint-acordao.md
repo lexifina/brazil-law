@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+PORTO SEGURO COMPANHIA DE SEGUROS GERAIS ajuizou açãoregressiva de reparação de danoscontra SUELI SUGUIE TANAKA KAWAHARA (SUELI) alegando, em síntese, (a)que firmou contrato de seguro com Jaborgraf Artefatos de Couro, pelo qual se obrigara a reparar danos que viessem a ocorrer com o Fiat Ducato Furgão, placaDTD-0059, o qual, em 11/12/2019,foi abalroado na parte dianteira pelo veículo VW Fox, placaFGZ-2828, conduzido pela ré, que não observou o semáforo; e (b)queo acidentecausou danos materiais, tendo que indenizar o proprietário do Furgãona importância, descontada a franquia, no valor total de R$ 12.038,93 (doze mil,trinta e oito reais e noventa e três centavos).
+Em primeira instância, o pedido foi julgado procedente para condenar a ré SUELI no ressarcimento da quantia deR$ 12.038,93 (doze mil,trinta e oito reais e noventa e três centavos), bem como nas custas processuais e honorários advocatícios fixados em 10% sobre o valor atualizado da condenação(e-STJ, fls. 104/111).
+O Tribunal de Justiça de São Paulo negou provimento ao recurso de apelação interposto por SUELI nos termos doacórdão relatado pelo Des. ALFREDO ATTIÉ,assim ementado:
+SEGURO FACULTATIVO VEICULAR. AÇÃO REGRESSIVA. Sentença de procedência mantida.Cerceamento de defesa não verificado. Ré que, por um lado, no Boletim de Ocorrência, assumiu a culpa pelo acidente, narrando que cruzou via com sinal fechado, mas, por outro lado, em contestação, aduz o contrário, isto é, que o sinal estava aberto, imputando ao segurado a culpa pelo acidente.
+Alteração de versão que, por si só, não é vedada pelo Código de Processo Civil, mas exige da parte, ao formular a pretensão probatória, justificativa concreta, inexistente no caso. Violação à boa-fé objetiva (art. 5º do CPC/2015) e correto indeferimento da pretensão probatória, nos termos do art. 370, parágrafo único, do CPC/2015.
+RECURSO NÃO PROVIDO(e-STJ, fl. 146).
+Os embargos de declaração opostos por SUELI foram rejeitados (e-STJ, fls. 172/175).
+Inconformada, SUELIinterpôs recurso especial com fulcro no art. 105, III, a, da CF, sustentando, em síntese, a ocorrência de cerceamento de defesa, ante o julgamento antecipado da lide.
+Em juízo de admissibilidade, a presidência da Seção de Direito Privado do TJSP inadmitiu o apelo nobre com fundamento naincidência daSúmulan.º7do STJ (e-STJ, fls. 210/211).
+Em decisão monocrática, o Ministro Presidente do STJ, relator, nãoconheceu do agravo em recurso especial que se seguiu, com amparo no art. 21-E, V, c/c 253, parágrafo único, I, do RISTJ, porque não foi atacadoespecificamente ofundamentoda decisão agravadaquanto àincidência da Súmula n.º 7do STJ (e-STJ, fls. 248/250).
+Nas razões dopresente agravo interno, SUELI limitou-se a repisar, ipsis literis, as razões do recurso especial para defender a ocorrência de cerceamento de defesa(e-STJ, fls. 253/271).
+Foi apresentada impugnação (e-STJ, fls. 275/279).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA N.º 182 DO STJ. NÃO SE CONHECEU DO AGRAVO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o entendimento de que o agravo em recurso especial anteriormente interposto não rebateu o fundamento da decisão de inadmissibilidade quanto à incidência da Súmula n.º 7 do STJ. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula n.º 182 do STJ.
+3. Considerando a manifesta inadmissibilidade do presente agravo interno, bem como a aplicabilidade das normas do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 1% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+4. Não se conheceu do agravo interno.
+VOTO
+O recurso não merece conhecimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Incide ao caso a Súmula n.º 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmou o entendimento de que o agravo em recurso especial anteriormente interposto não rebateu o fundamento da decisão de inadmissibilidade quanto àincidência da Súmula n.º 7 do STJ.
+Isso porque, nas razões do presente agravo interno, SUELIlimitou-se a repisar, ipsis literis, as razões do recurso especial para defender a ocorrência de cerceamento de defesa.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008 - sem destaque no original)
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula n.º 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973, quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, citou conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator que a ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo (EARESP 746.775/PR).
+Em igual sentido, vejam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+ ..
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 825.386/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, j. 17/5/2016, DJe 27/5/2016 - sem destaques no original)
+Assim, porque os argumentos que SUELI trouxe não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula n.º 182 desta Corte.
+Nessas condições, NÃO CONHEÇO do agravo interno.
+É o voto.
