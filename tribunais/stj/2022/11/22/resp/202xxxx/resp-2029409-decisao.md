@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULO FARIA PIREScom fundamento naalínea"a" do inciso III do art. 105 da Constituição Federal, em face de acórdão assim ementado (e-STJ, fls. 655-656):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO POR DANOS CAUSADOS EM ACIDENTE DE VEÍCULO - PRELIMINAR DE INOVAÇÃO RECURSAL/SUPRESSÃO DE INSTÂNCIA - AFASTADA - MÉRITO - SEGURO DE VEÍCULO - COLISÃO POR CONDUTOR EMBRIAGADO - RECUSA DE PAGAMENTO DE INDENIZAÇÃO SECURITÁRIA - EMBRIAGUEZ DETERMINANTE PARA O ACIDENTE - AGRAVAMENTO DO RISCO - INTELIGÊNCIA DO ART. 768 DO CC/02 - PERDA DO DIREITO À INDENIZAÇÃO - NÃO INCIDÊNCIA DO TEOR DA SÚMULA N. 620 DO STJ - CLÁUSULAS CONTRATUAIS CLARAS - PRETENSÃO DE ARBITRAMENTO DE HONORÁRIOS DE SUCUMBÊNCIA EM VALOR FIXO - IMPERTINENTE - VALOR FIXADO DENTRO DOS PARÂMETROS LEGAIS - SENTENÇA MANTIDA - PREQUESTIONAMENTO DE ARTIGOS DE LEI - DESNECESSIDADE - RECURSO CONHECIDO E NÃO PROVIDO.
+I - A apresentação de tese ou argumentação somente na apelação configura inovação recursal e o seu conhecimento caracteriza supressão de instância. Todavia, na hipótese, não restou configurada a alegada inovação/supressão de instância.
+II - Se o(a) condutor(a) do veículo sinistrado ingeriu bebida alcoólica antes do acidente, tendo perdido o controle, vindo a chocar-se contra a mureta de concreto existente no local, aumentou inequivocamente os riscos do sinistro, infringindo o disposto no artigo 768 do CC/02, além das cláusulas contratuais expressas.
+III - O STJ firmou entendimento no sentido de que, comprovado o estado de embriaguez do(a) condutor(a) do veículo, há a presunção do agravamento do risco - que somente poderá ser afastada caso o(a) segurado(a) demonstre que o infortúnio ocorreria independentemente do estado de embriaguez.
+IV - De acordo com o art. 768 do Código Civil,"o segurado perderáo direito à garantia se agravar intencionalmente o risco objeto do contrato".
+V - A súmula n. 620 do STJ ("a embriaguez do segurado não eximea seguradora do pagamento da indenização prevista em contrato de seguro de vida") não se aplica aos contratos de seguro veicular.
+VI - Os honorários advocatícios devem ser fixados entre o mínimo de 10% (dez por cento) e o máximo de 20% (vinte por cento) sobre o valor da causa, observadas as circunstâncias previstas nas alíneas do § 2º do artigo 85 do CPC/15. Levando-se em consideração as diretrizes mencionadas, o valor fixado na origemencontra-se justo e razoável.
+VII - Se a questão foi suficientemente debatida, não se faz necessária a expressa manifestação sobre os dispositivos legais mencionados pela parte recorrida.
+Nas razões do especial, aponta o recorrente violação dos artigos 757 e 768 do Código Civil; argumentando, em suma, que o depoimento policial não configura prova irrefutável da embriaguez, para o fim de justificar a exclusão da cobertura de seguro, por agravamento de risco.
+Contrarrazões às fls. 707-723 (e-STJ).
+O recurso especial foi admitido, conforme decisão de fls. 736-738 (e-STJ).
+Assim delimitada a controvérsia, passo a decidir.
+No caso, observo que o Tribunal de origem consignou que a prova da embriaguez decorre de declaração do próprio segurado, que teria reconhecido a ingestão de bebida alcóolica, durante a abordagem policial.
+Além disso, é pressupostaa causalidade direta entre o estado de alcoolemia e o acidente, conforme se extrai da seguinte passagem do acórdão recorrido (e-STJ, fls. 660-662):
+Compulsando minuciosamente o caderno processual, resta evidenciado, pelo conjunto probatório produzido, que o acidente noticiado foi causado pela condutora do veículo segurado (filha do recorrente/beneficiário). Por sua vez, o registro de ocorrência de f. 303-310, foi categórico em afirmar a prática das seguintes infrações: "dirigir sob a influência de álcool" e "conduzir o veículo sem os documentos de porte obrigatório referidos no CTB". Outrossim, no relato policial, devidamente assinado pela própria motorista, consta que a condutora afirmou ter ingerido bebida alcoólica.
+ ..
+Logo, com a ingestão de bebida alcoólica antes da colisão, tem-se que a condutora aumentou inequivocamente os riscos do sinistro, infringindo o disposto no contrato de seguro, notadamente o contido nos itens "Riscos Excluídos Especificamente no Seguro do Veículo" e "Perda de Direitos" (f. 134-135 e 138)  ..
+Se não fosse apenas isto, de acordo com a dinâmica do acidente, mostra-se muito claro que o estado de embriaguez contribuiu para a ocorrência do acidente, pois são notórias as consequências geradas no organismo em virtude do consumo de bebida alcoólica. (grifo acrescido)
+Como se vê do trecho acima reproduzido, o Tribunal de origem pressupõe a comprovação do estado de alcoolemia pela seguradora, o que, comprovado, enseja a presunção relativa de que o risco da sinistralidade foi agravado.
+O segurado, por sua vez, não comprovou que o sinistro ocorreria independentemente da embriaguez.
+Desse modo, o acolhimento da pretensão do recorrente, a fim de reconhecerque a alcoolemia não teria sido o fator preponderante para o infortúnio, demandaria a revisão de fatos e provas, o que encontra óbice na Súmula 7/STJ.
+Em face do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os
+limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
