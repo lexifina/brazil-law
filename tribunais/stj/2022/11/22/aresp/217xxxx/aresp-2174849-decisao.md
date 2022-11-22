@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de agravo interposto por Marilene Guardia contra a decisão de fls. 964-967 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 788-798 e 808-817 (e-STJ), prolatados pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+APELAÇÕES CÍVEIS - Interposições contra sentença que julgou parcialmente procedentes os pedidos formulados na ação declaratória de nulidade contratual c. c. indenização por danos materiais, morais e lucros cessantes, com pedido de liminar. Preliminares. Justiça gratuita em favor do autor mantida. Ilegitimidade passiva da empresa ré configurada, eis que se afigura como mera administradora, mandatária da locação e, por conseguinte, extinção do processo, sem resolução do mérito em relação à referida que se impõe. Ilegitimidade passiva da ré (locadora) pessoa física não caracterizada. Danos materiais que em relação ao que se deve (an debeatur) encontra-se demonstrado, comportando aferição do valor (quantum debeatur) em liquidação. Dano moral não configurado, portanto, afastado da sentença combatida. Redistribuição da sucumbência, observados os benefícios da justiça gratuita, sem majoração em grau recursal. Sentença parcialmente reformada. Apelação da empresa ré (administradora/mandatária) provida e parcialmente provido o apelo da ré pessoa física (locadora).
+EMBARGOS DE DECLARAÇÃO - Os embargos de declaração não se prestam ao reexame da causa, nem para fins de prequestionamento de questões federais ou constitucionais, como meio de viabilizar eventual recurso especial ou extraordinário. O cabimento dos embargos se limita às hipóteses do artigo 1.022 do Código de Processo Civil de 2015. Alegações de contradição e pretendida infringência afastadas. Embargos de declaração rejeitados.
+Nas razões do recurso especial (e-STJ, fls. 843-862), apontou a insurgente, além de dissídio jurisprudencial, a existência de violação dos arts. 2º, 7º, parágrafo único, 20 e 25, § 1º, do CDC. Sustentou, em síntese, a legitimidade passiva da imobiliária.
+Contrarrazões às fls. 945-959 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não ocorrência de negativa de prestação jurisdicional; b) não demonstração da violação aos dispositivos arrolados; b) incidência das Súmulas 5 e 7/STJ; e c) não comprovação do dissídio jurisprudencial.
+Daí o presente agravo, no qual ainsurgente contesta a aplicação dos óbices.
+Contraminuta às fls. 993-1.009 (e-STJ).
+Brevemente relatado, decido.
+Da acurada análise do acórdão recorrido, verifica-se que o Tribunal de origem concluiu pela ilegitimidade passiva da administradora (imobiliária) nesta ação que visa a indenização pelos danos decorrentes de falha na estrutura do imóvel locado.
+Veja-se à fl. 793 (e-STJ):
+Ainda preliminarmente, a ilegitimidade passiva suscitada pela ré Souza Participações Empreendimentos e Serviços S/S Ltda. comporta acolhimento, o que se faz. Isso porque, dos autos extrai-se que a relação jurídica-contratual tratada nos autos é entre o autor Rodrigo Januário Caitano, de um lado, na qualidade de locatário e, de outro, a ré Marilene Guarida, locadora (fls. 26/36, destacadamente fls. 26) e não com a administradora da locação. Não é demais observar que o Contrato de Prestação de Serviços de Administração de Imóveis (fls. 200/201), mais precisamente do imóvel locado e tratado nos autos é entre as rés Marilene Guardia como contratante e Souza Participações Empreendimentos e Serviços SS Ltda., como contratada, sem a participação do autor. Nem se alegue a aplicação da responsabilidade solidária disposta no Código de Defesa do Consumidor e para as situações específicas tratadas em referida legislação especial, eis que o autor não é destinatário final dos serviços prestados pela administradora ré, a qual, como dito e aqui redito para destacar, tem relação contratual com a locadora e não com o locatário. Enfim, a análise contextualizada de ambos os contratos de locação e de administração do imóvel locado não torna referida administradora parte legítima para figurar no polo passivo da ação.
+A jurisprudência desta Corte é pela ilegitimidade passiva da administradora nas ações referentes aos vícios do imóvel, como no caso dos autos, em que os danos decorreram de infiltrações no imóvel.
+Nesse sentido:
+Processual civil e civil. Recurso especial. Locação de imóvel e responsabilidade civil. Omissão. Legitimidade passiva da imobiliária. Questões inerentes ao próprio contrato locatício.
+Questões ligadas à cobrança realizada pela recorrida. Diferenciação.
+Danos morais. Quantificação. Redução do quantum.
+- Inexiste a alegada omissão com relação ao art. 186 do Código Civil, uma vez que o Tribunal local expressamente afastou a prática de ato ilícito por parte da recorrida;
+- A imobiliária não possui legitimidade passiva para responder por questões atinentes diretamente à estrutura do imóvel locado, atuando como mera administradora do bem;
+- No que toca ao modo de cobrança, responde a imobiliária por sua atuação, que culminou por causar danos morais aos recorrentes, conforme reconhecido pela sentença;
+- Na espécie, a indenização mostra-se exagerada, devendo ser reduzida aos parâmetros comumente fixados pelo STJ. Danos morais fixados em seis mil reais.
+Recurso especial parcialmente conhecido e, na extensão, provido.
+Ônus sucumbenciais redistribuídos.
+(REsp n. 864.794/PR, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 23/9/2008, DJe de 3/10/2008.)
+Vale ressaltar que os precedentes invocados pela recorrente se referem à aplicação do CDC às relações entre locador e administradora quando se verifica a existência de falhas na prestação do serviço, o que não é o caso dos autos.
+Diante do exposto, conheço do agravo para conhecer do recurso especial e nego-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em favor dos advogados das partes recorridas em R$ 1.000,00 (mil reais), devendo ser observada a gratuidade de justiça deferida à recorrente.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO DE IMÓVEL. AÇÃO INDENIZATÓRIA. DANOS MATERIAIS CAUSADOS POR FALHA NA ESTRUTURA DO IMÓVEL. ILEGITIMIDADE PASSIVA DA ADMINISTRADORA. AGRAVO CONHECIDO PARA CONHECER DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
