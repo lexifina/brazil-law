@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por RODEX EQUIPAMENTOS INDUSTRIAIS LTDA, contra decisão do TRIBUNAL REGINAL FEDERAL DA 4ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"MANDADO DE SEGURANÇA. APELAÇÃO CÍVEL. REMESSANECESSÁRIA. OBRIGAÇÃO TRIBUTÁRIA ACESSÓRIA. CUMPRIMENTOINTEMPESTIVO.
+Configurado o atraso na entrega da DCOMP, torna-se cabível na compensação de créditos com débitos já vencidos a imputação de multa e juros de mora sobre os débitos não extintos no prazo legal." (fl. 327e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, sustenta a parte ora agravanteque:
+"(..) a Fazenda Nacional vem exigindo dos contribuintes a entrega da Declaração de Compensação - DCOMP- (de que trata a Lei 9.430, art. 74) também para a compensação de tributos da mesma espécie. No caso em apreço, foi exigida da empresa a transmissão da DCOMP como condicionante à expedição de uma CND, fato ocorrido em 2005, conforme relatado na peça vestibular. Então, em vista do contexto apresentado (de ter que apresentar uma declaração inexigível para obtenção da CND), o contribuinte a transmitiu em 24/6/2005, conforme comprova o evento 1, anexo "decl12". Em vista de a DCOMP ter sida transmitida em 24/6/2005 para compensar o IPI que venceu originalmente em 8/10/2004, a Receita Federal aplicou os encargos moratórios, como se o imposto tivesse sido pago com atraso (despacho fiscal - Ev.1, "out13"). A diferença apontada pelo fisco (os encargos moratórios) é o objeto da irresignação, que perdura desde as fases de discussão administrativa (com o retorno do CARF, que entendeu pela manutenção da penalidade (ev. 1, "out14")) e culminou com a presente demanda judicial.
+(..)
+Assim, quando se pretende compensar tributos iguais (de mesma espécie), aplica-se o artigo 66 da Lei 8.383. Já quando a compensação é de tributos de espécie diferente, aplica-se o artigo 74 da Lei 9.430, com a correspondente apresentação da "Declaração de Compensação".
+(..)
+Ante o exposto, conclui-se ter sido plenamente legal e eficaz a compensação efetuada pela empresa, de modo a liquidar integralmente o imposto auto-lançado (IPI da 2ª quinzena de setembro de 2004), em especial sob a perspectiva da aplicação da Lei 8.383, artigo 66, tendo em vista tratar-se de tributo de mesma espécie, tudo pago dentro do prazo legal, sem que a União tenha sofrido qualquer prejuízo financeiro que justifique penalidade moratória." (fls. 344/356e)
+Por fim, requer "o recebimento e provimento do Recurso Especial." (fl. 356e).
+Contrarrazões a fls. 371/373e.
+Inadmitido o Recurso Especial (fl. 378/381e), foi interposto o presente Agravo (fls. 392/396e).
+Contraminuta a fls. 403/404e.
+A irresignação não comporta conhecimento.
+Na origem, trata-se de Mandado de Segurançaimpetradopela parte ora recorrente, com o objetivo de afastar exigência fiscal concernente a juros de mora relativos a atraso no pagamento do IPI com vencimento na 2ª quinzena de setembro de 2004, ao fundamento de que teria pago a maior o mesmo tributo na competência imediatamente anterior, em montante suficiente para quitação da parcela em aberto, não havendo se falar, portanto, em mora que justificasse a cobrança.
+Concedida a segurança, recorreu a parte ora agravada,tendo sido reformada a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Inicialmente, verifica-se que a parte recorrente não indicou, de forma clara e individualizada, como lhe competia, os dispositivos legais que porventura tenham sido malferidos pelo Tribunal de origem, o que caracteriza ausência de técnica própria indispensável à apreciação do Recurso Especial.
+Nos termos da jurisprudência desta Corte, o conhecimento do Recurso Especial exige a indicação, de forma clara e individualizada, de qual dispositivo legal teria sido violado ou objeto de interpretação divergente, sob pena de incidência da Súmula 284 do Supremo Tribunal Federal. Assim, seja pela alínea a, seja pela alínea c do permissivo constitucional, é necessária a indicação do dispositivo legal tido como violado ou em relação ao qual teria sido dada interpretação divergente.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - EXCEÇÃO DE INCOMPETÊNCIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA RÉ.
+1. A alegação de ofensa a dispositivos legais que não foram arrolados no recurso especial constitui indevida inovação recursal, inviabilizando o exame da tese em sede de agravo interno.
+2. Não há falar em omissão e, por conseguinte, em contrariedade ao art. 535 do CPC/1973, pois o julgamento da lide apenas se deu de forma contrária aos interesses da parte.
+3. A admissibilidade do recurso especial exige a clareza na indicação dos dispositivos de lei federal supostamente contrariados, bem como a explanação precisa da medida em que o acórdão recorrido teria afrontado cada um desses artigos, sob pena de incidência da Súmula nº 284 do STF.
+(..)
+8. Primeiro agravo interno desprovido. Segundo agravo interno não conhecido, por força da preclusão consumativa" (STJ, AgInt no REsp 1.628.949/PI, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe de 07/03/2018).
+Diante desse quadro, tem incidência, por analogia, a Súmula 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação nãopermitir a exata compreensão da controvérsia".
+Ademais, o Tribunal de origem, com base no exame dos elementos fáticos dos autos, consignou que "como se depreende da transcrição acima, o juízo de primeiro grau constatou que o contribuinte efetuou compensação de valores devidos a título de IPI relativamente a 2ª quinzena de set.2004 com os valores recolhidos a maior na 1ª quinzena do mesmo mês e ano, sem apresentar a respectiva Declaração de Compensação. Por sua vez, a União esclarece que a glosa contra a qual se insurge o contribuinte não ocorreu em razão da referida compensação a que tem direito o contribuinte, fato esse incontroverso, mas pelo cumprimento de obrigação acessória a destempo (ev55 na origem)" (fl. 333e).
+Vale destacar que foi partindo das premissas fáticas sustentadas pelaFAZENDA NACIONAL que o Tribunal julgou a causa, dando conta de que a multa contestada se justificavaem razão do cumprimento a destempo de obrigação tributária acessória, especificamente a entrega da DCOMP, esclarecendo não ter relação (a multa) coma compensaçãoinformada pelo contribuinte.
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Finalmente, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos diversos dispositivos legais citados ao longo do arrazoado, sequer implicitamente, foramapreciada pelo Tribunal de origem, e contra tal decisão não houve a interposição de Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Acrescente-se que, se a parte recorrente entendesse persistir algum vício no acórdão impugnado, imprescindível a interposição de embargos de declaração e posterioralegação de violação ao art. 535 do CPC/73, por ocasião da interposição do Recurso Especial, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Sem honorários advocatícios por se tratar, na origem, de mandado de segurança (art. 25, da Lei 12.016/09).
+I.
