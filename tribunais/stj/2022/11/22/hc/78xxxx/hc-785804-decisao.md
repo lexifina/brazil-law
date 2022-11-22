@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor próprio por MAURÍCIO BETITO NETO contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2184613-58.2022.8.26.0000). Eis a ementa do julgado (e-STJ fl. 690):
+Habeas Corpus - Apropriação indébita - Certificado o trânsito em julgado da sentença penal condenatória - Nulidade da intimação da sentença - Inocorrência- Observados os requisitos do art. 392 do CPP e do art.272do CPC- Constrangimento ilegal não configurado- Ordem denegada.
+Consta dos autos que o paciente foi definitivamente condenado pelo crime de apropriação indébita à pena de 1 ano, 7 meses e 6 dias de reclusão, no regime aberto (Ação Penal n. 1500946-42.2020.8.26.0568, Vara Criminal de São João da Boa vista).
+No presente writ, sustenta a defesa, renovando os argumentos do writ originário, a nulidade da intimação da sentença penal condenatória, pois, ainda que tenha constado na relação para publicação o nome e o número de inscrição junto a OAB-SP pela serventia, certamente, por algum lapso, mediante pesquisa pelo número de inscrição deste causídico, (160.835/SP), na data da publicação (7/6/2022), pode se constatar que "não consta a sentença referente aos autos em debate" razão pela qual este advogado impetrante não teve ciência da referida publicação deixando outrossim de protocolizar seu recurso de apelação naquela oportunidade. (e-STJ fl. 5)
+Requer, liminarmente e no mérito, o reconhecimento da nulidade do trânsito em julgado da sentença penal condenatória.
+É o relatório. Decido.
+De início, observa-se que a pretensão deduzida na presente impetração - nulidade da intimação da sentença penal condenatória - já foi apreciada por esta Corte, por ocasião do julgamento do HC-785.153/SP, (DJe de 21/11/2022), oportunidade em que foi afastado o apontado constrangimento ilegal.
+Desse modo, a pretensão ora deduzida configura indevida reiteração de pedido, razão por que o writ não supera o óbice do conhecimento.
+É de se considerar que "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019).
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
