@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+1. Trata-se de agravo interno interposto por VANDILEIDE MUNIZ DA SILVAcontra a decisão que não conheceu de seu recurso especial.
+2. Em suas razões recursais, a parte agravante sustenta que: (a) é legítima a acumulação de um cargo de Técnicode Enfermagem da UFPE com um cargo de Técnicode Enfermagem da UFPPB; (b)consoante a jurisprudência do STF, "a acumulação de cargos públicos de profissionais da área de saúde, prevista no art. 37, XVI, da CF/88, não se sujeita ao limite de 60 horas semanais previsto em norma infraconstitucional, pois inexiste tal requisito na Constituição Federal" (fl. 614).
+3. Pugna, desse modo, pela reconsideração da decisão ora atacada ou pela apresentação do feito à Turma julgadora para que seja provido o recurso especial.
+4. É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO. SERVIDOR PÚBLICO. ACUMULAÇÃO DE CARGOS. INCOMPATIBILIDADE.INVERSÃO  DO  JULGADO.  INVIABILIDADE.  REEXAME  FÁTICO-PROBATÓRIO.  SÚMULA  7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1.A parte autora ajuizou a ação visando obter tutela jurisdicional para que lhe fosse assegurada a posse em emprego público da área de saúde com o acúmulo de outro emprego público também da área de saúde (ambos de técnico de enfermagem), haja vista a existência de permissão constitucional para o acúmulo pretendido, porquanto aprovadaem concurso público para essa finalidade, bem como compatibilidade de carga horária.
+2. O Tribunal de origem reconheceu que não existiacomprovação da compatibilidade de horários, pois os hospitais nem sequer estavam localizados na mesma cidade, o que tornava inviável a acumulação dos cargos. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+3. Agravo interno a que se nega provimento.
+VOTO
+1. A despeito das bem lançadas razões da parte agravante, a decisão deve ser mantida.
+2. A parte autora alega queajuizou a ação visando obter tutela jurisdicional para lhe assegurar a posse em emprego público da área de saúde com o acúmulo de outro emprego público também da área de saúde (ambos de técnico de enfermagem), haja vista existência de permissão constitucional para o acúmulo pretendido, porquanto aprovado em concurso público para essa finalidade, bem como compatibilidade de carga horária.
+3. A questão posta na presente demanda diz respeito à possibilidade de cumulação de cargos na área de saúde, ainda que a carga horária cumprida pela parte autora ultrapasse o limite de 60 horas semanais fixado pelo Acórdão TCU 2.133/2005 e pelo Parecer GQ 145/1998 da Advocacia-Geral da União.
+4. Nos termos da norma constitucional expressa e do art. 118 da Lei 8.112/1990, é vedada a acumulação remunerada de cargos públicos, ressalvados os casos previstos no art. 37, XVI, da Constituição Federal, entre eles o de dois cargos ou empregos privativos de profissionais de saúde, desde que haja compatibilidade de horários e que os ganhos acumulados não excedam o teto remuneratório previsto no art. 37, XI, da Lei Maior.
+5. Assim, de acordo com os citados dispositivos, os requisitos exigidos para a cumulação de cargos na área de saúde são a compatibilidade de horários e a observância, em qualquer caso, do teto de vencimentos e subsídios previstos no inciso XI do art. 37 da CF.
+6. Porém, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou sobre o tema:
+Mesmo que se considere a revogação do Parecer GQ-145, a autora não tem direito subjetivo à pretendida acumulação, dado que não pode pretender impor à EBSERH que seu horário de trabalho no cargo seja compatível com a escala do outro cargo ocupado.
+Ademais, ainda que o fosse, a EBSERH não estaria impedida de, a qualquer momento, efetuar modificação nos horários.
+(..)
+Ademais, os hospitais de lotação sequer estão localizados na mesma cidade, fato que milita a favor da inexistência de comprovação da compatibilidade de horários, verificada no julgado rescindendo (fl. 473 - sem destaques no original).
+7. O Tribunal de origem reconheceu que não existiacomprovação da compatibilidade de horários, pois os hospitais nem sequer estavam localizados na mesma cidade, o que tornava inviável a acumulação dos cargos. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não na valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o conhecimento do recurso especial quanto ao ponto. Sendo assim, incide no caso a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial. A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. ACUMULAÇÃO DE CARGOS. PROFESSOR E AGENTE ADMINISTRATIVO DE NÍVEL MÉDIO. IMPOSSIBILIDADE. INEXISTÊNCIA DE OMISSÃO OU CONTRADIÇÃO. SÚMULA 7 DO STJ.
+1. De acordo com a jurisprudência do Superior Tribunal de Justiça, cargo técnico é aquele que requer conhecimento específico na área de atuação do profissional, com habilitação específica de grau universitário ou profissionalizante de 2º grau.
+2. É possível verificar que o cargo ocupado pelo recorrido, "Agente Administrativo", não exige nível superior ou curso específico, não se enquadrando, portanto, na definição acima.
+3. Se, no caso concreto, o servidor atua desempenhando atividades técnicas, diversas das previstas para o cargo que ocupa, tal fato não tem o condão de transformá-lo em "técnico" para aplicação da jurisprudência acima descrita.
+4. Ademais, classificar as atividades cotidianas realizadas pelo servidor demanda reexame da matéria fático-probatória dos autos, o que é vedado em Recurso Especial, conforme Súmula 7/STJ.
+5. Embargos de Declaração provido apenas para esclarecimentos(EDcl no REsp n. 1.678.686/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2017, DJe de 1º/2/2018).
+8. Ante o exposto, nega-se provimento ao agravo interno de VANDILEIDE MUNIZ DA SILVA.
+9. É como voto.
