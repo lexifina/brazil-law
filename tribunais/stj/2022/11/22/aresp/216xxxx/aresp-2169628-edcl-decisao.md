@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por ERIVELTO DA SILVA GASQUES(fls. 659/666, e-STJ) contra a decisão de fls. 653-656 e-STJ, que negou provimento ao agravo em recurso especial.
+Em suas razões sustenta a parte embargante, em síntese, afirma contradição na decisão embargada, "uma vez que embora a Ilma. Ministra Relatora mencione em diversos trechos da sua fundamentação a consonância do acórdão proferido pelo Tribunal de Justiça de Mato Grosso ("TJMT") com as teses já firmadas pelo Superior Tribunal de Justiça, ao final, contraditoriamente, afirma que ""em face do exposto, conheço do agravo para dar provimento ao recurso especial"."
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados.
+A parte embargada foi devidamente intimada para contrarrazoar os embargos de declaração, a qual o realizou em fls. 669-674 e-STJ.
+Assim delimitada a questão, passo a decidir.
+Inicialmente, destaco que, nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Da leitura dos embargos, verifico que eles merecem acolhida.
+De fato, a decisão embargada padece do vício de contradição (1.022, I), pois sua conclusão não decorreu logicamente da fundamentação exposta.
+A embargante aponta que, da leitura da decisão, pode-se concluir que "houve um equívoco (contradição) ao conhecer o AREsp para dar provimento ao REsp, uma vez que em toda a fundamentação da r. decisão monocrática, foram elucidadas diversas questões que justificam e concluem pelo não cabimento e pela impossibilidade de prosseguimento do Recurso Especial interposto pelo credor, ora embargado, José Pérsio", no que tem razão.
+Na hipótese, deixei claro que, pela nova redação do art. 39 da Lei de Locações, não há mais dúvida de que o fiador que tenha prestado garantia em contrato de locação por prazo determinado que venha, após a entrada em vigor da Lei nº. 12.112/2009, diante da ausência de denúncia por qualquer das partes, a ser prorrogado por prazo indeterminado, continua vinculado à garantia prestada.
+No entanto, esse entendimento comporta exceções, que foram expostas na decisão de forma clara e fundamentada: a garantia não prevalece quando houver cláusula contratual em sentido contrário ao art. 39 da Lei nº 8.245/1991, que é precisamente o caso dos autos, bem como quando o fiador tenha se exonerado da fiança, na forma do procedimento previsto no art. 835 do Código Civil.
+A propósito, transcrevo o referido trecho (e-STJ, fls. 654):
+O tema da continuidade da fiança diante da prorrogação por tempo indeterminado de contratos de locação já foi examinado pelo STJ e sofreu significativa alteração após a entrada em vigor da Lei nº 12.112/2009, que alterou a parte final da redação do art. 39 da Lei nº 8.245/1991, dispondo, atualmente, o seguinte:
+Art. 39. Salvo disposição contratual em contrário, qualquer das garantias da locação se estende até a efetiva devolução do imóvel, ainda que prorrogada a locação por prazo indeterminado, por força desta Lei. (Redação dada pela Lei nº 12.112, de 2009)
+De acordo com a nova redação do art. 39 da Lei de Locações, não há mais dúvida de que o fiador que tenha prestado garantia em contrato de locação por prazo determinado que venha, após a entrada em vigor da Lei nº. 12.112/2009, diante da ausência de denúncia por qualquer das partes, a ser prorrogado por prazo indeterminado, continua vinculado à garantia prestada.
+No entanto, o referido entendimento comporta exceções, não prevalecendo a garantia quando a) haja cláusula contratual em sentido contrário ao disposto no art. 39 da Lei nº 8.245/1991, ou b) tenha, o garante, se exonerado da fiança, na forma do procedimento previsto no art. 835 do Código Civil.
+(..)
+De acordo com a descrição feita pelo acórdão recorrido (e-STJ, fls. 554), o instrumento contratual em questão "dispôs expressamente que a renovação somente poderia ser efetuada mediante a confecção de novo instrumento contratual, ficando vedada a renovação automática".
+(..)
+Cuida-se, a toda evidência, de hipótese que se insere em uma das exceções à subsistência da fiança diante da prorrogação automática do contrato por prazo indeterminado, já que a referida cláusula contraria o disposto no art. 39 da Lei nº 8.245/1991, razão pela qual o entendimento adotado pelo Tribunal local encontra-se em harmonia com o desta Corte Superior. (grifei)
+A decisão é clara ao demonstrar que o entendimento adotado pelo acórdão recorrido encontra-se em harmonia com a jurisprudência desta Corte Superior, o que atrairia a conclusão inafastável pelo não provimento do agravo da parte embargada.
+Por um lapso, no entanto, ao decidir, dei provimento ao recurso, mas agora acolho os embargos para corrigir o vício da decisão.
+Em face do exposto, acolho os embargos de declaração, com efeitos modificativos, para sanar a contradição da decisão embargada e negar provimento ao agravo em recurso especial de fls. 619/626 interposto pela parte embargada.
+Intimem-se.
