@@ -1,0 +1,11 @@
+DECISÃO
+  DIREITO  PROCESSUAL  CIVIL.  PEDIDO  DE  TUTELA  PROVISÓRIA.  DISPARIDADE  ENTRE  OS  TERMOS  DA  POSTULAÇÃO  E  OS  DOCUMENTOS  ACOSTADOS,  QUE  INSTRUEM  A  PEÇA  INAUGURAL.  PETIÇÃO  INICIAL  INDEFERIDA.
+1.  Trata-se  de  pedido  de  tutela  provisória  de  SÁVIO  ARAÚJO  DE  LEMOS  SILVA,  por  meio  da  qual  busca  a  concessão  de  efeito  suspensivo  a  recurso  veiculado  para  o  Superior  Tribunal  de  Justiça.
+2.  Pede  a  concessão  de  medida  liminar,  para  dar  ao  Recurso  Especial  interposto  junto  ao  TJSP  o  excepcional  efeito  suspensivo/ativo,  conferido  o  efeito  suspensivo/ativo  na  Apelação  Cível  n.  1040249-50.2019.8.26.0053,  conforme  requerido  na  origem,  ou  subsidiariamente,  para  que  a  11ª  Câmara  de  Direito  Público  do  Tribunal  de  Justiça  do  Estado  de  São  Paulo  enfrente  o  mérito  das  ilegalidades  alegadas  em  exordial,  e  em  sede  recursal,  durante  o  juízo  de  cognição  sumária  (fl.  15).
+3.  A  narrativa  da  parte  requerente  está  totalmente  voltada  para  supostos  vícios  causados  no  transcurso  de  certame  para  o  cargo  de  Delegado  de  Polícia  do  Estado  de  São  Paulo,  regido  pelo  Edital  01/2017.
+4.  Aduz  que,  diante  dos  argumentos  que  colacionou  no  recurso  especial,  seria  necessária  a  concessão  de  efeito  suspensivo  à  insurgência,  suspensividade  que  já  vem  buscando  desde  a  interposição  do  recurso  de  apelação.
+5.  No  entanto,  toda  a  documentação  acostada  ao  pedido  de  tutela  provisória  diz  respeito  a  mandado  de  segurança  impetrado  pelo  ora  requerente  contra  alegados  vícios  no  XV  Concurso  Público  para  Promotor  de  Justiça  Substituto  do  Estado  da  Paraíba,  regido  pelo  Edital  01/2018.
+6.  Há,  no  presente  caderno,  completa  disparidade  entre  o  que  se  está  a  argumentar  e  o  que  segue  como  documentação  comprobatória.  Não  se  sabe  se  o  que  a  parte  quer  diz  respeito  ao  concurso  para  Delegado  ou  para  Promotor  de  Justiça.
+7.  Bem  por  isso,  o  pedido  de  tutela  provisória  não  reúne  elementos  para  seu  processamento,  em  virtude  do  descompasso  entre  a  petição  inicial  e  a  documentação  que  lhe  instrui.
+8.  Pelo  exposto,  indefere-se  a  petição  inicial.
+9.  Publique-se.  Intimações  necessárias.
