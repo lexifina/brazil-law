@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Daniel Belmiro Jose Rodrigues - preso preventivamente pela prática, em tese, do crime de participação em organização criminosa -, em que se aponta como autoridade coatora o Tribunal de Justiça do Ceará, que denegou a ordem ali impetrada (Habeas Corpus n. 0628277-66.2022.8.06.0000).
+Alegam os impetrantes, em síntese, que o paciente foi surpreendido dentro de sua casa por policiais que não portavam ordem para adentrar ao domicílio, justificando que uma menor de idade, sobrinha do paciente autorizou a entrada, sendo que tal adolescente faz acompanhamento psicológico (anexo documento) e nenhum documento assinado com tal autorização foi apresentado pelos policiais, e se assim não fosse, a ordem judicial é indispensável, e que o mesmo sofreu agressões, confirmado tal fato pelo laudo pericial e pela testemunha (fl. 6).
+Postulam, então, a concessão liminar da ordem para que seja relaxada a prisão cautelar imposta ao paciente.
+Em 9/8/2022, indeferi o pedido liminar (fls. 111/112).
+Prestadas as informações (fls. 115/118), o Ministério Público Federal opinou pela denegação da ordem (fls. 122/125):
+PENAL E PROCESSUAL PENAL. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA. PACIENTE INTEGRANTE DO COMANDO VERMELHO. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO CRIMINOSA. VIOLAÇÃO DE DOMICÍLIO. INEXISTÊNCIA. MONITORAMENTO ANTERIOR. PRECEDENTES.
+PARECER PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+O presente pedido não comporta acolhimento.
+Da atenta análise do auto de prisão em flagranteobserva-se que a entrada da autoridade policial não foi realizada de maneira aleatória.
+Primeiramente, consta que o paciente seria integrante da facção criminosa comando vermelho, de modo que, mesmo após sair do sistema prisional, continuou na empreitada criminosa, sendo monitorado pela polícia. Confira-se (fls. 27/28):
+ ..  QUE vinha acompanhando DANIEL BELMIRO desde abril de 2021, quando este foi liberado do sistema penitenciário; QUE tomou conhecimento que assim que foi liberado, DANIEL já estava emanando ordens a membros do Comando Vermelho, além de realizar a disputa de territórios em nome da facção; QUE ao realizar consultas aos sistemas policiais, verificou que DANIEL seria companheiro de MILENE CONSTANTINO DOS SANTOS e que ambos foram indiciados pela posse dos artefatos explosivos usados nos ataques ao Estado do Ceará no ano de 2019; QUE no dia 09 de julho do corrente ano, foi efetuada a prisão de BRENA DE SOUSA RODRIGUES e no seu aparelho celular foi possível verificar a existência de diversas conversas em que demonstraram a intensa participação do investigado na facção Comando Vermelho, tendo sido confeccionado no RT 163/2021; QUE verificou que MILENE estava usando tornozeleira eletrônica, e que possivelmente ambos estariam juntos na mesma residência; QUE na data de hoje, se deslocou ao endereço constante no registro da tornozeleiraeletrônica, qual seja,  ..  e lá foi atendido pelapessoa de AMANDA, filha de SANDRA, que autorizou a entrada dos policiais na residência; QUE então logo em seguida chegou também SANDRA, e as pessoas informaram que DANIEL estava nos fundos da casa; QUE foi com sua equipe até os fundos da casa e avistaram DANIEL saindo de um quarto; ..
+Assim, além de existir indícios de que a entrada foi franqueada, existiria fundada suspeita para a entrada forçada, uma vez que ocorreu investigação prévia que constatou a continuidade da prática criminosa por parte do acusado.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA (COMANDO VERMELHO). PRISÃO PREVENTIVA. ALEGAÇÃO DE NULIDADE DA BUSCA E APREENSÃO DOMICILIAR. ACUSADO QUE VINHA SENDO MONITORADO DESDE QUE SAIU DO SISTEMA PRISIONAL. INDÍCIOS DE QUE CONTINUARIA A PARTICIPAR DA EMPREITADA CRIMINOSA. FUNDADA SUSPEITA. EXISTÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
