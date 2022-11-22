@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Laurita Vaz e os Srs. Ministros Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+Trata-se de agravos regimentaiscontra decisão que concedeu parcialmente ohabeas corpus, para aplicar a minorante do tráfico privilegiado em fração máxima.
+Em síntese, os Ministérios Públicos Estadual e Federal apontam que a Corte local indicou outros elementos, além da quantidade e variedade de drogas, para justificar o afastamento da minorante: "a exemplo da existência de sacos de dindim e papel filme apreendidos no local onde estavam as drogas,"; a apreensão de munições e dinheiro em espécie, e o relato de autoridade policial de que "havia informações a respeito do envolvimento do acusado no tráfico de drogas" (fl. 675).Buscam a reconsideração ou envio do feito ao Colegiado.
+É o relatório.
+EMENTA
+AGRAVOS REGIMENTAIS EMHABEAS CORPUS.TRÁFICO PRIVILEGIADO. AFASTAMENTO DA MINORANTE. IMPOSSIBILIDADE. AUSÊNCIA DE ELEMENTOS QUE PERMITAM CONCLUIR, INEXORAVELMENTE, PELA DEDICAÇÃO AO TRÁFICO DE DROGAS. DECISÃO MANTIDA. AGRAVOS REGIMENTAISIMPROVIDOS.
+1. A apreensão dequantidade não relevante de drogas e a ausência de circunstâncias adicionais (inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da drogaetc.), desautorizam a vedação à minorante do tráfico no seu patamar máximo de 2/3 (dois terços).
+2. Agravo regimental improvido.
+VOTO
+No que interessa, dispôs a decisão agravada (fls. 653-657):
+Quanto ao reconhecimento do tráfico privilegiado, o Tribunal de origem pontuou (fls. 632-633):
+Por conseguinte, requer o apelante a incidência da minorante contida no art. 33, § 4º, da Lei de Drogas, que trata do tráfico privilegiado. A fim de sustentar sua pretensão, afirma que possui bons antecedentes, não integra organização criminosa e nem se dedica a atividades criminosas, alegando não haver qualquer indício dessas circunstâncias.
+Todavia, não há o que se falar na aplicabilidade dessa benesse. Isso porque as circunstâncias atinentes ao caso concreto não autorizam tal incidência, haja vista que com o acusado foram encontrados elementos suficientes a demonstrar que se dedica à atividade criminosa, pois as drogas apreendidas estavam acomodadas no mesmo local onde havia sacos de dindim e papel filme.
+Nesse sentido, disse o magistrado:
+"(..) No caso, mostra-se incabível a aplicação da causa de diminuição de pena do artigo 33, §4º, da Lei nº 11.343/2006, na medida em que o paciente não preenche os requisitos legais para obtenção da benesse, isso porque as circunstâncias que envolveram o delito, bem como a quantidade e variedade das drogas apreendidas - 03 (três) tabletes da droga conhecida popularmente por maconha (que totalizavam aproximadamente 90 gramas) e 02 (duas) porções de cocaína (que pesavam ao todo aproximadamente144 gramas) - evidenciam o envolvimento do paciente em atividade criminosa, qual seja, o tráfico de drogas"
+Assim, não há de se reconhecer o tráfico privilegiado, uma vez identificado que o apelante se dedicava à atividade criminosa, o que contraria o disposto no artigo 33, § 4º, da Lei nº 11.343/2006.
+As instâncias ordinárias afastaram o tráfico privilegiado considerando a quantidade apreendida de drogas (144g de cocaína e 90g de maconha), além de que "as drogas apreendidas estavam acomodadas no mesmo local onde havia sacos de dindim e papel filme".
+A jurisprudência deste STJ entende que, isoladamente consideradas, a quantidade e a natureza da droga são insuficientes para afastar a causa de diminuição em comento. Tratando-se de réu primário e não tendo sido indicado nenhum elemento adicional que demonstre cabalmente a inserção do paciente em grupo criminoso de maior risco social, a atuação armada, o envolvimento de menores ou apreensão de apetrecho/instrumento de refino da droga, a aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006 é medida que se impõe.
+Destaca-se o entendimento desta Casa de que " a  quantidade não expressiva de drogas autoriza a aplicação da minorante na fração máxima de 2/3 (dois terços)". Confira-se: AgRg no REsp 1.953.442/SP, Relatora. Ministra Laurita Vaz, 6ª Turma, julgado em 28/9/2021.
+Não se divisa motivo (válido) para conclusão diversa, poisos elementos fáticos elencados para afastar a minorante não encontram respaldo na jurisprudência desta Corte, quais sejam,a (não expressiva) quantidade e variedade de drogas apreendida (90g de maconha e 144g de cocaína), encontrada juntamente com sacos de dindim e plástico filme - circunstâncias que não permitem concluir, à margem de dúvida, pelo pertencimento a organização criminosa ou dedicação a atividades criminosas.
+Não obstante os efeitos danosos da maioria dos entorpecentes, esta Corte Superior entende que a quantidade não relevante e a ausência de circunstâncias adicionais (inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, etc.), desautorizam a exasperação da pena-base, a vedação à minorante do tráfico no seu patamar máximo de 2/3 (dois terços), o agravamento do regime prisional ou a negativa à substituição das penas.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
