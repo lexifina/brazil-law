@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por SANTANDER LEASING S.A. ARRENDAMENTO MERCANTIL, fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão assim ementado:
+EXECUÇÃO FISCAL - IPVA - EXECUTADA QUE NÃO COMPROVOU, NA QUALIDADE DE ARRENDANTE, TER COMUNICADO EVENTUAL ALTERAÇÃO DO DOMÍNIO ÀS AUTORIDADES RESPONSÁVEIS PELO CADASTRO DE CONTRIBUINTES DO IPVA, A TANTO NÃO EQUIVALENDO A BAIXA DO GRAVAME NO SISTEMA NACIONAL DE GRAVAMES - RESPONSABILIDADE SOLIDÁRIA - EXCEÇÃO DE PRÉ-EXECUTIVIDADE ACOLHIDA - RECURSO DA FAZENDA DO ESTADO PROVIDO.
+Os embargos de declaração foram rejeitados.
+O recorrente, apontando violação dos arts. 123, § 1º, I, e 134 do CTB, 130 e 131, I, do CTN e 1.228 e 1.267, parágrafo único, do Código Civil, sustentou, em resumo, que, de acordo com o CTB, "não existe necessidade de qualquer outra formalidade administrativa para que se consolide a transferência de propriedade (de veículo) entre credor e devedor fiduciário", de modo que adimplido o contrato e realizada a baixa do Sistema de Gravames, a então credora fiduciária/arrendante não pode mais ser responsabilizada ao pagamento do IPVA, sendo que esse ônus passa a ser exclusivamente do novo proprietário. Afirma, ainda, que "não há que se falar em responsabilidade tributária solidária da Recorrente, eis que quaisquer dispositivos estaduais não têm o condão de afastar e invalidar norma jurídica complementar (art. 130, 131, I, do CTN) que dispõe diversamente, isto é, impõe a responsabilidade tributária exclusiva (pessoal) ao adquirente dos veículos".
+Depois de apresentadas as contrarrazões, o Tribunal de origem admitiu o apelo raro, determinando a subida dos autos.
+Atendendo determinação contida em decisão de minha lavra, o TJSP manteve o acórdão recorrido em sede de juízo deconformação com aresto proferido no julgamento do RE 727.851/MG.
+Passo a decidir.
+Conforme relatado, o recurso especial discutea responsabilidade tributária da empresa credora fiduciária/arrendante ao pagamento do IPVA após a baixa do contrato noSistema Nacional de Gravames.
+Acerca do tema, vejamos a motivação consignada no voto condutor do acórdão recorrido:
+O inconformismo merece acolhida.
+Sendo a arrendante parte legítima para responder solidariamente pelo IPVA, sua exoneração perante o fisco depende de comprimento da obrigação acessória de comunicar eventual alteração do domínio às autoridades responsáveis pelo Cadastro de Contribuintes do IPVA.
+E ao contrário do que constou da sentença, a baixa do gravame no Sistema Nacional de Gravames a tanto não equivale, ausente demonstração de que o arrendatário tenha exercido opção pela aquisição do bem, com a competente transferência do veículo.
+Pois bem.
+Do que se observa, o recurso especial não merece ser admitido, pois o conteúdo normativo inserto nos dispositivos de lei federal tido por violados (arts.123, § 1º, I, e 134 do CTB, 130 e 131, I, do CTN e 1.228 e 1.267, parágrafo único, do Código Civil), a despeito da oposição de embargos de declaração, não foi efetivamente examinado no acórdão recorrido, carecendo o recurso especial, portanto, do requisito do prequestionamento, nos termos da Súmula 211 do STJ.
+Além disso, incide o óbice de conhecimento estampado na Súmula 280 do STF, visto que a Corte a quo decidiu a controvérsia com respaldo emdireito local que estabeleceria a permanência da responsabilidade solidáriaao pagamento da IPVA em desfavor da empresa arrendante até o momento em que atendida a obrigação assessória de comunicação da transferência da propriedade "às autoridades responsáveisCadastro de Contribuintes do IPVA".
+Ante o exposto, NÃO CONHEÇO do recurso especial (art. 255, § 4º, I, do RISTJ).
+Publique-se. Intimem-se.
