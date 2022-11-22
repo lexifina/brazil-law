@@ -1,0 +1,32 @@
+DECISÃO
+Nestehabeas corpus,impetrado em favor de WESLEI FERREIRA DOS SANTOS LEITE,condenadocomo incursonocrimede roubo majorado(Apelação n. 0301043-90.2014.8.05.0001, do Tribunal de Justiça da Bahia), alega-se a nulidade da prova obtida por reconhecimentofotográfico efetivado pela vítima em sede policial (supostamente efetivado com inobservância do art. 226 do CPP) e requer-se, em liminar, a suspensão de eventuais mandados de prisão expedidos em favor do pacientee,no mérito, a absolvição.
+É o relatório.
+Owrité inadmissível.
+Em consultaaos autos da apelação criminal em referência, obtive a informação de que a condenaçãojá transitou em julgado.
+O presentewrit, pois, ésucedâneo de revisão criminal,sendo esta Corte Superiormanifestamenteincompetentepara a análise do pleito revisional, notadamente porque inexiste neste Tribunal julgamento de méritopassível de revisão.
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL EMHABEAS CORPUS. WRITIMPETRADO CONTRA ACÓRDÃOTRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA ACOMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DEHABEAS CORPUSDE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR.
+Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019)
+ ..
+1. Ohabeas corpusfoi impetrado contra acórdão do Tribunal deJustiça do Estado de São Paulo transitado em julgado; é, portanto,substitutivo de revisão criminal. Por força do art. 105, I, "e", daConstituição Federal, a competência desta Corte para processar e julgarrevisão criminal limita-se às hipóteses de seus próprios julgados. Comonão existe, neste Tribunal, julgamento de mérito passível de revisão emrelação à condenação sofrida pelo paciente, forçoso reconhecer aincompetência deste Tribunal para o processamento do presente pedido.
+ ..
+(HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro RogerioSchietti Cruz, Sexta Turma, DJe 21/5/2018)
+Tampouco diviso constrangimento ilegal apto a subsidiar a concessão dehabeas corpusde ofício (art. 654, § 2º, do CPP).
+Ora,a premissa fática que ampara a impetração -o impetrante alega que a condenaçãoteve como únicaprova o reconhecimento fotográficorealizado pelavítima(fl. 4) - não encontra ressonância na moldura fática estabelecida no acórdão atacado, que concluiu que a vítima reconheceu pessoalmente o paciente,reconhecimento esse ratificadoem sede judicial,e que a condenação não está calcada exclusivamente nesse elemento probatório, mas em outras informações extraídas do relato da vítima e do reconhecimentodos outros indivíduos envolvidos na ação delitiva (fls. 75/80):
+ ..
+Além do quanto consignado na sentença, acrescentou em suas declarações que o fato ocorreu entre 20h30min e 21h; que tomou dois pontos de sutura por conta da agressão; que não foi ao Instituto Médico Legal porque não estava conseguindo sair de casa; que teve sequela desse acontecido, contraindo enxaqueca e depressão; que tem até laudos em casa que comprovam fazer tratamento até hoje por conta desse fato e ainda sofre da enxaqueca e o médico disse que vai ter que ficar fazendo tratamento para o resto da vida; que reconheceu o acusado na delegacia, quando, por algum equívoco, a delegada o fez entrar, junto com os demais, quando ela ali estava, podendo-os identificar, ainda que brevemente; que ratificou o reconhecimento por foto; que, inclusive, lembra bem do rosto e que o maior, quando do reconhecimento, havia trocado de roupa com o menor, sendo este que passou a usar a farda do colégio; que o maior era alto e magro; que viu bem o rosto dos agressores no momento do fato; que só soube da participação do menor na delegacia; que quando se refere a "maior" e "menor" referênciaà altura, e não à idade; que levou o soco no mesmo momento que puxavam a sua bolsa; que não viu arma; que reconhece a pessoa que lhe foi apresentada na audiência (o Réu) como participe, masque não foi ele que a agrediu; que a participação do Réu foi a de cercá-la e impedir que fugisse para trás; que o Réu escorou suas costas com as mãos; que o reconhecimento inicial por foto foi feito no hospital, exibindo-se um celular para tanto.
+A testemunha Carlos Fagundes confirmou ter sido o responsável por socorrer a vítima, levando-a ao hospital, após a comunicação do fato. O depoimento foi assim degravado na sentença:
+ ..
+E, no caso em tela, a partir do relato da vítima, convergente para com os elementos probatórios periféricos, a dinâmica delitiva atinente ao crime se revela assaz contundente, extirpando questionamentos passíveis de afastar a autoria delitiva do increpado.
+A vítima reconheceu o acusado como autor do fato na fase judicial e ratificou o reconhecimento durante a audiência, inclusive com riqueza de detalhes acerca da ocorrência, dentre os quais o fato de ter trocado de roupa com outro envolvido, contra o que não se produziu qualquer prova capaz de infirmar tais declarações ou, ao menos, colocá-las sob suspeição.
+Aliás, é necessário gizar que a hipótese em apreço compreende o reconhecimento simultâneo de três agentes criminosos, e não apenas um, o que reduz substancialmente a possibilidade de que tenha se operado equívoco em tal identificação, sobretudo quando se observa que entre os autores apontados pela vítima existia, de fato, incontroversos vínculos de amizade e vizinhança, o que não se coaduna à tese de "escolha aleatória" dos acusados, sustentada em defesa.
+ ..
+In casu, registre-se, o depoimento da vítima se harmoniza, além dos registros do flagrante, com o quanto asseverado pela testemunha de Acusação ouvida no feito, sobre a qual, de pronto, há de se consignar a ausência de mácula valorativa pela mera função de policial, tendo em vista que, conforme assentado no Superior Tribunal de Justiça, tal circunstância em nada invalida a prova, especialmente quando robustamente colhida na fase inquisitorial e ratificada na instrução.
+ ..
+Convicção essa que não comporta reexame em sede dehabeas corpus(cognição sumária).
+Ante o exposto,não conheçodohabeas corpus(art. 34, XVIII,a, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO MAJORADO. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE JULGAMENTO DE MÉRITO PASSÍVEL DE REVISÃO. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. TESE DEDUZIDA NA IMPETRAÇÃO QUE DESTOA DA MOLDURA FÁTICA ESTABELECIDA NO ACÓRDÃO ATACADO.
+Writ não conhecido(art. 34, XVIII, a, do RISTJ).
