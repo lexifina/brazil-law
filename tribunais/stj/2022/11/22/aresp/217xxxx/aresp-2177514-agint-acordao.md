@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por BRUNO BRAGA CIFARELLI contra a decisão de fls. 200-202 (e-STJ), da lavra deste signatário, que conheceu do agravo para não conhecer do recurso especial.
+O apelo especial foi deduzido com fundamento na alínea a do permissivo constitucional, com o intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 113):
+PROCESSO CIVIL - Plano de saúde - Ação de obrigação de fazer - Cumprimento de sentença - Alegação de que cabível a cobrança das despesas constantes do cumprimento - Descabimento - Condenação das rés, de forma solidária, no pagamento das despesas decorrentes da internação do autor, até alta médica - Limitação da cobrança até a data de 05.06.2013, data daquela - Agravo desprovido.
+Opostos embargos de declaração, estes foram rejeitados (e-STJ, fls. 124- 127).
+Nas razões do recurso especial (e-STJ, fls. 130-138), o ora agravante apontou violação dos arts. 499, 503, 505, 508 e 1.022, II, do CPC/2015.
+Sustentou, em caráter preliminar, negativa de prestação jurisdicional. No mérito, aduziu que "restou reconhecida que competia a Recorrida realizar a cobertura integral do tratamento médico do paciente, desde a data de sua internação, até alta médica definitiva, sem limitação temporal" (e-STJ, fl. 135).
+Em face do juízo prévio negativo de admissibilidade do recurso especial, oora insurgente interpôs agravo, ocasião em que foi julgado nos termos da seguinte ementa (e-STJ, fl. 200):
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. PAGAMENTO DE DESPESAS MÉDICAS DURANTE A INTERNAÇÃO HOSPITALAR. CONDENAÇÃO QUE NÃO ENGLOBA DESPESAS APÓS A ALTA MÉDICA. ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+No presente agravo interno (e-STJ, fls. 205-213), o agravante defende a inaplicabilidade da Súmula 7/STJ, por discutir questão unicamente de direito, não havendo necessidade de revolvimento e novo julgamento da matéria fático-probatória dos autos.
+Aduz a existência de negativa de prestação jurisdicional, ante a falta de manifestação sobre questões alegadas no recurso de agravo de instrumento e posteriormente no bojo dos embargos de declaração.
+Sustenta que houve violação ao instituto de perdas e danos e da coisa julgada, uma vez que a sentença condenou as rés ao pagamento, de forma solidária, das despesas médico-hospitalares oriundas da sua internação até a alta médica definitiva.
+Para tanto, afirma que os "procedimentos pós operatório  sic  são essenciais para o resultado do tratamento principal e não podem ser interrompidos por deixarem de ser considerados de emergência, afinal, se no título executivo houve cobertura quanto a internação, deve também ter para o acessório, que representa as consultas médicas e terapêuticas recomendadas pelos médicos que assistiram o paciente" (e-STJ, fl. 210).
+Destaca, ainda, "que a própria jurisprudência desta corte pondera que a obrigação de custeio deve se estender até alta médica definitiva, de modo a inibir o ajuizamento de novas ações para discussões provenientes do mesmo tratamento médico" (e-STJ, fl. 211).
+Ao final, requer a reconsideração da decisão agravada ou a apreciação do agravo interno pelo colegiado.
+Impugnação às fls. 216-223 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ALEGAÇÕES GENÉRICAS. SÚMULAS 284/STF. PAGAMENTO DE DESPESAS MÉDICAS DURANTE A INTERNAÇÃO HOSPITALAR. CONDENAÇÃO QUE NÃO ENGLOBA DESPESAS APÓS A ALTA MÉDICA. ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de violação ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284/STF.
+2. O Tribunal de origem consignou o entendimento de que a condenação das rés foi limitada ao pagamento das despesas durante a internação do autor, não compreendendo as despesas posteriores àalta hospitalar. Infirmar tais conclusões demandaria o revolvimento do conjunto fático-probatório dos autos. Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+A irresignação não merece prosperar.
+Quanto à negativa de prestação jurisdicional, constata-se que não ficou caracterizada, pois oinsurgente não especificou, na petição do recurso especial, como o acórdão de origem teria se negado a enfrentar questões aduzidas pelas partes, tampouco discorreu sobre as matérias que entende por omissas.
+Este Superior Tribunal tem orientação firmada no sentido de aplicar a Súmula 284/STF quando "a parte recorrente alega, genericamente, a existência de violação do art. 1.022 do CPC de 2015, sem, contudo, demonstrar especificamente quais os vícios do aresto vergastado ou sua relevância para a solução da controvérsia" (AgInt no REsp n. 1.992.588/RN, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/10/2022, DJe de 13/10/2022).
+No que tange à matéria de fundo, não há como afastar a incidência do enunciado n. 7 da Súmula desta Corte.
+Isso porqueo Tribunal de origem, ao julgar o agravo de instrumento interposto pelo ora agravante, consignou o entendimento de que a condenação das rés foi limitada ao pagamento das despesas durante a internação do autor, não compreendendo as despesas posteriores àalta hospitalar.
+Veja-se (e-STJ, fl. 114, sem grifo no original):
+2. Não comporta acolhida o recurso ofertado.
+Isto porque, não obstante as alegações do autor de que as ré foram condenadas, de forma solidária, a arcarem com todas as despesas médico hospitalares processadas em seu desfavor em razão do tratamento médico realizado no Hospital Sírio Libanês, até alta médica definitiva, do que se verificados autos, em especial da sentença de fls. 683/687 bem como do V. Acórdão de fls. 719/725 dos autos principais, foram as rés condenadas a arcar, solidariamente, com as despesas médico-hospitalares oriundas da internação do autor no Hospital Sírio Libanês até alta médica, pelo período de 18.05.2013 a 05.06.2013 (data da alta hospitalar) não estando englobadas, portanto, despesas posteriores a esse período.
+Sendo assim, o reembolso das despesas decorrentes dos recibos juntados à fls. 21/24 e 26, como bem anotado pelo julgador monocrático, não estão englobadas pelo título judicial que embasa a presente execução uma vez que despendidas após o período de alta da internação do autor.
+Assim, é evidente que a alegada violação aos dispositivos de lei federal não constitui questão apenas de direito, e simquestão eminentemente fática, porque o acolhimento da pretensão veiculada no inconformismo (a fim de que a cobertura do tratamento médico abarque também as despesas após a alta hospitalar) implicaria a formação de nova convicção acerca dos fatos da causa, a partir de revolvimento do material probatório, providência inviável em tema de recurso especial, nos termos do enunciado n. 7 da Súmula do Superior Tribunal de Justiça.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É o voto.
