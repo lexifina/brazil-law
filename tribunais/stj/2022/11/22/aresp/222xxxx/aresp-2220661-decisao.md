@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por CAIXA DE CONSTRUCOES DE CASAS PARA O PESSOAL DA MARINHA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+APELAÇÃO CÍVEL. CCCPM. SFH. AÇÃO DE COBRANÇA. PRETENSÃO DE COBERTURA DOSALDO DEVEDOR PELO FCVS. ILEGITIMIDADE ATIVA AD CAUSAM DO AGENTE FINANCEIRO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 9º e 10 do CPC, no que concerne à existência de decisão surpresa, uma vez que não foi dada oportunidade à recorrente para se manifestar sobre sua ilegitimidade ativa, trazendo os seguintes argumentos:
+Como colocado anteriormente, o fundamento adotado pelo julgado, qual seja a ilegitimidade ativa da CCCPM, em nenhum momento fora suscitado no curso da ação. Para esse propósito especifico, deveria antes ter havido intimação da entidade para manifestação, em respeito ao princípio do contraditório preconizado no CPC/215, veja-se:
+ ..
+O dispositivo claramente consagra a regra geral que estipula a prévia oitiva da parte antes de decisões que lhe possam ser prejudiciais.
+Além disso, conforme previsão expressa, é defeso aos magistrados proferirem decisão-surpresa - art. 10, do CPC, veja:
+ ..
+Diante de tais fundamentos, nota-se que, houve equívoco por parte do Acórdão, no que concerne à violação da regra de vedação da não surpresa, pois, diante da declaração de sua ilegitimidade, deveria ter intimado a Autarquia para demonstrar ser parte legítima no feito.
+ ..
+É imprescindível que as decisões sejam previamente debatidas entre as Partes, frise-se, que devem julgar pontos sobre os quais as partes tenham exercido previamente o contraditório efetivo, tratando-se de matérias processuais ou de mérito.
+É necessário que haja o prévio debate antes de um pronunciamento judicial, para que assim, as partes tenham a oportunidades de participarem, ou que tenham as chances de influenciar o convencimento do juiz com seus argumentos, isso é denominado pela doutrina de "decisão-surpresa", a qual já foi repugnada pelos Tribunais Superiores inúmeras vezes, mesmo sob a vigência do Novo Código de Processo Civil. A partir de então, a decisão- surpresa será, via de regra, vedada, por expressa disposição do novo Diploma.
+É natural a existência de exceções, de modo que, podemos tomar como exemplo os casos das tutelas provisórias, entretanto, cumpre ressaltar, que a vedação das decisões-surpresa deve ser a regra e a tônica deste novo tempo do processo civil que desponta.
+Essas vedações estão previstas nos arts. 9º e 10 do NCPC, que tratam expressamente da vedação das decisões-surpresa, em todos os graus, mesmo que se tratem se trate de questão que deva ser decidida de ofício, tal como ocorre com a maioria das preliminares.
+ ..
+Vê-se claramente que houve, in casu, decisão surpresa em face do ente público, já que proferida com base em fundamento novo, sobre o qual as partes não tiveram oportunidade de se manifestar, em clara fronta aos artigos 9º e 10º do CPC/2015 (fls. 299/301).
+É, no essencial, o relatório. Decido.
+Na espécie, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
