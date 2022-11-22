@@ -1,0 +1,79 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+
+Terceira Turma Recursal DOS JUIZADOS ESPECIAIS DO DISTRITO FEDERAL
+
+Processo N.
+AGRAVO REGIMENTAL CÍVEL 0701535-61.2022.8.07.0007
+
+RECORRENTE(S)
+CONDOMINIO DO EDIFICIO ITAPUA
+
+RECORRIDO(S)
+ANA CLAUDIA BICALHO DE PADUA
+
+Relator
+Juiz EDILSON ENEDINO DAS CHAGAS
+
+Acórdão Nº
+1640706
+
+EMENTA
+
+PROCESSO CIVIL. AGRAVO INTERNO – DECISÃO MONOCRÁTICA QUE INADMITE RECURSO INOMINADO – DESERÇÃO. RECURSO CONHECIDO E IMPROVIDO.
+
+1. Por ocasião do exame de admissibilidade do Recurso Inominado foi proferida a seguinte decisão:
+
+“É consolidado o entendimento, inclusive perante o e. Superior Tribunal de Justiça (AgRg na RECLAMAÇÃO Nº 4.312/RJ, Relator Min. Paulo de Tarso Sanseverino; AgRg na RELAMAÇÃO Nº 4.885/PE, Relator Min. João Otávio de Noronha), de que no sistema dos Juizados Especiais não cabe a complementação do preparo de que cuida art. 1.007, do CPC. No mesmo sentido o Enunciado 168, do FONAJE.
+
+O recurso interposto pelo réu CONDOMINIO DO EDIFICIO ITAPUA, apesar de tempestivo, veio desacompanhado da guia e do comprovante de pagamento das custas processuais, uma vez que os documentos de ID Num. 38852714 - Pág. 1 e ID Num. 38852715 - Pág. 1 se trata apenas da guia e do comprovante de quitação do preparo propriamente dito.
+
+Assim, desatendidos os comandos do art. 42, § 1º, e art. 54, ambos da Lei nº 9.099/95, tem-se como deserto o recurso.
+
+RECURSO DE CONDOMINIO DO EDIFICIO ITAPUA NÃO CONHECIDO (art. 11, inciso V, e art. 29, inciso I, do Regimento Interno das Turmas Recursais, das Turmas Recursais Reunidas e da Turma de Uniformização de Jurisprudência dos juizados especiais do Tribunal de Justiça do Distrito Federal e dos Territórios, aprovado pela Resolução de 21/12/2021).
+
+Diante da sucumbência, nos termos do artigo 55 da Lei dos Juizados Especiais (Lei nº 9.099/95), condeno o recorrente ao pagamento das custas processuais e honorários advocatícios, estes arbitrados em R$ 500,00 porque, se fixados em percentual do valor da causa, resultaria em valor irrisório.
+
+Operada a preclusão, baixem os autos. Intimem-se.”
+
+2. No Agravo Interno interposto se pede a reforma da decisão monocrática, com o consequente conhecimento do recurso inominado, ao argumento de que não se teria considerado os supostos “problemas técnicos” do sistema de emissão de guias do TJDFT.
+
+3. Em que pesem as alegações trazidas pelo agravante, não deve prosperar o recurso. A uma, porque dos prints das mensagens trocadas com o setor Cogec deste tribunal, vê-se que houve notícia da retomada do funcionamento do sistema de emissão das guias de custas judiciais, não havendo nenhuma outra mensagem posterior do douto causídico com aquele setor em sentido contrário. Ademais, o esperado é que o advogado tenha pleno conhecimento do inteiro teor do disposto no art. 31, § 1º do Regimento Interno das Turmas Recursais, das Turmas Recursais Reunidas e da Turma de Uniformização de Jurisprudência dos juizados especiais do Tribunal de Justiça do Distrito Federal e dos Territórios (Resolução de 21/12/2021) que, expressamente, prevê a exigência de juntada de duas guias distintas de recolhimento, vinculadas aos dados do processo em que é interposto o recurso inominado.
+
+4. A omissão verificada nos autos revela, em verdade, o desconhecimento pelo advogado, das regras do referido Regimento Interno, de observância obrigatória. Ciente de tais regras, caso acreditasse na manutenção do problema no sistema informático de emissão de guias, deveria ter argumentado nesse sentido quando da interposição do recurso inominado, acusando que o sistema teria disponibilizado apenas uma guia, em vez das duas obrigatórias, o que não aconteceu na espécie, deixando para alegar o dito erro apenas após a decisão que reconheceu a deserção.
+
+5. De outro giro, não se há de aplicar a norma genérica do art. 1.007 do CPC quando lei especial (§ 1º, do art. 42, da Lei nº 9.099/95) estabelece procedimento diverso e prazos próprios para a prática do ato. Aplicação do Enunciado 161 do FONAJE – Considerado o princípio da especialidade, o CPC/2015 somente terá aplicação ao Sistema dos Juizados Especiais nos casos de expressa e específica remissão ou na hipótese de compatibilidade com os critérios previstos no art. 2º da Lei 9.099/95.
+
+6. Em se tratando de prazo próprio e peremptório, uma vez preenchidos os requisitos de validade da intimação e inexistindo motivo justo e legalmente previsto, não pode o juiz prorrogá-lo ao seu talante.
+
+7. Como o preparo não foi adequadamente comprovado, porque ausente o pagamento do preparo recursal, a aplicação da pena de deserção ao recurso inominado é medida que se impõe.
+
+8. RECURSO CONHECIDO E IMPROVIDO.
+
+9. Custas e honorários advocatícios como disposto na decisão agravada.
+
+ACÓRDÃO
+
+Acordam os Senhores Juízes da Terceira Turma Recursal dos Juizados Especiais do Distrito Federal do Tribunal de Justiça do Distrito Federal e dos Territórios, EDILSON ENEDINO DAS CHAGAS - Relator, FERNANDO ANTONIO TAVERNARD LIMA - 1º Vogal e CARLOS ALBERTO MARTINS FILHO - 2º Vogal, sob a Presidência do Senhor Juiz FERNANDO ANTONIO TAVERNARD LIMA, em proferir a seguinte decisão: CONHECIDO. DESPROVIDO. UNANIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 22 de Novembro de 2022
+
+Juiz EDILSON ENEDINO DAS CHAGASRelator
+
+RELATÓRIO
+
+Dispensado o relatório, nos termos do art. 46 da Lei 9.099/95.
+
+VOTOS
+
+O Senhor Juiz EDILSON ENEDINO DAS CHAGAS - Relator
+Decisão proferida na forma do art. 46 da Lei 9.099/95, servindo a ementa como acórdão.
+
+O Senhor Juiz FERNANDO ANTONIO TAVERNARD LIMA - 1º Vogal Com o relator
+
+O Senhor Juiz CARLOS ALBERTO MARTINS FILHO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. DESPROVIDO. UNANIME.
