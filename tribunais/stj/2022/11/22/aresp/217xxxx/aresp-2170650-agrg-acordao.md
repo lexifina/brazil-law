@@ -1,0 +1,45 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO SUSPENSÃO DO PRAZO PROCESSUAL NO TRIBUNAL DE ORIGEM, PELA PANDEMIA DA COVID-19. AGRAVO DESPROVIDO.
+1. O recorrente foi intimado do acórdão recorrido na data de 26/4/2021 (e-STJ, fl. 1.701), mas o recurso especial veio a ser protocolado apenas em 3/11/2021 (e-STJ, fl. 1.707), ou seja, fora do prazo legal de 15 dias corridos, previsto pelo art. 994, VIII, c.c. os arts. 1.003, § 5º, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+2. Como se vê, embora a publicação do acórdão combatido tenha ocorrido em 23/4/2021, o prazo recursal estava suspenso e retornou seu curso em 01/9/2021, de modo que o recurso especial interposto em 3/11/2021 se revela manifestamente intempestivo.
+3. É de responsabilidade das partes envolvidas acompanharem, no âmbito do Tribunal respectivo, a existência de suspensão do expediente forense ou mesmo dos prazos processuais. Eventual confusão com as datas de início e término das medidas adotadas durante o período de pandemia é de responsabilidade da parte ora agravante, cujo equívoco não pode ser atribuído às instâncias ordinárias.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), Jorge Mussi e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS:
+Trata-se de agravo regimental interposto por ANTONIO JOSE GEMELLI contra decisão proferida pelo Ministro Presidente desta Corte, às fls. 7.640-7.641 (e-STJ), que não conheceu do recurso especial, com fundamento no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, diante de sua intempestividade.
+Nas razões recursais, aduz o agravante, em síntese, que teria interposto o recurso especial de forma tempestiva. Aponta a existência de uma série de atos normativos editados no âmbito do TJRO que suspenderam o curso do prazo processual em decorrência da pandemia de Covid-19.
+Afirma que "ao consultar o painel de prazos disponibilizado pelo CNJ justamente para tal, que por sua vez é atualizado de acordo com as informações repassadas pelo Tribunais, constatou a informação de que em AGOSTO/2021 e SETEMBRO/2021 não houve e retomada de prazos dos processos físicos no âmbito do TJ/RO" (e-STJ, fl. 7.651).
+Destaca que "o prazo não restou cumprido em razão da não disponibilidade das informações da retomada dos prazos dos processos físicos em painel criado para tanto (CNJ),tal como prevê, expressamente, a Resolução CNJ 322 de 01/06/2020, bem como a falta de divulgação sobre a retomada dos prazos dos processos físicos pelo próprio TJ/RO em seu site eletrônico, de certo que não pode ser reconhecida eventual intempestividade do REsp interposto, vez que tal fato ocorreu por fato alheio à vontade do Réu e da própria Defesa" (e-STJ, fl. 7.652).
+Pede, ao final, o provimento do presente agravo, para prover também o recurso especial, bem como a concessão da ordem de ofício.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO SUSPENSÃO DO PRAZO PROCESSUAL NO TRIBUNAL DE ORIGEM, PELA PANDEMIA DA COVID-19. AGRAVO DESPROVIDO.
+1. O recorrente foi intimado do acórdão recorrido na data de 26/4/2021 (e-STJ, fl. 1.701), mas o recurso especial veio a ser protocolado apenas em 3/11/2021 (e-STJ, fl. 1.707), ou seja, fora do prazo legal de 15 dias corridos, previsto pelo art. 994, VIII, c.c. os arts. 1.003, § 5º, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+2. Como se vê, embora a publicação do acórdão combatido tenha ocorrido em 23/4/2021, o prazo recursal estava suspenso e retornou seu curso em 01/9/2021, de modo que o recurso especial interposto em 3/11/2021 se revela manifestamente intempestivo.
+3. É de responsabilidade das partes envolvidas acompanharem, no âmbito do Tribunal respectivo, a existência de suspensão do expediente forense ou mesmo dos prazos processuais. Eventual confusão com as datas de início e término das medidas adotadas durante o período de pandemia é de responsabilidade da parte ora agravante, cujo equívoco não pode ser atribuído às instâncias ordinárias.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A pretensão recursal não merece êxito, pois o agravante não apresentou fundamentos capazes de modificar o entendimento anteriormente adotado.
+Como observado pelo decisum agravado, o recorrente foi intimado do acórdão recorrido na data de 26/4/2021 (e-STJ, fl. 1.701), mas o recurso especial veio a ser protocolado apenas em 3/11/2021 (e-STJ, fl. 1.707), ou seja, fora do prazo legal de 15 dias corridos, previsto pelo art. 994, VIII, c.c. os arts. 1.003, § 5º, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+Na hipótese em apreço, vale destacar que o próprio Tribunal de origem, quando do juízo de admissibilidade (e-STJ, fls. 1.913-1.914), fez as seguintes ponderações para inadmitir o trâmite do recurso especial:
+"Na espécie, o acórdão recorrido (fls. 1526/1556), complementado pelo julgamento dos embargos declaratórios (fls. 1582/1586) foi disponibilizado no Diário da Justiça Eletrônico no dia 22/04/2021, considerando-se como data da publicação o dia 23/04/2021, cujo início da contagem do prazo estava suspenso, nos termos do Ato Conjunto n. 020/2020-PR/CGJ, conforme certidão de fl.1588.
+Os prazos dos processos físicos retomaram o seu curso em 01/09/2021 com a publicação do Ato Conjunto 023/2021-PR/CGJ, publicado em 30/08/2021, de modo que o fim do prazo recursal se deu em 15/09/2021, tendo transitado em julgado em 16/09/2021 (certidão de fls. 1.588), portanto, mostra-se flagrante a intempestividade do recurso especial interposto no dia 03/11/2021".
+Como se vê, embora a publicação do acórdão combatido tenha ocorrido em 23/4/2021, o prazo recursal estava suspenso e retornou seu curso em 01/9/2021, de modo que o recurso especial interposto em 3/11/2021 se revela manifestamente intempestivo.
+De outra banda, não assiste razão ao recorrente quando aponta a inexistência de informações no sítio do CNJ acerca de eventual retorno dos prazos processuais, uma vez que incumbe às partes envolvidas o ônus de acompanhar, no âmbito do Tribunal respectivo, a existência de suspensão do expediente forense ou mesmo dos prazos processuais. A propósito:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. SUSPENSÃO DO EXPEDIENTE NO TRIBUNAL DE ORIGEM. COMPROVAÇÃO. INEXISTÊNCIA.
+1. Esta Corte entende que "cabe à parte comprovar a ocorrência de suspensão dos prazos processuais em decorrência de feriados, recesso forense e ponto facultativo locais, dentre outros motivos, a fim de demonstrar a tempestividade recursal" (EDcl no AgRg no AREsp 874.826/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 7/11/2017, DJe 14/11/2017).
+ .. .
+3. Agravo regimental improvido".
+(AgRg nos EDcl no REsp n. 1.945.535/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 22/2/2022, DJe de 2/3/2022.)
+Ademais, na hipótese em apreço, conforme já destacado em linhas volvidas, sequer havia suspensão dos prazos processuais, de modo que eventual confusão com as datas de início e término das medidas adotadas durante o período de pandemia é de responsabilidade da parte ora agravante, cujo equívoco não pode ser atribuído às instâncias ordinárias.
+Outrossim, destaco não ser viável o pleito para concessão de habeas corpus de ofício como tentativa de burla aos requisitos de conhecimento do recurso especial. Afinal, a concessão da ordem parte da iniciativa do próprio órgão julgador, quando este detecta ilegalidade flagrante, nos termos do art. 654, § 2º, do CPP. A propósito:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARTIGO 180 DO CP, ARTIGO 16, §1º, IV, DA LEI 10.826/03 E ARTIGO 244-B DO ECA. TESES NÃO DISCUTIDAS PELA CORTE DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INEXISTÊNCIA DE VÍCIOS. HABEAS CORPUS DE OFÍCIO. BURLA À INADMISSÃO DO RECURSO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+ ..
+4. De acordo com o entendimento pacífico da Terceira Seção desta Corte Superior de Justiça, é inadequada a pretensão de concessão de habeas corpus de ofício com intuito de superar, por via transversa, óbice(s) reconhecido(s) na admissibilidade do recurso interposto (Precedentes) (EDcl no AgRg nos EREsp 1.488.618/RS, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, DJe 27/10/2015).
+5. Embargos de declaração rejeitados".
+(EDcl no AgRg no AREsp 1773527/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
