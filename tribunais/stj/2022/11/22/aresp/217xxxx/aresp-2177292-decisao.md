@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por NUTRIDANI ALIMENTOS LTDA.contra decisão que não admitiu o processamento do apelo extremo.
+Infere-se dos autos que a Oitava Câmara Cíveldo Tribunal de Justiça do Estado do Paraná conheceu parcialmente da apelação interposta pelos ora recorridos e, nessa extensão, deu-lhe provimento, invertendo o ônus da sucumbência, nos termos da ementa abaixo colacionada (e-STJ, fl. 735):
+APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO DE DANOS. ACIDENTE DETRÂNSITO. PRELIMINAR DE VIOLAÇÃO DA DIALETICIDADE. REJEITADA. ABALROAMENTO ENTRE CAMINHÃO E CARRO. BOLETIM DE OCORRÊNCIA INCONCLUSIVO. INEXISTÊNCIA DE ELEMENTOS CAPAZES DE REVELAR A DINÂMICA DO ACIDENTE. ÔNUS DA PROVA QUE COMPETIA AO AUTOR. INTELIGÊNCIA DO ART. 373, I, DO CPC.
+SENTENÇA REFORMADA. INVERSÃO DA SUCUMBÊNCIA. RECURSO PROVIDO.
+1. Diante da fragilidade das provas apresentadas pela parte autora, denota-se que não cumpriu a mesma com o ônus que lhe incumbia por força do inciso I, do artigo 373, do Código de Processo Civil.
+2. Inexistindo comprovação acerca de quem teria dado causa ao acidente, não há como responsabilizar a parte apelante pelo infortúnio, de modo que merece reforma a r. sentença.
+Os embargos de declaração opostos pela ora recorrente foram rejeitados, conforme se verifica da seguinte ementa (e-STJ, fl. 765):
+EMBARGOS DE DECLARAÇÃO EM AGRAVO DE INSTRUMENTO. OMISSÃO NÃO CONSTATADA NO ACÓRDÃO. INCONFORMISMO COM ASOLUÇÃO ADOTADA NO ARESTO. PROPÓSITO DE INSTAURARNOVAMENTE REDISCUSSÃO ACERCA DE MATÉRIA ANALISADA. VIA PREQUESTIONAMENTO OBSTADO. RECURSAL INADEQUADA.
+DECLARATÓRIOS REJEITADOS.
+1. O acolhimento dos declaratórios exige o reconhecimento de alguma das hipóteses previstas no art. 1.022 do CPC (omissão, contradição, obscuridade ou erro material), o que não ocorre no caso presente.
+Nas razões do apelo especial (e-STJ, fls. 772-786), ainsurgente apontou ofensa aos arts. 502, 503, 505, 507 e 508 do Código de Processo Civil de 2015.
+Defendeu, em síntese, que o acórdão recorridoconferiu ao acidente de trânsito discutidonos autosuma interpretação que já havia sido afastada em outra decisãotransitada em julgado.
+Alegou que, na Ação de n.0012195-73.2014.8.16.0044 (a qual tramitou no microssistema dos Juizados Especiais), entendeu-se pela improcedência do pedido, sob o argumento de que a provanão teriasido suficiente paracomprovação da tese sustentada pelas partes.
+Contrarrazões às fls. 801-807 (e-STJ).
+O processamento do apelo extremo não foi admitido pela Corte de origem ante o entendimento de incidência da Súmula n. 7 deste Superior Tribunal, levando arecorrentea interpor o presente agravo, por meio do qual contesta a aplicação doóbiceapontadona decisão de admissibilidade.
+Brevemente relatado, decido.
+De início, cumpre salientar que não há falar em violação aos arts. 502, 503, 505, 507 e 508 do CPC/2015 ou ao instituto jurídico da coisa julgada, uma vez quea análise realizada pelaSegunda Turma Recursal dos Juizados Especiais da Corte estadual (trazidaaos autos pela ora recorrente) não abarcou a responsabilidade pelosdanos oriundos do acidente de trânsito, tendo em vista que estes ultrapassaram o limite relativo ao valor da causa previsto na Lei 9.099/1995.
+A propósito, observe-se o consignadono acórdão do julgamento dos embargos de declaração opostos(e-STJ, fl. 768 - sem grifos no original):
+Ademais, como colocado pelo próprio embargante em sua peça, a questão não se trata de coisa julgada quanto a analise realizada pelas turmas recursais, vez que os danos suportados ultrapassaram o teto previsto na Lei 9099/95, sendo necessário o ingresso na justiça comum, não atingindo o fim da discussão naquela instância, tampouco fazendo coisa julgada.
+Assim percebe-se que a questão da responsabilidade pelo acidente de trânsitonão foi integralmente analisada e julgada perante os Juizados Especiais - conforme, inclusive,reconhece a parte recorrente nos referidos embargos de declaração (e-STJ, fls. 747-750).
+Com efeito, as instâncias ordinárias, com amparo nas provas produzidas nos presentesautos, consignaram o entendimento da falta de comprovação da responsabilidadepelo acidente.
+A propósito, confiram-se os fundamentos do acórdão estadual (e-STJ, fls. 735-740 - sem grifos no original):
+Cinge-se a controvérsia acerca da responsabilidade pelo acidente de trânsito, envolvendo o caminhão de propriedade da autora, e o veículo de propriedade do primeiro requerido, conduzido pelo segundo, ora apelantes.
+(..)
+Aduzem os apelantes que o acidente não se deu da forma relatada no boletim de ocorrência, uma vez que teria sido um abalroamento traseiro, e não lateral. Afirma que o motorista da parte autora, ora apelada, em excesso de velocidade, ao tentar realizar ultrapassagem em via proibida, foi impedido por veículo vindo em via contrária, retornando à pista correta e dando causa à colisão. Argumenta que sua versão dos fatos é de possível constatação pelas fotografias acostadas aos autos, onde se pode observar que não houve colisão lateral, mas sim traseira.
+(..)
+Da análise do caderno processual, não foi possível verificar, estreme de dúvidas, quem teria dado causa ao acidente, merecendo ser reformado o entendimento adotado singularmente. Isto porque, conforme da análise das fotos acostadas no boletim de ocorrência (mov.34.2), contrastadas com a narrativa nele apresentada e os depoimentos prestados pelas testemunhas, é possível se verificar que estes não se mostram suficientes ao reconhecimento de culpa dos apelantes pelo sinistro.
+(..)
+As fotografias apontadas pelos apelantes e colacionadas ao boletim de ocorrência não demonstram avarias nas laterais dos veículos, o que contraria o croqui apresentado, não sendo possível fazer qualquer conclusão acerca da causa determinante do acidente. Assim, as provas constantes dos autos são inconclusivas acerca da dinâmica do acidente. Ademais, a prova testemunhal seria a única passível de esclarecer os fatos efetivamente ocorridos. No entanto, as testemunhas foram contraditórias, sendo que nenhuma delas estava presente no local no momento do acidente.
+(..)
+Desta forma, não se pode responsabilizar os apelantes pelo ocorrido, tendo em vista a ausência de comprovação acerca de quem teria dado causa ao infortúnio. Destarte, necessária a reforma da decisão singular, haja vista a insuficiência de provas do direito alegado pela parte autora.
+Destarte, percebe-se que a alteração do entendimento do Tribunal de Justiça - sobre o reconhecimento da insuficiência de provas para atribuição de responsabilidade pelo acidente automobilístico - não prescindiria do reexame do acervo fático-probatório, o que não é possível nesta esfera recursal, em face do disposto na Súmula 7/STJ.
+Dito de outro modo, não há como chegar aconclusão distinta da adotada pela Corte estadual, a menos que se analisem osfatosocorridos e as provas produzidas.
+Nem se diga ser caso de revaloração da prova. Revalorar o fato é atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido pelas instâncias ordinárias.
+Ilustrativamente:
+AGRAVO INTERNO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. AÇÃO DE USUCAPIÃO. BEM DE TITULARIDADE DE SOCIEDADE DE ECONOMIA MISTA. NÃO AFETAÇÃOASERVIÇO PÚBLICOACARGO DELA. USUCAPIÃO EXTRAORDINÁRIA RECONHECIDA PELA CORTE DE ORIGEM. ACÓRDÃO EM CONSONÂNCIA COM O ENTENDIMENTO FIRMADO NESTA CORTE.
+IMPOSSIBILIDADE DE REVISÃO DOS REQUISITOS PARAACONCESSÃODAUSUCAPIÃO. SÚMULA N.º 7 DO STJ. DISSÍDIO. PRECEDENTESDAMESMA CORTE E COTEJO ANALÍTICO DEFICIENTE. INVIABILIDADE. SÚMULA N.º 13 DO STJ E INADEQUAÇÃO AO § 1º do ART. 255 DO RISTJ E § 1º DO ART. 1.029 DO NCPC. NÃO SE CONHECEU DO RECURSO ESPECIAL.
+1.Asdisposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo n.º 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2.A revaloração da provatem razão de ser quando se busca atribuir devido valor jurídicoa fato incontroversoreconhecido nas instâncias ordinárias.Atese recursaldareleitura do material de cognição para reverteranatureza privada do bem usucapiendo paraapública, buscando colheraimprescritibilidade (art. 102 do CC), não traduz merarevaloração da prova,mas reexame, vedado em recurso especial.
+3. Os precedentes do mesmo Tribunal não podem servir de paradigma para configuração do dissídio em razão do óbicedaSúmula n.º 13 do STJ 4. É inadmissível, em recurso especial,aanálise de suposta violação de dispositivos constitucionais, sob pena de se usurparacompetência do Supremo Tribunal Federal, nos termos do art. 102daCF.
+5. Agravo interno não provido.
+(AgInt no REsp 1939870/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 3/10/2022, DJe 5/10/2022).
+No caso, o que almeja aagravanteé a revisão da conclusão a que chegou a Corte estadual, acerca da responsabilidade pelo acidente.
+Por conseguinte, não é possível o acolhimento do recurso com a simples revaloração de fatos, mas, diferentemente, seria necessário o revolvimento do conjunto probatório, medida obstada pela Súmula 7/STJ.
+Não se olvide, ainda, o entendimento já adotado no Superior Tribunal de Justiça de que "a errônea valoração da prova que dá ensejo ao recurso especial é aquela que decorre de equívoco na aplicação de norma ou princípio no campo probatório, e não quanto às conclusões das instâncias ordinárias acerca dos elementos informativos coligidos aos autos do processo" (AREsp n. 1380879/RS, Ministro Ricardo Villas Bôas Cueva, DJe de 5/8/2020).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado dos recorridosem 2% (dois por cento) sobre o valor da causa.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios a esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO.ALEGAÇÃO DE VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA.REVISÃO DAS CONCLUSÕES DO TRIBUNAL ESTADUAL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
