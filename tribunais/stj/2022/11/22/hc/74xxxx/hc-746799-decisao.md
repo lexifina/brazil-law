@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contraacórdão assim relatado (fls. 104-105):
+1. Cuida-se de agravo em execução interposto por MARCELO DOS SANTOS SILVA contra a r. decisão prolatada pela MMª. Juíza de Direito da comarca em epígrafe, Dra. TAMARA PRISCILA TOCCI, que indeferiu seu pedido de progressão ao regime semiaberto.
+Sustenta o agravante, em síntese, que estão preenchidos os requisitos objetivo e subjetivo da progressão. Aponta, ademais, para a inidoneidade dos fundamentos da decisão e para a conclusão favorável do exame criminológico.
+Requer, nestes termos, o provimento do agravo.
+Oferecida a contraminuta, favorável ao deferimento do benefício, a r. decisão foi mantida por seus próprios fundamentos.
+Manifestou-se a douta Procuradoria Geral de Justiça pelo provimento do agravo.
+É o relatório.
+Consta dosautos queo paciente é reincidente específico e cumpre penas de 12 anos, 5 meses e 10 dias de reclusão, pela prática de dois roubos circunstanciados.
+Sustenta a Defesa que o Juízo de origem indeferiu a progressão de regime sob o fundamento de gravidade abstrata do delito e cometimento de faltas pretéritas, embora o exame criminológico tenha apontado que o sentenciado está apto a progredir para o regime intermediário e o MPSP tenha se manifestado favoravelmente.
+Ressalta que a falta gave é de 25/8/2019 e os dois últimos crimes foram cometidos quando estava em liberdade, em regime aberto e livramento, em 2013 e 2017.
+Assevera que "No tocante ao término do cumprimento da pena, foi juntado cálculo das penas realizado pelo Cartório, fls. 44/47, com previsão de término para 25/11/2023, e não como constou na FA apontada pela Juíza a quo" (fl. 6).
+Afirma que o sentenciado já cumpriu mais de 3/5 da pena e apresenta lapso para o regime aberto em 12/11/2021 e lapso para condicional em 16/04/2022, asseverandoqueo término da pena está previsto para 25/11/2023.
+Destaca que o Tribunal de origem negou provimento ao agravo em razão da reincidência específica e na suposta longa pena a cumprir.
+Requer, liminarmente, a concessão da ordem de habeas corpus, para que o paciente aguarde em regime semiaberto até o julgamento de mérito do presente writ e, no mérito, a confirmação da progressão de regime.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público Federal ofertou parecer, manifestando-se pelo não conhecimento ou denegação da ordem.
+Acerca da controvérsia, assim se manifestou o Tribunala quo(fls. 105-106):
+O agravante, reincidente específico, cumpre penas de 12 anos, 5 meses e 10 dias de reclusão, pela prática de dois roubos circunstanciados.
+O término do cumprimento da reprimenda está previsto para o dia 27 de novembro de 2026.
+Postulou a progressão para o regime semiaberto, sendo tal pretensão indeferida pelo Juízo das Execuções, sob o fundamento de que o sentenciado não preencheu o requisito subjetivo.
+Com razão.
+O agravante cumpre penas pela prática de dois roubos, além de ostentar anotação de três faltas disciplinares, sendo uma de natureza grave.
+É certo que ele foi submetido a exame multidisciplinar e contou com avaliação favorável.
+Contudo, o relatório psicológico não lhe favorece integralmente.
+A propósito, depreende-se das respostas aos quesitos formulados que o agravante "atualmente, exibe indícios de reflexão sobre sua conduta pregressa emdecorrência do prejuízo causado pelo cárcere".
+De fato, o relatório denota que o sentenciado apresenta crítica superficial sobre as consequências de seus atos, já que as relaciona ao seu aprisionamento.
+O aspecto negativo do exame, além do histórico já exposto, tornam temerária a concessão da benesse.
+À vista dessas particularidades e do fato de o agravante se encontrar na quinta execução, a nobre Magistrada negou fundamentadamente o pedido de progressão.
+Na primeira instância, assim foi tratado o tema (fls. 74-75):
+Ante a peculiaridade do caso, em que pese o cumprimento do requisito objetivo necessário à obtenção do benefício, consoante cálculo de fls. 238/239, faz-se necessária uma análise mais profunda da personalidade do reeducando e de suas reais condições para ser beneficiado com a progressão de regime e retornar, gradativamente, ao convívio social.
+Isso porque o sentenciado é reincidente, possuindo diversas condenações pela prática do crime de roubo e furto, o que demonstra personalidade voltada à prática delitiva.
+Com efeito, é absolutamente razoável, e por que não dizer recomendável, que, em casos tais, em razão da gravidade em concreto da conduta perpetrada e à vista dos demais elementos constantes dos autos, o magistrado tenha cautela e socorra-se de técnicos para auxiliá-lo na formação do seu convencimento sobre a conveniência da progressão do sentenciado para regime de cumprimento de pena mais brando.
+Convém destacar ainda que, no regime intermediário, o sentenciado terá direito a saídas temporárias, retornando, ainda que por curtos intervalos de tempo, ao convívio social, o que torna ainda mais imprescindível a necessidade de um prognóstico minimamente favorável
+ .. .
+Assim, determino, excepcionalmente, em relação a MARCELO DOS SANTOS SILVA, RG: 42.877.581, RGC: 42877581, RJI: 170203508-13, RJI: 17020350813, Penitenciária "ASP Joaquim Fonseca Lopes" de Parelheiros, a realização de exame criminológico para análise do preenchimento do requisito subjetivo ou, em caso e impossibilidade, avaliação psicossocial, a ser realizada no próprio estabelecimento em que cumpre sua pena.
+Como se observa, o Tribunal de origem manteve a decisão que negou ao paciente a progressão ao regime intermediário, em razão da reincidência, da gravidade dos crimes, da longevidade das penas, além do fato de o paciente possuir 3 faltas disciplinaresem seu prontuário executivo, sendo uma delas de natureza grave.
+Com efeito, em que pese ostentar bom comportamento carcerário (fl. 110) e o laudo do exame criminológico ter sido favorável à pretendida progressão (conforme destacado pelo TJ), observa-se não só 2 faltas de natureza média cometidas, em 7/3/2018 (reabilitada em 7/9/2018), e 25/3/2021 (reabilitada em 24/9/2021), como também umarazoavelmente recente falta grave praticada no dia 25/8/2019 (reabilitada em 25/8/2020).
+Desse modo, o entendimento da instância ordinária está em consonância com a jurisprudência desta Corte Superior, haja vista que, apesar de reabilitado, o histórico carcerário deve ser levado em consideração para a aferição do preenchimento do requisito subjetivo pelo apenado.Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. AUSÊNCIA DO REQUISITO SUBJETIVO. FALTAS DISCIPLINARES GRAVES E MÉDIAS. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. AGRAVO DESPROVIDO.
+1. Como é sabido, a execução progressiva da pena, com a transferência para regime menos gravoso, somente será concedida ao condenado que preencher, cumulativamente, os requisitos objetivo e subjetivo, conforme o disposto no art. 112 da Lei de Execução Penal.
+2. É certo que, para aferição do requisito subjetivo, nos termos da nova redação do artigo supramencionado, não mais se exige, de plano, a realização de exame criminológico, bastando, para tanto, o atestado de bom comportamento carcerário. Contudo, cabe ao Magistrado verificar o atendimento daquele requisito à luz do caso concreto, podendo, por isso, determinar a realização de exame criminológico, se entender necessário, ou mesmo negar o benefício, desde que o faça fundamentadamente.
+3. No caso, o indeferimento da progressão de regime foi devidamente fundamentado pela Corte de origem, porquanto o Agravante não ostenta bom comportamento durante a execução da pena, haja vista a constatação de vários registros de faltas disciplinares (quatro delas realizadas recentemente), sendo três graves, a última, praticada em 17/08/2019, e reabilitada em 16/08/2020, ainda pendente de reabilitação uma falta média (14/02/2022).
+4. Agravo regimental desprovido. (AgRg no HC n. 709.091/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO DA PROGRESSÃO AO REGIME SEMIABERTO. FUNDAMENTOS IDÔNEOS. ASPECTOS NEGATIVOS DO EXAME CRIMINOLÓGICO. HISTÓRICO DE FALTAS GRAVES. AUSÊNCIA DE ATIVIDADES LABORTERÁPICAS. NÃO VINCULAÇÃO DO EXAME CRIMINOLÓGICO. AUSÊNCIA DE LIMITE TEMPORAL PARA ANÁLISE DA FALTA GRAVE. RECURSO NÃO PROVIDO.
+1.  ..  o eg. Tribunal a quo manteve a decisão que indeferiu a progressão de regime ao paciente, com fundamento no resultado do exame criminológico desfavorável, aliado a outros elementos colhidos durante a execução da penal, como o histórico carcerário conturbado e a existência de faltas graves, aptos a demonstrar a ausência de requisito subjetivo.  ..  (AgRg no HC n. 549.018/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (Desembargador Convocado do TJ/PE), Quinta Turma, julgado em 11/2/2020, DJe 19/2/2020).
+2. No caso, o Tribunal coator apontou fatores concretos da execução da pena, suficientes para o indeferimento da progressão de regime, quais sejam: aspectos negativos do parecer criminológico, histórico prisional conturbado, com duas faltas disciplinares de natureza grave e outras duas de natureza média, bem como ausência de atividades laborterápicas.
+3. Em que pese a existência de pontos positivos na avaliação psicológica e social, os elementos negativos dos referidos relatórios e a análise do histórico criminal da agravante revelam a impossibilidade de sua promoção a regime mais brando  ..  (HC n. 490.487/SP, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 8/4/2019)  AgRg no HC 639.850/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 25/5/2021, DJe 1º/6/2021 .
+4. O exame criminológico não vincula o magistrado, que deverá formar sua convicção após a análise de todos os elementos constantes dos respectivos autos.  ..  (HC 372.954/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 2/2/2017, DJe 10/2/2017)
+5. A prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime. A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Min. FELIX FISCHER, julgado em 28/6/2016).
+6. Diante de todos esses elementos (prova técnica com aspectos negativos, ausência de atividades laborterápicas e histórico de faltas), não se pode dizer que a periculosidade foi aferida mediante exercício de futurologia, e sim com base em fatores concretos da execução da pena.
+7. Agravo regimental não provido. (AgRg no HC n. 710.477/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 14/12/2021, DJe de 17/12/2021.)
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
