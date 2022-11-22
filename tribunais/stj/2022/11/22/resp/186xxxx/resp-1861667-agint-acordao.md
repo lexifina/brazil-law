@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Jorge Mussi, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Thereza de Assis Moura.
+RELATÓRIO
+Trata-se de agravo interno interposto por ILBEC-INSTITUIÇÃO LUSO-BRASILEIRA DE EDUCAÇÃO E CULTURA S/S LTDA. contra decisão que negou seguimento ao recurso extraordinário assim ementada (fl. 1.923):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. SEGUIMENTO NEGADO.
+A parte agravante sustenta não ser caso de aplicação do Tema n. 339 do Supremo Tribunal Federal, reiterando que o acórdão recorrido teria violadoo art. 93, IX, da Constituição Federal.
+Afirma que (fl. 1.936):
+Não obstante a clareza dos argumentos expendidos pela agravante nos embargos de declaração e no agravo interno, o acórdão tão somente reproduziu os argumentos que constam na decisão de admissibilidade e na decisão que rejeitou os embargos de declaração opostos anteriormente pela recorrente, o que também configura negativa de prestação jurisdicional e nova afronta ao art. 93, IX/CF.
+Requer o provimento do agravo para que o recurso extraordinário seja admitido e remetido ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 1.944-1.947, 1.951-1.965 e 1.968-1.972.
+É o relatório.
+EMENTA
+AGRAVO INTERNONO RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA N. 339/STF.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema n. 339/STF).
+2. Agravo internoa que se nega provimento.
+VOTO
+O STF, ao interpretar o art. 93, IX, da Constituição da República, firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se requer o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+A conclusão mencionada ficou sedimentada sob o regime da repercussão geral pela Suprema Corte, no Tema n. 339/STF, segundo o qual "o art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do aresto paradigma:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI n. 791.292-QO-RG, relator Ministro Gilmar Mendes, Tribunal Pleno, julgado em 23/6/2010, DJe de 13/8/2010.)
+No caso, constata-se que foram declinadas as razões pelas quais se negou provimento ao agravo interno, valendo destacar o seguinte excerto (fls. 1.779-1.781):
+A alegação de que a previsão do art. 489, § 1º, do CPC/2015 é incompatível com o entendimento de que o órgão julgador não é obrigado a rebater todos os argumentos das partes contraria jurisprudência que permanece firme no Superior Tribunal de Justiça. Nesse sentido: AgInt no AREsp 1.392.964/RJ, Relator Min. Francisco Falcão, Segunda Turma, DJe 24.9.2020; AgInt no AREsp 1.442.379/CE, Relator Min. Marco Buzzi, Quarta Turma, DJe 4.8.2020; AgInt no AREsp 1.500.162/SP, Relator Min. Marco Aurélio Bellizze, Terceira Turma, DJe 29.11.2019.
+Ademais, a parte agravante formula alegações genéricas, sem explicitar precisamente os pontos que teriam sido omitidos, descumprindo, assim, o ônus da impugnação específica que o art. 1.021, § 1º, do CPC/2015 impõe.
+Prova pericial
+Com relação à necessidade de prova pericial, consignou-se no acórdão recorrido que "são válidas as provas documentais juntadas, não havendo prejuízo ao exercício do contraditório e da ampla defesa" e que "a parte ré tem plenas condições de aferir a viabilidade de demolição, de modo que desnecessária a produção deperícia prévia." (fls. 1.356-1.367, e-STJ).
+Incide no caso o entendimento de que, "em sede de recurso especial, é inviável a verificação da necessidade da produção da prova pericial, tendo em vista a necessidade de reexame de matéria fático-probatória, providência que esbarra na vedação da Súmula 7/STJ." (AgInt no REsp 1.834.420/SC, Relator Min. Sérgio Kukina, Primeira Turma, DJe 18.2.2020).
+Princípio da congruência
+O recorrente afirma que a sentença foi extra petita, sob o argumento de que "o pedido feito pelo MP (20% do valor do empreendimento) é totalmente diferente do que foi deferido pelo juízo (multiplicar o valor do m2 de empreendimento semelhante pelo número de m2 que deveriam ser demolidos)." (fl. 1.445, e-STJ).
+Sobre esse ponto, o Tribunal de origem aduziu que "os moldes fixados na r. sentença não configuram a ocorrência de sentença extra petita, pois possível ao Magistrado impor condenação diversa da sugerida pelo Ministério Público." (fl. 1.352, e-STJ).
+A decisão deve ser mantida, pois, "conforme entendimento consolidado neste Tribunal, não configura julgamento ultra ou extra petita, com violação ao princípio da congruência ou da adstrição, o provimento jurisdicional exarado nos limites do pedido, o qual deve ser interpretado lógica e sistematicamente a partir de toda a petição inicial." (STJ, AgInt no REsp 1.829.793/SE, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 23.10.2019). No mesmo sentido: AgInt no AREsp 1.316.749/SC, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19.12.2018. AgInt no AREsp 1.508.585/SP, Relator Marco Aurélio Bellizze, Terceira Turma, DJe 28.5.2020.
+Súmula 7/STJ
+O Tribunal de origem afirmou que, no caso, "a legitimidade passiva da ILBEC Luso, de seu turno, é manifesta, tendo em vista a sua participação direta nas irregularidades apontadas no feito." (fl. 1.355, e-STJ). Consignou ainda que "ficou provado que a edificação ultrapassou, em muito, o coeficiente máximo de aproveitamento (4,0), previsto no art. 12, da Lei 13.558/2003, alterada pela Lei 13.876/2004, pois corresponde a 6,18, outra razão que impede a regularização da edificação." (fl. 1358, e-STJ).
+Essas premissas não podem ser reexaminadas pelo Superior Tribunal de Justiça, porquanto são estritamente fáticas, assim como não se pode acolher, pelo mesmo motivo, a alegação de que a obrigação imposta é inexequível. Além disso, se de obrigação inexequível se trata, a solução está dada no próprio comando judicial, que previu a possibilidade de conversão em perdas e danos.
+Proporcionalidade das perdas e danos e da multa
+As instâncias ordinárias fixaram "multa diária de R$ 20.000,00, limitada a R$ 10.000.000,00" (fl. 1.346, e-STJ).
+Em relação à recomposição em face dos danos, a sentença, corroborada pelo acórdão recorrido, adotou o seguinte entendimento (fl. 930, e-STJ): "acaso inviável a demolição da parte irregular da obra, ficam os réus, solidariamente, convertida a obrigação em perdas e danos e assente ainda uma vez tratar-se de providência subsidiária, obrigados a indenizar tendo em conta o valor equivalente ao metro quadrado de construção semelhante, calculado o valor do metro quadrado de empreendimento semelhante, por perícia, e multiplicado pelo número de metros quadrados que deveriam ser demolidos e não puderam, por absoluta impossibilidade física, serem."
+Não sendo o caso de manifesta desproporcionalidade, a Súmula 7/STJ impede a revisão da quantificação das perdas e danos e da multa.
+Da mesma maneira, foram apresentados os fundamentos para a rejeição dos embargos de declaração opostos na sequência (fls. 1.853-1.854):
+Nos termos do art. 1.022 do Código de Processo Civil, os Embargos de Declaração constituem recurso de rígidos contornos processuais e destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+As matérias alegadas pela embargante como omissas - não incidência da Súmula 7 do STJ e decisão extra petita - foram expressamente decididas no acórdão recorrido, de modo que se verifica que a embargante pretende apenas promover indevida rediscussão da matéria.  ..
+ ..
+Como se constata, não há falar em omissão ou obscuridade, uma vez que o decisum julgou integralmente a lide e solucionou a controvérsia, manifestando-se em relação às matérias apontadas pelo embargante como omissas.
+O STJ entende que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
