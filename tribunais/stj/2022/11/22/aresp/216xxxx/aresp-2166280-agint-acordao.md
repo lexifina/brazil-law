@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Cuida-se de agravo interno interposto por ASSUÃ CONSTRUÇÕES ENGENHARIA E COMÉRCIO LTDA. e ASSUÃ INCORPORADORA LTDA., contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, conheceu do agravo para não conhecer do recurso especial.
+Ação: indenizatória, ajuizada por SEBASTIÃO DE LIMA MARTINS JÚNIOR, em face de ASSUÃ CONSTRUÇÕES ENGENHARIA E COMÉRCIO LTDA. e ASSUÃ INCORPORADORA LTDA.
+Sentença: julgou parcialmente procedentes os pedidos, para, ratificados os efeitos da tutela antecipada, condenar as agravantes a indenizarem o agravado na forma de lucros cessantes, rejeitada a pretensão de imposição às agravantes de multa contratual. Desta forma, condenou as agravantes ao pagamento das custas e dos honorários, estes arbitrados em 15% do valor atribuído à causa.
+Acórdão: deu parcial provimento à Apelação interposta pelas agravantes, somente para reduzir o patamar dos lucros cessantes para 0,5%, mantida a sucumbência.
+Decisão monocrática: conheceu do agravo para não conhecer do recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Agravo interno: sustentam que a decisão agravada não se atentou aos dispositivos trazidos anteriormente, ou seja, à jurisprudência deste Colendo Superior Tribunal de Justiça.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação indenizatória.
+2. A ausência de cotejo analítico e a não comprovação da similitude fática, aptos a demonstrar a divergência jurisprudencial sustentada pelas agravantes, violam o art. 1.029, §1º do CPC/2015.
+3. Agravo interno não provido.
+VOTO
+A EXMA. SRA. MINISTRA NANCY ANDRIGHI (Relatora):Trata-se de agravo interno interposto por ASSUÃ CONSTRUÇÕES ENGENHARIA E COMÉRCIO LTDA. e ASSUÃ INCORPORADORA LTDA., contra decisão proferida pela Presidência desta Corte que, ante as suas atribuições regimentais, conheceu do agravo para não conhecer do recurso especial.
+Pela análise das razões recursais apresentadas, verifica-se que as agravantes não trouxeram qualquer argumento novo capaz de ilidir os fundamentos da decisão agravada.
+As agravantes se insurgem contra a decisão proferida pela Presidência desta Corte, sustentando que ela não se atentou aos dispositivos trazidos anteriormente, ou seja, à jurisprudência deste Colendo Superior Tribunal de Justiça.
+No entanto, malgrado o inconformismo das agravantes, a leitura das razões recursais do agravo interno, aliada a leitura da decisão recorrida, demonstra que razão não lhes assiste.
+É de se observar que, em suas razões de recurso especial, as agravantes alegam que, com base no artigo 105, inciso III, alínea c, da Constituição Federal, o apelo especial critica decisão proferida pela Egrégia Câmara de Direito Privado do Tribunal de Justiça de São Paulo, que por contrariedade interpretou legislação federal de forma diversa da que vem se manifestando este Colendo Superior Tribunal de Justiça.
+No entanto, das razões expostas no recurso especial, percebe-se que as agravantes deixaram de promover o necessário cotejo analítico e a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, uma vez que a análise do recurso especial fundado na alínea "c" do permissivo constitucional exige a comprovação do dissídio, por meio da apresentação de julgados que evidenciem a similitude fática das situações às quais foram dadas soluções distintas, na aplicação do direito à espécie. Nesse sentido: AgInt no AgInt no AREsp 1.589.874/SE, 4ª Turma, DJe 10/12/2020; EDcl nos EDcl no AgInt no AREsp 1.498.018/SC, 4ª Turma, DJe 04/12/2020; AgInt no REsp 1.811.525/DF, 3ª Turma, DJe 01/09/2020; AgInt no AgInt no AREsp 1.579.612/RS, 3ª Turma, DJe 18/08/2020.
+Já quanto as razões expostas em sede de agravo interno, no tocante ao alegado dissídio jurisprudencial, vê-se que melhor sorte não assiste as agravantes, uma vez que, é entendimento desta Corte que a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações. Nesse sentido: AgInt no AREsp 1.897.093/RJ, 3ª Turma, DJe 18/03/2022; AgInt no REsp 1.950.258/SP, 2ª Turma, DJe 16/02/2022; AgInt no AREsp 1.888.764/SP, 1ª Turma, DJe 09/12/2021; AgRg no AREsp 1.900.051/CE, 5ª Turma, DJe 20/08/2021; AgInt no AREsp 1.204.206/PR, 4ª Turma, DJe 19/05/2021.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
