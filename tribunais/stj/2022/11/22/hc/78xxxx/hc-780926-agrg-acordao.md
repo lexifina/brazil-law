@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Cuida-se de agravo regimental interposto por JONATHAN JUNIO DA SILVA contra decisão monocrática de minha lavra que indeferiu liminarmente ohabeas corpus impetrado em seu favor e por meio do qual pretendia a expedição de salvo conduto que lhe garantisse o direito de aguardar, no regime semiaberto, eventual determinação de realização de exame criminológico que possa vir a ser estabelecida pelo Tribunal de Justiça quando do julgamento do agravo em execução interposto pelo Ministério Público.
+Não conheci dohabeas corpus, ao fundamento de que é inviável a impetração do writ para obstar eventuais ilegalidades ou constrangimentos ainda não acorridos e sem comprovação de fundado receio de que realmente ocorrerão.
+No presente agravo regimental, a defesa se limita a reiterar as teses já postas na impetração e requer a reconsideração da decisão agravada ou que o feito seja submetido a julgamento perante a Quinta Turma desta Corte.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS. EXECUÇÃO PENAL. AGRAVO EM EXECUÇÃO AINDA NÃO APRECIADO PELO TRIBUNAL DE ORIGEM.HABEAS CORPUS PREVENTIVO. NÃO CABIMENTO. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO IMPUGNADOS. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+1. A ausência de impugnação específica dos fundamentos da decisão agravada no momento oportuno impede o conhecimento do recurso, atraindo o óbice da Súmula 182 desta Corte Superior ("é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada").
+In casu, o agravante não apresentou nenhum argumento para rebater os fundamentos que ensejaram o não conhecimento da impetração.
+2. A mera expectativa de julgamento contrário não viabiliza a impetração de habeas corpus preventivo, uma vez que inexiste, na espécie,omissão ou ato a ser imputado como coator.
+3. Nos termos da jurisprudência desta Corte, " i nviável utilizar o habeas corpus para obstar eventuais ilegalidades ou constrangimentos ainda não acontecidos e sem comprovação (fundado receio) de que realmente ocorrerão, sobretudo quando se postula expedição de salvo-conduto para assegurar o exercício de direitos que já estão protegidos constitucionalmente" (RHC 46.334/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 9/9/2014, DJe 18/9/2014).
+4. Agravo regimental desprovido.
+VOTO
+O agravo regimental é tempestivo.
+Verifico, no entanto, que a defesa não cuidou de impugnar, nas razões do agravo regimental, nenhum dos fundamentos que levaram ao não conhecimento de sua impetração. Aplicável, assim, ao caso concreto, por analogia, o disposto no enunciado n. 182 da Súmula do STJ, segundo o qual "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Ainda que assim não fosse, não vejo motivos para reconsiderar a decisão agravada, cujos termos foram os seguintes:
+Busca-se, no presente processo, a expedição de salvo conduto em favor do paciente, visto que teme que o Tribunal de Justiça dê provimento ao agravo em execução interposto pelo Ministério Público estadual no sentido de determinar a realização de exame criminológico para fins de progressão de regime.
+Com efeito, "Ohabeas corpuspreventivo tem cabimento quando, de fato, houver ameaça à liberdade de locomoção, isto é, sempre que fundado for o receio de o paciente ser preso ilegalmente. E tal receio haverá de resultar de ameaça concreta de iminente prisão" (AgRg no HC 84.246/RS, Rel. Ministro NILSON NAVES, Sexta Turma, julgado em 30/10/2007, DJ 19/12/2007).
+Assim, é " i nviável utilizar ohabeas corpuspara obstar eventuais ilegalidades ou constrangimentos ainda não acontecidos e sem comprovação (fundado receio) de que realmente ocorrerão, sobretudo quando se postula expedição de salvo-conduto para assegurar o exercício de direitos que já estão protegidos constitucionalmente" (RHC 46.334/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 9/9/2014, DJe 18/9/2014).
+Em igual sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. INTERROGATÓRIO DO PACIENTE NÃO REALIZADO. NULIDADE NÃO ALEGADA A TEMPO E MODO. ART. 571 DO CPP. PRECLUSÃO. PACIENTE FORAGIDO. APLICAÇÃO DO ART. 565 DO CPP. EXPEDIÇÃO DE SALVO CONDUTO. NÃO CABIMENTO. DEFICIÊNCIA DA DEFESA TÉCNICA. ALEGAÇÃO NÃO APRECIADA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+1. O art. 571 do Código de Processo Penal estabelece que as nulidades ocorridas nos processos de competência do júri (1ª fase) deverão ser aguidas até as alegações finais, o que não ocorreu na hipótese dos autos. 2. No caso, a defesa suscitou a nulidade do feito por ausência de interrogatório do acusado somente 10 (dez) anos após a sentença de pronúncia, o que impede o exame do pleito em razão da preclusão.
+3. Por outro lado, de acordo com o artigo 565 do Código de Processo Penal, "nenhuma das partes poderá argüir nulidade a que haja dado causa, ou para que tenha concorrido, ou referente a formalidade cuja observância só à parte contrária interesse".
+4. Na hipótese, o paciente, embora conhecesse da ação penal em seu desfavor, tendo em vista que constituiu advogado para sua defesa, permaneceu foragido por mais de 10 (dez) anos (dos fatos - 2006 - até a revogação de sua prisão em 2017). Sendo assim, em momento algum demonstrou interesse em participar do interrogatório na 1ª fase do procedimento do júri, sendo que a sentença de pronúncia foi prolatada em 2009. Por fim, o paciente poderá ser ouvido no plenário do Tribunal do Júri - juízo natural da causa -, julgamento que ocorrerá em fevereiro de 2020, momento em que poderá exercer, como bem quiser, sua auto defesa.
+5. O habeas corpus preventivo visa a coibir constrangimento ilegal real e iminente à liberdade de locomoção do indivíduo, não se prestando a impedir constrição supostamente ilegal, meramente intuitiva e calcada em ilações e suposições desprovidas de base fática. No caso, não foi demonstrado pela defesa a existência de ato ou ameaça real ou iminente contra a liberdade de ir e vir do paciente.
+6. Por fim, no que se refere à alegada deficiência de defesa no curso da ação penal, o tema não foi examinado na Corte de origem, o que impede o conhecimento da matéria por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+7. Agravo regimental não provido.
+(AgRg no HC 533.821/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 12/11/2019, DJe 26/11/2019)
+PROCESSO PENAL. EMBARGOS DE DECLARAÇÃO. HABEAS CORPUS. AMBIGUIDADE, OBSCURIDADE, CONTRADIÇÃO E/OU OMISSÃO. NÃO-OCORRÊNCIA. EFEITO INFRINGENTE. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis nas hipóteses de haverambiguidade, obscuridade, contradição e/ou omissão no acórdão prolatado (artigo 619 do Código de Processo Penal). In casu, evidencia-se a não-ocorrência de tais condições.
+2. O pedido de efeito infringente, muito embora seja autorizado em situações extraordinárias - o que não se verifica na hipótese, denota, no presente caso, o intuito do embargante em ver modificado o decidido, pugnando pelo reexame do conteúdo meritório.
+3. O pleito de expedição de salvo-conduto também não foi examinado pelo Tribunal de origem, não podendo, assim, ser apreciada a matéria por este Superior Tribunal, sob pena de indevida supressão de instância. Ademais, ainda que fosse conhecido o pedido, inviável a tese defensiva, visto que somente é cabível o habeas corpus preventivo diante de fundado receio de que o paciente possa vir a sofrer coação ilegal em seu direito de ir, vir e permanecer. In casu, o receio ou a mera expectativa, sem qualquer arrimo fático, não autoriza a expedição de salvo-conduto.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RHC 68.434/CE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 3/5/2016, DJe 12/5/2016)
+HABEAS CORPUS PREVENTIVO. PROCESSUAL PENAL. INEXISTÊNCIA DE ATO CONCRETO DE AMEAÇA AO DIREITO DE LOCOMOÇÃO DOS PACIENTES. MERO TEMOR DE DECRETAÇÃO DA PRISÃO PREVENTIVA. AUSÊNCIA DE INTERESSE PROCESSUAL.
+1. Não existindo ameaça concreta de constrangimento ilegal ao direito de locomoção dos ora Pacientes, carece a impetração de interesse processual.Precedentes desta Corte.
+2. Habeas corpus não conhecido.
+(HC 124.935/AC, Rel. Ministra LAURITA VAZ, Quinta Turma, julgado em 18/5/2010, DJe 7/6/2010)
+PROCESSUAL PENAL. HABEAS CORPUS PREVENTIVO. "TESTE DO BAFÔMETRO" (ALCOOLEMIA). SALVO-CONDUTO PARA SUA NÃO-REALIZAÇÃO. "ATO DE HIPÓTESE". VIA INADEQUADA. ORDEM DENEGADA.
+1. É manifestamente incabível a utilização do habeas corpus, em sua versão preventiva, quando o alegado risco à liberdade de locomoção é meramente hipotético, "ato de hipótese". Precedentes do STJ e STF.
+2. Ademais, "Eventuais sanções decorrentes de recusa do paciente a se submeter a qualquer dos procedimentos previstos no artigo 277 do Código de Trânsito Brasileiro, dentre eles o teste de alcoolemia, não vão além de aplicação de multa e suspensão do direito de dirigir e de medidas administrativas, não existindo, assim, constrangimento a ser sanado no âmbito do writ."(AgRg no HC 133840/PR, Rel. Min. convocado HAROLDO RODRIGUES, DJe 8/3/10).
+3. Ordem denegada.
+(HC 140.861/SP, Rel. Ministro ARNALDO ESTEVES LIMA, Quinta Turma, julgado em 13/4/2010, DJe 3/5/2010)
+Diante do exposto,indefiro liminarmenteo presentehabeas corpus.
+Diante do exposto,nego provimentoao agravo regimental.
+É como voto.
