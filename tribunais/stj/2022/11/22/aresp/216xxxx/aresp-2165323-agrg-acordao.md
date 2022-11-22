@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Laurita Vaz e os Srs. Ministros Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que negou provimento ao agravo em recurso especial.
+Alega que "pouco importa se os objetos e documentos da vítima foram encontrados em poder do réu, até porque a busca e apreensão no domicilio do denunciado só ocorreu por conta do reconhecimento por foto, logo não há que se falar em fonte independente ou descoberta inevitável".
+Sustenta a não incidência da Súmula 7/STJ, pois busca apenas a revaloração jurídica da prova para fins de absolvição.
+Requer a reconsideração da decisão agravada ou a apreciação do recurso pela Sexta Turma. Impugnação apresentada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO PESSOAL. INOBSERVÂNCIA DO PROCEDIMENTO PREVISTO NO ART. 226 DO CPP. EXISTÊNCIA DE OUTRAS PROVAS VÁLIDAS E INDEPENDENTES COMO FUNDAMENTO PARA A CONDENAÇÃO. REEXAME PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A inobservância dos ditames do art. 226 do CPP macula o ato de reconhecimento da autoria delitivamesmo se confirmado em juízo. No entanto,é possível a manutenção da condenação se houver provas válidas e independentes do ato viciado de reconhecimento.
+2. Não se constata a alegada nulidade. O reconhecimento da vítima, em desacordo com o art. 226 do CPP, não constituiu o único elemento de prova, porquantofoi corroborado por outras provas independentes, consubstanciadas na apreensão de objetos e documentos da vítima em poder do acusado.
+3. Constatado que a condenação encontra-se devidamente fundamentada nas provas colhidas nos autos, a pretensa revisão do julgado, com vistas à absolvição do recorrente, não se coaduna com a estreita via do especial, dada a necessidade de reexame de fatos e provas, segundo o disposto na Súmula 7/STJ.
+4. Agravo regimental improvido.
+VOTO
+A decisão agravada está assim fundamentada:
+Nos termos da jurisprudência desta Corte, "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa" (HC 652.284/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/4/2021, DJe 3/5/2021).
+Dessa forma, não obstante o entendimento posto quanto ao rito previsto no art. 226 do CPP, verifica-se do julgado a existência de outras provas independentes aptas a evidenciar a autoria delitiva.
+Como se vê, a autoria ficou evidenciada, não só nas declarações da vítima em juízo, como também na apreensão de objetos e documentos da vítima em poder do acusado, o que afasta a alegação de nulidade. Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO. ABSOLVIÇÃO. IMPROPRIEDADE DA VIA ELEITA. ÓBICE AO REVOLVIMENTO PROBATÓRIO. RECONHECIMENTO FOTOGRÁFICO. PRESENÇA DE OUTROS ELEMENTOS DE CONVICÇÃO HÍGIDOS PARA FUNDAMENTAR A SENTENÇA CONDENATÓRIA. AGRAVO DESPROVIDO.
+1. Conforme o reconhecido na decisão ora hostilizada, se as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, ser o réu autor do delito descrito na exordial acusatória, a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede de writ. Ainda, o alegado álibi defensivo foi considerando no contexto das provas produzidas na persecução penal, não tendo sido, contudo, considerado forte o bastante para infirmar os elementos de convicção amealhados nos autos, sendo tal conclusão inafastável, de igual modo, na via do mandamus.
+3. Em julgados recentes, ambas as Turmas que compõe a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa" (HC 652.284/SC, Rel.
+Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/4/2021, DJe 3/5/2021).
+4. Dos elementos probatórios que instruem o feito, verifica-se que a autoria delitiva do crime de roubo não tem como único elemento de prova o reconhecimento fotográfico, o que gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial. No caso, além do referido reconhecimento da vítima, as instâncias ordinárias valoraram a confissão extrajudicial do ora agravante e do corréu, bem como o fato de alguns bens pertencentes à vitima terem sido localizados dentro do veículo Gol de sua propriedade, não tendo sido olvidado, ainda, o teor do depoimento dos policiais responsáveis pelo flagrante, o queproduz cognição com profundidade suficiente para o juízo condenatório.
+5. Agravo desprovido.
+(AgRg no HC n. 749.589/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022.)
+Ademais, tendo as instâncias ordinárias concluído pela autoria e materialidade delitiva, com base nas provas produzidas nos autos, a reversão das premissas fáticas do julgado, para fins de absolvição, demandaria o revolvimento do conjunto fático- probatório, inadmissível a teor da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo em recurso especial.
+Tal como consignado na decisão agravada, ainobservância dos ditames do art. 226 do CPP macula o ato de reconhecimento da autoria delitivamesmo se confirmado em juízo. No entanto,é possível a manutenção da condenação se houver provas válidas e independentes do ato viciado de reconhecimento.
+Nesse contexto, o reconhecimento da vítima em desacordo com o art. 226 do CPP não constituiu o único elemento de prova, porquanto foi corroborado por outras provas independentes e válidas, consubstanciadas na apreensão de objetos e documentos da vítima em poder do acusado.
+Por fim, como já salientado, uma vez que a condenação encontra-se devidamente fundamentada nas provas colhidas nos autos, a pretensa revisão do julgado, com vistas à (pretendida) absolvição, não se coaduna com a estreita via do especial, dada a necessidade de reexame de fatos e provas, segundo o disposto na Súmula 7/STJ.
+A parte agravante, portanto, não trouxe fundamentos capazes de reformar a decisão agravada, que se mantém por seus próprios fundamentos, contexto no qual nego provimento ao agravo regimental.
+É o voto.
