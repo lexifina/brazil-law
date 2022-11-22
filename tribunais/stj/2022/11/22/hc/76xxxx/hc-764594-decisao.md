@@ -1,0 +1,30 @@
+DECISÃO
+ADEMILSON ADEMAR DA SILVAalega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulona Apelação Criminal n.1500646-94.2020.8.26.0628.
+Consta dos autos que opaciente foi condenadoa 10 anos de reclusão, em regime fechado, mais multa, como incurso noart. 33, caput, da Lei n. 11.343/2006.
+Busca-se, por meio deste writ,a redução da pena-base, por entender desproporcional o montante fixado.
+Indeferida a liminar, oMinistério Público Federal opinou pela concessão parcial da ordem.
+Decido.
+I. Pena-base
+No que tange à pretendida redução da pena-base, cumpre salientar que a fixação da pena é regulada por princípios e regras constitucionais e legais previstos, respectivamente, no art. 5º, XLVI, da Constituição Federal, e nos arts. 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualização da medida concreta para que, então, seja eleito o quantum de pena a ser aplicada ao condenado criminalmente, visando à prevenção e à repressão do delito perpetrado.
+Assim, para chegar a uma aplicação justa da lei penal, o sentenciante, dentro dessa discricionariedade juridicamente vinculada, deve atentar-se para as singularidades do caso concreto, cumprindo-lhe, na primeira etapa do procedimento trifásico, guiar-se pelas circunstâncias relacionadas no caput do art. 59 do Código Penal, as quais não deve se furtar de analisar individualmente. São elas: culpabilidade; antecedentes; conduta social; personalidade do agente; motivos, circunstâncias e consequências do crime; comportamento da vítima.
+No caso, o Juiz sentenciante estabeleceu a pena-base em 7 anos e 6 meses de reclusão e 750 dias-multa "considerando que o acusado foi surpreendido com expressiva quantidade e diversidade de drogas, conforme fotografia de fls. 37 e auto de exibição e apreensão de fls. 12/13, dividida em 142 (cento e quarenta e duas) porções de cocaína pesando um total de 1,8kg, 94 (noventa e quatro) porções de maconha pesando um total de 7,650kg, e 26 (vinte e seis) porções de "crack" pesando um total de 200g" e "tendo em vista que as investigações demonstraram que o réu traficava cocaína e maconha" (fl. 54).
+O Tribunal de origem, por sua vez, manteve a sentença condenatória sob os mesmos fundamentos.
+No caso sob exame, observa-se, pois, que o juiz fixou a pena-base justamente em consonância com o art. 42 da Lei de Drogas, ao mencionar a quantidade e a natureza dadroga apreendida.
+Entretanto,embora tais argumentos constituam, de fato, elementos idôneos a serem considerados na dosimetria da pena, entendo que, ainda assim,os fundamentos mencionados, por si só, não justificam um aumento em tão grande proporção -50% do patamar mínimo-,em especial porque todas as demais circunstâncias judiciais foram favoráveis ao réu.
+Diante de tais considerações, a ordem deve deve ser concedida, nesse ponto, a fim de reduzir a pena-base do paciente, de 7 anos e 6 meses de reclusão e pagamento de 750 dias-multa para o patamarde6 anos de reclusão e pagamento de 600 dias-multa.
+Apenas ad cautelam, esclareço que o provimento do recurso - nos termos em que delineados anteriormente - em nenhum momento traduz inobservância ao princípio do livre convencimento motivado; trata-se, na verdade, de controle de legalidade e de constitucionalidade dos critérios empregados pelas instâncias ordinárias na dosimetria da pena, bem como de correção - perfeitamente possível- de uma evidente discrepância na reprimenda imposta ao acusado.
+A propósito, destaco que, segundo entendimento do Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas. Às Cortes Superiores, no exame da dosimetria das penas em grau recursal, compete o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias, nas frações de aumento ou diminuição adotadas pelas instâncias anteriores" (RHC n. 115.654/BA, Rel. Ministra Rosa Weber, 1ª T., DJe 21/11/2013). Tal situação, conforme anteriormente salientado, ficou devidamente caracterizada na espécie dos autos.
+II. Minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+Segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Vale dizer, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+No caso, o benefício deixou de ser aplicado em razão da reincidência do réu (fl. 103), de maneira que não há constrangimento a ser sanado.
+III.Nova dosimetria
+A propósito de estabelecer nova dosimetria da pena, observo que a pena-base ficou estabelecida, nos moldes acima delineados, em 6 anosde reclusão e pagamento de 600 dias-multa.
+Na segunda etapa, ausentes as atenuantes, tal como procedido pela instância ordinária,agravo a pena em 1/3, o que totaliza 8 anosde reclusão e 800 dias-multa.
+Na terceira fase, ausentes causas de aumento e de diminuição, torno a reprimenda definitiva em 8 anos de reclusão e pagamento de 800 dias-multa, mantido o regime fechado em razão do quantum da pena aplicado e da reincidência.
+IV. Dispositivo
+À vista do exposto, concedo em parte a ordem,a fim de reduzir a pena-base e tornar a reprimenda imposta ao réu definitiva em8 anos de reclusão e pagamento de 800 dias-multa(Processo 1500646-94.2020.8.26.0628, Vara Criminal de Taboão da Serra - SP).
+Comunique-se, com urgência.
+Publique-se e intimem-se.
