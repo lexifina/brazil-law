@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interno no agravo em recurso especial interposto por TRAVESSIA SECURITIZADORA DE CRÉDITOS FINANCEIROS X S.A., contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea "a" da Constituição Federal.
+Agravo em recurso especial interposto em: 26/11/2021.
+Concluso ao gabinete em: 09/11/2022.
+Ação: de execução de título extrajudicial proposta pelo BANCO DO BRASIL S.A, em desfavor de DAFRA DA AMAZÔNIA INDÚSTRIA E COMÉRCIO DE MOTOCICLETAS LTDA, GLOBALPACK INDÚSTRIA E COMÉRCIO LTDA, ITÁLIA MOTORI VEÍCULOS LTDA, E ITAVEMA ITÁLIA VEÍCULOS E MAQUINAS LTDA. Houve, em 09.09.2020 cessão do crédito discutido nos autos para o Fundo de Investimento I, a qual ingressou no pólo ativo da execução, em substituição ao BANCO DO BRASIL S.A, credor original. Em 23.11.2020 a agravada TRAVESSIA SECURITIZADORA DE CRÉDITOS FINANCEIROS X S.A., ingressou no pólo ativo da execução, como substituta processual do Fundo de Investimento I.
+Decisão interlocutória: deferiu a inclusão da Associação dos Advogados do Banco do Brasil no polo ativo da execução, para fins de executar os honorários advocatícios fixados nos termos do artigo 827 do CPC.
+Acórdão: deu provimento ao agravo de instrumento para indeferir o ingresso da ASABB no feito, nos termos da seguinte ementa:
+"HONORÁRIOS SUCUMBENCIAIS. Fixação em sentença que julgou improcedentes os embargos à execução. Crédito cedido após o julgamento. Substituição processual do cedente pelo cessionário. Execução da verba honorária nos próprios autos. Pedido deduzido pelos advogados do cedente. Impossibilidade. Faculdade reservada aos advogados da exequente e desde que inexistente conflito de interesse entre tais patronos e seus constituintes. Hipótese em que, ademais, a verba honorária se sujeita a rateio a ser obtido em processo autônomo. Precedentes. Decisão reformada. RECURSO PROVIDO." (e-STJ, fl. 580)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alegou ofensa aos arts. 46 do Código Civil; 21, 22, 23 e 24 §4º, da Lei 8.906/94; 85 §14 do CPC/2015; Sustentando: i) que os honorários incluídos na condenação, por arbitramento ou sucumbência, pertencem ao advogado tendo este direito autônomo para executá-los; ii) que a verba arbitrada em favor dos advogados empregados do Banco do Brasil S. A. pertence a todos os integrantes do quadro jurídico da instituição financeira e não somente aos que atuaram na demanda; iii) que a substituição processual não afeta o direito dos advogados que atuaram em favor do credor original em receber seu direito; iv) que a titularidade da verba sucumbencial é diversa da do titular do crédito principal, sendo inegável que ela não pode ser incluída na cessão em comento; v) que a agravante é parte legítima para a cobrança das verbas sucumbenciais em nome dos causídicos empregados do Banco do Brasil. Pugna pelo provimento do recurso par que seja determinado o ingresso da agravante no feito para defender a verba honorária arbitrada em favor dos advogados do Banco do Brasil S.A.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da falta de prequestionamento
+O art. 46 do Código Civil não foi apreciado pelo tribunal de origem, tampouco foram opostos embargos de declaração para ver supridos os vícios, no ponto.
+Incide, no ponto, as Súmulas 282 e 356/STF, ante a falta de prequestionamento.
+- Da Súmula 284/STF
+Da leitura das razões do recurso especial, verifica-se que os art. s46 do Código Civil; 21, 22, 23 e 24 §4º, da Lei 8.906/94; 85 §14 do CPC/2015, que tratam do direito do advogado em receber honorários e executar a verba honorária, não possuem comando normativo suficiente para embasar as alegações da parte agravante acerca da sua legitimidade para defender a verba honorária arbitrada em favor dos advogados do Banco do Brasil S.A.
+Neste passo, incide a Súmula 284/STF à hipótese, ante a deficiência na fundamentação do recurso.
+- Da existência de fundamento não impugnado
+Por fim, os fundamentos do acórdão recorrido no sentido de que: "no caso, o Banco do Brasil S. A. não revogou os poderes outorgados aos seus patronos, mas foi substituído no polo ativo da execução, de maneira que tais advogados já não representam a exequente, ora agravante, não lhes assistindo, portanto, a faculdade de executar seus honorários nos autos originários. Ademais, diversamente do alegado pela agravada ASABB, a verba honorária referida no caput do artigo 827 do CPC não se presta exclusivamente à remuneração dos advogados que ajuizaram a ação, mas sim do trabalho desempenhado ao longo de todo o processo, inclusive nos autos de eventuais embargos à execução." (e-STJ, fl. 583), não foram impugnados pela agravada, atraindo, na espécie, a incidência da Súmula 283/STF.
+Forte nessas razões, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Deixo de majorar os honorários recursais, pois inaplicável, na hipótese.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CESSÃO DE CRÉDITO. HONORÁRIOS DE SUCUMBÊNCIA. ASABB. LEGITIMIDADE ATIVA. DISPOSITIVO INDICADO. COMANDO NORMATIVO INSUFICIENTE PARA EMBASAR O RECURSO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Execução de título extrajudicial.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados e dos argumentos invocados pelo recorrente impede o conhecimento do recurso especial (súmula 282/STF).
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. Agravo conhecido. Recurso especial não conhecido.
