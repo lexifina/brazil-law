@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em benefício de GILMAR RODRIGUES CAVALCANTE DA SILVA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 1502076-42.2020.8.26.0544).
+Colhe-se dos autos que opaciente foi condenado, como incursonas sanções do art. 33, caput, da Lei n. 11.343/2006, à pena de 6anos, 7meses e 29 dias de reclusão, em regime fechado, mais 665 dias-multa (e-STJ fls. 72/86).
+Segundo consta, ele foiapreendidoem posse de "146 (cento e quarenta e seis) porções de "maconha" (cannabis sativa L.), com peso líquido aproximado de 194,41g (cento e noventa e quatro gramas e quarenta e uma centigramas), 20 (vinte) tabletes de "maconha" (cannabis sativaL.), com peso líquido aproximado de 11.700g (onze mil e setecentos gramas), e 642 (seiscentos e quarenta e duas) porções de "cocaína", com peso líquido aproximado de 239,02g (duzentos e trinta e nove gramas e duas centigramas)"(e-STJ fl. 102).
+Irresignadas, ambas as partes apelaram, tendo o Tribunal de origem negado provimento aos recursos, nos termos do acórdão assim ementado (e-STJ fl. 122):
+APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES - RECURSO DEFENSIVO - PRETENDIDA A ABSOLVIÇÃO POR INSUFICIÊNCIA PROBATÓRIA OU A DESCLASSIFICAÇÃO PARA O DELITO DO ARTIGO 28 DA LEI Nº 11.343/06 - IMPOSSIBILIDADE - Inviável a absolvição ou a desclassificação para o delito do artigo 28 da Lei nº 11.343/06 se as circunstâncias que envolvem os fatos e a variedade e quantidade das drogas, dentre outras, evidenciam a prática do tráfico de entorpecentes - Não se pode negar valor aos depoimentos de policiais quando os mesmos são essencialmente harmônicos e não se vislumbra nenhuma razão para incriminarem injustamente o réu. RECURSO MINISTERIAL VISANDO O RECONHECIMENTO DA CIRCUNSTÂNCIA AGRAVANTE DA CALAMIDADE PÚBLICA - NÃO ACOLHIMENTO - Não se verificando que a calamidade pública causada pela pandemia do Covid-19 tenha facilitado ou influenciado de qualquer forma na prática do crime, inviável o reconhecimento da circunstância agravante. Recursos não providos.
+No presente writ, a defesa alega a ocorrência de constrangimento ilegal, em razão da ilicitude das provas obtidas peloingresso dos policiais na residência do paciente sem autorização judicial.
+Requer, dessa forma, liminarmente, seja determinada "a anulação dos autos, uma vez que as provas foram obtidas por meio ilícito" (e-STJ fl. 90); e, no mérito(e-STJ fls. 90/91):
+IV. Que seja reconhecida a ilicitude das provas obtidas por meio de revista veicular e invasão de domicílio, bem como de todas as que delas decorreram e, por conseguinte, deve ser absolvido o Paciente, com fulcro no art. 386, II, do Código de Processo Penal, confirmando-se a liminar.
+V. Que seja concedida a ordem, mesmo que de ofício, para ABSOLVER o Paciente com base no artigo 386, incisos II, IV, V e VII, do Código de Processo Penal, uma vez que inviável, diante deste frágil quadro probatório, um decreto condenatório em seu desfavor, impondo-se, em homenagem ao princípio do in dubio pro reo.
+VI. Caso esta Colenda Turma não entenda pela absolvição, que seja na primeira fase aplicada a pena-base no mínimo legal, uma vez que as circunstâncias judiciais previstas no artigo 59 do Código Penal devem ser sopesadas favoravelmente ao Paciente, bem como aquelas previstas no artigo 42 da Lei 11.343/60
+É o relatório.
+Decido.
+O pedido relativo à ilicitude probatórianão foi apreciadopelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.(RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
