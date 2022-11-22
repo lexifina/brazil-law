@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LEANDRO GALATI e OUTROS(fls. 598-600 e-STJ) contra a decisão de fls. 594-596 e-STJ, que negou provimento ao agravo em recurso especial.
+Em suas razões, sustenta a parte embargante, em síntese: ii) que o que se pede para definir por meio de recurso especial é a possibilidade ou não de se arbitrar honorários recursais, caso não tenha havido condenação em primeiro grau; ii) que o feito dispensa oexame de provas; iii) que a decisão embargada é contraditória, pois jamais se buscou no agravo análise fático-probatória.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados.
+A parte embargada foi devidamente intimada para contrarrazoar os embargos de declaração, tendo deixado de fazê-lo (fl. 603).
+Assim delimitada a questão, passo a decidir.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que os embargos de declaração estão dissociados dos fundamentos da decisão embargada, manifestando-se, na verdade, contra a decisão que não admitiu o recurso especial, especialmente no tocante ao fundamento por ela adotado quanto à incidência da Súmula 7/STJ.
+A decisão embargada, em sentido diverso, negou seguimento ao agravo em recurso especial com base na Súmula 182/STJ, tendo em vista que a decisão agravada tinha dois fundamentos (Súmulas 7 e 83 do STJ), e a parte agravante, naquela oportunidade, impugnou apenas o primeiro deles.
+Transcrevo a passagem pertinente (e-STJ, fls. 595/596):
+Da análise do presente recurso, todavia, observo que as razões invocadas pelo agravante limitam-se a impugnar o primeiro fundamento da decisão agravada, relativo à incidência da Súmula 7/STJ, sem, contudo, enfrentar o outro, relativo ao alinhamento entre a tese adotada pelo acórdão recorrido e a orientação jurisprudencial desta Corte Superior. Nesse sentido, ausente impugnação específica dos fundamentos da decisão agravada, incide, na espécie, a Súmula 182 do STJ. (..)
+Portanto, é evidente que não há omissão ou contradição alguma apta a possibilitar o acolhimento dos presentes embargos de declaração.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida na decisão embargada, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido: EDcl no AgRg nos ERESp 1315507/SP, Rel, MinistroLuis Felipe Salomão, Corte Especial, julgado em: 20.8.2014, DJe 28.8.2014.
+Assim, não há irregularidade alguma sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Em face do exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração desse expediente, sob pena de pagamento de multa de 2% (dois por cento) sobre o valor atualizado da causa, porque, os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, §2º, do Código de Processo Civil).
+Intimem-se.
