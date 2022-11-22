@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Humberto Martins, Herman Benjamin, Jorge Mussi, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Og Fernandes.
+RELATÓRIO
+A EXMA. SRA. MINISTRA MARIA THEREZA DE ASSIS MOURA (relatora):
+Cuida-se de agravo interno interposto por BONTUR S.A. BONDINHOS AÉREOS contra a decisão de fls. 167-168, na qual o então Presidente desta Corte, Ministro Humberto Martins, concedeu exequatur à carta rogatória, e, após o seu cumprimento determinou a devolução dos autos à Justiça rogante.
+Em suas razões, a agravante sustenta que a decisão merece ser reformada, ao argumento de que a concessão do exequatur "causa insegurança jurídica e manifesto prejuízo à recorrente, que, nessa circunstância, corre o risco de sofrer temerário processo executivo por dívida já paga, bastando, para tanto, que a parte adversa instrua a execução com cópia autenticada do título (CPC, art. 965, parágrafo único)" (fl. 174).
+Afirma que uma vez comprovada a celebração de acordo nos autos de origem caberia ao Superior Tribunal de Justiça extinguir a comissão e devolver os autos à Justiça rogante, ante a perda do objeto.
+Assevera que "a concessão de exequatur quanto a dívida já paga, que dá cumprimento a decisão proferida em processo extinto no Juízo de origem, fere o inciso III do art. 216-D do RISTJ e o art. 963, inciso III, do CPC, segundo os quais a decisão submetida à Corte Superior necessita ser eficaz no país em que foi proferida" (fl. 175).
+Aponta afronta à ordem pública e à regra da vedação ao enriquecimento sem causa.
+Pede, assim, a reforma da decisão agravada para negar o exequatur.
+O Ministério Público Federal opina pelo desprovimento do agravo interno e devolução dos autos à Justiça rogante (fls. 233-236).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. CARTA ROGATÓRIA. AGRAVO INTERNO. OFENSA À ORDEM PÚBLICA. NÃO OCORRÊNCIA. CONCESSÃO DE EXEQUATUR. QUESTÕES DE MÉRITO. COMPETÊNCIA DA JUSTIÇA ROGANTE.
+1. A prática de ato de comunicação processual é plenamente admissível em carta rogatória. A simples notificação do interessado acerca de processo em curso na Justiça rogante não constitui nenhuma ofensa à ordem pública ou à soberania nacional, destinando-se apenas a dar conhecimento de ação em curso na Justiça alienígena.
+2. Dispensa-se a remessa da carta rogatória à Justiça Federal após a concessão do exequatur quando a parte interessada é considerada citada em razão do comparecimento aos autos para apresentar impugnação.
+3. Cabe ao Superior Tribunal de Justiça emitir juízo meramente de delibação acerca da concessão de exequatur à carta rogatória, sendo competência da Justiça rogante a análise de alegações relacionadas ao mérito da causa.
+Agravo interno improvido.
+VOTO
+A EXMA. SRA. MINISTRA MARIA THEREZA DE ASSIS MOURA (relatora):
+O recurso não merece prosperar.
+A agravante repisa as alegações já apontadas na impugnação consistentes na afirmação de que o acordo estaria cumprido o quedeveria ensejar a extinção da comissão. Entende configurada aflagrante violação à ordem pública, não apresentando, contudo, fatos novos aptos a ensejar a reforma do julgado.
+É importante ressaltar que o pedido de cooperação restringe-se à mera notificação da parte interessada, o que se materializou com o seu comparecimento. Nesse contexto, foi cumprida a diligência (AgInt na CR n. 11.209/EX e AgInt na CR n. 10.434/EX, ambos de relatoria da Ministra Laurita Vaz, DJe de 27/9/2017 e DJe de 15/12/2016).
+Ademais, de acordo com o previsto no art. 216-Q do RISTJ, a defesa somente poderá versar sobre a autenticidade dos documentos, a inteligência da decisão e a observância dos requisitos previstos no normativo. Apesar disso, a manifestação da agravante ultrapassa esses limites do juízo de delibação (contenciosidade limitada), pois submete ao conhecimento do Superior Tribunal de Justiça matérias das quais apenas a Justiça rogante pode conhecer e enfrentar.
+Anoto que a diligência cooperatória envolve comunicação de ato processual que não contraria os princípios constitucionais do devido processo legal, da ampla defesa e do contraditório. A solicitação de cumprimento de sentença estrangeira não pode ser confundida com carta rogatória, que é a hipótese dos autos. Assim, "o mero procedimento citatório não produz qualquer efeito atentatório à soberania nacional ou à ordem pública, apenas possibilita o conhecimento da ação que tramita perante a justiça alienígena e faculta a apresentação de defesa" (AgRg na CR n. 10.849-7, relator Ministro Maurício Corrêa, DJ de 21/5/2004).Nesse sentido, confiram-se precedentes do STJ:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA CARTA ROGATÓRIA. DIREITO CIVIL. ALEGAÇÃO DE INCOMPETÊNCIA DO REQUERENTE QUE ENCAMINHA A COMISSÃO. DESCUMPRIMENTO DA CONVENÇÃO RELATIVA À CITAÇÃO E À NOTIFICAÇÃO NO ESTRANGEIRO DOS ACTOS JUDICIAIS E EXTRAJUDICIAIS EM MATÉRIA CIVIL E COMERCIAL PROMULGADA PELO DECRETO N. 9.734, DE 20 DE MARÇO DE 2019. NÃO OCORRÊNCIA. INTIMAÇÃO PRÉVIA. AVISO DE RECEBIMENTO ASSINADO POR TERCEIRO. COMPARECIMENTO ESPONTÂNEO DA PARTE INTERESSADA. CONCESSÃO DE EXEQUATUR. DEVOLUÇÃO DOS AUTOS À JUSTIÇA ROGANTE ANTE O CUMPRIMENTO DA DILIGÊNCIA. DESNECESSÁRIA REMESSA À JUSTIÇA FEDERAL. PRECEDENTES. PEDIDO DE ESCLARECIMENTOS AO JUÍZO ROGANTE. IMPOSSIBILIDADE. ART. 216-Q DO RISTJ.
+1. Não configura ofensa ao art. 3º da Convenção Relativa à Citação e à Notificação no Estrangeiro dos Actos Judiciais e Extrajudiciais em Matéria Civil e Comercial, promulgada pelo Decreto n. 9.734, de 20 de março de 2019, quando, de acordo com o Departamento de Recuperação de Ativos e Cooperação Jurídica Internacional, do Ministério da Justiça, o remetente em questão está autorizado a enviar cartas rogatórias.
+2. A Corte Especial do STJ já decidiu que é válida a intimação prévia cujo aviso de recebimento foi assinado por terceiro e que a manifestação espontânea da parte interessada consuma o objeto da comissão, sendo desnecessária a remessa à Justiça Federal.
+Precedentes.
+3. Nos termos do art. 216-Q do RISTJ, a insurgência recursal somente poderá versar sobre a autenticidade dos documentos, a inteligência da decisão e a observação dos requisitos previstos no Regimento.
+Agravo interno improvido.
+(AgInt nos EDcl na CR n. 14.948/EX, relator Ministro Humberto Martins, Corte Especial, julgado em 27/10/2020, DJe de 16/11/2020)
+CARTA ROGATÓRIA. AGRAVO REGIMENTAL. CITAÇÃO. AÇÃO POR INADIMPLÊNCIA DE CONTRATO DE EMPRÉSTIMO. CONCESSÃO DE EXEQUATUR. VIOLAÇÃO DA ORDEM PÚBLICA. NÃO OCORRÊNCIA. QUESTÕES DE MÉRITO. COMPETÊNCIA DA JUSTIÇA ROGANTE. PRAZO PARA CONTESTAÇÃO. COMPARECIMENTO ESPONTÂNEO DA PARTE INTERESSADA. DEVOLUÇÃO DOS AUTOS À JUSTIÇA ROGANTE ANTE O CUMPRIMENTO DA DILIGÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1. A citação da parte interessada acerca de ação em curso na Justiça rogante não constitui ofensa à ordem pública, pois é ato de comunicação processual. 2. Os documentos que instruem a rogatória enviada pela via diplomática são considerados autênticos, sendo dispensadas a chancela consular e a tradução por profissional juramentado no Brasil.
+3. Cabe ao Superior Tribunal de Justiça emitir juízo meramente de delibação acerca da concessão do exequatur nas cartas rogatórias, sendo competência da Justiça rogante a análise de alegações relacionadas ao mérito da causa. 4. O prazo para contestação, em regra, começa a fluir da juntada do mandado citatório devidamente cumprido aos autos em curso na Justiça rogante, o que, por si só, dá aos interessados prazo suficiente para constituição de advogado para representar seus interesses na Justiça rogante.
+5. A manifestação espontânea da parte interessada consuma o objeto da comissão, caso em que os autos são devolvidos à Justiça rogante por intermédio da autoridade central competente, sendo desnecessária a remessa à Justiça Federal.
+6. Agravo regimental desprovido.
+(AgInt nos EDcl na CR n. 14.431/EX, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 22/10/2019, DJe de 25/10/2019)
+CARTA ROGATÓRIA. AGRAVO REGIMENTAL. OFENSA À ORDEM PÚBLICA E À SOBERANIA NACIONAL. INOCORRÊNCIA.
+- Não se exige, tanto na legislação brasileira quanto na americana, que o ato citatório venha acompanhado de todos os documentos mencionados na petição inicial. Não há falar, desse modo, em violação dos princípios constitucionais do devido processo legal, do contraditório e da ampla defesa.
+- A prática de ato de comunicação processual é plenamente admissível em carta rogatória. A simples citação, por si só, não apresenta qualquer situação de afronta à ordem pública ou à soberania nacional, destinando-se, apenas, a dar conhecimento da ação em curso para permitir a defesa da interessada.
+Agravo regimental improvido. (AgRg na CR n. 535/EX, relator Ministro Barros Monteiro, DJ de 11/12/2006.)
+Ante o exposto, nega-se provimento ao recurso ora interposto.
+É como voto.
