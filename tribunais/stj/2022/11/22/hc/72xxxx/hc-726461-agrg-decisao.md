@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo regimental interposto por TYSSIANE PATRICIA TORRES, contra decisão de fls. 167-171, que não conheceu do presente habeas corpus.
+A agravante insurge alegando que não se trata de prisão definitiva, mas de prisão provisória (preventiva), alegando a viabilidade de aguardar o julgamento do recurso em prisão domiciliar, porquanto possui filhos menores de 12 (doze) anos, sendo que preenche os requisitos legais para o benefício previstos nos arts. 318-A e 318-B, ambos do CPP.
+Ocorre que em consulta ao sítio do Tribunal de origem, verificou-se que houve o julgamento do recurso de apelação e demais incidentes naquela Corte com trânsito em julgado em 15/6/2022, o que esvazia a pretensão de aguardar o julgamento do recurso em prisão domiciliar, conforme iterativa jurisprudência deste Tribunal.
+Constata-se, portanto, que a realidade fática processual daagravante, apresentada no recurso de apelação no Tribunal de origem,restou alterada pela decisão superveniente proferida pelo Tribunal a quoe eventual discordância ou ilegalidade ocorrida diante do novel entendimento exarado deverá ser impugnada por meio do recurso cabível, ou mesmo ser objeto de novo mandamus.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. EXECUÇÃO. PLEITOS DEFENSIVOS. SUPRESSÃO DE INSTÂNCIA. PRISÃO DOMICILIAR. DEFERIDA PELO JUÍZO DE ORIGEM. PERDA DE OBJETO. NOVA REALIDADE FÁTICA. HABEAS CORPUS PREJUDICADO. AGRAVO DESPROVIDO.
+I - É assente nesta eg. Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Nos termos do art. 159, IV, do RISTJ, não haverá sustentação oral no julgamento de agravo.
+III - No que concerne ao pleito defensivo de concessão de liberdade provisória ou de aplicação de pena restritiva de direitos ao apenado, bem como de remição de pena, verifica-se que os temas suscitados não foram examinados pelo eg. Tribunal de origem, restando inviável o conhecimento da impetração, no ponto. Como consabido, se as questões suscitadas no presente habeas corpus não foram objeto de análise do eg. Tribunal a quo, fica impedida esta Corte Superior de proceder ao seu exame, sob pena de atuar em indevida supressão de instância.
+IV - Constata-se, das informações fornecidas pela eg. Corte local, que foi deferida ao paciente, em 20/3/2020, a prisão domiciliar. Desse modo, forçoso reconhecer, por mais uma oportunidade a prejudicialidade do presente mandamus, tendo em vista a perda superveniente de seu objeto e a nova realidade fática da execução penal do sentenciado.
+Agravo regimental desprovido." (AgRg no HC n. 567.198/RS, Quinta Turma, Rel. Min. Felix Fischer, julgado em 19/5/2020, DJe de 28/5/2020.)
+Ante o exposto, julgo prejudicado este agravo regimental.
+P. e I.
