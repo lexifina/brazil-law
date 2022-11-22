@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva e lavrou este acórdão, nos termos do Art. 101, § 1º do RISTJ.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, os fundamentos por ela utilizados não deve, de fato, ser conhecido.
+2. AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por ANTONIO CICERO GOMES DE ABREU, em face de decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AÇÃO DE COBRANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015.
+AGRAVO NÃO CONHECIDO. HONORÁRIOS RECURSAIS (ART. 85, §11, DO CPC/2015). EXIGIBILIDADE SUSPENSA.
+Nas razões do agravo, a parte agravante alega, em síntese, que demonstrou, de forma específica e clara, que o recurso especial não esbarra nos impeditivos das Súmulas N. 211/STJ e 282/STF; bem como quecombateu o que era pertinente ao deslinde da controvérsia.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015. INEXISTÊNCIA DE FUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO RECORRIDA.
+1. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, os fundamentos por ela utilizados não deve, de fato, ser conhecido.
+2. AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes colegas, a irresignação não merece acolhida.
+Inicialmente, verifica-se que foi negado conhecimento ao agravo em recurso especial, em virtude da ausência de impugnação específica ao fundamento da decisão agravada(e-STJ fls. 1147-1152).
+A parte agravante, por sua vez, nas razões do agravo interno, alega, em síntese, que demonstrou, de forma específica e clara, que o recurso especial não esbarra nos impeditivos das Súmulas N. 211/STJ e 282/STF; bem como que combateu o que era pertinente ao deslinde da controvérsia.
+Desta forma, percebe-se que razão não assiste à parte recorrente.
+Com efeito, resta cristalino que os argumentos expostos no bojo do agravo não são aptos a desconstituir a decisão recorrida, uma vez que, conforme bem salientado na decisão proferida em sede de agravo em recurso especial, de fato, ocorreu a ausência de impugnação específica aofundamentoda decisão que inadmitiu o recurso especial.
+Ora, o recurso especial foi inadmitido em razão da incidência das Súmulas N. 211/STJ e 282/STF quanto aos arts. 6º, inciso III, 12, 46, 47, 51, incisos I, IV, e § 1º, inciso I, e 54, § 4º, todos do Código de Defesa do Consumidor - CDC, e ao art. 760 do Código Civil; da aplicabilidade das Súmulas N. 05 e 07/STJ; da ausência de violação aos arts. 489, § 1º, inciso IV, e 1.022, inciso II, ambos do CPC/2015; bem como de que o dissídio pretoriano não restou demonstrado nos termos do art. 1.029, §1º, do CPC/2015 (e-STJ fls. 1088-1089).
+Contudo, na espécie, cumpre reiterar que a parte agravante não demonstrou especificamente a inadequação aofundamentoda decisão recorrida relativo à incidência das Súmulas N. 211/STJ e 282/STF quanto aos arts. 6º, inciso III, 12, 46, 47, 51, incisos I, IV, e § 1º, inciso I, e 54, § 4º, todos do Código de Defesa do Consumidor - CDC, e ao art. 760 do Código Civil,limitando-se a sustentar, em síntese, que houve o prequestionamento da matéria quando da oposição dos embargos de declaração; que não há falar em incidência das Súmulas N. 05 e 07/STJ; que os arts. 6º inciso III, 12, 46, 47, 51, incisos I, IV, e § 1º, inciso I, e 54, § 4º, todos do CDC, e o art. 760 do Código Civil foram violados; que o v. acórdão incorreu em contradição, haja vista que utilizou cláusula de outra cobertura para subsidiar um argumento que não pode ser condizente com a realidade dos autos; ofensa aos arts. 489, §1º, inciso IV, e 1.022, inciso I, ambos do CPC/2015; que "o recurso especial interposto foi proferido mediante total observância aos dispositivos do Código de Processo Civil e Súmula do STJ e à jurisprudência firmada por este Superior Tribunal de Justiça"; bem como que realizou o devido cotejo analítico.
+Convém repisar, ainda, que,para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada, isto é, as alegações genéricas aos fundamentos do decisum de inadmissão são insuficientes à impugnação.
+Veja-se o entendimento desta Corte quanto ao tema:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018) - g.n.
+Assim, itera-se que a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o art. 932, inciso III, do CPC/2015, veja-se:
+Art. 932. Incumbe ao relator:
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. PRECLUSÃO CONSUMATIVA. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO DESPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC de 2015.
+2. Não tendo os insurgentes refutado os fundamentos da decisão de inadmissibilidade no momento processual oportuno, não cabe fazê-lo no âmbito do agravo interno, considerada a preclusão consumativa operada pela interposição do recurso antecedente.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, porquanto a condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese examinada.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1902856/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 11/10/2021, DJe 14/10/2021) - g.n.
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. REAJUSTE POR SINISTRALIDADE. DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. ART. 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015. ACLARATÓRIOS RECEBIDOS COMO AGRAVO INTERNO. PRINCÍPIO DA FUNGIBILIDADE. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. PRINCÍPIO DA COLEGIALIDADE. CERCEAMENTO DE DEFESA. INEXISTÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão atacada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (art. 932, inciso III, do Código de Processo Civil de 2015).
+3. Em virtude do caráter infringente e diante do princípio da fungibilidade recursal, é possível o recebimento dos embargos de declaração como agravo interno.
+4. O Superior Tribunal de Justiça firmou o entendimento de ser possível ao relator dar ou negar provimento ao recurso especial, em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema ou se tratar de recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida (artigo 932, III e IV, do Código de Processo Civil de 2015).
+5. Na hipótese, inexiste afronta ao princípio da colegialidade e/ou cerceamento de defesa, pois a possibilidade de interposição de agravo interno contra a decisão monocrática permite que a matéria seja apreciada pela Turma, afastando eventual vício.
+6. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.962.919/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 20/6/2022, DJe de 24/6/2022.) - g.n.
+Destarte, o desprovimento do recurso é medida que se impõe, não merecendo prosperar a irresignação da parte ora agravante.
+Ante o exposto, NEGO PROVIM ENTO ao agravo interno.
+Advirta-se que a oposição de incidentes processuais infundados dará ensejo à aplicação de multa por conduta processual indevida.
+É o voto.
