@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno nos embargos de declaração no agravo em recurso especial interposto por RAIZEN COMBUSTÍVEIS S/A, contra decisão que acolheu os embargos de declaração postos pelo agravado, com efeitos infringentes.
+Ação:de indenização por danos materiais e compensação por danos morais decorrentes das obrigações descumpridas nas relações contratuais, ajuizada por JD WHITE COMBUSTÍVEIS LTDA em desfavor de RAIZEN COMBUSTÍVEIS S/A.
+Decisão interlocutória:rejeitou a alegação de prescrição da pretensão.
+Acórdão: deu provimento ao agravo de instrumento interposto por RAIZEN COMBUSTÍVEIS S/A, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA. CONTESTAÇÃO EM QUE SE SUSCITA A PRESCRIÇÃO DA PRETENSÃO. REJEIÇÃO. RECURSO DO RÉU. AGRAVO DE INSTRUMENTO. CABIMENTO. MATÉRIA RELATIVA AO MÉRITO DA CAUSA. INCIDÊNCIA DOS ARTIGOS 487, II C/C 1.015, II, AMBOS DO CPC. PRAZO PRESCRICIONAL. TRIENAL. ARTIGO 206, § 3 2 , V DO CÓDIGO CIVIL. TERMO INICIAL DA PRESCRIÇÃO QUE SE DÁ NO MOMENTO DA VIOLAÇÃO DO DIREITO. APLICAÇÃO DO ARTIGO 189 DO CÓDIGO CIVIL. RESCISÃO CONTRATUAL EM NOVEMBRO DE 2015. POSTERIOR AJUIZAMENTO DE AÇÃO DE DESPEJO PELO RÉU/AGRAVANTE QUE SE FEZ NECESSÁRIO EM VIRTUDE DA INÉRCIA DO AUTOR/AGRAVADO EM DESOCUPAR O BEM. NA DATA DE CUMPRIMENTO DO MANDADO DE DESALIJO O AGRAVADO JÁ NÃO MAIS EXPLORAVA A ATIVIDADE COMERCIAL. LESÃO AO ALEGADO DIREITO QUE SE DEU AINDA NO ANO DE 2015. AÇÃO INDENIZATÓRIA PROPOSTA EM 20/06/2019, QUANDO JÁ TRANSCORRIDO O PRAZO PRESCRICIONAL TRIENAL. EXTINÇÃO DO FEITO COM RESOLUÇÃO DO MÉRITO QUE SE IMPÕE. RECURSO PROVIDO." (e-STJ fl. 31).
+Embargos de declaração: opostos por ambas as partes, foi dado provimento aos do réu/agravado e negado provimento ao do autor/agravante.
+Recurso especial: alegou ofensa aos arts. 17, 18, 19, 20, 489, § 1º, I, II, IV e VI e 1.022, I e II, do CPC/2015; 186, 202, "caput", I e IV, 205, 206, § 3º, V, 473, parágrafo único, do Código Civil. Sustentou: i) omissão e falta de fundamentação do julgado; ii) que a prescrição a ser aplicada é a decenal, por tratar-se de responsabilidade contratual; iii) a inocorrência de prescrição, na medida em que houve interrupção do prazo acerca da rescisão do contrato de locação, com o envio da contra notificação pelo agravante, bem
+Decisão agravada:acolheu os embargos de declaração com efeitos infringentes, para determinar o retorno dos autos à origem de maneira asuprir os vícios verificados.
+Agravo interno: alega que não é caso de acolhimento dos embargos declaratórios, pois todas as questões já haviam sido decididas no acórdão do tribunal de origem, devendo ser restabelecida a decisão que julgou o agravo em recurso especial.
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOSEMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE VERIFICADAS. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES. DECISÃO MANTIDA.
+1. Ação de indenização.
+2. A existência de vícios na decisão embargada conduz ao acolhimento da pretensão. Determinado o retorno dos autos à origem.
+2. Agravo interno não provido.
+VOTO
+Pela análise das razões recursais apresentadas, verifica-se que a parteagravante não trouxe qualquer argumento apto a modificar as conclusões dadecisão agravada, a qual merece ser mantida, nos seguintes termos:
+"Nas razões do recurso especial, a parte embargante, aponta omissão, contradição e obscuridade quanto às teses de: inaplicabilidade da responsabilidade extracontratual para aplicação do prazo prescricional, ante a existência de diversos contratos entre as partes; o equívoco em ser considerado apenas o contrato de locação para o julgamento do recurso; a existência de discussão judicial acerca do despejo, o que interrompe o lapso prescricional; a atividade da empresa até pouco tempo antes da imissão na posse; a ofensa ao art. 473 do Código civil, tendo em vista a existência de investimentos consideráveis, de sua parte, para a execução dos contratos, o que faz com que a denúncia unilateral só produza efeitos depois de transcorrido prazo compatível com a natureza e o vulto dos investimentos.
+Neste passo, considerando os argumentos trazidos pela embargante, acerca: da existência de relação contratual para aplicação do prazo prescricional; que para a solução da lide devem ser considerados todos os contratos firmados entre as partes, e não apenas de um; e da ofensa ao art. 473 do Código Civil, considerando o investimento disponibilizado para o cumprimento dos contratos; verifica-se a relevância das questões postas a debate. E neste ponto, tem-se que a Corte de origem, de fato, não se pronunciou sobre referidos temas, o que era imprescindível para a solução da lide, configuradas estão a omissão, contradição e obscuridade apontadas." (e-STJ, fl. 792)
+DISPOSITIVO
+Forte nessas razões, nego provimento ao presente agravo.
