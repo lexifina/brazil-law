@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 16/11/2022 a 22/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Cuida-se de agravo interno interposto por CENTRO BRASILEIRO DE MEDICINA AVANCADA LIMITADA EM RECUPERACAO JUDICIAL eILLUMINATA UTI LTDA contra decisão que conheceu do agravo para conhecer parcialmente do recurso especial que interpuseram e, nessa parte, negar-lhe provimento, pelos seguintes fundamentos: ausência de violação do art. 1.022 do CPC/15; incidência das Súmulas 7/STJ e 284/STF; e ausência de similitude, bem como aplicação da Súmula 7/STJ, no dissídio jurisprudencial.
+Ação: embargos à execução, opostos pelos agravantes, em face de MARQUES SIQUEIRA ADVOGADOS ASSOCIADOS.
+Sentença: rejeitou os embargos à execução, declarando extinto o processo sem resolução de mérito, em virtude de sua intempestividade.
+Acórdão: negou provimento à apelação interposta pelos agravantes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. INTEMPESTIVIDADE. ARTIGO 915, DO CÓDIGO DE PROCESSO CIVIL. CITAÇÃO VÁLIDA. SENTENÇA MANTIDA.
+1. Nos termos do artigo 915, caput, do Código de Processo Civil, "Os embargos serão oferecidos no prazo de 15 (quinze) dias". Por sua vez, o §1º do mesmo artigo dispõe que "Quando houver mais de um executado, o prazo para cada um deles embargar conta-se a partir da juntada do respectivo comprovante da citação".
+2. A orientação jurisprudencial é pacífica no sentido de ser válida a citação via postal, se remetida a respectiva carta citatória para o endereço da parte ré, independentemente da assinatura no aviso de recebimento (A.R.) e do efetivo recebimento da carta terem sido efetivados por ela.
+3. Impõe-se reconhecer a validade da citação e intimação da pessoa jurídica realizada em quem, em seu endereço declarado, e recebe a citação sem qualquer manifestação a respeito da falta de poderes de representação em Juízo.Precedentes.
+4. APELAÇÃO CÍVEL CONHECIDA, MAS DESPROVIDA.
+Embargos de Declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alegam violação dos arts. 248, §4º, e 1.022 do CPC/15, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustentam que: i) as citações dos agravantes no processo de execução são nulas, porquanto encaminhadas a endereços onde não mais se encontravam estabelecidas, o que era de ciência da agravada, e recebidas por pessoa estranha a quadro de seus funcionários; ii) é impossível a aplicação da teoria da aparência nas hipóteses em que ficar comprovado que o aviso de recebimento foi assinado por pessoa estranha ao quadro de funcionários e/ou que não se encontra mais no local.
+Decisão monocrática:conheceu do agravo para conhecer parcialmente do recurso especial interposto pelas agravantes e, nessa parte, negar-lhe provimento.
+Agravo interno:em suas razões, as agravantes afirmam que: i) em seu recurso especial, sustentam tese relativa à violação do art. 248, §4º, do CPC/15, não incidindo a Súmula 284/STF; ii) pontuaram as circunstâncias fáticas de maior relevância que foram expressamente retratadas de forma incontroversa desde a instância inicial, padecendo, porém, de melhor valoração jurídica; iii) os fatos incontroversos alardeados na peça de apelação foram omitidos no acórdão, violando o art. 1.022 do CPC/15; iv) há similitude fática entre o acórdão recorrido e o paradigma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL.SIMILITUDE FÁTICA NÃO DEMONSTRADA. SÚMULA 7 DO STJ. PREJUDICADO.
+1. Embargos à execução.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+7. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada conheceu do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento, ante aausência de violação do art. 1.022 do CPC/15; a incidência das Súmulas 7/STJ e 284/STF; e a ausência de similitude, bem como aplicação da Súmula 7/STJ, no dissídio jurisprudencial.
+1. Da negativa de prestação jurisdicional
+As agravantes alegam que o acórdão recorrido está eivado de omissão, porquanto não considerou os seguintes fatos incontroversos: i) ciência pela agravada de que o endereço indicado nos autos não era mais o endereço válido das empresas agravantes; ii) houve prestação de serviços jurídicos pelo menos até 01/02/2018; iii) a 2ª agravante teve seu contrato rescindido em 12/09/2017 com o Hospital Evangélico Goiano, cujas dependências eram utilizadas como seu endereço comercial e local de prestação de seus serviços; iv) o 1º agravante desocupou as dependências do Hospital Lúcio Rebelo em novembro de 2016.
+Entretanto, o TJ/GO foi claro em suas conclusões:i) o art. 248, §4º, do CPC/15, prevê a validade da citação, quando efetivada por funcionário da portaria responsável pelo recebimento de correspondência nos condomínios edilícios (e-STJ fl. 319); ii) na hipótese, a carta de citação foi regularmente encaminhada ao endereço da agravante, tendo sido assinada, conforme se verifica no aviso de recebimento (e-STJ fls. 319/320); iii) não há irregularidades a serem reconhecidas no ato citatório (e-STJ fl. 320); iv) é válido o recebimento da citação no endereço da pessoa jurídica, por quem não se manifesta quanto à ausência de poderes para tanto (e-STJ fl. 320).
+Assim, constata-se que o artigo 1.022 do CPC/15 realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente. Ressalte-se que o fato de as questões terem sido tratadas sob viés diverso daquele pretendido pela agravante não dá ensejo à interposição de embargos de declaração, que foram utilizados com efeitos meramente infringenciais.
+2. Da fundamentação deficiente
+No que tange à fundamentação deficiente, as agravantes não indicaram, de forma clara, precisa e consistente, em que consistiu a pretensa ofensa ao art. 248, §4º, do CPC/15. Isso porque o referido dispositivo legal é cristalino ao prever que, nos condomínios edilícios ou nos loteamentos com controle de acesso, será válida a entrega do mandado a funcionário da portaria responsável pelo recebimento de correspondência, que, entretanto, poderá recusar o recebimento, se declarar, por escrito, sob as penas da lei, que o destinatário da correspondência está ausente.
+Ademais, no recurso especial, limitaram-sea sustentar que:i) as citações dos agravantes no processo de execução são nulas, porquanto encaminhadas a endereços onde não mais se encontravam estabelecidas, o que era de ciência da agravada, e recebidas por pessoa estranha a quadro de seus funcionários; ii) é impossível a aplicação da teoria da aparência nas hipóteses em que ficar comprovado que o aviso de recebimento foi assinado por pessoa estranha ao quadro de funcionários e/ou que não se encontra mais no local.
+Inafastável, pois, a incidência da Súmula 284/STF.
+3. Do reexame de fatos e provas
+Permanece, ainda, a incidência da Súmula 7/STJ à espécie. Isso porquanto alterar as conclusões adotadas pelo Tribunal de origem quanto à validade e regularidade da citação demandaria desta Corte, indubitavelmente, a incursão no conteúdo fático-probatório dos autos, conforme se depreende dos seguintes trechos:
+Em relação à tese recursal de invalidade da citação da executada/embargante/apelante ILLUMINATA UTI LTDA., melhor sorte não assiste à parte recorrente.
+Isso porque, não restam dúvidas que o artigo 248, § 4º, do CPC, prevê a validade da citação, quando efetivada por funcionário da portaria responsável pelo recebimento de correspondência nos condomínios edilícios:
+(..)
+No caso em análise, observa-se que a carta de citação foi regularmente encaminhada ao endereço da apelante,tendo sido assinada, conforme se verifica no Aviso de Recebimento. Desse modo, não há irregularidades a serem reconhecidas no ato citatória, em conformidade com a jurisprudência deste Tribunal de Justiça:
+(..)
+Reforça essa exegese o entendimento do Superior Tribunal de Justiça no sentido de que é válido o recebimento da citação no endereço da pessoa jurídica, por quem não se manifesta quanto à ausência de poderes para tanto, senão veja-se:
+(..)
+Destarte, com fulcro no lastro probatório constante dos autos, tenho que a sentença proferida na instância singela deve ser mantida.
+Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que a incursão nesta seara implicaria ofensa ao referido óbice sumular.
+4. Da divergência jurisprudencial
+Por fim, verifica-se que os arcabouços fáticos dos julgados cotejados são divergentes. O acórdão recorrido concluiu pela validade da citação, tendo em vista que foi efetivada por funcionário da portaria responsável pelo recebimento de correspondência nos condomínios edilícios, com base noart. 248, §4º, do CPC/15. Por outro lado, o acórdão paradigma do STJ trata de situação em que o CPC aplicável era o de 1973, que não possuía essa previsão, e o do TJDFT trata de hipótese em que foi comprovada a ausência de vínculo da pessoa que recebeu a citação com a empresa, por não ser mais diretor ou acionista.
+Assim, o recurso especial, fundamentado na alínea "c" do permissivo constitucional, apenas traz jurisprudência que as agravantes entendem divergir do acórdão recorrido, sem, contudo, comprovar a existência de similitude fática, elemento indispensável à demonstração da divergência. Logo, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+Além disso, não pode ser conhecido, tendo em vista a aplicação da Súmula 7/STJ acerca do tema que se supõe divergente (validade e regularidade da citação). Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+DISPOSITIVO
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
