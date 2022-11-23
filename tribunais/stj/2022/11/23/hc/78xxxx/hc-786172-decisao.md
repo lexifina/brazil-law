@@ -1,0 +1,7 @@
+DECISÃO
+ENDI DE ALMEIDA MIGUEL,condenada por roubo circunstanciado, alega ser vítima de constrangimento ilegal em decorrência da manutenção da preventiva pela sentença condenatória, situação que pretende seja modificada por esta Corte, sobretudo porque condenada em regime semiaberto.
+De inicio, verifico que a defesa não deixou claro se já há acórdão proferido na origem, restringindo-se a juntar apenas cópia da decisão que indeferiu a liminar. Mesmo nessa hipótese (em que este habeas corpus se insurja contra a decisão que indeferiu a liminar), observo que o feito não se encontra devidamente instruido.
+Deveras, não foram juntados documentosessenciais que permitissem o exame fidedigno da controvérsia; além de não haver sido juntada cópia do acórdão (caso o habeas corpus já haja sido examinado na origem), também não foi trazida pela defesa, a cópia da decisão que decretou a preventiva, visto que mantidos os argumentos e fundamentos que subsidiaram a preventivapela sentença condenatória.
+A possibilidade de se impetrar habeas corpus, destituído de qualquer formalidade essencial, não se traduz na desnecessidade de instruí-lo com os documentos essenciais que permitam avaliar a existência ou não de constrangimento ilegal. Nesse sentido é pacífica a orientação desta Corte (AgRg no HC n. 285.578/AM, Rel. Ministro Marco Aurélio Bellizze, DJe 2/5/2014).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
