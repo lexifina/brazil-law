@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BANCO ITAUCARD S.A., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 01/12/2021.
+Concluso ao gabinete em: 27/04/2022.
+Ação: de revisão contratual movida por CARLOS MAGNO CORREA, contra a agravante, na qual pleiteia o reconhecimento de abusividade de cláusulas contratuais e devolução de valores e indenização por danos materiais.
+Sentença: julgou parcialmente procedentes os pedidos da inicial.
+Acórdão:deu parcial provimento à apelação da parte agravante, nos termos da ementa:
+"APELAÇÃO CÍVEL -DIREITO CIVIL E BANCÁRIO -AÇÃO REVISIONAL DE CONTRATO -TARIFAS DE RESSARCIMENTO DE TERCEIROS, PROMORA DE VENDAS E SEGURO -REPETIÇÃO INDÉBITO. É abusiva a cobrança das tarifas denominadas serviços de terceiros e promotora de vendas quando não há comprovação de pagamento de tais despesas no interesse do consumidor. O consumidor não pode ser compelido a contratar seguro com a instituição financeira ou com seguradora por ela indicada, por configurar venda casada, nos termos do art. 39, I, do CDC (STJ, REsp nº 1639320/SP). Nos termos do art. 42, parágrafo único, do CDC, e do art. 940 do CC, a devolução em dobro somente ocorrerá se a cobrança do valor desembolsado estiver revestida de dolo ou má-fé por parte do credor. Recurso parcialmente provido." (e-STJ fl. 290)
+Embargos de Declaração: opostos pela parte agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 4º, IV e IX, e art. 9º da Lei 4.595/64; 490 do CC; 39, I, do CDC e 927, III, do CPC, bem como dissídio jurisprudencial. Sustenta que é de competência do Conselho Monetário Nacional editar normas que regulamentam, ou proíbam, a remuneração das operações e dos serviços bancários e do BACEN editar normas que regulamentem a cobrança de tarifas e outros encargos incidentes sobre os contratos de mútuo.Alega que é do comprador, cliente bancário, o obrigado a arcar com os custos relacionados ao contrato.Defende que foi dada a opção de contratação do seguro ao agravado, independente da contratação do financiamento.
+Decisão da Terceira Vice-Presidência do TJ/MG: negouseguimento ao recurso, com fundamento no artigo 1.030, inciso I, do Código de Processo Civil, quanto à matéria alcançada pelos Temas nº 958 e 972 (REsp"s 1.578.553/SP, 1.639.320/SP e 1.639.259/SP); e inadmitiu o recurso, com fundamento no artigo 1.030, inciso V, do Código de Processo Civil, quanto ao mais em razão da incidência da Súmula 7/STJ.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da preclusão
+Nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC/2015, o agravo interno, no próprio Tribunal de origem, é o único recurso cabível contra a decisão que nega seguimento a recurso especial em razão da conformidade entre o acórdão recorrido e a orientação firmada pelo STJ em sede de recurso especial repetitivo (art. 1.030, I, "b"), não sendo admissível a interposição de agravo em recurso especial.
+Na hipótese dos autos, a decisão de inadmissibilidade proferida pelo TJ/MGnegou seguimento ao recurso especial, no que concerne à abusividade das cláusulas e cometimento de venda casada, com base na aplicação dos Temas nº 958 e 972dos recursos especiais repetitivos, havendo a interposição de agravo interno às e-STJ fls. 422/429 para impugnação da decisão.
+Assim, preclusa a referida matéria, passa-se à análise das demais questões ventiladas no recurso especial.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere a à abusividade das cláusulas e cometimento de venda casada, mormente para acolher as alegações da parte agravante  que vão no sentido de queé possivel a cobrança pelos serviços de terceiros visto que reconhecida clausula autorizatória no contrato de financiamento firmado com o agravado, bem como de que a escolha do seguro contratadofoi livre exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/2015, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários sucumbenciais visto que já foram arbitrados no montante máximo permitido pelo art. 85, § 2º, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REVISÃO CONTRATUAL. DECISÃO QUE NEGA SEGUIMENTO A RECURSO ESPECIAL COM BASE EM TESE REPETITIVA. AGRAVO INTERNO JULGADO IMPROCEDENTE PELO TRIBUNAL DE ORIGEM. ÚNICO RECURSO CABÍVEL POR PREVISÃO LEGAL EXPRESSA. PRECLUSÃO DA CONTROVÉRSIA REFERENTE AO TEMA. REEXAME DE FATOS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE
+1. Ação de revisão contratual.
+2. Nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC/2015, o agravo interno, no próprio Tribunal de origem, é o único recurso cabível contra a decisão que nega seguimento a recurso especial em razão da conformidade entre o acórdão recorrido e a orientação firmada pelo STJ em sede de recurso especial repetitivo (art. 1.030, I, "b"), não sendo admissível a interposição de agravo em recurso especial.
+3. O reexame de fatos e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo conhecido. Recurso especial não conhecido.
