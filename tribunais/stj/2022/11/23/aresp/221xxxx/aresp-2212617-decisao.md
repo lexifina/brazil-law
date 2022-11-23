@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo em recursoespecial interposto porGENEILDE SILVA FRANCO contra decisão que inadmitiu recurso especial com fundamento naausência de demonstração daofensaaos arts 6º, VIII, 14, § 3º, II, e 17 do CDC,bem como naincidênciadaSúmulan. 7 do STJe na inadmissão do apelo especial fundado no dissídio jurisprudencial, haja vista o não preenchimento dos requisitos exigidos pela legislação processual civil para a demonstração da divergência de entre os arestos comparados.
+Alegaa parteagravanteque os pressupostos de admissibilidade do recurso especial foram atendidos.
+É o relatório. Decido.
+Mediante análise dos autos, verifica-se que a decisão agravada que inadmitiu o recurso especial fundamentou-se na ausência de demonstração da ofensa aos artigos arrolados, na incidênciada Súmula n. 7 do STJe na ausência de demonstração da divergência jurisprudencial nos moldes exigidos pelo Código de Processo Civil.
+Nas razões recursais, porém, a parte agravante deixou de impugnartodos os fundamentos da decisão agravada, limitando-se a transcrever o recurso especial inadmitido.
+Nos termos dos arts. 932, III, do CPC e 253, parágrafo único, I, do RISTJ, não se conhecerá do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão recorrida.
+A refutação apta a infirmar a decisão agravada deve ser efetiva, específica e fundamentada, o que não ocorreu na espécie. Confiram-se os seguintes julgados: AgInt no AREsp n. 2.101.598/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 30/9/2022; e AgInt no AREsp n. 2.053.156/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 17/8/2022.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a aplicação, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo, ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
