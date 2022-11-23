@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra o Tribunal de Justiça de São Paulo.
+O paciente foi preso em flagrante em 7/9/2021, convertido em prisão preventiva, sendo denunciado como incurso no art. 157, § 2º, II e VII, e § 2º-A, I, c/c o art. 61, II, "c" e "j", por cinco vezes, na forma no art. 70, parte final, do Código Penal.
+Argumenta a impetrante, em suma, com a ausência dos requisitos do art. 312 do CPP, além da negativa de autoria e do falho reconhecimento pessoal do paciente, violando-se o art. 226 do CPP, apontando, ainda, excesso de prazo para o encerramento da instrução processual.Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+A liminar foi indeferida. As informações foram prestadas. A tanto instado, manifestou-se o Ministério Público Federal pelo não conhecimento do writ.
+De inicio, como adiantado liminarmente, em consulta ao sistema informatizado processual desta Corte, observa-se que asmatériasreferentesaos requisitos da prisão preventivaeà negativa de autoriajá foram objeto de análise no HC 710.463/SP, conexo a este, motivo pelo qual referidos temas não merecem conhecimento.
+Acerca do reconhecimento pessoal, assim se manifestou o Tribunal local (fls. 35-36):
+ .. Já foi dito por esta colenda 1ª Câmara Criminal, no julgamento do Habeas Corpus nº 2221977-98.2021, que o reconhecimento pessoal realizado pelas vítimas -- que teriam se retratado dessa identificação -- não seria oúnico elemento de convicção que pesa contra o paciente.
+Esta também foi a conclusão do douto Magistrado de primeiro grau quando indeferiu pleito da Defesa de revogação da prisão preventiva, sob tal argumento (fls. 857e 867/868 dos autos de origem).
+Dessa forma e sempre respeitando o empenho da combativa Defensora, não vislumbro, ainda assim, hipótese de prisão abusiva. ..
+Como se vê, ressaltou o Tribunal de origem que "o reconhecimento pessoal realizado pelas vítimas -- que teriam se retratado dessa identificação -- não seria o único elemento de convicção que pesa contra o paciente", o que se coaduna com a jurisprudência desta Corte. A propósito:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. RECONHECIMENTO FOTOGRÁFICO. NULIDADE. VIOLAÇÃO AO ART. 226 DO CPP. NÃO OCORRÊNCIA. EXISTÊNCIA DE OUTROS ELEMENTOS PROBATÓRIOS VALORADOS. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As Turmas que compõe a Terceira Seção deste Superior Tribunal de Justiça alinharam a compreensão de que "o reconhecimento de pessoa, presencialmente ou por fotografia, realizado na fase do inquérito policial, apenas é apto, para identificar o réu e fixar a autoria delitiva, quando observadas as formalidades previstas no art. 226 do Código de Processo Penal e quando corroborado por outras provas colhidas na fase judicial, sob o crivo do contraditório e da ampla defesa
+2. Dos elementos probatórios que instruem o feito, verifica-se que a autoria delitiva do crime de roubo não tem como único elemento de prova o reconhecimento pela vítima, o que gera distinguishing em relação ao acórdão paradigma da alteração jurisprudencial. Como se vê, as instâncias ordinárias demonstraram a coesão e harmonia das provas dos autos para atestar a materialidade e autoria do delito com base em provas testemunhais, dentre elas dos policiais que atestaram o corpo de delito.
+3. Desse modo, evidente que o afastamento dessas conclusões demandaria o revolvimento fático-probatório, providência inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+4. Agravo regimental desprovido.(AgRg nos EDcl no AREsp n. 2.154.672/DF, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 25/10/2022, DJe de 4/11/2022.)
+Ademais, a impetrante não trouxe aos autos cópia do acórdão proferido pela Corte estadualno citado julgamento do Habeas Corpus nº 2221977-98.2021, anteriormente lá impetrado, o que configura a instrução deficiente do writ em apreço, inviabilizando-se, assim, a análise pormenorizada da questão. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO QUALIFICADO, PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO E CORRUPÇÃO DE MENORES. CONDENAÇÃO. IMPETRAÇÃO ORIGINÁRIA NÃO CONHECIDA. ACÓRDÃO NÃO JUNTADO. INSTRUÇÃO DEFICIENTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O habeas corpus, conquanto impetrado por profissional habilitado, está deficientemente instruído, diante da ausência de cópia integral do acórdão proferido pela Corte estadual, documento essencial ao exame da controvérsia e da plausibilidade do pedido. Precedentes.
+2. Agravo regimental desprovido.(AgRg no HC n. 737.081/BA, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 10/5/2022, DJe de 12/5/2022.)
+Por fim, a alegação de excesso de prazo para o encerramento da instrução criminal encontra-se prejudicada, haja vista a prolação de sentença em 6/10/2022, consoante se vê do documento de fls. 195-221.
+Ante o exposto, não conheço o habeas corpus.
+Publique-se.
+Intimem-se.
