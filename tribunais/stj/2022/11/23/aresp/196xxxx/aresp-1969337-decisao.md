@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto EMPREENDIMENTOS HOTELEIROS RIO"S LTDA.,FLÁVIA OTERO SUAREZ e JUAN JOSÉ POMBO GERPEcontra decisão que inadmitiu recurso especial com fundamento nas Súmulas n. 5 e 7do STJ.
+Alegam os agravantesque os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão assim ementado (fls. 571-572):
+APELAÇÃO CÍVEL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO MONITÓRIA. MÚTUO FENERATÍCIO CELEBRADO ENTRE PARTICULARES. INADIMPLEMENTO. AVENÇA QUE NÃO PREVIU A INCIDÊNCIA DE CORREÇÃO MONETÁRIA. IRRELEVÂNCIA. MERA REPOSIÇÃO DO PODER AQUISITIVO DECORRENTE DA DESVALORIZAÇÃO DA MOEDA PELO TRANSCURSO DO TEMPO QUE NÃO IMPORTAM EM ENRIQUECIMENTO DO CREDOR. CORREÇÃO MONETÁRIA E JUROS DE MORA QUE SÃO PEDIDOS IMPLÍCITOS, DECORREM DA LEI E SÃO ACESSÓRIOS DA OBRIGAÇÃO PRINCIPAL. CUMULAÇÃO COM JUROS REMUNERATÓRIOS PREVISTOS NO CONTRATO POSSIBILIDADE. SENTENÇA DE PROCEDÊNCIA QUE SE MANTÉM.
+1. Cuida-se de ação monitória, através da qual o autor objetivou o pagamento de valor emprestado aos réus e que restou inadimplido.
+2. Sentença que rejeitou os embargos e julgou procedente a pretensão monitória, para constituir título executivo judicial, devendo os réus responder solidariamente pelo pagamento do respectivo valor, acrescido de correção monetária e juros de mora de 1% (um por cento) ao mês a contar da data doajuizamento da demanda. Inconformismo dos réus.
+3. Pretensão recursal que se embasa no argumento de não cabimento da cumulação de juros remuneratórios, juros de mora e, ainda, correção monetária, a qual, por não encontrar previsão no contrato de mútuo, não poderia ser cobrada pelo autor.
+4. Correção monetária que se trata de mera recomposição das perdas sofridas pela moeda, corroída pela inflação, não importando a mesma em acréscimo patrimonial auferido pelo credor, tampouco em uma pena imposta ao devedor, mas, tão somente, em preservação da perda de poder aquisitivo decorrente da desvalorização da moeda pelo transcurso do tempo.
+5. Correção monetária e os juros de mora que decorrem da lei, são acessórios da obrigação principal e devem incidir na hipótese em que verificada a mora do devedor, sendo indiferente que haja previsão contratual a respeito, tampouco que seja formulado pedido expresso na petição inicial (pedido implícito), conforme disposto nos artigos 394 e 395 do Código Civil e no artigo 322, § 1º do Código de Processo Civil.
+6. A respeito dos juros remuneratórios, também chamados de compensatórios, são aqueles devidos ao credor com o propósito de remunerar o empréstimo do capital, ostentando natureza distinta dos juros moratórios, os quais, como já salientado, decorrem da mora e são acessórios da obrigação principal.
+7. Perfeitamente admissível a pactuação de juros remuneratórios em contratos particulares de mútuo feneratício celebrados entre particulares, desde de que não ocorra a prática de usura ou de agiotagem, o que, in casu, inocorreu, haja vista que o contrato de mútuo ora em debate fixou os referidos juros em 1,5% -percentual que não pode ser considerado extorsivo.
+8. Possibilidade de cumulação de juros remuneratórios, juros moratórios e correção monetária, ainda que à míngua de previsão contratual a respeito. Sentença de procedência que se mantém.
+9. DESPROVIMENTO DO RECURSO.
+No recurso especial osagravantes alegam"que, atualmente, prevalece o entendimento jurisprudencial, de estipular o limite da taxa de juros remuneratórios convencionais em 1% (um por cento) ao mês e 12% (doze por cento) ao ano em contratos de mútuo entre particulares, por força do Art. 591 cumulado com o Art.406 do Código Civil de 2002, e do Art.161, § 1º do CTN, sem aplicar o artigo 1º da Lei de Usura nessa espécie de contrato!"(fl. 618).
+Inadmitido o recurso na origem (fls. 650-654), foi interposto agravo em recurso especial às fls. 672-678.
+É o relatório. Decido.
+O recurso não merece prosperar, tendo em vista queos agravantes não impugnaramespecificamente todos os fundamentos utilizados para a inadmissão do recurso especial.
+Nada obstante a parte agravanteter impugnado a inadmissibilidade do recurso em relação àaplicação da Súmula 7 do STJ, nada dispôs sobre o óbice da Súmula 5 do STJ,devidamente apontado na origem.
+Ressalte-se que, em observância ao princípio da dialeticidade, cumpre àparte agravante impugnar, de forma efetiva,específica e fundamentada,todos os fundamentos da decisão que inadmite o recurso especial, nos termos dos arts. 932, III, do Código de Processo Civil e 253, parágrafo único, I, do Regimento Interno STJ.
+É caso, pois, de não conhecimento do agravo em recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA N.º 182 DO STJ. AGRAVO NÃO CONHECIDO.
+ ..
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a aplicação das Súmulas n.ºs 5 e 7 do STJ, que levou ao não conhecimento do apelo nobre manejado.Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula n.º 182 do STJ.
+3. Agravo interno não conhecido.(AgInt no AREsp n. 2.079.519/RS, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 29/8/2022, DJe de 31/8/2022.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. POSTAGENS OFENSIVAS EM REDE SOCIAL. AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL. SÚMULA 182 DO STJ. APLICAÇÃO POR ANALOGIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Nos termos do art. 932, III, do Código de Processo Civil, não se conhece de agravo cujas razões não impugnam especificamente todos os fundamentos da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+2. Agravo interno a que se nega provimento.(AgInt no AREsp n. 1.824.288/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 22/11/2021, DJe de 25/11/2021.)
+Portanto, aplica-se ao caso, por analogia, a Súmula n. 182 do STJ.
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro,em 20% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo eressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
