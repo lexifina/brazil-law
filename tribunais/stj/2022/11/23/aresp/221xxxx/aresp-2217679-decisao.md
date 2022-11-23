@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PENHORA DE BENS PESSOAIS. CONSULTA AO SISTEMA SISBAJUD. RENOVAÇÃO DO PEDIDO. RAZOABILIDADE A SER AFERIDA DE ACORDO COM A PECULIARIDADE DO CASO CONCRETO. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. ARTIGO 1.026, § 2O. DO CÓDIGO DE PROCESSO CIVIL. CONFIGURAÇÃO. DECISÃO REFORMADA EM PARTE.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 1.026, §2º, do CPC, no que concerne à necessidade de que seja afastada a multa, uma vez que os embargos de declaração não são protelatórios, trazendo o(s) seguinte(s) argumento(s):
+Restou consignado no v. acórdão que julgou o agravo de instrumento que seria devida a aplicação da multa de 2% sobre o valor da causa, nos termos do art. 1.026, §2º, do CPC, em razão dos embargos de declaração supostamente protelatórios, como determinado pelo MM. Juízo de origem, in verbis:
+ ..
+A Recorrente requereu a pesquisa SISBJAUD, considerando o transcurso de um ano desde a realização da última pesquisa, o qual foi indeferido pelo Juízo de origem.
+Os EMBARGOS DE DECLARAÇÃO opostos pela FUNDAÇÃO EMBARGANTE não foram manifestamente protelatórios, mas com o objetivo de que o Juízo se manifestasse sobre os princípios da cooperação e da efetividade da execução, bem como a omissão ao artigo 854 do CPC, o qual não limita a quantidade de vezes que deve ser deferido o bacenjud/sisbajud.
+Ademais, a ora RECORRENTE, em nenhum momento, demonstrou ter agido de maneira afrontosa ao princípio da boa- fé, visto que não ostenta qualquer motivo para postergar o feito. Imperioso consignar que a RECORRENTE é a parte exequente, a quem o feito corre a seu favor, e tem como objetivo o adimplemento de seu crédito.
+Neste ponto, importante destacar que esse C. STJ já se manifestou no sentido de que deve ser afastada a multa quando não caracterizado "o intento protelatório na interposição dos embargos de declaração", confira-se:
+ ..
+Com a devida vênia, não há que se falar em intuito protelatório nos autos, por si, pelo fato de ser a RECORRENTE a parte EXEQUENTE e não ter qualquer motivo para postergar o feito. Pelo contrário, a EXEQUENTE deseja o adimplemento do seu crédito o quanto antes.
+Dessa forma, restando demonstrado que os EMBARGOS DE DECLARAÇÃO opostos tinham o escopo de ver sanadas as omissões existentes na decisão recorrida, pugna-se para que seja afastada a multa aplicada à ora RECORRENTE em sede de embargos de declaração, haja vista o seu manifesto descabimento (fls. 148/151).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Quanto à multa imposta pela decisão agravada, prevista no artigo 1.026, § 2º, do CPC, revela-se acertada, porquanto a parte agravante, mesmo depois de advertida (ID 74663449), insistiu em utilizar de forma manifestamente protelatória a via dos embargos de declaração.
+Sobre o assunto, o Código de Processo Civil, visando o comportamento ético das partes, estabeleceu, em seu artigo 5º, que "aquele que de qualquer forma participa do processo deve comportar-se de acordo com a boa-fé." Imperioso observar que o princípio da boa-fé deve nortear não somente a relação entre as partes, mas toda a relação processual.
+A boa-fé consubstancia-se em um dever de atuação pautada na lealdade e confiança entre os envolvidos.
+Assim, não age com boa-fé processual a parte que, mesmo após ter conhecimento do conteúdo do decisum, busca revolver temas já debatidos por meio de embargos de declaração que não apontam, de forma concreta, quaisquer dos vícios previstos no artigo 1.022 do Código de Processo Civil.
+Desse modo, evidenciado o intuito protelatório dos embargos de declaração, mostra-se escorreita a r.
+decisão vergastada no que tange ao arbitramento da multa prevista no artigo 1.026, §2º, do Código de Processo Civil (fl.97).
+Desse modo, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto ao caráter protelatório dos embargos de declaração exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que, "a análise do art. 1.026, § 2º, do CPC, que trata da multa por interposição de embargos de declaração protelatórios, demanda, na espécie, reexame do acervo fático-probatório dos autos. Assim, inviável a apreciação da tese, sob pena de violação da Súmula 7/STJ". (AgInt no REsp 1.835.027/PR, relator Ministro Og Fernandes, Segunda Turma, DJe de 11/2/2020.)
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.528.731/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt nos EDcl no AREsp n. 1.138.645/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 23/3/2018; AgRg no REsp n. 1.192.745/PE, relator Ministro Og Fernandes, Sexta Turma, DJe de 21/3/2011.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
