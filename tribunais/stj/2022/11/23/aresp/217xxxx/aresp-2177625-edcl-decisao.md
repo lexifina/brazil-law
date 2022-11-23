@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CONGREGAÇÃO EVANGÉLICA LUTERANA REDENTOR à decisão de fls. 124/125, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Assim, visando a alteração do julgado, o embargante interpôs Recurso Especial, que foi inadmitido com base no art. 1.030, V, do CPC.
+Por fim, o embargante interpôs o presente Agravo em Recurso Especial, sendo que, no dia 02/08/2022, houve determinação para sanar irregularidade processual. No entanto, da determinação supra, os patronos do embargante não foram intimados via Diário de Justiça Eletrônico. Ressalte-se que, no presente recurso (fls. 99/10), o embargante, expressamente, requereu:
+ ..
+Sem que tenham sido intimados, os patronos, naturalmente, não obtiveram ciência da referida decisão, não podendo regularizar os vícios processuais.
+ ..
+Assim, ao deixar de atender aos pedidos expressos do embargante, ora de comunicação dos atos processuais em nome de seus patronos, o r. julgado padeceu de omissão, devendo, portanto, ser sanada, retomando-se o recurso, com a correta intimação dos patronos constituídos.
+Fixada, portanto, a premissa de que a intimação via "DJe", em nome dos advogados indicados, era medida necessária, impende demonstrar que esse ato processual não foi realizado, ou seja, o embargante não foi devidamente intimado para regularização processual, advindo, daí, a nulidade dos atos processuais realizados desde a propositura da ação, nos termos do art. 272 § 2º e 5º do CPC.
+ ..
+Diante do exposto, requer, seja reconhecida a patente omissão, ao deixar de atender aos pedidos expressos do embargante, ora de comunicação dos atos processuais em nome dos patronos indicados, devendo, assim, ser anulado o acordão de não conhecimento do recurso.
+Em seguida, requer seja devolvido, ao embargante, o prazo para regularização da representação processual (fls. 127/129).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, o recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do agravo e do recurso especial, Dr. Marcelo Gaido Ferreira.
+Entretanto, o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo codex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Dessa forma, nos termos do art. 76, c/c o art. 932, parágrafo único, ambos do Código de Processo Civil, foi intimada a parte recorrente para regularizar a representação processual, no prazo improrrogável de 5 (cinco) dias, sob pena de não conhecimento do recurso.
+Mesmo diante da intimação da parte para sanear o vício, não houve a devida regularização, uma vez que se quedou inerte (fl. 121).
+Ademais, ao contrário do alegado pela parte embargante, em consulta ao Diário de Justiça Eletrônico (https://ww2.stj.jus.br/processo/dj/init), meio oficial pelo qual esta Corte veicula seus atos judiciais, verificou-se que não houve qualquer irregularidade na publicação.
+Constou da referida edição do DJe, n. 3447, disponibilizada em 1/8/2022 e publicada em 2/8/2022, todas as informações necessárias para conferir publicidade à intimação das partes e advogados, nos exatos termos da Lei n. 11.419/2006, entre elas, o número do processo, o nome das partes e de seus representantes. Ressalte-se, ainda, que na publicação constou o nome do Dr. Marcelo Gaido Ferreira e do Dr. André Massioreto Duarte, conforme requeridos à fl. 99 dos autos.
+No caso, constou ainda da publicação o título "Autos com vistas aos recorrentes". Ficou consignado que "Os processos abaixo relacionados encontram-se com vista ao recorrente para manifestação acerca da "Certidão para Saneamento de Óbices" constante dos autos". A relação de processos publicados veio logo abaixo, incluindo este AREsp n. 2177625. Assim, bastaria a parte acessar os autos eletronicamente, visualizar o inteiro teor da certidão, e cumprir a determinação de regularização do vício.
+Cumpre esclarecer que o prazo para a parte comprovar a regularidade da representação era peremptório e não houve apresentação de justa causa para a sua reabertura. Assim, tendo sido encerrado o prazo sem a prática do ato (fl. 121), desaparece a possibilidade de praticá-lo. É o que se chama de preclusão e, no caso, temporal.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
