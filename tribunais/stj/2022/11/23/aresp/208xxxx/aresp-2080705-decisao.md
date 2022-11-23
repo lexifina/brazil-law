@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BUNGE ALIMENTOS S/A, contra decisão interlocutória que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 20/01/2022.
+Concluso ao gabinete em: 22/08/2022.
+Ação: de execução de título extrajudicial, ajuizada por LAIRDO GASPARELLO, em face da agravante, fundada no inadimplemento contratual.
+Decisão interlocutória: aceitou o seguro-garantia apresentado pela agravante.
+Acórdão: deu provimento ao agravo de instrumento interposto pelo agravado, para autorizar a penhora de valores em contas da agravante, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO EXECUÇÃO DE TÍTULO EXTRAJUDICIAL CONTRATO DE COMPRA E VENDA DE SOJA EM GRÃOS Decisão agravada que acolheu pedido da executada no sentido da substituição da penhora por seguro garantia - Insurgência do exequente - Cabimento - Nomeação de bens à penhora que deve obedecer à ordem de preferência estabelecida no artigo 835 do Código de Processo Civil - Princípio da menor onerosidade para o devedor que não pode obstar a finalidade do processo executivo, qual seja a satisfação do crédito exequendo - Oposição expressa por parte do exequente, sem a apresentação de justificativas suficientes por parte da executada, a autorizar a pretendida substituição - Decisão reformada - RECURSO PROVIDO.
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+O Tribunal de origem consignou o seguinte (e-STJ, fls. 295/298):
+A aceitação pelo exequente da garantia da dívida ofertada pela parte executada, assim como a ausência de demonstração por parte da devedora de que a penhora em dinheiro resultaria em medida desfavorável aos seus interesses e de maior onerosidade foram, inteiramente, apreciados pelo decisum embargado.
+Veja-se:
+(..)
+Como se observa claramente do trecho supracitado, ao analisar as circunstâncias do caso concreto, restou pontuado que a execução se desenvolve sempre em busca da efetiva satisfação do crédito exequendo, a ser realizada da maneira mais fácil e célere possível, cabendo ao executado a apresentação de motivos justificadores da alteração da ordem preferencial estabelecida no art. 835 do CPC.
+Outrossim, destacou-se que, ainda que se aplique o princípio da menor onerosidade em favor do devedor, tal não pode resultar em dificuldades para o prosseguimento da execução, nem exime o devedor das justificativas para eventual pedido de substituição da penhora em dinheiro, mesmo que essa substituição seja requerida mediante oferta espontânea de seguro garantia.
+No caso, restou assente que o pleito veiculado pela executada se deu sem a comprovação de que a penhora de valores resultaria em dificuldades operacionais ou prejuízo à manutenção de suas atividades e até mesmo que a constrição proposta (seguro garantia) seria menos onerosa, considerando que a dívida alcança valor inferior a um milhão de reais e o faturamento da empresa é superior a quarenta bilhões de reais.
+Nesse passo, não caberia mesmo impor ao exequente a aceitação de outra forma de persecução de seus créditos, bastando sua oposição simples, tal como procedido nos autos.
+Recurso especial: alega violação dos arts. 489, §1º, III e IV, 829, §2º, 835, §2º, e 1.022, II, do CPC/15.
+Afirma haver omissão em relação aos argumentos relativos ao seguro-garantia apresentado, do entendimento do STJ acerca do tema e da Súmula 417/STJ.
+Sustenta que o seguro garantia seria equiparado a dinheiro para fins de garantia judicial, que não traria qualquer prejuízo ao agravado e que a sua recusa teria sido injustificada, de modo que deveria ser aceito como garantia do débito executado.
+É O RELATÓRIO. DECIDO.
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca da ordem de penhora e da possibilidade de sua alteração, bem como dos argumentos relativos ao seguro-garantia apresentado, consignando que a agravante não teria provado que a penhora de valores resultaria em dificuldades e prejuízos para suas atividades e que não teria sido demonstrado que o seguro-garantia ofertado seria menos oneroso e não traria prejuízos ao agravado, destacando o entendimento do STJ e do próprio Tribunal de origem acerca da questão (e-STJ fls. 277/282 e 295/298), de maneira que os embargos de declaração opostos pelo agravante de fato não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/15
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca da ausência de provas de que o seguro-garantia ofertado seria menos oneroso e não traria prejuízos ao agravado, da legitimidade da recusa do agravado e da impossibilidade de se impor a substituição da penhora em dinheiro pelo seguro ofertado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da Súmula 568/STJ
+Ainda que assim não fosse, as duas Turmas de Direito Privado do STJ possuem entendimento no sentido de que "uma vez realizada a penhora em dinheiro, a substituição por seguro-garantia só é admitida em situação excepcional, para evitar grave dano ao devedor, desde que não prejudique o exequente" (AgInt no AREsp n. 2.002.679/SC, 3ª Turma, DJe de 25/5/2022).
+Ainda nesse sentido: AgInt no AREsp n. 1.924.134/SC, 4ª Turma, DJe de 22/9/2022; AgInt no AREsp n. 1.824.006/PE, 4ª Turma, DJe de 29/6/2022; AgInt no REsp n. 1.671.343/BA, 3ª Turma, DJe de 29/10/2020; e AgInt no AREsp 1.086.974/RS, 3ª Turma, DJe de 22/8/2019.
+Na hipótese, o Tribunal de origemdestacou que a agravante não teria demonstrado que a penhora de valores resultaria em dificuldades e prejuízos para suas atividades, nem que o seguro-garantia seria menos oneroso e não traria prejuízos ao agravado, concluindo pela impossibilidade de se impor a substituição da penhora em dinheiro pelo seguro ofertado (e-STJ, fls. 278/281 e 295/298).
+Ressalte-se o que restou consignado acerca da questão:
+Acrescente-se, ainda, que não se pode olvidar que o objetivo precípuo da ação executiva é a persecução do crédito titularizado pelo exequente, a ser realizado da maneira mais fácil e célere possível, ao passo que cabe ao credor, nessa ordem de ideias, demonstrar a inexistência de bens suficientes à solução do débito ou mesmo que a penhora de seu patrimônio caracterizará onerosidade excessiva, a teor do que dispõe o art. 805, parágrafo único, do CPC.
+Ocorre que, no caso sob análise, a executada apenas requereu a substituição da penhora por seguro garantia, justificando seu pedido na simples "possibilidade de reconhecimento de inexistência de título face ao Exequente" (fls. 80), sem apresentar qualquer elemento de prova de que a penhora de valores resultaria em dificuldades operacionais ou prejuízo à manutenção de suas atividades, mormente considerando que se trata de uma das maiores empresas do setor agrícola do mundo, podendo-se extrair de seu próprio site que, no último ano, "faturou mais de R$ 40 bilhões no Brasil".
+Ainda sobre a possibilidade de indicação de outros bens à penhora, o art. 829, §2º, do CPC, reforça o dever, que recai sobre o devedor, quanto à demonstração de que a constrição proposta lhe será menos onerosa e não trará prejuízo ao exequente, ônus do qual a executada não se desincumbiu na hipótese dos autos.
+Frise-se que, a teor do posicionamento adotado pelo C. Superior Tribunal de Justiça, o princípio da menor onerosidade, aplicado em favor do devedor, não pode obstar a finalidade precípua do processo executivo, já mencionada anteriormente, traduzida na efetiva satisfação do crédito exequendo.
+Nesse sentido:
+(..)
+Destarte, sendo legítima a recusa do agravado em aceitar a substituição da penhora em dinheiro por seguro garantia, não pode ser imposta a substituição pretendida pela executada, sob pena de inversão da lógica da execução, concluindo-se pela imposição da reforma da decisão agravada, com a consequente autorização à penhora de valores em contas da executada, nos termos em que pretendido pelo exequente. (e-STJ, fls. 278/281)
+Diante da consonância com o entendimento dominante sobre o tema nesta Corte, aplica-se a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ.
+1. Ação de execução de título extrajudicial, fundada no inadimplemento contratual.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Uma vez realizada a penhora em dinheiro, a substituição por seguro-garantia só é admitida em situação excepcional, para evitar grave dano ao devedor, desde que não prejudique o exequente. Precedentes. Ante o entendimento dominante do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+6. Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta parte, não provido.
