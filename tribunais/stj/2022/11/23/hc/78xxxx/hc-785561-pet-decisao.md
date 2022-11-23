@@ -1,0 +1,6 @@
+DECISÃO
+A defesa apresenta, às fls. 148-224, cópia da decisão proferida em audiência de custódia e de ato decisório que apreciou pedido de liberdade provisória, e pugna pela reconsideração dodecisumde fls. 144-146, em que indeferi liminarmente o habeas corpus por estar deficientemente instruído.
+Todavia, observo que, novamente,não foi anexada cópia da decisão que originariamente impôs a cautela extrema ao réu- na audiência de custódia, foi negada a revogação de tal medida, por se entender justificada a prisão provisória anteriormente decretada.
+Ademais, em consulta ao sistema informatizado desta Corte Superior, observo a anterior impetração, em favor do ora paciente, do HC n. 774.959/GO, que se volta contra outra decisão de indeferimento de liminar pelo Desembargador relator. Naquele autos,também é questionada a decisão que decretou a prisão preventiva do réu, no âmbito das Operações Veritas e Patronício Infiel (Processo n. 5207898-44.2022.8.09.0051) e, em decisão por mim proferida em 3/10/2022, foi afirmadonão estar configurada flagrante ilegalidade que justificasse a superação do óbice da Súmula n. 691 do STF. Vejo, portanto, que o pedido aqui formulado é mera reiteração de requerimento anterior.
+À vista do exposto,indefiro o pedido de reconsideração.
+Publique-se e intimem-se.
