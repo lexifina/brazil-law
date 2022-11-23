@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado Do Paraná, com base no art. 105, III,a, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 65):
+EMENTA. AGRAVO DE INSTRUMENTO. ICMS. EXCEÇÃO DE PRÉ EXECUTIVIDADE ACOLHIDA. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO ANTE AO PEDIDO ADMINISTRATIVO DE COMPENSAÇÃO POR PRECATÓRIO. VIABILIDADE. SUSPENSÃO ADMITIDA PELO ART. 151 DO CTN. NECESSIDADE DE DURAÇÃO RAZOÁVEL NO PROCESSO ADMINISTRATIVO. PRECEDENTES DO STJ E DESTE TRIBUNAL. RECURSO NÃO PROVIDO.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 120/121.
+A parte recorrente aponta violação aos arts. 1.022 do CPC e151, III,do CPC. Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunala quoremanesceu omisso acerca das questões neles suscitadas, a saber, "fato de estar-se diante de pedido de compensação envolvendo precatório" (fl. 131)e (II) "o pedido de compensação envolve precatório, a suspensão da exigibilidade depende de lei específica a autorizar a compensação. Este E. Superior Tribunal de Justiça, conforme antecipado, já pacificou a matéria. Além de todos os julgados específicos trazidos no item anterior, acrescente-se, ainda, o seguinte, de sua C. Primeira Seção" (fl. 136).
+Contrarrazões às fls. 149/156.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A pretensão recursal merece acolhida pelo art. 1.022 do CPC, pois a parte recorrente, nas razões dos embargos de declaração e do recurso especial, alega que o pedido de compensação abarca precatório, devendo ser observada a jurisprudênciado STJ. Confira-se (fl. 86):
+Assim, com o devido respeito, é preciso que Vossas Excelências apreciem a questão em sua especificidade-, trata-se de pedido de compensação envolvendo precatório, o que atrai a aplicação da jurisprudência suso transcrita (formada ao redor do art. 151, CTN). E, no caso do Estado do Paraná, não há, há muito tempo, lei (ou decreto) que autorize a compensação de precatório.
+Contudo, o Tribunal de origem quedou silente sobre a tese ventilada,e rejeitou os pertinentes aclaratórios da parteora agravante, em franca violação ao art. 1.022 do CPC, porquanto não prestada a jurisdição de forma integral.
+Ora, reconhecida a violação aos art. 1.022 do CPC, impõe-se a anulação do acórdão proferido no julgamento dos embargos de declaração, restando prejudicada a análise dos demais tópicos do apelo especial.
+ANTE O EXPOSTO, dou provimento ao recurso especial para, assentando a nulidade do acórdão recorrido por violação ao art. 1.022 do CPC, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração.
+Publique-se.
