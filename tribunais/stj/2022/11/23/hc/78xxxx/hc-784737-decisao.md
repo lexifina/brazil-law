@@ -1,0 +1,30 @@
+DECISÃO
+KENEDY LUCAS FERNANDES DE PAULAalega sofrer coação ilegal diante de decisão proferida por Desembargadordo Tribunal de Justiça do Estado de Minas Gerais, que indeferiu o pedido liminar no habeas corpus lá impetrado.
+Neste writ, a defesa busca a superação da Súmula n. 691 do STF, a fim de que seja concedida liberdade provisória ao paciente, diante do excesso de prazo para o oferecimento de denúncia.
+A defesa relata que, a despeito do parecer ministerial favorável à concessão da ordem, ainda não foi julgado o mérito da impetração originária. Relata que peticionou para requerer novo exame do pedido de urgência, após a manifestação do Ministério Público, mas não houve manifestação do Relator.
+Antes de apreciar a liminar, solicitei informações ao Tribunala quo. Esclarecimentos prestados às fls. 56-61.
+Decido.
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores:
+ ..
+1. Não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de Habeas Corpus impetrado contra decisão proferida por relator que indefere o pedido de liminar em Habeas Corpus requerido a tribunal superior, sob pena de indevida supressão de instância (Súmula 691 do STF).
+2. Inexistência de teratologia ou caso excepcional que caracterizem flagrante constrangimento ilegal.
+3. Agravo regimental a que se nega provimento.
+(HC n. 179.896 AgR, Rel. Ministro Alexandre de Moraes, 1ª T., DJe 2/4/2020)
+ ..
+2. Em regra, não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF. Referido entendimento aplica-se na hipótese em que o writ de origem é conhecido como substitutivo de revisão criminal. Precedentes.
+3. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, pois a fundamentação adotada pelas instâncias ordinárias para fixar o regime inicial semiaberto está em harmonia com a jurisprudência da Suprema Corte e desta Corte Superior no sentido de que não há constrangimento ilegal na fixação de regime mais gravoso de cumprimento de pena caso a pena-base tenha sido fixada acima do mínimo legal por conta do reconhecimento de circunstâncias judiciais desfavoráveis dada a interpretação conjunta dos arts. 59 e 33, §§ 2º e 3.º, ambos do Código Penal. De fato, a imposição do regime prisional não está condicionada somente ao quantum da pena. Precedentes.
+4. Agravo regimental desprovido. (AgRg no HC n. 548.761/PE, Rel. Ministra Laurita Vaz, 6ª T., DJe 4/2/2020)
+Ao indeferir a medida liminar, a relatora consignou que (fls. 16-17, grifei):
+Alega a impetração, em síntese, a ocorrência de indevido excesso de prazo para a formação da culpa, já que o paciente se encontra recluso desde o dia 31 de julho de 2022, sem que a denúncia tenha sido oferecida. Discorre que o paciente não cometeu o delito que lhe é imputado e que não se fazem presentes os requisitos previstos no artigo 312, sendo possível a revogação da medida extrema.
+ ..
+Feitas essas considerações, quanto ao acenado excesso de prazo para o oferecimento da denúncia, calha lembrar que os prazos idealmente indicados para a realização de cada ato na persecução penal não resultam de mera soma aritmética; antes, servem como parâmetro geral que podem sofrer variações conforme as peculiaridades de cada processo, sendo certo que tais prazos devem ser contados de maneira global, na medida em que podem vir a ser validamente compensados nas fases subsequentes.
+Da análise dos autos, não se verifica, de plano, que os prazos processuais relativos à lide penal foram suplantados de maneira injustificada ou desarrazoada, sendo necessário colher as informações da autoridade apontada como coatora antes de analisar o que é alegado em favor do paciente.
+Assim, não vejo como, por ora, deferir a liberdade buscada em sede de provimento liminar e monocrático.
+As alegações trazidas pelo impetrante para embasar o pedido liminar hão de ser esmiuçadas quando do julgamento do mérito da impetração, devendo, pois, ser submetidas à apreciação da Turma Julgadora, em colegiado.
+Na hipótese, ao menos à primeira vista, não é ilegal o indeferimento da liminar e na determinação de melhor exame da questão no julgamento do mérito, após as informações pormenorizadas do Juízo singular, por se tratar de suposta demora excessiva para a conclusão do inquérito policial e o oferecimento da denúncia. Ademais, o Desembargador relator relatou que o julgamento do mérito da impetração, pelo órgão colegiado, está agendado para data muito próxima, 23/11/2022.
+Diante de tais considerações, entendocorreto o indeferimento da liminar, motivo pelo qual não há flagrante ilegalidade capaz de excepcionar o enunciado na Súmula n. 691 do STF. Ressalto, todavia, que a análise feita nesta oportunidade não preclui o exame mais acurado da matéria, em eventual impetração que venha a ser aforada, já a partir da decisão colegiada do Tribunal a quo.
+À vista do exposto, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
