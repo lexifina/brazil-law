@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de THATIANA CRISTINA RODRIGUES DO ESPÍRITO SANTO, em que aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo - Revisão Criminal 0021704-45.2018.8.26.0000 (e-STJ, fls. 82-86).
+Consta dos autos que a paciente, juntamente com a corré Jessica Caroline, foi condenada àpena individual de 7 anos de reclusão e 16 dias-multa, para cada crime (total de quatro) previsto no art. 157, § 2º, incisos I, II e V, c. c. o art. 29, caput, do Código Penal, em regime fechado, e à pena individual de 7 anos de reclusão, e 11 dias-multa, em regime fechado, como incursanas sanções previstas no art. 158, § 3º, c. c. o art. 29, caput, do Código Penal, determinada a soma das sanções para fins de execução, nos termos do art. 69 do Código Penal, observado o limite de 30anos para cumprimento (e-STJ, fls. 42-57).
+Manejado recurso de apelação, perante o Tribunal de origem, foi-lhe negado provimento (e-STJ, fls. 61-74).
+Interposta revisão criminal, o TJSP deu-lhe parcial provimento, no intuito de reduzir a pena anteriormente imposta à sentenciada ao patamar de 6 anos, 2 meses e 20 dias de reclusão, com o pagamento de 14 dias-multa, estendida a decisão à corré Jessica (e-STJ, fls. 82-86).
+Neste writ, a defesa alega, em síntese, constrangimento ilegal sofrido pela paciente, vez que é necessário que seja readequada a dosimetria da pena, uma vez que"há flagrante ilegalidade no tocante ao não reconhecimento da continuidade delitiva em relação ao 1º e 2º roubos, causando constrangimento ilegal à paciente, motivando a impetração do presente remédio heroico afim de fazer cessar a ilegalidade" (e-STJ, fl. 6).
+Assevera que "o 1º e 2º roubos ocorreram no mesmo modus operandi, em um prazo pouco maior que trinta dias, ou seja, 38 dias e com unidade de desígnios. Assim perfeitamente aplicável o benefício da continuidade delitiva com relação ao 1º e 2º roubo, ensejando sua aplicação e readequação de pena" (e-STJ, fl. 7), anotando ocorrer "evidente excesso punitivo no caso concreto" (e-STJ, fl. 7).
+Acrescenta que a sentenciada "está presa e recolhida há quase nove anos por um único processo, sendo primária na época dos fatos" (e-STJ, fl. 7), não havendo falar em reiteração criminosa.
+Requer, inclusive liminarmente, "aaplicação da continuidade delitiva com a readequação da pena imposta à paciente, excluindo o excesso" (e-STJ, fl. 17).
+É o relatório.
+Decido.
+De antemão, em que pese a exordial tenha imputado como ato coator o acórdão de apelação, verifica-se que já houve o trânsito em julgadocondenação com a apresentação, inclusive, de revisão criminal.
+Assim, verifica-seque os presentes autos não foram instruídoscom cópia de peça apta à comprovação dos argumentos expendidos na petição inicial, qual seja, o inteiro teor da Revisão Criminal n. 0021704-45.2018.8.26.0000.
+Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+Nesse sentido, confiram-se os seguintes precedentes:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. DECRETO PRISIONAL. REFERÊNCIA A FUNDAMENTAÇÃO CONSTANTE EM MÍDIA ANEXA. CÓPIA. AUSÊNCIA. INDEFERIMENTO LIMINAR. AGRAVO REGIMENTAL IMPROVIDO.
+1. É pacífico o entendimento desta Corte Superior que o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta a dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração.
+2. Constatando-se que a peça inicial veio desacompanhada de cópia da fundamentação indicada no decreto de prisão para justificar a prisão preventiva, constante em mídia anexa, documento indispensável para o deslinde da controvérsia, bem como para verificação de eventual supressão de instância, o habeas corpus não deve ser conhecido.
+3. Agravo regimental improvido" (AgRg no RHC 98.232/AL, rel. Ministro NEFI CORDEIRO, SEXTA TURMA, j. 23/8/2018, DJe 4/9/2018).
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE PEÇA ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE AO IMPETRANTE. AGRAVO NÃO PROVIDO.
+1. A natureza do habeas corpus - ação constitucional de rito célere, destituído de dilação probatória - impõe à parte o dever de instrução dos autos, de modo que a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+2. No caso, o agravante não juntou aos autos cópia da decisão do magistrado singular que teria determinado a reconversão das penas restritivas de direitos em privativa de liberdade e a regressão cautelar do reeducando, peça imprescindível para análise da impetração.
+3. Agravo regimental não provido" (AgRg no HC 451.403/ES, de minha relatoria, QUINTA TURMA, j. 26/6/2018, DJe 1º/8/2018).
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
