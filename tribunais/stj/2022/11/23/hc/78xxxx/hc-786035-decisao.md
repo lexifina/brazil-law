@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de MARINILDO MANOEL RAMOS contra decisão terminativa de Desembargador do Tribunal de Justiça do Estado de Pernambuco (HC nº 013250-52.2022.8.17.9000).
+Consta dos autos que o paciente foi preso em flagrante (convertida a custódia em prisão preventiva) pela suposta prática do crime de feminicídio.
+Inconformada com o decreto constritivo, a defesa impetrouhabeas corpusperante a Corte de origem. O Desembargador Relator indeferiu liminarmente o pedido (e-STJ fls. 9/13).
+Na presente oportunidade, oimpetrante sustenta, em síntese, a nulidade da prisão em flagrante, notadamente porque "não se configura o flagrante nos casos em que, como o presente, em que a polícia chega horas depois da infração e aí inicia a persecução" (e-STJ fl. 5). Nesse contexto, defende que a decretação da segregação cautelar carece de justa causa, bem como que há constrangimento ilegal decorrente de excesso de prazo.
+Diante disso, requer, em liminar e no mérito, a revogação da prisão preventiva, com a expedição do respectivo alvará de soltura e a aplicação de medidas cautelares previstas no art. 319 do CPP se for o caso.
+É o relatório. Decido.
+Owritnão comporta conhecimento.
+As alegações contidas no presente writ- exceto a tese de excesso de prazo - já foram objeto de análise no bojo do HC 725.909/PE, o qual foi julgado em decisão proferida em 3/3/2022.
+É de se considerar que "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019).
+Entretanto, ainda que assim não fosse, aordem se dirige contradecisão monocrática de relator que indeferiu liminarmenteohabeas corpus,ea qual não foi objeto de recurso de modo a submeter a irresignação ao órgão colegiado da Cortea quo.
+Não tendo havido, pois, o exaurimento da instância prévia, incabível o exame da matéria diretamente por este Tribunal, sob pena de configurar-se sua indevida supressão.
+Como cediço, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+No mesmo sentido, é entendimento da Corte Maior que "o exaurimento da instância recorrida é, como regra, pressuposto para ensejar a competência do Supremo Tribunal Federal, conforme vem sendo reiteradamente proclamado por esta Corte (HC n. 129.142/SE, Rel. MinistroMARCO AURÉLIO, Rel. p/ acórdão Ministro ALEXANDRE DE MORAES, Primeira Turma, DJe de 10/8/2017; RHC n. 111.935/DF, Rel. Ministro LUIZ FUX, Primeira Turma, DJe de 30/9/2013; HC n. 97.009/RJ, Rel. Ministro MARCO AURÉLIO, Rel. p/ acórdão Ministro TEORI ZAVASCKI, Tribunal Pleno, DJe de 4/4/2014; HC n. 117.798/SP, Rel. Ministro RICARDO LEWANDOWSKI, Segunda Turma, DJe de 24/4/2014)" (AgRg no HC n. 177.820/SP, Relator MinistroALEXANDRE DE MORAES, Primeira Turma, julgado em6/12/2019, DJe 18/12/2019).
+Ante o exposto, com amparo no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
