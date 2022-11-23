@@ -1,0 +1,73 @@
+DECISÃO
+Na origem trata-se de agravo de instrumento interposto por CONDOMÍNIO A4 OFFICES contra decisão que, nos autos de ação de obrigação de fazer, determinou a intimação pessoal da CEDAE, para cumprimento da obrigação de fazer determinada na sentença.No Tribunal a quo a decisãofoi reformada, para afirmar que a regular intimação eletrônica ou pela imprensa oficial do patrono constituído nos autos, basta para dar cumprimento a obrigação de fazer.
+O recurso especial foi interposto no TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, contra acórdão com o seguinte resumo de ementa:
+AGRAVO DE INSTRUMENTO AÇÃO DE OBRIGAÇÃO DE FAZER SENTENÇA QUE DECLAROU A FORMA CORRETA DE COBRANÇA A SER FEITA COM BASE NA LEITURA DO HIDRÔMETRO E NO CONSUMO REAL DO CONDOMINIO AUTOR INCIDINDO O MULTIPLICADOR E FAIXA TARIFÁRIA CORRESPONDE AO CONSUMO MEDIDO DIVIDO PELO NÚMERO DE ECONOMIAS DO LOCAL(202) CONDENANDO A CONCESSIONÁRIA DE SERVIÇO PÚPLICO A RESTITUIR NA FORMA SIMPLES OS VALORES COMPROVADAMENTE PAGOS A MAIOR COM O RECÁLCULO DAS FATURAS EMITIDAS DESDE AGOSTO DE 2017 ATÉ AS VENCIDAS NODESCURSO DO PROCESSO CUMPRIMENTO DE SENTENÇA DECISÃO QUE DETERMINOU A INTIMAÇÃO PESSOAL DA CEDAE PARA O CUMPRIMENTO DA OBRIGAÇÃO DA SENTENÇA
+No recurso especial a parte CONDOMÍNIO A4 OFFICES recorrente alega, resumidamente, as seguintes razões abaixo transcritas:
+ ..
+VI .1 - A OFENSA AO ARTIGO 1.022 DO CÓDIGO DE PROCESSO CIVIL - NULIDADE DO V. ACÓRDÃO RECORRIDO - NÃO-APRECIAÇÃO DE MATÉRIA RECURSAL
+37. Por meio de embargos declaratórios, a aqui recorrente pediu que fosse aclarada a obscuridade do v. acórdão de fls., pois, além da questão da suposta necessidade da intimação pessoal da CEDAE, o juízo de piso também trouxe em sua decisão comando que afasta a penalidade imposta à CEDAE quando da decisão antecipatória de tutela, sob o argumento de que os comandos da sentença e da antecipação de tutela são distintos, conforme novamente se destaca:
+ ..
+38. Cabe consignar, que o que se pretende, é que seja aplicada à CEDAE a penalidade imposta pelo juízo de 1º grau quando da concessão da antecipação de tutela:
+ ..
+42. Ora, se o comando da tutela antecipada foi única e exclusivamente "para determinar à ré que realize as futuras cobranças de acordo com a leitura real do hidrômetro" a exclusão do condomínio do sistema de economias (de 202 para 1) configurou cobrança em desconformidade com a decisão liminar, eis que a conduta realizada pela CEDAE não se pautou na decisão, violando, inclusive, o próprio regulamento da CEDAE que define as economias.
+ ..
+52. Na hipótese vertente, muito embora de modo exaustivo tenha a recorrente quase que suplicado ao ínclito Tribunal a quo no sentido que apreciasse a questão crucial do feito, qual seja, a validade e aplicabilidade da punição à CEDAE deste a antecipação dos efeitos da Tutela, da qual fora pessoalmente intimada, mas descumpriu de forma inequívoca a referida decisão.
+ ..
+No recurso especial, a CEDAE sustenta, em síntese, os seguintes argumentos:
+ ..
+OFENSA AO ARTIGO 1.022, II, DO CÓDIGO DE PROCESSO CIVIL - EMBARGOS DECLARATÓRIOS QUE NÃO FORAM DEVIDAMENTE APRECIADOS
+A decisão recorrida de fls., com a devida venia, merece ser reformada, eis que afronta a disposição literal de lei, bem como desafiam a mansa e pacífica jurisprudência desse Egrégio Superior Tribunal de Justiça, conforme restará demonstrado ao final.
+Deve-se esclarecer que essa recorrente postulou ao Tribunal Local que enfrentasse todos os temas apresentados, explique-se: a alegada violação do art. 513 e art. 536 do CPC/15, diante da incidência da Súmula 410 do STJ, a fim de que fossem decididas as questões, sob pena de configurar-se omissão no julgado e, por conseqüência, violação ao art. 1.022, II, do Código de Processo Civil.
+ ..
+VIOLAÇÃO DO ART. 513 DO CPC/15 - INCIDENCIA DA SÚMULA 410 DO STJ CUMPRIMENTO DA OBRIGAÇÃO NOS LIMITES IMPOSTOS DECISÃO DE ANTECIPAÇÃO DA TUTELA - SENTENÇA MODIFICA A TUTELA - NÃO RETROATIVIDADE DA PENALIDADE/MULTA - AUSÊNCIA DE INTIMAÇÃO PESSOAL PARA CUMPRIMENTO DA SENTENÇA
+ ..
+Assim, como comprovado nos autos e reconhecido pela parte autora, todas as faturas emitidas a contar a intimação pessoal da CEDAE para cumprimento da tutela em 25/08/2017 (fls. 174 - 0196218-03.2017.8.19.0001) até o momento (POR INEXISTÊNCIA DE INTIMAÇÃO PESSOAL PARA CUMPRIMENTO DA SENTENÇA), foram devidamente emitidas conforme determinação judicial proferida em sede de tutela.
+ ..
+Em que pese o Acordão ora Recorrido fazer referencia aos artigos 513 e 536 do CPC/15, para dá provimento ao Recurso, a decisão viola o que estabelece o art. 513 do CPC/15. Ressalta-se que o aludido artigo do CPC/15, estabelece que o cumprimento da obrigação de fazer imposta na sentença se dá por requerimento do Credor. Assim,deve o devedor ser intimado pessoal para cumprimento da mesma, com previsto na Súmula 410 do STJ.
+ ..
+Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+O recurso especial da CONDOMÍNIO A4 OFFICESdeve ser provido.
+A Corte de origem bem analisou a controvérsia com base nos seguintes fundamentos:
+ ..
+Em relação à exigibilidade de intimação pessoal da parte ou de seu advogado, o capítulo VI, que trata especificamente do cumprimento de sentença decorrente deobrigações de fazer, de não fazer ou entrega de coisa, o novo CPCfoi omissona abordagem da matéria em capítulo próprio das situações decorrentes do artigo 536,razão pela qual entendemos ter sido encerrado o debate, por meio daaplicação do artigo 513, parágrafo 2º, I, prevista nas disposições gerais para o cumprimento de sentença, a qual prevê queo devedor será intimado para cumprir a sentença "pelo Diário da Justiça, na pessoa de seu advogado constituído nos autos", ou seja, há de ser considerada válida a intimação pessoal para o cumprimento de obrigação de fazer e não fazer realizada na pessoa do advogado regularmente constituído pela parte nos autos do processo.
+ ..
+Desta forma, com a vigência doincisoI do parágrafo 2º do artigo 513 do novo CPC/2015garantiu-sefinalmente uma prestação jurisdicional isonômica entre os procedimentos de cumprimento de sentença que reconhece a exigibilidade de obrigação de pagar quantia certa (capítulo III -artigos 523 até 527) e do cumprimento de sentença que reconheça a exigibilidade de fazer ou não fazer (capítulo VI  artigos 536 e 537) previstos no novo CPC/2015, consagrando-se o direito fundamental à tutela adequada, tempestiva e efetiva.
+Assim, compulsando os autos originais, denota-se que o agravado foi intimado de sua condenação confirmada em grau recursal ("Cumpra-se o V. Acórdao"), através e seu advogado constituído no dia 07/11/2019 (índice 000933)e intimado do cumprimento da sentença em 29/01/2020 (índice 000993), que determinou:
+ ..
+Decorrido os trinta dias nada se manifestou a parte agravada, conforme atestada a certidão de fls. 995 -índice 000995. Por tais razões e fundamentos, voto no sentido de DAR PROVIMENTO ao recurso para prosseguir a execução sem necessidade de nova intimação pessoal da parte agravada.
+Assiste razão ao recorrente, no que toca à alegada violação ao art. 1.022, II, do CPC/2015.
+De fato, o recorrente apresentou questão jurídica relevante, qual seja, a possibilidade de aplicação das astreintes a partir da decisão liminar, bem como, a diferença entre o comando determinando a obrigação de fazer entre a liminar e a sentença. Apesar de provocado, por meio de embargos de declaração, o Tribunal a quo não apreciou a questão.
+Nesse contexto, diante da referida omissão, apresenta-se violado o art. 1.022, II, do CPC/2015, o que impõe a anulação do acórdão que julgou os embargos declaratórios, com devolução do feito ao órgão prolator da decisão para a realização de nova análise dos embargos.
+No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO SUBMETIDOS AO ENUNCIADO ADMINISTRATIVO 3/STJ. RECEBIMENTO COMO AGRAVO INTERNO. DIREITO AMBIENTAL. AÇÃO ANULATÓRIA DE AUTO DE INFRAÇÃO. OMISSÃO RELEVANTE NÃO SANADA NA ORIGEM. PROVIMENTO DO RECURSO ESPECIAL QUANTO À VIOLAÇÃO AO ART. 1.022 DO CPC/2015.
+1. Sobre os presentes embargos de declaração, a análise de suas razões evidencia, de forma clara e inequívoca, que o seu objetivo não é o de sanar erro material, omissão, obscuridade ou contradição, mas sim o de buscar a reforma da decisão embargada. Assim, recebo-o como agravo interno, nos termos do art. 1.024, § 3º, do CPC/2015.
+2. É de ser mantida a decisão agravada, tendo em vista que a Corte de origem, mesmo com a oposição de embargos de declaração, deixou de se manifestar sobre o tema da responsabilidade subjetiva para fins de aplicação de multa por infração administrativa ambiental. Como se trata de vício cuja correção tem o potencial de alterar o resultado da demanda, impõe-se a anulação do acórdão dos embargos de declaração para que novo julgamento dos aclaratórios seja realizado, de forma seja apreciada a alegação em questão.
+3. Embargos recebidos como agravo interno e, nesta extensão, não provido.
+(EDcl no AREsp 1486730/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 03/03/2020, DJe 09/03/2020.)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. DECISÃO QUE DEU PROVIMENTO PARCIAL AO APELO RARO POR RECONHECER OMISSÕES NO ACÓRDÃO, NÃO SUPRIDAS MESMO APÓS A OPOSIÇÃO DE ACLARATÓRIOS. CABIMENTO, DENTRE OUTRAS PROVIDÊNCIAS, DE SE APRECIAR A ALEGADA NECESSIDADE DE ATUALIZAÇÃO MONETÁRIA DA PROPOSTA ADMINISTRATIVA, PARA FINS DE COMPARAÇÃO AO VALOR INDENIZATÓRIO FINAL AFERIDO, E, A PARTIR DAÍ, SE DETERMINAR A SUCUMBÊNCIA E A PARAMETRIZAÇÃO DOS JUROS COMPENSATÓRIOS. MATÉRIA RELEVANTE AO DESLINDE DA CAUSA, CUJA APRECIAÇÃO, PODERÁ EM TESE, ALTERAR O RESULTADO DO JULGAMENTO. INEXISTÊNCIA DE QUALQUER APRECIAÇÃO OUTRA, DADA A PREJUDICIALIDADE DESTA MATÉRIA. RECONHECIMENTO DE NULIDADE QUE NÃO IMPLICA A INCORREÇÃO DO ACÓRDÃO LOCAL, APENAS DO VÍCIO DECLARADO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Ocorre a violação do art. 535 do CPC/1973, quando a parte opõe perante a Corte local, Embargos de Declaração alegando omissão relevante e capaz de influenciar o resultado final do julgamento e, tal argumentação não é apreciada.
+2. O reconhecimento da nulidade de acórdão local, por violação do art. 535 do CPC/1973, nesta Instância Superior demanda apenas a objetiva constatação de um dos vícios previstos na legislação específica; análise realizada de maneira prejudicial às demais alegação e, que, por óbvio, não implica a análise da correção do acórdão recorrido.
+3. Agravo Interno do Particular a que se nega provimento.
+(AgInt no REsp 1478694/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/09/2018, DJe 27/09/2018.)
+Necessário, portanto, o retorno dos autos para que o Tribunal de origem se manifeste sobre as questões articuladas nos embargos de declaração.
+DO RECURSO ESPECIAL DA CEDAE:
+Não há, portanto, violação do art. 1.022 do CPC/2015 (antigo art. 535 do CPC/1973) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+O entendimento do Tribunal de origem está em confronto com a jurisprudência do Superior Tribunal de Justiça, no sentido de que"A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer", nos termos da Súmula 410/STJ.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. OBRIGAÇÃO DE FAZER. APRESENTAÇÃO DE CONTA TELEFÔNICA COM DISCRIMINAÇÃO DOS PULSOS. MULTA COMINATÓRIA PREVISTA NO ART. 461, § 4º, DO CPC/73. TERMO INICIAL. INTIMAÇÃO PESSOAL DA EMPRESA RÉ. SÚMULA 410/STJ.
+1. A teor da Súmula 410/STJ, "A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer".
+2. Agravo interno não provido.
+(AgInt no AREsp n. 500.966/PB, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 11/4/2022, DJe de 19/4/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EXECUÇÃO DE SENTENÇA. INCIDÊNCIA DAS MULTAS POR DESCUMPRIMENTO DA OBRIGAÇÃO DE FAZER E DO ART. 475-J DO CPC. SÚMULA 410/STJ. INTIMAÇÃO PESSOAL DO DEVEDOR. NECESSIDADE.
+1.Cinge-se a controvérsia a respeito da necessidade, conforme a Súmula 410/STJ, ou não, da intimação pessoal do devedor para se iniciar a contagem das multa diária (astreintes), nas hipóteses de obrigações de fazer ou de não fazer.
+2. O Tribunal a quo, ao analisar a controvérsia, consignou: "Assim, sem razão a apelante/CEDAE que afirma, embasada na Súmula n.º 410 STJ, haver excesso de execução, uma vez que não foi intimada pessoalmente para cumprir a obrigação de fazer, descabendo, portanto, a incidência da multa."
+3. Como se observa o entendimento firmado pelo Tribunal de Justiça do Estado do Rio de Janeiro é diverso daquele consolidado no STJ.
+Nesse sentido: EREsp. 1.360.577/MG, Rel. Min. Humberto Martins, Rel. p/Acórdão Min. Luis Felipe Salomão, DJe 7.3.2019; AgInt no REsp.
+1.509.707/MG, Rel. Min. Nancy Andrighi, DJe 10.4.2019 e AgInt no REsp. 1.712.864/PR, Rel. Min. Herman Benjamin, DJe 11.3.2019.
+4. Recurso Especial provido.
+(REsp n. 1.532.250/RJ, relator Ministro Herman Benjamin, Segunda Turma, julgado em 5/12/2019, DJe de 19/12/2019.)
+CONCLUSÃO
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial do CONDOMÍNIO A4 OFFICESpara anular o acórdão que julgou os embargos de declaração e determinar o retorno dos autos ao Tribunal a quo a fim de que se manifeste especificamente sobre as questões articuladas nos declaratórios. Do mesmo modo, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial da CEDAEpara reformar o acórdão recorrido, devendo o Tribunal, no reexame da matéria, observaro teor da Súmula 410/STJ, nos termos da fundamentação acima exposta.
+Publique-se. Intimem-se.
