@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto porLUZIA RAIMUNDA FONSECA contra decisão que inadmitiu recurso especial em razão de ter sido interposto na vigência da Emenda Constitucional n. 125/2022 e as questões não se enquadrarem nos casos de relevância presumida.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+É o relatório. Decido.
+De início, impõe-se ressaltar que, a respeito da arguição de relevância de questão federal para admissão o recurso especial, incluída na Constituição Federal pela Emenda Constitucional n. 125/2022, o Pleno do Superior Tribunal de Justiça aprovou o Enunciado Administrativo n. 8, nestes termos:
+A indicação, no recurso especial, dos fundamentos de relevância da questão de direito federal infraconstitucional somente será exigida em recursos interpostos contra acórdãos publicados após a data de entrada em vigor da lei regulamentadora prevista no artigo 105, parágrafo 2º, da Constituição Federal.
+Assim, ainda não deve ser exigida a demonstração do requisito da relevância, na medida em que inexiste norma regulamentadora em vigor.
+Passo, pois, à análise do recurso especial.
+O recurso especial, fundado no art. 105, III, a e c, da Constituição Federal, foi interposto contra acórdão prolatado pelo Tribunal de Justiça do Estado do Mato Grosso do Sul em apelação nos autos de ação declaratória de inexistência de débito c/c repetição de indébito e danos morais.
+O julgado foi assim ementado (fl. 186):
+EMENTA - APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE DESCONTO EM FOLHA DE PAGAMENTO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS - AFASTADA IMPUGNAÇÃO AO PEDIDO DE JUSTIÇA GRATUITA - PRELIMINAR DE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE REJEITADA - MÉRITO - EMPRÉSTIMO CONSIGNADO - NEGÓCIO JURÍDICO COMPROVADO PELA JUNTADA DE CONTRATO PELO BANCO - EFETIVA DISPONIBILIZAÇÃO DE RECURSOS ADVINDOS DO EMPRÉSTIMO - DESCABIMENTO DO PLEITO DE RESTITUIÇÃO DE VALORES E DE INDENIZAÇÃO POR DANO MORAL - MULTA POR LITIGÂNCIA DE MÁ-FÉ - MANTIDA - RECURSO CONHECIDO E DESPROVIDO.
+Considerando que o banco impugnante não comprovou alteração na situação financeira da impugnada, aliado ao fato de que trata-se ela de pessoa idosa, e que recebe benefício previdenciário no valor de um salário mínimo, afasta-se a impugnação a justiça gratuita.
+As razões recursais atendem perfeitamente ao princípio da dialeticidade quando apontam os fundamentos de fato e de direito que embasam o inconformismo da parte recorrente.
+Comprovada nos autos a existência, legalidade e validade do negócio jurídico firmado entre as partes, eis que assinado o contrato de empréstimo pela consumidora e disponibilizados os valores a ele concernentes, correta a sentença que julgou improcedentes os pedidos de declaração de nulidade da negociação, condenação à repetição de indébito e indenização por danos morais, já que nenhuma ilicitude restou comprovada.
+Tendo a parte apelante realmente recebido os valores contratados, deduz-se que há nítida distorção dos fatos com o objetivo de enriquecimento, postura essa que se enquadra no inciso II do artigo 80 do Código de Processo Civil, a ensejar condenação em multa por litigância de má-fé.
+Os embargos de declaração opostos foram rejeitados (fls. 241-246).
+Nas razões do recurso especial, alega a parte recorrente, violação dos arts. 489, II, e § 1º, IV, e 1.022, II, do CPC, 79, 80, II, 81 e 373, I, do CPC, além de divergência jurisprudencial.
+Afirma que omissão do acórdão a respeito de questões relevantes a solução do litígio e também por não ter se manifestado a respeito da jurisprudência invocada, nãodemonstrandoo motivo pelo qual deixou de segui-la.
+Sustenta que não litigade má-fé e nem tampouco houve a alteração da verdade dos fatos.
+Afirma que, para a condenação por litigância de má-fé, é indispensável a comprovação doelementosubjetivo (dolo, culpa) e objetivo (prejuízo causado á parte).
+Requer o provimento do recurso para que seja anulado o afastada a condenação por litigância de má-fé.
+Passo à análise das proposições deduzidas.
+O recurso não merece prosperar.
+I - Da alegada negativa de prestação jurisdicional
+A alegada violação dos arts. 489, II, e § 1º, IV, e 1.022, II, do CPC não enseja o êxito do recurso especial, pois a parte recorrente, limitando-se a indicar, de modo genérico, afronta aos mencionados dispositivos legais, não demonstrou de forma específica em que ponto o acórdão proferido nos embargos de declaração permanecera omisso ou não fundamentado.
+Desse modo, ante a impossibilidade de compreender a questão infraconstitucional arguida, aplica-se ao caso o disposto na Súmula n. 284 do STF.
+II - Dacondenação da parte por litigância de má-fé
+A parte recorrente alega que não ser o caso de litigância de má-fé , pois não há comprovação de tenha sido alterada a verdade dos fatos com intuito de induzir a erro ou causar prejuízo.
+O Tribunal de origem, analisando as provas apresentadas nos autos, mantevea multa por litigância de má-fé. Concluiuque houve má-fé e que a parteteria faltado com a verdade e distorcido os fatos,poismesmo após ter sido apresentado o contrato e o comprovante de transferência dos valores insistiu na alegação de ilegalidade. Segue trecho do julgado (fls. 191- 192, destaquei):
+Diante desse cenário, analisando com mais acuidade o caso e concluindo que a parte apelante realmente recebeu os valores contratados, deduz-se que há nítida distorção dos fatos com o objetivo de enriquecimento, postura essa que se enquadra no inciso II do artigo 80 do Código de Processo Civil  ..
+Todavia, se a parte autora alega na inicial que não se "recorda" de ter entabulado algum contrato, porém continua insistindo na alegação de ilegalidade mesmo depois do banco ter juntado o contrato e o comprovante de transferência da quantia contratada, fica evidente a má-fé da parte autora, ainda mais porque com um simples extrato de sua conta bancária teria plenas condições de saber se recebeu o valor referente ao contrato discutido.
+Desse modo, tendo a parte autora/apelante faltado com a verdade e distorcido os fatos, alegando a ausência de contratação com o réu a justificar os descontos em seu benefício previdenciário, no intuito de não pagar os valores devidos, ser reembolsado das quantias que já havia pago e ainda ser indenizado por danos morais, é caso de manutenção da aplicação das penas por litigância de má-fé.
+Assim, para infirmar as conclusões do aresto combatido e concluir pelo afastamento da condenação porlitigância de má-fé, seria imprescindível o reexame de provas, o que é inadmissível nesta instância extraordinária, em razão do disposto naSúmulan. 7 do STJ.
+Ademais, com relação à alegada ofensa do art. 373, I, do CPC, a deficiência na fundamentação recursal obsta o conhecimento do apelo extremo se, de sua leitura, não for possível aferir de que maneira o acordão impugnado violou os dispositivos de lei federal indicados no recurso especial, inviabilizando a compreensão da controvérsia (Súmula n. 284 do STF).
+III- Divergência jurisprudencial
+Para a interposição de recurso especial fundado na alínea c do permissivo constitucional, é necessário o atendimento dos requisitos essenciais para a comprovação do dissídio pretoriano, conforme prescrições dos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ. Isso porque não basta a simples transcrição da ementa dos paradigmas, pois, além de juntar aos autos cópia do inteiro teor dos arestos tidos por divergentes ou de mencionar o repositório oficial de jurisprudência em que foram publicados, deve a parte recorrente proceder ao devido confronto analítico, demonstrando a similitude fática entre os julgados, o que não foi atendido no caso.
+Portanto, está prejudicada a apreciação do dissídio jurisprudencial ante a não realização do devido cotejo analítico.
+IV- Conclusão
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10%sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
