@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de BRUNO DOS SANTOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento do HC n. 5051894-18.2022.8.24.0000/SC.
+Extrai-se dos autos que o paciente, juntamente com outro agente, foi preso em flagrante em 11/9/2022 pela suposta prática dos crimes previstos nos arts. 155, §4º, II e IV, e 307, ambos do Código Penal, e no art. 12 da Lei n. 10.826/2003 (furto qualificado, falsa identidade e posse de munição de uso permitido). Referida custódia foi convertida em prisão preventiva.
+Posteriormente foi oferecida denúncia, imputando ao paciente as condutas previstas nos arts. 155, §4º, II e IV, e 155, §4º, II e IV, c/c o art. 14, II, todos do Código Penal, e no art. 12 da Lei n. 10.826/2003 (furto qualificado, furto qualificado tentado e posse de munição de uso permitido).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. PACIENTE DENUNCIADO PELA PRÁTICA, EM TESE, DOS CRIMES DE FURTO QUALIFICADO (ARTIGO 155, §4º, INCISOS II E IV, DO CP), TENTATIVA DE FURTO QUALIFICADO (ARTIGO 155, §4 0 , INCISOS II E IV, COMBINADO COM O ARTIGO 14, INCISO II, DO CP), E POSSE IRREGULAR DE MUNIÇÃO (ARTIGO 12 DA LEI N. 10.826/2003). PREVENTIVA. POSTULADA REVOGAÇÃO DA PRISÃO - AUSÊNCIA DOS REQUISITOS LEGAIS NECESSÁRIOS PARA A PRISÃO PREVENTIVA. NÃO VERIFICAÇÃO. EMBORA CEDIÇO, VALE RELEMBRAR QUE A PRISÃO PREVENTIVA, PREVISTA NO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL, IMPÕE A PRESENÇA DEINDÍCIOS SUFICIENTES DE AUTORIA E A PROVA DA EXISTÊNCIA DO CRIME, O QUE A DOUTRINA DENOMINA FUMMUS COMMISSI DELICTI (FUMAÇA DA PRÁTICA DE UM DELITO). E, COMO FUNDAMENTO PARA SUA DECRETAÇÃO, A PRISÃO PREVENTIVA EXIGE A CONFIGURAÇÃO DO PERICULUM LIBERTATIS, QUE É A EXISTÊNCIA DE PERIGO CAUSADO PELA LIBERDADE DO ACUSADO, PARA A GARANTIA DA ORDEM PÚBLICA OU ECONÔMICA, CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL OU ASSEGURAR A APLICAÇÃO DA LEI PENAL. NA HIPÓTESE, OS ELEMENTOS QUE DIRECIONARAM A INSTÂNCIA PRIMEVA A DECRETAR E MANTER A PRISÃO PREVENTIVA DO PACIENTE CONTAM COM AMPARO JURÍDICO, POIS DECORREM DO BINÔMIO GRAVIDADE E REPERCUSSÃO SOCIAL DO CRIME, EVIDENCIADOS PELO MODUS OPERANDI DO DELITO (AÇÃO DE DUAS OU MAIS PESSOAS CONTRA O PATRIMÔNIO ALHEIO, PRATICADA DURANTE FESTA TÍPICO DE PEQUENO MUNICÍPIO, COM USO DE DISPOSITIVO ELETRÔNICO PARA BLOQUEAR O ACIONAMENTO DE TRAVA/ALARME ELETRÔNICO DE VEÍCULOS, POPULARMENTE CONHECIDO POR "CHAPOLIN"). - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. WRIT PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, ORDEM DENEGADA." (fls. 94/95).
+No presente writ, o impetrante sustenta a ausência de fundamentação concreta que justifique a prisão preventiva do paciente, baseada apenas na gravidade abstrata do delito, em ofensa ao art. 315 do CPP.
+Afirma não estar portando o dispositivo constante da denúncia e que o objeto encontrado seria o controle remoto da sua residência. Indica, ainda que a munição apreendida teria sido encontrada na rua.
+Ressalta que os delitos imputados não envolvem violência ou grave ameaça e destaca a desnecessidade da prisão preventiva, asseverando que a existência de ações penais em curso não constitui fundamento apto a justificar a segregação antecipada.
+Assevera não estarem presentes os requisitos previstos no art. 312 do CPP.
+Ressalta que o paciente conta com condições pessoais favoráveis e invoca o princípio da presunção de inocência.
+Alega ser desproporcional a prisão preventiva no caso, especialmente considerando a possibilidade de aplicação de pena mais branda em caso de eventual condenação.
+Assegura a suficiência da aplicação de medidas cautelares alternativas, previstas no art. 319 do CPP.
+Requer, em liminar e no mérito, a concessão da liberdade provisória ao paciente, com expedição de alvará de soltura, ainda que mediante a aplicação de medidas cautelares diversas.
+A liminar foi indeferida às fls. 98/100. Informações prestadas às fls. 104/113, 117/118. O Ministério Público Federal opinoupela prejudicialidade do writem parecer acostado às fls. 146.
+É o relatório.
+Decido.
+O presente habeas corpus está prejudicado.
+Isso porque, das informações obtidas na página eletrônica da Corte Estadual, verifica-se que em 10/11/2022 foi revogada a prisão preventiva do paciente, com expedição dealvará de soltura em seu favor.
+Desse modo, constata-se a perda superveniente do objeto do presente writ.
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado opresente habeas corpus.
+Publique-se.
+Intimem-se.
