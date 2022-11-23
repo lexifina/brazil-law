@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, interposto por NELSON WILLIAN DUARTE eISRAEL TIAGO PAIM DIAS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, no julgamento do Habeas Corpus n.5041766-36.2022.8.24.0000.
+Consta dos autos que os recorrentesforam presos em flagrante, com posterior conversão em prisão preventiva, e denunciados pela suposta prática dos crimes de tráfico de drogas e associação para o tráfico.
+A defesa impetrou habeas corpus no Tribunal de origem, cuja ordem foi denegada. Eis a ementa do julgado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE CONVERTIDA EM PRISÃO PREVENTIVA.
+ADUZIDA A ILEGALIDADE DO FLAGRANTE EM RAZÃO DO FERIMENTO AO DIREITO DE INVIOLABILIDADE DO DOMICILIO. IMPOSSIBILIDADE DE ACOLHIMENTO DA TESE. DIREITO MITIGADO EM RAZÃO DA EXISTÊNCIA DE FUNDADAS SUSPEITAS DA PRÁTICA DE CRIME NO LOCAL. DENÚNCIAS PRÉVIAS DA PRÁTICA DE TRÁFICO DE DROGAS NO LOCAL.
+PACIENTE CONHECIDO DA GUARNIÇÃO QUE FOI VISTO EM FRENTE AO IMÓVEL REALIZANDO ENTREGA DE ENTORPECENTE PARA O SEGUNDO PACIENTE. ABORDAGEM QUE CULMINOU NA APREENSÃO DE 15 PORÇÕES DE COCAÍNA PREVIAMENTE EMBALADAS, COM PESO APROXIMADO DE 11G, ALÉM DE DUAS PORÇÕES DE COCAÍNA, COM PESO ESTIMADO DE 1,43G, ASSIM COMO 15 PORÇÕES DE COCAÍNA, PESANDO APROXIMADAMENTE 10,44G, E 51,39G DE COCAÍNA, ENCONTRADAS NA REVISTA DOMICILIAR. CRIMES PERMANENTES. VERSÃO DEFENSIVA DOS FATOS QUE, ADEMAIS, DEMANDA DILAÇÃO PROBATÓRIA. ILEGALIDADE INEXISTENTE.
+ALEGADA QUEBRA DA CADEIA DE CUSTÓDIA PORQUE OS OBJETOS APREENDIDOS, EM ESPECIAL OS ENTORPECENTES, NÃO FORAM COLOCADOS DENTRO DE EMBALAGEM OU RECIPIENTE ADEQUADO (EMBALAGEM DE CUSTÓDIA), DEVIDAMENTE SELADO E COM LACRES CONTENDO NUMERAÇÃO INDIVIDUALIZADA POR PARTE DOS POLICIAIS MILITARES, PARA SER ENTREGUE À POLICIA CIVIL. INSUBSISTÊNCIA.
+INSTRUÇÃO QUE ATÉ O MOMENTO NÃO APONTA A EXISTÊNCIA DE ELEMENTOS QUE DEMONSTREM A QUEBRA DA CADEIA DE CUSTÓDIA OU DE QUE AS PROVAS TENHAM SIDO ADULTERADAS. ENTORPECENTES E DEMAIS OBJETOS APREENDIDOS QUE FORAM INDIVIDUALIZADOS E DISCRIMINADOS.
+ADEMAIS, DESPACHO DA AUTORIDADE POLICIAL QUE ASSEGURA QUE O MATERIAL APREENDIDO FOI REMETIDO À POLICIA CIENTIFICA. DETALHES AVERBADOS AOS DOCUMENTOS QUE PODERÃO SER CONFRONTADOS DURANTE A INSTRUÇÃO QUANDO ACOSTADOS AOS AUTOS OS LAUDOS PERICIAIS. TESE RECHAÇADA.
+ADUZIDA A INÉPCIA DA DENÚNCIA. INOCORRÊNCIA. EXORDIAL QUE PREENCHE OS REQUISITOS DO ART. 41 DO CPP. INEXISTÊNCIA DE PREJUÍZOS À AMPLA DEFESA DO PACIENTE. EXISTÊNCIA DE MATERIALIDADE E INDÍCIOS DE AUTORIA SUFICIENTES PARA O PROSSEGUIMENTO DO FEITO. JUSTA CAUSA OBSERVADA. TRANCAMENTO DA AÇÃO PENAL QUE CONSTITUI MEDIDA EXCEPCIONAL. TESE AFASTADA. ORDEM DENEGADA." (fl. 64)
+No presente recurso ordinário em habeas corpus, a defesa reitera a alegação de nulidade das provas, por violação de domicílio e por quebra da cadeia de custódia. Alega ausência de justa causa em relação ao crime de associação para o tráfico. Assim, requer o conhecimento e provimento do recurso para decretar a nulidade da prova e o trancamento da ação penal.
+O Ministério Público Federal opinoupela prejudicialidade do presente recurso, por perda do seu objeto (fls. 107/108).
+É o relatório.
+Decido.
+Conforme relatado, busca-se, no presente recurso ordinário em habeas corpus, o reconhecimento denulidade da prova e o trancamento da ação penal.
+Entretanto, conforme informações obtidas na página eletrônica do Tribunal de origem, em 19/10/2022, nos autos da Ação Penal n.5002070-98.2022.8.24.0062, foi proferida sentença condenatória, na qual os recorrentes foram condenadospela prática dos crimes previstos nos artigos 33, caput, e 35, caput, ambos da Lei n. 11.343/06.
+Desse modo, "nos termos da Súmula n. 648 do STJ: "A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito em habeas corpus"."(AgRg no HC 687.928/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 16/11/2021).
+Dessa forma, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o pedido.
+Publique-se.Intime-se.
