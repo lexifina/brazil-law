@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por Judite Tome de Torrescontra acórdão do Tribunal de Justiça de São Paulo (Habeas Corpus n. 2191798-21.2020.8.26.0000).
+Narram os autos que a recorrente foi pronunciada pelo Juízo de Direito da Vara do Júri e Execuções Criminais da comarca de Piracicaba/SP como incursa no crime de homicídio simples (Ação Penal n. 0013849-88.2016.8.26.0451).
+Aos argumentos de nulidade e cerceamento de defesa, impetrou-sehabeas corpus na colenda Corte de origem, que denegou a ordem.
+Aqui, alega a recorrente constrangimento ilegal, uma vez que a ação penal não aguarda o julgamento do recurso especial interposto contra a decisão de pronúncia para ter prosseguimento, bem como que existe cerceamento de defesa, pois o Juízo de primeiro grau indeferiu a realização de diligênciareputada imprescindível para sustentar a tese defensiva na fase do art. 422 do Código de Processo Penal.
+Postula, então, o conhecimento e o acolhimento do recurso, nos termos propostos.
+Não houve pedido liminar.
+O Ministério Público Federal opinou pelo desprovimento do recurso (fls. 127).
+É o relatório.
+O presente pedido comporta parcial acolhimento.
+De início, observo queé entendimento pacífico no âmbito deste Superior Tribunale do colendo Supremo Tribunal Federal, que a preclusão da pronúncia a que alude o art. 421 do Código de Processo Penalse refere ao exaurimento da matéria em recursos inerentes ao procedimento doJúriapreciados pelas instâncias ordinárias. A interposição derecursos especialou extraordinário contra acórdão confirmatório da decisão depronúncianão obstaculiza a realização do julgamento peloTribunal do Júri(AgR no HC n. 118.357/PE, Primeira Turma, Ministra Rosa Weber, DJe 27/10/2017).
+No entanto, verifico que, em relação ao pedido de oitiva do perito oficial na sessão de julgamento do Tribunal do Júri, o Juízo não logrou fundamentar adequadamente a negativa, uma vez que se limitou a afirmar que quanto ao indeferimento da oitiva do perito, que reitero, não indica em nenhum momento em qual item dos seis laudos pretende, consta toda a motivação no item "2.2.1" de págs. 556/557, que fica aqui reiterado, ou seja, respeitando todo e qualquer entendimento em sentido contrário, entendo que não há,nesta segunda fase doprocedimento bifásico,previsão legal acerca de possibilidade de pedido de esclarecimento do perito, é o que, inclusive, dispõe o artigo 422 do CPP. Há, inclusive, momento oportuno para apresentação de eventuais quesitos de esclarecimentosao serem caso, apresentados para resposta do perito, não sendo agora, nos embargos de declaração, que tem essa finalidade de ser acolhido (fl. 73), bem como o que constade forma semelhante às fls. 57/58.
+Ocorre que, assim como não há previsão legal de oitiva do perito oficial na sessão de julgamento, também não há vedação, devendo prevalecer a plenitude da defesa, garantida, inclusive, pela Constituição da República (art. 5º, XXXVIII, a, da CF).
+Em face do exposto, dou parcial provimento ao recurso para determinar que o perito que confeccionou o laudo pericial da Ação Penal n.0013849-88.2016.8.26.0451,da Vara do Júri e Execuções Criminais da comarca de Piracicaba/SP, seja ouvido entre as testemunhas arroladas pela defesa na sessão de julgamento em que a recorrente será submetida ao Conselho de Sentença.
+Comunique-se com urgência.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. RECURSO EM HABEAS CORPUS. HOMICÍDIO SIMPLES. JÚRI. PRETENSÃO DE SUSPENSÃO DA AÇÃO PENAL ATÉ O TRÂNSITO EM JULGADO DA DECISÃO DE PRONÚNCIA. IMPROCEDÊNCIA. PRECLUSÃO DA PRONÚNCIA. LIMITE DA APRECIAÇÃO DA CAUSA PELAS INSTÂNCIAS ORDINÁRIAS. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. INDEFERIMENTO DE DILIGÊNCIA NA FASE DO ART. 422 DO CPP. EXISTÊNCIA. PLENITUDE DA DEFESA. OBSERVÂNCIA (ART. 5º, XXXVIII, DA CF). COAÇÃO ILEGAL PARCIALMENTE IDENTIFICADA.
+Recurso parcialmente providonos termos do dispositivo.
