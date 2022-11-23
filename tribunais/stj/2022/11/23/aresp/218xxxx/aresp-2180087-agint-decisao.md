@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interno interposto pelo Estado do Rio de Janeirocontra decisão da Presidência desta Corte Superior que não conheceu do agravo emrecurso especial, ante a incidência daSúmula 182/STJ(fls. 271/272).
+Inconformada, a parte agravante sustenta a inaplicabilidade doreferido óbice, sob o argumento de que "A r. decisão agravada não conheceu do recurso interposto, sob a assertiva de que o agravante não teria impugnado especificamente todos os fundamentos da decisão recorrida, qual seja, o óbice da Súmula n. 07 do STJ. Portanto, incidiria, no caso, o enunciado da Súmula n. 182 do Tribunal.Todavia, com a devida vênia, merece reforma a r. decisão, eis que o agravante impugnou, de forma efetiva e pormenorizada, os fundamentos que, na origem, não admitiram o recurso.Com efeito, o agravo interposto (fls. 243/250) apontou precisa e coerentemente a inaplicabilidade da Súmula n. 07 do STJ. Diante disso, não cabe considerar a ausência de impugnação, uma vez que as razões do agravante abordaram todos os fundamentos da r. decisão do Tribunal a quo. Assim sendo, o recurso fez referência específica ao óbice da Súmula n. 07 do STJ (fl. 247/248)."(fls. 276/277).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos, exercendo o juízo de retratação facultado pelo art. 1.021, § 2º, 2ª parte, do CPC e 259 do RISTJ, reconsidero a decisão agravada (fls. 510/512), tornando-a sem efeito.
+Após, voltem-me os autos conclusos para nova apreciação do agravo em recurso especial.
+Publique-se.
