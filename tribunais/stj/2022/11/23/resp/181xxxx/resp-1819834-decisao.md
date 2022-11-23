@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  por  MARIA  DENISE  VERARDO  SANCHEZ  CAMARGO  com  fundamento  no  artigo  105,  inciso  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  contra  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  de  São  Paulo  assim  ementado:
+"CHEQUES.  Ação  monitória.  Transferência  dos  títulos  por  meio  de  contrato  de  fomento  mercantil.  E-mail  enviado  pela  "factoring"  à  ré,  que  confirmou  a  emissão  das  cártulas  sem  qualquer  oposição.  Desajuste  comercial  posterior  entre  a  emitente  dos  cheques  e  a  cedente  que  não  pode  ser  imputado  à  autora.  Exegese  do  artigo  294  do  CC.  Embargos  monitórios  rejeitados.  Recurso  provido"  (fl.  212  e-STJ).
+Nas  razões  recursais,  a  recorrente  alega  violação  do  art.  294  do  Código  Civil.
+Aduz  que  "Em  operação  de  factoring  a  transmissão  de  cheque  em  operação  de  desconto  tem  natureza  de  cessão  civil,  possibilitando  a  oponibilidade  de  exceções  pessoais  da  parte  do  emitente"  (fl.  190  e-STJ).
+É  o  relatório.
+DECIDO.
+A  irresignação  merece  prosperar.
+Eis  a  letra  do  acórdão  transcrito  no  que  interessa  à  espécie:
+"No  caso  dos  autos,  não  há  como  desconsiderar  que,  celebrado  o  contrato  de  fomento  mercantil  entre  a  autora  e  a  prestadora  de  serviços  (fls.  12/22), cujo  objeto  foi  a  transferência  dos  cheques  nº  900095,  nº  900096,  nº  900097  e  nº900098,  no  valor  de  R$  6.000,00  cada  um,  a  faturizadora  enviou  um  e-mail  para  a  emitente  das  cártulas  em  16.10.2012  para  confirmar  a  validade  dos  títulos,  o  que  foi  "confirmado"  pela  ré  no  mesmo  dia  (fls.  25).
+Apenas  após  a  ciência  da  aquisição  dos  cheques  pela  faturizadora,  a  emitente,  por  meio  do  e-mail  datado  de  19.12.2012  (fls.  96),  aditou  o  contrato  com  a  prestadora  de  serviços  para  cancelar  parte  do  ajuste  e,  por  consequência,  os  cheques  nº 900097  e  nº  900098.
+No  entanto,  quando  foi  realizado  o  aditamento  entre  a  ré  e  a  prestadora  de  serviços,  os  cheques  emitidos  por  ocasião  da  primeira  avença  já  tinham  sido  transmitidos  para  a  "factoring",  com  o  conhecimento  da  emitente,  sem  que  esta  tenha  oposto  qualquer  exceção  pessoal.
+(..)
+Tendo  em  vista  que  a  devedora  não  opôs  qualquer  exceção  no  momento em  que  ela  tomou  conhecimento  da  cessão  dos  créditos,  forçoso  reconhecer  a  validade da  cobrança  dos  cheque"  (fls.  182/183  e-STJ).
+Tal  posicionamento  está  em  dissonância  com  a  jurisprudência  desta  Corte ,  pacificada  no  sentido  de  que  a  transferência  dos  títulos  por  ocasião  do  contrato  de  factoring  possui  natureza  jurídica  de  cessão  de  créditos  e  não  de  endosso,  podendo  o  devedor  arguir  as  exceções  perante  a  faturizadora.
+A  propósito:
+"AGRAVO  REGIMENTAL  NO  RECURSO  ESPECIAL.  EMBARGOS  À  AÇÃO  MONITÓRIA.  CHEQUE.  CONTRATO  DE  FACTORING.  CESSÃO  DE  CRÉDITO  (ART.  294  DO  CÓDIGO  CIVIL).  EXCEÇÕES  PESSOAIS.  OPONIBILIDADE  À  FATURIZADORA.  POSSIBILIDADE.
+1.  É  possível  a  oposição  de  exceções  pessoais  à  faturizadora,  visto  que  recebe  o  cheque  por  força  de  contrato  de  cessão  de  crédito,  cuja  origem  é  -  ou  pelo  menos  deveria  ser  -  objeto  de  análise,  o  que  faz  com  que  não  se  equipare  a  terceiros  a  quem  o  título  pudesse  ser  transferido  por  endosso  e  cuja  boa-fé  os  princípios  da  autonomia  e  abstração  visam  proteger.
+2.  Agravo  regimental  desprovido"
+(AgRg  no  REsp  1.283.369/RS,  Rel.  Ministro  JOÃO  OTÁVIO  DE  NORONHA,  TERCEIRA  TURMA,  julgado  em  4/2/2016,  DJe  18/2/2016).
+"AGRAVO  REGIMENTAL  NO  AGRAVO  EM  RECURSO  ESPECIAL.  CIVIL  E  PROCESSUAL  CIVIL.  EXECUÇÃO.  OPOSIÇÃO  DE  EXCEÇÕES  PESSOAIS.  FACTORING.  POSSIBILIDADE.  ENUNCIADO  Nº  83  DA  SÚMULA  DO  STJ.  INCIDÊNCIA.  AUSÊNCIA  DE  SIMILITUDE  FÁTICA.  DIVERGÊNCIA  NÃO  RECONHECIDA.
+1.  A  orientação  desta  Corte  é  no  sentido  de  que  as  exceções  pessoais  originariamente  oponíveis  pelos  devedores  ao  faturizado  são  oponíveis  à  faturizadora,  nova  credora.  Precedentes.
+2.  A  divergência  jurisprudencial,  nos  termos  do  art.  541,  parágrafo  único,  do  Código  de  Processo  Civil  e  do  art.  255,  §2º,  do  Regimento  Interno  do  Superior  Tribunal  de  Justiça,  exige  similitude  fática  entre  os  acórdãos  paradigmas  e  o  impugnado,  circunstância  não  evidenciada  no  caso  concreto.
+3.  Agravo  regimental  não  provido"
+(AgRg  no  AREsp  778.255/RJ,  Rel.  Ministro  RICARDO  VILLAS  BÔAS  CUEVA,  TERCEIRA  TURMA,  julgado  em  15/12/2015,  DJe  4/2/2016).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSO  CIVIL.  ALEGAÇÃO  DE  OFENSA  AO  ART.  535  DO  CPC/1973.  AUSÊNCIA  DE  OMISSÃO.  VIOLAÇÃO  NÃO  CARACTERIZADA.  AFIRMAÇÃO  DE  OFENSA  AO  ART.  557  DO  CPC/1973.  QUESTÃO  SUPERADA  PELO  JULGAMENTO  DO  COLEGIADO  DO  AGRAVO  REGIMENTAL.  CIVIL  E  COMERCIAL.  CONTRATO  DE  FACTORING.  CESSÃO  DO  CRÉDITO  REPRESENTADO  POR  CHEQUES.  POSSIBILIDADE  DE  ARGUIÇÃO  DAS  EXCEÇÕES  PESSOAIS  DO  DEVEDOR  CONTRA  A  EMPRESA  FATURIZADORA.  PRECEDENTES.  DECISÃO  MANTIDA.  AGRAVO  NÃO  PROVIDO.
+ ..
+4.  No  contrato  de  factoring,  a  transferência  dos  créditos  não  se  opera  por  simples  endosso,  mas  por  cessão  de  crédito,  subordinando-se,  por  consequência,  à  disciplina  do  art.  294  do  Código  Civil,  contexto  que  autoriza  ao  devedor  a  oponibilidade  das  exceções  pessoais  em  face  da  faturizadora.  Precedentes.
+5.  Agravo  interno  a  que  se  nega  provimento"
+(AgRg  no  AREsp  592.779/SP,  Rel.  Ministro  RAUL  ARAÚJO,  QUARTA  TURMA,  julgado  em  5/5/2016,  DJe  17/5/2016).
+"CIVIL.  AGRAVO  INTERNO  EM  RECURSO  ESPECIAL.  RECURSO  MANEJADO  SOB  A  ÉGIDE  DO  NCPC.  AÇÃO  MONITÓRIA.  CONSTITUIÇÃO  DE  TÍTULO  EXECUTIVO.  CONTRATO  DE  "FACTORING".  CESSÃO  DE  CRÉDITO.  PREQUESTIONAMENTO  DA  LEI  DO  CHEQUE.  TEMA  NÃO  DEBATIDO  PELAS  INSTÂNCIAS  ORDINÁRIAS.  INCIDÊNCIA  DAS  SÚMULAS  NºS  282  E  346  DO  STF,  POR  ANALOGIA.  INAFASTÁVEL  O  ÓBICE  SUMULAR.  ACÓRDÃO  RECORRIDO  QUE  DECIDIU  EM  HARMONIA  COM  A  JURISPRUDÊNCIA  DESTA  CORTE.  APLICAÇÃO  DAS  SÚMULAS  NºS  83  E  568  DO  STJ.  AGRAVO  INTERNO  NÃO  PROVIDO.
+1.  Aplica-se  o  NCPC  a  este  recurso  ante  os  termos  do  Enunciado  Administrativo  nº  3,  aprovado  pelo  Plenário  do  STJ  na  sessão  de  9/3/2016:  Aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016)  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  CPC.
+2.  A  matéria  contida  nos  arts.  17  e  20  da  Lei  nº  7.357/85  (Lei  do  Cheque)  e  903  do  CC/02  não  foram  objeto  de  debate  prévio  nas  instâncias  precedentes  e  nem  sequer  foram  opostos  embargos  de  declaração  para  discutir  o  teor  deles.  Ausente,  portanto,  o  devido  prequestionamento  nos  termos  da  Súmula  nº  282  do  STF,  aplicável  por  analogia.
+3.  Na  linha  da  jurisprudência  do  STJ,  no  contrato  de  factoring,  a  transferência  dos  créditos  não  se  opera  por  simples  endosso,  mas  por  cessão  de  crédito,  subordinando-se,  por  consequência,  à  disciplina  do  art.  294  do  Código  Civil,  contexto  que  autoriza  ao  devedor  a  oponibilidade  das  exceções  pessoais  em  face  da  faturizadora.
+Precedentes.  Incidência  das  Súmulas  nºs  83  e  356  do  STJ.
+4.  Não  sendo  a  linha  argumentativa  apresentada  capaz  de  evidenciar  a  inadequação  dos  fundamentos  invocados  pela  decisão  agravada,  o  presente  agravo  não  se  revela  apto  a  alterar  o  conteúdo  do  julgado  impugnado,  devendo  ele  ser  integralmente  mantido  em  seus  próprios  termos.
+5.  Agravo  interno  não  provido"
+(AgInt  no  REsp  1.717.382/SC,  Rel.  Ministro  MOURA  RIBEIRO,  TERCEIRA  TURMA,  julgado  em  20/4/2020,  DJe  23/4/2020).
+Ante  o  exposto,  dou  provimento  ao  recurso  especial  para  restabelecer  a  sentença.
+Publique-se.
+Intimem-se.
