@@ -1,0 +1,9 @@
+DECISÃO
+DIOGENES DE OLIVERIA ALMEIDA opõe embargos de declaração à decisão de fls. 96-98. Afirma que o julgado foi omisso quanto à alegação de ilegalidade da determinação da realização de exame criminológico e pede sua complementação, com efeitos infringentes.
+Decido.
+Na petição inicial do habeas corpus, a defesa assinalou que as "alterações no processo de execução previstas na Lei no 10.792/03" afastaram a exigência do exame criminológico e é "evidente que o Legislador elegeu como principal e suficiente para constatação do bom comportamento carcerário o parecer do diretor do estabelecimento" (fl. 7).
+Entretanto, eventual insurgênciacontra: a) a decisão doJuiz da VEC que determinou a realização da provaou b) a atual admissibilidade do exame criminológicoem direito não foi tratada no acórdão recorrido, proferido noAgravo de Execução Penal n. 0002105-62.2022.8.26.0071.
+Assim, em complemento ao julgado,assinaloquea inauguração da competência desta Corte para conhecer habeas corpus contra atos de tribunais sujeitos à sua jurisdição pressupõe julgamento colegiado acerca da pretensa ilegalidade, o que não se divisa. Conforme o art. 105 da CF, a supressão de instância impede a análise inédita de questões não decididas por Tribunais regionais ou estaduais.
+Não é possível, ainda, a concessão de ordem de ofício, pois a pretensão está em confronto com o entendimento desta Corte, firme em assinalar: "apesar da exclusão daobrigatoriedadede realização deexame criminológicopara progressão de regime, conforme alteração promovida pela Lei n. 10.792/2003 no art. 112 da Lei de Execução Penal, é possível sua determinação de forma fundamentada, conforme os enunciados da Súmula Vinculante n. 26 do STF e da Súmula n. 439 do STJ"(AgRg no HC n. 731.264/SP, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 10/5/2022, DJe de 13/5/2022).
+À vista do exposto, rejeito os embargos de declaração.
+Publique-se e intimem-se.
