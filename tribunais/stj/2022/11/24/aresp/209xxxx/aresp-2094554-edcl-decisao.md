@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por AGNALDO SIPRIANO DA SILVA contra decisão do eminente Ministro JesuínoRissato (Desembargador convocado do TJDFT),de e-STJ fls. 186.789/186.798que, nos termos doart. 253, parágrafo único,I, do Regimento Interno do Superior Tribunal de Justiça, não conheceu do agravo em recurso especial.
+Sustenta o embargante que o decisum objurgado seria obscuro, na medida em que "a matéria apontada como carente de enfrentamento é justamente aquela que foi minuciosamente abordada no petitório de agravo  ..  inclusive, não há que se falar em "alegações genéricas ou relativas", vez que a temática foi exaustivamente explanada com a sua devida adequação ao caso concreto, demonstrando-se que toda matéria necessária para reconhecimento do apelo defensivo estava presente no próprio julgado, sem qualquer necessidade de manuseio probatório" (e-STJ fl. 186806).
+No que diz respeito aoart. 241 do Código de Processo Penal, afirma a existência de tópico específico para o confronto da matéria, registrandoque há "mais de oito laudas no recurso que se destinam exclusivamente ao enfrentamento da súmula nº 7 desta Casa e à demonstração, in concretu, de ausência de ofensa ao enunciado, assentando o argumento genérico ao caso concreto e pormenorizado dos autos" (e-STJ fl.186.806).
+Requer o acolhimento dos presentes embargos a fim de que seja sanada a obscuridade apontada.
+Contraminutaàs fls. 186.867/186.870.
+É o relatório.
+O artigo 619 do Código de Processo Penal disciplina que "aos acórdãos proferidos pelos Tribunais de Apelação, câmaras ou turmas, poderão ser opostos embargos de declaração, no prazo de dois dias contados da sua publicação, quando houver na sentença ambiguidade, obscuridade, contradição ou omissão", tendo a jurisprudência desta Corte os admitido, também, com o fito de sanar eventual erro material na decisão embargada.
+Na hipótese, não obstante a combatividade da defesa técnica, o decisum embargado não incorre em nenhum dos vícios sanáveis pelo recurso integrativo, uma vez que restaram explicitadas, adequadamente, as razões pelas quais não se conheceu do agravo em recurso especial.
+Com efeito, consignou-se quea parte ora embargante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial, não bastando, para tanto, deduzir genericamente a inaplicabilidade do óbice apontado na decisão agravada.
+Esclareceu-se o seguinte:
+ ..
+Outrossim, com relação ao óbice da Súmula 7/STJ, em síntese, a parte limitou-se, em especial com relação ao artigo 241 do Código de Processo Penal, a afirmar o que segue (fls. 186.296-186.297):
+"Ocorre que, ao contrário do aventado na decisão monocrática, os pontos suscitados pela defesa não ensejam o revolvimento do conjunto probatório. Aliás, como será pormenorizadamente demonstrado na sequência, as jurisprudências colacionadas pelo julgador não se aplicam ao caso em análise"  ..  Não há que se falar em revisitação à prova quando a matéria está absolutamente adstrita à questão de direito, qual seja, A NECESSIDADE DE RECONHECIMENTO DA ILEGALIDADE DE UMA APREENSÃO FEITA SEM MANDADO JUDICIAL.
+Conforme exaustivamente elucidado ao longo da persecução penal, o veículo Peugeot 408, ano 2013/2014, placas AYX 4858 encontrado na residência do agravante não valia sequer R$ 38.000,00 (trinta e oito mil reais) e foi apreendido mediante a apresentação de um mandado com ordem para veículos acima de R$ 50.000,00 (cinquenta mil reais) - na ocasião foram apreendidos mais dois veículos, estes sim contemplados pelo objeto do mandado. A questão é bastante simples e não exige qualquer reexame de prova: um bem foi apreendido sem mandado, portanto, uma prova foi produzida ilegalmente e nenhum dos julgadores se dignou, até o momento, a apreciar a matéria.
+ ..
+Ou seja, não se trata de reexame de provas, mas sim de revaloração de fatos e provas expressamente delineados no acórdão impugnado, objetivando-se a aplicação da tese acertada ao caso."
+Contudo, deveria o agravante demonstrar a desnecessidade da análise do conjunto fático-probatório, deixando claro que os fatos foram devidamente consignados no decisum a quo, o que não aconteceu.
+É entendimento desta Corte Superior que "inadmitido o recurso especial com base na Súm. 7 do STJ, não basta a simples assertiva genérica de que se cuida de revaloração da prova, ainda que feita breve menção à tese sustentada. O cotejo com as premissas fáticas de que partiu o aresto faz-se imprescindível" (AgInt no AREsp 600.416/MG, Segunda Turma, Rel. Min. Og Fernandes, DJe 18/11/2016).
+Pontuou-se quea ausência de impugnação adequada dos fundamentos empregados pela Corte de origem para impedir o trânsito do apelo nobre, nos termos do art. 932, inciso III do CPC, obsta o conhecimento do agravo, cujo único propósito é demonstrar a inaplicabilidade dos motivos indicados na decisão de inadmissibilidade do recurso por meio de impugnação específica de cada um deles.
+Dessa forma, devidamente explicitadas as razões para o não conhecimento doagravo em recurso especial, oque se observa é o puro e simples inconformismo do embargante com a solução dada por esta Corte à controvérsia, o que não dá ensejo à oposição de embargos de declaração.
+A propósito:
+PROCESSO PENAL.EMBARGOSDEDECLARAÇÃOEM RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA. ALEGAÇÃO DE OBSCURIDADE OU CONTRADIÇÃO. VÍCIO INEXISTENTE. PRETENSÃO DE REEXAME DA MATÉRIA.
+IMPOSSIBILIDADE.
+1. Osembargosdedeclaraçãosomente são cabíveis quando presente, ao menos, uma das hipóteses previstas no art. 619 do Código de Processo Penal.
+2. Na espécie, a controvérsia foi solucionada integralmente, com fundamentação clara, adequada e suficiente, razão pela qual não há ofensa ao citado dispositivo. A insatisfação com o resultado trazido na decisão judicial não significa deficiência ou ausência de prestação jurisdicional. Precedentes.
+3.Embargosdedeclaraçãorejeitados.
+(EDcl no REsp n. 1.931.145/SP, relator Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 24/8/2022, DJe de 26/8/2022.)
+Ante o exposto, com fulcro no artigo 264, § 1º, do Regimento Interno do Superior Tribunal de Justiça, rejeito os embargos de declaração.
+Publique-se e intime-se.
+Cientifique-se o Ministério Público Federal.
