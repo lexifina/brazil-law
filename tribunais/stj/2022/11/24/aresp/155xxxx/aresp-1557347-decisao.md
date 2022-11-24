@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial contra acórdão assim ementado:
+Apelação cível - Direito Administrativo Processo administrativo disciplinar - UNESP-Nulidades não verificadas - Decisão exarada mantida (demissão) - Os equívocos, ilegalidades e improbidades nas contratações levadas a efeito pelo Apelante restaram flagrantemente demonstrados pela prova testemunhal colhida, depoimento pessoal do Apelante e documentos colacionados - Aplicação do 252 do RITJSP- Sentença mantida -Recurso desprovido.
+Embargos de Declaração rejeitados (fls. 1591-1593, e-STJ).
+No Recurso Especial (fls. 1.615-1.637, e-STJ), alega-se violação do art. 535 do CPC/1973 (art. 1.022, II, parágrafo único II, do CPC/2015) eao art.489, § 1º, do CPC/22015; bem como dissídio jurisprudencial.
+Contrarrazões às fls. 1.645-1.637, e-STJ.
+O Recuso foi inadmitido na origem, o que motivou a interposição do Agravo de fls. 1.677-1.687, e-STJ.
+A Presidência do STJ não conheceu do Agravo pela intempestividade. O autor não havia comprovado a existência do feriado local na segunda-feira de carnaval do ano de 2019.A decisão da Presidência foi confirmada pela Segunda Turma.
+Contudo, em Embargos de Divergência, o eminente Ministro Sérgio Kukina reformou o acórdão da Segunda Turma, permitindo que o recorrente comprove a existênciade feriado local na segunda-feira de carnaval (fls. 2.014-2.019, e-STJ).
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 14.11.2022.
+Às fls. 2021-2025, e-STJ, o recorrente comprova a existência de feriado local na segunda-feira de carnaval. O recurso, portanto, é tempestivo.
+Mas há outro óbice ao conhecimento do Agravo. O Recurso Especial foi inadmitido pelos seguintes fundamentos:
+De início, não se verifica a apontada ofensa ao art. 1022 do Código de Processo Civil, haja vista que as questões trazidas à baila pelo recorrente foram todas apreciadas pelo venerando acórdão atacado, nos limites em que expostas. Deve observar-se ainda, conforme entendimento do Col. Superior Tribunal de Justiça, como "inexistente a alegada violação do art.1022 do NCPC (art. 535 do CPC-73), pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. Nos termos da jurisprudência pacíficado STJ, "o magistrado não é obrigado a responder todas as alegações das partes, se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados" (REsp 684.311/RS, Rel. Min. CASTRO MEIRA, Segunda Turma, julgado em 4/4/2006, DJ 18/4/2006, p. 191), como ocorreu na hipótese em apreço (cf. REsp. 1.612.670 -RS, Rel. Min. HUMBERTO MARTINS, DJe de 01/07/2016).
+Com relação à violação à Súmula, o exame de dissídio jurisprudencial é inviável em sede de recurso especial porque exorbita dos limites da competência da Corte Suprema constitucionalmente estabelecidos.
+No mais, os argumentos expendidos não são suficientes para infirmar as conclusões do v. acórdão combatido que contém fundamentação adequada para lhe dar respaldo, tampouco ficando evidenciado o suposto maltrato às normas legais enunciadas, isso sem falar que rever a posição da Turma Julgadora importaria em ofensa à Súmula nº 7 do Superior Tribunal de Justiça.
+Quantoà letra "c" do permissivo constitucional, deixou o recorrente de atender ao requisito previsto no art. 541, parágrafo único do revogado Código de Processo Civil (correspondente ao art. 1029, §1º, da Lei 13.105, de 16 de março de2015), e art. 255, § 1º, do RISTJ.
+No Agravo, o recorrente deixou de impugnar a aplicação da Súmula 7/STJ e o descabimento de Recurso Especial com fundamento em dissídio jurisprudencial sobreenunciado sumular.
+No entendimento da Corte Especial do Superior Tribunal de Justiça e na esteira da Súmula 182/STJ, o agravante deve impugnar todos os fundamentos da decisão agravada, pois "a decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão" (EAREsp 746.775/PR, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luis Felipe Salomão, Corte Especial, DJe 30.11.2018).
+Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Ante o exposto, não conheço do Agravo.
+Publique-se.Intimem-se.
