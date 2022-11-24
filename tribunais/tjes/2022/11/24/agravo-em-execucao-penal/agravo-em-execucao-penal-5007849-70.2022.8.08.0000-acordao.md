@@ -1,0 +1,132 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5007849-70.2022.8.08.0000
+AGRAVO DE EXECUÇÃO PENAL (413)
+AGRAVANTE: RONALDO BENTO DE JESUS
+AGRAVADO: MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO
+RELATOR(A
+):PEDRO VALLS FEU ROSA
+
+Composição de julgamento: 002 - Gabinete Des. PEDRO VALLS FEU ROSA - ROGERIO RODRIGUES DE ALMEIDA - Relator / 019 - Gabinete Des. FERNANDO ZARDINI ANTONIO - FERNANDO ZARDINI ANTONIO - Vogal / 023 - Gabinete Desª. RACHEL DURÃO CORREIA LIMA - RACHEL DURAO CORREIA LIMA - Vogal
+_______________________________________________________________________________________________________________________________________________________________________________
+
+RELATÓRIO
+
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+Gabinete do Desembargador Pedro Valls Feu Rosa
+
+PROCESSO Nº
+5007849-70.2022.8.08.0000
+
+AGRAVO DE EXECUÇÃO PENAL (413)
+
+AGRAVANTE: RONALDO BENTO DE JESUS
+
+AGRAVADO: MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO
+
+RELATÓRIO
+
+Trata-se de Agravo em Execução Penal interposto em favor de
+RONALDO BENTO DE JESUS
+, inconformado em face de decisão proferida pelo juízo da 2ª Vara Criminal de Viana nos autos da execução 0000203-27.2011.8.08.0050.
+
+A defesa pretende o afastamento da hediondez do crime de tráfico de drogas para fixação da porcentagem mínima para efeitos de aferição do requisito objetivo da progressão de regime.
+
+Contrarrazões do Ministério Público pelo improvimento do recurso.
+
+A MM. Juíza proferiu a decisão mantendo a decisão hostilizada.
+
+A douta Procuradoria de Justiça manifestou-se pelo improvimento do recurso.
+
+É o relatório. Em pauta para julgamento.
+
+2 de novembro de 2022
+
+PEDRO VALLS FEU ROSA
+
+Desembargador
+
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+
+Acompanho o culto Desembargador Relator.
+
+VOTO VENCEDOR
+
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+Gabinete do Desembargador Pedro Valls Feu Rosa
+
+PROCESSO Nº
+5007849-70.2022.8.08.0000
+
+AGRAVO DE EXECUÇÃO PENAL (413)
+
+AGRAVANTE: RONALDO BENTO DE JESUS
+
+AGRAVADO: MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO
+
+VOTO
+
+Presentes os pressupostos de admissibilidade, conheço do recurso.
+
+Trata-se de Agravo em Execução Penal interposto em favor de
+RONALDO BENTO DE JESUS
+, inconformado em face de decisão proferida pelo juízo da 2ª Vara Criminal de Viana nos autos da execução 0000203-27.2011.8.08.0050.
+
+A defesa pretende o afastamento da hediondez do crime de tráfico de drogas para fixação da porcentagem mínima para efeitos de aferição do requisito objetivo da progressão de regime.
+
+Com a devida vênia à argumentação defensiva, entendo que o pleito não merece prosperar.
+
+Extraio dos autos que o agravante ostenta duas condenações definitivas, sendo uma pela prática dos crimes previstos nos artigos 33 e 35, caput, da Lei 11.343/2006 e a outra pela prática dos crimes previstos no artigo 35 da Lei 11.343/2006 e 159, caput, do Código Penal.
+
+Diante disso, a defesa argumenta que com a edição da lei 13.964/2019 não se pode aplicar ao tráfico de drogas a fração reservada aos crimes hediondos.
+
+No entanto, não é esse o entendimento já pacificado pelo Superior Tribunal de Justiça, como podemos observar:
+
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. RETIFICAÇÃO DOS CÁLCULOS DE PENA. TRÁFICO DE DROGAS. ART. 33, CAPUT, DA LEI N. 11.343/2006. PACOTE ANTICRIME. ALTERAÇÕES QUE NÃO AFASTARAM A NATUREZA DE DELITO EQUIPARADO A HEDIONDO, QUE DECORRE DE PREVISÃO CONSTITUCIONAL. RECURSO NÃO PROVIDO.
+
+1. "
+A revogação do § 2º do art. 2º da Lei 8.072/90 pela Lei 13.964/2019 não tem o condão de retirar do tráfico de drogas sua caracterização como delito equiparado a hediondo, pois a classificação da narcotraficância como infração penal equiparada a hedionda decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal
+." (AgRg no HC 729.332/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/4/2022, DJe 25/4/2022).
+
+2.
+Com base no julgamento do REsp 1.918.338/MT (Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, julgado em 26/5/2021, DJe 31/5/2021), como recurso representativo da controvérsia, e no art. 112, § 5º, da LEP, na nova redação dada pelo Pacote Anticrime, é seguro dizer que se mantém a hediondez do crime de tráfico de drogas, ressalvando apenas, em consonância com o entendimento do STF (HC 118.533/MS, Rel. Min. Cármen Lúcia, Tribunal Pleno, DJe 16/9/2016), a hipótese do tráfico privilegiado.
+
+3. Portanto, não se verifica o alegado constrangimento ilegal, pois o paciente foi condenado como incurso no art. 33, caput, da Lei n. 11.343/2006, na modalidade comum, não na privilegiada, tratando-se de crime equiparado a hediondo o tráfico de drogas comum.
+
+4. Agravo regimental desprovido.
+
+(AgRg nos EDcl no HC n. 733.383/SP, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 2/8/2022, DJe de 10/8/2022.)
+
+Dessa forma, não há retoque necessário na decisão da magistrada, eis que em total consonância com a melhor interpretação da norma vigente.
+
+Por esses fundamentos,
+NEGO PROVIMENTO
+ao presente recurso.
+
+É como voto.
+
+Vitória-ES, 16 de novembro de 2022.
+
+ROGERIO RODRIGUES DE ALMEIDA
+
+Desembargador Substituto
+
+VOTOS VOGAIS
+019 - Gabinete Des. FERNANDO ZARDINI ANTONIO - FERNANDO ZARDINI ANTONIO (Vogal)
+Acompanhar
+023 - Gabinete Desª. RACHEL DURÃO CORREIA LIMA - RACHEL DURAO CORREIA LIMA (Vogal)
+Proferir voto escrito para acompanhar
+
+EMENTA
+
+AGRAVO DE EXECUÇÃO PENAL. TRÁFICO. CARÁTER HEDIONDO. PROGRESSÃO. IMPROVIMENTO.
+1. Não há que se falar em afastamento do caráter hediondo do tráfico de drogas com a edição da lei 13.964/2019, eis que sua natureza advém da previsão do artigo 5º, XLIII da Constituição Federal. 2. Recurso desprovido.
+
+DECISÃO
+À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
