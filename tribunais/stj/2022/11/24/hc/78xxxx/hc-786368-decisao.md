@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpussubstitutivo de recurso especial, com pedido liminar, impetrado em favor de JURANDIR MACHADO DA SILVA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, no julgamento da Apelação Criminal n. 0001599-13.2009.8.26.0372.
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de51 anos e 4 meses de reclusão, em regime inicial fechado, além de 34dias-multa,pela prática dodelitotipificadonoart. 157, § 3º, "in fine", do Código Penal, por duas vezes, n/f do art. 70, "in fine", do CP(e-STJ, fls. 25/33).
+Irresignada, a defesa apelou e o Tribunal estadual deu parcial provimento ao recurso, apenas para reduzir a pena pecuniária a 24 dias-multa(e-STJ, fls. 37/48), em acórdão assim ementado:
+LATROCÍNIO - Absolvição - inadmissibilidade - Materialidade e autoria comprovadas.
+LATROCÍNIO - CONCURSO FORMAL IMPRÓPRIO - Reconhecimento - Na primeira fase da dosimetria, para cada evento morte, a pena-base foi majorada de 1/10 (um décimo), alcançando 22 anos de reclusão e pagamento de 11 dias-multa, em virtude do comprovado mau antecedente (fls. 244). Na segunda fase da dosimetria, ante a comprovada reincidência (fls. 248), a pena foi majorada de 1/6 (um sexto), atingindo 25 anos e 08 meses de reclusão e pagamento de 12 dias-multa. Ante o reconhecimento do concurso formal impróprio e tratando-se de duas vítimas, a pena restará definitiva em 51 (cinquenta e um) anos e 04 (quatro) meses de reclusão, e pagamento de 24 (vinte e quatro) dias-multa, no mínimo legal. O regime inicial fechado é o único compatível no caso concreto, máxime ante o quantum fixado.
+No presente writ(e-STJ, fls. 3/7), aimpetrante sustenta que o paciente sofre constrangimento ilegal na segunda fase da dosimetria de sua pena, porque foi reconhecida sua reincidência com base em condenação anterior pelo delito tipificado no art. 28, da Lei n. 11.343/2006, o que reputa ilegal, nos termos da jurisprudência dos Tribunais Superiores.
+Diante disso, requer,liminarmente e no mérito, a concessão da ordempara que seja afastada a reincidência do paciente, com a redução respectiva de 1/6, na segunda fase do cálculo dosimétrico.
+Por estarem os autos suficientemente instruídos, dispenso o envio de informações.
+É o relatório. Decido.
+Em que pesem os judiciosos argumentos expendidos pelo impetrante, da análise dos autos, não verifico patente constrangimento ilegal a ensejar sequer o processamento deste writ.
+Isso porque a insurgência posta neste mandamus não foi submetida à apreciação e tampouco analisada pelas instâncias de origem, tratando-se, portanto,de matéria nova, somente aventada nesta impetração, o que impede seu conhecimento diretamente por esta Corte Superior, sob pena de indevida supressão de instância.
+Nesse sentido:
+PROCESSUAL PENAL. "HABEAS CORPUS". INDEFERIMENTO DE LIMINAR NA ORIGEM. NÃO CABIMENTO. SUPERAÇÃO DO ENUNCIADO N. 691 DA SÚMULA DO STF. IMPOSSIBILIDADE. ILEGALIDADE OU TERATOLOGIA. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+Não se admite, em princípio, a impetração de "habeas corpus" contra decisão que denega pedido liminar em sede de "writ" impetrado na origem, sob pena de se configurar indevida supressão de instância. (Enunciado n. 691, da Súmula do STF), ressalvadas as decisões teratológicas ou com deficiência de fundamentação, o que não ocorre na hipótese.
+Agravo regimental desprovido(AgRg no HC n. 306.319/CE, Relator Ministro FELIX FISCHER, Quinta Turma, julgado em 9/6/2015, DJe 19/6/2015).
+PROCESSUAL PENAL. AGRAVO REGIMENTAL EM "HABEAS CORPUS". INDEFERIMENTO LIMINAR DE "HABEAS CORPUS". APLICAÇÃO DA SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO, NO TRIBUNAL DE ORIGEM. PERDA DE OBJETO DO PRÓPRIO WRIT.AGRAVO REGIMENTAL PREJUDICADO.
+1. Tratando-se de impetração contra decisão monocrática, proferida por Desembargador Relator do Tribunal Estadual, que indeferiu pedido de liminar, em que não se observa teratologia ou falta de fundamentação, não há que ser mitigada a aplicação da Súmula n. 691 do STF.
+2. Nos termos da jurisprudência do Supremo Tribunal Federal e desta Corte, a superveniência de acórdão, apreciando o mérito do "writ" originário, impetrado em 2º Grau, torna prejudicada a análise do "habeas corpus", impetrado neste Superior Tribunal de Justiça.
+3. Prejudicado o agravo regimental, em face da perda superveniente de objeto deste "writ", pelo julgamento do "habeas corpus" na origem.
+4. Agravo Regimental prejudicado(AgRg no HC n. 288.056/SP, Relator Ministro NEFI CORDEIRO, Sexta Turma, julgado em 12/5/2015, DJe 26/5/2015).
+Ante o exposto, com fulcro no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
