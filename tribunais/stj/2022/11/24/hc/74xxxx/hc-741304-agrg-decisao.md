@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo regimental interposto por FABIO PISONI contra decisão unipessoal proferidapelo Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), que não conheceu do habeas corpus (e-STJ fls. 859-867).
+Nesta via, sustenta a existência de equívoco na decisão recorrida, uma vez que a inicial do writ nada questionou sobre o acerto ou o desacerto da decisão que decretou a prisão preventiva em seu desfavor, bem como não questionou a ausência dos requisitos paraa custódia.
+Afirma que a impetração visa tão somente o reconhecimento da ilegalidade da medida extrema em razão da inobservância da determinação contida no art. 282, § 3º, do Código de Processo Penal.
+Requer, ao final, ultrapassado o juízo de retratação, o provimento do presente agravo para que seja revogada a prisão preventiva decretada em seu desfavor.
+O Ministério Público Federal manifestou-se pelo desprovimento do reclamo (e-STJ fls. 915-919).
+É o relatório. Decido.
+Inicialmente, tendo em vista que a decisão agravada foi publicada em 15/6/2022 (e-STJ fl. 868), cumpre atestar a tempestividade da presente insurgência, interposta no dia 21/6/2022 (e-STJ fl. 897), dentro, pois, do prazo previsto no art. 258, caput, do Regimento Interno do Superior Tribunal de Justiça.
+Da análise dos autos, verifica-se que assiste razão ao agravante quanto à ocorrência de equívoco na decisão combatida, impondo-se, nos termos do art. 258, § 3º, do Regimento Interno do Superior Tribunal de Justiça, a sua reconsideração e, consequentemente, a nova apreciação do pedido feito no habeas corpus.
+Cuida-se de habeas corpuscom pedido liminarimpetrado em favor de FABIO PISONIem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, que denegou a ordem visada no Writ n. 0001216-51.2022.8.27.2700 para mantera prisão preventiva decretada em desfavor do paciente nos autos da ação penal em que foi condenado às penas de 26 anos e 8 meses de reclusão, em regime inicial fechado, pela prática dos delitos tipificados nos art. 121,§ 2º, incisos II, III e IV, e 121,§ 2º, incisos II, II e IV, c/c o art. 14, II, todos do Código Penal.
+Sustentam os impetrantes, em síntese, a ilegalidade da prisão preventiva decretada em desfavor do apenado, uma vez que teria sido transgredida a garantia lhe assegurada noart. 283, § 3º, do Código de Processo Penal de exercer o contraditório prévio em relação a requerimentos de medida cautelar pessoal.
+Pretendem, ao final, a revogação da prisão cautelar decretada em desfavor do paciente.
+Pois bem.
+Ab initio, impende frisar que o Supremo Tribunal Federal, no bojo do HC n. 109.956/PR, colimando dar efetividade às normas previstas no art. 102, II, a , da Constituição Federal e nos arts. 30 a 32 da Lei n. 8.038/1990, passou a não mais admitir o manejo do habeas corpus originário perante aquela Corte, em substituição ao recurso cabível, entendimento chancelado pelo Superior Tribunal de Justiça a fim de que seja restabelecida a organicidade da prestação jurisdicional que envolve a tutela do direito de locomoção.
+Assim, a presente impetração, ao insurgir-se contra acórdão exarado pelo Tribunal local, denegatório da ordem pleiteada em anterior writ, afigura-se incabível, pois manejada perante este Sodalício de forma originária, sem qualquer subsunção às hipóteses autorizadoras elencadas no art. 105, I, c, da Carta Magna. Logo, não comporta conhecimento.
+Entretanto, o constrangimento ilegal apontado na exordial será analisado, apenas ad cautelam, a fim de verificar a existência de eventual flagrante ilegalidade a justificar a atuação desta Corte Superior de Justiça ex officio.
+E, no caso, embora as razões da impetração, sublinhadas no pedido de reconsideração/agravo regimental,mereçam, de fato, atenção, verifica-se que, no que diz respeito àaventada violação ao art. 282,§ 3º, do Código de Processo Penal, amatérianão foiapreciadano acórdão impugnado, não podendoo Superior Tribunal de Justiçadela conhecer, sob pena de indevida supressão de instância.
+Confira-se precedente sobre a questão:
+AGRAVOREGIMENTAL NOHABEAS CORPUS.EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19. GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVOIMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4.Agravoregimental improvido.
+(AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Ante o exposto,reconsideroa decisão de e-STJ fls. 859-867, para, no entanto, não conhecer do habeas corpus,nos termos do art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
