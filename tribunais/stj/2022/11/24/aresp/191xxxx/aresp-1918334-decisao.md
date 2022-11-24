@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por CARLOS KLEBER LOPES BARBOSAcontra decisão do Tribunal de Justiça do Estado do Rio Grande do Norte que inadmitiu recurso especial fundamentado no art. 105, inciso III, alíneaa, da Constituição da República na Correição Parcial n.2017.009374-6.
+Consta dos autos que o Juízo de primeiro grau delimitou os oficiais que estariam aptos a participar do sorteio para definição do Conselho Especial de Justiça no Processo n.0107335-24.2015.8.20.0001.
+Irresignada, a Defesa apresentou correição parcial, à qual a Corte de origem negou provimento (fls. 143-148).
+Os embargos de declaração opostos foram rejeitados (fls. 176-183).
+Sustenta a Defesa, nas razões do apelo nobre, contrariedade aos arts. 5.º, inciso LV, e 93, inciso IX, da Carta Magna; aos arts. 129, 133,§ 1.º, 339 e 436do Código de Processo Penal Militar; aos art. 381, inciso III, do Código de Processo Penal; aos arts. 9.º, parágrafo único, incisos II e III, e 10 do Código de Processo Civil; bem como ao art. 23 da Lei n. 8.457/92, o qual entende aplicável à hipótese dos autos por força do art. 76 da Constituição do Estado do Rio Grande do Norte e dos arts. 48 e 51 da Lei de Organização Judiciária daquela Unidade Federativa.
+Aduz que " .. houve indevida mistura por parte do juízo a quo entre o Código Penal e o Código Penal Militar, tendo este se utilizado da sistemática possível a ser utilizada para Tribunal do Júri. Se havia pretensão de se recusar o juiz, necessário seria o MP aguardar este ser sorteado, posto que tal estivesse no campo das possibilidades, para que, a partir dai, se seguisse ao previsto dos Art. 129 a 133 do CPPM" (fl. 203).
+Alega que " .. jamais poderia o Juiz de Direito Auditor decidir de forma monocrática, porque se presentes os requisitos de exceção de suspeição esta terá que, imediatamente, ser remetida para o Tribunal de Justiça" (idem).
+Argumenta que " ..  a competência do Juiz Auditor para prolação de decisões monocráticas encerra-se quando da aceitação ou não da denúncia, de modo que após tal decisão caberá tão somente ao Conselho Especial de Justiça decidir as questões postas à análise, o que, erradamente, não foi o caso" (fl. 204).
+Foram apresentadas contrarrazões (fls. 226-230). O recurso especial não foi admitido (fls. 233-234). Foi interposto agravo (fls. 235-248).
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do agravo (fls. 267-271).
+É o relatório.
+Decido.
+Quanto à apontada contrariedade aosarts. 5.º, incisoLV, e 93, inciso IX, ambosda Constituição da República, registro que não incumbe ao Superior Tribunal de Justiça, nem mesmo para fins de prequestionamento, examinar supostas ofensas a dispositivos constitucionais, sob pena de usurpação da competência atribuída pelo texto constitucional ao Supremo Tribunal Federal.A propósito: "Ao Superior Tribunal de Justiça é vedada a análise de violação a dispositivos constitucionais, uma vez que essa competência é exclusiva do Supremo Tribunal Federal, pela via do recurso extraordinário, conforme dispõe o art. 102, III, da Constituição Federal"(AgRg no REsp 1.750.345/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/11/2018, DJe 26/11/2018).
+Por outro lado, esclareço quenão foram analisadas pelo Tribunala quoas alegações de afronta aos arts. 381, inciso III, do CPP, e aos arts. 9.º, parágrafo único, incisos II e III, e 10 do CPC, nem tais argumentos foram objeto dos embargos de declaração opostos na origem.
+Desse modo, carecem os temas do indispensável prequestionamento viabilizador do recurso especial, razão pela qual deixo de apreciá-los, a teor dos Enunciados n. 282 e 356 do Supremo Tribunal Federal,respectivamente transcritos:
+"É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+"O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Nesse sentido:
+" ..
+2. Os temas previstos nos artigos 44 do Código Penal e 155 do Código de Processo Penal não foram objeto de apreciação pela Corte de origem, tampouco foram opostos embargos de declaração para fins de prequestionamento dos pontos. Incidência dos enunciados n. 282 e n. 356, ambos da Súmula do STF.
+ ..
+7. Agravo regimental parcialmente conhecido, e nessa extensão, não provido."(AgInt no REsp 1.722.340/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/08/2018, DJe 30/08/2018.)
+" ..
+1. A tese relativa à ausência de intimação para o julgamento dos aclaratórios defensivos não foi examinada pelas instâncias de origem, não tendo sido opostos novos embargos de declaração para suscitar a apontada omissão, de modo que a aplicação das Súmulas 282 e 356/STF se torna inconteste.
+ ..
+2. Agravo regimental improvido."(AgRg no AREsp 696.540/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 14/08/2018, DJe 24/08/2018.)
+Outrossim, por força do comando normativo contido na Súmula n. 280do Supremo Tribunal Federal, é inviável, em sede de recurso especial, a tese de que,por força do art. 76 da Constituição do Estado do Rio Grande do Norte e dos arts. 48 e 51 da Lei de Organização Judiciária daquela Unidade Federativa, seria aplicável àespécie o art. 23 da Lei n.8.457/92.
+Nesse sentido:
+" ..
+1. A nulidade do processo, reconhecida pela instância ordinária por descumprimento à Lei Complementar Estadual n. 199/2002 do Estado de Mato Grosso, não pode ser analisada na via especial por se tratar de discussão sobre aplicação do direito local. Inteligência da Súmula n. 280 do STF. Precedentes.
+ ..
+4. Agravo regimental desprovido." (AgRg no REsp 1822671/MT, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 10/03/2020, DJe 07/04/2020)
+" ..
+3. Quando a análise de ofensa à lei federal implica a necessidade de exame de lei local, apresenta-se inviabilizado o recurso especial. Incidência do enunciado nº 280 da Súmula do STF.
+ ..
+5. Agravo regimental a que se nega provimento." (AgRg no AREsp 1.238.180/SE, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/04/2018, DJe 16/04/2018)
+No mais, o acórdão recorrido, na parte que interessa, está calcado nas seguintes razões de decidir (fls. 145-148; sem grifos no original):
+"Conforme relatado, insurge-se o recorrente contra decisãoproferida pelo juiz a quo que, nos autos da ação penal nº 0107335-24.2015.8.20.0001,definiu a lista dos Oficiais aptos ao sorteio para composição do Conselho Especial deJustiça que julgaria o referido processo, com base nas listagens juntadas em outro processono qual o recorrente também figura como réu, qual seja, o de nº 0136350-72.2014.8.20.0001.
+Todavia, da análise dos autos, constata-sea inexistência deerro de procedimento a ser sanado.
+Destaca-se que a questão principal desta Correição Parcialrepousa na escolha da composição do Conselho Especial de Justiça, com o intuito deprocessar e julgar a presente ação penal.
+Assim, observa-se que o recorrente foi denunciado pelocometimento dos crimes previstos nos arts. 308, 312 e 320, todos do Código Penal Militar,por ter supostamente "elaborado projetos de prevenção e combate a incêndio para oLaina"s Place Hotel, com a aposição de assinatura de outro engenheiro, comoresponsável técnico pelas elaborações, recebendo vantagem financeira pela prestação detais serviços; posteriormente, esses mesmos projetos foram apresentados ao ServiçoTécnico de Engenharia do Corpo de Bombeiros Militar deste Estado." Soma-se que, emrazão dos mesmos delitos o recorrente foi denunciado em outras ações penais, como a denº 0136350-72.2014.8.20.0001, na qual foi proferida sentença absolutória.
+Desse modo, no mesmo procedimento de nº 0136350-72.2014.8.20.0001 foram ofertadas impugnações de suspeição contra alguns Oficiaissugeridos para compor o Conselho Especial de Justiça que julgaria o réu, as quais foramdeferidas. Assim, valendo-se dos princípios da economia e celeridade processuais, o Juízoa quo, na ação nº 0107335-24.2015.8.20.0001, realizou avaliação das listagens enviadasdos Oficiais, excluindo, desde já os nomes que poderiam ser impugnados na sequência,como foram no processo de nº 0136350-72.2014.8.20.0001.
+Ressalta-se que as exceções de suspeição e impedimentovalem-se para manter imaculada a imparcialidade do juiz, requisito de validadeprocessual, estando inserido no devido processo legal, previsto pela Constituição Federal.Logo, tratando-se de processos com o mesmo réu, é válido, em nome dos princípios daeconomia e da celeridade processual, evitar a inclusão dos mesmos Oficiais que foramdeclarados suspeitos no processo nº 0136350-72.2014.8.20.0001 para compor o ConselhoEspecial de Justiça no processo nº 0107335-24.2015.8.20.0001.
+Ademais, destaca-se que os Oficiais excluídos na decisãoimpugnada no processo de nº 0107335-24.2015.8.20.0001, o foram sob as seguintesrazões (fls. 74/75 verso):
+ ..
+Registre-se, ainda, com relação à insurgência acerca do nomedo Cel. PM Durval Araújo Lima (fl. 18), que referido Oficial não figurou na lista remetidapela Polícia Militar para o sorteio, por conseguinte, não há que se falar em sua exclusão.
+Ante todo o exposto, em consonância com parecer da 42ª Promotora de Justiça da Comarca de Natal/RN, em substituição na Primeira Procuradoriade Justiça, conheço e nego provimento ao recurso, mantendo integralmente a decisãovergastada."
+A partir da leitura dos trechos do aresto atacado antes transcrito, verifico que, nas razões do apelo nobre, não foi infirmadoofundamentoadotadopela Corte de origem de que o procedimento adotado pelo magistrado de piso é válido e estájustificado, porquanto tem alicercenos princípios da celeridade e economia processuais.
+Desse modo, quanto aocitadotema, não comporta conhecimento a presente súplica, ante o disposto no Enunciado n.283 da Súmula do Supremo Tribunal Federal,in verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todoseles".
+Nesse entendimento: "A ausência de impugnação específica a um ou mais fundamentos do acórdão impugnado, suficientes por si sós para manter o julgado, atrai a incidência da Súmula 283 do STF, por analogia."(AgInt no AREsp 1.208.397/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 03/05/2018, DJe 15/05/2018).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL MILITAR. CORREIÇÃO PARCIAL. ALEGAÇÃO DE AFRONTA A DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE DE ANÁLISE NA VIA DO APELO NOBRE. PRETENSA CONTRARIEDADE AOS ARTS. 381, INCISO III, DO CPP, E AOS ARTS. 9.º, PARÁGRAFO ÚNICO, INCISO I, II E III, E 10 DO CPC.AUSÊNCIA DE PREQUESTIONAMENTO.SÚMULAS N. 282/STF E 356/STF. PLEITO PELA APLICAÇÃO DO ART. 23 DA LEI N. 8.457/92. SÚMULA N. 280/STF. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS NAS RAZÕES DO APELO NOBRE. SÚMULA N. 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
