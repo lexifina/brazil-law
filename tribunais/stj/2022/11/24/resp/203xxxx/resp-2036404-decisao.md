@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo ESTADO DE MINAS GERAIScom respaldo naalínea"a"do permissivo constitucionalcontra acórdão do Tribunal de Justiça daquela unidade federadaassim ementado (e-STJ fl. 446):
+APELAÇÃO - ANULATÓRIA DE DÉBITO FISCAL - ADESÃO A PROGRAMA DE PARCELAMENTO DE CRÉDITO TRIBUTÁRIO - QUITAÇÃO ADMINISTRATIVA DOS HONORÁRIOS - FIXAÇÃO DE HONORÁRIOS NOPROCESSOJUDICIAL - IMPOSSIBILIDADE - "BIS IN IDEM" - CONFIGURAÇÃO.
+O STJ, em sede de julgamento de recurso repetitivo, assentou o entendimento de haver "bis in idem" na condenação, em honorários advocatícios, do contribuinte, que formula pedido de desistência dos embargos à execução fiscal, para fins de adesão a programa de parcelamento fiscal, quando a referida verba é englobada no acordo administrativo.
+Embargos de declaração rejeitados (e-STJ fls. 466/474).
+Em suas razões de recurso especial, a parte recorrente aponta violação dos arts. 90e 1.022, II, do CPC/2015.
+Argumenta, preliminarmente, que o acórdão recorrido padeceria de omissão, "na medida em que ignorou a aplicabilidade ao caso do artigo 90 do CPC, limitando-se a dirimir a controvérsia a partir de previsões da legislação estadual a respeito da incidência ou não de honorários na espécie, como se a situação não houvesse de ser resolvida a partir da competente legislação federal a respeito." (e-STJ fl. 480). Afirma, ainda, que o acórdão recorrido também seria omisso em relação à inaplicabilidade, no caso, da orientação emanada do STJ no Tema 400, supostamente reservada à hipótese de adesão a programa de parcelamento tributário na esfera da União.
+No mérito, sustentaque "aextinção do processo referente aos embargos à execução, no caso, decorreu da renúncia da demandante ao direito sobre que se fundava a ação. Em razão disso, deve a recorrida suportar o ônus referente à sucumbência, no montante/percentual fixado judicialmente. Vale frisar uma vez mais: tal ônus não decorre do Decreto regulamentador da Lei Estadual que institui o PRCT. É decorrência do regime estabelecido pelo sistema processual pátrio." (e-STJ fl. 484).
+Sem contrarrazões.
+Recurso especial admitido (e-STJ fls. 497/499).
+Passo a decidir.
+Na origem, cuida-se de ação anulatória de débito fiscal.
+A ação foi extinta, sem apreciação meritória, em razão da adesão do contribuinte a programa de parcelamento tributário. Não foram estipulados honorários de sucumbência.
+Apelação desprovida.
+A irresignação não merece prosperar.
+Não há cogitar omissão.
+Ao afastaro cabimento da condenação judicial em honorários advocatícios, assim se manifestou, clara e suficientemente, o Tribunal de origem (e-STJ fls. 448/449):
+(..) o STJ, em sede de julgamento de recurso repetitivo, assentou o entendimento de haver "bis in idem" na condenação, em honorários advocatícios, do contribuinte, que formula pedido de desistência dos embargos à execução fiscal, para fins de adesão a programa de parcelamento fiscal, quando a referida verba é englobada no acordo administrativo (REsp 1.143.320/RS, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 12/05/2010, DJe 21/05/2010).
+(..)
+Assim, há que se comprovar no caso concreto, se, em sede administrativa houve o pagamento das verbas honorárias.
+No caso em tela, conforme se verifica dos DAE"s colacionados, houve o pagamento dos honorários advocatícios administrativamente (ff. 365/366-documento único).
+Deste modo, considerando-se que os créditos tributários parcelados por meio daquele programa englobaram valores correspondentes a honorários advocatícios, razão não assiste à parte apelante.
+Esse entendimento, cujo substrato factual não mais pode ser objeto de revisão, nesta quadra recursal, dada a vedação contida na Súmula 7/STJ,está em consonância com a jurisprudência destaCorte Superior de Justiça,no sentido de que, havendo previsãona lei estadual instituidora do parcelamentotributárioda necessidade depagamento de honorários advocatícios no âmbito administrativo, descabe a condenação na referida verba também na via judicial, sob pena de bis in idem.
+Nesse diapasão:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. RENÚNCIA AO DIREITO. MANIFESTAÇÃO NA SEGUNDA INSTÂNCIA. RECEBIMENTO COMO DESISTÊNCIA DO RECURSO. DESCABIMENTO. ACÓRDÃO. ANULAÇÃO.
+1. A renúncia do direito é ato unilateral que pode ser manifestado em qualquer grau de jurisdição até o trânsito em julgado, configurando causa autônoma de extinção do processo com resolução de mérito, que, consequentemente, enseja novo juízo acerca dos ônus sucumbenciais, podendo o juízo que a homologa, conforme o caso, manter ou alterar eventual decisão anterior que tenha tratado doshonoráriosadvocatícios.
+2. Em renúncia motivada poradesãoa programa de recuperação fiscal instituído no âmbitoestadual,o juízo quanto ao cabimento ou não da verba honorária decorrente da extinção de ação conexa à execução fiscal dependerá do disposto na lei local de regência do benefício.
+Precedentes.
+3. Hipótese em que a Corte a quo indevidamente recebeu a petição de manifestação de renúncia como desistência da apelação, para não conhecer do recurso, motivo pelo qual o acórdão recorrido deve ser anulado, com a determinação de retorno dos autos ao Tribunal de origem, para que analise o pedido de homologação da renúncia do direito e, consequentemente, à luz da lei local que instituiu o programa deparcelamento,decida sobre o cabimento e, se for o caso, o valor doshonoráriosdevidos em decorrência da extinção dos embargos à execução fiscal.
+4. Agravo interno não provido.
+(AgInt no REsp 1.785.055/SC, de minha relatoria, PRIMEIRA TURMA, julgado em 16/11/2020, DJe de 30/11/2020).
+RECURSO FUNDADO NO NOVO CPC/2015. TRIBUTÁRIO. PROCESSUAL CIVIL.ADESÃOAPARCELAMENTOPREVISTO EM PROGRAMA DE REGULARIZAÇÃO DE CRÉDITOS INSTITUÍDO POR LEGISLAÇÃOESTADUAL.PEDIDO DE DESISTÊNCIA DO RECURSO ESPECIAL. RENÚNCIA AO DIREITO EM QUE SE FUNDA A AÇÃO. HOMOLOGAÇÃO PELO STJ.HONORÁRIOS.CABIMENTO. SÚMULA 280/STF. RETORNO DOS AUTOS. NECESSIDADE.
+1. Nos casos em que a renúncia ao direito sobre o qual se funda a ação é suscitada em sede de recurso especial, manifestada por força deadesãoda parte renunciante a programa deparcelamentoinstituído por legislação local, torna-se inviável a análise do pedido de condenação da parte renunciante emhonoráriosadvocatícios, ante a necessidade de reexame de legislação local (Lei nº 22.549/2017), providência esta vedada na instância especial, ante o óbice da Súmula 280/STF.
+2. Tal pedido, todavia, deverá ser apreciado pelo juízo de origem, o qual possui competência para decidir, à luz da apreciação da legislaçãoestaduale do acervo probatório dos autos, quanto ao arbitramento do valor da verba honorária devida, constatando se já ocorreu o pagamento administrativo doshonorários,tudo a fim de se evitar bis in idem, mormente quando constatado que referida lei local possui disposição específica quanto a pagamento dehonoráriospela parte que aderir ao programa de regularização de créditos. Precedentes: AgRg no AREsp 546.389/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 24/02/2015, DJe 04/03/2015; (EDcl no AgRg no AgRg no Ag 1213243/RS, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 13/08/2013, DJe 20/08/2013; EDcl na DESIS no REsp 1052422/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/05/2011, DJe 16/05/2011; e STF, AI 781070 ED-ED-AgR, Relator Min. JOAQUIM BARBOSA (Presidente), Tribunal Pleno, julgado em 27/02/2014, DJe-058).
+3. Agravo interno a que se nega provimento.
+(REsp n. AgInt no REsp 1.785.055/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 20/02/2018, DJe de 06/03/2018).
+Ante o exposto, com base no art. 255, § 4º, II, do RISTJ, NEGOPROVIMENTO ao recurso especial.
+Sem honorários recursais, pois ausente condenação na verba de sucumbência, em favor do advogado da parte ora recorrida, nas instâncias ordinárias.
+Publique-se. Intimem-se.
