@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF) contra acórdãocuja ementa é a seguinte:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL.SUBSTITUIÇÃO DA PENHORA. EMPRESA EM RECUPERAÇÃO JUDICIAL. ACEITAÇÃO ANTERIOR DA NOMEAÇÃO DOS BENS PELA EXEQUENTE. RECUSA INJUSTIFICADA. BOA FÉ.
+1. O devedor não tem direito a que seja penhorado determinado bem, se ele apresenta baixa liquidez e não observa a ordem legal de penhora do art. 11 da Lei nº 6.830, de 1980, caso em que é legítima a recusa pela exequente.
+2. Apesar da execução ser processada no interesse do exeqüente, prepondera o entendimento jurisprudencial de que a recusa aos bens ofertados pela executada deve ser suficientemente justificada, levando em conta, sobretudo, a qualidade dos bens, seu valor de avaliação e o potencial de alienação judicial.
+3. Hipótese em que a executada se insurge contra o indeferimento do pedido de substituição da garantia judicial (créditos judiciais) por imóveis ofertados à penhora, os quais haviam sido indicados pela exequente e deferidos pelo Juízo, antes da constrição dos créditos judiciais.
+4. Considerando a intenção da executada de garantir o juízo da execução, apesar da recuperação judicial a que está submetida, o que configura boa fé no sentido de assegurar o cumprimento da obrigação fiscal, e de que os bens indicados já foram objeto de aceitação pela exequente, deve ser deferido o pedido de substituição da penhora, que deverá incidir sobre imóveis ofertados pela executada, com posterior suspensão do processo na forma do tema 987 do STJ.
+Os Embargos de Declaração foram rejeitados (fl. , e-STJ).
+A parte recorrente alega que os arts. 489, § 1º, IV, 1.022 do CPC/2015 e 847, caput, § 1º, V, do CPC/2015 foram violados. Afirma que há negativa de prestação jurisdicional e que houve a substituição da penhora em notório prejuízo ao credor.
+É o relatório.
+Decido.
+Preliminarmente, constata-se que não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia.
+O aresto vergastado, a partir dos elementos probatórios carreados aos autos, decidiu ser desnecessário enfrentar a alegação de preclusão relativa à recuperação judicial, por o caso versar sobre substituição de garantia, e não sobre o prosseguimento ou não de execução fiscal diante de recuperação judicial. Ademais, entendeu não haver prejuízo na substituição sob o argumento de que os bens teriam sido aceitos anteriormente pelo exequente e por ele indicados, mesmo considerando a arrematação de um dos imóveis. Por fim, anotou existir boa-fé do executado.
+No julgamento dos Embargos de Declaração, a Corte de origem anotou:
+As questões em discussão no presente agravo foram abordadas no julgado impugnado, verbis:
+(..)
+No caso dos autos, a executada não se insurge contra a penhora de bens, mas sim contra o indeferimento do pedido de substituição da garantia judicial, nomeando imóveis à penhora, os quais, inclusive, haviam sido indicados pela União e deferidos pelo Juízo, antes do requerimento de constrição dos créditos judiciais.
+Diante disso, considerando a intenção da executada de garantir o juízo da execução, apesar da recuperação judicial a que está submetida, o que configura boa fé no sentido de assegurar o cumprimento da obrigação fiscal, e de que os bens indicados já foram objeto de aceitação pela exequente, tenho que procedem os pedidos de liberação dos créditos judiciais e de penhora dos imóveis nomeados.
+No caso dos autos, a executada não se insurge contra a penhora de bens, mas sim contra o indeferimento do pedido de substituição da garantia judicial, nomeando imóveis à penhora, os quais, inclusive, haviam sido indicados pela União e deferidos pelo Juízo, antes do requerimento de constrição dos créditos judiciais.
+Diante disso, considerando a intenção da executada de garantir o juízo da execução, apesar da recuperação judicial a que está submetida, o que configura boa fé no sentido de assegurar o cumprimento da obrigação fiscal, e de que os bens indicados já foram objeto de aceitação pela exequente, tenho que procedem os pedidos de liberação dos créditos judiciais e de penhora dos imóveis nomeados.
+(..)
+Apesar das ponderáveis considerações trazidas no agravo interno, mantenho o entendimento inicial. Cabe reiterar que os bens ofertados em garantia já haviam sido objeto de aceitação pela exequente, tendo sido inclusive indicados por ela, razão pela qual não serve a alegação de que não se prestam a garantir a dívida executada. ainda que se considere que um deles já foi arrematado.
+Reitero também que a liberação do crédito penhorado poderá servir ao cumprimento do plano de recuperação judicial, contribuindo, portanto, para a manutenção das atividades empresariais da pessoa jurídica executada.
+É inviável analisar a tese defendida no Recurso Especial de que a substituição da penhora, no caso dos autos, traz flagrante prejuízo ao credor. Não há como rever oconjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido em sentido contrário. Aplica-se, portanto, o óbice da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PENHORA. SUBSTITUIÇÃO DA GARANTIA. AUSÊNCIA DE ANUÊNCIA DO EXEQUENTE. IMPOSSIBILIDADE. QUESTÃO ATRELADA AO REEXAME DA MATÉRIA FÁTICA. INCIDÊNCIA DO ÓBICE DA SÚMULA 7/STJ.
+1. O acórdão recorrido está em consonância com a jurisprudência desta Corte Superior, no sentido de que, nos termos do art. 15, inciso I, da Lei 6.830/80, é autorizada ao executado, em qualquer fase do processo e independentemente da aquiescência da Fazenda Pública, tão somente a substituição dos bens penhorados por depósito em dinheiro ou fiança bancária (EREsp 996.537/SP, 1ª Seção, Rel. Min. Denise Arruda, DJe de 4.5.2009). Ressalte-se que, com a vigência da Lei 13.043/2014, tornou-se possível ao executado a substituição da penhora também por seguro garantia.
+2. A Primeira Seção do STJ firmou o entendimento de que a não observância da ordem legal de preferência na nomeação de bens à penhora, na forma do art. 11 da Lei 6.830/1980, demanda a comprovação, pelo executado, da existência de elementos concretos que justifiquem a incidência do princípio da menor onerosidade, sendo insuficiente a mera invocação genérica do art. 620 do CPC/1973 (REsp 1.337.790/PR, relator: Min. Herman Benjamin, DJe de 7.10.2013, julgado sob a sistemática do art. 543-C do CPC/1973).
+3. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.032.375/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/6/2022, DJe de 22/6/2022.)
+Ante o exposto,conheço parcialmente do Recurso Especial, apenas quanto à alegada afronta aos arts. 489 e 1.022 do CPC/2015, e, nessa parte, nego-lhe provimento.
+Publique-se.
+Intimem-se.
