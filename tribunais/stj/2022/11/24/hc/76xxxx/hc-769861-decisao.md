@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de SILVIO JEFFERSON DOS SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA(Apelação Criminal n. 2014.039108-3).
+Os autos dão conta de que o ora paciente foi condenado, por infração ao art. 33,caput, da Lei n. 11.343/2006, à pena de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, a ser inicialmente cumprida em regime fechado, sendo-lhe negado o direito de recorrer em liberdade (e-STJ fls. 28/44).
+Irresignada, a defesa do paciente interpôs recurso de apelação no Tribunal de origem, que lhe negou provimento nos termos do acórdão assim ementado (e-STJ fl. 8):
+APELAÇÃO CRIMINAL. TRÁFICO DE DROGAS (ART.33, CAPUT, DA LEI Nº 11.343/2006). SENTENÇA CONDENATÓRIA. RECURSO DE AMBOS OS RÉUS QUE BUSCA ABSOLVIÇÃO POR NÃO ESTAR COMPROVADA A VENDA DA DROGA. TIPO PENAL MISTO ALTERNATIVO QUE NÃO EXIGE A MERCANCIA PARA SUA CONSUMAÇÃO QUE OCORRE COM A PRÁTICA DE QUALQUER UM DOS SEUS DEZOITO NÚCLEOS VERBAIS. AUTORIA E MATERIALIDADE COMPROVADOS.CONFISSÃO DO RÉU EM FASE POLICIAL.DEPOIMENTOS CLAROS E HARMÔNICOS DOS POLICIAIS E COM A APREENSÃO DA DROGA EM SEUS PODERES. ABSOLVIÇÃO IMPOSSÍVEL. RECURSO DA RÉ IVANIR. DOSIMETRIA DA PENA: PEDIDO DE APLICAÇÃO NO MÍNIMO LEGAL. IMPOSSIBILIDADE. AFASTADA A CIRCUNSTÂNCIA JUDICIAL DA CONSEQUÊNCIA DO CRIME, POIS INERENTE AO TIPO, PORÉM MANTIDA A CIRCUNSTÂNCIA DA QUANTIDADE DA DROGA, COM BASE NO ART. 42, DA LEI 11.343/06. PERMANECE O AUMENTO DE 1/6 SOBRE A PENA-BASE. PRETENSÃO DE APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DE PENA NA FRAÇÃO MÁXIMA DE 2/3. ART. 33, § 4º, DA LEI DE DROGAS VIÁVEL. REQUISITOS PREENCHIDOS.READEQUAÇÃO DA PENA. RECURSO DO RÉU SILVIO.PLEITO DE RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA. POSSIBILIDADE ANTE A CONFISSÃO OCORRIDA EM FASE EXTRAJUDICIAL, EM QUE PESE NEGADA EM JUÍZO. PENA, ENTRETANTO, MANTIDA, CONSIDERANDO QUE É O RÉU MULTIREINCIDENTE.PREPONDERÂNCIA DA AGRAVANTE DA REINCIDÊNCIA SOBRE A CONFISSÃO. INTELIGÊNCIA DO ART. 67 DO CÓDIGO PENAL. RECURSO DA RÉ IVANIR PARCIALMENTE PROVIDO E DO RÉU SILVIO DESPROVIDO.
+No presentewrit, a impetrante afirma que "o paciente sofre constrangimento ilegal, uma vez que, em que pese reconhecida a sua confissão administrativa, não fora readequada a sua pena intermediária"(e-STJ fl. 5).
+Assevera que, "de acordo com o entendimento dos Tribunais Superiores, em que pese o paciente seja reincidente, mas por ter confessado a prática criminosa, por se tratarem de causas preponderantes, devem ser compensadas" (e-STJ fl. 5).
+Por isso, requer, inclusive liminarmente, "seja compensada a atenuante da confissão com a agravante da reincidência ou, sucessivamente, seja reduzida a fração de aumento na segunda fase"(e-STJ fl. 7).
+Liminar indeferida (e-STJ fls. 48/50).
+Informações prestadas.
+O Ministério Público Federal manifestou-se ""pela concessão parcial da ordem, de ofício, apenas para que se aplique a compensação parcial""(e-STJ fls. 93/96).
+É, em síntese, o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+Acerca do tema, assim se manifestou o Juízo sentenciante (e-STJ fl. 38):
+Assim, considerando as circunstâncias do art. 59 do Código Penal e do art. 42 da Lei n. 11.343/06, fixo a pena-base em 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa. (aumento de 1/6 para circunstância negativa - consequências).
+Na segunda fase, presente apenas a agravante da reincidência, motivo pelo qual exaspero a reprimenda em 1/6 (um sexto). A pena de multa não sofre alteração desta fase. Contrário a defesa, não há que se falar em confissão expontânea do réu, uma vez que em Juízo, negou a prática delituosa.
+Na terceira fase, inexistem causas especiais de aumento ou diminuição de pena, restanto a pena definitivamente fixada em 06 (seis) anos, 09 (nove) meses e 20 (vinte) dias de reclusão e ao pagamento de 680 (seissentos e oitenta) dias-multa, cada qual no mínimo legal previsto no art. 43 da Lei n. 11.343/06.(Grifei.)
+Já a Corte de origem, no ponto, consignou (e-STJ fl. 21):
+Por sua vez, o apelante Silvio pleiteia o reconhecimento da atenuante da confissão espontânea.
+Muito embora o apelante tenha negado a autoria delitiva em fase judicial, entendo que deve ser considerada a atenuante da confissão espontânea (art. 65, III, d, do CP) ainda que ocorrida somente na fase extrajudicial, pois esta foi imprescindível para a condenação do apelante.
+Nesse sentido, esta Corte:
+ ..
+Com isso reconheço a presença da confissão espontânea.
+Todavia, em desfavor do réu, foi aplicado pelo magistrado de primeiro grau a agravante da reincidência.
+No caso concreto, entendo inviável a compensação da agravante e atenuante acima citadas, uma vez que o acusado possui duas condenações transitadas em julgado, conforme lista de antecedentes de fls. 203/210.
+É cediço que há grande celeuma quando o assunto é a presença da agravante da reincidência com a atenuante da confissão espontânea, conforme é o caso dos autos. É bem verdade que a atual posição pacificada do Superior Tribunal de Justiça sobre o tema é pela compensação da agravante com a atenuante, porém, mais certo ainda, é que o Supremo Tribunal Federal, guardião da Carta Magna e dono da última palavra no âmbito do Poder Judiciário, tem como certo a preponderância da reincidência:
+ ..
+Portanto, muito embora se reconheça a confissão extrajudicial, mesmo que retratada em juízo, entendo não ser possível compensar a confissão com a reincidência, ainda mais nos casos como o dos autos.
+Assim, diante da especificidade do caso em comento, a agravante da reincidência deve prevalecer sobre a atenuante da confissão espontânea, razão pela qual nesta etapa, mantenho o aumento da pena estipulado em sentença, qual seja, 1/6 sobre a pena-base aplica na primeira fase.(Grifei.)
+Pois bem.
+Da atenuante da confissão espontânea
+Acerca do tema, aTerceira Seção do Superior Tribunal de Justiça, no julgamento do REsp n. 1.341.370/MT, firmou compreensão de que é possível a compensação da agravante da reincidência com a atenuante da confissão espontânea, na segunda fase dosimétrica, por serem igualmente preponderantes, até mesmo nos casos em que a confissão se der apenas parcialmente.
+Ato contínuo, esta Corte Superior, no julgamento doREsp1.931.145/SP, emrecursos repetitivos, firmou a seguinte tese (Tema Repetitivo 585):
+""É possível, na segunda fase da dosimetria da pena, a compensação integral da atenuante da confissão espontânea com a agravante da reincidência, seja ela específica ou não. Todavia, nos casos de multirreincidência, deve ser reconhecida a preponderância da agravante prevista no art. 61, I, do Código Penal, sendo admissível a sua compensação proporcional com a atenuante da confissão espontânea, em estrito atendimento aos princípios da individualização da pena e da proporcionalidade."
+Assim, a compensação não será integral no caso de ser verificada a multirreincidência, como no caso dos autos,uma vez que esta exige maior reprovação do que aquela conduta perpetrada por quem é reincidente por força apenas de um único evento criminoso isolado em sua vida, devendo, pois, prevalecer sobre a confissão.
+Na hipótese, portanto, entendo que não assiste razão à defesa. Em se tratando de paciente multirreincidente, com duas condenações pretéritas transitadas em julgado, verifico que a Corte de origem, além de reconhecer a confissão, operou a compensação parcial entre esta e uma agravante de reincidência, utilizando-se a segunda para aumentar em 1/6 a pena intermediária, não havendo que se falar emflagranteilegalidade a ser corrigida.
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO. DOSIMETRIA. PENA-BASE. ACIMA DO MÍNIMO LEGAL. QUANTIDADE DE DROGAS APREENDIDAS. POSSIBILIDADE. COMPENSAÇÃO INTEGRAL DE AGRAVANTE DE REINCIDÊNCIA COM CONFISSÃO ESPONTÂNEA. MULTIRREINCIDÊNCIA. PREPONDERÂNCIA. AUSENTE CONSTRANGIMENTO ILEGAL. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+1. Não se verifica ilegalidade na exasperação da pena-base com fundamento na quantidade e na diversidade das drogas apreendidas tratando-se de cerca de 290 gramas de cocaína, 229 comprimidos de MDMA e 221 comprimidos de MDA, fundamentos que, conforme a jurisprudência desta Corte, justificam o incremento da reprimenda.
+2.Tratando-se de réu multirreincidente, cabível a compensação parcial da atenuante da confissão espontânea com a agravante da reincidência, tal como ocorre na espécie, em que o paciente ostenta três condenações transitadas em julgado, tendo sido utilizada uma para negativar os antecedentes e duas para reconhecer a reincidência.
+3. Agravo regimental improvido.(AgRg no HC 626.637/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 2/2/2021, DJe 8/2/2021, grifei.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. 39,76 KG DE MACONHA. ALEGAÇÃO DE EXCESSO NA DOSIMETRIA. AUSÊNCIA DE ILEGALIDADE. ANTECEDENTES. CONDENAÇÕES ANTERIORES. POSSIBILIDADE, AINDA QUE ULTRAPASSADO PERÍODO DEPURADOR. COMPENSAÇÃO PARCIAL COM A CONFISSÃO ESPONTÂNEA. MULTIRREINCIDENTE. POSSIBILIDADE. PARTICIPAÇÃO DE ADOLESCENTE. REEXAME FÁTICO.
+1. Não há ilegalidade pela consideração negativa dos antecedentes, ainda que os três delitos tenham sido atingidos pelo período depurador.
+2. Inexiste excesso na elevação da pena-base, porquanto além dos antecedentes, foi muito grande a quantidade de drogas apreendidas, 39,76 kg de maconha.
+3. Possível a compensação não integral entre agravante e atenuante, em caso de multirreincidência.
+ ..
+5. Agravo regimental improvido.(AgRg no HC 549.635/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/5/2020, DJe 4/6/2020, grifei.)
+Ante o exposto, denego a ordem dehabeas corpus.
+Publique-se. Intimem-se.
