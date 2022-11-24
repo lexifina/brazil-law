@@ -1,0 +1,67 @@
+DECISÃO
+Cuida-se de agravo interposto por VICENTE RENATO PAOLILLO, ELECTRA SALESIANI DE ALMEIDA, ANTONIO OLAVO VALENTE ALMEIDA, JOAQUIM LOURENCO PEREIRA, ALEXANDRE HUSNI, JOSÉ MARIA LOURENÇO MOREIRAS, FLAVIO JOAO DE CRESCENZO, JOSE RODRIGUES, MARIA LUSIA DE JESUS RODRIGUES, ZULMIRA DOS ANJOS MARTINS MOREIRA, ELVIRA DOS SANTOS PEREIRA, FRANCISCA SIMOM DA SILVA, ORLANDO VALENTE DE ALMEIDA, JOSE ALVES SALGADO, SILVA TELES SALGADO, MELVINO PEREIRA NETO, JOSÉ ADONIAS DA SILVA, OTAVIO MELO DE OLIVEIRA, QUITERIA GOMES DE OLIVEIRA, JIRO OUCHI, e LAERTE GUIMARÃES contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que osagravantes interpuseramrecurso especial, com fundamento no art. 105, III, "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO cuja ementa guarda os seguintes termos (fl. 246):
+APELAÇÃO. EMBARGOS À EXECUÇÃO. Execução inerte por falta de apresentação de cálculos pelo credor. Mais de cinco anos entre o pagamento da última parcela do débito e a cobrança de quaisquer diferenças havidas. Prescrição nos termos do Decreto-Lei nº 4.597/42. Recurso desprovido.
+Sem embargos de declaração.
+No recurso especial, a parte recorrente alegaque o acórdão estadual diverge da jurisprudência do STJ, em especial dos paradigmas apontados: Recurso Especial n.261.634/SP e Agravo em Recurso Especial n.449.196/SP,atribuindo interpretação equivocada aosarts. 269, IV, e 794, inciso I, ambos do CPC/1973, atual art. 487, II, e 924, inciso I, do Novo CPC.
+Sustenta, em síntese, que "a jurisprudência desta Corte tem se posicionado no sentido de que inexiste prescrição enquanto os exequentes aguardam o pagamento integral da indenização, como no presente caso, uma vez que existe saldo deinsuficiente de depósito apurado, mesmo porque a Fazenda do Estado em nenhum momento nega a insuficiência dos depósitos. Não se pode justificar a prescrição como acolhido pelo MM Juiz "a quo" e Tribunal Regional pelo simples fato dos exequentes não terem apresentados os cálculos de insuficiência de depósito, o que não se pode admitir é que a devedora, aproveitando de lapso temporal entre o último depósito e o atual pleito de pagamento de saldo residual deixe de cumprir sua obrigação" (fl. 271).
+Foram oferecidascontrarrazões ao recurso especial (fls. 319-328).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fl. 331), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 344/354).
+Sanada a irregularidade na representação processual (fls. 361 e 365-367).
+Parecer do Ministério público Federalpela conversão do agravopara negar seguimento ao recurso especial (fls. 379-381).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Não prospera a irresignação recursal.
+A controvérsia gira em torno do reconhecimento da prescrição intercorrente da execução em razão dainerciapor falta de apresentação de cálculos pelo credor. Os recorrentes alegam, em suma, a não ocorrência do prazo prescricional, visto terem impulsionado o processo entre os anos 2004 e 2010 com petições de vista e cálculo dos débitos.
+O Tribunal de origem decidiu a controvérsia sob os seguintes argumentos(fls. 246-248):
+Trata-se de embargos à execução em que a Fazenda Estadual, condenada em sentença judicial ao pagamento devalores devidos a.. título de desapropriação, suscitou a ocorrência da prescrição.
+É certo que o Decreto nº 20.910/32, que trata sobre a prescrição quinquenal, estabelece em seu artigo 1º que "as dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal, estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem."
+Prazo que, na hipótese de pagamento parcelado, em virtude do princípio da actio nata, passa a fluir do pagamento da última parcela da obrigação, momento em que nasce a pretensão a quaisquer diferenças havidas.
+E, no caso, segundo narram os autos, o crédito decorrente da desapropriação foi objeto da moratória constitucional instituída pelo artigo 33 do ADCT, vindo, portanto, a ser pago em oito prestações anuais.
+A última destas, paga em 29/12/99, teve seu levantamento condicionado à apresentação de certidão de propriedade atualizada com negativa de ônus e alienações (fls. 1096).
+Todavia, intimada a exequente em 07/01/00 a se manifestar sobre a extinção da execução e oportuna apresentação dos documentos necessários ao levantamento, esta se quedou inerte.
+Na constância da inércia da exequente, em 03/03/00, certificou o escrevente de cartório o decurso de prazo de manifestação dos expropriados (fls. 1097).
+Manifestação que só viria em 19/10/04, e, mesmo esta, apenas requerendo prazo para realização de cálculos da potencial insuficiência dos depósitos efetuados (fls. 1099). Pedido, aliás, outras três vezes mais, em 2005, 2008 e 2009, feito e concedido; sem que, contudo, a exequente apresentasse cálculos que precisassem a suposta insuficiência.
+Assim, a despeito do quanto alegado pelos apelantes, é certo que o prolongamento indevido da execução, por mais de dez anos após o último depósito, deu-se pela própria inércia do credor em, tendo oportunidade para tanto, apresentar os cálculos necessários. Desta feita, decorrido muito mais do que cinco anos do pagamento da última parcela, patente é a superação do prazo prescricional para que os autores pudessem ainda valer-se da execução a que deram causa.
+Nestes termos, operada a prescrição, incabível a revisão dos pagamentos como pleiteiam os apelantes.
+Desta forma, correta a sentença proferida pelo juízo a quo, que deve ser mantida. ao recurso.
+Conforme se vê, a Corte estadual entendeu que as petições de vista e os cálculos de débitos anexados pelos exequentes entre os anos 2004 e 2010 não foram suficientes paradescaracterizar a inércia dos exequentes referente ao pleito de cobrança do saldo remanescente da execução.
+Desse modo, para desconstituir as conclusões quanto àexistência de inércia na apresentação dos cálculos que especificassem a suposta insuficiência dos pagamentos, seria necessário proceder ao reexamedas circunstâncias fáticas e probatórias dos autos, sobretudo aquelas referentes à comprovação da insuficiência dos pagamentos, providência vedada no âmbito do recurso especial. Aplicação, na espécie, da Súmula n. 7/STJ.
+Nesse sentido, cito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM PETIÇÃO DE PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL. ALEGAÇÃO DE OMISSÃO AO ART. 1.022 DO CPC/15. PEÇAS PROCESSUAIS NÃO JUNTADAS PELO REQUERENTE. IMPOSSIBILIDADE DE AFERIÇÃO DA OMISSÃO. REDIRECIONAMENTO DA EXECUÇÃO FISCAL PARA OS SÓCIOS GERENTES. ALEGAÇÃO DE PRESCRIÇÃO. ANÁLISE DA INÉRCIA DA FAZENDA PÚBLICA. SÚMULA 7 DO STJ. AUSÊNCIA DE FUMUS BONI JURIS. EFEITO SUSPENSIVO AO RECURSO ESPECIAL NÃO DEFERIDO.
+(..)
+3. Em relação ao seu argumento de que teria ocorrido a prescrição para o redirecionamento da Execução aos sócios-gerentes, o STJ entende que a decretação da prescrição para o redirecionamento impõe que seja demonstrada a inércia da Fazenda Nacional. Porém, a análise da inércia ou não da Fazenda Pública apenas é verificada com o reexame do acervo fático-probatório, o que encontra óbice na Súmula 7 do STJ. Nesse sentido: AgInt no REsp 1.921.203/RS, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 19.10.2021; e AgInt no REsp 1.964.029/RJ, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 16.2.2022.
+(..)
+5. Agravo Interno não provido.
+(AgInt na Pet n. 14.813/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 27/6/2022.)
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DO EXEQUENTE. INVERSÃO. SÚMULA 7 DO STJ.
+INOVAÇÃO RECURSAL. DESCABIMENTO.
+1. "Incide o lapso prescricional, pelo prazo respectivo da demanda de conhecimento (Súmula 150/STF), sem interrupção ou suspensão, não se podendo invocar qualquer demora na diligência para obtenção de fichas financeiras ou outros documentos perante a administração ou junto a terceiros" (REsp 1336026/PE, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 28/06/2017, DJe 30/06/2017).
+2. Dissentir da conclusão consignada no Tribunal de origem acerca da existência de inércia da Fazenda Pública, para fins de ocorrência de prescrição intercorrente, demanda necessário revolvimento de matéria fática, o que é vedado em sede do especial, em face do óbice da Súmula 7 desta Corte.
+3. A alegada suspensão do processo em virtude de conflito de competência não foi veiculada oportunamente, estando, portanto, preclusa, na medida em que o agravante não ofertou contrarrazões ao especial.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.060.346/MG, relator Ministro Gurgel de Faria, Primeira Turma,DJe de 12/12/2019.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE. IAC NO RESP 1.604..412/SC. TRANSCURSO DO PRAZO PRESCRICIONAL NA VIGÊNCIA DO CPC/73. ART. 1.056. INAPLICABILIDADE. PRÉVIA INTIMAÇÃO DO EXEQUENTE REALIZADA. SÚMULA 7 DO STJ. AUSÊNCIA DE FIXAÇÃO DE HONORÁRIOS EM FAVOR DO AGRAVADO NA ORIGEM. MAJORAÇÃO. IMPOSSIBILIDADE. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+(..)
+2. A Corte de origem, analisando o acervo fático-probatório dos autos, concluiu que o prazo prescricional foi consumado pela inércia do exequente por mais de um ano após o transcurso do prazo de suspensão da execução por ausência de bens, e que houve a prévia intimação do credor para opor algum fato impeditivo à incidência da prescrição.
+3. Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+(..)
+5. Agravo interno parcialmente provido.
+(AgInt no AREsp n. 2.018.581/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 7/10/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. ART. 921, § 5º, DO CPC. SUSPENSÃO DO PRAZO PRESCRICIONAL. PRESCRIÇÃO INTERCORRENTE. AUSÊNCIA DE INÉRCIA DO EXEQUENTE. IMPOSSIBILIDADE DE RECONHECER A PRESCRIÇÃO INTERCORRENTE. EXAME DA SUPOSTA DESÍDIA. REEXAME DE MATÉRIA FÁTICA. ENUNCIADO 7/STJ. DISSÍDIO JURISPRUDENCIAL SOBRE O MESMO TEMA. PREJUDICADO. 1. A incidência da prescrição intercorrente pressupõe a inércia do exequente por prazo superior ao de prescrição do direito material vindicado, excluindo os casos em que a execução foi paralisada por determinação judicial, como na espécie.
+2. Alterar o entendimento do acórdão recorrido de que não houve desídia do agravado, para o fim de reconhecer a prescrição intercorrente, demandaria, necessariamente, reexame de fatos e provas, o que é vedado em razão do óbice da Súmula 7 do STJ.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo internonão provido.
+(AgInt no REsp n. 1.972.904/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 19/8/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO DE SENTENÇA PROFERIDA EM AÇÃO DE DESAPROPRIAÇÃO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535 DO CPC. PRESCRIÇÃO INTERCORRENTE. NECESSIDADE DE SE REEXAMINAR MATÉRIA FÁTICA. SÚMULA 7/STJ. CORREÇÃO MONETÁRIA. ÍNDICE APLICÁVEL. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. MULTA PROCESSUAL. INCABIMENTO. SÚMULA 98/STJ.
+1. Não ocorre ofensa ao art. 535 do CPC, se o Tribunal de origem decide, fundamentadamente, as questões essenciais ao julgamento da lide.
+2. O recurso especial não pode ser conhecido se, para constatar a ocorrência de prescrição, for necessário reexaminar circunstâncias fáticas, sobretudo quando fundado o acórdão recorrido na ausência de inércia dos exequentes. Incidência da Súmula 7/STJ.
+3. É de cinco anos o prazo prescricional para requerer eventuais diferenças de precatório submetido à moratória constitucional (art.33 do ADCT) contados a partir do pagamento da última parcela.
+4. É deficiente o recurso especial que não particulariza o dispositivo de lei federal tido por violado, como também não apresenta, com clareza e objetividade, quais razões amparam a alegada violação. Súmula 284/STF.4. Embargos de declaração opostos para prequestionar questão federal não são protelatórios, nos termos da Súmula 98/STJ.
+5. Recurso especial conhecido em parte e, nessa parte, parcialmente provido apenas para afastar a multa processual.
+(REsp 1.278.223/SP, relatora Ministra Eliana Calmon, Segunda Turma,DJe de 28/8/2013.)
+Vale salientar que aincidência da Súmula n. 7/STJ sobre o tema objeto da suposta divergência impede o conhecimento do recurso lastreado na alínea "c" do art. 105, III, da Constituição Federal (AgRg no AREsp n. 97.927/RS, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 17/9/2015, DJe de 28/9/2015).
+Ante o exposto, conheço do agravo para negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
