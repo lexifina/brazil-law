@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ACRICIAN LOHOAN DE CAMARGO GONÇALVES DA SILVA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Apelação Criminal n. 1500211-10.2022.8.26.0545).
+O paciente foi condenado às penas de 5anosde reclusão, no regime inicial semiaberto, e de 500 dias-multa, como incurso no art. 33, caput, da Lei de Drogas.
+Inconformada, a defesainterpôsrecurso de apelação, que fora desprovido peloTribunal de origem.
+Sustenta o impetrante quenão teria sido apresentada fundamentação idônea para a manutenção da custódia cautelar na espécie, eis que não teria ficado comprovada a presença de qualquer dos requisitos insculpidos nos arts. 311 e 312 do Código de Processo Penal.
+Requer, liminarmente e no mérito, a concessão da ordem para que seja revogada a prisão preventiva do paciente, com o trancamento da ação penal,bem como expedido o alvará de soltura em seu favor.
+É, no essencial, o relatório. Decido.
+A matéria de fundo não foi apreciada no acórdão impugnado. Assim, o Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância.
+A propósito, confira-se precedente sobre a questão:
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. INDEVIDA UTILIZAÇÃO DO WRIT COMO SUCEDÂNEO DE REVISÃO CRIMINAL. HOMICÍDIO QUALIFICADO ECULTAÇÃO DE CADÁVER. DOSIMETRIA. AFASTAMENTO DOS MAUS ANTECEDENTES. QUESTÃO NÃO DEVOLVIDA À APRECIAÇÃO DA CORTE LOCAL QUANDO DA INTERPOSIÇÃO DE RECURSO DE APELAÇÃO. MATÉRIA NÃO ANALISADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE. PRECEDENTES.
+1. É incabível a impetração de habeas corpus substitutivo de ação revisional quando não existe, no Superior Tribunal de Justiça, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, sendo forçoso reconhecer a incompetência desta Corte para o processamento do pedido. Precedentes.
+2. É tranquila a jurisprudência quanto à impossibilidade de suprimir instância para tratar de ponto nem sequer aventado nas razões de apelação e consequentemente não debatido/decidido pelo Tribunal a quo.
+3. Até mesmo quando se trata de matéria de ordem pública - o que não é o caso dos autos -, dizem os precedentes que é imprescindível o seu prévio debate na instância de origem para que possa ser examinada por este Tribunal Superior (AgRg no HC n. 530.904/PR, Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/9/2019, DJe 10/10/2019). Inexistente pronunciamento do Tribunal de origem sobre a questão ora aventada, resulta inviável a respectiva apreciação por esta Corte, sob pena de supressão de instância. Eventual ilegalidade pelo Juízo sentenciante, porquanto não apreciada no recurso de apelação, deve ser objeto de insurgência na própria Corte local, mediante a propositura de revisão criminal ou a impetração de habeas corpus contra a sentença condenatória (AgRg no HC n. 537.128/PR, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/4/2020, DJe 4/5/2020).
+4. Em outras palavras, a despeito de se conferir ao recurso de apelação efeito devolutivo amplo, seu conhecimento é limitado ao que fora deduzido nas razões recursais ou nas contrarrazões. Dessa forma, em habeas corpus impetrado nesta Corte, não se pode apreciar pretensão não ventilada oportunamente nas instâncias antecedentes, sob pena de indevida supressão de instância (AgRg no HC n. 521.849/SC, Ministra LAURITA VAZ, SEXTA TURMA, julgado em 4/8/2020, DJe 19/8/2020).
+4. Agravo regimental improvido.
+(AgRg no HC n. 664.055/RJ, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 8/6/2021, DJe de 16/6/2021.)
+Ante o exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
