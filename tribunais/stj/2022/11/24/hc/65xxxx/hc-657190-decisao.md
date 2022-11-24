@@ -1,0 +1,86 @@
+DECISÃO
+FABIO LIMA DO COUTO alega sofrer constrangimento ilegal pelo Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0014806-77.2017.8.19.0054).
+Sustenta a defesa que "Todos os elementos trazidos aos autos, em especial a prova testemunhal, não são capazes de apontar qualquer subsunção entre o tipo penal de tráfico e a conduta identificada quando da prisão paciente" (fl. 11).
+Afirma, ainda, que "doutrina e jurisprudência afastam a incidência do tipo penal do artigo 35 da Lei 11.343/06 se não restar devidamente demonstrada a presença do animus associativo entre os envolvidos, de modo a formar uma societas sceleris, onde todos, de forma racional, combinando esforços, unem forças para a realização de atividades criminosas, relacionadas ao ato ilícito de entorpecentes" (fl. 21).
+Além disso, busca a redução da pena-base aplicada no crime de resistência, bem como o reconhecimento de concurso formal entre os crimes de resistência e corrupção de menores.
+Requer a concessão da ordem, para: a) absolver o paciente das imputações contidas na denúncia, seja pelo crime de tráfico de drogas, seja pelo de associação para o tráfico,b) reduzir a pena-base referente ao crime de resistência, e c) reconhecer o concurso formalentre os crimes de resistência e corrupção de menores.
+O Ministério Público Federal opinou pelo não conhecimento do writ(fls. 197-202).
+Decido.
+I. Tráfico de drogas e associação para o tráfico- absolvição
+O Tribunal local, ao manter a condenação do acusado pela prática doscrimes de tráfico de drogas e de associação para o tráfico, salientou o que segue (fls. 83-85, destaquei):
+Com efeito, da prova oral produzida no curso da instrução criminal depreende-se que policiais militares, durante operação em comunidade sabidamente dominada pela facção criminosa autodenominada "Comando Vermelho", avistaram o acusado Fábio Lima Couto, o adolescente Vinícius da Silva Machado, e um terceiro não identificado portando uma sacola contendo drogas.
+Ao perceberem a aproximação dos agentes da lei, o acusado e o comparsa adolescente desferiram disparos de arma de fogo em sua direção, sendo que os policiais prontamente revidaram.
+O adolescente foi baleado e veio a óbito, sendo com ele apreendido um revólver calibre 38.
+O acusado, por seu turno, foi capturado dentro de uma residência, diante da qual foi apreendida uma pistola 9mm por ele usada no confronto.
+Já o comparsa não identificado conseguiu fugir, mas acabou abandonando a sacola contendo 28,40g (vinte e oito gramas e quarenta decigramas) de cloridrato de cocaína, acondicionados em 130 (cento e trinta) embalagens individuais.
+ .. .
+Além disso, a constatação de que estavam intactos 07 (sete) dos cartuchos encontrados nas duas armas de fogo apreendidas em poder dos agentes apenas demonstra que eles ainda tinham munições, mesmo após a troca de tiros, e isto certamente não tem o condão de afastar a certeza de que o confronto relatado pelos policiais de fato existiu.
+Aliás, conforme se depreende de fls. 17, foram apreendidos 02 (dois) estojos calibre 38, o que demonstra os disparos efetuados pela arma encontrada nas mãos do menor.
+A falta de apreensão de cartuchos 9mm deflagrados, ao contrário do que se sustenta, não demonstra a inocência do acusado, pois, como cediço, os cartuchos das pistolas, quando deflagrados, são expelidos, não raro a longas distâncias, sendo certo que a apreensão de cartuchos deflagrados dentro de uma pistola só ocorre quando a arma apresenta defeito.
+Desta feita, diante das circunstâncias da prisão, claramente demonstrada a posse compartilhada das drogas para fins de tráfico, assim como o vínculo estável e permanente existente entre os membros do grupo criminoso, que contava com membros armados e ao menos um adolescente. Demonstrado, também, o emprego de armas de fogo na prática destes crimes.
+Assim, com base nesses argumentos, verifico que as instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas.
+Por essas razões, mostra-se inviável a absolvição do réu, sobretudo ao se considerar que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, tal como verificado nos autos.
+Dessa forma, para entender-se pela absolvição do agravante, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência incabível na via do recurso especial, nos termos da Súmula n. 7 do STJ.
+Além disso, é consolidado nesta Corte Superioro entendimento de que" .. a ausência de apreensão de drogas na posse direta do agente não afasta a materialidade do delito de tráfico quando estiver delineada a sua ligação com outros integrantes da mesma organização criminosa que mantinham a guarda dos estupefacientes destinados ao comércio proscrito (HC n. 536.222/SC, Ministro Jorge Mussi, 5ª T., DJe de 4/8/2020, destaquei).
+Entretanto, quanto ao crime de associação para o tráfico,faço lembrar que, considerando a expressão utilizada pelo legislador, de que a associação entre duas ou mais pessoas seja para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34, da Lei de Drogas, a jurisprudência deste Superior Tribunal de Justiça firmou o entendimento de que, para a subsunção da conduta ao tipo previsto no art. 35 da Lei n. 11.343/2006, é necessária a demonstração concreta da estabilidade e da permanência da associação criminosa, conforme, aliás, já expressei no HC n. 220.231/RJ, julgado em 5/4/2016 (DJe 18/4/2016).
+Assim, para a caracterização do delito previsto no art. 35 da Lei de Drogas, é necessário que o animus associativo seja efetivamente provado. Isso porque, se assim não fosse, estaria evidenciado mero concurso de agentes para a prática do crime de tráfico de drogas.
+A Corte estadualtambém considerou devidamente caracterizado o cometimento do crime em questão, ocasião em que salientou (fl. 85, grifei):
+ ..  diante das circunstâncias da prisão, claramente demonstrada a posse compartilhada das drogas para fins de tráfico, assim como o vínculo estável e permanente existente entre os membros do grupo criminoso, que contava com membros armados e ao menos um adolescente.
+Conforme visto, as instâncias ordinárias, em nenhum momento, demonstraram, por meio de elementos concretos extraídos dos autos,o vínculo associativo estável e permanente porventuraexistente entre opacientee os demais acusados; na verdade, as instâncias de origem presumiram, combase apenas no local em que opacientefoipresoem flagrante e no modus operandirealizado no momento da prisão em flagrante - trocas de tiro ao avistarem os policiais-, que o pacientenão apenas seriaintegranteda facção criminosa "Comando Vermelho" - que domina a área em que o réu foi preso- como também houvesse um liame estável e permanenteentre os referidos acusadose, assim, proclamaram acondenação com base em meras conjecturas acerca de uma societas sceleris.
+Diante de tais considerações, entendo que o Ministério Público não sedesincumbiu do ônus de provar a associação para o tráfico de drogas. O quese tem dos elementos coligidos aos autos é apenas a intuição acerca deeventual crime de associação para o narcotráfico praticado pelopaciente.
+Ao funcionar como regra que disciplina a atividade probatória, a presunçãode não culpabilidade preserva a liberdade e a inocência do acusado contrajuízos baseados em mera probabilidade, determinando que somente a certezapode lastrear uma condenação. A presunção de inocência, sob talperspectiva, impõe ao titular da ação penal todo o ônus de provar aacusação, quer a parte objecti, quer a parte subjecti. Não basta,portanto, atribuir a alguém conduta cuja compreensão e subsunçãojurídico-normativa, em sua dinâmica subjetiva - o ânimo a mover a conduta- decorre de avaliação pessoal de agentes do Estado, e não dos fatos e dascircunstâncias objetivamente demonstradas.
+Em casos semelhantes, esta colenda Sexta Turma assim decidiu:
+ ..
+1. Não demonstrada por meio de elementos concretos e idôneos a existênciade vínculo estável e permanente entre o paciente e outros indivíduos,imperiosa se faz a absolvição pelo crime de associação para otráfico. Ofato de a localidade em que realizada a prisão do paciente sernotoriamente dominada por facção criminosa não é suficiente, por si só,para a caracterização do delito de associação para o tráfico, sobretudo senão há na denúncia, na sentença ou no acórdão qualquer apontamento
+concreto apto a demonstrar a existência de vínculo associativo entre osagentes, tal qual como ocorre na presente hipótese, em que não foi sequerindicado quem seriam os demais indivíduos que com o paciente estariamassociados, de modo que ausente elementar subjetiva do delito apurado,tornando-se imperiosa a absolvição.
+ ..
+6. Habeas corpus concedido para absolver o paciente da condutaprevista no art. 35 da Lei 11.343/2006 e reduzir a pena pelo crime do art.33 da mesma Lei ao patamar de 7 anos de reclusão e 700 dias-multa, mantidoo regime fechado.
+(HC n. 567.261/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/6/2020).
+ ..
+2. A jurisprudência desta Corte Superior firmou o entendimento de que,para a subsunção da conduta ao tipo previsto no art. 35 da Lei n.11.343/2006, é necessária a demonstração concreta da estabilidade e dapermanência da associação criminosa.
+3. No caso em exame, a moldura fática descrita na sentença e no acórdãopermite verificar que: a) o réu foi encontrado sozinho na posse deentorpecentes, radiotransmissor e arma de fogo, ocasião em que admitiuatuar como "vapor" - tanto que foi o único denunciado na ação penal objetodeste writ; b) o local em que estava o acusado é conhecido como ponto devenda de drogas, vinculado à associação criminosa "Comando Vermelho".
+4. Tanto a associação do paciente com outras pessoas quanto o vínculoestável e permanente ao grupo denominado "Comando Vermelho" - para aprática do comércio ilegal de drogas - foram presumidos pelas instânciasantecedentes, em violação à regra probatória inerente ao princípio dapresunção de inocência.
+ ..
+7. Habeas corpus conhecido em parte e, nessa extensão, concedida a ordem,a fim de absolver o réu do crime descrito no art. 35 da Lei n. 11.343/2006e fixar o regime inicial semiaberto para cumprimento da pena atinente aodelito de tráfico de drogas.
+(HC n. 462.888/RJ, Rel. Ministro Rogerio Schietti, 6ª T., DJe 5/11/2018).
+Da Quinta Turma, menciono:
+ ..
+2. Para a configuração do delito de associação para o tráfico de drogas énecessário o dolo de se associar com estabilidade e permanência, sendo quea reunião de duas ou mais pessoas sem o animus associativo não se subsumeao tipo do art. 35 da Lei n. 11.343/2006. Trata-se, portanto, de delito deconcurso necessário.
+3. Hipótese em que a Corte de origem não apresentou elementos concretosque demonstrem efetivamente o vínculo associativo estável e permanenteentre o paciente e outros integrantes da facção criminosa. Não houvesequer a indicação de quem seriam as demais pessoas com ele associadas. Nafalta da comprovação de dois requisitos legais para a configuração dodelito de associação para o tráfico de entorpecentes, pluralidade deagentes e vínculo subjetivo no cometimento dos delitos , a absolvição do
+paciente é medida que se impõe.
+ ..
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, para absolvero paciente pelo delito de associação para o tráfico de drogas, resultandoa pena definitiva em 5 anos e 6 meses de reclusão, mantido o regimeinicial fechado.
+(HC n. 434.880/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 9/4/2018).
+Assim, uma vez que houve clara violação da regra probatória inerente ao
+princípio da presunção de inocência, não há como subsistir a condenaçãodopacienteno tocante aodelito de associação para o tráfico.
+II. Pena-base- crime de resistência
+Consta no acórdão (fl. 87, grifei):
+Assim, as penas-base de todos os crimes merecem ser afastadas do mínimo legal, sendo certo que a reprimenda relativa à resistência qualificada desafia um incremento ainda maior diante das consequências deste crime, que levou à morte o adolescente infrator, membro do grupo criminoso.
+Assim, a pena-base do crime de resistência qualificada é fixada em 02 (dois) anos de reclusão.
+A fixação da pena é regulada por princípios e regras constitucionais elegais previstos, respectivamente, nos arts. 5º, XLVI, da ConstituiçãoFederal, 59 do Código Penal e 387 do Código de Processo Penal.
+Todos esses dispositivos remetem o aplicador do direito à individualizaçãoda medida concreta para que, então, seja eleito o quantum de sanção a seraplicada ao condenado criminalmente, com vistas à prevenção e à reprovaçãodo delito perpetrado.
+Assim, para obter-se uma aplicação justa da lei penal, o julgador, dentrodessa discricionariedade juridicamente vinculada, há de atentar para assingularidades do caso concreto, e deve, na primeira etapa do procedimentotrifásico, guiar-se pelas oito circunstâncias relacionadas no caput doart. 59 do Código Penal.
+Na hipótese, a exasperação da reprimenda basal foi devidamentefundamentada, dado que o disparo da arma de fogo fez uma vítima, a
+qualfoi a óbito, circunstânciaque excede oselementos inerentes ao tipo penal em comento.
+Nesse mesmo sentido:
+ .. .
+2. Em relação ao crime de resistência, a exasperação da pena-base acima do mínimo legal foi concretamente fundamentada pelo Tribunal de origem, demonstrando-se, de forma concreta, a maior reprovabilidade da conduta, tendo em vista que o crime foi consumado por meio de disparos de arma de fogo contra agentes do estado.
+3. Agravo regimental desprovido.
+(AgRg no HC n. 444.664/RS, relatora Ministra Laurita Vaz, 6ª T., julgado em 18/9/2018, DJe de 3/10/2018)
+Portanto, não há que se falar em constrangimento ilegal na exasperação da pena-base.
+III. Concurso formal- crime de resistência e corrupção de menores
+Segundo o disposto na primeira parte do caput do art. 70 do Código Penal,"Quando o agente, mediante uma só ação ou omissão, pratica dois ou maiscrimes, idênticos ou não, aplica-se-lhe a mais grave das penas cabíveisou, se iguais, somente uma delas, mas aumentada, em qualquer caso, de umsexto até metade".
+O Magistrado sentenciante fixou as penas do insurgente nestes termos (fls.146-149, grifei):
+Os crimes de resistência e corrupção foram todos praticados mediante uma única ação, sem comprovação de que o réu possuía desígnios autônomos, já que não há qualquer demonstração de prévio ajustamento entre o réu e o adolescente, de modo que são aplicáveis as regras do concurso formal, nos termos do art. 70 do Código Penal.
+ .. .
+Considerando o concurso formal entre o crime de resistência e a corrupção de menores, fixo a pena em 02 (dois) anos, 08 (oito) meses e 20 (vinte) dias de detenção.
+A Corte estadual, por seu turno,ao acatar a tese acusatória, assentou (fl. 88,destaquei):
+Por fim, assiste razão ao Ministério Público quando pede o afastamento do concurso formal, reconhecido pelo Magistrado a quo, entre o crime de resistência e corrupção de menores.
+Ora, as diferentes condutas praticadas pelo acusado se aperfeiçoaram em momentos distintos, sendo uma delas voltada à prática das condutas ligadas ao narcotráfico, outra ligada à resistência e outra à corrupção do menor, que antecedeu as demais, sendo todas elas autônomas e, portanto, incompatíveis com o disposto no artigo 70 do Código Penal.
+Pela leitura dos trechos em destaque, observo, ao contrário doentendimento adotado na instância ordinária antecedente, deve serreconhecida a ocorrência de concurso formal de delitos, porquanto, em ummesmo contexto fático, mediante uma só ação, o acusado, juntamente com umadolescente, praticou o crime de resistência contra os policiais. Nas mesmascircunstâncias de tempo e de local, corrompeu o menor envolvido naempreitada delituosa.
+Está, pois, caracterizado o concurso formal entre a resistênciae a corrupção de menor. Por essa razão, deve a sentença ser restabelecida neste ponto, a qual fixou a pena de ambos os delitos em 2 anos, 8 meses e 20 dias de detenção.
+Assim, diante da absolvição do paciente pelo crime de associação para o tráfico e do reconhecimento do concurso formal entre os crimes de resistência e corrupção de menores, deve a reprimenda definitiva do réu ser fixada em 9 anos, 6 meses e 10 dias de reclusão e 680 dias-multa, pela prática dos crimes de tráfico de drogas  6 anos, 9 meses e 20 dias de reclusão mais 680 dias-multa , resistência e corrupção de menores  2 anos, 8 meses e 20 dias de detenção, em concurso formal , todos em concurso material.
+IV. Dispositivo
+À vista do exposto, concedo parcialmente a ordem, para: a) absolver o paciente do crime de associação para o tráficoeb) reconhecer o concurso formal entre os crimes de resistência e corrupção de menores. Assim, deve ser a pena definitiva do paciente ser fixada em 9 anos, 6 meses e 10 dias de reclusão e 680 dias-multa. Mantido os demais termos da condenação na origem.
+Comunique-se, com urgência, o inteiro teor deste decisum ao Juízo singular e à autoridade apontada como coatora.
+Publique-se e intimem-se.
