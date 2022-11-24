@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MALWEE MALHAS LTDA. (MALWEE)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do TJSP, de relatoria daDesembargadora CarmenLucia da Silva, assim ementado:
+AGRAVO DE INSTRUMENTO. LOCAÇÃO COMERCIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO DECORRENTE DE CONTRATO DE LOCAÇÃO COMERCIAL. Insurgência contra decisão que indeferiu a tutela de urgência para suspensão da exigibilidade das verbas locatíciasreferentes ao período compreendido entre 22/03/2020 e 31/08/2020, bem como da multa pela rescisão antecipada da avença locatícia. Não se desconhece os prejuízos de todos os lojistas e demais comerciantes em decorrência da suspensão das atividades comerciais determinadas pelas autoridades competentes. Porém, tal circunstância não se deve a qualquer atitude ou decisão por parte da agravada, mas sim por decisões administrativas dos governos Estadual e Municipal. As perdas severas do faturamento não ocorreram somente com a agravante, mas também com a agravada. Decisão mantida. RECURSO NÃO PROVIDO. (e-STJ, fl.166)
+Os embargos de declaração opostos por MALVEE foram rejeitados, com a condenação ao pagamento de multa (e-STJ, fls. 177/181).
+Irresignados, MALVEEinterpôsrecurso especial com base no art. 105, III, alíneaa, da CF, apontando a violação aos arts. 300,1.022 e1.026 do NCPC, ao sustentarque(1)encontram-se presentes os requisitos para concessão da tutela pretendida; e que(2) deve ser afastada a multa prevista no art. 1.026 do NCPC pois os embargos de declaração foram opostos coma intenção de prequestionamento.
+O recurso não foi admitido pelo TJSP.
+Nas razões do presente agravo, MALVEEsustentaque não incidem os óbices apontados na decisão de inadmissibilidade.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que merece prosperar parcialmente, na parte conhecida.
+(1)Da tutela de urgência
+Nas razões do presente recurso, MALVEE afirmou a violação doart. 300 do NCPCsustentando que deve ser reformada a decisão de indeferimento da tutela de urgência, pois "ficou demonstrada a alta chance de êxito da pretensão principal, dado o flagrante desequilíbrio contratual da avença locatícia" (e-STJ, fl. 191).
+Contudo, sem razão.
+Sobre o tema, o pacífico entendimento desta Corte, em sintonia com o disposto na Súmula nº 735 do STF, segue no sentido de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela".
+Ainda que assim não fosse, sobre a antecipação da tutela no presente caso, o (TRIBUNAL) consignou que:
+ destacar trecho que indica o cumprimento dos requisitos para a concessão da tutela antecipada
+Dessa forma, rever as conclusões adotadas pelo Tribunal estadual quanto ao não preenchimento dos requisitos para a concessão da tutela antecipada, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em razão da incidência da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS E LUCROS CESSANTES. TUTELA DE URGÊNCIA ANTECIPADA. DEFERIMENTO. NATUREZA PRECÁRIA DA DECISÃO. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. PREENCHIMENTO DOS REQUISITOS ENSEJADORES DA CONCESSÃO DA TUTELA REQUERIDA. SÚMULA 7/STJ E 735 /STF.
+DECISÃO DA PRESIDÊNCIA MANTIDA. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que é incabível o recurso especial que tem por objeto decisão de natureza precária, sem caráter definitivo, a exemplo das que examinam pedidos de liminar ou antecipação da tutela. Aplica-se, por analogia, a ratio decidendi dos precedentes que deram origem à Súmula n. 735/STF.
+2. A análise do preenchimento ou não dos requisitos da tutela de urgência demandaria o reexame do acervo fático-probatório dos autos, o que encontra óbice na Súmula n. 7/STJ.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.740.126/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 1º/3/2021, DJe 3/3/2021).
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+(2)Da multa prevista no art. 1.026, §2º, do NCPC
+A recorrentesustentaquedeve ser afastada a multa prevista no art. 1.026 do NCPC pois os embargos de declaração foram opostos sem a intenção de protelar o feito, mas para prequestionamento da matéria.
+Neste ponto, a irresignação merece prosperar.
+Quanto ao tema,esta Corte firmou o entendimento de que, na primeira oportunidade, é descabida a multa em referência quando previsível o intuito de prequestionamento e ausente o interesse de procrastinar o andamento do feito, mesmo que não configurada nenhuma hipótese de cabimento dos embargos de declaração.
+Nesse sentido, é o enunciado da Súmula nº 98 desta Corte, in verbis:Embargos de declaração manifestados com notório propósito de prequestionamentonão têm caráter protelatório.
+A corroborar, vejam-se os seguintes precedentes:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB AÉGIDE DO NCPC. AÇÃO DE REMOÇÃO DE INVENTARIANTE. OMISSÃO. VÍCIO NÃO CORRIGIDO NO JULGAMENTO DOS ACLARATÓRIOS. QUESTÃO RELATIVA AO CERNE DA CONTROVÉRSIA. VIOLAÇÃO DO ART. 1.022 DO NCPC CONFIGURADA. ANULAÇÃO DO ACÓRDÃO ESTADUAL E RETORNO DOS AUTOS À INSTÂNCIA DE ORIGEM. MULTA DO ART. 1026, § 2º, DO NCPC. AFASTAMENTO.INEXISTÊNCIA DE CARÁTER PROTELATÓRIO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.  ..  3. É descabida a multa fixada quando opostos embargos declaratórios logo na primeira oportunidade, não podendo ser considerados protelatórios, diante do nítido caráter de prequestionamento.  ..  5. Agravo interno não provido. (AgInt no AREsp 1464934/MS, de minha relatoria, Terceira Turma, j. 17/2/2020, DJe 19/2/2020)
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS DECORRENTES DE MORTE. ASSALTO A AGÊNCIA BANCÁRIA. TRANSAÇÃO EXTRAJUDICIAL FEITA EM NOME DA MÃE. QUITAÇÃO AMPLA E GERAL DAS OBRIGAÇÕES INDENIZATÓRIAS DECORRENTES DO SINISTRO. INEXISTÊNCIA DE VÍCIOS. PLENA VALIDADE E EFICÁCIA. LEGITIMIDADE DOS FILHOS PARA PERSEGUIREM REPARAÇÃO EM NOME PRÓPRIO. REDUÇÃO DO QUANTUM INDENIZATÓRIO. NÃO CABIMENTO. VALOR ARBITRADO EM QUANTIA RAZOÁVEL. CASO FORTUITO E FORÇA MAIOR. DIVERGÊNCIA JURISPRUDENCIAL NÃO CONFIGURADA. MULTAS PROCESSUAIS. AFASTAMENTO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.  ..  6. A condenação do apelante, por litigância de má-fé, ao pagamento de indenização no valor correspondente a 20% do valor da causa, apenas por se considerarem protelatórios os primeiros embargos de declaração, com nítido caráter de prequestionamento, mostra-se descabida. Da mesma forma, é descabida a multa fixada quando opostos embargos declaratórios à r. sentença de primeiro grau, logo na primeira oportunidade. (REsp 815.018/RS, Rel. Ministro RAUL ARAÚJO, Segunda Seção, j. 27/4/2016, DJe de 6/6/2016 ).
+Assim, deve ser afastada a imposição de mencionada multa.
+Nessas condições, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, DAR-LHE PARCIAL PROVIMENTO apenas para afastar a multa prevista no art. 1.026, §2º, do NCPC.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO. LOCAÇÃO.AGRAVO DE INSTRUMENTO. TUTELA DE URGÊNCIA. REQUISITOS. REEXAME. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 735 DO STF. MULTA PREVISTA NO ART. 1.026, §2º DO NCPC. AFASTAMENTO. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
