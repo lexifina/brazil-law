@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a" , da CF) interposto contra acórdãoproferidopelo Tribunal de Justiça do Estado do Rio Grande do Norte cuja ementa é a seguinte:
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. MANDADO DE SEGURANÇA PREVENTIVO. PRETENSÃO DE NÃO APLICAÇÃO DO INCISO XXIII DA LC Nº 157/16, INCLUÍDO AO ART. 3º DA LC 116/03, QUE TRATA DA MODIFICAÇÃO DA TITULARIDADE DA EXIGÊNCIA DA EXAÇÃO DO ISSQN DO MUNICÍPIO PARA O LOCAL DO TOMADOR DO SERVIÇO AO ARGUMENTO DE SOFRER BITRIBUTAÇÃO. SUSPENSÃO DA EFICÁCIA DA LC 157/2016 ATRAVÉS DE DECISÃO LIMINAR PROFERIDA NA ADI Nº 5.838/DF DO STF. RESTAURAÇÃO DA EFICÁCIA DA LC Nº 116/2013. PERDA SUPERVENIENTE DO OBJETO. EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO NOS TERMOS DO ARTIGO 485, VI DO CPC. MANUTENÇÃO DA SENTENÇA. CONHECIMENTO E DESPROVIMENTO DO APELO.
+Os Embargos de Declaração foram rejeitados (fls. 476-481, e-STJ).
+Nas razões do Recurso Especial, a agravante sustenta que ocorreu violação dos arts.27 e 28 da Lei 9.868/1999; e 17, 296, 313,V,330,III,489, 92, e 1.022 do CPC/2015.
+A parte alega:
+Deixou de verificar ainda que , a medida cautelar na ADI a qualquer tempo pode ser revogada (arts . 296 do CPC ) e ainda que o STF pode modular os efeitos da ADI em prejuízo daqueles contribuintes que não ingressaram em juízo no momento oportuno.
+Contraminuta às fls. 616-620, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 17.11.2022.
+Preliminarmente, constata-se que não se configura a ofensa aos arts. 489 e 1.022 do Código de Processo Civil/2015, pois ocolegiado originário julgou integralmente a lide e solucionou a controvérsiatal como lhe foi apresentada.
+A propósito:
+ADMINISTRATIVO. PROCESSUAL CIVIL. (..) VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. (..)
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+(..)
+(AgInt no REsp 1.630.265/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 6/12/2016)
+PROCESSUAL CIVIL E ADMINISTRATIVO. (..) VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. (..)
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+(..)
+(AgInt no AREsp 801.104/DF, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 13/10/2016)
+O Tribunal a quo consignou (fls. 454-456, e-STJ):
+Da detida análise dos autos, verifica-se que a impetrante, ora apelante, impetrou mandado de segurança preventivo se insurgindo contra as alterações produzidas pela Lei Complementar nº 157/2016, que mudou a sistemática de recolhimento de ISS para os planos de saúde, tendo o seu art. 1º alterado o art. 3º, inciso XXIII da Lei Complementar nº 116/2003, passando a estabelecer que o ISS seria devido no domicílio do tomador dos serviços, mesmo que não seja esta a localidade da efetiva prestação dos serviços e como a Lei Complementar nº157/2016 foi publicada em 01/06/2017, a recorrente concluiu que a autoridade coatora passaria a exigir a partir de janeiro de 2018 o recolhimento do ISS por parte da apelante, nos termos da lei ora em discussão. Nesses termos, verifica-se que a sentença recorrida, extinguiu o feito por ausência de interesse processual, destacando que a eficácia do dispositivo questionado encontra-se suspenso por decisão do Supremo Tribunal Federal (ADI nº 5838), considerando, assim, que o justo receio à violação do direito líquido e certo deixou de existir, em razão da perda superveniente de seu objeto.
+Noutro pórtico, ressalto que, como apontado pelo magistrado sentenciante, com a decisão proferida na ADI nº 5838, a suspensão da eficácia da LC nº157/2016, após sua entrada em vigor, restaura a eficácia e a efetividade da LC nº116/2013, sem as novas alterações trazidas, permanecendo o município do local da prestação efetiva do serviço de gestão e administração do plano de saúde investido na competência e capacidade tributária ativa para exigir o ISS, de modo que o justo receio do impetrante deixou de existir, havendo a caracterização da perda do objeto superveniente.
+Portanto, inobstante as várias teses recursais apresentadas pelo recorrente é evidente a inexistência de violação a direito líquido e certo ou ameaça de sofrera parte impetrante por qualquer municipalidade, notadamente porque a eficácia da norma encontra-se suspensa, mesmo que de forma monocrática. Por outro lado, há entendimento pacificado e sumulado do Supremo Tribunal Federal - STF, que impõe que o Mandado de Segurança não é o instrumento adequado para questionar lei em tese.
+Vejamos o teor da Súmula 266: STF, Súmula 266: Não cabe mandado de segurança contra lei em tese. Sobre o assunto, cabe ponderar que o mandado de segurança é remédio constitucional destinado a corrigir ou evitar ilegalidades que ocasionem violação de direito líquido e certo do impetrante, tratando-se de ação submetida a rito especial, com objetivo de proteger o indivíduo de abusos praticados por autoridades públicas ou agentes particulares no exercício de atribuições delegadas pelo ente público.
+Nesse passo, resta assente que a jurisprudência pacífica do STF entende que não é cabível mandado de segurança contra lei ou ato normativo em tese, ou seja, ineptos a provocar lesão a direito liquido e certo.
+No caso, trata-se demandado de segurança contra lei que ainda não incidiu e tampouco está na iminência de incidir, porque dela foi retirada a eficácia.
+Portanto, por óbvio, que a impetrante, ora apelante, ante a perda superveniente do objeto, não possui interesse processual, devendo a sentença ser mantida na sua integralidade.
+Dessa forma, reconheço a ausência de interesse processual da parte apelante para figurar no polo passivo da presente demanda, circunstância estaque induz a extinção do feito com base no art. 485, VI do CPC.
+Os Embargos de Declaração, foram assim julgados (fls. 478-479, e-STJ):
+Outrossim, também não procede a alegação de omissão no decisum embargado, por não constatar que o presente writ enfrenta e discute os efeitos concretos da aplicação das inconstitucionais alterações legislativas aqui combatidas.
+Ora, restou devidamente esclarecido no embargado que a suspensão da eficácia da LC nº 157/2016, após sua entrada em vigor, restaura a eficácia e a efetividade da LC nº 116/2013, sem as novas alterações trazidas,permanecendo o município do local da prestação efetiva do serviço de gestão e administração do plano de saúde investido na competência e capacidade tributária ativa para exigir o ISS.
+Nesse rumo, também ficou claro que o temor anteriormente afirmado pela embargante, perdeu a sua motivação, tendo em vista a superveniente restauração da eficácia normativa da norma anterior, que resultou a situação de inexistência de violação a direito líquido e certo ou ameaça de sofrer a parte impetrante, ora embargante, qualquer violação por parte do ente municipal, principalmente quando a eficácia da norma encontra-se suspensa, embora monocraticamente, por decisão da Suprema Corte deste país.
+É evidente que, para modificar o entendimento firmado no acórdão recorrido, seria necessário exceder as razões nele colacionadas, o que demandaria incursão no contexto fático-probatório dos autos, vedada em Recurso Especialconforme dispõe aSúmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+Nesse sentido:
+PROCESSUAL CIVIL. ACÓRDÃO COMBATIDO. FUNDAMENTO CONSTITUCIONAL.EXAME.INVIABILIDADE.MANDADODESEGURANÇA. INTERESSEDEAGIR. AUSÊNCIA. PROVA PRÉ-CONSTITUÍDA. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+1. É entendimento assente nesta Corte Superior que, examinada a matéria em debate sob o enfoque eminentemente constitucional, mostra-se inviável aanáliseda questão em sede de recurso especial, sob pena de usurpação da competência do STF. Precedentes.
+2. Hipótese em que o Tribunal de origem decidiu a controvérsia, referente à legitimidade das entidades associativas para fins de representação de seus associados em ação coletiva, mediante fundamentos eminentemente constitucionais, o que afasta a via especial para seu exame.
+3. A desconstituição do entendimento a que chegou o acórdão recorrido (que concluiu pela falta deinteressedeagirem razão da ausência de comprovação do direito líquido e certo da parte impetrante) demandaria o revolvimento do material fático-probatório dos autos, providência vedada em sede de recurso especial diante do óbice contido na Súmula 7 do STJ (a pretensão de simplesreexamede prova não enseja recurso especial).
+4. Agravo interno desprovido
+(AgInt nos EDcl no AREsp 1.858.099/GO, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 1º/7/2022)
+Ante o exposto, conheço do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à afronta aos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
