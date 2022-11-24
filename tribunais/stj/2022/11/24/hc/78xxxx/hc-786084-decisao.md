@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra decisão que não conheceu do writ de origem.
+Sustenta a Defesa que o paciente cumpre pena total de 16 anos, 2 meses e 28 dias e já cumpriu 3 anos, 6 meses e 21 dias da pena, ou seja, 21%.Afirma que o MPDFT, em 23/9/2022, manifestou-se favoravelmente à obtenção do benefício das saídas temporárias e teve deferido pelo Juízo da Vara de Execuções, em 8/11/22, os benefícios de trabalho externo e as saídas temporárias.
+Afirma que"como o prazo para intimação do presídio referente às saídas temporárias do paciente iniciou-se somente no dia 09/11/2022 e a saída temporária foi dia 17/11/2022, não foi viável cumprir o lapso temporal estabelecido nos autos, de 15 (quinze) dias, para dar efetivo cumprimento a decisão em razão da carência do aparato estatal, que causa demora excessiva e prejudica o direito do apenado (fl. 6).
+Afirma aindaque "não há razoabilidade na manutenção do cárcere de pessoa presa que teve seu requerimento de saída temporária concedido pelo juiz da execução, após previa manifestação, favorável, do Ministério Público" (fl. 8).
+Entende que não é proporcional impedir o paciente de usufruir o benefício em virtude do não cumprimento do lapso temporal de 15dias para intimação da unidade prisional.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus, para que seja determinada a expedição de alvará de soltura do paciente, para que usufrua do benefício da saída temporária.
+Com efeito, a competência do STJ é inaugurada, nos termos do art. 105, II, "a", da CF, com o esgotamento da instância ordinária, o que não ocorreu no caso, porquanto não submetida à análise do Tribunal de origem a apreciação das questões versadas na presente impetração, não sendo cabível a inauguração, per saltum, de irresignação junto a Tribunal Superior, suprimindo instância recursal.
+Não tendo havido, portanto, o esgotamento da instância de origem, descabe, ao Superior Tribunal de Justiça, a apreciação do pedido, sob pena de indevida supressão de instância. Nesse sentido, confiram-se:
+PROCESSUAL PENAL. HABEAS CORPUS NO TRIBUNAL DE ORIGEM. DECISÃO UNIPESSOAL DE DESEMBARGADOR NÃO CONHECENDO DO WRIT. FALTA DE ESGOTAMENTO DA INSTÂNCIA. NÃO CONHECIMENTO DA SÚPLICA NESTE STJ. PRECEDENTES. PRONÚNCIA. RECURSO EM SENTIDO ESTRITO. JUÍZO DE RETRATAÇÃO. FUNDAMENTAÇÃO INSUFICIENTE. NULIDADE. AUSÊNCIA.
+1 - Em que pese ser o habeas corpus via impugnativa e autônoma, tem suas hipóteses de cabimento na Constituição Federal, de modo que esta Corte Superior não tem competência para todo e qualquer pedido de constrangimento ilegal apresentado por meio do writ. Decisão singular de desembargador não se enquadra como ato coator de "tribunal". É preciso esgotar a instância ordinária por meio de agravo regimental.
+2 - A decisão proferida em sede de juízo de retratação, por ocasião da interposição do recurso em sentido estrito, não necessita ser minuciosamente fundamentada, não existindo nulidade no caso em análise. Precedentes deste Superior Tribunal de Justiça.
+3 - Agravo regimental não provido. (AgRg no HC 401.079/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/12/2017, DJe 12/12/2017)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. INDEFERIMENTO LIMINAR. ART. 210 DO RISTJ. ORDEM IMPETRADA CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. SUPRESSÃO DE INSTÂNCIA. INCOMPETÊNCIA DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. RECURSO DESPROVIDO.
+- Compete ao Superior Tribunal de Justiça apreciar habeas corpus impetrado nas hipóteses em que a autoridade coatora ou o paciente estejam indicados no art. 105, inciso I, alíneas a e c, da Constituição Federal.
+- No caso, o writ foi impetrado contra decisão monocrática de proferida por relator no Tribunal de origem, a qual não foi impugnada por recurso cabível, objetivando submeter a decisão à apreciação do órgão colegiado. Uma vez não esgotada a instância ordinária, é manifesta, portanto, a supressão de instância.
+Precedentes do STJ e do STF.
+- Agravo regimental desprovido. (AgRg no HC 332.057/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/03/2016, DJe 28/03/2016).
+Ante o exposto, não conheço dohabeas corpus.
+Publique-se.
+Intimem-se.
