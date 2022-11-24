@@ -1,0 +1,33 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por COMPANHIA DE SANEAMENTO AMBIENTAL DO DISTRITO FEDERALcontra decisão do Tribunal de Justiça do Distrito Federal e Territórios,que não admitiu recurso especial manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. PRECLUSÃO AFASTADA. PRÉVIA LIQUIDAÇÃO. DESNECESSÁRIA. MEROS CÁLCULOS ARITMÉTICOS.1. Tendo em vista que a matéria relacionada à prévia liquidação de sentença foi de fato analisada no bojo da decisão agravada, é possível a apreciação pretendida pela parte devedora no presente recurso.2. Não procede a alegação de que houve erro no procedimento adotado, uma vez que se fazia necessária a prévia liquidação da sentença. No caso, a apuração do valor dependia apenas de cálculos aritméticos, sendo possível a promoção, desde logo, do cumprimento de sentença, consoante estipula o artigo 509, §2º, do Código de Processo Civil, já que os valores referentes à restituição das quantias indevidamente cobradas são de fácil constatação.3. Negou-se provimento ao recurso. (e-STJ, fl. 1.113)
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos artigos 10, 494, 502, 503, 507, 508 e 509, todos do Código de Processo Civil, sustentando a ofensa à coisa julgada, ao argumento de que a sentença exequenda teria determinado a prévia liquidação.
+Contrarrazões apresentadas (e-STJ, fls. 1.177/1.183).
+É o relatório.
+Decido.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, analisando o acervo fático-probatório, a Corte de origem concluiu pela desnecessidade deliquidaçãoda sentença. Pontou o aresto que o quantum a que teria direito a parte recorrida poderia obtido por simplescálculos aritméticos. Nota-se:
+Isto porque, no caso, a apuração do valor dependia apenas de cálculos aritméticos, sendo possível a promoção, desde logo, do cumprimento de sentença, consoante estipula o artigo 509, §2º, do Código de Processo Civil, já que os valores referentes à restituição das quantias indevidamente cobradas são de fácil constatação.Desta forma, desnecessária a prévia liquidação da sentença. (e-STJ, fls. 1.109/1.110 - grifou-se)
+Dessa forma, aconclusão do acórdão impugnado no recurso especial de que a apuração dos valores devidos pode feita por simplescálculos aritméticos,sendodesnecessáriaaliquidaçãode sentença, não pode ser revista no âmbito do recurso especial, por demandar o reexame do conjunto fático-probatório dos autos (Súmulas 7/STJ).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. SUPLEMENTAÇÃO DE APOSENTADORIA. CUMPRIMENTO DE SENTENÇA. COMPARECIMENTO ESPONTÂNEO. INTIMAÇÃO TÁCITA. PRECEDENTES DO STJ. LIQUIDAÇÃO DE SENTENÇA. DESNECESSIDADE. REVISÃO. ÓBICE DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Na espécie, verifica-se que, ante a apresentação dos cálculos pelo credor, o juiz de primeiro grau determinou o cumprimento de sentença. Nesse passo, a agravante se antecipou e peticionou nos autos requerendo o procedimento de liquidação de sentença por perícia com fundamento na complexidade da matéria, ocasião em que a Corte estadual a considerou regularmente intimada, diante do comparecimento espontâneo.
+2. No que tange à validade da intimação, observa-se que o acórdão recorrido guarda consonância com o entendimento perfilhado por este Tribunal Superior, no sentido de que o comparecimento espontâneo torna inequívoca a ciência da decisão impugnada, suprindo, assim, a intimação da parte executada.
+3. A Corte de origem concluiu que a quantia a ser paga pela agravante poderia ser fixada mediante elaboração de cálculos aritméticos, sendo desnecessária a liquidação por artigos ou arbitramento. Desse modo, aferir se a liquidação de sentença deve ser efetivada por simples cálculo aritmético ou mediante liquidação por artigos na ação coletiva enseja o revolvimento do conjunto fático-probatório dos autos, providência que atrai o óbice da Súmula 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.330.364/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/6/2019, DJe de 25/6/2019 - grifou-se)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL. PREVIDÊNCIA PRIVADA. CUMPRIMENTO DE SENTENÇA.APURAÇÃO DO VALOR EXEQUENDO. MEROSCÁLCULOS ARITMÉTICOS. LIQUIDAÇÃOE PERÍCIA ATUARIAL. DESNECESSIDADE. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. Chegar a conclusão diversa acerca da desnecessidade de perícia atuarial para se apurar os valores devidos na fase decumprimento de sentença,pois bastaria simplescálculos aritméticos,demandaria o reexame de fatos e provas, o que é inadmissível na via especial, consoante a Súmula nº 7/STJ.
+2. Agravo regimental não provido.
+(AgRg no REsp n. 1.431.252/RS, relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/6/2014, DJe de 18/6/2014 - grifou-se)
+Ademais, quanto à alegação de violação à decisão surpresa, o Tribunal de origem ponderou que: "a determinação de apresentação de meros cálculos aritméticos em conformidade com regra legal expressa não constitui ofensa ao princípio da não surpresa, tendo sido o agravante intimado regularmente da referida decisão (ID 26136232 - Pág. 2)" (e-STJ, fl. 1.148).
+A norma veda adecisão surpresa,por efetiva violação do contraditório. Isso porque a efetividade das garantias da segurança jurídica, do contraditório e do devido processo legal depende da possibilidade de todos os interessados no resultado terem oportunidade de participar do debate a respeito dos fundamentos relevantes para a formação do convencimento do julgador, razão de ser da vedação às denominadasdecisões surpresa.
+Contudo, na hipótese dos autos, houve a prévia intimação da parte da decisão determinando a apresentação de meros cálculos aritméticos. Tal posicionamento não acarretou violação a não surpresa, notadamente porque a ora agravante estava ciente da determinação do Juízo.
+Sendo assim, o discordar das razões lançadas no aresto recorrido, inclusive no tocante à prolação de "decisão surpresa", desafia o revolvimento dos elementos de convicção postos no processo, o que é vedado a esta Corte Superior pelo óbice da Súmula 7 do STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. PRÉVIA LIQUIDAÇÃO. DESNECESSÁRIA. MEROS CÁLCULOS ARITMÉTICOS. REVISÃO. NÃO CABIMENTO. SÚMULA 7/STJ. DECISÃO SURPRESA. NÃO OCORRÊNCIA. INTIMAÇÃO REALIZADA. MATÉRIA FÁTICA E PROBATÓRIA DOS AUTOS. SÚMULA 7/STJ.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL.
