@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DANILO RICARDO LOPES CIPRIANO contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2033641-13.2021.8.26.0000.
+No presente writ, alega a Parte Impetrante a inépcia da denúncia, porquanto a sua narrativa não descreveu a "suposta grave ameaça exercida pelo Réu - ora Paciente - para tentar subtrair o aparelho celular da vítima" (fl. 6), inviabilizando o direito de defesa. Argumenta que a denúncia não pode ser vaga, omissa e deixar de descrever os elementos mínimos do fato criminoso, sob pena de extirpar do acusado os direitos constitucionais do devido processo legal, contraditório e ampla defesa. Requer, liminarmente e no mérito, seja declarada a inépcia formal da denúncia.
+É o relato do necessário. Decido.
+Em consulta aos andamentos da causa principal nositedo Tribunal de origem, constatei que após a presente impetração, o Juiz de primeiro grau proferiu sentença na qualcondenou o Paciente "ao cumprimento da pena de 2 (dois) anos de reclusão, em regime prisional inicial aberto, e ao pagamento de 10 (dez) dias-multa, no valor mínimo legal, pela prática do delito definido no artigo 157, caput, combinado com o artigo 14, inciso II, ambos do Código Penal".
+Assim, está superada a discussão sobre a viabilidade da acusação, pois ocorreu a cognição profunda e exauriente daconduta.
+Diante dessa situação, incide o entendimento consolidado na Súmula n. 648 deste Superior Tribunal de Justiça, que assim dispõe:"A superveniência da sentença condenatória prejudica o pedido de trancamento da ação penal por falta de justa causa feito emhabeas corpus."
+No mais, a eventualreforma dos termos do éditocondenatório de primeiro grau, seja para o reconhecimento de nulidades, seja para a absolvição ou redução das penas, agoradeverá ser analisada, acaso suscitadas as matérias, norecurso de apelação interposto pelo Sentenciado, por ser avia de impugnação com o espaço cognitivo adequado.
+Ante o exposto, JULGO PREJUDICADO o presentehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSO PENAL. ROUBO SIMPLES. TENTATIVA. INÉPCIA DA DENÚNCIA. PEDIDO DE TRANCAMENTO DO PROCESSO-CRIME. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. SÚMULA N. 648/STJ. COGNIÇÃO PROFUNDA E EXAURIENTE. DISCUSSÃO SOBRE A VIABILIDADE DA ACUSAÇÃO SUPERADA. EVENTUAL REFORMA DO ÉDITO DE PRIMEIRO GRAU QUE DEPENDE DA INTERPOSIÇÃO DE EVENTUAL RECURSO DE APELAÇÃO, VIA COM ESPAÇO COGNITIVO ADEQUADO. AUSÊNCIA SUPERVENIENTE DE INTERESSE. WRIT PREJUDICADO.
