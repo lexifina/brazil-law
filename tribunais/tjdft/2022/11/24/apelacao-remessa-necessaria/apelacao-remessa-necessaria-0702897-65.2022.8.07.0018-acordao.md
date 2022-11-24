@@ -1,0 +1,463 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+
+3ª Turma Cível
+
+Processo N.
+APELAÇÃO / REMESSA NECESSÁRIA 0702897-65.2022.8.07.0018
+
+APELANTE(S)
+MB STUDIO IMPORTACAO E COMERCIO LTDA
+
+APELADO(S)
+DISTRITO FEDERAL
+
+Relator
+Desembargador ROBERTO FREITAS FILHO
+
+Acórdão Nº
+1645451
+
+EMENTA
+
+APELAÇÃO E REEXAME NECESSÁRIO. MANDADO DE SEGURANÇA. TRIBUTÁRIO. ICMS-DIFAL PRINCÍPIO DA ANTERIORIDADE. RECURSO PROVIDO. SEGURANÇA CONCEDIDA. SEM MAJORAÇÃO DE HONORÁRIOS.
+
+1. a EC 87/2015, passou a prever a possibilidade de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações que destinem bens e serviços a consumidor final, contribuinte ou não do imposto, localizado em outro Estado (ICMS-DIFAL).  No entanto, como se sabe, para que o imposto possa ser instituído pelo ente federativo, não basta a previsão da materialidade econômica na Constituição Federal. O art. 146, inc. III, alínea ‘a’, e, mais especificamente em relação ao ICMS, o art. 155, §2º, inc. XII, alínea ‘a’, ambos da Constituição Federal, impõem que lei complementar defina as normas gerais dos impostos. A mera existência de competência tributária é insuficiente para validar a cobrança de tributo. Assim, em 5 de janeiro 2022, foi publicada a LC n. 190, que alterou a Lei Kandir (LC 87/96), regulamentando, então, a incidência do tributo e possibilitando a instituição do ICMS-DIFAL pelos entes federativos por lei estadual/distrital.
+
+2. Frisa-se que, quando do julgamento do Tema 1.093, não houve a declaração da inconstitucionalidade da Lei Estadual/Distrital. Na realidade, a Corte Suprema tão somente suspendeu a sua eficácia até a edição da Lei Complementar nº 190/22.  Nesse cenário, a edição de lei complementar a veicular normas gerais acerca do diferencial de alíquotas, constitui requisito formal, condição de eficácia, para a cobrança do tributo, e exatamente por esta razão foi proclamada pelo Supremo Tribunal Federal a validade das leis estaduais e do tributo em si.
+
+3. o STF, no julgamento do RE 439.796, sob a sistemática da repercussão geral (Tema 171), e sob relatoria do Min. Joaquim Barbosa, entendeu ser constitucional a alteração realizada pela EC 33/2001, que estabeleceu a incidência de ICMS sobre importação feita por quem não é comerciante, devendo a legislação infraconstitucional, porém, obedecer ao devido fluxo de positivação para o exercício da competência tributária, qual seja: 1) autorização constitucional para o exercício da competência tributária; 2) existência de lei complementar estabelecendo as normas gerais relativas ao imposto, nos termos dos art. 146, inc. III, e 155, §2º, inc. XII, aliena ‘a’, da CF; e 3) lei ordinária instituindo a exação, contendo todos os elementos indispensáveis à correta identificação do fato gerador da obrigação tributária, do sujeito passivo e do montante a ser pago.
+
+4. Em seguida, a Corte Suprema, no julgamento do RE nº 1.221.330/SP, sob a sistemática dos recursos repetitivos (Tema 1.094), sob a Relatoria do Ministro Luiz Fux, o qual foi voto vencido, vez que reafirmou o entendimento esposado no Tema 171, acima indicado, estabeleceu que leis estaduais/distritais, promulgadas depois da EC 33/01, mas antes da LC 114/02 (ou seja, entre a vigência dos dois diplomas), também são válidas. O Ministro Alexandre de Moraes, redator do voto vencedor, justificou o referido entendimento sob a premissa de que "no julgamento do Tema 171 não houve debate acerca da possibilidade (ou não) de lei local instituir o tributo após a EC 33/01, porém antes da LC 114/02".
+
+5. Numa interpretação sistemática das decisões expostas nos Temas 171 e 1.094, há um fluxo de positivação para o exercício da competência tributária, mas que a edição de uma lei ordinária de competência estadual/distrital que institui o tributo, anterior à lei complementar, na qualidade de norma geral de competência da união, não configura caso de “constitucionalização superveniente”, mas de mera condição de eficácia de norma constitucionalmente válida. Desta forma, a constituição do crédito tributário somente é válida, se a incidência do tributo, especificamente o ICMS, atender à presença concomitante de três requisitos: 1) a existência de competência constitucional, 2) o exercício dessa competência pela União, resultante em norma geral em matéria tributária e o 3) exercício de competência por cada um dos estados-membros e pelo Distrito Federal, na instituição da regra-matriz de incidência tributária.
+
+6. Vale ressaltar ainda que o STF, no julgamento do Tema 1.093, de forma sui generis, admitiu a eficácia da lei ordinária instituidora da matriz de incidência tributária, promulgada antes da norma geral regulamentadora, declarando a inconstitucionalidade da cobrança do tributo para o futuro, ou seja, os entes federados poderiam cobrar o tributo até 31/12/2021, ressalvados os contribuintes que tinham ações judicias em curso até a data do julgamento que se deu em fevereiro de 2021, estabelecendo a obrigatoriedade da feitura de lei complementar que regulamente o ICMS DIFAL para que haja a plena cobrança no ano fiscal de 2022. Por consequência, criou-se duas figuras de contribuintes, os que por terem ações judiciais em curso questionando a validade da cobrança, anteriores ao julgamento do Tema 1.093, ou seja, fevereiro de 2021, cuja inconstitucionalidade da cobrança foi imediatamente declarada e os que não se encontravam na exceção, cuja cobrança foi permitida até 31.12.2021. Sendo assim, apesar da permissividade da cobrança do tributo pelo STF, tal situação era excepcional e a edição de lei complementar regulamentadora da cobrança do ICMS-DIFAL completaria o fluxo de positivação, concedendo plena validade e eficácia para a cobrança do tributo. Caso não o fizesse, a cobrança restaria constitucionalmente inválida a partir de 1º de janeiro de 2022.
+
+7. A promulgação da Lei Complementar n. 190/2022, se equivale à instituição de tributo, no aspecto da composição do fluxo de positivação, o que impõe a observância da anterioridade anual, somente autorizando a cobrança de DIFAL/ICMS a partir do exercício financeiro de 2023, não estando o ICMS inserido nas hipóteses de exceção de incidência da anterioridade previstas no art. 150, §1º, da CF.
+
+8. A LC nº 190/2022 ao definir uma nova categoria de contribuintes do imposto, especificamente no art. 4º, § 2º, criou uma inédita relação jurídico-tributária, de modo que para essa novel categoria de contribuintes, o imposto, que antes da edição da referida lei complementar, não era constitucionalmente exigível. Por consequência, além de aumento da caga tributária, a norma geral também implica na criação de um novo tributo. Destaque-se que as inovações da lei que possuem a natureza de criação e aumento de tributo também estão presentes no art. 12, incs XIV, XV e XVI (quando definem novos fatos geradores) e no art. 13, incs. IX e X e §§ 3º, 6º e 7º (definição da base de cálculo).
+
+9. Registre-se, assim, que somente a partir da vigência da Lei Complementar mencionada, a Lei Distrital nº 5.546/2015 poderia surtir efeitos jurídicos, ou seja, no momento em que concluiu o fluxo de positivação, o que à evidência é o marco inicial para incidência dos princípios de anterioridade anual e nonagesimal, por força do que expressamente dispõe o art. 150, inc. III, alineas "b" e "c" da Constituição Federal.
+
+10. Apelação e Reexame Necessário providos. Segurança concedida. Em observância ao quanto decidido nos autos da Suspensão de Segurança nº. 0706978-14.2022.8.07.0000,este entendimento somente produzirá efeitos a partir do trânsito em julgado desta ação, na forma do art. 4º, §9º, da Lei 8.437/1992.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 3ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, ROBERTO FREITAS FILHO - Relator, LUÍS GUSTAVO B. DE OLIVEIRA - 1º Vogal, ANA MARIA FERREIRA DA SILVA - 2º Vogal, FÁTIMA RAFAEL - 3º Vogal e MARIA DE LOURDES ABREU - 4º Vogal, sob a Presidência do Senhor Desembargador LUÍS GUSTAVO B. DE OLIVEIRA, em proferir a seguinte decisão: CONHECER DA APELAÇÃO E DA REMESSA NECESSÁRIA, REJEITAR AS PRELIMINARES E, NO MÉRITO, DAR-LHES PROVIMENTO, MAIORIA. QUÓRUM COMPLEMENTADO (ART. 942 DO CPC 20125), de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 02 de Dezembro de 2022
+
+Desembargador ROBERTO FREITAS FILHORelator
+
+RELATÓRIO
+
+Trata-se de reexame necessário e recurso de apelação interposto por MB STUDIO IMPORTACAO E COMERCIO LTDA em face da sentença proferida nos autos do mandado de segurança preventivo em epígrafe que concedeu parcialmente a segurança (ID 39001481).
+
+Adoto o relatório do Juízo a quo por representar com fidedignidade os fatos ocorridos em Primeira Instância:
+
+Trata-se de Mandado de Segurança preventivo impetrado por MB STUDIO IMPORTACAO E COMERCIO LTDA - EPP contra eventual ato do DIRETOR DO DEPARTAMENTO DE ARRECADAÇÃO E TRIBUTAÇÃO DA SUBSECRETARIA DA RECEITA e do SUBSECRETÁRIO DA RECEITA DA SECRETARIA EXECUTIVA DA FAZENDA DA SECRETARIA DE ESTADO DE ECONOMIA DO DISTRITO FEDERAL.
+
+A Impetrante afirma ser pessoa jurídica de direito privado que realiza venda de mercadorias para consumidores finais, não contribuintes de ICMS, localizados no Distrito Federal. Diante disso, assevera que o Distrito Federal faz incidir o diferencial de alíquota do ICMS (ICMS-DIFAL) e o percentual relativo ao Fundo de Combate e Erradicação da Pobreza - FPC sobre essas operações.
+
+Todavia, defende que a cobrança é ilegal e inconstitucional, vez que a Lei Complementar nº 190, regulamentadora da matéria, só foi publicada no corrente ano (2022), e que, além disso, a lei distrital, que rege a matéria no âmbito do Distrito Federal, foi declarada inconstitucional pelo Supremo Tribunal Federal (STF), por ocasião do julgamento do RE nº 1.287.019/DF (Tema nº 1.093 da Repercussão Geral). Assim, não haveria lei local para justificar a exação.
+
+Outrossim, afirma que não há lei local posterior à publicação da suso indicada lei complementar, o que, na visão da impetrante, impossibilitaria as cobranças. Nesse passo, defende a violação dos princípios da legalidade tributária, e da anterioridade tributária (anual e nonagesimal).
+
+Tece arrazoado jurídico.
+
+Ao final requer: a) a concessão de liminar para: a.1) suspender o recolhimento do ICMS-DIFAL e do FCP no ano de 2022; a.2) determinar à autoridade coatora que não aplique nenhuma penalidade pela falta de recolhimento do ICMS-DIFAL e do FCP, tais como: apreensão de mercadorias da Impetrante na barreira fiscal; lavratura de auto de infração; inscrição dos valores na dívida ativa; inscrição da Impetrante nos cadastros de proteção ao crédito (SERASA, SPC, CADIN etc); negar a expedição de certidão positiva com efeitos de negativa; cancelamento do cadastro estadual; entre outros; b) no mérito, a concessão da segurança para, confirmando-se a liminar, assegurar à Impetrante : b.1) o não recolhimento do ICMS-DIFAL e do FCP no ano de 2022; b.2) a compensação, o lançamento dos créditos de ICMS em conta gráfica referente aos valores indevidamente recolhidos a título de ICMS-DIFAL e FCP, ou, a restituição desses valores (administrativa ou judicialmente).
+
+Com a inicial foram juntados os documentos de ID's nº 118435416 a 118435427.
+
+Decisão de ID nº 118573364 deferiu a liminar em caráter estrito ao período de tempo envolvendo os quatro primeiros dias de 2022. Na oportunidade, ainda, foi determinada a intimação da Autoridade Coatora para apresentação das informações, bem assim do Distrito Federal e, por fim, do MPDFT, para oferta de parecer.
+
+INFORMAÇÕES apresentadas sob o ID nº 119325204. Na oportunidade, a autoridade impetrada argumentou o seguinte:
+
+"(...) Com o advento da EC 87/2015, possibilitou-se a exigência do DIFAL nas operações mercantis interestaduais promovidas por contribuintes ou não do ICMS. Em fevereiro de 2021, a Suprema Corte reconheceu a inconstitucionalidade da cobrança do diferencial, ao entendimento de que havia necessidade de uma lei complementar regulamentadora acerca da cobrança do DIFAL e que o convênio do CONFAZ não substitui tal requisito. O STF, em sua decisão, modulou os efeitos para 01/01/2022, determinando que a cobrança a partir dessa data somente seria possível com a edição da lei complementar a que a cobrança até então seria considerada constitucional. A publicação da Lei Complementar nº 190/2022 ocorreu em 05/01/2022, o que nos leva ao entendimento de que o período de 01/01/2022 a 04/01/2022, de fato, não há que se falar em exigência do DIFAL, em observância à decisão da Suprema Corte. Quanto à questão da possível aplicação (ou não) do princípio da anterioridade ordinária e da nonagesimal ao caso, entendemos, com a máxima vênia, a considerar que não detemos a atribuição para adentrarmos questões meramente jurídicas, que o art. 3º Lei Complementar nº 190/2022 esta eivado de inconstitucionalidade, nos termos decididos pela 1ª Vara da Fazenda Pública do DF. (...) Tais princípios, o da anterioridade ordinária e da nonagesimal, estão previstos na Carta Magna e entendemos, igualmente, que não cabe à lei infraconstitucional, in casu, uma lei complementar, fazer previsões acerca de sua aplicabilidade. Segundo a Carta/88, o princípio da anterioridade deve ser aplicada na criação de tributos e no aumento de tributos. Acrescente-se ainda uma terceira hipótese, que deve ser aplicado para os casos de revogação de benefícios fiscais, de acordo com entendimento firmado no STF. Ora, não se está diante de nenhuma das hipóteses mencionadas. O princípio da anterioridade também como princípio da 'não surpresa' se presta, como o nome já diz, a evitar que o contribuinte seja surpreendido com a criação de tributos, seu aumento ou, ainda, revogação de benefícios. No caso sob análise, nada foi alterado com a novel lei complementar. Não há imposto novo. Não há majoração da alíquota. (...) Não há como sustentar uma possível 'surpresa' quando a exigência do DIFAL ocorre desde 2015. Há, notadamente, uma tentativa de distorcer a essência do princípio da anterioridade. (...) Percebe-se que o diferencial de alíquotas é somente uma sistemática de distribuição e adequação do ICMS. Não há prejuízo financeiro a nenhum contribuinte, uma vez que o pagamento do imposto deve ocorrer de qualquer maneira. O que se discute entre as Unidades da Federação é como esse imposto será distribuído entre eles, não atingindo sequer o contribuinte. Dentro do contexto das informações ora prestadas, relevante destacar que o Estado de Alagoas já manejou, inclusive, uma Ação Direta de Inconstitucionalidade (a ADI 7070), buscando a discussão, justamente, sobre a validade jurídica do art. 3º da Lei Complementar nº 190/2022. (...) Nesse contexto, como dito, se já havia previsão de sua cobrança com a EC 87/2015, a materialidade da cobrança sempre teve amparo na Carta de 88, o que ratifica a ideia de que não 'surpresa' nenhuma em sua exigência. O argumento de que se deve observar o princípio da anterioridade é mera retórica jurídica que tem como objetivo deixar de recolher o ICMS para o ano corrente (lembrando que o recolhimento é devido, discutindo-se somente a distribuição do imposto).(...)"
+
+Em seguida, ao ID nº 119393494, o MPDFT se manifestou no sentido de não vislumbrar interesse jurídico que justifique a sua intervenção na causa.
+
+O Distrito Federal, por sua vez, ao ID nº 119594285, o Distrito Federal requereu seu ingresso no feito, e apresentou resposta ao mandamus. Preliminarmente, defendeu a inexistência de ato coator, o não cabimento de Mandado de Segurança contra lei em tese (Súmula 266 STF), e a ausência de comprovação da assunção do encargo financeiro ou de autorização expressa para a restituição.
+
+No mérito, o Ente Distrital argumenta, ainda, que
+
+"(...) eventual impedimento à exigência do DIFAL/ICMS no exercício de 2022 trará uma distorção brutal ao comércio do País, com gigantescos prejuízos diretos para os comerciantes (individuais e pessoas jurídicas) estabelecidos em solo distrital. De fato, aqueles sediados nos demais Estados da Federação (como é o caso da impetrante) poderão remeter para o Distrito Federal produtos mediante pagamento de ICMS com enorme redução, lembrando que deverão recolher esse tributo apenas para o Estado de origem, por sua alíquota interestadual, estabelecida em, no máximo, 12% (vide Resolução 22/1989 do Senado Federal). Por outro lado, os comerciantes sediados no DF terão de vender seus produtos com pagamento do ICMS pela alíquota interna (praticada no DF) cheia, que, para alguns bens, chega a 29%, como é o caso das bebidas alcoólicas (vide art. 18, inciso II, alínea  'g', item 1 da Lei Distrital 1.254/96), ou seja, uma abissal diferença de 17% na carga tributária que pesará sobre uma mesma mercadoria, pelo simples fato de ser vendida pelos comerciantes do DF. Mas não é só. No caso de mercadorias advindas do exterior, a distorção será ainda maior, lembrando que a alíquota interestadual para referidos produtos é de apenas 4%, nos termos da Resolução 13/2012 do Senado Federal. Nesse cenário, evidente que os contribuintes do ICMS localizados em outras unidades federadas, praticando a venda dos mesmíssimos produtos, receberão benefício tributário totalmente indevido, frente aos seus concorrentes sediados no DF, em evidente afronta ao princípio constitucional da isonomia (art. 5º, caput da CF), de contornos ainda mais rígidos em se tratando de matéria tributária (art. 150, inciso II, da CF). Quebra-se a isonomia, por tratamento desigual, tanto quando o tributo é exigido de quem não demonstra capacidade contributiva, como quando não se exige de quem a manifesta. (...)"
+
+Demais disso, sustenta que há inconstitucionalidade no art. 3º da Lei Complementar nº 90/2022, que prevê hipótese de aplicação da anterioridade nonagesimal não prevista na Constituição.
+
+Com isso, requereu o acolhimento das preliminares e, caso ultrapassadas, pugnou pela denegação da ordem.
+
+Sobreveio sentença cujo dispositivo foi proferido nos seguintes termos:
+
+Ante o exposto, e confirmando a liminar, CONCEDO PARCIALMENTE A SEGURANÇA para, confirmando a liminar, unicamente, e confirmando a liminar anteriormente deferida, assegurar à impetrante o direito de não sofrer exação do ICMS-DIFAL, com base na Lei Complementar nº 190/2022, em relação aos primeiros quatro dias do corrente ano (até 04/01/2022), e os efeitos correlatos ao mencionado período.
+
+Sem condenação em honorários, em vista do disposto no art. 25, da Lei nº 12.016/2009 e nas Súmulas 105/STJ e 512/STF.
+
+Sentença sujeita ao duplo grau de jurisdição obrigatório, em observância ao art. 14, §1º, da suso indicada lei,
+
+Ato judicial registrado na presente data.
+
+O Magistrado sentenciante fundamenta sua decisão sob o argumento de que:
+
+1) “Não se deve aplicar nenhum dos dois princípios, nem a anterioridade ordinária, nem a anterioridade nonagesimal, em que pese o disposto no artigo 3º da LC 190/22, ora incidentalmente declarado inconstitucional. É que ambos os princípios têm base constitucional (artigo 150, III, alíneas “b” e “c”) e é a própria CF que diz quando são aplicados”.
+
+2) “não há surpresa na incidência do ICMS-DIFAL para o caso dos contribuintes não habituais! Não é uma nova realidade tributária enfrentada pelos contribuintes, e não é um desavisado incremento em suas despesas e operações cotidianas. A norma declarada inconstitucional vinha produzindo efeitos até o final de 2021, por modulação do entendimento do STF, na esperança de que o legislador editasse a competente lei complementar”;
+
+3) “a tese de não pagamento do DIFAL no exercício de 2022 contém uma inconstitucionalidade material latente, qual seja a violação à "redução das desigualdades regionais", prevista no artigo 3º do texto constitucional”;
+
+4) “com as devidas vênias aos defensores da tese contrária à incidência do ICMS-DIFAL já no ano de 2022, a firmação desse posicionamento aumentaria, ainda mais, o desequilíbrio existente entre as Unidades da Federação e, consequentemente, a realidade da população dos estados menos desenvolvidos economicamente”;
+
+5) “o Poder Judiciário não declarou a inconstitucionalidade das leis locais que versam sobre a matéria, inclusive a editada pelo Distrito Federal. Essas leis, em verdade, só necessitavam de um suporte legislativo de maior robustez, ou seja, de uma Lei Complementar Nacional que regulamentasse a matéria. E como já dito, ela veio e está vigente”.
+
+A Impetrante, MB STUDIO IMPORTACAO E COMERCIO LTDA, apela. Nas suas razões alega que:
+
+1) “o consignado pela v. Sentença encontra-se em sentido contrário ao já definido pelo e. Supremo Tribunal Federal em sede de repercussão geral, eis que ao analisar o Tema nº 1.093 a e. Suprema Corte reconheceu a inconstitucionalidade, também, das leis estaduais e distrital que tratavam do DIFAL-ICMS, de modo que a manutenção da exigência em comento afronta o princípio da legalidade”;
+
+2) “a publicação da Lei Complementar nº 190/2022 não torna válida a exigência dos valores do imposto estadual a partir da sua publicação (05/01/2022), vez que é necessário que haja lei local publicada após o advento da LC supracitada, em respeito ao Fluxo de Positivação (CF→LC→Lei distrital)”;
+
+3) “também não prospera o consignado quanto a impossibilidade de aplicação do princípio da anterioridade (exercício e nonagesimal) no caso vertente, vez que o advento da LC nº 190/2022 acarretou em efetiva instituição de tributo, não podendo-se afastar as limitações ao poder de tributar dispostas pelo texto constitucional”;
+
+4) “Reconhecido o direito da Apelante de não se sujeitar ao DIFAL-ICMS e FCP exigido pelo Distrito Federal, imperioso que seja reconhecido, também, o seu direito de ser ressarcida dos valores recolhidos a título das referidas exações, em conformidade com o disposto no art. 165, do Código Tributário Nacional. Outrossim, o disposto no art. 66 da Lei nº 8.383/1991 e no art. 74 da Lei nº 9.430/1996 também asseguram o direito ao ressarcimento dos valores pagos indevidamente”.
+
+Por fim, requer:
+
+a)          assegurar à Apelante, o direito líquido e certo de: (i) não se sujeitar ao recolhimento do DIFAL-ICMS e FCP nas operações com consumidor final não contribuinte do imposto localizado no Distrito Federal, em decorrência da violação ao princípio da legalidade tributária e ao fluxo de positivação do ICMS (falta de lei estadual dispondo sobre o DIFAL após a LC n° 190/2022); (ii) sucessivamente, afastar a cobrança do DIFAL-ICMS no ano-calendário de 2022 em respeito ao princípio da anterioridade anual; (iii) sucessivamente, impedir a exigência do DIFAL-ICMS e FCP antes do transcurso de 90 (noventa) dias da publicação da Lei Complementar n° 190/2022 pelo princípio da anterioridade nonagesimal-noventena;
+
+b)          assegurar o direito da Apelante à compensação, lançamento dos créditos de ICMS em conta gráfica referente aos valores indevidamente pagos a título de DIFAL-ICMS e FCP no Distrito Federal e/ou restituição em espécie (administrativa ou judicial), devidamente atualizados;
+
+c)          reconhecer o direito da Apelante ao ressarcimento de todas as custas e despesas processuais.
+
+Apresentadas contrarrazões (ID 10530830), na qual aduz, preliminarmente, a ilegitimidade ativa e a inequação da via eleita. No mérito, requer que o recurso voluntário seja desprovido, mantendo-se a sentença recorrida, sob o argumento de que:
+
+“a Lei Complementar n. 190/2022 meramente regula a matéria do ICMS/DIFAL, sem instituir ou majorar tributo, o qual já fora instituído pela Lei Distrital 5.546/2015;
+
+o STF, no julgamento do Tema n. 1.093, não anulou a lei distrital ordinária que ampara a cobrança do ICMS/DIFAL, mas apenas suspendeu sua eficácia até edição de lei complementar federal, sem afastar sua validade; e
+
+Previsto no art. 150, inciso III, alíneas “b” e “c”, da Constituição Federal, a anterioridade é limitação tributária com objetivo de proteger o contribuinte de tributação nova, criada na virada de fim de ano fiscal ou com aplicabilidade imediata”.
+
+O Ministério Público manifestou desinteresse na intervenção no feito (ID 39036739.
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador ROBERTO FREITAS FILHO - Relator
+
+Trata-se de reexame necessário e recurso de apelação interposto por MB STUDIO IMPORTACAO E COMERCIO LTDA em face da sentença proferida nos autos do mandado de segurança preventivo em epígrafe que concedeu parcialmente a segurança, determinando a incidência do ICMS DIFAL a partir de 05/01/2022.
+
+Passo a análise das preliminares arguidas em contrarrazões.
+
+Ilegitimidade Ativa
+
+O Distrito Federal alega que a legitimidade para pleitear eventual restituição deve obedecer ao disposto no art. 166 do CTN, que condiciona a restituição – ou, no caso, também a declaração de não incidência futura – à comprovação de ausência de repasse do encargo financeiro, ou de expressa autorização daquele que efetivamente o suportou, o que não foi realizado pela Impetrante.
+
+Não se vislumbra, contudo, a ilegitimidade ativa para questionar a incidência da cobrança de ICMS DIFAL. Com efeito, o tema relativo à existência ou não de direito líquido e certo passível de tutela judicial diz respeito ao meritum causae da pretensão mandamental.
+
+Ademais, as Impetrantes, por comercializarem mercadorias para consumidores finais não contribuintes do imposto, devem, a priori, arcar com o pagamento do imposto em questão, tendo, portanto, interesse processual em contestar sua cobrança, sobretudo considerando as manifestações do ente federativo nos próprios autos.
+
+Assim, não havendo óbice para o manejo do presente remédio, não há de se cogitar em falta de legitimidade e interesse processual da Impetrante.
+
+Da Adequação da Via Eleita
+
+Segundo dispõe o art. 5º, inciso LXIX, da Constituição Federal, “conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, quando o responsável pela ilegalidade ou abuso de poder for autoridade pública ou agente de pessoa jurídica no exercício de atribuições do Poder Público.” Nesse mesmo sentido também é a disposição contida no art. 1° da Lei 12.016/09 ao estabelecer que “conceder-se-á mandado de segurança para proteger direito líquido e certo, não amparado por habeas corpus ou habeas data, sempre que, ilegalmente ou com abuso de poder, qualquer pessoa física ou jurídica sofrer violação ou houver justo receio de sofrê-la por parte de autoridade, seja de que categoria for e sejam quais forem as funções que exerça”.
+
+Assim, a ação constitucional de mandado de segurança para ser manejada, precisa ser lastreada com provas pré-constituídas do direito líquido e certo relativo a alegada violação ou do eventual receio de sofrê-la.
+
+No caso em questão, o presente mandamus foi impetrado em caráter preventivo contra ato a ser praticado pela Autoridade Coatora, especificamente a exação referente ao ICMS-DIFAL, com fundamento na Lei Complementar nº 190/2022, no intuito de proteger o alegado direito líquido e certo da empresa Impetrante em não sofrer a cobrança do referido imposto com fundamento na legislação ora editada no corrente ano, invocando-se para tanto o princípio constitucional da anterioridade tributária.
+
+Embora não se admita a impetração de Mandado de Segurança contra Lei em tese, a edição do novo diploma dispondo sobre tributação gera a presunção de que a autoridade tributante irá aplicá-la, presunção essa reforçada pela defesa realizada nos presentes autos pelo ente público.
+
+Afasto as preliminares aventadas.
+
+O cerne da controvérsia gira em torno da possibilidade de cobrança do diferencial de alíquotas de ICMS sobre as operações interestaduais de aquisição realizadas pelas impetrantes no ano de 2022.
+
+Sobre a questão, tem-se que a autorização para criar o tributo se deu pela Emenda Constitucional nº 87/2015, sendo que a instituição do tributo (ICMS-DIFAL) pelo Distrito Federal ocorreu por ocasião da promulgação da Lei  Distrital nº 5.546/2015, que alterou Lei Distrital n. 1.254/1996 que dispõe sobre o imposto sobre circulação de mercadorias e serviços – ICMS.
+
+Sob o fundamento de que apenas Lei Complementar poderia abordar a questão, várias ações foram ajuizadas perante os Tribunais, o que culminou na apreciação do tema pelo Supremo Tribunal Federal no RE nº 1.287.019/DF, submetido à sistemática da Repercussão Geral, sob o Tema 1.093, fixando a seguinte tese: “A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais”.
+
+De outro lado, a ADI nº 5.469, de relatoria do Ministro Dias Toffoli, foi julgada procedente, com a consequente declaração de inconstitucionalidade formal das cláusulas 1ª, 2ª, 3ª, 6ª e 9ª do Convênio ICMS n.º 93/2015 – SEFAZ.
+
+Portanto, no que se refere à questão em comento, extrai-se dos julgados citados, que: a) o STF, no julgamento do RE 1.287.019/DF (representativo da controvérsia) assentou que é indevida a cobrança do DIFAL-ICMS, em operações interestaduais que envolva transação efetivada com consumidor final não contribuinte, por ausência de lei complementar regulamentadora; b) o STF, no julgamento da ADI 5.469/DF, fixou que Convênio interestadual não pode suprir a ausência de lei complementar dispondo sobre obrigação tributária, contribuintes, bases de cálculo/alíquotas e créditos de ICMS nas operações ou prestações interestaduais; e c) são inconstitucionais as cláusulas primeira, segunda, terceira, sexta e nona do Convênio ICMS n. 93, de 17 de setembro de 2015, do Conselho Nacional de Política Fazendária (CONFAZ), por invasão de campo próprio de lei complementar federal.
+
+Verifica-se que, mesmo diante de existência de Lei Distrital que regulamentava a cobrança do imposto (ICMS-DIFAL), a produção dos efeitos se submeteria à edição de Lei Complementar Federal que dispusesse regras gerais sobre a matéria, o que somente veio a ocorrer com a publicação da Lei Complementar nº 190, de 04 de janeiro de 2022.
+
+Frisa-se que, quando do julgamento do Tema 1.093, não houve a declaração da inconstitucionalidade da Lei Estadual/Distrital. Na realidade, a Corte Suprema tão somente suspendeu a sua eficácia até a edição da Lei Complementar nº 190/22.
+
+Nesse cenário, a edição de lei complementar a veicular normas gerais acerca do diferencial de alíquotas, constitui requisito formal, condição de eficácia, para a cobrança do tributo, e exatamente por esta razão foi proclamada pelo Supremo Tribunal Federal a validade das leis estaduais e do tributo em si.
+
+Em suma, a EC 87/2015, passou a prever a possibilidade de cobrança do imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação incidente sobre as operações e prestações que destinem bens e serviços a consumidor final, contribuinte ou não do imposto, localizado em outro Estado (ICMS-DIFAL).
+
+No entanto, como se sabe, para que o imposto possa ser instituído pelo ente federativo, não basta a previsão da materialidade econômica na Constituição Federal. O art. 146, inc. III, alínea ‘a’, e, mais especificamente em relação ao ICMS, o art. 155, §2º, inc. XII, alínea ‘a’, ambos da Constituição Federal, impõem que lei complementar defina as normas gerais dos impostos. A mera existência de competência tributária é insuficiente para validar a cobrança de tributo. Assim, em 5 de janeiro 2022, foi publicada a LC n. 190, que alterou a Lei Kandir (LC 87/96), regulamentando, então, a incidência do tributo e possibilitando a instituição do ICMS-DIFAL pelos entes federativos por lei estadual/distrital.
+
+A questão que exsurge então é a eventual incidência do princípio da anterioridade tributária, prevista no art. 150, inc. III, alíneas ‘b’ e ‘c’ da CF.
+
+Inicialmente, vale ressaltar que o STF, no julgamento do RE 439.796, sob a sistemática da repercussão geral (Tema 171), e sob relatoria do Min. Joaquim Barbosa, entendeu ser constitucional a alteração realizada pela EC 33/2001, que estabeleceu a incidência de ICMS sobre importação feita por quem não é comerciante, devendo a legislação infraconstitucional, porém, obedecer ao devido fluxo de positivação para o exercício da competência tributária, qual seja: 1) autorização constitucional para o exercício da competência tributária; 2) existência de lei complementar estabelecendo as normas gerais relativas ao imposto, nos termos dos art. 146, inc. III, e 155, §2º, inc. XII, aliena ‘a’, da CF; e 3) lei ordinária instituindo a exação, contendo todos os elementos indispensáveis à correta identificação do fato gerador da obrigação tributária, do sujeito passivo e do montante a ser pago.
+
+Assim, segundo o entendimento do Plenário do STF, naquela ocasião, o ciclo de positivação não se encerra com a Constituição. Para o surgimento da obrigação tributária, são necessárias a alteração da norma geral e a instituição de regra local, ambas posteriores à nova redação constitucional, ora implementada pela EC 33/2001. A previsão somente no texto constitucional não significa a exigência automática do tributo, sob pena de afronta ao princípio da legalidade tributária.
+
+Em seguida, a Corte Suprema, no julgamento do RE nº 1.221.330/SP, sob a sistemática dos recursos repetitivos (Tema 1.094), sob a Relatoria do Ministro Luiz Fux, o qual foi voto vencido, vez que reafirmou o entendimento esposado no Tema 171, acima indicado, estabeleceu que leis estaduais/distritais, promulgadas depois da EC 33/01, mas antes da LC 114/02 (ou seja, entre a vigência dos dois diplomas), também são válidas.
+
+O Ministro Alexandre de Moraes, redator do voto vencedor, justificou o referido entendimento sob a premissa de que "no julgamento do Tema 171 não houve debate acerca da possibilidade (ou não) de lei local instituir o tributo após a EC 33/01, porém antes da LC 114/02". Confira-se:
+
+“I - Após a Emenda Constitucional 33/2001, é constitucional a incidência de ICMS sobre operações de importação efetuadas por pessoa, física ou jurídica, que não se dedica habitualmente ao comércio ou à prestação de serviços, devendo tal tributação estar prevista em lei complementar federal.
+
+II - As leis estaduais editadas após a EC 33/2001 e antes da entrada em vigor da Lei Complementar 114/2002, com o propósito de impor o ICMS sobre a referida operação, são válidas, mas produzem efeitos somente a partir da vigência da LC 114/2002"
+
+Ao fixar a nova tese (tema 1.094), o STF não afastou o entendimento esposado no tema 171. Ou seja, existiria uma aparente antinomia entre os dois entendimentos a respeito da incidência do ICMS em importações efetuadas por pessoa física e jurídica, nos aspectos da validade e eficácia de leis estaduais/distritais, vez que, no primeiro julgamento deve-se obedecer ao devido fluxo de positivação para o exercício da competência tributária, e, no segundo, que leis estaduais/distritais, promulgadas depois da EC 33/01, mas antes da LC 114/02 (ou seja, entre a vigência dos dois diplomas), também são válidas.
+
+Contudo, observa-se que, numa interpretação sistemática das decisões expostas nos Temas 171 e 1.094, há um fluxo de positivação para o exercício da competência tributária, mas que a edição de uma lei ordinária de competência estadual/distrital que institui o tributo, anterior à lei complementar, na qualidade de norma geral de competência da união, não configura caso de “constitucionalização superveniente”, mas de mera condição de eficácia de norma constitucionalmente válida.
+
+Desta forma, a constituição do crédito tributário somente é válida, se a incidência do tributo, especificamente o ICMS, atender à presença concomitante de três requisitos: 1) a existência de competência constitucional, 2) o exercício dessa competência pela União, resultante em norma geral em matéria tributária e o 3) exercício de competência por cada um dos estados-membros e pelo Distrito Federal, na instituição da regra-matriz de incidência tributária.
+
+Assim, no caso do ICMS, a norma que institui a regra-matriz de incidência tributária, deve encontrar fundamento de validade e eficácia nas normas gerais, nos termos da competência constitucional, para assegurar estabilidade e previsibilidade em nosso país, cuja competência tributária é partilhada com 26 estados e o Distrito Federal, conforme os arts. 24, §§ 3º e 4º e 155, § 2º, inc. XII, da Constituição Federal.
+
+No caso em tela, tem-se que a autorização para criar o tributo se deu pela Emenda Constitucional nº 87/2015, sendo que a instituição do tributo (ICMS-DIFAL) pelo Distrito Federal ocorreu por ocasião da promulgação da Lei Distrital nº 5.546/2015, que alterou a Lei Distrital n. 1.254/1996 que dispõe sobre o imposto sobre circulação de mercadorias e serviços – ICMS, e, em decorrência do decidido pelo STF no tema 1.093, foi publicada a Lei complementar nº 190/2022, como condição de eficácia da referida Lei Distrital, considerada válida por ocasião do julgamento.
+
+Assim, a validade e a eficácia constitucional para efetiva cobrança do tributo se deu com a composição completa do fluxo de positivação. Somente a partir de então o tributo se tornaria constitucionalmente exigível.
+
+Ocorre que alguns entes federados se anteciparam, quando da promulgação da EC 87/2015, e criaram regra matriz de incidência tributária, antes do estabelecimento de normas gerais, ou seja, sem a necessária lei complementar contemporânea ao momento em que ocorrido o fato que se pretende gerador (jurídico tributário).
+
+Em consequência disso, somente a partir da introdução da lei complementar para regulamentar a cobrança do ICMS-DIFAL deve-se observar o princípio fundamental da anterioridade, para que não haja surpresa ao novo contribuinte, pela nova situação tributária, no tocante à hipótese de incidência instituída.
+
+Assim, a LC nº 190/2022 ao definir uma nova categoria de contribuintes do imposto, especificamente no art. 4º, § 2º, criou uma inédita relação jurídico-tributária, de modo que para essa novel categoria de contribuintes, o imposto, que antes da edição da referida lei complementar, não era constitucionalmente exigível. Por consequência, além de aumento da caga tributária, a norma geral também implica na criação de um novo tributo. Destaque-se que as inovações da lei que possuem a natureza de criação e aumento de tributo também estão presentes no art. 12, incs XIV, XV e XVI (quando definem novos fatos geradores) e no art. 13, incs. IX e X e §§ 3º, 6º e 7º (definição da base de cálculo).
+
+Desta forma, somente a partir de então, ou seja, quando completo o fluxo de positivação como condição de validade constitucional para a cobrança do imposto, aplicar-se-ia a regra da anterioridade tributária, que proíbe a tributação antes do início do exercício fiscal subsequente, respeitado, em qualquer caso, o prazo de reforço de 90 dias, previstos no art. 150, inc. III, alíneas ‘b’ e ‘c’ da Constituição Federal.
+
+Não faz sentido afirmar que a anterioridade tributária deveria incidir quando promulgada a lei instituidora pelo ente federativo, ainda ineficaz diante da pendência de norma geral regulamentadora.
+
+No caso em tela, acrescente-se que a Lei Complementar nº 190/22 dispõe em seu art. 3º que a efetivação de seus efeitos se dará com observância do que disposto na alínea "c" do inciso III do caput do art. 150 da CF/88.
+
+Conforme se verifica, a LC 190/22, publicada em 4/1/22, no tocante à sua eficácia plena, em seu art. 3º, reporta-se apenas à observação do referido princípio da noventena, sendo ignorado o princípio da anterioridade, disposto na alínea "b" do inciso III do art. 150 da CF/88.
+
+Em razão desta omissão, o tema tem sido objeto de inúmeras discussões e, inclusive, de ingresso de ações judiciais com o objetivo de assegurar aos contribuintes a preservação, em seu favor, do princípio da anterioridade. Claro que, para os Estados e o DF, o que interessa é a cobrança imediata do Difal, iniciando tal cobrança ainda em 2022.
+
+Importante ressaltar que a anterioridade nonagesimal, inserida no texto constitucional pela EC 42/03, reforçou a anterioridade anual, pois obrigava que, além de respeitar a virada do ano do exercício fiscal, a lei que aumentasse ou instituísse tributos devesse ser publicada 90 dias antes de sua vigência, o que também obrigava os Fiscos a publicar a norma antes de outubro de cada ano, para vigorar a partir de 1º de janeiro do ano posterior, o que ampliava a segurança jurídica.
+
+Mostra-se insuficiente então respeitar a noventena para que a norma tributária que majore ou crie tributos seja plenamente vigente, por se tratar de reforço de segurança jurídica, consignada na parte final do art. 150, inc. III, alínea "c", da CF, que impele a necessária obediência à anterioridade anual. Confira-se:
+
+ Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios:
+
+[...]
+
+III - cobrar tributos:
+
+[...]
+
+b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou;         (Vide Emenda Constitucional nº 3, de 1993)
+
+c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou, observado o disposto na alínea b;         (Incluído pela Emenda Constitucional nº 42, de 19.12.2003)
+
+Com efeito, os princípios da anterioridade anual e nonagesimal têm como base o axioma da segurança jurídica e encerram limitação ao poder de tributar, consubstanciando, assim, garantia do contribuinte. Assim, há de se emprestar eficácia ao seu conteúdo, independentemente da forma utilizada para majorar-se determinado tributo, uma vez que não há como se furtar da conclusão de que o contribuinte suporta um agravamento do tributo.
+
+Desta forma, incide quanto à referida lei complementar o princípio da anterioridade tributária, tanto na forma anual quanto na noventena, por serem indissociáveis, nos termos da constituição.
+
+Vale ressaltar ainda que o STF, no julgamento do Tema 1.093, de forma sui generis, admitiu a eficácia da lei ordinária instituidora da matriz de incidência tributária, promulgada antes da norma geral regulamentadora, declarando a inconstitucionalidade da cobrança do tributo para o futuro, ou seja, os entes federados poderiam cobrar o tributo até 31/12/2021, ressalvados os contribuintes que tinham ações judicias em curso até a data do julgamento que se deu em fevereiro de 2021, estabelecendo a obrigatoriedade da feitura de lei complementar que regulamente o ICMS DIFAL para que haja a plena cobrança no ano fiscal de 2022.
+
+Por consequência, criou-se duas figuras de contribuintes, os que por terem ações judiciais em curso questionando a validade da cobrança, anteriores ao julgamento do Tema 1.093, ou seja, fevereiro de 2021, cuja inconstitucionalidade da cobrança foi imediatamente declarada e os que não se encontravam na exceção, cuja cobrança foi permitida até 31.12.2021.
+
+Sendo assim, apesar da permissividade da cobrança do tributo pelo STF, tal situação era excepcional e a edição de lei complementar regulamentadora da cobrança do ICMS-DIFAL completaria o fluxo de positivação, concedendo plena validade e eficácia para a cobrança do tributo. Caso não o fizesse, a cobrança restaria constitucionalmente inválida.
+
+Dessa forma, a promulgação da Lei Complementar n. 190/2022, se equivale à instituição de tributo, no aspecto da composição do fluxo de positivação, o que impõe a observância da anterioridade anual, somente autorizando a cobrança de DIFAL/ICMS a partir do exercício financeiro de 2023, não estando o ICMS inserido nas hipóteses de exceção de incidência da anterioridade previstas no art. 150, §1º, da CF.
+
+Relevante ainda destacar que a cobrança de diferença de alíquota do ICMS nas operações interestaduais destinados ao consumidor final acarreta – ainda que indiretamente – em uma inevitável majoração do imposto, situação que, em casos similares, o Supremo Tribunal Federal já se posicionou no sentido de aplicar tanto a anterioridade geral, como a anterioridade nonagesimal, impedindo, assim, a sua exigência dos contribuintes antes de transcorrido os prazos fixados na Constituição. Confiram-se os precedentes:
+
+ Ação direta de inconstitucionalidade. Perda de objeto. Direito tributário. ICMS. Energia elétrica. Necessidade de instituição da substituição tributária por meio de lei estadual em sentido estrito, com densidade normativa. Operações interestaduais. Imprescindibilidade de submissão do Convênio ICMS nº 50/19 à Assembleia Legislativa. Aplicação das anterioridades geral e nonagesimal quanto à majoração indireta de ICMS provocada pela substituição tributária. (...) 5. Está sujeita às anterioridades geral e nonagesimal a majoração indireta do ICMS provocada pela instituição da substituição tributária em questão. Precedentes. 6. Ação direta julgada prejudicada quanto ao inciso II do art. 1º do Decreto nº 40.628/19, na parte em que fixou a Margem de Valor Agregado (MVA) de 150% em relação à energia elétrica, e procedente quanto à parte subsistente, declarando-se a inconstitucionalidade formal - por ofensa ao princípio da legalidade tributária - e material - por violação das anterioridades geral e nonagesimal - dos arts. 1º, I e II - na parte remanescente -, e 2º do mesmo decreto. 7. Ficam modulados os efeitos da declaração de inconstitucionalidade, para que a decisão produza efeitos a partir do início do próximo exercício financeiro (2022), ressalvando-se as ações ajuizadas até a véspera da publicação da ata de julgamento do mérito. (ADI 6144, Relator: DIAS TOFFOLI, Tribunal Pleno, julgado em 03/08/2021).
+
+DIREITO TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. ICMS. REVOGAÇÃO DE BENEFÍCIO FISCAL. MAJORAÇÃO INDIRETA DE TRIBUTO. PRINCÍPIO DA ANTERIORIDADE. (...) 2. O ato normativo questionado pelo contribuinte extinguiu benefício fiscal que possibilitava a geração de créditos de ICMS ainda que a circulação de mercadorias fosse isenta. No entanto, seus efeitos começaram a ser produzidos quando da publicação. A anterioridade tributária visa a assegurar a previsibilidade da carga tributária, protegendo a segurança jurídica, a não surpresa e a confiança legítima. Por isso, também deve ser aplicada à revogação ou alteração de benefício fiscal, conforme já reconhecido por esta Corte. 3. Desse modo, divirjo do relator e dou provimento ao agravo interno para negar provimento ao recurso do Estado de São Paulo, a fim de manter o acórdão recorrido. (ARE 1322395 AgR, Relator p/ Acórdão: ROBERTO BARROSO, Primeira Turma, julgado em 21/02/2022).
+
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ICMS. SUBSTITUIÇÃO TRIBUTÁRIA. MARGEM DE VALOR AGREGADO. DECRETO ESTADUAL Nº 45.258/2015. OBSERVÂNCIA DO PRINCÍPIO DA ANTERIORIDADE TRIBUTÁRIA. 1. Nos termos da jurisprudência da Corte sobre o tema, toda modificação legislativa que, de maneira direta ou indireta, implicar carga tributária maior, há de ter eficácia no ano subsequente àquele no qual veio a ser feita. (...) 3. Agravo regimental a que se nega provimento, com fixação de multa, nos termos do art. 1.021, § 4º, do CPC. (ARE 1281713 AgR-segundo, Relator: EDSON FACHIN, Segunda Turma, julgado em 17/02/2021).
+
+Já no Congresso Nacional, pelo histórico da tramitação do PLP 32/2021, os parlamentares, cientes da decisão preferida pelo STF no julgamento do Tema 1.093, concluíram pela necessidade de a lei complementar respeitar a anterioridade tributária, cujo objetivo era a proteção do contribuinte.
+
+Importante acrescentar que o PLP 32/2001 teve a seguinte justificação:
+
+Na bem-lançada justificação, o autor relata que o Supremo Tribunal   Federal (STF) declarou, no   julgamento   da Ação Direta   de Inconstitucionalidade (ADI) nº 5.469/DF, que as cláusulas primeira, segunda, terceira, sexta e   nona do Convênio ICMS nº 93, de 2015, estão eivadas de inconstitucionalidade formal, por cuidarem de matéria reservada à lei complementar. Aduz que o PLP supre a   deficiência formal apontada pelo STF.
+
+Na proposta original, o art. 3º da LC 190/2022 teria a seguinte redação: “Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos a partir do primeiro dia do ano seguinte ao de sua publicação e após decorridos 90 (noventa) dias desta”.
+
+Durante a tramitação no Senado Federal, foi proposta a emenda nº 4 com a seguinte redação: “Art. 4º Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos a partir do primeiro dia do ano seguinte ao de sua publicação e após decorridos noventa dias desta”, sob a justificativa de que:
+
+Entendemos ser inconstitucional o artigo que trata da vigência, tendo em vista que de acordo com as alíneas “b” e “c” do inciso III do art. 150 da CF, é proibido cobrar tributos no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou e antes de decorridos noventa dias da data em que haja sido publicada essa lei gravosa. Por isso propomos a presente alteração e contamos com o apoio dos pares para sua aprovação.
+
+O projeto foi aprovado no Senado Federal e encaminhado à Câmara dos Deputados com a seguinte redação ao art. 3º: "Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos a partir do primeiro dia do ano seguinte ao de sua publicação e após decorridos 90 (noventa) dias desta".
+
+Apresentado substitutivo na Câmara dos Deputados, o art. 3º foi aprovado com a redação de que consta da Lei Complementar 190/2020: “Esta Lei Complementar entra em vigor na data de sua publicação, observado, quanto à produção de efeitos, o disposto na alínea “c” do inciso III do caput do art. 150 da Constituição Federal”.
+
+Infere-se do tramite legislativo do PLP 32/2001, que desembocou na promulgação da Lei Complementar nº 190/2022, que as duas casas legislativas tinham como preceito proteger o contribuinte, ao estabelecer o respeito à anterioridade fiscal, primando pela segurança jurídica.
+
+Logo, imperioso se mostra o respeito à anterioridade anual, nos termos da argumentação até aqui apresentada, com o agravante de que a Administração Pública e o Congresso Nacional tiveram tempo o suficiente para editar a legislação pertinente, em razão da ciência do decido pelo Pretório Excelso no julgamento do Tema 1.093, de modo que não é factível o argumento de que o ente federativo não poderá cobrar o imposto em questão no corrente ano, a arrepio de princípios constitucionais.
+
+O tema é objeto de exame de constitucionalidade nas ADIs 7066, 7070 e 7078, cujos pedidos cautelares foram indeferidos pelo Relator Ministro Alexandre de Moraes, que, a priori, entendeu que o referido diploma legal não instituiu qualquer tributo, tampouco majorou o ônus tributário imposto ao contribuinte, razão pela qual não há que se falar na necessidade de observância da anterioridade de exercício financeiro. Confira-se:
+
+[...] As hipóteses são distintas, pois uma coisa é averiguar se a cobrança do DIFAL atrairia a incidência do art. 146, da CF, em vista da alegação de se tratar de “norma geral de direito tributário”, por regular uma relação entre sujeitos antes não diretamente vinculados (contribuinte e Fazenda do Estado de destino da mercadoria); questão diversa, e mais específica, é definir se a regulamentação do DIFAL pela LC 190/2022 importou naquilo que o art. 150, III, “b”, da CF, menciona como “lei que os instituiu ou aumentou”, referindo-se a “tributos” que se pretenda cobrar no mesmo exercício; o que, nesse juízo de cognição sumária não parece ter ocorrido.
+
+O princípio da anterioridade de exercício posto no art. 150, III, “b”, da CF, é, notadamente, um instrumento constitucional de limitação do poder de tributar, pelo qual, em regra, nenhum tributo, seja da União, dos Estados, do Distrito Federal ou dos Municípios, poderá ser cobrado no mesmo exercício financeiro em que haja sido publicada a Lei que o instituiu ou aumentou, tendo por finalidade evitar a surpresa do contribuinte em relação a uma nova cobrança ou um valor maior, não previsto em seu orçamento doméstico.
+
+A LC 190/2022 não modificou a hipótese de incidência, tampouco da base de cálculo, mas apenas a destinação do produto da arrecadação, por meio de técnica fiscal que atribuiu a capacidade tributária ativa a outro ente político – o que, de fato, dependeu de regulamentação por lei complementar – mas cuja eficácia pode ocorrer no mesmo exercício, pois não corresponde a instituição nem majoração de tributo.
+
+A qualificação da incidência do DIFAL em operações interestaduais como nova relação tributária (entre o contribuinte e a Fazenda do Estado de destino) não é capaz de mitigar o fato de que a EC 87/2015 (e a LC 190/2022, consequentemente) preservou a esfera jurídica do contribuinte, fracionando o tributo antes devido integralmente ao Estado produtor (alíquota interna) em duas parcelas devidas a entes diversos.
+
+O Congresso Nacional orientou-se por um critério de neutralidade fiscal em relação ao contribuinte; para este, não é visada, a princípio, qualquer repercussão econômica relacionada à obrigação principal da relação tributária, apenas obrigações acessórias decorrentes da observância de procedimentos junto às repartições fazendárias dos Estados de destino, em acréscimo ao recolhimento junto à Fazenda do Estado de origem (por uma alíquota menor). E tais obrigações, por não se situarem no âmbito da obrigação principal devida pelo contribuinte, não se sujeitam ao princípio da anterioridade, na linha do que afirmado pela CORTE em relação a obrigações acessórias tais como prazo, condições e procedimentos para pagamento. Nesse sentido a Súmula Vinculante 50: “Norma legal que altera o prazo de recolhimento de obrigação tributária não se sujeita ao princípio da anterioridade”.
+
+O Princípio da anterioridade previsto no art. 150, III, “b”, da CF, protege o contribuinte contra intromissões e avanços do Fisco sobre o patrimônio privado, o que não ocorre no caso em debate, pois trata-se um tributo já existente (diferencial de alíquota de ICMS), sobre fato gerador antes já tributado (operações interestaduais destinadas a consumidor não contribuinte), por alíquota (final) inalterada, a ser pago pelo mesmo contribuinte, sem aumento do produto final arrecadado.
+
+Em momento algum houve agravamento da situação do contribuinte a exigir a incidência da garantia constitucional prevista no referido artigo 150, III, “b” da Constituição Federal, uma vez que, a nova norma jurídica não o prejudica, ou sequer o surpreende, como ocorre com a alteração na sujeição ativa do tributo promovida pela LC 190/2022 (EC 87/2015).
+
+[...]
+
+Além disso, a suspensão da incidência do DIFAL, mantida a incidência apenas da alíquota interestadual, seria inconsistente sob o ponto de vista de que essa tributação não ocorria assim antes da lei impugnada (ou da EC 87/2015), quando incidia a alíquota interna em favor do Estado de origem. Caso se entendesse que a nova sistemática de tributação não poderia ser exigida no presente exercício, como pretende a Requerente ABIMAQ, a solução adequada seria resgatar a sistemática anterior à EC 87/2015, e não aplicar parte da regulamentação que se reputa ineficaz, sob pena de, a pretexto de evitar majoração, causar decesso na arrecadação do tributo.
+
+Dessa maneira, em sede de cognição sumária, não se constata a presença do fumus boni juris a justificar a suspensão da eficácia da norma impugnada.
+
+Em relação ao pedido de medida cautelar formulado pelos Estados de Alagoas e Ceará quanto ao art. 3º da LC 190/2022, no que faz referência ao art. 150, III, “c”, da CF, deve-se reconhecer que o decurso de mais de 90 dias desde a edição da norma descaracteriza a presença do requisito do periculum in mora, necessário para a apreciação desse pedido em sede provisória [...].
+
+Muito embora a matéria não tenha sido pacificada nesta Corte de Justiça, e o STF não tenha dirimido a controvérsia, considero que a Lei Distrital cuja publicação tenha ocorrido antes da Lei Complementar Federal só pode gerar seus efeitos após essa, observados os princípios da anterioridade anual e nonagesimal, previstos no art. 150, inc. III, alíneas "b" e "c", da Carta Magna. Destarte, não é possível a cobrança do DIFAL no ano de 2022, ficando postergada para 1º de janeiro de 2023.
+
+Registre-se, assim, que somente a partir da vigência da Lei Complementar mencionada, a Lei Distrital nº 5.546/2015 poderia surtir efeitos jurídicos, ou seja, no momento em que concluiu o fluxo de positivação, o que à evidência é o marco inicial para incidência dos princípios de anterioridade anual e nonagesimal, por força do que expressamente dispõe o art. 150, inc. III, alineas "b" e "c" da Constituição Federal.
+
+Diante do exposto, rejeito as preliminares, e DOU PROVIMENTO ao reexame necessário e ao recurso voluntário, cumprindo o duplo grau de jurisdição determinado pela Lei 12.016/2009, art. 14, §1º, para conceder a segurança, com o fim de determinar à autoridade Impetrada que se abstenha de exigir da Impetrante o ICMS DIFAL, apenas do período até 31.12.2022. RECONHEÇO, ainda, os débitos no período, devendo a discussão acerca da viabilidade da cobrança ou compensação se dar por meio da via própria administrativa ou judicial.
+
+Fica vedado ao Distrito Federal estabelecer qualquer tipo de punição em desfavor da impetrante, em razão do não recolhimento do diferencial de alíquota, sob pena de fixação de multa e punição por crime de desobediência.
+
+Por derradeiro, em observância ao quanto decidido nos autos da Suspensão de Segurança nº. 0706978-14.2022.8.07.0000 – o qual “sustou os efeitos de todas as medidas liminares e sentenças já proferidas, bem como semelhantes provimentos supervenientes, que tenham por objeto, a exigibilidade, no exercício de 2022, dos créditos tributários relativos ao DIFAL (diferencial de alíquota) de ICMS decorrentes de operações de vendas de mercadorias por empresas impetrantes em relação aos consumidores não contribuintes desse imposto” – este entendimento somente produzirá efeitos a partir do trânsito em julgado desta ação, na forma do art. 4º, §9º, da Lei 8.437/1992.
+
+É como voto.
+
+O Senhor Desembargador LUÍS GUSTAVO B. DE OLIVEIRA - 1º Vogal Com o relator
+
+A Senhora Desembargadora ANA MARIA FERREIRA DA SILVA - 2º Vogal
+Adoto o relatório do eminente relator.
+
+Conheço da remessa necessária e da apelação interposta, uma vez presentes os pressupostos de admissibilidade.
+
+Ato contínuo, peço vênia para divergir apenas do posicionamento exarado no respeitável voto condutor.
+
+A exigibilidade do recolhimento do ICMS/DIFAL foi tema tratado pelo Supremo Tribunal Federal (STF) no julgamento do Recurso Extraordinário nº 1.287.019 em conjunto com a Ação Direita de Inconstitucionalidade 5.469/DF (Tema 1.093, STF), ficando determinada a necessidade de edição de Lei Complementar para regulamentar a matéria.
+
+Na ocasião, houve modulação dos efeitos da decisão para que a inexigibilidade do ICMS/DIFAL fosse postergada para o exercício financeiro de 2022, até a data da edição da necessária Lei Complementar, ressalvadas apenas as ações que já estavam em curso na data do julgamento realizado pela Suprema Corte. A conferir:
+
+“Recurso extraordinário. Repercussão geral. Direito tributário. Emenda Constitucional nº 87/2015. ICMS. Operações e prestações em que haja a destinação de bens e serviços a consumidor final não contribuinte do ICMS localizado em estado distinto daquele do remetente. Inovação constitucional. Matéria reservada a lei complementar (art. 146, I e III, a e b; e art. 155, § 2º, XII, a, b, c, d e i, da CF/88). Cláusulas primeira, segunda, terceira e sexta do Convênio ICMS nº 93/15. Inconstitucionalidade. Tratamento tributário diferenciado e favorecido destinado a microempresas e empresas de pequeno porte. Simples Nacional. Matéria reservada a lei complementar (art. 146, III, d, e parágrafo único, da CF/88). Cláusula nona do Convênio ICMS nº 93/15. Inconstitucionalidade. 1. A EC nº 87/15 criou nova relação jurídico-tributária entre o remetente do bem ou serviço (contribuinte) e o estado de destino nas operações com bens e serviços destinados a consumidor final não contribuinte do ICMS. O imposto incidente nessas operações e prestações, que antes era devido totalmente ao estado de origem, passou a ser dividido entre dois sujeitos ativos, cabendo ao estado de origem o ICMS calculado com base na alíquota interestadual e ao estado de destino, o diferencial entre a alíquota interestadual e sua alíquota interna. 2. Convênio interestadual não pode suprir a ausência de lei complementar dispondo sobre obrigação tributária, contribuintes, bases de cálculo/alíquotas e créditos de ICMS nas operações ou prestações interestaduais com consumidor final não contribuinte do imposto, como fizeram as cláusulas primeira, segunda, terceira e sexta do Convênio ICMS nº 93/15. 3. A cláusula nona do Convênio ICMS nº 93/15, ao determinar a extensão da sistemática da EC nº 87/2015 aos optantes do Simples Nacional, adentra no campo material de incidência da LC nº 123/06, que estabelece normas gerais relativas ao tratamento diferenciado e favorecido a ser dispensado às microempresas e às empresas de pequeno porte, à luz do art. 146, inciso III, d, e parágrafo único, da Constituição Federal. 4. Tese fixada para o Tema nº 1.093: “A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais”. 5. Recurso extraordinário provido, assentando-se a invalidade da cobrança do diferencial de alíquota do ICMS, na forma do Convênio nº 93/1, em operação interestadual envolvendo mercadoria destinada a consumidor final não contribuinte. 6. Modulação dos efeitos da declaração de inconstitucionalidade das cláusulas primeira, segunda, terceira, sexta e nona do convênio questionado, de modo que a decisão produza efeitos, quanto à cláusula nona, desde a data da concessão da medida cautelar nos autos da ADI nº 5.464/DF e, quanto às cláusulas primeira, segunda, terceira e sexta, a partir do exercício financeiro seguinte à conclusão deste julgamento (2022), aplicando-se a mesma solução em relação às respectivas leis dos estados e do Distrito Federal, para as quais a decisão deverá produzir efeitos a partir do exercício financeiro seguinte à conclusão deste julgamento (2022), exceto no que diz respeito às normas legais que versarem sobre a cláusula nona do Convênio ICMS nº 93/15, cujos efeitos deverão retroagir à data da concessão da medida cautelar nos autos da ADI nº 5.464/DF. Ficam ressalvadas da modulação as ações judiciais em curso.
+
+(RE 1287019, Relator(a): MARCO AURÉLIO, Relator(a) p/ Acórdão: DIAS TOFFOLI, Tribunal Pleno, julgado em 24/02/2021, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-099  DIVULG 24-05-2021  PUBLIC 25-05-2021)” (grifos nossos)
+
+O presente feito – no qual a apelante defende a inexigibilidade do mencionado tributo no presente exercício financeiro (ano de 2002), ante a necessidade de observância do Princípio da Anterioridade à Lei Complementar nº 190/2022 – foi protocolado em março de 2022, abrangido, portanto, pela modulação de efeitos promovida pelo Supremo Tribunal Federal.
+
+A Lei Complementar nº 190/2022 foi publicada no dia 05 de janeiro de 2022, estabelecendo normas gerais acerca do ICMS/DIFAL e regulamentando a matéria da forma como ficou definido pelo Supremo Tribunal Federal.
+
+Nesse sentido, a discussão que surge nos autos diz respeito à aplicação da Lei Complementar nº 190/2022 já no ano de 2022, o que esvaziaria a decisão do Supremo Tribunal Federal, principalmente no que diz respeito à modulação de efeitos realizada.
+
+Sobre o tema, é necessário esclarecer que o ICMS se constitui como imposto de competência dos Estados e do Distrito Federal, tendo como fato gerador a circulação de mercadorias, bem como prestação de serviços de transporte interestadual e intermunicipal e de comunicação, nos termos do art. 155, II, da Constituição de Federal.
+
+Trata-se de modelo de substituição tributária progressiva, hipótese em que a ocorrência do fato gerador e sua dimensão econômica são presumidos, concretizando-se posteriormente. Por tal razão, há antecipação do recolhimento do tributo relativo à obrigação tributária que se constituiria no futuro para o contribuinte.
+
+Assim, a base de cálculo provável é presumida, de modo que, não se realizando o fato gerador, é assegurado ao contribuinte a restituição do valor recolhido de forma imediata e preferencial, conforme dispôs o art. 150, § 7º da Constituição Federal.
+
+Ocorre que, com as mudanças na sistemática do mercado brasileiro, principalmente no tocante às vendas de produtos por meio da internet, parte dos Estados passaram a ter prejuízos, pois as quantias arrecadadas com o ICMS eram destinadas apenas ao Estado em que a compra foi realizada.
+
+Por tal motivo, a Emenda Constitucional nº 87 de 2015 alterou a sistemática de arrecadação do ICMS nas hipóteses de venda de mercadorias ou prestação de serviço a consumidores finais não contribuintes do imposto, localizados em outras unidades da federação, com o propósito de equilibrar a distribuição da arrecadação entre os entes federativos.
+
+Desse modo, a distinção entre consumidor contribuinte e não contribuinte foi extinta do ordenamento jurídico relativo ao tributo, uma vez que o referido imposto passou a ser devido, independentemente de o consumidor final ser contribuinte ou não, devendo ser dividido o valor apurado entre o estado de origem e de destino da mercadoria ou serviço negociados.
+
+Note-se que não houve, desde a promulgação da referida Emenda Constitucional, criação de novo tributo, mas apenas alteração na regra sobre a repartição das receitas advindas do recolhimento de ICMS em operações que envolvem mais de um Estado da Federação.
+
+Em razão disso, inaugurou-se a presente controvérsia, ante à decisão do Supremo Tribunal Federal, entendendo-se que a Emenda Constitucional nº 87/2015 necessitava de Lei Complementar para regular a matéria por ela tratada.
+
+Nesse contexto, o ICMS/DIFAL teve a sua exigibilidade suspensa até que fosse editada uma Lei Complementar pelo Congresso Nacional, com vistas a regulamentar o referido imposto.
+
+Nessa esteira, o Congresso Nacional publicou a já mencionada Lei Complementar nº 190/2022 em 05 de janeiro de 2022, regulamentando a matéria tratada pela Emenda Constitucional nº 87/2015.
+
+Conforme visto, a discussão ocorrida no âmbito do julgamento do Recurso Extraordinário nº 1.287.019 em conjunto com a Ação Direta de Inconstitucionalidade nº 5.469/DF (Tema n. 1093) acabou por se esvaziar, na medida em que a determinação contida no referido julgado foi plenamente cumprida pelo Poder Legislativo.
+
+Assim, a exigibilidade do ICMS/DIFAL encontra plena vigência, tendo em vista que o art. 3º da Lei Complementar nº 190/2022 estabeleceu que a norma entraria em vigor no dia de sua publicação, ou seja, 05 de janeiro de 2022.
+
+Nessa senda, não há amparo à argumentação lançada pela parte impetrante, no sentido de que deverá ser aplicado o princípio da anterioridade anual ou nonagesimal à Lei Complementar n. 190/2022, tendo em vista a ausência de criação de tributo ou majoração da alíquota a ele aplicada.
+
+Note-se que o art. 150, inciso III, da Constituição Federal determina a vedação aos entes federativos a cobrança de tributos no mesmo exercício financeiro em que tenha sido publicada a lei que os instituiu ou aumentou (alínea “b”) ou antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou (alínea “c”).
+
+Da leitura do referido dispositivo constitucional, depreende-se que o Princípio da Anterioridade, anual ou nonagesimal, é aplicado às leis que instituam ou majorem algum tributo, o que não foi realizado pela Lei Complementar nº 190/2022.
+
+A necessidade de observância do referido Princípio é verificada ante à proibição de surpresa ao contribuinte, que deverá tomar conhecimento antecipado do evento compulsório da tributação, uma vez que a instituição de novo tributo ou a majoração daquele já existente são fatos que podem causar relevante impacto na esfera econômica do respectivo responsável tributário.
+
+Tal surpresa não ocorreu com a regulamentação do ICMS/DIFAL realizada pela Lei Complementar n. 190/2022. A cobrança do referido tributo já era praticada desde o ano de 2015, conforme as cláusulas previstas no Convênio ICMS 93/2015. A alteração ocorrida a partir da decisão proferida pelo Supremo Tribunal Federal refere-se à ausência de norma regulamentadora, vício que foi sanado com a edição da Lei Complementar nº 190/2022.
+
+Nesse sentido, entendo que a plena exigibilidade do ICMS/DIFAL é verificada pela própria decisão do Supremo Tribunal Federal, na medida em que, na modulação de efeitos realizada, permitiu a cobrança do tributo aos casos tratados em ações que não estavam em curso na data do julgamento realizado, adiando a inexigibilidade apenas para o ano de 2022, conforme se observou no presente caso.
+
+Ou seja, a cobrança do ICMS/DIFAL não é fato novo desconhecido do contribuinte. Pelo contrário, as alterações legislativas aqui discutidas apenas tratam de questões adjacentes ao recolhimento do imposto, mas não há qualquer majoração ou instituição de tributo, o que, por si só, veda a aplicação do princípio da anterioridade por ausência de previsão constitucional em sentido diverso.
+
+A arrecadação do diferencial de alíquota em relação aos consumidores não contribuintes foi permitida desde a promulgação da Emenda Constitucional nº 87/2015, em conjunto com a Lei Complementar nº 87/1996 até a data de 31/12/2021, o que evidencia e ausência de surpresa ao contribuinte.
+
+Nessa senda, observa-se que a edição da Lei Complementar n. 190/2022, em cumprimento da decisão proferida pelo Supremo Tribunal Federal, apenas alterou a Lei Complementar n. 87/1996, regulamentado a cobrança do referido imposto, contudo não instituiu ou aumentou alíquota tributária.
+
+Por outro lado, não se olvida da previsão contida no art. 3º da Lei Complementar n. 190/2022, na qual ficou determinada a observância do art. 150, III, “c” da Constituição Federal.
+
+Contudo, percebe-se que o referido dispositivo legal invadiu matéria constitucional, uma vez que não se pode adotar, em Lei Complementar, medidas que só podem ser tratadas pela Constituição.
+
+O art. 150, inciso III, do Texto Constitucional estabeleceu a necessidade de observância do Princípio da Anterioridade, seja ele anual ou nonagesimal, apenas quando houver a criação de tributo ou majoração de alíquota tributária, com a finalidade de proteger o contribuinte de cobrança que não estava prevista.  Contudo, tal previsão não se enquadra no caso do ICMS/DIFAL, tendo em vista que a sua cobrança já era praticada desde 2015 até a data de 31/12/2021.
+
+Assim, a criação de nova hipótese dependeria de norma de natureza constitucional, o que não ocorreu.
+
+Desse modo, observa-se que, no caso debatido, a Lei Complementar 190/2022 deve ser aplicada a partir da sua publicação, ou seja, 05/01/2022, considerando que não há ocorrência de nenhuma das hipóteses previstas no art. 150, III, da Constituição Federal.
+
+Esse é o entendimento desta Egrégia Corte de Justiça. Vejamos:
+
+“APELAÇÃO CÍVEL. REMESSA NECESSÁRIA. MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO. DIREITO TRIBUTÁRIO. PRELIMINAR. EFEITO SUSPENSIVO. DEFERIDO. ILEGITIMIDADE. INOCORRÊNCIA. REJEIÇÃO. ICMS. DIFAL. STF. TEMA 1093. NECESSIDADE DE LEI COMPLEMENTAR. MODULAÇÃO. LEI COMPLEMENTAR Nº 190/2022. INCIDÊNCIA. ANTERIORIDADE ANUAL E NONAGESIMAL. IMPOSSIBILIDADE. INEXISTÊNCIA DE NOVO TRIBUTO. PREVISÃO CONSTITUCIONAL.   1. A Presidência deste TJDFT, ao julgar a Suspensão de Segurança nº 0706978-14.2022.8.07.0000, sobrestou todas as decisões que afastaram a cobrança do ICMS-DIFAL no exercício financeiro de 2022. Por esse motivo, não é possível qualquer provimento jurisdicional sem efeito suspensivo em desfavor do Distrito Federal. 2. O pedido de não incidência/restituição de valores somente pode ser analisado como consequência da concessão da segurança. A matéria confunde-se com o mérito da ação e não envolve discussão sobre legitimidade. Precedente. 3. O mandado de segurança constitui instrumento idôneo para proteger direito líquido e certo demonstrado de plano, por meio de prova pré-constituída, sem a necessidade de dilação probatória. 4. A cobrança do diferencial de alíquota alusivo ao ICMS, introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar (STF, Plenário, ADI 5469/DF, Rel. Min. Dias Toffoli, julgado em 24/2/2021 e RE 1287019/DF, Rel. Min. Marco Aurélio, redator do acórdão Min. Dias Toffoli, julgado em 24/2/2021). 5. São válidas as leis estaduais ou distritais editadas após a EC 87/2015, que preveem a cobrança do Diferencial de Alíquota (DIFAL) nas operações e prestações interestaduais com consumidor final não contribuinte do imposto. 6. Os efeitos do julgamento proferido pelo STF incidem a partir de 2022, por corresponder ao exercício financeiro seguinte ao julgamento. As cláusulas, portanto, permaneceram válidas até dezembro de 2021, ressalvadas as ações em curso. 7. A Lei Complementar nº 190/2022, publicada em 5/1/2022, alterou a Lei Complementar nº 87/1996 para regulamentar a cobrança do ICMS nas operações e prestações interestaduais destinadas a consumidor final não contribuinte do imposto, mas não instituiu ou aumentou a alíquota tributária. 8. Antes da edição Lei Complementar nº 190/2022, foi aceita a cobrança do DIFAL em período desprovido de regulamentação para a sua exigibilidade (da EC nº 87/2015 até 31/12/2021). 9. Os princípios da anterioridade nonagesimal e anual não podem ser aplicados ao caso concreto, pois decorrem de previsão constitucional (CF, art. 150, inciso III, alíneas "b" e "c"). Logo, não é possível extrair da Lei Complementar interpretações que somente podem emanar da própria Constituição. 10. Não é válido o recolhimento do diferencial de alíquota de ICMS no período entre 1º/1/2022 e 4/1/2022, diante da ausência de Lei Complementar regulando a matéria. 11. A concessão de mandado de segurança não produz efeitos patrimoniais em relação a período pretérito, os quais devem ser reclamados administrativamente ou pela via judicial própria (STF, Súmula 271). 12. Preliminar rejeitada. No mérito, recurso voluntário interposto pelo impetrado e remessa necessária conhecidos e parcialmente providos.
+
+(Acórdão 1427489, 07025641620228070018, Relator: DIAULAS COSTA RIBEIRO,  8ª Turma Cível, data de julgamento: 31/5/2022, publicado no DJE: 13/6/2022. Pág.:  Sem Página Cadastrada.)” (grifo nosso)
+
+“AGRAVO DE INSTRUMENTO. TRIBUTÁRIO. AÇÃO ORDINÁRIA. ICMS. OPERAÇÃO INTERESTADUAL. DIFERENCIAL DE ALÍQUOTA. DIFAL. EC 87/2015. LEI DISTRITAL Nº 5.546/2015. ADI 5469. RE 1287019. REPERCUSSÃO GERAL. TEMA 1093 DO STF. MODULAÇÃO DOS EFEITOS DA DECLARAÇÃO DE INCONSTITUCIONALIDADE. "AÇÕES JUDICIAIS EM CURSO". INÍCIO DA PRODUÇÃO DO EFEITO VINCULANTE E EFICÁCIA ERGA OMNES. AÇÃO AJUIZADA APÓS DO JULGAMENTO DO TEMA Nº 1093. DECISÃO QUE NÃO PRODUZ EFEITOS IMEDIATOS AO PRESENTE CASO. LEI COMPLEMENTAR Nº 190/2022. VIGÊNCIA NO EXERCÍCIO FINANCEIRO DE 2022. DECISÃO DO STF EM ADI. 1. Recurso tirado de decisão que versa sobre liminar em sede de mandado de segurança. Logo, a controvérsia a ser dirimida está restrita à análise dos requisitos da probabilidade do direito e do perigo de dano.  2. Mandado de segurança impetrado objetivando afastar a cobrança do diferencial de alíquota de ICMS (DIFAL) relativamente às operações interestaduais com mercadorias vendidas a consumidores finais não-contribuintes do ICMS localizados no DF isentando-a de sanções enquanto não seja editada Lei Complementar nacional regulamentando a EC 87/2015, bem como posterior lei distrital que institua o aludido imposto.  3. O Supremo Tribunal Federal firmou a tese do Tema 1093, reconhecendo a inconstitucionalidade da cobrança da DIFAL pela inexistência de lei complementar tratando do referido crédito tributário: "A cobrança do diferencial de alíquota alusivo ao ICMS, conforme introduzido pela Emenda Constitucional nº 87/2015, pressupõe edição de lei complementar veiculando normas gerais". 4. Apenas as ações ajuizadas antes do julgamento conjunto do RE nº 1.287.019/DF e da ADI nº ADI 5469/DF (24/02/2021) não se sujeitam à modulação de seus efeitos até o exercício financeiro de 2022. 5. Na hipótese em estudo, o mandado de segurança donde se extrai o presente apelo foi impetrado após do julgamento do recurso representativo de controvérsia (tema nº 1093), de forma que a decisão proferida pelo C. Supremo Tribunal Federal, que reconheceu que a cobrança do Diferencial de Alíquotas (DIFAL) de ICMS pressupõe edição de lei complementar, não produz efeitos imediatos ao presente caso. 6. Em relação ao exercício financeiro de 2022, diante da vigência da Lei Complementar nº 190/2022, publicada em 05/01/2022, colhe-se o entendimento sufragado pelo Exmo. Ministro Alexandre de Moraes, no bojo das Ações Diretas de Inconstitucionalidade ajuizadas perante o colendo STF (ADI 7066 e ADI 7070), nas quais questionam a Lei Complementar 190/2022, onde ressaltou que o princípio constitucional da anterioridade (artigo 150, III, "b" da Constituição Federal) protege o contribuinte contra intromissões e avanços do Fisco sobre o patrimônio privado, todavia, considera que, no caso em análise, isso não ocorre, pois se trata de tributo já existente, sobre fato gerador tributado anteriormente (operações interestaduais destinadas a consumidor não contribuinte), por alíquota (final) inalterada, a ser pago pelo mesmo contribuinte, sem aumento do produto final arrecadado. Como a alteração legal não prejudica, nem surpreende o contribuinte, a concessão da liminar seria inviável. 7. A conclusão a que se chega, na hipótese dos autos, é pela inexigibilidade do tributo (DIFAL-ICMS) somente no período de 1º/1/2022 até 4/1/2022, ou seja, no exercício financeiro de 2022 até a vigência da LC 190/2022. 8. Deu-se parcial provimento ao agravo de instrumento.
+
+(Acórdão 1427470, 07399385720218070000, Relator: ARQUIBALDO CARNEIRO PORTELA,  8ª Turma Cível, data de julgamento: 31/5/2022, publicado no DJE: 13/6/2022. Pág.:  Sem Página Cadastrada.)” (grifo nosso)
+
+“AGRAVO DE INSTRUMENTO. CONSTITUCIONAL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. EXIGIBILIDADE DO DIFAL DE ICMS. VIGÊNCIA E PRODUÇÃO IMEDIATA DE EFEITOS PELA LEI COMPLEMENTAR No 190/2022. RECURSO DESPROVIDO. 1. A hipótese consiste em examinar a exigibilidade do DIFAL de ICMS após a edição da Lei Complementar no 190/2022. 2. O DIFAL de ICMS decorre das alterações promovidas pela Emenda Constitucional no 87/2015 e tem sua exigibilidade condicionada à edição de Lei Complementar federal, a partir do exercício financeiro de 2022, de acordo com a tese de repercussão geral fixada pelo Excelso Supremo Tribunal Federal ao julgar o recurso extraordinário no 1.287.019-DF (tema no 1093). 3. O requisito da necessidade de lei foi suprido por meio da edição da Lei Complementar no 190/2022, cujo art. 3º estabeleceu que o aludido diploma legal entrou em vigor na data de sua publicação. A correta interpretação da aludida regra de direito intertemporal deve ser promovida por meio da atividade hermenêutico-jurídica, a ser iniciada a partir da compreensão do sentido textual do preceito normativo, de acordo com a análise expressa da extensão semântica de seus termos. Isso não obstante, para levar adiante a interpretação, é preciso que o jurista observe (vide a esse respeito LARENZ, Karl. Metodologia da Ciência do Direito. 3 ed. Trad. José Lamego. Lisboa: Fundação Calouste Gulbenkian, 1997, cap. IV da Parte II), em síntese: 1) o contexto significativo da lei; 2) a intenção reguladora, os fins e ideias normativas do legislador histórico; 3) os critérios teleológicos-objetivos; e 4) os princípios ético-jurídicos de calibração constitucional por meio da interpretação conforme à Constituição. 3.1. A interpretação que melhor ajusta a vigência da Lei Complementar no 190/2022 aos critérios referidos é no sentido da imediata produção de efeitos pela aludida lei. A menção ao princípio da anterioridade nonagesimal deve ser compreendida como mera ressalva no sentido de que a determinação de vigência imediata da mencionada lei presumiu a observância desse preceito. 4. A Lei Complementar no 190/2022 foi editada com a finalidade de suprir lacuna legislativa, mas não causa absolutamente nenhuma surpresa ao contribuinte. Por essa razão, não se trata de criação de tributo, tampouco de majoração de alíquota, uma vez que as respectivas unidades federativas já estavam a exigir o referido tributo muito antes da edição da aludida lei. Em outras palavras, a exigibilidade do tributo foi apenas ratificada com a edição da Lei Complementar em referência. 5. Recurso conhecido e desprovido.
+
+(Acórdão 1426859, 07046562120228070000, Relator: ALVARO CIARLINI,  2ª Turma Cível, data de julgamento: 25/5/2022, publicado no DJE: 8/6/2022. Pág.:  Sem Página Cadastrada.)” (grifo nosso)
+
+“CONSTITUCIONAL, PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. MANDADO DE SEGURANÇA. ICMS. DIFAL. PRECEDENTE DO EXCELSO SUPREMO TRIBUNAL FEDERAL. CONCESSÃO DE EFEITO SUSPENSIVO. A PARTIR DO EXERCÍCIO FINANCEIRO DE 2022. CONDIÇÃO. EDIÇÃO DE LEI COMPLEMENTAR PELO CONGRESSO NACIONAL. PRINCÍPIOS DA ANTERIORIDADE ORDINÁRIA E DA NOVENTENA. VIOLAÇÃO. INEXISTÊNCIA. DECISÃO REFORMADA. 1. O DIFAL (Diferencial de Alíquota de ICMS) visa garantir ao Estado de destino a parcela que lhe cabe na partilha do ICMS sobre operações interestaduais. Trata-se, de fato, de uma complementação do ICMS resultante da diferença entre os valores cobrados do referido imposto entre os Estados-Membros que participaram da transação comercial. 2. A cobrança de DIFAL não se trata de criação de imposto novo ou majoração de imposto existente, já que a Lei Complementar 190, de 4 de janeiro de 2022, ao alterar a Lei Complementar 87, de 13 de dezembro (Lei Kandir), apenas disciplinou a distribuição dos recursos apurados no ICMS quando há movimentação de mercadorias entre dois Estados da Federação distintos, que cobram alíquotas distintas de ICMS. 3. O STF, ao declarar a inconstitucionalidade na ADI 5469, modulou os efeitos 'pró-futuro', de forma que a inconstitucionalidade seria tolerada 'para trás', assim como por todo o ano de 2021, devendo o Parlamento editar, se fosse o caso, uma Lei Complementar sobre o DIFAL haja vista que, a partir de 1º de janeiro de 2022, a cobrança não mais seria possível à revelia de lei complementar regulamentadora. 4. A novíssima LC 190/22 foi publicada em 5/01/2022 e, apesar de constar em seu art. 3º: "Esta Lei Complementar entra em vigor na data de sua publicação, observado, quanto à produção de efeitos, o disposto na alínea 'c' do inciso III do caput do art. 150 da Constituição Federal", são inaplicáveis os princípios da anterioridade ordinária e da noventena. Ambos os princípios têm base constitucional (artigo 150, III, alíneas "b" e "c") e é a própria CF que diz quando são aplicados. 5. Não é apropriado que uma lei complementar diga quando a CF deve (ou quando não deve) ser aplicada. Assim, nesse momento inicial, o DIFAL pode incidir a partir de 5/01/2022 porque o artigo 3º da Lei Complementar 190/22 criou uma hipótese de noventa além da CF, haja vista que essa nova lei não criou tributo, não majorou tributo e não suspendeu benefício tributário. 6. A Lei Complementar 190/2022 não criou imposto e não implicou aumento da carga tributária atrelada ao ICMS, podendo ter a aplicação imediata das suas regras legais, a partir da data da sua publicação. 7. Não se trata de violação do princípio da anterioridade anual ou nonagesimal, justamente por não se referir à criação de imposto novo ou majoração de um imposto existente. 8. Recurso provido.
+
+(Acórdão 1423849, 07070518320228070000, Relator: MARIO-ZAM BELMIRO,  8ª Turma Cível, data de julgamento: 17/5/2022, publicado no DJE: 31/5/2022. Pág.:  Sem Página Cadastrada.)” (grifo nosso)
+
+Registre-se, ainda, que tal posicionamento está em plena consonância com recente decisão proferida pelo Exmo. Ministro Alexandre de Moraes em 17/05/2022, no bojo das Ações Diretas de Inconstitucionalidade ajuizadas perante o Supremo Tribunal Federal, onde foi debatido o tema abordado no presente processo, ou seja, a necessidade de observância do princípio da anterioridade na aplicação da Lei Complementar nº 190/2022.
+
+Na ocasião, o Excelentíssimo Ministro ressaltou que o referido princípio tem por finalidade a proteção do contribuinte contra as intromissões do Fisco sobre o patrimônio privado, contudo, entendeu que no caso analisado isso não ocorre, pois, o respectivo tributo já existe, sobre fato gerador tributado anteriormente (operações interestaduais destinadas a consumidor não contribuinte), com alíquota final inalterada. Por estas razões entendeu que a concessão da medida liminar pleiteada seria inviável.
+
+Insta consignar trechos da decisão proferida pelo Exmo. Ministro Alexandre de Moraes nos autos da Ação Direta de Inconstitucionalidade n. 7066/DF, com a finalidade de reforçar o entendimento aqui adotado. Confira:
+
+“(...)
+
+O princípio da anterioridade de exercício posto no art. 150, III, “b”, da CF, é, notadamente, um instrumento constitucional de limitação do poder de tributar, pelo qual, em regra, nenhum tributo, seja da União, dos Estados, do Distrito Federal ou dos Municípios, poderá ser cobrado no mesmo exercício financeiro em que haja sido publicada a Lei que o instituiu ou aumentou, tendo por finalidade evitar a surpresa do contribuinte em relação a uma nova cobrança ou um valor maior, não previsto em seu orçamento doméstico.
+
+A LC 190/2022 não modificou a hipótese de incidência, tampouco da base de cálculo, mas apenas a destinação do produto da arrecadação, por meio de técnica fiscal que atribuiu a capacidade tributária ativa a outro ente político – o que, de fato, dependeu de regulamentação por lei complementar – mas cuja eficácia pode ocorrer no mesmo exercício, pois não corresponde a instituição nem majoração de tributo.
+
+A qualificação da incidência do DIFAL em operações interestaduais como nova relação tributária (entre o contribuinte e a Fazenda do Estado de destino) não é capaz de mitigar o fato de que a EC 87/2015 (e a LC 190/2022, consequentemente) preservou a esfera jurídica do contribuinte, fracionando o tributo antes devido integralmente ao Estado produtor (alíquota interna) em duas parcelas devidas a entes diversos (...)
+
+O Princípio da anterioridade previsto no art. 150, III, “b”, da CF, protege o contribuinte contra intromissões e avanços do Fisco sobre o patrimônio privado, o que não ocorre no caso em debate, pois trata-se um tributo já existente (diferencial de alíquota de ICMS), sobre fato gerador antes já tributado (operações interestaduais destinadas a consumidor não contribuinte), por alíquota (final) inalterada, a ser pago pelo mesmo contribuinte, sem aumento do produto final arrecadado.
+
+Em momento algum houve agravamento da situação do contribuinte a exigir a incidência da garantia constitucional prevista no referido artigo 150, III, “b” da Constituição Federal, uma vez que, a nova norma jurídica não o prejudica, ou sequer o surpreende, como ocorre com a alteração na sujeição ativa do tributo promovida pela LC 190/2022 (EC 87/2015).
+
+A EC 87/2015 previu a progressiva substituição da incidência da alíquota interna pela soma da alíquota interestadual com o DIFAL, transferindo a receita dos Estados de origem para os Estados de destino, nessa modalidade de operação (art. 99 do ADCT).
+
+A disciplina do Convênio ICMS CONFAZ 93/2015 pretendeu alcançar o mesmo arranjo fiscal que, agora, a LC 190/2022 preservou, a fim de sanar o vício formal apontado pela CORTE no julgamento da ADI 5469, mas sem qualquer inovação relevante no tratamento da matéria.
+
+Além disso, a suspensão da incidência do DIFAL, mantida a incidência apenas da alíquota interestadual, seria inconsistente sob o ponto de vista de que essa tributação não ocorria assim antes da lei impugnada (ou da EC 87/2015), quando incidia a alíquota interna em favor do Estado de origem. Caso se entendesse que a nova sistemática de tributação não poderia ser exigida no presente exercício, como pretende a Requerente ABIMAQ, a solução adequada seria resgatar a sistemática anterior à EC 87/2015, e não aplicar parte da regulamentação que se reputa ineficaz, sob pena de, a pretexto de evitar majoração, causar decesso na arrecadação do tributo (...).” (grifo nosso)
+
+Desse modo, entendo que a edição da Lei Complementar n. 190/2022 não deve obedecer à limitação constitucional do poder de tributar, referente à aplicação do Princípio da Anterioridade, seja na abrangência anual ou na nonagesimal, uma vez que a referida legislação não instituiu tributo novo, tampouco majorou alíquota tributária, sendo a regulamentação realizada matéria estranha à previsão constitucional prevista no art. 150, III, “b” e “c” da Constituição Federal de 1988.
+
+Por essas razões, a arrecadação do ICMS/DIFAL encontra-se em plena validade.
+
+Logo, a partir de uma interpretação conjunta dos paradigmas aqui definidos, bem como da tese firmada pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário nº 1.287.019 em conjunto com a Ação Direta de Inconstitucionalidade nº 5.469/DF (Tema 1.093), conclui-se que a inexigibilidade do referido tributo deve prevalecer apenas no período compreendido entre o dia 01/01/2022 (início do exercício financeiro de 2022) até 04/01/2022 (data anterior à vigência da Lei Complementar 190/2022), como bem consignado na sentença proferida pelo Juízo a quo.
+
+Posto isso, CONHEÇO da remessa necessária e do apelos interposto; e, a todos, NEGO PROVIMENTO.
+
+Sem honorários advocatícios, em face da previsão lançada ao art. 25 da Lei n.º 12.016/2009.
+
+É como voto.
+
+A Senhora Desembargadora FÁTIMA RAFAEL - 3º Vogal Com o relator
+
+A Senhora Desembargadora MARIA DE LOURDES ABREU - 4º Vogal Com o relator
+
+DECISÃO
+
+CONHECER DA APELAÇÃO E DA REMESSA NECESSÁRIA, REJEITAR AS PRELIMINARES E, NO MÉRITO, DAR-LHES PROVIMENTO, MAIORIA. QUÓRUM COMPLEMENTADO (ART. 942 DO CPC 20125)
