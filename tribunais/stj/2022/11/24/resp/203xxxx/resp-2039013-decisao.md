@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CLAUDEMIR MOLINA com fundamento na alínea "a" do permissivo constitucional, contra acórdão do TJ/PR.
+Ação: de despejo c/c cobrança de aluguéis, em fase de cumprimento de sentença, ajuizada pelo recorrente em desfavor de MARIA DO CARMO MELO YANES e OUTROS.
+No curso da ação, o recorrente postulou a penhora de percentual relativo à pensão por morte, para fins de saldar o crédito principal ou, ao menos, os honorários advocatícios.
+Decisão interlocutória: rejeitou a homologação de acordo firmado entre o exequente e a executada, versando sobre honorários sucumbenciais e contratuais.
+Acórdão: negou provimento ao agravo de instrumento do recorrente, conforme a seguinte ementa:
+DIREITO CIVIL. DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. FASE PROCEDIMENTAL DESTINADA AO CUMPRIMENTO DE SENTENÇA. DECISÃO JUDICIAL QUE INDEFERIU A INCLUSÃO DE HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS NO ACORDO. ESTIPULAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. IMPOSSIBILIDADE. NO CASO DE AJUIZAMENTO DE AÇÃO JUDICIAL, CABERÁ AO MAGISTRADO ARBITRAR OS HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS DE ACORDO COM OS PARÂMETROS ESTABELECIDOS PELO ART. 85 E SEGUINTES DA LEI N.13.105/2015 (CÓDIGO DE PROCESSO CIVIL). MANUTENÇÃO DA DECISÃO JUDICIAL OBJURGADA. PRECEDENTES.
+1. É cediço que os honorários contratuais são aqueles estipulados em razão de eventual necessidade de atuação de Advogado na esfera extrajudicial, a qual não se confunde com a atuação na defesa judicial de seus interesses.
+2. Em vista disso, em que pese as alegações deduzidas pelo Agravante, entende-se que o pleito recursal não deve ser provido, tendo-se em conta que os honorários advocatícios contratuais não compõem o título executivo.
+3. O egrégio Tribunal de Justiça do Estado do Paraná ao julgar caso semelhante, entendeu que "não cabe ao réu adimplir os honorários devidos ao procurador contratado pelo autor, uma vez que se trata de escolha da parte para ajuizamento da ação, além de que o arbitramento da sucumbência é de exclusividade do Magistrado".
+4. A colenda 17ª (Décima Sétima) Câmara Cível do egrégio Tribunal de Justiça do Estado do Paraná, proferiu entendimento no sentido de que "os honorários advocatícios que a parte pretende incluir no cálculo para fins de cumprimento de sentença dizem respeito à verba acordada no contrato de consórcio (cláusula 18). No entanto, o cumprimento de sentença deve se ater aos limites do competente título executivo; no caso, o acordo homologado (mov. 1.8), cujo teor não faz qualquer menção à incidência de honorários advocatícios contratuais em caso de descumprimento. Desse modo, inexiste a possibilidade de se computar o referido valor na fase de cumprimento de sentença, sob pena, inclusive, de ofensa à coisa julgada material".
+5. Recurso de agravo de instrumento conhecido, e, no mérito, não provido.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados pela Corte local.
+Recurso especial: alega violação dos arts. 85, § 4º e 1.022 do CPC/2015 e dos arts. 22, § 4º, 23 e 24, § 1º, da Lei nº 8.906/1994 e do art. 1.707 do CC/02. Aduz que o acórdão recorrido é omisso quanto ao objeto de cobrança, que consiste nos honorários contratuais fracionados do montante principal, descontados do crédito devido a estes e no que concerne à alegação de irrepetibilidade do montante recebido. Sustenta que o acordo versa sobre honorários contratuais destacados do crédito principal e não a respeito de cobrança isolada de honorários contratuais. Defende ser cabível o fracionamento dos honorários do montante principal, por se tratar de direito autônomo do advogado. Refere que a jurisprudência colacionada no acórdão não guarda relação com o tema debatido, porquanto, na hipótese, não houve acréscimo de honorários contratuais, mas sim abatimento do valor no crédito dos recorrentes. Por fim, alega não ser possível a restituição dos valores já recebidos devido à natureza alimentar da verba.
+Decisão de admissibilidade: admitiu o recurso especial, determinando a remessa dos autos ao STJ.
+É o relatório.
+1. Da negativa de prestação jurisdicional.
+Nas suas razões, o recorrente sustenta que a Corte de origem não se manifestou sobre o objeto da cobrança e acerca da irrepetibilidade dos valores.
+Quanto ao primeiro argumento, apesar da irresignação do recorrente, o Tribunal de origem decidiu que "a hipótese de serem exigidos os honorários contratuais e os sucumbenciais haveria um bis in idem, tendo em vista que a Parte Ré estaria obrigada a adimplir com os honorários pelo mesmo motivo" (e-STJ, fl. 105).
+Assim, a medida em que a Corte de origem dirimiu, fundamentadamente, a questão que lhe foi submetida, não sendo possível confundir julgamento desfavorável, como no caso, com negativa de prestação jurisdicional ou ausência de fundamentação.
+Por outro lado, concernente ao segundo ponto, verifica-se que o Tribunal a quo não apreciou o argumento concernente à irrepetibilidade dos valores recebidos para fins de pagamento dos honorários, apesar da oposição de embargos de declaração.
+Ante o acolhimento parcial da tese de negativa de prestação jurisdicional, ficam prejudicadas as demais questões suscitadas no recurso especial.
+2. Dispositivo
+Forte nessas razões, com fundamento na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PARCIAL PROVIMENTO, para determinar o retorno dos autos à Corte de origem, a fim de que proceda a um novo julgamento dos embargos de declaração opostos pelorecorrente, a fim de sanar a omissão relativa à alegação de irrepetibilidade dos valores recebidos.
+Ante o resultado do julgamento, deixo de majorar os honorários arbitrados na origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO DE DESPEJO C/C COBRANÇA DE ALUGUÉIS. CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ACOLHIMENTO PARCIAL.
+1. Ação de despejo c/c cobrança de aluguéis em fase de cumprimento de sentença. ,
+2. Na espécie, o Tribunal de origem decidiu expressamente sobre a questão relativa aos honorários, mas não apreciou o argumento concernente à irrepetibilidade dos valores percebidos pelo recorrente, o que impõe o rejulgamento dos embargos de declaração.
+3. Recurso especial conhecido e provido em parte.
