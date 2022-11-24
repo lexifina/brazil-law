@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Clodoaldo Ribeiro Machadoem face de decisão que negou provimento ao agravo em recurso especial, sob ofundamento de quenão se verifica ofensa aos arts. 489, § 1º, e 1022, II, do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas.
+A embargante, em suas razões, discorre sobre a existência de omissão no acórdão proferido pelo Tribunal a quo, ressaltando a necessidade de pronunciamento sobre a ocorrência de fato novo, concernente à vigência da Lei n. 14.071/2020. De outro turno, insurge-se contra a fixação de honorários advocatícios em grau recursal, argumentando que "se não houve trabalho adicional, por certo não se há falar em majoração dos honorários advocatícios" (fl. 384).
+Pugna, pois, pelo acolhimento dos embargos de declaração, para, atribuindo-lhes efeitos infringentes, reconhecer a violação ao art. 1022 do CPC, pelo Tribunal a quo, e afastar os honorários fixados na decisão ora embagada.
+A parte embargada não apresentou impugnação (fl. 390).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Não prospera a irresignação da parte embargante. De acordo com o estatuído no art. 1022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão do decisum atacado e, ainda, para corrigir erro material. Entretanto, no caso, não se verifica a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Com efeito, ficou consignado na decisão embargada que não se caracterizou, na hipótese, a violação ao art. 1022, II, do CPC, tendo sido transcrito o trecho da fundamentação adotada pelo Tribunal Estadual, no qual foi analisado o pleito de aplicação retroativa da Lei n. 14.031/2020.
+Lado outro, a insurgência contra afixação de honorários não pode ser acolhida, pois o Supremo Tribunal Federal já se manifestou"A interposição de recurso sob a égide da nova lei processual possibilita a majoração doshonoráriosadvocatícios (ora fixados em 10% dez por cento sobre o valor da causa), mesmo quando não apresentadascontrarrazões,nos termos do art. 85, § 11, do CPC/2015." (AO 2.063 AgR, relator Ministro Marco Aurélio, relator para acórdão Ministro Luiza Fux, Julgado em 18/5/2014, publicado em 14/9/2017.)
+No mesmo sentido, colhe-se aresto desta Corte Superior:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. CORPUS CHRISTI. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO POR MEIO DE DOCUMENTO IDÔNEO NO ATO DE INTERPOSIÇÃO DO RECURSO. MAJORAÇÃO DE HONORÁRIOS AINDA QUE NÃO APRESENTADAS CONTRARRAZÕES. POSSÍVEL. AGRAVO INTERNO NÃO PROVIDO.
+1. Os feriados nacionais devem estar previstos em lei federal. O dia de Corpus Christi é feriado local.
+2. Nos termos do art. 1.003, § 6º, do CPC/2015, o recorrente comprovará a ocorrência de feriado local ou suspensão do expediente forense no Tribunal de origem no ato de interposição do recurso, o que impossibilita a regularização posterior. Precedentes.
+3. Não tendo havido a comprovação de feriado local ou suspensão de expediente forense no Tribunal de origem por meio de documento idôneo no ato da interposição do recurso especial, não há como ser afastado o decreto de intempestividade do recurso.
+4. "Consoante o Enunciado Administrativo nº 7/STJ, nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível a majoração de honorários em sede de recurso, nos termos do artigo 85, § 11, do CPC/15, quando inaugurada nova instância, ainda que não apresentadas contrarrazões, pois se trata se desestímulo à interposição de recursos infundados pela parte vencida" (EDcl no AgInt no REsp 1892201/CE, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 8/10/2021).
+5. Agravo interno não provido.
+(AgInt no AREsp n. 2.035.803/PR, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/6/2022, DJe de 1/7/2022.)
+Ora, não podem ser acolhidos embargos declaratórios que, a pretexto de alegadas omissões do decisum embargado, traduzem, na verdade, inconformismo com a decisão tomada, pretendendo rediscutir o que já foi decidido. Nesse panorama, inexistente qualquer obscuridade, contradição ou omissão no julgado embargado, conforme exige o art. 1022 do CPC/2015, impõe-se a rejeição dos presentes embargos de declaração.
+A propósito, destacam-se os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES JÁ RESOLVIDAS NA DECISÃO EMBARGADA. MERO INCONFORMISMO. PRETENSÃO DE EFEITOS INFRINGENTES. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Revelam-se improcedentes os embargos declaratórios em que a questão levantada não configura hipótese de cabimento do recurso - omissão, contradição ou obscuridade -, delineadas no art. 535 do CPC.
+2. A remessa dos autos para julgamento do recurso extraordinário no Supremo Tribunal Federal é decorrência lógica da regra insculpida no art. 543, §1º do CPC.
+3. Inexistir qualquer fundamento relevante que justifique a oposição dos presentes embargos ou que venha infirmar as razões contidas na decisão embargada.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1471797/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 25/11/2014, DJe 2/12/2014)
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg no REsp 993.078/SP, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+ANTE O EXPOSTO, rejeito os embargos de declaração.
+Publique-se.
