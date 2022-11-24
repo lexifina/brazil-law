@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE RUBIATABAcontra decisão do Tribunal de Justiça do Estado de Goiás, que inadmitiu seu recurso especialfundado na alínea "a" do permissivo constitucional e que desafiaacórdão assim ementado (e-STJ fl. 258):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CÁLCULOS COM ATUALIZAÇÃO MONETÁRIA E APLICAÇÃO DE JUROS DE MORA APÓS A DATA DA PENHORA. IMPOSSIBILIDADE. DECISÃO REFORMADA.
+1. O Agravo de Instrumento é um recurso limitado ao reexame do que foi decidido pelo Juízo a quo, de modo que não é lícito ao Juízo ad quem antecipar o julgamento do mérito da demanda ou decidir sobre matéria ainda não apreciada pelo Juízo de primeiro grau, sob pena de supressão de instância. 2. É entendimento pacífico do Superior Tribunal de Justiça que, a partir do depósito judicial ou penhora do valor devido, termina a responsabilidade do devedor pela aplicação de atualização monetária e juros de mora, pois tais encargos passam a ser da instituição financeira. Inteligência da Súmula 179, do STJ.
+3. No caso, como foram aplicados os juros de mora e atualização monetária mesmo após a penhora, via Bacenjud, necessário se faz que a Contadoria Judicial refaça os cálculos, dessa vez, com aplicação da atualização monetária e juros de mora somente até a data da realização da penhora.
+AGRAVO DE INSTRUMENTO CONHECIDO E PROVIDO. PREJUDICADO O AGRAVO INTERNO.
+Embargos de declaração rejeitados (e-STJ fls. 327/334).
+No seu recurso especial (e-STJ fls. 344/369), a parte recorrente apontaviolação dos arts. 7º,489, § 1º, IV, 505, 507 e 1.022, I eII e parágrafo único, II, do CPC/2915.
+Sustenta, preliminarmente, que o acórdão recorrido padeceria de omissão, uma vez que o Tribunal de origem teria se negado a analisar sua argumentação no sentido da ocorrência de preclusão e coisa julgada.
+No mérito, aduz que a conta de liquidação já teria sido homologada, de modo que a determinação de seu recálculo teria importado em ofensa aos institutos dapreclusão e dacoisa julgada.
+Contrarrazões às e-STJ fls. 376/392.
+Recurso especial inadmitido, com base nas Súmulas 211/STJ e, por analogia, 284 do STF (e-STJ fls. 400/402).
+Decisão de inadmissão agravada (e-STJ fls. 407/419).
+A irresignaçãonão merece prosperar.
+De início, não merece acolhimento a pretensão de anulação do julgado por negativa de prestação jurisdicional, porquanto o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, nenhuma contrariedade da norma invocada.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE.
+1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018). 4. Embargos de declaração rejeitados.
+(EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+No caso, o Tribunal a quo, ao afastar a alegação de preclusão e coisa julgada, assim se manifestou, de forma clara e suficiente(e-STJ fls. 331/332):
+Ao contrário do disposto pelo Embargante, o acórdão recorrido não analisou coisa julgada material ou matéria preclusa.
+Isso, porque a insurgência recursal da Embargada está relacionada, tão somente, à discussão do valor controverso, pois entende já ter quitado o débito, de acordo com o que foi deliberado no Agravo de Instrumento nº 447506-56.2015.8.09.0000, que ficou decidido que o valor incontroverso seria a quantia de R$ 6.021.435,90 (seis milhões, vinte e um mil, quatrocentos e trinta e cinco reais e noventa centavos) e foi determinado que os autos fossem remetidos para a Contadoria Judicial e os cálculos realizados, conforme determinado pelo acórdão, tomando por base a citada quantia.
+Discute-se aqui que o valor tido como incontroverso pelo referido Agravo de Instrumento foi realizado com a aplicação de multa e atualização até a data de 14/03/2017, quando a data limite deveria ser aquela em que ocorreu a penhora do valor, que, no caso, foi em 28/11/2015.
+Frise-se que não houve discussão sobre a maneira como deveria ser o cálculo realizado, matéria esta realmente já discutida, não só no citado Agravo de Instrumento, como no Agravo de Instrumento nº 02382.67.2017.8.09.0000, indicado pelo Embargante.
+Tanto é que ficou determinado, no acórdão embargado, que a realização dos cálculos deveria ocorrer "nos moldes determinados no Agravo de Instrumento nº 447506.56.2015.8.09.0000, mas com atualização monetária e aplicação dos juros de mora somente até a data da penhora, em 28/11/2015".
+Dessa maneira, não há que se falar em omissão por não ter considerado a coisa julgada e a preclusão, pois trata-se de matéria distinta daquelas discutidas no dois Agravos de Instrumento apontados.
+No presente caso, verifica-se que o Tribunal de origem decidiu a questão ora ventilada acerca da inexistência decoisa julgada e de preclusão - porque a matéria do agravo de instrumento seria distinta daquelajá fora decididaanteriormente - com base na realidade delineada à luz do suporte fático-probatório dos autos, cuja revisão é inviável no âmbito do recurso especial diante do óbice estampado naSúmula 7do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EMBARGOS À EXECUÇÃO DE SENTENÇA. URP. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. VIOLAÇÃO ÀCOISA JULGADA. ACÓRDÃO RECORRIDO ASSENTADO NO CONJUNTO FÁTICO-PROBATÓRIO DO FEITO. REEXAME. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+ ..
+3. Tendo o acórdão recorrido assentado expressamente a existência de limitação no título executivo, infirmar tal conclusão pressupõe o reexame fático-probatório do feito, o que é obstado em sede de recurso especial, por força da Súmula 7/STJ. No mesmo sentido: EDcl no REsp 1.309.199/DF, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/9/2016.
+ ..
+5. Agravo interno não provido. (AgInt no REsp 1.647.724/RN, RelatorMinistro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 15/6/2018).
+PROCESSUAL CIVIL. AÇÃO POPULAR. ENTENDIMENTO PELA CORTE A QUO QUE NÃO HOUVE OFENSA ÀCOISA JULGADA,REEXAME DE FATOS E PROVAS.SÚMULA 7DO STJ.PRECLUSÃODA MATÉRIA DE DEFESA. VIOLAÇÃO DACOISA JULGADA. ORIENTAÇÃO FIRMADA PELA PRIMEIRA SEÇÃO NO JULGAMENTO DO RESP 1.235.513/AL (REL. MINISTRO CASTRO MEIRA), SOB O RITO DOS RECURSOS REPETI TIVOS.
+ ..
+III - Acerca da alegada ofensa aos artigos 293, 460, 468, 469 e 475-G do CPC/73, percebe-se que o tribunal a quo, ao analisar o conjunto fático-probatório constante dos autos, verificou que não houve in casu violação àcoisa julgada,conforme se constata do seguinte excerto do acórdão recorrido: "Embora de forma sucinta, a sentença contém razoável fundamentação, enfrentou todos os pontos dos embargos, não padece de nulidade. Talvez prova pericial contábil pudesse trazer algum elemento para apontamento de eventual excesso de execução, mas os embargantes não se interessaram por esse tipo de prova; o MM. Juiz abriu oportunidade para dilação probatória, eles silenciaram. Em suma, não há demonstração de excesso de execução e a sentença recorrida preserva acoisa julgada; se há quem pretenda alterá-la - acoisa julgada- são os apelantes, que de devedores postulam passar à condição de credores do erário (fl. 286)".
+IV - Há entendimento firmado nesta corte no sentido de que, uma vez entendido pela corte a quo que não houve ofensa àcoisa julgada,a inversão do julgado, a fim de reconhecer a ofensa àcoisa julgadana interpretação do título executivo judicial, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula n. 7/STJ.
+ ..
+VIII - Agravo interno improvido. (AgInt no AREsp 1.220.398/SP, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 07/12/2020).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Sem honorários recursais, pois se cuida, na origem, de decisão interlocutória.
+Publique-se. Intimem-se.
