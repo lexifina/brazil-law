@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto de acórdão assim ementado:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMULAÇÃO DE PEDIDOS. COMPETÊNCIA. PEDIDO DE REVISÃO/CONCESSÃO DE BENEFÍCIO CUMULADO COM DANOS MORAIS. RETIFICAÇÃO DE OFÍCIO.
+1. Nos pedidos de concessão ou revisão de benefício previdenciário cumulados com pedido de danos morais é cabível ao Juiz exercer o controle do valor da causa, de forma a evitar dissonância com a jurisprudência da Terceira Seção deste Tribunal. 2. Quando o juiz não extingue o processo, sequer parcialmente, para afastar o pedido formulado e a medida se resume a identificar e afastar o excesso no valor da causa, para fins de competência, a hipótese é de mero controle desse requisito da petição inicial. 3. Retificado o valor atribuído à causa para montante inferior ao equivalente a 60 salários mínimos, resta caracterizada a competência absoluta do Juizado Especial Federal para o julgamento da demanda. Precedentes.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega que foram ofendidosos arts. 487, III, "c", 525, § 1º, III, §12, §13 e §15, 1.035, § 5º, 1.036, § 1º e §2º, e 1.037, II, § 2º, § 4º e § 8º, do CPC; 114 e 125 do CC. Defende, ademais, que há negativa de prestação jurisdicional e afronta aos arts. 11, 489, § 1º, IV, e 926 do CPC/2015.
+É o relatório.
+Decido.
+Os arts. 11, 489, § 1º, e 1.022 do Código de Processo Civil não foram ofendidos, porque o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, embora contrariamente aos interesses da parte ora agravante.
+O aresto vergastado entendeu que após aextinção de execução/cumprimento de sentença com trânsito em julgado não é possível sua reabertura.
+Ao decidir a controvérsia, o Tribunal de origem anotou:
+Trata-se de agravo de instrumento interposto pela parte exequente em face de decisão que - após extinção de execução/cumprimento de sentença com trânsito em julgado - indeferiu pedido de prosseguimento.
+A parte agravante afirma que, contrariamente ao que consta na decisão, é possível e/ou cabível o quanto reclamado, sem o impedir a circunstância de se tratar de execução já extinta.
+(..)
+Conforme já reconhecido em precedentes da Sexta Turma (v.g. AI nº 0007532-27.2010.404.0000/SC, DE 28-06-10), o Superior Tribunal de Justiça, no julgamento do Recurso Especial Representativo de Controvérsia nº
+1.143.471/PR, posicionou-se no sentido de que, transitada em julgado a sentença de extinção da execução, não é possível sua reabertura, nem mesmo sob a alegação de erro material, nos seguintes termos:
+(..)
+Considerando que o STJ detém a última palavra no que refere à aplicação da legislação infraconstitucional, tenho que a matéria não comporta mais discussão, estando paci cado o entendimento acerca da impossibilidade de reabertura da execução, sob qualquer pretexto, após o trânsito em julgado da sentença que a extinguiu.
+Ademais, não se pode conhecer da irresignação quanto aos arts.487, III, "c", 525, § 1º, III, § 12, § 13 e § 15, 1.035, § 5º, 1.036, § 1º e § 2º, e 1.037, II, § 2º, § 4º e § 8º, do CPC; 114 e 125 do CC, porque o feito não foi dirimido a luz dos referidos dispositivos. A jurisprudência do STJ entende que não hácontradição em afastar a alegada violação ao art. 1.022 do CPC/2015 e, ao mesmo tempo, não conhecer do recurso, por ausência de prequestionamento. Éperfeitamente possível o julgado ser devidamente fundamentado, sem, no entanto, solucionar o feitoà luz dos preceitos jurídicos desejados pela parte.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. REVISÃO DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS DO TAC. SÚMULAS 7/STJ E 5/STJ. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ART. 1.025 DO CPC/2015. HIPÓTESE NÃO CONFIGURADA.
+1. O presente recurso foi interposto na vigência do CPC/2015, razão pela qual incide o Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Na espécie, o Tribunal de origem concluiu aplicável ao caso o disposto no art. 90 do CPC, com lastro no suporte fático dos autos e com interpretação das cláusulas do TAC, firmando a inexistência de acordo ou concessões mútuas, tendo a recorrente optado por pagar a multa e desistir formalmente da ação.
+3. A questão foi expressamente enfrentada no acórdão recorrido, sendo inviável a revisão das conclusões firmadas no sentido das alegações recursais, em razão dos óbices das Súmulas 5 e 7 do STJ.
+4. A alegação de omissão de dispositivos legais a respeito dos quais a recorrente não aduz argumentação de relevância para o correto deslinde da controvérsia, a ensejar o rejulgamento dos aclaratórios na origem, configura fundamentação recursal deficiente. Aplicação da Súmula 284/STF. A propósito: REsp 1.748.752/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/11/2018; EDcl no AgRg no AREsp 278.621/DF, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe 25/5/2015.
+5. Inexiste contradição em se reconhecer a ausência de prequestionamento quanto à questão a respeito da qual não se conheceu do recurso pela aplicação da Súmula 284/STF à alegação atinente ao art. 1.022 do CPC/2015 - hipótese essa que também afasta a possibilidade prevista no art. 1.025 do CPC/2015.
+6. Agravo interno não provido.
+(AgInt no REsp n. 1.991.186/RJ, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. UTILIZAÇÃO DE RECURSOS DO FUNDEF/FUNDEB. NULIDADE DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS, CELEBRADO ENTRE SOCIEDADE DE ADVOGADOS E MUNICÍPIO, EM RAZÃO DE SUPOSTA INOBSERVÂNCIA DOS PROCEDIMENTOS LICITATÓRIOS. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. ART. 337, VI, §§ 1º, 2º E 3º, DO CPC/2015. SÚMULA 211/STJ. LEGITIMIDADE DA UNIÃO. FUNDAMENTO CONSTITUCIONAL. INVIABILIDADE DO RECURSO ESPECIAL.
+1. Não há ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, tendo se manifestado expressamente quanto à ineficácia da cláusula contratual inserta no contrato de prestação de serviços advocatícios - firmado entre o Município e a sociedade de advogados - que autoriza o destaque de honorários em favor dos contratados sobre verbas do FUNDEF/FUNDEB.
+2. Não há como se conhecer do Recurso Especial quanto à aludida ofensa ao art. 337, VI, §§ 1º, 2º e 3º, do CPC/2015 em face da incidência da Súmula 211/STJ, porquanto a questão não foi examinada pela Corte de origem, a despeito da oposição de Embargos de Declaração. Assim, ausente o requisito do prequestionamento.
+3. Cumpre ressaltar que o STJ entende que não há contradição em afastar a alegada violação ao art. 1.022 do CPC/2015 e, ao mesmo tempo, não conhecer do recurso, por ausência de prequestionamento, porque é perfeitamente possível o julgado encontrar-se devidamente fundamentado, sem, no entanto, ter decidido a questão à luz dos preceitos jurídicos desejados pela parte.
+4. Por fim, o Tribunal de origem, ao analisar os honorários contratuais, decidiu com fulcro no entendimento do STF. Dessa forma, não é possível o exame da questão em Recurso Especial, sob pena de usurpação da competência da Suprema Corte.
+5. Agravo Interno não provido.
+(AgInt no REsp n. 1.983.614/PE, relator Ministro Herman Benjamin, Segunda Turma, julgado em 30/5/2022, DJe de 23/6/2022.)
+Ante o exposto, nego provimento ao Agravo.
+Publique-se.
+Intimem-se.
