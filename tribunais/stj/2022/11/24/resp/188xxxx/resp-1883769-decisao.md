@@ -1,0 +1,25 @@
+DECISÃO
+MARIA APARECIDA RADIANTE DA ROCHAinterpõe recurso especial, com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido peloTribunal de Justiça do Estado de São Paulo na Apelação n. 0009790-91.2019.8.26.0050.
+No especial, aponta a violação dos arts. 1º e 155 do Código Penal e 119 do Código de Processo Penal, por considerar ilegal a apreensão de seu veículo em virtude da apuração de crime de furto em tese perpetrado por seu genro.
+Afirma que "o objeto apreendido não interessa mais ao processo, uma vez que já fora realizada perícia no veículo, bem como, por sua natureza, não tem qualquer relevância para a instrução do feito, uma vez que o acusado que estava em poder do veículo, já fora condenado no processo principal, não se fazendo mais necessária a apreensão do veículo" (fl. 53).
+Puna pelo provimento do recurso "para que ao final ocorra a restituição do veículo para a proprietária" (fl. 55).
+Apresentadas as contrarrazões e admitido o recurso, manifestou-se o Ministério Público Federal pelo não conhecimento ou não provimetno do recurso especial.
+Decido.
+O acórdão recorrido consignou que (fls. 46-47, grifei):
+Com efeito, colhe-se dos autos que, no dia 16 de junho de 2.018, na hora e local indicados na denúncia, Rogério Silva Sousa e Diego Galvão Peline, agindo em concurso de agentes, previamente ajustados e com unidade de desígnios, tentaram subtrair para eles, mediante rompimento de obstáculo, o veículo Ford/Fiesta, placas EMY- 9629/SP, pertencente a C.O, não conseguindo consumar o delito por circunstâncias alheias à vontade dos agentes.
+Segundo o apurado, os denunciados se uniram para a prática de furto de veículos e, para tanto, usavam o veículo Ford/Fiesta, cor branca, placas FLV-1102, como meio de locomoção até o local dos fatos e como meio de fuga e cobertura a ação do agente que se aproximava da "res".
+Rogério e Diego avistaram o veículo estacionado em via pública e, enquanto Rogerio dava cobertura em outro veículo Fiesta, parado mais a frente em outra via, Diego dirigiu-se até o veículo Fiesta estacionado e, após arrombar a porta do motorista, ingressou e retirou o painel de ignição e abriu o capô, momento em a vítima retornou e flagrou a cena. Diego, então, se evadiu, correndo até o veículo Fiesta conduzido por Rogério, que lhe dava cobertura.
+Policiais Militares foram acionados e passaram a diligenciar nas imediações, até que abordaram os réus dentro do veículo que deu fuga, com uma mochila que continha um móduloveicular, chaves de fenda e um controle de bloqueio de alarme veicular, ocasião em que os réus confessaram a tentativa de furto.
+Prolatada sentença condenatória, a MM. Juíza declarou a perda do veículo Ford/Fiesta 1.6 Flex, placas FLV-1102/SP em favor do Estado, eis que foi utilizado para o cometimento do delito.
+O corréu Diego Galvão Peline apelou da sentença condenatória, sendo os autos nº 0005175-83.2018 remetidos em 11/11/2019 com vista à Procuradoria Geral de Justiça para parecer, portanto, ainda sem decisão final.
+Nesse contexto, mostra-se prematuro concluir-se que o automóvel não mais interessa ao processo, uma vez que ainda não houve o trânsito em julgado. Não estando o processo findo, obviamente, persiste o interesse na manutenção da apreensão.
+A restituição do bem apreendido ocorre mediante comprovação inconteste da propriedade lícita, de ele não mais interessar ao processo e de não ser passível de pena de perdimento.
+Assim, por esse aspecto, a instância de origem decidiu em consonância com o entendimento predominante nesta Corte Superior, ao estabelecer que oveículoainda interessaao processo - sobretudo pela ausência do trânsito em julgado da sentença condenatória, que estabeleceu o perdimento do bem.
+Ilustrativamente:
+ ..
+3. Mesmo que se flexibilize esse entendimento, não se infere nenhuma ilegalidade ou teratologia da decisão combatida que aplicou o art. 130 do CPP e indeferiu a restituição do bem antes do trânsito em julgado, em razão da inexistência de prova inequívoca apta a demonstrar a condição de terceiro estranho à ação penal em curso e da existência de fortes indícios da ocultação da origem ilícita do bem.
+4. A restituição de bens constritos no curso de inquérito ou ação penal dependem: a) da comprovação da propriedade do bem (art.
+120, caput, do CPP) e da origem lícita dele (o que afasta a pena de perdimento prevista no art. 91, II, do CP); b) da desnecessidade dos bens para garantir eventual reparação da vítima na ação penal, e satisfação de despesas processuais e das penas pecuniárias no caso de sentença condenatória - situação que não exige a origem ilícita do bem (art. 140 do CPP); e c) da ausência de interesse, no curso do inquérito ou da instrução judicial, na manutenção da apreensão (art. 118 do CPP)  ..  6. Agravo regimental desprovido. (AgRg no RMS n. 66.203/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 12/8/2021)
+Portanto, o acórdão impugnado está em consonância com a jurisprudência predominante nesta Corte Superior, o que atrai a incidência da Súmula n. 83 do STJ.
+Àvista do exposto,nego provimento ao recurso especial.
+Publique-se e intimem-se.
