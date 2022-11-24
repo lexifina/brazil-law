@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo interposto peloESTADO DE MINAS GERAIS contra decisão que obstou a subida de recurso especial.
+Extrai-se dos autos que oagravante interpôs recurso especial, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS cuja ementa guarda os seguintes termos (fls. 411):
+APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - EXTINÇÃO - CANCELAMENTO DA INSCRIÇÃO - HONORÁRIOS ADVOCATÍCIOS
+1. O cancelamento da inscrição de Dívida Ativa, após a citação do devedor, ainda que sem a oposição de embargos, implica a condenação da Fazenda Pública ao pagamento dos ônus sucumbenciais (AgRg no Ag 1 07043615P).
+2. Quando, conforme o caso, a condenação contra a Fazenda Pública ou o benefício econômico obtido pelo vencedor ou o valor da causa for superior ao valor previsto no inciso 1 do § 31, a fixação do percentual de honorários deve observar a faixa inicial e, naquilo que a exceder, a faixa subsequente, e assim sucessivamente (ad. 85. §50, do CPC).
+Rejeitados os embargos de declaração opostos (fls. 436-442).
+Nas razões do recurso especial, a recorrente aponta violação ao art. 85, § 11, do CPC, aduzindo tese de que (fl. 448):
+A responsabilidade pelo pagamento de honorários e custas deve ser fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as depesas dele decorrentes.
+A prescrição intercorrente por ausência de localização de bens não retira o princípio da causalidade em desfavor do devedor que deu causa à instauração da execução, nem atrai a sucumbência para o exequente.
+Neste sentido, o REsp 17692011SF, julgado em 12/03/2019 elo rito dos recursos repetitivos, de observância obrigatória elas instâncias inferiores, segundo o qual a prescrição intercorrente por ausência de localização de bens não retira o princípio da causalidade em desfavor do devedor, nem atrai a sucumbência para o exequente. Segue ementa:
+ ..
+Oferecidas contrarrazões (fls. 472-485).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 452-456), o que ensejou a interposição do presente agravo.
+Apresentada contraminuta do agravo (fls. 515-528).
+É, no essencial, o relatório.
+Atendidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+O recurso especial não comporta conhecimento quanto à alegada violação do art. 85, § 11, do CPC, visto que tal normativo não tem comandoapto a amparar a tese recursal, pois delenão se infere nenhumaalusão àquestão de necessidade de fixação de honorários à luz do princípio da causalidade, o que atrai, por conseguinte, os preceitos da Súmula n. 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+No mesmo sentido:
+III - Na espécie, incide o óbice da Súmula n. 284/STF em razão da ausência de comando normativo dos dispositivos apontados como violados, o que atrai, por conseguinte, o referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+IV - Segundo a jurisprudência do STJ, o óbice de ausência de comando normativo do artigo de lei federal apontado como violado ou como objeto de divergência jurisprudencial incide nas seguintes situações: quando não tem correlação com a controvérsia recursal, por versar sobre tema diverso; e quando sua indicação não é apta, por si só, para sustentar a tese recursal, seja porque o dispositivo legal tem caráter genérico, seja porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais. (AgInt no AREsp n. 2.035.985/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 31/8/2022.)
+1. A alegada afronta à lei federal não foi demonstrada com clareza, pois o único dispositivo apontado como violado não tem comando normativo suficiente para amparar a tese recursal, atraindo, por analogia, o óbice da Súmula 284 do STF. (AgInt no REsp n. 1.981.159/RS, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 22/6/2022.)
+Quanto ao dissídio,"Segundo entendimento desta Corte a inadmissão do recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, em razão da incidência de enunciado sumular, prejudica o exame do recurso no ponto em que suscita divergência jurisprudencial se o dissídio alegado diz respeito ao mesmo dispositivo legal ou tese jurídica, o que ocorreu na hipótese. Nesse sentido: AgInt no REsp 1.590.388/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 24/3/2017; AgInt no REsp 1.343.351/SP, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 23/3/2017"(AgInt no REsp n. 1.973.876/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 19/5/2022).
+No mesmo sentido:
+IV - Os óbices que impedem o exame do especial pela alínea a prejudicam a análise do recurso interposto pela alínea c do permissivo constitucional para discutir a mesma matéria. Precedentes.(AgInt no REsp n. 1.965.098/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 6/4/2022.)
+VI. É firme o entendimento desta Corte no sentido de que "os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial" (STJ, AgInt no REsp 1.503.880/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 08/03/2018).
+ .. (AgInt no REsp n. 1.659.007/PE, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 16/2/2022.)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte agravante, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
