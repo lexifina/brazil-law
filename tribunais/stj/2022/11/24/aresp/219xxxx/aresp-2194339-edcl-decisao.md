@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ALESSANDRO GAMA DA SILVA, à decisão de fls. 220/221, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Diante da prolação do acordão o embargante interpôs Recurso Especial TEMPESTIVAMENTE conforme certidão judicial constante ao Id 15126706 do processo originário, colacionada abaixo: (fl. 225).
+ ..
+Assim, em que pese a habitual sabiedade deste Egrégio Tribunal Superior, faz-se necessário asseverar a existência de contradição havida entre o entendimento esposado na fundamentação discorrida na prolação da decisão uma vez que considerou o Recurso Especial intempestivo quando este já havia sido certificado como tempestivo em decisões pretéritas e certidão judicial constante nos autos, conforme se expõe pelas razões de fato e direito abaixo delineadas (fl. 229).
+ ..
+Pela leitura da referida certidão depreende-se que a tempestividade da interposição decorre dos feriados NACIONAIS havidos, sendo estes 2 dias em razão do carnaval e 1 referente a quarta-feira de cinzas, em consonância com a LC n. 94/1993, art. 61, § 2º, Coje, Lei Federal nº 1.408 de 09/08/51, art. 5º e LC n. 94/1993, art. 61, § 2º, Coje e o Ato 1012/2021-PR (fl. 230).
+ ..
+Não há que se falar em recurso manifestamente intempestivo, quando a tempestividade deste já fora devidamente constatada e detalhada nos autos. E, desse modo, os termos do §6º do art. 1.003 do CPC encontram-se devidamente preenchidos no caso em tela, uma vez que a finalidade do instituto legal é assegurar a análise da tempestividade antes de qualquer análise meritória (fl. 232).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Registre-se que o feriado nacional de 1º/3/2022 não precisa ser comprovado. Porém, os dias 28/2/2022 e 2/3/2022 são supostamente feriados locais, razão pela qual deveriam ter sido comprovados no momento da interposição do recurso.
+Observe ainda que, "a jurisprudência desta Corte Superior entende que segunda- feira de carnaval, quarta-feira de cinzas, dias da Semana Santa que antecedem a Sexta-Feira da Paixão, Corpus Christi e Dia do Servidor Público são considerados feriados locais para fins de comprovação da tempestividade recursal" (AgInt nos EDcl no AREsp 1639906/ES, relator Ministro Marco Buzzi, Quarta Turma, DJe 24/06/2022).
+Por outro lado, o documento de fl. 173 não tem o condão de afastar a intempestividade do recurso, uma vez que juntado em 18/3/2022, ou seja, posteriormente ao recurso especial, o qual foi interposto em 15/3/2022.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
