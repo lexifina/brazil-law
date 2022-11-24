@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por REGINA PEDROSA DE OLIVEIRA contra decisão que inadmitiu o recurso especial, por aplicação daSúmulan. 7 do STJ (e-STJ fls. 2.257/2.258).
+O Tribunal de origem negouprovimento aos apelos da recorrente e da recorrida, em julgado que recebeu a seguinte ementa (e-STJ fl.2.035/2.036):
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL. ERRO MÉDICO. NÃO COMPROVAÇÃO. OBRIGAÇÃO DE MEIO. DEVER DE INDENIZAR AFASTADO. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. ADEQUAÇÃO. MANUTENÇÃO DA SENTENÇA.
+1. A responsabilidade civil por erro médico requer a comprovação de que a lesão suportada pelo paciente decorreu de ação ou omissão dolosa ou culposa (negligência, imprudência e imperícia) do profissional responsável pelo tratamento médico.
+2. A prestação de serviço médico, em regra, é obrigação de meio e não de resultado, a qual se limita ao desempenho ou emprego de determinados meios ou de conhecimentos específicos para se alcançar um resultado, este, porém, não garantido.
+3. Em se tratando de matéria essencialmente técnica, o laudo pericial assume especial relevância, sobretudo à mingua de outros elementos de prova.
+4. A ausência do nexo de causalidade entre a conduta do profissional e o dano imposto ao Autor descaracteriza a responsabilidade civil por alegado erro médico e em consequência o dever de indenizar.
+5. A jurisprudência desta Corte vem admitindo a aplicação do critério da equidade, para melhor dimensionar o valor dos honorários sucumbenciais, nas hipóteses em que o percentual mínimo de 10% (dez por cento) do valor do proveito econômico ou da causa, previsto no §2º do artigo 85 do CPC/2015, resulte em montante desproporcional à complexidade do feito.
+6. Recursos de apelação conhecidos e não providos.
+Os embargos de declaração opostos pela ora recorridaforam providos, mediante acórdão assim ementado (e-STJ fl. 2.084):
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. APELAÇÃO CÍVEL. ACÓRDÃO EMBARGADO. ERRO MATERIAL. PROVIMENTO.
+1. Constatado erro material no acórdão embargado, dá-se provimento aos embargos de declaração para sanar o vício.
+2. Embargos de declaração conhecidos e providos.
+Novos embargos declaratórios foram opostos pela parte recorrente, os quais foram rejeitados (e-STJ fls. 2.174/2.179).
+Em suas razões (e-STJ fls. 2.202/2.222), com fundamento no art. 105, III, "a" e "c", da CF, a recorrente aponta ofensa ao art. 935 do CC/2002, asseverando que o acórdão recorrido não considerou os indícios de que foi vítima dos recorridos, todos condenados com penas de reclusão em sede de sentença criminal. Nesse contexto argumentou que o reconhecimento da existência de um crime e do seu autor em sentença condenatória penal pode amparar a condenação em ação indenizatória na esfera cível.
+Requer, ainda, a gratuidade de justiça.
+Busca, em suma, o provimento ao recurso especial, a fim de(e-STJ fls. 2.221/2.222):
+ ..  ser reformado o referido acórdão, tanto para considerar os evidentes elementos de prova, indícios de autoria e existência do fato típico que comprovam os danos cometidos contra a Autora, como para restabelecer a gratuidade judiciária concedida à Autora, declarando dispensável o pagamento do preparo do recurso especial, bem como as despesas processuais, incluindo custas e honorários sucumbenciais.
+Contrarrazões apresentadas às fls. 2.232/2.243 (e-STJ).
+O recurso não foi admitido na origem (e-STJ fls. 2.257/2.258).
+Na decisão de fls. 2.305/2.306 (e-STJ) foi indeferido o pedido de justiça gratuita, e posteriormente efetuado o preparo do recurso especial interposto pela parte ora recorrida (e-STJ fls. 2.308/2.311).
+Parecer do Ministério Público às fls. 2.319/2.329 (e-STJ).
+É o relatório.
+Decido.
+I - Da gratuidade de justiça
+Em decisão de fls. 2.305/2.306 (e-STJ) foi indeferido o pedido de justiça gratuita, e posteriormente efetuado o preparo do recurso especial interposto pela parte ora recorrida (e-STJ fls. 2.308/2.311). Assim, a pretensão referente à gratuidade da justiça, revela-se insubsistente, diante do indeferimento do pleito, bem como do recolhimento do preparo.
+Prejudicado o recurso, quanto ao tema, por perda de objeto.
+II - Da responsabilidade civil
+No que respeita aoalegado erro médico, o Tribunal de origem, ao analisar as circunstâncias fáticas e as provas carreadas aos autos, concluiu pela ausência de comprovação da existência de ato ilícito praticado pelos recorridos, como se extrai dos trechos a seguir (e-STJ fls. 2.087/2.098):
+Sustenta a parte Autora que o entendimento monocrático não merece prevalecer, porquanto não atentou para as circunstâncias e documentos apresentados, firmando-se em laudo pericial frágil, que apresenta inúmeras contradições, omissões e imparcialidades do perito.
+Defende haver várias provas de que "não se trata somente de um erro médico passível de indenização, mas sim de um crime cometido contra a vida e a saúde da Autora, por uma quadrilha altamente especializada e profissional." Relata que os Réus estão sendo investigados criminalmente por infrações que ocorreram exatamente dentro do período em que a Autora realizou as duas cirurgias e com o mesmo modus operandi, tendo sido, inclusive, intimada a prestar depoimento na delegacia especializada de combate ao crime organizado (DECO).
+Requer a cassação da r. sentença para que seja determinada a realização de nova perícia, ou a reforma do decisum, para se julgar procedente o pedido de indenização por danos materiais, morais e estéticos.
+Contudo, em que pese a triste situação vivenciada pela Apelante, entendo não restaram preenchidos os requisitos para a responsabilização civil dos Requeridos.
+Os autos cuidam de responsabilidade civil, decorrente de possível erro médico.
+O erro médico se verifica quando a lesão suportada pelo paciente decorre de ação ou omissão dolosa ou culposa (negligência, imprudência e imperícia) do profissional responsável pelo tratamento médico.
+A prestação de serviço médico, salvo exceções (por exemplo: cirurgia estética) é obrigação de meio e não de resultado, uma vez que, na obrigação de meio, a assunção de obrigações limita-se ao desempenho ou emprego de determinados meios ou de conhecimentos específicos para se alcançar um resultado, o qual, porém, não é garantido. Nesse tipo de obrigação, portanto, o profissional não tem como garantir o resultado que o paciente espera, pois depende de inúmeros fatores, uma vez que os fins terapêuticos do procedimento ensejam utilização de técnicas relativas à natureza imprecisa da medicina.
+Nesse sentido, para que um suposto erro médico dê azo à indenização, necessário que fique comprovado que o profissional não agiu com os cuidados adequados, necessários e exigíveis; e, ainda, que as sequelas que sobrevieram ao paciente resultaram de conduta negligente.
+Ocorre que os elementos de prova que instruem os autos não têm o condão de corroborar as assertivas da Autora-Apelante no que tange à ocorrência de erro médico e a consequente responsabilização civil dos Requeridos.
+ ..
+Na esteira do disposto no art. 479 do CPC e conforme já se pronunciou esta egrégia Turma, dentro do livre convencimento racional ou da persuasão racional, o juízo tem a liberdade para apreciar a prova, não estando adstrito nem mesmo a laudo pericial, se sobejarem outros elementos de convicção aptos a conduzirem conclusão diversa à apontada pela prova técnica. (TJDFT, 20140110076203APC, Rel. Des. LEILA ARLANCH, 7ª TURMA CÍVEL, julgado em 24/05/2017, DJe 31/05/2017).
+Ocorre que à míngua de outros elementos e sobretudo em se tratando de erro médico, a perícia assume especial relevância, porquanto a negligência, imprudência ou imperícia dos profissionais não pode ser presumida revelando-se imprescindível, portanto, para determinar a extensão do dano e o nexo causal entre o dano e a conduta atribuída ao médico (nesse sentido: 20150111359330APC, Rel. GISLENE PINHEIRO, 7ª TURMA CÍVEL, julgado em 22/03/2017, DJe 28/03/2017).
+Não se olvida que, no caso, a Autora impugnou o laudo pericial e demonstrou reiteradas vezes seu inconformismo contra os esclarecimentos prestados. Todavia, ainda que o laudo pericial não venha a ser elaborado segundo a melhor técnica, isso não afasta o seu conteúdo probante, sobretudo diante dos esclarecimentos prestados em relação a todas as impugnações apresentadas pelas partes, cujos laudos complementares esclarecem que o tratamento adotado mostrava-se aceitável ao caso, baseado no exame clínico e nos laudos e exames acostados aos autos.
+Sobreleva notar que, pelas respostas aos quesitos, não há elementos de prova para se afirmar como errônea a tentativa de tratamento cirúrgico, além de restar salientado que a possibilidade de extravasamento do cimento ósseo, como ocorrido no caso, é uma das complicações esperadas na cirurgia realizada.
+No mais, a ausência de respostas aos quesitos por estarem prejudicados ou respostas e conclusões contrárias à pretensão do Autor não constituem motivos para desconsiderar o valor probatório da perícia.
+ ..
+Nesse sentido, acertado o entendimento do i. Magistrado ao invocar o laudo pericial para concluir pela ausência de nexo causal entre a conduta atribuída ao médico e o dano experimentado pela Autora, ressaltando a ausência de outras provas hábeis à comprovação das alegações veiculadas na petição inicial.
+A revisão do fundamento da origem com base nas questões factuais demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o óbice da Súmula n. 7 do STJ.
+Ademais, quanto à tese de que os recorridos foram condenados criminalmente por infrações que ocorreram exatamente dentro do período em que a recorrente realizou as duas cirurgias, o acórdão recorrido consignou que "apesar de haver procedimento em curso contra os Réus, foi proferida sentença naquela esfera atestando não haver indícios concretos de uso de material cirúrgico fora do prazo de validade, realização de procedimentos cirúrgicos desnecessários ou indícios de crimes contra o consumidor" (e-STJ fl. 2.099).
+Ressalta-se, assim, que a aferição do dever de indenizar no presente caso, por importar em incursão no suporte fático-probatório dos autos, esbarra no óbice da Súmula n. 7/STJ.
+III- Do dissídio jurisprudencial
+Quanto ao dissenso interpretativo, cumpre ressaltar que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, quando o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula n. 7 do STJ também se aplica aos recursos especiais baseados na alínea "c" do permissivo constitucional.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
