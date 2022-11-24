@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de Agravo Interno do INSS contra decisão (fls. 227-229, eSTJ) que deu provimento ao Recurso Especial da parte ora agravada, a fim de "obstar o cancelamento automático do auxílio-doença, sem prévio procedimento administrativo".
+A parte agravante sustenta (fl. 232, e-STJ):
+(..) esclarecimentos precisam ser feitos uma vez que a matéria está suspensa por deliberação do Supremo Tribunal Federal. Posto que a tese apresentada teve a repercussão geral reconhecida Pelo Plenário Virtual do STF, no RERG nº 1.347.526/SE, correspondente ao Tema nº 1.196 da Repercussão Gera do Supremo Tribunal Federal: "REPRESENTATIVO DA CONTROVÉRSIA. CONSTITUCIONAL E PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. DATA DE CESSAÇÃO DO BENEFÍCIO (DCB). MEDIDAS PROVISÓRIAS 739/2016 E 767/2017. LEI 13.457/2017. CONTROVÉRSIA SOBRE A CONSTITUCIONALIDADE FORMAL. ALEGADA VIOLAÇÃO DOS ARTIGOS 62, CAPUT E § 1º, INCISO I, ALÍNEA B, E 246 DA CONSTITUIÇÃO FEDERAL. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL. Decisão: O Tribunal, por unanimidade, reputou constitucional a questão. O Tribunal, por unanimidade, reconheceu a existência de repercussão geral da questão constitucional suscitada". (DJe de 23/02/2022).
+Nesse contexto, verifica-se a necessidade processual de sobrestar o presente feito até deliberação final do Plenário do STF.
+No mais, requer a devolução dos autos ao Tribunal de origem para aguardar o julgamento da Repercussão Geral, ou, o sobrestamento dele nesta Corte Superior de Justiça(fls. 231-234, e-STJ).
+Pleiteia, ao final, a reconsideração da decisão agravada ou a submissão do feito à Turma julgadora.
+Impugnação às fls. 239-245, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 18.8.2022.
+Diante das argumentações trazidas pela Autarquia Federal, reconsidero a decisão agravada e passo ao reexame do Recurso Especial.
+Cuida-se de Recurso Especial (art. 105, III, "a", da CF/1988) no qual se impugna acórdão do Tribunal Regional Federal da 3ª Região assim ementado (fl. 140, e-STJ):
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. LEI Nº 8.213/1991. REQUISITOS PREENCHIDOS. BENEFÍCIO CONCEDIDO.
+- A aposentadoria por invalidez é devida ao segurado que, cumprida a carência mínima, quando exigida, for considerado incapaz para o trabalho e insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência, ao passo que o auxílio-doença destina-se àquele que ficar temporariamente incapacitado para o exercício de sua atividade habitual.
+- Constatada pelo laudo pericial a incapacidade total e temporária para o trabalho e preenchidos os demais requisitos, é devido o benefício de auxílio-doença, desde a data do exame médico-pericial.
+- O auxílio-doença ora concedido deve ter a duração mínima de 6 (seis) meses a partir da perícia, ocorrida em 18/06/2019, devendo a parte autora ser previamente notificada acerca da previsão de cessação do mencionado benefício, de modo a possibilitar-lhe eventual pedido administrativo de prorrogação na hipótese de permanência da incapacidade, nos termos da legislação de regência.
+- Juros de mora, correção monetária e custas processuais fixados na forma explicitada.
+- Honorários advocatícios a cargo do INSS em percentual mínimo a ser definido na fase de liquidação.
+- Apelação da parte autora parcialmente provida.
+Ao contrário do que alega a parte agravada, observa-se que a questão debatida nos autos é a possibilidade de alta programada após a edição da Medida Provisória 739/2016, substituída pela Medida Provisória 767/2017 e convertida na Lei 13.457/2017, as quais alteraram a Lei 8.213/1991, inserindo preceito sobre prazo estimado para a duração do benefício.
+A matéria encontra-se com Repercussão Geral reconhecida pelo Supremo Tribunal Federal, no RE 1.347.526/SE, Tema 1.196/STF, da relatoria do Ministro Luiz Fux, em sessão do Plenário Eletrônico de 17.2.2022, como se verifica da seguinte ementa:
+RECURSO EXTRAORDINÁRIO. REPRESENTATIVO DA CONTROVÉRSIA. CONSTITUCIONAL E PREVIDENCIÁRIO. AUXÍLIO DOENÇA. DATA DE CESSAÇÃO DO BENEFÍCIO (DCB). MEDIDAS PROVISÓRIAS 739/2016 E 767/2017. LEI 13.457/2017. CONTROVÉRSIA SOBRE A CONSTITUCIONALIDADE FORMAL. ALEGADA VIOLAÇÃO DOS ARTIGOS 62, CAPUT E § 1º, INCISO I, ALÍNEA B, E 246 DA CONSTITUIÇÃO FEDERAL. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL. (RE 1.347.526 RG, Relator(a): MINISTRO PRESIDENTE, Tribunal Pleno, julgado em 17-2-2022, PROCESSO ELETRÔNICO DJe-036 DIVULG 22-2-2022 PUBLIC 23-2-2022).
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual, isto é, a criação de mecanismo que faculte às instâncias de origem o exercício do juízo de retratação na forma dos arts. 1.039 a 1.041 do CPC/2015. Nesse sentido: AgInt no REsp 1.833.016/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 27.4.2020; REsp 1.864.760/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 17.4.2020; REsp 1825441/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 18.3.2020; e REsp 1.834.832/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 12.12.2019.
+Ante o exposto, conheço do Agravo Interno e reconsidero a decisão agravada, tornando-a sem efeito, a fim de determinar a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 543-B, § 3º, e 543-C, §§ 7º e 8º, do CPC/1973 e 1.040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo Recurso Excepcional Representativo da Controvérsia:
+a) negue seguimento ao Recurso, se a decisão recorrida coincidir com a orientação emanada pelo STF;ou
+b) proceda ao juízo de retratação na hipótese de o aresto recorrido divergir da tese firmada no julgamento da matéria com Repercussão Geral reconhecida.
+Publique-se.
+Intimem-se.
