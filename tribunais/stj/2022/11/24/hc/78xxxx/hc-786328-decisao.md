@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MICHEL IZAQUIEL DO NASCIMENTO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 0002838-78.2018.8.26.0229.
+Consta nos autos que o Paciente foi condenado às penas de 2 (dois) anosde reclusão, em regime inicial semiaberto, e 300(trezentos) dias-multa, por incidir no disposto no art. 37da Lei n. 11.343/2006.
+Interposta apelação pelo Parquet, o Tribunal de origem deu provimento ao recurso para condenar o Paciente como incurso no artigo 33, caput,da Lei n.11.343/2006, à pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime inicial fechado, e ao pagamento de 583 (quinhentos e oitenta e três)dias-multa(fl. 37), em razão da apreensão de268,6 gramas de cocaína,405,6 gramas de maconhae 85 gramasde crack (fls. 4-5).
+Neste habeas corpus, sustenta a ausência de fundamentação adequada para a fixação do regime fechado para o início do cumprimento da pena.
+Requer, inclusive liminarmente, a concessão da ordem para se impor o regime semiaberto para o resgate da reprimenda.
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL.HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS.REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME.OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART.112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta."(AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido."(AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração
+Ao fixar as penas do Paciente, o Tribunal de origem apresentou os seguintes fundamentos (fls. 35-36; grifos diversos do original):
+"Fixo a pena-base em 1/6 acima do mínimo legal, em 5 anos e 10 meses de reclusão e 583 dias-multa, respeitadas as diretrizes do art. 59, do CP, e do art. 42, da Lei de Drogas, considerada a quantidade de drogas apreendida e diversidade (150 porções de cocaína, com peso bruto de 268,6gramas; 130 porções de maconha, com peso bruto de 405,6 gramas; e 134 porções de crack, com peso bruto de 85 gramas), além de o réu possuir maus antecedentes, pois, como já mencionado, ele possui condenação criminal em primeira instância pela prática do crime de tráfico de drogas (autos n.º 0010741-04.2017.8.26.0229).
+ ..
+No presente caso, as majorações se justificam em condenações definitivas diversas, razão pela qual não ocorre "bis in idem".
+Assim, além da quantidade e variedade de drogas apreendidas, como o réu fez da prática dos crimes seu meio de vida, diante de tais prognósticos negativos, a imposição da reprimenda acima do mínimo legal se mostra adequada.
+Na segunda fase, presente a agravante de reincidência (certidão de fls. 9/10 do segundo apenso), seguindo a regra do art. 67, do CP, ela prepondera sobre a atenuante de confissão espontânea.
+Na terceira fase, não é caso de reconhecimento do redutor previsto no art. 33, 4º, da Lei 11.343/06, diante da reincidência do acusado.
+Assim, torno a pena definitiva no patamar de 5 anos e 10 meses de reclusão e 583 dias-multa, no valor unitário mínimo.
+O regime inicial fechado é o único adequado ao presente caso, por ser o réu reincidente nos termos do art. 33, § 3º, do CP.
+O art. 33, § 2º, alínea "b", do Código Penal dispõe que o condenado poderá, desde o princípio, cumprir a pena em regime inicial semiaberto, quando a pena for superior a 4 e não exceda a 8 anos.
+Porém, tal dispositivo deve contar também com a observância do seu § 3º, que dispõe: "A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código", o que justifica a fixação do regime inicial fechado no presente caso."
+Ora,embora  o  quantum  da  pena  aplicada  permita  a  adoção  do  regime  inicial  mais  brando,  os  critérios  estabelecidos  no  art.  59  do  Código  Penal  e do art. 42 da Lei de Drogas  (maus  antecedentes, natureza equantidade da substância),  além  da  presença  da  reincidência,  recomendam  que  seja  adotado  regime  mais  gravoso,  sendo  inadequada,  no caso,  a  fixação  de  regime  diverso  do  fechado.Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE FURTO QUALIFICADO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. REGIME INICIAL DE CUMPRIMENTO DE PENA. CONCURSO DE CRIMES. SOMA DAS PENAS. RÉU REINCIDENTE. REGIME INICIAL FECHADO. DECISÃO MANTIDA.
+1. Na fixação do regime inicial de cumprimento da pena, deve o julgador, nos termos dos arts. 33, §§ 1º, 2º e 3º, e 59 do Código Penal, observar a quantidade de pena aplicada, a primariedade do agente e a existência de circunstâncias judiciais desfavoráveis.
+2. O regime inicial de cumprimento de pena deve ser fixado de acordo com a soma resultante das penas impostas em razão do concurso de crimes.
+3. Na hipótese em que a pena definitiva é superior a 4 anos e não excede a 8 anos, sendo reincidente o réu, é cabível a fixação do regime inicial fechado.
+4. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+5. Agravo regimental desprovido."(AgRg no HC n. 633.088/MG, relator Ministro JOÃO OTÁVIO DE NORONHA, Quinta Turma, julgado em 15/6/2021, DJe de 17/6/2021; grifei.)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 7/STJ. AFASTAMENTO. QUESTÃO DE DIREITO. TRÁFICO. PENA RECLUSIVA SUPERIOR A 4 E INFERIOR A 8 ANOS. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. REGIME MAIS GRAVOSO. AGRAVO PROVIDO PARA CONHECER DO RECURSO ESPECIAL, MAS NEGAR-LHE PROVIMENTO.
+1. Constatado tratar-se de questão exclusivamente de direito, que independe da análise de fatos e provas, afasta-se a incidência da Súmula 7/STJ.
+2. Não há ilegalidade na fixação do regime inicial fechado para o cumprimento da pena fixada entre 4 e 8 anos, se Tribunal de origem mantém a pena-base acima do mínimo legal, haja vista a valoração negativa da culpabilidade do recorrente.
+3. Agravo regimental provido para conhecer do recurso especial, mas negar-lhe provimento."(AgRg no AREsp n. 1.694.663/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 08/09/2020, DJe 14/09/2020; sem grifos no original.)
+Ante o exposto, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. REINCIDÊNCIA E CIRCUNSTÂNCIASJUDICIAISNEGATIVAS. PENA PRIVATIVA DE LIBERDADE SUPERIOR A QUATRO ANOS. CABIMENTO DO REGIME INICIAL FECHADO. FUNDAMENTAÇÃO IDÔNEA. ORDEM DENEGADA.
