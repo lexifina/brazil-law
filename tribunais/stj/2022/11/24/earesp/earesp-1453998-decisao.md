@@ -1,0 +1,23 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de divergência opostos por BEATRIZ DE ALMEIDA PRADOem face de acórdão proferido pela 4ª Turma, de relatoria do Ministro Maria Isabel Gallotti, assim ementado:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. INVIABILIDADE. APRECIAÇÃO EQUITATIVA. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. ART. 85, § 2º, DO CÓDIGO DE PROCESSO CIVIL/2015. LIMITAÇÃO. NÃO OCORRÊNCIA.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Na apreciação equitativa, o magistrado não está restrito aos limites percentuais estabelecidos no art. 85, § 2º, do Código de Processo Civil/2015. Precedentes.
+3. Agravo interno a que se nega provimento.
+A embargantealegaa existência de divergência entre o acórdão embargado e julgados da 3ª Turma (AgInt no REsp nº 1.805.268/DF e AgInt no Aresp 1.187.650/SP) e Segunda Seção (REsp 1.746.072/PR) do STJ, sustentando, além do cabimento do recurso na hipótese,que nas ações que possuírem proveito econômico aferível ou, sendo impossível sua aferição, valor de causa não muito baixo, bem como nas em que houver condenação, os honorários de advogado serão estabelecidos com observância obrigatória dos limites previstos no art. 85, 2º do Código de Processo Civil.
+Impugnação apresentada às fls. 1.007/1.016(e-STJ).
+É o relatório.
+Decido.
+Com fundamento na orientação contida na Súmula 568/STJ, estou em proceder ao julgamento monocrático dos embargos de divergência, tendo em vista a existência de precedente em recurso especial representativo de controvérsia acerca da questão ora discutida e a necessidade de se desbastarem as pautas já bastante numerosas da Colenda 2ª Seção.
+De início, cumpre reafirmar a comprovação do dissídio jurisprudencial alegado pelaembargante e, nesse contexto, penso que os embargos dedivergência devem ser providos.
+Isso porque a questão relacionada ao arbitramento dehonoráriosadvocatícios por apreciaçãoequitativado juiz (Tema 1.076/STJ) foi definitivamente julgada pela Corte Especial do Superior Tribunal de Justiça, sob o rito dos recursos repetitivos, na apreciação dos REsp"s 1.906.618/SP, 1.906.623/SP, 1.877.883/SP e 1.850.512/SP, de relatoria doMinistro OgFernandes (DJe de 31/05/2022), - com especial eficácia vinculativa, portanto (CPC, art. 927, III) -, firmando tais precedentes vinculantes as seguintes teses jurídicas:
+"i) A fixação doshonoráriospor apreciaçãoequitativanão é permitida quando os valores da condenação, da causa ou o proveito econômico da demanda forem elevados. É obrigatória, nesses casos, a observância dos percentuais previstos nos §§ 2º ou 3º do art. 85 do CPC - a depender da presença da Fazenda Pública na lide -, os quais serão subsequentemente calculados sobre o valor: (a) da condenação;ou (b) do proveito econômico obtido; ou (c) do valor atualizado da causa.
+ii) Apenas se admite arbitramento dehonoráriosporequidadequando, havendo ou não condenação: (a) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (b) o valor da causa for muito baixo."
+Corroboram essa orientação, os seguintes julgados:AgInt nos EDcl nos EREsp n. 1.866.671/RS (relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 21/9/2022, DJe de 27/9/2022) e EREsp n. 1.911.918/SP (relator Ministro Mauro Campbell Marques, Primeira Seção, julgado em 11/5/2022, DJe de 27/5/2022).
+Assim, verifica-se que, diversamente do esposado pelo acórdão impugnado, o caso dos autos não é de incidência do óbice da Súmula 7/STJ, mas sim de definição do critério normativo adequado para arbitramento da verba honorária. E, à luz do provimento jurisdicional condenatório fixado nas instâncias ordinárias - cujo valor da causa está expressamente referido na sentença -, afigura-se de rigor o arbitramento doshonoráriosadvocatícios em 10% do aludido quantum, conforme já estabelecido na sentença (fls. 505/509 e-STJ), com base no § 2º do artigo 85 do CPC, não retratando, evidentemente, hipótese de proveito econômico inestimável.
+Ante o exposto,acolho os embargos de divergência, nos termos da fundamentação.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL.PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PRETENSÃO DE APLICAÇÃO DA REGRA DEEQUIDADE, TENDO EM VISTA ALEGAÇÃO DE ELEVADO VALOR DA CAUSA. INVIABILIDADE. INCIDÊNCIA OBRIGATÓRIA DO ART. 85, § 2.º, DO CPC/2015. PRECEDENTES VINCULANTES DA CORTE ESPECIAL: RESP 1.906.618/SP, RESP 1.906.623/SP, RESP 1.877.883/SP E RESP 1.850.512/SP, RELATOR MINISTRO OG FERNANDES, JULGADOS EM 16/03/2022, DJE DE 31/05/2022.
+RECURSO PROVIDO.
