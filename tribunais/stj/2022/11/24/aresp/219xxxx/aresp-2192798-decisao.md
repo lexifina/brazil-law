@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado de Rondônia, desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (fl. 53):
+Agravo de Instrumento. Penhora sobre verba salarial. Impossibilidade.
+A penhora sobre proventos e salários é vedada por lei, visando resguardar o perigo a irreversibilidade e o princípio da dignidade da pessoa humana, tendo em vista o caráter alimentar.
+Recurso não provido.
+Nas razões do recurso especial, a parte agravante aponta dissídio jurisprudencial e violação aos arts. 833, IV e § 2º, e 927, V, do CPC. Sustenta, em resumo, a possibilidade de penhora do salário em sede de execução fiscal quando a constrição não tiver o condão de afetar a dignidade do devedor, pois "enquanto o acórdão impugnado conclui pela impenhorabilidade salarial em aplicação literal ao art. 833, IV, do CPC/15, os acórdãos paradigmas interpretam o mesmo contexto fático no sentido de admitir, em execuções de dívidas não alimentares, a exceção à regra da impenhorabilidade, destacando, inclusive, existência de exceção implícita quando a penhora não afetar a dignidade do devedor e de sua família" (fl. 129).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece trânsito.
+Com efeito, o Tribunal de origem, ao entender pela impenhorabilidade do salário do recorrido, o fez com base nas seguintes razões de decidir (fls. 53):
+Os tribunais superiores tem entendimento sobre a matéria e não admitem a penhora salarial, tendo em vista o caráter alimentar para a sobrevivência com dignidade do executado.
+ ..
+No caso, informa o Estado de Rondônia que o agravado é servidor do Dnit e percebe mensal o valor médio de R$ 6.600,00, mas não junta provas acerca dessa informação, inviabilizando a penhora pleiteada por ser de caráter alimentar e poder causar a irreversibilidade.
+Por fim, não há elementos capazes de alterar a decisão agravada e se faz necessária sua manutenção para evitar o perigo da irreversibilidade e preservar o princípio da dignidade humana.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, para reconhecer a penhorabilidade de percentual do salário do recorrido, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Ademais, no presente caso, o recurso especial não impugnou fundamento basilar que ampara o acórdão recorrido, qual seja, "informa o Estado de Rondônia que o agravado é servidor do Dnit e percebe mensal o valor médio de R$ 6.600,00, mas não junta provas acerca dessa informação" (fl. 53) esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". A respeito do tema: AgInt no REsp 1.711.262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no AREsp 1.679.006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/2/2021.
+Por fim, matéria pertinente ao art. 927, V, do CPC não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. POLICIAL MILITAR. DOENÇA GRAVE. INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. SÚMULA 282 E 356 DO STF. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de nenhum erro, omissão, contradição ou obscuridade.
+Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+2. Verifico que os arts. 86 e 927 do CC não foram apreciados pelo Tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo Tribunal de origem da matéria impugnada, objeto do recurso excepcional, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.814.524 / SC, rel. Ministro Manoel Erhardt (Desembargador convocado do TRF5, Primeira Turma, DJe 17/08/2022)
+Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
