@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto por EUNICE FORTES PEREIRA contra decisão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, que não admitiu recurso especial, fundado nas alíneas "a" e "c" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl. 361):
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. SERVIDOR PÚBLICO. RESÍDUO DE 3,17%. BASE DE CÁLCULO. ANUÊNIOS. 28,86%. INCIDÊNCIA SOBRE QUINTOS/DÉCIMOS E VPNI. LIMITAÇÃO TEMPORAL. JUROS MORATÓRIOS. ARTIGO 354 DO CC. CRITÉRIOS DE CORREÇÃO. ARTIGO 1º-F DA LEI 9.494/97, COM A REDAÇÃO DADA PELO ART. 5º DA LEI 11.960/2009.
+1- Não há como a Administração, uma vez reconhecido eventual débito em relação a verbas salariais de servidores públicos, efetuar pagamentos administrativos sem que se priorize o pagamento do principal. Não é da sistemática do pagamento de servidores reconhecer direito à determinada parcela remuneratória e destinar o pagamento pura e simplesmente para quitação dos juros da respectiva verba sem que o faça primeiramente em relação ao principal. Inaplicabilidade, assim do artigo 354 do CC/2002 ao caso.
+2 - O cálculo exequendo deve se basear na remuneração constante das fichas financeiras do servidor. A incidência do reajuste de 3,17% sobre as diferenças de anuênios reconhecidas judicialmente deve ser postulada naquele processo. 3 - Devida a inclusão, na base de cálculo dos 3,17%, das diferenças apuradas como devidas em razão do aumento de 28,86%.
+4 - Aplicam-se, quanto à correção monetária e juros de mora, os índices de remuneração utilizados na remuneração das cadernetas de poupança, com o advento da Lei nº 11.960/2009, que alterou a redação do artigo 1º-F da Lei 9.494/97.
+5 - O reajuste de 3,17% incide sobre o vencimento básico, as vantagens e gratificações de caráter permanente e vinculadas ao exercício do cargo (funções e gratificações, quintos, VPNI"s, etc.).
+Embargos de declaração providos apenas para a suspensão da exigibilidade da verba honorária, devido à concessão de assistência judiciária gratuita (e-STJ fls. 392/402).
+No recurso especial obstaculizado, a parte recorrente apontou,além de dissídio pretoriano,violaçãodos arts. 458, II,e 535, II,do CPC/1973, por negativa de prestação jurisdicional, e, no mérito, dos arts.460, 461, 467, 468 e 471 do CPC/1973 e 5º, XXXVI, da CF, argumentando que ocorreuviolação da coisa julgada e que, "por haver, no presente caso, decisão transitada em julgado afastando a possibilidade de limitação da conta a junho de 2008, é inviável decidir pela possibilidade de tal limitação." (e-STJ fl. 607)
+Por fim, alega afronta ao art. 5º da Lei n.11.960/2009, defendendoa capitalização dos juros moratórios.
+O julgado foi submetido à sistemática dos recursos repetitivos, havendo o juízo de retratação quanto ao índice de correção monetária, em aresto assim resumido (e-STJ fl. 678):
+ADMINISTRATIVO. CORREÇÃO MONETÁRIA. TEMAS 810 (STF) E905 (STJ). JUÍZO DE RETRATAÇÃO. ADEQUAÇÃO DO JULGADO ÀS DECISÕES DOS TEMAS 810 DO STF E 905 DO STJ, PARA AFASTAMENTO DA TR COMO ÍNDICE DE CORREÇÃO MONETÁRIA A PARTIR DA VIGÊNCIA DA LEI 11.960/2009.
+O apelo nobre foi inadmitido (e-STJ fls. 754/773).
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita tal anotação, deixo de apreciar a matéria relativa àviolação do art. 5º da Lei n.11.960/2009, porque foiobjeto de retratação, sem interposição de recurso.
+Quanto à alegada ofensa ao art. 535 do CPC/1973, observo que o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, nenhuma contrariedade à norma invocada.
+Ademais, consoante entendimento jurisprudencial pacífico, o órgão julgador não está obrigado a se manifestar sobre todos os argumentos levantados pelas partes para expressar a sua convicção, notadamente quando encontrar motivação suficiente ao deslinde da causa.
+Nesse sentido: AgRg no AREsp 750650 / RJ, Relator Ministro HUMBERTO MARTINS, Órgão Julgador T2 - SEGUNDA TURMA, DJe 30/09/2015, e AgRg no AREsp 493652/RJ, Relator Ministro SÉRGIO KUKINA, Órgão Julgador T1 - PRIMEIRA TURMA, DJe 20/06/2014.
+Em relação à suposta contrariedade do art. 5º, XXXV, da Constituição Federal, cumpre salientar que o recurso especial não é remédio processual adequado para conhecer de irresignação fundada em suposta afronta a preceito constitucional, sendo essa atribuição da Suprema Corte, em sede de recurso extraordinário (art. 102, III, da CF).
+Por fim, éfirme a jurisprudência desta Corte Superior de que não resulta ofensa à coisa julgada a determinação de limitação temporal do pagamento do reajuste de 3,17% à data da reestruturação ou reorganização da carreira. (AgInt nos EDcl no REsp n. 1.701.058/CE, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 28/10/2019, DJe de 30/10/2019.)
+No caso, a Corte de origem afirmou o seguinte (e-STJ fl.
+Limitação temporal
+A questão foi tratada na sentença dos embargos de declaração nas seguintes linhas, as quais adoto como razão de decidir:
+Quanto ao mérito, a Contadoria manifestou-se sobre o tema, afirmando que o reajuste concedido absorveu integralmente o índice 3,17% em julho de 2008 (evento 23, PARECERTEC1).
+O cálculo, diante disso, deve ser limitado a junho de 2008.
+Verifica-se, pois, que, ao contrário do que alega a parte embargada, a Contadoria reconheceu que o cálculo deve ser limitado a 2008 (Evento 23 -PARECERTEC1):
+(..) matematicamente, conforme o demonstrado abaixo, o reajuste concedido absorveu integralmente o índice 3,17% em julho de 2008.
+Portanto, o cálculo sobre função/quintos deve ser limitado em junho de 2008.
+Conforme se observa, não há no acórdão nenhuma afirmação sobre a ocorrência de reestruturação da carreira, havendo nelereferência apenas ao reajuste ocorrido.
+Nesse passo, a modificação do julgado, nos moldes pretendidos, não depende de simples análise do critério de valoração da prova, mas do reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, de acordo com a Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
