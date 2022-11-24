@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 25):
+AGRAVO EM EXECUÇÃO - INSURGÊNCIA DO MINISTÉRIO PÚBLICO EM FACE DE DECISÃO QUE DEFERIU A PROGRESSÃO AO REGIME SEMIABERTO AO SENTENCIADO SEM A REALIZAÇÃO DE EXAME CRIMINOLÓGICO PARA AFERIÇÃO DO MÉRITO - RECURSO PARCIALMENTE PROVIDO, APENAS PARA SUBMETER O AGRAVADO AO EXAME CRIMINOLÓGICO.
+Consta dos autos que o juízo da execução deferiu ao paciente a progressão para o regime semiaberto.
+Inconformado, o Ministério Público interpôs recurso de Agravo em Execução, tendo o Tribunal de origem dado provimento ao recurso ministerial a fim de determinar a realização do exame criminológico.
+No presente writ, o impetrante sustenta que a lei não exige mais a realização do exame criminológico, e que por ter bom comportamento e cumprido o tempo necessário, o reeducando faz jus a progressão ao regime semiaberto.
+Requer, liminarmente e no mérito, a anulação do acórdão impugnado e a concessão ao paciente da progressão ao regime semiaberto.
+A liminar foi indeferida.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento dohabeas corpuse, caso conhecido, pela denegação da ordem.
+Formulado pedido de progressão aoJuízo da Execução, foideferido, nos termos seguintes (fl. 17):
+Constata-se, em análise dos autos, que o reeducando descontou parcela superior ao lapso temporal legalmente exigido e possui bom comportamento carcerário. Portanto, satisfaz os requisitos objetivo e subjetivo para pretensão.
+Não há notícia quanto à prática de falta disciplinar recente, o que demonstra que vem assimilando satisfatoriamente a terapêutica penal aplicada.
+De outro lado, sem argumentos concretos autorizantes de um juízo objetivo de necessidade, não se sustenta o pedido de realização de exame criminológico, eis que não bastam alegações subjetivas amparadas somente na gravidade abstrata do delito e no tempo de prisão a cumprir.
+Deste modo, presentes os requisitos e bem demonstradas as condições pessoais, o pedido deve prosperar.
+Interposto agravo em execução, foi provido o recurso ministerial, ante os seguintes fundamentos (fls. 26-28):
+Consta dos autos que o agravado cumpre pena total de 5 anos e 4 meses de reclusão, em razão da prática do delito deroubo qualificado, cujo término de sua pena está previsto para 01/01/2026 (fls. 16/18), tendo sido atestado bom comportamento carcerário (fls. 15).
+A promoção ao regime semiaberto foi concedida, pelo preclaro magistrado de Primeiro Grau, entendendo, pela análise dos autos, que preenchidos os requisitos necessários para a concessão da progressão.
+Todavia, entendo que o presente recurso comporta parcial provimento.
+Em que pese o agravado ter cumprido o requisito objetivo, no presente caso, não ficou demonstrado o preenchimento do requisito subjetivo a ensejar a pretendida progressão de regime.
+O delito praticado pelo agravado, qual seja, roubo qualificado, demonstra a periculosidade do sentenciado, deixando clara a necessidade de maior cautela para a concessão do benefício.
+Não se pode olvidar que o requisito subjetivo é caracterizado pelo elemento de ordem social, levando-se em consideração a reintegração de indivíduo que praticou delitos graves.
+Com efeito, em sede de execução penal, o princípio que rege é in dubio pro societate. E em caso de dúvida - se o condenado pode ou não obter o benefício- deve ser resolvido em favor da sociedade, a qual não é obrigada a conviver na insegurança.
+Nesse sentido,
+"O requisito temporal, à toda evidência, não é o único a ser considerado para a concessão de benefícios a sentenciados, como ilustra o douto parecer ministerial, cuja argumentação adoto na íntegra. Tampouco suficiente atestado de conduta carcerária, a revelar apenas a submissão do condenado à rígida disciplina da prisão, mas inadequado para justificar possa "vivenciar o regime semiaberto, onde a vigilância é branda mas exige-se enorme autodisciplina" como destacado na r. decisão agravada." (TACRIM-SP Ag. Execução n.º 1.397.777/5 - 7ª Câmara Rel. Souza Nery julg. em 27.-5.2004 ).
+É certo que a Lei n.º 10.792/03 alterou a Lei de Execuções Penais, suprimindo a exigência de exame criminológico para osentenciado, bastando para a análise do pedido tão-somente o atestado de bom comportamento carcerário do preso firmado pelo Diretor do estabelecimento penal.
+Entretanto, referida regra não é absoluta, e cada caso merece análise de per si, devendo o julgador atentar para o histórico do preso, quer em relação ao crime por ele praticado, suas circunstâncias, gravidade e tempo de prisão a ser descontado, quer pela conveniência ou não da realização de exame criminológico, apesar de não ser obrigatoriamente exigido.
+Dessa forma, diante das peculiaridades do caso concreto, há necessidade de realização de exame criminológico para aferição do mérito do sentenciado, a fim que se possa comprovar o requisito subjetivo, porquanto não pode haver dúvidas quanto à possibilidade de progressão.
+Como se vê, o Tribunal estadual entendeu ser o caso de realização do exame criminológico em virtude de o paciente ter cometido crimegrave(roubo circunstanciado) e do término dapena, previsto para 01/01/2026.
+Contudo, não foi apontado nenhum elemento concreto capaz de justificar a necessidade de realização do exame criminológico, tendo apenas feito referência aocrimeaoqualfoi condenado.
+Desse modo, verifica-se ilegalidade flagrante no afastamento da benesse, justificada sob argumentação genérica, baseada na gravidade abstrata docrime, ausentes elementos concretos extraídos da execução da pena. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DETERMINAÇÃO DE EXAME CRIMINOLÓGICO BASEADA TÃO SOMENTE NA GRAVIDADE ABSTRATA DO DELITO, LONGA PENA A CUMPRIR E REINCIDÊNCIA. CONSTRANGIMENTO ILEGAL CONFIGURADO. JURISPRUDÊNCIA FIRMADA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte Superior de Justiça pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime, de modo que a avaliação do cumprimento do requisito subjetivo somente poderá fundar-se em fatos ocorridos no curso da própria execução penal. Precedentes.
+2. No caso concreto, as instâncias ordinárias determinaram a realização de exame criminológico com fundamento apenas na gravidade dos crimes praticados, no tempo de pena ainda por cumprir e na reincidência do paciente, fatores que, por si sós, não justificam a realização do exame criminológico. Precedentes: HC 444.132/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/05/2018, DJe 30/05/2018; HC 436.653/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 20/03/2018, DJe 26/03/2018; AgRg no HC 590.322/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/08/2020, DJe 24/08/2020.
+3. Agravo regimental improvido. (AgRg no HC 628.977/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 2/2/2021, DJe 4/2/2021)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. DETERMINAÇÃO DO EXAME CRIMINOLÓGICO PARA AFERIÇÃO DO MÉRITO DO SENTENCIADO. GRAVIDADE ABSTRATA DO DELITO E LONGEVIDADE DA PENA. FUNDAMENTAÇÃO INIDÔNEA. FUGA COMETIDA NO CUMPRIMENTO DE EXECUÇÃO ANTERIOR. IRRELEVÂNCIA. NÃO APRESENTAÇÃO DE ARGUMENTOS NOVOS PELO AGRAVANTE PARA INVALIDAR A DECISÃO AGRAVADA. MANUTENÇÃO POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Esta Corte Superior é firme no entendimento de que a longevidade da pena e a gravidade do delito não são aptos, por si só, a fundamentar a exigência de realização do exame criminológico ou a negativa de concessão de benefícios, porquanto o que se exige do reeducando é que demonstre seu mérito no curso da execução de sua pena.
+2. Consolidou-se neste Tribunal diretriz jurisprudencial no sentido de que faltas graves antigas, já reabilitadas pelo decurso do tempo, não justificam o indeferimento da progressão de regime prisional (HC n. 544.368/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 17/12/2019).
+3 . In casu, o agravante não apresentou argumentos novos capazes de infirmar aqueles que alicerçaram a decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+4. Agravo regimental improvido. (AgInt no HC 554.750/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/6/2020, DJe 30/6/2020)
+Ante o exposto, concedo ohabeas corpuspara afastar a necessidade da realização do exame criminológico, restabelecendo a decisão do juízo das execuções que concedeu aprogressão do paciente ao regime semiaberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
