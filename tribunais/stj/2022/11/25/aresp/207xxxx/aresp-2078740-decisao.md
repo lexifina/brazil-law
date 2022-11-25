@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO, contra decisão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"ADMINISTRATIVO E PROCESSO CIVIL. INMETRO. INOBSERVÂNCIA DAS NORMAS DA RESOLUÇÃO CONMETRO 11/1988. AUSÊNCIA DE INTIMAÇÃO PARA ACOMPANHAMENTO DO EXAME DAS AMOSTRAS. PRODUTOS NÃO APREENDIDOS. BOTIJÕES DE GÁS. CERCEAMENTO DE DEFESA. AUTO DE INFRAÇÃO. NULIDADE REPETIÇÃO DE INDÉBITO. CONSECTÁRIOS LEGAIS. INVERSÃO DO ÔNUS DESUCUMBÊNCIA. APELAÇÃO PROVIDA.
+1. Trata-se de ação ajuizada com o fito de obter a anulação dos Autos de Infração nº 2367192 e 2370871, lavrados pelo IMETRO/SC, órgão delegado do INMETRO, com a consequente repetição do indébito.
+2. As empresas distribuidoras e revendedoras de botijões de gás liquefeito não se confundem, ou seja, são empresas diversas, com atividades diversas, conforme se verifica na Lei nº 9.478/97.
+3. O fato de o representante da empresa revendedora estar presente no momento da medição dos produtos e ter até mesmo assinado o laudo de exame não supre a ausência do preposto da autora, então distribuidora dos botijões de gás, visto que a autuada não foi a revendedora, em cujas dependências os produtos se encontravam e foram inspecionados, mas sim a distribuidora do produto.
+4. Evidencia-se, ademais, que não houve a apreensão do lote nem a prévia comunicação da empresa distribuidora para acompanhar os procedimentos de medição, como exigido pelo artigo 36 da Resolução nº 11/1988, em flagrante violação ao princípio do devido processo legal. Precedentes.
+5. Nos casos em que o produto fiscalizado esteja armazenado ou exposto para comercialização nas revendas, deve a fiscalização apreendê-lo, se possível realizar no local as medições e, se for constatada irregularidade, ou, caso não esteja presente o interessado, retirá-lo do local, mediante recibo especificado, atestando a sua inviolabilidade, com a comunicação do responsável para eventual acompanhamento da medição em hora e local indicado.
+6. Nula, portanto, é a autuação em que os agentes fiscalizadores tenham realizado as medições sem prévia comunicação à autora, situação que não se confunde com a mera falta de comparecimento da parte, após ser regularmente intimada.
+7. Diante do pagamento indevido das multas em questão, faz jus a autora à repetição da quantia indevidamente desembolsada (R$ 8.000,00), acrescida de juros de mora e correção monetária.
+8. Inversão do ônus de sucumbência.
+9. Apelação provida".
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram acolhidos, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. OMISSÃO. RESPONSABILIDADE SOLIDÁRIA. MULTA. INMETRO.EMBARGOS ACOLHIDOS.
+1. Os embargos de declaração são cabíveis quando presente alguma das hipóteses previstas no art. 1.022 do novo Código de Processo Civil.
+2. No caso em apreço, o aresto, de fato, nada consignou acerca de quem deverá proceder ao ressarcimento das multas pagas indevidamente pela embargante.
+3. O IMETRO/SC é representante do INMETRO no Estado de Santa Catarina, tendo como atribuições assegurar a confiabilidade metrológica de instrumentos de medição usados em transações comerciais, garantir a confiabilidade das medições de instrumentos e oferecer serviços de verificação metrológica de analisadores de gases usados para determinar a emissão de poluentes em veículos automotores.
+4. Sendo assim, é o caso de se reconhecer a responsabilidade solidária entre os embargados no reembolso da multa à embargante.
+5. Embargos de declaração acolhidos".
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante alega o seguinte:
+"A autuação sofrida pela ora recorrida resultou da inobservância das normas metrológicas pela empresa.
+Logo de plano deve ficar consignado que a certidão de dívida ativa que resultou na autuação da ora recorrida, preenche todos os requisitos elencados pela legislação pertinente, conforme a regra do artigo 3º, da Lei nº 6.830/80.
+(..)
+O poder de padronizar, regulamentar, fiscalizar e multar do INMETRO tem fundamento no art. 39, VIII do Código de Defesa do Consumidor, verbis:
+(..)
+O Código de Defesa do Consumidor é complementado pela Lei 9.933/99, e foi justamente o descumprimento dos arts. 1º e 5º deste diploma legal que fundamenta a lavratura dos autos de infração, de acordo com o artigo 8º. Tais comandos legais, ao tipificarem a conduta, remetem à observação de Regulamentos Técnicos expedidos pelo CONMETRO e pelo INMETRO. Confira-se:
+(..)
+No que se refere aos critérios para exame de determinação quantitativa do conteúdo efetivo do produto gás liquefeito de petróleo (GLP), quando comercializado em recipientes transportáveis, tal como o produto em tela, deverá ser observado o Regulamento Técnico Metrológico aprovado pelo art. 1.º da ( ): Portaria Inmetro n.º 225/2009 fls. 305/309.
+(..)
+A ora recorrida, por atuar no mercado comercializando e produzindo bens, fica obrigada à observância dos deveres instituídos pelos atos normativos e regulamentos técnicos e administrativos expedidos pelo INMETRO, que estabelecem os critérios e tolerâncias admitidos.
+De acordo com o Regulamento Técnico acima mencionado, para que o lote do produto seja aprovado, necessário que a amostra atenda, concomitantemente, a dois critérios: (a) da média e (b) o individual.
+Conforme Laudos de Exame Quantitativo realizados (fls. 243 e 265), a Apelante foi reprovada no critério , conforme abaixo demonstrado:
+(..)
+Assim, a legislação aplicada ao produto GásLP (Portaria INMETRO nº 225/2009) foi corretamente aplicada no presente caso, conforme se observa dos respectivos Laudos de Exame Quantitativo ora acostados, cujos cálculos e metodologia estão em conformidade com o correspondente normativo.
+Conforme já demostrado, a ora recorrida não produziu qualquer prova no presente feito que pudesse desconstituir os laudos confeccionados no ato da fiscalização, os quais, por serem atos administrativos, gozam de presunção de legitimidade e legalidade.
+(..)
+Nesse sentido, havendo amostras em desconformidade com a regulamentação, segundo o critério individual, tem-se que a Autora infringiu o comando do art. 5.º da Lei 9933/99, sendo obrigatório ao Inmetro, segundo o princípio da legalidade a que está vinculado, a correspondente aplicação de sanção, de acordo com o art. 8.º do mesmo diploma.
+(..)
+Uma vez mais deve ser ressaltado de que, havendo recipientes de gás em desconformidade com a regulamentação, tem-se que a ora recorrida infringiu o comando do art. 5.º da Lei 9933/99, sendo obrigatório ao INMETRO, segundo o princípio da legalidade a que está vinculado, autuar e apenar os infratores.
+(..)
+Por fim, a alegação de afronta ao Princípio da Motivação dos Atos Administrativos tampouco se confirma.
+Em relação a eventual alegação de violação ao princípio da motivação dos atos administrativos, constata-se que todas as decisões proferidas no processo administrativo atendem ao Princípio da Motivação, com indicação das normas em que as lastrearam, em sintonia com ao princípio esculpido no art. 93, inciso X da CF.
+Da mesma forma como ocorre no processo judicial, no processo administrativo também não é necessário que a autoridade que julga o recurso administrativo ingresse, de forma exaustiva, em todas as teses jurídicas levantadas pelo interessado, bastando que adote fundamentação suficiente para decidir de modo integral a controvérsia, que abarque os pontos relevantes ao deslinde do litígio.
+Até porque, conforme artigo 50, parágrafo 1º da Lei 9784/99, "a motivação deve ser explícita, clara e congruente, podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, neste caso, serão parte integrante do ato". E, nesse sentido, portanto, a argumentação da Recorrente está totalmente destituída de amparo jurídico.
+Por sua vez, as decisões administrativas proferidas nos autos estão embasadas nas análises emitidas nos autos pelas áreas competentes, não se podendo confundir falta de motivação com fundamentação sucinta, perfeitamente válida e consagrada pela jurisprudência. Até porque, a explicitação da fundamentação pode ser direta ou indireta, conforme a redação do parágrafo 1º do artigo 50 da Lei 9784/99".
+Apresentadas contrarrazões, foi inadmitido o recurso, ensejando a interposição do presente Agravo.
+A irresignação não merece prosperar.
+Com efeito, oTribunal de origem reconheceu a nulidade dos autos de infração, com base no exame dos elementos fáticos dos autos, concluindo o seguinte:
+"Com efeito, a autora somente teve conhecimento da infração imputada depois de lavrado o auto de infração e realizada a medição técnica dos botijões, quando apresentou defesa e, posteriormente, recurso administrativo, atos estes que não elidem a nulidade preexistente que lhe causou evidente prejuízo, consubstanciada na impossibilidade de a autora acompanhar, fiscalizar e até, se for o caso, impugnar o procedimento técnico enquanto realizado.
+De fato, nos casos em que o produto fiscalizado esteja armazenado ou exposto para comercialização nas revendas, deve a fiscalização apreendê-lo, se possível realizar no local as medições e, se for constatada irregularidade, ou, caso não esteja presente o interessado, retirá-lo do local, mediante recibo especificado, atestando a sua inviolabilidade, com a comunicação do responsável para eventual acompanhamento da medição em hora e local indicado.
+Por se tratar, além disso, de produtos com volume de peso absolutamente significativo e perigosos, com risco de explosão, a apreensão dos botijões que serviram de amostra para o exame era obrigatória.
+Logo, nula é a autuação em que os agentes fiscalizadores tenham realizado as medições sem prévia comunicação à autora, situação que não se confunde com a mera falta de comparecimento da parte, após ser regularmente intimada".
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ademais, verifica-se que as razões do Recurso Especial não atacam os fundamentos adotados pela Corte Estadual. De fato, a parte recorrente limitou-se a manifestar seu inconformismo com o resultado que lhe foi desfavorável, apresentando fundamentos outros, não relacionados ao decidido.
+Assim, o recorrente adotou razões recursais dissociadas da fundamentação do acórdão objurgado, deixando de impugnar especificamente seus fundamentos, pelo que incidem na espécie, por analogia, as Súmulas 283 e 284 do STF.
+Ainda que assim não fosse, por simples cotejo entre as razões do Recurso Especial e os fundamentos do acórdão recorrido, observa-se que a tese recursal contida nos dispositivos legais indicados como violados, sequer implicitamente, foi apreciada pelo Tribunal de origem, não obstante terem sido opostos Embargos de Declaração, para tal fim.
+Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial, no ponto, incidindo o teor da Súmula 211 do STJ ("inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
