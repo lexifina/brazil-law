@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+Responsabilidade civil - Indenizatória de danos materiais e reparatória de danos morais - Sentença de procedência, em parte - Insurgência da ré - CPF do autor informado erroneamente pela ré em processo judicial para responder por débito trabalhista - Fato causador de bloqueio indevido de valor de dinheiro mantido em conta corrente e de inscrição do nome do autor em cadastro nacional de devedores trabalhistas - Responsabilidade da ré pelos atos de seu mandatário, ressalvado o direito de regresso - CC, art. 679 - Danos morais presumidos - Valor reparatório - Fixação em R$10.000,00 adequada - Razoabilidade e proporcionalidade - Juros moratórios - Incidência a partir do evento danoso - Entendimento consolidado com a edição da Súmula 54 do E. STJ - Recurso não provido.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a agravante existência de dissídio jurisprudencial, além de violação dos artigos 489 e 1.022 do Código de Processo Civil; 186 e 927 do Código Civil, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento das omissões relativas à extensão do dano sofrido pela arte adversa; do valor excessivo fixado para a reparação econômica, bem como da suposta falta de fundamentação no que concerne ao arbitramento dos honorários sucumbenciais.
+Sustenta desacerto no acórdão estadual que a condenou em pagamento de indenização, sem que fosse demonstradaa ocorrência de fato ensejador de reparação econômica extrapatrimonial.
+Alternativamente, requer a redução da reparação econômica por danos morais, fixados na origem em R$ 10.000,00 (dez mil reais).
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses da agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração e nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto à responsabilização da agravante e seu dever de indenizar, tendo-se realizado um confronto de provas para a fixação do valor das reparações econômicas, bem como da razoabilidade na fixação dos honorários sucumbenciais, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+No tocante ao mérito, a Corte estadual, ao analisar as circunstâncias fáticas e o conjunto probatório produzido, assim decidiu (fl. 364, e-STJ):
+O autor contratou advogado para sua defesa, sua exclusão da execução na reclamação trabalhista e desbloqueio de valor indevidamente constrito de sua conta bancária (fl. 106). Tudo isso, como já se mencionou anteriormente, além da inscrição de nome em cadastro nacional de devedores trabalhistas, por conseqüência de ato falho cometido pela ré. Os danos morais são presumidos dos mencionados acontecimentos, sem necessidade de comprovação.
+Registre-se, por oportuno, que o bloqueio da importância de R$235,25 disponível em conta do autor ocorreu em julho de 2019 (fls. 105/106). A exceção de pré-executividade foi providenciada pelo autor naqueles autos trabalhistas no mesmo mês, como se extrai de fls. 111/115. Ao contrário do sustentado pela ré, não houve demora imputável ao autor para a tomada de providências.
+De modo queo Tribunal de origem, após minudente análise do conjunto fático-probatório, reconheceu pela irregularidade da inscrição em cadastro de devedores e ocorrência de dano material, considerando existir direito à indenização.
+A revisão do entendimento destes pontos, nos moldes das questões factuais, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado, em sede de recurso especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+De igual teor:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE CONTRATO C/C PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. DECISÃO DE INADMISSIBILIDADE DO APELO. APLICAÇÃO DE PRECEDENTE OBRIGATÓRIO. NÃO CONHECIMENTO DO AGRAVO DO ART. 1.042 DO CPC/2015. INSCRIÇÃO INDEVIDA. CADASTRO DE INADIMPLENTES. DANO MORAL IN RE IPSA. SÚMULA 83/STJ. VALOR DA INDENIZAÇÃO. REEXAME. DESCABIMENTO. MONTANTE RAZOÁVEL. AGRAVO INTERNO IMPROVIDO.
+1. Nos termos dos arts. 1.030, § 2º, e 1.042, caput, do CPC/2015, o agravo em recurso especial é o recurso cabível contra decisão de inadmissibilidade do recurso especial não fundamentada em recurso repetitivo e proferida após a vigência do CPC/2015 (18/3/2016), motivo pelo qual a interposição de agravo interno incabível não interrompe o prazo do recurso adequado. Precedentes.
+2. Está pacificado nesta eg. Corte que a inscrição indevida em cadastro negativo de crédito, por si só, configura dano in re ipsa.
+3. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente pode ser revisado em sede de recurso especial quando irrisório ou exorbitante. No caso, o montante fixado em R$ 10.000,00 (dez mil reais) não se mostra exorbitante nem desproporcional aos danos suportados pela parte autora.
+4. Agravo interno improvido.
+(AgInt no AREsp n. 2.114.822/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 13/10/2022)
+No que concerne ao pleito pela redução do dano moral, verifica-se que, nas razões do recurso especial, não houve indicação de quais dispositivos infraconstitucionais teriam sido violados pelo acórdão local. Ressaltando-se que, na instância ordinária, não se aplica o brocardo jura novit curia, de modo que incide o verbete n. 284, do STF.
+De igual teor:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. SÚMULA N. 284/STF. DANOS MORAIS. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial exige a indicação dos dispositivos legais supostamente violados. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. (..)
+3. (..)
+4. Agravo interno a que nega provimento.
+(AgInt no AREsp 1126226/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 30/10/2017)
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
