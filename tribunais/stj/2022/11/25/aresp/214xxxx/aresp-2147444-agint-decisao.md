@@ -1,0 +1,59 @@
+DECISÃO
+Em vista das razões de agravo interno, que apontam que houve impugnação aos fundamentos da decisão que não admitiu o recurso especial, reconsidero a decisão de fls. 1007/1009, proferida pela Presidência desta Corte, tornando-a sem efeito, e passo à nova análise do agravo em recurso especial.
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (e-STJ, fl. 904):
+AGRAVO INTERNO DA PARTE AUTORA QUE ALEGA A NULIDADE DA MONOCRÁTICA POR VIOLAÇÃO DO ART. 932, DO NCPC. POSSIBILIDADE LEGAL DEMONSTRADA. SUBMETIDO O AGRAVO INTERNO AO COLEGIADO RESTA SUPERADO O VÍCIO NA ESTEIA DOS PRECEDENTES DO STJ.
+1. Ausente qualquer inovação na situação fática-jurídica constante da decisão combatida,
+2. A vedação constante do artigo 1.021, §3º do CPC está sendo mitigada pela jurisprudência que se consolida do Superior Tribunal de Justiça. Afinal, "A Corte Especial do Superior Tribunal de Justiça, ao interpretar o art. 1.021, §3º do CPC/2015, assentou que o dispositivo não impõe ao julgador a obrigação de reformular a decisão agravada para, em outros termos, reiterar seus fundamentos, notadamente diante da falta de argumento novo deduzido pela parte recorrente" - (Embargos de declaração no Agravo em Recurso Especial nº 980.631, Rel. Ministra Regina Helena Costa, DJE de 22.5.2017).
+3. Agravo Interno conhecido e desprovido.
+Nas razões do recurso especial, a parte agravante aponta violação doart. 1.021,§ 4º, do Código de Processo Civil.
+Sustenta que a decisão objeto do agravo interno interposto na origemnão apontou o fundamento do art. 932, V, do CPC, que fundamentaria o julgamento em decisão singular, e julgou o recurso antes da apresentação decontrarrazões.
+Aduz que "ao interpor o recurso de Agravo Interno, apenas exerceu um regular direito (o de recurso!); o que, em última instância, decorreu do seu direito constitucional à ampla defesa, ao contraditório e ao devido processo legal (CF/88, art. 5º. LIV e LV)".
+Alega que "o tribunal de origem entendeu que tal recurso, mesmo diante de todas as ilegalidades contidas no julgado acima apontadas era manifestamente improcedente (pasmem!), pelo que o consideraram meramente protelatório, aplicando sanção ilegal e injusta ao Recorrente, quando, no máximo, poderiam, na verdade, entender pela improcedência, mas, ratificando o exercício regular de um direito reconhecido pela lei".
+Contrarrazões apresentadas.
+Ultrapassada a admissibilidade do agravo, passo ao exame do recurso especial.
+O Tribunal de origem aplicou amulta do art. 1.021, § 1º, do CPC, com base nos seguintes fundamentos (fl. 906/932):
+Inconformado recorre a esta instância afirmando o Autor/Agravante, que apesar do esforço do Juízo a quo em justificar o declínio de sua incompetência, o mesmo parte de premissas legais equivocadas, sobretudo quando leva em consideração a própria ratio da Lei de Recuperações e Falências (Lei Federal nº. 11.101/2005), merecendo, assim, ser reformada.
+Defende que não há conexão, porque a Ação de Dissolução Parcial da Sociedade, visa a formalização da retirada do Agravante do quadro social, bem como a apuração dos haveres de quem detém direitos, decorrentes da liquidação de suas cotas, na medida em que, apesar de notificados, os Agravados até a data de hoje sequer disponibilizaram o balanço especial como determinado em lei.
+Afirma ainda que a demanda originária não merece ser redistribuída, porque o Autor não está cobrando dívida líquida, mas sim ilíquida, devendo ser aplicada a norma do §1º, do art.6º, da Lei n. 11.101/05.
+Insiste que os objetos jurídicos são distintos e não há risco de decisões conflitantes, nem que a concessão de liminar possa inviabilizar o cumprimento do plano.
+Requereu a concessão da antecipação da tutela recursal (CPC, art. 1.019, I c/c 300), em caráter liminar (CPC, art. 300, §2º), a fim de sobrestar na sua totalidade os efeitos da decisão agravada, determinando a devolução imediata dos autos principais à 6ª Vara Cível de origem, diante da presença dos requisitos legais para tanto.
+Indeferi o pedido de efeito suspensivo (Num. 750529).
+Não foram apresentadas contrarrazões.
+Proferi a decisão monocrática, com ementa lavrada nos seguintes termos:
+AGRAVO DE INSTRUMENTO - AÇÃO DE DISSOLUÇÃO PARCIAL DE SOCIEDADE C/C APURAÇÃO DE HAVERES - INCOMPETÊNCIA DECLARADA - CONEXÃO COM A AÇÃO DE RECUPERAÇÃO JUDICIAL DO GRUPO Y. YAMADA S/A - AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+HIROSHI YAMADA inconformada com a decisão monocrática do ID. Num.2458562 interpôs o Agravo Interno arguindo a nulidade da decisão recorrida, por ofensa ao princípio da colegialidade, por não ter preenchido os requisitos do artigo 927, 928 e 932, IV e V, do CPC.
+Caso assim não entenda, que leve este recurso de Agravo Interno para conhecimento e julgamento do órgão colegiado, de modo que seja provido, declarando nula a decisão aqui agravada, permitindo o regular processamento do recurso do Agravo de Instrumento, até seu julgamento final pelo órgão colegiado
+TÁGIDE MOTOCICLETAS LTDA, Y. YAMADA S.A. COMÉRCIO E INDÚSTRIA - em recuperação judicial, FERNANDO TERUO YAMADA e Bernardo Junji Carneiro Yamada apresentaram contrarrazões ao Agravo de Instrumento no Id. Num. 2847630, rechaçam as teses recursais e pedem o desprovimento do recurso.
+É o relatório.
+(..)
+Diante de todo o cenário revelado, qual seja, de um lado a decisão monocrática assentada em consolidada jurisprudência, e de outro, um recurso sem argumentos fáticos ou jurídicos com aptidão para desconstituir o ato decisório agravado, entendo que a decisão impugnada não merece reparos.
+Além do que, concluo que o presente recurso contém nítido propósito de alongar a demanda, o que tem sido desfavorável ao recorrente, circunstância que além de conduzir ao desprovimento recursal, merece ser repelida, segundo o comando inserto no § 4.º do art. 1.021 do CPC/2015, com aplicação de multa, por ser manifestamente improcedente, conforme já se pronunciou o STJ, no julgado exemplificativo:
+"AGRAVO INTERNO NOS EMBARGOS DECLARATÓRIOS NO RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL (CPC/73). LOCAÇÃO. AÇÃO DE DESPEJO. PRORROGAÇÃO POR PRAZO INDETERMINADO. FIANÇA.
+PREVISÃO DE PRORROGAÇÃO ATÉ A ENTREGA DAS CHAVES DO IMÓVEL. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Restou pacificado no âmbito do STJ a admissão da prorrogação da fiança nos contratos de locação por prazo indeterminado desde que expressamente prevista no pacto.
+2. Não apresentação pela parte agravante de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+3. O recurso mostra-se manifestamente improcedente, a ensejar a aplicação da multa prevista no artigo 1.021, § 4º, do CPC.
+4. AGRAVO INTERNO DESPROVIDO COM APLICAÇÃO DE MULTA." (AgInt nos EDcl no REsp 1484187 - Ministro PAULO DE TARSO SANSEVERINO - TERCEIRA TURMA - DJe 16/11/2016).
+Com estas considerações, por uma questão de lógica jurídica da matéria de direito tratada e, principalmente, em nome do princípio da segurança jurídica, confirmo a decisão objurgada por ser medida que se impõe, bem como a aplicação de multa ope legis cabível e necessária.
+Ao assim decidir, o acórdão recorrido divergiu do entendimento daSegunda Seção desta Corte Superior, segundo a qual a multa prevista no art. 1.021, § 4º, do CPC/2015 não decorre automaticamente do desprovimento do agravo interno, devendo ser verificado, em cada caso, o intuito protelatório:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido.
+(AgInt nos EREsp n. 1.120.356/RS, relator Ministro Marco Aurélio Bellizze, Segunda Seção, julgado em 24/8/2016, DJe de 29/8/2016.)
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL DE ORIGEM. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO. MULTA DO ART. 1.021, §4º, DO CPC. NÃO INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Conforme a jurisprudência do Superior Tribunal de Justiça, descabe a incidência automática da multa do art. 1.021, § 4º, do CPC/2015, quando o agravo interno é interposto no regular exercício do direito de recorrer, não se verificando hipótese de manifesta inadmissibilidade do agravo interno ou de litigância temerária.Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.108.319/BA, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 16/8/2022, DJe de 22/8/2022.)
+CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. REALIZAÇÃO DE EXAME PET-CT PRESCRITO PELO MÉDICO. NEGATIVA DE COBERTURA. IMPOSSIBILIDADE. SÚMULA N.º 83 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A aplicação da multa prevista no § 4º do art. 1.021 do NCPC não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória (AgInt no AREsp 1.658.454/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 31/8/2020, DJe 8/9/2020).
+4. Agravo interno não provido.
+(AgInt no AREsp n. 2.153.601/MA, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022.)
+Na hipótese, não tendo sido verificado o intuito protelatório e deixando a Corte local de fundamentar a aplicação da multa com as especificidades do caso concreto, deve ser afastada a penalidade.
+Acrescente-se que,no que toca à apontada ofensa ao art. 1.026, § 2º, do CPC, este Superior Tribunal de Justiça possui entendimento no sentido de que "a interposição de recursos cabíveis não implicam em litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo" (AgRg nos EDcl no REsp 1333425/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe 4/12/2012).
+Em face do exposto, reconsiderando a decisão de fls. 1007/1009, conheço do agravo e dou provimento ao recurso especial para afastar a multa aplicada à parte recorrente com fundamento no art. 1.021, § 4º, do Código de Processo Civil.
+Intimem-se.
