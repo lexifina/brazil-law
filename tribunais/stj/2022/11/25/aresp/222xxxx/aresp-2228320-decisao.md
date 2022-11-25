@@ -1,0 +1,7 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL QUE BUSCA O RECONHECIMENTO EXCLUSIVO DE VIOLAÇÃO, PELO TRIBUNAL DE ORIGEM, AO ART. 1.022, II, DO CPC/2015. AUSÊNCIA DE MANEJO DE ACLARATÓRIOS NO CASO. CONTROLE DE LEGALIDADE IMPOSSÍVEL PELO STJ. NÃO CONHECIMENTO DO RECURSO.
+1. Trata-se de recurso especial de MARINA BISCARO, por meio do qual busca areforma do aresto do egrégio Tribunal de Justiça do Estado de São Paulo que negou provimento a apelação por ela interposta contra a sentença que julgou improcedente o pedido da servidora municipal. O recurso especial está timbrado exclusivamente em suposta violação do art. 1.022, II, do CPC/2015 (fl. 529), no qual a parte pede a nulificação do julgado de origem.
+2. Do julgamento de apelação (fls. 513/522), seguiu-se diretamente ao recurso especial (fls. 524/529), sem que tenham sido opostos os embargos de declaração pela servidora. Não havendo manifestação do Tribunal Bandeirante quanto à aplicação do art. 1022, II, do CPC/2015- pois a parte não interpôs aclaratórios -, não há como o STJ aferir se foi correta ou não a aplicação do dispositivo invocado no recurso especial.
+3. Noutras palavras, é impossível exercer controle de legalidade sobre o artigo de lei alusivo aos embargos de declaração quando não há embargos de declaração no processo. Está-se diante de caso de peremptório não conhecimento do recurso, portanto.
+4. Pelo exposto, não se conhece do agravo em recurso especial.
+5. Publique-se. Intimações necessárias.
