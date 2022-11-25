@@ -1,0 +1,64 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+A Sra. Ministra Laurita Vaz e os Srs. Ministros Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+Trata-se de embargos de declaração opostos contra acórdão assim ementado (fl. 150):
+AGRAVOS REGIMENTAIS NO HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. POSSIBILIDADE DE RECONHECIMENTO DE MANIFESTA ILEGALIDADE. HOMICÍDIO QUALIFICADO TENTADO. DOSIMETRIA. TENTATIVA INCRUENTA. APLICAÇÃO DA FRAÇÃO DE 2/3. EFEITO EXTENSIVO.
+1. É possível o reconhecimento de manifesta ilegalidade por meio de habeas corpus, mesmo que este tenha sido impetrado como substitutivo de recurso próprio.
+2. Conforme a jurisprudência desta Corte Superior, nos crimes de homicídio, a tentativa branca ou incruenta enseja a aplicação da fração de redução da pena no patamar máximo, isto é, deve ser aplicada em 2/3 (dois terços). Havendo similitude fático-processual, a decisão concessiva deve ser estendida ao corréu, nos termos do art. 580 do CPP.
+3. Agravos regimentais improvidos.
+Sustenta o embargante a ocorrência de omissão por carência de fundamentação no acórdão impugnado, pois "verifica-se que o Ministério Público do Estado de Minas Gerais apresentou a patente distinção do caso concreto, conforme a moldura fática que lhe foi dada pelas instâncias ordinárias, e os precedentes utilizados por essa Corte da Cidadania para aplicar a fração máxima de redução pela tentativa." (fl. 167).
+Alega que "o órgão minsterial que a conduta dos acusados propiciou a máxima aproximação do resultado visado (consumação do crime de homicídio), cuja redução da fração da tentativa em seu grau máximo revela-se divorciada dos fatos reconhecidos pelo próprio Ministro Relator." (fl. 168).
+Aduz que queao "não se manifestar sobre argumentos centrais e expressos no recurso regimental ministerial, omissa a decisão recorrida (doc. de ordem 70), devendo essa omissão ser suprida para que sejam debatidos os argumentos ministerais, notadamente a distinção feita pelo Ministério Público do caso concreto dos autos, apta a demonstrar que trata-se in casu de crime progressivo em que existiu pelo menos três sessões de espancamento que causaram múltiplas lesões na vítima, sendo o disparo falho o ÚLTIMO ato de execução e não o ÚNICO, razão pela não há que falar em tentativa branca pelo simples fato do último ato de execução (o disparo contra acabeça do ofendido) não ter consumado a morte por falha da munição" (fl. 168).
+Pleiteia, nessas premissas, o acolhimento dos embargos para "sanar a omissão apontada, eis que a decisão ora embargada não se manifestou expressamente sobre os argumentos apontados no recurso especial se limitando a repetir os argumentos da decisdão monocrática." (fl. 168).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EMHABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. DOSIMETRIA. TENTATIVA INCRUENTA. APLICAÇÃO DA FRAÇÃO DE 2/3.OMISSÃO. NÃO OCORRÊNCIA. MERO INCONFORMISMO.
+1. Não há omissão se o acórdão embargado encontra-se clara e devidamente motivado no sentido de que, conforme a jurisprudência desta Corte Superior, tratando-se detentativa de homicídio branca ou incruenta, a pena deve ser reduzida no patamar de 2/3.
+2. Não se prestam os embargos de declaração à rediscussão livre, sem amarras processuais, do acórdão recorrido em dimensão infringente, veiculando o recurso, em verdade, a título de vícios tecnicamente integrativos, mero inconformismo com o resultado do julgamento.
+3.Embargos de declaração rejeitados.
+VOTO
+O acórdão recorrido, na parte agora embargada, estáassim fundamentado (fl. 155):
+ .. .A decisão em foco, na parte impugnada, está assim fundamentada (fls. 83-89):
+ .. .Trata-se dehabeas corpusimpetrado contra acórdão assim ementado:
+APELAÇÃO CRIMINAL - JÚRI - DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS - INOCORRÊNCIA - VEREDICTO POPULAR COM AMPARO NOS ELEMENTOS DE CONVICÇÃO CONSTANTES DOS AUTOS - PENA-BASE - EQUÍVOCO NA CONSIDERAÇÃO DE ALGUMAS CIRCUNSTÂNCIAS JUDICIAIS COMO DESFAVORÁVEIS AO RÉU - REDUÇÃO.
+- Não pode ser cassada, por manifestamente contrária à prova dos autos, a decisão popular que não é arbitrária efruto de criação mental dos jurados, que dispunham de elementos para reconhecer o envolvimento dos acusados nodelito pelo qual foram condenados.
+- Se das quatro circunstâncias judiciais consideradas desfavoráveis aos acusados, apenas duas delas realmente osdesfavorecem, impõe-se a redução da pena-base imposta a ambos.
+O paciente foi condenado pela prática do delito previsto no art. 121, 2º, incisos I, III e IV, c.c. o art.14, II, do Código Penal, recebendo cada um a pena de 10 anos de reclusão, a ser cumprida em regime fechado, a qual foi redimensionada pelo Tribunal de origem para 8 anos e 6 meses de reclusão.
+A defesa busca a anulação do julgamento do Tribunal de Júri ou a absolvição do paciente, pois "a própria vítima afirmou em plenário de julgamento QUE NÃO FORAM OS RÉUS SEUS AGRESSORES" (fl. 6), ou o redimensionamento da pena, com a aplicação da redução pela tentativa incruenta, na fração de 2/3.
+A liminar foi indeferida.
+As informações foram prestadas.
+O Ministério Público Federal manifestou-se pela concessão da ordem de ofício para a readequação da dosimetria.
+A defesa peticionou reiterando o pedido de concessão da ordem (fls. 81-82).
+O acórdão impugnado está assim fundamentado (fls. 10-12):
+ ..
+Quanto à fração de redução pela tentativa, a Corte de origem decidiu que "a redução de metade operada na sentença, por força da tentativa, deve ser mantida, tendo em vista o iter criminis percorrido pelos réus, que chegaram, inclusive, a apontar o revólver que portavam contra a cabeçada vítima e acionar o gatilho, tendo a arma, por sorte, falhado".
+Todavia,"conforme a jurisprudência do Superior Tribunal de Justiça, na hipótese detentativabranca ouincruenta- quando não há lesões à vítima -, a respectiva redução deve ser aplicada no máximo legalmente previsto, isto é, na fração de 2/3 (dois terços)" (HC 473.074/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 27/11/2018, DJe 13/12/2018). A esse respeito:
+ ..
+Desse modo, a pena deve ser redimensionada, motivo pelo qual, mantida a pena provisória fixada pelo Tribunal de origem,em 17 anos de reclusão, deve ser aplicada a fração de 2/3 em razão da tentativa, resultando na reprimenda de 5 anos e 8 meses de reclusão, a qual deve se tornar definitiva por não haver outras causas de diminuição ou de aumento. Fixa-se o regime inicial fechado, pois o sentenciado éreincidente (fl. 12), nos termos doart. 33, § 2º, "b", do CP.
+Ante o exposto, concedo ohabeas corpusapenaspara fixar a pena do paciente em5 anos e 8 meses de reclusão, em regime inicial fechado. .. .
+O pedido de extensão foi deferido nos seguintes termos (fls. 106-113):
+ .. .Com efeito, verifica-se que foi utilizada a mesma fundamentação para a fixação das penas do paciente e do ora requerente, motivo pelo qual a ordem deve a este ser estendida, nos termos do art. 580 do CPP, com o redimensionamento de sua pena.
+Desse modo, mantida a pena provisória fixada pelo Tribunal de origem, em 17 anos de reclusão, deve ser aplicada a fração de 2/3 em razão da tentativa, resultando na reprimenda de 5 anos e 8 meses de reclusão, a qual deve se tornar definitiva por não haver outras causas de diminuição ou de aumento. Fixa-se o regime inicial fechado, pois o sentenciado é reincidente (fl. 12), nos termos do art. 33, § 2º, "b", do CP.
+Ante o exposto, defiro o pedido de extensão, para fixar a pena de WELLINGTON LUIZ RIBEIRO em 5 anos e 8 meses de reclusão, em regime inicial fechado. .. .
+As decisões devem ser mantidas por seus próprios fundamentos, pois, assim como demonstrado, o Tribunal de origem manteve a fração de 1/2 em razão de os réus terem chegado "a apontar o revólver que portavam contra a cabeçada vítima e acionar o gatilho, tendo a arma, por sorte, falhado", hipótese em que, conforme a jurisprudência desta Corte Superior, a pena deve ser reduzida no patamar de 2/3, por se tratar de tentativa de homicídio branca ou incruenta. A esse respeito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. LATROCÍNIO TENTADO. APLICAÇÃO DA PENA. TERCEIRA FASE. TENTATIVA BRANCA. REDUÇÃO DA PENA NA FRAÇÃO MÁXIMA. POSSIBILIDADE.
+1. De acordo com reiterados precedentes desta Corte, nas hipóteses dos crimes de latrocínio e homicídio em que não há lesão à vítima (tentativa branca ou incruenta), a fração de redução da pena deve ser aplicada no máximo legal de 2/3 (dois terços), considerado o iter criminis percorrido.
+2. Na hipótese, em que pesem os disparos de arma de fogo, não houve lesões às vítimas, de modo que a respectiva redução deve ser aplicada no máximo legalmente previsto, isto é, na fração de 2/3 (dois terços). Precedentes.
+3. Agravo regimental provido a fim de fixar o percentual máximo de redução pela tentativa, redimensionando a reprimenda do agravante para 6 anos e 8 meses de reclusão, e pagamento de 3 dias-multa.
+Estendidos os efeitos deste decisum ao corréu João Carlos de Souza Costa. (AgRg no HC n. 734.316/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, julgado em 9/8/2022, DJe de 15/8/2022.)
+Além disso, havendo similitude fático-processual, visto que foi utilizada a mesma fundamentação para a fixação das penas dos acusados, a decisão deve (ia) ser estendida para redimensionar também a reprimenda do corréu, nos termos do art. 580 do CPP, contexto em que nego provimento aos agravos regimentais. .. .
+Os embargos de declaração servem ao saneamento do julgado eivado de um dos vícios previstos no art. 619 do Código de Processo Penal  ambiguidade, obscuridade, contradição ou omissão  , hipóteses inexistentes no julgado recorrido.
+Não há, na hipótese, nenhum vício a ser sanado, pois a controvérsia foi decidida com a devida e clara fundamentação, no sentido de que, como oTribunal de origem manteve a fração de 1/2 em razão de os réus terem chegado "a apontar o revólver que portavam contra a cabeça da vítima e acionar o gatilho, tendo a arma, por sorte, falhado", a pena,conforme a jurisprudência desta Corte Superior, deve ser reduzida no patamar de 2/3, por se tratar de tentativa de homicídio branca ou incruenta.
+Cumpre observar que as instâncias de origem não fazemreferência à existência de lesões para fixar a fração da tentativa, mas apenas a fato de arma ter falhado, o que caracteriza a tentativa branca, assim como demonstrado.
+Não têm os embargos de declaração a vocação de levar à rediscussão livre do acórdão atacado quando revelado mero inconformismo com o resultado do julgamento, de modo que a decisão impugnada deve ser mantida pelos seus próprios fundamentos. A propósito:
+EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. AUSÊNCIA DAS HIPÓTESES PREVISTASNO ART. 619 DO CPP. REVALORAÇÃO DOS ELEMENTOS CONSTANTES DO ACÓRDÃOIMPUGNADO. POSSIBILIDADE. VIOLAÇÃO DE PRINCÍPIO CONSTITUCIONAL.IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada,sendo imprescindível a demonstração de que a decisão embargada se mostrouambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção deeventual erro material e, excepcionalmente, para alteração ou modificaçãodo decisum embargado.
+2. Não se verificando nenhuma das hipóteses anteriores, mas merairresignação do embargante com a solução apresentada por esta CorteSuperior, fica inviabilizada a utilização dos aclaratórios.
+3. "Em habeas corpus, é possível a revaloração jurídica dos fatosdelineados pelas instâncias ordinárias" (HC n. 330.938/SP, Rel. Mihn.GURGEL DE FARIA, Quinta Turma, Dje 10/12/2015).
+4. Não cabe a esta Eg. Corte, ainda que para fins de prequestionamento,analisar ofensa à Constituição Federal, sob pena de usurpação decompetência atribuída ao STF. Ademais, a suposta violação ao artigo 5º, LXVIII, da Constituição Federal, depende da prévia análise das normas infraconstitucionais, devidamente aplicadas.
+5. Embargos de declaração rejeitados. (EDcl no HC 355.140/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 13/09/2016, DJe 20/09/2016).
+Ressalte-se, por fim, que, conforme a jurisprudência desta Corte Superior, "o julgador não é obrigado a rebater cada um dos argumentos aventados pela defesa ao proferir decisão no processo, bastando que pela motivação apresentada seja possível aferir as razões pelas quais acolheu ou rejeitou as pretensões da parte." (AgRg no AREsp 1009720/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 25/4/2017, DJe de 5/5/2017).
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
