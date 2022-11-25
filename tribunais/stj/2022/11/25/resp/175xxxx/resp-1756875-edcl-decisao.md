@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por SC2 Maranhão Locação de Centros Comerciais S/A (701-705 e-STJ), em face de decisão de fls. 696-699 e-STJ que não conheceu do recurso especial da parte embargada, Raimundo Araújo Costa Filho (fls. 607-629 e-STJ), pela alegação genérica de violação a diversos dispositivos legais (Súmula 284 do STF).
+Em suas razões (fls. 701-705 e-STJ) sustenta a parte embargante que houve omissão na decisão que deixou de majorar os honorários sucumbenciais, nos termos do art. 85, § 11 do Código de Processo Civil. Dessa forma, requer "pela supressão da omissão constante na decisão ora embargada, para que, em consonância ao que determina o art. 85, §11 do CPC, sejam majorados os honorários advocatícios sucumbenciais fixados pelo TJMA, o qual se espera sejam elevados a 20% (vinte por cento) sobre o valor da causa".
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanada a omissão apontada.
+A parte embargada, Raimundo Araújo Costa Filho, foi devidamente intimado para contrarrazoar os embargos de declaração, o qual não o realizou, conforme certidão de fl. 709 e-STJ.
+Assim delimitada a questão, passo a decidir.
+Nos termos do art. 1.022, do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado.
+No que tange a esses pontos, tem razão a embargante.
+De início, vejo que, de fato, a decisão de fls. 696-699 e-STJ deixou de majorar os honorários sucumbenciais em grau de recurso.
+Já o Tribunal de origem assim delimitou a fixação de honorários: "Com esse julgamento, inverto o ônus da sucumbência, fixando os honorários advocatícios em R$ 10 mil, tendo em vista o trabalho realizado (comparecimento em audiência, elaboração de contestação e de razões recursais) e do grau de zelo do causídico (CPC, art. 85, §2º), observada a regra do art. 98, §3º do CPC, uma vez que o Apelado que litiga sob o pálio da gratuidade da Justiça" (fl. 543 e-STJ).
+Dessa forma, não tendo sido arbitrado o valor, deve ser suprida a omissão, para que passe a constar na decisão embargada que, "nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo, considerando-se suspensas as exigibilidades em caso de assistência judiciária gratuita".
+Em face do exposto, acolho parcialmente os embargos para sanar a omissão nos moldes explicitados.
+Intimem-se.
