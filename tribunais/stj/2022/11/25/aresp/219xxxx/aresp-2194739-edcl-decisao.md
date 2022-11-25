@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSE PAULO DOS SANTOS FILHO em face da decisão de fls. 524/525, que não conheceu do recurso.
+Em suas razões, sustenta a parte embargante que:
+Impende destacar que, a decisão de V. Exa., data venia, incorreu em obscuridade uma vez que não incide, no caso em comento, a Súmula de nº 284 STF, tendo em vista que a Embargante suscitou de forma exaustiva as matérias de direito objetos dos recursos, além de ter indicado de maneira pormenorizada os dispositivos legais violados.
+ ..
+Veja então que a questão aqui tratada é a violação à lei bem como a negativa de prestação jurisdicional, em detrimento da inobservância quanto ao Juízo de origem bem como na 2ª instância dos argumentos trazidos pela Embargante, o que motivou a interposição do Recurso Especial perante o c. STJ.
+Assim sendo, a pretensão da Embargante consiste em ver cassada a decisão omissa, prolatada pelo e. TJMG, que incorre em vícios processuais, uma vez que ao tribunal a quo cabia a providência de observar todos os elementos essenciais capazes de infirmar na conclusão dos julgadores e, acaso superado esse argumento, sejam apreciados os argumentos suscitados pela Embargante (fl. 539/544).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+Pugna, por fim, que: "Não sendo acolhidos os embargos de declaração, pede-se a revisão da decisão pelo órgão colegiado, já que foi proferida monocraticamente pelo i. Ministro Relator." - fl. 545
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme consignado expressamente na decisão embargada, incide o óbice da Súmula n. 284/STF, uma vez que a parte embargante, em sua petição recursal, indicou genericamente violação de lei federal sem particularizar quais dispositivos teriam sido contrariados.
+Em outras palavras, para que haja a admissão do recurso especial pela alínea "a" do permissivo constitucional - necessariamente - deve haver a indicação precisa dos dispositivos de lei federal violados e, pela alínea "c" do permissivo constitucional, deve haver a indicação precisa de quais dispositivos legais seriam objeto de dissídio interpretativo, não bastando, para ambos casos, a mera indicação genérica de lei federal, sem particularizar seus dispositivos.
+Neste ponto, impende salientar que a parte ora embargante, na petição do recurso especial, menciona genericamente violação de lei federal, sem, contudo, apontar especificamente qual artigo considerava violado.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Inviável, outrossim, o pedido de conversão dos presentes embargos em agravo interno, uma vez que a parte embargante requer a referida conversão, no caso de insucesso dos embargos.
+Assim, mostra-se inaplicável ao caso o princípio da fungibilidade, que "pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie" (AgRg nos EREsp n. 1.357.016/RS, relator Ministro Ari Pargendler, Primeira Seção, DJe de 2/8/2013).
+Registre-se, ademais, que o julgador não tem obrigação de receber qualquer recurso como uma espécie recursal diferente da interposta. Veja que de acordo com o § 3º do art. 1.024 do CPC, a conversão dos embargos de declaração em agravo interno é uma faculdade conferida ao relator ou órgão colegiado, não se constituindo em direito da parte.
+Por fim, não conheço da petição de fls. 527/536, em razão da preclusão consumativa.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
