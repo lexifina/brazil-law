@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por MICROINOX FUNDIÇÃO DE PRECISÃO E USINAGEM LTDA. contra decisão de inadmissibilidade de recurso especial, fundado na alínea"a" do permissivo constitucional, o qualdesafia acórdão do Tribunal de Justiça do Estado do Rio Grande do Sulassim ementado:
+APELAÇÃO CIVEL. DIREITO TRIBUTÁRIO. AÇÃO DECOBRANÇA. SERVIÇO SOCIAL DA INDÚSTRIA-SESI. CONVÊNIO PARA ARRECADAÇÃO DIRETA E PRESTAÇÃO DE SERVIÇOS. CONTRIBUIÇÃO MENSAL. BASE DE CÁLCULO. DISCUSSÃO SOBREA INCIDÊNCIA OU NÃO SOBRE O VALOR DAS SEGUINTES VERBAS: SALÁRIO MATERNIDADE, ADICIONAL NOTURNO, ADICIONAL DE HORAS-EXTRAS, ADICIONAL DE INSALUBRIDADES E ADICIONAL DE PERICULOSIDADE, DESCANSO SEMANAL REMUNERADO, TERÇO DE FÉRIAS, VALE-TRANSPORTE, AVISO-PRÉVIO INDENIZADO, AUXÍLIO-DOENÇA, AUXÍLIO-CRECHE E AUXÍLIO-EDUCAÇÃO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. APELOS NÃO PROVIDOS.
+Os embargos declaratórios opostos pelo agravante foram rejeitados.
+Em suas razões, a recorrente alega violação dos arts. 22, I, e 28, § 9º, "a" e 60, § 3º, da Lei n. 8.121/1991, 4º da Lei n. 7.418/1985, 67 e 487, § 5º, da CLT e 3º da Lei n. 605/1949.
+Sustenta, em resumo, que não incide a contribuição ao SESI sobre os adicionais de horas extras, noturno, de insalubridade ede periculosidade e sobre o descanso semanal remunerado e o salário-maternidade.
+Contrarrazões apresentadas àse-STJ fls. 393/400.
+A decisão a quo obstou o trâmite dorecurso especial com amparo em tese repetitiva e na incidência do óbice da Súmula 211 do STJ, fundamentos impugnados por meio de agravo.
+Contraminutanão apresentada.
+Alçados os autos a esta Corte Superior, determineio retorno ao Tribunal local para aplicar o entendimento do STF, em repercussão geral, referente à não incidência de contribuição previdenciária patronal sobre o salário maternidade - Tema 72, que se estende às contribuições devidas a terceiros.
+Após o devido reexame da matéria afetada pelo Colegiado de origem, a Vice-Presidência do TRF da 4ª Região, em nova decisão,não admitiu o recurso especial, amparado exclusivamente no óbice da Súmula 211 do STJ, motivo por que foi manejado o presente agravo.
+Passo a decidir.
+Cuidam os autos, na origem, de ação de cobrança ajuizada pelo SESI em que pretende o pagamento de contribuição devida a terceiros.
+O juízo de primeiro grau julgou o pleito parcialmente procedente, determinando que as verbas referentes aos primeiros quinze dias que antecedem o auxílio doença/acidentário, ao terço constitucional, ao aviso prévio indenizado, ao auxílio ou reembolso educação, ao auxílio-crechee ao vale-transporte sejam excluídos da base de cálculo do tributo.
+Interpostas apelaçõespor ambas as partes, o Tribunal gaúcho negou-lhe provimento, mantendo a incidência da contribuição ao SESI sobre os adicionaisde horas extras, noturno, de insalubridade ede periculosidade e sobre o descanso semanal remunerado e o salário maternidade.
+Pois bem.
+De início, cabe destacar que a questão da exclusão do salário maternidade da base de cálculo do tributo está prejudicada, ante a aplicação da tese jurídica formada no julgamento do Tema 72 do STF.
+No mais, o recurso não merece prosperar.
+No tocante à incidência da contribuição devida a terceiros, como o SESI, parte recorrida,para diversas rubricas que compõem a folha de pagamento dos empregados pelo Regime Geral de Previdência Social, esta Corte Superior consolidou o entendimento de que o tributo em apreço incide sobre:
+(i) o adicional de insalubridade, por possuir natureza remuneratória (AgRg no REsp 1.487.689/SC, Rel. Min.BeneditoGonçalves, Primeira Turma, DJe 23/02/2016; AgRg no REsp 1.559.166/RS, Rel. Min.AssuseteMagalhães, Segunda Turma, DJe 24/02/2016);
+(ii) os adicionais noturno e de periculosidade e as horas extras, bem como o seu respectivo adicional, uma vez que são de natureza remuneratória (REsp 1.358.281/SP, Rel. Ministro Herman Benjamin, DJe de 05/12/2014).
+(iii) o descanso semanal remunerado, por possuir caráter remuneratório e salarial (vide EDcl no REsp 1.441.226/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 11/12/2015; AgRg no REsp 1.539.576/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 26/10/2015).
+Cumpre acrescentar, por oportuno, que oSuperior Tribunal de Justiça definiu que as contribuições destinadas a terceiros (sistema "S" e outros), em razão da identidade de base de cálculo com acontribuiçãoprevidenciáriapatronaldevem seguir a mesma sistemática destas (AgInt no REsp 1.823.187/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 07/10/2019, DJe 09/10/2019).
+Nesse panorama, forçoso convir que o acórdão recorrido encontra-se em harmonia com a jurisprudência do Superior Tribunal de Justiça, circunstância que atrai a aplicação da Súmula 83 do STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida"), que é cabível quando o recurso especial é interposto com base nas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
