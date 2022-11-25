@@ -1,0 +1,29 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. NULIDADE POR VIOLAÇÃO DE DOMICÍLIO. MATÉRIA NÃO SUBMETIDA À APRECIAÇÃO DO TRIBUNAL DE ORIGEM NAS RAZÕES DE APELAÇÃO. ANÁLISE DIRETAMENTE POR ESTA CORTE. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA.
+1. Constatada a falta de exame pelo Tribunal de origem da matéria relativa à nulidade da prova por violação de domicílio, a análise por estar Corte Superior configuraria indevida supressão de instância.
+2. "É vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Sebastião Reis Júnior.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que indeferiu liminarmente o habeas corpus.
+Reitera a defesa a nulidade das provas obtidas em razão da alegada violação de domicílio. Aponta que a busca domiciliar se deu após o recebimento de "denúncia anônima", sem mandado judicial, investigação prévia e sem anuência do proprietário, não havendo fundadas razões "para a entrada desautorizada no domicílio da paciente" (fl. 184).
+Requer a reconsideração da decisão agravada ou que o agravo seja submetido à Turma, para que seja concedida a ordem.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  A controvérsia posta no presente agravo refere-se à possibilidade de apreciação da matéria relativa ao reconhecimento da ilegalidade da invasão de domicílio ocorrida, bem como de todas as provas derivadas da entrada ilegal na casa da paciente, achando-se a decisão agravada nos seguintes termos (fls. 176-177):
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado (fl. 30):
+APELAÇÃO CRIMINAL - TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO - Autoria e materialidade dos delitos comprovadas - Depoimentos dos guardas municipais ouvidos em juízo firmes, coerentes e sem desmentidos - Ausência de motivos para dúvidas acerca da veracidade de suas palavras - Conjunto probatório suficiente para manter a condenação dos acusados por ambos os delitos - Penas do crime de associação, porém, mitigadas na primeira etapa do cálculo dosimétrico para os réus - Necessidade - Regime prisional inicial fechado adequado à espécie - Recursos parcialmente providos, sem repercussão, no entanto, na pena final, imposta na origem, ao coacusado Leandro.
+Consta dos autos que a paciente foi condenada como incursa nos artigos 33 e 35 da Lei 11.343/06, a 14 anos, 4 meses e 24 dias de reclusão, em regime inicial fechado, bem como ao pagamento de 1.808 dias-multa.
+No presente writ, o impetrante alega, em síntese, que o ingresso na residência da paciente ocorreu sem o devido mandado judicial e sem a autorização dos moradores, aduzindo serem nulas as provas arrecadadas.
+Requer, assim, liminarmente e no mérito, o reconhecimento da invasão de domicílio, bem como o abrandamento de regime para o semiaberto.
+Em consulta processual nesta Corte Superior, constata-se que o pleito acerca do abrandamento do regime prisional já restou analisado no HC 731.832/SP. O citado writ foi denegado em 1º/8/2022, DJe de 3/8/2022, razão pela qual tal pedido não será conhecido.
+No tocante à matéria relativa à ilicitude das provas obtidas por meio de violação de domicílio, vê-se que não foi examinada pelo Tribunal a quo, conforme se extrai do acórdão de fls. 29-41 e fls. 160-172. Tal circunstância obsta a apreciação das questões por essa e. Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Como visto, o habeas corpus foi indeferido liminarmente porque o Tribunal de origem sequer enfrentou o tema da ilicitude das provas decorrente da violação de domicílio no julgamento da apelação, em razão de não ter sido arguida nas razões do recurso.
+Não tendo sido a matéria suscitada, tampouco apreciada pelo Colegiado a quo, exsurge evidente que sua análise pelo Superior Tribunal de Justiça implica indevida supressão de instância.
+"É vedada a apreciação per saltum da pretensão defensiva, sob pena de supressão de instância, uma vez que compete ao Superior Tribunal de Justiça, na via processual do habeas corpus, apreciar ato de um dos Tribunais Regionais Federais ou dos Tribunais de Justiça estaduais (art. 105, inciso II, alínea a, da Constituição da República)" (EDcl no HC 609.741/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/9/2020, DJe 29/9/2020).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
