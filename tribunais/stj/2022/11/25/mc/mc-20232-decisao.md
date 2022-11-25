@@ -1,0 +1,12 @@
+DESPACHO
+Cuida-se de medida cautelar ajuizadapela EMPRESA BRASILEIRA DECORREIOS e TELÉGRAFO- ECT requerendoa concessão de efeito suspensivo a recurso especialinterposto para reformar acórdão do Tribunal Regional Federal da 4ª Regiãoassim ementado:
+DIREITO ADMINISTRATIVO. CONTRATOS DE FRANQUIA POSTAL FIRMADOS COM A EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS - ECT. PREVISÃO DE EXTINÇÃO DE PLENO DIREITO DOS MESMOS, APÓS DECURSO DE LAPSO TEMPORAL, FIXADO POR NORMA INFRA-LEGAL (ART. 9º, § 2º, DO DECRETO Nº 6.639/08). INOBSERVÂNCIA DO PRINCÍPIO DA LEGALIDADE. REGULAMENTAÇÃO QUE EXTRAPOLA AS DISPOSIÇÕES CONTIDAS NO ART. 7º, § ÚNICO, DA LEI Nº 11.668/08, A QUAL SOMENTE FIXOU PRAZO MÁXIMO DE SUBSTITUIÇÃO DOS CONTRATOS ANTIGOS POR NOVOS, REALIZADOS ATRAVÉS DE PROCESSO LICITATÓRIO, SEM DETERMINAR A EXTINÇÃO DAQUELES EM CASO ADVERSO. SERVIÇO DE CARÁTER ESSENCIAL. MANUTENÇÃO DOS CONTRATOS EM VIGOR ATÉ A SUBSTITUIÇÃO POR NOVOS, ESTES REALIZADOS ATRAVÉS DE PROCESSO LICITATÓRIO, O QUE DEVE OPERAR-SE DENTRO DO PRAZO LIMÍTROFE ESTIPULADO EM LEI. Apelação provida.
+É, no essencial, o relatório.
+O REsp n. 1.351.344/PR, recurso para o qual a parte requerente pleiteava a atribuição de efeito suspensivo, foi julgado e publicado em 18/10/2022.Desse modo, fica caracterizada a perda superveniente do objeto da tutela cautelar. A propósito, cito o seguinte precedente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO ASSOCIADO A AGRAVO EM RECURSO ESPECIAL. POSTERIOR JULGAMENTO DO RECURSO PRINCIPAL. PERDA DE OBJETO DA TUTELA PROVISÓRIA.
+1. O pedido de tutela de urgência com o fim de atribuir efeito suspensivo ao agravo em recurso especial se encontra prejudicado, por perda de objeto, em virtude do julgamento do mencionado recurso, tombado sob o n. 2.017.901/MA (número único 0005469-62.2010.4.01.3702).
+2. Jurisprudência desta Corte Superior de que, uma vez apreciado o recurso cujo efeito suspensivo se buscou garantir, ocorre a superveniente perda do objeto da medida cautelar, sendo, inclusive, desnecessário o trânsito em julgado ou mesmo a confirmação no órgão colegiado.
+3. Embargos de declaração prejudicados.
+(EDcl no AgInt no TP n. 3.594/DF, relator Ministro Og Fernandes, Segunda Turma, DJe de 30/8/2022, grifo meu.)
+Ante o exposto, em razão da ausência de interesse processual, declaro a extinção do presente processo sem julgamento do mérito, nos termos do art. 485, inciso VI, do Código de Processo Civil, c/c o art. 34, inciso XI, do Regimento Interno desta Corte Superior.
+Publique-se. Intimem-se.
