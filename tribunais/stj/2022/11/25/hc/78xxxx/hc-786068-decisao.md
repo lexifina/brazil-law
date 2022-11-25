@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Pedro Otavio Bueno Moreira Tito, autuado em flagrante delito em 1º/10/2022, pela prática, em tese, do crime de tráfico de drogas (221 kg de maconha - fl. 30).
+Ataca-se acórdão proferido pelo Tribunal de Justiça de São Paulo no HC n. 2249485-82.2022.8.26.0000 (fls. 24/28), que manteve a conversão de prisão em flagrante do paciente em preventiva nos Autos n. 1500232-15.2022.8.26.0600 (fls. 20/22), da Vara Única da comarca de Cafelândia/SP.
+Alega-se constrangimento ilegal consistente em deficiência de fundamentação do decreto preventivo e requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que o paciente seja posto em liberdade.
+É o relatório.
+Inicialmente, no tocante ao fundamento utilizado para o decreto de prisão, não diviso o alegado constrangimento, pois o decreto preventivo (fls. 20/22) evidenciou:
+a) prova da existência do delito e indícios suficientes de autoria - decorrem dos elementos coligidos em solo policial, notadamente do auto de prisão em flagrante (fls. 1/2), boletim de ocorrência (fls. 7/9), do laudo de constatação provisória (fls. 13/18) e dos depoimentos colhidos em solo policial (fl. 21);
+b) contemporaneidade da necessidade da medida - pois se trata de acautelamento provisório decretado a partir de prisão em flagrante delito; e
+c) o receio de perigo gerado pelo estado de liberdade do imputado à ordem pública - ressaltando a gravidade concreta do delito (os entorpecentes foram pesados em balança não precisa na unidade policial, conferindo peso bruto de 221,00 quilogramas de substância cuja amostra de cada um dos 8 lotes foi submetida a teste pelo Instituto de Criminalística e resultou positivo para Maconha (fls. 13/18).  ..  A grande quantidade de droga apreendida aponta que o custodiado, em que pese sua primariedade, possa ter vínculo com organização criminosa capaz de financiar a aquisição do entorpecente, pois o valor de tal quantidade de maconha (mais de duzentos kg) é sabidamente elevado, inclusive em razão do valor que o acautelado recebida para a realização do transporte (R$ 2.000,00) - fls. 21/22) e o risco de reiteração delitiva (estando o acautelado em posse de tão valiosa carga, é certo que os demais criminosos poderão facilitar sua fuga ou, ainda, motivá-lo a prosseguir com o transporte de drogas, com o fim de reparar o prejuízo sofrido pela organização - fl. 22).
+Isso porque, em situações com quantidade de entorpecentes apreendidos em quantidade similar à dos autos, esta Corte Superior entendeu que tal circunstância demonstra o periculum libertatis do paciente. Confira-se: mais de 70 kg de maconha (HC n. 629.403/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 18/2/2021).
+Em razão disso, indefiro liminarmente o presente writ.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS (221 KG DE MACONHA). PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. RISCO DE ESTADO DE LIBERDADE DO PACIENTE PARA A ORDEM PÚBLICA. GRAVIDADE CONCRETA. EXPRESSIVA QUANTIDADE DE ENTORPECENTE APREENDIDO. RISCO DE REITERAÇÃO DELITIVA.
+Inicial indeferida liminarmente.
