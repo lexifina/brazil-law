@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por MAURO MURAD JUNIORcontra decisão que inadmitiu o recurso especial em razão da ausência de argumentação quanto aos dispositivos legais elencados e da incidência da Súmula n. 7 do STJ.
+Alega o agravante que os pressupostos de admissibilidade do recurso especial foram atendidos.
+O recurso especial, fundado no art. 105, III, a, da Constituição Federal, foi interposto contra acórdão do Tribunal de Justiça do Estado do Espírito Santoem agravo de instrumento nos autos deação de cobrança.
+O julgado foi assim ementado (fls. 175-176):
+DIREITO CIVIL - APELAÇÃO - EVICÇÃO - MOTIVO JURÍDICO ANTERIOR - FATOR DETERMINANTE - COMPRA E VENDA DE AUTOMÓVEL - ENTREGA DE VEÍCULO COMO PARTE DO PAGAMENTO - POSTERIOR PENHORA DECORRENTE DE FRAUDE À EXECUÇÃO - COMPROVAÇÃO DE VALORES GASTOS COM CONSERTO E REVISÃO - NECESSIDADE DE AVALIAÇÃO DE MERCADO PARA AFERIÇÃO DO VALOR DE REVENDA DO BEM - PRESCINDIBILIDADE DE EMBARGOS DE TERCEIROS - PREPONDERÂNCIA DA BOA-FÉ E FUNÇÃO SOCIAL DO CONTRATO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+1 - Conforme os arts. 447 a 457 do CC e a doutrina, a evicção é a perda parcial ou integral da posse ou propriedade do bem em virtude, via de regra, de decisão judicial, decorrente de motivo jurídico anterior ao contrato de aquisição.
+2 - No caso analisado, restou evidenciado que a apelante recebeu do apelado, como forma de pagamento pela compra e um automóvel veículo avaliado em R$ 46. 00,00, meses depois, foi penhorado em ação de execução, na qualse reconheceu a fraude na transferência empresa executada a seu sócio (ora executado)
+3 - Conforme as provas constantes es autos, verificou-se que a empresa foi citada na execução antes da transferência do veículo, antesdo negócio celebrado entre as partes, sendo esse omotivo determinante para configuração da evicção.
+4 - Comprovados ainda os valores gastos com consertos e revisão do veículo entregue pelo apelado, embora desconsiderada a avaliação de Oficial de Justiça para fins de quantificação de valor de mercado pelo qual a concessionária revenderia o automóvel.
+5 - Não subsiste a alegação de que a via correta a ser utilizada pela apelante seriam os embargos de terceiro, uma vez que na presente ação não se pretende a retomada da posse do bem, mas indenização pelo valor a que se prestava quitar.
+6 - Muito embora a concessionária não tenha observado o prazo para adoção de providências necessárias à expedição do novo Certificado de Registro de Veículo (30 dias - art. 123, § 1 0 do CTB), tal fato não exime o apelado de cumprir com sua obrigação contratual, motivo pelo qual, ponderando-se os deveres das partes, entende-se que deve prevalecer o dever de indenizar, em homenagem aos princípios da boa-fé contratual e função social do contrato.
+7 - Recurso conhecido e parcialmente provido.
+Os embargos de declaração opostos foram acolhidos nos termos da seguinte ementa (fls. 198-199):
+EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE CONTRADIÇÃO E OMISSÃO. REDISCUSSÃO DE MATÉRIA. COMPRA E VENDA DE AUTOMÓVEL. ENTREGA DE VEÍCULO COMO PARTE DO PAGAMENTO. POSTERIOR PENHORA DECORRENTE DE FRAUDE À EXECUÇÃO. RECURSO CONHECIDO E DESPROVIDO.
+1. Os embargos de declaração possuem fundamentação vinculada, limitando-se ao saneamento devícios deobscuridade, omissão, contradição e correção de erros materiais, para que a decisão possa ser melhor interpretada, de acordo com o que preconiza o art. 1.022 do CPC.
+2. Não há que se falar em omissão, tendo em vista que o julgador não é obrigado a rebater todos os argumentos apresentados pelas partes, bastando apresentar argumentação suficiente e idônea a embasar sua convicção e valorar as provas que foram produzidas no processo. No acórdão embargado, ficou constatado que o veículo entregue pelo embargante como parte do pagamento do contrato celebrado com o embargado, é decorrente de fraude à execução.
+3. Conforme as provas constantes dos autos, verificou-se que a empresa, na qual o embargante é sócio, foi citada na execução antes da transferência do veículo para este e antes do negócio celebrado entre as partes, sendo e o motivo determinante para a configuração da evicção.
+4. Não ficou constatada a existência de contradição, uma vez que o acórdão foi claro ao reconhecer que, embora concessionária não tenha observado o prazo para adoção de providências necessárias efetivação da expedição do novo Certificado Registro de Veículo (30 dias  art. 123, § 1º do CTB), tal fato não o embargante de cumprir com sua obrigação contratual,motivo pelo qual, ponderando-se os deveres partes entende-se que deve prevalecer o dever de indenizar, em homenagem aos princípios da boa-fé contratual e função social do contrato.
+5. Recurso CONHECIDO e DESPROVIDO.
+Nas razões do recurso especial, o ora agravanteapontaviolação dos seguintes artigos:
+a) 1.022, II, e 489, § 1º, IV, do Código de Processo Civil, indicando omissão e contradição no acórdão recorrido; e
+b) 123, § 1º, do Código de Trânsito Brasileiro e 447 do Código Civil, impugnando a evicção.
+Narra o recorrente que o automóvel estava integrado aseu patrimônio no momento de celebração do contrato.
+Assevera que a propriedade do veículo foratransmitidacerca de 8 meses antes da efetivação da penhora.
+Argumenta que era o titular de direito real sobre o veículo no momento da conclusão do negócio jurídico, o que afasta a evicção.
+Aduz quea concessionária não observou o prazo para a transferência do bem.
+Pleiteia o afastamento da evicção e, porconsequência, acondenação porindenização.
+Requero provimento do recurso.
+O recurso especial foi inadmitido na origem (fls. 232-234).
+A contraminuta ao agravo foi oferecida às fls. 257-261.
+É o relatório. Decido.
+O recurso não merece prosperar.
+Acerca das questõessuscitadas, consta do acórdão impugnado o seguinte (fls. 181-183):
+A referida ação executiva foi ajuizada em 30 de abril de 2008, com mandado citatório juntados aos autos em 13 de maio daquele ano.
+A transferência do automóvel foi realizada no dia 27 de maio de 2008 em favor do apelado, quando já tramitava a execução, motivo pelo qual foi reconhecida a fraude e deferida a penhora do bem e a remoção do veículo (fl. 50). Veja-se a transcrição da decisão judicial:
+"Em razão da prova juntada às fls. 72, dando conta que a executada transferiu, em 27/05/2008, portanto no curso desta execução, o veículo de sua propriedade para o nome particular de um de seus sócios, defiro a penhora sobre o referido bem, além de sua remoção, nomeando fiel depositário o representante legal da exequente ou sua procuradora".
+Ora, a prova dos autos aponta empresa da qual o apelado é sóciofoi citada na execuçãono dia 30 de abril de 2008 (fl. 42v), sendo essa data crucial para a configuração do motivo que gerou evicção do bem dado como forma de pagamento par apela e, eis que é a causa do reconhecimento da fraude.
+Ressalto que a apelante cuidou de comprovar que, à época dos fatos, procedeu às consultas de regularidade do veículo, demonstrando que não tinha ciência de qualquer vício do negócio, conforme demonstram os documentos de fls. 35/40.
+Da mesma forma, está provado o valor total de R$ 1.781,38 (mil setecentos e oitenta e um reais e trinta e oito centavos) gasto pela apelante com conserto e revisão do veículo, pelos recibos, notas fiscais e ordens de serviço às fls. 64/68.
+ ..
+Destaco que não subsiste a alegação do apelado deque a via correta a ser utilizada pelo apelante seriam os embargos de terceiro, uma vez que na presente ação não se pretende a retomada da posse do bem, mas indenização pelo valor a que seprestava quitar.
+Finalmente, registro que, muito embora a concessionária não tenha observado o prazo para adoção de providências necessárias à efetivação da expedição do novo Certificado de Registro de Veículo (30 dias - art. 123, § 1ºdo CTB), tal fato não exime o apelado de cumprir com sua obrigação contratual, motivo pelo qual, ponderando-se os deveres das partes, entendo que deve prevalecer o dever de indenizar, em homenagem aos princípios da boa-fé contratual e função social do contrato.
+Do julgamento dos embargos de declaração, constou o seguinte (fls. 202-203):
+No voto condutor do apelo destaquei que as partes celebraram contrato de compra e venda de automóvel no dia 23 de maio de 2008 (fls. 27/28) oportunidade na qual, no ato do negócio, o apelado ofertou um veículo sua propriedade como forma de pagamento, no equivalente aR$ 46.000,00 (quarenta e seis mil), com autorização de transferência.
+Entretanto, em fevereiro de 2009, o veículo foi removido das dependências da apelante por força de execução, na qual restou reconhecida f pela executada VIXTILES MÁRMORES E G ao seu sócio, ora embargante.
+A transferência do automóvel foi realizada no dia 27de maio de 2008 em favor do embargante, quando já tramitava a execução, motivo pelo qual foi reconhecida a fraude e deferida a penhora do tem e a remoção do veículo (fl. 50). Veja-se a transcrição da decisão judicial:
+ ..
+A prova dos autos aponta que, de fato, a empresa da qual o apelado é sócio foi citada na execução no dia 30 de abril de 2008 (fl. 42v), sendo essa a data crucial para a configuração do motivo que gerou a evicção do bem dado como forma de pagamento para a embargada, eis que é a causa do reconhecimento da fraude.
+A embargada cuidou de comprovar que, à época dos fatos, procedeu às consultas de regularidade do veículo, demonstrando que não tinha ciência de qualquer vício do negócio, conforme demonstram os documentos de fls. 35/40.
+Finalmente, não há que se falar em contradição, uma vez que o acórdão foi claro ao reconhecer que, embora -concessionária não tenha observado o prazo para adoção de providências necessárias efetivação da expedição do novo Certificado de Registro de Veículo (30 dias  art. 123, § 1º do CTB 4 ), tal fato não exime o embargante de cumprir com sua obrigação contratual, motivo pelo qual, ponderando-se os deveres das partes, entendo que deve prevalecer o dever de indenizar, em homenagem aos princípios da boa-fé contratual e função social do contrato.
+Em relação à violação dos arts. 1.022, II, e 489, § 1º, IV, do CPC, não assiste razão à parte recorrente, porquanto o Tribunal a quo examinou e decidiu, de modo claro e objetivo, as questões que delimitam a controvérsia, não ocorrendo nenhum vício que possa nulificar o acórdão recorrido nem negativa da prestação jurisdicional.
+Ademais, o órgão colegiado não está obrigado a repelir todas as alegações expendidas norecurso, pois basta que se atenha aos pontos relevantes e necessários ao deslinde do litígio e adote fundamentos que se mostrem cabíveis à prolação do julgado, ainda que, relativamente às conclusões, não haja a concordância das partes.
+Ressalte-se que a jurisprudência do Superior Tribunal de Justiça orienta-se no sentido de que, "devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC"(AgInt no AREsp n. 1.843.196/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 20/9/2021, DJe de 22/9/2021).
+Confiram-se ainda os seguintes julgados: REsp n. 1.829.231/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 20/10/2020, DJe de 1º/12/2020; AgInt no AREsp n. 1.736.385/GO, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 23/11/2020, DJe de 2/12/2020; e AgInt no REsp n. 2.009.055/AM, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 10/10/2022, DJe de 18/10/2022.
+No tocante à ofensa aos arts. 123, § 1º, do CTBe 447 do CC,considerando os trechos acimatranscritos, verifica-se que a Corte local, instância soberana na análise das provas, concluiu pelo reconhecimento da evicção.
+Desse modo, para adotar conclusão diversa daquela assentada pelo acórdão de origem e acolher a tese defendida peloora recorrente, seria imprescindível o reexame de matéria fático-probatória dos autos, medida inviável na via do apelo especial, em face do óbice da Súmula n. 7 do STJ.
+A corroborar tal entendimento, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. Alterar as conclusões do Tribunal de origem quanto à existência de evicção exigiria o reexame de provas e interpretação das cláusulas contratuais, o que esbarra nos óbices das Súmulas 5 e 7 do STJ.
+2. Agravo interno desprovido.(AgInt no REsp n. 1.945.274/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/11/2021, DJe de 24/11/2021.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IND ENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. COMPRA E VENDA DE VEÍCULOS. ADULTERAÇÃO. EVICÇÃO. RESPONSABILIDADE. SOLIDARIEDADE. REEXAME DE PROVAS.
+1. O reexame de fatos e provas em recurso especial é inadmissível.
+2. Agravo interno não provido.(AgInt no AREsp n. 1.933.050/TO, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 14/2/2022, DJe de 16/2/2022.)
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e negar-lhe provimento.
+Nos termos do § 11 do art. 85 do CPC, majoro, em 10% sobre o valor já arbitrado nas instâncias de origem, os honorários advocatícios em desfavor da parte ora recorrente, observados, se aplicáveis, os limites percentuais previstos no § 2º do referido artigo e ressalvada eventual concessão de gratuidade de justiça.
+Publique-se. Intimem-se.
