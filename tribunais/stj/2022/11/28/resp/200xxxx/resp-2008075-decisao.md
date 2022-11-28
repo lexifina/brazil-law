@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial fundamentado no art. 105, III, "a", da CF, interposto contra acórdão assim ementado (e-STJ fls. 137/139):
+APELAÇÃO. AÇÃO DECLARATÓRIA. PRELIMINAR EM CONTRARRAZÕES. AUSÊNCIA DE DIALETICIDADE. REJEIÇÃO. CAUSA MADURA. APLICAÇÃO DO ART.1.013, §3º DO CÓDIGO DE PROCESSO CIVIL DE 2015. JULGAMENTO IMEDIATO. MÉRITO. EXTINÇÃO COM RESOLUÇÃO DE MÉRITO. RECONHECIMENTO DE PRESCRIÇÃO QUINQUENAL. INOCORRÊNCIA. ENTENDIMENTO DO STJ. PRESCRIÇÃO DECENAL.MÉRITO. PLEITO DE DEVOLUÇÃO DE JUROS INCIDENTES SOBRE TARIFAS DECLARADAS ABUSIVAS. APLICAÇÃO DOS PRINCÍPIOS DA GRAVITAÇÃO JURÍDICA E DA VEDAÇÃO AO ENRIQUECIMENTO SEM CAUSA. REPETIÇÃO DE INDÉBITO DEVIDA NA FORMA SIMPLES. APELO PROVIDO.
+O Código de Processo Civil de 2015, ao disciplinar o efeito devolutivo do recurso de apelação, no §3º do art. 1.013, atribui o dever de o Tribunal decidir desde logo o mérito da demanda, quando esta estiver em condições de imediato julgamento.
+Não há que se falar em ofensa ao princípio da dialeticidade, visto que a parte apelante se contrapôs ao fundamento da sentença, trazendo argumentos jurídicos com o intuito de afastar as conclusões judiciais, observando-se, portanto, o pressuposto processual de admissibilidade referente à regularidade formal do recurso.
+Conforme entendimento pacificado na jurisprudência pátria, sufragado pelo Superior Tribunal de Justiça, o prazo prescricional aplicável é o geral, preceituado pelo artigo 205 do Código Civil, ou seja, de 10 anos a contar da data final do contrato.
+Seguindo a lógica do princípio da gravitação jurídica - segundo o qual o acessório segue o principal -, uma vez declarada a abusividade de cláusulas contratuais, com a consequente devolução do valor com base nelas indevidamente cobrado, a condenação na restituição dos juros remuneratórios incidentes sobre as taxas indevidas é consectário lógico dentro da ideia da vedação ao enriquecimento sem causa.
+Apelo provido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 211/235).
+Em suas razões (e-STJ fls. 238/256), a parte recorrente aponta violação:
+(i) do art. 1.022 do CPC/2015, porque (e-STJ fls. 244/245):
+ ..  o banco demonstrou o intuito prequestionador dos seguintes fatos:
+ Os juros, seja pela sua natureza acessória(art. 184 do CC), seja pela forma condenatória acatada outrora, constituíram, sim, pedidos na demanda que tramitou no Juizado Especial, ainda que por indução, de forma que o artigo337, §§ 1º, 2º e 4º é relevante na presente solução;
+ A coisa julgada inclui sob o manto da intangibilidade processual as questões tanto deduzidas expressamente como as que poderiam tê-lo sido;
+ Não se observou o disposto no art. 323 do Código Civil, no sentido que "a quitação do capital sem reserva dos juros, estes presumem-se pagos" e
+ Dada a natureza do contrato de arrendamento mercantil não há como acolher a pretensão recursal, à míngua de restituição de juros incidentes sobre as tarifas declaradas ilegais.
+(ii) do art. 337, §§ 1º, 2ºe 4º, do CPC/2015,bem como dissídio jurisprudencial, pois (e-STJ fls. 247/249):
+ ..  tendo como núcleo da insurgência a cobrança de juros remuneratórios sobre tarifas próprias do contrato bancário,uma vez declaradas nulas referidas tarifas e exigida a repetição dos valores pagos em ação pretérita, estão inclusos os referidos juros e os demais consectários.
+ .. Portanto, a causa de pedir e o pedido formulados na ação proposta abrangiam, indubitavelmente, a pretensão repetida nesta ação, ou seja, a de receber os juros incidentes sobre a tarifa diluída nas parcelas do financiamento. Logo, se está a repetir, agora, ação idêntica à outra já definitivamente julgada.
+ .. a restituição dos juros remuneratórios sobre as tarifas compreende dedução lógica do pedido do afastamento da cobrança, na medida em que o acessório (juros incidentes sobre a tarifa afastada) segue a sorte do principal (princípio da gravitação). Sendo assim, não combatida a sentença do Juizado Especial que eventualmente não contemple condenação à repetição dos acessórios, há evidente preclusão, dada a concordância com os termos do provimento jurisdicional, com os valores pagos e com a quitação operada, não cabendo a reabertura da discussão em nova ação.
+Contrarrazões apresentadas (e-STJ fls. 279/283).
+O recurso foi admitido na origem.
+É o relatório.
+Decido.
+Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+O Tribunal de origem assim se manifestou (e-STJ fl. 194):
+Pois bem. Inobstante a declaração de nulidade das cláusulas contratual que preveem a cobrança de tarifas já ter sido objeto de apreciação em demanda ajuizada perante o 4º Juizado Especial Cível da Comarca da Capital, por meio de uma análise acurada da peça pórtica constata-se que, na presente ação, o requerente não requer a devolução do valor pago por ela - tutela já obtida -, mas sim da quantia paga pelos juros decorrentes do seu financiamento.
+Nesse trilhar de ideias, tenho que de fato, uma vez reconhecido que a cobrança de tais tarifas foi efetuada indevidamente, para que se restitua às partes ao status quo ante, mostra-se necessária a devolução das quantias referentes aos acréscimos/juros a elas incididos pelo banco, sob pena de ocorrência do enriquecimento ilícito da instituição financeira, fato este rechaçado pelo ordenamento jurídico pátrio.
+Complementou, nos aclaratórios, que (e-STJ fls. 218/219):
+No julgado combatido, houve a apreciação da alegação da nulidade das obrigações acessórias, sendo ressaltado que a ilegalidade da base de cálculo (tarifas) alcança, por decorrência lógica, o montante calculado a título de juros remuneratórios sobre elas incidentes.
+Consigne-se, apenas a título complementar, que a quitação do capital sem reserva de juros, tratada no art. 323 do Código Civil, é uma modalidade de aceitação do pagamento que se dá pelo silêncio ou omissão. Melhor explicitando, presume-se o adimplemento dos juros pactuados se o credor, declarando a quitação do débito, não faz a ressalva de que os juros não se encontram embutidos no valor ofertado.
+A situação tratada nos autos, no entretanto não se amolda ao disposto acima, uma vez que, in casu, a sentença proferida pelo 4º Juizado Especial Cível da Comarca da Capital, na ação de nº 200.2010.952748-7, ordenou expressamente a devolução tão apenas dos valores exigidos em razão da cobrança das tarifas, razão pela qual devida a restituição dos juros remuneratórios incidentes sobre tais tarifas declaradas ilegais.
+Do mesmo modo, ainda que sobre a devolução do valor, tenham incidido correção monetária e juros moratórios, tratam-se de consectários legais que não se confundem com a pretensão inicial ora analisada, qual seja, aplicação dos juros remuneratórios contratuais incidentes sobre os encargos administrativos.
+No entanto, no presente caso, apesar da oposição de embargos declaratórios, o Tribunal de origem manteve a omissão a respeito de questão pertinenteao deslinde da causa, oportunamente suscitadapela parte, qual seja,a tese de que no contrato de arrendamento mercantil não incidiriam os juros sobre as tarifas.
+É pacífico neste Tribunal o entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+Assim, constatada a omissão, considerando que a análise fático-probatória não pode ser realizada por este juízo especial, os autos devem retornar ao Tribunal de origem.
+Ficam prejudicadas as demais questões apresentadas no recurso especial.
+Ante o exposto, DOU PROVIMENTO ao recurso, a fim dedeterminar o retorno dos autos ao Tribunal de origem para exame dos vícios apontados, nos termos da fundamentação.
+Publique-se e intimem-se.
