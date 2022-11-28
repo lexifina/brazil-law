@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo internocontra decisão monocrática da lavra do MinistroPresidente desta Corte, que não conheceu do recurso, por não haver impugnação a todos os fundamentos da decisão agravada.
+Nas razões do agravo interno, o Ministério Público do Estado de São Paulo sustenta, em síntese, os seguintes argumentos:
+ ..
+Conforme se depreende dos trechos acima referidos, a impugnação específica foi feita, não sendo legítimo o reconhecimento do óbice relacionado à ausência de demonstração de violação a dispositivos legais.
+ ..
+Ora, da leitura da passagem acima transcrita das razões de agravo, depreende-se que repisaram os motivos pelos quais a Súmula 7/STJ não se aplicava ao caso em tela.
+ ..
+Na origem, trata-se de embargos de terceiro contra penhora que recaiu sobre o Lote 8 da Quadra 5 da Chácara Leila - Sítios de Recreio, objeto da matrícula n. 56809 do CRI de São Carlos, realizada no Processo n. 0001662-53.2000.8.26.0566. Na sentença, rejeitou-se os embargos. No Tribunala quo,a sentença foi mantida.
+No STJ, em decisão monocrática do Ministro Presidente desta Corte, o recurso não foi conhecido, ante a ausência de impugnação a todos os fundamentos da decisão atacada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO AGRAVADA. NÃO CONHECIMENTO. AGRAVO INTERNO NÃO CONHECIDO.
+I -Na origem, trata-se de embargos de terceiro contra penhora que recaiu sobre o Lote 8 da Quadra 5 da Chácara Leila - Sítios de Recreio, objeto da matrícula n.56809 do CRI de São Carlos, realizada no Processo n. 0001662-53.2000.8.26.0566. Na sentença, rejeitou-se os embargos. No Tribunal a quo, a sentença foi mantida.No STJ, em decisão monocrática do MinistroPresidente desta Corte, o recurso não foi conhecido, ante a ausência de impugnação a todos os fundamentos da decisão atacada.
+II -A decisão recorrida, que não conheceu do agravo em recurso especial, considerou que a parte agravante deixou de impugnar especificamente o óbice referente à incidência da Súmula n.7/STJ.Por outro lado, em seu agravo interno, a parte agravante traz alegações dissociadas da decisão recorrida, referentes à matéria de mérito do recurso especial, que nem sequer chegou a ser submetido ao juízo de admissibilidade.
+III -Não existindo impugnação à decisão que inadmitiu o recurso especial, correta a aplicação do art. 544, § 4º, I, do Código de Processo Civil de 1973 (atual art. 932, III, do Código de Processo Civil de 2015), para não conhecer do agravo nos próprios autos. Se não se conhece do agravo em recurso especial, não é viável a análise de argumentos relacionados ao mérito do recurso especial.
+IV -Por fim,reiterado o entendimento deste Sodalício no sentido de que, para o reconhecimento de fato superveniente - no caso, a alegada necessidade de suspensão do feito em razão do reconhecimentopelo STFde repercussão geral nos autos do ARE n. 843.989, no qual se definirá a eventual "(ir)retroatividade das disposições da Lei 14.230/2021", que promoveu alterações significativas na Lei de Improbidade - , "é necessário, além do conhecimento do recurso, que haja relação entre o objeto recursal e aludido fato superveniente" (EDcl no AgInt no AREsp n. 1.807.643/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/11/2021, DJe 22/11/2021).
+V - Agravo interno não conhecido.
+VOTO
+As razões da decisão agravada não são suficientes para reformar as conclusões da decisão agravada, merecendo ser mantida pelos seus fundamentos.
+A decisão recorrida, que não conheceu do agravo em recurso especial, considerou que a parte agravante deixou de impugnar especificamente o óbice referente à incidência da Súmula n. 7/STJ.
+Por outro lado, em seu agravo interno, a parte agravante traz alegações dissociadas da decisão recorrida, referentes à matéria de mérito do recurso especial, que nem sequer chegou a ser submetido ao juízo de admissibilidade.
+Não existindo impugnação à decisão que inadmitiu o recurso especial, correta a aplicação do art. 544, § 4º, I, do Código de Processo Civil de 1973 (atual art. 932, III, do Código de Processo Civil de 2015), para não conhecer do agravo nos próprios autos. Se não se conhece do agravo em recurso especial, não é viável a análise de argumentos relacionados ao mérito do recurso especial.
+Nesse sentido, os seguintes precedentes: AgRg nos EREsp n. 1.387.734/RJ, Corte Especial, relator MinistroJorge Mussi, DJe de 9/9/2014; e AgRg nos EDcl nos EAREsp n. 402.929/SC, Corte Especial, relator MinistroJoão Otávio de Noronha, DJe de 27/8/2014; AgInt no AREsp n. 880.709/PR, Segunda Turma, relator Ministro Mauro Campbell Marques, DJe de 17/6/2016; AgRg no AREsp n. 575.696/MG, Terceira Turma, relator Ministro Paulo de Tarso Sanseverino, DJe de 13/5/2016; AgRg no AREsp n. 825.588/RJ, Quarta Turma, relator Ministro Luis Felipe Salomão, DJe de 12/4/2016; AgRg no REsp n. 1.575.325/SC, Quinta Turma, relator Ministro Reynaldo Soares da Fonseca, DJe de 1º/6/2016; eAgRg nos EDcl no AREsp n. 743.800/SC, Sexta Turma, relatoraMinistra Maria Thereza de Assis Moura, DJe de 13/6/2016.
+Por fim,reiterado o entendimento deste Sodalício no sentido de que, para o reconhecimento de fato superveniente - no caso, a alegada necessidade de suspensão do feito em razão do reconhecimentopelo STFde repercussão geral nos autos do ARE n. 843.989, no qual se definirá a eventual "(ir)retroatividade das disposições da Lei 14.230/2021", que promoveu alterações significativas na Lei de Improbidade - , "é necessário, além do conhecimento do recurso, que haja relação entre o objeto recursal e aludido fato superveniente" (EDcl no AgInt no AREsp n. 1.807.643/RS, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 9/11/2021, DJe 22/11/2021).
+Ante o exposto, não conheço do agravo interno.
+É o voto.
