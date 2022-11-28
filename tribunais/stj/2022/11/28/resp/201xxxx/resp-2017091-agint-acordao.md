@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão que negou provimento ao recurso.
+A parte agravante sustenta, em suma:
+Como transcrito acima, deixou-se de conhecer o recurso especial ao fundamento de que o Recorrente não teria realizado "o necessário cotejo analítico, bem como não apresenta, adequadamente, o dissídio jurisprudencial".
+Ora, nobres Ministros, está bastante evidente no respectivo Recurso Especial que o açordão recorrido que deu provimento a apelação diverge do outros acórdãos prolatados pelo Tribunal Regional Federal da 1ª Região-TRF1.
+Na decisão paragmática, em específico, temos que o colegiado do TRF1 reconhece o direito do autor a reincorporação ao Programa Mais Médicos, ainda que tenha realizado viagem a Cuba, após o rompimento da cooperação. Afirmando que o "O autor demonstrou que estava no exercício de suas atividades em novembro de 2018, no âmbito do Projeto Mais Médicos para o Brasil, e que foi desligado do programa quando da ruptura do acordo de cooperação entre o Ministério da Saúde Pública de Cuba e a Organização Pan-Americana da Saúde/Organização Mundial da Saúde. Além disso, teve Carteira de Registro Nacional Migratório emitida em 23/07/2019, o que demonstra o cumprimento do requisito de permanência no território nacional." No acórdão recorrido, o Tribunal Regional Federal da 5ª Região - TRF5, dá provimento a apelação da UNIAO, argumentando que "No caso dos autos, embora o autor tenha obtido a residência permanente no Brasil, como foi repatriadopara Cuba após o encerramento das atividades médicas, não preenche o requisito de pe rmanência noterritório nacional, não fazendo, portanto, jus à reincorporação pretendida:" Portanto, restou comprovada a divergência jursprudencial, o que exige a plena apreciação deste colegiado no intuito de unificar o entendimento para os casos semelhantes.
+Nesse contexto, o Agravante Infirmou todos os fundamentos do "dicisium " recorrido, do que, a decisão não foi conhecida pelo STJ.
+Dessa feita, não há duvidas quanto a plausibilidade do Agravo Interno no Recurso Especial interposto, na medida que o acordão, ora infirmado , proferido nos autos do processo em tela merece ser totalmente reformado por essa Corte Superior, já que, está em direto confronto e contrariedade com a legislação federal.
+Portanto, fica perfeitamente demonstrado o direito do Agravante, razão pela qual merece conhecimento e provimento ao presente Agravo Interno no REsp.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. A apontada divergência deve ser comprovada, e cabe a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Não basta transcrever ementas ou trechos de julgados que caracterizem a alegada divergência. Além disso, não ficou demonstrado que os acórdãos divergiram na aplicação da lei a casos idênticos, em circunstâncias e fatos jurídicos análogos. O paradigma acostado pela parte insurgente em nada altera a conclusão adotada pela Corte regional sobre a questão. O desrespeito a esses requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ), como o que se afigura no presente caso, impede o conhecimento do Recurso Especial com base no art. 105, III, "c", da Constituição Federal.
+2. Não se conhece de Recurso Especial quanto a matéria não especificamente enfrentada pelo Tribunal de origem, dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 282/STF.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 29.9.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme consignado no decisum agravado, em relação ao dissídio jurisprudencial, os paradigmas apresentados não mostram argumentos suficientes à reforma do julgado.
+A apontada divergência deve ser comprovada, e cabe a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Não basta transcrever ementas ou trechos de julgados que caracterizem a alegada divergência.
+Além disso, não ficou demonstrado que os acórdãos divergiram na aplicação da lei a casos idênticos, em circunstâncias e fatos jurídicos análogos.
+O paradigma acostado pela parte insurgente em nada altera a conclusão adotada pela Corte regional sobre a questão.
+O desrespeito a esses requisitos legais e regimentais (art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ), como o que se afigura no presente caso, impede o conhecimento do Recurso Especial com base no art. 105, III, "c", da Constituição Federal.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES DOS ARTS. 297 E 304 DO CP. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO. REEXAME DE PROVAS. NÃO CABIMENTO. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO. AMPARO EM FATOS E PROVAS. SÚMULA 7/STJ. RECURSO DESPROVIDO.
+(..) 2. A divergência jurisprudencial deve ser demonstrada mediante a descrição das circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fático-jurídica entre eles, sendo indispensável a transcrição de trechos dos acórdãos recorrido e paradigma, inclusive dos respectivos relatórios, de modo a viabilizar o necessário cotejo analítico entre ambos, procedimento não realizado na espécie, em que se procedeu tão somente à transcrição das ementas dos julgados paradigmas.
+3. A jurisprudência deste Sodalício tem entendimento assente no sentido de que "Não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula 7, do STJ também se aplica aos recursos especiais interpostos pela alínea c, do permissivo constitucional." (AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO, Desembargador Convocado do TJ/BA, DJe 30/6/2010).
+4. Agravo regimental desprovido.
+(AgRg no AREsp 499.325/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 19/2/2018)
+ADMINISTRATIVO E PROCESSUAL CIVIL. EXPLORAÇÃO DE ÁGUAS SUBTERRÂNEAS. DECRETO ESTADUAL N. 40.156/06. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 280/STF. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+(..) IV - Não se pode conhecer do recurso pela alínea "c" do permissivo constitucional, quando o recorrente não realiza o necessário cotejo analítico, bem como não apresenta, adequadamente, o dissídio jurisprudencial. Apesar da transcrição de ementa, não foram demonstradas as circunstâncias identificadoras da divergência entre o caso confrontado e o aresto paradigma.
+V - Ainda que a divergência fosse notória, esta Corte tem entendimento de que não há dispensa do cotejo analítico, a fim de demonstrar a divergência entre os arestos confrontados. Nesse sentido: AgRg no AREsp 571.669/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/11/2014, DJe 26/11/2014; AgRg no AREsp 571.243/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 16/10/2014, DJe 28/10/2014.
+VI - Agravo interno improvido.
+(AgInt no AREsp 966.058/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 14/2/2018)
+Quantos aos demais argumentos, verifica-se que não foram analisados pela instância de origem. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
