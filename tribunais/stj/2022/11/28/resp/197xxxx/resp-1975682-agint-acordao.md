@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que negou provimento ao recurso especialfundado no art. 105, III,a, da Constituição Federal, que visa reformar acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado:
+ADMINISTRATIVO. PROCESSO ADMINISTRATIVO. RESOLUÇÃO Nº442/2004 DA ANTT. DEVIDO PROCESSO LEGAL. INOBSERVÂNCIA. ALEGAÇÕES FINAIS. LEI 9.784/99. PROCESSO CIVIL.
+1. O direito às alegações finais em processo administrativo é assegurado pela Lei 9.784/99 em seu art. 2º, parágrafo único, X. Tratando-se, pois, de regra geral, é possível a realização de juízo de compatibilidade entreas disposições contidas em regramentos específicos e seu conteúdo.
+2. 2. É de rigor a declaração nulidade parcial do processo administrativo em discussão, desde quando o administrado deveria ter sido intimado para apresentar alegações finais, de modo a oportunizar o prosseguimento do processo administrativo a partir de então, mantida, porém, a validade do auto de infração.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial de Rumo Malha Sul S. A. e, nessa parte, negar-lhe provimento, e, com fundamento no art. 255, § 4º, III, do RISTJ, dou parcial provimento ao recurso especial da Agência Nacional de Transportes Terrestres - ANTT, para afastar a declaração de nulidade no processo administrativo simplificado outrora reconhecida."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+5. No entanto, os VV. Acórdãos proferidos pelo Egrégio Tribunal Regional Federal da 4ª Região foram obscuros no que se refere apreciação das normas e fatos suscitados no recurso de apelação, já que, com a devida venia, não houve a devida fundamentação quanto aos motivos que levaram os nobres desembargadores a não conhecerem a integral nulidade do procedimento administrativo conduzido pela Agravada (ANTT).
+6. No decorrer desta lide, a Rumo demonstrou fielmente que não houve qualquer conduta infratora de sua parte. Sabe-se que, no presente caso, a Rumo foi autuada por supostamente não enviar a cópia dos contratos formalizados com os terceiros interessados em até (10) dias úteis após as suas assinaturas, bem como informar o início e a conclusão das obras, neste mesmo prazo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. NULIDADE DE PROCESSO ADMINISTRATIVO. VIOLAÇÃO DO ART. 1.022 E DO ART. 489DO CPC/2015 NÃO CONFIGURADA. AUSÊNCIA DE OMISSÃO. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA.
+I - Na origem, trata-se de ação objetivando que seja declarada a nulidade de processo administrativo. Na sentença o pedido foi julgado parcialmente procedente. No Tribunala quo, a sentença foi mantida.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada peloSuperior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+IV - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte, "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida".  EDcl no MS n. 21.315/DF, relatoraMinistra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
