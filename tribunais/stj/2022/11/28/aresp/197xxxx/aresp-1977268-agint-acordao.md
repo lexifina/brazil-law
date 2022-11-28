@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Antonio Carlos Ferreira e Marco Buzzi votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+MINISTRA MARIA ISABEL GALLOTTI: Trata-se de agravo interno interposto por ESPÓLIO DE RUBENS STRESSER contra a decisão mediante a qual neguei provimento a seu agravo em recurso especial.
+O acórdão recorrido tem a seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO REIVINDICATÓRIA PARCIAL DE LOTE C/C PEDIDO DEMOLITÓRIO, EM FASE DE CUMPRIMENTO DE SENTENÇA - DEMANDA JULGADA PROCEDENTE - DECISÃO AGRAVADA QUE DECLAROU A OBRIGAÇÃO INEXEQUÍVEL, PELA DESCONSTITUIÇÃO ADMINISTRATIVA DO MAPA TERRITORIAL QUE EMBASOU A SENTENÇA PROFERIDA - RECONHECIMENTO DE ERRO PELO PODER PÚBLICO NA DEMARCAÇÃO DO IMÓVEL, COM RESTAURAÇÃO DOS SEUS LIMITES ORIGINAIS E DELIMITAÇÃO DA ÁREA CONTROVERTIDA COMO INSERIDA NA PROPRIEDADE DOS RÉUS/EXECUTADOS - RECONHECIMENTO DA INEXIGIBILIDADE DO TÍTULO JUDICIAL QUE SE IMPÕE - DECISÃO MANTIDA. Agravo de instrumento desprovido.
+O agravante alega ter havido violação da coisa julgada, pois corrigido erro material da sentença após o seu trânsito em julgado. Entende não ser necessário o reexame de prova, de modo que inaplicável ao caso a Súmula 7/STJ, bastando a mera readequação jurídica dos fatos em julgamento.
+Em sua impugnação, GUARACI ROBERTO CAPRARO, LAIRE MENDES CAPRARO e AÉCIO MENDES MACHADO afirmam que não invadiram a área discutida nos autos e são proprietários dela. O título executivo judicial, argumentam, é inexigível e se fundamenta em erro material já corrigido, e o recurso especial visa ao reexame de prova.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. ESBULHO. DEMARCAÇÃO DO IMÓVEL. REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+VOTO
+MINISTRA MARIA ISABEL GALLOTTI(Relatora): O agravo não prospera.
+Com efeito, verifico que o recurso especial não dispensa o reexame de prova. As razões do agravante partem do pressuposto de que os agravados cometeram esbulho, de modo que aquele deve ser reintegrado na posse do bem, com demolição da edificação construída na área. A respeito dessa premissa fática, porém, confira-se o seguinte trecho do acórdão recorrido (e-STJ fl. 805):
+Neste sentido, a decisão proferida em #129.1 é clara em apontar a questão e indicar que a sentença baseou-se em falsa premissa, valendo-se de documento oriundo do Executivo Municipal que alterou limites e demarcações dos lotes de propriedade de ambas as partes, e motivaram a presente ação por configurar invasão da área do Autor pelos Requeridos, porém, o documento em questão foi novamente modificado pela Prefeitura Municipal e restauradas as divisões territoriais anteriormente existentes e que assegurava a regularidade da área controvertida aos Réus-Executados.
+(..) a realidade fática trazida pelos réus, e que há muito deveria ter sido objeto de atenção do juízo, indicam que a sentença baseou-se em falsas premissas, consubstanciada em documento oriundo do Poder Público, o qual foi posteriormente modificado para retornar ao status quo ante das divisões territoriais do imóvel em litigio. Em outras palavras, o exercício da posse dos autores encontrava-se regular até ulterior modificação do mapa do terreno pela Prefeitura, modificação estaque, a posteriori, entendeu-se ter sido equivocadamente realizada, ensejando a restauração dos limites originais.
+(..) De qualquer modo, não é exagero lembrar que a mesma documentação pública e oriunda da municipalidade que embasou a sentença exequenda, garantindo aos autores a reintegração da posse do bem e imposição de obrigação aos réus em efetuarem a demolição do muro, agora reconhece que a referida posse pertence aos requeridos, tal como pertencia anteriormente à propositura da ação e quando da aquisição do imóvel.
+Dito isto, não se vê como obrigar os réus ao cumprimento da sentença, excluindo-os de sua propriedade e respectiva posse, com destruição de muro divisório e de parte de seu imóvel, tudo acrescido de multa milionária por descumprimento de uma obrigação que, faticamente e segundo registros públicos do Município de Curitiba, lhes era inexigível.
+Não há como afastar essas conclusões em recurso especial, consoante dispõe a Súmula 7 do STJ.
+Assim postos os fatos, cabe ressaltar que "Esta Corte entende ser possível o conhecimento de ofício pelas Instâncias ordinárias das questões referentes aos requisitos constitutivos do título executivo (certeza, liquidez e exigibilidade)" (AgRg no REsp 1117251/SC, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 20/10/2011, DJe 04/11/2011)" (AgInt no REsp 1662807/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 1º/7/2021). Desse modo, e ao contrário do que defendido pelo agravante, não há que se falar em violação da coisa julgada.
+Em face do exposto, nego provimento ao agravo interno.
+É como voto.
