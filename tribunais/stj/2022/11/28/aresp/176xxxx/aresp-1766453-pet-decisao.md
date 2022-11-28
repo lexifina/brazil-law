@@ -1,0 +1,15 @@
+DECISÃO
+A agravada, CÂMARA DE COMERCIALIZAÇÃO DE ENERGIA ELÉTRICA -CCEE, apresentou petição, protocolizada sob o n. 00523954/2022 (e-STJ fls. 1.250/1.252), informando que(e-STJ fl. 1.250):
+(..) em 14.04.2021,o douto Juízo de primeira instância realizou novo julgamento (documento 01), por meio do qual acolheu os Embargos de Declaração opostos pela Agravante "CBB" nos autos da Impugnação de Crédito nº 0105448-53.2015.8.09.0181, sendo que decorreu in albis o prazo para interposição de recurso pelas partes, ocorrendo a preclusão da referida decisão (documento 02).
+1. Diante do novo julgamento dos Embargos de Declaração e ausência de interposição de recursos, ocorreu a perda superveniente do objeto do presente agravo em Recurso Especial interposto pela Agravante, "CBB", devendo ser extinto sem resolução de mérito.
+O TJGO prestou informações (Of. n. 00252229/2022) e destacou que (e-STJ fl. 1.288):
+(..)foi proferida nova sentença nos autos, porém, ainda não ocorreu seu trânsito em julgado, tendo em vista a interposição do Agravo de Instrumento nº 5521424-37.2021.8.09.0181, o qual está pendente de julgamento pelo Egrégio Tribunal de Justiça do Estado de Goiás.
+A agravante, ora requerida, por seu turno, assevera que (e-STJ fl. 1.296):
+Conforme as informações prestadas pelo Tribunal de Justiça do Estado de Goiás, o recurso originário, qual seja, o Agravo de Instrumento de nº5151943-26.2018.8.09.0000 foi interposto pela agravada Câmara de Comercialização de Energia Elétrica - CCE, cujo objetivo era cassar a sentença proferida nos autos da Impugnação de Crédito, em razão do cerceamento de defesa por não ter sido intimada para apresentar contrarrazões aos aclaratórios opostos pela Agravante e ainda que os honorários fossem fixados por equidade.
+O recurso foi provido, sendo que por este motivo, nova sentença foi proferida nos autos da Impugnação de Crédito e por ter sido fixado o valor dos honorários no valor de R$ 5.000,00 (cinco mil reais), a ora Agravante interpôs o recurso de agravo de instrumento, este em trâmite na 3ª Câmara Cível do Estado de Goiás sob o número 5521424-37.2021.8.09.0181, visando a reforma da sentença no que tange ao valor dos honorários sucumbenciais nos moldes do Tema 1.076 julgado por este Superior Tribunal de Justiça.
+Pois bem. Da análise do objeto do presente recurso, é notório que o presente recurso resta prejudicado, vez que a discussão meritória foi alcançada pela Agravada e desta, já foi proferida nova sentença nos autos da Impugnação de Crédito.
+Ao final, requer que (e-STJ fl. 1.297):
+(..) seja o presente Agravo em Recurso Especial julgado PREJUDICADO, com supedâneo no artigo 932, III, do Código de Processo Civil c/c artigo 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, face a ausência de efetividade da prestação jurisdicional, ante o objeto encontrar-se prejudicado.
+Tendo sido proferida nova sentença com o arbitramento de honorários,denota-se a superveniente falta de interesse recursal, porperda de objetodo presente agravo em recurso especial (e-STJ fls. 1.043/1.075).
+Diante do exposto,JULGO PREJUDICADOo recurso porperda de objeto.
+Publique-se e intimem-se.
