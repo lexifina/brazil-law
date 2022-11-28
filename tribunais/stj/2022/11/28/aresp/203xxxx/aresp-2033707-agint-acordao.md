@@ -1,0 +1,67 @@
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. AGRAVO INTERNO. DECISÃO PROFERIDA PELA PRESIDÊNCIA DO STJ. OFENSA AOS ARTS. 458 E 1.022 DO CPC. RAZÕES GENÉRICAS. SÚMULA 284/STF. ICMS. VENDA DE SUÍNO. QUALIFICAÇÃO DA ADQUIRENTE COMO FRIGORÍFICO NÃO DEMONSTRADA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. Trata-se de Agravo Interno contra decisão proferida pela Presidência do STJ (fls. 407-409, e-STJ) que conheceu do Agravo para não conhecer do Recurso Especial.
+2. A Corte local, a despeito da oposição de Embargos de Declaração, não analisou a controvérsia sob a ótica dos arts. 111 e 128 do CTN, tidos por violados. Incide o óbice da Súmula 211/STJ, ante a falta de prequestionamento.
+3. Ademais, o Tribunal de Justiça do Estado de Santa Catarina decidiu a demanda com base no art. 8º, XXIV, RICMS/SC. Descabe o Recurso Especial, porquanto eventual violação de lei federal seria meramente indireta e reflexa, visto que exige juízo anterior de normas estaduais, o que atrai, por analogia, a Súmula 280/STF.
+4. Por fim, a alegação da parte de afronta aos arts. 458 e 1.022 do CPC nas razões do Recurso Especial foi feita de forma desprovida de fundamentação e absolutamente genérica. Incide, no ponto, o óbice da Súmula 284/STF.
+5. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Humberto Martins."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão proferida pela Presidência do STJ (fls. 407-409, e-STJ) que conheceu do Agravo para não conhecer do Recurso Especial.
+A parte agravante afirma que o Recurso por ela interposto preenche todos os requisitos de admissibilidade. Alega, em suma (fls. 412-427, e-STJ):
+Data maxima venia, a r. decisão presidencial agravada merece ser totalmente reformada, pois, diferentemente do fundamento adotado, há pedido expresso no recurso especial, para que fosse reconhecida a violação aos artigos 489 e 1.022, do Código de Processo Civil, bem como dos artigos 111 e 128, do Código Tributário Nacional, razão pela qual o recurso não encontra óbice nas súmulas 282/STF e 356/STF.
+(..)
+Segundo a r. decisão presidencial recorrida, "não é cabível recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente do dispositivo de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário"".
+Data maxima venia, embora o Ministro Presidente tenha alegado que o recurso foi interposto para discutir a violação a direito local (artigo 8º, inciso XXIV, RICMS/SC), a verdade é que o recurso especial foi fundamentado na violação aos artigos 111 e 128, do CTN, pelas seguintes razões.
+Requer a reconsideração da decisão agravada ou o provimento, pelo colegiado, do Agravo Interno.
+Impugnação apresentada às fls. 430-433, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. ICMS. AGRAVO INTERNO. DECISÃO PROFERIDA PELA PRESIDÊNCIA DO STJ. OFENSA AOS ARTS. 458 E 1.022 DO CPC. RAZÕES GENÉRICAS. SÚMULA 284/STF. ICMS. VENDA DE SUÍNO. QUALIFICAÇÃO DA ADQUIRENTE COMO FRIGORÍFICO NÃO DEMONSTRADA. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ANÁLISE DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. Trata-se de Agravo Interno contra decisão proferida pela Presidência do STJ (fls. 407-409, e-STJ) que conheceu do Agravo para não conhecer do Recurso Especial.
+2. A Corte local, a despeito da oposição de Embargos de Declaração, não analisou a controvérsia sob a ótica dos arts. 111 e 128 do CTN, tidos por violados. Incide o óbice da Súmula 211/STJ, ante a falta de prequestionamento.
+3. Ademais, o Tribunal de Justiça do Estado de Santa Catarina decidiu a demanda com base no art. 8º, XXIV, RICMS/SC. Dessa forma, descabe o Recurso Especial, porquanto eventual violação de lei federal é meramente indireta e reflexa, pois exige juízo anterior de normas estaduais, o que atrai, por analogia, a Súmula 280/STF.
+4. Por fim, a alegação da parte de afronta aos arts. 458 e 1.022 do CPC nas razões do Recurso Especial foi feita de forma desprovida de fundamentação e absolutamente genérica, pelo que incide, no ponto, o óbice da Súmula 284/STF.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 7.6.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+A decisão agravada consignou (fls. 407-409, e-STJ):
+Quanto à primeira e à segunda controvérsias, na espécie, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ademais, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/10/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.657.693/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; AgInt no REsp 1.616.439/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/6/2020; AgRg no REsp 1.822.671/MT, relator Ministro Jorge Mussi, Quinta Turma, DJe de 7/4/2020.
+Examinando detidamente os autos, constata-se que a Corte local, a despeito da oposição de Embargos de Declaração, não analisou a controvérsia sob a ótica dos arts. 111 e 128 do CTN, tidos por violados. Incide o óbice da Súmula 211/STJ, ante a falta de prequestionamento. Nesse sentido:
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DO ENUNCIADO DA SÚMULA 211/STJ. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO. RECURSO INCORRETO. PRINCÍPIO DA FUNGIBILIDADE NÃO APLICADO.
+1. A indicada afronta aos arts. 1.024, 1.032 e 1.033 do CPC não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento. Incide, na espécie, a Súmula 211/STJ.
+(..) 4. Agravo Interno não provido.
+(AgInt no REsp 1909837/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/09/2021, DJe 13/10/2021)
+Com efeito, "para que se configure o prequestionamento é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como tenha sido exercido juízo de valor sobre o dispositivo legal indicado e a tese recursal a ele vinculada, interpretando-se a sua aplicação ou não ao caso concreto" (AgInt no AREsp 1.511.330/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19/12/2019), o que não ocorreu.
+Ademais, o acórdão recorrido, ao dirimir a controvérsia, assim se manifestou (fl. 220, e-STJ):
+(..)
+2. O contribuinte pede a anulação do débito em face do diferimento de que trata o art. 8º, XXIV, do Anexo 3 do RICMS/SC:
+(..)
+Mesmo sendo incontroverso que o emitente das notas, ora demandante, seja produtor agropecuário, o adquirente dos animais, no caso, a  lial catarinense da empresa Comercial Suzano de Produtos Alimentícios Eireli, não se enquadra como estabelecimento comercial que realize o abate.
+É que há uma incongruência entre o cadastro apresentado à Receita Federal (Evento 18, CNPJ3) e aquele apresentado perante a Secretaria de Estado da Fazenda Estadual (Evento 14, ANEXO 2 e 3). No primeiro consta que a  lial, assim como a matriz, executa atividade secundária como "Frigorí co - abate de suínos", já no segundo, e de maneira harmônica com aquilo que consta no contrato social, a descrição das atividades se volta ao comércio atacadista de carnes e derivados, aves, e animais vivos.
+No ato constitutivo da sucursal localizada no Município de Ipuaçu, aliás, consta o seguinte quanto ao objeto das atividades (Evento 18, CONTRSOCIAL2, fls. 6):
+(..)
+Como se vê, o Tribunal de Justiça do Estado de Santa Catarina decidiu a demanda com base no art. 8º, XXIV, RICMS/SC. Dessa forma, descabe o Recurso Especial, porquanto eventual violação de lei federal seria meramente indireta e reflexa, pois exige juízo anterior de normas estaduais, o que atrai, por analogia, o óbice do enunciado de Súmula 280/STF. Ilustrativamente:
+TRIBUTÁRIO. PROCESSO CIVIL. ICMS. COMERCIALIZAÇÃO DE MILHO. MATERIAIS E INSUMOS AGREGADOS À PRODUÇÃO AGRÍCOLA QUE SÃO ISENTOS OU GARANTEM CREDITAMENTO FUTURO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 356/STF. FUNDAMENTAÇÃO EM LEI ESTADUAL. REFORMA. IMPOSSIBILIDADE. SÚMULA 280/STF.
+(..)
+3. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (art. 31, II, do Anexo II do RICMS/SC e o item 3.2.13.2 da Portaria SEF n. 153/2012), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+4. Agravo interno não provido.
+(AgInt no AREsp 1.891.678/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 25/10/2021, DJe de 28/10/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. (..) INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ E 280/STF. AGRAVO INTERNO DO ESTADO DO RIO GRANDE DO SUL A QUE SE NEGA PROVIMENTO.
+1. O Tribunal de origem, ao solver a controvérsia, relativa à inclusão de royalties decorrente de Contrato de Franquia na base de cálculo do ICMS-ST, concluiu que (i) à luz das disposições contratuais, a Contribuinte não exerce a atividade de franquia e, tampouco, cobra royalties das franqueadas ou das demais empresas com as quais opera, sendo estes recebidos por empresa diversa, a Franqueadora, de forma que somente os custos relacionados à operação realizada por ela própria, no caso a venda das mercadorias, devem ser considerados na base de cálculo do ICMS-ST; e (ii) o Protocolo ICMS 95/2009 e o art. 220 do RICMS/RS extrapolam os limites dispostos na LC 87/1996 ao incluir os royalties de franquia no cômputo do ICMS.
+2. Nesse contexto, a revisão do acórdão recorrido demandaria evidente averiguação de cláusulas contratuais e do contexto fático-probatório dos autos, além do exame do Protocolo ICMS 95/2009 e do RICMS/RS, providências inviáveis em sede de Recurso Especial, a teor das Súmulas 5 e 7/STJ e da Súmula 280/STF.
+3. Agravo Interno do ESTADO DO RIO GRANDE DO SUL a que se nega provimento.
+(AgInt no AREsp 1.593.346/RS, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 26/10/2020, DJe de 12/11/2020)
+Por fim, a alegação da parte de violação dos arts. 458 e 1.022 do CPC nas razões do Recurso Especial foi feita de forma desprovida de fundamentação e absolutamente genérica, pelo que incide, no ponto, o óbice da Súmula 284/STF.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico do STJ, não há prover o Agravo que contra ela se insurge.
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do Recurso, por decisão unânime do Colegiado, como no caso em análise.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
