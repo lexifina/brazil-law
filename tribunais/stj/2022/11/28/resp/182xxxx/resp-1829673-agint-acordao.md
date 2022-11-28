@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva e lavrou este acórdão, nos termos do Art. 101, § 1º do RISTJ.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA COMPLEMENTAR. USIMINAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Não deve ser conhecido do agravo interno cujas razões não impugnam de forma específica os fundamentos adotados na decisão agravada. Art. 1.021, § 1º, do CPC.
+2. AGRAVO NÃO CONHECIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por PREVIDÊNCIA USIMINAS contra decisão que conheceu em parte e negou provimento ao recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Espírito Santo, proferido no curso dos embargos de terceiro opostos contra DORIO ANTONIO GIACOMIN.
+A ementa da decisão agravada foi redigida nos seguintes termos (e-STJ fls. 697):
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA COMPLEMENTAR. USIMINAS. RESPONSABILIDADE PELA COMPLEMENTAÇÃO DE APOSENTADORIA DE EX-EMPREGADOS DA COFAVI. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ALEGADA VIOLAÇÃO DOS ARTS. 18, 19, 32 E 34 DA LC 109/2001. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ALEGAÇÃO DE AFRONTA AO ART. 1.046, § 2º, DO CPC/73. IMPOSSIBILIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. IMPOSSIBILIDADE DE INDICAÇÃO DE DECISÃO MONOCRÁTICA COMO PARADIGMA. AUSÊNCIA DE SIMILITUDE FÁTICA. RECURSO ESPECIAL CONHECIDO EM PARTE E DESPROVIDO.
+Em suas razões (e-STJ fls. 713-726), a agravante manifesta sua concordância com a decisão agravada quanto às alegações de violação dos arts. 489, 490, 492 e 1.022 do CPC e dos arts. 18, 19, 32 e 34 da LC n. 109/21. Alega que a decisão proferida no REsp n. 1.964.067/ES ainda não é definitiva, havendo embargos de declaração pendentes de julgamento. Afirma que, considerando que a decisão proferida naquele recurso foi tomada por apertada maioria, é necessária a reconsideração da decisão agravada, para que se aguarde o trânsito em julgado daquela decisão. Argumenta que, diferentemente do quanto teria sido afirmado na decisão agravada, o exaurimento dos recursos da submassa COFAVI não pode ser considerado fato irrelevante para a caracterização da responsabilidade da Previdência Usiminas, mormente quando não houve a constituição de reserva garantidora. Ressalta que qualquer condenação da entidade fechada de previdência complementar precisa considerar que ela não dispõe de patrimônio próprio, mas que só administra o patrimônio de terceiros. Acrescenta que a imposição cega dos pagamentos implicará a invasão do patrimônio da submassa COSIPA. Sustenta que, conforme entendimento adotado no REsp n. 1.248.975/ES, não é possível comprometer o patrimônio da submassa COSIPA, diante do reconhecimento expresso da ausência de solidariedade. Argumenta, assim, que é necessário permitir que, em um eventual cumprimento de sentença, a Previdência Usiminas faça prova da titularidade dos recursos atualmente existentes, a fim de que a execução não recaia sobre o patrimônio da submassa COSIPA.
+Foram apresentadas as contrarrazões (e-STJ fls. 765-768).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA COMPLEMENTAR. USIMINAS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015.
+1. Não deve ser conhecido do agravo interno cujas razões não impugnam de forma específica os fundamentos adotados na decisão agravada. Art. 1.021, § 1º, do CPC.
+2. AGRAVO NÃO CONHECIDO.
+VOTO
+Eminentes Colegas, não deve ser conhecido o presente agravo interno.
+Inicialmente, cumpre ressaltar que aagravante manifestou sua resignação com relação à decisão agravada no que diz respeito à suposta violação dos arts. 489, 490, 492 e 1.022 do CPC e dos arts. 18, 19, 32 e 34 da LC n. 109/21, tendo consignado que não formularia, quanto a esses pontos, qualquer impugnação.
+No entanto, no que diz respeito às demais questões examinadas na decisão agravada, a agravante acabou por não apresentar impugnação específica.
+Com efeito, a decisão agravada concluiu que o recurso especial não poderia ser conhecido quanto à alegação de afronta ao art. 1.046, § 2º, do CPC/73, uma vez que o recurso especial esbarraria no óbice previsto na Súmula 7/STJ, e tampouco poderia ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto não estaria demonstrado o dissídio jurisprudencial, diante da ausência de similitude fática entre o acórdão recorrido e o julgado apontado como paradigma.
+Com relação a esses pontos, porém, a agravante não formulou absolutamente nenhuma impugnação.
+Limitou-se a afirmar que ainda não houve o trânsito em julgado do REsp n. 1.964.067/ES, julgado que - cumpre ressaltar - foi mencionado na decisão agravada como mero reforço de argumentação, não figurando como fundamento autônomo do decisum.
+Ademais, as razões recursais apresentam-se a tal ponto dissociadas da decisão embargada que, ao afirmarem que se está no bojo de ação de conhecimento e fazerem alusão a eventual cumprimento de sentença, sequer consideram o fato de que o presente recurso especial foi interposto já no curso deembargos de terceiro.
+Portanto, diante da ausência da impugnação específica a que alude o art. 1.021, § 1º, do CPC, não pode ser conhecido o presente agravo interno.
+Nesse sentido:
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DOS ARTS. 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, combinado com o art. 1.021, § 1º, do Código de Processo Civil.
+III - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo interno não conhecido.
+(AgInt nos EAREsp n. 1.711.065/RJ, relatora Ministra Regina Helena Costa, Primeira Seção, julgado em 4/10/2022, DJe de 11/10/2022.) - g.n.
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO AGRAVADA. FUNDAMENTOS. IMPUGNAÇÃO. AUSÊNCIA. ART. 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. AFETAÇÃO. TEMA Nº 1.101/STJ. PEDIDO DE SUSPENSÃO. NÃO CABIMENTO.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, haja vista o disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015. O conteúdo normativo do referido dispositivo legal já estava cristalizado no entendimento jurisprudencial do Superior Tribunal de Justiça na redação da Súmula nº 182/STJ.
+2. Não há falar em sobrestamento do recurso por força de suspensão determinada em decisão de afetação de tema para julgamento sob o rito dos recursos especiais repetitivos quando não ultrapassado o seu conhecimento.
+3. Agravo interno não conhecido.
+(AgInt nos EDcl no AREsp n. 1.867.994/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/9/2022, DJe de 19/9/2022.) - g.n.
+Ante o exposto, não conheço do presente agravo interno.
+É o voto.
