@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Mauro Campbell Marques votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+MINISTRA ASSUSETE MAGALHÃES: Trata-se de Agravo interno interposto contra decisão de minha lavra, que conheceu do Agravo, para não conhecer do Recurso Especial, pela incidência das Súmulas 7/STJ e 280/STF.
+Inconformada, sustenta a parte agravante que:
+"9. Da análise do acórdão recorrido, tem-se que o direito local (Lei Estadual) não foi utilizada como ratio decidendi.
+10. Ao contrário disso, a razão de decidir do acórdão recorrido o não cabimento de ação rescisória, pois não é hipótese contemplada pelo atual art. 966 do CPC.
+11. Por conseguinte, o acórdão invocou que o caso não seria de aplicação do art. 126 da Lei 8.112/90.
+(..)
+13. Portanto, percebe-se que a menção a lei local se deu apenas como reforço argumentativo, o que configura a sua qualidade de obiter dictum e lhe retira a força de ratio decidendi.
+14. Já o Recurso Especial sustenta, justamente, que o caso é hipótese de cabimento de Ação Rescisória, pois é hipótese preconizada no art. 966 do CPC/15, especificamente o seu inciso V.
+15. Veja-se, aqui, que essa tese dispensa totalmente a análise de provas, pois se trata de tese processual, qual seja: o exame de admissibilidade da ação rescisória.
+16. De outro lado, sustenta-se que se trata de caso em que há a ofensa ao art. 126 da Lei 8112/90.
+17. A análise dessa tese dispensa revolvimento em fatos e provas, vez que está consignado no próprio acórdão regional que o Recorrente foi absolvido criminalmente da conduta que justificou a pena de demissão sofrida, pois era atípica".
+Por fim, requer o provimento do recurso.
+Impugnação da parte agravada, pelo improvimento do recurso.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PAD. DEMISSÃO DE POLICIAL MILITAR. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL E EM QUADRO FÁTICO DA CAUSA. REVISÃO. IMPOSSIBILIDADE. SÚMULAS 280/STF E 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+II. Trata-se, na origem, de Ação Rescisória, em que o requerente alega que se encontra ameaçado de ser demitido do Quadro de Oficiais da Administração da PMTO, por força de recurso transitado em julgado.
+III. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento nos elementos fáticos da causa e na interpretação da legislação local. Logo, a revisão do aresto, na via eleita, encontra óbice nas Súmulas 7/STJ e 280 do STF. No mesmo sentido: STJ, AgInt no AREsp 1.945.904/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/03/2022; AgInt no AREsp 1.931.165/TO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 28/03/2022; AgInt no AREsp 1.217.078/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 20/06/2018; REsp 1.635.382/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2016.
+IV. Agravo interno improvido.
+VOTO
+MINISTRA ASSUSETE MAGALHÃES (Relatora): Não obstante os combativos argumentos da parte agravante, as razões deduzidas neste Agravo interno não são aptas a desconstituir os fundamentos da decisão atacada, que merece ser mantida.
+De início, é esta a letra do acórdão recorrido, transcrita no que interessa à espécie:
+"Conforme relatado, a presente ação rescisória visa reformar o acórdão que deu provimento ao reexame necessário na ação anulatória de ato jurídico, para considerar válido o ato de demissão do policial militar, ora Requerente, por não se tratar de caso de exceção à independência das instâncias administrativa, civil e penal a que se refere o art. 126, da Lei nº 8.112/90.
+De tal forma, diferentemente do exposto pelo Requerente, vejo que não houve no julgado recorrido, nenhuma hipótese de violação a literal disposição de lei, eis que, neste, entendeu-se apenas que a inexistência de comprovação de que o policial militar tenha praticado ou participado do crime, não pode ser considerado sob o ponto de vista administrativo diante da circunstância de haver nos autos a constatação, pelo Ministério Público Federal, de que, embora não configurado o crime, praticou atos preparatórios consistente na tentativa de resgatar os criminosos autores do assalto à agência dos Correios da cidade de Rio Sono.
+Nesse sentido, veja-se o registro do Procurador da República a justificar o não oferecimento da denúncia contra o Recorrente:
+Requeiro, ainda, seja determinado o arquivamento do presente inquérito policial em relação aos indiciados João Batista Barbosa e José Orley Pereira Oliveira, posto que não restou comprovado que tenham praticado ou participado de qualquer forma do assalto à agência dos Correios de Rio Sono ou que eles se associaram para praticar crime.
+Vê-se do inquérito policial que eles, de fato, estiveram na região onde ocorrera o assalto da agência dos Correios, tudo levando a crer que eles iam tentar resgatar os acusados Keed Worley Lustosa Oliveira e José Alan Gomes dos Santos, o que configuraria crime tipificado no art. 348 do Código Penal.
+Vislumbra-se dos autos que eles praticaram apenas atos preparatórios, o que não configura crime. Observa-se que eles locaram um veículo e foram até a região do assalto com o intuito de resgatar os acusados..
+A propósito da legalidade, veja-se o que dispõe o Decreto Estadual nº 527/97, ao estabelecer as condutas passíveis da pena de demissão:
+Art. 8º Será submetido a Conselho de Justificação ou de Disciplina o Policial Militar que:
+(..)
+II - tiver sido, oficialmente ou por qualquer meio de comunicação, desde que confirmado, acusado de:
+(..)
+b) ter praticado ato que afete a sua honra pessoal, o pudor policial militar ou o decoro da classe, assim entendido aquele contrário aos princípios éticos estabelecidos na Lei nº 125, de 31 de janeiro de 1990;
+Portanto, diante de tais circunstâncias, tendo sido o ato que se busca anular fundamentado na constatação, pelo Conselho de Disciplina da Polícia Militar do Estado do Tocantins, da intenção do Requerente em apoiar e resgatar os autores do crime de roubo, observada a inexistência de ilegalidade ou vício no processo administrativo, vejo que os fundamentos da petição inicial não se amoldam às hipóteses do art. 966, inciso V do CPC/2015.
+Conforme exposto alhures, a ação rescisória não é meio impugnativo autônomo destinado ao reexame de fatos e normas aplicáveis à espécie. A excepcionalidade busca afastar decisões que, decorrentes de erro manifesto ou por violar a ordem jurídica, podem comprometer a segurança jurídica.
+(..)
+Ora, se a decisão guerreada é justa ou injusta, adequada ou inadequada, boa ou má, todas essas são questões estranhas à rescisória, pois esta não se presta a novo julgamento da causa.
+Com efeito, a não denunciação do Autor não decorreu da inexistência do fato ou da autoria, mas da insuficiência de provas mediante atos que, embora não configurasse crime previsto no Código Penal, foram considerados como preparatórios na perpetração do delito, conduta esta contrária à ética da classe militar" (fls. 167/169e).
+Com efeito, a revisão da conclusão do Tribunal de origem - feita com base na interpretação do direito local - é vedada a este Superior Tribunal de Justiça, em decorrência da aplicação do disposto na Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Outro não é o entendimento desta Corte, conforme se extrai dos seguintes arestos:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. SERVIDOR PÚBLICO. RECONHECIMENTO DE DIREITO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL. SÚMULA 284/STF. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. PRESCRIÇÃO. SÚMULAS 211/STJ, 282 E 356/STF.
+1. Não se pode conhecer do Recurso Especial, fundado no art. 105, III, "a", da CF/88, uma vez que a parte recorrente deixou de indicar precisamente os dispositivos legais que teriam sido violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional. Incide, na espécie, a Súmula 284/STF.
+2. Da forma como ficou definido pelo Tribunal de origem, imprescindível a análise da lei local para o deslinde da controvérsia, providência vedada em Recurso Especial. Desse modo, aplicável à espécie, por analogia, o enunciado da Súmula 280 do Supremo Tribunal Federal.
+3. Tanto a tese relativa à ausência de reconhecimento do débito como a suposta ocorrência da prescrição tampouco ensejam conhecimento, porquanto não houve prequestionamento nas instâncias ordinárias, o que enseja aplicação da Súmula 211/STJ e, por analogia, das súmulas 282 e 356/STF.
+4. Agravo Interno não provido" (STJ, AgInt no AREsp 1.945.904/TO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/03/2022).
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. COMANDO NORMATIVO. INEXISTÊNCIA. LEGISLAÇÃO LOCAL. EXAME. IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA.
+1. Incide o óbice da Súmula 284 do STF, por ausência de comando normativo do artigo de lei federal apontado como violado quando sua indicação não é apta, por si só, para sustentar a tese recursal porque, embora consigne em seu texto comando específico, exigiria a combinação com outros dispositivo legais.
+2. Nos termos da Súmula 280 do STF, é defesa a análise de lei local em sede de recurso especial.
+3. Não enfrentada no julgado impugnado tese respeitante a artigo de lei federal apontado no recurso especial, há falta do prequestionamento, o que faz incidir in casu o óbice da Súmula 211 do STF.
+4. Agravo interno desprovido" (STJ, AgInt no AREsp 1.931.165/TO, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 28/03/2022).
+"PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. ALEGAÇÃO DE QUE A NÃO COMPENSAÇÃO COM OS REAJUSTES JÁ CONCEDIDOS OCASIONA ENRIQUECIMENTO ILÍCITO. CONTROVÉRSIA DIRIMIDA PELO TRIBUNAL DE ORIGEM A PARTIR DE INTERPRETAÇÃO DE LEI LOCAL. ALEGADAS VIOLAÇÕES DE LEIS LOCAIS. SÚM. 280/STF. REEXAME DOS CRITÉRIOS PARA A MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. SÚM. 7/STJ. AGRAVO NÃO PROVIDO.
+1. Examinar lei local é medida inviável nesta sede, a teor de entendimento firmado na Súm. 280 do Supremo Tribunal Federal: "Por ofensa a direito local não cabe recurso extraordinário".
+2. A análise quanto ao critério e base de cálculo dos honorários advocatícios, fixados no acórdão recorrido, demanda reexame do conjunto probatório dos autos, providência vedada nesta Corte Superior, a teor da Súm. 7/STJ.
+3. Agravo interno não provido" (STJ, AgInt no AREsp 1.217.078/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 20/06/2018).
+"PROCESSUAL CIVIL. ART. 142 DO CTN. INAPLICÁVEL AO CASO DOS AUTOS. INEXISTÊNCIA DE RELAÇÃO TRIBUTÁRIA. PENALIDADE POR INFRAÇÃO À LEGISLAÇÃO AMBIENTAL. EMBARGOS À AÇÃO DE EXECUÇÃO FISCAL. AUTO DE INFRAÇÃO E IMPOSIÇÃO DE MULTA POR QUEIMA DE PALHA DE CANA-DE-AÇÚCAR. APLICAÇÃO DA LEI ESTADUAL 997/1976, REGULAMENTADA PELO DECRETO 8.468/1976, COM A REDAÇÃO DO DECRETO 39.551/1994. REDUÇÃO DO VALOR DA MULTA PARA O EQUIVALENTE A 30 UFESPS POR HECTARE, COMO PREVISTO NO ART. 15 DO DECRETO ESTADUAL 47.700/2003. LEGISLAÇÃO LOCAL. INCIDÊNCIA DA SÚMULA 280/STF.
+1. O art. 142 do CTN, tido por supostamente violado, é inaplicável aos autos, pois não se cuida de relação tributária e sim de penalidade por infração à legislação ambiental.
+2. Hipótese em que a Corte de origem decidiu que, "não afastada a presunção de veracidade e legitimidade do ato administrativo de autuação, eis que o auto de infração e imposição de multa foi lavrado de acordo com o prescrito na Lei Estadual nº. 997/76, regulamentada pelo Decreto nº. 8.468/76, com a redação do Decreto nº. 39.551/94 e suas posteriores alterações, e está revestido dos requisitos legais, impondo-se, apenas, a redução do valor da multa para o equivalente a 30 (trinta) UFESP, por hectare queimado, com fulcro no art. 15, do Dec. nº. 47.700/03."
+3. Nota-se que a demanda foi dirimida com base na Lei Estadual 997/1976, regulamentada pelo Decreto 8.468/1976, com a redação do Decreto 39.551/1994 e do Decreto Estadual 47.700/2003. Desse modo, o deslinde do caso passa necessariamente pela análise de legislação local, sendo tal medida vedada em Recurso Especial, conforme o enunciado da Súmula 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+4. Recurso Especial não provido" (STJ, REsp 1.635.382/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2016).
+Demais disso, e ao contrário do que ora se sustenta, depreende-se do acórdão proferido pelo Tribunal de origem a efetiva análise dos autos e provas produzidas, de modo que derruir a conclusão exposta pelo Tribunal local, soberano quanto à análise do material cognitivo do processo, demandaria a incursão no acervo probatório dos autos, providência vedada em sede de recurso especial, a teor da Súmula 7/STJ.
+Consoante a jurisprudência desta Corte, sendo o nosso sistema processual civil orientado pelo princípio do livre convencimento motivado, ao magistrado é permitido formar a sua convicção em qualquer elemento de prova disponível nos autos, bastando para tanto que indique na decisão os motivos que lhe formaram o convencimento, a teor do que dispõe o art. 131 do CPC/73: "O juiz apreciará livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos, ainda que não alegados pelas partes; mas deverá indicar, na sentença, os motivos que lhe formaram o convencimento".
+A propósito:
+"PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO DEMONSTRADA. PEDIDO DE ANTECIPAÇÃO DOS EFEITOS DA TUTELA. INDEFERIMENTO. REEXAME DO PERICULUM IN MORA E DO FUMUS BONI IURIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. IN 17/2011. DISPOSIÇÃO NORMATIVA QUE NÃO SE ENQUADRA NO CONCEITO DE LEI FEDERAL.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que a Corte de origem apreciou todas as questões relevantes ao deslinde da controvérsia de modo integral e adequado, não padecendo o acórdão recorrido de qualquer omissão, contradição ou obscuridade.
+2. Hipótese em que o Tribunal local consignou não estarem preenchidos os pressupostos legais para concessão do pedido de antecipação dos efeitos da tutela.
+3. A jurisprudência deste Tribunal Superior é pacífica no sentido de que é incabível, em Recurso Especial, o exame acerca da presença ou não dos pressupostos autorizadores da concessão da tutela liminar, referentes ao periculum in mora e ao fumus boni iuris. Incide, na espécie, a Súmula 7 do STJ.
+4. Consigne-se, por oportuno, que a jurisprudência do STJ possui o entendimento de que a Ação Rescisória não é o meio adequado para a correção de suposta injustiça da Sentença, apreciação de má interpretação dos fatos ou de reexame de provas produzidas, tampouco para complementá-la.
+5. Não é possível a interposição do Recurso Especial sob a alegação de contrariedade a ato normativo secundário, tais como Resoluções, Portarias, Regimentos, Instruções Normativas e Circulares, bem como a Súmulas dos Tribunais, por não se equipararem ao conceito de lei federal.
+6. Recurso Especial não conhecido" (STJ, REsp 1.722.614/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/04/2018, DJe 23/05/2018).
+Assim, não se divisam, nas razões do Agravo interno, argumentos capazes de desconstituir a decisão agravada, que deve ser mantida, por seus próprios fundamentos.
+Ante o exposto, nego provimento ao Agravo interno.
+É o voto.
