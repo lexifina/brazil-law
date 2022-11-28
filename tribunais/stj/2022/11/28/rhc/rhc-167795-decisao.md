@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto contraacórdão, assim ementado (fl. 60):
+HABEAS CORPUS - HOMICÍDIO - PRISÃO PREVENTIVA - Necessidade de mantença da custódia cautelar - Indícios de materialidade e autoria - Gravidade concreta do delito que denota periculosidade dos agentes, a embasar a necessidade de mantença da prisão preventiva - Fundamentação idônea - Ordem denegada.
+Consta dos autos que os recorrentes forampresos preventivamente pela prática do crime tipificado no art. 121, § 2º, inciso II, IV eVI, do Código Penal.
+No presente recurso, sustentam que a decisão de prisão preventiva não apresenta fundamentação idônea.
+Requerem, liminarmente e no mérito, o provimento do recurso emhabeas corpuspara a revogação da prisão preventiva.
+O Ministério Público Federal manifestou-se pelo NÃO PROVIMENTO do Recurso Ordinário em Habeas Corpus, eis que não configurado constrangimento ilegal suportado pelos Recorrentes, estando a segregação cautelar devidamente fundamentada, e em conformidade com a legislação de regência.
+Como cediço, a prisão preventiva (ou o não cabimento da substituição por outra medida cautelar), admitida excepcionalmente antes do trânsito em julgado de eventual sentença penal condenatória, deverá ser justificada em concreto e de forma individualizada, nos termos do art. 312 do Código de Processo Penal.
+A decisãoque decretou a prisão preventiva do recorrentefoi assim fundamentada(fl. 18-19):
+Acolho, no mais, o requerimento ministerial, para decretar a prisão preventiva dos réus.
+A Lei 12.403/11, que alterou dispositivos do Código de Processo Penal, estipulou que as medidas cautelares penais serão aplicadas com a observância da necessidade de aplicação da lei penal, necessidade para a investigação ou instrução penal e para evitar a prática de infrações, devendo a medida em questão, ainda, ser adequada à gravidade do crime, às circunstâncias do fato e às condições pessoais do acusado (art. 282 do CPP).
+A prisão preventiva será determinada quando as outras cautelares se mostrarem insuficientes ou inadequadas para o caso concreto (art. 282, § 6º, do CPP).
+No caso, estão presentes os requisitos da prisão preventiva, qual seja, o fumus comissi delicti e periculum libertatis. Trata-se, em tese, de delito doloso cuja pena máxima supera os quatro anos e existem provas da materialidade do crime e indícios suficientes de autoria.
+Há nos autos depoimento de testemunha presencial apontando JHONY como sendo um dos autores do crime (fls. 17/21 e 37). Há ainda relatos de testemunhas que noticiam ter visto ALEX ameaçar um dos seguranças do estabelecimento pouco antes dos fatos e ter participado do homicídio do ofendido (fls. 63/66 e 67/69). O avô de JHONY, por sua vez, declarou que após o ocorrido, o réu vendeu o carro e "sumiu" (fls. 34).
+Com efeito, a prisão provisória é de rigor, pois há sérios indícios do envolvimento dos acusados em crime grave que coloca em constante desassossego a sociedade, contribuindo para desestabilizar as relações de convivência social, estando, pois, presente o motivo da garantia da ordem pública, autorizador da decretação da prisão preventiva.
+Ademais, a prova precisa ser preservada, assegurando que as testemunhas presenciais compareçam em Juízo e reproduzamos fatos, livres de interferências.
+Ainda, o comparecimento dos réus em Juízo para reconhecimento apenas pode ser assegurado com a prisão, a qual se faz necessária para garantir a instrução criminal.
+Pelo mesmo motivo, a prisão se faz necessária para garantir o cumprimento da lei penal, caso os acusados venham a ser condenados.
+Importante frisar que a consagração da presunção de inocência prevista no art. 5º, LVII, da Constituição Federal vigente, não importou em revogação das modalidades de prisão de natureza processual. A própria Constituição ressalva expressamente no inciso LXI, do mesmo artigo, a possibilidade de prisão em flagrante ou por ordem escrita de autoridade judiciária competente (nesse sentido: RT 649/275, TJSP-RT 701/316).
+Assim, a prisão cautelar não fere o princípio constitucional da presunção de inocência.
+Portanto, nos termos do art. 282, § 6º, do CPP, DECRETO a PRISÃO PREVENTIVA dos acusados.
+Como se vê, adecisão que decretou aprisão preventiva dos recorrentes evidenciou a gravidade concreta do crime, em vista do modus operandi uma vez que "Há ainda relatos de testemunhas que noticiam ter visto ALEX ameaçar um dos seguranças do estabelecimento pouco antes dos fatos e ter participado do homicídio do ofendido (fls. 63/66 e 67/69).". Além disso, consta também fundamentação concreta evidenciada na fuga do distrito da culpa uma vez que "O avô de JHONY, por sua vez, declarou que após o ocorrido, o réu vendeu o carro e "sumiu" (fls. 34).".
+Nos termos da jurisprudência desta Corte "agravidade concreta dos crimes, evidenciada pelo seumodus operandi, é reveladora do risco dereiteraçãodelitiva, ante a periculosidade do suspeito, que ainda empreendeu fuga do distrito da culpa" (AgRg no RHC n. 161.529/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/5/2022, DJe de 19/5/2022.).
+Além disso, "mostra-se indevida a aplicação de medidas cautelares diversas daprisão,quando a segregação encontra-se fundada na gravidade efetiva do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes" (HC 691.974/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2021, DJe 13/12/2021).
+Desse modo, apresentada fundamentação concreta para a decretação da prisão preventiva, não há que se falar em ilegalidade.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
