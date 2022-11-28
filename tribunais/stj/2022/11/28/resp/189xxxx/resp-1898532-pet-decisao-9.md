@@ -1,0 +1,28 @@
+DECISÃO
+Vistos.
+Fls. 879/1.052e - Trata-se de pedido do SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL - SENAIe do SERVIÇO SOCIAL DA INDÚSTRIA- SESIpara que possam integrar a lidecomo assistentes da Fazenda Nacional, sustentando, em síntese (fls. 884/885e e 888/889e):
+Embora a União Federal possua legitimação para a causa (por ser quem arrecada), não é ela a titular do direito ao crédito proveniente do produto da arrecadação do tributo. Em outras palavras, a União não é a credora das contribuições devidas ao SESI e ao SENAI e, portanto, está defendendo direito alheio na presente demanda.
+Quando não se verifica identidade entre a legitimação para causa e a titularidade do direito afirmado em juízo, há uma hipótese de legitimação extraordinária para agir, da qual é espécie a substituição processual.
+ ..
+Assim, considerando (i) que SESI e SENAI, entidades sem fins lucrativos, mantêm suas atividades de serviço social e de formação profissional por meio da arrecadação das contribuições a eles destinadas e (ii) que as Recorrentes buscam a limitação da base de cálculo dessas contribuições, resta evidente o interesse jurídico do SESI e do SENAI no resultado do julgamento, pressuposto autorizador da assistência ao menos na modalidade simples.
+ ..
+Em outras palavras, as contribuições devidas pelas empresas recorrentes ao SESI e ao SENAI dependem do resultado do julgamento da presente demanda, razão pela qual SESI e SENAI formulam pedido de intervenção na condição de assistentes litisconsorciais da União Federal, na forma do art. 18, parágrafo único, do CPC, ou, subsidiariamente, na condição de assistentes simples, ante o manifesto interesse jurídico.
+Acerca do pleito dos Requerentes, aspartes (Fazenda Nacional e a empresa recorrente) manifestaram-se, respectivamente, às fls. 1.654/1.655e e 1.683/1.709e, anuindo com a postulação.
+Feito breve relato, decido.
+O presente recurso especial foi afetado à sistemática repetitiva a fim de se dirimir questão jurídica assim delimitada: "Definir se o limite de 20 (vinte) salários mínimos é aplicável à apuração da base de cálculo de "contribuições parafiscais arrecadadas por conta de terceiros", nos termos do art. 4º da Lei n. 6.950/1981, com as alterações promovidas em seu texto pelos arts. 1º e 3º do Decreto-Lei n. 2.318/1986".
+A assistência, por sua vez,é uma espécie de intervenção na qual ocorre a inserção de terceiro em processo alheio, ante a comprovação de interesse jurídico e o propósito de colaborar com uma das partes em causa pendente, podendo ser simples ou litisconsorcial (qualificada) a depender do quanto se assemelhe, ou não, a uma espécie de litisconsórcio facultativo ulterior.
+Assim, "pode ser assistente litisconsorcial todo aquele que, desde o início do processo, estaria legitimado a figurar como litisconsorte facultativo-unitário da parte assistida"(Código de Processo Civil Comentado. NERY JÚNIOR, Nelson; NERY, Rosa Maria de Andrade. 20ª ed. São Paulo: Revista dos Tribunais, 2021, p. 470 - destaque do original).
+Simples é a assistência quando o terceiro que ingressa no feito é titular de relação jurídica conexa àquela objeto de discussão.
+Com efeito, nos termos do parágrafo único do art. 119 do CPC/2015, o pedido de ingresso como assistente pode ser requerido e admitido a qualquer tempo, independentemente do grau de jurisdição, recebendo o assistente o processo no estado em que se encontra, verbis:
+Art. 119. Pendendo causa entre 2 (duas) ou mais pessoas, o terceiro juridicamente interessado em que a sentença seja favorável a uma delas poderá intervir no processo para assisti-la.
+Parágrafo único. A assistência será admitida em qualquer procedimento e em todos os graus de jurisdição, recebendo o assistente o processo no estado em que se encontre.
+Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PEDIDO DE INGRESSO NA LIDE COMO TERCEIRO PREJUDICADO. FIGURA PROCESSUAL DA ASSISTÊNCIA LITISCONSORCIAL. ART. 119, PARÁGRAFO ÚNICO, DO CPC/2015. AUSÊNCIA DE INTERESSE PROPRIAMENTE JURÍDICO. INTERESSE ECONÔMICO. DESCABIMENTO. INDEFERIMENTO. EMBARGOS DE DECLARAÇÃO PREJUDICADOS.
+1. A orientação desta Corte Superior é firme no sentido de que a lei processual admite o ingresso de terceiro na condição de assistente simples ou litisconsorcial apenas quando demonstrado seu interesse jurídico na solução da controvérsia. E tal situação se verifica, em concreto, quando existente uma relação jurídica integrada pelo assistente que será diretamente atingida pelo provimento jurisdicional, não bastando o mero interesse econômico, moral ou corporativo.
+2. Nesse particular, a redação do art. 119 do CPC/2015 não alterou, em essência, o regime jurídico processual anterior, até porque continua a exigir que a admissão da assistência simples ou litisconsorcial somente pode ocorrer quanto houver "terceiro juridicamente interessado".
+ ..
+5. Embargos de declaração prejudicados.
+(EDcl nos EDcl no REsp n. 1.338.942/SP, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, julgado em 22/8/2018, DJe de 28/8/2018)
+No caso, vislumbro interesse jurídico do SENAIe do SESIno feito, porquanto poderão sofrer consequências reflexas do provimento jurisdicional do presente processo, revelando-se,assim, a conveniência dojulgamento favorável à Fazenda Nacional, a quem pretendem assistir.
+Posto isso, nos termos dos arts. 119 e 121 do CPC/2015, DEFIRO o pedido de fl. 915e, a fim de admitir o ingresso no feito doSERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL - SENAI e do SERVIÇO SOCIAL DA INDÚSTRIA - SESI na condição deassistente simples da parte recorrida (Fazenda Nacional), com a consequente retificação da autuação.
+Publique-se e intimem-se.
