@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaUnião,com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (e-STJ fls. 146-147):
+PROCESSO CIVIL. IMPUGNAÇÃO AO SALDO COMPLEMENTAR. ACOLHIMENTO. NOVA FIXAÇÃO DEHONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+Em se tratando de prosseguimento da execução em relação a saldo remanescente,é descabida a fixação de honorários pelo acolhimento da impugnação. Não se trata de um novo cumprimento de sentença, e, sim, do prosseguimento de execução de saldo complementar, sendo descabidaa fixação de honorários pelo acolhimento da impugnação.
+Os embargos de declaração interpostos pela Uniãoforam rejeitados(e-STJ fls. 184-185).
+Arecorrente alegaviolação dos arts. 7º e 85, §§ 1º e 7º,do CPC/2015, aoargumento de que é devida a condenação do exequente em honorários advocatícios na hipótese de acolhimento total ou parcial da impugnação.
+Contrarrazões apresentadas (e-STJ fls. 257-261).
+Juízo positivode admissibilidadeàs e-STJ fls. 264-265.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo 3/2016/STJ.
+O recurso não merece prosperar.
+No que diz respeito aos artigos 7º e 85, §§ 1º e 7º, do CPC/2015 (e as teses a eles vinculadas), verifica-se que, a despeito da oposição dos embargos de declaração, não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Incide ao caso a Súmula 211/STJ.
+Cumpre salientar que esta Corte firmou a compreensão de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 10/4/2017), o que não é o caso dos autos.
+Nesse sentido, os precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. HONORÁRIOS SUCUMBENCIAIS. MAJORAÇÃO INDEVIDA. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Será inadmissível o recurso especial quando a questão nele suscitada não for decidida pelo Tribunal de origem por falta de prequestionamento. Aplicação do enunciado 211 da Súmula do STJ.
+2. "Conforme precedentes do Superior Tribunal de Justiça, para se reconhecer o prequestionamento ficto de que trata o art. 1.025 do CPC/2015, na via do especial, impõe-se ao recorrente a indicação de contrariedade ao art. 1.022 do CPC/2015" (AgInt no AREsp 1.521.284/MG, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 19/12/2019).
+3. A divergência jurisprudencial apontada não foi comprovada nos moldes exigidos nos arts. 541, parágrafo único, do Código de Processo Civil de 1973 e 255, § 1º, do Regimento Interno do STJ, uma vez que a parte recorrente não realizou o necessário cotejo analítico entre a fundamentação contida nos precedentes invocados como paradigmas e no arestoimpugnado.
+4. Agravo interno a que se dá parcial provimento, apenas para excluir a condenação da ora agravante ao pagamento dos honorários impostos pela decisão agravada com fundamento no § 11 do art. 85 do CPC. (AgInt no AREsp 1.506.608/SP, Relator Ministro Og Fernandes, Segunda Turma, DJe 19/4/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. APLICABILIDADE. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do Código de Processo Civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do Código de Processo Civil de 2015.
+ ..
+VII - Agravo Interno improvido. (AgInt no REsp 1.682.293/PB, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 10/11/2017)
+Ademais, oTribunal de origem dirimiu a controvérsia sob os seguintes fundamentos (e-STJ fl. 148):
+Em se tratando de prosseguimento da execução em relação a saldo remanescente,é descabida a fixação de honorários pelo acolhimento da impugnação. Não se trata de um novo cumprimento de sentença, e, sim, do prosseguimento de execução de saldo complementar, sendo descabidaa fixação de honorários pelo acolhimento da impugnação.
+Contudo, a parte recorrente, em suas razões do apelo especial, não infirma os fundamentos do voto condutor,incidindo, na espécie, o teor das Súmulas 283 e 284 do STF, ante a ausência de impugnação específica aosfundamentosdoacórdão recorrido, bem como a deficiência na argumentação recursal. A propósito, nesse sentido: AgInt no REsp 1.957.753/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 29/03/2022; e AgInt no AREsp 1.022.059/MG, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 10/05/2019.
+Com o mesmo entendimento, os seguintes precedentes:
+GRATUITA. REITERAÇÃO DE PEDIDO. CONDIÇÃO FINANCEIRA. ALTERAÇÃO. NÃO COMPROVAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. FUNDAMENTOS DO ARESTO COMBATIDO. IMPUGNAÇÃO. AUSÊNCIA.
+1. É firme a jurisprudência do STJ de que a presunção de pobreza para fins de concessão dos benefícios da assistência judiciária gratuita ostenta caráter relativo, sendo possível a exigência da devida comprovação pelo magistrado, sendo que, se a parte reformula o pedido já indeferido pelo Tribunal a quo, necessário se faz comprovar a alteração de sua condição financeira para a obtenção da gratuidade da justiça.
+2. Não se configura ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem aprecia integralmente a controvérsia, apontando as razões de seu convencimento, mesmo que em sentido contrário ao postulado, circunstância que não se confunde com negativa ou ausência de prestação jurisdicional.
+3. A ausência de impugnação específica dos fundamentos do acórdão recorrido atrai a incidência analógica das Súmulas 283 e 284 do STF.
+4. Agravo interno desprovido. (AgInt no REsp 1930142/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, Dje de 17/8/2022)
+PROCESSUAL CIVIL E TRIBUTÁRIO. BOLSA DE VALORES DE SÃO PAULO. DESMUTUALIZAÇÃO. SUBSTITUIÇÃO DE TÍTULOS PATRIMONIAIS DA ASSOCIADA POR AÇÕES DA BOVESPA HOLDING S. A. DEVOLUÇÃO DE PATRIMÔNIO DA ASSOCIAÇÃO. REVISÃO DO CONJUNTO FÁTICOPROBATÓRIO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. VIOLAÇÃO DO ART. 22 DA LEI 9.249/95, 1º E 2º DA LEI 7.689/88 E 43 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. MÉTODO DA EQUIVALÊNCIA PATRIMONIAL. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. AUSÊNCIA DE COMANDO NORMATIVO. SÚMULAS 283 E 284/STF.
+1. Os recursos interpostos com fulcro no CPC/2015, sujeitam-se aos requisitos de admissibilidade nele previstos, conforme diretriz contida no Enunciado Administrativo 3 do Plenário do STJ.
+2. Rever o entendimento do tribunal de origem sobre a natureza e os efeitos da operação de desmutualização em apreço, com objetivo de acolher a pretensão recursal, demandaria necessária reinterpretação de cláusulas contratuais e revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz dos óbices contidos nas Súmulas n. 5 e 7 desta Corte.
+3. A falta de prequestionamento da matéria suscitada no recurso especial impede o seu conhecimento, a teor da Súmula 282/STF.
+4. À luz das Súmulas 283 e 284 do STF, não se conhece do recurso especial que não combate fundamento suficiente para manter o acórdão recorrido, bem como quando aponta violação a artigo de lei que não contém comando normativo apto a ensejar eventual alteração do acórdão.
+5. Agravo interno não provido. (AgInt no AREsp 1.284.727/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, Dje de 8/6/2022)
+Ante o exposto,não conheçodorecurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. SALDO COMPLEMENTAR. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. FALTA DE PREQUESTIONAMENTO DOS DISPOSITIVOS APONTADOS COMO VIOLADOS. SÚMULA 211/STJ. RECURSO NÃOCONHECIDO.
