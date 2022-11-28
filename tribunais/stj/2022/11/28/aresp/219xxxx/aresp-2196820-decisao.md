@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 5/STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 322):
+PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS - AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO E PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS JULGADA IMPROCEDENTE - AUTORQUE NÀO DEMONSTROU A ADESÀO AOPROGRAMA FIES UNIESP, ÔNUS QUE LHECOMPETIA - SENTENÇA MANTIDA - RECURSONÃO PROVIDO
+Os embargos de declaração foram rejeitados (e-STJ fls. 334/336).
+Nas razões do recurso especial (e-STJ fls. 338/349), interposto com base no art. 105, III, "a", da CF, o recorrente apontou violação dos arts. 6º, VIII, da Lei n. 8.078/1990, 373, II, do CPC/2015, 186, 187 e 927 do CC/2002, alegando que, "como detalhadamente descrito na exordial, o (a) Recorrente(a), desejoso de realizar o sonho comum de tantos trabalhadores e trabalhadoras de se formar em uma faculdade, foi atraído pela publicidade da Recorrida". Explicou que, "por meio da Campanha "Você na faculdade: A UNIESP PAGA! Estude nas faculdades do Grupo Educacional UNIESP por meio do FIES e sem fiador!" (anexo fls. 26/27), divulgado pelos mais variados veículos de comunicação, a Recorrida propunha programa onde a instituição garantiria o pagamento do Fundo de Financiamento Estudantil - FIES enquanto os alunos estivessem na chamada "fase de amortização do financiamento", na qual deveriam, como ÚNICA RESPONSABILIDADE, pagar a amortização dos juros, limitados em no máximo R$ 50,00 a cada três meses, como vemos em destaque na peça publicitária (e-STJ fls. 341/342).
+Em suma, são estes os pedidos recursais (e-STJ fl. 349):
+Ex positis, requer dignem-se Vossas Excelências em reformar in totum a respeitabilíssima decisão a quo, conhecendo o presente recurso e dando, em consequência, TOTAL PROVIMENTO ao apelo, garantindo à parte Recorrente seus direitos, com a condenação na obrigação de fazer e danos morais pleiteados, nos termos da exordial, sendo esta medida de inquestionável e verdadeira JUSTIÇA.
+Foram oferecidas contrarrazões (e-STJ fls. 353/355).
+No agravo (e-STJ fls. 361/372), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada (e-STJ fls. 375/386).
+É o relatório.
+Decido.
+Consta nos autos que o Tribunal de origem que "ante a falta de provas aptas a comprovar os fatos narrados pelo Apelante, por força do disposto no artigo 373, inciso I, do Código de Processo Civil, impõe-se a improcedência do pleito"Concluindo que(e-STJ fls. 324/325):
+Como observou a douta magistrada às fls. 274: "Com efeito, no caso concreto, para atribuir à ré a responsabilidade pelo pagamento do financiamento estudantil (FIES), bem como pela concessão de todos os benefícios alegados na inicial, era imprescindível que o autor comprovasse a sua efetiva adesão ao programa denominado "A UNIESP PAGA". Todavia, apesar do disposto nos artigos 320 e 434 do CPC, e das diversas oportunidades conferidas ao longo da instrução processual, o autor deixou de apresentar um único documento capaz de comprar a assunção do pagamento das mensalidades pela instituição de ensino".
+O Contrato de Prestação de Serviços Educacionais apresentado às fls. 48/50 não comprova a adesão ao programa, mas tão somente a contratação dos serviços educacionais oferecidos pela ré no curso de História(fls.55/57).
+A legislação processual estabelece que o Autor temo ônus probatório acerca dos fatos que fundamentam sua pretensão e, nesse contexto, o Apelante não se desincumbiu de comprovar a existência de fato constitutivo do direito invocado.
+Dessa forma, ante a falta de provas aptas a comprovar os fatos narrados pelo Apelante, por força do disposto no artigo 373, inciso I, do Código de Processo Civil, impõe-se a improcedência do pleito.
+Portanto, ante o conjunto probatório apresentado nos autos, a solução adotada em primeira instância mostra-se adequada para o caso emcomento.
+Modificar o entendimento do acórdão impugnadodemandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.Nesse sentido:AgInt no AREsp 1577797/GO, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 17/12/2019, DJe 4/2/2020.
+Ante o exposto, NEGO PROVIMENTO ao agravo. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Estandoo recorrente amparadopela gratuidade da justiça, aplique-se o previsto no art. 98, §§ 2º e 3º, do CPC/2015.
+Publique-se e intimem-se.
