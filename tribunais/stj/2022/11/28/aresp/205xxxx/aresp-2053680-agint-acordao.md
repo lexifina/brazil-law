@@ -1,0 +1,59 @@
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE REVISÃO/CONCESSÃO DE BENEFÍCIO CUMULADO COM DANOS MORAIS. OFENSA AOS ARTS. 292, V, VI, §§ 1º E 2º, 332, 355, 356 E 926 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. VALOR DA CAUSA. ALTERAÇÃO DE OFÍCIO PELO MAGISTRADO. POSSIBILIDADE. INVERSÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Cuida-se, na origem, de Agravo de Instrumento interposto pela ora recorrente da decisão que alterou o valor da causa e determinou a remessa dos autos a Juízo diverso a fim de que a causa tramite nos termos das Leis 9.099/1995 e 10.259/2001.
+2 O Tribunal a quo não se manifestou acerca dos dispositivos infraconstitucionais tidos por violados em seu Recurso Especial, motivo pelo qual, à falta do prequestionamento, não se poderia conhecer do Recurso Especial nesse ponto, sendo aplicável ao caso o princípio estabelecido na Súmula 282/STF. Ressalte-se que nem sequer se opuseram Embargos de Declaração pela parte visando suprir eventual omissão.
+3. O STJ entende ser possível adequar o valor da causa, de ofício, quando constatada discrepância entre o benefício econômico pretendido pelo autor e o montante atribuído à causa.
+4. Além disso, é inviável em Recurso Especial reexaminar as circunstâncias fáticas que levaram o Tribunal a quo a reconhecer a hipótese de excepcionalidade necessária para a alteração de ofício do valor da causa. Aplicação da Súmula 7/STJ.
+5. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Humberto Martins."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão (fls. 105-107, e-STJ) que conheceu do Agravo para não conhecer do Recurso Especial.
+A parte agravante sustenta:
+(..), a Vice-Presidência do Tribunal Regional Federal da 4ª Região não admitiu o recurso especial do autor, sob o entendimento de que "a questão suscitada implica revolvimento do conjunto probatório" incidindo a Sumula 07 do STJ e também que "o acórdão impugnado harmoniza-se com a jurisprudência consolidada no Superior Tribunal de Justiça" incidindo a Sumula 83 do STJ. Tais argumentos não merecem prosperar, motivo pelo qual apresentou agravo.
+Ocorre que, o acórdão ao reconhecer o cabimento da alteração de ofício do valor da causa pelo magistrado, com reflexo na competência para análise do processo, violou os artigos 292, V, VI e §§ 1º e 2º, 332, 355, 356 e 926, todos do CPC e contraria sim a jurisprudência do Tribunal Superior, de modo que a intervenção desta Colenda Corte é de extrema importância no caso concreto, ademais, a decisão emanada pela Vice-Presidência do Tribunal Regional Federal da 4ª Região, não deve prosperar.(fl. 112, e-STJ).
+Defende ser inaplicável ao caso a Súmula 83 do STJ. Argumenta ainda:
+(..), o entendimento adotado por esta Colenda Corte é no sentido de que o valor da causa pode ser estimado em quantia simbólica e provisória, passível de posterior adequação ao valor apurado na sentença ou no procedimento de liquidação e não na fase inicial do processo, portanto, o entendimento aplicado pelo Corte a quo destoa daquele que é utilizado pelo Superior Tribunal de Justiça, motivo pelo qual a decisão merece ser revista.
+Com relação ao óbice do prequestionamento, vale destacar que as teses levantadas em agravo de instrumento foram desde o princípio debatidas pela Corte a quo, não havendo necessidade de embargos de declaração específico para este fim, motivo pelo qual descabe também o argumento de aplicação da Súmula 282 do STF.(fl. 113, e-STJ).
+Pleiteia, ao final, a reconsideração do decisum ou a submissão do feito ao Órgão Colegiado.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE REVISÃO/CONCESSÃO DE BENEFÍCIO CUMULADO COM DANOS MORAIS. OFENSA AOS ARTS. 292, V, VI, §§ 1º E 2º, 332, 355, 356 E 926 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. VALOR DA CAUSA. ALTERAÇÃO DE OFÍCIO PELO MAGISTRADO. POSSIBILIDADE. INVERSÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+1. Cuida-se, na origem, de Agravo de Instrumento interposto pela ora recorrente da decisão que alterou o valor da causa e determinou a remessa dos autos a Juízo diverso a fim de que a causa tramite nos termos das Leis 9.099/1995 e 10.259/2001.
+2 O Tribunal a quo não se manifestou acerca dos dispositivos infraconstitucionais tidos por violados em seu Recurso Especial, motivo pelo qual, à falta do prequestionamento, não se poderia conhecer do Recurso Especial nesse ponto, sendo aplicável ao caso o princípio estabelecido na Súmula 282/STF. Ressalte-se que nem sequer se opuseram Embargos de Declaração pela parte visando suprir eventual omissão.
+3. O STJ entende ser possível adequar o valor da causa, de ofício, quando constatada discrepância entre o benefício econômico pretendido pelo autor e o montante atribuído à causa.
+4. Além disso, é inviável em Recurso Especial reexaminar as circunstâncias fáticas que levaram o Tribunal a quo a reconhecer a hipótese de excepcionalidade necessária para a alteração de ofício do valor da causa. Aplicação da Súmula 7/STJ.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 16 de setembro de 2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Cuida-se, na origem, de Agravo de Instrumento interposto pela ora recorrente da decisão que alterou o valor da causa e determinou a remessa dos autos a Juízo diverso a fim de que a causa tramite nos termos das Leis 9.099/1995 e 10.259/2001.
+Conforme assentado na decisão monocrática, a Corte de origem não emitiu manifestação acerca dos dispositivos infraconstitucionais tidos por violados (arts. 292, V, VI, §§ 1º e 2º, 332, 355, 356 e 926 do CPC), motivo pelo qual, à falta do prequestionamento, não se pode conhecer do Recurso Especial, sendo aplicável ao caso o princípio estabelecido na Súmula 282/STF.
+Ressalte-se que nem sequer foram opostos Embargos de Declaração pela parte visando suprir eventual omissão.
+Registro que, nos termos da reiterada jurisprudência deste Tribunal Superior, para que se tenha por prequestionada determinada matéria, é necessário que a questão tenha sido objeto de debate, à luz da legislação federal indicada, com manifestação da Corte de origem, a qual deverá emitir juízo de valor sobre os dispositivos legais ao decidir pela sua adoção ou seu afastamento em relação a cada caso concreto, o que não se deu na espécie.
+Destaca-se ainda que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, é admissível somente quando, após a oposição de Embargos de Declaração na origem, a parte recorrente apontar violação do art. 1.022 do mesmo diploma, porquanto só dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada in casu.
+Ademais, ainda que se superasse tal óbice, é firme a jurisprudência do STJ no sentido de que há a possibilidade de alteração, de ofício, do valor da causa pelo magistrado ou Tribunal de origem.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. VALOR DA CAUSA. CONTEÚDO ECONÔMICO DA DEMANDA. ALTERAÇÃO EX OFFICIO. POSSIBILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ.
+1. Caso em que o acórdão impugnado consignou que "o valor atribuído à causa, aleatoriamente, desborda dos parâmetros de razoabilidade e proporcionalidade referidos, mostrando-se excessivo" (fl. 53, e-STJ).
+2. O STJ entende ser possível adequar o valor da causa, de ofício, quando constatada discrepância entre o benefício econômico pretendido pelo autor e o montante atribuído à causa.
+3. Além disso, é inviável em Recurso Especial reexaminar as circunstâncias fáticas que levaram o Tribunal a quo a reconhecer a hipótese de excepcionalidade necessária para a alteração de ofício do valor da causa. Aplicação da Súmula 7/STJ. Precedentes do STJ.
+4. Agravo Interno não provido. (AgInt no AREsp 1.891.054/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 17/12/2021)
+PROCESSUAL CIVIL. DIREITO À SAÚDE. VALOR DA CAUSA. ALTERAÇÃO DE OFÍCIO PELO JUIZ. POSSIBILIDADE. INVERSÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE.
+1. O art. 292, §3º, do Código de Processo Civil/2015 autoriza expressamente o magistrado a alterar o valor da causa, de ofício, quando verificar que não corresponde ao conteúdo patrimonial em discussão ou ao proveito econômico perseguido pelo autor.
+2. Nos autos da presente ação ordinária, em que se objetiva compelir o ente público a fornecer o procedimento cirúrgico necessário para o tratamento da enfermidade que acomete a parte autora, o Juiz de primeiro grau corrigiu, de ofício, o valor atribuído à causa e declinou da competência em favor do Juizado Especial da Fazenda Pública.
+3. As instâncias ordinárias entenderam que o valor atribuído à causa é excessivo e não encontra respaldo em nenhum elemento probatório constante nos autos e procederam à correção com base na tabela do Sistema Único de Saúde, "uma vez que a cirurgia é padronizada e muito provavelmente será realizada pela rede pública de saúde".
+4. Considerando a natureza da prestação almejada e a competência absoluta conferida ao Juizados Especiais para processar e julgar as ações de menor complexidade, não há como modificar o julgado, nos moldes pretendidos, por demandar o reexame dos elementos de convicção postos no processo, providência incompatível com a via estreita do recurso especial, a teor da Súmula 7 do STJ.
+5. Agravo interno desprovido (STJ, AgInt no AREsp 1.828.986/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 17/09/2021).
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDANTE.
+1.Não se constata a alegada violação ao artigo 1.022 do CPC/15, porquanto os argumentos expostos pela parte foram apreciados, com fundamentação clara, coerente e suficiente pelo órgão julgador.
+2. Nos termos da jurisprudência desta Corte, é perfeitamente cabível a modificação ex officio do valor atribuído à causa, na hipótese em que o magistrado visualiza manifesta discrepância em comparação com o real valor econômico da demanda. Incidência da Súmula 83 do STJ.
+3.Rever as conclusões do Tribunal de origem com relação à culpa pelo atraso das obras, com a consequente aplicação da multa estipulada no contrato, exigiria o revolvimento de matéria probatória, o que encontra óbice no disposto na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp n. 2.051.469/SP, relator Ministro Marco Buzzi, Quarta Turma, julgado em 22/8/2022, DJe de 26/8/2022.)
+Além disso, é inviável em Recurso Especial reexaminar as circunstâncias fáticas que levaram o Tribunal a quo a reconhecer a hipótese de excepcionalidade necessária para a alteração de ofício do valor da causa. Aplicação da Súmula 7/STJ.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
