@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno interposto por BAIRRO NOVO PORTO VELHO EMPREENDIMENTO IMOBILIÁRIO S/A eODEBRECHT REALIZAÇÕES IMOBILIÁRIAS S/A, contra decisão monocrática de fls. 889/891 (e-STJ), da lavra da Presidência deste Superior Tribunal de Justiça, a qual não conheceu do agravo (art. 1.042, do CPC/15) manejado pelo ora insurgente, por ofensa ao princípio da dialeticidade - Súmula 182/STJ.
+Em suas razões recursais (fls. 894/909, e-STJ), a parterecorrente reafirma as teses deduzidas no apelo nobre, oportunidade em que lança argumentos para desconstituir os fundamentos quem embasaram o decisumrecorrido.
+Impugnação oferecida às fls. 915/926 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA- DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. Aplicação correta da Súmula 182/STJ. Ausência de impugnação específica aos fundamentos da decisão de origem que inadmitiu o processamento do recurso especial. Violação ao princípio da dialeticidade, ensejando a manutenção do provimento hostilizado por seus próprios fundamentos.
+2. Agravo interno desprovido.
+VOTO
+O agravo interno não merece acolhida, porquanto os argumentos tecidos pela recorrente são incapazes de infirmar a decisão impugnada, motivo pelo qual ela merece ser mantida na íntegra, por seus próprios fundamentos.
+1. Efetivamente, nas razões do agravo em recurso especial (fls. 851/866, e-STJ), a parte insurgente não combateu, especificamente, todos os fundamentos utilizados pela Corte de origem para inadmitir o processamento do apelo extremo.
+Em juízo prévio de admissibilidade (fls. 841/844, e-STJ), negou-se seguimento ao recurso especial sob os seguintes fundamentos:
+i)incidência da Súmula 7/STJ à tese relacionada com a ilegitimidade passiva ad causam da Recorrente Oderecht (art. 17, do CPC/15);
+ii)emprego das Súmulas 283 e 284/STF, à alegação de ofensa aos arts. 393, do CC; 12 do CDC - reconhecimento de causa excludente de responsabilidade civil;
+iii)emprego da Súmula 284/STF, quanto a alegada negativa de vigência aos arts. 389 e 482, do CC;
+iv)incidência da Súmula 7/STJ, no tocante aos artigos 186, 402, 403, 884, 927 e 944, do CC, notadamente no que diz respeito ao preenchimento "dos requisitos ensejadores da responsabilidade civil e comprovação dos danos materiais a título de lucros cessantes, bem como a fixação do quantum" indenizatório;
+v)incidência das Súmulas 05 e 07/STJ à argumentação voltada para o reconhecimento de ofensa aos arts. 421, do CC; e 48, § 2º, da Lei n. 4.591/1964, quanto à validade da previsão de conclusão e entrega da obra e quanto à abusividade da cláusula de tolerância de 180 (cento e oitenta) dias, reconhecida pela Corte de origem.
+Em uma análise detida de suas razões de agravo (art. 1.042, do CPC/15), observa-se que o agravante não refutou, especificamente, a incidência da Súmula 7/STJ à tese relacionada com a ilegitimidade passiva ad causam da Recorrente Oderecht (art. 17, do CPC/15).
+Assim, a falta de ataque específico aos fundamentos da decisão agravada atrai, por analogia, o óbice contido no enunciado da Súmula 182 do STJ, verbis:
+"É inviável o agravo do art. 545 do CPC  73  que deixa de atacar especificamente os fundamentos da decisão agravada".
+Com efeito, nos moldes do entendimento firmado por este Tribunal Superior, à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos da decisão de admissibilidade recursal, de maneira a demonstrar que o apelo extremo merece ser apreciado por esta Corte, o que não se vislumbra no recurso em questão.
+Este, a propósito, foi o entendimento adotado pela Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n.º 746.775/ PR, no qual restou afirmado que o recorrente deve impugnar especificamente todos os fundamentos da decisão agravada, sob pena de não conhecimento do agravo por aplicação da Súmula 182 do STJ.
+Pois, conforme já decidiu o STJ, " à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 26/11/2008 - grifos nossos).
+Por fim, apesar do requerimento formulado pela parte adversa em suas contrarrazões recursais (fl. 924, e-STJ),não incidem honorários sucumbenciais recursais na hipótese, pois não há um "acréscimo de sucumbência no grau recursal" ante a interposição do recurso de agravo interno ou embargos de declaração, porquanto gravitam esses reclamos no mesmo nível recursal daqueles que promovem a abertura da instância, motivo pelo qual incabível a majoração estabelecida no art. 85, § 11 do NCPC.
+Neste sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS EM AGRAVO INTERNO. IMPOSSIBILIDADE 1. Trata-se de Embargos de Declaração visando à fixação de novos honorários recursais em virtude do não provimento do Agravo Interno. 2. Conforme a jurisprudência do Superior Tribunal de Justiça, não tem o Agravo Interno caráter de recurso independente/autônomo, visto que não faz a abertura de nova instância recursal, motivo pelo qual não se aplicam os honorários sucumbenciais recursais. 3. Embargos de Declaração rejeitados. (EDcl no AgInt no AREsp n. 1.762.059/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/5/2021, DJe de 1/7/2021.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO RECLAMO - INSURGÊNCIA RECURSAL DA DEMANDADA. (..) 3. Não incidem honorários sucumbenciais recursais na hipótese, pois não há um "acréscimo de sucumbência no grau recursal" ante a interposição do recurso de agravo interno ou embargos de declaração, porquanto gravitam esses reclamos no mesmo nível recursal daqueles que promovem a abertura da instância, motivo pelo qual incabível a majoração estabelecida no art. 85, § 11 do NCPC. 4. Agravo interno desprovido. (AgInt no AREsp n. 1.730.469/PR, relator Ministro Marco Buzzi, Quarta Turma, julgado em 24/5/2021, DJe de 28/5/2021.)
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
