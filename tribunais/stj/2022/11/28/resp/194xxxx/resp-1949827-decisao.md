@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por GENY FERREIRA DA CRUZ, com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo de Instrumento n. 2065652-32.2020.8.26.0000) assim ementado (fl. 268):
+CUMPRIMENTO DE SENTENÇA - DESPEJO POR FALTA DEPAGAMENTO - Insurgência quanto a ordem de penhora mensal sobre os vencimentos da executada na proporção de 20% ao mês até a satisfação do débito - Valor bloqueado diz respeito a rendimento salarial - É inadmissível a penhora de valores percebidos a título de salário - Impenhorabilidade absoluta garantida por força do art. 833, inc. IV do CPC - Decisão reformada - Recurso provido.
+Os embargos de declaração opostos foram rejeitados (fls. 277-279).
+Nas razões do recurso especial, a recorrente alega que há anos tenta receber crédito oriundo de contrato de locatício residencial e que, esgotadas as tentativas de localização de bens, pleiteou a penhora de parte do salário mensal da recorrida, medida deferida pelo Juízo singular. Em sede de agravo de instrumento, a decisão foi reformada fundamento no art. 833, IV, do CPC, ao reconhecer que o rendimento salarial é absolutamente impenhorável.
+A recorrente argumenta que "o artigo 833 do novo CPC, alterou expressamente o artigo 649 do CPC de 1973, no qual constava que os salários eram "absolutamente impenhoráveis"; dessa feita, a partir da nova lei processual houve a supressão da palavra absolutamente que os salários passaram a ser impenhoráveis apenas e, NÃO ABSOLUTAMENTE impenhoráveis como constou na decisão recorrida" (fl. 286).
+Colaciona ementas de julgados dos Tribunais de Justiça dos Estados do Paraná e do Mato Grosso do Sul e do Superior Tribunal de Justiça visando demonstrar divergência jurisprudencial.
+Requer o conhecimento e provimento do recurso.
+As contrarrazões foram apresentadas (fls. 309-316).
+O apelo extremo foi parcialmente admitido (fls. 317-319).
+A recorrente interpôs agravo em recurso especial sustentando os pressupostos de admissibilidade do recurso especial foram atendidos.
+É o relatório. Decido.
+Inicialmente, não conheço do agravo em recurso especial por ausência de interesse recursal, na medida em que, admitido o apelo nobre, a matéria nele arguidaserá objeto de análisepor esta Corte Superior.
+Nesse sentido:AgInt no REsp n. 1.820.060/PB, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 24/10/2022, DJe de 26/10/2022;AgRg no REsp n. 1.577.943/SP, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 6/10/2016, DJe de 21/10/2016;AgRg no Ag n. 1.307.016/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 10/12/2013, DJe de 17/12/2013.
+Recurso especialnão reúne condições de prosperar.
+A alegação genérica sem a individualização precisa e compreensível do dispositivo legal supostamente ofendido, com a específica indicação numérica do artigo de lei, dos parágrafos, incisos, alíneas, assim como a citação de passagem de artigos sem a efetiva demonstração da contrariedade a lei federal, impede o conhecimento do recurso especial, fundado tanto na alínea a quanto na alínea c do permissivo constitucional, por deficiência de fundamentação.
+No caso, a parte recorrente deixou de indicar precisamente os dispositivos de lei tidos por violados, ressaltando que a mera citação de artigo de lei na peça recursal não supre a exigência constitucional.
+Nesse contexto, tem aplicação a Súmula n. 284 do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ressalte-se que é assente neste Tribunal que a não indicação do dispositivo legal tido por violado revela a deficiência de fundamentação, inclusive no tocante a alínea c do permissivo constitucional, o que atrai a aplicação da Súmula n. 284 do STF.
+A propósito, confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E INEXIGIBILIDADE DE PROTESTO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. DISSÍDIO INTERPRETATIVO. FALTA DE INDICAÇÃO DE DISPOSITIVO LEGAL A QUE TERIA SIDO ATRIBUÍDA INTERPRETAÇÃO DIVERGENTE. AUSÊNCIA DE CARACTERIZAÇÃO DO DISSÍDIO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA Nº 284 DO STF. PRECEDENTES. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O dissídio jurisprudencial não foi demonstrado, uma vez que não foi indicado nas razões recursais o dispositivo infraconstitucional tido por violado, exigência essa que deve ser cumprida tanto para o recurso especial interposto com base na alínea a quanto para o manejado com fulcro na alínea c do permissivo constitucional, sendo, portanto, imperiosa a incidência da Súmula nº 284 do STF.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido. (AgInt no AREsp n. 2.101.387/SP, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 15/8/2022, DJe de 17/8/2022.)
+Vejam-se ainda: AgInt no REsp n. 1.969.023/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 19/5/2022; AgInt no REsp n. 1.777.739/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 2/12/2021.
+Ante o exposto, não conheço do recurso especial.
+Nos termos do § 11 do art. 85 do CPC, deixo de majorar os honorários recursais em razão da inexistência de prévia fixação na origem.
+Publique-se. Intimem-se.
