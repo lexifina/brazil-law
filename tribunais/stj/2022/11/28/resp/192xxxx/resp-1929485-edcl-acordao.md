@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Trata-se de embargos de declaração interpostos contra acórdão onde se discutiu a devolução do empréstimo compulsório sobre o consumo de energia elétrica.
+Alega a embargante ELETROBRÁS que houve omissão no que diz respeito à fixação de honorários advocatícios em favor na medida em que, pela correta interpretação do art. 85, §2º, do CPC/2015, faria jus à fixação de verba honorária. Afirma que o pleito do autor não foi totalmente acolhido em primeiro grau, não tendo ocorrido sucumbência mínima. Afirma que o real valor do proveito econômico dos pontos de vitória da Eletrobras somente serão conhecidos quando da liquidação de sentença, daí, portanto , a necessidade de fixar honorários de sucumbência para a ora Agravante com base no impacto econômico. Sustenta tratar-se de hipótese clara de sucumbência recíproca.
+Impugnação apontando a impossibilidade de revisão da verba honorária, sob pena de supressão de instância e existência de sucumbência mínima, não tendo ocorrido omissão.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. SUCUMBÊNCIA MÍNIMA. IMPOSSIBILIDADE DE ALTERAÇÃO DE HONORÁRIOS JÁ FIXADOS PELA CORTE DE ORIGEM. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL.
+1. Esta Corte tem fixado honorários sucumbenciais a favor da ELETROBRÁS nos processos onde se discute a devolução do empréstimo compulsório sobre o consumo de energia elétrica que estão em fase de cumprimento de sentença. Tal ocorre porque no cumprimento de sentença a ELETROBRÁS obtém decisão que lhe é favorável excluindo determinado valor da execução, gerando-lhe formidável proveito econômico.
+2. Salta aos olhos a diferença em relação ao presente caso onde se está ainda diante do processo principal (ação condenatória), de modo que a alteração na forma de cálculo dos valores a serem devolvidos (termo final dos juros remuneratórios) há que ser avaliada dentro de um conjunto maior que envolve todo o pedido feito pelo PARTICULAR contra a ELETROBRÁS e a FAZENDA NACIONAL que foram condenados conjuntamente (pro rata) ao pagamento de honorários fixados em 11% sobre o valor da causa em favor do PARTICULAR.
+3. Desta forma, há sucumbência mínima do PARTICULAR, pois este partiu do zero e obteve condenação em seu favor. Já a ELETROBRÁS é que foi condenada ao pagamento das diferenças na devolução. Incabível a revisão da verba honorária.
+4. Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos declaratórios interpostos que têm o propósito infringente.
+5. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Trata-se de embargos de declaração interpostos contra acórdão que, dando parcial provimento ao recurso especial da embargante, limitou a fluência dos juros remuneratórios na devolução do empréstimo compulsório sobre o consumo de energia elétrica.
+Alega a embargante ELETROBRÁS que houve omissão, posto que se saiu vencedora da demanda, havendo que ser condenada a outra parte em honorários advocatícios e demais ônus sucumbenciais, além da majoração da verba em sede recursal.
+Compulsando os autos, verifico que na sentença assim foi fixada a verba honorária (e-STJ fls. 199):
+Considerando a sucumbência mínima da parte autora, condeno as rés à restituição proporcional das custas ao pagamento pro rata de honorários, os quais arbitro em 10% do valor da causa.
+O acórdão proferido pela Corte de Origem, por sua vez, assim estabeleceu (e-STJ fls. 374):
+Inalterado o resultado da lide, majoro em 10% o montante final dos honorários advocatícios fixado em sentença, por força do §11 do art. 85 do CPC.
+Já no âmbito deste STJ a decisão se deu apenas no sentido de dar parcial provimento ao recurso especial da réELETROBRÁS, exclusivamente para limitar a fluência dos juros remuneratórios, permanecendo assim a sucumbência mínima por parte da autora. De observar que o objeto total da ação são as diferenças de juros e correção monetária na devolução do empréstimo compulsório sobre o consumo de energia elétrica e a ELETROBRÁS saiu-se vencedora tão somente no que diz respeito ao cálculo aplicado na devolução que foi contra si reconhecida e para apenasuma dessas verbas.
+Desta forma, não tem razão a embargante, posto que mantido o equilíbrio sucumbencial em seu desfavor.
+Com efeito, esta Corte tem fixado honorários sucumbenciais a favor da ELETROBRÁS nos processos onde se discute a devolução do empréstimo compulsório sobre o consumo de energia elétrica que estão em fase de cumprimento de sentença. Tal ocorre porque no cumprimento de sentença a ELETROBRÁS obtém decisão que lhe é favorável excluindo determinado valor da execução, gerando-lhe formidável proveito econômico.
+Assim, salta aos olhos a diferença em relação ao presente caso onde se está ainda diante do processo principal (ação condenatória), de modo que a alteração na forma de cálculo dos valores a serem devolvidos (termo final dos juros remuneratórios) há que ser avaliada dentro de um conjunto maior que envolve todo o pedido feito pelo PARTICULAR contra a ELETROBRÁS e a FAZENDA NACIONAL que foram condenados conjuntamente (pro rata) ao pagamento de honorários.
+Desta forma, há sucumbência mínima do PARTICULAR, pois este partiu do zero e obteve condenação em seu favor. Já a ELETROBRÁS é que foi condenada ao pagamento das diferenças na devolução.
+Sendo assim, incabível a revisão da verba honorária que, em seu todo, foi fixada em 11% (onze por cento) sobre o valor da causa a ser paga pro rata entre a ELETROBRÁS e a FAZENDA NACIONAL para o PARTICULAR.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado (CPC/2015, art. 1.022). Em não havendo omissão, impõe-se a sua rejeição.
+Ante o exposto, REJEITO os presentes embargos de declaração.
+É como voto.
