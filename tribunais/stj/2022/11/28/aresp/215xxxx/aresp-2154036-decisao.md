@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude da ausência de violação dos dispositivos legais apontados e da incidência da Súmula n. 7 do STJ (e-STJ fls. 480/482).
+O acórdão recorrido está assim ementado (e-STJ fl. 415):
+Recuperação Judicial - Aditivo ao plano - Pretendida suspensão de pagamentos da quinta parcela semestral por um ano - Primeira decisão recorrida autorizando a coleta de votos digitalizados em caixa de correio eletrônico ("e-mail") mantida pelo Administrador Judicial - Segunda decisão recorrida homologando o aditivo aprovado pelos credores - Carência de fundamentação - Não configuração - Possibilidade dessa forma de coleta de votos - A exigência da modalidade presencial não se coaduna com a realidade atual, marcada pela necessidade de que aglomerações de pessoas sejam evitadas em virtude da pandemia do Covid-19 ("Coronavírus"), tendo a coleta de votos por correio eletrônico ("e-mail") se associado à exigência de operacionalizar a manifestação de vontade dos presentes - Invalidade inexistente - Todos os credores tiveram a oportunidade de se habilitar e os que o fizeram, votaram regularmente, tendo sido colacionado todos os votos aos autos, para a devida publicidade - Suspensão, por um ano, dos pagamentos a partir do vencimento da 5ª parcela prevista no plano de pagamentos original - Aditivo aprovado pela maioria dos credores votantes - Suspensão de um ano a ser contada a partir dos respectivos vencimentos -Prazo de supervisão judicial que não pode ser restabelecido - Inteligência do art. 61, "caput" da Lei 11.101/2005 (alterado pela Lei 14.112/2020) - Correção monetária e juros incidentes na forma prevista no plano antes aprovado - Afastada a parcela do aditivo autorizadora, alternativamente, da suspensão do pagamento da quinta parcela "até que as atividades das recuperandas retornem a níveis registrados nos meses de janeiro e fevereiro/2020" - Invalidade reconhecida - Reforma parcial da segunda decisão recorrida para afastar a alternativa consistente na suspensão dos pagamentos por período de tempo indeterminado - Recurso provido em parte.
+Os embargos de declaração foram rejeitados (e-STJ fls. 462/466).
+No recurso especial (e-STJ fls. 86/104), fundamentado no art. 105, III, "a", da CF, as recorrentesalegaramviolação doart. 1.022 doCPC/2015, por negativa de prestação jurisdicional.
+Aduziram ofensa aoart. 47 da Lei n. 11.101/2005, pois (e-STJ fls. 444/445):
+(..) na hipótese aqui em apreço foi excluir do aditivo ao Plano de Recuperação Judicial a parte que previa que a suspensão dos pagamentos das parcelas ocorreria até que as atividades das recuperandas retornem a níveis registrados nos meses de janeiro e fevereiro/2020, sob o argumento de que tal cláusula autorizaria uma carência indeterminada, o que vai de encontro ao princípio da preservação da empresa previsto no artigo 47 da Lei de Recuperação de Empresas, eis que representa claro desestímulo à atividade econômica:
+(..)
+Data máxima vênia, a exclusão da referida parte do aditivo ao Plano de Recuperação Judicial, somente causará prejuízo imensurável às recuperandas e aos próprios credores, haja vista que não haverá diminuição do valor da parcela, aumento do parcelamento ou imposição de deságio aos credores, notadamente no atual cenário da pandemia que estamos enfrentando, sem perspectivas de abertura integral do comércio, escolas, bares, restaurantes e serviços não essenciais de forma geral.
+Por fim, sustentaram que "a decisão da Assembleia Geral de Credores é soberana, não cabendo ao juiz ir contra a vontade dos próprios credores" (e-STJ fl. 445).
+No agravo (e-STJ fls. 485/497), declaram a presença de todos os requisitos de admissibilidade do especial.
+O Ministério Público Federal manifestou-se, nos seguintes termos (e-STJ fl. 523):
+AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃOJUDICIAL. ACÓRDÃO RECORRIDO QUE RECONHECEUA ILEGALIDADE DE PARCELA DO ADITIVO AO PLANODE RECUPERAÇÃO.
+ARESP QUE NÃO IMPUGNOU OS FUNDAMENTOS DEINADMISSÃO DE FORMA EFICAZ.
+VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. INCIDÊNCIA DA SÚMULA 182/STJ.
+MODIFICAÇÃO DO QUE FORA DECIDIDO PELOTRIBUNAL A QUO QUE ESBARRA NO ÓBICE DASÚMULA 7/STJ.
+PARECER PELO NÃO CONHECIMENTO DO AGRAVO E, CASO CONHECIDO, PELO SEU DESPROVIMENTO.
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunala quopronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Quanto à cláusula de suspensão de pagamento prevista no aditivo, a Corte local decidiu que (e-STJ fls. 434/435):
+Há, no entanto, a necessidade de uma ressalva.
+Conforme destacou o Administrador Judicial o aditivo proposto foi aprovado nos seguintes termos:
+"Restando APROVADO a suspensão por um ano do pagamento da 5ª parcelado Plano de Pagamento, ou até que as atividades das recuperandas retornem a níveis registrados nos meses de janeiro e fevereiro/2020, prorrogando-se por igual prazo as parcelas anuais  sic  subsequentes." (fls. 43)
+Não há como deixar de ser reconhecida a ilegalidade da parcela do aditivo que estabelece, alternativamente, a suspensão dos pagamentos das parcelas "até que as atividades das recuperandas retornem a níveis registrados nos meses de janeiro e fevereiro/2020", pois, essa parcela do aditivo autoriza, em suma, uma nova carência indeterminada (suspensão dos pagamentos por prazo indefinido), em prejuízo dos credores, o que não pode ser admitido.
+A invalidade desta parcela da cláusula realçada, portanto, sem nenhuma dúvida, merece ser reconhecida.
+Para desconstituir a premissa estabelecida noacórdão recorrido, a fim de reconhecer a validade da cláusula por inexistirprejuízo aos credores, seria imprescindível a apreciação do conjunto fático-probatório dos autos, procedimento vedado pela Súmula n. 7 do STJ.
+Em relação à tese de impossibilidade de apreciação do mérito do aditivo por parte do Poder Judiciário, as agravantes não indicaram o dispositivode lei violado, aplicando-se a Súmula n. 284/STF.
+Em face do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
