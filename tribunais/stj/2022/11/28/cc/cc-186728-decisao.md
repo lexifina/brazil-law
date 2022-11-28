@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de conflito positivo de competência tendo como suscitantes MAXIMA VEÍCULOS E PEÇAS LTDA. - EM RECUPERAÇÃO JUDICIAL e DIRCEU CAMPOS - ESPÓLIOe suscitados, o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE VARGINHA - MGe o JUÍZO DE DIREITO DA 28ª VARA CÍVEL DE SÃO PAULO - SP.
+A suscitante informa que obteve o processamento de sua recuperação judicial em 10/08/2017, tendo sido homologado o plano de recuperação judicial, o qual possui cláusula que determina a suspensão "em face dos coobrigados" (e-STJ fl. 7).
+Afirma que, no Juízo da 28ª Vara de São Paulo, foi ajuizada aExecução de Título Judicial n. 1117362-07.2017.8.26.0100, na qual houve a "penhora do imóvel de matrícula n. 56.186 do Cartório de Registro de Imóveis da Comarca de Varginha/MG de propriedade do Sócio Dilson Campos" (e-STJ fl. 7).
+Argumenta que"o Plano prevê expressamente a suspensão das ações contra os devedores coobrigados e a liberação de quaisquer restrições e/ou penhoras que existam, só poderá a ação individual prosseguir em caso de inadimplemento do referido Plano, o que de fato não é o caso" (e-STJ fl. 8).
+Sustenta existirem decisões conflitantes entre os Juízos suscitados, pois na recuperação judicial foi determinada a suspensão das ações e execuções contra os sócios, ao passo que o Juízo da Execução deu prosseguimento aofeito e penhorou bem do sócio.
+Ressalta competir ao juízouniversal avaliar todos os atos que afetem o patrimônio da sociedade empresarial, observandoo princípio da preservação da empresa, razão pela qual deve ser suspensa a execução.
+Requer, liminarmente, a suspensão do feito executivo. No mérito,pedeseja reconhecida a competência absoluta do Juízo da recuperação, inclusive,para deliberar sobre a validade das cláusulas do plano de recuperação.
+A tutela de urgência foideferida (e-STJ fls. 1.338/1.341).
+Foi interposto agravo interno pela parte interessada(e-STJ fls. 1.346/1.398).
+O agravo não foi impugnado pela suscitante.
+Informações (e-STJ fls. 1.402/1.445 e 1.446/1.696).
+Parecer do Ministério Público Federal pela competência do juízo universal(e-STJ fls. 1.760/1.764).
+É o relatório.
+Decido.
+Seguindo orientação desta Corte Superior consolidada na Súmula n. 568/STJ, o relator pode decidir monocraticamente o conflito de competência, quando exista jurisprudência dominante do Tribunal sobre o tema.
+Com efeito, no incidente de conflito apenas será determinado qual o juízo competente para decidir sobre a possibilidade de prosseguir a execução de título extrajudicial contra os sócios da recuperanda.
+Nessa linha, oportuno citar o seguinte julgado:
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CÉDULA DE PRODUTO RURAL. CESSÃO FIDUCIÁRIA. JUÍZO ACERCA DA ESSENCIALIDADE DO BEM PARA A ATIVIDADE EMPRESARIAL.
+1. Há absoluta convergência, entre doutrina e jurisprudência, que, em conformidade com o princípio da preservação da empresa, o juízo de valor acerca da essencialidade ou não de algum bem ao funcionamento da sociedade cumpre ser realizado pelo Juízo da recuperação judicial, que tem acesso a todas as informações sobre a real situação do patrimônio da recuperanda, o que tem o condão, inclusive, de impedir a retirada de bens essenciais, ainda que garantidos por alienação fiduciária, da posse da sociedade em recuperação (art. 49, § 3º, da LRF).
+2. É inviável, na estreita sede do conflito de competência, a deliberação acerca da natureza extraconcursal do crédito, o que é da estrita competência do Juízo da recuperação, a partir daí cabendo, se for o caso, os recursos pertinentes.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da Vara Cível de Sertanópolis/PR.
+(CC 153.473/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 26/06/2018- grifei.)
+Importante transcrever o seguinte excerto do voto vencedor (grifei):
+4. De fato, segundo entendo, não há como definir aqui - nem é esse o ponto principal do conflito de competência - que os bens objeto de alienação fiduciária ou os créditos objeto de cessão fiduciária estejam sujeitos indistintamente aos efeitos da recuperação judicial.
+Na verdade,no âmbito restrito de cognição deste conflito de competência, o que se afirma é tão somente que -consoante a jurisprudência pacífica desta Casa -, o exame sobre a natureza concursal ou extraconcursal do crédito é de competência do Juízo da recuperação,a partir daí cabendo, se for o caso, os recursos pertinentes.
+No caso, foi aprovado o plano de recuperação extrajudicial comcláusula expressa no sentido de afastara possibilidade de cobrança dos créditos dos coobrigados, o que caracteriza o conflito de competência em relação à decisãodo Juízo da Execução, que determinou a penhora dos bens dos sócios.
+O teor das cláusulas é o seguinte (e-STJ fls. 104/105):
+11. EFEITOS DO PLANO DE RECUPERAÇÃO JUDICIAL
+Exceto se previsto de forma diversa neste Plano, os Credores não mais poderão, a partirda homologação do plano de recuperação judicial, (i) exigir o adimplemento, judicial ouextrajudicialmente, relacionado a qualquer Crédito contra a Recuperanda, seus fiadores,avalistas, garantidores e subsidiárias; (ii) expropriar ativos através da execução dequalquer sentença, decisão judicial ou sentença arbitral contra a Recuperanda, seusfiadores, avalistas, garantidores ou coobrigados; (iii) penhorar quaisquer bens daRecuperanda, seus fiadores, avalistas, garantidores e subsidiárias para satisfazer seuCrédito; e (iv) buscar a satisfação do seu Crédito por quaisquer outros meios.
+Todas as execuções judiciais em curso contra a Recuperanda serão extintas e aspenhoras porventura remanescentes serão automaticamente baixadas. As execuçõescontra seus sócios/acionistas, fiadores, avalistas, garantidores e coobrigados, relativas aCrédito abrangido por este Plano, serão suspensas e as penhoras e constriçõesexistentes serão liberadas. Uma vez cumpridas as obrigações assumidas neste Plano, asexecuções serão extintas em definitivo.
+Os sócios/acionistas, fiadores, avalistas, garantidores e coobrigados permanecerãoresponsáveis solidariamente pelas dívidas novadas pelo Plano de Recuperação Judicial,as quais somente poderão ser executadas em caso de inadimplemento do Plano deRecuperação Judicial.
+A aprovação do plano implica na suspensão da exigibilidade dos avais, fianças e demaisgarantias reais ou fidejussórias assumidas pela Recuperanda, seus sócios, avalistas,garantidores e/ou devedores solidários, inclusive imobiliárias e as prestadas no âmbitoda Lei nº 9.514/97, servindo a sentença concessiva da recuperação judicial como ofíciopara informar e suspender os efeitos das averbações e gravames juntos aos respectivose competentes cartórios, com sua extinção após o inadimplemento das obrigaçõesprevistas neste Plano.
+Portanto, constata-se a existência de dois pronunciamentos jurisdicionais conflitantes, devendo ser estabelecida a competência de um deles para decidir sobre a questão controvertida - eficácia da cláusula do plano de recuperação que suprimiu a garantia fidejussória em relação à execução de título extrajudicial apontada pela suscitante.
+Todavia, a análise específica da eficácia da cláusula em relação ao caso concreto deve ser realizada pelo juízo competente, com posterior acessoà via recursal, caso exista irresignação.
+Sobre a competência,existem julgados remetendo ao Juízo da recuperação judicial a análise de atos constritivos praticados contra bens dos sócios que, embora inicialmente estivessem fora do âmbito da recuperação, foram abrangidos por decisão daquele Juízo:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. FALÊNCIA. EFEITOS DA QUEBRA. EXTENSÃO AOS SÓCIOS.ARRECADAÇÃO DE VALORES. COMPETÊNCIA DO JUÍZO UNIVERSAL. SÚMULA 480/STJ. NÃO INCIDÊNCIA AO CASO. AGRAVO INTERNO DESPROVIDO.
+1. O enunciado da Súmula 480/STJ, "o juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa", não se aplica ao caso em estudo, porque há decisão expressa do Juízo da Falência estendendo os efeitos da quebra aos sócios e aos seus bens.
+2. Agravo interno desprovido.
+(AgInt nos EDcl no CC 162.321/RS, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 17/03/2020, DJe 26/03/2020.)
+O mesmo entendimento pode ser aplicado no presente conflito.
+Como a cláusula do plano salvaguardou o patrimônio dos sócios, visando afastar as possíveis interferências de execuções paralelas no processo de recuperação,compete ao Juízo universal avaliar suaeficácia.
+Diante do exposto, CONHEÇO do conflito positivo de competência, a fim de DECLARAR COMPETENTE oJUÍZO DE DIREITO DA 1ª VARA CÍVEL DE VARGINHA - MG (Juízo da Recuperação)paradecidir acercada eficácia da cláusula do plano de recuperação judicial que determinou a suspensão e extinção das execuções contra os sócios, fiadores e coobrigadosem geral em relação ao crédito exigido naExecução de Título Extrajudicial n. 1117362-07.2017.8.26.0100,no Juízo da 28ª Vara de São Paulo - SP.
+Prejudicado o agravo interno (e-STJ fls. 1.346/1.398).
+Publique-se e intimem-se.
