@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interno (e-STJ fls. 188/197) interposto contra decisão do Ministro Presidente desta Corte que não conheceu do agravo em recurso especial.
+Em suas razões, a parte agravante aduz que impugnou todos os fundamentos da decisão de inadmissibilidade do recurso especial, não podendo o agravo ser rejeitado com base na Súmula n. 182/STJ.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+Sem contrarrazões (e-STJ fl.200).
+É o relatório.
+Decido.
+Aparterecorrente atacou todos os fundamentos da decisão que não admitiu o recurso especial, não havendo falar em aplicação da Súmula n. 182/STJ.
+Assim, reconsidero a decisão agravada, proferida pela Presidência do STJ, e passo a novo exame do recurso.
+Na origem, o recurso especial foi inadmitido em virtude da falta de demonstração da ofensa aos artigos indicados e da incidência daSúmulan. 7do STJ(e-STJ fls. 156/157).
+O acórdão recorrido está assim ementado (e-STJ fl. 135):
+AGRAVO DE INSTRUMENTO - ALIENAÇÃO FIDUCIÁRIA - CUMPRIMENTO DE JULGADO - Decisão agravada indeferiu o pedido de desconstituição da penhora efetuada sobre ativos financeiros de titularidade do Executado (valor de R$ 8.741,12) - Pacificado pelo Superior Tribunal de Justiça que a previsão de impenhorabilidade dos valores depositado sem conta poupança, até o limite de quarenta salários mínimos, estende-se às quantias depositadas em aplicações financeiras e conta corrente - Impenhorável o valor constrito - RECURSO DO EXECUTADO PROVIDO, PARA RECONHECER A INVALIDADE DA PENHORA DOS ATIVOS FINANCEIROS DE SUA TITULARIDADE, COM A IMEDIATA LIBERAÇÃO DO VALOR CONSTRITO
+No recurso especial (e-STJ fls. 139/151), fundamentado no art. 105, III, "a", da CF, aparterecorrente aduziu ofensa aos arts. 824 e 833, IV e X, do CPC. Sustentou, em síntese, ser possível a penhora de valores inferiores a 40 (quarenta) salários mínimos decorrentes de aplicações financeiras, visto que a impenhorabilidade legal abrange tão somente as quantias depositadas em conta poupança.
+A insurgência não merece prosperar.
+Sobre o tema em debate, o Tribunal de origem assim se manifestou (e-STJ fls. 136/137):
+Os documentos de 30/33 dos autos do processo originário demonstram que houve o bloqueio de ativos financeiros de titularidade do Executado no valor de R$ 8.741,12 quantia que é inferior a quarenta salários-mínimos.
+Assim, considerando que o valor em execução (débitosrelativos a contrato de alienação fiduciária) não tem natureza de verba alimentar e que não demonstrada a ocorrência de eventual abuso, má-fé ou fraude (ônus que incumbia à Exequente), incabível, para o seu pagamento, a penhora da quantia depositada em conta bancária que não ultrapasse o valor de quarenta salários mínimos.
+Nos termos do entendimento jurisprudencial firmado pelo STJ, a abrangência da regra do art. 833, X, do CPC/2015 se estende a todos os numerários poupados pela parte executada, até o limite de 40 (quarenta) salários mínimos, não importando se depositados em poupança, conta-corrente, fundos de investimento ou guardados em papel-moeda, autorizando as instâncias ordinárias, caso identifiquem abuso do direito, a afastar a garantia da impenhorabilidade.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. NATUREZA DA VERBA CONSTRITA. LIMITE DE IMPENHORABILIDADE DE 40 (QUARENTA) SALÁRIOS MÍNIMOS. DECISÃO MANTIDA.
+1. O STJ possui jurisprudência no sentido de que "reveste-se de impenhorabilidade a quantia de até quarenta salários mínimos poupada, seja ela mantida em papel moeda, conta-corrente ou aplicada em caderneta de poupança propriamente dita, CDB, RDB ou em fundo de investimentos, desde que a única reserva monetária em nome do recorrente, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias do caso concreto (inciso X)" (REsp n. 1.230.060/PR, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 13/8/2014, DJe 29/8/2014).
+2. Nos termos do entendimento jurisprudencial firmado por esta Corte, a abrangência da regra do art. 833, X, do CPC/2015 se estende a todos os numerários poupados pela parte executada, até o limite de 40 (quarenta) salários mínimos, não importando se depositados em poupança, conta-corrente, fundos de investimento ou guardados em papel-moeda, autorizando as instâncias locais, caso identifiquem abuso do direito, a afastar a garantia da impenhorabilidade. Desta forma, estando a decisão recorrida em dissonância com o entendimento jurisprudencial firmado por esta Corte acerca da extensão da regra prevista no art. 833, X, do CPC/2015, deve ser mantida a decisão agravada, que deu provimento ao recurso especial para determinar a impenhorabilidade dos valores depositados na conta-corrente da parte recorrida, até o limite de quarenta salários mínimos.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp n. 1.915.851/MG, de minha relatoria, QUARTA TURMA, julgado em 30/5/2022, DJe de 2/6/2022.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. 1. PENHORA DE SALÁRIO. LIMITE DE IMPENHORABILIDADE DO VALOR CORRESPONDENTE A 40 (QUARENTA) SALÁRIOS MÍNIMOS. VIOLAÇÃO AO ART. 833 DO CPC/2015. NÃO OCORRÊNCIA. 2. AGRAVO INTERNO IMPROVIDO.
+1. A jurisprudência desta Corte Superior entende que é impenhorável a quantia de até 40 (quarenta) salários mínimos poupada, seja ela mantida em papel-moeda, em conta-corrente, aplicada em caderneta de poupança propriamente dita ou em fundo de investimentos, e ressalvado eventual abuso, má-fé ou fraude, a ser verificado caso a caso, de acordo com as circunstâncias da situação concreta em julgamento. Precedente.
+2. Agravo interno improvido.
+(AgInt no REsp n. 1.991.091/DF, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/6/2022, DJe de 23/6/2022.)
+Dessa forma, estando a decisão recorrida em consonância com o entendimento jurisprudencial firmado por esta Corte,incide a Súmula n. 83/STJ, aplicada aos recursos interpostos pelas alíneas "a" e "c" do permissivo constitucional.
+Ante o exposto, reconsidero a decisão da Presidência desta Corte (e-STJ fls. 184/185) para CONHECER do agravo nos próprios autos e negar-lhe provimento.
+Publique-se e intimem-se.
