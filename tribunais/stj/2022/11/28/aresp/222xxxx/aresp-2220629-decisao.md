@@ -1,0 +1,32 @@
+DECISÃO
+A controvérsia foi bem relatada no parecer ministerial(e-STJ fl. 1.087):
+Trata-se de agravo em recurso especial interposto por Valney Cesar Gomes de Amorim, contra decisão do Primeiro Vice-Presidente do Tribunal de Justiça do Estado do Paraná que negou seguimento ao recurso especial, fundamentado no art. 105-III-a da Constituição.
+O ora agravante foi condenado como incurso no art. 121-§2º-I do Código Penal (homicídio qualificado por motivo torpe) à pena de 12 anos de reclusão, em regime inicial fechado.
+Irresignada, a defesa apelou ao Tribunal de Justiça do Estado do Paraná, que negou provimento ao recurso (e-STJ, fls.934/946).
+Contra essa decisão, o ora agravante interpôs recurso especial com fundamento no art. 105-III-tf da Constituição. Nesse, alegou violação aos arts. 59 e 65-III-d, ambos do Código Penal.
+Pediu a exclusão do aumento aplicado à pena-base e a redução da pena abaixo do mínimo legal na segunda fase da dosimetria, devido à confissão.
+O recurso especial foi inadmitido por se entender pela incidência das Súmulas 7/STJ e 83/STJ (fls. 985/988).
+Foi interposto agravo em recurso especial, no qual se afirma que "(  ) os fatos incontroversos sobre os quais se manifestam as instâncias ordinárias são passíveis de conhecimento do Superior Tribunal de Justiça (..)" (e-STJ, fl. 1.055), logo não é necessário revolvimento fático-probatório dos autos. No mais, reafirma o disposto na petição de recurso especial.
+Pede o provimento do recurso especial (e-STJ, fl. 1056) Foram apresentadas contrarrazões (e-STJ, fls. 1064/1067).
+O Ministério Público Federal opinou pelo não conhecimento do agravo ou pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+No caso, o Tribunal de origem manteve a dosimetria da pena fixada pelo Juízo de primeiro grau,nestes termos (e-STJ fls. 942/943, grifei):
+É entendimento do Superior Tribunal de Justiça que a circunstância judicial referente à "culpabilidade" tem relação com o grau de reprovabilidade social do crime: "(..) No tocante à culpabilidade, para fins de individualização da pena, tal vetorial deve ser compreendida como o juízo de reprovabilidade da conduta, ou seja, o menor ou maior grau de censura do comportamento do réu (..)." (STJ - AgRg no HC 670.215/PA, Rei. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/08/2021, DJe 17/08/2021).
+Infere-se dos autos que o d. Magistrado sentenciante, na primeira fase da dosimetria (pena-base), valorou negativamente o vetor culpabilidade, sob o seguinte fundamento:
+"A culpabilidade, para os fins previstos no art. 59 do Código Penal, consiste no juízo de reprovabilidade social que o fato concretamente considerado merece, o que, no presente caso, situa-se acima do padrão ordinário de reprovação inerente ao próprio tipo penal, considerando a extrema crueldade evidenciada em razão de o acusado, mesmo após a vítima tentar fugir do locai em seu veículo, a perseguiu por uma estrada vicinal e, após a alcançar, impediu sua passagem pela estrada, e, no momento em que o ofendido buscou fugir a pé, tanto que seu corpo ficou caído quase que integralmente para fora de seu veículo, o réu lhe deu um tiro na cabeça, causando a morte. Dessa maneira, reconheço esta circunstância como negativa, de modo a recrudescer a pena base em 1/8 (um oitavo) entre o intervalo das penas mínima e máxima cominadas ao delito. " (mov. 298.13, fl. 4).
+ ..
+In casu, a decisão restou devidamente fundamentada no sentido de que o acusado agiu com alta crueldade, uma vez que a vítima tentou fugir no local com seu veículo, porém, mesmo assim o réu foi atrás de Antônio, também de carro, perseguindo-o na estrada rural e impedindo-o de seguir adiante. E após alcançar Antônio ele ainda tentou sair do carro para fugir a pé, ocasião em que Valney o atingiu com tiro na cabeça, causando-lhe a morte.
+Assim, observa-se a idoneidade da motivação apresentada na sentença, ao exercer o juízo de convicção, vez que houve, na primeira fase, a indicação de razões válidas para fixar a pena-base acima do mínimo legal, tendo sido devidamente considerada a circunstância judicial da culpabilidade como desfavorável ao réu.
+E como cediço, as decisões judiciais têm que ser baseadas sempre em fundamentação concreta que, no caso, restou demonstrado, em consonância com as provas carreadas aos autos. Portanto, havendo fundamentação idônea para agravar a pena-base, deve ser mantida a exasperação da reprimenda no tocante a circunstância judicial da culpabilidade.
+Neste recurso, a insurgência diz respeito à negativação da culpabilidade do réu, dos motivos e das circunstânciasdo delito.
+Inicialmente, para avaliação da culpabilidade, "deve-se aferir o maior ou menor índice de reprovabilidade do agente pelo fato criminoso praticado, não só em razão de suas condições pessoais, como também em vista da situação de fato em que ocorreu a indigitada prática delituosa, sempre levando em conta a conduta que era exigível do agente, na situação em que o fato ocorreu" (DELMANTO, Celso et al. Código Penal Comentado. 8. ed. São Paulo: Saraiva, 2010, p. 273).
+Assim, entendo que o aumento pela culpabilidade doréu está devidamente justificado, porquanto a perseguição desenfreada à vítima aliada à crueldade aplicada para ceifá-ladesborda do tipo.
+No mais, o entendimento da Corte de origem está em consonância com a jurisprudência sedimentada nesta Corte Superior de Justiça de que a incidência decircunstânciascomo a confissão espontânea e a menoridade relativanão pode conduzir à redução da pena para aquém do mínimo legal, conforme dispõe a Súmula n. 231 do STJ.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA DA PENA. ATENUANTE. FIXAÇÃO DA PENA EM PATAMAR ABAIXO DO MÍNIMO LEGAL. IMPOSSIBILIDADE. SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Fixada a pena-base no mínimo legalmente previsto, inviável a redução da pena, pelo reconhecimento da confissão espontânea, prevista no art. 65, inc. III, "d", do Código Penal - CP, conforme dispõe a Súmula n. 231 desta Corte.
+2. Não há falar em aplicação do instituto do overruling, porquanto inexiste argumentação capaz de demonstrar a necessidade de superação da jurisprudência consolidada desta Corte Superior.
+3. Agravo regimental desprovido. (AgRg no REsp 1882605/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/8/2020, DJe 31/8/2020, grifei.)
+Ante o exposto, conheço do agravo paranegar provimento ao recurso especial.
+Publique-se. Intimem-se.
