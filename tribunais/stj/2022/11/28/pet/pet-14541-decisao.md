@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de petição de atribuição de efeito suspensivo ao Recurso Especial n. 1.972.377 / MG por meio da qual a requerente alega estarem presentes os requisitos processuais para concessão do citado efeito, conforme os seguintes trechos da citada petição:
+Da simples leitura dos artigos supracitados não resta dúvida de que após o adventoda Lei 11.488/07ficouexpressamente afastada a aplicação da penalidade de inaptidão do CNPJ da pessoa jurídica.
+ ..
+A omissão cometida pelo Tribunal a quo impede até mesmo que o mérito da causa seja objeto de exame em sede de Recurso Especial ou Extraordinário, o que importará na provável devolução dos autos por este c. STJ para que sejam sanadas as omissões e enfrentada a matéria controvertida.
+ ..
+Assim, fica demonstrada a probabilidade de provimento do Recurso Especial interposto no processo em epígrafe.
+ ..
+No presente caso, não há dúvidas de que a produção de efeitos imediatos do acórdão prolatado pelo Tribunal de origem em sede Recurso de Apelação, trará danos irreversíveis à Requerente. É que a inscrição de CNPJ é documento indispensável para qualquer ato relacionado à persecução do objeto social da empresa, de modo que, ausente sua regularidade, a Requerente fica impedida de movimentar suas contas bancárias, contrair obrigações, emitir notas fiscais, adquirir e vender mercadorias, dentre outras coisas que, somadas, nada mais revelam do que o comprometimento da própria existência da Requerente.
+É o relatório. Decido.
+O recurso especial aque se pede efeito suspensivo foi monocraticamente improvido, com fundamento no art. 255, § 4º, I e II, do RISTJ.
+Interposto agravo interno, foi julgado pela Segunda Turma do Superior Tribunal de Justiça conforme a seguinte ementa de acórdão:
+PROCESSUAL CIVIL. TRIBUTÁRIO. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS/IPI. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. NÃO HÁ VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO FOI DEMONSTRADO O DISSÍDIO JURISPRUDENCIAL.
+I - Na origem, trata-se de ação declaratória objetivando a declaração de nulidade da decisão administrativa de inaptidão e cancelamento do CNPJ. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - O dissídio jurisprudencial viabilizador do recurso especial pela alínea c do permissivo constitucional não foi demonstrado nos moldes legais, pois, além da ausência do cotejo analítico e de não ter apontado qual dispositivo legal recebeu tratamento diverso na jurisprudência pátria, não ficou evidenciada a similitude fática e jurídica entre os casos colacionados que teriam recebido interpretação divergente pela jurisprudência pátria.
+IV - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+V - Agravo interno improvido.
+Os embargos de declaração posteriormente opostos foram acolhidos para sanar omissão do acórdão, sem efeitos infringentes, contudo.
+Nessa linha de argumentação, além de não estar presente a probabilidade de provimento do recurso, nos termos das decisões proferidas, o julgamento definitivo doespecial torna prejudicada a análise do pleito veiculado nestes autos.
+Ante o exposto, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado o pedido de efeito suspensivo formulado nestes autos.
+Publique-se. Intimem-se.
