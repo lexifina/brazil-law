@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interno interposto por Centrais Elétricas de Rondônia S.A. (Ceron) contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 257):
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL.ELETRIFICAÇÃO RURAL. RESSARCIMENTO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravantepretendea reforma da decisão agravada.Para tanto, sustenta a inaplicabilidade das Súmulas 282 e 356/STF, tendo em vista a ocorrência de prequestionamento implícito dos arts. 7º, 9º, 10, 350, 355, I, e 369 do CPC/2015; e31, IV, da Lei n. 8.987/1995.
+Pleiteia ainda o afastamento da Súmula 7/STJ, em relação àalegação de cerceamento de defesa, na medida em queseu recurso especial não pretende rediscutir fatos e provas, mas contrariedade das normas infraconstitucionais, a fim de ensejar a revaloração dos fatos incontroversos nos autos.
+A impugnação não foi apresentada, conforme certidão de fl. 271 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNONO AGRAVO EM RECURSO ESPECIAL.AÇÃO DE COBRANÇA DE INDENIZAÇÃO POR DANO MATERIAL.INCORPORAÇÃO. ELETRIFICAÇÃO RURAL. RESSARCIMENTO. 1.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 2. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME. SÚMULA 7/STJ. 3. AGRAVO INTERNO DESPROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial -Súmulas n. 282 e 356/STF. Também não é o caso de se considerar a ocorrência do prequestionamentoimplícito.
+2. Sendo o juiz o destinatário da prova, cabe a ele decidir sobre sua imprescindibilidade, ou negar aquelas diligências que são inúteis ou protelatórias, de modo que o indeferimento do pedido deprodução de provas apresentado pela parte não configura o cerceamento de defesa. Incidência da Súmula n. 83/STJ.
+2.1. Ademais, adesconstituição do entendimento do acórdão estadual recorrido (acerca da inexistência de cerceamento de defesa diante da suficiência de provas) é procedimento vedado na via eleita do recurso especial, por exigir o reexame de fatos e provas, em virtude do óbice contido na Súmula 7/STJ.
+3. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento.
+Com efeito, em que pese às alegações deduzidas pela agravante, conforme devidamente esclarecido na decisão de fls. 257-260 (e-STJ),no que diz respeito à alegada afronta aos arts. 7º, 9º, 10, 350, 355, I, 369 do Código de Processo Civil de 2015 e ao art. 31, IV, da Lei n. 8.987/1995, verifica-se não terem sido eles objeto de exame pela instância ordinária, tampouco foram opostos embargos de declaração quanto a esse ponto.
+Para que se atenda ao requisito do prequestionamento, é necessária a efetiva discussão do tema pelo Tribunal de origem, ainda que em embargos de declaração, o que, na espécie, não ocorreu. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+Ressalte-se que o entendimento jurisprudencial desta Corte Superior é de que se têm como prequestionados os dispositivos legais de forma implícita, ou seja, ainda que não referidos diretamente, quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida.
+Nesse sentido:
+ADMINISTRATIVO. CONSUMIDOR. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DO ART. 2º DA LEI N. 9.427/1996. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 282/STF. PREQUESTIONAMENTO IMPLÍCITO NÃO CARACTERIZADO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO. PREJUDICIALIDADE. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - É entendimento pacífico desta Corte que a ausência de enfrentamento da questão objeto da controvérsia pelo tribunal a quo impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 282 do Supremo Tribunal Federal.
+III - Para a configuração do prequestionamento não basta que a parte indique os dispositivos tidos por violados e fundamente a insurgência, sendo indispensável que o tribunal a quo se manifeste expressamente sobre a tese defendida no recurso especial, ainda que se trate de questão de ordem pública.
+IV - O prequestionamento implícito caracteriza-se pela manifestação expressa do tribunal de origem sobre a tese trazida no recurso especial, a despeito da não indicação explícita dos dispositivos legais em que se fundou a decisão recorrida. Hipótese ausente no caso em análise.
+V - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI - Consoante a orientação desta Corte, ocorre a carência superveniente de interesse processual, do pedido de atribuição de efeito suspensivo, quando julgado o recurso no qual aquele foi formulado.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido e prejudicado o pedido de efeito suspensivo.(AgInt no AREsp n. 2.082.856/GO, relatora Ministra REGINA HELENA COSTA, Primeira Turma, julgado em 3/10/2022, DJe de 5/10/2022 - sem grifo no original)
+Além disso, observa-se que o agravo de instrumento manejado peloora agravado foi desprovido na origem, com base nos seguintes fundamentos (e-STJ, fls.153-154 - sem grifos no original):
+- Preliminar Cerceamento de Defesa
+Defende a apelante a ocorrência de cerceamento defesa, pleiteando a nulidade da sentença, diante da necessidade de produção de prova pericial.
+Conquanto a requerida tenha defendido a imprescindibilidade da prova pericial, verifica-se que ficou demonstrada nos autos a construção da rede de eletrificação rural, a instalação de medidores de energia, bem como queatualmente a localidade está sendo atendida com o fornecimento da luz elétrica, não havendo nenhum elemento capaz de elidir a necessidade da rede ser periciada por técnico especialista.
+Ressalte-se que, da leitura da sentença, vê-se que o juízo a quo analisou todas as questões fáticas e jurídicas trazidas à tona pelas partes.
+É consabido que o juiz é o destinatário da prova, a qual é produzida em benefício de seu convencimento, assim, pode indeferir as provas que entender desnecessárias à instrução do processo, as diligências inúteis ou as meramente protelatórias, nos termos do art. 370 do CPC, sendo-lhe permitido formar a sua convicção em qualquer elemento de prova disponível nos autos, bastando, para tanto, que indique na decisão os motivos que lhe formaram o convencimento (CPC, art. 371).
+Assim, no caso dos autos não há que se falar em decisão surpresa em razão do julgamento antecipado da lide ou mesmo em cerceamento defesa, pois há nos autos elementos suficientes ao deslinde da controvérsia.
+O cerceamento de defesa somente ocorre quando há uma limitação na produção de provas de uma das partes no processo, que acaba por prejudicar a parte em relação ao seu objetivo processual, fato não observado no caso em apreço, pois há elementos suficientes para comprovar a construção da rede.
+Ademais, em contestação não há pedido de produção de prova pericial.
+Cabe assinalar que, segundo oentendimento do Superior Tribunal de Justiça, o juizmotivadamentepode indeferir o pedido de prova pericial quando vislumbrar sua desnecessidade para a solução da controvérsia, sem que isso configure cerceamento de defesa.
+Ademais, é inafastável o óbice da Súmula 7/STJ. Isso porque para reverter a conclusão do colegiado originárioe, assim, acolher a pretensão recursal, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado em virtude da natureza excepcional da via eleita, não sendo caso de revaloração probatória.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. PROVAS.INDEFERIMENTO. PRINCÍPIO DA PERSUASÃO RACIONAL DO JUIZ.REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. INCÊNDIO EM TERMINAL DE ADMINISTRAÇÃO. DANOS MORAIS. INEXISTÊNCIA.SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O recurso especial que indica violação do artigo 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+3. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso especial (Súmula nº 211/STJ).
+4. A legislação processual civil vigente manteve o princípio da persuasão racional do juiz (artigos 370 e 371), o qual preceitua que cabe ao magistrado dirigir a instrução probatória por meio da livre análise das provas e da rejeição da produção daquelas que se mostrarem protelatórias.
+5. Na hipótese, rever o entendimento firmado pelas instâncias ordinárias, para acolher a existência de cerceamento de defesa pelo indeferimento da realização da perícia, demandaria a análise de fatos e provas dos autos, procedimento inadmissível em recurso especial, a teor do disposto na Súmula nº 7/STJ.
+6. No caso, o reexame do entendimento firmado pelas instâncias ordinárias, de que o incêndio ocorrido no terminal de administração da ora recorrida não gerou os danos morais alegados pela recorrente, demandaria a análise de circunstâncias fático-probatórias dos autos, o que obstado em recurso especial pela Súmula nº 7/STJ.
+7. Agravo interno não provido.(AgInt no AREsp n. 1.704.662/SP, relator Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 30/8/2021, DJe de 3/9/2021 - sem grifo no original)
+Desse modo, as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado.
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC/2015.
+É como voto.
