@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar, suscitado por CAMARGO SEGURANÇA PRIVADA EIRELI- MASSA FALIDAem face do JUÍZO DE DIREITO DA VARA EMPRESARIAL, RECUPERAÇÃO DE EMPRESAS E FALÊNCIAS DE PORTO ALEGRE - RS e do JUÍZO DA 11ª VARA DO TRABALHO DE PORTO ALEGRE- RS.
+Ação em trâmite no Juízo Cível: falênciada suscitante.
+Ação em trâmite na Justiça do Trabalho: reclamatóriatrabalhista n. 0020036-62.2021.5.04.0011, movida por ALEXANDRE AMARAL SILVEIRA.
+Conflito de competência: alega, em síntese, que, nos termos da jurisprudência do STJ, o juízo onde tramita o processo falimentar é o único competente para dirimir questões que afetem o patrimônio da sociedade empresária devedora, sob pena de violação do princípio da preservação da empresa.
+Tutela antecipada: deferida às fls. 51/52, e-STJ.
+Parecer do MPF: opinou pela declaração da competência do juízo falimentar.
+RELATADO O PROCESSO, DECIDE-SE.
+Depreende-se dos autos que o processo de falência da empresa CAMARGO SEGURANÇA PRIVADA EIRELI - MASSA FALIDA está em regular andamento perante o Juízo de Direito da VaraEmpresarial, Recuperação de Empresas e Falências de Porto Alegre/RS.
+Como é sabido, consoante a jurisprudência desta Corte, tanto após o deferimento do pedido de recuperação judicial quanto após a decretação da quebra, o destino do patrimônio da sociedade não pode, em regra, ser afetado por decisões prolatadas por juízo diverso doque é competente para a recuperação ou falência. Nesse sentido: CC 79170/SP, Primeira Seção, DJe 19/09/2008; e CC 106.768/RJ, Segunda Seção, DJe 02/10/2009.
+Esta Corte Superior também assinala que é"da competência precípua do Juízo singular apenas a apreciação e julgamento das ações versando sobre apuração de créditos requeridos em face de empresas falidas ou em recuperação judicial, mas que, ultrapassada essa fase, os valores, ainda que relativos a anteriores depósitos recursais ou penhoras, deverão ser habilitados, conquanto de forma retardatária, no Juízo da falência ou da recuperação judicial para posterior pagamento" (AgInt nos EDcl no CC 165.079/SP, DJe 08/05/2020).
+Dessa forma, o Juízo perante o qual tramita o processo de falênciada empresa devedora é o competente para o exame de quaisquer atos que impliquem em constrição ou expropriação patrimonial da massa, sendo certo que os valores eventualmente constritos pelo Juízo Laboral devem ser colocados à disposição do Juízo Universal, a quem competirá analisar eventual pedido de levantamento.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do JUÍZO DE DIREITO DA VARAEMPRESARIAL, RECUPERAÇÃO DE EMPRESAS E FALÊNCIAS DE PORTO ALEGRE - RS,para a realização de qualquer ato processual que implique em constrição do patrimônioda empresa suscitante, no autos daReclamação Trabalhista n. 0020036-62.2021.5.04.0011, movida por Alexandre Amaral Silveira, em trâmite no Juízo da 11ª Vara do Trabalho de Porto Alegre/RS.
+Publique-se. Intimem-se. Comunique-se aos juízos suscitados.
+EMENTA
+CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E FALÊNCIA. COMPETÊNCIA DO JUÍZO FALIMENTARPARA A PRÁTICA DE ATOS EXECUTÓRIOS OU CONSTRITIVOS.
+1. Nos termos da jurisprudência consolidada desta Corte,tanto após o deferimento do pedido de recuperação judicial quanto após a decretação da quebra, o destino do patrimônio da sociedade não pode, em regra, ser afetado por decisões prolatadas por juízo diverso do que é competente para a recuperação ou falência.
+2. Conflito conhecido. Estabelecida a competência do JUÍZO DE DIREITO DA VARAEMPRESARIAL, RECUPERAÇÃO DE EMPRESAS E FALÊNCIAS DE PORTO ALEGRE/RS.
