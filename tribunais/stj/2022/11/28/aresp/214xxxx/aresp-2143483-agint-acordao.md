@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): Trata-se de agravo de decisão da Presidência do STJ que não conheceu do agravo em recurso especial, por óbice da Súmula n. 182/STJ, uma vez não impugnada a incidência das Súmulas n. 284/STF e 7/STJ, utilizadas como fundamento na decisão de inadmissibilidade proferida pelo Tribunal de origem.
+Em suas razões de agravo interno, o agravante reitera as razões do recurso especial, asseverando (e-STJ, fls. 18/19):
+Percebe-se nitidamente que é uma decisão genérica, sem fundamento, onde esta relatoria simplesmente se limitouà indicar e à reproduzir ato normativo, sem explicar sua relação com a causa ou a questão decidida;empregando conceitos jurídicos superados como é o caso do art. art. 514, II, c/c o art. 505 do CPC/1973,inclusive não é explicadoo motivo concreto de sua incidência no caso concreto;invocando preceitos que se prestariam a justificar qualquer outra decisão;não enfrentando todos os argumentos deduzidos pelos agravantes no processo,capaz em tese, infirmar a decisão adotada por este julgador, para negar provimento ao Agravo em Recurso Especial.
+Cabe ressaltar que a decisão desta relatoria é totalmente genérica, configurando o previsto pelos art. 489, incisos I á VI, e art. 11 do CPC, o que invalida a decisão, uma vez que esta sequer suscitou o motivo pelo qual nega vigência a redação dada pela Lei Federal nº. 13.682, de 19 de junho de 2018, que alterou o Art. 9º O § 1º do art. 5º-Ada Lei nº 10.260, de 12 de julho de 2001, e § 12 do art. 5ºC. E que o Recurso Especial não preenche os requisitos da alínea "a" ou alínea "c", do inc. III, do art. 105, da Constituição Federal.
+Ressalte-se ainda que toda decisão judicial deve ser interpretada a partir da conjugação de todos os seus elementos,e em conformidade com o princípio da boa-fé e nos limites da função social.
+Requer, ao final, a reconsideração da decisão agravada ou a apreciação do agravo interno pelo órgão colegiado.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. AGRAVO INTERNO NÃO CONHECIDO.
+1. A falta de impugnação específica aos fundamentos da decisão agravada inviabiliza o conhecimento do agravo interno, nos termos do art. 1021, § 1º, do CPC/2015.
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO MAURO CAMPBELL MARQUES (Relator): O agravo interno não merece prosperar.
+A decisão agravada não conheceu do agravo em recurso especial, por óbice da Súmula n. 182/STJ, por inexistência de impugnação às Súmula n. 284/STF e 7/STJ, fundamentos da decisão de inadmissibilidade proferida pelo Tribunal de origem
+No agravo interno, no entanto, o agravante limitou-se a reiterar as razões do recurso especial e a afirmar estar devidamente fundamentado a insurgência recursal, deixando de demonstrar ter havido a específica impugnação ao óbice das Súmulas n. 284/STF e 7/STJ, nas razões do mencionado recurso.
+Assim, inadmissível o presente recurso, uma vez não impugnado o fundamento
+central da decisão agravada. No mesmo sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. DUPLO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO VINCULAÇÃO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA E DOS ARTIGOS 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO CONHECIDO.
+1. "O recurso especial sofre um duplo juízo de admissibilidade, não estando vinculado ao juízo de admissibilidade do Tribunal de origem" (AgRg no AREsp 395.588/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/11/2013, DJe 21/11/2013).
+2. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade. Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação do artigos 932, III, e 1.021, § 1º, do estatuto processual civil de 2015. Precedentes.
+3. Agravo interno não conhecido. (AgInt nos EDcl no REsp 1810291/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/06/2020, DJe
+03/08/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO O AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. AGRAVO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não infirmou as razões da decisão agravada, pois não refutou, de forma devida, a aplicação das Súmulas nºs 284 do STF e 7 do STJ, que levou ao não conhecimento do agravo anteriormente manejado contra o não seguimento do especial articulado. Inobservância do art. 1.021, § 1º, do NCPC e aplicação da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.(AgInt nos EDcl no AREsp 1646853/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/06/2020, DJe 24/06/2020)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
