@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Impedida a Sra. Ministra Nancy Andrighi.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se  de  agravo  interno  interposto  por  MÁRIO  DE  PINHO  COSTA  e  OUTRA  contra  a  decisão  (e-STJ  fls.  1609/1612)  que  conheceu  do  agravo  para  conhecer  parcialmente  do  recurso  especial  e,  nessa  extensão,  negar-lhe  provimento.
+Naquela  oportunidade,  concluiu-se  que  ausente  (i)  a  negativa  de  prestação  jurisdicional  e  o  prequestionamento  do  dispositivo  apontado  como  violado  no  recurso  especial e  (ii)  impossibilidade  de  reexame  de  matéria  de  prova  em  recurso  especial.
+Nas  presentes  razões  (e-STJ  fls.  1615/1662),  os  agravantes  insistem  na  tese  de  que  há  negativa  de  prestação  jurisdicional  e  que  a  matéria  foi  prequestionada.
+Ao  final,  aduzem  que  não  estão  reivindicando  a  reapreciação  do  conjunto  fático-probatório,  mas,  sim,  a  revaloração  jurídica  dos  fundamentos  do  aresto  na  interpretação  do  contexto  fático-jurídico  aferível  com  a  leitura  das  peças  processuais.
+É  o  relatório.
+EMENTA
+AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  PROCESSUAL  CIVIL.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  NÃO  CONFIGURAÇÃO.  JUROS.  PREQUESTIONAMENTO.  AUSÊNCIA.  SÚMULA  Nº  282/STF.  NULIDADE.  VÍCIO  INSANÁVEL.  AUSÊNCIA.  REEXAME  DE  PROVAS.  SÚMULA  Nº  7/STJ.
+1.  Recurso  especial  interposto  contra  acórdão  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+2.  Não  há  falar  em  negativa  de  prestação  jurisdicional,  tampouco  em  fundamentação  deficiente,  se  o  tribunal  de  origem  motiva  adequadamente  sua  decisão,  solucionando  a  controvérsia  com  a  aplicação  do  direito  que  entende  cabível  à  hipótese,  apenas  não  no  sentido  pretendido  pela  parte.
+3.  A  ausência  de  prequestionamento  da  matéria  suscitada  no  recurso  especial,  a  despeito  da  oposição  de  declaratórios,  impede  o  conhecimento  do  recurso  especial  (Súmula  nº  282/STF).
+4.  Na  hipótese,  a  modificação  do  entendimento  adotado  pelo  órgão  colegiado  implicaria  na  análise  de  fatos  e  provas,  procedimento  inviável  em  recurso  especial  em  virtude  da  incidência  da  Súmula  nº  7/STJ.
+5.  Agravo  interno  não  provido.
+VOTO
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  na  vigência  do  Código  de  Processo  Civil  de  2015  (Enunciados  Administrativos  nºs  2  e  3/STJ).
+A  irresignação  não  merece  prosperar.
+Verifica-se  que  inviável  o  acolhimento  da  tese  recursal  relativa  à  suposta  violação  do  art.  1.022  do  CPC/2015.
+De  fato,  extrai-se  dos  autos  que  o  t  ribunal  de  origem  agiu  corretamente  ao  rejeitar  os  declaratórios  opostos  pelo  recorrente,  ora  agravante,  não  subsistindo  nenhuma  omissão,  contradição  ou  obscuridade  no  acórdão  embargado,  ficando  patentes,  em  verdade,  o  propósito  infringente  dos  aclaratórios  e  a  pretensão  do  embargante  de  obter  do  colegiado  julgador  pronunciamento  acerca  de  manifestação  explícita  a  respeito  de  temas  que  já  haviam  sido  suficientemente  abordados  pela  Corte  local.
+Como  consabido,  a  estreita  via  dos  aclaratórios  não  se  presta  à  reforma  do  julgado  impugnado.
+Ademais,  ressalta-se  que  o  órgão  julgador  não  está  obrigado  a  se  pronunciar  a  respeito  de  todo  e  qualquer  ponto  suscitado  pelas  partes,  mas,  somente  acerca  daqueles  considerados  suficientes  para  fundamentar  sua  decisão.
+A  motivação  contrária  ao  interesse  da  parte  ou  mesmo  omissa  quanto  aos  pontos  considerados  irrelevantes  pelo  julgador  não  autoriza  o  acolhimento  dos  embargos  de  declaração.
+Dessa  maneira,  não  configurada  a  aludida  negativa  de  prestação  jurisdicional.
+Tampouco  merece  guarida  a  pretensão  recursal  no  que  diz  respeito  ao  art.  240  do  Código  de  Processo  Civil de 2015,  apontado  como  malferido,  pois  o  conteúdo  normativo  do referido  dispositivo  legal  não  foi  objeto  de  apreciação  específica  pelo  tribunal  local  no  acórdão  recorrido,  apesar  da  oposição  de  aclaratórios,  não  havendo  falar  no  implícito  prequestionamento  das  questões  federais  por  eles  disciplinadas.
+Desatendido,  portanto,  o  requisito  do  prequestionamento,  nos  termos  das  Súmulas  nº  211/STJ  e  nº  282/STF.
+Nesse  sentido:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE  REJEITADA.  1.  AUSÊNCIA  DE  INDICAÇÃO  DA  ALÍNEA  DO  PERMISSIVO  CONSTITUCIONAL.  DEFICIÊNCIA  NA  FUNDAMENTAÇÃO.  APLICAÇÃO  DA  SÚMULA  284  DO  STF.  2.  ALEGAÇÃO  DE  ILEGITIMIDADE  PASSIVA  EM  RAZÃO  DA  AUSÊNCIA  DE  MÁ-FÉ.  NECESSIDADE  DE  DILAÇÃO  PROBATÓRIA.  NÃO  CABIMENTO  EM  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE.  SÚMULA  N.  83/STJ.  3.  FALTA  DE  PREQUESTIONAMENTO.  SÚMULA  211/STJ.  4.  AGRAVO  INTERNO  DESPROVIDO.
+1.  A  ausência  de  indicação  do  permissivo  constitucional  autorizador  da  interposição  recursal  inviabiliza  o  conhecimento  do  recurso  especial,  atraindo  a  aplicação  da  Súmula  284  do  Supremo  Tribunal  Federal,  por  aplicação  analógica.
+2.  O  manejo  de  exceção  de  pré-executividade  apenas  se  apresenta  possível  quando  as  questões  a  serem  apreciadas  puderem  ser  conhecidas  de  ofício  pelo  magistrado,  dispensada  a  dilação  probatória.  Precedentes.  Incidência  da  Súmula  83/STJ.
+3.  Inadmissível  o  recurso  especial  quanto  à  questão  que,  a  despeito  da  oposição  de  embargos  declaratórios,  não  foi  apreciada  pelo  Tribunal  a  quo  (enunciado  n.  211  da  Súmula  do  STJ).
+4.  Agravo  interno  desprovido."  (AgInt  no  AREsp  nº  1.283.280/RS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  julgado  em  21/8/2018,  DJe  de  5/9/2018).
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL  -  AÇÃO  DECLARATÓRIA  DE  INEXISTÊNCIA  DE  DÉBITO  C/C  PEDIDO  CONDENATÓRIO  -  DECISÃO  MONOCRÁTICA  QUE  NEGOU  PROVIMENTO  AO  RECLAMO  -  INSURGÊNCIA  RECURSAL  DA  DEMANDADA.
+1.  A  transferência  da  duplicata  mediante  cessão  de  crédito,  em  contrato  de  fomento  mercantil,  encerra  a  possibilidade  de  o  devedor  opor  exceções  pessoais  à  faturizadora.  Perquirir  o  preenchimento  dos  requisitos  essenciais  da  cessão  de  crédito,  como  a  notificação  do  devedor  a  respeito  da  transferência  do  título,  exige  o  revolvimento  do  acervo  fático-probatório,  o  que  é  incompatível  na  instância  especial,  a  teor  da  Súmula  7  do  STJ.  Precedentes.
+2.  A  ausência  de  enfrentamento  da  matéria  pelo  Tribunal  de  origem,  não  obstante  a  oposição  de  embargos  de  declaração,  impede  o  acesso  a  esta  Corte  Superior,  porquanto  não  preenchido  o  requisito  constitucional  do  prequestionamento.  Incidência  das  Súmulas  211  do  STJ  e  282  do  STF.
+3.  Agravo  interno  desprovido."  (AgInt  no  AREsp  nº  1.334.571/SP,  Rel.  Ministro  MARCO  BUZZI,  QUARTA  TURMA,  julgado  em  8/11/2018,  DJe  de  19/11/2018).
+
+Registra-se,  por  oportuno,  que
+"(..)  se  a  questão  levantada  não  foi  discutida  pela  Corte  local  e  não  verificada,  nesta  Corte,  a  existência  de  erro,  omissão,  contradição  ou  obscuridade  não  há  que  se  falar  em  prequestionamento  ficto  da  matéria,  nos  termos  do  art.  1.025  do  CPC/2015"  (AgInt  no  AREsp  nº  1.679.244/PR,  Rel.  Ministra  Nancy  Andrighi,  Terceira  Turma,  julgado  em  19/10/2020,  DJe  21/10/2020).
+Ademais,  quanto  ao  mérito,  o  tribunal  local  assim  se  manifestou:
+"(..)  Alegam  os  apelantes  que,  considerando  que  foram  condenados  ao  pagamento  em  favor  da  apelada  de  obrigação  ilíquida,  de  natureza  extracontratual,  os  juros  moratórios  devidos  só  podem  incidir  sobre  o  montante  apurado  a  partir  da  liquidação  do  julgado,  ou  seja,  a  partir  da  homologação  dos  cálculos  periciais,  que  ocorreu  em  25/09/2012,  e  não  a  partir  da  citação  da  ré  na  ação  de  conhecimento,  efetivada  em  11/04/2003.
+Julgado  improcedente  o  pedido,  apelam  os  autores,  requerendo  a  decretação  da  nulidade  de  ato  processual,  de  forma  que  seja  determinada  a  incidência  dos  juros  de  mora  tão  somente  a  partir  da  homologação  do  laudo  pericial  na  fase  de  liquidação  da  sentença.
+(..)  Na  hipótese,  não  há  que  se  falar  em  qualquer  das  hipóteses  de  possível  cabimento  da  querela  nullitatis.  Ora,  a  despeito  de  os  apelantes  sequer  terem  indicado  de  forma  específica  qual  ato  processual  pretendem  declarar  nulo  ou  inexistente,  o  que  se  evidencia  dos  autos  é  que  almejam,  em  verdade,  a  revisão  de  julgado  transitado  em  julgado  como  forma  de  fazer  valer  seu  entendimento  acerca  do  termo  inicial  de  incidência  dos  juros  de  mora  sobre  a  obrigação  que  lhes  foi  imposta.
+Não  se  verifica,  dos  autos,  qualquer  vício  de  carência  da  ação  ou  mesmo  qualquer  outro  vício  insanável  relativo  ao  ato  citatório  ou  outra  falha  processual  que  pudesse  ensejar  a  nulidade  do  julgado  e  alteração  do  que  restou  decidido  acerca  do  termo  inicial  dos  juros  de  mora  sobre  a  obrigação  exequenda,  mas  mero  inconformismo  dos  apelantes,  conforme  bem  pontuado  pela  sentença  recorrida"  (e-STJ  fls.  1.376-1.377  -  grifou-se).
+Com  efeito,  não  há  como  rever  o  entendimento  firmado  nas  instâncias  ordinárias  sem  a  análise  de  fatos  e  provas,  procedimento  inviável  em  recurso  especial  em  virtude  da  incidência  da  Súmula  nº  7/STJ.
+  Desse  modo,  não  prosperam  as  alegações  postas  no  presente  recurso,  incapazes  de  alterar  os  fundamentos  da  decisão  impugnada.
+Ante  o  exposto,  nego  provimento  ao  agravo  interno.
+É  o  voto.
