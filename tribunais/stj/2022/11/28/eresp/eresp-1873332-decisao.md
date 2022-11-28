@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de segundo recurso de Embargos de Divergência opostos por THIAGO GABRIEL HUGEN às fls. 700-712, em face de acórdão proferido pela col. Terceira Seção, derelatoria do em. Ministro João Otávio de Noronha, no julgamento dos Embargos de Declaração no Agravo Regimental nos Embargos de Declaração nos Embargos deDivergência em Recurso Especial.
+Depreende-se dos autos que a parte recorrente manejouRecurso Especial, o qual foi conhecido em parte e, nesta extensão, foi-lhe negado provimento,decisummantido em sede de agravo regimental, em v. acórdão de fls. 547-555. Ainda irresignada, a defesa opôsembargos de declaração, o quais foram rejeitados (fls. 577-582), tendo posteriormente interposto recurso de embargos de divergênciaindicando como paradigmas do Supremo Tribunal Federal, RHC n. 143.449/MS, relator Ministro Ricardo Lewandowski, DJe de 6/10/2017; do Superior Tribunal de Justiça, HC n. 508.409/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe 5/8/2019; e HC n. 347.793/SP, relator Ministro Rogerio Schietti, Sexta Turma, DJe de 4/5/2017 (fls. 585-597).
+Os embargos de divergência foramliminarmente indeferidos com fulcro no art. 266-C do RISTJ, assentando-se o julgado pela inadmissibilidade do recurso por deserção (fls. 614 - 615),após ter transcorrido o prazo para o embargante efetuar o recolhimento do preparo (fls. 605 - 606).
+Em face dessa decisão foram opostos embargos de declaração, rejeitados (fls. 630-632), e interpostoagravo regimental, os quais foram providos, paranão conhecer dos embargos de divergência (fls. 673-675), diante da não admissão dautilização de acórdãos oriundos de julgadosproferidos em habeas corpus como paradigmapara configuração da divergência.
+Posteriormente, aparte opôs novos embargos de declaração (fls. 678-688), os quais foram rejeitados (fls. 694-697) enovamente ingressou com embargos dedivergência (fls. 700-712).
+Na presente petição, aponta nova divergência, agora com paradigmas do Supremo Tribunal Federal, nos autos doRHC 143.449, e do Superior Tribunal de Justiça nos autos doHC 130.133/SC, Relator Ministro Nilson Naves; HC 154.570/RS, Relatora Ministra Maria Thereza; e HC 128.889/DF, Relator Desembargador Convocado Celso Limongi,que decidiramde forma divergente ao acórdão embargado quanto à existência de atipicidade de conduta material e dosimetria da pena.
+Requer, por fim, o recebimento e provimento dos embargos.
+É o relatório.
+Decido.
+Exsurge dos autos a impossibilidade de conhecimento da presente petição como embargos de divergência.
+Com efeito, consoante disciplina o artigo 1.043 do CPC/2015, os Embargos de Divergência são cabíveis contra acórdão que:
+"I - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito;
+ ..
+III - em recurso extraordinário ou em recurso especial, divergir dojulgamento de qualquer outro órgão do mesmo tribunal, sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia".
+Nesse diapasão, o art. 266 do RISTJ com a redação dada pela Emenda Regimental 22, de 2016 estabelece, nesse mesmo sentido, que:
+"Art. 266. Cabem embargos de divergência contra acórdão de Órgão Fracionário que, em recurso especial, divergir do julgamento atual de qualquer outro Órgão Jurisdicional deste Tribunal, sendo:
+I - os acórdãos, embargado e paradigma, de mérito;
+II - um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia".
+Assim, imperioso concluir pelo não cabimento do recurso de embargos de divergência em face de embargos de divergência, ao contrário do que pretende fazer crer o embargante, sob pena de eternização do litígio.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DIVERGÊNCIA. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. RECURSO MANIFESTAMENTE INCABÍVEL. EXEGESE DO ART. 1043 DO CPC/2015, C/C O ART. 266 DO RISTJ. AGRAVO INTERNO NÃO PROVIDO.
+1. É manifestamente incabível a apresentação de embargos de divergência contra acórdão deste Tribunal, proferido em sede de embargos de divergência.
+2. Agravo interno não provido" (AgInt nos EAREsp n. 476.850/SP, Primeira Seção, Rel. Min. Mauro Campbell Marques, DJe de 30/05/2017).
+"EMBARGOS DE DIVERGÊNCIA EM EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RECURSO MANIFESTAMENTE INCABÍVEL.
+1. É firme a orientação no sentido de que é manifestamente incabível a apresentação de embargos de divergência contra acórdão deste Tribunal, proferido em sede de embargos de divergência.
+2. Precedentes: AgRg nos EDv nos EREsp 991474/SC, Rel. Ministro Hamilton Carvalhido, Primeira Seção, julgado em 27/10/2010, DJe 19/11/2010; AgRg nos EDcl nos EREsp 697184/MG, Rel. Ministro Mauro Campbell Marques, Primeira Seção, julgado em 24/11/2010, DJe 02/12/2010; AgRg nos EDv nos EREsp 747192/RS, Rel. Ministro José Delgado, Primeira Seção, julgado em 14/03/2007, DJ 02/04/2007, p. 219. Embargos de divergência não conhecidos" (EDv nos EDcl nos EREsp n. 1.096.074/SP, Primeira Seção, Rel. Min. Humberto Martins, DJe de 31/05/2013).
+"PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA. EXEGESE DO ART. 546 DO CPC, C/C O ART. 266 DO RISTJ. EMBARGOS DE DIVERGÊNCIA APRESENTADOS EM FACE DE ACÓRDÃO DA PRIMEIRA SEÇÃO/STJ, PROFERIDO EM SEDE DE EMBARGOS DE DIVERGÊNCIA. RECURSO MANIFESTAMENTE INCABÍVEL. AGRAVO REGIMENTAL MANIFESTAMENTE INFUNDADO. CONDENAÇÃO AO PAGAMENTO DE MULTA.
+1. Nos termos do art. 546 do CPC, c/c o art. 266 do RISTJ, é cabível a interposição de embargos de divergência em face de acórdão de Turma deste Tribunal, proferido em sede de recurso especial, que serão julgados pela respectiva Seção (quando as Turmas divergirem entre si ou de decisão da mesma Seção) ou pela Corte Especial deste Tribunal (se a divergência for entre Turmas de Seções diversas, ou entre Turma e outra Seção ou com a Corte Especial). Acrescente-se que "cabem embargos de divergência contra acórdão que, em agravo regimental, decide recurso especial" (Súmula 316/STJ).
+2. Assim, é manifestamente incabível a apresentação de embargos de divergência contra acórdão deste Tribunal, proferido em sede de embargos de divergência.
+ ..
+4. Agravo regimental não provido. Agravante condenado ao pagamento de multa" (AgRg nos EDcl nos EREsp n. 697.184/MG, Primeira Seção, Rel. Min. Mauro Campbell Marques, DJe de 02/12/2010).
+Também não há como aplicar ao caso o princípio da fungibilidade recursal, ante a caracterização de erro grosseiro, na primeira oportunidade, por propor embargos de divergência contra decisão monocráticae, no segundo momento, por oferecer embargos de divergência nos embargos de divergência.
+Sob outro viés, constato a interposição pelo embargante de inúmeros e sucessivos recursos sem demonstração de tese apta à reversão do julgado, revelando nítido caráter protelatório da defesa, com o intuito de se beneficiar indevidamente da prescrição. Nesse sentido:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CARÁTER PROTELATÓRIO. RECOMENDAÇÃO DE BAIXA IMEDIATA.
+1. É assente o entendimento desta Corte no sentido de que não se admite como paradigma para comprovar a divergência acórdão proferido em habeas corpus, mandado de segurança, recurso ordinário em habeas corpus, recurso ordinário em mandado de segurança e conflito de competência.
+2. O agravo reitera os argumentos expendidos em recursos anteriores, manejados em face da decisão que indeferiu liminarmente os embargos de divergência.
+3. Agravo regimental não conhecido, com determinação de certificação imediata do trânsito em julgado, independentemente de publicação, considerando o nítido abuso do direito de recorrer" (AgRg na PET nos EREsp 1.505.705/RS, Terceira Seção, Rel. Min. Ribeiro Dantas,DJe 19/12/2017).
+Ante o exposto, não conheço dos embargos de divergência, na forma do art. 932, III, do CPC/2015 e art. 34, XVIII, "a", do RISTJ. Determino, outrossim, a certificação imediata do trânsito em julgado, independentemente de publicação, com a consequente baixa dos autos.
+P. e I.
