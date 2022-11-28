@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 433/444) interposto contra decisão desta relatoria, que negou provimento ao agravo emrecurso especial (e-STJ fls.427/431).
+Em suas razões, a parte alega que (e-STJ fl. 440):
+(..) por qualquer ângulo que se analise a questão, tratando-se de consumidor direto ou por equiparação, a responsabilidade da instituição financeira por fraudes praticadas por terceiros, das quais resultam danos aos consumidores, é objetiva e decorre, evidentemente, de violação a um dever contratualmente assumido, de gerir com segurança as movimentações bancárias de seus clientes.
+Ressalta que (e-STJ fl. 442):
+(..) nos termos deduzidos nas razões do recurso especial, em verdade, o que aqui se pretende não é a simples revisão das provas contidas nos autos, mas, sim, a correta aplicação do direito infraconstitucional em face dos fatos que são incontroversos e estão definidos nos acórdãos recorridos.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada apresentou impugnação (e-STJ fls. 449/451).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CONSUMIDOR. SAQUES E COMPRAS CONTESTADAS. FURTO DE CARTÕES. VIOLAÇÃO DESÚMULA. DESCABIMENTO. SÚMULA N. 518DO STJ. INCIDÊNCIA DO CDC. FALTA DEINTERESSE RECURSAL.INEXISTÊNCIA DE CONDUTA ILÍCITA DA INSTITUIÇÃO FINANCEIRA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ.DECISÃO MANTIDA.
+1.A ofensa a enunciado de súmula não autoriza o ingresso na instância especial, nos termos daSúmula n. 518do STJ.
+2."O recorrente carece deinteresse recursalquando o Tribunal estadual apresenta conclusão favorável à parte agravante"(AgInt no AREsp 130.222/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/02/2019, REPDJe 26/02/2019, DJe 25/02/2019).
+3.O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. No caso concreto, a reforma do acórdão recorrido, que entendeu pelaculpa exclusiva da vítima e pela ausência dodever de indenizar da instituição financeira, demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial.
+5. Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 427/431):
+Trata-se de agravo nos próprios autos interposto contra decisão publicada na vigência do CPC/2015, que inadmitiu o recurso especial em razão da incidência da Súmula n. 7/STJ (e-STJ fls. 389/390).
+Oacórdão recorrido encontra-se assim ementado (e-STJ fl. 298):
+PROCESSO CIVIL. CONSUMIDOR. SAQUES E COMPRAS CONTESTADAS. FURTO DE CARTÕES. INEXISTÊNCIA DE CONDUTA ILÍCITA DA CEF. HONORÁRIOS RECURSAIS. APELO DESPROVIDO.
+I - Restou incontroverso que ocorreram saques na conta corrente de titularidade da parte autora e compras em seu cartão de crédito, tendo a parte autora negado a autoria das referidas movimentações e a ré sustentado inexistência de falha na prestação do serviço.
+II - Denota-se, também, da análise do conjunto probatório apresentado, que houve movimentação da conta bancária e do cartão de crédito da parte autora através do cartão magnético habilitado nas funções débito e crédito, os quais foram subtraídos mediante furto, conforme comunicado pela própria apelante. Desta forma, tal conjunto de fatos não pode ser imputado à CEF.
+III - Nos termos do §11 do artigo 85 do Novo Código de Processo Civil, a majoração dos honorários é uma imposição na hipótese de se negar provimento ou rejeitar recurso interposto de decisão que já havia fixado honorários advocatícios sucumbenciais, respeitando-se os limites do § 2º do citado artigo. Para tanto, deve-se levar em conta a atividade do advogadona fase recursal, bem como a demonstração do trabalho adicional apresentado pelo advogado.
+IV - Nesse sentido, majoro em 2% (dois pontos percentuais) os honorários fixados pelo MM. Juízo a quo, observadas as disposições do artigo 98, § 3º,do NCPC.
+V - Apelação desprovida.
+Nas razões do recurso especial (e-STJ fls. 312/354), fundamentado no art.105, III, "a" e "c", da CF, a parte alega, além de dissídio jurisprudencial, violação dos arts. 3º, 7º, 14, 17 e 18, do CDC, 373, II, do CPC/2015, 186 e 927 do CC/2002 e às Súmulas 297 e 479 do STJ.
+Afirma que incidem ao caso em exame as disposições do Código de Defesa do Consumidor e ressalta que a responsabilidade das instituições financeiras é objetiva.
+Assevera que (e-STJ fl. 322):
+(..) as circunstâncias do caso concreto, entanto, indicam a ocorrência de fraude e uso indevido do cartão de crédito e débito, pois as compras se caracterizaram pelo uso máximo do limite diário no menor tempo possível, com utilização de todo o saldo e toda a margem do cheque especial da conta bancária, bem como utilização de todo o limite de crédito do cartão e contratação emergencial para uso além do limite de crédito contratado.
+Defende que (e-STJ fl. 323):
+(..) houve falha na prestação de serviço da instituição financeira, que não adotou as medidas de segurança previstas em contrato como sendo sua obrigação, permitindo a utilização de limite de crédito muito superior ao contratado, equivalente quase o dobro do limite do cartão de crédito da autora, bem como permitiu a função de débito com uso de todo o saldo (R$ 3.925,11) e quase toda a margem de cheque especial da conta bancária (que era de R$ 7.000,00), deixando a conta com saldo negativo de R$ 533,11)
+Salienta que "o Banco Recorrido responde pelo risco profissional assumido, somente afastando a sua responsabilidade civil na hipótese de comprovação de culpa exclusiva do cliente, o que não está demonstrado nos autos em relação às compra" (e-STJ fl. 326) e que "deixou de ser observado pelo Colendo Tribunal de Origem, que os gastos no cartão de crédito/débito e transações bancárias destoam por completo o perfil da Recorrente" (e-STJ fl. 327).
+Conclui que "a mera alegação da instituição financeira de que a correntista se descuidou do dever de zelo para com a guarda do cartão bancário e de seus dados pessoais, desprovida de lastro probatório, não pode compelir a consumidora a produzir prova negativa" (e-STJ fl. 329).
+Por fim, requer a condenação da agravada ao pagamento de indenização pelos danos materiais e morais advindos da utilização indevida dos cartões magnéticos da agravante.
+No agravo (e-STJ fls. 394/408), afirma a presença dos requisitos de admissibilidade do especial.
+Contraminuta apresentada às fls. 412/414 (e-STJ).
+É o relatório.
+Decido.
+De início, a tese de contrariedade às Súmulas n. 297 e 479 do STJ não comporta análise no recurso, porque, segundo entendimento consagrado pela Corte Especial deste Tribunal Superior no enunciado das Súmulas n. 518 (julgado em 26/2/2015, DJe 2/3/2015), "para fins do art. 105, III, "a", da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA CUMULADA COM COBRANÇA. PRESCRIÇÃO E DISSÍDIO. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. VIOLAÇÃO DOS ARTS. 2º E 6º DA LINDB. IMPOSSIBILIDADE. MATÉRIA DE NATUREZA CONSTITUCIONAL. ART. 489, § 1º, I DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. SÚMULA N. 518 DO STJ. DECISÃO MANTIDA.
+(..)
+4. A ofensa a enunciado de súmula não autoriza o ingresso na instância especial, a teor do que dispõe a Súmula n. 518/STJ: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula."
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1898845/SP, de minha relatoria, QUARTA TURMA, julgado em 29/11/2021, DJe 02/12/2021.)
+Consta nos autos que o Tribunal de origem que (e-STJ fls. 294 /296):
+Nesse contexto, verifica-se o dever da Caixa Econômica Federal de indenizar a parte em razão da responsabilidade civil objetiva própria das instituições financeiras, em face da submissão aos ditames do Código de Defesa do Consumidor, conforme entendimento pacífico da jurisprudência pátria, inclusive sumulado pelo Superior Tribunal de Justiça: "Súmula 297. O Código de Defesa do Consumidor é. aplicável às instituições financeiras".
+Além disso, o fornecedor de serviços responde independentemente da existência de culpa pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, nos termos do artigo 14 do Código de Defesa do Consumidor.
+No caso dos autos, restou incontroverso que ocorreram saques na conta corrente de titularidade da parte autora e compras em seu cartão de crédito, tendo a parte autora negado a autoria das referidas movimentações e a ré sustentado inexistência de falha na prestação do serviço.
+Denota-se, também, da análise do conjunto probatório apresentado, que houve movimentação da conta bancária e do cartão de crédito da parte autora através do cartão magnético habilitado nas funções débito e crédito, os quais foram subtraídos mediante furto, conforme comunicado pela própria apelante. Desta forma, tal conjunto de fatos não pode ser imputado à CEF.
+A jurisprudência do Supremo Tribunal Federal, do Superior Tribunal de Justiça e de outras Cortes Regionais já firmou entendimento segundo o qual,não obstante a aplicação da responsabilidade objetiva, tal deve ser elidida quando estiver caracterizada a culpa exclusiva da vítima.
+(..)
+Assim, inexiste conduta ilícita da ré a ser indenizada, razão pela qual fica mantida a r. sentença tal como lançada.
+Depreende-se que não há interesse recursal quanto ao pedido de aplicação das disposições do CDC e à responsabilidade objetiva da instituição financeira. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO. DECISÃO MONOCRÁTICA DO RELATOR. POSSIBILIDADE. AUSÊNCIA DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE. TRIBUNAL A QUO ENTENDEU PELA AUSÊNCIA DE VÍCIOS NO IMÓVEL. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. MUDANÇA DO RITO. CONCLUSÃO FAVORÁVEL À PARTE AGRAVANTE. AUSÊNCIA DE INTERESSE RECURSAL. ILEGITIMIDADE PASSIVA. INOVAÇÃO RECURSAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. AGRAVO DESPROVIDO.
+1. A jurisprudência deste Tribunal Superior orienta-se no sentido de que tanto o art. 557 do CPC/73 como o art. 932 do CPC/2015 e a Súmula 568/STJ admitem que o Relator julgue monocraticamente recurso inadmissível ou com jurisprudência consolidada nesta Corte. Reconhece ainda que, nessas hipóteses, o julgamento singular não ofende o princípio da colegialidade, tendo em vista a possibilidade de interposição de recurso ao órgão colegiado.
+2. O Tribunal a quo, soberano na análise do acervo fático-probatório carreado aos autos, concluiu que não foram comprovados os alegados vícios no imóvel e que o contrato de locação apenas imputa ao locador o dever de reparar danos relativos à segurança do imóvel. A pretensão de revisar tal entendimento, considerando as circunstâncias do caso, demandaria revolvimento fático-probatório, inviável em sede de recurso especial, conforme preconiza a Súmula 7/STJ.
+3. O recorrente carece de interesse recursal quando o Tribunal estadual apresenta conclusão favorável à parte agravante.
+4. Esta Corte Superior orienta-se no sentido de que a matéria de ordem pública também deve ser prequestionada para fins de admissão do recurso especial. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp 130.222/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/02/2019, REPDJe 26/02/2019, DJe 25/02/2019.)
+Quanto ao tema de fundo, modificar o entendimento do acórdão impugnado quanto ao dever de indenizar da instituição financeira e à culpa exclusiva da vítima, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+Ante o exposto, NEGO PROVIMENTO ao recurso.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
+A recorrente apresentoua tese de afronta às Súmulas n. 297 e 479 do STJ.
+A ofensa a enunciado de súmula não autoriza o ingresso na instância especial, a teor do que dispõe a Súmula n. 518 do STJ.
+Conforme delineado na decisão anterior, quanto à incidência dasdisposições do CDC e à responsabilidade objetiva da instituição financeira,considerando que a agravante requer o que havia sido decidido em seu favor no aresto recorrido, não lhe assiste, nessa parte, interesse recursal algum.
+Por fim, eventual conclusão desta Corte Superior em sentido contrário ao da instância ordinária - de que houveculpa exclusiva da vítima e inexistedever de indenizar da instituição financeira- exigiria incursão no campo fático-probatório, providência vedada na via especial, conforme o enunciado n. 7 da Súmula do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
