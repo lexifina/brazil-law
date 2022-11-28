@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto contra acórdão assim ementado (fl. 81):
+HABEAS CORPUS. CRIMES CONTRA O PATRIMÔNIO. ROUBOIMPRÓPRIO. CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA. DESACATO. RESISTÊNCIA. CRIMES CONTRA A PESSOA. LESÃOCORPORAL. CRIMES DA LEI DE DROGAS. POSSE DE DROGAS PARAUSO PRÓPRIO. PRISÃO PREVENTIVA. NECESSIDADE E ADEQUAÇÃODA CUSTÓDIA. TEMAS JÁ ENFRENTADOS EM IMPETRAÇÃOANTERIOR. NÃO CONHECIMENTO. Necessidade e adequação da prisão preventiva decretada em desfavor do paciente que foram apreciadas por este Órgão Fracionário por ocasião do julgamento do habeas corpus nº 5006239-56.2022.8.21.7000/RS, oportunidade em que assentada a regularidade da custódia e a ausência de constrangimento ilegal. Presença dos requisitos e fundamentos autorizadores da medida extrema, esta se revelando necessária, suficiente e adequada para acautelar a ordem pública, inviabilizada sua substituição nos termos do artigo 319 do CPP. CONDIÇÕES PESSOAIS FAVORÁVEIS. Condições pessoais favoráveis ao beneficiário, a exemplo de recente proposta de emprego, não possuem o condão de, isoladamente, desconstituir a custódia preventiva a caso presentes os requisitos de ordem objetiva e subjetiva que autorizem a sua decretação. EXCESSO DE PRAZO. CONSTRANGIMENTO ILEGAL. INOCORRÊNCIA. Regular trâmite do feito na Comarca de origem que afasta a pecha de constrangimento ilegal por excesso de prazo. Oitiva de vítima e testemunhas aprazada para data próxima. Ausência de atos protelatórios, desídia pela Autoridade Judicial na condução do feito ou contribuição do Ministério Público para a veiculada demora.
+ORDEM CONHECIDA EM PARTE E, NESTA, DENEGADA.
+Consta dos autos prisão preventiva pela prática dos crimes de roubo majorado, resistência, lesão corporal e posse de drogas.
+Impetrado prévio writ na origem, a ordem foi denegada.
+Sustenta, em síntese, a ausência dos requisitos ensejadores da prisão preventiva, bem comoexcesso de prazo na formação da culpa.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, substituindo-a, se for o caso, por medidas cautelares diversas da prisão.
+A liminar foi indeferida, as informações foram prestadas e o Ministério Público manifestou-se pelonão provimento do Recurso Ordinário em Habeas Corpus.
+Nos termos das informações defls. 175-192, foi prolatada sentença absolvendo o recorrente das imputações, a qual transitou em julgado,determinando-se a expedição de alvará de soltura, contexto em que julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
