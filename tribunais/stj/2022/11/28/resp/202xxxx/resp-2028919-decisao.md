@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo contra a decisão que inadmitiu o recurso especial interposto por JOÃO CARLOS LABOISSIERE AMBRÓSIO, ISABELA DRUMOND PERDIGÃO e L. D. L. A., fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/5/2022.
+Concluso ao gabinete em: 11/10/2022.
+Ação: de reparação de danos morais, ajuizada por JOÃO CARLOS LABOISSIERE AMBRÓSIO, ISABELA DRUMOND PERDIGÃO e L. D. L. A., representado pelos genitores supramencionados, em face de AIR CANADA.
+Decisão interlocutória: determinou que deveria ser aplicada ao caso o direito canadense, em razão do disposto nos arts. 9º e 13º da LINDB.
+Acórdão: negou provimento ao agravo interno interposto pelos recorrentes, mantendo a decisão que não conheceu do agravo de instrumento, nos termos da seguinte ementa:
+AGRAVO INTERNO. DIREITO PROCESSUAL CIVIL. PROLAÇÃO DE SENTENÇA. PERDA DE OBJETO DO AGRAVO DE INSTRUMENTO. MULTA AO AGRAVO INTERNO. INAPLICABILIDADE.
+1. Salvo em hipóteses excepcionais, a serem analisadas em cada caso concreto, a prolação de sentença nos autos do processo originário acarreta a perda de objeto do agravo de instrumento.
+2. Tendo a distribuição do ônus da prova sido utilizada, para além de critério de instrução, como critério de julgamento, com a questão tratada na sentença, mediante cognição exauriente, e cuja análise foi devolvida à apreciação, em virtude da interposição de apelação, não há utilidade no julgamento de agravo de instrumento que trata da mesma matéria.
+3. A multa prevista no art. 1.021, § 4º, do Código de Processo Civil não possui incidência automática diante do não provimento do agravo. interno, por votação unânime, sendo necessário, para que se aplique a sanção processual, que se reconheça que a interposição do recurso se deu de forma abusiva ou protelatória.
+4. Agravo interno desprovido. (e-STJ fls. 315-335)
+Recurso especial interposto: alega violação do art. 1.015, XI, do CPC/15. Sustenta a inexistência de prejudicialidade do recurso de agravo de instrumento julgado após a prolação da sentença, uma vez que a matéria objeto de impugnação influi na validade da própria sentença, referente à distribuição do ônus probatório.
+Decisão de admissibilidadedo TJDFT: inadmitiu o recurso especial.
+Agravo em recurso especial: reitera os fundamentos anteriormente expostos.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da Súmula 7/STJ
+No particular, verifica-se que o Tribunal de origem, em atenção ao conjunto fático-probatório dos autos, decidiu estar prejudicado o exame do agravo de instrumento em virtude da superveniência de sentença que analisou as questões nele controvertidas.
+Reprisam-se, no ponto, trechos da decisão impugnada:
+"No presente caso, ao se analisar a sentença proferida nos autos do processo originário (id 83568679), constata-se que a distribuição do ônus da prova foi utilizada, para além de critério de instrução, como critério de julgamento. Assim, não há utilidade no julgamento do presente agravo de instrumento, pois a questão da responsabilidade pelo ônus da prova foi tratada na sentença, mediante exame com cognição exauriente, cuja análise foi devolvida à apreciação, em virtude da interposição de recurso de apelação.
+Os ora agravantes interpuseram apelação contra a sentença (id 23823769 dos autos de origem). Suscitaram três preliminares: 1) Da aplicabilidade do direito material brasileiro. Art. 9º da Lei de Introdução às Normas do Direito Brasileiro; 2) Da necessidade de inversão do ônus da prova nos termos do art. 6º, inc. VIII, do Código de Defesa do Consumidor. Questão antecedentemente lógica ao mérito da causa. Relação consumerista; e, 3) Do cerceamento de defesa. Verossimilhança dos fatos alegados. Impossibilidade de submeter os apelantes à produção de prova impossível.
+As preliminares suscitadas pelos agravantes na apelação interposta contra a sentença dizem respeito ao próprio mérito do presente agravo de instrumento. Este Tribunal de Justiça já julgou o recurso de apelação e afastou as preliminares suscitadas. Confira-se a ementa do julgado:
+APELAÇÃO CÍVEL. REPARAÇÃO POR DANOS MORAIS. EMPRESA AÉREA ESTRANGEIRA. VOO DOMÉSTICO INTERNACIONAL. INCIDENTE EM AEROPORTO ESTRANGEIRO. AGRESSÃO VERBAL. LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO. APLICAÇÃO DA LEI ESTRANGEIRA. INVERSÃO DO ÔNUS DA PROVA. AUSÊNCIA DE PREVISÃO. FATOS CONSTITUTIVOS DO DIREITO. NÃO COMPROVADOS. SENTENÇA MANTIDA. 1. A reparação por danos morais, em caso de extravio de bagagem no exterior, diferente da indenização por danos materiais, não está submetida à tarifação prevista nas Convenções de Varsóvia e Montreal. O valor a ser fixado, portanto, deve contemplar a efetiva reparação do dano sofrido pelo consumidor, nos termos do art. 6º, inc. VI, do Código de Defesa do Consumidor (RE n. 636.331/RJ - Tema n. 210 de Repercussão Geral). 2. Em caso de violação a direito de personalidade do consumidor por suposto preposto de empresa aérea estrangeira, em aeroporto estrangeiro, o ônus probatório e os meios de produção da prova serão regidos pela lei do país em que os fatos ocorreram, segundo dispõe o art. 13 da Lei de Introdução às Normas do Direito Brasileiro (LINDB). 3. Se a legislação do país onde ocorreram os fatos que se pretende provar não contempla a inversão do ônus da prova, ela não poderá ser aplicada. Cabe ao autor o ônus de comprovar os fatos constitutivos de seu direito, nos termos do art. 373, inc. I, do Código de Processo Civil. 4. Apelação desprovida. (Acórdão 1388049, 07337138620198070001, Relator: HECTOR VALVERDE SANTANNA, 2ª Turma Cível, data de julgamento: 24/11/2021, publicado no DJE: 1/12/2021. Pág.: Sem Página Cadastrada.)
+A matéria objeto do presente agravo foi tratada na sentença, mediante exame com cognição exauriente. Os ora agravantes interpuseram apelação e suscitaram em preliminar a mesma matéria. Este Tribunal de Justiça proferiu acórdão e afastou as preliminares.
+Conclui-se que o presente agravo de instrumento está prejudicado, em virtude da perda superveniente do interesse de agir." (e-STJ fls. 320-321)
+De fato, verifica-se que alterar o decidido no acórdão impugnado, no que tange à perda superveniente do interesse de agir dos recorrentes, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários sucumbenciais, uma vez que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CONSUMIDOR. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de reparação de danos morais.
+2. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+3. Agravo conhecido. Recurso especial não conhecido.
