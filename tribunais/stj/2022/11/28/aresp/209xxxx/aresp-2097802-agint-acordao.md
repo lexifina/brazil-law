@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto peloESTADO DO TOCANTINS contra decisão monocrática por mim proferida, no exercício da presidência do STJ, por meio da qual apliquei a Súmula n. 182 do STJ (fls. 1.009-1.010).
+Extrai-se dos autos que a parte agravante interpôs recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS,assimementado(fls. 944-945):
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA C. C. OBRIGAÇÃO DE FAZER. PROGRESSÕES. DESCUMPRIMENTO DE COMANDO JUDICIAL. NÃO OBSERVADO. INDICAÇÃO DE POSSIBILIDADE DE SER O FEITO DE COMPETÊNCIA DO JUIZADO ESPECIAL. IMPOSSIBILIDADE. FACULDADE DA PARTE. NECESSÁRIA LIQUIDAÇÃO DE SENTENÇA. DOCUMENTOS JUNTADOS DA INICIAL. REQUISITOS DO ART. 319, DO CPC. ATENDIDOS. DOCUMENTOS EXIGIDOS PELO MAGISTRADO DE PISO. DISENSÁVEIS A PROPOSITURA DA AÇÃO. DOCUMENTOS A SERVIR DE INSTRUÇÃO A RESPALDAR O DIREITO VINDICADO PELA AUTORA. PEDIDO DE GRATUIDADE DA JUSTIÇA NAS RAZÕES RECURSAIS. DEFERIDA. SENTENÇA CASSADA.
+1- Frisa-se que os documentos exigidos pelo magistrado de piso, não são documentos essenciais a propositura da ação, mas sim documentos a servir de instrução a respaldar o direito vindicado, portanto, a não juntada junto a prefacial não é óbice para o ajuizamento da ação
+.2- A exigência para apresentação de planilha de cálculo atualizado de débito como requisito necessário da petição inicial no processo de conhecimento não é medida que se justifique. A juntada de ficha financeira, extratos e folha de freqüência não consiste em requisito imprescindível a ser observado quando do ajuizamento da ação de cobrança, ademais, foi inclusive requerido a inversão do ônus da prova, com fulcro no artigo 373, § 1º do CPC, não tendo o magistrado sequer se pronunciado a respeito.
+3- Resta ainda inequívoco que a presente demanda poderá, em caso de procedência, exigir a apuração de valores por meio de liquidação de sentença, procedimento não contemplado pelo rito da Lei 9.099/95. Ademais, cumpre exclusivamente à parte escolher o procedimento do feito no Juizado Especial Cível, podendo a seu critério optar por demandar perante a Justiça Comum ou o Juizado Especial, conforme seu interesse processual, ainda que o valor e complexidade da causa se sujeitem ao Juizado Especial.
+4- Entendo que em tese a apelante não deixou de atender ao comando judicial, pelo contrário, quando intimada para tal, esta veio nos autos e informou que tal determinação já fora atendida quando do ajuizamento da ação, uma vez que os documentos acostados a prefacial, em uma primeira análise, são capazes de demonstrar o direito de ação da requerente, tendo esta, cumprido os requisitos do artigo 319 e 320, ambos do CPC, não havendo razão para determinar a autora que emende a petição inicial.
+5- Diante da documentação acostada, entendo que a parte apelante faz jus a gratuidade da justiça, uma vez que preencheu os requisitos autorizadores para tal benesse.
+6- Sentença cassada."
+Sem embargos de declaração.
+No recurso especial, alega, que o acórdão estadual contrariou as disposições contidas nos arts. 321, caput e parágrafo único; 330, inciso IV, do Código de Processo Civil e; artigo 2º , § 4º, da Lei n 12.153/2009.
+Apresentadas contrarrazões ao recurso especial (fls. 964-970).
+Sobreveio o juízo de admissibilidade negativo na instância de origem (fls. 976-978), o que ensejou a interposição do agravo.
+Alega o agravante que a fundamentação do agravo em recurso especial é completa e foi apresentada conforme exigido pela lei.
+Aduz que o agravo apresentado é claro e objetivo, não sendo o caso de aplicação da Súmula n. 182 do STJ.
+Sustenta, por fim, que "a súmula7/STJ citadacomo óbice na decisão de inadmissibilidade foi devidamente refutada no Agravo em Recurso Especial, não havendo que se falar em ausência de impugnação específica tão pouco de falta de dialeticidade recursal (Enunciado da Súmula182/STJ). No presente caso, houve a impugnação especificada do óbice no tópico 4 da peça recursal." (fl. 1.018).
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, pela submissão do presente agravo à apreciação da Turma.
+A parte agravada, instada a manifestar-se, silenciou (fl.1.023).
+É, no essencial, o relatório
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO TRIBUNAL DE ORIGEM. INCIDÊNCIA DA SÚMULA N. 182/STJ.
+1.No caso dos autos, não houve adequada impugnação de inaplicabilidade da Súmula n. 7/STJ, limitando-se a parte agravante em tecer alegação genérica de não incidência do verbete sumular
+2.É inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+O Tribunal de origem inadmitiu o recurso especial por entender que o acórdão recorrido encontra óbice na Súmula n. 7 do STJ.
+No caso dos autos, do simples cotejo entre o decidido e as razões do agravo em recurso especial, é possível verificar que a parte agravante não rebateu a incidência da Súmula n. 7/STJ.
+Com efeito,"não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada ou simplesmente a insistência no mérito da controvérsia. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que possa justificar o afastamento do citado óbice processual"(AgInt no AREsp n. 1.996.512/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do TRF5), Primeira Turma, DJe de 17/8/2022).
+No mesmo sentido:
+3. No tocante à Súmula n. 7/STJ, foi sustentado genericamente que a matéria seria apenas jurídica, sem se explicitar, à luz da tese recursal trazida no recurso especial, de que maneira a análise não dependeria do reexame de provas, o que não cumpre o requisito da dialeticidade recursal.(AgRg no AREsp n. 2.103.741/ES, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 12/8/2022.)
+2. No tocante à aplicação da Súmula 7/STJ, a parte agravante traz apenas razões genéricas de inconformismo, o que não satisfaz a exigência de impugnação específica para viabilizar o conhecimento do agravo. Isso porque, para que se considere adequadamente impugnada a Súmula 7/STJ, o agravo precisa empreender um cotejo entre os fatos estabelecidos no acórdão e as teses recursais, mostrando em que medida estas não exigem a alteração do quadro fático delineado pelo Tribunal local, o que não se observa na alegação genérica de ser prescindível reexame de fatos e provas.(AgRg no AREsp n. 2.060.997/SC, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2022.)
+Nos termos do art. 932, inciso III, do Código de Processo Civil e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+É firme a jurisprudência no sentido de que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confira-se precedente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há,
+pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de
+origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+No mesmo sentido: AgInt no AREsp n. 2.022.410/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 22/8/2022; AgInt no AgInt no AREsp n. 2.063.004/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 21/9/2022; AgInt no AREsp n. 1.998.052/PR, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 5/5/2022; AgInt no AREsp n. 2.042.472/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 23/5/2022.
+Portanto, é inviável o conhecimento do agravo em recurso especial que não tenha impugnado especificamente todos os fundamentos da decisão agravada. Incidência da Súmula n. 182 do STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
