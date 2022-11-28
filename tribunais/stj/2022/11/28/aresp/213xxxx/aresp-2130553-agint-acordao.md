@@ -1,0 +1,45 @@
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CORREÇÃO DE ERRO MATERIAL. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Com efeito, o Tribunal de origem estabeleceu as seguintes premissas fático-probatórias: a) "como bem analisou a decisão recorrida, a frase estava equivocada porque o julgado singular (sentença) não havia determinado a devolução em dobro, mas a devolução simples"; b) "como bem analisado pelo julgador monocrático, a intenção em corrigir o erro material era apenas esclarecer que a sentença não havia determinado a devolução em dobro; c) "porém, entendo que o texto "que deve dar-se de forma simples" causa a falsa impressão de que o correto é que a devolução se dê da forma simples, contudo, esta não foi a intenção desta E. Câmara."; e, d) "esta E. Câmara, ao acolher os Embargos de Declaração, corrigiu erro material apenas para esclarecer que a sentença não havia determinado a devolução em dobro, contudo, a dobra fora concedida por esta E. Câmara quando do julgamento do acórdão de fls. 513/517".
+2. Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto esgrimido, passa pela revisitação ao acervo fático-probatório, vedada em Recurso Especial, consoante a Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo Interno não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, negou provimento ao agravo interno, nos termos do voto do Sr. Ministro-Relator." Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Humberto Martins votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão monocrática que conheceu do Agravo para não conhecer do Recurso Especial.
+A parte agravante sustenta:
+3. No entanto, data máxima vênia ao entendimento esposado pelo Exmo. Sr. Ministro Relator, a agravante apresentou de forma específica e fundamentada as razões de inconformismo em relação ao v. acórdão, atacando devidamente todos os fundamentos que embasaram o referido decisum.
+4. Nesse sentido, ao contrário do sustentado por esse Exmo. Relator, é flagrante a violação aos artigos. 507 e 509, §4º do CPC, não havendo como se falar em revisão de matéria fática.
+(..) 6. Ocorre que a CEDAE demonstrou não apenas que a sentença de mérito determinou a devolução na forma simples, mas também o fato de que a própria Câmara cível corrigiu o erro material da decisão anterior a fim de que fosse confirmada a devolução na forma simples.
+7. Desta forma, consoante exposto nas razões de Agravo, há preclusão no presente caso, de modo que não há como se reformar decisão anterior do processo, em fase de liquidação.
+8. Ademais, ressalte-se que a CEDAE foi a única parte que interpôs Recurso Especial face à decisão, sendo certo que no referido Recurso não consta afastamento da devolução em dobro justamente pelo fato de que a mesma já havia sido afastada pelo acórdão que corrigiu o erro material.
+Requer a reconsideração do decisum ou a submissão do feito à Turma.
+Impugnação às fls. 293-299, e-STJ.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CORREÇÃO DE ERRO MATERIAL. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Com efeito, o Tribunal de origem estabeleceu as seguintes premissas fático-probatórias: a) "como bem analisou a decisão recorrida, a frase estava equivocada porque o julgado singular (sentença) não havia determinado a devolução em dobro, mas a devolução simples"; b) "como bem analisado pelo julgador monocrático, a intenção em corrigir o erro material era apenas esclarecer que a sentença não havia determinado a devolução em dobro; c) "porém, entendo que o texto "que deve dar-se de forma simples" causa a falsa impressão de que o correto é que a devolução se dê da forma simples, contudo, esta não foi a intenção desta E. Câmara."; e, d) "esta E. Câmara, ao acolher os Embargos de Declaração, corrigiu erro material apenas para esclarecer que a sentença não havia determinado a devolução em dobro, contudo, a dobra fora concedida por esta E. Câmara quando do julgamento do acórdão de fls. 513/517".
+2. Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto esgrimido, passa pela revisitação ao acervo fático-probatório, vedada em Recurso Especial, consoante a Súmula 7 do Superior Tribunal de Justiça.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 30.9.2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado.
+Conforme já disposto no decisum combatido, o Tribunal de origem lançou os seguintes fundamentos no enfrentamento da matéria (fls. 40-41, e-STJ):
+Quanto a eventual interpretação dos julgados supra, a decisão recorrida, como precisão cirúrgica, bem analisou a questão, senão vejamos:
+1. o acórdão da apelação modificou a sentença para condenar a ré na devolução em dobro dos valores cobrados com a indevida cobrança por números de economias.
+2. o acórdão dos embargos de declaração (fls. 551/553), reformou, de forma parcial, aquele que julgou as apelações (fls. 513/517) apenas para determinar que o vencido arcasse com a integralidade dos ônus sucumbenciais, fixados os honorários advocatícios em 10% do valor corrigido da causa.
+3. o acórdão de fls. 551/553, corrigiu erro material do acórdão de fls. 513/517, apenas para determinar "o expurgo do terceiro parágrafo de fl.515".
+4. o mencionado terceiro parágrafo de fls. 515 traz o seguinte: "Desse modo, correto o julgado singular ao determinar a devolução do valor cobrado a maior, em dobro."
+5. Como bem analisou a decisão recorrida, a frase estava equivocada porque o julgado singular (sentença) não havia determinado a devolução em dobro, mas a devolução simples.
+6. Ocorre que, no acórdão que acolheu os embargos de declaração opostos pelo exequente, constou:
+"Corrige-se, outrossim, o erro material do julgado para expurgo do terceiro parágrafo de fls. 515, no que toca a devolução do valor cobrado a maior que deve dar-se de forma simples."
+7. Como bem analisado pelo julgador monocrático, a intenção em corrigir o erro material era apenas esclarecer que a sentença não havia determinado a devolução em dobro.
+8. Porém, entendo que o texto "que deve dar-se de forma simples" causa a falsa impressão de que o correto é que a devolução se dê da forma simples, contudo, esta não foi a intenção desta E. Câmara.
+Feitas as considerações acima, resta incensurável a decisão recorrida nesse ponto, razão pela qual é de se negar provimento ao presente recurso.
+No julgamento dos Embargos de declaração, o Tribunal a quo consignou ainda (fl. 98, e-STJ):
+Assim, diferentemente do alegado pela Embargante, esta E. Câmara, ao acolher os Embargos de Declaração, corrigiu erro material apenas para esclarecer que a sentença não havia determinado a devolução em dobro, contudo, a dobra fora concedida por esta E. Câmara quando do julgamento do acórdão de fls. 513/517.
+Com efeito, a Corte de origem estabeleceu as seguintes premissas fático-probatórias: a) "como bem analisou a decisão recorrida, a frase estava equivocada porque o julgado singular (sentença) não havia determinado a devolução em dobro, mas a devolução simples"; b) "como bem analisado pelo julgador monocrático, a intenção em corrigir o erro material era apenas esclarecer que a sentença não havia determinado a devolução em dobro; c) "porém, entendo que o texto "que deve dar-se de forma simples" causa a falsa impressão de que o correto é que a devolução se dê da forma simples, contudo, esta não foi a intenção desta E. Câmara."; e, d) "esta E. Câmara, ao acolher os Embargos de Declaração, corrigiu erro material apenas para esclarecer que a sentença não havia determinado a devolução em dobro, contudo, a dobra fora concedida por esta E. Câmara quando do julgamento do acórdão de fls. 513/517".
+Observa-se que o órgão julgador decidiu a questão após percuciente análise dos fatos e das provas relacionados à causa, sendo certo asseverar que, na moldura delineada, infirmar o entendimento assentado no aresto esgrimido, passa pela revisitação ao acervo fático-probatório, vedada em Recurso Especial, consoante a Súmula 7 do Superior Tribunal de Justiça.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
