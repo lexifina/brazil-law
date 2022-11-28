@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva.
+RELATÓRIO
+Trata-se de agravo interposto por FÁBIO DOS SANTOS CASTELO BRANCO contra a decisão da Presidência desta Corte Superior de fls. 124-125 (e-STJ), fundada na aplicação das Súmulas 284/STF e 115/STJ- não conhecimento do recurso.
+O apelo especial foi deduzido com base nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça do Rio de Janeiro assim ementado (e-STJ, fl. 43):
+AGRAVO INTERNO INTERPOSTO CONTRA PRONUNCIAMENTO MONOCRÁTICO DESTE RELATOR ASSIM EMENTADO:"AGRAVO DE INSTRUMENTO. RELAÇÃO DE CONSUMO. AÇÃO DE BUSCA E APREENSÃO. PEDIDO DE GRATUIDADE DE JUSTIÇA FORMULADO PELO RÉU. INDEFERIMENTO DA BENESSE. INCONFORMISMO. A AFIRMAÇÃO DE POBREZA GOZA DE PRESUNÇÃO RELATIVA DE VERACIDADE. APLICAÇÃO DA SÚMULA Nº39 DESTE TRIBUNAL DE JUSTIÇA. VALOR DAS PRESTAÇÕES ASSUMIDAS PELO AGRAVANTE NÃO CONDIZ COM A CONDIÇÃO DE JURIDICAMENTE NECESSITADO. ORIENTAÇÃO DA SÚMULA Nº 288 DESTA CORTE DE JUSTIÇA. MANUTENÇÃO DO DECISUM QUE SE IMPÕE. RECURSO A QUE SE NEGA PROVIMENTO."RENOVAÇÃO DOS ARGUMENTOS ANTES EXPENDIDOS. AUSÊNCIA DE FUNDAMENTO CAPAZ DE ENSEJAR A MODIFICAÇÃO DO JULGADO. MANUTENÇÃO DO JULGADO. RECURSO A QUE SE NEGA PROVIMENTO.
+No recurso especial, o insurgente apontou, além de divergência jurisprudencial, existência de violação a dispositivo de lei federal.
+Esclareceu que se opôs ao acórdão que lhe negou o direito à gratuidade de justiça, embora tenha feito o pedido nesse sentido. Arguiu que demonstrou plenamente sua hipossuficiência, a reforçar o cabimento da benesse processual. Pontuou que asdeclarações de pobreza e isenção do imposto de renda comprovariam sua miserabilidade, justificando a necessidade de deferimento da assistência judiciária gratuita. Requereu o provimento do recurso especial(e-STJ, fls. 54-68).
+Obstado seguimento ao recurso especial, foi protocolado agravo em recurso especial, o qual foi apreciado pela Presidência desta Corte Superior, conforme decisão de fls. 124-125 (e-STJ), negando-se conhecimento ao agravo.
+No julgamento deste imbróglio, foi decidido pelo não conhecimento do recurso. Justificou-se não haver sido juntada a correta cadeia de procuraçõese/ou substabelecimento conferindo poderes ao Dr. Daniel de Oliveira Braga, subscritor do agravo em recurso especial - aplicando-se a Súmula 115/STJ.
+Além disso, firmou-se a incidência da Súmula 284/STF, em virtude da carência de especificação do dispositivo de lei federal vulnerado.
+Neste agravo interno, o insurgente reforça a argumentação constante na petição de recurso especial. Reafirma a prova de sua condição financeira precária, a evidenciar a viabilidade da concessão da gratuidade de justiça, conforme os arts.5º, LV eXXXV, da CF/1988, e4º da Lei n.1.060/1950. Pugna pelo provimento do recurso (e-STJ, fls. 127-134).
+Contraminuta não apresentada (e-STJ, fl. 138).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO PROFERIDA NO JULGAMENTO DO AGRAVO EM RECURSO ESPECIAL INEXISTÊNCIA DE RESPEITO AO PRINCÍPIO DA DIALETICIDADE RECURSAL. APLICAÇÃO DOS ARTS.ART. 932, III, E1.021, § 1º, DO CPC.AGRAVO INTERNO DESPROVIDO.
+1. O insurgente se limitou a reforçar as teses lançadas na petição de recurso especial, no sentido da demonstração de sua hipossuficiência, a ensejar a necessidade de deferimento do benefício da gratuidade de justiça. Logo, em momento algum a parte questionaos fundamentos lançados na decisão ora agravada, defeito processual que atrai o teor do arts. 932, III, e 1.021, § 1º, do CPC, em razão do desrespeito ao princípio da dialeticidade recursal.
+2. Agravo interno desprovido.
+VOTO
+Não há razões para o provimento do agravo interno.
+Mediante análise dos autos, verifica-se que este recurso internonão atacou plenamente os fundamentos da decisão recorrida. Destarte, a Presidência desta Corte Superior justificou o não conhecimento do agravo em recurso especial por aplicação daSúmula115/STJ (carência de completa cadeira de procurações e/ou substabelecimentos) e por falta de indicação do dispositivo de lei federal que teria sido objeto de ofensa no julgamento da segunda instância, atraindoa aplicação da Súmula 284/STF.
+Entretanto, o ora demandante se limitou a reforçar as teses lançadas na petição de recursal especial, no sentido da demonstração de sua hipossuficiência, a ensejar a necessidade de deferimento do benefício da gratuidade de justiça.
+Com efeito, em momento algum a parte questiona os fundamentos lançados na decisão ora agravada, defeito processual que suscita o teor do arts.932, III, e 1.021, § 1º, do CPC, em razão do desrespeito ao princípio da dialeticidade recursal.
+A propósito, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DA PRESIDÊNCIA DESTA CORTE SUPERIOR. PREPARO. SÚMULA 187/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA NAS RAZÕES RECURSAIS. NÃO OBSERVÂNCIA DO PRINCÍPIO DA DIALETICIDADE. ART. 1.021, § 1º, DO CPC E ART. 259, § 2º, DO RISTJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. Nas razões do agravo interno a recorrente não impugnou especificamente os fundamentos da decisão da Presidência desta Corte Superior, qual sejam, a ausência de comprovação do benefício da gratuidade de justiça e a consequente aplicação da Súmula 187/STJ.
+2. O artigo 1.021, § 1º, do CPC/2015 e o art. 259, § 2º, do RISTJ determinam que, na petição de agravo interno, o recorrente impugnará especificamente os fundamentos da decisão agravada, o que não foi observado no presente caso.
+3. Ressalte-se que o princípio da dialeticidade impõe à parte recorrente, sob pena do não conhecimento do seu recurso, o ônus de explicitar os motivos específicos pelos quais a decisão atacada deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, sendo insuficiente tecer alegações genéricas de não aplicabilidade dos óbices invocados ou repetir o teor do apelo nobre.
+4. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.813.746/MS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 13/6/2022, DJe de 17/6/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA JULGADA IMPROCEDENTE. DECISÃO QUE INDEFERE O PEDIDO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA 7/STJ.
+1. Agravo Interno interposto contra decisão da Presidência do Superior Tribunal de Justiça que indeferiu o pedido de atribuição de efeito suspensivo ao Recurso Especial, entre outros fundamentos, porque, "não obstante a alegação de riscos de ocorrência de atos de execução do julgado, tal argumentação não se mostra suficiente para a configuração de risco de dano jurídico irreversível (RCD na AR n. 5.879/SE, de minha relatoria, Primeira Seção, DJe de 8/11/2016)".
+2. De fato, nos termos da jurisprudência desta Corte Superior, "a alegação da ocorrência de atos de execução do julgado, por si só, não é suficiente para a configuração de risco de dano jurídico irreversível" (RCD na AR 5.879/SE, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe 8.11.2016) 3. A parte agravante não impugnou esse fundamento de forma específica, limitando-se a transcrever as razões do pedido inicial.
+A ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo Interno não conhecido.
+(AgInt no REsp n. 1.972.740/PB, relator Ministro Herman Benjamin, Segunda Turma, julgado em 21/3/2022, DJe de 25/3/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela oposição de embargos de declaração manifestamente inadmissíveis ou protelatórios a este acórdão, ensejará a imposição da multa prevista no art. 1.026, § 2º, do CPC.
+É o voto.
