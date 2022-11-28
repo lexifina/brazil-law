@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Trata-se de agravo interno manejado por JOSE AMANCIO DA SILVA, desafiando decisão de fls. 266/2685, que negou provimento ao agravo em recurso especial, pelos seguintes fundamentos: (I) não ocorreu ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, (II) no apelo nobre, descabe alegação de afronta a princípios ou dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal, (III) incidência da Súmula284/STF, em razão a deficiência de fundamentação .
+A parte agravante, em suas razões, afirma ser "inaplicável no caso dos autos a Súmula 284/STF, pois que a infringência ao dispositivo legal apontado como violado foi demonstrada de forma muito clara, muito embora o Relator não tenha levado esses argumentos em consideração" (fl. 281).
+Afirma que, "o Relator ignorou os argumentos da parte, afrontou o disposto no art. 10 do Código de Processo Civil, pois adotou um método de julgamento cujo resultado é a negativa de seguimento ao recurso, invariavelmente" (fl. 276)
+Devidamente intimada, a parte recorrida não impugnou, conforme certidão de fl. 287.
+É o relatório
+EMENTA
+PREVIDENCIÁRIO. PROCESSUAL CIVIL.VIOLAÇÃO AO ART. 1.022 DO CPC. INEXISTÊNCIA. MERA INDICAÇÃO DE DISPOSITIVOS DE LEI. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA284/STF.
+1. Não se verifica ofensa ao art. 1.022 do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos.
+2. Nos termos da jurisprudência pacífica deste Tribunal,a mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, constitui deficiência na fundamentação recursal que atrai a incidência, por simetria, do disposto na Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia")
+3. Agravo interno a que se nega provimento.
+VOTO
+O SENHOR MINISTRO SÉRGIO KUKINA (RELATOR): A irresignação não mereceacolhimento, tendo em conta que a parte agravante não logrou desenvolverargumentação apta a desconstituir os fundamentos adotados pela decisãorecorrida.
+Conforme assinalado na decisão hostilizada,verifica-se, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Se outro lado, como antes afirmado, a mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial; deve a parte recorrente demonstrar os motivos de sua insurgência. A deficiência na fundamentação recursal inviabiliza a abertura da instância especial e atrai a incidência, por simetria, do disposto na Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+Em verdade, a parte recorrente cingiu-se a externar seu descontentamento com o decidido, sem explicitar objetivamente, de que forma o acórdão recorrido teria violado a legislação federal, assim,descabe falar em omissão relativa à fundamentação adotada pela Turma Julgadora, e sequer violação do art. 10º do CPC, porquanto o fundamento invocado no acórdão guardou estrita correlação com os limites da lide.
+Em reforço, anote-se o seguinte julgado:
+PROCESSUAL CIVIL EPREVIDENCIÁRIO.AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA ESPECIAL.VIOLAÇÃO AOARTIGO489 DO CPC/2015. NÃO OCORRÊNCIA. OFENSA AOARTIGO5º DO CPC/2015. SÚMULA 283/STF. REEXAME DE PROVAS EM RECURSO EXTRAORDINÁRIO. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL. SÚMULA 284/STF. EFEITO DEVOLUTIVO DA APELAÇÃO. ART. 1.013, § 1º DOCPC.AUSÊNCIA DE NULIDADE. DIREITO INTERTEMPORAL E LEGISLAÇÃO APLICÁVEL À ESPÉCIE.EMBARGOS INFRINGENTES. SESSÃO DE JULGAMENTO E INTIMAÇÃO DO ACÓRDÃO. ATOS PROCESSUAIS DISTINTOS E DOTADOS DE AUTONOMIA. INCIDÊNCIA DA TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS. SESSÃO DE JULGAMENTO. ATO ENCERRADO COM A PROCLAMAÇÃO DO RESULTADO. DEFINIÇÃO DE DISTINTO MARCO TEMPORAL. INCIDÊNCIA DA LEI ANTIGA. POSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Na linha da jurisprudência desta Corte, não há falar emnegativade prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+2. É inadmissível o recurso especial quando o acórdão recorrido assenta em mais de um fundamento suficiente e o recurso não abrange todos eles, bem como quando deficiente afundamentaçãorecursal (Súmula 283 e 284 do STF, por analogia).
+3. "É inadmissível o recurso extraordinário, quando a deficiência na suafundamentaçãonão permitir a exata compreensão da controvérsia" (Súmula 284/STF, por analogia).
+4.(..).
+5. Quanto à questão de direito intertemporal, no caso dos autos, o ato processual sub judice é a sessão de julgamento do órgão colegiado de origem, a qual, embora tenha sido realizado sob a vigência do Código de Processo Civil revogado, teve seu acórdão publicado somente sob a égide do Novo Diploma Processual de 2015.
+Desta feita, levando-se em consideração a teoria dos atos isolados, haverá excepcional ultratividade do CPC/1973, devendo ser concedida à parte a possibilidade de interposição de embargos infringentes, atendidos todos os demais requisitos legais cabíveis.
+6. Agravo interno não provido.
+(AgIntno REsp 1.851.449/RN, Rel. Min. MAURO CAMPBELL MAQUES, DJe de 11/03/2021)
+Assim, escorreita, pois, a decisão agravada que fez incidir a Súmula 284/STF.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto
