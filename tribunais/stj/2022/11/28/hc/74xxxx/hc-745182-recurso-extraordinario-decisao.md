@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto peloMINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA, com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão do Superior Tribunal de Justiça assim ementado (fl. 62):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. RECOLHIMENTO DOMICILIAR NOTURNO. DETRAÇÃO. POSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Consolidou-se na Quinta Turma deste Tribunal entendimento no sentido de que, a despeito da inexistência de previsão legal para a detração penal na hipótese de submissão do sentenciado a medidas cautelares diversas da prisão, o período de recolhimento domiciliar noturno, por ensejar a privação de liberdade do apenado, deve ser detraído da pena, em observância aos princípios da proporcionalidade e do non bis in idem" (AgRg no HC 612.328/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 15/3/2021).
+2. Agravo regimental desprovido.
+O recorrente sustenta a violação dos arts. 2º e 5º, caput, II e XLVI, da CF e aduz que há repercussão geral da matéria tratada.
+Alega que "o reconhecimento de detração do período de cumprimento de medidas cautelares diversas da prisão também implica maltrato aos princípios constitucionais da igualdade (art. 5º, caput, da CF) e da individualização da pena (art. 5º, XLVI, da CF)" (fl. 83).
+Prossegue afirmando que (fl. 86):
+ ..  considerando que a medida cautelar alternativa constitui restrição aplicada a fim de garantir a liberdade do acusado, em homenagem ao princípio da proporcionalidade, sob o viés da adequação e da proibição da proteção insuficiente, irrefragável a ausência de razões aptas a justificarem o abatimento da reprimenda privativa de liberdade.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram apresentadas contrarrazões (fl. 93).
+É o relatório.
+Verifica-se que a controvérsia cinge-se à questão do cômputo do período de cumprimento de medida cautelar de recolhimento domiciliar noturno para detração pena, estando o acórdão recorrido assim fundamentado (fls. 64-66):
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+O acórdão atacado assentou:
+"Ao compulsar o processo de conhecimento (0005914-73.2018.8.24.0033),verifica-se que o agravante foi preso em flagrante em 24.05.2018, a qual foi convertida em preventiva (Evento 10).
+Em 06.09.2018, foi concedida liberdade provisória cumulada com medidas cautelares diversas, nos seguintes termos (Evento 94):  ..
+Tal situação, de fato, perdurou até 06.06.2021, quando foi cumprido mandado de prisão para cumprimento da pena imposta (evento 204).
+Nesse contexto, não se descuida do entendimento adotado pelo Superior Tribunal de Justiça de que é possível considerar para fins de detração o período em que o apenado permaneceu provisoriamente recolhido em prisão domiciliar, com monitoramento eletrônico, equiparando tal medida à manutenção do apenado em cárcere no regime semiaberto.
+Nessa linha (HC 455.097/PR, Rel. Ministra Laurita Vaz, Terceira Seção, julgado em 14/04/2021, DJe 07/06/2021):
+ ..
+Apesar disso, com a devida vênia, entende-se que o art. 42 do Código Penal é expresso e limitou a possibilidade de detração da pena aos casos em que o condenado tenha sido preso provisoriamente. Em seus termos: "Computam-se, na pena privativa de liberdade e na medida de segurança, o tempo de prisão provisória, no Brasil ou no estrangeiro, o de prisão administrativa e o de internação em qualquer dos estabelecimentos referidos no artigo anterior".
+Essa é a mesma leitura que se extrai do art. 387, § 2º, do Código de Processo Penal, que, sobre a detração ainda no processo de conhecimento, dispõe: "O tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, será computado para fins de determinação do regime inicial de pena privativa de liberdade".
+Ressalta-se que esse último dispositivo foi incluído no Código de Processo Penal pela Lei 12.736/2012, cuja edição foi posterior à da Lei 12.403/2011, que inseriu o rol de medidas cautelares diversas (art. 319 do Código de Processo Penal).
+Logo, é evidente que, se o legislador almejasse que estas, assim como a prisão preventiva, fossem contabilizadas para fins de detração, teria sido expresso nesse sentido. Ou seja, não foi em vão a especificação legal feita no sentido de que somente pode ser contabilizada para análise do instituto o "tempo de prisãoprovisória". Por isso, a interpretação do art. 42 do Código Penal deve ser literal.
+Noutro aspecto, é bem verdade que é possível aduzir que o recolhido provisoriamente em regime semiaberto permanece o mesmo tempo sob a fiscalização estatal do que aquele a quem é imposta a medida de recolhimento domiciliar noturno. A limitação da liberdade, em extensão temporal, é idêntica, de fato.
+Sob outro ângulo, no entanto, o grau de tolhimento à liberdade daquele que se recolhe à unidade prisional é inegavelmente superior àquele que cumpre a medida cautelar diversa. Assim, comparadas as duas hipóteses, a limitação à liberdade, em grau de intensidade, pela própria diferença na forma de confinamento no período noturno (unidade prisional e residência), não pode ser reputada como equivalente.
+E seguindo o raciocínio, se no último aspecto - intensidade da restrição da liberdade - não pode o recolhimento domiciliar noturno ser equiparado ao regime semiaberto, principalmente quando desacompanhado de monitoramento eletrônico, evidentemente não pode ele ser considerado, seja mediante o uso de analogia ou de interpretação analógica ou extensiva, para fins de detração da pena privativa de liberdade aplicada."(fls. 12/16)
+Extrai-se do trechos acima que o entendimento do Tribunal de origem está em desacordo com a jurisprudência desta Corte Superior, porquanto,"consolidou-se na Quinta Turma deste Tribunal entendimento no sentido de que, a despeito da inexistência de previsão legal para a detração penal na hipótese de submissão do sentenciado a medidas cautelares diversas da prisão, o período de recolhimento domiciliar noturno, por ensejar a privação de liberdade do apenado, deve ser detraído da pena, em observância aos princípios da proporcionalidade e do non bis in idem"(AgRg no HC 612.328/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe de 15/3/2021).
+Desse modo, a análise da matéria ventilada depende do exame doart. 42 do Código Penal, motivo pelo qual eventual ofensa à Constituição da República, se houvesse, seria reflexa ou indireta, não legitimando a interposição do recurso.
+Em casos semelhantes, assim já decidiu a Suprema Corte: ARE n. 1.398.225/SC, relator Ministro Dias Toffoli, DJe de 26/9/2022; RE n. 1.397.473/SC, relator Ministro Dias Toffoli, DJe de 12/9/2022; ARE n. 1.381.007/SC, relator Ministro Luiz Fux, DJe de 22/9/2022.
+Ante o exposto, com fundamento no art. 1.030, V, do Código de Processo Civil, não admito o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PENAL E PROCESSUAL PENAL. DETRAÇÃO. RECOLHIMENTO DOMICILIAR NOTURNO. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
