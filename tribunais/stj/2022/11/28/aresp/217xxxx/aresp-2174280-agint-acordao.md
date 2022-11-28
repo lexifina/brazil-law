@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão monocrática, da lavrada da presidência deste Superior Tribunal de Justiça, da qual retiro o seguinte excerto:
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: não cabimento do REsp quando a tese recursal é eminentemente constitucional e ausência de prequestionamento. Entretanto, a parte agravante deixou de impugnar especificamente: não cabimento do REsp quando a tese recursal é eminentemente constitucional.
+No presente recurso, sustenta-se, que, além de ter o ente público impugnado todos os fundamentos da decisão que negou seguimento ao seu recurso na origem, a falta de combate à inadmissão de recurso por questão constitucional, nos termos da jurisprudência desta Corte Superior, não acarreta violação ao princípio da dialeticidade.
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO QUE NÃO ATACA, ESPECIFICAMENTE, FUNDAMENTO DA DECISÃO AGRAVADA. ARTIGO 932, III, 3ª PARTE, DO CPC/2015.
+1. O agravo em recurso especial não pode ser conhecido, pois a parte agravante não cuidou de impugnar, em bases concretas e específicas, bastante fundamento da decisão agravada.
+2. Dispõe o Código de Processo Civil de 2015 que não deve ser conhecido o recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, 3ª parte).
+3. Agravo interno não provido.
+VOTO
+O agravo interno não merece lograr êxito.
+Dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, deu a solução que melhor espelha a orientação jurisprudencial do STJ sobre a matéria.
+O agravo em recurso especial não pode ser conhecido, pois a parte não cuidou de impugnar, em bases concretas e específicas, o bastante fundamento impresso ao julgado de "não cabimento do REsp quando a tese recursal é eminentemente constitucional".
+Dispõe o Código de Processo Civil de 2015 que não deve ser conhecido o recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, 3ª parte).
+Bem assim, deve ser observada a Súmula nº 182/STJ que dispõe: "É inviável o agravo do art. 545 do CPC 1973  que deixa de atacar especificamente os fundamentos da decisão agravada".
+No escólio de Nelson Nery Júnior:
+As razões do recurso são elemento indispensável a que o tribunal, para o qual se dirige, possa julgar o mérito do recurso, ponderando-as em confronto com os motivos da decisão recorrida. A sua falta acarreta o não conhecimento. Tendo em vista que o recurso visa, precipuamente, modificar ou anular a decisão considerada injusta ou ilegal, é necessária a apresentação das razões pelas quais se aponta a ilegalidade ou injustiça da referida decisão judicial. Sem as razões seria impossível formar-se o contraditório, pois o recorrido não saberia o que rebater; nem seria viável, ainda, delinear-se o âmbito de devolutividade do recurso, já que o efeito devolutivo tem a aptidão para devolver ao reconhecimento do tribunal somente a matéria impugnada (in: Teoria Geral dos Recursos - Princípios Fundamentais. Revista dos Tribunais, 4ª ed., fls. 148/149).
+Era imperativo no caso que a parte demonstrasse a viabilidade de seu recurso, argumentando, com base no que já julgado nos autos e o que por ela exposto no apelo nobre, a (a) prescindibilidade do exame de matéria constitucional (competente a Corte Excelsa para esse desiderato), a (b) ausência no acórdão da origem de matéria decidida com fundamento constitucional suficiente para mantê-lo (cf. Súmulas nº 126/STJ e 283/STF), o que não foi feito.
+Na espécie, foi expresso no juízo preliminar de admissibilidade que
+não cabe em sede do especial, o exame de suposta afronta ao art. 6º da LINDB, dada a natureza eminentemente constitucional do dispositivo, que apesar de encontrar-se previsto em diploma infraconstitucional, dispõe sobre questões relacionadas à violação de direito adquirido, coisa julgada e ato jurídico perfeito.
+O decidido está em harmonia com a orientação desta Corte Superior:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. MANDADO DE SEGURANÇA. IRPJ E CSLL. COMPENSAÇÃO TRIBUTÁRIA. INCIDÊNCIA DA LEI DE REGÊNCIA VIGENTE À DATA DO ENCONTRO DE CONTAS. PRECEDENTES. ART. 6º DA LINDB. MATÉRIA DE CUNHO CONSTITUCIONAL. COMPETÊNCIA DO STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. Tendo o recurso sido interposto contra decisão publicada na vigência do Código de Processo Civil de 2015, devem ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+2. A jurisprudência do STJ é no sentido de que a norma que trata de compensação tributária é a da lei em vigor ao tempo do encontro de contas, e não a então vigente à época do pagamento. Orientação firmada em precedente formado em julgamento de recurso repetitivo REsp n. 1.164.452/MG. Precedentes.
+3. Quanto ao art. 6º das LINDB, inviável a abertura da via especial, a fim de alegar violação de norma que reproduz conteúdo eminentemente constitucional, sob pena de supressão de competência do próprio STF, ainda que seja a título de prequestionamento objetivando a interposição de recurso extraordinário.
+4.Prejudicada a análise de divergência jurisprudencial quanto à matéria a respeito da qual a tese sustentada foi afastada no exame do recurso especial pela alínea a do permissivo constitucional ou sobre a qual houve a aplicação de óbice sumular.
+5.Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.986.324/SP, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 29/8/2022, DJe de 1/9/2022.)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. REFIS. PARCELAMENTO DE DÉBITO FISCAL. TESE DE OMISSÃO NÃO CONHECIDA. SÚMULA 284/STF. VIOLAÇÃO DO ART. 6º DA LINDB. FUNDAMENTO CONSTITUCIONAL. COMPETÊNCIA EXCLUSIVA DO STF. NORMATIVA DISTRITAL. SÚMULA 280/STF. AVALIAÇÃO DE JULGAMENTO EXTRA PETITA. SÚMULA 7/STJ.
+1. Não se pode conhecer da alegada violação dos arts. 11, 489, § 1º, e 1.022 do CPC/2015 contida no apelo nobre devido à aplicação da Súmula 284/STF.
+2. Primeiramente, por falta da expressa indicação do inciso que serve de supedâneo à tese do recorrente, tendo em vista que o caput do art. 1.022 e o § 1º do art. 489 do CPC/2015 carecem de complemento normativo, não sendo suficiente a indicação de omissão, obscuridade, contradição ou erro material.
+3. Ademais, o Recurso Especial limita-se a alegar a inexistência de fundamentação adequada, porém sem individualizar o ponto do acórdão carente de complementação argumentativa ou indicar o ponto omisso de forma clara e objetiva, remanescendo o mero apontamento genérico de vícios no acórdão.
+4. "Por fim, segundo entendimento desta Corte, é inviável o conhecimento do Recurso Especial por violação do art. 6º da LINDB, uma vez que os princípios contidos na Lei de Introdução ao Direito Brasileiro - direito adquirido, ato jurídico perfeito e coisa julgada -, apesar de previstos em norma infraconstitucional, são institutos de natureza eminentemente constitucional (art. 5º, XXXVI, da CF/1988)" (AgInt no REsp 1.824.890/CE, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 10.9.2020, grifou-se).
+5. Ainda que se superasse o referido óbice, vê-se que a Corte de origem decidiu a questão com base em interpretação da Lei Complementar Distrital 943/2018. Aplicável, por analogia, a Súmula 280/STF, segundo a qual por ofensa a direito local não cabe Recurso Extraordinário, ensejando o não conhecimento do Recurso Especial.
+Precedentes do STJ.
+6. Por derradeiro, o Tribunal original, em análise do contexto fático-probatório, afastou o reconhecimento de julgamento extra petita (fls. 388-389, e-STJ).
+7. O STJ firmou entendimento no sentido de que não ocorre julgamento extra petita se o Tribunal local decide questão que é reflexo do pedido na exordial. O pleito inicial deve ser interpretado em consonância com a pretensão deduzida na exordial como um todo, sendo certo que o acolhimento do objetivo extraído da interpretação lógico-sistemática da peça inicial não implica julgamento extra petita (AgRg no AREsp 322.510/BA, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 25.6.2013).
+8. Nessa toada, "a revisão da conclusão a que chegou o acórdão recorrido sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial.
+Incide ao caso a Súmula 7/STJ. Nesse sentido: AgInt no REsp 1.628.455/ES, Rel. Min. Francisco Falcão, Segunda Turma, DJe 12/3/2018; AgInt no REsp 1.563.621/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 3/8/2018; REsp 1.485.514/DF, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 24/10/2018; AgInt nos EDcl no REsp 1.546.432/SC, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 10/4/2018; AgRg no REsp 1.450.470/ES, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 28/10/2014." (AgInt no REsp 1.872.310/PR, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 8.10.2021).
+9. Agravo Interno não provido.
+(AgInt no REsp n. 1.979.238/DF, relator Ministro Herman Benjamin, Segunda Turma, julgado em 13/6/2022, DJe de 23/6/2022.)
+Nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
