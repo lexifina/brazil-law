@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão que não conhecedo recurso especial oposto contra acordão proferido peloTribunal deJustiça doEstado doAmazonas, assim ementado:
+APELAÇÃO CÍVEL. SERVIDOR CONTRATADO PARA PRESTAR SERVIÇO TEMPORÁRIO DE EXCEPCIONAL INTERESSE PÚBLICO. NULIDADE DA CONTRATAÇÃO. DIREITO AO DEPÓSITO DE FGTS. NÃO OCORRÊNCIA DE PRESCRIÇÃO. RECURSO CONHECIDO E PROVIDO. SENTENÇA REFORMADA.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial."
+No agravo interno, a parte recorrente traz, resumidamente, os seguintes argumentos:
+Data máxima vênia, houve um equívoco nesta fundamentação porquanto: A um, a súmula diz claramente que o caso de aplica à Recurso interposto com fulcro na alínea c do permissivo constitucional (divergência jurisprudencial), mas o presente recurso foi interposto com fulcro unicamente na alínea a. Ante a tais fatos, nem em tese é possível aplicar essa súmula para indeferir o recurso porquanto ele jamais suscitou divergência jurisprudencial como fundamento para cassação, mas se limitou a argüir a negativa de vigência do art. 1º do Decreto-lei20.910/32. A dois, ainda que fosse aplicável ao caso, não incidiria na espécie porquanto a matéria está longe de ser pacificada no âmbito deste egrégio STJ. Senão vejamos novamente o precedente já citado no tópico IV desta petição. Razão pela qual, não é caso de aplicação desta súmula para inadmitir o Recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. EMPREGADO PÚBLICO TEMPORÁRIO. ADMISSÃO. PERMANÊNCIA. DESPEDIDA.DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 83/STJ.
+I - Na origem, trata-se de ação declaratória de nulidade c/c cobrança de FGTScontra o Estado do Amazonasobjetivando o percebimento de parcelas de FGTS. Na sentença o pedido foi julgado improcedente. No Tribunala quo, a sentença foi reformada reconhecendo o direito à percepção da apelante das verbas de FGTS no período não prescrito.
+II - A partir do julgamento do ARE n. 709.212/DF, proferido pelo Supremo Tribunal Federal, em repercussão geral, assentou-se que não é trintenário, mas quinquenal, o prazo prescricional para a cobrança de valores não depositados do FGTS. Entretanto, ali foi definido: "Para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de 5 anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão."
+III - Na hipótese, considerando que a presente ação foi proposta em 2015, é certo que não há prescrição a ser declarada na hipótese, já que não ultrapassados 30 anos contados do termo inicial ou 5 anos a partir da decisão do STF (o que somente ocorreria em 13/11/2019).
+IV - Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+V - Agravo interno improvido.
+VOTO
+O agravo interno não merece provimento.
+A parte agravante repisa os mesmos argumentos já analisados na decisão recorrida.
+A partir do julgamento do ARE n. 709.212/DF, proferido pelo Supremo Tribunal Federal, em repercussão geral, assentou-se que não é trintenário, mas quinquenal, o prazo prescricional para a cobrança de valores não depositados do FGTS. Entretanto, ali foi definido: "Para aqueles cujo termo inicial da prescrição ocorra após a data do presente julgamento, aplica-se, desde logo, o prazo de 5 anos. Por outro lado, para os casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desta decisão."
+Na hipótese, considerando que a presente ação foi proposta em 2015, é certo que não há prescrição a ser declarada na hipótese, já que não ultrapassados 30 anos contados do termo inicial ou 5 anos a partir da decisão do STF (o que somente ocorreria em 13/11/2019).
+Dessa forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
