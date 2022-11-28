@@ -1,0 +1,108 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+RELATÓRIO
+Trata-se de agravo interno (e-STJ fls. 723/745) interposto contra decisão desta relatoria, que negou provimento a recurso especial(e-STJ fls. 717/720).
+Em suas razões, a parte reitera que "apesar de ter sido concedida a assistência judiciária gratuita ao Agravante no processo principal, e uma vez que a legislação e a jurisprudência garantem a sua extensão aos processos conexos, como é o caso dos Embargos de Terceiro, é certo que, somente se comprovada nos autos a alteração da situação econômica da parte beneficiada, é que se poderia admitir que fosse tal benefício revogado" (e-STJ fl. 728).
+Defende que o benefício deve prevalecer e ser estendido a todos os atos do processo, inclusive aos autos apensos.
+Aduz que a majoração dos honorários sucumbenciais foi desproporcional.
+Ao final, pede a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A parte agravada não apresentou impugnação (e-STJ fl. 757).
+É o relatório.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.JUSTIÇA GRATUITA. INDEFERIMENTO. CONJUNTO FÁTICO-PROBATÓRIO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ.HONORÁRIOSRECURSAIS. ARTIGO 85, § 11, DO CPC/2015.OBSERVÂNCIA DOS LIMITES LEGAIS. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1.O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõeaSúmulan.7 do STJ.
+2.No caso, o Tribunal a quo analisou a questão com base nos elementos fáticos que informaram a demanda, concluindo pela ausência de provas que demonstrem a incapacidade financeira de custear despesas processuais. Desse modo, rever as premissas estabelecidas pelas instâncias ordinárias implicaria reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial, em virtude da Súmula n. 7 do STJ.
+3.Nos termos da jurisprudência desta Corte, é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente:a. decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil;b. recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente;c. condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso.
+4. O entendimento firmado pela Corte Especial deste Tribunal Superior é de que a fixação equitativa de honorários recursais observará o disposto no art. 85, §§ 2º e 3º, do CPC/2015.
+5. Decisão monocrática que observa os parâmetros legais e jurisprudenciais. Incidência da Súmula n. 83 do STJ.
+6.Agravo interno a que se nega provimento.
+VOTO
+A insurgência não merece acolhida.
+A parte não trouxe nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 717/720):
+Trata-se de recurso especial interposto contra acórdão do TJMG assim ementado (e-STJ fl. 435):
+APELAÇÃO CÍVEL. JUSTIÇA GRATUITA. NÃO COMPROVAÇÃO DAS PARCAS CONDIÇÕES ECONÓMICO-FINANCEIRAS DO REQUERENTE. SENTENÇA DE INDEFERIMENTO MANTIDA. I - Para que seja deferida a assistência judiciária gratuita, não basta a simples declaração da parte de que não se encontra em condições econômicas para pagar as custas do processo e os honorários do advogado, sem prejuízo do sustento próprio ou da família. Deve, para tanto, ser comprovada a real necessidade da concessão do benefício, conforme disposição do artigo 5º, inciso LXXVI, da CR/88. lI - Ausente a prova da atual situação financeira do requerente e, revelados, nos autos, elementos consistentes acerca da possibilidade do requerente para arcar com as custas e despesas processuais, sem prejuízo de seu sustento, o indeferimento da benesse da justiça gratuita deve ser mantido.
+Os embargos de declaração foram rejeitados (e-STJ fls. 635/643).
+No recurso especial (e-STJ fls. 646/661), fundamentado no art. 105, III, "a", da CF, o recorrente aponta ofensa aos arts. 9º da Lei n. 1.060/50 e 99 do CPC/2015, sustentando que a gratuidade de justiça deferida nos autos principais se estende aos embargos de terceiro.
+Defende que o benefício da justiça gratuita abrange as causas a ele conexas.
+Reitera o pedido à esta Corte Superior argumentando com a sua hipossuficiência.
+Busca a concessão da gratuidade de justiça para todos os atos processuais, ou, alternativamente, de forma parcial, ou que lhe seja possibilitado o parcelamento das despesas processuais, segundo o art. 98, § 6º, do CPC/2015.
+Contrarrazões apresentadas às fls. 689/698 (e-STJ).
+O recurso foi admitido na origem, nos termos da decisão de fls. 706/709 (e-STJ).
+É o relatório.
+Decido.
+Ao analisar a matéria controvertida, em sede de embargos de declaração, o Tribunal de origem assim entendeu (e-STJ fls. 640/641):
+No caso em apreço, cumpre sanar a omissão cuja existência restou reconhecida pelo C. Superior Tribunal de Justiça, referente necessidade de uma manifestação do Tribunal quanto à alegação de necessidade de manutenção da Justiça Gratuita, deferida no processo principal, nos Embargos de Terceiro, nos termos do art. 90 da Lei n.º 1 .060/50, por se tratarem de processos conexos.
+Para uma melhor análise de tal controvérsia, faz-se mister examinar o artigo debatido, in verbis:
+Art. 91 . Os benefícios da assistência judiciária compreendem todos os atos do processo até decisão final do litígio, em todas as instâncias.
+Ora, da análise do referido artigo, depreende-se que este faz referência ao fato que a justiça gratuita compreende todos os atos do processo, e não todos os processos conexos a este. A análise da concessão do benefício da Justiça Gratuita leva em conta diversos fatores, como a renda aferida pela parte, o valor da causa, e a capacidade da parte de arcar com as custas e com os honorários daquele processo em específico.
+Desse modo, não é possível que se realize aqui uma interpretação ampliativa do conceito de "atos do processo" mencionado no artigo anterior, devendo a parte comprovar, em cada feito particular, que faz jus aos benefícios da gratuidade de justiça.
+Modificar o entendimento do acórdão impugnado quanto à ausência de comprovação da hipossuficiência financeira, nesta hipótese, demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial."
+Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PESSOA JURÍDICA COM FINS LUCRATIVOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. GRATUIDADE DE JUSTIÇA. IMPOSSIBILIDADE DE EXTENSÃO A OUTRAS DEMANDAS. REVISÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido contrário do buscado pela parte.
+2. Nos termos da jurisprudência recente desta Corte, "o benefício da gratuidade de justiça é concedido em cada processo, diante dos documentos e evidências juntados, não sendo de se cogitar de "vinculação" ou "extensão" automática a outros feitos" AgInt nos EDcl na Rcl 39.771/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 29/09/2020, DJe 01/10/2020).
+3. No caso concreto, rever o afastamento da gratuidade da justiça realizado pelo Tribunal de origem implicaria revolvimento do conjunto fático-probatório dos autos. Incidência da Súmula n. 7/STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.954.522/SP, de minha relatoria, QUARTA TURMA, julgado em 28/03/2022, DJe 31/03/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO DE INSTRUMENTO. PEDIDO DE ASSISTÊNCIA JUDICIÁRIA GRATUITA. PESSOA FÍSICA E JURÍDICA. INDEFERIMENTO. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO PROVIDO. RECURSO ESPECIAL NÃO CONHECIDO.
+1. A jurisprudência desta Corte é assente no sentido de que, em se tratando de pessoa natural, a simples declaração de pobreza tem presunção juris tantum, bastando, a princípio, o simples requerimento para que lhe seja concedida a assistência judiciária gratuita. Todavia, o benefício pode ser indeferido quando o magistrado se convencer, com base nos elementos acostados aos autos, de que não se trata de hipótese de miserabilidade jurídica (CPC/2015, art. 99, §§ 2º e 3º).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, a concessão do benefício de gratuidade da justiça a pessoa jurídica somente é possível quando comprovada a precariedade de sua situação financeira, inexistindo, em seu favor, presunção de insuficiência de recursos (CPC/2015, art. 99, § 3º).
+3. O eg. Tribunal a quo não concedeu o benefício de assistência judiciária gratuita, sob o entendimento de que não foram evidenciados os motivos configuradores da hipossuficiência. Nesse contexto, considerando as circunstâncias do caso concreto, tem-se que a pretensão de alterar tal entendimento, a fim de reconhecer a hipossuficiência dos agravantes, demandaria reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 do STJ.
+4. Agravo interno provido para, em nova análise, conhecer do agravo para não conhecer do recurso especial.
+(AgInt no AREsp n. 1.983.350/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/03/2022, DJe 25/04/2022.)
+Ademais, ressalta-se que "o benefício da gratuidade de justiça é concedido em cada processo, diante dos documentos e evidências juntados, não sendo de se cogitar de "vinculação" ou "extensão" automática a outros feitos". (AgInt nos EDcl na Rcl 39.771/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 29/09/2020, DJe 01/10/2020).
+Por fim, indefiro o pedido de justiça gratuita formulado pela agravante na petição de recurso especial. No caso, não houve alteração no quadro fático-probatório delineado na origem e analisado pelo Tribunal estadual.
+Diante do exposto, NEGO PROVIMENTO ao recurso especial.
+O Tribunal de origem, com fundamento no conjunto fático-probatório, entendeu que não há provas que demonstrem a incapacidade financeira do agravante de custear despesas processuais, a despeito da alegadahipossuficiência. Para modificar tal entendimento, seria imprescindível reexaminar o acervo fático-probatório, medida não permitida em recurso especial, conforme a Súmula n. 7 do STJ.
+Conforme consta da decisão agravada, o benefício da justiça gratuita foi indeferido em sede recursal, haja vista que não houve alteração no quadro fático-probatório delineado na origem e analisado pelo Tribunala quo.
+Ademais,ajurisprudência do Superior Tribunal deJustiçaentende que, uma vez concedida a gratuidade dajustiça,tal benesse conserva-se em todas as instâncias e para todos os atos do processo, salvo se expressamente revogada, como é o caso dos autos. No mesmo sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE NEGÓCIO JURÍDICO. VENDA DE IMÓVEL DE ASCENDENTE A DESCENDENTE. 1. CONCESSÃO DE GRATUIDADE DE JUSTIÇA QUE SE ESTENDE A TODOS OS ATOS DO PROCESSO, ENQUANTO NÃO REVOGADA EXPRESSAMENTE. 2. PRAZO DECADENCIAL. PRECEDENTE . 3. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça dispõe no sentido de que, uma vez concedida a gratuidade da justiça, tal benesse conserva-se em todas as instâncias e para todos os atos do processo, salvo se expressamente revogada.
+1.2. A Corte Especial deste Superior Tribunal assenta que se presume "o deferimento do pedido de assistência judiciária gratuita não expressamente indeferido por decisão fundamentada, inclusive na instância especial.  ..  A ausência de manifestação do Judiciário quanto ao pedido de assistência judiciária gratuita leva à conclusão de seu deferimento tácito, a autorizar a interposição do recurso cabível sem o correspondente preparo" (AgRg nos EAREsp 440.971/RS, Rel. Ministro Raul Araújo, Corte Especial, julgado em 3/2/2016, DJe 17/3/2016).
+(..)
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp n. 1.988.913/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 8/8/2022, DJe de 10/8/2022.)
+A decisão recorrida majorou os honorários recursais com base no art. 85, § 11, do CPC/2015.
+Neste sentido, a Corte Especial do STJ, por ocasião do julgamento do AgInt nos EAREsp n. 762.075/MT, DJe 7/3/2019, firmou o seguinte entendimento, para fins de aplicação de honorários recursais de forma equitativa:
+Os critérios de cabimento dos honorários advocatícios recursais, previstos no § 11 do art. 85 do novo CPC, já foram tema de discussão na Terceira Turma, na sessão de 4 de abril de 2017, no julgamento dos EDcl no AgInt no REsp 1.573.573/RJ, o que levou à uniformização do tema naquele órgão julgador.
+No âmbito da Terceira Turma, ficaram sedimentados, em regra, como condições à majoração dessa verba honorária, os seguintes critérios: a) o não conhecimento integral ou o não provimento do recurso; b) a fixação da verba honorária desde a instância primeva; c) que o recurso dê causa à abertura de determinada instância recursal; d) e que ainda não tenham sido atingidos, na origem, os limites previstos nos §§ 2º e 3º do art. 85, em cada fase do processo (conhecimento ou cumprimento de sentença ou execução). Tais critérios foram reavaliados pela Segunda Seção, no julgamento do AgInt nos Embargos de Divergência em REsp 1.539.725/DF, em que se fixou o seguinte entendimento:
+1. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente:
+a. decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil;
+b. recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente;
+c. condenação em honorários advocatícios desde a origem, no feito em que interposto o recurso;
+2. não haverá honorários recursais no julgamento de agravo interno e de embargos de declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no § 11 do art. 85 do CPC/2015;
+3. com a interposição de embargos de divergência em recurso especial tem início novo grau recursal, sujeitando-se o embargante, ao questionar decisão publicada na vigência do CPC/2015, à majoração dos honorários sucumbenciais, na forma do § 11 do art. 85, quando indeferidos liminarmente pelo relator ou se o colegiado deles não conhecer ou negar-lhes provimento;
+4. quando for devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer ou desprover o respectivo agravo interno, arbitrá-la ex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificando reformatio in pejus;
+5. da majoração dos honorários sucumbenciais promovida com base no § 11 do art. 85 do CPC/2015 não poderá resultar extrapolação dos limites previstos nos §§ 2º e 3º do referido artigo;
+6. é dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.
+ ..
+Eis a ementa do aludido julgado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO MONOCRÁTICA NÃO ATACADA. INADMISSIBILIDADE. REGRA TÉCNICA DE CONHECIMENTO RECURSAL. INCIDÊNCIA DA SÚMULA 315/STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO § 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL.VIABILIDADE. RECURSO NÃO PROVIDO.
+1. Não se admite a interposição de Embargos de Divergência na hipótese de não ter sido analisado o mérito do Recurso Especial, conforme a Súmula 315/STJ.
+2. A questão que sobeja em divergência é quanto ao cabimento ou não de honorários de advogado nesta fase recursal, novidade instituída pelo Novo Código de Processo Civil.
+3. Os critérios de cabimento dos honorários advocatícios recursais, previstos no § 11 do art. 85 do novo CPC, já foram tema de discussão na Terceira Turma, na sessão de 4 de abril de 2017, no julgamento dos EDcl no AgInt no REsp 1.573.573/RJ, o que levou à uniformização do tema no âmbito daquele órgão julgador.
+4. Tais critérios foram reavaliados pela Segunda Seção, no julgamento do AgInt nos Embargos de Divergência em REsp 1.539.725-DF, os quais passam a ser adotados como entendimento desta egrégia Corte Especial.
+5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+6. Não haverá honorários recursais no julgamento de Agravo Interno e de Embargos de Declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no § 11 do art. 85 do CPC/2015.
+7. Com a interposição de Embargos de Divergência em Recurso Especial tem início novo grau recursal, sujeitando-se o embargante, ao questionar decisão publicada na vigência do CPC/2015, à majoração dos honorários sucumbenciais, na forma do § 11 do art. 85, quando indeferidos liminarmente pelo relator ou se o colegiado deles não conhecer ou negar-lhes provimento.
+8. Quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer do respectivo Agravo Interno ou negar-lhe provimento, arbitrá-la ex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificando reformatio in pejus.
+9. Da majoração dos honorários sucumbenciais promovida com base no § 11 do art. 85 do CPC/2015 não poderá resultar extrapolação dos limites previstos nos §§ 2º e 3º do referido artigo.
+10. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.
+11. In casu, denota-se: a) a majoração da verba, no caso que ora se examina, decorre da inadmissão dos Embargos de Divergência - o que, como visto, trouxe novo grau recursal com sua interposição; b) a lei não exige comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida para a majoração dos honorários. O trabalho adicional realizado pelo advogado da parte recorrida, em grau recursal, deve ser tido como critério de quantificação, e não como condição para majorar os honorários.
+12. Quanto à matéria, precedentes do Pretório Excelso: ARE 898.896 AgR-EDv-AgR/RJ - Relator Ministro Dias Toffolli, julgado em 24/02/2017, Tribunal Pleno, DJe de 15/3/2017; ARE 859.077 AgR-ED-EDv-AgR/AC - Relator Ministro Marco Aurélio, julgado em 23/03/2017, Tribunal Pleno, DJe de 29/5/2017.
+13. Cabível a majoração dos honorários recursais em desfavor da parte insurgente, nos termos da decisão agravada.
+14. Agravo Interno não provido.
+(AgInt nos EAREsp n. 762.075/MT, Rel. Ministro FELIX FISCHER, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe de 7/3/2019)
+Portanto, é legítima a majoração dos honorários recursais em desfavor da parte sucumbente, quando o valor arbitrado observa os limites previstos nos §§ 2º e 3º do art. 85, do CPC/2015. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS. REDUÇÃO. LIMITES. ART. 85, § 11, CPC/2015 OBSERVÂNCIA. RAZOABILIDADE E PROPORCIONALIDADE. DECISÃO MANTIDA.
+1. O § 11 do art. 85 do CPC/20015 dispõe que "o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento".
+2. No caso, o percentual fixado na decisão agravada está dentro dos limites legais e atende aos princípios da razoabilidade e da proporcionalidade, devendo ser mantido.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.859.020/SP, de minha relatoria, Quarta Turma, julgado em 14/3/2022, DJe de 18/3/2022.)
+A decisão recorrida restringiu-se aos critérios estabelecidos pela Corte Especial deste Tribunal Superior, não havendo falar em inobservância dos limites legais.
+Incide, pois,a Súmula n. 83 do STJ.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
