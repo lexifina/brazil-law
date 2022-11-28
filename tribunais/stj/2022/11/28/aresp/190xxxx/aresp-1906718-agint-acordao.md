@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto peloESPOLIO DE LOURIVAL REIS DE SOUZAcontra decisão monocrática derelatoria do Ministro Og Fernandes, que não conheceu do agravo em recurso especial em razão da incidência da Súmula n. 182 do STJ(fls. 868-870).
+O recurso especial inadmitido foi interposto com fundamento no artigo 105, inciso III, alínea"a", da Constituição Federal contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (fl. 609):
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. AUSENCIA DE LESÃOPERMANENTE. INEXISTENCIA DE ACIDENTE. REQUISITOS NÃOPREENCHIDOS. APELO IMPROVIDO. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO.1. O segurado sem sequela consolidada de acidente não terá direitoa ser indenizado com auxílio-acidente.2. Improvido o recurso da parte autora, majoro os honorários advocatícios, de 10% para 15% sobre o valor da causa atualizado, considerando as variáveis dos incisos I a IV do § 2º e o § 11, ambos do artigo 85 do CPC.
+Rejeitados os embargos de declaração opostos (fl. 912):
+EMBARGOS DE DECLARAÇÃO. ALEGAÇÃO DE OMISSÃO E CONTRADIÇÃO ACERCA DOS CRITÉRIOS PARA ARBITRAMENTO DA INDENIZAÇÃO POR DANO MORAL E FIXAÇÃO DOS HONORÁRIOS SUCUMBENC1AIS. ARESTO IMPUGNADO QUE APRECIOU ADEQUADAMENTE AS QUESTÕES DEVOLVIDAS AO TRIBUNAL, DE ACORDO COM OS FATOS APRESENTADOS E A LEGISLAÇÃO APLICÁVEL. PRETENSÃO DE ACOLHIMENTO DOS ACLARATÓRIOS COM VISTAS AO PREQUESTIONAMENTO DOS ARTIGOS 85, § 8º, 489 E 1022, PARÁGRAFO ÚNICO, II, TODOS DO CPC, ART. 3o, I, E ART. 5o, CAPUT, DA C.F., ART. 2o DA LEI 10887/04 E ARTS. 394 E 944, PARÁGRAFO ÚNICO, AMBOS DO CÓDIGO CIVIL. CRIME DE HOMICÍDIO PRATICADO CONTRA MAGISTRADA EM RAZÃO DE SUA FUNÇÃO JUDICANTE QUE REPRESENTA CONDUTA DE MÁXIMA REPROVABILIDADE, REVELANDO-SE ACERTADA A FIXAÇÃO DE INDENIZAÇÃO POR DANO EXTRAPATRIMON1AL NOS PATAMARES ARBITRADADOS PELA SENTENÇA, MANTIDA PELO ACÓRDÃO ORA EMBARGADO. NÍTIDO INTUITO DE REAPRECIAÇÃO DA MATÉRIA, O QUE DEVE SER FEITO PELA VIA PRÓPRIA. INOCORRÊNCIA DAS HIPÓTESES PREVISTAS NO ART. 1.022 DO CPC. REJEIÇÃO DOS EMBARGOS.
+Opostos embargos de declaração, foram rejeitados (fl. 635):
+EMBARGOS DE DECLARAÇÃO. HIPÓTESES DE CABIMENTO. INOCORRÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE.
+1. São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição; suprir omissão ou corrigir erro material, consoante dispõe o artigo 1.022 do Código de Processo Civil.
+2. Não se verifica a existência das hipóteses ensejadoras de embargos de declaração quando o embargante pretende apenas rediscutir matéria decidida, não atendendo ao propósito aperfeiçoador do julgado, mas revelando a intenção de modificá-lo, o que se admite apenas em casos excepcionais, quando é possível atribuir-lhes efeitos infringentes, após o devido contraditório (artigo 1.023, § 2º, do CPC).
+Alega oagravante que "no item 5 do recurso especial e 3.3 do agravo de destrancamento, aagravante demonstrou que acórdão recorrido se encontra em total desacordo com o entendimento pacificado do STJ no tema 416 Recurso Repetitivo RESp 1109591/SC, e com decisões de outros Tribunais apontou decisões divergentes na interpretação do art. 1.022, II do CPC (Resp 787728 MG,REsp 1745559, AgInt nos EDcl no AREsp 1343785/RJ, AgInt no REsp 1540612/MA, AgRg no AREsp 207.443/SP, AGRAVO EM RECURSO ESPECIAL Nº 1.137.054 -SP, e da interpretação do art. 86 DA LEI 8.213/91, (TRF4, AC 5022547-43.2018.4.04.9999, SEXTA TURMA, REsp 1109591/SC, que deu ensejo ao TEMA 416 do STJ, TRF-4, AC 5001946-48.2016.4.04.7101, AgRg no AREsp 309.593/SP, AgRg no Ag 1192967/SP, RECURSO ESPECIAL Nº 1.351.677 -PR).Desta forma, não prospera o não conhecimento do agravo em recurso especial pela ausência de impugnação específica, visto que a impugnação foi devidamente realizada, conforme acima explicitado." (fl. 876)
+Pugna, por fim, caso não seja reconsiderada a decisão agravada, submeta-se o presente agravo à apreciação da Turma.
+Sem contrarrazões (fl. 882)
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.APLICAÇÃO DA SÚMULA N. 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA N.182/STJ.PRINCÍPIO DA DIALETICIDADE. ALEGAÇÕES GENÉRICAS. NÃO CABIMENTO. AGRAVO INTERNO IMPROVIDO.
+1. "Incide o óbice da Súmula n. 182/STJ, quando a decisão recorrida aplica o entendimento da Súmula n. 83/STJ ao caso concreto, e a parte recorrente deixa de comprovar que os precedentes nela indicados não se aplicam à espécie, sequer trazjulgados contemporâneos ou supervenientesaos referidos na decisão, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual" (AgInt no REsp n. 1.881.480/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)
+2. Em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Não merecem prosperar as alegações doagravante.
+Mediante análise dos autos, verifica-se que a decisão que inadmitiu o recurso especial o fezcom base nos seguintes fundamentos: 1) ausência de violação do art. 1.022, do CPC; 2) "inviável o trânsito de recurso especial, na parte que aponta ofensa a dispositivo constitucional"; 3) incidência das Súmulas n. 7 e 83/STJ; e 4) ausência de cotejo analítico.
+Entretanto, a parte ora agravante ao interpor o agravo em recurso especial não impugnouespecificamente a incidência da Súmula n. 83/STJ.
+A jurisprudência desta Corte é no sentido de que cabe ao recorrente indicar julgados contemporâneos ou supervenientes aos precedentes utilizados na decisão agravada, de modo a demonstrar que a matéria não seria pacífica naquele momento ou que estaria superada.
+Nesse sentido, cito:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE PROVAS. SÚMULAS 5 E 7/STJ. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. APLICAÇÃO DA SÚMULA 83/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA 182/STJ. RECURSO NÃO CONHECIDO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. O recurso especial é inviável quando o tribunal de origem decide em consonância com a jurisprudência do STJ (Súmula 83/STJ).
+3. Incide o óbice da Súmula 182/STJ, quando a decisão recorrida aplica o entendimento da Súmula 83/STJ ao caso concreto, e a parte recorrente deixa de comprovar que os precedentes nela indicados não se aplicam à espécie, sequer traz julgados contemporâneos ou supervenientes aos referidos na decisão, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ou, que a divergência é atual.
+4. Agravo interno não conhecido.
+(AgInt no REsp n. 1.881.480/SP, relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 13/6/2022, DJe de 21/6/2022.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO PROFERIDA PELO TRIBUNAL DE ORIGEM. PRINCIPIO DA DIALETICIDADE. ART. 932, III, DO CPC DE 2.015. IRRESIGNAÇÃO GENÉRICA. NÃO CABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao reclamo.
+2. O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica a todos os fundamentos utilizados para a negativa de seguimento do apelo extremo (EAREsp 701.404/SC, EAREsp 831.326/SP e EAREsp 746.775/PR, Corte Especial, Rel. p/ acórdão Min. Luis Felipe Salomão, DJe de 30/11/2018), consoante expressa previsão contida no art. 932, III, do CPC de 2.015 e art. 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de não aplicabilidade do óbice invocado.
+3. Para afastar o fundamento, da decisão agravada, de incidência do óbice da Súmula 83/STJ não basta apenas deduzir alegação genérica de presença dos requisitos de admissibilidade, ou de inaplicabilidade do referido óbice, devendo a parte recorrente demonstrar que outra é a positivação do direito na jurisprudência desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, ou deixar claro que os julgados apontados como precedentes não se aplicam ao caso concreto em análise.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.932.535/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/3/2022.)
+No caso dos autos, o Tribunal de origem ao negar seguimento ao recurso especial pela incidência da Súmula n. 83/STJ fundamentou a decisão em precedentes doSTJ, o que não foi rebatido peloagravante.
+Ressalta-se que nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, não admitiu o recurso especial.
+A propósito, confiram-se os seguintes julgados:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial. Agravo em recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.904.501/MG, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 25/11/2021.)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS NO AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA STJ. ARTIGO 1021, § 1º, DO CÓDIGO DE PROCESSO CIVIL CPC. CORREÇÃO DAS DEFICIÊNCIAS EM SEDE DE AGRAVO REGIMENTAL. PRECLUSÃO CONSUMATIVA. INVIABILIDADE. JUÍZO DE ADMISSIBILIDADE NÃO ULTRAPASSADO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. "É inviável o agravo regimental ou interno que deixa de atacar especificamente todos os fundamentos da decisão agravada, consoante o disposto no art. 1.021, § 1º, do CPC e na Súmula 182 do STJ. Precedentes" (AgRg nos EAREsp 1206558/RS, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, DJe 18/9/2018).
+2. Pela ocorrência de preclusão consumativa, mostra-se inviável buscar, no agravo regimental, suprir as deficiências existentes na fundamentação das razões do agravo em recurso especial.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.929.489/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 3/11/2021.)
+Ademais, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182 do STJ.
+Desse modo, mantenho a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
