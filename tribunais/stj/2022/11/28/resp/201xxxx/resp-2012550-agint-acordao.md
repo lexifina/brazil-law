@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Cuida-se de Agravo Interno contra decisão monocrática (fls. 294-296, e-STJ) que negou seguimento ao Recurso Especial, com base nas Súmulas 7 e 211 do Superior Tribunal de Justiça.
+O agravante sustenta, em suma (fls. 301-302, e-STJ):
+No mais, o contexto dialético jurígeno está devidamente demonstrado, havendo perfeita lógica no capítulo da peça recursal que combate o r. acórdão Regional.
+Até porque, o STJ decidiu a matéria em consonância com o defendido pelo INSS.
+O TRF4 ao analisar a admissibilidade do recurso especial, entendeu que o INSS, a teor de suas razões recursais, demonstrou provável violação ao art. 1º do Decreto 20.910/32 e ao art. 103, parágrafo único, da Lei n. 8.213/91, restando configurada a hipótese do art. 105, III, a, da CF/88.
+A r. decisão viola o art. 1º do Decreto 20.910/32 bem como a jurisprudência desta Corte de Vértice sobre o tema, uma vez que incide a prescrição quinquenal sobre o requerimento administrativo negado quando não ajuizada a respectiva ação no prazo de cinco anos.
+O presente caso prequestionado tem a seguinte temática: " PROCESSUAL CIVIL. PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. AJUIZAMENTO DA AÇÃO MAIS DE CINCO ANOS APÓS O INDEFERIMENTO/CESSAÇÃO.
+PRESCRIÇÃO.INCIDÊNCIA DO ART. 1º DO DECRETO nº 20.910/32 E DA SÚMULA 85/STJ".
+Diante disso, é imperioso decretara a prescrição do requerimento administrativo, quando o segurado permanece inerte por mais de cinco anos, propondo a respectiva ação impugnativa daquele ato somente depois do marco legal do dito decreto.
+Pleiteia a reconsideração do decisum agravado ou a submissão do recurso à Turma julgadora.
+É o relatório.
+EMENTA
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. BENEFÍCIO. PRESCRIÇÃO. VIOLAÇÃO AO ART. 1.022 DO CPC. NÃO OCORRÊNCIA. PRESCRIÇÃO. PRESTAÇÕES DE TRATO SUCESSIVO. SÚMULA 85/STJ.
+1. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, sob o argumento de que a Corte a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, constata-se que o acórdão impugnado está bem fundamentado, inexistindo omissão ou contradição.
+3. Registre-se, portanto, que da análise dos autos extrai-se ter o Tribunal de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+4. Em se tratando de relação de trato sucessivo, o indeferimento do pedido pela Administração é o termo a quo para o cômputo do prazo quinquenal. Em não havendo negativa expressa, o entendimento jurisprudencial é no sentido de que, nas hipóteses em que a Administração, por omissão, não paga benefícios aos servidores, a prescrição não atinge o próprio fundo de direito, mas tão somente as parcelas vencidas a mais de cinco anos da propositura da ação, nos termos da Súmula 85/STJ.
+5. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste gabinete em 8 de novembro de 2022.
+O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+Conforme assentado na decisão monocrática, Preliminarmente, constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Na hipótese dos autos, a parte insurgente busca a reforma do aresto impugnado, asseverando que o Tribunal a quo não se pronunciou sobre o tema ventilado no recurso de Embargos de Declaração. Todavia, verifica-se que o acórdão controvertido está bem fundamentado, inexistindo omissão ou contradição.
+Vale destacar que o simples descontentamento da parte com o julgado não tem o condão de tornar cabíveis os Embargos de Declaração, que servem ao aprimoramento da decisão, mas não à sua modificação, que só muito excepcionalmente é admitida.
+Registre-se, portanto, que da análise dos autos extrai-se ter a Corte de origem examinado e decidido, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+No mérito, para melhor compreensão da controvérsia, transcrevo os fundamentos do decisum recorrido (e-STJ, fls. 193-194):
+No caso , trata-se de relação jurídica de trato sucessivo, em que o lapso temporal decorrido não sub judice tem o condão de malferir o fundo do direito, restringindo-se, apenas, a alcançar as prestações mensais devidas e não reclamadas pelo interessado, que deixaram transcorrer intervalo de tempo superior in albis a cinco anos.
+(..) No caso em exame, apenas as parcelas que integram o quinquênio anterior à data do ajuizamento da presente ação (20.03.2013) encontram-se prescritas.
+Afastada a preliminar de prescrição do fundo de direito, deve o processo retornar à primeira instância para regular prosseguimento do feito, com produção da prova testemunhal.
+Dessume-se que o acórdão recorrido está em sintonia com o atual entendimento deste Tribunal Superior, razão pela qual não merece prosperar a irresignação. Incide, in casu, o princípio estabelecido na Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida."
+No que diz respeito à prescrição, o aresto recorrido não destoa da orientação desta Corte Superior de que, nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação.
+Sobre o tema, confiram-se:
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PARCELA AUTÔNOMA DO MAGISTÉRIO (pam). LEI ESTADUAL N. 10.395/95. ANÁLISE DE LEI ESTADUAL. SÚMULA 280/STF. IMPOSSIBILIDADE. PRESCRIÇÃO. SÚMULA 85/STJ. RECURSO ESPECIAL IMPROVIDO.
+1. O recorrente, a pretexto de alegar ausência de interesse de agir na demanda, com base no art. 267, IV, do CPC, acabou pleiteando o revolvimento da legislação local que tratou da Parcela Autônoma dos vencimentos básicos dos professores (Leis Estaduais ns. 10.395/1995, 11.662/2001 e 12.961/2008), o que gera a inadmissibilidade do recurso especial, nos termos da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+2. O acórdão recorrido está em sintonia com o entendimento jurisprudencial do Superior Tribunal de Justiça, no sentido de que não se opera a prescrição do fundo de direito, mas apenas das parcelas vencidas no quinquênio anterior ao ajuizamento da ação, por configurar-se relação de trato sucessivo, conforme disposto na Súmula 85/STJ. Precedentes. Agravo regimental improvido. (AgRg no REsp 1313229/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 25/05/2012).
+ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. PARCELA AUTÔNOMA DO MAGISTÉRIO - PAM. LEI ESTADUAL Nº 10.395/95. AUSÊNCIA DE PREQUESTIONAMENTO DE PRECEITOS FEDERAIS. SÚMULAS 282/STF E 211/STJ. VIOLAÇÃO DO ART. 535, II, CPC NÃO CONFIGURADA. PRESCRIÇÃO. PRESTAÇÕES DE TRATO SUCESSIVO. SÚMULA Nº 85/STJ.
+1. Em se tratando de relação de trato sucessivo, o indeferimento do pedido pela Administração é o termo a quo para o cômputo do prazo quinquenal. Em não havendo negativa expressa, o entendimento jurisprudencial é no sentido de que nas hipóteses em que a Administração, por omissão, não paga benefícios aos servidores, a prescrição não atinge o próprio fundo de direito, mas tão somente as parcelas vencidas a mais de cinco anos da propositura da ação, nos termos da Súmula 85/STJ.
+2. Agravo regimental não provido. (AgRg no REsp 1302524/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 25/04/2012).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
