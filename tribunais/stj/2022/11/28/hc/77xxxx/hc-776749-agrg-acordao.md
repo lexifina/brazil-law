@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Laurita Vaz, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Rogerio Schietti Cruz.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Daniel Ribeiro da Fonseca contra a decisão monocrática, de minha Relatoria, que indeferiu liminarmente o pedido de habeas corpus, conforme esta ementa (fl. 81):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. TRÁFICO DE DROGAS. NATUREZA DO DELITO. EQUIPARAÇÃO A CRIME HEDIONDO. ACÓRDÃO IMPUGNADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
+Pretende o agravante, em síntese, a reforma da decisão objurgadapara que seja afastada a hediondez do delito de tráfico de drogas, devendo ser utilizada a fração estabelecida no art. 112, I, da LEP.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. TRÁFICO DE DROGAS. NATUREZA DO DELITO. EQUIPARAÇÃO A CRIME HEDIONDO. ACÓRDÃO IMPUGNADO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. AUSÊNCIA DE FUNDAMENTOS CAPAZES DE INFIRMAR A DECISÃO IMPUGNADA.
+Agravo regimental improvido.
+VOTO
+O agravo regimental não merece prosperar, porquanto o agravante não conseguiu infirmar os fundamentos adotados na decisão de fls. 81/82, deste teor, a qual confirmo:
+ ..
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpusdeve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+Afinal, dizem os precedentes das duas Turmas que compõem a Terceira Seção do Superior Tribunal de Justiça que, diferentemente da conjuntura relativa ao tráfico privilegiado, a própria Constituição Federal, em seu art. 5º, XLIII, rotulou como mais graves, tal qual os crimes hediondos (a serem definidos por lei ordinária), os delitos de tortura, o tráfico ilícito de entorpecentes e o terrorismo. Tal equiparação foi realizada pelo próprio constituinte originário, de modo que não se cogita a hipótese de que o Pacote Anticrime tenha afastado o caráter equiparado a hediondo do crime de tráfico de drogas (AgRg no HC n. 736.796/SC, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 16/5/2022).
+Assim, a revogação do § 2º do art. 2º da Lei n. 8.072/1990 pela Lei n. 13.964/2019 não tem o condão de retirar do tráfico de drogas sua caracterização como delito equiparado a hediondo, pois a classificação da narcotraficância como infração penal equiparada a hedionda decorre da previsão constitucional estabelecida no art. 5º, XLIII, da Constituição Federal (AgRg no HC n. 729.332/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 25/4/2022).
+Indefiro liminarmenteo presente habeas corpus(art. 210 do RISTJ).
+Publique-se.
+Bom, é uníssono o entendimento desta Casa a respeito do tema. Além dos precedentes citados na decisão agravada, confiram-se estes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LEI Nº 13.964/2019. CÁLCULO DAS PENAS. RETIFICAÇÃO. TRÁFICO DE DROGAS. NATUREZA HEDIONDA. INVIABILIDADE. PRECEDENTES DO STJ E STF.
+1. No presente feito, o agravante possui condenação anterior com trânsito em julgado pelo crime de tráfico de entorpecentes, circunstância que ensejou a manutenção pelo Tribunal de origem da decisão indeferitória do cálculo mais benéfico para fins de progressão prisional.
+2. O entendimento do Tribunal local encontra-se em consonância com a jurisprudência desta Corte, uma vez que a Lei nº 13.964/2019 não retirou o caráter equiparado a hediondo ao crime de tráfico de drogas, ressaltando-se, ainda, que respectiva natureza somente se exclui na figura do tráfico privilegiado.
+3. "Muito embora a Lei nº 13.964/2019 traga a previsão expressa que não se considera hediondo ou equiparado o tráfico de drogas previsto no § 4º, do art. 33, da Lei 11.343/2006, qual seja, o tráfico privilegiado, todavia foi explícito em referendar o já sedimentado na jurisprudência do Plenário do Supremo Tribunal Federal que fez distinção exatamente para afastar a hediondez somente do tráfico privilegiado quando decidiu que "o tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos" (HC n. 118.533/MS, Tribunal Pleno, Relª. Minª. Cármen Lúcia, DJe de 16/9/2016 - grifei), não sendo possível estender ao tráfico do caput do mesmo artigo" (HC n. 739.542/SP, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022).
+4. Agravo regimental desprovido.
+(AgRg no HC n. 736.883/SC, relator Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, julgado em 27/9/2022, DJe de 30/9/2022.)
+PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. PRETENSÃO DE RETIFICAÇÃO DO CÁLCULO DAS PENAS. SUPOSTA INVIABILIDADE DE EQUIPARAÇÃO DO TRÁFICO DE DROGAS A DELITO DE NATUREZA HEDIONDA. EQUIPARAÇÃO ADVINDA DE MANDAMENTO CONSTITUCIONAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+II - No presente caso, verifica-se que a Corte de origem invocou fundamentos para manter a equiparação do delito de tráfico de drogas a delito de natureza hedionda que estão em sintonia com o entendimento deste Tribunal, cuja jurisprudência, mesmo após o advento do Pacote Anticrime, é consolidada no sentido de que tal equiparação advém de mandamento constitucional. Precedentes.
+III - Muito embora a Lei nº 13.964/2019 traga a previsão expressa que não se considera hediondo ou equiparado o tráfico de drogas previsto no § 4º, do art. 33, da Lei 11.343/2006, qual seja, o tráfico privilegiado, todavia foi explícito em referendar o já sedimentado na jurisprudência do Plenário do Supremo Tribunal Federal que fez distinção exatamente para afastar a hediondez somente do tráfico privilegiado quando decidiu que "o tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos" (HC n. 118.533/MS, Tribunal Pleno, Relª. Minª. Cármen Lúcia, DJe de 16/9/2016 - grifei), não sendo possível estender ao tráfico do caput do mesmo artigo.
+IV - Nesse mesmo sentido, em análise contrario senso, o entendimento recente desta Corte no julgamento do Tema 1.084, pelo rito dos recursos repetitivos, tendo como representativo da controvérsia o REsp n. 1.918.338/MT (Terceira Seção, Rel. Min. Rogério Schietti Cruz, DJe de 31/5/2021), onde ficou pacificado o entendimento da possibilidade de aplicação retroativa do art. 112, V, da LEP aos condenados por crimes hediondos ou equiparados que fossem reincidentes genéricos, sendo que o caso versava exatamente sobre condenado por tráfico de entorpecentes, entre outras diversas manifestações em que restou consolidado o supracitado entendimento.
+Precedentes.
+Habeas corpus não conhecido.
+(HC n. 739.542/SP, relator Ministro Jesuíno Rissato (Desembargador convocado do TJDFT), Quinta Turma, julgado em 23/8/2022, DJe de 26/8/2022.)
+Ante o exposto, nego provimento ao agravo regimental.
