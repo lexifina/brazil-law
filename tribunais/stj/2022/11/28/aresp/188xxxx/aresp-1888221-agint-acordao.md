@@ -1,0 +1,61 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva e lavrou este acórdão, nos termos do Art. 101, § 1º do RISTJ.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. RECONVENÇÃO DISTRIBUÍDA POR DEPENDÊNCIA AO PROCESSO N. 1005361-95.2016. CONTRATO VERBAL DE COMODATO. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. INEXISTÊNCIA DE OFENSA AO ART. 489, § 1º, DO CPC. BENFEITORIAS. PEDIDO DE INDENIZAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE ARGUMENTO CAPAZ DE ALTERAR O JULGADO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por ELZA DE SOUZA contra decisão assim ementada:
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). RECONVENÇÃO DISTRIBUÍDA POR DEPENDÊNCIA AO PROCESSO N. 1005361-95.2016. CONTRATO VERBAL DE COMODATO. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. INEXISTÊNCIA DE OFENSA AO ART. 489, § 1º, DO CPC. BENFEITORIAS. PEDIDO DE INDENIZAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO(e-STJ fl. 814).
+A agravante, além de alegar que a Súmula 7/STJ não incide ao caso, porque a inadequação da apreciação da prova seriaerror iuris, reiteraipsislitterisas alegações elaboradas no recurso especial, consistentes na suposta violação dos arts.371, 373, II, 489, § 1º do Código de Processo Civil e 96 e 1.219 do Código Civil.
+Sem impugnação (e-STJ fl. 831).
+É, em síntese, o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. RECONVENÇÃO DISTRIBUÍDA POR DEPENDÊNCIA AO PROCESSO N. 1005361-95.2016. CONTRATO VERBAL DE COMODATO. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. INEXISTÊNCIA DE OFENSA AO ART. 489, § 1º, DO CPC. BENFEITORIAS. PEDIDO DE INDENIZAÇÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE ARGUMENTO CAPAZ DE ALTERAR O JULGADO. MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o presente agravo interno não deve ser provido.
+Em que pese o arrazoado,entendo que a ausência de qualquer argumentotrazido pela agravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Com efeito, a Corte local, soberana na análise dos elementos informativos do feito, ao apreciar a apelação da ora agravada, assinalou:
+Como adiantado no julgamento do agravo de instrumento 2124955-16.2016.8.26.0000:
+"Não pode ser esquecido de que se trata de construção em terreno alheio dada de boa-fé, circunstância passível de assegurara respectiva indenização, por norma expressa do Código Civil, o que cabe ter em conta neste início de processo".
+Se isto é verdadeiro, não menos o é o fato de que, como dito, estávamos diante de um início de processo, donde as impressões sobre as circunstâncias postas em juízo eram perfunctórias, passíveis de serem modificadas ao longo do trâmite processual.
+Assim, é bem de se ver que, sem deixar de reconhecer o direito da autora em pedir o ressarcimento material pelo que despendeu no imóvel da ré, diante da introdução de benfeitorias e/ou acessões, cabe a consideração de que, ao longo de uma vida, ela e seu ex-marido residiram de forma graciosa, sem que arcassem financeiramente com nenhum encargo, seja pelo pagamento de água e luz, seja pelo de tributos do tipo IPTU. Ou seja, a colaboração econômica que se espera daquele que de forma graciosa reside em imóvel alheio não veio sob a forma de pagamento das despesas rotineiras que uma residência impõe a qualquer um.
+Também é de se notar que a autora era casada com o filho da ré e se a lei presume que tivesse havido o esforço de ambos os cônjuges para o bem comum do casal e de sua família, porém, da documentação acostada, é nítido que a introdução das benfeitorias ou acessões o foram para perfeita comodidade da família da autora.
+O direito não despreza a circunstância de que a realização de obras em terreno alheio pode dar a quem as realizou o devido ressarcimento; mas, igualmente, leva em consideração que se essas mesmas obras tiveram por finalidade oferecer aos comodatários conforto e comodidade, o que seguramente é o caso dos autos, aliado ao fato de que a autora não comprou que tivesse colaborado com as despesas ordinárias de uma residência, a indenização material pretendida não tem lugar.
+Enfim, apensar do caráter gratuito do comodato, não se pode ignorar o direito a uma compensação ao comodante, ao menos para não ter de indenizar por algo que não lhe veio em proveito(e-STJ fls. 750/752 - sic).
+Como se observa,o órgão colegiado decidiu integralmente a controvérsia e de forma devidamente fundamentada, com a exposição clara dos motivos que levaram ao provimento da apelação da ora agravada, destacando as peculiaridades da causa que afastaram o direito ao ressarcimento pretendido pela ora agravante.Assim, não há falar em afronta ao art. 489, § 1º, do Código de Processo Civil.
+Além disso, dúvidas não restam de que elidir as premissas e a conclusão do julgado demandaria, imprescindivelmente, o reexame o conjunto fático probatório dos autos, esbarrando o apelo nobre no óbice da Súmula 7/STJ.
+Nessa linha de intelecção, impende reproduzir os seguintes precedentes proferidos em casos semelhantes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE COMODATO. CONTRATO VERBAL DE COMPRA E VENDA. PROVA. ENCARGOS SOBRE O IMÓVEL. COMPORTAMENTO CONTRADITÓRIO. INEXISTÊNCIA. INDEFERIMENTO DE PROVAS. INDENIZAÇÃO DE BENFEITORIAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. A Corte estadual afastou a ocorrência de comportamento contraditório por parte do agravado amparado nas premissas fáticas dos autos. A revisão do julgado hostilizado, com a desconstituição de suas premissas, demandaria alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, ante o óbice da Súmula 7 do STJ.
+2. Tendo as instâncias ordinárias entendido pela desnecessidade de realização das provas requeridas, hão de ser levados em consideração o princípio da livre admissibilidade da prova e do livre convencimento do juiz, que, nos termos do art. 130 do Código de Processo Civil, permitem ao julgador determinar as provas que entende necessárias à instrução do processo, bem como o indeferimento daquelas que considerar inúteis ou protelatórias.
+3. A revisão dos fundamentos do acórdão estadual no tocante ao reembolso das benfeitorias realizadas no imóvel objeto do contrato de comodato, demandaria alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos do enunciado da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1001192/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/02/2017, DJe 09/02/2017 - g. n.)
+CIVIL E PROCESSO CIVIL. CONTRATO DE COMODATO. REFORMA DE IMÓVEL RESIDENCIAL PELO COMODATÁRIO. MAIS VALIA. ART. 1256 DO CÓDIGO CIVIL. NECESSIDADE DE REEXAME PROBATÓRIO. ACÓRDÃO ESTADUAL QUE CONCLUI PELO PROPÓSITO DE USO E GOZO CONJUNTO DE MARIDO E MULHER. IMPOSSIBILIDADE DE ALTERAÇÃO DE PREMISSA FÁTICA ESTABELECIDA NAS INSTÂNCIAS DE ORIGEM. RECURSO ESPECIAL NÃO CONHECIDO.
+I - As despesas feitas pelo comodatário, com a fruição da coisa emprestada, nos termos do art. 1254 do Código Civil, são as ordinárias, para suaconservação normal e manutenção regular. Despesas outras realizadas sem consentimento do comodante, ainda que impliquem na mais valia do bem, só são indenizáveis se urgentes e necessárias, quando se classificam como extraordinárias.
+II - Não se aprecia em recurso especial, o cotejo probatório realizado no primeiro e segundo grau de jurisdição, sendo inalterável a conclusão de que as melhorias procedidas no imóvel não foram extraordinárias, mas com o propósito de usufruto, além de destacadas particularidades como ausência de pagamento de cotas condominiais e impostos pelo comodatário.
+(REsp 249.925/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 23/11/2000, DJ 12/02/2001 - g. n.)
+Como salientado nodecisumagravado, no caso concreto não se cuida de"valoração dos critérios jurídicos respeitantes à utilização da prova e à formação da convicção". Na realidade, a agravante pretende "a reapreciação dos elementos probatórios, para concluir-se se eles foram ou não bem interpretados, matéria de fato, soberanamente decidida pelas instâncias ordinárias de jurisdição e insuscetível de revisão, no Recurso Especial"(AgRg no AREsp 235.460/ES, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 09/09/2014, DJe 16/09/2014).
+A propósito, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CONSUMIDOR. FALHA. PRESTAÇÃO DE SERVIÇO. HOTEL. QUEDA DE MURO. DANO. VEÍCULO DE PROPRIEDADE DE HÓSPEDE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. ERRÔNEA VALORAÇÃO DA PROVA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento das matérias insertas nos dispositivos apontados como violados impede o conhecimento do recurso especial. Súmula nº 282/STF.
+3. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+4. Na hipótese, não há como afastar o disposto na Súmula nº 7/STJ, tendo em vista que as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos.
+5. A errônea valoração da prova que dá ensejo à excepcional intervenção do Superior Tribunal de Justiça na questão decorre de falha na aplicação de norma ou princípio no campo probatório e não das conclusões alcançadas pelas instâncias ordinárias com base nos elementos informativos do processo.
+6. Agravo interno não provido.
+(AgInt no AREsp 1739322/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 15/06/2021, DJe 22/06/2021 - g. n.)
+PROCESSO CIVIL. AGRAVO INTERNO. PEDIDO DE TUTELA PROVISÓRIA. USUCAPIÃO. EFEITO SUSPENSIVO. RECURSO ESPECIAL. FUMUS BONI IURIS E PERICULUM IN MORA NÃO CONFIGURADOS.
+1. A concessão de efeito suspensivo a recurso especial está condicionada à configuração dos requisitos próprios da tutela de urgência, quais sejam, o fumus boni iuris e o periculum in mora, não caracterizados nos autos.
+2. A alteração das conclusões a que chegou o órgão julgador implica o reexame do conjunto fático e probatório dos autos, o que é vedado na via do recurso especial (Súmula 7/STJ), afastando a fumaça do bom direito, requisito indispensável para o deferimento do efeito suspensivo pleiteado.
+3. A errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo.
+4. Sem a caracterização, conjunta, do fumus boni iuris e do periculum in mora não há que se pretender a atribuição, excepcional, de efeito suspensivo a recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no RCD na Pet 13.134/PB, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/04/2021, DJe 23/04/2021 - g. n.)
+Dessarte, a manutenção da decisão agravada é medida que se impõe.
+Ante o exposto, nego provimento ao agravo interno.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+É o voto.
