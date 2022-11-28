@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por MARCOS ANTONIO DE MACEDO e outroscontra decisão em que não conheci do recurso especial, considerando-se a incidência das Súmulas 211 e 283 do STF.
+A parte agravante defende, em síntese, a não incidência dos referidos óbices sumulares.
+Sem contraminuta.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.PREQUESTIONAMENTO. AUSÊNCIA.ACÓRDÃO COMBATIDO. FUNDAMENTOSAUTÔNOMOS. IMPUGNAÇÃO. NÃO OCORRÊNCIA.
+1. Há manifesta ausência deprequestionamento,a atrair a aplicação da Súmula 211 do STJ, quando o conteúdo do preceito legal tido por violado não é examinado na origem, mesmo após opostos embargos de declaração.
+2.Existindo fundamentos suficientes para a manutenção do aresto recorrido, não impugnados nas razões do recurso especial, incide na espécie, por analogia, aSúmula 283do STF, a qual dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente, e o recurso não abrange todos eles".
+3. Agravo interno desprovido.
+VOTO
+O presente agravo não merece prosperar.
+Como assinalado na decisão ora agravada, oTribunal de origem decidiu a controvérsia nos seguintes termos (e-STJ fls. 326 e 328):
+Não merece reparos a sentença impugnada. Com efeito, a jurisprudência assente no c. Superior Tribunal de Justiça orienta no sentido de que "o Juízo que proferiu a decisão supostamente viciada tem competência para processar e julgar a Ação Anulatória, também denominadaquerelanulitattis(AgRg na Pet 10.975/RJ, Rel. Min. MARIA THEREZA DE ASSISMOURA, DJe 3.11.2015; CC 114.593/SP, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJe 1.8.2011).
+(..)
+Considerando que as decisões que se pretende desconstituir foram proferidas em Juizados Especiais Federais e respectivas Turmas Recursais, falece competência ao Juízo Comum para se apreciar os referidos pedidos de nulidade da coisa julgada, tendo em vista que a competência para a revisão, desconstituição ou anulação das decisões judiciais é do próprio Juízo que a proferiu.
+Observou-se que, da leitura dos trechos do acórdão recorrido, acima transcritos, a fundamentação nele expendidanão foi especificamente impugnada nas razões do especial, o que caracteriza deficiência na argumentação recursal.
+Com efeito, à míngua da devida impugnação, preservam-se incólumes os fundamentos aplicados nodecisumvergastado, que se mostram capazes, por si só, de manter o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não os impugnou.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MILITAR EX-COMBATENTE. FILHO MAIOR E INVÁLIDO. FUSEX. QUALIDADE DE DEPENDENTE. DISPOSITIVOS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.SUPOSTA OFENSA AOS ARTS. 53, INCISO IV, DO ADCT/1988 E 5º, CAPUT, II; 37, CAPUT, 165 E 195, § 5º, DA CF/1988. ENFOQUE CONSTITUCIONAL DA MATÉRIA. FUNDAMENTO SUFICIENTE NÃO ATACADO. SÚMULA 283/STF.
+1. Não se pode conhecer da irresignação contra a ofensa aos art. 50, "e", da Lei 6.880/1980; 15 e 25 da MP 221/15/2001; 75, II, da Lei 8.237/1991; 1º, 2º, 3º, incisos III, V, VI, X, XIX, XX, 4º, 11, 12, 13, 14, 15, 24/26, 29/31, 32/39 do Decreto 92.512/1986; e 1º, § 1º, 15, 16, 17 e 24 da Lei Complementar 101/2000, pois a tese legal apontada não foi analisada pelo acórdão hostilizado.
+2. Ressalte-se que não houve sequer interposição de Embargos de Declaração, o que seria indispensável para a análise de possível omissão no julgado.
+3. Assim, perquirir, nesta via estreita, a ofensa das referidas normas, sem que se tenha explicitado a tese jurídica no juízo a quo, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância. Ao ensejo, confira-se o teor da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada." 4. No mesmo sentido, os enunciados sumulares 211 do STJ e 356 do STF. Assente nesta Corte o entendimento de que é condiçãosine qua nonpara que se conheça do Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como afrontados.
+5. Ademais, nas razões do Recurso Especial, argumenta-se sobre a adequada interpretação dos arts. 53, inciso IV, do ADCT/1988 e 5º, caput, II, 37, caput, 165 e 195, § 5º, da CF/1988.
+6. Não compete ao Superior Tribunal de Justiça analisar eventual contrariedade a preceito contido na CF/1988, nem tampouco uniformizar a interpretação de matéria constitucional.
+7. Por fim, no enfrentamento da matéria, o Tribunal de origem consignou que a "controvérsia imposta cinge-se a (im)possibilidade de inclusão do autor nos cadastros do FUSEX, na condição de filho maior e incapaz, assim dependente do ex-militar combatente, para fins de assistência de saúde. Na questão de fundo, estou por deferir - de plano - o amparo, uma vez que o artigo 50, §2º, II, da Lei 6.880/80 considera dependente do militar o filho maior de idade, quando incapaz de prover seu sustento, nos seguintes termos:", bem como que "na espécie, a parte-autora conseguiu comprovar sua condição de incapacidade laborativa (Eventos 01 e 07, da origem), bem denotando a verossimilhança do direito alegado, ou seja, da própria condição de "dependência econômica" da Lei, e assim preenchendo os requisitos para o benefício." (fl. 585, e-STJ).
+8. Dessa maneira, como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+9. Agravo Interno não provido.
+(AgInt no AREsp 1064121/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2017, DJe 11/10/2017).
+Daí porque aplicada a Súmula 283 do STF.
+No mesmo sentido, em situações similares, as seguintes decisões do STJ: REsp 1907491/RN, rel. Ministro BENEDITO GONÇALVES, Primeira Turma,DJe de 16/03/2021; REsp 1.914.618/RN, rel. Ministro OG FERNANDES,Segunda Turma, DJe de 09/02/2021;REsp1934725/RN, Segunda Turma, Ministrorel.ASSUSETE MAGALHÃES, Dje 14/06/2021.
+Quanto à suposta violação do art. 3º,caput, inciso III, da Lei n. 10.529/2001, verificou-se que essasquestões não foram enfrentadaspelo acórdão recorrido.
+Essa a razão pela qual não foipossível conhecer do recursoespecial relativamente aos supracitados pontos em razão da ausência deprequestionamento, nos termos da Súmula 211 do STJ,in verbis: "Inadmissívelrecurso especial quanto à questão que, a despeito da oposição de embargosdeclaratórios, não foi apreciada pelo tribunala quo."
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
