@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminarimpetrado em favor de WELLINGTON LUIS DA SILVAapontando como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais(Apelação Criminal n. 1.0040.17.001781-4/001).
+Os autos dão conta de que o paciente foi absolvidoem primeira instância da imputação do crime descrito no art. 33 da Lei n. 11.343/2006 (tráfico de drogas), mas, em segunda instância, em virtude do provimento do recurso ministerial,foi condenado à pena de 6anos e 5 meses de reclusão, no regime inicial fechado, emvirtude da apreensão de "5 porções da substância entorpecente "Cocaína", sob a forma pulverizada, pesando 6,54g (seis gramas e cinquenta e quatro centigramas)"-(e-STJ fl. 26).
+Opostos embargos de declaração, o incidente foi rejeitado.
+No presentewrit, defende-se, em breve síntese, que existe flagrante ilegalidade no reconhecimento da reincidência por parte dainstânciaordinária, pois a prática do tipo penal previsto no art. 28 da Lei de Drogasé uma conduta inapta a gerar a agravante, conforme atual entendimento emanado pelo Superior Tribunal de Justiça.
+Por isso, requer seja redimensionada a pena do paciente.
+É, em síntese, o relatório.
+Decido.
+Cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de aprofundamento no acervo fático-probatório.
+Sobre o tema, a orientação desta Casa é a de quea condenação anterior pelo delito previsto no art. 28 da Lei n. 11.343/2006 não bastapara configuração da agravante da reincidência.
+A propósito:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONDENAÇÃO ANTERIOR PELO ART. 28 DA LEI 11.343/2006. MAUS ANTECEDENTES AFASTADOS. SOBRESTAMENTO DO FEITO. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ambas as Turmas da Terceira Seção desta Corte, em recentes julgados, tem decidido ser desproporcional o reconhecimento da agravante da reincidência decorrente de condenação anterior pelo delito do art. 28 da Lei n. 11.343/2006, uma vez que a infringência da referida norma legal não acarreta a aplicação de pena privativa de liberdade e sua constitucionalidade está sendo debatida no STF.
+Precedentes.
+2. A Quinta Turma deste Tribunal passou a adotar o entendimento de que, com maior razão, por ser o antecedente um instituto penal subsidiário ao da agravante da reincidência, é incabível, também, a utilização de condenação anterior pelo delito de posse de drogas à título de maus antecedentes, para aumentar a pena-base, ou para justificar o afastamento do tráfico privilegiado.
+3. "O fato de a questão federal debatida nos autos ser objeto de repercussão geral no Supremo Tribunal Federal não determina o sobrestamento dos julgamentos dos recursos especiais, e sim dos recursos extraordinários eventualmente interpostos em face dos arestos prolatados por esta Corte que tratem da matéria afetada."
+(AgRg no REsp 1.576.825/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 8/3/2016, DJe 15/3/2016).
+4. Agravo regimental desprovido.(AgRg no REsp n. 1.916.629/MG, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/5/2021, DJe de 10/5/2021.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONDENAÇÃO ANTERIOR PELA PRÁTICA DO CRIME DE PORTE DE DROGAS PARA CONSUMO PRÓPRIO. REINCIDÊNCIA. NÃO OCORRÊNCIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O prévio apenamento do agente pela conduta de porte de drogas para consumo próprio (art. 28 da Lei de Drogas) não constitui causa geradora de reincidência. Precedentes.
+2. Uma vez que a acusada registra, em sua folha de antecedentes penais, apenas uma condenação anterior relativa à prática da conduta descrita no art. 28 da Lei de Drogas, deve ser afastada a agravante da reincidência.
+3. Agravo regimental não provido.(AgRg no REsp n. 1.832.209/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 30/6/2020, DJe de 4/8/2020.)
+Portanto, é manifesto o constrangimento ilegal imposto ao paciente pelas instâncias ordinárias pelo reconhecimento da reincidência.
+Ademais, com base nesse entendimento, verifico outra ilegalidade flagrante que deveser reparadade ofício na espécie.
+Com efeito," .. adequado o afastamento da reincidência apoiado em condenação por uso de drogas e, em consequência, preenchidos os demais requisitos previstos no § 4º do art. 33 da Lei n. 11.343/2006, é cabível o reconhecimento do privilégio no crime de tráfico de drogas .. "(AgRg no HC n. 686.647/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 24/8/2021, DJe de 30/8/2021).
+Vejo, também, flagrante ilegalidade ocorrida na primeira fase da reprimenda. Senão, vejamos.
+No momento da fixação da reprimenda dos crimes abarcados pela Lei n. 11.343/2006, o julgador deve valorar, com preponderância sobre as demais circunstâncias judiciais, a natureza e a quantidade da droga, de acordo com o que dispõe o art. 42 da referida lei.
+No caso, o Tribunal de origem manteve a elevação da pena básica considerando a natureza do entorpecente apreendido- 6,54g (seis gramas e cinquentae quatro centigramas) de cocaína. Todavia, a quantidade da droga, mesmo considerando sua natureza, não tem força para justificar a exasperação ocorrida.
+Passo, assim, à readequação da dosimetria das penas, mantendo os parâmetros adotados pelo colegiado local.
+Mantenho a pena-base no mínimo legal de 5 (cinco) anos de reclusão, a qual, nasegunda etapa, permanece inalterada, tendo em vista o afastamento da reincidência.
+Quanto à aplicação da minorante do art. 33, § 4º, da Lei n. 11.343/2006, o agente só poderá ser beneficiado com a redução de 1/6 (um sexto) a 2/3 (dois terços) da pena, desde que seja primário e portador de bons antecedentes e não se dedique às atividades criminosas nem integre organização criminosa. É evidente, portanto, que o benefício descrito no mencionado dispositivo legal tem como destinatário o pequeno traficante, ou seja, aquele que inicia sua vida no comércio ilícito de entorpecentes, muitas das vezes até para viabilizar seu próprio consumo, e não os que, comprovadamente, fazem do crime seu meio habitual de vida.
+Na espécie, a reincidência do paciente foi o único motivo utilizado para afastar a aplicação da benesse referenciada, de modo que esta deve ser aplicada no patamar máximo, alcançando a pena o patamar definitivo de 1 ano e 8 meses de reclusão.
+Ainda, imperiosa a apreciação do regime prisional.
+Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta a quantidade e a natureza da substância entorpecente apreendida (art. 42 da Lei n. 11.343/2006).
+Nesse tear, diante dos parâmetros acima, dada a quantidade de pena aplicada, a favorabilidade integral das circunstâncias e o afastamento da reincidência, fixa-se o regime aberto para o início do cumprimento da pena.
+Por fim, vejo que o paciente também faz jus à substituição da pena, notadamente quando as circunstâncias judiciais foram consideradas totalmente favoráveis, evidenciada a primariedade e o redutor foi aplicado na fração máxima, em observância aos arts. 33, § 2º, a, e 44 do CP.
+À vista de tais pressupostos, concedoa ordem, in limine. Concedo, ademais, habeas corpus de ofício,para redimensionar a pena imposta ao paciente, nos termos ora delineados.
+Publique-se. Intimem-se.
