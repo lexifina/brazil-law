@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado contra acórdão assim ementado:
+APELAÇÃO CRIMINAL Roubo majorado (emprego de arma de fogo, concurso de agentes e restrição de liberdade)- Condenação- Recurso defensivo- Autoria e materialidade delitivas demonstradas - Prisão em flagrante- Confissão em juízo corroborada pela palavra da vítima e do policial- Reconhecimento pessoal perante a autoridade policial- Majorantes bem delineadas- Condenação mantida- Penas adequadamente fixadas e bem fundamentadas- Reincidência- Regime fechado de rigor- Impossibilidade de substituição da pena corpórea pela restritiva de direitos- Recurso desprovido.
+O paciente foi condenado como incurso no art.157, § 2º, II e V, e § 2º-A, I, do Código Penal, a 6 anos e 8 meses de reclusão, em regimefechado, e16 dias-multa.
+Sustenta a defesa que acausa de aumento referente ao emprego de arma de fogo deve ser afastada, uma vez que não restou comprovada judicialmente a sua utilização.
+Requera concessão da ordem "para afastar a causa de aumento referente ao emprego de arma de fogo, majorando-se a pena em apenas 1/3 (um terço)" (fl. 6).
+Prestadas informações, o Ministério Público Federal manifestou-se pelanão admissão do writ, descabida a concessão de uma ordem de habeas corpus ex officio.
+Acerca da majorante relativa ao emprego de arma de fogo, eis os fundamentos do acórdão recorrido (fls. 53-54):
+O Apelante, em Juízo, admitiu os fatos, alegando que estava sob efeito de droga e aceitou proposta de dois indivíduos para "ficar com um cara" (sic) em troca de dinheiro e droga. Estava no carro em que a vítima foi colocada, mas não havia qualquer arma de fogo.
+A vítima, perante a autoridade policial, reconheceu o acusado, informando que quatro indivíduos a bordo de um veículo GM/Vectra, um deles armado, lhe deram sinal de parada. Ao parar no acostamento, foi abordada por outros três indivíduos que estavam em um veículo Pálio, dentre eles Lucas. Um desses indivíduos também estava armado e colocou a vítima no interior do automóvel, com Lucas, sendo encaminhada até o terreno, no qual permaneceu com o acusadoaté a chegada dos policiais.
+A testemunha Diomar de Rezende, um dos policiais responsáveis por atender a ocorrência, mostrou-se firme ao corroborar os termos da denúncia, relatando que o local em que a vítima foi encontrada é conhecido por ser "cativeiro" de diversosroubos que acontecem na região. O acusado foi localizado nesse local, com a vítima, que narrou ter sido abordada por quatro indivíduos, colocada em um veículo Pálio e encaminhada até o terreno. O réu admitiu informalmente que ficou responsável por manter a vítima sob vigilância e que os demais roubadores voltariam para pegá-lo.
+Como observado pela defesa, a vítima, apenas na fase pré-processual,declarou que um dos roubadores portava arma de fogo, relato esse que não foi confirmado em juízo, nem mesmo pelos policias, o que se infere do acórdão,razão pela qual deve ser afastada a causa de aumento impugnada, em observância ao art. 155 do CPP. Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. ROUBO MAJORADO. PLEITO DE ABSOLVIÇÃO. INSUFICIÊNCIA PROBATÓRIA. ART. 155 DO CÓDIGO DE PROCESSO PENAL. INDÍCIOS DE AUTORIA AFERÍVEIS COM BASE EM ELEMENTOS DE INFORMAÇÃO DO INQUÉRITO POLICIAL E PROVAS COLHIDAS DURANTE O SUMÁRIO DE CULPA. LEGALIDADE. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+II - O artigo 155 do Código de Processo Penal proíbe a condenação proferida com fundamento, exclusivo, em elementos informativos, em observância aos princípios do contraditório e da ampla defesa.
+ ..
+Agravo regimental desprovido. (AgRg no HC n. 569.004/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/5/2020.)
+Mantém-se a pena-base fixada no mínimo legal, inalterada na etapa intermediária - compensação integral da reincidência com a atenuante de confissão -. Presentes as majorantes previstas no art. 157, § 2º, II e V, inexistindo fundamentação exarada pelas instâncias ordinárias a ser aproveitada para a aplicação de patamar superior ao mínimo, aplica-se o aumento de 1/3 - inteligência da Súmula 443/STJ -, resultando na pena definitiva de 5 anos e 4 meses de reclusão e 13 dias-multa. Mantém-se o regime fechado, pois, como registrado no acórdão, o réu é reincidente.
+Ante o exposto, concedo o habeas corpus para (re) estabelecer a pena definitiva do paciente em 5 anos e 4 meses de reclusão e 13 dias-multa, mantido o regime fechado.
+Comunique-se.
+Publique-se.
+Intimem-se.
