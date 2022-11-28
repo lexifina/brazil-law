@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de Agravo Interno interposto pelo Distrito Federal, contra a decisão de minha relatoria, assim ementada:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. ICMS. ART. 166 DO CTN. CARÊNCIA DE NECESSÁRIO PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
+Em suas razões recursais, o agravante sustenta que a decisão agravada afastou a preliminar de negativa de prestação jurisdicional e, no mérito, não conheceu do especial por carência de prequestionamento. Reitera que há omissão com relação ao art. 166 do Código Tributário Nacional, o que traz implicações diretas acerca da legitimidade ativa da parte, constituindo, portanto, matéria de ordem pública.
+Pugna, por fim, pela reconsideração da decisão, em juízo de retratação, ou pelo julgamento do presente recurso pelo Órgão Colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. ICMS. ART. 166 DO CTN. CARÊNCIA DE NECESSÁRIO PREQUESTIONAMENTO. SÚMULA N. 211/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1.Preliminarmente, não se pode falar que a Corte local foi omissa acerca do art. 166 do CTN. Suscitada a destempo a questão, não deveria, tampouco poderia, o Tribunal de origem se manifestar acerca de inovação recursal em virtude da preclusão.
+2.No mérito, na medida em que o art. 166 do CTN foi utilizado como argumento apenas em sede recursal, o que impossibilitou o seu exame pelo aresto combatido, a tese veiculada no especial no sentido de que não houve comprovação de que o contribuinte teria suportado o encargo financeiro não foi prequestionada na origem.Súmula n. 211/STJ.
+3. Agravo interno não provido.
+VOTO
+Cuida-se, na origem, deação de conhecimento ajuizada pela ora agravada quejulgou procedentes os pedidos de declaração de inexistência de relação jurídico-tributária entre as partes que tenha por conteúdo a exigência de ICMS DIFAL, e de restituição oucompensação de valores já recolhidos a esse título.
+Nas razões do recurso especial, sustentou-se negativa de prestação jurisdicional, bem como violação do art. 166 do CTN.
+No presente, o agravante reitera a existência de omissão no aresto combatido e, no mérito, a não incidência da Súmula n. 211/STJ.
+Preliminarmente, argumentou-se que o acórdão recorrido restou omisso acercadaausência de fundamentação para o reconhecimento da restituição dos valores recolhidos a título de DIFAL/ICMS sem a comprovação da assunção do encargo financeiro ou, no caso de transferência a terceiro, da autorização para pleitear a referida restituição.
+Não verifico o vício suscitado.
+Isso porque, acerca da questão, o acórdão que julgou os aclaratórios opostos na origem restou assim fundamentado (e-STJ fls. 673/674):
+Observa-se que o próprio réu embargante, DISTRITO FEDERAL, admite que somente suscitou a suposta questão de o ICMS ser tributo indireto, bem como a aplicação do artigo 166 do CTN, em contrarrazões de apelação, apresentadas em ID 25498208.
+De fato, examinando a contestação de ID 25498176, verifica-se que, na origem, tais questões não foram sequer tangenciadas. Naquela oportunidade, o ente distrital limitou-se a defender a legalidade da exação, requerendo, no mérito, a improcedência dos pedidos. Não foi suscitada a questão de o ICMS ser tributo indireto, nem tampouco a alegação de aplicabilidade do artigo 166 do CTN.
+Somente em contrarrazões de apelação é que passou o DISTRITO FEDERAL a aventar essas questões.
+Como se vê, trata-se de alegações formuladas de modo inédito em fase recursal, e ainda, utilizando-se da via inadequada das contrarrazões para obter reforma/cassação da sentença que julgou o mérito da demanda.
+Dessa forma, tais alegações não poderiam mesmo ser conhecidas pela Turma Julgadora por ocasião do julgamento do recurso de apelação, sob pena de supressão de instância.
+Portanto, inexiste omissão no acórdão de apelação que não aprecia questões suscitadas de forma inédita e na via inadequada das contrarrazões.
+Assim, não se pode falar que a Corte local foi omissa acerca da tese do ora agravante.
+Suscitada a destempo a questão vinculada ao art. 166 do CTN, não deveria, tampouco poderia, o Tribunal de origem se manifestar acerca de inovação recursal em virtude da preclusão.
+No mérito, não há impedimento à aplicação da Súmula n. 211/STJ.
+Isso porquanto o acórdão recorrido está devidamente fundamentado, ainda que à luz de fundamentos jurídicos distintos daquelepretendido pela parte.
+Na medida em que o art. 166 do CTN foi utilizado como argumento apenas em sede recursal, o queimpossibilitouo seu exame pelo aresto combatido,a tese veiculada no especial no sentido de quenão houvecomprovação de que o contribuinte teria suportado o encargo financeironão foi prequestionada na origem.
+Dito isso, inafastável a incidência da Súmula n. 211/STJ.
+A propósito, os seguintes precedentes:
+PROCESSUAL CIVIL. DIREITO ADMINISTRATIVO. MILITAR. SISTEMA REMUNERATÓRIO E BENEFÍCIOS. DESPROVIMENTO DO AGRAVO INTERNO. MANUTENÇÃO DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 7/STJ. INCIDÊNCIA DA SÚMULA N. 211/STJ E POR ANALOGIA OS ENUNCIADOS N. 282 E 356 DO STF. FALTA DE CARACTERIZAÇÃO DA DIVERGÊNCIA.
+I - Na origem, trata-se de ação ordinária com pedido de tutela provisória de urgência antecipada em desfavor da União Federal objetivando provimento jurisdicional que assegure, em tutela de urgência, o imediato restabelecimento do pagamento dos proventos do autor nos valores correspondentes ao posto de Segundo Tenente, bem como, em julgamento de mérito, a confirmação do pedido realizado em tutela de urgência, a restituição dos valores descontados em dobro e, ainda, que a União seja condenada ao pagamento de quantia indenizatória a título de danos morais. Na sentença o pedido foi julgado improcedente. No Tribunal a quo, a sentença foi mantida.
+II - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+III - Relativamente às demais alegações de violação, esta Corte somente pode conhecer da matéria objeto de julgamento no Tribunal de origem. Ausente o prequestionamento da matéria alegadamente violada, não é possível o conhecimento do recurso especial. Nesse sentido, o enunciado n. 211 da Súmula do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"; e, por analogia, os enunciados n. 282 e 356 da Súmula do STF.
+IV - Para a caracterização da divergência, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, §§ 1º e 2º, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a indicação de dispositivo legal supostamente violado, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso.
+V - Agravo interno improvido.
+(AgInt no REsp n. 1.910.923/RN, relator Ministro Francisco Falcão, Segunda Turma, julgado em 30/5/2022, DJe de 2/6/2022.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇO DE TELEFONIA. AUSÊNCIA DE PREQUESTIONAMENTO DO DISPOSITIVO LEGAL TIDO POR VIOLADO. SÚMULA 211 DO STJ. FALHA NA PRESTAÇÃO DO SERVIÇO DE TELEFONIA. DADOS COLETADOS PELA ANATEL. INDICADORES DE QUALIDADE. ATENDIMENTO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE ANÁLISE DE CLÁUSULA CONTRATUAL E REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. SIMILITUDE FÁTICO-PROBATÓRIA NÃO DEMONSTRADA. AUSÊNCIA DE COTEJO ANALÍTICO. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, à luz da Súmula 211/STJ. No caso, não foi apreciado pela Corte de origem o art. 18 do CDC, apontado no recurso especial.
+2. A análise das razões apresentadas pela recorrente, quanto à falha na prestação de serviço de telefonia, demandaria o reexame da matéria fática e do conteúdo contratual, o que é vedado em recurso especial (Súmulas 5 e 7 do STJ).
+3. Consoante entendimento firmado pelo Superior Tribunal de Justiça, a parte recorrente deve proceder ao cotejo analítico entre os arestos comparados e transcrever os trechos dos acórdãos que configurem o dissídio jurisprudencial, sendo insuficiente, para tanto, a mera transcrição de ementa, pois a análise da demonstração da dissídio jurisprudencial deve ser manifestada de forma escorreita, com a necessária demonstração de similitude fática entre os acórdãos confrontados, e a inobservância do art. 1.029, § 1º, do CPC/2015 impede o conhecimento do recurso especial pela alínea c do permissivo constitucional.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.848.605/PR, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 23/5/2022, DJe de 25/5/2022.)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
