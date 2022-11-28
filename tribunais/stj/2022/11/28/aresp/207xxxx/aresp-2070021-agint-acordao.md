@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Herman Benjamin e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata-se de Agravo Interno interposto por Nutrition & Sante do Brasil Ltda, contra decisão monocrática proferida às fls. 506/507 (e-STJ), cuja ementa assim estabelece,in verbis:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL.
+OFENSA AOS ARTIGOS 489 E 1.022, AMBOS DO CPC/2015. NÃO CARACTERIZAÇÃO. CONTRIBUIÇÃO AO PIS E COFINS. DIREITO DE CREDITAMENTO. DESPESAS. ACÓRDÃO CUJA CONCLUSÃO DEPENDE DO EXAME DE PROVA PARA EVENTUAL ALTERAÇÃO. INADMISSIBILIDADE.SÚMULA 7/STJ. AGRAVO CONHECIDO PARA SE CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NESSA EXTENSÃO NEGO-LHE PROVIMENTO.
+Os embargos de declaração foram rejeitados.
+Nas razões do Agravo Interno, a recorrente reitera a ofensa ao comando dos artigos 489, § 1º, inciso IV, e, 1.022, ambos, do CPC/2015, ao pugnar pela nulidade do acórdão proferido na origem, ante uma suposta omissão quanto ao enquadramento tributário dosgastos com segurança, vigilância e alimentação da contribuinte, haja vista se tratar de uma despesa essencial e relevante para a atividade industrial da Agravante. Por seguinte, a recorrente afirma não se aplicar no caso em tela o óbice da Súmulas 7/STJ, posto que a matéria quanto ao enquadramento fiscal das rubricas referidas é tema de direito.
+Não houve a apresentação de contraminuta ao Agravo Interno.
+É como voto.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NOAGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTIGOS 489 E 1.022, AMBOS DO CPC/2015. NÃO CARACTERIZAÇÃO.CREDITAMENTO PIS E COFINS. DESPESAS NÃO CARACTERIZADAS COMO INSUMOS. REVISÃO. IMPOSSIBILIDADE. REVISÃO DE CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1.Consoante asseverado na decisão agravada, a jurisprudência desta Corte é firme no sentido de que não há ofensa aos artigos 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida a sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Confira-se: AgInt nos EDcl no REsp 1.469.906/MG, 3ª Turma, DJe de 16/02/2018; AgInt no AREsp 808.418/SP, 4ª Turma, DJe de 13/12/2017.
+2. Arecorrente almeja o direito aocreditamento fiscal relativo às despesas referentes aos insumos dispendidos com as rubricas de alimentação, segurança e vigilância, ao se apurar a base de cálculo da PIS/CONFIS. Ao analisar esta questão, o Tribunal de origem afastou tal pretensão, ao concluirque tais despesas não se amoldam ao conceito de insumo da atividade empresarial.
+3. Nesse sentido, a revisão das conclusões adotadas pelo Tribunal de origem, com o objetivo de acolher a pretensão recursal acerca da utilização dos créditos analisados, demandaria, necessariamente, o reexame de contexto fático-probatório dos autos, o que é vedado em recurso especial, a teor da Súmula 7 desta Corte.
+4. Agravo interno a que se nega provimento.
+VOTO
+Consoante asseverado na decisão agravada, a jurisprudência desta Corte é firme no sentido de que não há ofensa aos artigos 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida a sua apreciação, ainda que de forma diversa daquela pretendida pela parte. Confira-se: AgInt nos EDcl no REsp 1.469.906/MG, 3ª Turma, DJe de 16/02/2018; AgInt no AREsp 808.418/SP, 4ª Turma, DJe de 13/12/2017.
+Na hipótese, não assiste razão à agravante quanto à apontada violação aos artigos 489 e 1.022 do CPC/15, visto que o órgão julgador analisou a matéria que lhe fora posta à apreciação de forma ampla e fundamentada.Outrora, com efeito, os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC. Os aclaratórios constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento previstos no CPC. Verifico, outrossim, que o inconformismo da parte embargante busca emprestar efeitos infringentes, manifestando nítida pretensão de rediscutir o mérito do julgado, o que é incabível nesta via recursal.
+Dessa forma, reitero que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Ilustrativamente:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO. VÍCIO. USURPAÇÃO DE COMPETÊNCIA. OCORRÊNCIA. EMBARGOS ACOLHIDOS PARCIALMENTE, SEM EFEITOS MODIFICATIVOS.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do Código de Processo Civil, destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão ou corrigir erro material.
+2. Identifica-se, no recurso, vício ensejador do acolhimento parcial dos declaratórios, mas apenas para complementação de fundamentos.
+3. Conforme compreensão do Supremo Tribunal Federal, o exercício pelos tribunais de origem da competência própria prevista no art. 1.030 do CPC não configura usurpação de suas atribuições constitucionais.
+4. Embargos de declaração acolhidos parcialmente, sem efeitos modificativos.
+(EDcl no AgInt no RE nos EDcl no AgInt no AREsp n. 1.062.307/SP, relator Ministro Og Fernandes, Corte Especial, julgado em 25/10/2022, DJe de 3/11/2022.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEVOLUÇÃO DE UNIDADE DE CARGA. OMISSÃO NÃO CARACTERIZADA. REDISCUSSÃO. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Os recursos especiais interpostos com base na alínea "c" do permissivo constitucional não dispensam o necessário prequestionamento da questão jurídica, o que não ocorreu no presente caso, pois é impossível haver divergência sobre determinada questão federal se o acórdão recorrido nem mesmo emitiu juízo de valor acerca da matéria jurídica (AgInt no AREsp 1.036.444/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 03/08/2017, DJe de 14/08/2017).
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp n. 2.096.953/SP, relator Ministro Raul Araújo, Quarta Turma, julgado em 3/10/2022, DJe de 24/10/2022.)
+Ademais, a recorrente almeja o creditamento fiscal relativo às despesas referentes aos insumos dispendidos com as rubricas dealimentação, segurança e vigilância,na apuração da PIS/CONFIS. Ao analisar esta questão, o Tribunal de origem afastou tal pretensão, no seguinte sentido,in verbis:
+A pretensão é para que sejam apurados créditos de PIS/COFINS sobre despesas com alimentação, segurança e vigilância.
+Em face do Tema 779/STJ e do objeto social da empresa, conclui-se que tais despesas não se amoldam ao conceito de insumo, porquanto não são elementos essenciais ou relevantes para o desenvolvimento da atividade produtiva da empresa, caracterizando-se como meros custos operacionais relacionados à comercialização dos seus produtos.
+A subtração das referidas despesas não importa na impossibilidade do prosseguimento de sua atividade social, por constituírem, em verdade, meras despesas ou custos operacionais que não geram direito aos créditos.
+Mesmo desempenhando importante papel na atividade da empresa, não se associam diretamente à atividade- m, nem são executados por determinação legal.
+Como asseverado pela Corte de origem, após o exame do contexto fático-probatório dos autos, concluiu-se que as despesas relativas a alimentação, segurança e vigilância, não se enquadram no conceito de insumo para a atividade econômica preponderante da empresa.
+Portanto, para dissentir das conclusões então adotadas, com o objetivo de acolher a pretensão recursal acerca da utilização dos créditos analisados, demandaria, necessariamente, o reexame de contexto fático-probatório dos autos, o que é vedado em recurso especial, a teor da Súmula 7 desta Corte.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CREDITAMENTO PIS E COFINS. DESPESAS NÃO CARACTERIZADAS COMO INSUMOS. REVISÃO. IMPOSSIBILIDADE. REVISÃO DE CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A Primeira Seção deste Superior Tribunal, em julgamento de recurso repetitivo, firmou entendimento no sentido de que o conceito de insumo deve ser aferido à luz dos critérios da essencialidade ou relevância, considerando-se a imprescindibilidade ou a importância de determinado item - bem ou serviço - para o desenvolvimento da atividade econômica desempenhada pelo contribuinte.
+2. Revela-se desnecessária a devolução dos autos à origem porquanto a orientação da instância ordinária está no mesmo sentido da tese repetitiva firmada por este STJ.
+3. A revisão das conclusões adotadas pelo Tribunal de origem, com o objetivo de acolher a pretensão recursal acerca da utilização dos créditos analisados, demandaria, necessariamente, o reexame de contexto fático-probatório dos autos, o que é vedado em recurso especial, a teor da Súmula 7 desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp n. 1.732.097/SP, relator Ministro Manoel Erhardt (Desembargador Convocado do Trf5), Primeira Turma, julgado em 20/6/2022, DJe de 23/6/2022.)
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
