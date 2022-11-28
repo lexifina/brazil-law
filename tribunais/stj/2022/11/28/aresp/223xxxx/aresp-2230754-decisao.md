@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por EVANOR JAIR HORST e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL, assim resumido:
+APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. AÇÃO DE INDENIZAÇÃO. ABALROAMENTO DURANTE MANOBRA DE CONVERSÃO. IMPRUDÊNCIA DO DEMANDADO DEMONSTRADA. VIOLAÇÃO DA INTEGRIDADE FÍSICA DA AUTORA. DANOS MATERIAIS, MORAIS E ESTÉTICOS COMPROVADOS.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 373, I, do CPC, no que concerne à indevida e injustificada do ônus probatório, trazendo os seguintes argumentos:
+3.1. Como dito, não há testemunhas presenciais do acidente. Todas as três testemunhas arroladas pela autora/recorrida declararam, em seus depoimentos, que chegaram ao local quando o acidente já havia ocorrido. Portanto, nenhuma delas de fato presenciou o evento.
+ ..
+Ocorre que, ante a ausência de testemunhas presenciais, nenhuma das versões apresentadas pelas partes pode ser confirmada pelos elementos de prova produzidos.
+Em tais condições, tendo-se em vista a controvérsia estabelecida em relação ao fato constitutivo do direito alegado pela parte autora -conforme demonstrado acima -, a ausência de provas necessariamente conduz à improcedência do pedido.
+Trata-se da regra geral de distribuição do ônus da prova aplicável ao presente caso, prevista no artigo 373, inciso I, do Código de Processo Civil, segundo a qual cabe ao autor comprovar o fato constitutivo do seu direito.
+3.2. Pois bem. Tanto a sentença proferida em 1º Grau de Jurisdição como o acórdão que a confirmou, ao atribuírem a culpa pelo acidente à parte ré/recorrente, o fizeram sob o fundamento de que o teor do registro de ocorrência seria incompatível com a narrativa da defesa.
+Em primeiro lugar,essa suposta incompatibilidade simplesmente não existe.
+ ..
+De todo modo, ainda que o teor do registro de ocorrência não contenha informações suficientes para confirmar a narrativa dos requeridos/recorrentes, e mesmo que fosse incompatível com a tese da defesa - o que ora se cogita apenas para efeito de argumentação -, é certo que também não serve para corroborar a versão da autora/recorrida. Isso nos parece bastante óbvio, data maxima venia.
+Resta evidente, pois, que a responsabilização dos requeridos/recorrentes seu deu mediante a inversão indevida e injustificada do ônus da prova, em manifesta violação do disposto no artigo 373, inciso I, do Código de Processo Civil (fls. 557/560)
+É, no essencial, o relatório. Decido.
+No que concerne ao recurso apresentado,
+incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020; AgRg no AREsp n. 2.022.133/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 15/8/2022.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
