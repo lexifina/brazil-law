@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por ENEAS SILVA LOPES com fundamento no artigo 105, inciso III, alínea"a",da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Pará, assim ementado:
+APELAÇÃO PENAL. HOMICiD10 QUALIFICADO. TRIBUNAL DO JÚRI. JULGAMENTO CONTRÁRIO A PROVA DOS AUTOS. INOCORRÊNCIA. REFORMA DA DOSIMETRIA. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO. DECISÃO UNÂNIME.
+1. Não é possível anular a decisão do Júri Popular, sob o pálio de contrariedade ao acervo probatório, pois, In casu, a versão acatada pelos jurados não se mostra inverossímil ou destoante das provas colhidas, ao contrário, encontra forte amparo no caderno processual. Submeter o recorrente a novo julgamento, sob o fundamento de que a decisão do Tribunal do Júri foi manifestamente contrária às provas dos autos, somente porque não acolheu a tese defensiva, implicaria em inaceitável afronta ao princípio constitucional da soberania de seus veredictos.
+2. O quantum de pena aplicado ao apelante apresenta-se razoável, necessário e suficiente para a reprovação e prevenção do crime a ele imputado, sendo cediço que a aplicação dos vetores do art. 59 do CPB obedece a critérios quantitativos e qualitativos, de modo que, existindo a aferição negativa de qualquer deles, fundamenta-se aelevação da pena base acima do mínimo legal (súmula n.º 23 deste Sodalício).
+3. RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME. (e-STJ fls. 520/521)
+A defesa aponta ofensa aoart. 59do CP, alegando em síntese, a inidoneidade dos fundamentos utilizados para valorar negativamente os vetores judiciais da culpabilidade, conduta social, circunstâncias e consequências do delito.
+As contrarrazões foram apresentadas às e-STJ fls. 760/765.
+Admitido o recurso, os autos vieram a esta Corte.
+Manifestação do Ministério Público Federal pelo não provimento do recurso às e-STJ fls. 778/783.
+É o relatório. Decido.
+O recursomerece prosperar, em parte.
+Extrai-se dos autos que o ora recorrente foi condenado à pena de 22 anos de reclusãopelo cometimento do crime do art. 157, § 2º, IVdo Código Penal.
+A defesa alegaa inidoneidade dos fundamentos utilizados para valorar negativamente os vetores judiciais da culpabilidade, conduta social, circunstâncias e consequências do delito.
+A insurgência não procede com relação àculpabilidade, isso porque como bem entendeu o Tribunal de origem, a forma do cometimento do delito, com disparos contra a cabeça da vítima, por possuir características de execução, revelamaior gravidade da condutae autoriza o aumento da pena-base. Confira-se:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 121, § 2º, I, DO CÓDIGO PENAL - CP. HOMICÍDIO QUALIFICADO. PENA-BASE. EXASPERAÇÃO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MODUS OPERANDI. CARACTERÍSTICAS DE EXECUÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A valoração negativa de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal.
+1.1. In casu, o homicídio foi cometido com características de execução, pois diversos disparos de arma de fogo foram efetuados em concurso de pessoas, sendo certo que a maioria dos tiros acertou a cabeça da vítima.
+2. Agravo regimental desprovido.(AgRg no AREsp n. 1.285.248/MG, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 20/5/2019.)
+Em relação às circunstâncias do crime, também não merece reparo a dosimetria, porquanto a jurisprudência deste Tribunal admite o desvalor do aludido vetor em razão da execução de disparos em via pública(HC 536.480/RJ, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO - Desembargadorconvocado doTJ/PE), Quinta Turma, DJE26/11/2019).
+De igual forma, tem-se correta a avaliação desfavorável das consequências do delito, considerando que esta Corte possui entendimento firme no sentido de queaidade da vítima pode ser levada em consideração para a exasperação da pena-base" (HC 614.998/PE, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 20/10/2020).
+Ainda namesma linha:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. DOSIMETRIA. CONSEQUÊNCIAS DO CRIME. IDADE DA VÍTIMA (15 ANOS AO TEMPO DO FATO). MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL PROVIDO.
+1. Deve prevalecer a orientação da Quinta Turma, no sentido da idoneidade da fundamentação, pois a tenra idade da vítima (menor de 18 anos) é elemento concreto e transborda aqueles ínsitos ao crime de homicídio, sendo apto, pois, a justificar o agravamento da pena-base, mediante valoração negativa das consequências do crime, ressalvada, para evitar bis in idem, a hipótese em que aplicada a majorante prevista no art. 121, § 4º (parte final), do Código Penal (AgRg no REsp 1851435/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 12/08/2020, DJe 21/09/2020).
+2. O fato de a vítima, na hipótese, possuir, à época, apenas 15 anos de idade constitui, por si só, fundamento idôneo a exasperação da pena-base. Majoração da pena para 21 anos de reclusão, mantidas as demais cominações da condenação.
+3. Agravo regimental provido.(AgRg no REsp n. 1.904.091/PR, relator Ministro Olindo Menezes - Desembargador Convocado do TRF 1ª Regiã -, Sexta Turma, DJe de 7/6/2021.)
+Por fim, a conduta social, foi assim avaliada pelo TJPA:
+Conduta social não avaliada nos autos, mas, a meu ver, pessoa de comportamento e perfil psicológico voltada para a prática de delitos, posto existirem outros registros de ter o acusado se envolvido em ilícitos penais, crimes esses praticados, em sua maioria, com violência e grave ameaça à pessoa, sendo que o presente crime não constitui um episódio acidental na vida do réu;
+Nesse ponto, com razão a defesa, isso porquea jurisprudência desta Corte firmou entendimento de que, considerando o princípio da presunção da inocência, inquéritos policiais ou ações penais em andamento não se prestam a majorar a reprimenda, seja a título de maus antecedentes,conduta social negativa ou personalidade voltadapara o crime, em respeito ao princípio da presunção da não culpabilidade, nos termos da Súmula 444/STJ (É vedada a utilização de inquéritos policiais e ações penais em curso para agravar a pena-base).
+Nesse contexto, é necessário o ajuste na dosimetriada pena.
+Mantidos os parâmetros utilizados pelo Tribunal e com o decote da circunstância judicial da conduta social, fica a pena do recorrente fixada em 20 anos de reclusão.
+Ante o exposto, com fundamento no art. 932, inciso VIII, do CPC, e no art. 255, § 4º, inciso III, do RISTJ, e na Súmula n. 568/STJ, dou parcial provimento ao recurso especial para reduzir a pena do recorrente para 20 anos de reclusão.
+Intimem-se.
