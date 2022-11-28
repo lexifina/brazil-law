@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Conheceu-se do agravo para não conhecer do recurso especialinterposto peloEstado do Mato Grosso, com fundamento no art. 105, III, a e c, da CF/1988.
+O recurso especial visa reformar acórdão do Tribunal de Justiça do Estado do Mato Grosso, nos termos da seguinte ementa (fl. 274):
+AGRAVO INTERNO INTERPOSTO NO RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - URV - PRESCRIÇÃO DE FUNDO DE DIREITO - PEDIDO DE RETRATAÇÃO DA DECISÃO - IMPOSSIBILIDADE - PRECEDENTES JURISPRUDENCIAIS - RECURSO DESPROVIDO.
+1. Não se opera a prescrição do fundo de direito nos casos em que se busca o pagamento de diferenças salariais decorrentes da omissão da Administração em converter corretamente cruzeiros reais para URV, mas tão-somente das parcelas anteriores ao quinquênio que precedeu à propositura da ação, porquanto resta caracterizada relação de trato sucessivo, que se renova mês a mês, nos termos da Súmula n. 85 desta Corte.
+2. Agravo Interno desprovido.
+Na origem, trata-se de ação ajuizada por Regiane Martins Neris Oliveiracontra o Estado de Mato Grosso, ao argumento de que sofreu prejuízos financeiros na conversão do cruzeiro real para a URV em 1994, uma vez que o ente público não observou a regra ocasionando diferença salarial de 11,98%. Na sentença, julgou-se parcialmente procedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada, apenas quanto à correção monetária e juros de mora, para observar o quanto decidido no Tema n. 810/STF. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+No recurso especial, o Estado do Mato Grossoaponta dissídio jurisprudencial e alega ofensa aosarts. 189 do CC e 1º do Decreto n. 20.910/1932, no que concerne ao reconhecimento da prescrição quinquenal da pretensão relativa ao pleito de conversão em URV, uma vez que o termo inicial se deu há mais de cinco anos com a reestruturação remuneratória da carreira, trazendo o(s) seguinte(s) argumento(s):
+Nesse contexto, importa ressaltar que, de acordo com o entendimento do Supremo Tribunal Federal (STF), esposado no RE 561836/RN, as leis que promoveram a reestruturação remuneratória da carreira são o termo final para a percepção de qualquer parcela decorrente da errônea conversão da URV, por não haver direito ad aeternum de parcela de remuneração ao servidor público. Colaciona-se trecho do julgado do STF a respeito do tema (..) (fl. 287).
+Ora, se o termo final para a percepção de qualquer vantagem decorrente da conversão da URV é a reestruturação remuneratória da carreira, a ocorrência da reestruturação financeira fulmina a pretensão autoral, nos cinco anos subsequentes à reestruturação.
+Isto porque, o direito foi violado definitivamente (nas palavras do STF, o término da incorporação), com a reestruturação remuneratória da carreira, nascendo, a partir de então, a pretensão que se extingue com o prazo prescricional quinquenal para postular quaisquer dívidas à Fazenda Pública (Art. 189 do Código Civil de 2002 e Art. 1º do Decreto nº 20.190/1932) (fl. 289).
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial. "
+Interposto agravo interno, foi julgado pela Segunda Turma, conforme a seguinte ementa do acórdão (fl. 366):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIFERENÇAS DA URV. EVENTUAL REESTRUTURAÇÃO DE CARREIRA. PRESCRIÇÃO. INCIDÊNCIA DA SÚMULA N. 85/STJ. PRECEDENTES. AGRAVO INTERNO IMPROVIDO. DECISÃO AGRAVADA MANTIDA POR OUTROS FUNDAMENTOS.
+I - Na origem, trata-se de ação ordinária, com pedido de exibição de documentos, contra o Estado de Mato Grosso, ao argumento de que sofreu prejuízos financeiros na conversão do cruzeiro real para a URV em 1994, uma vez que o ente público não observou a regra ocasionando diferença salarial de 11,98%. Na sentença, julgou-se procedente o pedido da parte. No Tribunal a quo, a sentença foi parcialmente reformada, apenas quanto à correção monetária e juros de mora, para observar o quanto decidido no Tema n. 810/STF.
+II - A decisão agravada merece ser mantida sob outros fundamentos, conforme se verifica a seguir. O tema discutido no recurso especial encontra-se devidamente prequestionado, quanto ao tema relativo à prescrição, devendo passar-se à análise do mérito recursal. A esse respeito a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, embora deva ser considerada a reestruturação da carreira do servidor para apuração das diferenças da URV, a prescrição ocorre somente quanto ao quinquênio anterior ao ajuizamento da ação, nos termos da Súmula n. 85/STJ (AgInt no AREsp n. 1.959.739/MT, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 30/5/2022, DJe de 7/6/2022; AgInt no AREsp n. 1.830.490/MT, relator Ministro Manoel Erhardt (Desembargador convocado do Trf5), Primeira Turma, julgado em 6/12/2021, DJe de 9/12/2021.)
+III - Agravo interno improvido.
+Opostosembargos de declaração, aponta a parte embargante vícios no acórdão embargado, resumidos nos seguintes termos (fl. 386):
+Como visto, a prescrição, nos casos em que há reestruturação de determinada carreira, atinge o fundo de direito (e não somente as parcelas anteriores ao quinquênio prescricional) e possui como termo inicial a data dessa reestruturação.
+Dessa forma, com a incorporação, não há mais que se cogitar na ocorrência de relação de trato sucessivo nem de prescrição das parcelas anteriores ao lustro prescricional, pois ocorre, no caso, a prescrição do fundo de direito, cujo termo inicial é a própria reestruturação remuneratória da carreira.
+Essas premissas permitem a conclusão pela existência de obscuridade no acórdão recorrido, o qual alude a uma suposta jurisprudência pacífica do Superior Tribunal de Justiça, mas olvida que o entendimento dominante é no sentido contrário ao afirmado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. DIFERENÇAS DA URV. REESTRUTURAÇÃO DE CARREIRA. PRESCRIÇÃO. INCIDÊNCIA DA SÚMULA N. 85/STJ. AGRAVO INTERNO IMPROVIDO. ALEGAÇÃO DE VÍCIOS NO ACÓRDÃO EMBARGADO. INEXISTÊNCIA.
+I -Na origem, trata-se de ação ajuizadacontra o Estado de Mato Grosso, ao argumento de que a autorasofreu prejuízos financeiros na conversão do cruzeiro real para a URV em 1994, uma vez que o ente público não observou a regra ocasionando diferença salarial de 11,98%.
+II - Na sentença, julgou-se parcialmente procedente o pedido. No Tribunal a quo, a sentença foi parcialmente reformada, apenas quanto à correção monetária e juros de mora, para observar o quanto decidido no Tema n. 810/STF. Esta Corte conheceu do agravo para não conhecer do recurso especial.
+III -Opostos embargos de declaração, aponta a parte embargante vícios no acórdão embargado.
+IV - Os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso.
+V - A matéria referente à prescrição foi devidamente examinada pelo acórdão recorrido, o que afasta a alegação de obscuridade.
+VI - Embargos de declaração rejeitados.
+VOTO
+Os embargos não merecem acolhimento.
+Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade; eliminar contradição; suprir omissão de ponto ou questão sobre as quais o juiz devia pronunciar-se de ofício ou a requerimento; e/ou corrigir erro material.
+Conforme entendimento pacífico desta Corte:
+O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+(EDcl no MS n. 21.315/DF, relatora Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016.)
+A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do CPC/2015, razão pela qual inviável o seu exame em embargos de declaração. Nesse sentido:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC.
+1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial.
+2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+3. Embargos de declaração rejeitados.
+(EDcl nos EAREsp n. 166.402/PE, relator Ministro Luis Felipe Salomão, Corte Especial, julgado em 15/3/2017, DJe 29/3/2017.)
+EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. CONTRADIÇÃO. NÃO OCORRÊNCIA. OMISSÕES. INEXISTÊNCIA. CARÁTER PROCRASTINATÓRIO RECONHECIDO. APLICAÇÃO DE MULTA.
+1. A contradição capaz de ensejar o cabimento dos embargos declaratórios é aquela que se revela quando o julgado contém proposições inconciliáveis internamente.
+2. Sendo os embargos de declaração recurso de natureza integrativa destinado a sanar vício - obscuridade, contradição ou omissão -, não podem ser acolhidos quando a parte embargante pretende, essencialmente, a obtenção de efeitos infringentes.
+3. Evidenciado o caráter manifestamente protelatório dos embargos de declaração, cabe a aplicação da multa prevista no parágrafo único do art. 538 do CPC/1973.
+4. Embargos de declaração rejeitados com aplicação de multa.
+(EDcl na Rcl n. 8.826/RJ, relator Ministro João Otávio de Noronha, Corte Especial, julgado em 15/2/2017, DJe 15/3/2017.)
+A matéria referente à prescrição foi devidamente examinada pelo acórdão recorrido, o que afasta a alegação de obscuridade, conforme se percebe doseguinte trecho (fl. 370):
+O tema discutido no recurso especial encontra-se devidamente prequestionado, quanto ao tema relativo à prescrição, devendo passar-se a análise do mérito recursal.
+A esse respeito a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que, embora deva ser considerada a reestruturação da carreira do servidor para apuração das diferenças da URV, a prescrição ocorre somente quanto ao quinquênio anterior ao ajuizamento da ação, nos termos da Súmula n. 85/STJ. (..)
+Desse modo, ainda que ocorrida a reestruturação da carreira, ao contrário do que afirmado pelo agravante, não há que se falar em prescrição do fundo de direito.
+Cumpre ressaltar que os aclaratórios não se prestam ao reexame de questões já analisadas com o nítido intuito de promover efeitos modificativos ao recurso. No caso dos autos, não há omissão de ponto ou questão sobre as quais o juiz, de ofício ou a requerimento, devia pronunciar-se, considerando que o acórdão apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
