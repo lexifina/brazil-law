@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Gurgel de Faria votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NORECURSO ESPECIAL.VÍCIOS DESCRITOS NO ART. 1.022 DO CPC/2015 NÃO CONFIGURADOS. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1.O art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos embargos de declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição, omissão ou erro material.
+2. O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, previstos no art. 1.022 do CPC/2015, porquanto o acórdão ora combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+1. Trata-se de embargos de declaração opostos por DORALICE SOARES DA SILVA contra acórdãoassim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. CUMPRIMENTO DE SENTENÇA. LIMITES SUBJETIVOS DO TÍTULO EXECUTIVO FORMADO EM AÇÃO COLETIVA. IMPOSSIBILIDADE DE REEXAME. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O entendimento firmado pelo Tribunal de origem, à luz das provas dos autos, pela ilegitimidade ativa do servidor para propor a execução, não pode ser apreciado sem rever os limites do título executivo judicial formado em ação coletiva, providência vedada em recurso especial, sob pena de ofensa à Súmula 7 desta Corte. Precedentes do STJ.
+2. Agravo interno desprovido (fl. 164).
+2. A parte embargante alega que houve omissão no acórdão, repisando os argumentos trazidos no agravo interno quanto àdesnecessidade de reexame de provas e cabimento do provimento do recurso especial para em respeito à coisa julgada formada no processo de conhecimento, determinar o prosseguimento da execução de sentença, na medida em que, embora a exequente tenha obtido a aposentadoria integral em 12.09.2000, em 30.12.1995 preencheu todos os requisitos para tanto, de modo que abrangida pelo título executivo, em que assegurada a vantagem do art. 192 da Lei nº 8.112/90 (fls. 175/176).
+3. Sem impugnação (fl. 185).
+4. É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NORECURSO ESPECIAL.VÍCIOS DESCRITOS NO ART. 1.022 DO CPC/2015 NÃO CONFIGURADOS. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1.O art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos embargos de declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição, omissão ou erro material.
+2. O inconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, previsto no art. 1.022 do CPC/2015, porquanto o acórdão ora combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+3. Embargos de declaração rejeitados.
+VOTO
+1.O art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos embargos de declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição, omissão ou erro material.
+2. Na espécie, o acórdão recorrido afastou fundamentadamenteo conhecimento do recurso especial por óbice da Súmula 7/STJ, consignando:
+3. Nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou sobre o cerne da insurgência:
+O título judicial executado se origina de decisão proferida na ação coletiva nº 2002.71.00.041015-0, que reconheceu o direito dos substituídos à percepção cumulada dos quintos incorporados e da vantagem do art. 192 da Lei nº 8.112/90. O título executivo restringiu a sua abrangência aos servidores do Ministério da Saúde e do Trabalho do Estado do RS, aposentados entre 11/12/1990 e 09/12/1997, que tiveram a referida vantagem suprimida de seus proventos. A sentença executada assim dispôs:(..)Assim, considerando que a exequente veio a se aposentar após09/12/1997, ela não foi beneficiada pelo título executivo, não importando que ela já preenchia os requisitos para se aposentar durante o período previsto na sentença exequenda. A pretensão da exequente transborda da abrangência da coisa julgada formada na ação de conhecimento. Cabe ressaltar que as condições da ação de execução são matéria de ordem pública, tendo o Julgador o dever de zelar pela estrita observância do conteúdo do título exequendo (fls. 43/44).
+4. Nos termos em que decidida a questão, para rever a conclusão da Corte de origem pela ilegitimidade ativa do autor para propor a execução, e analisar os argumentos trazidos no recurso especial, seria necessário apreciar os limites do título executivo judicial formado em ação coletiva. Entretanto, é firme a jurisprudência desta Corte pela inviabilidade de apreciar, em recurso especial, o teor do título executivo judicial, para verificar possível ofensa à coisa julgada, por óbice da Súmula 7/STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial (fl. 167).
+3. Assim, oinconformismo da parte embargante não se amolda aos contornos da via dos embargos de declaração, previstos no art. 1.022 do CPC/2015, porquanto o acórdão ora combatido não padece de vícios de omissão, contradição, obscuridade ou erro material, não se prestando o manejo de tal recurso para o fim de rediscutir os aspectos jurídicos anteriormente debatidos.
+4. Os embargos de declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, de modo a viabilizar, em fase processual inadequada, a desconstituição de ato judicial regularmente proferido.
+5. Ante o exposto, rejeito os embargos de declaração de DORALICE SOARES DA SILVA.
+6. É como voto.
