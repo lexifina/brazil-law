@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NO RECURSO ESPECIAL. SÚMULA 283/STF. LAUDO PERICIAL. ALEGAÇÃO DE ERRO MATERIAL. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. É entendimento desta Corte Especial que "não é possível o acolhimento da pretensão recursal, no sentido de rever a metodologia adotada no laudo pericial contábil, em virtude do óbice previsto no enunciado da Súmula nº 7 do STJ" (AgInt nos EDcl no AREsp 1.612.738/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/11/2021, DJe de 1º/12/2021).
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de agravo interno interposto por BANCO DO BRASIL S/A, inconformado com a decisão de fls. 986/988, que conheceu do agravo para negar provimento ao recurso especial, em razão da incidência da Súmula 283/STF e da Súmula 7/STJ.
+Em suas razões, a agravante aponta que: (a) houve a impugnação quanto aos termos da decisão agravada inclusive da aplicação da Súmula 7/STJ pelo juízo recorrido, sendo desnecessária incursão no acervo fático-probatório da demanda, pois demonstrou-se a violação aos arts. 884, parágrafo único, do CC/2002 e 1.022 do CPC/2015.
+Foi apresentada impugnação às fls. 1002/1005.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NO RECURSO ESPECIAL. SÚMULA 283/STF. LAUDO PERICIAL. ALEGAÇÃO DE ERRO MATERIAL. AFASTAMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão recorrido atrai o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+2. É entendimento desta Corte Especial que "não é possível o acolhimento da pretensão recursal, no sentido de rever a metodologia adotada no laudo pericial contábil, em virtude do óbice previsto no enunciado da Súmula nº 7 do STJ" (AgInt nos EDcl no AREsp 1.612.738/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/11/2021, DJe de 1º/12/2021).
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+A irresignação não merece prosperar.
+A Corte de origem concluiu, diante do conjunto fático-probatório dos autos, que a perícia considerou corretamente o contrato liquidado em 1993 por fora da sentença transitada em julgado, pois a primeira amortização era suficiente para saldar o débito readequado, não havendo que se falar em erro material, e que a agravante agravou da decisão sem discriminar o valor que entendia como correto, in verbis:
+"Segundo alega o banco embargante, o perito teria considerado, indevidamente, que a operação bancária revisanda teria sido liquidada em 11-5-1993, classificando a amortização procedida em 5-5-1994 como indébito, quando, em verdade, a liquidação da operação se deu apenas em nesta última data, 5-5-1994, haja vista que, do pagamento efetuado em 11-5-1993, resultara saldo devedor.É preciso distinguir as situações e circunstâncias do contrato e do pagamento anteriores e posteriores à revisão contratual decidida por sentença com natureza (des)constitutiva, porque, após o provimento revisional, que limitou os juros remuneratórios, dentre outras questões, a relação contratual e os pagamentos foram reavaliados. O perito judicial considerou essa premissa, concluindo que a primeira amortização, realizada em 1993, após a revisão dos encargos contratuais, era suficiente para saldar o débito readequado, considerando o excedente, inclusive o pagamento efetuado em 1994, como indébito. Está correto, portanto, considerar o contrato liquidado em 1993 a partir da revisão contratual empreendida por força da sentença transitada em julgado objeto da liquidação originária, inexistindo qualquer erro material no cálculo homologado pelo juízo. Torna-se a ressaltar, como já ressaltado no acórdão anterior dos embargos de declaração, que a instituição financeira impugnara o cálculo homologado pelo juízo e interpusera agravo de instrumento sem discriminar o valor que entedia como correto, ônus que lhe competia, quando, rigorosamente, não haveria motivo para o conhecimento da alegação de excesso na qual centrado o suposto erro material." (e-STJ, fls. 794/795)
+Diversamente do que afirma o agravante, os fundamentos de que a primeira amortização era suficiente para saldar o débito e de que não houve discriminação do valor reputado como correto no agravo de instrumento não foram objeto de impugnação e são suficientes, por si sós, a manter a decisão da Corte de origem, o que atrai, na hipótese, a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. MONTADORA DE VEÍCULOS. CONCESSIONÁRIAS. SOLIDARIEDADE. DECISÃO MANTIDA.
+1. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+2. "A fornecedora de veículos automotores para revenda - montadora concedente - é solidariamente responsável pelos atos de seus prepostos (concessionária) diante do consumidor, ou seja, há responsabilidade de quaisquer dos integrantes da cadeia de fornecimento que dela se beneficia. Precedentes" (AgRg no AREsp 629.301/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/10/2015, DJe 13/11/2015).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 495.367/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 21/03/2017, DJe de 28/03/2017)
+Ademais, a modificação de tais entendimentos lançados no v. acórdão recorrido, no sentido de comprovar que o laudo pericial contém erro material, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na via estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Vejamos:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. MORA. CARACTERIZAÇÃO. CIÊNCIA DA PARTE AGRAVANTE. LAUDO PERICIAL. ANÁLISE DA METODOLOGIA. INVIABILIDADE. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A mora do devedor é descaracterizada tão somente quando a índole abusiva decorrer da cobrança dos chamados encargos do "período da normalidade", juros remuneratórios e capitalização dos juros. A Segunda Seção desta Corte fixou o entendimento de não ser a abusividade de encargos acessórios do contrato, dentre eles a TAC, suficiente à descaracterização da mora (Tema 972). AgInt no REsp 1829177/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/04/2020, DJe 27/04/2020).
+2. No caso em tela, não é possível o acolhimento da pretensão recursal, no sentido de rever a metodologia adotada no laudo pericial contábil, em virtude do óbice previsto no enunciado da Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1.612.738/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 29/11/2021, DJe de 1º/12/2021.)
+Ante todo o exposto, nega-se provimento ao agravo interno.
+É como voto.
