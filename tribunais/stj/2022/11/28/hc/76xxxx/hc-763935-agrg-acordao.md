@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Jorge Mussi, Reynaldo Soares da Fonseca e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Não participou do julgamento o Sr. Ministro Ribeiro Dantas.
+Presidiu o julgamento o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+Cuida-se de Agravo Regimental contra decisão de minha lavra (fls. 53/57), na qual indeferi liminarmente a impetração por entender que a existência de circunstância judicial desfavorável, no caso, os antecedentes, permite a fixação de regime inicial mais gravosodo que aquele previsto em razão do quantum de pena imposta.
+No presente recurso, oagravante reitera a tese de que a fixação de regime inicial semiaberto é desproporcional e viola a devida individualização da pena.
+Requer, assim, o provimento do agravo e a concessão da ordem de habeas corpus nos termos da inicial.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. USO DE DOCUMENTO FALSO E CORRUPÇÃO ATIVA. REGIME INICIAL SEMIABERTO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. ANTECEDENTES. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inexiste ilegalidade na fixação do regime inicial semiaberto pois, embora a pena tenha sido fixada em patamar inferior a 4 anos, a presença de circunstância judicial desfavorável, no caso, os antecedentes, justifica o agravamento do regime prisional.
+2. Agravo regimental desprovido.
+VOTO
+A decisão impugnada deve ser mantida por seus próprios fundamentos.
+A propósito, confira-se o seu teor:
+"Cuida-se dehabeas corpus, com pedido liminar, impetrado em benefício próprio porJOAO VICTOR CORDEIRO MACEDO, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁno julgamento da Apelação Criminaln. 0001853-56.2019.8.16.0196.
+Extrai-se dos autos que o paciente foi condenado em primeira instância pela prática dos crimes de uso de documento falso e corrupção ativa às penas de 2 anos, 4 meses e 11 dias de reclusão, em regime inicial semiaberto,e 11 dias-multa..
+Irresignada, a defesa interpôs apelaçãoperante o Tribunal de origem, o qual negou provimento ao recursonos termos do acórdão que restou assim ementado:
+APELAÇÃO CRIME. CONDENAÇÃO PELA PRÁTICA DOS DELITOS PREVISTOS NO ARTIGO 304 C/C ARTIGO 299 E DO ARTIGO 333, TODOS DO CÓDIGO PENAL, EM CONCURSO MATERIAL. USO DE DOCUMENTO FALSO E CORRUPÇÃO ATIVA. RECURSO DO RÉU. MATERIALIDADE E AUTORIA DEVIDAMENTE COMPROVADAS QUANTO AO CRIME DE CORRUÇÃO PASSIVA. DELITO FORMAL, DE MERA CONDUTA, QUE SE CONSUMA COM A COMPROVAÇÃO DA OFERTADA VANTAGEM INDEVIDA. PALAVRA DOS POLICIAIS MILITARES QUE POSSUI ESPECIAL CREDIBILIDADE. DEPOIMENTOS PRESTADOS DE FORMA COESA E SOB O CRIVO DO CONTRADITÓRIO. PROVA ORAL UNÍSSONA E SUFICIENTE PARA A CONDENAÇÃO. INSURGÊNCIA COM RELAÇÃO AO AUMENTO DA PENA-BASE. AUMENTO DA PENA-BASE EM RAZÃO DOS MAUS ANTECEDENTES. CONDENAÇÕES ANTERIORES ALCANÇADAS PELO PERÍODO DEPURADOR DE 05 ANOS, PREVISTO NO ARTIGO 64, I, DO CÓDIGO PENAL, PODEM SER CONSIDERADAS COMO MAUS ANTECEDENTES. PEDIDO DE ALTERAÇÃO DO REGIME INICIAL DE CUMPRIMENTO DE PENA. REGIME MAIS GRAVOSO APLICADO DE FORMA CORRETA. CIRCUNSTÂNCIAS JUDICIAIS QUE IMPÕEM A FIXAÇÃO DO REGIME SEMIABERTO, EM OBSERVÂNCIA AO DISPOSTO NO ARTIGO 33, §3º, DO CÓDIGO PENAL. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. NÃO PREENCHIMENTO DOS REQUISITOS DO ARTIGO 44, DO CP. RECURSO CONHECIDO E NÃO PROVIDO.(fl. 33).
+No presentewrit,o paciente, em nome próprio, pretende alega que está submetido a constrangimento ilegal em razão da fixação do regime inicial semiaberto. Afirma que sua condenação anterior não é apta a gerar reincidência, visto que passados mais de 5 anos da extinção da pena.
+Requer, em liminar e no mérito, a fixação do regime inicial aberto.
+É o relatório.
+Decido.
+Diante da hipótese dehabeas corpussubstitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável verificar a existência de eventual constrangimento ilegal.
+Em que pese manejado por impetrante leigo, owritencontra-se adequadamente fundamentado e instruído com a documentação necessária, não havendo motivos para remessa dos autos à Defensoria Pública.
+O Tribunal de origem manteve o regime inicial semiaberto considerando a presença de circunstância judicial desfavorável, qual seja os antecedentes.
+Quanto ao tema, dispõe o art. 33, §§ 2º e 3º, do CP:
+§ 2º - As penas privativas de liberdade deverão ser executadas em forma progressiva, segundo o mérito do condenado, observados os seguintes critérios e ressalvadas as hipóteses de transferência a regime mais rigoroso:
+a) o condenado a pena superior a 8 (oito) anos deverá começar a cumpri-la em regime fechado;
+b) o condenado não reincidente, cuja pena seja superior a 4 (quatro) anos e não exceda a 8 (oito), poderá, desde o princípio, cumpri-la em regime semi-aberto;
+c)o condenado não reincidente, cuja pena seja igual ou inferior a 4 (quatro) anos, poderá, desde o início, cumpri-la em regime aberto.
+§ 3º - A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código.
+Essa Corte firmou jurisprudência no sentido de que atendidos os requisitos constantes do art. 33, § 2º, alínea "c", e § 3º, c/c o art. 59 do Código Penal - primariedade, condenação por um não período superior a 4 anos e circunstâncias judiciais totalmente favoráveis com a fixação da pena-base no mínimo legal -, deve o sentenciado iniciar cumprir a pena privativa de liberdade no regime prisional aberto. Tal entendimento encontra-se, inclusive, sumulado, conforme se depreende das Súmulas n. 718 e 719, do Supremo Tribunal Federal, e n. 440, do Superior Tribunal de Justiça.
+Compulsando os autos, verifica-se que as instâncias ordinárias reconheceram a existências de condenaçõespretéritas já transitada em julgado à época dos fatos em comento, inclusive uma delas por crime da mesma natureza.
+Desse modo, as instâncias ordinárias não divergiram da jurisprudência dominante nesta Corte Superior no sentido de que, tratando-se de paciente tecnicamente primário, mas com circunstâncias judiciais consideradas desfavoráveis,ainda que a pena não seja superior a 4 anos, é possível a fixação do regime inicial semiaberto.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ESTELIONATO. PENA-BASE. MAUS ANTECEDENTES. REGIME INICIAL SEMIABERTO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL.AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Ainda que decorrido prazo de cinco anos entre a data do cumprimento ou da extinção da reprimenda e a infração posterior, a condenação definitiva, embora não possa prevalecer para fins de reincidência, pode ser sopesada a título de maus antecedentes.
+2. O termo inicial do período de cinco anos, para a caracterização do período depurador, é a data de cumprimento ou da extinção da pena, e não a do trânsito em julgado da condenação, nos termos do art. 64, I, do Código Penal.
+3. A existência de circunstância judicial negativa pode justificar a fixação do regime inicial mais gravoso do que aquele previsto em razão do quantum de pena imposta.
+4. Agravo regimental não provido.
+(AgRg no HC n. 743.627/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 14/6/2022, DJe de 21/6/2022.)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE ILEGAL DE MUNIÇÕES. PRINCÍPIO DA INSIGNIFICÂNCIA. APLICAÇÃO. IMPOSSIBILIDADE. CASO CONCRETO. QUANTIDADE DE MUNIÇÕES. REGIME INICIAL MAIS GRAVE. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. RÉU QUE OSTENTA MAUS ANTECEDENTES. NÃO ENFRENTAMENTO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO SUMULAR N. 182/STJ. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A ALTERAR A DECISÃO AGRAVADA.
+I - Sobre o tema, este Superior Tribunal de Justiça se alinhou ao entendimento da Segunda Turma do Supremo Tribunal Federal e passou a reconhecer a atipicidade material da conduta, em situações específicas de ínfima quantidade de munição, aliada à ausência do artefato capaz de disparar o projétil.
+II - In casu, a quantidade munições apreendidas (seis), não equivale a uma parcela ínfima, não configurando, portanto, um delito atípico. Nesse contexto, insta consignar que não se pode ter como irrelevante a conduta do agente que detém comportamento reiterado na prática de crimes, ostentando condenações anteriores por delitos de receptação culposa e posse irregular de arma de fogo de uso permitido (fl. 380), e, posteriormente, é autuado em flagrante, transportando 06 projéteis íntegros, de munição de calibre .22.
+Ademais, a Corte de origem noticiou que "as circunstâncias em que ocorreram os fatos, ou seja, quase que simultaneamente à ocorrência de tráfico de drogas - ainda que praticada por outro indivíduo -, inviabilizam o reconhecimento desta circunstância, pois em momento algum veio aos autos provas da origem lícita da munição" (fl. 349), o que evidencia maior reprovabilidade da conduta, incompatível com o reconhecimento da bagatela, ainda que o paciente não tenha sido condenado pelo delito de tráfico de drogas, conforme entendimento da combativa defesa.
+III - Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária (precedentes).
+IV - Segundo jurisprudência do excelso Supremo Tribunal Federal, "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" (Súmula n. 718/STF), e "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea" (Súmula n. 719/STF).
+V - Na hipótese, deve ser mantido o regime inicial semiaberto, ante a existência de circunstância judicial desfavorável, que foi utilizada para majorar a pena-base do paciente, consistente nos maus antecedentes ostentados pelo apenado. Segundo pacífica jurisprudência desta Corte Superior, a existência de circunstância judicial desfavorável, com a consequente fixação da pena-base acima do mínimo legal, autoriza a determinação de regime inicial mais gravoso do que o cabível em razão do quantum de pena cominado (precedentes).
+VI - No mais, a d. Defesa se limitou a reprisar os argumentos do recurso ordinário, o que atrai o verbete do Enunciado Sumular n. 182 desta eg. Corte Superior de Justiça, segundo a qual é inviável o agravo regimental que não impugna especificamente os fundamentos da decisão agravada.
+Agravo regimental desprovido.
+(AgRg no HC n. 691.728/SC, relator Ministro Jesuíno Rissato (Desembargador Convocado do Tjdft), Quinta Turma, julgado em 9/11/2021, DJe de 17/11/2021.)
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 210, do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presentehabeas corpus.
+Publique-se.
+Intimem-se."
+Como visto na decisão agravada, inexiste ilegalidade na fixação do regime inicial semiaberto pois, embora a pena tenha sido fixada em patamar inferior a 4 anos,a presença de circunstância judicial desfavorável, no caso, os antecedentes, justifica o agravamento doregimeprisional.
+Em reforço aos precedentes colacionados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. REGIME FECHADO. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA.
+1. Efetivamente impugnados os fundamentos da decisão de inadmissão do recurso especial, o agravo merece ser conhecido, em ordem a que se evolua para o mérito.
+2. A fixação de regime prisional mais gravoso exige fundamentação idônea, nos termos das Súmulas 440/STJ, 718 e 719/STF, inexistente na espécie.
+3. A existência de circunstância judicial desfavorável - os maus antecedentes -, admite o estabelecimento do regime mais gravoso do que o previsto ao quantum de pena aplicado, devendo ser fixado aquele imediatamente menos gravoso, o semiaberto, constituindo constrangimento ilegal a imposição do regime fechado.
+4. Agravo regimental provido. Agravo conhecido para dar parcial provimento ao recurso especial para estabelecer o regime prisional semiaberto.
+(AgRg no AREsp n. 1.916.435/SP, relator Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de 25/3/2022).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LESÃO CORPORAL CULPOSA NA DIREÇÃO DE VEÍCULO AUTOMOTOR. VIOLAÇÃO AO ART. 619 DO CÓDIGO DE PROCESSO PENAL - CPP. NÃO VERIFICADA. PLEITO ABSOLUTÓRIO. NECESSIDADE DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. ALEGADA OFENSA AOS ARTS. 80, CAPUT, E § 1º, E 90, AMBOS DO CÓDIGO DE TRÂNSITO BRASILEIRO - CTB, E AO ART. 61, I, DO CÓDIGO PENAL - CP. AUSÊNCIA DE PREQUESTIONAMENTO. DESLOCAMENTO DA CONDENAÇÃO ANTERIOR DO AGRAVANTE DA SEGUNDA FASE DA DOSIMETRIA PARA A PRIMEIRA. CONFIGURAÇÃO DE MAUS ANTECEDENTES. POSSIBILIDADE. AUSÊNCIA DE REFORMATIO IN PEJUS. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS E SURSIS. IMPOSSIBILIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. ABRANDAMENTO DO REGIME PRISIONAL. FALTA DE INDICAÇÃO DO DISPOSITIVO LEGAL SUPOSTAMENTE VIOLADO. SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL - STF. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+7. No que concerne à irresignação quanto à fixação do regime inicial semiaberto, a Defesa não se desincumbiu de apontar o dispositivo legal eventualmente violado, o que faz incidir o óbice previsto na Súmula n. 284 do STF. Ainda assim, a despeito da fixação da pena em patamar inferior a 4 anos de reclusão, a existência de circunstância judicial desfavorável, no caso, os maus antecedentes, permite a fixação de modo carcerário mais gravoso, conforme concluído pelo Tribunal de origem.
+8. Agravo regimental desprovido.
+(AgRg no AREsp n. 1.936.124/PB, de minha relatoria, Quinta Turma, DJe de 30/9/2022).
+Ante o exposto, voto no sentido de negar provimento ao presente agravo regimental.
