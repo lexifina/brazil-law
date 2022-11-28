@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Humberto Martins, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+RELATÓRIO
+Trata se de agravo interno interposto contra decisão que determinou a devolução dos autos à Corte de origem para o fim de que aguardasse o julgamento de recurso extraordinário submetido à repercussão geral.
+Eis o inteiro teor da decisão:
+Vistos, etc.
+Consoante análise dos autos,verifica-se que houve manifestação das partes a respeito da aplicação imediata das regras introduzidas pela Lei n. 14.230/2021.
+Ademais, o Supremo Tribunal Federal, no ARE 843.989, reconheceu a repercussão geral do Tema 1199 (Definição de eventual (IR)RETROATIVIDADE das disposições da Lei n. 14.230/2021, em especial, em relação à: (I) necessidade da presença do elemento subjetivo - dolo - para a configuração do ato de improbidade administrativa, inclusive no art. 10 da LIA; e (II) aplicação dos novos prazos de prescrição geral e intercorrente). Assim, desautorizado o julgamento imediato da matéria.
+Não bastasse, em decisão de 3 de março de 2022, houve a determinação de suspensão de todos os recursos especiais em que se debate a aplicação da Lei n. 14.230/2021, ainda que a alegação não tenha ocorrido na peça de impugnação do recurso, mas por mera petição em momento posterior.
+Confira-se, excerto da referida decisão, posteriormente integrada:
+"Não obstante, simples pesquisa na base de dados do Superior Tribunal de Justiça revela que proliferam os pedidos de aplicação da Lei 14.230/2021 em processos na fase de Recurso Especial, já remetidos ao Tribunal da Cidadania pelos Tribunais de origem. Assim, considerando que tais pleitos têm como fundamentos a controvérsia reconhecida na repercussão geral por essa SUPREMA CORTE, recomenda-se, também, o sobrestamento dos processos em que tenha havido tal postulação, com a finalidade de prevenir juízos conflitantes. Por todo o exposto, além da aplicação do artigo 1.036 do Código de Processo Civil, DECRETO a SUSPENSÃO do processamento dos Recursos Especiais nos quais suscitada, ainda que por simples petição, a aplicação retroativa da Lei 14.230/2021."
+"ACOLHO OS EMBARGOS DE DECLARAÇÃO, com efeitos infringentes, para determinar a SUSPENSÃO DO PRAZO PRESCRICIONAL nos processos com repercussão geral reconhecida no presente tema."
+Deste modo,torno sem efeito a decisão recorrida/embargada, julgo prejudicados os recursos interpostos edetermino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a decisão do Supremo Tribunal Federal, sejam tomadas as medidas previstas nos arts. 1.040 e 1.041 do CPC/2015.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. IMPROBIDADE ADMINISTRATIVA.DETERMINAÇÃO DE DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. DECISÃO IRRECORRÍVEL, INEXISTÊNCIA DE PREJUÍZO ÀS PARTES.
+I - Determinou-se a devolução dos autos ao Tribunal de origem para que seja realizado novo juízo de admissibilidade do recurso, considerando-se o decidido em recurso especial repetitivo e/ou submetido à repercussão geral. Foi interposto agravo interno contra essa decisão.
+II - Conforme entendimento pacífico desta Corte, "não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível" (AgInt no REsp 1.663.877/SE, relatorMinistro Marco Aurélio Bellizze, Terceira Turma, DJe de 4/9/2017). No mesmo sentido: AgInt no AREsp 1.423.595/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/6/2019, DJe 17/6/2019; AgInt no REsp 1.577.710/PR, relatoraMinistra Assusete Magalhães, Segunda Turma, julgado em 4/6/2019, DJe 7/6/2019.
+III - Agravo interno não conhecido.
+VOTO
+Determinou-se a devolução dos autos ao Tribunal de origem para que seja realizado novo juízo de admissibilidade do recurso, considerando-se o decidido em recurso submetido à repercussão geral. Foi interposto agravo interno contra essa decisão.
+Conforme entendimento pacífico desta Corte, "não se deve conhecer do recurso de agravo interno impugnando a decisão que determinou a devolução dos autos ao Tribunal de origem para que observe a sistemática prevista nos arts. 1.039 e 1.040 do CPC/2015, tendo em vista que o aludido sobrestamento não é capaz de gerar nenhum prejuízo às partes, motivo pelo qual é irrecorrível" (AgInt no REsp 1.663.877/SE, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 4/9/2017). No mesmo sentido: AgInt no AREsp 1.423.595/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 6/6/2019, DJe 17/6/2019; AgInt no REsp 1.577.710/PR, relatoraMinistra Assusete Magalhães, Segunda Turma, julgado em 4/6/2019, DJe 7/6/2019.
+Ante o exposto, não conheço do recurso.
+É o voto.
