@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Turma, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT) e Jorge Mussi votaram com o Sr. Ministro Relator.
+RELATÓRIO
+Trata-se de embargos de declaração opostos porDÉBORA CRISTINA DAMASCENO (e-STJ fls. 1593/1606) contra acórdão proferido por esta Corte Superior, cuja ementa é a seguinte (e-STJ fls. 1585):
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A falta de impugnação específica dos fundamentos utilizados na decisão ora agravada atrai a incidência do enunciado sumular n. 182 desta Corte Superior.
+2.Nos termos do art. 654, § 2º, do Código de Processo Penal, o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade(AgRg no AREsp 1389936/DF, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/03/2019, DJe29/03/2019).No mesmo diapasão: AgRg no AREsp n. 1.902.299/PR, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 6/9/2022, DJe de 13/9/2022; AgRg no HC n. 753.464/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 20/9/2022, DJe de 29/9/2022 e AgRg no AREsp n. 1.793.805/SC, relator Ministro João Otávio de Noronha, Quinta Turma, julgado em 27/9/2022, DJe de 30/9/2022.
+3. Agravo regimental não provido.
+Sustenta a parte embargante a ocorrência de omissão acerca dos seguintes pontos: (i) a possibilidade daconcessão de habeas corpus de ofício para absolver a embargante do delito de associação para o tráfico de drogas; (ii) os motivos pelos quais não se reconheceu a manifesta ilegalidade da busca domiciliar procedida pelos agentes policiais sem qualquer ordem judicial na residência da embargante.
+Aduz violação do art. 93, inciso IX, da Constituição Federal.
+É o relatório
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182/STJ. AUSÊNCIA DE VÍCIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1.Os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do CPP.
+2. Esta Corte Superior, ao analisar o tema,posicionou-se de forma clara, adequada e suficiente ao decidir pela incidência da Súmula 182/STJ e que o habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade (AgRg no AREsp 1389936/DF, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 12/03/2019, DJe29/03/2019).
+3. Não há que se falar em existência de omissão quanto ao mérito do recurso especial, porquanto o agravo regimental, ora impugnado, manteve corretamente a decisão que não conheceu do agravo em recurso especial por incidência do óbice prescrito na Súmula n. 182/STJ (EDcl no AgRg nos EDcl no AREsp n. 1.937.267/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/4/2022, DJe de 8/4/2022.)
+4. Por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+5. Embargos de declaração rejeitados.
+VOTO
+Não existem vícios a serem sanados no acórdão embargado.
+Sabe-se que os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão ambígua, omissa, obscura ou contraditória, conforme dispõe o art. 619 do Código de Processo Penal.
+Verifica-se que esta Corte Superior, ao analisar o tema, posicionou-se de forma clara, adequada e suficiente ao decidir pela incidência da Súmula 182/STJ e queo habeas corpus de ofício é deferido por iniciativa dos Tribunais quando detectarem ilegalidade flagrante, não se prestando como meio para que a Defesa obtenha pronunciamento judicial acerca do mérito de recurso que não ultrapassou os requisitos de admissibilidade(AgRg no AREsp 1389936/DF, Relatora Ministra LAURITA VAZ, Sexta Turma, julgado em 12/03/2019, DJe29/03/2019).
+Ademais, não há que se falar em existência de omissão quanto ao mérito do recurso especial, porquanto o agravo regimental, ora impugnado, manteve corretamente a decisão que não conheceu do agravo em recurso especial por incidência do óbice prescrito na Súmula n. 182/STJ (EDcl no AgRg nos EDcl no AREsp n. 1.937.267/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 5/4/2022, DJe de 8/4/2022.)
+No tocante à violação doart. 93, inciso IX, da Constituição Federal, não compete ao Superior Tribunal de Justiça a análise de suposta violação de dispositivos constitucionais, ainda que para efeito de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal (art. 102, III, da Carta Magna).
+Dessa forma, por meio dos aclaratórios, é nítida a pretensão da parte embargante em provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 619 do CPP, não é compatível com o recurso protocolado.
+Com essas considerações,rejeitoos embargos de declaração.
+É como voto.
