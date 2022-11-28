@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Ricardo Villas Bôas Cueva e lavrou este acórdão, nos termos do Art. 101, § 1º do RISTJ.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL.PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. AUSÊNCIA DE MÁ-FÉ DO TERCEIRO ADQUIRENTE. MATÉRIA FÁTICA. SÚMULA 07. DISSÍDIO. AUSÊNCIA DE COTEJO ANALÍTICO. RAZÕES DISSOCIDAS. NÃO CONHECIMENTO DO RECURSO.
+1. A Corte de origem assentou inexistirem provas nos autos capazes de estabelecer a má-fé do terceiro adquirente do imóvel, afastando a apontada fraude à execução, a teor da Súmula 375 do STJ.
+2. Inviável o reexame desta matéria fático-probatória nesta instância excepcional, conforme estabelece o Enunciado da Súmula 07 desta Corte.
+3. Razões recursais, ademais, dissociadas, pois apontam violação a dispositivo legal diverso daquele no qual amparada a decisão recorrida. Súmula 284/STF.
+4.Ausência de cotejo analítico entre as decisões tidas por paradigma e a recorrida, sem a demonstração efetiva da similitude fática e jurídica entre os julgados. Transcrição de ementas ou excertos de decisão que desservem para este propósito, não atendendo à exigência contida nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+5. AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+ANDRE MATSUDA DOS SANTOS E ANDREIA MATSUDA DOS SANTOS interpõem agravo interno em face da decisão monocrática exarada no curso do feito em que contendem com TRANSPORTADORA PITUTA LTDA., cuja ementa transcreve-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. AUSÊNCIA DE MÁ-FÉ DO TERCEIRO ADQUIRENTE. MATÉRIA FÁTICA. SÚMULA 07. DISSÍDIO. AUSÊNCIA DE COTEJO ANALÍTICO. RAZÕES DISSOCIDAS. NÃO CONHECIMENTO DO RECURSO. 1. A Corte de origem assentou inexistirem provas nos autos capazes de estabelecer a má-fé do terceiro adquirente do imóvel, afastando a apontada fraude à execução, a teor da Súmula 375 do STJ.2. Inviável o reexame desta matéria fático-probatória nesta instância excepcional, conforme estabelece o Enunciado da Súmula 07 desta Corte. 3. Razões recursais, ademais, dissociadas, pois apontam violação a dispositivo legal diverso daquele no qual amparada a decisão recorrida. Súmula 284/STF.4. Ausência de cotejo analítico entre as decisões tidas por paradigma e a recorrida, sem a demonstração efetiva da similitude fática e jurídica entre os julgados. Transcrição de ementas ou excertos de decisão que desservem para este propósito, não atendendo à exigência contida nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.5. RECURSO ESPECIAL NÃO CONHECIDO.
+Em suas razões, sustenta a parteagravante que a ação de embargos de terceiro foi aforada no ano de 2016, quando já emvigor o CPC/15. Refere que o que importa é que a matéria de fundo trata de alienação de bem quando tramitando execução, em fraude à execução. Impugna a aplicação da Súmula 284/STF. Discorre sobre a aplicação da Súmula 375, má-fé do adquirente e preço vil. Requer o provimento do recurso.
+Foram apresentadas contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO ESPECIAL.PROCESSUAL CIVIL. EMBARGOS DE TERCEIRO. FRAUDE À EXECUÇÃO. AUSÊNCIA DE MÁ-FÉ DO TERCEIRO ADQUIRENTE. MATÉRIA FÁTICA. SÚMULA 07. DISSÍDIO. AUSÊNCIA DE COTEJO ANALÍTICO. RAZÕES DISSOCIDAS. NÃO CONHECIMENTO DO RECURSO.
+1. A Corte de origem assentou inexistirem provas nos autos capazes de estabelecer a má-fé do terceiro adquirente do imóvel, afastando a apontada fraude à execução, a teor da Súmula 375 do STJ.
+2. Inviável o reexame desta matéria fático-probatória nesta instância excepcional, conforme estabelece o Enunciado da Súmula 07 desta Corte.
+3. Razões recursais, ademais, dissociadas, pois apontam violação a dispositivo legal diverso daquele no qual amparada a decisão recorrida. Súmula 284/STF.
+4.Ausência de cotejo analítico entre as decisões tidas por paradigma e a recorrida, sem a demonstração efetiva da similitude fática e jurídica entre os julgados. Transcrição de ementas ou excertos de decisão que desservem para este propósito, não atendendo à exigência contida nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+5. AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes colegas.
+O agravo interno não comporta provimento.
+A decisão monocrática conheceu em parte do recurso especial da ora agravante e, nesta extensão, negou-lhe provimento, sob o fundamento de que a Corte de origem apontou a inexistência de provas nos autos capazes de concluir pela má-fé do terceiro adquirente do imóvel, afastando assim a alegada fraude à execução, na forma do enunciado da Súmula 375/STJ.
+Registrou-se, na decisão recorrida, a inviabilidade de revolvimento do acervo fático-probatório dos autos, por ser função alheia à missão constitucional desta Corte, a teor do Enunciado da Súmula 07 do STJ.
+A decisão guerreada aplicou, ainda, o óbice contido na Súmula 284/STF, pois o recorrente apontou violação a dispositivo de lei diverso do empregado na decisão recorrida, constante do CPC/15, enquanto a decisão então combatida havia se ancorado na legislação processual civil codificada em 1973.
+O dissídio jurisprudencial, por sua vez, não foi analiticamente comprovado, tendo o recorrente se limitado a transcrever ementas e excertos dos julgados, sem demonstrar, de forma efetiva e satisfatória, de que modo as decisões se assemelhariam, em descumprimento ao art. 1.029, §1º do CPC e art. 255, §1º do RISTJ.
+Assim, inexistentes elementos capazes de infirmar a decisão recorrida, transcrevo-a, para que integre os presentes fundamentos decisórios:
+A preliminar contrarrecursal de não conhecimento do presente recurso especial merece ser acolhida.
+Verifica-se, primeiramente, que o acórdão recorrido decidiu a causa aplicando o art. 593 e parágrafos do CPC/73 à espécie, tendo consignado (e-STJ fl. 1.068, grifou-se):
+Traçadas estas premissas e reforçada aplicabilidade do CPC/73 ao caso dos autos, tem-se que o negócio jurídico celebrado entre o terceiro-embargante e a empresa Cumbica Empreendimentos Imobiliários Ltda. fora realizado em 25/04/2012 (escritura pública de fls. 70/73, a qual foi averbada na matrícula do imóvel em 24/09/2012 fls. 68) (..)
+O recorrente, por sua vez, em seu recurso, aponta violação ao art. 790, V, do CPC/15, do que se extrai que as razões do recurso, ao apontar violação de legislação federal diversa da empregada nas razões de decidir pelo acórdão recorrido, encontram-se dissociadas dos fundamentos decisórios, o que inviabiliza o conhecimento do recurso.
+Incide, por analogia, o óbice da Súmula 284/STF.
+Além disto, a decisão recorrida entendeu por afastar a fraude à execução, a teor do disposto na Súmula 375 do STJ, ( O reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente ).
+O acórdão recorrido afastou a má-fé do adquirente do imóvel, tendo referido que: (e-STJ fl. e-STJ fls. 1.068/1.069, grifou-se):
+Pela cronologia dos fatos, vê-se que a formalização da escritura de compra e venda do imóvel constrito foi posterior, mais precisamente 15 dias após a decisão que determinou a desconsideração da personalidade jurídica. Ainda assim, inexiste qualquer elemento de informação que reflita a má-fé do adquirente no procedimento de aquisição sobre o qual recaiu a penhora judicial.
+Isso porque, seguindo a lógica de objetivação anteriormente exposta e não tendo sido realizada a a notação sobre a execução de título judicial no registro do imóvel, resta avaliar se a adquirente, ora embargante, tomou as cautelas de estilo para aquisição do bem. E, como se pode inferir da escritura de Venda e Compra, lavrada em 25/04/2012, a embargante exigiu as certidões negativas não só da pessoa jurídica Cumbica Empreendimentos Imobiliários Ltda. (fls. 379/425) como também dos sócios da empresa, Fausto de Oliveira Botelho, Fabiano de Oliveira e Viação Santo Afonso S. A. (fls. 432/500). Ad cautelam, a embargante ainda extraiu as certidões dos sócios da Viação Santo Afonso (fls. 501/525). Com base em tais provas, conclui-se que a embargante foi diligente e adotou todas as medidas padrões para a celebração do negócio jurídico.
+Como se vê, a decisão recorrida, à luz da Súmula 375 desta Corte, afastou a alegação de má-fé do terceiro adquirente, com base nos elementos de prova constantes dos autos, tendo registrado que o adquirente adotara as cautelas necessárias para aferir eventuais vícios na cadeia dominial do bem.
+Revolver tais premissas fáticas, assentadas pelo Tribunal de origem, inclusive avaliando se do valor do preço de aquisição do imóvel - consideravelmente abaixo do preço de mercado, segundo alega o recorrente - decorreria a má-fé do adquirente, implicaria reexame do material fático-probatório, o que é vedado em sede de recurso excepcional, a teor do Enunciado da Súmula 07/STJ.
+De qualquer sorte, acrescento que o dissídio jurisprudencial não foi satisfatoriamente comprovado, conforme estabelecido nos arts. 1.029, § 1º, do CPC e 255, § 1º, do RISTJ.
+Verifica-se que o recorrente deixou de realizar o necessário cotejo analítico entre as decisões tidas por paradigmas e a decisão recorrida, tendo se limitado a transcrever ementas e excertos dos julgados, sem demonstrar, de forma efetiva e satisfatória, de que modo as decisões se assemelhariam, seja em seu aspecto fático, seja em seu enquadramento jurídico.
+É indispensável que a parte recorrente demonstre, de forma analítica, de que maneira o aresto paradigma apreciou matéria idêntica à dos autos, à luz da mesma legislação federal analisada pelo acórdão recorrido, dando-lhe solução distinta para que se tenha por configurada a divergência jurisprudencial, o que não se verificou no presente caso.
+Neste contexto, o não conhecimento do recurso é medida que se impõe.
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Majoro em R$2.000,00 os honorários advocatícios recursais, em atenção ao art. 85, §11º do CPC, suspensa a exigibilidade da verba em razão da gratuidade judiciária concedida na origem.
+Advirto que a apresentação de incidentes protelatórios poderá ensejar a aplicação de multa.
+Nenhum reparo merece, portanto, a decisão recorrida.
+Ante o exposto, voto por NEGAR PROVIMENTO ao agravo interno.
+Advirta-se que o manejo de recursos protelatórios ensejará a aplicação de multa.
