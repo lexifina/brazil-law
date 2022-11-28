@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, conhecer parcialmente do recurso, mas lhe negar provimento, nos termos do voto do Sr. Ministro Rogerio Schietti Cruz.
+Os Srs. Ministros Laurita Vaz, Sebastião Reis Júnior, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Laurita Vaz.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+HAMILTON RODRIGUES interpõe agravo regimental contra decisão de minha relatoria que denegou a ordem no habeas corpus por ele impetrado, em que postulava a revogação da custódia preventiva ou, subsidiariamente, a aplicação de medidas cautelares alternativas à prisão, consoante as providências elencadas no art. 319 do CPP.
+Nas razões do regimental, a defesa aduz, resumidamente, que:
+ ..  não é crível e contraditório que o agravante possa participar das sessões de AUDJ mesmo estando foragido e ter sua liberdade restringida com base num decreto de prisão preventiva escudado nos requisitos do artigo 312 do Código dos Ritos, na gravidade do delito e periculosidade somados ao flagrante excesso de prazo para a formação da culpa  ..  (fls. 1.239).
+Ademais, sustenta constrangimento ilegal por excesso de prazo para a realização da instrução processual.
+Requer, assim, a reconsideração do decisum anteriormente proferido ou a submissão do feito a julgamento pelo órgão colegiado, para que seja provido o recurso e concedida a ordem no habeas corpus.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DENEGAÇÃO DA ORDEM. FURTO QUALIFICADO.REAPRECIAÇÃO DA MATÉRIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. DECISÃO MANTIDA. ALEGAÇÃO DE EXCESSO DE PRAZO. QUESTÃO NÃO DEBATIDA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL CONHECIDO EM PARTE E, NA EXTENSÃO, NÃO PROVIDO.
+1. O decreto prisional encerra motivação idônea e corrobora a periculosidade do agente, em prejuízo da liberdade de locomoção para a finalidade de acautelar a ordem pública. Trata-se de paciente preso em virtude de suposto furto contra agência bancária. Custódia preventiva mantida diante do risco concreto de reiteração delitiva.
+2. "É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos" (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+3. Quando o tema não houver sidoobjeto de análise pelo Tribunal estadual, tal circunstância que impede a sua apreciação pelo Superior Tribunal de Justiça, sob pena de atuar em indevida supressão de instância.
+4. Agravo regimental conhecido em parte e, na extensão, não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (RELATOR):
+Em que pesem os argumentos despendidos pela defesa, entendo que não lhe assiste razão. Mantenho, assim, a decisão agravada por seus próprios fundamentos.
+Na ocasião do indeferimento da ordem, verifica-se a fundamentação, no que interessa, nos seguintes termos (fls. 1.230-1.235, destaquei):
+ ..  Com efeito, o Juiz de direito destacou o modus operandi empregado na ação delituosa quando mencionou que o acusado, na companhia de três agentes, subtraiu valor expressivo, correspondente a mais de R$ 1 milhão, de uma das agências bancárias do Bradesco, situada na cidade de São Paulo.
+Coube ao acusado, em tese, o fornecimento de informações privilegiadas em razão de ele exercer o cargo de supervisor da empresa de segurança de valores PROTEGE, a fim de facilitar o furto da res. Ademais, observa-se a complexidade da estrutura interna do grupo e a execução de tarefas distintas e previamente estabelecidas entre seus supostos integrantes.
+Ressalta-se, inclusive, parte da narrativa da peça exordial que destaca que o réu, "exercia o cargo de supervisor de operações, sendo responsável pela equipe que planeja e monitora as rotas de entrega e recolhimento de valores junto a agências bancárias" (fl. 157, grifei). E acrescenta: aproveitando-se das facilidades que a função lhe conferia e da confiança nele depositada  ..  se associou aos demais denunciados  ..  por meio de elaborado plano e divisão de tarefas, deliberaram a prática de furto à agência do Banco Bradesco situada no endereço supra indicado" (fl. 158, destaquei).
+Quanto ao periculum libertatis, o Magistrado o sopesou diante do risco concreto da renitência delitiva dado o modo de agir do paciente. Assim, considerou ser necessária e adequada a restrição de sua liberdade de locomoção para o acautelamento da ordem pública.
+ ..  Desse modo, o risco de reiteração delitiva enseja a necessidade de manutenção da segregação cautelar, afastada, por conseguinte, a alegação de suposta configuração de constrangimento ilegal em detrimento do insurgente e a possibilidade de imposição de medidas cautelares alternativas à prisão.
+ ..  Constata-se a condição de foragido do postulante (fls 1.221). A autoridade judicante, ao decretar a prisão preventiva, seja em virtude de o réu estar em local incerto e não sabido, seja por tal condição se sustentar em decisão posterior à original, está justificada, em tese, a manutenção da custódia provisória para a proteção da incolumidade da ordem pública e da eventual aplicação da lei penal.
+Enquanto a ordem não for invalidada pelo próprio Poder Judiciário, não poderá o sujeito passivo da medida opor-se à segregação provisória mediante a arguição de suposto "direito a fuga".
+No âmbito das relações processuais penais afigura-se como órgão legitimado a interpretar e aplicar a lei o Juiz ou o Tribunal competente, pois investido do poder de dizer o direito - juris dicere. E, ao fazê-lo, deverá ser provocado por meio dos mecanismos processuais próprios  .. .
+A meu sentir, afigura-se evidente a busca indevida de efeitos infringentes, em virtude da irresignação decorrente do resultado do julgamento que denegou a ordem no habeas corpus. E, sob o pretexto das aludidas condições subjetivas favoráveis do paciente e da ausência de fundamentação do decisum quanto à sua periculosidade, visa a defesa à rediscussão de matéria já apreciada.
+A propósito, em consonância com o entendimento jurisprudencial desta Corte Superior:
+ ..  é assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos  ..  (AgRg no HC n. 749.888/RS, Rel. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT), 5ª T., DJe 26/8/2022).
+Por fim,da leitura do acórdão da Corte local, constata-se que o tema relativo ao excesso de prazo não foi objeto de análise pelo Tribunal estadual, circunstância que impede a sua apreciação pelo Superior Tribunal de Justiça, sob pena de atuar em indevida supressão de instância. O TJSP cingiu-se a apreciar a validade da prisão, com a presenta dos requisitos do art. 312 do CPP.
+Ilustrativamente:
+ ..
+2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, das teses de nulidade da sentença por ausência de análise de tese defensiva apresentada nas alegações finais e o consequente excesso de prazo na custódia, tampouco de imposição de regime inicial mais gravoso que o permitido ou de possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, em razão da inadequação da via eleita, pendente de julgamento, ainda, apelação já interposta.
+ ..
+8. Habeas corpus não conhecido (HC n. 347.010/SP, Rel. Ministro Jorge Mussi, 5ª T., DJe 12/4/2016).
+À vista do exposto, conheço parcialmente do agravo regimental e, nessa extensão, a elenego provimento.
+Publique-se e intimem-se.
