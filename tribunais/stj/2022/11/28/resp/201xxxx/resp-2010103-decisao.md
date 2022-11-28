@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 4ªRegião, assim ementado (fl. 235):
+TRIBUTÁRIO. APELAÇÃO CÍVEL. PARAMETRIZAÇÃO DA DI. PROSSEGUIMENTO DO DESPACHO ADUANEIRO. EXCESSO DEPRAZO. AÇÃO DE INDENIZAÇÃO. INJUSTA RETENÇÃO DE MERCADORIA IMPORTADA. DANO MATERIAL.
+1. Inexistindo prazo específico para o desembaraço aduaneiro,consolidou-se o entendimento jurisprudencial no sentido de que deve ser observado, para tal fim, o prazo de 8 dias de que trata o art. 4º do Decreto 70.235/1972, estabelecido para a execução de atos no âmbito do procedimento administrativo fiscal.
+2. A irregularidade cometida por autoridade fiscal ocasionou injusta retenção das mercadorias importadas, por longo período, configurando o dano material.
+Embargos de declaração rejeitados às fls. 261-262.
+O recorrente alega violação do artigo 1.022,II, do CPC/15, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia.
+Quanto a questão de fundo, sustenta ofensa aos arts.1ºe 4º do Decreto 70.235/1972 e aos arts. 23,24,49 e 69-A da Lei 9.784/1999, argumentando que o despacho aduaneiro é composto, basicamente, por trêsatos.
+Defendea inaplicabilidade do Decreto 70235/1972 ao despacho aduaneiro. Contudo, expõe que, ainda que se entenda pela aplicabilidade do Decreto, a norma trata de atos e não de procedimentos ou processos.
+Aponta contrariedade aos arts. 927 c/c os 186, 187 e 188, do CC, aduzindo que, no caso em exame, não houve ato ilícito e que, por isso, não há fundamento para a condenação da União ao pagamento da indenização.
+Contrarrazões às fls. 282-293.
+Juízo positivo de admissibilidade àfl. 296.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Nãose conhece da suposta afronta ao artigo 1.022 do CPC/2015, pois o recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+Quanto ao mérito, o tribunal de origem assim consignou às fls. 230-232 (com grifo):
+Quanto ao excesso de prazo no prosseguimento do despacho aduaneiro os 5 dias previstos no art. 25 da Instrução Normativa RFB 69/1996não podem ser aplicados, ante a revogação integral desse ato normativo pelo art. 80 da Instrução Normativa RFB 206/2002.
+A Instrução Normativa RFB 1169/2011, por sua vez, revogou a Instrução Normativa RFB 206/2002 e passou a estabelecer procedimentos especiais de controle na importação ou na exportação de bens e mercadorias em caso de suspeita de irregularidade punível com a pena de perdimento, ficando a mercadoria retida até a conclusão do correspondente procedimento de fiscalização.
+A instauração desse procedimento especial pressupõe a parametrização para conferência aduaneira pelo canal cinza, nos moldes do art. 21 da Instrução Normativa RFB 680/2006, e terá o prazo máximo de 90 dias, prorrogável por igual período, para conclusão (art. 9º da IN RFB n. 1169/2011).
+Já em caso de parametrização para os demais canais (verde,amarelo e vermelho), a regulamentação restou omissa quanto ao prazo a ser aplicado, lacuna preenchida pela jurisprudência que, nesta Corte, restou pacificada no sentido de que, em tais casos, deve ser observado o prazo de 8 dias de que trata o art. 4º do Decreto 70.235/1972, estabelecido para a execução de atos no âmbito do procedimento administrativo fiscal.
+A propósito, a título de ilustração, os seguintes precedentes: AC5023774-60.2017.4.04.7200, Primeira Turma, Rel. Juiz Federal AlexandreRossato da Silva Avila, juntado aos autos em 28/05/2018; AC 5018414-57.2016.4.04.7208, Primeira Turma, Rel. Juiz Federal Marcelo De Nardi, juntadoaos autos em 30/01/2019; AC 5000400-72.2018.4.04.7008, Primeira Turma,Rel. Des. Federal Roger Raupp Rios, juntado aos autos em 30/01/2019; AC5020199-28.2018.4.04.7000, Segunda Truma Turma, Rel. Des. Federal Sebastião Ogê Muniz, juntado aos autos em 13/02/2019).
+Em conclusão, à autoridade aduaneira é conferido o prazo de 8 dias para o despacho de importação, exceto no caso de instauração de procedimento especial de controle aduaneiro (canal cinza), com prazo específico de 90 dias, prorrogáveis por igual período.
+No caso deste processo, a sentença ateve-se ao prazo de 8 dias para a execução de cada ato processual:
+Em conclusão, para dar prosseguimento ao despacho de importação em geral, à autoridade aduaneira é conferido o prazo de 8 (oito) dias, o qual deve incidir em cada etapa correspondente do despacho, uma vez que o art. 4º do Decreto 70.235/72 impõe tal prazo para o servidor executar os atos processuais e não para concluir o procedimento.
+Decreto 70.235/1972:
+Art. 4º Salvo disposição em contrário, o servidor executará os atos processuais no prazo de oito dias.
+A jurisprudência desta Corte, no entanto, é no sentido de que,parametrizada a declaração de importação para os canais verde, amarelo evermelho de conferência aduaneira, aplica-se o prazo de 8 dias para a conclusão do despacho aduaneiro, com o desembaraço das mercadorias importadas, em detrimento do prazo de 8 dias para cada ato.
+No caso deste processo, registrada a DI 14/2125224-6 em 4nov.2014 e automaticamente parametrizada para o canal cinza sem justificativa plausível e sem a instauração formal de PECA (Procedimento Especial de Controle Aduaneiro), a autoridade fiscal tinha o prazo de 8 dias, a contar da data do registro da declaração de importação, para concluir o despacho aduaneiro e desembaraçar as mercadorias importadas, salvo se constatada, nos termos do art. 570 do D 6.759/2009, ocorrência que impedisse o prosseguimento e determinasse a interrupção do despacho mediante registro de exigência fiscal no Siscomex, o que não se verificou. Nesse sentido:
+(..)
+Portanto, a sentença deve ser reformada no ponto.
+Com efeito, para a análise da pretensão da agravante, é necessário interpretar as Instruções Normativas RFB n. 1.169/2011,206/2002, sendo meramente reflexa a vulneração dos dispositivos legais indicados pela parte recorrente.
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PRAZO RECURSAL PREVISTO NA RESOLUÇÃO DO CFF 566/2012. INTERPRETAÇÃO DE NORMA INFRALEGAL. INADEQUAÇÃO DA VIA ELEITA. AGRAVO INTERNO DESPROVIDO.
+1. A leitura da decisão recorrida aponta que seria imprescindível a análise do tema constante na Resolução 566/2012 do Conselho Federal de Farmácia, norma de natureza infralegal cuja interpretação é vedada na via do recursal especial, ante a competência do STJ prevista no art. 105 da CF/1988, que se refere, especificamente, à análise de violação de leis federais.
+2. Agravo interno do CONSELHO REGIONAL DE FARMACIA DO RIO GRANDE DO SUL a que se nega provimento.
+(AgInt no REsp 1874502/RS, Rel. Min. Manoel Erhard (Desembargador convocado do TRF5), Primeira Turma, Julgado em 15/8/2022, DJe 17/8/2022)
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DE DISPOSITIVOS DO CÓDIGO CIVIL E DAS LEIS N. 6.360/1976 E 3.820/1960. RESOLUÇÃO DO CONSELHO FEDERAL DE FARMÁCIA. EXAME NO ESPECIAL. INVIABILIDADE.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A via excepcional não se presta para análise de ofensa a resolução, portaria, regimento interno ou instrução normativa, atos administrativos que não se enquadram no conceito de lei federal.
+Precedentes.
+3. Hipótese em que o exame da violação da legislação apontada (arts.421 do Código Civil, 78 da Lei n. 6.360/1976 e 24 da Lei n. 3.820/1960) perpassa necessariamente pela interpretação da Resolução n. 387 do Conselho Federal de Farmácia, sendo meramente reflexa a vulneração dos dispositivos indicados pelo agravante.
+4. Agravo interno desprovido.
+(AgInt no AREsp 542881/SP, Rel. Min. Gurgel de Faria, Primeira Turma, Julgado em 15/5/2018, DJe 20/6/2018)
+No que diz respeito aos artigos927 c/c os 186, 187 e 188, do CC(e a tese a eles vinculada), verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+Frise-se, por oportuno, que os embargos de declaração opostos na origem não buscaram sanar eventual vício relativo à aplicação dos aludidos dispositivos legais.
+Ante o exposto, não conheço do recurso especial.Caso tenham sido fixados honorários sucumbenciais anteriormente pelas instâncias ordinárias, majoro em 10% os honorários advocatícios, observados os limites e parâmetros dos §§ 2º, 3º e 11 do artigo 85 do CPC/2015 e eventual Gratuidade da Justiça (§ 3º do artigo 98 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. PRAZO PARA CONCLUSÃO DO DESPACHO ADUANEIRO.INTERPRETAÇÃO DE NORMA INFRALEGAL. INADEQUAÇÃO DA VIA ELEITA.AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF. RECURSO ESPECIAL NÃO CONHECIDO.
