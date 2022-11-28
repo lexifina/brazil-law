@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por DIEMES DE SOUZA PEREIRA, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim ementado (e-STJ, fls. 600-609):
+"APELAÇÃO CRIMINAL. HOMICÍDIO QUALIFICADO PRIVILEGIADO. VIOLENTA EMOÇÃO. RECURSO QUE IMPOSSIBILITOU A DEFESA DA VÍTIMA. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. REDIMENSIONAMENTO DA PENA".
+Em suas razões recursais, a parte recorrente aponta violação doart. 121, § 2º, IV, do CP. Aduz para tanto, em síntese, que deveria ser afastada a qualificadora tipificada no referido dispositivo legal, tendo em vista que "não é justo e muito menos lógico; exigir de uma pessoa que age sob violenta emoção, adote medidas para proporcionar à vítima meios de defesa" (e-STJ, fl. 628).
+Com contrarrazões (e-STJ, fls. 641-649), o recurso especial foi inadmitido na origem (e-STJ, fls. 658-660), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do recurso (e-STJ, fls. 706-709).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Este, todavia, não ultrapassa o juízo de admissibilidade.
+Sobre aqualificadora, em respeito à soberania dos vereditos, sua exclusão somente é viável se demonstrada pela defesa a manifesta contrariedade, no ponto, entre o veredito e as provas dos autos, situação em que o acusado é submetido a novo julgamento pelos jurados. Isso significa que não é possível ao Tribunal de apelação (ou mesmo a este STJ) analisar a fundamentação de incidência da qualificadora e, caso discorde dela, afastar sua aplicação, reduzindo a pena (como aconteceria, por exemplo, com alguma circunstância judicial negativa). O questionamento sobre o mérito das qualificadoras deve se pautar, obrigatoriamente, no permissivo do art. 593, III, "d", do CPP, resultando em cassação do veredito e submissão do réu a novo júri caso acolhido. A propósito:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. SÚMULA N. 7 NÃO APLICÁVEL À ESPÉCIE. IMPOSSIBILIDADE DO TRIBUNAL AFASTAR QUALIFICADORA EM APELAÇÃO. SUBMISSÃO DOS RÉUS A NOVO JULGAMENTO PELO TRIBUNAL DO JÚRI.
+1. A reforma do acórdão recorrido, por cuidar unicamente de questão de direito, não esbarra na vedação imposta pela Súmula n. 7 desta Corte.
+2. Uma vez reconhecido pelo Tribunal, em recurso de apelação, que a qualificadora do meio cruel foi indevidamente reconhecida pelo Tribunal do Júri, competia-lhe determinar a realização de novo julgamento, pois não lhe é franqueado decotar da condenação a referida qualificadora, em respeito à soberania dos veredictos (Precedentes).
+3. Agravo regimental desprovido".
+(AgRg no REsp 1657757/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 14/05/2019, DJe 24/05/2019)
+"PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRIBUNAL DO JÚRI. HOMICÍDIO QUALIFICADO. APELAÇÃO. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. PROVIMENTO DO TRIBUNAL. DECOTE DA QUALIFICADORA. IMPOSSIBILIDADE. OFENSA À SOBERANIA DOS VEREDICTOS. CONTRARIEDADE AO ART. 593, § 3º, DO CPP. OCORRÊNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO PARA DECLARAR NULO O ACÓRDÃO IMPUGNADO E DETERMINAR A SUBMISSÃO DO PACIENTE A NOVO JULGAMENTO PERANTE O TRIBUNAL DO JÚRI.
+1.O Supremo Tribunal Federal e o Superior Tribunal de Justiça não têm admitido o habeas corpus como sucedâneo do meio processual adequado, seja o recurso ou a revisão criminal, salvo em situações excepcionais, quando manifesta a ilegalidade ou sendo teratológica a decisão apontada como coatora 2. É assegurada, pela Constituição Federal, em seu artigo 5º, inciso XXXVIII, alínea "c", a soberania dos veredictos no Tribunal do Júri.
+3. Não pode o Tribunal de Justiça, em sede de recurso de Apelação, modificar a opção feita pelos jurados, retirando a qualificadora reconhecida e redimensionando a pena aplicada.
+4. Caso se reconheça que a decisão foi manifestamente contrária à prova dos autos, deve o Tribunal dar provimento ao recurso, para submeter o réu a novo julgamento pelo Tribunal do Júri. Inteligência do artigo 593, § 3º, do Código de Processo Penal.
+5. Habeas Corpus não conhecido. Ordem concedida de ofício, para declarar nulo o acórdão impugnado, determinando que o paciente seja submetido a novo julgamento perante o Tribunal do Júri".
+(HC 176.225/SP, de minha relatoria, QUINTA TURMA, julgado em 16/02/2017, DJe 23/02/2017)
+E, no presente caso, o TJ/GO foi categórico ao afirmar que não há contrariedade entre o veredito e as provas dos autos na aplicação daqualificadora(e-STJ, fls. 605-606). Assim, a modificação do julgado demandaria reexame do conjunto fático-probatório, providência vedada pela Súmula 7/STJ, como já entendeu este Tribunal Superior:
+"PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO. DOSIMETRIA DA PENA. ELEVAÇÃO DA REPRIMENDA BÁSICA EM 1/8 DO INTERVALO DE APENAMENTO EM ABSTRATO, POR CADA CIRCUNSTÂNCIA NEGATIVA. POSSIBILIDADE. PRETENDIDO DECOTE DE QUALIFICADORA. DESCABIMENTO. FRAÇÃO DA MINORANTE DA TENTATIVA. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. Em respeito à soberania dos vereditos, uma vez proferida sentença condenatória pelo Tribunal do Júri, não é possível a simples exclusão de qualificadora quando a Corte de apelação discordar da fundamentação jurídica de sua incidência. Eventual discussão de mérito a seu respeito somente pode se pautar na manifesta contrariedade entre o veredito e as provas dos autos, na forma do art. 593, III, "d", do CPP, resultando em submissão do réu a novo julgamento pelos jurados (e não em decote da qualificadora) caso constatada a contrariedade. Precedentes.
+3. Contrariar a conclusão da Corte local sobre o suporte probatório das qualificadoras é medida que esbarra na Súmula 7/STJ.
+ ..
+5. Agravo regimental desprovido".
+(AgRg no AREsp n. 2.008.350/MG, de minha relatoria, QUINTA TURMA, julgado em 26/4/2022, DJe de 28/4/2022)
+"PENAL E PROCESSO PENAL. TRIBUNAL DO JÚRI. OMISSÃO PELA CORTE DE ORIGEM. NÃO OCORRÊNCIA. NULIDADE POSTERIOR À PRONÚNCIA REJEITADA. "RACHA". DOIS HOMICÍDIOS NA DIREÇÃO DE VEÍCULO. DOLO EVENTUAL. COMPETÊNCIA DO CONSELHO DE SENTENÇA. DECISÃO MANIFESTAMENTE CONTRÁRIA À PROVA DOS AUTOS. INOCORRÊNCIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+3. O Tribunal do Júri é soberano para decidir com fundamento nas provas produzidas no processo judicial, as quais serão submetidas ao crivo do contraditório e da ampla defesa. Dessa forma, o acolhimento pelo Conselho de Sentença de uma das teses existentes não resulta em decisão manifestamente contrária à prova dos autos, quando existente elemento probatório apto a amparar a decisão dos jurados.
+4. No presente caso, a Corte a quo, ao analisar os autos, em decisão devidamente motivada, entendeu que a decisão dos jurados, em condenar o acusado, encontra-se fundamentada na prova dos autos. Assim, concluir que a decisão do Júri mostrou-se dissociada das provas constante dos autos, como requer a parte recorrente, implica o revolvimento do conteúdo fático-probatório da demanda, providência vedada em recurso especial. Incidência da Súmula n. 7/STJ.
+5. Agravo regimental não provido".
+(AgRg no AREsp 1819464/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/03/2021, DJe 29/03/2021)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ,conheçodo agravo paranão conhecerdo recurso especial.
+Publique-se. Intimem-se.
