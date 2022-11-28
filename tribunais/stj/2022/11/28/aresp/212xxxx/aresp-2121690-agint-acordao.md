@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Raul Araújo.
+EMENTA
+AGRAVOINTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL- AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVADA.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF, aplicável por analogia.
+1.1. In casu, a parte recorrente deixou de apontar, nas razões do apelo extremo, a violação ao artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+1.2. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal a quo, o que não ocorreu na hipótese.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno, interposto por SEBASTIÃO EDUARDO DA SILVA e OUTRO, contra decisão monocrática da lavra deste signatário (fls. 985-987, e-STJ), que negou provimento ao agravo em recurso especial interposto pela parte ora agravante.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafiou acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (fl. 901, e-STJ):
+AGRAVO DE INSTRUMENTO. Ação de Execução de hipotecária. Decisão de que deferiu o levantamento da penhora de imóvel. Insurgência do exequente. Cabimento. Extinção da ação executiva que foi afastada por esta E. Corte em sede de recurso de apelação dos autos dos embargos à execução. Prosseguimento da ação executiva determinado. Recurso provido.
+Os embargos de declaração opostos foram rejeitados (fls. 932-937, e-STJ).
+Nas razões do recurso especial (fls. 907-914, e-STJ), os insurgentes apontaram ofensa ao art. 1.003, § 5º, do CPC/15, sustentando que o ora recorrido concordou tacitamente com a decisão de primeiro grau de fls. 113, tendo havido "a preclusão do seu direito de apresentar o recurso de agravo de instrumento, depois de 06 (seis) que foi intimado" (fl. 911, e-STJ).
+Contrarrazões apresentadas às fls. 944-950, e-STJ.
+Em razão do juízo negativo de admissibilidade do recurso na origem (fls. 951-952, e-STJ), adveio o agravo de fls. 955-963, e-STJ, visando destrancar o processamento daquela insurgência.
+Não foi apresentada contraminuta.
+Em decisão monocrática (fls. 985-987, e-STJ), negou-se provimento ao reclamo ante a incidência das Súmulas 211 do STJ e 282 do STF, aplicável por analogia.
+Os aclaratórios opostos pela parte ora agravante não foram conhecidos (fls. 999-1001, e-STJ).
+Daí o presente agravo interno (fls. 1003-1012, e-STJ), no qual a parte agravante reitera as razões do recurso especial e refuta o óbice das Súmulas 211 do STJ e 282 do STF, ao argumento de que toda a matéria foi debatida no Tribunal de origem, estando preenchidos os requisitos do prequestionamento (fl. 1006, e-STJ).
+Não foi apresentada impugnação.
+É o relatório.
+EMENTA
+AGRAVOINTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL- AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AGRAVADA.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência das Súmulas 211 do STJ e 282 do STF, aplicável por analogia.
+1.1. In casu, a parte recorrente deixou de apontar, nas razões do apelo extremo, a violação ao artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+1.2. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal a quo, o que não ocorreu na hipótese.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte agravante são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida.
+1. Segundo afirmado na decisão agravada, o conteúdo normativo do art. 1.003, § 5º, do CPC/15 e a tese de preclusão do direito do ora agravado de interpor agravo de instrumento não foi objeto de discussão pela instância ordinária, a despeito da oposição de embargos de declaração pela parte ora insurgente para sanar eventual omissão no julgado, portanto, revela-se inafastável a incidência das Súmulas 211 do STJ e 282 do STF, aplicável por analogia.
+Ademais, destaca-se que a parte recorrente deixou de apontar eventual violação ao art. 1.022 do CPC/15, nas razões do recurso especial, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+Para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE ABSTENÇÃO DE USO DE NOME EMPRESARIAL CUMULADA COM INDENIZATÓRIA, MARCA E NOME DE DOMÍNIO. ART. 461, § 4º, DO CPC/1973. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. MULTA. OFENSA AO ART. 461, § 6º, DO CPC/1973. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO. 1. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, tampouco suscitado em embargos de declaração, porquanto ausente o indispensável prequestionamento. Aplicação, por analogia, das Súmulas 282 e 356 do STF.  ..  3. Agravo interno a que se nega provimento. (AgInt no AREsp 631.332/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/03/2017, DJe 28/03/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VENDA SIMULADA. RELAÇÃO FAMILIAR COMPROVADA. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. MÁ-FÉ. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282 e 356/STF. 1. Não cabe, em recurso especial, reexaminar matéria de fato e provas (Súmula 7/STJ). 2. Não se admite o recurso especial, quando não tratada na decisão proferida pelo Tribunal de origem a questão federal suscitada, tampouco apresentados embargos de declaração, ante a ausência do indispensável prequestionamento (Súmulas 282 e 356/STF, por analogia). 3. Agravo interno a que se nega provimento. (AgInt no AREsp 952.348/GO, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/02/2017, DJe 20/02/2017)
+Destaca-se, ainda, que para o reconhecimento do prequestionamento ficto do art. 1.025 do CPC/15 não basta a oposição dos aclaratórios. Isso porque, esta Corte já deliberou que "o prequestionamento ficto, previsto no art. 1.025 do CPC/15, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar a violação ao art. 1.022 do mesmo Diploma, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau." (AgInt no AREsp 1329977/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 22/11/2018), o que não ocorreu na hipótese, em relação aos agravantes JUREMA CALDAS DE VILHENA MORAES e CCM CONSTRUÇÕES METÁLICAS CALDEIRARIA E EQUIPAMENTOS LTDA.
+No mesmo sentido, ainda, confira-se: AgInt no AREsp 1171207/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 16/11/2018; AgInt no REsp 1744635/MG, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, DJe 16/11/2018; AgInt no REsp 1725538/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 26/10/2018; AgInt no AREsp 1274393/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 23/10/2018.
+Inafastável, no caso, o teor das Súmulas 211 do STJ e 282 do STF, aplicável por analogia, ante a ausência de prequestionamento sobre a matéria.
+De rigor, portanto, a manutenção da decisão agravada.
+2. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
