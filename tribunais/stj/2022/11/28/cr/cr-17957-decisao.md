@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa (Juízo Local Criminal de Cascais, Juiz 1)solicita anotificação pessoal de GENILDO JOSÉ DE LIRAdos termos da decisão proferidanos autos do Processo 280/05.5GTCSC, que converteu a pena de multa não pagaem53dias de prisão subsidiária.
+Concedido o exequatur em 4/10/2022, os autos foram encaminhados à Justiça Federal.
+Em 14/10/2022, determinei a devolução dos autos à Justiça rogante, em razão do cumprimento da diligência rogada.
+Em petição recebida em 21/11/2022, a parte interessada requer: a) o encaminhamento do pedidoao Tribunal Judicial da Comarca de Lisboa Oeste; b) o deferimento da conversão de penaem multa, indicando o modo como se fará o pagamento; e c) em caso de deferimento, o parcelamentodo valor estipulado.
+No entanto,não obstante os argumentos da parte interessada (fls. 79-83), importa lembrar que cabe ao Superior Tribunal de Justiça tão somenteemitirjuízode delibação acerca da concessão doexequatur.Considerando que os argumentos ali expostos têm natureza de mérito, estão, portanto, fora dos estreitos limites da competência desta Corte, devendo ser conferida à Justiça rogantea análise dasalegações relacionadas ao mérito da causa, pois transcendem os limites estabelecidos no art. 216-Q, § 2º, do RISTJ, o que impede seu exame pela Presidência do STJ.
+Portanto,considerando que o objeto da comissão já foi cumprido (fls. 72-74),encaminhem-se os autos à Justiça rogante (art. 216-X do RISTJ), por intermédio da autoridade central competente, cabendo àquele Juízo avaliar a manifestação dointeressado (fls. 79-83).
+Publique-se.
