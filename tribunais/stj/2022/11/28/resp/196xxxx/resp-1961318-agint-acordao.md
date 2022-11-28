@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, em sessão virtual de 22/11/2022 a 28/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno interposto por AILTON DO AMPAROcontradecisão de minha lavra, em que conheci em parte do recurso especial e, nessa extensão,neguei-lhe provimentopara manter o acórdão recorrido quenão conheceu do recurso de apelaçãoda parte autora, por entender que a decisão proferida pelo juízo monocrático não extinguiu o cumprimento de sentença, de modo que o recurso cabível seria o agravo de instrumento (e-STJ fls. 552/555).
+A parte agravante sustenta que (e-STJ fls. 561/563):
+A decisão agravada consignou que não houve negativa da prestação jurisdicional na análise da matéria pela decisão colegiada e, sob este fundamento, entendeu não haver violação aos artigos suscitados pela parte.
+A omissão e, consequentemente, violação aos arts. 489, 1.022 e 1.025, do Código de Processo Civil é evidenciada no acórdão de origem, que não analisou a questão principal relativa ao fato de que na peculiar hipótese dos autos a decisão apelada determinou o arquivamento do feito. Confira-se do acórdão:
+ ..
+Elucida-se que o pronunciamento judicial impugnado rejeitou a impugnação ao cumprimento de sentença apresentado pelo INSS com o arquivamento dos autos e baixa na distribuição, já que assim se lê na decisão em relação a qual o acórdão afirma inadequadamente ser interlocutória:
+Após os devidos saques, arquive-se com baixa na distribuição. (g.n.) (e-STJ Fl. 457)
+Conforme se vislumbra na decisão proferida pelo juiz sentenciante, há o encerramento da fase executiva, o que a qualifica como sentença, nos termos do artigo 203, § 1º do CPC, o que coaduna com o entendimento do próprio STJ, devidamente suscitado nos autos.
+No entanto, levada a matéria ao Tribunal de origem para aclaratórios, este nada se manifestou, limitando-se a afirmar que não haveria omissão, contradição ou obscuridade na decisão agravada:
+ ..
+Assim decidindo, o Tribunal foi omisso quanto à tese suscitada pelo recorrido, indicando também uma violação ao art. 1.022, 1.025 e ao art. 489, §1º, todos do CPC, já que não enfrentou mesmo que tangencialmente todos os argumentos deduzidos no processo notadamente quanto ao fato que a decisão recorrida expressamente determinou a baixa e o arquivamento do feito, de forma que após o pronunciamento judicial apelado não haverá qualquer decisão judicial.
+Com efeito, o simplório argumento de que supostamente não houve a extinção da execução não é suficiente para demonstrar o enfrentamento da matéria suscitada pelo recorrente, mormente porque se trata de argumento que se prestaria a fundamentar qualquer decisão judicial, além de ignorar o aspecto de que a decisão determinou o arquivamento do feito.
+Alega, outrossim, que "a interpretação dada ao art. 203 do Código de Processo Civildecorre do raciocínio acerca da finalidade do ato decisório. Desta feita, perante uma decisão que determina o imediato arquivamento da execução, a única finalidade do ato é a declaração de extinção do feito, o que impõe a natureza jurídica de sentença ao pronunciamento" (e-STJ fl. 565).
+Ao final, requera reconsideraçãoda decisão agravada para que se dê provimento ao recurso especial ou, subsidiariamente, a submissão do agravo "ao julgamento da 1ª Turma, para que esta proceda nos termos requeridos" (e-STJfl. 568).
+Decorrido o prazo legal, a parte agravadanão apresentou impugnação (e- STJ fl. 573).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. CUMPRIMENTO DESENTENÇA.IMPUGNAÇÃO. REJEIÇÃO.RECURSO CABÍVEL.ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. INVIABILIDADE.
+1. O Tribunal de origem decidiu em consonânciacom a jurisprudência destaCorte Superior, que entende que "a decisão que resolve Impugnação aoCumprimento de Sentença e extingue a execução deve sercombatida por meiode Apelação, enquanto aquela que julga o mesmo incidente, mas semextinguir a fase executiva, por meio de Agravo de Instrumento" (REsp1.803.176/SP, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe21/05/2019).
+2. Hipótese em que o recurso cabível é o agravo de instrumento, demodo que a interposição de apelação contra decisão que não extingue o cumprimento de sentençaconfigura erro grosseiro e inviabiliza a aplicação do princípioda fungibilidade.
+3. Agravo interno desprovido.
+VOTO
+Não obstante os argumentos tecidos, observa-se que a decisão recorrida nãomerece reparos.
+Sustentaa parte agravante que "aomissão e, consequentemente, violação aos arts. 489, 1.022 e 1.025, do Código de Processo Civil é evidenciada no acórdão de origem, que não analisou a questão principal relativa ao fato de que na peculiar hipótese dos autos a decisão apelada determinou o arquivamento do feito" (e-STJ fl. 562).
+Aduz, ademais, que"a interpretação dada ao art. 203 do Código de Processo Civil decorre do raciocínio acerca da finalidade do ato decisório. Desta feita, perante uma decisão que determina o imediato arquivamento da execução, a única finalidade do ato é a declaração de extinção do feito, o que impõe a natureza jurídica de sentença ao pronunciamento" (e-STJ fl. 565).
+Sem razão, contudo.
+Conforme se extrai dos autos, a parte autora apresentou cumprimento de sentença contra o INSS (e-STJ fls. 410/412). O INSS ofertou impugnação ao referido cumprimento de sentença, alegando excesso de execução(e-STJ fls. 423/430).
+O Juízo monocrático rejeitou aimpugnação do INSS, homologou os cálculos, indeferiu o pedido de arbitramento de honorários advocatícios e determinou o pagamento dovalore, somente após os devidos saques, determinouo arquivamento do feito, confira-se (e-STJ fl. 457 - grifos acrescidos):
+Em sede de execução do julgado a parte autora juntou aos autos os cálculos às fls. 371/379. O INSS apresentou a impugnação à execução às fls. 382/297) alegando erro nos cálculos exequendo exclusivamente no que se refere a não aplicação da TR na atualização da conta.
+A tese defendida pelo INSS foi definitivamente afastada pelo plenário do STF, que, recentemente (20.09.2017), no julgamento do Recurso Extraordinário (RE) 870947, com repercussão geral reconheceu a inconstitucionalidade do uso da TR como índice de correção monetária dos precatórios e das condenações judiciais da Fazenda Pública.
+Diante do exposto, rejeito a impugnação do INSS. Considerando que a impugnação do INSS se restringe exclusivamente à utilização da TR como índice de atualização monetária, homologo os cálculos apresentados pelo exequente às fls. 371/379 e determino a requisição do pagamento do valor remanescente.
+Indefiro o pedido do impetrante pela condenação em honorários, uma vez que nos termos da Súmula 105 do STJ e do art. 25 da Lei 12.016/2009 não cabe condenação de honorários advocatícios em mandado de segurança, consequentemente, não pode ser cobrada tal verba em execução do julgado em mandado de segurança.
+Efetivada a migração, suspenda-se o andamento processual até a efetivação do depósito.
+Após os devidos saques, arquive-se com baixa na distribuição. (Grifos acrescidos).
+Ea parte agravante se insurgiu, por meio de apelação (e-STJ fls. 460/464), contra trechodessa decisão que indeferiu o pedido de arbitramento de honorários de advogado, situação que implica a mudança do valor do depósito a ser efetuado.
+Consigna-se que o INSS apresentou agravo de instrumento contra excertodadecisão que rejeitou a impugnação (e-STJ fls. 469/479), buscando tambéma modificação no valor final a ser efetuado.
+Ao julgar o apelo da parte autora, pelo Tribunal local assim decidiu (e-STJ fl. 496):
+Na hipótese, a decisão recorrida não extinguiu a fase de cumprimento de sentença, motivo pelo qual se mostra inadequada a via do recurso de apelação, não merecendo o mesmo ser conhecido. Demais disso, a aplicação da fungibilidade revela-se inviável, muito embora o prazo para a interposição de recurso análogo tenha sido observado, visto que estão ausentes suas hipóteses de cabimento.
+Intimem-se.
+Com efeito, conquanto seja concisa a fundamentação do acórdão recorrido para não conhecer do recurso de apelação da parte autora, o Tribunal local não incorreu em negativa de prestação jurisdicional, na medida em que não fora determinado pelo Juízo monocrático "o imediato arquivamento da execução" defendido pela parte agravante (e-STJ fl. 565), mas, sim, seuarquivamento após a efetivação dos devidos saques.
+E como a parte autora buscaa modificação do decisumsingular, assim como o INSS,com reflexos no valor a ser depositado ao final,não se pode considerar extinto o cumprimento de sentença nessas hipóteses.
+Conclui-se, dessa forma, que o Tribunal localdecidiu a lide em conformidade com oentendimento desta Corte Superiorno sentidode que "a decisão queresolve Impugnação ao Cumprimento de Sentença e extinguea execução deveser combatida por meio de Apelação, enquanto aquela que julga o mesmoincidente, mas sem extinguir a fase executiva, por meio de Agravo deInstrumento" (REsp 1.803.176/SP, Rel. Ministro HERMAN BENJAMIN, SegundaTurma, DJe 21/05/2019).
+Ademais, o STJ firmou posicionamentode que,"no sistema regido pelo NCPC, o recurso cabível da decisão que acolhe impugnação ao cumprimento de sentença e extingue a execução é a apelação. As decisões que acolherem parcialmente a impugnação ou a ela negarem provimento, por não acarretarem a extinção da fase executiva em andamento, tem natureza jurídica de decisão interlocutória, sendo o agravo de instrumento o recurso adequado ao seu enfrentamento" (REsp 1.698.344/MG, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 1º/8/2018).
+Posto isso, tem-se que o entendimento desta Corte Superior é uniformenosentido da impossibilidade de aplicação do princípio da fungibilidadeemsituação como a presente, por considerar erro grosseiro ainterposição da apelaçãocontra decisão que não põe fim ao processo,em vez do agravo.
+Confira-se, a propósito, a jurisprudência pertinente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSOS EM CUMPRIMENTO DE SENTENÇA.CPC/2015. DECISÃO QUE NÃO ENCERRA FASE PROCESSUAL. AGRAVO DE INSTRUMENTO.IMPOSSIBILIDADE DE APLICAÇÃO DA FUNGIBILIDADE RECURSAL. PRECEDENTES.
+1. O acórdão recorrido encontra-se em harmonia com a orientação firmadapor esta Corte Superior de que, "no sistema regido pelo NCPC, o recursocabível da decisão que acolhe impugnação ao cumprimento de sentença eextingue a execução é a apelação. As decisões que acolherem parcialmente aimpugnação ou a ela negarem provimento, por não acarretarem a extinção dafase executiva em andamento, tem natureza jurídica de decisãointerlocutória, sendo o agravo de instrumento o recurso adequado ao seuenfrentamento" (REsp 1.698.344/MG, Rel. Min. Luis Felipe Salomão, QuartaTurma, DJe 1º/8/2018).
+2. Impossibilidade de aplicação do princípio da fungibilidade recursal, emface da existência de erro grosseiro na interposição do recurso deapelação, notadamente pela denominação do ato judicial recorrido na origemcomo "decisão".
+3. Recurso especial a que se nega provimento. (REsp 1.882.469/MA, Relator
+Ministro OG FERNANDES, SEGUNDA TURMA, DJe 23/11/2020).
+Deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 pornão considerar manifestamente inadmissível ou improcedente o presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
