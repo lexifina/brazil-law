@@ -1,0 +1,43 @@
+DECISÃO
+A controvérsia foi bem relatada no parecer ministerial, in verbis (e-STJ fls. 333/334):
+Trata-se de recurso especial interposto por Rodrigo Mendes em face de acórdão proferido pelo Tribunal de Justiça do Estado do Pará que, no julgamento de apelação, manteve a condenação do recorrente pelos delitos tipificados no art. 157, §3º, Ia parte, na forma tentada, e no art. 157, §2º, I do CP, em continuidade, à pena de 12 anos de reclusão e 228 dias-multa, a ser cumprida em regime inicial fechado. O acórdão tem a seguinte ementa (e-STJ fls. 265/266):
+APELAÇÃO PENAL. PLURALIDADE DE ROUBOS. PLEITO ABSOLUTÓRIO. INSUFICIÊNCIA DE PROVAS.
+IMPROCEDÊNCIA. DECOTE DA MAJORANTE DO CONCURSO DE PESSOAS. IMPOSSIBILIDADE. REFORMA DA DOSIMETRIA. CONFISSÃO. ATENUANTE JÁ RECONHECIDA PELO JUÍZO. REDUÇÃO DA PENA-BASE. INVIABILIDADE. RECURSO NÃO PROVIDO. DECISÃO UNÂNIME.
+1 - Mostra-se incontroversa a autoria e a dinâmica delitivas, restando claro nos autos que o recorrente, em conluio e com emprego de arma de fogo, praticou o assalto. Tal conclusão é decorrente de todo o acervo probatório, especialmente as declarações do policial e das vítimas em juízo, o reconhecimento seguro do apelante, e as circunstâncias do delito, não havendo que se falar em absolvição ou decote da majorante.
+2 - Mesmo após o ajuste de alguns vetores, restam fundamentadamente desfavoráveis ao apelante os vetores da culpabilidade e das circunstâncias do delito, o que já é suficiente para afastar a pena base de seu mínimo legal (Sumula nº 23 deste Sodalício), sendo, o quantum da pena calculada pelo juízo, razoável, necessário e suficiente para a reprovação e prevenção do crime, bem como em
+consonância com as circunstâncias judiciais e do delito e com os ditames legais.
+3 - O pleito referente a atenuante é inócuo, de vez que a confissão foi devidamente reconhecida pelo juízo, diminuindo a pena do recorrente em quantidade razoável e proporcional, não reclamando qualquer reforma.
+4 - RECURSO CONHECIDO E NÃO PROVIDO. DECISÃO UNÂNIME.
+No presente feito, apoiado no artigo 105, inciso III, alínea a da Constituição, Rodrigo Mendes alega ofensa ao artigo 617 do CPP, sob o fundamento de que o acórdão, apesar de ter decotado duas das quatro circunstâncias judiciais desfavoráveis constantes da sentença, manteve a pena-base, contrariando o princípio da  reformatio in pejus.
+Opinou o Parquet pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Quanto à dosimetria, assentou o Tribunal de origem, in verbis (e-STJ fls. 273/274, grifei):
+No que refere a análise dos vetores do art. 59 do CP, observo que o magistrado reconheceu em desfavor do apelante os vetores referentes à sua culpabilidade, aos motivos, circunstâncias e consequênciasdo delito, para aplicar a pena-base em 09 (nove) anos e 06 (seis) meses de reclusão em 119 dias-multa, vindo, posteriormente, a diminuir a pena em 06 meses dereclusão e 22 dias multa, em decorrência da confissão, passando a dosar a pena em 09 (nove) anos de reclusão e 97 dias-multa.
+Atento à causa de aumento de pena prevista no art. 71, do CP, elevou a reprimenda em 1/3 (um terço), passando a dosá-la em 12 (doze) anos de reclusão e 228 (duzentos e vinte) dias-multa, tornando-a final, concreta e definitiva.
+Em que pese, no caso concreto, os motivos e as consequênciassejam inerentes ao tipo e, portanto, devam ser considerados vetores neutros, entendo que a culpabilidade do agente e as circunstâncias do delito devem remanescer em seu desfavor.
+Isso porque, no que se refere a culpabilidade, tem-se que tinha consciência dos seus atos, agiu com dolo intenso e covardia, de forma premeditada, tomando de assalto um grupo familiar e um trabalhador (mototaxista).
+No que se refere às circunstâncias do delito, tem-se que a violência extrapolou aquela inerente ao tipo, já que exercida com emprego ostensivo da arma de fogo (anote-se que, in casu, a arma de fogo pode ser considerada nesta fase, já que não foi utilizada para majorar a pena).
+Dessa forma, mostra-se justificada, necessária e razoável a quantidade de pena imposta ao recorrente.
+É cediço que a aplicação dos vetores do art. 59 do CPB obedece a critérios quantitativos e qualitativos, de modo que, existindo a aferição negativa de qualquer deles, fundamenta-se a elevação da pena base acima do mínimo legal (súmula n.º 23 deste TJ).
+Como se vê, a sentença entendeu como desfavoráveis a culpabilidadedo agente, bem como os as circunstâncias, os motivos e asconsequências do crime.
+O Tribunal de origem, de seu turno, afastou os vetoriais relativos aos motivos e as consequências do crime, mas manteve o mesmo patamar de aumento realizado pela sentença condenatória.
+Todavia, tal procedimento encontra-se  em  dissonância  com  a  jurisprudência  firmada  nesta  Corte  Superior  no  sentido  de  que,  "em  recurso  exclusivo  da  defesa,  havendo  a  exclusão  de  circunstâncias  judiciais  desfavoráveis  pelo  Tribunal,  imperiosa  a  correspondente  redução  da  pena  básica,  sob  pena  de  infringência  ao  princípio  da  non  reformatio  in  pejus"  (AgRg  no  HC  n.  440.227/RS,  relatora  Ministra  Maria Thereza de  Assis Moura,  Sexta  Turma,  julgado  em  21/8/2018,  DJe  29/8/2018).
+No  mesmo  sentido:
+AGRAVO  REGIMENTAL  EM  AGRAVO  EM  RECURSO  ESPECIAL.  DECISÃO  AGRAVADA  QUE  EXCLUIU  A  VALORAÇÃO  NEGATIVA  DA  PERSONALIDADE  E  DA  CONDUTA  SOCIAL.  PEDIDO  DE  MANUTENÇÃO  DO  QUANTUM  DA  PENA,  COM  BASE  NA  VALORAÇÃO  NEGATIVA  DOS  ANTECEDENTES.  IMPOSSIBILIDADE.  EXCLUSÃO  DE  CIRCUNSTÂNCIAS  JUDICIAIS  DESFAVORÁVEIS.  REDUÇÃO  DA  PENA-BASE.  OBRIGATORIEDADE.  PRECEDENTES.
+Agravo  regimental  improvido.
+(AgRg  no  AREsp  1438997/DF,  Rel.  Ministro  SEBASTIÃO  REIS  JÚNIOR,  SEXTA  TURMA,  julgado  em  18/2/2020,  DJe  2/3/2020, grifei.)
+PROCESSUAL  PENAL.  PENAL.  RECURSO  ESPECIAL.  DISPARO  DE  ARMA  DE  FOGO.  NEGATIVA  DE  PRESTAÇÃO  JURISDICIONAL.  INOCORRÊNCIA.  REVISÃO  DA  PENA-BASE.  FUNDAMENTAÇÃO  IDÔNEA.  RECURSO  EXCLUSIVO  DA  DEFESA.  EXCLUSÃO  DE  VETORIAL  DESFAVORÁVEL.  REDUÇÃO  DA  PENA-BASE.  CONFISSÃO  ESPONTÂNEA.  ASSUNÇÃO  DE  FATO  DIVERSO  DO  QUE  O  IMPUTADO.  IMPOSSIBILIDADE.  RECURSO  ESPECIAL  PARCIALMENTE  PROVIDO.
+1.  Não  há  que  se  falar  em  negativa  de  prestação  jurisdicional,  se,  a  despeito  de  analisados  todos  os  pontos  relevantes  ao  deslinde  da  controvérsia,  a  origem  adotar  solução  jurídica  contrária  aos  interesses  da  parte.
+2.  Correta  a  exasperação  da  pena-base  com  esteio  em  elementos  concretos  que  desbordam  do  comum  à  espécie  delitiva.
+3.  Na  esteira  de  precedentes  desta  Corte  Superior,  se  o  Tribunal,  em  recurso  exclusivo  da  defesa,  exclui  alguma  circunstância  judicial  negativada  pelo  julgador  de  primeiro  grau,  mostra-se  necessária  a  redução  da  pena-base,  sob  pena  de  reformatio  in  pejus.  AgRg  no  AREsp  1022779/ES,  Rel.  Ministro  SEBASTIÃO  REIS  JÚNIOR,  SEXTA  TURMA,  julgado  em  30/03/2017,  DJe  07/04/2017
+4.  Não  cabendo  revaloração  da  prova  na  via  do  recurso  especial,  é  de  ser  mantida  a  compreensão  da  Corte  local  de  que  não  confessou  o  acusado  elementares  do  crime  de  disparo  de  arma  de  fogo,  pois  teria  o  réu  afirmado  em  verdade  não  ser  verdadeira  a  imputação  que  lhe  é  feita  e  que,  no  momento  em  que  entrou  em  luta  corporal  com  a  vítima  e  um  irmão  dela,  a  arma  disparou.  Sem  confissão  mesmo  parcial,  é  indevida  a  incidência  da  atenuante.
+5.  Não  transcorrido  entre  os  marcos  interruptivos  lapso  temporal  suficiente  para  a  extinção  da  punibilidade,  pela  prescrição.
+6.  Recurso  especial  parcialmente  provido  para  reduzir  as  penas  do  recorrente  para  2  anos  e  2  meses  de  reclusão.  (REsp  1678484/PB,  Rel.  Ministro  NEFI  CORDEIRO,  SEXTA  TURMA,  julgado  em  17/08/2017,  DJe  29/8/2017, grifei.)
+Tomando as considerações alhures, passo ao redimensionamento da pena.
+A pena-base, mantendo os parâmetros de aumento operados pelas instâncias ordinárias para cada vetor(1 ano, 4meses e 15 dias),fica estabelecida em 6anos e 6 meses de reclusão, em virtude do desfavorecimento da culpabilidade do agente e das circunstâncias do delito.
+Na segunda fase, reconhecida a atenuante da confissão, e adotada a diminuição de 6 meses, a pena fica em 6 anos.
+No terceiro estágio, incide a causa de aumento decorrente da continuidade delitiva, em 1/3, tornando-se definitiva a sanção em 8anos de reclusão.
+Mantenho, no mais, a condenação.
+Ante o exposto, douprovimento ao recurso especial,nos termos ora delineados.
+Publique-se. Intimem-se.
