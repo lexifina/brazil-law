@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ALLAN GOMES NOGUEIRA em que se apontacomo autoridade coatora o Tribunal de Justiça do Estado do Goiás (Recurso em Sentido Estrito n. 5129463-09.2021.8.09.0175).
+Consta dos autos que o Juiz de Direito da 1ª Vara Criminal de Detenção e Trânsito da Comarca de Goiâniaindeferiu pedido de homologação de acordo de não persecução penal,determinando o prosseguimento do feito instaurado contra o paciente.
+A defesa interpôs recurso em sentido estrito, o qual foi desprovido pelo Tribunal de origem, nos termos de acórdão que recebeu a seguinte ementa:
+"RECURSO EM SENTIDO ESTRITO. CRIME DE TRÂNSITO. PROPOSTA DE ACORDO DE NÃO PERSECUÇÃO PENAL (ANPP). FORMALIZAÇÃO ANTES DO OFERECIMENTO DA DENÚNCIA. NEGATIVA DE HOMOLOGAÇÃO. INTERESSE RECURSAL. CONDIÇÕES INSUFICIENTES PARA REPROVAÇÃO E PREVENÇÃO DO ILÍCITO PENAL". Os embargos de declaração foram rejeitados (e-STJ, fls. 88-93).
+No presente mandamus, a defesa sustenta que "não pode o Poder Judiciário se imiscuir oficiosamente nas questões envolvendo a reparação dos danos causados com a prática do crime, sob pena de malferimento da inércia da jurisdição" (e-STJ, fl. 7).
+Pretende, ao final, que seja homologado o acordo de não persecução penal ajustado entre a defesa e o Ministério Público.
+Indeferido o pedido de liminar (fl. 185, e-STJ), o Ministério Público Federal se manifestou pelo não conhecimento do writ (fls. 189-191, e-STJ).
+É o relatório.
+O pedido encontra-se prejudicado, em razão do julgamento do ARESP 2183226/GO,no qual se ataca o mesmo acórdão e são formuladas as mesmas razões de pedir.
+Assim restou fundamentada a decisão proferida no ARESP 2183226/GO, no que interessa:
+"Quanto à questão de fundo, embora a defesa aponte ofensa ao art. 28-A, § 5º, do CPP, o recurso especial na verdade questiona a própria razão do dispositivo legal, como se os termos do ANPP fossem completamente intangíveis perante o Poder Judiciário e insuscetíveis de controle jurisdicional - tese que, esta sim, viola o sobredito § 5º. Afinal, consoante o texto normativo, o juiz tem a prerrogativa de deixar de homologar o acordo quando considerar "inadequadas, insuficientes ou abusivas" suas condições, o que ocorreu na espécie, pois o acordo não contemplou a condição legalmente prevista de reparação do dano à vítima (art. 28-A, I, do CPP).
+É o que se colhe do acórdão recorrido (e-STJ, fls. 494-495):
+"Como visto, a legislação permite ao Magistrado discordar dos termos da proposta ou mesmo recusar a homologação do acordo, sendo que, in casu, a Magistrada justificou a recusa, devolvendo os autos ao Ministério Público, nos seguintes termos:
+ ..
+Tenho que a MMª. Juíza de Direito motivou adequadamente o indeferimento, mormente, em razão do acordo não prever indenização aos familiares da família da vítima fatal, condição essencial prevista no inciso I do art. 28-A do CP, inclusive, independentemente de algum de seus membros terem participado ou não da audiência de celebração do acordo, porquanto não há essa exigência legal".
+O procedimento adotado pela Corte local também já foi validado, em hipótese análoga, pela Quinta Turma deste STJ, ao manter a recusa judicial de homologação do ANPP oferecido pelo Parquet e aceito pelo réu, quando não atendido um de seus requisitos legais:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ACORDO DE NÃO PERSECUÇÃO PENAL. ART. 28-A, DO CÓDIGO DE PROCESSO PENAL - CPP. CONFISSÃO QUE NÃO ATENDE AOS REQUISITOS LEGAIS. INDEFERIMENTO DA HOMOLOGAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO. WRIT NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+2. O acordo de não persecução penal é negócio jurídico extraprocessual que possibilita a celebração de acordo entre acusação e acusado para o cumprimento de condições não privativas de liberdade em troca do não prosseguimento do processo penal, afastando, assim, efeitos deletérios da sentença condenatória. Para tanto, é requisito essencial do ato que o acusado confesse de maneira formal e circunstanciada a prática do delito.
+3. No caso em análise, a despeito de confessar a infração penal perante o Juízo, o paciente afirmou que o fazia apenas para ter acesso ao acordo de não persecução penal, mas que não era o autor da infração penal. Tal afirmação do paciente não preenche os requisitos do art. 28-A, do CPP, e afasta a possibilidade de homologação do acordo de não persecução penal.
+4. Habeas Corpus não conhecido".(HC n. 636.279/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, julgado em 9/3/2021, DJe de 23/3/2021.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ, conheço do agravo para negar provimento ao recurso especial."
+Ante o exposto, julgo prejudicado o habeas corpus.
+Publique-se. Intime-se.
