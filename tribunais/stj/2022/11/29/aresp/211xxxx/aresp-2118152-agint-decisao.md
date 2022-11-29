@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo interno interposto por PORTOCRED S.A. CRÉDITO FINANCIAMENTO E INVESTIMENTOcontra a decisão da Presidência do Superior Tribunal de Justiça que conheceu do agravo em recurso especial para não conhecer do apelo extremoem virtude da incidência da Súmula nº 284/STF e por ausência de cotejo analítico.
+Em suas razões (fls. 531/541 e-STJ), aagravante sustenta, em síntese, que inaplicável a Súmula nº 284/STJ e que foi demonstrado o cotejo analítico, sendo, inclusive, utilizado acórdão paradigma desta Corte Superior.
+Transcorrido o prazo, aparte contrária não ofereceu impugnação (fl. 544 e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A irresignação merece prosperar.
+Na caso dos autos, a decisão de admissibilidade entendeu por aplicar a Súmula nº 284/STF, porque, em relação à divergência jurisprudencial,não teria sido indicado o dispositivo tido por violado.
+Nas razões do agravo em recurso especial, a agravante sustenta "(..)que a questão relativa à limitação dos juros remuneratórios nos contratos bancários hoje no País não é regida por dispositivo de lei federal, mas, sim, por entendimento jurisprudencial" (fls. 509/510 e-STJ).
+Afirma, ainda, que o dissídio jurisprudencial é notório com julgado desta Corte, "(..) o que legitima a admissibilidade do Recurso Especial manejado nos presentes autos" (fl. 515 e-STJ).
+Assim, a decisão agravada deve ser reconsiderada (fls. 525/528 e-STJ).
+No apelo nobre, fundamentado no art. 105, III, alínea "c", da Constituição Federal, arecorrente insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sulassim ementado:
+"APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CONTRATOS DE EMPRÉSTIMO PESSOAL. REVISÃO DE CONTRATO EXTINTO. POSSIBILIDADE. A REVISÃO JUDICIAL DE CONTRATOS BANCÁRIOS JÁ QUITADOS OU EXTINTOS É ADMITIDA PELO ORDENAMENTO JURÍDICO. SÚMULA 286 DO STJ. JUROS REMUNERATÓRIOS. JUROS PACTUADOS QUE SE MOSTRAM EXCESSIVOS EM RELAÇÃO À TAXA MÉDIA DE MERCADO DIVULGADA PELO BACEN À ÉPOCA. LIMITAÇÃO DEFERIDA NA SENTENÇA MANTIDA.REPETIÇÃO DO INDÉBITO. PRESCRIÇÃO. AFASTAMENTO. A DISCUSSÃO ACERCA DA COBRANÇA INDEVIDA DE VALORES CONSTANTES DE RELAÇÃO CONTRATUAL E EVENTUAL REPETIÇÃO DE INDÉBITO NÃO SE ENQUADRA NO CONCEITO DE ENRIQUECIMENTO ILÍCITO, SEJA PORQUE A CAUSA JURÍDICA, EM PRINCÍPIO, EXISTE, SEJA PORQUE A AÇÃO DE REPETIÇÃO DE INDÉBITO É AÇÃO ESPECÍFICA. PRESCRIÇÃO DECENAL E NÃO TRIENAL. PRECEDENTES DO STJ E DESTA CORTE.
+PRELIMINARES REJEITADAS. APELO DESPROVIDO. UNÂNIME"(fl. 297e-STJ - grifo no original).
+No recurso especial, arecorrente alega dissídio jurisprudencial, argumentando que o Poder Judiciário só pode rever as taxas de juros quando essas forem abusivas, não sendo o caso dos autos, pois"(..)o mero cotejo de taxas entre o contrato revisando e a taxa do Bacen à época da contratação, s. m. j., em nada exauriu a necessária análise das peculiaridades do caso concreto" (fl. 309 e-STJ - grifo no original).
+Rebate o entendimento da instância ordinária que reconheceu a abusividade dos juros remuneratórios na contratação de empréstimo consignado.
+É cediço que as instituições financeiras não se sujeitam à limitação dos juros remuneratórios que foi estipulada pela Lei de Usura (Decreto nº 22.626/33), em consonância com a Súmula nº 596/STF, sendo também inaplicável o disposto no art. 591 c/c o art. 406do Código Civil para esse fim, salvo nas hipóteses previstas em legislação específica.
+A redução dos juros dependerá de comprovação da onerosidade excessiva - capaz de colocar o consumidor em desvantagem exagerada - em cada caso concreto, tendo como parâmetro a taxa média de mercado para as operações equivalentes, de modo que a simples estipulação de juros remuneratórios superiores a 12% (doze por cento) ao ano, por si só, não indica abusividade, nos termos da Súmula nº 382 do Superior Tribunal de Justiça.
+Nesse sentido, o REsp nº 1.061.530/RS, da relatoria da Ministra Nancy Andrighi, submetido ao regime dos recursos repetitivos, julgado pela Segunda Seção, com a seguinte ementa, ora transcritana parte que interessa:
+"DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. (..) ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto."
+No caso presente, as instâncias ordinárias concluíram pela onerosidade excessiva dos juros, comparando a taxa média de mercado com a taxa contratada.
+A reforma do acórdão estadual, no que diz respeito ao percentual da taxa média de mercado, exigiria o reexame de provas e de cláusulas contratuais, procedimentos inviáveis na estreita via do recurso especial (Súmulas nºs 5 e 7/STJ).
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO. DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA PARTE AUTORA.
+(..)
+4. A jurisprudência deste STJ é assente no sentido de que os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto nº 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF (cf. REsp n. 1.061.530 de 22.10.2008, julgado pela Segunda Seção segundo o rito dos recursos repetitivos). Para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso, circunstância inocorrente na hipótese dos autos.
+4.1. Ademais, para derruir as conclusões contidas no decisum e acolher o inconformismo recursal no sentido de verificar a abusividade ou não da taxa de juros contratada, seria imprescindível a incursão no acervo fático e probatório dos autos e a análise de cláusulas contratuais, providências vedadas na via estreita do recurso especial, ante aos óbices estabelecidos pelas Súmulas 5 e 7/STJ.
+5. Agravo interno desprovido" (AgInt no AREsp 1.480.368/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 28/5/2021).
+Ante o exposto, reconsidero a decisão agravada (fls. 525/528 e-STJ) e conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, os honorários sucumbenciais fixados pelas instâncias de origem, devidos pelaora recorrente, devem ser acrescidos em R$ 175,00 (cento e setenta e cinco reais), observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
