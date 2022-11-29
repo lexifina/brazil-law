@@ -1,0 +1,18 @@
+DECISÃO
+JÚNIO JOSÉ DA SILVA requer, às fls. 643-823, que seja a ele estendido os efeitos da decisão de fls. 275-280, em que concedi em parte a ordem, em favor de Claudio Nunes Bastos, a fim de redimensionar as penas-base, e, por conseguinte, reduzir a reprimenda imposta para 10 anos, 7 meses e 15 dias de reclusão e 1.567 dias-multa.
+A defesa aduz, em síntese, que "o efeito extensivo em causa tem por objetivo conferir efetividade, no plano processual penal, à garantia de equidade, eis que a sentença condenatória usou o famoso Ctrl C - Ctrl V, sem sequer mudar uma vírgula" (fl. 649).
+Requer, portanto, "a readequação da pena imposta ao paciente JÚNIO JOSÉ DA SILVA com base na extensão do benefício prevista no artigo 580 do CPP" (fl. 652).
+Decido.
+De fato, verifico que ambos os requerentes estão na mesma situação fático-processual que a do paciente. Isso porque a Corte estadual despendeu os mesmos fundamentos em relação ao acusado para majorar a pena-base, a teor das vetoriais da culpabilidade, conduta social, personalidade, motivos e consequências do crime, argumentos, esses, que foram tidos como inidôneos por esta Corte Superior de Justiça.
+Assim, porque caracterizada hipótese prevista no art. 580 do CPP, devem ser a eles estendidos os efeitos da decisão proferida às fls. 275-280.
+Diante de tais considerações, porque verificada a inadequação parcial da análise das circunstâncias judiciais (culpabilidade, conduta social, personalidade, motivos e consequências do crime) quanto ao delito de tráfico de drogas e porque remanescem desfavoráveis a quantidade de drogas apreendidas e os antecedentes, deve o writ ser concedido, a fim de reduzir a pena-base do paciente de 9 anos e 6 meses de reclusão e 950 dias-multa para 6 anos e 6 meses de reclusão e pagamento de 660 dias-multa.
+Em relação ao delito de associação ao tráfico, afastadas as vetoriais acima mencionadas, remanescem desfavoráveis os antecedentes, bem como o fato de "o réu  ser  líder da associação criminosa atuante no Morro das Pedras, conhecida como "Família 2T", em referência ao apelido do réu "Timtim"" (fl. 127). Assim, a pena-base deve ser reduzida de 5 anos de reclusão e 1.166 dias-multa para 3 anos e 7 meses de reclusão e 833 dias-multa.
+Procede-se, pois, à nova dosimetria da pena.
+a) Tráfico de drogas
+A reprimenda-base do paciente ficou estabelecida em 6 anos e 6 meses de reclusão e 660 dias-multa, conforme acima examinado. Na segunda fase, não há agravantes ou atenuantes. Na terceira etapa, ausentes causas de diminuição, aumento a reprimenda em 1/6 pela incidência do art. 40, V, da Lei n. 11.343/2006 e torno a pena do acusado definitivamente estabelecida em 7 anos e 7 meses de reclusão e pagamento de 770 dias-multa.
+b) Associação ao tráfico
+A reprimenda-base do paciente ficou estabelecida em 3 anos e 7 meses de reclusão e 733 dias-multa, conforme acima examinado. Na segunda fase, não há agravantes ou atenuantes. Na terceira etapa, ausentes causas de diminuição, aumento a reprimenda em 1/6 pela incidência do art. 40, V, da Lei n. 11.343/2006 e torno a pena do acusado definitivamente estabelecida em 4 anos, 2 meses e 5 dias de reclusão e pagamento de 855 dias-multa.
+Em razão do concurso material, as penas dos delitos de tráfico de drogas e associação ao tráfico totalizam-se em 11 anos, 9 meses e 5 dias de reclusão e pagamento de 1.625 dias-multa, mantido o regime inicial fechado.
+À vista do exposto, defiro o pedido de extensão formulado às fls. 643-823, a fim de a fim de redimensionar as penas-base, e, por conseguinte, reduzir a reprimenda imposta pela prática dos delitos de tráfico de drogas e associação ao tráfico para 11 anos, 9 meses e 5 dias de reclusão e 1.625 dias-multa.
+Comunique-se, com urgência.
+Publique-se e intimem-se.
