@@ -1,0 +1,53 @@
+DECISÃO
+Cuida-se de agravo em recurso especial, com pedido de liminar, interposto por ADILSON LUIZ MANZOLI contra decisão do Tribunal de Justiça do Estado de São Paulo que negou seguimento a recurso especial (art. 105, III, "a", da CRFB), haja vista a aplicação das Súmulas n. 735 do STF e 7 do STJ.
+O acórdão objeto do recurso especial está assim ementado (fl. 104):
+RECURSO DE APELAÇÃO EM AÇÃO DE PROCEDIMENTO COMUM. ADMINISTRATIVO. APLICAÇÃO LIMINAR DE SANÇÃO ADMINISTRATIVA. LACRAÇÃO DE ESTABELECIMENTO. Aplicação de sanção administrativa em caráter liminar. Lacração de estabelecimento por ter permanecido em atividade após o indeferimento do credenciamento para comercialização de peças automotivas usadas e desmontagem de veículo. Hipótese em que não se verifica a urgência e necessidade da medida nos termos do art. 8º , § 3º , da Lei Estadual nº 15.273/ 14. Fiscalização que determinou a lacração apenas e tão somente pela permanência em atividade de estabelecimento que comercializava peças novas e usadas. Ausente justificativa a impossibilitar liminarmente o regular exercício de atividade empresarial de estabelecimento que buscou o regular cadastramento. Ato administrativo que se revela desproporcional e desarrazoado. Sentença de procedência mantida. Recurso desprovido.
+Na petição do agravo em recurso especial, o agravante pede que haja o juízo de"retratação" da decisão agravada, pois o acórdão denegatório da ordem liminar no mandado de segurança contrariou a jurisprudência da Suprema Corte (ADI n. 4.296), "que declarou a inconstitucionalidade do art. 7º, § 2º, e do art. 22, § 2º, da Lei 12.016/2009" (fl. 144).
+No mérito, requero provimento deste agravo para que esta Corte aprecie o recurso especial.
+Sem contrarrazões (fl. 193).
+Posteriormente, o ora agravante apresentou pedido de liminar, no qual pede que se determine que o magistrado de origem profira a sentença, porquanto o feito está concluso para referida autoridade desde 17/8/2022, extrapolando, portanto, os 30 (trinta) dias previstos no parágrafo único do art. 12 da Lei n. 12.016/2009 (fls. 200-203).
+É, no essencial, o relatório.
+O agravo em recurso especial não merece ser conhecido, o que, consequentemente, tornaprejudicado o pedido de tutela de liminarfeito em seu bojo.
+A análise dos autos identifica quea decisão agravada inadmitiu orecurso especial com base nos seguintes fundamentos: I) incidência da Súmula n. 735 do STF, pois a decisão impugnada tem caráter liminar, o que impede seu questionamento por recurso especial; e II) em sede de recurso especial, o reexame de decisões liminares atrai a aplicação da Súmula n. 7 do STJ.
+Aparte agravante deixou, contudo,de impugnaros fundamentos da decisãoagravada, não lhes fazendo qualquer referência.
+Conforme já assentado pela Corte Especial do Superior Tribunal de Justiça, a decisão deinadmissibilidade do recurso especial não é formada por capítulosautônomos, mas por um único dispositivo, o que exige que a parte agravanteimpugne todos os fundamentos da decisão que, na origem, não admitiu orecurso especial.
+A propósito, cito precedentes:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃOAOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. Aausência de impugnação específica a todos os fundamentos da decisãocombatida, ônus da parte recorrente, atrai a incidência dos arts. 1.021, §1º, do CPC, e da Súmula 182 desta Corte.
+2. A Corte Especial do STJ firmouo entendimento segundo o qual a decisão de inadmissibilidade do recursoespecial não é formada por capítulos autônomos, mas por um únicodispositivo, o que exige que a parte agravante impugne todos osfundamentos da decisão que, na origem, não admitiu o recurso especial.
+3.Agravo regimental improvido.
+(AgRg no AREsp n. 1.949.904/GO, relator Ministro Olindo Menezes(Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe de10/6/2022.)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSOESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termosdo que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaraçãocontra qualquer decisão judicial para esclarecer obscuridade, eliminarcontradição, suprir omissão de ponto ou questão sobre a qual devia sepronunciar o juiz de ofício ou a requerimento, bem como para corrigir erromaterial.
+2. A Súmula 182/STJ é aplicável no âmbito dos agravos internosdo Superior Tribunal de Justiça, tendo sido editada, inclusive, para estefim.
+3. Conforme firmado pela Corte Especial do STJ no EREsp 1.424.404/SP(Rel. Ministro Luis Felipe Salomão, Corte Especial, DJe 17/11/2021), aaplicação da Súmula 182/STJ depende de que a parte não ataque o capítuloúnico da decisão agravada ou, havendo nela mais de um, que a parte deixede atacar todos os fundamentos impostos ao capítulo impugnado. No mesmosentido: EREsp 1738541/RJ, Rel. Min. Mauro Campbell Marques, CorteEspecial, DJe de 8/2/2022.
+4. No caso concreto, o mérito do recursoespecial foi decidido de forma unificada através da aplicação das Súmulas283/STF, 7/STJ e 284/STF, tendo a parte interessada, no seu agravointerno, deixado de impugnar a incidência da Súmula 284/STF. Deste modo,como um capítulo autônomo da decisão monocrática foi combatido apenasparcialmente, aplicável o enunciado da Súmula 182/STJ.
+5. Embargos dedeclaração acolhidos, para esclarecimento, sem efeitos infringentes.
+(EDcl no AgInt no REsp n. 1.689.848/SP, relator Ministro BeneditoGonçalves, Primeira Turma, DJe de 24/3/2022.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, aimpugnação deve ser realizada de forma efetiva, concreta e pormenorizada,não sendo suficientes alegações genéricas ou relativas ao mérito dacontrovérsia, sob pena de incidência, por analogia, da Súmula n. 182 doSTJ.
+Nesse sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO MONOCRÁTICA DAPRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICAÇÃO DO ENUNCIADO N.182/STJ. HABEAS CORPUS EX OFFICIO. TRÁFICO. PENA RECLUSIVA DE 5 (CINCO)ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORÁVEIS. PRIMARIEDADE RECONHECIDA.REGIME INICIAL SEMIABERTO. ART. 33, § 2.º, ALÍNEA B, E § 3.º, DO CÓDIGOPENAL. AGRAVO REGIMENTAL NÃO CONHECIDO. ORDEM DE HABEAS CORPUS CONCEDIDA,DE OFÍCIO.
+1. Ausente a impugnação concreta aos fundamentos utilizadospela decisão agravada, que não conheceu do recurso especial, tem aplicaçãoa Súmula n. 182 do Superior Tribunal de Justiça.
+2. Nos termos dereiteradas manifestações desta Corte, " a  não impugnação específica epormenorizada dos fundamentos da decisão agravada inviabiliza oconhecimento do agravo, por violação ao princípio da dialeticidade, umavez que os fundamentos não impugnados se mantêm. Dessarte, não ésuficiente a assertiva de que todos os requisitos foram preenchidos ou ainsistência no mérito da controvérsia". (AgRg no AREsp 1.547.953/GO, Rel.Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 24/09/2019,DJe 04/10/2019.). (..)
+(AgRg no AREsp n. 2.016.016/SP, relatora Ministra Laurita Vaz, SextaTurma, DJe de 6/5/2022.)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL NÃOCONHECIDO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DEADMISSIBILIDADE DO RECURSO ESPECIAL. ARTS. 253, I, do RISTJ E 932, III, DOCPC/2015. SÚMULA 182/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A decisão orarecorrida não conheceu do agravo em razão da falta de impugnação aosfundamentos da decisão de admissibilidade do recurso especial.
+2. Comocediço, a parte, para ver seu recurso especial inadmitido ascender a estaCorte Superior, precisa, primeiro, desconstituir os fundamentos utilizadospara a negativa de seguimento daquele recurso, sob pena de vê-losmantidos.
+3. No caso, restou consignado na decisão ora recorrida que orecurso especial deixou de ser admitido considerando: (a) incidência daSúmula 400 do STF; (b) incidência da Súmula 7 do STJ; e (c) dissídiojurisprudencial não comprovado, à míngua do indispensável cotejo analíticoe da demonstração da similitude fática.
+4. Entretanto a parte agravantedeixou de impugnar especificamente a incidência da Súmula 7/STJ e a nãodemonstração da divergência jurisprudencial.
+5. Com relação à incidênciada Súmula 7 do STJ, observa-se das razões do agravo em recurso especialque a parte agravante refutou sua incidência apenas de maneira genérica,sem explicitar, de forma clara e objetiva, a inaplicabilidade domencionado óbice sumular.
+6. A jurisprudência do Superior Tribunal deJustiça é no sentido de que, havendo omissão de impugnação específicaacerca dos fundamentos da decisão questionada, não se conhece do Agravo emRecurso Especial, consoante preceituam os arts. 253, I, do RISTJ e 932,III, do CPC/2015 e a Súmula 182 do STJ.
+7. Ressalte-se que, em atenção aoprincípio da dialeticidade recursal, a impugnação deve ser realizada deforma efetiva, concreta e pormenorizada, não sendo suficientes alegaçõesgenéricas ou relativas ao mérito da controvérsia.
+8. Consigne-se que,conforme a jurisprudência do STJ, a refutação somente por ocasião domanejo de agravo interno dos fundamentos da decisão que inadmitiu orecurso especial, além de caracterizar imprópria inovação recursal, nãotem o condão de afastar a aplicação dos referidos óbices, tendo em vista aocorrência de preclusão consumativa.
+9. Agravo interno não provido.
+(AgInt no AREsp n. 1.477.310/RJ, relator Ministro Manoel Erhardt(desembargador convocado do TRF5), Primeira Turma, DJe de 18/3/2022.)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FALTA DEIMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS EM QUE SE ASSENTA A DECISÃOAGRAVADA. INVIABILIDADE DO AGRAVO REGIMENTAL. INCIDÊNCIA DA SÚMULA182/STJ.
+1. Trata-se de Agravo contra decisão que não conheceu de ambos osAgravos em Recurso Especial por ausência de impugnação às Súmulas 7/STJ(Agravo do Estado) e 83/STJ (Agravo dos particulares).
+2. Em atenção aoprincípio da dialeticidade recursal, a refutação deve ser realizada deforma efetiva, concreta e pormenorizada, não sendo suficientes alegaçõesgenéricas ou relativas ao mérito da controvérsia, sob pena de incidência,por analogia, da Súmula 182/STJ.
+3. A citação en passant de precedente doSTJ não pode ser considerada impugnação especificamente apta a afastar aincidência da Súmula 182/STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp n. 1.897.137/AL, relator Ministro Herman Benjamin, SegundaTurma, DJe de 4/11/2021.)
+Ante o exposto, não conheço do agravo em recurso especial.
+Julgoprejudicado o pedido de liminar (Petição n. 01049676/2022).
+Sem arbitramento de honorários recursais, pois o recurso especial decorrede mandado de segurança (art. 25 da Lei n. 12.016/2009).
+Publique-se. Intimem-se.
