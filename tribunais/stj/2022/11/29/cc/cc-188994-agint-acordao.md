@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 23/11/2022 a 29/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+Cuida-se de agravo interno interposto por OSWALDO NOGUEIRA e ROSALINA EIVAZIAN NOGUEIRA contra decisão, da lavra deste signatário, acostada às fls. 859/861, que não conheceu do presente incidente ante à orientação jurisprudencial no sentido de quea Justiça do Trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica, declarar a existência de grupo econômico e redirecionar a execução em face dos sócios não abrangidos pelos efeitos da recuperação judicial.
+Inconformados, os ora agravantes sustentam, em resumo, que deferido o processamento da recuperação judicial da sociedade empresária é impositiva a suspensão de todas as execuções propostas em face da empresa devedora. Adicionam que "(..)os bens particulares dos sócios não podem ser executados por dívidas sociais, senão depois de executados os bens sociais - art. 1023, do Código Civil." Entendem que "(..)o juízo da recuperação judicial atrai para si a competência para decidir sobre qualquer ato expropriatório, seja de bens ou valores, que possa impactar no cumprimento do plano de recuperação judicial da empresa. Ou seja, nenhum outro Juiz, ainda que no andamento de sua própria ação, pode deferir medidas constritivas ao patrimônio da empresa recuperanda e seus ex-sócios, se isso significar algum empecilho ao procedimento de recuperação judicial e da preservação da empresa."
+Pedem, assim, a reconsideração da decisão ou sua apreciação em mesa para julgamento colegiado. (fls. 866/878)
+A impugnação está juntada às fls. 880/883.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - EXECUÇÃO DE CRÉDITO TRABALHISTA - INCLUSÃO DE COOBRIGADOS NO POLO PASSIVO - DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - COMPETÊNCIA INDISTINTA DA JUSTIÇA COMUM E DA JUSTIÇA DO TRABALHO - DELIBERAÇÃO UNIPESSOAL QUE NAO CONHECEU DO CONFLITO - INSURGÊNCIA DO SUSCITANTE.
+1. A Justiça do Trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica, declarar a existência de grupo econômico e redirecionar a execução em face dos sócios não abrangidos pelos efeitos da recuperação judicial. Precedentes.
+1.1.Na hipótese dos autos, a justiça laboral determinou a inclusão dos sócios - não atingidos pelos efeitos da recuperação judicial - no bojo da reclamação trabalhista, sendo inviável se falar, a teor da jurisprudência supracitada, em conflito de competência.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+A insurgência não merece prosperar.
+1. Isso porque, consoante destacado na oportunidade do exame unipessoal da questão, nos termos da jurisprudência desta Corte, a Justiça do Trabalho, no âmbito da legislação específica, possui competência para desconsiderar a personalidade jurídica, declarar a existência de grupo econômico e redirecionar a execução em face dos sócios não abrangidos pelos efeitos da recuperação judicial.
+Nessa linha, confiram-se:
+PROCESSUAL CIVIL E COMERCIAL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUSTIÇA ESTADUAL E JUSTIÇA DO TRABALHO. INCLUSÃO DE SÓCIO. NULIDADE DE ASSEMBLÉIA EXECUÇÃO TRABALHISTA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA NA POSSIBILIDADE DE DECISÕES CONFLITANTES. CONEXÃO. PREJUDICIALIDADE. SUSPENSÃO. MESMA DECISÃO. DOIS AGRAVOS. PRECLUSÃO CONSUMATIVA. DECISÃOMANTIDA.
+1. "Nas hipóteses em que bens de terceiros, de sócios, de coobrigados, de devedores solidários ou de sociedade do mesmo grupo econômico, não submetidos ao plano de recuperação judicial, são chamados para responder à execução ajuizada contra a sociedade em recuperação judicial, a jurisprudência desta egrégia Corte firmou o entendimento de não reconhecer a existência de conflito de competência, porquanto não há dois juízes decidindo acerca do destino do mesmo patrimônio" (AgInt no CC 160.384/SP, Relator Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 23/10/2019, DJe 30/10/2019).
+2. Segundo o entendimento desta Seção, o âmbito cognitivo do conflito de competência permite apenas a declaração do juízo competente para decidir determinada questão, sendo inadequado seu uso como sucedâneo recursal, afim de se aferir a correção de decisões proferidas nas demandas que originaram o incidente (AgRg no CC 131.891/SP, Relator Ministro JOÃOOTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 10/9/2014, DJe 12/9/2014).
+3. Quanto houver impossibilidade de concentração dos feitos em um único juízo por estar caracterizada competência absoluta de ambos os magistrados, o STJ tem decidido a favor do reconhecimento de que os dois órgãos jurisdicionais são competentes, um para decidir o tema conexo como questão principal e o outro para resolver a causa de sua competência absoluta, na qual surgiu o mesmo tema para discussão em caráter prejudicial. Nesse caso, "Há que se reconhecer a existência de uma relação de prejudicialidade entre as demandas, autorizando a suspensão prevista no art. 313, V, a, do CPC/15" (AgInt no CC 156.808/AL, Relator Ministra NANCYANDRIGHI, SEGUNDA SEÇÃO, julgado em 18/6/2019, DJe 25/6/2019).
+4. Apresentadas duas petições sucessivas de agravo contra a mesma decisão, a segunda fica prejudicada, não podendo sequer ser conhecida, por força da preclusão consumativa.
+5. Agravo interno de fls. 213/232 (e-STJ) a que se nega provimento. Agravo de fls. 233/252 (e-STJ) não conhecido.
+AgInt no CC 168.501/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDASEÇÃO, julgado em 16/06/2020, DJe 22/06/2020.
+Na hipótese, verifica-se da leitura da decisão de fls. 17/20, que a justiça laboral determinou a inclusão dos sócios - não atingidos pelos efeitos da recuperação judicial - no bojo da reclamação trabalhista, sendo inviável se falar, a teor da jurisprudência supracitada em conflito de competência.
+Vale lembrar que a recuperação judicial do devedor principal não impede o prosseguimento de execuções em face dos sócios da recuperanda, devedores solidários, garantidores ou coobrigados em geral (Súmulas 480 e 581 do STJ).
+2. Do exposto, nega-se provimento ao agravo interno.
+É o voto.
