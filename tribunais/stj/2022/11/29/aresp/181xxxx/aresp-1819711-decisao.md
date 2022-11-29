@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  LABIN EMPREENDIMENTOS E PARTICIPACOES LTDA contra  decisão  que  inadmitiu  recurso  especial.  O  apelo  extremo,  fundamentado  no  art.  105,  inciso  III,  alínea  "a",  da  Constituição  Federal,  insurge-se  contra  acórdão  do  Tribunal  de  Justiça  do  Estado  de São Paulo,  assim  ementado:
+"AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO CUMULADA COM COBRANÇA DE ALUGUERES E ACESSÓRIOS. PEDIDO LIMINAR DE DESOCUPAÇÃO DO IMÓVEL. Suposto inadimplemento de contrato de locação. Sentença de improcedência do pedido. Apelação da autora. Ausência de prestação jurisdicional. Não ocorre. Magistrado que analisou as questões necessárias para o deslinde da lide, sendo desnecessárias maiores elucubrações sobre temas não fundamentais à causa. Ausência de transferência de propriedade e do direito de locação do imóvel. Irrelevância. Parte autora que, embora não tenha procedido à transferência de propriedade, cedeu os direitos à fundo de investimentos estranho à presente lide, de modo que a cessão ocorreu, através do instrumento de aditamento, tornando a autora ilegítima para figurar no polo passivo. Apelação adesiva da parte ré. Necessidade de majoração dos honorários advocatícios. Acolhimento. O processo se desenvolve desde 2014 e o advogado da ré, em que pese não ter sido julgado o mérito da causa, realizou trabalhos complexos em causa particularmente complicada, que resultou em sentença não condenatória, devendo ser arbitrada verba honorária sucumbencial de acordo com o disposto no art. 20, §4º, CPC/73. Sentença merece reforma. RECURSO PARCIALMENTE PROVIDO"  (fl.  930 e-STJ - grifo no original).
+Os  embargos  de  declaração  opostos  foram  rejeitados  (fls. 944/948 e-STJ ).
+No  recurso  especial  (fls. 951/962 e-STJ ),  alega-se  violação  dos  seguintes  dispositivos  legais  com  as  respectivas  teses:
+(i)  arts. 489, § 1º, II e IV e  1.022,  II,  do  Código  de  Processo  Civil  porque  teria  havido  negativa  de  prestação  jurisdicional;
+(ii)  art. 371 do CPC ,  ao  argumento de  que  o acórdão recorrido foi decidido com provas que não contam dos autos , e
+(iii)  arts. 6º, 7º e 9º da Lei 8.668/1993 e 1.227 do Código Civil ,  afirmando, em síntese:
+"A tese adotada pela sentença repetida no acórdão da apelação, é a de que a Labin cedeu, por meio do Aditivo e Termo de Conferência de Bens, os direitos de locação ao Fundo Piemonte a título de integralização de cotas.
+As operações envolvendo fundos de investimento se dão em um mercado regulado pelo Estado. Diferentemente do que ocorre com a maioria das transações entre particulares no mercado econômico, o registro no cartório de imóveis é da substância do ato de integralização de cotas em fundo de investimento imobiliário, quando esta integralização se dá por imóveis.
+Os Fundos de Investimento Imobiliário, natureza jurídica do Fundo Piemonte, possuem peculiaridades na formação do seu patrimônio. A Lei nº 8.668/93, que trata desses Fundos, explica em que se constitui este tipo de fundo, determina como o patrimônio é formado e quais os requisitos para a constituição do patrimônio, senão vejamos:
+(..)
+O Termo de Conferência de Bens é tão-somente o ato que formaliza a vontade de transferência dos imóveis. Se não houve registro da transferência dos bens para o cartório de imóveis, a conferência de bens não se perfectibilizou (..)
+Decorrência lógica e jurídica é que se a conferência de bens não se perfectibilizou, a cessão do contrato de aluguel, que era acessório, também não" (fls. 958/960 e-STJ).
+Com  as  contrarrazões,  foi  negado  seguimento  ao  recurso  especial,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+DECIDO.
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  em  data  anterior  à  publicação  da  Emenda  Constitucional  nº  125,  não  se  aplicando  ao  caso  o  requisito  de  admissibilidade  por  ela  inaugurado,  ou  seja,  a  demonstração  da  relevância  das  questões  de  direito  federal  infraconstitucional.
+A  insurgência  não merece  prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, como se vê doseguintetrecho:
+"Em que pese seja verdade que não houve a transferência de propriedade do imóvel para o referido Fundo, é certo que a cobrança de alugueres, bem como o exercício dos direitos inerentes ao locador, objeto da presente ação, só pode ser realizada por aquele que for titular do referido direito. Dispõe o CPC:
+"Art. 70. Toda pessoa que se encontre no exercício de seus direitos tem capacidade para estar em juízo."
+Tendo cedido os próprios direitos locatícios, não há quese falar em legitimidade ativa" (fl. 934 e-STJ).
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No que concerne à alegação de que o acórdão decidiu com provas que não constam dos autos, as conclusões do Corte local acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, uma vez que a decisão foi proferida diante dos documentos acostados aos autos,o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"De fato, não há que se falar em legitimidade da autora para figurar na presente ação.
+A princípio, ressalte-se que o aditivo celebrado, e copiado a fls. 603/604, produz efeitos entre as partes que o assinaram, mesmo que a locatária não tenha anuído com tal operação, conforme fundamentou a r. sentença.
+Isso porque, conforme se extrai do referido documento, houve a cessão dos direitos locatícios da autora em favor de PIEMONTE FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII:
+"Tendo em vista o disposto no item "(ii)"do Considerando acima, o Locador cede ao Fundo, neste ato, todos os direitos e obrigações por ele detidos com relação aos imóveis em decorrência do Contrato de Locação." (fls. 603)" (fls. 933/934 e-STJ - grifou-se).
+Ao julgar os embargos de declaração, o Tribunal estadual consignou, ainda:
+"Mantida a convicção do r. juízo de primeiro grau, formada a partir do teor do aditivo contratual juntado a fls. fls. 30/38 com a inicial e que foi replicado a fls. 603/607 com a contestação, torna-se desnecessário avançar-se sobre outras questões que dizem respeito ao mérito da causa.
+Quanto à alegação de que a sentença foi prolatada com base em documento não juntado aos autos, o Termo de Conferência de Bens está expressamente mencionado no aditivo supramencionado, motivo pelo qual não tem cabimento a embargante se insurgir contra essa questão, eis que em nenhum momento negou a sua existência até a extinção do processo, sem resolução do mérito" (fl. 947 e-STJ - grifou-se)
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe o enunciado da Súmula nº 7 deste Superior Tribunal.
+No que se refere à ofensa aos arts.arts. 6º, 7º e 9º da Lei 8.668/1993 e 1.227 do CC, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+De mais a mais, não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista que o julgado está devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelarecorrente.
+Vale anotar que a jurisprudência desta Corte é firme no sentido de que "o prequestionamento é indispensável ao conhecimento da questão veiculada no âmbito do Superior Tribunal de Justiça, ainda que se trate de matéria de ordem pública" (AgRg no REsp nº 1.505.392/PE, Rel.Ministro Paulo de Tarso Sanseverino, DJe 6/11/2015).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF INTERPRETAÇÃO DE CLÁUSULA E REEXAME DE PROVA. SÚMULAS Nº 5 E Nº 7/STJ. INVIABILIDADE.
+1. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+3. Rever questão decidida com base na interpretação das normas contratuais e no exame das circunstâncias fáticas da causa esbarra nos óbices das Súmulas nºs 5 e 7 deste Tribunal.
+4. Agravo regimental não provido" (AgRg no AREsp 568.759/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 27/10/2015 - grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Nos termos do art. 85, § 11, do Código de Processo Civil de 2015, os honorários sucumbenciais fixados pelas instâncias de origem, devidos pelo ora recorrente, devem ser acrescidos em R$ 3.000,00 (três milreais), observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
