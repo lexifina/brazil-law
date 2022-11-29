@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de recurso especial interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em:26/1/2022.
+Concluso ao gabinete em:26/8/2022.
+Ação: embargos à execução ajuizados pelo recorrente.
+Decisão interlocutória:indeferiu o pedido de efeito suspensivo.
+Acórdão: por unanimidade, negou provimento ao agravo de instrumento, nos termos da seguinte ementa:
+EMBARGOS À EXECUÇÃO. Título executivo extrajudicial. Cédula de Crédito Rural com garantia pignoratícia e hipotecária. Devedor em recuperação judicial. Indeferido o pedido de efeito suspensivo da execução. Homologado plano de recuperação judicial. Execução proposta após o pedido de recuperação. Agravante não comprovou que o crédito exequendo foi abrangido nesse processo. Garantia do juízo. Penhor e hipoteca instituídos a favor do credor para facilitar a realização do crédito, e somente ele pode invocá-los. Decisão mantida. RECURSO DESPROVIDO.
+(fl. 164)
+Embargos de declaração: opostos, foram rejeitados (fls. 171-173)
+Recurso especial: alega, em síntese, além de divergência jurisprudencial, ofensa aos arts. 6º , 49, 59 da Lei 11.101/2005, ao argumento de que deve ser suspensa ou extinta a execução de crédito cujo fato gerador é anterior ao deferimento da recuperação judicial, ainda que o referido crédito não tenha sido inscrito feito recuperacional
+Prévio juízo de admissibilidade: o TJSP admitiu o recurso especial interposto (fls. 214-216).
+É o relatório.
+DECIDO.
+1. Aduz a parte recorrente, em síntese, quedeveria ser suspensa ou extinta a execução de crédito cujo fato gerador é anterior ao deferimento da recuperação judicial, ainda que o referido crédito não tenha sido inscrito feito recuperacional.
+2. A Corte de origem, não obstante, consignou que não haveria óbice ao prosseguimento da execução, pois esta foi proposta após o deferimento do pedido recuperacional e não foi comprovada a sujeição do crédito exequendo à recuperação,verbis:
+O fato de o devedor achar-se em regime de recuperação judicial não impossibilita, por ora, o prosseguimento da demanda executiva, pois foi proposta em 28.09.2020, com despacho citatório em 29.09.2020, ou seja, após o deferimento do pedido recuperacional em 10.06.2019.
+Por outro lado, não se desconhece que estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido, ainda que não estejam vencidos, a teor do que dispõe o artigo49, caput, da Lei nº 11.101/20015.
+Entretanto, inobstante o Plano de Recuperação Judicial tenha sido aprovado pela Assembleia Geral de Credores ehomologado por sentença em 31.05.2021, e ainda que tenha mencionado nesse processo que o crédito do Banco do Brasil é de R$ 1.928.904,18 (fl. 10), o agravante não comprovou a inclusão da cédula de crédito rural nº 40/03156-X.
+(fls. 165-166)
+3. Nesse contexto, importa consignar que esta Corte Superior perfilha o entendimentodeestão sujeitos à recuperação judicial, na forma do art. 49 da Lei n. 11.101/2005, os créditos decorrentes de fatos geradores anteriores ao pedido de recuperação judicial, independentemente da data de eventual acordo, sentença ou trânsito em julgado.
+4. Nesse contexto, "o titular do crédito não incluído no plano recuperacional possui a prerrogativa de decidir entre habilitá-lo como retardatário, simplesmente não cobrar o crédito ou promover a execução individual (ou o cumprimento de sentença) após o encerramento da recuperação judicial, com a sujeição do seu crédito aos efeitos do plano aprovado e homologado (mediante a novação)" (EDcl no REsp n. 1.851.692/RS, Quarta Turma, julgado em 24/5/2022, DJe de 9/9/2022).
+5. A propósito:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. REQUISITOS DO ART. 1.022 E INCISOS DO CPC/2015. ERRO MATERIAL. OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES. CRÉDITO CONCURSAL. NECESSIDADE DE HABILITAÇÃO DO CRÉDITO NO QUADRO GERAL DE CREDORES DA SOCIEDADE EM RECUPERAÇÃO JUDICIAL. FACULDADE DO CREDOR PRETERIDO.
+1. Depreende-se do art. 1.022 do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador ou até mesmo as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. Na espécie, verifica-se que o julgado foi obscuro no que toca à definição dos efeitos materiais e processuais decorrentes da opção do credor por não se habilitar na recuperação, bem como, constata-se a ocorrência de erro material na afirmação de que, apesar de excluído da recuperação (rectius, do quadro geral de credores), não haveria falar em novação.
+3. Conforme definido pelo julgado embargado, o titular do crédito não incluído no plano recuperacional possui a prerrogativa de decidir entre habilitá-lo como retardatário, simplesmente não cobrar o crédito ou promover a execução individual (ou o cumprimento de sentença) após o encerramento da recuperação judicial, com a sujeição do seu crédito aos efeitos do plano aprovado e homologado (mediante a novação).
+4. No entanto, aquele credor que fizer a opção por não habilitar de forma retardatária o seu crédito para promover posteriormente a sua cobrança também terá um ônus pela sua escolha, pois assumirá as consequências jurídicas (processuais e materiais) dela, entre as quais a de sofrer a incidência dos efeitos da recuperação.
+5. A lei de regência incentiva que o credor participe da recuperação ab initio para que se busque encontrar uma solução de mercado específica para a superação daquela crise, mantendo-se, ao mesmo tempo, os benefícios econômicos que decorrem daquela atividade.
+Desse modo, ela desestimula que o credor persiga individualmente o seu crédito, fora do conclave, estabelecendo diversas consequências jurídica.
+6. O tratamento normativo conferido aos retardatários é justamente o de impor a eles consequências menos vantajosas do que aquelas impostas aos credores que habilitaram ou retificaram seus créditos dentro do prazo legal. Tal racionalidade - estimular a participação no conclave e inibir a conduta resistente - também deve incidir sobre o credor, que, não constando do quadro de credores da recuperação, fez a opção por cobrar o seu crédito posteriormente.
+7. Assim, o credor que figurar na listagem, com a exatidão do valor do crédito e da classificação a que faz jus, estará automaticamente habilitado na recuperação judicial. Caso contrário, terá ele a faculdade de decidir entre: i) habilitar de forma retardatária o seu crédito; ii) não cobrá-lo; e iii) ajuizar a execução individual após o encerramento da recuperação judicial. Em qualquer circunstância, terá o ônus de se sujeitar aos efeitos da recuperação judicial.
+8. Na hipótese, caso não tenha havido a habilitação do crédito, poderão os embargados ajuizar futura execução individual, após o encerramento da recuperação judicial (LREF, art. 61), devendo levar em consideração, no entanto, que o seu crédito acabará sofrendo os efeitos do plano de recuperação aprovado, em virtude da novação ope legis (art. 59 da LREF).
+9. Embargos de declaração acolhidos para os devidos esclarecimentos e para sanar erro material, sem efeitos infringentes.
+(EDcl no REsp n. 1.851.692/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/5/2022, DJe de 9/9/2022.)
+6. No mesmo sentido:AgInt nos EDcl no REsp n. 1.933.334/RS,Terceira Turma, julgado em 13/6/2022, DJe de 15/6/2022.
+7. Na hipótese dos autos, no entanto, não se extrai qualquer informação sobre a data do fato gerador do crédito exequendo, o que é indispensável para a determinação de sua sujeição à recuperação judicial.
+8. Com efeito, o TJSP limita-se a afirmar que a demanda executiva foi proposta em 28/9/2020 e que o pedido recuperacional foi deferido em 10/6/2019, sem qualquer consideração acerca da data do fato gerador do crédito em execução.
+9. Mais do que isso. O Tribunal a quo afirma, expressamente, que o recorrente não logrou êxito em comprovar que o crédito exequendoestaria sujeito à recuperação.
+10. Nesse contexto, acolher o argumento desenvolvido pela parte recorrente no sentido de que a execução individualdeveria ser extinta ou suspensa em razão da submissão do crédito à recuperação judicial,demandaria o reexame de fatos e provas para perquirir a data do fato gerador do crédito, o que é vedado pelo enunciado da Súmula 7 do STJ.
+Forte nessas razões, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. EXECUÇÃO INDIVIDUAL. CRÉDITO EXEQUENDO. SUJEIÇÃO À RECUPERAÇÃO JUDICIAL. DATA DO FATO GERADOR DO CRÉDITO. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. Esta Corte Superior perfilha o entendimento de estão sujeitos à recuperação judicial, na forma do art. 49 da Lei n. 11.101/2005, os créditos decorrentes de fatos geradores anteriores ao pedido de recuperação judicial, independentemente da data de eventual acordo, sentença ou trânsito em julgado.
+2. Na hipótese dos autos,acolher o argumento desenvolvido pela parte recorrente no sentido de que a execução individual deveria ser extinta ou suspensa em razão da submissão do crédito à recuperação judicial, demandaria o reexame de fatos e provas para perquirir a data do fato gerador do crédito, o que é vedado pelo enunciado da Súmula 7 do STJ.
+3. Recurso especial não conhecido.
