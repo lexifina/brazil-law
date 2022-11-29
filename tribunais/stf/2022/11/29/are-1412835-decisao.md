@@ -1,0 +1,31 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    EMENTA: DUPLA APELAÇÃO CÍVEL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS C/C DANO EXISTENCIAL. ACIDENTE DE TRÂNSITO. EMPRESA DE TRANSPORTE COLETIVO URBANO. DENUNCIAÇÃO À LIDE E PRESCRIÇÃO. AFASTADAS. RESPONSABILIDADE CIVIL OBJETIVA. DEVER DE INDENIZAR CONFIGURADO. DANO MORAL. QUANTUM INDENIZATÓRIO. FIXAÇÃO DE ACORDO COM RAZOABILIDADE E PROPORCIONALIDADE. REDUÇÃO. HONORÁRIOS SUCUMBENCIAIS. HONORÁRIOS RECURSAIS. 1. A disposição expressa na apólice de seguro, reveladora de que os riscos de danos morais não foram contratados, desencadeia o afastamento da responsabilidade atribuída à seguradora denunciada acerca do pagamento de tal dano e o direcionamento do dever da correspondente compensação única e exclusivamente à litis denunciante (inteligência da Súmula nº 402, do c. STJ). 2. O prazo prescricional das ações de reparação civil contra pessoa jurídica de direito privado prestadora de serviço público é quinquenal, consoante o disposto no art. 1º-C da Lei n. 9.494/97. 3. As pessoas jurídicas de direito privado que exploram o serviço público de transporte de passageiros respondem objetivamente pelos danos causados a terceiros, usuários ou não do serviço, com base na Teoria do Risco Administrativo adotada pelo art. 37, § 6º, da Constituição Federal. 4. Em atenção aos deveres impostos pelos arts. 29, II e § 2º, e 34, do Código de Trânsito Brasileiro, compete ao condutor de veículo de transporte coletivo guardar distância lateral e frontal de segurança do veículo que trafega à sua frente na via pública, atuando com prudência, máxima diligência e sempre de forma defensiva, de molde a permitir o acionamento do freio, em tempo hábil, ou então, o desvio seguro, caso necessário para evitar acidentes. 5. Age com presumida culpa o motorista do ônibus que para indevidamente em local proibido, ou seja, na terceira faixa da esquerda da Rodovia 060 (KM 167), quando um usuário do transporte coletivo acenou para que a mesma parasse e ela assim o fez. 6. A vítima de acidente de trânsito faz jus ao recebimento de indenização a título de danos morais, que deriva do próprio fato ofensivo, quando o mesmo ficou por aproximadamente 06 (seis) anos em estado vegetativo, e consequentemente veio a óbito. 7. O arbitramento do dano moral deve ser realizado com moderação, em atenção à realidade da vida e às peculiaridades de cada caso, proporcionalmente ao grau de culpa e ao porte econômico das partes, sem se descurar do sentido punitivo da condenação. Portanto, deve ser reduzida a indenização fixada a título de danos morais para R$100.000,00 (cem mil reais) a favor do 2º Apelante (JHONATAN LIMA BILIU), considerada a capacidade a extensão do dano, a capacidade econômica das requeridas, bem como o caráter pedagógico da indenização. 8. A regra obrigatória é a de que os honorários advocatícios devem ser fixados, conf. prevê o art. 85, § 2º, segundo o qual eles devem ser fixados entre 10% (dez por cento) e 20% (vinte por cento) sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor da causa, sendo que a ordem de preferência entre esses critérios é de observância obrigatória. 9. No caso, houve a condenação do Apelante, e, portanto, devem os honorários advocatícios sucumbenciais recaírem sobre o patamar referente ao valor da condenação, impondo-se a reforma da sentença, neste ponto. 10. Nos termos do § 11 do art. 85 do CPC, o Tribunal, ao julgar o recurso, arbitrará os honorários sucumbenciais recursais, levando em conta o trabalho adicional realizado pelo n. Causídico na instância revisora; destarte, face a sucumbência do 1º Apelante, sua condenação ao pagamento dos honorários recursais é medida que se impõe. 11. Descabível a majoração dos honorários advocatícios (art. 85, § 11, do CPC), em relação aos 2º s Apelantes, in casu, diante do parcial provimento do apelo, conf. orientação do c. STJ. APELAÇÕES CONHECIDAS. 1ª DESPROVIDA E 2ª PROVIDA, EM PARTE. SENTENÇA REFORMADA, EM PARTE.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, § 6º, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula 279 do STF. Sobre o tema, a propósito:
+
+    “Agravo regimental no recurso extraordinário com agravo. Administrativo. Acidente de trânsito. Responsabilidade objetiva. Dano moral e material. Dever de indenizar. Fatos e provas. Reexame. Impossibilidade. Precedentes. 1. Inviável, em recurso extraordinário, o reexame do conjunto fático-probatório da causa. Incidência da Súmula nº 279/STF. 2. Agravo regimental não provido, com imposição de multa de 2% (art. 1.021, § 4º, do CPC)” (ARE nº 1.096.566/PE-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 2/5/18).
+
+    “DIREITO ADMINISTRATIVO. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. RESPONSABILIDADE CIVIL DO ESTADO. VERIFICAÇÃO DA EXISTÊNCIA DOS ELEMENTOS CONFIGURADORES. SÚMULA 279/STF. 1. A resolução da controvérsia demandaria o reexame dos fatos e do material probatório constantes nos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. 2. Agravo regimental a que se nega provimento” (ARE nº 936.614/PE-AgR, Primeira Turma, Rel. Min. Roberto Barroso, DJe de 9/8/16).
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 29 de novembro de 2022.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
