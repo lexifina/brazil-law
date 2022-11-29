@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto por HENCO EMPREENDIMENTOS E CONSTRUÇÕES LTDA. contra a decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"AGRAVO DE INSTRUMENTO. AÇÃO INDENIZATÓRIA ENVOLVENDO LOCAÇÃO E POSSÍVEIS DANOS AO IMÓVEL. Decisão parcial de mérito que reconhece a ilegitimidade passiva dos caucionantes. Acerto da decisão. O caucionante em contrato de locação não tem legitimidade para figurar no polo passivo de ação de conhecimento, em que se veicula pretensão indenizatória, movida pelo locador contra o locatário, e envolvendo possíveis danos ao imóvel. A caução é uma modalidade de garantia real e, diferentemente da fiança, reserva apenas um bem para ser excutido em caso de não pagamento da dívida. Precedentes. A hipótese dos autos não é a mesma regulada pelo art. 779, VI, do CPC/2015, por se tratar de processo de conhecimento, sequer havendo a certeza, liquidez e exigibilidade do débito, inexistindo título executivo e não havendo pertinência subjetiva da participação dos caucionantes nessa fase processual. Não há garantia sendo executada, não havendo, portanto, legitimidade passiva dos caucionantes. Honorários recursais. Majoração. RECURSO NÃO PROVIDO" (fl. 120, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 154/157, e-STJ).
+No especial, a recorrente aponta violação dos arts. 1022, I, e 779, V, do Código de Processo Civil, argumentando, em síntese, a legitimidade passiva dos recorridos para responderem à ação, em razão do imóvel ofertado em garantia e de terem se responsabilizado por todas as obrigações do contrato de locação.
+Apresentadas contrarrazões às fls. 205/214 (e-STJ).
+O Presidente do tribunal de origem inadmitiu o recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A irresignação não merece prosperar.
+De início, no tocante à violação do art. 1.022, I, do Código de Processo Civil, verifica-se que o tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em existência de omissão ou de deficiência de fundamentação apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Quanto ao mérito, diante das premissas fáticas estabelecidas no acórdão, a alteração das conclusões demandaria a interpretação de cláusulas contratuais e a incursão no conjunto fático-probatório dos autos, providências vedadas em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CONTRATO DE LOCAÇÃO COMERCIAL. GARANTIA PRESTADA. COMPROVAÇÃO. ANÁLISE DE CLÁUSULAS CONTRATUAIS. REEXAME DE PROVAS. INVIABILIDADE. EXISTÊNCIA DE FUNDAMENTOS AUTÔNOMOS NÃO IMPUGNADOS NAS RAZÕES DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 283/STF. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, reconheceu a ilegitimidade passiva do agravado em razão de sua retirada da sociedade empresária ser anterior à dívida objeto da ação executória, bem como pela existência de outros fiadores e garantia real pactuados no contrato de locação comercial.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria interpretação de cláusula contratual e revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+3. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial" (AgInt no AREsp n. 1.665.838/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 12/4/2021, DJe de 12/5/2021).
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE LOCAÇÃO. PRORROGAÇÃO TÁCITA DO PACTO. CONTRATO DE FIANÇA ANTERIOR À VIGÊNCIA DA LEI N. 12.112/2009. NECESSIDADE DE EXPRESSO CONSENTIMENTO. SITUAÇÃO VERIFICADA NO CASO. LEGITIMIDADE POR PARTE DA FIADORA. REVISÃO DO JULGADO QUE ENSEJA ANÁLISE DE CLÁUSULA CONTRATUAL E REEXAME DE PROVAS. INCIDÊNCIA DAS SÚMULAS 5 E 7 DESTA CORTE. AGRAVO INTERNO DESPROVIDO.
+(..)
+2. A revisão do julgado importa necessariamente no reexame de provas e na análise de cláusulas contratuais, o que é vedado em âmbito de recurso especial, ante o óbice dos enunciados n. 5 e 7 da Súmula deste Tribunal.
+3. Agravo interno desprovido" (AgInt no AgInt no AREsp n. 1.220.771/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 4/5/2020, DJe de 8/5/2020).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do Código de Processo Civil), visto que o recurso especial é oriundo de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
