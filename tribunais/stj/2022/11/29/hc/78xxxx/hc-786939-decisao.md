@@ -1,0 +1,7 @@
+DECISÃO
+CAMILA BUENO MARANGONI alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0004147-35.2022.8.26.0637, em que foi mantida a decisão que indeferiu o pedido de concessão de indulto.
+Depreende-se dos autos que " a  Requerente foi condenada a uma pena de 5 (cinco) anos e 10 (dez) meses de reclusão, em regime fechado, além de 583 (quinhentos e oitenta e três) dias-multa, no valor unitário, como incursa no artigo 33, caput, da Lei nº11.343/06, por sentença judicial transitada em julgado" (fl. 10).
+Ao manter o indeferimento do pleito, salientou a Corte de origem que " o  art. 2º, da Lei nº 8.072/90, equipara o crime de tráfico de drogas aos hediondos e, o art. 2º, I, da referida lei é taxativo ao estabelecer que os crimes hediondos, bem como os a eles equiparados, são insuscetíveis, dentre outros, de indulto" (fl. 47, sublinhei).
+Outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual "incide, na espécie, a vedação constitucional prevista pelo artigo 5º, inciso XLIII, da Constituição Federal, que proíbe a concessão de anistia ou graça aos crimes equiparados a hediondo, no qual encontra-se incluído o tráfico ilícito de entorpecentes, nos termos do art. 2º, inciso I, da Lei n. 8.072/1990. Precedentes" (HC n. 480.309/SC, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19/2/2019.)
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
