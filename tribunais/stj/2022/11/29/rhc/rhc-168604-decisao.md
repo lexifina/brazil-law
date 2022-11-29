@@ -1,0 +1,10 @@
+DECISÃO
+WILLIAM MATHEUS DE SOUZA, recolhido desde 4/10/2019, por suspeita de homicídio qualificado, alega sofrer coação ilegal em face de acórdão prolatado pelo Tribunal a quo. Aponta o excesso de prazo para o término da instrução criminal e requer o relaxamento de sua custódia.
+Decido.
+A teor da Súmula n. 21 do STJ, pronunciado o réu, fica superada, ao menos por ora, a alegação de excesso de prazo na instrução.
+De toda forma, faço constar que o réu está recolhido, desde 4/10/2019, por suspeita de homicídio qualificado (art. 121, § 2º, I e IV, do Código Penal). Não se verifica, desde então, desídia dos órgãos estatais ou paralisação indevida do processo.
+O inquérito foi finalizado e a denúncia, oferecida e recebida. Após a citação e a resposta à acusação, foi mantido o recebimento da exordial. O Juiz designou audiência para 28/4/2020, cancelada devido à situação de pandemia. Na sequência procedeu-se à oitiva de oito testemunhas de acusação, em 29/9/2020 e 15/1/2021. Outra audiência, designada para o dia 25/5/2021, deixou de ser realizada em razão de "a defensora do recorrente não ter logrado êxito em contatar com a casa prisional onde Roger se encontra recolhido". Em 5/10/2021, procedeu-se à oitiva de outra testemunha de acusação.
+No dia dia 22/2/2022, ocorreu o interrogatório dos réus. A instrução do feito foi declarada encerradae o Ministério Público solicitou diligência. Em 3/5/2022, o Magistrado solicitou urgência na remessa de análise de celular e, em 8/7/2022 reiterou o ofício. A autoridade analisou e decidiu os pleitos defensivose deu diligente andamento ao feito. Por fim, em 1º/9/2022, determinou intimação do Ministério Público para oferecimento de alegações finais. Apresentadas as peças pelas partes, proferiu decisão de pronúncia.
+Existiram peculiaridades e, ainda, asituação atípica de estado depandemiada COVID-19 justificadoras da maior delonga processual.
+À vista do exposto, julgo prejudicado o recurso ordinário em habeas corpus.
+Publique-se e intimem-se.
