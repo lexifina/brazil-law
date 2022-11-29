@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANDRE LUIZ PERROUD SILVA DE OLIVEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim resumido:
+AGRAVO INTERNO. DECISÃO PROFERIDA EM AÇÃO RESCISÓRIA. INDEFERIMENTO DO BENEFÍCIO DA JUSTIÇA GRATUITA. AUSÊNCIA DE COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS CARACTERIZADORES DA HIPOSSUFICIÊNCIA ECONÔMICO-FINANCEIRA. PROFISSIONAL LIBERAL CUJOS RENDIMENTOS NÃO FORAM INFORMADOS. INTELIGÊNCIA DO ART. 99, § 2O, DO CPC. RATIFICAÇÃO DO INDEFERIMENTO. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 98 e 99, § 2º, do Código de Processo Civil, no que concerne ao indeferimento do pedido de justiça gratuita, visto não ter condições de arcar com as despesas sem prejuízo de sua própria manutenção e tendo colacionado documentos probantes aos autos, trazendo os seguintes argumentos:
+22. Infere-se do texto legal que qualquer parte no processo pode usufruir do benefício da justiça gratuita. Logo, a Recorrente, pessoa natural, também faz jus ao benefício, haja vista não ter condições de arcar com as despesas do processo sem prejuízo de sua manutenção.
+23. Desse modo, importante expor o entendimento jurisprudencial pacificado pelo STJ que corrobora a pretensão argumentada, conforme se vislumbra da análise do precedente declinado:
+ ..
+26. Houve ainda clara afronta ao artigo 99, § 2º do CPC, pois foi determinado que a Recorrente comprovasse o preenchimento dos pressupostos para a concessão da gratuidade, porém o acordão combatido informa que o recorrente deixou de fazê-lo apesar de todos os documentos acostado no processo principal.
+27. Nesta senda, ainda foi colacionado aos autos declaração de hipossuficiência, sendo que esta possui presunção de veracidade, juris tantum, porém esta somente poderá ser negada de plano pelo Juiz, se houver fundadas razões para tanto.
+28. De tal forma, não há que se falar que a Recorrente não comprovou o estado de hipossuficiência, pois foi cumprido o requisito, sem que houvesse no caso em tela qualquer demonstração de suficiência que fundamentasse a decisão do Douto Desembargador a quo para indeferimento.
+29. Assim, não havendo prova em contrário da alegada hipossuficiência o comando do art. 99 do CPC, é de que de ofício será deferida a assistência judiciária (fls. 234-235).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No mérito, o recurso não merece provimento.
+Isso porque, quanto à declaração de hipossuficiência mencionada no art. 99, § 3º, do Código de Processo Civil, detém presunção relativa de veracidade, de modo que, havendo dúvida quanto ao preenchimento dos pressupostos legais para concessão da gratuidade, pode o Juízo determinar sua comprovação e, eventualmente, indeferir o pedido.
+ ..
+No presente caso, vê-se que, por meio da decisão de seq. 8.1 dos autos de ação rescisória, justificou-se a dúvida quando ao enquadramento do ora agravante à situação de hipossuficiência econômico-financeira, e determinou-se a juntada de documentos hábeis a comprová-la:
+"(..) Do exame da petição inicial, depreende-se que o autor declarou impossibilidade de custear o processo sem prejuízo de sua subsistência, e requereu a concessão do benefício da Justiça Gratuita.
+Ocorre que, quanto ao comprovante juntado a seq. 1.11, refere-se a declaração de imposto sobre a renda relativa ao ano-calendário de 2018, de modo que não representa a atualidade da situação econômico-financeira da parte.
+Ademais, observa-se que o autor e advogado e possui quotas em sociedade empresária.
+2. Assim, conforme preceitua o art. 99, § 2º, do Código de Processo Civil, intime-se o autor para que informe os rendimentos decorrentes da atuação como advogado e junte declaração atualizada de imposto sobre a renda e outros documentos que comprovem a alegada hipossuficiência, no prazo de 5 (cinco) dias".
+Contudo, não obstante intimado, o agravante deixou de fazê-lo, como mencionado na decisão vergastada, contexto no qual o indeferimento da benesse é medida que se impõe (fls. 216-218).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
