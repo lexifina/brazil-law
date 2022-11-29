@@ -1,0 +1,18 @@
+DECISÃO
+Na Petição RCD n. 01088392/2022(e-STJ fls. 35/60), a defesa de LUCAS RIBEIRO DE SOUZA requer a reconsideração da decisão na qual indeferi liminarmente o habeas corpus,em razão da instrução deficitária e da sua impetração contra ato monocrático de desembargador relator, sem a manifestação do órgão colegiado.
+Alega que (e-STJ fls. 35/36):
+3.  ..  imperioso ressaltar que o Habeas Corpus originário foi feito de próprio punho pelo Peticionante, ao passo que este não dispõe de conhecimento técnico, jurídico e muito menos de capacidade postula- tória para interpor, à época, o devido Agravo Regimental, tendo-se usado o presente remédio constitucional para trazer ao conhecimento desta Egrégia Sexta Turma a ilegalidade perpetuada.
+4. Ademais, se não bastasse, verifica-se que a defesa técnica do Peticionante já havia impetrado Habeas Corpus perante o e. TJSC que, inclusive, passou pelo crivo do colegiado que, por sua vez, entendeu por denegar a ordem.
+5. Aqui, urge mais um motivo que arrazoa a presente impetração, visto que, mesmo caso fosse interposto Agravo Regimental em face do ato coator, isto é, da decisão monocrática que não conheceu do habeas corpus de próprio punho, manter-se-ia a prisão preventiva do Paciente.
+6. Inclusive, para se verificar tal conclusão, que se colaciona a decisão do primeiro Habeas Corpus impetrado perante o e. TJSC em favor do Paciente.
+Requer, assim, o processamento do presente mandamus e a análise do pedido liminar.
+É o breve relatório.
+Decido.
+Apesar de ter sido juntada a íntegra do processo no qual se encontra o decreto prisional combatido, entendo que o pedido de reconsideração não pode ser deferido.
+Isso, porque, mesmo já tendo havido prévia manifestação do Tribunal de origem emhabeas corpusanterior, a presente insurgência é contradecisão singular de desembargador do Tribunal de Justiça do Estado de Santa Catarina contra a qual seria cabível agravo regimental, que, aparentemente, não foi interposto, o que impossibilita o conhecimento deste writ.
+A manifestação colegiada do Tribunal de origem é necessária para que não se configure supressão de instância, não servindo tal manifestação em ação mandamental diversa da presente.
+Em outras palavras, não serve ao afastamento da supressão de instância o fato de que o órgão colegiado manifestou-se em outro processo, notadamente porque: (i) a decisão monocrática do desembargador relator combatida neste habeas corpus não analisou o mérito das questões invocadas na inicial e não foi levada para serem tratadas pelo colegiado; e (ii) seria necessária a vedada incursão no contexto fático-probatório dos autos para analisar se as questões aqui invocadas foram decididas pelo Tribunal no outro processo ao qual a defesa se refere.
+Desse modo, estando clara a ausência de exaurimento da instância anterior no que tange ao presente habeas corpus, não foi inaugurada a competência desta Corte Superior para a análise das teses nele aviadas, independentemente de o órgão colegiado estadual ter se pronunciado em outra ação, tendo em vista que, neste processo, a supressão dos temas se mantém nítida.
+Assim, repriso o entendimento esposado na decisão ora combatida no sentido de que "além de a decisão singular impugnada não ter analisado o mérito, o decisum que poderia ter sido submetido a esta Corte Superior seria apenas o acórdão no qual o Tribunal de origem tivesse, de forma colegiada,efetivamente analisado o mérito das questões ora aventadas" (e-STJ fls. 30/31, grifei).
+Ante o exposto, indefiro o pedido de reconsideração e mantenho oindeferimento liminar do habeas corpus.
+Publique-se. Intimem-se.
