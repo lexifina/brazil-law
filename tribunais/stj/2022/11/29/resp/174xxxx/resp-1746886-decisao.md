@@ -1,0 +1,48 @@
+DECISÃO
+Cuida-se de recurso especial interposto por FUNDAÇÃO DOS ECONOMIARIOS FEDERAIS - FUNCEF, fundado nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TJ/CE.
+Ação: revisional de complementação de aposentadoria, ajuizada por RAIMUNDO CLEITANO DIOGENES PAIVA E OUTROS em face de FUNDAÇÃO DOS ECONOMIARIOS FEDERAIS - FUNCEF.
+Sentença: o Juízo de primeiro grau julgou parcialmente procedentes os pedidos.
+Acórdão: o TJ/CE, por unanimidade, negou provimento à apelação da FUNCEF, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. PREVIDÊNCIA COMPLEMENTAR. ENTIDADE PRIVADA FECHADA. PRELIMINARES REJEITADAS. AUSÊNCIA DE PRESCRIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. SÚMULA Nº 291 STJ. BENEFICIÁRIOS PLANO REG/REPLAN DA FUNCEF. SUPLEMENTAÇÃO DE APOSENTADORIA. BENEFÍCIO CONCEDIDO. REDUÇÃO DO VALOR REAL. IMPOSSIBILIDADE. REGULAMENTO DO PLANO DE BENEFÍCIOS. FONTE DE CUSTEIO PRÉVIA. DIREITO ADQUIRIDO. MOMENTO DE PREENCHIMENTO DOS REQUISITOS. DIREITO À PARIDADE. AUTONOMIA. PREVIDÊNCIA OFICIAL. REAJUSTAMENTO. POSSIBILIDADE. PRECEDENTES STJ, TRIBUNAIS E DESTA CORTE. RECURSO CONHECIDO E IMPRÓVIDO. SENTENÇA MANTIDA.
+Embargos de declaração: opostos pela FUNCEF, foram rejeitados, à unanimidade.
+Recurso especial: aponta violação dos art. 131, 333, I e II, 458, II, e 535, II, do CPC/1973; art. 178, § 10, II, do CC/1916; art. 178, 185 e 206, § 3º, 840, 841, 842, 884 e 885, todos do CC/2002; art. 21, § 3º, da Lei 6.435/1977; art. 6º da LINDB; art. 103 da Lei 8.213/1991; art. 75 da LC 109/2001; art. 3º do CDC; bem como da súmula 291/STJ.
+Sustenta a recorrente a decadência do direito ou a prescrição da pretensão deduzida pelos recorridos; a existência de transação entre as partes, em que "os recorridos deram plena, geral, irrevogável e irretratável quitação de quaisquer valores reclamados à FUNCEF" e "desistiram e renunciaram expressamente as possíveis ações contra a demandada que estivesse vinculado ao anterior regulamento - REG REPLAN" (fl. 666, e-STJ); a inaplicabilidade do CDC à hipótese, consoante estabelece a súmula 321/STJ; a licitude da redução da parcela paga a título de complementação de aposentadoria, com base nas cláusulas pactuadas; a impossibilidade se criação, majoração ou extensão de benefício sem a correspondente fonte de custeio, de modo a preservar o equilíbrio financeiro do contrato.
+Juízo prévio de admissibilidade: o TJ/CE admitiu o recurso especial.
+É O RELATÓRIO. DECIDE-SE.
+- Da ofensa à súmula e a dispositivos constitucionais
+O recurso especial não é cabível para discutir ofensa à súmula ou a dispositivos constitucionais, os quais não se enquadram no conceito de lei federal previsto no art. 105, III, "a", da CF/1988.
+- Da fundamentação deficiente
+Os argumentos invocados pela recorrente não demonstram como o TJ/CE ofendeu os arts. 131, 333, I e II, 458, II e 535, I e II, do CPC/1973, o art. 206, § 3º, 840, 841, 842, 884 e 885, todos do CC/2002, os arts. 6º e 21, § 3º, da Lei 6.435/1977, o art. 6º da LINDB, o que importa na inviabilidade do recurso especial, neste ponto, ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O TJ/CE não decidiu, sequer implicitamente, acerca dos arts. 178, § 10, II, do CC/1916, dos arts. 178 e 185 do CC/2002, indicados como violados, tampouco se manifestou sobre os argumentos deduzidos nas razões recursais acerca dos referidos dispositivos legais, a despeito da oposição de embargos de declaração.
+Por isso, o julgamento do recurso especial, quanto a essa questão, é inadmissível por incidência da Súm. 211/STJ.
+- Da existência de fundamento não impugnado
+A recorrente não impugnou o fundamento utilizado pelo TJ/CE de que, "qualquer dispositivo contratual que traga em seu bojo imposição de renúncia ao direito de ação, porque afrontoso ao texto magno, é nulo de pleno direito, além de abusivo, não escrito, consequentemente, sem efeito jurídico" (fl. 590, e-STJ).
+Aplica-se, na hipótese, a Súmula 283/STF.
+- Das súmulas 5 e 7/stj
+Alterar o decidido pelo TJ/CE no acórdão impugnado para confirmar a sentença, no sentido de reconhecer que "os valores pagos pela FUNCEF foram obtidos em observância ao Regulamento da Entidade de previdência privada e à Lei 6.435 /77, os quais estabelecem os critérios para correção das suplementações de aposentadoria, não havendo falar-se em redução indevida ou restituição dos descontos efetuados" (fl. 595, e-STJ) e de que é "incabível a redução do valor real, uma vez que o regulamento do plano de benefícios tem sua fonte de custeio prévia e tornando-se direito adquirido dos recorridos no momento de preenchimento dos requisitos, ensejando assim direito à paridade pleiteada, com autonomia dos índices da previdência oficial, incorrendo no respectivo reajustamento" (fl. 599, e-STJ), exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas súmulas 5 e 7, ambas do STJ.
+- Da súmula 563/stj
+Nos termos da Súmula 563/STJ, "o Código de Defesa do Consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas".
+No entanto, a recorrente não demonstrou como a inaplicabilidade do CDC, na espécie, alteraria o resultado do julgamento realizado pelo TJ/CE, atraindo a incidência da súmula 284/STF quanto ao ponto.
+- Da súmula 83/stj
+A jurisprudência do STJ se consolidou no sentido de que a prescrição da pretensão de complementação de aposentadoria vinculada a contrato de previdência privada configura obrigação de trato sucessivo, por isso alcança tão somente as parcelas vencidas anteriormente ao quinquênio que precede o ajuizamento da ação, mas não o próprio fundo do direito (AgInt no REsp n. 1.703.789/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 22/11/2021, DJe de 25/11/2021; AgInt no REsp n. 1.734.051/CE, relator Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 29/11/2021, DJe de 2/12/2021).
+Logo, o acórdão recorrido está em harmonia com a jurisprudência desta Corte.
+- Da divergência jurisprudencial
+A não indicação do dispositivo de lei supostamente violado é circunstância que obsta o conhecimento do recurso especial fundado na alínea "c" do permissivo constitucional (súmula 284/STF).
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência, não bastando, para tanto, transcrever ementas ou destacar trechos de decisões (REsp 1.421.371/SC, Terceira Turma, julgado em 12/12/2017, DJe de 18/12/2017; AgInt nos EREsp 1.377.705/SP, Segunda Seção, julgado em 14/09/2016, DJe de 19/09/2016; AgInt nos EAREsp 740.220/SP, Corte Especial, julgado em 17/08/2016, DJE de 21/09/2016).
+Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 541, parágrafo único, do CPC/73 (arts. 1.029, § 1º, do CPC/15) e 255, § 1º, do RISTJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, a, do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência, visto que o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973 (EAREsp 1.255.986/PR, Corte Especial, julgado em 20/03/2019, DJe de 06/05/2019).
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO REVISIONAL DE COMPLEMENTAÇÃO DE APOSENTADORIA. CONTRATO DE PREVIDÊNCIA PRIVADA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA. DESCABIMENTO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. PRESCRIÇÃO NÃO CONFIGURADA. OBRIGAÇÃO DE TRATO SUCESSIVO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JUSRIPRUDÊNCIA DO STJ. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO NÃO REALIZADO.
+1. Ação revisional de complementação de aposentadoria vinculada a contrato de previdência privada.
+2. O recurso especial não é cabível para discutir ofensa à súmula ou a dispositivos constitucionais, os quais não se enquadram no conceito de lei federal previsto no art. 105, III, "a", da CF/1988.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema (súmula 284/STF).
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial (súmula 211/STJ).
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial (súmula 283/STF).
+6. O reexame de fatos e provas e a interpretação de cláusula contratual em recurso especial são inadmissíveis (súmulas 5 e 7/STJ).
+7. A prescrição da pretensão de complementação de aposentadoria vinculada a contrato de previdência privada configura obrigação de trato sucessivo, por isso alcança tão somente as parcelas vencidas anteriormente ao quinquênio que precede o ajuizamento da ação, mas não o próprio fundo do direito. Incidência da súmula 83/STJ.
+8. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+9. Recurso especial conhecido em parte e, nessa extensão, desprovido.
