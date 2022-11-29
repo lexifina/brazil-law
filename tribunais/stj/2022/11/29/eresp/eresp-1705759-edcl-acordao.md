@@ -1,0 +1,68 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 23/11/2022 a 29/11/2022, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Humberto Martins, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração contra decisum do STJ com a seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. ACÓRDÃO EMBARGADO QUE NÃO ENFRENTOU O MÉRITO OU A CONTROVÉRSIA. DECISUM DE ORIGEM FUNDAMENTADO NA INCIDÊNCIA DAS SÚMULAS 283/STF E 5, 7 E 211 DO STJ. IMPOSSIBILIDADE DE CONHECIMENTO DOS EMBARGOS. PRECEDENTES.
+1. Cuida-se de Agravo Interno contra decisum da Presidência do STJ que indeferiu liminarmente os Embargos de Divergência.
+2. Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do Recurso Especial em razão da incidência das Súmulas 283/STF e 5, 7 e 211/STJ.
+3. Como se vê, não é admissível o recurso de Embargos de Divergência, quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia. Nesse sentido, os seguintes julgados: AgInt nos EREsp 1.848.530/DF, Rel. Ministro Francisco Falcão, Corte Especial, DJe 7.12.2020; AgInt nos EREsp 1.345.680/SC, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe de 19.4.2017; e AgInt nos EREsp 1.226.477/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe de 26.10.2016.
+4. Agravo Interno não provido.
+Houve interposição de Embargos de Declaração pleiteando ao STJ, em síntese:
+Nesse sentido, o CREDIT SUISSE requer que essa e. Turma Julgadora se manifeste expressamente sobre a filiação do v. acórdão Embargado à tese de que seria possível relativizar a vedação prevista no art. 284 do CPC ao concluir que o embargante teria deixado de impugnar especificamente o princípio da instrumentalidade das formas e da economia processual.
+* * * 12. Por todo o exposto, o CREDIT SUISSE confia em que essa e.
+Turma conhecerá dos embargos e a eles dará provimento a fim de que, sanando a omissão acima apontada, seja reconhecida a apreciação reflexa do mérito da controvérsia pelo v. acórdão embargado, admitindo-se os embargos de divergência.
+Impugnação apresentada às fls. 1.050-1.054.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DIVERGÊNCIA. ACÓRDÃO EMBARGADO QUE NÃO ENFRENTOU O MÉRITO OU A CONTROVÉRSIA. DECISUM DE ORIGEM FUNDAMENTADO NA INCIDÊNCIA DAS SÚMULAS 283 DO STF, 5, 7 E 211 DO STJ. IMPOSSIBILIDADE DE CONHECIMENTO DOS EMBARGOS. PRECEDENTES. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. INTUITO DE REDISCUTIR O MÉRITO DO JULGADO. INVIABILIDADE.
+1. Cuida-se de Embargos de Declaração contra acórdão do STJ que negou provimento a Agravo Interno interposto de decisum da Presidência do STJ que indeferiu liminarmente os Embargos de Divergência.
+2. Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do Recurso Especial em razão da incidência das Súmulas 283 do STF, 5, 7 e 211 do STJ.
+3. Como se vê, não é admissível o recurso de Embargos de Divergência quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia. Nesse sentido, os seguintes julgados: AgInt nos EREsp 1.848.530/DF, Rel. Ministro Francisco Falcão, Corte Especial, DJe 7.12.2020; AgInt nos EREsp 1.345.680/SC, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe de 19.4.2017; e AgInt nos EREsp 1.226.477/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe de 26.10.2016.
+4. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 14.10.2022.
+Cuida-se de Embargos de Declaração contra acórdão do STJ que negou provimento a Agravo Interno interposto de decisum da Presidência do STJ que indeferiu liminarmente os Embargos de Divergência.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados. Destaque-se que os Aclaratórios constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na origem, trata-se de Embargos de Divergência em que a parte embargante insurge-se contra o acórdão embargado em razão da divergência com o REsp 1.291.225/MG, proferido pela Segunda Turma, relativo à não admissão da "emenda da inicial após o oferecimento da contestação quando tal diligência ensejar a modificação do pedido ou da causa de pedir" (fl. 914).
+De fato, os Embargos não reúnem condições de serem processados.
+Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do Recurso Especial em virtude da incidência das Súmulas 283/STF e 5, 7 e 211/STJ.
+Nos termos do art. 1.043 do CPC e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os Embargos de Divergência são cabíveis contra acórdão que, em Recurso Especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+Como se vê, não é admissível o recurso de Embargos de Divergência quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia.
+No mesmo sentido é a jurisprudência consolidada no STJ:
+PROCESSUAL CIVIL. CONSUMIDOR. AÇÃO DE INDENIZAÇÃO. DANO MATERIAL E MORAL. VEÍCULO. DEFEITO DE FABRICAÇÃO. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. NÃO COMPROVAÇÃO DA DIVERGÊNCIA. NÃO COMPROVAÇÃO DA ATUALIDADE DO DISSÍDIO.
+I - Na origem, trata-se de ação objetivando, em síntese, reparação por danos moral e material decorrente da responsabilidade civil da montadora de veículo findada em vício de fabricação. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - Nos termos do art. 1.043 do Código de Processo Civil e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+III - Outrossim, não é admissível o recurso de embargos de divergência, quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia. Nesse sentido: Agint nos EREsp n. 1500624/MG. Relator Ministro Francsico Falcão, Primeira Seção, DJe de 1/4/2019.
+(..) VI - Agravo interno improvido.
+(AgInt nos EREsp 1848530/DF, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 01/12/2020, DJe 07/12/2020)
+Mencionem-se, ainda, entre inúmeros outros, os seguintes julgados da Corte Especial: AgInt nos EREsp 1.345.680/SC, Rel. Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe de 19/4/2017; e AgInt nos EREsp 1.226.477/RS, Rel. Ministro Humberto Martins, Corte Especial, DJe de 26/10/2016.
+Dessa feita irreprochável o acórdão que negou provimento ao Agravo Interno contra decisum que indeferiu liminarmente os Embargos de Divergência.
+Impossível a inovação recursal em Aclaratórios, com argumentos inéditos não ventilados no momento oportuno, sendo agora invocados a pretexto de apontar omissão, mas com o intuito de rediscutir o mérito do julgado.
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há omissão, contradição ou obscuridade no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de suprir lacunas.
+Destaque-se que o CPC impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Confira-se a doutrina de Nelson Nery Junior e Rosa Nery:
+Não enfrentamento, pela decisão, de todos os argumentos possíveis de infirmar a conclusão do julgador. Para que se possa ser considerada fundamentada a decisão, o juiz deverá examinar todos os argumentos trazidos pelas partes que sejam capazes, por si sós e em tese, de infirmar a conclusão que embasou a decisão. Havendo omissão do juiz, que deixou de analisar fundamento constante da alegação da parte, terá havido omissão suscetível de correção pela via dos embargos de declaração. Não é mais possível, de lege lata, rejeitarem-se, por exemplo, embargos de declaração, ao argumento de que o juiz não está obrigado a pronunciar-se sobre todos os pontos da causa. Pela regra estatuída no texto normativo ora comentado, o juiz deverá pronunciar-se sobre todos os pontos levantados pelas partes, que sejam capazes de alterar a conclusão adotada na decisão.
+(Código de Processo Civil Comentado, São Paulo, Revista dos Tribunais, 2016, p. 1.249-1.250, destaque no original).
+Esposando tal entendimento, precedente da Primeira Seção desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art.
+489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO, PRIMEIRA SEÇÃO, julgado em 8/6/2016, DJe 15/6/2016)
+Além disso, é de conhecimento geral que os Aclaratórios não se prestam a rever a matéria julgada nem a prequestionar dispositivos constitucionais.
+Com esse entendimento:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 535 DO CPC. REDISCUSSÃO DE QUESTÕES DE MÉRITO. APRECIAÇÃO DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. CARÁTER MERAMENTE PROTELATÓRIO. APLICAÇÃO DA MULTA DO ART. 538, PARÁGRAFO ÚNICO, DO CPC.
+1. Revelam-se improcedentes os embargos declaratórios em que as questões levantadas traduzem inconformismo com o teor da decisão embargada, pretendendo rediscutir matérias já decididas, sem demonstrar omissão, contradição ou obscuridade (art. 535 do CPC).
+2. Incabíveis embargos de declaração se inexiste omissão relativa à matéria infraconstitucional, não sendo o STJ competente para apreciar matéria constitucional, inclusive para fins de prequestionamento.
+3. É nítido o intuito protelatório do recurso, dando ensejo à aplicação da penalidade prevista no art. 538, parágrafo único, do CPC, à razão de 1% do valor corrigido da causa.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no Ag 936.404/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 9/9/2008, DJe 14/10/2008)
+Agregue-se que, se o recurso é inapto ao conhecimento, a falta de exame da matéria de fundo impossibilita a própria existência de omissão quanto a esta matéria. Nesse sentido: EDcl nos EDcl no AgInt no RE nos EDcl no AgInt no REsp 1.337.262/RJ, Rel. Ministro Humberto Martins, Corte Especial, julgado em 21/3/2018, DJe 5/4/2018; EDcl no AgRg no AREsp 174.304/PR, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 10/4/2018, DJe 23/4/2018; EDcl no AgInt no REsp 1.487.963/RS, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 24/10/2017, DJe 7/11/2017.
+A contradição que vicia o julgado de nulidade é a interna. Nela se constata inadequação lógica entre a fundamentação posta e a conclusão adotada, o que, a toda evidência, não retrata a hipótese dos autos. Nesse sentido: EDcl no AgInt no RMS 51.806/ES, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/5/2017, DJe 22/5/2017; EDcl no REsp 1.532.943/MT, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 18/5/2017, DJe 2/6/2017.
+Dessa forma, reitera-se que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao CPC e que os Embargos Declaratórios não constituem instrumento adequado à rediscussão da matéria de mérito nem ao prequestionamento de dispositivos constitucionais com vistas à interposição de Recurso Extraordinário.
+Ante o exposto, rejeitam-se os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito à multa prevista no Código de Processo Civil.
+É o Voto.
