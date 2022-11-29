@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto por FELICIANO VENISIUM DA SILVA, fundamentado nas alíneas ae cdo permissivo constitucional, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DESANTA CATARINA, assim ementado (e-STJ fl. 322):
+AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO. INSURGÊNCIA CONTRA A DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DOS ACLARATÓRIOS EM RAZÃO DA SUA INTEMPESTIVIDADE. OPOSIÇÃO FORA DO PRAZO PREVISTO NO ARTIGO 619 DO CÓDIGO DEPROCESSO PENAL. INTIMAÇÃO CORRETAMENTE REALIZADA, NOSTERMOS DA LEI N. 11.419/06. SUBSTABELECIMENTO DE PROCURAÇÃO A NOVO ADVOGADO QUE NÃO DEVOLVE O PRAZOPARA A INTERPOSIÇÃO DE RECURSO. DECISÃO MONOCRÁTICA ACERTAD A. RECURSO CONHECIDO E DESPROVIDO.
+" ..  a outorga de mandato ou o substabelecimento de procuração a novo advogado não devolve o prazo para a interposição de recurso, recebendo o novo defensor os autos no estado em que se encontram". (STJ - AgInt noAREsp n. 1843654/SP, Quarta Turma, Rel. Min. Marco Buzzi, j. em20/09/2021).
+Consta nos autos que o recorrente foi condenado às penas de 3 anos e 6 meses de reclusão em regime inicial aberto, substituída por prestação de serviços à comunidade e prestação pecuniária, além do pagamento de20 dias-multa, como incurso nos arts. 12,caput, e 16, parágrafo único, IV, da Lei n. 10.826/2003 c/c o art. 70 do Código Penal, o que restou mantido em decorrência do não provimento do apelo defensivo.
+Opostos embargos de declaração, o Relator não os conheceu,diante de sua intempestividade, o que restou mantido pelo não provimento do agravo interno (e-STJ fls. 316-321).
+Nas razões do presente apelo nobre, a defesa alega violação dos arts. 489, § 1º, VI; 926 e 927 do Código de Processo Penal, asseverando que oequívoco do Poder Judiciário em indicar no sistema eletrônico de processo o prazo para a oposição dos embargos de declaração não pode obstar o manejo da via impugnativa.
+Sustenta que odecisumconflita com o entendimento do Superior Tribunal de Justiça firmado quando do julgamento dos Embargos de Divergência no REsp n. 1.805.589/MT.
+Requer, ao final, o provimento do recurso especial.
+Contrarrazoada a insurgência (e-STJ - fls. 403-410), após o juízo prévio de admissibilidade, os autos ascenderam a este Superior Tribunal de Justiça.
+O Ministério Público Federal, na condição de custos legis, opinou pelo provimento do recurso(e-STJ - fls. 434-436).
+É o relatório. Decido.
+Satisfeitos os pressupostos de admissibilidade, passa-se ao exame recursal.
+Para melhor contextualizar o objeto recursal,trago à colação os fundamentos do acórdão guerreado (e-STJ fl. 319):
+Ressalta-se, ademais, que " ..  a outorga de mandato ou o substabelecimento de procuração a novo advogado não devolve o prazo para a interposição de recurso, recebendo o novo defensor os autos no estado em que se encontram". (STJ - AgInt no AREsp n. 1843654/SP, Quarta Turma, Rel. Min. Marco Buzzi, j. em 20/09/2021).
+Desse modo, conclui-se que a intimação foi corretamente realizada, bem como que o atual defensor do acusado não observou o prazo para devida oposição dos aclaratórios.
+De outro viso, ainda que apoiado pelo douto Procurador de Justiça, melhor sorte não socorre ao agravante quando alega que opôs os embargos de declaração dentro do prazo constante no E-proc.
+Isso porque, o fato de constar na movimentação do Evento 20 que a data final da contagem do prazo seria 17/09/2021, não tem o condão de invalidar o prazo previsto na legislação processual, cabendo à parte a responsabilidade pela escorreita contagem dos prazos.
+Ao assim decidir, o Tribunala quoalinhou-se com entendimento de ambas as Turma criminais que integram a Terceira Seção deste Superior Tribunal de Justiça, segunda a qual "acontagem correta dosprazosrecursais, nos termos definidos pela legislação processual, é ônus exclusivo da parte recorrente, de modo que a data eventualmente sugerida pelosistema processual eletrôniconão o exime de interpor o recurso noprazoprevisto em lei" (AgRg no AREsp 1.825.919/PR. Sexta Turma. Rel.Ministra Laurita Vaz. DJe 16.6.2021).
+Sob o mesmo prisma:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES PREVISTOS NO CÓDIGO DE TRÂNSITO BRASILEIRO. RESISTÊNCIA. DESACATO. RECURSO ESPECIAL INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. PRAZO DE 15 DIAS CONTÍNUOS. ART. 798 DO CPP. NECESSIDADE DE COMPROVAÇÃO DE SUSPENSÃO DE PRAZO NO ATO DA INTERPOSIÇÃO DO RECURSO. PRECEDENTES. DECISÃO AGRAVADA PROFERIDA PELA PRESIDÊNCIA DESTA CORTE SUPERIOR. MANUTENÇÃO.
+ ..
+V - As informações processuais constantes dosistema eletrônicodo Tribunal de origem ou de sítio na rede mundial de computadores têm caráter meramente informativo e eventuais equívocos não configuram justa causa para devolução deprazosprocessuais.
+VI - No caso, o agravante fora intimado a respeito do teor do acórdão proferido em sede de embargos de declaração em 13/12/2021 (fl. 702). Assim, o prazo recursal de 15 (quinze) dias para interposição do recurso especial começou a fluir em 14/12/2021 (terça-feira) e teria como prazo fatal 7/1/2022. No entanto, o recurso especial foi interposto somente em 10/01/2022 (fl. 707), sendo manifesta a sua intempestividade, pois não fora devidamente colacionada nos autos, no ato de interposição do apelo nobre, a comprovação da suspensão do expediente forense.
+Agravo regimental desprovido.
+(AgRg no AREsp 2132122/PR. Quinta Turma. Rel. Desembargador Convocado Jesuíno Rissato. DJe de 26.8.2022)
+Ainda no mesmo diapasão:
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. MANUTENÇÃO DA DECISÃO.
+1. A contagem correta dosprazosrecursais, nos termos definidos pela legislação processual, é ônus exclusivo da parte recorrente, de modo que a data eventualmente sugerida pelosistema processual eletrôniconão o exime de interpor o recurso noprazoprevisto em lei (AgRg no AREsp n. 1.825.919/PR, Ministra Laurita Vaz, Sexta Turma, DJe 16/6/2021).
+2. A Corte Especial, por ocasião do julgamento do Agint no AREsp 1.481.810/SP, em sessão realizada em 19/5/2021 - acórdão pendente de publicação -, tornou pacífica a aplicação do entendimento fixado no julgamento do REsp n 1.813.684/SP, no sentido de que a falta de comprovação prévia da tempestividade do recurso, em razão de todo e qualquer feriado ou recesso forense local, configura vício insanável, de modo que não pode ser feita posteriormente no agravo interno, à exceção do feriado da segunda-feira de carnaval, no caso de recursos interpostos até 18/11/2019, consoante decidido na Questão de Ordem no REsp 1.813.684/SP (AgInt nos EAREsp n. 1.375.252/TO, Ministro Luiz Felipe Salomão, Corte Especial, DJe 29/6/2021)
+3. Agravo regimental improvido.
+(AgRg no AREsp 1869843/PR. Sexta Turma. Rel. Ministro Sebastião Reis Júnior. DJe de 22.10.2021)
+Na espécie, a defesa foi intimada do acórdão apelatório no dia 2.9.2021 (e-STJ fl. 266), iniciando-se o prazo do art. 619 do CPP em 3.9.2021 (sexta-feira) e encerrando-se no dia 6.9.2021 (segunda-feira). Ocorre que a parte opôs os aclaratórios apenas no dia 9.9.2021 (e-STJ fl. 267), sendo manifestamente intempestiva a insurgência manejada perante a Corte de origem.
+Assim, incide a Súmula n. 568 do Superior Tribunal de Justiça, segundo a qual o relator, monocraticamente e nesta Corte Superior, poderá dar ou negar provimento ao recurso com fundamento na existência de entendimento dominante acerca do tema.
+Ante o exposto, com fundamento no artigo 255, § 4º, II, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
