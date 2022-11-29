@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por ELIVANE ALEXANDRE BEZERRA, contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO. DIREITO DE VIZINHANÇA. A Autora afirma que obras feitas pelo seu vizinho obstruíram a área de ventilação do edifício, bem como provocaram diversas rachaduras nas paredes do prisma, próximo ao seu imóvel. Sentença de improcedência que é por ela alvejada. Data venia, não restou demonstrado nos autos que as rachaduras localizadas no seu andar são provenientes da obra realizada pelo segundo Réu. Perito auxiliar do Juízo aponta como causa das fissuras o intemperismo e o desgaste natural, tendo em vista que a edificação possui aproximadamente sessenta anos, além da retirada de exaustores e alterações nos imóveis no entorno do prismade ventilação. Alteração feita na área de serviço do imóvel da Demandante é justamente uma das causas dasrachadurasexternas, conforme se infere do laudo pericial. Colocação de toldo retrátil, pelo Réu, em área comum localizada no térreo, foi objeto de anuência em Assembleia Extraordinária, sem qualquer oposição dos condôminos presentes à manutenção da benfeitoria, conforme se extrai da ata do evento. Possibilidade de um condômino utilizar, exclusivamente, da área comum, alterando a destinação de origem foi consolidada através do enunciado 247 da III Jornada de Direito Civil do Conselho da Justiça Federal. Dessa forma, a parte Autora não logrou êxito em comprovar suas alegações, nos termos do artigo 373, inciso I, do Código de Processo Civil, ônus que lhe incumbia. Manutenção da sentença de improcedência que se impõe. RECURSO DESPROVIDO"(fls. 614-615 e-STJ).
+Não foram opostos embargos de declaração.
+Nas razões recursais (fls. 638-648 e-STJ), arecorrente aponta a violação dos arts.186 e 927, caput e parágrafo único, do Código Civil.
+Afirma que cumpriu seu ônus processual e comprovou, por meio de laudo pericial, a existência de danos de natureza patrimonial e extrapatrimonial.
+Contrarrazões apresentadas às fls. 653-659 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior àpublicação da Emenda Constitucional nº 125, não se aplicando ao caso orequisito de admissibilidade por ela inaugurado, ou seja, a demonstraçãoda relevância das questões de direito federal infraconstitucional.
+A irresignação não merece prosperar.
+O Tribunal de origem, após detalhado exame do acervo fático-probatório, decidiu que"não restou demonstrado nos autos que as rachaduras localizadas no seu andar (4º pavimento) são provenientes da obra realizada pelo segundo Réu, consoante o laudo pericial" e que"a expert consignou que os problemas encontrados no imóvel provêm da falta de manutenção do imóvel pela própria Autora" (fl. 619 e-STJ).
+Nesse contexto, o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe o enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Em observância ao art. 85, §§ 11, do CPC/2015, majoro em 5% (cinco por cento) os honorários devidos pela parte recorrente, sobre o valor arbitrado pela Corte local, em favor do patrono da parte recorrida.
+Intimem-se.
+Publique-se.
