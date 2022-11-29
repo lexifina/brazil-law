@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de GUILHERME AUGUSTO DE OLIVEIRA, apontando-se como autoridade coatora oTRIBUNAL DE JUSTIÇA DE SÃO PAULO,que, em 24/11/2011,negou provimentoaos apelos defensivos e deu provimento ao apelo ministerial para condenar, entre outras pessoas, o ora paciente como incursono art.33, caput, da Lei n.11.343/2006, à pena de 6anos e 8 meses de reclusão, e pagamento de 666 dias-multa, confirmando, no mais, a sentença que o havia condenado como incurso no art. 35 daquele mesmo diploma legala 4 anos de reclusão e pagamento de 666 dias-multa (Processo n. 0010998-03.2010.8.26.0220, da 2ª Vara da comarca de Guaratinguetá/SP).
+Agora, após o trânsito em julgado da condenação e com a alegação de inépcia da inicial acusatória, de atipicidade em relação ao crime de tráfico de drogas ede insuficiência de provas para a condenação, busca-se a concessão da ordem para absolver o paciente dos crimes descritos nos arts. 33 e 35 da Lei de Drogas, e, em caso de manutenção do acórdão, pede-se a fixação da pena-base no mínimo legal.
+É o relatório.
+Primeiro, a sentença condenatória transitou em julgado em 10/1/2012 para o paciente (fl. 58)há mais de 10 anos.Nesse caso, o presente writ é sucedâneo de revisão criminal. Ocorre que, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido, a teor do disposto noart. 105, I, e, da Constituição Federal.
+Segundo, nos termos da jurisprudência desta Corte, já tendo sido proferida a sentença condenatória, fica prejudicado o exame da alegação de inépcia da denúncia. Precedentes.(AgRg no AREsp n. 1.696.501/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 5/8/2020).
+Terceiro, não é dado ao Superior Tribunal de Justiça cuidar de tema de forma originária, sem que o Tribunal de segunda instância tenha debatido/decidido antes.
+Quarto,é cediço que não cabe ampla análise de fatos e provas nos autos de habeas corpuspara concluir pela absolvição do condenado por insuficiência probatória.
+Quinto,no âmbito restrito do habeas corpus, a análise de suposta violação do art. 59 do Código Penal só é admitida nos casos em que haja flagrante ilegalidade na fixação da reprimenda, o que não se evidenciano caso em apreço, porquanto existe motivação particularizada, vinculada à discricionariedade do julgador.
+E, por fim, cumpre lembrar que a natureza e quantidade da droga são fatores a serem considerados necessariamente na fixação dapena-base,nos termos do art.42da Lei 11.343/2006, constituindo-se em circunstância preponderante a ser utilizada na primeira fase da dosimetria da pena(AgRg no HC n. 734.701/SC, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 21/10/2022).
+Ante o exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO. SUCEDÂNEO DE REVISÃO CRIMINAL. INEVIDÊNCIA CONSTRANGIMENTO ILEGAL.
+Habeas corpus indeferido liminarmente.
