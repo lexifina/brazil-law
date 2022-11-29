@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interno interposto por BANCO DO BRASIL S.A.contra a decisão da Presidência do Superior Tribunal de Justiça que conheceu do agravo em recurso especial para não conhecer do apelo extremoem virtude da incidência da Súmula nº 284/STF.
+Em suas razões (fls. 1123/1134 e-STJ), oagravante sustenta, em síntese, que não incide a Súmula nº 284/STJ. Afirma que
+"a recusa no conhecimento do Recurso Especial, com base na ausência da indicação do inciso correspondente à negativa de prestação jurisdicional do artigo 1.022, do CPC, apresenta excesso de formalismo, diante de claro e evidente apontamento na peça das omissões perpetradas pelo acórdão recorrido, devendo ser reformada a Decisão.
+Com efeito, em vários pontos do Recurso Especial de fls. 1.058/1.063 do Banco, é possível extrair que foi combatida a ausência de prestação jurisdicional com base no artigo 1.022, inciso II, do CPC (..)" (fl. 1124 e-STJ).
+Aparte contrária ofereceu impugnação (fls. 1137/1140e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado em data anterior à publicação da Emenda Constitucional nº 125, não se aplicando ao caso o requisito de admissibilidade por ela inaugurado, ou seja, a demonstração da relevância das questões de direito federal infraconstitucional.
+A irresignação merece prosperar.
+Na caso dos autos, a decisão agravada entendeu por incidir a Súmula nº 284/STF porausência de indicação dos incisos do art. 1.022 do CódigoProcesso Civil.
+Verifica-se, de fato, ser possível identificar, das razões do recurso especial, que a parte ora agravante suscitou omissão do acórdão recorrido ao alegar a violação do art. 1.022 do CPC.
+Assim, reconsidera-se a decisão agravada (fls. 1118/1120e-STJ).
+No apelo nobre, fundamentado no art. 105, III, alínea "a", da Constituição Federal, orecorrente insurge-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul,assim ementado:
+"APELAÇÃO CÍVEL - AÇÃO DE CANCELAMENTO/REDUÇÃO DE HIPOTECA E PENHORAS INCIDENTES SOBRE IMÓVEL. SENTENÇA DE PARCIAL PROCEDÊNCIA - MANTIDA. AGRAVO RETIDO INTERPOSTO PELO BANCO - DESPROVIDO. POSSIBILIDADE JURÍDICA DO PEDIDO E INTERESSE PROCESSUAL - CONFIGURADOS. INOCORRÊNCIA DE COISA JULGADA E DE PERDA DO OBJETO DA AÇÃO. NECESSIDADE E UTILIDADE DA DEMANDA - EVIDENCIADOS, ANTE A RESISTÊNCIA DA INSTITUIÇÃO FINANCEIRA EM EFETUAR A REDUÇÃO DA HIPOTECA E DAS PENHORAS EM QUESTÃO. ATRIBUIÇÃO AO BANCO DO ÔNUS DA SUCUMBÊNCIA - MANTIDA - VENCIDO NO FEITO. AGRAVO RETIDO E RECURSO DE APELAÇÃO DESPROVIDOS"(fl. 1035e-STJ).
+No recurso especial, orecorrente alega afronta ao art. 1.022 do CPC porque o acórdão combatido teria incorrido em negativa de prestação jurisdicional. Sustenta que
+"Nos embargos também buscou-se esclarecer a omissão na análise do objeto da ação de Obrigação de Fazer 001.03.109827-5 pois, em que pese o Acórdão ter simplesmente afirmado que não guarda correlação com a situação dos autos, foi demonstrado que ambas as ações versam sobre a mesma dívida e, havendo recálculo naquela, obviamente que o resultado seria a diminuição das garantias" (fl. 1062 e-STJ).
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, como se vê do seguinte trecho:
+"(..)
+De efeito, as arguições de ausência de interesse processual e perda do objeto da ação não merecem guarida, revelando-se preciso e adequado oentendimento exarado na origem a f. 571/572, em que consta decisão assentando a necessidade e utilidade da pretensão, ante a resistência por parte do réu em reduzir a hipoteca e penhoras anotadas na matrícula do imóvel gravado.
+Outrossim, o pedido não se mostra juridicamente impossível e nem se vislumbra haver coisa julgada, uma vez que se busca obter provimentos distintos nas demandas referidas pela instituição financeira, sendo que "o objeto desta ação é completamente distinto daquele que se tratou nos autos da Ação de Obrigação de Fazer n. 001.03.109827-5, onde pediu-se o enquadramento das operações de crédito rural no "PESA", o que se deferiu, mas ainda não ocorreu"(f.571).
+Ademais, corrobora a improcedência do Agravo Retido e até mesmo do Apelo o decisum de f. 780/786, pelo qual este Tribunal de Justiça, por decisão monocrática ao fim confirmada pelo colegiado, deu provimento ao Agravo de Instrumento nº 2012.019681-0, interposto pela Autora, concedendo parcialmente a tutela antecipada a fim de determinar a redução da hipoteca e penhoras registradas no imóvel sob matrícula nº 6753 para fração ideal equivalente a 200 (duzentos) hectares.
+Referida medida antecipatória foi confirmada pela Sentença, de modo que resta demonstrada a necessidade e utilidade do ajuizamento da ação. Do mesmo modo, não tendo o Requerido logrado êxito na imputação à Autora da responsabilidade pela falta de implementação anterior da pretensão, revela-se evidenciado o direito da demandante à redução da garantia (hipoteca e penhora) incidente sobre o bem supramencionado" (fls. 1036/1037 e-STJ).
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+Ante o exposto, reconsidero a decisão agravada (fls. 1118/1120 e-STJ) e conheço do agravo para conhecer do recurso especial e negar-lhe provimento.
+Na origem, os honorários sucumbenciais foram fixados em 12% (doze por cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
