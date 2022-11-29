@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se  de  conflito  negativo  de  competência  suscitado  pelo  JUÍZO DE DIREITO DA 2A VARA CRIMINAL DO FORO CENTRAL DE BARRA FUNDA - SÃO PAULO - SP em face doJUÍZO DE DIREITO DA VARA CRIMINAL E EXECUÇÃO PENAL DE SÃO SEBASTIÃO DO PARAÍSO - MG ,  em  inquérito  policial  deflagrado  para  apurar  a  suposta  prática  de  estelionato, em razão de ter avítima ido a "São Paulo negociar a compra de um automóvel, efetuando pagamento no valor de cinco mil reais no ato da venda, e num segundo momento, após retornar à sua cidade de domicílio, mediante depósito de bancário em conta indicada pelo vendedor, de mais trinta e cinco mil reais, mas não conseguiu realizar a transferência da propriedade porque o vendedor registrou boletim de ocorrência com notícia falsa de crime de roubo do mesmo veículo, gerando impedimento" (e-STJ fl. 407).
+O  Juízo  suscitado  declinou  da  competência,  por  entender  que  a  consumação  do  delito  de  estelionato  havia  se  dado  na cidade em que o delitoteve o seu último ato executório para a consumação da fraude, qual seja, São Paulo/SP, onde o investigado registrou o boletim de ocorrência do roubo do veículo.
+Por  sua  vez,  o  Juízo  suscitante  instaurou  o  presente  incidente,  por  considerar  que,  nos crimes de estelionato, praticado mediante depósito de valores, a competência para o respectivo processo e julgamento será definida pelo local do domicílio da vítima, nos termos da Lei n. 14.155/2021.
+O  Ministério  Público  Federal  manifestou-se  pela  competência  do  Juízo  suscitado (e-STJ fls. 428/431).
+É  o  relatório.
+Decido.
+Cuida-se  de  incidente  instaurado  entre  juízes  vinculados  a  tribunais  diversos,  razão  pela  qual,  nos  termos  do  art.  105,  I,  "d",  da  Constituição  Federal,  conheço  do  conflito.
+Como  antes  relatado,  cinge-se  a  controvérsia  posta  no  presente  conflito  à  competência  para  processar  e  julgar  a  suposta  prática  do  delito  de  estelionato  em  que  a  vantagem  econômica  foi  obtida  mediante  depósito  bancário  realizado pelas  vítimas.
+Nos termos do § 4º doart. 70, do Código Penal, acrescentado pela Lei n. 14.155/2021,a competência para o processo e o julgamento dos crimes de estelionato,quando praticados mediante depósito, emissão de cheques sem suficiente provisão de fundos em poder do sacado ou com o pagamento frustrado ou mediante transferência de valores, será definida pelo local do domicílio da vítima.
+Essa alteração entrou em vigorem 28/5/2021 e tem aplicação aos processos iniciados após essa data.
+In casu, o processo ainda se encontra em fase investigativaeavítimapossui domicílio em SãoSebastião do Paraíso/MG, o que atrai a competência do Juízo desse local para a apuração dos fatos e o processamento de eventual futura ação penal.
+No mesmo sentido, os seguintes julgados:CC n. 176.961/MG, relator Ministro SEBASTIÃO REIS JÚNIOR, DJe 29/06/2021; eCC n. 178.498/DF, relator Ministro RIBEIRO DANTAS, DJe 2/6/2021.
+Ante  o  exposto,  na linha de manifestação doParquet,  conheço  do  conflito  para  declarar  competente  o  Juízo  suscitado.
+Publique-se.  Comunique-se.
