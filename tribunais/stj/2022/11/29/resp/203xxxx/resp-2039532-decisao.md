@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especialmanejado por Distribuidora Opa Bier Ltda e filial (is) e outros, com base no art. 105, III, a, da CF contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado (fl. 1.103):
+TRIBUTÁRIO. AÇÃO ORDINÁRIA. CONTRIBUIÇÃO PREVIDENCIÁRIA. CONTRIBUIÇÕES DESTINADAS AO SEBRAE. CONSTITUCIONALIDADE. BASE DE CÁLCULO. FOLHA DE SALÁRIOS. POSSIBILIDADE. EMENDA CONSTITUCIONAL 33/2001. ART. 149, § 2º, III, DA CONSTITUIÇÃO FEDERAL. ROL NÃO TAXATIVO. (9)
+1. "Não há impedimento em ser a folha de salários a base de cálculo de contribuição de intervenção no domínio econômico ou das contribuições sociais gerais, uma vez que a relação constante do art. 149, § 2º, III, alínea a, da Carta Maior, incluída pela Emenda Constitucional 33/2001, não constitui numerus clausus." (AC 0053494-42.2010.4.01.3400 / DF, Rel. DESEMBARGADORA FEDERAL MARIA DO CARMO CARDOSO, OITAVA TURMA, e-DJF1 p.3853 de 13/02/2015; EDAMS 0032755-57.2010.4.01.3300 / BA, Rel. DESEMBARGADOR FEDERAL NOVÉLY VILANOVA, OITAVA TURMA, e-DJF1 p.926 de 26/09/2014).
+2. O STF já se manifestou no RE 396.266 e na ADIN 2.556, ambos julgados após a edição da EC nº 33/01, que são constitucionais a contribuição de intervenção no domínio econômico e a contribuição criada pela LC nº 110/2001, qualificada como contribuição social geral, ambas incidentes sobre a folha de salário das empresas.
+3. Apelação e recurso adesivo parcialmente providos.
+Os embargos declaratórios opostos foram rejeitados, nos termos do acórdão de fls. 1.132/1.143.
+Nas razões do recurso especial. a parte recorrente, citando o RE 603.624, aponta violação aoart. 11 da Lei n. 8.029/90. Sustenta, em resumo, "preliminarmente,  ..  pela determinação de suspensão do presente feito, nos termos do art.1.037, inciso II, do Código de Processo Civil, até que seja proferida decisão no recurso paradigma RE 603.624", bem como, seja reformado o acórdão vergastado "para manter o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - SEBRAE como litisconsorte passiva no feito" (fl. 1.210).
+Contrarrazões apresentadas às fls. 1.297/1306 e 1.313/1.322.
+Recurso extraordinário interposto às fls. 1.214/1.235.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Nos termos do art. 1.031, § 2º, do CPC (art. 543, § 2º, do CPC/73), é possível que o relator, neste STJ, entenda que a apreciação do recurso extraordinário se revela prejudicial à análise do recurso especial e, nesse caso, por decisão irrecorrível, remeta os autos à Suprema Corte para que julgue primeiro o apelo extraordinário.
+Na lição de Arruda Alvim, Araken de Assis e Eduardo Arruda Alvim, na sua obra Comentários ao Código de Processo Civil (2. ed, São Paulo: Editora Revista dos Tribunais, 2012, p. 1.255), "A prejudicialidade do julgamento do recurso extraordinário em face do especial depende do fato de o julgamento do extraordinário ser condição para o útil julgamento do recurso especial".
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO.SOBRESTAMENTO DO RECURSO ESPECIAL NOS TERMOS DO ART. 1.031, § 2º, DO CPC/2015. DECISÃO IRRECORRÍVEL.
+1. A decisão recorrida determinou o sobrestamento do Recurso Especial interposto pela parte ora agravada, considerando que a questão de natureza constitucional é prejudicial ao julgamento deste feito. Assim, aplicou a regra prevista no art. 1.031, § 2º, do CPC/2015 e determinou a remessa dos autos ao STF, para julgamento do Agravo em Recurso Extraordinário.
+2. O agravante defende "(..) ainda que se entenda que há predominância de tema constitucional no acórdão recorrido, não se pode, apenas por isso, considerar prejudicial o recurso especial interposto. Isso porque ainda é possível que haja a análise da matéria infraconstitucional por este Tribunal".
+3. Nos termos do art. 1.031, § 2º, do CPC/2015, o decisum que sobresta o Recurso Especial, por considerar prejudicial o Recurso Extraordinário, é irrecorrível: "§ 2º Se o relator do recurso especial considerar prejudicial o recurso extraordinário, em decisão irrecorrível, sobrestará o julgamento e remeterá os autos ao Supremo Tribunal Federal".
+4. Agravo Interno não conhecido.
+(AgInt no REsp 1.819.011/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/11/2019)
+Tenho, salvo melhor juízo, que a hipótese dos autos subsome-se à norma em comento.
+A Suprema Corte afetou à sistemática da repercussão geral o Tema 325/STF (RE 603.624) - "Recurso extraordinário em que se discute, à luz do art. 149, § 2º, III, a, da Constituição Federal, acrescido pela Emenda Constitucional nº 33/2001, a possibilidade, ou não, da utilização, pelo constituinte derivado, do critério de indicação de bases econômicas, para fins de delimitação da competência relativa à instituição de contribuições sociais e de intervenção no domínio econômico, e, por conseguinte, a exigibilidade, ou não, da contribuição destinada ao SEBRAE, instituída pela Lei nº 8.209/90, na redação dada pela Lei nº 8.154/90, após a entrada em vigor da referida emenda constitucional".
+Analisando trecho do acórdão proferido na origem, verifica-se que o tema em discussão, necessariamente, implica análise da existência ou não de litisconsórcio passivo necessário das autarquias do sistema "S", conforme indicado no Tema 325/STF.
+Confira-se (fls. 1.105/1.106):
+Litisconsórcio Passivo Necessário
+Com efeito, não há vinculo jurídico entre as entidades e o contribuinte, uma vez que o liame obrigacional que conduz à obrigatoriedade do recolhimento das contribuições destinadas a terceiros une apenas os sujeitos ativo e passivo da relação jurídica tributária. Apesar de destinatárias das contribuições em apreço, a legitimada para configurar no polo passivo é a União (Fazenda Nacional), que administra o recolhimento.
+A propósito, confiram-se os seguintes precedentes desta Corte no sentido da inexistência de litisconsórcio passivo necessário das autarquias do sistema "S":
+ ..
+No caso, conforme antes assinalado, não há dúvidas de que a questão jurídica suscitada no especial apelo, a saber, a de que seja reformado o acórdão vergastado para manter o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - SEBRAE como litisconsorte passivono feito, mostra-se dependente da solução conferida pelo Excelso Pretório no Tema 325/STF.
+Assim, tenho que o recurso especial deve ser sobrestado (1.031, § 2º, do CPC), visto que a matéria objeto do extraordinário lhe é prejudicial.
+EM RAZÃO DO EXPOSTO, determino a remessa dos autos ao Supremo Tribunal Federal.
+Em virtude da solução adotada, fica prejudicada a análise dos apelos especiais manejados pela Fazenda Nacional (fls. 1.186/1.192) e pelo SEBRAE (fls. 1.242/1.247).
+Publique-se.
