@@ -1,0 +1,8 @@
+DECISÃO
+DANIEL DOS SANTOS DA SILVA opõe embargos de declaração contra a decisão que, ao conceder a ordem, reconheceu o constrangimento ilegal decorrente de ausência de decisão escrita.
+A defesa argumenta que a "decisão datada em 16/11/2022, que "confirmou a liminar e concedeu a ordem para ordenar a soltura do recorrente"  ..  se encontra, com a devida vênia, claramente maculada pelo vício da omissão, visto que, deixou de manifestar expressamente sobre o pedido de revogação da cautelar do monitoramento eletrônico".
+Decido.
+No que tange à decisão ora embargada, em que pese haver reconhecido " ser inadmissível  que alguém tenha a prisão preventiva decretada, por força de decisão proferida oralmente na audiência de custódia, cujo conteúdo se encontra apenas registrado em mídia audiovisual, sem que tenha sido reduzida a termo", não consta no seu dispositivo a anulação de todas as medidas cautelares posteriormente aplicadas, o que, de acordo com o embargante, acarreta omissão.
+Assim sendo, a decisão de fls. 212-216 deve constar na seguinte redação em seu dispositivo: "À vista do exposto, confirmada a liminar, concedo a ordem para tornar sem efeito o decreto preventivo, se por outro motivo não estiver preso, bem como as medidas cautelares de monitoramento eletrônico e recolhimento domiciliar noturno, ressalvada a possibilidade de nova decretação da custódia cautelar caso efetivamente demonstrada a superveniência de fatos novos que indiquem a sua necessidade, ou de imposição de medida cautelar alternativa, também suficientemente fundamentada, nos termos do art. 319 do CPP.
+Ante o exposto, acolho os embargos aclaratórios, a fim de alterar o dispositivo do decisum, para esclarecer a omissão apontada.
+Publique-se. Intimem-se.
