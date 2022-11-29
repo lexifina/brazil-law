@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BRASIL BROKERS PARTICIPAÇÕES S/A (primeira agravante), contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 06/07/2022.
+Conclusão ao Gabinete em: 03/11/2022.
+Ação: de obrigação de fazer, cumulada com indenização por danos materiais e compensação por danos morais, ajuizada por EFIGÊNIA MARQUES DA SILVA, em face deBRASIL BROKERS PARTICIPAÇÕES S/A, SPE MEDINA 210 EMPREENDIMENTO IMOBILIÁRIO LTDA., RUBI ENGENHARIA LTDA. e RUBI SPE 8 EMPREENDIMENTO IMOBILIARIO LTDA., na qual pretende a rescisão imotivada de contrato de compra e venda de imóvel comercial.
+Sentença: julgou improcedente o pedido.
+Acórdão: conferiu parcial provimento à apelação interposta pelaagravada, a fim de declarar rescindido o contrato firmado entre as partes e condenar as rés à restituição de 75% dos valores pagos e, ainda, ao pagamento de R$ 5.000,00 (cinco mil reais) para compensar os danos morais sofridos. O acórdão foi assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. CONTRATO DE PROMESSA DE COMPRA E VENDA. RESCIÇÃO IMOTIVADA A PEDIDO DO COMPRADOR. RESTITUIÇÃO DAS PRESTAÇÕES PAGAS. APLICAÇÃO DO CDC. TAXA DE CORRETAGEM E SAT. 1) Malgrado o imóvel objeto da promessa de compra e venda se qualifique como sala comercial, é assente na jurisprudência a aplicabilidade, mesmo nesta hipótese, dos dispositivos legais do Código de Defesa do Consumidor. 2) A irretratabilidade dos contratos de promessa de compra e venda prevista pela lei é mitigada pela jurisprudência, a qual passou a entender que é direito potestativo do promissário comprador rescindir unilateralmente a promessa de compra e venda, assumido o ônus da rescisão. Enunciado de Súmula nº 543 do Superior Tribunal de Justiça.2)Precedentes do Superior Tribunal de Justiça afirmando que o promitente-vendedor pode reter até 25% dos valores já pagos, devendo o restante ser devolvido ao promitente comprador. EAg 1138183/PE. 3) Base de cálculo para fins de devolução que, entretanto, não deve incluir o valor pago a título de comissão de corretagem, eis que o pedido de rescisão foi motivado pelo promitente comprador, tendo ocorrido a prestação do serviço por terceiros". 6) A conduta das rés ultrapassou a seara do mero aborrecimento, vez que a retenção indevida de quantia significativa da autora, sem qualquer satisfação, atinge seus projetos de vida, gerando frustração, em virtude do que resta caracterizado o dano moral, cuja indenização ora se fixa emR$5.000,00, com base nos princípios da razoabilidade e da proporcionalidade, devendo tal montante ser corrigido a partir desta decisão e acrescido de juros de mora a contar do trânsito em julgado, por se tratar de resolução do contrato por iniciativa do promitente comprador. 7) Recurso ao qual se dá parcial provimento.
+Embargos de declaração: interpostos pelaBRASIL BROKERS PARTICIPAÇÕES S/A, foram acolhidos para sanar omissão quanto à condenação solidária das rés, sem efeitos infringentes.
+Recurso especial da BRASIL BROKERS PARTICIPAÇÕES S/A: alega violação dos arts.485, VI, 489, § 1º, IV e 1.022, II do CPC;7º parágrafo único, 14, § 3º, 25, § 1º, do CDC; e 186, 927 e 944 do CC;bem comodissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta sua ilegitimidade passiva. Insurge-se contra a condenação ao pagamento de compensação por danos morais em virtude de inadimplemento contratual.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015
+- Da violação do art. 1.022 do CPC/15
+A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial. Aplica-se, neste caso, a Súmula 284/STF.
+- Da fundamentação deficiente
+Os argumentos invocados pelaagravante não demonstram como o acórdão recorrido violou os arts. 485, VI, e 489, § 1º, IV, do CPC, 7º parágrafo único, 14, § 3º, 25, § 1º, do CDCe 186, 927 e 944 do CC.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos dispositivos legais indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, neste caso, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere àalegaçãono sentido de que a agravada "não conseguiu demonstrar suficiente e cabalmente os danos que a Recorrente lhe teria causado" (e-STJ fl. 849) e quanto à participação da agravante na cadeia de fornecimento, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidosà colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo, para NÃO CONHECERdo recurso especial, com fundamento no art. 932, III, "a", do CPC/2015.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro em R$ 500,00 (quinhentos reais) o valor dos honorários devidos pela agravante.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER, CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO. SÚMULA 284/STF. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA211/STJ.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de obrigação de fazer, cumulada com indenização por danos materiais e compensação por danos morais.
+2. A ausência de expressa indicação de obscuridade, omissão ou contradição nas razões recursais enseja o não conhecimento do recurso especial.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5.A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7.O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. Agravo conhecido. Recurso especial nãoconhecido, com majoração de honorários.
