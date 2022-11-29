@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por TRANSPORTADORA TINGUÁLTDA. (TINGUÁ), em face de SAMARITANA ALVARENGA DUARTE VICENTE (SAMARITANA), contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão do Tribunal de Justiça do Rio de Janeiro (TJRJ), assim ementado:
+APELAC A O CI"VEL. DIREITO DO CONSUMIDOR. AC A O INDENIZATO"RIA POR DANOS MORAIS. AUTORA, PORTADORA DE SÍNDROME DE DOWN, QUE, AO DESCER DO O NIBUS DA RE", TEVE SEU BRAÇO PRESO, CAUSANDO-LHE LESÕES DE NATUREZA LEVE. SENTENC A DE PROCEDE NCIA PARA CONDENAR A DEMANDADA AO PAGAMENTO DE INDENIZAC OÃO A TI"TULO DE DANO MORAL, NO VALOR DE R$ 3.000,00, BEM COMO DAS DESPESAS PROCESSUAIS, ISENTANDO-A DOS HONORÁRIOS SUCUMBENCIAIS, DIANTE DA A DECLARAÇÃO INCIDENTAL de INCONSTITUCIONALIDADE DO ARTIGO 85 DO CPC. RECURSO DA DEMANDANTE.
+1. Controve"rsia devolvida que se cinge em verificar se a indenizac a o extrapatrimonial deve ser majorada, bem como se merece a ré/apelada deve ser condenada ao pagamento de honora"rios advocati"cios, restando preclusos a falha na prestac a o do servic o e o dever de indenizar.
+2. A responsabilidade e" objetiva nas relac o es de consumo, a" luz do art. 14 do CDC, podendo ser ilidida pela culpa exclusiva do consumidor, de terceiro ou fortuito externo. Precedente: Agravo de Instrumento 0009608-61.2016.8.19.0000, Rel. Des. Werson Rego, Julgamento: 02/03/2016, 25a Ca mara Ci"vel.
+3. Recorrida que foi condenada ao pagamento de indenizac o es por dano moral, no valor de R$ 3.000,00, em raza o de o motorista da empresa, oraapelado, ter fechado a porta do o nibus quando a apelante tentava desembarcar, o que fez com que seu braço esquerdo ficasse preso, causando-lhe leso es no braço esquerdo, que necessitou ficar enfaixado por 8 dias.
+4. O valor de R$ 3.000,00 se revela desproporcional a" h ipo"tese dos autos, merecendo majorac a o para R$ 10.000,00, diante intensidade e durac a o do sofrimento experimentado pela vi"tima, que é portadora de síndrome de down, permanecendo 8 dias com o braço esquerdo engessado. Precedentes:0026307-16.2015.8.19.0210 - APELAÇÃO. Des(a). PAULO SÉRGIO PRESTES DOS SANTOS - Julgamento: 14/06/2021 - SEGUNDA CÂMARA CÍVEL); 0006466-83.2020.8.19.0202 - APELAÇÃO. Des(a). REGINA LUCIA PASSOS - Julgamento: 10/11/2021 - VIGÉSIMA QUARTA CÂMARA CÍVEL.
+5. Condenac a o do apelado ao pagamento de honora"rios advocati"cios, em raza o da sucumbe ncia, que se impõe, merecendo ser afastada a declarac a o incidental de inconstitucionalidade do art. 85 do CPC/2015, porquanto inexiste violac a o aos princi"pios constitucionais do devido processo legal e do acesso a" justic a, aplicando, por analogia, a su"mula nº 47 do STF.
+6. Recurso conhecido e provido para majorar a indenização a título de danos morais para o valor de R$ 10.000,00, bem como para condenar o réu, a pagar honora"rios advocati"cios de 10% sobre o valor da condenação, afastando-se a declarac a o incidental de inconstitucionalidade do art. 85 do CPC/2015. (e-STJ, fls. 319/320)
+Os embargos de declaração opostos por TINGUÁforam rejeitados (e-STJ, fls. 377/385).
+Irresignada, TINGUÁ interpôs recurso especial, com base no art. 105, III, alínea a, da CF, apontando a violação dos arts. 369, 373, I e II, 442, 447, 473 do CPC; e402, 403 e884do Código Civil, afirmando que (1) houve omissão e obscuridadeem relação ao arbitramento da verba indenizatória,à arguição de dedução do DPVAT e também quanto ao termo inicial dos juros de mora e da correção monetária; (2) que ovalor fixado a título deindenização por danos morais (R$ 10.000,00) não observa as circunstâncias do acidente e, portanto,deve ser reduzido; e (3) que os juros de mora e a correção monetária devem incidir a partir do arbitramento do valor dos danos morais.
+O recurso não foi admitido pelo TJRJ(e-STJ, fls. 441/447).
+Nas razões do presente agravo, TINGUÁ alegou que não incidem os óbices apontados na decisão de inadmissibilidade.
+Foi apresentada contraminuta.
+É o relatório.
+Decido.
+O agravo é espécie recursal cabível, foi interposto tempestivamente e com impugnação adequada aos fundamentos da decisão recorrida.
+CONHEÇO, portanto, o agravo e passo ao exame do recurso especial, que não merece prosperar.
+(1)Omissão e obscuridade
+Verifica-se que devidamente esclarecidas as razões de decidir pelo TJSP, não se configurando as alegadas omissão e obscuridade. Confira-se:
+Ab initio, mister consignar que, diversamente ao alegado pelo embargante, os pedidos de suspensão do feito, dedução do seguro DPVAT e alteração do termo a quo dos consectários legais não foram alegados em sede de contrarrazões, que se cingiu ao valor da indenização a título de danos morais.
+As referidas matérias constituem indevida inovação recursal, restando vedada a análise no presente recurso.
+(..)
+Analisando as razões recursais, observa-se que o embargante deixou de apontar verdadeiro vício no Acórdão, depreendendo-se que os embargos foram opostos por expresso inconformismo com o resultado do julgamento.
+Com efeito, restou devidamente consignada no decisum embargado a necessidade de majoração da indenização a título de danos morais, tendo em vista que o motorista da empresa embargante fechou a porta do ônibus quando a embargada tentava desembarcar, ficando seu braço esquerdo preso, o que causou lesões, sendo necessário enfaixá-lo por 8 dias.
+Ademais, a jurisprudência utilizada como parâmetro no julgado para a indenização por danos morais foi do ano de 2021, não havendo que se falar em majoração da verba nos termos de precedente do ano de 2003. (e-STJ, fls. 380/381)
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RESPONSABILIDADE CIVIL. AÇÃO CIVIL PÚBLICA POR DANO AMBIENTAL. PRESCRIÇÃO. INTERRUPÇÃO. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NÃO DEMONSTRADOS. VIOLAÇÃO DOS ARTS. 1.022 E 489, § 1º, DO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. PRESCRIÇÃO. AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA QUE INTERROMPE O PRAZO PARA AS AÇÕES INDIVIDUAIS. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022, II, do NCPC (art. 535 do CPC/1973), não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado.
+4. Não há falar em violação dos arts. 489 e 1.022 do NCPC quando a decisão está clara e suficientemente fundamentada, resolvendo integralmente a controvérsia 5. A citação válida em ação coletiva configura causa interruptiva do prazo de prescrição para o ajuizamento da ação individual.
+Precedentes.
+6. Agravo interno não provido.
+(AgInt no AREsp n. 1.842.775/RS, de minha relatoria, Terceira Turma, julgado em 30/5/2022, DJe de 1/6/2022)
+Afastam-se, portanto, as alegadas violações.
+(2)Valor da indenização por dano moral
+A revisão da conclusão adotada exige necessária análise fático-probatória da matéria.
+Quanto ao valor da indenização, o TJRJ afirmou que:
+No caso sub judice, a recorrida foi condenada ao pagamento de indenizac o es por dano moral, no valor de R$ 3.000,00, em raza o de o motorista da empresa, ora apelado, ter fechado a porta do o nibus quando a apelante tentava desembarcar, o que fez com que seu braço esquerdo ficasse preso, causando-lhe leso es no braço esquerdo, que necessitou ficar enfaixado por 8 dias.
+O valor da indenizac a o, na o obstante o cara"ter reparato"rio aliado ao cara"ter punitivo e pedago"gico que devem nortear tais condenac o es, deve preservar proporcionalidade a extensa o e repercussa o do fato danoso.
+Neste aspecto, a verba indenizato"ria de dano moral deve ser fixada a" luz dos princi"pios da proporcionalidade e razoabilidade, somente devendo ser alterada se na o atender a estes para metros, consoante o que dispo e o Enunciado de Su"mula nº 343 do TJ/RJ, segundo a qual "a verba indenizato"ria do dano moral somente sera" modificada se na o atendidos pela sentenc a os princi"pios da proporcionalidade e da razoabilidade na fixac a o do valor da condenac a o".
+O grau de reprovabilidade da conduta da apelada foi significativo, uma vez que se deve exigir do prestador de servic o o devido cuidado no transporte dos passageiros.
+Quanto a" intensidade e durac a o do sofrimento experimentado pela vi"tima, verifica-se que a recorrente, que é portadora de síndrome de down, sofreu lesões no seu braço esquerdo, tendo que permanecer 8 dias com o braço enfaixado com gesso, e, assim, tem-se que o valor de R$ 3.000,00, fixado na sentenc a, se revela desproporcional a" hipo"tese dos autos, merecendo majorac a o para R$ 10.000,00. (e-STJ, fls. 330/331)
+Assim, verifique-se que os danos morais foram arbitrados com base nas particularidades do caso, mostrando-se razoável, adequado e justo.
+Assim, rever as conclusões quanto a observância ou não dos critérios de proporcionalidade e razoabilidade na definição da verba indenizatória demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ. A propósito, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C PEDIDO DE INDENIZAÇÃO POR DANO MORAL. DANOS MORAIS. PEDIDO DE ALTERAÇÃO. REVISÃO QUE SE ADMITE TÃO SOMENTE NOS CASOS EM QUE O VALOR SE APRESENTAR IRRISÓRIO OU EXORBITANTE. SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. A revisão da compensação por danos morais só é viável em recurso especial quando o valor fixado for exorbitante ou ínfimo. Salvo essas hipóteses, incide a Súmula 7/STJ, impedindo o conhecimento do recurso.
+2. A análise da divergência jurisprudencial atinente a danos morais mostra-se incabível, porquanto, no aspecto subjetivo, os acórdãos serão sempre distintos.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.430.868/SC, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 20/5/2019, DJe 22/5/2019)
+(3) Do termo inicial dos juros de mora e da correção monetária
+Verifica-se que o acórdão recorrido manteve a sentença quanto ao termo inicial dos juros de mora e da correção monetária, questões de ordem pública que devem ser analisadas a qualquer tempo. Leia-se:
+Pelo exposto, JULGO PROCEDENTE O PEDIDO e, em consequência, JULGO EXTINTO O PROCESSO COM RESOLUÇÃO DO MÉRITO, com fundamento no artigo 487, I, do Código de Processo Civil, para condenar a ré ao pagamento de R$ 3.000,00 (ter mil reais) a título de indenização por danos morais, com atualização monetária de acordo com as normas da Corregedoria Geral da Justiça deste Estado, contada a correção monetária a partir desta data e juros de 1% (um por cento) ao mês, da citação (e-STJ, fl. 139).
+Como se vê, em se tratando de responsabilidade contratual, os parâmetros foram fixados de acordo com o entendimento da jurisprudência desta Corte.
+Este Superior Tribunal orienta que os juros de mora em responsabilidade contratual, como no caso presente,devem incidir a partir da citação e a correção monetária do arbitramento (Súmula 362/STJ).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA RECONSIDERADA. RECURSO ESPECIAL TEMPESTIVO. NOVO EXAME DO FEITO. ACIDENTE DE TRÂNSITO. LESÃO DE PASSAGEIRO MENOR. RESPONSABILIDADE OBJETIVA AUSÊNCIA DE VIOLAÇÃO AO ART. 489 DO CPC/2015. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. QUANTUM DO DANO MORAL. VALOR RAZOÁVEL. CORREÇÃO MONETÁRIA. TERMO INICIAL. ARBITRAMENTO. JUROS DE MORA. APLICAÇÃO DA SÚMULA 83 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida que o recurso especial é tempestivo. Novo exame do feito.
+2. Não se verifica a alegada violação ao art. 489 do CPC/2015, na medida em que a eg. Corte Estadual dirimiu, fundamentadamente, os pontos essenciais ao deslinde da controvérsia.
+3. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+4. O valor arbitrado pelas instâncias ordinárias a título de danos morais somente deve ser revisado em sede de recurso especial quando irrisório ou excessivo. No caso, o montante fixado em R$ 10.000,00 (dez mil reais) não é exorbitante nem desproporcional aos danos causados à agravada, que veio a bater a cabeça no banco do ônibus, experimentando ferimentos que lhe ocasionaram uma cicatriz permanente em sua face.
+5. A correção monetária das importâncias fixadas a título de danos morais incide desde a data do arbitramento, nos termos da Súmula 362 do STJ.
+6. A orientação do STJ assinala que "o termo inicial dos juros de mora na condenação por dano moral é a partir da citação ou do evento danoso, conforme se trate de responsabilidade contratual ou extracontratual, respectivamente, o que afasta a alegação de incidência a partir do arbitramento da indenização" (AgInt no AREsp 1023507/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/06/2017, DJe 27/06/2017).
+7. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp n. 1.681.787/RJ, relator Ministro Raul Araújo, Quarta Turma, julgado em 21/6/2021, DJe de 1/7/2021.)
+Incide, portanto, a Súmula 83 do STJ quanto ao ponto.
+Nessas condições, CONHEÇO do agravo paraCONHECER EM PARTEdo recurso especial e, nessa parte,NEGAR-LHE provimento.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL. ACIDENTE DE TRÂNSITO. OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. NÃO CONFIGURAÇÃO. DANO MORAL. INDENIZAÇÃO. VALOR. VERIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. JUROS E CORREÇÃO MONETÁRIA. SÚMULA 83/STJ.AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
