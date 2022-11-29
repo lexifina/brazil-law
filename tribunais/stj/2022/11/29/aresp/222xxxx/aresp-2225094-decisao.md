@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo apresentado por EDI CARLOS DE FARIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL POR TEMPO DE CONTRIBUIÇÃO ATIVIDADE ESPECIAL PARCIALMENTE COMPROVADA MOTORISTA DE CAMINHÃO REMESSA OFICIAL NÃO CONHECIDA. APELAÇÃO DO INSS IMPROVIDA. APELAÇÃO DO AUTOR PARCIALMENTE PROVIDA. BENEFÍCIO INDEFERIDO.
+Quanto à controvérsia, pelas alíneas "a" e "c" do permissivo constitucional, alega, além de divergência jurisprudencial, violação do arts. 5º, XXXV, LIII, LIV e LV e 201, § 1º, da CF/1988.
+É, no essencial, o relatório. Decido.
+Quanto à alínea "a", na espécie, é incabível o recurso especial quando visa discutir violação ou interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Quanto à alínea "c", é incabível o recurso especial quando visa discutir interpretação divergente de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Em recurso especial não cabe invocar dissídio jurisprudencial sobre interpretação de norma constitucional (arts. 236 e 37, § 6º, da CF), pois a alínea c do permissivo constitucional atribuí ao Superior Tribunal de Justiça competência para julgar o apelo extremo somente na hipótese em que o acórdão recorrido der à lei federal interpretação divergente da que lhe haja atribuído outro tribunal". (AgRg no REsp 1.345.524/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 8/6/2016.)
+Confiram-se ainda os seguintes precedentes: REsp 1.824.889/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/10/2019; AgRg no Ag 1.045.375/PR, relatora Ministra Laurita Vaz, Quinta Turma, DJe de 15/9/2008; REsp 75.413/SP, relator Ministro Francisco Peçanha Martins, Segunda Turma, DJ de 8/3/1999.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
