@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, em sessão virtual de 23/11/2022 a 29/11/2022, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, João Otávio de Noronha, Raul Araújo, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Paulo de Tarso Sanseverino.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+Cuida-se de agravo interno interposto por ALEXANDRE MATTOS GONZAGA contra decisão da lavra deste signatário, acostada às fls. 554/556, que julgou procedente a presente reclamação a fim de determinar à autoridade ora reclamada a observância estrita ao comando exarado nos autos do Conflito de Competência 135.670/RJ.
+Em resumo, trata-se de reclamação ajuizada por GOL LINHAS AÉREAS S. A E OUTRO contra decisão proferida pelo r. Tribunal Regional do Trabalho da 1ª Região.
+Alegaram, em resumo, que: i) "(..) a decisão reclamada desrespeita decisão específica desta Corte Superior, exarada pelo Exmo. Sr. Marco Buzzi no CC 135.670/RJ, em que se reconheceu que "o processo de recuperação judicial em que se encontra a Varig S/A impõe o reconhecimento do juízo universal como o competente para apreciar a sucessão ventilada nos autos, de modo que "tratando-se de empresas envolvidas em processo de recuperação judicial, deverão se concentrar no juízo universal todas as demandas referentes à causa, incluindo, nessa esteira, as relativas às empresas sucessora e sucedida", tendo sido, ao final, conhecido o "conflito de competência para declarar competente o juízo da 1ª Vara Empresarial do Rio de Janeiro/RJ."; ii) "(..) tem-se necessária a propositura desta Reclamação a fim de que seja obstada decisão que determinou a manutenção de constrição dos valores objeto de penhora e a manutenção da responsabilidade da GOL LINHAS AÉREAS INTELIGENTES S. A."; iii) "(..) o Colendo Superior Tribunal de Justiça decidiu pela ausência de sucessão e declarou a competência da 1ª Vara Empresarial do Rio de Janeiro."
+Pediram, assim, o sobrestamento da decisão ora reclamada e, no mérito, a procedência do pedido inicial. (fls. 3/18)
+Às fls. 401/403, este signatário deferiu o pedido liminar a fim de suspenderos efeitos da decisão proferida (fl. 389/398) pelo r. juízo reclamado até julgamento definitivo da presente reclamação.
+Interposto agravo interno (fls. 407/455) e pedido de reconsideração (fls.456/460), esses aguardam julgamento. Prestadas as informações (fls. 465/468), o MPF ofertou parecer no sentido da procedência da presente reclamação. (fls. 470/473)
+Às fls. 486/488, a reclamação foi acolhida.
+Opostos embargos de declaração (fls. 493/514), esses foram acolhidos, com efeitos infringentes, a fim de oportunizar ao interessado, sua manifestação.
+Às fls. 541/553, foi apresentada contestação pelo interessado.
+Às fls. 554/556, este signatário julgou procedente a presente reclamação a fim de determinar à autoridade ora reclamada a observância estrita ao comando exarado nos autos do Conflito de Competência 135.670/RJ.
+Nas razões do presente agravo interno, o interessado sustenta em síntese que não houve desrespeito à competência da Vara Empresarial porque as verbas pleiteadas são decorrentes da relação de trabalho com a GOL LINHAS ÁEREAS S/A enão dizem respeito à VARIG e por isso afasta-se a jurisdição do juízo falimentar.
+Pede, assim, a reconsideração do julgado ou sua apresentação em mesa para julgamento colegiado.
+Impugnação juntada às fls. 608/614.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NA RECLAMAÇÃO - DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. DESCUMPRIMENTO - DELIBERAÇÃO UNIPESSOAL QUE JULGOU PROCEDENTE A RECLAMAÇÃO - INSURGÊNCIA DO INTERESSADO.
+1. Nos termos dos artigos 105, I, "f", da Constituição Federal, 13 da Lei n. 8.038/90 e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+2. Na hipótese, a decisão proferida nos autos do Conflito de Competência n.º 135.670/RJ, envolvendo os mesmos interessados, com fundamento em sólida jurisprudência da Segunda Seção, declarou a competência do r. juízo da 1ª Vara Empresarial do Rio de Janeiro/RJ para o exame acerca de atos constritivos/expropriatórios contra bens e direitos sujeitos ao processo falimentar, de modo que a decisão do r. juízo reclamado, a qual determinou a intimação das reclamantes para pagamento do débito, não observou, de maneira estrita, o comando judicial proferido nos autos do referido conflito de competência, impondo-se, portanto, o acolhimento da presente reclamação.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (RELATOR):
+A insurgência não merece prosperar.
+1. Nos termos dos artigos 105, I, "f", da Constituição Federal, 13 da Lei n. 8.038/90 e 187 do RISTJ, somente caberá reclamação quando um órgão julgador estiver exercendo competência privativa ou exclusiva deste Tribunal ou, ainda, quando as decisões deste não estiverem sendo cumpridas por quem de direito.
+Consoante a jurisprudência desta eg. Corte Superior, o ajuizamento da reclamação, que constitui medida correicional, pressupõe a existência de um comando positivo desta Corte Superior cuja eficácia deva ser assegurada, protegida e conservada.
+A propósito, registra-se aementadoseguintejulgado:
+PROCESSUAL CIVIL. RECLAMAÇÃO. DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. DESCUMPRIMENTO. INEXISTÊNCIA.
+1. Destina-se a reclamação a preservar a competência do STJ ou garantir a autoridade das suas decisões (art. 105, I, "f", da Constituição Federal c/c o art. 187 do RISTJ). Inexistindo comando positivo da Corte cuja eficácia deva ser assegurada por meio da medida correicional, deve ela ser julgada improcedente (..)"Rcl 2784/SP, 2ª Seção, Rel. Min. João Otávio de Noronha, DJ de 22.5.2009. (grifos nossos)RECLAMAÇÃO - DESCUMPRIMENTO DE ACÓRDÃO DO STJ - IMPROCEDÊNCIA.
+1. A reclamação é recurso procedimental excepcional, só admitido quando a competência do STJ é objetivamente desrespeitada ou usurpada.
+2. A Primeira Seção desta Corte, ao analisar conflito negativo de competência suscitado em demanda na qual se postulava o fornecimento de medicamento, concluiu que a Lei 10.259/01 autoriza a produção de prova pericial e que o Juizado Especial Federal detém competência para conhecer de ação em que Estado e Município figuram em litisconsórcio passivo juntamente com a União.
+3. A decisão do Juízo do Juizado Especial Federal de excluir a União da lide não contraria provimento jurisdicional desta Corte, visto que não houve, no referido incidente, emissão de juízo de valor acerca da viabilidade de admitir-se intervenção de terceiros em sede de Juizado Especial tampouco sobre a legitimidade passiva ad causam da União, aferição esta que não encontra lugar em sede de conflito de competência. 4. Reclamação julgada improcedente.
+Rcl 3.592/SC, Rel. Min. Eliana Calmon, Primeira Seção, julgado em 28.10.2009, DJe 10.11.2009.
+E ainda: Rcl 34880/MS, Rel. Min. Marco Aurélio Bellizze, DJe de 16/04/2018; Rcl 18538/PA, Rel. Min. Antonio Carlos Ferreira, DJe de 16/04/2018; AgRg na Rcl 25606/RJ, Rel. Min. Moura Ribeiro, DJe de 16/11/2015; AgRg na Rcl 8581/RJ, Rel. Min. Maria Isabel Gallotti, DJe de 28/08/2012; Rcl 2861/RS, Rel. Min. Massami Uyeda, rel. p/acórdão, Min. Sidnei Beneti, DJe de 04/12/2009; AgRg na Rcl 2.425/PR, 1ª Seção, Rel. Min. Castro Meira, DJ de 27.8.2007.
+Com esse norte hermenêutico, na hipótese dos autos,erifica-se que a decisão proferida por este signatário nos autos do Conflito de Competência n.º 135.670/RJ declarou a competência do r. juízo da recuperação judicial para exercer o controle de atos executivos determinados nos autos da execução trabalhista n.º 0024500-72.2007.5.01.0054, de modo que a decisão do r. juízo reclamado (fl. 389/398) não observou, de maneira estrita, o comando judicial proferido nos autos do referido conflito de competência que, apoiando-se em pacífica orientação jurisprudencial deste eg. STJ, declarou a competência do r. juízo da recuperação judicial para exercer o controle de atos constritivos realizados nos autos da supramencionada execução, impondo-se, portanto, o acolhimento da presente reclamação.
+2. Do exposto, nega-se provimento ao agravo interno.
+É o voto.
