@@ -1,0 +1,33 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. SÚMULA N. 315 DO STJ E INOBSERVÂNCIA DAS EXIGÊNCIAS DO ART. 266 DO RISTJ. DETRAÇÃO. NECESSIDADE DO EXAME DO CASO CONCRETO. INOCORRÊNCIA. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+3. Na espécie, ficou devidamente explicitado no acórdão embargado que além de não haver sido examinado o recurso especial (incidência da Súmula n. 315 do STJ), também foram inobservadas as exigências do art. 266 do RISTJ. Ademais, quanto ao objetivo de ver aplicada de forma analógica a detração, realçou o decisum que tal pretensão exigiria o exame de caso concreto, com todas as suas nuances, circunstância que não ocorreu na espécie, a impedir, inclusive, a avaliação acerca da existência de eventual constrangimento ilegal patente, que justificasse a concessão da ordem de ofício.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Ribeiro Dantas, Antonio Saldanha Palheiro, Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz e Jorge Mussi votaram com o Sr. Ministro Relator.
+Ausentes, justificadamente, os Srs. Ministros Sebastião Reis Júnior e Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+FERNANDO DA SILVA ARRUDA opõe embargos de declaração contra o acórdão de fls. 7.903-7.909, que negou provimento ao agravo regimental, nos termos desta ementa (fl. 7.903):
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. INEXISTÊNCIA DE EXAME DE MÉRITO DO RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 315 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A inadmissão do recurso especial, em razão da incidência das Súmulas n. 284 do STF e 211 do STJ, impede, a teor do enunciado contido na Súmula n. 315 também desta Corte, a oposição de embargos de divergência para discutir o mérito da questão ventilada no especial.
+2. Agravo regimental não provido.
+Em suas razões, afirma o embargante que a "v. decisão colegiada ora embargada é omissa quanto ao fato da possibilidade de reconhecimento de ofício da detração penal analógica, com a consequente extinção da punibilidade do agente" (fl. 7.913).
+Diante disso, requer "o conhecimento e o provimento dos presentes Embargos de Declaração, de modo que, sanada a omissão apontada acima, seja enfrentada a questão relativa à extinção da punibilidade do réu, notadamente quanto à possibilidade de seu reconhecimento de ofício (HC de ofício)" (fl. 7.913).
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. SÚMULA N. 315 DO STJ E INOBSERVÂNCIA DAS EXIGÊNCIAS DO ART. 266 DO RISTJ. DETRAÇÃO. NECESSIDADE DO EXAME DO CASO CONCRETO. INOCORRÊNCIA. OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+2. Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios.
+3. Na espécie, ficou devidamente explicitado no acórdão embargado que além de não haver sido examinado o recurso especial (incidência da Súmula n. 315 do STJ), também foram inobservadas as exigências do art. 266 do RISTJ. Ademais, quanto ao objetivo de ver aplicada de forma analógica a detração, realçou o decisum que tal pretensão exigiria o exame de caso concreto, com todas as suas nuances, circunstância que não ocorreu na espécie, a impedir, inclusive, a avaliação acerca da existência de eventual constrangimento ilegal patente, que justificasse a concessão da ordem de ofício.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+De início, registro que os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado e são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam novo julgamento do caso.
+Apenas excepcionalmente, quando constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de emprestarem-se efeitos infringentes aos aclaratórios, situação que não ocorre na espécie.
+De fato, ao contrário do qua afirma o embargante, o acórdão embargado deixou explicitado que além de não haver sido examinado o recurso especial (incidência da Súmula n. 315 do STJ) e de serem inobservadas as exigências do art. 266 do RISTJ, especificamente quanto à detração, consignou (fl. 7.909):
+ ..
+Por fim, o exame da detração aplicada de forma analógica exige o exame de caso concreto, com todas as suas nuances, circunstância que não ocorreu na espécie, como salientado linhas atrás, situação que impede, inclusive, a avaliação acerca da existência de eventual constrangimento ilegal patente, a justificar a concessão da ordem de ofício.
+Vale dizer, quanto ao objetivo de ver aplicada de forma analógica a detração, realçou o decisum que tal pretensão exigiria o exame de caso concreto, com todas as suas nuances, circunstância que não ocorreu na espécie, a impedir, inclusive, a avaliação acerca da existência de eventual constrangimento ilegal patente, que justificasse a concessão da ordem de ofício.
+Ante o exposto, à mingua de omissão, rejeito os embargos de declaração.
