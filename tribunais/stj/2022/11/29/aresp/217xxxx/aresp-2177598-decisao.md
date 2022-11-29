@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se  de  agravo  interposto  por  CONDOMINIO DO EDIFÍCIO RODRIGO DE BRITO contra  a  decisão  que  inadmitiu  recurso  especial.  O  apelo  extremo,  fundamentado  no  art.  105,  inciso  III,  alíneas  "a"  e  "c",  da  Constituição  Federal,  insurge-se  contra o  acórdão  do  Tribunal  de  Justiça  do  Estado  do Rio de Janeiro, assim  ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM REPARAÇÃO DE DANOS. INFILTRAÇÃO, FISSURAS E RACHADURAS NO IMÓVEL DA AUTORA. LAUDO PERICIAL QUE CONSTATOU A ORIGEM DOS PROBLEMAS NO TERRAÇO DO CONDOMÍNIO RÉU. SENTENÇA DE PROCEDÊNCIA PARCIAL. IRRESIGNAÇÃO DE AMBAS AS PARTES. PRELIMINAR DE ILEGITIMIDADE PASSIVA. REJEIÇÃO. PERÍCIA QUE CONSTATOU QUE AS FISSURAS E RACHADURAS NO IMÓVEL DA AUTORA FORAM OCASIONADAS POR FALTA DE MANUTENÇÃO DO TERRAÇO DO CONDOMÍNIO. NEXO CAUSAL, CONFIGURADO. DANO MORAL, CARACTERIZADO E, BEM FIXADO. PEDIDO DE RESSARCIMENTO DE DESPESAS COM HOSPEDAGEM E ALUGUEL DE OUTRO IMÓVEL QUE NÃO MERECE PROSPERAR, UMA VEZ QUE A PERÍCIA VERIFICOU QUE O IMÓVEL PERMANECEU COM CONDIÇÃO DE HABITABILIDADE. SENTENÇA QUE SE MANTÉM. HONORÁRIOS RECURSAIS. CABIMENTO. DESPROVIMENTO DOS RECURSOS"  (fl. 452 e-STJ).
+Os  embargos  de  declaração  opostos  foram  rejeitados  ( fls.  479/485 e-STJ).
+No  recurso  especial  ( fls.  487/510 e-STJ),  o recorrente alegou,  além  de  divergência  jurisprudencial,  violação  dos  arts. 338 a 341, 371 e 399do  Código  de  Processo  Civil ,com as respectivas teses:
+(i)ilegitimidade passiva porque os danos ocasionados no imóvel da recorrida são de responsabilidade da empresaAMARICAN TOWER, e
+(ii) ausência de dever de indenizar por danosmorais, uma vez que não é parte legítima para atuar nos autos.
+Com  as  contrarrazões,  foi  negado  seguimento  ao  recurso  especial,  dando  ensejo  à  interposição  do  presente  agravo.
+É  o  relatório.
+DECIDO.
+Ultrapassados  os  requisitos  de  admissibilidade  do  agravo,  passa-se  ao  exame  do  recurso  especial.
+O  acórdão  impugnado  pelo  recurso  especial  foi  publicado  em  data  anterior  à  publicação  da  Emenda  Constitucional  nº  125,  não  se  aplicando  ao  caso  o  requisito  de  admissibilidade  por  ela  inaugurado,  ou  seja,  a  demonstração  da  relevância  das  questões  de  direito  federal  infraconstitucional.
+A  irresignação  não  merece  prosperar.
+No  que  concerne  à  ilegitmidade passiva e ao dever de indenizar,  as  conclusões  do  Corte  local  acerca  do  mérito  da  demanda  decorreram  inquestionavelmente  da  análise  do  conjunto  fático-probatório  carreado  aos  autos,  o  que  se  pode  aferir  da  leitura  dos  fundamentos  do  julgado  atacado,  ora  colaciona,dos na  parte  que  interessa:
+"Inicialmente, não merece melhor sorte a preliminar de ilegitimidade passiva, suscitada.
+De fato, a perícia constatou que a falta de manutenção preventiva e corretiva, tal como, problemas na impermeabilização do terraço, demonstrado pela presença de vegetação, além do sobrepeso das antenas na laje da cobertura foram determinantes para originar o efeito direto nas trincas e fissuras, ocasionadas no apartamento da autora.
+Inclusive, de acordo com o laudo, a existência de vício oculto na construção do imóvel é remota, restando comprovada a responsabilidade do réu no evento danoso"  (fls.  458/459 e-STJ - grifou-se).
+Nesse  contexto,  o  acolhimento  da  pretensão  recursal  demandaria  o  revolvimento  do  acervo  fático-probatório  dos  autos,  procedimento  inviável  ante  a  natureza  excepcional  da  via  eleita,  conforme  dispõe  a  Súmula  nº  7 /STJ.
+No mais, extrai-se das razões recursais que a parte recorrente não refutou os seguintes fundamentos adotados pela Tribunal de origem:
+"De fato, a perícia constatou que a falta de manutenção preventiva e corretiva, tal como, problemas na impermeabilização do terraço, demonstrado pela presença de vegetação, além do sobrepeso das antenas na laje da cobertura foram determinantes para originar o efeito direto nas trincas e fissuras, ocasionadas no apartamento da autora.
+(..)
+Desse modo, caracterizado o nexo causal, entre o descaso do condomínio na manutenção de seu terraço, correta a sentença ao determinar que o condomínio realize o conserto no imóvel da autora" (fls. 458/459 e-STJ - griou-se).
+Assim, havendo fundamento suficiente no julgado impugnado que não foi objeto de impugnação pela parte recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EXECUÇÃO PROVISÓRIA DE SENTENÇA. TERCEIRO DE BOA-FÉ. ART. 42, § 3º, DO CPC/73. VENDA DO IMÓVEL. LITÍGIO PRECEDENTE. INTERDITO PROIBITÓRIO. AUTOR. SUPOSTO TERCEIRO INTERESSADO. FUNDAMENTO INATACADO SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO. SÚMULA Nº 283/STF. HISTÓRICO DOS FATOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. DECISÃO MANTIDA.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+2. (..).
+3. Agravo interno não provido" (AgInt nos EDcl no REsp 1.520.059/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 15/9/2017 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. NULIDADE DO NEGÓCIO JURÍDICO. MIGRAÇÃO DO PLANO DE SAÚDE. INFORMAÇÃO INSUFICIENTE ACERCA DA AMPLITUDE DO NOVO PLANO. SÚMULA 7/STJ. 3. DANO MORAL RECONHECIDO. NÃO IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NAS RAZÕES DO APELO NOBRE. APLICAÇÃO DA SÚMULA 283/STF, POR ANALOGIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo se falar em negativa de prestação jurisdicional.
+2. (..).
+3. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+4. Agravo interno desprovido" (AgInt no AREsp 1.091.133/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 15/9/2017 - grifou-se).
+Registra-se,  ainda,  que,  consoante  iterativa  jurisprudência  desta  Corte,  a  necessidade  do  reexame  da  matéria  fática  impede  a  admissão  do  recurso  especial  tanto  pela  alínea  "a"  quanto  pela  alínea  "c"  do  permissivo  constitucional.
+É  o  que  se  observa  do  seguinte  julgado:
+"AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL.  AÇÃO  DECLARATÓRIA  DE  INEXISTÊNCIA  DE  DÉBITO  C/C  REPETIÇÃO  DE  INDÉBITO  E  INDENIZAÇÃO  POR  DANOS  MORAIS.  PRESCRIÇÃO  CONSUMADA.  DESCONSTITUIÇÃO  DO  ENTENDIMENTO  DO  ACÓRDÃO  RECORRIDO.  IMPOSSIBILIDADE.  ANÁLISE  FEITA  COM  BASE  NO  SUPORTE  FÁTICO-PROBATÓRIO  DOS  AUTOS.  SÚMULA  7/STJ.  DIVERGÊNCIA  JURISPRUDENCIAL  NÃO  DEMONSTRADA.  AGRAVO  INTERNO  DESPROVIDO.
+1.  Rever  as  conclusões  das  instâncias  ordinárias  quanto  à  ocorrência  de  prescrição  da  ação  declaratória  de  inexistência  de  débito  cumulada  com  repetição  de  indébito  e  indenização  por  danos  morais  exige,  necessariamente,  a  incursão  no  material  fático-probatório  dos  autos,  notadamente  porque  as  alegações  da  recorrente  são  no  sentido  de  considerar  outro  termo  inicial  para  a  contagem  do  prazo  prescricional,  o  que  atrai  a  aplicação  da  Súmula  7/STJ.
+2.  No  que  toca  ao  conhecimento  do  apelo  especial  por  divergência  jurisprudencial,  também  não  colhe  êxito.  Isso  porque  julgado  fundado  em  fatos  e  provas  (incidência  da  Súmula  7/STJ)  não  enseja  a  possibilidade  de  demonstração  da  similitude  fática,  conforme  tranquilo  entendimento  desta  Corte  Superior.
+3.  Agravo  interno  desprovido"  (AgInt  no  AREsp  1.114.253/MS,  Rel.  Ministro  MARCO  AURÉLIO  BELLIZZE,  TERCEIRA  TURMA,  DJe  6/11/2017  -  grifou-se).
+Ante  o  exposto,  conheço  do  agravo  para  conhecer  do  recurso  especial  e  negar-lhe  provimento.
+Na origem, os honorários sucumbenciais foram fixados em 5% (cinco por cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 10% (dez por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
