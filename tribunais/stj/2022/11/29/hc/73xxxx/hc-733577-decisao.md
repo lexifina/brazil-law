@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, impetrado em favor de EDUARDO RIZZI KAUPE, contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado doRio Grande do Sul.
+Depreende-se dos autos que o paciente foi condenado às penas de 17 (dezessete) anos de reclusão, em regime inicial fechado, como incurso na sanção do art. 121, § 2º, incisos I e IV, c/c. o art. 14, inciso II, ambosdo Código Penal.
+A condenação transitou em julgado em 21/09/2010, e a defesaajuizou pedido de revisão criminalperante o eg. Tribunal a quo, por meio do qual buscava a reforma da r. sentença condenatória. O eg. Tribunal de origem, à unanimidade, não conheceuda revisão criminal, em v. acórdão assim ementado:
+"REVISÃO CRIMINAL. JÚRI.
+Pedido revisional fundamentado no art. 621, inciso I, do CPP. Alegação de erro na dosimetria da pena no que concerne à avaliação das vetoriais do art. 59 do CP.
+Acórdão da apelação criminal que considerou correta a avaliação da basilar, procedendo às correções pertinentes. Não conhecimento.
+Fixação da pena. Ausência de prova nova.
+NÃO CONHECIMENTO DA REVISÃO CRIMINAL.
+UNÂNIME." (fl. 16).
+Dai o presente mandamus, no qual o impetrante alega, em síntese, a ocorrência de constrangimento ilegal, consubstanciado na exasperação da pena-base, por considerar que as circunstâncias judicias da culpabilidade, circunstâncias, personalidade, conduta social e consequências do crime foram negativadas se a devida fundamentação.
+Requer, ao final, a concessão da ordem para que seja reduzida a pena-base para o mínimo legal.
+As informações foram prestadas às fls. 1.153-1.209 eàs fls. 1.212-1.215.
+O Ministério Público Federal, às fls. 1.217-1.223, manifestou-se pelo não conhecimento do writ, ou pela denegação da ordem, em parecer ementado nos seguintes termos:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO. TESES DEFENSIVAS NÃO DEBATIDAS NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA. PENA-BASE. EXASPERAÇÃO. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+1. O não cabimento de habeas corpus substitutivo de recurso especial se apoia na ausência de competência originária do Superior Tribunal de Justiça para processar e julgar o writ, e, em decorrência da ausência de competência, revela a impossibilidade jurídica de conceder, de ofício, a ordem vindicada.
+2. As alegações defensivas não foram objeto de debate no acórdão impugnado, pois o Tribunal de origem não conheceu da revisão criminal por entender que a irresignação não se enquadrava nas hipóteses elencadas no art. 621 do CPP. Desse modo, inviável o exame direto da matéria por essa Corte Superior de Justiça, sob pena de configurar indevida supressão de instância.
+3. " A  pena-base foi estabelecida acima do mínimo legal, de forma razoável e proporcional, em razão das particularidades do caso em comento que desbordam das elementares do tipo, não havendo que se falar em ilegalidade a ser reparada por esta Corte" (AgRg no REsp 1854277/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/08/2020, DJe 31/08/2020).
+4. O Ministério Público Federal requer o enfrentamento da preliminar de não cabimento de habeas corpus substitutivo de recurso especial à luz do art. 5º, incisos LIV, LV e LXVIII e do art. 105, inciso I, alínea "c", e inciso III, alíneas "a", "b" e "c", da CF/88, para fins de viabilizar o prequestionamento da matéria. No mérito, para não perder a oportunidade de manifestação, pronuncia-se pela inexistência de ilegalidade no acórdão estadual." (fl. 1.217-1.218).
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça, em seu art. 34, XVIII, "a", dispõe que o relator pode decidir monocraticamente para "não conhecer do recurso ou pedido inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos os fundamentos da decisão recorrida".
+Assentado tal fundamento, verifico que o presente writ não comporta conhecimento.
+Isso porque, a revisão criminal n. 0060157-94.2021.8.21.7000, objeto da presente impetração, não foi conhecida pelo eg. Tribunal de origem, de modo que as matérias ora suscitadas sequer foram analisadas pela eg. Corte a quo, razão pela qual sua análise diretamente por esta Corte Superior fica impossibilitada, sob pena de indevida supressão de instância.
+Nesse sentido:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. NEGATIVA DE AUTORIA E INEXISTÊNCIA DE PROVA DE MATERIALIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. VIA ELEITA INADEQUADA. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE DA DROGA APREENDIDA. CIRCUNSTÂNCIAS DO DELITO. PERICULOSIDADE DOS AGENTES. ANTECEDENTES. GARANTIA DA ORDEM PÚBLICA. NULIDADE DO FLAGRANTE. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. QUESTÕES NÃO ANALISADAS PELO TRIBUNAL A QUO. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO PARCIALMENTE CONHECIDO E, NA EXTENSÃO, DESPROVIDO.
+1. A análise da tese relativa à negativa de autoria e à ausência de prova de materialidade demanda o exame aprofundado de todo conjunto probatório como forma de desconstituir as conclusões das instâncias ordinárias, soberanas na análise dos fatos, providência inviável de ser realizada dentro dos estreitos limites do habeas corpus, que não admite dilação probatória.
+ ..
+5. A alegada nulidade da prisão em flagrante, em razão da não realização da audiência de custódia no prazo legal, bem como quanto à demora injustificada na instrução processual não foram objeto de exame pela Corte de origem, no acórdão recorrido, o que obsta a sua análise no presente recurso, sob pena de se incidir em indevida supressão de instância.
+6. Recurso parcialmente conhecido e, na extensão, desprovido." (RHC 101.839/MG, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 08/03/2019, grifei).
+"HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA E ROUBO MAJORADO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO SUFICIENTE. EXCESSO DE PRAZO PARA ENCERRAMENTO DA INSTRUÇÃO. NÃO OCORRÊNCIA. ORDEM DENEGADA.
+1. Para ser compatível com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade quanto a segurança e a paz públicas - e com a presunção de não culpabilidade, é necessário que a decretação e a manutenção da prisão cautelar se revistam de caráter excepcional e provisório. A par disso, a decisão judicial deve ser suficientemente motivada, mediante análise da concreta necessidade da cautela, nos termos do art. 282, I e II, c/c o art. 312, ambos do Código de Processo Penal.
+2. A decisão que decretou a custódia preventiva evidenciou o fundado risco de reiteração delitiva, ante os indícios de o acusado ser um dos integrantes de organização criminosa voltada à prática de diversos crimes contra o patrimônio (roubo de cargas), bem como o modus operandi empregado nas ações delituosas.
+3. Diante da gravidade da conduta perpetrada e do risco de reiteração delitiva, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. A matéria relativa ao excesso de prazo não foi efetivamente analisada pelo Tribunal de Justiça estadual, o que não autoriza a inauguração, neste ponto, da competência do Superior Tribunal de Justiça. Não pode esta Corte Superior, portanto, conhecer diretamente da matéria, sob pena de inadmissível supressão de instância.
+5. O exame da suposta ausência de indícios suficientes da autoria delitiva demandaria ampla dilação probatória, incompatível com a via estreita do habeas corpus. Portanto, não conheço do pedido.
+6. Ordem denegada." (HC 462.815/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 11/03/2019, grifei).
+Ante o exposto, com fulcro no artigo 34, incisos XVIII, "a" e XX, do RISTJ, não conheço do presente habeas corpus.
+P.e I.
