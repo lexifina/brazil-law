@@ -1,0 +1,49 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+
+    O apelo extremo foi interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional.
+
+    O acórdão recorrido ficou assim ementado:
+
+    DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. CEB. CANDIDATO APROVADO PARA CADASTRO DE RESERVA. PRETERIÇÃO NÃO DEMONSTRADA. DIREITO SUBJETIVO À CONTRATAÇÃO INEXISTENTE. IMPROCEDÊNCIA MANTIDA.
+
+    I. Salvo circunstâncias excepcionais, a aprovação do candidato dentro do número de vagas previsto no edital traduz direito subjetivo à nomeação, consoante a inteligência do artigo 37, inciso IV, da Constituição da República.
+
+    II. Para o candidato aprovado fora das vagas definidas no edital, o direito subjetivo à nomeação só exsurge ante o surgimento de novas vagas durante o prazo de validade do certame, a abertura injustificada de novo concurso durante esse mesmo prazo de validade ou a demonstração de preterição arbitrária e imotivada.
+
+    III. A existência de preterição ilegal ou abusiva depende de comprovação inequívoca, uma vez que, respeitados direitos adquiridos de candidatos aprovados dentro das vagas previstas no edital, várias circunstâncias podem justificar a opção da empresa pública pela terceirização ou contratação de empregados temporários.
+
+    IV. À luz do princípio da livre iniciativa consagrado nos artigos 1º, inciso IV, e 170 da Constituição Federal, a empresa pública pode legitimamente optar pela terceirização de mão de obra como estratégia empresarial.
+
+    V. Recurso desprovido.
+
+    Opostos os embargos de declaração, foram rejeitados.
+
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 37, incisos II e IV, da Constituição Federal.
+
+    Decido.
+
+    Analisados os autos, verifica-se que a parte recorrente não indicou nas razões do recurso extraordinário em que consiste a suposta violação do permissivo constitucional apontado, limitando-se a sustentar que houve ofensa a dispositivo constitucional, o que atrai a incidência da Súmula nº 284/STF, que assim dispõe: “É inadmissível o recurso extraordinário [ ] quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Nesse sentido, os seguintes precedentes:
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PROGRAMA DE DESLIGAMENTO VOLUNTÁRIO. LEI 4.051/1986 DO ESTADO DO PIAUÍ. NECESSIDADE DE REEXAME DE NORMAS INFRACONSTITUCIONAIS LOCAIS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 280/STF. INTERPOSIÇÃO DE APELO EXTREMO COM BASE NA ALÍNEA C DO INCISO III DO ART. 102 DA CONSTITUIÇÃO FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 284/STF. AGRAVO A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - As razões do agravo regimental são inaptas para desconstituir os fundamentos da decisão agravada, que, por isso, se mantêm hígidos. II - Para dissentir do acórdão impugnado e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário o reexame das normas infraconstitucionais pertinentes, o que é vedado pela Súmula 280/STF. Precedentes. III - Apelo extremo com base na alínea c do inciso III do art. 102 da Constituição Federal. É deficiente a fundamentação do recurso que não particulariza de que forma ocorreu a alegada ofensa à Constituição. Incidência da Súmula 284 do STF. IV - Agravo regimental a que se nega provimento, com aplicação de multa (art. 1.021, § 4°, do CPC)” (RE nº 1.183.212/PI-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe de 13/5/19).
+
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. AGENTE PENITENCIÁRIO ESTADUAL. PERCEPÇÃO DE ADICIONAL DE PERICULOSIDADE. BASE DE CÁLCULO. LEI 6.772/2006 DO ESTADO DE ALAGOAS. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. HIPÓTESE DA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO EXTRAORDINÁRIO. SÚMULA 284 DO STF. AGRAVO REGIMENTAL DESPROVIDO” (RE nº 896.468/AL-AgR, Primeira Turma, Rel. Luiz Fux, DJe de 20/5/19).
+
+    Ademais, verifica-se que o acolhimento da pretensão recursal demandaria o necessário reexame do conjunto fático-probatório constante dos autos, bem como da legislação infraconstitucional pertinente, o que se mostra inviável no âmbito do recurso extraordinário, a teor do que dispõem as Súmulas 279 e 280 desta Corte. Nesse sentido, confira-se:
+
+    “Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Concurso público. Prescrição. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes. 1. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos, bem como da legislação infraconstitucional pertinente. Incidência das Súmulas nºs 279 e 280/STF. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE nº 1.194.973/DF-AgR – Tribunal Pleno, Rel. Min. DiasToffoli (Presidente), DJe de 11/6/19).
+
+    No mesmo sentido: ARE nº 1.169.169/DF–AgR, Segunda Turma, Rel. Min. Cármen Lúcia, DJe de 29/3/19 e ARE nº 1.168.050/DF-AgR, Primeira Turma, Rel. Min. Luiz Fux, DJe de 18/3/19.
+
+    Ante o exposto, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+
+    Publique-se.
+
+    Brasília, 29 de novembro de 2022.
+
+Ministra ROSA WEBER
+
+Presidente
+
+Documento assinado digitalmente
