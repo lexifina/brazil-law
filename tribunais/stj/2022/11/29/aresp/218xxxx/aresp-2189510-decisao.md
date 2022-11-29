@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por ROSANGELA NANCY BRITO contra decisão que não admitiu o recurso especial, fundamentado na alínea ado permissivo constitucional, interposto em desfavor do acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado (e-STJ fl. 532):
+DIREITO PENAL E PROCESSUAL PENAL. APELAÇÃO CRIME. ESTELIONATO (ART. 171, CAPUT, DO CÓDIGO PENAL). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA. PLEITO ABSOLUTÓRIO. DESCABIMENTO. MATERIALIDADE E AUTORIA SOBEJAMENTE COMPROVADAS. DESVIRTUAMENTE DE CONTRATO ESTIMATÓRIO. BEM E VALOR EQUIVALENTE QUE PERTENCEM AO CONSIGNATÁRIO. INTENÇÃO DE SE APROPRIAR DO VALOR OBTIDO COM A VENDA DO BEM CONSIGNADO PARA QUITAR DÍVIDAS DA EMPRESA. MEIO FRAUDULENTO QUE INDUZIU A VÍTIMA EM ERRO. DOLO EVIDENCIADO. CÍRCULO VICIOSO NARRADO PELA DEFESA QUE CONSISTE EM PRÁTICA CRIMINOSA. INEXISTÊNCIA DE CAUSA DE EXCLUSÃO DA ILICITUDE OU DA CULPABILIDADE. CONDENAÇÃO MANTIDA. DOSIMETRIA DA PENA. ELEVADO VALOR DO PREJUÍZO DA VÍTIMA. NEGATIVAÇÃO DO VETOR CONSEQUÊNCIAS DO CRIME. POSSIBILIDADE. PRECEDENTES. EXCLUSÃO, DE OFÍCIO, DA LIMITAÇÃO DE FINAL DE SEMANA COMO CONDIÇÃO IMPOSTA PARA CUMPRIMENTO DA PENA NO REGIME ABERTO. RECURSO CONHECIDO E DESPROVIDO.
+Consta dos autos que a agravante foi condenada da imputação de infringência aoartigo171,caput, do Código Penal,às penas de 1 ano e 6 meses de reclusão no regime aberto, e pagamento de 20dias-multa, substituída a sanção corporal por duas restritivas de direitos.
+O Tribunal de origem negou provimento ao apelo defensivo para manter a sentença condenatória em todos os seus termos (e-STJ fls. 532/545).
+Esgotadas as instâncias ordinárias, foi interposto recurso especial, inadmitido em juízo prévio de admissibilidade ante o óbice das Súmulas ns. 7/STJ e283/STF, dando ensejo à presente insurgência, na qual a agravante aduz a atipicidade da conduta.
+Pondera ter demonstrado o dissídio jurisprudencial por meio do necessário cotejo analítico, bem como estar evidenciado que enfrentava graves problemas financeiros à época dos fatos.
+Requer o acolhimento do agravo para dar provimento ao recurso especial, absolvendo-sea parte recorrente.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (e-STJ fls. 705/709).
+É o relatório.
+Decido.
+Da análise do presente recurso, verifica-se que este não merece ser conhecido, na medida em que a agravante, em suas razões, não atacou todos os fundamentos da decisão agravada.
+Destaque-se que odecisumagravado não admitiu o apelo nobre com amparo nos Enunciados ns. 7/STJ e 283/STF.
+No entanto, a agravante deixou de infirmar o óbice da Súmula n. 283/STF indicadopelo Tribunala quopara obstar seu recurso extremo, notadamente de que "tinha a intenção de utilizar o valor obtido para pagar outras dívidas" (e-STJ fl. 605), não tendo, pois, se desincumbido de seu ônus de refutar especificamente todos os fundamentos da decisão impugnada, a fim de demonstrar a sua incorreção.
+Com efeito, em sede recursal, é necessário que a parte refute de forma direta todos os impedimentos apontados para a não admissão de seu apelo nobre, explicitando os motivos pelos quais estes não incidiriam na hipótese em testilha, o que não se verificain casu.
+É assente nesta Corte o entendimento segundo o qual"os recursos devem impugnar, de maneira específica e pormenorizada, os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do agravo ou a insistência no mérito da controvérsia"(AgRg no AREsp n. 2.016.489/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 7/6/2022, DJe de 13/6/2022).
+Na mesma linha, o art. 932, III, do Código de Processo Civil de 2015 afirma que o agravo que deixa de impugnar de maneira clara e específica os fundamentos da decisão que pretendia desconstituir não merece ser conhecido. O Regimento Interno do Superior Tribunal de Justiça traz idêntica previsão no art. 253,I, do RISTJ.
+Sobre o tema, confira-se:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182 DO STJ. FLAGRANTE ILEGALIDADE NA DOSIMETRIA DA PENA. DESLOCAMENTO DE VETORES NA PRIMEIRA FASE DA DOSIMETRIA. MANUTENÇÃO DO MESMO QUANTUM DE AUMENTO. REFORMATIO IN PEJUS VERIFICADA. AGRAVO REGIMENTAL DESPROVIDO. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO PARA REDIMENSIONAR A PENA DO RÉU.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impede o conhecimento do recurso, nos termos do que dispõe a Súmula 182 do STJ.
+2. Na hipótese, o agravante deixou de refutar especificamente os fundamentos de inadmissão do recurso especial (in casu, Súmula 283 do STF), incidindo, portanto, o óbice da Súmula 182 do STJ.
+ ..
+6. Agravo regimental desprovido. Concessão de habeas corpus de ofício para redimensionar a pena do agravante para 7 anos, 1 mês e 9 dias de reclusão, em regime inicial fechado, mais 710 dias multa.
+Nos termos do art. 580 do CPP, extensão dos efeitos da ordem ao corréu Francisco Igor, redimensionando sua pena para 6 anos e 4 meses de reclusão, em regime inicial fechado, mais 533 dias multa.
+(AgRg no AREsp n. 2.172.797/CE, relator Ministro Ribeiro Dantas, Quinta Turma, julgado em 4/10/2022, DJe de 10/10/2022.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. APELO RARO. INADMISSÃO. ÓBICES DAS SÚMULAS N. 07 DO STJ, 283 E 284 DO STF. FUNDAMENTOS. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É necessário a impugnação específica, concreta e pormenorizada dos fundamentos da decisão contra a qual se insurge o recorrente, sob pena de vê-los mantidos, conforme previsão do art. 932, inciso III, do Código de Processo Civil, c.c. o art. 3.º do Código de Processo Penal, em consonância com a Súmula n. 182 do Superior Tribunal de Justiça. Precedentes.
+2. É vedado à parte sanar os vícios de impugnação à decisão agravada de origem em sede de agravo regimental, em razão do instituto da preclusão.
+3. Agravo regimental não conhecido.
+(AgRg no AREsp n. 1.998.402/SP, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 15/3/2022, DJe de 21/3/2022.)
+Por tais razões, não conheço do agravo em recurso especial, nos termos do art. 34, VII, c/c o art. 253, parágrafo único, I, do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se e intimem-se.
