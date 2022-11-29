@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial, com pedido de efeito suspensivo, interposto por MIKE LU comfundamentono art. 105, inciso III, alíneas"a" e "c", da Constituição Federal, contra acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+"AGRAVO DE INSTRUMENTO. Ação cujo processo se encontra em fase de cumprimento de sentença. Insurgência contra a r. decisão que determinou a penhora de 30% do salário do executado, ora recorrente. Decisão mantida. Impenhorabilidade do art. 833, IV, do CPC que não é absoluta. Possibilidade de relativização. Caso concreto em que o devedor ocupa o cargo de CEO de empresa de grande capital social. RECURSO NÃO PROVIDO." (fl. 116e-STJ).
+Em suas razões (fls. 120/133e-STJ), orecorrente aponta, além de divergência jurisprudencial,a violação doart. 833, IV, e §2º, do Código de Processo Civil de 2015, sustentando, em síntese, que a penhora de vencimentos para pagamento de débitos que não configuram prestação alimentícia é vedada porlei.
+Após a apresentação das contrarrazões (fls. 159/167e-STJ), o recurso foi admitido na origem (fls. 168/170e-STJ), ascendendo a esta Corte Superior.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De fato, de acordo com o acórdão recorrido,
+"(..) tal dispositivo não é absoluto, haja vista que a jurisprudência admite a possibilidade de relativização de tal impenhorabilidade, notadamente tendo em vista a remuneração auferida pelo devedor e a natureza do débito em execução.
+Nesse sentido:
+"Cumprimento de sentença - Cobrança - Decisão que rejeitou pedido da exequente de penhora mensal de parte do salário do coexecutado até satisfação do débito - Retorno dos autos ao órgão colegiado para apreciação da matéria conforme determinado em sede de recurso especial - Execução que tramita há mais de cinco anos sem que tenham sido encontrados bens dos executados para constrição - Admitida a relativização da regra da impenhorabilidade do salário no caso concreto - Decisão reformada para permitira penhora no percentual de 20% dos rendimentos mensais do coexecutado - Recurso provido". (TJSP; Agravo de Instrumento 2032243-65.2020.8.26.0000; Relator (a): MarciaDalla Déa Barone; Órgão Julgador: 4ª Câmara de DireitoPrivado; Foro de Cotia - 1ª Vara Cível; Data do Julgamento: 07/10/2021; Data de Registro: 07/10/2021)"" (fl. 117 e-STJ)
+Nesse contexto, o aresto atacado se alinha com a jurisprudência desta Corte Superior, no sentido de que"em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família" (EREsp 1.518.169/DF, Rel. p/ acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, j. em 03/10/2018, DJe de 27/02/2019).
+Com efeito, de acordo com a orientação sedimentada no STJ,"aregra geral da impenhorabilidade de salários, vencimentos, proventos etc. (art.649, IV, do CPC/73; art. 833, IV, do CPC/2015), pode ser excepcionada quando for preservado percentual de tais verbas capazes de dar guarida à dignidade do devedor e de sua família" (EREsp n. 1.582.475/MG, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 03/10/2018, DJe 16/10/2018).
+Além disso, tendo o TJSP concluído pela relativização da regra geral no caso concreto,denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe oenunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, não conheço do recurso especial, julgando, ainda, prejudicado o pedido de empréstimo de efeito suspensivo.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão interlocutória sem a prévia fixação de honorários.
+Publique-se.
+Intimem-se.
