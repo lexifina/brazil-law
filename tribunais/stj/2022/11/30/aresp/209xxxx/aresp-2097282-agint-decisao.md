@@ -1,0 +1,39 @@
+DECISÃO
+Na origem, FPS - Indústria e Comércio de Peças Ltda. (em recuperação judicial), outro nomeFPS - Indústria e Comércio de Peças Ltda. interpôs agravo de instrumento, com efeito suspensivo, decorrente de decisão que determinou o bloqueio pelo BacenJud de numerários encontrados em instituições financeiras até o limite da dívida, a fim de que o montante devido fosse elencado nos autos da recuperação judicial por terem sido constituídos anteriormente a ela. Contudo, o Desembargador relator negou provimento ao recurso (e-STJ, fls. 313-318).
+Interposto agravo interno, a Décima Quarta Câmara de Direito Privado do Tribunal de Justiça de São Paulonegou-lhe provimento, em aresto assim ementado (e-STJ, fl. 378):
+AGRAVO INTERNO - RETRATAÇÃO DENEGADA - CONSTRIÇÃO BACEN ONLINE - DEVEDORA CONTUMAZ - NENHUM VÍNCULO COM DIFICULDADE DECORRENTE DA PANDEMIA - ESTADO DE RECUPERAÇÃO JUDICIAL IRRELEVANTE - RECURSO NÃO PROVIDO.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 396-399).
+Nas razões do recurso especial, a recorrente, com fundamento nas alíneasae c do permissivo constitucional, alegou, além de divergência jurisprudencial,violação aoart. 49 da Lei n. 11.101/2005.
+Sustentou, em síntese, o desbloqueio dos valores constritos na sua conta corrente com a devolução dos valores bloqueados, uma vez que o crédito que gerou a ação é anterior ao pedido de recuperação judicial, e apenas a atribuição do efeito executivo se deu posteriormente, razão pela qual a demanda se inseriu no Tema repetitivo n. 1.051/STJ, e assim deve ser suspensa.
+Pugnou ainda peloefeito suspensivo ao recurso especial.
+Contrarrazões apresentadas às fls. 402-408 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial(e-STJ, fls. 409-411).
+Às fls. 445-446 (e-STJ), foi proferida decisão pela Presidência desta Corte, a qual não conheceu do agravo para não conhecer do recurso especial, em razão da incidência da Súmula 284/STF.
+Em suas razões de agravo interno, FPS - Indústria e Comércio de Peças Ltda. (em recuperação judicial), outro nome FPS - Indústria e Comércio de Peças Ltda. apontou, em síntese, que demonstrou devidamente nas razões de recurso especial a afronta ao dispositivo infraconstitucional, além de repisar os mesmos argumentos do apelo especial.
+A impugnação não foi apresentada, conforme certidão defl. 467 (e-STJ).
+Brevemente relatado, decido.
+No caso, da análise dos autos constata-se ser pertinente o argumento da parte agravante em relação a não incidência da Súmula 284/STJ, motivo pelo qual, com base no art. 259, § 6º, do RISTJ, reconsidero a decisão de fls. 445-446 (e- STJ), e passo a novo exame recursal.
+Dito isso, à luz da dialeticidade recursal, a parte agravante deve contestar motivadamente todos os fundamentos da decisão agravada, não sendo suficiente a apresentação de afirmações genéricas ou em sentido contrário ao julgado impugnado, nem a mera reiteração de argumentos já examinados por ocasião do julgamento do recurso anteriormente interposto (v.g. AgInt no AREsp n. 884.901/SP, Relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 17/5/2016, DJe 27/5/2016; AgRg no AREsp n. 773.710/SP, Relator Ministro Marco Buzzi, Quarta Turma, julgado em 10/5/2016, DJe 17/5/2016; AgRg no Ag n. 1.056.913/SP, Relatora Ministra Eliana Calmon, Segunda Turma, julgado em 6/11/2008, DJe 26/11/2008).
+Nessa linha de intelecção, o entendimento desta Corte é no sentido de que a parte recorrente deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge especificamente contra todos eles.
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE TUTELA DE URGÊNCIA E REPARAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação de obrigação de fazer com pedido de tutela de urgência e reparação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.(AgInt no AREsp n. 2.163.324/SP, relatora Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 14/11/2022, DJe de 17/11/2022)
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. DUPLO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO VINCULAÇÃO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA E DOS ARTIGOS 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO CONHECIDO.
+1. "O recurso especial sofre um duplo juízo de admissibilidade, não estando vinculado ao juízo de admissibilidade do Tribunal de origem" (AgRg no AREsp 395.588/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/11/2013, DJe 21/11/2013).
+2. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade.Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação dos artigos 932, III, e 1.021, § 1º, do estatuto processual civil de 2015.Precedentes.
+3. Agravo interno não conhecido. (AgInt nos EDcl no REsp n. 1.810.291/AM, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/6/2020, DJe 3/8/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL.DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART.932, III, DO NCPC. FIXAÇÃO DE HONORÁRIOS RECURSAIS.
+NECESSIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 do STJ).
+ ..
+4. Agravo interno não provido. (AgInt no AREsp n. 1.595.537/SP, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/5/2020, DJe 20/5/2020)
+Na hipótese, da leitura das razões de agravo (e-STJ, fls. 414-423), constata-se que a agravante não procedeu à impugnação específica dos fundamentosmencionados pela Corte estadual para inadmitir o apelo especial, uma vez que deixou de infirmar o óbice da Súmula 283/STF e da falta de demonstração do dissídio jurisprudencial, conforme indicado na decisão de fls. 409-411 (e-STJ).
+Incontestável, portanto, que não houve impugnação específica da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Diante do exposto, não conheço do agravo em recurso especial, mediante juízo de retratação.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO. 1. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. 2. AGRAVONÃO CONHECIDO, MEDIANTE JUÍZO DE RETRATAÇÃO.
