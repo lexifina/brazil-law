@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se, na origem, de ação anulatória de cobrança de seguro cumulada comrepetição de indébito e danos morais e pedido de tutela antecipada proposta por ADELOR HONORATO LOPES (ora recorrente), julgada procedente pelo magistrado singular. Interpostaapelação peloora insurgente, a Segunda Câmara Cível do Tribunal de Justiça do Estado de Mato Grosso do Sul deu-lhe parcial provimento, nos termos seguinte ementa (e-STJ, fl. 268):
+APELAÇÃO CÍVEL - AÇÃO ANULATÓRIA DE COBRANÇA DE SEGURO C/C REPETIÇÃO DE INDÉBITO E DANOS MORAIS - PRETENSÃO DE MAJORAÇÃO DO QUANTUM INDENIZATÓRIO - IMPOSSIBILIDADE - VALOR RAZOÁVEL E PROPORCIONAL - PRETENSÃO DE MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA - FIXAÇÃO EM VALOR IRRISÓRIO - MAJORAÇÃO - RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Para a fixação da indenização pelo dano moral, o julgador deve aproximar-se criteriosamente do quantum necessário à compensação da vítima pelo abalo sofrido e do valor adequado ao desestímulo da conduta ilícita, atendendo sempre ao princípio da razoabilidade e proporcionalidade.
+O valor dos honorários advocatícios deve ser majorado para R$1.000,00, montante mais adequado aos critérios previstos no § 2.º do artigo 85 do CPC, e capaz de remunerar condignamente o profissional que laborou no feito.
+Os embargos de declaração opostos na sequência foram rejeitados (e-STJ, fls. 303-312).
+Contra o acórdão que proveu parcialmente a apelaçãointerposta, ADELOR HONORATO LOPES, com fulcro no art. 105, III, a e c, da Constituição Federal, interpôsrecurso especial (e-STJ, fls. 314-340), apontando a violação dos arts. 1.022 do Código de Processo Civil/2015; 186, 927 e 944 do Código Civil;6º, VI, e 14 do Código do Consumidor, além de dissídio jurisprudencial.
+Em suas razões, assevera que "a fraude  desconto de parcelas de seguro não contratado foi acometida em face de uma pessoa IDOSA E SÍLVICOLA, QUE CONVÍVE EM ALDEIA INDÍGENA AFASTADA DO CONVÍVIO SOCIAL, LOCALIZADA NA ZONA RURAL" (e-STJ, fl. 318).
+Alega que a jurisprudência deste Tribunal considera ser razoável indenização no valor de 50 (cinquenta) salários mínimos.
+O processamento do apelo especial não foi admitido pela Corte de origem ante o entendimento da ausência de demonstração da relevância das questões de direito federal infraconstitucional (e-STJ, fls. 458-459), o que ensejou a interposição do presente agravo (e-STJ, fls. 461-487).
+Brevemente relatado, decido.
+De início, é imperioso destacar que a análise do reclamo ficará adstrita ao fundamento da decisão que inadmitiu o recurso na origem, no caso, a ausência de demonstração da relevância da questão de direito federal infraconstitucional. Ao decidir sobre a admissibilidade do recurso especial, o Tribunal de origem assim se manifestou (e-STJ, fls. 458-459):
+Trata-se de Recurso Especial interposto por Adelor Honorato Lopes, com fundamento no art.105, III, "a" e "c", da Constituição Federal, onde sustenta violação aos arts. 186, 927, e 944, do Código Civil; e, arts. 6º, VI, e 14, do Código de Defesa do Consumidor. Outrossim, suscita dissídio jurisprudencial.
+Contrarrazões pela inadmissão e não provimento (f. 138-143).
+O objeto do exame de admissibilidade cinge-se na análise das condições e dos pressupostos necessários para posterior apreciação do mérito recursal, o que se faz nos termos dos art.1.029 e seguintes, da Lei Adjetiva Civil, c/c art.105,III,da Constituição Federal.
+A admissão recursal pressupõe a presença dos requisitos genéricos de admissibilidade, sejamos relativos à própria existência do poder de recorrer (intrínsecos) - cabimento; legitimidade; interesse-sejamos relativos ao exercício do direito de recorrer (extrínsecos) -tempestividade; preparo; regularidade formal; e inexistência de fato impeditivo ou extintivo. Ademais, é de perscrutar os requisitos específicos de admissibilidade, a saber: esgotamento prévio das vias ordinárias; imprestabilidade para a mera revisão da prova; prequestionamento; dissídio jurisprudencial; e, em sendo o caso, repercussão geral, no Recurso Extraordinário, e relevância das questões de direito federal infraconstitucional discutidas, no Recurso Especial.
+Ao dirimir a controvérsia, este Sodalício assim decidiu:
+ ..
+O recurso carece de requisito específico prejudicial à análise dos demais pressupostos, qual seja, a demonstração de maneira formal e fundamentada da existência de relevância das questões de direito federal infraconstitucional discutidas, consoante reza o art. 105, § 2º, da Constituição Federal, acrescentado pelo artigo 1º da novel Emenda Constitucional n. 125, de 14 de julho de 2022,que entrou em vigor na data de sua publicação, 15/07/2022, in verbis:
+"art. 1º O art. 105 da Constituição Federal passa a vigorar com as seguintes alterações (..)
+§ 2º,No recurso especial, o recorrente deve demonstrar a relevância das questões de direito federal infraconstitucional discutidas no caso, nos termos da lei, a fim de que a admissão do recurso seja examinada pelo Tribunal, o qual somente pode dele não conhecer com base nesse motivo pela manifestação de 2/3(dois terços) dos membros do órgão competente para o julgamento. (..)
+Art. 3º Esta Emenda Constitucional entra em vigor na data de sua publicação."- destaquei.
+Ainda, a citada Emenda Constitucional disciplina que:
+"art. 2º A relevância de que trata o § 2º do art. 105 da Constituição Federal será exigida nos recursos especiais interpostos após a entrada em vigor desta Emenda Constitucional, ocasião em que a parte poderá atualizar o valor da causa para os fins de que trata o inciso III do § 3º do referido artigo."- destaquei.
+Diante disso, os recursos especiais interpostos a partir de 15/07/2022 devem demonstrar a relevância das questões, excepcionando-se de tal incumbência os casos previstos no §3º da mesma Emenda à Constituição, veja-se:
+"(..)§ 3º Haverá a relevância de que trata o § 2º deste artigo nos seguintes casos:
+I - ações penais;
+II - ações de improbidade administrativa;
+III - ações cujo valor da causa ultrapasse 500 (quinhentos) salários mínimos;
+IV - ações que possam gerar inelegibilidade;
+V - hipóteses em que o acórdão recorrido contrariar jurisprudência dominante o Superior Tribunal de Justiça;
+VI - outras hipóteses previstas em lei."(NR) (..)".
+Pois bem, da análise deste reclamo verifica-se que foi interposto já na vigência da Emenda Constitucional n.125/2022, e as questões aqui discutidas não se enquadram nos casos de relevância presumida citados, sendo, portanto, ônus da parte recorrente demonstrar a existência desse requisito, do que in casu não se desincumbiu, daí que, a meu juízo, o presente recurso não merece prosperar.
+Logo, o reclamo esbarra em impeditivo, ou seja, não supera todas as exigências em sede de juízo de prelibação.
+Ante o exposto, nos termos do art. 1.030, V, do CPC, inadmito o Recurso Especial interposto por Adelor Honorato Lopes. Às providências. Intimem-se.
+É incontroverso que a EC n. 125/2022 dispôs expressamente sobre a necessidade de demonstração da relevância quando da interposição dos recursos especiais após a sua entrada em vigor, ocorrida em 15/7/2022.
+Entretanto, não obstante tal previsão, impende registrar que o mencionado requisito de admissibilidade - relevância da questão de direito federal infraconstitucional - ainda depende de regulamentação no Código de Processo Civil de 2015 e no Regimento Interno do Superior Tribunal de Justiça.
+Com efeito, o Plenário deste Superior Tribunal aprovou, em 19/10/2022, o Enunciado Administrativo n. 8, cuja redação é a seguinte: "A indicação no recurso especial dos fundamentos de relevância da questão de direito federal infraconstitucional somente será exigida em recursos interpostos contra acórdãos publicados após a data de entrada em vigor da lei regulamentadora prevista no art. 105, § 2º, da Constituição Federal."
+Nesse vértice, até que sobrevenha a lei regulamentadora, não pode a Corte de origem valer-se da ausência de demonstração da relevância como ratio decidendi para inadmitir o seguimento do recurso especial. Assim, devem os autos retornar à origem para que seja feito novo juízo de admissibilidade.
+Ante o exposto, dou provimento ao agravo, a fim de determinar o retorno dos autos à origem para que, superada essa questão, prossiga no juízo de admissibilidade do recurso especial, como entender de direito.
+Fiquem as partes cientificadas de que a apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. RESCISÃO CONTRATUAL. DECISÃO DE ADMISSIBILIDADE. RELEVÂNCIA DA QUESTÃO DE DIREITO FEDERAL INFRACONSTITUCIONAL. AUSÊNCIA DE LEI REGULAMENTADORA. AGRAVO PROVIDO, A FIM DE DETERMINAR O RETORNO DOS AUTOS À ORIGEM PARA NOVO EXAME DE ADMISSIBILIDADE DO RECURSO ESPECIAL.
