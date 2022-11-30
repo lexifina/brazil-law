@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA PRIMEIRA VARA DE LAGUNA -SJ/SC, o suscitante, e o JUÍZO DE DIREITO DA SEGUNDA VARA CÍVEL DE LAGUNA/SC, o suscitado.
+Extrai-se dos autos que Evelise dos Santos Bento ajuizou ação ordinária objetivando compelir o Estado de Santa Catarinaao fornecimento de medicamento para tratamento de enfermidade que lhe acomete.
+O Juiz de primeiro grau julgou procedentes os pedidos.
+Interposto recurso inominado pelo Estado, o Tribunal de Justiça determinou a inclusão da União no polo passiva da demandae a remessa dos autos ao Juízo Federal, julgando prejudicado o recurso,nos termos da seguinte ementa:
+RECURSO INOMINADO. MEDICAMENTO/TRATAMENTO NÃO PADRONIZADO. NECESSIDADE DE INCLUSÃO DA UNIÃO NO POLO PASSIVO. ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. TEMA N. 793. INCOMPETÊNCIA ABSOLUTA DA JUSTIÇA ESTADUAL PARA O PROCESSAMENTO E JULGAMENTO DA CAUSA. SENTENÇA CASSADA. NECESSIDADE DE INTIMAÇÃO DA PARTE AUTORA, EM PRIMEIRO GRAU, PARA INCLUSÃO DA UNIÃO NO POLO PASSIVO, SOB PENA DE EXTINÇÃO DO PROCESSO, SEM RESOLUÇÃO DO MÉRITO. MANUTENÇÃO DOS EFEITOS DA DECISÃO QUE ANTECIPOU OS EFEITOS DA TUTELA. INTELIGÊNCIA DO ARTIGO 64, §4º, DO CPC.RECURSO PREJUDICADO
+O Juízo Federalsuscitou o presente conflito de competência, por entender que, "em se tratando de responsabilidade solidária; de litisconsórcio passivo facultativo; de necessidade de participação da União somente em caso de postulação judicial de medicamento(s) não registrado(s) (ou em caso de mora desse procedimento administrativo); em respeito à opção inicial da parte autora, a quem cabe a escolha de contra quem demandar; e que o requerimento de citação do ente federal somente foi levado a efeito por determinação do juízo estadual, sob pena de extinção do feito, concluo que a União deve ser excluída da lide." (e-STJ fl. 574).
+Ministério Público Federal opinou pelo sobrestamento do feito até o julgamento dosConflitos de Competência n.187.276/RS, 187.533/SC e 188.002/SC(e-STJ fls. 591/593).
+Passo a decidir.
+A questão da competência encontra-se superada, haja vista a existência de decisão proferida por um dos juízos suscitados, com trânsito em julgado.
+Com efeito, emconsulta ao sítio eletrônico doTribunal de Justiça do Estado de Santa Catarina, constaque acórdãoproferido em recurso inominadotransitou em julgado em 04/08/2020.
+Por sua vez, o presente conflito de competência foi suscitado pelo Juízo Federal em 12/09/2022, posteriormente ao trânsito em julgado da decisão proferida pelo Juízo estadual.
+Nessa quadra, incidea Súmula 59 do Superior Tribunal de Justiça, segundo a qual "não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes".
+Nesse sentido:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA - SÚMULA 59/STJ - INCIDÊNCIA - DELIBERAÇÃO UNIPESSOAL QUE NÃO CONHECEU DO CONFLITO DE COMPETÊNCIA - INSURGÊNCIA DO AGRAVANTE.
+1. A própria suscitante destaca e reitera que a demanda ajuizada na Justiça Comum Estadual transitou em julgado de modo a ensejar e atrair, na hipótese dos autos, o enunciado da Súmula 59/STJ, a qual estabelece que "não há conflito de competência se já existe sentença com trânsito em julgado, proferida por um dos juízos conflitantes."
+Precedentes.
+2. Agravo interno desprovido.
+(AgInt no CC n. 177.288/SP, relator Ministro Marco Buzzi, Segunda Seção,
+julgado em 28/9/2021, DJe de 1/10/2021.).
+PROCESSUAL CIVIL. CONFLITO DE COMPETÊNCIA. CONCURSO PÚBLICO. CONFLITO ENTRE A JUSTIÇA COMUM FEDERAL E A JUSTIÇA TRABALHISTA. PROLAÇÃO DE DECISÃO DEFINITIVA PELA 3ª VARA DO TRABALHO DE JUIZ DE FORA. APLICAÇÃO DA SÚMULA 59 DO STJ.
+1. Na origem, trata-se de ação ordinária por meio da qual a ora recorrente pretende que a Empresa Brasileira de Serviços Hospitalares (EBSERH) e o Instituto AOCP procedam ao cômputo do seu tempo de experiência profissional, atribuindo-lhe 10 (dez) pontos, máximo permitido pelo edital, e classificando-a de acordo com a pontuação obtida. Afirma ter participado do concurso público nº 03/2015 - EBSERH/HU-UFJF, estando classificada em 2º (segundo) lugar, antes da avaliação de títulos e experiência profissional.
+2. Conforme certidão de fl. 506, do Tribunal Regional do Trabalho da 3ª Região, houve sentença transitada em julgado. Transcrevo os trechos da referida certidão: "Nada a deferir, tendo em vista a prestação jurisdicional encerrada neste Juízo, com sentença transitada, em julgado. Penso que as alegações da reclamante são inapropriadas para o momento, ainda mais que, em nenhuma oportunidade anterior, a reclamante trouxe para estes autos informação acerca da interposição de Agravo de Instrumento contra a decisão proferida pelo Juiz Federal, que declinou a competência para esta especializada".
+3. Portanto, depreende-se dos autos que há decisão de mérito com trânsito em julgado proferida pela 3ª Vara do Trabalho de Juiz de Fora, o que inviabiliza a análise do presente conflito por esta Corte. A jurisprudência do STJ é pacífica no sentido de que não há como conhecer de petição de Conflito de Competência se já existe sentença com trânsito em julgado exarada por algum dos juízos envolvidos. Nesse sentido, destaco os seguintes julgados: CC 144.219/RJ, Rel. Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 14/06/2017, DJe 18/08/2017; CC 122.439/RJ, Rel. Ministro Massami Uyeda, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Segunda Seção, julgado em 11/09/2013, DJe 12/02/2014; AgRg no CC 120.584/GO, Rel. Ministro Massami Uyeda, Segunda Seção, julgado em 27/06/2012, DJe 01/08/2012; CC 56.550/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 10/05/2006, DJ 25/05/2006.
+4. Agravo Interno não provido.
+(AgInt no CC n. 160.412/MG, relator Ministro Herman Benjamin, Primeira
+Seção, julgado em 12/6/2019, DJe de 10/9/2019.).
+Diante do exposto, com fundamento no art. 34, XXII, do RISTJ, NÃO CONHEÇO do conflito de competência.
+Comunique-se, com urgência, a decisão ao Juízo suscitante e ao Juízo suscitado.
+Publique-se. Intimem-se.
