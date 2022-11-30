@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de CLEVERSON ROGERIO PEREIRA ASSOFRA contra decisão monocrática de Desembargador que indeferiu liminarmente revisão criminal ajuizada na Corte de origem.
+Consta dos autos que o paciente foi condenado pela prática dos delitos de tráfico de drogas e associação para o tráfico, à pena de 13 anos, 5 meses e 8 dias de reclusão, regime fechado, além de 2016 dias-multa.
+Afirma a defesa, em síntese, que a condenação do paciente é contrária à evidência dos autos, destacando não ter sido encontrada com ele qualquer tipo e quantidade de entorpecente. No mais, discorre sobre as provas produzidas nos autos da ação penal, afirmando que são frágeis e insuficientes para embasar a condenação.
+Requer, liminarmente e no mérito, seja determinado o processamento regular da Revisão Criminal n. 2151448-20.2022.8.26.0000 ou, se o caso, que seja desde logo absolvido o paciente.
+É o relatório. Decido.
+De plano, destaco que o presente habeas corpus não merece prosseguimento.
+Isso porque este mandamus é mera reiteração (copia e cola)do HC n. 786.981/SP, que foi impetrado em favor doora paciente, pelo mesmo advogado (Dr. PAULO ROBERTO DE MENDONÇA SAMPAIO - OAB/SP n. 233.211) e contra o mesmo ato coator.
+Em decisão monocrática, de minha lavra, proferida no dia 24/11/2022, o referido habeas corpus foi indeferido liminarmente e, até o presente momento, não há notícia da interposição de recursos pelo causídico contra essa decisão.
+Com efeito, revela-se manifestamente incabível o habeas corpus que veicula pedido idêntico ao formulado em pleito anterior, que tramita nesta Corte(AgRg no HC n. 253.038/SP, Relatora Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), Sexta Turma, julgado em 11/4/2013, DJe de 23/4/2013).
+Nesse panorama,destaco os recentes julgados do STJ:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. INDEFERIDO LIMINARMENTE. MERA REITERAÇÃO DE HABEAS CORPUS JÁ DENEGADO PELO STJ. EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA.
+1. Tratando-se de mera reiteração de writ anteriormente impetrado e já denegado por esta Corte, o recurso em habeas corpus deve ser indeferido liminarmente.
+2. O alegado excesso de prazo na formação da culpa não foi objeto de análise pelo colegiado do Tribunal de origem, o que impede seu conhecimento nesta sede, por indevida supressão de instância.
+3. Agravo regimental improvido.
+(AgRg no RHC 155.328/RJ, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF 1ª Região), Sexta Turma, julgado em 23/11/2021, DJe de 29/11/2021) - negritei.
+AGRAVO REGIMENTAL NO HABEAS CORPUS. WRIT INDEFERIDO LIMINARMENTE. NULIDADE. SUPOSTA INVASÃO DE DOMICÍLIO. MATÉRIA NÃO EXAMINADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. DOSIMETRIA DA PENA. ALEGADO EQUÍVOCO NO RECONHECIMENTO DA AGRAVANTE DA REINCIDÊNCIA. MATÉRIA ANALISADA EM OUTRO HABEAS CORPUS IMPETRADO PERANTE O STJ. AGRAVO IMPROVIDO.
+1. As alegações concernentes ao erro nas investigações, invasão de domicílio, nulidade de provas e pedido de substituição da prisão preventiva por domiciliar, nos termos do art. 318, II, do CPP, não foram apreciadas pela Corte de origem, o que afasta a competência do Superior Tribunal de Justiça STJ para análise da matéria, sob pena de incorrer em supressão de instância (HC 652.864/MG, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 18/5/2021, DJe de 24/5/2021).
+2. No caso, a tese de nulidade do feito em razão da suposta invasão domiciliar pela polícia não foi submetida e, por consequência, debatida pela Corte local em sede de apelação, visto que constou das razões recursais tão somente o pleito de absolvição pela ausência de provas e, subsidiariamente,temas acerca da dosimetria da pena, de modo que o tema acerca da suposta nulidade não pode ser examinado diretamente por esta Corte Superior, sob pena de incidir-se em indevida supressão de instância.3. Como é de conhecimento, "é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido" (AgRg no HC n. 531.227/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 10/9/2019, DJe 18/9/2019).
+4. Trata-se de mera reiteração o alegado equívoco no reconhecimento da agravante da reincidência, pois o tema já foi rechaçado por esta relatoria, nos autos do HC n. 677.547/SP, impetrado pelos mesmos causídicos e contra o mesmo acórdão de segundo grau, bem como apresenta as mesmas partes, causa de pedir e pedido.
+5. Agravo regimental improvido.
+(AgRg no HC 702.277/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 9/11/2021, DJe de 12/11/2021)- negritei.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
