@@ -1,0 +1,8 @@
+DECISÃO
+O paciente alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo na Apelação n. 0006001-02.2015.8.26.0543, em que "deram parcial provimento ao recurso para, mantida a condenação  como incurso no artigo 171, I, do Código Penal , redimensionar a pena de Paulo Sérgio Fukner Rosa para um ano, seis meses e vinte dias de reclusão, em regime semiaberto, e pagamento de quinze dias-multa, no patamar mínimo" (fl. 18).
+Assere a defesa, neste writ, que "se mantendo a expedição de mandado de prisão sem que o Paciente tenha esgotado os recursos que lhe são garantidos, ferir-se-á de morte as normas indicadas e corroboradas pelo ensinamento lançado pelo Ministro Celso de Mello, sendo a corrente atual do Supremo Tribunal Federal" (fl. 16).
+A despeito da insurgência defensiva, verifico que não foi colacionada cópia da sentença condenatória, tampouco de certidão que demonstra a expedição de mandado de prisão, o que prejudica sobremaneira a exata compreensão do caso, inviabilizando-se, assim, o exame do alegado constrangimento ilegal de que seria vítima o paciente.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+É cogente ao impetrante - sobretudo quando se tratar de advogado constituído - apresentar elementos documentais suficientes para se permitir aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
