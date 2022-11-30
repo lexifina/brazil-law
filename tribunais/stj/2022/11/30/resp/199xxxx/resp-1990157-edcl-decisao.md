@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por IZETE LEHMKUHL COELHO, a decisão de minha lavra, que negou provimento ao Recurso Especial da UNIVERSIDADE FEDERAL DE SANTA CATARINA, com base na jurisprudência do STJ(fls. 157/160e).
+Nas razões dos Embargos de Declaração (fls. 162/164e), a parte embargante sustenta que:
+"1. Foi negado provimento ao recurso especial da UFSC. A decisão ora embargada deixa de majorar os honorários porque "não houve prévia fixação de Honorários".
+Ao assim dispor, incorreu em parcial omissão ou obscuridade, senão contradição, passíveis de serem sanadas pela presente via.
+2. Contudo, a própria ementa do acórdão recorrido pela UFSC fixou, expressamente, "honorários advocatícios, no percentual mínimo legal e considerado o valor final (in casu, total, pela ausência de impugnção) do crédito de honorários":
+(..)
+Portanto, foram preenchidos os três requisitos estabelecidos pelo STJpara majoração da verba honorária em fase recursal, uma vez que: (a) a decisão recorrida pela UFSC foi proferida após a vigência do CPC/2015, (b) o recurso da UFSC foi desprovido, e (c) a UFSC foi condenada em honorários advocatícios nos percentuais mínimos sobre o crédito de honorários sucumbenciais desde a origem.
+Nesta intelecção, são cabíveis honorários recursais para bem remunerar o trabalho adicional realizado em grau recursal"(fls. 162/163e).
+Os Embargos de Declaração não merecem prosperar.
+In casu, ao contrário do que pretende fazer crer a parte embargante, não houve omissão ou obscuridadequanto àmajoração dos honorários advocatícios, eis que, no Tribunal deorigem, não houve prévia fixação de verba honorária em desfavor do ente público em decorrência do improvimento do Agravo de Instrumento.
+A propósito,mutatis mutandis, confiram-se:
+"SERVIDOR PÚBLICO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO CPC. NÃO CABIMENTO EM SEDE DE AGRAVO DE INSTRUMENTO. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1.No tocante à condenação em honorários sucumbenciais, a jurisprudência do STJ é firme no sentido de que não é cabível a fixação de verba honorária em decisão interlocutória na qual aviado agravo de instrumento.
+2.Na espécie, o presente recurso especial foi manejado nos autos de agravo de instrumento contra decisão interlocutória. Assim, não tendo sido efetivada a condenação em honorários sucumbenciais perante a Corte de origem, inviabilizada resta a majoração de honorários recursais nesta instância especial de julgamento.
+3. Embargos de declaração acolhidos, sem efeitos infringentes"(STJ, EDcl no AgInt no AREsp2.012.692/DF, Rel.Ministro SÉRGIO KUKINA, PRIMEIRA TURMA,DJe de 12/8/2022).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DECISÃO INTERLOCUTÓRIA. AGRAVO DE INSTRUMENTO. AUSÊNCIA DE FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA. DECISÃO QUE NÃO PÕE FIM AO PROCESSO. FIXAÇÃO DE HONORÁRIOS RECURSAIS. IMPOSSIBILIDADE.
+1. O acórdão de origem diverge da jurisprudência do STJ que se firmou no sentido de que "não cabe a majoração de honorários recursais, com fundamento no art. 85, § 11, do CPC/2015, em recurso especial interposto contra acórdão de julgamento de agravo de instrumento que não ponha termo à demanda nem, portanto, fixe sucumbência na origem"(REsp 1.688.566/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 18/12/2017).
+2. Agravo interno a que se nega provimento"(STJ, AgInt no REsp 1.763.725/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA,DJe de 23/10/2020).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO FEDERAL. AGRAVO DE INSTRUMENTO. REJEIÇÃO DA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. APLICAÇÃO DO ART. 85, §11, DO CPC/2015. HONORÁRIOS RECURSAIS. DESCABIMENTO. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Verifica-se que em relação a suposta violação ao art. 1.022, II, do CPC/2015, não se vislumbra nenhum dos vícios elencados nos referidos dispositivos a ensejar anulação do julgado. O acórdão impugnado guardou observância ao princípio da motivação obrigatória das decisões judiciais, por ter analisado suficientemente a controvérsia dos autos de forma motivada e fundamentada.
+2. Com efeito, no que concerne a majoração dos honorários advocatícios, a orientação do STJ é no sentido de que "a majoração dos honorários advocatícios, a título de sucumbência recursal, pressupõe que tenha havido a fixação de honorários na instância a quo, ou seja, só é cabível nos feitos cm que for admissível a condenação cm honorários na instância a quo"(EDcl no Aglnt no AREsp 892.042/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 02/02/2017, DJe 08/02/2017).
+3. Ademais, não cabe a majoração de honorários recursais, com fundamento no art. 85, § 11, do CPC/2015, em recurso especial interposto contra acórdão de julgamento de agravo de instrumento que não ponha termo à demanda nem, portanto, fixe sucumbência na origem.
+4. Agravo interno não provido"(STJ, AgInt no REsp1.679.725/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA,DJe de 27/3/2018).
+Pelo exposto, à míngua de vícios,rejeitoos Embargos Declaratórios.
+I.
