@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de embargos de declaração manejados pela AGÊNCIA NACIONAL DE MINERAÇÃOem face de decisão de minha lavra resumida da seguinte forma:
+PROCESSUAL CIVIL E FINANCEIRO. AGRAVO EM RECURSO ESPECIAL. COMPENSAÇÃO FINANCEIRA PARA A EXPLORAÇÃO DE RECURSOS MINERAIS - CFEM. BASE DE CÁLCULO. ART. 2º DA LEI Nº 8.001/1990. LEGALIDADE DOS CRITÉRIOS PREVISTOS NA IN 6/2000. PRECEDENTES. AFERIÇÃO DA CORRETA DEDUÇÃO DOS TRIBUTOS INCIDENTES NA HIPÓTESE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
+A embargante alega omissão no que tange ao § 11 do art. 85 do CPC/2015, relativamente a fixação de honorários de sucumbência recursal.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso foi interposto na vigência do CPC/2015, o que atrai a incidência do Enunciado Administrativo Nº 3: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando o disposto no art. 85, § 11, do CPC/2015, c/c o Enunciado Administrativo n. 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), e levando em consideração o trabalho adicional realizado em grau recursal, impõe-se a majoração dos honorários advocatícios (a título de sucumbência recursal). No caso, a verba honorária arbitrada pela sentença foi invertida a favor da ANM quando do provimento do apelo da autarquia, razão porque se majora a verba honorária em10% sobre o valor fixado pelas instâncias ordinárias, obedecendo o respectivo limite legal.
+Ante o exposto, acolho os embargos de declaração, sem efeitos infringentes, apenas para fixar honorários de sucumbência recursal.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. OMISSÃO. OCORRÊNCIA. FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. ACLARATÓRIOS ACOLHIDOS, SEM EFEITOS INFRINGENTES, APENAS PARA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS.
