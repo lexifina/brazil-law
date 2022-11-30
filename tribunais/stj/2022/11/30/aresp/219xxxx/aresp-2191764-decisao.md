@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto pela UNIÃO contra decisão do Tribunal Regional Federal da 4ª Região, que não admitiu recurso especial fundado naalínea"a" do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fls. 147/148):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. UFRGS. LEGITIMIDADE EXTRAORDINÁRIA. SINDICATOS.AÇÃO COLETIVA. SUPREMO TRIBUNAL FEDERAL.
+- Segundo entendimento do Supremo Tribunal Federal expresso em diversos precedentes, e ratificado sob regime de repercussão geral quando da apreciação do RE 883642, as entidades sindicais ostentam ampla legitimidade extraordinária para defender em juízo os direitos e interesses coletivos ou individuais da categoria que representam.
+- A coisa julgada formada na ação coletiva beneficia todos os servidores da respectiva categoria profissional, possuindo eles, ainda que não filiados à entidade de classe, legitimidade para promover a execução individual do título judicial.
+- Demonstrado o pertencimento à categoria abrangida pela entidade sindical durante o período em relação ao qual o título produziu eficácias declaratória e condenatória quanto ao direito hipotético vindicado, a legitimidade, inclusive para a execução, exsurge como consequência lógica da substituição exercida pela entidade sindical.
+- A questão principal julgada na ação coletiva foi a possibilidade de considerar o somatório das cargas horárias dos cursos de capacitação para fins de enquadramento dos servidores no Plano de Carreira dos Cargos Técnico- administrativos em Educação. Isto é, a controvérsia posta na demanda era genérica e comum a toda categoria, não havendo razão para se restringir os efeitos do título executivo apenas aos servidores que constaram na listagem anexa à petição inicial, ou seja, aqueles servidores cuja situação havia sido analisada pelo Parecer nº 115/2008 do CONSUN, contra o qual o Sindicato manifestou irresignação por meio da demanda judicial.
+Parcialmente providos os aclaratórios para fins de prequestionamento (e-STJ fls. 186/190).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 2º, 5º, 141, 322, § 2º, 485, VI, 489, § 3º, 492, 502, 503 504, 506, 1022, II, todos do CPC/2015;81, parágrafo único, II, e 103 do CDC, sustentando negativa deprestaçãojurisdicional, bem como a ilegitimidade da parteadversapara execução de título oriundo de processo coletivo.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo os fundamentos sido impugnados no presente agravo.
+No tocante àmatériarepetitiva, a inadmissão se deu com fundamento nos Temas 823 e 1.075 do STF.
+Contrarrazões às e-STJ fl. 388/404.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+No que se refereà matéria não abrangida pela inadmissãocom fundamento nos Temas 823 e 1.075 do STF, em relação ao art. 1.022, II, do CPC/2015, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro.
+A propósito, confiram-se, por análogos à hipótese dos autos: AgRg no AREsp 719.983/PE, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 19/04/2016, DJe 26/04/2016e AgRg no AREsp 811.706/PR, rel. Ministra DIVA MALERBI desembargadora convocada doTRF da 3ª Região), Segunda Turma, julgado em 07/04/2016, DJe 15/04/2016.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
