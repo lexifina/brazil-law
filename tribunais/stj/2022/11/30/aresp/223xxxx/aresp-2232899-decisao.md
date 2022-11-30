@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela UNIÃO em face de decisão do Tribunal Regional Federal da 1ª Região, que negou admissibilidade a recurso contra acórdão assim ementado (e-STJ fl. 146):
+CONSTITUCIONAL, ADMINISTRATIVO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. LICENÇA-PRÊMIO NÃO GOZADA E NÃO COMPUTADA EM DOBRO NO MOMENTO DA APOSENTAÇÃO. PRESCRIÇÃO. INEXISTÊNCIA. SENTENÇA ANULADA. ART. 515, §3º, CPC ANTERIOR. CONVERSÃO EM PECÚNIA. POSSIBILIDADE. PEDIDO PROCEDENTE. CORREÇÃO MONETÁRIA. JUROS DE MORA. HONORÁRIOS DE ADVOGADO.
+1. A sentença foi proferida na vigência do CPC anterior e sob tal égide deverá ser apreciado este recurso de apelação.
+2. A Primeira Seção da Corte firmou o entendimento de que o termo inicial do prazo prescricional para se postular a conversão em pecúnia de licença-prêmio não gozada e nem utilizada para a aposentadoria deve ser contado a partir da homologação da aposentadoria pelo TCU. No caso, a aposentadoria do autor foi concedida em 03/12/96 e não se tem notícia nos autos quanto à sua eventual homologação pela Corte de Contas. Assim, caberia à ré a comprovação da existência de fato impeditivo, modificativo ou extintivo do direito da parte autora e não o fez, ônus que lhe competia por força do art. 333, II, do CPC anterior.
+3. Afastada a prescrição e versando o feito sobre matéria exclusivamente de direito, estando em condições de imediato julgamento, o Tribunal pode conhecer diretamente da lide, por aplicação analógica do disposto no art. 515, §3º, do CPC anterior.
+4. É assente na jurisprudência que o servidor possui direito de converter em pecúnia o período de licença-prêmio adquirido e não gozado ou não utilizado para contagem em dobro para fins de aposentadoria, desde que o beneficiário não esteja no exercício de suas atividades funcionais.
+5. Considerando que há resíduo de licença-prêmio não gozada e não contada em dobro por ocasião da concessão da aposentadoria, faz jus a parte autora à sua conversão em pecúnia.
+6. Correção monetária e juros moratórios conforme Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+7. Honorários de advogado devidos no percentual de 5% (cinco por cento) sobre o valor da condenação, na esteira da jurisprudência da Corte.
+8. Apelação provida para afastar a prescrição e anular a sentença. Pedido julgado procedente (art. 515, §3º, do CPC anterior).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, interposto com base no art. 105, III, "a", da Constituição Federal, a agravante alega:
+a) violação ao art. 1022, II, do CPC/2015, ao argumento de que o Tribunal de origem não teria apreciado os temas invocados, caso se entenda pela ausência de prequestionamento;
+b) prescrição do fundo de direito, aduzindo que "o Tribunal da Cidadania, após o julgamento do MS nº. 17.406/DF, vem decidindo que o entendimento firmado naquele julgado foi excepcional, à luz das circunstâncias do caso concreto, devendo prevalecer a orientação estabelecida pela Primeira Seção por ocasião do julgamento do REsp n2. 1.254/456/PE, examinado pela sistemática do art. 543-C do CPC 1974" (e-STJ fl. 173). Sustenta que "o termo inicial do prazo prescricional para a conversão em pecúnia da licença prêmio não gozada é a data em que ocorreu a aposentadoria do servidor público. No caso dos autos, o autor aposentou-se em 02/12/1996, tendo ajuizada a presente demanda em 27/05/2004" (e-STJ fls. 174/175).
+Sem contrarrazões ao recurso especial.
+O Tribunal de origem inadmitiu o recurso aduzindo que não teria havido negativa de prestação jurisdicional e que o acórdão recorrido estaria em consonância com a jurisprudência desta Corte, incidindo o óbice previsto na Súmula nº 83/STJ.
+Nas razões do agravo, a agravante impugnou especificamente os fundamentos da decisão de inadmissibilidade.
+Sem contraminuta ao agravo.
+É o relatório. Decido.
+Preenchidos os pressupostos recursais do agravo e tendo a agravante impugnado os fundamentos da decisão agravada, passo ao exame do recurso especial.
+Quanto a alegada violação ao art. 1022, II, do CPC/2015, verifica-se que a agravante limitou-se a afirmar nas razões do recurso especial que o Tribunal de origem não teria se manifestado sobre os temas invocados, sem, contudo, indicá-los, deixando de demonstrar ainda como a análise de referidas matérias poderia levar à anulação ou à reforma do julgado, requisitos essenciais para o reconhecimento da negativa de prestação jurisdicional.
+No que tange à prescrição do fundo de direito, a agravante não indicou qual teria sido o dispositivo violado pelo Tribunal de origem, carecendo o recurso especial da adequada fundamentação. Desta forma, aplica-se o óbice previsto na Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Diante do exposto, com base no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. VIOLAÇÃO AO ART. 1022, II, DO CPC/2015. ALEGAÇÃO GENÉRICA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PRESCRIÇÃO DO FUNDO DO DIREITO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
