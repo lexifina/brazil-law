@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por IMPERIAL SUPERMERCADOS LTDA, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"DIREITO TRIBUTÁRIO. PIS/COFINS. REGIME NÃO CUMULATIVO. APROPRIAÇÃO DE CRÉDITOS. ICMS-ST NA AQUISIÇÃO. AUSÊNCIA DO DIREITO. O contribuinte não tem direito ao creditamento, no âmbito do regime não-cumulativo de PIS/COFINS, dos valores que, na condição de substituído tributário, antecipa ao substituto tributário a título de ICMS-ST, para repasse ao Fisco" (fls. 163e)
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. Artigo 301, do Decreto 9.580/18; Artigos 121, 128, 165 e 170 do CTN, Artigos 17 e 14, Lei n. 11.033/2004, arts. 3º, I e II, da Lei n. 10.637/2002, 3º, I e II, da Lei n. 10.833/2003,sustentando que faz jus ao creditamento de valores que antecipa ao substituto tributário a título de ICMS-ST, no âmbito do regimenão cumulativo de PIS/COFINS.
+Contrarrazões a fls. 220/222e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 230/231e).
+A irresignação não merece prosperar.
+Na origem, trata-se de Mandado de Segurança impetrado pela parte ora recorrente, com o objetivo de garantir seu direito à ampla fruição de crédito de PIS e COFINS sobre o valor pago na etapa anterior a título de ICMS-ST.
+Julgadaimprocedente a demanda, recorreu o autor, restando mantida a sentença, pelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+O Superior Tribunal de Justiça possui jurisprudência no sentido de que "não tem direito ocontribuinteaocreditamento,no âmbito do regime não- cumulativo doPISeCOFINS,dos valores que, na condição de substituído tributário, paga aocontribuinte substitutoa título de reembolso pelo recolhimento do ICMS-substituição. Precedentes: REsp. n. 1.456.648 - RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 02.06.2016; REsp. n. 1.461.802 - RS, Segunda Turma, Rel. Min. Herman Benjamin, julgado em 22.09.2016; AgInt no REsp. n. 1.937.431 / SC, Segunda Turma, Rel. Min. Assusete Magalhães, julgado em 09.11.2021; AgInt nos EDcl no REsp. n. 1.881.576 / SC, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 15.03.2021; AgInt no REsp. n. 1.885.048 / RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 16.12.2020" (AgInt no REsp n. 1.960.261/RS, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/2/2022, DJe de 2/3/2022.)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+I.
