@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo da KEY COMERCIAL IMPORTADORA DE UTILIDADES DOMÉSTICAS contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fls. 257/258):
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO E RECONVENÇÃO. SENTENÇA DE IMPROCEDÊNCIA DA AÇÃO E DE PROCEDÊNCIA DA RECONVENÇÃO PARA CONDENAR A RECONVINDA AO PAGAMENTO DAS DESPESAS DE ARMAZENAGEM.
+RECURSO DA AUTORA-RECONVINDA.
+ALEGAÇÃO DE QUE HAVENDO O PERDIMENTO DA CARGA, AS DESPESAS DE ARMAZENAGEM, DESDE A SUA DESCARGA, SÃO DE RESPONSABILIDADE DA RECEITA FEDERAL. TESE AFASTADA. ÔNUS QUE INCUMBE À RECEITA FEDERAL SOMENTE APÓS DECLARADO O PERDIMENTO DA MERCADORIA, QUE OCORRE APÓS DECORRIDO NOVENTA DIAS DA DESCARGA SEM O INÍCIO DO DESPACHO ADUANEIRO. EXEGESE DO ART. 31, § 2º, DO DECRETO LEI N.
+1.455/1976 E ARTIGO 647, § 1º, DO DECRETO 6.759/09. ÔNUS DO PAGAMENTO DAS DESPESAS DE ARMAZENAGEM ATÉ O PERDIMENTO QUE INCUMBE À IMPORTADORA DOS PRODUTOS, QUE OS ABANDONOU. PRECENDENTES DESTE TRIBUNAL.
+INRSUGÊNCIA QUANTO AO VALOR DA TARIFA DE ARMAZENAGEM.
+ALEGAÇÃO DE ONEROSIDADE EXCESSIVA E OFENSA À MODICIDADE DO PREÇO PÚBLICO. ALEGAÇÃO DERRUÍDA. SERVIÇO DE ARMAZENAGEM PRESTADO POR TERMINAL PORTUÁRIO PRIVADO. LIBERDADE DE PREÇOS DOS SERVIÇOS PORTUÁRIOS.
+INTELECÇÃO DO ARTIGO 3º, VI, DA LEI N. 12.815/2013. SERVIÇO COMPLEXO E DE ALTO CUSTO, CONFORME DEFINE A PRÓPRIA AGÊNCIA NACIONAL DE TRANSPORTES AQUAVIÁRIOS (ANTAQ), QUE FISCALIZA A ATIVIDADE. AUSÊNCIA, ADEMAIS, DE QUALQUER INDÍCIO QUANTO À EFETIVA ABUSIVIDADE.
+A Resolução n. 3.274/2014, da ANTAQ, em seu artigo 3º, VII, dispõe: "A Autoridade Portuária, o arrendatário, o autorizatário e o operador portuário devem observar permanentemente, sem prejuízo de outras obrigações constantes da regulamentação aplicável e dos respectivos contratos, as seguintes condições mínimas:  .. ; VII - modicidade, adotando tarifas ou preços em bases justas, transparentes e não discriminatórias aos usuários e que re itam a complexidade e os custos das atividades, observando as tarifas ou preços-teto, desde que estabelecidos pela ANTAQ.
+SUCUMBÊNCIA RECURSAL. NOVO REVÉS DA AUTORA/RECONVINDA QUE IMPÕE A MAJORAÇÃO DO ÔNUS DA SUCUMBÊNCIA, NA FORMA DO ART. 85, § 11º, DO CPC.
+RECURSO CONHECIDO E DESPROVIDO."
+Em suas razões, o recorrente aponta, ofensa ao art. 31,§§1º e 2º do Decreto-Lei nº 1.455/76. Para tanto, sustenta, em síntese, que a União, por intermédio da Receita Federal, é a responsável pelo pagamento das tarifas de armazenagem supostamente devidas à recorrida.
+É o relatório.
+Consoante análise dos autos, verifica-se tratar-se de ação declaratória de inexistência de débito que discute a responsabilização da Receita Federal pelas despesas de armazenagem de carga, matéria cuja competência é da Primeira Seção e de suas respectivas Turmas, conforme o disposto no art. 9º, § 1º, VII, do Regimento Interno do Superior Tribunal de Justiça e o seguinte precedente:
+TRIBUTÁRIO E PROCESSO CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 535 DO CPC. INEXISTÊNCIA DE VIOLAÇÃO. CARACTERIZADA A RETENÇÃO INDEVIDA DE MERCADORIA. RESPONSABILIDADE PELAS DESPESAS DE ARMAZENAGEM E DEMURRAGE. SÚMULA 7/STJ.
+1. Não viola o art. 535, II, do CPC o acórdão que decide de forma suficientemente fundamentada, não estando a Corte de origem obrigada a emitir juízo de valor expresso a respeito de todas as teses e dispositivos legais invocados pelas partes.
+2. O Tribunal de origem, à luz do contexto fático-probatório, afirmou que a retenção das mercadorias foi indevida e que, por essa razão, "as despesas portuárias com armazenagem e demurrage (sobreestadia de containers) devem ser suportadas pela ré, eis que referidas mercadorias permaneceram retidas em virtude de ordem de reclassificação que não se coadunava com sua a natureza".
+3. Infirmar o entendimento a que chegou a Corte a quo, de modo a albergar as peculiaridades do caso e verificar se a Fazenda não deu causa à armazenagem indevida a ponto de gerar danos à sociedade recorrida, enseja o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em sede de recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+4. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no REsp n. 1.532.249/SC, relator Ministro Og Fernandes, Segunda Turma, julgado em 22/9/2015, DJe de 16/10/2015.)
+Ante o exposto, determino sejam os autos encaminhados para redistribuição a um dos eminentes Ministros integrantes das Turmas que compõem a Primeira Seção.
+Publique-se.
