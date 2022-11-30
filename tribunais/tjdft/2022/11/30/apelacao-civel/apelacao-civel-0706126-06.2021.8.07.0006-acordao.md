@@ -1,0 +1,520 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+
+5ª Turma Cível
+
+Processo N.
+APELAÇÃO CÍVEL 0706126-06.2021.8.07.0006
+
+APELANTE(S)
+BRB BANCO DE BRASILIA S.A. e BENIGNA MARIA DE LEMOS MARQUES
+
+APELADO(S)
+BENIGNA MARIA DE LEMOS MARQUES e BRB BANCO DE BRASILIA S.A.
+
+Relator
+Desembargador FÁBIO EDUARDO MARQUES
+
+Acórdão Nº
+1646600
+
+EMENTA
+
+APELAÇÃO CÍVEL. CONSUMIDOR. CARTÃO DE BANCO. GOLPE DO MOTOBOY. UTILIZAÇÃO PARA COMPRAS, DÉBITOS E OPERAÇÕES DE CRÉDITO. NEGLIGÊNCIA DO CONSUMIDOR. CONCOMITANTE DEFEITO NA PRESTAÇÃO DOS SERVIÇOS BANCÁRIOS. CONCORRÊNCIA DE CONDUTAS. REPARAÇÃO DO DANO MATERIAL. MITIGAÇÃO DA INDENIZAÇÃO.
+
+1. Há responsabilidade das instituições financeiras pelos serviços defeituosos na relação de consumo, salvo quando demonstrada a culpa exclusiva do consumidor ou de terceiros.
+
+2. Quando contestadas as transações feitas com o cartão do banco e mediante uso de senha pessoal do correntista, incumbe ao consumidor provar que a instituição financeira agiu com negligência, imprudência ou imperícia ao efetivar a entrega de numerário a terceiros. De outro lado, a instituição financeira pode incorrer em falha da prestação de serviço quando, em parceria com o restante da cadeia de fornecedores do serviço, não verifica a idoneidade das operações com o cartão magnético, nem se utiliza de meios que dificultem ou impossibilitem fraudes e transações por pessoas estranhas em nome de seu cliente, independentemente de qualquer ato do consumidor.
+
+3. Em harmonia com a jurisprudência do Superior Tribunal de Justiça (REsp 1.995.458/SP), “sendo o consumidor vítima de golpe de estelionatário por negligenciar os cuidados com cartão e senha e sendo banco complacente com transações que fogem completamente do padrão de consumo do correntista, existe conduta concorrente para ocorrência do evento danoso”. Sucede daí a mitigação da indenização e divisão do prejuízo.
+
+4. Sem olvidar a concorrência de conduta do cliente para o dano, inviável o deferimento do pedido de compensação por dano moral quando está vinculado apenas a operações indevidas sem outras particularidades, de vez que isso implica lesão tão só a bens de natureza patrimonial.
+
+5. Apelação do réu conhecida e provida em parte. Apelação da autora conhecida e não provida.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 5ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, FÁBIO EDUARDO MARQUES - Relator, JOÃO LUIS FISCHER DIAS - 1º Vogal, ANA CANTARINO - 2º Vogal, MARIA IVATÔNIA - 3º Vogal e ESDRAS NEVES - 4º Vogal, sob a Presidência da Senhora Desembargadora ANA CANTARINO, em proferir a seguinte decisão: JULGAMENTO CONFORME O ART. 942 DO CPC: CONHECER. DAR PARCIAL PROVIMENTO À APELAÇÃO DO RÉU. NEGAR PROVIMENTO À APELAÇÃO DA AUTORA. MAIORIA. VENCIDOS A 2ª E O 4º VOGAIS., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 07 de Dezembro de 2022
+
+Desembargador FÁBIO EDUARDO MARQUESRelator
+
+RELATÓRIO
+
+Cuida-se de apelações contra r. sentença (id. 34878549) proferida em ação ajuizada por BENIGNA MARIA DE LEMOS MARQUES em face de BANCO DE BRASÍLIA S.A.
+
+Adoto, em parte o relatório da sentença:
+
+A parte autora informa que, em 15 de janeiro de 2021, recebeu ligação, na qual a pessoa, que se identificou como funcionário do BRB, lhe informou que fora realizada uma tentativa de compra em seu cartão.
+
+Na sequência, foi orientada a cancelar seu cartão.
+
+Diz que entrou em contato com o banco réu, pelo número oficial que consta no verso do cartão, +55 (61) 4003-4004. Que, acreditando estar sendo atendida por funcionário do banco, a parte autora forneceu os dados solicitados.
+
+Posteriormente, por orientação do suposto funcionário do banco, a parte autora entregou seu cartão a um motoboy, enviado para buscá-lo.
+
+A parte autora alega o vício na prestação dos serviços bancários do réu, no tocante à falha na segurança de informações, haja vista a ocorrência do "golpe do motoboy".
+
+A autora narra que os fraudadores, com o uso de seus dados e de cartão, realizaram compras e empréstimos.
+
+Informa que, para não sofrer com juros de mora, quitou junto ao banco os dois empréstimos indevidos realizados pelos fraudadores (Id. Num. 92889026 - Pág. 1), um no valor de R$ 16.083,76 e outro no valor de R$ 13.122,86. Alega, ainda, que pagou o valor de R$ 7.830,00, para quitação de seu cheque especial, também utilizado pelos fraudadores.
+
+A requerente entende que o banco responde objetivamente pela fraude.
+
+Requer a condenação do réu ao pagamento de indenização por danos materiais, no valor de R$ 37.036,62, e por danos morais, no valor de R$ 10.000,00.
+
+O juízo singular reconheceu a responsabilidade da instituição financeira pela fraude perpetrada, condenando-a ao pagamento de R$ 31.282,63 pelo dano material, ao passo que afastou o dano extrapatrimonial e fixou a sucumbência recíproca em 45% para a autora e 55% para a ré.
+
+Recorre a RÉ (id. 34878552).
+
+Relata que o caso é conhecido como “golpe do motoboy”. Sustenta a culpa exclusiva da vítima como meio apto a romper o nexo causal da responsabilidade civil, tendo em vista que a autora repassou seus dados pessoais e senha a terceiros. Destaca que “não foi demonstrado nos autos o vazamento de seus dados pelo banco réu, sendo de conhecimento geral que esses dados são comercializados livremente por criminosos que conseguem comprar dados cadastrais de um grande número de pessoas”. Afirma inaplicável o verbete sumular n. 479 do STJ, porquanto caracterizado fortuito externo. Requer a reforma integral da sentença, com a improcedência dos pedidos iniciais.
+
+Recorre a AUTORA (id. 34878558).
+
+Pretende a compensação por dano moral, “pois os lançamentos indevidos em sua conta corrente, assim como os vários empréstimos firmados, sem a sua anuência, reduziram seus recursos financeiros em momentos incertos como os vividos atualmente, causando-lhe graves transtornos.”
+
+Ausentes as contrarrazões (id. 34878563).
+
+É o relatório.
+
+VOTOS
+
+O Senhor Desembargador FÁBIO EDUARDO MARQUES - Relator
+
+Presentes os pressupostos de admissibilidade, conheço da apelação principal e do recurso adesivo da autora.
+
+Cinge-se a controvérsia recursal em aferir se há responsabilidade civil da instituição financeira quando o seu correntista é vítima do denominado “golpe do motoboy”.
+
+O procedimento tornou-se prática criminosa rotineira no Brasil. Trata-se de esquema ardiloso, em que um terceiro realiza contato telefônico com a vítima, informando-lhe a clonagem ou algum outro problema com o seu cartão bancário. A pretexto de segurança, o fraudador solicita que o correntista forneça sua senha pessoal e lhe avisa que um motoboy buscará o cartão na residência. Por vezes, em seguida ao contato o estelionatário mantém a linha da vítima presa e, quando esta tenta ligação para a central de atendimento ao cliente, outro fraudador atente e se faz passar pelo funcionário do banco. De qualquer forma, iludida, a vítima providencia todo o aparato para que os criminosos obtenham a vantagem pretendida.
+
+Aplica-se a legislação consumerista à relação entre o banco e cliente, nos termos do enunciado da Súmula n. 297 do STJ. A esse respeito, o Tema Repetitivo 466 também consolidado no enunciado da Súmula n. 479, ambos do STJ, proclama a tese firmada, segundo a qual “As instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias”.
+
+Enfim, na relação de consumo, os riscos do negócio e da atividade competem sempre ao fornecedor do serviço quando se trata de fortuito interno, porque, mesmo inevitável e imprevisível, nesse âmbito o fato está ligado à própria atividade do fornecedor. Mas no caso de fortuito externo, ou seja, aquele fato estranho à organização ou à atividade do fornecedor, a situação é diferente porque, então, o fornecedor do serviço não tem de suportar os riscos, sendo isso apto para excluir a responsabilidade objetiva, nos termos do art. 14, § 3º, II, do CDC. Ademais, consoante o art. 14, § 3º, I, do CDC, o defeito do serviço é pressuposto indispensável para a responsabilidade, de maneira que, se não houver defeito, não haverá nexo de causalidade entre o dano do consumidor e a ação do fornecedor.
+
+Sucede que o dever de segurança consiste na exigência de que produtos ou serviços ofertados no mercado ofereçam a confiança neles esperada. Desse modo, o referido dever traz noção que abrange tanto a integridade psicofísica do consumidor quanto sua integridade patrimonial. (MIRAGEM, Bruno. Tendências da responsabilidade das instituições financeiras por danos ao consumidor. Revista de Direito do Consumidor. Col. 87, 2013, p. 51 - 91).
+
+Todavia, a despeito de haver responsabilidade objetiva das instituições financeiras, a condenação pelo dano ocorrido na relação de consumo pode ser afastada integral ou parcialmente, quando a vítima fornece, voluntariamente, sua senha pessoal em conjunto com o cartão do banco. Assim, quando evidenciadas falhas exclusivas do correntista, por ação ou omissão, demonstrando que se descuidou do dever de guarda de seus dados sigilosos, impõe-se a ele a responsabilidade pelos riscos de sua conduta negligente, imprudente ou imperita.
+
+Então, nessa hipótese, o consumidor é quem terá a incumbência de provar a negligência, imprudência ou imperícia da instituição financeira ao efetivar a entrega de numerário a terceiros, sem olvidar-se, por outro lado, o dever de segurança inerente à instituição financeira que pode incorrer em falha da prestação de serviço quando, em parceria com o restante da cadeia de fornecedores do serviço, não verifica a idoneidade de operação realizada com cartão magnético, nem se utiliza de meios que dificultem ou impossibilitem fraudes e transações por estranhos em nome de seus clientes, independentemente de qualquer ato do consumidor.
+
+Com efeito, o Superior Tribunal de Justiça há muito proclama que é incumbência do consumidor comprovar que a instituição financeira agiu com negligência, imprudência ou imperícia ao efetivar a entrega de numerário a terceiros, senão vejamos o seguinte aresto:
+
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INSTITUIÇÃO BANCÁRIA. SAQUES. COMPRAS A CRÉDITO. CONTRAÇÃO DE EMPRÉSTIMO PESSOAL. CONTESTAÇÃO. USO DO CARTÃO ORIGINAL E DA SENHA PESSOAL DO CORRENTISTA. PRESTAÇÃO DE SERVIÇO. DEFEITO. INEXISTÊNCIA. RESPONSABILIDADE AFASTADA. 1. Recurso especial julgado com base no Código de Processo Civil de 1973 (cf. Enunciados Administrativos nºs 2 e 3/STJ). 2. Controvérsia limitada a definir se a instituição financeira deve responder por danos decorrentes de operações bancárias que, embora contestadas pelo correntista, foram realizadas com o uso de cartão magnético com "chip" e da senha pessoal. 3. De acordo com a jurisprudência do Superior Tribunal de Justiça, a responsabilidade da instituição financeira deve ser afastada quando o evento danoso decorre de transações que, embora contestadas, são realizadas com a apresentação física do cartão original e mediante uso de senha pessoal do correntista. 4. Hipótese em que as conclusões da perícia oficial atestaram a inexistência de indícios de ter sido o cartão do autor alvo de fraude ou ação criminosa, bem como que todas as transações contestadas foram realizadas com o cartão original e mediante uso de senha pessoal do correntista. 5. O cartão magnético e a respectiva senha são de uso exclusivo do correntista, que deve tomar as devidas cautelas para impedir que terceiros tenham acesso a eles. 6. Demonstrado na perícia que as transações contestadas foram feitas com o cartão original e mediante uso de senha pessoal do correntista, passa a ser do consumidor a incumbência de comprovar que a instituição financeira agiu com negligência, imprudência ou imperícia ao efetivar a entrega de numerário a terceiros. Precedentes. 7. Recurso especial provido. (REsp n. 1.633.785/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 24/10/2017, DJe de 30/10/2017. Grifado)
+
+Nesse mesmo sentido: AgInt no REsp n. 1.855.695/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 24/8/2020; AgInt no AREsp n. 1.626.902/MG, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 31/8/2020; AgInt no AREsp n. 1.816.546/PB, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 22/11/2021.
+
+Contudo, aquela Corte Superior já admitiu que “Para a ocorrência do evento danoso, isto é, o êxito do estelionato, necessária concorrência de causas: (i) por parte do consumidor, ao fornecer o cartão magnético e a senha pessoal ao estelionatário, bem como (ii) por parte do banco, ao violar o seu dever de segurança por não criar mecanismos que obstem transações bancárias com aparência de ilegalidade por destoarem do perfil de compra do consumidor.” E, eventualmente, se o consumidor é pessoa idosa, a imputação de responsabilidade deve observar o Estatuto do Idoso e da Convenção Interamericana sobre a Proteção do Direitos Humanos dos Idosos, sempre considerando a peculiar situação de consumidor hipervulnerável.
+
+Prossegue o citado aresto (REsp 1.995.458/SP) salientando que “No tocante à identificação de possíveis fraudes, normalmente são consideradas compras que fogem ao perfil do cliente e ao seu padrão de consumo, horário e local em que as operações são realizadas, intervalo de tempo entre uma e outra transação, sequência de operações realizadas em um mesmo equipamento, compras de valores ínfimos realizadas em momento imediatamente anterior, enfim, diversas circunstâncias que, conjugadas, tornam possível ao fornecedor do serviço identificar se determinada transação deve ou não ser validada.”
+
+Vejamos, portanto, a ementa do julgado no STJ:
+
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIBILIDADE DE DÉBITO. CONSUMIDOR. GOLPE DO MOTOBOY. RESPONSABILIDADE CIVIL. USO DE CARTÃO E SENHA. DEVER DE SEGURANÇA. FALHA NA PRESTAÇÃO DE SERVIÇO. 1. Ação declaratória de inexigibilidade de débito. 2. Recurso especial interposto em 16/08/2021. Concluso ao gabinete em 25/04/2022. 3. O propósito recursal consiste em perquirir se existe falha na prestação do serviço bancário quando o correntista é vítima do golpe do motoboy. 4. Ainda que produtos e serviços possam oferecer riscos, estes não podem ser excessivos ou potencializados por falhas na atividade econômica desenvolvida pelo fornecedor. 5. Se as transações contestadas forem feitas com o cartão original e mediante uso de senha pessoal do correntista, passa a ser do consumidor a incumbência de comprovar que a instituição financeira agiu com negligência, imprudência ou imperícia ao efetivar a entrega de numerário a terceiros. Precedentes. 6. A jurisprudência deste STJ consigna que o fato de as compras terem sido realizadas no lapso existente entre o furto e a comunicação ao banco não afasta a responsabilidade da instituição financeira. Precedentes. 7. Cabe às administradoras, em parceria com o restante da cadeia de fornecedores do serviço (proprietárias das bandeiras, adquirentes e estabelecimentos comerciais), a verificação da idoneidade das compras realizadas com cartões magnéticos, utilizando-se de meios que dificultem ou impossibilitem fraudes e transações realizadas por estranhos em nome de seus clientes, independentemente de qualquer ato do consumidor, tenha ou não ocorrido roubo ou furto. Precedentes. 8. A vulnerabilidade do sistema bancário, que admite operações totalmente atípicas em relação ao padrão de consumo dos consumidores, viola o dever de segurança que cabe às instituições financeiras e, por conseguinte, incorre em falha da prestação de serviço. 9. Para a ocorrência do evento danoso, isto é, o êxito do estelionato, necessária concorrência de causas: (i) por parte do consumidor, ao fornecer o cartão magnético e a senha pessoal ao estelionatário, bem como (ii) por parte do banco, ao violar o seu dever de segurança por não criar mecanismos que obstem transações bancárias com aparência de ilegalidade por destoarem do perfil de compra do consumidor. 10. Na hipótese, contudo, verifica-se que o consumidor é pessoa idosa, razão pela qual a imputação de responsabilidade há de ser feita sob as luzes do Estatuto do Idoso e da Convenção Interamericana sobre a Proteção dos Direitos Humanos dos Idosos, sempre considerando a sua peculiar situação de consumidor hipervulnerável. 11. Recurso especial provido. (REsp n. 1.995.458/SP, relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 9/8/2022, DJe de 18/8/2022. Grifado)
+
+Nessa direção, já decidiu esta Corte em caso de conduta concorrente de correntista e do banco para o dano:
+
+APELAÇÕES CÍVEIS. FRAUDE BANCÁRIA. CONSUMIDOR. GOLPE DO MOTOBOY. RESPONSABILIDADE. INSTITUIÇÃO FINANCEIRA. FALHA NOS SISTEMAS DE CONTROLE. AUSÊNCIA DE DETECÇÃO DE FRAUDES. CULPA CONCORRENTE. RECONHECIMENTO. DANOS MORAIS. INDEVIDOS. SENTENÇA PARCIALMENTE REFORMADA. 1. Tratando-se de relação jurídica disciplinada pelo Código de Defesa do Consumidor, afigura-se inafastável a responsabilidade dos fornecedores participantes da cadeia de consumo por eventuais danos que seus produtos e serviços causem ao consumidor. 2. Presente o defeito na prestação do serviço ante o conhecimento por estelionatários de informações mantidas pelo réu e, igualmente, pelo fato de não ter cumprido seu dever de identificar os gastos fora do perfil do cliente, por meio de sistemas capazes de oferecer a segurança necessária ao consumidor, de tal modo a não ser possível excluir a responsabilidade pelos gastos fraudulentos no cartão de crédito/débito da parte autora. 3. A responsabilidade de guarda do cartão bancário e, principalmente, o sigilo da senha, é de responsabilidade pessoal do consumidor e, em razão do conjunto-fático probatório, a demandante concorreu de forma efetiva para a prática dos gastos realizados de forma fraudulenta em seu cartão de crédito/débito, visto que entregou o seu cartão a terceiros, razão pela qual entendo pela responsabilidade concorrente das partes quanto ao evento danoso em questão. 4. Ausente qualquer comprovação pela parte ré acerca da idoneidade do empréstimo contratado, bem como da adoção de condutas diligentes acerca da verificação de veracidade e aquiescência da referida contratação pela autora, reputo incabível a responsabilização da autora quanto à referida contratação, tampouco sua manutenção nos termos contratados.  5. O reconhecimento da culpa concorrente, por si só, é excludente de danos morais. Em que pese o infortúnio sofrido pela autora, certo é que sua conduta concorreu para a ocorrência do resultado danoso, não sendo possível a caracterização de danos morais imputáveis à empresa ré. 6. Recursos conhecidos. Recurso da autora parcialmente provido. Recurso do banco réu parcialmente provido. (APC 0703712-96.2021.8.07.0018, Rel. Desa. Gislene Pinheiro, 7ª Turma Cível, data de julgamento: 20/4/2022, publicado no DJE: 3/5/2022)
+
+No caso, é incontroversa a fraude praticada por terceiro que, fazendo-se passar por preposto da instituição financeira, logrou acesso ao cartão da parte para transações e compras. Igualmente incontroverso que a consumidora entregou a senha e o cartão do banco que viabilizou o seu próprio prejuízo.
+
+É dizer, não há prova de que os dados bancários foram vazados a terceiro por intermédio de preposto do banco, tampouco que algum funcionário da instituição financeiro tenha participado da fraude e causado o dano.
+
+Claro está que o consumidor deveria acautelar-se antes de entregar o seu cartão da conta bancária, verificando diretamente junto à sua agência sobre a veracidade dos fatos.
+
+Verifica-se, ao contrário, que os autos não refutam o repasse indevido a terceiro do cartão vinculado à conta, sem a suficiente averiguação sobre a veracidade e autenticidade das informações recebidas por ligação telefônica.
+
+Por esse prisma, é inaplicável a Súmula 479 do Superior Tribunal de Justiça, que se restringe ao fortuito interno.
+
+De mais a mais, não se tratava de consumidor hipervulnerável porquanto à época dos fatos a parte lesada tinha 57 anos de idade, afastando as normas de tutela ao idoso.
+
+De outro lado, o consumidor demonstrou as operações que refletem defeito na prestação do serviço do banco.
+
+Consta operação de crédito em 15/01/2021 no valor de R$ 15.957,07, e outra em 18/01/2021 no valor de R$ 13.026,25, além de diversas compras, débitos e saques entre os dias 15 e 18/01/2021, fugindo ao perfil do cliente do banco, ao que consta pelos extratos anexados aos autos, sem que o banco tenha exibido prova em contrário, pois reitera simplesmente que a responsabilidade é exclusiva do cliente pela posse e guarda do cartão, da senha e identificação, sendo realizadas as transações de modo presencial com a autenticação pelo chip do cartão.
+
+Nesse quadro, cumpre reconhecer as condutas concorrentes do consumidor e da instituição financeira, a fim de repartir o dano material e atribuir a cada um 50% do valor.
+
+Já a reparação por dano moral fica indeferida apenas considerando a concorrência de conduta do cliente.
+
+De qualquer sorte, nas hipóteses de saque indevido em conta corrente não se admite presunção, devendo ficar demonstrada a ocorrência de violação significativa do direito da personalidade, senão vejamos o julgado da Corte Superior:
+
+RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. SAQUE INDEVIDO DE NUMERÁRIO NA CONTA CORRENTE DO AUTOR. RESSARCIMENTO DOS VALORES PELA INSTITUIÇÃO BANCÁRIA. AUSÊNCIA DE DANO MORAL IN RE IPSA. TRIBUNAL DE ORIGEM QUE, DIANTE DAS PECULIARIDADES DO CASO, AFASTOU A OCORRÊNCIA DE DANO EXTRAPATRIMONIAL. MANUTENÇÃO DO ACÓRDÃO RECORRIDO. RECURSO DESPROVIDO. 1. O saque indevido de numerário em conta corrente não configura dano moral in re ipsa (presumido), podendo, contudo, observadas as particularidades do caso, ficar caracterizado o respectivo dano se demonstrada a ocorrência de violação significativa a algum direito da personalidade do correntista. 2. Na hipótese, o Tribunal de origem consignou, diante do conjunto fático-probatório dos autos, que o autor não demonstrou qualquer excepcionalidade a justificar a compensação por danos morais, razão pela qual nada há a ser modificado no acórdão recorrido. 3. Recurso especial desprovido. (REsp 1.573.859/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 07/11/2017, DJe 13/11/2017. Sublinhado)
+
+Importa acentuar que, atingido o direito da personalidade diretamente, o dano moral (puro ou direto) estará vinculado à própria existência do fato (in re ipsa), cujos resultados são presumidos, ao contrário de quando é atingido o direito da personalidade mediante lesão a bens de natureza patrimonial (dano moral impuro ou indireto).
+
+Desse modo, inviável o deferimento do pedido de compensação por dano moral quando está vinculado apenas a operações indevidas sem outras particularidades, de vez que isso implica lesão tão só a bens de natureza patrimonial.
+
+Ante o exposto, a sentença deve ser reformada para julgar procedente em parte os pedidos iniciais e condenar o réu ao pagamento da metade do dano material sofrido pela autora, equivalente a R$ 15.641,31, corrigidos desde o desembolso em 27/01/2021 e acrescidos de juros de mora de 1% ao mês a contar da citação. Em decorrência, o ônus de sucumbência deve ser redistribuído segundo o número de pedidos (dois) e proporcionalidade do decaimento em cada um deles, cabendo à parte autora, portanto, o pagamento de 75% das custas processuais e dos honorários advocatícios, arbitrados em 10% do valor da condenação, e ao réu o restante.
+
+Dou parcial provimento à apelação do réu.
+
+Nego provimento à apelação da autora
+
+Majoro em 1% os honorários devidos pela parte autora, consoante a regra do art. 85, § 11, do CPC.
+
+É como voto.
+
+O Senhor Desembargador JOÃO LUIS FISCHER DIAS - 1º Vogal Com o relator
+
+A Senhora Desembargadora ANA CANTARINO - 2º Vogal
+Conheço dos recursos, presentes que se encontram os pressupostos de admissibilidade.
+
+Cuida-se de apelação e recurso adesivo interpostos, respectivamente, pelo réu, BRB BANCO DE BRASÍLIA S/A, e pela autora, BENIGNA MARIA DE LEMOS MARQUES, contra sentença que, em sede de ação declaratória de inexistência de débito c/c indenização por danos materiais e morais, na qual se alegou que a autora teria sido vítima de fraude conhecida como “golpe do motoboy”, julgou parcialmente procedentes os pedidos, para “condenar a parte ré a pagar à parte autora o valor de R$ 31.282,63, a título de reparação de dano material, devidamente corrigido pelo INPC, desde a data do desembolso (27.01.2021)” (ID 34878549), restando improcedente o pedido de indenização por danos morais.
+
+Apela o banco réu, requerendo a reforma da sentença, para julgar “improcedentes os pedidos inaugurais, porque o apelado contraiu empréstimos e deve, por consequência, cumpri-los na forma pactuada, a fim de que não haja infringência do princípio do pacta sunt servanda” (ID 34878552).
+
+Por sua vez, apela adesivamente a autora, requerendo a procedência do pedido de indenização por danos morais, “para assim ser fixado na forma requerida na peça vestibular do presente feito” (ID  34878558).
+
+Principio analisando o apelo do banco réu.
+
+A controvérsia cinge-se em verificar se existe conduta ilícita que implique reconhecimento da responsabilidade da instituição financeira ré em relação às operações bancárias realizadas na conta corrente da autora, e se o fato ocorreu por culpa exclusiva da parte autora ou de terceiros.
+
+Importa salientar, de início, que o Código de Defesa do Consumidor é aplicável ao caso, uma vez que a autora é correntista do banco e figura como destinatária final dos serviços prestados pela instituição financeira ré.
+
+Ressalte-se que a responsabilidade do banco réu é objetiva e independe de demonstração de culpa, de forma que somente restará afastada nas hipóteses de comprovação de inexistência de defeito do serviço, ou ainda, quando houver exclusiva culpa do consumidor, nos termos dos incisos I e II do § 3º do artigo 14 do Código de Defesa do Consumidor.
+
+O Enunciado 479 do Superior Tribunal de Justiça estabelece que "as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias", reconhecendo, assim, a possibilidade de se atribuir responsabilidade civil às instituições financeiras ante os atos praticados por terceiros em face do consumidor.
+
+Na hipótese dos autos, a autora aduziu ter recebido uma ligação telefônica de pessoa que se passava por funcionário do BRB informando acerca de uma compra com cartão de débito realizada em Planaltina/DF, e que, se a autora não reconhecesse a compra, deveria bloquear o cartão. Acrescenta que, logo em seguida, discou para o número constante no verso do plástico, informou os dados do cartão e a senha, e foi orientada a entregar o cartão a suposto funcionário da instituição financeira, que passaria em sua residência para buscá-lo.
+
+No boletim de ocorrência no ID 34877098, a autora ratificou o ocorrido e declarou que seu cartão de crédito foi entregue para pessoa identificada como funcionário da instituição financeira.
+
+Pois bem. É entendimento público e notório que o cartão de crédito é documento pessoal e intransferível; que a senha de uso do cartão não deve ser informada a terceiros; e que as instituições financeiras não enviam funcionários à residência do correntista para recolher nenhum tipo de documento, sendo que tal comodidade só ocorre em situações específicas para prestar um serviço, e desde que a pedido do próprio correntista, a exemplo de entrega de talonário de cheques.
+
+No caso concreto, ainda que a senha tenha sido informada num contexto de ligação telefônica, em que a autora acreditava estar falando com funcionário do BRB, verifica-se que ela agiu com negligência, sem observar o necessário dever de cuidado, ao entregar a via física do cartão de crédito.
+
+Assim agindo, a autora deu causa a que compras e empréstimos fossem realizados mediante uso de sua senha pessoal e apresentação da via física de seu cartão de crédito.
+
+É certo que as instituições financeiras devem se cercar de cuidado e segurança, bem como buscar constante inovação tecnológica para que situações de fraude sejam minimizadas. Todavia, em um país de dimensões continentais, no qual o cartão de crédito configura uma das principais formas de pagamento utilizada por milhões de pessoas, cabe ao titular do cartão adotar as condutas que estiverem ao seu alcance para prevenir prejuízos, o que inclui não fornecer sua senha e muito menos emprestar ou fornecer a via de seu cartão para terceiros.
+
+Nas próprias agências bancárias, é usual a anexação de cartazes informando que, mesmo nas dependências do banco, o correntista não deve aceitar a “ajuda de estranhos”.
+
+Desse modo, considerando que as transações reputadas fraudulentas foram realizadas com a utilização da via física do cartão da parte autora, além da senha pessoal e intransferível, não se vislumbra a ocorrência de falha na prestação do serviço por parte do banco réu, estando ausente, portanto, prova de conduta ilícita por este praticada.
+
+ No poderia o banco evitar, além do que fez, a ação do estelionatário, uma vez que os dados bancários sigilosos, assim como o cartão, foram repassados pela própria autora.
+
+Comprovada a culpa exclusiva da autora, deve ser afastada a aplicação do Enunciado n. 479 da Súmula do Superior Tribunal de Justiça, incidindo a excludente de responsabilidade prevista no art.14 § 3º, inc. II, do Código de Defesa do Consumidor.
+
+Oportuno ressaltar que a autora foi vítima de fraude e sofreu prejuízos. No entanto, a responsabilidade por tal fato não pode ser imputada ao banco, visto que ausente prova de que o banco tenha praticado alguma conduta capaz de causar os danos.
+
+Do mesmo modo, não logrou a autora demonstrar que os dados pessoais mantidos pelos falsários tenham sido fornecidos por qualquer preposto do banco réu, ou mesmo que houve falhas nos sistemas de segurança da instituição. Atualmente, com a evolução tecnológica, a criação de redes sociais e o incremento de plataformas de e-commerce, tem-se avolumado o número de aplicativos e sites que capturam informações pessoais de seus usuários, não restando comprovado, indene de dúvidas, que o acesso aos dados pessoais da autora tenha partido do banco.
+
+A jurisprudência do Superior Tribunal de Justiça firmou-se no sentido de que é responsabilidade do correntista agir com zelo e cuidado na guarda do cartão e dos respectivos dados, não podendo a instituição financeira ser responsabilizada por operações bancárias realizadas por terceiro que teve acesso à via do cartão e à senha de uso pessoal por negligência do correntista.
+
+Confira-se:
+
+“CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONSUMIDOR QUE FORNECEU O CARTÃO BANCÁRIO E A SENHA A TERCEIRO MEDIANTE PRÁTICA DE ESTELIONATO. FALHA NA PRESTAÇÃO DE SERVIÇO NÃO CONFIGURADA. ACÓRDÃO ESTADUAL QUE DECIDIU COM BASE NAS PROVAS DOS AUTOS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+
+2. A eg. Segunda Seção do Superior Tribunal de Justiça firmou o entendimento, sob o rito do art. 543-C do CPC/1973, de que "as instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno" (REsp 1.197.929/PR, Rel. Ministro LUIS FELIPE SALOMÃO, DJe 12/9/2011).
+
+3. No caso, após acurada análise do conteúdo fático-probatório dos autos, o Tribunal estadual concluiu que o recorrente foi vítima de golpe perpetrado por estelionatário que se valeu da sua confiança para tomar posse do cartão de crédito e de sua senha, de uso pessoal e intransferível, para efetuar os saques, subsumindo a hipótese, portanto, à exceção prevista no § 3º do art. 14 do CDC, no sentido de que o fornecedor de serviços não será responsabilizado quando provar a existência de culpa exclusiva do consumidor ou de terceiro.
+
+4. A revisão do julgado com o consequente acolhimento da tese recursal a fim de reconhecer a existência de falha na prestação do serviço pelo recorrido, demandaria o revolvimento das premissas fáticas delineadas nos autos, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+
+6. Agravo interno não provido.” (AgInt no REsp n. 1.914.255/AL, relator Ministro Moura Ribeiro, Terceira Turma, julgado em 10/5/2021, DJe de 13/5/2021.);
+
+“AGRAVO  INTERNO  NO  AGRAVO  EM  RECURSO  ESPECIAL. FRAUDE BANCÁRIA. CARTÃO  MAGNÉTICO.  SENHA. FORNECIMENTO PELO CORRENTISTA. UTILIZAÇÃO INDEVIDA POR TERCEIROS. CULPA EXCLUSIVA DA VÍTIMA. PROVA. VALORAÇÃO. PRETENSÃO.  REEXAME.  SÚMULA N. 7/STJ. MULTA DIÁRIA. ART. 461, § 4º, DO  CPC/73.  SENTENÇA DE IMPROCEDÊNCIA. MULTA NÃO DEVIDA. AGRAVO NÃO PROVIDO.
+
+1.  "Conforme precedentes desta Corte, em relação ao uso do serviço de conta-corrente fornecido  pelas instituições bancárias, cabe ao correntista  cuidar pessoalmente da guarda de seu cartão magnético e sigilo  de  sua  senha  pessoal no momento em que deles faz uso. Não pode ceder o cartão a quem quer que seja, muito menos fornecer sua senha a terceiros. Ao agir dessa forma, passa a assumir os riscos de sua conduta, que contribui, à toda evidência, para que seja vítima de fraudadores e estelionatários." (RESP   602680/BA,   Rel.   Ministro   FERNANDO  GONÇALVES,  DJU  de 16.11.2004;  RESP  417835/AL, Rel. Ministro ALDIR PASSARINHO JÚNIOR, DJU de 19.8.2002).” (AgInt no AREsp 1295277/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/10/2018, DJe 30/10/2018);
+
+“RESPONSABILIDADE CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. (...) FALHA NA PRESTAÇÃO DE SERVIÇO BANCÁRIO NÃO CONFIGURADA. DANOS MATERIAIS E MORAIS NÃO COMPROVADOS. CONSUMIDOR QUE FORNECEU SEU CARTÃO BANCÁRIO A TERCEIROS. ACÓRDÃO ESTADUAL QUE DECIDIU COM BASE NAS PROVAS DOS AUTOS ALINHADO À JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DAS SÚMULAS NºS 7 E 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+
+(...) 3. A responsabilidade objetiva do banco foi afastada pelo Tribunal de origem com base nas provas apresentadas nos autos no sentido de que o evento danoso alegado pelo recorrente decorreu de sua exclusiva e única culpa ao fornecer seu cartão bancário e senha a terceiros, e não da falha na prestação de serviço da instituição bancária. A revisão desse entendimento, no âmbito do recurso especial, é obstada pela Súmula nº 7 do STJ.
+
+4. Esta Corte possui entendimento de que, no uso do serviço de conta corrente fornecido pelas instituições bancárias, é dever do correntista cuidar pessoalmente da guarda de seu cartão magnético e sigilo de sua senha pessoal no momento em que deles faz uso, sob pena de assumir os riscos de sua conduta negligente. No caso, o Tribunal estadual decidiu alinhado à jurisprudência do STJ. Incide a Súmula nº 83 do STJ.” (AgInt nos EDcl no REsp 1612178/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/05/2017, DJe 05/06/2017).
+
+Destaco, no mesmo sentido, precedente da Câmara de Uniformização deste Tribunal:
+
+“CONSUMIDOR E PROCESSUAL CIVIL. RECLAMAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. UTILIZAÇÃO INDEVIDA DE CARTÃO DE CRÉDITO E SENHA. USO PESSOAL E INTRANSFERÍVEL. NEGLIGÊNCIA DE CONSUMIDOR. "GOLPE DO MOTOBOY". FALHA NA PRESTAÇÃO DOS SERVIÇOS. INEXISTÊNCIA. FORTUITO INTERNO. INEXISTÊNCIA. CULPA EXCLUSIVA DO CONSUMIDOR E DE TERCEIRO. NÃO APLICAÇÃO DO ENUNCIADO Nº 479/STJ. ACÓRDÃO CASSADO.
+
+1 - Nos termos do art. 14 do Código de Defesa do Consumidor, o fornecedor responde pelos defeitos referentes à prestação dos serviços independentemente de culpa, salvo se comprovar a inexistência do defeito apontado ou culpa exclusiva do consumidor ou de terceiro.
+
+2 - A realidade estampada nos autos denota que as operações bancárias lamentadas decorreram de negligência do consumidor na guarda da senha e do cartão magnético, possibilitando que terceiros deles se utilizassem para lesá-lo, tendo ele caído no denominado "golpe do motoboy", o que não guarda relação com a conduta do banco Reclamante, que não pode ser responsabilizado por situação para a qual não concorreu.
+
+3 - Não se evidenciando que a instituição financeira agiu ou se omitiu de maneira prejudicial ou que incorreu em negligência ou imprudência na prestação de seus serviços, resta afastada a sua responsabilidade pelas transações rejeitadas pelo correntista, realizadas em seu cartão mediante uso de cartão magnético e senha, ambos de uso pessoal e intransferível, e, por conseguinte, não há que se falar na ocorrência de ato ilícito, bem assim em indenização por danos que a ele correspondam. É indubitável, portanto, a não incidência do Enunciado nº 479 da Súmula do STJ para o caso concreto e, por conseguinte, a incompatibilidade do acórdão reclamado com a jurisprudência sumulada do STJ sobre o tema. Reclamação procedente. Maioria.” (Acórdão 1430347, 07377413220218070000, Relator: ANGELO PASSARELI, Câmara de Uniformização, data de julgamento: 20/6/2022, publicado no PJe: 30/6/2022. Pág.:  Sem Página Cadastrada.).
+
+Noutro giro, mesmo que se analise o caso concreto sob o prisma de um acórdão recente do STJ (REsp 1995458 / SP), que atribuiu à instituição financeira culpa concorrente por não criar mecanismos que obstem transações bancárias destoantes do perfil de consumo do correntista, deve-se ponderar que, no presente feito, a consumidora autora sequer demonstrou qual seria seu perfil de consumo, pois se limitou a juntar extrato bancário de apenas um mês (18/12/2020 a 18/01/2021 - ID 34877104), sendo que as transações reputadas fraudulentas teriam ocorrido entre os dias 15 e 18/01/2021, de modo que não se tem por demonstrada a falha de segurança do banco.
+
+Outrossim, não se desconhece o teor da Súmula 28 da Turma de Uniformização dos Juizados Especiais do Distrito Federal, nos termos da qual “As instituições financeiras respondem pelos danos decorrentes de fato do serviço nas fraudes bancárias conhecidas como ‘golpe do motoboy’, em que o consumidor, supondo seguir instruções de preposto do banco, e utilizando-se dos instrumentos de comunicação por ele fornecidos, entrega o cartão de crédito/débito a terceiro fraudador que o utiliza em saques e compras”.
+
+No entanto, além de tal entendimento não ostentar caráter vinculante para este Tribunal, a responsabilidade objetiva do banco resta afastada quando as provas apresentadas nos autos demonstram que o evento danoso, alegado pelo cliente, não decorreu de falha na prestação de serviço pela instituição bancária, mas sim, de falha no dever de guarda e zelo do cartão e senha.
+
+Por fim, considerando que o apelo do banco réu está sendo provido com fundamento na ausência de conduta ilícita, julgando-se improcedentes os pedidos aduzidos na inicial, resta evidentemente prejudicado o apelo adesivo da autora, em que se requereu a reforma da sentença para condenar o banco réu a indenização por danos morais.
+
+Ante o exposto, CONHEÇO e DOU PROVIMENTO ao recurso do banco réu para reformar a sentença e julgar improcedentes os pedidos aduzidos na inicial. JULGO PREJUDICADO o apelo adesivo interposto pela autora.
+
+Em vista da sucumbência, condeno a autora ao pagamento das custas e honorários, que fixo em 10% sobre o valor da causa (ID 34877093).
+
+É como voto.
+
+A Senhora Desembargadora MARIA IVATÔNIA - 3º Vogal
+Trata-se, na origem, de ação proposta por BENIGNA MARIA DE LEMOS MARQUES contra BRB BANCO DE BRASILIA S/A, tendo por objeto declaração de inexigibilidade de operações realizadas por terceiros em conta de sua titularidade.
+
+A lide apresentada envolve a ocorrência de fato delituoso popularmente conhecido como “golpe do motoboy”, em que terceiros criminosos, valendo-se de meios ardilosos, aproveitam-se da condição do usuário correntista e de facilidades oferecidas pelos sistemas informatizados bancários para, de posse de cartões ou de dados pessoais, como senhas, realizar compras, saques e empréstimos indevidos em seu nome.
+
+Como consignado pelo eminente Relator, trata-se, em resumo, de golpe engenhoso e complexo bem comumente conhecido como “golpe do motoboy”, em que estelionatários, munidos dos dados pessoais de clientes de instituições bancárias, ligam para o telefone das vítimas (geralmente pessoas idosas) e se passam por funcionários do Banco. Sob pretexto de informá-los quanto a alegada transação fraudulenta, a vítima acredita estar em contato com a instituição financeira pelo número de telefone que aparece no celular, sendo do canal de atendimento do Banco. O estelionatário orienta o cliente a discar para o número constante no verso do cartão e prossegue obtendo os dados pessoais normalmente exigidos nesse tipo de ocorrência, além de induzir a vítima a entregar o cartão para análise pelo setor de segurança. Assim, a vítima, acreditando tomar todas as medidas para cessar a fraude, entrega os cartões ao alegado funcionário do Banco, que se dirige até a residência da vítima e toma posse do cartão. A vítima também é orientada pelo estelionatário a desligar o telefone por algumas horas, como forma de evitar novas tentativas de fraude. Somente um tempo depois, o cliente constata ter sido vítima de golpe e percebe o imenso prejuízo material que sofreu (TJDFT. Acórdão 1347929, 07018556920208079000, Relator: SONÍRIA ROCHA CAMPOS D'ASSUNÇÃO, Relator Designado: JOÃO LUÍS FISCHER DIAS, Turma de Uniformização, data de julgamento: 13/5/2021, publicado no PJe: 9/7/2021).
+
+A relação entre Banco e cliente é, nitidamente, uma relação de consumo (Súmula 297 do Superior Tribunal de Justiça).
+
+De acordo com o art. 14 do Código de Defesa do Consumidor, o fornecedor responde, independentemente de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos.
+
+O serviço é considerado defeituoso quando não fornece a segurança que o consumidor dele pode esperar, levando-se em consideração as circunstâncias relevantes, entre as quais o modo de seu fornecimento, o resultado e os riscos que razoavelmente dele se esperam, e a época em que foi fornecido (art. 14, § 1° do CDC).
+
+Além disso, o fornecedor de serviços só não será responsabilizado quando provar que, tendo prestado o serviço, o defeito inexiste; ou, ainda, a culpa exclusiva do consumidor ou de terceiro (art. 14, § 3° do CDC).
+
+No âmbito das relações bancárias, o Superior Tribunal de Justiça tem entendimento sumulado (Súmula 479/STJ), firmado sob a sistemática de recursos repetitivos (Tema 466/STJ), de que as instituições financeiras respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros — como, por exemplo, abertura de conta-corrente, recebimento de empréstimos mediante fraude ou utilização de documentos falsos —, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno (STJ. REsp 1197929/PR e REsp 1199782/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 24/08/2011, DJe 12/09/2011).
+
+Tal responsabilidade, no entanto, pode ser afastada quando o evento danoso decorre de culpa exclusiva do correntista, envolvendo a disponibilização física do cartão original e de senha de uso pessoal. Nesses casos, a jurisprudência do Superior Tribunal de Justiça reconhece que eventuais transações irregulares geram responsabilidade para o Banco somente se provado ter agido a instituição financeira com negligência, imprudência ou imperícia ao efetivar a entrega de numerário a terceiros, validar compras realizadas com cartão de crédito e débito ou autorizar a contração de empréstimos por meio eletrônico (STJ. REsp 1633785/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/10/2017, DJe 30/10/2017).
+
+Na hipótese dos autos, a autora forneceu os seus dados a terceiro estranho que o abordou mediante contato telefônico com a falsa notícia de transação. Além da entrega do cartão de crédito para terceiro, houve a colheita de dados da correntista com posterior autorização para realização de transações bancárias.
+
+Não há dúvida de que as transações realizadas na conta corrente da autora decorreram de fraude ou de ação criminosa.
+
+Toda fraude pressupõe a utilização de algum subterfúgio para iludir a vítima. O autor da fraude omite informações, ou as fornece de forma errônea, para levar alguém a equívoco e tirar proveito da situação (PINHEIRO, Patrícia Peck. Direito Digital. 4. ed. rev. atual. e ampl. São Paulo: Saraiva, 2010, p. 311).
+
+No caso, como já destacado, houve utilização indevida de informações obtidas de forma ilícita. Acreditando ter sido contatada por funcionário do Banco e seguindo suas instruções, a autora teve seus dados subtraídos por terceiros criminosos que realizaram transações em seu nome.
+
+É indiscutível que a situação teve envolvimento inicial do próprio consumidor, que tinha o dever contratual de guarda dos seus dados e documentos. Afinal, são de uso exclusivo e confidencial do correntista, que deve tomar as devidas cautelas para impedir eventual acesso indevido por terceiros.
+
+É necessário, contudo, avaliar se houve eventual falha de segurança imputável ao requerido, de sorte a evidenciar possível defeito na prestação do serviço por omissão prejudicial, conforme a causa de pedir exposta na inicial e o entendimento jurisprudencial acima consignado.
+
+Sobre essa questão, a realidade estampada nos autos denota que as operações não decorreram somente de conduta do autor, mas também do Banco, que negligenciou nos cuidados antifraude, permitindo que terceiros falsários realizassem transação fora do padrão sem que absolutamente qualquer providência tempestiva fosse tomada, como estava previsto no contrato.
+
+Conforme consignado pelo Relator, foram realizadas mais de vinte transações alcançando valor elevado, compreendendo saques, transferências, empréstimos e compras diversas, todas sucessivas e efetuadas em curto espaço de tempo, conforme demonstram os extratos apresentados (ID 34877099; ID 34877100; ID 34877101; ID 34877104; ID 34878527). Por sua natureza e características, a sequência de operações realizadas são atípicas e destoantes do perfil regular de consumo da correntista, fato que costuma ser detectado pelo sistema de monitoramento do Banco.
+
+As instituições financeiras e demais instituições autorizadas pelo Banco Central do Brasil a funcionar na contratação de operações e na prestação de serviços devem assegurar a integridade, a confiabilidade, a segurança e o sigilo das transações realizadas, bem como a legitimidade das operações contratadas e dos serviços prestados (Resolução CMN 3.694/2009).
+
+As operações bancárias se concretizam por meio de contratos, dos quais, como todo negócio jurídico, resultam direitos e obrigações para as partes envolvidas; e a instituição financeira também tem o dever contratualmente assumido de gerir com segurança as movimentações bancárias de seus clientes, uma vez que se beneficia economicamente dos serviços prestados, sendo, por isso, de se esperar a adoção de mecanismo de salvaguarda contra fraudes.
+
+Devem ser detectadas transações incomuns, e providências devem ser tomadas. Inclusive é recorrente a emissão de um alerta ao cliente pelas instituições financeiras, utilizando-se dos instrumentos de comunicação disponíveis, ou, ainda, por meio da realização de bloqueios.
+
+E de acordo com as condições contratuais, o Banco, por intermédio de sistemas informatizados e de equipe especializada, tinha o dever contratual de monitoramento das transações com o intuito de prevenir fraudes, no que se inclui a checagem da regularidade das operações e dos lançamentos que destoem dos parâmetros de normalidade, até mesmo porque é seu dever o controle de todo o sistema.
+
+No caso, o fato de não terem sido detectadas pelos sistemas de segurança as operações atípicas realizadas, somada à não comprovação de comunicação, confirmação e restrição, denotam evidente inadequação e incorreção a fim de prevenir a fraude perpetrada ou, pelo menos, de minorar os seus efeitos, o que representa acentuada negligência.
+
+Incompreensível, portanto, o motivo pelo qual os mecanismos mencionados no instrumento contratual pela instituição financeira não foram utilizados no caso concreto, ou, pelo menos, nenhuma prova no sentido.
+
+Acrescenta-se ainda que, além de a operação ter ocorrido livremente, a autora imediatamente fez lavrar comunicação de ocorrência policial (ID 34877098) seguida de contestações, consecutivamente levadas ao conhecimento do Banco (ID 34877102; ID 34877103; ID 34878524).
+
+Diante disso, apesar de a autora, induzida pelas circunstâncias, ter sido vítima de ação criminosa alheia à instituição financeira, isso não afasta a responsabilidade do requerido, que, incumbido de zelar pela segurança dos seus sistemas e das operações financeiras de seus clientes, falhou com o dever de comunicação e com o dever de obstar operações que, por suas características, sinalizavam fraude praticada contra a cliente, não tendo observado, nesse contexto, o princípio da boa-fé objetiva e os deveres anexos de informação, segurança e colaboração mútua que são inerentes à relação contratual. E isto caracteriza má prestação de serviços.
+
+Dessa forma, embora BRB BANCO DE BRASILIA S/A não possa ser diretamente responsabilizado pela ação dos criminosos, inafastável a falha de comunicação e a desídia no controle de transações que destoavam do padrão.
+
+Por isto, deve-se reconhecer o ilícito relativo à falha na prestação de serviços, proveniente da deficiência no sistema interno de comunicação e de segurança da instituição financeira, bem evidenciado o nexo de causalidade entre aquela e o prejuízo consumado.
+
+Deve ser ressaltada ainda a circunstância de terceiros terem a posse de dados sensíveis da correntista, aliado à interceptação da ligação telefônica feita ao número oficial do Banco, e que foram essenciais para construir na vítima a crença de que tratava diretamente com um preposto autorizado, fatos não impugnados especificamente pelo apelante, nem diligenciada prova a respeito.
+
+No entanto, conforme reconhecido em casos similares por este TJDFT, se houve falha tanto do cliente, quanto da instituição financeira, cabível o reconhecimento de culpa concorrente, como bem destacado pelo eminente Relator:
+
+“APELAÇÃO CÍVEL. DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. GRATUIDADE DE JUSTIÇA. COMPROVAÇÃO DA HIPOSSUFICIENCIA FINANCEIRA. ILEGITIMIDADE PASSIVA. PRELIMINAR REJEITADA. FRAUDE BANCÁRIA. "GOLPE DO MOTOBOY". CONSUMIDOR. DEVER DE GUARDA DO CARTÃO. RESPONSABILIDADE. BANCO. MECANISMOS DE SEGURANÇA E FISCALIZAÇÃO. OPERAÇÕES ATÍPICAS. MEDIDAS NÃO ADOTADAS. FALHA NA PRESTAÇÃO DO SERVIÇO. EXCLUDENTE DE RESPONSABILIDADE NÃO VERIFICADA. CULPA CONCORRENTE. ATENUAÇÃO DO DEVER DE INDENIZAR. DANO MATERIAL CARACTERIZADO. DANO MORAL NÃO CONFIGURADO. RECURSOS PARCIALMENTE PROVIDOS.
+
+1. A Constituição Federal determina que "o Estado prestará assistência judiciária integral e gratuita aos que comprovarem insuficiência de recursos" (art. 5º, LXXIV). O Código de Processo Civil, por sua vez, prevê que o benefício será concedido à pessoa natural ou jurídica que comprove insuficiência de recursos para pagar as custas, despesas processuais e honorários advocatícios (art. 98, caput do CPC/2015). Nos termos do que tem prevalecido nessa Turma, adotado o critério objetivo estabelecido para atendimento pela Defensoria Pública do Distrito Federal nos termos da Resolução 140, de 24 de junho de 2015, é considerado hipossuficiente aquele que aufere renda familiar bruta mensal de até 5 (cinco) salários mínimos. Gratuidade de justiça mantida.
+
+2. Pela teoria da asserção, pertinência subjetiva da ação é verificada em abstrato e à luz da narrativa apresentada na petição inicial. No caso, trata-se de ação declaratória de inexistência de débito bancário. O autor, vítima da ação de criminosos, imputa à instituição financeira a responsabilidade específica por falha na prestação de serviços de segurança. Assim, resta evidenciada a pertinência subjetiva da ação. Definição sobre configuração de falha na prestação de serviço e atribuição de responsabilidades encerra matéria reservada ao mérito. Alegação de ilegitimidade passiva rejeitada. 3. A relação entre Banco e cliente é, nitidamente, uma relação de consumo, nos termos da Súmula 297 do Superior Tribunal de Justiça. De acordo com o art. 14 do Código de Defesa do Consumidor, o fornecedor responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos. O serviço é considerado defeituoso quando não fornece a segurança que o consumidor dele pode esperar, levando-se em consideração as circunstâncias relevantes, entre as quais o modo de seu fornecimento; o resultado e os riscos que razoavelmente dele se esperam; e a época em que foi fornecido (art. 14, § 1° do CDC). Além disso, o fornecedor de serviços só não será responsabilizado quando provar que, tendo prestado o serviço, o defeito inexiste; ou, ainda, a culpa exclusiva do consumidor ou de terceiro (art. 14, § 3° do CDC).
+
+4. No âmbito das relações bancárias, o Superior Tribunal de Justiça tem entendimento sumulado (Súmula 479/STJ), firmado sob a sistemática de recursos repetitivos (Tema 466/STJ), de que as instituições financeiras respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros ? como, por exemplo, abertura de conta-corrente, recebimento de empréstimos mediante fraude ou utilização de documentos falsos ?, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno. Essa responsabilidade, no entanto, vem sendo mitigada quando o evento danoso decorre de transações que, embora contestadas, são realizadas com a apresentação física do cartão original e mediante uso de senha pessoal do correntista. Nesses casos, a jurisprudência do Superior Tribunal de Justiça reconhece que eventuais transações irregulares geram responsabilidade para o Banco apenas se provado ter agido a instituição financeira com negligência, imprudência ou imperícia ao efetivar a entrega de numerário a terceiros, validar compras realizadas com cartão de crédito e débito ou autorizar a contratação de empréstimos por meio eletrônico.
+
+5. Em casos envolvendo fraudes bancárias consumadas, única e exclusivamente, por conduta displicente da vítima, sem qualquer indício de envolvimento direto ou indireto do Banco, ainda que por omissão, como regra deve ser afastada a responsabilidade da instituição financeira. Na hipótese dos autos, contudo, houve falha de segurança imputável ao requerido, de sorte a evidenciar defeito na prestação do serviço por omissão prejudicial. As operações bancárias decorreram não apenas de conduta do autor, no tocante à falta de cautela na guarda da senha e do cartão magnético, como também do Banco, que negligenciou nos cuidados antifraude, permitindo que terceiros falsários realizassem diversas transações completamente atípicas e destoantes de qualquer perfil regular de consumo sem que nenhuma providência tempestiva fosse tomada, como estava previsto no contrato.
+
+6. A não identificação pelos sistemas de segurança, somada à inexistência de confirmação e restrição de sucessivas operações que, por suas características, sinalizavam a fraude praticada contra o cliente, pessoa idosa, observando, nesse contexto, o princípio da boa-fé objetiva e os deveres anexos de informação, segurança e colaboração mútua, que são inerentes à relação contratual, caracterizando, por conseguinte, má prestação de serviços. Inadequação e falta de correção que revelam acentuada negligência no sentido de prevenir a fraude perpetrada ou, pelo menos, minorar os seus efeitos.
+
+7. Deve-se reconhecer o ilícito relativo à falha na prestação de serviços, proveniente de acentuada deficiência no sistema interno de comunicação e de segurança da instituição financeira, evidenciado o nexo de causalidade da conduta com o prejuízo consumado. No entanto, conforme reconhecido em casos similares por este TJDFT, se houve falha tanto do cliente, quanto da instituição financeira, deve-se reconhecer culpa concorrente. Assim, embora afastada a alegação de fortuito externo e de culpa exclusiva do consumidor (art. 14, § 3°, II do CDC), há se ser reconhecida a concorrência de culpas, o que, apesar de não excluir a responsabilidade do fornecedor, permite a redução da condenação atribuída (art. 945 do CC), de modo que, no presente caso, o prejuízo reconhecido decorrente das transações financeiras realizadas deve ser repartido igualitariamente entre as partes.
+
+8. Deve ser atribuída ao requerido a obrigação de ressarcir ao autor, proporcionalmente, os valores reconhecidos referentes a empréstimos e compras realizadas que foram efetivamente descontados e ainda não estornados, além do montante referente aos saques realizados, igualmente incluídos no prejuízo material postulado.
+
+9. Mero inadimplemento contratual, sem consequências outras mais graves, não gera, em regra, danos morais, por caracterizar mero aborrecimento, dissabor, envolvendo controvérsia possível de surgir em qualquer relação negocial, fato comum e previsível na vida social, embora não desejável, nos negócios contratados. Assim, para que se configure lesão de cunho extrapatrimonial, deve ser comprovado algum acontecimento extraordinário que ultrapasse o campo do mero aborrecimento decorrente do inadimplemento, o que, no caso, não foi demonstrado. Embora o fato ocorrido tenha gerado inegável frustração e dissabor, não tem aptidão para, por si só, atingir aspecto existencial da personalidade do autor, não comprovada a alegada desordem financeira e o comprometimento da subsistência da família. Ademais, mesmo que tenha havido falha na prestação do serviço pelo Banco, não se pode desconsiderar que o autor contribuiu de forma efetiva para a situação.
+
+10. Recursos conhecidos, preliminar rejeitada e, no mérito, parcialmente providos (TJDFT. Acórdão 1613354, 07035311620218070012, Relator: MARIA IVATÔNIA,  5ª Turma Cível, data de julgamento: 6/9/2022, publicado no PJe: 19/9/2022)
+
+“DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. INSTITUIÇÃO FINANCEIRA. COMPRA REALIZADA COM CARTÃO E SENHA. "GOLPE DO MOTOBOY". CULPA CONCORRENTE DO CONSUMIDOR. ATENUAÇÃO DO DEVER DE INDENIZAR. DANO MORAL NÃO CARACTERIZADO.
+
+I. À luz do artigo 945 do Código Civil e do artigo 14, § 3º, inciso II, do Código de Defesa do Consumidor, a responsabilidade civil da instituição financeira deve ser atenuada na hipótese em que o consumidor negligencia a custódia do cartão e o sigilo da senha.
+
+II. Não se pode eximir de responsabilidade o consumidor que, voluntária ou involuntariamente, permite que o seu cartão e a sua senha passem às mãos de criminosos que realizam saques ou compras geradores do desfalque na conta corrente.
+
+III. Tem parcela de responsabilidade a instituição financeira que, apesar de dispor de sistemas eletrônicos de segurança, falha ao não impedir saques ou compras que, por suas características, valores e cronologia, sinalizavam claramente a existência de fraude.
+
+IV. Grandes bancos não podem ignorar a existência de fraudes cada vez mais sofisticadas que fazem vítimas consumidores que apresentam níveis diferentes de vulnerabilidade, como é o caso dos idosos, afinal devem suportar os riscos da sua atividade empresarial.
+
+V. À falta de lesão a direito da personalidade não há que se cogitar de dano moral passível de compensação pecuniária, na linha do que dispõem os artigos 11 e 12 do Código Civil.
+
+VI. Não se pode cogitar de compensação por dano moral na hipótese em que o consumidor é o primeiro responsável pela operação fraudulenta que desfalcou sua conta bancária.
+
+VII. Recurso parcialmente provido (TJDFT. Acórdão 1399264, 07055056420218070020, Relator: JAMES EDUARDO OLIVEIRA, 4ª Turma Cível, data de julgamento: 16/2/2022, publicado no PJe: 18/2/2022)
+
+“APELAÇÃO CÍVEL. CIVIL, PROCESSO CIVIL E DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. FRAUDE. CARTÃO DE CRÉDITO/DÉBITO. SAQUES E COMPRAS NÃO RECONHECIDAS. GOLPE DO MOTOBOY. TERCEIRO ESTELIONATÁRIO. CONSUMIDOR. DEVER DE GUARDA DO CARTÃO. RESPONSABILIDADE DO BANCO. CULPA CONCORRENTE. SERVIÇO ANTIFRAUDE. MEDIDAS DE SEGURANÇA NÃO ADOTADAS. DESVIO DO PADRÃO DE CONSUMO DO AUTOR. FALHA NA PRESTAÇÃO DO SERVIÇO. EXCLUDENTE DE RESPONSABILIDADE NÃO VERIFICADA. DANO CONFIGURADO. RISCO INERENTE À ATIVIDADE DESENVOLVIDA. SENTENÇA REFORMADA PARA RECONHECER A CULPA CONCORRENTE DAS PARTES. RECURSO PARCIALMENTE PROVIDO.
+
+1. Nos termos do art. 14 do CDC, o fornecedor de serviços só se exime da responsabilidade objetiva que lhe é atribuível acaso comprove a inexistência de defeito no serviço ou, ainda, a culpa exclusiva do consumidor ou de terceiro, o que não ocorreu no caso concreto.
+
+2. As instituições bancárias têm o dever de fornecer segurança em suas operações, de forma a adotar mecanismos de salvaguarda contra fraudes que possam lesar os clientes. Ao ser constatada falha quanto à contenção de fraudes, deve o banco responder pelos danos causados, eis que inerente ao risco da atividade econômica.
+
+3. No caso, há nítida parcela de culpa do consumidor, pois, em razão de golpe, forneceu a terceiro falsário os meios para que realizasse transações bancárias em seu nome, a despeito do dever de guarda que tem sobre seus cartões. No entanto, os débitos ocorreram numa cronologia que denota que o Banco Réu agiu com negligência acentuada ao não tomar a mínima providência com intuito de prevenir a fraude perpetrada ou ao menos minorar seus efeitos, impedindo o agravamento dos prejuízos do consumidor.
+
+4. Inviável, na espécie, afastar a responsabilidade total da Instituição Bancária, devendo ser reconhecida sua culpa concorrente na provocação dos danos experimentados pelo consumidor, uma vez que falhou na prestação de seus serviços ao autorizar transações que destoavam completamente do padrão de consumo do Autor, seja pela natureza das compras e dinâmica dos saques, seja pelos montantes, a revelar que era possível ao Banco ter percebido a fraude, podendo ter adotado as medidas de segurança cabíveis para evitá-la ou ao menos minorá-la.
+
+5.  Presentes o ato ilícito, relativo à falha na prestação dos serviços, em razão de o Réu não possuir um sistema antifraudes eficiente para detectar compras fora do padrão do cliente, e, mais precisamente, por não proceder com a não aprovação do pagamento ou o seu cancelamento, mesmo após ter sido informado de que se tratava de fraude; o prejuízo sofrido pelo consumidor e o nexo de causalidade entre ambos, bem como não demonstrada, pelo Banco Apelado, a culpa exclusiva da vítima ou de terceiro, a reforma da sentença quanto à reparação dos danos materiais é medida que se impõe, devendo o Apelado responder, em parte, pelos prejuízos causados ao consumidor, em virtude do risco da atividade desempenhada.
+
+6. Sentença reformada para reconhecer a culpa concorrente das partes. Recurso parcialmente provido”  (TJDFT. Acórdão 1336494, 07147959720208070001, Relator: GETÚLIO DE MORAES OLIVEIRA,  7ª Turma Cível, data de julgamento: 5/5/2021, publicado no PJe: 12/5/2021)
+
+“APELAÇÃO CIVEL. DIREITO CIVIL E PROCESSO CIVIL. REVELIA. PRESUNÇÃO RELATIVA DE VERACIDADE. RELAÇÃO DE CONSUMO. INSTITUIÇÃO FINANCEIRA. FRAUDE CARTÃO DE CRÉDITO. CONSUMIDOR. OBRIGAÇÃO DE GUARDA DO CARTÃO. RESPONSABILIDADE. VERIFICADA. PADRÃO DE CONSUMO. SISTEMAS ANTIFRAUDES CAPAZES DE DETECTAR OPERAÇÕES FORA DO PERFIL DO CLIENTE. NÃO VERIFICADO. MÁ PRESTAÇÃO DE SERVIÇOS. CONFIGURADA. CULPA CONCORRENTE. VERIFICADA. PERDAS E DANOS. RESGATE AUTOMÁTICO DE APLICAÇÕES FINANCEIRAS. POSSIBILIDADE. RESTITUIÇÃO EM DOBRO. ART. 42 DO CDC. NECESSIDADE MÁ-FÉ OU ENGANO INJUSTIFICÁVEL. NÃO VERIFICADO. IMPOSSIBILIDADE. JUROS MORATÓRIOS. CITAÇÃO. ART. 405 DO CC. DANOS MORAIS. LESÃO À DIREITOS INERENTES À PERSONALIDADE. NÃO VERIFICADO. REPARAÇÃO INDEVIDA. SENTENÇA REFORMADA. (   )
+
+2. Aplica-se o Código de Defesa do Consumidor às instituições financeiras, segundo a Súmula 297 do Superior Tribunal de Justiça.
+
+3. A responsabilidade de guarda do cartão bancário e, principalmente, o sigilo da senha, é de responsabilidade pessoal do consumidor, havendo responsabilidade do usuário no caso de entrega do cartão à terceiros.
+
+4. Os consumidores, via de regra, obedecem a um padrão, apto a formatar um perfil de consumo e, mesmo que estes consumidores não estejam adstritos a este perfil, podendo realizar compras esporádicas e extraordinárias fora de seu padrão de consumo, as instituições financeiras devem possuir sistemas detectores de fraudes capazes de apontar a realização de operações fora do perfil do cliente.
+
+5. A ausência de reconhecimento, pelos sistemas antifraudes, de que os gastos no cartão do cliente fugiam, e muito, do perfil do consumidor, somada à ausência de contato da instituição financeira com o cliente para a confirmação de tais operações, configuram a inexistência do esmero, correção e lisura que deveriam pautar a instituição financeira para com seus clientes, caracterizando, por conseguinte, má prestação de serviços.
+
+6. Nos termos do art. 14 do CDC, o fornecedor de serviços tem a sua responsabilidade afastada caso comprove que, tendo prestado o serviço, o defeito inexiste, ou a culpa é exclusiva do consumidor ou de terceiros.
+
+7. Deve se reconhecer a culpa concorrente da instituição financeira pelos gastos efetuados de forma fraudulenta no cartão de crédito do cliente, caso não haja prova de que o serviço antifraude da instituição bancária foi prestado de forma adequada, oferecendo ao cliente a segurança necessária.
+
+8. Reconhecendo a culpa concorrente entre as partes pela fraude ocorrida, se torna adequada a condenação da instituição financeira ao pagamento das perdas e danos sofridos pela parte contrária, devendo, neste caso, ressarcir aos autores/apelantes o valor correspondente àquilo que eles deixaram de ganhar em razão do resgate automático de aplicações financeiras para o pagamento da dívida advinda com a fraude. (   )” (TJDFT. Acórdão 1157393, 07075033220188070001, Relator: GISLENE PINHEIRO, 7ª Turma Cível, data de julgamento: 13/3/2019, publicado no DJE: 18/3/2019)
+
+“APELAÇÕES CÍVEIS. AUTORA E RÉU. DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPARAÇÃO POR DANOS MATERIAIS E MORAIS. FRAUDE BANCÁRIA. GOLPE DO MOTOBOY. TERCEIRO ESTELIONATÁRIO. GASTOS COM CARTÃO DE CRÉDITO. CONTRATAÇÃO DE EMPRÉSTIMO CONSIGNADO. RESPONSABILIDADE CIVIL. CULPA CONCORRENTE. CONSUMIDOR. DEVER DE GUARDA. BANCO. SERVIÇO ANTIFRAUDE. MEDIDAS DE SEGURANÇA NÃO ADOTADAS. FALHA NA PRESTAÇÃO DO SERVIÇO. FORTUITO INTERNO. DANO MORAL INEXISTENTE. SENTENÇA REFORMADA PARA RECONHECER A CULPA CONCORRENTE DAS PARTES. RECURSO DA AUTORA PARCIALMENTE PROVIDO. RECURSO DO RÉU NÃO PROVIDO.
+
+1. As instituições bancárias têm o dever de fornecer segurança em suas operações, de forma a adotar mecanismos de salvaguarda contra fraudes que possam lesar os clientes. Ao ser constatada falha quanto à contenção de fraudes, deve o banco responder pelos danos causados, eis que inerente ao risco da atividade econômica.
+
+2. No caso, há nítida parcela de culpa da Autora, pois, em razão de golpe, forneceu a terceiro falsário os meios para que realizasse transações bancárias em seu nome, a despeito do dever de guarda que tem sobre seus cartões.
+
+3. Inviável, na espécie, afastar a responsabilidade total da Instituição Bancária, devendo ser reconhecida sua culpa concorrente na provocação dos danos experimentados pela consumidora, uma vez que falhou na prestação de seus serviços ao autorizar transações que destoavam do padrão de consumo da demandante.
+
+4. O reconhecimento da culpa concorrente, por si só, é excludente de danos morais.
+
+5. Sentença reformada para reconhecer a culpa concorrente das partes em relação aos débitos efetuados em cartões da Autora.
+
+Recurso do Réu conhecido em parte e não provido. Recurso da Autora parcialmente provido”  (TJDFT. Acórdão 1374634, 07297811120208070016, Relator: GETÚLIO DE MORAES OLIVEIRA, Relator Designado: LEILA ARLANCH, 7ª Turma Cível, data de julgamento: 15/9/2021, publicado no DJE: 3/11/2021)
+
+“APELAÇÃO CÍVEL. DIREITO CIVIL, PROCESSUAL CIVIL E DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO SUSCITADA EM CONTRARRAZÕES. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. REJEIÇÃO. ILEGITIMIDADE PASSIVA. TEORIA DA ASSERÇÃO. PRELIMINAR REJEITADA. FRAUDE COMETIDA POR TERCEIROS. GOLBE DO MOTOBOY. CARTÃO DE CRÉDITO. TRANSAÇÕES REALIZADAS COM O USO DE SENHA PESSOAL. INSTITUIÇÃO BANCÁRIA E ADMINISTRADORA DE CARTÕES. RESPONSABILIDADE OBJETIVA SOLIDÁRIA. NEGLIGÊNCIA DAS FORNECEDORAS. FALHA NA PRESTAÇÃO DO SERVIÇO. OPERAÇÕES FINANCEIRAS DESTOANTES DO PADRÃO DE CONSUMO DA TITULAR DO CARTÃO. FALHA NOS MECANISMOS DE SEGURANÇA E FISCALIZAÇÃO. EXCLUDENTE DE RESPONSABILIDADE. INOCORRÊNCIA. FORTUITO INTERNO. VERIFICAÇÃO. DANO MATERIAL. RESSARCIMENTO DE VALORES. IMPOSIÇÃO. DANO MORAL. TITULAR DA CONTA. CONFIGURAÇÃO. QUANTUM INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE. OBSERVÂNCIA. REDUÇÃO. NÃO CABIMENTO. SENTENÇA MANTIDA. (   )
+
+4. Estabelecida a relação de consumo, a responsabilidade do fornecedor de serviços é objetiva, exigindo-se para sua configuração apenas a comprovação da existência do fato, do dano e do nexo causal entre ambos, independentemente de culpa (Código de Defesa do Consumidor, artigo 14, caput).
+
+5.  Ainda que se verifique a ocorrência de fraude, o fornecedor dos serviços deve responder objetivamente pelos danos causados, uma vez que lhe incumbe precaver-se das fraudes perpetradas (fortuito interno), em razão dos deveres básicos de cuidado e segurança, não se cogitando de excludente de responsabilidade.
+
+6. Conquanto o golpe tenha se dado mediante indução da titular do cartão de crédito a erro pelos estelionatários, não há se falar que em culpa exclusiva de terceiros ou da consumidora se evidenciado nos autos que o golpe se deu por ausência de controle e segurança adequada por parte da prestadora de serviços, que agiu com negligência no dever que lhe estava afeto de realizar o monitoramento e fiscalização das operações financeiras atípicas.
+
+7.  Inferindo-se dos autos que as prestadoras de serviços atuaram de forma negligente, por não ter adotado procedimentos acautelatórios para que os sistemas preventivos de fraude identificassem as movimentações financeiras destoantes do padrão normal de consumo da titular do cartão, pessoa idosa, resta caracterizada a falha na prestação do serviço, o que enseja a reparação pelos prejuízos materiais e morais daí advindos.
+
+8. Evidenciado o nexo de causalidade entre a conduta da instituição bancária e administradora de cartões, retratada pela prestação defeituosa dos serviços à margem das cautelas e medidas de segurança necessárias, e o resultado danoso havido, deve ser mantida a condenação solidária das fornecedoras de serviços ao ressarcimento dos valores despendidos pela vítima alcançada pelo ilícito. (   )”   (TJDFT. Acórdão 1380573, 07220267820208070001, Relator: SIMONE LUCINDO, 1ª Turma Cível, data de julgamento: 20/10/2021, publicado no PJe: 29/10/2021)
+
+“APELAÇÃO CÍVEL. PROCESSUAL CIVIL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C DANOS MORAIS. EMPRESA QUE CEDE A MARCA AO CARTÃO DE CRÉDITO. LEGITIMIDADE PASSIVA. PARTICIPANTES DA CADEIA COMERCIAL. RESPONSABILIDADE SOLIDÁRIA E OBJETIVA. CDC. FRAUDE CONHECIDA COMO "GOLPE DO MOTOBOY". DANOS MATERIAIS. DEMONSTRAÇÃO. DANOS MORAIS. AUSÊNCIA. SENTENÇA PARCIALMENTE REFORMADA. (   )
+
+2. Nos termos do artigo 14 do Código de Defesa do Consumidor, "O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços, bem como por informações insuficientes ou inadequadas sobre sua fruição e riscos".
+
+3. A despeito de a Autora ter reconhecido que, por ter sido vítima de um golpe, forneceu o cartão de crédito e a senha a terceiros, não se pode desconsiderar que as transações realizadas em nome da consumidora destoavam completamente do histórico de gastos dela, de modo que era possível à operadora do cartão de crédito perceber a ocorrência da fraude e adotar as medidas de segurança cabíveis para evitá-la.
+
+4. Considerando que cabe às operadoras de cartão de crédito zelar pelo sistema antifraude e que houve notória atipicidade dos gastos efetuados com o cartão da consumidora, constata-se a falha na prestação do serviço, bem como a relação de causalidade entre a conduta das Rés/Apeladas e os prejuízos causados à cliente, o que atrai a responsabilidade objetiva e solidária pela reparação dos danos materiais. (   )”  (TJDFT. Acórdão 1374191, 07152544220208070020, Relator: Robson Teixeira de Freitas, 8ª Turma Cível, data de julgamento: 23/9/2021, publicado no DJE: 6/10/2021)
+
+“CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. PRELIMINAR. REJEIÇÃO. LEGITIMIDADE. PRESENÇA. CONTROVÉRSIA. CONSUMIDOR. FRAUDE BANCÁRIA. GOLPE DO MOTOBOY. RESPONSABILIDADE. INSTITUIÇÃO FINANCEIRA. BANDEIRA DO CARTÃO. FALHA NOS SISTEMAS DE CONTROLE. AUSÊNCIA DE DETECÇÃO DE FRAUDES. CULPA CONCORRENTE. RECONHECIMENTO. HONORÁRIOS. SENTENÇA PARCIALMENTE REFORMADA. (   )
+
+4. Reconhecida no presente caso a responsabilidade dos réus. A atividade criminosa só foi possível porque os fraudadores detinham evidentes informações armazenadas pelos réus acerca de dados bancários e cartões de crédito do demandante, tanto que, quando entraram em contato, como é comum ocorrer nestes casos, já se prontificaram em fornecer à vítima informações que só os réus detinham. 5. Os consumidores, via de regra, obedecem um padrão, apto a formatar um perfil de consumo e, mesmo que estes consumidores não estejam adstritos a este perfil, podendo realizar compras esporádicas e extraordinárias fora de seu padrão de consumo, as instituições financeiras devem possuir sistemas detectores de fraudes capazes de apontar a realização de operações fora do perfil do cliente.
+
+6. Presente o defeito na prestação do serviço ante o conhecimento por estelionatários de informações mantidas pelos réus e, igualmente, pelo fato de os réus não terem cumprido o seu dever de identificar os gastos fora do perfil do cliente, por meio de sistemas capazes de oferecer a segurança necessária ao consumidor, de tal modo a não ser possível, como objetivam no recurso, excluir a responsabilidade pelos gastos fraudulentos no cartão de crédito/débito da parte autora.
+
+7. Reconhecida a culpa concorrente do consumidor. A responsabilidade de guarda do cartão bancário e, principalmente, o sigilo da senha, é de responsabilidade pessoal do consumidor e, em razão do conjunto-fático probatório, o demandante concorreu de forma efetiva para a prática dos gastos realizados de forma fraudulenta em seu cartão de crédito/débito, visto que entregou o seu cartão a terceiros. (   )”  (TJDFT. Acórdão 1364306, 07100363320208070020, Relator: GISLENE PINHEIRO, 7ª Turma Cível, data de julgamento: 12/8/2021, publicado no DJE: 24/8/2021)
+
+“APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE RESSARCIMENTO. GOLPE DO MOTOBOY. INOCORRÊNCIA DE DANOS MORAIS. CULPA CONCORRENTE.
+
+1. Embora a instituição bancária não possa ser responsabilizada pelo fornecimento espontâneo do cartão de crédito e senhas realizada pela autora aos golpistas, há falha na prestação de serviço caracterizada por sua desídia quanto à verificação da procedência de transações sequenciais no cartão de crédito que destoam consideravelmente do padrão de consumo da autora. (   )”  (TJDFT. Acórdão 1351142, 07227196220208070001, Relator: SÉRGIO ROCHA, 4ª Turma Cível, data de julgamento: 24/6/2021, publicado no PJe: 5/7/2021)
+
+“APELAÇÃO. CONSUMIDOR. CARTÃO DE CRÉDITO BANCÁRIO UTILIZADO POR TERCEIRO. "GOLPE DO MOTOBOY". FRAUDE. ENUNCIADO 479 DA SÚMULA DO STJ. FORTUITO INTERNO.
+
+1. Ainda que o consumidor tenha sido induzido de forma fraudulenta a entregar o seu cartão a terceiros, as movimentações questionadas foram realizadas em altos valores, e a instituição bancária, ao verificar a movimentação financeira atípica, deveria ter tomado medidas de segurança, como o bloqueio temporário do cartão de crédito. Não o fazendo, agiu de forma negligente, pois possui tecnologia apta à prevenção desse tipo de fraude.
+
+2. A responsabilidade do fornecedor pelos possíveis prejuízos causados ao consumidor, em razão dos serviços prestados, é objetiva, nos termos do disposto no art. 14, do CDC, o que atrai para si o ônus do risco de sua atividade, tornando desnecessária a demonstração de culpa ou dolo.
+
+3. No caso de fraude de terceiros, a jurisprudência se firmou no sentido de que se trata de fortuito interno. E, de acordo com o Enunciado nº 479, da Súmula do STJ, ‘as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias’.
+
+4. Apelo não provido.” (TJDFT. Acórdão 1351157, 07083627720208070001, Relator: ARNOLDO CAMANHO, 4ª Turma Cível, data de julgamento: 24/6/2021, publicado no PJe: 5/7/2021)
+
+“APELAÇÃO CÍVEL. CONSUMIDOR. CARTÃO DE CRÉDITO. INEXISTÊNCIA DE DÉBITO. TRAMA PERPETRADA POR TERCEIRO. "GOLPE DO MOTOBOY" RECOLHIMENTO DE CARTÃO. DADOS CONHECIDOS PELO TERCEIRO. PRESTAÇÃO DE SERVIÇO. INEFICIÊNCIA. FALHA NA SEGURANÇA. MANUTENÇÃO DA SENTENÇA. RECURSO DESPROVIDO.
+
+1. Hipótese de operações bancárias mediante a utilização cartão de crédito/débito de correntista vítima de trama perpetrada por terceiro que se identificou como funcionário do Banco, consistente no recolhimento de cartão magnético após a confirmação dos dados do consumidor mediante contato telefônico
+
+2. A responsabilidade do fornecedor é objetiva e decorre da teoria do risco da atividade, nos termos do art. 14 do Código de Defesa do Consumidor. Ademais, deve ser salientado o entendimento firmado no Enunciado nº 476 da Súmula do Colendo Superior Tribunal de Justiça, no sentido de que as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros em operações bancárias.
+
+3. A mera alegação de que as operações financeiras impugnadas foram procedidas com cartão original dotado de componentes eletrônicos (chip) e mediante digitação de senha secreta não é suficiente para isentar o banco da responsabilidade pela prestação de serviço ineficiente.
+
+4. O cognominado "golpe do motoboy" não é nenhuma novidade para as instituições financeiras e pode atingir qualquer correntista. Se a vítima estivesse ciente da real intenção do estelionatário, não teria repassado o cartão de crédito nem confirmado o número da senha pessoal.
+
+5. Se não há nos autos demonstração de que a instituição financeira tenha promovido os atos necessários à confirmação da utilização do cartão pelo correntista, fica evidenciada a falha na segurança oferecida pelo banco recorrente.
+
+6. Apelação conhecida e desprovida” (TJDFT. Acórdão 1338091, 07034348320208070001, Relator: ALVARO CIARLINI, 3ª Turma Cível, data de julgamento: 12/5/2021, publicado no DJE: 27/5/2021)
+
+“CONSUMIDOR. PROCESSO CIVIL. PRELIMINARES. NÃO CONHECIMENTO DO RECURSO. INÉPCIA DA INICIAL. REJEITADAS. CARTÃO DE CRÉDITO. FRAUDE. GOLPE DO MOTOBOY. FORTUITO INTERNO. CULPA CONCORRENTE.  DANOS MORAIS.  CABIMENTO. (   )
+
+6. O consumidor bancário é responsável pela guarda de seu cartão de crédito e senha, a qual, por ser de uso pessoal, não deve ser fornecida a terceiros, sob pena de responder pelos eventuais prejuízos daí advindos.
+
+7. Ainda que o consumidor, vítima de estelionatários, tenha sido, de forma fraudulenta, induzido a entregar seu cartão e senha a terceiros, os danos daí decorrentes classificam-se como fortuito interno da atividade bancária e devem ser absorvidos pelo fornecedor, pois os bancos dispõem de tecnologia apta à prevenção desse tipo de fraude.
+
+8. Embora se constate a culpa concorrente do consumidor para a consumação da fraude, tal fato não é, por si só, suficiente para afastar o reconhecimento do dano moral, sendo, todavia, relevante para a sua quantificação.
+
+9. Preliminares rejeitadas.
+
+10. Recurso conhecido e parcialmente provido   (TJDFT. Acórdão 1272340, 07041631220208070001, Relator: MARIA DE LOURDES ABREU, 3ª Turma Cível, data de julgamento: 4/8/2020, publicado no DJE: 20/8/2020)
+
+“APELAÇÃO CIVEL. DIREITO CIVIL E PROCESSO CIVIL. RELAÇÃO DE CONSUMO. INSTITUIÇÃO FINANCEIRA. FRAUDE CARTÃO DE CRÉDITO. CONSUMIDOR. OBRIGAÇÃO DE GUARDA DO CARTÃO. RESPONSABILIDADE. VERIFICADA. PADRÃO DE CONSUMO. SISTEMAS ANTIFRAUDES CAPAZES DE DETECTAR OPERAÇÕES FORA DO PERFIL DO CLIENTE. NÃO VERIFICADO. MÁ PRESTAÇÃO DE SERVIÇOS. CONFIGURADA. CULPA CONCORRENTE DA INSTITUIÇÃO FINANCEIRA. VERIFICADA. SENTENÇA REFORMADA.
+
+1. Aplica-se o Código de Defesa do Consumidor às instituições financeiras, segundo a Súmula 297 do Superior Tribunal de Justiça.
+
+2. A responsabilidade de guarda do cartão bancário e, principalmente, o sigilo da senha, é de responsabilidade pessoal do consumidor, havendo responsabilidade do usuário no caso de entrega do cartão à terceiros.
+
+3. Os consumidores, via de regra, obedecem um padrão, apto a formatar um perfil de consumo e, mesmo que estes consumidores não estejam adstritos a este perfil, podendo realizar compras esporádicas e extraordinárias fora de seu padrão de consumo, as instituições financeiras devem possuir sistemas detectores de fraudes capazes de apontar a realização de operações fora do perfil do cliente.
+
+4. A ausência de reconhecimento, pelos sistemas antifraudes, de que os gastos no cartão do cliente fugiam, e muito, do perfil do consumidor, somada à ausência de contato da instituição financeira com o cliente para a confirmação de tais operações, configuram a inexistência do esmero, correção e lisura que deveriam pautar a instituição financeira para com seus clientes, caracterizando, por conseguinte, má prestação de serviços.
+
+5. Nos termos do art. 14 do CDC, o fornecedor de serviços tem a sua responsabilidade afastada caso comprove que, tendo prestado o serviço, o defeito inexiste, ou a culpa é exclusiva do consumidor ou de terceiros.
+
+6. Deve se reconhecer a culpa concorrente da instituição financeira pelos gastos efetuados de forma fraudulenta no cartão de crédito do cliente, caso não haja prova de que o serviço antifraude da instituição bancária foi prestado de forma adequada, oferecendo ao cliente a segurança necessária.
+
+7. Recurso conhecido e parcialmente provido”  (TJDFT. Acórdão 1112986, 07341665220178070001, Relator: GISLENE PINHEIRO, 7ª Turma Cível, data de julgamento: 1/8/2018, publicado no DJE: 15/8/2018)
+
+CIVIL. RELAÇÃO DE CONSUMO. INSTITUIÇÃO BANCÁRIA. AVISO TELEFÔNICO AO CLIENTE DE HIPÓTESE DE CLONAGEM. FRAUDADOR QUE RECOLHE O CARTÃO DE CRÉDITO NA RESIDÊNCIA DO PORTADOR. ENTREGA INADVERTIDA. FRAUDE BANCÁRIA. FALHA NA PRESTAÇÃO DO SERVIÇO. DÉBITOS NÃO RECONHECIDOS. CULPA CONCORRENTE. DANOS MORAIS. INDEVIDOS. SENTENÇA REFORMADA.
+
+I - Aplica-se as disposições consumeristas em face das instituições bancárias, consoante termos da Súmula 297, do STJ.
+
+II - A relação havida entre a instituição bancária e o cliente deve pautar-se em atos de cautela e segurança entre ambos. Resta configurada a falha na prestação do serviço pelo banco quando este autoriza débitos em cartão de crédito de cliente fora do perfil de consumo e não os questiona pelos meios eletrônicos comumente disponibilizados; a seu turno, contribui para a fraude o cliente que, enganado pelo fraudador, entrega seu cartão bancário a este, que perpetra o engodo. In casu, reconhece-se a culpa concorrente da instituição bancária pelos gastos indevidos, havidos no crédito da cliente. (   )”  (TJDFT. Acórdão 1141732, 07046552120188070018, Relator: LEILA ARLANCH, 7ª Turma Cível, data de julgamento: 5/12/2018, publicado no DJE: 10/12/2018)
+
+Por fim, de se ver  que, embora afastada a alegação de fortuito externo e de culpa exclusiva do consumidor (art. 14, § 3°, II do CDC), há de ser reconhecida a concorrência de culpas, o que, apesar de não excluir a responsabilidade do fornecedor, permite a redução da condenação atribuída (art. 945 do CC).
+
+Nessas condições, como destacado pelo Relator, deve ser acolhido parcialmente o recurso do requerido para reconhecer a culpa concorrente da autora pelos empréstimos, transferências, saques e compras realizadas, de tal modo que o prejuízo reconhecido decorrente das transações financeiras realizadas deve ser repartido igualitariamente na proporção de 50% (cinquenta por cento) para cada uma das partes.
+
+Por outro lado, mesmo que tenha havido falha na prestação do serviço pelo Banco, não se pode desconsiderar que a autora contribuiu de forma efetiva para a situação, desautorizando a pretendida indenização por danos morais.
+
+Nesse sentido, reconhecendo a inexistência de danos morais em casos similares:
+
+“DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL. INSTITUIÇÃO FINANCEIRA. COMPRA REALIZADA COM CARTÃO E SENHA. "GOLPE DO MOTOBOY". CULPA CONCORRENTE DO CONSUMIDOR. ATENUAÇÃO DO DEVER DE INDENIZAR. DANO MORAL NÃO CARACTERIZADO. (   )
+
+VI. Não se pode cogitar de compensação por dano moral na hipótese em que o consumidor é o primeiro responsável pela operação fraudulenta que desfalcou sua conta bancária. (   )  (TJDFT. Acórdão 1399264, 07055056420218070020, Relator: JAMES EDUARDO OLIVEIRA, 4ª Turma Cível, data de julgamento: 16/2/2022, publicado no PJe: 18/2/2022)
+
+“APELAÇÃO CÍVEL. DIREITO CIVIL. AÇÃO DE RESSARCIMENTO. GOLPE DO MOTOBOY. INOCORRÊNCIA DE DANOS MORAIS. CULPA CONCORRENTE. (   )
+
+2. Verificada que a conduta voluntária da cliente contribuiu de maneira expressiva para a ocorrência dos transtornos aos quais foi submetida, não há que se falar em danos morais de responsabilidade da instituição financeira. (   )”
+
+(TJDFT. Acórdão 1351142, 07227196220208070001, Relator: SÉRGIO ROCHA, 4ª Turma Cível, data de julgamento: 24/6/2021, publicado no PJe: 5/7/2021)
+
+“CIVIL. RELAÇÃO DE CONSUMO. INSTITUIÇÃO BANCÁRIA. AVISO TELEFÔNICO AO CLIENTE DE HIPÓTESE DE CLONAGEM. FRAUDADOR QUE RECOLHE O CARTÃO DE CRÉDITO NA RESIDÊNCIA DO PORTADOR. ENTREGA INADVERTIDA. FRAUDE BANCÁRIA. FALHA NA PRESTAÇÃO DO SERVIÇO. DÉBITOS NÃO RECONHECIDOS. CULPA CONCORRENTE. DANOS MORAIS. INDEVIDOS. SENTENÇA REFORMADA. (   )
+
+III - A contribuição do cliente para a efetividade do engodo não autoriza a indenização a título de danos morais. (   )”  (TJDFT. Acórdão 1141732, 07046552120188070018, Relator: LEILA ARLANCH, 7ª Turma Cível, data de julgamento: 5/12/2018, publicado no DJE: 10/12/2018)
+
+Ante o exposto, acompanhando o eminente Relator, conheço dos recursos, nego provimento ao recurso da autora e dou parcial provimento ao recurso do requerido para, reformando em parte a sentença, reconhecer a culpa concorrente entre a autora BENIGNA MARIA DE LEMOS MARQUES e o requerido BRB BANCO DE BRASILIA S/A, e, por consequência, determinar que o prejuízo decorrente das transações financeiras realizadas deve ser repartido igualitariamente na proporção de 50% (cinquenta por cento) para cada.
+
+Ônus sucumbenciais na proporção de 70% (setenta por cento) para a autora e 30% (trinta por cento) para o requerido. Honorários em primeira instância mantidos em 10% (dez por cento) sobre o valor da condenação, nos termos nos termos do § 2º do art. 85 do CPC/2015.
+
+Honorários recursais majorados para 11% (onze por cento) do valor da condenação em desfavor do apelante BENIGNA MARIA DE LEMOS MARQUES (art. 85, § 11 do CPC/2015), observada a proporcionalidade na distribuição.
+
+Por efeito do resultado do julgamento do recurso do requerido BRB BANCO DE BRASILIA S/A (recurso parcialmente provido), incabível arbitramento de honorários recursais em seu desfavor (art. 85, § 11 do CPC/2015).
+
+É como voto.
+
+O Senhor Desembargador ESDRAS NEVES - 4º Vogal Com a divergência
+
+DECISÃO
+
+JULGAMENTO CONFORME O ART. 942 DO CPC: CONHECER. DAR PARCIAL PROVIMENTO À APELAÇÃO DO RÉU. NEGAR PROVIMENTO À APELAÇÃO DA AUTORA. MAIORIA. VENCIDOS A 2ª E O 4º VOGAIS.
