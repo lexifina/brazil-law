@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo interno contra decisão da Presidência desta Corte, que rejeitou os embargos de declaração opostos pela recorrente (fls. 619-621, e-STJ).
+Os aclaratórios foram opostos à decisão monocrática que não conheceu do recurso, em virtude da intempestividade na interposição do recurso especial na origem, nos termos da seguinte transcrição (fls. 562-563, e-STJ):
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS FUNCEF, a parte Recorrente foi intimada do acórdão recorrido em 05/09/2012, sendo o recurso especial interposto somente em 21/09/2012.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias, nos termos do art. 508 do Código de Processo Civil de 1973.
+Conforme pacificado nesta Corte, a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública (AgInt no REsp 1686469/AM, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/03/2018).
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do
+Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
+Neste agravo interno, a agravante defende a tempestividade do recurso, ao argumento de não ter havido expediente forense no dia 20/9/2012, último dia do prazo recursal, o qual foi prorrogado para 21/9/2012, data em que apresentado o recurso especial, de forma tempestiva.
+Para a comprovação da referida suspensão, colaciona o Ato n. 08/2011-Órgão Especial, disponibilizado no Diário da Justiça Eletrônico n. 4.706, de 9/11/2011 (e-STJ, fl. 630).
+Sem impugnação, conforme certificado à fl. 686 (e-STJ).
+Brevemente relatado, decido.
+No que se refere à tempestividade dos recursos apresentados a esta Superior Tribunal de Justiça na vigência do CPC/1973, a Corte Especial do STJ,consolidou o entendimento jurisprudencial no sentidode admitir a comprovação posterior da tempestividade dorecurso, em agravointerno, na hipótese de ocorrência de feriado local ou suspensão doexpediente forense no Tribunal de origem.
+A propósito, confira-se o precedente que, à época, pacificou a questão:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.TEMPESTIVIDADE. FERIADO LOCAL. COMPROVAÇÃO POSTERIOR.POSSIBILIDADE.MUDANÇA DE ENTENDIMENTO.
+1. A comprovação da tempestividade do recurso especial, em decorrência de
+feriado local ou de suspensão de expediente forense no Tribunal de origemque implique prorrogação do termo final para sua interposição, pode
+ocorrer posteriormente, em sede de agravo regimental. Precedentes do STF edo STJ.
+2. Agravo regimental provido, para afastar a intempestividade do recursoEspecial (AgRg no AREsp 137.141/SE, Rel. Ministro Antonio Carlos Ferreira, Corte Especial, Corte Especial, julgado em 19/09/2012, DJe 15/10/2012 - sem grifo no original).
+Desse modo, tendo em vista a documentação apresentada pela agravante, constata-se que, de fato, que orecurso especial foiinterposto tempestivamente, razão pela qual reconsidero a decisão agravadae passo ao exame do recurso.
+Trata-se de agravo (art.1.042 do CPC/2015)interposto por FUNDAÇÃO DOS ECONOMIÁRIOS FEDERAIS - FUNCEF contra a decisão de fls. 511-520 (e-STJ), proferida em juízo provisório de admissibilidade, a qual negou seguimento ao recurso especial.
+O apelo extremo foi deduzido com base no art. 105, III, a, da Constituição Federal, desafiando acórdãoproferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assimementado (e-STJ, fls. 383-384):
+APELAÇÃO CÍVEL. PREVIDÊNCIA PRIVADA. FUNCEF. APOSENTADORIA PROPORCIONAL. DIFERENÇA NO PERCENTUAL UTILIZADO PARA CÁLCULO DO BENEFICIO DE HOMENS E MULHERES. IMPOSSIBILIDADE. PRINCÍPIO DA ISONOMIA.
+1. É da Justiça Comum Estadual a competência para julgar demanda decorrente de relação de natureza civil, onde não são questionados os direitos trabalhistas, mas sim as obrigações atinentes à complementação de proventos de aposentadoria, de responsabilidade da entidade de previdência privada.
+2. Litisconsórcio passivo. Descabida formação de litisconsórcio passivo entre a demandada e a Caixa Economia Federal, visto que a relação jurídica em debate diz respeito a benefício previdenciário de natureza complementar, não estando em liça relação obrigacional pela qual deva responder a instituição financeira. Desnecessidade de remessa dos autos à Justiça Federal.
+3. Prescrição. Em se tratando de obrigação de trato sucessivo, não há falar em prescrição do fundo de direito, mas apenas das parcelas anteriores ao quinquênio de ajuizamento da ação, como explicitado no decisum. Posicionamento revisto. Precedentes do STJ e desta Corte.
+4. Migração de plano. Não pode a autora ser tolhida de buscar seus direitos, porquanto as cláusulas contratuais insertas no novo plano lhe trazem excessiva desvantagem, afigurando-se nulas de pleno direito. Art. 51, IV, do CDC. Art. 5º, XXXVI, da Constituição Federal.
+5. A distinção de percentuais entre homens e mulheres para o cálculo do valor inicial do benefício de complementação de aposentadoria por tempo proporcional indiscutivelmente viola o princípio da isonomia consagrado nos artigos 3º, IV, e 5º, I, da CF. Procedência da ação. Alteração do percentual de 70% para 80%.
+6. Ausência de fonte de custeio. Não pode a instituição de previdência privada utilizar tal argumento para se esquivar de sua obrigação, cabendo-lhe planejar os descontos e os índices de contribuição. Possibilidade, contudo, de compensação entre a verba ora deferida e o valor que deveria ter sido pago pela parte autora a título de contribuição.
+7. Pedido subsidiário que não se sustenta por ausência de amparo legal e regulamentar.
+À UNANIMIDADE, DESACOLHIDAS AS PRELIMINARES E, POR MAIORIA, PARCIALMENTE PROVIDA A APELAÇÃO.
+Os embargos de declaração opostos foram desacolhidos (fls. 435-441, e-STJ).
+Nas razões do recurso especial (fls. 445-472, e-STJ), a recorrente alegou que o acórdão impugnado incorreu em violação aos arts. 333, 472 e 840 do Código Civil de 1973;53 e 103 da Lei 8.213/91;30, 35, 40, 42, 43 e 44 da Lei 6.435/77;20 e 27 do Decreto 81.240/78;1º, 6º, 18 e 19 da Lei Complementar 109/2001; e6º, "f", do Decreto-Lei 806/69.
+Sustentou, em suma:
+(i)prescrição da pretensão autoral, de revisão do patamar inicial de complementação de aposentadoria, tendo em vista que já transcorreram 15 (quinze) anos desde a concessão do benefício;
+(ii)necessidade de inclusão da Caixa Econômica Federal no polo passivo da demanda, pois, no caso de procedência da ação, serão devidas as respectivas fontes de custeio (reserva matemática  contribuições sociais do período de responsabilidade da Apelada e da CEF);
+(iii)não haver violação ao princípio da isonomia, considerando que o período de contribuição de homens e mulheres são diferentes, bem como que à época do ingresso da recorrida no plano não havia previsão legal de aposentadoria para mulheres, o que só ocorreu após a Constituição de 1988;
+(iv)inviabilidade de alteração do patamar inicial de complementação de aposentadoria, de 70% para 80%, conforme decidido pelo Tribunal de origem, haja vista a ausência de custeio para tal alteração, o que acarretaria prejuízo ao plano e aos demais assistidos; e
+(v)cerceamento de defesa em virtude do indeferimento de perícia atuarial pleiteada.
+Em juízo provisório de admissibilidade (fls. 511-520, e-STJ), o Tribunal de origem negou seguimento ao recurso especial da insurgente, com fundamento no art. 1.030 do CPC/2015, em razão de o acórdão recorrido encontrar-se me harmonia com a jurisprudência desta Corte, firmada em julgamento de recurso especial repetitivo, Tema 936.
+Quanto às demais questões, negou o processamento do apelo extremo ante a aplicação das Súmulas 5 e 7/STJ para revisão das conclusões estaduais.
+Irresignada (fls. 523-542, e-STJ), aduz a agravante que o reclamo merecetrânsito, limitando-se a repisar as mesmas questões já trazidas no recursoespecial e a refutar a aplicação das Súmulas 5 e 7/STJ.
+Sem contraminuta, conforme certificado à fl. 552 (e-STJ).
+De início, verifica-se que o recurso foi interposto na vigência do novo Código de Processo Civil. Sendo assim, sua análise obedecerá ao regramento nele previsto. Portanto, aplica-se, na hipótese, o Enunciado Administrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, o entendimento desta Corte é no sentido de que a parterecorrente deve infirmar os fundamentos da decisão impugnada, mostrando-seinadmissível o agravo que não se insurge especificamente contra todoseles.
+No caso, verifica-se que a agravante não atendeu a esse comando, limitandoseus argumentos a repisar os mesmos termos já trazidos no recursoespecial e a refutar a aplicação das Súmulas 5 e 7/STJ.
+No tocante à rejeição do recurso especial, com fundamento no art. 1.030 do CPC/2015, em razão de o acórdão recorrido encontrar-se me harmonia com a jurisprudência desta Corte, firmada em julgamento de recurso especial repetitivo, Tema 936, verifica-se, de plano, que tal fundamento não foi sequer mencionadonas razões do agravo.
+Ora, é dever da parte combater especificamente todos os fundamentos dadecisão agravada, demonstrando o desacerto do decisum que negou seguimentoà irresignação especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIADE IMPUGNAÇÃO À DECISÃO DE INADMISSÃO DO RECURSO ESPECIAL NA CORTE DEORIGEM.
+1. A ausência de impugnação específica aos fundamentos da decisão da Cortede origem que não admitiu o recurso impede o conhecimento do agravo, nostermos do que dispunha o art. 544, § 4º, I, do CPC/1973, normativo esseque também faz parte do contido no art. 932, III, do CPC/2015 e no art.253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n.22, 2016).
+2. Agravo interno não provido (AgInt no AREsp 718.118/MT, Rel. MinistroBenedito Gonçalves, Primeira Turma, julgado em 27/11/2018, DJe 18/12/2018).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃOESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DERECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART.932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). AGRAVO INTERNO NÃOPROVIDO.
+1. Vale pontuar que o presente agravo interno foi interposto contradecisão publicada na vigência do novo Código de Processo Civil, razãopela qual devem ser exigidos os requisitos de admissibilidade recursalna forma nele prevista, nos termos do Enunciado Administrativonº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aosrecursos interpostos com fundamento no CPC/2015 (relativos adecisões publicadas a partir de 18 de março de 2016) serão exigidos osrequisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que,apresentado em desacordo com os requisitos preconizados pelo art.932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna osfundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 doSTJ).
+3. Agravo interno não provido (AgInt no AREsp 739.743/RJ, Rel. MinistroMoura Ribeiro, Terceira Turma, julgado em 23/06/2016, DJe 01/07/2016).
+Dessa forma, a falta de ataque específico aos fundamentos da decisãoagravada encontra óbice no art. 932, III, do CPC/2015, desatendendo,assim, o princípio da dialeticidade.
+Diante do exposto, em juízo de reconsideração, não conheço doagravo em recurso especial.
+Fiquem as partes cientificadas de que a insistência injustificada no prosseguimento do feito, caracterizada pela apresentação de recursos manifestamente inadmissíveis ou protelatórios contra esta decisão, ensejará a imposição, conforme o caso, das multas previstas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO CPC/1973. POSSIBILIDADE DE COMPROVAÇÃO POSTERIOR DE SUSPENSÃO DE PRAZO. INTEMPESTIVIDADE AFASTADA, MEDIANTE JUÍZO DE RECONSIDERAÇÃO. NOVA ANÁLISE DO RECLAMO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO, EM JUÍZO DE RECONSIDERAÇÃO.
