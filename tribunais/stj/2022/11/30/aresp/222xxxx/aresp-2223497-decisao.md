@@ -1,0 +1,66 @@
+DECISÃO
+Trata-se de agravo interposto por EDER FRANCISCO TREVISANI contra decisão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, quenão admitiu recurso especial fundadonas alíneas "a" e "c"do permissivo constitucional e que desafia acórdão assim ementado (e-STJ fls.689/690):
+PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. CONCESSÃO. ATIVIDADE URBANA. AUSÊNCIA DE INÍCIO DE PROVA MATERIAL. NÃO RECONHECIMENTO. ATIVIDADE ESPECIAL. MOTORISTA. ENQUADRAMENTO POR CATEGORIA PROFISSIONAL. INVIABILIDADE. REQUISITOS NÃO PREENCHIDOS. AVERBAÇÃO.
+Não havendo, nos autos, indícios de riqueza aptos a afastar a presunção decorrente da declaração acostada pela parte autora, deve ser concedido o beneficio da assistência judiciária gratuita.
+O tempo de atividade urbana deve ser demonstrado mediante a apresentação de início de prova material contemporânea ao período a ser analisado, complementada por prova testemunhal, na forma do artigo 55, § 3º,da Lei nº 8.213/91.
+A lei em vigor quando da prestação dos serviços define a configuração do tempo como especial ou comum, o qual passa a integrar o patrimônio jurídico do trabalhador, como direito adquirido. Até 28.4.1995 é admissível o reconhecimento da especialidade do trabalho por categoria profissional; a partir de 29.4.1995 é necessária a demonstração da efetiva exposição, de forma não ocasional nem intermitente, a agentes prejudiciais à saúde, por qualquer meio de prova; a contar de 06.5.1997 a comprovação deve ser feita por formulário-padrão embasado em laudo técnico ou por perícia técnica.
+O reconhecimento do caráter especial do labor exercido por motorista de caminhão ou de ônibus encontra respaldo no Decreto nº 53.831/64 (Código 2.4.4), Decreto nº 72.771/73 (Quadro II do Anexo) e Decreto nº 83.080/79 (Anexo II, código 2.4.2).
+Após a extinção da especialidade por enquadramento profissional, ainda é possível reconhecer a atividade de motorista de caminhão como especial, se houver prova de que era desenvolvida de forma penosa, perigosa ou insalubre.
+Se o segurado não atinge o tempo de labor, para fins de concessão de aposentadoria por tempo de contribuição, faz jus somente à averbação das atividades sob condições especiais com a aplicação do fator de conversão 1,4, judicialmente reconhecidas.
+Embargos de declaração rejeitados às e-STJ fls. 722/728e parcialmente acolhidos às e-STJ fls. 749/757, para esclarecer que:
+A ausência de conteúdo probatório válido a instruir a inicial, implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo a sua extinção sem o julgamento do mérito, nos termos dos artigos 485, IV, § 3º e 486, caput, ambos do CPC. Dessa forma, possibilita-se que a parte autora ajuíze nova ação, caso obtenha prova material hábil a demonstrar o exercício da alegada atividade urbana.
+.No recurso especial obstaculizado, a parte recorrente apontou,além de dissídio pretoriano,violaçãodos arts. 489, § 1º, VI e1.022,II,do CPC/2015, por negativa de prestação jurisdicional, quanto à validade da documentação apresentada (PPP).
+Nomérito, alegouafronta doart. 57 da Lei n. 8.213/1991, sustentando quedeve ser reconhecida a atividade exercida no período de 10/04/1984 a 10/02/1988 em razão do agente agressivo ruído, visto que,havendo divergência, oPPP emitido pela empresa (que comprova a exposição ao ruído acima do limite de tolerância)prevalece sobre o laudo pericial judicial.
+Quanto à alínea "c"do permissivo constitucional, sustentou que o acórdão recorrido deu interpretação divergente aoart. 55, § 3º, da Lei n. 8.213/1991, da que havia dado este Tribunal, ao argumento de, no período compreendido entre04/01/1997 e 31/08/2001,a CTPS deve ser reconhecida como início de prova material para comprovação do labor urbano exercido como motorista, conforme dispõe aSúmulas 577do STJ.
+Sem contrarrazões.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+De início, não merece acolhimento a pretensão de reforma do julgado por negativa de prestação jurisdicional, porquanto o acórdão impugnado apreciou fundamentadamente a controvérsia, apontando as razões de seu convencimento, não se vislumbrando, na espécie, nenhuma contrariedade da norma invocada.
+Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. 1. De acordo com a norma prevista no artigo 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material. 2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso. 3. "A ação rescisória não pode ser utilizada como sucedâneo recursal, visando à mera rediscussão do mérito da causa, dado seu caráter excepcional" (AR 5.696/DF, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 07/08/2018). 4. Embargos de declaração rejeitados. (EDcl na AR 5.306/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 14/08/2019, DJe 27/09/2019).
+No caso, o Tribunal a quo decidiu integralmente a controvérsia, concluindo que o laudo pericial produzido em juízo tem preponderância sobre o PPP apresentado, a saber(e-STJ fls. 725/727):
+Em relação à pretensão do reconhecimento do tempo de serviço em condições especiais no período de 10.04.1984 a 10.02.1988, cumpre ressaltar que dita questão restou examinada no aresto recorrido (evento 100,RELVOTO2):
+Períodos: 01.11.1981 a 08.03.1984 e 10.04.1984 a 10.02.1988.
+Empresas: Compag Comércio de Produtos Agrícolas Ltda. e Destilaria Americana S/A.
+Atividades/funções: motorista.
+Enquadramento legal: inexistência.
+Provas: CTPS (evento 1, OUT5, fl. 16) e perícia judicial (evento 87, LAUDOPERIC1, fl. 04)
+No particular, atestou expressamente a aludida perícia judicial:
+O autor no período de 01/11/1981 a 08/03/1984, 10/04/1984 a 10/02/1988,19/02/1988 a 23/01/1989, 03/11/1994 a 28/04/1995, exerceu a função de Motorista. Mas somente no período de 03/11/1994 a 28/04/1995, exerceu a função de Motorista de Caminhão do tipo "munck". No período de 01/11/1981 a 08/03/1984 foi Motorista executivo, dirigindo um veículo do tipo Belina, realizando trabalhos de escritório. No período de 10/04/1984 a 10/02/1988, foi Motorista de veículo do tipo "Kombi", onde realizava serviços de escritório e coleta de trabalhadores rurais.
+Conclusão: Não restou comprovado nos autos o enquadramento por presunção legal de categoria profissional, nos períodos antes indicados, conforme a legislação aplicável à espécie, uma vez que não foi caracterizado o desempenho de labor como motorista de ônibus ou de caminhão até a data de 28.04.1995.
+Além disso, não foi comprovado nos autos o exercício deatividades especiais pela parte autora, nos períodos antes indicados, em virtude da ausência da sujeição a agentes nocivos ensejadores da contagem especial.
+Por conseguinte, judicializada a questão, não se desincumbiu a parte autora do ônus de comprovar o fato constitutivo de seu direito, qual seja, o exercício propriamente dito da atividade como motorista de caminhão, na hipótese em apreço, nos termos do art. 373, I, do CPC.
+Conforme já mencionado nas premissas anteriores deste voto, até 28.4.1995, é possível o reconhecimento da especialidade do trabalho quando houver a comprovação do exercício de atividade enquadrável como especial nos decretos regulamentadores e/ou na legislação especial, ou quando demonstrada a sujeição do segurado a agentes nocivos por qualquer meio de prova, o que não restou comprovado na hipótese em comento.
+Com efeito, efetivamente pormenorizado nos autos a impossibilidade na espécie do enquadramento por presunção legal da categoria profissional da agropecuária, bem como a falta de comprovação da sujeição do segurado a agentes deletérios ensejadores da contagem especial.
+No caso, os argumentos apresentados pela parte autora não são capazes de infirmar as conclusões adotadas.
+Com efeito, a despeito de o formulário PPP referir a sujeição da parte autora ao agente nocivo ruído de 90 decibéis no período de 10.04.1984 a 10.02.1988 (evento 164, OUT2), cumpre ressaltar que a perícia judicial foi categórica ao concluir que no indigitado período o segurado, na condição de motorista de veículo do tipo "kombi", em que realizava serviços de escritório e coleta de trabalhadores rurais, não restou sujeição a agentes nocivos à saúde humana ensejadores da contagem especial.
+Outrossim, cumpre ressaltar que havendo eventual conflito entre os termos do formulário PPP e do laudo pericial, de regra, deverá o último preponderar.
+ ..
+Como visto, o acórdão originário está devidamente fundamentado, tendo sido precisa e exaustivamente demonstrada a ausência da especialidadepara a atividade desempenhada no período de 10.04.1984 a 10.02.1988.
+No mais, quanto ao período de04/01/1997 e 31/08/2001, o acórdão também entendeu não comprovada a especialidade da atividade de motorista exercida pelo autor, nos seguintes termos (e-STJ fls. 694/696):
+No presente caso, a parte autora pretende o reconhecimento do exercício da atividade urbana comum no período de 04.01.1997 a 31.08.2001 como motorista empregado do sr. Amauri José Gerônimo.
+Todavia, compulsando-se os autos verifica-se que não constaqualquer elemento que sirva especificamente como começo de prova material para o período em tela.
+A propósito, bem asseverou o magistrado singular (evento 159, SENT1):
+Do período de 04/01/1997 a 31/08/2001 laborado como motorista sem registro em CTPS:
+A parte autora requer o reconhecimento do exercício de atividade urbana, sem anotação em sua CTPS do seguinte período: 04/01/1997 a 31/08/2001.
+Afirma que desempenhou a atividade de motorista como empregado para o Sr. Amauri José Gerônimo.
+Para a comprovação da atividade, o autor juntou cópia de sua CTPS com registros imediatamente anterior e posterior ao período postulado.
+No mais a testemunha do autor confirmou suas alegações, contudo não há sequer um início de prova material, uma vez que todos são extemporâneos ao período postulado, pelo que apenas a prova testemunhal não se presta a comprovar a alegação da autora.
+Nesse sentido: (..)
+Assim, não havendo início de prova material do período, deixo de reconhecer o período de 04/01/1997 a 31/08/2001.
+Sendo assim, descabe o reconhecimento do tempo de serviço urbano comum no período de 04.01.1997 a 31.08.2001.
+Dessa forma, verifica-se que o Tribunal de origem decidiu a questão ora ventilada com base na realidade delineada à luz do suporte fático-probatório dos autos, cuja revisão é inviável no âmbito do recurso especial diante do óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APOSENTADORIA URBANA. SENTENÇA TRABALHISTA. ANOTAÇÃO CTPS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 07/STJ. INCIDÊNCIA.
+I - In casu, rever a conclusão do Tribunal de origem quanto ao preenchimento dos requisitos legais para a concessão do benefício previdenciário postulado, demandaria necessário revolvimento de matéria fática e probatória, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 07/STJ.
+II - O Agravante não apresenta, no regimental, argumentos suficientes para desconstituir a decisão agravada.
+III - Agravo Regimental improvido.
+(AgRg no AREsp n. 203.637/AL, relatora Ministra Regina Helena Costa, Primeira Turma, julgado em 16/6/2015, DJe de 26/6/2015.).
+AGRAVO INTERNO. PREVIDENCIÁRIO. PROCESSUAL CIVIL. REVISÃO DE APOSENTADORIA. AUSÊNCIA DE COMPROVAÇÃO DO TEMPO DE SERVIÇO URBANO. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. O Tribunal de origem, soberano na análise dos elementos de prova dos autos, concluiu que não foi demonstrado o exercício da atividade urbana, sem anotação em CTPS. Assim, o exame das alegações contidas no apelo especial esbarra no óbice da Súmula 7/STJ. Precedentes.
+2. Impende salientar que não procede o argumento de revaloração de provas. Ora se o Tribunal de origem reformou a decisão monocrática, fê-lo dentro de sua competência e por órgão colegiado. Não quer dizer que a sua avaliação do material fático-probatório esteja errada somente porque decidiu de maneira contrária à pretensão do agravante.Agravo interno improvido.
+(AgInt nos EDcl no AREsp n. 892.615/SP, relator Ministro Humberto Martins, Segunda Turma, julgado em 9/8/2016, DJe de 18/8/2016.).
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessaverba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
