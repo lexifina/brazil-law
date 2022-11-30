@@ -1,0 +1,33 @@
+DECISÃO
+MANOEL CARLOS SILVA VIRGINIO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0006044-36.2022.8.26.0496, em que foi mantido o reconhecimento de infração disciplinar grave.
+A Defensoria Pública assinala que o paciente deve ser absolvido da prática de falta grave, por não haver provas de sua participação nos fatos.
+O Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 182-186).
+Decido.
+Extrai-se dos autos que, em 6/6/2022, o Juízo da execução penal homologou falta disciplinar de natureza grave imputada ao ora paciente, consistente em "posse de substâncias entorpecentes, que foi introduzida no estabelecimento prisional por sua mãe" (fl. 57).
+O Tribunal a quo manteve o reconhecimento da falta grave nos seguintes termos (fls. 100-102, grifei):
+A análise do contexto probatório permite afirmar a responsabilidade do reeducando pelos fatos narrados na sindicância administrativa.
+Os agentes de segurança penitenciária Cesar Ricardo da Silva Ciqueto e Fernando Leopoldo Ramos narraram, em uníssono, que, no dia dos fatos, a visitante Maria Cecilia Silva Virginio, genitora do sentenciado, foi submetida à revista no equipamento de scanner corporal e o agente Fernando notou que havia um volume de aparência uniforme no interior do corpo dela.
+Ao ser questionada sobre a imagem, Maria admitiu que introduziu um pacote de drogas em seu ânus. Uma funcionária, então, acompanhou a genitora de MANOEL até uma sala reservada e lá ela retirou o invólucro. Após, foi constatado que esse invólucro continha substância esverdeada semelhante à maconha. Diante dos fatos, Maria foi conduzida à autoridade policial, enquanto o agravante foi encaminhado ao pavilhão disciplinar (páginas 24/25).
+MANOEL, ao ser ouvido na sindicância, acompanhado de Defensora, não concordou com a acusação e se reservou ao direito de se manifestar apenas em juízo (página 26).
+A análise do contexto probatório, portanto, permite afirmar que o agravante, em prévio conluio com sua genitora Maria, a persuadiu a trazer em suas partes íntimas as 13 porções de maconha apreendidas.
+Cumpre destacar, ainda, que os testemunhos dos agentes penitenciários são coerentes e harmônicos e não há nos autos qualquer indício de que tenham agido de forma abusiva ou para consciente e injusto prejuízo do agravante, anotando-se inexistir ilegalidade passível de ser declarada.
+Não é crível, ademais, que Maria tenha, por vontade própria e sem conhecimento do filho, trazido em seu corpo os entorpecentes, de sorte que deve ser afastado o pleito para o reconhecimento de violação ao princípio da intranscendência. Nada mais equívoco. Responde ele, que solicitou a droga, constrangendo sua mãe a trazê-la em seu corpo e responde ela.
+Como se observa, foi reconhecida falta grave em desfavor do paciente por ter ele, em tese, solicitado que sua companheira ingressasse no estabelecimento prisional com entorpecentes.
+A jurisprudência majoritária desta Corte é firme em assinalar que o reeducando não pode ser responsabilizado por conduta praticada por terceiro, de forma automática, sem suporte probatório mínimo que se permita concluir pela sua efetiva participação nos fatos, haja vista o princípio da personalidade (art. 5º XLV, da CF), que assume relevo tanto para o processo de conhecimento, quanto para a execução penal.
+O paciente não teve contato algum com o entorpecente e o Tribunal de Justiça não indicou prova de que ele solicitou ou tinha conhecimento da conduta de sua genitora. O vínculo afetivo não pode ensejar, por si só, o reconhecimento da autoria da falta grave. Ainda que sejam fortes as suspeitas que recaem sobre o reeducando, a ilação subjetiva, desamparada de qualquer outro sinal exterior que indique a provocação do fato e, portanto, sua participação no tráfico de drogas, é insuficiente para o reconhecimento da falta grave.
+Ilustrativamente:
+ ..
+1. O reconhecimento da prática de falta grave em razão, tão somente, de conduta praticada por visitante de estabelecimento prisional, sem a demonstração de elementos concretos que evidenciem o conluio do apenado recluso, viola o princípio constitucional da intranscendência (art. 5.o, inciso XLV, da Constituição da República), o qual preconiza que ninguém pode ser responsabilizado por ato praticado por terceira pessoa.
+2. No caso, a autoridade administrativa e os órgãos do Poder Judiciário concluíram que houve a prática de falta grave por parte do Paciente com base, unicamente, no fato de que a tentativa de introdução do aparelho de telefonia celular no estabelecimento prisional foi realizada por sua companheira/visitante. Em nenhum momento foram apresentados fatos ou provas capazes de demonstrar, concretamente, que o Apenado estava em conluio com a visitante ou que, ao menos, tinha conhecimento da tentativa de introdução do objeto no presídio.
+3. Agravo regimental desprovido.
+(AgRg no HC 567.191/SP, Rel. Ministra Laurita Vaz, 6ª T., DJe 3/6/2020)
+Embora seja grande a probabilidade de anuência do detento, sua responsabilização não pode derivar de mera intuição. Não houve registro de provas ou indícios que sinalizassem a prévia solicitação da encomenda pelo detento. A responsabilização por ato de terceiro está lastreada, exclusivamente, em conjectura não respaldada por elemento concreto a indicar a ciência ou a participação do reeducando na conduta de terceiro.
+Mutatis mutandis:
+ ..
+1. O princípio da personalidade, também conhecido como princípio da intranscendência penal, assume relevo tanto para o processo de conhecimento, quanto para o processo de execução penal.
+2. Por esse princípio, compreende-se que a pena não pode passar da pessoa do autor ou partícipe do crime. O raciocínio deve ser estendido para os casos em que se apura a prática de falta grave no âmbito da execução penal, em decorrência das implicações que sofrerá o condenado com a constatação do ato de indisciplina.
+3. Ainda que sejam fortes as suspeitas de que algum reeducando tenha solicitado a terceiros o envio, via correios, de aparelho celular, tal ilação, desamparada de outro elemento probatório concreto que indique a anuência com o ato de terceiro ou a solicitação da encomenda pelo preso, não se mostra suficiente para o reconhecimento da falta grave.
+4. Agravo regimental não provido.
+(AgRg no HC 723.120/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 16/3/2022)
+À vista do exposto, concedo a ordem, para cassar a decisão que reconheceu a prática de falta grave pelo paciente e afastar seus consectários legais.
+Publique-se e intimem-se.
