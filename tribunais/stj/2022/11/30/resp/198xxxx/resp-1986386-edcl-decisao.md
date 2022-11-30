@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de Embargos de Declaração, opostos por ALICE TERUKO TOMISHIMA HIGUTI e outros, contra decisão de minha lavra, que não conheceu do Recurso Especial interposto pela FAZENDA DO ESTADO DE SÃO PAULO.
+Inconformada, sustenta a parte embargante que:
+"(..) muito embora a r. decisão monocrática não tenha conhecido o Agravo em Recurso Especial interposto pela parte contrária, deixou de majorar os honorários advocatícios, conforme prevê o artigo 85, § 11, do Código de Processo Civil.
+Com efeito, o Tribunal a quo fixou os honorários advocatícios em 11% sobre a diferença entre as contas apresentadas, sendo de rigor, portanto, a majoração dos honorários advocatícios sucumbências, aplicando-se a norma imperativa do artigo 85, § 11, do CPC" (fl. 139e).
+Por fim, requer que "seja suprida tal omissão e, via de consequência, sejam majorados os honorários advocatícios, conforme previsto no artigo 85, § 11, do Código de Processo Civil" (fl. 139e).
+Intimada, a parte embargada deixou transcorrer in albis o prazo sem apresentar manifestação (fl. 147e).
+A irresignação não merece acolhida.
+De início, nos termos do art. 1.022 do CPC vigente, os Embargos de Declaração são cabíveis para "esclarecer obscuridade ou eliminar contradição", "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento" e "corrigir erro material".
+Não obstante a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum, em casos, justamente, nos quais eivado de obscuridade, contradição, omissão ou erro material. Não têm, pois, de regra, caráter substitutivo ou modificativo, mas aclaratório ou integrativo.
+In casu, quanto ao cerne do inconformismo recursal, ao contrário do que pretende fazer crer a parte embargante, a decisão está suficientemente fundamentada, não havendo falar em majoração de honorários advocatícios, tendo em vista que, não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+Nesse sentido, confira-se:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. INTERVENÇÃO DO ESTADO NA PROPRIEDADE. DESAPROPRIAÇÃO POR UTILIDADE PÚBLICA. LEVANTAMENTO DA OFERTA INICIAL. INCLUSÃO DO DEPÓSITO COMPLEMENTAR. POSSIBILIDADE. REALIZAÇÃO DE JUÍZO DE CAUTELA. FALTA DE DEBATE NA INSTÂNCIA ORDINÁRIA. CARÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DESCABIMENTO DE CONDENAÇÃO EM HONORÁRIOS RECURSAIS. JULGAMENTO INTERLOCUTÓRIO.
+1. O levantamento autorizado pelo art. 33, § 2.º, do Decreto-Lei 3.365/1941, abrange como base de cálculo tanto a oferta inicial quanto o depósito complementar feito em decorrência da elaboração de perícia provisória. Jurisprudência do STJ.
+2. Não cumpre o requisito do prequestionamento o recurso especial para salvaguardar a higidez de norma de direito federal não examinada pela origem, ainda mais quando inexistente a prévia oposição de embargos declaratórios. Súmula 211/STJ.
+3. No caso, inocorrente o debate sobre a necessidade de juízo de cautela fundado na diferença entre a oferta e o acréscimo depositado, e também na suposta impossibilidade futura de retorno do montante, em hipótese eventual de alteração da indenização.
+4. Não cabe a majoração de honorários recursais, com fundamento no art. 85, § 11, do CPC/2015, em recurso especial interposto contra acórdão de julgamento de agravo de instrumento que não ponha termo à demanda nem, portanto, fixe sucumbência na origem.
+5. Recurso especial conhecido parcialmente e, nessa extensão, não provido" (STJ, REsp 1.726.088/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 10/04/2018, DJe 16/04/2018).
+Diante desse contexto, observa-se que não há qualquer omissão, contradição, obscuridade ou erro material perpetrado pela decisão embargada.
+Ante o exposto, à míngua de vícios, rejeito os Embargos Declaratórios.
+I.
