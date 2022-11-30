@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por IVANI FERREIRA DOS SANTOS (IVANI) contra MARISA GATTI MOLLO (MARISA)contra decisão que negou seguimento ao seu apelo nobre manejado, por sua vez, contra acórdão da relatoria do Des. PEDRO DE ALCÂNTARA DA SILVA LEME FILHO, do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Apelação. Ação de extinção de condomínio e arbitramento de aluguel. Sentença de improcedência. Inconformismo da autora. Parcial cabimento. Imóvel em nome de terceiro. A parte tem o direito de requerer, a qualquer tempo, a divisão da coisa comum, com a consequente alienação judicial do bem, repartindo-se o produto na proporção de cada comunheiro. Necessidade prévia, porém, de que as partes detenham título de propriedade para, após, pleitearem a extinção e divisão do condomínio, o que inocorreu no caso. Possibilidade, contudo, de condenação ao pagamento de aluguéis pelo uso exclusivo do bem. Sentença anulada em relação a este capítulo, com retomada da instrução. Possibilidade jurídica do pedido ante eventual direito real de habitação da ré. Incidência apenas sobre o quinhão do falecido marido, não atingindo a meação da autora. Recurso parcialmente provido, com observação(e-STJ, fls. 286/291).
+Os embargos de declaração opostos por IVANI foram acolhidos parcialmente, sem efeitos modificativos(e-STJ, fls. 336/340).
+Irresignada, IVANIinterpôs recurso especial, com base no art. 105, inciso III, alínea a, da CF, em que apontou a violação dos arts.369,373 e 1.022 do Código de Processo Civil e 1.245,1.227, 1.319 e 1.791doCódigo Civil, sustentandoser imprescindível prova do direito de propriedade do imóvel objeto de condomínio no que toca àpretensão de arbitramento de locativo por suposto condômino, situação inexistente no caso,visto que a ora recorrida não detém título de propriedade enunca teve a posse do imóvel objeto da presente demanda e que pertence com exclusividade àora recorrente.
+Não consta dos autos nem apresentação de contrarrazões, tampouco certidão de decurso de prazo sem que se as tenham apresentado.
+O apelo nobre não foi admitido por ser considerado deserto:
+Apresentado o recurso sob a égide do CPC atual, foi a recorrente intimada a regularizar o recolhimento do preparo recursal nos termos do art.1.007, parágrafo 7º, do CPC, com a juntada da GRU de modo legível. Na impossibilidade, fora possibilitado o recolhimento do valor devido, em dobro, no prazo de 5 (cinco) dias, sob pena de deserção (§ 4º do mesmo dispositivo legal).
+Ineficiente a recorrente a determinação contida a fls. 344, conforme constatado com a análise da minuta a fls. 349/350, forçoso reconhecer a deserção, nos termos do art. 1.007 do CPC(e-STJ, fls. 351).
+Agora, emagravo em recurso especial, IVANIrebateu, a tempo e modo, todas as razões da decisão de inadmissibilidade recursal.
+É o relatório.
+DECIDO.
+Verifica-se que, apesar de devidamente intimada em 2/12/2020para juntar a GRUde modo legível, ou o pagamento em dobro do preparo, IVANIdeixou transcorrer o prazo sem manifestação, conforme certidão às,e-STJ, fls. 351, vindo a apresentar o comprovante somente em 6/2/2021.
+Sendo assim, merece ser mantida a decisão agravada, pois, conformepreconiza a jurisprudência desta Corte:Se a parte, mesmo após regularintimação, não comprova o recolhimento do preparo na forma devida ou odeferimento da gratuidade da justiça na origem, a preclusão é inafastávele o recurso especialdeve ser considerado deserto, nos termos do artigo1.007, § 4º do CPC (AgInt no AREsp 1.177.962/SP).
+Nesse sentido, vejam-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRREGULARIDADE NO PREPARO. INTIMAÇÃO PARA RECOLHIMENTO EM DOBRO. NÃO ATENDIMENTO. FALTA DE JUNTADA DA GUIA GRU COBRANÇA DE CUSTAS DO STJ. INTEMPESTIVIDADE DO RECURSO ESPECIAL.
+1. Na égide do CPC/2015, não havendo a comprovação do recolhimento do preparo no ato da interposição do recurso, após intimado, o recorrente deverá realizar o recolhimento em dobro, sob pena de deserção (art. 1004, caput e § 4º, do CPC).
+2. É deserto o recurso especial se a parte não comprova, adequada e tempestivamente, o recolhimento do preparo recursal, a despeito de haver sido regularmente intimada na forma do art. 1.007, § 4º, do CPC/2015.
+3. No caso, a parte recorrente, após intimada para o recolhimento do preparo em dobro, apresentou uma Guia local de recolhimento de porte de remessa e retorno em dobro, com seu respectivo comprovante de pagamento, não comprovando o recolhimento das custas judiciais devidas ao STJ, a serem recolhidas por meio de guia de recolhimento GRU Cobrança, nos termos do disciplinado pela Resolução STJ/GP nº 2 de 1/2/2017, em vigor à época da interposição do recurso especial.
+4. Descumprindo a norma no sentido de comprovar o respectivo preparo no ato de interposição do recurso e não atendendo a determinação legal de, após intimado, efetuar o recolhimento em dobro, é de rigor que à parte recorrente seja imposta a pena de deserção do recurso.Incidência da Súmula 187/STJ. Precedentes do STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp n. 1.862.794/PI, relator Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 9/5/2022, DJe de 11/5/2022)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREPARO RECURSAL.COMPROVAÇÃO NA FORMA DEVIDA. AUSÊNCIA. PRECLUSÃO CONSUMATIVA. DESERÇÃO.AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. Não logrando comprovar o recolhimento do preparo na forma devida, mesmoapós regular intimação, a preclusão é inafastável e o recurso especialdeve ser considerado deserto, nos termos do artigo 1.007, § 4º, doCPC/2015 e da Súmula 187 do Superior Tribunal de Justiça.
+2. Agravointerno a que se nega provimento.
+(AgInt no AREsp 1.166.717/SP, Rel. Ministro LÁZARO GUIMARÃES,Desembargador convocado do TRF 5ª Região, Quarta Turma, DJe 29/6/2018)
+Assim, o recurso especial é deserto.
+Nessas condições, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do CPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXTINÇÃO DE CONDOMÍNIO E ARBITRAMENTO DE ALUGUEL.FALHA NA PRESTAÇÃO DE SERVIÇO. PREPARO ILEGÍGEL. INTIMAÇÃO PARA REGULARIZAÇÃO.TRANSCURSO DO PRAZO. REGULARIZAÇÃO POSTERIOR. IMPOSSIBILIDADE. DESERÇÃO.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
