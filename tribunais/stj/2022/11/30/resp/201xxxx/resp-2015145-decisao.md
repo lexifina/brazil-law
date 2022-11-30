@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por KIKUTI GOTO CIA LTDA, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DESIGNAÇÃO DE LEILÃO. ATO SEM CONTEÚDO DECISÓRIO. DESPACHO DE MERO EXPEDIENTE. INADMISSÍVEL. RECURSO NÃO PROVIDO.
+1. O despacho agravado limitou-se a determinar a designação de datas para os leilões, dando normal curso ao processo executivo. Trata-se, portanto, de despacho sem cunho decisório a justificar a oposição de agravo de instrumento.
+2. No cenário desenhado neste agravo, o agravo de instrumento não deve ser conhecido, na medida em que nenhuma matéria foi devolvida ao exame do Relator ou da Turma, pois o Juízo de 1ª instância nada decidiu a respeito da alegada pendência de julgamento dos embargos à execução fiscal ou do valor do imóvel conforme avaliado pelo sr. Oficial de justiça, limitando-se a dar o regular impulso aos atos processuais.
+3. Agravo interno não provido" (fl. 928e)
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 931/938e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO - INOCORRÊNCIA DE QUALQUER DOS VÍCIOS DO ARTIGO 1.022 DO CPC/15 - O ACORDÃO EMBARGADO TRATOU SUFICIENTEMENTE DOS TEMAS DEVOLVIDOS À CORTE PELO RECURSO INTERPOSTO - INEXISTÊNCIA DE OMISSÃO - IMPOSSIBILIDADE DE DESVIRTUAMENTO DOS DECLARATÓRIOS PARA OUTRAS FINALIDADES QUE NÃO A DE APERFEIÇOAMENTO DO JULGADO - RECURSO IMPROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. O acórdão analisou devidamente os fundamentos do agravo interno, não havendo que se falar em omissão pela fundamentação sucinta ou por não ter o relator se manifestado expressamente acerca de todos os dispositivos legais apresentados pela parte em seu recurso. Afinal, o julgador deve enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+2. Não há que se falar, portanto, na existência de omissão a macular o julgado vergastado, tornando imperioso concluir pela manifesta improcedência deste recurso.
+3. Os aclaratórios não são meio de coagir o relator a esclarecer o seu próprio entendimento, ou aprofundar a sua fundamentação em linhas demasiadas,exigindo-lhe o posicionamento acerca de todos os dispositivos legais e teses elencados pela parte, que não aceita o resultado dado no julgado. O objetivo dos embargos de declaração é sanar vícios no julgado, vícios estes inexistentes no acórdão embargado.
+4. Nessa situação a embargante deve sofrer a multa de 2% sobre o valor da causa, corrigido pela Res. 267-CJF, conforme entende o plenário do STF (AR 2671AgR-ED, Relator(a): LUIZ FUX, Tribunal Pleno, julgado em 15/06/2018, PROCESSOELETRÔNICO DJe-124, DIVULG 21-06-2018, PUBLIC 22-06-2018- MS 36671AgR-ED-ED, Relator(a): MARCO AURÉLIO, Tribunal Pleno, julgado em 31/08/2020,PROCESSO ELETRÔNICO DJe-233, DIVULG 21-09-2020, PUBLIC 22-09-2020).
+5. Embargos de declaração rejeitados, com imposição de multa" (fl. 971/972e)
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora recorrente aponta, além do dissídio jurisprudencial, violação aos arts. 203, §2º, 300, 805,1.015, 1.022 e 1.206, § 2º,do CPC/2015, sustentando que seria cabível o agravo de instrumento interposto na origem, tendo em vista o caráter decisório da data para leilão do bem penhorado no feito executivo.
+Aduz, ainda, a necessidade de observância do meio menos gravoso de promover a execução, além de cancelar o leilão até o julgamento final dos embargos à execução.
+Por fim, pleiteia o cancelamento da multa aplicada, em virtude de seus aclaratórios não terem caráter protelatório.
+Contrarrazões a fls. 1.032/1.306e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 1.068/1.069e).
+A irresignação não merece prosperar.
+Na origem, trata-se de Agravo de Instrumento interposto pela parte ora recorrente, com o objetivo de reformar o despacho que designou datas para o leilão de bem de sua propriedade.
+O Tribunal local negou provimento ao recurso.
+Daí a interposição do presente Recurso Especial.
+No caso, verifico que o acórdão recorrido adotou entendimento consolidado nesta Corte, segundo o qualnão cabe recurso contra despacho sem conteúdo decisório, especialmente naquelas decisões que não acarretem prejuízo às partes.
+"PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. ALEGAÇÃO GENÉRICA. INCIDÊNCIA DA SÚMULA 284/STF. DESPACHO DE MERO EXPEDIENTE. AGRAVO DE INSTRUMENTO. NÃO CABIMENTO.
+1. A alegação genérica de violação do art. 535 do CPC, sem explicitar os pontos em que teria sido omisso ou contraditório o acórdão recorrido, atrai a aplicação do disposto na Súmula 284/STF.
+2. A jurisprudência desta Corte é firme no sentido de que, nos termos do artigo 504 do CPC, não é cabível recurso contra despacho sem conteúdo decisório, mormente nas hipóteses em que não acarrete qualquer prejuízo às partes. Precedente: AgRg na PET na AR 4.824/RJ, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 21/5/2014.
+3. In casu, o ato jurisdicional questionado trata-se de mero despacho que não causa prejuízo à parte ora recorrente, de modo que incabível o agravo de instrumento, como bem determinou o Tribunal de origem.
+4. Agravo regimental não provido. (AgRg no REsp 1417894/MG, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/09/2015, DJe 23/09/2015)"
+No mais, épacífico, no STJ, o entendimento no sentido de que a análise de alegada violação ao art. 1.026, § 2º, do CPC/2015, que trata damultapor interposição deEmbargos de Declaraçãoconsideradosprotelatórios,demanda reexame do acervo fático-probatório dos autos, o que é inviável, em Recurso Especial, por força daSúmula 7do STJ.
+Precedentes: STJ, AgInt no REsp 1.796.830/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 28/06/2019; AgInt no AREsp 1.180.510/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 25/06/2019; AgInt no AREsp 1.396.021/MS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 27/06/2019; REsp 1.802.785/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/06/2019; AgInt no AREsp 1.353.047/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 20/05/2019; AgInt no AREsp 1.362.610/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 13/05/2019.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+I.
