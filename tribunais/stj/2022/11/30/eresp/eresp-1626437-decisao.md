@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de embargos de divergência opostos por ERICA FERNANDES INDALÊNCIO, IRIA IDALENCIO, IRACEMA IRIA IDALENCIO E ILSON JOSE IRIA IDALENCIO contra acórdão da QUARTA TURMA, relatado pelo Ministro Marco Buzzi, e ementado nestes termos (fl. 2420):
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO RECURSAL - INSURGÊNCIA DOS DEMANDADOS.
+1. O conteúdo normativo dos dispositivos legais tidos por violados - artigos 505, II, 493; 495, 467 e 267, IV e VI, do CPC/73 - não foi objeto de exame pela instância ordinária, razão pela qual incide, na espécie, a Súmula 211 desta Corte.1.1. Consoante entendimento firmado por esta Corte, não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao artigo 1.022 do CPC/15, uma vez que é perfeitamente possível que o julgado se encontre devidamente fundamentado sem, no entanto, ter apreciado a causa à luz dos dispositivos suscitados pelo recorrente. Precedentes.
+2. No presente caso, observa-se que a convicção a que chegou o acórdão decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal no que se refere ao preenchimento dos requisitos para a procedência da ação rescisória (inexistência de erro de fato), demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte. Precedentes.
+3. Agravo interno desprovido."
+Ainda foram opostos embargos de declaração, que foram rejeitados consoante a seguinte ementa (fls. 2499-2500):
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO RESCISÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO RECURSAL - INSURGÊNCIA DOS EMBARGANTES.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do NCPC (art. 535 do CPC/73), o que não se configura na hipótese em tela, porquanto o aresto deste órgão fracionário encontra-se devida e suficientemente fundamentado. Inexistindo quaisquer das máculas previstas nos aludidos dispositivos, não há razão para modificar a decisão impugnada. Precedentes.
+2. O acórdão embargado não possui vício a ser sanado pela via dos embargos declaratórios, uma vez que esta eg. Quarta Turma, ao examinar a controvérsia, foi clara ao sustentar as razões do desprovimento do agravo interno interposto porquanto: i) o conteúdo normativo dos dispositivos legais tidos por violados - artigos 505, II, 493; 495, 467 e 267, IV e VI, do CPC/73 - não foi objeto de exame pela instância ordinária, razão pela qual incide, na espécie, a Súmula 211 desta Corte; ii) consoante entendimento firmado por esta Corte, não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao artigo 1.022 do CPC/15, uma vez que é perfeitamente possível que o julgado se encontre devidamente fundamentado sem, no entanto, ter apreciado a causa à luz dos dispositivos suscitados pelos embargantes; iii) a convicção a que chegou o acórdão decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal no que se refere ao preenchimento dos requisitos para a procedência da ação rescisória (inexistência de erro de fato), demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+3. Embargos de declaração rejeitados."
+Sustentam os Embargantes, em suma, dissídio jurisprudencial, na medida em que "o início do prazo decadencial da ação rescisória se dará apenas após o julgamento do último recurso interposto nos autos, ainda que trate de simples Admissibilidade,"mesmo quando a decisão tenha se limitado a negar seguimento a recursos especial e extraordinário" (AgInt no AREsp 978.895/SP, PRIMEIRA TURMA, julgado em 25/06/2019). Ou seja, independente de julgamento do mérito nele apontado" (fl. 2515).
+Alegam que (fl. 2516):
+"Nesse sentido, em confronto analítico, o v. acórdão embargado da 4ª Turma, é DIVERGENTE dos acórdãos do:
+- ERESP 1352730 / AM - CORTE ESPECIAL, DJe 10/09/2015
+- AGINT NO RESP 1691526/RJ - 1ª TURMA, DJe 18/08/2020;
+- RESP 1586629/RS - 3ª TURMA DJe 03/10/2019;
+- RESP 1781990/SP - 3ª TURMA, DJe 19/02/2019;
+- AGINT NO ARESP 978.895/SP - 1ª TURMA, DJe 1º/07/2019;
+- AR 4.961/SP - 1ª SEÇÃO, DJe 01/07/2019;
+- AR 4.316/RJ - 3ª SEÇÃO, julgado em 11/11/2015;
+- AGRG NA AR 5.256/SC, 1ª SEÇÃO, DJe 15/04/2019
+- AGRG NO RESP 1526235/SE - 3ª TURMA, DJe 09/12/2015;
+- EDAGEAG 1.218.222/MA, CORTE ESPECIAL, DJe 15.2.12
+- RESP 740530/RJ - 2ª TURMA, DJe 26/09/2012,
+- SÚMULA 401, CORTE ESPECIAL, DJe 13/10/2009."
+Requerem, pois, o acolhimento dos embargos.
+Proferi a decisão de fls. 2756-2758, admitindo, em exame prelibatório, o processamento dos embargos.
+NOSSA SAÚDE OPERADORA DE PLANOSPRIVADOS DE ASSISTÊNCIA À SAÚDE LTDA., oraEmbargada, apresentou contrarrazões às fls. 2763-2783, pugnando pelo não conhecimento dos embargos de divergência, com "aplicação da multa com base no § 2.º, do artigo 1.026, do CPC, e também a aplicação das sanções dos arts. 79 e seguintes." Também impugnou o pedido de justiça gratuita.
+É o relatório.
+Decido.
+A despeito do despacho inicial deferindo o processamento dos embargos, ao reexaminar a questão trazida, verifico que o recurso não preenche os requisitos de admissibilidade, em razão da ausência de similitude fático-processual entre os casos comparados.
+Vale, desde logo, ressaltar que"A Corte Especial do STJ já decidiu que, mesmo depois de ter deferido o processamento dos Embargos de Divergência, pode o Relator vir a negar-lhe conhecimento ou provimento monocraticamente, na medida em que a decisão que defere o processamento dos Embargos de Divergência o faz com base em um juízo sumário dos requisitos de admissibilidade, o que não impede o Relator de, posteriormente e em sede de cognição exauriente, rever seu entendimento anterior. Nesse sentido: STJ, AgRg no EREsp 1.068.449/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, CORTE ESPECIAL, DJe de 01/02/2013" (AgInt nos EDv nos EREsp 1472283/AL, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 03/12/2019, DJe 09/12/2019).
+Constata-se que a tese jurídica esposada pelos Embargantes espelha, de fato, a jurisprudência desta Corte, no sentido da necessidade de se aguardar a decisão do último recurso interposto, mesmo que adstrito a questão de admissibilidade recursal. Todavia, por certo, esse entendimento pressupõe que o acórdão rescindendo esteja na mesma linha recursal, o que não é o caso dos autos.
+O acórdão embargado, no ponto, consignou que (grifo nosso):
+"Consoante externado pelo v. acórdão recorrido, a ação rescisória foi ajuizada dentro do biênio legal do CPC/73, já que o acórdão rescindendo transitou em julgado em 16/08/2012 e a ação foi proposta em 10/09/2013.
+Além disso, não prospera a alegação dos agravantes de que o termo inicial deve contar-se a partir da decisão proferida pelo STJ. Isso porque, as alegações concernentes à execução das astreintes e de sua exorbitância - apontadas em agravo em recurso especial - não foram analisados por esta Corte Superior, uma vez que esbarraram em óbice de admissibilidade do recurso especial, de modo que não se operou o efeito substitutivo previsto no art. 512 do CPC/73, permanecendo incólume o acórdão do Tribunal a quo."
+De fato,o acórdão objeto da ação rescisória transitou em julgado em 16/08/2012-termo inicial do prazo decadencial -e refere-se ao julgamento da apelação n. 633.051-0 (fls. 876-889), na qual o Tribunal Justiça do Estado do Paraná decidiu pelaaplicação de astreintes por suposto descumprimento de decisão judicial.
+Depois do trânsito em julgado, foi dado início à execução da sentença, tendo a Executada apresentado exceção de pré-executividade, na qual foi postulada a redução do valor das astreites, ao fundamento de que poderiam ser revistas a qualquer tempo. O pedido foi indeferido pelo Juízo de primeiro grau, ensejando o manejo do agravo de instrumenton.983.487-1e, em seguida, o ARESP 528.562/PR, cujo trânsitoem julgado sobreveio em 03/03/2015.
+Ora, como se vê, o acórdão rescindendo diz respeito à fixação das astreintes, com trânsito em julgado em 2012. O incidente que se iniciou na execução da sentença transitada em julgado, cujo objeto era a revisão dasastreintes,não interfere na contagem do prazo para a ação rescisória da ação anterior.
+Não existe dissenso com os julgados apontados paradigmas, que não se debruçaram sobre a mesma situação fático-processual destes autos.
+No que se refere ao pedido da Embargada de imposição de multa e condenação dos Embargantes por litigância de má-fé, deixo de acolhê-lo, porque, por ora, não se constata abuso no direito de recorrer, tampouco litigância de má-fé. Amera defesa de tese improcedente, por si só, não implica deslealdade processual.
+Quanto à justiça gratuita, observa-se que o pedido já foi deferido pelo Tribunala quoà fl. 2138, e não foi objeto de revisão do acórdão embargado, razão pela qual não cabe, neste recurso, simples reexame da questão.
+Ante o exposto, NÃO CONHEÇO dos embargos de divergência.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. PRAZO DECADENCIAL. TERMO INICIAL. ACÓRDÃO RESCINDENDO QUE FIXOU ASTREINTES TRANSITADO EM JULGADO. SUPERVENIÊNCIA DE IMPUGNAÇÃO, NA FASE DE EXECUÇÃO, QUANTO AO VALOR DA MULTA.DESSEMELHANÇA ENTRE OS CASOS COMPARADOS. AUSÊNCIA DE DIVERGÊNCIA DE TESES JURÍDICAS. EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDOS.
