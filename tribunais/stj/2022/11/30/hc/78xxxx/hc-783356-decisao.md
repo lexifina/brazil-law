@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetradoem favor de VALDEMIR SILVA GOMES, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL.
+"APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS - RECURSODEVALDEMIR PRETENDIDA APLICAÇÃO D AMINORANTE DO PRIVILÉGIO - INCABÍVEL - REDUÇÃO DA PENA-BASE - EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAS NEGATIVAS - ALTERAÇÃO DO REGIME PRISIONAL - SEMIABERTO FIXADO - SUBSTITUIÇÃO DA PENA POR RESTRITIVAS DE DIREITOS - INCABÍVEL - RECURSO PARCIALMENTE PROVIDO.
+É inaplicável a minorante descrita no art. 33, § 4º, da Lei n.º11.343/2006 ao caso, uma vez que, embora o agente seja primário e não registre antecedentes, ele não atende ao requisito atinente à vedação de se dedicar à atividade criminosa.
+Verificado que a pena-base foi fundamentada de forma concreta e fixada em patamar necessário e suficiente para a prevenção e reprovação do delito, nãohá falar em redução.
+As circunstâncias judiciais da natureza e quantidade da droga, previstasno art. 42 da Lei n.º 11.343/2006, devem ser analisadas de maneira destacada, podendouma ou outra ser julgada desfavorável, a depender do exame do caso concreto, nãohavendo falar que atrelam-se intrinsecamente uma a outra, formando uma única moduladorapara fins de consideração por ocasião da dosimetria penal.
+Preenchidos os requisitos descritos no art. 33, § 2º, "b", e § 3º, CP, écabível a fixação do regime semiaberto.
+Incabível a substituição da pena por restritivas de direitos, se não preenchidos os requisitos contidos nos incisos I e III do art. 44 do Código Penal."
+Neste writ, buscaaimpetrante, em suma, que a redução da pena-base "com a neutralização das circunstâncias judiciais do artigo 42, da Lei 11.343/2006, qual seja, a quantidade da droga, eis que apreendida em quantidade ínfima (10 kg) e constituem moduladora única" (e-STJ, fls. 6-7).
+O Ministério Público Federal opinou pelo não conhecimento dohabeas corpus (e-STJ, fls. 1104-1109).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+O Tribunal de origem manteve a pena-base acima do mínimo legalsob os seguintes fundamentos:
+"(..) O embargante requer a prevalência do voto parcialmente vencidoproferido pelo i. Relator Des. Ruy Celso Barbosa Florence, queencaminhou voto no sentido de decotar da pena-base a "natureza" e a "quantidade da droga", por entender que os 10 kg (dez quilos) de maconha não são suficientes à exasperação.
+Pois bem. O Código Penal não estabelece contornos matemáticos ou regrasabsolutamente objetivas para a fixação da reprimenda, deixandoa dosimetria atrelada à discricionariedade do magistrado, quepara tanto deve guiar-se pelos princípios constitucionais da individualizaçãoe da proporcionalidade da pena.
+Embora não haja um critério definitivo para a quantificação da pena naprimeira fase da dosimetria, é certo que a discricionariedade conferidaao juízo deve sempre ser balizada pelos ideais desproporcionalidadee razoabilidade, de modo a prestigiar a aplicação de medidapunitiva que reflita com a maior precisão possível o grau de violaçãoao bem jurídico tutelado pela norma.
+Conquanto seja válida a fundamentação utilizada para o incrementoda pena-base, qual seja a quantidade da substância apreendida, revendo meu posicionamento anteriormente adotado, entendoque a natureza do entorpecente - maconha - não autoriza maior exasperação, de modo que merece parcial acolhida a pretensão do embargante.
+Pelo exposto, acolho em parte os presentes embargos infringentes, afim de que seja decotada a vetorial referente à natureza da droga, mantendo-seo patamar de exasperação por cada circunstância judicial."
+A individualização da pena é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, as instâncias ordinárias, atentas às diretrizes do art. 42 da Lei de Drogas, consideraram a naturezadrogas apreendidas (10kg de "maconha")para elevar a pena-base em 1anoacima do mínimo legal.
+Tendo sido apresentados elementos idôneos para a majoração da reprimenda básica, elencados inclusive como circunstâncias preponderantes, e levando-se em conta as penas mínima e máxima abstratamente cominadas ao delito de tráfico de drogas (5 a 15 anos), não se mostra desarrazoado o aumento operado pela instância ordinária, a autorizar a intervenção excepcional desta Corte.
+Confiram-se alguns julgados que respaldam esse entendimento:
+" ..  2. Em se tratando de crime de tráfico de drogas, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei 11.343/2006. No caso dos autos, a pena-base do paciente se afastou do mínimo com lastro na natureza da droga (crack), o que encontra amparo na jurisprudência desta Corte.
+ ..
+8. Habeas corpus não conhecido. Contudo, concedo a ordem, de ofício, para redimensionar a pena e fixar o regime semiaberto".
+(HC 471.413/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/10/2018, DJe 26/10/2018)
+"5. De acordo com o art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias do art. 59 do Código Penal e podem justificar a fixação da pena-base acima do mínimo legal, cabendo a atuação desta Corte apenas quando demonstrada flagrante ilegalidade no quantum aplicado.
+6. Hipótese em que as instâncias antecedentes, atentas às diretrizes do art. 42 da Lei de Drogas, consideraram a natureza da droga apreendida (cocaína) para fixar a pena-base acima do mínimo legalmente previsto.
+ ..
+11. Habeas corpus não conhecido.
+(HC 461.769/MS, de minha relatoria, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
